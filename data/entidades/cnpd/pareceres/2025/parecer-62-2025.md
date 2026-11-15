@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 62/2025
-official_date: '2025-10-21'
+official_date: null
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Ministério da Administração Interna'
-- 'Texto incompleto: 3 de 10 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 3 de 10 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,8 +70,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:47:21Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
@@ -164,8 +163,36 @@ Atributos certificados: Presidente - Comissão Nacional de Proteção de Dados
 ￼
 ￼
 
-￼
+DECLARAÇÃO DE VOTO
+Acompanho a conclusão do Parecer, mas entendo que se deveria fazer constar no mesmo de forma expressa que ao prever-se que o tratamento de dados se deveria processar no estrito respeito pelos direitos, liberdades e garantias das pessoas, em especial o direito à proteção dos dados pes-soais, não se pode esquecer o princípio da minimização dos dados pessoais.
+Segundo o princípio da minimização dos dados (art.º 4°, n.º 2, al.ª c), e 3 da Lei n.º 59/2019, de 08.08) os dados recolhidos devem ser adequados, pertinentes e limitados ao que é necessário relativamente às finalidades para as quais são tratados, devendo o responsável pelo tratamento adotar as medidas que lhe permitam comprovar que o tratamento de dados pessoais é realizado em conformidade com os princípios enunciados no número anterior. Este princípio aparece assim associado ao princípio da limitação (cf. limitados ao que é necessário).
+O prazo de conservação dos dados deve ser limitado ao mínimo: os dados pessoais apenas deverão ser tratados se a finalidade do tratamento não puder ser realizada de forma razoável por outros meios, pelo que «...o responsável pelo tratamento deverá fixar os prazos para o apagamento ou a revisão periódica, de modo que os dados sejam conservados apenas durante o prazo estritamente necessário.» (Ana Sofia Medeiros Melo, Regulamento Geral de Proteção de Dados - Um Novo
+Paradigma Regulatório, UC, p. 32, disponível em https://baes.uc.pt/handle/103 16/86570).
+- Podemos identificar três pilares:
+• adequação: impõe a circunscrição dos tratamentos aos dados pessoais que se enquadram nas finalidades prosseguidas. Os dados não relacionados ou inapropriados encontram-se, ab initio, excluídos;
+• pertinência: circunscreve as atividades dos responsáveis a tratamentos que possam contribuir para a prossecução dessas finalidades;
+• limitação: o tratamento apenas será juridicamente aceitável se não existir um método alternativo menos invasivo, por exemplo, a anonimização, ou pseudonimização. Da leitura da alínea c) do n.° 2 do art.º 4.° da Lei n.º 59/2019, de 08.08, resulta que os dados devem ser adequados, pertinentes não excessivos em relação às finalidades para que são recolhidos e posteriormente tratados. Nesta exigência de recolha não excessiva podemos identificar um princípio de proporcionalidade.
+Ora, nesta senda, o art.° 12.° da Lei n.º 59/2019, de 08.08, estatui o seguinte:
+Artigo 12.°
+Prazos para conservação e avaliação 1 - Os dados pessoais só podem ser tratados durante o período necessário para a prossecu-ção das finalidades da recolha, ou do tratamento posterior autorizado nos termos do artigo 7., findo o qual devem ser apagados, sem prejuízo da sua pseudonimização logo que as 2 - O responsável pelo tratamento avalia periodicamente a necessidade de conservar os dados pessoais tratados, de acordo com procedimentos internos adotados para esse efeito, 3 - A periodicidade de avaliação da necessidade de conservar os dados pessoais deve ser determinada em função das diferentes categorias de titulares de dados previstos no artigo 9.°, bem como da necessidade de conservação dos dados em causa para as finalidades do tratamento.
 
-￼
+4 - A decisão de conservar os dados pessoais por períodos adicionais ao prazo de conserva-ção original deve ser documentada, justificada e notificada aos titulares dos dados, sem prejuízo do disposto no artigo 16.° 5 - As autoridades competentes devem utilizar sistemas informáticos que facilitem a avali-ação periódica da necessidade de conservar os dados e o seu apagamento ou pseudonimi-zação, nomeadamente através de alertas e de medidas de proteção automáticas, tais como a limitação de acesso ou a ocultação dos dados.
+Ora, acontece que este artigo 12.º não se mostra implementado na prática, quer nos órgãos de polícia criminal, quer nos Tribunais, sendo necessária a decisão de adequação no que respeita ao regime legal brasileiro.
+Na verdade, o Regulamento de Conservação Arquivística dos Tribunais Judiciais e dos Tri-bunais Administrativos e Fiscais estabelecido pela Portaria n.º 368/2013, de 24 de dezembro (cf. Declaração de Retificação n.º 7/2014 - 1.ª Série), não foi desenhado para o processo eletró-nico, o qual só em datas mais recentes se tornou obrigatório no processo penal, num processo legislativo que culminou com a recente Portaria n.º 350-A/2015, de 09.10, que revogou a Portaria n.°280/2013, de 26.08, objeto de sete alterações legislativas e de revogação, como referido, sendo estas portarias omissas quanto a prazos de conservação de processos, até pela necessidade de um
+Regulamento.
+Assim, a referência a um princípio de minimização de dados não é exequível no contexto indi-cado, na vertente de limitação e proporcionalidade na conservação dos dados, sendo certo que sem um Regulamento específico para a tramitação digital não se vislumbra que um acordo bila-teral se possa constituir como instrumento jurídico suficiente para dar resposta a um princípio nuclear em matéria de proteção do bem jurídico em causa.
+Por outro lado, importa recordar que, mesma na área da investigação criminal, em que o Ministé-rio Público é a autoridade judiciária que detém a direção funcional das investigações, o certo é que os órgãos de polícia criminal trabalham em plataformas informáticas próprias, com regras próprias, num esquema de interoperabilidade ainda muito imperfeita, parecendo-nos até que essa interoperabilidade colide com a qualidade do Ministério Público como entidade detentora da di-reção funcional da investigação, o que nos parece impor, até por comando constitucional, uma plataforma única nesta sede da investigação de inquéritos-crime que reflita essa realidade.
+Não existindo uma plataforma única, no esquema atual, a informação recolhida nas investigações, existente e conservada nas plataformas informáticas dos OPC, deveria de estar indexada ao resul-tado final (cf. arquivamento ou acusação e, neste caso, não pronúncia/pronúncia, condenação/ab-solvição), pois é ele que define o ponto de partida da contagem dos prazos de preservação digital.
+Isso não acontece, a não ser por cuidados acrescidos dos OPC por insuficiência de interconexão.
+Ou seja, não só é necessário garantir o estrito cumprimento do art.º 12.º da Lei n.º 59/2019, de 08.08, nos tribunais, como também se impõe o seu cumprimento nas plataformas dos OPC.
+Sem um Regulamento de preservação digital abrangente, a modalidade de conservação da infor-mação assenta hoje numa conservação global da informação nas plataformas eletrónicas, com mera anotação de processo destruído no processo eletrónico, quando a destruição se refira a pro-cesso físico, numa lógica paradoxal que viola o art.° 12.º da Lei n.º 59/2019, de 08.08.
+O acordo bilateral não é um instrumento jurídico vinculativo habilitado a suprir tais problemas de falta de implementação de uma verdadeira proteção de dados.
+Convém citar jurisprudência do Tribunal Europeu dos Direitos Humanos, uma vez que no Proto-colo se referem direitos fundamentais e necessidade de os mesmos serem respeitados (implemen-tados).
 
-￼
+No Acórdão do Tribunal Europeu dos Direitos Humanos de 04/12/2008 (Queixas n.°s 30562/04 et 30566/04; Marper), o TEDH considerou que a retenção indefinida das impressões digitais, amostras de células e perfis de ADN era desproporcionada e desnecessária numa sociedade de-mocrática, considerando que o processo penal tinha terminado com uma absolvição:
+«125. O Tribunal considera que a natureza geral e indiferenciada do poder de retenção de impressões digitais, amostras biológicas e perfis de DNA de pessoas suspeitas de terem cometido crimes, mas não condenadas, conforme aplicado aos requerentes no presente caso, não reflete um equilíbrio justo entre os interesses públicos e privados concorrentes em jogo, e que o Estado demandado excedeu qualquer margem de apreciação permitida nesta área. Portanto, a retenção impugnada constitui uma interferência desproporcional no direito dos requerentes ao respeito pela sua vida privada e não pode ser considerada necessária numa sociedade democrática... [...].
+126. Consequentemente, houve uma violação do artigo 8.° da Convenção no presente caso.»
+No Acórdão do TEDH de 06/06/2006 SEGERSTEDT-WIBERG ET AUTRES c. SUÈDE;
+(Queixa no 62332/00), o TEDH constatou uma violação do art.° 8.° da CEDH uma vez que o armazenamento contínuo de dados não era pertinente, devido ao longo período decorrido (cf.
+ingerência desproporcionada no exercício do direito ao respeito pela vida privada).
+Em suma, o Protocolo é intempestivo também por estas razões.

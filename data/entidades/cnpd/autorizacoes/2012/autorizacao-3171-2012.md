@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Angulos Sucessivos Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,102 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:46:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3171/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44183](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44183).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. nº 1762/12
+AUTORIZAÇÃO Nº 317 | /2012
+I - O Pedido 1. A Ângulos Sucessivos, Lda. veio notificar o tratamento de videovigilância a realizar nas instalações. (Rua Nova de Vilar, Armazém 6, 3810-196 Aveiro)
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 3 câmaras na entrada/recepção e sala de aula.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD) elaborou o projecto de autorização de 05 de Março de 2012, no sentido de não autorizar a recolha de imagem no interior da sala de aula, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 6222, de 12 de Março de 2012, nos termos e para os efeitos do disposto no artigo 100.º do Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projecto, sustentando, em síntese que: Devido ao trabalho de ensino de Dança Contemporânea que se realiza nesta sala, sob a orientação da nossa Professora Directora Artística e
+Sócia Gerente da empresa Ângulos Sucessivos, Lda., Lara Pereira, foi a pedido expresso da mesma que se decidiu a instalação do referido equipamento, com a importância vital de servir como instrumento de trabalho nas aulas e ensaios, ao permitir o uso das imagens para o próprio desenvolvimento das actividades, através da visualização e correcção dos movimentos corporais e coreografias dos alunos, quer pela professora quer pelos próprios alunos.(...)
+Esta sala é igualmente um possível ponto de intrusão nas nossas instalações
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS com acesso directo a equipamentos de valor elevado, contribuindo por isso a câmara para a segurança».
+II - Análise
+Através da deliberação nº 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação dar condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.9 nº. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.º e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, admite-se que sejam utilizados estes meios de prevenção na área abrangida com vista à protecção de pessoas e bens nos diversos edifícios. Trata-se da colocação de sistemas de recolha de imagem em zonas de circulação de pessoas.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legitima que corresponde a um interesse público relevante. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+() Disponível in http://www.cnpd.pt/orientacoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.º n.º 1 al.
+c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.º do Código do Trabalho (*).
+A recolha de imagens deve confinar-se aos espaços interiores do estabelecimento e não pode envolver a recolha de imagens na via pública ou espaços exteriores ao perímetro da empresa.
+Não se autoriza a recolha de imagens no interior da sala de aula, já que tal permite ao responsável um controlo desproporcional na privacidade e mesmo na liberdade de movimentos de quem se encontra naquele local, pelo que as câmaras devem ser retiradas.
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que não se devia autorizar a recolha de imagens na zona supra referida, pois essa captação de imagens mostrava-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento, pelo que as referidas câmaras deviam ser retiradas.
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+No entanto, a entidade requerente veio aos autos sustentar, em suma, que as câmaras são necessárias como instrumento de trabalho para o desenvolvimento de actividades artísticas. A entidade refere ainda que a sala de aula é um local passível de intrusão com acesso directo a equipamentos de valor elevado justificando, assim, a necessidade de colocação de câmaras no interior da sala de aula.
+Acontece que a CNPD continua a entender que a recolha de imagens no interior da sala de aula de afigura desproporcionada e excessiva face à finalidade permitida pela lei.
+A CNPD adverte que a videovigilância tem como finalidade única prevista na lei a protecção de pessoas e bens pelo que as necessidades artísticas não estão aqui contempladas.
+Assim sendo, a CNPD mantém o entendimento vertido no projecto de autorização entretanto emitido, proibindo a recolha de imagens no interior da sala de aula.
+Face à possibilidade de intrusão e existência de materiais de valor elevado, a
+CNPD admite a recolocação de câmara para que se capte apenas o acesso à sala de aula, sem que se capte nunca o seu interior.
+III - Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 7.9 n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Ângulos Sucessivos, Lda.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 4
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelos responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de imagem com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem» (Art.º13.° n.º3 do Decreto-Lei n.º35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.9 n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 5
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a actividade laboral (cf. artigo 20.º do Código do Trabalho).
+9. A recolha de imagens deve confinar-se aos espaços interiores do estabelecimento e não pode envolver a recolha de imagens na via pública ou espaços exteriores ao perímetro da empresa.
+10. Não se autoriza a recolha de imagens no interior da sala de aula já que tal permite uma intromissão desproporcionada na liberdade de movimentação e mesmo na privacidade de quem se encontra naquele local, pelo que as câmaras aí instaladas devem ser retiradas.
+11. Contudo, a CNPD admite a recolocação de câmara para que se capte apenas o acesso à sala de aula, sem que se capte nunca o seu interior.
+Lisboa, 16 Abril 20121
+Ana Roque, Carlos Lobo, Helena Delgado António, Vasco Almeida (Relator), Luís
+Barroso, Luís Paiva de Andrade •
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 6
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

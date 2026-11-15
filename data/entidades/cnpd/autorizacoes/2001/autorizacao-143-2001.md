@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 143/2001
-official_date: null
+official_date: '2001-09-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO DE PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:05:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 143/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9978](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9978).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 518/99
+AUTORIZAÇÃO N.º 143/2001
+O Banco de Portugal vem notificar a CNPD da recolha de imagens com vista à segurança das instalações e protecção de pessoas e bens.
+As imagens são recolhidas por 631 câmaras (471 móveis), sendo feita a consequente gravação. As imagens gravadas são conservadas por um período de 30 dias. As imagens só poderão ser utilizadas nos termos previstos na lei.
+A recolha e tratamento de dados faz-se nos termos da lei (DL 231/98, de 22 de Julho), sendo necessário assegurar o direito de informação, nos termos estabelecidos no artigo 12.º n.º 3 do referido diploma, através da inclusão de avisos - em locais bem visíveis - com o seguinte texto: «Para sua protecção este local encontra-se sob vigilância de um circuito fechado de televisão».
+No prazo de 30 dias, o Banco de Portugal deverá informar esta Comissão da afixação destes avisos (cf. ponto n.º 12 do formulário).
+Verificado este requisito, a CNPD autoriza o tratamento (cf. art. 4.° n.º 4, 27.° n.º 1, 28.° n.º 1 al. a) e 29.° da Lei 67/98, de 26 de Outubro), consignando-se o seguinte:
+1. Responsável: Banco de Portugal 2. Categorias de dados pessoais tratados: gravação de imagem em 13 edifícios (Sede, Ed. Portugal, Complexo do Carregado, Filial do Porto, Delegações
+Regionais do Funchal e Ponta Delgada, Agências de Braga, Vila Real, Viseu,
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Coimbra, Castelo Branco, Évora e Faro) nos locais indicados nos anexos 1 e 2 à declaração apresentada.
+3. Finalidade: segurança das instalações e protecção de pessoas e bens, nomeadamente para vigilância das zonas de acesso do público, de carga/descarga de valores e Casas Fortes.
+4. Entidades a quem podem ser transmitidos: não há transmissão de dados. Os dados só podem ser utilizados «nos termos da lei penal».
+5. Forma de exercício do direito de acesso e rectificação: por solicitação escrita à
+Administração do Banco.
+6. Eventuais interconexões: não há.
+7. Transferências de dados para países terceiros: não há.
+8. Prazo de conservação: 30 dias
+Lisboa, 18 de Setembro de 2001
+Luís Barroso (relator)
+Catcuinefamentelastos
+Catarina Castro
+Auden
+Amadeu Guerra
+Mario Varges Gomes
+Luís Lingnau da Silveira (o Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

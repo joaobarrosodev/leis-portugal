@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4139/2016
-official_date: null
+official_date: '2016-05-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Centro Hospitalar de Lisboa Central, EPE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,86 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T14:22:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4139/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/90205](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/90205).
+Processo N.º 5712/2016 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.° 4/39 12016
+I. Pedido
+Centro Hospitalar Lisboa Central - Hospital São José (Serviço de Urologia) notificou à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo intitulado "Custo efetividade do citrato de potássio na prevenção de eventos por litíase em doentes submetidos a nefrolitotomia percutânea.
+Trata-se de um estudo cujo objetivo consiste em demonstrar que a utilização de citrato de potássio previne a formação de cálculos em doentes de alto risco, diminuindo a utilização dos serviços de urgência, de terapêutica cirúrgica subsequente e da necessidade de internamento.
+Os participantes no estudo serão doentes de alto risco de recidiva litiásica, com idades compreendidas entre os 18 e os 65 anos, submetidos a nefrolitotomia percutânea no serviço de Urologia do Hospital de São José.
+Os dados serão recolhidos num "caderno de recolha de dados" no qual não há identificação nominal do titular, sendo aposto um código. A chave desta codificação só pode ser conhecida da equipa de investigação.
+As categorias de dados pessoais tratados são as seguintes: N.º de identificação, raça, sexo, idade, peso, altura; relatório clínico do doente sobre a nefrolitíase dos últimos 2 anos (duração, n° médio de episódios por ano de cólica renal, n° consultas, absentismo laboral, dias de internamento e cirurgias realizadas por litiase renal);
+informação sobre a nefrolitotomia percutânea (localização e dimensão dos cálculos, dados pré-operatório, peri-operatório e pós-operatório 1° e 2° dia); informação sobre o pós-operatório (1 mês, 3 meses, 6 meses e 12 meses).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.º° 5712/2016 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+II. Apreciação
+A CNPD já se pronunciou na sua Deliberação n.º 1704/2015 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei 67/98, de 26 de outubro, com as alterações da Lei n.º 103/2015, de 24 de agosto (LPDP), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos de investigação na área da saúde.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, alínea a), da LPDP)
+para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular (cf.
+artigo 7.°, n.° 2, da LPDP).
+Os titulares dos dados, previamente ao consentimento (que deve ser informado, livre, expresso e específico), deverão ser informados sobre a natureza, o alcance, as consequências e os riscos do estudo, bem como o direito de se retirar do mesmo, sem quaisquer consequências (cf.alínea j) do artigo 2.° da Lei n.º 21/2014, de 16 de abril).
+No que respeita a recolha do dado raça, o responsavel apresentou a seguinte justificação:
+«A litíase urinária é uma doença com uma prevalência significativa, que tem vindo a aumentar nas últimas décadas e que apresenta algumas variações dependendo da raça ou etnia do doente.
+Foi realizado na China, um estudo que teve como objetivo analisar as variações na composição do cálculo renal entre Uyghur e Han, duas etnias chinesas. O estudo decorreu num hospital em Xinjiang, em que foram analisados componentes de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.º 5712/2016 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS cálculos renais de 317 adultos (152 Uyghur e 165 Han) com litíase urinária internados entre Março de 2009 e Junho de 2011. Também foram analisados os dados clínicos, incluindo a idade do doente, sexo, distribuição geográfica, exames de sangue e testes de urina. Os resultados indicaram diferenças significativas entre os dois grupos de doentes, ao nível da idade, distribuição geográfica, concentrações séricas de ácido úrico, potássio e fósforo, concentrações de magnésio na urina, volumes/24h de urina, e nos componentes referentes ao cálculo renal. Com base neste estudo podemos concluir que há diferenças na composição dos cálculos renais, entre estas duas etnias da China.
+Segundo: 1. Anderson CAM, Ms MPH, Coresh J. Correlates of kidney stone disease differ by race in a multi-ethnic middle aged population : The ARIC Study.
+2011,51(5):416-20.
+O estudo ARIC, foi um estudo realizado nos Estados Unidos, com o objetivo de identificar correlações da litíase urinária em indivíduos brancos e afro-americanos em homens e mulheres, provenientes de quatro comunidades norte-americanas. 12,161 (doze mil, cento e sessenta e um) participantes de meia-idade no estudo ARIC deram informações para a história da litíase urinária entre 1993-1995. As informações sobre hospitalizações relacionadas com cálculos renais foi obtida através dos registos de alta hospitalar. A partir dos resultados foi feita uma análise estratificada por raça, que demonstrou haver uma forte associação da litíase urinária com o aumento de triglicerídeos, idade mais avançada e colelitíase, em afro-americanos comparando com os indivíduos de raça branca.
+Segundo: 2. Anderson CAM, Ms MPH, Coresh J. Correlates of kidney stone disease differ by race in a multi-ethnic middle aged population : The ARIC Study.
+2011;51(5):416-20».
+Tendo em conta o teor da justificação a, entende a CNPD que é legítima a recolha e tratamento do dado raça.
+III. Decisão
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.º 5712/2016 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a), e 30.° da LPDP, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Centro Hospitalar Lisboa Central - Hospital São José (Serviço de Urologia);
+Finalidade: estudo intitulado Custo efetividade do citrato de potássio na prevenção de eventos por litíase em doentes submetidos a nefrolitotomia percutânea.
+Categoria de Dados pessoais tratados: N.º de identificação, raça, sexo, idade, peso, altura; relatório clínico do doente sobre a nefrolitíase dos últimos 2 anos (duração, n° médio de episódios por ano de cólica renal, n° consultas, absentismo laboral, dias de internamento e cirurgias realizadas por litíase renal); informação sobre a nefrolitotomia percutânea (localização e dimensão dos cálculos, dados pré-operatório, peri-operatório e pós-operatório 1° e 2° dia); informação sobre o pós-operatório (1 mês, 3 meses, 6 meses e 12 meses);
+Entidades a quem podem ser comunicados: Não há;
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente;
+Interconexões de tratamentos: Não há;
+Transferência de dados para países terceiros: Não há;
+Prazo de conservação: o código do titular deve ser destruído no prazo de 5 anos após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 1704/2015 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 3 de maio de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

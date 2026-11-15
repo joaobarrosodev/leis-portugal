@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 725/2006
-official_date: null
+official_date: '2006-06-27'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO DE INFORMATICA E ESTATISTICADA SEGURANÇA SOCIAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 8 de 8 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,120 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:02:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 725/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5302](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5302).
+кої.
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo 1860/06
+AUTORIZAÇÃO N° 725 12006
+L.RELATORIO 1. O Instituto de Informática e Estatística da Segurança Social, em conjunto com o Instituto de Gestão Financeira da Segurança Social e o Instituto da Segurança Social, vieram requerer autorização a esta CNPD para efectuar o tratamento de dados que pretende implementar, quanto à publicitação das listas de devedores perante a Segurança Social, a que se reportam os arts° 64/n°s 5 e 6 da LGT e 45° da Lei 60-A/2005 de 30
+Dez.;
+2. A finalidade do tratamento consiste na organização e divulgação das listas de devedores perante a Segurança Social, nos termos do plasmado nos arts° 64°/n°s 5 e 6 da LGT e 45° da Lei 60-A/2005 de 30
+Dez;
+3. Os dados contidos em cada registo são o número de identificação fiscal, o nome ou designação e o escalão da dívida;
+4. Na organização das listas ter-se-á em conta que delas apenas podem constar situações em que estão em causa dívidas tributárias, que a dívida se encontra em processo de execução fiscal e uma vez decorrido o prazo legal de oposição do executado (30 dias a contar da citação), em que houve citação pessoal;
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 5. Não são passíveis de divulgação as dívidas tributárias em processo de execução fiscal que:
+estejam a ser pagas em prestações;
+• os devedores tenham deduzido reclamação, impugnação, acção administrativa especial prevista no CPTA ou se tenham oposto à execução e obtido a suspensão do processo de execução fiscal, mediante prestação ou dispensa de garantia, até à formação do caso resolvido ou trânsito em julgado;
+os devedores tenham requerido a autorização do pagamento em prestações, ou a prestação ou a dispensa de garantia em virtude de reclamação ou impugnação, até à decisão do requerimento e o subsequente pagamento da primeira prestação, ou ao termo do prazo fixado para prestação da garantia ou ao indeferimento do pedido da sua dispensa;
+os devedores tenham pedido a dação em pagamento de quaisquer bens, até à decisão e posterior concretização do pedido de dação;
+os devedores estejam abrangidos por processo de insolvência ou procedimento extrajudicial de conciliação requerido e admitido nos termos da lei;
+• não tenha ocorrido citação pessoal e, no caso de ter sido esta efectuada, não haja decorrido o prazo de oposição, de 30 dias.
+6. Há actualização mediante audição prévia do contribuinte, sobre a exactidão dos dados a publicitar, de forma automática após a regularização da dívida, bem como por iniciativa do contribuinte junto dos serviços;
+7. A audição prévia do contribuinte sobre a publicidade dos dados, a levar a cabo pela Segurança Social, será feita por via de carta registada, onde
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS o mesmo é convidado a, no prazo de 10 dias, se pronunciar sobre a proposta de inclusão nas ditas listas a divulgar publicamente;
+8. A entidade encarregue do processamento da informação é o Instituto de
+Informática e Estatística da Segurança Social, I.P. e não existe comunicação de dados nem interconexões;
+9. Os dados são conservados durante o tempo necessário para a prossecução dos fins a que se destinam, tendo por limite o prazo máximo de prescrição legalmente aplicável, sendo que há publicitação até à regularização da respectiva dívida;
+10.0 titular pode conhecer, corrigir e eliminar os seus dados, pela Internet (conhecer) ou pessoalmente (conhecer, corrigir e eliminar).
+II.APRECIAÇAO a) O Direito
+Por via do Parecer 38/2005, a CNPD emitiu a sua avaliação sobre o projecto de diploma - Orçamento Geral do Estado - que alterou o art° 64° da Lei Geral
+Tributária, consagrando a possibilidade de divulgação de listas de contribuintes cuja situação tributária não se encontre regularizada e aí foram sublinhadas "as falhas" a ultrapassar.
+Surge cristalino, crê-se, do próprio diploma legal que se acaba de citar, que a informação sobre a geral situação contributiva do cidadão integra o conceito de intimidade da vida privada e, como tal, está protegida pelo segredo fiscal e, concomitantemente, cai no âmbito da protecção expressa nos arts° 26° e 35° da CRP.
+Nesta medida, estando em presença de informação que contende com a intimidade da vida privada, com a reserva mais pessoal de cada indivíduo, a libertação do sigilo a tal respeitante deve constar expressamente da lei e
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS "limitar-se ao necessário para salvaguardar outros direitos ou interesses constitucionalmente protegidos - cfr art° 18° da CRP.
+Surge assim inquestionável que as medidas restritivas devem ser proporcionais ao fim visado, corresponder a um motivo social imperioso ou a motivos pertinentes e suficientes, ser as menos gravosas das disponiveis e corresponder a um justo equilíbrio entre o interesse público e a vida privada.
+Colhe ainda salientar que em matéria de informática vigora por princípio a proibição de acesso a dados pessoais de terceiros, salvo casos excepcionais previstos na lei, sendo que a informática "...não pode ser utilizada para tratamento de dados pessoais relativos à (...) vida privada (...) salvo mediante consentimento expresso do titular, autorização prevista na lei com garantias de não discriminação ou para processamento de dados estatísticos não individualmente identificáveis - art° 35/n°s 3 e 4 da CRP.
+Adite-se ainda que os arts° 7/n°2 e 28/n°1 al. a) da Lei 67/98 de 26 Out., apontam para critérios apertados para tratamento de dados pessoais relativos à vida privada, pondo assento tónico na ponderação de interesse público importante, indispensabilidade para o exercício de atribuições legais ou estatutárias ou existência de consentimento por parte do titular.
+Nesta medida, aquando do exame das condições deste tipo de tratamento pela entidade responsável, importa dar especial enfoque a:
+• pertinência e princípio da proporcionalidade - art° 5/nº1 al.c) da Lei 67/98 de 260ut;
+• condições de legitimidade - arts° 7° e 8/n°2 da Lei 67/98 de 26 Out.
+Serão estes os aspectos a ponderar.
+b) O Caso
+Ressalta desde logo que o tratamento de dados em causa, apelando à delimitação da situação tributária do contribuinte e ao apuramento da sua
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS situação patrimonial, com vista à liquidação e cobrança dos respectivos impostos visa claramente, combater a fraude fiscal e, bem assim, as dívidas à segurança social, reforçando deste modo que todos os cidadãos contribuam para satisfazer as necessidades financeiras do Estado e de outras entidades públicas, conforme os seus rendimentos, ou seja, todos e proporcionalmente participem no bem público comum.
+Perante a finalidade adiantada "in casu" e, bem assim, o modo técnico, em geral, como a mesma se pretende alcançar e o tempo proposto para a conservação dos dados, crê-se ser de afirmar que o tratamento é adequado, pertinente e proporcional, como o reclama o art° 5/n°1 al.c) do diploma que se vem referindo.
+Existe a possibilidade de conhecer, corrigir e eliminar os dados.
+Na verdade, pretende-se assegurar que todos os cidadãos contribuam para o erário público, sendo certo que se está perante a Segurança Social que, directa ou directamente a todos respeita, na medida e em função dos seus rendimentos, devendo os relapsos, porque desviando-se das regras da vida moderna em sociedade, sendo certo que da mesma desfrutam, ser alertados para os deveres a cumprir.
+Acresce que, o uso desta via pretende diminuir/dissuadir a fuga aos deveres de contribuição para o bem comum que sobre todos impendem, sempre com o conhecimento e participação prévios das pessoas em causa, mediante um contacto por carta registada e com a protecção dos seus fundamentais direitos, dada a existência de possibilidade de acederem/conhecerem e eliminarem os dados que a si respeitem.
+Mostram-se acauteladas, com alguma exaustão, várias situações que por não serem pacíficas, estão "ab initio" excluídas de enumeração nas listas.
+Contudo, aspectos há que necessitam de algum aperfeiçoamento/melhor explicitação de molde a salvaguardar os direitos das pessoas, mormente a imagem, bom nome e reputação.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Desde logo não se esclarece de modo claro se e como se faz a eliminação do nome do contribuinte que regularize a sua situação, o que se impõe seja imediato.
+Igualmente não se consagram alternativas/soluções para as situações em que a carta de contacto do pretenso infractor, para se pronunciar sobre a sua inclusão na lista de devedores, seja devolvida ou se o mesmo não perceber o seu conteúdo e alcance (o que não é de todo impossível perante a taxa de analfabetismo que ainda grassa neste pais).
+Na verdade, nesta última situação, deve a Administração socorrer-se de mecanismos de mais fácil, imediata e abrangente comunicação e esclarecimento, como por exemplo a publicidade nos meios televisivos e radiofónicos, de molde a tentar-se outra via de dar conhecimento às pessoas.
+Fica também por garantir na solução proposta, o que deverá ser resolvido, o eventual uso desta listagem noutras listas de maus pagadores e as soluções que a Administração pretende implementar para proteger os cidadãos de tal e, bem assim, de algum lapso de inclusão que possa existir.
+Ponderando todo o expendido, é de concluir que, no caso vertente, os direitos, liberdades e garantias dos titulares devem ceder, na estrita medida do alcance da finalidade em causa, perante o interesse do responsável/requerente e, desde que solucionados os aspectos supra salientados.
+!||.DECISÃO
+Nestes termos, pelo exposto, decide-se considerar como legítimo o tratamento notificado e consequentemente se autoriza o tratamento de dados, de acordo com o plasmado nos arts° 7°/nº2 e 28°/n°1 al. a) da Lei 67/98 de 260ut e, nas seguintes condições.
+1.Responsável: Instituto de Informática e Estatística da Segurança Social, em conjunto com o Instituto de Gestão Financeira da Segurança Social e o Instituto
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 6
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS da Segurança Social, sendo a entidade encarregue do processamento da informação o Instituto de Informática e Estatística da Segurança Social;
+2. Finalidade: Publicitação das listas de devedores perante a Segurança Social a que se reportam os arts° 64°/n°s 5 e 6 da LGT e 45° da Lei 60-A/2005 de 30
+Dez;
+3.Categoria dos Dados Pessoais: número de identificação fiscal, nome ou designação e escalão da dívida;
+4. Comunicação, Interconexões e Transferência de Dados: não existe;
+5.Direito de Informação: deverá ser salvaguardada a informação do contribuinte sempre que a carta de audição prévia seja devolvida ou que o mesmo não entenda o seu alcance;
+6.Prazo de conservação: o tempo necessário para a prossecução da finalidade em causa, tendo como limite máximo o prazo prescricional legalmente fixado;
+7. Outros aspectos: deve a Administração GARANTIR, a)a eliminação nas listas, no momento imediato, de situações regularizadas;
+b)o não uso destas listagens noutras de "maus pagadores";
+c)o modo como reparar a inclusão indevida de um contribuinte na listagem, aspectos estes que esta CNPD acompanhará e fiscalizará, sempre que confrontada e sem prejuízo da consequente responsabilização da entidade competente, nos termos do art° 34° da Lei 67/98 de 26 Out.
+-isboa, 27 de Junho de 2006
+Carlos de Campos Lobo (relator)
+Ana Roque
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 7
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Eduardo Campos
+Luís Barroso
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt g

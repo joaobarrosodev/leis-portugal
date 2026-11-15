@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MCVCMS, UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T00:26:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4252/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54607](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54607).
+Proc. 3092/10 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n° 3092/10
+AUTORIZAÇÃO N°42 S'2/2013
+O Pedido
+MCVCMS Unipessoal, Lda. veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas na Rua Mariano Pino, n.º2 esq., Leião, em
+Porto Salvo (Perfumaria Bem-me-quer).
+Não existe comissão de trabalhadores.
+Pretende-se colocar 2 câmaras que abrangem o interior do estabelecimento.
+Análise
+Através da deliberação n° 61/2004, de 19 de abril('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspetos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n°. 1, alínea c), da Lei 67/98, de 26 de outubro - LPD), condições de legitimidade (artigos 7.° e 8.°, n.° 2, da LPD), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efetivamente justifica-se que sejam utilizados estes meios de prevenção nas instalações da loja no âmbito da proteção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos ou valores. As instalações podem ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de atividade na medida em que os () Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 3092/10 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, alínea c), da LPD).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infração.
+No entanto, as imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do
+Trabalho (*).
+Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigo 7.°, n.° 2 e 28.°, n.° 1, alínea a), da LPD) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - MCVCMS Unipessoal, Lda.
+2. Finalidade - Proteção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez (2) No mesmo sentido ver Acórdão do STJ Processo n.° 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

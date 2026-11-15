@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6465/2015
-official_date: null
+official_date: '2015-07-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MISERICÓRDIA DA FREGUESIA DE SANGALHOS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,82 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T17:23:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6465/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/79210](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/79210).
+Processo n° 8161/2015 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N: 6465/015
+I - O Pedido
+Misericórdia da Freguesia de Sangalhos, com sede em Rua Narciso da Marça, n.° 262, Apartado 69, 3781-908 Sangalhos, notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de processos clínicos.
+Os dados pessoais objeto de registo são os seguintes: UTENTES - Vida privada :
+nome, morada, telefone, telemóvel, email, CC/BI e data de validade, n° SNS, n° NISS, n° CESD, data de nascimento, estado civil, nacionalidade, profissão, NIF, BI, filiação, sexo; n° de beneficiário, subsistema de saúde, n° de processo, seguro de saúde, n° de apólice. CESD cartão europeu de seguro doença - Dados de saúde, genéticos ou vida sexual : patologias, imagens, médico de família e centro de saúde, observações clínicas; MEDICOS - Vida privada : nome, morada, telefone, telemóvel, email, n° de cédula na ordem dos médicos, especialidade clinica.
+Os dados são recolhidos de forma direta, presencialmente.
+Refere-se a existência de comunicação de dados a terceiros: ao médico assistente ou a outra unidade de saúde com elementos necessários à continuidade dos cuidados clínicos do utente.
+Não existem interconexões ou fluxos internacionais de dados para países terceiros.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem, presencialmente junto do responsável.
+Não foram declaradas medidas de segurança.
+Pretende-se a conservação dos dados por 5 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 8161/2015 | 2 p
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+II - Apreciação 1 - O n.º 4 do artigo 7° da Lei n.º 67/98, de 26 de outubro (LPD), admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efetuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde há legitimidade para efetuar o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional.
+Nessa medida, deve compaginar-se a recolha da informação com o principio da confidencialidade, respeitando-se, assim, o respetivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+2 - A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva, com exceção do dado profissão cuja recolha se admite apenas como facultativa.
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.° 4 de Lei n° 67/98, de 26 de outubro.
+A consulta dos dados pelo médico assistente não representa uma comunicação de dados, mas tão-só o cumprimento da lei que impõe que tal seja levado a cabo por «pessoas vinculadas a segredo profissional. A comunicação de dados para unidade de saúde distinta para prestação dos cuidados clínicos do utente respeita igualmente o previsto no supracitado art.° 7.°, n.° 4, pelo que se autoriza tal comunicação, sem prejuízo da obrigatoriedade de que essa entidade terceira notifique previamente esse
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 8161/2015| 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS tratamento de dados à CNPD, circunstância que a requerente deve verificar em momento anterior à remessa dos dados.
+O prazo indicado (5 anos) não se adequa aos prazos determinados na Portaria n° 247/2000, de 8 de maio, alterada pela Portaria n.º 157/2014, de 19 de agosto, devendo ser estes os respeitados pela entidade requerente.
+Admite-se a conservação dos dados para faturação pelo prazo de 10 anos.
+Deve ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação e acesso aos titulares dos dados, nos termos dos artigos 10° e 11° nº5 da LPD;
+6) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15° nº3 da LPD);
+c) Devem ser adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7° nº4 da LPD).
+A requerente não notificou a CNPD das medidas de segurança a implementar, importando assim que o faça. Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento é a esta que cabe assegurar o resultado de efetiva segurança da informação e dos dados tratados.
+III - Conclusão
+Nestes termos e ao abrigo do disposto nos artigos 7.° n.º 4 e 30.° da Lei n° 67/98, de 26 de outubro, a CNPD autoriza o tratamento notificado, consignando o seguinte:
+Responsável: Misericórdia da Freguesia de Sangalhos (Rua Narciso da Marça, n.º 262, Apartado 69, 3781-908 Sangalhos);
+Finalidade: gestão de processos clínicos;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 8161/2015 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categorias de dados pessoais tratados: UTENTES - Vida privada: nome, morada, telefone, telemóvel, email, CC/BI e data de validade, n° SNS, n° NISS, n° CESD, data de nascimento, estado civil, nacionalidade, profissão (facultativo), NIF, BI, filiação, sexo; n° de beneficiário, subsistema de saúde, n° de processo, seguro de saúde, n° de apólice. CESD cartão europeu de seguro doença - Dados de saúde, genéticos ou vida sexual: patologias, imagens, médico de família e centro de saúde, observações clínicas; MÉDICOS - Vida privada: nome, morada, telefone, telemóvel, email, n° de cédula na ordem dos médicos, especialidade clinica;
+Comunicação de dados: para unidades de saúde com elementos necessários à continuidade dos cuidados clínicos do utente;
+Forma de exercício do direito de acesso e retificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.° da Lei n° 67/98, de 26 de outubro. Quanto ao direito de acesso aos dados de saúde deve o mesmo ser assegurado através de «médico escolhido pelo titular dos dados» nos termos do artigo 11.° n.° 5 da mesma Lei;
+Interconexão de dados: não há;
+Transferência de dados para países terceiros: não há;
+Conservação dos dados:
+a) Dados de saúde - pelo prazo previsto na Portaria n° 247/2000, de 8 de maio, alterada pela Portaria n.º 157/2014, de 19 de agosto;
+b) Dados para faturação - 10 anos.
+Lisboa, 7 de Julho de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

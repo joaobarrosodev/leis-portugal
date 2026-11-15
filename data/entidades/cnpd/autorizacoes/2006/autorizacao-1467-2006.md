@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MESTRES PUBLICIDADE, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,78 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:49:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1467/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4329](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4329).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 450/2006
+AUTORIZAÇÃO N° (467106 1. Introdução
+A empresa Mestres Publicidade, Ld. notificou à CNPD um tratamento de videovigilância. As câmaras estão colocadas nos seguintes locais: corredores e escadas, armazéns, garagem e área de implantação da fábrica. Apenas é feita gravação de imagem.
+Não há comissão de trabalhadores.
+A CNPD proferiu projecto de autorização em 13 de Março de 2006, de cujo teor foi notificada a requerente nos termos e para os efeitos do artigo 100° do Código do
+Procedimento Administrativo, sendo o esclarecimento por si prestado no uso desta faculdade considerado na presente autorização.
+2. Apreciação
+Através da deliberação n.º 61/2004, de 19 de Abril ('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+() Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+O artigo 20.º n.º 1 do Código do Trabalho dispõe que o empregador "não pode utilizar meios de vigilância à distância no local de trabalho, mediante o emprego de equipamento tecnológico, com a finalidade de controlar o desempenho profissional do trabalhador». Será lícita a utilização deste equipamento quando se destine à «protecção e segurança de pessoas e bens».
+O artigo 28.º n.º 2 da Lei n.º 35/2004, de 29 de Julho, estabelece que a CNPD só pode autorizar a colocação de meios de vigilância à distância se a sua utilização for «necessária, adequada e proporcional aos objectivos a atingir».
+A CNPD admite que seja legítima a colocação de câmaras nos corredores e escadas, armazéns, garagem.
+Verifica-se que a utilização do sistema nestes locais se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com protecção dos seus direitos
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS fundamentais(), bem como registar e documentar a eventual prática de infracções. O tratamento de imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+A CNPD considera excessiva e desproporcionada a colocação de câmaras na «área de implantação da fábrica», caso as câmaras captem imagens dos postos de trabalho dos trabalhadores, na medida em que, se as câmaras estão direccionadas para os postos de trabalho e - havendo gravação - há um elevado risco de poderem ser utilizadas para controlo do desempenho dos trabalhadores.
+A CNPD entende que o objectivo de «protecção de pessoas e bens» também será atingido se as câmaras forem direccionadas para as entradas e saídas destes locais. Ao serem direccionadas para as portas das respectivas instalações será assegurado o objectivo de protecção que a entidade se propõe. Por isso, a CNPD considera que as câmaras devem ser direccionadas para as portas de entrada e saída da «área de implantação da fábrica», abstendo-se de captar imagens dos postos de trabalho (cf.
+artigo 8.° n.º 2 da Lei 67/98 e 20.º n.º 1 do Código de Trabalho).
+() O artigo 8.° n.º 2 obriga, como condição a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados».
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3. Conclusão
+Todavia, considerando o esclarecimento prestado pela requerente no sentido de que as referidas câmaras estão direccionadas para as zonas de entrada e saída, não captando imagens dos postos de trabalho, entende-se agora que deixam de se justificar as dúvidas a respeito da violação do princípio da proporcionalidade na recolha de imagens suscitadas pela CNPD no projecto de autorização.
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28.° n.° 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável - Mestres Publicidade, Lda 2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.º da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de imagem.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 48 horas.
+8. As câmaras da «área de implantação da fábrica» devem ser direccionadas para as zonas de entrada e saída, ficando impossibilitadas de captar os postos de trabalho.
+Lisboa, 23 de Enteebro de 2006 400
+Luís Barroso
+Eduardo Campos
+Ana Roque
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Carlos Campos Lobo
+• Helena Delgado António (relatora)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

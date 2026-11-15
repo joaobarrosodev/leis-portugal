@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INTERLOG - INFORMÁTICA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:42:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 99/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14516](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14516).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 2699//07
+Registo n. ° 109
+Interlog - Informática, SA notificou um tratamento de dados pessoais com a finalidade gestão de clientes.
+Declaram as seguintes categorias de dados pessoais: Nome, morada, NIF, contactos telefónicos e e-mail.
+Os dados são recolhidos directamente por impresso e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da
+LPD.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Interlog - Informática, SA
+Categoria de dados pessoais tratados - Nome, morada, NIF, contactos telefónicos e e-mail.
+Finalidade - gestão de clientes
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável pessoalmente, por correio, telefone e e-mail;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°.
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e) do art.º5°, fixa-se 10 anos.
+Lisboa, 9 de Fevereiro de 09
+A Secretária da CNPD sabe
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

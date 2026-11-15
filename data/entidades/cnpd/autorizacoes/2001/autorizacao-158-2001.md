@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 158/2001
-official_date: null
+official_date: '2001-09-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ADMINISTRAÇÃO REGIONAL DE SAÚDE DO ALENTEJO-SUB-REGIÃO DE SAÚDE DE ÉVORA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:05:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 158/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9963](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9963).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 377/00
+AUTORIZAÇÃO N.º18/2001
+TO Pedido
+A ARS Sub-região de Saúde de Évora veio legalizar junto da Comissão Nacional de Protecção de Dados (CNPD) o tratamento de que pretende ser responsável, e que visa a gestão de pessoal, por grupos profissionais e regime de trabalho.
+Análise de facto e de Direito
+São dados pessoais tratados pela Sub-região de saúde: nome, sexo, data de nascimento, n.º mecanográfico, habilitações literárias e profissionais, relação jurídica -situação actual, data de entrada nos serviços, relação jurídica de entrada, integração no quadro, quadro de origem, local de trabalho, grupo de pessoal, carreira, categoria, área funcional, escalão indiciário, regime horário, existência ou inexistência de acumulação de funções públicas ou públicas e privadas.
+Os dados são recolhidos para finalidades determinadas, explícitas e legítimas, sendo adequados, pertinentes e não excessivos relativamente às finalidades, obedecendo ao disposto nas alíneas b) e c) do n.º 1 do art. 5.º da Lei da Protecção de Dados (Lei n.º 67/98, de 26 de Outubro).
+Conforme se solicita na declaração enviada à CNPD, os dados serão conservados enquanto o seu titular for funcionário da Sub-região de Saúde de Évora. Chama-se a atenção, todavia, que mesmo nas situações de isenção previstas pela CNPD para gestão de pessoal, que este caso não contempla, os dados pessoais podem ser conservados por período máximo de um ano após a cessação do vínculo laboral à entidade, sem prejuízo
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS da sua conservação em caso de procedimento judicial, para além daquele prazo, até ao limite de seis meses após o trânsito em julgado, o que aqui se autoriza.
+Estão estabelecidas as condições de segurança do sistema, mediante a utilização de password de acesso às informações e da garantia da segurança física das instalações.
+A Sub-região de Saúde de Évora pretende comunicar os dados pessoais à ARS do Alentejo e ao Ministério da Saúde (Departamento de Recursos Humanos), nos casos legalmente previstos.
+O consentimento para o tratamento, designadamente para a comunicação dos respectivos dados pessoais, é solicitado aos titulares.
+III. Conclusão
+Nos termos do art. 23.° n.º 1 alínea b) e 30.° da Lei n.° 67/98, de 26 de Outubro, a
+CNPD delibera autorizar o tratamento automatizado dos dados da ARS Sub-região de
+Saúde de Évora, nos termos seguintes:
+Responsável pelo tratamento: ARS Sub-região de Saúde de Évora
+Finalidade: gestão de pessoal, por grupos profissionais e regime de trabalho;
+Categorias de dados pessoais tratados: nome, sexo, data de nascimento, n.º mecanográfico, habilitações literárias e profissionais, relação jurídica - situação actual, data de entrada nos serviços, relação jurídica de entrada, integração no quadro, quadro de origem, local de trabalho, grupo de pessoal, carreira, categoria, área funcional,
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS escalão indiciário, regime horário, existência ou inexistência de acumulação de funções públicas ou públicas e privadas.
+Entidades a quem podem ser transmitidos: ARS do Alentejo e Ministério da Saúde (Departamento de Recursos Humanos);
+Forma de exercício do direito de acesso e rectificação: o titular dos dados pode conhecer, corrigir e eliminar os dados que lhes respeitem sempre que se dirijam por escrito à Sub-Região de Saúde de Évora;
+Tempo de conservação dos dados: os dados pessoais podem ser conservados por período máximo de um ano após a cessação do vínculo laboral à entidade, sem prejuízo da sua conservação em caso de procedimento judicial, para além daquele prazo, até ao limite de seis meses após o trânsito em julgado.
+Interconexão: Não existem.
+Transferências para países terceiros: Não existem.
+Lisboa, 18 de Setembro de 2001
+Catacin farmento@astos
+Catarina Sarmento e Castro (relatora)
+L
+Luís José Durão Barroso
+Mario Manyet Varges Gomes
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS de
+Amadeu Francisco Ribeiro Guerra cas .4dlora
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

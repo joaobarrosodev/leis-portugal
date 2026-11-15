@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CERCIMIRA - Cooperativa para a Educação e Reabilitação de Cidadãos Inadaptados de Mira, CRL'
-- 'Texto incompleto: 1 de 3 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,8 +70,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T22:31:57Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 

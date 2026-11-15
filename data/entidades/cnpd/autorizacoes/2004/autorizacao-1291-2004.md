@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BNP PARIBAS - LEASE GROUP (SUCURSAL EM PORTUGAL)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:35:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1291/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7942](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7942).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 1307/2003
+AUTORIZAÇÃO N.° 1291
+/2004 1. O BNP Paribas - Lease Group - Sucursal em Portugal veio legalizar os seus tratamentos automatizados.
+Esta instituição trata dados de identificação dos clientes, «dados patrimoniais» (propriedades, participações em sociedades, rendimento e outros bens, responsabilidades no sistema financeiros) e dados relativos à análise de risco (cf. anexo ao formulário de legalização).
+Conforme resulta do impresso de recolha, há comunicação de dados às entidades terceiras que preste serviço de tratamento de dados ao Grupo
+BNP PARIBAS.
+Estando em causa a «avaliação de riscos de crédito» e operações «relativas a crédito e à solvabilidade dos titulares», o tratamento de dados está sujeito a autorização da CNPD (cf. art. 28.º n.º 1 al. b) da Lei 67/98, de 26 de Outubro).
+Há comunicação de dados ao Banco de Portugal, de acordo com as obrigações legais a que se encontram vinculadas as instituições financeiras. Caso haja comunicação a outras entidades devem as mesmas ser identificadas (cf. quadro 8 do formulário).
+Assim, autoriza-se a manutenção do ficheiro, nos termos comunicados consignando-se a seguinte informação nos termos do artigo 30.º° da Lei 67/98:
+1. Responsável do ficheiro: BNP PARIBAS - Lease Group, Sucursal em Portugal.
+2. Categorias de dados tratados: São tratados dados indicados no anexo ao quadro 5.
+3. Finalidades a que se destinam os dados: Para a constituição do ficheiro de clientes, gestão de operações de financiamento e avaliação do risco.
+4. Categorias de entidades a quem podem ser transmitidos: Banco de
+Portugal.
+5. Forma de exercício do direito de acesso e rectificação: por solicitação escrita.
+6. Interconexões: não há.
+7. Fluxos transfronteiras: Não.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 23 de Neverbro 2004.
+Ana Luísa Geraldes (Relatora)
+Aeden l
+Amadeu Guerra
+Alecoudissasefus
+Alexandre Pinheiro
+эмия
+Eduardo Campos
+Luís Barroso
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

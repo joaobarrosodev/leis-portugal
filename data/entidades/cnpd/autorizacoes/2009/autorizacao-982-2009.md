@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE LISBOA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:22:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 982/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14878](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14878).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 3805/06
+Autorização n°
+/2009 1. A CNPD elaborou, em 20 de Outubro de 2009, o Projecto de
+Autorização n° 272/2008, que incide sobre a notificação, feita pela
+Câmara Municipal de Lisboa, de um tratamento de dados pessoais que tem por finalidade "divulgar publicamente, através de suporte em papel e de meios electrónicos (página de Internet da CML) a totalidade dos actuais beneficiários das habitações do Município, contendo o nome da pessoa singular, a morada da habitação que se lhe encontra atribuída e a contraprestação devida por conta da utilização do imóvel cedido." 2. A CNPD entendeu então, à luz das disposições legais aplicáveis e fazendo uso de uma ponderação cuidada, assente no juizo de proporcionalidade, autorizar o tratamento do nome do beneficiário, a freguesia a que pertence a morada e o valor da contraprestação paga.
+3. Nos termos e para os efeitos do disposto nos artigos 100° e 101° do
+CPA, veio a Câmara Municipal de Lisboa argumentar que, muito embora seja efectivamente exigida uma ponderação de proporcionalidade, só a identificação da morada (rua e número de polícia) da totalidade dos actuais beneficiários das habitações do Município poderia permitir "um cabal esclarecimento da situação ocupacional desses bens do domínio do Município, designadamente no que respeita à associação entre os
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS valores devidos como contrapartida da utilização dos imóveis e a sua tipologia e qualidade." 4. Ora, ponderados os elementos avançados pela Requerente, mantemos que, com interesse para a decisão, é de sobrelevar a observância do princípio da proporcionalidade: se o interesse público e o princípio da transparência são traves mestras da relação entre a Administração e os cidadãos, não é menos verdade que a divulgação dos dados pessoais dos beneficiários das habitações da CML não pode ir para além do estritamente necessário para a realização do interesse público.
+5. Assim, entende a CNPD que não se encontram afastados os considerandos expendidos no supra citado Projecto de Autorização n° 272/2008, pelo que mantém, nos termos dos artigos 27° e 30° da Lei n° 67/98, de 26 de Outubro, a autorização projectada, consagrando o seguinte:
+Responsável do tratamento: Câmara Municipal de Lisboa (CML)
+Categorias de dados pessoais tratados: Nome do beneficiário, freguesia a que pertence a morada, valor da contraprestação paga pela habitação.
+Finalidade: Divulgação, em suporte papel e no site da CML, da listagem dos beneficiários da atribuição de uma habitação própria permanente pela CML.
+Interconexão de dados: Não há.
+Exercício do direito de acesso e de rectificação: Os titulares dos dados podem conhecer, corrigir e eliminar os dados que lhes respeitem através de contacto junto da CML.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Transferência de dados para países terceiros: Não há.
+Conservação dos dados: os dados devem ser eliminados quando os titulares deixem de ser beneficiários, no prazo máximo de 90 dias.
+Lisboa, de Março de 2009.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Barroso, Luís Paiva de
+Andrade, Helena Delgado António, Vasco almeida,
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2/2018
-official_date: null
+official_date: '2018-02-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Gunnebo Portugal, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:54:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 2/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/116216](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/116216).
+Processo n.º 978/2017 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+REGISTO N.° 2/2018
+GUNNEBO PORTUGAL, SA., notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de organizar um registo informático de atividades relativo à prestação de serviços aos clientes.
+Constitui fundamento de legitimidade para o tratamento o cumprimento de obrigação legal, nos termos da alínea b) do artigo 6.° da Lei n.° 67/98 de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto - Lei de Proteção de Dados (LPD). Com efeito, a alínea c) do n.º 1 do artigo 37.° da Lei n.º 34/2013, de 16 de maio, impõe a obrigatoriedade das empresas de segurança privada procederem a esse registo junto da CNPD.
+A informação tratada é recolhida de forma lícita (cf. Artigo 5°, nº1, alínea a) da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b)) e os dados a tratar consideram-se adequados, pertinentes e não excessivos (cf. alínea c)), estando em conformidade com os previstos no n.° 1 do artigo 38.° da Lei n.° 34/2013.
+Os dados devem ser exatos e, se necessário, atualizados (cf. Artigo 5.°, alínea d) da LPD), sendo conservados apenas durante o período necessário para a prossecução do fim visado, sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou retificados os dados inexatos ou incompletos (cf. Artigo 5.° n.º 1, alíneas c) e d), e n.° 3 da LPD).
+No momento da recolha de dados, deve ser prestada a informação prevista no artigo 10.° da
+LPD, bem como assegurado o direito de acesso e retificação de acordo com o artigo 11° da LPD.
+Os dados não são comunicados a terceiros, sem prejuízo da consulta pelas entidades fiscalizadoras e outras transmissões legalmente previstas às autoridades competentes.
+A entidade responsável pelo tratamento deve adotar as medidas de segurança adequadas a garantir o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+Assim, nos termos das disposições conjugadas do artigo 6°, alínea b), e do artigo 30.°, n.º 1, da
+LPD, é registado o tratamento de dados supra referido nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 978/2017 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável
+GUNNEBO PORTUGAL, SA.,
+Finalidade
+Organizar um registo informático de atividades
+Designação e NIF do cliente; número de contrato; data de início e termo do contrato; serviço prestado local ou
+Categoria de dados pessoais tratados locais onde o serviço é prestado; horário da prestação dos serviços, meios humanos utilizados; meios materiais e caraterísticas técnicas desses meios.
+Forma de exercício dos direitos de acesso e retificação
+Por escrito junto do responsável
+Comunicações de dados a terceiros
+Não há
+Interconexões
+Não há
+Transferências para países terceiros
+Não há
+Prazo máximo de conservação dos dados
+Durante o período de atividade da requerente
+O responsável pelo tratamento deve adotar medidas de segurança adequadas para proteção dos dados pessoais, nomeadamente contra a destruição, alteração ou acesso não autorizado, nos termos do artigo 14.° da LPD.
+Lisboa, 7 de fevereiro de 2018
+A Secretária da CNPD em substituição,
+Clara Vieira Guerra
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

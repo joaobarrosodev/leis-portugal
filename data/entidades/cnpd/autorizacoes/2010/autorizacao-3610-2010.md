@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INTERMONEY PORTUGAL, SOCIEDADE FINANCEIRA DE CORRETAGEM, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:05:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3610/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24699](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24699).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 4899/2010
+AUTORIZAÇÃON 3610/2010 1 - Intermoney Portugal, Sociedade Financeira de Corretagem, SA, vem notificar à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade declarada de categorização de clientes de acordo com a Directiva para os Mercados Financeiros (DMIF).
+Os dados objecto de registo são dados de identificação e contacto e informações sobre o património, fonte de rendimentos e experiência nos mercados financeiros.
+A recolha de dados é feita por forma directa, pessoalmente, por via telefónica ou por impresso, mediante preenchimento de formulários de que estão juntos modelos aos autos, nos quais o cliente apõe a sua assinatura.
+Como fundamento de legitimidade o requerente invoca o cumprimento de obrigações legais.
+A segurança das informações é garantida por cópias de backup dos dados, password de acesso às informações, sistemas de processamento backup, sendo assegurada a segurança física das instalações mediante o acesso restrito de pessoas.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+A requerente pretende a conservação dos dados pelo período de 5 anos após o encerramento do dossier.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral(@.cnpd.pt www onnd nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias uteis das 10 12 h
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 2 - Estando em causa operações relativas ao crédito e solvabilidade dos titulares o tratamento notificado está sujeito a autorização da Comissão Nacional de Protecção de
+Dados (artigo 28° n° 1, alínea b), da Lei n° 67/98, de 26.10).
+A Directiva 2004/39/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa aos mercados de instrumentos financeiros, transposta para a legislação portuguesa, através do Decreto-Lei n° 357-A/2007, de 31 de Outubro, desenvolve e harmoniza medidas para a protecção do Cliente Investidor, beneficiando os clientes particulares de maior grau de protecção e informação.
+Tendo o tratamento notificado como finalidade dar cumprimento às exigências impostas pelo referido diploma legal, há legitimidade para o tratamento, na medida em que se visa assegurar o cumprimento de uma obrigação legal (cf. artigo 7° n.º 2 da Lei n° 67/98).
+Os dados tratados mostram-se necessários, pertinentes e não excessivos em relação à finalidade prosseguida (artigo 5° n.°º 1, alíneas b) e c), da Lei n° 67/98, de 26.10) e o prazo de conservação proposto parece-nos justificado.
+Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados pessoais tratados.
+3 - Em face do exposto, a CNPD autoriza o tratamento nos termos declarados, consignando-se, nos termos dos artigos 7° nº2, alínea b) e 30.° da Lei n° 67/98, de 26.10, o seguinte:
+Responsável pelo tratamento: Intermoney Portugal, Sociedade Financeira de
+Corretagem, S.A.
+N
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Finalidade do tratamento: categorização de clientes de acordo com a Directiva para os
+Mercados Financeiros (DMIF)
+Categorias de Dados: dados de identificação e contacto e informações sobre o património, fonte de rendimentos e experiência nos mercados financeiros (vide formulários)
+Comunicação de dados: não há
+Interconexões de dados: não há
+Forma de exercício do direito de acesso e rectificação: mediante pedido dirigido à responsável
+Lisboa, 25de Dutelo de dolo
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+S
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

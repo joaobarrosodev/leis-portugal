@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BARCLAYS BANK, PLC'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:50:46Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 778/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21757](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21757).
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 10148/2009 1
+AUTORIZAÇÃON° 178 2010 1 - O Pedido
+BARCLAYS BANK PLC, sucursal em Portugal, vem solicitar autorização à Comissão
+Nacional de Protecção de Dados (CNPD) para facultar, no âmbito de um contrato de prestação de serviços que tem por objecto a prestação ao requerente dos serviços de tecnologia de informação - que inclui manutenção e suporte às aplicações bancárias do
+Barclays, implementação de alterações à infra-estrutura tecnológica, arquivo de informação e apoio à rede informática -, a comunicação de dados pessoais à empresa
+Barclays Technology Center Limited, sediada em Singapura e prestando os serviços através das sucursais de Singapura e Lituânia.
+Juntou cópia da minuta do contrato de prestação de serviços, o qual contém cláusulas contratuais idênticas às que são estabelecidas na Decisão da Comissão n.º 2002/16/CE, de 27/12/2001, relativa às cláusulas contratuais-tipo aplicáveis à transferência de dados pessoais para subcontratantes estabelecidos em países terceiros.
+Os dados pessoais a disponibilizar são os seguintes dados pessoais dos empregados e dos clientes do requerente constantes das respectivas bases de dados: nome, morada, número de telefone, número de conta, transacções.
+Como medidas de segurança referem-se a utilização de cópias de "backup", palavras-chave de acesso às informações, sistemas de processamento de "backup", informação cifrada, sistemas de alarme e resposta e o acesso restrito de pessoas.
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2 — Apreciação 2.1 - A Lei 67/98 de 26.10 permite a subcontratação e prevê o acesso a dados pessoais por parte do subcontratante, desde que este actue de acordo com as instruções do responsável (cf. artigo 16.°).
+O subcontratante está vinculado a cumprir as disposições relativas ao sigilo bancário (cf. artigo 78° nº1 e 79° nº1 do DL 298/92 de 31.12) e está obrigado a segredo profissional (cf. artigo 17.° da Lei 67/98), e só pode utilizar os dados para executar o contrato a que se vinculou, não podendo utilizá-los para outras finalidades que não sejam as que resultam do contrato de prestação de serviços.
+O artigo 14.º n.º 3 da Lei 67/98 determina ainda que «a realização de operações de tratamento em subcontratação deve ser regida por um contrato ou acto jurídico que vincule o subcontratante ao responsável pelo tratamento e que estipule, designadamente, que o subcontratante apenas actua mediante instruções do responsável pelo tratamento».
+2.2 - Cabe à CNPD, nos termos do artigo 20.º n.º 4 da Lei 67/98, de 26 de Outubro, autorizar uma transferência ou conjunto de transferências, verificando se o responsável assegura mecanismos suficientes - v. g. mediante cláusulas contratuais - de garantia de protecção da vida privada e dos direitos e liberdades fundamentais das pessoas.
+A adopção de cláusulas contratuais-tipo é uma das formas possíveis de permitir o fluxo transfronteiras para países que não oferecem garantias adequadas. A solução contratual aparece, assim, como «um meio através do qual o responsável pelo tratamento fornece garantias adequadas à pessoa em causa aquando da transferência dos seus dados para fora da comunidade, mais concretamente, para um país terceiro no qual o nível geral de protecção não é adequado. Para poderem cumprir essa função, as cláusulas contratuais terão de compensar de forma satisfatória a ausência de um nível geral de protecção adequado, através da inclusão de elementos essenciais de protecção omissos numa
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+As cláusulas contratuais juntas são em tudo idênticas às que constam da Decisão 2002/16/CE, pelo que a CNPD considera que as mesmas asseguram mecanismos suficientes de garantia de protecção da vida privada e dos direitos e liberdades fundamentais dos titulares dos dados.
+3 - Conclusão
+Mostram-se reunidas as condições legalmente exigidas em matéria de tratamento de dados, confidencialidade e segurança (cf. artigos 5.°, 6.°, 16.° e 17? da Lei 67/98) para autorizar a comunicação de dados à empresa Barclays Technology Center Limited, sediada em Singapura.
+Nestes termos, a CNPD delibera autorizar a comunicação de dados pessoais, no âmbito de um acordo de subcontratação, nos termos solicitados pelo requerente.
+Informe-se a Comissão Europeia, de acordo com os procedimentos habituais.
+Proceda-se à actualização do registo público (artigo 31° da Lei 67/98).
+Lisboa, de co Paro de 2010.
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade gas frenes
+Luís Lingnau da Silveira (Presidente)

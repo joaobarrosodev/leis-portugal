@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 203/2002
-official_date: null
+official_date: '2002-12-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: KAJUR FÁBRICA DE CALÇADO, LDA - JOAQUIM FERREIRA DE MELO & CA., LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:00:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 203/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9608](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9608).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 698/02
+Autorização n.°203/2002 1- Kajur-Joaquim Ferreira de Melo & Cª, Lda, solicita à Comissão Nacional de
+Protecção de Dados (CNPD) autorização para proceder a um tratamento de dados pessoais com a finalidade descrita de gerir contas correntes de clientes (quadro n.º 3).
+Entende-se que o acto desta Comissão deve revestir a forma de autorização, dado que são objecto de tratamento dados relativos a crédito e solvibilidade (alínea b) do n.º 1 do artigo 28.° da Lei n.° 67/98, de 26 de Outubro).
+Notificada da proposta de autorização, nos termos do artigo 100.° do Código de
+Procedimento Administrativo, a declarante nada respondeu.
+Os dados pessoais recolhidos são, o nome, morada, telefone e valor em dívida (quadro n.° 5).
+A recolha de dados processa-se de forma pessoal e directa (quadro n.º 6).
+A actualização dos dados é assegurada directa e pessoalmente (quadro n.º 7).
+Verifica-se comunicação de dados através de suporte de papel (quadro n.º 8). O anexo ao quadro n.º 8 identifica, como destinatário desta comunicação de dados, a Sercob-
+Empresa de cobranças especializadas, Ldª, empresa que notificou a CNPD dos tratamentos de dados pessoais a que procede.
+Não se verificam interconexões (quadro n.º 9). Não existem fluxos transfronteiras de dados pessoais (quadro n.º 10).
+Como medidas para garantir a segurança das informações prevêem-se cópias de segurança dos dados (quadro n.º 11).
+Os dados são conservados enquanto o cliente estiver activo (quadro n.º 12). A CNPD interpreta esta afirmação do responsável como enquanto se mantiver a relação credor-devedor.
+O titular pode conhecer, corrigir e eliminar dados que lhe respeitem mediante comunicação com a responsável pelo tratamento (quadro n.º 13).
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 2- Sobre o conteúdo declaração, a CNPD entende que os titulares dos dados devem ter conhecimento das finalidades que determinam a recolha dos dados e a constituição do ficheiro, bem como das entidades a quem os dados são comunicados (artigo 10.° da Lei n.° 67/98, de 26 de Outubro).
+De acordo com todo o exposto, a Comissão Nacional de Protecção de Dados autoriza, nos termos dos artigos 28.° e 30.º da Lei n.º 67/98, de 26 de Outubro, o tratamento declarado, determinando, ainda, o seguinte:
+Responsável pelo tratamento: Kajur-Joaquim Ferreira de Melo & C°, Lda.
+Categoria de dados tratados: Nome, morada, número de telefone e valor em dívida (quadro n.° 5).
+Finalidades do tratamento: Gerir contas correntes de clientes (quadro n.° 3).
+Categorias de entidades a quem podem ser transmitidos os dados: Sercob- Empresa de cobranças especializadas, Ldª.
+Forma do exercício do direito de acesso e rectificação: Mediante comunicação junto do responsável pelo tratamento (quadro n.º 13).
+Prazo de conservação dos dados: Os dados são conservados até ao momento do cumprimento da obrigação.
+Interconexões: Não se verificam.
+Fluxos transfronteiras: Não se verificam.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 17 de Dezembro de 2002
+Aletoude fousa inteiro
+Alexandre Sousa Pinheiro (relator)
+Catarina Sarmento e Castro
+Luís Barroso
+Mário Varges Gomes
+Anaden le
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

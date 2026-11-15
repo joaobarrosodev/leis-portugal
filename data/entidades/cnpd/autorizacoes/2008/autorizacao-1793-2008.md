@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1793/2008
-official_date: null
+official_date: '2008-09-15'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LABORATÓRIOS PFIZER, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:18:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1793/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7936](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7936).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 4392/08
+AUTORIZAÇÃO N.° 171 3/2008
+O Laboratórios Pfizer, Lda, na qualidade de representante da Pfizer Inc, com sede nos
+EUA, notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional, prospectivo, não interventivo, multicêntrico, que tera como objectivo avaliar a eficácia e segurança de Champix®, designado estudo CHOICES.
+A empresa Quanticate Sp.z o.o, com sede na Polónia é a entidade encarregada do processamento da informação.
+Em Portugal estarão envolvidos 40 centros de investigação, escolhidos entre Unidades de Saúde Familiar e Centros de Saúde, com cerca de 50 médicos, distribuídos pelo território nacional, prevendo-se a inclusão de 150 participantes.
+Serão recolhidos os seguintes dados: código do doente, iniciais do doente, dados demográficos (sexo, raça, data de nascimento, estado civil) dados de saúde relacionados com a patologia, dados de exames complementares de diagnóstico, terapêutica e efeitos adversos. É também recolhido o consumo concomitante de alcool.
+Os dados são recolhidos pelos médicos participantes, num "caderno de recolha", que será posteriormente enviado para a subcontratada.
+O médico participante utiliza os dados do doente para finalidade diversa daquela que determinou a recolha os dados constantes dos processos clínicos dos seus utentes.
+Ora, esta utilização para finalidade diversa, com o fim de elaborar estudos científicos, consubstancia um desvio de finalidade, que embora diversa não é incompatível (art.° 5° n.° 1, al. b) da Lei n.º 67/98, de 26 de Outubro).
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação apenas pode ser conhecida do médico.
+O fundamento de legitimidade para o tratamento só poderá decorrer do consentimento do expresso do titular dos dados. As declarações de consentimento serão guardadas pelo médico investigador.
+Rua de São Bento. 148 - 3° — 1200-821 LISROA - Telefone: 113 928 400 - Fax• 113 076 932
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+E apresentado como justificação para o tratamento do dado raça a "necessidade de determinar se a prescrição do medicamento "espelha a prevalência do tabagismo em diferentes populações raciais e se existe alguma variação na tolerância ou eficácia do de Champix®, relacionada com este parâmetro". De igual modo justifica a necessidade de recolha de informações sobre hábitos etílicos afirmando que a necessidade baseia-se na recolha de informação de segurança sobre a utilização de Champix®, neste tipo de doentes (conhecendo-se a correlação entre o consumo de álcool e tabaco) (.. Ja potencial interacção do consumo de álcool com de Champix®, considera-se ser justificável a informação sobre o consumo de álcool, para informação de segurança adicional".
+A informação tratada é recolhida de forma lícita (art.º 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento informado do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alinea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Pfizer Inc
+Finalidade: estudo observacional, prospectivo, não interventivo, multicêntrico, que terá como objectivo avaliar a eficácia e segurança de Champix®, designado estudo
+CHOICES.
+Categoria de Dados pessoais tratados: código do doente, iniciais do doente, dados demográficos (sexo, raça, data de nascimento, estado civil) dados de saúde relacionados com a patologia, dados de exames complementares de diagnóstico terapêutica e efeitos adversos. É também recolhido o consumo concomitante de a R99 de São Bento. 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Far: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Entidades terceiras a quem podem ser comunicados: Não ha.
+Formas de exercício do direito de acesso e rectificação: junto do médico investigador.
+Porque há tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do titular o médico/investigador e no exercício do direito de rectificação deste tipo de dados, deverá o titular, de igual modo, exercê-lo directamente junto do médico/investigador, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros de dados pessoais: Não há
+Prazo de conservação: o código de doente, porque torna os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, após fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 15 de Setembro de 2008
+Ana Roque
+Carlos Campos Lobo
+ания
+Eduardo Campos ela
+Helena Delgado António (Relatora)
+Luis Baroso
+Imejh
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Pus da São Rante 119_ 2

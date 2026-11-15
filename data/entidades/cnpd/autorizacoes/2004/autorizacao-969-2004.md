@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 969/2004
-official_date: null
+official_date: '2004-09-28'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO-GERAL DOS RECURSOS FLORESTAIS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:40:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 969/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8310](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8310).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 1184/2004
+AUTORIZAÇÃO N. 969 12004
+A Direcção-Geral dos Recursos Florestais vem notificar à CNPD um tratamento relativo à gestão das contra-ordenações cometidas ao abrigo do DL 175/88, de 17 de
+Maio (condicionamento a arborização a espécies de rápido crescimento), DL 139/88, de 22/4 (arborização em árcas percorridas por incêndios), DL 173/88, de 17/5 (proibição do corte prematuro de povoamentos florestais) e DL 174/88, de 17/5 (obrigatoriedade de manifestar o corte ou arranque de árvores).
+Os dados registados são o nome do arguido, nome e localização da propriedade, infracção cometida e valor da coima.
+Os dados constantes da aplicação poderão ser comunicados ao Tribunal e à Direcção
+Regional da Agricultura quando haja fundamento legal para o efeito.
+A legitimidade para o tratamento de dados em apreço - gestão de contra-ordenações -está previsto no artigo 8.° n.º 2 da Lei 67/98, de 26 de Outubro. Há legitimidade para o tratamento quando seja «necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Esse tratamento carece de autorização da CNPD (art. 28.° n.º 1 al. a), que verificará a observância das normas de protecção de dados e de segurança da informação.
+Verifica-se, por isso, que a lei atribui competência à DG dos Recursos Florestais para instruir os processos de contra-ordenação.
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (cf. art. 5.° n.º 1 al. b) e d) da Lei 67/98). A DG dos Recursos Florestais tem legitimidade legal para processar a informação, por ter competência para instruir processos de contra-ordenação. A informação é de acesso restrito, sendo estabelecida password (cf. ponto n.º 11 do formulário de legalização).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação deverá ser conservada pelo período estritamente necessário à finalidade (gestão de contra-ordenações) - cf. art. 5.° al. e) da Lei n.º 67/98, de 26/10 - não podendo a mesma ser conservada, conforme o caso, para além dos prazos de prescrição do procedimento por contra-ordenação ou de prescrição da coima. Findo esses prazos deverá ser eliminada a informação.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 8.° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados relativos aos autos de contra-ordenação, nos seguintes termos:
+1. Responsável: Direcção Geral dos Recursos Florestais 2. Categorias de dados pessoais tratados: nome do arguido, nome e localização da propriedade, infracção cometida e valor da coima.
+3. Finalidade: gestão das contra-ordenações cometidas ao abrigo do DL 175/88, de 17 de Maio (condicionamento a arborização a espécies de rápido crescimento), DL 139/88, de 22/4 (arborização em áreas percorridas por incêndios), DL 173/88, de 17/5 (proibição do corte prematuro de povoamentos florestais) e DL 174/88, de 17/5 (obrigatoriedade de manifestar o corte ou arranque de árvores).
+4. Entidades a quem podem ser transmitidos: Aos tribunais e à Direcção Regional da Agricultura, nos termos da lei. Há comunicação de dados ao Corpo Nacional da
+Guarda Florestal enquanto entidade fiscalizadora e autuante 5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita ao
+Director Geral, sem prejuízo do disposto no artigo 11.° n.º 2 da Lei 67/98.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+Lisboa, 28 de Setembro de 2004
+Areken u
+Amadeu Guerra (relator)
+Alexandre Pinheiro
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos risa Geraldes
+→ ￾
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TEVA PHARMA – PRODUTOS FARMACÊUTICOS, LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 8 de 8 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,155 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T16:08:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 10854/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/84034](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/84034).
+Processo n° 7847/2015 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃON: 10854/2015
+I. DIREITO DE AUDIÇÃO
+A Comissão Nacional de Protecção de Dados (CNPD) elaborou, em 6 de outubro de 2015, projeto de autorização, tendo a requerente sido notificada para se pronunciar nos termos dos artigos 121.° e 122° do Código de Procedimento Administrativo, aprovado pelo Decreto-
+Lei n° 4/2015, de 7 de janeiro.
+No exercício do direito de audição, a requerente veio declarar que aceita os termos e condições constantes do referido projeto.
+Nestes termos, a Comissão Nacional de Protecção de Dados delibera manter o sentido do
+Projeto de Autorização n° 38/2015, o que faz nos termos seguintes:
+II. AUTORIZAÇÃO 1 - O Pedido
+Teva Pharma - Produtos Farmacêuticos, Lda, vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais que tem como finalidade a gestão de recursos humanos.
+As categorias de dados tratados são as seguintes:
+Dados dos trabalhadores e colaboradores nome, sexo, local e data de nascimento, nacionalidade, número de documento de identificação, NIF, morada, telefone, endereço de e-mail, dados recolhidos em processo de seleção, dados bancários necessários para o processamento de salários, reembolso de despesas e pagamento de compensações, número de dependentes a cargo, contactos familiares em caso de emergência, registo criminal, religião, filiação sindical, informação de saude;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 7847/2015 | 2 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Dados dos membros do agregado familiar - nome, data de nascimento, grau de parentesco,
+NIF, n° de documento de identificação, deficiência.
+A recolha de dados é efetuada presencialmente, por preenchimento de impresso.
+No que respeita ao dado registo criminal, a requerente considera ser a sua recolha necessária à gestão de colocações em projetos internacionais, onde os países de acolhimento ou de vaga em projeto poderão ter legislação que exija essa informação.
+A recolha do dado religião prende-se, segundo a requerente, com a centralização de dados para marcação e realização de viagens de trabalho e visa aferir da segurança do trabalhador/colaborador em destinos onde a opção religiosa possa assumir relevância.
+A requerente justifica a recolha de informação de saúde no contexto da medicina do trabalho e ainda por se mostrar necessária essa informação para a reserva de pedidos especiais de assistência a bordo ou de chegada e partida, efetuada através de sistema centralizado de reservas de viagens e deslocações de trabalho implementadas pelo grupo através de uma central única.
+Os dados são processados externamente, em regime de prestação de serviços, pela Sucess
+Factors, Inc., com servidores localizados na Alemanha e Holanda.
+A requerente pretende transferir dados pessoais para a Teva Pharmaticals, Ltd, com sede em Israel, país que foi considerado como oferecendo proteção adequada por decisão da
+Comissão Europeia de 31 de janeiro de 2011.
+A segurança física e lógica dos dados é garantida nos termos descritos no formulário de notificação.
+Está assegurado o direito de acesso aos dados pelo titular.
+Pretende-se a conservação dos dados pelo período de 6 anos após o terminus da relação laboral ou da prestação de serviços.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 7847/2015 | 3 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2 - Apreciação
+Os dados são tratados no âmbito de uma relação contratual que vincula a requerente e o titular dos dados, sendo por isso os dados recolhidos, de uma maneira geral, necessários para a execução do contrato.
+Todavia, a requerente propõe-se ainda tratar dados pessoais relativos à filiação sindical, à saúde e à vida privada, os quais têm a natureza de dados sensíveis, nos termos do disposto no n.° 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados Pessoais
+- LPD).
+Nos termos do n.º 2 do mesmo artigo, o tratamento de dados da vida privada, fé religiosa, filiação sindical e saúde é permitido, quando haja uma disposição legal que consagre esse tratamento de dados, quando por motivos de interesse público importante o tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável ou quando o titular dos dados tiver prestado o seu consentimento.
+No caso em apreço, os dados sensíveis tratados têm o seu fundamento de legitimidade em várias disposições legais (laborais, fiscais, segurança social) que impõem a obrigação legal do seu tratamento, cumprindo o n.º 2 do artigo 7.° da LPD.
+O dado filiação sindical, só é comunicado à requerente por ato voluntário da iniciativa do titular dos dados. Efetivamente, o tratamento deste dado é legítimo quando for importante para o processamento do vencimento do trabalhador, uma vez que a lei autoriza que a entidade empregadora possa tratar este dado com a finalidade de realizar diretamente o pagamento da quota devida ao sindicato pelo trabalhador sindicalizado, a seu pedido. A
+CNPD considera que existe, por isso, legitimidade para o tratamento desse dado.
+O tratamento de dados de saúde no âmbito da gestão da informação dos serviços de segurança e saúde no trabalho, cujo fundamento de legitimidade é - nos termos do n.º 2 do artigo 7° da LPD - a Lei, consubstanciada nos artigos 281° a 284° do Código de Trabalho e na Lei n.º 102/2009, de 10 de Setembro, está sujeito a um procedimento próprio, sobre o qual a CNPD se debruçou na Deliberação n° 840/2010, pelo que não é admitido no âmbito deste procedimento.
+Já no que se refere ao tratamento de dados de saúde efetuado através de sistema centralizado de reservas de viagens e deslocações de trabalho implementadas pelo grupo,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 7847/2015 | 4 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS entendemos ser o mesmo excessivo e não adequado à finalidade do tratamento, tanto mais que pode ser efetuado casuisticamente a pedido do próprio titular, pelo que também se não admite.
+Quanto ao dado religião, se bem que meritórias as preocupações da requerente, dado se tratar de um dado potencialmente discriminatório, também se não admite, por excessivo, o seu tratamento. Também aqui o titular do dado pode consentir pontualmente no respetivo tratamento sem necessidade de qualquer registo pela requerente.
+Vejamos, por fim, o tratamento da informação constante do registo criminal.
+Nos termos do artigo 6° da Lei n° 57/98, de 18 de agosto, à informação constante do registo criminal apenas tem acesso o titular da informação ou quem prove efetuar o pedido em seu nome ou no seu interesse.
+O acesso por terceiros apenas é permitido às entidades elencadas no artigo 7° do mesmo diploma, nos estritos termos e para os fins ali descritos, previsão na qual se não enquadra a situação aqui em apreço.
+Por sua vez, o artigo 11° do diploma em referência prevê a possibilidade de o titular requerer o certificado do registo criminal para fins de emprego, público ou privado, ou para o exercício de qualquer profissão ou atividade cujo exercício dependa de um título público ou de uma autorização ou homologação da autoridade pública (nº1).
+Este acesso só está previsto, porém, para os casos em que, por força de lei, se exija ausência de quaisquer antecedentes criminais ou apenas de alguns para o exercício de determinada profissão ou atividade, devendo o requerente especificar a profissão ou atividade a exercer (n°2).
+Para além deste caso, o artigo 12° da Lei citada prevê que o titular ainda possa requerer o certificado do registo criminal para outros fins. Todavia, o diretor-geral da Administração da
+Justiça pode limitar o conteúdo ou recusar a emissão de certificados requeridos para fins não previstos na lei se o requerente não justificar a necessidade de acesso à informação sobre identificação criminal (artigo 12°).
+Em face do enquadramento legal a que está sujeito o acesso a informação sobre a identificação criminal, e não estando em causa profissão para cujo exercício seja exigível o
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 7847/2015 5
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS certificado de registo criminal - cfr. Tabela de Fins de Certificado de Registo Criminal da
+DGAJ, atualizada em 7 de Janeiro de 2013 -, o tratamento objeto de notificação não pode ser autorizado pela CNPD ao abrigo do disposto no n.º 2 do artigo 8.° da LPD, porquanto este preceito pressupõe que o tratamento de dados pessoais relativos a suspeitas de atividades ilícitas, infrações penais, contraordenações e decisões que apliquem penas, medidas de segurança, coimas e sanções acessórias seja necessário à execução de finalidades legítimas do responsável, situação que os autos, manifestamente, não evidenciam.
+Não se admite, por isso, o tratamento deste dado.
+A informação tratada é recolhida de forma lícita (cf. artigo 5° nº1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) da LPD) e os dados a tratar consideram-se adequados, pertinentes e não excessivos (cf. alinea c)), com exceção dos dados religião, saúde e registo criminal, atentas as razões supra expostas.
+Deve ser dado conhecimento aos familiares do trabalhador/colaborador, quando maiores, de que se irá proceder à recolha de dados pessoais próprios, devendo ser obtido o respetivo consentimento relativamente aos dados cuja recolha não seja obrigatória por determinação legal.
+Aos titulares dos dados deve, no momento da recolha, ser garantido o direito de informação previsto no artigo 10° da Lei n° 67/98, de 26 de outubro.
+Mostra-se garantido o exercício dos direitos de informação e acesso, correção e eliminação dos titulares dos dados.
+Quanto à pretendida comunicação de dados à empresa Teva Pharmaticals, Ltd, com sede em Israel, país que foi considerado como oferecendo proteção adequada por decisão da
+Comissão Europeia de 31 de janeiro de 2011, para efeitos de gestão centralizada, entendemos, à luz do artigo 6°, alínea e), da LPD, que a comunicação pode ser enquadrada no âmbito da «prossecução de interesses legítimos do responsável pelo tratamento ou de terceiro a quem os dados são comunicados, desde que não devam prevalecer os interesses ou os direitos, liberdades e garantias dos titulares dos dados».
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 7847/2015 6
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A responsável pelo tratamento deve, em obediência ao disposto no artigo 14.° n.° 3 da LPD, atentar em que a realização de operações de tratamento em subcontratação deve ser regida por «um contrato ou ato jurídico que vincule o subcontratante ao responsável pelo tratamento e que estipule, designadamente, que o subcontratante apenas atua mediante instruções do responsável pelo tratamento», que não pode utilizar os dados no seu próprio interesse ou em desconformidade com as instruções do responsável e que está obrigado ao sigilo profissional (cf. artigo 17.° n.º 1 da LPD). O responsável deve ainda informar os titulares dos dados sobre os «destinatários dos dados» (cf. artigo 10.° n.º 1, alínea c), da
+LPD).
+No caso a requerente deverá estabelecer em contrato escrito a observação das referidas exigências legais.
+Devem ser garantidas as regras de segurança adequadas, cabendo à responsável assegurar o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+Todavia, independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados tratados.
+Os dados devem ser conservados pelo tempo estritamente i
+'...necessário para a prossecução das finalidades da recolha ou do tratamento posterior" - cf. artigo 5° n°1, alínea e), da LPD -, pelo que "in casu" se entende que o prazo de conservação não deverá exceder o tempo de 1 (um) ano após a cessação do vínculo laboral, sem prejuízo da conservação para além daquele prazo por força de obrigação legal. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária, designadamente à revisão judicial da incapacidade.
+Para fins históricos, autoriza-se a conservação dos dados em cópias de backup não acessíveis em linha.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 7847/2015 | 7 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3 - Conclusão
+Assim, nos termos dos artigos 7° nº2, 28° nº1, alíneas a) e 30° n.° 1 da Lei n° 67/98, de 26 de outubro, a CNPD autoriza o tratamento de dados pessoais notificado, desde que observadas as condições impostas, consignando-se o seguinte:
+Responsável: Teva Pharma - Produtos Farmacêuticos, Lda
+Finalidade: Gestão de recursos humanos
+Categoria de dados pessoais tratados:
+Dados dos trabalhadores e colaboradores nome, sexo, local e data de nascimento, nacionalidade, número de documento de identificação, NIF, morada, telefone, endereço de e-mail, dados recolhidos em processo de seleção, dados bancários necessários para o processamento de salários, reembolso de despesas e pagamento de compensações, número de dependentes a cargo, contactos familiares em caso de emergência, filiação sindical;
+Dados dos membros do agregado familiar - nome, data de nascimento, grau de parentesco,
+NIF, n° de documento de identificação, deficiência
+Comunicações de dados: não há
+Forma de exercício do direito de acesso e retificação: por solicitação à responsável, presencialmente e por escrito
+Interconexões: não há
+Fluxo transfronteiriço de dados para países terceiros: à empresa Teva Pharmaticals, Ltd, com sede em israel
+Prazo de Conservação: Um ano após a cessação do vínculo laboral, sem prejuízo da conservação para além daquele prazo por força de obrigação legal. Os dados podem ainda ser conservados para fins históricos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 7847/2015 8
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A presente autorização não abrange o tratamento de dados pessoais com a finalidade de
+Medicina no Trabalho e não se autoriza a recolha do dado "religião", "saúde" e "registo criminal".
+Lisboa, 3 de novnda de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

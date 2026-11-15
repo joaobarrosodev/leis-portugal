@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2192/2009
-official_date: null
+official_date: '2009-06-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMPUWARE, S.A. (SUCURSAL EM PORTUGAL)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,70 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:02:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2192/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16314](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16314).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 0449/2006 2192
+AUTORIZAÇÃO N°
+/2009 1) O Pedido
+A sociedade Compuware, SA (Sucursal em Portugal) notifica um tratamento de dados de gestão dos seus trabalhadores, incluindo cumprimento de obrigações face à Segurança
+Social e a Inspecção Geral do Trabalho, com informação da empresa-mãe, nos EUA.
+Os dados tratados são: nome, título, morada, sexo, data de nascimento, número do BI, número da Segurança Social, número de contribuinte, número de carta de condução, dados bancários, habilitações literárias, situação contratual, data de contratação, data de início de funções, base de pagamento, categoria, designação da posição, relatórios e ordenados, justificação de ordenado, próxima revisão de ordenado e localização da
+Como fundamento de legitimidade, apontam-se o cumprimento de obrigações legais, a execução de obrigações contratuais e a prossecução de interesses legitimos.
+Não existe comunicação de dados nem interconexões.
+Existe fluxos transfronteiras para a empresa-mãe, nos EUA.
+Como medidas de segurança apontam-se o acesso restrito de pessoas e a utilização de palavras-chave de acesso aos dados e de sistemas de processamento de "backup".
+A transmissão para os EUA é feita através de linhas dedicadas.
+Como prazo de conservação aponta-se o "máximo de dez anos após a cessação do contrato".
+O exercício dos direitos de acesso e rectificação ocorre mediante contacto por escrito, fax ou telefone para sede da responsável.
+2) Apreciação
+As finalidades prosseguidas apresentam-se determinadas, explícitas e legítimas (Lei n° 67/98, de 26 de Outubro, art° 5°, n° 1, al b).
+E os dados tratados são adequados, pertinentes e não excessivos, face a essas finalidades (ibidem, al a).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade é a prossecução de interesses legítimos, reforçado em parte pelo cumprimento de obrigações legais.
+O fluxo transfronteiras pode alicerçar-se, de acordo com o que tem vindo a ser aceite -sem prejuizo de possivel discussão da questão em termos gerais -, pelo consentimento dos trabalhadores.
+O prazo de conservação afigura-se desproporcionado. É, pois, suficiente o período de um ano após a cessação do vinculo laboral.
+As medidas de segurança são ajustadas.
+3) Autorização a) Responsavel
+Compuware, SA - (Sucursal em Portugal).
+b) Finalidade
+Gestão de trabalhadores, incluindo cumprimento de obrigações perante a
+Segurança Social e a Inspecção do Trabalho.
+c) Dados tratados
+Nome, título, morada, sexo, data de nascimento, número do BI, número da
+Segurança Social, número de contribuinte, número de carta de condução, dados bancários, habilitações literárias, situação contratual, data de contratação, data de início de funções, base de pagamento, categoria, designação da posição, relatórios e ordenados, justificação de ordenado, próxima revisão de ordenado e localização da empresa.
+d) Comunicação de dados
+Não há e) Interconexões
+Não há f) Fluxos transfronteiras
+Para a empresa-mãe, nos EUA g) Forma de exercício dos direitos de acesso e rectificação
+Contacto por carta, fax ou telefone, para a sede da responsável.
+Lisboa, 1 de Junho de 2009
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luis Paiva de Andrade
+Luís Lingnau da Silveira (Presidente e relator)
+amm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SANOFI-AVENTIS,PRODUTOS FARMACÊUTICOS, S.A.(EX:RHÔNE POULENC RORER, LDA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:24:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 877/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14748](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14748).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 10341/08
+AUTORIZAÇÃO N° 877 /2009
+A Sanofi- Aventis, Produtos Farmacêuticos, SA em representação da Teva
+Pharmaceuticals. Ltd, com sede em Israel, notificou à CNPD um tratamento de dados pessoais com a finalidade de realizar um estudo observacional prospectivo, multicêntrico, com o objectivo de avaliar a evolução da esclerose múltipla recidivante-remissiva, em doentes que alteraram a terapêutica de medicamentos modificadores da doença (mmd) para acetato de glatirâmero..
+A Anfomed, com sede da Alemanha, é a entidade encarregue do processamento da informação.
+O estudo, em Portugal, terá a participação de cerca de 50 doentes, de ambos sexos, com diagnóstico de esclerose múltipla recidivante-remissiva, que tenham alterado a terapêutica para acetato de glatirâmero, nos três meses anteriores à inclusão no estudo e que . A duração será de 24 meses.
+Aos doentes, nas condições de inclusão, das unidades de saúde aderentes ao estudo, será solicitado, pelo seu médico assistente e que tem, simultaneamente, a qualidade de investigador, o consentimento para a sua participação no estudo.
+As declarações de consentimento são guardadas pelo médico investigador.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico.
+São as seguintes as categorias de dados registados: código do doente, dados demográficos, história clínica da doença, annual relapse rate, e escala de qualidade de vida, escala de depressão, escala de avaliação neurológiaca, medicação concomitante e razões para a alteração da terapêutica e registo de eventos adversos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+O texto do direito de informação deve ser reformulado de forma a cumprir o disposto no artigo 10° da LPD.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Sanofi- Aventis, Produtos Farmacêuticos, SA em representação da Teva Pharmaceuticals. Ltd, com sede em Israel.
+Finalidade: estudo observacional prospectivo, multicêntrico, com o objectivo de avaliar a evolução da esclerose múltipla recidivante-remissiva, em doentes que alteraram a terapêutica de medicamentos modificadores da doença para acetato de glatirâmero..
+Categoria de Dados pessoais tratados: código do doente, dados demográficos, história clínica da doença, annual relapse rate, e escala de qualidade de vida, escala de depressão, escala de avaliação neurológiaca, medicação concomitante e razões para a alteração da terapêutica e registo de eventos adversos.
+Entidades a quem podem ser comunicados: Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente deve ser destruído, quer pelo médico investigador, quer pela subcontratada, imediatamente após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa,02Março de 2009
+Ana Roque (Relatora), Carlos Campos Lobo, Luís Paiva de Andrade, Helena Delgado
+António, Luís Barroso, Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

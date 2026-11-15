@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ISU - ESTABELECIMENTOS DE SAÚDE E ASSISTÊNCIA, S.A (HOSPITAL DA CUF)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,65 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:14:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 15/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11061](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11061).
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+AUTORIZAÇÃO N.95/97
+ISU - Estabelecimentos de Saúde e Assistência, SA solicita autorização para a manutenção de um tratamento informático para processamento administrativo de facturação e estatístico" relativo aos seus doentes, internos e externos.
+Contudo, para a finalidade referida é tido por necessário o registo de dados relativos aos "actos médicos" a que foram submetidos os doentes, nomeadamente "código exame, intervenção associada, tipo anestesia e alergias".
+Tais dados não poderão deixar de ser considerados como relativos ao "estado de saúde" dos respectivos titulares, tendo em conta o conceito de "dados médicos" tido por mais adequado, como sendo os referentes a todos os dados de carácter pessoal relativos à saúde de uma pessoa, bem como aqueles que tenham uma ligação, manifesta e estreita, com a saúde - cfr o Princípio 1. do Projecto de
+Revisão da Recomendação N.º R (81) 1, de 23/01, relativa à regulamentação dos bancos de dados médicos.
+Forçoso será, deste modo, concluirmos que estamos perante um tratamento informático de dados pessoais sobre o "estado de saúde".
+Daí a necessidade da competente autorização, tudo nos termos do disposto nas disposições conjugadas dos Art.°s 11.° n.º 1 al. b) e 17.º n.º 2 da Lei 10/91, de 23/04, na redacção dada pela Lei 28/94, de 29/08.
+1- Mostra-se devidamente fundamentada a recolha dos dados, através de consentimento prestado por escrito pelo respectivo titular, conforme "Declaração" junta.
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS 2- Adverte-se a Requerente de que à informação estritamente de carácter médico, desnecessária para a facturação referida, apenas poderão ter acesso directo os médicos ou outros profissionais de saúde obrigados a sigilo, podendo o pessoal administrativo ter acesso à demais informação registada.
+3- Finalmente, chama-se também a atenção da Requerente para o facto de o direito de acesso à informação registada pelo respectivo titular dever ser feita aravés de médico pelo mesmo designado, tudo nos termos do disposto no art.º 28.° n.º 3 da Lei 10/91, de 29/04.
+***
+Delibera assim esta CNPDPI autorizar o tratamento informático referido nos seguintes termos :
+Responsável - ISU - Estabelecimento Saúde e Assistência, S.A., com sede na
+Trav. do Castro, 3 1350 Lisboa
+Tel.- 3926100 Fax- 605933 ;
+Finalidade - Processamento administrativod e facturação e estatística ;
+Caracter. - Sistema central com linguagem de programação ;
+Serv.Process. - Recepção ;
+Dados Pessoais - Doentes internos : os constantes dos "prints" juntos ; doentes externos - Nome, telefone e resultados das análises clínicas ;
+Recolha e Actual. - Directa e pessoal ;
+Fundamento - Consentimento escrito ;
+Comunicação - Não há ;
+Comparaç. e Interconex. - Não há ;
+Fluxos Transfr. - Não há ;
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Segurança - As constantes da "Declaração", com excepção de cópias de "backup" e sistema de alarme e resposta ;
+Conservação - 15 anos ; no que respeita a análises - entre 6 a 9 meses ;
+Acesso Directo - Informação estritamente médica - médicos e profissionais de saúde ; demais informação - pessoal administrativo ;
+Direito de Acesso e Correcç. - A pedido do respectivo titular, sempre através de médico pelo mesmo designado.
+Lx.", 20/02/97
+O Relator
+Os Vogais (Mário-M. Varges Gomes)
+iden (Amadeu F. Ribeiro Guerra)
+(Nuno Morais Sarmento)
+(Joaquim Seabra Lopes)
+(João A. M. Labescat)
+O Presidente (Luis J. Durão Barroso)
+E ViR CAL (A. Victor Coelho)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

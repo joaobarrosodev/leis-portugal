@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 56/2008
-official_date: null
+official_date: '2008-02-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JUNTA DE FREGUESIA DE MIRA-SINTRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 56/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1027](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1027).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.º 4080/06
+Registo n.º 56/08
+A Junta de Freguesia de Mira-Sintra notificou um tratamento de dados pessoais com a finalidade gestão bolsa de emprego dos munícipes.
+Declaram as seguintes categorias de dados pessoais relativas aos candidatos:
+Nome, sexo, morada, contacto, e-mail nacionalidade, data de nascimento, BI,
+NIF, estado civil, n.º de dependentes a cargo, carta de condução, transporte próprio, habilitações literárias, conhecimentos de línguas e de informática, experiência profissional e currículo vitae, situação face ao emprego, inscrição em centro de emprego, eventuais deficiências, disponibilidade para trabalhar, autorização de residência/permanência e necessidade de formação (s/n).
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98), com excepção dos dados relativos a documentos de identificação, n.º de filhos, nacionalidade e autorizações de residência e permanência, que sendo necessários para as eventuais entidades empregadoras no momento do contrato o não são para a finalidade aqui em análise.
+São entidades participantes no projecto a Junta de Freguesia de Mira Sintra,
+Fundação Aga Khan Portugal, Centro de Educação para o Cidadão Deficiente,
+Agrupamento de Escolas de S. Domingos Jardo e as IPSS Casa do Quero e
+Casa Seis. Estas entidades têm acesso à informação.
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, consentimento do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável - Junta de Freguesia de Mira-Sintra
+Categoria de dados pessoais tratados - . Nome, sexo, morada, contacto, e-mail, data de nascimento, estado civil, carta de condução, transporte próprio, habilitações literárias, conhecimentos de línguas e de informática, experiência profissional e currículo vitae, situação face ao emprego, inscrição em centro de emprego, eventuais deficiências, disponibilidade para trabalhar e necessidade de formação (s/n).
+Finalidade - gestão bolsa de emprego dos munícipes
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação da informação - Um ano.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, devendo constar do formulário de recolha a finalidade bem como as entidades com acesso à informação.
+Não se autoriza o tratamento de dados relativos a hábitos, designadamente o consumo de álcool, café ou tabaco, ainda que estes tenham sido fornecidos pelo respectivo titular no currículo. As informações recolhidas devem limitar-se às questões que incidam sobre as qualificações e a experiência profissional dos trabalhadores.
+Alerta-se o responsável que os dados não podem ser utilizados para qualquer outra finalidade.
+Lisboa, 4 de Fevereiro de 2008
+A Secretária da CNPD avos
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

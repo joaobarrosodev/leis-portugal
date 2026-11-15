@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6/2008
-official_date: null
+official_date: '2008-01-08'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CLUBE DE GOLFE DO CENTRO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,32 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 6/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1076](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1076).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 04/07
+Registo n.º O 108
+Clube de Golf do Centro notificou um tratamento de dados pessoais com a finalidade gestão de associados.
+Declaram as seguintes categorias de dados pessoais: N.° de sócio do clube, nome, morada, dados de HCP, n.º de federado, tipo de handicap e resultados em competições.
+Os dados são recolhidos directamente, por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Clube de Golf do Centro
+Categoria de dados pessoais tratados - N.º de sócio do clube, nome, morada, dados de HCP, n.º de federado, tipo de handicap e resultados em competições.
+Finalidade - gestão de associados;
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsavel;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei n.° 67/98, de 26 de Outubro.
+Lisboa, 08 de Janeiro de 2008
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

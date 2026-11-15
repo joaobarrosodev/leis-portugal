@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 89/2019
-official_date: null
+official_date: '2019-12-27'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASSEMBLEIA DA REPÚBLICA COMISSÃO DE ECONOMIA E OBRAS PÚBLICAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,31 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:56:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 89/2019
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121722](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121722).
+Processo PAR/2019/81 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER/2019/89
+I. Pedido
+A Comissão de Economia, Inovação e Obras Públicas solicitou à Comissão Nacional de
+Proteção de Dados (doravante CNPD) a emissão de parecer sobre o Projeto de Lei n.° 172/XIII/1.ª relativo à 9.ª alteração ao Decreto-Lei n.º 251/98, de 11 de agosto, que regulamenta o acesso à atividade e ao mercado dos transportes em táxi.
+O pedido formulado e o parecer ora emitido decorrem das atribuições e competências da
+CNPD, enquanto autoridade de controlo nacional dos tratamentos de dados pessoais, conferidos pela alínea c) do n.º 1 do artigo 57.° e pelo n.º 4 do artigo 36.° do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento
+Geral sobre a Proteção de Dados - RGPD), em conjugação com o disposto no artigo 3.°, no n.º 2 do artigo 4.° e na alínea a) do n.º 1 do artigo 6.°, todos da Lei n.º 58/2019, de 8 de agosto.
+II. Apreciação
+O Projeto de Lei em apreço altera o regime de atividade do setor do táxi, designadamente quanto ao local de colocação do taxímetro, à intervenção do poder local e regional no estabelecimento de medidas que aproximem a oferta e procura, a alteração de tarifas, bem como os impedimentos do exercício temporário da atividade por razões de força maior.
+A proposta de articulado em apreço não contempla qualquer norma que estabeleça ou preveja a realização de tratamentos de dados pessoais, à luz das noções constantes das alíneas 1) e 2) do artigo 4.° do RGPD.
+III. Conclusão
+Com os fundamentos acima expostos, e considerando que o Projeto de Lei em apreço não contém qualquer norma que determine ou regule a realização de qualquer tratamento de dados pessoais, a CNPD nada tem a observar.
+Lisboa, 27 de dezembro de 2019
+João Marques (Relator)
+AV. D. Carlos I, 134 - 1.º 1200-651 Lisboa
+Tel: + 351 213 928 400
+Fax: + 351213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pr

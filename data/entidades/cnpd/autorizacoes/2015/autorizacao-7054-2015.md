@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7054/2015
-official_date: null
+official_date: '2015-07-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Centro Hospitalar do Porto, EPE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,104 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T17:13:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7054/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/79855](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/79855).
+Processo N.° 4438/2015 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 7054/2015
+I. Pedido
+O Centro Hospitalar do Porto, E.P.E. notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo intitulado estudo "RING: Rituximab para Nefrite Lúpica, tendo como meta a remissão. Estudo multicêntrico internacional, aleatorizados, aberto, de iniciativa do investigador";
+A finalidade do estudo é demonstrar a eficácia de rituximab no tratamento da nefrite lúpica em doentes que não responderam ao tratamento convencional com corticoterapia e imunossupressores.
+Serão participantes no estudo todos os indivíduos com Nefrite Lúpica assistidos no
+Centro Hospitalar do Porto - Hospital de Santo António, no Centro Hospitalar e
+Universitário de Coimbra e no Centro Hospitalar de Lisboa Central - Hospital Curry
+Cabral.
+Os participantes serão aleatoriamente divididos por dois grupos: um grupo que receberá rituximab por via intravenosa, e um grupo de controlo que receberá o tratamento convencional.
+Serão recolhidos dados clínicos sobre cada participante, bem como amostras de sangue para identificação de marcadores biológicos e genéticos para auxiliar na investigação, diagnóstico e tratamento das doenças reumáticas.
+Aos participantes será atribuído um código que não permitirá a identificação direta do doente. Apenas a equipa de investigação de cada centro terá acesso à correspondência entre a identidade do doente e o código atribuído no estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N° 4438/2015 2 f
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os destinatários são ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento, caso decidam participar, recolhendo o médico assistente/investigador o seu consentimento informado para o efeito. Será solicitado consentimento informado para recolha e análise das amostras biológicas.
+II. Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro - Lei de Proteção de Dados (LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos de investigação na área da saúde.
+Porque em grande parte referentes à vida privada e também à saúde, os dados recolhidos pela requerente têm a natureza de sensíveis, nos termos do disposto no n.° 1 do artigo 7.° da LPD.
+Em regra, o tratamento de dados sensíveis é proibido, de acordo com o disposto no n.º 1 do artigo 7.° da LPD. Todavia, nos termos do n.º 2 do mesmo artigo, o tratamento de dados da vida privada e de saúde é permitido, quando haja uma disposição legal que consagre esse tratamento de dados, quando por motivos de interesse público importante o tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável ou quando o titular dos dados tiver prestado o seu consentimento.
+Não estando preenchidas as duas primeiras condições de legitimidade, o fundamento de legitimidade só pode basear-se no consentimento dos titulares dos dados ou dos representantes legais, quando os titulares dos dados sejam incapazes.
+Assim, é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento (cf. artigo
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.° 4438/2015
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3.°, alínea h), da LPD), o qual deve ser obtido através de uma "declaração de consentimento informado" onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Nos termos da Lei n.º 12/2005, de 26 de janeiro, é legítima a criação de um biobanco com a finalidade de investigação básica ou aplicada à saúde (cf. n.º 3 do artigo 19.°).
+Os destinatários deverão ser informados sobre a finalidade do biobanco e que a utilização para estudos futuros será sujeita a um consentimento informado específico, sendo facultativa a sua participação e garantida a confidencialidade no tratamento.
+O consentimento para a conservação dos dados no biobanco não dispensa a solicitação de um consentimento específico para a participação num futuro estudo.
+Para a constituição do biobanco terá de ser obtida a autorização prévia da entidade credenciada pelo departamento responsável pela tutela da saúde, de acordo com o disposto no n.º° 2 do artigo 19.° da Lei n.º 12/2005.
+A par das amostras de sangue, os dados clínicos recolhidos devem ser igualmente objeto de codificação, ou seja, do caderno de recolha de dados não deve constar qualquer elemento identificador do doente participante, sendo antes aposto um código de doente.
+Deverão ser adotadas medidas de segurança adequadas, devendo ser dada especial atenção à necessidade de assegurar:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.º 4438/2015 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS a)
+O direito de informação e acesso aos titulares dos dados, nos termos do artigo 10.° e n.° 5 do artigo 11.° da LPD, assim como do artigo 9.° da Lei n.° 12/2005;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. n.° 3 do artigo 15.° da LPD);
+c) A adoção de medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas; a informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. n.º 4 do artigo 7.° da LPD).
+Cabe ao Investigador assegurar a confidencialidade dos dados pessoais e da informação tratada, conforme o estatuído na alínea g) do artigo 10.° da Lei n.° 21/2014, de 16 de abril (Lei da investigação clínica).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1 alínea a) da Lei n.° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Os cadernos de recolha de dados são objeto de codificação, que corresponde às iniciais do doente e a um número. Não se considera que este método acautele devidamente a anonimização dos dados, pelo que deve ser alterado o código para que não seja possível a pessoas estranhas à equipa de investigação identificar os titulares dos dados.
+Pelos mesmos motivos, também o dia de nascimento não deve recolhido.
+III. Conclusão
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.° 4438/2015 5
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º 1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.° e artigo 30.° da Lei de Proteção de Dados, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão e ainda com a condição acima estabelecida, autoriza-se o tratamento de dados supra referido, consignando-se o seguinte:
+Responsável pelo tratamento: Centro Hospitalar do Porto, E.P.E.;
+Finalidade: estudo "RING: Rituximab para Nefrite Lúpica, tendo como meta a remissão. Estudo multicêntrico internacional, aleatorizados, aberto, de iniciativa do investigador";
+Categoria de Dados pessoais tratados: código do participante; mês e ano de nascimento, sexo, história clínica (medicação realizada, medicação atual, classificação
+ISN/RPS 2003 de biopsia renal, parâmetros laboratoriais), peso, sinais vitais,
+SELENA-SLEDAI (escala de actividade da doença), SLICC/ACR (avaliação de danos);
+amostras de sangue.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruida um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 21 de julho de 2015 ilie
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: I.R.I.S - Institut de Recherches Internationales Servier'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,66 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:17:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1537/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51816](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51816).
+Proc. n.º 759/2013 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º / 537/2013
+I.R.I.S. - Institut Internationales Servier, representada pela Servier Portugal, veio notificar a CNPD de um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico. Pretende-se avaliar a eficácia de medicamentos de uso humano em doentes com doença arterial coronária (Protocolo CL3-16257-102).
+Trata-se de um ensaio «...multicêntrico, internacional, em dupla ocultação, controlado com placebo e aleatorizado» para verificação dos «efeitos da ivabradina na composição, morfologia e volume da placa de ateroma em doentes com indicação clínica de angiografia coronária».
+As categorias de dados pessoais tratados: n.º participante no estudo, data de nascimento, sexo, raça, idade, métodos contracetivos usados, teste de gravidez, hábitos tabágicos, história médica e cirúrgica, exame físico, eletrocardiograma, exames laboratoriais, eventos adversos, tratamentos concomitantes e nome do investigador.
+O Promotor justificou a recolha do dado raça com os seguintes fundamentos:
+«A recolha de dados relativos à origem racial ou étnica é uma prática comum nos ensaios clínicos, fazendo parte da informação demográfica recolhida. Esta informação é essencial devido à necessidade de provar que os resultados obtidos são válidos independentemente da origem étnica do doente e por isso transponíveis para outros grupos populacionais.
+Adicionalmente, a população alvo deste ensaio serão doentes com Doença Arterial
+Coronária, sendo que faz parte do protocolo terapêutico normal destes doentes a administração de diversos fármacos, nomeadamente fármacos da classe dos inibidores da enzima de conversão da Angiotensina. Esta classe de fármacos é responsável por uma taxa mais elevada de angioedema e por uma redução inferior da pressão arterial em doentes de raça negra, possivelmente devido a uma maior prevalência de renina baixa na população de raça negra».
+Assim sendo, atentos os referidos argumentos que apontam para a necessidade da recolha do dado "raça" para aferir o perfil de segurança e de eficácia em função destes elementos, admite-se a recolha deste dado.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 759/2013 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+A CNPD já se pronunciou na sua Deliberação n.° 333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.º 5.°, n.º1, alínea a), da Lei n.º 67/98, de 26 de outubro - LPD) para finalidades determinadas, explícitas e legítimas (cf. alínea b do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular, previsto no n.º2 do artigo 7.° da LPD.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a), e 30.° da LPD, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: I.R.I.S. - Institut Internationales Servier, representada pela Servier Portugal.
+Finalidade: gestão de ensaio clínico (Protocolo n.º CL3-16257-102).
+Categoria de Dados Pessoais tratados: n.° participante no estudo, data de nascimento, sexo, raça, idade, métodos contracetivos usados, teste de gravidez, hábitos tabágicos, história médica e cirúrgica, exame físico, eletrocardiograma, exames laboratoriais, eventos adversos, tratamentos concomitantes e nome do investigador.
+Fluxos transfronteiras: Não se verificam.
+Formas de exercício do direito de acesso e retificação: Junto do médico investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do Decreto - Lei n.° 176/2006, 30 de agosto.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt.
+www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 759/2013 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007, que aqui se dão por reproduzidos, e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa 26 fevereiro de 2013
+Ana Roque, Carlos de Campos Lobo, Vasco Almeida (Relator), Luís Paiva de
+Andrado, Hina mono,
+Luís Barroso (O Vogal em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

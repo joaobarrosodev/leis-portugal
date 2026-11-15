@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FORPOINT - INSTITUTO PARA A FORMAÇÃO E INOVAÇÃO NA SAÚDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,25 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:10:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1725/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15665](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15665).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 810/09
+AUTORIZAÇÃO N.º 172 12009
+A Forpoint - Instituto para a Formação e Inovação na Saúde notificou um tratamento de dados pessoais com a finalidade elaborar um estudo de avaliação da tolerância a uma bebida energética.
+Os participantes serão recrutados mediante a aplicação de um questionário de rua, anónimo para verificação dos critérios de inclusão.
+Os indivíduos que reúnam os critérios de inclusão serão convidados a participar no estudo, sendo-lhes entregue informação relativa aos contactos da Keypoint, para o agendamento de entrevista para a participação no estudo.
+O estudo terá uma duração de 9 dias, com deslocações de 3 em 3 dias ao centro estudo.
+Na primeira visita, será solicitado o consentimento para a recolha de dados pessoais.
+Serão recolhidos os seguintes dados: Código do participante, dados demográficos (ano de nascimento, sexo e profissão), dados antropométricos (peso e altura), dados clínicos (prova de avaliação da concentração, resultados de análise ao sangue e à urina, parâmetros de frequência cardíaca e tensão arterial)
+A tabela de correspondência entre o número de código e os dados de identificação do participante será destruída no fim do projecto.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Rua de São Bento. 148-3° • 1200-801 1 ISROA

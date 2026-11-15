@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2023/2013
-official_date: null
+official_date: '2013-03-12'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Shore Spun, Unipessoal Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:08:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2023/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52278](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52278).
+Processo 8805/2012 | 1 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Autorização n.º2023/2013 1. Pedido
+Shore Spun, Unipessoal Ldª, com sede em Avª da República n°6, 7° Esq° - Lisboa notificou um tratamento de dados pessoais cuja finalidade é a gestão de cobranças e pagamentos.
+Os dados tratados são: Dados de identificação do cliente, morada, contactos, número de faturação, montante em dívida, descrição da dívida, dados para processamento do pagamento.
+Como medidas de segurança implementadas apontam-se: sistema de controlo de acessos, password de acesso e cópias de backup.
+Os dados serão conservados pelo tempo de 4 meses.
+Os titulares podem exercer o direito de acesso, retificação e eliminação junto da
+Requerente (presencialmente ou por escrito).
+2. Apreciação
+Em presença de pedido formulado e da atividade exercida pela Requerente está-se perante finalidade determinada, explícita e legítima.
+Os dados recolhidos, pelo grau de pormenor e pelas finalidades a que se destinam, integram-se no conceito de informação relativa ao "crédito e solvabilidade" dos titulares. E consequência, o tratamento é sujeito a controlo prévio da CNPD (cf. alínea a) do n.º 1 do artigo 28.° da Lei 67/98, de 26 de outubro - doravante LPDP).
+Estes dados, mostram-se necessários, não excessivos e pertinentes para a finalidade declarada (cf. artigo 5.° da LPDP).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 8805/2012 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Há legitimidade para o tratamento de dados, no contexto da finalidade declarada, suportada em contrato em que o titular dos dados é parte (cf. alínea a) do artigo 6.° da
+LPDP).
+Quanto às medidas de segurança e, bem assim, exercício do direito de acesso, retificação e eliminação, pensa-se estarem acautelados.
+No que tange ao prazo de conservação entende-se ser o mesmo razoável.
+3. Decisão
+Em face do exposto a CNPD autoriza o tratamento, nos termos declarados e com as condições supra indicadas, consignando-se, nos termos dos artigos 27º. 28.°, n.º 1, alínea b) e 30.° da LPDP:
+1. Responsável: Shore Spun, Unipessoal Ldª;
+2. Categorias de dados pessoais: Dados de identificação do cliente, morada, contactos, número de faturação, montante em dívida, descrição da dívida, dados para processamento do pagamento;
+3. Finalidade do Tratamento: Gestão de cobranças e pagamentos;
+4. Entidades a quem podem ser transmitidos: Não há comunicação, interconexão nem fluxos transfronteiriços de dados;
+5. Forma de exercício do direito de acesso e retificação: Por solicitação escrita ou presencialmente junto da Requerente;
+6. Prazo máximo de conservação dos dados: Tempo de 4 (quatro) meses.
+Lisboa, 12 de março de 2013
+Carlos Campos Lobo (relator), Ana Roque, Luís Barroso, Luís Paiva de Andrade,
+Helena Delgado António, Vasco Almeida
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

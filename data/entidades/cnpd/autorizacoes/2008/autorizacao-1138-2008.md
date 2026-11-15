@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASSOCIAÇÃO DIANOVA PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:31:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1138/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4463](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4463).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.º 2248/08
+Autorização n.° ||3g/08
+A Associação Dianova Portugal solicitou junto da CNPD autorização para um tratamento de dados pessoais, com a finalidade de proceder à "sistematização de dados informativos sobre Utentes em processo de tratamento na instituição".
+São recolhidas as seguintes categorias de dados pessoais:
+- Relativas aos Utentes: Nome, morada, telefone, sexo, filiação, estado civil, data de nascimento, habilitações e experiência profissional;
+- Relativas aos Pais: Nome, idade, profissão e endereço;
+- Relativas aos Filhos: Idade, data de nascimento, situação;
+- Histórico do atendimento;
+- Histórico e relatório clínico de admissão.
+A entidade requerente veio ainda esclarecer a CNPD acerca da disponibilidade exclusiva do registo de diagnóstico dos utentes para os técnicos do serviço, sendo sempre executados em função do tratamento. Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b)
+do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do artigo 7°, n° 2, da LPD, o consentimento expresso do titular. Em face do exposto, a CNPD autoriza o tratamento relativo aos registos à gestão dos registos dos utentes da
+Associação Dianova Portugal, nos termos do artigo 30.° da Lei 67/98, de 26 de
+Outubro, nos seguintes termos:
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável: Associação Dianova Portugal
+Categoria de dados pessoais tratados:
+- Relativas aos Utentes: Nome, morada, telefone, sexo, filiação, estado civil, data de nascimento, habilitações e experiência profissional;
+- Relativas aos Pais: Nome, idade, profissão e endereço;
+- Relativas aos Filhos: Idade, data de nascimento, situação;
+- Histórico do atendimento;
+- Histórico e relatório clínico de admissão.
+Finalidade: sistematização de dados informativos sobre Utentes em processo de tratamento na instituição
+Forma de exercício do direito de acesso e rectificação: Por solicitação junto do responsavel;
+Comunicação de dados: Segurança Social
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Tempo de conservação dos dados - 5 anos
+Os dados recolhidos devem ser separados logicamente, de modo a que os dados de saúde apenas possam ser acedidos por médicos ou outros técnicos sujeitos a segredo profissional.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10. Tendo em conta a finalidade do tratamento e o direito de informação prestado, a comunicação ou o acesso a quaisquer dados terá de depender do consentimento expresso e informado de todos os titulares, para os quais deve ser claro que será dado o acesso àquelas entidades e qual a finalidade do acesso concedido. Assim, deve ser alterado o texto relativo ao consentimento para fluxos de dados.
+Lisboa, 02 Junho de 2008.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E mail coral annd at
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque (relatora)
+Carlos Campos Lobo
+Luis Barroso
+амио
+Eduardo Campos
+Helena Delgado António
+Almeida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

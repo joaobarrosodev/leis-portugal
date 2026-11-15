@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3514/2017
-official_date: null
+official_date: '2017-03-08'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Elisa Manuela dantas Barros da Cunha'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T10:38:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3514/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/103389](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/103389).
+Processo n° 552/2017| 1 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 3514 12017
+Elisa Manuela Dantas Barros da Cunha notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de realizar um estudo de sobre "(...) hipótese de progressão acerca da perceção dos professores da avaliação das escolas".
+O participante é identificado por um código especificamente criado para este estudo, constituído de modo a não permitir a imediata identificação do titular dos dados;
+designadamente, não sendo utilizados códigos que coincidam com os números de identificação, iniciais do nome, data de nascimento, número de telefone, ou resultem de uma composição simples desse tipo de dados.
+A necessidade de pseudoninimizar decorre do facto de existirem dois inquéritos que terão de ser relacionados. A chave da codificação só é conhecida da investigadora.
+A amostra é constituída pelos professores de agrupamento de escolas na região do Algarve.
+A informação é recolhida diretamente do titular.
+Os dados pessoais recolhidos são adequados, necessários e não excessivos (cf. alínea c)
+do n.º 1 do artigo 5.° da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto, doravante LPD.
+O fundamento de legitimidade é o consentimento expresso do titular.
+A informação tratada é recolhida de forma lícita (cf. alínea a) do n.° 1 do artigo 5.° da da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto - doravante
+LPDP), para finalidade determinada, explícita e legitima (cf. alínea b) do mesmo número e artigo) e não é excessiva.
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, da alínea a) do n.º 1 do artigo 28.° e do artigo 30.° da LPD, autoriza-se o presente tratamento de dados pessoais nos seguintes termos:
+Responsável - Elisa Manuela Dantas Barros da Cunha;
+Finalidade - Estudo hipótese de progressão acerca da perceção dos professores da avaliação das escolas;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 552/2017 | 1v.
+Categoria de dados pessoais tratados - Código do participante, dados profissionais e perceção da avaliação de escolas;
+Exercício do direito de acesso - Através da investigadora, presencialmente ou por escrito para o endereço Quinta da Colina, Casa A1, 8200-373 Albufeira;
+Comunicações, interconexões e fluxos transfronteiriços de dados pessoais identificáveis no destinatário - Não existem;
+Prazo máximo de conservação dos dados - A chave que produziu o código que permite a identificação indireta do titular dos dados deve ser eliminada 10 meses após o fim do estudo.
+Lisboa, 2 8 de março de 2017
+Filipa Calvão (Presidente)

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 139/2001
-official_date: null
+official_date: '2001-07-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FINANCEIRA - EL CORTE INGLÊS- EFC'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,72 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:05:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 139/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9982](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9982).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 130/2001
+AUTORIZAÇÃO N.º 139 /2000 1. A Financeira EL CORTE INGLÉS, EFC, SA veio notificar o tratamento que tem como finalidade a «recolha de dados com vista à atribuição de crédito e gestão do respectivo cartão a clientes do Grupo económico EL CORTE INGLÉS».
+Os dados tratados vêm especificados no anexo ao ponto n.º 5 do formulário de notificação, sendo de salientar as seguintes categorias de dados: de identificação pessoal, composição do agregado familiar, situação profissional e tipo de vínculo laboral e dados sobre a situação patrimonial e financeira (tipo de casa de morada de "família"- própria, arrendada, hipotecada - encargos mensais com a casa, número de viaturas - se em regime de locação, próprias ou ALD -, vencimento mensal, outros rendimentos, banco com quem trabalha e cartões que possui).
+Os dados recolhidos, pelo grau de detalhe e pelas finalidades a que se destinam, integram-se no conceito de informação tendente ao apuramento do crédito e solvabilidade" dos titulares. Por isso, a necessidade de autorização da CNPD (cf. art.
+28.° n.º 1 al. b) da Lei 67/98, de 26 de Outubro).
+Em face das finalidades os dados são pertinentes, adequados e não excessivos em relação à finalidade (cf. art' 5.° da Lei 67/98).
+A Financeira El Corte Ingles tem legitimidade para o tratamento destes dados na medida em que o mesmo decorre de "diligências prévias à formação do contrato" ou de "contrato celebrado com vista à atribuição de cartão de crédito" (cf. aut. 6.° al. a) da Lei 67/98).
+2. A Financeira El Corte Inglés propõe-se comunicar alguns dados - nome, nome a gravar no cartão, apelidos, n.º de cartão de crédito, morada, localidade, designação postal e código postal - às empresas do Grupo El Corte Inglés com uma dupla finalidade: para efeitos de mailing e assegurar a gestão da utilização do cartão.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+D
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+A comunicação de dados é consentida, de forma expressa, pelos titulares a qual é dada no impresso de recolha de dados (cf. cláusula n.º 22 do contrato). No entanto, a
+Financeira deve permitir que os titulares dos dados se oponham à cedência de dados às empresas do Grupo, quer por não estarem interessados (cf. art. 12.° al. a) da Lei 67/98)
+quer porque não autorizam a utilização dos seus dados para efeitos de marketing directo (cf. art. 12.° al. b) da Lei 67/98).
+Será legítima comunicação de dados - porque há consentimento (corpo do artigo 6.° da
+Lei 67/98) - devendo a responsável assegurar o direito de oposição de uma forma simples e gratuita para os titulares dos dados. Em particular, o impresso de recolha de dados deve ter uma "quadrícula" que permita aos titulares dos dados exercer o «direito de oposição» (quer em relação à utilização dos dados para efeitos de marketing por parte da responsável, quer em relação à comunicação de dados às empresas do
+Grupo).
+As empresas do Grupo - que não recebem informação financeira - são as seguintes:
+- El Corte Inglés - Grandes Armazéns;
+- Seguros El Corte Inglés;
+- Viagens El Corte Inglés;
+Hipercor - Grande Superfície de auto-serviço (actividade: promoção e exploração de hipermercados, supermercados e outros serviços e de qualquer tipo de estabelecimentos).
+Estas empresas têm os seus tratamentos notificados junto da autoridade de controlo espanhola - a Agencia de Protección de Datos - conforme cópias das respectivas comunicações juntas a este processo.
+Deve referir-se que, caso alguma destas empresas venha a estabelecer-se em Portugal e trate dados pessoais (na qualidade de responsável) deve fazer a respectiva notificação junto da CNPD (cf. art. 27.° n.º 1 da Lei 67/98).
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em face do exposto a CNPD autoriza o tratamento, nos termos declarados e com as especialidades constantes da presente autorização, consignando-se, nos termos dos artigos 27.°, 28.° n.º 1 al. b) e 30.º da Lei 67/98, de 26 de Outubro, o seguinte:
+1. Responsável: Financeira EL CORTE INGLÉS, EFC, SA 2. Categorias de dados pessoais tratados: Os indicados em anexo ao formulário.
+3. Finalidade: Recolha de dados e tratamento subsequente com vista à atribuição de crédito e gestão do respectivo cartão a clientes do Grupo Económico EL CORTE
+INGLES. Realização de acções de marketing, serviço de apoio ao cliente e cobrança das quantias em dívida.
+4. Entidades a quem podem ser transmitidos: Às empresas do Grupo: El Corte Inglés
+- Grandes Armazéns, Seguros El Corte Inglés, Viagens El Corte Inglés, Hipercor -
+Grande Superficie de auto-serviço. Há consentimento expresso para a comunicação de dados. Deve ser assegurado o direito de oposição, nos termos do artigo 12.° da Lei 67/98. Deve o formulário de recolha de dados ter uma "quadrícula" que permita aos titulares dos dados exercer o «direito de oposição» (quer em relação à utilização dos dados para efeitos de marketing por parte da responsável, quer em relação à comunicação de dados às empresas do Grupo).
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Para Espanha.
+Lisboa, 3 de Julho de 2001 a
+Amadeu Guerra (relator)
+Cataingsmentelastos
+Catarina Castro
+Luís Durão Barroso
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+4
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Mário Varges Gomes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

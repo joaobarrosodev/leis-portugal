@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO ATLÁNTICO, S.A. (ESPANHA) SUCURSAL EM PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:35:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1290/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7943](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7943).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 350/2003
+AUTORIZAÇÃO N.° 1290
+/2004 1. O Banco Atlântico, SA (Espanha) - Sucursal em Portugal veio legalizar os seus tratamentos automatizados.
+Esta instituição trata dados de identificação dos clientes, estado civil, data e local do nascimento, dados de tamilia e nacionalidade, dados académicos e profissionais, «dados patrimoniais» (propriedade e outros bens) e dados relativos às «transacções financeiras».
+Conforme resulta do impresso de recolha, há comunicação de dados à "casa mãe", em Espanha com a finalidade de assegurar uma "gestão global dos clientes do Banco Atlântico, SA".
+Estando em causa a «avaliação de riscos de crédito» e operações «relativas a crédito e à solvabilidade dos titulares», o tratamento de dados está sujeito a autorização da CNPD (cf. art. 28.° n.º 1 al. b) da Lei 67/98, de 26 de Outubro).
+Há comunicação de dados ao Banco de Portugal, de acordo com as obrigações legais a que se encontram vinculadas as instituições financeiras.
+2. Refere-se no formulário de recolha de dados que será autorizada a comunicação de dados às "empresas cuja actividade consista em serviços financeiros, marketing, publicidade, seguros e prestação de serviços sobre solvência patrimonial e crédito, e a empresas filiais e participadas do
+Grupo Atlântico".
+Deve dizer-se que não existe obstáculo legal à troca de informações entre entidades financeiras tendo em vista a garantir a segurança das caretao es, da De da em que esta finalidade resulta de disposição legal
+Sendo certo que o Banco Requerente fez inserir nos documentos contratuais uma cláusula destinada a informar os intervenientes sobre as finalidades subjacentes à recolha e tratamento dos dados de carácter pessoal.
+3. Em relação à comunicação de dados às entidades filiais - feita na base de autorização dos titulares dos dados (que pode ser revogada a qualquer momento) - informa-se que devem as mesmas ser indicadas à CNPD,
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS (cf. artigo 30.° n.º 1 alínea c) da Lei 67/98, de 26 de Outubro), ficando claro que as finalidades a que se destinam os dados se reporta à gestão de clientes e à gestão de risco de clientes.
+Consigna-se também que todas as entidades têm que ter os seus tratamentos notificados à Autoridade de Controlo espanhola. No entanto, e como no formulário apenas se refere que há comunicação de dados à casa mãe, fica consignado que o responsável deve proceder à alteração da respectiva legalização quando passar a comunicar dados a outras entidades.
+4. Assim, autoriza-se o tratamento nos termos comunicados, consignando-se a seguinte informação de acordo com o preceituado no artigo 30.° da Lei 67/98:
+1. Responsável do ficheiro: Banco Atlântico, SA (Espanha) Sucursal em Portugal.
+2. Categorias de dados tratados: São tratados dados indicados no anexo ao quadro 5..
+3. Finalidades a que se destinam os dados: Para a constituição do ficheiro de clientes, gestão de operações e eventuais promoções.
+Organização e avaliação de riscos de crédito.
+4. Categorias de entidades a quem podem ser transmitidos: Banco de
+Portugal e ao Banco Atlântico, SA.
+5. Forma de exercício do direito de acesso e rectificação: por solicitação escrita.
+6. Interconexões: não há.
+7. Fluxos transfronteiras: Para Espanha.
+Lisboa, 23/Daverbro/ 2004.
+Ana Luísa Geraldes (Relatora)
+Amadeu Guerra
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Alexandre Pinheiro
+Eduardo Campos '
+Luís Barroso
+Ge 9 tere
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

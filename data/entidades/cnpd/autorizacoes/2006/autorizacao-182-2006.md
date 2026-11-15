@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NAVEGATOR - SGFTC, S.A. ("NAVEGATOR")'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:12:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 182/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6353](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6353).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 2182/02
+AUTORIZAÇÃO N.º 1842006 1. A Navegator - Sociedade Gestora de Fundos de Titularização de Créditos,
+S.A., vem notificar a CNPD que, no âmbito do normal exercício da sua actividade, a qual envolve a cedência de créditos, poderá ter lugar a futura transmissão, à SGFTC, de dados pessoais relativos aos clientes das entidades cuja carteira de crédito lhe seja cedida.
+3. A Navegator não irá proceder à recolha de dados junto de pessoas singulares, podendo mesmo as carteiras cedidas reportar-se apenas a devedores que sejam pessoas colectivas.
+2. A questão que aqui se coloca relaciona-se com a cedência de dados a «entidade terceira» - uma sociedade financeira.
+A cedência de dados é feita no âmbito de um contrato celebrado entre a
+SGFTC e entidades que lhe vão ceder os créditos, tendo em vista a realização de «operação de titularização», nos termos do DL 453/99, de 5 de Novembro.
+As informações a prestar estão protegidas por segredo bancário.
+Os dados objecto da comunicação estão sujeitos a sigilo bancário, conforme resulta do disposto no art. 78.° do DL 298/92, de 31 de Dezembro.
+Não há comunicação de dados sensíveis, estando o tratamento destes dados sujeito às condições de legitimidade estabelecidas no artigo 6.° da Lei 67/98, de 26 de Outubro.
+Ora, a legitimidade para o tratamento - na vertente comunicação à SGFTC -pode derivar de três fundamentos possíveis:
+Através de consentimento inequívoco por parte dos titulares (corpo do artigo 6.°);
+Através da inclusão de cláusula contratual estabelecida entre a
+SGFTC e os titulares dos dados (art. 6° al. a);
+• No âmbito da prossecução de interesses legítimos do responsável pelo tratamento ou de terceiro a quem os dados sejam comunicadosi (art. 6.° al. e).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Quando se verificar o fundamento indicado na alínea e) - nomeadamente em relação aos contratos já celebrados - a SGFTC deverá informar os titulares dos dados de que é um dos destinatários da informação e a finalidade determinante da comunicação (cf. art. 10.° n.º 1 da Lei 67/98). Só depois de assegurado o direito de informação os titulares estão em condições de, eventualmente, poderem exercer o "direito de oposição" (cf. art. 12.° al. a) ou invocar a "prevalência de interesses ou direitos" consignados no artigo 6.° al. e) da Lei 67/98.
+Em face do exposto, a CNPD autoriza a cedência dos dados pessoais indicados à Sociedade Gestora de Fundos de Titularização de Créditos
+Navegator S.A., desde que a cedência respeite um dos condicionalismos acima estabelecidos.
+Lisboa, de Março de 2006.
+Ana Roque (relatora)
+eden ux
+Amadeu Guerra
+AllandeSAs
+Alexandre Pinheiro
+Luís Barroso
+еми
+Eduardo Campos /
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

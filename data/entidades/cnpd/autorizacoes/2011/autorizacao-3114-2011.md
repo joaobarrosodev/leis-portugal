@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Departamento de Medicina da Unidade Local de Saúde de Matosinhos'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T07:35:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3114/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/29808](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/29808).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 2635/2011
+AUTORIZAÇÃO N.º 3l14 12011
+O Departamento de Medicina da Unidade Local de Saúde de Matosinhos notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional de
+Pneumonias em Internamento de Agudos (EPOPEIA).
+Serão incluídos no estudo os indivíduos com pneumonias, diagnosticadas no Departamento de
+Medicina do Hospital Pedro Hispano da Unidade Local de Saúde de Matosinhos. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+O estudo é prospectivo, estimando-se o seguimento dos participantes durante um período de um a tres anos.
+No "caderno de recolha de dados" não há identificação nominal dos titulares, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida dos investigadores.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, de acordo com as disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a)
+do n.° 1 do artigo 28° e art. 30° da Lei de Protecção de Dados, autoriza-se o tratamento, com as condições supra referidas, nos seguintes termos:
+Responsável pelo tratamento: Departamento de Medicina da Unidade Local de Saúde de
+Matosinhos
+Finalidade: Estudo observacional de Pneumonias em Internamento de Agudos (EPOPEIA).
+Categoria de Dados pessoais tratados: código do doente, dados demográficos (idade e sexo), história da doença, história médica, história médica familiar, hábitos tabágicos, sintomas e sinais da doença, resultados de testes analíticos, terapêuticas e medicação.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico assistente, ou do investigador principal.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: O código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, O4 de Abril de 2011
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos
+Campos Lobo, Luís Barroso
+ме
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 gera (@cnnd.nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 de 12 h 9

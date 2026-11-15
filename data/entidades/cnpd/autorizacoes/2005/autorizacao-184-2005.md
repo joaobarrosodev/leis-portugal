@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARIA JOÃO CARVALHEIRO CAMPOS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:30:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 184/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7627](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7627).
+Atenen
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.° 13233/188/05
+Autorização n./84 /2005
+Maria João Campos, solicita à Comissão Nacional de Protecção de Dados (CNPD) a realização de um tratamento de dados pessoais com a finalidade de realizar um estudo sobre a autopercepção dos alunos com Síndroma de Down com idades compreendidas entre os 4 e os 18 anos. Para a prossecução desta finalidade, solicita-se o acesso aos seguintes dados dos alunos:
+- data de nascimento do participante;
+- nível de deficiência;
+- tipo de ensino em que se integra (regular ou especial);
+- prática/ausência de actividade física regular.
+Quanto a dados dos pais pretende-se aceder à seguinte informação:
+- idade;
+- profissão;
+- estado civil dos pais;
+- agregado familiar da criança.
+Do pedido de autorização dirigido aos encarregados de educação, consta o seguinte: a participação nos questionários é voluntária e anónima, não lhes sendo solicitada a indicação do nome. Do ponto de vista da protecção dos dados pessoais, o problema estará na possibilidade de identificação dos titulares através da identificação, pelo nome, dos encarregados de educação.
+Assim, entende-se que a solução adequada passa pela recolha do consentimento dos encarregados de educação através dos órgãos executivos das escolas, através de uma declaração em que se esclareçam cabalmente as finalidades do tratamento e os dados que se pretendem recolher.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Existindo uma informação prestada nos termos anteriormente assinalados, a CNPD autoriza o tratamento solicitado, assinalando que o prazo de conservação dos dados é de um ano.
+Lisboa, de Maio de 2005.
+Ah hes fut
+Alexandre Sousa Pinheiro (Relator)
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Caixa Económica Montepio Geral'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 7 de 7 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,103 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:51:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 136/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/504](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/504).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS v
+Proc. n.º 1525/07
+AUTORIZAÇÃO N.° 136/2008
+I. O Pedido
+A Caixa Económica Montepio Geral veio notificar o tratamento de videovigilância nas suas instalações sitas na Av. 29 de Agosto, em Terrugem.
+Existe Comissão de Trabalhadores, tendo a mesma emitido parecer desfavorável em
+Setembro de 2006 e Fevereiro de 2007.
+Pretende-se colocar câmaras no hall das ATM's, cofre forte e área de atendimento ao público.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD)
+elaborou o projecto de autorização de 22 de Outubro de 2007, no sentido de não autorizar a recolha e visionamento de imagens através da câmara colocada nas costas do caixa (devendo ser colocada de forma a apenas captar o balcão de atendimento e não a actividade do trabalhador), tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 7291, de 26 de Outubro de 2007, nos termos e para os efeitos do disposto no artigo 100.° do Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projecto, por considerar que a "solução de restringir o ângulo visual das câmaras, abrangendo apenas o espaço reservado aos clientes é possível, mas não corresponde às efectivas necessidades de controlo e mitigação do risco".
+II. Análise
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Através da deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7° e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nos Bancos no âmbito da protecção de pessoas e bens na medida em que se trata de instituições que movimentam grandes valores e que são alvo de roubos com alguma frequência. As câmaras são um factor de dissuasão. Acresce, por outro lado, que o próprio artigo 4.° n.º 1 do DL 35/2004, de 21 de Fevereiro, obriga as instituições financeiras a «adoptar um sistema de segurança» em conformidade com o que vem previsto nesse diploma. Esse diploma prevê expressamente, no artigo 13.°, a utilização de «meios de vigilância electrónica» como um meio de dissuasão e de prevenção para protecção de pessoas e bens.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância no sector bancário na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável.
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (?).
+() Disponível in http://www.cnpd.pt/orientaçoes/principiosvideo.htm (2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que a colocação de uma câmara apontada às costas do caixa (atrás do balcão), mostra-se desnecessária e excessiva para os direitos dos trabalhadores, face à finalidade prosseguida pelo presente tratamento.
+Assim, a câmara colocada nas costas do caixa não podia captar a actividade do trabalhador, devendo ser colocada de forma a apenas captar o balcão de atendimento.
+No entanto, notificada, a entidade requerente vem alegar em síntese o seguinte:
+1- Dados os riscos inerentes á actividade bancária, é importante que as câmaras visualizem as zonas de guarda e permanência de valores, ou seja: o alçado, utilizado para permanência dos montantes necessários à actividade normal, e os cofres de atendimento, destinados à guarda de valores para eventuais necessidades extraordinárias e/ou guarda de valores resultantes de excedentes de depósitos de clientes.
+2- A colocação das câmaras atrás dos trabalhadores, conforme proposto, não permite, de acordo com a Lei, qualquer controlo da sua actividade. A câmara está nas costas do colaborador não permitindo, através da imagem, a sua identificação. Note-se que as imagens só são visualizadas nos casos previstos na lei, ou seja, na quase totalidade dos casos as imagens são destruídas sem nunca terem sido visualizadas. Esta visualização, como indicado no nosso pedido, só é possível no serviço de Segurança, sediado em Lisboa pelas pessoas nele referenciadas.
+3- A solução de restringir o ângulo visual das câmaras, abrangendo apenas o espaço reservado aos clientes é possível - caso seja essa a solução por vos admitida - mas não corresponde às efectivas necessidades de controlo e mitigação do risco pelas razões já apontadas.
+Devidamente analisados os argumentos invocados, entende a CNPD que:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que a colocação de uma câmara apontada às costas do caixa (atrás do balcão), mostra-se desnecessária e excessiva para os direitos dos trabalhadores, face à finalidade prosseguida pelo presente tratamento.
+Assim, a câmara colocada nas costas do caixa não podia captar a actividade do trabalhador, devendo ser colocada de forma a apenas captar o balcão de atendimento.
+No entanto, notificada, a entidade requerente vem alegar em síntese o seguinte:
+1- Dados os riscos inerentes á actividade bancária, é importante que as câmaras visualizem as zonas de guarda e permanência de valores, ou seja: o alçado, utilizado para permanência dos montantes necessários à actividade normal, e os cofres de atendimento, destinados à guarda de valores para eventuais necessidades extraordinárias e/ou guarda de valores resultantes de excedentes de depósitos de clientes.
+2- A colocação das câmaras atrás dos trabalhadores, conforme proposto, não permite, de acordo com a Lei, qualquer controlo da sua actividade. A câmara está nas costas do colaborador não permitindo, através da imagem, a sua identificação. Note-se que as imagens só são visualizadas nos casos previstos na lei, ou seja, na quase totalidade dos casos as imagens são destruídas sem nunca terem sido visualizadas. Esta visualização, como indicado no nosso pedido, só é possível no serviço de Segurança, sediado em Lisboa pelas pessoas nele referenciadas.
+3- A solução de restringir o ângulo visual das câmaras, abrangendo apenas o espaço reservado aos clientes é possível - caso seja essa a solução por vos admitida - mas não corresponde às efectivas necessidades de controlo e mitigação do risco pelas razões já apontadas.
+Devidamente analisados os argumentos invocados, entende a CNPD que:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que a colocação de uma câmara apontada às costas do caixa (atrás do balcão), mostra-se desnecessária e excessiva para os direitos dos trabalhadores, face à finalidade prosseguida pelo presente tratamento.
+Assim, a câmara colocada nas costas do caixa não podia captar a actividade do trabalhador, devendo ser colocada de forma a apenas captar o balcão de atendimento.
+No entanto, notificada, a entidade requerente vem alegar em síntese o seguinte:
+1- Dados os riscos inerentes á actividade bancária, é importante que as câmaras visualizem as zonas de guarda e permanência de valores, ou seja: o alçado, utilizado para permanência dos montantes necessários à actividade normal, e os cofres de atendimento, destinados à guarda de valores para eventuais necessidades extraordinárias e/ou guarda de valores resultantes de excedentes de depósitos de clientes.
+2- A colocação das câmaras atrás dos trabalhadores, conforme proposto, não permite, de acordo com a Lei, qualquer controlo da sua actividade. A câmara está nas costas do colaborador não permitindo, através da imagem, a sua identificação. Note-se que as imagens só são visualizadas nos casos previstos na lei, ou seja, na quase totalidade dos casos as imagens são destruídas sem nunca terem sido visualizadas. Esta visualização, como indicado no nosso pedido, só é possível no serviço de Segurança, sediado em Lisboa pelas pessoas nele referenciadas.
+3- A solução de restringir o ângulo visual das câmaras, abrangendo apenas o espaço reservado aos clientes é possível - caso seja essa a solução por vos admitida - mas não corresponde às efectivas necessidades de controlo e mitigação do risco pelas razões já apontadas.
+Devidamente analisados os argumentos invocados, entende a CNPD que:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que a colocação de uma câmara apontada às costas do caixa (atrás do balcão), mostra-se desnecessária e excessiva para os direitos dos trabalhadores, face à finalidade prosseguida pelo presente tratamento.
+Assim, a câmara colocada nas costas do caixa não podia captar a actividade do trabalhador, devendo ser colocada de forma a apenas captar o balcão de atendimento.
+No entanto, notificada, a entidade requerente vem alegar em síntese o seguinte:
+1- Dados os riscos inerentes á actividade bancária, é importante que as câmaras visualizem as zonas de guarda e permanência de valores, ou seja: o alçado, utilizado para permanência dos montantes necessários à actividade normal, e os cofres de atendimento, destinados à guarda de valores para eventuais necessidades extraordinárias e/ou guarda de valores resultantes de excedentes de depósitos de clientes.
+2- A colocação das câmaras atrás dos trabalhadores, conforme proposto, não permite, de acordo com a Lei, qualquer controlo da sua actividade. A câmara está nas costas do colaborador não permitindo, através da imagem, a sua identificação. Note-se que as imagens só são visualizadas nos casos previstos na lei, ou seja, na quase totalidade dos casos as imagens são destruídas sem nunca terem sido visualizadas. Esta visualização, como indicado no nosso pedido, só é possível no serviço de Segurança, sediado em Lisboa pelas pessoas nele referenciadas.
+3- A solução de restringir o ângulo visual das câmaras, abrangendo apenas o espaço reservado aos clientes é possível - caso seja essa a solução por vos admitida - mas não corresponde às efectivas necessidades de controlo e mitigação do risco pelas razões já apontadas.
+Devidamente analisados os argumentos invocados, entende a CNPD que:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que a colocação de uma câmara apontada às costas do caixa (atrás do balcão), mostra-se desnecessária e excessiva para os direitos dos trabalhadores, face à finalidade prosseguida pelo presente tratamento.
+Assim, a câmara colocada nas costas do caixa não podia captar a actividade do trabalhador, devendo ser colocada de forma a apenas captar o balcão de atendimento.
+No entanto, notificada, a entidade requerente vem alegar em síntese o seguinte:
+1- Dados os riscos inerentes á actividade bancária, é importante que as câmaras visualizem as zonas de guarda e permanência de valores, ou seja: o alçado, utilizado para permanência dos montantes necessários à actividade normal, e os cofres de atendimento, destinados à guarda de valores para eventuais necessidades extraordinárias e/ou guarda de valores resultantes de excedentes de depósitos de clientes.
+2- A colocação das câmaras atrás dos trabalhadores, conforme proposto, não permite, de acordo com a Lei, qualquer controlo da sua actividade. A câmara está nas costas do colaborador não permitindo, através da imagem, a sua identificação. Note-se que as imagens só são visualizadas nos casos previstos na lei, ou seja, na quase totalidade dos casos as imagens são destruídas sem nunca terem sido visualizadas. Esta visualização, como indicado no nosso pedido, só é possível no serviço de Segurança, sediado em Lisboa pelas pessoas nele referenciadas.
+3- A solução de restringir o ângulo visual das câmaras, abrangendo apenas o espaço reservado aos clientes é possível - caso seja essa a solução por vos admitida - mas não corresponde às efectivas necessidades de controlo e mitigação do risco pelas razões já apontadas.
+Devidamente analisados os argumentos invocados, entende a CNPD que:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

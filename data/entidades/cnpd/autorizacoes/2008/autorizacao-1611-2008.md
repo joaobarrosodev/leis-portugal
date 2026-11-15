@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO-GERAL DA SAÚDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:23:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1611/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6571](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6571).
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 3302/06
+Autorização n.° (6l| /2008
+A Direcção-Geral de Saúde notificou um tratamento de dados pessoais com a finalidade elaborar um estudo sobre o impacto de fenómenos climáticos extremos -ondas e frio intenso- na saúde dos idosos.
+A Eurotrials - Consultores Científicos, SA é a entidade encarregue do processamento da informação, entidade com quem deve ser estabelecido o contrato previsto no art.° 14 da LPD.
+O estudo será realizado numa população de idosos, residentes ou que frequentam instituições de apoio social (lares ou centros de dia),
+Serão incluídos no estudo 400 indivíduos com idades compreendidas entre os 65 e os 85 anos, dos distritos de Castelo Branco, Guarda, Évora e Portalegre.
+Em cada instituição participante, será aplicado um questionário sobre a presença/ausência de sintomas associados ao calor no 1° dia da onda de calor. No último dia dessa onda de calor o mesmo inquérito será aplicado aos mesmos idosos.
+Posteriormente, duas semanas após o fim da onda de calor, será efectuada uma avaliação sobre as consequências associadas ao fenómeno climático.
+No início de uma onda de frio repetir-se-á o procedimento.
+Será ainda preenchido um questionário de caracterização das instituições, de forma a identificar as suas condições de climatização.
+Aos idosos nas condições de inclusão, será solicitado, pelo seu médico assistente e que tem, simultaneamente, a qualidade de investigador, o consentimento para a sua participação no estudo.
+Serão recolhidos os seguintes dados: Código do idoso, sexo, idade, estado civil, nivel de escolaridade, peso, altura, sintomatologia, antecedentes clínicos, medicamentos e consequências dos fenómenos climáticos.
+Rua de São Bento. 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 830
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A chave da codificação é apenas conhecida do médico assistente.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento do titular dos dados.
+Assim, tendo em atenção o disposto disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Direcção-Geral de Saúde
+Finalidade: estudo sobre o impacto de fenómenos climáticos extremos - ondas e frio intenso- na saúde dos idosos
+Categoria de Dados pessoais tratados: Código do idoso, sexo, idade, estado civil, nível de escolaridade, peso, altura, sintomatologia, antecedentes clínicos, medicamentos e consequências dos fenómenos climáticos.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico participante.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Rua de São Rento 148 - 2 ° - 1200-81 1 ISRO4 - Talafana 113 019 100 _ For. 212 016 020
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Prazo de conservação: o código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º2271 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 24 cel Jelllo de secs
+Ana Roque
+Carlos Campos Lobo
+Eduardo Campos
+Helena Delgado António
+Luís Barroso (Relator)
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento. 148 - 3 ° _ 1200-821 LISROA — Telefone: 113 028 100 - Fav 913 076 820

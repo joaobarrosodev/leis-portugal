@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BLUE ACTIVOS FINANCEIROS - SOCIEDADE GESTORA DE PATRIMÓNIO, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:02:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2189/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16311](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16311).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 1567/2004
+AUTORIZAÇÃO Nº2|89/2009 1) O pedido
+A empresa BLUE Activos Financeiros - Sociedade Gestora de Patrimónios, SA notifica um tratamento de dados destinado ao exercício da actividade de gestão de carteiras por conta dos clientes e da actividade de consultoria para valores mobiliários, bem como cumprimento de regras de prevenção de branqueamento de
+Os dados pessoais tratados são: nome, morada, estado civil, número de BI, data de emissão do mesmo e seu arquivo de identificação, número de contribuinte. Registo de ordens relativas a valores mobiliários e registo de saldos e valores depositados junto da responsável. Ainda, se necessário para aconselhamento, informações sobre situação financeira, objectivos de investimento e experiência em investimento de valores mobiliários.
+Referem-se ainda dados previstos no n° 2 do artigo 8° da Lei n° 67/98, mas verifica-se que eles não são sistematicamente tratados, apenas são comunicados à CMVM quando a lei o impõe.
+Como fundamentos de legitimidade apontam-se o consentimento dos titulares, o cumprimento de obrigações legais, a execução de obrigações contratuais e a execução de missão de interesse público.
+Não existe interconexão de dados nem fluxos transfronteiras.
+Existe comunicação de dados para a CMVM, nos termos legais, em caso de fundadas suspeitas de tentativa de branqueamento de capitais.
+Como medidas de segurança referem-se o acesso restrito de pessoas, bem como a utilização de cópias de "backup" de dados, de palavras-chave de acesso aos dados, de sistemas de processamento de "backup" e de sistemas de alarme e
+Como prazo de conservação indica-se o de cinco anos após a cessação da relação contratual.
+Como forma de exercício dos direitos de acesso e rectificação, mencionam-se os "termos legais e regularmente aplicáveis". A generalidade desta fórmula significará que são admitidas quaisquer formas adequadas para o exercício desses direitos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 2)
+Apreciação
+As finalidades prosseguidas são determinadas, explícitas e legítimas (Lei n° 67/98, de 26 de Outubro, art° 5°, n° 1, al b).
+E os dados tratados apresentam-se adequados, pertinentes e não excessivos, face ás finalidades tidas em vista (ibidem, al c).
+O fundamento de legitimidade é a execução de obrigações contratuais.
+O prazo de conservação revela-se ajustado.
+3) Autorização
+Responsável
+Blue Activos Financeiros - Sociedade Gestora de Patrimónios, SA
+Finalidade
+Exercício da actividade de gestão de carteiras por conta de clientes e da actividade de consultoria para valores mobiliários, bem como cumprimento de regras de prevenção de branqueamento de capitais.
+Dados pessoais tratados
+Nome, morada, estado civil, número de BI, data de emissão do mesmo e seu arquivo de identificação, número de contribuinte. Registo de ordens relativas a valores mobiliários e registo de saldos e valores depositados junto da responsável. Ainda, se necessário para aconselhamento, informações sobre situação financeira, objectivos de investimento e experiência em investimento de valores mobiliários.
+Interconexões
+Não há.
+e)
+Fluxos transfronteiras
+Não há.
+†)
+Comunicações
+À CMVM em caso de fundado receio de tentativa de branqueamento de capitais.
+Forma de exercício do direito de acesso e rectificação
+Quaisquer meios adequados.
+Lisboa, | de Junho de 2009
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade
+Luis Lingnau da Silveira (Presidente/relator)
+amm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

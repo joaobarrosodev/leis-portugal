@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 13740/2017
-official_date: null
+official_date: '2017-12-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IDTDR - Instituto de Diagnóstico e Tratamento de Doenças Renais, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T07:48:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 13740/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/113605](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/113605).
+Processo n.° 12244/2017 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.°13740/20017
+I - Pedido
+IDTDR - Instituto de Diagnóstico e Tratamento de Doenças Renais, Lda., titular do NIPC 507452240, notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade gestão de processo clínicos, no âmbito das patologias renais.
+Os dados pessoais objeto de registo são os seguintes: Nome, sexo, nacionalidade, data de nascimento, n.° de utente do SNS, subsistema de saúde, isenção de taxa moderadora ou outros benefícios, história clínica, terapêutica, resultados analíticos, dados relativos a transplante, dados de nutrição e eventuais informações de apoio social.
+Os dados são recolhidos de forma direta, presencialmente.
+A Adminsaúde, Lda., com sede na Rua dos Açores, n.º 11 B, 1000 - 001 Lisboa, é a entidade subcontratada para o processamento da informação.
+Há comunicação de dados para a SPMS, EPE, no âmbito da Plataforma de Gestão Integrada da Doença Renal Crónica, e para o Centro de Conferência de Faturas, da ACSS, IP, para recebimento dos pagamentos devidos pelo SNS relativos aos atos saúde.
+II - Apreciação:
+O n.º 4 do artigo 7.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto - Lei de Proteção de Dados Pessoais (LPDP), admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efetuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação. No caso em análise, o fundamento de legitimidade é a norma legal acima citada, constituindo esta a lei prevista no n.° 2.° do mesmo artigo.
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico medico, de prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde há legitimidade para efetuar o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional. Nessa medida, deve compaginar-se a recolha da informação com o princípio da confidencialidade, respeitando-se, assim, o respetivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976 832
+LINHA PRIVACIDADE www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 12244/2017 | 1v.
+estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+A informação tratada é recolhida de forma lícita (artigo 5.° n.º1, alínea a), da LPDP e para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo).
+Quanto ao direito de acesso, deve o mesmo respeitar o disposto no artigo 3.° n.º 31, da Lei n.
+° 12/2005, de 26 de janeiro (Lei da Informação Genética Pessoal e Informação de Saúde), na redação que lhe foi dada pela Lei n.° 26/2016, de 22 de agosto, e que agora apenas obriga à intermediação de médico no acesso aos dados de saúde do titular quando este último o solicite. Tal vem, indiscutivelmente, revogar o n.° 5 do artigo 11.°, da LPDP, que fazia depender da intermediação de médico o "acesso à informação relativa a dados de saúde, incluindo os dados genéticos".
+A precisão introduzida pela nova versão da Lei da Informação Genética Pessoal e Informação de Saúde não vem, contudo, afastar, as mais elementares regras de proteção de dados pessoais, nomeadamente no que respeita ao direito de acesso. Desta forma, o artigo 3.° n.° 3 da Lei n.º 12/2005, de 26 de janeiro, deve ser alvo de leitura conjugada com o disposto no artigo 11.° n.º 1, da LPDP, mantendo-se o direito, por parte do titular, de aceder aos seus dados pessoais e "...de obter do responsável pelo tratamento, livremente e sem restrições, com periodicidade razoável e sem demoras ou custos excessivos" tudo quanto vem disposto nas alíneas do referido preceito da LPDP.
+A novidade assim introduzida não prejudica, ainda, os casos em que não seja apurável a vontade do titular dos dados, onde se mantém a obrigação de intermediação médica no acesso à informação de saúde, como o prescreve o n.º 4 do artigo 3.° da Lei da Informação
+Genética Pessoal e Informação de Saúde.
+Em relação à transmissão da informação para a entidade subcontratante cumpre salientar que se reclama a existência de contrato ou ato jurídico vinculativo que estipule, entre outras obrigações, que o subcontratante apenas atua mediante instruções do responsável, como estabelece o artigo 14.°, n.° 3, da LPDP.
+Autoriza-se ainda a comunicação de dados referida para as entidades referidas uma vez que tal comunicação decorre de obrigações decorrentes da prestação de cuidados de saúde aos 1 Que se transcreve: iO acesso à informação de saúde por parte do seu titular, ou de terceiros com o seu consentimento ou nos termos da lei, é exercido por intermédio de médico, com habilitação própria, se o titular da informação o solicitar".
+
+Processo n.º 12244/2017 2
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS doentes do SNS ou de outros subsistemas de saúde, devendo limitar-se aos dados pessoais necessários para o cumprimento das referidas obrigações.
+Quanto à conservação dos dados, os processos clínicos e demais documentos de suporte a dados de saúde devem ser conservados pelos períodos previstos na Portaria n.º 247/2000, de 8 de maio, alterada pela Portaria n.º 157/2014, de 19 de agosto.
+Para efeitos de faturação, os dados pessoais necessários podem ser conservados pelo.
+período de 10 anos, atento o disposto no artigo 123.° do Código do IRC.
+III - Decisão:
+Nestes termos e ao abrigo do disposto nos n.°s 2 e 4 do artigo 7.°, da alínea a) do artigo 28.° e do 30.°, todos da LPDP, a CNPD autoriza o tratamento notificado, consignando o seguinte:
+Responsável: IDTDR - Instituto de Diagnóstico e Tratamento de Doenças Renais, Lda.;
+Subcontratante: Adminsaúde, Lda., com sede na Rua dos Açores, n.º 11 B, 1000 - 001 Lisboa;
+Finalidade: gestão de processos clínicos;
+Categorias de dados pessoais tratados: Nome, sexo, nacionalidade, data de nascimento, n.º de utente do SNS, subsistema de saúde, isenção de taxa moderadora ou outros benefícios, história clínica, terapêutica, resultados analíticos, dados relativos a transplante, dados de nutrição e eventuais informações de apoio social.
+Comunicação de dados: Plataforma de Gestão Integrada da Doença Renal Crónica da SPMS,
+EPE, e para o Centro de Conferência de Faturas da ACSS, IP;
+Forma de exercício do direito de acesso e retificação: presencialmente na morada: Rua Fonte
+Sete Bicas, n.º 170, 3.° piso, 4460 - 188 Senhora da Hora;
+Interconexão de dados: não há;
+Transferência de dados para países terceiros: não há;
+Prazo máximo de conservação dos dados pessoais:
+- Dados de saúde - pelo prazo previsto na Portaria n.º 247/2000, de 8 de maio com as alterações introduzidas pela Portaria n.º 157/2014, de 19 de agosto.
+Dados de faturação - 10 anos.
+Lisboa, 05 de dezembro de 2017
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

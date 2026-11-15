@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2372/2007
-official_date: null
+official_date: '2007-11-26'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Astellas Farma, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:58:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2372/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/194](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/194).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc n.° 2832/07
+AUTORIZAÇÃO N.° 237212007
+A sociedade comercial por quotas Astellas Farma, Lda., veio notificar à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo epidemiológico tendo como objectivo a recolha de informações relativas à tolerância, segurança e aceitação do Eligard 22,5 mg (acetato de leuprorrelina) em condições clínicas normais e de acordo com a pratica clinica habitual. As indicações pretendidas destinam-se ao tratamento de doentes com cancro da próstata. Trata-se de um registo nacional epidemiológico prospectivo.
+O estudo consiste na análise e gestão da informação sobre a investigação laboratorial efectuada. As variáveis registadas são: data de nascimento, dados antropométricos, dados relativos à doença (cancro da próstata avançado), tratamentos farmacológicos efectuados, exames complementares de diagnóstico e efeitos indesejáveis. Todos os dados são confidenciais e os doentes são identificados apenas por um número de código. A comunicação de dados agregados, sem identificação individual dos casos, é feita à comunidade científica e às autoridades competentes (mediante solicitação).
+A entidade encarregue do processamento da informação é a Eurotrials, Consultores
+Científicos, S.A..
+É recolhido o consentimento informado dos doentes pelo médico.
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+O fundamento de legitimidade deverá ser o consentimento do titular dos dados, devendo este ser informado, contendo os elementos previstos no artigo 10° da Lei n.° 67/98.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Astellas Farma, Lda.
+Finalidade: estudo epidemiológico tendo como objectivo a recolha de informações relativas a tolerância, segurança e aceitação do Eligard 22,5 mg (acetato de leuprorrelina)
+Categoria de Dados pessoais tratados: data de nascimento, dados antropométricos, dados relativos à doença (cancro da próstata avançado), tratamentos farmacológicos efectuados, exames complementares de diagnóstico e efeitos indesejáveis.
+Entidades a quem podem ser comunicados: comunidade científica, às autoridades competentes (mediante solicitação).
+Formas de exercício do direito de acesso e rectificação: junto do médico investigador.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do médico e do doente porque tornam os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, após fim do estudo.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Dos termos e condições fixados na Deliberação n.° 2271 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 26 de Novembro de 2007.
+22ol
+Ana Roque (Relatora) /
+Carlos Campos Lobo
+анно
+Eduardo Campos eee
+Helena Delgado António
+Luís Barroso serilmeida
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral @cnpd.pt
+Internet: http://www.cnpd.pt 3

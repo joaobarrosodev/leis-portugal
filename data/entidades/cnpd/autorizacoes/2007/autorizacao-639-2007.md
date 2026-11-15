@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 639/2007
-official_date: null
+official_date: '2007-04-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO CETELEM, S.A. (EX: CETELEM SFAC, S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:30:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 639/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2825](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2825).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 36/94
+AUTORIZAÇÃO N.° 639/2007 1. O Banco Cetelem, SA, vem requerer a actualização do seu tratamento - alteração da autorização n.º 66/2000 - na medida em que pretende disponibilizar a informação sobre os dados de identificação dos seus clientes, no âmbito de um contrato de prestação de serviços de seguro de protecção aos cartões de crédito, à seguinte entidade - Card
+Protection Plan, sucursal em Portugal.
+2. Os dados objecto da comunicação estão sujeitos a sigilo profissional, conforme resulta do disposto no artigo 79° n°1° do DL 298/92, de 31 de Dezembro.
+A entidade a quem os dados são comunicados não poderá utilizar os dados para outras finalidades que não sejam as que resultam do contrato de prestação de serviços.
+A Comissão Nacional de Protecção de Dados considera que os titulares dos dados devem ter conhecimento das finalidades do ficheiro e da finalidade determinante da recolha de dados (cf. art. 10.° da Lei 67/98).
+O Banco Cetelem, SA, deverá informar os titulares dos dados da possibilidade de comunicação de informação no âmbito de contrato de prestação de serviços (cf. art. 10.° n.º 1 da Lei 67/98). Só depois de assegurado o direito de informação os titulares estão em condições de poderem exercer o "direito de oposição" (cf. art. 12.° al. a) ou invocar a "prevalência de interesses ou direitos" consignados no artigo 6.° al. e) da Lei 67/98.
+Não há comunicação de dados sensíveis, estando o tratamento em apreço sujeito às condições de legitimidade estabelecidas no artigo 6.º da Lei 67/98, de 26 de Outubro, sendo que, no caso em apreço, a legitimidade para o tratamento - na vertente comunicação - deriva de disposição contratual estabelecida entre o Banco Cetelem, SA e os titulares dos dados - art. 6° al. a) da Lei 67/98.
+3. Assim, e desde que verificadas as circunstâncias enunciadas - que o responsável terá de consignar no contrato a celebrar -, e desde que a empresa em causa tenha o tratamento notificado à CNPD, considera-se alterada a autorização n° 66/2000, em termos de autorizar que os dados sejam facultados à empresa Card Protection Plan, sucursal em Portugal.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 19 de Abril de 2007
+Luís Barroso
+оли
+Eduardo Campos arlos Campos Lobo
+Helena Delgado António (relatora)
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento. 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

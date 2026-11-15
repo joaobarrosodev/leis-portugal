@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Banco Credibom, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,78 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:39:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3687/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/43803](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/43803).
+1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 402/2012
+AUTORIZAÇÃON° 3687/2012 1 - Banco Credibom, S.A., veio notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais dos seus clientes com a finalidade de gestão de clientes no âmbito da atividade financeira, creditícia e seguradora.
+Os dados objeto de registo respeitam ao cliente, a 2°s titulares e a avalistas e são os seguintes:
+Nome, morada, localidade, código postal, sexo, data de nascimento, número de telefone,
+NIF, número de BI/Cartão de Cidadão, tipo ou classificação do seguro (renovação/upgrade/premium/prorrogação de prazo), data de adesão ao seguro, valor do seguro, valor do prémio do seguro, dados patrimoniais e dados financeiros da dívida, dados do bem/equipamento objeto de financiamento, nome do fornecedor do bem/equipamento objeto de financiamento.
+Os dados são recolhidos de forma direta, presencialmente, mediante preenchimento de impresso, por telefone ou pela internet.
+É garantido ao titular o direito de acesso, correção e eliminação dos dados que lhe respeitem através de pedido efetuado presencialmente ou por escrito.
+O requerente propõe-se comunicar dados de clientes, com o consentimento e mediante solicitação destes, às seguradoras CACI Non Life, LTD e CACI Life Ltd, entidades integrantes do grupo Crédit Agricole, no âmbito de contratos mediação de seguros, com vista à concessão de seguros dos ramos vida e não vida a clientes angariados pelo
+Credibom. Os dados comunicados são os estritamente necessários à correta execução do contrato de crédito.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt.
+www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A segurança das informações é garantida por acesso restrito à rede, aplicações e sistemas, sistema de processamento de backups, sistema automático de deteção de vulnerabilidades, acessos concedidos de acordo com as funções dos colaboradores, sistema de controlo de acessos e de deteção de intrusão.
+Pretende-se a conservação dos dados pelo período de 10 anos após a cessação da relação contratual.
+2 - Estando em causa operações relativas ao crédito e solvabilidade dos titulares, pelo que o tratamento notificado está sujeito a autorização da Comissão Nacional de
+Protecção de Dados (cf. artigo 28° n° 1, alínea b), da Lei n° 67/98, de 26.10).
+Os dados são tratados no âmbito de uma relação contratual, com consentimento expresso do titular, existindo por isso legitimidade para o tratamento de dados (cf. artigo 6°, alínea a), da Lei n° 67/98, de 26.10).
+Caso os dados sejam recolhidos através de inscrição on line, o titular dos dados deve ser informado de que os dados pessoais podem circular em rede aberta sem condições de segurança, correndo o risco de serem vistos e utilizados por terceiros não autorizados (cf. artigo 10° n°4 da Lei n° 67/98, de 26.10).
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. alínea c) do n°1 do artigo 5° da Lei n° 67/98).
+A comunicação de dados às seguradoras CACI Non Life, LTD e CACI Life Ltd mostra-se legitimada com base no consentimento dos titulares dos dados.
+Os dados devem ser exatos e, se necessário, atualizados (artigo 5°, alínea d), da Lei n° 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da Lei n° 67/98),
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+3
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou retificados os dados inexatos ou incompletos ou não necessários (artigo 5° n.º 1, alíneas c) e d) e n.º 3 da Lei n° 67/98).
+Significa isto que o responsável pelo tratamento deve eliminar os dados quando tiver sido atingida a finalidade que fundamentou a recolha.
+Afiguram-se ajustadas as medidas de segurança adotadas para impedir o acesso à informação a pessoas não autorizadas. Todavia, independentemente das medidas tomadas é o responsável pelo tratamento que está obrigado a garantir sempre a segurança da informação.
+3 - Em face do exposto, a CNPD autoriza o tratamento, consignando-se, nos termos dos artigos 6°, alínea a), 28° n.º 1, alínea b), e 30.° da Lei n° 67/98, de 26.10, o seguinte:
+Responsável pelo tratamento: Banco Credibom, S.A.
+Finalidade do tratamento: gestão de clientes no âmbito da atividade financeira, creditícia e seguradora
+Categorias de dados pessoais tratados: nome, morada, localidade, código postal, sexo, data de nascimento, número de telefone, NIF, número de BI/Cartão de Cidadão, tipo ou classificação do seguro (renovação/upgrade/premium/prorrogação de prazo), data de adesão ao seguro, valor do seguro, valor do prémio do seguro, dados patrimoniais e dados financeiros da dívida, dados do bem/equipamento objeto de financiamento, nome do fornecedor do bem/equipamento objeto de financiamento
+Comunicação de dados pessoais: às seguradoras CACI Non Life, LTD e CACI Life
+Ltd, com o consentimento do titular
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Forma de exercício do direito de acesso e retificação: mediante solicitação ao responsável
+Eventuais interconexões de dados pessoais: não se verificam
+Transferência de dados para países terceiros: não há
+Lisboa, 16 cle Abril de 2012
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade presTalin
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

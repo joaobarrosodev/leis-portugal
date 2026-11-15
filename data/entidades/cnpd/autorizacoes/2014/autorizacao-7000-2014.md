@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7000/2014
-official_date: null
+official_date: '2014-07-29'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Banco SAntander Consumer Portugal, SA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,65 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T20:45:06Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7000/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/67319](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/67319).
+Proc. 9794/2014 1 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 7000/2014
+Banco Santander Consumer Portugal S.A., notificou um tratamento de dados relativo à operação de cessão de créditos, tendo por cessionária a SilverEquation, Unipessoal,
+Lda..
+A referida transação poderá envolver uma transmissão de dados pessoais do devedor (nome, data de nascimento, sexo, número fiscal, número de bilhete de identidade/cartão do cidadão, nacionalidade, estado civil, NIB, autorização de residência, quando se trate de sociedades serão transmitidos os dados equivalentes e
+CAE, matrícula de viaturas financiadas, morada, telefone, endereço de correio eletrónico, fax, local de trabalho e contactos, profissão, dados do contrato, valores do crédito em dívida, juros, pagamentos efetuados, valor original da dívida e dados do processo judicial).
+As informações supra referidas são entregues à cessionária, podendo esta apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão a realizar.
+A cedência de dados é feita no âmbito de um contrato celebrado entre o Banco
+Santander Consumer Portugal S.A. e a SilverEquation, Unipessoal, Lda., nos termos do artigo 577.° do Código Civil. Por força do n.º 1 do referido artigo 577.° a cessão de crédito é admissível independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.° 1 do artigo 582.° do Código Civil).
+Os dados objecto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no artigo 78.° do Decreto-Lei n.º 298/92, de 31 de dezembro.
+Assim, enquadram-se no conceito de vida privada do n.º 1 do artigo 7.° da Lei n.° 67/98, de 26 de outubro - Lei de Protecção de Dados Pessoais (LPD).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º 1 alínea a), da
+Lei n.º 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo e a informação recolhida não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Proc. 9794/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O fundamento de legitimidade é a disposição legal prevista no n.º 2 do artigo 7.° da LPD.
+Assim, o responsável deverá assegurar que o titular obteve as informações previstas no artigo 10.°, da Lei n.° 67/98, de 26 de outubro, designadamente a informação que a cessionária é destinatária da informação e a finalidade da comunicação.
+Devem, de igual modo, ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização auditorias de internas e externas. De igual modo, devem ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direcção, a outros técnicos obrigados a segredo profissional.
+No que diz respeito aos dados contidos em suporte de papel, devem ser adoptadas medidas organizacionais, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos da alínea b) do n.º 1 do artigo 23.° e alínea b)
+do n.º1 do artigo 28.°, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da Lei n.° 67/98, o seguinte:
+1. Responsável: Banco Santander Consumer Portugal S.A.
+2. Categorias de dados pessoais tratados: nome, data de nascimento, sexo, número fiscal, número de bilhete de identidade/cartão do cidadão, nacionalidade, estado civil, NIB, autorização de residência, quando se trate de sociedades serão transmitidos os dados equivalentes e CAE, matrícula de viaturas financiadas, morada, telefone, endereço de correio eletrónico, fax, local de trabalho e contactos, profissão, dados do contrato, valores do crédito em dívida, juros, pagamentos efetuados, valor original da dívida e dados do processo judicial.
+3. Finalidade: Cessão de créditos.
+4. Entidades a quem podem ser transmitidos: SilverEquation, Unipessoal, Lda..
+5. Forma de exercício do direito de acesso e retificação: Junto do responsável.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Proc. 9794/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 6. Eventuais interconexões: Não aplicável.
+7. Transferências de dados para países terceiros: Não aplicável.
+8. Prazo de conservação dos dados: 10 anos a contar da data da concretização da cessão de crédito.
+Lisboa, 29 de julho de 2014
+File
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

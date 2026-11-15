@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: RCI LEASING-SOC. DE LOCAÇÃO FINANCEIRA MOBILIÁRIA, S.A.(EX:GEST LEASING, S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,27 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:40:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 964/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8315](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8315).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 586/95
+AUTORIZAÇÃO N.° 964 12004 1. A RCI GEST Leasing - Sociedade de Locação Financeira Mobiliária, SA pretende desenvolver software que permita consultar, num único écran, a conta corrente global dos clientes do Grupo, independentemente da origem, titularidade ou natureza da relação contratual estabelecida. Ou seja, pretendem realizar uma interconexão de dados entre as empresas do Grupo para evitar a consulta sistemática de informação.
+Todas as empresas envolvidas estão autorizadas pela CNPD a fazer «transmissão recíproca de dados dos seus clientes».
+Pretendem fazer a interconexão dos seguintes dados:
+a) Nome;
+b) N.° de Contribuinte;
+c) Domicílio;
+d) Contratos activos e findos (duração, montante, valores pagos, prestações vencidas, prestações vincendas, saldo devedor ou credor, prestações em mora ou incumprimento);
+e) Identificação dos garantes.
+2. Se as entidades envolvidas estão legalmente autorizadas a comunicar os dados entre si (veja-se a autorização n.º 86/95), quando haja consentimento, interessa-lhes fazer uma comparação de dados por forma a verificar, nomeadamente, se os titulares dos dados já são seus clientes, se mudaram de morada, bem como sobre os contratos activos e findos.
+Isto é, pretende-se que, através de operação de interconexão, evitar múltiplas pesquisas aos sistemas de informação das empresas do Grupo.
+A comparação será feita através de uma "operação de interconexão", na acepção do artigo 3.º al. i) da Lei 67/98, ou seja, através do «relacionamento dos dados de um ficheiro com os dados de outro ficheiro mantido por outro ou outros responsáveis».
+Esta operação de interconexão não relaciona dados sensíveis, é adequada à prossecução das finalidades legais e estatutárias e de interesses legítimos dos responsáveis pelos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

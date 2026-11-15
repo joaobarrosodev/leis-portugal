@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARS PORTUGAL, INC'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:05:03Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 9/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40235](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40235).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 6867/2009
+REGISTO N.º09 /2012
+Mars Portugal, Inc - Sucursal em Portugal notificou um tratamento de dados pessoais com a finalidade de gestão de recursos humanos de trabalhadores.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10), com exceção dos dados relativos à localização do trabalhador através do cartão eletrónico de acesso.
+O fundamento de legitimidade é o cumprimento de obrigação contratual do responsável, previsto na al. a) do artigo 6° da LPD
+Assim, regista-se nos termos dos artigos 27.° n.º 1 e 30.° n.º 1.° da Lei 67/98, de 26 de Outubro nos seguintes termos:
+Responsável
+Mars Portugal, Inc - Sucursal em Portugal
+Finalidade
+Gestão de recursos humanos
+Categoria de dados pessoais tratados
+Forma de exercício do direito de acesso e rectificação
+Nome, estado civil, morada, contactos, cargo atual, remuneração e qualificações
+Por contacto com o Departamento de Recursos
+Humanos
+Comunicações de Dados
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Um ano após o fim da relação contratual, sem prejuízo da
+Conservação dos dados conservação em cópias de back up para fins de registo histórico.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda Lei n.° 67/98, de 26 de Outubro.
+Lisboa, 06-01-2012
+A Secretária da CNPD, sala (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

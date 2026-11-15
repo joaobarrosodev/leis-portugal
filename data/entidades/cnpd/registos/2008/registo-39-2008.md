@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GLAXOSMITHKLINE - PRODUTOS FARMACÊUTICOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 39/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1043](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1043).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.º 475/07
+Registo n.º 34 108
+A GlaxoSmithKline - Produtos Farmacêuticos, Lda notificou um tratamento de dados pessoais com a finalidade de gestão de pedidos de visita médica dos DIM's.
+O sistema assenta num software a instalar no telemóvel do profissional de saúde para ter acesso a um portal (via comunicação WAP gratuita), podendo por esse meio solicitar um contacto adicional com o DIM ou outro tipo de informação.
+A Go-Tv, Interactive Technologies -Tecnologias Interactivas, SA é a entidade encarregue do procedimento da informação, com quem deve o responsável estabelecer o contrato previsto no artigo 14° daLPD.
+Declara as seguintes categorias de dados pessoais: Nome e número de telemóvel.
+Os dados são recolhidos pessoalmente e indirectamente pelo acesso ao tratamento de gestão de visita médica.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - GlaxoSmithKline - Produtos Farmacêuticos, Lda
+Categoria de dados pessoais tratados - Nome e número de telemóvel.
+Finalidade - gestão de pedidos de visita médica dos DIM's
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsável.
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação da informação - Um mês após o fim do contrato
+Lisboa, 4 de Fevereiro de 08
+A Secretária da CNPD babey
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

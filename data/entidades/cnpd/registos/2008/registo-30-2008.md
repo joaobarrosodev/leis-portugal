@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 30/2008
-official_date: null
+official_date: '2008-02-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SIERRA MANAGEMENT NEW TECHNOLOGIES- SERV. DE COMUNICAÇÕES EM C. COMERCIAIS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:28Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 30/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1052](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1052).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 3457/06
+Registo n.º30 /08
+Sierra Management New Technologies - Serviços de Comunicação em Centros
+Comerciais, SA notificou um tratamento de dados pessoais com a finalidade marketing relativo a crianças.
+Declara as seguintes categorias de dados pessoais: Nome morada, género, data de nascimento, grau de parentesco relativamente ao responsável pela educação que irá efectuar o registo, escola, prenda pretendida no Natal, actividades de interesse e heróis preferidos.
+Os dados são recolhidos directamente, pessoalmente e na Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo artigo 6° da
+LPD, o consentimento do representante legal da criança. Estando em causa dados de menores, é exigido o consentimento inequívoco dos pais ou dos legais representantes, na medida em que não têm a menor capacidade para consentir.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Sierra Management New Technologies - Serviços de Comunicação em Centros Comerciais, SA
+Categoria de dados pessoais tratados - Nome morada, género, data de nascimento, grau de parentesco relativamente ao responsável pela educação que irá efectuar o registo, escola, prenda pretendida no Natal, actividades de interesse e heróis preferidos.
+Finalidade - marketing relativo a crianças.
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsável ou na Internet no endereço de registo;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Comunicação de dados - Não há
+Prazo máximo de conservação da informação - 10 anos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD, bem como o direito de oposição previsto na al. b) do artigo 12°.
+Lisboa, 4 de Fevereiro de 2008
+А Secretária da CNPD saos
+Isabel Cristina Cruz

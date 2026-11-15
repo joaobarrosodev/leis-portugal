@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Proser Prestação de Serviços na Promoção, e Aplicação de Produtos, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:01:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2219/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16452](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16452).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 5122/07
+AUTORIZAÇÃO N.° 2219 /2009
+A sociedade comercial denominada Proser - Prestação de Serviços na
+Promoção, Reposição e aplicação de Produtos, S.A., notificou à Comissão
+Nacional de Protecção de Dados (CNPD) os tratamentos de gestão de
+Recursos Humanos em relação ao recrutamento, selecção e colocação de pessoal, bem como ao processamento de vencimentos e impostos dos seus trabalhadores, indicando como finalidade do tratamento gestão de recursos humanos, supervisão e gestão de trabalhadores, processamento e gestão de benefícios.
+As categorias de dados tratados, que se referem, em especial, à identificação, morada, habilitações literárias e situação do trabalhador e constam do ponto n.° 5 do formulário, são necessárias e não excessivas em relação à finalidade (cf.
+art. 5.° da Lei 67/98, de 26 de Outubro).
+Não há interconexões de dados nem fluxos transfronteiriços.
+No tocante à conservação dos dados, deverá ser observado o seguinte: quanto aos candidatos não recrutados, os dados devem ser apagados decorridos seis meses sobre a data de recolha. Quanto aos trabalhadores, os dados podem ser conservados durante 5 anos após o termos da relação contratual.
+Face ao exposto DELIBERA esta CNPD, nos termos do disposto no n.º 1 do artigo 20.° da Lei n.º 67/98, de 26 de Outubro, autorizar o tratamento de dados pessoais, consignando-se, nos termos do artigo 30.°, o seguinte:
+1. Responsável: Proser - Prestação de Serviços na Promoção, Reposição e aplicação de Produtos, S.A.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2. Categorias de dados pessoais tratados: identificação, morada, habilitações literárias e situação do trabalhador 3. Finalidade: gestão de Recursos Humanos 4. Comunicação de dados: entre empresas do Grupo 5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita junto do responsável.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Conservação: Os dados podem ser conservados por 6 meses, no caso dos candidatos não recrutados, e por 5 anos, contados após a cessação da relação contratual.
+Lisboa, de Junho de 2009.
+Ana Roque (relatora), Carlos Campos Lobo, Helena Delgado António, Luís
+Barroso, Luís Paiva de Andrade, Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA 10 00 30

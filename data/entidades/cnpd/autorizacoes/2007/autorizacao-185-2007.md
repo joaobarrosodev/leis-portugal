@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: OSTEOMEDICAL, DOENÇAS ÓSSEAS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:38:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 185/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3179](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3179).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 241/01
+AUTORIZAÇÃO N. 12007 1. A Osteomedical - Doenças Ósseas, Lda., sociedade por quotas, veio notificar um tratamento relativo a actos médicos (exames e tratamentos).
+Os dados tratados são os seguintes:
+a) Identificação, morada e telefone do titular e sistema de saúde;
+b) Dados referentes aos exames realizados (mamografia, ecografia cardíaca e urológica, eco doppler, densitometria óssea;
+c) Dados ginecológicos e mamários relativos à mamografia e à ecografia;
+d) Dados medicamentosos;
+e) Historial clínico;
+f) No caso da densitometria óssea, há registo do peso, da altura, do IMC e do dado raça, uma vez que é relevante para a avaliação do resultado.
+Analisado o processo verifica-se que:
+• Há tratamento de dados de saúde;
+• As medidas de segurança adoptadas são as seguintes: cópias de backup, password de acesso às informações, acesso restrito de pessoas e informação cifrada.
+2. A Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais.
+O artigo 7.° n.º 1 proíbe, por princípio, o tratamento destes dados. Porém, os números seguintes (n.º 2 e n.º 4) vieram estabelecer as situações em que será possível o tratamento destes dados.
+Em relação ao tratamento de dados de saúde e dados genéticos, admite o artigo 7.°, n.º 4, o respectivo tratamento, quando for necessário «para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional» e desde que sejam «garantidas medidas adequadas de segurança da informação».
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA --- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3. A informação tratada é recolhida de forma lícita (art. 5.° n.º° 1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (art. 5.° n.º 1 al. b)
+e não há recolha de informação excessiva (art. 5.° n.° 1 al. c).
+Quando os dados são processados no âmbito da realização de diagnósticos, medicina preventiva, prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde, há legitimidade para ser feito o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional (cf. art. 7.° n.º 4 de Lei 67/98 de 26/10). Parecem adequadas as normas de segurança adoptadas.
+Em relação ao prazo de conservação devem ser observadas as disposições da
+Portaria n.° 247/2000, de 8 de Maio.
+Assim, nos termos do artigo 28.°, n.º 1 - al. a), 7.°, n.º 2, e 29.° da Lei 67/98, de 26 de Outubro, a CNPD autoriza o tratamento automatizado, consignando o seguinte:
+Responsável: Osteomedical - Doenças Ósseas, Lda.;
+Categorias de dados pessoais tratados: os enunciados nas alíneas a) a f) no ponto 1;
+Finalidades: gestão de dados clínicos.
+Forma de exercício do direito de acesso e rectificação: Sempre que o doente ou o seu legal representante o solicite através de contacto directo. Em relação aos dados de saúde deve fazê-lo através de médico (art. 11.°, n.° 5, da
+Lei 67/98).
+Lisboa, 05de Fevereiro de 2007.
+Ana Roque (re elátora)
+Carlos J
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos
+Luis Barroso 2e0a
+Helena Delegado António
+Almeial
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

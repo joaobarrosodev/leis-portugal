@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: STCP-Sociedade de Transportes Colectivos do Porto'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,79 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T20:18:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 8597/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/68926](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/68926).
+Processo n= 4036/2021|1 K
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° 959712014 1. Pedido
+A Sociedade e Transportes Colectivos do Porto, S.A., notificou um tratamento de dados pessoais com a finalidade de controlo de alcoolemia. Esse tratamento está consubstanciado no documento "Regulamento de Controlo de Alcoolemia" (doravante,
+Regulamento).
+Notificada nos termos dos artigos 100° e 101° do Código de Procedimento
+Administrativo para se pronunciar sobre o projeto de autorização da Comissão
+Nacional de Protecção de Dados (CNPD) a requerente nada disse, pelo que se mantêm os fundamentos de facto e de direito daquela decisão, a qual se delibera converter na presente autorização.
+2. Apreciação
+A CNPD já se pronunciou na sua Deliberação n.° 890/20101 sobre o enquadramento legal, os fundamentos de legitimidade e os princípios orientadores para o correto cumprimento da Lei n.° 67/98, de 26 de outubro (Lei de Proteção de Dados Pessoais -
+LPDP), bem como sobre as condições gerais aplicáveis ao tratamento de dados pessoais com esta finalidade.
+Nessa deliberação estabeleceu-se que só são legítimos os procedimentos de controlo de alcoolemia com a finalidade de medicina preventiva e curativa, devendo ser sempre efetuados pelos serviços de medicina do trabalho, por profissionais de saúde sujeitos a sigilo (cf. artigo 107° da Lei n.º 102/2009, de 10 de setembro). Deste modo, não se autoriza o disposto no ponto 4.4. do Regulamento no segmento respeitante a "trabalhador formado e com reconhecida capacidade para o efeito".
+Admite-se a utilização das fichas de aptidão - e apenas destas, não dos resultados dos testes - para efeitos de prova em procedimento disciplinar cuja fundamentação assente nas causas tipificadas no Estatuto Disciplinar dos Trabalhadores que Exercem 1 Disponivel em http://www.cnpd.pt/bin/orientacoes/20_890_2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 4036/2014
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Funções Públicas (aprovado pela Lei n.° 58/2008, de 9 de setembro) e, quando aplicável, no Código de Trabalho. Sublinha-se que o consumo em si não constitui infração disciplinar, mas apenas e tão só o comportamento que dele eventualmente decorra.
+Do exposto decorre que não é a constatação de uma qualquer taxa de alcoolemia que objetivamente pode determinar se o trabalhador está apto ou inapto para o trabalho;
+tal afirmação apenas pode com legitimidade ser feita pelo médico do trabalho em função da observação do trabalhador e com base em critérios clínicos. Não se autoriza, pois, o disposto nos pontos 4.2., 4.3., 5.3.1. e 6 do Regulamento. De igual modo, também é apenas ao médico do trabalho que cabe determinar o procedimento a seguir na sequência da observação efetuada.
+O fundamento de legitimidade é o interesse público importante subjacente ao tratamento de dados, consubstanciado na prevenção do perigo para a integridade física do próprio ou de terceiros (cf. n.º 2 do artigo 7° da LPDP). Assim, o âmbito de aplicação deve ser restrito a trabalhadores de categorias profissionais cuja atividade possa pôr em perigo a sua integridade física ou a de terceiros e, em qualquer momento, aos trabalhadores que o solicitem, sendo excessiva e desproporcionada a recolha de dados de todos os trabalhadores que constam do Anexo Il do
+Regulamento, como preconiza o ponto 3.1., cujo teor também não se autoriza.
+A informação de saúde, na qual se incluem os resultados dos testes, em caso algum podera ser comunicada ao empregador, apenas podendo ser dado conhecimento do estado de aptidão do trabalhador através de ficha com a menção de "apto" ou "não apto (cf. n.º 3 do artigo 19° do Código de trabalho). Não se autoriza, portanto, o texto do Anexo III (Relatório de Controlo de Alcoolemia), na medida em que supõe a assinatura da hierarquia, logo, o conhecimento do resultado do teste pelo empregador.
+Nos termos do disposto no n.º 12 do artigo 15° da Lei n.º 102/2009, de 10 de setembro, não podem decorrer encargos financeiros para o trabalhador em resultado da execução de medidas de controlo de substâncias psicoativas no local de trabalho ou de eventual contraprova.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.9 4036/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Nos termos da alínea e) do artigo 29.° da LPDP, a entidade responsável pelo tratamento tem o dever de notificar à CNPD eventuais alterações futuras quanto às entidades subcontratantes em sede de medicina do trabalho.
+Os testes e exames médicos realizados no âmbito dos controlos de alcoolemia constituem dados de saúde dos trabalhadores e, enquanto dados sensíveis na aceção do n.º 2 do artigo 7° da Lei n.° 67/98, de 26 de outubro, a respetiva guarda e conservação estão sujeitas às medidas especiais de segurança previstas no artigo 15° daquele diploma legal.
+Assim, autoriza-se parcialmente o tratamento de dados pessoais supra identificado, com as alterações apontadas e com os fundamentos da Deliberação n.° 890/2010 e, ainda, ao abrigo dos artigos 7°, n.° 2, 28°, n.° 1, alínea a), 29° e 30°, n.° 1.° da Lei n.° 67/98, de 26 de outubro, nos seguintes termos:
+Responsável: Sociedade de Transportes Colectivos do Porto, S.A.
+Finalidade: Medicina preventiva e curativa no âmbito do controlo de substâncias osicoativas.
+Categorias de dados pessoais tratados: Dados de identificação do trabalhador, dados de saúde relacionados com o consumo, incluindo plano terapêutico, substâncias alvo de deteção/controlo, circunstâncias da aplicação dos testes, dados de identificação dos profissionais de saúde envolvidos na deteção, frequência do controlo e respetiva fundamentação, data de realização do controlo, eventuais resultados de contraprova por organismo credenciado e procedimentos adotados no caso de resultado positivo.
+Forma de exercício dos direitos de. acesso e de retificação: Por solicitação ao responsável pelo tratamento. O direito de acesso aos dados de saúde deverá ser exercido por intermédio de médico escolhido pelo titular dos dados que pode ser, a solicitação do trabalhador, o médico do trabalho (cf. n.° 5 do artigo 11° da LPDP). Os direitos de acesso e de retificação devem ser exercidos diretamente junto do médico do serviço de Medicina do Trabalho.
+Comunicação de dados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Autoridade para as Condições de Trabalho (cf. n.° 2 do artigo 109° da Lei n.° 102/2009, de 10 de setembro). A comunicação de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 4036/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS dados para os recursos humanos deverá limitar-se às indicações de "apto" ou "não apto".
+Medidas de segurança: Devem ser cumpridas as medidas especiais de segurança de tratamento de dados sensíveis previstas no artigo 15° da LPDP. A informação de saúde deve ser de acesso restrito ao médico do trabalho ou, sob a sua direção e controlo, a outros profissionais de saúde sujeitos a sigilo profissional.
+Interconexões: Não há.
+Fluxo transfronteiriço de dados para países terceiros: Não há.
+Prazo máximo de conservação dos dados: Um ano após a realização dos testes e a respetiva contraprova, se a ela houver lugar. Na pendência de processo judicial, a informação pode ser conservada até ao trânsito em julgado da decisão.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPDP.
+Dos termos e condições fixados na Deliberação n.º 890/2010 e na presente
+Autorização decorrem obrigações que a entidade responsável deve cumprir. Deve igualmente dar conhecimento dessas condições a todos os intervenientes no circuito da informação.
+Lisboa, 23 Le 1 2014
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

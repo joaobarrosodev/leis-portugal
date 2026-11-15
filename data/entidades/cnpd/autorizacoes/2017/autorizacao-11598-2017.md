@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 11598/2017
-official_date: null
+official_date: '2017-10-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DECO PROTESTE EDITORES, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T08:24:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11598/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/111352](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/111352).
+Processo n.° 9158/2017 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º J1598 12017
+DECO PROTESTE EDITORES, LDA, NIPC 502611529, notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transações comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+A Comissão Nacional de Protecção de Dados (CNPD) já se pronunciou, na sua Deliberação n.º 629/2010(1), parcialmente alterada pela Deliberação n.º 1039/2017,2 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto (Lei de Protecção de Dados Pessoais, doravante LPDP), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequivoco do titular (n.° 3 do artigo 4.° da Lei n.° 41/2004, de 18 de agosto, alterada pela Lei n.° 46/2012, de 29 de agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efetue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respetivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20.° do Código de Trabalho e no n.º 1 do artigo 11.° do Regime do Contrato de Trabalho em Funções Públicas, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Disponivel em http://www.cnpd.pt/bin/orientacoes/DEL629_2010.pdf 2 Altera parcialmente a Deliberação n.º 629/2010 no que diz respeito ao prazo máximo de conservação das gravações de chamadas realizadas com a finalidade de prova de transações comerciais e quaisquer outras comunicações respeitantes relação contratual.
+Disponivel em https://www.cnpd.pt/bin/orientacoes/Del_geral_gravacao_chamadas_2017.pdt
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.º 9158/2017 | 1v.
+Existe tratamento da informação externo por EUROCONSUMERS, S.A., em regime de subcontratação, entidade com a qual a Requerente deverá celebrar o contrato previsto no n.° 3 do artigo 14.° da LPDP.
+Solicita-se um prazo máximo de conservação dos dados pessoais de 5 anos após a celebração do contrato considerando que reiteradamente dentro desse prazo é solicitada prova da relação contratual pelo cliente e este é o único meio de prova disponível.
+Entendemos que este prazo é manifestamente excessivo. Assim com os fundamentos expressos na Deliberação n.º 1039/2017 fixa-se o prazo de conservação dos dados em 24 meses acrescido do prazo de prescrição.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.° 2, 28.° n.° 1, alínea a), 29.° e 30.°, n.° 1.° da LPDP, consignando-se o seguinte:
+Responsável - DECO PROTESTE EDITORES, LDA.
+Finalidade - Prova das transações comerciais e quaisquer outras comunicações respeitantes à relação contratual
+Categoria de dados pessoais tratados - dados de tráfego e conteúdo das chamadas, nome ou número de associado ou número de cliente Proteste.
+Forma de exercício dos direitos de acesso e retificação - por escrito para a morada do responsável, Av. Eng. Arantes e Oliveira, n.° 13 - 1.° B, 1900-221 Lisboa.
+Comunicações de Dados Pessoais -não há
+Interconexões - Não se verificam
+Fluxo transfronteiriço de dados - Não há
+Conservação dos dados - pelo prazo máximo de 24 meses acrescido do prazo de caducidade ou prescrição.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da
+LPDP.
+Dos termos e condições fixados na Deliberação n.º 629/2010 parcialmente alterada pela
+Deliberação n.° 1039/2017, que se dão aqui por reproduzidos, e da presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+
+Processo n.° 9158/2017 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Devem ser postas em prática as medidas de segurança previstas nos artigos 14.° e 15.° da
+LPDP.
+Esclarece-se que a presente Autorização não inclui a finalidade de monitorização da qualidade do serviço prestado que, por constituir finalidade diferente, carece de notificação autónoma.
+Lisboa, 10 de outubro de 2017
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

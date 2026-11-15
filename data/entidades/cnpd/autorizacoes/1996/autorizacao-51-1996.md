@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MUNDICRE -SOCIEDADE FINANCEIRA PARA AQUISIÇÃO A CRÉDITO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:14:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 51/1996
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10296](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10296).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 121/96
+AUTORIZAÇÃO N. S7/2000
+O MUNDICRE - Sociedade Financeira Para Aquisições a Crédito, SA veio solicitar autorização para comunicar dados, no âmbito dos riscos de crédito, à
+Credinformações - Informações de Crédito, Ld.ª e ao BANIF - Banco Internacional do
+Funchal, SA.
+A CNPD tem entendido, de forma pacífica e uniforme, que a comunicação de dados a entidades financeiras decorre de uma disposição legal: o artigo 83.° do DL 298/92.
+Por isso, há legitimidade para a comunicação de dados a estas empresas por força do artigo 6.° alíneas b) e e) da Lei 67/98.
+2. No mesmo contexto, não há obstáculo à comunicação de dados à Credinformações na medida em que a comunicação é feita no âmbito de um contrato de prestação de serviços, ficando a Credinformações vinculada a cumprir as disposições relativas ao sigilo bancário (cf. artigos 78.° n.º 1 e 79.° n.º 1 do DL 298/92). A Credinformações, no âmbito deste contrato, apenas disponibiliza informação a entidades financeiras e em termos de reciprocidade. Há legitimidade para o tratamento, nos termos do artigo 6.° al. a) e e) da Lei 67/98, admitindo-se que - em abstracto e em situações concretas -o titular possa invocar a prevalência dos seus direitos ou exercer, quando for o caso, o direito de oposição (cf. art.º 12.º n.º 1 da Lei 67/98).
+A Credinformações, nos termos do seu pedido de autorização junto da CNPD, assegura o direito de informação aos titulares dos dados no momento em que os dados são inseridos no seu sistema.
+Assim, considera-se alterada a autorização n.º 51/96, de 22 de Abril, nos termos que ficaram expostos.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 17 de Outubro de 2000
+Amadeu Guerra (relator)
+Catarinefarmente Castos
+Catarina Castro
+João Simões de Almeida 1
+Mário Varges Gomes
+Joãd Labeseat (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

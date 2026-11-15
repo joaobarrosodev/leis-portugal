@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4587/2009
-official_date: null
+official_date: '2009-10-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SHIRE HUMAN GENETIC THERAPIES'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:22:12Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4587/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19409](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19409).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 7746/2009
+AUTORIZAÇÃO N.° 4587/2009
+A Shire Human Genetic Therapies notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo em doentes com Angioedema Hereditário (AEH) designado
+IOS (Icatibant Outcome Survey), que recebem tratamento com Firazyr.
+Serão incluídos neste estudo os doentes com a patologia que frequentam a consulta dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados, do qual não consta a identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do profissional de saúde participante.
+O tratamento de dados pessoais está na disponibilidade dos seus titulares, ou dos seus representantes legais no caso de serem menores, apenas a estes cabendo decidir se pretendem prestar as informações em causa e autorizar a recolha de informação e de imagens para a finalidade pretendida.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+No que concerne ao tratamento do dado raça, o responsável justifica a sua necessidade do seguinte modo: "... a importância de obter maior e melhor informação sobre os factores epidemiológicos e prevalência da doença em função das diferentes etnias.
+Além disso, também se pretende estudar a variação fenotípica, quer dizer, a severidade dos sintomas e suas variações segundo a etnia. Como é sabido também pretende-se avaliar o comportamento das terapêuticas instituídas e as suas variações segundo as diferentes etnias pois é sabido que podem existir comportamentos terapêuticos diferentes.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A história natural das doenças raras, como a que se observa neste estudo, só é possível obter, quando todos os dados e variáveis são observados, afim de entender as formas mais correctas de tratar estes mesmos doentes.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso dos titulares dos dados. Porque pode haver recolha de dados de menores, o consentimento a prestar pelos legais representantes deve ter sempre em conta o superior interesse da criança. Impõe-se, ainda, que a criança seja ouvida e em função da idade, nos termos da lei, ela própria preste a sua anuência à recolha de dados pessoais para participação no estudo.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Shire Human Genetic Therapies
+Finalidade: estudo em doentes com Angioedema Hereditário (AEH) designado IOS (Icatibant
+Outcome Survey), que recebem tratamento com Firazyr.
+Categoria de Dados pessoais tratados: código do doente, critérios de inclusão, dados demográficos (data de nascimento, sexo e raça), variáveis clínicas e laboratoriais (história clínica, álcool, exame físico completo, sinais vitais, teste de gravidez no soro, hematologia, bioquímica completa, bioquímica parcial, registo de eventos adversos, medicação concomitante, chamada IVRS, administração do medicamento do estudo).
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, |9 de Outubro de 2009
+Ana Roque (Relator), Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luis Barroso geridora
+Luis Lingnau da Silveira (Presidente)

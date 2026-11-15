@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 21/2016
-official_date: null
+official_date: '2016-02-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Agrupamento de Escolas de Mafra'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:55:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 21/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/88177](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/88177).
+Proc. n.º 14514/2015 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Registo n.° 21/2016
+O Agrupamento de Escolas de Mafra notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de Gestão de
+Docentes.
+O fundamento de legitimidade para o tratamento de dados é a execução de contrato entre o responsável e o titular (cf. alínea a) do artigo 6.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto, - Lei de Protecção de Dados (LPD).
+De acordo com o previsto na alínea c) do n.º 1 do artigo 5.° da LPD, os dados recolhidos são adequados, necessários e não excessivos. Contudo, face à finalidade e às comunicações declaradas, verifica-se que não foi indicado o tratamento de informação relativa às remunerações e respetivos descontos, obrigatórios e facultativos, os quais, por força do princípio do inquisitório previsto no artigo 56.° do
+Código do Procedimento Administrativo, ficam aditados ao presente registo.
+Existe comunicação de dados, por força de obrigação legal, para efeitos dos descontos obrigatórios e facultativos.
+***
+Face ao exposto, de acordo com o n.º 1 do artigo 27° e o n.º 1 do artigo 30°, ambos da
+LPD, regista-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento - Agrupamento de Escolas de Mafra;
+Categorias de dados pessoais tratados - nome, morada, contactos, número de identificação civil, número de identificação fiscal, número de identificação bancária, estado civil, sexo, data de nascimento, habilitações e vencimento base.
+Finalidade - Gestão de docentes;
+Forma de exercício do direito de acesso e retificação - presencialmente e por escrito para a morada do responsável, Rua Santa Casa da Misericórdia, nº7, 2640-528 Mafra;
+Interconexões - Não há;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h
+
+Proc. n.º 14514/2015 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Comunicação de dados pessoais - Instituto de Gestão Financeira da Educação, Caixa
+Geral de Aposentações, Segurança Social, Autoridade Tributária, ADSE e Sindicatos (para efeitos de quotizações)
+Fluxo transfronteiriço de dados pessoais - Não há;
+Prazo máximo de conservação dos dados - Enquanto durar a relação contratual, sem prejuízo de conservação da informação para fins de arquivo histórico.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da LPD.
+O responsável está obrigado a adotar as medidas de segurança adequadas ao risco que o tratamento de dados pessoais apresenta, em conformidade com as obrigações previstas no artigo 14.° da LPD.
+Alerta-se que o acesso à informação por terceiros carece de autorização específica da
+CNPD, por força da existência de proibição constitucional e legal.
+Lisboa, 23 de fevereiro de 2016
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h

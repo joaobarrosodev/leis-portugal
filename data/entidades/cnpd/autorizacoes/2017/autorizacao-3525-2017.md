@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JMS Prestação de Serviços de Saúde, A.C.E.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T10:37:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3525/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/103400](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/103400).
+Processo n.º 18049/2016 1
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃONO 3525 2017
+JMS Prestação de Serviços de Saúde, ACE., notificou um tratamento de dados pessoais de gravação de chamadas com a finalidade de prova das transações comerciais e outras comunicações respeitantes à relação contratual.
+A Comissão Nacional de Protecção de Dados (CNPD) já se pronunciou, na sua Deliberação n.º 629/2010(1), sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro, alterada pela
+Lei n° 103/2015, de 24 de agosto (LPDP), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequívoco do titular (n.º 3 do artigo 4.° da Lei n.º 41/2004, de 18 de agosto, alterada pela Lei n.º 46/2012, de 29 de agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efetue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respetivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20.° do Código de Trabalho e no n.º 1 do artigo 11.° do Regime do Contrato de Trabalho em Funções Públicas, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Atento • o disposto na alínea e) do n.º1 do artigo 5.° da LPDP, devem os dados pessoais ser conservados apenas durante o periodo necessário para a prossecução das finalidades da recolha e do tratamento posterior. No caso vertente a Requerente indicou que o prazo máximo de conservação será de 90 dias.
+Disponível em http://www.cnpd.pt/bin/orientacoes/DEL629_2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 18049/2016 1v.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.° 2, 28.° n.º 1, alínea a), 29.° e 30.°, n.° 1.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto, consignando-se o seguinte:
+Responsável - JMS Prestação de Serviços de Saúde, ACE.
+Finalidade - Prova das comunicações respeitantes à relação contratual.
+Categoria de dados pessoais tratados - Dados de tráfego e conteúdo das chamadas.
+Forma de exercício dos direitos de acesso e retificação - Por solicitação escrita à morada
+Edifício Entreposto, Praça José Queirós, Piso 4, 1800-237 Lisboa.
+Comunicações de Dados Pessoais - Não há.
+Interconexões - Não há.
+Fluxo transfronteiriço de dados Não há.
+Conservação dos dados - 90 dias.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da
+LPDP, dos termos e condições fixados na Deliberação n.º 629/2010, que se dão aqui por reproduzidos, e da presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Devem ser postas em prática as medidas de segurança previstas nos artigos 14.° e 15.° da
+LPDP.
+Esclarece-se que a presente Autorização não inclui a finalidade de monitorização da qualidade do serviço prestado que, por constituir finalidade diferente, carece de notificação autónoma.
+Lisboa, 28 de unarco de 2017
+Filipa Calvão (Presidenté)

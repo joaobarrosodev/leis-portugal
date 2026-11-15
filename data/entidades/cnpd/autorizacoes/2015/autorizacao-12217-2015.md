@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 12217/2015
-official_date: null
+official_date: '2015-12-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Associação Protectora dos Diabéticos de Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,70 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T15:45:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12217/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/85375](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/85375).
+Processo N. 1562412015 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 122/7 12015
+I. Pedido
+A Associação Protectora dos Diabéticos de Portugal (APDP) notificou à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo para "Validação Cultural e Clínica do Questionário
+Internacional DAWN - 2 (Diabetes, Attitudes, Wishes and Needs-2.ª versão) para
+Portugal".
+A entidade encarregue do processamento da informação é a Eurotrials, com a qual a responsável pelo tratamento celebrará o contrato previsto no artigo 14.° da Lei n.° 67/98, de 26 de outubro (Lei de Proteção de Dados Pessoais - LPDP).
+Os participantes no estudo serão pessoas com diabetes mellitus, pertencentes à
+APDP e a quem será solicitado que preencham o questionário de validação da escala.
+A 1.ª aplicação será presencial e a 2.ª (mesmo questionário), deverá ser enviada pelo correio em envelope já selado.
+Os questionários serão também testados com profissionais de saúde e familiares de pessoas com diabetes.
+Os dados serão recolhidos num "caderno de recolha de dados" no qual não há identificação nominal do titular, sendo aposto um código. A chave desta codificação só pode ser conhecida do investigador coordenador.
+Os destinatários são ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento, caso decidam participar, recolhendo o investigador o seu consentimento informado para o efeito.
+II. Análise
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.° 15624/2015
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Porque em grande parte referentes à saúde e à vida privada, os dados recolhidos pela requerente têm a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, ou dos seus legais representantes nos termos do disposto no n.° 2 do artigo 7.° da LPDP.
+Por esta razão é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Os titulares dos dados, de acordo com a declaração de consentimento informado junta aos autos, apõem as suas assinaturas na mesma, deste modo satisfazendo as exigências legais.
+A informação tratada é recolhida de forma lícita (cf. alínea a) do n.° 1 do artigo 5.° da
+LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo).
+O fundamento de legitimidade é o consentimento expresso dos titulares dos dados.
+III. Conclusão
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 303 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.° 15624/2015 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º 1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.° e artigo 30.º da Lei de Proteção de Dados, autoriza-se o tratamento de dados supra referido, consignando-se o seguinte:
+Responsável pelo tratamento: Associação Protectora dos Diabéticos de Portugal;
+Finalidade: estudo para "Validação Cultural e Clínica do Questionário Internacional
+DAWN - 2 (Diabetes, Attitudes, Wishes and Needs-2.ª versão) para Portugal";
+Categoria de Dados pessoais tratados: código do participante; Género, diagnostico de diabetes, esquema terapêutico, socio demográficos, validação de uma escala do questionário.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do responsável.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída no prazo de 5 anos após o fim do estudo.
+Dos termos e condições fixados na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 7 de dezembro de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 303 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 157/2002
-official_date: null
+official_date: '2002-06-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO BILBAO VIZCAYA ARGENTARIA (BBVA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:01:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 157/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9700](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9700).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 38/96
+AUTORIZAÇÃO N° 157 /2002 1. O Banco Bilbao Vizcaya vem solicitar a alteração do instrumento de legalização.
+Refere que pretende autorização para dar acesso aos dados pessoais dos seus clientes à
+BLANES - Serviços de Gestão, Ld." no âmbito de um «contrato de prestação de serviços e que envolve:
+"a) Pesquisa da base de dados para habilitar o BBV a dar resposta a ofícios do Banco de
+Portugal, recebidos via Internet, no âmbito de processos judiciais de execução;
+b) Consulta de bases de dados para reencaminhamento de correspondência para os balcões titulares respeitantes a cartas previamente enviadas para as moradas dos titulares das contas".
+A prestação de serviços está sujeita a várias condições em matéria de confidencialidade e tratamento dos dados, conforme resulta da cláusula 5.ª do contrato de prestação de serviço junto ao processo.
+2. O art. 78.° do DL 298/92 de 31 de Dezembro estabelece o alcance do dever de segredo, dispondo, nomeadamente, que... as pessoas que prestem serviços a título permanente ou ocasional não podem revelar ou utilizar informações sobre factos ou elementos respeitantes à vida da instituição ou às relações desta com os seus clientes cujo conhecimento lhes advenha exclusivamente do exercício das suas funções ou da prestação de serviços" (n° 1). O n° 2 do mesmo preceito refere que «estão, designadamente, sujeitos a segredo os nomes dos clientes, as contas de depósito e seu movimentos e outras operações bancárias».
+As entidades financeiras podem contratar, em regime de prestação de serviços, a realização de actividades a outras empresas desde que sejam asseguradas as regras relativas ao segredo profissional.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Nos termos do pedido formulado o BBV compromete-se a exigir da empresa um rigoroso sigilo em relação à informação e regras de segurança adequada, não podendo a entidade prestadora de serviços ou os seus empregados divulgar ou utilizar em proveito próprio os dados pessoais consultados.
+Em face do exposto, a CNPD defere a alteração da autorização n° 22/96, nos termos requeridos.
+Lisboa, 25 de Junho de 2002 reden l
+Amadeu Guerra (relator)
+Catarina Sarmento e Castro
+Alexandre Pinheiro
+Curtukule Baptiäti
+Cristina Baptista
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

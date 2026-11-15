@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 178/2002
-official_date: null
+official_date: '2002-11-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO DE PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:00:50Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 178/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9645](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9645).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 78/95
+AUTORIZAÇÃO N.º178/2002 1. O Banco de Portugal veio notificar o tratamento que tem como finalidade o cumprimento, por parte das instituições de crédito e sociedades financeiras, dos limites aplicáveis aos grandes riscos"
+A obrigatoriedade de comunicação de dados decorre de uma das competências do
+Banco de Portugal, a qual consiste na supervisão prudencial das instituições de crédito e das sociedades financeiras (cf. artigos 93.° e 197.° do DL 298/92, de 31 de Dezembro).
+Em especial, o artigo 99º alínea d) da mesma disposição legal confere ao Banco de
+Portugal competência para definir, por aviso, os limites à concentração de riscos. Esta competência foi exercida através do Aviso do Banco de Portugal n.º 10/94, publicado no DR II.ª Série, de 18 de Novembro de 1994 (pág. 11612).
+2. Os dados são pertinentes, não excessivos e adequados à finalidade (cf. artigo 5.° n.º 1 al. c) da Lei 67/98). A legitimidade para o tratamento destes dados decorre de disposição legal (cf. artigo 6.° al. b) da Lei 67/98, de 26 de Outubro).
+Em face do exposto a CNPD autoriza o tratamento de dados consignando-se, nos termos dos artigos 7° n.º 2, 28.º n.º° 1 al. a) e 29° e 30.° da Lei 67/98, de 26 de Outubro, o seguinte:
+1. Responsável: Banco de Portugal - Departamento de Supervisão Bancária 2. Categorias de dados pessoais tratados: Nome, tipo de documento de identificação, n.º de documento de identificação, país de residência, montante do risco assumido pela instituição reportante.
+3. Finalidade: Verificação do cumprimento, por parte das instituições de crédito e sociedades financeiras, dos limites aplicáveis aos grandes riscos.
+4. Entidades a quem podem ser transmitidos: Não existe comunicação de dados.
+Rua de São Bento, 148 - 3.°-
+- 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+Lisboa, 5 de Novembro de 2002
+Amadeu Guerra (relator)
+Cataringormento Castos
+Catarina Sarmento e Castro
+Altande forra futeiro
+Alexandre Pinheiro
+Cristina Baptista
+Luís Durão Barroso
+Mário Varges Gomes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt
+- 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt

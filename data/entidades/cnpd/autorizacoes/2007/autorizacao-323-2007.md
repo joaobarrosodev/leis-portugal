@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ACTIVIDADES HOTELEIRAS VIRIATO, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:36:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 323/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3272](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3272).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 3571/06
+AUTORIZAÇÃO N.° 323 /2007 1. A empresa Actividades Hoteleiras Viriato, Lda. veio notificar os tratamentos de videovigilância.
+A entidade declara que não existe comissão de trabalhadores.
+As câmaras serão instaladas no armazém, na zona de clientes, na zona de fabrico, na área de produção e zona de produção.
+Através da deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nos estabelecimentos de restauração no âmbito da protecção de pessoas e bens na medida em que se trata de local frequentado por muitas pessoas, com manuseamento de dinheiro.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+(*) Disponível in http://www.cnpd.pt/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Carlos Lobo exercere
+Helena Delgado António
+VarerAliciaa
+Vasco Almeida, que relatou
+Luís Barroso
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

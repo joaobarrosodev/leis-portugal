@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO LOCAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:02:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 59/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/67637](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/67637).
+Proc. 10411/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.º 59 12014 1. PEDIDO
+O Senhor Chefe de Gabinete do Secretário de Estado da Administração Local solicitou à
+Comissão Nacional de Protecção de Dados (CNPD) o seu parecer sobre a Proposta de
+Decreto-Lei que visa estabelecer o regime jurídico do Programa de Estágios Profissionais na Administração Local nos termos e para os efeitos do n.º 3 do artigo 18.° da Lei n.º 43/2004 de 18 de agosto.
+Tal parecer por força do Artigo 23.° - 1 - a) da Lei 67/98, de 26 de outubro, é obrigatório.
+Cumpre assim emitir parecer.
+2. APRECIAÇÃO
+A presente proposta de decreto-lei estabelece o regime jurídico do Programa de Estágios
+Profissionais na Administração Local (PEPAL).
+O âmbito do presente parecer centra-se na apreciação da matéria relativa à proteção de dados pessoais, interpretando-se o seu conceito na aceção do artigo 3°, alínea a), da LPD.
+Para efeitos da LPD, entende-se por tratamento de dados pessoais "qualquer operação ou conjunto de operações sobre dados pessoais, efetuadas com ou sem meios automatizados, tais como a recolha, o registo, a organização, a conservação, a adaptação ou alteração, a recuperação, a consulta, a utilização, a comunicação por transmissão, por difusão ou por qualquer outra forma de colocação à disposição, com comparação ou interconexão, bem como o bloqueio, apagamento ou destruição" - cf. artigo 3.°, alínea b).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 10411/2014 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Feita a delimitação do objeto do presente parecer, à CNPD cabe pronunciar-se sobre a compatibilidade dos dispositivos do projeto de diploma com os princípios integradores da proteção de dados pessoais.
+Consultado o Projeto de diploma, constata-se que não existe qualquer norma especifica que vise a respetiva adequação ao regime geral de proteção de dados pessoais.
+Todavia o artigo 7.°, que regula as candidaturas à frequência dos estágios profissionais refere que as mesmas são apresentadas junto das entidades promotoras, sendo formalizadas através de preenchimento de formulário. Ora tal tratamento automatizado tem de ser notificado à CNPD nos termos do artigo 27.° n.º 1, da LPD.
+3. CONCLUSÃO
+No Projeto de Decreto-Lei não se suscitam específicas questões de proteção de dados.
+Contudo chama-se a atenção para a obrigação das entidades promotoras dos estágios profissionais notificarem à CNPD o tratamento de dados pessoais relativos aos candidatos, nos termos do artigo 27.° n.º 1, da LPD.
+É este o parecer da CNPD.
+Lisboa. E de agosto de 2014
+Maria Cândida Guedes Oliveira (Relatora)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

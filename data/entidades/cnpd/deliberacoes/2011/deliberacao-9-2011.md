@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Instituto dos Registos e do Notariado, I.P. (IRN)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,83 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:51:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 9/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26771](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26771).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PROCESSO N.º 8757/2010
+DELIBERAÇÃO N.°Q 12011
+INTRODUÇÃO 1 - O Instituto dos Registos e do Notariado, I.P. (IRN) veio solicitar à Comissão
+Nacional de Protecção de Dados (CNPD) o seu parecer sobre um protocolo (Protocolo)
+a celebrar entre aquele Instituto Público, a Polícia Municipal de Mafra e o Instituto das
+Tecnologias de Informação na Justiça, I.P. (ITIJ).
+Este Protocolo tem como finalidade declarada o acesso, através de linha de transmissão de dados, pela Polícia Municipal de Mafra à informação do registo de veículos constante na base de dados de registo automóvel localizada no ITIJ". Esta modalidade de acesso directo justifica-se para, na prossecução das suas competências, a entidade em causa proceder à fiscalização do cumprimento das normas de estacionamento de veículos e de circulação rodoviária.
+2 - O presidente do IRN é o responsável pelo tratamento dos dados pessoais contidos nas bases de dados do Registo Automóvel (cf. artigo 27.° A - 1 do D/L 54/75, de 12 de
+Fevereiro) que é um registo, que, nos termos de disposições legislativas, se destina à informação ao público e pode ser consultado por qualquer pessoa que provar um interesse legítimo na consulta (cf. artigo 27.º - D do D/L 54/75, de 12 de Fevereiro).
+Trata-se portanto de tratamentos de dados pessoais isentos de notificação à CNPD e que não carecem de inserção no seu Registo Público (cf. artigos 27.° - 4 e 31.° - 4 da Lei 67/98, de 26 de Outubro).
+3 - A consulta dos dados pessoais do Registo Automóvel pela Polícia Municipal de
+Mafra constitui, em termos de tratamento de dados pessoais, uma comunicação por transmissão para uma finalidade diversa da determinante da recolha o que obriga a autorização da CNPD (cf. artigos 3.° b), 23.° - 1 - b) e 28.° - 1 - d) da lei 67/98, de 26 de Outubro).
+APRECIAÇÃO
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+RE PROTECÇAO DE DADOS
+Não se indica com clareza quem é o responsável pelo tratamento pretendido, o que se entende ser de fixar no texto do Protocolo.
+Dados pessoais a tratar
+Não se indica quais os dados pessoais a tratar. Presumindo-se que são os dados não sensíveis constantes nos artigos 27.° D e E do DL 54/75, de 12 de Fevereiro; Nome;
+Residência habitual, Número e data do bilhete de identidade, Número de identificação fiscal relativamente ao proprietário ou titular de outros direitos reais ou de direitos de crédito sobre o veículo e os dados do veículo. Os dados pessoais a tratar são adequados, pertinentes e não excessivos para a finalidade declarada (cf. artigo 5.° - 1 - b) e c) da
+Lei 67/98, de 26 de Outubro).
+Importa contudo referir expressamente no texto do Protocolo a celebrar.
+Legitimidade do tratamento
+O tratamento a efectuar consiste na comunicação dos dados pessoais a um terceiro, a
+Polícia Municipal de Mafra, para a prossecução de seus interesses legítimos e conferidos por lei - cfr. art° 3/nº2 da Lei 19/04 de 20 de Maio - e não estão, com tal comunicação, em crise os interesses nem os direitos, liberdades e garantias dos titulares dos dados (cf. artigo 6.° - e) da Lei 67/98, de 26 de Outubro).
+Verifica-se também não haver incompatibilidade entre a finalidade determinante da recolha dos dados pessoais e a finalidade da sua comunicação por transmissão, existindo legitimidade quer do transmissor quer do receptor para efectivação dessa forma de tratamento.
+Segurança
+A segurança dos dados na Polícia Municipal de Mafra deve ser garantida por acesso reservado só a determinados utilizadores mediante username e password, registos dos acessos, obrigação de sigilo e comunicação por transmissão através de linha de comunicação segura.
+De uma forma geral deve ser garantida o integral cumprimento da Lei 67/98 de 26 de
+Outubro, nomeadamente pelo respeito da finalidade, não comunicação a terceiros e não perturbação do tratamento dos dados pessoais pela entidade responsável pelo tratamento, o que se mostra referido no texto em sindicância - crf. art° 3°.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Interconexões
+Não é permitida qualquer forma de interconexão de dados pessoais, sendo que em nenhum momento do clausulado, tal se refere.
+Conservação
+Este aspecto não se mostra contemplado no texto ora em análise, devendo por isso prever-se Cláusula expressa que o consagre, adiantando-se, desde já que se deverá estabelecer que os dados a conservar pela Polícia Municipal de Mafra, o são pelo tempo estritamente necessário à prossecução da finalidade.
+Observações
+O prazo de duração em vigor do Protocolo, a sua eventual renovação e resolução está estipulado na Cláusulas 11ª.
+DECISÃO
+Em presença do expendido e a coberto dos normativos combinados dos arts° 7/nº2, 23/n° 1 al. d) e 28/nº1 al. d) da Lei 67/98 de 26 de Outubro, DELIBERA-SE :
+a) Autorizar a realização do Protocolo junto a fls. 1 a 9, entre as Partes IRN I.P., ISS I.P.
+e POLÍCIA MUNICIPAL DE MAFRA, nos moldes acima referidos, devendo observar-se os aspectos salientados e atinentes ao responsável, dados a tratar, medidas de segurança e tempo de conservação dos dados;
+b)A Polícia Municipal de Mafra só poderá tratar os dados recebidos do IRN I.P. em referência, caso tenha o tratamento legalizado junto desta CNPD - arts° 3° als. a), b) e d), 9°, 27°/n°1 e 28/n°1 da Lei 67/98 de 26 de Outubro.
+Lisboa de Yaui rode 2011
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Carlos Campos Lobo (Relator), Ana Roque, Helena Delgado António, Luís Barroso,
+Luís Paiva de Andrade, Vasco de Almeida,
+Deus Silver
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

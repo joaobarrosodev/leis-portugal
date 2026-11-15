@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASCENDI PINHAL INTERIOR, ESTRADAS DO PINHAL INTERIOR, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,106 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T00:39:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3579/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53919](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53919).
+Processo n. °2904/13
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 3S 79 12013 1 - Pedido
+A Ascendi Pinhal Interior, Estradas do Pinhal Interior, Estradas do Pinhal Interior,
+S.A. veio notificar junto Comissão Nacional de Protecção de Dados (CNPD) um tratamento de videovigilância ao longo dos lanços das seguintes vias: IC8 (Proença a Nova/ Perdigão, Pombal/Ansião, Pedrogão/Sertã, Carriço/Pombal,
+Sertã/Proença-a-Nova) e A13.
+A entidade declara que não existe comissão de trabalhadores.
+Há visualização de imagens em tempo real.
+Há transmissão de imagens para o exterior.
+O sistema de videovigilância eletrónico rodoviário tem como finalidade a proteção de pessoas e bens
+Pretende-se a colocação de 57 câmaras ao longo da subconcessão.
+De acordo com as informações prestadas pela entidade requerente, os dados recolhidos são as imagens.
+Há comunicação de dados às forças de segurança e às autoridades judiciárias à
+Direcção-Geral de Viação, às entidades com competência legal para prestar assistência em caso de emergência e de socorro e às Estradas de Portugal.
+A interconexão de dados só se pode realizar nos termos do art.° 17.° da Lei 51/2006 de 29 de Agosto, ou seja, as concessionárias ficam autorizadas, para as finalidades previstas no artigo 2°, a proceder à interconexão dos dados pessoais constantes dos seus próprios sistemas de vigilância eletrónica rodoviária com os registados nos respetivos sistemas de informação de acidentes e incidentes.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+D
+Processo n. 2904/13 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Refere o responsável que as imagens são conservadas pelo período de 180 dias, sem prejuízo da sua conservação por um período de tempo mais alargado, nos termos da legislação contraordenacional aplicável e processual penal.
+II - Análise
+A instalação e utilização de sistemas de vigilância eletrónica rodoviária e a criação e utilização de sistemas de informação de acidentes e incidentes estão sujeitas a notificação à CNPD (cf. artigo 12.° da Lei n.º 51/2006, de 29 de Agosto).
+À CNPD cabe fiscalizar o cumprimento das disposições da Lei n.° 51/2006 (cf.
+artigo 22.° da citada Lei).
+Tendo em conta a competência atribuída a esta Comissão, importa verificar se a «Ascendi Pinhal Interior, Estradas do Pinhal Interior, S.A.» cumpre as disposições legais previstas na Lei n.º 51/2006 e na Lei n.° 67/98, de 26 de outubro (LPD) (1).
+Pretende a entidade requerente instalar e utilizar um sistema de vigilância eletrónico rodoviário, que em como finalidade a proteção de pessoas e bens.
+Tendo em conta a finalidade declarada pela requerente verifica-se que a mesma se enquadra na previsão do n.º 2 do artigo 2.° da Lei n.° 51/2006, de 29 de Agosto.
+Cabe apenas referir que, de acordo com o princípio da finalidade, as imagens (os dados tratados no caso em apreço (2)) não podem ser utilizadas para finalidade diferente da recolha (vd. alínea b) do artigo 5.° da Lei n.º 67/98, de 26 de Outubro).
+Quanto à comunicação de dados, importa referir que o n.º 1 do artigo 16.° da Lei n.º 51/2006, prevê que "os dados pessoais obtidos através dos sistemas de () De acordo com o n.° 1 do artigo 3.° da Lei n.° 51/2006.
+(7) Cf. alínea a) do artigo 5.° da Lei n.° 51/2006, de 29 de Agosto.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS vigilância electrónica rodoviária (...) devem ser comunicados, sempre que solicitado (*), às seguintes entidades:
+a) Forças de segurança, nos termos e para os efeitos da legislação em vigor;
+b) Autoridades judiciárias, para efeitos de instauração ou condução dos processos a seu cargo;
+c) Direcção-Geral de Viação, para efeitos das competências previstas no Código da Estrada e legislação complementar;
+d) Entidades com competência legal para prestar assistência em caso de emergência e socorro.
+O supramencionado artigo dispõe, nos n.°s 2 e 3, que a EP tem acesso aos dados obtidos pelos sistemas de vigilância eletrónica rodoviária operados pelas concessionárias e que, para efeitos de mera informação pública, esses dados podem ser cedidos a operadores de televisão e a operadores de comunicações, bem como a divulgação, por qualquer meio, diretamente pela EP ou pelas concessionárias, de imagens de monitorização do tráfego desde que tal transmissão e divulgação sejam efetuadas em condições que não afetem o direito à imagem e a intimidade da vida privada das pessoas.
+É obrigatória a afixação de informação clara e percetível indicativa da utilização dos referidos sistemas, nas zonas objeto de vigilância com recurso a sistemas de vigilância, conforme o disposto no artigo 18.° da Lei n.º 51/2006, de 29 de Agosto.
+III - Conclusão
+Face ao que antecede, a CNPD decide autorizar o tratamento requerido e, por consequência, a respetiva recolha de dados pessoais. Devem, ainda, ser observadas as seguintes condições:
+A. Responsável pelo tratamento - Ascendi Pinhal Interior, Estradas do Pinhal
+Interior, Estradas do Pinhal Interior, S.A.
+B. Finalidade - Proteção de pessoas e bens.
+Processo n.92904/13 3 K (*) Sublinhado e negrito nosso.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.°2904/13
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detetada a prática de infração penal, a entidade responsável pelo tratamento deve - com a respetiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Direito de informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de imagem (artigo 18.° da Lei n.° 51/2006, de 29 de Agosto).
+E. Forma de exercício do direito de acesso - Por solicitação presencial ao responsável no seguinte endereço: Edifício Ariane, Rua Antero de Quental, 381, 3°, 4455-566 Perafita.
+F. Entidades a quem podem ser transmitidos: Forças de Segurança, Autoridades judiciárias, Direcção-Geral de Viação, entidades com competência legal para prestar assistência em caso de emergência e de socorro e EP.
+Para efeitos de mera informação pública, as imagens de monitorização do tráfego podem ser cedidas a operadores de televisão e a operadores de comunicações, desde que tal transmissão e divulgação sejam efetuadas em condições que não afetem o direito à imagem e a intimidade da vida privada das pessoas.
+G. Transferências de dados para países terceiros - Não há.
+H. Interconexão de dados - Nos termos do artigo 17.° da Lei 51/2006, a EP e as concessionárias ficam autorizadas para as finalidades previstas no artigo 2.°, a proceder à interconexão dos dados pessoais constantes dos seus próprios sistemas de vigilância eletrónica rodoviária com os registados nos respetivos sistemas de informação de acidentes e incidentes.
+1. Prazos de conservação - Os dados recolhidos são conservados pelo período máximo de 180 dias contados da data da respetiva recolha ou captação (artigo 7.° da Lei n.° 51/2006, de 29 de Agosto).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adotar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+D
+Processo n. 2904/13 5
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O responsável deve adotar as medidas de segurança previstas nos artigos 14° e 15° da LPD. Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre atualizadas a data e hora das gravações.
+Lisboa, 3o aSil de 2013
+Ana Roque, Carlos Lobo (Relator), Helena Delgado António, Vasco Almeida, Luís
+Barroso, Luís Paiva de Andrade,
+Filipa Calvão (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

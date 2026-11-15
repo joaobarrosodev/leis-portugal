@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSPECÇÃO - GERAL DE JOGOS - (CASINO DA PRAIA DA ROCHA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,101 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:21:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1096/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2280](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2280).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 239/04
+AUTORIZAÇÃO N.º1096 1096/2007 1- Pedido 1.
+A Inspecção-Geral de Jogos veio notificar junto da Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de videovigilância em funcionamento no Casino da Praia da Rocha.
+Segundo a entidade requerente, o sistema é composto por 48 câmaras fixas e móveis, as quais procedem à captação e gravação de imagem e tem como finalidade a fiscalização das salas de jogos.
+3.
+Segundo informações da entidade requerente, não existe Comissão de
+Trabalhadores.
+II - Análise 4.
+Através da Deliberação n.º 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n°. 1, alínea c), da Lei n.º 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.° e 8.°, n.° 2, da citada Lei), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações, no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas e de bens, onde pode haver furtos Assim, a () Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http:/www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS instalação das câmaras funciona como um factor de dissuasão, aumentando a segurança das instalações e, consequentemente, das pessoas e bens.
+5. Relativamente ao princípio da proporcionalidade, justifica-se a utilização de sistemas de videovigilância neste sector de actividade, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável.
+No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+6. Verifica-se, embora não especificado na notificação remetida a esta CNPD (*), que a utilização do sistema se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, alínea c), da Lei n.° 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o reconhecimento das pessoas e com protecção dos seus direitos fundamentais (), bem como registar e documentar a eventual prática de infracções. O tratamento de som ou imagem e a finalidade delineada, não tem que
+'situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+() A finalidade declarada foi a "fiscalização das salas de jogos".
+() O artigo 8.°, n.º 2, obriga, como condições a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento. 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores (cf. artigo 20.° do Código do Trabalho).
+No que concerne à câmara n.º 17 (ou C17), a qual, segundo informações da entidade requerente fornecidas no ofício datado de 6 de Outubro de 2005, abrange itoda a sala de jogos tradicionais, incluído a área do restaurante de apoio à referida sala", a CNPD considera que a instalação dessa câmara é desproporcionada e excessiva a recolha neste local, por permitir uma intolerável intromissão na reserva da vida privada dos clientes que frequentam aquele espaço.
+8.
+Relativamente à câmara n.º 6 (ou C6), abrangendo toda a sala de máquinas, incluindo a área do bar, esta Comissão considera a instalação desse câmara igualmente desproporcionada e excessiva, pelas mesmas razões que a câmara 17.
+9.
+Em sede de audiência prévia, a entidade requerente sustentou que as salas de jogos dos casinos são locais onde se pratica o jogo e os seus frequentadores estão visados da existência de circuito interno de CCTV. E os bares nelas existentes destinam-se apenas a apoiar os jogadores que os utilizam enquanto decorrem as apostas. Referiu, ainda, que de acordo com o disposto no artigo 52º do
+Decreto-Lei n.º 422/89, de 2 de Dezembro, na redacção dada pelo Decreto-Lei n.º 28/2004, de 16 de Julho, "as gravações de imagem ou som feitas através do equipamento de vigilância e controlo previsto neste artigo destinam-se exclusivamente à fiscalização das salas de jogos, seus acessos e instalações de apoio".
+10. Importa mencionar que o citado artigo 52.° do Decreto-Lei n.º 422/89, de 2 de
+Dezembro, foi julgado organicamente inconstitucional pelo Tribunal
+Constitucional (*), em virtude da violação do artigo 168.°, n.º 1, alínea b) da
+Constituição da República Portuguesa. Este artigo 52.° tornava obrigatória a (*) No Acórdão n.º 207/2003, de 28 de Abril, no âmbito do processo n.º 52/2003 (3.ª Secção).
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS existência de equipamentos electrónicos de vigilância e controlo das salas de jogo, como medida de protecção e segurança de pessoas e bens. Por sua vez, a Lei n.º 28/2004, veio introduzir pequenas modificações no artigo 52., reiterando a imposição de obediência à Lei da Protecção de Dados Pessoais.
+11. No caso em apreço, esta Comissão continua a entender, por força da alínea c), n.º 1, artigo 5.°, da Lei n.º 67/98, de 26 de Outubro, que a recolha de imagens pelas câmaras n.° 6 e 17, abrangendo o restaurante e o bar, é desproporcional e excessiva face à finalidade declarada, uma vez que permitirá uma intromissão na reserva da vida privada dos clientes que frequentam aqueles espaços. Diga-se, aliás, que ao contrário do entendimento da entidade requerente, o restaurante e o bar (e bem assim as instalações sanitárias, a copa, o palco, etc.)
+não pode ser considerado como instalação de apoio. Em nosso entender, as instalações de apoio serão os locais que apoiam as salas de jogos, como sejam a sala onde se encontra o cofre, a zona da caixa privativa e caixa compradora e vendedora e nunca o restaurante e o bar.
+12. Ressalva-se que, tendo em conta que a câmara n.º 6 abrange também parte da sala de máquinas e a câmara n.º 17 apanha a sala de jogos tradicionais, esta Comissão autorização a recolha de imagens por aquelas câmaras se as mesmas não visionarem o bar e o restaurante, captando apenas as aludidas salas de jogos.
+III - Conclusões
+Face ao que antecede, considera-se, por isso, legítimo o tratamento -autorizando-se a recolha de dados (artigos 7.°, n.° 2, e 28.°, n.º 1, alínea a), da Lei n.º 67/98) - devendo ser observadas, ainda, as seguintes condições:
+A. Responsável pelo tratamento - Inspecção-Geral de Jogos.
+B. Finalidade - Protecção de pessoas e bens.
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei n.º 67/98.
+E. Recolha de imagens - A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores (cf. artigo 20.° do Código do Trabalho).
+F. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem. Salienta-se que o aviso que nos foi remetido faz referência ao Decreto-Lei n.º 231/98, de 22 de
+Julho, diploma que foi revogado pelo Decreto-Lei n.º 35/2004, de 21 de
+Fevereiro, devendo, por isso, ser este último diploma o referido no aviso informativo.
+G. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável, ao exercício do direito de acesso, o disposto no artigo 11., n.º 2, da Lei n.º 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+H. Prazos de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA --- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt s
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+I. Não é autorizada a instalação das câmaras n.°s 6 e 17 (C6 eC17), pois essa captação mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento.
+Ressalva-se que, tendo em conta que as câmaras 6 e 17 abrangem também parte da sala de máquinas e da sala de jogos tradicionais, esta Comissão autoriza a recolha de imagens por aquelas câmaras se as mesmas não visionarem as pessoas que estão no bar e no restaurante, captando apenas as aludidas salas de jogos.
+Lisboa, 25 de Junho 2007
+Ana Roque
+Carlos Campos Lobo
+анно
+Eduardo Campos, que relatou
+Helena Delgado António mida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento. 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.p1 6

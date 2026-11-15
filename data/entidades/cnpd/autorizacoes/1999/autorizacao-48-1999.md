@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 48/1999
-official_date: null
+official_date: '1999-10-12'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Lucent Technologies Internacinal inc. (sucrusal)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:10:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 48/1999
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10450](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10450).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 385/99
+AUTORIZAÇÃO N. 48/99
+A LUCENT TECHNOLOGIES - INC. SUCURSAL vem proceder à notificação dos seus tratamentos solicitar autorização para o fluxo de dados pessoais para a
+Lucent Technologies, Corporation - com sede nos Estados Unidos da América.
+1. Os dados tratados são o nome, a morada, a função, o n.º de empregado, o telefone e o salário.
+Os dados enviados para os EUA são o nome, o n. de empregado e o salário.
+A Lucent Tecnologies refere que os titulares dos dados são informados e autorizam expressamente o fluxo para os EUA. Os dados são transmitidos e tratados com total confidencialidade.
+E assegurado, nos termos legais, o direito de informação, acesso e correcção. Há acesso restrito à informação por parte de terceiros, em função da posição hierárquica na empresa e no âmbito do departamento de recursos humanos.
+Os dados são guardados enquanto o trabalhador for funcionário da empresa.
+2. Como é reconhecido a nível da União Europeia, os EUA não têm ainda um nível adequado de protecção de dados, nos termos do artigo 19.º da Lei 67/98 de 26 de
+Outubro».
+O fluxo transfronteiras enquadra-se no âmbito do corpo do art. 20.º n.º 1 da Lei n.° 67/98.
+Nestes termos, a CNPD autoriza - ao abrigo do artigo 20.° n.º 1 da Lei 67/98 de 26/10 - a transferência de dados desde que sejam cumpridas as seguintes condições:
+1.ª Deve ser garantido o respeito pela finalidade especificada, não podendo os dados ser utilizados para finalidade incompatível nem transmitidos a terceiros fora do âmbito declarado à Comissão;
+2. A entidade responsável deve garantir o respeito pelos direitos dos titulares dos dados tal como definidos pela lei portuguesa;
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 3.ª Deve ser guardado o suporte comprovativo da autorização expressa dos empregados, em relação ao fluxo de dados para os EUA;
+4.ª A entidade responsável deve garantir, junto da CNPD, que as condições constantes dos números anteriores são cumpridas pelo responsável para onde os dados são transferidos, sob pena de ser responsabilizado pelo incumprimento, designadamente através da revogação da autorização concedida, sem prejuízo do regime sancionatório que ao caso couber.
+Lisboa, 12 de Outubro de 1999
+Catarina Teresa Rola Sarmento e Castro
+Paula Margarida Cabral dos Santos Veiga
+Luís José Durão Barroso
+João Paulo Leal Dias Simões de Almeida
+Mário Manuel Varges Gomes
+João Alfredo Massano Labescat da Silva (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt

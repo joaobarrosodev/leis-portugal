@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO SECRETÁRIO DE ESTADO DAS PESCAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:25:49Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 24/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5934](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5934).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 1537/2003
+PARECER N°24/04
+Sua Excelência o Secretário de Estado do Desenvolvimento Rural vem, na sequência dos Pareceres n.º33/03 e 18/04 da Comissão Nacional de Protecção de Dados, submeter à apreciação da CNPD a nova versão do projecto de diploma relativo ao regime de infracções no sector vitivinícola.
+Assim, verifica-se que o projecto de decreto-lei acolhe, na generalidade, as posições sustentadas por esta Comissão no Parecer 18/04 e no que o antecedeu.
+Efectivamente, o novo diploma veio clarificar com rigor qual a finalidade do tratamento, ou seja, pretende-se instituir um sistema de informação centralizado, sobre pessoas a quem podem ser aplicadas coimas e sanções acessórias. Este tratamento integra três ficheiros: ficheiro de pessoa singular e colectiva, ficheiro de processos de contra-ordenação e ficheiro de registo individual do arguido.
+Verifica-se igualmente que foi acatada a recomendação quanto ao direito de acesso, por intermédio da Comissão, aos dados pessoais relativos à prevenção e investigação criminal, bem como a necessidade de que os dados relativos às decisões emanadas do
+IVV, IVDP e IVM sejam exactos.
+Relativamente ao prazo de conservação dos dados, de acordo com a recomendação da
+CNPD, foi eliminada a parte da norma que previa a possibilidade de alargamento do prazo de 5 anos por questões meramente técnicas que, tal como fundamentado no supra citado Parecer 18/04, poderão ser facilmente resolvidas.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+O diploma introduz uma norma que, de forma expressa, dispensa a obrigação de informação por razões de prevenção e investigação criminal.
+Os dados pessoais tratados são pertinentes, adequados e não excessivos face à finalidade, que é explícita e legítima.
+Em face do exposto, a CNPD emite parecer favorável ao projecto de diploma em análise.
+Lisboa, 1 de Juretude 2004
+Luís Barroso
+Amadeu Guerra
+Alexandre Pinheiro
+Eduardo Campos
+Ana Luísa Gerarldes
+Vilre
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

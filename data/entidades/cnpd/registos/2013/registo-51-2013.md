@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 51/2013
-official_date: null
+official_date: '2013-04-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TAKEDA - FARMACÊUTICOS PORTUGAL, UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 51/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53012](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53012).
+Proc. 7817/2010 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n.º 51 /2013
+A Takeda - Farmacêuticos Portugal, Unipessoal, Lda notificou um tratamento de dados pessoais com a finalidade de gestão da visita médica e marketing.
+Os dados são recolhidos indiretamente, através da CEGEDIM e diretamente pelos delegados de informação médica aquando das visitas.
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Quanto aos dados recolhidos, são, na generalidade, pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98, de 26 de outubro - LPD). Contudo, não se admite o registo de informações relacionadas com os níveis de prescrição do médico ou perfil profissional, salvo se esses dados forem expressamente declarados pelo profissional de saúde, situação da qual a responsável terá de comprovar.
+A CNPD já pronunciou sobre a questão, tendo concluído que estes dados apenas podem ser registados se obtidos objetivamente, por declaração do titular, não se aceitando o recurso a "cálculo médio do n° de doentes" ou "indicadores de clientela" ou a qualquer outro elemento na dependência do critério subjetivo do DIM.
+Alerta-se ainda que não é admitida a existência de um campo de "observações" com texto livre, ou outro de idêntica natureza, para anotar aspetos relativos à vida privada, familiar ou profissional do médico ou para introduzir informação suscetível de intromissão na vida privada ou discriminação (cf. artigo 2.° da LPD). O registo destes dados, para além de não estar abrangido neste instrumento de legalização, só poderá ser admitido, sempre com garantias de não discriminação, se for obtida autorização expressa do profissional de saúde e desde que a informação registada seja adequada, não excessiva e pertinente à finalidade.
+Foi declarada a subcontratação Takeda Pharmaceuticals Europe, Ltd, no Reino Unido para o processamento da informação e armazenamento dos dados, com quem deverá a responsável estabelecer o contrato previsto no artigo 14.° da LPD.
+Com estes limites, regista-se, cf. artigos 27° n.º 1 e 30° n.º 1 ambos da LPD, o tratamento, nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 7817/2010 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável - Takeda - Farmacêuticos Portugal, Unipessoal, Lda
+Categoria de dados pessoais tratados - Nome, sexo, especialidade, data de nascimento, ano da formatura, faculdade, n.º da Ordem, telemóvel, e-mail, webpage, código da Cegedim, horário de visitas, n.º de empregados, NIPC, n.º de camas, dados e relatório da visita,
+Finalidade - gestão da visita médica e marketing
+Forma de exercício do direito de acesso e retificação - Por solicitação escrita ao responsável.
+Interconexões - Não há;
+Comunicação de dados - Não há.
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação da informação - 2 anos após o último contacto
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, da Lei n.° 67/98, de 26 de Outubro (LPD).
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, designadamente as previstas no artigo 14° da LPD.
+Lisboa, 5 de abril de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

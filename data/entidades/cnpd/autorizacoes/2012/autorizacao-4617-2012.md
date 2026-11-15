@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4617/2012
-official_date: null
+official_date: '2012-05-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SANTANDER CONSUMER FINANCE, S.A. (SUCURSAL EM PORTUGAL)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:21:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4617/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44771](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44771).
+fe
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 4044/2012
+AUTORIZAÇÃO N. ° 46| 7/2012
+O Santander Consumer Portugal, SA notificou à CNPD um tratamento de dados relativo à operação de cessão de créditos oriundos da actividade de crédito, tendo por cessionária a Intercobranças
+- Gestão e Recuperação de Valores e Bens, Lda.
+A referida transacção poderá envolver uma transmissão de dados pessoais (nome, morada, telefone, valores do crédito em divida e das prestações periódicas) dos respectivos devedores
+As informações supra referidas são entregues à cessionária, em envelope fechado, suporte digital ou por outros meios similares disponíveis, comprometendo-se esta entidade a apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão a realizar. Assim, aquela entidade só terá acesso à informação constante do envelope selado em circunstâncias excepcionais indicadas no contrato de cessão de crédito.
+A cedência de dados é feita no âmbito de um contrato celebrado entre o Santander Consumer
+Portugal, SA e Ana Gabriela Faria Dias Figueiredo nos termos do artigo 577° do Código Civil. Por força do n.° 1 do referido artigo 577° a cessão de crédito é admissivel independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.º 1 do art. ° 582° do CC)
+Os dados objecto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no art. 78.° do DL 298/92, de 31 de Dezembro. Assim, enquadram-se no conceito de vida privada do n.º 1 do artigo 7° da Lei n.º 67/98, de 26 de Outubro.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo e a informação recolhida não é excessiva.
+O fundamento de legitimidade é a disposição legal prevista no n.º 2 do artigo 7° da
+LPD.
+Assim, o responsável deverá assegurar que o titular obteve as informações previstas no art.º 10° da lei 67/98, de 26 de Outubro, designadamente a informação que a cessionária é destinatária da informação e a finalidade da comunicação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Devem, de igual modo, ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização auditorias de internas e externas. De igual modo, devem ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direcção, a outros técnicos obrigados a segredo profissional.
+No que diz respeito aos dados contidos em suporte de papel, devem ser adoptadas medidas organizacionais, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos do n.º 1, alínea b), do artigo 23° e alínea b) do n.º1 do artigo 28°, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da Lei 67/98, o seguinte:
+1. Responsável: Santander Consumer Portugal, SA 2. Categorias de dados pessoais tratados: Nome, morada, telefone, valores do crédito em divida e das prestações periódicas 3. Finalidade: Cessão de créditos.
+4. Entidades a quem podem ser transmitidos Intercobranças - Gestão e Recuperação de Valores e Bens, Lda.
+5. Forma de exercício do direito de acesso e rectificação: Junto do responsável 6. Eventuais interconexões : Não aplicável.
+7. Transferências de dados para países terceiros : Não aplicável 8. Prazo de conservação dos dados: 1 ano após a extinção dos créditos
+Lisboa, 2 de maio de 2012
+Carlos Campos Lobo (Relator), Luís Barroso, Luís Paiva de Andrade, Ana Roque, Helena
+Delgado António, Vasco Almeida
+Filipa Calvão, Presidente
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h2 duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO DE GENÉTICA MÉDICA - JACINTO DE MAGALHÃES'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:21:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1062/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2326](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2326).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 1368/04
+AUTORIZAÇÃO N.° (06212007
+O Instituto de Genética Médica Jacinto de Magalhães notificou um tratamento de dados pessoais com a finalidade efectuar estudos científicos na área da saúde.
+O IGM, no âmbito da prestação de serviços de diagnósticos laboratorial molecular que efectua, possui material biológico excedentário e pretende constituir um banco de material biológico com a finalidade de desenvolver estudos de investigação científica.
+Os dados a recolher são: número de processo, nome, número de utente, género, morada, telefone, profissão, NIF, BI, centro de saúde, elementos clínicos com interesse para o diagnóstico/investigação, resultados do estudo laboratorial e material biológico.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+Para o processamento da informação com vista à criação e manutenção deste tratamento de dados será necessário obter o consentimento prévio e informar o titular.
+Esse consentimento terá de ser obtido pelo estabelecimento de saúde onde o titular dos dados é acompanhado.
+Só nestas condições a recolha de dados pessoais será licita para esta finalidade (art.° 5°, n.º1 al. a) e b) da Lei 67/98).
+Os documentos de consentimento devem ser remetidos ao IGM.
+Quanto aos dados tratados verifica-se a existência de informação claramente excessiva face à finalidade. É o caso do NIF e BI, pelo que não se autoriza o tratamento destes dados.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O fundamento de legitimidade terá de ser, pelos motivos constantes na referida
+Deliberação, o consentimento do titular dos dados.
+No que respeita aos estudos que venham a ser elaborados com base no banco de amostras existentes constituem tratamentos de dados autónomos, pelo que, nos termos do disposto no artigo 27° da LPD, têm de ser notificados de per si e obtido o respectivo consentimento do titular.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Instituto de Genética Médica Jacinto de
+Magalhães
+Finalidade: constituir um banco de material biológico com a finalidade de desenvolver estudos de investigação científica.
+Categoria de Dados pessoais tratados: número de processo, nome, número de utente, género, morada, telefone, profissão, centro de saúde, elementos clínicos com interesse para o diagnóstico/investigação, resultados do estudo laboratorial e material biológico.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do responsável.
+Porque há tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do titular o médico/investigador e no exercício do direito de rectificação deste tipo de dados, deverá o titular, de igual modo, exercê-lo directamente junto do médico/investigador, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.ph2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Dos termos e condições fixados na Deliberação n.º227/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 18 de Junha de 2007
+Ana Roque
+Carlos Campos Lobo
+Eduardo Campos
+Helena Delgado António
+Luís Barroso (Relator)
+reottlmeida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

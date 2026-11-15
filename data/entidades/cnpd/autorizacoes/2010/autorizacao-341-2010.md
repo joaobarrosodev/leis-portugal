@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CITIBANK INTERNACIONAL PLC - SUCURSAL EM PORTUGAL , S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:58:08Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 341/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21251](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21251).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PROCESSO N.° 8170/2009
+AUTORIZAÇÃO N.° 341/ 2010
+PEDIDO
+O Citibank International PLC - Sucursal em Portugal notificou à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade declarada de "Gestão de potenciais clientes para acções de telemarketingi.
+Pretende tratar os seguintes dados pessoais; Nome, Morada, Telefone móvel e Endereço de correio electrónico.
+APRECIAÇÃO
+Qualidade dos dados pessoais
+Os dados são adequados, pertinentes e não excessivos para a finalidade que é determinada, explicita e legitima (cf. artigo 5.° - n.° 1 - b) e c) da Lei 67/98, de 26 de Outubro).
+Condição de legitimidade
+A condição que legitima o tratamento é o consentimento dos titulares dos dados pessoais (cf. artigo 6.° corpo da Lei 67/98, de 26 de Outubro).
+Este consentimento tem que ser prévio e dado através da manifestação de uma vontade livre, específica e informada (cf. artigo 3.° - h) da Lei 67/98, de 26 de Outubro e artigo 22.° - n.° 1 da Lei 7/2004, de 7 de Janeiro).
+Subcontratação
+O tratamento dos dados pessoais será feito por conta do responsável pela
+Made to Work, Telecomunicações e Serviços Informáticos, Lda.
+O responsável pelo tratamento celebrou com esta entidade o contrato previsto pelo artigo 14.° - n.° 3 da Lei 67/98, de 26 de Outubro.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Direitos de informação e acesso
+O responsável pelo tratamento deve assegurar os direitos de informação e acesso (cf. artigos 10.° e 11.° da Lei 67/98, de 26 de Outubro).
+Segurança
+Independentemente das medidas de segurança tomadas, inclusive pelo subcontratado, é o responsável pelo tratamento que tem que assegurar a efectiva segurança da informação.
+Tudo ponderado, tendo em atenção o disposto nas disposições combinadas dos artigos 23° - 1 b) e 30 - n.º 1 da Lei n.° 67/98, de 26 de Outubro, autoriza-se o tratamento de dados pessoais notificado consignando-se o seguinte:
+1. Responsável do ficheiro: Citibank International PLC - Sucursal em Portugal.
+2. Dados pessoais tratados: Nome, Morada, Telefone móvel e Endereço de correio electrónico.
+3. Finalidade: Gestão de potenciais clientes para acções de telemarketing.
+4. Forma de exercício do direito de acesso e rectificação: Por comunicação ao responsável pelo tratamento.
+5.Interconexões: Não existem.
+6. Transferências de dados para países terceiros: Não há.
+7. Tempo de conservação: Um ano após a última utilização.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, |¿ de Quilo de : 2010
+Ana Roque, Carlos Campos Lobo, Luís Paiva de Andrade (Relator), Helena
+Delgado António, Luís Barroso, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)

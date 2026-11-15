@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARGEM DO TEJO - ACTIVIDADES HOTELEIRAS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:02:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 74/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9806](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9806).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 179/02
+AUTORIZAÇÃO N°74/02
+Margem do Tejo - Actividades Hoteleiras, Ld", devidamente identificada nos autos, notifica a esta CNPD o tratamento de videovigilância destinada à "identificação de eventuais assaltantes" nas suas instalações, composto por "uma máquina de filmar e um gravador vídeo", com abrangências das suas "duas caixas registadoras".
+O prazo de conservação dos dados registados é de 24 horas.
+Pese embora o prazo curto antes referido, impõe-se esclarecer o responsável pelo tratamento que deverá garantir os direitos de acesso e eliminação da informação, quando requerido pelo titular dos dados.
+Adverte-se ainda o mesmo responsável para a obrigatoriedade de cumprimento da afixação, em local bem visível, do aviso a que se refere o Art° 12° n° 3 do Dec. Lei 231/98, de 22/06, bem como que apenas poderá utilizar as imagens gravadas inos termos da lei penal" - Art° 12° n° 2 in fine - bem como tudo o mais objecto da Portaria n° 26/99, de 16/01.
+Face ao deixado exposto, mostrando-se de todo legítimo o tratamento em causa, de acordo com o disposto nos Art's 5° n° 2 daquele diploma legal citado, e cumprido que seja todo o antecedentemente referido, Delibera esta CNPD autorizar o tratamento ora notificado.
+***
+Para os efeitos do disposto no Art° 31° da Lei 67/98, registe-se :
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável - Margem do Tejo - Actividades Hoteleiras, Ldª ;
+Dados pessoais - Imagens identificativas das pessoas ;
+Finalidade - Segurança das instalações ;
+Direito de acesso - Assegurado a solicitação através de visualização ;
+Interconexões - Não há ;
+Transferência de dados para países 3°s - Não há.
+***
+Lx*, 2/04/02
+Mário Varges Gomes
+Arden c
+Amadeu Guerra
+Catarina Sarmento e Castro
+Als
+Alexandre Pinheiro
+-ro
+Luís Durão Barroso
+Cristina Baptista
+Luís Lingnau da Silveira
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

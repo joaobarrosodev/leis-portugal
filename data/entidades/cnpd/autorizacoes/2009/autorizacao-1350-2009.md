@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ABBOTT LABORATÓRIOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:16:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1350/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15408](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15408).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 1288/2009
+AUTORIZAÇÃO N. ° 1350/09
+A ABBOT Laboratórios, Ida a notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com medicamentos de uso humano para avaliar a sua eficácia em doentes com Colite Ulcerosa (Protocolo M10-223).
+Trata-se de um «estudo multicêntrico e aberto com o
+Anticorpo Monoclonal Anti-INF..» que tem como objectivo «.avaliar a resposta a longo termo, segurança e tolerabilidade do adalimumab com Colite Ulcerosa».
+Este estudo terá a participação de 800 doentes e terá a duração de 240 semanas.
+As entidades encarregues de executar o ensaio são as seguintes:
+O Hospital Pulido Valente, sendo a Investigadora-coordenadora a Drª Beatriz Costa Neves; Hospitais da
+Universidade de Coimbra, cujo Investigador Principal é o
+Dr. Francisco Portela; Hospital Professor Doutor Fernando
+Fonseca, sendo o Investigador Principal o Dr. João Ramos de
+Deus; o Centro Hospitalar de Lisboa (Zona central) do
+Hospital dos Capuchos, sendo o Investigador principal o Dr.
+Jaime Ramos e o Hospital de Faro que tendo a Dra Teresa
+Belo como Investigadora principal.
+D.
+110 50
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os dados recolhidos são os seguintes: n. específico do estudo, iniciais do doente, data de nascimento, raça, sinais vitais, exame físico, questionários sobre a doença e nome do investigador.
+Refira-se que o dado raça justifica-se porque «.permite comparar grupos de tratamento em relação à raça e etnia para testar quais as diferenças nestas populações de participantes. Permite também fazer análises em sub-grupos relativamente aos endpoints de eficácia e segurança. Assim, podem ser testadas as diferenças entre os grupos de tratamento dentro de cada sub-grupo de raça e etnia.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, al. a) da ei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.°67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Abbott Laboratórios, Ida
+Finalidade: gestão do ensaio clínico com medicamentos de uso humano para avaliar a sua eficácia em doentes com
+Colite Ulcerosa (Protocolo M10-223).
+Categoria de Dados Pessoais tratados: n.' específico do estudo, iniciais do doente, data de nascimento, raça, sinais vitais, exame físico, questionários sobre a doença e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, cinco anos após o ensaio. O Código do
+Investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.'333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, L> Março de 2008
+Luís Paiva de Andrade (Relator), Luís Barroso, Ana Roque,
+Carlos Campos Lobo, Helena Delgado António, Vasco Almeida.
+Luís Lingnau da Silveira (Presidente)

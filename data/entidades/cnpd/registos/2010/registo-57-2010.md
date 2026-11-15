@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NEXTART - CENTRO DE FORMAÇÃO ARTÍSTICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 57/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22315](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22315).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 3860/2009
+REGISTO N.° 5712010
+O Nextart - Centro de Formação Artística, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão administrativa das acções de formação e marketing.
+Os dados são recolhidos directamente por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, de acordo com as disposições conjugadas dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Nextart - Centro de Formação Artística, Lda
+Finalidade
+Categoria de dados pessoais tratados
+Comunicação de dados
+Forma de exercício do direito de acesso e rectificação
+Interconexões
+Gestão administrativa das acções de formação e marketing.
+Nome, curso/oficina, horário, preço, data de pagamento, morada, código postal, localidade, telemóvel, telefone, e-mail, NIF, BI/Passaporte, data e local de emissão, data de nascimento, profissão e assinatura.
+Não há.
+Junto do responsável pelo tratamento dos dados por escrito.
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Conservação dos dados 1 ano após o fim da formação.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+De acordo com o disposto no n° 4 do art. 22° do Decreto-Lei 4/2007 o destinatário deve ter acesso a meios que lhe permitam a qualquer momento recusar, sem ónus e independentemente de justa causa, o envio dessa publicidade para futuro, devendo cada comunicação, nos termos do n° 6 do mesmo artigo, indicar um endereço ou meio técnico electrónico, de fácil identificação e utilização, que permita ao destinatário do serviço recusar futuras comunicações.
+Deve ser garantido ao titular dos dados o direito de oposição a seu pedido e gratuitamente, face ao tratamento dos dados pessoais que lhe digam respeito previsto pelo responsável pelo tratamento para efeitos de marketing directo ou qualquer outra forma de prospecção, ou de ser informado, antes de os dados pessoais serem comunicados pela primeira vez a terceiros para fins de marketing directo ou utilizados por conta de terceiros, e de lhe ser expressamente facultado o direito de se opor, sem despesas, a tais comunicações ou utilizações.
+so direi por a
+Acresce que é proibido o envio de comunicações publicitárias por via electrónica às pessoas que manifestaram o desejo de não receber aquele tipo de comunicações, como dispõe o n° 8 do art. 22° do supra referido Decreto-Lei.
+Lisboa, 07/04/09
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

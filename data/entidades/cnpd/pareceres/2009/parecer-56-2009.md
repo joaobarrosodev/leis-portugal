@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO-GERAL DOS ASSUNTOS TÉCNICOS E ECONÓMICOS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,94 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:14:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 56/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18646](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18646).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n°7082/09
+PARECER N° 56
+/2009
+I.RELATÓRIO
+A Direcção Geral dos Assuntos Técnicos e Económicos do Ministério dos
+Negócios Estrangeiros, solicitou a emissão de parecer, relativamente ao texto de projecto de Acordo Bilateral para troca de informações em matéria fiscal, a celebrar entre Portugal e Jersey.
+Dentre as competências da CNPD, cabe a de emitir parecer sobre disposições legais relativas ao tratamento de dados pessoais, como se extrai dos normativos combinados dos arts° 22° e 23°/nº1 al.a) da Lei n° 67/98 de 26 de Outubro.
+Cabe ainda salientar que "in casu" o pedido formulado respeita à análise/ponderação dos normativos que encerram os art°s 5° e 8º do Texto em presença, os quais retratam a troca de informações fiscais e a confidencialidade.
+Refira-se ainda que o complexo em presença, pretende abranger não só as pessoas singulares como também as colectivas - cfr. arts° 4°/n° 1 al.e) e 5°/n°4 al.b) - , pelo que por força do plasmado no art° 3° da Lei 67/98 de 26 de Outubro (LPDP), toda a apreciação a elaborar neste momento e nesta sede, abrange apenas as pessoas singulares.
+ILAPRECIAÇÃO
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS a) Geral
+Num primeiro momento colhe reterir que, oportunamente e em sede própria teve esta CNPD oportunidade de emitir Parecer sobre Projectos de
+Acordos Bilaterais de conteúdo semelhante, seguindo este a mesma linha de argumentação.
+Compulsado o texto apresentado, surge manifesto que o preceitos a reclamarem ponderação directa em matéria de protecção de dados pessoais são os invocados art°s 5° e 8º.
+b) Particular 1 -Para melhor compreensão citam-se na integra o texto das citadas disposições.
+ARTIGO 5°
+TROCA DE INFORMAÇÕES A PEDIDO
+A autoridade competente da Parte requerida prestara informações, mediante pedido, para os fins visados no Artigo 1º. As referidas informações devem ser trocadas independentemente de o comportamento objecto de investigação constituir ou não uma infracção penal segundo o direito da Parte requerida, se tal comportamento ocorresse na
+Parte requerida.
+2.
+Se as informações na posse da autoridade competente da Parte requerida não forem suficientes de modo a permitir-lhe satisfazer o pedido de informações, a referida Parte tomará todas as medidas adequadas para a recolha de informações necessárias a fim de prestar à Parte requerente as informações solicitadas, mesmo que a Parte requerida não necessite dessas informações para os seus próprios fins fiscais.
+3.
+Mediante pedido específico da autoridade competente de uma Parte requerente, a autoridade competente da Parte requerida prestar as informações visadas no presente
+Artigo, na medida em que o seu direito interno o permita, sob a forma de depoimentos de testemunhas e de copies autenticadas de documentos originais.
+4.
+Cada Parte Contratante providenciara no sentido de que as respectivas autoridades competentes, para os fins visados no Artigo 1°, tenham o direito de obter e de fornecer, a pedido:
+a) as informações detidas por um Banco, por outra instituição financeira, representante legal ou por qualquer pessoa que aja na qualidade de mandatário ou de fiduciário, incluindo nominees e trustees;
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS b) as informações relativas à propriedade de sociedades, sociedades de pessoas, trusts, fundações e outras pessoas, incluindo, dentro dos limites do Artigo 2°, informações relativas àtitularidade dessas pessoas numa cadeia de títulos de propriedade; no caso de trusts, informações relativas a settlors, a trustees e a beneficiários; e, no caso de fundações, informações relativas a fundadores, membros do conselho da fundação e beneficiários. Todavia, o presente Acordo não impõe às Partes Contratantes a obrigatoriedade de obterem ou de facultarem informações em matéria de titularidade no que respeita a sociedades cotadas ou a fundos ou planos de investimento público colectivo, salvo se as referidas informações poderem ser obtidas sem gerarem dificuldades desproporcionadas.
+A autoridade competente da Parte requerente prestará as informações seguintes autoridade competente da Parte requerida, sempre que apresente um pedido de informações ao abrigo da Acordo, em que demonstre a previsível relevância das informações solicitadas:
+a) a identidade da pessoa objecto de controlo ou de investigação;
+b) a indicação das informações pretendidas, designadamente a natureza das mesmas e a forma como a Parte requerente deseja receber as informações da Parte requerida;
+c) a finalidade fiscal com que as informações são solicitadas;
+d) as razões que levam a supor que as informações solicitadas são detidas na Parte requerida ou estão na posse ou sob o controlo de uma pessoa sujeita a jurisdição da
+Parte requerida;
+e) na medida em que sejam conhecidos, o nome e morada de qualquer pessoa em relação a qual haja a convicção de estar na posse das informações solicitadas;
+Uma declaração precisando que o pedido está em conformidade com as disposições legislativas e com as praticas administrativas da Parte requerente, que, se as informações solicitadas relevassem da competência da Parte requerente, a autoridade competente dessa Parte poderia obter as informações ao abrigo da sua legislação ou no quadro normal da sua prática administrativa e que o pedido está em conformidade com o presente Acordo;
+g) uma declaração precisando que a Parte requerente utilizou para a obtenção das informações todos os meios disponíveis no seu próprio território, salvo aqueles susceptíveis de suscitar dificuldades desproporcionadas.
+A autoridade competente da Parte requerida comunicará tão diligentemente quanto possível à Parte requerente as informações solicitadas. A fim de assegurar uma resposta expedita, a autoridade competente da Parte requerida deverá:
+a) acusar, por escrito, a recepção do pedido a autoridade competente da Parte requerente a notificar a autoridade competente da Parte requerente de quaisquer eventuais lacunas no pedido, no prazo de 60 dias a contar da recepção do pedi-do;
+b) se a autoridade competente da Parte requerida não tiver conseguido obter e for-necer as informações no prazo de 90 dias a contar da recepção do pedido, incluindo o caso de deparar com obstáculos para a prestação das informações ou se se recusar a prestar as informações, deverá informar imediatamente à Parte requerente, indicando as razões dessa incapacidade, a natureza dos obstáculos encontrados ou os motivos da recusa.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+ARTIGO 8°
+C'ONFIDENCIALIDADE
+Qualquer informação prestada e recebida pelas autoridades competentes das
+Partes Contratantes será considerada confidencial,
+Essas informações só poderão ser divulgadas às pessoas ou autoridades (incluindo tribunais e órgãos administrativos) interessadas para efeitos dos propósitos especificados no Artigo 1º, e só podem ser usadas essas por pessoas ou autoridades para os fins referidos, incluindo a decisão de um recurso, Para tais fins› essas informações poderão ser reveladas no decurso de audiências públicas de tribunais ou de sentença judicial.
+Essas informações não podem ser usadas para outros fins que não sejam os fins previstos no Artigo 1°, sem o expresso consentimento por escrito da autoridade competente da Parte requerida.
+4.
+As informações prestadas a uma Parte requerente ao abrigo do presente Acordo não podem ser divulgadas a qualquer outra jurisdição.
+A transmissão de dados pessoais pode ser efectuada na medida necessária à execução das disposições do presente Acordo e com ressalva da legislação da Parte requerida.
+б.
+As Partes Contratantes asseguram a protecção dos dados pessoais a um nível equivalente ao da Directiva 95/46/CE do Parlamento Europeu e do Conselho de 24 de
+Outubro de 1995.
+2-Surge desde logo claro que os dispositivos em questão consagram uma transferência de dados pessoais para a finalidade apontada no Acordo.
+Jersey, por força de Decisão de 8 de Maio de 2008 da Comissão Europeia, assegura um nível de protecção de dados pessoais transferidos a partir da
+União Europeia.
+Ali pode ler-se que "o Bailiado de Jersey assegura um nível de protecção de dados pessoais transferidos a partir da Comunidade".
+Assim sendo, esta transferência deve obedecer aos mecanismos que integram os arts°19° e 20° da Lei n° 67/98, de 26 de Outubro (que transpôs para a ordem interna a Directiva 95/46/CE, do Parlamento Europeu e do
+Conselho, de 24 de Outubro de 1995) e, bem assim, aos preceitos da
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Convenção 108 do Conselho da Europa (artº12°) e do seu Protocolo
+Adicional (artº2°) - ambos instrumentos internacionais que, enquanto convenções devidamente ratificadas, constituem direito vigente em
+Portugal.
+Nesta medida, deve fazer-se menção, não apenas às legislações nacionais/internas mas também a todos os instrumentos internacionais aplicáveis, no que concerne à transferência de dados pessoais.
+3-Outro aspecto a notar, de pertinência significativa nesta matéria, prende-se com as garantias de que a transferência para países terceiros é feita, com a segurança de que estes oferecem um nível de protecção adequado.
+Essa adequação deve ser aferida em função de todas as circunstâncias que rodeiam tal operação - nomeadamente a natureza/tipo dos dados, a finalidade, tempo de conservação dos dados, a possibilidade de acesso pelos titulares e consequente direito de correcção e/ou eliminação, os países de origem e de destino final, as regras de direito em vigor no país da recepção e as regras profissionais e medidas de segurança respeitadas nesse Estado.
+Tem-se entendido e exigido, como elementos essenciais do regime legal de protecção de dados, a existência de legislação específica e de entidade independente incumbida de garantir a aplicação de tais normas.
+Como se disse acima, este aspecto mostra-se devidamente acautelado, por força do reconhecimento já declarado pela Comissão Europeia.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+III.CONCLUSÕES 1-A matéria em análise, por conter dispositivos legais susceptíveis de interferir com dados da natureza pessoal e sensível, permite que esta CNPD emita parecer;
+2-No texto de Acordo, mormente no seu artº5° a propósito de transferência de dados deve fazer-se referência, não apenas à legislação interna de cada uma das Partes envolvidas, mas também aos instrumentos internacionais que as vinculem nesta matéria.
+É este o Parecer da CNPD.
+Lisboa, de of Setento de 2000 dando de competes reitos ?.

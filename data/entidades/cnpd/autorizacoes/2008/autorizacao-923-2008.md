@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MUNICIPIO DE MOGADOURO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,84 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:35:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 923/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3771](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3771).
+COMISSÃO NACIONAL
+DE PROTEÇÇÃO DE DADOS
+Processo n.° 2232/2007
+AUTORIZAÇÃO N.°923/2008
+I - Pedido 1. O Município de Mogadouro notificou a Comissão Nacional de Protecção de
+Dados (CNPD) da recolha de imagens no Estádio Municipal, com vista à e protecção de pessoas e bens, bem como à prevenção da prática de crimes.
+2. Segundo informações fornecidas, a entidade requerente pretende instalar sete câmaras fixas, as quais procedem à gravação de imagens e sons, nos seguintes locais: bancadas e acessos, acesso interiores e acessos exteriores e a entrada de viaturas.
+3. Não existe Comissão de Trabalhadores.
+II - Análise 4. Através da Lei n.º° 16/2004, de 11 de Maio, foram aprovadas medidas preventivas e punitivas a adoptar em caso de manifestações de violência associadas ao desporto, visando garantir a existência de condições de segurança nos recintos desportivos e durante os espectáculos desportivos para praticantes e espectadores.
+5. O artigo 6.°, n.º 1, do aludido diploma refere que [o] promotor do espectáculo desportivo (') no qual se realizem competições profissionais (') Segundo a alínea i) do artigo 3.° da Lei n.º 16/2004, entende-se por promotor do espectáculo desportivo ias associações, clubes, sociedade desportivas ou outras entidades como tal designadas pela respectiva federação, liga ou entidade análoga quando existam, bem como as próprias
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS ou não profissionais consideradas de risco elevado, sejam nacionais ou internacionais, deve instalar um sistema de videovigilância que permita o controlo visual de todo o recinto, dotado de câmaras fixas ou móveis com gravação de imagem e som, as quais, no respeito pelos direitos e interesses constitucionalmente protegidos, devem possibilitar a protecção de pessoas e bens" (sublinhado nosso).
+6. O n.º 2 do referido artigo 6.º dispõe, por sua vez, que [a] gravação de imagem e som, quando da ocorrência de um espectáculo desportivo, é obrigatória, desde a abertura até ao encerramento do recinto desportivo, devendo os respectivos registos ser conservados durante 90 dias, prazo findo o qual serão destruídos em caso de não utilização nos termos da legislação penal e processual penal aplicável" (sublinhado nosso).
+7. O artigo 19.° da Lei n.° 16/2004 estabelece que o promotor do espectáculo desportivo deve designar, para todas as competições profissionais ou não profissionais consideradas de risco elevado, um coordenador de segurança que, em cooperação com as forças de segurança, deve zelar pelo normal decurso do espectáculo desportivo.
+8. Os aspectos relativos à prevenção da criminalidade devem também ser equacionados em termos dos sistemas de segurança. Por isso, o tratamento de dados deve também ser visto à luz do disposto na Lei n.° 67/98, de 26 de Outubro.
+9. Ora, na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos federações, ligas ou entidades análogas ou ainda outras entidades, públicas ou privadas, quando sejam simultaneamente organizadores de competições desportivas".
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.ph
+
+COMISSAO NACIONAL
+DE PROTEÇÇAO DE DADOS relativos à pertinência e ao princípio da proporcionalidade [alínea c), do n.º 1, do artigo 5.º da Lei n.º 67/98, de 26 de Outubro], condições de legitimidade (artigos 7.° e 8.° n.° 2 da mesma Lei), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+10. Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nos estádios, no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas. Acresce, por outro lado, que o próprio artigo 6.°, n.º 1, da Lei n.º 16/2004, obriga aos promotores do espectáculo desportivo a instalação de um sistema de videovigilância como um meio de protecção de pessoas e bens.
+11. Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância neste complexo desportivo, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+12. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação ao fim visado
+[alínea c), do n.º 1, do artigo 5.°, da Lei n.º 67/98].
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o reconhecimento das pessoas e com protecção dos seus direitos
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.ph
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS fundamentais (*), bem como registar e documentar a eventual pratica de infracções. O tratamento de som e/ou imagem e a finalidade delineada, não tem que situar-se, necessariamente, a montante de qualquer actividade delituosai ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+13.A CNPD entende, tendo em conta a finalidade declarada (protecção de pessoas e bens no Estádio Municipal) que a câmara n.° 7 só poderá captar a entrada de viaturas.
+III - Conclusões
+Em face do exposto, a CNPD autoriza a recolha de imagens e sons, consignando-se, nos termos do artigo 4.° n.º 4, 8.° n.º 2 e 3, 27.° n.º 1, 28.° n.° 1 alínea a) e 29.° da Lei n.º 67/98, de 26 de Outubro, o seguinte:
+A. Responsável: Município de Mogadouro.
+B. Categorias de dados pessoais tratados: Gravação de imagem e sons.
+C. Finalidade: Protecção de pessoas e bens. Prevenção da violência e excessos dos espectadores. Tomar medidas concretas, dentro e fora dos estádios, para prevenir ou dominar a violência e os seus excessos.
+D. Entidades a quem podem ser transmitidos: Não há transmissão de dados. Os dados só podem ser utilizados «nos termos da lei penal». As gravações só podem ser fornecidas às autoridades policiais. Não podem ser utilizadas para qualquer outra finalidade ou cedidas a outras entidades.
+(') O artigo 8.° n.º 2 obriga, como condições a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que esta a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.p*4
+
+COMISSAO NACIONAL
+DE PROTEÇÇAO DE DADOS
+E. Forma de exercício do direito de acesso e rectificação: O acesso terá que preservar a privacidade de terceiros e, nos casos de suspeita de actividades ilícitas, o acesso será feito nos termos do artigo 11.° n.º 2 da
+Lei n. ° 67/98.
+F. Direito de Informação - Deverá ser afixado, em local bem visivel, um aviso que informa as pessoas sobre a captação e gravação de som e imagem.
+G. Eventuais interconexões: Não há.
+H. Transferências de dados para países terceiros: Não há.
+I. Prazo de conservação: Os dados recolhidos são conservados pelo prazo de 30 dias. No entanto, quando haja espectáculo desportivo são conservados durante 90 dias.
+J. Tendo em conta a finalidade declarada (protecção de pessoas e bens no Estádio Municipal), a câmara n.° 7 só poderá captar a entrada de
+Viaturas.
+Lisboa, 25 MaRCO 2008
+Eduardo Campos
+Helena Delgado António (Relatora)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.P5
+
+COMISSÃO NACIONAL
+DE PROTEÇÇAO DE DADOS
+Luís Barroso
+Vasco Almeida
+Seus Sara
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pg

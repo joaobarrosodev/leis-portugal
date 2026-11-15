@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 48/2023
-official_date: null
+official_date: '2023-05-30'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Assembleia da República - Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,30 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:50:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 48/2023
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/122085](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/122085).
+PAR/202/51 1 1
+CNPD
+Comissão Nacional de Proteção de Dados
+PARECER/2023/48
+I. Pedido 1. O Presidente da Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias solicitou à
+Comissão Nacional de Proteção de Dados (CNPD) a emissão de parecer sobre o Projeto de Decreto-Lei n.° 780/XV/1.ª, que prevê a criminalização da ciberviolência.
+2. A CNPD emite parecer no âmbito das suas atribuições e competências enquanto autoridade administrativa independente com poderes de autoridade para o controlo dos tratamentos de dados pessoais, conferidos pela alínea c), do n.º 1 do artigo 44.° da Lei n.° 59/2019, de 8 de agosto.
+3. O Projeto de lei em análise foi enviado à CNPD em 24 de maio, com solicitação de que o correspetivo parecer seja emitido a tempo de ser analisado antes da data de discussão do Projeto de Lei, a qual ocorrerá a 1 de junho.
+4. A CNPD não pode deixar de salientar que a fixação de prazo para apreciação deve poder assegurar a efetiva consulta e respetiva pronúncia ponderada, que exige preparação e discussão quando, como é o caso, se trata de órgão consultivo colegial e que a determinação de um prazo tão curto pode prejudicar a emissão de tais pareceres.
+II. Análise 5. O Projeto de Lei em apreço, da iniciativa do Partido Livre, visa proceder a uma alteração ao Código Penal através do aditamento de um artigo (artigo 201.°-A) que consagra a tipificação do crime de ciberviolência, conduta que no preâmbulo se define como "qualquer forma de violência exercida em linha, como a perseguição, intimidação ou assédio moral".
+6. Do ponto de vista do tratamento de dados pessoais, verifica-se que, não obstante a necessidade de a repressão deste tipo de criminalidade exigir, até pela própria natureza da conduta proibida, que se proceda ao tratamento de tais dados, alguns pertencentes a categorias especiais de dados tanto do agente como da vítima.
+7. Porém, tal tratamento não convoca especiais questões relativas ao tratamento de dados pessoais que mereçam reserva, encontrando tal tratamento respaldo na legislação penal e processual penal vigentes.
+III. Conclusão 8. A análise do Projeto Lei em análise não suscita reservas na perspetiva da proteção de dados.
+Av. D. Carlos I, 134, 1° 1200-651 Lisboa
+T (+351) 213 928 400
+F (+351) 213 976 832 geral@cnpd.pt www.cnpd.pt
+
+Aprovado na reunião de 30 de maio de 2023
+Pele trin h
+Paula Meira Lourenço (Presidente)
+PAR/Z2023/51 V

@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TMN - Telecomunicações Móveis Nacionais (TMN)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,75 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T04:58:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12435/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/39234](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/39234).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 303/2005
+AUTORIZAÇÃO N° 12435
+/ 2011 1) O pedido
+TMN - Telecomunicações Móveis Nacionais, SA, notifica um tratamento de dados com a finalidade de gestão de clientes, nomeadamente: registo e tratamento de facturas; valores em dívida; datas de pagamento; todas as actuações respeitantes ao estado das contas; gerir os procedimentos em relação a pagamentos e controlo de crédito dos clientes.
+Os dados pessoais a tratar são: nome; morada; número de contribuinte; facturação e respectivos montantes; dívidas (valor, factura e data de vencimento); número de cartão de acesso; telefone de contacto; NIB.
+Como fundamentos de legitimidade do tratamento apontam-se a execução de obrigação contratual; a prossecução de interesse legítimo (sem risco de intromissão na vida privada nem de discriminação).
+Refere-se a existência de comunicação de dados - mas a operação não respeita a terceiros e sim as empresas subcontratadas.
+Não há interconexões nem fluxos transfronteiras.
+Como medidas de segurança, apontam-se a existência de palavras-chave de acesso e de cópias de "back-up" de dados.
+Como prazo de conservação indica-se o de cinco anos após a cessação do contrato, salvo se houver pagamentos ou reclamações pendentes.
+Como forma de exercício dos direitos de acesso e rectificação menciona-se o pedido escrito.
+Indicam-se os vários subcontratantes a utilizar e os contratos de prestação de serviços que com eles se celebram.
+2)
+Apreciação
+O tratamento exibe finalidades determinadas, explícitas e legítimas (Lei n° 67/98, de 26 de
+Outubro, art° 5°, n° 1, b).
+Os dados tratados são adequados, não excessivos e pertinentes (ibidem, al c).
+O fundamento de legitimidade é ajustado à finalidade a atingir.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Não existe verdadeira comunicação de dados a terceiros - mas sim cedência de dados a subcontratantes, com os quais se celebram contratos de prestação de serviços.
+Os subcontratantes deverão, nos termos da lei, respeitar o dever de confidencialidade em relação aos dados tratados no âmbito da subcontratação.
+O prazo de conservação é de aceitar.
+3) Autorização
+Em face do exposto, e nos termos dos artigos 27º, 28º, n° 1, b) e 29° da Lei n° 67/98, a
+CNPD emite a seguinte autorização:
+a)
+b)
+c)
+d)
+e)
+‡)
+g)
+Responsável
+TMN - Telecomunicações Móveis Nacionais, SA.
+Finalidade
+Gestão de clientes, em particular: registo e tratamento de facturas; valores em dívida; datas de pagamento; actuações relativas ao estado das contas; gestão de procedimentos respeitantes a pagamentos e controlo do crédito dos clientes.
+Dados tratados
+Nome; morada; número de contribuinte; facturação e respectivos montantes;
+dívidas (valor, factura e data de vencimento); número de cartão de acesso, telefone de contacto; NIB.
+Comunicação de dados
+Não há.
+Interconexão de dados
+Não há.
+Fluxos transfronteiras
+Não há.
+Modo de exercício dos direitos de acesso e rectificação
+Por escrito.
+Lisboa, 2g Novembro de 2011
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco Almeida,
+Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente/relator)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

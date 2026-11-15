@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ACP - AUTOMÓVEL CLUB DE PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:29:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2396/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23253](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23253).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 1433-10 2396
+AUTORIZAÇÃO N° /2010
+O pedido
+O Automóvel Club de Portugal, pessoa colectiva de utilidade pública com o
+NIPC 500700800, veio notificar à CNPD um tratamento de dados que tem por objecto a recolha e organização dos dados referentes aos sócios do Automóvel
+Club de Portugal que pretendam usufruir do serviço de consultoria financeira em operações de crédito (habitação, automóvel, consumo e consolidação de créditos), prestado a particulares pela Villas-Boas Consultoria Financeira
+Unipessoal, Lda.. O ACP actua como intermediário e vem agora solicitar que seja autorizada a recolha de dados dos seus clientes para aquela finalidade, bem como para a organização dos elementos recolhidos.
+Apreciação
+A Requerente pretende obter uma Autorização para um tratamento cuja finalidade descreve como recolha e organização dos dados referentes aos sócios do Automóvel Club de Portugal que pretendam usufruir do serviço de consultoria financeira em operações de crédito, a prestar pela sociedade comercial Villas-Boas Consultoria Financeira Unipessoal, Lda. Os dados pessoais contidos em cada registo são dados de identificação (o nome, data de nascimento, B. I. / NIPC, NIF), e dados relativos ao crédito e solvabilidade. Os dados são recolhidos com o consentimento do titular. Não há comunicação de dados a outras entidades, nem quaisquer interconexões.
+A informação recolhida é necessária, pertinente e não excessiva em relação à finalidade (artigo 5° da Lei n° 67/98, de 26 de Outubro).
+Os dados são tratados na sequência de uma relação contratual cujo objectivo consiste na análise das propostas e eventual concessão de crédito. Existe,
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS pois, legitimidade, nos termos do artigo 6°, alínea a) da Lei n° 67/98. Os dados são conservados por um período de 5 anos.
+Acresce que a sociedade comercial Villas-Boas Consultoria Financeira
+Unipessoal, Lda., deverá notificar à CNPD o tratamento decorrente desta prestação de serviços.
+Nos termos dos artigos 27º, 28º, n° 1 - b), e 30°, todos da Lei n° 67/98, autoriza-se o tratamento notificado, consignando-se o seguinte:
+1. Responsável: Automóvel Club de Portugal 2. Categorias de dados pessoais tratados: dados de identificação (nome, data de nascimento, B. I. / NIPC, NIF), e dados relativos ao crédito e solvabilidade 3. Finalidade: recolha e organização dos dados referentes aos sócios do Automóvel Club de Portugal que pretendam usufruir do serviço de consultoria financeira em operações de crédito 4. Forma de exercício do direito de acesso e rectificação: por escrito.
+5. Comunicação de dados: Villas-Boas Consultoria Financeira
+Unipessoal, Lda.; Bancos e instituições financeiras, para análise e decisão de crédito.
+6. Conservação dos dados : 5 anos.
+Lisboa, 7 de Juunde 2010.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Paiva de Andrade, Helena
+Delgado António, Luís Barroso, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

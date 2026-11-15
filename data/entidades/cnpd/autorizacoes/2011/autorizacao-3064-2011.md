@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GUC - Gestão de Unidades Clínicas, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T07:36:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3064/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/29759](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/29759).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 1574/2011
+AUTORIZAÇÃO N.° 306 4 12011
+A GUC - Gestão de Unidades Clínicas, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para avaliar a satisfação dos utilizadores do injector pessoal AVOJECT IM® (Interferão beta-1ª IM) para a administração da terapêutica para o tratamento da Esclerose Múltipla.
+Serão incluídos no estudo os indivíduos com a patologia a receber tratamento em qualquer um dos centros participantes. O médico/enfermeiro assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+A recolha de dados será feita em três momentos temporais (na data da assinatura do consentimento, um mês e três meses depois da utilização do dispositivo AVOJECT IM®).
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal dos titulares, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 21 393 00 39
+LINHA PRIVACIDADE
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, nos termos dos n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a) do n.º 1 do artigo 28° e art.
+30° da Lei de Protecção de Dados autoriza-se o tratamento, com as condições supra referidas, nos seguintes termos:
+Responsável pelo tratamento: GUC - Gestão de Unidades Clínicas, Lda
+Finalidade: estudo observacional para avaliar a satisfação dos utilizadores do injector pessoal
+AVOJECT IM® (Interferão beta-1ª IM) para a administração da terapêutica para o tratamento da Esclerose Múltipla.
+Categoria de Dados pessoais tratados: código do doente, grau de satisfação na utilização do
+Injector PessoalAVOJECT IM®.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico/enfermeiro assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, de Março de 2011
+Ana Roque, Luís Paiva de Andrade (Relator), Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2

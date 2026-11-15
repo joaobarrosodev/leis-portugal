@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 124/2006
-official_date: null
+official_date: '2006-03-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PADARIAS MIGUEIS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:13:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 124/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6410](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6410).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 1874/2005
+AUTORIZAÇÃON.° 124 /2006 1. A empresa Padarias Migueis, Ld.ª notificou à CNPD um tratamento de videovigilância. As câmaras estão colocadas nos seguintes locais: Local de Venda, expedição, corredor de produção, produção de padaria, produção de pastelaria, cozinha, corredor - câmara frigorífica da padaria e armazém de farinhas. Como finalidade do tratamento é indicada a «videovigilância no local de trabalho».
+Não há comissão de trabalhadores.
+A entidade foi notificada do projecto de autorização a fim de se pronunciar, nos termos do artigo 100.º do CPA. Até à presente data não apresentou qualquer resposta.
+Através da Deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.º n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.° e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+2. O artigo 20.º n.º 1 do Código do Trabalho dispõe que o empregador "não pode utilizar meios de vigilância à distância no local de trabalho, mediante o emprego de equipamento tecnológico, com a finalidade de controlar o desempenho profissional do trabalhador». Será lícita a utilização deste equipamento quando se destine à «protecção e segurança de pessoas e bens».
+O artigo 28.º n.º 2 da Lei n.º 35/2004, de 29 de Julho, estabelece que a CNPD só pode autorizar a colocação de meios de vigilância à distância se a sua utilização for «necessária, adequada e proporcional aos objectivos a atingir».
+() Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A CNPD admite que seja legítima a colocação de câmaras no local de venda, na expedição, no corredor de produção, no corredor da câmara frigorífica da padaria e no armazém de farinha.
+Verifica-se que a utilização do sistema nestes locais se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com protecção dos seus direitos fundamentais('), bem como registar e documentar a eventual prática de infracções. O tratamento de imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+3. Considera, porém, excessiva e desproporcionada a colocação de câmaras na sala de «produção de padaria», na «sala de produção de pastelaria» e na «cozinha».
+Efectivamente, as câmaras estão direccionadas para os postos de trabalho e - havendo gravação - há um elevado risco de poderem ser utilizadas para controlo do desempenho dos trabalhadores.
+A CNPD entende que o objectivo de «protecção de pessoas e bens» também será atingido se as câmaras forem direccionadas para as entradas e saídas destes locais. Ao () O artigo 8.º n.º 2 obriga, como condição a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS serem direccionadas para as portas das respectivas instalações será assegurado o objectivo de protecção que a entidade se propõe. Por isso, a CNPD considera que as câmaras devem ser direccionadas paras as portas de entrada e saída na sala de «produção de padaria», na «sala de produção de pastelaria» e na «cozinha».
+Considera-se, por isso, legítimo o tratamento no local de venda, na expedição, no corredor de produção, no corredor da câmara frigorífica da padaria e no armazém de farinha - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Finalidade - Protecção de pessoas e bens.
+2. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+3. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.º da Lei 67/98.
+4. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+5. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 7. Prazo de conservação - Os dados recolhidos não podem ser conservados por prazo superior a 30 dias.
+8. As câmaras da sala de «produção de padaria», da «sala de produção de pastelaria» e da «cozinha» devem ser direccionadas para as zonas de entrada e saída, ficando impossibilitadas de captar os postos de trabalho.
+Lisboa, 07 de Março de 2006
+Amadeu Guerra (relator)
+Ana Roque salaza
+Alexandre Pinheiro
+Luís Barroso
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

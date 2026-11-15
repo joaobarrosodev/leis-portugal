@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Deutsche Bank AG, Filiale Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T10:18:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4679/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/104559](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/104559).
+Processon. 4191/2016 1 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 4679/2017
+I - Pedido
+Deutsche Bank Aktiengesellschaft - Sucursal em Portugal (Deutsche Bank), e aqui
+Requerente, notificou a Comissão Nacional de Proteção de Dados (CNPD) para a alteração de uma notificação anterior.
+Em concreto, requer a alteração da Autorização n° 3237/2013, emitida em 23 de abril ao
+Deutsche Bank, no âmbito do processo n.º 3824/2013, onde foi autorizada a gravação de chamadas na relação contratual.
+II - Apreciação
+A Comissão Nacional de Proteção de Dados (CNPD) já se pronunciou, na sua Deliberação n.º 629/20101, sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.° 67/98, de 26 de outubro, alterada pela
+Lei n.° 103/2015, de 24 de agosto (Lei de Proteção de Dados Pessoais - LPDP), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado naquela Deliberação.
+Assim, o tratamento de dados pessoais relativo à gravação de chamadas telefónicas dos clientes da Requerente assenta a sua legitimidade no consentimento prévio, expresso e inequívoco do respetivo cliente, titular dos dados (n.º 3 do artigo 4.° da Lei n.° 41/2004, de 18 de agosto, alterada pela Lei n.º 46/2012, de 29 de agosto), após facultada a informação legalmente exigida.
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efetue essa gravação desde que tal decorra do próprio contrato de trabalho, da categoria estabelecida e do respetivo conteúdo funcional. A prestação do direito de informação ao trabalhador deverá ficar devidamente documentada.
+Alerta-se que, nos termos do artigo 20.° do Código de Trabalho, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Não existe tratamento da informação externo por parte de uma entidade subcontratada.
+' Disponível em http://www.cnpd.pt/bin/orientacoes/DEL629_2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 4191/2016 | 1v.
+Não se vislumbra adequação face à finalidade do tratamento em análise que permita a autorização de comunicação de dados a terceiros, salvo as que decorrem de obrigação legal ou para o exercício de direitos.
+Atento : o disposto na alínea e) do n.º1 do artigo 5.° da LPDP, devem os dados pessoais ser conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior.
+A Lei n.º 25/2008, de 5 julho, alterada pela Lei n.º 118/2015, de 31 de agosto, no n.º 2 do seu artigo 14.°, com a finalidade de combate ao branqueamento de vantagens de proveniência ilícita e ao financiamento do terrorismo no âmbito da prevenção da utilização do sistema financeiro e das atividades e profissões especialmente designadas para aqueles efeitos, fixa o dever de conservação dos originais, cópias, referências ou quaisquer outros suportes duradouros, com idêntica força probatória, dos registos das operações, de molde a permitir a reconstituição da operação, durante o período de 7 (sete) anos a contar da sua execução, ainda que, no caso de se inserir numa relação negócio, esta última ja tenha terminado. Deste modo, atendendo à natureza da aqui Requerente, bem como à atividade por ela desenvolvida, justifica-se a conservação dos dados relativos ao conteúdo das chamadas na relação contratual pelo período de 7 (sete) anos após a realização das gravações.
+Do exposto, tendo em consideração o n.º1 do artigo 173.° CPA e os artigos 7.°, n.º2, 28.°, n.º1, alínea a), 29.° e 30.°, n.º1 da LPDP, procede-se à alteração da Autorização n.° 3237/2013, de 23 de abril, e, substituindo-a pela presente, consigna-se o seguinte:
+Responsável - Deutsche Bank Aktiengesellschaft - Sucursal em Portugal.
+Finalidade - Prova das transações comerciais e outras comunicações respeitantes à relação contratual.
+Categoria de dados pessoais tratados - Dados de tráfego necessários e conteúdo da chamada telefónica.
+Forma de exercício dos direitos de acesso e retificação - Por escrito na morada do responsável, Rua Castilho, n.º20, 1250-069 Lisboa.
+Comunicação de dados pessoais - Não há;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há;
+
+Processo n. ° 4191/2016 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Conservação dos dados - No âmbito da prevenção do branqueamento de capitais, autoriza-se a conservação dos dados por um período de 7 (sete) anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da
+LPDP, dos termos e condições fixados na Deliberação n.º 629/2010, que se dão aqui por reproduzidos, e da presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Porque estamos perante o tratamento de dados sensíveis na aceção do n.º 1 do artigo 7° da
+LPDP, devem ser postas em prática as medidas de segurança previstas nos artigos 14.° e 15.° daquele diploma legal.
+Além de que, relembra-se que a presente Autorização não inclui a finalidade de monitorização da qualidade de serviço prestado que, por constituir finalidade diferente, carece de notificação autónoma.
+Lisboa, 28 Le aSr1 L 2017
+Ful
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

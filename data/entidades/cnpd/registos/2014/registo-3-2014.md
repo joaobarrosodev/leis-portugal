@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3/2014
-official_date: null
+official_date: '2014-01-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Bizarro & Milho, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:58:08Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 3/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60770](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60770).
+Proc. n.º 7891/2010 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+REGISTO N.º O3 /2014
+BIZARRO & MILHO, S.A. notificou um tratamento de dados pessoais com a finalidade de gestão das mensagens recebidas na secção de "Contactos" da página da Internet da marca "Springfield" em http://pt.spf.com/empresa/contacto
+Os dados recolhidos são: nome e endereço de correio eletrónico.
+Os dados pessoais recolhidos são pertinentes e não excessivos face à finalidade declarada, conforme o disposto na alínea c) do n.º 1 do artigo 5.° da Lei n.° 67/98, de 26 de outubro - Lei de
+Proteção de Dados (LPD).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento dos titulares dos dados.
+Assim, em conformidade com o n.º 1 do artigo 27° e do n.º1 do artigo 30.º da Lei n.º 67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+BIZARRO & MILHO, S.A.
+Finalidade
+Gestão das mensagens recebidas através da página da Internet
+Categoria de dados pessoais tratados
+Nome e endereço de correio eletrónico
+Forma de exercício dos direitos de acesso e retificação
+Por carta, fax ou presencialmente
+Comunicações de dados a terceiros
+Não há
+Interconexões
+Não há
+Transferências para países terceiros
+Não há
+Prazo máximo de conservação dos dados 2 anos após a última comunicação remetida pelo cliente
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 7891/2010 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD, incluindo o n.º4 do referido artigo por haver dados a circular em rede aberta.
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, em conformidade com o previsto no artigo 14° da LPD.
+Lisboa, 10 de janeiro de 2014
+A Secretária da CNPD,
+Dragre
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

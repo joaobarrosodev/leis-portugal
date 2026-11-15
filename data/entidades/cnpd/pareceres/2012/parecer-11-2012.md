@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMISSÃO PARLAMENTAR DE SAÚDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,89 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:07:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 11/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/41892](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/41892).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 688/2012
+PARECER N° / /2012
+I) Introdução
+A Exm* Presidente da Comissão Parlamentar de Saúde pede o parecer da
+CNPD acerca do Projecto de Lei n° 131/XII (1") do PS, que "Procede à segunda alteração à Lei n° 32/2006, de 26 de Julho, alterada pela Lei n° 59/2007, de 4 de Setembro, consagrando exceções à proibição de recurso à maternidade de substituição".
+Este projecto de Lei foi apresentado em conjunto com outro - Projecto de Lei n° 137/XII (19), também do PS, que se propõe introduzir alterações mais abrangentes à Lei n° 32/2006.
+O presente parecer limitar-se-á, naturalmente, apenas a aspectos do diploma em projecto que possam de algum modo relevar em termos de protecção de dados pessoais.
+II)
+Síntese do Projecto
+Pondera-se no preâmbulo do diploma que surjam casos em que não é possível obter-se uma gravidez através do acesso às técnicas de PMA, pelo que a última alternativa que se apresenta é a do recurso à maternidade de substituição.
+Considera-se, de todo o modo, que esse procedimento deve ser excepcional, em caso de ausência de útero e de lesão ou doença deste órgão que impeça de forma absoluta e definitiva a gravidez da mulher ou em situações clínicas que o
+A celebração dos correspondentes negócios jurídicos, necessariamente gratuitos, tem de ser autorizada pelo Conselho Nacional de Procriação Medicamente
+Assistida (ibidem, n° 4).
+Esta autorização só pode ocorrer se for utilizada uma técnica de PMA que envolva o recurso a gâmetas de pelo menos um dos beneficiários (ibidem, n° 3).
+A criança que nascer de maternidade de substituição assim admitida é considerada filha dos beneficiários desta, enquanto que nos demais casos (ilegais) a criança será considerada filha de mulher que suportar a maternidade de substituição (art 8°, n° 16 e 9).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt
+Pág 1 de 4 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O n° 7 do mesmo artigo 8° prescreve que: "a Lei regulamenta a maternidade de substituição, definindo, nomeadamente, os requisitos de validade e eficácia do consentimento das partes, o regime dos negócios jurídicos de maternidade de substituição, os direitos e os deveres das partes, bem como a intervenção do
+Conselho Nacional de Procriação Medicamente Assistida e da Ordem dos
+Médicos".
+III) Apreciação
+A) Remissão para legislação complementar
+Não é evidente a vantagem de remissão para legislação complementar das matérias previstas n° 7 do Artigo 8.
+Seria preferível - até para melhor apreensão pelos cidadãos - tratar dessas questões no presente diploma.
+De qualquer modo, e no desconhecimento das opções legislativas a tomar nesse âmbito, não deixa de se apontar os seguintes aspectos:
+1) Pressuposto da admissibilidade
+O artigo 6º da Lei n° 32/2006 prescreve que as técnicas só possam ser utilizadas em benefício de quem tenha, pelo menos, 18 anos de idade e não esteja interditado ou inabilitado por anomalia psíquica.
+É claro que, prevendo-se que a maternidade de substituição se baseia em negócio jurídico, se poderia considerar que, segundo o regime geral, este só pudesse ser celebrado por pessoas capazes.
+Mas como se tratará de negócio (contrato) muito especial, seria preferível deixar claro a partir de que idade poderia ser celebrado.
+Merece ponderação, designadamente, a questão de saber se pessoas casadas com menos de 18 anos poderão celebrar tais negócios, ou se o limite de 18 anos corresponde a um certo grau de maturidade fisiológica e psicológica
+E, atendendo aos condicionalismos de tal negócio, teria sentido deixar vincado que ele assume natureza pessoal, não podendo ser celebrado por representante.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt
+Pág 2 de 4 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 2) Conjugação com o sistema de registo de nascimento no próprio hospital
+Pelo menos em alguns hospitais, vigora já o sistema de inascer cidadão", consistente na realização do registo de nascimento no próprio hospital em que ocorra.
+Como se poderia (poderá) conjugar este procedimento com situações de "maternidade de substituição"?
+B) Questões autónomas
+Considera-se que existem algumas questões que podem ser suscitadas pela admissão de maternidade de substituição mas que não estarão necessariamente englobadas na regulamentação desta, tal como prevista no n° 7 do artigo 8.
+Trata-se, designadamente, das seguintes:
+1) Proibição de discriminação
+A proibição de discriminação vem consagrada na Lei n° 32/2006 (artigo 5°) expressamente em relação às "Técnicas de PMA".
+Ora teria sentido declarar-se, também em relação à maternidade de substituição, que igualmente não deveria ser origem de discriminação que porventura pudesse atingir quem nascesse por essa via - nem tão - pouco as mulheres que dessem à luz nessas circunstâncias.
+2) Confidencialidade
+Importa ponderar qual o alcance que, a propósito da maternidade de substituição, deverá (ou não) ostentar o princípio da confidencialidade - só regulado no artigo 15° da Lei n° 32/2006 para a PMA.
+Nomeadamente, deve a pessoa nascida nessas condições ter o direito de conhecer a identidade da mãe de substituição"?
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt
+Pág 3 de 4 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 27 de Fevereiro 2012
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade
+Serem
+Luís Lingnau da Silveira (Presidente/ relator)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt
+Pág 4 de 4 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

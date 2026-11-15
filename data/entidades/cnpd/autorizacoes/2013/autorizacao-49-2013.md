@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Janssen-Cilag Farmacêutica, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:43:30Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 49/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50304](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50304).
+proc. n. 913175/2012| 1 f
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 19/13
+Janssen-Cilag Farmacêutica, Lda, veio notificar a esta CNPD um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico. Pretende-se avaliar a eficácia de medicamentos de uso humano em doentes com Mieloma Múltiplo (Protocolo 2866138-MMY-3033).
+Trata-se de um ensaio «...de fase 3, aleatorizado, controlado para avaliar o retratamento optimizado e a terapêutica prolongada com Bortezomib (...) em doentes com mieloma múltiplo em primeira ou segunda recaída».
+As categorias de dados pessoais tratados (do paciente):n.º participante no estudo, data de nascimento, idade, sexo, história clinica, exames objetivo, análises e avaliações clínicas, teste de gravidez, eventos adversos, medicação, qualidade de vida, utilização de recursos de saúde.
+As categorias de dados pessoais (do investigador):nome completo, número de cédula profissional, dados de contacto, curriculum vitae.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.º da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 13175/2012 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: Janssen-Cilag Farmacêutica, Lda.
+Finalidade: gestão de ensaio clínico.
+Categoria de Dados Pessoais tratados (do paciente): n.º participante no estudo, data de nascimento, idade, sexo, história clínica, exames objetivo, análises e avaliações clínicas, teste de gravidez, eventos adversos, medicação, qualidade de vida, utilização de recursos de saúde.
+Categorias de Dados Pessoais tratados (do investigador): nome completo, número de cédula profissional, dados de contacto, curriculum vitae.
+Fluxos transfronteiras: Há transferência de dados, devidamente codificados para países dentro e fora da União Europeia.
+Formas de exercício do direito de acesso e retificação: Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo | do DL 176/2006, 30 de Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007, que aqui se dão por reproduzidos, e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 3 janeiro de 2013
+Luís Barroso, Ana Roque, Carlos de Campos Lobo (Relator), Vasco Almeida, Luís
+Paiva de Andrade, Helena António.
+Fílipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

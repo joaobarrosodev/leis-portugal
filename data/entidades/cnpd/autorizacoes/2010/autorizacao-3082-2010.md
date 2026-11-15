@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3082/2010
-official_date: null
+official_date: '2010-07-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UNITHED THERAPEUTICS CORPORATION'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:16:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3082/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24078](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24078).
+1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 4034/2010
+AUTORIZAÇÃO N.° 3082/10
+A United Therapeutics Corporation, representada pela ICON
+Clinical Research, notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico com medicamentos de uso humano em doentes com hipertensão arterial pulmonar (Protocolo TDE-PH-304).
+Trata-se de «um estudo de seguimento de um outro ensaio clínico "Estudo internacional, multicêntrico, em dupla ocultação, aleatorizado, controlado por placebo, de 16 semanas de duração, sobre a eficácia e segurança de UT-15C por via oral de comprimidos de libertação prolongada doentes com hipertensão arterial pulmonar (TDE-PH-308).
+Este ensaio tem como objectivos «fornecer ou continuar o fornecimento de UT-15C Libertação Prolongada (LP) a doentes elegíveis que participaram nos protocolos TDE-PH-301, TDE-
+PH-302 e TDE-PH-308 ou em quaisquer outros protocolos clínicos adicionais de UT-15C LP para avaliação de doentes com HAP, bem como avaliar a segurança a longo prazo do UT-15C LP nestes doentes através da avaliação de eventos adversos e de parâmetros laboratoriais. Igualmente pretende-se realizar uma avaliação do efeito da terapia continuada com o UT-15C LP sobre a capacidade para fazer exercício após um ano de tratamento».
+«O estudo irá incluir um total de 200 doentes na Europa.
+Cerca de 10 doentes irão participar em Portugal».
+As categorias de dados recolhidos são as seguintes:
+Iniciais do nome, data de nascimento, género, história médica, testes laboratoriais, sinais vitais, fadiga,
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS electrocardiograma, eventos adversos, tratamentos concomitantes e nome do investigador.
+O médico Investigador recolhe e processa as informações sobre o estado de saúde do doente em bases de dados em suporte informático.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.º333/07 sobre
+• enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5., n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: A United Therapeutics
+Corporation, representada pela ICON Clinical Research.
+Finalidade: gestão de ensaio clínico com medicamentos de uso humano em doentes com hipertensão arterial pulmonar (Protocolo TDE-PH-304).
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categoria de Dados Pessoais tratados: Iniciais do nome, data de nascimento, género, história médica, testes laboratoriais, sinais vitais, fadiga, electrocardiograma, eventos adversos, tratamentos concomitantes e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação:
+Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do Anexo I do DL 176/2006, 30 de
+Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 2 de Julho de 2010
+Pel'
+Ana Roque (Relatora), Helena Delgado António, Carlos Campos
+Lobo, Vasco Almeida, Lui
+O Paiva de Andrade, Lufa Barroso
+Luís Lingnau da Silveira (Presidente)

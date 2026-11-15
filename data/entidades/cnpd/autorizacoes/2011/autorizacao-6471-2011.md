@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Hospital Infante D. Pedro, E.P.E.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:38:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6471/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33141](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33141).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 1571/2004
+AUTORIZAÇÃON 6471/201 1 - Hospital Infante D. Pedro, S.A., notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de aquisição de relatório de imagens de Tomografia Axial Computorizada (Tele-Radiologia).
+Declara as seguintes categorias de dados pessoais: número de episódio, nome, idade, sexo, imagens de TAC.
+Os dados são recolhidos e actualizados directamente, mediante preenchimento de impresso.
+Indica-se como fundamento de legitimidade para o tratamento a protecção de interesse vital do titular.
+As medidas de segurança adoptadas são as seguintes: cópias de backup, password de acesso às informações e acesso restrito de pessoas.
+Está assegurado o direito de acesso e rectificação dos dados de identificação.
+2 - O n.º 4 do artigo 7° da Lei n.º 67/98, de 26.10, admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnnd nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 de 13 h
+
+2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde há legitimidade para efectuar o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional. Nessa medida, deve compaginar-se a recolha da informação com o princípio da confidencialidade, respeitando-se, assim, o respectivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+3 - A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.º 4 de Lei n° 67/98, de 26.10.
+Deverão, todavia, ser adoptadas as medidas de segurança adequadas, atenta a natureza sensível dos dados objecto de tratamento, devendo ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação e acesso aos titulares dos dados, nos termos dos artigos 10° e 11º nº5 da Lei n° 67/98;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15° n°3 da Lei n° 67/98);
+c) Devem ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS médicos ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7° nº4 da Lei n° 67/98).
+4 - Nestes termos e observadas que sejam as condições impostas, a CNPD autoriza o tratamento automatizado, ao abrigo do disposto nos artigos 7.° n.º 4, 28° nº1, alínea a), e 30.º da Lei n° 67/98, de 26.10, consignando o seguinte:
+Responsável pelo tratamento: Hospital Infante D. Pedro, S.A.
+Finalidade: aquisição de relatório de imagens de Tomografia Axial Computorizada (Tele-Radiologia)
+Categoria de dados pessoais tratados: número de episódio, nome, idade, sexo, imagens de TAC
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação: junto da Administração do
+Hospital
+Interconexões de tratamentos: não há
+Transferências de dados para países terceiros: não há
+Prazo de conservação: nos termos da Portaria n° 247/2000, de 08.05
+Lisboa, 200 Yeee hoele 201
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnnd nt

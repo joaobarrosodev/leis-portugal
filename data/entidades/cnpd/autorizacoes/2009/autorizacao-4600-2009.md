@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DISTODO, DISTRIBUIÇÃO E LOGÍSTICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,28 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:21:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4600/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19412](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19412).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 9274/08
+AUTORIZAÇÃO N.° 1600/2009
+Distodo - Distribuição e Logística, Lda notificou um tratamento de dados pessoais com a finalidade de gestão das comunicações internas de actos de gestão financeira irregular.
+Bertelsmann, AG, com sede na Alemanha, é a entidade encarregada do processamento da informação.
+A CNPD já se pronunciou na sua Deliberação n.º 765/2009' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade. Nessa Deliberação fixou que só podem ser objecto de tratamento os procedimentos de controlo interno de denúncia de infracções destinados a prevenir e/ou a reprimir irregularidades no seio da sociedade, no domínio da contabilidade, dos controlos contabilísticos internos, da auditoria, da luta contra a corrupção e do crime bancário e financeiro.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.º 765/2009, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade é a execução de finalidades legítimas do responsável, previsto no n.° 2 do artigo 8.° da LPD.
+Assim, autoriza-se ao abrigo dos artigos 8.°, n.º 2, 28.° n.º 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Distodo - Distribuição e Logística, Lda
+Gestão das comunicações internas de actos de gestão financeira
+Finalidade irregular.
+Categoria de dados pessoais tratados
+Identidade e categoria profissional do denunciante, identidade e categoria profissional do denunciado, identidade e funções das pessoas que intervêm na recolha e no tratamento de dados, os factos denunciados, passíveis de integrarem actividades consideradas irregulares, no âmbito das actividades de contabilidade, auditoria, de luta contra a corrupção e do crime bancário e financeiro, os elementos de facto recolhidos no âmbito da averiguação e o destino dado à denúncia.
+' Disponível em www.cnpd.pt/bin/orientacoes/DEL765-2009_ LINHAS_ETICA.pdf

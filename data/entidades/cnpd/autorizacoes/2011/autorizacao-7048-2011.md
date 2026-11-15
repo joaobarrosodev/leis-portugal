@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7048/2011
-official_date: null
+official_date: '2011-07-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Arrow Global Limited'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:29:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7048/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33765](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33765).
+COMISSÃO NACIONAL
+Proc.
+DE PROTEÇÃO DE DADOS 7048
+Autorização n.º /2011
+O pedido
+Arrow Global Limited notificou à CNPD um tratamento de dados pessoais com a finalidade de
+Gestão de Contratos de Crédito.
+As entidades encarregues do processamento da informação são a Gesphone - serviços de
+Tratamento e Aquisição de Dívidas, SA e a Servdebt-Capital Asset Management Lda
+Os dados tratados pela requerente - que figura como cessionária dos créditos e assume o risco de os adquirir e cobrar em caso de incumprimento - são recolhidos indirectamente, sendo-lhes comunicados pelas empresas cedentes.
+São processadas as seguintes categorias de dados pessoais: nome, morada, telefone, BI, NIF, montante do crédito, dívidas acumuladas, número e data de incumprimentos, litígios, protesto de letras, insolvência, dados relativos ao processo judicial.
+Análise jurídica do tratamento
+Os dados declarados são pertinentes, necessários e não excessivos face à finalidade (cf. al. c)
+do n.º 1 do artigo 5º da LPD).
+A cedência de dados é feita no âmbito de um contrato celebrado nos termos do artigo 577º do
+Código Civil. Por força do n.º 1 do referido artigo 577º a cessão de crédito é admissível independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.º 1 do art.º 582º do CC)
+Os dados objecto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no art. 78.º do DL 298/92, de 31 de Dezembro. Assim, enquadram-se no conceito de vida privada do n.º 1 do artigo 7º da Lei n.º 67/98, de 26 de Outubro.
+O fundamento de legitimidade para o tratamento dos dados é, nos termos do n.º 2 do artigo 7° da LPD, o artigo 577º do Código Civil.
+Relativamente às entidades que processam a informação, terá o responsável de estabelecer o contrato previsto no artigo 14º da LPD. Nesse contrato, que deverá revestir a forma escrita, com valor probatório legalmente reconhecido, deve constar que a Gesphone - Serviços de
+Tratamento e Aquisição de Dívidas, SA e a Servdebt-Capital Asset Management Lda apenas
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS actua mediante instruções do responsável e que lhe incumbe a obrigação de por em pratica medidas técnicas e organizativas adequadas para proteger os dados pessoais contra a destruição acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizado, bem como garantir um nível de segurança adequado em relação aos riscos inerentes ao tratamento e à natureza dos dados a proteger. Deve, ainda, constar que finda a prestação de serviço as subcontratadas devolvem os registos de dados pessoais ao responsável.
+O responsável pelo tratamento deve assegurar o direito de informação no momento do registo no seu sistema, cf. n.º 3 do artigo 10 da LPD. A informação a prestar será, por remissão daquele dispositivo, a prevista no n.º 1 do mesmo artigo.
+Quanto à segurança da informação - e porque estão em causa dados sujeitos a sigilo bancário
+- devem ser adoptadas as medidas previstas no artigo 15º da LPD. Deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de auditoria de acesso à informação. De igual modo, devem ser feitas cópias de segurança da informação as quais deverão ser mantidas em local apenas acessível ao administrador do sistema. Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+Decisão
+Em face do exposto, nos termos do n.º 1, alínea b), do artigo 23º e alínea b) do n.º1 do artigo 28º, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da Lei 67/98, o seguinte:
+1. Responsável: Arrow Global Limited 2. Categorias de dados pessoais tratados: : nome, morada, telefone, BI, NIF, montante do crédito, dívidas acumuladas, número e data de incumprimentos, litígios, protesto de letras, insolvência, dados relativos ao processo judicial.
+3. Finalidade: Gestão de Contratos de Crédito 4. Entidades a quem podem ser transmitidos: não há 5. Forma de exercício do direito de acesso e rectificação: Por escrito junto do resposável.
+6. Interconexões : Não existem 7. Transferências de dados para países terceiros : não existem
+Lisboa, 1 de Julho de 2011
+Carlos Campos Lobo; Luís Barroso; Luís Paiva de Andrade (Relator); Ana Roque; Helena
+Delgado António; Vasco Almeida
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+COMISSÃO NACIONAL
+SE PROTECCAO DE DADO uís Silveira, Presidente que relato gers Silver
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

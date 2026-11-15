@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMISSÃO DE MELHORAEMNTOS DE AZEMÉIS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:57:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5375/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/32047](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/32047).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 4349/2011
+AUTORIZAÇÃO N.º5375/2011
+A COMISSÃO DE MELHORAMENTOS DE AZEMÉIS, IPSS, veio notificar à
+Comissão Nacional de Protecção de Dados (CNPD) o tratamento de dados de gestão de
+Recursos Humanos.
+1. As categorias de dados tratados, que respeitam aos recursos humanos da Requerente, são: identificação, dados bancários, apto/não apto do ponto de vista clínico.
+Os dados tratados são necessários e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98, de 26 de Outubro).
+Constitui fundamento de legitimidade para o tratamento a execução da relação contratual, ao abrigo do artigo 6°, alínea a), da citada lei. Os dados são enviados, em cumprimento de obrigações legais, para a Segurança Social, DGCI, Seguradora e entidade que presta serviço no âmbito da medicina no trabalho.
+Face ao exposto DELIBERA esta CNPD, nos termos do disposto no n.º 1 do artigo 27.° da Lei n.º 67/98, de 26 de Outubro, autorizar o tratamento de dados pessoais. A entidade responsável deve cumprir as exigências relativas ao direito de informação e consentimento informado.
+Responsável pelo tratamento: COMISSÃO DE MELHORAMENTOS DE
+AZEMÉIS, IPSS
+Finalidade: gestão de Recursos Humanos
+Categoria de Dados pessoais tratados: Dados de Identificação, dados bancários, apto/não apto do ponto de vista clínico
+Entidades a quem podem ser comunicados: Segurança Social, DGCI, Seguradora e entidade que presta serviço no âmbito da medicina no trabalho
+Formas de exercício do direito de acesso e rectificação: pessoalmente ou por escrito
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 à 12 h
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Interconexões de tratamentos: Não se verificam.
+Prazo de conservação: os dados pessoais podem ser conservados pelo período máximo de um ano após a cessação do vínculo laboral à entidade. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária.
+Lisboa23de Maio de 2011.
+Ana Roque (Relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado António,
+Luís Paiva de Andrade teus
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

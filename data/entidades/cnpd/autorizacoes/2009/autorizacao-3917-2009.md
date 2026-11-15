@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARIANA VELOSO MARTINS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:33:28Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3917/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18712](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18712).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 6101/09
+AUTORIZAÇÃO N°S 1712009
+Mariana Teixeira Lopes Veloso Martins, bolseira de investigação, notificou a CNPD de um tratamento de dados pessoais realizado no âmbito do estudo "Implicações e efeitos psicossociais na vivência de barreiras à fertilidade".
+Trata-se de um projecto de investigação, não interventivo, retrospectivo e prospectivo que tem por finalidade estudar o modo como os factores psicossociais adversos e as condições ambientais de stress podem contribuir para o insucesso reprodutivo.
+O estudo em causa tem uma componente retrospectiva e uma prospectiva, dependendo a segunda dos dados fornecidos pela primeira.
+Serão incluídos no estudo os doentes com a patologia que frequentam a consulta dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Porque referentes à saúde e à vida privada, os dados abrangidos pelo estudo em causa têm a natureza de sensíveis, razão pela qual o respectivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n° 2 do artigo 7° da Lei n° 67/98, de 26.10.
+A CNPD já se pronunciou na sua Deliberação n.° 227 12007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Assim, nos termos do artigo 28°, n.º1, alínea d), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Mariana Teixeira Lopes Veloso Martins
+Finalidade: estudo "Implicações e efeitos psicossociais na vivência de barreiras à fertilidade".
+Categoria de Dados pessoais tratados: código do doente, dados sócio-demográficos (data de nascimento, sexo, hábitos tabágicos), dados antropométricos (altura, peso), dados clinicos (tipos de tratamento de fertilidade, parâmetros biológicos, ováricos e seminais).
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 2271 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa 2 | de Setembro de 2009
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo, Luís Barroso (Relator)
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt

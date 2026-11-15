@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FORPOINT - INSTITUTO PARA A FORMAÇÃO E INOVAÇÃO NA SAÚDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:10:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1726/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15666](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15666).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 10006/08
+AUTORIZAÇÃO N.° |726/2009
+A Forpoint - Instituto para a Formação e Inovação na Saúde notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo relativo à avaliação do risco de tromboembolismo venoso (TEV), designado por ARTE.
+A Keypoint, Consultoria Científica, Lda é a entidade encarregue do processamento da informação.
+Serão incluídos no estudo doentes internados nos serviços de medicina, oncologia, cirurgia, ortopedia e unidades de cuidados intensivos.
+Aos doentes nas condições de inclusão das unidades de saúde aderentes ao estudo, será solicitado, pelo seu médico assistente o consentimento para a sua participação no estudo. As declarações de consentimento são guardadas pelo médico.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico.
+Os dados são recolhidos em ambiente hospitalar durante o internamento e no momento da alta e em ambulatório por contacto telefónico aos 3 e 6 meses após a alta.
+As categorias de dados contidos no formulário são as seguintes: código do doente, sexo, ano de nascimento, peso, altura, complicações hemorrágicas, ocorrência de eventos tromboembólicos (dia, mês, ano, caracterização e outcome), data da alta, data da morte (se aplicável), profilaxia de eventos trombombólicos, aplicação de score de risco, reinternamento e número de telefone (nos casos de alta).
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação, com a especificidade de ser recolhido o número de telemóvel do doente para o envio das mensagens de alerta.
+Ao responsável apenas é necessária a recolha do número de telefone nas situações de alta hospitalar, para continuação de participação no estudo. Assim, esta informação (número de telefone), deve ser recolhida e tratada separadamente dos restantes dados, de modo a que não seja possível relacionar os dados de saúde com aquele elemento, que permite a identificação do titular.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade para o tratamento é o consentimento expresso do titular dos dados (cf. n.° 2 do artigo 7° da LPD).
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.° 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Forpoint - Instituto para a Formação e Inovação na
+Saúde
+Finalidade: estudo relativo à avaliação do risco de tromboembolismo venoso (TEV), designado por ARTE.
+Categoria de dados pessoais tratados: código do doente, sexo, ano de nascimento, peso, altura, complicações hemorrágicas, ocorrência de eventos tromboembólicos (dia, mês, ano, caracterização e outcome), data da alta, data da morte (se aplicável), profilaxia de eventos tromboembólicos, aplicação de score de risco, reinternamento e número de telefone (nos casos de alta).
+Entidades a quem podem ser comunicados: Não há.
+Rua de São Rento 148.20 • 1000 001 1 1cbo 1i
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente deve ser destruído, quer pelo médico investigador, quer pela subcontratada, imediatamente após o fim do estudo.
+De igual modo, no mesmo prazo, deve ser destruído o dado número de telemóvel.
+Dos termos e condições fixados na Deliberação n.º 2271 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 20 de Abril de 09
+Ana Roque, Carlos Campos Lobo (Relator), Luís Paiva de Andrade, Helena Delgado
+António, Luís Barroso, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 9696/2014
-official_date: null
+official_date: '2014-10-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Transcovizela, Transportes Públicos, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:59:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9696/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/70047](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/70047).
+Processo n° 7263/13 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° 9696 12014
+A Transcovizela, Transportes Públicos, S.A., notificou o tratamento de videovigilância a realizar nas suas instalações sitas em Santo Tirso, Central de Camionagem de
+Santo Tirso 4780 - 374 Santo Tirso, com a finalidade de proteção de pessoas e bens.
+Pretende a colocação de 1 câmara que capta imagens da máquina de depósito de quantias em numerário.
+A comissão de trabalhadores emitiu parecer acerca da instalação do referido sistema de videovigilância, não se opondo à instalação do sistema com a câmara especificamente direcionada para o equipamento de tratamento de numerário.
+Não há visualização de imagens em tempo real.
+Não há transmissão de imagens para o exterior do local da instalação do sistema.
+Em face da finalidade, afigura-se que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, alínea c), da Lei n.° 67/98 de 26 de outubro - LPD).
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do Trabalho (1).
+(1) No mesmo sentido ver Acórdão do STJ Processo n.° 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 7263/13 2 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Embora não tenha sido declarado, alerta-se que a presente autorização não abrange a recolha de som.
+A recolha de imagens deve confinar-se ao perímetro da propriedade e as câmaras não podem incidir sobre as zonas limítrofes ou a via pública.
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (n.º 1 do artigo 11° da LPD), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à CNPD (n.º 2 do mesmo artigo). Ao disponibilizar as imagens ao titular dos dados, o responsável deve adotar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, nos termos exigidos pelo n.º 5 do artigo 31° da Lei n.º 34/2013, de 16 de maio.
+O responsável deve adotar as medidas de segurança previstas nos artigos 14° e 15° da LPD. Independentemente das medidas de segurança adotadas pela entidade responsavel pelo tratamento cabe-lhe assegurar o resultado da efetiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre atualizadas a data e hora das gravações.
+Considera-se, por isso, legítimo o tratamento - autorizando-se o tratamento (artigo 7.°, n.° 2 e 28.°, n.° 1, al. a), da LPD) - devendo ser observadas, ainda, as seguintes termos:
+Responsável pelo tratamento - Transcovizela, Transportes Públicos, S.A.
+Finalidade - Proteção de pessoas e bens.
+Categorias de dados pessoais tratados - Imagens captadas pelo sistema.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 7263/13 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Comunicação de imagens - As imagens só podem ser tratadas nos termos da lei processual penal. Detetada a eventual infração penal, o responsável, juntamente com a participação, enviar à autoridade judiciária ou ao órgão da polícia criminal competentes as imagens recolhidas. Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no âmbito de processo judicial devidamente identificado, em cumprimento do despacho fundamentado da autoridade judiciária competente. Fora destas condições não pode o responsável comunicar as imagens.
+Interconexões - Não há
+Fluxo transfronteiriço para países terceiros - Não há.
+Conservação de dados - 30 dias.
+A presente autorização não abrange o sistema instalado em Guimarães, Estação de
+Central de Camionagem.
+Lisboa, 21 de outubro de 2014
+Filipa Calvão (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

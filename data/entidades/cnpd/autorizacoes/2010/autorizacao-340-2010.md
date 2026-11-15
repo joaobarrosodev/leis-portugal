@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CALDEIRA & CRUZ, GESTÃO DE RESTAURANTES, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:58:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 340/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21252](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21252).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 6510/2009
+AUTORIZAÇÃO N.° 340 / 2010
+A Caldeira & Cruz, Gestão de Restaurantes, Lda. notificou à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de "Gestão da informação dos Serviços de Segurança e
+Saúde no Trabalho".
+A CNPD já se pronunciou na sua Deliberação n.º 41/2006 (Disponível em http://www.cnpd.pt/bin/orientacoes/MedicinaTrabalho-delgeral.pdf) sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, Lei 67/98, de 26 de Outubro, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela
+Deliberação n.° 41 /2006.
+O tratamento dos dados pessoais é feito em subcontratação pela SO -
+Intervenção em Saúde Ocupacional, SA. Com esta deve o responsável celebrar o contrato previsto no artigo 14.° - n.º 3 da Lei n.º 67/98, de 26 de
+Outubro.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Caldeira & Cruz, Gestão de Restaurantes,
+Lda.
+Finalidade: Gestão da informação dos Serviços de Segurança e Saúde no
+Trabalho.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categoria de Dados pessoais tratados: Nome, sexo, data de nascimento, idade, morada, telefone, BI n.º utente SNS, profissão, categoria profissional, data da contratação, habilitações literárias, estado civil, dados clínicos, exames complementares, actividade física, tipo de alimentação, dados de gravidez, acidentes de trabalho, data de consulta, data de exames e dados da "ficha de aptidão".
+Entidades a quem podem ser comunicados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da
+Inspecção-Geral de Trabalho.
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão"
+Formas de exercício do direito de acesso e rectificação: pessoalmente ou por escrito junto do Departamento de Recursos Humanos. Quanto ao tratamento de dados de saúde, o direito de acesso deverá ser exercido junto do médico do trabalho e no exercício do direito de rectificação deste tipo de dados, deverá o trabalhador exercê-lo directamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não se verificam.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: os dados pessoais podem ser conservados pelo período máximo de um ano após a cessação do vínculo laboral à entidade. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária, designadamente à revisão judicial da incapacidade.
+Dos termos e condições fixados na Deliberação n.º 41 / 2006 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve,
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 18 de faveiro de 2010.
+Ana Roque, Carlos Campos Lobo, Helena Delgado António, Luís Barroso, Luís Paiva de Andrade (Relator), Vasco Almeida
+Luis Lingnau da Silveira (Presidente)

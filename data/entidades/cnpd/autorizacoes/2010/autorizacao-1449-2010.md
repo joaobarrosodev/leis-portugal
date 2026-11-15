@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASSOCIAÇÃO UNIVERSIDADE - EMPRESA PARA O DESENVOLVIMENTO - TECMINHO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:39:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1449/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22483](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22483).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PROCESSO N.º 545/2010 lula
+AUTORIZAÇÃO N.° /2010
+PEDIDO
+A TecMinho - Associação Universidade - Empresa para o Desenvolvimento notificou à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de "Gestão dos seus formandos"
+Pretende tratar os seguintes dados pessoais: Nome, Morada, Data do nascimento,
+Naturalidade e nacionalidade, Números de BI e NIF, Habilitações literárias e profissionais, Entidade patronal e tipo de vínculo a ela.
+APRECIAÇÃO
+A TecMinho é uma associação de direito privado sem fins lucrativos, que tem tido como promotores a Universidade do Minho e a Associação dos Municípios do Vale do
+Ave. A sua missão fundamental consiste em constituir-se como uma estrutura de interface daquela universidade, promovendo a sua ligação à sociedade, sobretudo nas vertentes da ciência e tecnologia, contribuindo para o desenvolvimento regional através da melhoria de competitividade das organizações e aumento das competências dos indivíduos. A sua busca de inovação e desenvolvimento tecnológico realiza-se, nomeadamente, através de acções de formação.
+Dados pessoais
+Os dados pessoais a tratar são adequados, pertinentes e não excessivos em relação à finalidade que é determinada, explicita e legitima (cf. artigo 5.° - 1 - b) e c) da Lei 67/98, de 26 de Outubro).
+Condição de legitimidade
+A condição de legitimidade do tratamento é a prevista no artigo 6.° corpo da Lei 67/98, de 26 de Outubro, consentimento.
+Segurança
+Devem ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Independentemente das medidas tomadas é o responsável pelo tratamento que está obrigado a garantir sempre a segurança da informação.
+Direito de Informação
+Considerando que importa assegurar um tratamento leal e de acordo com os princípios da boa-fé (cf. artigo 5° n° 1, alínea a), da Lei 67/98, de 26 de Outubro), dando-se particular atenção ao direito de informação (cf. artigo 10° n° 1 da Lei 67/98, de 26 de
+Outubro). Deve o responsável pelo tratamento, no momento da recolha dos dados garantir que são fornecidas ao formando todas as informações constantes do n° 1 do artigo 10° da Lei 67/98, de 26 de Outubro.
+Direito de rectificação
+O direito de rectificação é exercido junto do responsável pelo tratamento, que deverá estabelecer a forma como o titular dos dados o pode fazer, no momento da prestação do direito de informação.
+Em face do exposto e tendo em atenção o estatuído nos artigos 23.° - n.° 1 - b) e 30.º da
+Lei 67/98, de 26 de Outubro, autoriza-se o presente tratamento de dados, nos seguintes termos:
+Responsável: TecMinho - Associação Universidade - Empresa para o
+Desenvolvimento.
+Finalidade: Gestão dos seus formandos.
+Categorias de dados pessoais tratados: Nome, Morada, Data do nascimento,
+Naturalidade e nacionalidade, Números de BI e NIF, Habilitações literárias e profissionais, Entidade patronal e tipo de vínculo a ela.
+Transferência de dados para países terceiros: Não há.
+Interconexões: Não há.
+Forma e condições de exercício de conhecer e eliminar dados pessoais: Por comunicação dirigida ao responsável pelo tratamento.
+Prazo de conservação: Um anos após o fim da acção de formação sem prejuízo da conservação para além daquele prazo por força de obrigação legal.
+Lisboa, 2de de AGi ( de 2010
+Ana Roque, Carlos Campos Lobo, Helena Delgado António, Luís Barroso, Luís Paiva de Andrade (Relator), Vasco de Almeida,
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

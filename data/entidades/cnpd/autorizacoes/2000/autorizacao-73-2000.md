@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 73/2000
-official_date: null
+official_date: '2000-12-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CENTRO DE CIRURGIA TORÁCICA - (HOSPITAL DE SÃO JOÃO)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:08:28Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 73/2000
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10281](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10281).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 415/98
+AUTORIZAÇÃO N.° 73/2000
+O Centro de Cirurgia Torácica do Hospital de S. João do Porto vem notificar a CNPD da recolha de imagens relativo ao sistema de Video-Conferência. O Sistema de
+Video-Conferência «pretende vir a ligar, através do RIS (Rede de Informação da
+Saúde), o Serviço de Cirurgia Torácica do H.S. João com o Serviço de Cardiologia do
+Hospital de S. Marcos de Braga e Serviço de Cardiologia do Hospital de Santo
+António, para discussão dos casos cirúrgicos».
+Ao tratamento de dados pessoais, com recursos à captação, tratamento e difusão de sons e imagens, é aplicável a lei 67/98, de 26 de Outubro (cf. art. 4.° n.º 4). O tratamento é necessário para efeitos de medicina preventiva, diagnóstico médico e prestação de cuidados de saúde (cf. art. 7.º n.º 4 da Lei 67/98).
+Em face da evolução das novas tecnologias é agora possível a troca de informação entre profissionais de saúde - «medicina partilhada» - para assegurar uma maior eficiência e rigor em relação ao diagnóstico e à prestação de cuidados de saúde. O segredo médico já não se estabelece, no rigor dos princípios tradicionais, na relação médico/doente mas - graças ao trabalho em equipa - na relação doente/equipa médica.
+O Centro de Cirurgia torácica deve adoptar medidas técnicas e fisicas que assegurem, de forma efectiva, o segredo profissional em relação às imagens recolhidas.
+Há que assegurar, igualmente, o direito de informação - conforme resulta do artigo 10.° da Lei 67/98 - quando o titular dos dados está em condições de ser informado.
+Os dados são pertinentes, necessários e adequados à finalidade declarada. A CNPD autoriza o tratamento (cf. art. 4.° n.º 4, 27.° n.º 1, 28.° n.º 1 al a) e 29.° da Lei 67/98, de 26 de Outubro), consignando-se o seguinte:
+1. Responsável: Centro de Cirurgia Torácica do Hospital de S. João do Porto.
+2. Categorias de dados pessoais tratados: Gravação de imagens através de 5 câmaras.
+Rua de São Bento, 148 - 3.°.
+- 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. Finalidade: O Sistema de Video-Conferência «pretende vir a ligar, através do RIS (Rede de Informação da Saúde), o Serviço de Cirurgia Torácica do H.S. João com o
+Serviço de Cardiologia do Hospital de S. Marcos de Braga e Serviço de Cardiologia do Hospital de Santo António, para discussão dos casos cirúrgicos».
+4. Entidades a quem podem ser transmitidos: Serviço de Cardiologia do Hospital de S. Marcos de Braga e Serviço de Cardiologia do Hospital de Santo António.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação pessoal, através do médico assistente.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Prazo de conservação: 1 ano.
+Informa-se que a eventual transmissão de imagens - para a mesma finalidade - por parte do Serviço de Cardiologia do Hospital de S. Marcos de Braga e Serviço de
+Cardiologia do Hospital de Santo António ao Centro de Cirurgia Torácica do H.S.
+João carece, igualmente, de autorização da CNPD.
+Lisboa, 5 de Dezembro de 2000
+Armaden L
+Amadeu Guerra (relator)
+Catarin formente Castos
+Catarina Castro
+João Simões de Almeida
+Mário Varges Gomes
+Labescat (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

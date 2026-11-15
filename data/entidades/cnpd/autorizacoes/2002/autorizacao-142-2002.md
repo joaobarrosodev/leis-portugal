@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 142/2002
-official_date: null
+official_date: '2002-04-30'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COFIDIS (SUCURSAL DA S.A. FRANCESA COFIDIS)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:01:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 142/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14080](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14080).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 308/98
+AUTORIZAÇÃO N.º142 /2002
+A COFIDIS - Compagnie Financière Pour La Distribution, SA veio pedir autorização para a «transmissão de informação sobre os seus clientes em situação de mora, para a base de dados da Credinformações».
+1. A comunicação de dados à Credinformações tem como fundamento próximo uma disposição legal: o art° 83º do DL 298/92 de 31 de Dezembro. Este preceito é expresso ao permitir às sociedades financeiras a organização, isob regime de segredo, de um sistema de informações recíprocas com o fim de garantir a segurança das operações" -tarefa que, no caso em apreço, está atribuída à Credinformações.
+A Comissão considera que os titulares dos dados devem ter conhecimento das finalidades do ficheiro e da finalidade determinante da recolha de dados (cf. art. 10.° da
+Lei 67/98).
+Esta obrigação de informação - que impende sobre as entidades responsáveis de cada um destes tratamentos - é independente da obrigação que tem a Credinformações, em relação ao seu tratamento, de informar os titulares da inclusão/registo dos seus dados pessoais.
+2. A Cofidis deverá dar particular atenção à actualização de dados, devendo comunicar à Credinformações - de imediato - a regularização da obrigação em mora. Neste caso, e tal como decorre do artigo 5.° n.º 1 al. d) da Lei 67/98, a comunicação da «alteração da situação» - que visa a actualização de dados na base de dados da responsabilidade da
+Credinformações - deverá ser feita imediatamente após a regularização da dívida.
+Caso seja adoptada outra metodologia para actualização - vg. através do envio de suporte magnético - deve a Cofidis informar qual o prazo máximo para a actualização de dados.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 30 de Abril de 2002 fraden
+Amadeu Guerra (relator)
+Catarindementelastor
+Catarina Sarmento e Castro
+Alentes R
+Alexandre Pinheiro ro_
+Luís Durão Barroso
+Mário Varges Gomes
+Com 9.91oe
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

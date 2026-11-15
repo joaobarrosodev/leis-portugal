@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARIA DA CONCEIÇÃO FERREIRA DOS SANTOS OLIVEIRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:17:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1298/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2017](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2017).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n° 802/07
+AUTORIZAÇÃO N 238
+/2007 1. Maria da Conceição Ferreira dos Santos Oliveira, veio notificar o tratamento de videovigilância em funcionamento nas suas instalações, sitas na Rua da Rasa, em
+Vila Nova de Gaia.
+A entidade declara que não existe Comissão de Trabalhadores.
+Pretende-se colocar câmaras que captam as seguintes áreas: perímetro exterior limitado pelos muros da propriedade.
+Através da deliberação n° 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da empresa no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos.
+As instalações podem ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+() Disponível in http://www.cnpd.pt/bin/orientaçoes/prinicpiosvideo.htm
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o reconhecimento das pessoas e com protecção dos seus direitos fundamentais (), bem como registar e documentar a eventual prática de infracções. O tratamento de som ou imagem e a finalidade delineada, não tem que "situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+3. A Lei n.º 5/2006, de 23 de Fevereiro, aprovou o regime jurídico das armas e munições, sendo acautelado, através da Portaria n° 933/2006 de 8 de Setembro, os riscos de intrusão, furto ou roubo nos casos em que existam a concentração e a guarda de armas. Assim, esta portaria vem a impor, no seu artigo 12°/8, que as instalações destinadas ao exercício de actividade de armeiro sejam dotadas de sistemas de vídeo vigilância permanente e de alarme contra intrusão com registo de movimento no seu interior.
+() O artigo 8.° n.º 2 obriga, como condições a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 4.Assim, forçoso será de concluir que a videovigilância é condição para o funcionamento de instalações destinadas ao exercício de actividade de armeiro, como é o presente caso.
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigos 48.°, n.º 6 e 117°, n.º 2, alínea a), da Lei n.º 5/2006, de 23 de Fevereiro e artigo 12.°, n.º 8, da Portaria n.º 933/2006, de 8 de Setembro e, ainda, artigos 8.°, n.° 2, e 28.°, n.º 1, alínea a), da Lei n.º 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Maria da Conceição Ferreira dos Santos
+Oliveira 2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem, com indicação de que se encontra conforme ao Decreto-Lei 35/2004 e não o Decreto-lei 231/98, de 22/7 que se encontra revogado.
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias conforme ao Decreto-Lei 35/2004.
+8. A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+Lisboa, / 6 dejulho 2007
+Ana Roque
+Conto esto Coro.
+Helena Delgado António
+Vasco Almeida (Relator)
+Luís Barroso
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

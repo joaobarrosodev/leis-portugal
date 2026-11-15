@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: EUREST PORTUGAL - SOCIEDADE EUROPEIA DE RESTAURANTES, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 7 de 7 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,119 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:26:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 234/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26971](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26971).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 7906/08
+AUTORIZAÇÃO N° 234 12011 1 - O Pedido 1. A empresa Eurest Portugal, Lda. - Sociedade Europeia de Restaurantes veio notificar os tratamentos de videovigilância. (AS Grândola - Sentido
+Lisboa/Algarve)
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 16 câmaras no corredor técnico, entrada de serviço,
+POS, zona de cafetaria, sala de refeições, entrada da unidade, escritório, loja, self.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD) elaborou o projecto de autorização de 20 de Setembro de 2010, no sentido de não autorizar a recolha de imagens na sala de refeições (zona de mesas) e no interior do escritório (ressalvando, contudo, a captação de imagens sobre o cofre e/ou zonas de depósitos de valores), tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 11174, de 28 de
+Setembro de 2010, nos termos e para os efeitos do disposto no artigo 100.° do
+Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projecto, sustentando, em síntese que: « (...)
+as paragens que as pessoas em viagem fazem para tomar alguma refeição, são muitas vezes momentos de descontracção, para a quebra de rotina de viagem, mas ainda assim, marcados pela brevidade, considerando a pressa na chegada ao destino. Estas paragens e a estada dos viajantes nas cafetarias e zonas de refeição das áreas de serviço, têm-se pois, revelado excelentes oportunidades para os carteiristas, na medida em que os mesmos aproveitam a paragem momentânea e descontraída - o que muitas vezes é sinónimo de distraída - dos mais incautos numa estação de serviço (...)».
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No que diz respeito à zona do escritório a entidade requerente propugnou o seguinte: «No escritório apenas foi autorizada a colocação de câmaras dirigidas ao cofre de valores. Porém, tal não permite o visionamento da zona da secretária, onde se faz a contagem de dinheiro a colocar e a retirar do cofre.
+Ora, tal recolha de imagens reveste extrema importância para a Requerente, para a protecção de património na empresa».
+Relativamente aos POS a requerente defende, ainda, que «(...) em função da forma como se encontra redigida a proposta de decisão, não compreende se a limitação abrange todo o sistema de POS ou apenas os terminais de pagamento.
+Com efeito, POS e um ponto de venda, sendo normalmente constituído por uma caixa registadora. (...) O objectivo da Requerente é, exactamente monitorizar os acessos à caixa registadora, pelo que não fará qualquer sentido a limitação que se visa impor, porque de nada serve aos interesses da Requerente a captação de outras imagens, que não aquelas».
+Foi ainda referido pela entidade requerente que «Do projecto de decisão em apreço resulta igualmente, a recusa de autorização de captação de imagens nos acessos aos sanitários. (...) Apesar de as câmaras captarem o acesso aos sanitários destinados ao uso dos trabalhadores, as mesmas destinam-se efectivamente à captação de imagens relativamente ao corredor técnico, incluindo o acesso aos armazéns que nele se faz. Assim a Requerente tem por finalidade proteger-se contra o furto de produtos que se encontram armazenados naquele local, vigiando o respectivo acesso».
+Em suma a entidade concluiu que «(...) resta chamar a atenção a anterior autorização (...) conferida à requerente em cujos os pedidos se identificava
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS claramente a fixação de câmaras nas salas de refeições e a referida autorização foi conferida sem qualquer limitação semelhante àquela que se visa impor».
+II - Análise
+Através da deliberação n.° 61/2004, de 19 de Abril('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nos estabelecimentos de restauração no âmbito da protecção de pessoas e bens na medida em que se trata de local frequentado por muitas pessoas, com manuseamento de dinheiro.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+() Disponível in http://www.cnpd.pt/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Acontece que a CNPD continua a entender que a captação de imagens no interior das salas/áreas de refeições (zonas de mesas) se afigura excessiva e desproporcionada face à finalidade que a entidade requerente se propõe a atingir com a colocação de câmaras nesses mesmos locais.
+É que tal como a própria requerente defende a zona de refeições é uma zona onde os clientes permanecem enquanto espaço de lazer, descanso e descontracção onde, em nosso entender, não devem os clientes ser filmados durante esses momentos.
+Assim sendo e porque se entende a zona de refeições enquanto espaço de lazer e dedicado a momentos recreativos, considera a CNPD que a captação de imagens é, naquele local, uma intromissão desproporcionada na liberdade de movimentos e mesmo na privacidade de quem ali acede.
+Note-se que a finalidade (a da prevenção de ilícitos criminais designadamente furtos), pode ser atingida sem que seja violada a intimidade e privacidade dos clientes, colocando-se câmaras nos acessos àqueles locais, que provavelmente permitirá a identificação do infractor.
+Mais se acrescenta que não obstante a ausência de alterações legislativas no que concerne à videovigilância o entendimento da CNPD, enquanto órgão colegial, não é estático, evoluindo e reconhecendo novas realidades quando confrontados com os inúmeras apreciações de pedidos ao longo do tempo.
+No que diz respeito ao escritório, local onde se efectua a contagem de valores, a CNPD autoriza a captação de imagens para a secretária enquanto se procedem àquela função.
+Deste modo, e partindo do pressuposto de que não se encontra ali um trabalhador em funções permanentes e contínuas a CNPD autoriza a instalação de câmaras no interior do escritório.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Porventura, se no interior do escritório existir um posto de trabalho fixo, alerta-se para que apenas se permite a captação de imagens sobre o cofre e sobre a secretária mas apenas durante a realização de contagem de valores em numerário.
+Já no que concerne o acesso às instalações sanitárias note-se que nos presentes autos a
+CNPD não realizou qualquer restrição a esse local, porque, in casu, a situação parecia não se verificar. Contudo e visto que a própria entidade referiu essa factualidade a
+CNPD adverte que, no presente caso, existindo captação de imagens nos acessos aos sanitárias a mesma não é autorizada, pelo que as câmaras devem ser recolocadas de forma a captar apenas o acesso aos armazéns (corredor técnico) sem que se possa captar o acesso às instalações sanitárias. Caso tal não seja possível as câmaras devem ser retiradas.
+Salienta-se ainda que a CNPD entende a captação imã intromissão desproporcionada e excessiva a captação de imagens nos acessos às instalações sanitárias justificadas não só na invasão de privacidade do trabalhador bem como na susceptibilidade de controlo do desempenho profissional dos mesmos.
+Finalmente no que diz respeito aos POS a CNPD esclarece o seguinte: reconhece-se a necessidade, pertinência e adequação de captação de imagens sobre a totalidade dos pontos e /ou terminais de pagamento, incluindo a captação de imagens sobre a zona de caixas, ou seja em suma para a zona de pagamento, o que a CNPD proíbe é a captação de imagens sobre a digitação de códigos, isto é, captação de imagens que permitam o reconhecimento dos códigos associados aos cartões de quem utiliza aquela via de pagamento.
+Por outras palavras, a restrição de captação de imagens limita-se aquele terminal de pagamento automático onde se digitam os códigos, sendo certo que, o que se pretende evitar é a digitação de códigos associados aos cartões de débito.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Considera-se, por isso, legitimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 8.° n.º 2 e 28.° n.° 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Eurest Portugal, Lda. - Sociedade Europeia de
+Restaurantes 2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.? da Lei 67/98.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem com os seguintes dizeres: Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem». (Art.º13.º n.º3 do Decreto-Lei n.º35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a actividade laboral. (cf. artigo 20.° do Código do Trabalho).
+9. A recolha de imagens deve confinar-se ao perímetro da propriedade e não podem envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+10. As câmaras não devem estar direccionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+11. Não é autorizada a recolha de imagens no interior da sala de refeições (zona de mesas), pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento.
+Contudo, ressalva-se a possibilidade de captação de imagens nos acessos à sala de refeições (zona de mesas).
+Lisboa, A feveReiro 2011
+Ana Roque, Carlos Lobo, Helena Delgado António, Vasco Almeida, Luís Barroso,
+Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente), que relatou.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

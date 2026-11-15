@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1758/2016
-official_date: null
+official_date: '2016-02-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Ana Cristina Tavares Paixão dos santos Girão'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,83 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T15:02:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1758/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/88058](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/88058).
+Processo N.° 6993/2015 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃON° 1758 12016
+I. Pedido
+Ana Cristina Tavares Paixão dos Santos Girão, no âmbito de Doutoramento em saúde
+Pública, pela Escola de Saúde Pública da Universidade Nova de Lisboa, notificou à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo intitulado "Prevalência da Síndrome Metabólica em jovens alunos do Ensino Superior. Fatores Preditivos.".
+O objetivo do estudo consiste em avaliar quais os fatores de risco associados à
+Síndrome Metabólica (SM) - fatores potenciadores -, em adultos jovens, alunos do ensino superior.
+O estudo decorrerá na Escola Superior de Tecnologia da Saúde e terá como participantes 500 alunos com idade compreendida entre os 17 e os 25 anos.
+Os dados serão recolhidos num "caderno de recolha de dados" em formato eletrónico, no qual não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico investigador.
+A responsável pretende recolher os seguintes dados: código do participante; Valores bioquímicos: glicemia, colesterol, triglicerideos, transaminases, leptinemia e proteína c reativa, amostra de de sangue periférico, por punção venosa. T.A.; Medida da cintura e da anca; Ecografia abdominal (uso de ultrassons-inofensivo) e DEXA abdominal (radiação inferior aquela a que estamos sujeitos no nosso dia a dia normal); Idade, género, área de residência, tipo de alimentação, consumo de álcool e prática de atividade física.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.° 6993/2015 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os destinatários são ainda informados sobre a natureza facultativa da sua participação e garantia de confidencialidade no tratamento, caso decidam participar, recolhendo a investigadora o seu consentimento informado para o efeito.
+II. Análise
+A CNPD já se pronunciou na sua Deliberação n.º 1704/2015 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto (Lei da Proteção de Dados Pessoais - LPDP), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos de investigação na área da saúde.
+Porque em grande parte referentes à vida privada e também à saúde, os dados recolhidos pela requerente têm a natureza de sensíveis, nos termos do disposto no n.º 1 do artigo 7.° da LPDP.
+Em regra, o tratamento de dados sensíveis é proibido, de acordo com o disposto no n.º 1 do artigo 7.° da LPD. Todavia, nos termos do n.º 2 do mesmo artigo, o tratamento de dados da vida privada e de saúde é permitido, quando haja uma disposição legal que consagre esse tratamento de dados, quando por motivos de interesse público importante o tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável ou quando o titular dos dados tiver prestado o seu consentimento.
+Não estando preenchidas as duas primeiras condições de legitimidade, o fundamento de legitimidade só pode basear-se no consentimento dos titulares dos dados ou dos representantes legais, quando os titulares dos dados sejam incapazes.
+Assim, é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento (cf. artigo
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.º 6993/2015 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3.°, alínea h), da LPDP), o qual deve ser obtido através de uma "declaração de consentimento informado" onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPDP, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+O acesso aos dados identificados dos participantes deve ser feito no estrito cumprimento do disposto na Lei n.° 21/2014, de 16 de abril, com as alterações introduzidas pela Lei n.º 73/2015, de 27 de junho (Lei da investigação clínica).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1 alínea a) da LPDP), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+III. Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º 1 do artigo 27.
+°, alínea a) do n.º 1 do artigo 28.° e artigo 30.° da Lei de Proteção de Dados Pessoais, com as condições e limites fixados na referida Deliberação n.º 1704/2015, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados supra referido, consignando-se o seguinte:
+Responsável pelo tratamento Ana Cristina Tavares Paixão dos Santos Girão;
+Finalidade: estudo intitulado "Prevalência da Síndrome Metabólica em jovens alunos do
+Ensino Superior. Fatores Preditivos";
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.° 6993/2015 | 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Categoria de Dados pessoais tratados: código do participante; Valores bioquímicos:
+glicemia, colesterol, triglicerídeos, transaminases, leptinemia e proteína c reativa, amostra de de sangue periférico, por punção venosa. T.A.; Medida da cintura e da anca;
+Ecografia abdominal (uso de ultrassons-inofensivo) e DEXA abdominal (radiação inferior aquela a que estamos sujeitos no nosso dia a dia normal); Idade, género, área de residência, tipo de alimentação, consumo de álcool e prática de atividade física;
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto da responsável;
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: a chave de codificação dos dados deve ser destruída no prazo de 5 anos após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 1704/2015 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 16 de fevereiro de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

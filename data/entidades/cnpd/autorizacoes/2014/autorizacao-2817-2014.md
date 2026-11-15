@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2817/2014
-official_date: null
+official_date: '2014-03-11'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BBVA - INSTITUIÇÃO FINANCEIRA DE CRÉDITO, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T21:55:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2817/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63075](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63075).
+Processo n.° 3381/2010|1 /
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 2817/2014
+BBVA - Instituição Financeira de Crédito, S.A. notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transações comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+Plurimarketing - Telemarketing e Marketing Directo, S.A. e Global Sales Solutions Lines,
+S.L. são as entidades encarregues do processamento da informação, as quais se encontram vinculadas à entidade responsável pelo tratamento por via de subcontratação.
+A CNPD já se pronunciou na sua Deliberação n.º 629/20101 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+De acordo com a Deliberação n.º 629/2010, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. alínea b) do artigo 5.° da Lei 67/98, de 26 de outubro).
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequívoco do titular (n.° 2 do artigo 7° da Lei n.º 67/98, de 26 de outubro).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efetue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respetivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que
+' Disponível em http://www.cnpd.pt/bin/orientacoes/DEL629 2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.º 3381/2010 2 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS demonstre a prestação do direito de informação e o consentimento do trabalhador em relação à gravação efetuada com a finalidade específica em causa, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20° do Código de Trabalho, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.° 2, 28.° n.º 1, alínea a), 29.° e 30.°, n.° 1.° da Lei 67/98, de 26 de outubro, nos seguintes termos:
+Responsável
+BBVA - Instituição Financeira de Crédito, S.A.
+Prova das transações comerciais e quaisquer outras comunicações
+Finalidade respeitantes à relação contratual
+Dados de tráfego e conteúdo das chamadas
+Categoria de dados pessoais tratados realizadas
+Forma de exercício dos direitos de acesso e retificação
+Por solicitação ao responsável
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados 90 dias
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de outubro.
+Dos termos e condições fixados na Deliberação n.º 629/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Esclarece-se que a presente Autorização não inclui a finalidade de monitorização da qualidade do serviço prestado, nem a finalidade de cumprimento das obrigações
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.º 3381/2010 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS relativas ao serviço de emergência de serviço público, que por constituírem finalidades diferentes carecem de notificações autónomas.
+Lisboa, 11 de março de 2014
+Luís Paiva de Andrade (Relator), Luís Barroso, Ana Roque, Carlos Campos Lobo, Maria
+Cândida Guedes de Oliveira.
+tile
+Filipa Calvão (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 www.cnpd.pt
+Fax: 213 976 832 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Associação Portuguesa dos Profissionais de Sector Funerário'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,85 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T11:50:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 13163/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/99284](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/99284).
+Processo n.º 9945/2016 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 13163/2016 1 - Pedido
+Associação Portuguesa dos Profissionais do Sector Funerário vem notificar à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais que tem como finalidade a gestão de recursos humanos.
+Os dados pessoais objeto de tratamento são os seguintes: Nome, data de nascimento, estado civil, morada, contactos telefónicos, n° do documento de identificação, NIF, NIB,
+NISS, habilitações literárias, sócio de sindicato, composição do agregado familiar.
+A recolha de dados é efetuada de forma direta, mediante preenchimento de impresso.
+A requerente pretende comunicar dados à Segurança Social, Autoridade Tributária e
+Aduaneira, Inspeção-Geral do Trabalho, Sindicatos, no âmbito de obrigações legais. No âmbito de relações contratuais, pretende comunicar dados a instituições financeiras, para pagamento de retribuições, a seguradoras, no âmbito dos seguros contratados, a caixas de previdência, a fundos de pensões, a solicitadores de execução e a tribunais.
+Está assegurado o direito de acesso aos dados pelo respetivo titular mediante pedido formulado através do endereço eletrónico rhumanos@servilusa.pt.
+No formulário de notificação são descritas as medidas de segurança física e lógica que a requerente se propõe adotar.
+Pretende-se a conservação dos dados pelo período de 10 anos após o fim da relação laboral. Pretende ainda a conservação dos dados para fins históricos.
+2 - Apreciação
+O tratamento de dados em apreciação decorre em grande medida de obrigações contratuais que vinculam a requerente e o titular dos dados, sendo por isso os dados recolhidos, de uma maneira geral, necessários para a execução do contrato. No entanto, são igualmente
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 9945/2016 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS tratados dados pessoais relativos à vida privada do trabalhador, os quais têm a natureza de dados sensíveis de acordo com o disposto no n.º 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto (Lei de Proteção de Dados
+Pessoais - LPDP).
+Em regra, o tratamento de dados sensíveis é proibido, de acordo com o disposto no n.º 1 do artigo 7.° da LPDP. Todavia, nos termos do n.º 2 do mesmo artigo, o tratamento de dados da vida privada e de saúde é permitido, quando haja uma disposição legal que consagre esse tratamento de dados, quando por motivos de interesse público importante o tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável ou quando o titular dos dados tiver prestado o seu consentimento.
+No caso em apreço, os dados sensíveis tratados têm o seu fundamento de legitimidade em várias disposições legais (laborais, fiscais, segurança social) que impõem a obrigação legal do seu tratamento, cumprindo o n.° 2 do artigo 7.° da LPDP.
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (cf. alínea c) do n.° 1 do artigo 5.° da LPDP).
+O dado "sócio de sindicato" implica o conhecimento da filiação sindical do titular. Atendendo a que se trata de um dado sensível nos termos do n.º 3, do artigo 35.º da Constituição da
+República Portuguesa e do n.º 1 do artigo 7.° da LPDP, só é comunicado à requerente por ato voluntário da iniciativa do titular dos dados. Efetivamente, o tratamento deste dado é legítimo quando for importante para o processamento do vencimento do trabalhador, uma vez que a lei autoriza que a entidade empregadora possa tratar este dado com a finalidade de realizar diretamente o pagamento da quota devida ao sindicato pelo trabalhador sindicalizado, a seu pedido.
+No momento da recolha ou da atualização dos dados existentes devem ser assegurados ao titular os direitos de informação nos termos previstos no artigo 10.° da LPDP. Durante o período de conservação dos dados deve ser garantido o exercício dos direitos de retificação e de eliminação, consignados na alínea d) do artigo 11.° da LPDP.
+Mostra-se garantido o exercício dos direitos de informação e acesso, correção e eliminação dos titulares dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39.
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 9945/2016 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Nada obsta à comunicação de dados em situações de cumprimento de obrigações legais ou contratuais e com fins devidamente especificados, devendo limitar-se aos dados pessoais necessários para o cumprimento das referidas obrigações.
+Nos termos do artigo 14.° da LPD o responsável pelo tratamento deve implementar medidas de segurança lógicas e físicas adequadas a garantir a segurança dos dados pessoais.
+Todavia, independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados tratados.
+Os dados devem ser conservados pelo tempo estritamente i...necessário para a prossecução das finalidades da recolha ou do tratamento posterior" - cf. artigo 5.° n.º1, alínea e), da LPD -, pelo que "in casu" se entende que o prazo de conservação não deverá exceder o tempo de 1 (um) ano após a cessação do vinculo laboral, sem prejuízo da conservação para além daquele prazo por força de obrigação legal. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária, designadamente à revisão judicial da incapacidade.
+Para fins históricos, autoriza-se a conservação dos dados em cópias de backup não acessíveis em linha.
+3 - Conclusão
+Face ao exposto, nos termos 7.° n.º 2, 28.° n.º1, alínea a), e 30.° n.° 1 da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto, a Comissão Nacional de
+Protecção de Dados delibera autorizar o tratamento de dados pessoais notificado, consignando-se o seguinte:
+Responsável: Associação Portuguesa dos Profissionais do Sector Funerário
+Finalidade: Gestão de Recursos Humanos
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 9945/2016 | 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categoria de dados pessoais tratados: nome, data de nascimento, estado civil, morada, contactos telefónicos, n° do documento de identificação, NIF, NIB, NISS, habilitações literárias, sócio de sindicato, composição do agregado familiar
+Comunicações de dados: no cumprimento de obrigações legais ou contratuais
+Forma de exercício do direito de acesso e retificação: por solicitação à responsável através do endereço eletrónico rhumanos@servilusa.pt
+Interconexões: não há
+Fluxo transfronteiriço de dados para países terceiros: não há
+Prazo de Conservação: Um ano após a cessação do vínculo laboral, sem prejuízo da conservação para além daquele prazo em caso de processo judicial e até ao limite de seis meses após o trânsito em julgado da respetiva sentença. Permite-se que para efeitos de faturação o prazo de conservação se estenda a 10 anos nos termos do artigo 123.° n.º 4 do
+Código de IRC, na redação da Lei n.º 7-A/2016, de 30 de março. Admite-se ainda a conservação do processo individual do trabalhador para fim de registo histórico.
+Lisboa, 2 • qu
+Filipa Calvão (Presidente)
+27e 2. 2016
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

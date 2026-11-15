@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 122/2006
-official_date: null
+official_date: '2006-03-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ISABEL MARIA LOPES RAIMUNDO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:13:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 122/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6412](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6412).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.° 15605/1813/05
+Autorização n.°|22/2006 1-Isabel Maria Lopes Raimundo solicita à CNPD autorização para a elaboração de um trabalho de dissertação de mestrado em Ciências da Educação, a apresentar na
+Faculdade de Psicologia e Ciências da Educação da Universidade de Coimbra com a finalidade de realizar um estudo académico.
+Os dados respeitam à identificação de crianças, avaliação dos níveis de literacia à entrada do 1.° ano do 1.° ciclo e hábitos familiares no domínio da literacia.
+Os dados são conservados até à conclusão do trabalho académico a que se destinam.
+A recolha faz-se através da Escola EB1 da Solum.
+Será recolhido previamente o consentimento dos pais das crianças, dando-lhes conhecimento prévio da finalidade do estudo e recolha de dados.
+Está prevista como regra de segurança a existência de uma password de acesso às informações.
+2- Tendo a natureza de sensíveis os dados abrangidos pelo estudo em causa, por se tratarem de dados relativos a hábitos de literacia, o respectivo tratamento só pode basear-se (nos termos do n° 2 do artigo 7° da Lei n° 67/98, de 26 de Outubro) no consentimento expresso, esclarecido e livre dos titulares dos dados (ou seus representantes). No caso concreto, o consentimento só pode ser prestado pelos pais.
+É de salientar que, nos termos do artigo 10° da Lei n.º 67/98, a declaração de consentimento tem que, obrigatoriamente, conter a identificação do responsável pelo tratamento, a finalidade do tratamento, o direito de acesso, rectificação e eliminação, bem como informação de que o consentimento inicialmente prestado pode ser retirado a todo o tempo.
+A CNPD autoriza a realização do tratamento de dados notificados com vista à concretização da tese de mestrado, desde que seja obtido o respectivo
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS consentimento dos representantes legais dos menores e, nos termos do artigo 29° da
+Lei n.° 67/98, de 26 de Outubro, prevê-se o seguinte:
+Responsável pelo tratamento : o Requerente.
+Finalidade do tratamento : realização de uma tese de mestrado
+Categoria de Dados : identificação de crianças, avaliação dos níveis de literacia à entrada do 1.° ano do 1.º ciclo e hábitos familiares no domínio da literacia.. Atendendo a que são tratados dados dos pais, nessas matérias é requerido o consentimento de ambos.
+Não há comunicação nem interconexões de dados .
+Transferência de dados para países terceiros : Não há.
+Tempo de conservação : Até à conclusão do estudo.
+Lisboa, 7 de Março de 2006 de
+Alexandre Sousa Pinheiro (relator)
+Eduardo Campos
+Luís Barroso
+Ana Roque
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

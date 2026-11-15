@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1523/2013
-official_date: null
+official_date: '2013-02-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Caterpillar Financial Corporaciòn Financiera, S.A., E.F.C. Sucursal em Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,80 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:17:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1523/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51802](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51802).
+Proc. 2386/12 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° | 523/13
+O pedido
+Caterpillar Financial Corporación Financiera, S.A., E.F.C. Sucursal em Portugal, notificou um tratamento de dados pessoais "para cumprimento das regras relativas às medidas de natureza preventiva e repressiva de combate ao branqueamento de capitais", nos termos e para os efeitos do disposto na Lei n.º 25/2008, de 5 de junho, e no Aviso n.° 9/2012 do Banco de Portugal.
+Os dados objeto de tratamento são os seguintes: nome, assinatura, data de nascimento, nacionalidade, morada, profissão e entidade patronal, cargos públicos, número e entidade emitente do cartão de identificação civil, residente em território nacional (s/n), informação sobre a finalidade e natureza do negócio, informação sobre
+• montante e origem dos fundos e informações relativas à análise dos correspondentes documentos de suporte.
+A requerente declara comunicar dados ao Banco de Portugal, aos auditores, às entidades de supervisão e fiscalização, ao Procurador-Geral da República e à Unidade de Informação Financeira da Polícia judiciária.
+E garantido ao titular o direito de acesso, correção e eliminação dos dados que lhe respeitem através de pedido efetuado por escrito à requerente.
+Pretende a conservação dos dados pelo período de 10 anos após a cessação do contrato.
+Análise jurídica
+A Lei n.° 25/2008, de 5 de junho, estabelece medidas de natureza preventiva e repressiva de combate ao branqueamento de capitais e ao financiamento do terrorismo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 2386/12 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Esta lei e o Aviso n.º 9/2012 do Banco de Portugal estabelecem obrigações para as entidades financeiras, as quais estão sujeitas, entre outros, aos deveres de identificação, de diligência, de conservação, de comunicação, de reporte e de controlo.
+Decorre destes deveres a obrigação de manutenção de registo dos dados notificados.
+A notificação em análise enquadra-se nos tratamentos previstos no n.º 2 do artigo 8° da Lei n.º 67/98, de 26 de outubro (LPD), e tem como fundamento o cumprimento da obrigação legal prevista na Lei n.° 25/2008, de 25 de junho.
+Os dados tratados mostram-se necessários, pertinentes e não excessivos em relação à finalidade prosseguida (cf. artigo 5.°, n.° 1, alíneas b) e c), da LPD).
+Quanto às pretendidas comunicações de dados ao Banco de Portugal, à Autoridade de Supervisão e à Unidade de Informação Financeira da Polícia Judiciária a mesma decorre, também, do cumprimento de obrigações legais, previstas, designadamente, nos artigos 16.° e 27.° da Lei n.º 25/2008, de 25 de junho.
+Impõe o artigo 21.° da referida lei o dever de controlo, do qual resulta a obrigação de auditoria interna, a fim de eficazmente prevenirem o branqueamento de capitais e financiamento do terrorismo, constituindo o mesmo o fundamento para a comunicação de dados notificada.
+Devem ser adotadas medidas de segurança física e lógica necessárias à proteção da informação, designadamente as previstas no artigo 15.° da LPD.
+Consigna-se, todavia, que, independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados tratados.
+No que respeita ao prazo máximo de conservação da informação, determina o artigo 14.° da Lei n.º 25/2008, de 25 de junho, que esta deve ser conservada pelo prazo de 7
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 12386/12 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS anos após o cumprimento do dever de identificação ou, no caso das relações de negócio, após o termo dos mesmos.
+No que respeita ao exercício dos direitos do titular, nomeadamente, o direito de acesso, na medida em que o tratamento respeita à prevenção criminal, devem ser exercidos através da CNPD, nos termos do n.º 2 do artigo 11.° da LPD.
+Em face do exposto, ao abrigo das disposições combinadas dos artigos 8.°, n.º 2, 20.° n°s 1 e 2, 28.°, n.º 1, alínea a), e 30.° da LPD, a CNPD autoriza o tratamento nos termos acima referidos, consignando-se o seguinte:
+Responsável pelo tratamento: Caterpillar Financial Corporación Financiera, S.A.,
+E.F.C. Sucursal em Portugal;
+Finalidade do tratamento: cumprimento das regras relativas às medidas de natureza preventiva e repressiva de combate ao branqueamento de capitais;
+Categorias de dados tratados: nome, assinatura, data de nascimento, nacionalidade, morada, profissão e entidade patronal, cargos públicos, número e entidade emitente do cartão de identificação civil, residente em território nacional (s/n), informação sobre a finalidade e natureza do negócio, informação sobre o montante e origem dos fundos e informações relativas à análise dos correspondentes documentos de suporte;
+Comunicação de dados: ao Banco de Portugal, aos auditores, às entidades de supervisão e fiscalização, ao Procurador-Geral da República, à Unidade de
+Informação Financeira da Polícia judiciária;
+Forma de exercício do direito de acesso e retificação: Através da CNPD;
+Interconexões: não há;
+Transferência de dados para países terceiros: não há;
+Prazo máximo de conservação dos dados: 7 anos após o cumprimento do dever de identificação ou, no caso das relações de negócio, após o termo dos mesmos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 12386/12 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 19 de fevereiro de 2013
+Luís Barroso, Ana Roque (relatora), Carlos Campos Lobo, Helena Delgado António,
+Vasco Almeida, Luís Paiva de Andrade
+Atribe
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

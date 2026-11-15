@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DA MINISTRA - MINISTÉRIO DA JUSTIÇA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:06:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 26/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/45014](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/45014).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 5830/12
+PARECER N.° 26/2012
+L.
+Do Pedido
+O Gabinete de S. Ex." a Ministra da Justiça remeteu a esta Comissão para parecer o projeto de decreto-lei que altera o Código do Registo Comercial, o regime do Registo
+Nacional de Pessoas Coletivas e o Decreto-Lei n° 76-A/2006, de 29 de março.
+II. Dos Antecedentes
+Na sequência da aplicação da medida designada como Informação Empresarial
+Simplificada, consagrada através do disposto no Decreto-Lei n° 8/2007, que agregou num único ato diversos procedimentos e obrigações das empresas perante a
+Administração Pública, o presente projeto de diploma visa "criar nos representantes das sociedades a consciência da gravidade da omissão do registo da prestação de contas".
+Assim, o legislador entende ser necessário criar medidas mais penalizadoras para a entidade, considerando ser "atualmente insuficiente a coima resultante do processo de contraordenação instaurado na sequência do incumprimento do prazo de registo, nos termos do artigo 17º do Código do Registo Comercial".
+O projeto visa ainda criar enquadramento jurídico para ser dado tratamento estatístico à informação relativa a entidades comerciais, tratamento que "será efetuado a partir da entidade comercial", sendo os dados recolhidos e tratados sem indicadores que permitam identifica-la.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+III.
+Da Apreciação
+A CNPD apenas dará relevância às inovações que tenham repercussão em matéria de proteção de dados pessoais, matéria cuja apreciação e emissão de parecer lhe compete nos termos dos artigos 22° e 23° da Lei de Proteção de Dados Pessoais (LPD). Assim, os dados relativos a pessoas coletivas, enquanto tais, não são, por definição legal, dados pessoais, os quais, no projeto em apreço, apenas podem decorrer do tratamento de dados de comerciantes em nome individual ou de pessoas físicas que sejam suportes dos órgãos e ou representantes de pessoas coletivas.
+Na descrição do objeto e âmbito do diploma em análise, bem como no disposto no novo n° 5 do artigo 78°-F do Código do Registo Comercial, o projeto deixa claro que um dos propósitos do legislador consiste em permitir que seja tratada informação para "fins de investigação científica ou de estatística relativa a entidades sujeitas a registo comercial pode resultar do cruzamento dos dados contidos nas diversas bases de dados registais,
+Ficheiro Nacional de Pessoas Coletivas e Base de Dados das Contas Anuais, desde que não possam ser individualizadas as entidades a que respeita informação". Idêntica alteração é introduzida no regime do Registo Nacional de Pessoas Coletivas, no n° 2 do seu artigo 24°.
+Deste modo, resulta que do articulado em análise não emana matéria diretamente relevante em sede da Lei n° 67/98.
+Conclusão
+Em conclusão, nada haverá a sugerir nesta sede quanro ao projeto de diploma em análise.
+Este é nosso parecer.
+Lisboa, 4 de Jubho de 2012
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque (Relatora), Luís Barroso, Helena António, Luís Paiva de Andrade, Vasco de
+Almeida
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

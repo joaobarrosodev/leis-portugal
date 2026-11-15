@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOSÉ MANUEL PEREIRA DIAS CASTRO LOPES'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:51:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 760/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21768](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21768).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 960/2010
+AUTORIZAÇÃO N.° 760/2010
+José Manuel Dias Castro Lopes notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo multicêntrico, observacional para avaliar a "Qualidade de Vida e Custos em Doentes com Hérpes Zóster ou Nevralgia Pós-Hérpica seguidos em Unidades de
+Dor em Portugal".
+Serão incluídos no estudo 75 doentes, 50 dos quais com idade igual ou superior a 50 anos, com diagnóstico de zona ou NPH em tratamento numa das Unidades de Dor Crónica envolvidas no estudo. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do profissional de saúde participante.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.º 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, nos termos do artigo 28°, n.º1, alínea d), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: José Manuel Dias Castro Lopes
+Finalidade: estudo multicêntrico, observacional para avaliar a "Qualidade de Vida e Custos em
+Doentes com Hérpes Zóster ou Nevralgia Pós-Hérpica seguidos em Unidades de Dor em
+Portugal".
+Categoria de Dados pessoais tratados: código do doente, dados sócio-demográficos (data de nascimento, sexo, peso, altura), data da primeira consulta, n° de consultas realizadas na
+Unidade de Dor, referenciação do doente e qual o motivo, tratamento anterior à referenciação, história do episódio de Herpes Zóster, hospitalizações, tratamentos e questionário de qualidade de vida, de avaliação da dor, utilização de cuidados de saúde e custos directos e indirectos.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 61 de Março de 2010
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos
+Campos Lobo, Luís Barroso eus.
+Luis Lingnau da Silveira (Presidente)

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE OEIRAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:52:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 138/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9131](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9131).
+Alerto
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.º 2298/842/03
+Autorização n.°|38/2004
+A Câmara Municipal de Oeiras solicita à Comissão Nacional de Protecção de Dados (CNPD) que seja autorizado o acesso a dados constantes de juntas de freguesia. Os dados em causa são os nome e morada de todos os municipes detentores de caninos devidamente registados.
+Sobre a finalidade do tratamento refere-se a realização de uma campanha de sensibilização dos detentores de forma a criar incentivos que fomentem a recolha dos dejectos dos animais da via pública.
+No caso vertente a recolha existente tem como responsável pelo tratamento as juntas de freguesia. O eventual acesso da Câmara Municipal deve ser avaliado à face do artigo 23., alínea c) da Lei n.º 67/98, de 26 de Outubro. Assim, a CNPD pode autorizar tratamentos para finalidades não determinantes da recolha, desde que os dados recolhidos respeitem os critérios de qualidade do artigo 5.°.
+Na medida em que não se trata de dados sensíveis inseridos no artigo 7.°, afigura-se pertinente fundar o tratamento numa das condições de legitimidade previstas no artigo 6.°. A alínea d) do artigo 6.° habilita tratamentos de dados sem consentimento do titular quando esteja em causa a execução de uma missão de interesse público em que esteja investido um terceiro a quem os dados sejam comunicados.
+Nesta conformidade, considera-se que a Câmara ao estabelecer a finalidade do tratamento segue uma função enquadrada na lei de protecção de dados.
+Os dados recolhidos afiguram-se adequados, pertinentes e não excessivos (alínea d) do artigo 5.°).
+Em conformidade com o exposto a Comissão Nacional de Protecção de Dados (CNPD)
+autoriza a Câmara Municipal de Oeiras a aceder aos dados nome e morada de todos os
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS munícipes detentores de caninos devidamente registados constantes de juntas de freguesia do concelho.
+Lisboa, de Março de 2004
+Alerandidouradilheir
+Alexandre Sousa Pinheiro (relator)
+cran
+Luís Barroso
+Eruly
+Eduardo Campos seen
+Ana Luísa Geraldes
+Ander
+Amadeu Guerra
+Pens 9 4le
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

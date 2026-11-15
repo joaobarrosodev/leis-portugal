@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 9/2009
-official_date: null
+official_date: '2009-01-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SUNWIND - ENERGIAS RENOVÁVEIS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:44:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 9/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13977](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13977).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 1893/08
+Registo n.º09 /09
+SunWind - Energias Renováveis, Lda notificou um tratamento de dados pessoais com a finalidade de marketing.
+Declaram as seguintes categorias de dados pessoais: Nome, morada, telefone e e-mail.
+Os dados são recolhidos directamente por telefone e pela internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea e) do artigo 6° da LPD, o interesse do responsável.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n. °67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - SunWind - Energias Renováveis, Lda
+Categoria de dados pessoais tratados - Nome, morada, telefone e e-mail.
+Finalidade - Marketing;
+Forma de exercício do direito de acesso e rectificação - Solicitação escrita ou telefónica ao responsável pelo tratamento
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Conservação dos Dados - 10 anos
+Comunicação de dados - Há comunicação de dados para outras empresas do grupo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei n.º 67/98, de 26 de Outubro, incluindo o nº4, por haver recolha de dados na Internet, bem como o direito de se oporem, de forma autónoma, quer à utilização dos seus dados para marketing da responsavel, quer para a possibilidade de comunicação a terceiras entidades com essa finalidade.
+Lisboa, 19 de Janeiro de 2009
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

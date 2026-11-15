@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1692/2013
-official_date: null
+official_date: '2013-02-26'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Raquel Alexandra Gonçalves Costa'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:14:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1692/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51970](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51970).
+Proc. N.: 13134/2012 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃON: 1692 12013 1. Do Pedido
+Raquel Alexandra Gonçalves Costa notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para avaliação dos contributos dos processos psicofisiológicos durante interações diádicas pais-criança para o desenvolvimento da criança.
+O estudo pretende incluir quatrocentos casais, participantes no estudo "O papel da interação genótipo-ambiente ao nível da resiliência e vulnerabilidade para problemas desenvolvimentais e de saúde mental nos primeiros dezoito meses de vida", e os respetivos filhos.
+A participação no estudo consiste na gravação áudio e vídeo de interações entre pais e filhos às seis semanas e aos seis meses, no registo de medidas fisiológicas (batimento cardíaco, arritmia sinusal respiratória e condutância da pele) no contexto do
+Centro de Saúde.
+O médico/enfermeiro assistente solicitará consentimento informado, cuja declaração será recolhida por uma investigadora no estudo e arquivada em lugar de acesso reservado pela investigadora principal.
+Os dados serão recolhidos num caderno de recolha de dados em formato eletrónico e em papel.
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 13134/2012 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (cfr. alínea a) do n.° 1 do artigo 5.° da
+LPD), para finalidades determinadas, explícitas e legítimas (cfr. alínea b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Porque haverá recolha de dados de menores, terá de haver consentimento a prestar pelos legais representantes. O estudo deve ter em conta o superior interesse da criança.
+III. Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.° e artigo 30.º da LPD, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Termos do tratamento:
+Responsável pelo tratamento: Raquel Alexandra Gonçalves Costa
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.9: 13134/2012 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Finalidade: Estudo observacional para avaliação dos contributos dos processos psicofisiológicos durante interações diádicas pais-criança para o desenvolvimento da criança.
+Categoria de Dados pessoais tratados: dados demográficos (nome, telefone, e-mail, idade, nacionalidade, raça, estado civil, n.° de elementos do agregado familiar, n.° de filhos biológicos, escolaridade, situação profissional, profissão, sector em que trabalha, n.° de empregados - se trabalhador por conta própria - escalão de rendimento mensal líquido familiar), dados antropométricos (peso e altura), dados da gravidez atual e anteriores (com quantas semanas teve a 1.ª consulta de acompanhamento da gravidez, tipo de conceção, peso antes de engravidar, n.º de abortamentos, morte da criança no parto ou pós-parto, parto prematura, cesariana), problemas de saúde física e mental, medicação, hábitos tabágicos, gravação áudio e vídeo de interações entre pais e filhos (às seis semanas e aos seis meses), tabagismo, registo de medidas fisiológicas (batimento cardíaco, arritmia sinusal respiratória e condutância da pele).
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto das investigadoras.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados e as filmagens dos titulares dos dados devem ser destruídas um mês após o fim do estudo.
+Dos termos e condições fixados na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 26 de fevereiro de 2013
+Ana Roque, Helena Delgado António, Carlos Campos Lobo (Relator), Luís Paiva de
+Andrade, Vasco Almeida
+Luís Barroso (Vogal em substitujção da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

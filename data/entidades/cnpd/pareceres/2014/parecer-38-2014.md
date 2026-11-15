@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMISSÃO DE ASSUNTOS CONSTITUCIONAIS DIREITOS, LIBERDADES E GARANTIAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:02:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 38/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/65226](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/65226).
+Proc. N.º 6392/2014
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.° 38 12014 1. PEDIDO
+O Senhor Presidente da Comissão dos Assuntos Constitucionais, Direitos, Liberdades e
+Garantias da Assembleia da Republica solicitou à Comissão Nacional de Protecção de
+Dados (CNPD) o seu parecer sobre a Proposta de Lei n.º 218/XII que procede à primeira alteração ao Regulamento de Disciplina da Guarda Nacional Republicana, aprovado em anexo à Lei n.º 145/99, de 1 de setembro (Proposta).
+Tal parecer, porque a Proposta contem matéria de protecção de dados pessoais, e por força do Artigo 23.° - 1 - a) da Lei 67/98, de 26 de outubro, é obrigatório.
+Cumpre assim emitir parecer.
+2. APRECIAÇÃO
+Sobre esta mesma matéria a CNPD elaborou o seu Parecer n.° 77/2013 de 22 de outubro de 2013 que aqui se dá como reproduzido.
+A Proposta introduz alterações ao Regulamento de Disciplina da Guarda Nacional
+Republicana, aprovado em anexo à Lei n.º 145/99, de 1 de setembro, diploma que não foi sujeito a parecer da CNPD.
+Na Proposta não se suscitam específicas questões de proteção de dados, com exceção do disposto nos n.°s 1 e 3 do artigo 36.° do Regulamento na redacção dada pela Proposta referente à publicação das penas disciplinares e das decisões dos respetivos recursos.
+Ainda que nada se tenha a dizer sobre o teor literal dos referidos preceitos, a CNPD apenas deixa a nota de que esta publicação não pode ser feita na internet, uma vez que a divulgação de informação pessoal desta natureza por esta via corresponderia a uma pena
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º 6392/2014
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS acessória por um período de tempo ilimitado, o que não é admissível na ordem jurídica constitucional portuguesa.
+É este o parecer da CNPD.
+Lisboa, 20de maio de 2014
+Fhill
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

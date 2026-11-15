@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO DE ACÇÃO SOCIAL DAS FORÇAS ARMADAS - REPARTIÇÃO DE INFRA-ESTRUTURAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:48:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 528/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9033](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9033).
+Alech te
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° 9907/1511/03
+Autorização n.º528/2004 1-0 Instituto de Acção Social das Forças Armadas (Repartição de Infra-Estruturas)
+solicita à Comissão Nacional de Protecção de Dados (CNPD) a comunicação da Caixa
+Geral de Aposentações (CGA) relativamente às pensões ilíquidas auferidas no ano de 2003, pelos pensionistas/inquilinos de casas de renda económica do referido Instituto.
+A comunicação destina-se a actualizar as rendas de casa económica.
+Releva, para o caso concreto, caracterizar os aspectos fundamentais do regime jurídico do Instituto de Acção Social das Forças Armadas (IASFA), aprovado pelo Decreto-Lei n.° 284/95, de 30 de Outubro. Assim:
+- O Instituto é uma instituição de interesse público (n.º 1 do artigo 1.), que assegura aos seus beneficiários prestações no campo da acção social complementar (n.° 3, do artigo 1.°);
+- No domínio da acção social visa-se, nomeadamente, garantir o apoio à habitação (alínea c), do n.º 2 do artigo 3.9);
+- A Repartição de Infra-Estruturas está integrada no Departamento de Recursos
+Humanos e Administração (alínea c), do n.º 2 do artigo 26.°);
+- À Repartição de Infra-Estruturas compete assegurar o apoio técnico no domínio da gestão do património e das infra-estruturas do LASFA (n.º 1, do artigo 29.);
+- De acordo com o Decreto-Lei n.º 380/97, de 30 de Novembro e com a Portaria n.º 7/98, de 7 de Janeiro, o IASFA dispõe de competência na área do arrendamento de fogos de renda económica e prevê que o valor das rendas é automaticamente actualizado, sempre que ocorram alterações na remuneração ou pensão e complemento de pensão ilíquidas do arrendatário e o pagamento das rendas é feito mediante desconto nas remunerações ou pensões auferidas pelo arrendatário (n.º 1 do artigo 15.° e artigo 16.°).
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Compulsadas as disposições legais, afigura-se que existe uma justificação cabal para a comunicação pretendida, autorizando-a a Comissão Nacional de Protecção de Dados.
+Lisboa, (\ de Maio de 2004
+Alcande fandanteiro
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Alun
+Eduardo Campos sem
+Ana Luísa Geraldes
+Anelen In
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt
+- 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt

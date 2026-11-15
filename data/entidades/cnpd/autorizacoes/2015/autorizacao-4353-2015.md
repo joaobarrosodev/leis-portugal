@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4353/2015
-official_date: null
+official_date: '2015-05-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BIOTRONIK PORTUGAL UNIPESSOAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,85 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T18:00:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4353/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/77033](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/77033).
+Processo N.: 276/201511 K
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 4353 12015
+I. Pedido
+A BIOTRONIK Portugal Unipessoal notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar o estudo Sentus QP - Avaliação de Terapia de Ressincronização Cardiaca (CRI)
+ampliada com Elétrodos Quadripolares para Ventrículo esquerdo (QP EXCELs).
+O objetivo principal do estudo consiste em confirmar a segurança e eficácia dos eletrodos ventriculares esquerdos de pacing BIOTRONIK Sentus OTW QP, avaliando a segurança e a ausência de complicações.
+Serão participantes no estudo pacientes do Hospital de Santa Marta com insuficiência cardiaca com indicação para CRT-D de acordo com os cuidados médicos de rotina que devam implantar um dispositivo de novo ou atualizar o já existente.
+O responsável pretende ainda que cada participante tenha o seu dispositivo com a função de Home Monitoring®, para que envie informações sobre o seu estado clínico para um dispositivo externo que transmitirá esses dados de forma encriptada e sob pseudónimo. Deste modo o médico assistente poderá monitorizar o ritmo cardíaco e o funcionamento adequado do sistema de CRT.
+A participação no estudo será por um período de 12 meses, nos quais estão planeadas 4 consultas para além do implante, aos 3, 6 e 12 meses após o implante.
+Os dados serão recolhidos num "caderno de recolha de dados" no qual não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico investigador.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N. 275/2015 "
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os destinatários são ainda informados sobre a natureza facultativa da sua participação e garantia de confidencialidade no tratamento, caso decidam participar, recolhendo o médico assistente/investigador o seu consentimento informado para o efeito.
+Será pedido consentimento informado específico para a ativação da função de Home
+Monitoring® do dispositivo.
+II. Análise
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da LPD, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos de investigação na área da saúde.
+Porque em grande parte referentes à vida privada e também à saúde, os dados recolhidos pela requerente têm a natureza de sensíveis, nos termos do disposto no n.° 1 do artigo 7.° da LPD.
+Em regra, o tratamento de dados sensíveis é proibido, de acordo com o disposto no n.° 1 do artigo 7.° da LPD. Todavia, nos termos do n.° 2 do mesmo artigo, o tratamento de dados da vida privada e de saúde é permitido, quando haja uma disposição legal que consagre esse tratamento de dados, quando por motivos de interesse público importante o tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável ou quando o titular dos dados tiver prestado o seu consentimento.
+Não estando preenchidas as duas primeiras condições de legitimidade, o fundamento de legitimidade só pode basear-se no consentimento dos titulares dos dados ou dos representantes legais, quando os titulares dos dados sejam incapazes.
+Assim, é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento (cf. artigo
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.° 275/2015 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3.°, alínea h), da LPD), o qual deve ser obtido através de uma "declaração de consentimento informado" onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Os titulares dos dados, de acordo com a declaração de consentimento informado junta aos autos, apõem as suas assinaturas na mesma, deste modo satisfazendo as exigências legais.
+Cabe ao Investigador assegurar a confidencialidade dos dados pessoais e da informação tratada, conforme o estatuído na alínea g) do artigo 10.° da Lei n.° 21/2014, de 16 de abril (Lei da investigação clínica).
+Assim, apenas poderão ter acesso aos registos médicos originais o médico assistente e um monitor, (nos termos do artigo 11.° da Lei da investigação clínica), e apenas na medida do estritamente necessário, também recaindo sobre este a obrigação de confidencialidade.
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1 alínea a) da Lei n.° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Conclusão
+Assim, nos termos das disposições conjugadas do n.° 2 do artigo 7.°, n.º 1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.° e artigo 30.° da Lei de Proteção de Dados, com as condições e limites fixados na referida Deliberação n.° 227/2007, que se dão aqui
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.º 275/2015 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados supra referido, consignando-se o seguinte:
+Responsável pelo tratamento: BIOTRONIK Portugal Unipessoal;
+Finalidade: estudo "Sentus QP - Avaliação de Terapia de Ressincronização Cardíaca (CRT) ampliada com Elétrodos Quadripolares para Ventrículo esquerdo (QP
+ExCELS);
+Categoria de Dados pessoais tratados: código do participante; sexo, ano de nascimento; idade; peso; altura; Índice de Massa Corporal; pressão arterial; frequência cardíaca; história clinica prévia; diagnóstico; comorbilidades; sintomas; história clínica atual; resultados de exames complementares; tratamentos; dados da implantação;
+medicação; eventos adversos.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente/investigador.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 5 de maio de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

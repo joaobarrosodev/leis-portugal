@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ARVAL SERVICE LEASE - ALUGUER E GESTÃO AUTOMÓVEL, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:05:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 2/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40149](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40149).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 4227/2009
+REGISTO N.ºO2/2012
+Arval Service Lease - Aluguer e Gestão Automóvel, SA notificou um tratamento de dados pessoais com a finalidade de gestão de sinistros das viaturas
+O fundamento de legitimidade é o cumprimento de obrigação contratual, previsto na alínea a)
+do artigo 6° da LPD.
+Assim, regista-se ao abrigo dos artigos 27.° n.° 1 e 30.° n.° 1.° da Lei 67/98, de 26 de
+Outubro nos seguintes termos:
+Responsável
+Arval Service Lease - Aluguer e Gestão Automóvel, SA gestão de sinistros das viaturas
+Finalidade
+Categoria de dados pessoais tratados
+Forma de exercício do direito de acesso e rectificação
+Nome do condutor, telemóvel, passageiros feridos, sexo, identificação do veículo, dados do seguro, gestor do processo, n.° de processo, data, local, descrição do acidente
+Por solicitação escrita ou telefónica ao responsável
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados para paises terceiros
+Não há
+Conservação dos dados 10 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de Outubro.
+Lisboa, 2/1/2012
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

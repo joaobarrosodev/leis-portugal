@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CONCHA SALOIA - RESTAURANTE, CERVEJARIA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:02:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 72/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9808](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9808).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 158/02
+AUTORIZAÇÃO N°72/02
+Concha Saloia - Restaurante, Cervejaria, Ld", identificada nos autos, notifica a esta CNPD o tratamento de videovigilância para supervisionar atendimento ao cliente e serviço efectuado", composto por 2 câmaras e um videogravador, colocados nas áreas de atendimento ao cliente.
+O prazo de conservação dos dados pessoais é de 30 dias.
+Estão garantidos os direitos de acesso e eliminação da informação.
+Adverte-se o responsável pelo tratamento para a obrigatoriedade de cumprimento da afixação, em local bem visível, do aviso a que se refere o Art° 12° n° 3 do Dec.Lei 231/98, de 22/07, bem como que apenas poderá utilizar as imagens gravadas "nos termos da lei penal" - Art° 12° n° 2 in fine.
+Face ao deixado exposto e presente que é também tudo mais objecto da Portaria n° 26/99, de 16/01, Delibera esta CNPD autorizar o tratamento ora notificado.
+***
+Para os efeitos do disposto no Art° 31° da Lei 67/98, registe-se :
+Responsável - Concha Saloia - Restaurante, Cervejaria, Ldª ;
+Dados pessoais - Imagens identificativas das pessoas ;
+Finalidade - Segurança das instalações ;
+Direito de acesso - Assegurado a solicitação através de visualização ;
+Interconexões - Não há ;
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Transferência de dados para países 3°s - Não há.
+***
+Lx*, 02/04/02
+Mário Varges Gomes
+Abe
+Amadeu Guerra
+Catarina Sarmento e Castro
+Alexandre Pinheiro ra
+Luís Durão Barroso
+Cristina Baptista
+Luís Lingnau da Silveira
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

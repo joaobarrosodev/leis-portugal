@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SECRETARIA DE ESTADO DAS COMUNIDADES PORTUGUESAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:18:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1808/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7887](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7887).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 6290/08
+Autorização n.° 1808/2008
+O Pedido
+A Direcção Geral dos Assuntos Consulares e Comunidades Portuguesas veio notificar à CNPD um tratamento de dados com a finalidade de gestão da protecção consular aos titulares em viagem ou estabelecidos no estrangeiro.
+O referido tratamento terá como objectivo garantir ao Gabinete de Emergência
+Consular o auxílio atempado e eficiente em caso de emergência. Para tal será disponibilizado no Portal da Comunidades uma ferramenta que permitirá a quem se desloca informar, de forma facultativa, os percursos das viagens.
+Serão recolhidas as seguintes categorias de dados: Nome, número de telefone, e-mail, país da deslocação, local, data da chegada, itinerário, data da partida, identificação e contacto de alojamento e nome e número de telefone de pessoa de contacto em
+Portugal.
+É recolhido o consentimento expresso do titular.
+Os dados são conservados até 15 dias após o regresso ao território nacional.
+Apreciação
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo).
+São recolhidos dados sensíveis, relativos à vida privada do titular (cf. n° 2 do artigo 7° da LPD).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+O responsável deverá garantir ao titular o direito de informação previsto no artigo 10° da LPD, incluindo o disposto no n.º 4 por haver recolha de dados em rede aberta.
+No âmbito das condições de segurança, previstas nos artigos 14° e 15° da LPD, para além das medidas declaradas, deve ser garantido um acesso restrito, sob o ponto de vista fisico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização auditorias de internas e externas. De igual modo, devem ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direcção, a outros técnicos obrigados a segredo profissional.
+Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+Decisão
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 7.° n.º 2, 28°, n.º1, alínea a) e 30° da Lei n.° 67/98, de 26 de Outubro autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Direcção Geral dos Assuntos Consulares e
+Comunidades Portuguesas
+Finalidade: Gestão da protecção consular aos titulares em viagem ou estabelecidos no estrangeiro
+Categoria de Dados pessoais tratados: - Nome, número de telefone, e-mail, país da deslocação, local, data da chegada, itinerário, data da partida, identificação e contacto de alojamento e nome e número de telefone de pessoa de contacto em Portugal.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do responsável pelo tratamento.
+
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: 15 dias após o regresso ao território nacional.
+Lisboa, 15 de Afetro de 2008
+Ana Roque (Relatora)
+Carlos Campos Lobo
+оля
+Eduardo Campos se
+Helena Delgado António
+Luis Barroso
+Vasco Almeida lucida
+S
+Luís Lingnau da Silveira (Presidente)

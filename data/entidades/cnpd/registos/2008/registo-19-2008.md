@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE GONDOMAR'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,34 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 19/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1063](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1063).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 195/07
+Registo n.º 19 /08
+Câmara Municipal de Gondomar notificou um tratamento de dados pessoais com a finalidade de gestão das comparticipações dos apoios familiares.
+Declaram as seguintes categorias de dados pessoais: nome, data de nascimento, morada, filiação, agregado familiar, encarregado de educação, rendimentos e encargos anuais.
+Os dados são recolhidos directamente por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é o cumprimento de obrigação legal.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Câmara Municipal de Gondomar
+Categoria de dados pessoais tratados - nome, data de nascimento, morada, filiação, agregado familiar, encarregado de educação, rendimentos e encargos anuais.
+Finalidade - gestão das comparticipações dos apoios familiares
+Comunicação de dados - Não há.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da lei n.º 67/98, reformulando-se os impressos em conformidade.
+Lisboa, 31 de Janeiro de 08
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

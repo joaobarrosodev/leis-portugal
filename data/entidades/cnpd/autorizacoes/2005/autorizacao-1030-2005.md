@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1030/2005
-official_date: null
+official_date: '2005-12-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PORTUGAL TELECOM - ASSOCIAÇÃO DE CUIDADOS DE SAÚDE (PT-ACS)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:16:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1030/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6862](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6862).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 2267/2005
+AUTORIZAÇÃO N.º 1030/2005
+A empresa Portugal Telecom - Associação de Cuidados de Saúde, SA propõe-se realizar um estudo sobre o consumo de sal e hipertensão arterial, propondo-se realizar análises do sódio urinário. A selecção de colaboradores e familiares é feita numa base de voluntariado, sendo obtida uma declaração de consentimento (junta ao processo).
+Esta entidade exerce actividade no âmbito da gestão de Planos de Saúde e como prestadora de serviços na área da segurança, Higiene e Saúde no Trabalho do grupo
+Portugal Telecom.
+É recolhida informação de identificação e resultado analítico.
+O sistema está dotado de password de acesso às informações.
+Há legitimidade para o tratamento, quer no âmbito da actividade de diagnóstico e medicina preventiva (cf. artigo 7.° n.º 4 da lei 67/98), quer em relação à realização do estudo (artigo 7.° n.° 2).
+Os dados devem ser de acesso reservado ao médico do trabalho ou - quando os dados sejam utilizados no âmbito de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou de tratamentos médicos (cf. artigo 7.° n.º 4 da lei 67/98) -por «um profissional de saúde obrigado a sigilo profissional».
+Por força do artigo 27.°, 7° n.º 2 e 28.° n.º 1 al. a) e 30.° da Lei 67/98 autoriza-se o tratamento, consignando-se o seguinte:
+1. Responsável: Portugal Telecom - Associação de Cuidados de Saúde, SA 2. Categorias de dados pessoais tratados: Os dados de identificação e resultados analíticos.
+3. Finalidade: realizar um estudo sobre o consumo de sal e hipertensão arterial, propondo-se realizar análises do sódio urinário.
+4. Entidades a quem podem ser transmitidos: Há comunicação dos resultados do estudo, de forma anónima à PT Comunicações, SA.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 5. Forma de exercício do direito de acesso e rectificação: Pessoalmente, com acesso através de médico designado pelo doente. O doseamento do sódio urinário é enviado particularmente para a residência do colaborador 6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+Lisboa, 5 de Dezembro de 2005
+- deu lenen
+Amadeu Guerra (relator)
+Luís Durão Barroso
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

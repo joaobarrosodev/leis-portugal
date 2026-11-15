@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 42/2015
-official_date: null
+official_date: '2015-11-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: OVISEGUR - VIGILÂNCIA & SEGURANÇA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:56:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 42/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/84005](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/84005).
+Proc. 16065/2015 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Registo n. 4/2 /2015
+OVISEGUR - VIGILÂNCIA & SEGURANÇA, LDA. notificou à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de organizar um registo informático de atividades.
+Constitui fundamento de legitimidade para o tratamento o cumprimento de obrigação legal, nos termos da alínea b) do artigo 6.° da Lei n.° 67/98 de 26 de outubro (LPD). Na verdade, a alínea c) do n.º 1 do artigo 37.° da Lei n.º 34/2013, de 16 de maio, impõe a obrigatoriedade das empresas de segurança procederem a esse registo junto da
+CNPD.
+A informação tratada é recolhida de forma lícita (cf. Artigo 5°, n°1, alínea a) da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b)) e os dados a tratar consideram-se adequados, pertinentes e não excessivos (cf. alínea c)).
+Os dados devem ser exatos e, se necessário, atualizados (cf. Artigo 5.°, alínea d) da
+LPD), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior, sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou retificados os dados inexatos ou incompletos ou não necessários (cf. Artigo 5.° n.º 1, alíneas c) e d), e n.° 3 da LPD).
+No momento da recolha de dados, deve ser prestada a informação prevista no artigo 10.° da LPD, bem como assegurado o direito de acesso e retificação de acordo com o artigo 11° da LPD.
+A entidade responsável pelo tratamento deve adotar as medidas de segurança adequadas a garantir o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 16065/2015 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, nos termos das disposições conjugadas do artigo 6 ° alínea b), 27.° e artigo 30.° da Lei n.º 67/98 de 26 de outubro, é registado o tratamento de dados supra referido nos seguintes termos:
+Responsável pelo tratamento: OVISEGUR - VIGILÂNCIA & SEGURANÇA, LDA.;
+Finalidade do tratamento: organizar um registo informático de atividades;
+Categorias de dados pessoais tratados: designação e número de identificação fiscal do cliente, número do contrato, tipo de serviço prestado, data de início e termo do contrato, local ou locais onde o serviço é prestado, horário da prestação de serviços, meios humanos utilizados, meios materiais e caraterísticas técnicas desses meios;
+Forma de exercício do direito de acesso e retificação: presencialmente junto do responsável;
+Comunicação de dados pessoais: não há;
+Prazo de conservação dos dados: durante o período de atividade da empresa;
+O responsável pelo tratamento deve implementar medidas de segurança adequadas para proteção dos dados pessoais, nomeadamente contra a destruição, alteração ou acesso não autorizado, nos termos do artigo 14.° da LPD.
+Lisboa,2 de novembro de 2015
+A Secretária da CNPD,
+Isassi Cistina Cruz.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 542/2018
-official_date: null
+official_date: '2018-01-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Cjr Renewables Sgps S A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,78 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T07:22:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 542/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/115086](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/115086).
+Processo n: 357212017| 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 542/2018
+I - Pedido
+CJR Renewables, SGPS, S.A., titular do NIF/NIPC 513102183, veio notificar à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de recursos humanos.
+Do pedido de autorização verifica-se que:
+a) Os dados pessoais a tratar são: dados de identificação pessoal, incluindo Cartão do
+Cidadão, Passaporte, NIF, Cartão de Beneficiário de Segurança Social, Cartão de
+Saúde Europeu, Cartão de Utente do SNS, Carta de Condução, Certificados de
+Habilitações, Diplomas, certificados de formação profissional, Cartões de identificação de Ordens Profissionais, Registo Criminal, Curriculum Vitae, e outros documentos relativos a habilitações literárias e atividade profissional;
+b) A recolha de dados é feita por via direta, presencialmente;
+c) O exercício do direito de acesso é feito presencialmente, na morada Rua do Louredo, n.º 447, 4800 - 214 Guimarães;
+d) Comunicação de dados a terceiros: não há;
+e) Fluxos internacionais de dados para países terceiros: não há;
+f) A Requerente pretende conservar os dados pessoais até 12 meses, após a duração dos contratos de trabalho;
+h) São apenas indicadas medidas de segurança física;
+II - Apreciação
+O tratamento de dados em apreciação decorre em grande medida de obrigações contratuais que vinculam a requerente e o titular dos dados, sendo por isso os dados recolhidos, de uma maneira geral, necessários para a execução do contrato. No entanto, são igualmente tratados alguns dados pessoais relativos à saúde.
+Nessa medida, os dados tratados pela Requerente têm a natureza de sensíveis, nos termos do disposto no n.º 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015 de 24 de agosto (Lei de Proteção de Dados Pessoais - LPDP).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 3572/2017 | 1v. 1M
+Em regra, o tratamento de dados sensíveis é proibido, de acordo com o disposto no n.º 1 do artigo 7.° da LPDP. Todavia, nos termos do n.º 2 do mesmo artigo, o tratamento de dados da vida privada e de saúde é permitido, quando haja uma disposição legal que consagre esse tratamento de dados, quando por motivos de interesse público importante o tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável ou quando o titular dos dados tiver prestado o seu consentimento.
+No caso em apreço, os dados sensíveis tratados têm o seu fundamento de legitimidade em várias disposições legais (laborais, fiscais, segurança social) que impõem a obrigação legal do seu tratamento, cumprindo o n.º 2 do artigo 7.° da LPDP.
+A informação tratada é recolhida de forma lícita (cf. artigo 5.°, n.º 1, alínea a), da LPDP para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo preceito) e os dados a tratar consideram-se adequados, pertinentes e não excessivos (cf. alínea c) do mesmo preceito), com as exceções que em seguida se indicam.
+Em primeiro lugar, a referência a outros documentos relativos a atividade profissional, pela teor genérico e indeterminado da categoria de dados, não permite adivinhar que tipo de informação esteja em causa e avaliar da sua adequação e necessidade para a finalidade visada com o tratamento, pelo que não se autoriza o seu tratamento
+Em segundo, nos termos do disposto no artigo 8.º da Lei n.º 37/2015, de 5 de maio, à informação constante do registo criminal tem acesso o titular da informação ou quem prove efetuar o pedido em seu nome ou no seu interesse. O acesso por terceiros apenas é permitido às entidades elencadas no artigo 8.° do mesmo diploma, nos estritos termos e para as finalidades aí descritos, previsão na qual se não enquadra a situação aqui em apreço.
+A possibilidade, conferida pelo n.º 6 do artigo 10.° deste diploma legal, de o titular requerer o certificado do registo criminal para o exercício de qualquer profissão ou atividade para cujo exercício seja legalmente exigida a ausência, total ou parcial, de antecedentes criminais permite ao responsável tratar o dado relativo ao registo criminal mas apenas dos membros de órgão de Administração/Fiscalização, na medida em que só para o exercício desta função e legalmente exigida essa informação (cf. Tabela de Fins de Certificado de Registo Criminal da
+Direção Geral da Administração da Justiça).
+
+Processo n.° 3572/2017 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Sublinha-se ainda que, de acordo com o disposto no artigo 5.° da Lei n.º 7/2007, de 5 de fevereiro, alterada por último pela Lei n.º 32/2017, de 1 de junho, é proibida a interdita a reprodução do cartão de cidadão em fotocópia ou qualquer outro meio sem consentimento do titular, salvo nos casos expressamente previstos na lei ou mediante decisão de autoridade judiciária (cf. n.° 2 do artigo 5.° do mesmo diploma legal).
+Assim, a Requerente apenas poderá tratar a informação constante daquele documento, de modo a identificar o titular, podendo utilizar os mecanismos tecnológicos de autenticação disponíveis no cartão, mas não pode efetuar cópia ou qualquer outra forma de reprodução, designadamente a digitalização, salvo consentimento informado, específico e livre do titular dos dados, o que supõe oferecer o responsável um mecanismo de conferência da identidade alternativo à reprodução do cartão de identificação civil.
+No momento da recolha dos dados existentes deve ser assegurado o direito de informação, bem como durante o período de conservação dos dados, assegurados os direitos de acesso e de retificação dos mesmos, nos termos previstos nos artigos 10.° e 11.° da LPDP.
+Relativamente à conservação dos dados, atento o disposto na alínea e) do n.º 1 do artigo 5.° da LPDP, devem os dados pessoais ser conservados pelo tempo estritamente necessário à prossecução da finalidade da recolha, pelo que, o prazo de um ano após a cessação da relação contratual, se afigura adequado, sem prejuízo de tal prazo se estender pelo tempo de duração de eventual processo judicial e até ao limite de seis meses após o trânsito em julgado da respetiva sentença. Permite-se que para efeitos de faturação o prazo de conservação se estenda a 10 anos nos termos do artigo 123.° n.º 4 do Código de IRC na redação atual.
+Admite-se ainda a conservação do processo individual do trabalhador para fim de registo histórico.
+Nos termos do artigo 14.° da LPDP o responsável pelo tratamento deve implementar medidas de segurança logicas e fisicas adequadas a garantir a segurança dos dados pessoais.
+III - Decisão
+Em face do exposto e tendo em atenção o estatuído nos artigos 7.° n.º 2, 23.°, 27.° n.º 1, 28.
+° n.º 1, alínea a), e 30.°, todos da LPDP, autoriza-se o presente tratamento de dados, nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 3572/2017 | 2v.
+Responsável: CJR Renewables, SGPS, S.A.;
+Finalidade do tratamento: gestão de recursos humanos;
+Categorias dos dados tratados: dados de identificação pessoal, incluindo nome, n.° e validade do Cartão do Cidadão, Passaporte, NIF, Cartão de Beneficiário de Segurança Social, Cartão de Saúde Europeu, Cartão de Utente do SNS, Carta de Condução, Certificados de
+Habilitações, Diplomas, certificados de formação profissional, Cartões de identificação de
+Ordens Profissionais, Registo Criminal, Curriculum Vitae;
+Comunicação de dados a terceiros: não há;
+Fluxos internacionais de dados para países terceiros: não há;
+Interconexões de tratamentos: não se verificam;
+Forma de exercício do direito de acesso e retificação: presencialmente, na morada Rua do
+Louredo, n.º 447, 4800 - 214 Guimarães;
+Tempo de conservação dos dados: um ano após o fim da relação contratual, sem prejuízo de tal prazo se estender pelo tempo de duração de eventual processo judicial e até ao limite de seis meses após o trânsito em julgado da respetiva sentença. Os dados de faturação são conservados por um prazo de 10 anos, nos termos da legislação tributária.
+Sem prejuízo do direito de propor ação judicial, a presente decisão é suscetível de reclamação, nos termos do artigo 191.° do Código do Procedimento Administrativo, no prazo de 15 dias a contar desta notificação.
+Lisboa, 16 de janeiro de 2018
+Filipa Calvão (Presidente)

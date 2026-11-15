@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MEDIA CAPITAL EDIÇÕES EX - MEDIA CAPITAL MARKETING DIRECTO, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 38/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1044](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1044).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 459/07
+Registo n.º 38 /08
+Media Capital Editora Multimédia, SA notificou um tratamento de dados pessoais com a finalidade gestão do envio newesletter.
+Declara as seguintes categorias de dados pessoais: nome, empresa e e-mail.
+Os dados são recolhidos directamente na Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, consentimento do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Media Capital Editora Multimédia, SA
+Categoria de dados pessoais tratados - nome, empresa e e-mail
+Finalidade - gestão do envio newesletter.
+Forma de exercício do direito de acesso e rectificação - Por acesso directo ao sítio ou por carta registada.
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°.
+Rua de São Bento. 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Quanto ao prazo máximo de conservação de dados, atenta a finalidade, fixa-se em 10 anos.
+Lisboa, 4 de Fevereiro de 2007
+A Secretária da CNPD
+Sabes
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

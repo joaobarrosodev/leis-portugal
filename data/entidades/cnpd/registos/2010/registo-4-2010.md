@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANEBE - ASSOCIAÇÃO NACIONAL DE EMPRESAS DE BEBIDAS ESPIRITUOSAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 4/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21559](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21559).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 938/2009
+REGISTO N.º 4 120 10
+A Associação Nacional de Empresas de Bebidas Espirituosas notificou à CNPD um tratamento de dados pessoais com a finalidade de envio de newsletters e acção de sensibilização.
+Os dados serão recolhidos directamente pela Internet no sítio www.bebacomcabeca.pt, no âmbito de uma campanha de sensibilização para o consumo moderado de alcool.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos do Decreto-
+Lei 7/2004, o consentimento expresso dos titulares.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsavel
+Associação Nacional de Empresas de Bebidas
+Espirituosas
+Envio de newsletters e acção de sensibilização.
+Nome e e-mail.
+Não há.
+Finalidade
+Categoria de dados pessoais tratados
+Comunicação de dados
+Forma de exercício do direito de acesso e rectificação
+Interconexões
+Junto do sitio anebe@anebe.pt.
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados 10 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei 67/98 de 26 de Outubro, e não nos termos da Lei 10/91 de 29 de
+Abril, como consta no sítio.
+Atendendo ao regime previsto no art. 20° do DL 7/2004, a recepção de comunicações comerciais não solicitadas apenas pode ser autorizada em relação a destinatários que tenham dado o seu consentimento prévio. Deste modo, não se autoriza a recolha e tratamento dos dados constantes no sistema "Traga o seu amigo ao simulador", que consubstancia uma recolha indirecta de dados de terceiros, por não se afigurar possível a obtenção do consentimento por esse meio.
+Não podem ficar associados os dados do teste ao nome e e-mail do titular.
+Acresce que não foi notificada a comunicação de dados a terceiros, ainda que do print screen constem o campo "Parceiros" e o direito de oposição (embora este último omita qual a finalidade da transmissão de dados a terceiros). Assim, não se autoriza a comunicação de dados a terceiros.
+Lisboa, 15|02|2010
+A Secretária da CNPD,
+> (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

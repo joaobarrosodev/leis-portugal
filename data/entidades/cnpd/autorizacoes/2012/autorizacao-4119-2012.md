@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MODELO CONTINENTE, SGPS, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:31:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4119/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44305](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44305).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 2077/05
+ила
+AUTORIZAÇAO N° /2012 1) O Pedido
+Modelo Continente, SGPS, S.A, notifica um tratamento destinado à recolha de dados destinados a basear o cartão Worten/Vobis.
+Os dados a tratar são: BI, NIF, nacionalidade, tipo de habitação, situação familiar, telefone (fixo e móvel), rendimento mensal, encargos mensais.
+Como fundamento de legitimidade apontam-se o consentimento dos interessados, a execução de contrato e a prossecução de interesses legítimos.
+Prevê-se comunicação de dados ao banco que apoiará o cartão em questão.
+Não haverá interconexões ou fluxos transfronteiras.
+Como medidas de segurança referem-se o acesso restrito de pessoas e a utilização de cópias de back-up de dados, de palavras-chave de acesso aos dados e de sistemas de processamento de back-up.
+Como prazo de conservação menciona-se 10 anos.
+O modo de exercício dos direitos de acesso e retificação será o contrato pessoal ou escrito perante a responsável.
+2) Apreciação
+A finalidade proposta é determinada, explícita e legítima (Lei n° n67/98, art 5°, n° 1, alínea b).
+Os dados a tratar são adequados, pertinentes e não excessivos (ibidem, alínea c).
+O Fundamento de legitimidade é a execução de obrigações contratuais.
+O tratamento de dados de solvabilidade implica a necessidade de autorização da
+CNPD.
+O prazo de conservação é ajustado.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt
+Pág 1 / 2 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 3) Autorização
+Nos termos expostos e com base nos artigos 7°, 28°, n° 1, alínea c) da Lei n° 67/98, a
+CNPD profere a seguinte autorização:
+a) Responsável
+Modelo Continente, SGPS, S.A b) Finalidade
+Recolha de dados para basear o cartão Worten/Vobis c) Dados Tratados
+BI, NIF, nacionalidade, tipo de habitação, situação familiar, telefone / fixo e móvel), rendimento mensal, encargos mensais d) Comunicações
+A entidade financeira que apoiará o cartão e) Interconexões
+Não há f) Fluxos Transfronteiras
+Não há g) Modo de exercício dos direitos de acesso e retificação
+Por escrito ou pessoalmente, face à responsável
+Lisboa, 14 d Mano & 2012
+Ana Roque, Carlos Lobo, Helena Delgado António, Luís Barroso, Luís Paiva de Andrade (Relator), Vasco Almeida
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt
+Pág 2 / 2 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

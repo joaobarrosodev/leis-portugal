@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MAPFRE ASISTÊNCIA, COMPAÑIA INT. DE SEGUROS Y REASEGUROS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:43:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1211/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22181](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22181).
+1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 1558/2009
+AUTORIZAÇÃO N° 12/1/10 1 - Mafre Asistencia, Compañia Int. Seguros y Reaseguros, SA, vem notificar à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de apólices de seguro do ramo assistência em viagem.
+Os dados objecto de registo são os seguintes: Nome, apelidos, NIF, morada, código postal, números de telefone, número de identificação bancária.
+Uma vez recebido o pedido de assistência, devido à ocorrência de sinistro, são registados na aplicação informática os dados necessários à prestação de assistência (cf.
+cópias de print screen juntas aos autos).
+A recolha é feita por via directa, pessoalmente, por telefone ou por impresso.
+Como fundamento de legitimidade a requerente invoca o consentimento dos titulares dos dados e a execução de obrigação contratual.
+Como medidas de segurança, são adoptadas cópias e sistema de processamento de backup, password de acesso às informações e sistemas de alarme e resposta.
+Pretende-se a conservação dos dados pelo prazo legal de conservação da documentação comercial.
+O titular dos dados pode aceder, actualizar ou corrigir informação mediante pedido dirigido à requerente, formulado por escrito.
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2 - A informação tratada é recolhida de forma lícita (cf. artigo 5° n.º1, alínea a), da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva (cf. alínea c) do preceito citado).
+Os dados são tratados no âmbito de uma relação contratual, existindo por isso legitimidade para o tratamento de dados (cf. artigo 6°, alínea a), da Lei 67/98, de 26.10).
+Nestes termos, a Comissão Nacional de Protecção de Dados autoriza a realização do tratamento de dados notificado, consignando-se, nos termos dos artigos 29° e 30° da Lei n° 67/98, de 26.10, o seguinte:
+Responsável: Mafre Asistencia, Compañia Int. Seguros y Reaseguros, SA
+Categorias de dados pessoais tratados: nome, apelidos, NIF, morada, código postal, números de telefone, número de identificação bancária e, quando formulado pedido de assistência, os dados necessários à prestação de assistência
+Finalidade: gestão de apólices de seguro do ramo assistência em viagem
+Comunicação de dados: não há
+Forma de exercício do direito de acesso e rectificação: mediante pedido dirigido à requerente, formulado por escrito
+Eventuais interconexões: não se verificam
+Transferências de dados para países terceiros: não há
+Tempo de conservação dos dados: 10 anos (artigo 40° do Código Comercial)
+Lisboa, 22 de Parça dl 2010.
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade soas Salvaris
+Luís Lingnau da Silveira (Presidente)

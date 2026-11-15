@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOVA SÓ PESO, RESTAURAÇÃO E HOTELARIA, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,77 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:00:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2249/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/310](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/310).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 2843/07
+AUTORIZAÇÃO N.° 2249 12007
+L.
+O Pedido
+A empresa Nova Só Peso Restauração e Hotelaria, SA veio notificar os tratamentos de videovigilância, a realizar no Algarve Shopping (Só Peso), em Albufeira.
+A entidade declara que não tem comissão de trabalhadores.
+Pretende-se colocar câmaras nas seguintes áreas: zona de atendimento ao público (caixa registadora), sala de refeições, zonas de acesso interdito a pessoas não autorizadas.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD)
+elaborou o projecto de autorização de 08 de Outubro de 2007, no sentido de não autorizar a recolha e visionamento de imagens na chamada "zona de preparações", tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 6763, de 15 de Outubro de 2007, nos termos e para os efeitos do disposto no artigo 100.° do Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projecto, apresentando, em planta agora anexa ao processo, uma nova localização para a referida câmara.
+Análise
+Através da deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de () Disponível in http://www.cnpd.pt/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148 - 3. - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nos estabelecimentos de restauração no âmbito da protecção de pessoas e bens na medida em que se trata de local frequentado por muitas pessoas, com manuseamento de dinheiro.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+No entanto, as imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho ().
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que a colocação de câmaras na chamada "zona de preparações", se apresentava como desproporcionada e excessiva, uma vez que captava a actividade dos trabalhadores, e permitia uma intromissão desproporcionada nos movimentos destes no interior das instalações.
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral @cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A dissuasão que se pretendia fazer através do tratamento de imagens não deve sobrepor-se aos direitos dos trabalhadores, pelo que, devia a referida câmara ser retirada.
+No entanto, a entidade requerente apresentou uma proposta de colocação da referida câmara, apenas na zona de acesso ao armazém, sem captar a "zona de preparações", conforme planta anexa ao processo em 31.10.2007. Assim, atendendo aos factos agora indicados pela requerente, a CNPD admite a câmara a instalar nesta área, desde que apenas dirigida no sentido indicado na planta.
+III. Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigo 8.º n.º 2 e 28.° n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Nova Só Peso Restauração e Hotelaria, SA 2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.º da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem (Art.º13.º n.º3 do Decreto-Lei n.°35/2004, de 21 de Fevereiro).
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.º n.º° 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir sobre estes durante a actividade laboral. (cf. artigo 20.° do Código do Trabalho).
+10. As câmaras não devem estar direccionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+Lisboa, 12 NOvEmbRO 2007
+Ana Roque contes al
+Helena Delgado António (Relatora)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Vasco Almeida
+Luís Barroso
+стис
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

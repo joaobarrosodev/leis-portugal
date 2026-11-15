@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ÁGUAS DE VALONGO, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 12/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21551](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21551).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 36/2009
+REGISTO N.º 12
+/2010
+A Águas de Valongo, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de realização de inquérito de satisfação aos clientes.
+A entidade encarregue pelo processamento dos dados é a Ipsos Loyalty, Societé
+Anonyme (França), com que deve o responsável estabelecer o contrato previsto no art. 14° da LPD.
+Os dados serão recolhidos directamente por telefone e Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98). O nome do colaborador só é recolhido para que seja enviado o convite à participação no inquérito, sem que seja associado as respostas, nem sendo possível determinar se um concreto funcionário respondeu ao inquérito. A rua, localidade e código postal dos clientes foi justificada para garantir que o questionário telefónico é aplicado nas áreas de actuação da empresa.
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento expresso dos titulares.
+Assim, regista-se, nos termos dos artigos 27° n.° 1 e 30° n.° 1 da Lei n.°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Aguas de Valongo, S.A.
+Finalidade
+Realização de inquérito de satisfação aos clientes.
+Categoria de dados pessoais tratados
+Clientes: rua, localidade, código postal, freguesia e concelho;
+Colaboradores: nome e endereço electrónico profissional.
+Comunicação de dados
+Forma de exercício do direito de acesso e rectificação
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt
+APCER (entidade certificadora).
+Junto do responsável pelo tratamento dos dados.
+21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Interconexões
+Fluxo transfronteiriço de dados
+Conservação dos dados
+Não há.
+Não há.
+1 mês após a conclusão dos inquéritos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 15• 02•10
+A Secretária da CNPD,
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

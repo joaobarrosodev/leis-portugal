@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: EL CORTE INGLÊS, - GRANDES ARMAZÉNS, S. A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T05:33:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 10351/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37069](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37069).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 565/2001
+AUTORIZAÇÃON° 1351|201 1 - EL CORTE INGLÉS - Grandes Armazéns, S.A., veio requerer autorização a esta
+CNPD para efectuar o tratamento de dados pessoais com a finalidade de marketing.
+Os dados objecto de registo são os seguintes:
+Nome completo, nome abreviado, morada, localidade, código postal, dados de contacto.
+Como fundamento de legitimidade para o tratamento, a requerente invoca o consentimento do titular e a inexistência de risco de intromissão na vida privada ou de discriminação.
+Está assegurado o direito à actualização dos dados, bem como as condições de o titular conhecer, corrigir e eliminar os dados.
+Haverá comunicação de dados a empresas do Grupo, com o consentimento do titular.
+A segurança das informações é garantida por cópias de backup, acesso restrito de pessoas às instalações e sistemas de alarme e resposta.
+Pretende-se a conservação dos dados pelo período máximo de 5 anos após a última aquisição.
+2 - Os dados são tratados no âmbito de uma relação contratual, com consentimento expresso do titular, segundo modelo junto aos autos, existindo por isso legitimidade para o tratamento de dados (cf. artigo 6° alínea a) da Lei 67/98, de 26.10).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os dados tratados mostram-se necessários, pertinentes e não excessivos em relação às finalidades prosseguidas (artigo 5° n.º 1, alíneas b) e c), da Lei 67/98, de 26.10).
+Afiguram-se adequadas as medidas de segurança acima referidas. Todavia, independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+Considera-se ajustado o prazo proposto para a conservação dos dados.
+3 - Nestes termos, ao abrigo do disposto nos artigos 6°, alínea a), e 30° da Lei n° 67/98, de 26.10, a Comissão Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, consignando-se o seguinte:
+Responsável do tratamento: EL CORTE INGLÉS - Grandes Armazéns, S.A.
+Finalidade: marketing
+Categorias de dados pessoais tratados: nome completo, nome abreviado, morada, localidade, código postal, dados de contacto
+Forma de exercício do direito de acesso e rectificação: mediante pedido dirigido à responsável
+Comunicação de dados pessoais: a empresas do Grupo
+Interconexão de dados: não há
+Transferências de dados para países terceiros: não há
+Lisboa, 10000 50 dedall
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

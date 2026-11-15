@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GRUPO DESPORTIVO DE SESIMBRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,88 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:56:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2545/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42944](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42944).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 10326/08
+AUTORIZAÇÃO N.° 2545/2012 1. O pedido
+O Grupo Desportivo de Sesimbra veio notificar o tratamento de videovigilância sito nas suas instalações nas suas instalações sitas na Av. da Liberdade, n.° 64 em Sesimbra.
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se colocar 10 câmaras que abrangem as seguintes áreas: hall da recepção principal, entrada da sala de cardio fitness, sala de cardio fitness, zona da piscina (entrada), corredor ao fundo da piscina, zona reservada a maquinaria, espaço do bar, espaço entre os dois pavilhões, sala de desporto e corredor de acesso às instalações administrativas.
+II. Análise
+Através da Deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.º e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção no recinto desportivo no âmbito da protecção de pessoas e bens na medida em que se trata de local frequentado por pessoas, com manuseamento de dinheiro e outros bens. As câmaras são um factor de dissuasão.
+(*) Disponível in http://www.cnpd.pt
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. O tratamento de imagens deve obedecer a certas condições específicas.
+Não obstante, considera a CNPD que se apresenta como excessiva - por violar a «liberdade de movimentos» e a privacidade dos frequentadores e utilizadores do espaço
+- a colocação de câmaras na sala de cardio fitness e no espaço do bar.
+Efectivamente, em termos de proporcionalidade, entende-se que a recolha de tais imagens naqueles locais é susceptível de invadir a reserva da vida privada na medida em que permite ao responsável uma intromissão desproporcionada nos movimentos dos desportistas, trabalhadores e espectadores no interior das instalações hoteleiras.
+Assim, o responsável pelo tratamento deve assegurar que as câmaras instaladas nesses locais apenas captam imagens dos acessos aos espaços ou zonas de pagamento no caso do bar, sem incidir directamente nas referidas áreas.
+Mais acresce que o artigo 20.º do Código do Trabalho, aprovado pela Lei n.º 7/2009 de 12 de Fevereiro, clarifica que os sistemas de videovigilância não podem ser utilizados para controlar o desempenho profissional do trabalhador, seja a nível de produtividade ou de responsabilidade disciplinar.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens», nos outros locais pelo que, se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da
+Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS sempre com o conhecimento das pessoas e com protecção dos seus direitos fundumentais(), ben como registar e documentar a eventual prática de infracções. O tratamento de som ou imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+Considera-se, por isso, legítimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 7." n." 2 e 28.° n.° 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Grupo Desportivo de Sesimbra.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, nos termos exigidos pelo n.º 3 do artigo 18° da Lei n.º 39/2009, de 30 de Julho. Nos termos do nº4 do mesmo artigo o aviso de informação deve, igualmente, ser acompanhado de informação () O artigo 8.º n.º 2 obriga. como condição a ponderar pela CNPD, a que «não prevaleçam os direitos.
+liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS oral e simbologia adequada e estar traduzido em, pelo menos, uma língua estrangeira.
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros.
+7. Quando estiverem em causa imagens que servem de prova em processo criminal
+- imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.° 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+8. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 90 dias (Lei n.° 39/2009, de 30 de Julho).
+9. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a actividade laboral (cf. artigo 20.° do Código do Trabalho).
+10. A recolha de imagens deve permitir o controlo visual de todo o recinto desportivo e respectivo anel ou perímetro de segurança, não podendo abranger imagens para além desse limite:
+11. As câmaras não devem estar direccionadas para os terminais de pagamento (POS) ou directamente para zona de digitação no multibanco, sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões.
+12. O responsável deve adoptar as medidas de segurança previstas nos artigos 14° e 15° da Lei n.° 67/98, de 26 de Outubro. Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança das imagens. O responsável pelo tratamento deve, também, manter sempre actualizadas a data e hora das gravações.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 13. Não é autorizada a recolha de imagens no interior do bar e na sala de cardio fitness. As referidas câmaras devem ser instaladas de modo a não abranger estas áreas sensíveis mas tão-somente acessos ou zonas de pagamento.
+14. Caso tais alterações não sejam possíveis devem as referidas câmaras ser retiradas.
+Notificada, a entidade responsável para se pronunciar nos termos dos artigos 100.° e 101.º do CPA, e a mesma nada tendo dito, determina-se converter o projecto de autorização de 3 de Outubro de 2011, na presente autorização.
+Lisboa, Z6 MORÇO ZO1 Zu
+Ana Roque, Carlos Lobo, Helena Delgado António, Vasco Almeida, Luís Barroso, Luís
+Paiva de Andrade (Relator)
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

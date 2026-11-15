@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BRISA AUTO ESTRADAS DE PORTUGAL S.A (CO MAIA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,104 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:15:30Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1423/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1881](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1881).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 2164/06 1423
+AUTORIZAÇÃO N.° /2007 1 - Pedido 1. A empresa "Brisa Auto-Estradas de Portugal SA." veio notificar junto da
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de videovigilância em funcionamento nas suas instalações, no Centro Operacional da
+Maia.
+2. Segundo informações fornecidas, o sistema é composto por duas câmaras fixas, que procedem à captação de imagem.
+Foi junto ao processo, pela entidade requerente, o parecer positivo da Comissão de
+Trabalhadores da empresa, datado de 7 de Julho de 2006, o qual refere que ipoderão ser instalados meios de vigilância à distância, tendo como única e exclusiva finalidade a protecção de pessoas e bens (...) e seja respeitado integralmente o n.º 1 do artigo 5º da Lei 67/98 de 26 de Outubro".
+4.
+Em 15 de Setembro de 2006, através do ofício n.º 4539, a CNPD solicitou à entidade requerente alguns esclarecimentos, tendo a mesma respondido em 24 de
+Outubro de 2006, informando que pretende instalar duas câmaras: a primeira num poste de iluminação para controlo dos acessos ao portão da entrada de serviço, a partir da Estrada Municipal e a segunda num poste de iluminação para controlo dos acessos a partir do exterior (A3 e IC24) e para controlo do acesso ao público em geral.
+5. Na sequência desse pedido, a CNPD elaborou o projecto de Autorização n.º 178/07, datado de 19 de Abril, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 3544, de 21 de Maio de 2007, nos termos e
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+a
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS para os efeitos do disposto no artigo 100.º do Código do Procedimento
+Administrativo (CPA).
+6.
+Em 31 de Maio de 2007, não se conformando com o teor do referido projecto de
+Autorização, a entidade requerente veio aos autos apresentar a respectiva resposta.
+II - Análise 7.
+Através da Deliberação n° 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n°. 1, alínea c), da Lei n.° 67/98, de 26 de Outubro), condições de legitimidade (artigos 7° e 8.°, n.º 2, da Lei n.º 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações, no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas e de bens, onde pode haver furtos Assim, a instalação das câmaras funciona como um factor de dissuasão, aumentando a segurança das instalações e, consequentemente, das pessoas e bens.
+8.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável.
+No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+() Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt.2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 9. Verifica-se que a utilização do sistema se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, alínca c), da Lei n.º 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão,
+Sempre com o reconhecimento das pessoas e com protecção dos seus direitos fundamentais (), bem como registar e documentar a eventual prática de infracções. O tratamento de som ou imagem e a finalidade delineada, não tem que situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores (cf. artigo 20.° do Código do Trabalho).
+10. Cabe salientar, em primeiro lugar, que após confrontada a planta remetida aquando da notificação do tratamento em 14 de Julho de 2006, com a planta que nos foi agora enviada, em sede de esclarecimentos, as câmaras estão direccionadas de maneira diferente, pelo que deverá prevalecer esta última planta.
+11. Relativamente à câmara instalada num poste de iluminação para controlo dos acessos a partir do exterior (A3 e IC24), afigura-se-nos que o tratamento em apreço se apresenta como excessivo em relação ao fim visado, uma vez que capta a A3, visionando, assim, as viaturas que aí circulam.
+() O artigo 8.°, n.º 2, obriga, como condições a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 12. Em sede de resposta à audiência prévia, a entidade requerente, por não concordar com o projecto de Autorização n.º 178/07, veio sustentar, resumidamente, o seguinte:
+a. Apesar de a câmara em questão se encontrar instalada no acesso à A3, a mesma não permite identificar os números constantes das chapas de matrícula dos veículos que aí circulam e, ainda, a mesma não está direccionada para a
+A3 em si mesma mas encontra-se apenas direccionada para o portão de acesso ao Centro Operacional da Maia;
+b. A referida câmara visa o controlo das entradas e saídas ao Centro Operacional;
+no entanto, tal finalidade não pode ser vista de forma isolada, mas sim no âmbito de um fim mais vasto que é a segurança de pessoas e bens.
+13. Tendo em conta o alegado pela entidade requerente (), cabe referir que abrangendo as pretendidas câmaras zonas de acesso público onde circulam colaboradores do Grupo Brisa (as instalações do Centro Operacional da Maia
+Coina) e visando as câmaras o controlo de acessos ao referido Centro Operacional, não entende porque razão pretende a Brisa recolher as imagens no acesso à A3.
+Assim, e ainda que se considere que a videovigilância, como se disse anteriormente, é um meio adequado e necessário para a finalidade que se procura garantir - protecção de pessoas e bens - entende a CNPD que a captação de imagens por essa câmara é excessiva e desproporcionada, devendo a mesma ser retirada.
+14. Diga-se, por outro lado, que não conseguindo, conforme alegado em sede de resposta à audiência prévia, a câmara identificar as chapas de matrícula dos veículos que circulam na Auto-Estradas, não se entende, mais uma vez, o propósito de recolher as imagens pela pretendida câmara, uma vez que a mesma, tendo em conta a finalidade declarada, deve servir como prova para o exercício de () Em sede de esclarecimentos prestados em 29 de Junho de 2006 e na resposta apresentada em sede de audiência dos interessados.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS direito em processo judicial, desde logo nos casos em que estejam em causa violações da vida, de integridade física ou do património.
+III - Conclusões
+Face ao que antecede, considera-se, por isso, legítimo o tratamento -autorizando-se parcialmente a recolha de dados (artigos 8.°, n.º 2, e 28.°, n.º 1, alínea a), da Lei n.º 67/98) - devendo ser observadas, ainda, as seguintes condições:
+A. Responsável pelo tratamento - Brisa - Auto-Estradas de Portugal, S.A.
+B. Finalidade - Protecção de pessoas e bens.
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei n.º° 67/98.
+E. Recolha de imagens - A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores (cf. artigo 20.° do Código do Trabalho).
+F. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+G. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.°, n.º 2, da Lei n.º 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+H. Não é autorizada a recolha e visionamento de imagens pela câmara instalada num poste de iluminação para controlo dos acessos a partir do exterior (A3 e IC24), pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento.
+Lisboa, 16 de JULHo 2007
+хова
+Ana Roque
+Carlos Calapos Lobo
+амио
+Eduardo Campos (relator)
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 6

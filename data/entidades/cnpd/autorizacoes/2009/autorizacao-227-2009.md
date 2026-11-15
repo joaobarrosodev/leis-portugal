@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO FINANTIA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:37:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 227/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13956](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13956).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 10527/2008
+AUTORIZAÇÃON° 227 2005 1 - Banco Finantia, SA, vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de dar cumprimento ao disposto no artigo 309º-E do Código dos Valores Mobiliários (redacção introduzida pelo DL 357-A/2007, de 31.10), conjugado com o disposto nos artigos 304° nº5 e 309°-
+F, alínea v) do mesmo diploma.
+Os dados objecto de registo são o Nome e NIF dos seus colaboradores e dos respectivos cônjuges, unidos de facto, descendentes a cargo ou outros familiares em coabitação há mais de um ano, bem como de outras pessoas cuja relação com o colaborador seja tal que este tenha um interesse material, directo ou indirecto, no resultado da operação pessoal, entendida esta, na definição do artigo 309°-F supra citado, como operação sobre um instrumento financeiro concluída por uma pessoa referida no n° 5 do artigo 304.° ou em seu nome".
+A segurança do sistema está assegurada por cópias de backup dos dados e password de acesso às informações, sistemas de processamento de backup e pelo acesso restrito de pessoas.
+Pretende-se a conservação dos dados pelo período de 5 anos.
+2 - O tratamento notificado tem como finalidade dar cumprimento às exigências impostas artigo 309º-E do Código dos Valores Mobiliários (redacção introduzida pelo
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+DL 357-A/2007, de 31.10), conjugado com o disposto nos artigos 304º nº5 e 309°-F, alínea v) do mesmo diploma, que obriga o intermediário financeiro a adoptar procedimentos destinados a evitar que qualquer pessoa referida no referido n° 5 do artigo 304.°, envolvida em actividades susceptíveis de originar um conflito de interesses ou que tenha acesso a informação privilegiada ou a outras informações confidenciais, realize uma operação pessoal ou aconselhe ou solicite a outrem a realização de uma operação em instrumentos financeiros.
+Deste modo, há legitimidade para o tratamento, na medida em que a gestão logística objecto de notificação visa assegurar o cumprimento de uma obrigação legal (cf. artigo 7.° n.° 2 da Lei 67/98).
+Os dados tratados mostram-se necessários, pertinentes e não excessivos em relação à finalidade prosseguida (artigo 5° n° 1, alíneas b) e c), da Lei 67/98, de 26.10) e o prazo de conservação proposto parece-nos justificado.
+Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados pessoais tratados.
+3. Em face do exposto, a CNPD autoriza o tratamento nos termos declarados, consignando-se, nos termos dos artigos 27°, 28° n.º 1, alínea b) e 30.° da Lei 67/98, de 26.10, o seguinte:
+Responsável pelo tratamento: Banco Finantia, SA
+Categorias de dados pessoais tratados: nome e NIF dos colaboradores do responsável e dos respectivos cônjuges, unidos de facto, descendentes a cargo ou outros familiares
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS em coabitação há mais de um ano, bem como de outras pessoas cuja relação com o colaborador seja tal que este tenha um interesse material, directo ou indirecto, no resultado da operação pessoal
+Finalidade do tratamento: cumprimento às exigências impostas artigo 309°-E do
+Código dos Valores Mobiliários (redacção introduzida pelo DL 357-A/2007, de 31.10), conjugado com o disposto nos artigos 304° nº5 e 309º-F, alínea v), do mesmo diploma
+Comunicação de dados pessoais: não há
+Eventuais interconexões de dados pessoais: não se verificam.
+Lisbo, 20 de Jacci no de 200s
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

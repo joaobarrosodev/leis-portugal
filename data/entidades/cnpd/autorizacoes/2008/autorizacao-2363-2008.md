@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AENOR - AUTO-ESTRADAS DO NORTE, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,80 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:06:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2363/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9780](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9780).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 254/2007 2363
+AUTORIZAÇÃO N.°
+/2008
+I - Pedido 1. A AENOR - Auto Estradas do Norte, S.A. veio notificar junto Comissão Nacional de Protecção de Dados (CNPD) um tratamento de videovigilância electrónico rodoviário.
+2. O sistema de videovigilância electrónico rodoviário tem como finalidade a protecção e segurança das pessoas e bens, no que respeita à circulação rodoviária.
+3. O referido sistema é composto por 2 câmaras fixas e móveis, que procedem à captação de imagens com gravação, a instalar no Edifício da Praça de Portagem de Fafe Sul (que abrange as portas de entrada no edifício da praça de portagem e as vias de saída da praça de portagem).
+4. De acordo com as informações prestadas pela entidade requerente, os dados recolhidos são as imagens.
+5. O responsável pelo tratamento declarou que não existe Comissão de
+Trabalhadores.
+II - Analise 6. A instalação e utilização de sistemas de vigilância electrónica rodoviária e a criação e utilização de sistemas de informação de acidentes e incidentes estão sujeitas a notificação à CNPD (cf. artigo 12.° da Lei n.° 51/2006, de 29 de Agosto).
+7. À CNPD cabe fiscalizar o cumprimento das disposições da Lei n.° 51/2006 (cf.
+artigo 22.° da citada Lei).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 8. Tendo em conta a competência atribuída a esta Comissão, importa verificar se a
+AENOR Auto-Estradas do Norte cumpre as disposições legais previstas na Lei n.º 51/2006 e na Lei n.° 67/98, de 26 de Outubro ().
+9. Pretende a entidade requerente instalar e utilizar um sistema de vigilância electrónico rodoviário, com vista à protecção e segurança das pessoas e bens, públicos ou privados, no que diz respeito à circulação rodoviária.
+10. Tendo em conta a finalidade declarada pela AENOR Auto-Estradas do Norte, verifica-se que a mesma se enquadra na previsão do n.º 2 do artigo 2.° da Lei n.° 51/2006, de 29 de Agosto.
+11. Cabe apenas referir que, de acordo com o principio da finalidade, as imagens (os dados tratados no caso em apreço ()) não podem ser utilizadas para finalidade diferente da recolha (vd. alínea b) do artigo 5.° da Lei n.º 67/98, de 26 de Outubro).
+12. Quanto ao prazo de conservação, a AENOR Auto-Estradas do Norte pretende conservar as imagens pelo período de 30 dias.
+13. Ora, quanto à conservação dos dados pessoais tratados, o n.º 1 do artigo 7.° da
+Lei n.° 51/2006 fixa um prazo máximo de 180 dias, pelo que a entidade requerente pode conservar as imagens pelo período requerido, período necessário para o fim a que se destinam os referidos dados.
+14. A entidade requerente refere, ainda, que não existe comunicação de dados, interconexão de dados nem fluxos transfronteiras.
+15. No entanto, importa referir que o n.° 1 do artigo 16.° da Lei n.º 51/2006, prevê que "os dados pessoais obtidos através dos sistemas de vigilância electrónica rodoviária e dos sistemas de informação de acidentes e incidentes devem ser comunicados, sempre que solicitado (*), às seguintes entidades:
+') De acordo com o n.º 1 do artigo 3.° da Lei n.º 51/2006.
+Cf. alínea a) do artigo 5.° da Lei n.º 51/2006, de 29 de Agosto.
+) Sublinhado e negrito nosso.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS a. Forças de segurança, nos termos e para os efeitos da legislação em vigor;
+b. Autoridades judiciárias, para efeitos de instauração ou condução dos processos a seu cargo;
+c. Direcção-Geral de Viação, para efeitos das competências previstas no Código da Estrada e legislação complementar;
+d. Entidades com competência legal para prestar assistência em caso de emergência e socorro.
+Faz-se consignar que não está contemplada a cedência de dados à
+Comunicação Social.
+16. A entidade requerente informou esta Comissão, da existência de avisos informativos da existência de sistema de videovigilância [artigo 18.° da Lei n.º 51/2006, de 29 de Agosto e não Decreto-Lei n.º 35/2007, artigo 13.°, n.° 3 (devendo ser rectificado o diploma))].
+III - Conclusão
+Face ao que antecede, a CNPD decide autorizar o tratamento requerido e, por consequência, a respectiva recolha de dados pessoais através da captação de imagem pelo referido sistema de vigilância electrónica rodoviária.
+Devem, ainda, ser observadas as seguintes condições:
+A. Responsável - AENOR Auto-Estradas do Norte, S.A.
+B. Finalidade - Protecção e segurança das pessoas e bens, públicos ou privados, no que diz respeito à circulação rodoviária (portagem de Fafe Sul).
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Direito de informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de imagem (artigo 18.° da Lei n.º 51/2006, de 29 de Agosto e não artigo 13.°, n.º 3, do Decreto-Lei n.° 35/2004).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+E. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável, ao exercício do direito de acesso, o disposto no artigo 11.° n.º 2 da Lei n.º 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+F. Prazo de conservação - Os dados recolhidos são conservados pelo período máximo de 180 dias contados da data da respectiva recolha ou captação (artigo 7.° da Lei n.º 51/2006, de 29 de Agosto).
+Lisboa, 27 deoutubRo de 2008.
+seeel
+Ana Roque
+Carlos Campos Lobo
+Eduardo Campos
+Helena Delgado António (Relatora)
+Luís Barroso vertemejad
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

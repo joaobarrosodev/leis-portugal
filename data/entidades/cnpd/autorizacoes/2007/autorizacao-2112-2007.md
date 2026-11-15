@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARINHA - DIRECÇÃO DO SERVIÇO DE PESSOAL - REP. DE SARGENTOS E PRAÇAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:03:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2112/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/680](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/680).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 1398/2003
+AUTORIZAÇÃO N? 21/2
+/2007
+A Repartição de Sargentos e Praças da Direcção de Serviço de Pessoal, da Marinha, do Ministério da Defesa Nacional, vem notificar à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais relativo à gestão de processos de sargentos e praças em situações de acompanhamento médico.
+Os dados tratados são: nome, número de bilhete de identidade (militar), categoria profissional (classe e posto), natureza do contrato (quadro ou forma de prestação de serviço), dados relativos à consulta de especialidade do HM em que está a ser acompanhado, licenças por motivo de saúde.
+Não existem interconexões de tratamentos, comunicação de dados nem fluxos transfronteiras.
+Há recolha directa dos dados por impresso e pessoalmente.
+O titular pode conhecer, corrigir e eliminar os seus dados por consulta directa.
+A informação é conservada enquanto decorrer o acompanhamento médico.
+Os dados de saúde devem obedecer a um tratamento que garanta o cumprimento do princípio da lealdade (artigo 5.°, n.º 1, alínea a), da Lei n.º 67/98, de 26 de Outubro).
+Deve prestar-se particular atenção ao direito de informação (artigo 10.°, n.º 1) e assegurar a separação lógica entre os dados referentes à saúde e os demais dados pessoais.
+Devem ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos do trabalho ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a segredo profissional.
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral @cnpd.pt
+Internet: http://www.cnpd.pt1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+As observações clínicas relativas a exames médicos são anotadas em ficha própria podendo a informação servir de base ao preenchimento da ficha de aptidão, a qual, sendo remetida ao responsável pela área dos recursos, não pode conter elementos que envolvam segredo profissional; isto é, não será possível inscrever diagnósticos ou qualquer informação de saúde na ficha de aptidão nem permitir que, por qualquer forma, dados de saúde sejam acessíveis a pessoas não autorizadas.
+Acresce que, nos termos do n.º 3 do artigo 15.° da Lei n.º 67/98, os sistemas devem garantir a separação lógica entre os dados referentes à saúde e à vida sexual, incluindo os genéticos, dos restantes dados pessoais.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 7.°, n.°s 1 e 2, 28.°, n.º 1, alínea a) e 30.°, da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados de saúde nos seguintes termos:
+Responsável: Repartição de Sargentos e Praças da Direcção de Serviço de Pessoal, da Marinha, do Ministério da Defesa Nacional;
+Categoria dos Dados Pessoais: nome, número de bilhete de identidade (militar), categoria profissional (classe e posto), natureza do contrato (quadro ou forma de prestação de serviço), dados relativos à consulta de especialidade do HM em que está a ser acompanhado, licenças por motivo de saúde.
+Finalidades: gestão de processos de sargentos e praças em situações de acompanhamento médico.
+Entidades a quem podem ser transmitidos: não há comunicação de dados;
+Forma de exercício do direito de acesso e rectificação: por consulta directa;
+Interconexões e transferência de Dados: não existe;
+Prazo de conservação: enquanto decorrer o acompanhamento médico.
+Lisboa, 22 de Alecho de 7e1)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt.2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque condado amad oso
+Eduardo Campos caccce »
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente, que também relatou)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt.3

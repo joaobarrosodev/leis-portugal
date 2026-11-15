@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PFIZER INC.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:46:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 291/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/891](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/891).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 4444/2007
+AUTORIZAÇÃO N.º 291/08
+Os Laboratórios Pfizer Lda notificaram à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com o objectivo de avaliar a segurança de um medicamento em doentes que receberam um transplante alogénico de células estaminais (Protocolo A1501038).
+Trata-se de um ensaio «...prospectivo, aberto, não comparativo, multicêntrico...» que tem como objectivo «...avaliar a eficácia e a segurança do voriconazol como profilaxia das infecções fúngicas invasivas em doentes que já tiveram este tipo de infecção, quando estes mesmos doentes recebem um transplante alogénico de células estaminais».
+Este estudo terá a participação de aproximadamente 75 doentes participantes de 25 países europeus e terá a duração de 12 meses.
+Previamente ao início do estudo o médico irá apurar se o doente está em condições de participar no mesmo. Para tanto o médico irá avaliar a história clínica do doente, avaliação física, testes laboratoriais e um E.C.G.
+A entidade encarregue do processamento da informação é a Pfizer Inc. sedeada nos
+E.U.A.
+As categorias de dados recolhidos são as seguintes: n.º específico do estudo e iniciais do doente, data de nascimento, sexo, raça, dados de saúde e nome do investigador.
+Refira-se que o responsável pelo tratamento justificou o tratamento do dado raça com os seguintes argumentos: «A razão pela qual recolhemos esta informação é devido a
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS requisitos regulamentares para registo de fármaco. As Agências Regulamentares querem ter a certeza que foram incluídos no ensaio clínico indivíduos de populações diversas e que o fármaco é eficaz independentemente da raça do indivíduo (alguns fármacos podem afectar de forma diferente indivíduos de raças diferentes).
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.º333/07 o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.º 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+De todo o modo o texto informativo constante da declaração de consentimento informado não está em conformidade com os princípios de protecção de dados, nem com a notificação efectuada à CNPD.
+Assim não está autorizado o pedido de consentimento para utilizarem a informação do paciente para investigação clínica futura uma vez que constituem tratamentos de dados autónomos que devem ser notificados e autorizados pela CNPD.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.º da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável pelo tratamento: Laboratórios Pfizer Lda.
+Finalidade: gestão do ensaio clínico com o objectivo de avaliar a segurança de um medicamento em doentes que receberam um transplante alogénico de células estaminais (Protocolo A1501038).
+Categoria de Dados Pessoais tratados: n.º específico do estudo e iniciais do doente, data de nascimento, sexo, raça, dados de saúde e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação: Junto do médico
+Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio.
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 2J Fevereiro de 2008
+ниие
+Eduardo Campos (Relator)
+(el declaraca de voto)
+Luís Barroso
+Sua Roque
+Helena Delgado António
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+4
+COMISSÃO NACIONAL
+DE PROTEÇÇAO DEDADOS
+Carlos Campostobo ( .
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

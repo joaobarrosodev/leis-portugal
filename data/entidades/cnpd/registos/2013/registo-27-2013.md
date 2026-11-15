@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 27/2013
-official_date: null
+official_date: '2013-04-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IVDP-INSTITUTO DOS VINHOS DO DOURO PORTO(EX-CIRDD-COM.INTERPROF.REG. DEM. DOURO)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 27/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52845](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52845).
+Proc. 7767/2010 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Registo n.° 27/2013
+A IVDP - Instituto dos Vinhos do Douro e Porto notificou um tratamento de dados pessoais com a finalidade de gestão de parcelas dos processos da sua competência relativamente à Região Demarcada do Douro.
+Os dados recolhidos são pertinentes e não excessivos face à finalidade declarada.
+O fundamento de legitimidade para o tratamento é, nos termos do corpo artigo 6° da
+LPD, o consentimento.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - IVDP - Instituto dos Vinhos do Douro e Porto
+Categoria de dados pessoais tratados Nome, NIF, morada, contactos, dados relativos à produção e às parcelas, bem como as respetivas licenças
+Finalidade - gestão de parcelas dos processos da sua competência relativamente à
+Região Demarcada do Douro
+Forma de exercício do direito de acesso e retificação - Por correio postal ou telefone para o responsável
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há;
+Prazo máximo de conservação dos dados - 1 ano após a qualidade de produtor, sem prejuízo da sua conservação em cópias de backup para fins de registo histórico
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, da Lei n.º 67/98, de 26 de Outubro (LPD), incluindo o n.º4 do referido artigo por haver dados a circular em rede aberta.
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, designadamente as previstas no artigo 14° da LPD.
+Lisboa, 2 de abril de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

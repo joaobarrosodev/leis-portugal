@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2058/2011
-official_date: null
+official_date: '2011-03-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CENTRO HOSPITALAR DE LISBOA OCIDENTAL, E.P.E'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T07:53:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2058/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/28774](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/28774).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 7279/2008
+AUTORIZAÇÃO N.º 20S8 /2011
+O Hospital de São Francisco Xavier, Centro Hospitalar de Lisboa Ocidental, EPE notificou à
+CNPD um tratamento de dados pessoais com a finalidade de realizar diagnósticos de epileptologia pediátrica e estudos científicos.
+Serão incluídos no estudo os doentes com a patologia que preencham os critérios de inclusão.
+O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato em papel e vídeo.
+Serão filmadas crises de epilepsia, como meio de diagnóstico, que ficarão na posse do médico assistente.
+No "caderno de recolha de dados" não há identificação nominal dos titulares, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação no estudo e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados. Por se tratar de uma recolha de dados de menores, terá de haver consentimento a prestar pelos legais
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976 832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS representantes. Impõe-se, ainda, que a criança seja ouvida e em função da idade, nos termos da lei, ela própria preste a sua anuência à recolha de dados pessoais para participação no estudo. O estudo deve ter em conta o superior interesse da criança.
+Deve ser prestado consentimento informado específico para a gravação das crises de epilepsia.
+Quanto a estas filmagens, se as mesmas vierem a ser utilizadas em eventuais apresentações públicas do estudo, deverão adoptar-se medidas que impeçam o reconhecimento dos participantes no estudo.
+Assim, nos termos do nº2 do artigo 7º e da alínea a) do n° 1 do artigo 28° da LPD, com as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Hospital de São Francisco Xavier, Centro Hospitalar de Lisboa
+Ocidental, EPE
+Finalidade: realizar diagnósticos de epileptologia pediátrica e estudos científicos.
+Categoria de Dados pessoais tratados: Código do doente, traçado eletroencefalográfico, vídeo de eventos de crises epilépticas e dados de tomografia axial computorizada.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa: 21 de Março de 2011
+Ana Roque (Relatora), Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 2 duvidas@cnpd.pt

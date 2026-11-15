@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 14/2019
-official_date: null
+official_date: '2019-03-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Assembleia da República - Comissão de Economia, Inovação e Obras Públicas'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,23 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:57:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 14/2019
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121664](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121664).
+Processo PAR/2019/17 | 1
+COMISSAO NACIONAL
+DE PROTEÇÃO DE DADOS
+PARECER/2019/14 1. Do Pedido
+A Comissão de Economia, Inovação e Obras Públicas da Assembleia da República remeteu à Comissão Nacional de Proteção de Dados (CNPD), para apreciação o Projeto de Lei n.° 451/XIII/2ª, o qual propõe alterações no âmbito da defesa dos direitos do consumidor.
+O pedido formulado e o parecer ora emitido decorrem das atribuições e competências da
+CNPD, enquanto entidade administrativa independente com poderes de autoridade para o controlo dos tratamentos de dados pessoais, conferidos pela alínea c) do n.° 1 do artigo 57.° e pelo n.º 4 do artigo 36.° do Regulamento (UE) 2016/679, de 27 de abril de 2016 (Regulamento Geral sobre a Proteção de Dados - RGPD), em conjugação com o disposto no n.º 1 do artigo 21.° e no n.° 1 do artigo 22.°, ambos da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto (Lei de Proteção de Dados Pessoais - LPDP).
+II. Da Apreciação
+A iniciativa parlamentar agora submetida a parecer, da responsabilidade do Grupo
+Parlamentar Partido Animais e Pessoais (PAN) visa introduzir medidas que reforcem os direitos dos consumidores no que diz respeito ao consumo de bens alimentares.
+O texto proposto para a iniciativa em causa não nos suscita quaisquer questões de proteção de dados, salvaguardando-se o necessário e obrigatório cumprimento do RGPD, por parte dos responsáveis pelos tratamentos de dados pessoais que poderão decorrer da implementação das medidas propostas.
+Lisboa, 25 de março de 2019
+Filipa Calvão (Presidente)
+AV. D. CARLOS 1. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832

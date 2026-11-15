@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO BANIF MAIS, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,65 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:38:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 344/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50559](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50559).
+Proc. 13108/12 1 Ke
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° 3 4Y/2013 1 - O Banco BANIF MAIS, S.A., com o NIF 500280312, veio notificar à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de clientes.
+Os dados objeto de registo são os seguintes:
+Nome completo e assinatura, data de nascimento, naturalidade, nacionalidade, filiação, morada completa, profissão, género, número, data e entidade emitente do documento de identificação, NIF, património financeiro e envolvimento creditício.
+A recolha de dados é feita de forma direta, mediante preenchimento de impresso.
+Ao titular dos dados é facultado conhecer, corrigir e eliminar os dados que lhe respeitem, desde que o solicite por escrito à requerente.
+A segurança é garantida nos termos descritos no formulário de notificação.
+Pretende-se que os dados sejam conservados de acordo com a legislação em vigor.
+2 - Estando em causa operações relativas ao crédito e solvabilidade dos titulares, o tratamento notificado está sujeito a autorização da Comissão Nacional de Protecção de Dados (artigo 28° n° 1, alínea b), da Lei n° 67/98, de 26 de outubro).
+Os dados são tratados no âmbito de uma relação contratual, com consentimento do titular. A CNPD considera que existe, por isso, legitimidade para o tratamento de dados, entendendo-se que o suporte/fundamento do tratamento pode ser encontrado na previsão da alínea a) do artigo 6° da Lei n° 67/98, de 26 de outubro, ou seja, a execução de uma obrigação contratual.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 13108/12 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. alínea c) do nº1 do artigo 5° da Lei n° 67/98, de 26 de outubro).
+Os dados devem ser exatos e, se necessário, atualizados (cf. artigo 5°, alínea d), da
+Lei n° 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da Lei n° 67/98), sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou retificados os dados inexatos ou incompletos ou não necessários (cf. artigo 5° n.º 1, alíneas c) e d), e n.º 3 da Lei n° 67/98).
+O prazo de conservação deverá ser assim o de dez anos após cessação da relação com o cliente, consoante o princípio geral aplicável no âmbito comercial.
+A requerente pretende realizar uma interconexão dos dados recolhidos com o BANIF
+Banco Internacional do Funchal, SA, no âmbito de uma parceria de cross-selling de produtos. Para tal, é necessário obter o consentimento expresso, inequívoco e informado dos titulares dos dados.
+As medidas de segurança apresentam-se adequadas. Todavia, independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, e a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+3 - Em face do exposto, a CNPD autoriza o tratamento, nos termos declarados e com as especificidades constantes da presente autorização, consignando-se, nos termos dos artigos 27°, 28° n.º 1, alínea b), e 30.° da Lei n° 67/98, de 26 de outubro, o seguinte:
+Responsável pelo tratamento: Banco BANIF MAIS, S.A.
+Finalidade do tratamento: gestão de clientes
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 13108/12 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categorias de dados pessoais tratados: Nome completo e assinatura, data de nascimento, naturalidade, nacionalidade, filiação, morada completa, profissão, género, número, data e entidade emitente do documento de identificação, NIF, património financeiro e envolvimento creditício.
+Forma de exercício do direito de acesso e retificação: mediante pedido dirigido por escrito ao requerente
+Comunicação de dados pessoais: BANIF Banco Internacional do Funchal, SA
+Eventuais interconexões de dados pessoais: BANIF Banco Internacional do Funchal,
+SA
+Transferência de dados para países terceiros: não há
+Lisboa, 15 de feresmo de 2013.
+Luís Barroso, Ana Roque (relatora), Carlos Campos Lobo, Helena Delgado António,
+Vasco Almeida, Luis Paiva de Andrade
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

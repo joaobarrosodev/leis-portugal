@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARINHA - DEPÓSITO DE MUNIÇÕES NATO DE LISBOA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:10:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1687/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1588](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1588).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 1394/2003 1687
+AUTORIZAÇÃO N.° /2007 1. O Depósito de Munições Nato de Lisboa da Marinha vem solicitar autorização para tratar dados pessoais, com a finalidade de manter o registo clínico do Serviço de Saúde.
+2. Os dados pessoais contidos em cada registo são o número de identificação, posto, nome, endereço e registo clínico.
+3. Há recolha directa de dados pessoais pessoalmente.
+4. Não há comunicação de dados, interconexões nem fluxo transfronteiras.
+5. Não existe interconexões de tratamentos.
+6. Os dados são conservados durante 3 anos, tempo de duração da comissão de serviço.
+7. O titular pode conhecer, corrigir e eliminar os seus dados, durante a consulta médica.
+8. O responsável, de acordo com os elementos dos presentes autos, recolhe dados pessoais sensíveis, porquanto os mesmos contêm dados de saúde.
+9. Segundo informações fornecidas pela requerente, é obtido o consentimento dos titulares dos dados.
+10. Atendendo à categoria de dados pessoais que a requerente pretende tratar e à finalidade a que se destinam, temos que os dados se apresentam como
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS pertinentes, adequados e não excessivos, nos termos preceituados no artigo 5.° da Lei n° 67/98, estando igualmente legitimado o tratamento e recolha de dados desta natureza pelo consentimento prévio e esclarecido dos interessados, nos termos do artigo 7.°, n.º 2, da Lei n.º 67/98, de 26 de
+Outubro.
+Em face do exposto, a CNPD autoriza o tratamento de dados, nos termos dos artigos 7.°, n.° 2, 27.°, n.° 1, 28.°, n.° 1, alínea a) e 30.°, da Lei n.° 67/98, de 26 de Outubro, consignando-se o seguinte:
+A. Responsável: Depósito de Munições Nato de Lisboa da Marinha.
+B. Categorias de dados pessoais tratados: número de identificação, posto, nome, endereço e registo clínico.
+C. Finalidade: Manutenção do registo clínico do Serviço de Saúde.
+D. Forma de exercício do direito de acesso e rectificação: Durante a consulta médica.
+E. Eventuais interconexões de tratamentos de dados: Não há.
+F. Transferências de dados para países terceiros: Não há.
+G. Prazo de conservação: durante 3 anos, tempo de duração da comissão de serviço.
+H. Medidas de segurança: acesso restrito de pessoas.
+Lisboa. 7 de ak de 2007
+Ana Roque
+Carlos Campos Lobo
+Helena Delgado António
+Rua de São Bento, 148 - 3.° -
+- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos
+Luís Barroso (Relator)
+reittmeia
+Vasco Almeida era Salas
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

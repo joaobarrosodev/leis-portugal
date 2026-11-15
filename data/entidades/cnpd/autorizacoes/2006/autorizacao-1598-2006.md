@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1598/2006
-official_date: null
+official_date: '2006-11-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CLÍNICA MÉDICA E DENTÁRIA DA ANTA UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:47:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1598/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4170](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4170).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 2387/06 1598
+AUTORIZAÇÃO n° /2006 1. A Clínica Médica e Dentária da Anta Unipessoal, Lda., veio notificar o tratamento de dados relativo à gestão, facturação e registo dos tratamentos médicos realizados. Como medidas de segurança o sistema dispõe de «cópias de backup», sistema de processamento de backup, password e acesso restrito de pessoas.
+2. O tratamento de dados inclui, para além do registo dos tratamentos médicos, a recolha do nome completo, sexo, BI, n° de contribuinte, telefone, morada, e-mail, idade, filiação, n° de filhos, NIF (se aplicável). Há, pois, tratamento de dados sensíveis, nos termos do art. 7°, n° 1, da Lei n° 67/98, de 26 de Outubro.
+Daqui decorre que o tratamento agora notificado só pode servir para as finalidades indicadas.
+3. A informação tratada, no âmbito das finalidades acima indicadas, é recolhida com o consentimento do titular, de forma lícita (artigo 5.° n.° 1 al. a), para finalidades determinadas, explícitas e legítimas (artigo 5.° n.° 1 al. b).
+O responsável deverá, ainda, assegurar:
+• O direito de informação e acesso aos titulares dos dados, nos termos do artigo 10.° e 11.° n.º 5 da lei 67/98);
+• A informação não pode ser utilizada para finalidades diversas das declaradas. Ou seja, não poderá ser utilizada para finalidade diversa da indicada no artigo 7.° n.º 4 da Lei 67/98.
+• A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7.° n.º 4). O sistema
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS deverá fazer a separação lógica entre dados administrativos e de saúde (cf. artigo 15.° n.º 3 da Lei 67/98) para assegurar as exigências supra-especificadas.
+Considera-se legítimo o tratamento - autorizando-se a recolha de dados (artigo 7.°, n.° 2, e 28, n.° 1 - al. a), da Lei 67/98) - devendo ser observadas, ainda as seguintes condições:
+1. Responsável - Clínica Médica e Dentária da Anta Unipessoal, Lda.
+2. Comunicação e interconexão de dados -Não há.
+3. Direito de Informação - Deverá ser prestado nos termos do artigo 10° da Lei n° 67/98.
+4. Direito de acesso - O titular tem direito de acesso e de rectificação dos dados que lhe dizem respeito, de acordo com o artigo 11°. da Lei n° 67/98.
+5. Finalidades - gestão, facturação e registo dos tratamentos médicos realizados.
+Lisboa, 7 de Novembro de 2006.
+Ana Roque (relatora)
+Luís Barroso
+алик
+Eduardo Campos
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Consta o
+Helena Delgado António
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

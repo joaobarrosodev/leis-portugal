@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 13173/2016
-official_date: null
+official_date: '2016-12-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CPA - COMPANHIA PRIVADA DE ALARMES, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,65 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T11:50:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 13173/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/99294](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/99294).
+Processo N.º10678/2016 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° 13113 12016 1 -Do Pedido
+CPA - COMPANHIA DE ALARMES, S.A., NIPC n.º 504957848, veio notificar à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de organizar um registo informático de atividades no âmbito da segurança privada.
+Do pedido resulta que:
+a) Os dados pessoais tratados são: dados dos clientes;
+b) A recolha de dados é feita de forma direta, presencialmente, por impresso, por fax e por email;
+c) Não se verifica comunicação de dados a terceiros nem interconexões de tratamentos;
+d) O exercício do direito de acesso é feito presencialmente junto do responsável;
+e) Pretende-se a conservação de dados pelo período de vigência do contrato;
+f) Não são indicadas medidas de segurança a implementar pela Requerente.
+2 - Análise
+Constitui fundamento de legitimidade para o tratamento o cumprimento de obrigação legal, nos termos da alínea b) do artigo 6.° da Lei 67/98 de 26 de outubro, alterada pela Lei n. 103/2015 de 24 de agosto (Lei de Proteção de Dados Pessoais - LPDP).
+Na verdade, a alínea c) do n.º 1 do artigo 37.° da Lei 34/2013, de 16 de maio, impõe a obrigatoriedade das empresas de segurança organizarem um registo informático de atividades, de acordo com a LPDP, permanentemente atualizado e disponível para consulta das entidades fiscalizadoras.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.º 10678/2016 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O artigo 38.° da Lei 34/2013, de 16 de maio, consagra a obrigatoriedade de o registo informático supra referido conter os seguintes elementos: designação e número de identificação fiscal do cliente, número do contrato, tipo de serviço prestado, data de início e termo do contrato, local ou locais onde o serviço é prestado, horário da prestação de serviços, meios humanos utilizados, meios materiais e caraterísticas tecnicas desses meios.
+A informação tratada é recolhida de forma lícita (cf. artigo 5°, nº1, alínea a) da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b)) e os dados a tratar consideram-se adequados, pertinentes e não excessivos (cf. alínea c)).
+Os dados devem ser exatos e, se necessário, atualizados (cf. artigo 5.°, alínea d) da
+LPDP), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior, sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou retificados os dados inexatos ou incompletos ou não necessários (cf. artigo 5.° n.º 1, alineas c) e d), e n.° 3 da LPDP).
+No momento da recolha ou da atualização dos dados existentes deve ser assegurado direito de informação nos termos previstos nos artigos 10.° da LPDP. Durante o período de conservação dos dados deve igualmente ser assegurado o direito de acesso nos termos do artigo 11.° da LPDP.
+Relativamente aos prazos máximos de conservação de dados, atento o disposto na alínea e) do n.º 1 do artigo 5.° da LPDP, devem os dados pessoais ser conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior. O prazo pretendido é manifestamente insuficiente face ao cumprimento de obrigação legal de registo nos termos da alínea c) do n.° 1 do artigo 37.° da Lei 34/2013, de 16 de maio. No uso da competência prevista na alínea f) do n.°
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.º 10678/2016 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1 do artigo 23.° da LPDP fixa-se o prazo de conservação dos dados enquanto durar a atividade da empresa.
+O responsável pelo tratamento deve implementar medidas de segurança adequadas para proteção dos dados pessoais nomeadamente contra a destruição, alteração ou acesso não autorizado, nos termos do artigo 14.° da LPDP.
+1. Conclusão
+Assim, nos termos das disposições conjugadas do artigo 6 ° alínea b), 27.° e artigo 30.° da LPDP, considera-se notificado o tratamento de dados supra referido nos seguintes termos:
+Responsável pelo tratamento: CPA - COMPANHIA DE ALARMES, S.A.;
+Finalidade do tratamento: organizar um registo informático de atividades;
+Categorias de dados pessoais tratados: designação e número de identificação fiscal do cliente, número do contrato, tipo de serviço prestado, data de início e termo do contrato, local ou locais onde o serviço é prestado, horário da prestação de serviços, meios humanos utilizados, meios materiais e caraterísticas técnicas desses meios;
+Forma de exercício do direito de acesso e retificação: presencialmente junto do responsável;
+Comunicação de dados pessoais: não há;
+Prazo de conservação dos dados: durante o período de atividade da empresa;
+Lisboa, 20 de dezembro de 2016.
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Días úteis das 10 às 13 h duvidas@cnpd.pt

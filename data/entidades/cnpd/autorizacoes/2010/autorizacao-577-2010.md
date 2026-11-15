@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IRIS - INSTITUT DE RECHERCHES INTERNATIONALES SERVIER'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:54:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 577/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21544](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21544).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. N°: 98/2010
+AUTORIZAÇÃON: 577/12010
+I.R.I.S. - Institut de Recherches Internationales Servier, representado pela Servier
+Portugal notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clinico com o objectivo de avaliar eficácia de medicamentos de uso humano em doentes com insuficiência cardíaca crónica e disfunção ventricular esquerda a receberem terapêutica optimizada para esta patologia (Protocolo nº.: CL2-44121-003).
+Trata-se de um ensaio clínico "... de 12 semanas, aleatorizado, em dupla ocultação, grupos paralelos, controlado com placebo, internacional e multicêntrico ...", que visa "... avaliar os efeitos da administração oral crónica de 4 dosagens de S 44121 comparativamente com placebo no péptido natriurético cerebral e na função cardiaca ....
+O estudo prevê a participação de 125 doentes, 25 dos quais irão realizar uma análise farmacocinética de 24 horas, tendo por isso de permanecer uma noite no hospital/instituição onde decorre o ensaio. Os 25 doentes sujeitos a esta análise receberão uma compensação pecuniária pelos inconvenientes relativos à hospitalização.
+As categorias de dados recolhidos são as seguintes: código do doente, peso, altura, data de nascimento, sexo, raça, hábitos tabágicos, consumo de álcool, contracepção (mulheres), história médica, exame físico, sinais vitais, história clínica, teste de gravidez, E.C.G., eventos adversos, medicação concomitante, nome do investigador e dados farmacocinéticos.
+O doente será identificado apenas por um código, sendo a chave desta codificação apenas do conhecimento do médico assistente.
+A CNPD já se pronunciou na sua Deliberação N.º333/07 o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explicitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+No que concerne ao tratamento do dado raça, o responsável justifica a sua necessidade do seguinte modo: "Esta informação é essencial, devido à necessidade de provar que os resultados obtidos são válidos independentemente da origem étnica do doente, e por isso transponíveis para outros grupos populacionaisi
+O fundamento de legitimidade é o consentimento expresso para o titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: I.R.I.S. - Institut de Recherches Internationales Servier, representado pela Servier Portugal.
+Finalidade: gestão do ensaio clínico com o objectivo de avaliar eficácia de medicamentos de uso humano em doentes com insuficiência cardiaca crónica e disfunção ventricular esquerda a receberem terapêutica optimizada para esta patologia (Protocolo n°.: CL2-44121-003).
+Categoria de Dados Pessoais tratados: código do doente, peso, altura, data de nascimento, sexo, raça, hábitos tabágicos, consumo de álcool, contracepção (mulheres), história médica, exame fisico, sinais vitais, história clínica, teste de gravidez, E.C.G., eventos adversos, medicação concomitante e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação: Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação:
+Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do Anexo I do DL 176/2006, 30 de
+Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Dos termos e condições fixados na Deliberação n.º333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa. de Fevereiro de 2010
+Ana Roque, Luís Paiva de Andrade (Relator), Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)

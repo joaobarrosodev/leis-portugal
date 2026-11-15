@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IKEA - MÓVEIS E DECORAÇÃO, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,103 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:28:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 643/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14498](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14498).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n° 1495/08
+AUTORIZAÇÃO N°6 43 /2009
+O Pedido
+A IKEA Portugal Móveis e Decoração, Lda. veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas em Matosinhos.
+A empresa declara que não existe comissão de trabalhadores.
+Pretende-se colocar 64 câmaras que abrangem as seguintes áreas: controlo de abertura do cais IKEA, saídas de emergência, parque de colaboradores, parque exterior, cais da transportadora, saídas de emergência, entradas e saídas dos parque -1 e -2, áreas de exposição, área de restauração, acessos aos diferentes pisos, átrios nas entrada e saída da loja, ponto de informação, escada rolante, antenas da entrada da loja, linha de caixas, self-service, antenas de saída da loja, cais interiores IKEA, parque -1, entradas e saídas pelo silo, casa das máquinas dos elevadores, piso -1, zona do átrio, tapetes rolantes, portas automáticas, acesso aos elevadores, entradas de colaboradores, parque -2, portas dos armazéns, piso -2, entrada e saída do parque -2, caixa da linha do restaurante, hall da recepção, corredor técnico, sala de contagem de valores, entrada da sala de valores, cafetaria do market hall, entrada do market hall, interior do espaço infantil, exterior do espaço infantil, caixa do bistro, loja sueca, caixa da loja sueca, balcões de atendimento, parque da transportadora, garagem de recolha de valores, piso -1, piso -3, corredores de emergência e caixa de escadas.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD)
+elaborou o projecto de autorização de 9 de Janeiro de 2009, no sentido de não autorizar a recolha de imagens através das câmaras colocadas no interior da sala de valores e no interior do espaço infantil. A entidade requerente foi notificada do referido projecto, através do ofício n.º 205, de 9 de Janeiro de 2009, nos termos e
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS para os efeitos do disposto no artigo 100.º do Código do Procedimento
+Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio requerer a alteração da decisão, sustentando que as câmaras instaladas no interior da sala de valores serão direccionadas apenas para as portas de entrada/saída, sem captar o seu interior. Acresce ainda, a empresa que, não existe câmaras colocadas no interior do espaço infantil, as mesmas, encontram-se direccionadas para as portas de entrada e saída da referida área.
+IL.
+Análise
+Através da deliberação n° 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7° e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da empresa no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos ou danos em equipamentos. As instalações podem ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima () Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+No entanto, as imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.º do Código do Trabalho (?). Neste sentido, considerou a CNPD, que as câmaras colocadas no interior da sala de valores deviam ser direccionada para as portas de entrada/saída, sem incidirem directamente sobre o seu interior. Pretende-se desta forma, proteger os direitos dos trabalhadores, dissuadindo, no entanto, da prática de actos ilícitos por terceiros estranhos às instalações. Caso tal não seja possível, deviam as mesmas ser retiradas.
+Considerou ainda a CNPD, excessiva e desproporcionada, a colocação de uma câmara no interior do espaço infantil, uma vez que, tal captação de imagens permite ao responsável pelo tratamento uma intromissão desproporcionada nos movimentos dos clientes (crianças e respectivos pais) no interior das instalações, (2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS nomeadamente em momentos de lazer. Face ao exposto, devia a referida câmara ser retirada.
+Perante o referido, a entidade veio alegar em síntese o seguinte:
+1. Relativamente às câmaras instaladas no interior da sala de valores, a IKEA direccionará as mesmas para as portas de entrada/saída dessa sala, e as mesmas não incidirão directamente sobre o seu interior;
+2. Relativamente à câmara instalada no interior do espaço infantil, consideramos haver um mal entendido, isto porque:
+a. As câmaras colocadas junto do espaço infantil (duas) encontram-se colocadas nos seguintes locais: entrada da loja e entrada do Market
+Hall, sendo que ambas estão direccionadas para as portas de entrada e saída do espaço infantil (e ambas colocadas no exterior do parque infantil);
+b. Não existe qualquer câmara colocada no interior do espaço infantil;
+c. Nenhuma das câmaras colocadas no exterior do parque infantil serve para a captação de imagens dos movimentos de quem se encontre no interior do mesmo.
+Assim, atendendo aos factos agora indicados pela requerente e aos documentos juntos ao processo, a CNPD admite que as referidas câmaras sejam instaladas nos locais pretendidos.
+II. Conclusões
+Considera-se, por isso, legitimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - IKEA Portugal Móveis e Decoração, Lda.
+2. Finalidade - Protecção de pessoas e bens.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 4 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem»
+(Art.º13.° n.°3 do Decreto-Lei n.º35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. A recolha de imagens deve confinar-se ao perímetro da propriedade e não podem envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+9. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a actividade laboral (cf. artigo 20.° do Código do Trabalho).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 5 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 16/02/09
+Ana Roque, Carlos Lobo, Helena Delgado António, Vasco Almeida, Luís Barroso,
+Luís Paiva de Andrade
+>
+Luís Lingnau da Silveira (Presidente), que relatou.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 6
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

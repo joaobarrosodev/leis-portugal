@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SAFEBAG - INDÚSTRIA DE COMPONENTES DE SEGURANÇA AUTOMÓVEL - (PONTE LIMA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:14:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 21/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6504](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6504).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.º 15154/1545/05
+Autorização n.°21/2006
+Através da Autorização n.º 813/2005, a Safebag - Indústria de Componentes de
+Segurança Automóvel, SA ficou autorizada a realizar um tratamento de videovigilância, tendo sido, contudo, considerada excessiva a utilização de uma câmara na zona de acesso aos balneários, na medida em que está em causa o valor vida privada, protegido pela Constituição (artigo 35.) e pelo artigo 7.°, n.º 1 da Lei n.° 67/98, de 26 de Outubro.
+Posteriormente a entidade esclareceu que a utilização de uma câmara na zona de acesso aos balneários, mais propriamente nas escadas exteriores de acesso, prende-se com o facto deste local se encontrar nas traseiras da fábrica, zona onde não há qualquer tipo de movimentação de pessoas durante os periodos de laboração. Neste momento estas escadas não são utilizadas para aceder aos balneários, uma vez que o mesmo é feito pelo interior da fábrica. Além do mais, a câmara permite o acesso a bombas do sistema de combate a incêndios.
+Esta razão retira pertinência ao motivo que levou a CNPD a proibir a instalação da câmara situada no exterior da fábrica.
+Nesta conformidade, altera-se a Autorização n.º 813/2005, no sentido de permitir que seja instalada a câmara aí proibida.
+Lisboa, |G de Janeiro de 2005
+Alexandre Sousa Pinheiro (relator)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Luís Barroso
+Eduardo Campos
+Gundoye
+Ana Roque
+Aneden
+Amadeu Guerra
+Luís Lingnau da Silveira
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

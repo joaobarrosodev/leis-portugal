@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 667/2017
-official_date: null
+official_date: '2017-05-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Catharine Stephanie Falch'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,31 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:37:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 667/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/104977](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/104977).
+Processo n.º 12639/2016
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃO N.° 667/2017
+Tendo-se verificado um erro na enunciação dos questionários aplicados no âmbito do estudo objeto da Autorização n.º 4681/2017, emitida pela Comissão Nacional de
+Protecção de Dados, procede-se, nos termos do artigo 174.° do Código do
+Procedimento Administrativo, à retificação da referida autorização nos seguintes termos:
+Onde se lê:
+"O investigador principal aplicará, então, quatro questionários aos participantes, pelos quais serão recolhidos os dados demográficos, identificação do médico de família e dados de medicação do doente, incluindo todos os medicamentos sujeitos e não sujeitos a receita médica, tal como suplementos alimentares. Serão também administradas as versões portuguesas do questionário de avaliação da adesão à medicação, o Medication
+Adherence Report Scale (MARS) e o World Health Organization Quality of Life - Older
+Adults Module (WHOQOL-OLD)."
+Deve ler-se:
+"O investigador principal aplicará, então, quatro questionários aos participantes, pelos quais serão recolhidos os dados demográficos, identificação do médico de família e dados de medicação do doente, incluindo todos os medicamentos sujeitos e não sujeitos a receita médica, tal como suplementos alimentares. Serão também administradas as versões portuguesas do questionário de avaliação da adesão à medicação, o Medication
+Adherence Report Scale (MARS), o questionário de avaliação da qualidade de vida (EUROHIS-QOL-8) e o World Health Organization Quality of Life - Older Adults Module (WHOQOL-OLD).".
+A presente declaração fica a fazer parte integrante da Autorização n.° 4681/2017.
+Lisboa, 16 de maio de 2017
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

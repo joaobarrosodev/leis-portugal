@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7/2006
-official_date: null
+official_date: '2006-03-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO SECRETÁRIO DE ESTADO DAS PESCAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,34 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:23:12Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 7/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5813](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5813).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 483/2006
+PARECER N.° 0 7 /2006 1. O Governo, através do Gabinete do Secretário de Estado Adjunto da Agricultura e das Pescas, solicitou à Comissão Nacional de Protecção de Dados (CNPD) a emissão de parecer sobre um projecto de decreto-lei que estabelece o Sistema Nacional de
+Informação Animal das espécies bovina, ovina, caprina, suína e equídeos.
+A CNPD já emitiu o Parecer n.º 30/2005, de 2 de Setembro, objecto de ratificação através da Deliberação n.º 141/2005, de 20 de Setembro.
+2. Verifica-se que foram feitas as precisões ao artigo 7°, sendo agora claro que o responsável pelo tratamento é o INGA, cabendo à Direcção Geral de Veterinária definir qual a informação necessária ao funcionamento do SINIRA.
+Estes tratamentos deverão ser objecto de notificação à CNPD, nos termos do artigo 27.° da lei 67/98, de 26 de Outubro. A CNPD - de acordo com o regime estabelecido neste projecto de Decreto-Lei e com os princípios de protecção de dados constantes da lei 67/98 - estabelecerá as condições em que são tratados os dados.
+3. Anota-se que os documentos de recolha de dados devem observar o disposto no artigo 10.° n.° 1 e 2 da lei 67/98, por forma a ser assegurado o direito de informação aos titulares dos dados.
+Lisboa, O 7 de Março de 2006
+Amadeu Guerra (relator)
+Ana Roque (que
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Alexandre Pinheiro
+Luís Barroso
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

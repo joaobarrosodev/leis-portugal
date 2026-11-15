@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 384/2008
-official_date: null
+official_date: '2008-03-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FUNDAÇÃO REALIZAR UM DESEJO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:45:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 384/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1179](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1179).
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 209/08
+AUTORIZAÇÃON 384 2008 1 - A Fundação Realizar Um Desejo vem notificar a Comissão Nacional de Protecção de Dados (CNPD) de um tratamento de dados pessoais constantes de um formulário de apresentação de candidatura a Voluntário da referida Fundação.
+Os dados pessoais objecto de recolha são os seguintes:
+Dados de identificação: Nome, apelido, sexo, endereço pessoal e profissional, número de telefone de casa e do emprego, e-mail, data de nascimento;
+Dados de saúde: informação sobre se padece de doença e/ou algum problema psicológico e tipo de patologia (resposta obrigatória quando a área de intervenção seja a de realizar desejos envolvendo uma visita à criança e a respectiva família);
+Outros dados: cópia de carta de condução, cópia do seguro do veículo e certificado do registo criminal.
+Os dados são recolhidos mediante preenchimento do formulário de que está junto modelo nos autos. Caso a candidatura do titular dos dados não seja aprovada, ser-lhe-à devolvido o formulário.
+O titular dos dados presta o seu consentimento para a utilização dos dados pela requerente mediante a assinatura e datação de uma declaração de consentimento informado que faz parte integrante do formulário de recolha de dados.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 013 028 10n En
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A segurança das informações é garantida por cópias de back up dos dados e password de acesso às informações, sendo assegurada a segurança física das instalações mediante o acesso restrito de pessoas.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+Pretende-se a conservação dos dados pelo período de 3 anos após a cessação da qualidade de voluntário.
+2 - A Fundação Realizar Um Desejo está integrada na rede Make-A-Wish International que tem por principal objectivo o desenvolvimento de actividades no âmbito da solidariedade social, e propõe-se, designadamente, conceder gratuitamente desejos a crianças e jovens com idades entre os 3 e os 18 anos, residentes em Portugal, que têm a sua vida em risco devido a doenças progressivas, degenerativas ou malignas.
+No âmbito desse objectivo vem notificar a Comissão Nacional de Protecção de Dados (CNPD) de um tratamento de dados pessoais constantes de um formulário com vista à apresentação de candidatura à função de Voluntário da referida Fundação.
+Porque parcialmente referentes à saúde e à vida privada, os dados têm a natureza de sensíveis, razão pela qual o respectivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n° 2 do artigo 7° da Lei n° 67/98, de 26.10.
+Por esta razão é necessário, no caso em apreço, o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objecto de
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 837
+
+96
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS tratamento, o qual deve ser obtido através de uma declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10° da Lei n.º 67/98, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação explicativa sobre os objectivos e metodologia da actividade que se pretende desenvolver.
+No caso em apreço, o tratamento de dados pessoais está na disponibilidade dos seus titulares, apenas a estes cabendo decidir se pretendem prestar as informações em causa e autorizar a recolha de informação para a finalidade pretendida.
+A Comissão Nacional de Protecção de Dados considera, assim, existir legitimidade para o tratamento dos dados (artigos 3° alínea h) e 7° n°2 da Lei 67/98, de 26.10).
+A informação tratada é recolhida de forma lícita (artigo 5°, n.º1 alínea a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+Os dados só poderão ser conservados para a finalidade do tratamento, enquanto se mostrem necessários à prossecução da finalidade, após o que deverão ser automaticamente destruídos.
+Por essa razão afigura-se excessivo o prazo de 3 anos proposto pela requerente.
+Os dados que não sejam utilizados deverão ser de imediato destruídos.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3 - Conclusão
+Em face do exposto, a Comissão Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 28 nº1 alínea a) e 30.° nº1 da Lei n.º 67/98, de 26.10, consignando-se o seguinte:
+1 - Responsável do tratamento: Fundação Realizar Um Desejo 2 - Categorias de dados pessoais tratados:
+Dados de identificação: Nome, apelido, sexo, endereço pessoal e profissional, número de telefone de casa e do emprego, e-mail, data de nascimento;
+Dados de saúde: informação sobre se padece de doença e/ou algum problema psicológico e tipo de patologia (resposta obrigatória quando a área de intervenção seja a de realizar desejos envolvendo uma visita à criança e a respectiva família);
+Outros dados: cópia de carta de condução, cópia do seguro do veículo e certificado do registo criminal.
+3 - Finalidade: preenchimento de formulário de apresentação de candidatura a
+Voluntário da referida Fundação.
+4 - Forma de exercício do direito de acesso e rectificação: mediante pedido escrito junto da Fundação.
+5 - Medidas de segurança: cópias de backup dos dados, password de acesso às informações e segurança física das instalações mediante o acesso restrito de pessoas.
+6 - Comunicação de dados: Não há
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 83>
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 7 - Interconexão e fluxos transfronteiriço de dados: Não há 8 - Tempo de conservação dos dados: Os dados só poderão ser conservados para a finalidade do tratamento e enquanto se mostrem necessários à prossecução da finalidade, após o que deverão ser automaticamente destruídos.
+Os dados que não sejam utilizados deverão ser de imediato destruídos.
+Lisboa, 10 de Marco de 2008
+Luís Barroso
+Eduardo tantole
+Ana Roque capee ece
+Helena Delgado António (relatora)
+VascoAlmeida
+Vasco Almeida tare
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

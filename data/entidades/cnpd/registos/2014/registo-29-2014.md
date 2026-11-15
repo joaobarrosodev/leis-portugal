@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 29/2014
-official_date: null
+official_date: '2014-01-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: General Motors Portugal, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:57:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 29/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/62196](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/62196).
+Processo n.º 8398/2010 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+REGISTON.º 29 /2014
+GENERAL MOTORS PORTUGAL, Lda. notificou um tratamento de dados pessoais com a finalidade de gestão da avaliação de desempenho e aptidões dos trabalhadores.
+A entidade encarregada do processamento da informação é a General Motors Company, estabelecida nos EUA, e aderente aos Princípios de Porto Seguro.
+Os dados pessoais tratados dizem respeito às seguintes categorias: dados de identificação, dados de contacto, dados relativos à função profissional, habilitações literárias.
+Os dados pessoais são comunicados à empresa mãe - General Motors Company - , no âmbito do sistema transversal de avaliação de desempenho dos trabalhadores das empresas do grupo.
+Os dados pessoais recolhidos são pertinentes e não excessivos face à finalidade declarada, conforme o disposto na alínea c) do n.° 1 do artigo 5.° da Lei n.º 67/98, de 26 de outubro - Lei de
+Proteção de Dados (LPD).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da LPD, a execução de contrato.
+Quanto à transferência internacional de dados, a mesma assenta a sua legitimidade na prossecução de interesses legítimos do responsável, conforme alínea e) do artigo 6.° da LPD.
+Assim, em conformidade com o n.° 1 do artigo 27° e do n.º1 do artigo 30.° da Lei n.° 67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+GENERAL MOTORS PORTUGAL, Lda.
+Finalidade
+Gestão da avaliação de desempenho e aptidões dos trabalhadores.
+Categoria de dados pessoais tratados
+Dados de identificação, dados de contacto, dados relativos à função profissional, habilitações literárias
+Forma de exercício dos direitos de acesso e retificação
+Pessoal ou por impresso
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 8398/2010 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Comunicações de dados a terceiros
+Sim, à General Motors Company
+Interconexões
+Não há
+Transferências para países terceiros
+Sim, à General Motors Company
+Prazo máximo de conservação dos dados
+Duração da relação contratual
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Havendo lugar à subcontratação de serviços, o responsável está obrigado a observar as exigências legais previstas no artigo 14.° da LPD, designadamente proceder à celebração de contrato, nos termos do n.º 3, e zelar pelo cumprimento das medidas de segurança necessárias à proteção dos dados pessoais, conforme disposto nos n.°s 1 e 2.
+Lisboa, 20 de janeiro de 2014
+A Secretária da CNPD,
+Drague
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

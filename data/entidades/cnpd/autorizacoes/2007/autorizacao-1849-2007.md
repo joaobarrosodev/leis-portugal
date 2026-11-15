@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FÁBRICA IGREJA PAROQUIAL DA FREGUESIA DA RIBEIRA BRAVA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:08:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1849/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1301](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1301).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 2146/2006
+AUTORIZAÇÃO N.º 1849/2007
+A Fábrica Igreja Paroquial da Freguesia da Ribeira Brava veio notificar junto da
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados nas suas instalações, sitas na Rua Camachos, n.º 20, Vila, na Ribeira Brava.
+Declara o responsável pelo tratamento de dados que pretende instalar uma câmara fixa que capta "imagem do altar nas cerimónias religiosas (...) para que as pessoas que estão do lado de fora da porta da igreja participem da cerimónia religiosa no altar-mor".
+A utilização da pretendida câmara está regulada na Lei da Protecção de Dados Pessoais (Lei n.° 67/98, de 26 de Outubro), que expressamente estende o seu âmbito de aplicação à videovigilância e a outras formas de captação de sons e imagens que permitam identificar pessoas (cf. artigo 4.°, n.º 4).
+Dispõe o artigo 7.°, n.º 1, da Lei da Protecção de Dados Pessoais, que "é proibido o tratamento de dados pessoais referentes a convicções filosóficos ou políticas, filiação partidária ou sindical, fé religiosa, vida privada e origem racial ou étnica, bem como o tratamento de dados relativos à saúde e à vida sexual, incluindo os dados genéticos" (sublinhado nosso).
+Aliás, o artigo 35.° da Constituição da República Portuguesa (CRP) determina, no seu n.º 3, quea informática não pode ser utilizada para tratamento de dados referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa, vida privada e origem étnica, salvo mediante consentimento expresso do titular (...)".
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A CNPD entende que a pretendida recolha de imagens no altar envolve uma grande restrição do direito à imagem, à vida privada e à fé religiosa das pessoas que frequentam aqueles locais e que eventuais interesses do responsável do tratamento não podem limitar a liberdade de religião e de culto, reconhecida constitucionalmente pelo artigo 41.° da CRP.
+No entanto, conforme adianta o n.º 2 do citado artigo 7.° que imediante disposição legal ou autorização da CNPD pode ser permitido o tratamento dos dados referidos no número anterior (...) quando o titular dos dados tiver dado o seu consentimento expresso para esse tratamento" (sublinhado nosso).
+No caso em apreço, tendo em conta que não existe qualquer legislação que permita ao responsável pelo tratamento efectuar o pretendido tratamento de dados pessoais face à finalidade declarada (projecção do altar nas cerimónias religiosas), poderá o referido responsável, para realizar o tratamento, obter o consentimento expresso de todas as pessoas envolvidas nas referidas cerimónias (n.º 2 do artigo 7° da Lei n.º 67/98).
+Caso o responsável pretenda unicamente captar o altar, visionando unicamente o pároco a celebrar a missa (ou qualquer outra cerimónia religiosa), deverá ser obtido apenas o consentimento expresso daquele pároco.
+Lisboa, 8 Oututro 200t
+Ana Roque
+Carlos
+Campos Lobo
+Eduardo Campos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Helena Delgado António (Relatora)
+Luís Barroso
+Vascolmeida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

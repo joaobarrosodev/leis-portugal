@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Modelo Continente Hipermercados, SA'
-- 'Texto incompleto: 1 de 4 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,8 +69,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T16:01:29Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
@@ -118,4 +117,4 @@ Lisboa, 12-11-2015
 A Presidente
 ￼
 
-Filipa Calvão
+Filipa Calvão di

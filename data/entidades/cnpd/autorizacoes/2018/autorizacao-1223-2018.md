@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1223/2018
-official_date: null
+official_date: '2018-01-30'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Porta XXI, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T07:10:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1223/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/115599](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/115599).
+Proc. n.° 199/2018 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 1223/2018
+PORTA XXI - Comércio e Indústria de acessórios e portas para a construção civil, S.A., com o NIPC n.º 503962007, notificou à Comissão Nacional de Proteção de Dados (CNPD), um tratamento de dados pessoais com a finalidade de gestão da informação dos Serviços de
+Medicina no Trabalho.
+As entidades encarregues do processamento da informação são CEBRAMA II - Serviços,
+Lda., e GAGLIARDINI & Patrício, Lda., entidades com as quais a responsável pelo tratamento celebrará o contrato previsto no artigo 14.° da Lei n.º 67/98, de 26 de outubro, alterada pela
+Lei n.º103/2015, de 24 de agosto (Lei de Proteção de Dados Pessoais - LPDP).
+Na notificação, constam como dados tratados os supra descritos. Atenta a finalidade notificada, de gestão de informação dos Serviços de Medicina no Trabalho, é óbvio, por implícito, que os dados de saúde, serão igualmente objeto de tratamento.
+Assim, porque se trata de uma imperfeição na formulação do pedido, e no sentido de suprir a falta de indicação explícita dos dados a tratar, ao abrigo do n.º 2 do artigo 108.° do Código do
+Procedimento Administrativo (CPA), redefinimos a caraterização dos dados notificada, aditando à lista de dados pessoais tratados, dados de saúde.
+A CNPD já se pronunciou na sua Deliberação n.º 840/20101 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da LPDP, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso sub iudice, a notificação enquadra-se no âmbito tipificado pela Deliberação n.º 840/2010.
+O fundamento de legitimidade é - nos termos do n.º 2 do artigo 7.° da LPDP - a Lei, consubstanciada nos artigos 281.° a 284.° do Código do Trabalho e na Lei n.° 102/2009, de 10 de Setembro, alterada em último pela Lei n.º 28/2016 de 23 de agosto.
+Os dados recolhidos são necessários e pertinentes para a finalidade declarada (cf. artigo 5.° da LPDP).
+1 Disponível em http://www.cnpd.pt/bin/orientacoes/DEL_840_2010_MED_trabalho_actualizada.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 11689/2015 1v.
+Quanto ao exercício do direito de acesso aos dados de saúde, nos termos do artigo 3.°, n.º 32, da Lei n.° 12/2005, de 26 de janeiro, na redação que lhe foi dada pela Lei n.° 26/2016, de 22 de agosto (Lei da Informação Genética Pessoal e Informação de Saúde), apenas existe intermediação de médico quando o titular dos dados o solicite; sublinha-se que, no âmbito finalidade, o direito de acesso é sempre exercido junto do médico de medicina do trabalho e não junto do responsável pelo tratamento.
+Assim, tendo em atenção o disposto nas disposições conjugadas do artigo 7.°, alínea a), com o n.º 1 do artigo 28.° e artigo 30.°, todos da LPDP e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam o presente instrumento de legalização, autoriza-se o tratamento notificado nos seguintes termos:
+Responsável pelo tratamento: PORTA XXI - Comércio e Indústria de acessórios e portas para a construção civil, S.A.;
+Finalidade: Medicina no Trabalho;
+Categoria de dados pessoais tratados: dados de identificação do trabalhador, dados relativos à atividade profissional, dados da ficha de aptidão, dados sobre riscos de doenças profissionais, incluindo plano terapêutico e dados de saúde;
+Comunicação de Dados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Autoridade para as Condições de Trabalho (cf. n.º 2 do artigo 109.° da Lei n.º 102/2009, de 10 de setembro);
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Forma de exercício do direito de acesso e retificação: O direito de acesso e retificação deverá ser exercido, presencialmente ou por escrito ao médico do trabalho;
+Interconexões: Não se verificam;
+Fluxo transfronteiriço de dados: Não há;
+Prazo Máximo de Conservação dos dados: Os dados pessoais podem ser conservados pelo período de cinco anos após a cessação do vínculo laboral nos termos do disposto no n.º 5 do artigo 73.°-B da Lei n.º 102/2009, de 10 de setembro, na redação atual, sem prejuizo da sua 2 Que assim dita: iO acesso à informação de saúde por parte do seu titular, ou de terceiros com o seu consentimento ou nos termos da lei, é exercido por intermédio de médico, com habilitação própria, se o titular da informação o solicitar.".
+
+Proc. n.º 199/2018 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS conservação para além do referido período caso seja necessário em sede de procedimento judicial em virtude de doenças profissionais e/ou acidentes de trabalho, incluindo em caso de revisão judicial do grau de incapacidade para o trabalho.
+No caso dos registos de dados dos trabalhadores estarem em situação suscetível de implicar risco para o património genético, o prazo de conservação é de 40 anos.
+Dos termos e condições fixados na Deliberação n.º 840/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve igualmente dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 30 de janeiro de 2018
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

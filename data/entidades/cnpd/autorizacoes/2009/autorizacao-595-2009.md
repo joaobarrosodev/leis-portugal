@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL DA HORTA - SERVIÇO DE NEFROLOGIA E HEMODIÁLISE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:29:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 595/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14350](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14350).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 2527.05
+Autorização N.°55S/09
+O Hospital da Horta notificou à Comissão Nacional de Protecção de Dados (CNPD)
+um tratamento de dados pessoais com a finalidade de gestão de arquivo de imagens radiológicas e respectivos relatórios.
+O Hospital da Horta especifica que todas as modalidades de imagem correntes em
+Radiologia e Cardiologia, obtidas sobre os doentes, serão armazenadas num servidor e, em caso de ser necessária a obtenção de qualquer informação acerca de um exame radiológico, pode aceder-se a ele, através do servidor, de qualquer local da unidade hospitalar, utilizando a rede informática interna.
+Só existe fundamento de legitimidade para o tratamento de dados referentes à saúde quando ele for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação (cf. artigo 7° - 4 da Lei 67/98, de 26 de Outubro).
+A segurança dos dados é garantida através do acesso restrito a profissionais de saúde, com disponibilidade de password própria e são efectuadas cópias de backup.
+Assim, autoriza-se, conforme o declarado pelo responsável do tratamento e nos termos dos artigos 27° n.º 1,7° - 4, 28° nº1 alínea a) e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento abaixo indicado:
+Responsável - Hospital da Horta
+Categoria de dados pessoais tratados - Dados de identificação do doente, exames radiológicos, dados da realização dos exames radiológicos, dados de saúde obtidos pelos exames radiológicos contidos no respectivo relatório.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Finalidade - Gestão de arquivo de imagens radiológicas e respectivos relatórios.
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsável, por intermédio de médico por si escolhido.
+Comunicações de dados - Não há.
+Interconexões - Não há.
+Fluxo transfronteiriço de dados para países terceiros - Não há.
+Prazo Máximo de conservação dos dados - Conforme o disposto na Portaria 247/2000, de 8 de Maio.
+Lisboa, 9 de FavrReno de 2009
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso, Luis
+Paiva de Andrade (Relator), Vasco Almeida
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 392
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SECRETARIA-GERAL DO MINISTÉRIO DA ECONOMIA E DA INOVAÇÃO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:11:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 6/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26919](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26919).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo N.º 132/2011
+PARECER N.º 6 12011
+PEDIDO
+Sua Ex. o Senhor Secretário de Estado do Comércio, Serviços e Defesa do
+Consumidor solicitou à Comissão Nacional de Protecção de Dados (CNPD)
+parecer sobre o Projecto de Decreto-lei que tem como objecto alterar o D/L 27-
+C/2000, de 10 de Março (Projecto).
+Este Projecto contem matéria relativa ao tratamento de dados pessoais, pelo que, por força do artigo 23.° - n.º 1 - a) da Lei 67/98, de 26 de Outubro, o parecer da CNPD é obrigatório.
+Cumpre emitir parecer;
+1- O D/L 27-C/2000, de 10 de Março, instituiu um sistema de garantia de acesso a serviços minimos bancários, com o objectivo de proporcionar o acesso a um conjunto de serviços financeiros e bancários aos consumidores mais vulneráveis e desprotegidos. Foi ele, em anteprojecto, apreciado pela
+CNPD que, a propósito emitiu o seu Parecer N.° 10/2000, de 15 de Fevereiro, e mereceu a sua Deliberação 20/2000, de 18 de Abril, após a sua publicação, atentas as muitas dúvidas que o regime suscitou. Parecer e Deliberação dão-se aqui como inteiramente reproduzidos.
+2- O presente Projecto ultrapassa as reservas então formuladas já que prevê agora:
+a) Um sistema impositivo, isto é os interessados passam a poder escolher a instituição de crédito de entre todas as existentes e não só das que voluntariamente teriam aderido ao sistema pois todas ficam obrigadas a proporcionar a adesão dos interessados, que para tal reúnam as condições.
+b) Consequentemente deixam de ser formalizados protocolos entre
+Governo, Banco de Portugal e instituições de crédito e deixa de haver controlo por parte das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito para confirmar a inexistência de qualquer cartão daquela natureza a favor do interessado no acesso aos serviços mínimos bancários.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS c) Cabe agora ao Banco de Portugal a fiscalização do disposto no D/L 27-C/2000, de 10 de Março, com a futura redacção, e a instrução e decisão dos processos de contra-ordenação que resultem das infracções ao regime estabelecido.
+d) É criado no Banco de Portugal um registo central de dados que deve integrar todas as contas de depósito à ordem dos titulares de serviços mínimos bancários que deverá estar permanentemente actualizado.
+e) E igualmente competência do Banco de Portugal a aprovação das disposições regulamentares que sejam necessárias à aplicação do diploma na sua nova formulação.
+3- Temos assim que será em sede do controlo prévio para eventual emissão de autorização, após a notificação obrigatória (cf. artigos 23.° - n.º 1 - b), 27.° - n.° 1 e 28.° - n.º 1 - b) da Lei 67/98, de 26 de Outubro) do acima referido ficheiro de dados pessoais a criar pelo Banco de Portugal que a CNPD aferirá da sua conformação com as normas e princípios da protecção de dados já que no mais, em termos de protecção de dados não se diferenciam as serviços mínimos bancários dos normais excepto na possibilidade da criação de perfis o que os regulamentos a aprovar devem ter em conta.
+É este o parecer da CNPD
+Lisboa 2 de Quilode 2011
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso,
+Luís Paiva de Andrade (Relator), Vasco Almeida
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+N

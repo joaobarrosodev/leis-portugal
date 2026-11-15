@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO ACTIVOBANK (PORTUGAL), S.A. - EX-BANCO MELLO DE INVESTIMENTOS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 66/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22325](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22325).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 3960/2009
+REGISTO N.° 66 12010
+O Banco ActivoBank (Portugal), S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaboração de inquéritos de satisfação.
+Os dados são recolhidos directamente pela Internet, telefone e impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, de acordo com as disposições conjugadas dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Banco ActivoBank (Portugal), S.A.
+Finalidade
+Elaboração de inquéritos de satisfação.
+Categoria de dados pessoais tratados
+Nome e morada do cliente, código do cliente (no caso de não ter solicitado o anonimato) e respostas ao questionário.
+Comunicação de dados
+Não há.
+Forma de exercício do direito de acesso e rectificação
+Interconexões
+Junto do responsável pelo tratamento dos dados.
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados 3 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 07/04/10
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

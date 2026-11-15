@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 119/2011
-official_date: null
+official_date: '2011-01-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SERVDEBT - CAPITAL ASSET MANAGEMENTT, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:29:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 119/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26812](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26812).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 9868/2010
+Autorização n.º 19 12010
+O pedido
+A Servdebt - Capital Asset Management, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de créditos litigiosos.
+Os dados tratados pela requerente - que actua como cessionária dos créditos cedidos pela
+Credifin- Banco de Crédito ao Consumo, SA e assume o risco de os adquirir e cobrar em caso de incumprimento - são recolhidos indirectamente, sendo-lhes comunicados pelas empresas cedentes.
+São processados os seguintes dados pessoais: nome, morada, data de nascimento, telefone, fax, e-mail, BI, NIF, dados relativos ao processo judicial, quantia exequenda, taxa de juro aplicada e fiadores.
+Análise jurídica do tratamento
+Os dados declarados são pertinentes, necessários e não excessivos face à finalidade (cf. al. c)
+do n.º 1 do artigo 5° da LPD).
+A cedência de dados é feita no âmbito de um contrato celebrado nos termos do disposto no artigo 577º do Código Civil, pelo que, nos termos do n.° 1 deste artigo, é realizada independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.° 1 do artigo 582° do
+CC).
+Os dados objecto do tratamento estão sujeitos a sigilo bancário, conforme resulta do artigo 78° do DL 298/92, de 31 de Dezembro. Assim, enquadra-se no conceito de vida privada do n.º 1 do artigo 7° da LPD.
+O fundamento de legitimidade é, nos termos do n.°2 do artigo 7° da LPD, o artigo 577° do CC.
+Quanto à segurança da informação - e porque estão em causa dados sujeitos ao sigilo bancário - devem ser adoptadas as medidas previstas no artigo 15° da LPD
+Independentemente das medidas de segurança adoptadas pelo responsável, e a este que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+Decisão
+Em face do exposto, nos termos do n.º 1, al. b) do artigo 23° e alínea b) do n.° 1 do artigo 28°, a
+CNPD autoriza o tratamento nos termos supra referidos, consignando-se para os efeitos do artigo 30° da LPD, o seguinte:
+Responsável - Servdebt - Capital Asset Management, Lda
+Finalidade - Gestão de créditos litigiosos;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categorias de dados tratados - nome, morada, data de nascimento, telefone, fax, e-mail, BI, NIF, dados relativos ao processo judicial, quantia exequenda, taxa de juro aplicada e fiadores,
+Entidades a quem podem ser transmitidos - Não há;
+Forma do exercício dos direitos de acesso e rectificação - Pessoalmente ou por escrito junto dos subcontratantes;
+Interconexões - Não existem;
+Fluxos para países terceiros - Não há;
+Prazo máximo de conservação dos dados - Cinco anos após o pagamento do crédito ou após o transito em julgado da decisão.
+Lisboa, 10 de Janeiro de 2011
+Carlos Campos Lobo, Helena Delgado António, Luís Barroso (Relator), Luís Paiva de Andrade,
+Vasco Almeida, Ana Roque
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

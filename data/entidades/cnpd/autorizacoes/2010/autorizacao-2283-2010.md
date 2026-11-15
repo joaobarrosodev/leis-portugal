@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SEP-SOCIEDADE DE EXPLORAÇÃO DE PARQUES DE ESTACIONAMENTO, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:32:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2283/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23161](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23161).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 2436/2009
+AUTORIZAÇÃO N° 2283/10 1 - SEP - SOCIEDADE DE EXPLORAÇÃO DE PARQUES DE
+ESTACIONAMENTO, SA, vem notificar à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão da exploração dos parcómetros na cidade do Funchal, na qualidade de concessionária.
+Os dados pessoais objecto de registo são os seguintes: matrículas dos veículos estacionados sem título de estacionamento ou sem título de estacionamento válido.
+São assegurados os direitos de acesso e rectificação.
+Invoca-se, como fundamentos de legitimidade, a execução de obrigação contratual e a protecção de interesse legítimo.
+Pretende-se a conservação dos dados pelo período em que durar a falta de cumprimento do pagamento devido à SEP, sem prejuízo da conservação para além desse prazo por força de obrigação legal ou da pendência de processo judicial.
+2 - Este tratamento é feito nos termos do disposto no artigo 6°, alíneas a) e e), da Lei n° 67/98, de 26 de Outubro. Ou seja, há legitimidade, em termos gerais, para serem tratadas aquelas categorias de dados na medida em que a gestão de informação visa assegurar o cumprimento de uma obrigação contratual e a prossecução de interesses legítimos do responsável.
+Os dados tratados são necessários, pertinentes e não excessivos em relação à finalidade (artigo 5° n° 1, alínea c), da Lei n° 67/98).
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Importa assegurar um tratamento leal e de acordo com os princípios da boa-fé (cf. artigo 5° n° 1, alínea a), da Lei n° 67/98), dando-se particular atenção ao direito de informação (cf. artigo 10.° n.º 1) e, quando aplicável, ao direito de oposição (cf. artigo 12°, alínea a), da Lei n° 67/98). Assim, a requerente terá de assegurar ao titular dos dados o direito de informação, nos termos estabelecidos no artigo 10° da Lei n° 67/98, de 26.10, dando-lhe ainda conhecimento do direito de acesso e de rectificação, de acordo com o preceituado no artigo 11° do mesmo diploma.
+3 - Tendo em atenção o disposto nas disposições combinadas dos artigos 27° e 28° da
+Lei n° 67/98, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável: SEP - SOCIEDADE DE EXPLORAÇÃO DE PARQUES DE
+ESTACIONAMENTO, SA
+Finalidade: de gestão da exploração dos parcómetros na cidade do Funchal, na qualidade de concessionária
+Categorias de dados pessoais tratados: matrículas dos veículos estacionados sem título de estacionamento ou sem título de estacionamento válido
+Comunicação de dados: PSP, para aplicação de coima e obter a cobrança da taxa em dívida
+Forma de exercício do direito de acesso e rectificação: é assegurado mediante solicitação junto do responsável
+Interconexão de dados: não há
+Transferência de dados para países terceiros: não há
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Conservação dos dados: período em que durar a falta de cumprimento do pagamento devido à SEP, sem prejuízo da conservação para além desse prazo por força de obrigação legal ou da pendência de processo judicial
+Lisboa, Maio de 10.
+Luís Barroso, Ana Roque (relatora), Carlos Campos Lobo, Helena Delgado António,
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)

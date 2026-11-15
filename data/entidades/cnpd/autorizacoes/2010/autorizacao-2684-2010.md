@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CERCIOEIRAS - COOPERATIVA DE EDUCAÇÂO E REABILITAÇÂO DE CIDADÃOS COM INCAPACIDAD'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,34 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:24:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2684/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23540](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23540).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 2498/10 868Y
+AUTORIZAÇÃO N.º /2010
+A cooperativa de solidariedade social denominada CERCIOEIRAS -
+Cooperativa de Educação e Reabilitação de Cidadãos com Incapacidade,
+CRL, com sede na rua 7 de Junho, 57, em Barcarena, veio notificar o tratamento relativo à gestão de processo clínico de utentes dos seus serviços, organizado segundo duas vertentes distintas: recolha de dados identificativos do utente facultados voluntariamente pelo próprio para efeitos de registo de contacto; e recolha e tratamento de dados clínicos do utente.
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto e dados clinicos, referentes ao histórico da saúde.
+2. De acordo com a informação constante do quadro 11 afigura-se que foram adoptadas cautelas em matéria de medidas de segurança. O acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password». Existe ainda um acesso restrito de pessoas. Os dados de saúde deverão estar separados logicamente dos dados de identificação, nos termos do artigo 15°, n° 3, da Lei n° 67/98.
+3. Admite-se que os dados médicos sejam de acesso a funcionários administrativos ou de enfermagem desde que esse processamento seja realizado sob ordem e supervisão do médico encarregado de prestar os cuidados de saúde ao doente, titular dos dados.
+Considera-se legítimo o tratamento nos termos do artigo 7.°, n.º 4, da Lei 67/98, de 26 de Outubro.
+Em face do exposto, autoriza-se o tratamento de dados por parte do
+Requerente (cf. artigo 27.° e 28.º da Lei 67/98) consignando-se, nos termos do artigo 30.º, o seguinte:
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 1. Responsável: CERCIOEIRAS - Cooperativa de Educação e Reabilitação de Cidadãos com Incapacidade, CRL 2. Categorias de dados pessoais tratados: identificação do utente, dados clínicos.
+3. Finalidade: gestão de processo de utentes.
+4. Forma de exercício do direito de acesso e rectificação: Por solicitação verbal ou escrita do utente ou do seu representante legal junto do responsável.
+5. Eventuais interconexões : Não há.
+6. Transferências de dados para países terceiros : Não há.
+7. Conservação: Os dados podem ser conservados por 5 anos após a saída do utente.
+Lisboa, A Junho de 2010.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida er
+Luís Lingnau da Silveira (Presidente)

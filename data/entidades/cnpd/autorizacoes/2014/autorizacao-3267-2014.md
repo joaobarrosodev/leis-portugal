@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Barclays Bank PLC - Sucursal em Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T21:47:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3267/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63530](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63530).
+Processo n° 9251/2013 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 3267/2014 1 - BARCLAYS BANK PLC, Sucursal em Portugal, vem solicitar autorização à
+Comissão Nacional de Protecção de Dados (CNPD) para comunicar dados pessoais à empresa Barclays Capital Services Limited, com sede em 1 Churchil Place, London
+E14SHP, Reino Unido, no âmbito de um contrato de prestação de serviços, em regime de subcontratação, que tem por objeto a implementação de um novo sistema informático para processamento da informação.
+Os dados pessoais a disponibilizar são os dados pessoais dos clientes e potenciais clientes do requerente, constantes da respetiva base de dados legalizada pela
+Autorização n.° 105/96, de 31 de Outubro de 1996, englobados nas seguintes categorias: dados de identificação, dados fiscais, dados profissionais, dados financeiros, dados bancários, dados de crédito e solvabilidade, dados transmitidos ao
+Banco de Portugal, dados relativos a decisões de credito.
+2 - A Lei n° 67/98, de 26 de outubro, define como subcontratante a "pessoa singular ou coletiva (...) que trate os dados pessoais por conta do responsável pelo tratamento" (cf. artigo 3.°, alínea e)) e prevê o acesso a dados pessoais por parte do subcontratante, desde que este atue de acordo com as instruções do responsável (cf.
+artigo 16.°),
+O subcontratante está vinculado a cumprir as disposições relativas ao sigilo bancário (cf. artigos 78° nº1 e 79° nº1 do Decreto-Lei n° 298/92, de 31 de dezembro) e está obrigado a segredo profissional (cf. artigo 17.° da Lei n° 67/98, de 26 de outubro), e só pode utilizar os dados para executar o contrato a que se vinculou, não podendo utilizá-los para outras finalidades que não sejam as que resultam do contrato de prestação de serviços.
+O artigo 14.° n.º 3 da Lei n° 67/98, de 26 de outubro, determina ainda que «a realização de operações de tratamento em subcontratação deve ser regida por um contrato ou ato jurídico que vincule o subcontratante ao responsável pelo tratamento e que estipule, designadamente, que o subcontratante apenas atua mediante instruções
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976832
+LINHA PRIVACIDADE www.cnpd.pt
+Dias úteis das 10 às 13 h
+
+Processo n° 9251/2013 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS do responsável pelo tratamento».
+3 - A CNPD considera que os titulares dos dados devem ter conhecimento das finalidades do ficheiro e da finalidade determinante da recolha de dados (cf. artigo 10.° nº1, alínea c), da Lei n° 67/98, de 26 de outubro), devendo o responsável informar os titulares dos dados que a empresa supra referida será destinatária dos seus dados pessoais para o referido fim - subcontratação de serviços.
+O BARCLAYS BANK PLC, Sucursal em Portugal, deverá, pois, assegurar a observância de tal obrigação.
+Deve ainda o requerente fazer consignar no contrato de prestação de serviços que o subcontratante apenas atua mediante instruções do responsável pelo tratamento.
+Observadas que se mostrem estas exigências, a CNPD delibera autorizar a comunicação de dados pessoais a Barclays Capital Services Limited, com sede em 1
+Churchil Place, London E14SHP, Reino Unido, no âmbito de um acordo de subcontratação, nos termos solicitados pelo requerente.
+Considera-se atualizada a Autorização n° 105/96, de 31 de Outubro de 1996, proferida no Processo n° 349/1996, nos termos constantes da presente autorização.
+Lisboa, 18
+Le mando 2 2014
+Helena Delgado António (relatora), Luís Barroso, Ana Roque, Carlos Campos Lobo,
+• Luis Paiva de Andrade, Maria Cândida Guedes de Oliveira
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LABDIAGNÓSTICA - PATOLOGISTAS CLÍNICOS ASSOCIADOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:31:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4118/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44304](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44304).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 1123/04 4118
+AUTORIZAÇÃO N° /2012 1) O Pedido
+Labdiagnóstica - Patologistas Clínicos Associados, Idª notifica tratamento de dados pessoais destinados à Gestão e arquivo de exames laboratoriais.
+Os dados tratados são: nome, morada, idade, telefone, entidade pagadora do ato médico, resultados dos exames laboratoriais, dados clínicos associados.
+Não se indica fundamento de legitimidade.
+Não há comunicação, nem interconexão nem fluxos transfronteiras.
+Como medidas de segurança apontam-se o acesso restrito de pessoas, a existência de sistemas de alarme e resposta e a utilização de cópias de back-up e chaves de acesso às informações.
+Indica-se o prazo de conservação de cinco anos.
+O titular pode a qualquer momento aceder aos seus dados e retificá-los, se necessário (não se explicita modalidade), anotando-se que lhe é entregue em suporte papel a descrição desses dados.
+2) Apreciação
+O tratamento destina-se a finalidades determinadas, explícitas e legítimas (Lei n° 67/98, de 26 de Outubro, art 5°, n° 1; alínea b).
+Os dados apresentam-se adequados, pertinentes e não excessivos (ibidem, alínea c)
+O fundamento da legitimidade é o n° 4 do artigo 7° da Lei n° 67/98 - pois os dados se destinam a diagnóstico médico e/ou prestação de cuidados e tratamentos médicos.
+Nos termos desta norma, os dados devem ser tratados por médicos ou outras pessoas sujeitas a sigilo profissional.
+Não se especificando as modalidades de acesso aos dados e eventual retificação deve entender-se que quaisquer meios adequados são admissíveis.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt
+Pág 1/2 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 3) Autorização
+Pelas razões expostas, e nos termos dos artigos 7º, n° 4, 27° e 29° da Lei n° 67/98, a
+CNPD profere a seguinte autorização.
+a) Responsável
+Labdiagnóstica - Patologistas Clínicos Associados, Lda b) Finalidade
+Gestão e arquivo de exames laboratoriais c) Dados Tratados
+Nome, morada, idade, telefone, entidade pagadora do ato médico, resultados dos exames laboratoriais, dados clínicos associados d) Interconexões
+Não há e) Comunicações
+Não há f) Fluxos Transfronteiras
+Não há g) Modo de exercício dos direitos de acesso e retificação
+Qualquer meio adequado de solicitação ao responsável h) Prazo máximo de conservação dos dados:
+Nos termos da Portaria 247/2009 de 8 de Maio.
+Lisboa, 14 L Mari 4 2012
+Ana Roque, Carlos Lobo, Helena Delgado António, Luís Barroso, Luís Paiva de Andrade,
+Vasco Almeida (Relator)
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt
+Pág 2/2 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

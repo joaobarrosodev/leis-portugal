@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 54/2009
-official_date: null
+official_date: '2009-09-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DA MINISTRA DA SAÚDE - MS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,22 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:15:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 54/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18547](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18547).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 7026/09
+PARECER N.º 54/2009
+O Gabinete de Sua Excelência a Ministra da Saúde solicita à Comissão Nacional de
+Protecção de Dados (CNPD) a emissão de parecer sobre o projecto de diploma que visa alterar o Decreto-Regulamentar n.º 5/2008, de 11 de Fevereiro.
+A CNPD é chamada a pronunciar-se, com urgência sobre o referido projecto, nos termos e para os efeitos do disposto no artigo 22°, n.º 1 da Lei n.º 67/98, de 26 de
+Outubro (Lei de Protecção de Dados Pessoais).
+O parecer é emitido ao abrigo do artigo 23°, n.º 1, alínea a) da LPD.
+Em sede de análise constata-se que as alterações e aditamentos que o legislador pretende introduzir ao Decreto-Regulamentar n.º 5/2008, através do presente projecto de diploma, não contêm matéria relativa a tratamento de dados pessoais.
+Lisboa, 03 de Setembro de 2009
+Luís Barroso (relator)
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39

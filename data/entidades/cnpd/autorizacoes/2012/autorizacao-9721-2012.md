@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Grupo Espanol de Estudio Tratamiento Y Otras Estrategias Experimentales En Tumor'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,77 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:54:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9721/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/49877](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/49877).
+Proc. n.º5439/12 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃON.° 9721 2012
+Em 25 de Setembro de 2012 foi emitida a Autorização n.º 7411/2012, relativa ao tratamento de dados pessoais da responsabilidade do Grupo Espanol de Estudio
+Tratamiento y otras estratégias experimentales en tumores sólidos (SOLTI).
+Todavia, por lapso, não foram aditados alguns elementos considerados relevantes. Tal facto determina a alteração do âmbito da decisão tomada pela CNPD. Neste sentido, revoga-se a referida decisão e, consequentemente, procede-se à feitura de uma nova
+Autorização.
+Grupo Espanol de Estudio Tratamiento y otras estratégias experimentales en tumores sólidos (SOLTI), veio notificar a esta CNPD um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico. Pretende avaliar a eficácia de medicamentos de uso humano em doentes com cancro da mama (Protocolo SOLTI-1007).
+Trata-se de um ensaio que tem como objetivo «...analisar a expressão do pré-tratamento de mRNA de tumores mamários, de forma a identificar potenciais indicadores de resposta-definida como uma resposta patológica completa na mama (pCRB) - à eribulina administrada no contexto neoadjuvante».
+As categorias de dados recolhidas: n.° participante no estudo, data de nascimento, raça, estado menopausico, história clínica completa, incluindo detalhes do cancro (data do diagnóstico, histologia do tumor primário grau, percentagem, e grau de expressão de Ki67), história de neuropatia prévia ou atual, medicação atual e concomitante, exame físico completo, com especial atenção à medicação do tumor da mama e exame axilar, estado ECOG, altura e peso, sinais vitais (pressão arterial, frequência cardíaca e temperatura), sinais e sintomas, resultados da mamografia e ecografia mamária e/ou RM (dentro de 21 dias do início do tratamento do estudo), tamanho do tumor, radiografia torácica e ecografia abdominal para excluir doença metastática. Cintigrafia óssea se houver suspeita de metástases ósseas, análises sanguíneas: hematologia, diferencial (como contagem de reticulócitos e plaquetas), painel de coagulação (...), bioquímicas (...), teste sanguíneo de gravidez para mulheres em idade fértil (...), ECG de 12 derivações, estado de ER, PgR e HER na
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º5439/12 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS lesão da mama, incluindo a percentagem de células ER positivo e PgR positivo e Ki67, recolha de tecido cancerígeno (mínimo de 2 amostras), para testes de translação, documentação do tipo de cirurgia da mama inicialmente planeada (cirurgia de conservação da mama vs mastectomia) e nome do investigador.
+O Promotor justificou a recolha do dado raça do seguinte modo:
+iO ensaio clínico Neoribulin é um estudo farmacogenético no qual as bases molecular e genética dos tumores da mama são estudadas para o desenvolvimento de novas abordagens para o tratamento do cancro da mama. A experiência clínica demonstrou que, enquanto alguma medicação é efectiva em alguns doentes, não o é em outros doentes, ou causa efeitos secundários. Tendo em consideração que determinados polimorfismos são característicos de algumas raças e têm demonstrado diferenças na eficácia e/ou segurança de medicamentos, o promotor do ensaio considera necessária a recolha da variável raça dos doentes».
+Assim sendo, atentos os referidos argumentos que apontam para a necessidade da recolha do dado "raça" para aferir o perfil de segurança e de eficácia em função destes elementos, admite-se a recolha deste dado por se revelar adequado, pertinente e não excessivo face à finalidade.
+A CNPD já se pronunciou na sua Deliberação N.º333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1, alínea a) da Lei 67/98, de 26 de Outubro, para finalidades determinadas, explícitas e legítimas (cf. alínea b)
+do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.º da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º5439/12 | 3
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável pelo tratamento: Grupo Espanol de Estudio Tratamiento y otras estratégias experimentales en tumores sólidos (SOLTI).
+Finalidade: gestão de ensaio clínico.
+Categorias de Dados Pessoais tratados: n.° participante no estudo, data de nascimento, raça, estado menopáusico, história clínica completa, incluindo detalhes do cancro (data do diagnóstico, histologia do tumor primário grau, percentagem, e grau de expressão de Ki67), história de neuropatia prévia ou atual, medicação atual e concomitante, exame físico completo, com especial atenção à medicação do tumor da mama e exame axilar, estado ECOG, altura e peso, sinais vitais (pressão arterial, frequência cardíaca e temperatura), sinais e sintomas, resultados da mamografia e ecografia mamária e/ou RM (dentro de 21 dias do início do tratamento do estudo), tamanho do tumor, radiografia torácica e ecografia abdominal para excluir doença metastática. Cintigrafia óssea se houver suspeita de metástases ósseas, análises sanguíneas: hematologia, diferencial (como contagem de reticulócitos e plaquetas), painel de coagulação (...), bioquímicas (...), teste sanguíneo de gravidez para mulheres em idade fértil (...), ECG de 12 derivações, estado de ER, PgR e HER na lesão da mama, incluindo a percentagem de células ER positivo e PgR positivo e Ki67, recolha de tecido cancerígeno (mínimo de 2 amostras), para testes de translação, documentação do tipo de cirurgia da mama inicialmente planeada (cirurgia de conservação da mama vs mastectomia) e nome do investigador.
+Fluxos transfronteiras: Não se verificam.
+Interconexões de tratamentos: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico Investigador.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo | do DL 176/2006, 30 de Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º5439/12 | 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Listoa, 9 de ouTuro de 2012
+Luís Barroso, Ana Roque, Carlos de Campos Lobo, Vasco Almeida (Relator), Luís
+Paiva de Andrade.
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

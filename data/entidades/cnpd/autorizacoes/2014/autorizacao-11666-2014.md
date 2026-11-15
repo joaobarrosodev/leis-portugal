@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Imobeauty, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:26:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11666/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72041](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72041).
+Proc. 11571/13 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° 11606 114 1 -Do Pedido
+Imobeauty, S. A., com sede no Lugar do Espido - Via Norte, 4470-177 Maia, veio notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de clientes.
+Do pedido resulta que:
+a) Os dados pessoais tratados são: nome, data de nascimento, número do cartão de contribuinte, profissão, nacionalidade, morada, datas e horas de entrada e saída, e-mail, telemóvel, meio de pagamento/cartão de crédito/conta bancária, tipo de despesas efetuadas, tipo de tratamento realizado;
+b) A recolha de dados é feita de forma direta, presencialmente por telefone;
+c) Não se verifica comunicação de dados a terceiros nem interconexões de tratamentos;
+d) O exercício do direito de acesso é feito presencialmente e por escrito, junto do responsável;
+e) Pretende-se a conservação de dados pelo período de 5 anos após último contacto/utilização do estabelecimento;
+f) São indicadas medidas de segurança física (acesso restrito de pessoas) e de segurança lógica (cópias de backup dos dados, password de acesso às informações).
+2 - Análise 1 - Constitui fundamento de legitimidade para o tratamento a execução do contrato, nos termos da alínea a) do artigo 6.° da Lei 67/98 de 26 de outubro (LPD).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 11571/13 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (cf. Artigo 5°, n°1, alínea a) da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b)) e os dados a tratar consideram-se adequados, pertinentes e não excessivos (cf. alínea c)).
+Os dados devem ser exatos e, se necessário, atualizados (cf. Artigo 5.°, alínea d) da
+Lei 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior, sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou retificados os dados inexatos ou incompletos ou não necessários (cf. Artigo 5.° n.º 1, alíneas c) e d), e n.° 3 da Lei n.° 67/98).
+O prazo de conservação deverá ser de um ano após o fim da vigência do contrato.
+No momento da recolha ou da atualização dos dados existentes deve ser assegurado direito de informação e acesso nos termos previstos nos artigos 10.° e 11.° da LPD.
+Independentemente das medidas de segurança adotadas pela entidade responsavel pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+1. Conclusão
+Assim, nos termos das disposições conjugadas do artigo °, 27.°, alínea b) do n.º 1 do artigo 28.° e artigo 30.° da Lei n.° 67/98 de 26 de outubro, autoriza-se o tratamento de dados supra referido nos seguintes termos:
+Responsável pelo tratamento: Imobeauty, S. A.;
+Finalidade do tratamento: gestão de clientes
+Categorias de dados pessoais tratados: nome, data de nascimento, número do cartão de contribuinte, profissão, nacionalidade, morada, datas e horas de entrada e saída, e-
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 11571/13 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS mail, telemóvel, meio de pagamento/cartão de crédito/conta bancária, tipo de despesas efetuadas, tipo de tratamento realizado;
+Forma de exercício do direito de acesso e retificação: presencialmente e por escrito junto do responsável;
+Comunicação de dados pessoais: não há
+Prazo de conservação dos dados: um ano após o fim da vigência do contrato;
+O responsável pelo tratamento deve implementar medidas de segurança adequadas para proteção dos dados pessoais nomeadamente contra a destruição, alteração ou acesso não autorizado, nos termos do artigo 14.° da LPD.
+Lisboa, J dymki de 2014.
+Luís Barroso (O Vogal, em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

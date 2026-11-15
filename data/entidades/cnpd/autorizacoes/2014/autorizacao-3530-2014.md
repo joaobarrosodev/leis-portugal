@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3530/2014
-official_date: null
+official_date: '2014-04-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CRC-R - Gestão de Créditos e Recuperação de Activos, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,82 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T21:43:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3530/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63794](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63794).
+Processo n° 2647/2014 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° 3530/2014 1 - CRC - R - Gestão de Créditos e Recuperação de Activos, Lda, titular do NIPC 510969852, vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de cobranças e pagamentos.
+Os dados objeto de tratamento são os seguintes: Nome, NIF, morada, dados profissionais, contactos telefónicos, entidade credora, dados relativos à dívida.
+Os dados são recolhidos indiretamente junto dos seus clientes.
+Ao titular dos dados é facultado conhecer, corrigir e eliminar os dados que lhe respeitem.
+A requerente não descreve no formulário de notificação as medidas de segurança que se propõe implementar.
+Pretende-se que os dados sejam conservados enquanto existirem obrigações contratuais entre a requerente e a empresa sua cliente.
+2 - A CRC - R - Gestão de Créditos e Recuperação de Activos, Lda, trata a informação relativa aos devedores das empresas suas clientes, com quem terá celebrado contratos de prestação de serviços, de forma a poder dispor de elementos de identificação e dos dados relativos à dívida.
+Os dados recolhidos integram-se no conceito de informação relativa ao "crédito e solvabilidade" dos titulares, pelo que o tratamento notificado está sujeito a autorização da Comissão Nacional de Protecção de Dados (artigo 28° n° 1, alínea b), da Lei n° 67/98, de 26 de outubro - LPD).
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. alínea c) do nº1 do artigo 5° da LPD).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 2647/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A CNPD entende que há legitimidade para o tratamento de dados no contexto da finalidade declarada desde que a possibilidade do tratamento por parte da CRC - R -
+Gestão de Créditos e Recuperação de Activos, Lda, decorra de contrato (cf. artigo 6°, alínea a), da LPD).
+Em termos gerais, não há objeções ao tratamento dos dados, ficando a CRC - R -
+Gestão de Créditos e Recuperação de Activos, Lda, vinculada a cumprir as disposições relativas ao sigilo bancário em relação às informações recebidas de empresas financeiras (cf. artigo 78° n.º1 e 79° n.º 1 do Decreto-Lei n.° 298/92, de 31 de dezembro) e a sigilo profissional em relação a todas as outras empresas (cf. artigo 17° da LPD).
+Contudo, dada a sensibilidade da informação, deve a responsável:
+• Informar o titular dos dados, no momento da entrada dos dados pessoais no seu ficheiro, dos elementos do artigo 10° da LPD (cf. n.º 3 desse mesmo artigo);
+• Verificar se a entidade de quem recebe os dados está legalizada junto da
+CNPD e autorizada a comunicar dados para essa finalidade;
+• Abster-se de utilizar os dados para outras finalidades, designadamente constituição de "listas negras" ou para marketing;
+• Quanto aos dados dos devedores das empresas suas clientes, não comunicar a terceiros dados relativos às dívidas, para além da entidade a quem prestou o serviço, salvo se do contrato resultar a possibilidade de subcontratar terceiras entidades;
+• Manter os dados atualizados, registando o ponto de vista do titular quando este invoque razões para fundamentar o incumprimento;
+• Eliminar os dados logo que não haja obrigações contratuais pendentes entre a
+CRC - R - Gestão de Créditos e Recuperação de Activos, Lda, e a empresa sua cliente (cf. alínea e) do n.º 1 do artigo 5° e da alínea f) do n.° 1 do artigo 23° da LPD);
+• Abster-se de, em qualquer campo de texto livre, designadamente o campo de observações, incluir dados que possam discriminar o titular ou quaisquer outros relativos à sua vida privada (cf. nº1 do artigo 7° da LPD);
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 2647/2014 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+• Abster-se de agregar informação dos titulares quando se verifique a existência de dívidas com diferentes credores;
+• Abster-se de divulgar dados pessoais dos devedores a entidades não consignadas nesta autorização, designadamente a familiares ou às entidades patronais.
+Quanto à segurança da informação, devem ser adotadas as medidas previstas no artigo 15° da Lei n° 67/98, de 26 de outubro. Deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de auditoria de acesso à informação. De igual modo, devem ser feitas cópias de segurança da informação, as quais deverão ser mantidas em local apenas acessível ao administrador do sistema.
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados tratados.
+3 - Em face do exposto, nos termos dos artigos 27° e 28° n.º 1, alínea b), da Lei n° 67/98, de 26 de outubro, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da Lei n° 67/98, o seguinte:
+Responsável: CRC - R - Gestão de Créditos e Recuperação de Activos, Lda
+Categorias de dados pessoais tratados: nome, NIF, morada, dados profissionais, contactos telefónicos, entidade credora, dados relativos à dívida
+Finalidade: gestão de cobranças e pagamentos
+Entidades a quem podem ser transmitidos: não há
+Forma de exercício do direito de acesso e retificação: mediante pedido formulado perante a responsável, por escrito
+Interconexões: não existem.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 2647/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 1 de Abril de 2014
+Helena Delgado António (relator), Ana Roque, Luís Paiva de Andrade, Maria Cândida
+Guedes de Oliveira un
+Luís Barroso (vogal, em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

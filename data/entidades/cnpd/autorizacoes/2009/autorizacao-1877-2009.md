@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SERVIER PORTUGAL, ESPECIALIDADES FARMACÊUTICAS, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:07:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1877/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15860](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15860).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 2128/09
+Autorização n.° (5?7/2009
+Servier Portugal - Especialidades Farmacêuticas, Lda. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo com o objectivo de registo da frequência cardíaca como marcador de prognóstico nos doentes com doença arterial coronária.
+Aos doentes que reúnam os critérios de inclusão no estudo, será solicitado, pelo seu médico assistente, participante no estudo, no âmbito da consulta, o consentimento para a sua participação no estudo e consequente recolha de dados pessoais.
+O médico assistente, investigador, obterá o consentimento expresso dos doentes que reúnam os critérios de inclusão e aceitem participar no estudo. As declarações de consentimento são guardadas pelo médico investigador.
+Parte da informação relativa ao doente participante no estudo é recolhida a partir da sua ficha clínica. A restante informação é recolhida directamente.
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os tundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.°1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+O texto da declaração de consentimento deve ser alterado em conformidade com a referida
+Deliberação.
+Assim, tendo em atenção o disposto disposições combinadas dos artigos 28°, n.º1, alínea a) e 30º da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: Servier Portugal - Especialidades Farmacêuticas, Lda
+Finalidade estudo com o objectivo de registo da frequência cardíaca como marcador de prognóstico nos doentes com doença arterial coronária.
+Categoria de Dados pessoais tratados: código do doente, idade, sexo, dados antropométricos, fumador/ex-fumador, doenças concomitantes, história clínica relacionada com a patologia, pressão arterial, frequência cardíaca e padrão de tratamento da DAC.
+Entidades a quem podem ser comunicados: Não há
+Formas de exercício do direito de acesso e rectificação: junto do médico participante.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente, porque permite tornar os dados identificados, deve ser destruído um mês após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, de Al leiode 2009
+Ana Roque; Carlos Campos Lobo, Luís Paiva de Andrade, Helena Delgado António (Relatora),
+Luis Barroso, Vasco Almeida

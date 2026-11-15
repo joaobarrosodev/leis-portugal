@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 10550/2014
-official_date: null
+official_date: '2014-11-11'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECT&QUIXA SEGUROS Y REASEGUROIS, S.A.U. SUCURSAL EM PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,114 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:45:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 10550/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/70911](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/70911).
+Processo n.° 158/2014 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N. 105JO 12014
+I - Relatório
+Hilo Direct Seguros Y Reaseguros, S.A.U. - Sucursal em Portugal com sede em Avª do
+Mediterrâneo Lote 1.01.1.2, Parque das Nações - Lisboa vem notificar à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais que tem como finalidade a gestão de recursos humanos.
+Foram solicitados diversos esclarecimentos, os quais, oportunamente foram prestados pela Requerente.
+II - Do Pedido
+-A Requerente dedica-se à atividade seguradora.
+-Pretende com o presente tratamento proceder à gestão de recursos humanos.
+-As categorias de dados a tratar são as seguintes:
+Dados dos colaboradores - nome, data e local de nascimento, sexo, nacionalidade, estado civil, número de dependentes, agregado familiar, número de Bl ou de outro documento de identificação, NIF, número de identificação da Segurança Social, número da carta de condução, morada, número de telefone e de fax, e-mail, número de identificação interno, vencimento, benefícios atribuídos aos colaboradores, assiduidade, férias, habilitações literárias e profissionais, competências linguísticas, competências académicas, NIB, funções exercidas, categoria, situação/evolução e percurso profissional e local de trabalho, informações para atribuição e gestão de participações sociais, elementos de avaliação de desempenho;
+Dados dos membros do agregado familiar - nome, data de nascimento, número de BI,
+NIF.
+-A recolha de dados é efetuada presencialmente, por via telefónica ou mediante preenchimento de impresso.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n. 158/2014| 2 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+-Está assegurado o direito de acesso aos dados pelo titular.
+-A segurança física e lógica dos dados é garantida nos termos descritos no formulário de notificação, nomeadamente acesso restrito de pessoas, sistemas de alarme e resposta, cópias de backup, sistemas de processamento de backup, password de acesso à informação.
+-A requerente pretende comunicar dados pessoais para GIE AXA, sedeada em França e Direct&Quixa Seguros Y Reaseguros, sedeada em Espanha e outras empresas do grupo AXA (gestão centralizada de recursos humanos) e também no âmbito das obrigações legais (Segurança social, DGCI, ACT, GEP), contratuais (Instituições
+Financeiras, para pagamento de remunerações, Caixas de Previdência, Fundos de
+Pensões), Solicitadores de Execução e Tribunais.
+-Não há interconexão ou fluxos transfronteiriços de dados.
+-Indica-se como prazo de conservação o tempo de 10 anos após a cessação da relação contratual.
+-O titular pode conhecer, corrigir e/ou eliminar os seus dados através de contacto junto da Requerente.
+!.!.APRECIAÇÃO/O DIREITO
+O tratamento em causa, porque perante dados pessoais, deve respeitar as condições expressas na Lei n.° 67/98, de 26 de outubro, mormente:
+- respeito pela reserva da vida privada (artigo 2°);
+- visar finalidades determinadas, explícitas e legítimas (artigo 5°, n°1, alínea b);
+- os dados serem adequados, pertinentes, não excessivos em relação à finalidade e proporcionais aos objetivos que se pretendem atingir (artigo 5°, n°1, alínea c);
+- o responsável só pode proceder ao tratamento se, de acordo com a natureza dos dados estiverem preenchidas "condições de legitimidade" (artigos 6° e 7°).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 158/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Na verdade a Lei n.º 67/98, de 26 de outubro, delimita o tratamento de dados pessoais, sendo inquestionável que, em relação ao tratamento de determinados dados como sejam os da vida privada e de saúde ou os relativos à prática de atividades ilícitas/infrações penais/contraordenações, necessário se torna que esteja presente alguma das situações previstas nos artigos 7.° e 8°, respetivamente, sendo o regime legal, nesta matéria, particularmente exigente.
+Acresce que, em qualquer tratamento, necessário se torna que estejam efetivados os direitos de informação (artigo 10°), de acesso (artigo 11°) e de oposição (artigo 12°) de molde a permitir-se o exercício dos mesmos.
+Cumprirá então indagar se, no caso vertente, estão verificadas as condições legalmente exigidas, para o deferimento do pedido.
+Retira-se desde já que a finalidade pretendida com este tratamento é a gestão de recursos humanos, sendo que tendo a Requerente um universo de pessoas ao seu serviço, surge óbvio que se está perante uma finalidade determinada, explicita e legitima.
+Os dados a colher, tendo em atenção a finalidade pretendida e acima escrutinada, apresentam-se como adequados, pertinentes e não excessivos, na sua generalidade.
+A legitimidade para realizar o presente tratamento, na sua generalidade, assenta no fundamento expresso no artigo 6°, alínea a), da Lei n.º 67/98, de 26 de outubro.
+Faça-se notar que à Requerente incumbe o dever de adotar e observar as medidas de segurança que se mostrem adequadas a salvaguardar e proteger a informação, tal como decorre do artigo 15° da Lei n.º 67/98, de 26 de outubro.
+Quanto à comunicação de dados prevista, resulta que a mesma, na maior parte das situações, opera em cumprimento de obrigações legais e/ou contratuais e com fins devidamente especificados.
+Ao titular é garantida a possibilidade de aceder, corrigir e/ou eliminar os dados, estando assim salvaguardado o mecanismo ínsito no artigo 11° da Lei n.º 67/98, de 26 de outubro.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 158/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Por fim há que examinar os tempos propostos como de conservação dos dados.
+Fixa a Lei n.º 67/98, de 26 de outubro, que os dados devem ser conservados pelo tempo estritamente "...necessário para a prossecução das finalidades da recolha ou do tratamento posterior" - artigo 5°, n.º1, alínea e) -, pelo que, in casu, se entende que o tempo de um ano após a cessação do vínculo laboral, sem prejuízo de o mesmo se estender pelo tempo de duração de processo judicial e até ao limite de seis meses após o trânsito em julgado da respetiva decisão, é suficiente e adequado como prazo geral.
+Permite-se ainda que para efeitos de faturação o prazo de conservação se estenda a 10 anos.
+Os dados podem ainda ser conservados para arquivo histórico.
+IV.DECISÃO
+Em presença do exposto, decide-se considerar como legítimo, o tratamento notificado e consequentemente autoriza-se o mesmo, de acordo com o plasmado nos normativos combinados dos artigos 6°, alínea a), 23°, nº1, alínea b), 27° e 30° da Lei n.° 67/98, de 26 de outubro, e nas seguintes condições.
+1. Responsável: Hilo Direct Seguros Y Reaseguros, S.A.U. - Sucursal em Portugal;
+2. Finalidade: Gestão de Recursos Humanos;
+3.Categorias dos dados:
+Dados dos colaboradores - nome, data e local de nascimento, sexo, nacionalidade, estado civil, número de dependentes, agregado familiar, número de BI ou de outro documento de identificação, NIF, número de identificação da Segurança Social, número da carta de condução, morada, número de telefone e de fax, e-mail, número de identificação interno, vencimento, benefícios atribuídos aos colaboradores, assiduidade, férias, habilitações literárias e profissionais, competências linguísticas, competências académicas, NIB, funções exercidas, categoria, situação/evolução e percurso
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpo.pt
+
+Processo n.º 158/2014 5
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS profissional e local de trabalho, informações para atribuição e gestão de participações sociais, elementos de avaliação de desempenho;
+Dados dos membros do agregado familiar - nome, data de nascimento, número de BI,
+NIF.
+4.Destinatários dos Dados:
+-Há comunicação de dados (os estritamente necessários) no âmbito das obrigações legais (Segurança social, DGCI, ACT, GEP), contratuais (Instituições Financeiras, para pagamento de remunerações, Caixas de Previdência, Fundos de Pensões),
+Solicitadores de Execução e Tribunais e ainda para GIE AXA, sedeada em França e
+Direct&Quixa Seguros Y Reaseguros, sedeada em Espanha e outras empresas do grupo AXA (gestão centralizada de recursos humanos);
+-Não há interconexão nem fluxos transfronteiriços de dados;
+5. Direito de Informação: Deverá ser assegurado que se esclareceu o titular dos dados, das finalidades da recolha, dos destinatários da informação e das condições de utilização;
+6. Direito de Acesso: Por pedido junto da Requerente;
+7. Prazo de Conservação:
+-Um ano após a cessação do vínculo laboral, sem prejuízo de o mesmo se estender pelo tempo de duração de processo judicial e até ao limite de seis meses após o trânsito em julgado da decisão. Os dados podem ainda ser conservados para arquivo histórico.
+-Dez anos, para efeitos de faturação.
+Lisboa, 11 de novembro de 2014
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINNA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

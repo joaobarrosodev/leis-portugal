@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO FINANTIA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:10:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11/1999
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10487](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10487).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 249/95
+AUTORIZAÇÃO N.°#/99
+O BANCO FINANTIA, SA está a preparar uma operação de «titularização de créditos com o Deutsche Bank de Investimentos, SA a qual envolve a cedência trimestral de créditos e obriga a uma transmissão de dados àquele banco». Os dados a transmitir, relativamente aos clientes, são o nome, morada, número de contribuinte, telefone e conta para cobrança das prestações cedidas. -
+O suporte magnético será enviado trimestralmente para o Deutsche Bank de
+Investimento, SA.
+A questão que aqui se coloca relaciona-se com a cedência de dados a «entidade terceira» - uma sociedade financeira.
+A cedência de dados é feita no âmbito de um contrato celebrado entre o Banco
+Finantia, SA e o Deutsch Bank tendo em vista a realização de «operação de titularização de crédito». O Deutsche Bank, sendo uma empresa financeira, oferece garantias de que as informações a prestar estão protegidas pelo segredo bancário.
+Os dados objecto da comunicação estão sujeitos a sigilo bancário, conforme resulta do disposto no art. 78.° do DL 298/92, de 31 de Dezembro.
+Não há comunicação de dados sensíveis, estando o tratamento destes dados sujeito às condições de legitimidade estabelecidas no artigo 6.° da Lei 67/98, de 26 de Outubro.
+Ora, a legitimidade para o tratamento - na vertente comunicação ao Deutsche Bank -pode derivar de três fundamentos possíveis:
+Através de consentimento inequívoco por parte dos titulares (corpo do artigo 6.°);
+Através da inclusão de cláusula contratual estabelecida entre o Banco
+Finantia, SA e os titulares dos dados (art. 6° al. a);
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+No âmbito da iprossecução de interesses legítimos do responsável pelo tratamento ou de terceiro a quem os dados sejam comunicados" (art. 6.° al.
+Quando se verificar o fundamento indicado na alínea e) - nomeadamente em relação aos contratos já celebrados - o Banco Finantia SA deverá informar os titulares dos dados de que o Deutsche Bank é um dos destinatários da informação e a finalidade determinante da comunicação (cf. art. 10.º n.º 1 da Lei 67/98). Só depois de assegurado o direito de informação os titulares estão em condições de, eventualmente, poderem exercer o "direito de oposição (cf. art. 12.° al. a) ou invocar a "prevalência de interesses ou direitos" consignados no artigo 6. al. e) da Lei 67/98.
+Em face do exposto, a CNPD autoriza a cedência dos dados pessoais indicados ao
+Deutsche Bank desde que a cedência respeite os condicionalismos estabelecidos.
+Libo, 1 de A il de s
+Amadeu Francisco Ribeiro Guerra (Relator)
+hare
+Joaquim Seabra Lopes
+Nuno Albuquerque Morais Sarmento
+Luís José Durão Barroso
+I e trily
+João Alfredo Massano Labescat da Silva
+Mario Varges Gomes
+Vet clh
+Augusto Victor Coelho (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt

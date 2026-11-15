@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 34/2013
-official_date: null
+official_date: '2013-04-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOFINLOC-INSTITUIÇÃO FINANCEIRA DE CRÉDITO, SA -EX- SOC.FINANC. DE LOCAÇÃO,S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 34/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52851](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52851).
+Proc. n.º 7697/2010 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n.º3 \ /2013
+Sofinloc, SA notificou à CNPD um tratamento de dados pessoais com a finalidade marketing.
+Os dados recolhidos indiretamente do ficheiro de clientes são: Nome, morada, antiguidade, NIF, telefones de contacto, email, género e data de nascimento.
+A Unicre, SA é a entidade encarregue do processamento da informação, com quem terá de ser estabelecido o contrato previsto no artigo 14° da Lei n.° 67/98 - LPD.
+A informação tratada é recolhida de forma lícita (artigo° 5.°, n.º1 alínea a) da LPD), para finalidade determinada, explícita e legítima (cf. alínea b) do mesmo artigo).
+O fundamento de legitimidade é o consentimento do titular, nos termos do corpo do artigo 6.° da LPD.
+No âmbito das condições de segurança, previstas nos artigos 14° da LPD, deve o responsável adoptar as medidas necessárias para garantir a segurança da informação
+Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 27° e 30° da LPD, regista-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Sofinloc, SA
+Finalidade: marketing Categoria de Dados pessoais tratados: - Nome, morada, antiguidade, NIF, telefones de contacto, email, género e data de nascimento
+Entidades a quem podem ser comunicados: Não há
+Formas de exercício do direito de acesso e rectificação: Junto do responsável pelo tratamento.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo máximo de conservação: 10 anos
+Lisboa, 1 de abril de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

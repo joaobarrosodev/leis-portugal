@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 49/2013
-official_date: null
+official_date: '2013-07-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMISSÃO PARLAMENTAR DE SAÚDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,29 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:04:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 49/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55546](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55546).
+Proc. n. 7093/2013 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.ºUG 12013
+A Comissão Parlamentar de Saúde da Assembleia da República solicitou à CNPD a emissão de parecer sobre a Proposta de Lei n.º 146/XII/2.ª, que aprova a Lei da
+Investigação Clínica.
+O pedido formulado decorre das atribuições conferidas à CNPD por via do disposto no n.º 2 do artigo 22.º da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados
+Pessoais - doravante, abreviadamente mencionada como LPD), e e emitido no uso da competência prevista na alínea a) do n.º 1 do artigo 23.° do mesmo diploma legal.
+A CNPD foi chamada a pronunciar-se no âmbito do processo legislativo do proponente e em sede própria emitiu o Parecer n.º 19/2013, no âmbito do processo n.º 2319/2013.
+A proposta agora em discussão não traduz alterações na matéria de dados pessoais, pelo que se mantém o teor do referido Parecer n.º 19/2013, inexistindo novas questões por parte da CNPD.
+É este o Parecer da CNPD.
+Lisboa, 16 de julho de 2013.
+Ana Roque (Relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado António,
+Vasco Almeida e Luís Paiva de Andrade.
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

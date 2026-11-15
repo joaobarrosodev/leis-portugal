@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FIBER - ALUGUER DE BENS MÓVEIS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:15:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 76/1995
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11822](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11822).
+COMISSAO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Troc 460/1955
+AUTORIZAÇÃO N.° 76/95
+FIBER - ALUGUER DE BENS MÓVEIS, S.A. solicita autorização para o seu tratamento informático destinado à "gestão de contratos" de aluguer de veículos e motociclos.
+Os dados pessoais objecto de tal tratamento incluem informações relativas à situação patrimonial e financeira do contratante, eventualmente do seu cônjuge e do fiador.
+Daí a necessidade da autorização, nos termos do disposto nos Art.°s 11.º n.° 1 al. b) e 17° n.º 2 da Lei 10/91, constituindo o consentimento e o cumprimento de obrigação contratual, o fundamento da mesma.
+Na sequência dos esclarecimentos prestados e de contacto pessoal havido, assentou-se, por um lado, na necessidade de, em 6 meses, se alterar o impresso de recolha de dados, constituído pela proposta de aluguer junta aos autos, de modo a cumprir o estatuído no Art.º 22.° n.º 1 da Lei 10/91; por outro, e de acordo com o já assente nesta Comissão, da mesma deverá constar tambem, se for caso disso, a assinatura do cônjuge do contratante.
+Como da proposta se constata, da mesma poderão constar também informações sobre o condutor habitual do veículo - relevante para efeitos de seguro do veículo.
+Na mesma linha, entende-se que também a assinatura deste deverá constar de tal proposta.
+Esclareceu-se ainda que as "informações adicionais (a preencher pelo concessionário)" constantes da proposta, não são objecto de registo informático.
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+A Requerente deverá proceder, em 6 (seis) meses, à alteração do impresso de "Proposta de Aluguer de Viatura", do mesm devendo constar também as assinaturas dos eventuais "condutor habitual" e "cônjuge" do contratante, bem como os requisitos do Art.° 22.° n.° 1 da Lei 10/91.
+Da mesma deverá, depois, ser dado conhecimento a esta Comissão.
+Finalmente, no caso de ser decidido não celebrar o contrato, deverão todas as informações registadas ser, desde logo, eliminadas.
+Lx. ,7/11/95
+O Relator
+Os Vogais (Mário M. Várges Gomes)
+Arden cas (Amadeu F. Ribeiro Guerra)
+hume (Joaquim Seabra Lopes)
+O Presidente (João A.M. Labescat da Silva)
+Clh (A. Victor Coelho)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

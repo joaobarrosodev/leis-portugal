@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1/2009
-official_date: null
+official_date: '2009-01-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CLIMEDENTAL - CLÍNICA MÉDICA E DENTÁRIA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:44:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 1/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13687](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13687).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 8152/08
+REGISTO n.° 1 109
+Climedental - Clínica Médica e Dentária, Lda (Camarate) notificou um tratamento com a finalidade declarada de gestão de doentes.
+Declara as seguintes categorias de dados pessoais: Nome, data de nascimento, morada, sistema de saúde e n.º de beneficiário, contactos telefónicos, estado civil,, antecedentes pessoais de saúde, terapêutica, data das consultas, plano de tratamento, ficha dentária, observações.
+O n.º 4 do art. 7° da Lei n.° 67/98, de 26 de Outubro admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), com consentimento do titular, para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, nos termos dos artigos 27°, n.º1 e 30° da Lei de Protecção de Dados regista-se, nos exactos termos declarados, o tratamento nos seguintes termos e com as seguintes condições:
+1. Responsável: Climedental - Clínica Médica e Dentária, Lda (Pego)
+2. Categorias de dados pessoais tratados: Nome, data de nascimento, morada, sistema de saúde e n.° de beneficiário, contactos telefónicos, estado civil,, antecedentes pessoais de saúde, terapêutica, data das consultas, plano de tratamento, ficha dentária, observações.
+3. Finalidade: gestão de doentes 4. Entidades a quem podem ser transmitidos: Não há comunicação de dados.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita ou pessoal. A informação é revelada por «intermediação médica» (cf. artigo 11.° n.º 5 da Lei 67/98).
+6. Interconexões : Não existem 7. Transferências de dados para países terceiros : Não há.
+8. Tempo de conservação:
+a) Dados de saúde - Nos termos da Portaria n.º 247/2000, de 8 de Maio;
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS b) Dados para facturação - 10 anos.
+Aos titulares dos dados deve ser assegurado o direito de Informação previsto no art. 10° da referida lei;
+O responsável deve assegurar as medidas de segurança necessárias à sensibilidade da informação tratada, designadamente a separação lógica entre os dados administrativos e os dados de saúde (cf. Art.° 15° n.° 3 da referida lei), devendo ser adoptadas medidas de segurança que impeçam o acesso à informação por pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos e técnicos de saúde ou, sob a sua direcção, a outros profissionais obrigados a segredo profissional (n.º 4 do citado art.° 7°). O sistema deve ser dotado de passwords de acesso diferenciado para assegurar as exigências supra especificadas;
+O titular tem acesso aos seus dados, nos termos do n.º 5 do art. 11°, sendo esse direito exercido por intermédio de médico por ele escolhido;
+Lisboa, 7 de Janeiro de 2009
+A Secretária da Comissão
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39

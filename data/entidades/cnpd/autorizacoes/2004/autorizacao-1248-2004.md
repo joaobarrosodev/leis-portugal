@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: THE PHONE HOUSE - COMÉRCIO E ALUGUER DE BENS E SERVIÇOS, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,79 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:35:49Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1248/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17342](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17342).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 1.121/2004
+AUTORIZAÇÃO N.° 1248/04
+I - 1. The Phone House - Comércio e Aluguer de Bens e Serviços,
+Lda veio requerer autorização à CNPD para efectuar o tratamento de dados que pretende implementar.
+2. A finalidade do tratamento: destina-se à gestão dos seus clientes e a promover acções de informação e marketing.
+3. Os dados pessoais contidos em cada registo, e que serão objecto de tratamento, circunscrevem-se aos seguintes:
+- nome;
+- morada;
+- nacionalidade;
+- número de telefone, fax, e-mail;
+- profissão;
+- sexo;
+- e número de contribuinte;
+4. Os dados são remetidos para o Reino Unido, pela empresa mãe, "The Carphone Warehouse" 5. Os dados serão actualizados directa e pessoalmente e serão conservados durante dez anos.
+II - Apreciando e Decidindo:
+1. A CNPD já emitiu diversas decisões relativamente à matéria do tratamento de dados cuja finalidade é a de marketing directo.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Tendo autorizado, em situações dessa natureza, a recolha e tratamento de dados pessoais desde que exista autorização prévia, expressa e escrita do titular do tratamento, dada para essa finalidade específica.
+A base de legitimidade da recolha e tratamento desses dados assenta, pois, no consentimento dos seus titulares, pedido previamente a cada recolha - cf. art° 6° da Lei n° 67/98, de 26 de Outubro.
+Assim sendo, deve o consentimento ser obtido previamente dos seus titulares, e o mesmo deve ser prestado em termos inequívocos, como forma legal de legitimidade da recolha e tratamento desses dados - cf.
+art.° 6° da Lei n.º 67/98, de 26 de Outubro.
+No caso sub judice sabe-se que a Requerente informa que pretende pedir, previamente, o consentimento dos titulares dos dados, dando-lhes a conhecer o seu destino e utilização - cf. fls. 7- pelo que, mostra-se assegurada a legitimidade legal do tratamento.
+2. Por outro lado, resulta do preceituado na Lei da Protecção de Dados
+- Lei n° 67/98, de 26 de Outubro - que o tratamento dos dados pessoais deve observar os principios da licitude e o da boa-te, os dados devem ser recolhidos para finalidades determinadas, explícitas e legitimas e mostrarem-se adequados, pertinentes e não excessivos relativamente às finalidades para que são recolhidos e posteriormente tratados - cft. seu art° 5°.
+Sendo certo que os dados a tratar, e referenciados pela Requerente, se apresentam como pertinentes e não excessivos em função dos objectivos que presidem ao referido tratamento, de acordo com o art° 5° da Lei n° 67/98.
+3. Mostra-se igualmente necessário que a Requerente:
+a) Assegure aos titulares dos dados, e no momento da recolha destes, o direito de informação em relação à finalidade subjacente ao seu tratamento, nos termos estabelecidos no art.º 10° da Lei de Protecção de
+Dados;
+b) Dê a conhecer aos titulares dos dados os direitos de acesso e de rectificação consignados no seu art.º 11°, informando-os da finalidade subjacente ao seu tratamento, de acordo com o preceituado no citado normativo da Lei n° 67/98, de 26 de Outubro;
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS c) Tome as medidas necessarias para assegurar ao titular dos dados, de torma gratuita, o direito de oposição, nos termos do art° 12° da Lei n° 67/98.
+4. Resulta, ainda, dos autos, que a Requerente declarou - assinalando o espaço correspondente às "interconexões de dados" - que os dados seriam recolhidos em Portugal mas depois seriam tratados no Reino Unido pela empresa mãe: a "The Carphone Warehouse"
+Pese embora essa declaração considera-se, contudo, que o que a
+Requerente pretende é efectuar a comunicação dos dados recolhidos à empresa mãe, sediada no reino Unido.
+E, nessa medida, não carece da verificação dos pressupostos estabelecidos no art° 9° da Lei n° 67/98, para a interconexão de dados, nada obstando, pois, à referida comunicação.
+III - Em Conclusão:
+- Uma vez que se mostram preenchidos os pressupostos legais que permitem deferir o requerido,
+A CNPD autoriza o tratamento, consignando-se o seguinte:
+1. Responsável: a Requerente;
+2. Categoria de dados pessoais tratados: os elencados no ponto I.
+3);
+3. Finalidade: para gestão de clientes e acções de promoção e de marketing;
+4. Prazo de conservação: enquanto se mantiver a necessidade que determinou a recolha dos mesmos.
+Lisboa, 9| NovEmbro/2004
+Ana Luísa Geraldes (Relatora)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Amadeu Guerra
+Alexandre Pinheiro
+Eduardo Campos
+Luís Barroso
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

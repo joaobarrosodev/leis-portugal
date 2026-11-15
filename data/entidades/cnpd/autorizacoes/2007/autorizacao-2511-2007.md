@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Combined Insurance Company of Europe LTD- Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:55:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2511/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 3886/07 2511
+AUTORIZAÇÃO N° /2007 1- A empresa Combined Insurance Company of Europe Limited, Sucursal em Portugal, vem notificar a Comissão Nacional de Protecção de Dados (CNPD) de um tratamentos de dados pessoais, com a finalidade de elaborar uma lista actualizada dos mediadores de seguros que colaboram com a
+Combined Insurance Company of Europe Limited, Sucursal em Portugal, para pagamento das comissões de mediação e retenção na fonte em sede de imposto sobre o rendimento das pessoas singulares, e ainda comunicação ao
+Instituto de Seguros de Portugal, na qualidade de entidade de supervisão.
+Os dados recolhidos são: nome, tipo de identificação, número de identificação, nacionalidade, morada, telefone, endereço de correio electrónico, n° de inscrição no registo de Instituto de Seguros de Portugal, valor das comissões de mediação pagas, eventuais contra-ordenações ou infracções penais cometidas no exercício da actividade.
+A recolha e a actualização são operadas directamente. Existe comunicação de dados para o Reino Unido e ao Instituto de Seguros de Portugal. Não existem interconexões.
+Como medidas de segurança dos dados são apresentadas todas as constantes do formulário da CNPD. Os dados são conservados enquanto for necessário para o cumprimento das obrigações legais e contratuais. Os dados são acedidos, corrigidos e eliminados através de contacto directo com o responsável.
+2- Atenta a finalidade, o requerente deve garantir de forma completa a observância do artigo 10.° da Lei n.° 67/98, de 26 de Outubro, assegurando ao titular dos dados o acesso à informação pessoal registada.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Considera-se que os dados recolhidos são pertinentes, adequados e não excessivos (artigo 5.° da Lei n.º 67/98, de 26 de Outubro).
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.º da Lei n.º 67/98, de 26 de Outubro, autoriza-se o tratamento de dados apresentado, nos seguintes termos:
+Adida
+Responsável: Combined Insurance Company of Europe Limited, Sucursal em Portugal.
+Categorias de dados pessoais tratados: nome, tipo de identificação, número de identificação, nacionalidade, morada, telefone, endereço de correio electrónico, n° de inscrição no registo de Instituto de Seguros de Portugal, valor das comissões de mediação pagas, eventuais contra-ordenações ou infracções penais cometidas no exercício da actividade.
+Finalidade: elaborar uma lista actualizada dos mediadores de seguros que colaboram com a Combined Insurance Company of Europe Limited,
+Sucursal em Portugal, para pagamento das comissões de mediação e retenção na fonte em sede de imposto sobre o rendimento das pessoas singulares, e ainda comunicação ao Instituto de Seguros de Portugal, na qualidade de entidade de supervisão.
+Forma de exercício do direito de acesso e rectificação: Através de contacto directo com a Combined Insurance Company of Europe Limited, Sucursal em Portugal.
+Transferências de dados: Reino Unido.
+Lisboa, de Dezembro de 2007
+Luís Barroso
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque (Relatora)
+Eduardo Campos
+Carlos Campos Lobo
+Vasco Almeida
+Helena Delgado António
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

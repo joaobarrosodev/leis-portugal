@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Nippur Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,72 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T02:35:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7414/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/47552](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/47552).
+Proc. N.º: 6263/2012 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N° 741Y 12012
+I. Do Pedido
+A Nippur, Lda. notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de processos clínicos.
+A responsável pelo tratamento presta serviços na área da imagiologia.
+Os dados pessoais objecto de recolha são os seguintes: nome, idade, sexo, profissão, n.º de documento de identificação, morada, contactos telefónicos, perímetro abdominal, consumo de álcool, hábitos tabágicos, historial clínico, uso de medicamentos, historial de sintomas, pressão arterial, colesterol, hábitos diários, exames imagiológicos, nome e contactos do médico e dados de faturação.
+Os dados são recolhidos de forma direta e pessoalmente.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+Pretende-se a conservação dos dados pelo período de dois anos.
+II. Da Análise
+Porque referentes à saúde e à vida privada, os dados dos utentes dos serviços prestados pela requerente têm a natureza de sensíveis, nos termos do disposto no n° 2 do artigo 7° da Lei n° 67/98, de 2 de Outubro.
+Em regra, o tratamento de dados sensíveis é proibido, de acordo com o disposto no n.º1 do artigo 7.° do diploma supra mencionado.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 6263/2012 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Todavia, o tratamento de dados de saúde é permitido, quando seja necessário para efeitos de medicina preventiva, de diagnóstico médico ou prestação de cuidados de saúde, desde que efectuado por um profissional de saúde obrigado a sigilo e observadas que sejam as medidas adequadas de segurança da informação (n.° 4 do art. 7.° da Lei da Protecção de Dados).
+O tratamento de dados notificado enquadra-se na situação supra.
+A informação tratada é recolhida de forma lícita (alínea a) do n.º1 do artigo 5° da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+Os dados devem ser exactos e, se necessário, actualizados (artigo 5°, alínea d), da
+Lei n° 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da Lei n° 67/98), sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou rectificados os dados inexactos ou incompletos ou não necessários (artigo 5°, n.º 1, alíneas c) e d), e n.° 3, da Lei n° 67/98).
+Deverão ser adoptadas as medidas de segurança adequadas, atenta a natureza sensível dos dados objecto de tratamento e, no que respeita aos dados de saúde, o responsável deve adoptar medidas técnicas e organizativas adequadas a proteger os dados pessoais, as quais devem atestar um nível de segurança adequado em relação aos riscos que o tratamento apresenta e à natureza dos dados a proteger.
+Em particular, o sistema deve garantir uma «separação lógica entre os dados referentes à saúde» e os restantes dados pessoais, nos termos do n.° 3 do artigo 15.° da LPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 2
+
+Proc. N.º: 6263/2012 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+III. Da Conclusão
+Em face do exposto, a Comissão Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos do nº4 do art. 7°, alínea a)
+do n.° 1 do art. 28° e nº1 do art. 30.° da Lei n.º 67/98, de 26 de Outubro, consignando-se o seguinte:
+Responsável pelo tratamento: Nippur, Lda.
+Finalidade: Gestão de processos clínicos.
+Categoria de Dados pessoais tratados: nome, idade, sexo, profissão, n.º de documento de identificação, morada, contactos telefónicos, perímetro abdominal, consumo de álcool, hábitos tabágicos, historial clínico, uso de medicamentos, historial de sintomas, pressão arterial, colesterol, hábitos diários, exames imagiológicos, nome e contactos do médico e dados de faturação.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do responsável pelo tratamento.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação:
+a) Dados de saúde: Nos termos do anexo à Portaria n.º 247/2000, de 8 de
+Maio;
+b) Dados de facturação: 10 anos.
+Lisboa, 18 de setentro
+Se 2012
+Ana Roque, Carlos Campos Lobo, Luís Barroso, Luís Paiva de Andrade, Vasco
+Almeida (Relator)
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt

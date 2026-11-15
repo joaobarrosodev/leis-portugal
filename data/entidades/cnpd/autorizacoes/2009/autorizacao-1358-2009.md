@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1358/2009
-official_date: null
+official_date: '2009-03-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SÍTIO DAS IDEIAS, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,24 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:16:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1358/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15402](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15402).
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: SÍTIO DAS IDEIAS, LDA
+Finalidade: realização de consultas de reeducação alimentar complementadas pelo aconselhamento de suplementos alimentares
+Categoria de Dados pessoais tratados: nome, data de nascimento, sexo, morada, telefone/telemóvel e profissão, bem como dados de saúde, hábitos alimentares, hábitos de vida, dados antropométricos, níveis de actividade física e informações psicológicas descritos no ponto 5 do formulário de notificação
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação: mediante solicitação escrita
+Interconexões de tratamentos: não há.
+Transferências de dados para países terceiros: não há
+Lisboa, 23 de Março de 2009
+Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+CanSares
+Luis Lingnau da Silveira (Presidente)

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FRULACT - INGREDIENTES PARA INDÚSTRIA LACTICÍNIOS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,81 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:28:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 757/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2706](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2706).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 1104/05 U
+AUTORIZAÇÃO N.º 757/2007 1 - Pedido 1. A empresa "Frulact - Ingredientes para a Indústria de Lacticínios, S.A." veio notificar junto da Comissão Nacional de Protecção de Dados (CNPD) um tratamento de videovigilância em funcionamento nas suas instalações, sitas na Rua do Outeiro, 589, em Gemunde, na Maia.
+2. Segundo informações prestadas, a entidade requerente pretende instalar câmaras nos balneários das senhoras e dos homens, nas entradas das instalações, portões de acesso e zonas de parqueamento, na cantina e na área de convívio do pessoal.
+3.
+Não existe Comissão de Trabalhadores.
+I1 - Análise 4.
+Através da Deliberação n° 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n°. 1, alínea c), da Lei n.º 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.° e 8.°, n.º 2, do citado diploma), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, admite-se que sejam utilizados estes meios de prevenção na área abrangida com vista à protecção de pessoas e bens no supramencionado edifício.
+() Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Trata-se da colocação de sistemas de recolha de imagem em zonas de circulação de pessoas. Assim, a instalação das câmaras funciona como um factor de dissuasão, aumentando a segurança das instalações e, consequentemente, das pessoas e bens.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+5. Verifica-se que a utilização do sistema se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, alínea c), da Lei n.° 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o reconhecimento das pessoas e com protecção dos seus direitos fundamentais (), bem como registar e documentar a eventual prática de infracções. O tratamento de som ou imagem e a finalidade delineada, não tem que "situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+() O artigo 8.°, n.º 2, obriga, como condições a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores (cf. artigo 20.° do Código do Trabalho).
+6. No que concerne às câmaras colocadas nos balneários (das mulheres e dos homens), considera a CNPD que é desproporcionada e excessiva a recolha nestes locais, com gravação de imagens em relação às pessoas que aí circulem.
+7. A CNPD considera igualmente excessiva e desproporcionada a recolha de imagens na cantina e na área de convívio do pessoal, pelo que não pode ser autorizada a recolha e o visionamento de imagens captadas nesses locais.
+Por último, cumpre referir que a recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+III - Conclusões
+Face ao que antecede, considera-se, por isso, legítimo o tratamento -autorizando-se a recolha de dados (artigos 8.°, n.º 2, e 28.°, n.º 1, alínea a), da Lei n.º 67/98) - devendo ser observadas, ainda, as seguintes condições:
+A. Responsável pelo tratamento - Frulact - Ingredientes para a Indústria de
+Lacticínios, S.A.
+B. Finalidade - Protecção de pessoas e bens.
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpc.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei n.º 67/98.
+E. Recolha de imagens - A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores (cf. artigo 20.° do Código do Trabalho).
+As câmaras têm que ser direccionadas exclusivamente para as entradas e saídas e/ou, eventualmente, janelas da Escola e não para os espaços onde estão concentrados os alunos.
+F. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem e som»
+(Art.º13.° n.°3 do Decreto-Lei n.°35/2004, de 21 de Fevereiro).
+G. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.°, n.º° 2, da Lei n.º 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+H. Prazos de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+I. Não é autorizada a recolha e o visionamento de imagens nos balneários das mulheres e dos homens, na cantina e na área de convívio do pessoal, pois essa captação mostra-se desnecessária e excessiva para os direitos dos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS titulares, face à finalidade prosseguida pelo presente tratamento, pelo que deve a requerente retirar as referidas câmaras.
+Notificada, a entidade responsável para se pronunciar nos termos dos artigos 100.º e 101.º do CPA, e mesma nada tendo dito, determina-se converter o projecto de autorização de 31 de Outubro de 2006, na presente autorização.
+Lisboa, 14 de Tario ele 2007
+Ana Roque cato campos too
+Eduardo Campos
+Helena Delgado António
+Luís Barroso
+Vasco almeida
+Luís Lingnau da Silveira (Presidente, que relatou)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt s

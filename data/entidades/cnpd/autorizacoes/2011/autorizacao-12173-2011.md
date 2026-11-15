@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 12173/2011
-official_date: null
+official_date: '2011-10-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANA TERESA NUNES SEGALÁS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,27 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T05:03:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12173/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/38960](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/38960).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 9838/2011
+Deliberação n.° 12|73 / 2011
+Ana Teresa Nunes Segalás, no âmbito da sua Tese de Mestrado, notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional sobre a prevalência da Retinopatia Diabética em doentes diabéticos Tipo 2.
+Serão incluídos no estudo os casos de doentes com a patologia, seguidos no Centro de Saúde de Vila Franca de Xira.
+Os dados serão recolhidos dos processos clínicos por um informático do centro de saúde, ficando a investigadora na posse de uma lista de dados anonimizados.
+Os dados tratados são: idade, sexo, peso, altura, presença de Retinopatia Diabética, hábitos tabágicos, pressão arterial sistólica e diastólica e parâmetros bioquímicos (glicemia, perfil lipidico, creatinina e HbA1C).
+Pela análise dos dados recolhidos e da metodologia aplicada verifica-se que não há tratamento de dados pessoais, uma vez que em nenhum momento do estudo se identifica ou se permite identificar os titulares dos dados. Assim, porque não existe tratamento de dados pessoais, não se aplica a Lei n.º 67/98, de 26 de Outubro.
+Lisboa, (9 de Outubro de 2011
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida (Relator), Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso ner
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

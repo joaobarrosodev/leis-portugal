@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 62/2013
-official_date: null
+official_date: '2013-04-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CONCLUSÃO, ESTUDOS E FORMAÇÃO, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,31 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 62/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53036](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53036).
+Proc. n.º 7824/2010
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+REGISTO n.° 62 /2013
+Conclusão, Estudos e Formação, Lda notificou um tratamento de dados pessoais com a finalidade formação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1, al. a), da62 Lei n.° 67/98, de 26 de Outubro -LPD), para finalidades determinadas, explícitas e legítimas (cf. al. b)
+do mesmo artigo) e não excessiva.
+O fundamento de legitimidade é o cumprimento de obrigação contratual (alínea a) do artigo 6.° da LPD)
+O responsável deve garantir ao titular dos dados os informações previstas no art.° 10° da LPD, designadamente o n.° 4, por haver recolha de dados em rede aberta. Deve, também, garantir a possibilidade do titular se opor à comunicação de dados a terceiros.
+Deve, ainda, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Em face do exposto, nos termos da alínea b) n.º 1 do artigo 23° e do n.° 1 do artigo 30.° da LPD, a CNPD regista o tratamento de dados pessoais consignando o seguinte:
+1. Responsável: Conclusão, Estudos e Formação, Lda 2. Categorias de dados pessoais: Dados de inscrições de formandos (identificação, contactos, ação de formação, pagamento)
+3. Finalidade: Formação 4. Entidades a quem podem ser transmitidos: Não há 5 Acesso e Retificação: Por contacto, pessoal ou escrito com o responsável 6. Eventuais interconexões: Não aplicável;
+8. Prazo máximo de conservação dos dados: 10 anos, sem prejuízo da sua conservação para fins de arquivo
+Lisboa, 5 de abril de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

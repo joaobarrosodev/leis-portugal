@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 322/2010
-official_date: null
+official_date: '2010-01-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MERCK, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:58:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 322/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21280](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21280).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 9292/2009
+AUTORIZAÇÃO N. 322 12010
+A Merck, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional que visa avaliar a qualidade de vida dos doentes com esclerose múltipla.
+Este estudo prevê a validação na língua portuguesa do questionário internacional de qualidade de vida Musiqol - Multiple Sclerosis International Qol questionnaire - para doentes com esclerose múltipla.
+A entidade encarregue do processamento dos dados é o Instituto de Educação e Psicologia da
+Universidade do Minho.
+Serão incluídos no estudo os doentes que preencham os critérios de inclusão e que se dirijam a qualquer um dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do profissional de saúde participante.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.º 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Merck, S.A.
+Finalidade: estudo observacional que visa avaliar a qualidade de vida dos doentes com esclerose múltipla.
+Categoria de Dados pessoais tratados: código de doente, n° do centro participante, dados demográficos (data de nascimento e sexo), história clínica (data do diagnóstico de esclerose múltipla, forma clínica da doença, n° de surtos nos últimos 12 meses, data do último surto,
+EDSS (escala expandida do estado de incapacidade) aquando do diagnóstico, EDSS no dia da avaliação), resposta a questionário sobre a qualidade de vida.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: 5 anos.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 18 de Janeiro de 2010
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos
+Campos Lobo, Luis Barroso
+Mais Salver
+Luís Lingnau da Silveira (Presidente)

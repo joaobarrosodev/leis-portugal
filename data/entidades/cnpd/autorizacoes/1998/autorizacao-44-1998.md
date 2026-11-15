@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: RBA LUSOMUNDO EDITORES, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:11:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 44/1998
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10541](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10541).
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Proc-r: 89158
+AUTORIZAÇÃO N°44/ 98
+A RBA Lusomundo Editores, Lda veio proceder ao Registo do ficheiro respeitante aos clientes de produtos editados pela RBA- National Society
+Geographic, com finalidade de marketing directo.
+Face à finalidade do ficheiro e ao tipo de dados objecto de tratamento, o ficheiro está sujeito a mera comunicação a esta Comissão, nos termos do n° 3 do artigo 17° e do artigo 18° da lei n° 10/91 de 29 de Abril.
+Verifica-se, contudo, que os dados pessoais recolhidos em Portugal são transmitidos, para os Estados Unidos da América, para a National Geographic Society, entidade devidamente identificada no Processo. Ora os fluxos transfronteiras de dados pessoais, quando envolvem países que não sejam Parte da Convenção para a Protecção das
+Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter Pessoal(
+Convenção n° 108 do Conselho da Europa) carecem de autorização prévia, expressa caso a caso, nos termos do n° 3 do artigo 33° da lei n° 10/91 de 29 de Abril, com a redacção da lei n° 28/94 de 29 de Agosto.
+Assim 1) A Comissão delibera registar o ficheiro nas condições constantes do Processo 89/98.
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS 2) Autoriza a transmissão dos dados pessoais recolhidos para National Geographic
+Society, Washington, nos Estados Unidos da América, de acordo com o n° 3 do artigo 33° da lei n° 10/91 de 29 de Abril, com a redacção dada pela lei n° 28/94 de 29 de
+Agosto, nas condições seguintes:
+1- o titular dos dados deve consentir expressamente a transferência dos seus dados pessoais;
+2- a National Geographic Society deve:
+a) utilizar os dados apenas para a finalidade determinante da recolha;
+b) não ceder os dados a terceiros;
+c) garantir aos titulares de dados os direitos que lhes confere a legislação portuguesa de protecção de dados.
+3- os documentos devem ser reformulados, com vista à obtenção do consentimento do titular, indicando que a empresa em causa está sediada nos EUA.
+Lisboa em 18de Junho de 1998
+Joãd Alfredo M. Labescat da Silva (Relator )
+Mário Manuel Varges Gomes
+Amadeu Francisco Ribeiro Guerra ummm
+Joaquim Seabra Lopes
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Nuno Albuquerque Morais Sarmento
+Luís José Durão Barroso
+Augusto Victor Coelho ( Presidente)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

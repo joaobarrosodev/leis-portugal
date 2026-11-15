@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 111/2017
-official_date: null
+official_date: '2017-01-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Cofidis, Sucursal da SA francesa Cofidis'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T11:37:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 111/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/99840](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/99840).
+Processo n.° 18992/2016 | 1 A
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 111/2017
+Cofidis, S.A., veio notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão da informação dos Serviços de
+Medicina no Trabalho.
+As entidades encarregues do processamento da informação são as empresas Atlanticare -
+Serviços de Saúde, S.A., e Medempresa - Medicina de Empresa, S.A., com as quais a responsável pelo tratamento deverá celebrar o contrato previsto no artigo 14.° da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto (Lei de Proteção de
+Dados Pessoais - LPDP).
+A CNPD já se pronunciou na sua Deliberação n.º 840/20101 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da
+Lei de Proteção de Dados Pessoais, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela Deliberação n.º 840/2010.
+Os dados recolhidos são necessários e pertinentes para a finalidade declarada (cf. artigo 5.° da LPDP).
+O fundamento de legitimidade é - nos termos do n.º 2 do artigo 7.° da LPDP - a Lei, consubstanciada nos artigos 281.° a 284.° do Código do Trabalho e na Lei n.° 102/2009, de 10 de setembro.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos n.º 2 do artigo 7.°, alínea a), do n.º1 do artigo 28.° e artigo 30.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto, e as condições e limites fixados na referida
+Disponível em http://www.cnpc.pt/bin/orientacoes/DEL_840_2010_MED_trabalho_actualizada.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 18992/2016 | 2 M
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Deliberação, que se dão aqui por reproduzidos e que fundamentam o presente instrumento de legalização, autoriza-se o tratamento notificado nos seguintes termos:
+Responsável pelo tratamento: Cofidis, S.A.
+Finalidade: Gestão da informação dos Serviços de Medicina no Trabalho
+Categoria de dados pessoais tratados: Dados de identificação e de contacto, dados de saúde, dados relativos atividade profissional, dados da ficha de aptidão, dados sobre riscos de doença profissional e dados sobre doenças profissionais.
+Comunicação de Dados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Autoridade para as Condições de Trabalho (cf. n.º 2 do artigo 109.° da Lei n.° 102/2009, de 10 de setembro)
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão"
+Forma de exercício do direito de acesso e retificação: O direito de acesso deverá ser exercido - nos termos do n.º 5 do artigo 11.° da LPDP, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do trabalhador, o médico do trabalho e no exercício do direito de retificação deste tipo de dados, deverá o trabalhador exercê-lo diretamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas
+Interconexões: Não se verificam
+Fluxo transfronteiriço de dados: Não há
+Prazo máximo de conservação dos dados: Os dados pessoais podem ser conservados pelo período máximo de cinco anos após a cessação do vínculo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 18992/2016 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No caso dos registos de dados dos trabalhadores estarem em situação suscetível de implicar risco para o património genético, o prazo de conservação é de 40 anos.
+Dos termos e condições fixados na Deliberação n.º 840/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve igualmente dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 4 de Janeiro de 2017
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

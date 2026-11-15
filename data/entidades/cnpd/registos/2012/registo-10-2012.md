@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Unilever Jerónimo Martins, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:05:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 10/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40236](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40236).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 4287/2010
+REGISTO N.° IÔ 12012
+Unilever Jerónimo Martins, Lda notificou um tratamento de dados pessoais com a finalidade de "suporte operacional a website e ativação de ações de marketing on-line (Planta)"
+A View Marketing Digital & Comunicações é a entidade subcontratada para o processamento da informação, com quem deve o responsável estabelecer o contrato previsto no artigo 14° da
+LPD.
+Os dados recolhidos ão pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10), com exceção dos dados relativos à localização do trabalhador através do cartão eletrónico de acesso.
+O fundamento de legitimidade é o interesse do responsável, previsto na al. e) do artigo 6° da
+LPD.
+Assim, regista-se nos termos dos artigos 27.° n.º 1 e 30.° n.° 1.° da Lei 67/98, de 26 de Outubro nos seguintes termos:
+Responsável
+Unilever Jerónimo Martins, Lda
+Finalidade suporte operacional a website e ativação de ações de marketing on-line".
+Categoria de dados pessoais
+Nome, e-mail, data de nascimento, sexo, telefone, Bl, password, morada.
+tratados
+Forma de exercicio do direito
+Por contacto responsável de acesso e rectificação
+Comunicações de Dados
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados
+Dez anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de Outubro.
+Lisboa, 06-01-2012
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

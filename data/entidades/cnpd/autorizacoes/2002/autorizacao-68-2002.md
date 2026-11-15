@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: RCI GEST-InstituiçãoFinanceira Crédito, SAex:RCI GEST-S.C. AUT.ex RENAULT GEST'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:02:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 68/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9812](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9812).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 584/95
+AUTORIZAÇÃO N.°68 /2002
+A Renault Gest, Sociedade de Comércio de Automóveis, SA veio pedir autorização para transmitir dados pessoais dos seus clientes à Credinformações, quando estiverem em mora ou incumprimento.
+A CNPD proferiu projecto de deliberação em 5/2/2002 a qual foi notificada à empresa, nos termos do artigo 100.º do CPA. A empresa requerente não apresentou qualquer resposta.
+A comunicação de dados à Credinformações tem como fundamento próximo uma disposição legal: o art. 83.° do DL 298/92 de 31 de Dezembro.
+Este preceito é expresso ao permitir às sociedades financeiras a organização, sob regime de segredo, de um sistema de informações recíprocas com o fim de garantir a segurança das operações". A Credinformações, enquanto prestadora de serviços às entidades financeiras, centraliza a informação e possibilita esta troca de informações entre sociedades financeiras, estando elas sujeitas ao cumprimento do sigilo bancário.
+Ora, a Renault Gest não é uma sociedade financeira.
+Por isso, a CNPD não pode considerá-la beneficiária daquele sistema de informação, o qual é reservado a sociedades financeiras.
+Lisboa, S' de Março de 2002 den
+Amadeu Guerra (relator)
+atainefamente letos
+Catarina Sarmento e Castro
+Alexandre Pinheiro
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt
+- 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Custukule Blute
+Cristina Baptista
+Luís Durão Barroso
+Mário Varges Gomes ý 9. 4re
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

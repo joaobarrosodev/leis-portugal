@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Coração d aço - Reciclagem de Sucatas Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:46:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6457/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57333](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57333).
+processo n° 11536/12
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N° 6457 12013
+Coração de Aço - Reciclagem de Sucatas, S.A. veio notificar o tratamento de videovigilância a realizar nas suas instalações. (Rua Alves Redol jcc, 2680-173
+Camarate - Loures)
+A empresa declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 10 câmaras na entrada de viaturas, local de descargas, local de entrada e saída de pessoas, saída de viaturas e local de pesagem.
+Há visualização de imagens em tempo real.
+Não há transmissão de imagens para o exterior do local da instalação do sistema.
+A Lei n.º 54/2012, de 6 de setembro define os meios de prevenção e de combate ao furto e recetação de metais não preciosos com valor comercial e prevê mecanismos adicionais e de reforço no âmbito da fiscalização da atividade de gestão de resíduos pelas forças e serviços de segurança e pela Autoridade de
+Segurança Alimentar e Económica.
+Nos termos do n.º1 do artigo 2.º da referida lei, os operadores em cujas as instalações se procede ao armazenamento, tratamento ou valorização de metais não preciosos são obrigados a adotar um sistema de segurança que inclua, no mínimo, um sistema de videovigilância para controlo efetivo de entradas e saídas nas instalações onde são recolhidos.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspetos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n.º 1, alínea c), da Lei 67/98, de 26 de outubro - LPD), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 11536/12 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens». Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilícitos.
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.° 1, alínea. c) da LPD).
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do Trabalho (').
+Considera-se, por isso, legítimo o tratamento - (artigo 7.°, n.° 2 e 28.°, n.° 1, alínea a), da LPD) - que se autoriza nos seguintes termos:
+1. Responsável pelo tratamento - Coração de Aço - Reciclagem de Sucatas,
+S.A.
+2. Finalidade - Proteção de pessoas e bens.
+3. Categorias de dados pessoais tratados - Imagens captadas pelo sistema 4. Comunicação de imagens - As imagens só podem ser tratadas nos termos da lei processual penal. Detetada a eventual infração penal, o responsável, juntamente com a participação, enviar à autoridade judiciária ou ao órgão da policia criminal competentes as imagens recolhidas. Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no âmbito de processo judicial devidamente identificado, em cumprimento do despacho fundamentado da autoridade judiciária competente. Fora destas condições não pode o responsável comunicar as imagens.
+5. Interconexões - Não há 6. Fluxo transfronteiriço para países terceiros - Não há.
+7. Conservação de dados - 90 dias (artigo 2.° n.º4 da Lei n.º54/2012, de 6 de setembro).
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 11536/12 | 3
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 8. A recolha de imagens deve confinar-se ao perímetro da propriedade e as câmaras não podem incidir sobre as zonas limítrofes ou a via pública.
+9. As câmaras não devem estar direcionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (n.º 1 do artigo 11° da LPD), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à CNPD (n.º 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adotar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, nos termos exigidos pelo n.º 5 do artigo 31° da Lei n.º 35/2013, de 16 de maio.
+O responsável deve adotar as medidas de segurança previstas nos artigos 14° e 15° da LPD. Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre atualizadas a data e hora das gravações.
+Lisboa, 10 de senho 4 201}
+Carlos Campos Lobo (Relator), Luís Barroso, Ana Roque, Helena Delgado António,
+Vasco Almeida e Luís Paiva de Andrade
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2223/2009
-official_date: null
+official_date: '2009-06-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: WYETH EX - WYETH LEDERLE DE PORTUGAL (FARMA), LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:01:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2223/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16403](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16403).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc° 1276/2006
+AUTORIZAÇÃO N°222/012009 1)
+O pedido
+A empresa Wyeth Lederle Portugal (Farma), Lda notifica um tratamento de dados pessoais de trabalhadores, no âmbito do cumprimento de obrigações legais em matéria de seguros de saúde e de benefícios, em termos de seguros, para os trabalhadores.
+Depois de solicitada a esclarecer o pedido, a empresa explicitou que apenas pretende um aditamento à autorização geral n° 47/99, sobre gestão de pessoal.
+Este tratamento não contempla, assim, dados sensiveis, apenas abrangendo os dados de identificação do trabalhador e a menção dos seguros a ele relativos, realizados através de uma mediadora.
+Como fundamento de legitimidade, apontam-se o cumprimento da lei e o consentimento dos interessados.
+Não existe comunicação de dados, nem interconexão, nem fluxos transfronteiras.
+Como medida de segurança aponta-se o acesso restrito de pessoas.
+O prazo de conservação indicado é o de 10 anos após a cessação do contrato de trabalho, "para fins estatísticos e históricos".
+Os direitos de acesso e rectificação exercem-se por contacto com a seguradora.
+2) Apreciação
+As finalidades prosseguidas apresentam-se determinadas, explícitas e legítimas (Lei n° 67/98, de 26 de Outubro, art° 5°, n° 1, al b).
+Os dados tratados são adequados, pertinentes e não excessivos, face às finalidades prosseguidas (ibidem, al c).
+O fundamento de legitimidade é o cumprimento de obrigação legal.
+O prazo de conservação proposto apresenta-se desproporcionado, cabendo antes fixá-lo em 1 ano após cessação do vínculo laboral.
+3) Autorizações
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em face do exposto, e nos termos dos artigos 6°, al b) 27° e 29° da Lei n° 67/98, a CNPD emite, em aditamento à Autorização n° 47/99, a seguinte autorização:
+a)
+Responsável
+Wyeth Lederle Portugal (Farma), Lda.
+b) Finalidade trabalhadores.
+Cumprimento de obrigação legal relativamente a regras de saúde de
+Dados pessoais tratados
+Dados de identificação dos trabalhadores; seguros de saúde celebrados em seu nome.
+d)
+Interconexões
+Não há.
+e)
+Comunicações
+Não há.
+f) Fluxos transfronteiras
+Não há.
+g) Forma de exercício do direito de acesso e rectificação
+Por contacto com a seguradora.
+Lisboa,01 de junho de 2009
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade
+Luis Lingnau da Silveira (Presidente/relator)
+amm

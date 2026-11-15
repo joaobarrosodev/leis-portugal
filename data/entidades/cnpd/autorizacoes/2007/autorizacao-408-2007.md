@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ROCHE SISTEMAS DE DIAGNÓSTICOS, SOCIEDADE UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:34:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 408/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3071](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3071).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 3042/06
+AUTORIZAÇÃO N.º 408 /2007
+A Roche Sistemas de Diagnósticos - Sociedade Unipessoal, Lda., veio notificar à
+Comissão Nacional de Protecção de Dados (CNPD) o tratamento de dados à gestão de recursos humanos e da relação contratual, conforme descrito no ponto 3 do Formulário.
+Os dados serão transferidos para a Suíça.
+A sociedade requerente veio juntar uma minuta do contrato de trabalho, onde consta, no que se refere aos Fluxos Transfronteiras de Dados Pessoais, que a transferência de dados pessoais dos colaboradores da Roche Sistemas de Diagnósticos - Sociedade
+Unipessoal, Lda. para a Suíça será efectuada com autorização expressa dos colaboradores.
+Os dados tratados são, entre outros, o nome, a residência, o contacto, a data de nascimento, a naturalidade, a filiação, BI, n° de Segurança Social, habilitações literárias, agregado familiar, NIB, contacto de emergência, c.v. e ficha salarial, bem como identificação pessoal dos familiares beneficiários fiscais, como consta do Anexo ao ponto 5 do Formulário.
+1. As categorias de dados tratados acima indicados mostram que os mesmos são necessários e não excessivos em relação à finalidade (cf. art. 5.º da Lei 67/98, de 26 de
+Outubro). Em relação a dados de terceiros, familiares dos colaboradores, é necessário o respectivo consentimento expresso para o tratamento.
+2. Nos termos do disposto no artigo 20.° e na alínea e) do n.º 1 do artigo 23.° da Lei de
+Protecção de Dados Pessoais, a transferência de dados pessoais para países terceiros carece de autorização da CNPD.
+Nos termos do artigo 20.° da Lei 67/98, de 26 de Outubro, a transferência de dados pessoais para a Suíça pode ser permitida pela CNPD se o titular dos dados tiver nela consentido inequivocamente e a empresa propõe-se obter esse consentimento no contexto do contrato de trabalho.
+3. A CNPD admite que a transferência de dados se apresente como uma razão de interesse para o titular dos dados.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 4. O tempo de conservação dos dados pessoais não deverá ser superior a dois anos após o fim da relação contratual, sendo manifestamente excessivo o período de 10 anos de conservação pretendido pela empresa.
+Face a todo o exposto, delibera esta CNPD, nos termos do disposto no n.º 1 do artigo 20.° da Lei n.° 67/98, de 26 de Outubro, autorizar o tratamento de dados pessoais, bem como a sua transmissão para a Suíça. A entidade responsável deve cumprir as exigências relativas ao direito de informação.
+Lisboa, dá de Tarço, de 2007.
+Ana Roque (Relatora 10.
+Carlos
+Campos Lobo
+Helena Delgado António
+Luís Barroso
+сти
+Eduardo Campos
+Vasco Almeida 59 deve
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

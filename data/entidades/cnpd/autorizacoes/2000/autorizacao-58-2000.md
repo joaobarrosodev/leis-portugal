@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 58/2000
-official_date: null
+official_date: '2000-10-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CREDIBANCO - BANCO DE CRÉDITO PESSOAL, A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:08:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 58/2000
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1516](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1516).
+102
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 4/95
+AUTORIZAÇÃO N.ºS82000
+O CRÉDIBANCO - Banco de Crédito Pessoal, SA veio solicitar autorização para comunicar dados, no âmbito dos riscos de crédito, à Credinformações - Informações de Crédito, Ld.ª.
+A CNPD tem entendido, de forma pacífica e uniforme, que a comunicação de dados a entidades financeiras decorre de uma disposição legal: o artigo 83.° do DL 298/92.
+No mesmo contexto, não há obstáculo à comunicação de dados à Credinformações na medida em que a comunicação é feita no âmbito de um contrato de prestação de serviços, ficando a Credinformações vinculada a cumprir as disposições relativas ao sigilo bancário (cf. artigos 78.° n.º 1 e 79.° n.º 1 do DL 298/92).
+A Credinformações, no âmbito deste contrato, apenas disponibiliza informação a entidades financeiras e em termos de reciprocidade. Há legitimidade para o tratamento, nos termos do artigo 6.° al. a) e e) da Lei 67/98, admitindo-se que - em abstracto e em situações concretas - o titular possa invocar a prevalência dos seus direitos ou exercer, quando for o caso, o direito de oposição (cf. art.º 12.° n.º 1 da Lei 67/98).
+A Credinformações, nos termos do seu pedido de autorização junto da CNPD, assegura o direito de informação aos titulares no momento em que os dados são inseridos no seu sistema.
+Assim, considera-se alterada a autorização n.° 43/95, de 12 de Setembro, nos termos que ficaram expostos.
+Lisboa, 17 de Outubro de 2000
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS du
+Amadeu Guerra (relator)
+Catarineamente lastos
+Catarina Castro
+João Simões de Almeída
+Mário Varges Gomes
+- WA
+Labescat (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

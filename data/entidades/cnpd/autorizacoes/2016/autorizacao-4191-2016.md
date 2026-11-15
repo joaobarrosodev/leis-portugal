@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INTERCAMPUS - RECOLHA, TRATAMENTO E DISTRIBUIÇÃO DE INFORMAÇÃO, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T14:21:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4191/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/90418](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/90418).
+Processo n° 17196/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 4191
+/2016
+I - Relatório
+Intercampus, Recolha Tratamento e Distribuição de Informação S.A., (NIPC 502481749)
+com sede em Avª António Augusto de Aguiar, 106 - 5° e 6° - Lisboa, vem notificar à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de informação relativa a estudos de mercado.
+Foram solicitados diversos esclarecimentos, os quais foram oportunamente prestados.
+II - Do Pedido
+- A requerente dedica-se a estudos de mercado.
+-Pretende com o presente tratamento proceder à gestão de informação relativa a estudos de mercado.
+-Os dados objeto de recolha são os seguintes: género, idade, ocupação profissional, habilitações, tipos de consumos, imagem e som (estes dois últimos de recolha facultativa).
+-A recolha dos dados é feita de forma direta, presencialmente, por telefone ou impresso.
+-Para cada tipo de produto é seleccionado um grupo de consumidores habituais desse mesmo produto.
+-É sempre recolhido o consentimento do titular dos dados mediante a assinatura de formulário próprio.
+-O titular pode conhecer, corrigir e eliminar os dados que lhe respeitem através de pedido dirigido à responsável.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 17196/2014|7 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+-São indicadas medidas de segurança física e lógica a implementar.
+-Não se indicam comunicações, interconexões ou fluxos transfronteiriços de dados.
+-A requerente propõe-se conservar os dados pelo tempo de 90 dias.
+III - Apreciação
+O tratamento de dados pessoais objeto de notificação visa uma finalidade determinada, explícita e legítima.
+Verifica-se que da informação a tratar, alguma há que assume a natureza de sensível, respeitando a dados da vida privada - ocupação profissional, habilitações, consumos, imagem e som.
+Não se verificando nenhuma das situações expressas no artigo 7°, n° 2 da Lei 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto (LPDP) - disposição legal e/ou interesse público importante -, o fundamento de legitimidade para o presente tratamento, só podera ser o consentimento do titular dos dados, como a requerente afirma colher, o qual deve revestir as exigências contidas na alínea h) do artigo 3° do diploma que se vem citando.
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. alínea c) do nº1 do artigo 5° da LPDP), sendo a imagem e som de recolha facultativa.
+Ao titular deve sempre ser garantido o direito de informação previsto no artigo 10° da LPDP e, bem assim, o direito de acesso, de acordo com o estatuído no artigo 11.° da LPDP.
+Relativamente aos prazos máximos de conservação de dados, atento o disposto na alinea e) do n.º 1 do artigo 5.° da LPD, devem os dados pessoais ser conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior, pelo que, considerando as finalidades do tratamento, a CNPD entende adequado o tempo proposto.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 17196/2014| 3 (e
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+IV - Decisão
+Em face do exposto, a CNPD autoriza o tratamento, nos termos declarados e observadas que sejam as condições acima referidas, consignando-se, nos termos dos artigos 7° n°2, 27° nº1, e 30.° da Lei 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto, o seguinte:
+Responsável pelo tratamento: Intercampus, Recolha Tratamento e Distribuição de
+Informação S.A.;
+Finalidade do tratamento: Gestão de informação relativa a estudos de mercado;
+Categorias de dados pessoais tratados: Género, idade, ocupação profissional, habilitações, tipos de consumos, imagem e som (estes dois últimos de recolha facultativa);
+Comunicação de dados pessoais: Não há;
+Forma de exercício do direito de acesso e retificação: Através de pedido dirigido por escrito ou via e-mail (l.liebermann@intercampus.pt) à responsável;
+Interconexões de dados pessoais: Não há;
+Transferência de dados para países terceiros: Não há.
+Tempo de conservação de dados: Tempo de 90 (noventa) dias após a recolha.
+Lisboa, 10 le maio de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

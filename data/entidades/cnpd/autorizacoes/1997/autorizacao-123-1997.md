@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 123/1997
-official_date: null
+official_date: '1997-12-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NCR PORTUGAL - INFORMÁTICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:12:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 123/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10601](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10601).
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Proe 494/ 97
+Autorização n° 123/97
+Assunto: Transferência de dados da. NCR Portugal - Informática, Lda. para os
+Estados Unidos da América do Norte
+A NCR Portugal - Informática, Lda vem registar a sua base de dados de gestão de recursos humanos e solicitar autorização da CNPDPI para a transferência desses dados para a sede da empresa situada nos Estados Unidos da América.
+As finalidades declaradas das bases de dados a nível mundial são:
+• Manter um inventário de capacidades/competências dos empregados da NCR
+• Para avaliar as capacidades/competências dos empregados face às capacidades/competências requeridas pela NCR e pelos standards da indústria de tecnologia de informação.
+• Para construir planos de desenvolvimento profissional a fim de aumentar as capacidades/competências dos empregados da NCR.
+• Para colaborar individualmente com os empregados na verificação das suas qualificações com vista à possibilidade deles concorrerem a outras funções.
+• Para identificar empregados a quem a NCR possa pretender propôr a sua alocação a certos projectos globais, baseando-se nas capacidades/competências individuais.
+E declarado serem recolhidos os seguintes dados: nome, identificação da competência da avaliação, identificação do empregado, identificação da chefia, identificação da divisão, identificação da organização, identificação do departamento, identificação da secção, identificação do team, identificação da competência do team, identificação da competência, título da competência, nível actual, prioridade, completado em, fonte.
+Segundo a declaração da NCR, os dados são fornecidos pelo próprio empregado que expressamente autoriza a sua recolha para tratamento informático e a respectiva transferência para a sede da NCR.
+Mostra-se garantido, nos termos da declaração, o cumprimento das disposições pertinentes da referida Lei n° 10/91, de 29 de Abril, alterada pela Lei 28/94, de 29 de
+Agosto, pelo que se regista a base de dados.
+Não se mostra que a transferência de dados para a sede da empresa nos Estados
+Unidos da América, para além de ter o consentimento expresso dos titulares dos dados, implique diminuição da protecção de dados pessoais.
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+2
+COMISSAO NACIONAL
+DE PROTECÇAO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Conclusão:
+A finalidade declarada não implica menor protecção dos dados pessoais dos empregados da NCR pelo que a CNPDPI delibera autorizar a transferência de dados para os Estados Unidos da América nos termos solicitados.
+Lisboa, 5 de Dezembro de 1997
+Joaquim de Seabra Lopes, relator
+Amadeu F. Ribeiro Guerra
+João A. M. Labescat da Silva
+Luís J. Durão Barroso
+Mário Manuel Varges Gomes
+Nuno A.
+. Morais Sarmento
+Augusto Victor Coelho, presidente
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL ORTOPÉDICO - SANT''IAGO DO OUTÃO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,83 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:08:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2247/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9460](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9460).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 306/06
+AUTORIZAÇÃO n.° 2247 12008
+I - O pedido 1. O Centro Hospitalar de Setúbal E.P.E. (Hospital Ortopédico Sant'Iago do
+Outão) veio notificar o tratamento de videovigilância a realizar nas suas instalações.
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 9 câmaras nas entradas do edifício da unidade hospitalar, locais de armazenamento e áreas entre o acesso à porta automática do edifício principal das enfermarias e o reservatório de oxigénio (áreas contíguas da central de pressurização, gerador eléctrico e morgue).
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD)
+elaborou o projecto de autorização de 29 de Setembro de 2008, no sentido de não autorizar a recolha de imagens no interior da morgue, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 8449, de 1 de
+Outubro de 2008, nos termos e para os efeitos do disposto no artigo 100.º do
+Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos esclarecer que «nenhuma das câmaras irá captar imagens do interior da morgue, uma vez que se pretende abranger áreas contíguas à central de pressurização, ao gerador eléctrico, aos resíduos urbanos e à morgue, áreas estas que se encontram entre o acesso à porta automática do Edifício Principal das
+Enfermarias e o reservatório de oxigénio».
+II - Análise:
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Através da deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações do centro hospitalar no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas, onde pode haver furto de medicamentos e equipamentos valiosos e/ou perigosos.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilicitos - tareta que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços () Disponível in http://www.cnpd.pt/bin/orientaçoes/prinicpiosvideo.htm
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.º do Código do Trabalho (*).
+Não se autoriza a recolha de imagens na zona do interior da morgue, já que, tal permite ao responsável uma intromissão desproporcionada na liberdade de movimentos e mesmo na privacidade dos utentes da unidade hospitalar
+Contudo a CNPD ressalva a possibilidade de captação da área contígua ao local supra mencionado.
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que não se devia autorizar a recolha de imagens na morgue, pois essa captação de imagens mostrava-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento, pelo que as referidas câmaras deviam ser retiradas.
+No entanto, a entidade requerente veio esclarecer que não captará de imagens na zona supra enunciada.
+III - Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Centro Hospitalar de Setúbal E.P.E. (Hospital ortopédico Sant'Iago do Outão).
+2. Finalidade - Protecção de pessoas e bens.
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som é imagem com os seguintes dizeres: «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem».
+(Art.°13.° n.°3 do Decreto-Lei n.º35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo máximo de 30 dias.
+8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho.
+9. A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 27 OutubRo 2008
+Helena Delgado António
+Vasco Almeida
+Luís Barroso
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente), que relatou
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5

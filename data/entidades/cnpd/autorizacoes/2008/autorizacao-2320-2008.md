@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SCHERING - PLOUGH FARMA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:07:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2320/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9926](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9926).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 6206/2008 vor.
+AUTORIZAÇÃO N.° 2320/08
+A Schering-Plough Farma, Ida notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em indivíduos submetidos previamente a um tratamento Anti-VIH.
+Trata-se de um «.ensaio clínico de fase III, multicêntrico e internacional, com ocultação, comparativo entre dois grupos paralelos de tratamento..» que tem como objectivo «avaliar a hipótese de que o vicriviroc (…) proporciona um benefício adicional na redução dos níveis plasmáticos do
+ARN do VIH-1 quando adicionado a uma terapêutica de base optimizada».
+O estudo prevê a participação de «..cerca de 16 doentes adultos, com diagnóstico de infecção pelo VIH com tropismo para o CCR5».
+«O Estudo será realizado nos seguintes centros:
+- Centro Hospitalar Lisboa Norte, E.P.E. - Hospital de
+Santa Maria, Lisboa; e Centro Hospitalar Lisboa Ocidental,
+E.P.E. - Hospitalar de Egas Moniz, Lisboa».
+Rua de São Bento. 148 - 3° - 1200-821 1ISRO4 - Telefona: 912 029 10n E. 912 076 020
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+As categorias de dados recolhidos são as seguintes: n.° específico do estudo e iniciais do doente, Mês e Ano de
+Nascimento, sexo, raça, dados sobre o estado de saúde e nome do investigador.
+No que concerne à recolha do dado raça «diferenças na resposta a diversos fármacos têm sido observadas em populações de origem racial e étnica distintas. Estas diferenças podem ser atribuídas a factores intrínsecos (genéticos, metabólicos, etc), extrínsecos (dieta, ambiente, nível sócio-cultural etc.) ou à interacção entre estes diversos factores».
+«As diferenças raciais na estrutura e fisiologia da pele podem afectar a resposta à terapêutica dermatológica e tópica. Estudos clínicos demonstraram défices na resposta ao alfa-interferon, utilizado no tratamento da Hepatite C em indivíduos negros, quando comparados com outros subgrupos raciais.
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+• fundamento de legitimidade é o consentimento expresso para o titular dos dados.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 o enquadramento legal, os fundamentos de legitimidade, os
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS princípios orientadores para o correcto cumprimento da lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Schering-Plough Farma, Ida
+Finalidade: gestão do ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em indivíduos submetidos previamente a um tratamento Anti-VIH.
+Categoria de Dados Pessoais tratados: n.° específico do estudo e iniciais do doente, Mês e Ano de Nascimento, sexo, raça, dados sobre o estado de saúde e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Rua de São Bento. 148 - 3 ° _ 1200-821 1ISROA — Telefona: 213 029 100 - Far. 212 076 e20
+
+4
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Prazo de Conservação: O código de doente, porque permite tornar os dados identificados, deve ser eliminado ou anonimizado, quer pelo médico investigador, quer pelo responsável pelo tratamento 5 anos após o ensaio. O Código do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, Oy Atuante 2008
+Helena Delgado António, Eduardo Campos, Vasco Almeida
+Sos filos
+Luís Lingnau da Silveira (Presidente)

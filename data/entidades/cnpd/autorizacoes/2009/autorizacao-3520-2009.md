@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ROCHE FARMACEUTICA QUÍMICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:39:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3520/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18314](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18314).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.6345/2009
+AUTORIZAÇÃO N.°3500(09
+A Roche Farmacêutica Química, Ida veio notificar à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico em doentes com cancro do epitélio do ovário, das trompas de Falópio ou tumor peritoneal primário platino-resistente (Protocolo MO22224).
+Trata-se de um «ensaio multicêntrico, aberto, aleatorizado (.), fase III..» que tem como objectivo «„comparar a sobrevivência livre de progressão (…) dos doentes aleatorizados para receber apenas quimioterapia ou quimioterapia mais bevacizumab no tratamento de cancro do epitélio do ovário, das trompas de Falópio ou tumor peritoneal primário platino-resistente».
+A entidade encarregue do processamento da informação é a
+Parexel Internacional GmbH, sita na Alemanha. Entre o responsável pelo tratamento e o subcontratante deve existir um contrato ou acto jurídico que vincule este último ao responsável pelo tratamento (cf. n.º3, do artigo 14.° da
+LPD) .
+As categorias de dados recolhidos são as seguintes: n.º de participante no estudo, data de nascimento, sexo, história clínica e da doença, história oncológica e terapêutica, exame físico (incluindo amostras sanguíneas), status reprodutivo (incluindo teste de gravidez), electrocardiograma e fracção de ejecção do ventrículo esquerdo, sinais vitais (incluindo tensão arterial, temperatura corporal, peso e altura), performance status (PS) ecocardiograma ou MUGA quando aplicável, avaliação
+Ria de São Ranto 110 20 • 1200 001 1icDn A
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS tumoral (..), outros resultados de meios complementares de diagnóstico e de terapêutica quando clinicamente indicado, dados laboratoriais, acontecimentos adversos e tratamentos concomitantes, outros questionários de qualidade de vida e nome do investigador.
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+O fundamento de legitimidade é o consentimento expresso do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: Roche Farmacêutica Química,
+Ida.
+Finalidade: gestão do ensaio clínico em doentes com cancro do epitélio do ovário, das trompas de Falópio ou tumor peritoneal primário platino-resistente (Protocolo MO22224).
+Categoria de Dados Pessoais tratados: n.° de participante no estudo, data de nascimento, sexo, história clínica e da doença, história oncológica e terapêutica, exame físico (incluindo amostras sanguíneas), status reprodutivo (incluindo teste de gravidez), electrocardiograma e fracção de ejecção do ventrículo esquerdo, sinais vitais (incluindo tensão arterial, temperatura corporal, peso e altura), performance status (PS) ecocardiograma ou MUGA quando aplicável, avaliação tumoral (..), outros resultados de meios complementares de diagnóstico e de terapêutica quando clinicamente indicado, dados laboratoriais, acontecimentos adversos e tratamentos concomitantes, outros questionários de qualidade de vida e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do DL 176/2006, 30 de Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Rua de São Rento 148.2° • 1200.821 1 IcRO 4
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, N Agosto de 2009
+Luís Lingnau da Silveira (0 Presidente que o relatou)
+Rua de Cão Rento 110 20 • 1200 001 1 TcDn A

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 922/2007
-official_date: null
+official_date: '2007-06-06'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO PORTUGUÊS DE ONCOLOGIA DE LISBOA FRANCISCO GENTIL, E.P.E'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:24:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 922/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2568](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2568).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 1270/07 922
+AUTORIZAÇÃO N.° /2007 1. O Instituto Português de Oncologia de Lisboa Francisco Gentil,
+E.P.E., veio notificar um tratamento relativo aos doentes seguidos na
+Consulta de Endocrinologia do IPO, por patologias, incluindo pareceres clínicos informatizados para várias dessas patologias. Os tipos de dados recolhidos são os seguintes:
+Dados de identificação como constam no registo clínico do IPO;
+Diagnóstico;
+III- Variáveis clínicas e laboratoriais por consulta.
+2. Analisado o processo verifica-se que:
+• Há tratamento de dados de saúde;
+• As medidas de segurança adoptadas são as seguintes: cópias de backup, password de acesso às informações, acesso restrito de pessoas.
+A Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais.
+O artigo 7.° n.º 1 proíbe, por princípio, o tratamento destes dados. Porém, os números seguintes (n.º 2 e n.º 4) vieram estabelecer as situações em que será possível o tratamento destes dados.
+Em relação ao tratamento de dados de saúde e dados genéticos, admite o artigo 7.°, n.º 4, o respectivo tratamento, quando for necessário «para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional» e desde que sejam «garantidas medidas adequadas de segurança da informação».
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. A informação tratada é recolhida de forma lícita (art. 5.° n.º 1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (art. 5.° n.° 1 al. b)
+e não há recolha de informação excessiva (art. 5.° n.° 1 al. c).
+Quando os dados são processados no âmbito da realização de diagnósticos, medicina preventiva, prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde, há legitimidade para ser feito o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional (cf. art. 7.° n.° 4 de Lei 67/98 de 26/10). Parecem adequadas as normas de segurança adoptadas.
+Quando os dados identificados são utilizados para estudos ou investigação científica deverá ser obtido o consentimento expresso dos titulares dos dados (cf. art. 7.° n.° 1 e 2 da Lei 67/98). Em relação ao prazo de conservação devem ser observadas as disposições da Portaria n.° 247/2000, de 8 de Maio.
+Assim, nos termos do artigo 28.°, n.º 1 - al. a), 7.°, n.º 2, e 29.° da Lei 67/98, de 26 de Outubro, a CNPD autoriza o tratamento automatizado, consignando o seguinte:
+1. Responsável:. Instituto Português de Oncologia de Lisboa Francisco Gentil,
+E.P.E.;
+2. Categorias de dados pessoais tratados: dados de identificação dos doentes, diagnóstico e variáveis clínicas e laboratoriais por consulta.
+3. Finalidades: diagnóstico médico e prestação de cuidados ou tratamentos médicos;
+4. Conservação: nos termos da Portaria n.º 247/2000, de 8 de Maio;
+5. Forma de exercício do direito de acesso e rectificação: Sempre que o doente ou o seu legal representante o solicite através de contacto directo. Em relação aos dados de saúde deve fazê-lo através de médico (art. 11.°, n.º° 5, da
+Lei 67/98).
+Lisboa, 6 de Junho de 2007.
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+едва
+Ana Roque (felatora)
+Helena Delgado António
+Eduardo Campos
+Luis Barroso
+VascoAlmeida
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

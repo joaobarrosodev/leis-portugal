@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 96/2013
-official_date: null
+official_date: '2013-08-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Inesting, Marketing Tecnológico S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:00:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 96/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56201](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56201).
+Proc. 10231/2012 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n.° 96/2013
+Inesting, Marketing Tecnológico, S.A. notificou um tratamento de dados pessoais com a finalidade de marketing.
+Os dados pessoais são recolhidos diretamente através da internet no sito http://www.thesocialdatabase.org/Utilizadores.
+Os dados recolhidos são pertinentes e não excessivos face à finalidade declarada.
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da Lei n.º 67/98, de 26 de outubro (LPD), consentimento do titular.
+Não está prevista a comunicação dos dados a nenhuma entidade, pelo que apesar do que é informado aos titulares não está autorizada a comunicação dados a "parceiros".
+Não está de igual modo abrangido pelo presente registo dados relativos ao perfil do utilizador.
+Assim, regista-se, nos termos dos artigos 27.° n.º 1 e 30.º n.º 1 LPD, o tratamento de dados pessoais nos seguintes termos:
+Responsável - Inesting, Marketing Tecnológico, S.A.
+Categoria de dados pessoais tratados Nome, e-mail, sexo, data de nascimento, telefone, país, escolaridade e profissão.
+Finalidade - Marketing
+Forma de exercício do direito de acesso e retificação - Por contacto escrito na sede do responsável, Urbanização Monte Branco, Rua das Violetas, Lote U Lj. 4 Gambelas -8005-146 Faro.
+Interconexões - Não há;
+Comunicação de dados a terceiros - Não há;
+Fluxo transfronteiriço de dados - Não há;
+Prazo máximo de conservação dos dados - 5 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, da LPD, bem como o direito de se oporem à utilização por terceiros dos seus dados para fins de marketing.
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, designadamente as previstas no artigo 14° da LPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 10231/2012 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Salienta-se que, a notificação do tratamento de dados pessoais em desconformidade com o presente registo fica sujeito às sanções previstas na
+LPD.
+Lisboa, 14 de agosto de 2013,
+A Secretária da CNPD,
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

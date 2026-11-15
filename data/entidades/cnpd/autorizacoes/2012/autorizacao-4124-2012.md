@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4124/2012
-official_date: null
+official_date: '2012-05-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TcLand Expression'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,89 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:30:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4124/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44310](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44310).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 17293/2011
+AUTORIZAÇÃO N.° 124 12012
+I. Da Introdução
+A TcLandExpression (França) notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para desenvolver uma assinatura de expressão genética baseada no sangue e capaz de distinguir os genes de Poliartrite Reumatóide grave daqueles que não respondem à terapia com anti-TNF.
+A CNPD emitiu o Projeto de Autorização N.º 82/2012, em 16 de Abril, uma vez que a declaração de consentimento informado não cumpria o disposto no art. 10.° da Lei n.º 67/98, de 26 de Outubro. Os participantes não estavam a ser devidamente informados sobre o local onde será conservado o biobanco, já que o texto da declaração de consentimento mencionava que "... o biobanco estará situado no laboratório da TcLand Expression ou noutro local (sublinhado nosso).
+O local e as condições de armazenamento não eram claras, impedindo os potenciais participantes no estudo de darem efetivamente o seu consentimento específico e informado.
+As mesmas críticas se apontavam em relação ao prazo de conservação das amostras biológicas, que teria de ser definido no consentimento informado.
+Notificada para exercer o direito de audição que lhe assiste, nos termos do artigo 100° do CPA.
+veio a responsável pelo tratamento de dados pronunciar-se, concordando com os termos expostos no referido Projeto de Autorização, pelo que vem a CNPD converter o Projeto de
+Autorização N.° 82/2012 em Autorização definitiva.
+Do Pedido
+Para desenvolver um biomarcador baseado no sangue, que permita prever a não resposta a um determinado anti-TNF, o estudo, com a duração de 15 meses, pretende fazer uma colheita de sangue periférico de doentes com a patologia antes do início do tratamento com anti-TNF de primeira linha e recolher informações da respetiva resposta/não resposta ao tratamento na
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS visita de seguimento realizada entre a 12.° e a 14.° semanas. O estudo implica ainda a recolha de dados clínicos associados aos doentes participantes, que frequentem a consulta de acompanhamento clínico nos centros participantes.
+O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração será arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato eletrónico.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+As amostras biológicas, unicamente identificadas pelo código de participação atribuído no estudo, constituirão um biobanco, situado no laboratório da TcLand Expression em França e no
+IBBL no Luxemburgo, para a realização da genotipagem e sequenciação.
+Pretende a responsável pelo tratamento guardar as amostras biológicas por um período cinco anos.
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Da Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O local e as condições de armazenamento têm de ser claras para que os potenciais participantes no estudo possam, de facto, dar o seu consentimento específico e informado.
+Deste modo, o texto da declaração de consentimento informado terá de ser reformulado, indicando em concreto qual o local de armazenamento das amostras biológicas e o seu prazo de conservação.
+No que concerne ao dado raça, o responsável pelo tratamento justifica a sua necessidade do seguinte modo: "Esta informação é necessária pois ficou demonstrado que a expressão dos genes é variável em função da origem étnica, como descrito em: 'Del Rincón, I. et al. Ethnic variation in the clinical manifestations of rheumatoid arthritis: role of HLA-DRBI alleles.
+Arthritis Rheum 49, 200-208 (2003)".
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Para a constituição do biobanco terá de ser obtida a autorização prévia da entidade credenciada pelo departamento responsável pela tutela da saúde, de acordo com o disposto no n.º 2 do art. 19.° da Lei n.° 12/2005, de 26 de Janeiro.
+Salienta-se, que havendo absoluta necessidade de se usarem amostras identificadas ou identificáveis, estas devem ser codificadas, ficando os códigos armazenados separadamente, mas sempre em instituições públicas (Cfr. n.º11 do art. 19.°, da supra referida lei).
+Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a)
+do n.º 1 do artigo 28° e art. 30° da Lei de Protecção de Dados, com as condições e limites fixados na referida Deliberação n.° 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com as condições aqui fixadas, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: TcLandExpression
+Finalidade: Estudo observacional para desenvolver uma assinatura de expressão genética baseada no sangue e capaz de distinguir os doentes que respondem dos doentes que não respondem à terapia com anti-TNF.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Categoria de Dados pessoais tratados: código do doente, dados demográficos (idade, sexo, peso, altura e raça), critérios de diagnóstico, características da artrite reumatoide, história clínica da artrite reumatoide, outras doenças, medicação, hábitos tabágicos, resultados de análises laboratoriais, tratamento com anti-TNF, data da colheita da amostra biológica, amostra de sangue e dados das análises genéticas.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Alerta-se a responsável pelo tratamento que os novos tratamentos de dados pessoais decorrentes da utilização das amostras biológicas em futuros estudos, estão dependentes de autorização da CNPD, não estando contemplados na presente
+Autorização.
+Lisboa, 14 de Maio de 2012
+Ana Roque (Relatora), Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luis Barroso
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 4
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

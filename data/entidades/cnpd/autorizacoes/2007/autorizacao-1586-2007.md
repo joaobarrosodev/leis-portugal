@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PETER JOSE MADERA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,81 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:12:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1586/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1687](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1687).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n° 2981/06
+AUTORIZAÇÃO N. 8/2007
+I. O pedido
+Peter Josef Madera veio notificar o tratamento de videovigilância em funcionamento na sua propriedade.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD)
+elaborou o projecto de autorização de 18 de Dezembro de 2006, no sentido de não autorizar a recolha de imagens na via pública, tendo sido o requerente notificado do referido projecto, através do ofício n.º 6533, de 19 de Dezembro de 2006, nos termos e para os efeitos do disposto no artigo 100.º do Código do Procedimento
+Administrativo.
+Em sede de resposta à audiência dos interessados, o requerente veio aos autos solicitar a revisão do referido projecto, sustentando que "a necessidade de montagem com o ângulo apresentado é dada por causa de uma ameaça com uma arma de fogo, que ocorreu no dia 29 de Junho de 2006, no qual o "assaltante" se encontrava na rua em frente do portão da entrada para a garagem e apontava a arma para dentro do jardim".
+II. Análise
+Através da deliberação n° 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao () Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção na propriedade, no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto, especialmente durante a noite.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável.
+No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessiva em relação à finalidade (artigo 5.° n.º 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido ao requerente, que a captação de imagens na via pública é excessiva e intrusiva perante o direito dos titulares, não respeitando o princípio da proporcionalidade, infringindo, assim, o artigo 18.° da Constituição da República Portuguesa, bem como os artigos 35.°, n.º3 da CRP e art.º7.º n.º1 da Lei de Protecção de Dados.
+Ressalvou-se, no entanto, a possibilidade de captação de imagens através da
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS referida câmara, se esta fosse colocada de forma a não captar a via pública e os transeuntes.
+No entanto, o requerente considerou que a pretendida câmara tem como finalidade prevenir, em efeito dissuasor, a intrusão no jardim e na moradia de que é proprietário.
+Acontece que a CNPD continua a entender que tal captação é excessiva e desproporcionada para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento. A dissuasão que se pretende fazer através do tratamento de imagens não deve sobrepor-se aos direitos dos titulares, pelo que, a câmara deve ser colocada de forma a captar apenas imagens do portão e interior do jardim da moradia, nunca captando a via pública, os veículos e as pessoas que aí circulam.
+Adverte-se ainda o responsável que a presente decisão implica a proibição de captação e gravação de imagens na via pública, podendo ficar, em caso de incumprimento sujeito ao crime de desobediência qualificada, nos termos do nº1 do artigo 46° da Lei n°67/98 de 26 de Outubro.
+III. Conclusões
+Considera-se, por isso, legitimo o tratamento - autorizando-se parcialmente a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda as seguintes condições:
+1. Responsável pelo tratamento - Peter Josef Madera.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciara a competente as imagens recolhidas.
+4. Visualização da imagens pelos responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informa as pessoas sobre a recolha de som e imagem.
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal, razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. A recolha de imagens deve confinar-se ao perímetro da propriedade, pelo que, não é autorizada a recolha e visionamento de imagens na via pública, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento. Contudo, ressalva-se a possibilidade de recolocação das câmaras de modo a que não se capte nunca a via pública.
+Lisboa, 17 ce Se do Gro de 2007
+Ana Roque
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Carlos Lobo, que relatou
+Helena Delgado António
+Vasco Almeida
+Luís Barroso
+линя
+Eduardo Campos 1S.6
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5

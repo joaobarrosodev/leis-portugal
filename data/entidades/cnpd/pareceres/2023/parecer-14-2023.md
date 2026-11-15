@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 14/2023
-official_date: null
+official_date: '2023-02-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Instituto dos Registos e do Notariado, I.P. (IRN)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:51:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 14/2023
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/122056](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/122056).
+PAR/2023/08 ' /
+CNPD
+Comissão Nacional de Proteção de Dados
+PARECER/2023/14
+I. Pedido 1. O Instituto dos Registos e do Notariado, I.P. (IRN) veio submeter à Comissão Nacional de Proteção de Dados (CNPD) um projeto de protocolo que visa regular o acesso da Polícia Municipal de Matosinhos ao registo automóvel, para efeitos de fiscalização do cumprimento do Código da Estrada e legislação complementar nas vias públicas sob a jurisdição do respetivo município.
+2. A CNPD emite parecer no âmbito das suas atribuições e competências enquanto autoridade administrativa independente com poderes de autoridade para o controlo dos tratamentos de dados pessoais, conferidos pela alínea c) do n.° 1 do artigo 57.° do Regulamento (UE) 2016/679, de 27 de abril de 2016 - Regulamento Geral sobre a Proteção de Dados (RGPD), em conjugação com o disposto no artigo 36.°, n.º 4, do RGPD e nos artigos 3.° e 4.°, n.° 2, da Lei n.° 58/2019, de 8 de agosto.
+3. São partes no protocolo o IRN, o Instituto de Gestão Financeira e Equipamentos da Justiça, I.P. (IGFEJ) e a
+Camara Municipal de Matosinhos.
+4. Nos termos da alínea d) do n.º 1 do artigo 5.° e da alínea b) do n.° 3 do Decreto-Lei n.º 44/2005, de 23 de fevereiro, a Polícia Municipal de Matosinhos é a entidade a quem compete a fiscalização do cumprimento das normas de estacionamento de veículos e de circulação rodoviária, incluindo a participação de acidentes de viação, na área territorial do Município de Matosinhos.
+5. Nos termos da Cláusula 1ª do protocolo, a Polícia Municipal de Matosinhos «é autorizada a aceder à informação do registo de veículos, mediante consulta em linha à respetiva base de dados», localizada no IGFEJ, para a «finalidade exclusiva de prossecução da competência que lhe está legalmente cometida, no âmbito da fiscalização das normas de estacionamento de veículos e de circulação rodoviária, incluindo a participação de acidentes de viação, na área territorial do Município de Matosinhos».
+6. São acedidos os seguintes dados: «nome, residência habitual, número e data do documento de identificação e número de identificação fiscal, quando tecnicamente disponível, ou firma, sede e número de pessoa coletiva, do proprietário ou locatário ou usufrutuário, e ainda os ónus e encargos por data da ocorrência do facto e quando tecnicamente disponível». (n.° 1 da Cláusula 1ª).
+Av. D. Carlos I, 134, 1° 1200-651 Lisboa
+T (+351) 213 928 400
+F (+351) 213 976 832 geral@cnpd.pt www.cnpd.pt
+
+PAR23/08 1V. / 7. Os acessos à base de dados são feitos através da pesquisa por matrícula do veículo e estão condicionados à identificação obrigatória do número de processo ou do auto de notícia a que respeitam. (cf. n.° 1 da Cláusula 2.ª).
+8. Para efeitos de auditoria, os acessos ficam registados (logs) pelo prazo de dois anos, em conformidade com o previsto no n.° 2 da Cláusula 2ª do protocolo.
+9. Nos termos da Cláusula 3.ª do protocolo, a Polícia Municipal de Matosinhos deve observar as disposições legais constantes do RGPD e da Lei n.º 58/2019, de 8 de agosto, designadamente quanto a respeitar a finalidade para que foi autorizada a consulta, que deverá limitar-se ao estritamente necessário, não utilizando a informação para outros fins; a não transmitir a informação a terceiros; a tomar as medidas de segurança necessárias para garantir a integridade e bom funcionamento da base de dados. É ainda proibida qualquer forma de interconexão de dados pessoais.
+10. Prevê-se também que, caso a Polícia Municipal de Matosinhos recorra a subcontratante para dar execução ao protocolo, fique vinculada, designadamente, a garantir a segurança do tratamento, a assegurar que as pessoas envolvidas assumem compromisso de confidencialidade e a dar conhecimento ao IRN de todas as informações necessárias para demonstrar o cumprimento das obrigações previstas no RGPD, incluindo facilitar e contribuir para as auditorias ou inspeções conduzidas pelo IRN ou por outro auditor por este mandatado.
+11. O acesso à base de dados do registo automóvel entre os dois organismos pode ser feito por uma das modalidades previstas no protocolo, sendo também obrigatória a implementação de túneis IPSEC (cf. Cláusula 4.ª). Ainda segundo a Cláusula 5.ª do protocolo, a Polícia Municipal de Matosinhos obriga-se a comunicar previamente ao IRN a identificação dos utilizadores do acesso à base de dados com vista à atribuição das respetivas credenciais de acesso ao sistema.
+12. Os acessos serão individualizados, e cada utilizador receberá uma palavra-chave pessoal, que o responsabilizará pelo uso que fizer do serviço. Os pedidos de criação e alteração de utilizadores são reencaminhados pelo IRN para o IGFEJ, IP.
+13. O IGFEJ, IP atribuirá um utilizador aplicacional e respetiva palavra-chave à Polícia Municipal de Matosinhos, para acesso aos Webservices disponibilizados. Cada acesso ao webservice deverá conter a identificação (username e nome) de quem despoleta a invocação. Cada invocação realizada pelo utilizador identificado, fica registada no sistema de auditoria pelo período mínimo de dois anos. O IGFEJ, IP procede igualmente ao registo de todas as comunicações efetuadas no âmbito do presente protocolo, nos termos da sua política de auditoria.
+
+PARIZ022108 2Y.
+22. Por conseguinte, considera a CNPD que não só carece de adequação e necessidade a recolha do NIF dos utilizadores para fins de atribuição de credenciais de acesso, em violação do princípio da minimização dos dados, reconhecido no artigo 5.°, n.º 1, alínea c), do RGPD, como não se encontra verificada nenhuma das condições de licitude das previstas no artigo 6.°, n.º 1, do RGPD, pelo que o IRN não tem legitimidade para tratar o NIF dos utilizadores da Polícia Municipal de Matosinhos que acedem ao registo automóvel no desempenho das suas funções profissionais.
+23. Em relação ao dado "email", poderá ser pertinente o seu tratamento para o contacto direto com o utilizador no âmbito da gestão de utilizadores. No entanto, se o endereço de email vier a ser usado como nome de utilizador, entende a CNPD que tal solução deveria ser repensada, uma vez que o endereço de email (profissional)
+é um dado pessoal conhecido por um universo alargado de pessoas, o que fragiliza desde logo significativamente uma autenticação de um só fator composta por dois elementos. Assim, se o dado "email" for recolhido para efeitos de contacto individualizado no âmbito da gestão de utilizadores (por exemplo, recuperação de palavra-passe), então tal finalidade deve estar especificamente prevista no texto, devendo ainda, em qualquer dos casos, ser aditado que se trata do endereço de correio eletrónico profissional, pois só esse deverá ser usado neste contexto.
+24. No que diz respeito aos registos para fins de auditoria (logs), mencionados no n.° 2 da Cláusula 2.ª, em combinação com o previsto na Cláusula 5.ª, considera-se estar acautelado o controlo da atividade individual de cada utilizador, bem como os requisitos para uma gestão de acessos eficaz.
+25. Quanto ao prazo de conservação dos registos de acesso ao sistema para fins de auditoria (logs), enquanto se indica que os logs referidos na Cláusula 2.ª têm uma conservação de dois anos, logo um prazo fixo (mínimo e máximo), o período de conservação dos logs referido na Cláusula 5.ª refere dois anos de prazo mínimo, deixando em aberto o prazo máximo. Sugere-se ainda por questões de maior clareza que na alínea c) do n.° 2 da
+Cláusula 5.ª, onde se refere que «cada invocação realizada pelo utilizador identificado no número anterior fica registada no sistema de auditoria pelo período mínimo de dois anos», seja substituído por "(..) realizada pelo utilizador a que se referem os números anteriores ..*.
+26. Ainda quanto aos utilizadores, deve o protocolo prever, eventualmente por aditamento à cláusula 5.ª, que a
+Polícia Municipal de Matosinhos se obriga a manter, a todo o tempo, uma lista atualizada de utilizadores, que é comunicada ao IRN/IGFEJ no início da execução do protocolo e posteriormente sempre que houver alterações a essa lista, aditando ou eliminando utilizadores.
+27. No que diz respeito às medidas de segurança previstas para a transmissão de dados, bem como à obrigação prevista no n.° 3 da Cláusula 3.ª, afiguram-se de um modo geral apropriadas.
+
+PAR/2023/0812 /
+CNPD
+Comissão Nacional de Proteção de Dados 14. O protocolo é celebrado pelo período de um (1) ano, tacitamente prorrogável por iguais períodos. A resolução do protocolo implica a cessação imediata da autorização de acesso à base de dados do registo automóvel por parte da Polícia Municipal de Matosinhos (cf. Cláusulas 10.ª e 11.ª).
+II. Análise 15. Quanto ao articulado, a possibilidade de os municípios acederem ao registo automóvel decorre das disposições conjugadas da alínea d) do n.º 1 e da alínea b) do n.º 3 do artigo 5.° do Decreto-Lei n.° 44/2005, de 27 de fevereiro, alterado por último pelo Decreto-Lei n.º 102-B/2020, de 9 de dezembro.
+16. A Polícia Municipal de Matosinhos é, nos termos do artigo 5.°, n.° 1, alínea d) e n.° 3, alínea b) do Decreto-Lei n.º 44/2005, de 23 de fevereiro, a entidade a quem compete a fiscalização do cumprimento das normas de estacionamento de veículos e de circulação rodoviária, incluindo a participação de acidentes de viação, na área territorial do Município de Matosinhos.
+17. De acordo com a alínea d) do n.º 2 do artigo 27.°-E do regime relativo ao Registo Automóvel, os dados pessoais do registo automóvel devem ser comunicados, para a prossecução das respetivas atribuições, às entidades a quem incumba a fiscalização do Código da Estrada. Também os n.°s 2, 3 e 7 do artigo 27.°-E do mesmo diploma permite que a essas entidades seja autorizada a consulta em linha de transmissão de dados, desde que observadas as garantias de segurança e condicionada à celebração de protocolo.
+18. Deste modo, há fundamento de legitimidade para este tratamento de dados pessoais, na vertente de acesso, ao abrigo da alínea e) do n.º 1 do artigo 6.° do RGPD.
+19. Destaca-se como positiva e essencial a regra de obrigatoriedade de indicação do número do processo que sustenta o acesso como condição para o prosseguimento da pesquisa e consequente acesso aos dados.
+20. Quanto à comunicação dos utilizadores individuais da Polícia Municipal de Matosinhos ao IRN, verifica a
+CNPD que além do nome e categoria/função, está ainda previsto que seja comunicado ao IRN o número de identificação fiscal (NIF) do utilizador e endereço de correio eletrónico do utilizador, «tendo em vista a atribuição de nomes de utilizador ("usernames") e respetivas palavras-chaves ("passwords") de ligação ao sistema» (cf. n.° 1 da Cláusula 5ª).
+21. Tal como já afirmado em anteriores pareceres da CNPD, não se vislumbra a pertinência do tratamento do dado "NIF" por parte do IRN para os fins indicados na Cláusula 5.ª. O "NIF" constitui um número de identificação dos cidadãos para efeitos fiscais, não se compreendendo de todo a recolha pelo IRN desse dado pessoal dos utilizadores, cujos acessos ao registo automóvel são realizados no exercício de competências legais num contexto profissional.
+Av. D. Carlos I, 134, 1° 1200-651 Lisboa
+T (+351) 213 928 400
+F (+351) 213 976 832 geral@cnpd.pt www.cnpd.pt
+
+PAR/2023/08 3
+CNPD
+Comissão Nacional de Proteção de Dados 28. Entende-se ainda como relevantes as salvaguardas introduzidas na Cláusula 12.ª quanto ao acesso ao histórico de proprietários do veiculo.
+29. Quanto à participação do IGFEJ como parte neste protocolo, considera a CNPD ser esta plenamente justificada, atendendo às suas atribuições, previstas no artigo 3.° do Decreto-Lei n.º 164/2012, de 31 de julho.
+III. Conclusão 30. Considera a CNPD haver legitimidade para o acesso pela Polícia Municipal de Matosinhos aos dados pessoais do registo automóvel, nos limites e condições preconizados pelo presente protocolo, com as alterações decorrentes do presente parecer.
+31. No que diz respeito ao tratamento do dado "NIF", considera a CNPD que o IRN não tem legitimidade para proceder ao tratamento desse dado pessoal dos utilizadores no contexto do desempenho das suas funções profissionais, pelo que o texto do protocolo deve ser alterado em conformidade.
+32. Recomenda-se a alteração da alínea c) do n.º 2 Cláusula 5.ª com vista à sua clarificação.
+33. Também deve ser introduzida regra quanto à conservação por parte da Polícia Municipal de Matosinhos de lista atualizada de utilizadores, a qual deve ser comunicada ao IRN para fins de controlo de acessos.
+Aprovada na reunião de 9 de fevereiro de 2023
+Filipa Calvão (Presidente)
+Av. D. Carlos I, 134, 1° 1200-651 Lisboa
+T (+351) 213 928 400
+F (+351) 213 976 832 geral@cnpd.pt www.cnpd.pt

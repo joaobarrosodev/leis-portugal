@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOVO OCULISTA DE LOURES-COMÉRCIO ARTIGOS OPTICA, DA (LOURES)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:01:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2642/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10545](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10545).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 3667/07
+Proc 3668/07
+Proc 3669/07
+Proc 3670/07 2642
+AUTORIZAÇÃO N.° /2008
+A sociedade comercial por quotas denominada Novo Oculista de Loures,
+Comércio de Artigos de Óptica, Lda., veio notificar o tratamento de dados pessoais de identificação e optométricos relativos à gestão de processo de clientes do seu estabelecimento, no âmbito da realização de exames visuais prévios ao fornecimento de óculos ou lentes de contacto. Os ficheiros são criados e mantidos no estabelecimento central (em Loures) e nas filiais (no C.
+comercial Loures Shopping e em Vila Franca de Xira).
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto, e dados de saúde, os quais se reportam ao serviço de óptica ocular, descritos em anexo ao formulário.
+2. De acordo com a informação constante do quadro 11, foram adoptadas as seguintes medidas de segurança: o acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password».
+Os dados de saúde deverão estar separados logicamente dos dados de identificação, nos termos do artigo 15°, n° 3, da Lei n° 67/98.
+3. Os titulares dos dados dão o seu consentimento informado, em campo próprio do formulário de recolha de dados, nos termos do artigo 7.°, n.º 2, da
+Lei 67/98, de 26 de Outubro.
+Considera-se legítimo o tratamento nos termos do artigo 7.°, n.° 2, da Lei 67/98, de 26 de Outubro.
+Em face do exposto, autoriza-se o tratamento de dados por parte da
+Requerente (cf. artigo 27.° e 28.° da Lei 67/98) consignando-se, nos termos do artigo 30.°, o seguinte:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 1. Responsável: Novo Oculista de Loures, Comércio de Artigos de Óptica,
+Lda.
+2. Categorias de dados pessoais tratados: dados de identificação, dados de contacto e dados de saúde, os quais se reportam ao serviço de óptica ocular.
+3. Finalidade: gestão de processo de clientes de óculos e lentes de contacto.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação do utente junto da responsável.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação: Os dados são conservados por 5 anos, contados após a última actualização.
+Lisboa? Novembro de 2008.
+Ana Roque (relatora),
+António, Eduardo Campos, Vasco Almeida seue
+Luís Lingnau da Silveira (Presidente)
+, Luís Barroso, Helena Delgado
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

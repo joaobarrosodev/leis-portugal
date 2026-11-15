@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 524/2003
-official_date: null
+official_date: '2003-11-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO INTERNACIONAL DE CRÉDITO, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:53:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 524/2003
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9185](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9185).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 47/94
+AUTORIZAÇÃO N.°524 524/2003
+O Banco Internacional de Crédito, SA pretende concretizar uma operação de titularização de créditos com o Fundo de Titularização de Créditos denominado
+Lusitano Mortgages N.º 2 Fundo, a constituir nos termos do DL 453/99, de 5
+Novembro.
+O Fundo só acederá aos dados quando ocorrerem as condições estabelecidas no contrato (indicadas no ofício de 9/10/2003).
+2. A questão que aqui se coloca relaciona-se com a cedência de dados a «entidade terceira» - uma sociedade financeira.
+A cedência de dados é feita no âmbito de um contrato celebrado entre o BIC e o Fundo tendo em vista a realização de «operação de titularização», nos termos do DL 453/99, de 5 de Novembro. As informações a prestar estão protegidas por segredo bancário.
+Os dados objecto da comunicação estão sujeitos a sigilo bancário, conforme resulta do disposto no art. 78.° do DL 298/92, de 31 de Dezembro.
+Não há comunicação de dados sensíveis, estando o tratamento destes dados sujeito às condições de legitimidade estabelecidas no artigo 6.° da Lei 67/98, de 26 de Outubro.
+Ora, a legitimidade para o tratamento - na vertente comunicação ao Fundo - pode derivar de três fundamentos possíveis:
+Através de consentimento inequívoco por parte dos titulares (corpo do artigo 6.°);
+- Através da inclusão de cláusula contratual estabelecida entre o BIC e os titulares dos dados (art. 6° al. a);
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+- No âmbito da "prossecução de interesses legítimos do responsável pelo tratamento ou de terceiro a quem os dados sejam comunicados" (art. 6.º al.
+e).
+Quando se verificar o fundamento indicado na alínea e) - nomeadamente em relação aos contratos já celebrados - o BIC deverá informar os titulares dos dados de que o Fundo é um dos destinatários da informação e a finalidade determinante da comunicação (cf. art.
+10.º n.º 1 da Lei 67/98). Só depois de assegurado o direito de informação os titulares estão em condições de, eventualmente, poderem exercer o "direito de oposição" (cf. art.
+12.° al. a) ou invocar a "prevalência de interesses ou direitos" consignados no artigo 6.° al. e) da Lei 67/98.
+Em face do exposto, a CNPD autoriza a cedência dos dados pessoais indicados ao
+Fundo de Titularização de Créditos denominado Lusitano Mortgages N.º 2 Fundo, desde que a cedência respeite um dos condicionalismos acima estabelecidos. O direito de informação deverá ser assegurado pelo BIC em momento anterior à ocorrência do evento que irá desencadear todo o processo, por forma a assegurar que, em relação àqueles a quem foi reconhecido o «direito de oposição» (art. 12.° al. a) da Lei 67/989), não haja a inclusão dos seus dados pessoais na disquete ou - se for o caso - não seja celebrado o contrato.
+Lisboa, 5 de Novembro de 2003
+Amadeu Guerra (relator)
+Alexandatoradiativ
+Alexandre Pinheiro
+Luís Durão Barroso
+Acampanhou a decsão, não ledo aminado par nori estar presente no momento da comvatura
+Eduardo Campos
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt
+- 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

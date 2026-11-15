@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE SINTRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:04:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 14/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40638](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40638).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 7401/10 i
+REGISTO N.° 14 12012
+A Câmara Municipal de Sintra notificou um tratamento de dados pessoais com a finalidade de
+Gestão do Arquivo dos Processo de Obras Particulares (arquivo intermédio).
+Há recolha direta de dados, por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10).
+O fundamento de legitimidade é o cumprimento de obrigação legal previsto na al. b) do artigo 6° da LPD
+Assim, regista-se nos termos dos artigos 27.° n.º 1 e 30.° n.° 1.° da Lei 67/98, de 26 de Outubro nos seguintes termos:
+Responsável
+Câmara Municipal de Sintra
+Finalidade
+Gestão do Arquivo dos Processo de Obras Particulares (arquivo intermedio)
+Nome, morada, telefone, nif, n° de BI, local da obra, tipo de projeto,
+Categoria de dados pessoais tratados processos de alteração, n.º de processo de obra, pareceres técnicos, certidões, identificação do técnico responsável pelo projeto e pela obra, técnico coordenador, identificação o construtor e respetivas habilitações académicas
+Forma de exercício do direito de acesso e rectificação
+Por solicitação escrita ao responsável .
+Comunicações de Dados
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados
+Prazo previsto na Portaria 412/2001, de 17 de Abril
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de Outubro.
+Lisboa, 03-01-2012
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

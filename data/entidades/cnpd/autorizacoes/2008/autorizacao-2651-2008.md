@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOURIFARMA - PRODUTOS QUÍMICOS E FARNMACÊUTICOS, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,38 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:01:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2651/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10549](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10549).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 1107/08
+AUTORIZAÇÃO N° /2008 1. A sociedade comercial por quotas Nourifarma - Produtos Químicos e
+Farmacêuticos notificou o tratamento de dados pessoais realizado no âmbito da gestão de recursos humanos e da relação contratual com os trabalhadores, conforme descrito no ponto 3 do Formulário. Os dados em causa são transferidos para a Holanda e para os EUA (Certificado Safe Harbour da SP em anexo ao formulário). A sociedade requerente afirma que o tratamento os fluxos de dados será efectuado com autorização expressa dos colaboradores.
+Os dados tratados são, entre outros, o nome, a data de nascimento, BI, n° de
+Segurança Social, habilitações literárias, agregado familiar (dependentes, para efeitos de processamento e gestão de benefícios), ficha salarial, como consta do Anexo ao ponto 5 do Formulário.
+1. As categorias de dados tratados acima indicados mostram que os mesmos são necessários e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98, de 26 de Outubro). Em relação a dados de terceiros, familiares dos colaboradores, é necessário o respectivo consentimento expresso para o tratamento.
+2. Nos termos do disposto no artigo 20.° e na alínea e) do n.º 1 do artigo 23.° da Lei de Protecção de Dados Pessoais, a transferência de dados pessoais para países terceiros carece de autorização da CNPD e pode ser permitida pela CNPD se o titular dos dados tiver nela consentido inequivocamente e a empresa propõe-se obter esse consentimento no contexto do contrato de trabalho.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. A CNPD admite que a transferência de dados se apresente como uma razão de interesse para o titular dos dados.
+4. O tempo de conservação dos dados pessoais é até à data de saída do colaborador da empresa (caso esta ocorra após os 65 anos de idade), ou, na condição de ex-colaborador, até 5 anos após a data de extinção da relação laboral.
+Face a todo o exposto, delibera esta CNPD, nos termos do disposto no n.º 1 do artigo 20.° da Lei n.° 67/98, de 26 de Outubro, autorizar o tratamento de dados pessoais, bem como a sua transmissão para os EUA. A entidade responsável deve cumprir as exigências relativas ao direito de informação.
+Lisboa, (de Novembro de 2008.
+Ana Roque (relatora),
+António, Eduardo Campos, Vasco Almeida
+Helena Delgado
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

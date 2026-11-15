@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL PARTICULAR DO ALGARVE, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 69/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1014](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1014).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 805/07
+Registo n.°69/08
+Hospital Particular do Algarve, SA notificou um tratamento de dados pessoais com a finalidade facturação.
+Declaram as seguintes categorias de dados pessoais: Número de cliente, nome, morada, morada 2, país, naturalidade, telefone de casa, telefone de emprego, data de nascimento, estado civil, n.° segurança social, sexo, BI, NIF, nacionalidade, escolaridade, profissão, prestador preferencial, instituição de referência, serviços prestados e dados de apólices/planos de saúde.
+Os dados são recolhidos directamente por impresso e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da
+LPD, a execução de contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Hospital Particular do Algarve, SA
+Categoria de dados pessoais tratados - Número de cliente, nome, morada, morada 2, país, naturalidade, telefone de casa, telefone de emprego, data de nascimento, estado civil, n.º segurança social, sexo, BI, NIF, nacionalidade, escolaridade, profissão, prestador preferencial, instituição de referência, serviços prestados e dados de apólices/planos de saúde.
+Finalidade - facturação.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável pessoalmente, por correio, telefone fax e e-mail;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Comunicação de dados - Não há.
+Prazo máximo de conservação dos dados - 10 anos
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da
+LPD.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Deve o responsável garantir a separação lógica entre os dados administrativos e os dados de saúde.
+Lisboa, 11 de Fevereiro de 08
+A Secretária da CNPD sals
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

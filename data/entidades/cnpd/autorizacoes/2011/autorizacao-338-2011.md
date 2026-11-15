@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Orquídia Agostinha Pereira da Silva Ferreia'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:24:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 338/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26966](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26966).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 318/2011
+AUTORIZAÇÃO N.º 338 12011
+Orquídea Agostinha Pereira da Silva Ferreira, no âmbito da sua tese de mestrado, notificou à
+CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo para avaliar a aceitabilidade das refeições escolares em crianças do 1.° ciclo através do desperdício de alimentos e as suas relações com a autopercepção da criança, grau de satisfação, avaliação antropométrica e estilos de vida.
+Serão incluídos no estudo os alunos do 1.° Ciclo do Centro Escolar da Lixa - Concelho de
+Felgueiras, a cujos representantes legais a investigadora solicitará consentimento informado para a participação no estudo das crianças.
+O estudo é composto por uma recolha dos dados antropométricos - a realizar na própria escola - a cargo da investigadora e com a colaboração de enfermeiros do Centro de Saúde local, devido ao estimado elevado número de participantes; pela resposta a um questionário sobre a percepção do desperdício, grau de satisfação e motivos de rejeição de alimentos pelas crianças na sala de aula com a ajuda do professor; e por um questionário, dirigido aos pais, sobre o estilo de vida das crianças e caracterização do agregado familiar.
+No "caderno de recolha de dados" há identificação nominal do titular para associação das respostas dos questionários dirigidos aos pais e dos questionários respondidos pelas crianças, bem como a recolha de dados antropométricos - sendo, posteriormente, aposto um código de doente. A chave desta codificação só é conhecida da investigadora.
+A investigadora solicitou a colaboração dos enfermeiros do Centro de Saúde de Felgueiras para que a recolha de dados seja realizada num só dia. O Centro de Saúde veio solicitar como contrapartida a comunicação dos dados nome, peso e altura para referenciação na unidade de saúde no âmbito da Área de Intervenção de Vigilância, Promoção da Saúde e Prevenção de
+Doença do Recém Nascido, Criança e Adolescente. Aos representantes legais será solicitado consentimento expresso para esta comunicação de dados.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade será o consentimento expresso dos legais representantes.
+Porque haverá recolha de dados de menores, o estudo deve ter sempre em conta o superior interesse da criança.
+Os representantes legais têm de dar consentimento expresso para a comunicação dos dados ao Centro de Saúde.
+Assim, tendo em atenção o disposto nas disposições combinadas do n.º 2 do artigo 7.°, do n.º1 do artigo 27°, da al. a) do n.º 1 do artigo 28° e do art. 30° da Lei n.° 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que tundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Orquídea Agostinha Pereira da Silva Ferreira
+Finalidade: estudo para avaliar a aceitabilidade das refeições escolares em crianças do 1.° ciclo através do desperdício de alimentos e as suas relações com a autopercepção da criança, grau de satisfação, avaliação antropométrica e estilos de vida.
+Categoria de Dados pessoais tratados: código de participante, dados sócio-demográficos (data de nascimento e sexo), dados antropométricos (peso, altura, perímetro da cintura), n.° de horas de sono/dia, prática de actividade física, habilitações literárias e profissão dos pais, percepção do desperdício, grau de satisfação e motivos de rejeição de alimentos.
+Entidades a quem podem ser comunicados: Centro de Saúde de Felgueiras, Extensão de
+Saúde de Várzea.
+Formas de exercício do direito de acesso e rectificação: junto da investigadora.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após a defesa da Tese.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa _ de Janeiro de 2011
+Ana Roque (Relatora), Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FUNDAÇÃO CARDEAL CEREJEIRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 7 de 7 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,142 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:31:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 88/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26775](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26775).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 4537/10
+Autorização n°80/201|
+I.RELATÓRIO 1.FUNDAÇÃO CARDEAL CEREJEIRA com sede em Rua Cidade Nova Lisboa n°s 7 a 9 c/v Olivais Sul - Lisboa, vem proceder à notificação do tratamento que tem como finalidade a gestão da prestação de serviços de apoio social e clínico aos seus utentes.
+2.Foram prestados esclarecimentos que se entenderam necessários e pertinentes.
+II. DOS FACTOS
+-A Requerente é uma IPSS, possuindo Lar de Idosos, Centro de Idosos, Jardim
+Infantil a Apoio Domiciliário;
+-Entre as valências da Requerente destaca-se a de prestação de cuidados de apoio domiciliário, apoio social e bem assim, prestação de serviços na área da infância e geriatria;
+-Pretende-se com este tratamento proceder à gestão da prestação de serviços de apoio social e clínico aos seus utentes/clientes;
+-Os dados a colher são os de identificação, relativos ao agregado familiar, contactos, autonomia e tipos de dependência, saúde/situação clínica, situação habitacional, situação económica, ocupações de lazer e registo de serviços de apoio domiciliário;
+-Os dados de identificação englobam, nome, morada, contactos, data de nascimento, número de BI, número de contribuinte, número de beneficiário da
+Segurança Social, número de cartão de utente do SNS, estado civil, naturalidade e ainda habilitações literárias e profissão;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt.
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+-Os dados relativos ao agregado familiar englobam, número de elementos, nome, parentesco e actividade profissional exercida;
+-Os dados relativos a autonomia, tipos de dependência e saúde englobam, resultados de testes feitos ao tipo e grau de dependência, nome do médico de família e contacto, grupo sanguíneo, alergias, tipos de problemas de saúde, dietas e tipo de alimentação e medicação;
+-Os dados relativos à situação habitacional englobam, a localização, regime de ocupação, estado de conservação, equipamentos básicos de conforto e salubridade, acessibilidades e tipos/formas de deslocação;
+-Os dados relativos à situação económica englobam o rendimento do utente e o rendimento dos membros do agregado familiar;
+-Os dados relativos à ocupação/lazer englobam, actividades que exerce, preferências e aptidões que possam ser colocadas ao serviço da comunidade;
+-Os dados relativos ao registo de serviços de apoio domiciliário englobam, informações sobre o motivo da entrada neste programa, quais as necessidades mais prementes, quais os serviços pretendidos e o registo dos serviços prestados e momento de tal;
+-É colhido o consentimento do titular dos dados;
+-A segurança é garantida mediante acesso restrito de pessoas e sistemas de alarme e resposta;
+-Têm acesso aos dados de saúde apenas os médicos, enfermeiros e outros profissionais sob a direcção destes, igualmente sujeitos a segredo profissional, sendo que está prevista a separação lógica entre tais dados e os restantes;
+-Haverá comunicação de dados para a Segurança Social e Santa Casa da
+Misericórdia (neste caso mediante autorização do respectivo titular);
+-Não operará interconexão ou fluxos transfronteiriços de dados;
+-O titular dos dados pode os mesmos conhecer, corrigir e/ou eliminar por pedido junto da Requerente;
+-Os dados são conservados pelo tempo em que o utente/cliente beneficia do apoio
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+!!I.O DIREITO
+O tratamento em causa, porque perante dados pessoais, deve respeitar as condições expressas na Lei 67/98 de 260ut, mormente:
+respeito pela reserva da vida privada (art° 2°);
+.visar finalidades determinadas, explícitas e legítimas (art°5°/n°1 al.b);
+‚estarem em causa dados adequados, pertinentes, não excessivos em relação à finalidade e proporcionais aos objectivos que se pretendem atingir (art°5/n°1 al.c);
+o responsável só pode proceder ao tratamento se, de acordo com a natureza dos dados estiverem preenchidas "condições de legitimidade" (art°s 6° e 7°).
+Na verdade a Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais, sendo inquestionável que, em relação ao tratamento de dados da vida privada e de saúde, necessário se torna que esteja presente alguma das situações previstas no art° 7.°, sendo a lei, nesta matéria, particularmente exigente, ao qualificar os dados como sensíveis.
+Acresce que, em qualquer tratamento, necessário se torna que estejam efectivados os direitos de informação (art° 10°), de acesso (art° 11°) e de oposição (art° 12°) de molde a permitir-se o mesmo.
+Concatenando tais vectores com a factualidade acima enunciada, cumprira então indagar se, no caso vertente, estão verificadas as condições legalmente exigidas, para o deferimento do pedido.
+Retira-se desde já que s finalidade em causa é a gestão da prestação de serviços de apoio social e clínico aos seus utentes, a qual reclama a recolha de dados pessoais sensíveis.
+Trata-se de finalidade determinada, explícita e legítima, face ao escopo da
+Requerente.
+Seguindo no percurso analítico, parece também resultar que os dados que se pretendem recolher são adequados, pertinentes e não excessivos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Com efeito para que a Requerente proceda à qualificação da resposta clínica e social necessita conhecer as características dos seus utentes de molde a conseguir a prestação do serviço adequado e de qualidade.
+Há no entanto que referir que os dados de saúde deverão estar separados dos restantes e o acesso aos mesmos só deverá acontecer apenas por parte dos profissionais que dos mesmos necessitam para fazer desencadear e decidir do tipo e qualidade de apoio a prestar, o que se crê estar acautelado no caso vertente.
+Outro aspecto a salientar, prende-se claramente com o fundamento de legitimidade.
+Sendo certo que a Requerente refere o consentimento, junta "fórmula" de obtenção do mesmo que necessita de alguns ajustes, de molde a estar conforme com as exigências expressas no art° 3° al.h) da Lei 67/98 de 26 de
+Outubro.
+Com efeitos deverá referir-se que se esclareceu o utente da finalidade da recolha e, bem assim, de quais as categorias de dados a tratar, devendo introduzir no texto expressão que claramente demonstre a concessão de autorização.
+Acresce que sendo colhidos dados de outras pessoas para além do titular deve ser obtido também o consentimento destes no que aos seus dados diz respeito.
+Diga-se ainda que havendo comunicação de dados tal deve ser informado ao titular.
+Há assim que incluir no questionário e devidamente destacado um texto que encerre um consentimento para o tratamento em causa, que tem autorização para informar sobre os dados relativos a terceiros ali constantes e bem assim que consente na comunicação dos dados, apontando que entidades envolvidas, que dados e em que condições tal se processará.
+Assim ficará cabalmente protegido o direito de informação inserto no art° 10n°1 do complexo normativo que se vem referindo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 4
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Quanto à comunicação prevista, para além da já referida informação a prestar aos titulares, deverá a Requerente ter a cautela de que as mesmas têm os respectivos tratamentos notificados a esta CNPD.
+No mais, entende-se estarem acauteladas as exigências previstas quanto à confidencialidade e segurança da informação, exercício do direito de acesso e, tempo de conservação dos dados.
+IV.DECISÃO
+Em presença do exposto, decide-se considerar como legítimo, com as restrições supra-referidas, o tratamento notificado e consequentemente se autoriza o mesmo, de acordo com o plasmado nos normativos combinados dos artos 7/n°2, 23/n°1 al.b), 28° e 30° da Lei n°67/98 de 26 de Out e nas seguintes condições.
+1. Responsável: FUNDAÇÃO CARDEAL CEREJEIRA;
+2. Finalidade: Gestão da prestação de serviços de apoio social e clínico aos seus utentes/clientes;
+3. Categorias dos dados:
+a) Dados de identificação - nome, morada, contactos, data de nascimento, número de BI, número de contribuinte, número de beneficiário da Segurança
+Social, número de cartão de utente do SNS, estado civil, naturalidade e ainda habilitações literárias e profissão;
+b) Dados relativos ao agregado familiar - número de elementos, nome, parentesco e actividade profissional exercida;
+c) Dados relativos a autonomia, tipos de dependência e saúde - resultados de testes feito ao tipo e grau de dependência, nome do médico de família e contacto, grupo sanguíneo, alergias, tipos de problemas de saúde, dietas e tipo de alimentação e medicação;
+d) Dados relativos à situação habitacional - a localização, regime de ocupação, estado de conservação, equipamentos básicos de conforto e salubridade, acessibilidades e tipos/formas de deslocação;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE'
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS e) Dados relativos à situação económica - rendimento do utente e o rendimento dos membros do agregado familiar;
+f) Dados relativos à ocupação/lazer - actividades que exerce, preferências e aptidões que possam ser colocadas ao serviço da comunidade;
+g) Dados relativos ao registo de serviços de apoio domiciliário - informações sobre o motivo da entrada neste programa, quais as necessidades mais prementes, quais os serviços pretendidos e o registo dos serviços prestados e momento de tal.
+4.Destinatários dos Dados: Inexiste interconexão bem como fluxos transfronteiriços de dados;
+Há comunicação de dados para a Segurança Social e Santa Casa da
+Misericórdia (neste caso apenas mediante autorização do titular);
+5.Direito de Informação: Deverá ser assegurado que se esclareceu o titular dos dados, das finalidades da recolha, dos destinatários da informação e das condições de utilização e bem assim da existência de comunicação de dados;
+6.Direito de Acesso: Por pedido do titular (verbal ou escrito) junto da
+Requerente;
+7.Prazo de Conservação: Durante a prestação do apoio;
+8. Outras Condições:
+-É necessário colher o consentimento expresso, livre, específico e informado pelo que deverá ser introduzido em cada questionário, obedecendo às notas acima salientadas;
+-É necessário obter consentimento dos terceiros cujos dados também são colhidos
+Lisboa, 10 clyceiro de 2011
+Carlos Campos Lobo (Relator), Ana Roque, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE O
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Sabran
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

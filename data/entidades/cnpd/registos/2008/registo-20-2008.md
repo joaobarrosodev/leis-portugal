@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 20/2008
-official_date: null
+official_date: '2008-02-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE GONDOMAR'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 20/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1062](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1062).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.º 198/07
+Registo n.°20 /08
+A Câmara Municipal de Gondomar notificou um tratamento de dados pessoais com a finalidade gestão bolsa de emprego dos munícipes.
+Declaram as seguintes categorias de dados pessoais relativas aos candidatos:
+Nome, BI, morada, telefone, e-mail, data de nascimento, nacionalidade, naturalidade, estado civil, n.º de filhos a cargo, outros familiares a cargo, situação militar, carta de condução, transporte próprio, NIF, inscrição no Centro de Emprego, subsídios auferidos, habilitações escolares, habilitações profissionais, situação e expectativas profissionais.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98), com excepção dos dados relativos a n.º de filhos e outras pessoas a cargo e nacionalidade e naturalidade que não são necessários para a finalidade.
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, consentimento do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Câmara Municipal de Gondomar
+Categoria de dados pessoais tratados - Nome, Bl, morada, telefone, e-mail, data de nascimento, estado civil, situação militar, carta de condução, transporte próprio, NIF, inscrição no Centro de Emprego, subsídios auferidos, habilitações escolares, habilitações profissionais, situação e expectativas profissionais.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Finalidade - gestão bolsa de emprego dos munícipes
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°.
+Não se autoriza o tratamento de dados relativos a hábitos, designadamente o consumo de álcool, café ou tabaco, ainda que estes tenham sido fornecidos pelo respectivo titular no currículo. Não se autoriza, também, a recolha de n.º de filhos e outras pessoas a cargo e nacionalidade e naturalidade. As informações recolhidas devem limitar-se às questões que incidam sobre as qualificações e a experiência profissional dos trabalhadores.
+Lisboa, 4 de Fevereiro de 2008
+A Secretária da CNPD daseo
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: VISODIAL - CENTRO DE DIÁLISE DE VISEU, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:09:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 18/2000
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10270](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10270).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º18/00
+Proc. 362/99
+A VISODIAL - Centro de Diálise de Viseu, Ld" solicita autorização para o tratamento informático destinado a i"fins exclusivamente estatísticos que permitam o estudo científico para efeitos de medicina preventiva, de diagnóstico médico, prestação de cuidados e tratamentos de diálise dos doentes insuficientes renais".
+Pese embora a indicada finalidade estatística, os dados recolhidos são verdadeiros dados pessoais, já que dos respectivos impressos de recolha constam, para além de outros, o primeiro e o último nome, a data de nascimento, o sexo, estado civil, o endereço, a altura e o peso.
+Forçoso será concluir pois que as pessoas em causa são necessariamente identificáveis - Art.° 3° al. a) da Lei 67/98.
+A legitimidade do tratamento em causa resulta do consentimento escrito e informado" dos respectivos titulares, conforme impresso junto aos autos.
+***
+A Visodial faz parte das Clínicas de Hemodiálise da NMC - Centro Médico
+Nacional, Ld, sendo o mesmo o sistema implementado e cujo tratamento se mostra devidamente autorizado por esta CNPD, conforme Deliberação N° 55/96, de 15/10 -
+Proc. 216/96.
+Impõe-se, deste modo, que aqui se reproduzam as considerações ali feitas, em particular que :
+- Não é admitido o tratamento da informação relativa à "raça" ou à "etnia";
+- Deverão ser estabelecidos diferentes níveis de acesso à informação, separando-se a informação clínica, com acesso exclusivo a médicos ou outros profissionais de saúde obrigados a sigilo profissional ;
+Rua de São Bento, 148 - 3." - 1200 - 821 LISBOA — Telefone: 213 928 400 Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+- O direito de acesso à informação pelo titular dos dados é, de acordo com o disposto no Art° 11° n.º 5 da Lei 67/98, indirecto, só podendo ser "exercido por intermédio de médico escolhido" pelo mesmo.
+***_
+Face a todo o deixado exposto, delibera esta CNPD, nos termos das disposições conjugadas dos Art's 7° e 28° n.º 1 da Lei 67/98, de 26/10, autorizar o tratamento referido nos termos referidos e, em especial :
+Responsável - Visodial - Centro de Diálise de Viseu, Ld", Rua Alexandre Herculano,
+Edifício Paulo VI, Piso 0, Viseu ;
+Finalidade - Exclusivamente estatísticos que permitam o estudo científico para efeitos de medicina preventiva, de diagnóstico médico, prestação de cuidados e tratamentos de diálise de doentes insuficientes renais ;
+Dados pessoais - Os constantes dos impressos juntos (com excepção da raça) ;
+Comunicação e
+Transfer. de dados - Para a Alemanha, sede da "empresa-mãe", a "Clinical
+Management Europe".
+***
+Notifique, enviando cópia da Deliberação N.º 55/96 e respectiva alteração - Proc.
+216/96.
+***
+Lx., 29/02/00
+Mario Varges Gomes
+Armaken key
+Amadeu Guerra
+Rua de São Bento, 148 - 3." -
+- 1200 - 821 LISBOA - Telefone: 213 928 400 Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.enpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS (atauinafamente Canhor
+Catarina Sarmento e Castro
+Paula Veiga
+Luís Durão Barroso
+Joso Simões de Almeida
+João Labescat da Silva
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 Fax: 213 976 832
+, E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

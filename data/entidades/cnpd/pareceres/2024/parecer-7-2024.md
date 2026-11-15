@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7/2024
-official_date: null
+official_date: '2024-03-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Secretário de Estado da Presidência do Conselho de Ministros e Ministra da Justiça'
-- 'Texto incompleto: 1 de 4 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,8 +71,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:49:38Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
@@ -116,3 +115,7 @@ Dados), segundo o qual “Os pedidos de parecer sobre disposições legais e reg
 20. Deste modo, tal omissão compromete a realização de um parecer sustentado e sustentável quanto à validade e fiabilidade relativamente aos prováveis riscos decorrentes dos tratamentos de dados pessoais constantes nesta Proposta de Portaria.
 III. CONCLUSÕES 21. Nos termos e com os fundamentos acima expostos, a CNPD emite o presente parecer, mediante o qual recomenda:
 a) A necessidade de estabelecer mecanismos de segurança relativamente ao tratamento de dados e interoperabilidade elencada no artigo 8.º do Projeto de Decreto-Lei;
+
+b) A necessidade de realização do respetivo estudo de impacto sobre a proteção de dados pessoais.
+Lisboa, 18 de março de 2024
+Joaquim Arménio Correia Gomes (Relator

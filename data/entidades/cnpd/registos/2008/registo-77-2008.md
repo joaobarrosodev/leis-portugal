@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 77/2008
-official_date: null
+official_date: '2008-02-13'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: EDIÇÕES DO GOSTO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 77/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1006](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1006).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 955/07
+Registo n. 77/08
+Edições do Gosto, Publicações Lda, proprietária da revista "Inter" notificou um tratamento de dados pessoais com a finalidade gestão dos assinantes.
+Declaram as seguintes categorias de dados pessoais: Nome, empresa, função area de estudo, morada, telefone, fax, e-mail, NIF e data de nascimento.
+Declaram, também, a comunicação de dados a "empresas associadas".
+Os dados são recolhidos directamente por impresso, telefone, pessoalmente e na Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea e) do artigo 6° da LPD, a prossecução de interesses legítimos do responsável pelo tratamento.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Edições do Gosto, Publicações Lda,,
+Categoria de dados pessoais tratados - Nome, empresa, função área de estudo, morada, telefone, fax, e-mail, NIF e data de nascimento.
+Finalidade - gestão dos assinantes da revista "Inter".
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável por correio e e-mail;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei n.° 67/98, de 26 de Outubro, incluindo on.º 4, por haver recolha de dados na Internet.
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e) do art. °5°, fixa-se em 10 anos.
+Alerta-se o responsável que o registo efectuado não inclui a finalidade de marketing. Assim, não é autorizada a comunicação de dados a terceiras entidades .
+Lisboa, 13 de Fevereiro de 2008
+A Secretária da CNPD
+Falsle
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

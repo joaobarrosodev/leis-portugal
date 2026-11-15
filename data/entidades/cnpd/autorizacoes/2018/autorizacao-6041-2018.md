@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6041/2018
-official_date: null
+official_date: '2018-05-08'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Clínica Médica e Dentária de Belém'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,70 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:48:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6041/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/120365](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/120365).
+Processo n° 4031/2018 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 6041/2018
+I - Pedido
+Clínica Médica e Dentária de Belém, titular do NIF/NIPC n.º 502520523, notificou à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade gestão de processos clínicos.
+Os dados pessoais objeto de registo são os seguintes: morada, contactos, NIF, nome, profissão, data de nascimento e dados de saúde.
+Os dados são recolhidos de forma direta, presencialmente.
+Não se verifica comunicação de dados a terceiros.
+Não existem interconexões de tratamentos nem fluxos internacionais de dados para países terceiros.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem, presencialmente, no endereço: Rua Tristão Vaz, n.º 13 - A, 1400 - 350 Lisboa.
+Pretende-se a conservação dos dados por 10 anos.
+Não são indicadas medidas de segurança física, nem lógica.
+II - Apreciação
+O n.° 4 do artigo 7.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015 de 24 de agosto (LPDP), admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efetuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+A informação tratada é recolhida de forma lícita (artigo 5.° n.° 1, alínea a), da LPDP), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+Contudo, o dado relativo à profissão afigura-se desnecessário, face à finalidade da operação de tratamento notificada, pelo que, o titular goza da liberdade para o fornecer, ou não,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 17198/2017 | 1v.
+devendo ser considerado como facultativo, uma vez que não se alcança a sua imprescindibilidade nem foi invocada razão específica para a sua recolha.
+Quanto ao direito de acesso, deve o mesmo respeitar o disposto no artigo 3.°, n.° 3, da Lei n.º 12/2005, de 26 de janeiro (Lei da Informação Genética Pessoal e Informação de Saúde), na redação que lhe foi dada pela Lei n.º 26/2016, de 22 de agosto, e que agora apenas obriga à intermediação de médico no acesso aos dados de saúde do titular quando este último o solicite. Tal vem, indiscutivelmente, revogar o n.º 5 do artigo 11.°, da LPDP, que fazia depender da intermediação de médico o "acesso à informação relativa a dados de saúde, incluindo os dados genéticos".
+A precisão introduzida pela nova versão da Lei da Informação Genética Pessoal e
+Informação de Saúde não vem, contudo, afastar, as mais elementares regras de proteção de dados pessoais, nomeadamente no que respeita ao direito de acesso. Desta forma, o artigo 3.°, n.º 3, da Lei n.° 12/2005, de 26 de janeiro, deve ser alvo de leitura conjugada com o disposto no artigo 11.°, n.º 1, da LPDP, mantendo-se o direito, por parte do titular, de aceder aos seus dados pessoais e "...de obter do responsável pelo tratamento, livremente e sem restrições, com periodicidade razoável e sem demoras ou custos excessivos" tudo quanto vem disposto nas alíneas do referido preceito da LPDP.
+A novidade assim introduzida não prejudica, ainda, os casos em que não seja apurável a vontade do titular dos dados, onde se mantém a obrigação de intermediação médica no acesso à informação de saúde, como o prescreve o n.º 4 do artigo 3.° da Lei da Informação
+Genética Pessoal e Informação de Saúde.
+Quanto à conservação dos dados, entendemos que os processos clínicos e demais documentos de suporte a dados de saúde devem ser conservados pelos períodos previstos na Portaria n.º 247/2000, de 8 de maio, alterada pela Portaria n.º 157/2014, de 19 de agosto.
+Para efeitos de faturação, os dados podem ser conservados pelo período de 10 anos, atento o disposto no artigo 123.° do Código do IRC.
+Deve ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação aos titulares dos dados, nos termos dos artigos 10.° da LPDP;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15.° n.° 3 da
+LPDP);
+
+Processo n.º 4031/2018 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS c) Devem ser adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7.° n.° 4 da LPDP).
+III - Decisão
+Nestes termos e ao abrigo do disposto nos artigos 7.º n.º 4, 28.º e 30.º da LPDP, a CNPD autoriza o tratamento notificado, consignando o seguinte:
+Responsável pelo tratamento: Clínica Médica e Dentária de Belém;
+Finalidade: gestão de processos clínicos;
+Categorias de dados pessoais tratados: morada, contactos, NIF, nome, profissão, data de nascimento e dados de saúde.
+Comunicação de dados: não se verifica;
+Forma de exercício do direito de acesso e retificação: presencialmente, no endereço: Rua
+Tristão Vaz, n.º 13 - A, 1400 - 350 Lisboa;
+Interconexão de dados: não se verifica;
+Transferência de dados para países terceiros: não há;
+Conservação dos dados:
+a) Dados de saúde - pelo prazo previsto na Portaria n.º 247/2000, de 8 de maio com as alterações introduzidas pela Portaria n.° 157/2014, de 19 de agosto;
+b) Dados para faturação - 10 anos.
+Lisboa, 8 de maio de 2018
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

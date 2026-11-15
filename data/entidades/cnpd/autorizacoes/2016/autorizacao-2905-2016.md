@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2905/2016
-official_date: null
+official_date: '2016-03-22'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ARPIC - ASSOCIAÇÃO DE REFORMADOS, PENSIONISTAS E IDOSOS DE CANAVIAIS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,96 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T14:42:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2905/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/89192](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/89192).
+Processo n° 17567/2014 | 1 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° 190) /2016
+I.
+Direito de Audição
+A Comissão Nacional de Protecção de Dados (CNPD) elaborou, em 27 de janeiro de 2016,
+Projeto de Autorização, tendo a requerente ARPIC - Associação de Reformados, Pensionistas e Idosos de Canaviais, sido notificada para se pronunciar nos termos dos artigos 121° e 122° do Código do Procedimento Administrativo. No prazo concedido para o efeito, nada disse.
+Relatório
+ARPIC - Associação de Reformados, Pensionistas e Idosos de Canaviais, com sede em
+Praça José Joaquim Calado Piteira, n.º 2 - Canaviais, 7005-247 Évora, notificou à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de apoio domiciliário.
+Pedido
+A requerente desenvolve atividade de apoio social a idosos.
+Pretende com o presente tratamento proceder à gestão de clientes/utentes.
+Os dados pessoais objeto de recolha são os seguintes:
+- Identificação pessoal e dos familiares mais próximos; rendimentos e despesas;
+condições de habitabilidade; dados referentes à saúde; religião, entre outros.
+Os dados são recolhidos de forma direta, presencialmente;
+Não é indicada qualquer comunicação de dados ou interconexões;
+Não existem fluxos transfronteiriços de dados.
+São indicadas medidas de segurança física.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem, presencialmente ou de forma escrita, na morada da requerente.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 17567/2014 | 2 r
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Pretende-se a conservação dos dados enquanto o cliente se mantiver na instituição e até dois anos após a sua saída.
+IV. Apreciação
+Tendo em atenção a atividade exercida pela Requerente, entende-se estar presente uma finalidade legítima, sendo a mesma determinada e explícita.
+Existindo informações referentes à saúde e à vida privada, os dados dos utentes/clientes dos serviços prestados pela requerente têm a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, ou dos seus legais representantes, nos termos do disposto no n° 2 do artigo 7° da
+Lei n° 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto (LPDP). O consentimento, deve ser obtido através de uma "declaração de consentimento informado" onde seja utilizada uma linguagem clara e acessível. Nos termos do artigo 10° da LPDP, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação.
+A requerente não juntou qualquer formulário de consentimento, pelo que importa que o faça.
+A informação tratada é recolhida de forma lícita (artigo 5°, n.º1 alínea a) da LPDP), sendo a mesma adequada, pertinente e não excessiva (cfr. alínea c) do mesmo preceito), com exceção dos dados referentes à "religião", porque não se alcança a sua relevância, nem tal vem justificado. Desta forma, não se encontra cumprida, quanto a estes dados, a alínea b) do n.° 1 do art.° 5.° da LPDP. Não se admite a recolha do dado "entre outros" por ser impreciso e desrespeitador do disposto na alínea c), do art.° 29.° da LPDP.
+Contudo, os dados indicados não são suficientes a preencherem a finalidade visada, pelo que se acrescentam oficiosamente o número de identificação fiscal e a morada dos clientes.
+Aos titulares dos dados deve, no momento da recolha, ser garantido o direito de informação previsto no artigo 10° da LPDP.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 17567/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Relativamente ao prazo máximo de conservação dos dados, atento o disposto na alínea e)
+do n.º 1 do artigo 5.° da LPDP, devem os dados pessoais ser conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior, pelo que, não sendo apresentado um fundamento específico que demonstre a adequação e necessidade do prazo de conservação solicitado, se entende que o prazo indicado é desproporcionado.
+Assim, considerando as finalidades do tratamento, entende-se que o prazo máximo de conservação de um ano após a cessação da relação contratual.
+Admite-se a conservação dos dados de faturação pelo prazo de doze anos, nos termos previstos no art.º 123.°, n.º 4, do Código do IRC.
+Deverão ser adotadas as medidas de segurança adequadas, atenta a natureza sensível dos dados objeto de tratamento, e no que respeita aos dados de saúde a responsável deve adotar medidas técnicas e organizativas adequadas a proteger os dados pessoais, as quais devem atestar um nível de segurança adequado em relação aos riscos que o tratamento apresenta e à natureza dos dados a proteger.
+Nos termos do n.º 3 do artigo 15.° da LPDP, os sistemas devem garantir a separação lógica entre os dados referentes à saúde e os restantes dados pessoais. Os dados de saúde apenas podem ser tratados pelos profissionais de saúde da requerente ou por outra pessoa obrigada a segredo profissional de saúde.
+IV Decisão
+Em face do exposto, a Comissão Nacional de Protecção de Dados autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 7° nº2, 28 nº1, alíneas a) e c), e 30.° n°1 da LPDP, consignando-se o seguinte:
+Responsável pelo tratamento: ARPIC - Associação de Reformados, Pensionistas e Idosos de
+Canaviais;
+Finalidade: Gestão de apoio domiciliário;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 17567/2014 | 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categoria de Dados pessoais tratados:
+Identificação pessoal (nome e NIF) e dos familiares mais próximos; morada; rendimentos e despesas; condições de habitabilidade e dados referentes à saúde;
+Formas de exercício do direito de acesso e retificação: Mediante solicitação ao responsável, presencialmente ou por escrito;
+Comunicação de dados: Não há;
+Interconexões de tratamentos: Não há;
+Transferências de dados para países terceiros: Não há;
+Prazo de conservação dos dados: Doze anos para os dados de faturação e um ano após a cessação do serviço prestado ao utente/cliente, para os restantes dados;
+Outras Condições:
+Há que juntar o formulário do consentimento.
+Não se autoriza o tratamento dos dados "condições de habitabilidade", "religião" e "outros dados".
+Lisboa, 22 de março de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

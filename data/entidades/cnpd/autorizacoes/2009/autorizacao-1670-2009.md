@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ORGANON PORTUGUESA PRODUTOS QUIMICOS E FARMACÊUTICOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:11:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1670/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15651](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15651).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 1110/2008
+AUTORIZAÇÃO N° 1670/09 1 - Organon Portuguesa - Produtos Químicos e Farmacêuticos, Lda, vem notificar à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento que tem como finalidade a gestão de recursos humanos em relação aos seus trabalhadores - incluindo selecção, recrutamento e atribuição de tarefas.
+Foi, igualmente, solicitada autorização para a transferência de dados pessoais para os
+Estados Unidos da América e a comunicação de dados à Organon Internacional sediada na Holanda.
+As categorias de dados tratados são as seguintes:
+Dados do trabalhador - nome, título do emprego, grau/banda ou equivalente, classificação de desempenho dos últimos 2 anos, currículo, local de trabalho actual;
+Dados do candidato - telefone, e-mail, novo local se seleccionado
+Os dados são recolhidos directamente, por impresso, ou em entrevistas.
+Está assegurado o direito à actualização dos dados, bem como as condições de o titular conhecer, corrigir e eliminar os dados.
+A segurança das informações é garantida por cópias de backup, password de acesso às informações, sistemas de processamento de backup, sistemas de alarme e resposta e acesso restrito de pessoas às instalações.
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A requerente juntou cópia do mail remetido aos trabalhadores, através do qual requereu o respectivo consentimento expresso para a transferência dos seus dados pessoais para um servidor localizado na Schering-Plough Corporation, Estados Unidos da América, dele fazendo constar a identificação do responsável pelo tratamento e as condições de exercício do direito de informação, acesso e rectificação e oposição, conforme o disposto nos artigos 10°, 11° e 12°, alínea a) da Lei n° 67/98.
+Pretende-se a conservação dos dados até à data em que o trabalhador atinja os 65 anos de idade ou até à saída deste da empresa caso essa saída ocorra posteriormente a essa idade.
+2 - Os dados tratados, tendo em atenção a finalidade pretendida, apresentam-se como adequados, pertinentes e não excessivos (cf. artigo 5.º da Lei n° 67/98, de 26.10).
+A requerente tem legitimidade para o tratamento (cf. artigo 6°, corpo e alínea a), do mesmo diploma).
+Nos termos do disposto no artigo 20.º e na alínea e) do n.º 1 do artigo 23.º da Lei n° 67/98, de 26.10, a transferência de dados pessoais para países terceiros carece de autorização da CNPD, sendo que, nos termos do artigo 20.º citado, a transferência de dados pessoais para esses países pode ser permitida pela CNPD se o titular dos dados tiver nela consentido inequivocamente.
+Conforme resulta do processo existe uma declaração de consentimento que é precedida de uma informação sobre as finalidades do tratamento.
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Considerando a finalidade do tratamento e a categoria dos dados recolhidos, afigura-se-nos que o prazo de conservação dos dados deve coincidir com o tempo de duração da relação contratual.
+3 - Face a todo o exposto, DELIBERA esta CNPD, nos termos do disposto nos artigos 27.° e n.º 1, alínea e), do artigo 20.º da Lei n.° 67/98, de 26.10, autorizar o tratamento de dados pessoais, bem como a sua transmissão para os EUA, consignando-se, nos termos do artigo 30.° da Lei 67/98, o seguinte:
+Responsável: Organon Portuguesa - Produtos Químicos e Farmacêuticos, Lda
+Categorias de dados pessoais tratados: Dados do trabalhador - nome, título do emprego, grau/banda ou equivalente, classificação de desempenho dos últimos 2 anos, currículo, local de trabalho actual
+Dados do candidato - telefone, e-mail, novo local se seleccionado
+Finalidade: gestão de recursos humanos em relação aos seus trabalhadores - incluindo selecção, recrutamento e atribuição de tarefas
+Entidades a quem podem ser transmitidos: para a Organon Internacional sediada na
+Holanda e para a Schering-Plough Corporation sediada nos Estados Unidos da América
+Forma de exercício do direito de acesso e rectificação: por solicitação ao responsável do Departamento de Recursos Humanos
+Eventuais interconexões: não há
+Transferências de dados para países terceiros: para os Estados Unidos da América, mediante autorização escrita dos titulares.
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 14 dl Abril de 2009.
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)

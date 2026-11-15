@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASTRAZENECA/EX-ASTRAZENECA, PRODUTOS FARMACÊUTICOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:16:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1338/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15302](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15302).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 3398/07
+AUTORIZAÇÃO N.º| 338/2009
+A Astrazeneca Produtos Farmacêuticos Lda. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo para controlar a utilização do medicamento Symbicort.
+A Agência Europeia do Medicamento, no âmbito do "plano de gestão de risco", exigiu ao responsável pela introdução no mercado do referido medicamento um sistema de vigilância pós-comercialização. Para tal o responsável implementou um sistema de recolha de dados pré-definidos e anonimizados sobre a utilização do medicamento.
+Aos doentes que reúnam os critérios de inclusão no estudo, será solicitado, pelo seu médico assistente, no âmbito da consulta, o consentimento para a sua participação no estudo e consequente recolha de dados pessoais.
+As declarações de consentimento são guardadas pelo médico investigador.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação é apenas conhecida do médico.
+As categorias de dados recolhidos são as seguintes: código do doente, n.° do centro, uso do medicamento, sexo, idade, dados clínicos, resultados analíticos, medicação concomitante e efeitos adversos.
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+É tratado o dado etnia. O representante do responsável vem esclarecer que a recolha da "origem étnica é facultativa".
+O facto de o representante do responsável ter declarado ser facultativo o registo do dado etnia, permite que a CNPD conclua que tal registo podendo ser útil, não é imprescindivel, não podendo, consequentemente, por obediência aos princípios de protecção de dados, autorizar a sua recolha.
+O fundamento de legitimidade será o consentimento do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Astrazeneca Produtos Farmacêuticos Lda
+Finalidade: estudo para controlar a utilização do medicamento Symbicort.
+Categoria de Dados pessoais tratados: código do doente, n.º do centro, uso do medicamento, sexo, idade, dados clínicos, resultados analíticos, medicação concomitante e efeitos adversos.
+Entidades a quem podem ser comunicados: Não há
+Formas de exercício do direito de acesso e rectificação: junto do médico investigador.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, após fim do estudo.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dos termos e condições fixados na Deliberação n.º 227/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa?3 de Março de 09
+Ana Roque, Carlos Campos Lobo, Helena Delgado António (Relatora), Luís Paiva de
+Andrade,
+Vasco Almeida
+Lus Lingnau da sivera (Presidente)

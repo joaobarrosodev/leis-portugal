@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 16/2014
-official_date: null
+official_date: '2014-01-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AJUDA DE MÃE - ASSOCIAÇÃO DE SOLIDARIEDADE SOCIAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:57:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 16/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/61072](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/61072).
+Proc. n.º 8252/2010 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+REGISTO N.º || 12014
+AJUDA DE MÃE - Associação de Solidariedade Social notificou um tratamento de dados pessoais com a finalidade de gestão de associados.
+Os dados tratados são: nome, morada, data de nascimento, número de identificação civil, NIF, profissão, telefone, correio eletrónico, data de inscrição de sócio, modalidade de pagamento das quotas anuais.
+Os dados são recolhidos diretamente junto do titular através do preenchimento de um impresso.
+Os dados pessoais recolhidos são pertinentes e não excessivos face à finalidade declarada, conforme o disposto na alínea c) do n.º 1 do artigo 5.° da Lei n.º 67/98, de 26 de outubro - Lei de
+Proteção de Dados (LPD).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento dos titulares dos dados.
+Assim, em conformidade com o n.º 1 do artigo 27° e do n.º1 do artigo 30.º da Lei n.° 67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+AJUDA DE MÃE - Associação de Solidariedade Social
+Finalidade
+Gestão de associados
+Categoria de dados pessoais tratados
+Nome, morada, data de nascimento, número de identificação civil, NIF, profissão, telefone, correio eletrónico, data de inscrição de sócio, modalidade de pagamento das quotas anuais.
+Forma de exercício dos direitos de acesso e retificação
+Por correio postal ou eletrónico e por telefone
+Comunicações de dados a terceiros
+Não há
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 8252/2010 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Interconexões
+Não há
+Transferências para países terceiros
+Não há
+Prazo de conservação dos dados
+Enquanto se mantiver a qualidade de sócio
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD, bem como o direito de oposição à utilização dos seus dados para fins de marketing (cf. alínea b)
+do artigo 12° da LPD).
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, em conformidade com o previsto no artigo 14° da LPD.
+Lisboa, 10 de janeiro de 2014
+A Secretária da CNPD,
+Drasre
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

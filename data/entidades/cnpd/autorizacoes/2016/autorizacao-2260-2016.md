@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2260/2016
-official_date: null
+official_date: '2016-03-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: N SEGUROS, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,69 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T14:53:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2260/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/88260](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/88260).
+Processo n° 18764/2015 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 2260/2016 1 - Em 10 de fevereiro de 2016, a Comissão Nacional de Protecção de Dados (CNPD)
+emitiu a Autorização n.º 1641/2016 relativa ao tratamento de dados pessoais com a finalidade de prova das transações comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+Todavia, pelo confronto do teor daquela autorização com o requerimento subscrito pela entidade requerente NSeguros, S.A., verifica-se existir uma discrepância entre o que foi requerido à CNPD e o que por esta entidade veio a ser autorizado, na medida em que houve omissão na identificação de entidades encarregadas do processamento da informação.
+Assim, tendo assentado em erro quanto aos pressupostos, a CNPD delibera anular a
+Autorização n° 1641/2016 nos termos do disposto no artigo 168° do Código do
+Procedimento Administrativo, aprovado pelo Decreto-Lei n° 4/2015, de 7 de janeiro, e proceder à sua substituição pela presente autorização.
+2 - NSeguros, S.A., notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transações comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+RNA Seguros de Assistência, S.A., Myseguros, Mediação de Seguros, S.A., e Accenture,
+Consultores de Gestão, S.A., são as entidades encarregadas do processamento da informação, as quais devem estar vinculadas à entidade responsável pelo tratamento por via de contrato de subcontratação.
+A Comissão Nacional de Protecção de Dados (CNPD) já se pronunciou, na sua Deliberação n.º 629/2010(1), sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro, alterada pela
+Lei n° 103/2015, de 24 de agosto (LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+' Disponível em http://www.cnpd.pt/bin/orientacoes/DEL629 2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 18764/2015 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequívoco do titular (n.º 3 do artigo 4.° da Lei n.º 41/2004, de 18 de agosto, alterada pela Lei n.º 46/2012, de 29 de agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efetue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respetivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20.° do Código de Trabalho e no n.º 1 do artigo 11.° do Regime do Contrato de Trabalho em Funções Públicas, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.º 2, 28.° n.º 1, alínea a), 29.° e 30.°, n.º 1.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto, consignando-se o seguinte:
+Responsável - NSeguros, S.A.
+Finalidade - Prova das transações comerciais e quaisquer outras comunicações respeitantes à relação contratual
+Categoria de dados pessoais tratados - Dados de tráfego e conteúdo das chamadas
+Forma de exercício dos direitos de acesso e retificação - Por solicitação escrita à responsável
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 18764/2015 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Comunicações de Dados Pessoais - Não há
+Interconexões - Não há
+Fluxo transfronteiriço de dados Não há
+Conservação dos dados - 90 dias.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da LPD, dos termos e condições fixados na Deliberação n.º 629/2010, que se dão aqui por reproduzidos, e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Devem ser postas em prática as medidas de segurança previstas nos artigos 14.° e 15.° da LPD.
+Esclarece-se que a presente Autorização não inclui a finalidade de monitorização da qualidade do serviço prestado que, por constituir finalidade diferente, carece de notificação autónoma.
+Nos termos do artigo 168.° n.º 2 do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, a presente Autorização substitui a
+Autorização n.º 7953/2014, de 2 de setembro de 2014, concedida no âmbito do processo n.º 2175/2014.
+Lisboa, 1 de março de 2016 se
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 5175/2015
-official_date: null
+official_date: '2015-06-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Ana Heloísa da Silva Ribeiro'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,92 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T17:46:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5175/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/77892](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/77892).
+Processo N.º 17530/2014| 1 / p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 5/15 12015 1. Pedido
+Ana Heloísa da Silva Ribeiro notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo intitulado "Hipotensão Ortostática - qual a relação com a lesão de órgão alvo no indivíduo idoso hipertenso?".
+Com este projeto a responsável pretende caracterizar uma população idosa do ponto de vista da presença de hipotensão ortostática, hipotensão noturna, da sua relação com o consumo de sal, bem como da sua relação com lesão de órgão alvo, nomeadamente lesão vascular, renal, e cardíaca.
+Serão participantes no estudo idosos de ambos os sexos, com idade superior a 65 anos, avaliados em consulta pela responsável, no Centro Hospitalar de Entre o Douro e Vouga.
+A participação no estudo consistirá na recolha dos dados pela responsável, médica assistente, no âmbito do acompanhamento clínico habitual da doença.
+Os dados serão recolhidos num "caderno de recolha de dados" em formato eletrónico, no qual não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico investigador.
+Os destinatários são ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento, caso decidam participar, recolhendo o médico assistente/investigador o seu consentimento informado para o efeito.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.: 17530/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+II. Análise
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de Outubro (Lei de Proteção de Dados - LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos de investigação na área da saúde.
+Porque em grande parte referentes à vida privada e também à saúde, os dados recolhidos pela requerente têm a natureza de sensíveis, nos termos do disposto no n.º 1 do artigo 7.° da LPD.
+Em regra, o tratamento de dados sensíveis é proibido, de acordo com o disposto no n.° 1 do artigo 7.° da LPD. Todavia, nos termos do n.º 2 do mesmo artigo, o tratamento de dados da vida privada e de saúde é permitido, quando haja uma disposição legal que consagre esse tratamento de dados, quando por motivos de interesse público importante o tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável ou quando o titular dos dados tiver prestado o seu consentimento.
+Não estando preenchidas as duas primeiras condições de legitimidade, o fundamento de legitimidade só pode basear-se no consentimento dos titulares dos dados ou dos representantes legais, quando os titulares dos dados sejam incapazes.
+Assim, é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento (cf. artigo 3.°, alínea h), da LPD), o qual deve ser obtido através de uma "declaração de consentimento informadoi onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.° 17530/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os cadernos de recolha de dados são objeto de codificação, mas contêm um campo referente ao número de processo.
+Ora, nos termos da Deliberação acima referida, os estudos devem ser preferencialmente feitos sem tratamento de dados pessoais, ou seja, com dados anónimos ou anonimizados.
+Não sendo possível esta opção, só em último caso e perante estrita necessidade se deve admitir a utilização de dados pessoais de saúde, ou seja dados que identificam diretamente o seu titular, como o número de processo clinico, devendo privilegiar-se a utilização de dados codificados.
+Assim, a presente autorização é proferida na condição de que, caso o número de processo constante do caderno de recolha de dados corresponda ao número de processo clínico de cada um dos participantes, porque identificador dos titulares dos dados, não seja recolhido.
+Os titulares dos dados, de acordo com a declaração de consentimento informado junta aos autos, apõem as suas assinaturas na mesma, deste modo satisfazendo as exigências legais.
+Cabe ao Investigador assegurar a confidencialidade dos dados pessoais e da informação tratada, conforme o estatuído na alínea g) do artigo 10.° da Lei n.º 21/2014, de 16 de abril (Lei da investigação clínica).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1 alínea a) da Lei n.° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.º 17530/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+III. Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º 1 do artigo 27.°, alínea a) do n.° 1 do artigo 28.° e artigo 30.° da Lei de Proteção de Dados, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados supra referido, consignando-se o seguinte:
+Responsável pelo tratamento: Ana Heloísa da Silva Ribeiro;
+Finalidade: estudo intitulado "Hipotensão Ortostática - qual a relação com a lesão de órgão alvo no indivíduo idoso hipertenso?";
+Categoria de Dados pessoais tratados: código do participante; sexo, idade, peso, altura, indice de massa corporal, presença de fatores de risco cardiovascular (dislipidemia, Diabetes mellitus e tabagismo actual e passado); presença/ausência de
+HBP em indivíduos do sexo masculino; colesterol total, LDL-c e HDL-c; tensão arterial sistólica e diastólica, pressão de pulso e frequência cardíaca (em posição sentado e após 1 e 3 minutos de ortostatismo); perfil tensional em MAPA, presença de HO documentada e média tensional noturna; cumprimento de terapêutica anti-hipertensora (número total de fármacos e frequência absoluta e relativa de cada classe farmacológica: Antagonistas dos receptores da Angiotensina, Inibidores da Enzima
+Conversora da Angiotensina, B-bloqueantes, antagonistas dos canais de calcio, diuréticos e antagonistas dos receptores alfa); excreção urinária de Na em urina de 24 horas e excreção urinária de albumina e creatinina em urina ocasional. Consideram-se como variáveis de resultado a taxa de filtração glomerular (estimada usando a fórmula
+MDRD, definindo-se doença renal crónica de TFG 60 mL/min/1.73 m2) e a excreção urinária de albumina (definindo-se lesão se rácio albumina creatinina em urina ocasional 30 mg/g); velocidade de onda de pulso carotido-femoral (m/s); lesão cardíaca definida por critérios electrocardiográficos e ecocardiográficos.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto da responsável.
+Interconexões de tratamentos: Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.º 17530/2014 5
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 2 de junho de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

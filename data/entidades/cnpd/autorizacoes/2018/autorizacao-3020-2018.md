@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Cargill II, Nutrição Animal SA'
-- 'Texto incompleto: 1 de 4 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,8 +69,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T06:39:46Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
@@ -116,4 +115,4 @@ Lisboa, 08-03-2018
 A Presidente
 ￼
 
-Filipa Calvão
+Filipa Calvão di

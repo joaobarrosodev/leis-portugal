@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 124/1997
-official_date: null
+official_date: '1997-12-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SONAE COMÉRCIO E SERVIÇOS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:12:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 124/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10600](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10600).
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Proe: 475/1995
+AUTORIZAÇÃO N° 124 97
+Altera a autorização n° 28/95( Cartão Universo)
+A CrédiUniverso-Seviços de Marketing, Ida veio requerer a alteração da Autorização n° 28/95 pois pretende que os serviços de processamento da informação respeitante ao Cartão Universo passem a ser executados, em regime de subcontratação, pela Celdata-Informática, SA, com sede na mesma morada da requerente.
+Trata-se de uma mera restruturação das empresas detidas pela Sonae Investimentos-
+SPGS, SA.‚não havendo alterações no processamento da informação, quanto à segurança e confidencialidade dos dados, mantendo-se também as pessoas envolvidas, que transitam para a nova empresa.
+Pelo que se altera a autorização n° 28/95, na parte do serviço encarregado do processamento da informação para : Celdata-Informática, Sa, com sede no Lugar do
+Espido, Via Norte, Maia, pessoa colectiva n° 503961175. O contrato entre a
+CrédiUniverso e a Celdata deve salvaguardar as condições de segurança e confidencialidade acima referidas, com garantias de pleno exercício dos direitos de acesso, rectificação e eliminação dos dados, quando exercidos.
+Lisboa em 4 de Dezembro de 1997 se07.2424
+João Alfredo M. Labescat da Silva ( Relator )
+Rua de São Bento. n." 148. 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Mário Manuel Varges Gomes
+Antes. des
+Amadeu Francisco Ribeiro Guerra
+Joaquim Seabra Lopes
+Nuno Albuquerque Morais Sarmento ra
+Luís José Durão Barroso eti Vit Clho
+Augusto Victor Coelho ( Presidente)
+2
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

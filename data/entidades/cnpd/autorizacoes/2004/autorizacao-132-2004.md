@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 132/2004
-official_date: null
+official_date: '2004-02-26'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PENSÕESGERE - SOCIEDADE GESTORA DE FUNDOS DE PENSÕES, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:52:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 132/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1444](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1444).
+sebast
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc." n.° 227/02
+Autorização n.º132/2004 1- Seguros e Pensões Gere, SGPS, SA solicita à Comissão Nacional de Protecção de
+Dados (CNPD) autorização para efectuar um tratamento de dados pessoais em que se proceda à comunicação, transmissão e consulta relativamente a dados pessoais informatizados dos seguintes clientes: Império Bonança - Companhia de Seguros, SA;
+ICI - Companhia de Seguros de Comércio e Indústria, SA; Ocidental - Companhia de
+Seguros SA; Ocidental - Companhia Portuguesa de Seguros de Vida, SA; Companhia
+Portuguesa de Seguro Directo Gere - Companhia de Seguros, SA; CPPJ - Companhia
+Portuguesa de Seguros de Protecção Jurídica, SA; Impergesto - Assistência e Serviços,
+SA e Pensões Gere - Sociedade Gestora de Fundos de Pensões.
+Os tratamentos em causa destinam-se à prossecução das seguintes finalidades:
+- Confirmar dados pessoais do cliente, facilitar posteriores contactos com o cliente, recolher dados em falta em novas propostas de seguro, recolher dados em falta para novas propostas de seguro, compatibilizar a informação sobre os clientes das várias empresas do Grupo;
+- Disponibilizar ao cliente mais e melhor informação, confirmar ou consultar contratos ou operações de seguro relativos a um cliente para que se tenha uma visão global e integrada, potenciar o estabelecimento de novos negócios e uma segmentação mais adequada;
+- Gerir seguros de automóvel;
+- Gerir sinistros de acidentes de trabalho e acidentes pessoais;
+- Gerir sinistros da saúde;
+- Gestão de apólices de seguro ramo vida.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2- Sobre o tema versado nesta deliberação, a CNPD já teve oportunidade de se pronunciar, nomeadamente na Autorização n.º 71/98. Os dados objecto de tratamentos não são, por regra, dados sensíveis. Contudo, o tratamento de dados relativos ao crédito e à solvabilidade carece de autorização prévia da CNPD (alínea b) do n.º 1 do artigo 28.° da Lei n.° 67/98, de 26 de Outubro).
+3- A Seguros e Pensões Gere, SGPS, SA assegura que a transmissão e consulta de dados está sujeita a prévia autorização do titular dos dados tendo em vista a salvaguarda dos princípios vigentes em matéria de protecção de dados.
+Existindo consentimento verifica-se preenchida a condição de legitimidade reclamada pelo artigo 6.° da Lei n.º 67/98, de 26 de Outubro. No que respeita a parte do tratamento efectuados, considera-se aplicável a alínea a) do artigo 6.° da Lei n.º 67/98, de 26 de
+Outubro, na medida em que esteja em causa a execução de contrato ou contratos em que o titular dos dados é parte.
+Para os casos de envio de publicidade, a cedência de dados pessoais integra-se na prossecução de interesses legitimos dos responsáveis pelo tratamento ou por terceiros e
+- especialmente porque se verifica autorização do cliente - não prevalecem os direitos, liberdades e garantias do titular dos dados no sentido de não autorizar a transferência.
+Por todo o exposto, autorizam-se os tratamentos comunicados à CNPD, desde que cumpridas as exigências propostas pelos responsáveis. Ou seja, mediante prévia autorização do titular, respeito pelo sigilo profissional, respeitos pelos sigilos bancário e fiscal e pelas regras da legislação aplicável em sede de protecção de dados pessoais.
+Lisboa, 26 de Fevereiro de 2004
+Alecondefensher
+Alexandre Sousa Pinheiro (relator)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS uras
+Luís Barroso
+егии
+Eduardo Campos geen
+Ana Luísa Geraldes
+Araden
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

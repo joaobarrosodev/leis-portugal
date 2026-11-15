@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 455/2004
-official_date: null
+official_date: '2004-03-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOFINLOC-INSTITUIÇÃO FINANCEIRA DE CRÉDITO, SA (EX- SOC.FINANC. DE LOCAÇÃO,S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:50:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 455/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9110](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9110).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 257/95
+AUTORIZAÇÃO N.° 4S572004 1. A SOFINLOC - Instituição Financeira de Crédito, SA vem solicitar autorização para transmitir os dados à Seguradora CARDIF, com a finalidade de gestão e comercialização de seguros de protecção de crédito e, em geral, de produtos de seguros ligados ao crédito.
+Sendo a SOFINLOC uma sociedade financeira, importa salientar que o artigo 78.° do
+DL 298/92 estabelece o dever de segredo em relação aos empregados das instituições de crédito bem como em relação aos ‹mandatários, comitidos e outras pessoas que lhes prestem serviços a título permanente ou ocasional». O dever de sigilo engloba, nomeadamente, os "nomes dos clientes, as contas de depósito e seus movimentos e outras operações bancárias" e não cessa com o termo da prestação de serviços (n° 2 e 3 do mesmo preceito).
+2. O "nome do cliente" está sujeito ao segredo bancário, nos termos do artigo 78.º n.º 2 do DL 298/92. O art. 79.º n.º 1 do mesmo diploma admite a revelação dos dados sujeitos a sigilo, «mediante autorização do cliente, transmitida à instituição».
+A SOFINLOC obtém a autorização dos clientes, conforme decorre do impresso de recolha de dados anexo ao processo.
+Em face do exposto, autoriza-se a cedência de dados e a sua utilização para as finalidades indicadas.
+3. Deve anotar-se que se torna necessário assegurar, nos termos do artigo 12.° al. b) da
+Lei 67/98, a possibilidade de os clientes poderem exercer o direito de oposição nos termos aí estabelecidos.
+Lisboa, 23 de Março de 2004
+Amadeu Guerra (Relator)
+Rua de São Bento, 148 - 3.° -
+- 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Alexandhesousa alass
+Alexandre Pinheiro
+Luís Barroso
+Eduardo Campos
+Gle
+Ana Luísa Geraldes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

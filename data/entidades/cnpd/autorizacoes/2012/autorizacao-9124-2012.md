@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 9124/2012
-official_date: null
+official_date: '2012-11-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Merck Sharp & Dohme, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,72 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T02:05:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9124/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/49411](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/49411).
+Proc. N.: 10470/2012 | Pe
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 912Y 12012
+I. Do Pedido
+A Merck Sharp & Dohme, Lda. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional transversal para determinação da prevalência e caraterização de hipoglicemia em doentes com diabetes tipo 2 nos
+Serviços de Urgência Hospitalares portugueses.
+A entidade encarregue do processamento da informação é a Eurotrials, Consultores
+Científicos, S.A., com a qual a responsável pelo tratamento celebrará o contrato previsto no art. 14.° da Lei n.° 67/98, de 26 de Outubro.
+Serão incluídos no estudo aproximadamente 240 indivíduos diagnosticados com diabetes tipo 2, com mais de quarenta anos de idade, que recorram ao serviço de urgência dos hospitais participantes com episódios de hipoglicemia.
+A participação no estudo consiste na recolha do processo clínico de dados sociodemográficos, história clínica de diabetes, avaliação da gravidade e potenciais causas do episódio de hipoglicemia, tratamento administrado, acompanhamento prestado durante a permanência na urgência, tipo de exames realizados, tempo despendido no serviço de urgência, internamento, transporte hospitalar e na resposta a um questionário pelo titular dos dados.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 10470/2012 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a) do n.º 1 do artigo 28° e art. 30° da Lei de Proteção de Dados, com as condições e limites fixados na referida Deliberação n.° 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Termos do tratamento:
+Responsável pelo tratamento: Merck Sharp & Dohme, Lda.
+Finalidade: Estudo observacional transversal para determinação da prevalência e caraterização de hipoglicemia em doentes com diabetes tipo 2 nos Serviços de
+Urgência Hospitalares portugueses.
+Categorias de Dados pessoais tratados:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 10470/2012 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+- dos participantes: código do participante, dados sociodemográficos (mês e ano de nascimento, sexo, estado civil, vive sozinho, grau de escolaridade, situação laboral, profissão), dados antropométricos (peso e altura), data e hora de admissão na urgência, transporte utilizado, caraterização da diabetes, antecedentes clínicos de interesse, medicação, n.º de hipoglicemias anterior, etiologias prováveis da hipoglicemia atual, sinais e sintomas, complicações resultantes da hipoglicemia, tratamento no serviço de urgência, exames complementares e procedimentos realizados, tempo de permanência do utente no serviço de urgência, terapêutica pós atendimento no SU, destino do doente, dados do internamento, diagnóstico;
+- dos médicos: nome, especialidade, hospital, contacto telefónico.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 20 de Novembro de 2012
+Ana Roque (Relatora), Carlos Campo Lobo, Luís Barroso, Luís Paiva de Andrade,
+Vasco Almeida
+Filipa Calvão (a Presidente da CNPD)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

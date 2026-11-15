@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 73/1998
-official_date: null
+official_date: '1998-12-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: STERLING SOFTWARE (PORTUGAL) iNFORMÁTICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:10:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 73/1998
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10504](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10504).
+COMISSÃO NACIONAL
+DE PROTECÇAO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Xnoc. p/55/58
+Autorização n° 73/98
+Assunto: Transferência de dados pessoais da Sterling Software (Portugal)
+Informática Lda. para os Estados Unidos da América
+A empresa Sterling Software (Portugal) Infomática Lda., com sede em Lisboa, solicita a legalização da sua base de dados relativa aos seus empregados para efeitos de aquisição de participações sociais.
+Os dados pessoais recolhidos são o nome, a morada, o número de segurança social, bem como a percentagem de vencimento que os empregados pretendem ver descontada para efeitos de aquisição das participações sociais.
+Os dados recolhidos são depois transferidos para uma empresa denominada "Hewitt Associates" que trata da "gestão de dados de forma a comunicar à correctora as ordens de compra".
+Os dados são recolhidos em formulário preenchido pelos próprios empregados e no seu próprio interesse.
+Verificando-se assim que a transferência pode ser autorizada ao abrigo do n° 1 do artigo 20° da Lei n° 67/98, de 26 de Outubro, a CNPD autoriza a empresa Sterling Software (Portugal) Informática Lda. a transferir para a empresa Hewitt Associates nos Estados Unidos da América do Norte os dados acima referidos relativos aos seus empregados que queiram participar no esquema de aquisição de participações sociais.
+Lisboa, 2 de Dezembro de 1998
+Joaquim de Seabra Lopes, relator
+Amadeu F. Ribeiro Guerra
+João 'A. M. Labescat da Silva
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇAO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Luís J. Durão Barroso
+Mário Manuel Varges Gomes
+Nuno A. Morais Sarmento
+Aft rit CH
+Augusto VictorCoelho, presidente
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

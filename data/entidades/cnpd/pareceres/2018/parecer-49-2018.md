@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 49/2018
-official_date: null
+official_date: '2018-10-30'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Ministério dos Negócios Estrangeiros'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:57:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 49/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121639](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121639).
+Processo n.° 10467/2018 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Parecer n.º 49/2018
+O Ministério dos Negócios Estrangeiros, através da Direção-Geral dos Assuntos Europeus, solicitou à Comissão Nacional de Protecção de Dados (CNPD) que se pronunciasse sobre o
+Acordo-Quadro de Parceria e Cooperação entre a União Europeia e os seus Estados-membros, por um lado, e a Malásia, por outro.
+A CNPD, enquanto entidade administrativa independente com poderes de autoridade para o controlo dos tratamentos de dados pessoais, nos termos do n.º 1 do artigo 21.° e n.º 1 do artigo 22.° da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto, emite o presente parecer ao abrigo do disposto na alínea b) do n.° 3 do artigo 58.° do
+Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016
+- Regulamento Geral sobre a Proteção de Dados (doravante, RGPD), restringindo-se aos aspetos relativos à proteção de dados pessoais.
+O Acordo aqui em apreciação, pela natureza estratégica de que se reveste, patente desde logo na sua designação e também no elenco dos seus princípios e objetivos, assume uma forma naturalmente abrangente que dá cobertura a uma parceria entre a União Europeia e a
+Malásia, no sentido de «estabelecer uma parceria reforçada entre as Partes e aprofundar e melhorar a cooperação em questões de interesse mútuo, que reflitam os valores partilhados e os principios comuns» (cf. artigo 2.°).
+Nos termos do artigo 3.°, as Partes comprometem-se a trocar pontos de vista e a cooperar em instancias e organizações regionais e internacionais como as Nações Unidas e as agências relevantes das Nações Unidas, o diálogo EU-ASEAN, o Fórum Regional da ASEAN, a Cimeira Asia-Europa (ASEM), a Conferência das Nações Unidas sobre Comércio e
+Desenvolvimento e a Organização Mundial do Comércio (OMC).
+As Partes acordam em colaborar, mediante acordo mútuo, em cada setor de diálogo e de cooperação através de atividades desenvolvidas a nível regional, ou combinando ambos os quadros, atribuindo a devida importância às questões que se integram na cooperação UE-
+Malásia e tendo em conta os processos regionais de decisão do agrupamento regional em questão.
+Av. D. Carlos I, 134 - 1° | 1200-651 LISBOA | https://www.cnpd.pt | Tel: 213 928 400 | Fax: 213 976 832
+
+Processo n.º 10467/2018 1v.
+Embora o Acordo-Quadro se centre em grande medida na promoção de abordagens comuns nas instâncias internacionais, no intercâmbio de experiências, de informações sobre legislação e na partilha de boas práticas, na troca de pontos de vista, no aprofundamento da cooperação, no reforço da assistência técnica e formação, bem como no correspondente financiamento das atividades, estão igualmente previstas formas de cooperação que implicam necessariamente o tratamento de dados pessoais. É esse o caso, desde logo, da troca de informações sobre grupos terroristas e redes de apoio a que se refere a alínea b) do artigo 5.° e da troca de informações para prevenção e combate ao branqueamento de capitais eo o financiamento do terrorismo, prevista no artigo 24.°; ou ainda a troca de informações e assistência administrativa mútua relativa ao combate à fraude e corrupção, a que se reporta o artigo 48.°.
+Estes tratamentos de dados pessoais não se encontram, porém, especificamente regulados no presente acordo, não obstante a existência de algumas disposições que remetem as partes para instrumentos jurídicos internacionais que integram princípios e regras de proteção de dados ou visam promover essa proteção (cf., por exemplo, o n.º 1 do artigo 2.° e a parte final da alínea b) do artigo 5.°).
+Assinala-se ainda o artigo 52.°, n.º 2, onde se prevê que «as podem completar o presente
+Acordo celebrando acordos específicos em qualquer domínio de cooperação por ele abrangido, ficando esses acordos específicos a fazer parte integrante das relações bilaterais globais, regidas pelo presente Acordo, e integram-se num quadro institucional comum».
+Tratando-se de um acordo-quadro, a CNPD admite não ser este o instrumento adequado para regular os tratamentos de dados pessoais que venham a resultar da sua execução.
+No entanto, sendo Portugal parte neste Acordo, enquanto Estado-Membro da União, está obrigado ao cumprimento das normas nacionais e europeias em matéria de proteção de dados, em particular no que diz respeito às transferências internacionais de dados para um país terceiro - como a Malásia - que não assegura um nível de proteção adequado.
+Sublinha-se, aliás, a este propósito, que as Partes se propõem a intensificar a cooperação com vista a assegurar um elevado nível de proteção de dados pessoais, no artigo 19.° do
+Acordo, o que é naturalmente muito positivo, embora isso não garanta a concretização desse objetivo.
+
+Processo n.º 10467/2018 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Deste modo, no entender da CNPD, a materialização de ações de cooperação ao abrigo deste
+Acordo-Quadro, que impliquem o tratamento de dados pessoais, têm imprescindivelmente de ser reguladas através de acordos específicos bilaterais ou multilaterais, que contenham todas as disposições necessárias sobre proteção de dados pessoais, que permitam suprir a as lacunas da legislação da Malásia nesta matéria. Tais Acordos deverão ser sujeitos à apreciação da CNPD, sejam eles negociados bilateralmente ou através da União.
+Lisboa, 30 de outubro de 2018
+Filipa Calvão (Presidente)
+Av. D. Carlos I, 134 - 1° | 1200-651 LISBOA | https://www.cnpd.pt | Tel: 213 928 400 | Fax: 213 976 832

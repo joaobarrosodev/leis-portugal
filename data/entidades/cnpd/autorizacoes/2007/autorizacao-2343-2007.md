@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE SINTRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,69 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:58:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2343/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/219](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/219).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 36/2002
+AUTORIZAÇÃO N.° 2343/2007
+A Câmara Municipal de Sintra veio notificar à CNPD um tratamento de dados pessoais com a finalidade de Gestão da informação dos Serviços de Segurança, Higiene e Saúde no Trabalho.
+A CNPD já se pronunciou na sua Deliberação n.º 41/2006 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela
+Deliberação n.º 41 /2006. Contudo, é indicado o registo de dados que, nos termos da fundamentação constante da Deliberação supra referida não podem ser tratados.
+Os dados relativos à origem racial ou étnica são excessivos, não pertinentes e inadequados e consequentemente não autorizados.
+O tratamento dos dados sobre hábitos pessoais, designados na notificação como "hábitos", não é admissível excepto nas condições ali definidas. Assim, o registo da alcoolémia só pode ser autorizado, para determinadas categorias profissionais, em situações específicas que possam pôr em perigo a segurança do próprio e/ou de terceiros ou quando houver interesse público relevante que o justifique.
+Relativamente ao tratamento de dados, designado na notificação "Grupos de
+Risco/Vulneráveis" (Adulto, Criança, Diabético, fumador, grávida, idoso,
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.ptg
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS menopausa, mulher fértil, etc.), não se afigura necessário face à finalidade declarada.
+De igual modo se revela desproporcionado, por excessivo e desadequado o tratamento dos seguintes dados: escolaridade, nacionalidade, situação militar e idade em que iniciou o trabalho.
+Notificado o responsável para se pronunciar sobre o teor do projecto de
+Autorização aprovado na sessão plenária de 20 de Março de 2006, nos termos do disposto nos artigos 100.° e 101.° do Código do Procedimento
+Administrativo, nada veio dizer.
+Face ao exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Câmara Municipal de Sintra.
+Finalidade: Gestão da Informação dos Serviços de Segurança, Higiene e
+Saúde no Trabalho.
+Categoria de Dados pessoais tratados: Dados de Identificação, dados de saúde, dados relativos à actividade profissional, dados sobre risco de doença profissional e doenças profissionais. Não estão autorizados os dados sobre origem racial ou étnica, hábitos de vida consumo de tabaco, droga, alcoolémia. Escolaridade, nacionalidade, situação militar e idade em que iniciou a actividade laboral, bem como os dados elencados no campo Grupos de Risco/Vulneráveis, nos termos supra expostos.
+Entidades a quem podem ser comunicados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados.
+A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Inspecção-geral de Trabalho (cf. n.º 2 do artigo 247.° da Lei n.° 35/2004).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http:/www.cnpd.ph2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Formas de exercício do direito de acesso e rectificação: pessoalmente junto do responsável.
+Quanto ao tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n.º 5 do artigo 11.° da Lei n.º 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do trabalhador, o médico do trabalho e no exercício do direito de rectificação deste tipo de dados, deverá o trabalhador exercê-lo directamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não se verificam.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: os dados pessoais podem ser conservados pelo período máximo de um ano após a cessação do vínculo laboral à entidade.
+Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária, designadamente à revisão judicial da incapacidade.
+Lisboa, 12 de NEVeM I de 2007 deteries
+Ana Roque 149.
+Carlos Campos Lobo
+миа
+Eduardo Campos (Relator)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.ptz
+
+COMISSÃO NACIONAL
+DE PROTECÇAODE DADOS
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt4

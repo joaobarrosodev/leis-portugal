@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2495/2012
-official_date: null
+official_date: '2012-03-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Sanofi Pasteur MSD, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:57:46Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2495/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42733](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42733).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 632/2012
+AUTORIZAÇÃON: 2495 12012
+I. Do Pedido
+A Sanofi Pasteur MSD, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para avaliar a incidência de condilomas anogenitais na população que recorre a consulta de dermatologia e/ou DST em Portugal.
+A entidade encarregue do processamento da informação é a KeyPoint, Consultoria Científica,
+Lda., com a qual a responsável pelo tratamento irá celebrar o contrato previsto no art. 14.° da
+Lei n.º 67/98, de 26 de Outubro.
+Serão incluídos no estudo aproximadamente 670 individuos entre os 18 e os 70 anos de idade, com um primeiro episódio conhecido de condilomas genitais, seguidos nas consultas de dermatologia e/ou DST dos hospitais participantes.
+A participação no estudo envolve uma consulta e a colheita no local das lesões de um esfregaço para um tubo seco.
+O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração será conservada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel e electrónico.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida da equipa de investigação.
+As amostras serão enviadas para o Instituto Nacional de Saúde Dr. Ricardo Jorge (INSA), onde serão realizadas análises de genotipagem do HPV, e os dados recolhidos serão analisados pela Unidade de Bioestatística do CIDES (Faculdade de Medicina do Porto).
+As amostras biológicas serão conservadas no INSA até à publicação do relatório final do estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os tundamentos de legitimidade, os principios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Salienta-se, que havendo absoluta necessidade de se usarem amostras identificadas ou identificáveis, estas devem ser codificadas, ficando os códigos armazenados separadamente, mas sempre em instituições públicas (Cfr. 19.°, n.º11 da Lei 12/2005, de 26 de Janeiro).
+Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a)
+do n.º 1 do artigo 28° e art. 30º da Lei de Protecção de Dados, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Termos do tratamento:
+Responsável pelo tratamento: Sanofi Pasteur MSD, S.A.
+Finalidade: Estudo observacional para avaliar a incidência de condilomas anogenitais na população que recorre a consulta de dermatologia e/ou DST em Portugal.
+Categoria de Dados pessoais tratados: código do participante, dados demográficos (idade, sexo, peso e altura), história clínica, exame físico, tratamentos realizados, resultados de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS análises clínicas, resultados do ecocardiograma e do electrocardiograma, resultados do cateterismo cardíaco e parâmetros da função respiratória, resposta aos questionários sobre qualidade de vida e amostras biológicas.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo. As amostras biológicas serão destruídas após a finalização do relatório final do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 19 de Março de 2012
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos
+Campos Lobo, Luís Barroso em Sereia
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

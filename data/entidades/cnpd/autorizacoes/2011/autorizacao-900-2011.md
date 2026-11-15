@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HMP - HOSPITAL MILITAR PRINCIPAL (LISBOA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,75 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:13:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 900/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27597](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27597).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 283/2011
+AUTORIZAÇÃON° 900/201 1 - Hospital Militar Principal veio notificar à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento com a finalidade de prescrição electrónica de medicação aos utentes em regime de ambulatório.
+Os dados recolhidos são o n° de código do doente, o n° de beneficiário e respectivo subsistema, a data da prescrição e as datas da última e da próxima consulta e os medicamentos prescritos pelo médico. Os medicamentos prescritos a cada titular ficam registados no software Sistema de Gestão Integrado do Circuito do Medicamento (cf.
+anexo ao quadro 6 do formulário de notificação). Esta função é de acesso exclusivo pelo médico. Os dados demográficos do doente apenas são apresentados ao médico.
+As medidas de segurança adoptadas são as seguintes: cópias de backup, password de acesso às informações, sistemas de processamento de backup, informação cifrada e sistemas de alarme e resposta, sendo a segurança das instalações garantida mediante o acesso restrito de pessoas. O sistema implementa um módulo de identificação de utilizadores com definição de perfis de acesso pré-definidos, identificação única de cada utilizador e respectiva chave de acesso. Sem utilização do módulo de acesso não é possível o acesso à aplicação. A identificação de cada utilizador, bem como a data e hora, fica associada a cada registo efectuado. O controlo da transmissão e transporte de dados é efectuado pelo utilizador final da aplicação usando a sua gestão interna da rede informática.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www cnnd nt 21 393 00 39
+LINHA PRIVACIDADE
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados de prescrição podem ser comunicados à ACSS - Administração Central do
+Sistema de Saúde -, mediante protocolo, para efeito de conferência de facturas de medicamentos.
+Os dados são tratados com o consentimento dos titulares, sendo a recolha e a actualização dos dados feitas de forma directa - pessoalmente - na presença do médico.
+Está assegurado o direito de acesso dos titulares dos dados à informação, bem como os direitos de correcção e eliminação.
+2 - O n.º 4 do artigo 7° da Lei n.º 67/98, de 26.10, admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde há legitimidade para efectuar o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional. Nessa medida, deve compaginar-se a recolha da informação com o princípio da confidencialidade, respeitando-se, assim, o respectivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3 - A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.º 4 de Lei n° 67/98, de 26.10.
+Parecem adequadas as medidas de segurança adoptadas.
+Alerta-se que as comunicações de dados para terceiras entidades, quando não decorram de disposição legal, carecem de autorização da CNPD.
+Deve ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação e acesso aos titulares dos dados, nos termos dos artigos 10° e 11° n°5 da Lei n° 67/98;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15° nº3 da Lei n° 67/98);
+c) Devem ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7° nº4 da Lei n° 67/98).
+4 - Nestes termos e ao abrigo do disposto nos artigos 7.° n.º 4 e 30.° da Lei n° 67/98, de 26.10, a CNPD autoriza o tratamento automatizado, consignando o seguinte:
+Responsável: Hospital Militar Principal
+Finalidade: Prescrição electrónica de medicação aos utentes em regime de ambulatório
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Categorias de dados pessoais tratados: n° de código do doente, o n° de beneficiário e respectivo subsistema, data da prescrição e datas da última e da próxima consulta e os medicamentos prescritos pelo médico
+Comunicação de dados: à ACSS - Administração Central do Sistema de Saúde -, mediante protocolo, para conferência de facturas
+Forma de exercício do direito de acesso e rectificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.° da Lei n° 67/98.
+Interconexão de dados: não há
+Transferência de dados para países terceiros: não há
+Conservação dos dados:
+a) Dados de saúde - pelo prazo previsto na Portaria n° 247/2000, de 8 de Maio;
+b) Dados para facturação - 10 anos.
+Lisboa, 21 cle Severino de 204
+Luis Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (retatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bcnto, 148-3" • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

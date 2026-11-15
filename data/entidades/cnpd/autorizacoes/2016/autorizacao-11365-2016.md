@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 11365/2016
-official_date: null
+official_date: '2016-10-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SINUTA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,105 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T12:21:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11365/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/97455](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/97455).
+Processo 7472/2015 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Autorização n.º 11365/2016
+I. Pedido
+A empresa SINUTA, S.A. notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais para fins de controlo de assiduidade dos seus trabalhadores por meio de um sistema de identificação biométrica.
+Declarou a requerente pretender proceder ao tratamento de dois dados biométricos: impressão digital e reconhecimento facial. A estes dados, acrescem ainda os seguintes dados pessoais: nome e número de empregado, horário, departamento/secção, escalas de serviço, data e hora de entrada e de saída.
+Declarou igualmente que os dados são armazenados sob a forma de template, numa base de dados central, num estabelecimento único.
+Não há Comissão de Trabalhadores.
+A CNPD emitiu o Projeto de Deliberação n.° 185/2015 no qual demonstrou a sua intenção de não autorizar o tratamento de dois tipos de dados biométricos
+- reconhecimento facial e impressão digital - sobre o mesmo universo de trabalhadores, por não se apresentar como um meio idóneo e necessário, sendo por isso desproporcional.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 7472/2015 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em resposta ao mencionado Projeto de Deliberação a Requerente informou, no dia 24 de agosto de 2015, que iria proceder à i eliminação dos dados biométricos recolhidos através de impressão digital, solicitando, ainda autorização para "dar continuidade à recolha de dados biométricos por reconhecimento facial', sendo assim este o único dado biométrico que pretende tratar para controlo da assiduidade dos trabalhadores. Ademais, a
+Requerente declarou ainda que, por se verificar «troca de picagens» entre dois trabalhadores irmãos gémeos, pretende que a esses dois casos em específico lhes seja autorizado proceder ao tratamento de dados biométricos por impressão digital «ao invés da facial.
+Apreciação
+A CNPD já se pronunciou sobre os princípios aplicáveis aos tratamentos de dados biométricos para controlo de acessos e assiduidade dos trabalhadores na sua Deliberação de 26 de fevereiro de 2004, bem como sobre o enquadramento legal, os fundamentos de legitimidade e as medidas a tomar para o correto cumprimento da Lei de Proteção de Dados (LPD). Decorrem desses princípios os seguintes limites ao tratamento:
+• Não se admite a reversão do dado biométrico, isto é, a descodificação e a reprodução da imagem da característica biométrica;
+• A operação de captação de dados biométricos não pode ser realizada com violação da identidade pessoal do trabalhador (artigo 26.° da CRP),
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas @cnpd.pt
+
+Processo 7472/2015 3 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS com lesão da sua integridade física (artigo 25.°, n.º 1, da CRP) ou com intromissão na intimidade da vida privada;
+• As taxas de falsa rejeição e falsa aceitação devem ser adequadas à prossecução da finalidade declarada;
+• A informação biométrica não pode ser utilizada para outra finalidade que não seja o controlo de assiduidade nos termos declarados;
+Os dados recolhidos são necessários à finalidade que se pretende alcançar.
+A CNPD considera que a informação tratada através do tratamento de dados biométricos por reconhecimento facial é um meio adequado, pertinente, necessário e não excessivo em relação à finalidade específica, explícita e legítima de controlo de assiduidade dos trabalhadores (cf. artigo 5.°, alínea b)
+da Lei 67/98, de 26 de outubro), não envolvendo a utilização desta tecnologia qualquer violação dos direitos de personalidade do trabalhador.
+O fundamento de legitimidade para o tratamento de dados com a finalidade de controlo de assiduidade tem como fonte a previsão do artigo 6.° alínea e) da
+LPD, uma vez que este é feito na «prossecução de interesses legítimos do responsável».
+Atendendo à especificidade dos fins a alcançar, os dados devem ser conservados apenas durante o período de vigência do contrato laboral, devendo ser eliminados de imediato finda a relação contratual.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 7472/2015 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os dados biométricos da impressão digital que tenham eventualmente sido recolhidos devem ser eliminados de imediato, não podendo proceder-se à recolha do dado biométrico relativo à face sem eliminação prévia do dado biométrico da impressão digital.
+No que concerne à pretensão da Requerente respeitante à situação específica de dois trabalhadores irmãos gémeos aos quais o tratamento de dados biométricos por reconhecimento facial não se demonstra adequado, a CNPD autoriza que, nessas situações, sejam tratados os dados biométricos por impressão digital, nunca podendo ser tratado mais que um dado biométrico sobre o mesmo trabalhador.
+Deve ser dado conhecimento aos trabalhadores do teor desta autorização.
+III. Conclusão
+Assim, com os limites fixados, autoriza-se o tratamento notificado ao abrigo do disposto nos artigos 6.° alínea e) e 30.°, n.º 1, da Lei n.º 67/98, de 26 de outubro, nos seguintes termos:
+Responsável: SINUTA, S.A.
+Finalidade: Controlo de assiduidade
+Categoria de dados pessoais tratados: nome e número de empregado, horário, departamento/secção, escalas de serviço, data e hora de entrada e de saída;
+template da face resultante de interpretação algorítmica de pontos
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 7472/2015 5
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS fisiométricos, sem possibilidade de reconstrução do dado biométrico; template da impressão digital - para os casos em que o reconhecimento facial não seja adequado - resultante de interpretação algorítmica de pontos fisiométricos, sem possibilidade de reconstrução do dado biométrico;
+Forma do exercício do direito de acesso: por solicitação presencial ao responsável no seguinte endereço: Zona Industrial Municipal, Lote 3, 3860-529,
+Estarreja
+Comunicação de dados: não há
+Interconexão de dados: não há
+Conservação dos dados: apenas durante o período de duração da relação contratual.
+A requerente deverá assegurar uma efetiva informação prévia aos titulares dos dados em relação às finalidades da recolha dos dados biométricos e às condições da sua utilização, bem como quanto aos restantes elementos exigidos pelo n.° 1 do artigo 10.° da LPD.
+Devem ser encontradas soluções alternativas de controlo para suprir eventuais deficiências do sistema biométrico, especialmente as que resultem de falsas rejeições ou impossibilidade temporária do funcionário apresentar o seu dado biométrico para autenticação ou reconhecimento.
+O titular dos dados pode - quando existam razões ponderosas e legitimas relativas à sua situação particular (cf. artigo 12.° alínea a) da LPD) - exercer o direito de oposição em relação ao tratamento dos seus dados. Neste caso,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 7472/2015 6
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS deve apresentar os fundamentos em que assenta a sua oposição, cabendo ao responsável apreciá-los, podendo a CNPD intervir, em última análise, na apreciação e ponderação dos interesses em presença, de acordo com a alínea e) do artigo 6° e da alínea a) do artigo 12.° da LPD.
+Não podem ser recolhidos e tratados dois dados biométricos diferentes, relativos ao mesmo trabalhador.
+Lisboa, 25 de outubro de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

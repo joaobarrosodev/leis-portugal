@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: VITOR MANUEL NOBRE FAZENDA - (MCDONALD''S ALBUFEIRA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,97 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:32:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 96/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7716](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7716).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 1.513/04
+Autorização N. 96/2005 1.1. Violeta - Refeições Rápidas, Ldª (McDonald's Albufeira) veio notificar o tratamento de videovigilância a instalar no seu estabelecimento de restauração, nos termos que identifica nos autos, tendo informado que inexiste comissão de trabalhadores na empresa.
+2. Foi exarado projecto de Autorização pela CNPD, tendo sido autorizado tratamento de videovigilância, com excepção da colocação de câmaras na copa, na cozinha e na sala de pessoal.
+3. Notificada a Requerente, nos termos e para os efeitos do art° 100° do Código do Procedimento Administrativo, veio esta reiterar o pedido requerido invocando, nomeadamente que, quer na copa, quer na cozinha, a câmara está direccionada para a porta das traseiras que dá acesso ao estabelecimento e para um zona de passagem, pelo que é possível terceiros penetrarem no estabelecimento e terem acesso à zona onde normalmente apenas circulam as mercadorias dirigidas ao estabelecimento;
+- quanto à sala de pessoal, também esta se situa num local recolhido e ao qual terceiros podem ter acesso, pois encontra-se ao lado dos wc's, permitindo a qualquer pessoa a entrada.
+Estando em causa assegurar a prevenção e dissuasão da prática de actos ilícitos", o que seria possível pelos referidos acessos, vem a
+Requerente pedir que seja autorizada a referida instalação.
+Vejamos.
+II - Apreciando e Decidindo:
+1. Através da Deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios gerais e o enquadramento legal sobre o tratamento de dados de videovigilância, tendo aí definido os parâmetros gerais a que o mesmo deve obedecer.
+() Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Destarte, qualquer apreciação jurídica sobre tal matéria deve ter necessariamente em conta o entendimento vertido nessa Deliberação, restando aferir in concreto os pressupostos aludidos na citada Deliberação da CNPD.
+Assim sendo, temos que:
+2. No que concerne à apreciação das condições de tratamento de videovigilância pela entidade responsável, importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (art.
+5.°, n.º 1, al. c), da Lei 67/98, de 26 de Outubro), às condições de legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso quanto aos dados recolhidos pelos sistemas de videovigilância.
+3. Verifica-se, assim, que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade assinalada, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação a essa finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+Com efeito, pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Ora, o que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com a protecção dos seus direitos fundamentais (), bem como registar e documentar a eventual prática de infracções.
+Sendo certo que o tratamento de som ou imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que "situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+(*) O artigo 8.° n.º 2, da Lei n° 67/98, de 26 de Outubro, obriga, como condição a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e de imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+Lp
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 4. Efectivamente, nos estabelecimentos de restauração justifica-se que sejam utilizados estes meios de prevenção para protecção de pessoas e bens na medida em que estamos perante um local frequentado por pessoas, onde é feito o manuseamento de dinheiro.
+Nesta medida, as câmaras funcionam como um factor de dissuasão, tanto mais que estes estabelecimentos são alvo de furtos, nomeadamente durante a noite.
+E em termos de proporcionalidade justifica-se a utilização destes meios de videovigilância neste sector de actividade desde que os mesmos se circunscrevam às zonas de acesso ao estabelecimento e local de estacionamento de veículos, porquanto os direitos dos titulares não se devem sobrepor à execução de uma finalidade que se assegura legítima e que deve ser reconhecida ao responsável.
+Relativamente à instalação de câmaras de videovigilância na cozinha, copa e sala de pessoal, atento o que foi invocado pela
+Requerente sobre esta matéria, apenas se autoriza a colocação de câmaras em zonas de acesso a esses locais, nomeadamente direccionadas para os corredores, porta das traseiras (no caso da "copa") e halls ou átrio que antecedem a sala de pessoal, mas não no interior de tais espaços.
+Com efeito, e conforme se salientou já, os dois primeiros espaços citados tratam-se de locais de trabalho e o próprio Código de Trabalho só permite a instalação e utilização desse tipo de equipamentos desde que tenha por finalidade a protecção e segurança de pessoas e bens ou quando particulares exigências inerentes à natureza da actividade o justifiquem -cf. art° 20°, n° 2 do Código de Trabalho.
+Ora, não se vislumbram razões que justifiquem que "a protecção e segurança de pessoas e bens", de todos aqueles que se encontram a efectuar o seu trabalho no interior da copa e na cozinha deste restaurante, dependa da existência desse controlo.
+Tão pouco se vislumbra a necessidade da colocação de câmaras no interior da sala do pessoal, local destinado por excelência ao convívio e ao lazer, e no qual, as pessoas que o utilizam, têm todo o direito de usufruir de momentos de descanso, de convívio e de lazer, sem serem "vigiados" por meios mecânicos que, a existirem, poriam em causa o seu direito à privacidade.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Ora, a defesa da privacidade dos titulares dos dados tem também consagração e garantias constitucionais, e de acordo com o entendimento que tem sido defendido por esta CNPD tal direito deve prevalecer sobre a utilização de câmaras com fins securitários - orientação já defendida no âmbito de outros processos de igual natureza (cf. Proc. n° 374/2003). 3 E, nessa medida, não deve ser autorizado tal tratamento.
+Por outro lado, afigura-se-nos que em qualquer das referidas situações, um tratamento dessa natureza desrespeita o princípio da proporcionalidade constitucionalmente integrado no art° 18° e se apresenta como inadequado, e excessivo em relação à sua finalidade.
+Assim sendo, entendemos que em tais locais as necessidades de prevenção e de dissuasão da prática de actos ilícitos mostram-se asseguradas com a mera colocação de câmaras nos locais que dão acesso à copa, cozinha e sala de pessoal - nomeadamente, corredores, hall ou átrios de acesso a esses lugares.
+Locais nos quais se autoriza a instalação de câmaras, não podendo, contudo, as mesmas estar direccionadas para os trabalhadores ou por qualquer meio efectuar o controlo laboral ou exercício da actividade destes.
+5. No demais, nenhum obstáculo se suscita por se mostrar adequado, proporcional e legítimo o respectivo tratamento.
+No entanto, o tratamento das imagens deve obedecer a certas condições, que adiante serão explicitadas.
+6. Em Conclusão:
+- Face ao que antecede, decide-se considerar como legítimo o tratamento, autorizando-se, por consequência, a recolha de dados (artigo 8.° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98), nos termos supra definidos, devendo ser observadas, ainda, as seguintes condições:
+1. Responsável: o Requerente.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo 3 Datada de Outubro de 2004 e relatada por Alexandre Pinheiro.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98, de 26/10.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal -imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da
+Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+Deve, ainda, impedir que as câmaras de vídeo sejam direccionadas para quaisquer sistemas ou terminais de pagamento, não podendo as mesmas servir para avaliação ou controlo do desempenho dos trabalhadores (art° 20° do Código do Trabalho).
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 7 dias.
+Lisboa, 2005
+Ana Luísa Geraldes (Relatora)
+Amadeu Guerra
+Alexandre Pinheiro
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos
+Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 6

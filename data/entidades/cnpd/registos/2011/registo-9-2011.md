@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FÉNIX SECURITY GROUP, S. A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:07:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 9/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/36804](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/36804).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 9860/2010
+REGISTO N.°
+/2011
+A Fénix Security Group, Lda. notificou à CNPD um tratamento de dados pessoais com a finalidade de controlo de assiduidade (horário de trabalho).
+Os dados são recolhidos directamente pelo departamento de recursos humanos da empresa
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alínea a) e do artigo 6° da LPD, a execução do contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Fénix Security Group, Lda.
+Controlo de assiduidade (horário de trabalho)
+Finalidade
+Categoria de dados pessoais tratados
+Nome, posto de trabalho, profissão, data de admissão, horário de trabalho, local de prestação do trabalho.
+Comunicação de dados
+Não há
+Forma de exercício do direito de acesso e rectificação
+Interconexões
+Junto do responsável pelo tratamento dos dados presencialmente ou por escrito.
+Não há.
+Fluxo transfronteiriço de dados
+Conservação dos dados
+Não há.
+Período de exercício de funções do funcionário
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no art. 10° da Lei 67/98, de 26 deOutubro
+Lisboa, 11-07-2011
+A Secretária da CNPD,
+Joatrete (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Agrupamento de Escolas de Vil de Soito'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:57:06Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 402/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21376](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21376).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PROCESSO N.º 5360/2007
+AUTORIZAÇÃO N.º (03/2010
+PEDIDO
+O Agrupamento de Escolas de Vil de Soito notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de "Gestão do
+Pessoal Docente e não Docente".
+Pretende tratar os seguintes dados pessoais: Nome, Morada, Números de BI, NIF e NIB,
+Habilitações, Tempo de serviço, Vencimento e Descontos.
+APRECIAÇÃO
+Dados pessoais
+Os dados pessoais a tratar são adequados, pertinentes e não excessivos em relação à finalidade que é determinada, explicita e legitima (cf. artigo 5.° - 1 - b) e c) da Lei 67/98, de 26 de Outubro).
+Condição de legitimidade
+A condição de legitimidade do tratamento é a prevista no artigo 6.° - a) da Lei 67/98, de 26 de Outubro, execução do contrato de trabalho entre o notificante e os trabalhadores titulares dos dados pessoais.
+Segurança
+Devem ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Independentemente das medidas tomadas é o responsável pelo tratamento que está obrigado a garantir sempre a segurança da informação.
+Direito de Informação
+Considerando que importa assegurar um tratamento leal e de acordo com os princípios da boa-fé (cf. artigo 5° n° 1, alínea a), da Lei 67/98, de 26 de Outubro), dando-se particular atenção ao direito de informação (cf. artigo 10° n° 1 da Lei 67/98, de 26 de
+Outubro). Deve o responsável pelo tratamento, no momento da recolha dos dados
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS garantir que são fornecidas ao trabalhador todas as informações constantes do n° 1 do artigo 10° da Lei 67/98, de 26 de Outubro.
+Direito de rectificação
+O direito de rectificação é exercido junto do responsável pelo tratamento, que deverá estabelecer a forma como o titular dos dados o pode fazer, no momento da prestação do direito de informação.
+Notificação
+O tratamento referente ao corpo discente, porque com finalidade diferente e não interligada, deverá ser notificado separadamente (cf. artigo 27.° - n.º 1 da lei 67/98, de 26 de Outubro).
+Em face do exposto e tendo em atenção o estatuído nos artigos 23.° - n.º 1 - b) e 30.º da
+Lei 67/98, de 26 de Outubro, autoriza-se o presente tratamento de dados, nos seguintes termos:
+Responsável: Agrupamento de Escolas de Vil de Soito.
+Finalidade: Gestão do Pessoal Docente e não Docente.
+Categorias de dados pessoais tratados: Nome, Morada, Números de BI, NIF e NIB,
+Habilitações, Tempo de serviço, Vencimento e Descontos.
+Transferência de dados para países terceiros: Não há.
+Interconexões: Não há.
+Forma e condições de exercício de conhecer e eliminar dados pessoais: Por comunicação dirigida ao responsável pelo tratamento.
+Prazo de conservação: Um anos após a cessação do vínculo laboral ao responsável, sem prejuízo da conservação para além daquele prazo por força de obrigação legal. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária.
+Lisboa, de feverilode 2009
+Ana Roque, Carlos Campos Lobo, Helena Delgado António, Luís Barroso, Luís Paiva de Andrade (Relator), Vasco de Almeida, lees
+Luís Lingnau da Silveira (Presidente)

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO-GERAL DOS REGISTOS E DO NOTARIADO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:24:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 8/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5987](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5987).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 982/04
+PARECER N.°08 /05
+I. O pedido
+Na sequência das conclusões do Parecer n.º 32/2004 da Comissão Nacional de
+Protecção de Dados, a Direcção-Geral dos Registos e Notariado (DGRN) solicitou à
+CNPD a emissão de parecer relativamente aos projectos de protocolo a celebrar com o
+Serviço de Estrangeiros e Fronteiras (SEF), com a Polícia de Segurança Pública (PSP) e com a Guarda Nacional Republicana (GNR) relativamente ao acesso por aquelas entidades à base de dados de identificação civil.
+I. Apreciação 1. No Parecer n.º 32/2004 sublinhou-se que, nos protocolos a celebrar entre a PSP, a GNR e o SEF, de um lado, e a DGRN, do outro, deviam ficar devidamente salvaguardadas as medidas de segurança relativamente à informação, adoptando-se o uso de "passwords" para restringir o acesso aos funcionários ou agentes que dele efectivamente necessitem no uso das suas funções.
+O projecto de protocolo acautela esta matéria nos termos constantes das cláusulas 5ª a 8ª que dispõem, em suma, o seguinte:
+- "As consultas serão feitas mediante linha de transmissão de dados, não permitindo o sistema mais do que a consulta por visualização das informações, sem possibilidade de recurso a quaisquer outras operações";
+- A entidade responsável "obriga-se a comunicar a lista de pessoas que irão aceder à base de dados, tendo em vista a atribuição de nomes de utilizador ("usernames") e respectivas palavras-chave ("passwords") de ligação ao sistema";
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+- Os acessos serão individualizados e o utilizador terá uma palavra-chave pessoal, que receberá em carta fechada e que o responsabilizará pelo uso que fizer do serviço;
+- Os acessos ou as tentativas de acesso directo à informação sobre identificação civil ficam registados no sistema por um período de dois anos, podendo o seu registo ser objecto de controlo e auditorias;
+- Na base de dados de controlo de acessos ficarão registados a identificação de quem efectuou a pesquisa, a hora, a data e o terminal a partir do qual foi efectuada bem como o número do processo e do bilhete de identidade pesquisado.
+2. As autoridades policiais não devem também poder modificar, suprimir, adicionar, destruir ou comunicar quaisquer dados da base, devendo apenas poder consultar os necessários ao exercício das suas funções.
+O sistema deve, pois, limitar-se a permitir a consulta por visualização das informações, sem possibilidade de recurso a quaisquer outras operações, tal como consta da cláusula 4ª do projecto de protocolo.
+3. Por último, uma vez que, em conformidade com o disposto no Código de
+Processo Penal, os órgãos de polícia criminal actuam sob a direcção e na dependência da autoridade judiciária competente, o acesso à base de dados de identificação civil no âmbito de um processo judicial, também deverá passar, obrigatoriamente, pela emissão do necessário despacho da autoridade judiciária.
+Esta matéria vem expressamente prevista - e salvaguardada - na cláusula 2ª do projecto, que estipula que os acessos devem identificar o número do processo, tribunal e unidade orgânica a que respeitam, bem como a data do despacho da autoridade judiciária que autorizou a consulta.
+I. Conclusão
+Em razão do exposto e nos termos do n.º 1 do artigo 25º da Lei n.º 33/99, de 18 de
+Maio, a CNPD emite parecer favorável aos projectos de protocolo a celebrar entre a
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+DGRN e a PSP, a GNR e o SEF relativamente às condições de acesso à base de dados de identificação civil, através de linha de transmissão de dados.
+Lisboa, ol de nato de 2005
+Luís Barroso (relator)
+Alexandre Pinheiro
+Amadeu Guerra
+Ana Luísa Geraldes
+Eduardo estade 01
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

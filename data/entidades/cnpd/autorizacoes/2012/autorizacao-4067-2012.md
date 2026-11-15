@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: RXMED - IMAGEM MÉDICA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:32:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4067/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44244](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44244).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 226/2004
+AUTORIZAÇÃO N.º 4067/2012 1. O Pedido
+RXMED - Imagem Médica, S.A. notificou tratamento de dados pessoais destinados à gestão de exames de imagem médica.
+Os dados pessoais a tratar são: Nome, morada, código postal, n.º utente do SNS,
+NIF, BI, data de nascimento, médico de família, profissão, telefone/telemóvel/fax/e-mail, dados clínicos (gravidez, doença oncológica e outros dados com incidência direta sobre a execução de exame e conteúdo do relatório final), resultados dos exames, relatórios finais.
+Como fundamentos de legitimidade aponta-se o consentimento dos titulares, a execução de obrigação contratual e proteção de interesse vital.
+Não existe comunicação de dados, nem interconexão, nem fluxos transfronteiras.
+Como medidas de segurança referem-se o acesso restrito de pessoas e a utilização de cópias de back-up de dados e de palavras-chave de acesso aos dados.
+Os exercícios de direitos de acesso e retificação efetua-se pessoalmente, tace ao responsável.
+2. Apreciação
+A finalidade proposta apresenta-se determinada, explícita e legítima (Lei n.° 67/98, de 26 de Outubro, art.º 5.°, n.º 1, al. b)).
+Os dados a tratar são adequados, pertinentes e não excessivos (ibidem, al. c)).
+O fundamento da legitimidade adequado é o constante do n.º 4 do art.º 7.º da Lei n.° 67/98, pois o tratamento tem em vista diagnóstico médico.
+Segundo essa norma, o tratamento tem de ser realizado por médicos ou outras pessoas também sujeitas a sigilo profissional e com garantia de medidas adequadas de segurança da informação - o que se considera ocorrer neste caso.
+O prazo de conservação apresenta-se ajustado, tendo em conta que os resultados deste tipo de exames podem ter relevância em situações que ocorram vários anos após a sua realização.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE /2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. Autorização
+Tendo em conta o exposto, e com base nos arts. 7.°, n.º 4 e 30.º da Lei n.º 67/98, a
+CNPD profere a seguinte autorização:
+a) Responsável
+RXMED - Imagem Médica, S.A.
+b) Finalidade
+Gestão de exames de imagens médicas c) Dados a tratar
+Nome, morada, código postal, n.º utente do SNS, NIF, Bl, data de nascimento, médico de família, profissão, telefone/telemóvel/fax/e-mail, dados clínicos (gravidez, doença oncológica e outros dados com incidência direta sobre a execução de exame e conteúdo do relatório final), resultados dos exames, relatórios finais.
+d) Comunicações
+Não há e) Interconexões
+Não há f) Fluxos transfronteiriços
+Não há g) Modo do exercício dos direitos de acesso e retificação
+Pessoalmente, perante o responsável
+Lisboa, $7 do locio de 2012
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso, Luís
+Paiva de Andrade, Vasco de Almeida
+Luís Lingnau da Silveira (Presidente), que relatou
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE /2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MONTE DE PIEDAD Y CAJA GENERAL DE AHORROS DE BADAJOZ'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:36:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 346/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3249](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3249).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 300/07
+Autorização n° /2007 1. A entidade Monte de Piedad Y Caja General de Ahorros de Badajoz veio notificar um tratamento de dados que tem como finalidade o "controlo do uso legítimo de documentos de identificação". Os dados tratados são o nome, a morada, o n° de BI, o NIF e o telefone.
+2. Os dados recolhidos, pelo grau de detalhe e pelas finalidades a que se destinam (averiguar se alguma das pessoas que avisaram junto do Banco de
+Portugal do roubo da sua documentação é cliente do Monte de Piedad Y Caja
+General de Ahorros de Badajoz), integram-se no conceito de informação tendente ao apuramento do "crédito e solvabilidade" dos titulares. Por isso, a necessidade de autorização da CNPD (cf. art. 28.° n.º 1 al. b) da Lei 67/98, de 26 de Outubro).
+Em face das finalidades indicadas pela requerente, os dados são pertinentes, adequados e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98).
+A Monte de Piedad Y Caja General de Ahorros de Badajoz tem legitimidade para o tratamento destes dados, recolhidos através de comunicação do Banco de Portugal.
+3. A Monte de Piedad Y Caja General de Ahorros de Badajoz propõe-se fazer interconexões de dados com o ficheiro relativo a gestão de clientes, com o "exclusivo propósito de verificar se algum cliente foi objecto de roubo da sua documentação'.
+Não existem fluxos transfronteiras de dados.
+4. O tempo de conservação é de 10 anos sobre a cessação da relação contratual, quanto a clientes, e de 10 anos sobre o aviso do Banco de Portugal, no caso de não clientes.
+Em face do exposto a CNPD autoriza o tratamento, nos termos declarados e com as especialidades constantes da presente autorização, consignando-se,
+Rua de São Bento. 148 - 3.° -- 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+D
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS nos termos dos artigos 27.°, 28.° n.º 1 al. b) e 30.º da Lei 67/98, de 26 de
+Outubro, o seguinte:
+1. Responsável: Monte de Piedad Y Caja General de Ahorros 2. Categorias de dados pessoais tratados: nome, a morada, o n° de Bl, o
+NIF e o telefone.
+3. Finalidade: controlo do uso legítimo de documentos de identificação 4. Forma de exercício do direito de acesso e rectificação: Pessoalmente ou por escrito.
+5. Eventuais interconexões: ficheiro relativo a gestão de clientes da mesma entidade.
+Lisboa,5 de 1Kulo de 2007.
+Ana Roque (relatora)
+Luís Barroso
+Eduardo Campos
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

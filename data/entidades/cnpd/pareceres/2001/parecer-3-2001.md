@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO SECRETARIA DE ESTADO DO TESOURO E DAS FINANÇAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:31:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 3/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6101](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6101).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 22/01
+PARECER N.° 3 /2001
+Sobre acesso por parte das Sociedades Financeiras para Aquisições a
+Crédito (SFAC's) a informações do Banco de Portugal sobre inibição do uso do cheque tendo em vista a avaliação do risco de crédito de pessoas singulares e colectivas
+O Senhor Secretário de Estado do Tesouro e das Finanças veio solicitar parecer da Comissão Nacional de Protecção de Dados (CNPD) sobre o assunto mencionado em epígrafe, remetendo para o efeito cópia de uma exposição a si dirigida pela Associação de Sociedades Financeiras para
+Aquisições a Crédito (ASFAC) em 19 de Março de 1998.
+A questão em causa já havia sido directamente colocada à CNPD pela ASFAC (proc. n.º 288/00), no qual esta solicitava parecer relativo a uma proposta de alteração legislativa que pretendiam ver concretizada no sentido de ser autorizado por via legal o acesso por parte das Sociedades Financeiras para
+Aquisições a Crédito (SFAC's) a informações do Banco de Portugal sobre inibição do uso do cheque tendo em vista a avaliação do risco de crédito de pessoas singulares e colectivas.
+No entanto, a CNPD pela Deliberação n.º 44/2000, de 19 de Dezembro decidiu não conhecer do fundo da questão em virtude de ter considerado que a atribuição consultiva prevista no n.º 2 do art.º 22.° da Lei n.º 67/98, de 22 de
+Outubro (Lei da Protecção de Dados Pessoais) nos termos da qual deve a
+CNPD ser consultada sobre quaisquer disposições legais relativas ao tratamento de dados pessoais, competindo, nos termos do art.º 23 n.º 1 al. a)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+z
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS do mesmo diploma, emitir parecer sobre essas mesmas disposições, só faz sentido no pressuposto de que esse pedido de parecer lhe seja dirigido por órgão de soberania com poder legislativo, nesse sentido foram invocadas deliberações anteriores da CNPD nos processos n.° 108/ 2000 e 267 / 2000.
+Na mesma Deliberação foi salientado que uma alteração legislativa na matéria careceria sempre de parecer prévio da CNPD a solicitar pelo Governo, caso este pretendesse efectivamente concretizar semelhante alteração.
+Assim,
+Constata-se agora que o Governo, através da Secretaria de Estado do Tesouro e das Finanças, vem pedir parecer sobre a mesma matéria, mas limitando-se a juntar cópia de exposição da ASFAC em que esta reinvindica que seja autorizada legalmente o acesso, pelas instituições de crédito não expressamente previstas no DL n.º 454/91, de 28 de Dezembro, às informações do Banco de Portugal sobre inibidos do uso de cheque.
+Por conseguinte, entende esta CNPD que não se acham verificados os pressupostos legais relativos a um pronunciamento sobre a questão de fundo na medida em que não foi remetida a este órgão qualquer projecto de diploma legal que reflicta a opção legislativa na matéria por parte de órgão de poder político com competência para tal. Não se achando verificado este requisito essencial, que decorre aliás das disposições conjugadas dos artigos 22.? e 23 n.º 1 al. a) da Lei n.º 67/98, não há lugar há emissão de qualquer parecer sobre a questão posta.
+Todavia, nota uma vez mais a CNPD que uma eventual revisão legislativa que se venha a realizar em âmbito tão sensível deve ser objecto de Parecer
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976,832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS desta Comissão, a enviar pelo Governo caso pretenda efectivamente concretizar semelhante modificação.
+Nota-se ainda que os pedidos de parecer devem conter as informações constantes do art.º 29.º da Lei de Protecção de Dados e contemplar os aspectos mencionados no art.º 30.º da referida Lei.
+Lisboazode Fevereiro de 2001
+João Paulo Simões de Almeida (relator)
+-ran
+Luís José Durão Barroso
+Amadeu Francisco Ribeiro Guerra
+Cataring armento Castros
+Catarina Teresa Rola Sarmento e Castro
+Mário Manuel Varges Gomes (Presidente em regime de substituição)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 93/2023
-official_date: null
+official_date: '2023-11-08'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Secretário de Estado da Justiça'
-- 'Texto incompleto: 1 de 2 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,8 +70,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:49:58Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
@@ -95,3 +94,13 @@ a segunda alteração à Portaria n. o 209/2017, de 13 de julho, que regulamenta
 Av. D. Carlos I, 134, 1 ° 1200-651 Lisboa
 T (+351) 213 928 400
 F(+351)213976832
+
+PAR/2023/94 | 1v.
+igualmente aumentado para 20 MB o limite aplicável à dimensão das certidões emitidas no âmbito dos processos dos tribunais judiciais, dos tribunais administrativos e fiscais e da competência do Ministério
+Público.
+5. Note-se que a alteração introduzida ao n.º 3 do artigo 10.°-A da Portaria 380/2017, de 19 de dezembro, relativo a prática de atos processuais por entidades públicas no âmbito do processo judicial tributário, prevê que mediante protocolo a celebrar com o Instituto de Gestão Financeira e Equipamentos da Justiça, I.P., podem as entidades públicas realizar comunicações entre os serviços da administração tributária, o serviço periférico local e o órgão de execução fiscal e os tribunais tributários, incluindo o envio de peças processuais e documentos, através de serviço de interoperabilidade entre o respetivo sistema de informação e o sistema informático de suporte à atividade dos tribunais administrativos e fiscais, e fixar as condições desse envio, designadamente a respetiva dimensão.
+6. Nos termos do preâmbulo, as alterações propostas permitirão a minimização do universo de situações em que as peças e os documentos são apresentados separadamente ou mesmo por outros canais alternativos, potenciando a significativa redução do esforço associado à respetiva digitalização e arquivo pelas secretarias dos tribunais, com todos os benefícios em matéria de redução de custos e de melhor e mais eficaz gestão dos recursos humanos associados a este tipo de tarefas.
+7. As alterações propostas não suscitam novas questões do ponto de vista do regime jurídico de proteção de dados pessoais.
+III. Conclusão 8. O Projeto de Portaria não suscita questões do ponto de vista da proteção de dados pessoais.
+Lisboa, 8 de novembro de 2023
+Maria Cândida Guedes de Oliveira (Relatora).

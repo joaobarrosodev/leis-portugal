@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ESEGUR - EMPRESA DE SEGURANÇA, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:07:28Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 1/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/29599](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/29599).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 10020/2008
+REGISTO N.° 1 / 2011
+A Esegur, Empresa de Segurança, S.A., notificou à CNPD um tratamento de dados pessoais com a finalidade de controlo de acessos.
+Os dados são recolhidos directa e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alínea a)
+do artigo 6º da LPD, a execução do contrato.
+Assim, de acordo com as disposições conjugadas dos artigos 27° n.º 1 e 30º n.° 1 da Lei n.º67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+Esegur, Empresa de Segurança, S.A
+Finalidade
+Categoria de dados pessoais tratados
+Controlo de Acessos
+Nome, número de funcionário, data e hora de entrada e saída.
+Comunicação de dados
+Não há.
+Forma de exercício do direito de acesso e rectificação
+Por escrito, junto da Direcção de segurança da responsável pelo tratamento dos dados
+Interconexões
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Conservação dos dados 1 ano após a cessação da relação laboral
+Aos titulares dos dados deve ser garantido o direito de informação previsto no art. 10° da Lei 67/98, de 26 de Outubro.
+Alerta-se a responsável de que o tratamento ora notificado é apenas admissível para o controlo de acessos às instalações, não podendo ser utilizado para qualquer outra finalidade.
+Lisboa, 20/03/2011
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

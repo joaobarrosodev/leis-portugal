@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BIOLABOR - LABORATÓRIO DE ANÁLISES CLÍNICAS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:37:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 274/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3324](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3324).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 3504/06 274
+Autorização n°*
+/2007 1. O Laboratório de Análises Clínicas BIOLABOR, Lda., sociedade comercial por quotas, vem proceder à notificação do tratamento que tem como finalidade a gestão dos registos dos utentes do laboratório relativos a análises clínicas efectuadas. São recolhidos dados sobre identificação dos utentes: nome, data de nascimento, telefone, morada, NIF, sistema de saúde e n° de beneficiário, análises realizadas e respectivos resultados.
+2. A Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais. Em relação ao tratamento de dados de saúde admite o artigo 7.° n.° 4 o seu tratamento quando for necessário «para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional» e desde que sejam «garantidas medidas adequadas de segurança da informação».
+A informação tratada é recolhida de forma lícita (art. 5.° n.° 1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (art. 5.° n.° 1 al. b).
+A CNPD considera que existe legitimidade para o tratamento destes dados -por força do artigo 7.° da Lei 67/98, de 26 de Outubro - na medida em que se destina à medicina preventiva, ao diagnóstico médico e à gestão de serviços de saúde.
+Em face do exposto a CNPD autoriza o tratamento relativo aos registos à gestão dos registos dos utentes do laboratório BIOLABOR, Lda., relativos a análises clínicas aí efectuadas, nos termos do artigo 30.° da Lei 67/98, consignando o seguinte:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 1. Responsável: Laboratório de Análises Clínicas BIOLABOR, Lda.
+2. Categorias de dados pessoais tratados: nome, data de nascimento, telefone, morada, NIF, sistema de saúde e n° de beneficiário, análises realizadas e respectivos resultados. Relativamente a exames médicos e respectivos resultados, o tratamento desses dados só pode ser efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional e desde que sejam «garantidas medidas adequadas de segurança da informação.
+3. Finalidade: medicina preventiva, ao diagnóstico médico e à gestão de serviços de saúde prestados aos utentes do Laboratório.
+4. Forma de exercício do direito de acesso e rectificação: é assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.°.
+6. Não há interconexão de dados.
+7. Não há transferência de dados para países terceiros.
+8. Conservação dos dados: 5 anos.
+22
+Lisboa, de Fevereiro de 2007.
+Ana Roque (Rotatoră)
+Carlos Campos Lobo'
+Luís Barroso
+Helena Delgado António
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Eduardo Campos
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

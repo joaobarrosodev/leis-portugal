@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AdP - Águas de Portugal, SGPS, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T17:56:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4588/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/77269](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/77269).
+Processo 3933/2014 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.ºÝC8/2015
+AdP - AGUAS DE PORTUGAL, SGPS, S.A., veio notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão da informação dos Serviços de Medicina no Trabalho.
+A entidade encarregue do processamento da informação é SAGIES - SEGURANÇA,
+HIGIENE E MEDICINA NO TRABALHO, S.A., entidade com a qual a responsável pelo tratamento celebrará o contrato previsto no artigo 14.° da Lei n.º 67/98, de 26 de outubro.
+A CNPD já se pronunciou na sua Deliberação n.º 840/20101 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados (LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela Deliberação n.° 840/2010.
+Os dados recolhidos são necessários e pertinentes para a finalidade declarada (cf.
+artigo 5° da LPD).
+O fundamento de legitimidade é - nos termos do n.° 2 do artigo 7° da LPD - a Lei, consubstanciada nos artigos 281° a 284° do Código do Trabalho e na Lei n.° 102/2009, de 10 de Setembro.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos n.º 2 do artigo 7.°, alínea a), do n.°1 do artigo 28° e artigo 30° da Lei n.º 67/98, de 26 de outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam o presente instrumento de legalização, autoriza-se o tratamento notificado nos seguintes termos:
+Disponível em http://www.cnpd.pt/bin/orientacoes/DEL_ 840_2010_MED_trabalho_actualizada.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 3933/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: AdP - ÁGUAS DE PORTUGAL, SGPS, S.A.
+Finalidade: Gestão da informação dos Serviços de Medicina no Trabalho
+Categoria de dados pessoais tratados:
+dados de identificação pessoal dos colaboradores - nome, sexo, nacionalidade, n.º mecanográfico, categoria profissional, função, local de trabalho, data de nascimento, data de admissão, data de admissão na função e data da ultima ficha de aptidão. Lista de dados pessoais tratados: A)
+Anamnese sobre: antecedentes profissionais, antecedentes clínicos pessoais, antecedentes familiares, estado de saúde à data do exame, inquérito sobre o posto de trabalho e eventuais patologias associadas a essa atividade. B) Exame Objetivo: perfil psicológico, biométricas, exame clínico que inclui a avaliação física por aparelhos e sistemas; observação da pele e mucosas; observação da cabeça e pescoço; acuidade visual e auditiva; observação cardíaca e pulmonar, observação abdominal, observação dos membros; exame neurológico sumário.
+Comunicação de Dados: Sem prejuízo das comunicações legalmente previstas, nãc pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Autoridade para as Condições de Trabalho (cf. n.º 2 do artigo 109.° da Lei n.° 102/2009, de 10 de setembro)
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Forma de exercício do direito de acesso e retificação: O direito de acesso deverá ser exercido, nos termos do n.º 5 do artigo 11.º da Lei ° 67/98, de 26 de outubro, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do trabalhador, o médico do trabalho e no exercício do direito de retificação deste tipo de dados, deverá o trabalhador exercê-lo diretamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 3933/2014 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Interconexões: Não se verificam
+Fluxo transfronteiriço de dados: Não há
+Prazo Máximo de Conservação dos dados: Os dados pessoais podem ser conservados pelo período máximo de cinco anos após a cessação do vínculo, sem prejuízo da sua conservação para além do referido período caso seja necessário em sede de procedimento judicial em virtude de doenças profissionais e/ou acidentes de trabalho, incluindo em caso de revisão judicial do grau de incapacidade para o trabalho.
+No caso dos registos de dados dos trabalhadores estarem em situação suscetível de implicar risco para o património genético, o prazo de conservação é de 40 anos.
+Dos termos e condições fixados na Deliberação n.° 840/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve igualmente dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 12 maio de 2015
+File
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

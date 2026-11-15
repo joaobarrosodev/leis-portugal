@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 74/2008
-official_date: null
+official_date: '2008-02-11'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Sottotour Est. Promoção Viagens Turismo e Lazer, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 74/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1009](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1009).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 919/07
+Registo n.° 14 108
+Sottotour -Viagens, Turismo e Lazer, SA notificou um tratamento de dados pessoais com a finalidade de marketing .
+Declara as seguintes categorias de dados pessoais: Nome, morada, telefone e e-mail.
+Os dados são recolhidos directamente, por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea e) do artigo 6° da LPD, o interesse do responsável.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Sottotour -Viagens, Turismo e Lazer, SA
+Categoria de dados pessoais tratados - Nome, morada, telefone e e-mail.
+Finalidade - marketing.
+Forma de exercício do direito de acesso e rectificação - Por solicitação por e-mail ao responsável.
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação dos dados - 5 anos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° e o direito de, no momento da recolha, se oporem à utilização dos seus dados para fins de marketing.
+Lisboa, 11 de Fevereiro de 2008
+A Secretária da CNPD sabes
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

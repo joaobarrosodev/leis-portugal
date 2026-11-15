@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FARMÁCIA SOUSA ROCHA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:18:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 885/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7018](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7018).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° 2391/02
+Autorização n.° /05
+A Farmácia Sousa Rocha veio solicitar a legalização dos seus tratamentos de dados pessoais com a finalidade de permitir ao farmacêutico a dispensa de medicamentos, a gestão de stocks e a facturação.
+Os dados recolhidos são: nome, morada, número de contribuinte do cliente e os medicamentos objecto de aquisição a crédito. Atendendo à natureza sensível dos dados tratados é necessária a prestação de consentimento pelo titular.
+Os dados são conservados enquanto subsistir uma relação de económica entre a
+Farmácia e o titular dos dados.
+A recolha e actualização de dados é feita directamente.
+Como medidas de protecção existem: cópias de backup, password de acesso a informações e sistemas de alarme e resposta.
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante da recolha (artigo 5.°, n.º 1, alínea c) da Lei n.º 67/98, de 26 de
+Outubro).
+Em face do exposto, e tendo em atenção o disposto nas disposições combinadas nos artigos 28.° e 30.° da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados de dados referidos nos seguintes termos:
+Responsável: Farmácia Sousa Rocha
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Categoria de dados tratados: nome, morada, número de contribuinte e produtos adquiridos a crédito. No fim da relação económica estes devem ser apagados do sistema.
+Finalidade: Permitir ao farmacêutico a dispensa de medicamentos, a gestão de stocks e a facturação.
+Comunicação de dados: Não se verifica.
+Não há fluxos transfronteiras.
+Forma de exercício dos direitos de acesso e rectificação: através de contacto directo com a farmácia.
+Lisboa, Zyde Outubro de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Arden ly
+Amadeu Guerra
+Ana Luísa Geraldes
+Eduardo Campos
+Luís Lingnau da Silveira
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

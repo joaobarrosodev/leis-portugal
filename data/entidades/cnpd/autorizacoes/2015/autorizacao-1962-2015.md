@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CDI Clinica de Diagnóstico pela Imagem, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,81 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T18:41:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1962/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/74559](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/74559).
+Processo n° 322/2015 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N° 1962/2015
+I - O Pedido
+CDI - Clínica de Diagnóstico pela Imagem, S.A., com sede na Praça Dr. Rosado da
+Fonseca, n° 8, Urbanização Horta dos Telhais, 7000-749 Evora, notificou à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de processos clínicos.
+Os dados pessoais objeto de registo são os seguintes: nome, sexo, data de nascimento, morada, contactos telefónicos, endereço eletrónico, NIF, n.° de beneficiário, subsistema de saúde, regime de isenção, médico assistente/centro de saúde, dados de marcação, exames/consultas requisitadas, forma de envio dos resultados, relatório clínico, dados imagiológicos, dados clínicos (anamnese, história clínica, exame físico, diagnóstico, prognóstico, MCDT, terapêutica, dados sobre os medicamentos prescritos, notas e avaliação de enfermagem, alta, pareceres médicos, processo cirúrgico), dados de facturação.
+Os dados são recolhidos de forma direta, presencialmente, por telefone, pela internet no sítio www.euromedic.pt.
+Não se verifica comunicação de dados a terceiros nem interconexões.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem, presencialmente junto do responsável.
+Foram declaradas medidas de segurança física e lógica.
+Pretende-se a conservação dos dados clínicos e dos dados de faturação pelo prazo de dez anos.
+II - Apreciação
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 322/2015 | 2 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 1 - O n.º 4 do artigo 7° da Lei n.º 67/98, de 26 de outubro (LPD), admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efetuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde há legitimidade para efetuar o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional.
+Nessa medida, deve compaginar-se a recolha da informação com o princípio da confidencialidade, respeitando-se, assim, o respetivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+2 - A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.º 4 de Lei n° 67/98, de 26 de outubro.
+O prazo para a conservação dos dados clínicos deve respeitar o previsto na Portaria n° 247/2000, de 8 de maio.
+Admite-se a conservação dos dados para faturação pelo prazo de 10 anos.
+Deve ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação e acesso aos titulares dos dados, nos termos dos artigos 10° e 11° nº5 da LPD;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 322/2015 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15° nº3 da LPD);
+c) Devem ser adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7° nº4 da LPD).
+Caso os dados sejam recolhidos através de inscrição on line, o titular dos dados deve ser informado de que os dados pessoais podem circular em rede aberta sem condições de segurança, correndo o risco de serem vistos e utilizados por terceiros não autorizados (artigo 10° nº4 da Lei n° 67/98, de 26 de outubro).
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento é a esta que cabe assegurar o resultado de efetiva segurança da informação e dos dados tratados.
+III - Conclusão
+Nestes termos e ao abrigo do disposto nos artigos 7.° n.º 4 e 30.° da Lei n° 67/98, de 26 de outubro, a CNPD autoriza o tratamento notificado, consignando o seguinte:
+Responsável: CDI - Clínica de Diagnóstico pela Imagem, S.A.;
+Finalidade: gestão de processos clínicos;
+Categorias de dados pessoais tratados: nome, sexo, data de nascimento, morada, contactos telefónicos, endereço eletrónico, NIF, n.º de beneficiário, subsistema de saúde, regime de isenção, médico assistente/centro de saúde, dados de marcação, exames/consultas requisitadas, forma de envio dos resultados, relatório clínico, dados imagiológicos, dados clínicos (anamnese, história clínica, exame físico, diagnóstico, prognóstico, MCDT, terapêutica, dados sobre os medicamentos prescritos, notas e avaliação de enfermagem, alta, pareceres médicos, processo cirúrgico), dados de facturação;
+Comunicação de dados: não se verifica;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 322/2015 | 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Forma de exercício do direito de acesso e retificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.° da Lei n° 67/98, de 26 de outubro. Quanto ao direito de acesso aos dados de saúde deve o mesmo ser assegurado através de «médico escolhido pelo titular dos dados» nos termos do artigo 11.° n.° 5 da mesma Lei;
+Interconexão de dados: não há;
+Transferência de dados para países terceiros: não há;
+Conservação dos dados:
+a) Dados de saúde - pelo prazo previsto na Portaria n° 247/2000, de 8 de maio;
+b) Dados para faturação - 10 anos.
+Lisboa, 3 de marça à 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

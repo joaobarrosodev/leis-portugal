@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1539/2008
-official_date: null
+official_date: '2008-07-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INTRUM JUSTITIA PORTUGAL - CONDULTADORIA E APOIO À GESTÃO DE CONTAS CORRENTES UN'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:24:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1539/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5873](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5873).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 2303/08
+AUTORIZAÇÃO N.°) 53 2008
+A sociedade comercial unipessoal por quotas denominada Justitia Portugal -
+Consultadoria e Apoio à Gestão de contas correntes Unipessoal, Lda., notificou à Comissão Nacional de Protecção de Dados (CNPD) os tratamentos de gestão de Recursos Humanos em relação aos seus colaboradores, indicando como finalidade do tratamento " gestão administrativa de prestadores de serviços, que inclui o processamento de retribuições".
+As categorias de dados tratados, que constam do ponto n.º 5 do formulário e são dados identificativos e NIB, bem como dados relativos à actividade laboral prestada, são necessárias e não excessivas em relação à finalidade (cf. art. 5.° da Lei 67/98, de 26 de Outubro). Há comunicação de dados para a sociedade comercial detentora da responsável, INTRUM JUSTITIA DATA CENTRE B.V., na Holanda. Não há quaisquer fluxos para países terceiros ou interconexões.
+Os dados recolhidos podem ser conservados por 5 anos após o fim da relação laboral. Os titulares podem exercer o seu direito de correcção por contacto directo com o Departamento Financeiro da entidade responsável.
+Face ao exposto, delibera esta CNPD, nos termos do disposto no n.º 1 do artigo 30.° da Lei n.º 67/98, de 26 de Outubro, Autorizar o tratamento de dados pessoais relativos à gestão de recursos humanos, com fundamento no disposta do artigo 6°, alínea e).
+Responsável: Justitia Portugal
+Categoria de dados pessoais tratados: dados identificativos e NIB
+Finalidade: gestão de recursos humanos
+Prazo de conservação: 5 anos após o fim da relação laboral
+Lisboa, 17 de Julho de 2008.
+Ana Róque (relatora)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Carlos Lobo celas
+Helena Delgado António
+Luís Barroso
+OTHO
+Eduardo Campos
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BRIOLEVEL CLÍNICAS UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:52:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 665/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21582](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21582).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 7071/2009
+AUTORIZAÇÃON° 665 2010 1 - Briolevel Clínicas, Unipessoal, Lda, vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de processos de clientes.
+Os dados pessoais objecto de recolha são os seguintes: Nome, data de nascimento, profissão, e-mail. Mediante o preenchimento de um questionário, de que foi junto modelo aos autos, são ainda recolhidos dados de saúde e da vida privada.
+Os dados são recolhidos com o consentimento escrito e expresso do titular, que apõe a sua assinatura no questionário de recolha de dados acima referido.
+Está assegurado o acesso, rectificação e eliminação dos dados a requerimento do titular.
+Como fundamento de legitimidade a requerente invoca o consentimento dos titulares e a inexistência de intromissão na vida privada ou de discriminação.
+A segurança física das instalações está garantida pelo acesso restrito de pessoas.
+A responsável pelo tratamento compromete-se a garantir a confidencialidade de qualquer tipo de informação pessoal.
+A requerente propõe-se conservar os dados pelo período de 5 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 2 - Porque referentes à vida privada, os dados tratados têm a natureza de sensíveis, razão pela qual o respectivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n° 2 do artigo 7° da Lei n° 67/98, de 26.10.
+Por esta razão é necessário, no caso em apreço, o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objecto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10° da Lei n.º 67/98, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação explicativa sobre os objectivos e metodologia da actividade que se pretende desenvolver.
+No caso, o modelo de declaração junto ao formulário de notificação, no qual o titular dos dados apõe a sua assinatura, contém a necessária informação acerca do tratamento a realizar.
+O tratamento de dados pessoais objecto de notificação está na disponibilidade dos seus titulares, apenas a estes cabendo decidir se pretendem prestar as informações em causa e autorizar a recolha de informação para a finalidade pretendida, pelo que a Comissão
+Nacional de Protecção de Dados considera existir legitimidade para o tratamento dos dados nos termos dos artigos 3°, alínea h), e 7° nº2 da Lei n° 67/98, de 26.10.
+A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas enod st
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados devem ser exactos e, se necessário, actualizados (artigo 5°, alínea d), da Lei n° 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da Lei n° 67/98), sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou rectificados os dados inexactos ou incompletos ou não necessários (artigo 5° n.º 1, alíneas c) e d) e n.° 3 da Lei n° 67/98).
+Nesta conformidade, e atenta a finalidade do tratamento e a natureza dos dados tratados, a CNPD determina que a informação sobre os dados de saúde só possa ser conservada pelo período de seis meses após o fim da relação contratual.
+O responsável deve adoptar medidas técnicas e organizativas adequadas a proteger os dados pessoais, as quais devem atestar um nível de segurança adequado em relação aos riscos que o tratamento apresenta e à natureza dos dados a proteger.
+3 - Em face do exposto e observadas as condições assinaladas, a Comissão Nacional de
+Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 28 nº1, alínea a), e 30.º nº1 da Lei n.º 67/98, de 26.10, consignando-se o seguinte:
+Responsável do tratamento: Briolevel Clínicas, Unipessoal, Lda
+Categorias de dados pessoais tratados: nome, data de nascimento, profissão, e-mail, dados de saúde e da vida privada
+Finalidade: gestão de processos de clientes
+Forma de exercício do direito de acesso e rectificação: mediante pedido dirigido à responsável
+Interconexão e transferência de dados: não há
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Tempo de conservação dos dados: dados de identificação e contacto - 5 anos após o fim da relação contratual; dados de saúde e da vida privada - 6 meses após o fim da relação contratual.
+Lisboa, 2a de Seveniro de 20lo
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade eles Salves
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 965/2004
-official_date: null
+official_date: '2004-09-28'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: RCI GEST SEGUROS - CORRETORES, LDª(EX:GEST SEGUROS-CORRETORES, LDª)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:40:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 965/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8314](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8314).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 116/98
+AUTORIZAÇÃO N. 965 12004 1. A RCI GEST Seguros, Correctores, Ld." pretende desenvolver software que permita consultar, num único écran, a conta corrente global dos clientes do Grupo, independentemente da origem, titularidade ou natureza da relação contratual estabelecida. Ou seja, pretendem realizar uma interconexão de dados entre as empresas do Grupo para evitar a consulta sistemática de informação.
+Todas as empresas envolvidas estão autorizadas pela CNPD a fazer «transmissão reciproca de dados dos seus clientes».
+Pretendem fazer a interconexão dos seguintes dados:
+a) Nome;
+b) N.° de Contribuinte;
+c) Domicílio;
+d) Contratos activos e findos (duração, montante, valores pagos, prestações vencidas, prestações vincendas, saldo devedor ou credor, prestações em mora ou incumprimento);
+e) Identificação dos garantes.
+2. Se as entidades envolvidas estão legalmente autorizadas a comunicar os dados entre si (veja-se a autorização n.º 36/98), quando haja consentimento, interessa-lhes fazer uma comparação de dados por forma a verificar, nomeadamente, se os titulares dos dados já são seus clientes, se mudaram de morada, bem como sobre os contratos activos e findos.
+Isto é, pretende-se que, através de operação de interconexão, evitar múltiplas pesquisas aos sistemas de informação das empresas do Grupo.
+A comparação será feita através de uma "operação de interconexão", na acepção do artigo 3.° al. i) da Lei 67/98, ou seja, através do «relacionamento dos dados de um ficheiro com os dados de outro ficheiro mantido por outro ou outros responsáveis».
+Esta operação de interconexão não relaciona dados sensíveis, é adequada à prossecução das finalidades legais e estatutárias e de interesses legítimos dos responsáveis pelos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS tratamentos, não implica discriminação ou diminuição dos direitos, liberdades e garantias (cf. art. 9.° n.º 2). É feita com objectivos de actualização da informação (cf.
+art. 5.º n.º 1 al. d) e de obter informação sobre produtos contratualizados e riscos de crédito.
+Foram adoptadas medidas de segurança em sede de «transferência», «tratamento, acesso/consulta, nos termos definidos em cada um dos tratamentos legalizados junto da
+CNPD (vg. cópias de backup, password de acesso, sistemas de processamento de backup, acesso restrito a pessoas, sistemas de alarme e resposta).
+Em face do exposto a CNPD autoriza a RCI GEST Seguros, Correctores, Ld.*, nos termos dos artigos 9.°, 23.° n.º 1 al. d), 28.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro, a procederem à interconexão dos dados referidos e para as finalidades indicadas.
+Lisboa, 28 de Setembro de 2004
+Amadeu Guerra (relator)
+Alexandefora Ral
+Alexandre Pinheiro
+Luís Barroso
+алиц
+Eduardo Campos
+Ana Luísa Geraldes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.°
+- 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

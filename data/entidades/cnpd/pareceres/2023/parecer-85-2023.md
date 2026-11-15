@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 85/2023
-official_date: null
+official_date: '2023-09-15'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Secretário de Estado da Presidência do Conselho de Ministros'
-- 'Texto incompleto: 1 de 5 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,8 +70,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:50:03Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
@@ -117,3 +116,22 @@ PAR/2023/84 2v.
 22. É feita uma referência, no n.º 2 do artigo 7.º, a que o CNPMA procederá ao arquivo do contrato de procriação medicamente assistida, nada sendo referido quanto aos elementos que instruem o processo quanto à sua conservação ou destruição e, quanto a este, em que condições.
 23. Ainda no artigo 7.º estabelece-se que «o contrato é outorgado preferencialmente de forma digital» (n.º 2) e estabelecem-se os procedimentos para as situações em que não seja «possível a assinatura eletrónica». A este respeito, convirá clarificar o sentido de impossibilidade subjacente, se tal impossibilidade resulta, nomeadamente, de os requerentes não terem consentido na utilização deste meio.
 24. A respeito da norma expressamente referente à proteção de dados (artigo 11.º), verifica-se que se mantêm algumas das fragilidades já explicitadas pela CNPD no Projeto que foi objeto do Parecer/2023/40, designadamente nos seus pontos 6 a 8. Designadamente, mantém-se a ausência de uma referência expressa ao Regulamento Geral sobre a Proteção de Dados, que constitui o documento normativo base no que tange à proteção de dados e que veio a ser regulamentado pela Lei n.º 58/2019, de 8 de agosto.
+
+PAR/2023/84 3
+CNPD
+Comissão Nacional de Proteção de Dados 25. A CNPD verifica que foi feito um esforço de enquadramento das recomendações que plasmou no
+Parecer/2023/40, sugerindo, em aditamento, que, para maior clarificação junto dos destinatários das normas, seja expressamente indicado, no elenco de operações de tratamento de dados aí explicitados (n.º 2 do artigo 11.°), que também o «acesso» aos dados deve acomodar-se ao regime normativo de proteção de dados.
+26. Por outro lado, enfatiza-se que seria desejável uma referência expressa tal tratamento de dados observam o regime juridico de proteção de dados, designadamente o Regulamento (EU) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais - por ser o instrumento normativo base -, e não apenas à Lei n.° 58/2019, de 9 de agosto, que executa, na ordem jurídica interna aquele Regulamento.
+27. Ainda neste âmbito, faz-se notar que a epígrafe do artigo 11.° «{t]ramitação eletrónica e proteção de dados pessoais» é suscetível de induzir a ideia de que a proteção de dados pessoais apenas deva considerar-se no caso de a tramitação decorrer sob aquela forma. Ora, é o próprio Projeto que, ao referir que o processo é «preferencialmente tramitado eletronicamente», admite a possibilidade de o processo ser tramitado de forma diversa.
+28. Embora não esteja explicitado o modo como decorrerá essa tramitação não eletrónica - e será, seguramente, objeto de positivação em portaria que necessariamente há de vir regulamentar o diploma ora objeto de análise , recomenda-se que a epígrafe seja alterada, de forma a deixar claro que qualquer tratamento de dados, seja por forma digital ou não, se encontra submetido ao regime normativo da proteção de dados pessoais. Eventualmente eliminado da epigrate a referência a «eletrónica».
+II. Conclusão 29. Com os tundamentos acima expostos, a CNPD considera que as operações de tratamento de dados pessoais previstas no Projeto de Decreto-Lei não põem em crise o regime jurídico de proteção de dados.
+30. Contudo, sugere-se que sejam consideradas as alterações suprapropostas.
+Lisboa, 15 de setembro de 2023
+Ana Paula Lourenço (Relatora)
+Ana Paula
+Lourenço
+Assinado de forma digital por Ana Paula Lourenço
+Dados: 2023.09.15 15:37:08 +01'00'
+Av. D. Carlos I, 134, 1° 1200-651 Lisboa
+T (+351) 213 928 400
+F (+351) 213 976 832 geral@cnpd.pt www.cnpd.pt

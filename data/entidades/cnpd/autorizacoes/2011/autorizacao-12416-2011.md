@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARIA LOURDES CASTANHEIRA SILVA DOMINGOS (FARMÁCIA SILVA DOMINGOS)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,80 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T04:59:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12416/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/39264](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/39264).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 913/09
+AUTORIZAÇÃO N.° 12416/2011
+I. O Pedido
+Maria Lourdes Castanheira Silva Domingos veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas na Rua Dr. Eduardo Castro, Lote 1,
+Vila de Rei (Farmácia Silva Domingos).
+Não existe comissão de trabalhadores, no entanto, a entidade informou os trabalhadores da existência do sistema de videovigilância.
+O sistema é constituído por 3 câmaras que abrangem as seguintes áreas: zonas de atendimento e porta de entrada (exterior).
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD)
+elaborou o projecto de autorização de 17 de Outubro de 2011, no sentido de não autorizar a recolha de imagem na via pública, tendo sido a entidade requerente notificada do referido projecto, através do n/ofício n.º 29787 de 17 de Outubro de 2011, nos termos e para os efeitos do disposto no artigo 100.º do Código do Procedimento
+Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projecto, alegando que a câmara exterior não capta imagens da via pública. A entidade requerente juntou ainda um fotograma da área abrangida pela câmara (porta de entrada).
+II. Análise
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Através da deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7° e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nestes estabelecimentos, no âmbito geral e em particular da protecção de pessoas e bens para prevenir actos de violência em relação ao furto de certos medicamentos (v.g.
+psicotrópicos) e produtos. Acresce, por outro lado, que o estabelecimento está sujeito a furtos principalmente durante a noite, o que se assume como um factor de risco que reforça a justificação da colocação destes meios de dissuasão.
+Relativamente ao princípio da proporcionalidade, justifica-se a utilização de sistemas de videovigilância neste sector de actividade, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma legítima que deve ser reconhecida ao responsável. No entanto, o tratamento deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+() Disponível in-http://www.enpd.pt/orientações/prineipiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O Código do Trabalho estatui que o empregador não pode utilizar os meios de videovigilância à distância no local de trabalho com a finalidade de controlar o desempenho profissional dos trabalhadores, de acordo com o disposto no artigo 20° do
+Código do Trabalho ().
+III. Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 7.° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Maria Lourdes Castanheira Silva Domingos 2. Finalidade - Protecção de pessoas e bens 3. Destinatário dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem com os seguintes dizeres:
+«Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem».
+() No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 6. Direito de acesso - Podendo o exercício do direito de acesso por parte do titular dos dados envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros.
+7. Quando estiverem em causa imagens que servem de prova em processo criminal
+- imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+8. As câmaras não devem estar direccionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+9. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+10. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a actividade laboral (cf. artigo 20.° do Código do Trabalho).
+11. A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+Lisboa, 21 Novembro 2011
+Ana Roque, Luís Barroso, Vasco Almeida, Luís Paiva de Andrade, Helena
+António, Carlos Lobo
+Luís Silveira (Presidente), que relatou.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

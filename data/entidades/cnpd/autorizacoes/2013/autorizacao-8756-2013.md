@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Celgene Corporation'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,103 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:04:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 8756/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/59265](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/59265).
+Proc.11227/13 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO NO 8756 2013
+Celgene Corporation, representada pela PPD Global Ltd Sucursal, notificou a CNPD de um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico relativo à eficácia e segurança de rituximab em associação com lenalidomida (...)
+versus rituximab em associação com placebo em indivíduos com linfoma indolente recidivante/refratário (Protocolo CC-5013-NHL-007).
+As categorias de dados pessoais tratados do paciente: n.º do participante no estudo, idade, sexo, origem étnica e raça; historia médica incluindo cirurgias e medicação anterior; resultados de exame fisico completo; resultado de eletrocardiograma, registos da medição de sinais vitais (pressão arterial, pulso, taxa respiratória e temperatura, peso e altura) e resultados de análises laboratoriais à urina e sangue. Durante a condução do estudo será também recolhida informação sobre efeitos adversos e medicação concomitante.
+As categorias de dados pessoais tratados do investigador: nome do investigador e dados de contacto, localização do local de trabalho, características, instalações e equipa de investigação; especialidade clínica e informação acerca da população de doentes; filiação a uma organização de gestão de centros para a realização de ensaios clínicos (SMO) e informação acerca da mesma; CV incluindo a filiação profissional, licenças e certificados; informação referente à participação anterior e atual em projetos PPD; indicação do desempenho em estudos geridos pela PPD;
+informações sobre compensação financeira.
+O Promotor justificou a recolha do dado raça nos seguintes termos:
+Relativamente à recolha do dado da raça, foram já observadas diferenças na resposta a medicamentos em subgrupos da população de distintas raças e etnias.
+Estas diferenças podem ser explicadas por fatores intrínsecos (por exemplo, genéticos, metabólicos, de eliminação), fatores extrínsecos (por exemplo, a dieta, a
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 11227/13 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS exposição ambiental, questões socioculturais), ou interações entre estes fatores. Além disso, há um crescente reconhecimento no seio das autoridades de saúde e da comunidade médica que diferentes subgrupos da população podem responder de forma diferente a específicos medicamentos, e deve ser feito um esforço para observar as diferenças na eficácia ou segurança, que podem ser identificadas, torna-se necessário recolher dados da raça e etnia».
+Os argumentos apresentados relacionam a raça a fatores extrínsecos, designadamente a dieta alimentar e exposição ambiental, nível sociocultural).
+Impõem os princípios de proteção de dados pessoais que a informação referente a dados sensíveis seja tratada com garantias de não discriminação. Ora, associar a raça a fatores culturais pode conduzir a conclusões baseadas em preconceitos suscetiveis de gerar discriminação, circunstância que à luz dos princípios de proteção de dados inviabiliza o tratamento deste dado.
+Nestes termos, não se autoriza a recolha do dado raça uma vez que não são referidas razões suscetíveis de demonstrar a necessidade de tal recolha no caso em apreço.
+Este ensaio prevê um subestudo de genética e biomarcadores «...para melhor compreender o curso da doença ou a resposta da doença ao medicamento em estudo».
+O presente ensaio prevê a criação de um biobanco.
+Nos termos da Lei n.º 12/2005, de 26 de janeiro, é legítima a criação de um biobanco com a finalidade de investigação básica ou aplicada à saúde (n.º 3 do artigo 19.° do referido diploma).
+Todavia, só podem ser aceites amostras biológicas em resposta a pedidos de médicos e não das próprias pessoas ou seus familiares.
+Os destinatários deverão ser ainda informados sobre a finalidade do biobanco e ainda que a utilização para estudos futuros será sujeita a um consentimento informado especifico, sendo facultativa a sua participação e garantida a confidencialidade no tratamento.
+O consentimento para a conservação dos dados no biobanco não dispensa a solicitação de um consentimento específico para a participação num futuro estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt.
+www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 11227/13 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O biobanco será composto por amostras irreversivelmente anonimizadas, para as quais não foi recolhido consentimento - e observadas que sejam as situações especiais, previstas no n.º 6 do artigo 19.° da Lei n.º 12/2005, de 26 de janeiro - e por amostras codificadas, para as quais foi recolhido o consentimento informado, pelo que terá de ser feita essa destrinça quanto às medidas de segurança a implementar, designadamente, na conservação da chave da codificação, quanto às amostras codificadas.
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+A CNPD já se pronunciou na sua Deliberação n.° 333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, alínea a), da Lei n.° 67/98, de 26 de outubro - LPD) para finalidades determinadas, explícitas e legitimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular (cf.
+artigo 7.°, n.° 2, da LPD).
+Todavia, o texto informativo constante da declaração de consentimento informado não está em conformidade com os princípios de proteção de dados, na parte relativa ao acesso aos registos médicos.
+De facto, a Deliberação geral dos ensaios clínicos prevê que cabe ao Investigador assegurar a confidencialidade dos dados pessoais e da informação tratada.
+Cumprindo, assim, o estatuído na alínea g) do artigo 10.°, da Lei n.º 46/2004, de 19 de agosto (Lei dos ensaios clínicos). Pelo que, não se pode aceitar como válido um consentimento informado - ainda que obtido de forma livre e esclarecida - que contemple a possibilidade do acesso, pelo Promotor ou seus representantes, aos registos médicos dos seus titulares, salvo se esse representante revestir a qualidade do monitor, (nos termos do artigo 11.° da Lei dos Ensaios Clínicos), e apenas na
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 11227/13 | 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS medida do estritamente necessário, também recaindo sobre este a obrigação de confidencialidade.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a), e 30.º da LPD, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Celgene Corporation, representada pela PPD Global Ltd
+Sucursal.
+Finalidade: gestão do ensaio clínico relativo à eficácia e segurança de rituximab em associação com lenalidomida (...) versus rituximab em associação com placebo em indivíduos com linfoma indolente recidivante/refratário (Protocolo CC-5013-NHL-007).
+As categorias de dados pessoais tratados do paciente: n.º do participante no estudo, idade, sexo, historia médica incluindo cirurgias e medicação anterior; resultados de exame físico completo; resultado de eletrocardiograma, registos da medição de sinais vitais (pressão arterial, pulso, taxa respiratória e temperatura, peso e altura) e resultados de análises laboratoriais à urina e sangue. Durante a condução do estudo será também recolhida informação sobre efeitos adversos e medicação concomitante.
+As categorias de dados pessoais tratados do investigador: nome do investigador e dados de contacto, localização do local de trabalho, características, instalações e equipa de investigação; especialidade clínica e informação acerca da população de doentes; filiação a uma organização de gestão de centros para a realização de ensaios clínicos (SMO) e informação acerca da mesma; CV incluindo a filiação profissional, licenças e certificados; informação referente à participação anterior e atual em projetos PPD; indicação do desempenho em estudos geridos pela PPD;
+informações sobre compensação financeira.
+Interconexões de tratamentos: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico investigador.
+Fluxos transfronteiras: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do Decreto-Lei n.° 176/2006, 30 de agosto.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.11227/13 | 5
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.º 333/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+O texto informativo deve ser alterado, no sentido de permitir o acesso aos registos médicos do paciente apenas ao Monitor, vedando essa possibilidade ao Promotor e seus representantes.
+Lisboa,03de dezembro de 2013
+Ana Roque (Relatora), Carlos Campos Lobo, Helena Delgado António, Vasco
+Almeida e Luís Paiva de Andrade.
+Luís Barroso (O Vogal em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

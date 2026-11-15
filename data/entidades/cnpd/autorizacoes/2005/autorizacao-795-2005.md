@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE COIMBRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:20:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 795/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6608](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6608).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.° 3559/383/04
+Autorização n. 79/05
+O Serviço de Polícia Municipal da Câmara Municipal de Coimbra, vem notificar junto da Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de registar autos de contra-ordenação.
+Os dados recolhidos são: nome, endereço, NIF, data de nascimento, licença ou carta de condução, número de BI, local de trabalho, matrícula, categoria e tipo de veículo.
+A recolha e actualização dos dados são directas.
+Atenta a finalidade do tratamento, considera-se que os dados pessoais recolhidos são geralmente adequados, pertinentes e não excessivos (alínea c) do n.º 1 do artigo 5.° da
+Lei n.º 67/98, de 26 de Outubro).
+De acordo com todo o exposto, a Comissão Nacional de Protecção de Dados considera-se notificada e autoriza os tratamentos declarados nos termos dos artigos 28.° e 30.º da
+Lei n.° 67/98, de 26 de Outubro, determinando o seguinte:
+Responsável pelo tratamento: Serviço de Polícia Municipal da Câmara Municipal de
+Coimbra.
+Categorias de dados pessoais tratados:
+Finalidade: Registar autos de contra-ordenação.
+Forma e condições como pode conhecer e corrigir informação a si respeitante:
+Consulta a cópias de contra-ordenação.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Tempo de conservação dos dados: O estabelecido nos termos legais.
+Comunicação de dados: Não se verifica.
+Eventuais interconexões: Não se verifica.
+Transferência de dados para países terceiros: Não se verifica.
+Lisboa, Il de Aditade 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos
+этим
+Ana Luísa Geraldes
+Anaden
+Amadeu Guerra
+Reas Galoes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

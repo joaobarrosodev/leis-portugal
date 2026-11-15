@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SANDRA MARISA VIEGAS BISPO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:32:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 688/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50921](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50921).
+Proc. 11978121'4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N. 6812013
+SANDRA MARISA VIEGAS BISPO, nutricionista, veio notificar o tratamento relativo à gestão de processo de utentes do seu consultório, no âmbito da realização de consultas de reeducação alimentar, complementadas pelo aconselhamento de suplementos alimentares.
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto, e dados de saúde, os quais se reportam aos seguintes pontos: antecedentes familiares, doenças que o titular tenha tido ou tenha no momento da consulta, análises clínicas, hábitos alimentares, fármacos que esteja a tomar, alergias, hábitos de vida (desporto, consumo de tabaco, etc.).
+2. De acordo com a informação constante do quadro 11, foram adotadas as seguintes medidas de segurança: o acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password». Existe ainda um acesso restrito de pessoas.
+Os dados de saúde deverão estar separados logicamente dos dados de identificação, nos termos do artigo 15°, n° 3, da Lei n° 67/98, de 26 de outubro.
+3. Os titulares dos dados dão o seu consentimento informado, em campo próprio do formulário de recolha de dados, nos termos do artigo 7.°, n.º 2, da Lei n° 67/98.
+Considera-se legítimo o tratamento nos termos do artigo 7.°, n.º 2, da Lei n° 67/98.
+Em face do exposto, autoriza-se o tratamento de dados por parte da Requerente (cf.
+artigos 27.° e 28.° da Lei n° 67/98) consignando-se, nos termos do artigo 30.° do citado diploma, o seguinte:
+1. Responsável: SANDRA MARISA VIEGAS BISPO 2. Categorias de dados pessoais tratados: identificação de utente das consultas de reeducação alimentar; antecedentes familiares, doenças que o titular tenha tido ou tenha no momento da consulta, análises clínicas, hábitos alimentares, fármacos que esteja a tomar, alergias, hábitos de vida (desporto, consumo de tabaco, etc.).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 11978/12 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. Finalidade: gestão de processo de utentes das consultas de reeducação alimentar 5. Forma de exercício do direito de acesso e retificação: Por solicitação do utente junto da responsável.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação: Os dados são conservados por 5 anos, contados após a última atualização.
+Lisboa, 22 Jare rode 2013.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado António,
+Vasco Almeida, Luís Paiva de Andrade
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 197/2001
-official_date: null
+official_date: '2001-11-27'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CITIBANK INTERNACIONAL plc SUCURSAL EM PORTUGAL (EX: CITIBANK PORTUGAL, S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:04:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 197/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9918](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9918).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 406/96
+AUTORIZAÇÃO N.° 197 /2001
+O CITIBANK International PLC, Sucursal em Portugal veio notificar à Comissão
+Nacional de Protecção de Dados (CNPD) o tratamento relativo à «gestão de contas de empresas e confirmações de poderes de procuradores, no que se refere à movimentação das mesmas».
+1. As categorias de dados tratados, que constam dos formulários em anexo, limitam-se à identificação dos procuradores, já que estamos perante contas de pessoas jurídicas (cf.
+formulário de recolha de dados. Os dados pessoais tratados são necessários e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98, de 26 de Outubro).
+No ponto n.º 9 das cláusulas contratuais é obtido o consentimento do cliente para o tratamento de dados, sendo os dados pessoais tratados no contexto de um contrato de abertura de conta (cf. corpo do artigo 6.° e artigo 6.º al. a) da Lei 67/98, de 26 de
+Outubro). Deve anotar-se, porém; que o «cliente» é uma empresa ou uma «pessoa jurídica» e os dados pessoais a tratar - objecto do presente pedido - são os dados de «procuradores».
+Assim, a cláusula contratual ou o impresso deverão, no contexto do que afirma o
+CITIBANK, assegurar o seu consentimento para o tratamento por parte dos «procuradores» bem como a sua transferência para países terceiros quando tal necessidade decorra do contrato.
+2. O CITIBANK informa que, no âmbito do contrato, pretende transferir dados pessoais do cliente e sobre poderes de representação para os países da União Europeia indicados no Anexo I. Pretende, igualmente, fornecer dados à sua sucursal na Noruega.
+Nos termos do artigo 18.º da Lei 67/98, é livre a circulação de dados pessoais entre
+Estados membros da União Europeia.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Nos termos do disposto no artigo 20.º e na alínea e) do n.º 1 do artigo 23.° da Lei de
+Protecção de Dados Pessoais, a transferência de dados pessoais para países terceiros não pertencentes à União europeia carece de autorização da CNPD.
+A Noruega ratificou a Convenção 108 do Conselho da Europa em 20 de Fevereiro de 1984, tendo entrado em vigor em 1/10/85.
+Assim, ainda que se entendesse que a Noruega não ofereceria "garantias adequadas" a transferência de dados dos «procuradores» seria admissível no caso de haver consentimento ou cláusula contratual, conforme propõe o CITIBANK (cf. o corpo do artigo 20.° e alínea a) do artigo 20.° da Lei 67/98, de 26 de Outubro). Bastará, para o efeito que o CITIBANK altere a cláusula 9.ª do contrato e estenda a sua previsão aos procuradores.
+Face a todo o exposto DELIBERA esta CNPD, nos termos do disposto no n.º 1 do artigo 20.° da Lei n.º 67/98, de 26 de Outubro, autorizar o tratamento de dados pessoais relativos à gestão e confirmação de poderes de procuradores de empresas, bem como a sua transferência, no âmbito de contratos, para a Noruega.
+Lisboa, 27 de Novembro de 2001
+Melle
+Amadeu Guerra (Relator)
+} 10-1
+Luís Durão Barroso
+Custulaule Pprati
+Cristina Baptista
+Catarina Castro
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Alexandre Pinheiro
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

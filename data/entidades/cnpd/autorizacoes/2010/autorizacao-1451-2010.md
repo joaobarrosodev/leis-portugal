@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO NACIONAL DE SAÚDE DR. RICARDO JORGE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:39:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1451/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22485](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22485).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 1119/2010 1451
+AUTORIZAÇÃO N.°
+/2010
+O Instituto Nacional de Saúde Doutor Ricardo Jorge, IP notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade declarada de "Criar uma amostra de indivíduos a ser utilizada em estudos de investigação no âmbito da saúde, nomeadamente para obter indicadores sobre o estado da saúde da população de Portugal Continental ".
+As categorias de dados a tratar são as seguintes: Nome, Sexo, Data do nascimento,
+Nível de escolaridade, Profissão, Contactos e Dados de saúde.
+APRECIAÇÃO
+A notificante propõe-se, através de contactos telefónicos aleatórios, obter o consentimento de um conjunto de indivíduos que se dispõem a integrar uma amostra (Em Casa Observamos Saúde ECOS) que, através de contactos periódicos lhe indicarão como se encontra a sua saúde, permitindo à notificante estudar o estado de saúde de Portugal Continental.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+A condição de legitimidade do tratamento é o consentimento do titular dos dados expresso de forma livre, específica e informada de todos os intervenientes e, caso se
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS queira manter a informação sobre o grau de parentesco, incluindo o consentimento, nos mesmos moldes, de dos membros dos agregados familiares quando maiores de idade ou dos seus representantes legais quando não (cf. artigo 7.° - 2 da Lei 67/98 de 26 de Outubro).
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Instituto Nacional de Saúde Doutor Ricardo Jorge, IP.
+Finalidade: Criar uma amostra de indivíduos a ser utilizada em estudos de investigação no âmbito da saúde, nomeadamente para obter indicadores sobre o estado da saúde da população de Portugal Continental.
+Categoria de Dados pessoais tratados: Nome, Sexo, Data do nascimento, Nível de escolaridade, Profissão, Contactos e Dados de saúde.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Mediante contacto com o responsável pelo tratamento dos dados pessoais.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: Apenas durante o período necessário à elaboração do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa) 2 de AGiO de 2010
+Ana Roque, Carlos Campos Lobo, Luís Paiva de Andrade (Relator), Helena Delgado
+António, Luís Barroso, Vasco Almeida
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS ters
+Solvere
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

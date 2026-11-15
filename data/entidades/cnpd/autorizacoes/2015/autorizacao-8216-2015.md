@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MEGA SMILE - CLINICA DENTÁRIA, LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,80 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T16:53:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 8216/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/81163](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/81163).
+Processo n° 11480/2015 | 1 f
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃON.° 8216/2015
+I - O Pedido
+Mega Smile - Clínica Dentária, Lda (Avenida da República, 1439, Piso 0, R/C, Parede)
+notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de processos clinicos.
+A requerente desenvolve a atividade de medicina dentária.
+Os dados pessoais objeto de registo são os seguintes: Nome, data de nascimento, sexo, estado civil, número de filhos, NIF, n° BI, n° SNS, morada, n° de telefone, profissão, tipo de seguro, anamnese, medicação.
+Os dados são recolhidos de forma direta, presencialmente.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem, presencialmente junto do responsavel.
+A requerente pretende comunicar os dados à ACSS, I.P., e a subsistemas de saúde.
+foram declaradas medidas de segurança física e lógica
+No formulário de notificação a implementar.
+Pretende-se a conservação dos dados de saúde nos termos do anexo à Portaria n° 247/2000, de 8 de maio, e dos de faturação pelo período de 10 anos.
+II - Apreciação 1 - O n.º 4 do artigo 7.° da Lei n.° 67/98, de 26 de outubro (LPD), admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efetuado por profissional de saúde
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 11480/2015 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde há legitimidade para efetuar o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional. Nessa medida, deve compaginar-se a recolha da informação com o princípio da confidencialidade, respeitando-se, assim, o respetivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+2 - A informação tratada é recolhida de forma lícita (artigo 5.° n.° 1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva. Os dados "número de filhos" e "profissão", cuja recolha não foi justificada, devem ser de recolha facultativa.
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.° 4 de LPD.
+Deve ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação e acesso aos titulares dos dados, nos termos dos artigos 10.° e 11.° n.° 5 da LPD;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15.° n.º 3 da LPD);
+c) Devem ser adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7.° n.º 4 da LPD).
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento é a esta que cabe assegurar o resultado de efetiva segurança da informação e dos dados tratados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 11480/2015/ 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+III - Conclusão
+Nestes termos e ao abrigo do disposto nos artigos 7.° n.º 4 e 30.° da LPD, a Comissão
+Nacional de Protecção de Dados autoriza o tratamento notificado, consignando-se o seguinte:
+Responsável: Mega Smile - Clínica Dentária, Lda
+Finalidade: gestão de processos clínicos
+Categorias de dados pessoais tratados: nome, data de nascimento, sexo, estado civil, número de filhos (facultativo), NIF, n° BI, n° SNS, morada, n° de telefone, profissão (facultativo), tipo de seguro, anamnese, medicação.
+Comunicação de dados: à ACSS, I.P., e a subsistemas de saúde
+Forma de exercício do direito de acesso e retificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.° da LPD. Quanto ao direito de acesso aos dados de saúde deve o mesmo ser assegurado através de «médico escolhido pelo titular dos dados» nos termos do artigo 11.° n.° 5 da mesma Lei
+O direito de acesso deve ser exercido na morada seguinte: Avenida da República, 1439,
+Piso 0, R/C, Parede
+Interconexão de dados: não há
+Transferência de dados para países terceiros: não há;
+Conservação dos dados: Dados de saúde - pelo prazo previsto na Portaria n.º 247/2000, de 8 de maio, alterada pela Portaria n.º 157/2014 de 19 de agosto; Dados para faturação - 10 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 11480/2015 | 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 8 de siTuto de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

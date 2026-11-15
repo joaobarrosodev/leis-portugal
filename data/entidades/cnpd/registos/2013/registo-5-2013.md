@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 5/2013
-official_date: null
+official_date: '2013-01-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PLAYVERSE, SERVIÇOS WEB, LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:02:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 5/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50439](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50439).
+Proc. n.º 16674/2011
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registon.º 5 12013
+Playverse, Serviços Web, Lda notificou um tratamento de dados pessoais com a finalidade de gestão de leilões on-line e marketing, no portal Compraki.
+Os dados são recolhidos diretamente na Internet, no sítio com o endereço http://www.compraki.pt/.
+Declaram as seguintes categorias de dados pessoais: nome, morada, telefone e outros contactos, data de nascimento, e-mail e informação relativa aos bens adquiridos.
+A Hi-Media Porte Monnaie Electronique, SA, com sede na Bélgica, é a entidade encarregada de gerar as referências multibanco e payshop para pagamento dos bens, sendo-lhes, por isso, comunicado o endereço de correio eletrónico dos adquirentes.
+O responsável declarou que o exercício do direito de acesso deve ser efetuado, de forma escrita, para a morada Av. Pedro Alvares Cabral n.º 51, 7006-803 Évora ou para o endereço eletrónico geral@playverse.pt.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (alínea b) do artigo 5° Lei n.º 67/98, de 26 de Outubro (LPD).
+O fundamento de legitimidade para o tratamento é a execução do contrato, nos termos da alínea b) do artigo 6° da LPD.
+Assim, regista-se, nos termos do n.º 1 do artigo 27° e do n.º 1 do artigo 30° da LPD, o tratamento, nos seguintes termos:
+Responsável - Playverse, Serviços Web, Lda;
+Categoria de dados pessoais tratados - nome, morada, telefone e outros contactos, data de nascimento, e-mail e informação relativa aos bens adquiridos;
+Finalidade - Gestão de leilões on-line e marketing, no portal Compraki;
+Comunicação de dados - Hi-Media Porte Monnaie Electronique, SA;
+Forma de exercício do direito de acesso e rectificação - De forma escrita, para a morada Av. Pedro Álvares Cabral n.º 51, 7006-803 Evora ou para o endereço eletronico geral@playverse.pt
+Interconexões - Não há;
+Fluxo transfronteiriço de dados para países terceiros - Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 16674/2011
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Prazo máximo de conservação dos dados - Dez anos após o fim da relação comercial.
+O responsável deve garantir, no momento do registo on-line, um campo autónomo para o titular poder exercer o seu direito de oposição à utilização dos seus dados para fins de marketing.
+Deve, de igual modo, garantir-lhe o direito de informação previsto no artigo 10° da
+LPD, incluindo o n.° 4 desse artigo por haver recolha de dados em rede aberta.
+Lisboa, 10 de janeiro de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 16674/2011 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da lei n.° 67/98, reformulando-se o sítio da Internet em conformidade.
+Por não ser adequado nem pertinente não se autoriza o registo da informação relativa às eventuais doenças dos alunos, que poderão e deverão, apenas, ser comunicadas ao professor ou ao responsável do Instituto
+Lisboa, 4 de Abril de 2007
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

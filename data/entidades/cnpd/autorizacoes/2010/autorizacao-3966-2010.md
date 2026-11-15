@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: RÁDIO E TELEVISÃO DE PORTUGAL, S.A. - RTP'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:59:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3966/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/25031](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/25031).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 6003/2010
+AUTORIZAÇÃON 3966/2010 1 - Rádio e Televisão de Portugal, S.A., vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados com a finalidade gestão de candidatos a emprego por candidatura espontânea ou no âmbito de processo de recrutamento.
+Os dados pessoais objecto de registo são os seguintes: Nome, data de nascimento, naturalidade, nacionalidade, estado civil, morada, número de telefone, número de
+Bl/passaporte/carta de condução, NIF, habilitações literárias, experiência profissional, curriculum vitae.
+A entidade encarregada do processamento da informação é a Direcção de Recursos
+Humanos da requerente.
+A recolha de dados é feita de forma directa, junto do candidato, ou são enviados por e-mail, carta ou telecópia.
+A segurança das informações é garantida por cópias de backup, password de acesso às informações, sistemas de processamento de backup, acesso restrito de pessoas às instalações e sistemas de alarme e resposta.
+Como fundamento de legitimidade para o tratamento a entidade requerente invoca o cumprimento de obrigação legal e a execução de obrigação contratual.
+Está assegurado o direito à actualização dos dados, bem como as condições de o titular conhecer, corrigir e eliminar os dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas @cond ot
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A requerente propõe-se conservar os dados recolhidos por períodos de 1 ou de 5 anos, consoante se trate de candidatura espontânea ou de processo de recrutamento por iniciativa da requerente.
+2 - O tratamento de dados mostra-se necessário no âmbito de diligências prévias à formação do contrato ou declaração da vontade negocial efectuadas a pedido do titular dos dados. A CNPD considera que existe, por isso, legitimidade para o tratamento de dados, entendendo-se que o suporte/fundamento do tratamento pode ser encontrado na previsão da alínea a) do artigo 6° da Lei n° 67/98, de 26.10, ou seja, a execução de uma obrigação contratual.
+A informação tratada mostra-se adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (alínea c) do n.º 1 do artigo 5.° da Lei n° 67/98, de 26.10).
+Afigurám-se ajustadas as medidas de segurança adoptadas, sendo certo que apenas podem ter acesso à informação colhida as pessoas para tal autorizadas e que necessitem da informação para o fim visado.
+O prazo de conservação dos dados mostra-se adequado.
+3 - Conclusão
+Assim, nos termos dos artigos 6°, alínea a), 27° nº1 e 30° n.º 1 da Lei n° 67/98, de 26 de
+Outubro, a CNPD delibera autorizar o tratamento de dados pessoais notificado, consignando-se o seguinte:
+Responsável - Rádio e Televisão de Portugal, S.A.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Finalidade - gestão de candidatos a emprego por candidatura espontânea ou no âmbito de processo de recrutamento
+Categoria de dados pessoais tratados: nome, data de nascimento, naturalidade, nacionalidade, estado civil, morada, número de telefone, número de Bl/passaporte/carta de condução, NIF, habilitações literárias, experiência profissional, curriculum vitae
+Forma de exercício do direito de acesso e rectificação - por solicitação à entidade responsável
+Comunicações de dados - não há
+Interconexões - não há
+Fluxo transfronteiriço de dados para países terceiros - não há
+Lisboa, 08 de Nove Go de acle
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

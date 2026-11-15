@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LI XIAN FEN'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,78 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T00:21:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4546/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54911](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54911).
+Proc. 9020/10/1 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n° 9020/10
+AUTORIZAÇÃO N° 454612013
+O Pedido
+Li Xian Fen veio notificar o tratamento de videovigilância a realizar no seu estabelecimento sito na Av. 24, n.° 803 em Espinho.
+Não existe comissão de trabalhadores.
+Pretende-se colocar 6 câmaras que abrangem o interior da loja (zonas de expositores).
+Análise
+Através da deliberação n° 61/2004, de 19 de abril(1), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspetos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n°. 1, alínea c), da Lei 67/98, de 26 de outubro - LPD), condições de legitimidade (artigos 7.° e 8.°, n.° 2, da LPD), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efetivamente justifica-se que sejam utilizados estes meios de prevenção nas instalações da loja no âmbito da proteção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos e valores. As instalações podem ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de atividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade (*) Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 9020/10 2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS legitima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.° 1, alínea c), da LPD).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilicitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infração.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do Trabalho (2).
+Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigo 7.°, n.° 2 e 28.°, n.° 1, alínea a), da LPD) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Li Xian Fen.
+2. Finalidade - Proteção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detetada a prática de infração penal, a entidade responsável pelo tratamento (2) No mesmo sentido ver Acórdão do STJ Processo n.° 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 9020/10 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS deve - com a respetiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excecionalmente, a visualização das imagens quando - não havendo qualquer infração penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da LPD.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem nos termos do disposto no artigo 31.°, n.º5, da Lei n.º 34/2013, de 16 de maio.
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros.
+7. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça
+- é aplicável ao exercício do direito de acesso o disposto no artigo 11.°, n.º 2, da LPD (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+8. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+9. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a atividade laboral (cf. artigo 20.° do Código do Trabalho).
+10. As câmaras não devem estar direcionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+11. A recolha de imagens deve confinar-se ao perímetro da propriedade, não podendo as câmaras incidir sobre as zonas limítrofes ou via pública.
+Lisboa, 18 de Junho
++ 2013
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt
+Proc. 9020/10 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Carlos Lobo, Vasco Almeida (Relator), Luis Barroso, Ana Roque
+Filipa Calvão (Presidente)
+21 393 00 39
+LINHA PRIVACIDADE 4
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

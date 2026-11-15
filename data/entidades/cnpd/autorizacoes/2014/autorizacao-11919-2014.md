@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 11919/2014
-official_date: null
+official_date: '2014-12-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Medtronic Portugal, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,82 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:22:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11919/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72318](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72318).
+Processo N.° 5856/2014 | f
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° //9/9 12014
+I. Pedido
+Medtronic Portugal, Lda. notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo denominado "Registo Global S/MPL/CITY- Registo prospetivo da Desnervação Renal simpática em patologias selecionadas ao longo de 3-5 anosi"i.
+O objetivo deste registo consiste em documentar a segurança e eficácia a longo prazo da Desnervação Renal numa população de doentes renais com hipertensão e recolher dados para outras doenças caracterizadas por tónus simpático elevado, tais como diabetes mellitus tipo 2, insuficiência cardíaca ou insuficiência renal.
+O estudo irá conter dados de aproximadamente 100 doentes maiores de idade submetidos a tratamento com um sistema de Desnervação renal da Medtronic em 5 centros: Centro Hospitalar Lisboa Norte - Hospital de Santa Maria, Centro Hospitalar
+Lisboa Central - Hospital de Santa Marta, Centro Hospitalar Lisboa Ocidental -
+Hospital de Santa Cruz, Centro Hospitalar do Porto - Hospital de Santo António e
+Centro Hospitalar e Universitário de Coimbra - Hospital Geral (25 doentes por centro).
+Os dados serão recolhidos num caderno de recolha de dados em formato desenhado especificamente para o estudo.
+No caderno de recolha de dados não há identificação nominal dos titulares, sendo aposto um código para o doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Os destinatários são informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.º 5856/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+II. Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos de investigação na área da saúde.
+Assim, enquadrando-se o caso em apreço no âmbito tipificado pela referida
+Deliberação, porque referentes à saúde e à vida privada, os dados recolhidos pela requerente têm a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n.° 2 do artigo 7.° da LPD.
+Entende-se por consentimento qualquer manifestação de vontade, livre, especifica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Os titulares dos dados, de acordo com a declaração de consentimento informado junta aos autos, apõem as suas assinaturas na mesma, deste modo satisfazendo as exigências legais.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1 alínea a) da LPD), para finalidades determinadas, explícitas e legitimas (cf. alinea b) do mesmo artigo) e não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 2 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.° 5856/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Cabe ao Investigador assegurar a confidencialidade dos dados pessoais e da informação tratada, conforme o estatuído na alínea g) do artigo 10.° da Lei n.° 21/2014, de 16 de abril (Lei da investigação clínica).
+Logo, apenas poderão ter acesso aos registos médicos originais o investigador e um monitor, (nos termos do artigo 11.° da Lei da investigação clínica), e apenas na medida do estritamente necessário, também recaindo sobre este a obrigação de confidencialidade.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Conclusão
+Em face do exposto, a CNPD autoriza o tratamento de dados pessoais supra apreciado, nos termos do n.º 2 do artigo 7.°, da alínea a) do n.° 1 do artigo 28.° e do n.º 1 do artigo 30.° da LPD, com as condições e limites fixados na referida Deliberação n.° 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, consignando-se o seguinte:
+Responsável pelo tratamento: Medtronic Portugal, Lda.;
+Finalidade: "Registo Global SIMPLICITY- Registo prospetivo da Desnervação Renal simpática em patologias selecionadas ao longo de 3-5 anos"*;
+Categoria de Dados pessoais tratados: código do doente; data de nascimento; sexo;
+altura; peso; perímetro abdominal; história médica e patologias concomitantes; regime terapêutico; tensão arterial; ritmo cardíaco; resultados de exames imagiológicos, exames laboratoriais hematológicos e urinários; questionário de avaliação da qualidade de vida;
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferência de dados para países terceiros: Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.° 5856/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 16 de dezembro de 2014
+FilL
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 4 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

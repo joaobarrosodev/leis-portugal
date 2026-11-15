@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2220/2009
-official_date: null
+official_date: '2009-06-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BIAL PORTELA & Cª, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:01:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2220/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16445](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16445).
+1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.2278/09 2220
+AUTORIZAÇÃO N.° 109
+A Bial Portela & Cª, SA notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com medicamentos de uso humano designado " Efeito de BIA9-1067 na Farmococinética da Repaglinida em Voluntários Saudáveis", com o n.º de código (BIA-91067-115).
+Trata-se de um estudo de Fase I.
+As categorias de dados recolhidos são as seguintes: N.º de código, iniciais do nome, sexo, data de nascimento, idade, dados antropométricos, hábitos tabágicos, alcoólicos, drogas e alimentares, história médica, história médica familiar relevante, doação/recepção de transfusão de sangue, ou derivados, recepção do produto em estudo, participação em mais de 2 ensaios nos 12 últimos meses (s/n), participação em ensaio clínico nos últimos 6 meses, medicação, sinais vitais, eletrocardiograma, resultado de exame físico, fertilidade, contracepção, gravidez, amamentação, última menstruação, resultados de análises clínicas à urina e ao sangue.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.º333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.º da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Bial Portela & Cª, SA.
+Finalidade: gestão do ensaio clínico designado " Efeito de BIA9-1067 na Farmococinética da
+Repaglinida em Voluntários Saudáveis", com o n.º de código (BIA-91067-115).
+Categoria de Dados Pessoais tratados: N.° de código, iniciais do nome, sexo, data de nascimento, idade, dados antropométricos, hábitos tabágicos, alcoólicos, drogas e alimentares, história médica, história médica familiar relevante, doação/recepção de transfusão de sangue, ou derivados, recepção do produto em estudo, participação em mais de 2 ensaios nos 12
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS últimos meses (s/n), participação em ensaio clínico nos últimos 6 meses, medicação, sinais vitais, eletrocardiograma, resultado de exame físico, fertilidade, contracepção, gravidez, amamentação, última menstruação, resultados de análises clínicas à urina e ao sangue.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação: Junto do médico investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação:
+- Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do Anexo I do DL 176/2006, 30 de Agosto.
+- Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio.
+Dos termos e condições fixados na Deliberação n.º333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 1 de Junho de 2009
+Carlos Campos Lobo (Relator), Ana Roque, Helena Delgado António, Vasco Almeida, Luís
+Paiva de Andrade, Luis Barroso.
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

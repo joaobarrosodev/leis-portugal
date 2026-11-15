@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 33/1996
-official_date: null
+official_date: '1996-03-12'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GMAC - Instituição Financeira de Crédito, SA -ExGENERAL MOTORS ACCEP.CORP PT,SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,90 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:14:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 33/1996
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11104](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11104).
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Proc. 66/96
+AUTORIZAÇÃO N° 33/96
+A GENERAL MOTORS ACCEPTANCE C. DE PORTUGAL - SERVIÇOS
+FINANCEIROS, SA solicitou a legalização dos seus ficheiros.
+1. Os ficheiros em referência destinam-se à análise das propostas de crédito e à cobrança do crédito concedido. É registada informação sobre a situação patrimonial e financeira do cliente (vg. rendimento mensal, despesas com habitação, tipo de habitação - própria ou arrendada), bem como o rendimento mensal do cônjuge.
+Nos termos do art° 11° n° 2 al. b) da Lei 10/91 de 29 de Abril, na redacção introduzida pela Lei 28/94 de 28 de Agosto, o tratamento automatizado desta informação indicia a situação patrimonial e financeira do titular dos dados, enquadrando-se este tratamento no conceito de "informação sensível".
+O tratamento automatizado desta informação deverá resultar, nos termos do art° 17° n° 2 do mesmo diploma, de autorização do titular ou de cláusula contratual.
+Propõe-se que, através de cláusula contratual prévia ao contrato com o cliente ou no impresso de recolha de dados, seja obtida autorização do cliente para o tratamento automatizado desta informação.
+2. A GM informa que "recorre aos serviços de uma empresa de informações comerciais para análise de risco de crédito".
+O art° 12° da Lei 10/91 estabelece os princípios da recolha de dados:
+- Deve efectuar-se de forma lícita e não enganosa (n° 1);
+- Deve processar-se em estrita adequação e pertinência à finalidade que a determinou (n° 2);
+- A finalidade da recolha deve ser conhecida antes do seu início (n° 3).
+Relativamente à recolha e tratamento de informação sensível (vg. sobre situação patrimonial) só há legitimidade para o seu tratamento se esta for obtida icom o consentimento dos titulares, com conhecimento do seu destino e utilização" ou resultar de "obrigação contratual" (art° 17° n° 2 da Lei 10/91, na redacção da Lei 28/94).
+Rua de São Bento, n." 148. 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+De acordo com os principios enunciados, e se a GM completar o tratamento automatizado da sua informação através do recurso a ficheiros de empresas de informações comerciais, deve obter autorização prévia do titular, através de cláusula contratual previamente estabelecida ou no impresso de recolha de dados.
+Nesse caso, deverá constar do impresso a possibilidade de obtenção de dados junto dessas entidades.
+3. É solicitada informação relativa à identificação e rendimento mensal do cônjuge.
+Em relação à recolha de dados relativos ao cônjuge são aplicáveis os princípios gerais constantes da Lei 10/91. Assim, o tratamento automatizado deve ser do conhecimento da pessoa a quem dizem respeito os dados (art° 13° n° 1 e 22° n° 1 al.a), a qual deve ter conhecimento da finalidade a que se destinam antes do início da recolha (art° 12° n° 3), e os destinatários da informação (art° 22° n° 1 al. d).
+Assim, no impresso de recolha, deve ser obtido o consentimento do cônjuge para tratamento dos dados sobre a sua situação patrimonial (cf. art° 11° n° 1 al. b) e 3 e 17° n° 2).
+4. O impresso de recolha de dados não satisfaz as exigências do art° 22° da Lei 10/91 de 29 de Abril. Por isso, deve a GM proceder à sua reformulação no prazo de 6 meses, considerando as objecções antecedentes.
+Em face do exposto, a Comissão Nacional de Protecção de Dados Pessoais
+Informatizados delibera autorizar, nos termos do art° 8° n°1 al. b), 17° n° 2 e 18° da Lei 10/91, na redacção introduzida pela Lei 28/94 de 28 de Agosto, a manutenção do ficheiro automatizado, nos seguintes termos:
+1. Responsável: GENERAL MOTORS ACCEPTANCE C. DE PORTUGAL -
+SERVIÇOS FINANCEIROS, SA com sede na R. Dr. António Loureiro Borges, 7-A, 5° piso 1495 ALGÉS.
+2. Características: Computador pessoal em rede. Sistema de Gestão de Bases de
+Dados.
+Aplicações: Sistema CREDIX.
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Finalidade : Análise das propostas de crédito recebidas no intuito de quantificar o risco e potenciação das possibilidades de cobrança de crédito concedido.
+3. Serviços encarregados do processamento da informação: Departamento de contabilidade.
+4. Dados pessoais contidos em cada registo: constam do impresso de recolha.
+5. Recolha de dados: Consentimento dos titulares.
+6. Forma de recolha e actualização: directa - por impresso 7. Não há comunicação de dados.
+8. Há comparação com a informação recebida de empresa de informações comerciais.
+9. Não há fluxos transfronteiras de dados.
+10. Medidas de segurança: as indicadas no ponto n° 1, 2, 3 e 4.
+11. Tempo de conservação: o prazo de conservação será pelo período da concessão do crédito.
+12. Pessoas com acesso directo à informação: Operadores de recolha de dados, analistas de crédito e departamento de cobranças e contabilidade (toda a informação).
+13. Formas e condições de acesso e rectificação por parte das pessoas: a pedido escrito do interessado ao supervisor de crédito.
+EM CONCLUSÃO:
+1. Nos termos do art° 11° n° 2 al. b) da Lei 10/91 de 29 de Abril, na redacção introduzida pela Lei 28/94 de 28 de Agosto, o tratamento automatizado da informação relativa a rendimentos e encargos é indiciador da situação patrimonial e financeira, enquadrando-se este tratamento no conceito de "informação sensível".
+2. O tratamento automatizado desta informação deverá resultar, nos termos do art° 17° n° 2 do mesmo diploma, de autorização do titular ou de cláusula contratual.
+3. Se a GM completar o tratamento automatizado da sua informação sensível através do recurso a ficheiros de empresas de informações comerciais, deve obter autorização prévia do titular, através de cláusula contratual previamente
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇAO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS estabelecida ou no impresso de recolha de dados (art° 11° n° 1 al. a) e n° 3 e art° 17° n° 2 da Lei 10/91, na redacção da Lei 28/94 de 28 de Agosto).
+4. Em relação aos dados relativos ao cônjuge deve ser-lhe dado conhecimento da existência de tratamento automatizado (art° 13° n° 1 e 22° n° 1 al.a), da finalidade da recolha (art° 12° n° 3) e dos destinatários da informação (art° 22° n° 1 al. d). No impresso de recolha deve ser obtido o seu consentimento para o tratamento da sua situação patrimonial (art° 17° n° 2).
+5. Os impressos de recolha de dados não satisfazem as exigências do art° 22° da
+Lei 10/91 de 29 de Abril, devendo ser reformulados no prazo de 6 meses.
+Lisboa, 12 de Março de 1996
+Aureden
+Amadeu Francisco Ribeiro Guerra (Relator)
+Joaquim Seabra Lopes 8-0-≤_
+Luís José Durão Barroso
+João Alfredo Massano Labescat da Silva sere 1. sni
+Mário Varges Gomes
+Augusto Victor Coelho (Presidente)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

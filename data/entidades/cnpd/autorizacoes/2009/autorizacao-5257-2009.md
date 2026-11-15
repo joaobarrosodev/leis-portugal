@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 5257/2009
-official_date: null
+official_date: '2009-11-06'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOCIEDADE PORTUGUESA DE NEFROLOGIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,22 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:11:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5257/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20285](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20285).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 2992/08
+AUTORIZAÇÃO N.º° {2Í7/2009
+A Sociedade Portuguesa da Nefrologia notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo para avaliar o impacto dos dados demográficos, co-mobilidades e práticas clínicas em hemodiálise e nos outcomes clinicos ("ODISSEY").
+A CNPD autorizou o tratamento através da Autorização n° 1625/2008. Aí estabeleceu como fundamento de legitimidade o consentimento expresso dos titulares.
+Posteriormente, a SPN veio solicitar autorização para dispensa do consentimento no caso dos titulares dos dados já falecidos.
+Atendendo à necessidade de recolha de dados dos titulares já falecidos com base no facto de o estudo visar abranger os outcomes clínicos (incluindo a mortalidade), a
+SPN, como instituição de utilidade pública que é, tendo por missão prevenir e curar doenças renais e melhorar a qualidade de vida de todas as pessoas afectadas de doença renal, veio declarar o interesse público do estudo.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados agora fixados, autoriza-se o tratamento dos dados dos titulares falecidos no ano de 2008, que não prestaram em vida o seu consentimento, e somente desses, uma vez que os restantes participantes no estudo prestaram consentimento informado e por escrito na sequência da Autorização n° 1625/08.
+Lisboa, | 6 de Novembro de 2009
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos Campos Lobo, Luís Barroso
+Luis Lingnau da Silveira (Presidente)

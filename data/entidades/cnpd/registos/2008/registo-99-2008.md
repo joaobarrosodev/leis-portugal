@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL DE SÃO TEOTÓNIO VISEU'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 99/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/985](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/985).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 77407
+Registo n.° 99 108
+O Hospital de S. Teotónio, EPE notificou um tratamento de dados pessoais com a finalidade efectuar um inquérito estatístico, pelo telefone, sobre "Qualidade da
+Informação e Tempos de Espera".
+O objectivo do estudo é aferir a qualidade do atendimento e obter dados relativos aos desvios entre a hora prevista e hora efectiva da consulta.
+Para efectuar a escolha do universo a inquirir haverá acesso do responsável à aplicação Sonho para identificação das consultas agendadas, com indicação do nome e n.° de processo do utente. Escolhida a amostra é aditado o número de telefone do utente.
+Declara as seguintes categorias de dados pessoais: Nome e n.° de telefone.
+Os dados são recolhidos indirectamente por acesso ao processo do doente.
+O questionário telefónico incidirá sobre o tempo de espera da consulta, se foi informado sobre as causas da demora, e como qualifica a espera e a informação, e a informação dada pelo médico quanto ao estado de saúde, os medicamentos a tomar e exames a efectuar e sobre os cuidados a seguir após a consulta (escala de 1 a 10).
+Não são recolhidos quaisquer dados pessoais no inquérito nem é efectuada qualquer entre o inquérito e os dados recolhidos para o contacto.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do n.º 4 do artigo 7° da
+LPD, a gestão dos serviços.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Hospital de S. Teotónio, EPE
+Categoria de dados pessoais tratados - : Nome e n.º de telefone
+Finalidade - inquérito estatístico, pelo telefone, sobre "Qualidade da Informação e
+Tempos de Espera".
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsável ou pessoalmente nas lojas.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Interconexões - Não há;
+Comunicação de dados - Não há.
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação da informação - 10 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Não pode o responsável, em situação alguma, associar as respostas dadas nos questionários aos titulares dos dados.
+Lisboa, 7 de Fevereiro de 08
+A Secretária da CNPD
+Falsa
+Isabel Cristína Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

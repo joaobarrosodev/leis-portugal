@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PPD GLOBAL LTD SUCURSAL EM PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:07:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2316/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9930](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9930).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.6480/2008
+AUTORIZAÇÃO N.° 2316/08
+PPD Global LTD - Sucursal em Portugal, em representação do
+Promotor Bristol-Myers Aquibb Reasearch and Development, notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com o objectivo de avaliar a eficácia no tratamento da trombose venosa (Protocolo CV185057).
+Trata-se de «um estudo multicêntrico, aleatorizado, com grupos paralelos, em dupla ocultação, controlado com placebo...» que tem como objectivo «..determinar se pelo menos um dos regimes de apixaban é superior ao placebo em termos da variável combinada que avalia a ocorrência de TEV sintomático recorrente...»
+O estudo irá decorrer nos seguintes centros:
+-Centro Hospitalar de Lisboa Norte, EPE, Hospital Pulido
+Valente, cujo Investigador Principal e Coordenador Nacional é o Dr. Pereira Albino e o Hospital Sousa Martins -
+Investigador Principal: Dr. Augusto Lourenço.
+A entidade encarregue do processamento da informação é a seguinte: Shannon Packer, sita nos E.U.A. Entre o responsável pelo tratamento e o subcontratante deve existir
+Rua de São Bento. 148 - 3 ° - 1200-821 LISROA — Telefone: 113 928 400 - Fav• 113 076 820
+
+2
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS um contrato ou acto jurídico que vincule este último ao responsável pelo tratamento (cf. n.º3, do artigo 14.° da
+LPD) .
+As categorias de dados recolhidos são as seguintes: n.' específico do estudo e iniciais do doente, data de nascimento, sexo, raça, dados sobre o estado de saúde e nome do investigador.
+Refira-se que a recolha do dado raça tem como objectivo a «caracterização demográfica da população de estudo. Com base nesta informação será também possível determinar a distribuição dos doentes nos grupos de tratamento e garantir que haverá equilíbrio entre estes».
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular, tanto para os estudo principal como para o sub-estudo e, bem assim, para a constituição do biobanco.
+A CNPD já se pronunciou na sua Deliberação N.º333/07 o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei
+Pho da São Rante 119 _ 20 01000 100.0100501
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.°1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: PPD Global LTD - Sucursal em
+Portugal, em representação do Promotor Bristol-Myers Aquibb
+Reasearch and Development.
+Finalidade: gestão do ensaio clínico com o objectivo de avaliar a eficácia no tratamento da trombose venosa (Protocolo CV185057).
+Categoria de Dados Pessoais tratados: n.° específico do estudo e iniciais do doente, data de nascimento, sexo, raça, dados sobre o estado de saúde e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Prazo de Conservação: O código de doente, porque permite tornar os dados identificados, deve ser eliminado ou anonimizado, quer pelo médico investigador, quer pelo responsável pelo tratamento 5 anos após o ensaio. O Código do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, d4 Novembro de 2008 lefrasca
+Roque (Relatora), Luís Barroso, Ana arreme pan
+Delgado António, Eduardo Campos, Vasco Almeida
+Muns de
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento. 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax 213 976 832

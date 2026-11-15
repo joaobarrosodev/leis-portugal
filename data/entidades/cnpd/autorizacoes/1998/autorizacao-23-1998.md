@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 23/1998
-official_date: null
+official_date: '1998-02-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MERCK SHARP & DOHME, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:11:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 23/1998
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10579](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10579).
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+AUTORIZAÇÃO N. 2398
+L.
+A empresa Merck Sharp & Dohme, Ldª processa automaticamente informação do seu pessoal. Trata automaticamente os seguintes dados pessoais: nome, n° de empregado, morada, sexo, data de nascimento, número de contribuinte, n.º de Bl, estado civil, data de admissão, vencimento, categoria profissional, histórico de avaliações e promoções e forma de prestação do trabalho.
+A CNPDPI, por estarem preenchidos todos os pressupostos legais, procede ao registo do ficheiro de gestão de recursos humanos, nos termos dos artigos 8.º n.º 1 al. b), 17.° n.º 3 e 18.° da Lei 10/91, na redacção da Lei 28/94 de 29 de Agosto.
+A Merck Sharp informa que procede ao fluxo transfronteiras, para os EUA, dos seguintes dados pessoais: N° de empregado, número fiscal, morada, data de nascimento, sexo, data de admissão, salário, avaliação de desempenho, categoria profissional e forma de prestação do trabalho.
+Os EUA não são parte contratante da Convenção n.º 108 do Conselho da Europa pelo que -nos termos do art. 33.° n.º 3 da Lei 10/91, na redacção da Lei 28/94 de 29 de Agosto - os termos do fluxo transfronteiras de dados deverá ser feito nos termos de autorização da
+CNPDPI, por forma a assegurar a adequada protecção.
+A CNPDPI, no contexto de anteriores decisões (cf. autorização n.º 106/96 de 31/10), autoriza o fluxo de dados pessoais para a Merck & CO, INC - Estados Unidos da América - , nas seguintes condições:
+a) Os titulares dos dados devem ser informados de que os seus dados pessoais passam a constar de uma base de dados situada nos EUA;
+b) A empresa deve assegurar, em condições de transparência, o acesso aos dados, bem como o direito de rectificação e eliminação, nas condições contratuais;
+c) A finalidade do fluxo para os EUA não pode ser alterada em relação à finalidade do ficheiro - gestão de pessoal - não podendo os dados ser utilizados para finalidade diversa;
+d) Os dados devem ser eliminados na Merck & CO. INC no mesmo prazo em que são eliminados na empresa portuguesa.
+Ru: de São Bento, n." 1+8, 3." - 1200 LISBOA - Telefone: (01) 392 8400 Fax: 397 68 32 E-mail: CNPDPI@mail.telepac.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+EM CONCLUSÃO:
+1. Procede-se ao registo dos ficheiro de pessoal, nos termos declarados;
+2. Autoriza-se o fluxo dos dados para os EUA nos termos estabelecidos em II.
+Lisboa, 5 de Fevereiro de 1998
+Anden du
+Amadeu Francisco Ribeiro Guerra (relator)
+Joaquim de Seabra Lopes
+Nuno Albuquerque Morais Sarmento
+Luís José Durão Barroso
+João Alfredo M. Labescat da Silva
+Mário Manuel Varges Gomes
+Augusto Victor Coelho (Presidente)
+Rua de São Bento. n." 1+8, 3." - 1200 LISBOA - Telefone: (01) 392 8400 Fax: 397 68 32 E-mail: CNPDPI@mail.telepac.pt

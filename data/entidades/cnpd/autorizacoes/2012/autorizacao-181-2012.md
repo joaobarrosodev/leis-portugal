@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 181/2012
-official_date: null
+official_date: '2012-01-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Sociedade Portuguesa de Pneumologia'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T04:36:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 181/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40329](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40329).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 16410/2011
+AUTORIZAÇÃON.° (81
+/2012 1. Do Pedido
+A Sociedade Portuguesa de Pneumologia notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para avaliar as características da Doença Pulmonar Obstrutiva Crónica (DPOC) em doentes que nunca fumaram.
+Serão incluidos no estudo duzentos indivíduos com a patologia, com idade superior a 40 anos, não fumadores, a receber tratamento no Serviço de Pneumologia num dos centros participantes, e duzentos doentes com DPOC que sejam fumadores, enquanto grupo de controlo.
+O estudo terá a duração de um ano, requerendo-se aos participantes que respondam a um questionário no início e no final do estudo.
+O investigador principal no estudo ou co-investigadores, nomeados pelos Directores do Serviço de Pneumologia dos hospitais participantes, solicitarão consentimento informado, cuja declaração será arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida dos investigadores.
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a)
+do n.° 1 do artigo 28º e art. 30º da Lei de Protecção de Dados, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Termos do tratamento:
+Responsável pelo tratamento: Sociedade Portuguesa de Pneumologia
+Finalidade: Estudo observacional para avaliar as características da Doença Pulmonar
+Obstrutiva Crónica (DPOC) em doentes que nunca fumaram.
+Categoria de Dados pessoais tratados: código e iniciais do doente, fumador/não fumador, dados demográficos (ano de nascimento, sexo, peso e altura), escolaridade, profissão, resultados da espirometria, hábitos tabágicos, biomassa, exposição profissional/ocupacional, sintomas respiratórios, expectoração, ruídos na respiração, dispneia, doenças respiratórias, outras patologias, medicação, exacerbações e prática de actividade fisica.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico do estudo.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruida um mês após o fim do estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 09 de Janeiro de 2012
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo, Luís Barroso (Relator)
+Anistie:
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

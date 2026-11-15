@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Centro de Estudos Sociais da Universidade de Coimbra'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:46:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 274/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/886](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/886).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 4493/07
+AUTORIZAÇÃO N.° 274/2008
+O Centro de Estudos Sociais da Universidade de Coimbra notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo subordinado ao tema "Filhos da Guerra Colonial: pós-memória e representação".
+A amostra de participantes será obtida através da divulgação pública do projecto, solicitando a participação voluntária. A divulgação ocorrerá através de um website e de um folheto informativo, que foi junto aos autos.
+Aos participantes em condições de inclusão no estudo - filhos de ex-combatentes da
+Guerra Colonial - será efectuada uma entrevista, que será objecto de registo áudio e escrito, para avaliar a presença de trauma. Será, também, requerido o preenchimento de um questionário de avaliação do funcionamento psicológico e recolhida de uma amostra de saliva.
+É obtido o consentimento expresso e escrito do titular.
+As categorias de dados recolhidas são as seguintes: código do participante, idade, profissão, naturalidade, estado civil, filiação, registo áudio e escrito da história pessoal, avaliação do funcionamento psicológico e nível de concentração de cortisol salivar.
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O acesso ao processo clínico do doente apenas poderá ser efectuado pelo médico assistente.
+O fundamento de legitimidade será o consentimento do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Centro de Estudos Sociais da Universidade de
+Coimbra
+Finalidade: estudo subordinado ao tema "Filhos da Guerra Colonial: pós-memória e representação".
+Categoria de Dados pessoais tratados: código do participante, idade, profissão, naturalidade, estado civil, filiação, registo áudio e escrito da história pessoal, avaliação do funcionamento psicológico e nível de concentração de cortisol salivar.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Por solicitação ao responsável.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de participante, porque tornar os dados identificados, deve ser destruído imediatamente após a validação dos dados.
+Dos termos e condições fixados na Deliberação n.° 2271 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA —- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa 25 e feveniro e le26g8
+Ana Roque
+A PUT No.
+стесло.
+Helena Delgado António
+Luís Barroso
+Vascotlmeida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IMOPPI - INSTITUTO DOS MERCADOS DE OBRAS PÚBLICAS E PARTICUL. E DO IMOBILIÁRIO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:39:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1442/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22476](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22476).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+PROCESSO N.º 909/2005 lacez
+AUTORIZAÇÃO N.° /2010
+O Instituto da Construção e do Imobiliário, IP notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de "Gestão da identificação dos procuradores das empresas de construção detentoras ou requerentes de alvará".
+Pretende tratar os seguintes dados pessoais; Nome, números dos documentos de identificação civil, fiscal e de segurança social e contactos.
+ANÁLISE
+O Instituto da Construção e do Imobiliário, I.P. (InCI, I.P.) é a entidade reguladora do sector da construção e do imobiliário.
+Compete-lhe atribuir os títulos para o exercício das actividades reguladas, nomeadamente,
+Alvará de Construção, Título de Registo, Licença de Mediação Imobiliária e Inscrição de
+Angariador Imobiliário.
+A sua actuação visa potenciar um mercado de construção e do imobiliário moderno e competitivo através de uma efectiva acção inspectiva e fiscalizadora.
+No exercício das suas competências necessita de efectuar o tratamento notificado.
+Os dados pessoais que a notificante se propõe tratar afiguram-se adequados, pertinentes e não excessivos relativamente à finalidade que é determinada, explicita e legitima (cf. artigo 5.° - n.° 1 - b) e c) da Lei 67/98, de 26 de Outubro).
+A condição de legitimidade para o tratamento é o exercício da autoridade pública em que o responsável está investido (cf. artigo 6.° d) da Lei 67/98, de 26 de Outubro).
+Independentemente das medidas de segurança tomadas, o responsável pelo tratamento tem que assegurar a efectiva segurança da informação.
+Devem ser assegurados aos titulares os direitos de Informação e Acesso (cf. artigo 10.º e 11.º da
+Lei 67/98, de 26 de Outubro).
+Tudo ponderado, tendo em atenção o disposto nas disposições combinadas dos artigos 23° - 1 b)
+e 30 - n.º 1 da Lei n.º 67/98, de 26 de Outubro, autoriza-se o tratamento de dados pessoais notificado consignando-se o seguinte:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 1.Responsável do ficheiro: Instituto da Construção e do Imobiliário, IP.
+2.Dados pessoais tratados: Nome, números dos documentos de identificação civil, fiscal e de segurança social e contactos.
+3. Finalidade: Gestão da identificação dos procuradores das empresas de construção detentoras ou requerentes de alvará.
+4. Forma de exercício do direito de acesso e rectificação: Por comunicação ao responsável pelo tratamento.
+5.Interconexões: Não existem.
+6. Comunicação: Para as associações empresariais.
+7. Transferências de dados para países terceiros: Não existem.
+8.Tempo de conservação: Cinco anos após a cessão das funções dos titulares.
+Lisboa, 12de AGr de 2010
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso, Luís Paiva de
+Andrade (Relator), Vasco Almeida
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 geral@cnpd.pt
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 32/2017
-official_date: null
+official_date: '2017-05-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DA MINISTRA DA AGRICULTURA E DO MAR'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:59:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 32/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/105094](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/105094).
+Processon. 7594/2017 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+PARECER N.º 32/2017
+I. Pedido
+A Senhora Ministra do Mar remeteu à Comissão Nacional de Protecção de Dados (CNPD), para parecer, o Projeto de Decreto-Lei que estabelece o regime jurídico relativo à autorização, registo e licenciamento dos navios ou embarcações utilizados na atividade profissional da pesca.
+O pedido formulado decorre das atribuições conferidas à CNPD pelo n.º 2 do artigo 22.° da
+Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015 de 24 de agosto - Lei de
+Proteção de Dados Pessoais (LPDP) -, e o parecer é emitido no uso da competência fixada na alínea a) do n.º 1 do artigo 23.° do mesmo diploma legal.
+A apreciação da CNPD no presente parecer restringe-se aos aspetos de regime relativos aos tratamentos de dados pessoais, ou seja, a operações que incidem sobre informação respeitante a pessoas singulares, identificadas ou identificáveis - cf. alíneas a) e b) do artigo 3.° da LPDP.
+II. Apreciação
+O Projeto estabelece o regime jurídico relativo à autorização, registo e licenciamento dos navios ou embarcações utilizados na atividade profissional da pesca, estabelecendo a centralização numa única base de dados dos elementos necessários à gestão de frota, a capacidade de pesca e ao controlo prévio da atividade, concretizando as regras relativas ao
+Registo Nacional de Embarcações e Marítimos (RNEM), quanto a esta matéria, com a finalidade de simplificar alguns procedimentos administrativos.
+Assim, estabelece que a prática de atos de registo e inscrição, e respetiva tramitação, é efetuada por via um Balcão Único Eletrónico, concretizando as categorias de dados pessoais objeto de tratamento.
+Da análise do Projeto no plano substantivo, resulta que as normas que regulam tratamentos de dados pessoais não suscitam reservas quanto à sua conformidade com o regime legal de proteção de dados. Importa, contudo, apreciar a conformidade formal e orgânica do mesmo com a Constituição da República Portuguesa (CRP). Vejamos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 7594/2017 1v.
+Ao prever a recolha e transmissão de dados pessoais, o presente Projeto regula, condicionando ou comprimindo, o direito à proteção dos dados pessoais, previsto no artigo 35.° da Constituição da República Portuguesa (CRP). Nessa medida, decorre do artigo 165°, n.º 1, alínea b), da CRP a necessidade de o presente projeto revestir a forma de lei da
+Assembleia a República ou de decreto-lei autorizado.
+Todavia, porque este Projeto de decreto-lei assenta, desenvolvendo, o regime previsto num outro projeto de diploma governamental que cria o Registo Nacional das Embarcações e
+Marítimos (RNEM) e estatui que a tramitação das comunicações e consultas se procede por via do Balcão Único Eletrónico, a CNPD entende que será suficiente, para efeitos de conformidade do presente Projeto de diploma com os requisitos orgânico e formal previstos na Constituição, que aquele Projeto (que cria o RNEM) revista a forma constitucionalmente imposta.
+Efetivamente, constituindo o Projeto agora em apreço um mero desenvolvimento do Projeto que cria o RNEM no que aos tratamentos de dados pessoais diz respeito, este último pode constituir o fundamento legitimador dos tratamentos aqui regulados (caso revista a forma constitucionalmente exigida), sendo bastante a forma de decreto-lei do presente Projeto.
+Em síntese, o Projeto de diploma não merece qualquer observação por parte da CNPD, desde que o diploma que cria o RNEM, e que o presente Projeto vem concretizar, revista a forma constitucionalmente imposta.
+E este o parecer da CNPD.
+Lisboa, 19 de maio de 2017
+Filipa Calvão (Presidente, que relatou)

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL DISTRITAL DE SANTARÉM, E.P.E.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:04:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2074/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16130](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16130).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 710/09
+Autorização n.° 2078/09
+O Hospital Distrital de Santarém, EPE notificou um tratamento de dados pessoais, designado
+Sistema Appolo, com a finalidade de gestão integrada do Serviço de Patologia Clínica.
+O sistema permite a gestão de toda a informação relacionada com a execução de análises clínicas, desde a marcação de exames, requisições, gestão e impressão de resultados, até à extracção de estatísticas e à gestão de mensagens entre utilizadores
+São registados as seguintes categorias de dados pessoais: Nome, morada, data de nascimento, sexo, n.º do SNS e dados relativos às análises clínicas.
+Os dados são recolhidos indirectamente por importação do sistema Sonho (dados administrativos), do sistema Alert (dados relativos às requisições) e directamente dos resultados laboratoriais.
+Os dados são comunicados aos médicos requisitantes.
+Foram adoptadas medidas de segurança lógica - password de acesso às informações, existindo perfis de acesso definidos, política de alteração periódica da palavra-passe, redundância no sistema de armazenamento dos ficheiros e cópias diárias para suportes físicos
+- e segurança física - acesso restrito de pessoas às instalações.
+O n.º 4 do art. 7° da Lei n.º 67/98, de 26 de Outubro admite o tratamento de dados de saude quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+A Informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, nos termos dos artigos 27°, n.º1 e 30° da Lei de Protecção de Dados regista-se, nos exactos termos declarados, o tratamento nos seguintes termos e com as seguintes condições:
+1. Responsável: Hospital Distrital de Santarém, EPE 2. Categorias de dados pessoais tratados: Nome, morada, data de nascimento, sexo, n.º do SNS e dados relativos às análises clínicas.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os dados são recolhidos indirectamente por importação do sistema Sonho (dados administrativos), do sistema Alert (dados relativos às requisições) e directamente dos resultados laboratoriais.
+3. Finalidade: Gestão integrada do Serviço de Patologia Clínica (Sistema Appolo).
+4. Entidades a quem podem ser transmitidos: Os dados comunicados aos médicos requisitantes.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação ao resposável. A informação é revelada por «intermediação médica» (cf. artigo 11.° n.º 5 da Lei 67/98).
+7. Transferências de dados para países terceiros : Não há.
+8. Tempo de conservação: Nos termos da Portaria n.º 247/2000, de 8 de Maio;
+Aos titulares dos dados deve ser assegurado o direito de Informação previsto no art. 10° da Lei 67/98, de 26 de Outubro.
+O responsável deve garantir as medidas de segurança necessárias à sensibilidade da informação tratada, designadamente a separação lógica entre os dados administrativos e os dados de saúde (cf. Art.° 15° n.° 3 da referida lei), devendo ser adoptadas medidas de segurança que impeçam o acesso à informação por pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos e técnicos de saúde ou, sob a sua direcção, a outros profissionais obrigados a segredo profissional (n.º 4 do citado art.° 7°). A informação deve ser cifrada.
+Lisboa, 18 de Maio de 09
+Vasco Almeida, Helena Delgado António, Carlos Campos Lobo (Relator)
+Luís Lingnau da Silveira (Presidente)

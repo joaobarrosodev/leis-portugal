@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: REIS, CEGO & VARZEAS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:03:12Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 59/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9821](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9821).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 1058/2001
+AUTORIZAÇÃO N.° 59 /2002
+A sociedade Reis, Cego & Várzeas Limitada vem notificar a Comissão Nacional de
+Protecção de Dados (CNPD) da recolha de imagens para protecção de possíveis roubos e eventuais casos de distúrbio (quadro n.º 4). A CNPD reconduz a finalidade descrita à segurança das instalações e protecção de pessoas e bens.
+A captação opera por câmara fixa com recolha de som e imagem procedendo-se a gravação (quadro n.° 2).
+A captação verifica-se no balcão e no estabelecimento em geral (quadro n.º 3). Apesar de não estar cumprida a exigência da declaração de indicar em anexo a pormenorização dos locais, a CNPD determina que a captação de imagens deve processar-se nos termos da lei, encontrando-se, nomeadamente, proibida a captação de imagens da via pública.
+A recolha e tratamento de dados faz-se nos termos da lei (DL 231/98, de 22 de Julho), sendo necessário assegurar o direito de informação, nos termos estabelecidos no artigo 12.° n.º 3 do referido diploma, através da inclusão de um texto - em local bem visível - com os seguintes dizeres: «Para sua protecção este local encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagens e som».
+A sociedade Reis, Cego & Várzeas Limitada deve proceder à afixação desses avisos.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O prazo de conservação dos dados é de 10 dias (quadro n.º 11), determinando a
+CNPD que ao titular dos dados deve ser assegurado o acesso à informação gravada para rectificação e eliminação dos dados pessoais que lhe digam respeito sempre que pessoalmente o solicite (quadro n.° 12).
+A CNPD autoriza o tratamento (n.º 4 do artigo 4.°, n.º 1 do artigo 27.°, alínea a) do n.° 1 do artigo, e artigo 29.° da Lei 67/98, de 26 de Outubro), determinando-se o seguinte:
+1. Responsável: Reis, Cego & Várzeas Limitada 2. Categorias de dados pessoais tratados: Gravação de imagem nos locais indicados no quadro n.º 3 do formulário.
+3. Finalidade: Segurança das instalações e protecção de pessoas e bens.
+4. Entidades a quem podem ser transmitidos: Não há transmissão de dados. Os dados só podem ser utilizados nos termos da lei penal.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação pessoal.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Prazo de conservação: 30 dias
+Lisboa26de Fevereiro de 2002
+Alentes intes
+Alexandre Sousa Pinheiro (relator)
+Catarin farmentelasho
+Catarina Sarmento e Castro
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS rah
+Luís Barroso
+Cristina Paula Baptista buf.
+Mário Varges Ciomes
+Amadeu Guerra
+Les 9 Atres
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

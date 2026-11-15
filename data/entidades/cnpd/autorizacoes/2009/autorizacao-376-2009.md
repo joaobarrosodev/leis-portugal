@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 376/2009
-official_date: null
+official_date: '2009-01-26'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BOEHRINGER INGELHEIM, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,72 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:33:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 376/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14121](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14121).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 10763/2008
+AUTORIZAÇÃO N. 376/2005
+A Eurotrials Consultores Científicos,SA, em representação do Promotor Boehringer Ingelheim, Ida, a notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com medicamentos de uso humano para avaliar a sua eficácia em doentes com cancro do pulmão(Protocolo BI 1199.13). Associado a este ensaio está um estudo de investigação genética e a criação de um biobanco.
+Trata-se de um estudo «..de fase III, multicêntrico, aleatorizado, em dupla ocultação e controlado com placebo..»
+que tem como objectivo «.avaliar a eficácia e segurança do
+BIBF1120 (..) em doentes com cancro de pulmão..».
+As categorias de dados recolhidos são as seguintes: N.' de participação do doente, n'específico do estudo, país de origem, data de nascimento, género, raça, história médica, dados recolhidos ao longo do estudo, fumar, consumo de álcool, medicação, resultados de testes de diagnóstico, informação genética, mudanças relativas à doença durante o tratamento, efeitos adversos, dados laboratoriais, sobrevivência, causa da morte se aplicável e nome do investigador.
+A recolha em concreto do dado raça prende-se com o facto «.de avaliar se a eficácia e segurança do BIBF1120/Placebo em combinação com docetaxel pode diferir em diferentes populações de doentes. Assim o estudo será realizado em todo o mundo de forma a incluir variadas populações de
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS doentes e a informação relativa ao sexo, raça, e etnia tem de ser recolhida para avaliar se podem existir algumas diferenças».
+• estudo de investigação farmacogenético pretende «.examinar o efeito das características genéticas na forma como o organismo lida com os medicamentos no que se refere à absorção, à distribuição, ao efeito terapêutico e aos efeitos secundários, assim como à transformação e eliminação».
+• médico Investigador recolhe e processa as informações sobre o estado de saúde do doente em bases de dados em suporte informático.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular tanto para o estudo principal como para o sub-estudo e, bem assim, para o biobanco.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre
+• enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+Este estudo tem subjacente a integração de material biológico do paciente num biobanco salienta-se, no entanto, que a partir do momento em que as amostras dão entrada no banco de amostras deve ser-lhes retirada qualquer tipo de identificação do dador, tornando-se anonimizadas, sem possibilidade de eventual ligação com a identificação do dador, porquanto estamos perante uma entidade privada com fins comerciais, (Cfr. 19.°, n.º10 da Lei 12/2005, de 26 de
+Janeiro).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Quanto à constituição do biobanco deve ser cumprido o disposto no artigo 19.° da Lei 12/05, de 26 de Janeiro.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Boehringer Ingelheim, Ida
+Finalidade: gestão do ensaio clínico com medicamentos de uso humano para avaliar a sua eficácia em doentes com cancro do pulmão(Protocolo BI 1199.13). Associado a este ensaio está um estudo de investigação genética e a criação de um biobanco.
+Categoria de Dados Pessoais tratados: N.° de participação do doente, n° específico do estudo, país de origem, data de nascimento, género, raça, história médica, dados recolhidos ao longo do estudo, fumar, consumo de álcool, medicação, resultados de testes de diagnóstico, informação genética, mudanças relativas à doença durante o tratamento, efeitos adversos, dados laboratoriais, sobrevivência, causa da morte se aplicável e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: O código de doente, porque permite tornar os dados identificados, deve ser eliminado ou anonimizado, quer pelo médico investigador, quer pelo responsável pelo tratamento 5 anos após o ensaio. O Código do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 26 de Janeiro de 2009
+Luís Barroso (Relator), Helena Delgado António, Ana Roque,
+Carlos Campos Lobo, Luís Paiva de Andrade, Vasco Almeida.
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

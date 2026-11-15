@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MANUEL AUGUSTO DE LEMOS COUTO AZEVEDO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,66 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:13:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 64/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10687](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10687).
+frer: 366196
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+AUTORIZAÇÃO N°64/97
+Manuel Augusto de Lemos Couto Azevedo, médico ortopedista, solicita autorização para a criação de um tratamento informático relativo aos seus doentes.
+Trata-se de um vulgar tratamento informático, de consultório médico, contendo as necessárias informações para consultas e acompanhamento dos seus doentes, cujas únicas especialidades são a de haver comunicação da informação para a Rússia e para os países que compõem a CPLP.
+A justificação reside no facto de o Requerente pertencer a um forum internacional composto por aqueles países, sendo que a Rússia é a "casa-mãe" do conhecido método Ilizarov.
+Uma vez que tal comunicaçãoé sempre feita de forma anonimizada, nada obsta a que a mesma tenha lugar.
+Quanto ao mais, e mostrando-se verificados todos os condicionalismos previstos no Art° 17° n° 2 da Lei 10/91, de 29/04, na redacção dada pela Lei 28/94, de 29/08, entende-se autorizar a sua constituição nos seguintes termos :
+Responsável - Manuel Augusto de Lemos Couto Azevedo, médico ortopedista, com consutório na Rua José Rodrigues da Silva Jn., 479, 1° Dt°, 4470 Maia
+Tel.- 02- 9417984
+Fax - 02- 9483987 ;
+Características - Computador pessoal isolado, com sistema de gestão de base de dados ;
+Finalidade - Tratamento e acompanhamento médico dos seus doentes ;
+Serv. Proces. - O próprio responsável ;
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Dados Pessoais - Identificação - nome, morada, profissão, n° de telefone - data da consulta, história clínica, estado de saúde ortopédico, meios auxiliares de diagnóstico e terapêutica ;
+Fundamento - Consentimento do doente ;
+Recolha e actual. - Directa e pessoal ;
+Comunicação - Quando necessário, comunica os dados às Juntas Médicas e a médicos colegas, quando assistentes dos doentes ;
+Compar. e interconexões - Com a única finalidade de estudo, faz inter-relacionamentos da informação registada apenas dentro da própria aplicação ;
+Fluxos transfr. - Para a Rússia e para os países que compõema CPLP, mas sempre anonimizados ;
+Segurança - Cópias de "backup" e acesso restrito de pessoas ;
+Conservação - Vitalícia, sem prejuízo da sua manutenção, em histórico, com anonimização, para fins de estudo e investigação ;
+Acesso directo - Só o próprio ;
+Dt° de acesso e correcção - A solicitação do titular dos dados, devidamente identificado.
+***
+Porque estamos perante um tratamento informático contendo dados sensíveis dos respectivos titulares, importa, desde logo, que, em respeito pelo princípio primeiro em matéria de protecção de dados, seja dado conhecimento da sua existência e finalidade a todos e cada um dos respectivos titulares.
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇAO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Depois, importará relembrar também que, nos termos do disposto no
+Art° 28° n° 3 da Lei 10/91 referida, a informação médica deverá ser sempre prestada através de um médico designado pelo respectivo titular.
+Lx., 9/06/97.
+O Relator
+Os Vogais (Marto M. Varges Gomes)
+(Amadeu F. Guerra)
+Analen Cug (Nuno Morais Sarmento)
+O Presidente (J. Seabra Lopes)
+= m
+João Labescat)
+cran (Luís Durão Barroso)
+EVA CU (A. Victor Coelho)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

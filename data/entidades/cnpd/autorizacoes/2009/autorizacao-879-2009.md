@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SORRISO AUTÊNTICO, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:24:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 879/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14750](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14750).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PROCESSO N.° 10571/2008
+AUTORIZAÇÃO N 7{/2009
+PEDIDO
+A Sorriso Autentico, Lda (Clínica Vital Dent Porto) notificou um tratamento de dados com a finalidade declarada de "Registo do historial clínico dos pacientes, de forma a facilitar o diagnóstico médico e a prestação de cuidados de saúde (gestão de processos)".
+Declara as seguintes categorias de dados pessoais: Nome, morada telefone, data de nascimento, profissão, dados relativos à saúde.
+ANÁLISE
+Analisado o processo verifica-se que:
+O tratamento processa informação sobre identificação e dados de saúde para efeitos de diagnóstico médico e de prestação de cuidados de saúde.
+São adoptadas medidas de segurança do sistema informático; password de acesso às informações, cópias de backup e informação cifrada e de segurança física; acesso restrito de pessoas e sistema de alarme e resposta.
+A recolha é feita com o consentimento dos titulares dos dados, não existe comunicação, interconexão nem fluxo transfronteiriço de dados.
+Embora seja proibido o tratamento de dados pessoais relativos à saúde o n.º 4 do art.
+7° da Lei n.º 67/98, de 26 de Outubro, admite o seu tratamento quando ele for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou de gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional de saúde e sejam garantidas medidas adequadas de segurança da informação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas e a informação recolhida não é excessiva (cf. al. b) e c) do mesmo artigo).
+Tudo ponderado, autoriza-se o tratamento notificado, consignando-se, nos termos do n.º 1 do artigo 27.°, da alínea a) do n.º 1, do artigo 28.° e do artigo 30.°, todos da Lei n.° 67/98, o seguinte:
+1. Responsável: Sorriso Autentico, Lda 2. Categorias de dados pessoais tratados: Nome, morada telefone, data de nascimento, profissão, dados relativos à saúde.
+3. Finalidade:. Registo do historial clínico dos pacientes, de forma a facilitar o diagnóstico médico e a prestação de cuidados de saúde (gestão de processos).
+4. Entidades a quem podem ser transmitidos: Não há comunicação de dados.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita ou pessoal.
+6. Interconexões : Não existem 7. Transferências de dados para países terceiros : Não há.
+8. Tempo de conservação: Nos termos da Portaria n.° 247/2000, de 8 de Maio;
+Aos titulares dos dados deve ser assegurado o direito de Informação previsto no art.
+10° da Lei 67/98, de 26 de Outubro.
+O titular tem acesso aos seus dados, nos termos do n.° 5 do art. 11°, da mesma lei, sendo esse direito exercido por intermédio de médico por ele escolhido;
+Lisboa, 02 de Mœe co de 2009.
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso, Luís
+Paiva de Andrade (Relator), Vasco Almeida
+-uis Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

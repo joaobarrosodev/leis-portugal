@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 12616/2016
-official_date: null
+official_date: '2016-11-29'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Maria Gouveia Pereira'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T12:00:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12616/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/98735](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/98735).
+Processo N.° 2345/2016 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃO N.º 12616 / 2016
+Maria Gouveia Pereira no âmbito de mestrado em Psicologia Clínica do ISPA - Instituto
+Universitário de Ciências Psicológicas, Sociais e da Vida notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de realização de um estudo intitulado "Jovens e Comportamentos de Risco".
+Trata-se de investigação sobre os comportamentos de risco na adolescência, a relação sobre o funcionamento familiar, a depressão e os comportamentos autolesivos.
+A participação no estudo consistira na resposta a questionários (escalas), nos quais se inserem questões demográficas, do funcionamento familiar, da depressão e comportamentos autolesivos.
+Os questionários serão anónimos, não contendo qualquer dado identificador, nem sendo aposto qualquer código de participante e serão respondidos em contexto escolar.
+Sendo os titulares dos dados menores de idade, será solicitado o consentimento dos representantes legais para a colaboração dos seus educandos neste estudo.
+Este consentimento não será associado às respostas dos questionários, pese embora só respondam aos mesmos os alunos cujos representantes legais hajam consentido na sua participação.
+Face ao teor das questões colocadas, recomenda-se à responsável que seja dado conhecimento prévio dos questionários quer às escolas, quer aos pais/representantes legais para que o seu consentimento se considere, de facto, informado.
+A declaração de consentimento informado deverá ser guardada no processo individual de cada aluno.
+Da análise dos dados recolhidos e da metodologia aplicada verifica-se que não há tratamento de dados pessoais, uma vez que em nenhum momento do estudo é possível
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.º 2345/2016 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS o relacionamento direto ou indireto da identificação dos participantes com as respostas aos questionários. Assim, porque não existe tratamento de dados pessoais, não se aplica a Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.
+Lisboa, 29 de novembro de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

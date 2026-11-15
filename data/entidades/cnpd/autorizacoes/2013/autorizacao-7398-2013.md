@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AIBILI - Associação para Investigação Biomédica e Inovação em Luz e Imagem'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,78 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:29:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7398/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57935](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57935).
+Proc.9895/13 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃON° 7398 2013
+Associação para a Inovação e Investigação Biomédica em Luz e Imagem (AIBILI), notificou a CNPD de um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico relativo à avaliação da pressão intraocular e tolerância dos colírios
+Bimatropost (...) ou do Latanoprost em doentes com hipertensão ocular ou glaucoma (Protocolo ECR-GLC-2013-06).
+As categorias de dados pessoais tratados do paciente: n.º do participante no estudo, data de nascimento, género, altura e peso, histórico clínico ocular e não ocular, sinais vitais, (pressão sanguínea), critérios de inclusão/exclusão, exames oftalmológicos, oftalmoscopia, melhor acuidade visual corrigida, medição de pressão intra-ocular, data de início de tratamento com gotas oftalmológicas de bimatoprost ou monoprost, data e causa da descontinuação do estudo, medicação concomitante e terapia não-farmacológica, acontecimentos adversos.
+As categorias de dados pessoais tratados do investigador: nome completo, número profissional, dados de contacto: contactos profissionais e/ou pessoais de telefone, fax, email e contacto preferencial.
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+A CNPD já se pronunciou na sua Deliberação n.º 333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.9895/13 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, alínea a), da Lei n.° 67/98, de 26 de outubro - LPD) para finalidades determinadas, explicitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular (cf.
+artigo 7.°, n.° 2, da LPD).
+Todavia, o texto informativo constante da declaração de consentimento informado não está em conformidade com os princípios de proteção de dados, na parte relativa ao acesso aos registos médicos.
+De facto, a Deliberação geral dos ensaios clínicos prevê que cabe ao Investigador assegurar a confidencialidade dos dados pessoais e da informação tratada.
+Cumprindo, assim, o estatuído na alínea g) do artigo 10.°, da Lei n.º 46/2004, de 19 de agosto (Lei dos ensaios clínicos). Pelo que, não se pode aceitar como válido um consentimento informado - ainda que obtido de forma livre e esclarecida - que contemple a possibilidade do acesso, pelo Promotor ou seus representantes, aos registos médicos dos seus titulares, salvo se esse representante revestir a qualidade de monitor, (nos termos do artigo 11.° da Lei dos Ensaios Clínicos), e apenas na medida do estritamente necessário, também recaindo sobre este a obrigação de confidencialidade.
+• responsável declarou a existência de interconexão com o tratamento de farmacovigilância. Na medida em que tais tratamentos estão codificados, não podendo o responsável aceder à identidade do titular, o inter-relacionamento da informação, não constitui uma interconexão de dados pessoais.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a), e 30.º da LPD, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Associação para a Inovação e Investigação Biomédica em Luz e Imagem (AIBILI).
+Finalidade: de gestão do ensaio clínico relativo à avaliação da pressão intraocular e tolerância dos colírios Bimatropost (...) ou do Latanoprost em doentes com hipertensão ocular ou glaucoma (Protocolo ECR-GLC-2013-06).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 9895/13 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+As categorias de dados pessoais tratados do paciente: n.º do participante no estudo, data de nascimento, género, altura e peso, histórico clínico ocular e não ocular, sinais vitais, (pressão sanguínea), critérios de inclusão/exclusão, exames oftalmológicos, oftalmoscopia, melhor acuidade visual corrigida, medição de pressão intra-ocular, data de início de tratamento com gotas oftalmológicas de bimatoprost ou monoprost, data e causa da descontinuação do estudo, medicação concomitante e terapia não-farmacológica, acontecimentos adversos.
+As categorias de dados pessoais tratados do investigador: nome completo, número profissional, dados de contacto: contactos profissionais e/ou pessoais de telefone, fax, email e contacto preferencial.
+Interconexões de tratamentos: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico investigador.
+Fluxos transfronteiras: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo / do Decreto-Lei n.º 176/2006, 30 de agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.º 333/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+O texto informativo deve ser alterado, no sentido de permitir o acesso aos registos medicos do paciente apenas ao Monitor, vedando essa possibilidade ao Promotor e seus representantes.
+Lisboa, 22de outubro de 2013
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.9895/13 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque (Relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado António,
+Vasco Almeida, Luís Paiva de Andrade.
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

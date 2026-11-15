@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: WYETH EX - WYETH LEDERLE DE PORTUGAL (FARMA), LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:00:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 174/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9685](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9685).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 47/99
+AUTORIZAÇÃO N.°1./2002
+A Wyeth Lederle Portugal, Lda tem o seu tratamento de dados relativo ao departamento de recursos humanos legalizado junto da Comissão Nacional de
+Protecção de Dados (Autorização n.º 30/99, de 8 de Junho de 1999), havendo-lhe sido concedida, no âmbito da mesma, autorização para proceder ao fluxo de dados pessoais neste constantes para os Estados Unidos da América (casa-mãe) e Reino Unido. A
+Wyeth Lederle Portugal, Lda solicita agora a inclusão de um novo dado no mesmo tratamento relativo aos recursos humanos da empresa :«desempenho profissional».
+Considerando-se o dado pertinente, adequado e não excessivo relativamente à finalidade para que é recolhido e posteriormente tratado este dado, assim se cumprindo o art. 5.° n.º 1 alínea e) da Lei da Protecção de Dados), atendendo a que também esta informação é recolhida de forma lícita (art. 5.º n.º 1 al. a) da Lei n.° 67/98), para finalidades determinadas, explícitas e legítimas (art. 5.° n.º 1 al. b), a
+CNPD delibera alterar o teor da Autorização n.º 30/99, para incluir este dado no elenco dos dados tratados.
+Segundo Wyeth Lederle Portugal, Lda, também neste caso os titulares dos dados consentem no seu tratamento, consentimento que é dado por escrito (veja-se formulário de recolha em anexo), bem como para a sua transmissão para os USA.
+Conforme se refere na Autorização n.º 1/99 de 28 de Janeiro, «os EUA - como é reconhecido a nível da União Europeia - não têm ainda um nível adequado de protecção de dados, nos termos do artigo 19.º da Lei 67/98 de 26 de Outubro». A transferência de dados pessoais para um Estado que não assegure um nível de protecção adequado pode ser permitida pela CNPD nos termos do art. 20.º da Lei n.° 67/98.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Nestes termos, a CNPD, ao abrigo do art. 23.° n.º 1 al. b) da Lei n.º 67/98, de 26 de
+Outubro, altera os termos da Autorização n.° 30/99 e, ao abrigo do artigo 20.° n.º 2 da Lei n.º 67/98 de 26 de Outubro, autoriza a inclusão deste dado no elenco de dados que podem ser objecto de transferência de dados para os Estados Unidos, desde que, também quanto a esta informação, sejam cumpridas as exigências estabelecidas na
+Deliberação n.º 6/99 de 9 de Fevereiro, bem como os condicionalismos especiais estabelecidos na presente autorização.
+Lisboa, 22de Outubro de 2002 atuindamentolastos
+Catarina Sarmento e Castro (relatora)
+Alexandrosousa Rinheiro
+Alexandre Pinheiro
+Luís José Durão Barroso
+Cuntubul Astrati
+Cristina Baptista
+Mário Manuel Varges Gomes
+Amadeu Francido Ribeiro Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

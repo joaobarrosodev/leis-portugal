@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6840/2016
-official_date: null
+official_date: '2016-07-12'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Universidade do Porto - Faculdade de Letras'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T13:36:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6840/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92912](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92912).
+Processo N.º 8120/2016 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 6840 12016
+I. Pedido
+A Faculdade de Letras da Universidade do Porto notificou à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo intitulado "Concepções e Práticas de Enfermeiros que atuam nos
+Cuidados de Saúde Primários sobre a Saúde Mental Infanto-juvenil: um Estudo entre
+Brasil e Portugal".
+O estudo decorrerá em unidades de cuidados de saúde primários (CSP) da cidade do
+Porto, em Portugal e da cidade de João Pessoa no Brasil e terá como participantes os enfermeiros destas unidades que tenham mais de um ano de experiência.
+O estudo consiste na realização de entrevistas semiestruturadas, na resposta a testes de associação livre de palavras (TALP) e na resposta a um questionário. A entrevista será objeto de gravação e posteriormente transcrita.
+As categorias de dados que a responsável pretende recolher são as seguintes: código de participação; Agrupamento de Centros de Saúde; freguesia; tipo de unidade de CSP;
+Idade; Género; Estado civil; Filhos (n.° e idade); Escolaridade; Instituição de formação;
+cursos de especialização; voz.
+A todos os intervenientes será solicitado consentimento informado para participação no estudo, bem como para gravação em formato áudio das entrevistas.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de participante. A chave desta codificação só pode ser conhecida da investigadora responsável.
+Os destinatários são informados sobre a natureza facultativa da sua participação e garantia de confidencialidade no tratamento, caso decidam participar, recolhendo a investigadora o seu consentimento informado para o efeito.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.º 812012018 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+II. Análise
+Porque em grande parte referentes à vida privada, os dados recolhidos pela requerente têm a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, ou dos seus representantes legais nos termos do disposto no n.º 2 do artigo 7° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto (Lei de Proteção de
+Dados Pessoais- LPDP).
+Por esta razão é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPDP, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+As entrevistas deverão ser realizadas de modo a que os participantes não sejam identificados.
+A investigadora deverá contar com a colaboração das unidades de saúde para intermediarem o primeiro contacto com os enfermeiros, apenas devendo ser contactados para participar no estudo aqueles que nesse contacto consintam.
+A informação tratada é recolhida de forma lícita (cf. alínea a) do n.° 1 do artigo 5.° da
+LPDP), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.° 8120/2016 3
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+II. Conclusão
+Em face do exposto, a CNPD autoriza o tratamento de dados pessoais supra apreciado, nos termos do n.º 2 do artigo 7.°, da alínea a) do n.° 1 do artigo 28.° e do n.º 1 do artigo 30.° da LPDP, consignando-se o seguinte:
+Responsável pelo tratamento: Faculdade de Letras da Universidade do Porto;
+Finalidade: estudo intitulado "Concepções e Práticas de Enfermeiros que atuam nos
+Cuidados de Saúde Primários sobre a Saúde Mental Infanto-juvenil: um Estudo entre
+Brasil e Portugal";
+Categoria de Dados pessoais tratados: código de participação; Agrupamento de Centros de Saúde; freguesia; tipo de unidade de CSP; Idade; Género; Estado civil; Filhos (n.° e idade); Escolaridade; Instituição de formação; cursos de especialização; voz.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do responsável.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: as gravações das entrevistas e a chave de codificação devem ser destruídas um mês após o fim do estudo.
+Dos termos e condições fixados na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 12 de julho de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

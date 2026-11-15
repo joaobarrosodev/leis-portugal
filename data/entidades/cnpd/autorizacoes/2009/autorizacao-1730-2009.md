@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1730/2009
-official_date: null
+official_date: '2009-04-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOÃO LUÍS SILVA CARVALHO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:10:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1730/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15670](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15670).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 10872/08
+AUTORIZAÇÃO N.° 130/2009
+João Luis Silva Carvalho, médico, notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo epidemiológico de caracterização da infertilidade em Portugal, designado por AFRODITE..
+A empresa Key Point é a entidade subcontratada para o processamento da informação.
+Serão incluídos no estudo indivíduos de ambos os sexos, com idade igual ou superior a 20 anos e inferior a 70 anos, residentes em Portugal, que contactados telefonicamente aceitem participar no estudo.
+O consentimento será prestado verbalmente.
+No "caderno de recolha de dados" não há identificação nominal do titular.
+As categorias de dados contidos no formulário são as seguintes: região, concelho, código do inquiridor, sexo, idade, concelho de residência, estado civil, escolaridade, dados antropométricos, situação profissional, indicação se trabalha com produtos químicos ou com altas temperatura, hábitos tabágicos, consumo de bebidas alcoólicas, prática de exercício físico, medicação regular, conhecimentos sobre infertilidade, causas e soluções, número de filhos e problemas de infertilidade.
+É declarado que com o objectivo de monitorização de estudo será preenchida uma ficha de identificação do lar inquirido, onde se registará a morada e o telefone do participante, com consentimento do titular.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+Ria de São Rento 149 20 , 10nn 001 1icna
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+De acordo com a Deliberação supra referida, sempre que o estudo possa ser feito sem identificar directamente os titulares dos dados, deve ser esta a opção tomada. Assim, deve responsável abster-se de relacionar os dados que permitem a identificação do participante (morada e telefone).
+O fundamento de legitimidade será o consentimento do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: João Luís Silva Carvalho,
+Finalidade: estudo epidemiológico de caracterização da infertilidade em Portugal, designado por AFRODITE..
+Categoria de Dados pessoais tratados: região, concelho, código do inquiridor, sexo, idade, concelho de residência, estado civil, escolaridade, dados antropométricos, situação profissional, indicação se trabalha com produtos químicos ou com altas temperatura, hábitos tabágicos, consumo de bebidas alcoólicas, prática de exercício físico, medicação regular, conhecimentos sobre infertilidade, causas e soluções, número de filhos e problemas de infertilidade.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: não aplicavél
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Rua de São Bento. 148-3° • 1200.801 1 ISROA
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Prazo de conservação: Os dados relativos à morada e telefone devem ser eliminados após a validação dos questionários.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa,20 de Abril de 2009
+Ana Roque, Carlos Campos Lobo, Luís Paiva de Andrade, Helena Delgado António,
+Luis Barroso (relator), Vasco Almeida
+Luis Lingnau da Silveira (Presidente)

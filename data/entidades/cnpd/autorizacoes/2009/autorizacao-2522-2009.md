@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2522/2009
-official_date: null
+official_date: '2009-02-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FOZ BAR ACTIVIDADES HOTELEIRAS, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,106 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:56:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2522/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17031](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17031).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 2938/07
+AUTORIZAÇÃO n.°2522 /2009
+I - Pedido 1. Foz Bar - Actividades Hoteleiras, Lda, veio notificar, junto da Comissão
+Nacional de Protecção de Dados (CNPD), o tratamento de dados de videovigilância a colocar no seu estabelecimento comercial. (Av. da
+Boavista n°5.)
+2. Pretende-se a colocação de 4 câmaras na entrada principal, sala de restaurante, sala de bar, hall acesso bengaleiro. Pista de dança, esplanada interior, esplanada de terraço, hall de armazém, escritório e saída de emergência lateral.
+3. Não existe Comissão de Trabalhadores.
+4. Declarou o responsável pelo tratamento que o estabelecimento tem capacidade de 600 lugares.
+II - Análise 5. O artigo 1.° do Decreto-Lei n.º 101/2008, de 16 de Junho, diploma que estabelece o regime jurídico dos sistemas de segurança privada dos estabelecimentos de restauração ou de bebidas e revoga o Decreto-Lei n.° 263/2001, de 28 de Setembro, determina o seguinte:
+i1 - Os estabelecimentos de restauração ou de bebidas previstos no artigo 2.° do Decreto-Lei n.° 234/2007, de 19 de Junho (), que disponham de (*) São estabelecimentos de restauração, qualquer que seja a sua denominação, os estabelecimentos destinados a prestar, mediante remuneração, serviços de alimentação e de bebidas no próprio estua de são ou , rages e spota fotos de bebidas, qualquer que se ader o se
+Tel: 213928400
+Fax: 213976832
+LINHA PRIVACIDADE geral@enpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS espaços ou salas destinados a dança ou onde habitualmente se dance são obrigados a adoptar um sistema de segurança privada que inclua, no mínimo, os seguintes meios:
+a) Estabelecimentos com lotação até 100 lugares - ligação à central pública de alarmes nos termos da lei;
+b) Estabelecimentos com lotação entre 101 e 1000 lugares - um vigilante no controlo de acesso e sistema de controlo de entradas e saída por video;
+c) Estabelecimentos com lotação igual ou superior a 1001 lugares - um vigilante no controlo de acesso, a que acresce um vigilante por cada 250 lugares no controlo de permanência e sistema de controlo de permanência, entradas e saida por video.
+2 - São abrangidos pelo disposto no número anterior todos os estabelecimentos de restauração e bebidas que disponham de espaços ou salas destinados a dança ou onde habitualmente se dance, independentemente da designação que adoptemi (sublinhado nosso).
+6. O artigo 3.° do Decreto-Lei n.° 101/2008 impõe vários deveres aos proprietários e aos administradores ou gerentes de sociedades que explorem esses estabelecimentos, designadamente a obrigação de afixar os avisos informativos da existência de câmaras e a conservação das gravações de imagens e som pelo prazo de 30 dias.
+7. Prevê o artigo 5.° do citado diploma que, sem prejuízo do disposto no presente decreto-lei, o sistema de segurança privada referido no artigo 1.° obedece ao disposto no Decreto-Lei n.° 35/2004, de 21 de Fevereiro.
+8. Ora, o n.º 4 do artigo 13.° do Decreto-Lei n.º 35/2004, determina que a autorização para a utilização dos meios de vigilância electrónica nos os estabelecimentos destinados a prestar, mediante remuneração, serviços de bebidas e cafetaria no próprio estabelecimento ou fora dele (cf. n.°s 1 e 2 do artigo 2, do Decreto-Lei n.° 234/2007, de 19 de
+Kua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral(@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS termos do presente diploma não prejudica a aplicação do regime geral em matéria de protecção de dados previsto na Lei n.° 67/98, de 26 de
+Outubro.
+9. E, nessa medida, a utilização de meios de videovigilância (tratamento de dados pessoais (?)()) carece de autorização da CNPD, nos termos do artigo 28.°, n.° 1, alínea a), da Lei n.° 67/98.
+10. A Lei da Protecção de Dados Pessoais dispõe que o tratamento dos dados pessoais se deve processar de forma transparente e no estrito respeito pela reserva da vida privada, bem como dos direitos, liberdades e garantias fundamentais (vd. artigo 2.°).
+11. Para além disso, exige a referida Lei que o tratamento a realizar e os meios utilizados sejam considerados os adequados, pertinentes e proporcionados com as finalidades estabelecidas: protecção de pessoas e bens (alínea c) do artigo 5.°, da Lei da Protecção de Dados Pessoais).
+12. O Decreto-Lei n.° 101/2008, no seu artigo 3.°, n.º 1, alínea c) a e)
+determina que a gravação de imagens e som deve ser conservada pelo prazo de 30 dias, findo o qual será destruída, só podendo ser utilizada nos termos da legislação processual penal.
+13. O artigo 3.°, n.° 1, alínea b) do referido diploma, garante aos titulares dos dados o direito de informação, impondo ao responsável pelo tratamento de videovigilância a afixação de um aviso informativo sobre a recolha de imagens, com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, (}) De acordo com o disposto no artigo 3.°, alínea b) e artigo 4.°, n.º 4, da Lei n.° 67/98 (") Entende-se por tratamento de dados pessoais "qualquer operação ou conjunto de operações sobre dados pessoais, efectuadas com ou sem meios automatizados, tais como a recolha, o registo, a organização, a conservação, a adaptação ou alteração, a recuperação, a consulta, a utilização, a comunicação por transmissão, por difusão ou por qualquer outra forma de colocação à disposição, com comparação ou interconexão, bem como o bloqueio, apagamento ou destruição (vd. alínea b) do artigo
+Rua dể São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS procedendo-se à gravação de imagem e som», que deverá ser seguido de um símbolo identificativo.
+14. Face às disposições citadas, entende a CNPD que o responsável está obrigado a proceder à gravação de imagem e conservar essas gravações pelo prazo de 30 dias.
+15. Finalmente, cabe mencionar que as câmaras não devem estar direccionadas para os terminais de pagamento, sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de debito.
+16. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20,° do Código do Trabalho (*), pelo que não se autoriza a recolha de imagens no interior do escritório.
+17. Contudo, a CNPD ressalva a possibilidade de captação de imagens nos acessos ao escritório. Contempla-se, ainda, a possibilidade de captação de imagens no interior do escritório fora do horário normal de funcionamento.
+III. Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigos 7.°, n.º 2, e 28.°, n.º 1, alínea a), da Lei n.° 67/98 e
+Decreto-Lei n.° 101/2008, de 16 de Junho) - devendo ser observadas as seguintes condições:
+(4) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3" • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A. Responsável pelo tratamento - Foz Bar - Actividades Hoteleiras, Lda.
+B. Finalidade - Protecção de pessoas e bens.
+C. Categoria de dados pessoais tratados: imagens e som.
+D. Transmissão de dados pessoais: Os dados só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+E. Forma de exercício do direito de acesso e de rectificação: É garantido ao titular o direito de conhecer, corrigir e eliminar os dados que lhe respeitem.
+F. Interconexão de dados: Não há.
+G. Fluxos transfronteiras: Não há.
+* Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de imagem e de som, com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagens» (artigo 3.°, n.º 1, alínea b)
+do Decreto-Lei n.° 101/2008, de 16 de Junho).
+* Os dados recolhidos são conservados pelo prazo de 30 dias, findo o qual serão destruídos, só podendo ser utilizados nos termos da legislação processual penal (artigo 3.°, n.º 1, alínea c) do
+Decreto-Lei n.° 101/2008);
+* A recolha de imagens deve confinar-se ao perimetro da propriedade e não pode envolver a recolha de imagens nas zonas limitrofes ou na via pública.
+* Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral(@)cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd. pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens que podem estar sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.° 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+* As câmaras não devem estar direccionadas para os terminais de pagamento, sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+* Não é autorizada a recolha de imagens no interior do escritório, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento. Contudo, a CNPD ressalva a possibilidade de recolocação da câmara de modo a que se capta apenas o acesso às instalações não se procedendo à recolha de imagens na via pública.
+Notificada, a entidade responsável para se pronunciar nos termos dos artigos 100.° e 101.° do CPA, e a mesma nada tendo dito, determina-se converter o projecto de autorização de 16 de Fevereiro de 2009, na presente autorização.
+Lisboa, 22 Junho 2009
+Ana Roque (Relatora), Carlos Lobo, Helena Delgado António, Vasco Almeida,
+Luís Barroso, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 39/2013
-official_date: null
+official_date: '2013-04-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Zurich - Companhia de Seguros Vida, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,34 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 39/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53023](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53023).
+Proc. n.º 2456/2010 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Registo n.º 39/2013
+Zurich - Companhia de Seguros de Vida, SA notificou à CNPD um tratamento de dados pessoais com a finalidade marketing (inquérito de satisfação).
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. alínea b) do artigo 5.° da Lei n.º 67/98, de 26 de outubro - LPD).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea e) do artigo 6° da LPD, o interesse do responsável.
+Por força do disposto no n.º 3 do artigo 13-A da Lei n.º 41/2004, de 18 de agosto, alterada e republicada pela Lei n.º 46/2012, de 29 de agosto, ao titular dos dados, cliente da responsável, deverá, no momento da recolha e por ocasião de cada utilização, ser garantida a possibilidade de recusa de utilização dos seus dados para essa finalidade.
+Assim, regista-se, nos termos dos artigos 27°, n.º 1, e 30°, n.º 1, ambos da LPD o tratamento, nos seguintes termos:
+Responsável - Zurich - Companhia de Seguros de Vida, SA
+Categoria de dados pessoais tratados - Dados de identificação e contacto e perguntas e respostas ao inquérito de satisfação..
+Finalidade - Marketing
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ou telefónica ao responsável
+Comunicação de dados a terceiros - Não há
+Interconexões - Não há;
+Fluxo transfronteiriço de dados para países terceiros - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°
+Lisboa, 3 de abril de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

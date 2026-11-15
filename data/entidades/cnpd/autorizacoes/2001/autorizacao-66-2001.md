@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SANTA CASA DA MISERICÓRDIA DE BENAVENTE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:07:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 66/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10169](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10169).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 650/00
+AUTORIZAÇÃO N.E6/2001
+O pedido
+A Santa Casa da Misericórdia de Benavente veio notificar o tratamento relativo à «gestão do Lar de 3ª Idade».
+Os dados recolhidos e tratados são os seguintes: nome, morada, familiares, data de nascimento, naturalidade, n.º beneficiário, n.º registo, data de admissão e valência.
+Os dados enunciados são necessários, adequados e não excessivos em relação à finalidade do tratamento (cf. art. 5.° da Lei 67/98, de 26/10) e inserem-se no âmbito das competências e acções desenvolvidas pela SCM.
+Há ainda legitimidade da Santa Casa da Misericórdia de Benavente para processar aqueles dados na medida em que o seu tratamento se integra no contexto da «prestação de cuidados de saúde» (cf. art. 7.° n.º 4) e na medida em que se acha igualmente fundamentado no cumprimento de obrigações legais e na execução de um "interesse público importante", para além de se verificar que estes dados são "indispensáveis ao exercício das atribuições estatutárias do responsável" e o "tratamento é feito com o "consentimento dos titulares" (cfr. art.º 7° n.º 2 da Lei n.° 67/98).
+A recolha dos dados é feita directamente, pessoal e por impresso. Os dados são comunicados à Segurança Social para efeitos estatísticos e actualização dos acordos existentes. Não inter-conexões, nem fluxos transfronteiras de dados. Estão previstas medidas para garantir a segurança das informações.
+A SCM de Benavente assegura a actualização dos dados recolhidos e de acordo com a
+Lei n.º 67/98, de 26/10 deve assegurar o direito de informação e de acesso ao titular dos dados nos termos do disposto nos art.°s 10 e 11.º da Lei n.º 67/98. Esses direitos podem ser realizados por escrito ou/e pessoalmente.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, nos termos dos artigos 27° e 30.º da Lei 67/98, de 26 de Outubro considera-se notificado o tratamento nos termos declarados:
+1. Responsável: Santa Casa da Misericórdia de Benavente 2. Categorias de dados tratados: nome, morada, familiares, data de nascimento, naturalidade, n.º beneficiário, n.° registo, data de admissão e valência 3. Finalidade: gestão do Lar de 3ª Idade 4. Entidades a quem podem ser transmitidos: à Segurança Social - CRSSLVT 5. Forma de exercício do direito de acesso e rectificação: por solicitação pessoal ou escrita 6. Eventuais interconexões: não há 7. Transferências de dados para países terceiros: não há.
+Lisboa, ½de Abril de 2001
+João Paulo Leal Dias Símões de Almeida (relator)
+Luís José Durão Barroso
+Anaden l
+Amadeu Francisco Ribeiro Guerra
+Catarina Teresa Rola Sarmento e Castro
+Mário ManueLVarges Gomes (Presidente em regime de substituição)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

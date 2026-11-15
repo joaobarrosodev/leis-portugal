@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Atos IT Solutions and Services, Unipessoal Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T13:37:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6830/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92922](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92922).
+Processo n.º 4869/2016 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 6830 12016
+ATOS IT SOLUTIONS AND SERVICES UNIPESSOAL, LDA., notificou um tratamento de dados pessoais com a finalidade de gestão das comunicações internas de atos de gestão financeira irregular (Linhas de Ética).
+A CNPD já se pronunciou na Deliberação n.° 765/20091 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da lei em matéria de proteção de dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade. Nessa Deliberação fixou que só podem ser objeto de tratamento os procedimentos de controlo interno de denúncia de infrações destinados a prevenir e/ou a reprimir irregularidades no seio da sociedade no domínio da contabilidade, dos controlos contabilisticos internos, da auditoria, da luta contra a corrupção e do crime bancário e financeiro.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+Os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei n° 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto).
+O fundamento de legitimidade é a execução de finalidades legítimas do responsável, previsto no n.° 2 do artigo 8.° da Lei n° 67/98.
+O direito de informação previsto no artigo 10.° da mesma Lei deve ser garantido aos titulares dos dados, nos termos previstos na Deliberação n.°765/09.
+A requerente pretende comunicar à ATOS SPAIN quaisquer investigações decorrentes de atividade que possam lesar a empresa, bem como dados decorrentes dessas investigações, no âmbito das relações de reporte intragrupo.
+1 Disponível em www.cnpd.pt/bin/orientacoes/DEL765-2009_LINHAS_ETICA.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n. 9 4869/2016 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 8.°, da alínea a) do n.° 1 do artigo 28.° e do artigo 30° da Lei n° 67/98, com as condições e limites fixados na referida Deliberação n.º 765/2009, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados nos seguintes termos:
+Responsável-ATOS IT SOLUTIONS AND SERVICES UNIPESSOAL, LDA.
+Finalidade - Gestão das comunicações internas de atos de gestão financeira irregular.
+Categorias de dados pessoais tratados - Identidade e categoria profissional do denunciante, identidade e categoria profissional do denunciado, identidade e funções das pessoas que intervêm na recolha e no tratamento de dados, os factos denunciados passíveis de integrarem atividades consideradas irregulares, no âmbito das atividades de contabilidade, auditoria, de luta contra a corrupção e do crime bancário e financeiro, os elementos de facto recolhidos no âmbito da averiguação e o destino dado à denúncia.
+Forma de exercício do direito de acesso e retificação - Por escrito, dirigido ao responsável na sede, sita na Avenida José Malhoa, 16 - 7° B2 Edifício Europa, Lisboa.
+Comunicações de dados pessoais a terceiros - ATOS SPAIN
+Interconexões - Não há.
+Fluxo transfronteiriço de dados para países terceiros - Não há.
+Prazo máximo de conservação dos dados - Os dados pessoais objeto de denúncia serão de imediato destruídos caso se revelem inexatos ou inúteis; Quando não haja lugar a procedimento disciplinar ou judicial, os dados que tenham sido objeto de comprovação serão destruídos decorrido o prazo de 6 meses a contar do encerramento das averiguações; Em caso de procedimento disciplinar ou judicial os dados serão conservados até ao termo desse procedimento. Neste caso, serão conservados no quadro de um sistema de informação de acesso restrito e por prazo que não exceda o procedimento judicial.
+Deve ser garantida a confidencialidade sobre a identidade do denunciante, com os limites descritos na Deliberação n.º°765/09.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n. 9 4869/2016 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dos termos e condições fixados na Deliberação n.º 765/09 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 42 de julho de 2016.
+reli
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PRAXAIR PORTUGAL GASES, S. A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:15:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1068/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6828](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6828).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 487/01
+AUTORIZAÇÃO N.° 1068|05
+I- Do Pedido
+A Praxair Portugal Gases, S.A. notificou a Comissão de um tratamento de dados com a finalidade de "Oxigen-terapia", ou seja, fornecimento de oxigénio ao domicílio. Os dados a tratar são: nome, endereço, número de telefone, prescrição e tratamento médico e informações sobre os serviços aplicados.
+A Praxair declarou também que a actividade relativa à oxigen-terapia é efectuada ao domicilio do paciente por "técnicos especializados", que não "(...) não são técnicos de saúde e por isso não estão obrigados a segredo profissional, ou seja, a especialização destes técnicos enquadra-se num conhecimento adequado de equipamento que fornecemos e do serviço que prestamos, serviço este receitado por um médico, profissional de saúde".
+II - Da Apreciação
+A finalidade do tratamento de dados em apreço enquadra-se no âmbito do artigo 7°, n.º 4 da Lei n.º 67/98, de 26 de Outubro. Todavia, um dos dois pressupostos ali exigidos não se verifica uma vez que, de acordo com o declarado, o tratamento dos dados "(...)
+não é efectuado por um profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional"
+Por este motivo o tratamento de dados só pode ser objecto de legalização ao abrigo do disposto no artigo 7°, n.º 2 da LPD e desde que verificada qualquer uma das condições de legitimidade ali previstas.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Com efeito, tendo a natureza de sensíveis os dados abrangidos pelo tratamento em causa, por se tratarem de dados de saúde, o respectivo tratamento só pode basear-se (nos termos do n° 2 do artigo 7° da Lei n° 67/98) no consentimento expresso, esclarecido e livre dos titulares dos dados (ou seus representantes).
+Relativamente a este requisito a entidade requerente junta o modelo de declaração de consentimento, o qual tem que, obrigatoriamente, conter a identificação do responsável pelo tratamento, a finalidade do tratamento, a categoria de dados a tratar, bem como o modo de exercício do direito de acesso, rectificação e eliminação dos dados por parte dos seus titulares/doentes.
+III - Da decisão
+Nesta conformidade, nos termos do artigo 29° da Lei n.º 67/98, de 26 de Outubro, consigna-se o seguinte:
+1. Responsável pelo tratamento: Praxair Portugal Gases S.A.
+2. Finalidade do tratamento: fornecimento de oxigénio ao domicilio (serviço de
+Oxigen-terapia).
+3. Categoria de Dados: os acima indicados.
+4. Comunicação de dados: não há.
+5. Entidade encarregue do processamento: o responsável.
+6. Interconexões de dados: não há.
+7. Tempo de conservação: 1 ano após o termo da relação contratual.
+8. Forma de exercício do direito de acesso e rectificação: por contacto directo e pessoal, ou por escrito, do titular com o responsável pelo tratamento.
+9. Transferência de dados para países terceiros: Não há.
+9. Medidas de segurança: acesso restrito de pessoas e password.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Notifique-se a entidade em conformidade.
+Lisboa, 19 _ de Dezembro de 2005
+Luís Lingnau da Silveira (Presidente que relatou)
+Luís Barroso
+Eduardo Campos
+Amadeu Guerra
+Alexandre Pinheiro
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

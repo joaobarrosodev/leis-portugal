@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2789/2013
-official_date: null
+official_date: '2013-04-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Venerável da Ordem Terceira de S. Francisco da Cidade'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,77 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T00:54:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2789/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53134](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53134).
+Proc. N.9: 2087/2009 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO NO 2789 12013 1. Pedido de autorização
+A Venerável Ordem Terceira de São Francisco da Cidade notificou à CNPD um tratamento de dados pessoais decorrente da gestão de administrativa de utentes, faturação e agendamento de atos médicos.
+A responsável pelo tratamento dedica-se à prestação de serviços de cuidados de saude.
+Os dados pessoais registados são: nome, data de nascimento, sexo, estado civil, filiação e conjuge, profissão, situação profissional, morada, contactos telefónicos, e-mail, NIF, n.º de Bl/Cartão do cidadão, centro de saúde, médico e serviço, n.° de utente, subsistema de saúde, seguro de saúde, médico assistente, agendamentos de consultas e observações de natureza administrativa. São ainda registados os dados de faturação.
+Os utentes poderão marcar a data dos exames através do sítio na Internet da responsável pelo tratamento. Os dados a recolher para esse efeito são o nome, consulta pretendida, data pretendida, hora, sexo, n.º de telemóvel, morada (opcional), e-mail (opcional), médico assistente (opcional) e apólice de seguro (opcional).
+O acesso à informação encontra-se segmentado por diferentes perfis. O acesso à informação clínica é restrito aos profissionais de saúde, pretendendo a responsável pelo tratamento legalizar o tratamento de dados administrativos dos utentes pelos funcionários administrativos.
+II. Apreciação Jurídica
+O tratamento de dados de saúde é realizado para fins de i medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde» (cfr. n.º 4 do artigo 7.º da Lei n.º 67/98, de 26 de Outubro - Lei
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.9: 2087/2009 2.
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS de Protecção de Dados - LPD). Ao mesmo tempo, e tal como resulta do mesmo preceito, o tratamento desses dados é efetuado «por um profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional.
+A identificação dos utilizadores deverá ser realizada através de um nome de utilizador e password.
+A informação deve ser compartimentada, no sentido de apenas ser acessível aos funcionários administrativos a informação necessária para a prossecução das suas funções.
+Quanto à segurança da informação, deve o responsável pelo tratamento adotar regras de procedimento interno, de forma a analisar periodicamente os registos de acesso (logs), para garantir que os acessos à informação se efetuam de acordo com os princípios da necessidade e pertinência. Os logs e os relatórios de análise devem ser conservados durante o período máximo de conservação da informação, para efeitos de auditoria da CNPD no exercício das suas competências.
+Incumbe ao responsável pelo tratamento a obrigação de pôr em prática as medidas técnicas e organizativas adequadas para proteger os dados pessoais contra a destruição acidental ou ilícita, a perda acidental, a alteração, a difusão ou acesso não autorizados, bem como para garantir um nível de segurança adequado em relação aos riscos inerentes ao tratamento e à natureza dos dados a proteger (cfr. artigo 14.° da
+LPD).
+A CNPD determina, ao abrigo do n.º 4 do artigo 15.° da LPD, que a circulação da informação em rede, porque pode pôr em risco direitos, liberdades e garantias dos titulares, deve ser encriptada.
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados tratados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.: 2087/2009 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cfr. al. c) do ° n.º 1 do artigo 5.° da LPD).
+III. Decisão
+Deste modo, a CNPD autoriza o tratamento de dados - cfr. n.º 4 do artigo 7.°, al. a) do n.º 1 do art. 28.°, al. b) do n.º 1 do art. 23.° e 30.° da Lei n.º 67/98, de 26 de Outubro -com as condições acima referidas. Termos do tratamento:
+1. Responsável: Venerável Ordem Terceira de São Francisco da Cidade 2. Finalidade: Gestão de processos clínicos, faturação e agendamento de atos médicos.
+3. Categorias de dados pessoais tratados: nome, data de nascimento, sexo, estado civil, fillação e conjuge, profissão, situação profissional, morada, contactos telefonicos, e-mail, NIF, n.º de BI/Cartão do cidadão, centro de saúde, médico e serviço, n.° de utente, subsistema de saúde, seguro de saúde, médico assistente, agendamentos de consultas e observações de natureza administrativa. São ainda registados os dados de faturação.
+4. Entidades a quem podem ser transmitidos: Não há.
+5. Forma de exercício do direito de acesso e retificação: Por solicitação escrita ou pessoal. A informação de saúde é revelada por «intermediação médica» (cfr. n.° 5 do artigo 11.° da LPD).
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Tempo de conservação:
+a) Dados de saúde - Nos termos do anexo à Portaria n.º 247/2000, de 8 de
+Maio;
+b) Dados de facturação - 10 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.9: 2087/2009 | 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Deve ser dado conhecimento da presente autorização a todos os intervenientes no circuito da informação.
+Lisboa, 09 de abril de 2013
+Ana Roque (Relatora), Helena Delgado António, Carlos Campos Lobo, Luís Barroso,
+LuIs Paiva de Andrade, Vasco Almeida
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

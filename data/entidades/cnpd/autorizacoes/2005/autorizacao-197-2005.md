@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 197/2005
-official_date: null
+official_date: '2005-05-24'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AUTO ESTRADAS DO ATLÂNTICO - CONCESSÕES RODOVIÁRIAS DE PORTUGAL, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:30:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 197/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7614](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7614).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.º 6756/622/04
+Autorização n.° 197/2005 1- Auto-Estradas do Atlântico - Concessões Rodoviárias de Portugal, SA, solicita à
+Comissão Nacional de Protecção de Dados (CNPD) autorização para efectuar um tratamento com as seguintes características:
+- Recolha dos dados, nome, morada e e-mail junto da Via Verde Portugal - Gestão de
+Sistemas Electrónicos de Cobrança, SA;
+- A finalidade do tratamento consiste no envio de mailing, justificando-se a necessidade de estabelecer contactos periódicos com os clientes com o intuito de aferir e melhorar o nível dos serviços prestados aos seus clientes, frisando que o serviço da AEA aos seus utentes não poderá ser cabalmente prestado caso não seja permitido o acesso aos dados dos aderentes ao sistema Via Verde;
+- Do processo consta o inquérito que se pretende enviar aos utentes.
+2- Entende-se que os dados que se pretende recolher são pertinentes, adequados e não excessivos atenta a finalidade prosseguida, de todo tida como legítima. Contudo, a
+Comissão Nacional de Protecção de Dados considera estarmos perante uma utilização de informação pessoal para efeitos distintos dos que presidiram à recolha e por entidade diversa.
+Nestes termos, a Comissão Nacional de Protecção de Dados considera que a transmissão de dados da Via Verde Portugal - Gestão de Sistemas Electrónicos de
+Cobrança, SA para a Auto-Estradas do Atlântico -Concessões Rodoviárias de Portugal,
+SA, se encontra dependente de informação prévia por parte da entidade que recolheu a informação e consentimento do titular dos dados, ou seja a Via Verde Portugal - Gestão de Sistemas Electrónicos de Cobrança, SA.
+Assim recolhidos, os dados podem ser conservados por um período de 5 anos.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa,24 de Maio de 2005
+Alexandre Sousa Pinheiro (Relator)
+Luis Barroso
+Eduardo o ampos
+Ana Luísa Geraldes
+Aeden
+Amadeu Guerra (Presidente em substituição)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt internet: http:/www.cnpg.pt

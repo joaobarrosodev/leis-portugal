@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 552/2015
-official_date: null
+official_date: '2015-01-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Barclays Bank PLC - Sucursal em Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:04:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 552/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73108](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73108).
+Processo n.: 16768/2014 1 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N. 552/2015
+Barclays Bank PLC - Sucursal em Portugal notificou um tratamento de dados relativo à operação de cessão de créditos, tendo por cessionária a Arrow Global Portugal
+Investments Limited.
+A referida transação poderá envolver uma transmissão de dados pessoais do devedor (nome, contactos, dados do contrato, valores do crédito em divida e das prestações periódicas) e, se aplicável, de representantes legais e pessoas que tenham prestado garantia.
+As informações supra referidas são entregues à cessionária, em suporte digital ou por outros meios similares disponíveis, comprometendo-se esta entidade a apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão. Assim, aquela entidade só terá acesso à informação pessoal nas circunstâncias excecionais indicadas no contrato de cessão de crédito.
+A cedência de dados é feita no âmbito de um contrato, nos termos do artigo 577.° do
+Código Civil (CC). Por força do n.º1 do referido artigo 577.° a cessão de crédito é admissível independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros direitos acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.° 1 do art.° 582.° do CC)
+Os dados objeto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no artigo 78.° do Decreto-Lei n.º 298/92, de 31 de dezembro. Enquadram-se, por isso, no conceito de vida privada do n.º 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro (LPD).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 16768/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é a disposição legal prevista no n.° 2 do artigo 7.° da
+LPD.
+O responsável deverá assegurar que o titular obteve as informações previstas no artigo 10.° da LPD, designadamente que a cessionária é destinatária da informação e a finalidade da comunicação. Deve, de igual modo, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização de auditorias internas e externas. Devem, também, ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direção, a outros técnicos obrigados a segredo profissional. No que diz respeito aos dados contidos em suporte de papel, devem ser adotadas medidas, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos da alínea b) do n.º 1 do artigo 23.° e da alínea b) do n.º1 do artigo 28.° da LPD, a CNPD autoriza o tratamento nos termos suprarreferidos, consignando, nos termos e para os efeitos do artigo 30.° da LPD, o seguinte:
+Responsável - Barclays Bank PLC - Sucursal em Portugal
+Categorias de dados pessoais tratados - nome, contactos, dados do contrato, valores do crédito em dívida e das prestações periódicas
+Finalidade - Cessão de créditos
+Entidade a quem são comunicados - Arrow Global Portugal Investments Limited
+Forma de exercício do direito de acesso e retificação: Por escrito, por correio postal para a sede da responsável sita na Avenida do Colégio Militar, Torre Oriente, n.° 37-F, 13.°, 1500-180 Lisboa
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.9 16768/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Eventuais interconexões: Não aplicável
+Transferência de dados para países terceiros: Não aplicável
+Prazo de conservação dos dados: 7 anos após a extinção dos créditos
+Lisboa, 20 de janeiro de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

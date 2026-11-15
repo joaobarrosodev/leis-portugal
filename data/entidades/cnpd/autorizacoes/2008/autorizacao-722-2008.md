@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AMGEN - BIOFARMACÊUTICA LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:39:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 722/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3581](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3581).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS ler
+Processo n.° 5293/07
+AUTORIZAÇÃO N.°+22 12008
+A Amgen Bio-Farmacêutica, Lda notificou um tratamento de dados pessoais com a finalidade de elaborar um estudo epidemiológico, observacional, prospectivo para rever a gestão do risco de neutropenia e de anemia em doentes com Tumores Sólidos a receber tratamento com Quimioterapia Mielotóxica ( Protocolo n.° 20060445).
+A empresa Medidata, com sede no Reino Unido, é a entidade encarregada de processar a informação.
+Serão incluídos no estudo cerca de 1 300 doentes que sofram de cancro da mama, dos ovários e dos pulmões.
+Aos doentes que reúnam os critérios de inclusão no estudo ser-lhes-à solicitado o consentimento informado.
+Serão recolhidos os seguintes dados: Código do doente, ano de nascimento, peso/altura, raça, história médica, diagnóstico histológico, estadio da doença, quimioterapia planeada, data do ciclo e dose, resultados das análises ao sangue, terapêutica concomitante, reacções adversas e transfusões. Não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação é apenas conhecida do médico.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No que respeita ao tratamento do dado raça o responsável justifica a sua pertinência por "esta informação ser essencial devido à necessidade de provar que os resultados obtidos são válidos independentemente da origem étnica do doente e por isso transponíveis para outros grupos populacionaisi
+O fundamento de legitimidade será o consentimento do titular dos dados.
+O texto do consentimento informado deve ser reformulado de forma a cumprir o disposto no artigo 10° da LPD.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Amgen Bio-Farmacêutica, Lda
+Finalidade: estudo epidemiológico, observacional, prospectivo para rever a gestão do risco de neutropenia e de anemia em doentes com Tumores Sólidos a receber tratamento com Quimioterapia Mielotóxica ( Protocolo n.º 20060445).
+Categoria de Dados pessoais tratados: Código do doente, ano de nascimento, peso/altura, raça, história médica, diagnóstico histológico, estádio da doença, quimioterapia planeada, data do ciclo e dose, resultados das análises ao sangue, terapêutica concomitante, reacções adversas e transfusões. Não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação é apenas conhecida do médico.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico participante.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Prazo de conservação: o código de doente, porque torna os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 28 cle AGofole 2008 e
+Ana Roque congo como os heles
+ле е
+мля
+Eduardo Campos
+Helena Delgado António
+Luis Barroso
+Vasco Almeida vire
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

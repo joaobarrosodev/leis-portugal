@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IBERSOL, SGPS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:07:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 12/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37808](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37808).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 6748/2009
+REGISTO N.° 12 / 2011
+Entidade
+Ibersol, SGPS, SA
+Finalidade
+Acções de Marketing
+Nome de Escola; Telefone; Localidade; Nome do
+Declaram as seguintes categorias de dados pessoais aluno; Ano de escolaridade; telefone do encarregado de educação.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento da legitimidade para o tratamento é, nos termos da alínea e) do artigo 6.° da LPD, o interesse do responsável.
+Assim, regista-se nos termos dos artigos 27.° n.º 1 e 30.° n.º 1.° da Lei 67/98, de 26 de Outubro nos seguintes termos:
+Responsável
+Ibersol, SGPS, SA
+Comunicação de acções de "Marketing" da Campanha " Pedala com
+Finalidade toda a Força/Kids Bike Tour".
+Nome de Escola; Telefone; Localidade;
+Categoria de dados pessoais tratados
+Nome do aluno; Ano de escolaridade;
+telefone do encarregado de educação.
+Comunicação
+A outras empresas do Grupo Ibersol
+Fluxo transfronteiriço
+Não há de dados
+Prazo de Conservação 5 Anos
+Forma de exercicio do direito
+Por carta dirigida ao Departamento de Marketing de acesso e rectificação da Ibersol
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° bem como o direito de oposição do art 12° da LPD.
+Porque em causa estão dados pessoais de menores, apenas podem ser recolhidos os dados se os responsáveis legais das crianças autorizarem previamente essa recolha
+Lisboa, 4 / 10 / Jo u
+O Presidente da CNPD, (Luís Lingnau da Silveira)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

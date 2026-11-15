@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 13/2014
-official_date: null
+official_date: '2014-01-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: WOMAN DREAM CONCEPT, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:57:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 13/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/61069](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/61069).
+Processo n.º 8316/2010 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+REGISTON.° 13 12014
+WOMAN DREAM CONCEPT, LDA notificou um tratamento de dados pessoais com a finalidade de gestão de clientes.
+Os dados pessoais tratados são: nome, morada, telefone e data de nascimento.
+Os dados são recolhidos pessoalmente.
+Os dados pessoais recolhidos são pertinentes e não excessivos face à finalidade declarada, conforme o disposto na alínea c) do n.º 1 do artigo 5.° da Lei n.º 67/98, de 26 de outubro - Lei de
+Proteção de Dados (LPD).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da LPD, a execução de contrato.
+A requerente declarou 10 anos como prazo de conservação dos anos, o que se considera desadequado tendo em conta a finalidade do tratamento. Os dados devem ser conservados enquanto os clientes usufruírem dos serviços prestados pelo responsável. Nesse sentido, fixa-se como prazo de conservação dos dados o período de vigência da relação contratual.
+Assim, em conformidade com o n.º 1 do artigo 27° e do n.º1 do artigo 30.° da Lei n.º 67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+WOMAN DREAM CONCEPT, LDA
+Finalidade
+Gestão de clientes
+Categoria de dados pessoais tratados nome, morada, telefone e data de nascimento
+Forma de exercício dos direitos de acesso e retificação
+Pessoalmente
+Comunicações de dados a terceiros
+Não há
+Interconexões
+Não há
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 8316/2010 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Transferências para países terceiros
+Não há
+Prazo máximo de conservação dos dados
+Durante a vigência da relação contratual
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD, bem como o direito de oposição à utilização dos seus dados para fins de marketing (cf. alínea b)
+do artigo 12° da LPD).
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, em conformidade com o previsto no artigo 14° da LPD.
+Lisboa, 10 de janeiro de 2014
+A Secretária da CNPD,
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

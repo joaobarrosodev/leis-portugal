@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 48/2014
-official_date: null
+official_date: '2014-07-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Nobre Fracção - Administração de Condomínios, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:57:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 48/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/66497](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/66497).
+Proc. 6847/2011 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n.º48/2014
+Nobre fracção - Administração de Condomínios, Ldª (Loja do Condomínio de Caldas da Rainha) notificou um tratamento de dados pessoais com a finalidade de Gestão de
+Condomínios.
+Os dados pessoais são recolhidos diretamente, telefónica e presencialmente.
+A entidade encarregue do processamento da informação é a Franquiger - Gestão de franquias, S.A, com quem a responsável terá de estabelecer o contrato previsto no artigo n° 14° da Lei de Protecção de Dados (LPD).
+Declaram os seguintes dados pessoais: nome, morada, contactos, identificação, seguros, dados relativos à gestão do condomínio. Quanto aos dados de preenchimento obrigatório, entende-se serem pertinentes e não excessivos face à finalidade declarada.
+Declaram ainda recolher dados, de carácter facultativo, sobre se o condomínio tem seguro de recheio e o seu valor, se possui segunda habitação e de que tipo, se tem ligação à Internet e qual o operador, e o n° de pessoas do agregado familiar e sua idade.
+Estes dados não são pertinentes para a prossecução da finalidade de gestão de condomínio. Além disso, o responsável não declarou qualquer outro objetivo para sustentar o tratamento destes dados. Nessa medida, apesar de serem de preenchimento facultativo, considera a CNPD serem os dados excessivos, não sendo autorizado o seu tratamento. Consequentemente, deve o responsável eliminar de imediato todos os dados entretanto recolhidos e tratados, ordenando à Franquiger para que apague igualmente estes dados em conformidade.
+Apesar de a entidade não ter declarado, terá necessariamente que, face à finalidade, tratar dados relativos a débitos e créditos dos condóminos.
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da LPD, a execução do contrato.
+Assim, regista-se, nos termos dos artigos 27° n° 1 e 30° n° 1 da Lei n° 67/98, de 26 de outubro, o tratamento, nos seguintes termos:
+Responsável - Nobre Fracção - Administração de Condomínios, Lda
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 6847/2011 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Categoria de dados pessoais tratados - nome, morada, contactos, NIF, e n° de
+Identificação, dados relativos ao seguro de fração, e dados relativos à gestão do condomínio.
+Finalidade - Gestão de Condomínios
+Forma de exercício do direito de acesso e retificação - Por solicitação ao responsável presencialmente ou por carta.
+Interconexões -Não ha;
+Comunicação de dados a terceiros - Não há;
+Fluxo transfronteiriço de dados -Não há;
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, da Lei n° 67/98, de 26 de outubro.
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e)
+do art° 5°, fixa-se em 30 dias após o fim da relação contratual com o condomínio.
+Alerta-se o responsável que não poderão ser afixadas no condomínio as listagens dos condóminos devedores.
+Alerta-se que a Franquiger, SA não tem legitimidade para utilizar os dados pessoais dos clientes do responsável pelo tratamento.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 4 de julho de 2014
+¡' | A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

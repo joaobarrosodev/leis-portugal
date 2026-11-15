@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 8/2008
-official_date: null
+official_date: '2008-01-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JÚLIO MANUEL DE CARVALHO ESPADA OLIVARES'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,32 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:49Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 8/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1074](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1074).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 31/07
+Registo & /08
+Júlio Manuel Carvalho Espada Olivares notificou um tratamento de dados que tem por finalidade a gestão dos utilizadores registados em sítios do responsável (www.tugamail.com; www.tugamail.pt; www.prendinhas.com).
+São recolhidos os seguintes dados: e-mail, nome morada, telefone, fax, data de nascimento, código de acesso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do art° 5° da Lei 67/98).
+O tundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.° 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Júlio Manuel Carvalho Espada Olivares
+Categoria de dados pessoais tratados - e-mail, nome morada, telefone, fax, data de nascimento, código de acesso.
+Finalidade - gestão dos utilizadores registados em sítios do responsável.
+Forma de exercício do direito de acesso e rectificação - Directamente nos sítios ou por solicitação ao responsável.
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informaçãoprevisto no artigo 10° da LPD.
+Alerta-se o responsável que o presente registo não inclui as eventuais recolhas de dados que ocorram nos respectivos sítios com a finalidade gestão de clientes.
+Lisboa, 23 de Janeiro de 2008
+A Secretária da CNPD ava
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

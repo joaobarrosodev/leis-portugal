@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1/2002
-official_date: null
+official_date: '2002-01-06'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: POLÍCIA MUNICIPAL DO MUNICÍPIO DE CASCAIS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:04:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9898](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9898).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 805/2001
+AUTORIZAÇÃO N.° 1 /2002
+A Polícia Municipal do Município de Cascais vem notificar a CNPD da recolha de imagens com vista à segurança das instalações, controlo de entradas, saídas e movimentação de pessoas dentro do espaço abrangido.
+As imagens são recolhidas por várias câmaras, sendo solicitada a conservação pelo período de 6 meses e sem que haja qualquer tratamento posterior.
+A formulação da finalidade é demasiado genérica. O DL 231/98, de 22 de Julho admite a recolha de imagens no contexto da adopção de sistemas de autoprotecção, prevenção de prática actos susceptíveis de comprometer a segurança das instalações e protecção de pessoas e bens. Os sistemas de protecção são admissíveis, no contexto do referido diploma, sendo proibida a utilização destes meios em acções que contribuam para «inibir ou restringir o exercício de direitos, liberdades e garantias».
+Daqui decorre - tanto mais que nada é dito em contrário - que o sistema agora notificado não pode ser utilizado para finalidades diversas das previstas no DL 231/98, em particular para o "controlo da liberdade de movimentos de pessoas no interior das instalações", "controlo dos trabalhadores" ou outras finalidade não especificadas ou concretizadas no pedido.
+Assim, em razão do que antecede, não se vislumbra que haja razões objectivas para estabelecer um prazo de conservação superior ao legalmente previsto: 30 dias (cf. art.
+12.° n.° 2 do DL 231/98).
+A recolha e tratamento de dados faz-se nos termos da lei (DL 231/98, de 22 de Julho), sendo necessário assegurar o direito de informação, nos termos estabelecidos no artigo 12.º n.º 3 do referido diploma, através da inclusão de um texto - em local bem visível - com os seguintes dizeres: «Para sua protecção este local encontra-se sob vigilância de um circuito fechado de televisão».
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A Polícia Municipal do Município de Cascais deve proceder à afixação deste avisos (cf. ponto n.º 12 do formulário).
+A CNPD autoriza o tratamento (cf. art. 4.° n.º 4, 27.° n.° 1, 28.° n.° 1 al a) e 29.° da Lei 67/98, de 26 de Outubro), consignando-se o seguinte:
+1. Responsável: Polícia Municipal do Município de Cascais 2. Categorias de dados pessoais tratados: Gravação de imagem nos locais indicados no ponto 3 do formulário e plantas anexas.
+3. Finalidade: Segurança das instalações e protecção de pessoas e bens.
+4. Entidades a quem podem ser transmitidos: Não há transmissão de dados. iOs dados só podem ser utilizados «nos termos da lei penal».
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação pessoal.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Prazo de conservação: 30 dias
+Lisboa, 6 de Janeiro de 2002
+Aridden w
+Amadeu Guerra (relator)
+Catainofamentalastios
+Catarina Sarmento e Castro
+Alexandre Pinheiro ro
+Luís Barroso
+Cristina Baptista
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Mário Varges Gomes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANTÓNIO JOAQUIM PESSANHA DE FIGUEIREDO DE CARVALHO E MELO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:34:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1730/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22952](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22952).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 5074/09
+AUTORIZAÇÃO N.º 17392010
+António Joaquim Pessanha de Figueiredo de Carvalho e Melo, médico com especialidade em medicina do trabalho, com endereço em Casa de Vilarinho de São Romão, 5060-630 Vilarinho de São Romão, veio notificar o tratamento relativo à gestão de processo clínico de utentes do seu consultório, organizado segundo duas vertentes distintas: recolha de dados identificativos do utente facultados voluntariamente pelo próprio para efeitos de registo de contacto; e recolha e tratamento de dados clínicos do Utente.
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto e dados clínicos, referentes ao histórico da saúde.
+2. De acordo com a informaçao constante do quadro 11 afigura-se que foram adoptadas cautelas em matéria de medidas de segurança. Os dados de saúde deverão estar separados logicamente dos dados de identificação, nos termos do artigo 15°, n° 3, da Lei n° 67/98.
+3. Os titulares dos dados dão o seu consentimento informado, em campo próprio do formulário de recolha de dados, nos termos do artigo 7.9, n.º 2, da
+Lei 67/98, de 26 de Outubro.
+4. Admite-se que os dados médicos sejam de acesso a funcionários administrativos ou de entermagem desde que esse processamento seja realizado sob ordem e supervisão do médico encarregado de prestar os cuidados de saúde ao doente, titular dos dados.
+Considera-se legítimo o tratamento nos termos do artigo 7.°, n.º 4, da Lei 67/98, de 26 de Outubro.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em face do exposto, autoriza-se o tratamento de dados por parte do
+Requerente (cf. artigo 27.° e 28.° da Lei 67/98) consignando-se, nos termos do artigo 30.°, o seguinte:
+1. Responsável: António Joaquim Pessanha de Figueiredo de
+Carvalho e Melo 2. Categorias de dados pessoais tratados: identificação do doente, dados clínicos.
+3. Finalidade: gestão de processo de utentes do consultório clínico.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação verbal ou escrita do utente junto do responsável.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação: Os dados podem ser conservados por 5 anos, contados após a última actualização.
+Lisboa, 3 Maio de 2010.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida
+Luis Lingnau da Silveira (Presidente)

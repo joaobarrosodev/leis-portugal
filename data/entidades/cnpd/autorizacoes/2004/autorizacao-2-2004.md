@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOGECOIMBRA-GESTÃO DE IMÓVEIS E SERVIÇOS,SOC.UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,87 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:52:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7859](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7859).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 12284/1053/04
+AUTORIZAÇÃO N.° 2/2004
+I.1. SogeCoimbra - Gestão de Imóveis e Serviços - Sociedade
+Unipessoal, Lda veio notificar o tratamento de videovigilância instalado no Parque Mondego, nos termos que identifica nos autos.
+II - Apreciando e Decidindo:
+1. Através da Deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios gerais e o enquadramento legal sobre o tratamento de dados de videovigilância, tendo aí definido os parâmetros gerais a que o mesmo deve obedecer.
+Destarte, qualquer apreciação jurídica sobre tal matéria deve ter necessariamente em conta o entendimento vertido nessa Deliberação, restando aferir in concreto os pressupostos aludidos na citada Deliberação da CNPD.
+Assim sendo, temos que:
+2. No que concerne à apreciação das condições de tratamento de videovigilância pela entidade responsável, importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (art.
+5.°, n.º 1, al. c), da Lei 67/98, de 26 de Outubro), às condições de legitimidade (artigos 7. e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso quanto aos dados recolhidos pelos sistemas de videovigilância.
+3. Verifica-se, assim, que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade assinalada, afigura-se-nos que o tratamento através de 23 câmaras de captação de imagem (conforme declaração de fls.
+7 e 8) se apresenta como adequado, pertinente e não excessivo em relação a essa finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+() Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Com efeito, pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Ora, o que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com a protecção dos seus direitos fundamentais (), bem como registar e documentar a eventual prática de infracções.
+Sendo certo que o tratamento de som ou imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que "situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+Nestas circunstâncias, e em termos gerais, não se afigura que devam prevalecer os direitos, liberdades e garantias dos titulares sobre o interesse do responsável Requerente.
+No entanto, o tratamento não deve ter como finalidade outra finalidade que não seja a protecção de pessoas e bens.
+Designadamente, não deve o tratamento através de videovigilância servir para avaliar o desempenho profissional dos trabalhadores, pois tal tratamento para essa finalidade é proibido pela lei laboral - artigo 20° do Código de Trabalho.
+Como atrás se disse, a única finalidade admitida por lei para o tratamento de imagem por videovigilância é a segurança de pessoas e bens. Para essa finalidade, após a captação e gravação das imagens, não deve haver acesso por quem quer que seja. No caso de notícias ou indícios da prática de crimes, devem as entidades e pessoas da empresa de segurança acima indicadas actuar junto das entidades competentes
+- autoridades judiciárias e órgãos de polícia criminal - a quem fornecerão os suportes onde as imagens estão gravadas.
+() O artigo 8.° n.º 2, da Lei n° 67/98, de 26 de Outubro, obriga, como condição a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e de imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Quanto à segurança da informação, não deve haver registo das imagens noutros suportes. É expressamente proibida o registo das imagens gravadas em cópias de qualquer suporte, seja qual for a finalidade desse registo.
+Quanto ao acesso à informação das imagens gravadas, uma vez que se trata de serviços de auto-protecção organizados pela SogeCoimbra e complementados por uma empresa devidamente licenciada e detentora de alvará, têm exclusivo acesso às imagens em tempo real o Director de
+Segurança da SogeCoimbra (existindo de acordo com o disposto no artigo 7º do Decreto-Lei 35/2004 de 21 de Fevereiro) e o pessoal da empresa de segurança privada. Quanto a estes últimos, o artigo 19° deste Decreto-Lei impõe-lhes o respeito pelo segredo profissional. Quanto aos primeiros, igual respeito pelo sigilo lhes é imposto pelo n° 1 do artigo 17° da Lei de
+Protecção de Dados.
+No entanto, após a captação, às imagens gravadas, não deve haver acesso por quem quer que seja. No caso de notícias ou indícios da prática de crimes, devem as entidades e pessoas acima indicadas actuar junto das entidades competentes - autoridades judiciárias e órgãos de polícia criminal - a quem fornecerão os suportes onde as imagens estão gravadas. No caso de direito de acesso por parte de titulares, só o responsável pelo tratamento, ou quem o represente, deve aceder às imagens gravadas, exclusivamente para esse efeito, com a salvaguarda dos direitos de outros titulares envolvidos.
+4. Em Conclusão:
+- Face ao que antecede, decide-se considerar como legítimo o tratamento, autorizando-se, por consequência, o seu responsável - a
+SogeCoimbra identificada nos autos - a recolher os dados (artigo 8.° n.° 2 e 28.° n.º 1 al. a) da Lei 67/98), devendo ser observadas, ainda, as seguintes condições:
+1. Finalidade - Exclusivamente para protecção de pessoas e bens.
+2. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+3. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.º da Lei 67/98, de 26/10. De resto, só o Director de Segurança da SogeCoimbra e o pessoal da empresa de segurança podem ter acesso às imagens em tempo real.
+Após a sua gravação, não deve haver visualização das imagens seja por quem for, com excepção do exercício do direito de acesso pelos titulares, nos termos abaixo indicados.
+4. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem. Tal informação deve ser prestada nos termos da lei em vigor - Decreto-Lei 35/2004 de 21 de Fevereiro.
+5. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal -imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da
+Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+Deve, ainda, impedir que as câmaras de vídeo sejam direccionadas para os respectivos sistemas ou terminais de pagamento.
+6. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 15 dias.
+E expressamente proibida a captação de imagens fora do perímetro das instalações da requerente, especialmente na via pública e prédios contíguos, bem como no interior das viaturas. O sistema deve estar tecnicamente apto para impedir a captação e/ou visualização de imagens nesses locais.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, P de JGaeiro de 2005
+Eduardo Campos (relator)
+Ana Luísa Geraldes
+Amadeu Guerra
+Alexande desa finle
+Alexandre Pinheiro
+Luís Durão Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5

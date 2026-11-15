@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARIA JOÃO, ESTÉTICA & BEM-ESTAR LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T05:32:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 10421/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37342](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37342).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 5946/11
+AUTORIZAÇÃO N. 12011
+Maria João, Estética & Bem Estar, Lda., veio notificar o tratamento relativo à gestão de processo de clientes atendidos nas suas instalações, no âmbito da realização de prestação de "serviços de estética e bem-estar e comercialização de produtos de beleza e suplementos alimentares".
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto, e dados de saúde, os quais se reportam aos medicamentos que os clientes estejam a tomar ao tempo da prestação de serviços.
+2. De acordo com a informação constante do quadro 11, foram adoptadas as seguintes medidas de segurança: o acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password». Os dados de saúde deverão estar separados logicamente dos dados de identificação, nos termos do artigo 15°, n° 3, da Lei n° 67/98.
+3. Os titulares dos dados dão o seu consentimento expresso e informado, em campo próprio do formulário de recolha de dados, nos termos do artigo 7.°, n.º 2, da Lei 67/98, de 26 de Outubro.
+Considera-se legítimo o tratamento nos termos do artigo 7.9, n.º 2, da Lei 67/98, de 26 de Outubro.
+Em face do exposto, autoriza-se o tratamento de dados por parte da
+Requerente (cf. artigo 27.° e 28.° da Lei 67/98) consignando-se, nos termos do artigo 30.°, o seguinte:
+1. Maria João, Estética & Bem Estar, Lda.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2. Categorias de dados pessoais tratados: dados de identificação, dados de contacto, e dados de saúde, os quais se reportam aos medicamentos que os clientes se encontrem a tomar, alergias e eventual acompanhamento médico.
+3. Finalidade: gestão de processo de clientes 5. Forma de exercício do direito de acesso e rectificação: Por solicitação do utente junto do responsável.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação: Os dados são conservados por cinco anos, contados após a última actualização.
+Lisboa, lie Semtro de 2011.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida
+S
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

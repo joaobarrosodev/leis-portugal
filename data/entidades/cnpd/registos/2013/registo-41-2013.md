@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 41/2013
-official_date: null
+official_date: '2013-04-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BRICODIS - DISTRIBUIÇÃO DE BRICOLAGE, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 41/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53025](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53025).
+Proc. 5038/2010 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Registo n.º 41/2013
+A Bicordis - Distribuição de Bricolage, SA notificou um tratamento de dados pessoais com a finalidade de gestão de entregas a clientes.
+Os dados recolhidos são pertinentes e não excessivos face à finalidade declarada.
+O fundamento de legitimidade para o tratamento é, nos termos do corpo artigo 6° da
+LPD, o consentimento.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Bicordis - Distribuição de Bricolage, SA
+Categoria de dados pessoais tratados Dados de identificação e contacto, dados relativos ao produto a entregar e fatura.
+Finalidade - gestão de entregas a clientes
+Forma de exercício do direito de acesso e retificação - Por correio postal para o responsável
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há;
+Prazo máximo de conservação dos dados - 10 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, da Lei n.° 67/98, de 26 de Outubro (LPD).
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, designadamente as previstas no artigo 14° da LPD.
+Lisboa, 3 de abril de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

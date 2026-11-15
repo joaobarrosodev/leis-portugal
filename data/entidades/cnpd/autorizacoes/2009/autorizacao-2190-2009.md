@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GRATIA COBRANTIA - RECUPERAÇÃO DE CRÉDITOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:02:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2190/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16312](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16312).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 1697/2004
+AUTORIZAÇÃO NO SO
+/2009 1) O pedido
+A empresa Gratia Cobrantia - Recuperação de Créditos, Lda notifica um tratamento de dados relativos a cobrança de créditos segundo mandato dos credores.
+Os dados tratados são: nome, morada, telefone, número de contribuinte, valores em atraso.
+Como fundamento de legitimidade nenhum é apontado, parecendo todavia óbvio que se tratará da prossecução de interesses legítimos, sem prevalência dos direitos ou interesses dos titulares dos dados.
+Não existem comunicação de dados, interconexões ou fluxos transfronteiras.
+Como medidas de segurança, apontam-se o acesso restrito de pessoas e a utilização de palavras-chave de acesso aos dados.
+O prazo de conservação subsiste até à liquidação das dívidas.
+Não se apontam modos de exercício dos direitos de acesso e rectificação, pelo que qualquer deles deve ser admitido.
+2) Apreciação
+A finalidade prosseguida é determinada, explícita e legítima (Lei n° 67/98, de 26 de
+Outubro, art° 5°, n° 1, al b).
+E os dados tratados são, face a essa finalidade, adequados, pertinentes e não excessivos (ibidem, al c).
+O fundamento de legitimidade é a prossecução de interesses legítimos, sem prevalência de direitos ou interesses dos titulares dos dados.
+Estando em causa dados de crédito e solvabilidade, terá de haver autorização da
+CNPD (Lei n° 67/98, art° 28°, n° 1, al h).
+O prazo de conservação é ajustado.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O exercício dos direitos de acesso e rectificação pode efectivar-se por qualquer meio.
+3) Autorização a)
+b)
+a)
+e)
+Responsável
+Gratia Cobrantia - Recuperação de Créditos, Lda.
+Finalidade
+Recuperação de créditos com mandato dos credores.
+Dados pessoais tratados
+Nome, morada, telefone, número de contribuinte, valores em divida.
+Interconexões
+Não há.
+Fluxos transfronteiras
+Não há.
+Comunicações
+Não há g)
+Forma de exercício do direito de acesso e rectificação
+Quaisquer meios adequados.
+Lisboa, | de Junho de 2009
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente/relator)
+amm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

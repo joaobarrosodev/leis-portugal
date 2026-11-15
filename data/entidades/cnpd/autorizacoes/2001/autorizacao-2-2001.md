@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2/2001
-official_date: null
+official_date: '2001-01-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SONAE IMOBILIÁRIA GESTÃO, SA - (COIMBRA SHOPPING)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:08:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10256](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10256).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 662/2000
+AUTORIZAÇÃO N.° 2 /2001
+A Sonae Imobiliária Gestão, SA vem notificar a CNPD da recolha de imagens com vista à segurança das instalações e protecção de pessoas e bens.
+As imagens são recolhidas por 12 câmaras, sendo feita a gravação pelo período de 7 dias e sem que haja qualquer tratamento posterior. As imagens só poderão ser utilizadas nos termos previstos na lei.
+A recolha e tratamento de dados faz-se nos termos da lei (DL 231/98, de 22 de Julho), sendo necessário assegurar o direito de informação, nos termos estabelecidos no artigo 12.° n.º 3 do referido diploma, através da inclusão de um texto - em local bem visível - com os seguintes dizeres: «Para sua protecção este local encontra-se sob vigilância de um circuito fechado de televisão».
+Deve a responsável assegurar o direito de informação, através da afixação - em local bem visível - do respectivo texto.
+A CNPD autoriza o tratamento (cf. art. 4.° n.° 4, 27.° n.º 1, 28.° n.º 1 al. a) e 29.° da
+Lei 67/98, de 26 de Outubro), consignando-se o seguinte:
+1. Responsável: Sonae Imobiliária Gestão, SA 2. Categorias de dados pessoais tratados: Gravação de imagem nos locais indicados no ponto 3 do formulário e respectivos anexos - Coimbra Shopping.
+3. Finalidade: Segurança das instalações e protecção de pessoas e bens.
+4. Entidades a quem podem ser transmitidos: Não há transmissão de dados. Os dados só podem ser utilizados «nos termos da lei penal».
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação pessoal.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 8. Prazo de conservação: 7 dias
+Lisboa, 9 de Janeiro de 2001
+Amadeu
+Amadeu Guerra (relator)
+João Simões de Almeida ru_
+Luís Barroso
+Mário Varges Gomes
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt

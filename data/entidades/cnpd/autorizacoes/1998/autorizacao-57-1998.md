@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 57/1998
-official_date: null
+official_date: '1998-09-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PARQUE DAS NAÇÕES (PARQUE EXPO 98, S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:11:12Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 57/1998
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10530](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10530).
+Proc-N: 318197 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+AUTORIZAÇÃO N°57/ 98
+A Sociedade Parque Expo 98 veio requerer a legalização da base de dados de
+Assistência Médica das pessoas que recorrem à assistência das unidades de apoio médico aos visitantes e trabalhadores da Exposição mundial.
+Nestes termos, de acordo com o n° 1 alínea b) do art° 8° da lei n° 10/91 de 29 de Abril, a Comissão autoriza o tratamento em causa, nos seguintes termos :
+Responsável do ficheiro : Parque Expo 98 - Assistência Médica 1. Finalidade : manter um registo dos exames clínicos de pessoas que recorrem à assistência médica da Expo.
+2. Características: Computador pessoal, em rede.
+3. Dados pessoais registados : nome, morada, n° de beneficiário da segurança social ou de outro subsistema, n° do BI ou Passaporte, situação na Expo, profissão, telefone diagnóstico clínico, exames complementares.
+4. Fundamento da recolha de dados:
+Consentimento dos titulares.
+5. Recolha directa : com base na consulta e em exames e análises clínicas objectivas.
+6. Forma de actualização dos dados: pessoalmente, no momento da consulta.
+7. Não há comunicação de dados, excepto dados agregados não identificáveis à administração da Expo 98, para fins estatísticos.
+Rua de São Bento, n." 148, 3." - 1200 LISBOA —
+Telefone: (01) 392 84 00 Fax: (01) 397 68 32 E-Mai!:CNPDPI@mai.telepac.pt ?
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS 8. Não há fluxos transfronteiras de dados.
+9. Medidas de segurança : palavra-chave de acesso às informações e acesso restrito de pessoas, back-ups. • 10. Tempo de conservação: Os dados serão conservados até ao encerramento dos serviços médicos da Expo.
+11. Pessoas com acesso directo à informação:
+médicos e enfermeiros. O pessoal administrativo não pode aceder à informação clínica e ao diagnóstico médico.
+12. Formas e condições de acesso e rectificação por parte das pessoas :
+directamente na assistência médica da Expo.
+II) A inserção de dados relativos ao estado de saúde depende de consentimento do titular, que tem que ser expresso, com conhecimento das condições de acesso e utilização, nos termos do artigo 17° n° 2 da lei n° 10/91 de 29 de Abril.
+Lisboa, em 4 de Setembro de 1998 7. L
+João Alfredo M. Labescat da Silva (Relator )
+Mário Manuel Varges Gomes
+Amadeu Francisco Ribeiro Guerra
+Joaquim Seabra Lopes
+Luís José Durão Barroso
+Rua de São Bento, n." 148, 3." - 1200 LISBOA —
+Telefone: (01) 392 84 00 Fax: (01) 397 68 32 E-Mail:CNPDPI@mail.telepac.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Nuno Albuquerque Morais Sarmento
+AgtVit.Cl
+Augusto Victor Coelho (Presidente)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefone: (01) 392 8400 Fax: (01) 397 68 32 E-Mai:CNPDPI@mail telepac.pt 2

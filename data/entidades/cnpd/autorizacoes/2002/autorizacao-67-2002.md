@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 67/2002
-official_date: null
+official_date: '2002-02-26'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GOMES ROCHA E MATOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:02:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 67/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9813](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9813).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 62/02
+Autorização n.°67/02
+A sociedade Gomes Rocha e Matos Limitada, vem notificar a Comissão Nacional de
+Protecção de Dados (CNPD) da recolha de imagens com vista garantir a segurança das instalações e protecção de pessoas e bens, concretizando que o sistema de destina a garantir a segurança de pessoas e mercadorias (quadro n.º 4).
+As imagens são recolhidas por uma câmara dirigida ao balcão e à sala, por serem zonas de atendimento de clientes (quadro n.º 3). O autor do pedido apesar de ter cumprido a obrigação prevista no quadro n.º 3 de indicar em anexo a pormenorização dos locais sobre os quais incide a actividade de vídeovigilância, não refere quantitativamente o espaço abrangido. Determina-se, assim, que qualquer que este seja, não podem ser colhidas imagens da via pública.
+Os dados não são conservados (quadro n.º 11).
+A recolha e tratamento de dados faz-se nos termos da lei (Decreto-Lei n.º 231/98, de 22 de Julho), sendo necessário assegurar o direito de informação nos termos estabelecidos pelo n.º 3 do artigo 12.º do referido acto, através da inclusão de um texto - em lugar bem visível - com os seguintes dizeres : "Para sua protecção este local encontra-se sob videovigilância". Apesar de no quadro n.º 6 não se fazer menção ao consentimento do titular dos dados, entende-se que esta condição se encontra preenchida (resposta ao quadro n.° 12).
+A CNPD autoriza o tratamento (n.º° 4 do artigo 4., n.º 1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.° e artigos 29.°, todos da Lei n.º 67/98, de 26 de Outubro), nas seguintes condições :
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1- Responsável: Gomes Rocha e Matos Limitada.
+2- Categorias de dados pessoais tratados : Gravação de som e imagem através da câmara referida no anexo 1 ao quadro n.º 3. A CNPD determina que não pode verificar-se captação de imagens na via pública.
+3. Finalidade: Segurança das instalações e protecção de pessoas e bens.
+4- Entidades a quem podem ser transmitidos os dados: Não há conservação de dados, logo, não existe transmissão.
+5- Forma de exercício do direito de acesso e rectificações: Por não existir conservação de dados não há lugar ao exercício do direito de acesso e a rectificações.
+6- Eventuais interconexões : Não há.
+7- Transferência de dados para países terceiros : Não há.
+8- Tempo de conservação : Não se verifica a conservação de dados.
+Lisboa 26 de Fevereiro de 2002-02
+Alexandre Sousa Pinheiro (relator)
+catacinementalasho
+Catarina Sarmento e Castro
+Luís Barroso
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Custeukauleßptisti
+Cristina Paula Baptista
+Mário Varges Gomes
+Anaden
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

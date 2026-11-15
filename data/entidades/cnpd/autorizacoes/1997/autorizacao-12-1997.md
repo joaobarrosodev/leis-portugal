@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANÍBAL FERNANDO VEIGA HENRIQUES'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:14:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11064](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11064).
+Peru: 343156
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+AUTORIZAÇÃO N.72/97
+Aníbal Fernando Veiga Henriques, médico, solicita autorização para manutenção do seu tratamento informático relativo ao registo de consultas dos seus doentes.
+1- Estando perante um tratamento de dados sensíveis, relativos ao estado de saúde das pessoas em causa, a autorizaçãorequerida deverá respeitar o disposto no Art.º 17.° n.º 2 do Art.º 17.° da Lei 10/91, de 29/04, na redacção dada pela
+Lei 28/94, de 29/08.
+Assim sendo, para além de deverem ser asseguradas garantias de não discriminação dos respectivos doentes, o consentimento dos mesmos para tal tratamento informático deverá ser expresso, devendo também e, previamente, ser dado conhecimento da existência de tal tratamento e das suas finalidades.
+2- Entende também esta CNPDPI que odireito de acesso à informação registada pelo respectivo titular deverá ser assegurado através de médico pelo mesmo designado, tudo nos termos do disposto no Art.° 28.° n.º 3 daquela Lei 10/91.
+3- Entende-se, finalmente, que o tempo de conservação da informação registada deverá ser vitalícia, semprejuízo da necessidade da sua conservação, desde em causa venha a ser posto o tratamento prestado.
+***
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Assim sendo e nestas condições, DELIBERA esta CNPDPI autorizar o tratamento informático referido, nos seguintes termos :
+Responsável - Aníbal Fernando Veiga Henriques, médico, residente na Rua da
+Madressilva, n.° 2-B, c/v, Dt.°, 2725 Mem Martins Tel. e Fax- 9216790 ;
+Finalidade - Registo de consultas ;
+Caracter. - Computador pessoal isolado - gestão de base de dados e linguagem de programação ;
+Serv. Proces. - O responsavel ;
+Dados Pessoais - Os constantes dos "prints" juntos ;
+Recolha e Actual. - Directa e pessoal ;
+Fundamento - Consentimento ;
+Comunica. - Não há ;
+Comparaç. e Interconex. - Não há ;
+Fluxos Transfr. - Não há ;
+Segurança - Todas as indicadas na Declaração, excepto o "sistema de alarme e resposta e ainda o registo de entradas ;
+Conserv. - Vitalícia ;
+Acesso directo - Só o responsável, a toda a informação ;
+Dt.º Acesso e Correc. - A solicitação do respectivo titular.
+***
+Lx.°, 13/02/97
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Os Vogais (Marie M. Varges Gomes)
+edur (Amadeu F. Ribeiro Guerra)
+gua (Nuno Morais Sarmento)
+Nice (Joaquim Seabra Lopes)
+(João A. M. Labescat)
+ro_m (Luis J. Durão Barroso)
+O Presidente (A. Victor Coelho)
+Rua de São Bento. n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

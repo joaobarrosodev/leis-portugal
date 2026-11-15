@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASTRAZENECA, PRODUTOS FARMACÊUTICOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:23:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1614/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6569](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6569).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 350/08
+AUTORIZAÇÃO N.° 6| f/2008
+A AstraZeneca Pordutos Farmacêuticos, Lda veio notificar à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo sobre bem-estar subjectivo de doentes portadores de esquizofrenia em regime ambulatório.
+A AstraZeneca GmbH, com sede na Alemanha será a entidade encarregue pelo processamento da informação.
+O tratamento será efectuado no âmbito do protocolo do estudo clínico designado por
+RECOVER, estudo internacional, multicêntrico, aleatorizado, prospectivo, com o objectivo de comparar o bem-estar subjectivo de doentes portadores de esquizofrenia, através da utilização de questionários e escalas de psiquiatria validadas.
+Aos doentes que reúnam os critérios de inclusão no estudo, será solicitado, pelo seu médico assistente participante, no âmbito da consulta, o consentimento para a sua participação no estudo e consequente recolha de dados pessoais.
+As declarações de consentimento são guardadas pelo médico investigador.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação é apenas conhecida do médico.
+As categorias de dados recolhidos são as seguintes: código do doente, iniciais do nome do doente, data da visita, data de nascimento, raça, estado civil, sexo, nível de escolaridade, consumo de drogas, diagnóstico, história psiquiátrica, história clínica, exame físico, sinais vitais, exames laboratoriais, grau de bem-estar.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+Rua de São Bento. 148 - 3° - 1200-821 LISRO4 — Telefone: 113 028 100 - Fav. 912 076 920
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+O responsável pelo tratamento declara tratar o dado "raça".
+De acordo com a Deliberação n° 227/ 2007, a CNPD admite o tratamento deste dado, em situações devidamente justificadas. Vem a requerente declarar que: "trata-se de um estudo internacional de fase III, conduzido em 14 países situados em 2
+Continentes. Neste estudo, a recolha da raça tem por objectivo identificar possíveis variações na resposta ao tratamento que possam estar relacionadas com a etnia dos doentes.
+Estudos anteriores demonstraram a que ponto a raça/etnia pode influenciar a resposta ao tratamento"
+Face à justificação apresentada, a CNPD considera a informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessIva.
+O fundamento de legitimidade será o consentimento do titular dos dados. No entanto, dada a natureza da patologia dos doentes objecto do estudo, o médico investigador deverá aferir as condições concretas de capacidade do doente no momento da prestação do direito de informação e obtenção do consentimento. Caso o doente esteja judicialmente interditado, o consentimento terá de ser prestado pelo representante legal do doente.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: AstraZeneca Pordutos Farmacêuticos, Lda
+Finalidade: estudo sobre bem-estar subjectivo de doentes portadores de esquizofrenia em regime ambulatório.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categoria de Dados pessoais tratados: código do doente, iniciais do nome do doente, data da visita, data de nascimento, raça, estado civil, sexo, nivel de escolaridade, consumo de drogas, diagnóstico, história psiquiátrica, história clínica, exame físico, sinais vitais, exames laboratoriais, grau de bem-estar.
+Entidades a quem podem ser comunicados: Não há
+Formas de exercício do direito de acesso e rectificação: junto do médico investigador.
+Interconexões de tratamentos: Não ha.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente, porque permite tornar os dados identificados, deve ser destruído após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 2p de Julh de 20c8
+Ana Roque(Relatora)
+Carlos Campos Lobo
+Eduardo Campos
+Helena Delgado António
+Luis Barroso
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

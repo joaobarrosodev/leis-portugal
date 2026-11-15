@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SARRELIBER - TRANSFORMAÇÃO DE PLÁSTICOS E METAIS, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,95 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:06:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1936/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1199](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1199).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n° 430/06
+AUTORIZAÇÃO N.º1936 /2007
+I - O pedido:
+1. A Sarreliber - Transformação de Plásticos e Metais, S.A. veio notificar o tratamento de videovigilância a realizar nas suas instalações.
+A empresa declara que não existe comissão de trabalhadores.
+Pretende-se colocar câmaras no exterior do edifício, nos portões de entrada e nas vias de circulação externa do edifício.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD) elaborou o projecto de autorização de 19 de Março de 2007, no sentido de não autorizar a recolha de imagem na via pública tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 2095, de 27 de
+Março de 2006, nos termos e para os efeitos do disposto no artigo 100.º do
+Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos informar que «..não consegue outra forma de posicionamento das câmaras que captam as entradas e saídas das instalações, ou seja, as câmaras poderão captar imagens da via pública...»
+II - Análise:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt1
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Através da deliberação n° 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da empresa no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos.
+As instalações podem ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+() Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (').
+A CNPD não autoriza a recolha de imagens na via pública, ainda que, se trate apenas da estrada, uma vez que, tal permite ao responsável uma intromissão desproporcionada da liberdade de movimentos dos transeuntes.
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que não se devia autorizar a recolha de imagens na via públicas, pois essa captação de imagens mostrava-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento, pelo que as referidas câmaras deviam ser retiradas.
+No entanto, a entidade requerente informou que «... não consegue outra forma de posicionamento das câmaras que captam as entradas e saídas das instalações, ou seja, as câmaras poderão captar imagens da via pública...»
+Acontece que a CNPD continua a entender que a recolha de imagens na zona supra citada se apresenta como excessiva e desproporcionada, pelo que, reforça que não admissível a captação de imagens na via pública.
+Adverte-se, ainda, a entidade requerente que presente decisão implica a proibição de captação e gravação de imagens na via pública, podendo ficar, em caso de incumprimento sujeito ao crime de desobediência qualificada nos termos do n.º 1 do art. 46° da Lei 67/98, a que corresponde pena de prisão ate dois anos ou multa ate 240 dias (cf. art. 348° n.°2 do Código Penal).
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+III - Conclusões:
+Considera-se, por isso, legitimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Sarreliber - Transformação de Plásticos e
+Metais, S.A.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem (Art.º13.° n.º3 do
+Decreto-Lei n.°35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt internet: http://www.cnpd.pt 4
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir sobre estes durante a actividade laboral.
+(cf. artigo 20.º do Código do Trabalho).
+9. A recolha de imagens deve confinar-se ao perímetro da propriedade e não podem envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+10. Não é autorizada a recolha de imagens na via pública, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento.
+Contudo, ressalva-se a possibilidade de recolocação das câmaras de modo a que abranjam apenas as entradas e saídas das instalações e nunca a via pública (estrada).
+Lisboa, 8 Outubro 2001
+Ana Roque
+Cantos Lobo, que relatou
+Helena Delgado António
+Vasco Almeida
+Luís Barroso
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 6

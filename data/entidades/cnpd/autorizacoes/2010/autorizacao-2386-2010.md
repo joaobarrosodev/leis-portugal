@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: KENDLE CLINICAL DEVELOPMENT SERVICES, SL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:30:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2386/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23214](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23214).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 1452/2010
+AUTORIZAÇÃON.º 2386 12010
+A Kendle Clinical Development Services S.L, representada por Estela Monteiro notificou à
+CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo sobre insuficiência hepática aguda (IHA) exposta a anti-inflamatórios não esteróides (AINE) nos centros de transplantação.
+A entidade encarregue do tratamento da informação é o Departement de Pharmacologie, CHU de Bordeaux, Université Victor Ségalen Bordeaux, S.A.
+Serão incluídos no estudo os doentes inscritos nas listas de transplantes hepáticos entre 2005 e 2007. O médico assistente dos centros de saúde participantes, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato Web.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, nos termos do artigo 28°, n.º1, alínea d), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Kendle Clinical Development Services S.L, representada por
+Estela Monteiro.
+Finalidade: estudo sobre insuficiência hepática aguda (IHA) exposta a anti-inflamatórios não esteróides (AINE) nos centros de transplantação.
+Categoria de Dados pessoais tratados: código do doente, iniciais do nome, perfil sócio-demográfico (data de nascimento, sexo, região, cidade), data de inscrição na lista de transplantes, causa da indicação de transplante, informação relativa ao transplante, prova de insuficiência hepática aguda, a sua causa, doenças concomitantes e medicação.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, L1 de Maio de 2010
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo, Luis Barroso (Relator)
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt

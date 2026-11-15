@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7395/2013
-official_date: null
+official_date: '2013-10-22'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Ana Margarida Alves Antunes Saraiva de Menezes'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:29:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7395/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57932](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57932).
+Proc. N.9: 9599/2013 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 7395 12013
+I. Do Pedido
+Ana Margarida Alves Antunes Saraiva de Menezes notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional sobre as vantagens do uso do teste rápido na prescrição antibiótica da amigdalofaringite estreptocócica na população pediátrica em cuidados de saúde primários.
+Serão incluídos no estudo os utentes entre os três e os dezassete anos, com queixas de odinofagia ou que apresentem ao exame objetivo sinais de inflamação faringoamigdalina e que recorram aos serviços de saúde de uma das unidades de saúde familiar participantes.
+A participação no estudo consiste na recolha de variáveis sociodemográficas, clínicas, laboratoriais e terapêuticas do processo clínico da criança, pelo médico assistente, e na realização de uma ou duas colheitas de raspado amigdalino.
+O médico assistente, investigador no estudo, solicitará o consentimento informado dos participantes no estudo, que será conservado pelo investigador principal de cada
+Unidade de Saúde Familiar participante, nessa mesma unidade e em lugar de acesso reservado.
+Os dados serão recolhidos num caderno de recolha de dados em formato eletrónico e em papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de participante. A chave desta codificação só será conhecida do médico assistente e do investigador principal da unidade de saúde.
+Para a comunicação dos resultados das análises laboratoriais, é solicitado um contacto telefónico preferencial aos representantes legais dos menores.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.9: 9599/2013 2.
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e será garantida confidencialidade no tratamento.
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+O fundamento de legitimidade para o tratamento de dados notificado é o consentimento dos titulares dos dados. Porque haverá recolha de dados de menores, terá de haver consentimento a prestar pelos legais representantes. Os próprios menores devem ser ouvidos e prestar o seu assentimento, atendendo à sua idade e maturidade. O estudo deve ter em conta o superior interesse da criança.
+A informação tratada é recolhida de forma lícita (cfr. alínea a) do n.° 1 do artigo 5.° da
+LPD), para finalidades determinadas, explícitas e legítimas (cfr. alínea b) do mesmo artigo) e não é excessiva.
+II.
+Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.º e artigo 30.º da Lei de Protecção de Dados, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 9599/2013 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Termos do tratamento:
+Responsável pelo tratamento: Ana Margarida Alves Antunes Saraiva de Menezes
+Finalidade: Estudo observacional sobre as vantagens do uso do teste rápido na prescrição antibiótica da amigdalofaringite estreptocócica na população pediátrica em cuidados de saúde primários.
+Categoria de Dados pessoais tratados: código de participante, dados demográficos (idade, género), score clínico Mclsaac, resultado do teste rápido de streptococos, resultado da cultura, administração de antibiótico e princípio ativo.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: Os dados pessoais devem ser destruídos um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 22 de outubro de 2013
+Carlos Campos Lobo (Relator), Luís Barroso, Ana Roque, Helena Delgado António,
+Vasco Almeida, Luís Paiva de Andrade
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

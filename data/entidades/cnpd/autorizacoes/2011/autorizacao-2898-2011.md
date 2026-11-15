@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GONDOMAR - CORAÇÃO DE OURO - E.M.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,76 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T07:39:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2898/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/29595](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/29595).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 4271/07
+AUTORIZAÇÃO N.º 2892011
+Gondomar - Coração de Ouro, E.M., notificou um tratamento de dados pessoais resultante de videovigilância, com a finalidade de protecção de pessoas e bens, a realizar no Pavilhão Multiusos sito na Av. Multiusos, em Gondomar.
+O sistema é composto por 31 câmaras, colocadas nos seguintes locais: pontos de acessos a partir do exterior, anel ou perímetro de segurança, zonas internas de circulação.
+Não há Comissão de Trabalhadores.
+A CNPD já se pronunciou na sua Deliberação n.°º 61/2004, de 19 de Abril ' sobre os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, em matéria de videovigilância, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de protecção de pessoas e bens. Decorrem desses princípios, bem como da lei laboral e da jurisprudência, os seguintes limites ao tratamento:
+• A recolha de imagens deve permitir o controlo visual de todo o recinto desportivo e respectivo anel ou perímetro de segurança, não podendo abranger imagens para além desse limite;
+• No caso de existirem terminais de pagamento ATM, as câmaras não podem estar direccionadas de modo a captar a digitação dos códigos;
+• Não podem as câmaras incidir regularmente sobre os trabalhadores durante a actividade laboral, nem as imagens podem ser utilizadas para o controlo da actividade dos trabalhadores, seja para aferir a produtividade seja para efeitos de responsabilização disciplinar (cf. artigos 20º e 21º do Código do Trabalho);
+• Apenas a recolha de imagens nos locais declarados está abrangida pela presente autorização, não podendo, em circunstância alguma, serem recolhidas imagens de acesso ou interior de instalações sanitárias.
+O tratamento em análise, com as limitações referidas, é adequado, pertinente e não excessivo face à finalidade declarada (cf. al. b) do n.º1 do artigo 5.° da Lei 67/98, de 26.10) e à actividade desenvolvida.
+O tratamento de dados pessoais efectuado no âmbito da videovigilância enquadra-se no conceito de vida privada, previsto no n.º 2 do artigo 7° da Lei n.º 67/98, de 26 de Outubro. O artigo 4° nº4 do
+Decreto-lei n°35/2004 de 21 de Fevereiro e o artigo 18.° da Lei n.º 39/2009, de 30 de Julho, constituem o fundamento que legitima a instalação destes sistemas.
+1 Disponível em www.cnpd.pt/bin/orientacoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, com os limites fixados, autoriza-se o tratamento notificado ao abrigo do disposto nos artigos 79, n.° 2, 28.° n.º 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Gondomar - Coração de Ouro, E.M.
+Finalidade
+Protecção de pessoas e bens
+Categoria de dados pessoais tratados
+Forma de exercício do direito de acesso
+Imagens captadas pelo sistema.
+Por solicitação (escrita/presencial/outra) ao responsável pelo tratamento.
+As imagens só podem ser transmitidas no termos da lei processual penal.
+Detectada a eventual infracção penal, o responsável deverá, juntamente com a participação, enviar à autoridade judiciária ou ao órgão de polícia criminal competentes as imagens recolhidas.
+Comunicação das imagens
+Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no âmbito de processo judicial devidamente identificado, em cumprimento de despacho fundamentado da autoridade judiciária competente.
+Fora destas condições não pode o responsável comunicar as imagens.
+Interconexões
+Não há
+Fluxo transfronteiriço para países terceiros
+Não há
+Conservação dos dados 90 dias
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de lhes aceder (n.º 1 do artigo 11º da Lei n.º 67/98), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à
+CNPD (n.º 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adoptar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, nos termos exigidos pelo n.º 3 do artigo 18º da Lei n.º 39/2009, de 30 de Julho. Nos termos do nº4 do mesmo artigo o aviso de informação deve, igualmente, ser acompanhado de informação oral e simbologia adequada e estar traduzido em, pelo menos, uma língua estrangeira.
+O responsável deve adoptar as medidas de segurança previstas nos artigos 14º e 15º da Lei n.º 67/98, de 26 de Outubro. Independentemente das medidas de segurança adoptadas pela
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre actualizadas a data e hora das gravações.
+Lisboa, 28 Mozço 2011
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco Almeida, Luís
+Paiva de Andrade.
+Sobre
+Luís Lingnau da Silveira (Presidente), que relatou.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 53/2012
-official_date: null
+official_date: '2012-08-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO MINISTRO DA SAÚDE (MS)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:05:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 53/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/47085](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/47085).
+Proc. 8713/2012 | 1 "вŸ-
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Parecer n. °53/2012 1. O pedido
+A Comissão Nacional de Protecção de Dados (CNPD) recebeu um pedido de parecer sobre a proposta de Portaria que aprova os modelos de guia de transporte de cadáver e de boletim de óbito para emissão eletrónica no âmbito do Sistema de Informação dos Certificados de Óbito (SICO).
+O pedido de parecer decorre das atribuições conferidas à CNPD por via do disposto no artigo 22° da Lei n.º 67/98, de 26 de outubro (Lei de Protecção de Dados Pessoais
+- LPD) e é emitido no uso da competência prevista na alínea a) do n.º 1 do artigo 23° do mesmo diploma legal.
+2. Síntese do projeto de Portaria
+A portaria em projeto, no artigo 1°, cria os seguintes modelos de formulários eletrónicos, a disponibilizar no SICO:
+- Modelo de guia de transporte para efeitos de remoção e transporte de cadáver (Anexo I);
+- Modelo de boletim de óbito para efeitos do disposto no artigo 9° do Decreto-lei n° 411/98, de 30 de Setembro, alterado pelos Decretos-lei 5/2000, de 29 de janeiro, 138/200, de 13 de julho, pela Lei n.º 30/2006, de 11 de julho, e pelo
+Decreto-lei n.º 109/2010, de 14 outubro (Anexo II).
+3. Apreciação
+A CNPD emitiu os Pareceres n.°s 65/2009 e 72/2011, sobre o Sistema de Informação dos Certificados de Óbito (SICO).
+Emitiu, também, sobre a matéria, a Autorização n.º 6494/2012, na qual estabeleceu as condições e limites de funcionamento do SICO.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 8713/2012 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Analisados os modelos de formulários eletrónicos supra referidos, verifica-se, no que respeita à matéria de proteção de dados, que a informação recolhida é pertinente, adequada e não excessiva relativamente à finalidade, cf. preceitua a alínea c) do n.° 1 do artigo 5° da LPD.
+4. Conclusão
+O projeto de Portaria em análise não suscita qualquer questão.
+É este o Parecer da CNPD,
+Lisboa 23 de Agosto de 2012
+Pates 1r.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

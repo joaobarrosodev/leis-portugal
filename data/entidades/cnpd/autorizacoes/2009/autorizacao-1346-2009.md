@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Chiltern International Portugal, Ldª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:16:46Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1346/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15290](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15290).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 972/2009
+AUTORIZAÇÃO N.° 1346/09
+A Chiltern International, SL, em representação do Promotor
+Sociedade Espanhola de Cardiologia, notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com medicamentos de uso humano para avaliar crónica (Protocolo HHLP003).
+Trata-se de um «estudo aleatório, realizado em vários centros para comparar a endoprótese coronária com eluição de everolimus» que tem como objectivo «.avaliar a incidência de eventos adversos cardíacos em dois grupos de doentes, atribuídos aleatoriamente a um destes tratamentos:
+endoprótese coronária com eluição de sirolimus (.) ou endoprótese coronária com eluição de everolimus…».
+Este estudo terá a participação de 200 doentes e terá a duração de 3 meses.
+Os dados recolhidos são os seguintes: n. específico do estudo, iniciais do doente, data de nascimento, historial da doença, E.C.G., testes laboratoriais e nome a do investigador.
+escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.º333/07 o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Chiltern International, SL, em representação do Promotor Sociedade Espanhola de
+Cardiologia.
+Finalidade: gestão do ensaio clínico com medicamentos de uso humano para avaliar a sua eficácia em doentes com oclusão coronária total crónica (Protocolo HHLP003).
+Categoria de Dados Pessoais tratados: n.° específico do estudo, iniciais do doente, data de nascimento, historial da doença, E.C.G., testes laboratoriais e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação:
+Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo
+Rua de São Rento 148.2° • 1700.821 1ICROA
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS tratamento, cinco anos após o ensaio. O Código do
+Investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 23 Março de 2008
+Luís Paiva de Andrade, Ana Roque, carlos campos Lobo, Helena Delgado António, Vasco almeida (Velah7)
+pais Salar
+Luís Lingnau da Silveira (Presidente)

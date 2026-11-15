@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 161/2002
-official_date: null
+official_date: '2002-06-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BPN - BANCO PORTUGUÊS DE NEGOCIOS S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:01:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 161/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9696](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9696).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 23/94
+AUTORIZAÇÃO N. 6| 12002
+O BPN - Banco Português de Negócios, SA vem - na sequência da Autorização n.º 51/2002 - pedir autorização para a "troca de informações" entre as empresas do Grupo e as empresas Banco Efisa, SA e Fincor, SGPS, SA.
+Adianta que "as empresas poderão aceder à generalidade da informação sempre que:
+- Exista fundamento legal;
+- O titular tenha dado consentimento para esse acesso;
+- A sua utilização seja compatível com as finalidades da recolha".
+A circulação da informação no seio das empresas do Grupo BPN será feita nos mesmos termos que foi consignada na autorização n.º 51/2002.
+As empresas Banco Efisa (Proc. 16/94) e Fincor (Proc. 323/99) têm os seus tratamentos notificados na CNPD.
+*
+O pedido agora formulado pretende, na sequência da integração destas empresas no
+Grupo BPN, tornar extensiva a Autorização n.º 51/2002 a estas empresas.
+Em face do exposto, a CNPD autoriza a «troca de informações» nos termos e condições fixadas na Autorização n.° 51/2002, de 5 de Fevereiro.
+Lisboa, 3 de Junho de 2002
+Auden l
+Amadeu Guerra (relator)
+Catain farmento lastes
+Catarina Sarmento e Castro
+Altisnde Sonsokshs
+Alexandre Pinheiro
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Cras
+Luís Barroso
+Cinturaue Buste
+Cristina Baptista
+Mário Varges Gomes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

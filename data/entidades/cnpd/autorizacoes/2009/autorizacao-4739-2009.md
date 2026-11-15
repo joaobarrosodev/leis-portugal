@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TOYS "R" US PORTUGAL BRINQUEDOS E ARTIGOS JOVENS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:19:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4739/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19606](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19606).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 281/09 4739
+AUTORIZAÇÃO N.º /2009
+A Toys"R"us Portugal-Brinquedos e Artigos Juvenis, Lda notificou um tratamento de dados pessoais com a finalidade de gestão das comunicações internas de actos de gestão financeira irregular.
+The Network, Inc, com sede nos EUA, é a entidade subcontratada para o processamento da informação. Entre esta entidade e o responsável foram assinadas cláusulas contratuais gerais para subcontratante aprovadas pela Comissão, constituindo este contrato fundamento que legitima o fluxo transfronteiriço.
+A CNPD já se pronunciou na sua Deliberação n.º° 765/2009' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade. Nessa Deliberação fixou que só podem ser objecto de tratamento os procedimentos de controlo interno de denúncia de infracções destinados a prevenir e/ou a reprimir irregularidades no seio da sociedade, no domínio da contabilidade, dos controlos contabilísticos internos, da auditoria, da luta contra a corrupção e do crime bancário e financeiro.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.º 765/2009, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade é a execução de finalidades legítimas do responsável, previsto no n.º 2 do artigo 8.° da LPD.
+Assim, autoriza-se, com os fundamentos da Deliberação n.º 765/09 e ao abrigo dos artigos 8.°, n.º 2, 28. n.º 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Toys"R"us Portugal-Brinquedos e Artigos Juvenis, Lda
+Finalidade
+Gestão das comunicações internas de actos de gestão financeira irregular.
+Categoria de dados pessoais tratados
+Identidade e categoria profissional do denunciante, identidade e categoria profissional do denunciado, identidade e funções das pessoas que intervém na recolha e no tratamento de dados, os factos denunciados, passíveis de integrarem actividades consideradas irregulares, no âmbito das actividades de contabilidade, auditoria, de luta contra a corrupção e do crime bancário e financeiro, os elementos de facto recolhidos no âmbito da
+' Disponivel em www.cnpd.pt/bin/orientacoes/DEL765-2009 LINHAS_ETICA.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS averiguação e o destino dado à denúncia.
+Forma de exercício do direito de acesso e rectificação
+Comunicações de Dados Pessoais
+Interconexões
+Fluxo transfronteiriço de dados para países terceiros
+Por solicitação ao responsável
+Não há
+Não há
+Conservação dos dados
+The Network, Inc, com sede nos EUA
+Os dados pessoais objecto de denúncia serão de imediato destruídos caso se revelem inexactos ou inúteis;
+Quando não haja lugar a procedimento disciplinar ou judicial, os dados que tenham sido objecto de comprovação serão destruídos decorrido o prazo de 6 meses a contar do encerramento das averiguações;
+Em caso de procedimento disciplinar ou judicial os dados serão conservados até ao termo desse procedimento. Neste caso, serão conservados no quadro de um sistema de informação de acesso restrito e por prazo que não exceda o procedimento judicial.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda Lei n.º 67/98, de 26 de Outubro.
+Deve ser garantida a confidencialidade sobre a identidade do denunciante, com os limites descritos na Deliberação n.º765/09.
+Dos termos e condições fixados naquela Deliberação e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 26/10/2009
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo ( Relator)., Vasco
+Almeida, Luís Paiva de Andrade.
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 geral@cnpd.pt
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

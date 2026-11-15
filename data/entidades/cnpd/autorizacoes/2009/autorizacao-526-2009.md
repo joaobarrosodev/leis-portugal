@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOHNSON & JOHNSON, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:30:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 526/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14253](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14253).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.º 143/2009 526
+Autorização /2009
+A Johnson & Johnson, Lda. notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento com a finalidade de gestão de processos de recrutamento.
+A Johnson & Johnson, Lda. indica, de forma genérica, as entidades encarregues do processamento da informação, entidades subcontratantes com quem o responsável terá que estabelecer os contratos previstos no artigo 14° da Lei 67/98, 26 de Outubro, assegurando-se que os subcontratantes oferecem garantias suficientes em relação às medidas de segurança técnica e de organização do tratamento e sem descurar o zelo sobre o cumprimento dessas medidas.
+Os dados pessoais que se pretende tratar para a finalidade declarada são: Dados de identificação do candidato (nome, morada, contactos, data de nascimento, sexo, nacionalidade, estado civil, BI, NIF, número de funcionário, fotografia, naturalidade, autorização de permanência ou visto, caso seja estrangeiro); Dados curriculares e relativos à experiência profissional (habilitações literárias, conhecimento de línguas estrangeiras, experiencia profissional, cursos de formação realizados, conhecimentos de informática); Dados relativos à avaliação do candidato (função a que se destina, data da entrevista, resultado da entrevista, fonte de recrutamento, potencial para futuros processos de recrutamento, avaliação pessoal e profissional).
+Os dados são recolhidos pessoalmente, por impresso, carta e e-mail.
+Há comunicação de dados a outras empresas do Grupo Johnson & Johnson (Grupo)
+com vista ao preenchimento de vagas existentes noutras empresas do Grupo.
+Há interconexão de dados com a base de dados da Johnson & Johnson. SA., com sede em Espanha, que, tal como a Johnson & Johnson, Lda., faz parte do Grupo e constituem, no seio deste Grupo, um projecto denominado Organização One Ibéria englobando as estruturas das filiais portuguesa e espanhola e constituindo estruturas organizativas comuns. Tendo em conta a natureza não sensível dos dados a tratar, o consentimento dos titulares dos dados, e a interconexão se afigurar adequada à prossecução das finalidades e interesses legítimos do responsável pelo tratamento e não implicar discriminação nem diminuição dos direitos, liberdades e garantias dos
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS titulares dos dados, estão reunidas as condições para que a CNPD possa autorizar a interconexão (artigo 9° da Lei 67/98, 26 de Outubro).
+Existe fluxo transfronteiriço de dados pessoais para os Estados Unidos da América, para a empresa do mesmo Grupo, Johnson & Johnson Services, Inc. que contudo, porque efectuados para uma entidade que aderiu ao Safe Harbour, nos termos do n.º 4 do artigo 20° da Lei 67/98, 26 de Outubro e ainda de acordo com a declaração interpretativa da CNPD de 29 de Novembro de 2004, não carecem do controlo prévio previsto no artigo 28°, podendo em consequência efectuar-se.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) e c) do art. 5° da Lei 67/98, 26 de Outubro).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da Lei 67/98, 26 de Outubro, o consentimento do titular.
+Assim, autoriza-se, conforme o declarado pelo responsável do tratamento e nos termos dos artigos 27° n.º 1, 9° n.º 1, 20°, 28° nº1 alínea c) e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento abaixo indicado::
+Responsável - Johnson & Johnson, Lda.
+Categoria de dados pessoais tratados - Dados de identificação do candidato (nome, morada, contactos, data de nascimento, sexo, nacionalidade, estado civil, BI, NIF, número de funcionário, fotografia, naturalidade, autorização de permanência ou visto, caso seja estrangeiro, Dados curriculares e relativos à experiência profissional (habilitações literárias, conhecimento de línguas estrangeiras, experiencia profissional, cursos de formação realizados, conhecimentos de informática) Dados relativos à avaliação do candidato (função a que se destina, data da entrevista, resultado da entrevista, fonte de recrutamento, potencial para futuros processos de recrutamento, avaliação pessoal e profissional).
+Finalidade - Gestão de processos de recrutamento.
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsável.
+Comunicações de dados - Os dados são comunicados às empresas do Grupo
+Johnson & Johnson (Grupo) com vista ao preenchimento de vagas existentes noutras empresas do Grupo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Interconexões - Entre as empresas do grupo Johnson & Johnson integradas na
+Organização One Iberia.
+Fluxo transfronteiriço de dados para países terceiros - Para a Johnson & Johnson
+Services, Inc..
+Prazo Máximo de conservação dos dados - cinco anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, incluindo o n.º 4 uma vez que há recolha de dados em rede aberta.
+A presente autorização não inclue o tratamento de dados relativos a hábitos, designadamente o consumo de álcool, café ou tabaco, ainda que estes tenham sido fornecidos pelo respectivo titular no currículo. Não se autoriza, também, a recolha de dados de saúde, dados relativos à família e dados sobre os hábitos pessoais.
+Quanto aos dados de saúde e aos dados relativos aos testes psicotécnicos, o responsável apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Lisboa, 2 de favapso de 2009
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso, Luís
+Paiva de Andrade (Relator), Vasco Almeida
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

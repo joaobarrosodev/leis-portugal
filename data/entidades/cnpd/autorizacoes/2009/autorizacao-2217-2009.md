@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PT COMUNICAÇÕES, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:01:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2217/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16454](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16454).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 5314/07
+Autorização n° 12009
+A sociedade comercial sob forma anónima denominada PT Comunicações,
+S.A., veio notificar o tratamento que tem como finalidade o controlo de receitas e perdas de todas as áreas de negócio e prevenção/detecção de irregularidades com implicações nas receitas da empresa, incluindo gestão da facturação e cobrança dos serviços prestados.
+Os dados tratados vêm especificados no anexo ao ponto n.º 5 do formulário de notificação, sendo de salientar as seguintes categorias de dados: de identificação pessoal do cliente, dados de tráfego e de facturação, tipos de serviços, saldos, serviços suplementares.
+Os dados recolhidos, pelo grau de detalhe e pelas finalidades a que se destinam, integram-se no conceito de informação tendente ao apuramento d e dados da vida privada dos titulares, nos termos e para os efeitos do artigo 7° da
+Lei n° 67/98, de 26 de Outubro. Por isso, a necessidade de autorização da
+CNPD (cf. art. 28.° n.º 1 al. b) da Lei 67/98).
+Em face das finalidades indicadas pela requerente, os dados são pertinentes, adequados e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98).
+A PT Comunicações, S.A., em legitimidade para o tratamento destes dados, na medida em que o mesmo decorre de gestão da relação contratual com os seus clientes e da prossecução de um interesse legítimo (cf. art. 6.° al. a) e e)
+da Lei 67/98).
+Rua de São Bento. 148-3° • 1200-821 LISBOA 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A Requerente propõe-se comunicar dados aos tribunais e às entidades a que tenha obrigação legal de comunicar no âmbito da sua actividade. Assim, estas comunicações resultam de cláusula contratual e do cumprimento de obrigações legais.
+Verifica-se ainda que a Requerente pretende fazer interconexões de dados com a base de dados de gestão comercial da empresa, com a base de dados financeira e logística com a base de dados de "whole sale". Não existem fluxos transfronteiras de dados. O tempo de conservação é de 24 meses após o registo.
+Em face do exposto a CNPD autoriza o tratamento, nos termos declarados e com as especialidades constantes da presente autorização, consignando-se, nos termos dos artigos 27.°, 28.° n.º 1 al. b) e 30.° da Lei 67/98, de 26 de
+Outubro, o seguinte:
+1. Responsável: PT Comunicações, S.A., 2. Categorias de dados pessoais tratados: identificação pessoal do cliente, dados de tráfego e de facturação, tipos de serviços, saldos, serviços suplementares.
+3. Finalidade: controlo de receitas e perdas de todas as áreas de negócio e prevenção/detecção de irregularidades com implicações nas receitas da empresa, incluindo gestão da facturação e cobrança dos serviços prestados 4. Entidades a quem podem ser transmitidos: tribunais e às entidades a que tenha obrigação legal de comunicar no âmbito da sua actividade 5. Forma de exercício do direito de acesso e rectificação: por escrito.
+6. Interconexões: entre as bases de dados da Requerente 7. Transferências de dados: não há 8. Conservação dos dados: 24 meses após o registo.
+Lisboa, / de Junho de 2009.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque (relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado
+António, Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento. 148-3° • 1200-821 LISBOA 21 393 00 39

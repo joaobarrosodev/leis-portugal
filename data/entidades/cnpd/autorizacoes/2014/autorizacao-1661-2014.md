@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Lusitania, Companhia de Seguros, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T22:15:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1661/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/62177](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/62177).
+Proc. 9250/13/ 1 /
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N° 66l 114 1 - LUSITANIA, COMPANHIA DE SEGUROS, SA, com o NIF501689168, veio notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de clientes.
+Os dados objeto de registo são os seguintes:
+Nome, naturalidade, nacionalidade, filiação, morada completa, telefone, fax, email,
+NIF, número, data e entidade emitente do documento de identificação, profissão, sexo, estado civil, número de filhos, data e número da carta de condução, matrícula, marca, modelo e características do veículo.
+A recolha de dados é feita de forma direta, mediante carta, email ou telefonema. Ao titular dos dados é facultado conhecer, corrigir e eliminar os dados que lhe respeitem, desde que o solicite por escrito ou por telefone à requerente.
+A segurança é garantida nos termos descritos no formulário de notificação.
+Pretende-se que os dados sejam conservados de acordo com a legislação em vigor.
+2 - Estando em causa operações relativas ao crédito e solvabilidade dos titulares, o tratamento notificado está sujeito a autorização da Comissão Nacional de Protecção de Dados (artigo 28° n° 1, alínea b), da Lei n° 67/98, de 26 de outubro).
+Os dados são tratados no âmbito de uma relação contratual, com consentimento do titular. A CNPD considera que existe, por isso, legitimidade para o tratamento de dados, entendendo-se que o suporte/fundamento do tratamento pode ser encontrado na previsão da alínea a) do artigo 6° da Lei n° 67/98, de 26 de outubro, ou seja, a execução de uma obrigação contratual.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 9150/13| 2 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. alínea c) do n°1 do artigo 5° da Lei n° 67/98, de 26 de outubro).
+Os dados devem ser exatos e, se necessário, atualizados (cf. artigo 5°, alínea d), da
+Lei n° 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da Lei n° 67/98), sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou retificados os dados inexatos ou incompletos ou não necessários (cf. artigo 5° n.° 1, alíneas c) e d), e n.° 3 da Lei n° 67/98).
+O prazo de conservação deverá ser de 1 ano após o fim da vigência do contrato. Os dados serão comunicados à Associação Portuguesa de Seguradores, ao Centro de
+Informação, Mediação, Provedoria e Arbitragem de Seguros, ao Instituto de Seguros de Portugal, aos resseguradores, à Provedoria do Cliente e às empresas do grupo em que se insere a sociedade, "sendo assegurada a sua utilização em função do objeto social dessas empresas e a compatibilidade com a finalidade de recolha dos mesmos".
+As medidas de segurança apresentam-se adequadas. Todavia, independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+3 - Em face do exposto, a CNPD autoriza o tratamento, nos termos declarados e com as especificidades constantes da presente autorização, consignando-se, nos termos dos artigos 27°, 28° n.º 1, alínea b), e 30.º da Lei n° 67/98, de 26 de outubro, o seguinte:
+Responsável pelo tratamento: LUSITANIA, COMPANHIA DE SEGUROS, SA
+Finalidade do tratamento: gestão de clientes
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 9150/13 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Categorias de dados pessoais tratados: Nome, naturalidade, nacionalidade, filiação, morada completa, telefone, fax, email, NIF, número, data e entidade emitente do documento de identificação, profissão, sexo, estado civil, número de filhos, data e número da carta de condução, matrícula, marca, modelo e características do veículo.
+Forma de exercício do direito de acesso e retificação: mediante pedido dirigido por escrito ou por telefone ao requerente
+Comunicação de dados pessoais: Associação Portuguesa de Seguradores, ao Centro de Informação, Mediação, Provedoria e Arbitragem de Seguros, ao Instituto de
+Seguros de Portugal, aos resseguradores, à Provedoria do Cliente e às empresas do grupo em que se insere a sociedade
+Prazo de conservação dos dados: 1 ano após o fim da relação contratual, sem prejuízo de o mesmo se estender pelo tempo de duração de processo judicial e até ao limite de seis meses após o trânsito em julgado da decisão.
+Lisboa, 1 de everer de 2014.
+Ana Roque (relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado António,
+Luís Paiva de Andrade e Maria Cândida Guedes de Oliveira feile
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

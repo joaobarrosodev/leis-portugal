@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE SINTRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:58:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2345/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/236](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/236).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 36/2002
+AUTORIZAÇÃO N. R34J
+/2007
+A Câmara Municipal de Sintra vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais relativo à gestão de processos judiciais (gestão processual).
+Os dados registados são os seguintes: listagem de prazos a cumprir, listagem de processos, listagem de clientes, listagem de tribunais, listagem de honorários e contas-correntes e listagem de estatísticas e totais.
+A legitimidade para o tratamento de dados em apreço está prevista no artigo 8.°, n.º 2, da Lei n.° 67/98, de 26 de Outubro. Há legitimidade para o tratamento quando seja «necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Esse tratamento carece de autorização da CNPD (artigo 28.°, n.º 1, alínea a), que verificará a observância das normas de protecção de dados e de segurança da informação.
+Nos termos do artigo 34.° do Regulamento de Organização dos Serviços
+Municipais, aprovado pela Assembleia Municipal de Sintra em 17 de Abril de 2000, compete à Divisão de Assuntos Jurídicos "assegurar a representação forense do Município e dos seus órgãos (...)" (al. a), do n.º 3) e "acompanhar e manter a Câmara informada sobre as acções e recursos em que o Município seja parte, divulgando informação periódica sobre a situação pontual em que se encontram" (al. b) do n.° 3).
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt,
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (cf. artigo 5.°, n.° 1, alínea c), da Lei n.° 67/98).
+Existem cópias de backup (segurança) dos dados e passwords de acesso à informação.
+A informação deverá ser conservada pelo período estritamente necessário à finalidade, não podendo a mesma ser conservada, conforme o caso, para além de 6 meses do trânsito em julgado da sentença.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 8.°, n.º° 2, e 28.°, n.º 1, alínea a), da Lei n.º 67/98, de 26 de Outubro, autoriza-se o tratamento de dados relativos aos autos de contra-ordenação, nos seguintes termos:
+Responsável: Câmara Municipal de Sintra.
+Finalidade: Gestão de processos judiciais (gestão processual).
+Categorias de dados pessoais tratados: listagem de prazos a cumprir, listagem de processos, listagem de clientes, listagem de tribunais, listagem de honorários e contas-correntes e listagem de estatísticas e totais.
+Comunicação de dados: Não há.
+Prazo de conservação: A informação deverá ser conservada pelo período estritamente necessário à finalidade, não podendo a mesma ser conservada, conforme o caso, para além de 6 meses do trânsito em julgado da sentença.
+Deve ser garantido ao titular o direito de conhecer, corrigir e eliminar os dados que lhe respeitem.
+Lisboa, | 0 el UVOM) 16 (ll 2007
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque
+Caries de Campos Lobo
+Eduardo Cambol Aleator?
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

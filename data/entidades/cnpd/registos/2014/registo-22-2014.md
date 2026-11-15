@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 22/2014
-official_date: null
+official_date: '2014-01-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GENERIS FARMACÊUTICA, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,68 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:57:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 22/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/61147](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/61147).
+Proc. n.º 7570/2010 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+REGISTO N.º 22 12014
+GENERIS FARMACÊUTICA, S.A. notificou um tratamento de dados pessoais com a finalidade de constituir amostra para a realização de estudos de legibilidade de folhetos informativos de medicamentos.
+Os dados recolhidos são: nome, concelho de residência, telefone, data de nascimento, sexo, n.° de filhos, habilitações literárias, profissão (de preenchimento obrigatório) e estado civil, endereço de correio eletrónico, nacionalidade, setor de atividade profissional e rendimento anual do agregado familiar por escalões (de preenchimento facultativo).
+Os dados são recolhidos diretamente junto do titular, que numa primeira abordagem, de pré-questionário, fornece apenas dados de contacto, idade, escolaridade, localidade de residência, bem como a sua disponibilidade para participar no estudo. Num contacto posterior, são recolhidos os dados acima enunciados.
+O direito de acesso, retificação e eliminação dos dados é exercido através de solicitação ao responsável pelo tratamento por telefone ou correio eletrónico.
+Os dados pessoais recolhidos são pertinentes e não excessivos face à finalidade declarada, conforme o disposto na alínea c) do n.º 1 do artigo 5.° da Lei n.° 67/98, de 26 de outubro - Lei de
+Proteção de Dados (LPD).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco dos titulares dos dados.
+Atento o disposto na alínea e) do n.º 1 do artigo 5.º da LPD, fixa-se o prazo máximo de conservação dos dados em 12 meses.
+Quanto à prestação da informação aos titulares dos dados, prevista no artigo 10.° da LPD, ela deverá ser garantida nas duas fases da recolha de dados: na ficha de inscrição e no formulário de inscrição.
+Por outro lado, a informação prestada sobre a finalidade do tratamento tem de coincidir com a
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 7570/2010 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS finalidade declarada, a qual é, nos termos da alínea b) do n.º 1 do artigo 5.° da LPD, determinada, explícita e legítima. Nesse sentido, os formulários de recolha de dados deverão ser alterados em conformidade, respeitando plenamente os requisitos legais.
+Os dados relativos ao estudo a realizar sobre a legibilidade dos folhetos informativos não podem conter quaisquer elementos que identifiquem, direta ou indiretamente, os titulares dos dados.
+Assim, em conformidade com o n.º 1 do artigo 27° e do n.º1 do artigo 30.° da Lei n.° 67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+GENERIS FARMACÊUTICA, S.A
+Finalidade
+Constituir amostra para a realização de estudos de legibilidade de folhetos informativos de medicamentos.
+Categoria de dados pessoais tratados
+Nome, concelho de residência, telefone, data de nascimento, sexo, n.° de filhos, habilitações literárias, profissão (de preenchimento obrigatório) e estado civil, endereço de correio eletrónico, nacionalidade, setor de atividade profissional e rendimento anual do agregado familiar por escalões (de preenchimento facultativo).
+Forma de exercício dos direitos de acesso e retificação
+Por telefone ou correio eletrónico
+Comunicações de dados a terceiros
+Não há
+Interconexões
+Não há
+Transferências para países terceiros
+Não há
+Prazo máximo de conservação dos dados 12 meses
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 7570/2010 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, em conformidade com o previsto no artigo 14° da LPD.
+Lisboa, 10 de janeiro de 2014
+A Secretária da CNPD,
+Dratre
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

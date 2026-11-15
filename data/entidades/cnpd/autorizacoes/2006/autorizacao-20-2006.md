@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO ACÇÃO SOCIAL DAS FORÇAS ARMADAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,38 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:14:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 20/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6505](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6505).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.° 272/97
+Autorização n.°20/2006
+Através da Autorização n.º 15/2000, a CNPD autorizou a comunicação da listagem dos reformados e pensionistas dos três ramos da Forças Armadas, e respectivo valor de pensões, pela Caixa Geral de Aposentações ao Instituto de Acção Social das Forças
+Armadas (IASFA).
+Com a entrada em vigor do Decreto-Lei n.º 167/2005, de 23 de Setembro, o IASFA esclarece que foi criado um novo regime jurídico de assistência na doença aos militares das Forças Armadas (ADM), atribuindo ao IASFA a sua gestão, assim como a integração dos dados provenientes dos beneficiários dos três ramos das Forças
+Armadas.
+Assim:
+-São extintas a ADME, a ADMA e a ADMFA (artigo 16.°, n.º 1), e no prazo de dois meses, os serviços da ADME, da ADMA e da ADMFA transmitem oficiosamente à entidade gestora da ADM os dados relativos aos respectivos beneficiários que sejam necessários para a sua inscrição na ADM (n.º 2);
+- A gestão da ADM compete ao IASFA (artigo 15.º).
+Atendendo a que se trata de um tratamento de dados sensíveis desenvolvido com fundamento legal a CNPD considera-se notificada do facto.
+A CNPD salienta que deve emitir parecer prévio relativamente ao diploma que venha a regulamentar o modo como o IASFA gere a ADM (artigo 15.° do Decreto-Lei n.º 167/2005).
+Lisboa, [Gde Janeiro de 2006
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos
+Andlu
+Amadeu Guerra eni Galore
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

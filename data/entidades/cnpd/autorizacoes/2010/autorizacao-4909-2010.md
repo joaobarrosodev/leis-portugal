@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DERMONOVA CLÍNICA DE DERMATOLOGIA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,26 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:41:03Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4909/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26203](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26203).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 7594/2010
+Autorização n. 4909/2010
+Dermonova - Clínica Dermatológica Lda notificou um tratamento com a finalidade de gestão de processo clínico.
+Declara as seguintes categorias de dados pessoais: Dados de identificação, dados de contacto dados relativos à saúde, vida sexual e genéticos para efeitos de medicina preventiva e curativa.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade decorre do n.º 4 do art. 7° da Lei n.º 67/98, de 26 de Outubro que admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+A CimpleCare, Lda é a entidade subcontratada para garantir as medidas de segurança da informação, com quem deve o responsável assinar o contrato previsto no artigo 14° da LPD.
+O responsável deve garantir as medidas de segurança necessárias à sensibilidade da informação tratada, designadamente a separação lógica entre os dados administrativos e os dados de saúde (cf. Art.º 15° n.° 3 da referida lei), devendo ser adoptadas medidas de segurança que impeçam o acesso à informação por pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos e técnicos de saúde ou, sob a sua direcção, a outros profissionais obrigados a segredo profissional (n.º 4 do citado art.° 7°). O sistema deve ser dotado de passwords de acesso diferenciado para assegurar as exigências supra especificadas.
+Cada acto de prescrição é enviado ao IGIF, através da rede privada multimédia do Ministério da Saúde, em ficheiro XML, para integração no Sistema de Conferência de Facturas de
+Medicamentos. Não são enviados dados pessoais dos doentes.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

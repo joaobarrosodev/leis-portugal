@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASSOL ASSOCIAÇÃO DE SOLIDARIEDADE SOCIAL DE LAFÕES'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,126 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T07:29:56Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3451/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30151](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30151).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 6177/10 3451
+Autorização n°
+/2011
+I.RELATÓRIO 1.ASSOL, Associação de Solidariedade Social de Lafões com sede em Largo da Feira - Oliveira de Frades, vem proceder à notificação do tratamento que tem como finalidade a gestão de utentes dos serviços que presta a pessoas com deficiência e incapacidades.
+2. Foram prestados esclarecimentos que se entenderam necessários e pertinentes.
+II.DOS FACTOS
+-A Requerente é uma Associação em que entre as valências a que se dedica destaca-se a prestação de serviços aos seus utentes, pessoas portadoras de deficiência e/ou incapacidades;
+-Pretende-se com este tratamento proceder à gestão da prestação de serviços dos seus utentes/clientes;
+-Os dados a colher são os de identificação, caracterização familiar, situação sócio-económica, contexto e condições habitacionais, autonomia e tipos de dependência, saúde/situação clínica, rede social de suporte;
+-Os dados de identificação englobam, nome, morada, contactos, data de nascimento, número de BI, número de contribuinte, número de beneficiário da
+Segurança Social, número de cartão de utente do SNS, estado civil, naturalidade e ainda habilitações literárias e profissão;
+-Os dados relativos à caracterização familiar englobam, número de elementos, nome, parentesco e actividade profissional exercida;
+-Os dados relativos a autonomia, tipos de dependência e saúde englobam, resultados de testes feitos ao tipo e grau de dependência, nome do médico de
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS família e contacto, grupo sanguíneo, alergias, tipos de problemas de saúde, dietas e tipo de alimentação e medicação;
+-Os dados relativos à situação habitacional englobam, a localização, regime de ocupação, estado de conservação, equipamentos básicos de conforto e salubridade, acessibilidades e tipos/formas de deslocação;
+-Os dados relativos à situação económica englobam o rendimento do utente e o rendimento dos membros do agregado familiar;
+-É colhido o consentimento do titular ou do seu Representante Legal nos casos em que aquele não está em condições de o prestar;
+-A segurança é garantida mediante cópias de backup, sistemas de processamento de backup, password de acesso às informações e acesso restrito de pessoas;
+-Têm acesso aos dados de saúde os profissionais específicos - psicólogos, médicos, terapeutas, técnicos de serviço social - que procedem à sua recolha e sistematização, na estrita medida das necessidades que as tarefas a executar determinam;
+-Está prevista a separação lógica entre tais dados e os restantes;
+-Haverá comunicação de dados, não se indicando quais as entidades e que dados envolvidos;
+-Não há interconexão nem fluxos transfronteiriços de dados;
+-O titular dos dados pode os mesmos conhecer, corrigir e/ou eliminar por pedido junto da Requerente;
+-Os dados são conservados pelo tempo de 10 anos.
+III.O DIREITO
+O tratamento em causa, porque perante dados pessoais, deve respeitar as condições expressas na Lei 67/98 de 260ut, mormente:
+respeito pela reserva da vida privada (art° 2°);
+.visar finalidades determinadas, explícitas e legítimas (art°5°/n°1 al.b);
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE"
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS estarem em causa dados adequados, pertinentes, não excessivos em relação à finalidade e proporcionais aos objectivos que se pretendem atingir (art°5°/n°1 al.c);
+o responsável só pode proceder ao tratamento se, de acordo com a natureza dos dados estiverem preenchidas "condições de legitimidade" (art°s 6° e 7°).
+Na verdade a Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais, sendo inquestionável que, em relação ao tratamento de dados da vida privada e de saúde, necessário se torna que esteja presente alguma das situações previstas no art° 7.°, sendo a lei, nesta matéria, particularmente exigente, ao qualificar os dados como sensíveis.
+Acresce que, em qualquer tratamento, necessário se torna que estejam efectivados os direitos de informação (art° 10°), de acesso (art° 11°) e de oposição (art° 12°) de molde a permitir-se o mesmo.
+Concatenando tais vectores com a factualidade acima enunciada, cumprirá então indagar se, no caso vertente, estão verificadas as condições legalmente exigidas, para o deferimento do pedido.
+Retira-se desde já que a finalidade em causa é a gestão da prestação de serviços dos utentes/clientes, a qual reclama a recolha de dados pessoais sensíveis.
+Trata-se de finalidade determinada, explícita e legítima, face ao escopo da
+Requerente.
+Seguindo no percurso analítico, parece também resultar que os dados que se pretendem recolher são adequados, pertinentes e não excessivos.
+Há ainda que referir que os dados de saúde deverão estar separados dos restantes e o acesso aos mesmos só deverá acontecer apenas por parte dos profissionais que dos mesmos necessitam para fazer desencadear e decidir do tipo e qualidade de apoio a prestar. O fundamento de legitimidade assenta no consentimento do titular ou de quem o represente, juntando-se "fórmula" de obtenção do mesmo que respeita as exigências expressas no art° 3° al.h) da
+Lei 67/98 de 26 de Outubro.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Acresce que sendo colhidos dados de outras pessoas para além do titular deve ser obtido também o consentimento destes no que aos seus dados diz respeito.
+Diga-se ainda que havendo comunicação de dados tal deve ser informado ao titular.
+Há assim que incluir no questionário e devidamente destacado um texto que encerre um consentimento para o tratamento em causa, que tem autorização para informar sobre os dados relativos a terceiros ali constantes e bem assim que consente na comunicação de dados a efectuar, apontando que entidades envolvidas, que dados e em que condições tal se processará.
+Assim ficará cabalmente protegido o direito de informação inserto no art° 10/n°1 do complexo normativo que se vem referindo.
+Quanto à comunicação prevista, para além da já referida informação a prestar aos titulares, deverá a Requerente indicar que entidades envolvidas e ter a cautela de que as mesmas têm os respectivos tratamentos notificados a esta
+CNPD.
+Por último salienta-se que o prazo de conservação dos dados deve ser o correspondente ao tempo de duração do serviço/apoio prestado.
+No mais, entende-se estarem acauteladas as exigências previstas quanto à confidencialidade e segurança da informação, exercício do direito de acesso e, tempo de conservação dos dados.
+IV.DECISÃO
+Em presença do exposto, decide-se considerar como legítimo, com as restrições supra-referidas, o tratamento notificado e consequentemente se autoriza o mesmo, de acordo com o plasmado nos normativos combinados dos artos 7n°2, 23nº1 al.b), 28° e 30° da Lei n°67/98 de 26 de Out e nas seguintes condições.
+1.Responsável: ASSOL, Associação de Solidariedade Social de Lafões;
+2.Finalidade: Gestão de utentes/clientes dos serviços que presta;
+3.Categorias dos dados:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS a) dados de identificação englobam, nome, morada, contactos, data de nascimento, número de BI, número de contribuinte, número de beneficiário da
+Segurança Social, número de cartão de utente do SNS, estado civil, naturalidade e ainda habilitações literárias e profissão;
+b) dados relativos à caracterização familiar englobam, número de elementos, nome, parentesco e actividade profissional exercida;
+c) dados relativos a autonomia, tipos de dependência e saúde englobam, resultados de testes feitos ao tipo e grau de dependência, nome do médico de família e contacto, grupo sanguíneo, alergias, tipos de problemas de saúde, dietas e tipo de alimentação e medicação;
+d) dados relativos à situação habitacional englobam, a localização, regime de ocupação, estado de conservação, equipamentos básicos de conforto e salubridade, acessibilidades e tipos/formas de deslocação;
+e) dados relativos à situação económica englobam o rendimento do utente e o rendimento dos membros do agregado familiar;
+4. Destinatários dos Dados:
+-Inexistem fluxos transfronteiriços e interconexão de dados;
+-Há comunicação de dados, devendo a Requerente indicar que entidades e dados envolvidos;
+5. Direito de Informação: Deverá ser assegurado que se esclareceu o titular dos dados, das finalidades da recolha, dos destinatários da informação e das condições de utilização e bem assim da existência de comunicação de dados;
+6. Direito de Acesso: Por pedido do titular (verbal ou escrito) junto da
+Requerente;
+7.Prazo de Conservação: Durante a prestação dos serviços/ apoio;
+8. Outras Condições:
+-É necessário obter consentimento dos terceiros cujos dados também são colhidos,
+-É necessário garantir que os dados de saúde estejam separados dos restantes e que o acesso aos mesmos só deverá acontecer apenas por parte
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976 832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS dos profissionais que dos mesmos necessitam para fazer desencadear e decidir do tipo e qualidade de apoio a prestar.
+Lisboa, 1l cle AGrif de 2011
+Carlos Campos Lobo (Relator), Ana Roque, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

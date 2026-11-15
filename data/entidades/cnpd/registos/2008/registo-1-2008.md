@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AUTORIDADE DA CONCORRÊNCIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 1/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1081](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1081).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.º 3427/06
+Registo n.° 1/08
+A Autoridade da Concorrência notificou um tratamento de dados pessoais com a finalidade de elaborar um estudo sobre as estruturas empresariais, designadamente as situações de exercício cumulativo de funções de administração e/ou direcção por parte dos membros dos órgão sociais em diversas sociedades.
+Declara recolher seguintes categorias de dados pessoais: nome e morada.
+Embora não tenha sido expressamente declarado, para atingir a finalidade terão de ser recolhidos dados relativos aos cargos exercidos pelos membros de órgãos sociais das entidades inquiridas.
+É o presente registo efectuado com este elemento.
+Os dados são recolhidos directamente, por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alinea d) do artigo 6° da LPD, o exercício de autoridade pública.
+Assim, regista-se, de acordo com artigos 27° n.º 1 e 30° n.º° 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Autoridade da Concorrência
+Categoria de dados pessoais tratados - nome, morada e dados relativos aos cargos exercidos pelos membros de órgãos sociais das entidades inquiridas.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Finalidade - elaborar um estudo sobre as estruturas empresariais, designadamente as situações de exercício cumulativo de funções de administração e/ou direcção por parte dos membros dos órgão sociais em diversas sociedades.
+Forma de exercício do direito de acesso e rectificação - pedido escrito ao responsável
+Interconexões - Não há.
+Comunicação de dados - Não há.
+Fluxo transfronteiriço de dados - Não há.
+O responsável deve garantir ao titular o direito de informação previsto no artigo 10° da Lei n.° 67/98.
+Lisboa, 03 de Janeiro de 08
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

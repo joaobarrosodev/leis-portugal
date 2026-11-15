@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 35/2015
-official_date: null
+official_date: '2015-08-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CAP GEMINI ERNST & YOUNG PORTUGAL, SERV. DE CONSULTORIA E INFORMÁTICA, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:56:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 35/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/80773](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/80773).
+Proc. n.º 238/2002 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n° 35/2015
+A Cap Gemini, Portugal, Serviços de Consultoria e Informática, SA, notificou um tratamento de dados pessoais com a finalidade de gestão de formação e marketing.
+A legitimidade do tratamento de dados pessoais decorre do contrato estabelecido com os formandos, nos termos da alínea a) do artigo 6.° da Lei n.º 67/98, de 26 de outubro (LPD).
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do artigo 5° da da LPD).
+A garantia dos direitos de informação, acesso, correção e de oposição, previstos dos artigos, 10.°, 11.° e alínea b)) do artigo 12°, todos da LPD, constitui uma obrigação do responsável pelo tratamento.
+A entidade deve pôr em prática as medidas técnicas e organizativas adequadas para proteger os dados, as quais devem assegurar um nível de proteção adequado em relação aos riscos que o tratamento apresenta e à natureza dos dados a proteger (Cf. artigo 14°, n.º1 da LPD).
+Assim, a Comissão Nacional de Protecção de Dados (CNPD) regista o tratamento de dados pessoais, nos termos do artigo 27.° e do n.º 1 do artigo 30.°, ambos da LPD, consignando-se o seguinte:
+Responsável pelo tratamento: Cap Gemini, Portugal, Serviços de Consultoria e Informática, SA;
+Finalidade: Gestão da formação e marketing;
+Categoria de Dados pessoais tratados: Nome, morada, data de nascimento, telefone, username, endereço de correio eletrónico e dados relativos à formação.
+Entidades a quem podem ser comunicados: Não há
+Formas de exercício do direito de acesso e retificação: Junto do responsável, na sede da entidade.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação dos dados: Cinco anos
+Lisboa, 18 de agosto de 2015
+Secretária da CNPD
+Isabel Cruz,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

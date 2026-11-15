@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 79/2001
-official_date: null
+official_date: '2001-05-08'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DGITA - DIR-GERAL INFORMÁTICA E APOIO AOS SERV. TRIBUTÁRIOS E ADUANEIROS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:06:49Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 79/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10157](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10157).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 508/99
+AUTORIZAÇÃO N.º79 /2001
+A DGITA - Direcção Geral de Informática e Apoio aos Serviços Tributários e
+Aduaneiros vem pedir autorização da CNPD, nos termos dos artigos 9.° e 28.° n.º 1 al.
+c) da Lei 67/98, de 26 de Outubro, para proceder à interconexão de dados dos seus tratamentos com o tratamento da Direcção Geral do Comércio e da Concorrência.
+Para fundamentar o pedido de interconexão são apresentadas as seguintes razões:
+a) Nos termos do artigo 1.° do DL 462/99, de 5 de Novembro, é obrigatória a organização e a inscrição no Cadastro Comercial dos estabelecimentos comerciais;
+b) Nos termos do artigo 2.º n.º 2 a DGCC promove a organização e gestão do ficheiro do Cadastro Comercial;
+c) Existem problemas de dificil resolução em matéria de actualização permanente deste Cadastro Comercial;
+d) Por forma a permitir a actualização das entidades inscritas e fazer um apelo às entidades não inscritas para promoverem a sua inscrição, era necessário efectuar a interconexão do tratamento do Cadastro Comercial com tratamento da DGITA (relativo ao IRS e IRC).
+e) Os dados a interconectar são os seguintes: nome, morada, n.º de contribuinte e
+CAE a 5 dígitos (CAE 50, 51 e 52).
+O cruzamento da informação não se traduz em qualquer discriminação das entidades ou diminuição dos direitos, liberdades e garantias dos seus titulares. Os dados a interconectar e a comunicar à DGCC não revelam a situação contributiva dos titulares dos dados.
+Esta operação tem em vista assegurar a actualização e realização de uma tarefa que o
+DL 462/99 considera fundamental e obrigatória: a organização do Cadastro Comercial.
+Tanto os tratamentos da responsabilidade da DGITA (Proc. 508/99) como da DGCC (Proc. N.º 152/97) encontram-se notificados à CNPD.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+De acordo com a informação adiantada pela DGITA, não existe "qualquer impedimento técnico" à realização desta interconexão.
+A CNPD entende que, em relação às pessoas ou entidades que vierem a ser avisadas para promoverem a sua inscrição, deve ser assegurado o direito de informação em relação à origem dos dados.
+Assim, tendo em atenção as disposições combinadas dos artigos 9.º e 28.º n.º 1 al. c) da
+Lei 67/98, a CNPD autoriza a interconexão nos termos requeridos e, exclusivamente, com a finalidade invocada.
+Lisboa, 8 de Maio de 2001
+Andei l
+Amadeu Guerra
+Catarinalartros
+Catarina Castro
+Luís Durão Barroso
+João Simões de Almeida
+Mário Varges Gomes presidente em substituição, que relatou)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3528/2009
-official_date: null
+official_date: '2009-08-26'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BIAL - PORTELA & Cª, S. A. - EX-PORTELA & Cª, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:39:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3528/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18319](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18319).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 6393/2009
+AUTORIZAÇÃO N. ° 3528/09
+A Bial-Portela Cª, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico em voluntários saudáveis Protocolo n.° BIA-91067-114.
+Trata-se de um «estudo em dupla-ocultação, randomizado, controlado com placebo e activo (..) para investigar o seu efeito na farmacocinética da levodopa (...) em voluntários saudáveis» e tem como objectivo «Investigar o efeito da administração repetida de BIA 9-1067 (..) na farmacocinética da levodopa, em comparação com placebo e entacapona (...)».
+As categorias de dados recolhidos são as seguintes: sexo, data de nascimento, idade, peso altura índice corporal, processo infeccioso ou inflamatório agudo corrente;
+história cirúrgica, sintomatologia gastrointestinal aguda, história de atopia ou hipersensibilidade medicamentosa relevante; história ou presença de glaucoma de ângulo estreito; lesões cutâneas suspeitas não dignosticadas ou história de melanoma; história de alergia hipersensibilidade, doação ou recepção de transfusão de sangue ou derivados nos últimos 3 meses, se recebeu antes o produto em estudo; participação em mais de 2 ensaios nos últimos 12 meses, uso de algum produto investigacional e/ou participação em ensaio clínico nos últimos 6 meses; uso de algum medicamento nas últimas duas semanas; história de abuso de drogas e história de alcoolismo; ; resultado da medicação de sinais vitais, electrocardiograma, resultado
+Duo do Ca Dote 110 90
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS de exame físico; fertilidade, contracepção, gravidez amamentação, e data da última menstruação, análises clínicas à urina e ao sangue e nome do investigador.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre
+• enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.°1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Bial-Portela Cª, S.A.
+Finalidade: gestão de ensaio clínico em voluntários saudáveis Protocolo n.° BIA-91067-114.
+Categoria de Dados Pessoais tratados: sexo, data de nascimento, idade, peso altura índice corporal, processo infeccioso ou inflamatório agudo corrente; história cirúrgica, sintomatologia gastrointestinal aguda, história de atopia ou hipersensibilidade medicamentosa relevante;
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS história ou presença de glaucoma de ângulo estreito; lesões cutâneas suspeitas não dignosticadas ou história de melanoma; história de alergia ou hipersensibilidade, doação ou recepção de transfusão de sangue ou derivados nos últimos 3 meses, se recebeu antes o produto em estudo;
+participação em mais de 2 ensaios nos últimos 12 meses, uso de algum produto investigacional e/ou participação em ensaio clínico nos últimos 6 meses; uso de algum medicamento nas últimas duas semanas; história de abuso de drogas e história de alcoolismo; ; resultado da medicação de sinais vitais, electrocardiograma, resultado de exame físico; fertilidade, contracepção, gravidez amamentação, e data da última menstruação, análises clínicas à urina e ao sangue e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação:
+Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do Anexo I do DL 176/2006, 30 de
+Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar
+Rua de São Rento 148.2° • 1200.821 1 1cRO 4
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 26 de Agosto de 2009
+Conis Gilver
+Luís Lingnau da Silveira (0 Presidente que o relatou)

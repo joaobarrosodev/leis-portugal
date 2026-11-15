@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MUNICÍPIO DE PONTE DE LIMA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 9/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21554](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21554).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 2502/2009
+REGISTO N.° 12010
+A Município de Ponte de Lima notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de marketing.
+Os dados serão recolhidos directamente pela Internet, telefone, impresso e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco dos titulares.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Município de Ponte de Lima
+Finalidade
+Gestão de marketing.
+Categoria de dados pessoais tratados
+Nome, morada, profissão, idade, data de nascimento, habilitações, e-mail, telefone/telemóvel e áreas de interesse (negócios, eventos, cultura, turismo, ambiente, desenvolvimento, acção social, publicações, outros).
+Comunicação de dados
+Não há.
+Forma de exercício do direito de acesso e rectificação
+Junto do responsável pelo tratamento dos dados por escrito.
+Interconexões
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados 10 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Alerta-se para a necessidade de alteração do texto do direito de informação, do qual consta "comercialização" onde deveria constar "correcção".
+Lisboa, 15|02|2010
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

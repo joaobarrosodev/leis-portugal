@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Associação Nacional dos Industriais do Ensino de Condução Automóvel (ANIECA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,98 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T00:22:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4461/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54813](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54813).
+Proc. 3346/13 1 K
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° 446 1/2013 1 - O Pedido
+A Associação Nacional dos Industriais do Ensino de Condução Automóvel (ANIECA) veio notificar o tratamento de videovigilância a realizar no centro de exames sito na Rua do Colégio de Albergaria-a-Velha, 3850-230 Albergaria-a-
+Velha.
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 4 câmaras na sala de espera e sala de exames.
+Há visualização de imagens em tempo real.
+Não há transmissão de imagens para o exterior do local da instalação do sistema.
+Na sequência desse pedido, a Comissão Nacional de Proteção de Dados (CNPD) elaborou o projeto de autorização de 7 de maio de 2013, no sentido de não autorizar a recolha de imagens no interior da sala de exames nem na sala de espera, tendo sido a entidade requerente notificada do referido projeto, através do n/ofício n.° 10795 de 09 de maio de 2013, nos termos e para os efeitos do disposto no artigo 100.° do Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projeto: «(...) O sistema de recolha de imagens incide somente em zonas de circulação de pessoas e nos locais onde pode haver furto ou danos em equipamentos, especialmente aptos e informaticamente preparados para a realização de exames teóricos de condução (...) A recolha de imagens no interior da sala de exames multimédia afigura-se idónea para atingir a finalidade de proteção de pessoas e bens, necessária por inexistência de medidas alternativas, em juízo de proporcionalidade, vantagens
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 3346/13 2 K
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS superiores para o interesse geral relativamente à lesão de direitos sofrida por quem acede àqueles locais».
+II - Análise
+Através da deliberação n° 61/2004, de 19 de abril('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação dar condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspetos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n°. 1, alínea. c), da Lei 67/98, de 26 de Outubro - LPD), condições de legitimidade (artigos 7° e 8.°, n.° 2, da LPD), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efetivamente, admite-se que sejam utilizados estes meios de prevenção nas areas abrangidas com vista à proteção de pessoas e bens no edifício. Trata-se da colocação de sistemas de recolha de imagem em zonas de circulação de pessoas, e onde pode haver furto ou dano em equipamentos.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que corresponde a um interesse publico relevante. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, al. c), da LPD).
+(*) Disponível in http://www.cnpd.pt/orientacoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 3346/13 3
+K
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infração.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do Trabalho (2).
+Não se autoriza a recolha de imagens no interior da sala de exames nem na sala de espera, já que tal permite ao responsável uma intromissão desproporcionada na liberdade de movimentos e mesmo na privacidade de quem acede àqueles locais.
+Face ao exposto, a CNPD entendeu, no projeto de autorização que foi remetido à entidade requerente, que não se devia autorizar a recolha de imagens nas zonas supra referidas, pois essa captação de imagens mostrava-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento, pelo que as referidas câmaras deviam ser retiradas.
+Contudo a requerente vem alegar que, a necessidade de captação de imagens em locais onde pode haver furto e dano em equipamentos. Contudo a CNPD continua a entender que a captação de imagens no interior da sala de exames durante o periodo de exames dos alunos e excessiva e desproporcionada. Contudo, a CNPD, face à finalidade apresentada, ressalva a possibilidade de recolocação das câmaras para que se capte apenas o interior da sala dos exames teóricos quando ali não se realizem exames ou sequer aulas se for caso disso. Na presença de alunos no interior da sala não podem as câmaras captar imagens até porque nesse espaço de tempo há sempre um auxiliar presente (professor, examinador ou outro) que garante o bom funcionamento e uso do material informático.
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 3346/13 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Quanto à sala de espera a CNPD conserva, também, a posição mantida no projeto de autorização entretanto remetido pelo que mantém a proibição de captação de imagens naquele espaço sem que exista um controlo desproporcionado na liberdade de movimentos e mesmo na privacidade de quem ali se encontra. Contudo ressalva-se a possibilidade de captação de imagens nos acessos à sala de espera.
+III - Conclusões
+Considera-se, por isso, legítimo o tratamento - autoriza, parcialmente, a recolha de dados (artigos 7.°, n.° 2, e 28.°, n.° 1, alínea. a), da LPD) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Associação Nacional dos Industriais do
+Ensino de Condução Automóvel (ANIECA).
+2. Finalidade - Proteção de pessoas e bens.
+3. Categorias de dados pessoais tratados - Imagens captadas pelo sistema.
+4. Comunicação de imagens - As imagens só podem ser tratadas nos termos da lei processual penal. Detetada a eventual infração penal, o responsável, juntamente com a participação, enviar à autoridade judiciária ou ao órgão da polícia criminal competentes as imagens recolhidas. Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no âmbito de processo judicial devidamente identificado, em cumprimento do despacho fundamentado da autoridade judiciária competente. Fora destas condições não pode o responsável comunicar as imagens.
+5. Interconexões - Não há 6. Fluxo transfronteiriço para países terceiros - Não há.
+7. Conservação de dados - 30 dias.
+8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do Trabalho.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 3346/13 5
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 9. A recolha de imagens deve confinar-se ao perímetro da propriedade e as câmaras não podem incidir sobre as zonas limítrofes ou a via pública.
+10. Não se autoriza a recolha de imagens no interior da sala de exames nem na sala de exames, já que tal permite uma intromissão desproporcionada na liberdade de movimentos e mesmo na privacidade de quem se encontra naquele local, pelo que as câmaras, aí instaladas, devem ser retiradas
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (n.º 1 do artigo 11° da LPD), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à CNPD (n.° 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adotar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, nos termos exigidos pelo n.º 3 do artigo 13° do Decreto-lei n.º 35/2004, de 21 de fevereiro.
+O responsável deve adotar as medidas de segurança previstas nos artigos 14° e 15° da LPD. Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre atualizadas a data e hora das gravações.
+Lisboa, 11 junho de 2013
+Ana Roque, Carlos Lobo (Relator), Helena António, Vasco Almeida, Luís Paiva de
+Andrade, Luís Barroso,
+Filipa Calvão (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

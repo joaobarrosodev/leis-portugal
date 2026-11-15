@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 43/2015
-official_date: null
+official_date: '2015-06-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIREÇÃO-GERAL DE POLÍTICA EXTERNA (MNE - Ministério dos Negócios Estrangeiros)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,29 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:01:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 43/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/77881](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/77881).
+Proc. n. 845712015 '
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.° 43/2015
+Do Pedido
+A Direcção-Geral de Política Externa do Ministério dos Negócios Estrangeiros remeteu à Comissão Nacional de Protecção de Dados (CNPD) para parecer o Protocolo
+Adicional à Convenção sobre os Direitos do Homem e a Biomedicina referente aos
+Testes Genéticos para fins relacionados com a Saúde, o qual se encontra em fase de ratificação.
+A CNPD emite parecer ao abrigo do disposto no artigo 22.°, n.º 1, da Lei n.º 67/98, de 26 de outubro - Lei de Proteção de Dados Pessoais.
+Da Apreciação
+Analisado o texto ora submetido a parecer o mesmo não merece qualquer comentário, na medida em que os aspetos de proteção de dados e privacidade se encontram devidamente acautelados.
+Quanto às remissões feitas para a legislação nacional, chama-se a atenção do legislador nacional para a eventual necessidade de, após a entrada em vigor do presente protocolo, conformar a legislação em matéria de testes genéticos em vigor com o referido protocolo.
+Este é o nosso parecer.
+Lisboa, 2 de junho de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

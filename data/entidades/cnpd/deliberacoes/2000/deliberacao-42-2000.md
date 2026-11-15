@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 42/2000
-official_date: null
+official_date: '2000-11-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMISSÃO NACIONAL DE PROTECÇÃO DE DADOS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:52:49Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 42/2000
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15884](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15884).
+ha. N: 463/00
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+DELIBERAÇÃO N.° 42/2000 1. A Comissão Nacional de Protecção de Dados verificou estarem disponíveis, no site da Internet do Ministério da Justiça, acórdãos em texto integral, em particular do
+Supremo Tribunal de Justiça.
+Verificou, ainda, que nesses acórdãos do STJ são identificados, entre outros intervenientes, os arguidos e ofendidos em crimes sexuais, contra honra e intimidade da vida privada ou as partes nas acções de investigações de paternidade, regulações do poder paternal e acções de divórcio.
+2. Os tratamentos automatizados de decisões dos tribunais e outras bases de dados jurídico-documentais que - em texto integral - identifiquem as partes, as vítimas ou demais intervenientes processuais contêm dados pessoais na acepção do artigo 3.° al.
+a) da Lei 67/98.
+3. A Comissão Nacional de Protecção de Dados, tendo em atenção que a finalidade dos tratamentos destes dados é, essencialmente, o de assegurar o direito à informação juridica, entende que este direito não é prejudicado com a anonimização dos dados pessoais relativos aos intervenientes.
+Sem pôr em causa o princípio constitucional do "direito à informação jurídica" consagrado no artigo 20.º n.º 2 da CRP, considera a CNPD que este direito deve ser assegurado com respeito pelo direito à intimidade da vida privada e pela protecção de dados pessoais consagrados, respectivamente, nos artigos 26.° n.º 1 e 35.° da CRP.
+4. Na sequência de anteriores deliberações() - que apontam para a anonimização dos dados pessoais contidos nas bases de dados publicamente acessíveis - a CNPD considera que estes dados pessoais integram informação extremamente sensível, a qual deve ser eliminada de tais suportes.
+() Cf. A Deliberação n.° 84/98, de 1 de Outubro (in Relatório de 1998, pág. 131) e Parecer n.° 8/99, de 25 de Maio (in Relatório de 1999, pág. 281)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 5. Quando os responsáveis dos tratamentos não procederem à anonimização dos dados pessoais dos intervenientes, considera a CNPD que tais suportes - por conterem dados pessoais - estão submetidos ao regime da Lei de Protecção de Dados (Lei 67/98, de 26 de Outubro), devendo os seus responsáveis proceder à legalização dos respectivos tratamentos junto da CNPD, através de uma das formas legalmente previstas:
+notificação, autorização ou disposição legal submetida a parecer prévio da Comissão.
+Em face do exposto, a CNPD considera:
+a) Que o tratamento destas decisões por parte das entidades públicas ou privadas deve, por princípio, ser anonimizado;
+b) Que devem ser obrigatoriamente anonimizados os tratamentos em que existam dados pessoais, no âmbito de processos-crime, acções de investigação de paternidade, regulações do poder paternal, acções de divórcio e outros acórdãos em que haja informação identificada ou identificável que respeite à intimidade da vida privada.
+c) As entidades públicas e privadas que pretendam tratar dados pessoais devem proceder, nos termos da Lei 67/98, à respectiva legalização junto da CNPD, apresentando, conforme o caso, uma notificação, um pedido de autorização ou um diploma legal.
+Lisboa, 7 de Novembro de 2000 den
+Amadeu Guerra (relator)
+Catarinafarmente lastros
+Catarina Castro
+Luís Durão Barroso
+João Simões de Almeida
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Mário Varges Comes
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

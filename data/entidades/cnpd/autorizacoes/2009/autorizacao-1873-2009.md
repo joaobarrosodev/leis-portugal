@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL PARTICULAR DO ALGARVE, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,70 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:07:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1873/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15856](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15856).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 10562/08
+Autorização n° 873/ 09
+I. Relatório
+O Hospital Particular do Algarve S.A. sedeado em Sítio Cruz da Bota - Lote 27
+- Estrada de Alvor - Alvor, veio notificar um tratamento de dados, visando a prescrição electrónica da medicação aos utentes em regime ambulatório.
+Para assegurar o desempenho destas finalidades informa que foram instalados mecanismos de segurança como:
+. cópias de backup;
+.sistemas de processamento de backup;
+. password de acesso às informações;
+informação cifrada;
+.acesso restrito de pessoas;
+. sistemas de alarme e resposta;
+. controlo da inserção, utilização e acesso (o sistema implementa um modo de acesso, identificação única de cada utilizador e respectiva chave de acesso);
+. controlo da transmissão transporte (o controlo da transmissão e transporte de dados é efectuado pelo utilizador final da aplicação usando a sua gestão interna da rede informática);
+controlo da introdução (a identificação única de cada utilizador, bem como a data e hora, fica associada a cada registo efectuado);
+-Apenas têm acesso à informação colhida e registada os médicos que possuem password pessoal e intransmissível;
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+São recolhidas as seguintes categorias de dados:
+- Identificação do utente que incluem o n° de processo do hospital, número de utente, nome, morada, telefone e subsistema de saúde;
+- Medicação prescrita;
+Há comunicação de dados para a ACSS - Administração Central do Sistema de Saúde - para efeitos de conferência de facturas de medicamentos;
+Não há interconexão nem fluxos transfronteiriços de dados;
+O titular dos dados pode os mesmos conhecer, através do exemplar da receita que lhe é entregue, podendo junto do médico conhecer, corrigir e pedir para eliminar os dados a si respeitantes;
+Pretende-se a conservação de dados de acordo com a Portaria n° 247/2000 de 8 de Maio.
+II. Apreciação jurídica 1. Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. artigo 5.° n.º 1 al. c) da Lei 67/98).
+O tratamento de dados de saúde é realizado para fins de «medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde» (cf. artigo 7.° n.º 4 da Lei 67/98, de 26 de
+Outubro). Ao mesmo tempo, e tal como resulta do mesmo preceito, o tratamento desses dados é efectuado «por um profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional».
+A informação não poderá ser utilizada para finalidade diversa da declarada.
+67/98.
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+As medidas de segurança adoptadas devem impedir o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7.° n.º 4). O sistema deverá ser de password - com separação lógica entre dados administrativos e de saúde (cf. artigo 15.° n.º 3 da Lei 67/98) - para assegurar as exigências supra-especificadas.
+Aos titulares dos dados deve ser garantido o direito de informação, nos termos do artigo 10.° da lei 67/98);
+Está prevista a comunicação de dados à ACSS, com vista à conferência de facturas, respeitando-se o Protocolo especificado por esta entidade, nada ressaltando que a tal impeça.
+I||. Decisão
+Em presença do exposto, a CNPD autoriza o tratamento de dados de harmonia com o plasmado nos arts° 7nº 4, 28.° n.º 1 al. a), 23.° n.º 1 al. b), 27.° e 30.º da Lei 67/98 de 26 de Outubro, fixando-se as seguintes condições:
+1. Responsável: Hospital Particular do Algarve S.A.;
+2. Categorias de dados pessoais tratados: -
+- Identificação do utente que inclui o n° de processo do hospital, número de utente, nome, morada, telefone e subsistema de saúde;
+- Medicação prescrita;
+3. Finalidade: Prescrição electrónica da medicação aos utentes em regime ambulatório;
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 4. Entidades a quem podem ser transmitidos: Há comunicação à ACSS de dados para efeitos de conferência de facturas de medicamentos;
+5. Forma de exercício do direito de acesso e rectificação: Junto do médico prescritor;
+6. Eventuais interconexões : Não há;
+7. Transferências de dados para países terceiros : Não há;
+8. Tempo de conservação: Nos termos da Portaria n.º 247/2000, de 8 de
+Maio.
+Lisboa, d4 de Teeio 2009
+Carlos Campos Lobo (Relator), Ana Roque, Helena Delgado António, Luís
+Paiva de Andrade, Luís Barroso, Vasco Almeida ce
+Luís Lingnau da Silveira (Presidente)

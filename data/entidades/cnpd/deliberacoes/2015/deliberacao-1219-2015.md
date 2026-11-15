@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1219/2015
-official_date: null
+official_date: '2015-07-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Acesso a dados pessoais de saúde'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,27 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:47:06Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 1219/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/80149](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/80149).
+Processo n. 4797/2015 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Deliberação n.°)12 14/2015
+Em 21 de abril de 2015, a Comissão Nacional de Protecção de Dados (CNPD) emitiu a
+Deliberação n.° 676/2015 relativa ao acesso a dados clínicos de
+, falecido.
+Todavia, verifica-se existir um erro quanto às circunstâncias de facto sobre as quais se pronunciou a CNPD, porquanto aquela deliberação foi emitida no pressuposto de que o acesso tinha por finalidade a apresentação de documentos à seguradora no âmbito de um contrato de seguro de vida, quando na verdade em causa está um contrato de seguro de saúde.
+Nessa medida, e com fundamento no disposto no artigo 168.° do Código do
+Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, a
+CNPD delibera anular a Deliberação n.° 676/2015.
+Lisboa, 21 de julho de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

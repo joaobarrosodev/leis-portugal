@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AT &T SERVIÇOS DE TELECOMUNICAÇÕES, SOCIEDADE UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:17:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3031/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23928](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23928).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 3635/2010
+AUTORIZAÇÃO N.° 3031
+/2010
+AT&T Serviços de Telecomunicações, Sociedade Unipessoal, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de Gestão da informação dos Serviços
+Saúde no Trabalho.
+A CNPD já se pronunciou na sua Deliberação n.º 41/2006 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela Deliberação n.º 41/2006.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: AT&T Serviços de Telecomunicações, Sociedade
+Unipessoal, Lda Finalidade: Gestão da informação dos Serviços de Segurança e Saúde no
+Trabalho.
+Categoria de Dados pessoais tratados: Nome, sexo, data de nascimento, idade, data da contratação, morada, telefone, departamento, n.º de empregado, categoria, BI, n.º utente, profissão, data de consulta, data de exames, código dos exames, utilização do apoio médico domiciliário e dados clínicos.
+Entidades a quem podem ser comunicados: Sem prejuízo das comunicações legalmente previstas, relativamente aos dados clínicos não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Inspecção-geral de
+Trabalho.
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Formas de exercício do direito de acesso e rectificação: pessoalmente e por contacto telefónico junto do Departamento de Recursos Humanos. Quanto ao tratamento de dados de saúde, o direito de acesso deverá ser exercido junto do médico do trabalho e no exercício do direito de rectificação deste tipo de dados, deverá o trabalhador exercê-lo directamente junto
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não se verificam.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: os dados pessoais podem ser conservados pelo período máximo de um ano após a cessação do vínculo laboral à entidade. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária, designadamente à revisão judicial da incapacidade.
+Dos termos e condições fixados na Deliberação n.º 41/ 2006 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 12de Julho de 10
+Ana Roque; Luís Paiva de Andrade, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Barroso (Relator)
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

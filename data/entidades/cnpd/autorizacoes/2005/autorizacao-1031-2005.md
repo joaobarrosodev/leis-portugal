@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MOTOROLA PORTUGAL, COMUNICAÇÕES, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:16:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1031/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17097](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17097).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 178/99 1031
+Autorização n.° /2005
+Através do instrumento das Autorização n.º 17/2001, a Comissão Nacional de Protecção de Dados (CNPD) autorizou a Motorola Portugal, Comunicações, Lda a proceder a um tratamento de dados pessoais com a finalidade de '¿Gestão laboral de salários e remunerações, gestão interna de recursos humanos da sociedade no que respeita aos seus empregados e à eventual adesão a planos de incentivos de acções, bem como à manutenção e actualização de dados pessoais", bem como a comunicação de dados para os Estados Unidos, nos termos do artigo 20.º da Lei n.º 67/98, de 26 de Outubro, desde que obtido o consentimento dos trabalhadores.
+Na alteração pretendida acrescenta-se o tratamento da informação sobre a selecção e pré-selecção de candidatos internos e externos aos postos de trabalho em aberto na empresa.
+Notificada nos termos do artigo 100.º do CPA a entidade não respondeu, razão pela qual se mantém o teor do projecto.
+A CNPD mantém a obrigação de a empresa obter o consentimento dos titulares dos dados para a transferência para os Estados Unidos. A obrigação verifica-se em relação quer a actuais trabalhadores, quer a candidatos a postos de trabalho.
+Relativamente a candidatos a postos de trabalhos a CNPD considera impertinente e excessivo o envio da informação para os Estados Unidos. Por esta razão, não se autoriza a citada transferência.
+Autoriza-se a alteração notificada dos serviços encarregados do processamento de informação.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, de De gueto de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+енни
+Eduardo Campos
+Ana Luísa Geraldes
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

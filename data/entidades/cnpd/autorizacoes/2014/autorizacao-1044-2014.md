@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Grupo Pestana Pousadas - Investimentos Turísticos, S.A. - Tratamento terminado'
-- 'Texto incompleto: 1 de 4 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,12 +70,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T22:26:15Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1044/2014
+
+Proc. n.º 1484/2014 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+DELIBERAÇÃO N.° 295/2015
+Verificou-se que, por lapso do requerente (Grupo Pestana Pousadas - Investimentos
+Turísticos, S.A.), foi submetida, no sistema informático da Comissão Nacional de
+Protecção de Dados (CNPD), uma notificação de videovigilância abrangendo quatro pousadas: - Pousada de São Bento (Caniçada); - Pousada de Santa Maria do Bouro -
+Mosteiro de Santa Maria do Bouro (Amares); - Pousada de Santa Marinha da Costa -
+Largo Domingos Leite de Castro (Guimarães); - Pousada da Flor da Rosa - Mosteiro
+Santa Maria de Flor da Rosa (Crato).
+Na sequência da notificação, foi emitida no procedimento automatizado a Autorização n.º 1044/2014, de 29 de janeiro de 2014, relativo aos quatro sistemas.
+Sucede que o requerente, apercebendo-se do erro, corrigiu-o, notificando separadamente o tratamento de dados pessoais dos sistemas de videovigilância das pousadas de: Santa Maria do Bouro - Mosteiro de Santa Maria do Bouro (Amares) -
+Processo n.º° 17874/2014; Santa Marinha da Costa - Largo Domingos Leite de Castro (Guimarães) - Processo n.° 17868/2014; Flor da Rosa - Mosteiro Santa Maria de Flor da Rosa (Crato) - Processo n.º 17870/2014; e, Pousada de S. Bento (Caniçada) -
+Processo n.º 17871/2014.
+Assim, nos termos do artigo 138.° e 141.° do Código do Procedimento Administrativo, a
+CNPD, com fundamento em erro nos pressupostos, delibera revogar a Autorização n.° 1044/2014, de 29 de janeiro de 2014.
+Lisboa, 27 de janeiro de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
 
 Processo n.º 1484/ 2014
 AUTORIZAÇÃO N.º 1044/ 2014

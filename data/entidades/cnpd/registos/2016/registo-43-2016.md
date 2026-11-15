@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DPR - FLUENCIA Dosimetria e Proteção de Radiações, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:55:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 43/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92399](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92399).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 2148/2014
+REGISTO N.º 43/ 2016
+DPR - FLUENCIA Dosimetria e Proteção de Radiações Ldª notificou à CNPD um tratamento de dados pessoais com a finalidade de comunicação da dose de radiação ionizante recebida pelos profissionais de saúde.
+Os dados são recolhidos diretamente por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alínea b)
+do artigo 6° da LPD, o cumprimento de obrigações legais.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+DPR - FLUENCIA Dosimetria e Proteção de
+Radiações Ld®
+Finalidade
+Comunicação da dose de radiação ionizante recebida pelos profissionais de saúde.
+Categoria de dados pessoais tratados
+Nome, documento de identificação, número, emissão, validade, nacionalidade, NIF, sexo, data de nascimento, categoria profissional, tipo de dosímetro e assinatura.
+Comunicação de dados
+Registo Central de Doses.
+Forma de exercício do direito de acesso e rectificação
+Junto do responsável pelo tratamento dos dados por escrito.
+Interconexões
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Conservação dos dados 5 anos, sem prejuízo de manutenção dos dados em arquivo histórico.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 28/06/2016
+Cai e Kera.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: STUTTCAR - COMÉRCIO DE AUTOMÓVEIS, SA ( MERCEDES )'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,32 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:25:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2653/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23466](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23466).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 854-01 2653
+AUTORIZAÇÃO N.º /2010 1. A sociedade comercial Stuttcar - Comércio de Automóveis, SA, veio notificar um tratamento cuja finalidade é a gestão da relação comercial com clientes e novas relações comerciais com potenciais clientes.
+Da leitura do impresso de recolha de dados verifica-se que existem campos específicos para recolher elementos sobre a identificação (nome, morada, sexo, data de nascimento), contactos, profissão, rendimento e agregado familiar.
+2. Os dados apenas são tratados na sequência de uma relação pré-contratual ou na sequência do estabelecimento de uma relação contratual. Existe, por isso, legitimidade para o tratamento de dados (cf. art. 6.° al. a) da Lei 67/98, de 26 de Outubro). Os dados são necessários, adequados e não excessivos à finalidade. Os dados sobre rendimento destinam-se à ponderação do risco e à apreciação das condições de celebração do contrato.
+A Comissão considera que os titulares dos dados devem ser informados das finalidades do tratamento e dos demais elementos que constam do artigo 10.° n.º 1 da Lei 67/98. Sendo os dados recolhidos por impresso e pela Internet a empresa deverá assegurar esse direito de informação obrigatoriamente, conforme decorre do disposto no artigo 10.º n.º 1, 2 e 4 da Lei 67/98, de 26 de
+Outubro.
+. 3. A entidade responsável refere - no formulário de legalização - que faz comunicação de dados aos seus concessionários no país, identificados em anexo à notificação. Não há interconexão de dados nem fluxos transfronteiras.
+Quanto ao tempo de conservação, consagra-se o máximo de 10 anos sobre o termo da relação contratual, e de 2 anos após a recolha, caso se trate de relação pré-contratual que não tenha evoluído para contrato.
+4. O direito de rectificação pode ser exercido pessoalmente ou por escrito pelo titular dos dados.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Nos termos dos artigos 27., 28.º n.º 1 al. b) e 30.º da Lei 67/98 autoriza-se o tratamento, consignando-se o seguinte:
+1. Responsável: Stuttcar - Comércio de Automóveis, SA 2. Categorias de dados pessoais tratados: identificação (nome, morada, sexo, data de nascimento), contactos, profissão, rendimento e agregado familiar.
+3. Finalidade: gestão da relação comercial com clientes e novas relações comerciais com potenciais clientes 4. Entidades a quem podem ser transmitidos: concessionários do responsável pelo tratamento indicados na notificação 6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação dos dados: 2 anos após a recolha (potenciais clientes); 10 anos após o termo da relação contratual (clientes).
+Lisboa, de Junho de 2010
+Ana Roque (relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado
+António, Luís Paiva de Andrade stre
+Luís Lingnau da Silveira (Presidente)

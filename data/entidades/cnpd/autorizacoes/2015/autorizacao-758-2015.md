@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Lusíadas, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,98 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:01:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 758/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73325](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73325).
+Processo 17497/2014 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃON.º 738/2015
+I - O Pedido
+Lusíadas S.A., com sede em Rua Laura Alves, nº12 - 5° - Lisboa, notificou à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de prescrição eletrónica de medicamentos a utentes, relativo à
+Clínica Lusíadas Parque das Nações.
+A requerente presta serviços na área de saúde.
+Declarou tratar os seguintes dados pessoais: dados pessoais, dados clínicos, medicação.
+Os dados são recolhidos de forma direta, presencialmente.
+É indicada comunicação de dados para a ACSS.
+Inexiste interconexão ou de fluxos internacionais de dados para países terceiros.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+São declaradas medidas de segurança física e de segurança lógica descritas no formulário de notificação.
+Pretende-se a conservação dos dados de acordo com a legislação em vigor.
+II - Apreciação 1 - O n.º 4 do artigo 7° da Lei n.° 67/98, de 26 de outubro (LPDP), admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efetuado por
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 17497/2014 | 2 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados de saude ou tratamentos medicos ou gestão de serviços de saúde há legitimidade para efetuar o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional.
+Nessa medida, deve compaginar-se a recolha da informação com o princípio da confidencialidade, respeitando-se, assim, o respetivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+2 - A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da LPDP), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva
+Por outro lado, a prescrição eletrónica foi objeto de regulamentação, pelo que há dados de registo obrigatório que não foram declarados pelo responsável e que são essenciais ao sistema de prescrição eletrónico.
+Assim, atentando na finalidade do tratamento, necessário se torna que a responsável proceda ao tratamento de dados sem os quais não é válida a receita electrónica.
+Nessa medida e conforme consta do artigo 7° da Portaria n° 198/11, de 18 de maio, os dados a tratar são os seguintes: número da receita; local de prescrição; identificação do médico prescritor, com a indicação do nome profissional, especialidade médica, se aplicável, número da cédula profissional e contacto telefónico; nome e número de utente e, sempre que aplicável, de beneficiário de subsistema; entidade financeira responsável; regime especial de comparticipação de medicamentos, representado pelas siglas «R» e ou «O», se aplicável; designação do medicamento, sendo esta efetuada através da denominação comum da substância ativa, da marca e do nome do titular da autorização de introdução no mercado; código do medicamento representado em dígitos; dosagem, forma farmacêutica, dimensão da embalagem, número de embalagens e posologia; identificação do despacho que estabelece o regime especial
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 17497/2014 | 3 f
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS de comparticipação de medicamentos, se aplicável; data de prescrição; assinatura, manuscrita ou digital, do prescritor.
+Cada ato de prescrição é enviado à ACSS, através da rede privada multimédia do
+Ministério da Saúde, em ficheiro XML, para integração no Sistema de Conferência de
+Faturas de Medicamentos através de acesso ao sítio da ACSS, via R/S (Rede Interna da Saúde), em protocolo HTTPS. A autenticação na aplicação faz-se por login e password fornecidos pela ACSS.
+São comunicados os seguintes dados: Dados do utente (sexo, data de nascimento, localidade); Dados sobre o medicamento (n.º de registo, quantidade, tipo de medicamento, produtos abrangidos pelo protocolo da Diabetes, descrição do manipulado, autorização para fornecimento de genérico); Dados do médico prescritor (n.º de prescritor atribuído pela Ordem dos Médicos); Local de prescrição e dados sobre a receita (n.°, data, tipo de receita, regime especial de comparticipação).
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.º 4 de Lei n° 67/98, de 26 de outubro.
+Considera-se justificada a comunicação de dados à ACSS nos termos do artigo 7° nº4 da LPDP.
+Deve ser dada especial atenção à necessidade de assegurar:
+a/ O direito de informação e acesso aos titulares dos dados, nos termos dos artigos 10° e 11° nº5 da LPDP;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15° nº3 da LPDP);
+c) Devem ser adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7° nº4 da LPDP).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpo.pt
+
+Processo 17497/2014 | 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Quanto à segurança da informação, para além das medidas declaradas, deve o responsável pelo tratamento adotar regras de procedimento interno, de forma a analisar periodicamente os registos de acesso (logs), para garantir que os acessos à informação se efetuam de acordo com os princípios da necessidade e pertinência. Os logs e os relatórios de análise devem ser conservados durante o período máximo de conservação da informação, para efeitos de auditoria da CNPD no exercício das suas competências.
+A CNPD determina, ao abrigo do n.º 4 do artigo 15.º da LPDP, que a circulação da informação em rede - porque pode por em risco direitos, liberdades e garantias dos titulares - deve ser encriptada.
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados tratados.
+III - Conclusão
+Nestes termos e ao abrigo do disposto nos artigos 7.° n.º 4 e 30.° da Lei n° 67/98, de 26 de outubro, a CNPD autoriza o tratamento notificado, consignando o seguinte:
+Responsável: Lusíadas S.A. (Clínica Lusíadas Parque das Nações).
+Finalidade: Prescrição eletrónica.
+Categorias de dados pessoais tratados: Dados enunciados no artigo 7° da Portaria n° 198/2011, de 18 de maio.
+Comunicação de dados: ACSS, no âmbito do Sistema de Conferência de Faturas de
+Medicamentos, sem transmissão de dados pessoais dos utentes.
+Forma de exercício do direito de acesso e retificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.° da Lei n° 67/98, de 26 de outubro. Quanto ao direito de acesso aos dados de saúde deve o mesmo ser assegurado através de «médico escolhido pelo titular dos dados» nos termos do artigo 11.° n.° 5 da mesma Lei
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 17497/2014 5
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Transferência de dados para países terceiros: não há
+Conservação dos dados: Pelo prazo previsto na Portaria n° 247/2000, de 8 de maio e pelo tempo de 10 anos relativamente aos dados de faturação.
+Lisboa, 27 JoreNo 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

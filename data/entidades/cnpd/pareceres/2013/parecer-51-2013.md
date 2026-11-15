@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 51/2013
-official_date: null
+official_date: '2013-07-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO SECRETÁRIO DE ESTADO ADJUNTO DO MINISTRO DA SAÚDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:04:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 51/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55798](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55798).
+Proc.749172013 ' #
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.°S | 12013
+Do Pedido
+O Gabinete do Secretário de Estado Adjunto da Saúde solicita a emissão de parecer sobre o Projeto de Portaria que aprova o regulamento de notificação obrigatória de doenças transmissíveis e outros riscos em saúde a aplicar a todos os serviços de saúde do sector público, privado ou social.
+A CNPD emite parecer ao abrigo do disposto no artigo 22°, n.º1, da Lei de Proteção de
+Dados Pessoais (LPD).
+II. Da Apreciação
+O presente projeto de portaria visa dar execução ao disposto nos artigos 3° e 16° da
+Lei n.º 81/2009, de 21 de agosto. Neste sentido, através do presente diploma é aprovado o regulamento de notificação clinica obrigatória de doenças transmissíveis e outros riscos em saúde pública. Com a entrada em vigor do presente projeto de diploma a notificação obrigatória passará a ser feita através da aplicação informática de suporte ao sistema nacional de informação de vigilância epidemiológica (SINAVE).
+Considerando a complexidade da matéria, decidiu-se adotar uma metodologia de análise mais informal que consistiu no estabelecimento de contactos entre esta
+Comissão e o órgão legiferante, tendo em vista uma resposta eficaz e urgente sobre a matéria, que culminaram com o envio, em 19 de julho, de uma nova versão do projeto de diploma, o qual acolhe na integra todas as recomendações feitas pela CNPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 749172013 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Do Parecer
+Nesta conformidade, e mantendo-se a redação final do texto do diploma inalterável face à última versão remetida a esta Comissão, a CNPD nada tem a opor à entrada em vigor do diploma ora submetido a parecer.
+Lisboa, 23 de julho de 2013
+Luis Paiva de Andrade (relator), Luis Barroso, Carlos Campos Lobo, Helena Delgado
+António, Vasco Almeida e Luis Paiva de Andrade.
+Finite
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

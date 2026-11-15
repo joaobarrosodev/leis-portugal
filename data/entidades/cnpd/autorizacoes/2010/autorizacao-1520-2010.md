@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1520/2010
-official_date: null
+official_date: '2010-04-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANA MARIA DA CONCEIÇÃO FERREIRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,28 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:38:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1520/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22663](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22663).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 2442/2010
+Deliberação n° 15 20 12010
+Ana Maria da Conceição Ferreira notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para avaliar os parâmetros médios de análise do ar ambiente e da função respiratória, tendo em vista conhecer o mapa de poluição atmosférica do concelho de Coimbra e a sua repercussão nas doenças respiratórias.
+Este estudo será composto por um questionário aplicado uma única vez a cada pai/encarregado de educação das crianças que frequentem as escolas que aderirem ao projecto, sendo que o mesmo será entregue através do professor titular da turma em envelope fechado.
+Às crianças serão entregues um questionário e um envelope fechado para que após o preenchimento do primeiro os pais/encarregados de educação coloquem o questionário no envelope e o fechem.
+As turmas serão escolhidas aleatoriamente. Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Todos os indivíduos que aceitem participar no estudo responderão a um questionário.
+Serão recolhidas as seguintes categorias de dados: freguesia de residência, n° de pessoas que residem no domicílio, composição do agregado familiar, tempo médio de permanência na habitação, doenças dos elementos que habitam no domicílio, frequência com que recorre a serviços de saúde, classificação das condições ambientais da área de residência, condições habitacionais, tipo de alimentação, hábitos de tabagismo e alcoólicos no agregado familiar, hábitos de repouso do filho, actividade física do filho, classificação das condições materiais colectivas e económicas.
+Pela análise dos dados recolhidos e da metodologia aplicada verifica-se que não há tratamento de dados pessoais, uma vez que em nenhum momento do estudo é possível o relacionamento directo ou indirecto da identificação do inquirido com as respostas ao questionário. Assim, porque não existe tratamento de dados pessoais, não se aplica a Lei n.º 67/98, de 26 de
+Outubro.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, | 9 de Abril de 2010
+Ana Roque, Carlos Campos Lobo, Luís Paiva de Andrade (Relator), Helena Delgado António,
+Luís Barroso, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)

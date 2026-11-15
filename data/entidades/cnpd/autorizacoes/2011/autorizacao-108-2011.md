@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ARTLABOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,73 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:30:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 108/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26823](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26823).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 2598/2009
+AUTORIZAÇÃO N (08) 2011 1 - ARTLABOS, LDA, vem notificar a Comissão Nacional de Protecção de Dados (CNPD) de um tratamento que tem como finalidade a gestão de processos clínicos.
+Os dados pessoais objecto de tratamento são os seguintes - Nome, sexo, data de nascimento, idade, morada, contactos, número de beneficiário, data de colheita, dados clínicos, dados de facturação.
+Os dados são recolhidos e actualizados de forma directa, mediante contacto pessoal, sendo actualizados pela mesma forma.
+Está assegurado o acesso, rectificação e eliminação dos dados, mediante solicitação pessoal à requerente.
+Indica-se como fundamento de legitimidade para o tratamento a inexistência de risco de intromissão na vida privada ou de discriminação.
+A segurança das informações é garantida por cópias de backup, password de acesso às informações, sistemas de processamento de backup, e acesso restrito de pessoas.
+A Requerente propõe-se comunicar os dados de facturação às entidades com as quais o utente tem acordo.
+A requerente pretende a conservação dos dados clínicos pelo período de 3 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2 - O n.º 4 do artigo 7° da Lei n.º 67/98, de 26.10, admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde há legitimidade para efectuar o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional. Nessa medida, deve compaginar-se a recolha da informação com o princípio da confidencialidade, respeitando-se, assim, o respectivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+3 - A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo).
+Os dados recolhidos não se mostram excessivos em relação à finalidade prosseguida (artigo 5° n.º 1, alínea c), da Lei n° 67/98, de 26.10).
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.° 4 de Lei n° 67/98, de 26.10.
+Há restrição de acesso à informação clínica, parecendo adequadas as medidas de segurança adoptadas.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Deverão, todavia, ser adoptadas as medidas de segurança adequadas, atenta a natureza sensível dos dados objecto de tratamento, devendo ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação e acesso aos titulares dos dados, nos termos dos artigos 10° e 11° n° 5 da Lei n° 67/98;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15° nº3 da Lei n° 67/98);
+c) Devem ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7° nº4 da Lei n° 67/98).
+4 - Nestes termos, e ao abrigo do disposto nos artigos 7.º n.º 4 e 30.º da Lei n° 67/98, de 26.10, a CNPD autoriza o tratamento automatizado, consignando o seguinte:
+Responsável: ARTLABOS, LDA
+Finalidade: gestão de processos clínicos
+Categorias de dados pessoais tratados: nome, sexo, data de nascimento, idade, morada, contactos, número de beneficiário, data de colheita, dados clínicos, dados de facturação
+Comunicação de dados: às entidades respectivas para efeito de facturação
+Forma de exercício do direito de acesso e rectificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.º da Lei n° 67/98. Quanto ao
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976 832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS direito de acesso aos dados de saúde deve o mesmo ser assegurado através de médico, nos termos do artigo 11.° n.º 5 da mesma Lei
+Interconexão de dados: não há
+Transferência de dados para países terceiros: não há
+Conservação dos dados:
+Dados de saúde - Nos termos do anexo à Portaria n.º 247/2000, de 8 de Maio;
+Dados para facturação - 10 anos.
+Lisboa, 10 de Javerro de L011.
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 4

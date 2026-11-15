@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 221/2012
-official_date: null
+official_date: '2012-01-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: VIVAFIT - CENTROS DE BEM ESTAR E EMAGRECIMENTO, UNIP., LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T04:36:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 221/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40340](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40340).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 7540/2011
+Autorização n.° 22/ 12012
+Vivafit - Centros de Bem-Estar e Emagrecimento, Unipessoal, Lda notificou um tratamento de dados pessoais com a finalidade de gestão de clientes, no âmbito dos serviços de nutrição.
+Pretende tratar os seguintes dados: Nome, morada, nif, nib, telefone, data de nascimento, nível de escolaridade, profissão, dados antromórficos (altura, peso, indice de massa corporal/gorda e perímetro de cintura), historial de incidências médicas (diabetes, hipertensão, colesterol, triglicéridos, obstipação, ácido úrico, colite, cálculos vesiculares, doenças da tiróide, alergias, intolerâncias alimentares e depressão), consumo de álcool e de tabaco, hábitos alimentares (se já fez dietas, quantas refeições toma por dia, tipo de alimentos consumidos e respectiva frequência).
+Os dados recolhidos serão apenas acessíveis aos "técnicos responsáveis pelo sistema de nutrição", que estão contratualmente obrigados a respeitar a confidencialidade das informações a que tenham acesso na actividade.
+Embora os dados objecto de tratamento sejam pertinentes e necessários, o tratamento de dados de saúde no âmbito de consultas de nutrição não consubstanciam a prática de qualquer dos actos de natureza médica previstos na lei, (medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos), não se lhe aplicando o regime previsto no n° 4 do artigo 7° da Lei 67/98. Nesse sentido, considera-se que o n° 4 do artigo 7° da Lei 67/98 não constitui fundamento de legitimidade para o tratamento notificado.
+Assim sendo, o tratamento cai no âmbito do disposto do n.º 2 do artigo 7° da LPD e a legitimidade só poderá decorrer do consentimento expresso do titular, uma vez que não existe diploma legal legitimador, nem em causa está um interesse público importante.
+O consentimento, para ser relevante em matéria de protecção de dados, para além de ter de ser prestado previamente e de forma livre, deve também ser inequívoco, expresso e informado.
+O consentimento dos titulares para o tratamento dos seus dados pessoais é um consentimento qualificado: livre, específico e informado (artigo 3.°, alínea h), da Lei n.° 67/98) e tem de ser expresso (artigo 7.°, n.° 2, da cita Lei).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O consentimento específico significa que o consentimento se refere a uma contextualização factual concreta, a uma actualidade cronológica precisa e balizada e a uma operação determinada. O consentimento específico afasta os casos de consentimento preventivo e generalizado, prestado de modo a cobrir uma pluralidade de operações.
+Impõe-se ainda que sejam adoptadas as medidas de segurança adequadas à sensibilidade dos dados a tratar, referindo-se em especial as previstas no artigo 15° da
+LPD.
+Assim, nos termos dos artigos 27°, n.º1, 28°, n.º1 al.a) e 30° da Lei n.° 67/98, de 26 de
+Outubro, autoriza-se o tratamento nos seguintes termos e com as seguintes condições:
+1. Responsável: Vivafit - Centros de Bem-Estar e Emagrecimento, Unipessoal, Lda 2. Categorias de dados pessoais tratados: Nome, morada, nif, nib, telefone, data de nascimento, nível de escolaridade, profissão, dados antromórficos (altura, peso, indice de massa corporal/gorda e perímetro de cintura), historial de incidências médicas (diabetes, hipertensão, colesterol, triglicéridos, obstipação, ácido úrico, colite, cálculos vesiculares, doenças da tiróide, alergias, intolerâncias alimentares e depressão), consumo de álcool e de tabaco, hábitos alimentares (se já fez dietas, quantas refeições toma por dia, tipo de alimentos consumidos e respectiva frequência).
+3. Finalidade: Gestão de clientes, no âmbito dos serviços de nutrição.
+4. Entidades a quem podem ser transmitidos: Não há comunicação de dados.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita ou pessoal junto do responsável.
+6. Interconexões : Não há 7. Transferências de dados para países terceiros : Não há 8. Tempo de conservação:
+a) Dados de saúde -Os dados apenas podem estar acessíveis no período de duração da relação contratual.
+b) Dados para facturação - 10 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10 da LPD.
+A CNPD alerta a Vivafit - Centros de Bem-Estar e Emagrecimento, Unipessoal, Lda relativamente à obrigação que sobre ela recai de adoptar as medidas de segurança adequadas ao risco que o tratamento de dados pessoais apresenta.
+Lisboa, 09 de Janeiro de 2012
+Carlos Campos Lobo, Helena Delgado António, Ana Roque (Relatora), Luís Paiva de
+Andrade, Vasco Almeida, Luís Barroso
+Nari Tremai
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

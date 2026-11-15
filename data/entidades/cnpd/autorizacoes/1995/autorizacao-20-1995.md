@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANIF BANCO INTERNACIONAL DO FUNCHAL, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:16:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 20/1995
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9480](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9480).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 38/94
+AUTORIZAÇÃO N.° 100 /2003 1. O BANIF - Banco Internacional do Funchal, SA pretende concretizar uma operação de titularização de créditos hipotecários com a Fundo de Titularização de
+Créditos Atlantes Mortgage, fundo gerido pela sociedade Navegator, SGFTC,
+SA, a qual envolve a entrega de um envelope selado contendo dados pessoais (designadamente nome, morada e telefone) dos respectivos devedores, o que se torna necessário para efeitos de viabilização da respectiva operação.
+A Navegator, em representação do Fundo, só terá acesso à informação constante do envelope selado em circunstâncias excepcionais indicadas no contrato de gestão de crédito, designadamente se o BANIF:
+i) deixar de efectuar atempadamente pagamentos devidos no âmbito do CGD e se mantiver em incumprimento por um período superior a 3 meses;
+ii) não poder cumprir com as suas obrigações no âmbito do CGD por um período superior a 60 dias devido a um evento de força maior;
+iii) for objecto de um processo de falência.
+2. A questão que aqui se coloca relaciona-se com a cedência de dados a «entidade terceira» - uma sociedade financeira.
+A cedência de dados é feita no âmbito de um contrato celebrado entre o BANIF e o
+Fundo tendo em vista a realização de «operação de titularização», nos termos do DL 453/99, de 5 de Novembro. As informações a prestar estão protegidas por segredo bancário.
+Os dados objecto da comunicação estão sujeitos a sigilo bancário, conforme resulta do disposto no art. 78.° do DL 298/92, de 31 de Dezembro.
+Não há comunicação de dados sensíveis, estando o tratamento destes dados sujeito às condições de legitimidade estabelecidas no artigo 6.° da Lei 67/98, de 26 de Outubro.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Ora, a legitimidade para o tratamento - na vertente comunicação ao Fundo - pode derivar de três fundamentos possíveis:
+Através de consentimento inequívoco por parte dos titulares (corpo do artigo 6.°);
+Através da inclusão de cláusula contratual estabelecida entre o BANIF e os titulares dos dados (art. 6° al. a);
+No âmbito da iprossecução de interesses legítimos do responsável pelo tratamento ou de terceiro a quem os dados sejam comunicados" (art. 6.° al.
+Quando se verificar o fundamento indicado na alínea e) - nomeadamente em relação aos contratos já celebrados - o BANIF deverá informar os titulares dos dados de que o Fundo é um dos destinatários da informação e a finalidade determinante da comunicação (cf. art. 10.° n.º 1 da Lei 67/98). Só depois de assegurado o direito de informação os titulares estão em condições de, eventualmente, poderem exercer o "direito de oposição" (cf. art. 12.° al. a) ou invocar a "prevalência de interesses ou direitos consignados no artigo 6.° al. e) da Lei 67/98.
+Em face do exposto, a CNPD autoriza a cedência dos dados pessoais indicados à
+Fundo de Titularização de Créditos Atlantes Mortgage, fundo gerido pela sociedade Navegator, SGFTC, SA, desde que a cedência respeite um dos condicionalismos acima estabelecidos. O direito de informação deverá ser assegurado pelo BANIF em momento anterior à ocorrência do evento que irá desencadear todo o processo, por forma a assegurar que, em relação àqueles a quem foi reconhecido o «direito de oposição» (art. 12.º al. a) da Lei 67/989), não haja a inclusão dos seus dados pessoais - se for o caso - ou não seja celebrado o contrato.
+Lisboa, 8 de Abril de 2003
+Rua de São Bento, 148 - 3.° -
+- 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Amadeu Ce
+Amadeu Guerra (relator)
+Catarina Sarmento e Castro
+Alexandre Pinheiro ru
+Luís Durão Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

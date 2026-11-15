@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6/2018
-official_date: null
+official_date: '2018-02-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Powershield - Segurança Privada, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:54:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 6/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/116467](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/116467).
+Processo n.º 6192/2017 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+REGISTO N.° 6/2018
+POWERSHIELD - Segurança Privada, S.A., notificou à Comissão Nacional de Protecção de dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de clientes.
+Declarou tratar os seguintes dados pessoais: nome, morada, identificação fiscal, telefone
+Os dados são recolhidos presencialmente através de um impresso.
+Os dados pessoais recolhidos são pertinentes e não excessivos face à finalidade declarada, conforme o disposto na alínea c) do n.º 1 do artigo 5.° da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto - Lei de Proteção de Dados Pessoais (LPDP).
+O fundamento de legitimidade para o tratamento é a necessidade de execução de contrato com o titular, conforme artigo 6.°, alínea a) da LPDP.
+Assim, em conformidade com o n.º 1 do artigo 30.° da Lei n.º 67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+POWERSHIELD - Segurança Privada, S.A.,
+Finalidade gestão de clientes
+Categoria de dados pessoais tratados nome, morada, identificação fiscal, telefone
+Forma de exercício dos direitos de acesso e retificação
+Por escrito para a morada Rui José
+Luís Monteiro, 11-D, 1950-162 Lisboa
+Comunicações de dados a terceiros
+Não há
+Interconexões
+Não há
+Transferências para países terceiros
+Não há
+Prazo máximo de conservação dos dados
+Durante a vigência do contrato, sem prejuízo das obrigações legais em matéria fiscal
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 www.cnpd.pt
+Fax: 213 976832 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 6192/2017 | 2
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD, bem como o direito de oposição à utilização dos seus dados para fins de marketing (cf. alínea b)
+do artigo 12° da LPD).
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, em conformidade com o previsto no artigo 14° da LPD.
+Lisboa, 16 de fevereiro de 2018
+A Secretária da CNPD,
+Isabel Cristina Cruz

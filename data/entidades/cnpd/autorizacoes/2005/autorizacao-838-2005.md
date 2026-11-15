@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DEUTSCHE BANK (PORTUGAL), S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 838/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6542](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6542).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.º 66-94/2079-02 838
+Autorização n.°
+/2005 1-Deutshe Bank (Portugal), SA vem notificar a Comissão Nacional de Protecção de
+Dados (CNPD) de tratamentos de dados pessoais, com a finalidade de prosseguir um conjunto de operações descritas como: seguimento e actualização do perfil de investimento associado mediante a avaliação dos seus dados, segundo estudos, scoring e análise, análise e designação de perfis e hábitos de consumo para acções comerciais.
+Comunicação a empresas do grupo actividade consiste em serviços financeiros, intermediação e agência financeira, renting, aconselhamento e gestão de activos financeiros, gestão de fundos de investimento e de pensões e administração de carteiras, actividades de intermediação e aconselhamento imobiliário, seguros e broker de seguros e serviços de consultoria e desenvolvimento informático, com a finalidade de realizar acções de marketing.
+Os dados recolhidos são: nome, tipo de identificação, número de identificação, número de cliente, nacionalidade, domicílio, país, morada, telefone, endereço de correio electrónico, prazo de investimento, capacidade de investimento e investimento de maior risco.
+A recolha e a actualização operam directamente.
+Existe comunicação de dados para a Alemanha. Não existem interconexões.
+Como medidas de segurança dos dados são apresentadas todas as constantes do formulário da CNPD.
+Os dados são conservados enquanto o titular for cliente do Deutshe Bank (Portugal),
+SA.
+Os dados são acedidos, corrigidos e eliminados através de contacto directo com o
+Deutshe Bank (Portugal), SA.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 2- Atenta a finalidade, o requerente deve garantir de forma completa a observância do artigo 10.° da Lei n.º 67/98, de 26 de Outubro, assegurando ao titular dos dados o acesso à informação pessoal registada.
+A matéria dos perfis enunciados deve ser objecto de consentimento do titular dos dados, a recolher no momento contratual.
+Dada a prossecução das finalidades de marketing, deve ser conferido o direito de oposição nos termos do artigo 12.° da Lei n.º 67/98, de 26 de Outubro.
+Considera-se que os dados recolhidos são pertinentes, adequados e não excessivos (artigo 5.° da Lei n.º 67/98, de 26 de Outubro).
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.º da Lei n.° 67/98, de 26 de Outubro, autoriza-se o tratamento de dados apresentado, nos seguintes termos:
+Responsável: Deutshe Bank (Portugal), SA
+Categorias de dados pessoais tratados: Nome, tipo de identificação, número de identificação, número de cliente, nacionalidade, domicílio, país, morada, telefone, endereço de correio electrónico, prazo de investimento, capacidade de investimento e investimento de maior risco.
+Finalidade: Seguir e actualizar o perfil de investimento associado mediante a avaliação de dados, segundo estudos, scoring e análise, análise e designação de perfis e hábitos de consumo para acções comerciais.
+Comunicar a empresas do grupo actividade consiste em serviços financeiros, intermediação e agência financeira, renting, aconselhamento e gestão de activos financeiros, gestão de fundos de investimento e de pensões e administração de carteiras, actividades de intermediação e aconselhamento imobiliário, seguros e broker de seguros
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS e serviços de consultoria e desenvolvimento informático, com a finalidade de realizar acções de marketing.
+Forma de exercício do direito de acesso e rectificação: Através de contacto directo com o Deutshe Bank (Portugal), SA.
+Transferências de dados para países terceiros: Alemanha.
+Lisboa, 17 deusubro de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

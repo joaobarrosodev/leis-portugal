@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 248/2015
-official_date: null
+official_date: '2015-02-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO GERAL DE ADMINISTRAÇÃO INTERNA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:49:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 248/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73586](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73586).
+Processo n. 15764/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃO n.° 218 12015
+I. Os factos
+A Câmara Municipal de Cinfães solicitou à Direção Geral de Administração Interna o acesso à identificação de todos os recenseados das Freguesias do Concelho de Cinfães com mais de 65 anos para que a entidade possa levar a cabo o projeto "Brigada Sénior" com o objetivo de proceder ao diagnóstico social dessas pessoas que se encontrem em situações de isolamento social, visando melhorar a sua qualidade de vida.
+Nos termos do artigo 100.° do Código de Procedimento Administrativo, a requerente foi notificada para se pronunciar, querendo, sobre o projeto de deliberação da CNPD. Todavia, nada disse.
+II. Apreciação
+Sobre a presente matéria já se pronunciou a CNPD através do Parecer n.° 22/2001, de 4 de dezembro, expressando o seu entendimento sobre as situações em que deve ser efetuada a comunicação de dados do recenseamento eleitoral inseridos na respetiva base de dados - a
+Base de Dados do Recenseamento Eleitoral (BDRE) - a outras entidades.
+Para esse efeito importa, pois, ter presente o regime jurídico do recenseamento eleitoral - Lei n.º 47/2008, de 27 de agosto, que alterou a Lei n.º 13/99, de 22 de março. Ora, segundo este regime jurídico a BDRE tem por finalidade organizar e manter, permanente e atual, a informação relativa aos cidadãos eleitores inscritos no recenseamento eleitoral, estando a sua manutenção, gestão e organização a cargo da Direcção-Geral da Administração Interna (DGAI) - cf. artigo 11.° da Lei n.º 47/2008.
+Mostra-se igualmente fixada a forma de acesso a tais dados e a quem pode ser efetuada a comunicação desses dados nos seus artigos 15.° e 16.°.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 15764/2014 2
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Da análise do preceituado legal citado resulta que o legislador previu a possibilidade de se poder efetuar a comunicação de dados do recenseamento eleitoral inseridos na BDRE a outras entidades. Para esse efeito impõe-se, porém, que se mostrem preenchidos os seguintes requisitos legais cumulativos:
+a) Que a comunicação se faça para forças ou serviços de segurança ou a serviços e organismos da administração pública e da administração local;
+b) Que se destine à prossecução das respetivas atribuições dos serviços requisitantes;
+c) Que os dados sejam indispensáveis ao destinatário para cumprimento das suas atribuições legais;
+d) Que exista obrigação, autorização legal ou autorização da CNPD.
+A propósito dos dados de identificação de todos os recenseados no concelho de Cinfães com mais de 65 anos poderem ou não ser comunicados a terceiros, tal comunicação pode ser efetuada desde que se conclua, perante o caso concreto, que a mesma é solicitada por um serviço público que necessite, no exercício das suas funções, de realizar um interesse público relevante. Assim sendo, para que a CNPD autorize a comunicação desses dados impõe-se a verificação dos referidos pressupostos. Ora, acontece que no caso concreto esses pressupostos não se mostram preenchidos, uma vez que o legislador exige que os dados sejam indispensáveis ao destinatário para cumprimento das suas funções.
+A pretensão da Câmara Municipal de Cinfães pode ser alcançada por outros meios que não o acesso à BDRE, como seja através da divulgação dos serviços a prestar junto da população em geral, com o consequente contacto dos idosos que estejam em condições de requerer o respetivo apoio.
+Verifica-se que não está demonstrada, no caso em presença, a indispensabilidade do acesso à BDRE.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 15764/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+III. Conclusão
+Em razão do exposto, a CNPD delibera indeferir a pretensão da requerente, não se autorizando o fornecimento dos dados em poder da DGAI.
+Lisboa, 03 de fevereiro de 2015
+Luis Barroso (O vogal, em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

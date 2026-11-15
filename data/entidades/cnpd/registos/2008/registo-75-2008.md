@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO ITAÚ EUROPA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 75/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1008](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1008).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 921/07
+Registo 75 108
+O Banco Itaú Europa, SA notificou à CNPD um tratamento com a finalidade de gestão de recursos humanos.
+Os dados pessoais que se pretende tratar para a finalidade declarada são: N.° de funcionário, nome, morada, e-mail (particular e profissional), telefone, outros contactos, data de nascimento, sexo, nacionalidade, naturalidade, estado civil, n.° de carta de condução, BI,
+Passaporte, data de admissão, departamento, categoria profissional, NIF, n.° segurança social,
+NIB, Habilitações literárias, idiomas e dados de identificação dos familiares para inclusão no seguro de saúde.
+Os dados são recolhidos pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da al. a) do artigo 6° da LPD, a execução de contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Banco Itaú Europa, SA
+Categoria de dados pessoais tratados - N.° de funcionário, nome, morada, e-mail (particular e profissional), telefone, outros contactos, data de nascimento, sexo, nacionalidade, naturalidade, estado civil, n.° de carta de condução, BI, Passaporte, data de admissão, departamento, categoria profissional, NIF, n.° segurança social, NIB, Habilitações literárias, idiomas e dados de identificação dos familiares para inclusão no seguro de saúde.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao departamento de pessoal;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados para países terceiros - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°.
+Lisboa, 13 de Fevereiro de 08
+A Secretária da CNPD
+Isase
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

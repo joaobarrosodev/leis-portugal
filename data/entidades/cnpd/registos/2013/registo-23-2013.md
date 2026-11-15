@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 23/2013
-official_date: null
+official_date: '2013-04-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TVI - Televisão Independente, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,34 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 23/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53018](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53018).
+Proc. n.º 7706/2010
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+REGISTO n.° 23/2013
+A TVI - Televisão Independente, SA notificou um tratamento de dados pessoais com a finalidade de marketing (concurso Secret Story - Casa dos Segredos - Prémio
+Semanal)
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1, al. a), da Lei n.° 67/98, de 26 de Outubro -LPD), para finalidades determinadas, explícitas e legítimas (cf. al. b)
+do mesmo artigo) e não excessiva.
+O fundamento de legitimidade é o consentimento inequívoco do responsável, previsto no artigo 6.° da LPD
+A TVI deve garantir ao titular dos dados as informações previstas no art.° 10° da LPD.
+Deve, ainda, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Em face do exposto, nos termos da alínea b) n.º 1 do artigo 23° e do n.° 1 do artigo 30.° da LPD, a CNPD regista o tratamento de dados pessoais consignando o seguinte:
+1. Responsável: TVI - Televisão Independente, SA 2. Categorias de dados pessoais: número de telefone e para o vencedor nome, morada, Bl e NIF 3. Finalidade: marketing (concurso Secret Story - Casa dos Segredos - Prémio
+Semanal)
+4. Entidades a quem podem ser transmitidos: Endemol Portugal, Lda para a entrega do prémio;
+5 Acesso e Retificação: Por escrito para a morada do responsável ou telefonicamente para o número 21 434 75 00 6. Eventuais interconexões: Não aplicável;
+8. Prazo máximo de conservação dos dados: 180 dias
+Lisboa, 1 de abril de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

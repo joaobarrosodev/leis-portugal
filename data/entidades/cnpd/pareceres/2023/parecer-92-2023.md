@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 92/2023
-official_date: null
+official_date: '2023-10-31'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Assembleia da República - Comissão de Orçamento e Finanças'
-- 'Texto incompleto: 1 de 18 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 18 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,8 +70,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:49:59Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
@@ -241,3 +240,17 @@ a) Repensar e/ou densificar, o mecanismo previsto no artigo 77.º da Proposta, n
 b) Densificar, de acordo com as observações expendidas nos pontos 26 a 33 deste parecer, regime particular a aplicar-se ao previsto no artigo 79.º da Proposta, quer quanto ao âmbito subjetivo quer quanto ao âmbito objetivo, que alarga de modo indeterminado e desnecessário o tratamento de dados pessoais aí previsto;
 c) Densificar, estabelecendo regime autónomo e pleno de proteção de dados, o mecanismo previsto no arrigo 137.º da Proposta, eliminando-d) Especificar, igualmente, nos termos do artigo 158.º da Proposta, qual o regime e garantias a aplicar aos tratamentos que, nesse âmbito, se visam fazer;
 15 Veja-se, por exemplo, o disposto no Capítulo III do RGPD.
+
+9v.
+e) Substituir-se a remissão de construção de regimes de proteção de dados a espaços de autonomia administrativa, para acordos posteriores ou discricionários, por uma construção legislativa em sentido estrito;
+f) Eliminar a ambiguidade prevista no artigo 166.° da Proposta, definindo-se de forma concreta qual o mecanismo a ser utilizado, eliminando-se as expressões "ou" de decidindo-se por uma das formas aventadas, estabelecendo-se, consequentemente, um regime próprio.
+g) Especificar-se, também em regime autónomo, e considerando, em especial, o princípio da minimização dos dados pessoais, os dados de saúde a tratar ao abrigo do artigo 185.° da Proposta, bem com a necessidade de realizar uma avaliação de impacto e atender às especificidades desta categoria especial de dados;
+h) Em geral, quanto à fixação de disciplina em matéria de proteção de dados pessoais, em cada caso, atender à necessidade de implementação de medidas técnicas e de segurança associadas a esses tratamentos, bem como fixar quais as entidades responsáveis por essas operações, e definirem-se os direitos dos titulares desses dados.
+Aprovado na reunião de 31 de outubro de 2023
+Paula Meira Lourenço (Presidente)
+Assinado por: PAULA CRISTINA MEIRA LOURENÇO
+Data: 2023.10.31 18:03:14+00'00
+Certificado por: Diário da República Eletrónico
+Atributos certificados: Presidente - Comissão Nacional de Proteção de Dados
+O CARTÃO DE CIDADÃO
+....

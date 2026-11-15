@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 338/2006
-official_date: null
+official_date: '2006-05-15'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SECRETARIA GERAL DO MINISTÉRIO DAS OBRAS PÚBLICAS, TRANSPORTES E COMUNICAÇÕES'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:09:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 338/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6676](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6676).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc n° 2292/02
+Autorização n° 3501:06
+A Secretaria Geral do ex-Ministério do Equipamento do Planeamento e da
+Administração do Território veio notificar a CNPD, em Setembro de 2002, o tratamento de dados relativos à Gestão de Recursos Humanos, vencimentos e processos disciplinares.
+De acordo com o Projecto de Autorização em anexo, elaborado em Dezembro do mesmo ano, foi feita a notificação da entidade requerente, tendo sido considerado excessivo para a finalidade do tratamento o registo do nome dos familiares dos funcionários, salvo se o responsável viesse esclarecer qual a
+Dado que a resposta recebida através de ofício do Exm° Senhor Secretário
+Geral, em 13. 01. 03, não invocava quaisquer razões que permitissem à CNPD decidir pela pertinência e necessidade de tratar os dados em causa, entendeu esta Comissão, em Fevereiro p.p., vir inquirir da manutenção do interesse actual no mesmo tratamento, bem como, em caso afirmativo, apurar da justificação para a inclusão dos dados considerados excessivos.
+A resposta recebida em 18 de Abril p.p., do Exm° Senhor Secretário-Geral do
+Ministério das Obras Públicas, Transportes e Comunicações, veio informar que continua a ser utilizada a mesma base de dados, pelo que a situação se mantém inalterada, não tendo aduzido novos argumentos.
+Nestes termos, mantém-se a deliberação anterior, tendo em conta o seguinte:
+1. De acordo com o art. 5°, n° 1 - c), da Lei n° 67/98, os dados têm que ser necessários e não excessivos em relação à finalidade;
+2. Não foi invocado qualquer fundamento que justifique o tratamento daqueles dados.
+Assim, a CNPD não autoriza o respectivo tratamento, devendo tais dados ser eliminados, de acordo com o teor do Projecto de Deliberação que se anexa.
+Lisboa, 15 de Maio de 2006.
+и na no que reatora.
+ия
+/ Rua de São Bento, 148 - 3.
+E-mail: geral@cnpd.pt 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Carlos Lobo
+Luís Barroso
+Eduard Limpos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

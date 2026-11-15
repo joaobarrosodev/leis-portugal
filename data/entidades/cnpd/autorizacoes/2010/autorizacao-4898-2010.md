@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4898/2010
-official_date: null
+official_date: '2010-12-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOVARTIS AG, BASEL, SWITZERLAND'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:41:28Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4898/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26066](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26066).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 8665/2010
+AUTORIZAÇÃO N.° 1898
+/2010
+A Novartis AG, representado pelo Prof. Dr. Luís Cunha, notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para determinar o custo da doença e as necessidades não satisfeitas no tratamento de doentes com Esclerose Múltipla.
+Serão incluídos no estudo os doentes com a patologia, seguidos nos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+O estudo será composto por um questionário a que o doente responderá directamente na
+Internet. Aos titulares que participem no estudo, será entregue um sobrescrito pelo médico/enfermeiro assistente, indicando uma palavra-chave e um nome de utilizador, com os quais poderá aceder a uma página na Internet e responder ao questionário.
+Apenas o médico/enfermeiro assistente têm conhecimento dos participantes no estudo, apesar de não poderem relacionar as respostas ao questionário com a sua identificação.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, nos termos das alíneas a) e d) do n.º1 do artigo 28°, com as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Novartis AG, representado pelo Prof. Dr. Luís Cunha
+Finalidade: estudo observacional para determinar o custo da doença e as necessidades não satisfeitas no tratamento de doentes com Esclerose Múltipla
+Categoria de Dados pessoais tratados: código do doente, dados demográficos (ano de nascimento, sexo, com quem vive, nível de escolaridade, situação profissional, baixas médicas no emprego), história da esclerose múltipla, comorbilidades, recidivas, gravidade da doença, cuidados de internamento, cuidados de ambulatório, tratamentos, exames, medicação, investimentos e dispositivos, apoio domiciliário, escala analógica visual EQ-5D e preferências por aspectos de tratamento.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no art. 10° da LPD.
+Lisboa, 17 de Dezembro de 2010
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos
+Campos Lobo, Luís Barroso
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt

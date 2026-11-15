@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TELE 2-EX-TELEMILÉNIO, TELECOMUNICAÇÕES-SOCIEDADE UNIPESSOAL , LDA TELE 2'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:09:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5357/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20439](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20439).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 3856/06
+AUTORIZAÇÃO N.º3) 12009
+A Telemilénio - Telecomunicações, Unipessoal, Lda notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transacções comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+A CNPD já se pronunciou na sua Deliberação n.° 922/2009 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.º 922/2009, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequivoco do titular (n.º 1 do artigo 4° da Lei n.° 41/2004, de 18 de Agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efectue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida ou do respectivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20° do Código de Trabalho, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7., n.º 2, 28.° n.° 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Telemilénio - Telecomunicações, Unipessoal, Lda
+Finalidade
+Prova das transacções comerciais e quaisquer outras comunicações respeitantes à relação contratual
+Dados de tráfego e conteúdo das chamadas
+Categoria de dados pessoais tratados realizadas
+Forma de exercício do direito de
+Por solicitação ao responsável
+' Disponível em http://www.cnpd.pt/bin/decisoes/2009/htm/del/del_922_2009.pdf
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS acesso e rectificação
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados 90 dias
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de Outubro.
+Dos termos e condições fixados na Deliberação n.º 922/2009 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Esclarece-se o responsável que a presente Autorização não abrange o registo das comunicações efectuadas com qualquer outra finalidade, designadamente a de retenção de dados prevista na Directiva n.º 2006/24/CE, transposta para a ordem jurídica interna pela Lei n.º 32/2008, 17 de Julho de 2008, que, para além de determinar uma finalidade diversa, contém previsões específicas sobre os procedimentos a adoptar para a retenção dos dados distintas do tratamento aqui em análise. Esse tratamento de dados pessoais carece de notificação autónoma, com indicação dos elementos determinados pela Lei n.° 32/2008.
+Lisboa, 23/11/09
+Ana Roque, Luís Barroso, Helena Delgado António (Relatora), Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade.
+ses dora;
+Luis Lingnau da Silveira (Presidente)

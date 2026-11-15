@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CAJA DE AHORROS DE SALAMANCA Y SORIA-SUCURSAL OPERATIVA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:03:46Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 32/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3960](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3960).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n. ° 635/2000
+AUTORIZAÇÃO N.º 32 /2002
+A CAJA DE AHORROS de Salamanca Y Soria - Sucursal Operativa veio notificar um tratamento cuja finalidade é a gestão de clientes e a gestão de risco.
+1. É recolhida informação sobre situação patrimonial e financeira, crédito e solvabilidade (rendimento mensal, situação profissional, profissão, outros encargos com entidades financeiras ou instituições bancárias), a qual se reputa necessária, pertinente e não excessiva em relação à apreciação prévia da atribuição do cartão (cf. art. 5.° da Lei 67/98).
+2. Os dados apenas são tratados na sequência do estabelecimento de uma relação contratual. Existe, por isso, legitimidade para o tratamento de dados (cf. art. 6.° al. a) da
+Lei 67/98, de 26 de Outubro).
+3. Em relação ao tratamento de dados sobre inibição de uso de cheque deve ter-se em atenção o prazo de conservação e actualização de dados. De acordo com as competências da CNPD (cf. artigo 23.º n.º 1 al. f) da Lei 67/98), tem a Comissão entendido que, desde que não haja consentimento do titular, a informação sobre cheques sem provisão deve ser eliminada logo que cesse o período de rescisão da convenção (art. 1.° e 3.º n.º 2 do DL 454/91 e ponto 26 do Aviso n.º 1741-C/98 do
+Banco de Portugal), logo que haja remoção da listagem (art. 1.° n.º 7 e 4.° do DL 454/91 e ponto 18 da Instrução 1/98), desde que cesse o período de interdição judicial de uso de cheque ou se verifique reabilitação judicial (art. 12.° n.º 1, 2, 8 e 9)().
+A CNPD entende que a CAJA deve observar estes princípios em relação ao tempo de conservação e actualização de dados sobre cheques sem provisão.
+Por força do artigo 27.:, 28.° n.º 1 al. b) e 30.º da Lei 67/98 autoriza-se o tratamento notificado consignando-se o seguinte:
+(') CI. no mesmo sentido a Deliberação da CNPD n.º 85/98, de 15 de Outubro (in Relatório de 1998, pág.
+138).
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1. Responsável: CAJA DE AHORROS de Salamanca Y Soria - Sucursal Operativa.
+2. Categorias de dados pessoais tratados: Os indicados nos anexos ao formulário e documentos subsequentes..
+3. Finalidade: gestão de clientes e a gestão de risco.
+4. Entidades a quem podem ser transmitidos: Banco de Portugal.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Para Espanha.
+Lisboa, 5 le Fevereiro de 2002
+Luís Durão Barroso(relator)
+Cristina Baptista
+Mário Varges Gomes den
+Amadeu Guerra
+Etarinefirmentelinto
+Catarina Sarmento e Castro
+Alec Mesoran Rf
+Alexandre Pinheiro
+Gilves
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

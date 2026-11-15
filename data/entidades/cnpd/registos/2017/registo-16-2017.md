@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 16/2017
-official_date: null
+official_date: '2017-02-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Silvério Falcão Security, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,33 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:54:56Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 16/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/102061](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/102061).
+Processo n.º 949/2017 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+REGISTO N° 16 12017
+Silvério Falcão Security, Ldª, notificou à Comissão Nacional de Protecção de Dados (CNPD)
+um tratamento de dados pessoais com a finalidade de organizar um registo informático de actividades.
+No momento da recolha de dados, deve ser prestada a informação prevista no artigo 10° da
+LPD, bem como assegurando o direito de acesso e rectificação de acordo com o artigo 11° da LPD. A entidade responsável pelo tratamento deve adotar as medidas de segurança adequadas a garantir o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+Assim, nos termos das disposições conjugadas do artigo 6° alínea b), 27° e artigo 30° da Lei 67/98 de 26 de outubro, é registado o tratamento de dados supra referido nos seguintes termos:
+Responsável pelo tratamento: Silvério Falcão Security, Ld®;
+Finalidade do tratamento: Organizar um registo informático de actividades;
+Categorias de dados pessoais tratados: Designação e NIF do cliente, n.°, data de início e termo de contrato, tipo de serviço prestado, local e horário da prestação de serviços, meios humanos e materiais utilizados e respetivas características técnicas;
+Forma de exercício do direito de acesso e rectificação: por escrito, na sede da empresa sita na Urbanização Vale da Fonte, Lote 3 R/ch Esq;
+Comunicação de dados pessoais: não há;
+Prazo de conservação dos dados: durante o período de actividade da empresa;
+O responsável pelo tratamento deve implementar medidas de segurança adequadas para protecção dos dados pessoais, nomeadamente contra a destruição, alteração ou acesso não autorizado, nos termos do artigo 14° da LPD.
+Lisboa, 16 de fevereiro de 2017
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

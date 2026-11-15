@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOÃO MANUEL SANTOS PINHEIRO ( MÉDICO)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:26:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 819/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2644](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2644).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 1886/07
+Autorização n° YM1/2007 1. João Manuel Santos Pinheiro, médico, vem proceder à notificação do tratamento que tem como finalidade a gestão dos registos administrativos e clínicos dos seus doentes, relativos a identificação e informação clínica, marcação de consultas, respectiva data e gestão de pagamentos. O titular dos dados pode aceder à informação mediante solicitação por escrito 2. A Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais. Em relação ao tratamento de dados de saúde admite o artigo 7.°, n.º 4, o seu tratamento quando for necessário «para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional» e desde que sejam «garantidas medidas adequadas de segurança da informação».
+A informação tratada é recolhida de forma lícita (art. 5.° n.º 1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (art. 5.° n.º 1 al. b).
+A CNPD considera que existe legitimidade para o tratamento destes dados -por força do artigo 7.° da Lei 67/98, de 26 de Outubro - na medida em que se destina à gestão de serviços de saúde, devendo os dados de saúde ser tratados separadamente dos administrativos.
+Em face do exposto a CNPD autoriza o tratamento relativo aos registos administrativos e clínicos de doentes, nos termos do artigo 30.° da Lei 67/98, consignando o seguinte:
+1. Responsável: João Manuel Santos Pinheiro 2. Categorias de dados pessoais tratados: nome, morada, telefone, n° de
+B.I., dados clínicos, agenda e pagamentos de consultas.
+3. Finalidade: Gestão de registos administrativos e clínicos dos doentes.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 4. Comunicação de dados: não existe.
+5. Forma de exercício do direito de acesso e rectificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.°.
+6. Não há interconexão de dados.
+7. Não há transferência de dados para países terceiros.
+8. Conservação dos dados: dentro dos limites temporais consagrados na lei para dados de saúde.
+Lisboa, de Maio de 2007.
+Ana Roque (Relatora)
+Caros ampos Lobo
+Luís Barroso
+Helena Delgado António
+Eduardo Campos
+VascoAlmeid
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° -
+E-mail: geral@cnpd.pt
+- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt

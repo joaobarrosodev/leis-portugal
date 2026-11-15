@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO MINISTRO - MINISTÉRIO DA SEGURANÇA SOCIAL E DO TRABALHO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:27:06Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 6/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5950](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5950).
+1 auhsp
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 11360/257/04
+Parecer n.° G /04 1- O Governo, através do Ministro da Segurança Social e do Trabalho, solicita à
+Comissão Nacional de Protecção de Dados (CNPD) a emissão de parecer sobre um projecto de decreto-lei autorizado relativo à interconexão de dados entre a administração fiscal e a segurança social. Na medida em que esta Comissão já se pronunciou sobre o projecto através do Parecer n.º 1/2004, tem-se como pertinente, apenas, as alterações introduzidas.
+Esta Comissão, nos termos da alínea a) do n.º 1 do artigo 23.° da Lei n.º 67/98, de 26 de
+Outubro, considera-se competente para a prática do acto solicitado
+Para além da apreciação da matéria em face da Constituição e da legislação aplicável em sede de protecção de dados, cabe, também, apreciar a compatibilidade das normas constantes do projecto com o artigo 47.° da Lei n.º 107-B/2003, de 31 de Dezembro.
+2-A diferença relevante entre a versão apreciada no Parecer n.º 1/2004 e a ora ajuizada reside em que nesta pode, também, haver acesso por parte da Direcção-Geral das
+Alfândegas e dos Impostos Especiais sobre o Consumo e da Inspecção-Geral das
+Finanças (artigo 5.° n.°s 1 e 2).
+A CNPD considera que dentro das opções legislativas possíveis na concretização do regime jurídico estabelecido na alínea d) do n.° 1 do artigo 47.° da Lei n.º 107-B/2003, de 31 de Dezembro, a solução prevista na actual redacção se afigura compatível com a
+Constituição e com a lei. De facto, a norma autorizativa refere a interconexão entre os serviços da administração fiscal e da segurança social, sem estabelecer distinções como sucedeu em leis anteriores'.
+' V. "Relatório, conclusões e parecer da Comissão de Assuntos de Direitos, Liberdades e Garantias" relativo aos prijectos de lei números 372/IX, 373/IX e 376/IX in "Diário da Assembleia da República", II-
+A, n.º 21, 13 de Dezembro de 2003, relatado por Eugénio Marinho.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 3- Apesar do novo regime de acesso não prefigurar vícios ou desvalores, a CNPD considera que o preâmbulo deve explicitar a razão do acesso destas duas entidades ao tratamento resultante da interconexão. Conservando o actual texto torna-se inacessível compreender as causas que levaram à extensão do regime inicialmente previsto para concretizar a alínea d) do n.º 1 do artigo 47.° da Lei n.º 107-B/2003.
+Adverte-se, desde já, que o projecto de decreto-lei não está concebido, nem redigido, de forma a consentir tratamentos, posteriores ao acesso a dados recolhidos por via da interconexão, que tenham como fonte de legitimidade disposição legal, por parte da
+Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e da
+Inspecção-Geral das Finanças.
+4-A CNPD reitera as conclusões 1, 2, 3, 7 e 8 constantes do Parecer n.º 1/2004.
+Conclusões:
+1- A Comissão Nacional de Protecção de Dados considera a solução constante do projecto de decreto-lei compatível com a Constituição e com a legislação geral sobre protecção de dados;
+2- A Comissão Nacional de Protecção de Dados considera que no preâmbulo deve ser claramente explicitada a razão do acesso da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e da Inspecção-Geral das Finanças ao tratamento resultante da interconexão;
+3- A Comissão Nacional de Protecção de Dados considera que o projecto, tal como se encontra redigido, não opera como fonte de legitimidade de tratamentos posteriores ao acesso por parte da Direcção-Geral das Alfândegas e dos
+Impostos Especiais sobre o Consumo e da Inspecção-Geral das Finanças;
+4- A CNPD reitera as conclusões 1, 2, 3, 7 e 8 constantes do Parecer n.° 1/2004
+Lisboa, de Fevereiro de 2004
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Alexandre Sousa Pinheiro (relator)
+_ru
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Anaden l
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

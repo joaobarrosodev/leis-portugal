@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMPANHIA PORTUGUESA DE HIPERMERCADOS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,90 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:59:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 257/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21188](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21188).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n° 10324/08
+AUTORIZAÇÃO N.°25G 12010
+A Companhia Portuguesa de Hipermercados, S.A. veio notificar a alteração ao tratamento de videovigilância a realizar nas suas instalações sitas no
+Hipermercado Jumbo de Aveiro.
+A entidade declara que não existe Comissão de Trabalhadores.
+O sistema é agora constituído por 89 câmaras que abrangem as seguintes áreas:
+cais de descargas, armazéns, placa de vendas, zona de escritórios (zonas comuns, corredores de acesso a fornecedores, clientes e à central de segurança) sala de auto-revista de funcionários, sala de descanso das operadoras da secção frente da loja, oficina de manutenção e zona de embalamento de padaria.
+Através da deliberação n° 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da empresa no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos, valores e agressões entre pessoas.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima () Disponível in http://www.cnpd.pt/bin/orientaçocs/prinicpiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.° 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Contudo, considera a CNPD, que a captação de imagens na sala de auto-revista de funcionários e sala de descanso das operadoras da secção frente da loja não respeita o princípio da proporcionalidade infringindo o artigo 18° da Constituição, bem como os artigos 35° n.º3 da Constituição e 7° n.º 1 da Lei de Protecção de
+Dados, na parte em que referem o valor jurídico vida privada. A CNPD não autoriza assim a recolha de imagens nas referidas áreas por se considerar que tal permite ao responsável uma intromissão desproporcionada na liberdade de movimentação dos clientes e trabalhadores da loja, pelo que devem as referidas câmaras ser recolocadas apenas para a entrada/saída dos referidos espaços, sem captar o seu interior.
+Mais entende a CNPD que, as imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.° do
+Código do Trabalho (?), pelo que, as câmaras instaladas na oficina de manutenção (2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS e na zona de embalamento da secção de padaria devem ser direccionadas apenas para a entrada/saída e sala dos fornos respectivamente.
+Considera-se, por isso, legitimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 8.° n.º 2 e 28 n.° 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Companhia Portuguesa de Hipermercados,
+S.A.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de som e imagem com os seguintes dizeres: «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem e som»
+(Art.º13.° n.º3 do Decreto-Lei n.°35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho.
+9. As câmaras não devem estar direccionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+10. A recolha de imagens deve confinar-se ao perímetro da propriedade e não podem envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+11. Não é autorizada a recolha de imagens na sala de auto-revista de funcionários, sala de descanso das operadoras da secção frente da loja e oficina da manutenção, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento, pelo que, as referidas câmaras devem ser recolocadas para os acessos, entrada/saída dos espaços indicados.
+12. A câmara instalada na zona de embalamento da secção de padaria apenas pode abranger a sala de fornos. Caso tal não seja possível deve ser retirada.
+Notificada, a entidade responsável para se pronunciar nos termos dos artigos 100.° e 101.° do CPA, a mesma solicitou reunião com esta Comissão para esclarecer qual a pertinência na implementação de câmaras nos locais não autorizados.
+A referida reunião ocorreu no dia 30 de Outubro de 2009, comprometendo-se a entidade requerente a fazer chegar ao processo os argumentos apresentados para apreciação e conversão do projecto de autorização aqui em análise.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 4
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ate à presente data nenhuma comunicação foi junta ao processo, no âmbito do exercício do direito de audiência dos interessados, pelo que, determina-se converter o projecto de autorização de 14 de Setembro de 2009, na presente autorização.
+Listoa, 18 Janeino 2010
+Ana Roque, Carlos Lobo, Helena Delgado António (Relatora), Vasco Almeida,
+Luís Barroso, Luís Paiva de Andrade es g
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 5
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

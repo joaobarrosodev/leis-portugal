@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOGEFRAN - SOCIEDADE GESTORA DE FRANCHISING, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 56/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22316](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22316).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 4164/2009
+REGISTO N.° 5612010
+A Sogefran - Sociedade Gestora de Franchising, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de franchising.
+Os dados são recolhidos directamente por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98), excepto o estado civil.
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco dos titulares.
+Assim, regista-se, de acordo com as disposições conjugadas dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Finalidade
+Categoria de dados pessoais tratados
+Sogefran - Sociedade Gestora de Franchising, S.A.
+Gestão de franchising.
+Nome, data de nascimento, morada, cidade, telefone, e-mail, fax, telemóvel, situação profissional (nome da empresa, data de início e fim, cargo, responsabilidades), como conheceu o II Café di
+Roma, cidade/área de interesse, dispõe de um local, morada do local, possui licença, metros quadrados, n° e comprimento da fachada, possibilidade de instalar esplanada, actividade comercial no local, aluguer mensal, custos para substituir a actividade em exercício, negócios existentes na zona, capital disponível para o investimento, capital a financiar, como pretende gerir o local, experiência em redes de franchising, eventual interesse por centro comercial, motivos para se tornar franchisado e assinatura.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Comunicação de dados
+Não há.
+Forma de exercício do direito
+Junto do responsável pelo tratamento dos dados.
+de acesso e rectificação
+Interconexões
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados 1 ano.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 07/04/10
+A Secretária da CNPD,
+Devas (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

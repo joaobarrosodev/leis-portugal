@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GRAÇA MARIA PEREIRA BARBEIRO FABIÃO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,77 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:38:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1517/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22660](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22660).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 2265/2010
+AUTORIZAÇÃON I517 2010 1 - Graça Maria Pereira Barbeiro Fabião, médica, vem notificar a Comissão
+Nacional de Protecção de Dados (CNPD) de um tratamento que tem como finalidade a gestão de utentes.
+Os dados pessoais objecto de tratamento são os seguintes - Nome, sexo, data de nascimento, nacionalidade, naturalidade, NIF, profissão, morada, contactos, dados sobre a condição social e dados clínicos.
+Os dados são recolhidos e actualizados de forma directa, mediante contacto pessoal.
+Está assegurado o acesso, rectificação e eliminação dos dados, mediante solicitação por escrito à requerente.
+Indica-se como fundamento de legitimidade para o tratamento o cumprimento de obrigações legais.
+A segurança das informações é garantida por cópias de backup, password de acesso às informações, sistemas de processamento de backup, informação cifrada e acesso restrito de pessoas.
+A Requerente propõe-se comunicar dados de prescrição à Administração Central de
+Sistema de Saúde (ACSS), para conferência de facturas, e comunicar dados de facturação a entidades financeiras responsáveis, relativos aos actos prestados aos seus beneficiários.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A requerente pretende a conservação dos dados de acordo com o estabelecido na
+Portaria 247/2000, de 8 de Maio.
+2 - O n.º 4 do artigo 7° da Lei n.º 67/98, de 26.10, admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde há legitimidade para efectuar o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional. Nessa medida, deve compaginar-se a recolha da informação com o princípio da confidencialidade, respeitando-se, assim, o respectivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+3 - A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.° 4 de Lei n° 67/98, de 26.10.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+Lias úteis das 10 as 13DE 2 duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.º 4 de Lei n° 67/98, de 26.10.
+Há restrição de acesso à informação clínica, parecendo adequadas as medidas de segurança adoptadas.
+Deverão, todavia, ser adoptadas as medidas de segurança adequadas, atenta a natureza sensível dos dados objecto de tratamento, devendo ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação e acesso aos titulares dos dados, nos termos dos artigos 10° e 11° n° 5 da Lei n° 67/98;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15° nº3 da Lei n° 67/98);
+c) Devem ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7° n°º4 da Lei n° 67/98).
+Alerta-se a responsável para a circunstância de as comunicações de dados para terceiras entidades, quando não decorram de disposição legal, carecerem de autorização da CNPD.
+4 - Nestes termos, e ao abrigo do disposto nos artigos 7.º n.º 4 e 30.º da Lei n° 67/98, de 26.10, a CNPD autoriza o tratamento automatizado, consignando o seguinte:
+Responsável: Graça Maria Pereira Barbeiro Fabião
+Finalidade: gestão de utentes
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categorias de dados pessoais tratados: nome, sexo, data de nascimento, nacionalidade, naturalidade, NIF, profissão, morada, contactos e dados clínicos
+Comunicação de dados: à Administração Central de Sistema de Saúde (ACSS) e a entidades financeiras responsáveis pelos dados de facturação relativos aos actos prestados aos seus beneficiários
+Forma de exercício do direito de acesso e rectificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.º e 11.º da Lei n° 67/98. Quanto ao direito de acesso aos dados de saúde deve o mesmo ser assegurado através de médico, nos termos do artigo 11.º n.º 5 da mesma Lei
+Interconexão de dados: não há
+Transferência de dados para países terceiros: não há
+Conservação dos dados:
+a) Dados de saúde - pelo prazo previsto na Portaria n° 247/2000, de 8 de Maio;
+b) Dados para facturação - 10 anos.
+Lisboa, l9 de Acal ce Jalo
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 4 duvidas@cnpd.pt

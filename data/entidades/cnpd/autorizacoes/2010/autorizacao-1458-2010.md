@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MERCK, S.A. - Tratamento terminado'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:39:06Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1458/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22556](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22556).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 2174/2010
+AUTORIZAÇÃO N.° 1458
+/2010
+A Merck, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional de avaliação da segurança pós-utilização em doentes tratados com
+Kuvan®.
+A entidade encarregue do processamento da informação é a Outcome Europe Sárl (Suíça).
+Serão incluídos no estudo os doentes adultos, menores e grávidas com a patologia que frequentam a consulta externa nos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato Web ou em papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+No que concerne à recolha e tratamento do dado raça, o responsável pelo tratamento justifica a sua necessidade do seguinte modo: "A fenilcetonúrio é uma doença metabólica hereditária autossómica recessiva devida a mutacões do nene da hidrovilace da fenilalanina Mais do son
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS mutações têm sido descritas até agora com uma correlação genótipo/fenótipo imperfeita, a predominância da doença varia em função dos países, regiões e mais ainda da origem étnica.
+O conjunto destes elementos faz-nos pensar que o conhecimento da origem étnica dos doentes permitirá não somente uma interpretação mais precisa dos dados de segurança recolhidos no âmbito deste estudo mas talvez permitirá igualmente confirmar a relação entre a origem étnica e a predominância desta doença".
+O fundamento de legitimidade é o consentimento expresso do titular dos dados. Porque haverá recolha de dados de menores, terá de haver consentimento a prestar pelos legais representantes. Impõe-se, ainda, que a criança seja ouvida e em função da idade, nos termos da lei, ela própria preste a sua anuência à recolha de dados pessoais para participação no estudo. O estudo deve ter em conta o superior interesse da criança.
+Assim, nos termos do artigo 28°, n.º1, alínea d), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clinicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Merck, S.A.
+Finalidade: estudo observacional de avaliação da segurança pós-utilização em doentes tratados com Kuvan®..
+Categoria de Dados pessoais tratados: código do doente, iniciais do doente, dados demográficos (data de nascimento, sexo, raça, peso e altura), história clínica, tratamentos farmacológicos, avaliações clínicas neurológicas e neurocognitivas, exame físico, ECG, sinais vitais, resultados de análises sanguíneas, informação sobre ingestão alimentar, avaliação comportamental, adesão ao tratamento, desempenho e gravidez.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+conhecimento dessas condições a todos os intervenientes no circuito de informação.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, L de Abril de 2010
+Ana Roque (Relatora), Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)

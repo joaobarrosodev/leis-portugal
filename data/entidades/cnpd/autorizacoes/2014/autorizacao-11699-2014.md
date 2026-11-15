@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CLINICA MÉDICA DR TALLON LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,66 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:26:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11699/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72073](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72073).
+Processo n° 15686/2014 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 11699/2014 1 - O Pedido
+Clínica Médica Dr. Tallon, Lda, vem notificar a Comissão Nacional de Protecção de Dados (CNPD) de um tratamento de dados pessoais que tem como finalidade a gestão de processos clínicos.
+Os dados pessoais objeto de tratamento são os seguintes: dados de identificação e de contacto, peso, altura, índice de massa corporal (IMC), medicamentos tomados, histórico de clínica geral.
+Está assegurado o direito de acesso do titular às informações que lhe respeitam.
+A segurança das informações é garantida nos termos descritos no formulário de notificação.
+A requerente pretende a conservação dos dados pelo período de 5 anos.
+2 - Apreciação 2.1. O n.º 4 do artigo 7° da Lei n.º 67/98, de 26 de outubro (LPD), admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efetuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+Quando os dados são processados para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde ha legitimidade para efetuar o seu tratamento automatizado quando este e feito por pessoas vinculadas a segredo profissional. Nessa medida, deve compaginar-se a
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 15686/2014 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS recolha da informação com o princípio da confidencialidade, respeitando-se, assim, o respetivo sigilo ou segredo profissional nos termos dos estatutos a que tais profissionais estão legal e estatutariamente vinculados, como forma de garantia à implementação das medidas adequadas a preservar a segurança da informação.
+2.2. A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da LPD, para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo).
+Os dados recolhidos não se mostram excessivos em relação à finalidade prosseguida (artigo 5° n.º 1, alínea c), da LPD).
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.º 4 de LPD.
+Deverão ser adotadas as medidas de segurança adequadas, atenta a natureza sensível dos dados objeto de tratamento, devendo ser dada especial atenção à necessidade de assegurar:
+a/ O direito de informação e acesso aos titulares dos dados, nos termos dos artigos 10° e 11° n° 5 da LPD;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15° nº3 da
+LPD);
+c) Devem ser adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7° nº4 da LPD).
+Alerta-se a responsável para a circunstância de as comunicações de dados para terceiras entidades, quando não decorram de disposição legal, carecerem de autorização da CNPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 15686/2014 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3 - Conclusão
+Nestes termos, e ao abrigo do disposto nos artigos 7.° n.º 4, 28.° nº1, alínea a), e 30.° da Lei n° 67/98, de 26 de outubro, a CNPD autoriza o tratamento automatizado, consignando o seguinte:
+Responsável: Clínica Médica Dr. Tallon, Lda
+Finalidade: gestão de processos clinicos
+Categorias de dados pessoais tratados: dados de identificação e de contacto, peso, altura, índice de massa corporal (IMC), medicamentos tomados, histórico de clínica geral
+Comunicação de dados: não há
+Forma de exercício do direito de acesso e retificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.° da Lei n° 67/98, de 26 de outubro.
+Quanto ao direito de acesso aos dados de saúde deve o mesmo ser assegurado através de médico, nos termos do artigo 11.° n.º 5 da mesma Lei
+Interconexão de dados: não há
+Transferência de dados para países terceiros: não há
+Conservação dos dados:
+a) Dados de saúde - pelo prazo previsto na Portaria n.º 247/2000, de 8 de maio;
+b) Dados para faturação - 10 anos.
+Lisboa, 9 % pezento de se
+Luis Barroso (O Vogal, em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 303 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpc.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7230/2016
-official_date: null
+official_date: '2016-07-27'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TESCO - COMPONENTES PARA AUTOMÓVEIS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T13:30:28Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7230/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/93312](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/93312).
+Processo n.° 17304/2015 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 7 2 30/2016 1 - Tesco - Componentes para Automóveis, Lda, notificou um tratamento de dados pessoais com a finalidade de gestão das comunicações internas de atos de gestão financeira irregular (Linhas de Ética).
+No decurso do procedimento veio reformular o pedido, desistindo, designadamente, do pedido de transferência de dados para a Empresa Mãe com sede no Japão.
+Em consequência, não haverá processamento externo da informação.
+A requerente propõe-se adotar procedimentos internos que permitam a denúncia e a ulterior investigação de comportamentos contrários à lei ou às regras internas da empresa, assegurando a confidencialidade do tratamento. São indicadas as pessoas encarregadas da recolha e do tratamento das denúncias, funcionárias da própria empresa, que atuam sob a responsabilidade do respetivo Diretor-Geral/Gerente.
+2 - A Comissão Nacional de Protecção de Dados (CNPD) já se pronunciou na
+Deliberação n.º 765/2009(1) sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da lei em matéria de proteção de dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade. Nessa Deliberação fixou que só podem ser objeto de tratamento os procedimentos de controlo interno de denúncia de infrações destinados a prevenir e/ou a reprimir irregularidades no seio da sociedade no domínio da contabilidade, dos controlos contabilísticos internos, da auditoria, da luta contra a corrupção e do crime bancário e financeiro.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+Os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. alínea b) do n.º° 1 do artigo 5.° da Lei n.º 67/98, de 26 de 1 Disponível em www.cnpd.pt/bin/orientacoes/DEL765-2009_LINHAS_ETICA.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 17304/2015 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS outubro, alterada pela Lei n.º 103/2015, de 24 de agosto - Lei de Proteção de Dados (LPD).
+O fundamento de legitimidade é a execução de finalidades legítimas do responsável, previsto no n.º 2 do artigo 8.° da LPD, não prevalecendo no caso concreto os direitos dos titulares dos dados.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da LPDP nos termos previstos na Deliberação n.º 765/2009.
+Como se salienta na Deliberação citada, "... afigura-se não ser consequente o estabelecimento de uma linha de denúncia interna, cuja gestão e apreciação caiba aos eventuais denunciados. Assim, na linha do previsto no Código do Governo das
+Sociedades da CMVM, a gestão e a apreciação preliminar das denúncias apresentadas deve ser adstrita a entidades de auditoria, independentes, às quais cumpre, entre outras funções, controlar o procedimento através do qual a sociedade cumpre as disposições em vigor no que diz respeito à possibilidade de os empregados notificarem irregularidadesi 3 - Assim, nos termos das disposições conjugadas do n.º 2 do artigo 8.°, da alínea a) do n.º 1 do artigo 28.° e do artigo 30.° da LPD, com as condições e limites fixados na referida Deliberação n.º 765/2009, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados nos seguintes termos:
+Responsável - Tesco - Componentes para Automóveis, Lda
+Finalidade - Gestão das comunicações internas de atos de gestão financeira irregular.
+Categorias de dados pessoais tratados - Identidade e categoria profissional do denunciante, identidade e categoria profissional do denunciado, identidade e funções das pessoas que intervêm na recolha e no tratamento de dados, os factos denunciados passíveis de integrarem atividades consideradas irregulares, no âmbito das atividades de contabilidade, auditoria, de luta contra a corrupção e do crime bancário e financeiro, os elementos de facto recolhidos no âmbito da averiguação e o destino dado à denúncia.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 17304/2015 3
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Forma de exercício do direito de acesso e retificação - Presencialmente e por solicitação escrita para a morada da responsável.
+Comunicações de dados pessoais a terceiros - Apenas às autoridades competentes para fins de procedimento judicial
+Interconexões - Não há
+Fluxo transfronteiriço de dados para países terceiros - Não se verifica.
+Prazo máximo de conservação dos dados - Os dados pessoais objeto de denúncia serão de imediato destruídos caso se revelem inexatos ou inúteis. Quando não haja lugar a procedimento disciplinar ou judicial, os dados que tenham sido objeto de comprovação serão destruidos decorrido o prazo de 6 meses a contar do encerramento das averiguações. Em caso de procedimento disciplinar ou judicial os dados serão conservados até ao termo desse procedimento. Neste caso, serão conservados no quadro de um sistema de informação de acesso restrito e por prazo que não exceda o procedimento judicial.
+Deve ser garantida a confidencialidade sobre a identidade do denunciante, com os limites descritos na Deliberação n.° 765/09.
+Dos termos e condições fixados na Deliberação n.º 765/09 e na presente Autorização decorrem obrigações que o responsável deve cumprir.
+Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 27 de julho de 2016
+João Marques (Relator)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpa.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

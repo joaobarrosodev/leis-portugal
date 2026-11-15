@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Elizabeth Benito Garcia'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T05:04:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12077/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/38907](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/38907).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 11109/2011
+AUTORIZAÇÃO N.° / 20 77 12011 1. Do Pedido
+Elisabeth Benito Garcia notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para caracterizar e detectar a incidência de linfomas cutâneos a nível nacional.
+O estudo será constituído por doentes com a patologia, que constem nos registos médicos da
+Consulta Multidisciplinar de Linfomas Cutâneos do HSA/CHP, da Consulta de Grupo de
+Linfomas Cutâneos do IPOFG-L e das consultas das instituições de saúde portuguesas que aderirem ao Registo.
+O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico.
+Os dados serão recolhidos num caderno de recolha de dados em formato electrónico.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de participante no estudo. A chave desta codificação só será conhecida do médico assistente.
+Os destinatários são ainda informados sobre a natureza facultativa da sua participação e será garantida confidencialidade no tratamento.
+Da Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tal. 212 020 100.
+21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (art.º 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Da Conclusão
+Assim, nos termos do artigo 28°, n.º1, alínea a), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Elisabeth Benito Garcia
+Finalidade: Estudo observacional para caracterizar e detectar a incidência de linfomas cutâneos a nível nacional.
+Categoria de Dados pessoais tratados: Código de identificação do doente, dados sócio-demográficos (data de nascimento e sexo), dados clínicos, diagnóstico, mortalidade, tratamento e seguimento médico.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, A de Novembro de 2011
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo, Luís Barroso (Relator)
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt

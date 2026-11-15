@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3609/2010
-official_date: null
+official_date: '2010-10-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BIAL PORTELA & Cª, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:05:46Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3609/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24698](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24698).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 461/2010
+AUTORIZAÇÃO N.360/2010
+A BIAL PORTELA & C", S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade exclusiva de farmacovigilância.
+São recolhidas as seguintes categorias de dados pessoais
+- Das pessoas que sofreram a reacção adversa: Identificação (iniciais do nome, sexo, data de nascimento); Dados Antropométricos (peso e altura); Dados da reacção adversa (descrição, início, duração, gravidade, evolução, identificação do medicamento suspeito, data de início da toma, data da suspensão, via de administração, dose diária, indicação terapêutica, primeira utilização, dados relativos à medicação concomitante, existência de reacções anteriores ao mesmo fármaco, reintrodução do mesmo fármaco e suspeita de interacção); Dados clínicos, exames auxiliares de diagnóstico, alergias e gravidez; e parecer clínico quanto à relação causal.
+- Dos profissionais de saúde que transmitem a informação,: Nome; Local de trabalho; Contacto; Especialidade médica.
+Há comunicação ao INFARMED (Cf. artigos 29°, n.° 1 alínea j), 83°, 85°, 93°, 169°, 170°, 176°, n.° 1 alínea c) e f) do Decreto-Lei n.° 176/2006, de 30 de Agosto).
+A CNPD já se pronunciou na sua Deliberação n.° 219/2009' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+'Disponível em /www.cnpd.pt/bin/orientacoes/orientacoes.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnnd.nt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (art.º 5°, n.º1 al. a) da Lei 67/98, de 26 de Outubro - LPD), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é, nos termos do artigo 7° n.º 2 da LPD, a Lei n.º 46/2004, de 19 de Agosto, que impõe o registo e comunicação de reacções adversas, no âmbito de ensaios clínicos e o Decreto-Lei n.º 176/2006, de 30 de Agosto, relativamente aos medicamentos com autorização de introdução no mercado.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea b) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: BIAL Portela & C", S.A.
+Finalidade: Farmacovigilância.
+Categoria de Dados pessoais tratados:
+- Das pessoas que sofreram a reacção adversa: Identificação (iniciais do nome, sexo, data de nascimento); Dados Antropométricos (peso e altura); Dados da reacção adversa (descrição, início, duração, gravidade, evolução, identificação do medicamento suspeito, data de início da toma, data da suspensão, via de administração, dose diária, indicação terapêutica, primeira utilização, dados relativos à medicação concomitante, existência de reacções anteriores ao mesmo fármaco, reintrodução do mesmo fármaco e suspeita de interacção); Dados clínicos, exames auxiliares de diagnóstico, alergias e gravidez; e parecer clínico quanto à relação causal.
+- Dos profissionais de saúde que transmitem a informação: Nome; Local de trabalho; Contacto; Especialidade médica.
+Entidades a quem podem ser comunicados: INFARMED - Sistema Nacional de
+Farmacovigilância de Medicamentos para Uso Humano
+Formas de exercício do direito de acesso e rectificação: Pessoalmente ou por escrito ao responsável pelo tratamento
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Jas úteis das 10 às 13 h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Interconexões de tratamentos: Não há.
+Fluxos de dados pessoais para países terceiros: Não há
+Prazo de conservação: os dados devem ser conservados pelo período estabelecido no ponto 5.2 do Anexo I do DL n.º 176/2006.
+Dos termos e condições fixados na Deliberação n.º 219/2009 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 25 de Outubro de 2010
+Ana Roque (relatora), Carlos Campos Lobo, Luís Paiva de Andrade, Helena Delgado
+António, Luís Barroso, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+INHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt

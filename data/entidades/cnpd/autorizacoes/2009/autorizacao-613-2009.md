@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOVARTIS CONSUMER HEALTH - PRODUTOS FARMACÊUTICOS E NUTRIÇÃO, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:29:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 613/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14478](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14478).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 1822/06
+AUTORIZAÇÃO N.º 613 /2009
+A "Novartis Consumer Health - Produtos Farmacêuticos Nutrição, Lda." notificou à CNPD um tratamento de dados pessoais com a finalidade de
+Gestão da informação dos Serviços de Segurança, Higiene e Saúde no
+Trabalho.
+A CNPD já se pronunciou na sua Deliberação n.º 41/2006 (Disponível em http://www.cnpd.pt/bin/orientacoes/MedicinaTrabalho-delgeral.pdf) sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, Lei 67/98, de 26 de Outubro, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela
+Deliberação n.º 41 /2006.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: "Novartis Consumer Health - Produtos
+Farmacêuticos Nutrição, Lda."
+Finalidade: Gestão da informação dos Serviços de Segurança, Higiene e
+Saúde no Trabalho.
+Categoria de Dados pessoais tratados: Nome, sexo, data de nascimento, idade, morada, telefone, BI n.º utente SNS, profissão, categoria profissional, data da contratação, habilitações literárias, estado civil, dados clínicos, exames complementares, actividade física, tipo de alimentação, dados de gravidez,
+Kua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS acidentes de trabalho, data de consulta, data de exames e dados da "ficha de aptidão".
+Entidades a quem podem ser comunicados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da
+Inspecção-Geral de Trabalho (cf. n.° 2 do artigo 247° da Lei n.º 35/2004, de 29 de Julho).
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Formas de exercício do direito de acesso e rectificação: pessoalmente ou por escrito junto do Departamento de Recursos Humanos. Quanto ao tratamento de dados de saúde, o direito de acesso deverá ser exercido junto do médico do trabalho e no exercício do direito de rectificação deste tipo de dados, deverá o trabalhador exercê-lo directamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não se verificam.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: os dados pessoais podem ser conservados pelo período máximo de um ano após a cessação do vínculo laboral à entidade. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária, designadamente à revisão judicial da incapacidade.
+Dos termos e condições fixados na Deliberação n.º 41 / 2006 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, da del Fevereiza de 2009.
+Ana Roque, Carlos Campos Lobo, Helena Delgado António, Luís Barroso, Luís Paiva de Andrade (Relator), Vasco Almeida peres Silves
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

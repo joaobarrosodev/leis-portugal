@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MEO - SERVIÇOS DE COMUNICAÇÕES E MULTIMÉDIA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,25 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:40:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 163/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/87465](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/87465).
+Processo n.° 19074/2015 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃO N.° (63/2016
+A MEO Serviços de Comunicações e Multimédia, S.A., solicitou à Comissão Nacional de Proteção de Dados (CNPD) a emissão de parecer, nos termos do artigo 10.° n.ºs 1 e 2, da Lei n.º 41/2004, de 18 de agosto, relativamente ao pedido de anulação da eliminação da apresentação da linha chamadora, apresentado por do qual se retira que é utilizadora do telefone com o n° que tem recebido inúmeras chamadas para os números de telefone indicado, através de telefone com número privado e que tais chamadas perturbaram a paz familiar da requerente.
+A Lei n.º 41/2004, de 18 agosto, impõe às empresas que oferecem redes e serviços de comunicações eletrónicas a adoção de medidas destinadas a garantir a segurança e a inviolabilidade das comunicações eletrónicas (cf. artigos 3.° e 4.°). Todavia, em exceção aos princípios gerais, estabelece que, mediante prévio parecer da CNPD, pode anular-se, por um período não superior a 30 dias, a eliminação da apresentação da linha chamadora "...quando tal for compatível com os princípios da necessidade, da adequação e da proporcionalidade", a pedido do assinante, feito por escrito e devidamente fundamentado, para se determinar a origem de chamadas não identificadas perturbadoras da paz familiar ou da intimidade da vida privada.
+Por estarem verificados os requisitos, ao abrigo do disposto no artigo 10.° da Lei n.º 41/2004, de 18 de agosto, a CNPD emite parecer favorável à anulação da eliminação da apresentação da linha chamadora em relação a comunicações a efetuar para o n.°
+Notifique-se a MEO, para preceder em conformidade com o disposto no n.º 4.° e na alínea a) do n.° 5 do artigo 10.° da Lei n.º 41/2004, de 18 de agosto.
+É este o parecer da CNPD
+Lisboa, 27 de janeiro 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

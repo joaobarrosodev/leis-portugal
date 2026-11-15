@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Município de Mogadouro'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:05:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2219/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52744](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52744).
+Proc. 2228/07 1 p
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 2228/07
+DELIBERAÇÃO N.° 2219 /2013
+I - Pedido 1. O Município do Mogadouro veio notificar, junto da Comissão Nacional de
+Protecção de Dados (CNPD), o tratamento de dados de videovigilância a colocar no Castelo do Município.
+2. De acordo com o pedido, pretende-se a instalação de 2 câmaras que procedem à captação com gravação de imagem do acesso ao Castelo e Igreja Matriz e interior do Castelo.
+II - Análise 3. A utilização de sistemas de videovigilância em locais públicos de utilização comum
+- para proteção de edifícios e instalações públicos e respetivos acessos - tem procedimentos específico que vêm fixados na Lei n.º 9/2012, de 23 de fevereiro.1 4. Dispõe o n.º1 e n.º2 do artigo 5.°, da Lei n.º 9/12, que a autorização de instalação pode ser requerida pelo dirigente máximo da força de segurança ou serviço de segurança respetivo ou pelo presidente da câmara, devendo o pedido ser instruido com os seguintes elementos:
+a. Os locais públicos objeto de observação pelas câmaras;
+b. Características técnicas do equipamento utilizado;
+c. Identificação dos responsáveis pela conservação e tratamento dos dados, quando não sejam os responsáveis pelo sistema;
+1 Diploma que regula a utilização de câmaras de vídeo pelas forças e serviços de segurança em locais públicos de utilização comum.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 2228/07 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS d. Os fundamentos justificativos da necessidade e conveniência da instalação do sistema de vigilância por camaras de vídeo;
+e. Os procedimentos de informação ao público sobre a existência do sistema;
+f. Os mecanismos tendentes a assegurar o correto uso dos dados registados;
+g. Os critérios que regem a conservação dos dados registados;
+h. O período de conservação dos dados, com respeito pelos princípios da adequação e da proporcionalidade, face ao fim a que os mesmos se destinam;
+l. O comprovativo de aprovação, de capacidade ou de garantia de financiamento da instalação do equipamento utilizado e das respetivas despesas de manutenção.
+5. De acordo com o n.º1, do artigo 3.° da citada Lei, a instalação de câmaras esta sujeita a autorização do membro do Governo que tutela a força ou serviço de segurança competente, precedida de parecer da CNPD.
+6. Face ao exposto, o Presidente da Câmara Municipal do Mogadouro deverá apresentar o seu pedido de autorização de instalação de câmaras à força de segurança com jurisdição na respetiva área de observação.
+7. Após a instrução do processo pela força de segurança ou serviço de segurança com jurisdição na respetiva área de observação, a CNPD emitirá o parecer referido no n.°2 e seguintes do artigo 3.° da Lei n.º 9/2012.
+III. Conclusões
+Face ao exposto, a CNPD delibera não autorizar a pretendida instalação do sistema de videovigilância no Castelo do Município do Mogadouro, uma vez que face à finalidade, está sujeita a autorização do membro do Governo que tutela a força ou serviço de segurança requerente e deve ser proferida de acordo com os procedimentos específicos que vêm fixados na Lei n.º 9/2012, de 23 de fevereiro.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 2228/07 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Notifique-se da presente decisão.
+Lisboa, 12 le мема Le 2013
+Ana Roque, Carlos Lobo, Vasco Almeida, Luís Barroso, Luís Paiva de Andrade,
+Helena António (Relatora).
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

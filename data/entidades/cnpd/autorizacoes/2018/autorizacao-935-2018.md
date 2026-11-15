@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 935/2018
-official_date: null
+official_date: '2018-01-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Jaime Duarte Costa Silva de Sousa'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T07:15:46Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 935/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/115177](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/115177).
+Processo n. 13991/2017
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Autorização n.° 935/2018
+Jaime Duarte Costa Silva de Sousa, no âmbito da tese de doutoramento, notificou à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de realizar um estudo de sobre «As Políticas Educativas no Espectro da
+Inclusão/Escola Inclusiva».
+Serão participantes os três diretores dos agrupamentos de escolas de Fafe, aos quais serão efetuadas entrevistas sobre a perceção das políticas educativas inclusivas. Serão também participantes todos os professores dos diferentes níveis de ensino dos referidos agrupamentos, que aceitem participar no estudo.
+O participante é identificado por um código especificamente criado para este estudo, constituído de modo a não permitir a imediata identificação do titular dos dados, designadamente, não sendo utilizados códigos que coincidam com os números de identificação, iniciais do nome, data de nascimento, número de telefone, ou resultem de uma composição simples desse tipo de dados.
+Os dados serão recolhidos diretamente, através de questionários escritos e entrevistas semiestruturadas. As entrevistas serão gravadas. A necessidade de pseudoninimizar decorre do facto de ser necessário relacionar estes instrumentos. A chave da codificação só é conhecida do investigador.
+Os dados pessoais recolhidos são adequados, necessários e não excessivos (cf. alínea c)
+do n.º 1 do artigo 5.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto, doravante LPD.
+O fundamento de legitimidade é o consentimento expresso do titular.
+A informação tratada é recolhida de forma lícita (cf. alínea a) do n.º 1 do artigo 5.° da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto - doravante LPDP), para finalidade determinada, explícita e legitima (cf. alínea b) do mesmo número e artigo) e não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 13991/2017 | 1v.
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, da alínea a) do n.º 1 do artigo 28.° e do artigo 30.° da LPD, autoriza-se o presente tratamento de dados pessoais nos seguintes termos:
+Responsável - Jaime Duarte Costa Silva de Sousa;
+Finalidade - Estudo de sobre «As Políticas Educativas no Espectro da Inclusão/Escola
+Inclusiva»;
+Categoria de dados pessoais tratados - Código do participante, gravação das entrevistas, dados demográficos (sexo e idade), dados profissionais (categoria profissional, habilitações literárias, funções que desempenha, dados quantitativos da experiência com alunos com necessidades educativas especiais, existência e formação específica em educação especial), dados relativos à perceção das dificuldades face à educação inclusiva, respostas educativas, perspetiva sobre a inclusão em turmas regulares e trabalho colaborativo;
+Exercício do direito de acesso - Através do investigador por escrito para o endereço
+Urbanização do Assento, Lote 9, 4820-526 Fafe:
+Comunicações, interconexões e fluxos transfronteiriços de dados pessoais identificáveis no destinatário - Não existem;
+Prazo máximo de conservação dos dados - A chave que produziu o código que permite a identificação indireta do titular dos dados deve ser eliminada 5 anos após o fim do estudo
+Lisboa, 23 de janeiro de 2018
+Filipa Calvão (Presidente)

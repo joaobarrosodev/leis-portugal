@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 184/2006
-official_date: null
+official_date: '2006-03-13'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANTÓNIO MANUEL MOREIRA GARCIA RIJO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:12:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 184/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6351](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6351).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 694/02 184
+AUTORIZAÇÃO N.° /2006 1. António Manuel Moreira Garcia Rijo, empresário em nome individual cuja actividade consiste na administração de condomínios, veio notificar os seus tratamentos à CNPD. A finalidade do tratamento é o "registo de condóminos relativamente a condomínios em que o requerente é administrador, para registar o cumprimento de encargos e permitir as convocações para as
+Assembleias Geraisi
+Os dados consistem no nome do proprietário, identificação da fracção autónoma, NIF, morada para envio de correspondência, contactos de telecomunicações "que sejam voluntariamente concedidos" e são recolhidos de forma directa, junto dos titulares, por impresso, ou por forma indirecta, junto da
+Conservatória do Registo Predial territorialmente competente.
+2. Os dados tratados são pertinentes, necessários e não excessivos em relação à finalidade do contrato (cf. art. 5.° al. c) da Lei 67/98, de 26 de
+Outubro).
+3. O responsável aponta como medidas de segurança a existência de cópias de backup dos dados, password de acesso às informações e acesso restrito de pessoas.
+4. O responsável pretende manter na Internet, protegida por username e password, uma página com os seguintes dados:
+- Nome, Letra da Fracção e respectivo crédito ou débito de quota ordinária, quota extraordinária, outros créditos ou débitos e multas paliçadas nos termos do artigo 1434°, n° 1, do Código Civil.
+- O username e a password só serão distribuídos para acesso aos condóminos de cada condomínio. A actualização e publicação serão efectuadas ao tempo do "fecho do programa de emissão de recibos sempre que ele for usado".
+Em face do exposto, a CNPD autoriza o tratamento de dados nos termos do formulário, consignando, nos termos e para os efeitos dos artigos 27.° e 30.° da
+Lei 67/98, de 26 de Outubro, o seguinte:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1. Responsável: António Manuel Moreira Garcia Rijo 2. Categorias de dados pessoais tratados: nome do proprietário, identificação da fracção autónoma, NIF, morada para envio de correspondência, contactos de telecomunicações que sejam voluntariamente concedidos".
+3. Finalidade: gestão de condomínios.
+5. Forma de exercício do direito de acesso e rectificação: por escrito junto do responsável.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Tempo de conservação dos dados: enquanto se mantiver algum valor em dívida, e nos seis meses subsequentes à liquidação, para responder a eventuais reclamações dos titulares relativas aos movimentos contabilísticos.
+Lisboa, 13 de Março de 2006.
+Aná Roque (relatora)
+den m
+Amadeu Guerra
+Luís Barroso
+Alexandre Pinheiro
+ами
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

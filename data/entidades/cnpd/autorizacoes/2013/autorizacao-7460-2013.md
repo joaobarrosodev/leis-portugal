@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FLOWSERVE PORTUGUESA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:28:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7460/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/58259](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/58259).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 9782/2013
+AUTORIZAÇÃO N. 7460
+/2013
+Flowserve Portuguesa - Mecanismos de Controle de Fluxos, Lda notificou um tratamento de dados pessoais com a finalidade de gestão das comunicações internas de atos de gestão financeira irregular.
+EthicsPoint, Inc, com sede nos Estados Unidos da América, é a entidade encarregue do processamento da informação, a qual se devem encontrar vinculada à entidade responsável pelo tratamento por via de subcontratação, nos termos dos artigos 14.° e 15.° da Lei 67/98, de 26 de outubro (LPD).
+A CNPD já se pronunciou na sua Deliberação n.º 765/2009' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de
+Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade. Nessa Deliberação fixou que só podem ser objeto de tratamento os procedimentos de controlo intero de denúncia de infrações destinados a prevenir e/ou a reprimir irregularidades no seio da sociedade, no domínio da contabilidade, dos controlos contabilísticos internos, da auditoria, da luta contra a corrupção e do crime bancário e financeiro.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.º 765/2009, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da LPD).
+O fundamento de legitimidade é a execução de finalidades legítimas do responsável, previsto no n.° 2 do artigo 8.° da LPD.
+Assim, autoriza-se ao abrigo dos artigos 8.°, n.º 2, 28.° n.° 1, al. a), 29.° e 30.°, n.° 1.° da LPD, nos seguintes termos:
+Responsável
+Finalidade
+Flowserve Portuguesa - Mecanismos de Controle de Fluxos, Lda
+Gestão das comunicações internas de atos de gestão financeira irregular.
+Categoria de dados pessoais tratados
+Identidade e categoria profissional do denunciante, identidade e categoria profissional do denunciado, identidade e funções das pessoas que intervêm na recolha e no tratamento de dados, os factos denunciados, passíveis de integrarem atividades consideradas irregulares, no âmbito das atividades de contabilidade, auditoria, de luta contra a corrupção e do crime bancário e financeiro, os elementos de facto recolhidos no âmbito
+' Disponível em www.cnpd.pt/bin/orientacoes/DEL765-2009 LINHAS_ETICA.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Forma de exercício do direito de acesso e retificação da averiguação e o destino dado à denúncia.
+Por solicitação ao responsável
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados para paises terceiros
+EUA - EthicsPoint, Inc (subcontratada - ao abrigo de safe harbor principles)
+Os dados pessoais objeto de denúncia serão de imediato destruídos caso se revelem inexatos ou inúteis;
+Conservação dos dados
+Quando não haja lugar a procedimento disciplinar ou judicial, os dados que tenham sido objeto de comprovação serão destruídos decorrido o prazo de 30 meses a contar do encerramento das averiguações;
+Em caso de procedimento disciplinar ou judicial os dados serão conservados até ao termo desse procedimento. Neste caso, serão conservados no quadro de um sistema de informação de acesso restrito e por prazo que não exceda o procedimento judicial.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da
+LPD, nos termos previstos na Deliberação n.º765/09.
+Deve ser garantida a confidencialidade sobre a identidade do denunciante, com os limites descritos na Deliberação n.°765/09.
+Dos termos e condições fixados na Deliberação n.º 765/09 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 29 de Ourdro de 2013
+Luís Barroso (Relator), Ana Roque, Helena Delgado António, Vasco Almeida e Luís Paiva de
+Andrade
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 32
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

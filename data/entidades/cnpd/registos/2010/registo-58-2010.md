@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Millennium BCP Prestação de Serviços ACE (Ex: SERVIBANCA - EMPRESA DE PRESTAÇÃO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 58/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22317](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22317).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 3958/2009
+REGISTO N.° 58 /2010
+O Millenium BCP - Prestação de Serviços, ACE notificou à CNPD um tratamento de dados pessoais com a finalidade de elaboração de inquéritos de satisfação.
+Os dados são recolhidos directamente pela Internet, telefone e impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, de acordo com as disposições conjugadas dos artigos 27º n.° 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Millenium BCP - Prestação de Serviços, ACE
+Finalidade
+Elaboração de inquéritos de satisfação.
+Categoria de dados pessoais tratados
+Nome e morada do cliente das sociedades agrupadas no ACE, código do cliente e respostas ao questionário.
+Não há.
+Junto do responsável pelo tratamento dos dados.
+Comunicação de dados
+Forma de exercício do direito de acesso e rectificação
+Interconexões
+Fluxo transfronteiriço de dados
+Conservação dos dados
+Não há.
+Não há.
+3 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 04/01/10
+A Secretária da CNPD, (Isabel Cristína Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas @enod ot

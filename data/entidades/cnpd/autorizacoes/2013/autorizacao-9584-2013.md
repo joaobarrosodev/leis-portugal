@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HABIFÁTIMA - COMÉRCIO DE FÁTIMA, LDA (PÁTIO DOS PASTORINHOS)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T22:50:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9584/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60160](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60160).
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.3867/09 1
+AUTORIZAÇÃO N° 9 S'84 12013
+Habifátima - Comércio de Fátima, Lda. veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas na Rua dos caneiros, 26 -
+Aljustrel em Fátima.
+Não existe Comissão de Trabalhadores.
+Pretende-se colocar 15 câmaras que abrangem as seguintes áreas: zona de entrada de funcionários, entrada da garagem, loja/zona comercial, áreas de acesso ao restaurante, área técnica exterior.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens». Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilicitos.
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.° 1, alínea c), da Lei n.º 67/98, de 26 de outubro - LPD).
+Considera-se, por isso, legítimo o tratamento (artigo 7.°, n.° 2 e 28.°, n.° 1, alínea a), da LPD), que se autoriza nos seguintes termos:
+1. Responsável pelo tratamento - Habifátima - Comércio de Fátima, Lda.
+2. Finalidade - Proteção de pessoas e bens.
+3. Comunicação de dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detetada a prática de infração penal, a entidade responsável pelo tratamento deve - com a respetiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excecionalmente, a visualização das imagens quando - não havendo qualquer infração penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da LPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.3867/09 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem nos termos do disposto no artigo 31.°, n.º5, da Lei n.º 34/2013, de 16 de maio.
+6. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+7. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a atividade laboral (cf. artigo 20.° do Código do Trabalho).
+8. A recolha de imagens deve confinar-se ao perímetro da propriedade e as câmaras não podem incidir sobre as zonas limítrofes ou a via pública.
+9. Embora não tendo sido declarado, alerta-se que a presente autorização não abrange a recolha de som.
+10. As câmaras não devem estar direcionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (n.° 1 do artigo 11° da LPD), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à CNPD (n.º 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adotar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+O responsável deve adotar as medidas de segurança previstas nos artigos 14° e 15° da LPD. Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre atualizadas a data e hora das gravações.
+Lisboa, 17 -2013
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.3867/09 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Luis Paiva de Andrade (Relator), Luis Barroso, Ana Roque, Carlos Lobo e Vasco
+Almeida
+Final
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

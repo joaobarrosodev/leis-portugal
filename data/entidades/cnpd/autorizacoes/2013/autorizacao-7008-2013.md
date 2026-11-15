@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Santa Casa da Misericórdia de Portalegre'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:36:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7008/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57627](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57627).
+Processo n° 8978/13 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N° 7008 1/2013
+Santa Casa da Misericórdia de Portalegre veio notificar o tratamento de videovigilância a realizar nas suas instalações. (Centro Infantil de São Lourenço, Rua Alexandre
+Herculano n.°97, 7300-121 Portalegre).
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 14 câmaras nas entradas e saídas do centro infantil.
+Há visualização de imagens em tempo real.
+Não há transmissão de imagens para o exterior do local da instalação do sistema.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens». Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilícitos.
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.° 1, alínea c), da Lei n.º67/98, de 26 de outubro - Lei n.º 67/98, de 26 de outubro - LPD).
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do Trabalho (1).
+Considera-se, por isso, legítimo o tratamento - (artigo 7.°, n.º 2 e 28.°, n.° 1, al. a), da
+LPD) - que se autoriza nas seguintes condições:
+1. Responsável pelo tratamento - Santa Casa da Misericórdia de Portalegre.
+2. Finalidade - Proteção de pessoas e bens.
+3. Categorias de dados pessoais tratados - Imagens captadas pelo sistema.
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 11° 8978/13 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre atualizadas a data e hora das gravações.
+Lisboa, A outubro de 2013
+Luís Paiva de Andrade, (Relator), Carlos Lobo e Vasco Almeida
+Ana Roque ( Vogal, em substituição da Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

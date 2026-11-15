@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 8434/2013
-official_date: null
+official_date: '2013-10-15'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: A. S. R. CHURRASQUEIRA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,68 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:10:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 8434/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/58972](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/58972).
+Proc. 6016/10 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 8434/2013
+I. O Pedido
+A.S.R. Churrasqueira, Lda. veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas na Rua 5 de Outubro, 41 - A em Coruche.
+A empresa declara que não existe comissão de trabalhadores.
+Pretende-se colocar 4 câmaras que abrangem as seguintes áreas: entrada do estabelecimento, balcões de atendimento, zona de pagamento e área de refeições.
+II. Análise
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens». Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilícitos.
+No entanto, em face da finalidade, afigura-se-nos que o tratamento se apresenta parcialmente como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, alínea c), da LPD).
+Nestes termos, a CNPD considera que se apresenta como excessiva - por violar a «liberdade de movimentos» dos clientes e trabalhadores - a colocação de câmarasna área de refeições. Tal recolha de imagens constitui uma limitação ou uma restrição do direito à reserva da intimidade da vida privada, consignado no artigo 26.° da Lei
+Fundamental.
+Assim, as câmaras colocadas no referido local devem ser direcionadas apenas para as áreas de pagamento e de acesso, sem incidir nos trabalhadores e nas áreas de refeição e lazer dos clientes.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 6016/10 2 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores, nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do Trabalho (').
+III. Conclusões
+A CNPD considera por isso, parcialmente legítimo o tratamento (artigo 7., n.° 2, e 28.°, n.° 1, alínea a), da LPD), que se autoriza nas seguintes condições:
+1. Responsável pelo tratamento - A.S.R. Churrasqueira, Lda.
+2. Finalidade - Proteção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detetada a prática de infração penal, a entidade responsável pelo tratamento deve - com a respetiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização das imagens pelo responsável - Admite-se, excecionalmente, a visualização das imagens gravadas quando - não havendo qualquer infração penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da LPD.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem nos termos do disposto no artigo 31.°, n.º5, da Lei n.° 34/2013, de 16 de maio.
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros.
+7. Quando estiverem em causa imagens que servem de prova em processo criminal -imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.°, n.º 2, da LPD (prevenção ou (2) No mesmo sentido ver Acórdão do STJ Processo n.° 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 6016/10 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+8. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+9. As câmaras não devem estar direcionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+10. A recolha de imagens deve confinar-se ao perímetro da propriedade, não podendo as câmaras incidir nas zonas limítrofes ou na via pública.
+11. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores, nem as câmaras incidir regularmente sobre estes durante a atividade laboral (cf. artigo 20.° do Código do Trabalho).
+12. Embora não tendo sido declarado, alerta-se que a presente autorização não abrange a recolha de som.
+13. Não é autorizada a recolha de imagens na área de refeições, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento. Devem as referidas câmaras ser direcionadas apenas para os acessos aos espaços sem captar diretamente o seu interior ou a zona de pagamento.
+Notificada, a responsável para se pronunciar nos termos dos artigos 100.° e 101.° do
+CPA e a mesma nada tendo dito, determina-se converter o projeto de autorização de 15 de outubro de 2013, na presente decisão.
+Lisboa, 19 de novato de 2013
+Luis Barroso (Relator), Ana Roque, Carlos Lobo, Helena António, Vasco Almeida e
+Luís Paiva de Andrade
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

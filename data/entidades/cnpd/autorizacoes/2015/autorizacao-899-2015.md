@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Consulteam Consultores de Gestão Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T18:59:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 899/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73470](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73470).
+Processo n° 17928/2014 | 1 A
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃON: 899/2015
+Consulteam Consultores de Gestão, Lda, notificou um tratamento de dados relativo à operação de cessão de créditos, tendo por cessionária a empresa Promontoria Holding 112 B.V., com sede em Baarn, Holanda.
+A referida transação poderá envolver a transmissão dos seguintes dados pessoais do devedor:
+Nome, morada, número de telefone, e-mail, NIF, número de BI/Cartão de Cidadão, número de contrato de crédito, valor atual da dívida, juros, pagamentos efetuados, número do processo, tribunal, data de início, fase processual, quantia exequenda.
+As informações supra referidas são entregues à cessionária, em suporte digital ou por outros meios similares disponíveis, comprometendo-se esta entidade a apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão.
+Assim, aquela entidade só terá acesso à informação pessoal nas circunstâncias excecionais indicadas no contrato de cessão de crédito.
+A cedência de dados é feita no âmbito de um contrato celebrado nos termos do artigo 577.° do Código Civil. Por força do n.º1 do referido artigo 577.° a cessão de crédito é admissível independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão para o cessionário das garantias e outros direitos acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.° 1 do artigo 582.° do Código Civil).
+Os dados objeto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no artigo 78.° do Decreto-Lei n.º 298/92, de 31 de dezembro. Enquadram-se, por isso, no conceito de vida privada do n.º 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro (LPD).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 3
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 17928/2014 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (artigo 5.° n.º1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é a disposição legal prevista no n.º 2 do artigo 7.° da
+LPD.
+O responsável deverá assegurar que o titular obteve as informações previstas no artigo10° da LPD, designadamente que a cessionária é destinatária da informação e a finalidade da comunicação.
+Deve, de igual modo, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização de auditorias internas e externas.
+Deve, tambem, efetuar cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direção, a outros técnicos obrigados a segredo profissional. No que diz respeito aos dados contidos em suporte de papel, devem ser adotadas medidas, que garantam um nivel de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos da alínea b) do n.º 1 do artigo 23.° e da alínea b) do n.º1 do artigo 28.° da LPD, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.º da LPD, o seguinte:
+Responsável: Consulteam Consultores de Gestão, Lda
+Finalidade do tratamento: Cessão de créditos
+Categorias de dados pessoais tratados: nome, morada, número de telefone, e-mail, NIF, número de BI/Cartão de Cidadão, número de contrato de crédito, valor atual da dívida, juros, pagamentos efetuados
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 17928/2014 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Entidade a quem são comunicados: Promontoria Holding 112 B.V., com sede em Baarn,
+Holanda
+Forma de exercício do direito de acesso e retificação: mediante pedido, formulado presencialmente ou por escrito, à responsável
+Eventuais interconexões: Não aplicável
+Transferência de dados para países terceiros Não há
+Prazo de conservação dos dados: 10 anos após a extinção dos créditos.
+Lisboa, 27 de Jardi a 2015 var
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

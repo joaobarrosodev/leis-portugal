@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO SANTANDER TOTTA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:37:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 809/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3658](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3658).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 211/08
+AUTORIZAÇÃO N.° 09/2008
+O Banco Santander Totta, SA notificou à CNPD um tratamento de dados relativo à operação de titularização de créditos, decorrentes de empréstimos hipotecários, com a Navegator, Sociedade Gestora de Fundos de Titularização de
+Créditos, SA. A operação de titularização de créditos é designada por Hipo Totta n.º 7
+- FCT.
+A referida transacção poderá envolver uma transmissão de dados pessoais (nome, morada, telefone, valores do crédito em dívida e das prestações periódicas)
+dos respectivos devedores.
+As informações supra referidas são entregues à Navegator, SA.em envelope fechado, comprometendo-se esta entidade a apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão a realizar. Assim, aquela entidade só terá acesso à informação constante do envelope selado em circunstâncias excepcionais indicadas no contrato de cessão de crédito.
+A questão que aqui se coloca relaciona-se com a cedência de dados a «entidade terceira» - uma sociedade financeira.
+A cedência de dados é feita no âmbito de um contrato celebrado entre o Banco
+Santander Totta, SA e a Navegator SGFTC, SA tendo em vista a realização de «operação de titularização», nos termos do DL 453/99, de 5 de Novembro, alterado pelo DL 82/2002, de 5 de Abril, pelo DL 303/2003, de 5 de Dezembro e pelo DL 52/2006, de 15 de Março.
+Os dados objecto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no art. 78.° do DL 298/92, de 31 de Dezembro. Assim, enquadram-se no conceito de vida privada do n.º 1 do artigo 7° da Lei n.º 67/98, de 26 de Outubro.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo e a informação recolhida não é excessiva.
+O fundamento de legitimidade é, por força do DL 453/99, de 5 de Novembro, alterado pelos DL 82/2002, de 5 de Abril, DL 303/2003, de 5 de Dezembro e pelo DL 52/2006, de 15 de Março, a disposição legal prevista no n.º 2 do artigo 7° da LPD.
+Assim, o responsável deverá assegurar que o titular obteve as informações previstas no art.° 10° da lei 67/98, de 26 de Outubro, designadamente a informação que a Navegator, SA é destinatária da informação e a finalidade da comunicação.
+Devem, de igual modo, ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização auditorias de internas e externas. De igual modo, devem ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direcção, a outros técnicos obrigados a segredo profissional.
+No que diz respeito aos dados contidos em suporte de papel, devem ser adoptadas medidas organizacionais, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos do n.º 1, alínea b), do artigo 23° e alínea b) do n.º1 do artigo 28°, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da Lei 67/98, o seguinte:
+1. Responsável: Banco Santander Totta, SA.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 2. Categorias de dados pessoais tratados: nome, morada, telefone, valores do crédito em dívida e das prestações periódicas.
+3. Finalidade: Titularização de créditos.
+4. Entidades a quem podem ser transmitidos: Navegator, SA 5. Forma de exercício do direito de acesso e rectificação: Por escrito, junto do
+Santander Totta, entidade responsável pelo tratamento com a finalidade de gestão de crédito.
+6. Eventuais interconexões : Não aplicável.
+7. Transferências de dados para países terceiros : Não aplicável
+Lisboa: 7½ de Mudde 08
+Carlos Campos Lobo
+Luís Barroso (Relator)
+Equardo Campos
+Ana Roque
+Helena Delgado António
+Vasco Almeida
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.p'3

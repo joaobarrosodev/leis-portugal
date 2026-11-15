@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 92/1997
-official_date: null
+official_date: '1997-09-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CENTRO DE HORMONOLOGIA FUNCIONAL, LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,89 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:12:46Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 92/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10629](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10629).
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Proc. N° 347/97
+AUTORIZAÇÃO N' 92/97 1. A Hormofuncional - Centro de Hormonologia Funcional, Ld" veio requerer autorização para funcionamento do ficheiro de gestão dos clientes que pedem a realização de exames auxiliares de diagnóstico.
+A informação de identificação do cliente é recolhida quando este se dirige ao laboratório para solicitar a realização de análises clínicas. E registado, igualmente, o nome da entidade requisitante (vg. ARS, Hospital) e o nome do médico que solicitou a análise.
+E tratada automaticamente o tipo de análise requerida e, após a sua realização, são registados os resultados laboratoriais das análises efectuadas pela empresa.
+Os dados recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do ficheiro (cf. art° 12° nº1 e 2 da Lei 10/91).
+Porém, porque se trata de dados sensíveis (dados de saúde), enquadráveis na previsão do art° 11° nº1 al. b) da Lei 10/91 de 29 de Abril, na redacção da Lei 28/94 de 29 de
+Agosto, o tratamento automatizado só pode ser efectuado se o laboratório, responsável pelo ficheiro, obtiver - dos titulares dos dados - autorização para o tratamento daquela informação (cf. art° 11° nº3 e 17° n° 2 dos referidos diplomas).
+Por isso , o laboratório deverá obter autorização dos titulares para proceder ao tratamento automatizado dos seus dados de saúde.
+2. Em consequência, e reconhecendo aos titulares dos dados o direito à "autodeterminação informacional", deve-lhes ser assegurado o direito de - se assim o manifestarem - eliminação dos dados relativos aos resultados das análises. A eliminação deverá ocorrer imediatamente após a impressão, em suporte de papel, dos resultados das analises.
+Este direito assume especial relevância quando se trata de exames com maior grau de sensibilidade : exames genéticos, HIV, doenças venéreas e consumo de drogas.
+3. Conforme entendimento uniforme da Comissão, e no contexto do disposto no art°17 nº1 e 2 da Lei 10 /91, na redacção da Lei 28/94 de 29 de Agosto, não basta que os responsáveis dos ficheiros se limitem a obter a autorização dos titulares dos dados para poderem tratar os dados sensíveis (nomeadamente dados de saúde). É necessário, em função do tipo e forma como a informação é tratada, que a CNPDPI verifique que o processamento da informação é feito «com garantias de não discriminação».
+Os dados administrativos e de identificação devem ser separados dos dados clínicos, sendo os dados clínicos (resultados das análises) de acesso restrito aos profissionais de saúde : analistas e técnicos de laboratório. Os funcionários administrativos não poderão, em nenhum caso, ter possibilidade de consultar essa informação.
+Rua de São Bento. n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+O responsável do ficheiro deverá tomar medidas rigorosas para tornar efectiva a confidencialidade, estabelecer níveis de acesso em função do tipo de dados e das funções desempenhadas. Os dados clínicos só poderão ser fornecidos à entidade requisitante, ao médico que os solicitou e, se o médico nada disse em contrário, ao titular dos dados.
+Os dados registados não poderão ser utilizados para finalidades diversas das determinantes da recolha (cf. art° 5° da Convenção de Protecção de Dados, ratificada por
+Dec. Do Presidente da República n° 21/93 de 9/7 in DR de 20/8/93 e art° 15° da Lei 10/91). Ou seja, não é possível o acesso de outras entidades (vg. Companhias de
+Seguros) à informação sem autorização expressa dos titulares.
+A Comissão Nacional de Protecção de Dados Pessoais Informatizados delibera autorizar , nos termos do art° 8° n°1 al. b), 17° n°2 e 18° da Lei 10/91, na redacção introduzida pela Lei 28/94 de 29 de Agosto, a manutenção do ficheiro automatizado, nos seguintes termos:
+1. Responsável : Hormofuncional - Centro de Hormonologia Funcional, Ld" com sede na
+Rua Martens Ferrão, n° 26, 2°
+- 1050 LISBOA 2. Características: Computador pessoal (em rede)
+3. Finalidade: Identificação de clientes, entidades requisitantes, gestão de custos e facturação, bem como o registo dos resultados dos exames/ análises efectuadas.
+4. Serviços encarregados do processamento da informação: da responsável.
+5. Dados pessoais registados : Nome, telefone, endereço, sexo, idade, nome do médico requisitante, exames requisitados, subsistema de saúde e respectivo número, resultados dos exames laboratoriais.
+Trata dados de saúde e, por isso, deve obter autorização dos titulares.
+6. Fundamento da recolha de dados: consentimento dos titulares.
+7. Recolha e actualização: directa, pessoal através do impresso de requisição (ARS,
+SNS).
+8. Apenas deverão ser comunicados os dados às entidades ou médicos requisitantes. Os resultados, em suporte papel, são normalmente entregues ao doente que se encarrega de os entregar ao médico requerente. Há comunicação de dados às entidades requisitantes, nomeadamente as indicadas no anexo.
+9. Não há relacionamento da informação.
+10. Não há fluxo transfronteiras de dados.
+11. Medidas de Segurança: Cópias de backup (segurança) dos dados, acesso restrito de pessoas. Deve a responsável adoptar uma password de acesso às informações.
+12. Tempo de conservação: 3 anos.
+13. Pessoas com acesso directo à informação: Recepcionista (só deve aceder aos dados pessoais e de facturação), técnicos e médicos (a toda a informação).
+Os funcionários administrativos só podem aceder aos dados de identificação, entidades requisitantes e dados contabilísticos (vg. custos de exames/ situação de pagamento).
+Rua de São Bento. n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS 14. Formas e condições de acesso: Por solicitação pessoal. O titular pode ainda, nos termos do art° 28 ° n°3 da Lei 10/91, indicar médico a quem poderão ser comunicadas os seus dados de saúde.
+15. Formas e condições de rectificação: Por solicitação pessoal, junto do responsável.
+EM CONCLUSAO :
+1. Os dados recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do ficheiro (cf. art° 12° n°1 da Lei 10/91), pelo que se autoriza a manutenção do ficheiro, nos termos especificados.
+2. Porque se trata de dados sensíveis (dados de saúde), enquadráveis na previsão do art° 11° nº1 al. b) da Lei 10/91 de 29 de Abril, na redacção da Lei 28/94 de 29 de Agosto, o tratamento automatizado só pode ser efectuado se o responsável obtiver - dos titulares dos dados - autorização para o tratamento daquela informação (cf. art° 11° n°3 e 17° n°2 dos referidos diplomas).
+3. Os dados administrativos e de identificação devem ser separados dos dados clínicos, sendo os dados clínicos (resultados das análises) de acesso restrito aos profissionais de saúde: analistas e técnicos de laboratório. Os funcionários administrativos não poderão, em nenhum caso, ter possibilidade de aceder à informação clínica.
+4. O responsável do ficheiro deverá tomar medidas rigorosas para tornar efectiva a confidencialidade, estabelecer níveis de acesso em função do tipo de dados e das funções desempenhadas. Os dados clínicos só poderão ser fornecidos à entidade requisitante, ao médico que os solicitou e, se o médico nada disse em contrário, ao titular dos dados.
+5. Os dados registados não poderão ser utilizados para finalidades diversas das determinantes da recolha (cf. art° 5° da Convenção de Protecção de Dados, ratificada por Dec. do Presidente da República n° 21/93 de 9/7 in D.R. de 20/08/93 e art° 15° da
+Lei 10/91).
+6. Deve ser adoptada - em termos de segurança - password de acesso aos dados. Os recepcionistas que não sejam profissionais de saúde não poderão aceder aos resultados das análises clínicas.
+Lisboa, 25 de Setembro de 1997 den
+Amadeu Francisco Guerra (relator)
+Rua de São Bento. n." 148. 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Joaquim de Seabra Lopes
+Nuno Albuquerque Morais Sarmento ro
+Luís José Durão Barroso
+-se 1.2T4
+João Alfredo M. Labeşcat da Silva
+Mário Manue Varges Gomes
+Augusto Victór Coelho (Presidente)
+Rua de São Bento. n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 931/2018
-official_date: null
+official_date: '2018-01-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FORUM ALGARVE - GESTÃO DE CENTROS COMERCIAIS, SOCIEDADE UNIPESSOAL LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T07:15:50Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 931/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/115175](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/115175).
+Processo n.° 20227/2017 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 931/2018 1 - Pedido
+FORUM ALGARVE - GESTAO DE CENTROS COMERCIAIS, SOCIEDADE UNIPESSOAL,
+LDA, NIPC n.º 505025396, vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de marketing.
+Os dados objeto de tratamento são os seguintes: nome (primeiro e último), contacto telefónico e código postal.
+A recolha dos dados é feita de forma direta, presencialmente.
+Não existe comunicação de dados a terceiros.
+Não se verificam interconexões de tratamentos nem fluxos internacionais de dados para países terceiros.
+O direito de acesso do titular dos dados poderá ser exercido presencialmente no endereço
+EN 125 - KM 103, 8009-020 Faro.
+No formulário de notificação não estão indicadas quaisquer medidas de segurança a implementar.
+A requerente propõe-se conservar os dados pelo período de três meses.
+2 - Análise
+Os dados são tratados com o consentimento do seu titular, pelo que a CNPD considera que existe legitimidade para o tratamento (cf. artigo 6.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015 de 24 de agosto - LPDP).
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação às finalidades do tratamento (cf. alínea c) do n.º1 do artigo 5° da LPDP).
+No momento da recolha ou da atualização dos dados existentes deve ser assegurado direito de informação nos termos previstos no artigo 10.° da LPDP. Durante o período de conservação dos dados deve ser garantido o exercício dos direitos de retificação e de eliminação, consignados na alínea d) do artigo 11.° da LPDP.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 20227/2017 1v.
+Relativamente aos prazos máximos de conservação de dados, atento o disposto na alínea e) do n.º 1 do artigo 5.° da LPDP, devem os dados pessoais ser conservados apenas durante o periodo necessário para a prossecução das finalidades da recolha e do tratamento posterior, pelo que se entende o prazo pretendido como adequado.
+Devem ser salvaguardadas as regras de segurança adequadas, cabendo à responsável assegurar o resultado da efetiva segurança da informação e dos dados pessoais tratados, nomeadamente contra a destruição, alteração ou acesso não autorizado, nos termos do artigo 14.° da LPDP. Todavia, independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar a segurança da informação e dos dados tratados.
+Importa ainda fazer consignar que o titular dos dados tem legitimidade para se opor a que os seus dados sejam utilizados para efeitos de marketing pelo responsável pelo tratamento ou por terceiros a quem este os comunique com tal objetivo (cf. artigo 12°, alínea b), da LPDP), e nos temos o artigo 13.°-A da Lei n.º 41/2004, de 18 de agosto, alterada pela Lei n.° 46/2012, de 29 de agosto, quando em causa esteja a utilização de comunicações eletrónicas, devendo o impresso de recolha de dados estar preparado para consignar esse direito de oposição.
+3 - Conclusão
+Assim, nos termos das disposições conjugadas dos artigos 6.°, 9.° n.° 2, 28.° n.º1, alínea c)
+e 30.° da LPDP, a Comissão Nacional de Protecção de Dados autoriza o tratamento de dados pessoais supra apreciado, nos seguintes termos:
+Responsável pelo tratamento: FORUM ALGARVE - GESTÃO DE CENTROS
+COMERCIAIS, SOCIEDADE UNIPESSOAL, LDA
+Finalidade do tratamento: marketing
+Categorias de dados pessoais tratados: nome (primeiro e último), contacto telefónico e código postal.
+Comunicação de dados a terceiros: não se verifica
+Interconexões de dados pessoais: não se verificam
+Transferência de dados para países terceiros: não há
+
+Processo n.º 20227/2017 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Forma de exercício do direito de acesso e retificação: presencialmente no endereço EN 125
+- KM 103, 8009-020 Faro
+Prazo de conservação dos dados: pelo prazo de 3 meses.
+Lisboa, 23 de janeiro de 2018
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

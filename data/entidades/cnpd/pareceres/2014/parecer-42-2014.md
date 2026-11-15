@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 42/2014
-official_date: null
+official_date: '2014-06-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO-GERAL DOS ASSUNTOS EUROPEUS - MNE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:02:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 42/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/65610](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/65610).
+Proc. 7033/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.º42 /2014
+A) PEDIDO
+A Direção de Serviços dos Assuntos Jurídicos da Direção- Geral dos Assuntos Europeus (DGAE) solicitou à Comissão Nacional de Protecção de Dados (CNPD) o seu parecer sobre o Acordo de Cooperação entre a União Europeia e seus Estados-Membros, por um lado, e a Confederação Suíça, por outro, sobre os programas europeus de navegação por satélite, acordo esse que foi assinado no dia 18 de dezembro de 2013 e negociado no âmbito da UE pelo MNE e ministérios sectoriais abrangidos pela matéria nele em causa (Acordo).
+Tal parecer, porque o Acordo poderia conter matéria de proteção de dados pessoais, por força do Artigo 23.° - 1 - a) da Lei 67/98, de 26 de outubro, é obrigatório.
+Cumpre assim emitir parecer.
+B) APRECIAÇÃO 1) O principal objetivo do Acordo é o reforço da cooperação entre as Partes, União
+Europeia e a Suíça, completando as disposições do Acordo sobre o Espaço Económico
+Europeu aplicáveis à navegação por satélite atenta a evolução em termos de governação, propriedade e financiamento dos Programas do Sistema Global de Navegação por
+Satélite (GNSS) europeus por força do Regulamento (CE) n.º 1321/2004, do Conselho, de 12 de Julho, relativo às estruturas de gestão dos programas europeus de radionavegação por satélite (1), das suas alterações e do Regulamento (CE) n.º 683/2008, do Parlamento
+Europeu e do Conselho, de 9 de Julho, relativo ao prosseguimento da execução dos programas europeus de navegação por satélite (EGNO e Galileo).
+2) Embora a tecnologia de navegação por satélite possa ter implicações em termos de proteção de dados pessoais já que a localização e evolução no espaço e no tempo de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS uma pessoa singular é direta ou indiretamente um dado pessoal, no presente Acordo não se suscitam imediatamente questões de dados pessoais.
+3) Todos os tratamentos de dados pessoais que venham a ser realizados no âmbito destes sistemas deverão ser notificados à CNPD.
+D) CONCLUSÃO
+E este o parecer da CNPD.
+Lisboa, 3 de junho de 2014 4o2
+Luís Barroso (O Vogal em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

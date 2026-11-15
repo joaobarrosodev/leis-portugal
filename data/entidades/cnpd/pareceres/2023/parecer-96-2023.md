@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 96/2023
-official_date: null
+official_date: '2023-11-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Ministério dos Negócios Estrangeiros (MNE)'
-- 'Texto incompleto: 1 de 3 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,8 +70,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:49:57Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
@@ -100,3 +99,21 @@ b. No que se refere às normas consagradas no artigo 6.º, n.º s 1 e 2, alínea
 Schrems II).
 11. Quanto à cooperação judiciária e jurídica, prevista no artigo 23.º do Acordo, há a salientar, relativamente à estatuição do seu n.º 3, que nas situações aí previstas, em cumprimento de acordos de cooperação e assistência mútua atualmente em vigor, as normas de proteção de dados têm que ser respeitadas, ainda que tal implique a revisão desses instrumentos.
 12. Parecendo revestir-se este Acordo de caraterísticas próximas de um acordo-quadro, entende a CNPD não ser este o instrumento adequado para regular, quando aplicável, os tratamentos de dados pessoais que resultem da sua execução.
+
+PAR/2023/93 2
+CNPD
+Comissão Nacional de Proteção de Dados 13. No entanto, sendo Portugal parte neste Acordo, enquanto Estado-Membro da União, está obrigado ao cumprimento das normas nacionais e europeias em matéria de proteção de dados, em particular no que diz respeito às transferências internacionais de dados para um país terceiro, que não assegure um nível de proteção adequado.
+14. Deste modo, entende a CNPD que a materialização de ações de cooperação ao abrigo deste Acordo, que impliquem o tratamento de dados pessoais, tem imprescindivelmente de ser regulada através de acordos específicos bilaterais ou multilaterais, que contenham todas as disposições necessárias sobre proteção de dados pessoais.
+15. Tais acordos deverão ser submetidos à apreciação da CNPD, sejam eles negociados bilateralmente ou através da União.
+Aprovado na reunião de 14 de novembro de 2023
+Paula Meira Lourenço (Presidente)
+Assinado por: PAULA CRISTINA MEIRA LOURENÇO
+Data: 2023.11.14 20:38:51+00'00'
+Certificado por: Diário da República Eletrónico
+Atributos certificados: Presidente - Comissão Nacional de Proteção de Dados
+G
+CARTÃO DE CIDADÃO
+....
+Av. D. Carlos I, 134, 1° 1200-651 Lisboa
+T (+351) 213 928 400
+F (+351) 213976 832 geral@cnpd.pt www.cnpd.pt

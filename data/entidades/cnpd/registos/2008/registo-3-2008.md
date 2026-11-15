@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3/2008
-official_date: null
+official_date: '2008-01-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CAPGEMINI PORTUGAL, SERVIÇOS DE CONSULTORIA E INFORMÁTICA SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 3/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1079](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1079).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 3687/06
+Registo n° 3/08
+Capgemini Portugal, Serviços de Consultoria e Informática, SA notificou um tratamento de dados pessoais com a finalidade gestão de marketing.
+Declara as seguintes categorias de dados pessoais: Nome, endereço de e-mail e informações relativas às respostas do questionário sobre a capacidade de execução do sector empresarial em Portugal.
+Os dados são recolhidos directamente por telefone e na Internet..
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.° 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Capgemini Portugal, Serviços de Consultoria e Informática, SA
+Categoria de dados pessoais tratados - Nome, endereço de e-mail e informações relativas às respostas do questionário sobre a capacidade de execução do sector empresarial em Portugal.
+Finalidade - gestão de marketing.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável.
+Comunicação de dados - Não há.
+Interconexões - Não há
+Fluxo transfronteiriço de dados - Não há.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, incluindo as formas de exercício dos direitos.
+Porque a finalidade é marketing, deve o responsável, no momento da recolha, garantir ao titular a possibilidade de se opor à utilização dos seus dados para essa finalidade, nos termos da al. b) do art° 12°.
+Lisboa, 03 de Janeiro de 2008
+A Secretária da CNPD
+Tables
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

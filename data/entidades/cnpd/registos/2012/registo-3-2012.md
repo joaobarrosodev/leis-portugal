@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ESPIRITO SANTO INFORMÁTICA, ACE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:05:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 3/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40150](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40150).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 8849/2009
+REGISTO N.ºO3/2012
+Espírito Santo Informática, ACE notificou um tratamento de dados pessoais com a finalidade de gestão de cartão de fidelização Rede+.
+O cartão não é um cartão bancário, sendo apenas um cartão de fidelização das empresas aderentes.
+O fundamento de legitimidade é o cumprimento de obrigação contratual, previsto na alínea a)
+do artigo 6° da LPD.
+Assim, regista-se ao abrigo dos artigos 27.° n.º 1 e 30.° n.° 1.° da Lei 67/98, de 26 de
+Outubro nos seguintes termos:
+Responsável
+Espírito Santo Informática, ACE
+Finalidade
+Gestão de cartão de fidelização Rede+.
+Categoria de dados pessoais tratados
+Nome, sexo, nif, data de nascimento, morada, telefone, telemóvel e e-mail
+Forma de exercício do direito de acesso e rectificação
+Por solicitação escrita ao responsável
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados para paises terceiros
+Não há
+Conservação dos dados
+Um ano após o fim da qualidade de aderente ao cartão.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de Outubro.
+Não se autoriza a utilização dos dados pelas sociedades direta ou indiretamente dominadas pelo BES, controladas ou participadas e as sociedades que se incluam no seu perímetro de supervisão ou que consigo se consolidem para efeitos contabilísticos, sempre que o titular tenha exercido o direito de oposição ao tratamento dos seus dados para fins promocionais.
+Lisboa, 2/1/2012
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

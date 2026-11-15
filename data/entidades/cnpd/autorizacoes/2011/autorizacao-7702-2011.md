@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7702/2011
-official_date: null
+official_date: '2011-07-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Boehringer Ingelheim Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,73 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:18:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7702/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34419](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34419).
+1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 10351/2011
+AUTORIZAÇÃO N.° 7702/201
+Boehringer Ingelheim Lda, veio notificar a esta CNPD um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico e com o objectivo de avaliar a eficácia de medicamentos de uso humano no tratamento de doentes com
+Doença Pulmonar Obstrutiva Crónica. (Protocolo BI 1237.5).
+Associado a este ensaio está um sub-estudo farmacogenético.
+Irata-se de um «ensaio aleatorizado, em dupla ocultação, grupos paralelos..» que tem como objectivo «determinar a segurança e eficácia de medicamento de investigação chamado "tiotrópio+olodaterol" quando tomado por um longo período de tempo em doentes com DPOC».
+O sub-estudo farmacogenético pretende «..examinar o efeito das características genéticas sobre o modo como o organismo interage com os medicamentos».
+As categorias de dados são as seguintes: Número de participante no estudo, iniciais do nome, país de origem, data de nascimento, sexo, raça, história clínica e dados recolhidos ao longo do estudo, medicação, resultados de meios complementares de diagnóstico e terapêutica, informação genética, amostras, dados relativos a hábitos da vida privada e actividade profissional dos participantes no estudo que possam ter implicações/influência no seu estado de saúde e nome do investigador.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A recolha do dado raça prende-se «.com o facto de existir evidência científica de que a eficácia, segurança/tolerabilidade e farmacocinética/farmacodinâmica de um determinado composto podem variar consideravelmente entre diferentes raças/etnias. Os efeitos de certos fármacos são expressos de forma diferente consoante a origem racial dos doentes. No caso dos ensaios clínicos na área respiratória, existem diversas correcções que poderão ser feitas de forma a ter em conta a variação dos volumes pulmonares. Países como o Japão estão interessados em conhecer a população asiática que participa num determinado ensaio clínico, uma vez que é comummente aceite na comunidade científica que existem diferenças significativas entre raças, no que diz respeito à absorção, distribuição, metabolismo e excreção dos fármacos. Adicionalmente, estes dados possibilitarão recolha de informação importante quando cruzados com a análise farmacogenética a efectuar durante os estudos».
+Assim sendo, atentos os referidos argumentos que apontam para a necessidade da recolha do dado "raça" para aferir o perfil de segurança e de eficácia em função destes elementos, admite-se a recolha deste dado por se revelar adequado, pertinente e não excessivo face à finalidade.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular para o estudo principal e para o sub-estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.º, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.°67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Boehringer Ingelheim Ida.
+Finalidade: gestão de ensaio clínico e com o objectivo de avaliar a eficácia de medicamentos de uso humano no tratamento de doentes com Doença Pulmonar Obstrutiva
+Crónica. (Protocolo BI 1237.5). Associado a este ensaio está um sub-estudo farmacogenético.
+Categoria de Dados Pessoais tratados: Número de participante no estudo, iniciais do nome, país de origem, data de nascimento, sexo, raça, história clínica e dados recolhidos ao longo do estudo, medicação, resultados de meios complementares de diagnóstico e terapêutica, informação genética, amostras, dados relativos a hábitos da
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS vida privada e actividade profissional dos participantes no estudo que possam ter implicações/influência no seu estado de saúde e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do DL 176/2006, 30 de Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007 e presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 21 de Julho de 2011
+Ana Roque (Vogal Relatora)
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

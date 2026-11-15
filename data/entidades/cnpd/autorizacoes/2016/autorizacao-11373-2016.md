@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Banco de Investimento Imobiliário, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T12:21:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11373/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/97463](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/97463).
+Processo n.º 14685/2016 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 11373 201%
+Banco de Investimento Imobiliário,S.A., notificou à CNPD um tratamento de dados relativo à operação de cessão de créditos tendo como cessionária a LX Investment
+Parteners S.à rl, com sede em 63-65, Rue de Merl, L - 2146 Luxembourg.
+Companhia IBM Portuguesa, S.A., é a entidade subcontratada para o processamento da informação.
+A referida transação poderá envolver uma transmissão de dados pessoais do devedor e dos garantes. As informações supra referidas são entregues à cessionária, em suporte digital ou por outros meios similares disponíveis, comprometendo-se esta entidade a apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão.
+A cedência de dados é feita no âmbito de um contrato, nos termos do artigo 577.° do
+Código Civil (CC). Por força do n.º1 do referido artigo 577.° a cessão de crédito é admissível independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros direitos acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.° 1 do artigo 582.° do CC)
+Os dados objeto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no artigo 78.° do DL 298/92, de 31 de Dezembro. Enquadram-se, por isso, no conceito de vida privada do n.º 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto (LPD).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é a disposição legal prevista no n.º 2 do artigo 7.° da
+LPD.
+O responsável deverá assegurar que o titular obteve as informações previstas no artigo 10.° da LPD, designadamente que a cessionária é destinatária da informação e a finalidade da comunicação. Deve, de igual modo, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. Ainda no âmbito das
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 14685/2016 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização de auditorias internas e externas. Devem, também, ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direção, a outros técnicos obrigados a segredo profissional. No que diz respeito aos dados contidos em suporte de papel, devem ser adotadas medidas, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos da alínea b) do n.° 1 do artigo 23.° e da alínea b) do n.º1 do artigo 28.°, ambos da LPD, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.º da LPD, o seguinte:
+Responsável: Banco de Investimento Imobiliário, S.A.
+Categorias de dados pessoais tratados: (relativos à identidade do cliente e do cônjuge) -
+Nome, sexo, nacionalidade, morada, e-mail, contactos telefónicos, localização para contacto, estado civil, NIF, número de cartão de cidadão/BI, situação profissional, entidade empregadora/pagadora, domicílio profissional, NIB, número de cliente, informação sobre os eventuais processos judiciais e processos e diligências prejudiciais referentes aos créditos cedidos
+Finalidade: Cessão de créditos
+Entidade a quem são comunicados: LX Investment Parteners S.à rl, com sede em 63-65, Rue de Merl, L - 2146 Luxembourg
+Forma de exercício do direito de acesso e retificação: Por escrito para a seguinte morada: Rua Augusta, 84, Lisboa
+Eventuais interconexões: Não aplicável
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 14685/2016 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Transferência de dados para países terceiros: Não aplicável
+Prazo de conservação dos dados: Um mês após fim das obrigações decorrentes do contrato de mútuo, sem prejuizo da conservação dos dados necessários para fins fiscais, pelo prazo de 10 anos.
+Lisboa, 25 de andro de 2o16 que
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

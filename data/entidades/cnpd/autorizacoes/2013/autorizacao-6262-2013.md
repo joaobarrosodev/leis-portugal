@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6262/2013
-official_date: null
+official_date: '2013-09-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ACE EUROPEAN GROUP LIMITED - SUCURSAL EM PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:50:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6262/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56787](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56787).
+Proc. n° 3797/2012 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Autorização n.º 6262/2013
+A ACE European Group Limited, Sucursal em Portugal, notificou um tratamento de dados pessoais com a finalidade de gestão de mediadores de seguros.
+Declarou recolher os seguintes dados pessoais: Nome, tipo de identificação, número de identificação, nacionalidade, morada, telefone, endereço eletrónico, n° de inscrição no registo do Instituto de Seguros de Portugal, valor das comissões de mediação pagas, eventuais contraordenações ou infrações penais cometidas no exercício da atividade.
+Os dados são recolhidos presencialmente, por telefone, por impresso e na Internet.
+Os dados recolhidos são pertinentes e não excessivos face à finalidade declarada, obedecendo ao artigo 5.° da Lei n.º 67/98, de 26 de outubro (LPD).
+O fundamento de legitimidade decorre do contrato estabelecido entre a entidade e o mediador (cf. alínea a) do artigo 6.° da LPD). No que respeita aos dados relativos a contraordenações e decisões que apliquem coimas ou penas, considera-se que são necessários à execução das finalidades legítimas do responsável (cf. n.º 2 do artigo 8.° da LPD) e que, no caso, não há restrição desmesurada dos direitos, liberdades e garantias dos seus titulares.
+As medidas de segurança da informação devem respeitar o disposto no artigo 15.° da
+LPD.
+No que respeita ao prazo máximo de conservação dos dados, o responsável declarou que corresponderia " ao tempo necessário para o cumprimento das obrigações legais e contratuais". Assim, em obediência ao disposto na alínea e) do artigo 5.° da LPD, fixa-se, por referência ao prazo de conservação dos documentos para efeitos fiscais e de acordo com a legislação comercial, o prazo de 10 anos após o fim da relação contratual.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n° 3797/2012 | 2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Em face do exposto, nos termos da alínea b) do n.º 1 do artigo 23.° e da alínea b) do n.º1 do artigo 28.° da LPD, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da LPD, o seguinte:
+Responsável: ACE European Group Limited, Sucursal em Portugal
+Categorias de dados pessoais tratados: Nome, tipo de identificação, número de identificação, nacionalidade, morada, telefone, endereço eletrónico, n° de inscrição no registo do Instituto de Seguros de Portugal, valor das comissões de mediação pagas, eventuais contraordenações ou infrações penais cometidas no exercício da atividade.
+Finalidade: Gestão de mediadores de seguros
+Comunicações de dados pessoais: Não há
+Forma de exercício do direito de acesso e retificação: Presencialmente e por escrito na Quinta da Fonte, Edifício D. Manuel I, Piso3, 2770-071 Paço de Arcos
+Eventuais interconexões: Não há.
+Transferência de dados para países terceiros: Não há
+Prazo de conservação dos dados:
+- 10 anos após o fim da relação contratual;
+- Infrações penais e contraordenações: o prazo de prescrição das sanções.
+Lisboa, 3 de Setembro de 2013
+Ana Roque, Helena Delgado António, Vasco Almeida (Relator)
+Fifipa Calvão, Presidente
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SANOFI AVENTIS - PRODUTOS FARMACÊUTICOS, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:23:03Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1613/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6570](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6570).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 4610/08
+AUTORIZAÇÃO N.º (613 12008
+A Sanofi Aventis- Produtos Farmacêuticos, SA veio notificar à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo com o objectivo de fornecer uma estimativa de perturbações bipolares em doentes com diagnóstico de episódios depressivos major.
+A Syliastat, com sede em França, será a entidade encarregue pelo processamento da informação.
+Aos doentes que reúnam os critérios de inclusão no estudo, será solicitado, pelo seu médico assistente participante, no âmbito da consulta, o consentimento para a sua participação no estudo e consequente recolha de dados pessoais.
+As declarações de consentimento são guardadas pelo médico investigador.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação é apenas conhecida do médico.
+As categorias de dados recolhidos são as seguintes: código do doente, iniciais do nome do doente, data da visita, diagnóstico psiquiátrico actual, estado civil, ambulatório/hospitalizado, história clínica, história de episódios, duração, sintomas depressivos actuais, co-mobilidades psiquiátricas, avaliação global de funcionamento, tratamento actual, evolução da doença e escala de auto-avaliação de hipomania.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+Rua de São Bento. 148 - 3° — 1200-821 LISBOA — Telefone: 213 928 400 - Fav• 113 076 920
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O fundamento de legitimidade será o consentimento do titular dos dados. No entanto, dada a natureza da patologia dos doentes objecto do estudo, o médico investigador deverá aferir as condições concretas de capacidade do doente no momento da prestação do direito de informação e obtenção do consentimento. Caso o doente esteja judicialmente interditado, o consentimento terá de ser prestado pelo representante legal do doente.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Sanofi Aventis- Produtos Farmacêuticos, SA
+Finalidade: estudo com o objectivo de fornecer uma estimativa de perturbações bipolares em doentes com diagnóstico de episódios depressivos major.
+Categoria de Dados pessoais tratados: código do doente, iniciais do nome do doente, data da visita, diagnóstico psiquiátrico actual, estado civil, ambulatório/hospitalizado, história clínica, história de episódios, duração, sintomas depressivos actuais, co-mobilidades psiquiátricas, avaliação global de funcionamento, tratamento actual, evolução da doença e escala de auto-avaliação de hipomania
+Entidades a quem podem ser comunicados: Não há
+Formas de exercício do direito de acesso e rectificação: junto do médico investigador.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente, porque permite tornar os dados identificados, deve ser destruído após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa 24 de gullo de 2008
+Ana Roque(Relatora)
+Carlos Campos Lobo
+Eduardo Campos
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

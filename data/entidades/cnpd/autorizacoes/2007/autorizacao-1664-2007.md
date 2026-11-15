@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1664/2007
-official_date: null
+official_date: '2007-09-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL DA HORTA - SERVIÇO DE NEFROLOGIA E HEMODIÁLISE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:11:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1664/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1610](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1610).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc° 2529/2005 166Y
+AUTORIZAÇÃO N° 107 1) Pedido
+O Hospital da Horta vem notificar o respectivo Sistema de Apoio à Farmácia.
+O tratamento baseia-se em "software" desenvolvido pelo IGIF, com base no qual as prescrições produzidas pelos médicos são transmitidas em tempo real à farmácia que, depois de preparar os medicamentos prescritos, os envia à enfermaria.
+Os dados pessoais tratados são dados de identificação do doente, bem como dados de saúde e do sistema de saúde a ele reportados.
+Como fundamentos de legitimidade apontam-se, além da protecção de interesses vitais dos titulares, o cumprimento de obrigações legais e a execução de missão de interesse público.
+Não existe comunicação de dados, nem tão-pouco interconexão ou fluxos transfronteiras.
+Os dados serão conservados nos termos da Portaria n° 247/2000, de 8 de Maio.
+Os titulares dos dados podem rectificar os seus dados de identificação por contacto directo com os serviços.
+No tocante aos dados de saúde, poderão ter acesso aos mesmos por intermédio de médico por eles escolhido.
+Como medidas de segurança, apontam-se o acesso restrito de pessoas, a utilização de palavras-chave e de cópias de "back-up".
+2) Apreciação
+Os dados em causa são recolhidos para finalidades determinadas, explicitas e legitimas (Lei n° 67/98, de 26 de Outubro, artigo 5°, n° 1, al. b).
+Revelam-se, ademais, adequados, pertinentes e não excessivos (ibidem, al. c).
+Os dados tratados são, em parte, dados sensíveis, na acepção do artigo 7°, n° 1 da Lei n° 67/98.
+A legitimidade para o respectivo tratamento resulta do teor do n° 4 do mesmo artigo 7°: estão em causa dados de saúde, necessários para efeitos de prestação de cuidados ou tratamentos médicos.
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Cabe explicitar que, nos termos do referido n° 4 do artigo 7°, o tratamento dos dados de saúde em questão terá de ser efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa igualmente sujeita a segredo profissional.
+Acresce que as medidas de segurança indicadas se apresentam adequadas à natureza dos dados de saúde objecto do tratamento e à índole deste.
+Quanto aos dados de identificação, pode considerar-se que, como instrumentais dos de saúde, estão legitimados pelo mesmo preceito.
+Mesmo que assim se não entendesse, sempre estariam legitimados pelo artigo 6° al e) da Lei em causa: "prossecução de interesses legítimos do responsável pelo tratamento".
+O prazo de conservação previsto corresponde ao regime legal vigente para os dados de saúde.
+3) Conclusão
+Face ao exposto, e nos termos dos artigos 7°, n° 4 e 29º da Lei n° 67/98, a CNPD emite a seguinte autorização:
+a) Responsável
+Hospital da Horta b) Finalidade
+Sistema de apoio à farmácia do Hospital c) Dados recolhidos
+Dados de identificação dos doentes; dados de saúde; dados respeitantes ao sistema de saúde d) Legitimidade do tratamento
+Execução de missão de interesse público e) Comunicação de dados, interconexões ou fluxos transfronteiras
+Não há f) Tempo de conservação
+Nos termos da Portaria n° 247/2000, de 8 de Maio g) Forma de acesso aos dados
+Junto dos serviços administrativos, relativamente aos de identificação; quanto aos de saúde, através de médico escolhido pelo titular.
+Lisboa, 17 de Setembro de 2007
+Luís Lingnau da Silveira (Presidente e relator)
+Rua de São Bento. 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Luis Barroso'
+Eduardo Campos
+Ana Roque
+Carlos Lebo
+Helena António
+Varentlmeida
+Vasco Almeida
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

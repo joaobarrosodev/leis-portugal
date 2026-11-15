@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 947/2010
-official_date: null
+official_date: '2010-03-08'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: POLICLÍNICA DE S. BRÁS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:47:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 947/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21967](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21967).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.º 6178/2008
+AUTORIZAÇÃO N° 14/1 2010
+I. O pedido 1. A Policlínica de S. Brás, Lda no âmbito do software MedicineOne, que possibilita o registo e interligação de toda a informação relacionada com um episódio clínico e o acompanhamento das diferentes acções em todos os sectores e etapas de atendimento do utente, notificou um tratamento de dados pessoais, com a finalidade de gestão do processo clínico.
+O software MedicineOne é composto de vários módulos que permitem as seguintes operações:
+1. Registo dos dados administrativos do utente;
+2. Registo da actividade clínica relacionada com cada episódio;
+3. Prescrição medicamentosa electrónica;
+4. Requisição de meios complementares de diagnóstico;
+5. Registo dos actos de enfermagem;
+6. Vacinações;
+7. Facturação dos serviços disponibilizados;
+8. Gestão de listas de espera;
+9. Estatísticas.
+Os dados pessoais registados são: Nome, n.º do processo, n.º de utente, subsistema de saúde, médico assistente, contactos, naturalidade, filiação, BI, sexo, data de nascimento, estrutura familiar, parentesco, data de inscrição, regime de isenção, marcações de consultas, episódios, dados antropométricos, história clínica, diagnóstico, prognóstico, referenciação a especialidades, baixas, actos de enfermagem, dados dos MCDT's, medicamentos prescritos, identificação do prescritor, código do local de prescrição e dados da receita (número da receita, data da prescrição, tipo de receita - renovável/ não renovável) - regime especial de comparticipação, plano vacinal, e acções de educação e ensino em saúde.
+Para além dos dados administrativos e clínicos, é recolhida a fotografia do utente
+Ao nível da segurança importa salientar que o software faz o reconhecimento dos utilizadores do sistema através de impressão digital.
+O sistema faz a recolha óptica da impressão digital do utilizador a registar, guardando essa informação encriptada, numa base de dados de utilizadores, em template.
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Estão definidos diferentes perfis de utilizadores e níveis de acesso à informação.
+Cada acto de prescrição é enviado ao IGIF, através da rede privada multimédia do Ministério da Saúde, em ficheiro XML, para integração no Sistema de Conferência de Facturas de
+Medicamentos. Não são enviados dados pessoais dos doentes.
+II. Apreciação juridica
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. artigo 5.° n.º 1 al. c) da Lei 67/98). Os dados biométricos, fotografia e impressões digitais, serão objecto de apreciação autónoma
+O tratamento de dados de saúde é realizado para fins de «medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde» (cf. artigo 7.° n.º 4 da Lei 67/98, de 26 de Outubro). Ao mesmo tempo, e tal como resulta do mesmo preceito, o tratamento desses dados é efectuado «por um profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional».
+O responsável deverá, ainda, assegurar que:
+• A informação não será utilizada para finalidades diversas das declaradas. Ou seja, não poderá ser utilizada para finalidade diversa da indicada no artigo 7.° n.º 4 da Lei 67/98.
+• São adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+• A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7.° n.° 4).
+Aos titulares dos dados deve ser garantido o direito de informação e acesso aos seus dados, nos termos do artigo 10.° e 11.° n.º 5 da lei 67/98);
+III. Apreciação jurídica em relação ao tratamento de dados biométricos
+Em relação ao tratamento da fotografia admite-se que a sua recolha e subsequente processamento seja útil ao profissional de saúde no âmbito do acompanhamento e prestação de cuidados de saúde. Embora se possa admitir que este dado não é imprescindível à finalidade, não se pode considerar que o mesmo é excessivo e não pertinente à luz do artigo 5.° n.° 1 alínea c) da Lei 67/98.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, a CNPD admite que a fotografia seja tratada desde que - depois de assegurada uma informação sobre as finalidades - seja obtido o consentimento expresso do titular (cf.
+artigo 7.°, n.°2 da Lei 67/98).
+Esta informação não pode ser utilizada para outra finalidade ou cedida a terceiros (cf. artigo 5.° n.º 1 al. b) da Lei 67/98, de 26 de Outubro.
+Um outro problema que este tratamento suscita prende-se com o facto de a identificação dos utilizadores se fazer através de impressão digital. É inegável que este sistema de autenticação do utilizador confere uma especial segurança à aplicação informática, impedindo que pessoas não autorizadas acedam aos dados de saúde.
+O responsável garante que não é possível a reversão do processo de encriptação da impressão digital
+O tratamento de dados biométricos, porque estamos perante dados pessoais, deve respeitar todas as condições estabelecidas na Lei 67/98.
+No caso em apreço a finalidade do tratamento permite garantir uma maior confidencialidade aos registos clínicos e identificar os respectivos utilizadores perante o sistema. Com esta tecnologia fica reforçada a segurança do sistema.
+Embora advoguemos, preferencialmente, o armazenamento do template da impressão digital em cartão ou no próprio equipamento, verifica-se, em face da forma como é prestado o trabalho (em que os profissionais de saúde podem exercer funções em vários locais distintos), que esta opção se apresenta de difícil concretização.
+Num «balanceamento» dos interesses em presença - dos utilizadores do sistema, do responsável do tratamento e, porque não, dos doentes (que vêem a sua informação preservada contra riscos de acesso indevido) - considera a CNPD que o tratamento da impressão digital, da forma e para a finalidade delineada, não apresenta riscos para os utilizadores que possam sobrepor-se aos interesses legítimos do responsável (artigo 6.° alínea e) da Lei 67/98).
+Ainda quanto à segurança da informação, deve o responsável pelo tratamento adoptar regras de procedimento interno, de forma a analisar periodicamente os registos de acesso (logs), para garantir que os acessos à informação se efectuam de acordo com os princípios da necessidade e pertinência. Os relatórios de análise devem ser conservados para efeitos de auditoria da
+CNPD no exercício das suas competências.
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Alerta-se o responsável que independentemente das medidas de segurança adoptadas, é si que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+III. Decisão
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 27°, n.ºs1 e 4, alínea a) e 30° da Lei n.° 67/98, de 26 de Outubro, e as condições e limites supra fixados regista-se o tratamento de dados pessoais nos seguintes termos:
+1. Responsável: Policlínica de S. Brás, Lda 2. Categorias de dados pessoais tratados: Nome, n.º do processo, n.º de utente, subsistema de saúde, médico assistente, contactos, naturalidade, filiação, BI, sexo, data de nascimento, estrutura familiar, parentesco, data de inscrição, regime de isenção, marcações de consultas, episódios, dados antropométricos, história clínica, diagnóstico, prognóstico, referenciação a especialidades, baixas, actos de enfermagem, dados dos MCDT's, dados sobre os medicamentos prescritos, identificação do prescritor, código do local de prescrição e dados da receita (número da receita, data da prescrição, tipo de receita - renovável/ não renovável) -regime especial de comparticipação, plano vacinal, e acções de educação e ensino em saúde 3. Finalidade: gestão do processo clínico.
+4. Entidades a quem podem ser transmitidos: IGIF, no âmbito do Sistema de Conferência de
+Facturas de Medicamentos;
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita ou pessoal.
+Lisboa, 8 de Março de 2010
+Ana Roque, Carlos Campos Lobo, Helena Delgado António, Luís Barroso(Relator), Vasco
+Almeida, Luís Paiva de Andrade
+Luis Lingnau da Silveira (Presidente)

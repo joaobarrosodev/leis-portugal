@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIMAS GRAÇA, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:27:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 817/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2646](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2646).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 1790/07
+Autorização n°8/7/2007 1. Dimas Graça, LDA., sociedade comercial por quotas, vem proceder à notificação do tratamento que tem como finalidade a gestão dos registos administrativos e clínicos dos seus clientes, relativos a controlo e caracterização da acuidade visual e histórico das compras e gestão de pagamentos. O titular dos dados pode aceder à informação de forma pessoal e directa ou mediante solicitação por escrito.
+2. A Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais. Em relação ao tratamento de dados de saúde admite o artigo 7.°, n.° 2, o seu tratamento quando o titular dê o seu consentimento expresso e desde que sejam garantidas medidas adequadas de segurança da informação.
+A informação tratada é recolhida de forma lícita (art. 5.° n.º 1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (art. 5.° n.° 1 al. b).
+A CNPD considera que existe legitimidade para o tratamento destes dados -por força do artigo 7.° da Lei 67/98, de 26 de Outubro - na medida em que o titular dos dados dê o seu consentimento e devendo ser tratados em separado os dados administrativos e os dados clínicos. Em face do exposto a CNPD autoriza o tratamento relativo aos registos administrativos e clínicos de doentes, nos termos do artigo 30.° da Lei 67/98, consignando o seguinte:
+1. Responsável: Dimas Graça, LDA.
+2. Categorias de dados pessoais tratados: nome, morada, data de nascimento, ficha técnica com dados sobre a visão, dados relativos a compras.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3. Finalidade: Gestão de registos administrativos e clínicos dos clientes.
+4. Comunicação de dados: não existe.
+5. Forma de exercício do direito de acesso e rectificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.°.
+6. Não há interconexão de dados.
+7. Não há transferência de dados para países terceiros.
+8. Conservação dos dados: dentro dos limites temporais consagrados na lei para dados de saúde.
+Lisboa, de Maio de 2007.
+Ana Roque (Relatora)
+Carlos Corpos Lobo
+Luís Barroso
+Helena Delgado António
+Eduardo Campos
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
