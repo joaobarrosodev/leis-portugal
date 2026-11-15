@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7931/2014
-official_date: null
+official_date: '2014-09-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Zurich Companhia de Seguros Vida SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T20:29:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7931/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/68256](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/68256).
+Proc. n.º 12039/2013 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 793| 12014
+A Zurich Companhia de Seguros Vida S.A., notificou um tratamento de dados pessoais com a finalidade de gestão das comunicações internas de atos de gestão financeira irregular (Linhas de Ética).
+A GCS Compliance Services Europe Limited, com sede na Irlanda; a Zurich Insurance
+Company Ltd., com sede na Suiça; a Deutscher Herold Aktiengesellschaft, com sede na Alemanha; a Plurimarketing S.A. (teleperformance), com sede em Portugal, a
+Transatlantic Translations (dba LangCommLive), com sede em Inglaterra são as entidades encarregadas do processamento da informação. Estas devem encontrar-se vinculadas à entidade responsável pelo tratamento por via de subcontratação, nos termos dos artigos 14.° e 16.° da Lei n.° 67/98, de 26 de outubro (LPD).
+A CNPD já se pronunciou na Deliberação n.º 765/20091 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da lei em matéria de proteção de dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade. Nessa Deliberação fixou que só podem ser objeto de tratamento os procedimentos de controlo interno de denúncia de infrações destinados a prevenir e/ou a reprimir irregularidades no seio da sociedade no domínio da contabilidade, dos controlos contabilísticos internos, da auditoria, da luta contra a corrupção e do crime bancário e financeiro.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+Os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da LPD)
+O fundamento de legitimidade é a execução de finalidades legítimas do responsável, previsto no n.º 2 do artigo 8.° da LPD.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da LPD nos termos previstos na Deliberação n.°765/09.
+1 Disponível em www.cnpd.pt/bin/orientacoes/DEL765-2009_LINHAS_ETICA.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 12039/2013 2 /
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 8.°, da alínea a) do n.º 1 do artigo 28.º e do artigo 30º da LPD, com as condições e limites fixados na referida Deliberação n.º 765/2009, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados nos seguintes termos:
+Responsável - Zurich Companhia de Seguros Vida S.A.
+Finalidade - Gestão das comunicações internas de atos de gestão financeira irregular.
+Categorias de dados pessoais tratados - Identidade e categoria profissional do denunciante, identidade e categoria profissional do denunciado, identidade e funções das pessoas que intervêm na recolha e no tratamento de dados, os factos denunciados passíveis de integrarem atividades consideradas irregulares, no âmbito das atividades de contabilidade, auditoria, de luta contra a corrupção e do crime bancário e financeiro, os elementos de facto recolhidos no âmbito da averiguação e o destino dado à denúncia.
+Forma de exercício do direito de acesso e retificação - Por escrito, dirigido ao responsável na sede, sita na Rua barata Salgueiro, 41, 1269-058, Lisboa.
+Comunicações de dados pessoais a terceiros - Não.
+Interconexões - Não há.
+Fluxo transfronteiriço de dados para países terceiros - Não há.
+Prazo máximo de conservação dos dados - Os dados pessoais objeto de denúncia serão de imediato destruídos caso se revelem inexatos ou inúteis; Quando não haja lugar a procedimento disciplinar ou judicial, os dados que tenham sido objeto de comprovação serão destruídos decorrido o prazo de 6 meses a contar do encerramento das averiguações; Em caso de procedimento disciplinar ou judicial os dados serão conservados até ao termo desse procedimento. Neste caso, serão conservados no quadro de um sistema de informação de acesso restrito e por prazo que não exceda o procedimento judicial.
+Deve ser garantida a confidencialidade sobre a identidade do denunciante, com os limites descritos na Deliberação n.°765/09.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 12039/2013 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dos termos e condições fixados na Deliberação n.º 765/09 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 2 de setembro de 2014
+FeLl
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

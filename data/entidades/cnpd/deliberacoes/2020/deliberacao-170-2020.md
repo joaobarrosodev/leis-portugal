@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 170/2020
-official_date: null
+official_date: '2020-03-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Comissão Nacional de Proteção de Dados'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,21 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:37:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 170/2020
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121743](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121743).
+COMISSÃO NACIONAL
+DE PROTEÇÃO DE DADOS
+DELIBERAÇÃO/2020/170
+Considerando a declaração de estado de alerta e as medidas adotadas pelo Governo português;
+Considerando as orientações das autoridades de saúde pública para diminuir o risco de contaminação pelo CoVid-19, à luz dos princípios da prevenção e da precaução;
+E sem prejuízo do disposto no artigo 14.° do Decreto-Lei n.º 10-A/2020, de 13 de março;
+A Comissão Nacional de Proteção de Dados determina que os prazos de resposta aos projetos de deliberação se encontram interrompidos até à declaração, pelo órgão de soberania competente, do fim do período excecional que o País atravessa por causa da pandemia.
+Os prazos fixados nos projetos começam a ser contados, de novo, no dia útil seguinte à publicação oficial de tal declaração.
+A interrupção dos prazos aplica-se imediatamente.
+Lisboa, 16 de março de 2020
+Filipa Calvão (Presidente)
+AV. D. CARLOS |. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4187/2016
-official_date: null
+official_date: '2016-05-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AMGEN BIOFARMACÊUTICA, LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,68 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T14:21:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4187/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/90414](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/90414).
+Processo n° 4424/2016 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N° 4187 12016
+AMGEN - BIOFARMACÊUTICA, LDA (PORTUGAL), NIPC n.º 502942959, notificou um tratamento de dados pessoais com a finalidade de gestão das comunicações internas de atos de gestão financeira irregular (Linhas de Ética). A requerente indica ainda, certamente por lapso, a finalidade de espaços digitais de trabalho a pedido.
+A Comissão Nacional de Protecção de Dados (CNPD) já se pronunciou na
+Deliberação n.º 765/2009(1) sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da lei em matéria de proteção de dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade. Nessa Deliberação fixou que só podem ser objeto de tratamento os procedimentos de controlo interno de denúncia de infrações destinados a prevenir e/ou a reprimir irregularidades no seio da sociedade no domínio da contabilidade, dos controlos contabilísticos internos, da auditoria, da luta contra a corrupção e do crime bancário e financeiro.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+Os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. alínea b) do n.º 1 do artigo 5.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto - doravante, LPDP).
+O fundamento de legitimidade é a execução de finalidades legítimas do responsável, previsto no n.° 2 do artigo 8.° da LPDP, não prevalecendo no caso concreto os direitos dos titulares dos dados.
+O responsável pelo tratamento pretende proceder à transferência de dados para
+NAVEX GLOBAL INC., (todos os dados indicados, dentro dos limites legalmente permitidos) sendo que a mesma assenta em cláusulas contratuais tipo, da EU de 05/02/2010, as quais, por oferecerem as garantias suficientes referidas no n.º 2 do artigo 20.° da LPDP, são consideradas adequadas.
+1 Disponível em www.cnpd.pt/bin/orientacoes/DEL765-2009_LINHAS_ETICA.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 4424/2016 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Todavia, não existem ainda condições para uma decisão definitiva sobre a transferência pretendida, uma vez que, por força do acórdão do Tribunal de Justiça da
+União de Europeia de 6 de outubro de 2015 (C-362/14), que declarou inválida a
+Decisão 2000/520/CE, da Comissão Europeia, de 26 de julho de 2000, a CNPD tem de proceder a uma análise aprofundada da legislação vigente nos Estados Unidos da
+América com vista a apurar se aquela se sobrepõe de modo desnecessário e desproporcionado às cláusulas contratuais adequadas que o responsável e os destinatários da informação subscreveram.
+Por essa razão e ponderados os interesses em presença e para prevenir um prejuizo sério para o desenvolvimento da atividade comercial do responsável, atentos os princípios consagrados nos artigos 4.°, 5.°, n.° 1, e 7.° do Código do Procedimento
+Administrativo, bem como no artigo 5.°, n.º 1, alínea c), da LPDP, a CNPD delibera autorizar provisoriamente a transferência, advertindo-se desde já o responsável que a autorização a emitir será revista, nesta parte, e substituída por uma decisão definitiva logo que a CNPD esteja em condições de avaliar se a legislação do país do destino se sobrepõe de forma desnecessária e desproporcionada às cláusulas contratuais que fundamentam a transferência dos dados pessoais.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da LPDP nos termos previstos na Deliberação n.º 765/2009.
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 8.°, da alínea a) do n.º 1 do artigo 28.° e do artigo 30° da LPDP, com as condições e limites fixados na referida Deliberação n.° 765/2009, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados nos seguintes termos:
+Responsável - AMGEN - BIOFARMACÊUTICA, LDA (PORTUGAL)
+Finalidade - Gestão das comunicações internas de atos de gestão financeira irregular.
+Categorias de dados pessoais tratados - Identidade e categoria profissional do denunciante, identidade e categoria profissional do denunciado, identidade e funções das pessoas que intervêm na recolha e no tratamento de dados, os tactos denunciados passíveis de integrarem atividades consideradas irregulares, no âmbito
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 4424/2016 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS das atividades de contabilidade, auditoria, de luta contra a corrupção e do crime bancário e financeiro, os elementos de facto recolhidos no âmbito da averiguação e o destino dado à denúncia.
+Forma de exercício do direito de acesso e retificação - Por solicitação escrita para a morada do responsável.
+Comunicações de dados pessoais a terceiros - Não há.
+Interconexões - Não há.
+Fluxo transfronteiriço de dados para países terceiros - Navex Global Inc., USA.
+Prazo máximo de conservação dos dados - Os dados pessoais objeto de denúncia serão de imediato destruídos caso se revelem inexatos ou inúteis. Quando não haja lugar a procedimento disciplinar ou judicial, os dados que tenham sido objeto de comprovação serão destruídos decorrido o prazo de 6 meses a contar do encerramento das averiguações. Em caso de procedimento disciplinar ou judicial os dados serão conservados até ao termo desse procedimento. Neste caso, serão conservados no quadro de um sistema de informação de acesso restrito e por prazo que não exceda o procedimento judicial.
+Deve ser garantida a confidencialidade sobre a identidade do denunciante, com os limites descritos na Deliberação n.° 765/09.
+Dos termos e condições fixados na Deliberação n.º 765/09 e na presente Autorização decorrem obrigações que o responsável deve cumprir.
+Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+A autorização para a transferência de dados para os Estados Unidos da América é provisória, estando sujeita a revisão, atentas as razões acima expostas.
+Lisboa, 10 de maio de 2016.
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

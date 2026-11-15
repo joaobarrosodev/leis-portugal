@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 64/2005
-official_date: null
+official_date: '2005-02-22'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PT COMUNICAÇÕES, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,80 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:32:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 64/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7748](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7748).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.º 4990/1904/04
+Autorização n.º 64 /2005 1. Após conhecimento da Projecto de Autorização elaborado pela Comissão nacional de Protecção de Dados (CNPD) que interditava os tratamento efectuados por algumas das câmaras cujo tratamento foi notificado, em relação ao edifício sito no
+Edifício Picoas sito à Avenida Fontes Pereira de Melo, a PT Comunicações, SA respondeu no sentido de as câmaras A-39 a A-43 e A-47 a A-52 não constituírem vulgares salas de trabalho, mas locais dotados de equipamento sem operadores, no qual estão alojados sistemas de Internet.
+O Vogal relator presenciou localmente a veracidade destas afirmações, pelo que a presente autorização reflectirá a necessária alteração dos factos invocados na proposta. Continua a considera-se, contudo, que não é autorizada a instalação de de câmaras de videovigilância em espaços multiusos onde se proceda à realização de eventos de empresas ou de reuniões.
+2. As imagens são recolhidas por um circuito fechado de 257 câmaras, descrevendo-se os locais abrangidos da seguinte forma: portas de acesso a zonas críticas, espaços públicos do edifício, caves de estacionamento, caminhos de evacuação interiores e exteriores, portas e saídas de emergência. Releva que o sistema pode ser acedido a partir dos postos de operação localizados na central de segurança da PT Comunicações, e apenas por pessoas credenciadas junto desta. A credenciação faz-se por nome e palavra-chave de acesso.
+I - Apreciando e Decidindo:
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 1- Através da Deliberação n° 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios gerais e o enquadramento legal sobre o tratamento de dados de videovigilância, tendo aí definido os parâmetros gerais a que o mesmo deve obedecer.
+Destarte, qualquer apreciação jurídica sobre tal matéria deve ter necessariamente em conta o entendimento vertido nessa Deliberação, restando aferir in concreto os pressupostos aludidos na citada Deliberação da CNPD.
+Assim sendo, temos que:
+1-No que concerne à apreciação das condições de tratamento de videovigilância pela entidade responsável, importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (art° 5°, n° 1, al c) da Lei 67/98, de 26 de Outubro), às condições de legitimidade (artigos 7° e 8°, n° 2 da Lei 67/98), bem como às formas de acesso quanto aos dados recolhidos pelos sistemas de videovigilância.
+2-Verifica-se, assim, que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade assinalada, afigura-se-nos, em geral, que o tratamento se apresenta como adequado, pertinente e não excessivo em relação a essa finalidade (art° 5°,
+, n° 1, al c) da Lei 67/98). Não é, porém, autorizada a instalação de câmaras de videovigilância em espaços multiusos onde se proceda à realização de eventos de ( )Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS empresas ou de reuniões atenta a finalidade do tratamento considerada no âmbito desta autorização.
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Ora, o que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com a protecção dos seus direitos fundamentais), bem como registar e documentar a eventual prática de infracções.
+Sendo certo que o tratamento de som ou imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que ii situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+Efectivamente, nestes edifícios, justifica-se também, nos tempos hodiernos, que sejam utilizados estes meios de prevenção para protecção de pessoas, produtos e bens, na medida em que estamos perante um local que dispõe de equipamento electrónico de (*) O artigo 8°, n° 2, da Lei n° 67/98, de 26 de Outubro, obriga, como condição a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e de imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+4
+ASE
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS valor muito relevante. Nesta medida, as câmaras funcionam como um factor de dissuasão.
+Em termos de proporcionalidade justifica-se a utilização destes meios de videovigilância neste sector de actividade porquanto os direitos dos titulares não se devem sobrepor à execução de uma finalidade que se assegura legítima e que deve ser reconhecida ao responsável, para a prossecução do exercício da sua actividade comercial que constitui, também ela própria, um motor do exercício e desenvolvimento da actividade sócio-económica.
+No entanto, o tratamento das imagens deve obedecer a certas condições, que adiante serão explicitadas, nomeadamente, as seguintes: (i) não é permitida a captação de som e imagem de espaços exteriores ao edifício; (ii) as imagens captadas não podem ser utilizadas infringindo o artigo 20.°, n.º 1 do Código do Trabalho, que prevê que o empregador não pode utilizar meios de vigilância no local de trabalho, mediante o emprego de equipamento tecnológico, com a finalidade de controlar o desempenho profissional do trabalhador.
+Em Conclusão:
+Face ao que antecede, decide-se considerar como legítimo o tratamento, autorizando-se, por consequência, a recolha de dados (art's 8°, n° 2 e 28°, n° 1, al a), da Lei 67/98), devendo ser observadas, ainda, as seguintes condições:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 1. Responsável: PT Comunicações, SA.
+2. Finalidade: Protecção de pessoas e bens. (i) Não é permitida a captação de som e imagem de espaços exteriores ao edifício; (ii) as imagens captadas não podem ser utilizadas infringindo o artigo 20.°, n.º 1 do Código do Trabalho, que prevê que o empregador não pode utilizar meios de vigilância no local de trabalho, mediante o emprego de equipamento tecnológico, com a finalidade de controlar o desempenho profissional do trabalhador. Não é autorizada, a instalação de câmaras em espaços multiusos onde se proceda à realização de eventos de empresas ou de reuniões, salvo para sinalizar saídas de emergência.
+3. Destinatários dos dados: Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável: Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do art° 11º, da
+Lei 67/98, de 26 de Outubro.
+5. Direito de Informação: Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+6. Direito de acesso: Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no art° 11°, n° 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação: Os dados recolhidos são conservados pelo prazo de 30 dias.
+Lisboa, 22 de Fevereiro de 2005
+Alexandre Sousa Pinheiro (Relator)
+Luís Barroso
+Eduardo Campos gle
+Ana Luísa Geraldes
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

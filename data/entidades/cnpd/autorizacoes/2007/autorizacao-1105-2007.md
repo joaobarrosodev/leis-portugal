@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LILLY PORTUGAL-PRODUTOS FARMACÊUTICOS, LDA EX-LILLY FARMA PRODUTOS FARMACÊUT LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,90 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:20:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1105/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2320](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2320).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 2491/2003 110S
+AUTORIZAÇÃO N.° /2007
+I - Pedido 1. A empresa "Lilly Farma - Produtos Farmacêuticos, Lda. veio notificar junto da
+Comissão Nacional de Protecção de Dados (CNPD) uma alteração no tratamento de videovigilância em funcionamento nas suas instalações, sitas na Rua Dr. António
+Loureiro Borges, n.º 1, em Miraflores (acréscimo de três câmaras: nas portas principais de acesso aos dois pisos nos átrios de entrada e uma na sala técnica).
+Não possui Comissão de Trabalhadores.
+2. Na sequência de um pedido de esclarecimento efectuado pela CNPD em 2 de Março de 2007, a entidade requerente informou que a câmara instalada na sala técnica é utilizada como medida preventiva de segurança, servindo apenas para visualizar os técnicos na altura da execução do seu trabalho.
+3. Na sequência do pedido, a CNPD elaborou o projecto de Autorização n.º 208/07, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 3384, de 16 de Maio de 2007, nos termos e para os efeitos do disposto nos artigos 100.° e 101.° do Código do Procedimento Administrativo.
+4. Decorrido o prazo para se pronunciar, a entidade requerente nada disse sobre o projecto de autorização que lhe foi remetido.
+II - Análise 5. Em 13 de Julho de 2004, a CNPD, na sequência da notificação da recolha de imagens por 2 câmaras, autorizou o tratamento de dados de videovigilância nas instalações da entidade requerente, no hall de entrada dos edifícios de escritórios.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 6. A entidade requerente pretende agora um acréscimo de duas câmaras nas suas instalações, pelo que cabe à CNPD apreciar esse pedido.
+7. Através da Deliberação n° 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n°. 1, alínea c), da Lei n.º 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.°, n.º 2, do citado diploma), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da entidade requerente, no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas, onde pode haver furto ou danos.
+Relativamente ao princípio da proporcionalidade, justifica-se a utilização destes meios de videovigilância neste sector de actividade, porquanto os direitos dos titulares não se devem sobrepor à execução de uma finalidade que se assegura legítima e que deve ser reconhecida ao responsável, para a prossecução do exercício da sua actividade.
+8. Verifica-se, assim, que a utilização do sistema se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, alínea c), da Lei n.º 67/98).
+Com efeito, pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse () Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm.
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Ora, o que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com a protecção dos seus direitos fundamentais (*), bem como registar e documentar a eventual prática de infracções.
+Sendo certo que o tratamento de som ou imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+9. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores, nos termos do disposto no artigo 20.º do Código do Trabalho, aprovado pela Lei n.º 99/2003, de 27 de Agosto.
+10. A esse propósito, o Supremo Tribunal de Justiça, no Acórdão de 8 de Fevereiro de 2006 (3), concluiu que "[o] empregador pode utilizar meios de vigilância à distância sempre que tenha por finalidade a protecção e segurança de pessoas e bens, devendo entender-se, contudo, que essa possibilidade se circunscreve a locais abertos ao público ou a espaços de acesso a pessoas estranhas à empresa, em que exista um razoável risco de ocorrência de delitos contra as pessoas ou contra o património" (sublinhado nosso).
+() O artigo 8°, n° 2, da Lei n° 67/98, de 26 de Outubro, obriga, como condição a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e de imagem.
+() No âmbito do processo n.º 3139/05.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aquele Tribunal entendeu, ainda, que "essa utilização deverá traduzir-se numa forma de vigilância genérica, destinada a detectar factos, situações ou acontecimentos incidentais, e não numa vigilância directamente dirigida aos postos de trabalho ou ao campo de acção dos trabalhadores".
+11. Face ao que antecede e atendendo à finalidade apresentada - segurança de pessoas e bens - afigura-se-nos que o tratamento em apreço, no que respeita aos dados pessoais recolhidos na sala técnica, se apresenta como excessivo em relação ao fim visado [alínea c), n.º 1, do artigo 5.°, da Lei n.º 67/98].
+III - Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se parcialmente a recolha de dados (artigos 8.°, n.° 2, e 28.°, n.º 1, alínea a), da Lei n.º 67/98) -devendo ser observadas, ainda, as seguintes condições:
+A. Responsável pelo tratamento - Lilly Portugal, Produtos Farmacêuticos, Lda.
+B. Finalidade - Protecção de pessoas e bens.
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei n.° 67/98.
+E. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+F. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.°, n.º 2, da Lei n.º 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a
+CNPD.
+G. A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+H. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir sobre estes durante a actividade laboral. (cf. artigo 20.° do Código do Trabalho).
+I. Não é autorizada a recolha e visionamento de imagens da câmara instalada na sala técnica, pois essa captação mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento.
+Lisboa, 25 de Junho 2007
+Ana Roque
+Carlos Campos Lobo
+Eduardo Campos Y Relator)
+Helena Delgado António
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Luís Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° --- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 6

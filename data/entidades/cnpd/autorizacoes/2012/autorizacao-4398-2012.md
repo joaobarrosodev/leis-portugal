@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4398/2012
-official_date: null
+official_date: '2012-05-24'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Mitsubishi Fuso Truck Europe - Sociedade Europeia de Automóveis, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:25:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4398/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44555](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44555).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 2437/2012
+AUTORIZAÇÃON° 12012 1 - O Pedido
+MITSUBISHI FUSO TRUCK EUROPE - SOCIEDADE EUROPEIA DE
+AUTOMÓVEIS, S.A., vem notificar à Comissão Nacional de Proteção de Dados (CNPD) um tratamento de dados pessoais que tem como finalidade de seleção de pessoal e recrutamento.
+As categorias de dados tratados são as seguintes:
+Nome, fotografia, data de nascimento, naturalidade, nacionalidade, sexo, filiação, estado civil, morada, telefone, e-mail, data de admissão, situação militar, número, data de emissão e arquivo do cartão de cidadão/bilhete de identidade, NIF, número de segurança social, número de carta de condução, nome do cônjuge, número de dependentes, grau de escolaridade/habilitações, estabelecimento de ensino, data de início e de conclusão e média final de curso/formação, certificação/carteira profissional, competências em línguas estrangeiras, competências informáticas, formação profissional relevante, dados relativos à experiência profissional (empresa, data de admissão e demissão, experiência profissional no estrangeiro), principais áreas de interesse, referências, dados relativos ao resultado da avaliação (resultados dos testes psicotécnicos, resultado do exame médico de aptidão ou não para o cargo).
+A recolha de dados é efetuada diretamente, através do CV e entrevista.
+Está assegurado o direito à atualização dos dados, bem como as condições de o titular conhecer, corrigir e eliminar os dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A segurança das informações é garantida por cópias de backup, password de acesso às informações, sistemas de processamento de backup e acesso restrito de pessoas às instalações.
+Pretende-se a conservação dos dados pelo prazo de 2 a 5 anos, para preenchimento de eventuais vagas.
+A requerente não pretende comunicar os dados pessoais nem realizar qualquer interconexão de dados.
+2 - Apreciação
+Os dados são tratados no âmbito de diligências prévias à formação do contrato, pelo que a CNPD considera que existe legitimidade para o tratamento de dados por força do estatuído no artigo 6°, alínea a), da Lei n° 67/98, de 26.10.
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (alínea c) do n.º 1 do artigo 5.° da Lei 67/98, de 26.10). Contudo, deve ser obtido o consentimento do titular para recolha de dados de terceiros, como é o caso do cônjuge.
+No momento da recolha ou da atualização dos dados existentes deve ser assegurado direito de informação e acesso nos termos previstos nos artigos 10.º e 11.º da Lei n.º 67/98, de 26.10.
+Afigura-se-nos ajustado o período proposto para a conservação dos dados.
+Devem ser garantidas as regras de segurança adequadas, cabendo à responsável assegurar o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Alerta-se para o facto de a presente autorização não abranger a Medicina no
+Trabalho.
+3 - Conclusão
+Assim, nos termos do artigo 7°, n°2, e 30° da Lei n° 67/98, de 26.10, a CNPD delibera autorizar o tratamento de dados pessoais notificado, desde que observadas as condições impostas, consignando-se o seguinte:
+Responsável - MITSUBISHI FUSO TRUCK EUROPE - SOCIEDADE
+EUROPEIA DE AUTOMÓVEIS, S.A.
+Finalidade - seleção de pessoal e recrutamento
+Categoria de dados pessoais tratados - Nome, fotografia, data de nascimento, naturalidade, nacionalidade, sexo, filiação, estado civil, morada, telefone, e-mail, data de admissão, situação militar, número, data de emissão e arquivo do cartão de cidadão/bilhete de identidade, NIF, número de segurança social, número de carta de condução, nome do cônjuge, número de dependentes, grau de escolaridade/habilitações, estabelecimento de ensino, data de início e de conclusão e média final de curso/formação, certificação/carteira profissional, competências em línguas estrangeiras, competências informáticas, formação profissional relevante, dados relativos à experiência profissional (empresa, data de admissão e demissão, experiência profissional no estrangeiro), principais áreas de interesse, referências, dados relativos ao resultado da avaliação (resultados dos testes psicotécnicos, resultado do exame médico de aptidão ou não para o cargo).
+Forma de exercício do direito de acesso e retificação - Por solicitação feita por escrito ao responsável
+Comunicações de dados - não há
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Interconexões - não há
+Fluxo transfronteiriço de dados para países terceiros - não há
+Tempo de conservação - até 5 anos
+Lisboa, 24 de maio de 2012.
+Luís Barroso, Ana Roque (relatora), Carlos Campos Lobo, Helena Delgado António,
+Vasco Almeida, Luís Paiva de Andrade
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

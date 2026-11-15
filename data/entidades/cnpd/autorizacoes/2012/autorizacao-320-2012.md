@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Instituto Politécnico de Coimbra - IPC'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,100 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T04:34:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 320/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40464](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40464).
+D
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 9853/2011
+AUTORIZAÇÃON° 320/2012 1 - Instituto Politécnico de Coimbra (IPC) vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão administrativa da atividade dos docentes, nomeadamente no que se retere à distribuição de serviço docente e à avaliação de desempenho.
+Os dados pessoais objeto de recolha são os seguintes:
+Dados de inscrição obrigatória - Nome, filiação, naturalidade, data de nascimento, sexo,
+NIF, documento de identificação, último grau académico, área científica da formação, morada (endereço, código postal, localidade, país), e-mail, situação profissional (instituição/unidade orgânica, departamento, regime de tempo, categoria profissional), atividade pedagógica - docência no IPC (de preenchimento automático a partir da introdução da distribuição de serviço docente do ano letivo), docência noutras instituições (ano letivo, unidade orgânica, curso, unidade curricular).
+Dados de inscrição facultativa - Contactos (número de telefone e de telemóvel, número e extensão do telefone institucional, URL de página pessoal), biografia, fotografia, formação obtida, tipo de atividade/função - instituição, início e fim, atividade pedagógica - docência noutras instituições (regência da UC, tipo de horas semanais -teórica, teórico-prática, prática, orientação tutorial -, outras atividades - designação, descrição, ano letivo), atividade científica (áreas científicas de interesse, centros de investigação com que colabora e funções que exerce, patentes registadas, prémios e distinções, projetos, publicações), atividade organizacional (atividade, designação, descrição, instituição, início e fim).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O tratamento é realizado através de uma aplicação informática denominada
+FORMIGA/Potencial Científico do IPC, sendo os dados inseridos pelos próprios titulares e por estes atualizados e retificados mediante login e password.
+O registo na aplicação é feito mediante a introdução do e-mail da escola/instituto e ativação da conta. O acesso à aplicação é feito por login e password, nos termos seguintes: Os docentes podem aceder à totalidade da informação respeitante ao respetivo processo individual, à informação constante do resumo do Perfil dos restantes docentes registados e às publicações e prémios mais relevantes. Os Presidentes do IPC e das escolas podem aceder à totalidade da informação registada. Os membros dos restantes órgãos de gestão científica e pedagógica podem aceder à informação relativa aos docentes e respetivas unidades orgânicas, departamentos ou áreas científicas. Os serviços administrativos e de recursos humanos podem aceder aos dados curriculares dos docentes da respetiva unidade orgânica. Os serviços de gestão académica podem aceder aos dados de distribuição do serviço docente.
+A segurança das informações é garantida por acesso com login autenticado nos servidores das escolas, ligações https, encriptação e sistemas de alarme.
+Pretende-se a conservação dos dados pelo período de 5 anos após o termo da relação contratual com o docente.
+2 - A CNPD considera que existe legitimidade para o tratamento de dados, entendendo-se que o suporte/fundamento do tratamento pode ser encontrado na previsão da alínea e)
+do artigo 6° da Lei n° 67/98, de 26.10, ou seja, a prossecução de interesses legítimos do responsável pelo tratamento, uma vez que não prevalecem os direitos, liberdades e garantias dos titulares dos dados. Além disso, o tratamento é feito com o consentimento do titular dos dados, pelo que a legitimidade para o tratamento também se funda no disposto nos artigos 3°, alínea h), e 6° (corpo) da Lei n° 67/98, de 26.10.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada mostra-se adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (alínea c) do n.º 1 do artigo 5.° da Lei n° 67/98, de 26.10).
+À requerente cumpre assegurar o cumprimento do direito de informação ao titular dos dados, nos termos do artigo 10° n° 3 da Lei n° 67/98, de 26.10.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+Afiguram-se ajustadas as medidas de segurança adotadas.
+Os dados só poderão ser conservados para a finalidade do tratamento, enquanto se mostrem necessários à prossecução da finalidade, após o que deverão ser automaticamente destruídos. Todavia, consideramos adequado o prazo de conservação proposto.
+A requerente pretende proceder à interconexão de dados com as bases de dados de informação académica e de gestão de recursos humanos, as quais não foram ainda objeto de notificação à CNPD. Por essa razão não conhecemos, nesta parte, do pedido.
+3 - Em face do exposto, e observadas que sejam as condições impostas, a Comissão
+Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 6°, corpo e alínea e), e 30.º nº1 da Lei n° 67/98, de 26.10, consignando-se o seguinte:
+Responsável pelo tratamento: Instituto Politécnico de Coimbra (IPC)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE,
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada mostra-se adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (alínea c) do n.º 1 do artigo 5.° da Lei n° 67/98, de 26.10).
+À requerente cumpre assegurar o cumprimento do direito de informação ao titular dos dados, nos termos do artigo 10° da Lei n° 67/98, de 26.10.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+Afiguram-se ajustadas as medidas de segurança adotadas.
+Os dados só poderão ser conservados para a finalidade do tratamento, enquanto se mostrem necessários à prossecução da finalidade, após o que deverão ser automaticamente destruídos. Todavia, consideramos adequado o prazo de conservação proposto.
+A requerente pretende proceder à interconexão de dados com as bases de dados de informação académica e de gestão de recursos humanos, as quais não foram ainda objeto de notificação à CNPD. Por essa razão não conhecemos, nesta parte, do pedido.
+3 - Em face do exposto, e observadas que sejam as condições impostas, a Comissão
+Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 6°, corpo e alínea e), e 30.º nº1 da Lei n° 67/98, de 26.10, consignando-se o seguinte:
+Responsável pelo tratamento: Instituto Politécnico de Coimbra (IPC)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Finalidade do tratamento: gestão administrativa da atividade dos docentes, nomeadamente no que se refere à distribuição de serviço docente e à avaliação de desempenho
+Categorias de Dados: Dados de inscrição obrigatória - Nome, filiação, naturalidade, data de nascimento, sexo, NIF, documento de identificação, último grau académico, área científica da formação, morada (endereço, código postal, localidade, país), e-mail, situação profissional (instituição/unidade orgânica, departamento, regime de tempo, categoria profissional), atividade pedagógica - docência no IPC (de preenchimento automático a partir da introdução da distribuição de serviço docente do ano letivo), docência noutras instituições (ano letivo, unidade orgânica, curso, unidade curricular);
+Dados de inscrição facultativa - Contactos (número de telefone e de telemóvel, número e extensão do telefone institucional, URL de página pessoal), biografia, fotografia, formação obtida, tipo de atividade/função - instituição, início e fim, atividade pedagógica - docência noutras instituições (regência da UC, tipo de horas semanais -teórica, teórico-prática, prática, orientação tutorial -, outras atividades - designação, descrição, ano letivo), atividade científica (áreas científicas de interesse, centros de investigação com que colabora e funções que exerce, patentes registadas, prémios e distinções, projetos, publicações), atividade organizacional (atividade, designação, descrição, instituição, início e fim).
+Comunicação de dados: não há
+Interconexões de dados: não há
+Forma de exercício do direito de acesso e retificação: pelo titular, mediante login e password.
+Lisboa, Xo
+Jamiro da 2012
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 4
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 5 duvidas@cnpd.pt

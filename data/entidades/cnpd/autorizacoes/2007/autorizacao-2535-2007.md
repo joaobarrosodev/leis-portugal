@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: EDUARDO MANUEL S.P. DUARTE / BAR-PUB WHALE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:55:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2535/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 3448/06
+AUTORIZAÇÃO N.° ZS35 /2007 1. Eduardo Manuel S.P. Duarte veio notificar os tratamentos de videovigilância no Bar/Pub Blue Whale.
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de câmaras no acesso à porta de entrada das instalações.
+Através da deliberação n.° 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7° e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nos estabelecimentos de restauração no âmbito da protecção de pessoas e bens na medida em que se trata de local frequentado por muitas pessoas, com manuseamento de dinheiro.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+() Disponível in http://www.cnpd.pt/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir sobre estes durante a actividade laboral. (cf. artigo 20.° do Código do Trabalho).
+9. A recolha de imagens deve confinar-se ao perímetro da propriedade e não podem envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+Lisboa, 11 Dezembro 2007 na Roque
+Helena Delgado António
+Vasco Almeida
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Luís Barroso hon
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt

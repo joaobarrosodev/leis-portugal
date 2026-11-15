@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Medica Scientia Innovation Research (MedSIR ARO)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,68 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T00:09:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5158/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55527](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55527).
+Proc.5254/13 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 5158/13
+Medica Scientia Innovation Research (MedSir ARO), representada pela Novexem
+Portugal, notificou a CNPD de um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico. Pretende-se avaliar a eficácia e segurança de medicamentos de uso humano em doentes com cancro da mama metastizado HER2 (Protocolo OBU-
+SW-H-02).
+As categorias de dados pessoais tratados: n.º do participante no estudo, idade, sexo, raça, antecedentes de doenças cardiovasculares, doenças metabólicas, consumo de álcool, abuso de drogas e outras condições basais do doente, exame físico (pressão arterial sistólica e diastólica, frequência do pulso, frequência cardíaca, frequência respiratória, temperatura, peso, altura, ECG), estado de saúde geral de acordo com a classificação ECOG; dados relacionados com o tratamento do estudo (dose administrada, data de administração e possíveis atrasos e reduções de dose); registo da medicação concomitante (nome do fármaco, dose, data de administração, duração do tratamento e motivo da administração); registo de toxicidades durante o período do estudo (presença ou não de toxicidades relacionadas com o fármaco de acordo com a escala CTCAE; avaliação da função hepática de acordo com a classificação de Child-
+Pugh; avaliação da resposta ao tratamento (avaliação RECIST); procedimentos laboratoriais (teste de gravidez, bioquímica sanguínea, hemograma completo, testes de função hepática, transaminases alanina e aspartato aminotrasnferase, proteínas totais, albumina, actividade da protombina, gama - GT, bilirrubina total e conjugada e fosfatase alcalina) e nome do investigador.
+O Promotor justificou a recolha do dado raça nos seguintes termos:
+«O motivo pelo qual se decidiu incluir a variável "raça" no caderno de recolha de dados deste estudo, e mais concretamente no grupo das variáveis demográficas, é conhecer se existem indivíduos dentro da população que sejam mais susceptíveis a certas patologias ou mais propensos a beneficiar de certas intervenções terapêuticas. Neste contexto, seria interessante identificar grupos vulneráveis para uma focalização de recursos».
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.5254/13 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim sendo, atentos os referidos argumentos que apontam para a necessidade da recolha do dado "raça" para aferir o perfil de segurança e de eficácia em função destes elementos, admite-se a recolha deste dado.
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+A CNPD já se pronunciou na sua Deliberação n.° 333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, alínea a), da Lei n.° 67/98, de 26 de outubro - LPD) para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular (cf.
+artigo 7.°, n.° 2, da LPD).
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a), e 30.° da LPD, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Medica Scientia Innovation Research (MedSir ARO), representada pela Novexem Portugal.
+Finalidade: gestão do ensaio clínico. Pretende-se avaliar a eficácia e segurança de medicamentos de uso humano em doentes com cancro da mama metastizado HER2 (Protocolo OBU-SW-H-02).
+As categorias de dados pessoais tratados: n.º do participante no estudo, idade, sexo, raça, antecedentes de doenças cardiovasculares, doenças metabólicas, consumo de álcool, abuso de drogas e outras condições basais do doente, exame físico (pressão arterial sistólica e diastólica, frequência do pulso, frequência cardíaca, frequência respiratória, temperatura, peso, altura, ECG), estado de saúde geral de acordo com a classificação ECOG; dados relacionados com o tratamento do estudo (dose
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.5254/13 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS administrada, data de administração e possíveis atrasos e reduções de dose); registo da medicação concomitante (nome do fármaco, dose, data de administração, duração do tratamento e motivo da administração); registo de toxicidades durante o período do estudo (presença ou não de toxicidades relacionadas com o fármaco de acordo com a escala CTCAE; avaliação da função hepática de acordo com a classificação de Child-
+Pugh; avaliação da resposta ao tratamento (avaliação RECIST); procedimentos laboratoriais (teste de gravidez, bioquímica sanguínea, hemograma completo, testes de função hepática, transaminases alanina e aspartato aminotrasnferase, proteínas totais, albumina, actividade da protombina, gama - GT, bilirrubina total e conjugada e fosfatase alcalina) e nome do investigador.
+Interconexões de tratamentos: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico investigador.
+Fluxos transfronteiras: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo / do Decreto-Lei n.º 176/2006, 30 de agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.º 333/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, Î de julho de 2013
+Carlos Campos Lobo (Relator), Luís Barroso, Ana Roque, Helena Delgado António,
+Vasco Almeida e Luís Paiva de Andrade.
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

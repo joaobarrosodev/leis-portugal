@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1832/2017
-official_date: null
+official_date: '2017-02-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Hospital Residencial do Mar S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,68 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T11:07:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1832/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/101585](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/101585).
+Processo n° 579/2015| 1 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 1832 12017
+I - O Pedido
+Hospital Residencial do Mar, SA, com sede na Rua dos Girassóis - Lote 381 Bairro da
+Petrogal, 2695-458 Bobadela, notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gravação e difusão de sessões clínicas e formativas Tal tratamento de dados foi objeto da Autorização n.º 9302/2015, aprovada na sessão plenária de 29 de setembro. Na Autorização referida foi fixado um prazo do conservação dos dados de um ano após a gravação das sessões clínicas.
+Posteriormente, a coberto do ofício n.° 24674 de 17 de novembro de 2016 vem o Hospital
+Residencial do Mar, S.A., requerer o alargamento do prazo de conservação dos dados, invocando que as conclusões médicas são, em geral, cientificamente válidas por um período alargado de tempo, e que o prazo de 1 (um) ano fixado pela CNPD limita o acesso a informação de grande utilidade para o desenvolvimento do conhecimento e das técnicas dos vários profissionais de saúde ao seu serviço.
+Alega ainda a Requerente que a importância da realização destas sessões clinicas e, em especial, da sua disponibilização durante um período alargado de tempo é corroborada pelo teor da Portaria n.º 247/2000, de 8 de maio, que aprova o Regulamento Arquivístico dos
+Hospitais e demais serviços do Ministério da Saúde quando afirma no seu preâmbulo que «a prestação de cuidados de saúde, o exercício de funções docentes e a investigação científica, a aferição da sua qualidade e a apreciação objetiva e rigorosa de um adequado uso dos recursos disponiveis assentam num fator determinante, a informação, e esta reside em documentos de diferentes suportes» e que «é imperativo criar as condições de aplicação dos modernos meios técnicos (...) para que possa ser utilizado como instrumento privilegiado na investigação científica (...)».
+A Requerente invoca ainda que os dados pessoais recolhidos são o «som» e a «imagem»
+dos profissionais de saúde intervenientes, os quais são recolhidos no âmbito da sua atividade profissional com o seu prévio consentimento, disponibilizados para acesso/consulta somente a outros profissionais de saúde/colegas e utilizados por estes para
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 579/2015 | 1v.
+o desenvolvimento da mesma atividade. E assim «para além do interesse para a comunidade científica a disponibilização das disposições conclusões médicas são também do interesse do próprio titular uma vez que permite um maior reconhecimento junto dos seus pares».
+A Requerente conclui alegando que o prazo concedido, até um ano após a realização das referidas sessões clínicas, é manifestamente insuficiente face à finalidade do tratamento, pelo que apenas um prazo não inferior a cinco (5) anos poderá permitir a prossecução da finalidade da recolha.
+II — Apreciação
+Os dados objeto de tratamento nas gravações das sessões clínicas e respetiva transmissão na intranet (voz e imagem dos médicos participantes) porque referentes à vida privada, têm a natureza de sensíveis, nos termos do disposto no n.º 1 do artigo 7.° da Lei n.° 67/98, de 26 de outubro, alterada pela Lei 103/2015 de 24 de agosto (Lei de Proteção de Dados Pessoais
+- LPDP).
+O fundamento de legitimidade para o seu tratamento, conforme consta da Autorização n.º 9302/2015 de 29 de setembro reside no consentimento expresso e informado do titular dos dados.
+Recorda-se que tal como o afirma a Requerente, «as sessões clinicas consistem em sessões organizadas internamente, com cariz informativo, formativo e interativo, onde são discutidos vários temas do foro clínico, ético e deontológico, podendo ter por base um caso clínico concreto (apresentado de forma anonimizada) ocorrido na unidade de saúde da
+Requerente e acompanhado pelos profissionais de saúde que conduzem as sessões». Uma vez que nestas sessões clínicas e formativas os dados são anonimizados não se verifica um tratamento de dados pessoais, não havendo pois lugar à aplicação da LPDP. Estas sessões são gravadas de forma a poderem ser transmitidas e/ou disponibilizadas na intranet da
+Requerente, o que foi autorizado pela CNPD.
+Relativamente aos prazos máximos de conservação dos dados som e imagem, atento o disposto na alínea e) do n.º 1 do artigo 5.° da LPDP, devem os dados pessoais ser conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior. Vem a Requerente alegar que o prazo concedido, é
+
+Processo n.° 579/2015 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS manifestamente insuficiente face à finalidade do tratamento, pelo que apenas um prazo não inferior a cinco (5) anos poderá permitir a prossecução da finalidade da recolha.
+Vejamos:
+É consensual que a informação veiculada nas sessões clínicas gravadas permanece cientificamente válida e com interesse para a prática e desenvolvimento da medicina, pelos profissionais de saúde, por um período alargado de tempo. Também resulta claro o interesse que a partilha de tal informação entre os profissionais de saúde tem para os pacientes. Importa, no entanto ver se, em conformidade com o princípio da proporcionalidade, a conservação das gravações das sessões clínicas por um período alargado de tempo constitui uma compressão desnecessária e excessiva dos direitos fundamentais à reserva da vida privada e à proteção dos dados pessoais dos profissionais de saúde, em violação do n.º 2 do artigo 18.° da CRP e da alínea e) do n.º 1 do artigo 5.° da
+LPDP. Ora face à finalidade do tratamento e uma vez que a gravação das sessões tem como fundamento de legitimidade o consentimento do titular nada parece obstar à prorrogação do prazo fixado na Autorização n.° 9302/2015 de 29 de setembro. Assim, nos termos do n.º 2 do artigo 5.° da LPDP autoriza-se a conservação dos dados pessoais por um período de cinco anos.
+III - Conclusão
+Assim, e com base no artigo 173.° do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e no n.º 2 do artigo 5.° da LPDP, reproduz-se o teor da Autorização n.° 9302/2015 de 29 de setembro introduzindo a alteração do prazo com os fundamentos acima expostos.
+Nestes termos e ao abrigo do disposto nos artigos 7.° n.º 2, 28.° n.º1 alínea a) e 30.° da
+LPDP, a CNPD autoriza o tratamento notificado, consignando o seguinte:
+Responsável: Hospital Residencial do Mar, SA;
+Finalidade: gravação e difusão de sessões clínicas e formativas;
+Categorias de dados pessoais tratados: dados relativos às sessões clínicas (som e imagem).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 579/2015 2v.
+Comunicação de dados: não se verifica;
+Forma de exercício do direito de acesso e retificação: Deve ser assegurado o direito de informação nos termos dos artigos 10.° da LPDP bem como o direito de acesso nos termos do artigo 11.° da LPDP;
+Interconexão de dados: não há;
+Transferência de dados para países terceiros: não ha;
+Conservação dos dados: pelo prazo de cinco anos.
+A presente Autorização substituiu a Autorização n.º 9302/2015, de 29 de setembro de 2015.
+Lisboa, 14 de fevereiro de 2017
+Filipa Calvão (Presidente)

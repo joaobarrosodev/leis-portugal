@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 565/2015
-official_date: null
+official_date: '2015-01-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ARCO - ASSOCIAÇÃO DE REUMATOLOGIA DE COIMBRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:04:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 565/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73122](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73122).
+Processo n.99465/2014 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Autorização n.º565/2015 1. Do Pedido
+A Associação de Reumatologia de Coimbra notificou um tratamento de dados pessoais com a finalidade de realização de um estudo observacional subordinado ao tema Coprescrição de Vitamina D na terapêutica antiosteoporótica: a realidade da prática clínica em Portugal".
+O estudo terá como objetivo, investigar a prática clínica referente à prescrição de fármacos antiosteoporóticos, bem como os conselhos dados aquando dessa prescrição.
+São critérios de inclusão os doentes com idade igual ou superior a 40 anos que se dirijam às farmácias selecionadas com prescrição de um fármaco antiosteoporótico.
+O estudo irá decorrer em 500 farmácias no território nacional e, para os doentes que reúnam os critérios de inclusão, após prestação do consentimento informado, será efetuado pelo farmacêutico um questionário sobre a doença.
+Caso o titular dos dados consinta, disponibilizará o seu contacto telefónico para que os investigadores numa entrevista com a duração máxima de 10 minutos o questionem sobre outros aspetos da osteoporose. Este é um consentimento autónomo.
+O questionário a aplicar nas farmácias não tem qualquer elemento que permita a identificação do titular dos dados.
+No questionário não há identificação nominal dos titulares, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do investigador. Contudo, no caso de o doente consentir na entrevista telefónica o respetivo número será aposto no questionário.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 9965/2014 2 k
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+A segurança das informações é garantida pela manutenção dos dados em local de acesso reservado.
+I. Da Análise
+Porque em grande parte referentes à vida privada, os dados recolhidos pela requerente têm a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, ou dos seus legais representantes nos termos do disposto no n.º 2 do artigo 7.° da Lei n° 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD).
+Por esta razão é necessário o consentimento expresso do titular, entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+O fundamento de legitimidade é o consentimento dos titulares dos dados.
+A informação tratada é recolhida de forma lícita (cfr. alínea a) do n.° 1 do artigo 5.° da
+LPD), para finalidades determinadas, explícitas e legítimas (cfr. alínea b) do mesmo artigo).
+Contudo, importa que o responsável efetue uma alteração aos procedimentos propostos, a qual consiste na aposição do número de telefone do titular dos dados, que tenha consentido na entrevista telefónica, no documento de consentimento
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt.
+www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 9465/2014 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS informado e não no questionário respondido na farmácia. De outro modo, o objetivo que se pretende alcançar com a codificação dos questionários, a não existência de elementos que permitam a identificação direta do titular, seria prejudicado.
+Neste mesmo sentido, os documentos de consentimento informado, que contêm os dados de identificação dos participantes, devem ser arquivados em pasta separada da pasta de arquivo das respostas aos questionários.
+III. Da Conclusão
+Em face do exposto, a Comissão Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais do estudo em análise, nos termos do n.°2 do artigo 7.°, da alínea a) do n.º1 do artigo 28.° e do n.º 1 do artigo 30.° da LPD, consignando-se o seguinte:
+Responsável pelo tratamento: Associação de Reumatologia de Coimbra.
+Finalidade: estudo observacional subordinado ao tema "Co-prescrição de Vitamina D na terapêutica antiosteoporótica: a realidade da prática clínica em Portugal".
+Categoria de Dados pessoais tratados: Código, idade, profissão, sexo, zona de residência dados relativos à prescrição de osteoporóticos, de cálcio e de vitamina D, exposição solar, prática de exercício físico, fraturas e quedas no último ano e hábitos alimentares relacionados com lacticínios.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto da responsável pelo tratamento dos dados.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação dos dados: O código do doente deve ser destruído um mês após o fim do estudo.
+Lisboa, 20 de janeiro de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

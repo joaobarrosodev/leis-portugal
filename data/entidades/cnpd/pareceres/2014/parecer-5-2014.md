@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 5/2014
-official_date: null
+official_date: '2014-01-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO-GERAL DOS ASSUNTOS EUROPEUS - MNE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 8 de 8 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,152 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:03:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 5/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60631](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60631).
+PrOCEsSO n. 106422018 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECERN.º 5 12014 1 - O pedido
+O Diretor do Departamento dos Assuntos Jurídicos, do Ministério dos Negócios
+Estrangeiros, vem solicitar o parecer da Comissão Nacional de Proteção de Dados sobre o projeto de Convenção para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em matéria de Impostos sobre o Rendimento entre a República Portuguesa e o Montenegro.
+O pedido de parecer decorre das atribuições conferidas à Comissão Nacional de Proteção de Dados pelo n.° 2 do artigo 22.º da Lei n.º 67/98, de 26 de outubro, e é emitido no uso da competência fixada na alínea a) do n.º 1 do artigo 23.° do mesmo diploma legal.
+II - Contratação internacional e transferência de dados pessoais
+Nos termos do artigo 25.°, n.º 1, da Diretiva 95/46/CE, de 24 de outubro de 1995, do
+Parlamento Europeu e do Conselho, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, bem como do artigo 19.° da Lei n.° 67/98, de 26 de outubro, que transpõe a Diretiva, a República
+Portuguesa só pode realizar transferências de dados pessoais para um país terceiro situado fora da União Europeia, como o Montenegro, se esse país assegurar um nível adequado de proteção dos dados.
+A luz do artigo 3.°, alínea a), da Lei n.º 67/98 (Lei de Proteção de Dados Pessoais), os dados tributários objeto de transferência constituem dados pessoais e podem, inclusivamente ser qualificados como dados sensíveis sempre que se referirem à reserva da vida privada dos seus titulares. Deste modo, antes de celebrarem um acordo bilateral com o
+Montenegro, as autoridades portuguesas devem certificar-se de que este país está em condições de assegurar um nível de proteção adequado para os dados tributários cuja transferência esteja prevista no texto do projeto.
+1 Note-se que nos termos do n.º 3 do artigo 19.° da Lei de Proteção de Dados Pessoais, cabe à CNPD decidir se um Estado que não pertença à União Europeia assegura um nível de proteção adequado.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 10642/2013
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A adequação do nível de proteção dos dados deve ser apreciada em função de todas as circunstâncias que rodeiam a transferência ou o conjunto de transferências, tomando em consideração, designadamente, a natureza dos dados, a finalidade e a duração dos tratamentos projetados, o país de origem e o país de destino final, as regras de direito, gerais ou sectoriais, em vigor no Estado em causa e, bem assim, as regras profissionais e as medidas de segurança que são respeitadas no Montenegro.
+Importa referir que no domínio dos instrumentos jurídicos de proteção de dados, o
+Montenegro aderiu à Convenção n.º 108/1981, do Conselho da Europa? no dia 6 de setembro de 2005, encontrando-se em vigor desde 6 de junho de 2006. Verifica-se ainda que o Montenegro assinou no dia 24 de fevereiro de 2009 o Protocolo Adicional à referida
+Convenção 108/19813, em vigor desde o dia 1 de julho de 2010.
+O Montenegro tem uma lei de proteção de dados, a Law on Protection of Personal Data, publicada na Official Gazette of Montenegro 79/08 e 70/084 que cria uma autoridade - a
+Agency for Personal Data Protection - com competência para supervisionar a aplicação do regime legal al consagrado, cujas atribuições se encontram previstas no artigo 50.°. A sua independência é expressamente prevista no artigo 49.°.
+Encontra-se também em vigor no Montenegro desde novembro de 2012 o Regulamento de
+Proteção de Dados que surge como desenvolvimento do artigo 24.° da Lei destinado às medidas de segurança a adotar para proteção dos dados pessoais em diversos domínios.
+2 Convenção para Proteção das Pessoas relativamente ao Tratamento Automatizado de Dados de Carácter
+Pessoal aprovada em 28 de Janeiro de 1981, foi aprovada para ratificação pela Resolução da AR n.º 23/93, de 9 de Julho de 1993 e ratificada pelo Decreto do PR n.º 21/93, da mesma data.
+3 Sobre as Autoridades de Controlo e os Fluxos Transfronteiras de Dados, de 8 de Novembro de 2001. Este
+Protocolo foi aprovado, para ratificação, pela Resolução da AR n.º 45/2006 e ratificado pelo Decreto do PR n.º 56/2006.
+4 Disponível em http://www.azlp.me/images/stories/Zakon/personaldataprotectionlaweng.pdf
+§ Disponível em http://www.ujn.gov.me/wp-content/uploads/2013/03/RegulationProtection.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 10642/2013 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Trata-se de um extenso documento dedicado à prevenção da destruição, acidental ou ilícita, alteração, difusão ou acesso não autorizado de dados pessoais.
+O regime legal em matéria de proteção de dados oferecido pelo Montenegro garante de uma maneira geral um nível de proteção de dados adequado.
+Cumpre agora apreciar se o Projeto de Acordo, regulador específico do intercâmbio de informações, oferece também as salvaguardas suficientes para a transferência internacional de dados.
+No caso português, embora a transferência de dados não resulte de disposição expressa prevista na legislação tributária, considera-se que o artigo 81.° do Código do Imposto sobre o Rendimento das Pessoas Singulares, sobre eliminação da dupla tributação internacional, tem como pressuposto lógico a troca de informações entre os Estados interessados como um meio adequado para garantir a eficácia das normas que contem e que o faz, além disso, em benefício dos interesses específicos dos contribuintes afetados.
+III - Apreciação
+O artigo 25.º da Convenção sob epígrafe "Exchange of information" regula as trocas de informações pelas Partes reproduzindo expressis verbis o artigo 26.° da Convenção Modelo da OCDE sobre Dupla Tributação do Rendimento e do Capital, na versão resumida de 2008, à exceção do n.º 6, que remete para a aplicação das diretivas sobre regulamentação de ficheiros de computador que contenham dados pessoais aprovadas pela Assembleia Geral das Nações Unidas.
+a) Finalidades da troca de informações
+O n.º 1 do artigo 25.° atribui à troca de informações duas finalidades cumuláveis: a) a aplicação da Convenção; b) a administração ou execução das leis internas sobre impostos, na medida em que a tributação nelas prevista não seja contrária ao acordo. Na verdade, a finalidade é só uma, coincidente com o objeto da Convenção, embora possa ser
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 10642/2013 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS prosseguida tanto no plano da aplicação da legislação tributária como no da própria convenção sobre dupla tributação.
+No que toca à proteção dos dados pessoais, exige-se que as informações sejam recolhidas para finalidades determinadas, explícitas e legítimas, não podendo ser posteriormente tratadas de forma incompatível com esses fins. Por esta razão, seria conveniente que fosse feita uma distinção mais fina das finalidades. Recomendamos, assim, que este artigo distinga claramente duas finalidades para a troca de informações:
+- a relativa à aplicação da Convenção e à administração e execução das leis internas sobre impostos das Partes Contratantes, no que toca à tributação dos rendimentos, às isenções e a outros mecanismos de eliminação da dupla tributação internacional;
+- a destinada a evitar ou a combater a evasão e a fraude fiscais.
+Como indicaremos adiante, esta distinção deverá produzir consequências no que toca ao regime dos direitos dos titulares dos dados e das obrigações dos responsáveis pelo tratamento.
+O n.º 1 do artigo 25.° prevê, in fine, que a troca de informações não fica restringida pelo disposto nos artigos 1.° e 2.°. Ora, uma tal previsão não é admissível à luz dos princípios vigentes em matéria de proteção de dados pessoais e, especificamente, do princípio da finalidade.
+A aparente abertura da finalidade do tratamento viola o princípio da finalidade, consagrado na alínea b) do n.º 1 do artigo 5.º da Lei n.º 67/98, de 26 de outubro - só assim se conseguindo depois avaliar da proporcionalidade da informação trocada ou a trocar. O mesmo vale para a delimitação da categoria dos titulares de dados pessoais abrangidos por este tratamento. Quando o artigo 1.° define o âmbito subjetivo de aplicação da Convenção, define também os sujeitos cujos dados podem ser trocados. Se se pretende estender este regime jurídico a outros sujeitos ou para outros fins, impõe-se que os mesmos sejam especificados no texto da Convenção.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 10642/2013
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS b) O respeito pelo princípio da proporcionalidade
+O mesmo n.º 1 do artigo em análise prevê que as autoridades competentes dos Estados
+Contratantes trocarão entre si as informações "previsivelmente relevantes" para aplicar a
+Convenção ou para a administração ou execução das leis internas.
+O juízo de prognose sobre quais os dados pessoais previsivelmente relevantes para combater a dupla tributação e a evasão fiscal, pela antecipação que implica de situações futuras relativamente indeterminadas, afigura-se demasiado aleatório face a cada situação concreta e, em todo o caso, alheio ao ditame da proporcionalidade, que impõe que só possam ser intercambiadas as informações necessárias, adequadas, pertinentes e não excessivas relativamente à finalidade do tratamento.
+Neste sentido, somos de opinião que uma alteração com semelhante teor contraria o princípio geral constante do artigo 5.° da Convenção 108 do Conselho da Europa e do artigo 6.°, n° 1, alínea c) da Diretiva 95/46/CE, de 24 de Outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, e não é coerente com o regime assumido como desejável pelos artigos 2.° do
+Protocolo Adicional à Convenção 108.° e 25.° e 26.° da Diretiva 95/46/CE para a transferências de dados para países terceiros.
+Recomenda-se, por isso, que, no n.° 1 do artigo 26.°, em vez de "previsivelmente relevantes" se empregue a expressão "necessárias", a qual, remete globalmente para o princípio da proporcionalidade (usando a parte pelo todo). Refira-se a este propósito que em diversas convenções sobre a mesma matéria" é utilizada a expressão "informações necessárias", a qual é suficientemente elástica para cobrir até casos relevantes de criminalidade fiscal. De resto, os próprios comentários oficiais à Convenção Modelo da OCDE admitem que qualquer uma destas expressões seja empregue, em alternativa, com um significado equivalente.
+6 Veja-se a título meramente exemplificativo as Convenções celebradas com a mesma finalidade com Israel,
+Paquistão, Singapura, Chile, Argélia, Holanda, constantes das Resoluções da Assembleia da República n.° 2/2008, 66/2003, 85/2000, 28/2006, 22/2006 e 62/2000 respetivamente.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 10642/2013 6
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS c) O acesso a dados sob sigilo bancário
+Num preceito que reproduz o artigo 26.°, n.º 5, da Convenção Modelo, o artigo 25.°, n.° 5, da proposta determina que um Estado Contratante não pode recusar-se a prestar informações unicamente porque possuídas por um banco, outra instituição financeira, um mandatário ou por uma pessoa agindo na qualidade de agente ou fiduciário, ou porque essas informações são conexas com os direitos de propriedade de uma pessoa.
+Este preceito torna evidente que na ponderação de bens efetuada na Convenção Modelo da
+OCDE se deu prevalência ao interesse público dos Estados Partes na tributação efetiva dos rendimentos abrangidos sobre o interesse dos particulares em ver salvaguardada a reserva da sua vida privada, ainda que este sacrifício venha acompanhado de garantias adequadas quanto à confidencialidade da informação transmitida.
+O artigo 25.°, n.º 5, deve, no entanto, ser interpretado no seu devido contexto. Deste modo, apesar dos termos literais da primeira parte do n.º 3 do artigo 25.°, deve entender-se que a aplicação do n.º 5 não afasta a aplicação daquele número, isto é, que o acesso às informações dos bancos não pode contrariar as condições estabelecidas na lei interna para o levantamento do segredo bancário. E é esta, de resto, a interpretação sugerida pelos comentários oficiais ao n.º 5 do artigo 26.º da Convenção Modelo da OCDE.
+d) Princípios gerais de proteção de dados pessoais
+O artigo 26.° do texto em análise integra no acordo disposições autónomas e expressas relativas às regras de proteção de dados pessoais e que as partes declaradamente se obrigam a respeitar.
+No que respeita aos direitos dos titulares dos dados, faz-se uma remissão para o direito interno das Partes que obriga os Estados a respeitarem os direitos de informação e de retificação dos contribuintes afetados pela transferência de dados, sendo certo que estes não são os únicos direitos dos titulares dos dados que devem ser salvaguardados. Por outro
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt.
+www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 10642/2013 7
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS lado, o exercício destes direitos deve ser coordenado com as diversas finalidades da troca de informações.
+Propomos, assim, que seja aditado ao artigo 26.° um novo número onde seja feita esta coordenação. Este número deve observar as seguintes linhas gerais:
+No caso de troca de informações com o objetivo de aplicar as leis internas ou a Convenção, no que toca à tributação dos rendimentos, às isenções e a outros mecanismos de eliminação da dupla tributação internacional, a autoridade competente deve notificar os contribuintes afetados informando-os sobre a comunicação que vai ser feita, os seus destinatários, a sua finalidade e o modo como podem exercer os direitos de acesso e de retificação dos dados.
+Só desta forma a Convenção se encontrará em conformidade com os direitos e liberdades do titular dos dados garantidos pelo artigo 35.°, n.º 1 da Constituição.
+Nos casos de trocas de informações destinadas a evitar ou a combater a evasão e a fraude fiscais o direito de informação dos titulares dos dados não pode ser garantido sem prejudicar a própria prossecução deste interesse público. Uma boa ponderação dos interesses em presença impõe a sua dispensa nos tratamentos efetuados com esta finalidade. O direito de acesso e retificação também não deverá ser concedido se for previsível que o seu exercício poderá afetar o sucesso da investigação;
+Em caso de troca de informação com o objetivo de investigar e reprimir os crimes e infrações tributárias conexos com as operações internacionais dos contribuintes poderá também justificar-se a dispensa da obrigação de informação por parte da autoridade responsável pelo tratamento. No entanto, os Estados Partes devem garantir que o titular dos dados possa exercer o seu direito de acesso aos mesmos através das autoridades independentes a quem o direito interno atribua a verificação do cumprimento da legislação de proteção de dados pessoais.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 10642/2013 8
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A terminar, alerta-se para a circunstância de não se prever na proposta atual a transmissão para terceiros Estados ou para organismos internacionais de dados pessoais recebidos da outra Parte Contratante ao abrigo da Convenção.
+IV - Conclusões
+Em face das observações feitas, considera-se que o texto do Acordo de cooperação bilateral entre a República Portuguesa e o Montenegro para Evitar a Dupla Tributação e Prevenir a
+Evasão Fiscal em matéria de Impostos sobre o Rendimento carece de algumas reformulações, em cumprimento do quadro legal português e europeu de proteção de dados.
+A Comissão Nacional de Proteção de Dados recomenda que venham a ser acolhidas as observações acima formuladas.
+É este o sentido do nosso parecer.
+Lisboa, 14 de janeiro de 2014
+Luís Barroso (Relator), Ana Roque, Carlos Campos Lobo, Helena António, Vasco Almeida e
+Luis Paiva de Andrade
+Hile
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

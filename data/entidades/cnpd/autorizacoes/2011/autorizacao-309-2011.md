@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FUNDAÇÃO BELMIRO DE AZEVEDO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,94 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:25:12Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 309/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27058](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27058).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n° 8244/09
+AUTORIZAÇÃO N° 309 12011
+I - O Pedido 1. A Fundação Belmiro Azevedo. veio notificar o tratamento de videovigilância a realizar no Colégio Efanor sito Av. Manuel Pinto de Azevedo, 88 - Senhora da Hora.
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 6 câmaras na entrada do edifício, recreio/pátio, entrada lateral e corredores de acesso a viaturas.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD) elaborou o projecto de autorização de 14 de Junho de 2010, no sentido de não autorizar a recolha de imagem no lobby, nem na copa, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.° 7741, de 29 de Junho de 2010, nos termos e para os efeitos do disposto no artigo 100.° do Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projecto, sustentando que: «no ponto 10 está inscrito a não autorização de recolha de imagens na zona de recreio/pátio.
+Informamos que nesse mesmo local está a ser construída a 2ª fase do Colégio
+Efanor, pelo que a referida câmara encontra-se desactivada».
+II - Análise
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Através da deliberação n° 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação dar condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, admite-se que sejam utilizados estes meios de prevenção na área abrangida com vista à protecção de pessoas e bens nos diversos edifícios. Trata-se da colocação de sistemas de recolha de imagem em zonas de circulação de pessoas.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que corresponde a um interesse público relevante. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+() Disponivel in http://www.cnpd.pt/orientacoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (?).
+A recolha de imagens deve confinar-se aos espaços interiores do estabelecimento e não pode envolver a recolha de imagens na via pública ou espaços exteriores ao perímetro do colégio.
+Não se autoriza a recolha de imagens na zona de recreio/ pátio, já que tal permite ao responsável uma intromissão desproporcionada na liberdade de movimentos e mesmo na privacidade dos alunos que acedem àqueles locais.
+Contudo, a CNPD ressalva a possibilidade de captação de imagens nos locais supra referidos fora do horário normal de funcionamento das instalações, isto é, em princípio, no período nocturno.
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que não se devia autorizar a recolha de imagens na zona supra referida, pois essa captação de imagens mostrava-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento.
+No entanto, a entidade requerente veio aos autos informa que a câmara se encontra desactivada.
+Assim sendo e atendendo ao supra exposto a CNPD informar que não estando a referida câmara autorizada, a mesma deve ser retirada.
+III - Conclusões (2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Considera-se, por isso, legitimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Praedium III, S.A.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelos responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem»
+(Art.º13.° n.º3 do Decreto-Lei n.º35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 4 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a actividade laboral (cf. artigo 20.° do Código do Trabalho).
+9. A recolha de imagens deve confinar-se aos espaços interiores do estabelecimento e não pode envolver a recolha de imagens na via pública ou espaços exteriores ao perímetro do colégio.
+10. Não é autorizada a recolha de imagens na zona de recreio/pátio, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento.
+Contudo, admite-se a captação de imagens nos locais supra referidos fora do período normal de funcionamento do estabelecimento escolar, isto é.
+em horário nocturno.
+Lisboa, 7 feleReiro 2011
+Ana Roque, Carlos Lobo, Helena Delgado António, Vasco Almeida, Luís Barroso,
+Luís Paiva de Andrade, que relatou
+Sor Sara
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 5 duvidas@cnpd.pt

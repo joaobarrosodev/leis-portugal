@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL FELGUEIRAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:27:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1376/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5591](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5591).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 3770/07
+AUTORIZAÇÃON 1376/08 1 - A Câmara Municipal de Felgueiras vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais que tem como finalidade a gestão de processos de execução fiscal.
+Os dados pessoais contidos em cada registo são os seguintes:
+Dados de identificação - nome, NIF, filiação, BI (número, data de emissão, validade, arquivo de identificação), estado civil, data e freguesia de nascimento, trabalhador dependente/independente, singular/colectivo, nacionalidade
+Dados profissionais - profissão
+Dados de contacto - morada (localidade, código postal, freguesia), telefone, fax, e-mail
+Outros dados pessoais - validade da declaração da segurança social, validade de declaração das Finanças, CAE
+A segurança das informações é garantida por cópias de backup, password de acesso às informações e acesso restrito de pessoas às instalações.
+A requerente propõe-se comunicar os dados a instituições bancárias, Segurança Social,
+GNR, DGCI, Conservatórias de Registo Predial, Comercial e de Automóveis e entidades patronais (em situações de penhora).
+2 - A Comissão Nacional de Protecção de Dados considera existir legitimidade para o tratamento dos dados que a requerente se propõe realizar, porquanto o tratamento se destina à prossecução de interesse legítimo do responsável (cf. artigo 6° alínea e) da Lei 67/98, de 26.10).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (cf. artigo 5°, n.º1 alínea a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+A informação deverá ser conservada pelo período estritamente necessário à finalidade, não podendo ser conservada para além do prazo do procedimento de execução fiscal, findo o qual a entidade responsável deve proceder à eliminação dos dados.
+A responsável pelo tratamento deve garantir aos titulares dos dados o direito de informação, de forma a cumprir o disposto no artigo 10° da Lei 67/98, de 26.10.
+3 - Pelo exposto, e observadas as condições referidas, a Comissão Nacional de
+Protecção de Dados autoriza a realização do tratamento de dados notificado, consignando-se, nos termos do artigo 30° da Lei 67/98, de 26.10, o seguinte:
+Responsável pelo tratamento: Câmara Municipal de Felgueiras
+Finalidade do tratamento: gestão de processos de execução fiscal
+Categoria de Dados:
+Dados de identificação - nome, NIF, filiação, BI (número, data de emissão, validade, arquivo de identificação), estado civil, data e freguesia de nascimento, trabalhador dependente/independente, singular/colectivo, nacionalidade
+Dados profissionais - profissão
+Dados de contacto - morada (localidade, código postal, freguesia), telefone, fax, e-mail
+Outros dados pessoais - validade da declaração da segurança social, validade de declaração das Finanças, CAE
+Comunicação de dados: instituições bancárias, Segurança Social, GNR, DGCI,
+Conservatórias de Registo Predial, Comercial e de Automóveis e entidades patronais (em situações de penhora)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Interconexões de dados: não há
+Forma de exercício do direito de acesso e rectificação: por contacto pessoal com a responsável.
+Lisboa, 30 de Junto de 2008
+Luís Barroso
+Eduardo Campos
+анно sut
+Ana Roque
+Carlos Campos Lobo
+Helena Delgado António (relatora)
+Variosticida
+Vasco Almeida pares Talore
+Luis Lingnau Silveira (Presidente
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

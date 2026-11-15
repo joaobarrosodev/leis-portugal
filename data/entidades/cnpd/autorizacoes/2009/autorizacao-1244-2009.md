@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INVESTMENTS 2234 OVERSEAS FUND IV B.V.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:18:30Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1244/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15251](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15251).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 7890/08
+Autorização n.º 2X /2009
+O pedido
+Domusvenda, SA na qualidade de representante da Investiments 2234 Overseas Fund IV, BV notificou à CNPD um tratamento de dados pessoais com a finalidade de Gestão de Contratos de Crédito Litigioso.
+A entidade encarregue do processamento da informação é a Domusvenda, SA.
+Os dados tratados pela requerente - que figura como cessionária dos créditos e assume o risco de os adquirir e cobrar em caso de incumprimento - são recolhidos indirectamente, sendo-lhes comunicados pelas empresas cedentes.
+São processadas as seguintes categorias de dados pessoais: nome, morada, data de nascimento, telefone, fax, e-mail, BI, NIF, dados relativos ao processo judicial, quantia exequenda, taxa de juro aplicada, descrição da hipoteca e dos imóveis hipotecados.
+Há fluxo da informação para a Holanda, para o responsável do tratamento.
+Análise jurídica do tratamento
+O responsável pelo tratamento tem sede na Holanda, não estando estabelecido no território nacional. Recorrendo, para o tratamento de dados pessoais a meios situados em território português, designou um representante estabelecido em Portugal, que, por força do disposto no n.º 5 do artigo 4º da LPD, se lhe substitui em todos os direitos e obrigações decorrentes da referida lei.
+Os dados declarados são pertinentes, necessários e não excessivos face à finalidade (cf. al. c)
+do n.º 1 do artigo 5° da LPD).
+A cedência de dados é feita no âmbito de um contrato celebrado nos termos do artigo 577º do
+Código Civil. Por força do n.º 1 do referido artigo 577º a cessão de crédito é admissível independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.º 1 do art.° 582° do CC)
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados objecto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no art. 78.º do DL 298/92, de 31 de Dezembro. Assim, enquadram-se no conceito de vida privada do n.º 1 do artigo 7º da Lei n.º 67/98, de 26 de Outubro.
+O fundamento de legitimidade para o tratamento dos dados é, nos termos do n.º 2 do artigo 7° da LPD, o artigo 577º do Código Civil.
+Relativamente à entidade que processa a informação, terá o responsável de estabelecer o contrato previsto no artigo 14º da LPD. Nesse contrato, que deverá revestir a forma escrita, com valor probatório legalmente reconhecido, deve constar que a Domusvenda, SA apenas actua mediante instruções do responsável e que lhe incumbe a obrigação de pôr em prática medidas técnicas e organizativas adequadas para proteger os dados pessoais contra a destruição acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizado, bem como garantir um nível de segurança adequado em relação aos riscos inerentes ao tratamento e à natureza dos dados a proteger.
+O responsável pelo tratamento, que recebe os dados de um terceiro (o cedente), deve assegurar o direito de informação no momento do registo da informação no seu sistema, cf.
+n.º 3 do artigo 10 da LPD. A informação a prestar será, por remissão daquele dispositivo, a prevista no n.º 1 do mesmo artigo.
+Quanto à segurança da informação - e porque estão em causa dados sujeitos a sigilo bancário
+- devem ser adoptadas as medidas previstas no artigo 15º da LPD. Deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de auditoria de acesso à informação. De igual modo, devem ser feitas cópias de segurança da informação as quais deverão ser mantidas em local apenas acessível ao administrador do sistema. Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+No que respeita ao fluxo transfronteiriço de dados, deve o responsável, no momento do contrato cessão dos créditos estabelecer as cláusulas previstas no n.º 2 do artigo 20º da LPD, nas quais assegure mecanismos suficientes de garantia da protecção da vida privada e dos direitos e liberdades titulares. Essas cláusulas constituirão o fundamento que legitima a autorização da CNPD para a transferência de dados.
+Decisão
+Em face do exposto, nos termos do n.º 1, alínea b), do artigo 23º e alínea b) do n.º1 do artigo 28º, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.º da Lei 67/98, o seguinte:
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1. Responsável: Investiments 2234 Overseas Fund IV, BV 2. Representante do responsável: Domusvenda, SA.
+3. Categorias de dados pessoais tratados: nome, morada, data de nascimento, telefone, fax, e-mail, BI, NIF, dados relativos ao processo judicial, quantia exequenda, taxa de juro aplicada, descrição da hipoteca e dos imóveis hipotecados.
+4. Finalidade: Gestão de Contratos de Crédito Litigioso.
+5. Entidades a quem podem ser transmitidos: não há 6. Forma de exercício do direito de acesso e rectificação: Pessoalmente ou telefonicamente junto da subcontratante.
+7. Interconexões : Não existem 8. Transferências de dados para países terceiros : Não há
+Lisboa, lo de Março de 2009
+Carlos Campos Lobo ; Luís Barroso; Luís Paiva de Andrade; Ana Roque; Helena Delgado
+António; Vasco Almeida (Relator)
+Sd
+Luís Silveira, Presidente

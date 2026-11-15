@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 17/2020
-official_date: null
+official_date: '2020-02-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO DE PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,21 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:56:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 17/2020
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121733](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121733).
+Processo PAR/2020/2 1
+COMISSÃO NACIONAL
+DE PROTEÇÃO DE DADOS
+PARECER/2020/17
+O Banco de Portugal solicitou à Comissão Nacional de Proteção de Dados (CNPD) que se pronunciasse sobre o projeto de Instrução que define os moldes e termos de envio do reporte sobre a atividade desenvolvida, em território nacional, por entidades financeiras com sede noutro estado-membro da União Europeia que operem em Portugal ao abrigo do regime de livre prestação de serviços.
+O pedido formulado e o presente parecer enquadram-se nas atribuições e competências da
+CNPD, enquanto autoridade nacional de controlo dos tratamentos de dados pessoais, nos termos do disposto na alínea c) do n.º 1 do artigo 57.° e no n.º 4 do artigo 36.° do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento
+Geral sobre a Proteção de Dados - RGPD), em conjugação com o disposto no artigo 3.°, no n.º 2 do artigo 4.° e da alínea a) do n.º 1 do artigo 6.°, todos da Lei n.º 58/2019, de 8 de agosto (a qual tem por objeto assegurar a execução, na ordem jurídica interna, do RGPD).
+O projeto de instrução do Banco de Portugal não suscita questões do ponto de vista da proteção de dados pessoais.
+Aprovado na reunião plenária de 4 de fevereiro de 2020
+Filipa Calvão (Presidente)
+AV. D. CARLOS 1. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2/2009
-official_date: null
+official_date: '2009-01-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GM - GABINETE PARTICULAR DE MEDICINA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,33 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:44:28Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 2/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13686](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13686).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 242/2001
+REGISTO n.º 2 109
+O Gabinete Particular de Medicina, Lda., notificou um tratamento com a finalidade de realização de relatórios médicos e arquivo das fichas clínicas.
+Declara as seguintes categorias de dados pessoais: Nome, morada, telefone, género, avaliação clínica, exames complementares realizados e terapêutica proposta.
+No caso vertente, a informação tratada é recolhida de forma lícita (artigo 5.°, n.° 1 al. a) da Lei de Protecção de Dados), sem obtenção do consentimento do titular, para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é o n.º 4 do artigo 7.° da Lei n.º 67/98, de 26 de
+Outubro (Lei de Protecção de Dados Pessoais), uma vez que o tratamento é necessário para diagnóstico, prestação de cuidados e tratamentos médicos, é efectuado por um profissional de saúde e foram declaradas medidas de segurança.
+Assim, nos termos dos artigos 27.°, n.º 1 e 30.º da Lei de Protecção de Dados regista-se, nos exactos termos declarados, o tratamento nos seguintes termos e com as seguintes condições:
+1. Responsável: Gabinete Particular de Medicina, Lda.
+2. Categorias de dados pessoais tratados: Nome, morada, telefone, género, avaliação clínica, exames complementares realizados e terapêutica proposta.
+3. Finalidade: Realização de relatórios médicos e arquivo das fichas clínicas 4. Entidades a quem podem ser transmitidos: Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 5. Forma de exercício do direito de acesso e rectificação: Por solicitação ao responsável 6. Interconexões: Não existem 7. Transferências de dados para países terceiros: Não há.
+8. Tempo de conservação: Nos termos do anexo da Portaria n.º 247/2000, de 8 de Maio.
+Aos titulares dos dados deve ser assegurado o direito de informação previsto no art. 10.° da referida lei.
+O responsável deve assegurar as medidas de segurança necessárias à sensibilidade da informação tratada, designadamente a separação lógica entre os dados administrativos e os dados de saúde (cf. artigo 15.° n.º 3 da referida lei), devendo ser adoptadas medidas de segurança que impeçam o acesso à informação por pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos e técnicos de saúde ou, sob a sua direcção, a outros profissionais obrigados a segredo profissional (n.º 4 do citado artigo 7.°);
+Lisboa, 7 de Janeiro de 2009
+A Secretária da Comissão
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39

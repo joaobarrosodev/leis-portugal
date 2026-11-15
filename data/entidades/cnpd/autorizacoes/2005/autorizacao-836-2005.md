@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 836/2005
-official_date: null
+official_date: '2005-10-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: EDITORIAL DO MINISTÉRIO DA EDUCAÇÃO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 836/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6544](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6544).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.º 754/02
+EB6
+Autorização n.° /2005
+A Editorial do Ministério da Educação vem notificar junto da Comunicação Nacional de Protecção de Dados (CNPD) o tratamento de dados de saúde e com as finalidades de gestão do pessoal.
+Os dados de saúde devem obedecer a um tratamento que garanta o cumprimento do princípio da lealdade (artigo 5.°, n.° 1, alínea a)). Deve prestar-se particular atenção ao direito de informação (artigo 10.°, n.º 1) e assegurar a separação lógica entre os dados referentes à saúde e os demais dados pessoais.
+Devem ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos do trabalho ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a segredo profissional.
+As observações clínicas relativas a exames médicos são anotadas em ficha própria podendo a informação servir de base ao preenchimento da ficha de aptidão, a qual, sendo remetida ao responsável pela área dos recursos, não pode conter elementos que envolvam segredo profissional (artigo 21.°, n.º 3 do Decreto-Lei n.º 26/94); isto é, não será possível inscrever diagnósticos ou qualquer informação de saúde na ficha de aptidão nem permitir que, por qualquer forma, dados de saúde sejam acessíveis a pessoas não autorizadas.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 7.°, n.°s 1 e 2, 28.°, n.° 1, alínea a) e 30.°, da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados de saúde nos seguintes termos:
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável: Editorial do Ministério da Educação. O responsável não pode ter acesso a dados de saúde. Tal acesso apenas pode ser obtido por médico ou outro profissional de saúde abrangido pelo dever de sigilo.
+Dados tratados: Os que integram a notificação.
+Finalidade: Tratamento de dados clínicos resultantes da actividade de Medicina no
+Trabalho.
+Forma de exercício do direito de acesso e rectificação: A qualquer momento e através de qualquer processo.
+Comunicação de Dados: Não se verifica.
+Lisboa, 17 de Outubro de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos deu
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aneden lug
+Amadeu Guerra
+Sas Antes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

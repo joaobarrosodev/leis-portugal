@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2414/2007
-official_date: null
+official_date: '2007-12-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ROCHE FARMACEUTICA QUÍMICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:57:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2414/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/149](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/149).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 4219/07
+AUTORIZAÇÃO N.9) \ (4/2007
+Roche Farmacêutica Química, Lda veio notificar à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo epidemiológico para "caracterizar a prevalência do status HER-2 nas doentes com carcinoma da mama invasivoi
+A KeyPoint, Consultoria Cientifica, Lda será a entidade encarregue do processamento da informação.
+E um estudo observacional. O estudo terá a duração aproximada de 6 meses.
+Aos doentes que reúnam os critérios de inclusão no estudo, será solicitado, pelo seu médico assistente participante, no âmbito da consulta, o consentimento para a sua participação no estudo e para a recolha de dados pessoais.
+As declarações de consentimento são guardadas pelo médico investigador.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo recolhido, apenas, o código do doente. A chave desta codificação é apenas conhecida do médico.
+A informação relativa ao doente participante no estudo é recolhida directamente do doente.
+As categorias de dados recolhidos são as seguintes: código do participante, data da visita, dados demográficos, história clínica da doença em estudo, determinação do status HER-2.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento do titular dos dados, devendo este ser informado, contendo os elementos previstos no artigo 10° da Lei n.° 67/98.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Roche Farmacêutica Química, Lda
+Finalidade: estudo epidemiológico para caracterizar a prevalência do status HER-2 nas doentes com carcinoma da mama invasivo
+Categoria de Dados pessoais tratados: código do participante, data da visita, dados demográficos, história clínica da doença em estudo, determinação do status HER-2.
+Entidades a quem podem ser comunicados: Não há comunicação.
+Formas de exercício do direito de acesso e rectificação: junto do médico investigador.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do doente porque torna os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 3 de Dezembro de 2007
+Ana Roque
+Rua de São Bento, 148 - 3° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 332
+E-mail: geral@cnpd.pt
+Internet: http://www.ongd.pt 2
+
+COMISSÃO NAdONAL
+DE PROTECÇÃO DE DADOS duardo
+Campos (Relato
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

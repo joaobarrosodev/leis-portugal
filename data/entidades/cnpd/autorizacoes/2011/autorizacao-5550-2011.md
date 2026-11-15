@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TMN - Telecomunicações Móveis Nacionais'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,94 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:54:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5550/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/32362](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/32362).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 3508/2011
+AUTORIZAÇÃON 5550/11 1 - O Pedido
+TMN - Telecomunicações Móveis Nacionais, S.A., vem notificar à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais que tem como finalidade de selecção de pessoal e recrutamento e marketing.
+As categorias de dados tratados são as seguintes:
+Nome, data de nascimento, naturalidade, nacionalidade, sexo, filiação, estado civil, morada, telefone, e-mail, data de admissão, situação militar, número, data de emissão e arquivo do cartão de cidadão/bilhete de identidade, NIF, número de segurança social, número de carta de condução, número de passaporte, certificado de registo criminal, visto de residência, NIB, banco, número da conta, número de titulares do rendimento, nome do cônjuge, existência de trabalhador ou cônjuge deficiente, número de dependentes, grau de escolaridade/habilitações, estabelecimento de ensino, data de início e de conclusão e média final de curso/formação, certificação/carteira profissional, competências em línguas estrangeiras, competências informáticas, formação profissional relevante, dados relativos à experiência profissional (empresa, data de admissão e demissão, lugares desempenhados, motivo de saída, experiência profissional no estrangeiro), principais áreas de interesse, disponibilidade para viajar, expectativa salarial/condições salariais actuais, existência de conhecidos ou familiares na empresa, referências, dados relativos ao resultado da avaliação (resultados dos testes psicotécnicos, resultado do exame médico de aptidão ou não para o cargo).
+A recolha de dados é efectuada directamente, através do preenchimento de impresso, por via telefónica, presencialmente ou através da internet.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 21 393 00 39
+LINHA PRIVACIDADE
+Dias teis das 10 àe 12 h
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O processamento dos dados e o desenvolvimento do suporte informático das bases de dados é efectuado, em regime de prestação de serviço, pelas empresas PT PRO -
+Serviços Administrativos e de Gestão Partilhada, SA, e PT Sistemas de Informação, SA, respectivamente.
+Está assegurado o direito à actualização dos dados, bem como as condições de o titular conhecer, corrigir e eliminar os dados.
+A segurança das informações é garantida por cópias de backup, password de acesso às informações, sistemas de processamento de backup e acesso restrito de pessoas às instalações.
+Pretende-se a conservação dos dados pelo prazo de 5 anos, nos termos do artigo 32° da
+Lei n° 7/2009, de 12.02, que aprovou o Código do Trabalho.
+A requerente pretende comunicar dados pessoais, para efeitos de realização de exames médicos para efeitos de admissão do trabalhador à empresa PT ACS - Associação de
+Cuidados de Saúde e, com o consentimento expresso do titular, à empresa PT
+Comunicações, SA, para fins de marketing ou outras formas de prospecção.
+Pretende ainda a requerente que seja autorizada a interconexão de dados com a base de dados de Recursos Humanos da requerente e com as bases de dados de recrutamento de todas as empresas do Grupo PT.
+2 - Apreciação
+Os dados são tratados no âmbito de diligências prévias à formação do contrato, pelo que a CNPD considera que existe legitimidade para o tratamento de dados por força do estatuído no artigo 6°, alínea a), da Lei n° 67/98, de 26.10.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral(a.cnpd.pt www.cnod.nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é, na generalidade, adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (alínea c) do n.º 1 do artigo 5.° da Lei 67/98, de 26.10), com excepção do dado - certificado do registo criminal -, o qual se mostra como claramente excessivo para a finalidade, uma vez que em causa não estão actividades relativamente às quais a lei autorize a respectiva recolha, e dos dados - NIB, banco, número da conta, número de titulares do rendimento, nome do cônjuge, existência de trabalhador ou cônjuge deficiente, número de dependentes -, cujo tratamento (se bem que necessário para a finalidade de recursos humanos) se apresenta como claramente excessivo em face da finalidade selecção e recrutamento prosseguida).
+No momento da recolha ou da actualização dos dados existentes deve ser assegurado direito de informação e acesso nos termos previstos nos artigos 10.° e 11.º da Lei n.º 67/98, de 26.10. Caso os dados sejam recolhidos através de inscrição on line, o titular dos dados deve ser informado de que os dados pessoais podem circular em rede aberta sem condições de segurança, correndo o risco de serem vistos e utilizados por terceiros não autorizados (artigo 10° n°4 da Lei n° 67/98, de 26.10).
+Quanto à pretendida interconexão de dados, nos termos do artigo 9.°, conjugado com os artigos 27º n.º 1 e 28.° n.º1, alínea c), da Lei n.º 67/98, de 26.10, o tratamento está sujeito a autorização da CNPD, desde que não esteja previsto em disposição legal.
+Ainda de acordo com o n.º 2 do art.º 9º da Lei n.º 67/98, a interconexão de dados pessoais deve ser adequada à prossecução das finalidades legais ou estatutárias e de interesses legítimos dos responsáveis dos tratamentos e não pode implicar discriminação ou diminuição dos direitos, liberdades e garantias dos titulares dos dados, ser rodeada de adequadas medidas de segurança e ter em conta o tipo de dados objecto de interconexão.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 21 393 00 39
+LINHA PRIVACIDADE
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No caso, tendo em consideração a finalidade declarada pela requerente, a CNPD entende que a interconexão de dados é adequada aos interesses legítimos da requerente enquanto entidade responsável pelo tratamento, não implicando a mesma discriminação ou diminuição dos direitos, liberdades e garantias dos titulares dos dados.
+Também se autoriza a comunicação de dados a terceiras entidades nos termos declarados desde que estas tenham os seus tratamentos legalizados junto da CNPD.
+Relativamente à utilização/comunicação dos dados dos trabalhadores para fins de marketing, apenas se admite o tratamento de dados relativos ao nome e contactos, não podendo os restantes dados ser utilizados.
+Afigura-se-nos ajustado o período proposto para a conservação dos dados.
+Devem ser garantidas as regras de segurança adequadas, cabendo à responsável assegurar o resultado da efectiva segurança da informação e dos dados pessoais tratados.
+Alerta-se para o facto de a presente autorização não abranger a Medicina no
+Trabalho.
+3 - Conclusão
+Assim, nos termos dos artigos 9° n.º 1, 28° nº1, alínea c), e 30° n.º 1 da Lei n° 67/98, de 26.10, a CNPD delibera autorizar o tratamento de dados pessoais notificado, desde que observadas as condições impostas, consignando-se o seguinte:
+Responsável - TMN - Telecomunicações Móveis Nacionais, S.A.
+Finalidade - selecção de pessoal e recrutamento e marketing
+Categoria de dados pessoais tratados - nome, data de nascimento, naturalidade, nacionalidade, sexo, filiação, estado civil, morada, telefone, e-mail, data de admissão,
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE
+
+5
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS situação militar, número, data de emissão e arquivo do cartão de cidadão/bilhete de identidade, NIF, número de segurança social, número de carta de condução, número de passaporte, visto de residência, grau de escolaridade/habilitações, estabelecimento de ensino, data de início e de conclusão e média final de curso/formação, certificação/carteira profissional, competências em línguas estrangeiras, competências informáticas, formação profissional relevante, dados relativos à experiência profissional (empresa, data de admissão e demissão, lugares desempenhados, motivo de saída, experiência profissional no estrangeiro), principais áreas de interesse, disponibilidade para viajar, expectativa salarial/condições salariais actuais, existência de conhecidos ou familiares na empresa, referências, dados relativos ao resultado da avaliação (resultados dos testes psicotécnicos, resultado do exame médico de aptidão ou não para o cargo)
+Forma de exercício do direito de acesso e rectificação - Por solicitação feita por escrito ao responsável
+Comunicações de dados - à empresa PT ACS - Associação de Cuidados de Saúde, para efeitos de realização de exames médicos, e à empresa PT Comunicações, SA, para fins de marketing ou outras formas de prospecção
+Interconexões - com a base de dados de Recursos Humanos da requerente e com as bases de dados de recrutamento de todas as empresas do Grupo PT
+Fluxo transfronteiriço de dados para países terceiros - não há
+Lisboa, 23 I
+Vaio de 2011.
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade ses Silves
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 oeral(acnnd nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

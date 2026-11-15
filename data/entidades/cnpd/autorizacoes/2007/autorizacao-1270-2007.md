@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1270/2007
-official_date: null
+official_date: '2007-07-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CREDIFIN - BANCO DE CRÉDITO AO CONSUMO, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:18:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1270/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2042](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2042).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. N° 1076/06 1370
+Autorização n° /2007
+O pedido
+A sociedade anónima Credifin - Banco de Crédito ao Consumo, S.A., tem por objecto operações de financiamento, entre as quais se destaca a concessão de crédito ao consumo. No âmbito da sua actividade, o Credifin estabelece várias parcerias com vista à emissão de cartões de crédito para pagamento exclusivo nas lojas da entidade parceira.
+Pela Autorização n° 675/2006, expendida no processo n° 1076/2006, o Credifin obteve uma Autorização para um tratamento cuja finalidade descreveu como "Análise, emissão, gestão e tratamento de cartões privativos de pagamento, realização de acções de marketing de produtos e serviços do Credifin, bem como análise de risco de futuras propostas de crédito não só para atribuição de cartões privativos mas também de todos os produtos comercializados pelo
+Credifin". Os dados pessoais contidos em cada registo são o nome, a data de nascimento, B. I., NIF, nacionalidade, sexo e dados relativos ao crédito e solvabilidade. Os dados são recolhidos com o consentimento do titular. Poderá haver interconexão de dados com outras entidades (Credinformações - Informações de Crédito Lda.,
+Banco de Portugal, SCCI - Serviços de Controlo de Créditos, Lda.).
+A informação recolhida foi considerada necessária, pertinente e não excessiva em relação à finalidade ( artigo 5° da Lei n° 67/98, de 26 de Outubro). Os dados são tratados na sequência de uma relação contratual cujo objectivo consiste na emissão e gestão de cartão de pagamento. Existe, pois, legitimidade, nos termos do artigo 6°, alínea a) da Lei n° 67/98.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA --- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em relação ao tratamento de dados para efeitos de marketing, tem que ser sempre assegurado o direito de oposição (artigo 12°, alínea b), da mesma Lei).
+No contexto de mesma Autorização, o Credifin procedia à transferência de dados para França, uma vez que era subcontratante a empresa SDDC, sedeada naquele Estado.
+Vem agora o Credifin notificar que irá proceder igualmente à transferência de dados para Inglaterra, "para Fidelity Information Sistems via CTF (network transfer). O motivo da transferência deve-se ao facto da actual aplicação de software (Sesame) ir ser substituída pela aplicação de software denominada
+Base 2000, desenvolvida e mantida pela empresa Fidelity Information Sistems, em Warwick, Inglaterra. Os controlos existentes dividem-se em controlos à entrada e controlos regulares, e os procedimentos de protecção incluem o controlo de acessos (password e níveis de acesso diferenciados), bloqueio de segurança e possibilidade de "tracebility" e "auditing". A segurança da informação é garantida por um sistema de backups.
+Nos termos dos artigos 27°, 28°, n° 1 - b), e 30°, todos da Lei n° 67/98, autoriza-se o tratamento notificado, consignando-se o seguinte:
+1. Responsável: Credifin - Banco de Crédito ao Consumo, S.A.
+2. Categorias de dados pessoais tratados: os indicados no quadro 5.
+3. Finalidade: análise, emissão, gestão e tratamento de cartão de crédito, bem como acções de marketing para produtos e serviços Credifin.
+4. Entidades a quem os dados podem ser transmitidos:
+Credinformações - Informações de Crédito Lda., Banco de Portugal,
+SCCI - Serviços de Controlo de Créditos, Lda.
+5. Forma de exercício do direito de acesso e rectificação:
+pessoalmente ou por escrito.
+6. Transferência de dados: para França e Inglaterra.
+7. Conservação dos dados: 10 anos.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+Lps
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 8. Todos os contratos celebrados entre a Credifin e qualquer outra entidade para efeitos de análise, emissão, gestão e tratamento de cartão de crédito, bem como acções de marketing para produtos e serviços Credifin e que originem qualquer tratamento de dados pessoais deverão ser notificados à CNPD.
+Lisboa, 9 de Julho de 2007.
+Ana Roque (relatora)
+Carlos Campos Lobo
+Luís Barroso cafeeeeee
+Helena Delgado António
+Eduardo Campos vaserfemeraa
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento. 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

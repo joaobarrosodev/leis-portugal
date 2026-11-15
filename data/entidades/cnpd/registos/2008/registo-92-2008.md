@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LABORATÓRIOS PFIZER, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 92/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/991](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/991).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 708/07
+Registo n.° 9 08
+Os Laboratórios Pfizer, Lda notificaram um tratamento de dados pessoais com a finalidade de marketing, relativa à campanha "cessação tabágica".
+A campanha é dirigida a profissionais de saúde que, mediante solicitação, enviará informações ou programas educacionais sobre a cessação tabágica.
+Declaram as seguintes categorias de dados pessoais: Nome, especialidade, local de trabalho, telefone e e-mail.
+Os dados são recolhidos pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alinea e)do artigo 6° da LPD, o interesse do responsável.
+Assim, com as limitações supra, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Laboratórios Pfizer, Lda
+Categoria de dados pessoais tratados - Nome, especialidade, local de trabalho, telefone e e-mail.
+Finalidade - marketing, relativa à campanha "cessação tabágica"
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável, pessoalmente, pela Internet ou por impresso.
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve, no momento da recolha, ser garantido o direito de informação previsto no artigo 10° da LPD, bem como o direito de se oporem à utilização dos seus dados para fins de marketing
+Alerta-se o responsável que o presente registo não inclui a finalidade de "visita de delegados de informaçãoi que constitui um tratamento autónomo.
+Quanto ao prazo máximo de conservação de dados, atenta a finalidade, fixa-se em 1 ano após o último contacto do titular.
+Lisboa, 7 de Fevereiro de 08
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

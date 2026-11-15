@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MEDTRONIC PORTUGAL - COMÉRCIO E DISTRIBUIÇÃO DE APARELHOS MÉDICOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:07:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1862/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15833](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15833).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 2159/09
+Autorização n.9062/12009
+Medtronic Portugal - Comércio e Distribuição de Aparelhos Médicos, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um registo de perfis nacionais e dados epidemiológicos de doentes que usam Pacemakers e Cardioversores Desfibrilhadores
+Implantáveis Medtronic ambos com ou sem Terapêutica de Ressincronização Cardíaca,
+Registadores de Eventos Implantáveis e eléctrodos implantados dentro da normal utilização.
+O estudo irá incluir doentes que cumpram os critérios de elegibilidade e que aceitem participar no estudo, aos quais será solicitado, pelo seu médico assistente no âmbito da consulta, o consentimento para a sua participação no estudo e consequente recolha de dados pessoais.
+As declarações de consentimento são guardadas pelo médico assistente
+Os dados serão recolhidos do processo clínico do doente.
+Não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação é apenas conhecida do médico assistente.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+O texto do direito de informação constante do formulário de consentimento informado deve ser reformulado de modo a cumprir o artigo 10° da LPD e os termos fixados na presente autorização.
+Assim, tendo em atenção o disposto disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Medtronic Portugal - Comércio e Distribuição de Aparelhos
+Médicos, Lda
+Finalidade registo de perfis nacionais e dados epidemiológicos de doentes que usam
+Pacemakers e Cardioversores Desfibrilhadores Implantáveis Medtronic ambos com ou sem
+Terapéutica de Ressincronização Cardíaca, Registadores de Eventos Implantáveis e eléctrodos implantados dentro da normal utilização
+Categoria de Dados pessoais tratados: código do doente, verificação dos critérios de inclusão, data de nascimento, sexo, peso, altura, fumador, doenças concomitantes, dados relativos às indicações para os implantes, estado cardíaco actual, antecedentes cardíacos, factores de risco cardíaco, dados relativos à intervenção, procedimento, resultado pós-procedimento, alta e seguimento do doente.
+Entidades a quem podem ser comunicados: Não há
+Formas de exercício do direito de acesso e rectificação: junto do médico participante.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente, porque permite tornar os dados identificados, deve ser destruído pelo médico investigador após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, de Nao de 2009
+Ana Roque, Carlos Campos Lobo, Luís Paiva de Andrade, Helena Delgado António (Relatora),
+Luis Barroso, Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

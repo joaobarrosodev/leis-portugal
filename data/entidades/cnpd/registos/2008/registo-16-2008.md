@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 16/2008
-official_date: null
+official_date: '2008-01-22'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL DE SANTA MARTA, S.A. (SIDC -SERVIÇOS FINANCEIROS)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,33 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 16/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1066](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1066).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 18/07
+REGISTO n.º | 6 108
+O Hospital de Santa Marta, EPE notificou um tratamento com a finalidade de gestão de escalas.
+Declara as seguintes categorias de dados pessoais: Nome, número mecanográfico, número de horas de contrato, tempo de trabalho, tempo de ausência/falta, tempo de hora extra e tempo nocturno.
+Os dados são recolhidos directamente, por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6º da LPD, a execução de contrato.
+Assim, nos termos dos artigos 27°, n.º1 e 30° da Lei de Protecção de Dados regista-se, nos exactos termos declarados, o tratamento com as seguintes condições:
+1. Responsável: Hospital de Santa Marta, EPE 2. Categorias de dados pessoais tratados: Nome, número mecanográfico, número de horas de contrato, tempo de trabalho, tempo de ausência/falta, tempo de hora extra e tempo nocturno.
+3. Finalidade: gestão de escalas 4. Entidades a quem podem ser transmitidos: Não há comunicação de dados.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita ou pessoal junto do serviço de recursos humanos.
+6. Interconexões : Não existem 7. Transferências de dados para países terceiros : Não há.
+8. Tempo de conservação: Um ano.
+Aos titulares dos dados deve ser assegurado o direito de Informação previsto no art.
+10° da referida lei;
+Lisboa, 22 de Janeiro de 2008
+A Secretária da Comissão
+Traso
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 16/2015
-official_date: null
+official_date: '2015-02-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO GERAL DO CONSUMIDOR'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:01:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 16/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/74218](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/74218).
+Processo n.° 1103/2015 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+PARECER N.% 12015 1. Pedido
+A Direção-Geral do Consumidor vem solicitar à Comissão Nacional de Protecção de
+Dados (CNPD) a emissão de parecer sobre a proposta de revisão da Recomendação da OCDE intitulada «Linhas Diretrizes para a Proteção do Consumidor no âmbito do
+Comércio Eletrónico».
+O pedido formulado decorre das atribuições conferidas à CNPD pelo n.° 2 do artigo 22.° da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados Pessoais, doravante
+LPD), e é emitido no uso da competência fixada na alínea a) do n.º 1 do artigo 23.° do mesmo diploma legal.
+2. Apreciação
+O âmbito do presente parecer centra-se na apreciação da matéria relativa à proteção de dados pessoais, interpretando-se o seu conceito na aceção do artigo 3.°, alínea a), da LPD.
+Nessa medida, releva o disposto no parágrafo Il da Parte Il relativa ao comércio justo e práticas de publicidade e marketing, por aí se definirem recomendações quanto ao envio de comunicações eletrónicas não solicitadas para fins de marketing, operação que implica um tratamento de dados pessoais.
+Neste ponto, na medida em que as recomendações definidas não coincidem totalmente com o estabelecido na Diretiva n.º 2009/136/CE, transposta pela Lei n.º 46/2012, de 29 de agosto, que altera a Lei n.º 41/2004, de 18 de agosto, sublinha-se o acerto da salvaguarda, efetuada no mesmo ponto, da previsão legal ou autoregulatória de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 1103/2015 | 2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS específicos requisitos para o envio de comunicações electrónicas não solicitadas em alguns paises.
+No parágrafo III, sob a epígrafe Privacidade, estatui-se que, para assegurar a proteção adequada e efetiva dos consumidores, o comércio eletrónico deve pautar-se pelos princípios de privacidade reconhecidos e definidos na Recomendação da OCDE relativa às orientações que regem a proteção da privacidade e dados pessoais, de 1980, e ter em conta a Declaração Ministerial da OCDE sobre proteção da privacidade nas redes globais, de 1998.
+Uma vez que a referida Recomendação foi alterada em 11 de julho de 2013, tendo sido atualizado o conjunto de princípios por que se devem pautar os tratamentos de dados pessoais e que garantem a proteção da privacidade dos indivíduos, entende a CNPD que, em geral, tal enquadramento se afigura suficiente para assegurar a proteção da privacidade dos consumidores no âmbito do comércio eletrónico.
+Todavia, uma vez que algumas das recomendações vertidas nesse documento da
+OCDE não coincidem com as soluções consagradas no ordenamento jurídico português e de outros Estados, a CNPD entende ser conveniente a previsão na proposta de revisão da Recomendação agora em apreço uma disposição semelhante à que se consagra para as comunicações eletrónicas não solicitadas, ou seja, de que em alguns países os tratamentos de dados pessoais estão sujeitos a requisitos legais específicos.
+É este o nosso parecer.
+Lisboa, 23 de fevereiro de 2015
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

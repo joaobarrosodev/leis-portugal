@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 72/2023
-official_date: null
+official_date: '2023-07-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Autoridade de Supervisão de Seguros e Fundos de Pensões - ASF'
-- 'Texto incompleto: 1 de 9 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 9 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,8 +70,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:50:18Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
@@ -159,3 +158,26 @@ ASF (….) e efetuada por correio eletrónico”.
 39. Finalmente, sublinha a CNPD que a presente Proposta Regulamentar deveria ser acompanhada por uma avaliação de impacto, nos termos conjugados dos artigos 18.º n.º 4 da Lei 43/2004, 7.º da Lei 58/2019, e 35.º do RGPD.
 40. Apesar da presente Proposta ter a sua causa genética em instrumento sustentado por orgânica europeia, a necessidade da sua adequação à legislação nacional, nas suas especificidades, haverá de requerer a análise dos riscos das operações de tratamento para os titulares dos dados, a aferir, sempre, em concreto, em relação aos sujeitos envolvidos e aos dados que, em função daqueles concretos fins, justificam o seu tratamento, tanto mais quando a posição dos sujeitos não se afigure ser a mesma.
 III. Conclusão 53. Nos termos e com os fundamentos expostos a CNPD recomenda:
+
+PAR/2023/72 | 5
+CNPD
+Comissão Nacional de Proteção de Dados a) Regular, densificando, os regimes referentes aos dados a tratar, considerando as entidades abrangidas pelo Projeto Regulamentar, em função da sua natureza e sector de atividade, com particular incidência nos casos em que se envolvam dados pessoais de pessoas singulares, dirigidos ao ordenamento jurídico português;
+b) A determinação dos dados a tratar e a concretização dos seus fins e respetivos fluxos;
+c) Especificar a composição, organização, respetivos dados e seu tratamento, a constituir a base de dados da ASF;
+d) Concretizar o prazo de conservação dos dados pessoais recolhidos e suas causas fundamentadoras específicas ou condições;
+e) Especificar a transferência de dados pessoais que possa vir a ocorrer, determinando-se as circunstâncias, destinatários, e fins que a justificam, a observar o regime plasmado no artigo 14°, n°1, alínea f), com referência aos artigos 45° e 46°, todos do RGPD.
+f) Adotar, nos fluxos de dados, as medidas técnicas, de segurança e organizativas apropriadas, em consideração do art. 32° do RGPD e da Diretriz 1/2023 desta Comissão;
+g) A remoção do direito de oposição plasmado no ponto G) do Anexo referente aos dados pessoais, por não aplicável, bem o segundo parágrafo desse ponto, com os mesmos fundamentos;
+h) A ponderação de realização de avaliação prévia de impacto, nos termos conjugados dos artigos 18.° n.° 4 da Lei 43/2004, 7° da Lei 58/2019, e 35° do RGPD.
+Lisboa, 21 de julho de 2023
+JOSÉ CARLOS
+VEGAR ALVES
+VELHO
+Assinado de forma digital por
+JOSÉ CARLOS VEGAR ALVES
+Dados: 2023.07.21 20:24:54
++01'00'
+José Vegar Velho (Vogal)
+Av. D. Carlos I, 134, 1° 1200-651 Lisboa
+T (+351) 213 928 400
+F (+351) 213 976 832 geral@cnpd.pt www.cnpa.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DENOMINAÇÃO GLOBAL S - TECNOLOGIAS DE INFORMAÇÃO, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 865/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7038](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7038).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.° 247/2000 865
+Autorização n.° /05
+Denominação Global S - Tecnologias de Informação, Lda, vem notificar à
+Comissão Nacional de Protecção de Dados um tratamento de dados pessoais, com a finalidade de proceder a um tratamento personalizado dos clientes e das suas encomendas.
+Os dados recolhidos são: nome, data de nascimento, sexo estado civil, profissão, morada, localidade, telefone e número de cartão de crédito - protegido por um código.
+De acordo com a declaração apresentada, a correcção dos dados verifica-se online (excepto quanto ao cartão de crédito que não poder ser alterado).
+As medidas de segurança adoptadas para garantia da informação são todas as previstas no formulário da CNPD.
+Não se verificam fluxos trasfronteiras.
+Tratando de um cartão da CETELEM, existe comunicação o e cruzamento da informação da seguinte forma:
+existe comunicação aos lojistas sobre os dados das encomendas - dados disponíveis na Internet;
+- à Unicre, - dados do cartão, referência e valor da encomenda -, à MBNet -referência e valor da encomenda -, Multibanco - recolha diária de pagamentos efectuados;
+Como interconexões são assinaladas:
+Lojistas- têm acesso aos dados do cliente constantes da encomenda : dados do cliente, do destinatário da encomenda e do destinatário da factura, lista de artigos, forma de pagamento e condições de entrega;
+À Unicre são transmitidos dados sobre a referência da encomenda, n.º do cartão e data de validade;
+- À MBNet são transmitidos a encomenda e o montante a autorizar;
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Quanto ao Multibanco é estabelecida uma ligação, via telefone, directa ao servidor onde é recolhido;
+No que respeita à CETELEM, dispõe de um terminal, onde se obtém o saldo disponível.
+Os dados tratados são pertinentes, adequados, necessários e não excessivos (artigo 5.° da Lei n.º 67/98, de 26 de Outubro) atenta a finalidade
+Em conformidade com o exposto a Comissão Nacional de Protecção de Dados autoriza o tratamento de dados apresentado, consagrando, nos termos dos artigos 28.° e 30.° o seguinte:
+Responsável: Denominação Global S - Tecnologias de Informação, Lda
+Categoria de Dados: nome, data de nascimento, sexo estado civil, profissão, morada, localidade, telefone e número de cartão de crédito - protegido por um código.
+Finalidade: Proceder a um tratamento personalizado dos clientes e das suas encomendas.
+Comunicação de dados: existe, nos termos descritos.
+Interconexões: existe, nos termos descritos.
+Fluxos transfronteiras: Não se verifica.
+Período de conservação dos dados: Prazo limitado a dez anos
+Lisboa, 24 de Ou dellade 2005
+Alexandre Sousa Pinheiro (relato)
+Luís Barroso
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

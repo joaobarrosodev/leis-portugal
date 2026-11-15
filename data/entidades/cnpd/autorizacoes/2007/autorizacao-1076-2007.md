@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SANOFI - AVENTIS GROUPE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,69 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:21:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1076/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2308](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2308).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 1731/07
+AUTORIZAÇÃO N.° 1076/2007
+A Sanofis-Aventis - Produtos Farmacêuticos, SA é responsável por um tratamento de dados pessoais com a finalidade de Portugal participar num estudo europeu, observacional, transversal para a avaliação dos factores de risco metabólico em doentes hipertensos.
+A empresa ICD (Integrated Clinical Data), com sede em Estrasburgo, França, é a entidade subcontratada para o processamento dos dados.
+Aos titulares, de ambos os sexos, com idade igual ou superior a 30 anos que reúnam os critérios de inclusão, com a patologia referida, que recorram a uma das unidades de saúde aderentes ao estudo, será solicitado, pelo seu médico assistente e que tem, simultaneamente a qualidade de investigador do estudo, o consentimento para a sua participação no estudo e consequente recolha de dados pessoais, através de inquérito.
+As declarações de consentimento são guardadas pelo médico investigador.
+A informação relativa ao doente participante no estudo é recolhida pelo médico investigador, num "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico.
+As categorias de dados contidos no formulário são as seguintes: código do doente, data da consulta, assinatura do consentimento informado do doente, elementos relativos aos critérios de exclusão ( gravidez, hospitalização, hipertensão secundária, febre, doença renal, infecção urinária concomitante, menstruação, tratamento com cimetidine) características sócio-demográficas ( data de nascimento, género, exercício físico regular, hábitos tabágicos e de consumo de álcool), dados clínicos (pressão arterial, albumina e creatinina, dados relativos ao historial clínico de riscos cardiometabólicos, sintomas actuais, terapêutica relativa a doenças crónicas, dados
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+en
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS antropométricos).
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela Deliberação n.° 227/2006.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento do titular dos dados.
+Contudo, verifica-se que a declaração de consentimento junta aos autos não cumpre os requisitos legais. Com efeito, para o tratamento de dados pessoais neste âmbito impõe a lei que seja garantido ao titular o direito de informação previsto no art°10 da
+Lei n.° 67/98 e que o consentimento seja, ainda, livre, específico expresso e escrito.
+Deve o responsável alterar a referida declaração de forma a garantir a obtenção do consentimento nos termos descritos na Deliberação n.° 227 /2007
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Sanofis-Aventis - Produtos Farmacêuticos, SA
+Finalidade: Portugal participar num estudo europeu, observacional, transversal para a avaliação dos factores de risco metabólico em doentes hipertensos.
+Categoria de Dados pessoais tratados: código do doente, data da consulta, assinatura do consentimento informado do doente, elementos relativos aos critérios de
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpc.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS exclusão ( gravidez, hospitalização, hipertensão secundária, febre, doença renal, infecção urinária concomitante, menstruação, tratamento com cimetidine)
+características sócio-demográficas ( data de nascimento, género, exercício físico regular, hábitos tabágicos e de consumo de álcool), dados clínicos (pressão arterial, albumina e creatinina, dados relativos ao historial clínico de riscos cardiometabólicos, sintomas actuais, terapêutica relativa a doenças crónicas, dados antropométricos).
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico investigador.
+Porque há tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do titular o médico/investigador e no exercício do direito de rectificação deste tipo de dados, deverá o titular, de igual modo, exercê-lo directamente junto do médico/investigador, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há fluxos de dados pessoais.
+Prazo de conservação: o código de doente, porque torna os dados identificados, deve ser destruído, quer pelo médico investigador, quer pela ICD, imediatamente após a validação dos dados.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 18 de Juuho de 2007
+Ana Roque compactos po
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpc.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos cerces
+Helena Delgado António (Relatora)
+Luis Barroso
+VascoAlmeia.
+Vasco Almeida 7
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpc.pf 4

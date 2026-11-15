@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DRAPLVT - DIRECÇÃO REGIONAL AGRICULTURA E PESCAS DE LIS. VALE DO TEJO -EX-DRARO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:03:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 99/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42654](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42654).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc° 804/05
+REGISTO Nº99/2012 1) A Notificação
+A Direcção Regional Agricultura do Ribatejo e Oeste notifica um tratamento de dados relativo à gestão do Plano de Erradicação de Doenças dos Ruminantes - PISA.
+Os dados pessoais dos proprietários, sujeitos a tratamento, são: número, nome, morada, localidade, Código Postal, distrito, concelho, freguesia, telefone, telemóvel, fax, data de nascimento, n° BI, n° de Contribuinte, NIB, n° de sócio, e.mail.
+Como fundamento de legitimidade referem-se o cumprimento de obrigações legais e a execução de missão de interesse público.
+Mencionam-se "interconexões", mas trata-se, na realidade, de comunicação de dados, aos Agrupamentos de Defesa Sanitária e à D G Veterinária.
+Não há fluxos transfronteiriços.
+Como medidas de segurança apontam-se a utilização de palavras-chave de acesso às informações e de cópias de "back-up" dos dados.
+Propõe-se o prazo de conservação de 10 anos.
+Como modo de exercício do direito de acesso indica-se o pedido (sem especificar a forma) direito aos agrupamentos de Defesa Sanitária.
+2) Registo a) Responsável
+Direcção Regional de Agricultura do Ribatejo e Oeste b) Finalidade
+Gestão do Plano de Erradicação de Doenças dos Ruminantes - PISA c) Dados tratados
+Número, nome, morada, localidade, código postal, distrito, concelho, freguesia, telefone, telemóvel, fax, data de nascimento, n° de BI,. N° de
+Contribuinte, NIB, n° de sócio, e.mail.
+d) Comunicação
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 1/2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aos agrupamentos de Defesa Sanitária e à D G Veterinária.
+e) Interconexões
+Não há
+£)
+Fluxos transfronteiriços
+Não há g) Modo de exercício dos direitos de acesso e rectificação
+Por pedido directo, por qualquer forma, aos agrupamentos de defesa sanitária.
+Lisboa, 20 Marco 2012
+Bras Silve
+Luís Lingnau da Silveira (Presidente/relator)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 2/2

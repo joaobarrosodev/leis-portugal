@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANTÓNIO ABRANTES CASTANHEIRA, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T02:23:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 8127/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/48304](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/48304).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 5405/10 8127
+Autorização n° /2012
+A sociedade comercial denominada ANTÓNIO ABRANTES CASTANHEIRA,
+S.A., veio notificar o tratamento que tem como finalidade a gestão de clientes, no âmbito da atividade de ALUGUER DE VEÍCULOS AUTOMÓVEIS, que constitui o seu objeto social.
+Para este efeito, procede ao tratamento das seguintes categorias de dados: de identificação pessoal, morada, NIF, carta de condução, dados de contacto, faturação, eventual falta de pagamento do aluguer. Os dados tratados incluem dados da vida privada. Por isso, a necessidade de autorização da CNPD (cf.
+art. 28.° n.° 1 al. b) da Lei 67/98, de 26 de Outubro).
+Em face das finalidades indicadas pela requerente, os dados são pertinentes, adequados e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98).
+A sociedade comercial por quotas denominada ANTÓNIO ABRANTES
+CASTANHEIRA, S.A., tem legitimidade para o tratamento destes dados na medida em que o mesmo decorre de consentimento dos titulares e da execução do contrato celebrado (cf. art. 6.° al. a) da Lei 67/98).
+A Requerente não pretende fazer interconexões ou fluxos transfronteiriços de dados. A comunicação de dados será feita em caso de incumprimento do pagamento, para a ARAC - Associação dos Industriais de Aluguer de
+Automóveis sem Condutor, para inclusão em base de dados de clientes incumpridores e posterior divulgação pelas empresas associadas.
+O tempo de conservação é de 2 anos sobre a cessação da relação contratual, ou enquanto subsistirem obrigações decorrentes da relação contratual.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Em face do exposto a CNPD autoriza o tratamento, nos termos declarados e com as especialidades constantes da presente autorização, consignando-se, nos termos dos artigos 27.°, 28.° n.º 1 al. b) e 30.° da Lei 67/98, de 26 de
+Outubro, o seguinte:
+1. Responsável: ANTÓNIO ABRANTES CASTANHEIRA, S.A.
+2. Categorias de dados pessoais tratados: de identificação pessoal, morada,
+NIF, carta de condução, dados de contacto, faturação, eventual falta de pagamento do aluguer 3. Finalidade: gestão de clientes 4. Entidades a quem podem ser comunicados: ARAC (no caso de clientes incumpridores)
+5. Forma de exercício do direito de acesso e retificação: Pessoalmente ou por escrito.
+6. Interconexões: Não há 7. Transferências de dados: Não há
+Lisboa 2sde sedece Cade 2012.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Paiva de Andrade, Vasco
+Almeida
+Luís Barroso (O vogal, que presidiu)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

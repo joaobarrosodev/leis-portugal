@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 99/2013
-official_date: null
+official_date: '2013-08-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ACEVOA Lusarom L.da'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:00:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 99/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56349](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56349).
+Proc. 1508-2013 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n.° 99/2013
+A Acevoa Lusarom, Lda notificou um tratamento de dados pessoais com a finalidade de gestão de clientes e marketing.
+São recolhidos no sítio www.premiumdrinks.pt os seguintes dados pessoais: Nome, data de nascimento, e-mail, endereço de faturação e de entrega, dados obrigatórios nos termos do
+Código do IVA e nota para solicitação expressa de fatura com indicação do NIF.
+Os dados recolhidos são pertinentes e não excessivos face à finalidade declarada.
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da Lei n.º 67/98, de 26 de outubro (LPD), execução de contrato.
+Assim, regista-se, nos termos dos artigos 27°, n.º 1, e 30°, n.º 1, da LPD o tratamento, nos seguintes termos:
+Responsável - Acevoa Lusarom, Lda
+Categoria de dados pessoais tratados Nome, data de nascimento, e-mail, endereço de faturação e de entrega, dados obrigatórios nos termos do Código do IVA e nota para solicitação expressa de fatura com indicação do NIF
+Finalidade - Gestão de Clientes e Marketing
+Forma de exercício do direito de acesso e retificação - Por escrito para o endereço eletrónico adrian.butuc@premiumdrinks.pt ou presencialmente no endereço Rua Augusto Gil, n.° 45, 3850-581 Gafanha da Nazaré
+Interconexões - Não há;
+Comunicação de dados - para as empresas de transportes, logística e entregas a domicílio, bem como aos CTT, bem como a parceiros, para marketing
+Fluxo transfronteiriço de dados - Não há;
+Prazo máximo de conservação dos dados - 10 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da
+LPD, incluindo o n.º4 do referido artigo por haver dados a circular em rede aberta, bem como o direito de oposição à utilização dos seus dados para fins de marketing (cf. alínea b) do artigo 12° da LPD).
+O campo para o exercício do direito de oposição à comunicação de dados aos parceiros para fins de marketing deve ser autonomizado.
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, designadamente as previstas no artigo 14° da LPD.
+Lisboa, 16 de agosto de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

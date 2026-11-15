@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7948/2014
-official_date: null
+official_date: '2014-09-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CARDIF RISQUES DIVERS - SUCURSAL E PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T20:29:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7948/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/68275](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/68275).
+Proc. n. 91534/2014|1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.7948201
+A Cardif Assurances Risques Divers - Sucursal em Portugal, notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transacções comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+A BNP Paribas Cardif Portugal, ACE é a entidade encarregada do processamento da informação, a qual deve estar vinculada à entidade responsável pelo tratamento por via de contrato de subcontratação.
+A CNPD já se pronunciou na sua Deliberação n.º° 629/2010' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro (LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequívoco do titular (n.º 1 do artigo 4.º da Lei n.º 41/2004, de 18 de agosto, alterada pela Lei n.º 46/2012, de 29 de agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efetue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respetivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+' Disponivel em http://www.cnpd.pt/bin/orientacoes/DEL629_2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 1534/2014 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Alerta-se para que, nos termos do disposto no artigo 20.° do Código de Trabalho e no n.° 1 do artigo 11.° do Regime do Contrato de Trabalho em Funções Públicas, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.º 2, 28.° n.° 1, al. a), 29.° e 30.°, n.º 1.° da LPD
+Responsável - Cardif Assurances Risques Divers - Sucursal em Portugal;
+Finalidade - Prova das transações comerciais e quaisquer outras comunicações respeitantes à relação contratual;
+Categoria de dados pessoais tratados - Dados de tráfego e conteúdo das chamadas;
+Forma de exercício dos direitos de acesso e rectificação - Por solicitação escrita para
+Av. 5 de Outubro, n.º 206, 6°, 1050-065, Lisboa;
+Comunicações de Dados Pessoais - Não há;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados Não há;
+Conservação dos dados - 7 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda LPD, dos termos e condições fixados na Deliberação n.º 629/2010, que se dão aqui por reproduzidos, e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Devem ser postas em prática as medidas de segurança previstas nos artigos 14.° e 15.° da LPD.
+Esclarece-se que a presente Autorização não inclui a finalidade de monitorização da qualidade do serviço prestado, que por constituir finalidade diferente, carece de notificação autónoma.
+Lisboa, 2 de setembro de 2014 vale
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

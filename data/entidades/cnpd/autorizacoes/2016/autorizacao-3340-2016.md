@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3340/2016
-official_date: null
+official_date: '2016-04-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MEDICINÁLIA CORMÉDICA - MC Medical, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T14:35:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3340/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/89362](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/89362).
+Processo n° 3406/2016 | 1 p
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.° 3340 2016 1 - Medicinália Cormédica - MC Medical, Lda, notificou um tratamento de dados pessoais com a finalidade de gestão das comunicações internas de atos de gestão financeira irregular (Linhas de Ética).
+A requerente integra o Werfen Group, com a denominação social IZASA Distribuciones
+Técnicas, S.A., e sede em Barcelona, Espanha, sendo esta entidade que processa centralmente a informação, pelo que deve estar vinculada à entidade responsável pelo tratamento por via de contrato de subcontratação.
+2 - A Comissão Nacional de Protecção de Dados (CNPD) já se pronunciou na
+Deliberação n.º 765/2009(1) sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da lei em matéria de proteção de dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade. Nessa Deliberação fixou que só podem ser objeto de tratamento os procedimentos de controlo interno de denúncia de infrações destinados a prevenir e/ou a reprimir irregularidades no seio da sociedade no domínio da contabilidade, dos controlos contabilísticos internos, da auditoria, da luta contra a corrupção e do crime bancário e financeiro.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+Os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. alínea b) do n.° 1 do artigo 5.° da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de julho, doravante, LPD).
+O fundamento de legitimidade é a execução de finalidades legítimas do responsável, previsto no n.º 2 do artigo 8.° da LPD, não prevalecendo no caso concreto os direitos dos titulares dos dados.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda LPD nos termos previstos na Deliberação n.º 765/09.
+1-Disponivel-em www.enpd.pt/bin/orientacoes/DEL765-2009_LINHAS_ETICA.pdf.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976832
+LINHA PRIVACIDADE www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 3406/2016 | 2/
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3 - Assim, nos termos das disposições conjugadas do n.º 2 do artigo 8.°, 20° nº2, da alínea a) do n.º 1 do artigo 28.° e do artigo 30° da LPD, com as condições e limites fixados na referida Deliberação n.º 765/2009, que se dão aqui por reproduzidos e que fundamentam esta decisão, a Comissão Nacional de Protecção de Dados autoriza o tratamento de dados nos seguintes termos:
+Responsável - Medicinália Cormédica - MC Medical, Lda
+Finalidade - Gestão das comunicações internas de atos de gestão financeira irregular
+Categorias de dados pessoais tratados - Identidade e categoria profissional do denunciante, identidade e categoria profissional do denunciado, identidade e funções das pessoas que intervêm na recolha e no tratamento de dados, os factos denunciados passíveis de integrarem atividades consideradas irregulares, no âmbito das atividades de contabilidade, auditoria, de luta contra a corrupção e do crime bancário e financeiro, os elementos de facto recolhidos no âmbito da averiguação e o destino dado à denúncia
+Forma de exercício do direito de acesso e retificação - Por escrito junto da responsável
+Comunicações de dados pessoais a terceiros - Não há
+Interconexões - Não há
+Fluxo transfronteiriço de dados para países terceiros - Não há
+Prazo máximo de conservação dos dados - Os dados pessoais objeto de denúncia serão de imediato destruídos caso se revelem inexatos ou inúteis. Quando não haja lugar a procedimento disciplinar ou judicial, os dados que tenham sido objeto de comprovação serão destruídos decorrido o prazo de 6 meses a contar do encerramento das averiguações. Em caso de procedimento disciplinar ou judicial os dados serão conservados até ao termo desse procedimento. Neste caso, serão conservados no
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 3406/2016 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS quadro de um sistema de informação de acesso restrito e por prazo que não exceda o procedimento judicial.
+Deve ser garantida a confidencialidade sobre a identidade do denunciante, com os limites descritos na Deliberação n.° 765/09.
+Dos termos e condições fixados na Deliberação n.º 765/09 e na presente a Autorização decorrem obrigações que o responsável deve cumprir.
+Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 5 de abril de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

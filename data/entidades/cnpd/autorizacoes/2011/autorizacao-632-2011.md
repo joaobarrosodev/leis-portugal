@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: APPDA - LISBOA, ASSOCIAÇÃO PORTUGUESA PARA AS PERTURBAÇÕES DO DESENVOLVIMENTO E'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,134 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:18:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 632/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27331](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27331).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 8972/10 632
+Autorização n°
+/2011
+I.RELATÓRIO 1.APPDA - Lisboa, Associação Portuguesa para as Perturbações do
+Desenvolvimento e Autismo com sede em Rua José Luis Garcia Rodrigues -
+Bairro Alto da Ajuda - Lisboa, vem proceder à notificação do tratamento que tem como finalidade a gestão de utentes dos serviços que presta na Escola de ensino especial e Lares Residenciais.
+2.Foram prestados esclarecimentos que se entenderam necessários e pertinentes.
+II.DOS FACTOS
+-A Requerente é uma Associação em que entre as valências a que se dedica destaca-se a prestação de serviços na Escola de Ensino Especial no Centro de
+Actividades Ocupacionais e nos Lares Residenciais;
+-Pretende-se com este tratamento proceder à gestão da prestação de serviços dos seus utentes/clientes;
+-Os dados a colher são os de identificação, relativos ao agregado familiar, contactos, autonomia e tipos de dependência, saúde/situação clínica, situação habitacional, situação económica, ocupações de lazer e registo de serviços de apoio domiciliário;
+-Os dados de identificação englobam, nome, morada, contactos, data de nascimento, número de BI, número de contribuinte, número de beneficiário da
+Segurança Social, número de cartão de utente do SNS, estado civil, naturalidade e ainda habilitações literárias e profissão;
+-Os dados relativos ao agregado familiar englobam, número de elementos, nome, parentesco e actividade profissional exercida;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+-Os dados relativos a autonomia, tipos de dependência e saúde englobam, resultados de testes feitos ao tipo e grau de dependência, nome do médico de familia e contacto, grupo sanguineo, alergias, tipos de problemas de saúde, dietas e tipo de alimentação e medicação;
+-Os dados relativos à situação habitacional englobam, a localização, regime de ocupação, estado de conservação, equipamentos básicos de conforto e salubridade, acessibilidades e tipos/formas de deslocação;
+-Os dados relativos à situação económica englobam o rendimento do utente e o rendimento dos membros do agregado familiar;
+-Os dados relativos à ocupação/lazer englobam, actividades que exerce, preferências e aptidões que possam ser colocadas ao serviço da comunidade;
+-É colhido o consentimento do Representante Legal do titular dos dados;
+-A segurança é garantida mediante password de acesso às informações, sistemas de alarme e resposta e acesso restrito de pessoas;
+-Têm acesso aos dados de saúde os médicos, psicólogos ou técnicos que procedem a sua recolha e sistematização, na estrita medida das necessidades que as tarefas a executar determinam;
+-Não se indica se está prevista a separação lógica entre tais dados e os restantes;
+-Haverá comunicação de dados para o Ministério da Educação (DRELVT) e para a Segurança Social;
+-Não há interconexão nem fluxos transfronteiriços de dados;
+-O titular dos dados pode os mesmos conhecer, corrigir e/ou eliminar por pedido junto da Requerente;
+-Os dados são conservados pelo tempo em que o utente/cliente beneficia do apoio.
+!|I.O DIREITO
+O tratamento em causa, porque perante dados pessoais, deve respeitar as condições expressas na Lei 67/98 de 260ut, mormente:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 3
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+.respeito pela reserva da vida privada (art° 2°);
+•visar finalidades determinadas, explícitas e legítimas (art°5°/n°1 al.b);
+estarem em causa dados adequados, pertinentes, não excessivos em relação à finalidade e proporcionais aos objectivos que se pretendem atingir (art°5/n°1 al.c);
+o responsável só pode proceder ao tratamento se, de acordo com a natureza dos dados estiverem preenchidas "condições de legitimidade" (art°s 6° e 7°).
+Na verdade a Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais, sendo inquestionável que, em relação ao tratamento de dados da vida privada e de saúde, necessário se torna que esteja presente alguma das situações previstas no art° 7.°, sendo a lei, nesta matéria, particularmente exigente, ao qualificar os dados como sensíveis.
+Acresce que, em qualquer tratamento, necessário se torna que estejam efectivados os direitos de informação (art° 10°), de acesso (art° 119) e de oposição (art° 12°) de molde a permitir-se o mesmo.
+Concatenando tais vectores com a factualidade acima enunciada, cumprirá então indagar se, no caso vertente, estão verificadas as condições legalmente exigidas, para o deferimento do pedido.
+Retira-se desde já que a finalidade em causa é a gestão da prestação de serviços dos utentes/clientes da Escola de Ensino Especial no Centro de
+Actividades Ocupacionais e dos Lares Residenciais, a qual reclama a recolha de dados pessoais sensíveis.
+Trata-se de finalidade determinada, explícita e legítima, face ao escopo da
+Requerente.
+Seguindo no percurso analitico, parece também resultar que os dados que se pretendem recolher são adequados, pertinentes e não excessivos.
+Há ainda que referir que os dados de saúde deverão estar separados dos restantes e o acesso aos mesmos só deverá acontecer apenas por parte dos profissionais que dos mesmos necessitam para fazer desencadear e decidir do tipo e qualidade de apoio a prestar. O fundamento de legitimidade assenta no
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE 3 geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Sendo certo que a Requerente refere o consentimento, juntando-se "fórmula" de obtenção do mesmo que respeita as exigências expressas no art° 3° al.h) da
+Lei 67/98 de 26 de Outubro.
+Acresce que sendo colhidos dados de outras pessoas para além do titular deve ser obtido também o consentimento destes no que aos seus dados diz respeito.
+Diga-se ainda que havendo comunicação de dados tal deve ser informado ao titular., o mesmo valendo quanto à interconexão de dados.
+Há assim que incluir no questionário e devidamente destacado um texto que encerre um consentimento para o tratamento em causa, que tem autorização para informar sobre os dados relativos a terceiros ali constantes e bem assim que consente na comunicação de dados a efectuar, apontando que entidades envolvidas, que dados e em que condições tal se processará.
+Assim ficará cabalmente protegido o direito de informação inserto no art° 10nº1 do complexo normativo que se vem referindo.
+Quanto à comunicação prevista, para além da já referida informação a prestar aos titulares, deverá a Requerente ter a cautela de que as mesmas têm os respectivos tratamentos notificados a esta CNPD.
+No mais, entende-se estarem acauteladas as exigências previstas quanto à confidencialidade e segurança da informação, exercicio do direito de acesso e, tempo de conservação dos dados.
+IV.DECISAO
+Em presença do exposto, decide-se considerar como legítimo, com as restrições supra-referidas, o tratamento notificado e consequentemente se autoriza o mesmo, de acordo com o plasmado nos normativos combinados dos artos 7/n°2, 23n°1 al.b), 28° e 30° da Lei nº67/98 de 26 de Out e nas seguintes condições.
+1. Responsável: APPDA - Lisboa, Associação Portuguesa para as
+Perturbações do Desenvolvimento e Autismo;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 4
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 2.Finalidade: Gestão de utentes/clientes dos serviços prestados na Escola de ensino especial e Lares Residenciais;
+3. Categorias dos dados:
+a) Dados de identificação - nome, morada, contactos, data de nascimento, número de BI, número de contribuinte, número de beneficiário da Segurança
+Social, número de cartão de utente do SNS, estado civil, naturalidade e ainda habilitações literárias e profissão;
+b) Dados relativos ao agregado familiar - número de elementos, nome, parentesco e actividade profissional exercida;
+c) Dados relativos a autonomia, tipos de dependência e saúde - resultados de testes feito ao tipo e grau de dependência, nome do médico de família e contacto, grupo sanguíneo, alergias, tipos de problemas de saúde, dietas e tipo de alimentação e medicação;
+d) Dados relativos à situação habitacional - a localização, regime de ocupação, estado de conservação, equipamentos básicos de conforto e salubridade, acessibilidades e tipos/formas de deslocação;
+e) Dados relativos à situação económica - rendimento do utente e o rendimento dos membros do agregado familiar;
+f) Dados relativos à ocupação/lazer - actividades que exerce, preferências e aptidões que possam ser colocadas ao serviço da comunidade;
+4. Destinatários dos Dados:
+-Inexistem fluxos transfronteiriços e interconexão de dados;
+-Há comunicação de dados para o Ministério da Educação (DRELVT) e
+Segurança Social;
+5.Direito de Informação: Deverá ser assegurado que se esclareceu o titular dos dados, das finalidades da recolha, dos destinatários da informação e das condições de utilização e bem assim da existência de comunicação e interconexão de dados;
+6.Direito de Acesso: Por pedido do titular (verbal ou escrito) junto da
+Requerente;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 5
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 7.Prazo de Conservação: Durante a prestação do apoio;
+8. Outras Condições:
+-É necessário obter consentimento dos terceiros cujos dados também são colhidos,
+-É necessário garantir que os dados de saúde estejam separados dos restantes e que o acesso aos mesmos só deverá acontecer apenas por parte dos profissionais que dos mesmos necessitam para fazer desencadear e decidir do tipo e qualidade de apoio a prestar.
+Lisboa, (Pup Terap de 2011
+Calino Campos Lobo (Relaton, Ana Roque, Luis )
+4d2 (me meido)
+Carlos Campos Lobo (Relator), Ana Roque, Luís Barroso, Helena Delgado
+António, Luis Paiva de Andrade, Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 6
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

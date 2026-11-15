@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MUNICÍPIO DE ODIVELAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:12:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 188/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6347](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6347).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 984/01
+AUTORIZAÇÃO N.° 1& /2006
+O Município de Odivelas, veio notificar à CNPD um tratamento de dados pessoais com a finalidade de Gestão da Informação dos Serviços de
+Segurança, Higiene e Saúde no Trabalho.
+A CNPD já se pronunciou na sua Deliberação n.º 41/2006, de 13 de Março, sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela
+Deliberação n.° 41/2006.
+Assim, tendo em atenção o preceituado nas disposições combinadas dos artigos 28.°, n.º 1, alínea a) e 30.º da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Município de Odivelas.
+Finalidade: Gestão da informação dos Serviços de Segurança, Higiene e
+Saúde no Trabalho.
+Categoria de dados pessoais tratados: Dados de identificação, dados de saúde, dados relativos à actividade profissional, dados sobre risco de doença profissional e doenças profissionais.
+Entidades a quem podem ser comunicados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da
+Inspecção-Geral de Trabalho (cf. n.º 2 do artigo 247.° da Lei n.º 35/2004).
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Formas de exercício do direito de acesso e rectificação: Pessoalmente, por escrito ou por telefone junto do responsável.
+Quanto ao tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n.º 5 do artigo 11.° da Lei n.º 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do trabalhador, o médico do trabalho e no exercício do direito de rectificação deste tipo de dados, deverá o trabalhador exercê-lo directamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não se verificam.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: Os dados pessoais podem ser conservados pelo período máximo de um ano após a cessação do vínculo laboral com a entidade patronal, sem prejuízo da conservação para além daquele prazo por força de obrigação legal. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária, designadamente à revisão judicial da incapacidade.
+Dos termos e condições fixados na Deliberação n.º 41/2006, de 13 de
+Março, e na presente Autorização decorrem obrigações que o responsavel deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt2
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aprovado na sessão plenária de 20 Março de 2006
+Eduardo Campos (Relator)
+Alertet
+Alexandre Pinheiro
+Arden Wy
+Amadeu Guerra
+Qual
+Ana Roque
+Luís Barroso
+BritAilres
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt3

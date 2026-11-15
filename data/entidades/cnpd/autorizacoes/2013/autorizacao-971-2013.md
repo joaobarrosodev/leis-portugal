@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 971/2013
-official_date: null
+official_date: '2013-02-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Joana Dias Cadima'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,83 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:27:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 971/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51218](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51218).
+Proc. N.9: 618/2013 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃONO 97l 12013
+I. Do Pedido
+Joana Dias Cadima notificou à CNPD um tratamento de dados pessoais com a finalidade de realização de um estudo observacional sobre a "Autorregulação de crianças e processos interativos no jardim-de-infância: mecanismos de interinfluência".
+O estudo pretende observar aproximadamente 480 crianças com quatro e cinco anos de idade, de oitenta salas de jardins-de-infância do Grande Porto, mediante a lista disponibilizada pela Direcção Regional de Educação do Norte (DREN) e pelo
+Ministério da Educação.
+O estudo está dividido em várias fases. Numa primeira fase, a participação no estudo consiste na observação de uma criança selecionada aleatoriamente por sala de aula, na sua avaliação direta pela aplicação de uma bateria de testes - com vista a examinar a autorregulação ao longo do tempo (em cinco momentos distintos) - bem como na resposta a questionários pela educadora e pelos pais.
+Num segundo momento, serão adicionalmente selecionadas cinco crianças por sala, de modo aleatório, num total de quatrocentas crianças. A metodologia de recolha de dados será a mesma da primeira fase, pretendendo-se examinar as interinfluências entre o risco sociocultural, os processos interativos da sala de jardim-de-infância e a autorregulação das crianças e dos seus pares nesse contexto.
+Os investigadores solicitarão consentimento informado aos representantes legais dos participantes, cuja declaração será conservada em local de acesso reservado na
+Faculdade de Psicologia e de Ciências da Educação da Universidade do Porto.
+Os dados são recolhidos de forma direta, mediante observação direta dos investigadores, assim como através da resposta a questionários em papel pelos educadores e pais dos alunos participantes no estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Pro. N. : 618/2013/2 F
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de participante. A chave desta codificação só pode ser conhecida da equipa de investigação.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+A segurança das informações é garantida pela manutenção dos dados em local de acesso reservado.
+II. Da Análise
+Porque em grande parte referentes à vida privada, os dados recolhidos pela requerente tem a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, ou dos seus legais representantes nos termos do disposto no n.° 2 do artigo 7.° da Lei n° 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD).
+Por esta razão é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.: 618/2013/3 f
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os titulares dos dados, de acordo com a declaração de consentimento informado junta aos autos, apõem as suas assinaturas na mesma, deste modo satisfazendo as exigências legais.
+O fundamento de legitimidade é o consentimento dos titulares dos dados. Porque haverá recolha de dados de menores, terá de haver consentimento a prestar pelos legais representantes. O estudo deve ter em conta o superior interesse da criança.
+A informação tratada é recolhida de forma lícita (cfr. alínea a) do n.º1 do artigo 5.° da
+LPD), para finalidades determinadas, explícitas e legítimas (cfr. alínea b) do mesmo artigo).
+III. Da Conclusão
+Em face do exposto, a Comissão Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos do n.º 2 do artigo 7.°, da alínea a) do n.º 1 do artigo 28.° e do n.º 1 do artigo 30.° da LPD, consignando-se o seguinte:
+Responsável pelo tratamento: Joana Dias Cadima
+Finalidade: Estudo observacional sobre a "Autorregulação de crianças e processos interativos no jardim-de-infância: mecanismos de interinfluência".
+Categoria de Dados pessoais tratados:
+- dos educadores de infância: idade, sexo, habilitações, n.º de anos de escolaridade, n.º de anos de serviço como educador;
+- das crianças que participam no estudo: código de participação, dados da observação, competências sociais, problemas de comportamento, relação educador-criança, regulação emocional, composição do agregado familiar (grau de parentesco, idade e sexo), dados sociodemográficos dos pais (nacionalidade, escolaridade, profissão, situação profissional, dados sobre o rendimento económico do agregado (beneficia de subsídios sociais, vive com menos de um salário mínimo por progenitor,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.9: 618/2013 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS rendimento do agregado mensal - por escalões), língua falada em casa, acontecimentos da vida da criança (ausência prolongada de um dos progenitores, morte, separação/divórcio, perda de emprego, problemas financeiros, problemas com a justiça, alcoolismo, consumo de drogas, violência, doenças físicas ou mentais);
+- das crianças da sala: características do grupo da sala, n.º de crianças na sala, n.° de crianças com necessidades educativas especiais e n.º de crianças de outras nacionalidades.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto da responsável pelo tratamento dos dados.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação dos dados: A chave de codificação dos dados deve ser destruída um mês após o fim do estudo.
+Lisboa, 05 de fevereiro de 2013
+Ana Roque (Relatora), Helena Delgado António, Luís Barroso, Luís Paiva de Andrade,
+Vasco Almeida
+Fil
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

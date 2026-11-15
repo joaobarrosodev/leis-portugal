@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CITI-EX/CITIBANK INTERNACIONAL plc SUCURSAL EM PORTUGAL (EX: CITIBANK PORTUGAL,'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:59:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2376/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16897](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16897).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 406/96
+AUTORIZAÇÃO N° 2376/09 1. CITIBANK INTERNATIONAL PLC - SUCURSAL EM PORTUGAL, vem solicitar autorização à Comissão Nacional de Protecção de Dados (CNPD) para facultar a comunicação de dados pessoais à empresa CONFIRA - Logística e Recuperação de
+Activos, S.A., no âmbito de um contrato de prestação de serviços que visa, concretamente, a recuperação de créditos comerciais resultantes do não pagamento pela utilização dos cartões de crédito Citybank Visa.
+Juntou cópia da minuta do contrato de prestação de serviços do qual consta que a subcontratante apenas actua mediante instruções expressas por escrito do responsável pelo tratamento.
+Os dados pessoais a disponibilizar são os dados pessoais dos clientes do requerente constantes da respectiva base de dados, legalizada pelas Autorizações n°s 29/97 e 126/97, de 15 de Abril de 1997 e 19 de Dezembro de 1997, respectivamente, de forma restrita e apenas na medida do estritamente necessário à prossecução da finalidade.
+2 - Os dados objecto da comunicação estão sujeitos a sigilo profissional, conforme resulta do disposto no artigo 79° n°1° do DL 298/92, de 31.10.
+A Lei 67/98, de 26.10, permite a subcontratação e prevê o acesso a dados pessoais por parte do subcontratante, desde que este actue de acordo com as instruções do responsável (artigo 16.º).
+Rua de São Rento 148_20 • 1200.821 1 ICRO1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A Directiva 95/46/CE consagra idêntica realidade em relação à figura do subcontratante
+- "pessoa ou entidade que processa dados por conta do responsável" (artigo 2° alínea e))
+- e obriga-o a processar esses dados de acordo com as "instruções do responsável" (cf.
+artigo 16.°).
+A Lei 67/98, de 26.10, definiu como subcontratante a "pessoa singular ou colectiva ...
+que trate os dados pessoais por conta do responsável pelo tratamento" (artigo 3.°, alínea e)).
+À semelhança do que acontece com a Directiva 95/46/CE, a Lei 67/98 obriga o subcontratante que tenha acesso aos dados pessoais a tratá-los de acordo com as «instruções do responsável» (artigo 16.º), não os podendo utilizar em proveito próprio (artigos 3.° alínea e) e 5.° n.° 1 alínea b)).
+Está vinculado, igualmente, à obrigação de sigilo profissional (artigo 17.° n.º 1).
+O artigo 14.º n.º 3 da Lei 67/98 determina ainda que «a realização de operações de tratamento em subcontratação deve ser regida por um contrato ou acto jurídico que vincule o subcontratante ao responsável pelo tratamento e que estipule, designadamente, que o subcontratante apenas actua mediante instruções do responsável pelo tratamento».
+A CNPD considera que os titulares dos dados devem ter conhecimento das finalidades do ficheiro e da finalidade determinante da recolha de dados (cf. art. 10.º nº1, alínea c), da Lei 67/98), devendo o responsável informar os titulares dos dados que a empresa supra referida, em concreto, será destinatária dos seus dados pessoais para o referido fim - subcontratação de serviços.
+Assim, considera a CNPD que o CITIBANK INTERNATIONAL PLC -
+SUCURSAL EM PORTUGAL, deve assegurar a observância de tal obrigação.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3 - Os dados recolhidos, pelas finalidades a que se destinam, integram-se no conceito de informação relativa ao "crédito e solvabilidade" dos titulares. Por isso, o tratamento é sujeito a controlo prévio da CNPD (cf. artigo 28.º n.º 1, alínea b), da Lei 67/98, de 26.10).
+Em face das finalidades, os dados são pertinentes, adequados e não excessivos em relação à finalidade (cf. artigo 5.° da Lei 67/98).
+A legitimidade para o tratamento dos dados tem o seu fundamento no disposto no artigo 6.°, alínea a), da Lei 67/98.
+Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+O responsável terá de:
+• Verificar que a entidade a quem comunica os dados está legalizada junto da
+CNPD para essa finalidade;
+• Abster-se de utilizar os dados para outras finalidades.
+• Manter os dados actualizados, em particular dos relativos a responsabilidades de crédito e a processos judiciais por incumprimento, assegurando o ponto de vista do titular quando este invoque razões para fundamentar o incumprimento;
+• Eliminar os dados logo que o devedor proceda ao pagamento da dívida e não
+Rua de São Bento. 148-3° • 1200-821 I ISROA
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS haja obrigações contratuais pendentes (cf. artigo 5° n.º 1, alínea e), e 23° n.° 1, alínea f), da citada Lei 67/98);
+4 - Mostram-se reunidas as condições legalmente exigidas em matéria de tratamento de dados, confidencialidade e segurança (cf. artigos 5.°, 6.°, 16.° e 17.° da Lei 67/98) para autorizar a comunicação de dados à CONFIRA - Logística e Recuperação de Activos,
+S.A..
+Nestes termos, a CNPD delibera autorizar a comunicação de dados pessoais, no âmbito de um acordo de subcontratação, nos termos solicitados pelo requerente, observadas que se mostrem as exigências acima referidas, considerando-se actualizadas as Autorizações n°s 29/97 e 126/97, de 15 de Abril de 1997 e 19 de Dezembro de 1997, respectivamente, nos termos constantes da presente autorização.
+*
+Proceda-se à actualização do registo público (artigo 31° da Lei 67/98).
+Lisboa, 98 de Junlo de 2009
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)

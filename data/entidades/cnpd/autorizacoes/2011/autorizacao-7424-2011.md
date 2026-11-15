@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL DA HORTA - SERVIÇO DE NEFROLOGIA E HEMODIÁLISE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:22:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7424/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34000](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34000).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 2530/2005
+Autorização n. (2 /2011
+O Hospital da Horta, da Região Autónoma dos Açores notificou um tratamento de dados pessoais com a finalidade de gestão do serviço de sangue (registo das funções de controlo de dadores e stocks e dados dos doentes transfundidos), através da aplicação ASIS
+A informação abrange a informação de dadores e dádivas, de procedimentos sobre colheitas de sangue e de doentes candidatos a transfusões de sangue.
+Estão definidos diferentes perfis de utilizadores e níveis de acesso à informação.
+Existe relacionamento com o sistema Sonho.
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação a finalidade do tratamento (cf. artigo 5.° n.° 1 al. c) da Lei 67/98).
+O tratamento de dados de saúde é realizado para fins de «medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde»
+(cf. artigo 7.° n.º 4 da Lei 67/98, de 26 de Outubro). Ao mesmo tempo, e tal como resulta do mesmo preceito, o tratamento desses dados é efectuado «por um profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional».
+Assim, regista-se nos termos dos artigos 27.° n.º 1 e 30.° n.º 1.° da Lei 67/98, de 26 de Outubro nos seguintes termos:
+Responsável
+Hospital da Horta
+Finalidade
+Gestão do serviço de sangue
+Categoria de dados pessoais tratados
+Forma de exercício do direito de acesso e rectificação
+Dados de identificação, dados relativos ao diagnóstico e tratamento. São ainda recolhidos relativos ao material hematológico colhido.
+Por contacto com o responsável nos termos do disposto no n.° 5 do artigo 11° da LPD
+Interconexões
+Não há
+Comunicação de Dados
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Prazo Máximo de
+Conservação dos dados
+Nos termos da Portaria 247/2000, de 8 de Maio
+O responsável deverá assegurar que:
+• A informação não será utilizada para finalidades diversas das declaradas
+• A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a sigilo (artigo 7.° n.º 4).
+Quanto à segurança da informação, deve o responsável pelo tratamento adoptar regras de procedimento interno, de forma a analisar periodicamente os registos de acesso (logs), para garantir que os acessos à informação se efectuam de acordo com os princípios da necessidade e pertinência. Os relatórios de análise devem ser conservados para efeitos de auditoria da
+CNPD no exercício das suas competências.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 geral@cnpd.pt www.cnpd.pt 21 393 00 3
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Alerta-se o responsável que independentemente das medidas de segurança adoptadas, é si que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda Lei n.º 67/98, de 26 de Outubro, incluindo o n.º 4, por haver recolha de dados em rede aberta.
+Lisboa, 1l de Julho de 2011
+Ana Roque, Carlos Campos Lobo, Vasco Almeida, Luís Paiva de Andrade, Helena Delgado
+António, Luís Barroso ( RelatOR )
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

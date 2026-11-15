@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SANDOZ FARMACÊUTICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:16:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1340/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15340](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15340).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 3356/06
+AUTORIZAÇÃO N.º 3(0/2009
+.RELATÓRIO
+SANDOZ FARMACÊUTICA Ldª com sede em Alameda da Beloura Edifício EE 1 - 2° andar - Escritório 15, Quinta da Beloura - Sintra, veio notificar à CNPD um tratamento de dados pessoais com a finalidade de Gestão da informação dos Serviços de
+Segurança, Higiene e Saúde no Trabalho.
+Foram feitas as diligências e solicitados os esclarecimentos que se entenderam pertinentes para avaliação e ponderação do pedido apresentado.
+II.APRECIAÇÃO
+A CNPD já se pronunciou na sua Deliberação n.º 41/2006 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela Deliberação n.° 41/2006.
+Com efeito este tratamento é feito nos termos do que rezam os normativos combinados dos arts° 281° a 284° na redacção dada pela Lei nº7/2009 de 12 de
+Fevereiro.
+A legitimidade deste tratamento assenta assim em disposição legal.
+Os dados a tratar são os necessários, pertinentes e não excessivos em relação à finalidade - art° 5/n°1 al.c) da LPDP.
+Em relação à segurança e porque estão em causa dados de saúde, importa considerar as medidas previstas no art° 15° da Lei 67/98 de 26 de Outubro, em particular que o sistema garanta uma separação lógica entre os dados referentes à saúde e os restantes.
+Devem ser tomadas medidas de segurança que impeçam o acesso à informação por parte de pessoas não autorizadas.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+As observações clínicas relativas a exames médicos são anotadas em ficha própria, a qual, sendo remetida ao responsável pela área dos recursos humanos, não pode conter elementos que envolvam segredo profissional.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 7°, 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: SANDOZ FARMACÊUTICA Lda com sede em
+Alameda da Beloura Edifício EE 1 - 2° andar - Escritório 15 - Sintra;
+Finalidade: Gestão da informação dos Serviços de Segurança, Higiene e Saúde no
+Trabalho;
+Categoria de Dados pessoais tratados: Dados de identificação, dados relativos ao percurso profissional e à função desempenhada, antecedentes pessoais e familiares, anamnese, dados clínicos.
+Entidades a quem podem ser comunicados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Inspecção-geral de Trabalho (cf. n.º2 do artigo 247° da Lei n.º 35/2004).
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Formas de exercício do direito de acesso e rectificação: O direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do trabalhador, o médico do trabalho e no exercício do direito de rectificação deste tipo de dados, deverá o trabalhador exercê-lo directamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não se verificam.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: os dados pessoais podem ser conservados pelo período máximo de um ano após a cessação do vínculo laboral à entidade. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária, designadamente à revisão judicial da incapacidade.
+Dos termos e condições fixados na Deliberação n.º 41/ 2006 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+LisboaL3, de Março de 2009
+Ana Roque; Carlos Campos Lobo (Relator); Luís Barroso; Helena Delgado António;
+Vasco Almeida; Luís Paiva de Andrade
+Kan Stone
+Luis Lingnau da Silveira (Presidente)

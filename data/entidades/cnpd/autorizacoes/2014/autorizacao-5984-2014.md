@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 5984/2014
-official_date: null
+official_date: '2014-07-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Instituto de Medicina Molecular - Faculdade de Medicina da Universidade de Lisbo'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,85 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T21:02:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5984/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/66277](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/66277).
+Processo n.º 4094/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 5984 12014
+I. Pedido
+O Instituto de medicina Molecular da Faculdade de Medicina e Centro Académico de
+Lisboa, notificou à Comissão Nacional de Proteção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo acerca do Benefício da
+Anticoagulação Prolongada nas Tromboses Venosas Cerebrais (EXCOA-CVT).
+A duração ideal da anticoagulação é desconhecida e baseia-se na preferência do médico ou em consensos internacionais, pretendendo o estudo melhorar o tratamento após fase aguda pela comparação de uma política de anticoagulação curta (3-6 meses) com uma política de anticoagulação longa (12 meses).
+O estudo irá conter dados de aproximadamente 1500 adultos (idade superior a 18 anos) que sofreram de trombose venosa cerebral confirmada (diagnóstico confirmado em menos de um mês) e capazes de iniciar anticoagulação oral (após fase aguda), para evitar recorrência de risco tromboembólico venoso, quer cerebral, quer noutra parte do corpo.
+Cada centro médico participante optará, de acordo com a sua preferência, por uma das duas políticas enunciadas.
+Os doentes participantes serão tratados por um período curto ou longo, de acordo com a abordagem terapêutica inicialmente atribuída ao seu centro.
+Os médicos de cada doente, investigadores no estudo, serão responsáveis pelas decisões sobre o tipo de anticoagulante oral, ajustes na dose e restantes cuidados necessários.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 1 21 303 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 4094/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os doentes participantes terão consultas de seguimento aos 6, 12 e 24 meses após a data de inclusão no estudo
+Os dados serão recolhidos num caderno de recolha de dados em papel, desenhado especificamente para o estudo.
+No caderno de recolha de dados não há identificação nominal dos titulares, sendo aposto um código para o doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Ao responsável são apenas fornecidos dados codificados, não lhe sendo disponibilizada a chave da codificação em fase alguma do processo.
+Os destinatários são ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento, caso decidam participar, recolhendo o médico-investigador o seu consentimento informado para o efeito.
+Análise
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.° 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos de investigação na área da saúde.
+Assim, enquadrando-se o caso em apreço no âmbito tipificado pela referida
+Deliberação, porque referentes à saúde e à vida privada, os dados recolhidos pela requerente têm a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n.º 2 do artigo 7.° da LPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 2 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 4094/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Por esta razão é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessivel.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Os titulares dos dados, de acordo com a declaração de consentimento informado junta aos autos, apõem as suas assinaturas na mesma, deste modo satisfazendo as exigências legais.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1 alínea a) da Lei n.° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Conclusão
+Em face do exposto, a CNPD autoriza o tratamento de dados pessoais supra apreciado, nos termos do n.º 2 do artigo 7.°, da alínea a) do n.° 1 do artigo 28.° e do n.° 1 do artigo 30.° da LPD, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, consignando-se o seguinte:
+Responsável pelo tratamento: Instituto de medicina Molecular da Faculdade de
+Medicina e Centro Académico de Lisboa;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 3 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 4094/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Finalidade: estudo acerca do Benefício da Anticoagulação Prolongada nas Tromboses
+Venosas Cerebrais (EXCOA-CVT);
+Categoria de Dados pessoais tratados: código do doente; sexo; mês e ano de nascimento; história clínica; resultados de meios complementares de diagnóstico;
+dados relativos aos parâmetros do estudo;
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferência de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 1 de julho de 2014
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 4 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

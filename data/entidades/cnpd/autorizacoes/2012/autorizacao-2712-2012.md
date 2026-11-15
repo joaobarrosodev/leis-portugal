@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANQUE PRIVÉE EDMOND DE ROTHSCHILD EUROPE - SUCURSAL PORTUGUESA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:54:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2712/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42952](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42952).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 6816/10
+AUTORIZAÇÃO N. 2H/2/2012
+A entidade BANQUE PRIVÉE EDMOND DE ROTHSCHILD EUROPE (sucursal em Portugal) veio notificar um tratamento cuja finalidade é a prevenção do branqueamento de capitais e do financiamento do terrorismo, em cumprimento do disposto na Lei n° 25/2008, de 5 de Junho, que transpõe a Diretiva Comunitária 2005/60/CE, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais e financiamento de terrorismo.
+A Requerente esclarece que a referida lei cria para si um dever legal de vigilância.
+Assim, o tratamento de dados em questão vai ainda corresponder ao procedimento vertido na Instrução n° 26/2005 do Banco de Portugal, e previsto na Lei n° 52/2003, no tocante às medidas de combate ao terrorismo..
+1. É recolhida informação sobre nome completo e data de nascimento, morada, nacionalidade e profissão, a qual se reputa necessária, pertinente e não excessiva em relação à finalidade (cf. art. 5.° da Lei 67/98).
+2. Os dados são tratados na sequência de uma obrigação legal que recai sobre a
+Requerente. Existe, por isso, legitimidade para o tratamento de dados (cf. art. 6.° al. b)
+da Lei 67/98, de 26 de Outubro).
+Por força do artigo 27°, 28.° n.º 1 al. d) e 30.° da Lei 67/98, autoriza-se o tratamento notificado consignando-se o seguinte:
+1. Responsável: BANQUE PRIVÉE EDMOND DE ROTHSCHILD EUROPE (sucursal em Portugal)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 2. Categorias de dados pessoais tratados: Nome completo e data de nascimento, morada, nacionalidade e profissão 3. Finalidade: cumprimento de obrigação legal relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais e financiamento de terrorismo.
+4. Entidades a quem podem ser transmitidos: Banco de Portugal, Procurador Geral da República 5. Forma de exercício do direito de acesso e retificação: Por solicitação escrita.
+6. Eventuais interconexões: Não há 7. Transferências de dados para países terceiros: Não há.
+8. Conservação dos dados: 7 anos, nos termos do artigo, 14° n° 1 da Lei n° 25/2008 de 5 de Junho.
+Lisboa, 26 de Tarço de 2012
+Ana Roque (relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado António,
+Luís Paiva de Andrade, Vasco Almeida loe
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DECLARAÇÃO DE VOTO
+Processo n° 6816/10
+Em meu entender esta autorização, ao referir-se apenas, na parte da fundamentação, a um dever de vigilância para descrever o tratamento pretendido (aceitando ou, pelo menos, não corrigindo os termos incorretos usados pela requerente), aos dados tratados e ao fundamento de legitimidade do tratamento fica aquém do que é exigível, segundo um princípio de transparência e publicidade das decisões, de um conteúdo mínimo que reflita as tarefas interpretativas, decisórias e de avaliação e ponderação de factos que a Lei n° 67/98, de 26 de Outubro, imputa à CNPD a propósito da emissão de cada autorização.
+Uma dessas tarefas consiste na descrição exata do tratamento autorizado. Assim, a autorização deveria especificar que o tratamento pretendido decorre do cumprimento de um conjunto de deveres de identificação, de diligência, de exame e de comunicação impostos pela Lei n° 25/2008, de 5 de Junho, à requerente, sob pena de o seu objeto ser ininteligível. Para além disso, compete à CNPD concretizar a propósito de cada situação certos princípios gerais previstos no artigo 5º da Lei n° 67/98 e especificar quais as medidas que, no caso, garantem a segurança da informação tratada coisa que não acontece neste caso. O prazo de conservação é, naturalmente, o previsto no artigo 14° da Lei n° 25/2008, de 5 de junho.
+O vogal da CNPD
+Varcoflmeida (Vasco Almeida)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

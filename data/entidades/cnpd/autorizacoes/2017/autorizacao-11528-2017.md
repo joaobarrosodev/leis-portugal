@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Associação de Bombeiros Voluntários de Azambuja'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T08:25:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11528/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/111284](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/111284).
+Processo n. 15704/2017 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃON.° 11528 12017
+Associação Humanitária dos Bombeiros Voluntários de Azambuja notificou à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais relativo à gravação de chamadas para fins de emergência.
+A CNPD já se pronunciou na sua Deliberação n.º 629/2010(1) sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da
+Lei n.° 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto (LPDP), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela deliberação.
+De acordo com a mesma deliberação, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da LPDP).
+O fundamento de legitimidade para a gravação de chamadas de emergência e o tratamento de dados pessoais que lhe está associado é, por força do n.º 2 do artigo 7.° da LPDP, a disposição legal prevista no n.º 4 do artigo 4.° da Lei n.º41/2004, de 18 de agosto, na redação da Lei n.º46/2012, de 29 de agosto, sem prejuízo do cumprimento do dever de informação a que alude o artigo 10.° da LPDP.
+Nestes termos e fundamentos, a CNPD autoriza o tratamento ao abrigo dos artigos 7.°, n.º2, 28.°, n.°1, alínea a), e 30.°, n.º1 da LPDP, consignando-se o seguinte:
+Responsável: Associação Humanitária dos Bombeiros Voluntários de Azambuja.
+Finalidade: Prova das comunicações no âmbito dos serviços de emergência.
+Categoria de dados pessoais tratados: Dados de tráfego e conteúdo das chamadas realizadas.
+Entidades a quem podem ser transmitidos: Não há.
+Forma de exercício do direito de acesso e retificação: Presencialmente e por escrito para o endereço postal Rua José Ramos Vides, n.°8 Apartado 33, 2050-334 Azambuja.
+Disponível em http://www.cnpd.pt/bin/orientacoes/DEL629_2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.° 15704/2017 | 1v.
+Transferência de dados para países terceiros: Não há.
+Conservação de dados: 90 dias.
+Dos termos e condições fixados da Deliberação n.º 629/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Lisboa, {outubro de 2017
+Filipa Calvão (Presidente)

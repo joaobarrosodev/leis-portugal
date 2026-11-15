@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO DA CONSERVAÇÃO DA NATUREZA - ICN'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 7 de 7 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,104 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:49:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 491/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9076](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9076).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 9427/1055/2003
+Autorização n.°491 491/2004
+O Instituto da Conservação da Natureza (ICN) vem notificar a Comissão Nacional de
+Protecção de Dados (CNPD) de um «sistema de televigilância do Parque Natural da
+Arrábida e Reserva Natural do Estuário do Sado». O sistema instalado-«Sistema
+CICLOPE»- é composto por um conjunto de 10 pontos de captação de imagens, um ponto retransmissor e um Centro de Gestão e Controlo.
+A finalidade declarada pelo responsável é a seguinte: «vigilância e detecção de fogos florestais, obras de construção ilegais, caça furtiva, depósito de entulhos, alterações de morfologia do solo, actividades interditas (nomeadamente motorizadas em locais inadequados, pesca ilegal) e monitorização em várias áreas científicas».
+Em anexo ao pedido é feita uma descrição sumária dos locais abrangidos pelas camâras (10). Para assegurar o direito de acesso é "afixado um aviso nas entradas rodoviárias do
+Parque Natural da Arrábida e Reserva Natural do Estuário do Sado, nos seguintes termos: «para sua protecção, este território dispõe de um sistema de videovigilância».
+Sobre o citado pedido, na Autorização n.º 496/2003, a Comissão Nacional de Protecção de Dados deliberou o seguinte:
+1-Autorizar o tratamento declarado relativamente à finalidade de vigilância e detecção de fogos florestais, desde que:
+a) O ICN introduza no sistema de vigilância as alterações necessárias -na terminologia adoptada na resposta correcções, aperfeiçoamentos com vista ao ajustamento ao sistema - para que a actividade de videovigilância respeite o direito à privacidade das pessoas residentes ou que frequentam a «área vigiada»;
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS b) O ICN conserve as gravações durante o período de 30 dias, de forma a garantir uma actividade fiscalizadora eficaz desta Comissão.
+2-0 ICN deve, antes da entrada em funcionamento do sistema de videovigilância, notificar a CNPD das medidas adoptadas para garantir o cumprimento de III, n.° 1, alínea a) da presente deliberação, de forma a que esta Comissão possa decidir da sua adequação à legislação pertinente sobre protecção de dados e defesa da privacidade.
+A figura em causa traduz-se numa autorização condicional, em que a se faz depender a pretensão da entidade pública do preenchimento de determinados requisitos. Trata-se, porém, de um acto positivo do órgão competente para autorizar o tratamento.
+Recentemente, verificaram-se desenvolvimentos que se traduzem no seguinte:
+- Introdução de um novo modelo de funcionamento designado blank zones que limita a capacidade de zoom ou, no caso de se estar perante áreas urbanas ou de habitações, impede a captação de imagens;
+- Procede-se à gravação de imagens captadas por todas as câmaras.
+Após observação no local do sistema, em 1 de Abril de 2004, pelo Vogal relator e pelo técnico de informática Dr. João Paulo Martins Ribeiro, verificou-se que o modo como o sistema CICLOPE está a ser utilizado, não possibilita a identificação das pessoas objecto de visionamento, nem das matrículas dos veículos também observados. O sistema permite notar a existência de pessoas e os actos por elas praticados, sem, contudo, habilitar à sua identificação.
+Especial relevo reveste a criação das blank zones que impedem a captação de imagens em áreas urbanas ou junto de habitações existentes no parque natural. A observação ocorrida a 1 de Abril permitiu apurar que o sistema se apresenta eficaz, sendo possível programá-lo para que haja interrupções na captação de imagem nos casos já referidos.
+Este sistema foi desenvolvido na sequência da Autorização n.º 496/2003 emitida pela
+Comissão Nacional de Protecção de Dados, estando registada a sua patente.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2- Sobre as condições de legitimidade deste tratamento, reproduz-se a decisão da CNPD encerrada na Autorização n.° 496/2003:
+Em relação às condições de legitimidade para o tratamento - e porque, conforme resulta da doutrina do Tribunal Constitucional, estamos perante a recolha de dados relativos à «vida privada» () - não podemos deixar de integrar esta operação na previsão do artigo 7.° da Lei 67/98, de 26 de Outubro.
+Não havendo consentimento das pessoas (o que se torna claramente inviável) nem disposição legal em que possa assentar este tratamento, interessa apurar se a CNPD poderá considerar que estamos perante um tratamento de dados que está fundamentado num «interesse público importante» que se apresenta como «indispensável ao exercício das atribuições legais ou estatutárias do seu responsável» (*).
+O Decreto-Lei n.º 193/93, de 24 de Maio, alterado pelo Decreto-Lei n.° 169/96, de 18 de Setembro, regula a orgânica do Instituto da Conservação da Natureza e delimita as suas atribuições. No seu artigo 2.° é-lhe atribuída uma responsabilidade geral pelas actividades nacionais nos domínios da conservação da natureza e da gestão das áreas protegidas. Cabe-lhe, em particular, "promover a estratégia, planos e programas de conservação da natureza" (artigo 2.º n.º 2 al. a) e, através da Divisão de Apoio à
+Gestão de Áreas Protegidas, "apoiar a gestão de áreas florestais administradas pelo
+ICN, especialmente na parte referente à prevenção e combate a incêndios florestais" (artigo 7.° n.° 3 al. d).
+Quanto à natureza «indispensável» do sistema de videovigilância, o ICN dispõe de outros meios, alguns deles já utilizados antes da colocação deste tratamento, menos () A recolha e gravação de imagens envolve uma «limitação ou restrição do direito à reserva da intimidade da vida privada, consignado no artigo 26.° da Constituição da República».
+() Admitindo que possa existir uma desconformidade do n.º 2 do artigo 7,° da Lei n.º 67/98, de 26 de
+Outubro com o n.º 3 do artigo 35.º da Constituição, a CNPD já suscitou ao Provedor de Justiça que suscitasse a fiscalização sucessiva abstracta da inconstitucionalidade da norma. Em decisão aprovada por maioria, a CNPD já decidiu, no Processo n.º 2218/02, que não dispõe de competência para não aplicar normas legais com fundamento na sua inconstitucionalidade.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS intrusivos e violadores de direitos fundamentais de terceiros (em particular as populações), embora se possa admitir que possam envolver maiores encargos com pessoal. O próprio ICN reconhece que o sistema escolhido decorre da constatação da diminuição de pessoal Vigilante da Natureza (13 elementos nesta data).
+A CNPD tem por certo que a protecção do património natural do Parque Natural da
+Arrábida e da Reserva natural do Estuário do Sado, Zonas de Protecção Especial e
+Sítios da Rede Natura constitui um «interesse público importante». Porém, das finalidades declaradas, a CNPD considerará, apenas, a vigilância e detecção de fogos florestais.
+3- Relativamente à interpretação a fazer do n.° 2 do artigo 7.° da Lei n.º 67/98, de 26 de
+Outubro, considera-se que a fórmula legal indispensável deve valer com o sentido de contribuir relevantemente para o exercício de atribuições legais ou estatutárias. Assim, indispensável não se assume como sinónimo de único meio apto para o exercício de determinadas funções.
+Interpretando, desta forma, o n.º 2 do artigo 7.°, à CNPD cabe, nesta fase, verificar se existe uma correcta ponderação entre os direitos fundamentais em presença.
+A capacidade do sistema instalado, pelas potencialidades que apresenta em captar e tratar imagem com particular precisão numa vasta zona do território abrangido - em particular para as populações que residem nas imediações onde são colocadas as câmaras (podendo captar as entradas, as imediações das casas, as zonas privadas onde é suposto as pessoas terem direito à privacidade sem poderem ser incomodadas) -obriga a CNPD a perguntar se os meios utilizados, em face dos riscos que apresentam para os direitos das pessoas, podem ser considerados os necessários e adequados exercício das atribuições do ICN.
+4-0 princípio da proporcionalidade, constitucionalmente sediado no n.° 2 do artigo 18.º da CRP, representa, aquando do recurso à actividade de videovigilância, a necessidade de apreciar a idoneidade do meio utilizado, bem como a sua consideração ao abrigo de um princípio de intervenção mínima.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O princípio da intervenção mínima obriga, necessariamente, a que, em cada caso concreto, se pondere entre a finalidade pretendida e a necessária compressão de direitos fundamentais, aqui concretamente o direito à privacidade e à imagem.
+Deverá mesmo pressupor-se que o risco a prevenir deverá ser de todo razoável"() e proporcionado quando comparado com os direitos fundamentais de terceiros que são afectados com a utilização destes meios. Não podemos olvidar, por outro lado, que o olhar indiscreto» e bastante intrusivo - dotado de técnicas de zooming e de tratamento digital - está direccionado, também, para uma região com uma população significativa.
+Esta grande «capacidade de vigiar» pode causar alguma desconfiança, mal-estar e alarme social nas populações, em face da possibilidade de o sistema poder ser utilizado para o controlo de movimentos de pessoas e se apresentar como susceptível de violar o seu direito à imagem e à privacidade. Acresce, por outro lado, que a Lei 67/98 determina - no seu artigo 2.° - que o tratamento de dados pessoais se deve processar "de forma transparente e no estrito respeito pela reserva da vida privada, bem como pelos direitos, liberdades e garantias fundamentais".
+Estamos, desta forma, perante um conflitos de direitos fundamentais, impondo-se uma solução equilibrada que não tenha efeitos ablativos sobre o direito à privacidade, e que possa fundamentar a protecção do direito fundamental ao ambiente (artigo 66.° da CRP).
+A CNPD considera que a tarefa de concordância prática entre direitos fundamentais não pode conduzir, no caso concreto, a soluções extremadas que impliquem a efectiva aniquilação do direito fundamental à reserva da intimidade da vida privada. Porém, considera-se que num espaço protegido deve ser avaliado o perigo da destruição irremediável de um património natural especialmente valioso. Assim, a CNPD considera que podem ser implantados sistemas de vigilância em patrimónios naturais, (*) Veja-se a Deliberação n.º 98/2002, de 21 de Maio.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS ainda que dessa actividade possa resultar uma limitação da privacidade de moradores e visitantes.
+Em conformidade com todo o exposto, a Comissão Nacional de Protecção de Dados autoriza, nos termos do artigo 28.° da Lei n.º 67/98, de 26 de Outubro o tratamento apresentado nas seguintes condições:
+- Garantir que não se procede a qualquer captação de imagens não áreas urbanas ou de habitações, devendo estas encontrar-se cobertas por blank zones;
+- Através das gravações e da visualização não se permitir a identificação das pessoas objecto de visionamento, nem das matrículas dos veículos também observados.
+Notifique-se o requerente.
+Lisboa, [q de Abril de 2004
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos.
+Ana Luísa Geraldes
+Heden
+Amadeu Guerra
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 6
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

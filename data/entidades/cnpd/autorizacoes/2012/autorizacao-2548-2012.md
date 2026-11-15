@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Continental Teves Portugal-Sistemas de Travagem, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,83 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:56:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2548/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42946](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42946).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 2795/12
+AUTORIZAÇÃO N.º 25482012
+Continental Teves Portugal - Sistemas de Travagem, Lda., notificou um tratamento de dados pessoais resultante de videovigilância, com a finalidade de protecção de pessoas e bens, a realizar no seu estabelecimento sito no Parque Industrial das Carrascas, EN 252, Km 11, 2950 - 402
+Palmela.
+O sistema é composto por 9 câmaras colocadas nos seguintes locais:
+Pontos de acesso a partir do exterior / Recepção / Zonas de circulação / Parque de Estacionamento
+/ Máquinas de vending
+Há visualização das imagens em tempo real.
+Não há transmissão das imagens para o exterior do local da instalação do sistema
+Há Comissão de Trabalhadores e emitiu parecer negativo em 2 de Junho de 2011.
+A CNPD já se pronunciou na sua Deliberação n.º 61/2004, de 19 de Abril sobre os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, em materia de videovigilância, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de protecção de pessoas e bens. Decorrem desses princípios, bem como da lei laboral e da jurisprudência, os seguintes limites ao tratamento:
+• Não é permitida a recolha de som;
+• A recolha de imagens deve confinar-se à propriedade do responsável, não podendo abranger imagens da via pública ou de propriedades limitrofes;
+• No caso de existirem terminais de pagamento ATM, as câmaras não podem estar direccionadas de modo a captar a digitação dos códigos;
+• Não podem as câmaras incidir regularmente sobre os trabalhadores durante a actividade laboral, nem as imagens podem ser utilizadas para o controlo da actividade dos trabalhadores, seja para aferir a produtividade seja para efeitos de responsabilização disciplinar (cf. artigos 20° e 21º do Código do Trabalho);
+• Apenas a recolha de imagens nos locais declarados está abrangida pela presente autorização, não podendo, em circunstância alguma, serem recolhidas imagens de acesso ou interior de instalações sanitárias, acesso e interiores de vestiários, áreas de descanso ou outras áreas destinadas aos trabalhadores, zonas de fabrico, zonas de espera, salas de reuniões e auditórios.
+O tratamento em análise, com as limitações referidas, é adequado, pertinente e não excessivo face à finalidade declarada (cf. al. b) do n.º1 do artigo 5.° da Lei 67/98, de 26.10) e à actividade desenvolvida.
+1 Disponível em www.cnpd.pt/bin/orientacoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O tratamento de dados pessoais efectuado no âmbito da videovigilância enquadra-se no conceito de vida privada, previsto no n.° 2 do artigo 7° da Lei n.º 67/98, de 26 de Outubro. O artigo 13.° do
+Decreto-Lei n.° 35/2004, de 21 de Fevereiro, constitui o fundamento que legitima a instalação destes sistemas.
+Assim, com os limites fixados, autoriza-se o tratamento notificado ao abrigo do disposto nos artigos 7.°, n.º 2, 28.° n.º 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Continental Teves Portugal - Sistemas de Travagem, Lda.
+Finalidade
+Protecção de pessoas e bens
+Categoria de dados pessoais tratados
+Imagens captadas pelo sistema.
+Forma de exercício do direito de acesso
+Por solicitação escrita ao responsável no seguinte endereço/contacto: Parque Industrial das Carrascas, EN252
+Km11, 2950 - 402 Palmela / francisco.santos@continental-corporation.com
+Comunicação das imagens
+As imagens só podem ser transmitidas no termos da lei processual penal.
+Detectada a eventual infracção penal, o responsável deverá, juntamente com a participação, enviar à autoridade judiciária ou ao órgão de polícia criminal competentes as imagens recolhidas.
+Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no âmbito de processo judicial devidamente identificado, em cumprimento de despacho fundamentado da autoridade judiciária competente.
+Fora destas condições não pode o responsável comunicar as imagens.
+Interconexões
+Não há
+Fluxo transfronteiriço para países terceiros
+Não há
+Conservação dos dados 30 dias
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (n.º 1 do artigo 11º da Lei n.º 67/98), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à
+CNPD (n.º 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adoptar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância,
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976 832
+LINHA PRIVACIDADE geral(@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS nos termos exigidos pelo n.º 3 do artigo 13° do Decreto-lei n.º 35/2004, de 21 de Fevereiro.
+O responsável deve adoptar as medidas de segurança previstas nos artigos 14º e 15º da Lei n.º 67/98, de 26 de Outubro. Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre actualizadas a data e hora das gravações.
+Lisboa, 26 MORÇO 2012
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco Almeida, Luís
+Paiva de Andrade.
+Silves
+Luís Lingnau da Silveira (Presidente), que relatou.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

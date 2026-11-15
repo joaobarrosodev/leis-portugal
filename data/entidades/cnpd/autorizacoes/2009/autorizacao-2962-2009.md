@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FERRING PORTUGUESA - PRODUTOS FARMACÊUTICOS, SOCIEDADE UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,70 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:49:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2962/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17651](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17651).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 4871/2009
+AUTORIZAÇÃO N.º 2962 2005
+Ferring Portuguesa - Produtos Farmacêuticos, Sociedade
+Unipessoal, Ida notificou um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com medicamentos de uso humano em doentes com cancro da próstata (Protocolo FE 200486CS34).
+Trata-se de um «ensaio de fase IIlb, não aleatorizado, aberto, multicêntrico, de seguimento de segurança de doses mensais de degarelix em doentes com cancro da próstata» que tem como objectivo «investigar a segurança a longo prazo do regime de dose de degarelix em doentes com cancro da próstata».
+O estudo terá lugar nos seguintes centros de ensaio:
+- Hospital de São João; Hospital de santa Maria; Hospitais da Universidade de Coimbra, Hospital Professor Fernando
+Fonseca.
+As categorias de dados recolhidos são as seguintes: N.' específico do estudo, iniciais do nome, género, data de nascimento, raça, E.C.G., historial do cancro, exame físico, sinais vitais, hábitos tabágicos e nome do investigador.
+Refira-se que a recolha do dado raça é «„deve-se às diferenças de resposta encontradas, aos produtos médicos administrados em diferentes populações raciais e subgrupos etnicamente distintos na população em estudo. Estas diferenças poderão ser atribuídas a factores intrínsecos
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS (.), ou factores extrínsecos (..), ou interacções entre estes factores.
+• médico Investigador recolhe e processa as informações sobre o estado de saúde do doente em bases de dados em suporte informático.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre
+• enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Ferring Portuguesa - Produtos
+Farmacêuticos, Sociedade Unipessoal.
+Finalidade: gestão do ensaio clínico com medicamentos de uso humano em doentes com cancro da próstata (Protocolo FE 200486CS31).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Categoria de Dados Pessoais tratados: N.° específico do estudo, iniciais do nome, género, data de nascimento, raça,
+E.C.G., historial do cancro, exame físico, sinais vitais, hábitos tabágicos e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação:
+Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do Anexo I do DL 176/2006, 30 de
+Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007 e na presente Autorização decorrem obrigações que responsável deve cumprir.
+Deve, igualmente, conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Iisboa, 11 de Yu lho do 2009
+Luís Paiva de Andrade (Relator), Carlos Campos Lobo, Ana
+Roque, Vasco Almeida, Helena Delgado António, Luís Barroso
+Lute ingra da ve a teres dentes)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

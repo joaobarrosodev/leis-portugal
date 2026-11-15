@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SERVIÇOS MUNICIPALIZADOS DE ÁGUA E SANEAMENTO DE OEIRAS E AMADORA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 833/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6547](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6547).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 596/01 833
+Autorização n.° /05 1-Os Serviços Municipalizados de Água e Saneamento de Oeiras e Amadora vêm notificar um tratamento de dados pessoais com a finalidade de constituir um ficheiro clínico de funcionários.
+Os dados tratados são dados referentes a aspectos de identificação pessoal e elementos de saúde (exames de aptidão e ficha clínica, de acordo com o anexo apresentado).
+São utilizadas como medidas para garantir a segurança das informações: password de acesso às informações e o acesso restrito de pessoas.
+Os dados são conservados até um ano após a cessação do vínculo laboral.
+2- De acordo com os princípios gerais fixados em anteriores decisões da CNPD, entende-se que importa assegurar um tratamento leal e de acordo com os princípios da boa-fé (artigo 5.°, n.º 1, alínea a) da Lei 67/98, de 26 de Outubro), dando-se especial atenção ao direito de informação (artigo 10.°, n.º 1) e, quando aplicável, ao direito de oposição (artigos 10.°, n.° 1 e 12.°, alínea a)). Em relação à segurança - e porque estão em causa dados de saúde - importa considerar as medidas de segurança previstas no artigo 15.º da Lei de Protecção de Dados.
+Devem ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos do trabalho ou, sob a sua direcção e controlo, a outros profissionais de saúde obrigados a sigilo profissional.
+Os dados recolhidos são considerados necessários, pertinentes e adequados, atenta a finalidade prosseguida (artigo 5.° da Lei n.° 67/98, de 26 de Outubro).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.º da Lei n.º 67/98, de 26 de Outubro, autoriza-se o tratamento de dados apresentado, nos seguintes termos:
+Responsável: Serviços Municipalizados de Água e Saneamento de Oeiras e Amadora
+Categorias de dados pessoais tratados: Identificação pessoal e elementos de saúde, de acordo com anexo apresentado.
+Finalidade: Constituir um ficheiro clínico de funcionários.
+Entidades a quem os dados são comunicados: Não se verifica.
+Forma de exercício do direito de acesso e rectificação: Sempre que solicitado por escrito ou pessoalmente ao médico do trabalho ou através de médico indicado pelo trabalhador.
+Eventuais interconexões : Não se verifica.
+Transferências de dados para países terceiros: Não se verifica.
+Lisboa, 17 de Ou seulo de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos
+Rua de São Bento, 148 - 3.°
+- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Luísa Geraldes
+Arden
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

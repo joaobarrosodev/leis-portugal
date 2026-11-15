@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: RAR - SERVIÇOS DE ASSISTÊNCIA CLÍNICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:52:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1290/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4547](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4547).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 284/05
+AUTORIZAÇÃO N.º1290 12006
+A RAR - Serviços de Assistência Clínica, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de Gestão da informação dos Serviços de Segurança, Higiene e Saúde no Trabalho dos seus colaboradores.
+A CNPD já se pronunciou na sua Deliberação n.º 41/2006 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela
+Deliberação n.° 41 /2006.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: RAR - Serviço de Assistência Clínica, Lda
+Finalidade: Gestão da informação dos Serviços de Segurança, Higiene e
+Saúde no Trabalho.
+Categoria de Dados pessoais tratados: Dados de identificação, dados relativos à actividade laboral e dados clínicos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Entidades a quem podem ser comunicados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da
+Inspecção-geral de Trabalho (cf. n.°2 do artigo 247° da Lei n.º 35/2004).
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Formas de exercício do direito de acesso e rectificação: pessoalmente ou por escrito junto do responsável pelo tratamento
+Quanto ao tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do trabalhador, o médico do trabalho e no exercício do direito de rectificação deste tipo de dados, deverá o trabalhador exercê-lo directamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não se verificam.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: os dados pessoais podem ser conservados pelo período máximo de um ano após a cessação do vínculo laboral à entidade. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo, enquanto se mostrar necessária, designadamente à revisão judicial da incapacidade.
+Dos termos e condições fixados na Deliberação n.º 41/ 2006 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 15 Setembro de 2006
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+Eduardo Campos
+Luís Barroso ý alvea
+Luis Lingnau da Silveira (Presidente, que relatou)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

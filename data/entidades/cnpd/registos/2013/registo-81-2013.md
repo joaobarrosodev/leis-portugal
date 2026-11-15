@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Santa Casa da Misericórdia de Lisboa'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 81/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55834](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55834).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 5841/2013
+REGISTO N.° 81 / 2013
+A Santa Casa da Misericórdia de Lisboa notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do portal de candidaturas dos Premios santa
+Casa Neurociências (http://candidaturasneurociencias.scml.pt/).
+Os dados são recolhidos diretamente pela Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. alínea b) do artigo 5.° da Lei n.° 67/98, de 26 de outubro - Lei de
+Proteção de Dados - LPD).
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6.° da LPD, o consentimento do titular dos dados.
+Assim, de acordo com as disposições conjugadas do n.º 1 do artigo 27.° e do n.º 1 do artigo 30.° da LPD, regista-se o tratamento nos seguintes termos:
+Responsável
+Santa Casa da Misericórdia de Lisboa
+Finalidade
+Gestão do portal de candidaturas dos Prémios
+Santa
+Casa
+Neurociências (http://candidaturasneurociencias.scml.pt/).
+Categoria de dados pessoais tratados
+Nome de utilizador, palavra-chave, data do registo, título, dados dos investigadores (nome, e-mail, data de nascimento, n.º de identificação civil, nacionalidade, morada, NIF, contactos telefonicos, curriculum vitae), nome e morada da instituição proponente, dados do projeto a concurso e das instituições envolvidas.
+Comunicação de dados
+Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Forma de exercicio do direito de acesso e rectificação
+Interconexões
+Fluxo transfronteiriço de dados
+Junto da responsável pelo tratamento de dados pessoais.
+Não há.
+Não há.
+Conservação dos dados
+Os dados pessoais dos candidatos aos quais tenha sido atribuído o prémio devem ser destruídos imediatamente após a conclusão da investigação. Relativamente aos dados pessoais dos restantes, devem os mesmos ser destruídos após o fim do concurso.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da LPD.
+Lisboa, 24/07/2013
+P 1 A Secretária da CNPD,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ARTEMREDE - TEATROA ASSOCIADOS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:12Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 46/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1037](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1037).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 591/07
+Registo n.º 46 108
+Artemrede - Teatros Associados notificou um tratamento de dados pessoais com a finalidade de marketing.
+Declara as seguintes categorias de dados pessoais: Nome, morada, data de nascimento, profissão, telefone e e-mail.
+Os dados são recolhidos directamente na Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da al. e) do artigo 6° da LPD, o interesse do responsável pelo tratamento.
+Assim, regista-se, nos termos dos artigos 27° n.° 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Artemrede - Teatros Associados
+Categoria de dados pessoais tratados - Nome, morada, data de nascimento, profissão, telefone e e-mail.
+Finalidade - marketing;
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável;
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, incluindo o n.º 4 nos casos de recolha na Internet.
+Deve o texto informativo ser alterado em conformidade.
+Lisboa, 6 de Fevereiro de 08
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

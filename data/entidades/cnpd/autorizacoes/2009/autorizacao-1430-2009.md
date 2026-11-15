@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: OURIVIDRO - VIDREIRA OURIENSE, LDA (GRUPO LENA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:15:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1430/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15231](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15231).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 311/2004
+AUTORIZAÇÃO Nº 43/2009
+A)
+Pedido 1) Primeira pretensão
+A Firma Ourividro - Vidreira Ouriense, Lda., notificou um tratamento de dados de gestão dos respectivos clientes.
+Os dados a tratar são: nome do cliente; número de identificação fiscal; morada; contactos telefónicos; faxes; CAE; endereço de correio electrónico; sítio na Web; saldo de conta corrente; volume de negócios.
+Aponta-se como fundamento de legitimidade do tratamento o consentimento dos interessados.
+Não haverá comunicação de dados nem fluxos transfronteiras.
+Pretende-se realizar interconexão com dados similares das outras empresas do Grupo
+Lena, por forma a constituir uma base de dados partilhada por todas elas.
+A interconexão tem em vista proporcionar uma gestão unificada dos dados dos clientes do Grupo Lena.
+Como medidas de segurança referem-se o acesso restrito de pessoas, a utilização de palavras-chave de acesso e de cópias de "back-up".
+Prevê-se um tempo de conservação não definido.
+O direito de acesso e rectificação pode ser exercido pessoalmente ou por contacto telefónico.
+2) Pretensão adicional
+Posteriormente, a empresa responsável veio, através de nova declaração, apresentar um pedido adicional, no sentido de os dados de clientes poderem ser também tratados para efeitos de "Marketing, nomeadamente para consulta a clientes de satisfação de serviços prestados".
+O teor das demais rubricas da declaração é idêntico ao das mencionadas em 1).
+B)
+Apreciação 1) Questão prévia
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Uma questão prévia que pode suscitar-se é a de saber se ao presente processo deve corresponder uma ou duas autorizações.
+Isto, atendendo a que se está perante duas finalidades diferentes (gestão de clientes e "Marketing"), às quais corresponderam duas declarações formalmente diversas.
+A verdade é que, de todo o modo, a responsável apresentou a finalidade de "Marketing" como adicional e suplementar da primeira.
+E a própria lei (Lei n° 67/98, de 26 de Outubro, artigo 27°, n° 1) admite que se notifique "um tratamento ou conjunto de tratamentos ... destinados à prossecução de uma ou mais finalidades interligadas".
+E afigura-se indiscutível que a gestão de clientes e o "Marketing" constituem objectivos conexos ou inter-relacionados.
+Considera-se, assim, que as duas pretensões formuladas podem ser objecto duma mesma autorização.
+2) Apreciação do conteúdo das pretensões
+Ambas as finalidades propostas surgem determinadas, explícitas e legítimas (art° 5°, n° 1, al b) da Lei n° 67/98).
+E os dados a recolher são adequados, pertinentes e não excessivos relativamente a tais finalidades (ibidem, al c).
+O fundamento de legitimidade previsto - consentimento dos titulares - é admitido pelo corpo do artigo 6° do mesmo diploma legal, desde que inequívoco.
+De todo o modo, a necessidade de autorização da CNPD decorre do facto de se tratarem, em parte, dados relativos ao crédito e à solvabilidade dos titulares (arto 28°, n° 1, al b) da Lei n° 67/98).
+E também do facto de se prever interconexão dos dados tratados com dados similares tratados pelas outras empresas do Grupo Lena.
+Esta interconexão encontra razão de ser no propósito de se proceder a uma gestão integrada dos clientes das empresas que constituem o Grupo Lena.
+Caberá, sob este ponto de vista, implementar especiais medidas de segurança, tendentes a prevenir o acesso de terceiros não autorizados, bem como a delimitar o elenco de pessoas com acesso aos dados interconectados e a registar as concretas operações de acesso que realizam.
+O prazo de conservação, que a CNPD tem de fixar, deverá ser o de dez anos, após cessação da relação com o cliente, consoante o princípio geral aplicável no âmbito comercial.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

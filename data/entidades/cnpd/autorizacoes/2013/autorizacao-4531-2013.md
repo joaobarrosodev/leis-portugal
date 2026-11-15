@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4531/2013
-official_date: null
+official_date: '2013-06-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Banif -Banco Internacional do Funchal, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T00:21:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4531/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54891](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54891).
+Processo n.º 4113/2013 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS e531
+AUTORIZAÇÃO N.º /2013
+O Banif - Banco Internacional do Funchal, SA notificou à CNPD um tratamento de dados relativo à operação de titularização de créditos com a
+Gamma - Sociedade de Titularização de Créditos, SA.
+A referida transação poderá envolver umatransmissão de dados pessoais (nome, morada, NIF e dados relativos ao crédito) dos respetivos devedores.
+As informações supra referidas são entregues à cessionária comprometendo-se esta entidade a apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão a realizar.
+A cedência de dados é feita no âmbito de um contrato celebrado entre o Banco
+Banif e a cessionária, tendo em vista a realização de «operação de titularização», nos termos do Decreto-lei n.º 453/99, de 5 de novembro, alterado pelo Decreto-lei n.º 82/2002, de 5 de abril, pelo Decreto-lei n.º 303/2003, de 5 de dezembro, e pelo
+Decreto-lei n.° 52/2006, de 15 de março.
+Os dados objeto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no artigo 78.° do Decreto-lei n.º 298/92, de 31 de dezembro. Assim, enquadram-se no conceito de vida privada do n° 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro (LPD).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.° 1, alínea a), da
+LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é, por força do Decreto-lei n.º 453/99, de 5 de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n. ° 4113/2013 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS novembro, com as alterações acima referidas, a disposição legal prevista no n.º 2 do artigo 7.° da LPD.
+Assim, o responsável deverá assegurar que o titular obteve as informações previstas no artigo 10.° da LPD, designadamente a informação de que a cessionária é destinatária da informação e a finalidade da comunicação.
+Devem, de igual modo, ser adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização de auditorias internas e externas. De igual modo, devem ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direção, a outros técnicos obrigados a segredo profissional.
+No que diz respeito aos dados contidos em suporte de papel, devem ser adotadas medidas organizacionais, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos da alínea b) n.º 1 do artigo 23.° e alínea b) do n.º 1 do artigo 28.° da LPD, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da LPD, o seguinte:
+1. Responsável - Banif - Banco Internacional do Funchal, SA (Atlantes DSME
+N° 2);
+2. Categorias de dados pessoais tratados - Nome, morada, NIF e dados relativos ao crédito;
+3. Finalidade - Titularização de créditos;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 4113/2013 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 4. Entidades a quem podem ser transmitidos - Gamma-Sociedade de
+Titularização de Créditos, SA;
+5. Acesso e Retificação - Por escrito, junto do Banco, entidade responsável pelo tratamento com a finalidade de gestão de crédito;
+6. Eventuais interconexões - Não aplicável;
+7. Transferências de dados para países terceiros- Não aplicável;
+8. Prazo máximo de conservação dos dados - 1 ano após o fim das obrigações decorrentes dos contratos celebrados.
+Lisboa, 18 de junho de 2013
+Carlos Campos Lobo (Relator), Luís Barroso, Vasco Almeida
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

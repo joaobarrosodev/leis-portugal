@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Direcção-Geral de Infra-Estruturas e Equipamentos'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:42:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3407/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/43598](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/43598).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 16409/2011
+AUTORIZAÇÃO N.° 3407
+/2012
+A Direcção-Geral de Infra-Estruturas e Equipamentos do Ministério da Administração Interna notificou um tratamento de dados pessoais de gravações de chamadas de emergência, através de rádio, única e exclusivamente das actividades operacionais da rede Siresp, nos termos do disposto no n.° 2 da Resolução do Conselho de Ministros n.° 56/2003, de 8 de Abril de 2003.
+Tal tratamento subsume-se na previsão constante no n.° 4 do artigo 4.° da Lei n.° 41/2004, de 18 de Agosto.
+A CNPD já se pronunciou na sua Deliberação n.° 629/20101 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.° 629/2010, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos utilizadores do serviço, a disposição legal prevista no n.° 2 do artigo 7° da LPD, no caso, a disposição constante no n.° 4 do artigo 4.° da Lei n.° 41/2004, de 18 de Agosto, sem prejuízo do cumprimento do dever de informação a que alude o artigo 10.° da LPD.
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efectue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respectivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20.° do Código de Trabalho, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.° 2, 28.° n.° 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Direcção-Geral de Infra-Estruturas e Equipamentos do Ministério da
+Administração Interna
+Finalidade
+Fazer prova do cumprimento das obrigações relativas ao serviço de emergência 1 Disponível em http://www.cnpd.pt/bin/orientacoes/DEL629 2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dados de tráfego e conteúdo das chamadas
+Categoria de dados pessoais tratados realizadas
+Forma de exercicio do direito de acesso e rectificação
+Por solicitação escrita ao responsável
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados 90 dias
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda Lei n.º 67/98, de 26 de Outubro.
+Dos termos e condições fixados na Deliberação n.° 629/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+LISD0a, x6 de ACil dea012
+Ana Roque, Luís Barroso, Helena Delgado António (Relatora), Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade.
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

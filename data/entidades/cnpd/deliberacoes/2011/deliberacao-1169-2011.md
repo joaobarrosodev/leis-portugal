@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Administração Central do Sistema de Saúde, I.P.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:51:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 1169/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/39280](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/39280).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 6757/11
+Deliberação n.º 1169 111
+Por expediente recebido nesta CNPD em 18 de Outubro de 2011, veio a
+Administração Central do Sistema de Saúde (ACSS,IP) solicitar à CNPD a apreciação do projecto de protocolo a celebrar entre aquela entidade, o
+Instituto dos Registos e Notariado (IRN, IP) e o Instituto das Tecnologias de
+Informação na Justiça, IP (ITIJ), tendo em vista o acesso, por parte da
+ACSS, IP, à informação sobre registo e identificação civil dos utentes do Serviço
+Nacional de Saúde.
+Esta acção tem por finalidade essencial verificar a veracidade, integridade e actualidade dos dados constantes no Registo Nacional de Utentes. Para tanto, a finalidade do protocolo em apreciação consiste em autorizar a ACSS, IP, a aceder à Base de Dados de Identificação Civil e à Base de Dados do Registo
+Civil. A informação obtida destina-se única e exclusivamente à actualização da
+Base de Dados do Registo Nacional de Utentes.
+De acordo com o disposto nas Cláusulas Segunda e Terceira, a ACSS, IP, fornecerá, de uma única vez e no prazo de 30 dias após a assinatura do protocolo em análise, um ficheiro contendo o nome, data de nascimento, freguesia, concelho, distrito de naturalidade, n° de identificação civil e filiação de cada um dos utentes registados no Registo Nacional de Utentes. O IRN, IP, compara os dados recebidos com os dados constantes da Base de Dados de
+Identificação Civil e, no prazo de 30 dias a contar do recebimento do ficheiro, devolve à ACSS, IP, um novo ficheiro, contendo uma de três menções, consoante os casos (válido, falecido e data do óbito, n° de assento de óbito e
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS conservatória, ou inválido / desconhecido). Os dados relativos a óbitos são obtidos junto da Base de Dados do Registo Civil.
+O protocolo remete expressamente, na Cláusula Quinta, para as disposições legais vigentes em matéria de protecção de dados pessoais constantes da Lei n° 67/98, de 26 de Outubro, salientando os seguintes deveres para o responsável:
+a) Respeitar integralmente a finalidade para que foi autorizada a transmissão dos dados;
+b) Não utilizar a informação para fim diferente do permitido;
+c) Não transmitir a informação a terceiros.
+Todos os funcionários que tenham acesso à informação transmitida ficam sujeitos a sigilo profissional.
+O protocolo entra em vigor na data da sua assinatura e é celebrado para vigorar no período temporal contado entre as datas referidas nas cláusulas
+Segunda e Terceira supra citadas.
+Em face do exposto, delibera a CNPD considerar o protocolo em apreço conforme com o disposto na Lei n.º 67/98, de 26 de Outubro, em especial quanto ao disposto nos seus artigos 5° e 6°, alínea d).
+Proceda-se à notificação da entidade interessada.
+Lisboa, de de 2011.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Ana Roque (relatora), Helena Delgado António, Luís Barroso, Carlos Lobo,
+Vasco Almeida, Luis Paiva de Andrade zia
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

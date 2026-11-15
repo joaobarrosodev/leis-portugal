@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 843/2005
-official_date: null
+official_date: '2005-10-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LONDON GENERAL INSURANCE COMPANY LIMITED'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 843/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6539](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6539).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.° 172/03 843
+Autorização n.° /2005
+A London General Insurance Company Limited, vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD), um tratamento com a finalidade de identificação dos sinistros participados no âmbito das apólices de seguro dos acidentes pessoais.
+São objecto de tratamento, os seguintes dados pessoais: nome, idade e actividade da pessoa segura; descrição do acidente com indicação dos danos corporais, número de dias de baixa, duração da hospitalização, duração da convalescença, tratamento em unidade de cuidados intensivos, indicação do falecimento.
+A recolha, tal como a actualização, faz-se por via directa através de impresso. Os dados podem ser actualizados no hospital ou junto da entidade patronal.
+Não existem interconexões. Não existem fluxos transfronteiras.
+Como medidas de segurança das informações existem cópias de backup, password de acesso às informações e o acesso restrito de pessoas a instalações.
+Os dados são conservados pelo período de 10 anos.
+Atendendo à natureza sensível da informação deve garantir-se que o acesso aos tratamentos com informação clínica deve ser realizado nos termos do artigo 7.° da Lei n.º 67/98, de 26 de Outubro, com o consentimento prévio e informado do titular dos dados e o acesso restrito a médicos e profissionais de saúde abrangidos por segredo profissional.
+O direito de acesso e rectificação da informação recolhida pode ser exercido mediante contacto pessoal ou por escrito.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Por haver menção à divulgação de produtos e serviços da LGI, deve ser garantido o direito de oposição nos termos do artigo 12.º da Lei de Protecção de Dados.
+Os dados recolhidos são considerados necessários, pertinentes e adequados, atenta a finalidade prosseguida (artigo 5.° da Lei n.° 67/98, de 26 de Outubro).
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.º da Lei n.º 67/98, de 26 de Outubro, autoriza-se o tratamento de dados apresentado, nos seguintes termos:
+Responsável: London General Insurance Company Limited;
+Categorias de dados pessoais tratados: Nome, idade e actividade da pessoa segura;
+descrição do acidente com indicação dos danos corporais, número de dias de baixa, duração da hospitalização, duração da convalescença, tratamento em unidade de cuidados intensivos, indicação do falecimento;
+Finalidade: Identificação dos sinistros participados no âmbito das apólices de seguro dos acidentes pessoais;
+Entidades a quem podem ser transmitidos: Não se verifica.
+Forma de exercício do direito de acesso e rectificação: Pessoalmente ou por escrito.
+Eventuais interconexões : Não se verifica.
+Lisboa, 17 de Outubro de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos
+Amadeu Guerra fres i Galere
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

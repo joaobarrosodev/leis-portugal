@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6497/2011
-official_date: null
+official_date: '2011-06-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Escola Nacional de Saúde Pública'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:38:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6497/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33149](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33149).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 5083/2011
+AUTORIZAÇÃO N.° 6457 12011
+I. Do Pedido
+A Escola Nacional de Saúde Pública notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para avaliar "O impacto das vias de tratamento nos doentes com agudização da Doença Pulmonar Obstrutiva Crónica (DPOC)".
+Serão incluídos no estudo os doentes com a patologia, internados nos hospitais participantes.
+O médico/ enfermeiro assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Durante o internamento, o médico/enfermeiro/psicólogo, investigadores no estudo, irão questionar os participantes sobre a sua doença e tratamento.
+O hospital, através dos investigadores no estudo, contactará por telefone os participantes no estudo, um e seis meses após a alta hospitalar, para acompanhar a evolução do tratamento.
+Aos participantes no estudo serão entregues dois questionários e um envelope pré-pago, no momento da alta hospitalar, para que os doentes os preencham e devolvam um mês após a alta.
+Os dados serão recolhidos por membros da equipa de investigadores num caderno de recolha de dados em papel e por telefone.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de participante no estudo. A chave desta codificação só pode ser conhecida da equipa de investigadores.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Da Conclusão
+Assim, de acordo com as disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a)
+do n.º 1 do artigo 28° e art. 30° da Lei de Protecção de Dados, autoriza-se o tratamento, com as condições supra referidas, nos seguintes termos:
+Responsável pelo tratamento: Escola Nacional de Saúde Pública
+Finalidade: Estudo observacional para avaliariO impacto das vias de tratamento nos doentes com agudização da Doença Pulmonar Obstrutiva Crónica (DPOC)".
+Categoria de Dados pessoais tratados: código do doente, hospital, dados demográficos (idade, sexo, peso e altura), hábitos tabágicos, habita em instituições, com quem mora, rendimentos (por escalões), tem seguro de saúde, profissão, gestão da alta, terapia em casa, estado cognitivo, situação actual de saúde, terapia de inalação, medicação, índice de Katz de independência das actividades da vida diária e questionários de qualidade de vida.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico assistente ou dos restantes investigadores no estudo.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: O código do titular deve ser destruído um mês após o fim do estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd nt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dos termos e condições fixados na Deliberação n.º 227/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 20 de Junho de 2011
+Ana Roque, Luís Paiva de Andrade (Relator), Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas @cond ot

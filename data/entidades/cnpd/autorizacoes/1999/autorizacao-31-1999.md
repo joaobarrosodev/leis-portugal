@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CONS. DISTRITAL DE LISBOA DA ORDEM DOS ADVOGADOS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:10:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 31/1999
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10468](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10468).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 166/99
+AUTORIZAÇÃO Nº31/99
+A Ordem dos Advogados - Conselho Distrital de Lisboa solicita a esta CNPD autorização para a manutenção de tratamento informático destinado à certificação de título profissional e gestão dos seus serviços, nos termos definidos pelos seus Estatutos, aprovados pelo Dec.Lei 84/84, de 16/03, bem como pelo respectivo Regulamento de Inscrição de Advogados e Advogados
+Estagiários, aprovado em sessão do Conselho Geral, de 07/07/89.
+De entre os dados referentes à identificação dos respectivos titulares, pelos mesmos fornecidos quando do respectivo pedido de inscrição, acompanhados da documentação respectiva, são registados também, no decurso da "vida profissional" de cada um dos titulares, o seu "cadastro disciplinar".
+Esta informação, ao que tudo indica, cabe na previsão do Art° 8° n° 2 da
+Lei 67/98, de 26/10, na medida em que poderá incluir-se no conceito de "decisões que apliquem penas".
+Daí que se imponha autorização desta CNPD para a legalização do tratamento em causa.
+Dos autos, com facilidade se constata que o mesmo respeita os princípios em matéria de protecção de dados pessoais, sendo o tratamento legítima atenta a previsão legal vigente nesta matéria.
+***
+Assim sendo, delibera esta CNPD autorizar o tratamento em causa, nos seguintes termos :
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt
+
+p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável - O.A. - Conselho Distrital de Lisboa, R. de St. Bárbara, 46, 5° -1169-015 Lisboa Tel. 3129850/78 Fax - 3534057
+Finalidade - Certificação de título profissional e gestão dos serviços, de acordo com o legalmente definido ;
+Titulares e Dados Pessoais - Advogados e Advg. Estagiários - Os dados pessoais registados são os constantes dos "prints" juntos ;
+Comunicação - A legalmente definida ;
+Segurança - Cópias e sistema de processamento de "backup" e "password" ;
+Conservação - Até um ano após a cessação da actividade, após o que a informação registada passará para "histórico", onde se mantém por tempo indefinido ;
+Direito de Aces. e Cor. - A solicitação do respectivo titular.
+***
+Comunique.
+Oportunamente, cumpra-se o disposto no Art° 31° n° 1 da Lei 67/98.
+***
+Lx 1706/99
+O Relator (Mário M. Varges Gomes)
+Os Vogais (Amadeu Guerra)
+(J. Seabra Lopes)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O Presidente (J. Labescat da Silva)
+Anget Vil Con (A. Vitor Coelho)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt

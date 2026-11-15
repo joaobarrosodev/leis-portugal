@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOCOLIRO - CONSTRUÇÕES, S.A. (GRUPO LENA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 852/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6530](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6530).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proс.° n.° 11447/338/04 esz
+Autorização n° /05
+Socoliro Gest Imobiliária, S. A., tendo os seus tratamentos legalizados junto da
+Comissão Nacional de Protecção de Dados (CNPD), vem solicitar o alargamento da sua finalidade (a finalidade anterior é a de apoio à gestão financeira da empresa).
+Os dados em causa são:
+- designação do terceiro - cliente ou fornecedor;
+- número de identificação fiscal;
+- código de actividade económica (CAE);
+- contactos telefónicos, morada, fax, correio electrónico e sítio na web;
+- saldos existentes na conta-corrente e volume de negócios efectuados.
+A segurança das informações inseridas na base de dados é feita através de medidas que integram a utilização de password de acesso, com cópias de backup dos dados.
+Os dados serão actualizados directa e pessoalmente, ou através do telefone.
+O tratamento em apreciação prossegue uma finalidade de marketing - consulta a clientes da satisfação pelos serviços prestados.
+No momento da recolha ou da actualização dos dados existentes deve ser assegurado o direito de informação e acesso nos termos previstos nos art.°s 10.º e 11.º da Lei n.º 67/98, de 26/10.
+Uma vez que se trata de um tratamento para efeitos de marketing fica o responsável pelo tratamento obrigado a assegurar o direito de oposição nos termos previstos no art.° 12.° da Lei n.° 67/98.
+Em relação à recolha através da Internet deve ser cumprido o artigo 10.°, n.º 4 da Lei n.° 67/98, de 26 de Outubro.
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (artigo 5.°, n.º 1, alínea c) da Lei 67/98).
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.º da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados relativos aos autos de contra-ordenação, nos seguintes termos:
+Responsável : Socoliro Gest Imobiliária, S. A.
+Categorias de dados pessoais tratados : a identificação do cliente ou do fornecedor;
+número de identificação fiscal; código de actividade económica (CAE); contactos telefónicos, morada, fax, correio electrónico e sítio na web; saldos existentes na conta-corrente e volume de negócios efectuados
+Finalidade: Marketing - consulta a clientes da satisfação pelos serviços prestados.
+Interconexões: não se verificam;
+Não há fluxos transfronteiras.
+Prazo de conservação: o que se mostrar necessário para cumprimento da finalidade da recolha dos dados, devendo, contudo, ser eliminados decorridos que sejam 10 anos sobre a recolha, se antes o titular dos dados não manifestar a intenção de não ver a sua informação tratada.
+Lisboa, 17 de Culeibro de 2005 lut
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso eden
+Amadeu Guerra
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Luísa Geraldes
+Eduardo Campos
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

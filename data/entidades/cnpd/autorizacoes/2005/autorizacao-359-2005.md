@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MERCER EMPLOYEE BENEFITS - MEDIAÇÃO DE SEGUROS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:27:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 359/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7331](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7331).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.º 12832/1559/04
+Autorização n.°355/2005 1- A Mercer Employee Benefits - Mediação de Seguros, Lda foi notificada do projecto de decisão da Comissão Nacional de Protecção de Dados (CNPD), nos termos do artigo 100.º do CPA. Não se tendo pronunciado, a CNPD entende manter o teor da decisão já tomada.
+2- Mercer Employee Benefits - Mediação de Seguros, Lda, solicita à Comissão
+Nacional de Protecção de Dados (CNPD) autorização para efectuar um tratamento de dados com as seguintes características:
+- a finalidade consiste no tratamento da informação visando a obtenção dos dados necessários para a prestação dos serviços de consultoria/advising e serviços administrativos, técnicos e financeiros, inerentes ao objecto social da empresa;
+- os dados recolhidos são, relativamente a colaboradores das empresas clientes, os seguintes: nome, data de nascimento, salário, funções, nível hierárquico, outras informações constantes do cadastro pessoal, benefícios especiais do colaborador (nalguns casos), outras informações relevantes do ponto de vista da gestão dos recursos humanos que estejam de alguma forma relacionadas com a gestão dos seguros de vida e de saúde dos colaboradores de outras empresas;
+- relativamente à comunicação de dados das seguradoras à Mercer Employee Benefits -
+Mediação de Seguros, Lda, refere-se no anexo I que mediante autorização do fornecedor da informação procedemos à sua transmissão a terceiros (empresas especializadas que prestam assessoria aos nossos clientes mediante autorização dos próprios). Entende-se que os clientes constantes do anexo são as companhias seguradoras
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3-Pelo conteúdo dos anexos parece claro que a requerente tem acesso a dados sensíveis, nomeadamente dados de saúde, de segurados das empresas clientes. Entre estas estão identificadas, nomeadamente: a Victoria, a GAN, a Axa, a Global, a Medis, a Multicare, a Alico, a General Vida, a Tranquilidade Vida, a Zurich.
+Logo, o que está em causa neste tratamento não é o tratamento de dados de saúde de colaboradores, mas de segurados.
+Os titulares dos dados pessoais são as pessoas seguras e não as companhias clientes da requerente. Nesta conformidade, não se encontram preenchidas as exigências previstas na Lei n.º 67/98, de 26 de Outubro para o tratamento de dados sensíveis. Com efeito, é pertinente nesta matéria o artigo 7.°, que menciona como condições de legitimidade a lei ou o consentimento dos titulares dos dados.
+Não se encontrando prevista forma de obter o consentimento do titular dos dados para proceder a este tratamento de informação sensível, a Comissão Nacional de Protecção de Dados delibera não autorizar a realização do tratamento apreciado.
+Lisboa, de Julho de 2005
+Alexandre Sousa Pinheiro (Relator)
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Amadeu Guerra
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Gas 9 9ae.
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

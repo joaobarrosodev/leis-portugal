@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASSOCIAÇÃO DE SOCORROS MÚTUOS MONTEPIO DE NOSSA SENHORA DA NAZARÉ'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T20:04:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9453/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/69803](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/69803).
+Processo n° 8052/2014 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃONO 9453/2014 1 - O Pedido
+A. S. M. Montepio Nossa Senhora da Nazaré de Torres Novas vem notificar à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão administrativa de utentes.
+Os dados pessoais objeto de recolha são os seguintes:
+Nome, número de associado, cartão de cidadão/bilhete de identidade, NIF, morada, telefones de contacto.
+Os dados são recolhidos de forma direta, presencialmente, por via telefónica e por impresso.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+No formulário de notificação não são indicadas medidas de segurança a implementar.
+A requerente propõe-se comunicar dados a REDEMUT - Associação Portuguesa de
+Mutualidades e a Residências Montepio - Serviços de Saúde, S.A., para efeitos de prestação de serviços médicos aos seus associados e emissão do cartão de identificação correspondente.
+Pretende-se a conservação dos dados pelo período de um ano, renovável por igual periodo, enquanto durar a relação contratual.
+2 - Apreciação
+A requerente é uma Instituição Particular de Solidariedade Social (IPSS) sem fins lucrativos.
+na forma jurídica de Associação de Socorros Mútuos ou Mutualidades, que, de acordo com
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 8052/2014 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS os seus estatutos, tem como fim a prestação de cuidados médicos e de enfermagem aos seus associados a preços reduzidos.
+Os dados são tratados no âmbito de uma relação contratual, pelo que a Comissão Nacional de Protecção de Dados entende que o suporte/fundamento do tratamento notificado pode ser encontrado na previsão da alínea a) do artigo 6° da Lei 67/98, de 26 de outubro (LPD), ou seja, a execução de uma obrigação contratual.
+A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+A requerente pretende autorização para comunicar os dados tratados à Redemut -
+Associação Portuguesa de Mutualidades e a Residências Montepio - Serviços de Saúde,
+S.A., a fim de os seus associados poderem beneficiar de serviços de saúde e de serviços de apoio domiciliário e de ação social, independentemente do local onde residam e da mutualidade a que pertençam. Após a comunicação é emitido um cartão de identificação ao associado.
+Entende-se que esta comunicação encontra fundamento de legitimidade na execução do contrato entre a requerente e os seus associados. Contudo, a requerente só podera comunicar os dados dos seus associados às referidas entidades após notificação dos tratamentos à CNPD por parte destas.
+A requerente deverá adotar medidas de segurança necessárias a impedir o acesso à informação por parte de pessoas não autorizadas. Todavia, independentemente das medidas tomadas é o responsável pelo tratamento que está obrigado a garantir sempre a segurança da informação.
+Os dados devem ser exatos e, se necessário, atualizados (artigo 5°, alínea d), da LPD), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da LPD), sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 8052/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS ou retificados os dados inexatos ou incompletos ou não necessários (artigo 5° n.° 1, alíneas c) e d), e n.° 3 da LPD).
+O prazo de conservação dos dados deverá ser, assim, o da relação contratual, nada obstando, contudo, a que os cartões emitidos tenham um período de validade anual.
+3 - Conclusão
+Em face do exposto, a Comissão Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 6°, alínea a), e 30.° n°1 da Lei n.° 67/98, de 26 de outubro, consignando-se o seguinte:
+Responsável pelo tratamento: A. S. M. Montepio Nossa Senhora da Nazaré de Torres
+Novas
+Finalidade do tratamento: gestão de associados
+Categorias de Dados: Nome, número de associado, cartão de cidadão/bilhete de identidade,
+NIF, morada, telefones de contacto
+Comunicação de dados: Redemut - Associação Portuguesa de Mutualidades e a
+Residências Montepio - Serviços de Saúde, S.A.
+Interconexões de dados: não há
+Forma de exercício do direito de acesso e retificação: mediante pedido à responsável, presencial e por escrito.
+Lisboa, 14 de ouíuto h 2014
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Associação Portuguesa para o Estudo do Fígado'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T02:31:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7669/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/47688](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/47688).
+Proc. N.: 8653/2012 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.° 7669 12012
+I. Do Pedido
+A Associação Portuguesa para o Estudo do Fígado notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para avaliação da prevalência da Hepatite B e C em Portugal.
+Serão incluídos no estudo cerca de 2500 participantes, aleatoriamente selecionados de cinco regiões (Norte, Centro, Lisboa e Vale do Tejo, Alentejo e Algarve), com o envolvimento de 240 Unidades de Saúde distribuídas por sessenta concelhos.
+Os indivíduos selecionados serão contactados através do envio de uma carta convite de participação no estudo pela sua unidade de saúde, explicando os objetivos e procedimentos do mesmo, solicitando a sua presença na unidade de saúde respetiva.
+A participação no estudo consiste na recolha de informações de saúde através de uma entrevista direta e de um questionário de auto-preenchimento, bem como na recolha de uma amostra de sangue para determinação de marcadores para a hepatite B e C.
+As amostras de sangue serão imediatamente destruídas após a sua análise, sendo o seu resultado enviado aos titulares que tiverem manifestado esse interesse.
+A equipa de investigadores, composta exclusivamente por profissionais de saúde, solicitará consentimento informado, cuja declaração será arquivada na Associação
+Portuguesa para o Estudo do Fígado.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida da equipa de investigação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.: 8653/2012 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+O consentimento informado deverá indicar que os participantes poderão exercer o seu direito de acesso, de oposição e de retificação junto da equipa de investigadores, devendo ser indicado um contacto.
+Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a) do n.° 1 do artigo 28° e art. 30° da Lei de Protecção de Dados, com as condições e limites fixados na referida Deliberação n.° 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.°: 8653/2012 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Termos do tratamento:
+Responsável pelo tratamento: Associação Portuguesa para o Estudo do Fígado
+Finalidade: Estudo observacional para avaliação da prevalência da Hepatite B e C em
+Portugal.
+Categorias de Dados pessoais tratados: código do participante, dados sociodemográficos (idade, sexo, escolaridade), história clínica de doenças hepáticas, fatores de risco de doenças hepáticas, consumo de alcool, amostra de sangue e resultados das análises laboratoriais.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto da equipa de investigadores.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo. As amostras biológicas devem ser destruídas imediatamente após a sua análise laboratorial.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 25 de de Jacutro de 20l2
+Ana Roque, Carlos Campos Lobo (Relator), Luís Paiva de Andrade, Vasco Almeida
+Luís Barroso (o Vogal que presidiu)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

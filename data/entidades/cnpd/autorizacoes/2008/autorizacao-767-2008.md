@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPOR - HOSPITAIS PORTUGUESES, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,76 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:38:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 767/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3558](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3558).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 1102/2007
+AUTORIZAÇÃO n. 167/2008
+I - Pedido 1. A Hospor - Hospitais Portugueses, S.A. vem notificar junto da Comissão
+Nacional de Protecção de Dados um tratamento de videovigilância a colocar nas suas instalações da "Clipóvoa", sitas na Rua Beato Inácio
+Azevedo, 61/85, no Porto.
+2. O responsável pretende colocar oito câmaras fixas, as quais procedem à captação com gravação de imagem, nos seguintes locais: nos acessos e áreas de circulação.
+3. A entidade declara que não existe Comissão de Trabalhadores.
+II - Análise 4. Através da Deliberação n.º 61/2004, de 19 de Abril('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c)
+da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+() Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt g
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da Clínica no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas, onde pode haver furto de medicamentos e equipamentos valiosos e/ou perigosos.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+5. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.° 1 al. c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (*).
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+III - Conclusões
+Considera-se, por isso, legitimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+A. Responsável pelo tratamento - Hospor - Hospitais Portugueses, S.A.
+(Clipóvoa, no Porto)
+B. Finalidade - Protecção de pessoas e bens.
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal.
+Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação -enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Visualização de imagens pelo responsável
+- Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+E. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+F. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.° 2 da Lei 67/98 (prevenção ou investigação criminal)
+razão pela qual os pedidos de acesso devem ser encaminhados para a
+CNPD.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt.3
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+G. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+H. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho.
+I. A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+Lisboa, 28 AbRil 2008
+Ana Roque, que relatou.
+Carlos Campos Lobo
+Helena Delgado António
+Eduardo Campos
+Luís Barroso
+Vascoflmeida
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° -
+E-mail: geral@cnpd.pt
+- 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt 4

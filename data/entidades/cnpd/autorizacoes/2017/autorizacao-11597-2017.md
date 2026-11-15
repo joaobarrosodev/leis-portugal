@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 11597/2017
-official_date: null
+official_date: '2017-10-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: 321 CRÉDITO, Instituição Financeira de Crédito,S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T08:24:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11597/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/111353](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/111353).
+Processo n° 10750/2017 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃON.° 11597 12017 321 Credito Instituição Financeira de Crédito S.A., notificou um tratamento de dados relativo a operações de titularização de Créditos, tendo por cessionária a Tagus - Sociedade de
+Titularização de Créditos (STC), S.A.
+As referidas transações poderão envolver a transmissão de dados pessoais do devedor (Nome, bilhete de identidade ou cartão de cidadão, NIF, morada, telefone e dados relativos ao crédito).
+As informações supra referidas são entregues à cessionária comprometendo-se esta entidade a apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão a realizar. Assim, aquela entidade só terá acesso à informação constante de CD-ROM em circunstâncias excecionais indicadas no contrato de cessão de crédito.
+A cedência de dados é feita no âmbito de um contrato celebrado entre o responsável e a cessionária, tendo em vista a realização de «operação de titularização», nos termos do
+Decreto-lei n.º 453/99, de 5 de novembro, alterado pelo Decreto-lei n.º° 82/2002, de 5 de abril, pelo Decreto-lei n.° 303/2003, de 5 de dezembro, e pelo Decreto-lei n.º 52/2006, de 15 de março.
+Os dados objeto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no artigo 78.° do Decreto-lei n.º 298/92, de 31 de dezembro. Assim, enquadram-se no conceito de vida privada do n.° 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro (LPDP).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º 1, alínea a), da LPDP), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é, por força do Decreto-lei n.º 453/99, de 5 de novembro, com as alterações acima referidas, a disposição legal prevista no n.° 2 do artigo 7.° da LPDP.
+Assim, o responsável deverá assegurar que o titular obteve as informações previstas no artigo 10.° da LPDP, designadamente a informação de que a cessionária é destinatária da informação e a finalidade da comunicação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.º 10750/2017 | 1v.
+Devem, de igual modo, ser adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização de auditorias internas e externas. De igual modo, devem ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direção, a outros técnicos obrigados a segredo profissional.
+Em face do exposto, nos termos da alínea b) n.º 1 do artigo 23.° e alínea b) do n.º1 do artigo 28.° da LPDP, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da LPDP, o seguinte:
+Responsável: 321 Crédito Instituição Financeira de Crédito S.A.;
+Categorias de dados pessoais tratados: Nome, n.º do bilhete de identidade ou n.º do cartão de cidadão, NIF, morada, telefone e dados relativos ao crédito;
+Finalidade: Titularização de créditos;
+Comunicação de dados a terceiros: Tagus - Sociedade de Titularização de Créditos, SA;
+Exercício do direito de Acesso e Retificação: presencialmente e por escrito, junto no endereço
+Av. Barbosa du Bocage, n.º 113, 2.º esquerdo, 1050-031 Lisboa;
+Eventuais interconexões: Não aplicável;
+Transferências de dados para países terceiros: Não aplicável;
+Prazo máximo de conservação dos dados: período de duração da operação de titularização de créditos.
+Lisboa, 10 de outubro de 2017
+Filipa Calvão (Presidente)

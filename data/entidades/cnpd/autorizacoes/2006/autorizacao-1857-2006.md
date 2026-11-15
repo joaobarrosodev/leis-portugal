@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LISBOA GOURMET - PRODUTOS ALIMENTARES DE QUALIDADE, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,86 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:43:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1857/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4067](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4067).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo 1007/06
+AUTORIZAÇÃO N° 1857
+/2006
+.RELATÓRIO 1.LX GOURMET - Produtos Alimentares de Qualidade, Ldª, veio notificar esta
+CNPD, o tratamento de videovigilância, a colocar nas suas instalações, sitas no
+Edifício de Belém - Rua Gonçalves Zarco, 19-B em Lisboa;
+2.O equipamento, constituído por 2 câmaras, com captação e gravação de imagem, destina-se a "segurança da loja e dos clientes", sendo a instalar no interior da loja;
+3.A requerente está encarregue do processamento da informação, competindo-lhe garantir a segurança das informações, sendo que não existe comunicação, interconexões nem fluxos transfronteiriços de dados;
+4.Os dados serão conservados pelo período de cinco dias, podendo o titular dos mesmos a eles aceder, conhecer e eliminar, dirigindo-se pessoalmente ao responsável;
+5.Existe no local aviso informativo de existência de câmaras, referindo "estabelecimento encontra-se protegido por um sistema de videovigilância".
+II.APRECIAÇÃO a) O Direito
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Por via da Deliberação n° 61/2004 de 19 de Abril, a CNPD estabeleceu os princípios gerais e o enquadramento legal a seguir, no tratamento de dados de videovigilância, tendo aí definido os parâmetros gerais, a que o mesmo deve obedecer.
+Nessa medida, qualquer apreciação em concreto, a efectuar, no que tange à análise sobre a sua conformidade com o juridicamente fixado, deve olhar àquela Deliberação.
+Assim sendo, aquando do exame das condições deste tipo de tratamento, pela entidade responsável, importa dar especial enfoque a:
+• Pertinência e princípio da proporcionalidade - art° 5/n°1 al.c) da Lei 67/98 de 260ut;
+• Condições de legitimidade - arts° 7° e 8/n°2 da Lei 67/98 de 26 Out;
+• Formas de acesso quanto aos dados recolhidos pelos sistemas de videovigilância.
+Cumpre ainda salientar que, podendo estar em causa direitos fundamentais, como seja o da reserva da intimidade da vida privada, estes podem ceder, se e na medida em que outros, mormente em nome de interesse público ponderoso, se sobreponham - arts° 26° e 18° da CRP.
+b) O Caso
+Ressalta desde logo que o sistema em causa visa a "segurança da loja e dos clientesi, sendo que o mesmo se pretende instalar na zona da loja.
+Parece inquestionável que a zona da loja, porque sendo espaço de circulação e onde entra e sai a clientela se apresenta como área mais sensível e vulnerável e, consequentemente, para se alcançar os fins visados, crê-se que se justifica que o direito à reserva da privacidade dos clientes que ali acorrem, ceda perante aqueles.
+Desta feita e face à finalidade adiantada e, bem assim, ao modo técnico como a mesma se pretende alcançar e ao tempo proposto para a conservação das
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS imagens, crê-se ser de afirmar que o tratamento"in casu", é adequado, pertinente e proporcional, como o reclama o art° 5/n°1 al.c) do Diploma que se vem referindo.
+Com efeito, pretende-se assegurar a prevenção e dissuasão da prática de actos ilícitos, sendo que a informação recolhida vir a ser utilizada como prova, em eventual procedimento processual.
+Sendo inquestionável que este tipo de tarefa cabe primordialmente às forças e serviços de segurança, parece ser hoje pacífico que, mecanismos do tipo, não a substituem, antes a complementam, sendo contudo necessário que o fim a atingir não sacrifique, desproporcionalmente, a privacidade de cada individuo.
+Ponderando todo o expendido, é de concluir que, no caso vertente, os direitos, liberdades e garantias dos titulares, devem ceder, na estrita medida do alcance da finalidade em causa e nos moldes expressos, perante o interesse do responsável/requerente.
+Consigna-se porém, não estar autorizada por esta CNPD, a instalação de câmaras de molde a que sejam focados os trabalhadores ou, por qualquer modo, aquelas estejam directamente direccionadas para estes, não podendo as mesmas servir para avaliação ou controlo do desempenho dos trabalhadores, face à proibição expressa do art° 20° do CTrabalho.
+I||.DECISÃO
+Nestes termos, pelo exposto, decide-se considerar como legitimo o tratamento notificado e consequentemente se autoriza a recolha de dados, de acordo com o plasmado nos arts° 8/n°2 e 28/n°1 al. a) da Lei 67/98 de 260ut e, nas seguintes condições.
+1.Responsável: Lisboa Gourmet - Produtos Alimentares de Qualidade Ldª;
+2. Finalidade: Protecção de pessoas e bens;
+3. Destinatários dos Dados: não é permitida a transmissão a terceiros, só podendo ser utilizados nos termos e nas condições expressas na Lei
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processual Penal, sendo que, uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve, com a respectiva participação, enviar ao órgão de policia criminal ou à autoridade judiciária competente, as imagens recolhidas;
+4. Visualização das Imagens pelo Responsável: é permitida, excepcionalmente, a visualização das imagens quando, não havendo qualquer infracção penal, os titulares dos dados, o tenham solicitado, exercendo o "direito de acesso" consignado no art° 11° da Lei 67/98 de 26 Out;
+5.Direito de Informação: deverá ser afixado em local bem visível, aviso informativo das pessoas, sobre a recolha de som e imagem, referindo "o local está sob vigilância" e, bem assim, fazendo constar o DL 35/2004 de 21Fev;
+6. Direito de Acesso: envolvendo o exercício do direito de acesso por parte de determinado interessado, o acesso a dados de terceiro, impõe-se ao responsável tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens desses terceiros, sendo que estando em causa imagens que servem de prova em processo-crime, vigoram as regras do segredo de justiça, o que determina que o direito de acesso esteja sujeito ao regime ínsito no art° 11/n°2 da Lei 67/98 de 26 Out, o qual exige que os pedidos de acesso sejam encaminhados para a CNPD;
+7. Prazo de Conservação: trinta dias.
+8. Outras Condições: Não é autorizada a instalação de câmaras de molde a que sejam focados os trabalhadores ou, por qualquer modo, aquelas estejam directamente direccionadas para estes, não podendo as mesmas servir para avaliação ou controlo do desempenho dos trabalhadores.
+Lisboa, 8 Ipzem de 2006
+Carjos de Campos Lobo
+Desden
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque
+Reeleger
+энно
+Eduardo Campos leee
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

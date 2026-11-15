@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6280/2013
-official_date: null
+official_date: '2013-09-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Banco Santander Consumer Portugal, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:49:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6280/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56842](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56842).
+Proc. n.º 8608/2013 = /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 6280 12013
+Banco Santander Consumer Portugal, SA notificou um tratamento de dados relativo à operação de cessão de créditos, tendo por cessionária Nilo- Servicing, Lda.
+A referida transação poderá envolver uma transmissão de dados pessoais do devedor (nome, contactos, dados do contrato, valores do crédito em dívida, juros legais, pagamentos efetuados e valores das prestações).
+As informações supra referidas são entregues à cessionária, em suporte digital ou por outros meios similares disponíveis, comprometendo-se esta entidade a apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão. Assim, aquela entidade só terá acesso à informação pessoal nas circunstâncias excecionais indicadas no contrato de cessão de crédito.
+A cedência de dados é feita no âmbito de um contrato celebrado entre o Banco
+Santander Consumer Portugal, SA e a Nilo- Servicing, Lda nos termos do artigo 577° do Código Civil (CC). Por força do n.º1 do referido artigo 577° a cessão de crédito é admissível independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros direitos acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.° 1 do art.° 582° do CC)
+Os dados objeto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no art. 78.° do DL 298/92, de 31 de Dezembro. Enquadram-se, por isso, no conceito de vida privada do n.º 1 do artigo 7° da Lei n.º 67/98, de 26 de outubro (LPD).
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1, al. a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é a disposição legal prevista no n.° 2 do artigo 7° da
+LPD.
+O responsável deverá assegurar que o titular obteve as informações previstas no art.° 10° da LPD, designadamente que a cessionária é destinatária da informação e a finalidade da comunicação. Deve, de igual modo, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. Ainda no âmbito das
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt.
+
+Proc. n.º 8608/2013
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização de auditorias internas e externas. Deve, também, efetuar cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direcção, a outros técnicos obrigados a segredo profissional. No que diz respeito aos dados contidos em suporte de papel, devem ser adotadas medidas, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos da alínea b) do n.º 1 do artigo 23° e da alínea b) do n.º1 do artigo 28° da LPD, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da LPD, o seguinte:
+Responsável: Banco Santander Consumer Portugal, SA
+Categorias de dados pessoais tratados: Nome, contactos, dados do contrato, valores do crédito em dívida, juros legais, pagamentos efetuados e valores das prestações
+Finalidade: Cessão de créditos.
+Entidade a quem são comunicados Nilo- Servicing, Lda
+Forma de exercício do direito de acesso e retificação Presencialmente ou por escrito na sede da entidade, sita Rua Castilho, n.° 2 e 4, 1269-173 Lisboa
+Eventuais interconexões: Não aplicável.
+Transferência de dados para países terceiros Não há
+Prazo de conservação dos dados: 10 anos a contar da cessão
+Lisboa, 3 de Setembro de 2013
+Ana Roque (Relatora), Helena Delgado António, Vasco Almeida
+Filipa Calvão, Presidente
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

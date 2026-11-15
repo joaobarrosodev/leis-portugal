@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1542/2008
-official_date: null
+official_date: '2008-07-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JANSSEN-CILAG FARMACÊUTICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,32 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:24:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1542/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6691](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6691).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° nº4300/2007 1542
+Autorização n° 2008
+A Jansen-Cilag Farmacêutica Lda, requerente da Autorização no processo acima indicado e destinatária da Autorização nº 2416/2007 dada no mesmo processo, veio requerer a alteração desta em termos a ver permitido o envio de dados pessoais para países terceiros à União Europeia (UE) que não vejam reconhecido o nível de protecção dos dados pessoais adequado, de acordo com a lei - artigos 19º e 20º da Lei de Protecção de Dados — LPD.
+Naquela Autorização n° 2416/2007 pode ler-se, na página 4, que não havia sido notificada a possibilidade de comunicação ou transferência de dados para países terceiros à UE e que o texto informativo do consentimento informado não estava de acordo com a notificação efectuada à CNPD nem em conformidade com os princípios de protecção de dados pessoais.
+A requerente veio agora juntar nova formulação de texto informativo e declaração de consentimento dos titulares dos dados que respondem às exigências legais para o envio de dados pessoais constantes daquelas normas acima referidas.
+Pelo exposto, a CNPD adita à Autorização nº 2416/2007 a presente Autorização pela qual se decide o seguinte:
+Fluxo de dados pessoais para países terceiros: autorizado o envio de dados pessoais para países terceiros face à UE, mesmo para os que não tenham reconhecido o seu nível de protecção adequado, onde ocorram ensaios clínicos com o mesmo medicamento experimental ou onde o mesmo tenha autorização de entrada no mercado.
+Rua de São Bento. 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fav. 213 076 920
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 17 de Julho de 2008
+Eduardo Campos (Relator)
+Luis Barroso
+Ama Boque
+Carlos de Campos Lobo
+Helena Delgado António
+Almeida
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Ria de São Rento 148 - 2 ° - 1200-811 1 1CR01 - Talafara 113 029 100 La. 212 016 020|

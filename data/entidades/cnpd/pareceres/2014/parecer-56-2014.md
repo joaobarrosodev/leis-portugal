@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO SECRETÁRIO DE ESTADO DO TESOURO E FINANÇAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:02:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 56/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/67405](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/67405).
+1
+Proc. 10201/2014
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.º 56 /2014
+Do Pedido
+O Gabinete do Secretário de Estado das Finanças remeteu para parecer, uma nova versão, revista, do projeto de decreto-lei que visa alterar o regime legal da Central de
+Responsabilidades de Crédito, atualmente previsto no Decreto-Lei n.º 204/2004, de 14 de outubro.
+A CNPD emite, de novo, parecer ao abrigo do disposto no artigo 22.°, n.º 1, da Lei n.° 67/98, de 26 de outubro - Lei de Proteção de Dados Pessoais (LPD).
+Da Apreciação
+Analisada nova versão verifica-se que o texto acolhe a maioria das recomendações feitas pela CNPD em sede própria.
+Subsistem apenas duas recomendações que não foram acolhidas que, pela sua importância, passamos a reiterar.
+A primeira recomendação prende-se com a forma do diploma proposto.
+O presente projeto de decreto-lei é emitido pelo Governo, não se baseando em qualquer lei de autorização, quando a matéria regulada pelo diploma versa sobre direitos, liberdades e garantias, pois estão em causa tratamento de dados pessoais da reserva da intimidade da vida privada e da proteção dos dados pessoais (informação sujeita a sigilo bancário).
+Neste sentido, a restrição ou condicionamento de tais direitos encontra-se subordinada, como se sabe, a reserva de Lei formal (artigo 26°, 35° e artigo 165°, alínea b), todos da Constituição da República Portuguesa), pelo que se entende que este projeto tem de observar o estatuído neste último preceito.
+A outra observação está relacionada com a sugestão de inclusão no texto do n.° 3 do artigo 1° do projeto de diploma de necessidade de parecer prévio e vinculativo da
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Proc. 10201/2014
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+CNPD, quando em causa está a celebração de acordo de troca de informação entre o
+Banco de Portugal e as entidades sem estabelecimento estável em Portugal.
+Com efeito, pode estar em causa a transferência de dados pessoais para países dentro e fora da União Europeia, pelo que a CNPD deve aferir da conformidade dos «acordos» com os princípios e regras vigentes em proteção de dados.
+Este é o parecer da CNPD.
+Lisboa, 31 d Julho de 2014.
+Paule NE.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39 2
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

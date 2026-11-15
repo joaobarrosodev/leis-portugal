@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6966/2014
-official_date: null
+official_date: '2014-07-29'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Álvaro Filipe Ribeiro dos Santos Oliveira Mendes'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,69 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T20:45:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6966/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/67280](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/67280).
+Proc. N.º: 6706/2014 1
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃONO 6966
+/2014 1. Pedido
+Alvaro Filipe Ribeiro dos Santos Oliveira Mendes, notificou à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de realização de um estudo denominado Communication of Information about Genetic
+Risk within the Family: Using Evidence to Develop Family-centred Services in Genetic
+Counselling.
+O objetivo do estudo consiste em explorar a experiência de pessoas com doenças hereditárias ou em risco de a desenvolverem na transmissão da informação genética aos seus familiares. Pretende-se compreender as motivações, decisões, dificuldades e significados atribuídos a esse processo.
+Os dados serão recolhidos em consulta de aconselhamento genético do Protocolo do
+Teste Pré-Sintomático para Doenças Neurodegenerativas de Início Tardio do Centro de Genética Preditiva e preventiva do Instituto de Biologia Molecular e Celular.
+A participação no estudo consiste em entrevista semiestruturada conduzida pelo responsável pelo estudo que será gravada em áudio e posteriormente transcrita para análise.
+Na entrevista serão abordadas várias questões relativas ao valor/necessidade de informação dos familiares quanto a testes preditivos, experiência na informação de familiares e ajuda externa para essa comunicação.
+A segurança das informações é garantida pela manutenção dos dados de forma codificada e em local seguro ao qual apenas o investigador terá acesso.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.9: 6706/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os destinatários são informados sobre a natureza facultativa da sua participação e garantia de confidencialidade no tratamento, caso decidam participar, recolhendo o investigador o seu consentimento informado para o efeito.
+II. Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos de investigação na área da saúde.
+Assim, enquadrando-se o caso em apreço no âmbito tipificado pela reterida
+Deliberação, porque referentes à saúde e à vida privada, os dados recolhidos pela requerente têm a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n.º 2 do artigo 7.° da LPD.
+Entende-se por consentimento expresso qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento, o qual deve ser obtido através de uma declaração de consentimento informadoi onde seja utilizada uma linguagem clara e acessivel.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do titular.
+O fundamento de legitimidade é, então, o consentimento expresso do titular dos dados, que deve ser obtido junto dos potenciais participantes pelo investigador e que deverá ser mantido separadamente da gravação áudio da entrevista e respetiva transcrição codificados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 6706/2014 3
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Nestes termos, considera-se que a informação tratada é recolhida de forma lícita (artigo 5.°, n.º1 al. a) da Lei n.º 67/98), para finalidades determinadas, explícitas e legitimas (cf. alinea b) do mesmo artigo) e não e excessiva.
+III. Conclusão
+Em face do exposto, a Comissão Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos do n.º 2 do artigo 7.°, da alínea a) do n.º 1 do artigo 28.° e do n.º 1 do artigo 30.° da LPD, consignando-se o seguinte:
+Responsável pelo tratamento: Álvaro Filipe Ribeiro dos Santos Oliveira Mendes;
+Finalidade: estudo denominado Communication of Information about Genetic Risk within the Family: Using Evidence to Develop Family-centred Services in Genetic
+Counselling;
+Categoria de Dados pessoais tratados: dados sociodemográficos (idade, género, habilitações académicas, profissão); experiência individual e familiar na comunicação de informação sobre o risco genético na família; voz.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do responsável pelo tratamento dos dados.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação dos dados: a chave de codificação deverá ser destruída um mês após o fim do estudo.
+Lisboa, 29 de julho de 2014
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

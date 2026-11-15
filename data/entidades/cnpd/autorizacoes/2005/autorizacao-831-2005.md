@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: VODAFONE PORTUGAL COMUNICAÇÕES PESSOAIS SA/EX-TELECEL COMUNICAÇÕES PESSOAIS SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 831/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6549](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6549).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.® n.° 132/96 831
+Autorização n.°
+/05
+Vodafone Portugal - Comunicações Pessoais, SA vem junto da Comissão Nacional de Protecção de Dados (CNPD) notificar um tratamento que tem por finalidade a realização de acções de facturação de venda de equipamento e acessórios, facturação e prestação de serviços de comunicações móveis e realização de acções de marketing..
+Os dados recolhidos são: o nome, e-mail, NIF, telefone, fax, NIB, n.º de BI, data e hora de início da comunicação, duração da chamada, número chamado.
+A segurança das informações inseridas na base de dados é feita através de cópias de backup, medidas que integram a utilização de password de acesso às informações, acesso restrito a instalações, sistemas de processamento de backup e sistemas de alarme e resposta.
+O prazo de conservação dos dados é de cinco anos posteriores ao cliente deixar de o ser.
+Existe comunicação de dados para Itália.
+Atendendo à finalidade de marketing prosseguida, deve ser garantido o direito de informação nos termos do artigo 10.º da Lei n.º 67/98, de 26 de Outubro, cumprindo-se, nomeadamente, o disposto no n.º° 4 sobre a circulação de dados em redes abertas.
+Deve ser igualmente garantido o exercício do direito de oposição, nos termos do artigo 12.° da Lei n.° 67/98, de 26 de Outubro.
+A utilização de elementos de facturação para fins de marketing deve ser expressamente e previamente consentida pelo titular dos dados.
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (cf. art. 5.° n.º 1 alínea c) da Lei 67/98).
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.° da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados relativos aos autos de contra-ordenação, nos seguintes termos:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável: Vodafone Portugal - Comunicações Pessoais, SA
+Finalidade: Realizar acções de facturação de venda de equipamento e acessórios, acções de facturação e prestação de serviços de comunicações móveis e de acções de marketing.
+Categoria de dados pessoais tratados: Nome, e-mail, NIF, telefone, fax, NIB, n.º de
+BI, data e hora de início da comunicação, duração da chamada, número chamado.
+Transferências de dados para países terceiros: Itália.
+Prazo de conservação: Cinco anos posteriores ao fim do contrato.
+Lisboa, 17 de QutuGode 2005
+Alexandre Sousa Pinheiro (relator)
+Eduardo Campos
+Luís Barroso
+Areden un
+Amadeu Guerra
+Ana Luísa Geraldes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° -
+- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

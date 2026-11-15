@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 12/2009
-official_date: null
+official_date: '2009-01-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TopSaúde S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:44:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 12/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14187](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14187).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 5404/07
+REGISTO U$12/09 1 - TopSaúde, S.A., vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais que tem por finalidade desenvolver um portal de saúde visando proporcionar aos seus utilizadores o acesso a informação relacionada com as áreas de saúde e bem-estar produzida por ordens profissionais e outras entidades públicas e privadas credenciadas no sector.
+Os dados pessoais objecto de recolha são os seguintes:
+Nome, sexo, data de nascimento, código identificador de membro (de associação, ordem ou grupo profissional), morada, endereço electrónico, número de telefone, especialidade ou profissão (no contexto da associação profissional a que pertence).
+A recolha dos dados é feita directamente por inscrição dos titulares como utilizadores no portal, ou indirectamente, através do recenseamento pela respectiva ordem ou associação profissional, caso em que os ficheiros são fornecidos encriptados com password de acesso.
+Em ambos os casos é atribuído um código de utilizador e uma palavra-passe ao titular dos dados que lhe permite o acesso aos conteúdos que o seu perfil lhe confere.
+O titular pode conhecer, corrigir e eliminar os dados que lhe respeitem através de e-mail dirigido ao administrador do portal ou por carta dirigida aos serviços administrativos do portal.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Como medidas de segurança estão previstas cópias de backup, password de acesso às informações e informação cifrada, sendo a segurança física das instalações garantida pelo acesso restrito de pessoas.
+2 - A legitimidade para o tratamento em apreço enquadra-se no âmbito da prossecução de interesses legítimos do responsável pelo tratamento ou de terceiro a quem os dados são comunicados, desde que não devam prevalecer os interesses ou direitos, liberdades e garantias dos titulares dos dados", na definição constante do artigo 6°, alínea e) da Lei 67/98, de 26.10, e verifica-se porque necessário à execução de contrato celebrado entre a requerente e os utilizadores do portal.
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. alínea c) do n°1 do artigo 5° da Lei 67/98).
+Havendo recolha indirecta de dados, a comunicação de dados por parte das entidades credoras só poderá existir se estas entidades estiverem para tal autorizadas pela CNPD.
+À requerente cabe verificar se as clientes de quem recebe os dados estão legalizadas junto da CNPD e autorizadas a comunicar os dados para esta finalidade.
+O conhecimento do perfil nos termos notificados deve ser objecto de consentimento do titular dos dados, a recolher no momento da inscrição no portal.
+Consigna-se que o tratamento notificado não contempla a finalidade de marketing directo ou qualquer outra forma de prospecção.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3- Em face do exposto, proceda-se ao registo do tratamento, nos termos declarados e com as especificidades acima referidas, consignando-se, nos termos dos artigos 27.° e 30.° da Lei 67/98, de 26.10, o seguinte:
+Responsável pelo tratamento: TopSaúde, S.A.
+Categorias de dados pessoais tratados: nome, sexo, data de nascimento, código identificador de membro (de associação, ordem ou grupo profissional), morada, endereço electrónico, número de telefone, especialidade ou profissão (no contexto da associação profissional a que pertence)
+Finalidade do tratamento: identificação dos utilizadores do portal de saúde
+Comunicação de dados pessoais: não há
+Forma de exercício do direito de acesso e rectificação: através de e-mail dirigido ao administrador do portal ou por carta dirigida aos serviços administrativos do portal
+Eventuais interconexões de dados pessoais: não se verificam
+Transferência de dados para países terceiros: não há
+Lisboa, 23 de Janeiro de 2009
+A vogal da CNPD, legeeeee (Helena Delgado António)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 39/2016
-official_date: null
+official_date: '2016-06-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Unifato - Confecções do Centro, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:55:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 39/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92258](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92258).
+Proc. n.°12128/2012
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n.º39 / 2016
+Unifato - Confeções do Centro, Ld.ª, notificou, em cumprimento do n.º 1 do artigo 27.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto, Lei de Proteção de
+Dados (LPD), um tratamento de dados pessoais com a finalidade de gestão de clientes.
+A recolha de dados é efetuada diretamente, por impresso.
+O responsável pelo tratamento indica como dados pessoais contidos em cada registo: Nome, morada, data de nascimento, sexo, BI, NIF, telefones, correio eletrónico, profissão.
+Os dados recolhidos afiguram-se pertinentes, adequados e não excessivos face às finalidades a que se destinam, com exceção dos dados referentes ao Bilhete de Identidade ou cartão de
+Cidadão, que não deverão ser objeto de tratamento, porquanto tal documento não é elemento de faturação exigido pelo artigo 35.° do Código do IVA, cumprindo-se destarte o disposto na alínea c) do art.° 5° da Lei 67/98 - Lei da Proteção de Dados (LPD).
+A legitimidade para o tratamento daqueles dados pessoais para fins de gestão de clientes, reside na alínea a) do n.º 1 do artigo 6.° da LPD - execução de contrato.
+Quanto ao direito de informação, deve o responsável garantir, que, no momento da recolha, disponibiliza ao titular toda a informação prevista no n.° 1 do artigo 10.° da LPD.
+No momento de recolha, tem o responsável que garantir que o titular pode exercer o direito de oposição ao tratamento dos seus dados para fins de gestão de clientes, nos termos previstos na alínea b) do artigo 12.° da LPD.
+Assim, procede-se ao registo de tratamento de dados pessoais em conformidade com o n.° 1 do artigo 30.° da LPD, nos seguintes termos:
+Responsável - Unifato - Confeções do Centro, Ld.ª
+Finalidades - Gestão de clientes
+Categoria de dados pessoais tratados - Nome, morada, data de nascimento, sexo, NIF, telefones, correio eletrónico, profissão.
+Forma de exercício do direito de acesso e retificação - O titular dos dados tem acesso à informação presencialmente, na morada sede da empresa e por pedido ao responsável através do correio eletrónico correio@unifato.pt.
+Comunicação de dados - Não há
+Fluxo transfronteiriço de dados - Não há
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Proc. n.°12128/2012
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Prazo máximo de conservação dos dados - 1 ano após o fim da relação contratual, sendo que, os dados para efeitos de faturação, nos termos do artigo 123.°, n.º 4 do Código do Imposto sobre as Pessoas Coletivas, podem ser conservados pelo prazo de 10 anos.
+Qualquer alteração das indicações ora descritas está sujeita a notificação ou controlo prévio desta Comissão, conforme dispõe o n.º 2 do artigo 30.° da LPD.
+Lisboa, 9 de junho de 2016
+A Secretária da CNPD
+Isaseter
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

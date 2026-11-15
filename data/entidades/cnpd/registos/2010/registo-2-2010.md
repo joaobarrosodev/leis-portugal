@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BROTHER IBERICA, S.L. - SUCURSAL EM PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 2/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21561](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21561).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 3254/2009
+REGISTO N.° 2 120 10
+A Brother Ibérica, S.L. - Sucursal em Portugal notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de recursos humanos.
+A entidade encarregue do processamento dos dados é a SGG - Serviços Gerais de
+Gestão, S.A., com que deve o responsável estabelecer o contrato previsto no art. 14° da LPD.
+Os dados são recolhidos directamente por impresso e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alínea a)
+do artigo 6° da LPD, a execução do contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Brother Ibérica, S.L. - Sucursal em Portugal
+Finalidade
+Gestão de recursos humanos.
+Categoria de dados pessoais tratados
+Nome, n° de funcionário, naturalidade, nacionalidade, n° de BI, ou passaporte, órgão emissor e datas de emissão, validade do BI ou passaporte, data de nascimento, morada, localidade, código postal, telefone da residência, bairro fiscal, NIF, n° de beneficiário da Segurança
+Social, estado civil, informação sobre se o cônjuge é titular de rendimentos, n° de dependentes a cargo, habilitações literárias e outras, qualificações profissionais, experiência profissional, NIB, n° de sócio e identidade de sindicato (apenas no caso de pagamento de quota pela entidade empregadora), data de admissão, categoria, profissão,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+D
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Comunicação de dados
+Forma de exercicio do direito de acesso e rectificação
+Interconexões estabelecimento, departamento, centro de custo, horas semanais, situação profissional, data da última promoção, salário base, isenção de horário, subsídio de almoço, tipo de contrato, data de fim do contrato, nível de qualificação
+Brother Ibéria, S.L. (Espanha) - sede da empresa, onde são arquivados os contratos; e Brother
+International Europe, Ltd (Reino Unido) para processamento de salários.
+Junto do responsável pelo tratamento dos dados.
+Não há.
+Fluxo transfronteiriço de dados
+Conservação dos dados
+Não há.
+1 ano após a cessação do vínculo laboral.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Alerta-se que o eventual tratamento de dados no âmbito de recrutamento carece de ser notificado separadamente, uma vez que possui finalidade e legitimidade distintas.
+Lisboa, 15/02/2010
+A Secretária da CNPD,
+S20-(Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 40/2008
-official_date: null
+official_date: '2008-02-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANREEE - Assoc. Nac. Registo Equip. Eléctricos e Electrónicos'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 40/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1042](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1042).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 495/07
+Registo n.° 40 108
+ANCREEE - Associação Nacional de Registo de Equipamentos Eléctricos e
+Electrónicos notificou um tratamento de dados pessoais com a finalidade gestão do registo equipamentos eléctricos e electrónicos.
+Declaram as seguintes categorias de dados pessoais: Nome, endereços de e-mail, quantidades de equipamentos, pesos e marcas.
+Os dados são recolhidos na Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da LPD, cumprimento de obrigação legal.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.° 67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - ANCREEE - Associação Nacional de Registo de Equipamentos
+Eléctricos e Electrónicos
+Categoria de dados pessoais tratados - Nome, endereços de e-mail, quantidades de equipamentos, pesos e marcas.
+Finalidade - gestão do registo de equipamentos eléctricos e electrónicos.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável e no site do responsável.
+Interconexões - Não há;
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei n.º 67/98, de 26 de Outubro.
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e) do art.° 5°, fixa-se em 1 ano após o fim da obrigação legal de registo.
+Lisboa, 4 de Fevereiro de 2008
+A Secretária da CNPD sabates
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

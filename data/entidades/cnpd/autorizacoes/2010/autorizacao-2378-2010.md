@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AIBILI - ASSOCIAÇÃO PARA INVESTIGAÇÃO BIOMÉDICA E INOVAÇÃO EM LUZ E IMAGEM'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:30:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2378/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23193](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23193).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 3127/2010
+AUTORIZAÇÃO N.° 23 78 12010
+A AIBILI - Associação para a Investigação Biomédica e Inovação em Luz e Imagem notificou à
+CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para analisar as correlações entre fenótipos da retinopatia diabética de tipo 2 e os genes envolvidos nesta patologia.
+Serão incluídos no estudo os doentes com a patologia que participaram num estudo observacional anterior, onde se identificaram 3 diferentes fenótipos. A equipa de investigadores no estudo solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida da equipa de investigadores.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.º 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 dividas cnnd oti
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, nos termos do artigo 28°, n.º1, alínea d), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: AIBILI - Associação para a Investigação Biomédica e Inovação em Luz e Imagem
+Finalidade: estudo observacional para analisar as correlações entre fenótipos da retinopatia diabética de tipo 2 e os genes envolvidos nesta patologia.
+Categoria de Dados pessoais tratados: código do doente, dados demográficos (idade, género), fenótipos, genótipo, resultados dos testes laboratoriais e exame oftalmológico.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto da equipa de investigadores.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+O consentimento apenas pode ser pedido para um estudo em concreto, não podendo a informação recolhida ser utilizada para futuros estudos sem o competente consentimento dos titulares informado.
+Lisboa, 2 Q de Maio de 2010
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PALAU PICKERS Y ASOCIADOS CO103RREDURIA DE SEGUROS, S.L.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:43:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1215/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22185](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22185).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 3862/2009
+AUTORIZAÇÃON° 115/10 1 - Palau Pickers y Asociados Corredoria de Seguros, SL, representada em Portugal por Elisabete Neves dos Santos, vem notificar à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento com a finalidade de gestão de clientes de seguros de crédito.
+A requerente propõe-se tratar os seguintes dados pessoais: nome, morada e dados respeitantes ao capital coberto pelo seguro (cf. minuta de apólice junta ao formulário de notificação).
+A recolha de dados é feita por forma directa, por via telefónica, internet ou impresso, sendo os dados actualizados pelas mesmas vias.
+Ao titular dos dados é facultado conhecer, corrigir e eliminar os dados que lhe respeitem, desde que o solicite por escrito à entidade responsável.
+A requerente propõe-se comunicar os dados à empresa Star Tic Innovatión, SA, sediada em Espanha, entidade encarregada do processamento da informação.
+A segurança é garantida por cópias de backup, password de acesso às informações, sistemas de processamento de backup e informação cifrada.
+A requerente indica como fundamento de legitimidade a execução de obrigação contratual.
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Pretende-se que os dados sejam conservados durante 5 anos após o termo da relação contratual.
+2 - A informação tratada é recolhida de forma lícita (artigo 5°, n.º1 alínea a) da Lei n° 67/98, de 26.10), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+Os dados são tratados no âmbito de uma relação contratual, existindo por isso legitimidade para o tratamento de dados (cf. artigo 6° alínea a) da Lei n° 67/98, de 26.10), nomeadamente para a comunicação à entidade encarregada do processamento dos dados.
+Afigura-se-nos ajustado o prazo de conservação pretendido.
+3- Em face do exposto, a CNPD autoriza o tratamento, nos termos declarados, consignando-se, nos termos do artigo 30.º da Lei n° 67/98, de 26.10, o seguinte:
+Responsável pelo tratamento: Palau Pickers y Asociados Corredoria de Seguros, SL, representada em Portugal por Elisabete Neves dos Santos
+Finalidade do tratamento: Gestão de clientes de seguros de crédito
+Categorias de dados pessoais tratados: nome, morada e dados respeitantes ao capital coberto pelo seguro
+Comunicação de dados pessoais: para Star Tic Innovatión, SA, sediada em Espanha, entidade encarregada do processamento da informação
+Eventuais interconexões de dados pessoais: não se verificam
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Transferência de dados para países terceiros: não há
+Lisboa, 22 de Parço dl 2010.
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)

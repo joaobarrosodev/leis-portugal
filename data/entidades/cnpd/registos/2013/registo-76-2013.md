@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Engenho - Associação de Desenvolvimento Local do Vale do Este'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 76/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54774](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54774).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 1662/2012
+REGISTON.º 76 / 2013
+A Engenho - Associação de Desenvolvimento Local do Vale do Este notificou à
+CNPD um tratamento de dados pessoais com a finalidade de gestão de recursos humanos.
+Os dados são recolhidos directamente por impresso e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. alínea b) do artigo 5.° da Lei n.° 67/98, de 26 de outubro - Lei de
+Proteção de Dados - LPD).
+• fundamento de legitimidade indicado para o tratamento é, nos termos da alínea a)
+do artigo 6.° da LPD, a execução do contrato.
+Assim, de acordo com as disposições conjugadas do n.º 1 do artigo 27.° e do n.º 1 do artigo 30.° da LPD, regista-se o tratamento nos seguintes termos:
+Responsável
+Engenho - Associação de Desenvolvimento Local do Vale do Este
+Finalidade
+Gestão de recursos humanos.
+Categoria de dados pessoais tratados
+Nome, morada, data de nascimento, nacionalidade, data de admissão, tipo de contrato, data do fim do contrato, n.º de BI/Cartão de
+Cidadão, NISS, NIF, habilitações literárias, outras habilitações, carreira profissional, diuturnidades/escalões de serviço, faltas/licenças, remuneração e dados de contacto de pessoa a prevenir em caso de emergência.
+Comunicação de dados
+Não há.
+Forma de exercício do direito de acesso e rectificação
+Junto da responsável pelo tratamento de dados pessoais.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt.
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS interconexões
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados 1 ano após a cessação do vínculo laboral.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da LPD.
+Lisboa, 14/06/2013
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

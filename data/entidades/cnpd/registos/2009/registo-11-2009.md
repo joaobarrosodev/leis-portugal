@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BRISA INTERNATIONAL, S.A (BI)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:44:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 11/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14110](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14110).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.º 3410/07
+Registol 109
+A Brisa Internacional, SAnotificou à CNPD um tratamento com a finalidade de gestão de processos de recrutamento.
+A Brisa - Auto Estradas de Portugal, SA é a entidade encarregue do processamento da informação, entidade com quem o responsável estabeleceu o contrato previsto no artigo 14° da LPD.
+Os dados pessoais que se pretende tratar para a finalidade declarada são: Dados de
+Identificação do candidato (nome, data de nascimento, sexo, nacionalidade, estado civil, BI, NIF, fotografia e naturalidade) dados curriculares e relativos à experiência profissional (habilitações literárias, conhecimento de línguas estrangeiras, cursos de formação realizados, conhecimentos de informática) dados relativos à avaliação do candidato (testes psicotécnicos e resultado do exame médico de aptidão para o cargo).
+Os dados são recolhidos por impresso na Internet.
+Há comunicação de dados às empresas do Grupo para a mesma finalidade, com consentimento do titular.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento do titular
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Brisa Internacional, SA
+Categoria de dados pessoais tratados - Dados de Identificação do candidato (nome, data de nascimento, sexo, nacionalidade, estado civil, BI, NIF, fotografia e
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS naturalidade) dados curriculares e relativos à experiência profissional (habilitações literárias, conhecimento de línguas estrangeiras, cursos de formação realizados, conhecimentos de informática) dados relativos à avaliação do candidato (testes psicotécnicos e resultado do exame médico de aptidão para o cargo).
+Finalidade - gestão de processos de recrutamento.
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsável;
+Comunicações de dados - Os dados são comunicados às empresas do grupo.
+Interconexões - Não há;
+Fluxo transfronteiriço de dados para países terceiros - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, incluindo o n.º 4 uma vez que há recolha de dados em rede aberta.
+Não se autoriza o tratamento de dados relativos a hábitos, designadamente o consumo de álcool, café ou tabaco, ainda que estes tenham sido fornecidos pelo respectivo titular no currículo. Não se autoriza, também, a recolha de dados de saúde, dados relativos à família e dados sobre os hábitos pessoais.
+Quanto aos dados de saúde e aos dados relativos aos testes psicotécnicos, o responsável apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Lisboa, 21 de Janeiro 2009
+O Vogal da CNPD a
+Luis Païva de Andrade
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

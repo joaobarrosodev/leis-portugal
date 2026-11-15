@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Acesso a dados pessoais de saúde'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:47:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 1183/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/79766](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/79766).
+Processo n° 15761/2014
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃO N.°/ 103/2015
+O Hospital Prof. Doutor Fernando Fonseca, EPE, solicitou à Comissão Nacional de
+Protecção de Dados (CNPD) que se pronunciasse sobre o pedido de acesso aos dados clínicos de apresentado pelo seu conjuge
+, para efeitos de obtenção de atestado de grau de incapacidade a fim de o apresentar junto da seguradora, no âmbito de um contrato de seguro de vida.
+1. Enquadramento Legal
+O n.º 4 do artigo 35.° da Constituição da República Portuguesa (CRP) estabelece a regra da proibição do acesso a dados pessoais de terceiros, salvo as exceções previstas na lei.
+Por sua vez, o n.° 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro (Lei de Protecção de Dados Pessoais - LPD) reafirmou esta limitação, nomeadamente quanto aos " dados sensíveis", isto é, aos dados pessoais referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa, vida privada e origem racial ou étnica, bem como aos dados relativos à saúde e à vida sexual, incluindo os dados genéticos.
+O artigo 3.° da Lei n.º 12/2005, de 26 de janeiro - que estabeleceu o regime da informação genética e de saúde -, também consagra a regra da proibição do acesso a dados clínicos de terceiros.
+Apesar desta proibição geral, o tratamento é admissível desde que exista consentimento expresso do titular dos dados ou autorização prevista na lei. É o que resulta do n.° 2 do artigo 7.° da LPD.
+O tratamento de dados de saúde é ainda admissível nos termos do n.º 4 do artigo 7.° da LPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 15761/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+II. Apreciação
+A Seguradora solicita atestado de incapacidade multiuso, para efeito de comprovação do sinistro por invalidez absoluta e definitiva, no âmbito de um contrato de seguro de vida.
+Para efeito da comprovação do preenchimento do pressuposto " incapacidade", determina o Decreto-Lei n.º 202/96, de 23 de outubro, alterado pelo Decreto-Lei n.° 291/2009, de 12 de outubro - que estabelece os termos e condições em que deve processar-se a avaliação da incapacidade das pessoas para efeitos de acesso às medidas e benefícios fiscais e outros previstos na lei -, no seu artigo 3.°, que recai sobre o titular dos dados pessoais o dever de apresentar relatório(s) médico(s) e meios auxiliares de diagnóstico complementares que fundamentem o pedido de emissão do atestado de incapacidade.
+No presente pedido de pronúncia do Hospital nada se diz quanto à possibilidade ou impossibilidade de prestação do consentimento pelo próprio doente, o qual constitui, caso fosse possível obter, a condição de legitimidade para que o pedido formulado pelo familiar pudesse ser satisfeito. No entanto, das declarações do requerente deduz-
+-se que o titular dos dados não se encontra capaz de prestar o consentimento.
+Neste sentido, a presente deliberação assentará no pressuposto de que o consentimento não é suscetível de ser obtido.
+Os portadores de doenças incapacitantes devem poder exercer os seus direitos, mesmo que por interposta pessoa, que não necessariamente o seu representante legal.
+Com efeito, se existe abertura legal, designadamente por força da Lei n.° 106/2009, de 14 de setembro, para que, de modo permanente, o familiar, em função do seu grau de parentesco, ou até mesmo uma pessoa designada pelo doente possa conhecer a sua situação clínica, em resultado da sua presença em consultas, tratamentos e realização de exames, parece que, estando o doente impossibilitado de prestar o seu consentimento, possa um terceiro, no caso em apreço o filho, solicitar os elementos requeridos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 15761/2014 3 V
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em causa está a disponibilização ao familiar do doente de informação de saúde que irá ser utilizada em benefício do doente, que não se encontra em condições físicas de exercer sozinho os direitos concedidos por lei e que é necessário para efeito de gozo dos direitos pelo titular dos dados.
+Acresce que, se não quase sempre, mas na maior parte das vezes, o familiar requisitante já conhece a situação clínica do doente, pois acompanha-o nos mais diversos contextos relacionados com a doença.
+O que significa dizer que o familiar requisitante já tem conhecimento de dados de saúde do doente, titular dos dados.
+O familiar acaba por ser apenas um intermediário no processo, na medida em que a sua intervenção se limita à formulação do pedido, em nome de outrem, mas em que não precisará de ter acesso ao conteúdo da informação, uma vez que a mesma se destina a instruir um pedido de avaliação da incapacidade do doente seu familiar junto do Delegado de Saúde, para efeitos de determinação do grau de deficiência e obtenção dos respetivos benefícios fiscais e isenção de taxa moderadora.
+O relatório médico solicitado, deverá, por sua vez, ser incluso em envelope fechado dirigido ao(s) médico(s) da Junta Médica, só podendo ser por este(s) aberto.
+Por último, alerta-se que esta informação não poderá ser utilizada para outra qualquer finalidade que não para efeitos de instrução do pedido e para efeitos de avaliação da situação clínica do doente em contexto de emissão de atestado multiusos pela Junta
+Médica.
+III. Decisão
+Face a todo o exposto delibera-se o seguinte:
+a) Autorizar o Hospital Prof. Doutor Fernando Fonseca, EPE a transmitir a informação clínica a médico da Seguradora;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 15761/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS b) A informação não poderá ser utilizada para outra qualquer finalidade que não para efeitos de instrução do pedido e à avaliação da situação clínica do doente em contexto de emissão de atestado.
+Lisboa, U julho de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

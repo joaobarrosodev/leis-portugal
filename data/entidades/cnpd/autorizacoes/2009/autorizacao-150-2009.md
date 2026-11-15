@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 150/2009
-official_date: null
+official_date: '2009-01-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL GERAL DE SANTO ANTÓNIO, SA - PORTO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:38:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 150/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13883](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13883).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 278/07
+AUTORIZAÇÃO N.° (JO 1200 g
+O Hospital Geral de Santo António, EPE notificou um tratamento de dados pessoais com a finalidade criar um registo dos indivíduos observados na Unidade Clínica de
+Paramiloidose (UCP) para suporte da investigação clínica e epidemiológica da doença.
+Aos doentes nas condições de inclusão, será solicitado, pelo seu médico assistente, o consentimento expresso para o registo dos dados.
+As declarações de consentimento são guardadas pelo médico.
+A recolha de dados será efectuada por resposta a inquérito junto aos autos e acesso ao processo clínico do doente.
+Os dados recolhidos são: nome, filiação, data de nascimento, sexo, concelho e freguesia de naturalidade e residência, ligação familiar a outros doentes, progenitor transmissor da doença, dados clínicos relativos à patologia.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Os futuros estudos a realizar são tratamentos de dados autónomos, pelo que nos termos do artigo 27° da LPD que carecem de notificação de per si, devendo ser obtido, em cada caso o consentimento do titular.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Hospital Geral de Santo António, EPE
+Finalidade: registo dos indivíduos observados na Unidade Clínica de Paramiloidose (UCP) para suporte da investigação clínica e epidemiológica da doença.
+Categoria de dados pessoais tratados: nome, filiação, data de nascimento, sexo, concelho e freguesia de naturalidade e residência, ligação familiar a outros doentes, progenitor transmissor da doença, dados clínicos relativos à patologia.
+Entidades a quem podem ser comunicados: Não existe comunicação
+Formas de exercício do direito de acesso e rectificação: pessoalmente e por escrito junto do responsável.
+Interconexões de tratamentos: Não há
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: Nos termos do anexo à Portaria n.º 247/2000, de 8 de Maio;
+Dos termos e condições fixados na Deliberação n.º 2271 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 9 de Janeiro de 2009
+Ana Roque; Carlos Campos Lobo; Eduardo Campos; Helena Delgado António; Luís
+Barroso (Relator); Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento. 148-3° • 1200-821 LISBOA 21 303 0030

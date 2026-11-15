@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 848/2005
-official_date: null
+official_date: '2005-10-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BAXTER MÉDICO FARMACÊUTICA, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:28Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 848/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6534](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6534).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.º 7961/2400/03 848
+Autorização n° /2005
+A Baxter Médico Farmacêutica, Lda, vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento relativo à gestão das funções, benefícios, desenvolvimento e necessidades de formação de colaboradores da Baxter Portugal.
+Os dados registados são: data de nascimento, naturalidade, nacionalidade, sexo, habilitações académicas, moradas, nome, estado civil, n.º BI e n.º NIB.
+É recolhida informação sobre o resultado de exames médicos, que se traduz nas informações apto ou inapto.
+A recolha e actualização de dados faz-se por via directa ou indirecta.
+As medidas de seguranças adoptadas são: password de acesso às informações, acesso restrito de pessoas a instalações e sistemas de processamento de backup.
+Não há comunicação de dados. Não há interconexões.
+Verificam-se fluxos transfronteiras para a Suiça e Estados-Unidos.
+Relativamente à Suiça,
+A transferência para os Estados-Unidos está dependente de consentimento prévio do titular dos dados nos termos do artigo 20.°, da Lei n.º 67/98, de 26 de Outubro, da existência de cláusulas contratuais que respeitem a Decisão da Comissão n.° 2002/16/CE ou da integração no safe harbour.
+Considera-se que as cláusulas contratuais constantes do processo asseguram a compatibilidade coma Decisão comunitária.
+Os dados recolhidos são considerados necessários, pertinentes e adequados, atenta a finalidade prosseguida (artigo 5.° da Lei n.º 67/98, de 26 de Outubro).
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.º da Lei n.º 67/98, de 26 de Outubro, autoriza-se o tratamento de dados apresentado, nos seguintes termos:
+Responsável: Baxter Médico Framacêtica, Lda
+Categorias de dados pessoais tratados: data de nascimento, naturalidade, nacionalidade, sexo, habilitações académicas, moradas, nome, estado civil, n.º BI e n.º
+NIB.
+Finalidade: Gerir as funções, benefícios, desenvolvimento e necessidades de formação de colaboradores da Baxter Portugal.
+Entidades a quem podem ser transmitidos: Não se verificam.
+Forma de exercício do direito de acesso e rectificação: Por escrito junto da Direcção do responsável pelo tratamento.
+Eventuais interconexões : Não se verificam
+Transferências de dados para países terceiros: Suiça e Estados-Unidos. Nos termos previstos nesta autorização.
+Lisboa, | 7 de Outubro de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL gen
+Arden ly
+Amadeu Guerra de tere
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

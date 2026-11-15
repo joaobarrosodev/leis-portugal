@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1625/2010
-official_date: null
+official_date: '2010-04-26'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOVARTIS PHARMA AG'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:36:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1625/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22749](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22749).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 2731/2010
+AUTORIZAÇÃON: 625 12010
+A Novartis Farma - Produtos Farmacêuticos, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para caracterizar os sintomas e reacções mais comuns relatados pelos doentes com Hepatite C Crónica após o tratamento com injectáveis (PLUTON).
+A entidade encarregue pelo processamento dos dados é a Outcome Sciences Inc. (Suíça e
+EUA) e ERT (Reino Unido).
+Serão incluídos no estudo os doentes com a patologia que frequentam a consulta dos centros participantes, que iniciem o tratamento com injectáveis. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel e Web.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do profissional de saúde participante.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento da informação.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os tundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Novartis Farma - Produtos Farmacêuticos, S.A.
+Finalidade: estudo observacional para caracterizar os sintomas e reacções mais comuns relatados pelos doentes com Hepatite C Crónica após o tratamento com injectáveis (PLUTON).
+Categoria de Dados pessoais tratados: código do doente, dados sócio-demográficos (data de nascimento, sexo, estado civil, escolaridade, estado profissional, categoria sócio profissional), sinais vitais e gravidez, história de uso de álcool, tabaco e substâncias ilicitas, história clínica (comorbilidades relevantes, história de hepatite C crónica, terapêuticas prescritas, terapêuticas profiláticas para os efeitos adversos, medicação concomitante), resultados de hemoglobina, resposta ao tratamento, redução de dose e respostas aos questionários de avaliação do bem-estar geral e inquérito sobre a saúde.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 26 de Abril de 2010
+Ana Roque (Relatora), Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt

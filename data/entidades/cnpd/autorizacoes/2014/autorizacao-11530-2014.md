@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Manuel Augusto Rodrigues de Sousa'
-- 'Texto incompleto: 1 de 4 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,12 +69,27 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:29:08Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11530/2014
+
+Proc. n.º 16915/2014 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃO N.° 38 12015
+Verificou-se que, por lapso do requerente, foram submetidas, no sistema informático da Comissão Nacional de Protecção de Dados (CNPD), duas notificações com o mesmo pedido e objeto, que deram origem ao presente processo e ao processo n.° 1330/2014.
+Na sequência da primeira notificação, foi emitida a Autorização n.º° 1004/2014, de 27 de janeiro de 2014. E em 2 de dezembro de 2014 foi emitida a Autorização n.º 11530/2014, a qual apresenta exatamente o mesmo objeto daquela, embora com divergência quanto ao número de câmaras que compõem o sistema de videovigilância.
+Sucede que o requerente em 1 de dezembro de 2014, apercebendo-se do erro, comunicou-o à CNPD ainda antes da emissão da segunda autorização, pedindo que fosse ignorada a segunda notificação.
+Assim, nos termos do artigo 138.° e 141.° do Código do Procedimento Administrativo, a CNPD, com fundamento em erro nos pressupostos, delibera revogar a Autorização n.° 11530/2014.
+Lisboa, 6 de janeiro de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
 
 Processo n.º 16915/ 2014
 AUTORIZAÇÃO N.º 11530/ 2014

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 37/2013
-official_date: null
+official_date: '2013-04-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FULLSIX PORTUGAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,33 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 37/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52855](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52855).
+7167/2008 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Registo n.° 37/2013
+Fullsix Portugal, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade marketing.
+Os dados são recolhidos na Internet
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. alínea b) do artigo 5.° da Lei n.º 67/98, de 26 de outubro - LPD).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco.
+Assim, regista-se, nos termos dos artigos 27°, n.º 1, e 30°, n.° 1, ambos da LPD o tratamento, nos seguintes termos:
+Responsável - Fullsix Portugal, Lda
+Categoria de dados pessoais tratados - Nome, e-mail, idade e código postal.
+Finalidade - Marketing
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ou telefónica ao responsável
+Interconexões - Não há;
+Fluxo transfronteiriço de dados para países terceiros - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, bem como o n.° 4 do referido artigo, pro haver recolha de dados na Internet.
+Lisboa, 3 de abril de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

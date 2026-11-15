@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GDPN - GENÉTICA MÉDICA E DIAGNÓSTICO PRÉ-NATAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,28 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:22:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7430/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34006](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34006).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 1674/2005
+AUTORIZAÇÃON: 7430 12011
+Do Pedido
+A GDPN - Genética Médica e Diagnóstico Pré-Natal, Prof. Dr. Sérgio Castedo, Lda.
+notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de utentes e respectivas análises clínicas.
+Os dados pessoais objecto de tratamento são os seguintes: nome, data de nascimento, história familiar de malformações congénitas e antecedentes clínicos pessoais. Para rastreios pré-natais de trissomia 21 e defeitos do tubo neural são ainda registados além daqueles dados, o peso e a etnia.
+A responsável pelo tratamento justifica a necessidade do tratamento do dado etnia do seguinte modo: "Os dados referentes à origem racial/étnica são importantes no rastreio pré-natal, dado que os valores normais para algumas análises (por exemplo, alfa-fetoproteína) são diferentes em etnias/raças diferentes (cf. por exemplo a publicação científica: Kulch e tal: Racial differences in maternal serum human chronic gonadotropin and unconjugated oestriol levels.
+Prenat Diagn. 1993 Mar; 13(3):191-5). Sem estes dados, alguns valores poderiam ser interpretados de forma errónea."
+Os dados são recolhidos e actualizados de forma directa, mediante contacto pessoal ou impresso próprio, ou de forma indirecta, através da informação constante das amostras enviadas por outras entidades.
+Está assegurado o direito de acesso, rectificação e eliminação dos dados, mediante solicitação do titular, efectuada por escrito, à requerente, excepto no que respeita aos dados clínicos.
+Indica-se como fundamento de legitimidade para o tratamento o consentimento dos titulares dos dados, a protecção de interesse vital do titular e a inexistência de risco de intromissão na vida privada ou de discriminação.
+A segurança das informações é garantida por cópias de backup, password de acesso as informações, acesso restrito de pessoas e sistemas de alarme e resposta.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 40/2021
-official_date: null
+official_date: '2021-03-30'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Banco de Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,33 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:54:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 40/2021
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121871](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121871).
+PRO2120 I
+CNPD
+Comissão Nacional de Proteção de Dados
+PARECER/2021/40
+I. Pedido 1. O Banco de Portugal solicitou à Comissão Nacional de Proteção de Dados (CNPD) emissão de parecer sobre o projeto de revisão à sua Instrução n.º 37/2012, de 15 de outubro de 2012, relativa à utilização de sistemas inteligentes de neutralização ("IBNS") e troca de notas de euro danificadas por atuação desses sistemas.
+2. A CNPD emite parecer no âmbito das suas atribuições e competências enquanto autoridade administrativa independente com poderes de autoridade para o controlo dos tratamentos de dados pessoais, conferidos pela alínea c) do n.° 1 do artigo 57.°, conjugado com a alínea b) do n.º 3 do artigo 58.°, e com o n.° 4 do artigo 36.°, todos do Regulamento (UE) 2016/679, de 27 de abril de 2016 - Regulamento Geral sobre a Proteção de Dados (doravante RGPD), em conjugação com o disposto no artigo 3.°, no n.º 2 do artigo 4.°, e na alínea a) do n.º 1 do artigo 6.°, todos da Lei n.° 58/2019, de 8 de agosto, que executa na ordem jurídica interna o RGPD.
+II. Análise 3. Nos termos do preâmbulo do presente projeto de revisão de Instrução, este tem como objeto a revisão da regulação da utilização de IBNS pelas instituições de crédito e outras entidades que operam a título profissional com numerário, nomeadamente quanto ao reporte de informação relativa a sistemas inteligentes de neutralização de notas de euro e estabelecimento de regras quanto à possibilidade de troca de notas danificadas por estes sistemas, procurando assim garantir a segurança dos utilizadores, a eficácia da prevenção de ilícitos e o apoio das atividades de perícia laboratorial e investigação policial.
+4. Assim, o projeto estabelece os princípios que regem a utilização de IBNS e as regras aplicáveis na receção/troca de notas danificadas pela atuação dos mesmos.
+5. O artigo 6.° estabelece as regras a observar na retirada de notas danificadas, ou suspeitas de o terem sido, por atuação dos IBNS pelas entidades que operam profissionalmente com numerário. O número 3 dispõe que as entidades destinatárias da presente Instrução devem assegurar que a retirada de notas danificadas ou suspeitas de o terem sido por atuação dos IBNS é obrigatoriamente acompanhada da recolha dos elementos de informação disponíveis constantes do Anexo I, entre os quais a identificação do Apresentante: nome completo, documento de identificação, número do documento de identificação, email, contacto telefónico (telefone ou telemóvel), morada, código postal, titular da conta, titular do cartão (se diferente da conta), número de conta (IBAN ou outro).
+Av. D. Carlos I, 134, 1° 1200-651 Lisboa
+T (+351) 213 928 400
+F (+351) 213 976 832 geral@cnpd.pt www.cnpd.pt
+
+PAR/Z021/30 1v.
+6. O tratamento de dados pessoais em causa assenta em obrigações legais decorrentes da leitura conjunta dos artigos 6.°, n.º 1, da Lei Orgânica do Banco de Portugal, 10.° do Decreto-Lei n.° 195/2007, de 15 de maio, em conformidade com o Direito da União Europeia, encontrando fundamento de licitude nos termos da alínea c) do n.º 1 do artigo 6.° do RGPD.
+7. Quanto às categorias de dados pessoais objeto de tratamento, que constam do ponto II (Identificação do
+Apresentante) do Anexo I, a CNPD considera-as adequadas e necessárias às finalidades visadas, em respeito pelo princípio da minimização dos dados consagrado na alínea c) do n.° 1 do artigo 5.° do RGPD.
+8. Apenas uma breve nota quanto ao cumprimento do direito de informação relativo ao tratamento de dados pessoais, que vem anexado ao Projeto de Instrução. Uma vez que o tratamento de dados pessoais assenta em obrigações legais, não se fundando diretamente no exercício de funções de interesse público pelo Banco de
+Portugal (cf. n.º 1 do artigo 21.° do RGPD), nem no consentimento dos titulares dos dados (cf. n.º 3 do artigo 7.° do RGPD), entende a CNPD não fazer sentido a referência, no ponto 4.1., ao direito de oposição ao tratamento e ao direito de revogação do consentimento.
+9. Assim, a bem da clareza dos termos do tratamento de dados, a CNPD recomenda a revisão do ponto 4.1., bem como do ponto 4.2. (este, na parte em que se menciona o direito de oposição).
+III. Conclusão 10. Com os fundamentos acima expostos, a CNPD considera que o tratamento de dados pessoais previsto no
+Projeto de Instrução não suscita reservas do ponto de vista do regime jurídico de proteção de dados, recomendando apenas a revisão do ponto 4 do anexo relativo ao cumprimento do direito de informação, nos termos explicitados supra, nos pontos 7 e 8.
+Aprovado na sessão de 30 de março de 2021 pi
+Filipa Calvão (Presidente)

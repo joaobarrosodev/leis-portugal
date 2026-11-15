@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CATERPILLAR LOGISTICS SERVICES INTERNATIONAL, N. V.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 60/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22319](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22319).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 4139/2009
+REGISTO N.° 60/2010
+A Caterpillar Logistics Services International N.V. (Sucursal Portugal) notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de clientes e fornecedores.
+A entidade encarregue do processamento da informação é a Orficontra, Lda, com que deve o responsável celebrar o contrato nos termos do art. 14° da LPD.
+Os dados são recolhidos directa e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Haverá fluxos para a Caterpillar, Inc (EUA), ao abrigo do Safe Harbor, com o objectivo de gestão centralizada de clientes e fornecedores.
+Assim, regista-se, de acordo com as disposições conjugadas dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Caterpillar Logistics Services International N.V.
+(Sucursal Portugal)
+Finalidade
+Gestão de clientes e de fornecedores.
+Categoria de dados pessoais tratados
+Nome da entidade/ Denominação social, morada, telefone, telemóvel, fax, e-mail, Web site, n° de contribuinte, NIB (para pagamentos por transferência), nome da pessoa para contacto, seu telefone, fax, telemóvel e e-mail.
+Comunicação de dados
+Empresas do Grupo em Espanha, Bélgica, França e Reino Unido para gestão centralizada de clientes e fornecedores.
+Forma de exercício do direito
+Junto do responsável pelo tratamento dos dados de acesso e rectificação por escrito.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 21 393 00 39
+LINHA PRIVACIDADE geral (a)cnnd nt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Interconexões
+Fluxo transfronteiriço de dados
+Conservação dos dados
+Não há.
+Caterpillar, Inc (EUA) - ao abrigo do Safe Harbor.
+10 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 07/04/10
+A Secretária da CNPD, sere (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

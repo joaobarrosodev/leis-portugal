@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ROCHE FARMACEUTICA QUÍMICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 31/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1051](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1051).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.º 319/07
+Registo n. °3\ /08
+A Roche Farmacêutica e Química, Lda notificou um tratamento de dados pessoais com a finalidade gestão de eventos científicos, acções de formação e de promoção de medicamentos.
+Declara as seguintes categorias de dados pessoais: Nome, título, sexo, data de nascimento, local de trabalho, serviço, cargo, especialidade, n.º da Ordem dos médicos, NIF, Passaporte,
+BI, moradas, morada, telefone, e-mail, dados relativos ao evento (deslocação e alojamento), nif, informações fiscais, NIB/IBAN, montantes e formas de pagamento de honorários, dados relativos aos colaboradores com intervenção no evento.
+Os dados são recolhidos pessoalmente e por impresso.
+Relativamente aos dados tratados não se admite o registo de informações relacionadas com os
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+Há comunicação de dados no âmbito da organização de eventos em que os profissionais de saúde participem - agências de viagem para a marcação de viagens e alojamento, seguradoras para a contratação de seguros de viagens, empresas de organização de eventos.
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Roche Farmacêutica e Química, Lda
+Categoria de dados pessoais tratados - Nome, título, sexo, data de nascimento, local de trabalho, serviço, cargo, especialidade, n.º da Ordem dos médicos, NIF, Passaporte, BI, moradas, morada, telefone, e-mail, dados relativos ao evento (deslocação e alojamento), nif, informações fiscais, NIB/IBAN, montantes e formas de pagamento de honorários, dados relativos aos colaboradores com intervenção no evento.
+Finalidade - gestão de eventos científicos, acções de formação e de promoção de medicamentos;
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável.
+Interconexões - Não há;
+Comunicação de dados - agências de viagens, seguradoras e empresas de organização de eventos.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Fluxo transfronteiriço de dados - Não há.
+Alerta-se ainda que não é admitida a existência de um campo de "observações" com texto livre, ou outro de idêntica natureza, para anotar aspectos relativos à vida privada, familiar ou profissional do médico ou para introduzir informação susceptível de intromissão na vida privada ou discriminação (art° 2° da Lei 67/98). O registo destes dados, para além de não estar abrangido neste instrumento de legalização, só poderá ser admitido, sempre com garantias de não discriminação, se for obtida autorização expressa do profissional de saúde e desde que a informação registada seja adequada, não excessiva e pertinente à finalidade.
+Lisboa, 4 de Fevereiro de 08
+A Secretária da CNPD sebels
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

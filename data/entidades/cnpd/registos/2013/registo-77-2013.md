@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UCB Pharma (Proodutos Farmacêuticos), Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 77/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54918](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54918).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 2548/2012
+REGISTO N.° 17 / 2013
+A UCB Pharma (Produtos Farmacêuticos), Lda. notificou à CNPD um tratamento de dados pessoais com a finalidade de responder a pedidos de informação sobre medicamentos.
+A responsável pelo tratamento de dados esclareceu que os pedidos espontâneos de informação médica resultam de profissionais de saúde, mas que não se enquadram na
+Farmacovigilância, dado que não têm que ver com reações adversas
+Os pedidos de informações são solicitados por e-mail, por telefone ou presencialmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. alínea b) do artigo 5.° da Lei n.° 67/98, de 26 de outubro - Lei de
+Proteção de Dados - LPD).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alinea a)
+do artigo 6.° da LPD, a execução do contrato.
+Assim, de acordo com as disposições conjugadas do n.º 1 do artigo 27.° e do n.° 1 do artigo 30.° da LPD, regista-se o tratamento nos seguintes termos:
+Responsável
+UCB Pharma (Produtos Farmacêuticos), Lda.
+Finalidade
+Responder a pedidos de informação sobre medicamentos.
+Categoria de dados pessoais tratados
+Nome, género, título académico, morada do local de trabalho, contactos telefónicos, e-mail, língua e descrição do pedido de informação relativo a medicamentos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Comunicação de dados
+Forma de exercício do direito de acesso e rectificação
+Interconexões
+Para outras afiliadas da UCB em Espanha, para resposta a pedidos de informações bibliográficas, para a Bélgica, para os escritórios centrais e para a Alemanha, ondes estão os servidores da base de dados, assim como para parceiros responsáveis por farmacovigilância e entidades reguladoras.
+Junto da responsável pelo tratamento de dados pessoais.
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados
+Os dados pessoais devem ser destruídos imediatamente após o envio das informações.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da LPD.
+Lisboa, 20/06/2013
+A Secretária da CNPD.
+De (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

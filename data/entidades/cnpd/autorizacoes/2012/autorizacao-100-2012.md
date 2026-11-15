@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 100/2012
-official_date: null
+official_date: '2012-01-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Eurovida - Companhia de Seguros de Vida, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T04:38:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 100/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40355](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40355).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 10196/11
+AUTORIZAÇÃO N.° 100/2012
+Eurovida - Companhia de Seguros de Vida, S.A., notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transacções comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+A CNPD já se pronunciou na sua Deliberação n.º 629/2010' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.º 629/2010, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequivoco do titular (n.° 1 do artigo 4° da Lei n.º 41/2004, de 18 de Agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissivel que a entidade patronal efectue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respectivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação a gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20° do Código de Trabalho e no n.º 1 do artigo 11.° do Regime do Contrato de Trabalho em Funções Públicas, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.° 2, 28.° n.° 1, al. a), 29.° e 30.°, n.° 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Eurovida - Companhia de Seguros de Vida, S.A
+Prova das transacções comerciais e quaisquer outras comunicações
+Finalidade respeitantes à relação contratual
+Dados de tráfego e conteúdo das chamadas
+Categoria de dados pessoais tratados realizadas
+Disponível em http://www.cnpd.pt/bin/orientacoes/DEL629_2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Forma de exercício dos direitos de acesso e rectificação
+Por solicitação ao responsável
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados 90 dias
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda Lei n.º 67/98, de 26 de Outubro.
+Dos termos e condições fixados na Deliberação n.º 629/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Esclarece-se que a presente Autorização não inclui a finalidade de monitorização da qualidade do serviço prestado, nem a finalidade de cumprimento das obrigações relativas ao serviço de emergência de serviço público, que por constituirem finalidades diferentes carecem de notificações autónomas.
+Lisboa, 09 de Janeiro de 2012
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo (Relator), Vasco
+Almeida, Luís Paiva de Andrade.
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

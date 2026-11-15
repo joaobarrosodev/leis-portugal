@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 962/2004
-official_date: null
+official_date: '2004-09-28'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANQUE PSA FINANCE - PSA GESTÃO - COM. DE ALUGUER DE VIATURAS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:40:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 962/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8317](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8317).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 146/95
+AUTORIZAÇÃO N.° S62/2004 1. O Banque PSA Finance tem os seus tratamentos notificados à CNPD. Vem solicitar autorização para transmitir dados - para fins de recuperação de créditos em dívida - às empresas Cooperando, Justicerto e Crediactiv.
+Estas empresas têm os seus tratamentos notificados na CNPD para exercerem aquela actividade, em regime de prestação de serviços, tratando os dados estritamente necessários ao desempenho da sua actividade. Estão ainda obrigados a assegurar o direito de informação aos titulares dos dados em relação à entrada dos seus nomes na sua base de dados e a proceder à correcção/actualização da informação logo que a dívida seja paga.
+2. O Banque PSA Finance, na qualidade de instituição financeira, está sujeita ao sigilo bancário em relação aos seus clientes (cf. artigo 78.º do DL 298/92). No entanto, o mesmo preceito estende o dever de segredo profissional às entidades que prestem serviços às sociedades financeiras.
+No mesmo contexto, o artigo 16.º da Lei 67/98, de 26 de Outubro, admite que um subcontratante tenha acesso a dados pessoais e que faça o respectivo tratamento de acordo com as «instruções do responsável». As entidades que acedem aos dados, no âmbito do contrato de prestação de serviços, estão obrigados ao sigilo profissional (cf.
+artigo 78.° do DL 298/92 e 17.° da Lei 67/98).
+O Banco PSA Finance deve - através de cláusula contratual ou no impresso de recolha de dados - assegurar o direito de informação aos titulares dos dados (cf. artigo 10.º n.º 1 alíneas b) e c) da Lei 67/98) em relação aos destinatários dos dados e respectivas finalidades.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Em face do exposto a CNPD autoriza a comunicação de dados às entidades acima identificadas, para as finalidades indicadas, desde que cumpridas as exigências legais enunciadas.
+Lisboa, 28 de Setembro de 2004 eden
+Amadeu Guerra (relator)
+Alexandissera
+Alexandre Pinheiro
+Eduardo Campos
+Ana Luísa Geraldes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

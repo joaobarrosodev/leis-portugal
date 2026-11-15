@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Agrupamento de Escolas Ferreira de Castro'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,78 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T15:13:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1145/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/87241](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/87241).
+Processo n° 17191/2015 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 1145/20/6 1 - Pedido
+Agrupamento de Escolas Ferreira de Castro veio notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de alunos.
+Os dados objeto de registo são os seguintes: Nome, sexo, data de nascimento, filiação, nacionalidade, naturalidade, número de Cartão de Cidadão, NIF, sistema de saúde, agregado familiar, profissão, habilitações literárias e morada dos pais, atribuição de abono de família, contactos, subsídios no âmbito da ação social escolar, necessidades educativas especiais, ações disciplinares.
+Os dados são recolhidos de forma direta, presencialmente e mediante preenchimento de impressos.
+Ao titular dos dados é facultado conhecer, corrigir e eliminar os dados que lhe respeitem, desde que o solicite presencialmente e por escrito ao requerente.
+O requerente propõe-se comunicar dados dos alunos à Câmara Municipal de Sintra para efeitos de matrículas, ação social escolar no pré-escolar e 1° ciclo e serviços de refeitório, e ao Ministério da Educação e Ciência, para efeitos de tratamento estatístico, serviço de exames nacionais e ação social escolar nos 2° e 3°ciclos.
+No formulário de notificação não vêm descritas as medidas de segurança que o requerente se propõe adotar.
+Pretende-se que os dados sejam conservados por tempo ilimitado.
+2 - Apreciação
+A entidade requerente está integrada na rede pública de estabelecimentos de educação e de ensino, no quadro do sistema educativo nacional aprovado pela Lei n.º 46/86, de 14 de outubro, alterada pelas Leis n.°s 115/97, de 19 de setembro, e 49/2005, de 30 de agosto.
+Nos termos do Decreto-Lei n.° 55/2009, de 2 de março, e em conformidade com o disposto
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976 832
+LINHA PRIVACIDADE www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 17191/2015 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS no Despacho n° 8452-A/2015, de 31 de julho, cabe-lhe apurar as condições económico-sociais dos alunos e respetivos agregados familiares para efeitos de atribuição de apoios no ambito da ação social escolar.
+O tratamento de dados notificado tem o seu fundamento nos regimes legais acima referidos, pelo que a Comissão Nacional de Protecção de Dados considera assim existir legitimidade para o tratamento dos dados por força do disposto no artigo 7° nº2 da Lei n° 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto (Lei de Proteção de Dados - LPD).
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. alínea c) do nº1 do artigo 5° da LPD).
+No momento da recolha ou da atualização dos dados existentes deve ser assegurado direito de informação e acesso nos termos previstos nos artigos 10.° e 11.° da LPD.
+Admite-se a comunicação de dados às entidades indicadas pelo requerente, na medida estritamente necessária à realização da finalidade, a fim de dar cumprimento a exigências legais e a responsabilidades contratuais.
+Alerta-se a requerente para a circunstância de as comunicações de dados para terceiras entidades, quando não decorram de disposição legal, carecerem de Autorização da CNPD.
+Os dados devem ser exatos e, se necessário, atualizados (artigo 5°, alínea d), da LPD, sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da LPD, sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou retificados os dados inexatos ou incompletos ou não necessários (artigo 5° n.º 1, alíneas c) e d), e n.º 3 da LPD).
+Face aos fins em vista, e uma vez que o requerente não apresentou justificação para o prazo pretendido, crê-se ser razoável fazer coincidir o prazo de conservação dos dados com o período de frequência do aluno, sem prejuízo de conservação dos dados por tempo superior em arquivo morto.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 17191/2015 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Devem ser garantidas as regras de segurança adequadas, cabendo à responsável assegurar o resultado da efetiva segurança da informação e dos dados pessoais tratados.
+Todavia, independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados tratados.
+3- Conclusão
+Em face do exposto, a Comissão Nacional de Protecção de Dados autoriza o tratamento notificado, nos termos dos artigos 7° nº2, 28.º nº1, alínea a), e 30.° da Lei 67/98, de 26 de outubro, alterada pela Lei n° 103/2015, de 24 de agosto, consignando-se o seguinte:
+Responsável pelo tratamento: Agrupamento de Escolas Ferreira de Castro
+Finalidade do tratamento: gestão de alunos
+Categorias de dados pessoais tratados: nome, sexo, data de nascimento, filiação, nacionalidade, naturalidade, número de Cartão de Cidadão, NIF, sistema de saúde, agregado familiar, profissão, habilitações literárias e morada dos pais, atribuição de abono de família, contactos, subsídios no âmbito da ação social escolar, necessidades educativas especiais, ações disciplinares
+Comunicação de dados de dados pessoais: Câmara Municipal de Sintra e Ministério da
+Educação e Ciência
+Transferência de dados de dados pessoais: não há
+Forma de exercício do direito de acesso e retificação: através de pedido dirigido presencialmente ou por escrito ao responsável
+Eventuais interconexões de dados pessoais: não há
+Prazo de conservação dos dados: pelo período de frequência escolar.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 17191/2015 | 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 27 de Jarino Le 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

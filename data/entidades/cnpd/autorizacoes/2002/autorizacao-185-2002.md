@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 185/2002
-official_date: null
+official_date: '2002-11-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JPMORGAN CHASE BANK NATIONAL ASSOCIATION (EX:THE CHASE MANHATTAN BANK)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:00:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 185/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9638](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9638).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 524/99
+AUTORIZAÇÃO N.° 185 /2002
+O Chase Manhattan Bank - Escritório de Representação em Portugal veio notificar à Comissão Nacional de Protecção de Dados (CNPD) os tratamentos de gestão da actividade bancária, bem como solicitar a autorização para a transferência de dados pessoais para os Estados Unidos da América (EUA).
+1. As categorias de dados tratados - nome, morada, telefone e fax do cliente e gestão de movimentos - são necessários e não excessivos em relação à finalidade (cf. art. 5.° da
+Lei 67/98, de 26 de Outubro).
+Conforme esclarecimento complementar, os dados são transferidos para os EUA, apenas, "em caso de deslocação ao Estados Unidos por motivos relacionados com negócios a realizar com o Chase Manhattan Bank" e permitir um melhor conhecimento pessoal dos dados do cliente.
+2. Nos termos do disposto no artigo 20.º e na alínea e) do n.º° 1 do artigo 23.° da Lei de
+Protecção de Dados Pessoais, a transferência de dados pessoais para países terceiros carece de autorização da CNPD.
+Nos termos do artigo 20.° n.º 1 al. b) da Lei 67/98, de 26 de Outubro, a transferência de dados pessoais para um Estado que não assegure um nível de protecção adequado pode ser permitida pela CNPD se for necessário para a execução ou celebração de um contrato celebrado ou a celebrar, no interesse do titular dos dados". Será esta a situação do caso sub judice, conforme resulta da declaração junta ao processo.
+3. Face a todo o exposto DELIBERA esta CNPD, nos termos do disposto no n.º 1 do artigo 20.° da Lei n.º 67/98, de 26 de Outubro, autorizar o tratamento de dados pessoais, bem como a sua transmissão para os EUA.
+Lisboa, 5 de Novembro de 2002
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Arder
+Amadeu Guerra (Relator)
+ro.
+Luís Durão Barroso
+Cristina Baptista dereude Sonnefickeiss
+Alexandre Pinheiro
+Pateuinfumentilasts
+Catarina Sarmento e Castro
+Mário Varges
+Gomes
+Luíş Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

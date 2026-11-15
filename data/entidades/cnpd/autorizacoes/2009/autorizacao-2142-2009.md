@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2142/2009
-official_date: null
+official_date: '2009-05-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SANTA CASA DA MISERICÓRDIA DE VILA VERDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:03:03Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2142/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16355](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16355).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 7406/08
+Autorização n.° 21W//2009
+A Santa Casa da Misericórdia de Vila Verde notificou um tratamento relativo gestão de doentes, através da utilização da aplicação designada de SONHO.
+O tratamento processa informação sobre identificação dos doentes (nome, estado civil,
+Bl/autorização de residência, NIF, morada, data de nascimento, profissão, e-mail, telefone, n.° de utente do SNS e dados de saúde.
+Há comunicação de dados ao IGIF(anonimizados), a subsistemas de saúde e terceiros responsáveis pelo pagamento das despesas de saúde;
+Foram adoptadas medidas de segurança lógica e física (cópias de backup dos dados, password de acesso às informações e acesso restrito de pessoas).
+A informação administrativa existente no sistema é exportada para outras aplicações com finalidade específica de gestão dos doentes dos vários serviços da instituição, designadamente na aplicação SAM e AIDA. Por outro lado, dessas aplicações é importada informação relativa aos serviços prestados. Assim, são efectuadas interconexões entre os tratamentos.
+Serão interconectados os dados de identificação do utente - número de utente, nome, morada, telefone e subsistema de saúde e os dados relativos aos serviços prestados.
+O artigo 23.° n.º 1 al. d) da Lei 67/98, de 26 de Outubro estabelece que a CNPD tem competência para autorizar, nos casos previstos no artigo 9.°, a interconexão de tratamentos automatizados de dados pessoais.
+Por sua vez, o artigo 9.º daquele diploma considera que a interconexão "deve ser adequada à prossecução das finalidades legais ou estatutárias e de interesses legítimos dos responsáveis dos tratamentos, não implicar discriminação ou diminuição dos direitos, liberdades e garantias dos titulares dos dados, ser rodeada de adequadas medidas de segurança e ter em conta o tipo de dados pessoais objecto de interconexão".
+A interconexão e a forma como é feita respeita as exigências do artigo 9.° da Lei 67/98, não se vislumbrando que a operação implique discriminação ou diminuição dos direitos, liberdades e garantias dos titulares dos dados.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O n.º 4 do art. 7° da Lei n.º 67/98, de 26 de Outubro admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98) para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Deste modo, a CNPD autoriza o tratamento de dados - cf. artigo 7.° n.º 2, 9° 28.° n.° 1 al. a), 23.° n.º 1 al. b), 27.° e 30.° da Lei 67/98 nos seguintes termos:
+1. Responsável: Santa Casa da Misericórdia de Vila Verde 2. Categorias de dados pessoais tratados: identificação dos doentes (nome, estado civil, Bl/autorização de residência, NIF, morada, data de nascimento, profissão, e-mail, telefone, n.° de utente do SNS e dados de saúde 3. Finalidade: gestão de doentes (Sonho)
+4. Entidades a quem podem ser transmitidos: Há comunicação de dados ao
+IGIF( anonimizados), a subsistemas de saúde e terceiros responsáveis pelo pagamento das despesas de saúde 5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita ou pessoal. A informação é revelada por «intermediação médica» (cf. artigo 11.° n.° 5 da Lei 67/98).
+6. Interconexões: São interconectadas informações com as aplicações existentes nos vários serviços da instituição.
+7. Transferências de dados para países terceiros : Não há.
+8. Tempo de conservação: Nos termos da Portaria n.° 247/2000, de 8 de Maio;
+Aos titulares dos dados deve ser assegurado o direito de Informação previsto no art. 10° da referida lei;
+O responsável deve assegurar a separação lógica entre os dados administrativos e os dados de saúde (cf. Art.° 15° n.º 3 da referida lei), devendo ser adoptadas medidas de segurança que impeçam o acesso à informação por pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos e técnicos de saúde ou, sob a sua direcção, a outros profissionais obrigados a
+D 1 De 110 20 1000 0011 10D0 A
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS segredo profissional (n.º 4 do citado art.º 7°). O sistema deve ser dotado de passwords diferenciadas para assegurar as exigências supra especificadas;
+Lisboa, 25 de Maio de 2009
+Ana Roque (Relatora), Luís Barroso, Luís Paiva de Andrade, Helena Delgado António
+Luis Lingnau da Silveira (Presidente)

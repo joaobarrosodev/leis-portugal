@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LAR MARIA DROSTE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:32:12Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1850/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23079](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23079).
+PROCESSO N.º 2067/2010 1850
+AUTORIZAÇÃO N.°
+/2010
+PEDIDO
+O Lar Maria Droste notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de iGestão dos processos das crianças apoiadas"
+Pretende tratar os seguintes dados pessoais: Nome, Data do nascimento, Naturalidade e nacionalidade, Número de BI, Nome dos pais, Registo escolar, Registo judicial e Dados de saúde.
+APRECIAÇÃO
+O Lar Maria Droste é uma Instituição Particular de Solidariedade Social (IPSS), que tem por objectivo apoiar crianças e jovens em perigo, isto é, que se encontrem privadas do seu ambiente familiar por terem sido vítimas ou sofrerem exposição a situações de maus-tratos, abusos vários, abandono e/ou negligência. A sua intervenção visa garantir o bem-estar das crianças e jovens acolhidas, proporcionando-lhes a possibilidade de um desenvolvimento integral e harmonioso, no que concerne à sua segurança, saúde, formação e educação. Esta instituição acolhe cerca de 38 crianças e jovens, com idades compreendidas entre os 10 e os 18 anos.
+Dados pessoais
+Os dados pessoais a tratar são adequados, pertinentes e não excessivos em relação à finalidade que é determinada, explicita e legitima (cf. artigo 5.° - 1 - b) e c) da Lei 67/98, de 26 de Outubro).
+Condição de legitimidade
+A condição de legitimidade do tratamento é a prevista no artigo 7.° - n.º 2 da Lei 67/98, de 26 de Outubro, consentimento.
+Este consentimento tem que ser informado, explícito e dado pelos representantes legais dos menores (cf. artigo 3.° - i) da Lei 67/98, de 26 de Outubro).
+
+Segurança
+Estando em causa dados pessoais sensíveis devem ser adoptadas as medidas especiais de segurança previstas no artigo 15.° da Lei 67/98, de 26 de Outubro, que impeçam o acesso à informação a pessoas não autorizadas.
+Os dados referentes ao registo criminal só devem ser acessíveis a pessoal obrigado a
+Sigilo.
+Os dados de saúde só devem ser acessíveis a pessoal de saúde obrigado a sigilo ou profissional sujeito a segredo profissional e o sistema deve estar estruturado de molde a garantir a separação lógica entre os dados referentes à saúde e os restantes dados pessoais.
+Independentemente das medidas tomadas é o responsável pelo tratamento que está obrigado a garantir sempre a segurança da informação.
+Direito de Informação
+Considerando que importa assegurar um tratamento leal e de acordo com os princípios da boa-fé (cf. artigo 5° n° 1, alínea a), da Lei 67/98, de 26 de Outubro), dando-se particular atenção ao direito de informação (cf. artigo 10° n° 1 da Lei 67/98, de 26 de
+Outubro). Deve o responsável pelo tratamento, no momento da recolha dos dados garantir que são fornecidas todas as informações constantes do n° 1 do artigo 10° da Lei 67/98, de 26 de Outubro.
+Direito de rectificação
+O direito de rectificação é exercido junto do responsável pelo tratamento, que deverá estabelecer a forma como o titular dos dados o pode fazer, no momento da prestação do direito de informação.
+Em face do exposto e tendo em atenção o estatuído nos artigos 23.º - n.º 1 - b) e 30.º da
+Lei 67/98, de 26 de Outubro, autoriza-se o presente tratamento de dados, nos seguintes termos:
+Responsável: Lar Maria Droste.
+Finalidade: Gestão dos processos das crianças apoiadas.
+Categorias de dados pessoais tratados: Nome, Data do nascimento, Naturalidade e nacionalidade, Número de BI, Nome dos pais, Registo escolar, Registo judicial e Dados de saúde.
+Transferência de dados para países terceiros: Não há.
+Interconexões: Não há.
+Forma e condições de exercício de conhecer e eliminar dados pessoais: Por comunicação dirigida ao responsável pelo tratamento.
+2
+
+Prazo de conservação: Um anos após o fim do acompanhamento da criança apoiada.
+Lisboa, pe Ao de 2010
+Ana Roque, Carlos Campos Lobo, Helena Delgado António, Luís Barroso, Luís Paiva de Andrade (Relator), Vasco de Almeida, cle eus
+Luís Lingnau da Silveira (Presidente)

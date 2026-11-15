@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 59/1998
-official_date: null
+official_date: '1998-09-24'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CAIXA GERAL DE DEPÓSITOS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:11:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 59/1998
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10527](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10527).
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Proc. n.º 37/94
+AUTORIZAÇÃO N.5998 1. O Caixa Geral de Depósitos, SA vem informar que pretende «passar a oferecer aos seus clientes a possibilidade de recorrerem aos balcões do BNU para satisfação dos seus movimentos bancários». Trata-se da possibilidade de os clientes poderem fazer um conjunto de transacções - levantamentos por meio de cheque, depósitos, consultas e requisição de cheques - aos balcões do BNU, empresa do Grupo CGD.
+2. A autorização n.º 51/95 - que legalizou o ficheiro do CGD - já permite o acesso da informação às empresas do Grupo, quando autorizado pelos titulares (cf. al. g) das conclusões). As empresas deverão aceder à informação "estritamente necessária ao exercício da actividade das empresas do Grupo".
+Assim, os titulares dos dados devem - no momento da recolha de dados - ser informados e autorizar o acesso às empresas do Grupo uma vez que a Lei 10/91 exige, no mínimo, que os titulares sejam informados da «finalidade da recolha» (art. 12.° n.° 3 e 22.° al. e), da «finalidade do ficheiro» (art. 13.º n. 1) e das entidades a quem «podem ser transmitidos os dados e em que condições» (art. 18.° al. f e 22.° al. d).
+Não há comunicação de dados sensíveis. O BNU deverá aceder à informação estritamente necessária às operações a realizar. Fazem-no na sequência da solicitação de um serviço que lhes é pedido pelo titular dos dados o qual, como se referiu, se encontra esclarecido sobre a finalidade da recolha.
+Não há qualquer risco de intromissão na vida privada ou discriminação (art. 17.° n. 2 in fine), estando os funcionários obrigados ao dever de sigilo bancário (art. 78.° do DL 298/92 de 31 de Dezembro).
+EM CONCLUSÃO:
+A CNPDPI autoriza a disponibilização da informação estritamente necessária ao
+BNU, na sequência da solicitação de um serviço por parte dos titulares dos dados,
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Tel: Telefone: (01) 392 84 00 Fax: (01) 397 68 32 E-Mail:CNPDPI@mail.telepac.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS desde que estes sejam informados sobre as finalidades determinantes da recolha e recorram ao novo serviço que lhes é facultado.
+Lisboa, 24 de Setembro de 1998
+Amadeu Francisco Ripiro Cuera (Relado).
+Joaquim Seabra Lopes
+Nuno Albuquerque Morais Sarmento ra s
+Luís José Durão Barroso oão Alfredo Massano Labescat da Silva car
+Mário Varges Gomes
+VI cH
+Augusto Victor Coelho (Presidente)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA - Telefone: (01) 392 84 00 Fax: (01) 397 68 32 E-Mail:CNPDPI@mail.telepac.pt 32

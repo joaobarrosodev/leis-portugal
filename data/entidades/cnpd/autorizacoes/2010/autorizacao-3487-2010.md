@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LUÍS FILIPE PEREIRA DOS SANTOS PINHEIRO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:08:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3487/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24715](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24715).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 7338/2010
+AUTORIZAÇÃO N.° 3487 12010
+Luís Filipe Pereira dos Santos Pinheiro notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo retrospectivo para caracterizar a utilização de um
+Serviço de urgência de adultos de um hospital central, analisando a afluência, lotação do serviço, características sócio-demográficas e clínicas dos doentes.
+Serão incluídos no estudo os doentes com a patologia que estejam a receber tratamento em situação de internamento nos Serviços de Medicina Interna dos centros participantes.
+Os dados serão recolhidos num caderno de recolha de dados em formato Web.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do investigador.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os tundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.º 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O investigador principal, Dr. Luís Filipe Pereira dos Santos Pinheiro, veio solicitar a dispensa do consentimento "... uma vez que o projecto se baseia na análise dos registos electrónicos do
+Serviço de Urgência do CHLN que ultrapassam, para o período envolvido, os 600.000".
+Foi ainda junta declaração de interesse público emitida pelo Centro Hospitalar Lisboa Norte,
+EPE que, na pessoa do Prof. Dr. João Álvaro Correia da Cunha, afirma: " ... que o Estudo "Modelo Preditivo de Utilização de Serviços de Urgência: análise exploratória dos
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Determinantes Demográficos e Clínico-Assistenciais" cujo Investigador Principal é o Dr.
+Luís Filipe Pereira dos Santos Pinheiro, se reveste de Interesse Público uma vez que antevemos que os resultados do mesmo, tendo como base a análise d Serviço de Urgência de um Hospital de grande dimensão e complexidade, trarão previsivelmente informação de relevo para a organização e optimização do funcionamento dos Serviços Públicos de Urgência em geral."
+Assim, nos termos do artigo 28°, n.º1, alínea d), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Luís Filipe Pereira dos Santos Pinheiro
+Finalidade: estudo retrospectivo para caracterizar a utilização de um Serviço de urgência de adultos de um hospital central, analisando a afluência, lotação do serviço, características sócio-demográficas e clínicas dos doentes.
+Categoria de Dados pessoais tratados: código do doente, idade, sexo, freguesia de residência, data de admissão e data de saída do serviço de urgência, n.º de exames complementares realizados durante a permanência no serviço de urgência, especialidades médicas que observaram o indivíduo e diagnóstico de saída.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico investigador.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 2271 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, f de Outubro de 2010
+Ana Roque (Relatora), Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt

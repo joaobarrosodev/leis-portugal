@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: EMANUEL CORREIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:34:30Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3856/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18662](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18662).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 4201/09
+AUTORIZAÇÃO N.°3856 12009
+Emanuel Correia, médico, veio notificar um tratamento de dados pessoais com a finalidade de elaborar um estudo da prevalência da doença de Fabry em doentes com Hipertrofia Ventricular
+Esquerda (HVE).
+Serão incluídos no estudo os doentes com diagnóstico da doença, que consintam em participar no estudo. Os participantes serão recrutados nas consultas dos hospitais aderentes.
+Serão recolhidos os seguintes dados: Hospital, iniciais do doente, sexo, idade, data de preenchimento do formulário, patologias existentes, diagnóstico da doença de Fabry e resultados laboratoriais.
+Não há identificação nominal do titular, sendo aposto um código de doente. (iniciais). A chave desta codificação é apenas conhecida do médico.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+O texto informativo deve ser alterado de forma a cumprir o disposto no art.° 10 da LPD.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.° 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: Emanuel Correia
+Finalidade: estudo da prevalência da doença de Fabry em doentes com Hipertrofia Ventricular
+Esquerda (HVE)
+Categoria de Dados pessoais tratados: Hospital, iniciais do doente, sexo, idade, data de preenchimento do formulário, patologias existentes, diagnóstico da doença de Fabry e resultados laboratoriais.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico participante.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente, porque torna os dados identificados, deve ser destruído após o fim da participação do titular
+Dos termos e condições fixados na Deliberação n.º227/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, ()de Setembro de 2009
+Carlos Campos Copo (Relator)
+Deli ww
+Do o C De 119 20 19092111R0A 0 202020

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 51/2008
-official_date: null
+official_date: '2008-02-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PT CONTACT - TELEMARKETING E SERVIÇOS DE INFORMAÇÃO, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 51/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1032](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1032).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 1664/05
+Registo n.º 51108
+A PT Contact, SA notificou um tratamento de dados pessoais com a finalidade de telemarketing.
+Declaram as seguintes categorias de dados pessoais: Nome, morada, BI, NIF, título académico e telefone.
+Os dados são recolhidos indirectamente, através da aquisição de bases de dados às
+Paginas Amarelas, SA.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98), com excepção dos dados relativos ao Bl e ao NIF, que não se mostram necessários à finalidade.
+O fundamento de legitimidade é, porque estamos no domínio das comunicações electrónicas, nos termos do disposto no n.º 1 do artigo 20° do Decreto Lei n.° 7/2004, o consentimento prévio do titular, quando este não seja cliente da PT Contact, SA, e o interesse do responsável (al. e) do art.° 6° da LPD) quando a acção for dirigida a clientes, garantindo-se nestes casos a possibilidade de oposição prevista no n.° 3 do referido artigo 20° do DL 7/2004.
+O prazo máximo de conservação da informação é atenta a finalidade declarada, nos termos do disposto no art.° 5 ° da LPD, 10 ano.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável PT Contact, SA
+Categoria de dados pessoais tratados - Nome, morada, BI, NIF, título académico e telefone.
+Finalidade - telemarketing.
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsavel;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação da informação - 10 anos
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve, no momento da recolha, ser garantido o direito de informação previsto no n.° 3 do artigo 10° da LPD
+Lisboa, 4 de Fevereiro de 2008
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

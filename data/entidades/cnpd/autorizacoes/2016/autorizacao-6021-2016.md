@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6021/2016
-official_date: null
+official_date: '2016-06-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PUDO PORTUGAL LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T13:50:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6021/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92089](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92089).
+Processo N.° 3532/2016 1 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.° 602| 12016
+A PUDO PORTUGAL LDA veio notificar o tratamento de videovigilância a realizar na
+Estação de Comboios, IP Património Entrecampos (Estação de Entrecampos r/c - Rua
+Dr. Eduardo Neves, 1050-077 Lisboa).
+A instalação de tal sistema insere-se na "gestão, distribuição e manutenção de produtos de armazenamento de mercadorias no âmbito do comércio eletrónico", permitindo a entrega e levantamento de encomendas, sem atendimento personalizado, através de cacifos localizados em estação ferroviária, onde o cliente se desloca diretamente.
+O Serviço de Informática e Inspeção da CNPD efetuou a verificação do sistema tendo para tal deslocado um seu técnico às instalações da PUDO Portugal, no ELOS Park,
+Rua Cruz n° 75, armazém 1, Algueirão, 2726-193 Mem Martins podendo-se concluir que:
+"• o sistema de videovigilância está dotado de três câmaras (fixas e a cores):
+1) uma integrada no interior do armário de cacifos sobre o monitor/interface, e que permite captar a interação do cliente com a máquina, 2) uma no exterior que filma da direita para a esquerda, captando o uso da máquina pelo cliente desse lado para o qual está direcionado, 3) outra no exterior que filma da esquerda para a direita, com o mesmo intuito da anterior;
+• as imagens são gravadas no equipamento existente no interior do armário e as imagens apagam-se periodicamente, de forma automática, conforme os dias configurados, ou são reescritas (dimensão de 1TB em disco);
+• o equipamento de gravação de imagens não está ligado à internet, e a manutenção e acessos fazem-se fisicamente na máquina, e não estão previstos acessos remotos".
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.º 3532/2016 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em face da atividade desenvolvida pela requerente, afigura-se-nos que os dados tratados se apresentam como adequados, pertinentes e não excessivos (artigo 5.°, n.º 1, alínea c), da Lei n.° 67/98 de 26 de outubro - LPD), na medida em que o facto de os cacifos conterem uma grande variedade de bens sem vigilância no local justifica uma proteção acrescida daquele espaço específico, funcionando o sistema de videovigilância como um potencial dissuasor de práticas ilícitas ou como um eventual meio de prova em caso de procedimento criminal.
+No entanto, a CNPD desconhece, em cada estação de comboios, qual a localização dos cacifos e, nessa medida, qual a real abrangência do sistema. Por conseguinte, a fim de dar cumprimento ao objetivo da requerente e garantir a adequação e proporcionalidade do tratamento de dados, deve ser garantido que a zona de cacifos não é uma zona de passagem e circulação do público em geral e, consequentemente, não pode o sistema de videovigilância captar quaisquer imagens de outras pessoas que não os clientes no acesso aos cacifos.
+Considera-se, por isso, legítimo o tratamento - (artigo 7.°, n.° 2 e 28.°, n.° 1, alínea a), da LPD) - que se autoriza nos seguintes termos:
+1. Responsável pelo tratamento - PUDO PORTUGAL LDA.
+2. Finalidade - Proteção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detetada a prá tica de infração penal, a entidade responsável pelo tratamento deve - com a respetiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciá ria competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excecionalmente, a visualização das imagens quando - não havendo qualquer infração penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.
+° da LPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo N.º 3532/2016 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem (artigo 31.°, n.º 5, da Lei n.° 34/2013, de 16 de maio).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.°, n.° 2, da LPD (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo máximo de 30 dias.
+8. Embora não tendo sido declarado, alerta-se que a presente autorização não abrange a recolha de som.
+9. A recolha de imagens deve confinar-se exclusivamente ao autorizado.
+Lisboa, 21 de junho de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

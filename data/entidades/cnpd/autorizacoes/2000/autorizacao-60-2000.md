@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 60/2000
-official_date: null
+official_date: '2000-10-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CENTRO DE RECRUTAMENTO DO PORTO / EXÉRCITO PORTUGUÊS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:08:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 60/2000
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10294](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10294).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 287/2000
+AUTORIZAÇÃO N.° 60/2000
+O CENTRO DE RECRUTAMENTO DO PORTO vem notificar o seu tratamento relativo aos procedimentos administrativos atinentes à gestão de serviços de pessoal.
+Para além dos dados de identificação, dados administrativos do seu pessoal e dados relativos à carreira profissional são tratados, ainda, dados disciplinares.
+Nos termos dos artigos 8.° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98, de 26 de Outubro, o tratamento de dados pessoais relativos a «decisões que apliquem penas» carece de autorização da CNPD.
+Não fazendo a lei qualquer distinção em relação à sua natureza, tem entendido a
+CNPD que se engloba na previsão do artigo 8.º n.º 2 o tratamento de penas disciplinares.
+De acordo com o artigo 8.° n.º 2 haverá fundamento para o tratamento daqueles dados quando tal tratamento for «necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias do titular dos dados», observadas que sejam as normas de protecção de dados e de segurança da informação.
+Nos termos do artigo 11.° n.º 3 do DL 24/84, de 16 de Janeiro, as penas disciplinares são "sempre registadas no processo individual do funcionário ou agente". O tratamento é, portanto, efectuado no contexto da execução de finalidades legítimas.
+Para que sejam observadas as respectivas normas de segurança, o sistema deve ser dotado de password que impeça funcionários não pertencentes ao serviço de pessoal a aceder ao tal informação.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Em face do exposto a CNPD autoriza o tratamento de dados, nos termos dos artigos 8.° n.º 2 e 28.º n.º 1 al. a) e 30.º da Lei 67/98, de 26 de Outubro, consignando-se o seguinte:
+1. Responsável: Exército Português - Centro de recrutamento do Porto 2. Categorias de dados pessoais tratados: Os indicados em anexo ao formulário e prints anexos. Trata dados sobre sanções disciplinares aplicadas.
+3. Finalidade: gestão de procedimentos administrativos e de gestão de pessoal.
+4. Entidades a quem podem ser transmitidos: Não há transmissão de dados..
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação pessoal.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+Lisboa, 3 de Outubro de 2000 den
+Amadeu Guerra (relator)
+Paula Veiga
+João Simões de Almeida
+João Labescat (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 482/2009
-official_date: null
+official_date: '2009-05-15'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Instituto dos Registos e do Notariado, I.P. (IRN)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:52:06Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 482/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17169](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17169).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 4223/09
+Deliberação n.º 482 109
+Por ofício recebido nesta CNPD em 15 de Maio de 2009, veio o Vice-
+Presidente do Instituto dos Registos e do Notariado solicitar à CNPD a apreciação do projecto de protocolo a celebrar entre aquele Instituto, o Instituto das Tecnologias de Informação na Justiça, IP (ITIJ), e o Sistema Integrado de
+Transportes e Estacionamento de Evora, EM, Lda (SITEE), tendo em vista o acesso à informação constante da base de dados do registo automóvel.
+Esta acção insere-se no Programa Simplex, visando a desburocratização de alguns processos, nomeadamente no domínio da gestão dos registos. Assim, a finalidade do protocolo em apreciação consiste em estabelecer as condições de comunicação ao SITEE para, no âmbito da sua actividade, "aceder à informação do registo de veículos mediante consulta em linha à respectiva base de dados, localizada no ITIJ, IP, para a finalidade exclusiva de prossecução das competências que lhe estão legalmente atribuídas.".
+Os acessos à base de dados devem identificar o número do processo ou do auto de notícia a que respeitam e as pesquisas são permitidas, apenas, por características físicas do veículo.
+O protocolo remete expressamente, na CláusulaTerceira, para as disposições legais vigentes em matéria de protecção de dados pessoais constantes da Lei n° 67/98, de 26 de Outubro, salientando os seguintes deveres para o MDN:
+a) Respeitar integralmente a finalidade para que foi autorizada a transmissão dos dados;
+b) Não utilizar a informação para fim diferente do permitido;
+c) Não transmitir a informação a terceiros.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Todos os funcionários que tenham acesso à informação transmitida ficam sujeitos a sigilo profissional. O SITEE, EM, Lda., obriga-se a comunicar previamente ao IRN, IP, a identificação dos utilizadores do acesso à base de dados, mediante indicação do nome e da categoria/função, tendo em vista a atribuição de nomes de utilizador e das respectivas passwords.
+O protocolo é celebrado pelo prazo de um ano, tacitamente prorrogável por iguais períodos de tempo. Se for verificado o incumprimento de alguma das condições fixadas no protocolo, a transmissão é suspensa por despacho do
+Presidente do IRN, IP.
+Em face do exposto, delibera a CNPD considerar o protocolo em apreço conforme com o disposto na Lei n.º 67/98, de 26 de Outubro, em especial quanto ao disposto nos seus artigos 5° e 6°, alínea d).
+Proceda-se à notificação da entidade interessada.
+Lisboa 2de Junho de 2009.
+Ana Roque (relatora), Helena Delgado António, Luís Barroso, Carlos Lobo,
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

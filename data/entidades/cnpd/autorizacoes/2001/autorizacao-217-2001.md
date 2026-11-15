@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 217/2001
-official_date: null
+official_date: '2001-12-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TST - TRANSPORTES SUL DO TEJO, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:04:28Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 217/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9900](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9900).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 652/2001
+AUTORIZAÇÃO N.°2|7/2001
+A TST - Transportes Sul do Tejo, SA vem notificar a CNPD da recolha de imagens com vista protecção de pessoas e dos bens, transportados nos autocarros e prevenção da prática de crimes".
+As imagens são recolhidas por 45 câmaras fixas (3 câmaras por viatura), sendo feita a gravação pelo período máximo de 30 dias e sem que haja qualquer tratamento posterior.
+As imagens só poderão ser utilizadas nos termos previstos na lei.
+A recolha e tratamento de dados faz-se nos termos da lei (DL 231/98, de 22 de Julho), sendo necessário assegurar o direito de informação, nos termos estabelecidos no artigo 12.° n.º 3 do referido diploma, através da inclusão de um texto - em local bem visível -com os seguintes dizeres: «Para sua protecção este local encontra-se sob vigilância de um circuito fechado de televisão».
+A TST - Transportes Sul do Tejo, SA informa que tem estes avisos afixados (3 por viatura).
+A CNPD autoriza o tratamento (cf. art. 4.° n.º 4, 27.° n.º 1, 28.° n.º 1 alínea a) e 29.° da
+Lei 67/98, de 26 de Outubro), consignando-se o seguinte:
+1. Responsável: TST - Transportes Sul do Tejo, SA 2. Categorias de dados pessoais tratados: Gravação de imagem nos autocarros de transporte público de passageiros.
+3. Finalidade: Segurança e protecção de pessoas e bens.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 4. Entidades a quem podem ser transmitidos: Não há transmissão de dados. Os dados só podem ser utilizados «nos termos da lei penal».
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação pessoal.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Prazo máximo de conservação: 30 dias
+Lisboa, 18 de Dezembro de 2001
+Luís Barroso (relator)
+sle hefl
+Alexandre Pinheiro puder
+Amadeu Guerra
+Catarina Sarmento e Castro
+Catarin fermentelastos
+Cristina Baptista
+Mário Varges Gomes
+Luís Lingnau da Silveira (o Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

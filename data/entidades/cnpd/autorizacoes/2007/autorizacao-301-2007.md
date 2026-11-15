@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CVP - SOCIEDADE GESTÃO HOSPITALAR, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,82 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:36:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 301/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3294](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3294).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 1379/2004
+AUTORIZAÇÃO N.º301/2007
+A CVP - Sociedade de Gestão Hospitalar, S.A. veio notificar à CNPD um tratamento de dados biométricos (impressão digital) que tem como finalidade o «controlo de assiduidade dos trabalhadores do quadro e outros prestadores».
+O tratamento notificado processa os seguintes dados: nome, número de identificação fiscal, departamento e template da impressão digital, resultante de interpretação algorítmica de pontos fisiométricos dos dedos, sem possibilidade de reconstrução da mesma, data e hora de entrada e saída.
+Pelo ofício n.º 4617, de 15 de Setembro de 2006, foi a entidade requerente notificada de todo o conteúdo do referido projecto de autorização, nos termos e para os efeitos do artigo 100.° do Código do Procedimento Administrativo.
+Porém, ultrapassado o prazo de apresentação de resposta, a CVP nada disse em relação ao projecto de autorização.
+Apreciação jurídica do tratamento de dados biométricos
+A CNPD já se pronunciou sobre os princípios aplicáveis aos tratamentos de dados biométricos para controlo de acessos e assiduidade dos trabalhadores (') bem como sobre o enquadramento legal, os fundamentos de legitimidade e as medidas a tomar para o correcto cumprimento da Lei da Protecção de Dados. Esses fundamentos são seguidos nesta Autorização.
+No caso em apreço, o sistema biométrico faz a codificação dos dados recolhidos (template), não utilizando a tecnologia de digitalização da imagem recolhida. Em resultado da identificação do utilizador através do seu número de funcionário o sistema faz a comparação entre a template e a captação das características da impressão digital apresentada ao leitor.
+() Disponível em http://www.cnpd.pt/bin/orientacoes/principiosbiometricos.htm
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+De referir, igualmente, que o sistema biométrico que, através do processo de algoritmização, gerou o template que representa a características biométrica captada, não permite fazer a reversão, isto é, descodificar e reproduzir a imagem da característica biométrica. Este aspecto é fundamental no âmbito de protecção da privacidade, uma vez que o responsável do tratamento não dispõe de uma base de dados das características biométricas de cada trabalhador.
+O tratamento de dados biométricos, porque estamos perante dados pessoais, deve respeitar todas as condições estabelecidas na Lei 67/98, nomeadamente (*): o tratamento deve ser feito com respeito pela reserva da vida privada (artigo 2.°) e para finalidades determinadas, explícitas e legítimas (art. 5.° n.º 1 al. b); os dados devem ser adequados, pertinentes e não excessivos em relação à finalidade e proporcionados com objectivos que se pretendem atingir (art. 5.° n.° 1 al. c); o responsável só pode proceder ao tratamento se, de acordo com a natureza dos dados (artigo 6.° e 7.°), estiverem preenchidas condições de legitimidade;
+A operação de captação de dados biométricos - que implica a cooperação/anuência do trabalhador através da «exposição» da respectiva parte do seu corpo (dedo) para tratamento das características da sua identidade pessoal - não pode ser realizada com violação da sua identidade pessoal (art. 26.° da CRP), com lesão da sua integridade física (art. 25.°, n.º 1, da CRP) ou com intromissão na intimidade da vida privada.
+Importa, por outro lado, assegurar que a submissão à operação de recolha não se poderá traduzir numa discriminação ou violação do dever de respeito e dignidade do trabalhador. Não é o dado biométrico em si mesmo que pode afectar o direito à privacidade da pessoa, mas a finalidade com que é utilizado e os riscos que apresenta para a própria pessoa (risco de discriminação ou de cruzamento com outros sistemas, consequências produzidas em razão da sua falta de fiabilidade, efeitos na sua esfera pessoal no caso de falsificação ou usurpação da característica biométrica).
+(*) Veja-se, no mesmo sentido, o Parecer n.º 11/2002, de 3 de Dezembro, pág. 10. Os dados biométricos são apresentados como sinais objectivos e inalteráveis, mas com características específicas que nos levam a considerar que devem ter uma protecção diferente em relação a outros dados de identificação -
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, apresentando-se o dado biométrico como o meio adequado para assegurar uma «finalidade legítima» da entidade empregadora - o controlo da assiduidade -considera a CNPD que a utilização desta tecnologia não envolve, na «fase da captação e armazenamento da característica biométrica», qualquer violação dos direitos de personalidade do trabalhador.
+Os dados recolhidos são necessários à finalidade que se pretende atingir - o controlo de assiduidade - não se afigurando que sejam excessivos, com excepção dos dados dos relativos ao número de identificação fiscal, morada, data de nascimento, número do bilhete de identidade e estado civil que admitindo-se serem pertinentes para efeitos de processamento de remunerações o não são para a finalidade de controlo de assiduidade.
+Num «balanceamento» dos interesses em presença - dos trabalhadores e do responsável do tratamento - considera a CNPD que o tratamento do dado biométrico, da forma e para a finalidade delineada, não apresenta riscos em relação aos direitos de personalidade dos trabalhadores que possam sobrepor-se aos interesses legítimos do responsável (artigo 6.°, alínea e), da Lei n.º 67/98).
+O titular dos dados pode - quando existam razões ponderosas e legítimas relativas à sua situação particular (cf. artigo 12.°, alínea a), da Lei n.º 67/98) - exercer o direito de oposição em relação ao tratamento. Neste caso deve apresentar os fundamentos em que assenta o direito de oposição, cabendo ao responsável apreciá-los, podendo a
+CNPD intervir, em última análise, na apreciação e ponderação dos interesses em presença (cf. artigo 6.°, alínea e), e 12.°, alínea a), da Lei n.º 67/98).
+Importa sublinhar que estes sistemas não são infalíveis e não vêm resolver todos os problemas de autenticação ou identificação, razão pela qual será de esperar que existam limitações e «imponderáveis» em matéria de qualidade de desempenho.
+A entidade patronal deve criar soluções alternativas de controlo para suprir as insuficiências do sistema, especialmente as que resultam das taxas de falsas rejeições ou impossibilidade temporária de o trabalhador apresentar o seu dado biométrico para autenticação ou reconhecimento.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Finalmente alerta-se o responsável para que os equipamentos de leitura dos dados biométricos, porque a finalidade é o controlo da assiduidade, não podem estar localizados de forma a que possam ser usados como meio de controlar a circulação dos trabalhadores no interior das instalações.
+Deste modo, tendo em conta os Princípios Orientadores referidos e o acima exposto, a
+CNPD autoriza o tratamento notificado, consignando, em especial, que a informação biométrica não pode ser utilizada para outra finalidade que não seja o controlo de entradas e saídas.
+Não se autoriza, por excessivo e não pertinente para a finalidade declarada, o tratamento dos dados relativos à morada, e-mail, telefone e telemóvel.
+Termos do tratamento:
+1. Responsável: CVP - Sociedade de Gestão Hospitalar, S.A.
+2. Categorias de dados pessoais tratados: Número, impressão digital, sem possibilidade de reconstrução da mesma e data/hora de entrada/saída.
+3. Finalidade: Gestão de assiduidade.
+4. Entidades a quem podem ser transmitidos: Não há comunicação de dados a terceiros.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação directa no departamento de recursos humanos.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Prazos de conservação: Período do exercício de funções.
+Lisboa, 26 FeveReiRo de 2007 dese
+Ana Roque
+Carlos Campos Lobo
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+ание
+Eduardo Campos, que relatou
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Armando Lopes Teixeira de Sousa Unipessoal, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:51:03Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6210/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56757](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56757).
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 7532/13 1
+AUTORIZAÇÃO N° 62/ 0 12013
+Armando Lopes Teixeira de Sousa Unipessoal, Lda. veio notificar o tratamento de videovigilância a realizar nas suas instalações. (Lavandaria Self-Service Wash-Inn,
+Praça 5 de outubro n.°12, 4475-601 Maia)
+A entidade declara que não existe comissão de trabalhadores.
+Foi declarado que as zonas abrangidas pelo sistema de videovigilância são: interior do estabelecimento focando os equipamentos e portas interiores e exterior.
+Solicitado o envio da planta com a discriminação dos locais abrangidos pelo sistema de videovigilância verifica-se que as câmaras incidem sobre os equipamentos no interior do estabelecimento e sobre os acessos ao exterior.
+Pretende-se, assim, a instalação de câmaras sobre os equipamentos no interior do estabelecimento e nos acessos ao exterior.
+Há visualização de imagens em tempo real.
+Não há transmissão de imagens para o exterior do local da instalação do sistema.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, alínea c), da Lei n. °67/98, de 26 de outubro - LPD).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilícitos.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do Trabalho (1).
+(2) No mesmo sentido ver Acórdão do STJ Processo n.° 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@.cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.ot
+
+Processo n° 7532/13 | 2
+D
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Considera-se, por isso, legítimo autorizando-se o tratamento (artigo 7.°, n.° 2 e 28.°, n.° 1, alínea a), da LPD) - nos seguintes termos:
+1. Responsável pelo tratamento - Armando Lopes Teixeira de Sousa
+Unipessoal, Lda.
+2. Finalidade - Proteção de pessoas e bens.
+3. Categorias de dados pessoais tratados - Imagens.
+4. Forma de exercício do direito de acesso - Por solicitação escrita ao responsável no seguinte endereço: Rua Manuel Espregueira n.°82, 1.° Dto, 4900-318 Viana do Castelo.
+5. Comunicação de imagens - As imagens só podem ser tratadas nos termos da lei processual penal. Detetada a eventual infração penal, o responsável, juntamente com a participação, enviar à autoridade judiciária ou ao órgão da polícia criminal competente as imagens recolhidas. Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no âmbito de processo judicial devidamente identificado, em cumprimento do despacho fundamentado da autoridade judiciária competente. Fora destas condições não pode o responsável transmitir as imagens.
+6. Interconexões - Não há 7. Fluxo transfronteiriço para países terceiros - Não há.
+8. Conservação de dados - 30 dias.
+9. Embora não tenha sido declarado, alerta-se que a presente autorização não abrange a recolha de som.
+10. A recolha de imagens deve confinar-se ao perímetro da propriedade e as câmaras não podem incidir sobre as zonas limítrofes ou a via pública.
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (n.° 1 do artigo 11° da LPD), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à CNPD (n.° 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adotar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 7532/13 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, nos termos exigidos pelo n.º 5 do artigo 31° da Lei n.º 34/2013, de 16 de maio.
+O responsável deve adotar as medidas de segurança previstas nos artigos 14° e 15° da LPD. Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre atualizadas a data e hora das gravações.
+Lisboa, 3 4 setembro de 2013
+Vasco Almeida (Relator), Ana Roque, Helena António,
+File
+Filipa Calvão (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 616/2004
-official_date: null
+official_date: '2004-06-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO POPULAR PORTUGAL, SA (EX-BNC) (EX-BNC-BANCO NAC. DE CRÉDIT. IMOBIL. S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:46:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 616/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13789](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13789).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 28/94
+AUTORIZAÇÃO N. 6/6/2004
+O BNC - Banco Nacional de Crédito Imobiliário, SA veio pedir autorização para a «transmissão de informação sobre os seus clientes, para a base de dados da
+Credinformações».
+1. A comunicação de dados à Credinformações tem como fundamento próximo uma disposição legal: o art° 83° do DL 298/92 de 31 de Dezembro. Este preceito é expresso ao permitir às sociedades financeiras a organização, "sob regime de segredo, de um sistema de informações recíprocas com o fim de garantir a segurança das operações" -tarefa que, no caso em apreço, está atribuída à Credinformações.
+A Comissão considera que os titulares dos dados devem ter conhecimento das finalidades do ficheiro e da finalidade determinante da recolha de dados (cf. art. 10.° da
+Lei 67/98).
+Esta obrigação de informação - que impende sobre as entidades responsáveis de cada um destes tratamentos - é independente da obrigação que tem a Credinformações, em relação ao seu tratamento, de informar os titulares da inclusão/registo dos seus dados pessoais.
+2. O BNC deverá dar particular atenção à actualização de dados, devendo comunicar à
+Credinformações - de imediato - a regularização da obrigação em mora. Neste caso, e tal como decorre do artigo 5.° n.º 1 al. d) da Lei 67/98, a comunicação da «alteração da situação» - que visa a actualização de dados na base de dados da responsabilidade da
+Credinformações - deverá ser feita imediatamente após a regularização da dívida.
+Caso seja adoptada outra metodologia para actualização - vg. através do envio de suporte magnético - deve o BNC assegurar a actualização num prazo não superior a 30 dias.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. No pedido formulado são transcritas cláusulas constantes dos contratos com os clientes que prevêem, nomeadamente, a comunicação de dados às empresas do Grupo
+BNC, bem como a possibilidade de «interconexão de dados».
+Este aspecto não objecto da presente apreciação na medida em que a comunicação de dados às empresas do Grupo deve vir acompanhada da identificação das empresas do
+Grupo, finalidades da comunicação e dados pessoais que se pretendem comunicar.
+Em relação à interconexão importa saber que tratamentos vão ser inteconectados, para que finalidades, medidas de segurança adoptadas e demais requisitos previstos no artigo 9.° da Lei 67/98, de 26 de Outubro. A interconexão deve ser objecto de autorização expressa da CNPD (cf. artigo 9.° e 28.° n.º 1 alínea c) da Lei 67/98).
+Lisboa, 1 de Junho de 2004 e
+Amadeu Guerra (relator)
+Alentidorestati
+Alexandre Pinheiro
+Luís Barroso
+Enem
+Eduardo Campos
+Ana Luísa Geraldes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FLORA UNITED FARM, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T11:59:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12636/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/98756](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/98756).
+Processo n.º 6003/2014
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Autorização n.° 12636/2016
+I.
+Pedido
+Flora United Farm, Ld.ª, notificou um tratamento de dados resultante de videovigilância, com a finalidade de proteção de pessoas e bens, a realizar na Herdade do Monte Novo,
+João Roupeiro, Maria Vinagre, 8670-505 Odeceixe.
+O responsável especificou que o sistema de videovigilância é composto por 8 câmaras, a abranger as seguintes zonas: portão da herdade, a partir do exterior, portões de acesso ao armazém, produtos no interior do armazém, acesso ao escritório (porta e janela). E que as câmaras não abrangem postos de trabalho nem trabalhadores, só acessos e produtos.
+Há visualização de imagens em tempo real.
+Não há Comissão de Trabalhadores.
+Apreciação
+A CNPD já se pronunciou na sua Deliberação n.º 61/2004, de 19 de abril', sobre os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados (LPD)
+- Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.°103/2015, de 24 de agosto -, em matéria de videovigilância, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de proteção de pessoas e bens. Decorrem desses princípios, bem como da lei laboral e da jurisprudência, os seguintes limites ao tratamento:
+1. Não é permitida a recolha de som;
+2. A recolha de imagens deve confinar-se à propriedade do responsável, não podendo abranger imagens da via pública ou de propriedades limítrofes;
+3. Não podem as câmaras incidir regularmente sobre os trabalhadores durante a atividade laboral, nem as imagens podem ser utilizadas para o controlo do desempenho dos mesmos (cf. artigo 20.° do Código do Trabalho);
+1 Veja-se https://www.cnpd.pt/bin/orientacoes/DEL61-2004-VIDEOVIGILANCIA.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt.
+
+Processo n. 9 6003/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 4. Apenas a recolha de imagens nos locais declarados está abrangida pela presente autorização, não podendo de todo ser recolhidas imagens de acesso ou interior de áreas de descanso e outras áreas destinadas aos trabalhadores.
+O tratamento em análise, com as limitações referidas, é adequado, pertinente e não excessivo face à finalidade declarada (cf. alínea b) do n.º 1 do artigo 5.° da LPD) e à atividade desenvolvida.
+O tratamento de dados pessoais efetuado no âmbito da videovigilância enquadra-se no conceito de vida privada, previsto no n.° 1 do artigo 7.° da LPD. Constitui fundamento de legitimidade para a instalação deste sistema o n.º 2 do artigo 7.° da LPD. Deverão ser afixados, em locais bem visíveis, avisos informativos de modo a garantir o direito de informação consagrado no artigo 10.° da LPD.
+Conclusão
+Assim, com os limites fixados, autoriza-se o tratamento notificado ao abrigo do disposto nos artigos 7.°, n.º 2, 28.°, n.º 1, alínea a) e 30.°, n.° 1, da LPD, nos seguintes termos:
+Responsável: Flora United Farm, Ld.a
+Finalidade: Proteção de pessoas e bens
+Categoria de dados pessoais tratados: imagens captadas pelo sistema de videovigilância
+Forma do exercício do direito de acesso: presencialmente no local de instalação do sistema de videovigilãncia
+Comunicação das imagens: apenas nos termos da lei processual penal
+Interconexões: não há
+Transferências internacionais: não há
+Conservação dos dados: não aplicável
+O responsável deve ainda adotar as medidas de segurança adequadas, conforme disposto nos artigos 14.° e 15.° da LPD.
+Lisboa, 29de novembro de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

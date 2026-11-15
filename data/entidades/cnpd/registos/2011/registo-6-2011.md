@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6/2011
-official_date: null
+official_date: '2011-07-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Gasin SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:07:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 6/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34420](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34420).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 72/2005
+REGISTON° 6/201 1 - GASIN - Gases Industriais, S.A., vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais que tem como finalidade a gestão de recursos humanos.
+A informação tratada é, na generalidade, adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (alínea c) do n.º 1 do artigo 5.° da Lei n° 67/98, de 26.10),
+Os dados são tratados no âmbito de uma relação contratual, com consentimento do titular. A CNPD considera que existe, por isso, legitimidade para o tratamento de dados, entendendo-se que o suporte/fundamento do tratamento pode ser encontrado na previsão da alínea a) do artigo 6° da Lei n° 67/98, de 26.10, ou seja, a execução de uma obrigação contratual.
+A segurança das informações é garantida por cópias de backup, password de acesso às informações, sistemas de processamento de backup, informação cifrada, acesso restrito de pessoas às instalações e sistemas de alarme e resposta.
+Há fluxos de dados para Air Products and Chemicals, Inc., com sede nos Estados
+Unidos da América, ao abrigo de cláusula contratual-tipo aprovada pela Comissão
+Europeia.
+2 - Em face do exposto, proceda-se ao registo do tratamento, nos termos declarados e com as especificidades acima referidas, consignando-se, nos termos dos artigos 27.° e 30.° da Lei 67/98, de 26.10, o seguinte:
+Responsável pelo tratamento: GASIN - Gases Industriais, S.A
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+D
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 2
+Finalidade do tratamento: gestão de recursos humanos
+Categorias de dados pessoais tratados: nome, data de nascimento, sexo, naturalidade, nacionalidade, NIF, morada, contactos, função, antiguidade, evolução na carreira, formação profissional, conhecimento de línguas
+Comunicação de dados pessoais: não há
+Forma de exercício do direito de acesso e rectificação: junto do departamento de recursos humanos da responsável
+Eventuais interconexões de dados pessoais: não se verificam
+Transferência de dados para países terceiros: para a Air Products and Chemicals,
+Inc., com sede nos Estados Unidos da América
+Prazo de conservação dos dados: 12 meses após a cessação da relação laboral.
+Aos titulares dos dados deve ser garantido o direito de informação previsto pelo artigo 10° da Lei n° 67/98, de 26.10.
+Lisboa, 20 de Julho de 2011
+A vogal da CNPD, (Helena Delgado António)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CAPGEMINI PORTUGAL SERVIÇOS DE CONSULTORIA E INFORMÁTICA, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 3/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21560](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21560).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 3212/2009
+REGISTO N.º3 /2l 10
+A Capgemini Portugal, Serviços de Consultoria e Informática, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do plano de subscrição de acções da Cap Gemini, S.A.
+A entidade encarregue do processamento dos dados é a Caceis Corporate Trust (França), com que deve o responsável estabelecer o contrato previsto no art. 14° da
+LPD.
+Os dados são recolhidos directamente por impresso e pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+Os fundamentos de legitimidade indicados para o tratamento são, respectivamente, nos termos do corpo do artigo 6° da LPD e da sua alinea a), o consentimento do titular dos dados e a execução do contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Capgemini Portugal, Serviços de Consultoria e
+Informática, S.A.
+Finalidade
+Gestão do plano de subscrição de acções da Cap
+Gemini, S.A.
+Categoria de dados pessoais tratados
+Nome, data de nascimento, nacionalidade, e-mail profissional, e-mail pessoal, n° de identificação interno, morada e acções subscritas.
+Cap Gemini, S.A. (França).
+Comunicação de dados
+Forma de exercício do direito de acesso e rectificação
+Interconexões
+Junto do responsável pelo tratamento dos dados.
+Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Fluxo transfronteiriço de dados
+Conservação dos dados
+Não há.
+5 anos após a subscrição das acções.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 15|02|2010
+A Secretária da CNPD, (lea el Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

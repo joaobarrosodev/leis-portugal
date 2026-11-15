@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1001/2008
-official_date: null
+official_date: '2008-05-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ARM - ASSOCIAÇÃO DOS RESTAURANTES MCDONALD''S'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:34:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1001/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4462](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4462).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 2444/08 1001
+AUTORIZAÇÃO N° /2008
+A ARM - Associação dos Restaurantes McDonald's, solicita à Comissão
+Nacional de Protecção de Dados (CNPD) autorização para um tratamento de dados pessoais com a finalidade de fazer a gestão da participação dos titulares dos dados pessoais numa campanha promocional denominada "Acompanhante de Futebol McDonald's". Os dados recolhidos são: nome, morada, n° de telefone, BI, NIF, data de nascimento, nacionalidade, restrições alimentares e restrições relacionadas com saúde e condições físicas. Há consentimento dos titulares dos dados, recolhido por escrito e subscrito pelos pais ou pelo seu representante legal, visto os participantes serem menores. Há também recolha de dados de identificação dos pais.
+E garantido o direito de acesso de acesso e rectificação dos dados mediante contacto por telefone e/ou e-mail. Os dados serão comunicados para Inglaterra, para a entidade THE MARKETING STORE, subcontratante que organiza a campanha. A Requerente não pretende realizar interconexões.
+Nos termos dos artigos 7° e 28.º da Lei n.º 67/98, de 26 de Outubro, a CNPD delibera autorizar o tratamento solicitado pela ora Requerente, devendo ser reformulado o direito de informação prestado no boletim de inscrição, de modo a deixar claro o propósito de realizar acções de marketing.
+Responsável pelo tratamento: ARM - Associação dos Restaurantes
+McDonald's
+Finalidade: Realização do passatempo "Acompanhante de Futebol
+McDonald's"
+Dados Recolhidos: nome, morada, n° de telefone, BI, NIF, data de nascimento, nacionalidade, restrições alimentares e restrições relacionadas
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS com saúde e condições físicas dos concorrentes; dados de identificação dos pais.
+Forma e condições como o titular pode conhecer, corrigir e eliminar os dados que lhe respeitam: Mediante solicitação pessoal por telefone e/ou e-mail..
+Prazo de conservação: Os dados são conservados por três meses após o fim da campanha promocional.
+Lisboa,16 de Maio de 2008.
+Ana Roque (Relatora)
+Luís Barroso
+Eduardo Campos
+Carlos Lobo
+Helena António
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

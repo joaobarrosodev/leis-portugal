@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 64/2008
-official_date: null
+official_date: '2008-02-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GALERIA DA SAÚDE-COMÉRCIO DE PRODUTOS P/MEDICINA,HIGIENE E BELEZA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 64/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1019](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1019).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 703/07
+Registo n. 64 108
+Galeria da Saúde Comércio de Produtos para Medicina, Higiene e Beleza, Lda notificou um tratamento de dados pessoais com a finalidade de marketing (cartão de fidelização).
+Declara as seguintes categorias de dados pessoais: Nome, morada, data de nascimento, telefone, e-mail, estado civil e profissão.
+Os dados são recolhidos directamente, pessolmente e por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da al. e) do artigo 6° da LPD, o interesse do responsável pelo tratamento.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Galeria da Saúde Comércio de Produtos para Medicina, Higiene e Beleza, Lda
+Categoria de dados pessoais tratados - Nome, morada, data de nascimento, telefone, e-mail, estado civil e profissão.
+Finalidade - marketing (cartão de fidelização).
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsável;
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação da informação - 10 anos
+Deve o responsável, no momento da recolha, garantir ao titular o direito de informação previsto no artigo 10 da Lei n.º 67/98, de 26 de Outubro e a possibilidade de se opor à utilização dos seus dados para essa finalidade, nos termos da al. b) do art° 12°.
+Lisboa, 7 de Fevereiro de 2008
+A Secretária da CNPD sobte.
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Janssen_Cilag Farmacêutica, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T07:29:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3455/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30155](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30155).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 1933/2011
+AUTORIZAÇÃO N.° 3 USS 12011
+A Janssen-Cilag Farmacêutica, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo de segurança, pós-autorização, prospectivo, não interventivo, em homens com ejaculação prematura tratados com Priviligy ou com cuidados alternativos (PAUSE).
+A entidade encarregue do processamento é a Keypoint, Consultoria Científica, Lda, com a qual deve a responsável pelo tratamento celebrar o contrato previsto no artigo 14.° da LPD.
+O estudo implica a observação por um período de 12 semanas, e um telefonema quatro semanas após o período observacional.
+Serão incluídos no estudo os doentes com a patologia que frequentam a consulta dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos pelo médico assistente num caderno de recolha de dados, em suporte electrónico, através de um portal Web.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de participante no estudo. A chave desta codificação só pode ser conhecida do profissional de saúde participante.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+No que concerne ao tratamento do dado raça, o responsável justifica a sua necessidade do seguinte modo: "... a recolha do dado "raça" mostra-se fundamental em virtude das diferenças
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS notórias que existem relativamente à reacção aos fármacos, consoante as raças dos participantes nos estudos de investigação clínica. Tais diferenças tanto podem atribuir-se a factores intrínsecos (genéticos e metabólicos) ou extrínsecos (como dieta, exposição ambiental e condições socioculturais). A título de exemplo, saliente-se que foi demonstrado que populações de origem asiática ou africana possuem um nível baixo de enzima CYP2D6, a qual é essencial para a metabolização de fármacos pertencentes a diferentes áreas terapêuticas como antidepressivos, antipsicóticos e beta-bloqueadores. Ou seja, o elemento "raça" pode afectar a resposta dos doentes aos fármacos ... ".
+Os argumentos apresentados relacionam a raça a factores extrínsecos, designadamente a dieta alimentar, exposição ambiental e factores sócio-culturais.
+Impõe os princípios de protecção de dados pessoais que a informação seja exacta.
+Ora, associar determinada raça aos referidos "factores extrínsecos", em particular aos factores sócio-culturais, é retirar conclusões que têm por base preconceitos susceptíveis de gerar discriminação.
+Assim, a fundamentação nestes termos não pode ser aceite pela CNPD.
+Todavia, no que respeita aos factores intrínsecos, a justificação é plausível e atendível, o que permite considerar a inclusão do dado raça neste estudo, com a reserva de que não poderão ser retiradas as conclusões referidas como "factores extrínsecos".
+Sublinhe-se, no entanto, que a autorização do tratamento apenas pode ter como fundamento a explicação relativa às diferenças atribuídas a factores intrínsecos.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável pelo tratamento: Janssen-Cilag Farmacêutica, Lda
+Finalidade: estudo prospectivo, não interventivo em homens com ejaculação prematura tratados com Priviligy ou com cuidados alternativos (PAUSE).
+Categoria de Dados pessoais tratados: código do doente, dados sócio-demográficos (ano de nascimento, sexo e raça), dados clínicos gerais (história clínica e dados recolhidos ao longo do estudo, medicação, resultados de meios complementares de diagnóstico e terapêutica) e história clínica do foro psiquiátrico.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: O código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, | | de Abril de 2011
+Ana Roque (Relatora), Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOCIEDADE PORTUGESA DE ATEROSCLEROSE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:11:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1671/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1603](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1603).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 983/07
+Autorização n °|67 | /2007
+A Sociedade Portuguesa de Aterosclerose veio notificar à CNPD um tratamento de dados com a finalidade de elaborar um estudo epidemiológico, observacional, transversal, de investigação científica na área da saúde com o objectivo de avaliar a percentagem de doentes, em Portugal, com hipertensão que têm concomitantemente outros factores de risco cardiovascular
+Com este fim, o estudo seguirá a seguinte metodologia: serão recolhidos dados dos doentes seguidos nos centros de saúde, em cuidados de saúde primários, de ambos os sexos, estimando-se que a amostra venha a ter 3600 indivíduos.
+Cerca de 240 médicos dos diversos centros de saúde, participarão, como investigadores, no estudo.
+O estudo consiste na aplicação de um único inquérito (junto aos autos) aos doentes que consultem os seus médicos assistentes.
+Aos doentes que reúnam os critérios de inclusão no estudo será solicitado, pelo seu médico assistente participante, no âmbito da consulta, o consentimento para a sua participação e para a recolha de dados pessoais.
+As declarações de consentimento são guardadas pelo médico investigador.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código do centro, do doente, e a data da avaliação. A chave desta codificação só pode ser conhecida do médico.
+A informação relativa ao doente participante no estudo é recolhida directamente do doente.
+As categorias de dados recolhidos são as seguintes: código do centro, do doente, dados demográficos (género, data de nascimento, estado civil, escolaridade, situação laboral), dados antropométricos, dados clínicos relacionados com a patologia e dados de factores de risco associados.
+A Key Point será a entidade encarregue do processamento dos dados.
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+O fundamento de legitimidade será o consentimento do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Sociedade Portuguesa de Aterosclerose
+Finalidade: estudo epidemiológico, observacional, transversal, de investigação científica na área da saúde com o objectivo de avaliar a percentagem de doentes, em
+Portugal, com hipertensão que têm concomitantemente outros factores de risco cardiovascular
+Categoria de dados pessoais tratados: código do centro, do doente, dados demográficos (género, data de nascimento, estado civil, escolaridade, situação laboral), dados antropométricos, dados clínicos relacionados com a patologia e dados de factores de risco associados.
+Entidades a quem podem ser comunicados: Não há comunicação de dados pessoais.
+Formas de exercício do direito de acesso e rectificação: pessoalmente e por escrito junto do responsável.
+Porque há tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do titular o médico/investigador e no exercício do direito de rectificação deste tipo de dados, deverá o titular, de igual modo, exercê-lo directamente junto do médico/investigador, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Comunicação de Dados Pessoais: Não há
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Interconexões de tratamentos: Não há
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: o código de doente, porque torna os dados identificados, deve ser destruído, quer pelo investigador, quer pelo responsável pelo tratamento, após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º227/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 17 de Setembro de 07
+Ana Roque
+Carlos Combo De
+Eduardo Campos (Relator)
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° --- 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

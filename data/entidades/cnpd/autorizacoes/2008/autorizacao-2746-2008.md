@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LUSOSCUT - AUTO-ESTRADAS DO GRANDE PORTO, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,94 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:59:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2746/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10850](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10850).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 1146/2005
+AUTORIZAÇÃO N.º 2746/2008
+I - Pedido 1. A Lusoscut - Auto-Estradas da Costa de Prata, S.A. veio notificar junto
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de videovigilância electrónico rodoviário.
+2. O sistema de videovigilância electrónico rodoviário tem como finalidade o controlo e monitorização do tráfego rodoviária, bem com a detecção e prevenção de acidentes.
+3. O referido sistema é composto por 93 câmaras fixas e móveis, que procedem à gravação de imagens na Costa de Prata (A44, A29, A25 e A17).
+4. De acordo com as informações prestadas pela entidade requerente, os dados recolhidos são as imagens.
+5. Não existe Comissão de Trabalhadores.
+II - Análise 6. A instalação e utilização de sistemas de vigilância electrónica rodoviária e a criação e utilização de sistemas de informação de acidentes e incidentes estão sujeitas a notificação à CNPD (cf. artigo 12.° da Lei n.° 51/2006, de 29 de Agosto).
+7. À CNPD cabe fiscalizar o cumprimento das disposições da Lei n.º 51/2006 (cf.
+artigo 22.° da citada Lei).
+8. Tendo em conta a competência atribuída a esta Comissão, importa verificar se a
+Lusoscut - Auto-Estradas da Costa de Prata, S.A. cumpre as disposições legais previstas na Lei n.º 51/2006 e na Lei n.º 67/98, de 26 de Outubro ().
+(') De acordo com o n.º 1 do artigo 3.° da Lei n.º 51/2006.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 9. Pretende a entidade requerente instalar e utilizar um sistema de vigilância electrónico rodoviário, com vista ao controlo e monitorização do tráfego rodoviário e à detecção e prevenção de acidentes.
+10. Tendo em conta a finalidade declarada pela Lusoscut - Auto-Estradas da Costa de
+Prata, S.A., verifica-se que a mesma se enquadra na previsão do n.° 2 do artigo 2.° da Lei n.° 51/2006, de 29 de Agosto.
+11. Cabe apenas referir que, de acordo com o princípio da finalidade, as imagens (os dados tratados no caso em apreço (?)) não podem ser utilizadas para finalidade diferente da recolha (vd. alínea b) do artigo 5.° da Lei n.º 67/98, de 26 de Outubro).
+12. Quanto ao prazo de conservação, determina o n.º 1 do artigo 7.° da Lei n.º 51/2006 que os dados pessoais obtidos pelos sistemas de vigilância electrónica rodoviária podem ser conservados pelo periodo máximo de 180 dias contados da data da respectiva recolha ou captação.
+13. A entidade requerente refere, ainda, que existe comunicação de dados e interconexão de dados.
+14. Dispõe o n.º 1 do artigo 16.º da Lei n.º° 51/2006, que "os dados pessoais obtidos através dos sistemas de vigilância electrónica rodoviária e dos sistemas de informação de acidentes e incidentes devem ser comunicados, sempre que solicitado (*), às seguintes entidades:
+a. Forças de segurança, nos termos e para os efeitos da legislação em vigor;
+b. Autoridades judiciárias, para efeitos de instauração ou condução dos processos a seu cargo;
+c. Direcção-Geral de Viação, para efeitos das competências previstas no Código da Estrada e legislação complementar;
+d. Entidades com competência legal para prestar assistência em caso de emergência e socorro.
+() Cf. alínea a) do artigo 5.° da Lei n.° 51/2006, de 29 de Agosto.
+(*) Sublinhado e negrito nosso.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 15. E ainda referido, no n.º 2 do citado artigo 16.°, que a EP - Estradas de Portugal,
+E.P.E., na qualidade de concedente, tem acesso aos dados obtidos pelos sistemas de vigilância electrónica rodoviária e pelos sistemas de informação de acidentes e incidentes operados pelas concessionárias para efeitos de exercício das suas competências em relação às concessionárias.
+16. Por sua vez, o n.º 3 do citado artigo dispõe que "para efeitos de mera informação pública, é autorizada a cedência a operadores de televisão e a operadores de comunicações, bem como a divulgação, por qualquer meio, directamente pela EP ou pelas concessionárias, de imagens de monitorização do tráfego desde que tal transmissão e divulgação sejam efectuadas em condições que não afectem, de forma directa e imediata, o direito à imagem e a intimidade da vida privada das pessoas" (sublinhado nosso).
+17. No que tange à interconexão, determina o artigo 17.° da Lei n.º 51/2006, que a EP e as concessionárias ficam autorizadas a proceder à interconexão dos dados pessoais constantes dos seus próprios sistemas de vigilância electrónica rodoviária com os registados nos respectivos sistemas de informação de acidentes e incidentes.
+18. Informou ainda a entidade requerente que não existe qualquer sinalização no início das concessões a informar que existem câmaras a filmar na AE.
+19. A esse respeito, cabe referir que o artigo 18.° da Lei n.º 51/2006, de 29 de Agosto obriga a afixação de informação clara e perceptível indicativa da utilização dos sistemas de vigilância electrónica rodoviária nas zonas objecto de vigilância.
+20. Face ao exposto, deverá o responsável pelo tratamento, antes de iniciar a recolha de imagens, afixar a informação da utilização do respectivo sistema de vigilância, sob pena de incorrer numa contra-ordenação, prevista e punível pelo artigo 38.°, n.º 1, alínea b) da Lei n.° 67/98, de 26 de Outubro, aplicável ex vi artigo 24.° da Lei n.° 51/2006.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 21. No que tange ao direito de acesso e eliminação dos dados, deverão ser assegurados a todas as pessoas cujos dados constem dos sistemas de informação autorizados pela presente lei os direitos previstos no artigo 11.° da Lei n.º 67/98 (cf. artigo 19.° da Lei n.º 51/2006).
+Por essa razão, o responsável pelo tratamento deverá assegurar ao titular dos dados o direito de acesso.
+III - Conclusão
+Face ao que antecede, a CNPD decide autorizar o tratamento requerido e, por consequência, a respectiva recolha de dados pessoais através da captação de imagem pelo referido sistema de vigilância electrónica rodoviária.
+Devem, ainda, ser observadas as seguintes condições:
+A. Responsável - Lusoscut - Auto-Estradas da Costa de Prata, S.A.
+B. Finalidade - Controlo e monitorização do tráfego rodoviário e detecção e prevenção de acidentes (A44, A29, A25 e A17).
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Direito de informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de imagem (artigo 18.° da Lei n.º 51/2006, de 29 de Agosto).
+E. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável, ao exercício do direito de acesso, o disposto no artigo 11.° n.º 2 da Lei n.° 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+F. Prazo de conservação - Os dados recolhidos são conservados pelo período máximo de 180 dias contados da data da respectiva recolha ou captação (artigo 7.° da Lei n.º 51/2006, de 29 de Agosto).
+Lisboa, 21 • 11•08
+Ana Roque, Carlos Campos Lobo, Eduardo Campos, Helena Delgado António,
+Luís Barroso (Relator), Vasco Almeida
+Luis Lingnau da Silveira (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

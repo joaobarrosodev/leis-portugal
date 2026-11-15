@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 51/2014
-official_date: null
+official_date: '2014-07-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Figura de Destaque - Unipessoal LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:57:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 51/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/66496](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/66496).
+Proc. 6660/2011 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categoria de dados pessoais tratados - nome, morada, contactos, NIF, e n° de
+Identificação, dados relativos ao seguro de fração, e dados relativos à gestão do condomínio.
+Finalidade - Gestão de Condomínios
+Forma de exercício do direito de acesso e retificação - Por solicitação ao responsável presencialmente ou por carta.
+Interconexões -Não há;
+Comunicação de dados a terceiros - Não há;
+Fluxo transfronteiriço de dados -Não há;
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, da Lei n° 67/98, de 26 de outubro.
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e)
+do art° 5°, fixa-se em 30 dias após o fim da relação contratual com o condomínio.
+Alerta-se o responsável que não poderão ser afixadas no condomínio as listagens dos condóminos devedores.
+Alerta-se que a Franquiger, SA não tem legitimidade para utilizar os dados pessoais dos clientes do responsável pelo tratamento.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 4 de julho de 2014
+P•\ A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 6660/2011 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categoria de dados pessoais tratados - nome, morada, contactos, NIF, e n° de
+Identificação, dados relativos ao seguro de fração, e dados relativos à gestão do condomínio.
+Finalidade - Gestão de Condomínios
+Forma de exercício do direito de acesso e retificação - Por solicitação ao responsável presencialmente ou por carta.
+Interconexões -Não há;
+Comunicação de dados a terceiros - Não há;
+Fluxo transfronteiriço de dados -Não há;
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, da Lei n° 67/98, de 26 de outubro.
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e)
+do art° 5°, fixa-se em 30 dias após o fim da relação contratual com o condomínio.
+Alerta-se o responsável que não poderão ser afixadas no condomínio as listagens dos condóminos devedores.
+Alerta-se que a Franquiger, SA não tem legitimidade para utilizar os dados pessoais dos clientes do responsável pelo tratamento.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 4 de julho de 2014
+P•\ A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

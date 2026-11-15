@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SECRETARIA REGIONAL DO AMBIENTE E DOS RECURSOS NATURAIS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 62/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1021](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1021).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 519/07
+Registo n.° 62/08
+A Secretaria Regional do Ambiente e dos Recursos Naturais (SRA) notificou um tratamento de dados pessoais com a finalidade gestão de facturação de fornecedores e clientes.
+Declaram as seguintes categorias de dados pessoais: Nome, morada, telefone, fax, NIF, NIB e montantes pagos/recebidos.
+Os dados são recolhidos pessoalmente, pelo telefone e através das facturas.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da
+LPD, a execução de contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.° 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Secretaria Regional do Ambiente e dos Recursos Naturais (SRA)
+Categoria de dados pessoais tratados - Nome, morada, telefone, fax, NIF, NIB e montantes pagos/recebidos.
+Finalidade - gestão de facturação de fornecedores e clientes.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável por correio ou pessoalmente;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei n.º 67/98, de 26 de Outubro.
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e) do art.º5°, fixa-se 10 ano, sem prejuízo da sua conservação em arquivo histórico, em cópias de back up.
+Lisboa, 7 de Fevereiro de 08
+A Secretária da CNPD
+Isabel Cristiná Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

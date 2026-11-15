@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Instituto Português da Juventude'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 63/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1020](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1020).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 553/07
+Registo n.°63 /08
+O Instituto Português da Juventude notificou um tratamento de dados pessoais com a finalidade gestão de inscrições nos programas do IPJ.
+Declaram as seguintes categorias de dados pessoais: Nome, morada, sexo, telefone, fax, e-mail passaporte e nacionalidade.
+Os dados são recolhidos directamente por impresso e na Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea b) do artigo 6° da
+LPD, o cumprimento de obrigação legal.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Instituto Português da Juventude
+Categoria de dados pessoais tratados - Nome, morada, sexo, telefone, fax, e-mail passaporte e nacionalidade.
+Finalidade - gestão de inscrições nos programas do IPJ
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável por correio, telefone fax e e-mail;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, incluindo o n.º 4 nas situações de recolha de dados em rede aberta.
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e) do art.º5°, fixa-se 5 anos.
+Lisboa, 7 de Fevereiro de 08
+A Secretária da CNPD
+Jatale
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

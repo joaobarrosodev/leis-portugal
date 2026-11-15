@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANTÓNIO SANTOS FERREIRA - GAB. DE CONSULTADORIA FINANCEIRA UNIPESSOAL, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:25:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1519/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6599](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6599).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 964/08
+Autorização n.° 1519 / 2008
+A sociedade comercial António Santos Ferreira - Gabinete de Consultoria
+Financeira Unipessoal, Lda. notificou à CNPD um tratamento de dados pessoais com a finalidade de "gestão da carteira de clientes".
+A requerente é uma franchisada da Changebiz, Rede de Consultores Financeiros,
+S.A. e tem por objecto social a "prestação de serviços de aconselhamento e consultoria em operações de crédito a particulares e pequenas empresas.
+Pela Autorização n.° 672/08, de 14 de Abril, a CNPD deliberou autorizar o tratamento solicitado, determinando ainda que a declaração de consentimento do(s) fiador(es) fosse alterada, de modo a que os dados destes não fossem comunicados a Changebiz.
+Sucede porém que a declaração relativa ao(s) fiador(es) e entregue pela requerente juntamente com o seu pedido de legalização, não fazia referência a qualquer comunicação de dados à Changebiz pelo que, efectivamente, não carece de qualquer alteração.
+Assim, atento o carácter manifesto do erro cometido, a CNPD delibera a rectificar a autorização proferida, nos termos e para os efeitos do artigo 148.° do Código do
+Procedimento Administrativo.
+Notifique-se o responsável.
+Lisboa, 14 de Julh de 2008.
+Ana Roque
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Carlos Campos Lobo
+Eduardo Campos®
+элшо
+Helena Delgado António
+Luís Barroso
+Almeil
+Vasco de Almeida
+Luís Lingnau da Silveira (Presidente que relatou)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

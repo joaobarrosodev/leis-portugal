@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE SINTRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,77 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:50:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 194/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/940](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/940).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 36/2002
+AUTORIZAÇÃO N.° 194/2008
+A Câmara Municipal de Sintra vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais relativo à gestão de todos os processos de apoio psico-social dos trabalhadores do Município.
+Os dados registados são os que constam da ficha individual de atendimento, nomeadamente dados pessoais referentes à vida privada e a dados de saúde.
+A entidade encarregue do processamento da informação é o Gabinete de
+Serviço Social do Departamento de Recursos Humanos da Câmara Municipal de Sintra.
+Os dados são tratados no cumprimento de obrigação legal a que o
+Departamento de Recursos Humanos da Câmara Municipal está sujeito.
+Com efeito, nos termos do artigo 25.°, alínea a), do Regulamento de
+Organização dos Serviços Municipais, aprovado pela Assembleia Municipal de
+Sintra em 17 de Abril de 2000, compete à Divisão de Higiene, Segurança e
+Saúde Ocupacional (onde se encontra integrado o Gabinete de Serviço
+Social/Departamento de Recursos Humanos) "assegurar o enquadramento e tarefas especificas relativas às políticas de saúde ocupacional, higiene e segurança e acção social".
+Por sua vez, o artigo 68.°, n.º 2, alínea a), da Lei n.º 169/99, de 18 de Setembro (), diploma que estabelece o regime jurídico de funcionamento dos órgãos dos municípios e das freguesias, compete ao presidente da câmara municipal (') Com as alterações introduzidas pela Lei n.º 5-A/2002, de 11 de Janeiro
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS idecidir todos os assuntos relacionados com a gestão dos recursos humanos afectos aos serviços municipais".
+Existe, pois, legitimidade para o tratamento, nos termos do artigo 7.°, n.º 2, da
+Lei n.º 67/98, de 26 de Outubro.
+Entende esta Comissão que a grande parte da informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (cf. artigo 5.°, n.º 1, alínea c), da Lei n.º 67/98).
+No entanto, alguns dos dados recolhidos - a profissão e as habilitações dos elementos do agregado familiar, a aparência física e vestuário (na apreciação global) - não são pertinentes, adequados e são claramente excessivos face à finalidade declarada (cf. alínea b) do artigo 5.° da Lei n.º 67/98). Estes dados não são necessários à finalidade declarada e são potenciadores de discriminação.
+No caso do tratamento de dados pessoais de saúde deve esse tratamento ser feito por médico ou por profissional de saúde, sujeito a sigilo profissional e a comunicação desses dados pessoais aos técnicos deve ser feita por médico, de acordo com o princípio da proporcionalidade, não comunicando informações que não sejam estritamente necessárias e indispensáveis à função exercida pelos técnicos.
+Existem cópias de backup (segurança) dos dados, passwords de acesso à informação e acesso restrito de pessoas das instalações.
+O titular pode conhecer, corrigir e eliminar os dados que lhe respeitem por solicitação do mesmo.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+cn
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação deverá ser conservada pelo período estritamente necessário à finalidade, não podendo ser conservada após a cessação do vínculo laboral do trabalhador.
+Os dados de saúde devem ser conservados com separação lógica face aos outros dados.
+Notificado o responsável pelo tratamento do teor do projecto de Autorização n.º 545/2007, de 12 de Novembro de 2007, para se pronunciar, nos termos e para os efeitos dos artigos 100.° e 101.º do Código do Procedimento
+Administrativo, nada veio dizer no prazo de que dispunha para o efeito.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 7.°, n.º 2, e 27.°, n.º 1, da Lei n.º 67/98, de 26 de
+Outubro, autoriza-se o tratamento de dados, nos seguintes termos:
+Responsável: Câmara Municipal de Sintra.
+Finalidade: Gestão de todos os processos de apoio psico-social dos trabalhadores do Município.
+Categorias de dados pessoais tratados: Os constantes da ficha individual de atendimento, nomeadamente dados pessoais referentes à vida privada e a dados de saúde.
+Comunicação de dados: Não há.
+O titular pode conhecer, corrigir e eliminar os dados que lhe respeitem por solicitação do mesmo.
+Prazo de conservação: A informação deverá ser conservada pelo período estritamente necessário à finalidade, não podendo ser conservada após a cessação do vínculo laboral do trabalhador.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O tratamento de dados pessoais de saúde deve ser feito por médico ou por profissional de saúde, sujeito a sigilo profissional e a comunicação desses dados pessoais aos técnicos deve ser feita por médico, de acordo com o princípio da proporcionalidade, não comunicando informações que não sejam estritamente necessárias e indispensáveis à função exercida pelos técnicos.
+Não se autoriza o tratamento dos seguintes dados: profissão e habilitação dos elementos do agregado familiar, a aparência física e vestuário (na apreciação global) do funcionário.
+Lisboa, 28 ap aveir de 2008
+Ana Roque
+Carlos de Campos Lobo
+-duardo campos (Relator)
+Verean
+Helena Delgado António
+Luis Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4

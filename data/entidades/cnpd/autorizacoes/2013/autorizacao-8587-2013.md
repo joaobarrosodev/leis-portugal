@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ZON TV Cabo Portugal, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,65 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:07:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 8587/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/59121](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/59121).
+Processo n° 11418/13
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N° 8587 12013
+ZON TV. Cabo Portugal, S.A. veio notificar o tratamento de videovigilância a realizar nas suas instalações. (ZON -Ouressa Park - Centro de Empresas, Edifício 4, 2725-322 Mem Martins).
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 2 câmaras na entrada da sala técnica e entrada do estabelecimento.
+Há visualização de imagens em tempo real.
+Há transmissão de imagens para o exterior do local da instalação do sistema.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens». Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilícitos.
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.° 1, alínea c), da Lei n.º67/98, de 26 de outubro - Lei n.º 67/98, de 26 de outubro - LPD).
+Considera-se, por isso, legítimo o tratamento - (artigo 7.°, n.º 2 e 28.°, n.° 1, al. a), da
+LPD) - que se autoriza nas seguintes condições:
+1. Responsável pelo tratamento - ZON TV Cabo Portugal, S.A.
+2. Finalidade - Proteção de pessoas e bens.
+3. Categorias de dados pessoais tratados - Imagens captadas pelo sistema.
+4. Forma de exercício do direito de acesso - Por solicitação escrita ao responsável no seguinte endereço: Rua Ator António Silva, n.º9, Campo
+Grande, 1600-404 Lisboa.
+5. Comunicação de imagens - As imagens só podem ser tratadas nos termos da lei processual penal. Detetada a eventual infração penal, o responsável, juntamente com a participação, enviar à autoridade judiciária ou ao órgão da
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 11418/13
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS polícia criminal competentes as imagens recolhidas. Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no ambito de processo judicial devidamente identificado, em cumprimento do despacho fundamentado da autoridade judiciária competente. Fora destas condições não pode o responsável comunicar as imagens.
+6. Interconexões - Não há 7. Fluxo transfronteiriço para países terceiros - Não há.
+8. Conservação de dados - 30 dias.
+9. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a atividade laboral segundo o artigo 20.° do Código do Trabalho.
+10. A recolha de imagens deve confinar-se ao perímetro da propriedade e as câmaras não podem incidir sobre as zonas limítrofes ou a via pública.
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (n.º 1 do artigo 11° da LPD), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à CNPD (n.º 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adotar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, nos termos exigidos pelo n.° 5 do artigo 31° da Lei n.º 34/2013, de 16 de maio.
+O responsável deve adotar as medidas de segurança previstas nos artigos 14° e 15° da LPD. Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre atualizadas a data e hora das gravações.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 11418/13 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa: 26 novembro de 2013
+Carlos Lobo (Relator), Luís Barroso, Ana Roque, Helena António, Vasco Almeida e
+Luís Paiva de Andrade
+FLEI
+Filipa Calvão (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

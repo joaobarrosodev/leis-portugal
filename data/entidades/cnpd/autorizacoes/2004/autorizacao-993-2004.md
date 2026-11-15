@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 993/2004
-official_date: null
+official_date: '2004-10-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: APL - ADM. DO PORTO DE LISBOA, SA - ZONA ENVOLVENTE CCCTMS-ALGÉS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,65 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:40:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 993/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8285](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8285).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 2234/2002
+AUTORIZAÇÃO N.° 993 12004 1. A APL - Administração do Porto de Lisboa, SA veio notificar os tratamentos de videovigilância em funcionamento nas suas instalações de Algés e do «Espelho líquido do Estuário do Tejo entre a zona da Estação Marítima da Rocha Conde de Óbidos e a
+Doca do Bom Sucesso em Belém». Destinam-se estes tratamentos ao «reforço da segurança» e a conferir a «segurança da operação portuária na movimentação de passageiros e de carga.
+Através da deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção numa área com esta dimensão. A área abrangida e o facto de nela haver grandes movimentos de pessoas, bens e veículos justifica a existência de meios complementares no domínio da vigilância. O facto de os bens poderem ser objecto de furto ou vandalismo durante a noite justifica a utilização daqueles meios complementares.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+() Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com protecção dos seus direitos fundamentais('), bem como registar e documentar a eventual prática de infracções. O tratamento de som ou imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+A recolha de imagens deve confinar-se à zona limítrofe de influência de controlo da
+APL e não pode envolver a recolha de imagens na via pública.
+As imagens não podem servir para controlo do desempenho profissional do trabalhador (cf. artigo 20.° do Código do Trabalho).
+Considera-se, por isso, legitimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Finalidade - Protecção de pessoas e bens.
+() O artigo 8.° n.º 2 obriga, como condição a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 2. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+3. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.º da Lei 67/98.
+4. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+5. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. A recolha de imagens deve confinar-se à zona limítrofe de influência de controlo da
+APL e não pode envolver a recolha de imagens na via pública.
+9. As imagens não podem servir para controlo do desempenho profissional do trabalhador (cf. artigo 20.° do Código do Trabalho).
+Lisboa, | 2 de Outubro de 2004
+Aneden
+Amadeu Guerra (relator)
+penite fortig
+Alexandre Pinheiro
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Luís Barroso
+амки
+Eduardo Campos
+Ana Luísa Geraldes di 4.4 are
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

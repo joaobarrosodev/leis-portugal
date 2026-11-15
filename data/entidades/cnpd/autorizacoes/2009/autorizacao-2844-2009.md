@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOFINLOC-INSTITUIÇÃO FINANCEIRA DE CRÉDITO, SA (EX- SOC.FINANC. DE LOCAÇÃO,S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:51:12Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2844/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17426](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17426).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PROCESSO N.º 7150/2008 2844
+AUTORIZAÇÃO N.º 12009
+A Sofinloc - Instituição Financeira de Crédito, SA notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de informatização do seu arquivo em papel.
+Pretende tratar os seguintes dados pessoais: Nome, Morada, Números de identificação civil e fiscal,
+Declaração fiscal de rendimentos, Recibo de remuneração e Dados do crédito concedido.
+APRECIAÇÃO
+Os dados recolhidos, pelo grau de pormenor e pelas finalidades a que se destinam, integram-se no conceito de informação relativa ao "crédito e solvabilidade" dos titulares. Por isso, o tratamento e sujeito a controlo prévio da CNPD (cf. art. 28.° n.º 1 al. b) da Lei 67/98, de 26 de Outubro).
+O tratamento será realizado em subcontratação pela empresa TBP - Consultoria e Gestão de Arquivo,
+Lda. com quem a notificante celebrou o contrato imposto pelo artigo 14.° - n.º 3 da Lei 67/98, de 26 de
+Outubro.
+Os dados declarados são adequados, pertinentes e não excessivos face à finalidade que é determinada, explicita e legitima (cf. artigo 5° - n.º 1 - b) e c) da Lei 67/98, de 26 de Outubro).
+A condição de legitimidade do tratamento é o contrato celebrado entre a notificante e os titulares dos dados pessoais (cf. artigo 6.° - a) da Lei 67/98, de 26 de Outubro).
+Independentemente das medidas de segurança adoptadas pelo subcontratante é ao responsável pelo tratamento que cabe assegurar o resultado da efectiva segurança dos dados tratados.
+Devem ser assegurados aos titulares os direitos de informação e acesso (cf. artigos 10.° e 11.° da Lei 67/98, de 26 de Outubro)
+Em face do exposto a CNPD autoriza o tratamento, nos termos declarados e com as especialidades constantes da presente autorização, consignando-se, nos termos dos artigos 27.°, 28.° n.º 1 al. b) e 30.° da Lei 67/98, de 26 de Outubro, o seguinte:
+1. Responsável: Sofinloc - Instituição Financeira de Crédito, SA.
+2. Categorias de dados pessoais tratados: Nome, Morada, Números de identificação civil e fiscal, Declaração fiscal de rendimentos, Recibo de remuneração e Dados do crédito concedido.
+3. Finalidade do Tratamento: Informatização do seu arquivo em papel.
+4.
+Entidades a quem os dados podem ser comunicados: Ao subcontratante.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita dirigida ao responsável.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros : Não há
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, de 1/6 Julu de 2009
+Ana Roque; Carlos Campos Lobo; Helena Delgado António; Luis Barroso; Luis Paiva de Andrade
+/Relator); Vasco Almeida
+Rel' Luis Lingnau da Siveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39

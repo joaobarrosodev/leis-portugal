@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 527/2003
-official_date: null
+official_date: '2003-11-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BP LUBS-COMPANHIA DE LUBRIFICANTES, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,38 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:53:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 527/2003
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9183](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9183).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 314/01
+Autorização n.227/2003
+A BP Lubs - Companhia Portuguesa de Lubrificantes, Lda, vem solicitar, junto da
+Comissão Nacional de Protecção de Dados (CNPD), alteração da Autorização n.º 156/2002, na medida em que se pretende que substituir a entidade sub-contratante.
+Assim, o pedido de autorização não envolve a modificação da Autorização n.º 156/2002 nos seguintes: responsável pelo tratamento, categoria dos dados tratados, finalidade, forma de exercício dos direitos de acesso e de rectificação, prazo de conservação dos dados e inexistência de interconexões.
+A alteração incide sobre o n.º 7 da autorização citada, pretendendo que a entidade que opera a transferência seja também a IBM Global Services que garante todas as medidas de segurança das informações cedidas, mediante a segurança do sistema e das instalações.
+De acordo com o anexo apresentado, a IBM Global Services assegura garantias de segurança eficazes em termos análogos aos apreciados na Autorização n.º 156/2002.
+Pelo exposto a Comissão nacional de Protecção de Dados autoriza a BP Lubs -
+Companhia Portuguesa de Lubrificantes, Lda, a proceder às comunicações de dados identificadas para os Estados-Unidos, operando tal transferência a IBM Global Services.
+Lisboa, 03 de Novembro de 2003
+Alcaididou dintais
+Alexandre Sousa Pinheiro (relator)
+-ra
+Luís Barroso
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Eduardo Campos
+Areden
+Amadeu Guerra
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

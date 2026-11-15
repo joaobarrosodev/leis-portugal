@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DAT-SCHAUB (PORTO) - INDUSTRIA ALIMENTAR, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:24:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 527/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7136](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7136).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.º 13198/1826/04
+Autorização n.°527/2005 1.Dat-Schaub (Porto) - Indústria Alimentar, SA, vem notificar à Comissão Nacional de Protecção de Dados (CNPD) os tratamentos de videovigilância efectuados no exterior de instalações fabris sitas no Porto. O tratamento é efectuado por 6 câmaras.
+Através da Deliberação n.º 61/2004, de 19 de Abril('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.º n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.° e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção em instalações com estas características atendendo a que existe manuseamento de dinheiro, entrada e saída de pessoas e um efectivo perigo da prática de ilícitos. As câmaras são um factor de dissuasão. Daí que se justifique a utilização de câmaras em lojas.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. Considera-se que dentro da propriedade, e com a finalidade da sua protecção é aceitável o recurso a câmaras de videovigilância.
+() Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com protecção dos seus direitos fundamentais('), bem como registar e documentar a eventual prática de infracções. O tratamento de som ou imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Finalidade - Protecção de pessoas e bens.
+2. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva () O artigo 8.º n.º 2 obriga, como condição a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+3. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.º da Lei 67/98.
+As imagens captadas não podem servir para avaliação do desempenho do trabalhador, nos termos do artigo 20.º do Código do Trabalho.
+Não é permitido o tratamento de dados nas traseiras da unidade fabril e confrontações com terrenos adjacentes propriedade de terceiros.
+4. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+5. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+Lisboa, 29 de Afeito de 2005
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Alicantes f
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo •
+нии
+Campos
+Ana Luísa Geraldes
+Areden
+Amadeu Guerra
+Pers Silvers
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

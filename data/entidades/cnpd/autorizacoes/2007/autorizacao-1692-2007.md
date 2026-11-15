@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAIS DA UNIVERSIDADE DE COIMBRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:10:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1692/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1583](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1583).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 938/06
+AUTORIZAÇÃO N.° (04)/2007
+Os Hospitais da Universidade de Coimbra, notificou um tratamento de dados pessoais com a finalidade efectuar estudos científicos na área da saúde.
+Os HUC, no âmbito da prestação de cuidados de saúde, possuem material biológico e pretendem constituir um banco de material biológico com a finalidade de desenvolver estudos de investigação científica.
+Os dados a recolher são: número de processo, quatro primeiras iniciais do nome, serviço requisitante, data da colheita e material biológico.
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos cientificos.
+No caso em apreço, a notificação enquadra-se apenas parcialmente no âmbito tipificado pela referida Deliberação. De facto, o presente tratamento consiste na criação de um biobanco com o objectivo futuro de permitir a realização de estudos de investigação.
+Para o processamento da informação com vista à criação e manutenção deste tratamento de dados, será necessário obter o consentimento expresso e prévio e garantir o direito de informação ao titular.
+Assim, mantendo-se a fundamentação daquela Deliberação, importa atender ao disposto nos artigos 18° e 19° da Lei n.° 12/2005, de 26 de Janeiro, designadamente no que respeita às exigências específicas do conteúdo do consentimento ( n.° 5 do art.° 18°).
+Só nestas condições a recolha de dados pessoais será licita para esta finalidade (art.° 5°, n.°1 al. a) e b) da Lei 67/98).
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade terá de ser, pelos motivos constantes na referida
+Deliberação e dos aqui expostos, o consentimento do titular dos dados.
+Importa ainda realçar que, nos termos do n.º 11 do referido artigo 19° da Lei n.° 12/2005, que as amostras devem ser codificadas, devendo os códigos ficar armazenados separadamente, mas sempre em instituições públicas.
+Deve o responsável garantir, também, o cumprimento do n.° 15 do já citado artigo 19°, no que respeita à informação ao titular quando ocorra qualquer das situalões aí previstas.
+No que respeita aos estudos que venham a ser elaborados com base no banco de amostras existentes constituem tratamentos de dados autónomos, pelo que, nos termos do disposto no artigo 27° da LPD, têm de ser notificados de per si e obtido o respectivo consentimento do titular.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, as disposições citadas da Lei n.º 12/2005 e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que também fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Hospitais da Universidade de Coimbra
+Finalidade: constituir um banco de material biológico com a finalidade de desenvolver estudos de investigação científica.
+Categoria de Dados pessoais tratados: número de processo, quatro primeiras iniciais do nome, serviço requisitante, data da colheita e material biológico.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do responsável.
+Porque há tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do titular o médico/investigador e no exercício do direito de rectificação deste tipo de dados, deverá o titular, de igual modo,
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS exercê-lo directamente junto do médico/investigador, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Dos termos e condições fixados na Deliberação n.º227/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Ana Roque
+Carlos Campos Lebo
+Eduardo Campos
+Helena Delgado António
+Luis Barroso (Relator)
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

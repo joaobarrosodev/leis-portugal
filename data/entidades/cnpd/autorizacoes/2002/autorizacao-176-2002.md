@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 176/2002
-official_date: null
+official_date: '2002-10-22'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: RCI BANQUE PORTUGAL (EX:RENAULT CREDIT INTER.,S.A., BANQUE )'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,66 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:00:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 176/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9647](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9647).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 285/2000
+Autorização n.º 176 /200g
+I - Os Factos
+A Renault Credit Internacional, S.A. (Sucursal em Portugal) vem junto desta
+CNPD solicitar autorização para proceder à transmissão de dados pessoais dos seus clientes em situação de mora à "Credinformações - Informações de
+Crédito, Lda."
+A Requerente propõe-se, ainda, alterar o documento de recolha de dados dos seus clientes, na parte relativa a esta matéria, nos seguintes termos:
+" Autorizo expressamente as sociedades do Grupo Renault Credit
+Internacional a efectuarem o tratamento automatizado e informatizado dos meus dados pessoais e dos dados relativos à minha situação económica e financeira, necessários à gestão dos contratos estabelecidos, bem como a comunica-los as sociedades do Grupo Renault e Renault Credit Internacional para efeitos de "mailings" e acções promocionais e à Credinformações, apenas em caso de mora e incumprimento, comprometendo-se estas a não os utilizar para fins diferentes daqueles para os quais foram comunicados, e obrigando-se a permitir-me o acesso ao seu conteúdo, à sua actualização ou eliminação, no e strito cumprimento do disposto na Lei n ° 67/98, de 26 de
+Outubro."
+A Renault Credit Internacional, S.ª (Sucursal em Portugal) tem os seus tratamentos de dados pessoais autorizados nos termos da Autorização n.° 51/2000 desta CNPD.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Nos termos dessa Autorização prevê-se a transmissão de dados pessoais para um conjunto de empresas do Grupo Renault e Renault Credit
+Internacional.
+II - O Direito
+A Renault Credit Internacional, S.A ( sucursal em Portugal) é uma instituição de crédito, com sede em França, especialmente vocacionada para o financiamento de actividades decorrentes da comercialização de veículos de marca Renault, directamente ou através de sociedades suas participadas. No âmbito destas suas actividades a sociedade trata dados pessoais.
+Pretende a Renault Credit Internacional, S.A. transmitir dados pessoais dos seus clientes à Credinformações, quando estiverem em mora ou incumprimento.
+A Credinformações, Informações de Crédito, Lda. é uma empresa prestadora de serviços a entidades financeiras, que centraliza informação e possibilita a troca de informações entre sociedades financeiras sob transacções de e a crédito de pessoas singulares e colectivas.
+Nos termos do artigo 83°, do Decreto-Lei n.º 2 98/92, de 3 1 de Dezembro, alterado pelo Decreto-Lei n.º 201/02, de 26 de Setembro, as instituições de crédito podem organizar. Sob regime de segredo, um sistema de informações recíprocas com o fim de garantir a segurança de informações.
+A Renault Credit Internacional, S.A. (Sucursal em Portugal) é uma sociedade financeira podendo, por isso, beneficiar do sistema de informações reciprocas de crédito, organizado pela Credinformações.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No momento em que estabelece a relação comercial com os seus clientes a
+Renault Credit Internacional deve informar que os seus dados, em caso de incidente de crédito, poderão passar a constar da listagem de incidentes organizada pela Credinformações. Acresce que a comunicação é efectuada no contexto da execução de um contrato em que o titular dos dados pessoais é parte (conf. artigo 6°, alínea a) da Lei n.° 67/98).
+Neste termos, a CNPD delibera autorizar, nos termos do artigo 28°, n.º 1, alínea b) da Lei n.º 67/98, o tratamento de dados pessoais, na forma de transmissão requerido pela Renault Credit Internacional, S.A (Sucursal em
+Portugal).
+Lisboa, 22 de Outubro de 2002
+Custuraule Bastiati
+Cristina Paula Baptista (Relatora)
+freder
+Amadeu Guerra
+Catacingarmente Pastos
+Catarina Sarmento e Castro
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS desandesonsatinheiro
+Alexandre Pinheiro
+L ra
+Luís Barroso
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt

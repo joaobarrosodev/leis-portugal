@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOVAPOTHEKE PRODUTOS DE SAÚDE, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:02:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 712/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5315](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5315).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 1707/05
+AUTORIZAÇÃO N.° 7/2 /2006 1. A NOVAPOTHEKE Produtos de Saúde, Lda veio notificar o tratamento de videovigilância a realizar nas suas instalações.
+Segundo as informações fornecidas e constantes do respectivo processo, o sistema de videovigilância é composto por 4 câmaras fixas que procedem à captação e gravação de imagem, visando a protecção de pessoas e bens.
+Através da deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.° e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção neste estabelecimento, no âmbito geral e em particular da protecção de pessoas e bens para prevenir actos de violência em relação ao furto de certos produtos (v.g. medicamentos).
+As instalações podem ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade, justifica-se a utilização de sistemas de videovigilância neste sector de actividade, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma legítima que deve ser reconhecida ao responsável. No entanto, o tratamento deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+() Disponível in http://www.cnpd.pt /orientações/principiosvideo.htm
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+O Código do Trabalho estatui que o empregador não pode utilizar os meios de videovigilância à distância no local de trabalho com a finalidade de controlar o desempenho profissional dos trabalhadores, de acordo com o disposto no artigo 20° do
+Código do Trabalho(').
+Considera-se, por isso, legitimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - NOVAPOTHEKE Produtos de Saúde, Lda 2. Características do tratamento - Sistema de circuito fechado CCTV composto por 4 câmaras de vídeo fixas e a cores que procedem à captação e gravação de imagem.
+3. Finalidade - Protecção de pessoas e bens 4. Destinatário dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+5. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares () No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.º da Lei 67/98.
+6. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que intorme as pessoas sobre a recolha de som e imagem, do qual conste a seguinte indicação ou similar: " Este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem".
+7. Direito de acesso - Podendo o exercício do direito de acesso por parte do titular dos dados envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros.
+Quando estiverem em causa imagens que servem de prova em processo criminal -imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+8. As câmaras não devem estar direccionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+9. As imagens não podem servir para o controlo do desempenho profissional dos trabalhadores (cfr. Artigo 20° do Código do Trabalho).
+10. Prazo de conservação - Os dados recolhidos são conservados pelo prazo máximo de 30 dias.
+Lisboa, 19 de Yucho de 2806
+Leee na Roque
+Luís Barroso, que relatou.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

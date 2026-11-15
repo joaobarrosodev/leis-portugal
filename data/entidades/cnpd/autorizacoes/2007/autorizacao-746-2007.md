@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO PORTUGUÊS DE ONCOLOGIA DO PORTO FRANCISCO GENTIL, E.P.E'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:28:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 746/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2717](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2717).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 1486/07 746
+AUTORIZAÇÃO N.° /2007
+O Instituto Português de Oncologia do Porto Francisco Gentil, E.P.E., veio requerer Autorização para "gestão de eventos relacionados com a Saúde
+Ocupacional e a Higiene e Segurança no Trabalho". Este tratamento de dados incide sobre registos de identificação e administrativos e dados de saúde dos funcionários, tendo em vista o cumprimento de obrigações legais da
+Requerente.
+1. A entidade encarregue do processamento da informação é a própria entidade requerente.
+2. A CNPD, através da Deliberação n° 41/2006, de 13 de Março, aplicável aos tratamentos de dados no âmbito da Gestão dos Serviços de Segurança,
+Higiene e Saúde no trabalho, pronunciou-se sobre este tema.
+3. A Comissão Nacional de Protecção de Dados delibera autorizar, nos termos dos artigos 7.° n.° 2, 28.° n.º 1 al. a), e 30.° da Lei n° 67/98, e bem assim da referida Deliberação, o tratamento notificado, consignando o seguinte:
+1. Responsável: Instituto Português de Oncologia do Porto
+Francisco Gentil, E.P.E.
+2. Finalidade: Permitir a resposta às obrigações legais aplicáveis à actividade de Medicina, Higiene e Segurança do Trabalho.
+3. Entidade encarregue do processamento da informação:
+Instituto Português de Oncologia do Porto Francisco Gentil,
+E.P.E.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 4. Dados pessoais registados: os constantes da ficha de saúde que acompanha o pedido de autorização.
+5. Fundamento da recolha de dados: cumprimento de obrigações legais ou contratuais.
+6. Recolha e actualização : directa - pessoal. Os dados constantes da ficha de saúde são recolhidos pelo médico do trabalho.
+7. Comunicação de dados: Não há.
+8. Interconexão de dados : Não há.
+9. Transferência de dados: Não há.
+10. Medidas de Segurança: Acesso restrito de pessoas. O sistema deve estar dotado de password .
+11. Tempo de conservação: Durante 10 anos após a cessação do contrato de trabalho, para fins estatísticos e históricos.
+12. Formas e condições de acesso: Por solicitação expressa pelo próprio.
+Lisboa, (Ade Maio de 2007.
+Ana Roque (relatora)
+Helena Delgado António
+Rua de São Bento, 148 - 3.° --- 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: hitp://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Luis Barroso
+Eduardo Campos
+Carlos Campos Lobo
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° -- 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

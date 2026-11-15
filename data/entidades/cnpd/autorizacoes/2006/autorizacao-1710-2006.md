@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMMERZ GRUNDBESITZ SPEZIALFONDSGESELLSCHAFT MBH - SUC. EM PT'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,89 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:45:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1710/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3994](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3994).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 1254/05
+AUTORIZAÇÃO NºH12006
+I - Pedido 1. A Commerz Grundbesitz Spezialfondsgesellschaft Mbh - Sucursal em
+Portugal veio notificar o tratamento de videovigilância a realizar nas suas instalações.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD)
+elaborou o projecto de Autorização de 10 de Julho de 2006, no sentido de não autorizar a recolha e visionamento de imagem nos acesso e circulação de pessoas à zona comum de instalações sanitárias, Multibanco e cabine telefónica, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 3339, de 11 de Julho de 2006, nos termos e para os efeitos do disposto no artigo 100.º do
+Código do Procedimento Administrativo.
+3. Por não concordar totalmente com o projecto de autorização que lhe foi remetido, a requerente, em sede de audiência prévia, veio ao processo pronunciar-se em 7 de
+Agosto de 2006.
+I1 - Análise 4. Através da Deliberação n° 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n°. 1, alínea c), da Lei n.º 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.° e 8.°, n.º 2, da citada Lei), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+() Disponível in http://www.cnpd.pt/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações do parque no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver assaltos e furto ou danos em veículos. O parque pode ser alvo de furto, especialmente, durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.º 1, alínea c), da Lei n.º 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+6.
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à requerente, que não se devia autorizar a recolha e visionamento de imagens nos acessos e circulação de pessoas à zona comum de instalações sanitárias,
+Multibanco e cabine telefónica, porquanto essa captação de imagens se mostra desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento, pelo que as referidas câmaras deviam ser retiradas.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 7. No entanto, a requerente, em sede de resposta à audiência dos interessados, veio pronunciar-se, alegando, resumidamente, o seguinte:
+a)
+No ponto 5 do projecto de Autorização, menciona-se som e imagem, acontece que o Retail Park de Albufeira não tem captação de som, só de imagem;
+b)
+Apesar de se pretender colocar a câmara 7, junto à entrada das instalações sanitárias, a sua colocação é essencial, «pois visa assegurar, quer a segurança dos utilizadores do Multibanco quer permitir a identificação de eventuais "assaltantes" que utilizam o Multibanco do Retail Park de
+Albufeira para efectuar levantamentos com cartões roubados (...)»:
+c)
+A colocação da câmara 7 não é excessiva no sentido em que a câmara é fixa, não é visível a marcação de código na caixa ATM e, ainda, só capta o acesso (porta de entrada e escadas) às instalações sanitárias.
+Cabe referir, não obstante os argumentos aduzidos pela entidade requerente em sede de audiência prévia, que a captação de imagens nos acessos à zona comum de instalações sanitárias continua a mostrar-se desproporcionada e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento.
+9.
+Isto porque, a CNPD entende que a recolha de tais imagens no acesso às instalações sanitárias é susceptível de invadir a reserva da vida privada, na medida em que permite ao responsável uma intromissão desproporcionada nos movimentos dos clientes do Retail Park de Albufeira, violando, assim, a "liberdade de movimentos" e a "privacidade dos clientes".
+10. Ressalva-se, no entanto, que é possível a captação de imagens nos acessos e circulação de pessoas à zona comum de Multibanco e cabine telefónica (caso a câmara em causa não capte o acesso às instalações sanitárias, uma vez que não é visível a marcação de código na caixa ATM nem se consegue captar o som dos utentes da cabine telefónica (por recolher apenas imagem)].
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+III - Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigos 8.°, n.º 2, e 28.°, n.º 1, alínea a), da Lei n.º 67/98) - devendo ser observadas, ainda, as seguintes condições:
+A. Responsável pelo Tratamento - Commerz Grundbesitz
+Spezialfondsgelleschaft Mbh- Sucursal em Portugal.
+B. Finalidade - Protecção de pessoas e bens.
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Visualização de imagens pelos responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei n.° 67/98.
+E. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de imagem.
+F. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.º n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+G. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+Eps
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+H. A recolha de imagens deve confinar-se ao perímetro do parque e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+I. Não é autorizada a recolha e visionamento de imagens nos acessos e circulação de pessoas à zona comum de instalações sanitárias, Multibanco e cabine telefónica, pois esta captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento.
+J. Ressalva-se, no entanto, que caso a câmara em causa não capte o acesso às instalações sanitárias é possível a captação de imagens nos acessos e circulação de pessoas à zona comum do Multibanco e cabine telefónica.
+Lisboa, QY de AfeNho2006 ina oque grios Campos Lobb
+Eduardo Campos
+Luís Barroso 7
+Helena Delgado António
+Luís Lingnau da Silveira (Presidente), que relatou.
+Vasco Almeida
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 5

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 29/1999
-official_date: null
+official_date: '1999-06-08'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOME PRODUCTS DE PORTUGAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:10:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 29/1999
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10470](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10470).
+M1oc80:33/95
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Autorização n.°29/99
+A firma Home Products of Portugal, Lda. solicitou à CNPD o re-gisto de uma base de dados do seu Departamento de Recursos Humanos que se destina à gestão de pessoal.
+Os dados pessoais contidos em cada registo constam de ficha arqui-vada no processo de registo e não são excessivos relativamente à finalidade declarada. São conservados por um período de dezoito meses após o termo do contrato de trabalho e mostra-se garantido, nos termos legais, o direito de acesso e de correcção.
+São transferidos para os Estados Unidos da América - American
+Home Products (casa mãe da requerente) e Wyeth Ayerst (Divisão de Pro-dutos Farmacêuticos), com instalações em St. Davis e Madison - os se-guintes dados pessoais dos empregados da WLP: n° de funcionário, nome, sexo, data de nascimento, escolaridade, data de admissão e demissão, pro-moção, remunerações, nome do posto de trabalho, categoria profissional, departamento e tipo de contrato. Segundo declara a requerente, "os dados transmitidos, embora contendo informação individual, destinam-se única e exclusivamente a gerar relatórios estatísticos sobre o n° de vagas existentes, antiguidade, turnover e remunerações para a Direcção da Companhia".
+O tratamento dos dados, bem como a sua transmissão às empresas citadas, recolherá o consentimento escrito dos empregados.
+Nestas circunstâncias, a CNPD regista a base de dados do Departa-mento de Recursos Humanos da firma Home Products of Portugal, Lda., criada e organizada nos termos constantes da sua declaração junta ao
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt
+
+- 2 -
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS processo n° 33/99, e autoriza, ao abrigo do n° 1 do artigo 20° da Lei n.° 67/98, de 26 de Outubro, a transferência dos dados pessoais dos seus em-pregados acima referidos para os Estados Unidos da América para a Ame-rican Home Products (casa mãe da requerente) e Wyeth Ayerst (Divisão de
+Produtos Farmacêuticos), sob condição de :
+a) Os dados em causa não serem usados para finalidades diferentes das declaradas nem transmitidos, sem consentimento expresso dos seus titulares, para terceiros;
+b) A firma Home Products of Portugal, Lda assumir a responsabi-lidade pelo incumprimento de qualquer das condições pelas enti-dades acima referidas.
+A transferência dos dados para a Wyeth Europa, no Reino Unido, não necessita de autorização por se tratar de transferência intracomunitária, livre por força do disposto no artigo 18° da citada Lei n° 67/98.
+Lisboa, 8 de Junho de 1999
+Joaquim de Seabra Lopes, relator
+Ameden un
+Amadeu Francisco Ribeiro Guerra
+. ~
+João Alfredo Massano Labescat da Silva
+Luís José Durão Barroso
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt
+
+- 3 -
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Mário Manuel Varges Gomes a
+Nuno Albuquerque Morais Sarmento
+Augusto Victor Coelho, presidente
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt

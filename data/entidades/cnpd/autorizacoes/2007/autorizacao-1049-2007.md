@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SCHERING - PLOUGH FARMA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,66 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:21:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1049/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2339](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2339).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 752/04
+AUTORIZAÇÃO N.° /049/2007
+A Schering-Plough Farma, Lda veio notificar à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo epidemiológico, transversal, prospectivo, de avaliação da prevalência e caracterização da rinite em Portugal
+Continental.
+A empresa Keypoint, Consultoria Cientifica, Lda, é a entidade encarregada de elaborar e executar o estudo.
+O estudo contará com o apoio da Sociedade Portuguesa de Alergologia e Imunologia
+Clínica que terá acesso ao relatório final do estudo.
+O objectivo do estudo é de avaliar aquela patologia ao nível dos cuidados primários e caracterizar os doentes com rinite relativamente à situação demográfica, factores de risco e informação clínica e terapêutica.
+Serão incluídos no estudo cerca de 2 000 doentes.
+Os participantes, de ambos os sexos, com idade igual ou superior a 16 anos, serão recrutados nas consultas de clínica geral dos Centros de Saúde aderentes.
+Será aplicado um questionário de rastreio de rinite aos doentes que se desloquem às referidas consultas, depois de obtido o consentimento informado.
+Aos doentes que reúnam os critérios de inclusão no estudo, i.é., com diagnóstico positivo de rinite alérgica, será recolhida a informação sintomatológica e de medicação e ser-lhes-á entregue uma folha informativa com os contactos da SPAIC, para um eventual encaminhamento dos doentes. Este encaminhamento é independente do estudo.
+Serão recolhidos os seguintes dados: Sexo, idade, residência (concelho), sintomatologia e medicação. Não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação é apenas conhecida do médico.
+Parte da informação relativa ao doente participante no estudo é recolhida a partir da sua ficha clínica.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+Lpp
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento do titular dos dados, ou dos seus representantes legais nas situações aplicáveis.
+Assim, tendo em atenção o disposto disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Schering-Plough Farma, Lda
+Finalidade: elaborar um estudo epidemiológico, transversal, prospectivo, de avaliação da prevalência e caracterização da rinite em Portugal Continental.
+Categoria de Dados pessoais tratados: Sexo, idade, residência (concelho), sintomatologia e medicação. Não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação é apenas conhecida do médico
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico participanter.
+Porque há tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do titular o médico/investigador e no exercício do direito de rectificação deste tipo de dados, deverá o titular, de igual modo,
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS exercê-lo directamente junto do médico/investigador, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 18 cl Junho up 2007
+Ana Roque
+Carlos canDos Lobo
+Eduardo Campos lepee.
+Helena Delgado António
+Luís Barróso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente, que relatou)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.p1 3

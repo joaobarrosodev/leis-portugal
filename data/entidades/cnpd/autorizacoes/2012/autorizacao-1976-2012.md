@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1976/2012
-official_date: null
+official_date: '2012-02-27'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Municipio de Vila Franca de Xira'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,81 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T04:06:30Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1976/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42212](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42212).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 1155/12
+AUTORIZAÇÃO N.º (9)6/2012
+Município de Vila Franca de Xira notificou um tratamento de dados pessoais de videovigilância, com a finalidade de protecção de pessoas e bens, a realizar no seu estabelecimento com a designação Pavilhão Multiusos do Cevadeiro e endereço Estrada Nacional n° 10, 2600-000 Vila
+Franca de Xira.
+O sistema é composto por 8 câmaras colocadas nos seguintes locais: zonas de atendimento ao público e zonas de circulação.
+Não há visualização das imagens em tempo real.
+Não há transmissão das imagens para o exterior do local da instalação do sistema.
+A comissão de trabalhadores não vê impedimentos à instalação do referido sistema de videovigilância.
+A CNPD já se pronunciou na sua Deliberação n.º 61/2004, de 19 de Abril ' sobre os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, em matéria de videovigilância, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de protecção de pessoas e bens. Decorrem desses princípios, bem como da lei laboral e da jurisprudência, os seguintes limites ao tratamento:
+• Não é permitida a recolha de som;
+• A recolha de imagens deve confinar-se à propriedade do responsável, não podendo abranger imagens da via pública ou de propriedades limítrofes;
+• No caso de existirem terminais de pagamento ATM, as câmaras não podem estar direccionadas de modo a captar a digitação dos códigos;
+• Não podem as câmaras incidir regularmente sobre os trabalhadores durante a actividade laboral, nem as imagens podem ser utilizadas para o controlo da actividade dos trabalhadores, seja para aferir a produtividade seja para efeitos de responsabilização disciplinar (cf. artigos 20º e 21º do Código do Trabalho);
+• Apenas a recolha de imagens nos locais declarados está abrangida pela presente autorização, não podendo, em circunstância alguma, serem recolhidas imagens de acesso ou interior de instalações sanitárias, salas de leitura e interior das salas de espectáculos.
+O tratamento em análise, com as limitações referidas, é adequado, pertinente e não excessivo face à finalidade declarada (cf. al. b) do n.º1 do artigo 5.° da Lei 67/98, de 26.10) e à actividade desenvolvida.
+O tratamento de dados pessoais efectuado no âmbito da videovigilância enquadra-se no conceito de vida privada, previsto no n.º 2 do artigo 7° da Lei n.º 67/98, de 26 de Outubro. O artigo 13.° do
+' Disponível em www.cnpd.pt/bin/orientacoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Decreto-Lei n.º 35/2004, de 21 de Fevereiro, constitui o fundamento que legitima a instalação destes sistemas.
+Assim, com os limites fixados, autoriza-se o tratamento notificado ao abrigo do disposto nos artigos 7°, n.° 2, 28.° n.° 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Finalidade
+Categoria de dados pessoais tratados
+Município de Vila Franca de Xira.
+Protecção de pessoas e bens.
+Imagens captadas pelo sistema.
+Forma de exercício do direito de acesso
+Por solicitação escrita ao responsável no seguinte endereço/contacto: Praça Afonso de Alburqueque nº2, 2600-000 Vila Franca de Xira, email: presidência@cm-vfxira.pt
+As imagens só podem ser transmitidas no termos da lei processual penal
+Detectada a eventual infracção penal, o responsável deverá, juntamente com a participação, enviar à autoridade judiciária ou ao órgão de polícia criminal competentes as imagens recolhidas.
+Comunicação das imagens
+Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no âmbito de processo judicial devidamente identificado, em cumprimento de despacho fundamentado da autoridade judiciária competente.
+Fora destas condições não pode o responsável comunicar as imagens.
+Interconexões
+Não há
+Fluxo transfronteiriço para países terceiros
+Não há
+Conservação dos dados 30 dias
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (n.º 1 do artigo 11º da Lei n.º 67/98), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser endereçado à
+CNPD (n.º 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adoptar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, nos termos exigidos pelo n.º 3 do artigo 139 do Decreto-lei n.9 35/2004, de 21 de Fevereiro.
+O responsável deve adoptar as medidas de segurança previstas nos artigos 14º e 15º da Lei n.º 67/98, de 26 de Outubro. Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança das imagens.
+O responsável pelo tratamento deve, também, manter sempre actualizadas a data e hora das gravações.
+Lisboa, 27 de Fevereiro de 2012
+Ana Roque, Luis Barroso, Helena Delgado António (Relatora), Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade.
+ces gelo
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IBERO ASSISTÊNCIA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 8/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21555](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21555).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 1554/2009
+REGISTON.° 8 12010
+A Ibero Assistência, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de sinistros de avaria mecânica.
+Os dados serão recolhidos directamente pela Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alínea a)
+do artigo 6° da LPD, a execução do contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Ibero Assistência, S.A.
+Finalidade
+Gestão de sinistros de avaria mecânica.
+Categoria de dados pessoais tratados
+Nome, apelidos, NIF, morada, localidade, código postal, telefones e dados relativos ao veículo e às avarias reportadas.
+Comunicação de dados
+Não há.
+Forma de exercicio do direito de acesso e rectificação
+Junto do responsável pelo tratamento dos dados por escrito.
+Interconexões
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados 10 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Analisado o direito de informação verifica-se que:
+- É prestada informação para a utilização dos dados pessoais para finalidades diferentes da recolha. Não tendo essas finalidades sido notificadas à CNPD, admite-se que os estudos estatisticos/ sinistralidade/ prevenção de fraude são efectuados de forma anonimizada, não abrangendo o presente registo essa finalidade.
+- O ponto 3 do direito de informação é ininteligível e consequentemente dele não se podem retirar quaisquer efeitos.
+- Decorre do ponto 4 que pode haver cedência de dados a 3°s no âmbito da prestação dos serviços contratados. Não coincidindo esta informação com a notificação à CNPD, o presente registo é efectuado nos termos da declaração do responsável.
+- A legislação de protecção de dados é a Lei 67/98, de 26 de Outubro e não o
+Decreto-Lei 67/98.
+Assim, deve o responsável, em cumprimento do art. 10° da Lei 67/98, de 26 de
+Outubro corrigir as informações prestadas aos titulares dos dados.
+Lisboa, 151212010
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7248/2016
-official_date: null
+official_date: '2016-07-27'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Corpo de Salvação Publica - Bombeiros Voluntários de Mafra - Associação Humanitá'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T13:30:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7248/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/93329](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/93329).
+Processo n° 907/2016 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 7248|2016 1 - Corpo de Salvação Pública - Bombeiros Voluntários de Mafra - Associação
+Humanitária de Bombeiros (NIPC 50114846) notificou à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais de gravações de chamadas de emergência, nos termos do disposto no n.º 4 do artigo 4.° da Lei n.º 41/2004, de 18 de agosto, na redação da Lei n.º 46/2012, de 29 de agosto.
+2 - A CNPD já se pronunciou na sua Deliberação n.° 629/2010' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+De acordo com a Deliberação n.º 629/2010, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto (Lei de Proteção de Dados - LPDP).
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos utilizadores do serviço, a disposição legal prevista no n.º 2 do artigo 7° da LPDP, no caso, a disposição constante no n.º 4 do artigo 4.° da Lei n.º 41/2004, de 18 de agosto, sem prejuízo do cumprimento do dever de informação a que alude o artigo 10.° da
+LPD.
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que e admissivel que a entidade patronal efetue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respetivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20.° do Código de Trabalho, as
+' Disponível em http://www.cnpd.pt/bin/orientacoes/DEL629_2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 9079/2016 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+3 - Nestes termos, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.º 2, 28.° n.° 1, alínea a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto, consignando-se o seguinte:
+Responsável: Corpo de Salvação Pública - Bombeiros Voluntários de Mafra -
+Associação Humanitária de Bombeiros;
+Finalidade: Fazer prova do cumprimento das obrigações relativas ao serviço de emergência;
+Categoria de dados pessoais tratados: Dados de tráfego e conteúdo das chamadas realizadas;
+Entidades a quem podem ser transmitidos: Não há;
+Forma de exercício do direito de acesso e retificação: Por solicitação junto da responsável;
+Transferências de dados para países terceiros: Não há;
+Conservação dos dados: 90 dias.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto.
+Dos termos e condições fixados na Deliberação n.º 629/2010 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Lisboa, 27 de julho de 2016
+Ana Roque (Relatora)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

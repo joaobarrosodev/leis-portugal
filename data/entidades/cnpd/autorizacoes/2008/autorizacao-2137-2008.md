@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DA MAIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:10:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2137/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9342](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9342).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 1748/04
+Autorização n.° 2137/2008
+A Câmara Municipal da Maia vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais que tem como finalidade a gestão de processos de execução fiscal.
+Os dados pessoais contidos em cada registo são os seguintes: Nome, morada, número de identificação fiscal, "número de consumidor", quantia da dívida, "origem" da dívida ("designação do rendimento").
+A segurança das informações é garantida por cópias de backup e password de acesso às informações.
+A requerente propõe-se solicitar à Secção de Finanças eventuais novas moradas dos executados, a partir da comunicação do número de identificação fiscal.
+A Comissão Nacional de Protecção de Dados considera existir legitimidade para o tratamento dos dados que a requerente se propõe realizar, porquanto o tratamento se destina à prossecução de interesse legítimo do responsável (cf. alínea e), do artigo 6°, da Lei n.° 67/98, de 26 de Outubro).
+A informação tratada é recolhida de forma lícita (cf. alínea a), do n.° 1, do artigo 5°, da
+Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+A informação deverá ser conservada pelo período estritamente necessário à finalidade, não podendo ser conservada para além do prazo do procedimento de execução fiscal, findo o qual a entidade responsável deve proceder à eliminação dos dados.
+A responsável pelo tratamento deve garantir aos titulares dos dados o direito de informação, de forma a cumprir o disposto no artigo 10° da Lei 67/98.
+Pelo exposto, e observadas as condições referidas, a CNPD autoriza a realização do tratamento de dados notificado, consignando-se, nos termos do artigo 30°, da Lei 67/98, o seguinte:
+Responsável pelo tratamento: Câmara Municipal da Maia
+Finalidade do tratamento: Gestão de processos de execução fiscal
+Categoria de Dados: Nome, morada, número de identificação fiscal, "número de consumidor", quantia da dívida, "origem" da dívida ("designação do rendimento").
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Comunicação de dados: Do número de identificação fiscal à Secção de Finanças, com vista à obtenção de eventuais novas moradas dos executados.
+Interconexões de dados: Não há
+Forma de exercício do direito de acesso e rectificação: Solicitação à requerente.
+Tempo de conservação: Os dados são conservados apenas pelo período estritamente necessário à finalidade, não podendo ser mantidos para além do prazo do procedimento de execução fiscal, findo o qual o responsável deve proceder à sua eliminação.
+Lisboa, 20 de ouelbro de 200g
+Aba Roque
+Carlos Campos Lobo
+Енино
+Eduardo Campos
+Helena Delgado António (Relatora)
+Luís Barroso restlineida
+Vasco Almeida
+Luís Lingnau Silveira (Presidente)

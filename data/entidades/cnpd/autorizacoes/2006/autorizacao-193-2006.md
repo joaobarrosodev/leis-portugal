@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LOCALISER, SISTEMAS DE MOBILIDADE E INF., CONSULT. INFORMÁTICA E PROJECTOS, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:12:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 193/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6342](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6342).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.º 15989/2115/05
+Autorização n.º 193/2006 1- Localiser - Sistemas de Mobilidade e Informações, Consultora Informática e
+Projectos, SA, vem notificar a Comissão Nacional de Protecção de Dados (CNPD) de um tratamento com a finalidade de localização pessoal, gestão de pânicos e pedidos de socorro. A declarante trata a seguinte informação: localização geográfica, pedido de ajuda através da Internet.
+A recolha verifica-se por via directa, na Internet, tal como a actualização dos dados.
+Existe comunicação de dados por telecomunicações.
+Como medidas de segurança são referidas: cópias de backup, password de acesso às informações e o acesso restrito de pessoas.
+Os dados de localização online são conservados durante um mês.
+O titular dos dados pode corrigir directamente no site os dados de login e de autenticação, configurações do equipamento e dados.
+A requerente declara que o cliente insere os seus dados pessoais na área de clientes do seu site. Compete ao cliente criar e inserir as suas próprias password e login.
+A CNPD considera que atenta a finalidade os dados são adequados, pertinentes e não excessivos (artigo 5.° da LPD).
+A CNPD já decidiu matéria semelhante na Autorização n.º 287/2005.
+Em face do exposto a CNPD autoriza o tratamento, nos seguintes termos de acordo com os artigos 27.°, 28.° n.º 1 al. b) e 30.° da Lei 67/98, de 26 de Outubro, o seguinte:
+Responsável: Localiser - Sistemas de Mobilidade e Informações, Consultora
+Informática e Projectos, SA
+Categorias de dados pessoais tratados: Localização geográfica e pedido de ajuda através da Internet.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Finalidade: Localização pessoal, gestão de pânicos e pedidos de socorro através da
+Internet.
+Entidades a quem podem ser transmitidos: Os dados apenas são acessíveis aos subscritores do serviço
+Forma de exercício do direito de acesso e rectificação: Directamente no site.
+Eventuais interconexões : Não há
+Transferências de dados para países terceiros : Não há.
+Lisboa27 de Março de 2006
+Alexandre Sousa Pinheiro (relator)
+элле
+Eduardo Campos
+Luís Barroso
+Ana Roque
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

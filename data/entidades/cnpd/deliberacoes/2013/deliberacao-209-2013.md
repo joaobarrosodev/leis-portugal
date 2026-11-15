@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PROCURADORIA GERAL DA REPÚBLICA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,87 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:51:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 209/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51437](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51437).
+Processo 6812/2012 | 1 k
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃO N.º)09 09/2013
+RELATÓRIO 1 - A Procuradoria-Geral da República (Gabinete do Procurador-Geral) veio solicitar à
+Comissão Nacional de Protecção de Dados (CNPD) o seu parecer sobre um protocolo (Protocolo) a celebrar entre aquela, o Instituto de Registos e Notariado, I.P. (IRN) e o
+Instituto das Tecnologias de Informação na Justiça, I.P. (ITIJ).
+Este Protocolo tem como finalidade, como se retira do exame do processado, "O acesso à informação constante do SIRIC".
+Visa-se assim com tal permitir ao Ministério Público o acesso em linha ao Sistema
+Integrado de Registo e Identificação Civil.
+2 - O Ministério Público tem, no âmbito das suas atribuições, a competência para representar o Estado, defender os interesses que a lei determinar, participar na execução da política criminal definida pelos órgãos de soberania, exercer a ação penal, assumir a defesa de interesses coletivos e difusos, estando-lhe cometidas competências no âmbito de diversas jurisdições, designadamente penal, execução de penas, civil, administrativa, tributária, menores, família e laboral, tal como se retira do
+Estatuto respetivo - arts° 3/n°1 al.a) e 5° da Lei 47/86, de 15 de outubro, com as alterações introduzidas pelas Leis 2/90, de 20 de janeiro, 23/92, de 20 de agosto, 10/94, de 5 de maio, 60/98, de 27 de agosto e 52/08, de 28 de agosto.
+3- Por seu turno o IRN é o titular/responsável da base de dados relativa do registo civil, tal como decorre do art° 220°-B do Código do Registo Civil, com as alterações introduzidas pelos DL 324/2007, de 28 de setembro e Lei 7/2011, de 15 de março,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 6812/2012 | 2 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS integrando o SIRIC a Base de Dados do Registo Civil - art° 220°-A do mesmo complexo normativo.
+4 - O acesso aos dados pessoais por parte da Procuradoria-Geral da República (Magistrados do Ministério Público e funcionários que os coadjuvam) traduz-se, em termos de tratamento de dados pessoais, numa comunicação por transmissão para uma finalidade diversa da determinante da recolha o que obriga a autorização da
+CNPD (cf. artigos 3.° b), 23.° - 1 - b) e 28.° - 1 - d) da lei 67/98, de 26 de outubro).
+APRECIAÇÃO
+Responsável
+No clausulado apresentado inexiste dispositivo claro e expresso que indique quem é responsável pelo tratamento pretendido, o que importa fixar e estabelecer.
+Parece que face à Base de Dados em causa e a aceder, quem tem que figurar como responsavel será o IRN.
+Dados pessoais a tratar
+Não se elencam detalhadamente quais os dados pessoais a tratar, sendo que se limita o texto da Cláusula 1ª referir que ao Ministério Público "...é autorizado a aceder ao conteúdo da informação constante do SIRIC..." - nº1.
+Parece poder concluir-se que poderão estar em causa dados de natureza sensivel.
+De molde a apreciar-se se os dados pessoais a tratar são adequados, pertinentes e não excessivos - art° 5/n°1al. c) da Lei 67/98, de 26 de Outubro - entende-se que seria de indicar, pelo menos as categorias de dados, tal como reclama o art° 30/n°1 al.b) do diploma acima apontado.
+Legitimidade do tratamento
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 6812/2012 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O tratamento a efectuar consiste no acesso pelos Magistrados do Ministério Público e funcionários que os coadjuvam aos dados relativos ao SIRIC e para "... a prossecução das competências que estão legalmente cometidas ao Ministério Público nos diversos processos e jurisdições" - Cláusula 1/nº5.
+Entende-se que dados os fins visados e as atribuições de cada uma das entidades envolvidas, o fundamento encontra-se em disposição legal habilitante, como acima se expendeu.
+Parece também poder afirmar-se que não há incompatibilidade entre a finalidade determinante da recolha dos dados pessoais e a finalidade da sua comunicação por transmissão, existindo legitimidade quer do transmissor quer do receptor para efectivação dessa forma de tratamento.
+Segurança
+A segurança dos dados está garantida através da indicação por parte da Procuradoria-
+Geral da República de uma lista de nomes, categorias, funções, entidade e endereço de correio eletrónico respeitantes a cada utilizador, consagrando-se na Cláusula 5ª que serão tomadas as medidas de segurança necessárias para que, (...), "se não possa verificar alteração, supressão, adicionamento ou destruição de dados pessoais, bloqueio ou diminuição dos tempos de resposta.
+Crê-se que se trata de dispositivo demasiado genérico, devendo no Protocolo, à semelhança de outros, ser mais específico na indicação de medidas concretas a adoptar e implementar, em termos de segurança.
+Em presença de tal, surge impossível concluir no sentido de que globalmente estão verificadas as exigências expressas nos arts° 14° e 15° da Lei 67/98 de 26 de Outubro.
+Interconexões
+Não se verifica nenhuma situação que integre a noção de interconexão, não sendo de permitir tal operação.
+Conservação
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 6812/2012 | 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Não se aponta em concreto um prazo de conservação dos dados, sendo que se entende importante que se consagre que os dados são conservados pelo tempo estritamente necessário à prossecução da finalidade, devendo tal constar de dispositivo próprio.
+Observações
+O prazo de duração em vigor do Protocolo está estipulado pela Cláusula 7ª, prevendo-se aí, igualmente, a sua eventual resolução.
+DECISÃO
+Em presença do expendido e a coberto dos normativos combinados dos arts° 7°/nº2, 23/n° 1 al. a) e 28°/nº1 al. d) da Lei 67/98 de 26 de Outubro, DELIBERA-SE:
+Autorizar a realização do Protocolo junto a fls. 1 a 5, entre as Partes
+PROCURADORIA-GERAL DA REPUBLICA, IRN I.P. e ITIJ I.P., nos moldes acima referidos, devendo observar-se os aspetos salientados e atinentes ao responsável, categorias de dados a tratar, medidas de segurança a adotar e tempo de conservação dos dados.
+Lisboa, de terrer de 2013
+Carlos Campos Lobo (Relator), Ana Roque, Helena Delgado António, Luís Barroso,
+Luís Paiva de Andrade, Vasco de Almeida,
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

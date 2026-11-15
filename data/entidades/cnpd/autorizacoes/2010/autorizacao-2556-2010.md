@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MONTE DA QUINTA CLUB, ACTIVIDADES HOTELEIRAS, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:27:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2556/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23399](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23399).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 2439/09 2556
+Autorização n° /2010 1. A entidade Monte da Quinta Club - Actividades Hoteleiras, S.A., sociedade comercial sob forma anónima, veio notificar o tratamento que tem como finalidade a gestão de clientes para efeitos de "gestão de reservas do empreendimento/clientes. Gestão de SPA/Health Club (inseridos no empreendimento)", procedendo à identificação de clientes. Os dados tratados vêm especificados no anexo ao ponto n.º 5 do formulário de notificação, sendo de salientar as seguintes categorias de dados: de identificação pessoal, estado civil, dados do cartão de crédito e dados de saúde, incluindo historial clínico detalhado.
+2. Os dados recolhidos, pelo grau de detalhe e pelas finalidades a que se destinam, integram-se no conceito de dados sensíveis. Por isso, a necessidade de autorização da CNPD (cf. art. 28.º n.º 1 al. a) da Lei 67/98, de 26 de
+Outubro).
+A Monte da Quinta Club - Actividades Hoteleiras, S.A. faz a recolha directa dos dados junto dos clientes titulares. Contudo, afigura-se não existir fundamento de legitimidade para que a Requerente trate os dados relativos ao historial clínico detalhado dos clientes, tanto mais que não resulta do pedido que tais dados sejam tratados por médico ou outro profissional de saúde sujeito a sigilo, nos termos da lei. Tendo em conta a finalidade do tratamento, a
+Requerente deverá somente registar eventuais declarações dos utentes, indispensáveis quanto ao tipo de serviços prestados no SPA/Health Club .
+Em face das finalidades indicadas pela Requerente, é autorizado o tratamento dos dados considerados pertinentes, adequados e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98).
+A Requerente não pretende fazer interconexões de dados e qualquer comunicação destes destina-se a satisfazer exigências legais e desde que solicitado (SEF, entidades judiciais, entidades policiais).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+O tempo de conservação é de 5 anos após a última relação contratual com o cliente.
+Em face do exposto, a CNPD autoriza o tratamento, nos termos declarados e com as especialidades constantes da presente autorização, consignando-se, nos termos dos artigos 27.°, 28.º n.º 1 al. b) e 30.º da Lei 67/98, de 26 de
+Outubro, o seguinte:
+1. Responsável: Monte da Quinta Club - Actividades Hoteleiras, S.A.
+2. Categorias de dados pessoais tratados: Identificação pessoal, contacto, morada, elementos do cartão de crédito, matrícula de viatura do cliente, preço do alojamento, datas de check in e check out, pedidos ou indicações específicas dos clientes.
+3. Finalidade: gestão de clientes.
+4. Entidades a quem podem ser comunicados: SEF; entidades judiciais e policiais, nos termos legais 5. Forma de exercício do direito de acesso e rectificação pelo cliente:
+Pessoalmente ou por escrito junto do responsável.
+6. Interconexões: não há 7. Tempo de conservação dos dados: 5 anos após a prestação do serviço.
+Lisboa, (de Junho de 2010.
+Ana Roque (relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

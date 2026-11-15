@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 8/2009
-official_date: null
+official_date: '2009-01-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CLMC MULTIMÉDIA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:44:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 8/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13978](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/13978).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 1885/08
+Registo n.º 08/09
+CLMC Multimédia, S.A notificou um tratamento de dados pessoais com a finalidade de marketing.
+Declaram as seguintes categorias de dados pessoais: Nome, morada, data de nascimento, telefone e e-mail.
+Os dados são recolhidos directamente por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+Declaram comunicação de dados para efeitos de processamento de
+Informação para PacSis, Sistema de Promoção e Marketing, Lda
+O fundamento de legitimidade para o tratamento é, nos termos da alínea e) do artigo 6° da LPD, o interesse do responsável.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - CLMC Multimédia, S.A
+Categoria de dados pessoais tratados - Nome, morada, data de nascimento, telefone e e-mail.
+Finalidade - Marketing;
+Forma de exercício do direito de acesso e rectificação - Solicitação escrita ao responsável pelo tratamento
+Interconexões - Não há;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Fluxo transfronteiriço de dados - Não há.
+Conservação dos Dados - 10 anos
+Comunicação de dados - Há comunicação para processamento da informação.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei n.º 67/98, de 26 de Outubro, bem como o direito de se oporem, de forma autónoma, à utilização dos seus dados para marketing da responsável.
+Lisboa, 19 de Janeiro de 2009
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

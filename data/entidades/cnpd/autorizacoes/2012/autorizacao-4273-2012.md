@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4273/2012
-official_date: null
+official_date: '2012-05-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MERCARTUCHO - COMÉRCIO DE CARTUCHOS DE CAÇA UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:27:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4273/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44591](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44591).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 9401/08
+AUTORIZAÇÃO N.º4273 /2012 1 - Pedido 1. Mercarturcho - Comércio de Cartuchos de Caça Unipessoal, Lda. veio notificar junto da Comissão Nacional de Protecção de Dados (CNPD) o tratamento de videovigilância a realizar nas suas instalações sitas na Rua Sousa Lopes, 8-B, 1600-207 Lisboa.
+2. Pretende-se a colocação de 3 câmaras na entrada da loja, zona de armamento e zona de caixa.
+3.
+A entidade declara que não existe comissão de trabalhadores.
+II - Análise 4. A CNPD, através da Deliberação n° 61/2004, de 19 de Abril (), estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.9, n.º 1, alínea c), da Lei n.º 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.º e 8.9, n.º 2, da citada Lei), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+() Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações de um estabelecimento destinado à actividade de armeiro, no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas, onde pode haver furto de armas de fogo, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade, justifica-se a utilização de sistemas de videovigilância neste sector de actividade, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+5.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.º, n.º 1, alínea c), da Lei n.º 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+6.
+Acresce que a Lei n.º 5/2006, de 23 de Fevereiro, aprovou o regime jurídico das armas e munições, sendo acautelado, através da Portaria n.º 933/2006 de 8 de
+Setembro, os riscos de intrusão, furto ou roubo nos casos em que existam a concentração e a guarda de armas. Assim, esta citada Portaria vem a impor, no seu artigo 12º/8, que as instalações destinadas ao exercício de actividade de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS armeiro sejam dotadas de sistemas de vídeo vigilância permanente e de alarme contra intrusão com registo de movimento no seu interior.
+7. Assim, forçoso será de concluir que a videovigilância é condição para o funcionamento de instalações destinadas ao exercício de actividade de armeiro, como e o presente caso.
+III - Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigos 48.9, n.º 6 e 117.9, n.º 2, alínea a), da Lei n.º 5/2006, de 23 de Fevereiro e artigo 12.9, n.º 8, da Portaria n.º 933/2006, de 8 de Setembro e, ainda, artigos 7.9, n.9 2, e 28.9, n.º 1, alínea a), da Lei n.º 67/98) - devendo ser observadas, ainda, as seguintes condições:
+A. Responsável pelo tratamento - Mercarturcho - Comércio de Cartuchos de
+Caça Unipessoal, Lda.
+B. Finalidade - Protecção de pessoas e bens.
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei n.º 67/98.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+E. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem (artigo 13.9, n.º 3, do Decreto-Lei n.º 35/2004, de 21 de Fevereiro).
+F. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável, ao exercício do direito de acesso, o disposto no artigo 11.9, n.º 2, da Lei n.º 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+G. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+H. A recolha de imagens deve confinar-se ao perímetro da propriedade e não podem envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+I. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a actividade laboral. (cf. artigo 20.° do Código do Trabalho).
+Lissboa, 14 de Maio de 2012
+Ana Roque, Carlos Lobo, Helena Delgado António, Vasco Almeida, Luís Barroso, Luís
+Paiva de Andrade,
+Filipa Calvão (Presidente), que relatou.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 4
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

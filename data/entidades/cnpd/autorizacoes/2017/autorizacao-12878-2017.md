@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 12878/2017
-official_date: null
+official_date: '2017-11-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CSL Behring, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T08:02:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12878/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/112643](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/112643).
+Processo n° 10511/2016 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º/2878 12017
+CSL Behring, Lda., com o NIPC n.° 503047201, notificou à Comissão Nacional de Proteção de Dados (CNPD), um tratamento de dados pessoais com a finalidade de gestão da informação dos Serviços de Medicina no Trabalho.
+A entidade encarregue do processamento da informação é a Workday, Inc., entidade com a qual a responsável pelo tratamento celebrará o contrato previsto no artigo 14.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto (Lei de Proteção de
+Dados Pessoais - LPDP); a responsável declara ainda que os fluxos internacionais de dados para os Estados Unidos da América, onde a subcontratante tem sede, se realizam ao abrigo das cláusulas Contratuais-Tipo da Comissão Europeia aprovadas a 5 de fevereiro de 2010.
+A CNPD já se pronunciou na sua Deliberação n.º 840/20101 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da LPDP, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso sub iudice, a notificação enquadra-se no âmbito tipificado pela Deliberação n.° 840/2010.
+Os dados recolhidos são necessários e pertinentes para a finalidade declarada (cf. artigo 5.° da LPDP).
+O fundamento de legitimidade é - nos termos do n.º 2 do artigo 7.° da LPDP - a Lei, consubstanciada nos artigos 281.° a 284.° do Código do Trabalho e na Lei n.º 102/2009, de 10 de Setembro, alterada pela Lei n.º 42/2012 de 28/08, pela Lei n.º 3/2014, de 28/01, pelo
+Decreto-Lei n.° 88/2015, de 28/05 e pela Lei n.º 146/2015, de 09/09.
+Assim, tendo em atenção o disposto nas disposições conjugadas do artigo 7.°, alínea a), com o n.º 1 do artigo 28.° e artigo 30.°, todos da LPDP e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam o presente instrumento de legalização, autoriza-se o tratamento notificado nos seguintes termos:
+Responsável pelo tratamento: CSL Behring, Lda.;
+Finalidade: Medicina no Trabalho;
+1 Disponível em http://www.cnpd.pt/bin/orientacoes/DEL_840_2010 MED_trabalho_actualizada.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 10511/2016 1v.
+Categoria de dados pessoais tratados: dados relativos a saúde e incapacidades; nome, morada pessoal; cartão de identificação nacional e data de emissão/validade; número do serviço nacional de saúde; número de contribuinte; número de segurança social; estado civil;
+número de dependentes; nacionalidade; detalhes relativos à família; naturalidade; data de nascimento; educação/formação; data de admissão; tipo de contrato; categoria profissional;
+número de empregado; local de trabalho. Registos médicos (histórico pessoal e familiar do resultado de exames médicos; pressão arterial, peso, altura, prática de exercício físico;
+gravidez, data de nascimento, licença de maternidade). Gestão de acidentes de trabalho; data do acidente; descrição do acidente e extensão das lesões; partes do corpo afetadas; períodos de incapacidade temporária (datas e incapacidades); períodos de incapacidade permanente (datas e incapacidades). Alta médica da seguradora (data); tipo e grau de incapacidade atribuído. Descrição do resultado do acidente e repercussões na vida profissional (identificação de posição compatível com a lesão). Data da ficha de aptidão médica e resultado. Data do envio para o departamento de recursos humanos. Data do último e próximo exame médico periódico;
+Comunicação de Dados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Autoridade para as Condições de Trabalho (cf. n.° 2 do artigo 109.° da Lei n.º 102/2009, de 10 de setembro);
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Forma de exercício do direito de acesso e retificação: O direito de acesso e retificação deverá ser exercido, presencialmente ou por escrito, ao médico do trabalho;
+Interconexões: Não se verificam;
+Fluxo transfronteiriço de dados: Workday, Inc.;
+Prazo Máximo de Conservação dos dados: Os dados pessoais podem ser conservados pelo período de cinco anos após a cessação do vínculo laboral nos termos do disposto no n.º 5 do artigo 73.º-B da Lei n.º 102/2009, de 10 de setembro, na redação atual, sem prejuízo da sua conservação para além do referido período caso seja necessário em sede de procedimento judicial em virtude de doenças profissionais e/ou acidentes de trabalho, incluindo em caso de revisão judicial do grau de incapacidade para o trabalho.
+No caso dos registos de dados dos trabalhadores estarem em situação suscetível de implicar risco para o património genético, o prazo de conservação é de 40 anos.
+
+Processo n.º 10511/2016 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dos termos e condições fixados na Deliberação n.º 840/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve igualmente dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 14 de novembro de 2017
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

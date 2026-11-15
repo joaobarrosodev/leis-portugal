@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1536/2006
-official_date: null
+official_date: '2006-03-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SEAMAIL - PRESTAÇÃO DE SERVIÇOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:48:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1536/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4262](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/4262).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.º 1526/03
+AUTORIZAÇÃON.° 1536 06 1. SERMAIL - Prestação de Serviços, SA vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD) os tratamentos de videovigilância efectuados com a finalidade de protecção, uma vez que a empresa esta situada numa rua solitária.
+Através das câmaras pode ver-se quem esta do lado de fora do portão antes de o abrir.
+São utilizadas 2 câmaras.
+Através da Deliberação n° 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios sobre o tratamento de dados de videovigilância
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável, importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n° 1, al c) da Lei 67/98, de 26 de Outubro), às condições de legitimidade (artigos 7° e 8°, n° 2 da Lei 67/98), bem como às formas de acesso quanto aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção em empresas, dados que as câmaras são um factor de dissuasão de actos que atentem contra pessoas e bens.
+Em termos de proporcionalidade, a Comissão Nacional de Protecção de Dados tem entendido que infringe os artigos 18.° e 35.°, n.º3 da Constituição e o artigo 7.°, n.º 1 da
+Lei de Protecção de Dados - na parte em que refere a vida privada - a utilização de câmaras para vigilância de espaço externo a empresas.
+( )Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Nestes termos, a Comissão Nacional de Protecção de Dados não autoriza o tratamento notificado.
+Notificada, a entidade responsável para se pronunciar nos termos dos artigos 100.º e 101.º do CPA, e a mesma tendo concordado com as condições impostas pela CNPD, determina-se converter o projecto de autorização de 7 de Março de 2006, na presente autorização.
+Lisboa, 31 de oudulto cle 2c06
+Luís Barroso
+Eduardo Campos logeacea
+Helena Delgado António grato
+Carlos
+A lece
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

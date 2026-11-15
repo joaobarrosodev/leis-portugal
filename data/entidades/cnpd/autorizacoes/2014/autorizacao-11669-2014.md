@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ENANCER ELECTRÓNICA, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,122 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:26:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11669/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72044](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72044).
+Processo 1405/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃONO 11669/2014
+I.RELATÓRIO
+Enancer Electrónica S.A., com sede em Rua Max Grundig n°23 - Ferreiros - Braga vem notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais que tem como finalidade a gestão de recursos humanos.
+Foram solicitados diversos esclarecimentos, os quais foram oportunamente prestados.
+II.DO PEDIDO
+-A Requerente dedica-se à conceção, desenvolvimento, produção e representação de sistemas elétricos e eletrónicos.
+-Pretende com o presente tratamento proceder à gestão de recursos humanos.
+-As categorias de dados a tratar são as seguintes:
+Dados dos colaboradores - nome, data e local de nascimento, sexo, nacionalidade, estado civil, número de dependentes, número de Bl ou de outro documento de identificação, NIF, número de identificação da Segurança Social, contactos, NIB, categoria, situação e evolução profissional e local de trabalho, dados académicos e profissionais.
+Dados dos membros do agregado familiar - nome, data de nascimento, número de BI, NIF.
+-A recolha de dados é efetuada presencialmente ou por impresso.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 1405/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+-Está assegurado o direito de acesso aos dados pelo titular.
+-Não se indicam medidas de segurança a implementar.
+-Há comunicação de dados no âmbito das obrigações legais (Segurança social, DGCI, ACT,
+GEP), contratuais (Instituições Financeiras, para pagamento de remunerações, Companhias de Seguros no âmbito de seguros contratados, Caixas de Previdência, Fundos de Pensões),
+Solicitadores de Execução e Tribunais, Kelly Services - Gestão de Processos Ldª (efeitos de processamento salarial e gestão de assiduidade).
+-Os dados a comunicar são os estritamente necessários ao cumprimento das obrigações em causa.
+-Não há interconexão nem fluxos transfronteiriços de dados.
+-Indica-se como prazo de conservação o tempo de 10 (dez anos).
+-O titular pode conhecer, corrigir e/ou eliminar os seus dados através de contacto junto da
+Requerente.
+.APRECIAÇÃO/O DIREITO
+O tratamento em causa, porque perante dados pessoais, deve respeitar as condições expressas na Lei 67/98, de 26 de outubro, mormente:
+.respeito pela reserva da vida privada (artigo 2°);
+.visar finalidades determinadas, explícitas e legítimas (artigo 5°/n°1 al.b);
+.estarem em causa dados adequados, pertinentes, não excessivos em relação à finalidade e proporcionais aos objectivos que se pretendem atingir (artigo 5°/n°1 al.c);
+.o responsável só pode proceder ao tratamento se, de acordo com a natureza dos dados
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39 2
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 1405/2014 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS estiverem preenchidas "condições de legitimidade" (artigos 6° e 7°).
+Na verdade a Lei 67/98, de 26 de outubro delimita o tratamento de dados pessoais, sendo inquestionável que, em relação ao tratamento de determinados dados como sejam os da vida privada e de saúde ou os relativos à prática de atividades ilícitas/infrações penais/contraordenações, necessário se torna que esteja presente alguma das situações previstas nos artigos 7.° e 8°, respetivamente, sendo a lei, nesta matéria, particularmente exigente, ao qualificar os dados como sensíveis.
+Acresce que, em qualquer tratamento, necessário se torna que estejam efetivados os direitos de informação (artigo 10°), de acesso (artigo 11°) e de oposição (artigo 12°) de molde a permitir-se o exercício dos mesmos.
+Concatenando tais vetores com a factualidade acima enunciada, cumprirá então indagar se, no caso vertente, estão verificadas as condições legalmente exigidas, para o deferimento do pedido.
+Retira-se desde já que a finalidade pretendida com este tratamento é a gestão de recursos humanos, sendo que tendo a Requerente universo de pessoas ao seu serviço, surge óbvio que se está perante uma finalidade determinada, explícita e legítima.
+Os dados a colher, tendo em atenção a finalidade pretendida e acima escrutinada, apresentam-se como adequados, pertinentes e não excessivos.
+A legitimidade para realizar o presente tratamento assenta no fundamento expresso no artigo 6° alínea a) da Lei 67/98, de 26 de outubro.
+Faça-se notar que à Requerente incumbe o dever de adotar e observar as medidas de segurança que se mostrem adequadas a salvaguardar e proteger a informação, tal como decorre do artigo 15° da Lei 67/98, de 26 de outubro.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 1405/2014 | 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Por isso impõe-se que implemente medidas de segurança.
+Quanto á comunicação de dados prevista, resulta que a mesma, na maior parte das situações opera sempre e em situações de cumprimento de obrigações legais e/ou contratuais e com fins devidamente especificados.
+Ao titular é garantida a possibilidade de aceder, corrigir e/ou eliminar os dados, estando assim salvaguardado o mecanismo insito no artigo 11° da LPDP.
+Por fim há que examinar o tempo proposto como de conservação dos dados que se entende não respeitar do mecanismo contido no artigo 5° /nº1 al.e) da LPDP, por manifestamente excessivo e desnecessário à realização da finalidade em causa.
+Deste modo entende-se adequado o tempo de 1 ano após a cessação do vínculo laboral, sem prejuízo de o mesmo se estender pelo tempo de duração de processo judicial e até ao limite de seis meses após o trânsito em julgado da decisão, se revela bastante e adequado
+Permite-se que para efeitos de faturação o prazo de conservação se estenda a 10 anos.
+Os dados podem ainda ser conservados para arquivo histórico.
+IV.DECISÃO
+Em presença do exposto, decide-se considerar como legítimo, o tratamento notificado e consequentemente autoriza-se o mesmo, de acordo com o plasmado nos normativos combinados dos artigos 6° al.a), 23/nº1 al.b), 27° e 30° da Lei n°67/98 de 26 de Outubro e nas seguintes condições.
+1. Responsável: Enancer Electrónica S.A;
+2. Finalidade: Gestão de Recursos Humanos;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 1405/2014 | 5
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3. Categorias dos dados:
+Dados dos colaboradores -nome, data e local de nascimento, sexo, nacionalidade, estado civil, número de dependentes, número de Bl ou de outro documento de identificação, NIF, número de identificação da Segurança Social, contactos, NIB, categoria, situação e evolução profissional e local de trabalho, dados académicos e profissionais;
+Dados dos membros do agregado familiar - nome, data de nascimento, número de BI, NIF.
+4. Destinatários dos Dados:
+-Há comunicação de dados no âmbito das obrigações legais (Segurança social, DGCI, ACT,
+GEP), contratuais (Instituições Financeiras, para pagamento de remunerações, Companhias de Seguros no âmbito de seguros contratados, Caixas de Previdência, Fundos de Pensões),
+Solicitadores de Execução e Tribunais, , Kelly Services - Gestão de Processos Ldª (efeitos de processamento salarial e gestão de assiduidade).
+-Não há interconexão nem fluxos transfronteiriços de dados;
+5. Direito de Informação: Deverá ser assegurado que se esclareceu o titular dos dados, das finalidades da recolha, dos destinatários da informação e das condições de utilização;
+6. Direito de Acesso: Por pedido junto da Requerente;
+7. Prazo de Conservação:
+-Um ano após a cessação do vínculo laboral, sem prejuízo de o mesmo se estender pelo tempo de duração de processo judicial e até ao limite de seis meses após o trânsito em julgado da decisão. Os dados podem ainda ser conservados para arquivo histórico.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 32 5
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 1405/2014 6
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+-Dez anos para efeitos de faturação;
+8. Outras Condições: Há que implementar medidas de segurança da informação.
+Lisboa, 9 de dezenkide 2014 nom
+Luís Barroso (O Vogal, em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39 6
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

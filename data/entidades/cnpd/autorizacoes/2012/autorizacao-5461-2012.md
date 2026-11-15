@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 5461/2012
-official_date: null
+official_date: '2012-05-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Aliança Vinhos de Portugal, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,83 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:07:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5461/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/45788](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/45788).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. nº 4415/12
+AUTORIZAÇÃO N° 5461 /2012
+Aliança Vinhos de Portugal, S.A. veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas na Rua do Comércio, 444, Apartado 6 em Sangalhos.
+A empresa declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 16 que abrangem as seguintes áreas: parque externo de viaturas, frente exterior (zona pedestre de acesso à loja e portaria, zona de estacionamento e portas de acesso à loja), interior da loja de vinhos, portaria, exterior (acesso pedestre à entrada do museu, salão de eventos e refeitório), exterior (entrada do museu e cave de vinhos), exterior (entrada do refeitório e salão de eventos), portaria e portão principal de entrada nas instalações, zona de estacionamento interno e tegões (recolha e tratamento de uvas), entrada lateral (viela Silvarosa), cais de carga/descarga materiais subsidiários, cais de carga de mercadorias, acesso tanoaria, manutenção e armazém de des-sulfitação, acesso adega nova e parque de estacionamento interno, acesso a cave de vinhos, vista geral dos acessos da zona poente das instalações da empresa e ETAR.
+Através da deliberação n° 61/2004, de 19 de Abril(*), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.º nº. 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.9 e 8.9 n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+() Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da empresa no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos, valores ou danos em equipamentos. As instalações podem ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta parcialmente como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.º n.º 1 al.
+c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.º do Código do Trabalho (*).
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Mais se acresce que, a recolha de imagens deve confinar-se ao perímetro da propriedade e não podem envolver a recolha de imagens nas zonas limítrofes, propriedade de terceiros ou na via pública, pelo que, as câmaras colocadas no exterior das instalações devem ser recolocadas de forma a não captar a via pública e as pessoas que nela circulam. Devem ser direccionadas para o interior das instalações da empresa.
+Considera-se, por isso, legítimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 7º n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Aliança Vinhos de Portugal, S.A.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem com os seguintes dizeres Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem».
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros.
+7. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça -é aplicável ao exercício do direito de acesso o disposto no artigo 11.º n.º 2 da
+Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+8. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+9. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a actividade laboral. (cf. artigo 20.º do Código do Trabalho).
+10. As câmaras não devem estar direccionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+11. A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública, pelo que, as câmaras exteriores devem ser direccionadas para o interior das instalações da empresa.
+Notificada, a entidade responsável para se pronunciar nos termos dos artigos 100.º e 101.º do CPA e a mesma nada tendo dito, determina-se converter o projecto de autorização de 14 de Maio de 2012, na presente autorização.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 25 4 Junho de 2012
+Ana Roque, Carlos Lobo, Helena Delgado António (Relatora), Vasco Almeida, Luís
+Barroso, Luis Paiva de Andrade fische
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

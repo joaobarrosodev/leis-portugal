@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 18/2016
-official_date: null
+official_date: '2016-06-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Comissão de Cultura Comunicação Juventude e Desporto - As. República'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:00:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 18/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/91955](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/91955).
+Processo n.º 7877 /2016 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.° 18/2016
+O Pedido
+A Presidente da Comissão de Cultura, Comunicação, Juventude e Desporto da
+Assembleia da República solicitou parecer ou contributo sobre o Projeto de Lei n.° 151/XIII (BE) - Garante o exercício dos direitos dos utilizadores, consagrados no Código do Direito de Autor e dos Direitos Conexos.
+O pedido formulado decorre das atribuições conferidas à Comissão Nacional de
+Protecção de Dados (CNPD) pelo disposto no n.º 2 do artigo 22.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto (Lei de Proteção de
+Dados Pessoais - LPDP), e é emitido no uso da competência prevista na alínea a) do n.º 1 do artigo 23.° do mesmo diploma legal. O presente parecer cinge-se, assim, à apreciação da matéria relativa à proteção de dados pessoais.
+II. Apreciação
+Para efeitos da LPDP, nos termos da alínea b) do artigo 3.°, entende-se por tratamento de dados pessoais "qualquer operação ou conjunto de operações sobre dados pessoais, efetuadas com ou sem meios automatizados, tais como a recolha, o registo, a organização, a conservação, a adaptação ou alteração, a recuperação, a consulta, a utilização, a comunicação por transmissão, por difusão ou por qualquer outra forma de colocação à disposição, com comparação ou interconexão, bem como o bloqueio, apagamento ou destruição".
+O presente Projeto de Lei pretende regular as restrições digitais em obras em domínio público bem como em novas publicações de investigação, que impedem a cópia e
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976 832
+LINHA PRIVACIDADE www.cnpd.pt
+Dias úteis das 10 às 13 h
+
+Processo n.º 7877 /2016 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS colocam em risco a preservação do património digital. Visa-se com o presente diploma garantir as utilizações livres, protegendo-se a fruição de obras em domínio público ou de carater público.
+Consultado o Projeto de Lei, constata-se que não existe qualquer norma específica que ponha em causa o regime jurídico de proteção de dados pessoais.
+É este o parecer da CNPD.
+Lisboa, 14 de junho de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

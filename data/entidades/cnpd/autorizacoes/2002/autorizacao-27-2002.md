@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 27/2002
-official_date: null
+official_date: '2002-02-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: RCI LEASING-SOC. DE LOCAÇÃO FINANCEIRA MOBILIÁRIA, S.A.(EX:GEST LEASING, S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:03:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 27/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9851](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9851).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 586/95
+AUTORIZAÇÃO N.° 27/2002
+A Gest Leasing - Sociedade de Locação Financeira Mobiliária, SA veio pedir autorização para a «transmissão de informação sobre os seus clientes em situação de mora, para a base de dados da Credinformações».
+1. A comunicação de dados à Credinformações tem como fundamento próximo uma disposição legal: o art° 83º do DL 298/92 de 31 de Dezembro. Este preceito é expresso ao permitir às sociedades financeiras a organização, sob regime de segredo, de um sistema de informações recíprocas com o fim de garantir a segurança das operações" -tarefa que, no caso em apreço, está atribuída à Credinformações.
+A Comissão considera que os titulares dos dados devem ter conhecimento das finalidades do ficheiro e da finalidade determinante da recolha de dados (cf. art. 10.° da
+Lei 67/98). A Gest Leasing propõe-se alterar o formulário de recolha de dados.
+Esta obrigação de informação - que impende sobre as entidades responsáveis de cada um destes tratamentos - é independente da obrigação que tem a Credinformações, em relação ao seu tratamento, de informar os titulares da inclusão/registo dos seus dados pessoais.
+2. A Gest Leasing deverá dar particular atenção à actualização de dados, devendo comunicar à Credinformações - de imediato - a liquidação da dívida em mora. Neste caso, e tal como decorre do artigo 5.° n.º 1 al. d) da Lei 67/98, a comunicação da «alteração da situação» - que visa a actualização de dados na base de dados da responsabilidade da Credinformações - deverá ser feita imediatamente após a regularização da dívida.
+Caso seja adoptada outra metodologia para actualização - vg. através do envio de suporte magnético - deve a Gest Leasing informar qual o prazo máximo para a actualização de dados.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 5 de Fevereiro de 2002
+Arden
+Amadeu Guerra (relator)
+Catarinefesmente lestos
+Catarina Sarmento e Castro
+Alentest
+Alexandre Pinheiro
+Cristina Baptista ro
+Luís Durão Barroso
+Mário Varges Gen
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

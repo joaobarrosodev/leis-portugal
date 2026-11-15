@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6031/2018
-official_date: null
+official_date: '2018-05-08'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: STR - SERVIÇOS DE RESTAURAÇÃO, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,72 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:49:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6031/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/120374](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/120374).
+Processo n.º 17096/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 6031/2018
+I - Pedido
+STR Carregado, Serviços de Restauração, S.A., titular do NIF/NIPC 505075059, notificou a CNPD um tratamento de dados biométricos, identificando como finalidade de controlo periódico de lavagem de mãos, no cumprimento das normas gerais de higiene em estabelecimentos do sector alimentar.
+O tratamento notificado processa os seguintes dados: número de funcionário, nome, template de impressão digital (resultante de interpretação algorítmica de pontos fisiométricos dos dedos, sem possibilidade de reconstrução da mesma), data e hora de reconhecimento.
+Indica a entidade requerente que pretende que os seus colaboradores procedam à lavagem de mãos em intervalos regulares de 30 minutos.
+Declara ainda que o sistema biométrico não se situa na zona das casas de banho, ou no acesso as mesmas, e visa possibilitar um controlo e supervisão mais eficaz da frequência das operações de lavagem das mãos.
+II - Apreciação
+A CNPD já se pronunciou sobre os princípios aplicáveis aos tratamentos de dados biométricos para controlo de acessos e assiduidade dos trabalhadores' bem como sobre o enquadramento legal, os fundamentos de legitimidade e as medidas a tomar para o cumprimento da Lei de Proteção de Dados Pessoais.
+O tratamento deve observar todas as condições estabelecidas na Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.º 105/2015, de 24 de agosto - Lei de Proteção de Dados
+Pessoais (LPDP) nomeadamente?: o tratamento deve ser feito com respeito pela reserva da vida privada (artigo 2.°) e para finalidades determinadas, explícitas e legítimas (artigo 5.°, n.º 1, al. b); os dados devem ser adequados, pertinentes e não excessivos em 1 Disponível em http://www.cnpd.pt/bin/orientacoes/principiosbiometricos.htm 2 Veja-se, no mesmo sentido, o Parecer n.º 11/2002, de 3 de Dezembro, pág. 10. Os dados biométricos são apresentados como sinais objetivos e inalteráveis, mas com características especificas que obrigam a uma proteção diferente em relação a outros dados de identificação - v.g. o nome, a data ou o local de nascimento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976832
+LINHA PRIVACIDADE www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n. 17096/2014 1v.
+relação à finalidade e proporcionados com objetivos que se pretendem atingir (artigo 5.°, n.º 1, al. c); o responsável só pode proceder ao tratamento se, de acordo com a natureza dos dados (artigos 6.° e 7.°), estiverem preenchidas "condições de legitimidade".
+A operação de captação de dados biométricos - que implica a cooperação/anuência do trabalhador através da «exposição» da respetiva parte do seu corpo (dedo) para tratamento das características da sua identidade pessoal - não pode ser realizada com violação da sua identidade pessoal (artigo 26.° da CRP), com lesão da sua integridade física (artigo 25.°, n.º 1, da CRP) ou com intromissão na intimidade da vida privada.
+Importa assegurar que a submissão à operação de recolha não se poderá traduzir numa discriminação ou violação do dever de respeito e dignidade do trabalhador. Não é o dado biométrico em si mesmo que pode afetar o direito à privacidade da pessoa, mas a finalidade com que é utilizado e os riscos que apresenta para a própria pessoa (risco de discriminação ou de cruzamento com outros sistemas, consequências produzidas em razão da sua falta de fiabilidade, efeitos na sua esfera pessoal no caso de falsificação ou usurpação da característica biométrica).
+Importa assim sublinhar que qualquer tratamento de dados pessoais está balizado pela observância dos princípios fundamentais em matéria de proteção de dados - os princípios da finalidade e da proporcionalidade.
+O princípio da finalidade impõe que qualquer tratamento de dados pessoais seja implementado para finalidades determinadas, explícitas e legítimas. No caso em apreço.
+Há que sublinhar que a finalidade do tratamento é o controlo periódico de lavagem de mãos, com o intuito de serem cumpridas as normas gerais de higiene em estabelecimentos do sector alimentar.
+Assim, apresentando-se o dado biométrico impressão digital um meio mais adequado para assegurar uma « finalidade legítima» da entidade empregadora, uma obrigação de todos os operadores das empresas do sector alimentar (artigo 3º, do Regulamento (CE)
+N.º 852/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo à higiene dos géneros alimentícios e cláusula 16, al. i), da CCT entre a ARESP e a
+FETESE, de 8 de Abril de 2008) - considera a CNPD que a utilização desta tecnologia não envolve qualquer violação dos direitos de personalidade do trabalhador.
+
+processo n. 17096/2014|2/
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados recolhidos são necessários à finalidade que se pretende atingir, não se afigurando que sejam excessivos.
+Num «balanceamento» dos interesses em presença - dos trabalhadores e do responsável do tratamento - considera a CNPD que o tratamento do dado biométrico, da forma e para a finalidade delineada, não apresenta riscos em relação aos direitos de personalidade dos trabalhadores que possam sobrepor-se aos interesses legítimos do responsável (artigo 6.°, alínea e) da LPDP).
+III - Direitos do titular dos dados e deveres do responsável do tratamento
+É necessário assegurar uma efetiva informação prévia, por parte da entidade empregadora, em relação às finalidades determinantes da recolha, aos destinatários e às condições de utilização daqueles dados, bem como dos restantes elementos do n.º 1 do artigo 10.° da LPDP.
+O titular dos dados pode - quando existam razões ponderosas e legítimas relativas à sua situação particular (cf. art.° 12.°, al. a), da LPDP) - exercer o direito de oposição em relação ao tratamento. Neste caso deve apresentar os fundamentos em que assenta o direito de oposição, cabendo ao responsável apreciá-los, podendo a CNPD intervir, em última análise, na apreciação e ponderação dos interesses em presença (cf. artigo 6.°, al.
+e), e 12.°, al. a) da LPDP).
+Importa sublinhar que estes sistemas não são infalíveis e não vêm resolver todos os problemas de controlo do cumprimento da tarefa pretendida, razão pela qual será de esperar que existam limitações e «imponderáveis» em matéria de qualidade de desempenho.
+A entidade patronal deve criar soluções alternativas de controlo para suprir as insuficiências do sistema, especialmente as que resultam das taxas de falsas rejeições ou impossibilidade temporária de o trabalhador apresentar o seu dado biométrico para reconhecimento.
+Finalmente, alerta-se o responsável para que os equipamentos de leitura dos dados biometricos, só podem ser utilizados no âmbito da finalidade solicitada e agora autorizada.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 17096/2014 | 2v.
+Deste modo, tendo em conta os princípios orientadores referidos e o acima exposto, a
+CNPD autoriza o tratamento notificado nos exatos termos que a seguir se elencam, consignando, em especial, que a informação biométrica não pode ser utilizada para outra finalidade que não seja a finalidade agora autorizada.
+IV — Decisão
+Face ao exposto, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, e do n.º 1 do artigo 27.°, e da al. a) do n.º 1 do artigo 28.°, e do artigo 30.°, todos da LPDP, autoriza-se o tratamento de dados supramencionado nos seguintes termos:
+Responsável: STR Carregado, Serviços de Restauração, S.A.
+Finalidade: controlo periódico de lavagem de mãos, no cumprimento das normas gerais de higiene em estabelecimentos do sector alimentar;
+Categorias de dados pessoais tratados: número de funcionário, nome, template de impressão digital (resultante de interpretação algorítmica de pontos fisiométricos dos dedos, sem possibilidade de reconstrução da mesma), data e hora de reconhecimento;
+Entidades a quem podem ser transmitidos: Não há comunicação de dados a terceiros;
+Forma de exercício do direito de acesso e retificação: Por solicitação escrita para o endereço: Estrada Nacional, n.° 3, 2580 - 491 Carregado;
+Eventuais interconexões: Não há;
+Transferências de dados para países terceiros: Não há;
+Prazo de conservação: Período do exercício de funções.
+Lisboa, 8 de maio de 2018
+Filipa Calvão (Presidente)

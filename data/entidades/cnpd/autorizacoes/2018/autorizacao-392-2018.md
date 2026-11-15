@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 392/2018
-official_date: null
+official_date: '2018-01-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Financeira El Corte Inglés Portugal, S.f.c., S.a'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,76 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T07:24:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 392/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/114649](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/114649).
+Processo n. 2307/2017 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.° 392 12018
+I - Pedido
+Financeira El Corte Inglés Portugal, S.F.C., S.A., Sucursal em Portugal, titular do NIF/NIPC 513755292, notificou um tratamento de dados pessoais de gravações de chamadas para monotorização da qualidade de serviço.
+Do pedido de autorização alcança-se o seguinte:
+a) Os dados pessoais objeto de tratamento são: dados de tráfego e conteúdo das chamadas;
+b) A recolha dos dados é feita por via direta, pelo telefone;
+c) Existe entidade subcontratante: Telecor - Serviço de Telecomunicações, S.A.,
+Sucursal em Portugal, com sede na Avenida António Augusto de Aguiar, n.º 31, 1069
+- 413 Lisboa;
+d) Não há comunicação de dados a terceiros;
+e) Não se verificam interconexões de tratamentos nem fluxos de dados para países terceiros;
+f) É indicado o prazo de conservação de dados de 30 dias;
+g) O exercício do direito de acesso é feito por escrito para a morada: Avenida António
+Augusto de Aguiar, n.º 31, 1069 - 413 Lisboa;
+h) São indicadas medidas de segurança física e lógica.
+II - Apreciação
+A Comissão Nacional de Protecção de Dados (CNPD) já se pronunciou na sua Deliberação n.° 629/20101, atualizada pela Deliberação n.º 1039/20172, sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.° 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto (Lei de Protecção de Dados Pessoais - LPDP), bem como sobre as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado naquela Deliberação.
+/ Disponível em https://www.cnpd.pt/bin/orientacoes/DEL629_2010.pdf.
+2 Disponível em https://www.cnpd.pt/bin/orientacoes/Del_geral_gravacao_chamadas_2017.pdf.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 2307/2017 | 1v. /
+Relativamente aos clientes, o fundamento de legitimidade para a realização do tratamento de dados é, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequívoco do titular dos dados (n.º 3 do artigo 4.° da Lei n.º 41/2004, de 18 de agosto, alterada pela Lei n.º 46/2012, de 29 de agosto).
+A informação é recolhida de forma lícita (artigo 5.° n.º1, alínea a) da LPDP, de forma explícita e legítima (cf. alínea b) do mesmo artigo).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efetue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respetivo conteúdo funcional.
+A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação ao trabalhador em relação à gravação efetuada com a finalidade específica em causa serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20.° do Código de Trabalho, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Em relação à transmissão da informação para a entidade subcontratante Telecor - Serviço de
+Telecomunicações, S.A., Sucursal em Portugal, com sede na Avenida António Augusto de
+Aguiar, n.° 31, 1069 - 413 Lisboa, cumpre salientar que se reclama a existência de contrato ou ato jurídico vinculativo que estipule, entre outras obrigações, que a entidade subcontratante apenas atua mediante instruções do responsável, como estabelece o disposto no n.° 3 do artigo 14.° da LPDP.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da
+LPDP.
+Atento o disposto na alínea e) do n.º 1 do artigo 5.° da LPDP, devem os dados pessoais ser conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior.
+A Lei n.º 41/2004 não estabelece qualquer prazo de conservação dos dados, pelo que o mesmo deverá ser fixado por esta Comissão, tendo em conta a finalidade declarada e demais circunstâncias, considerando-se o prazo máximo de 30 (trinta) dias suficiente e adequado, o qual se fixa nos termos da alínea f) do n.º1 do artigo 23.° da LPDP.
+
+Processo n.º 2307/2017 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+III - Decisão
+Em face do exposto, nos termos das alíneas b) e f) do n.º 1 do artigo 23.° e da alínea b) do n.
+° 1 do artigo 28.°, ambos da LPDP, a CNPD autoriza o tratamento nas condições supra referidas, consignando, nos termos e para os efeitos do artigo 30.°, n.° 1, da LPDP, o seguinte:
+Responsável - Financeira El Corte Inglés Portugal, S.F.C., S.A., Sucursal em Portugal;
+Finalidade - Gravação de chamadas para monitorização da qualidade do atendimento;
+Categoria de dados pessoais tratados - Dados de tráfego e dados de conteúdo das chamadas;
+Entidade subcontratante: Telecor - Serviço de Telecomunicações, S.A., Sucursal em
+Portugal, com sede na Avenida António Augusto de Aguiar, n.º 31, 1069 - 413 Lisboa
+Forma de exercício dos direitos de acesso e retificação - Por solicitação escrita à entidade responsável para o endereço postal: Avenida António Augusto de Aguiar, n.° 31, 1069 - 413
+Lisboa;
+Comunicação de dados pessoais - Não há;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há;
+Prazo máximo de conservação dos dados - 30 (trinta) dias.
+Lisboa, 09 de janeiro de 2018
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

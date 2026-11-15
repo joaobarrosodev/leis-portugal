@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FERNANDES E THUISSARD, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:03:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 65/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9815](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9815).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 7/2002
+Autorização n. 65/02
+A sociedade Fernandes e Thuissard Limitada vem notificar a Comissão Nacional de
+Protecção de Dados (CNPD) da recolha de imagens com vista a garantir a supervisão do atendimento (quadro n.º 4). Entende a CNPD que a finalidade em causa se reconduz à segurança das instalações e protecção de pessoas e bens.
+As imagens são recolhidas por câmara fixa com captação de som e imagem com gravação (quadro n.º 2) situadas no salão de cabeleireira e nas áreas de atendimento (quadro n.º 3). O autor do pedido não cumpriu a obrigação prevista no quadro n.° 3 de indicar em anexo a pormenorização dos locais sobre os quais incide a actividade de vídeovigilância. A CNPD determina que nenhuma das câmaras pode captar dados na via pública ou no exterior do estabelecimento.
+Os dados são conservados por 30 dias (quadro n.º 11).
+A recolha e tratamento de dados faz-se nos termos da lei (Decreto-Lei n.° 231/98, de 22 de Julho), sendo necessário assegurar o direito de informação nos termos estabelecidos pelo n.º 3 do artigo 12.°º do referido acto, através da inclusão de um texto - em lugar bem visível - com os seguintes dizeres : "Para sua protecção este local encontra-se sob videovigilância".
+A CNPD autoriza o tratamento (n.° 4 do artigo 4.°, n.º 1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.° e artigos 29.°, todos da Lei n.º 67/98, de 26 de Outubro), nas seguintes condições :
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1- Responsável: Fernandes e Thuissard Limitada 2- Categorias de dados pessoais tratados : Gravação de som e imagem através de câmara referida no quadro n.º 2 dirigidas aos espaços delimitados no quadro n.º 3. A
+CNPD determina que não pode verificar-se captação de imagens na via pública ou no exterior do estabelecimento.
+3. Finalidade: Segurança das instalações e protecção de pessoas e bens.
+4- Entidades a quem podem ser transmitidos os dados: Os dados recolhidos podem ser comunicados nos termos da lei penal.
+5- Forma de exercício do direito de acesso e rectificações: O titular dos dados pode dirigir-se ao responsável para aceder aos seus dados pessoais para efeitos de eventual rectificação.
+6- Eventuais interconexões : Não há.
+7- Transferência de dados para países terceiros : Não há.
+8- Tempo de conservação : 30 dias.
+Lisboa, dode Fevereiro de 2002-02
+Ala de Pintes
+Catuindarmente Casti
+Catarina Sarmento e Castro
+V
+Luís Barroso
+Rua de São Bento, 148 - 3.°-
+E-mail: geral@cnpd.pt
+- 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Quetulaulinhste
+Cristina Paula Baptista
+Mário Varges Gomes
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MEDIA MARKT SINTRA - PRODUTOS INFORMÁTICOS E ELECTRÓNICOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,79 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:33:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3906/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18701](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18701).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 4457/2009
+AUTORIZAÇÃO N°3906/2009 1 - MEDIA MARKT SINTRA, PRODUTOS INFORMÁTICOS E ELECTRÓNICOS,
+LDA, veio notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de financiamento de crédito ao consumo de bens à venda no seu estabelecimento e de emissão de cartão de crédito.
+Os dados objecto de registo são os seguintes:
+Nome, idade, sexo, data de nascimento, estado civil, morada, telefone fixo, telemóvel, fax, e-mail, NIF, NIB, profissão, tipo de emprego, tipo de contrato (efectivo/a prazo/outro), antiguidade no emprego, nome, morada, telefone fixo e fax da empresa, rendimento líquido mensal, valor mensal em despesas fixas.
+Adicionalmente são também fornecidas pelo titular dos dados cópias de documentos pessoais, nomeadamente, BI, cartão de contribuinte, comprovativo de NIB e comprovativo de morada. Se o montante do crédito for superior a € 1000 são ainda fornecidas cópias da última declaração do IRS e dos últimos 3 recibos de vencimento.
+Como fundamento da legitimidade do tratamento a requerente invoca o consentimento dos titulares dos dados, o cumprimento de obrigações legais e a execução de obrigação contratual.
+A recolha de dados é feita de forma directa, pessoalmente ou por impresso.
+A segurança é garantida por cópias de backup, password de acesso às informações e acesso restrito das pessoas às instalações. As cópias dos documentos são apenas guardadas em suporte de papel.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A requerente propõe-se comunicar os dados ao Banco Santander, entidade com a qual trabalha em regime de parceria na área de financiamento ao cliente. Para a aprovação de cada operação financeira proposta, os dados são comunicados via internet, através de sítio protegido e de acesso restrito a palavra-chave.
+Pretende-se que os dados sejam conservados até terminar o período de duração do contrato de crédito.
+Ao titular dos dados é facultado conhecer, corrigir e eliminar os dados que lhe respeitem, desde que o solicite directamente ao Banco Santander.
+A segurança é garantida por cópias de backup, password de acesso às informações e acesso restrito de pessoas às instalações.
+Pretende-se que os dados sejam conservados até que a cobrança seja efectuada.
+2 - Estando em causa operações relativas ao crédito e solvabilidade dos titulares, o tratamento notificado está sujeito a autorização da Comissão Nacional de Protecção de
+Dados (artigo 28° n° 1, alínea b), da Lei 67/98, de 26.10).
+Os dados são tratados no âmbito de uma relação contratual, com consentimento dos respectivos titulares. A fonte de legitimidade assenta assim no consentimento, verificando-se ainda que há legitimidade, em termos gerais, para serem tratadas aquelas categorias de dados, na medida em que a gestão de informação visa assegurar o cumprimento de uma obrigação contratual (artigo 6°, alínea a), da Lei 67/98).
+Em termos gerais, não há objecções ao tratamento dos dados, ficando a requerente vinculada a cumprir as disposições relativas a sigilo profissional (cf. artigo 17° nº1 da
+Lei 67/98).
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. alínea c) do n°1 do artigo 5° da Lei 67/98)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados devem ser exactos e, se necessário, actualizados (artigo 5°, alínea d), da Lei 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da Lei 67/98).
+Significa isto que a responsável pelo tratamento deve eliminar os dados quando tiver sido atingida a finalidade que fundamentou a recolha.
+Deste modo, logo após a cobrança ou quando ocorra o prazo legal de prescrição da dívida, deve a informação relativa ao devedor ser eliminada, não sendo possível a sua conservação em momento posterior, nomeadamente sob a forma de registo negativo.
+3- Em face do exposto, a CNPD autoriza o tratamento, nos termos declarados e com as especificidades constantes da presente autorização, consignando-se, nos termos dos artigos 27°, 28° n.° 1, alínea b), e 30.° da Lei 67/98, de 26.10, o seguinte:
+Responsável pelo tratamento: MEDIA MARKT SINTRA, PRODUTOS
+INFORMÁTICOS E ELECTRÓNICOS, LDA
+Categorias de dados pessoais tratados: nome, idade, sexo, data de nascimento, estado civil, morada, telefone fixo, telemóvel, fax, e-mail, NIF, NIB, profissão, tipo de emprego, tipo de contrato (efectivo/a termo/outro), antiguidade no emprego, nome, morada, telefone fixo e fax da empresa, rendimento líquido mensal, valor mensal em despesas fixas
+Finalidade do tratamento: financiamento de crédito ao consumo de bens à venda no seu estabelecimento e emissão de cartão de crédito
+Comunicação de dados pessoais: ao Banco Santander, entidade com a qual trabalha em regime de parceria na área de financiamento ao cliente
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+4
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Eventuais interconexões de dados pessoais: não se verificam
+Transferência de dados para países terceiros: não há
+Tempo de conservação dos dados: até à cobrança do crédito ou quando ocorra o prazo legal de prescrição da dívida.
+Lisboa, 2l de Se Loce 60 de 2005
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Daná Salmo
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

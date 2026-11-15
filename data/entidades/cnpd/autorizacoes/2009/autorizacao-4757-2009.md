@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FLOWSERVE PORTUGUESA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:19:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4757/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19744](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19744).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 5302/09
+AUTORIZAÇÃO N.° Y)712009
+A Flowserve Portuguesa, Lda notificou um tratamento de dados pessoais com a finalidade de gestão das comunicações internas de actos de gestão financeira irregular.
+Flowserve Corporation, com sede nos EUA, é a entidade encarregada do processamento da informação. Esta entidade aderiu aos Princípios do Safe Harbour.
+A CNPD já se pronunciou na sua Deliberação n.° 765/2009' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade. Nessa Deliberação fixou que só podem ser objecto de tratamento os procedimentos de controlo interno de denúncia de infracções destinados a prevenir e/ou a reprimir irregularidades no seio da sociedade, no domínio da contabilidade, dos controlos contabilísticos internos, da auditoria, da luta contra a corrupção e do crime bancário e financeiro.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação
+De acordo com a Deliberação n.º 765/2009, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade é a execução de finalidades legítimas do responsável, previsto no n.º 2 do artigo 8.° da LPD.
+Assim, autoriza-se, com os fundamentos da Deliberação n.º 765/09 e ao abrigo dos artigos 8.°, n.º° 2, 28.° n.º 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Flowserve Portuguesa, Lda
+Finalidade
+Gestão das comunicações internas de actos de gestão financeira irregular.
+Categoria de dados pessoais tratados
+Identidade e categoria profissional do denunciante, identidade e categoria profissional do denunciado, identidade e funções das pessoas que intervêm na recolha e no tratamento de dados, os factos denunciados, passíveis de integrarem actividades consideradas irregulares, no âmbito das actividades de contabilidade, auditoria, de luta contra a corrupção e do crime bancário e financeiro, os elementos de facto recolhidos no âmbito da averiguação e o destino dado à denúncia.
+' Disponível em www.cnpd.pt/bin/orientacoes/DEL765-2009 LINHAS_ETICA.pdf
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Forma de exercício do direito de acesso e rectificação
+Comunicações de Dados Pessoais
+Interconexões
+Fluxo transfronteiriço de dados para paises terceiros
+Por solicitação ao responsável
+Não há
+Não há
+Conservação dos dados
+Flowserve Corporation, com sede nos EUA
+Os dados pessoais objecto de denúncia serão de imediato destruídos caso se revelem inexactos ou inúteis;
+Quando não haja lugar a procedimento disciplinar ou judicial, os dados que tenham sido objecto de comprovação serão destruídos decorrido o prazo de 6 meses a contar do encerramento das averiguações;
+Em caso de procedimento disciplinar ou judicial os dados serão conservados até ao termo desse procedimento. Neste caso, serão conservados no quadro de um sistema de informação de acesso restrito e por prazo que não exceda o procedimento judicial.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda Lei n.º 67/98, de 26 de Outubro.
+Deve ser garantida a confidencialidade sobre a identidade do denunciante, com os limites descritos na Deliberação n.º765/09.
+Dos termos e condições fixados naquela Deliberação e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa,J/10/2009
+Ana Roque (Relatora), Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade.
+Luís Lingnau da Silveira (Presidente)
+110 20 00 01 00

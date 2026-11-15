@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CHUPA CHUPS PORTUGAL, LIMITADA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:00:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 97/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56193](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56193).
+D
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 16947/2011
+REGISTO N.° 97
+/ 2013
+A Chupa Chups Portugal, Limitada notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de clientes.
+Os dados são recolhidos diretamente, presencialmente por impresso e por telefone.
+Foi declarado recolherem os seguintes dados pessoais: Nome, morada, telefone, fax, e-mail, número de identificação fiscal, e ainda os dados referidos no n° 5 do art. 38° do
+Código do IVA, bem como meios de pagamento, instituição financeira e número de identificação bancária.
+Os dados recolhidos são pertinentes e não excessivos face à finalidade declarada (Cf.
+alínea b) do artigo 5.° da Lei n.º 67/98, de 26 de outubro - Lei de Proteção de Dados -
+LPD).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da LPD, o cumprimento do contrato.
+Assim, de acordo com as disposições conjugadas do n.º 1 do artigo 27.° e do n.º 1 do artigo 30.° da LPD, regista-se o tratamento nos seguintes termos:
+Responsável
+Chupa Chups Portugal, Limitada.
+Finalidade
+Gestão de Clientes
+Categoria de dados pessoais tratados
+Nome, morada, telefone, fax, e-mail, NIF, e ainda os dados referidos no n° 5 do art. 38° do Código do IVA, bem como meios de pagamento, instituição financeira e número de identificação bancária.
+Comunicação de dados
+Não há.
+Forma de exercício do direito de
+Por contacto com o responsável pelo tratamento, acesso e rectificação
+Urb. Casal da Serra, Av. Casal da Serra, Lote I
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Interconexões
+- 3, 1°, sala 8, 2625-085 Póvoa de Santa Iria.
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados 10 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.° da LPD.
+Lisboa, 12/08/2013
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

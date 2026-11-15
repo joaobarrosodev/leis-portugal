@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 751/2012
-official_date: null
+official_date: '2012-07-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANSR - AUTORIDADE NACIONAL SEGURANÇA RODOVIÁRIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,38 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:51:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 751/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/46091](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/46091).
+D
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 7277/2012
+Deliberação n. ° 75(/2012
+O Presidente da Autoridade Nacional de Segurança Rodoviária (ANSR) veio solicitar o parecer da CNPD sobre um projeto de Despacho que visa definir as condições de acesso à base de dados do Registo de Infrações do Condutor (RIC), por parte da Polícia de Segurança Pública (PSP) e da Guarda Nacional Republicana (GNR), para o cumprimento de determinadas competências legais, cujas finalidades específicas são a prática de atos de inquérito ou de instrução, no âmbito da lei processual penal, e ações de fiscalização de trânsito.
+O projeto de Despacho agora submetido a apreciação foi revisto, no seguimento das observações feitas pela CNPD na Deliberação n.° 188/2012, pelo que importa agora analisar apenas se as alterações introduzidas estão em conformidade com a referida deliberação.
+No âmbito das alterações realizadas, foi suprimido o acesso pela PSP aos dados do RIC, relativos a processos-crime por condução com excesso de álcool no sangue, para efeitos de emissão de licença de uso e porte de arma e sua detenção, nos termos da Lei n.° 5/2006, de 23 de Junho, com as alterações introduzidas pela Lei n.° 17/2009, de 6 de Maio, na medida em que foi considerado pela CNPD não haver fundamento legal para tal acesso.
+Foram ainda introduzidas no texto do Despacho algumas normas adicionais, relativas à segurança do tratamento de dados, na prossecução das recomendações feitas pela CNPD na mencionada deliberação.
+Assim, passou a estar prevista a obrigação da PSP e da GNR comunicarem à ANSR a lista de utilizadores autorizados a aceder ao RIC dentro de cada força de segurança, bem como as condições de atualização dessa listagem (parágrafos 9.° e 10.°).
+Foi igualmente alterado o modo de ligação das forças de segurança ao RIC, tendo sido fixado o estabelecimento de uma ligação URL mais segura, efetuada por https (parágrafo 8.°).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 7277/2012 2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Deste modo, e atenta a apreciação jurídica sobre a legitimidade e condições do acesso, já expendida na Deliberação n.° 188/2012, considera a CNPD que o projeto de Despacho agora em análise cumpre todos os requisitos legais.
+Lisboa, 9 de Julho de 2012
+Carlos Campos Lobo (Relator), Ana Roque, Helena Delgado António, Luís Barroso, Luís Paiva de Andrade, Vasco Almeida
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

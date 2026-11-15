@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Investments 2234 Overseas Fund IV, BV'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T05:16:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11384/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/38204](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/38204).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 13339/2011
+Autorização n.° 1384
+/2011
+O pedido
+Whitestar Servicing Company, SA, Lda, na qualidade de representante da Investments 2234
+Overseas Fund IV B. V., notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de créditos litigiosos.
+As entidades encarregues do processamento é a Whitestar Servicing Company, SA
+Os dados tratados pela requerente - que actua como cessionária dos créditos e assume o risco de os adquirir e cobrar em caso de incumprimento - são recolhidos indirectamente, sendo-lhes comunicados pelas empresas cedentes.
+São processados os seguintes dados pessoais: nome, morada, data de nascimento, telefone, fax, e-mail, BI, NIF, dados relativos ao processo judicial, quantia exequenda, taxa de juro aplicada, descrição da hipoteca e dos imóveis hipotecados.
+Há comunicação de dados para a Holanda, para o responsável pelo tratamento.
+Análise jurídica do tratamento
+O responsável pelo tratamento não está estabelecido em Portugal, recorrendo para o tratamento de dados pessoais a meios situados em território português, pelo que, por força do disposto no n.° 5 do artigo 4° da LPD, designou um representante, que se lhe substitui em todos os direitos e obrigações decorrentes da referida lei.
+Os dados declarados são pertinentes, necessários e não excessivos face à finalidade (cf. al. c)
+do n.º 1 do artigo 5° da LPD).
+A cedência de dados é feita no âmbito de um contrato celebrado nos termos do disposto no artigo 577° do Código Civil, pelo que, nos termos do n.° 1 deste artigo, é realizada independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.º 1 do artigo 582° do
+CC).
+Os dados objecto do tratamento estão sujeitos a sigilo bancário, conforme resulta do artigo 78° do DL 298/92, de 31 de Dezembro. Assim, enquadra-se no conceito de vida privada do n.º 1 do artigo 7° da LPD.
+O fundamento de legitimidade é, nos termos do n.º2 do artigo 7° da LPD, o artigo 577° do CC.
+Relativamente às entidades que processam a informação, terá o responsável que estabelecer o contrato ou acto jurídico previsto no artigo 14° da LPD. Nesse contrato, que deverá revestir a torma escrita, com valor probatório legalmente reconhecido, deve constar que a Whitestar
+Servicing Company, SA apenas actuam mediante instruções do responsável e que lhes incumbe as obrigações de pôr em prática medidas técnicas e organizativas adequadas para proteger os dados pessoais contra a destruição acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizado, bem como garantir um nível de segurança adequado aos riscos inerentes ao tratamento e à natureza dos dados a proteger.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Quanto à segurança da informação - e porque estão em causa dados sujeitos ao sigilo bancário - devem ser adoptadas as medidas previstas no artigo 15° da LPD.
+Independentemente das medidas de segurança adoptadas pelo responsável, é a este que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+Decisão
+Em face do exposto, nos termos do n.º 1, al. b) do artigo 23° e alínea b) do n.° 1 do artigo 28°, a
+CNPD autoriza o tratamento nos termos supra referidos, consignando-se para os efeitos do artigo 30° da LPD, o seguinte:
+Responsável - Investments 2234 Overseas Fund IV B. V. representado Whitestar
+Servicing Company, SA
+Finalidade - Gestão de créditos litigiosos;
+Categorias de dados tratados - nome, morada, data de nascimento, telefone, fax, e-mail, BI, NIF, dados relativos ao processo judicial, quantia exequenda, taxa de juro aplicada, descrição da hipoteca e dos imóveis hipotecados;
+Entidades a quem podem ser transmitidos - Não há;
+Forma do exercício dos direitos de acesso e rectificação - Pessoalmente ou por escrito junto dos subcontratantes;
+Interconexões - Não existem;
+Fluxos para países terceiros - Não há;
+Prazo máximo de conservação dos dados - Um mês após o pagamento do crédito ou após o transito em julgado da decisão.
+Lisboa, ( - de Outubro de 2011
+Carlos Campos®
+Lobo, Helena Delgado António, Luis Barroso, Luis Paiva de Andrade (Relator),
+Vasco Almeida, Ana Roque,
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

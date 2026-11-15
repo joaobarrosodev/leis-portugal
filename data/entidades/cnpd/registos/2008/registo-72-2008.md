@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SEAT - PORTUGAL, UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 72/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1011](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1011).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.º 841/07
+Registo n. ° 72/08
+Seat Potugal, Unipessoal, Lda notificou um tratamento de dados pessoais com a finalidade de marketing (passatempo "play with style").
+Declara as seguintes categorias de dados pessoais: nome, género, morada, telemóvel, data de nascimento, carta de condução (s/n) e tem automóvel (s/n).
+Os dados são recolhidos directamente, por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da al. e) do artigo 6° da LPD, o interesse do responsável pelo tratamento.
+Assim, regista-se, nos termos dos artigos 27° n.° 1 e 30° n.° 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Seat Potugal, Unipessoal, Lda
+Categoria de dados pessoais tratados - nome, género, morada, telemóvel, data de nascimento, carta de condução (s/n) e tem automóvel (s/n).
+Finalidade - marketing (passatempo "play with style").;
+Forma de exercício do direito de acesso e rectificação - Por solicitação por escrito ao responsavel;
+Interconexões - Não há;
+Comunicação de dados - Concessionários Seat
+Fluxo transfronteiriço de dados - Não há.
+Deve o responsável, no momento da recolha, garantir ao titular o direito de informação previsto no artigo 10° da LPD e a possibilidade de se opor à utilização dos seus dados para essa finalidade, nos termos da al. b) do art° 12°.
+Lisboa, 11 de Fevereiro de 08
+A Secretária da CNPD
+Tabe
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JANSSEN-CILAG FARMACÊUTICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:39:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 716/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3589](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3589).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 3279/2006
+AUTORIZAÇÃO N° 7 16 12008
+A Jansen Cilag Farmacêutica, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de realizar um estudo observacional, não interventivo, multicêntrico, prospectivo, de registo da imunogenicidade, para determinar a taxa de incidência de doentes com Aplasia Eritróide Pura Mediada por Anticorpos (AEP), em doentes com insuficiência renal crónica, tratados com eritropoietinas recombinantes humanas por via subcutânea (Estudo Prims).
+A CNPD autorizou o referido estudo, em 16 de Julho de 2007, na Autorização n° 1367/2007.
+O responsável pelo tratamento vem agora solicitar uma alteração aos termos da autorização emitida, no sentido de ser aditado o tratamento do dado "raça".
+De acordo com a Deliberação n° 227/ 2007, a CNPD admite o tratamento deste dado, em situações devidamente justificadas. Vem a requerente declarar que dadas as diferenças existentes em várias patologias, consoante os diferentes «grupos raciais», é fundamental para o presente estudo aferir da relevância do dado raça na Insuficiência Renal Crónica. Acrescenta que " A análise deste dado pode ajudar a determinar se um genótipo específico tem maior apetência para desenvolver uma condição específica, neste caso o desenvolvimento de uma reacção de gravidade significativa como é a aplasia eritróide pura mediada por anticorpos"
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Face à justificação apresentada, a CNPD considera que o tratamento do dado "raça" se revela pertinente, para finalidade determinada, explícita e legítima (cf.
+alíneas a) e b) do n° 1 do art. 5° da LPD).
+O fundamento de legitimidade será o consentimento do titular dos dados.
+Assim, tendo em atenção as disposições conjugadas dos artigos 28°, n° 1, alínea a) e 30° da Lei 67/98, de 26 de Outubro, e as condições e limites fixados na Deliberação n° 227/ 2007, que se dão aqui por reproduzidos, e que tundamentam esta decisão, autoriza-se o aditamento do dado "raça" ao tratamento autorizado no âmbito da Autorização n° 1367/ 2007, de 16 de Julho de 2007, à qual deverá ser anexada a presente autorização.
+Lisboa, 28 d Abril de 2008 100
+Ana Roque
+Carlos Campos Lobo
+этио
+Eduardo Campos
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente, que relatou)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

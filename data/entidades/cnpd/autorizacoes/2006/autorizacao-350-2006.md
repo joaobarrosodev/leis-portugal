@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 350/2006
-official_date: null
+official_date: '2006-05-15'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIA PORTUGAL Supermercados, Sociedade Unipessoal, LDA (BENFICA/LISBOA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:08:56Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 350/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6189](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6189).
+Lps
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 880/06
+Autorização n° 350 /06
+A) O pedido
+A sociedade anónima denominada DIA PORTUGAL - Supermercados, S.A., empresa do sector de comércio a retalho, vem notificar um tratamento de vídeovigilância constituído por 4 câmaras fixas, destinadas à captação de imagem com gravação (sistema CCTV), no seu estabelecimento sito na Ava
+Gomes Pereira, 93, 1500-328 Lisboa. As câmaras vão abranger a zona interior do estabelecimento comercial.
+Como finalidade do tratamento é indicada a protecção de pessoas e bens.
+Afirma-se que não haverá comunicação nem interconexões de dados (o que terá de entender-se, de acordo com a própria finalidade do tratamento, sem prejuízo das eventuais comunicações que poderão ocorrer nos termos da legislação de processo penal), nem fluxos transfronteiras de quaisquer dados pessoais.
+B) Apreciação
+Através da deliberação n° 61/2004, de 19 de Abril('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem () Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da empresa no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos. Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.° 1 al. c) da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão, Sempre com o reconhecimento das pessoas e com protecção dos seus direitos fundamentais (*), bem como registar e documentar a eventual prática de infracções. O tratamento de som ou imagem e a finalidade delineada, não tem que "situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens. As imagens não (†) O artigo 8.° n.º 2 obriga, como condições a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+p
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS podem servir para controlo do desempenho profissional dos trabalhadores (cf.
+artigo 20.° do Código do Trabalho).
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda as seguintes condições:
+1. Finalidade - Protecção de pessoas e bens.
+2. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal.
+3. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informa as pessoas sobre a recolha de som e imagem.
+4. Conservação - As imagens serão guardadas por 30 dias.
+5. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores (cf. artigo 20.° do Código do Trabalho).
+6. As câmaras não devem estar direccionadas para os terminais de pagamento Multibanco.
+Lisboa, 15 de Maio de 2006.
+e aque
+Luis Barroso
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+ание
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

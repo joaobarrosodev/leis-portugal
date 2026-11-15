@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Jorge Lima'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T02:49:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6507/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/46693](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/46693).
+Proc. N.: 7182/2012 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO NO 6507 12012
+I. Do Pedido
+Jorge Lima notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para avaliação do impacto do perfil imunológico na gravidez e no parto.
+A entidade encarregue do processamento da informação é a KeyPoint, Consultoria
+Científica, Lda., com a qual a responsável pelo tratamento celebrará o contrato previsto no artigo 14.° da Lei n,° 67/98, de 26 de Outubro (LPD).
+Serão incluídas no estudo setenta mulheres grávidas seguidas na consulta de
+Obstetrícia do Hospital CUF Descobertas e cujo parto vai ocorrer nesse hospital e como grupo de controlo setenta mulheres não grávidas seguidas na Consulta de rotina de Ginecologia do Hospital CUF Descobertas.
+A participação no estudo consiste na recolha de dados do processo clínico (dados demográficos, história clínica, terapêuticas), resultados de análises laboratoriais, dados sobre o recém-nascido, amostras de sangue e do cordão umbilical.
+O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração será arquivada em local reservado da instituição hospitalar participante, com acesso restrito à equipa de investigadores.
+Os dados serão recolhidos num caderno de recolha de dados em formato eletrónico.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida da equipa de investigadores.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.8: 7182/2012 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.° 227 12007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O responsável pelo tratamento justifica a necessidade de recolha da raça do seguinte modo: "
+... esta informação pode estar na base de diferenças no que se refere a parâmetros analíticos determinado pelas análises sanguíneas (incluindo diferentes valores de referência). Anatomo-fisiologicamente, o que poderá ser considerado normal para uma raça, é considerado fora dos parâmetros de referência para outra. A não distinção das raças impedirá uma avaliação cientificamente válida dos resultados, inviabilizando a credibilidade dos resultados apurados".
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.9: 7182/2012 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+III. Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a) do n.º 1 do artigo 28° e art. 30º da Lei de Protecção de Dados, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Termos do tratamento:
+Responsável pelo tratamento: Jorge Lima
+Finalidade: Estudo observacional para avaliação do impacto do perfil imunológico na gravidez e no parto.
+Categoria de Dados pessoais tratados: código do participante, dados sociodemográficos (ano e mês de nascimento, sexo, escolaridade, nacionalidade, raça), grupo sanguíneo, história obstétrica, dados da gravidez atual, complicações, dados do parto, dados do recém-nascido (sexo, peso, índice Apgar), complicações perinatais, complicações maternas puerperais, amostras e resultados de análises laboratoriais ao sangue e ao cordão umbilical.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 13 de AguaL do 2012.
+geracel
+Helena Delgado António (Relatora)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

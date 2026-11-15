@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 9/2002
-official_date: null
+official_date: '2002-01-22'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: I.S.P. - INSTITUTO DE SEGUROS DE PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,105 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:04:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9883](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9883).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 232/01
+Autorização n.° 9/2002
+O Fundo de Garantia Automóvel dirigiu-se à CNPD solicitando informações relativas a António Baptista dos Anjos, constantes da Base de Dados. do
+Recenseamento Eleitoral (BDRE).
+A CNPD pronunciou-se recentemente acerca do acesso aos dados pessoais constantes da BDRE no Parecer n.° 22 /2001.
+A questão está em saber se deve ser permitida a comunicação a terceiros dos dados constantes da BDRE, vindo estes, consequentemente, a ser utilizados para fins não determinantes da recolha, admitindo-se um desvio da finalidade'.
+Ao exercício do direito de sufrágio previsto no art. 113.º° CRP é indispensável a existência de um recenseamento eleitoral, também constitucionalmente previsto. A Lei n.º 13/99, de 22 de Março, regula actualmente o recenseamento eleitoral e a respectiva
+BDRE, que contém dados pessoais dos cidadãos eleitores.
+Contudo, o art. 35.° da Constituição da República Portuguesa (CRP), relativo à «utilização da informática», estabelece no seu n.º 4 que «É proibido o acesso a dados pessoais de terceiros, salvo em casos excepcionais previstos na lei»'. O n.º 1 do mesmo artigo concede ao cidadão o direito de conhecer a finalidade a que os dados se destinam.
+' Estudando a questão na perspectiva da Lei anterior e analisando a perspectiva do Parecer do Conselho
+Consultivo da PGR n.º 23/95, publicado no Vol. VII, p. 423 ss., pode consultar-se: GARCIA
+MARQUES/LOURENÇO MARTINS, Direito da Informática, Almedina, Coimbra, p. 240 ss..
+2 Note-se que, como assinalou o Tribunal Constitucional, não resulta desta disposição constitucional qualquer obrigatoriedade de criação de excepções legais. Aliás, não foi esta parte da disposição que determinou o entendimento de inconstitucionalidade por omissão do TC relativa ao art. 35.º CRP. No
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O n.º 1 do mesmo art. 35.° da Constituição da República Portuguesa, a
+Convenção 108 do Conselho da Europa', a Directiva 46/95/CE* e a Lei n.º 67/98, de 26 de Outubro', definiram um princípio geral a ter em conta na solução destas questões: o princípio da finalidade®.
+O mesmo «princípio da especificação das finalidades e da limitação da sua utilização» constava já da Recomendação da O.C.D.E. de 23 de
+Setembro de 1980.
+Nestes casos em que um terceiro solicita informação acerca da morada de um indivíduo constante da Base de Dados do Recenseamento Eleitoral (BDRE) são, como se verifica, claramente diferentes da finalidade da recolha dessa informação para organização do recenseamento, e as finalidades que se pretende prosseguir com a comunicação dos dados constantes da BDRE.
+Acórdão n.º 182/89, de 1 de Fevereiro de 1989, o Tribunal Constitucional entendeu «dar por verificado o não cumprimento da Constituição por omissão da medida legislativa prevista no n.º 4 do seu art. 35.°, necessária para tornar exequível a garantia constante do n.º 2 do mesmo artigo», i.e., «proibindo o n.º 2 do art. 35.° da Constituição, o acesso de terceiros a ficheiros com dados excepcionais previstos na lei e, remetendo o n.º 4 para a lei a definição do conceito de dados pessoais, é evidente a necessidade de mediação legislativa ou "interpositio legislatoris", expressa no n.° 4, para definir o conceito de dados pessoais, a fim de tornar plenamente exequível a garantia constante do n.° 2».
+' A imposição da adequação e da pertinência do tratamento de dados à finalidade que o determinou e ideia de que os dados pessoais apenas podem ser tratados com respeito pela finalidade determinante da recolha consta do art. 5.° alínea b) e c) da Convenção. Resolução da Assembleia da República n.° 23/93, de 12 de Maio e Decreto do Presidente da República n.° 21/93, de 21 de Junho (publicado no DR-I A, n.° 159, de 9 de Julho. Também a Recomendação (91) 10 do Conselho da Europa sobre a comunicação a terceiros de dados de carácter pessoal detidos pelas Administrações Públicas estabelece como limite fundamental dessa comunicação não vir a ser utilizada para fins incompatíveis com aqueles para os quais eles foram inicialmente recolhidos.
+4 Art. 6.° n.° 1 alínea b): os dados serão «recolhidos para finalidades determinadas, explícitas e legítimas, e que não serão posteriormente tratados de forma incompatível com essas finalidades».
+$ Art. 5 ° n.° 1 alínea b): os dados devem ser «recolhidos para finalidades determinadas, explícitas e legítimas, não podendo ser posteriormente tratados de forma incompatível com essas finalidades».
+• O princípio da finalidade é um dos princípios constitucional e legalmente estabelecidos para assegurar o respeito pelo direito à autodeterminação informativa (Recht auf informationelle Selbstbestimmung) a que pela primeira vez se referiu a sentença do Tribunal Constitucional Federal Alemão de 15 de Dezembro de 1983, entendido como parte do direito de personalidade que também abarca genericamente a possibilidade de cada indivíduo decidir por si mesmo o que pretende revelar acerca da sua vida privada.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+3
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A comunicação de dados pessoais relativos ao recenseamento a terceiros é desde logo regulada pelas disposições da Lei de Protecção de Dados Pessoais e da Lei do recenseamento eleitoral, que determinam:
+que cabe ao STAPE comunicar os dados, e não à CNPD (art. 16.° n.° 2 da Lei do recenseamento eleitoral);
+que existe a efectiva possibilidade dessas comunicações acontecerem a favor de entidades administrativas públicas (forças e serviços de segurança ou serviços e organismos da Administração Pública e da
+Administração Local), desde que devidamente identificados e para prossecução das respectivas atribuições (corpo do art. 16.° n.º 1), com base em obrigação ou autorização legal, ou com base em autorização da
+CNPD, e desde que os dados sejam indispensáveis ao destinatário para cumprimento das atribuições dos serviços requisitantes (art. 16.° n.° 1 alínea a);
+que a utilização de dados para finalidades não determinantes da recolha, incluindo a sua comunicação a favor de entidades privadas/pessoas singulares, ou entidades não administrativas, pode acontecer desde que exista uma autorização da CNPD (art. 23.° n.º 1 alínea d) e art. 28.° n.° 1 alínea d) da Lei da Protecção de Dados Pessoais) ou autorização legal.
+Esta autorização da CNPD será sempre excepcional, e decidida caso a caso pela Comissão.
+Como se referiu, a Lei que regula o tratamento de dados pessoais é a Lei da
+Protecção de Dados (Lei n.º 67/98, de 26 de Outubro). As suas disposições, juntamente com as estabelecidas pela Lei do recenseamento eleitoral, definem o acesso aos dados pessoais pelo respectivo titular e a sua comunicação a terceiro. O sentido de «terceiro»
+foi clarificado pela Lei n.º 67/98, no seguimento da transposição da Directiva 46/95/ÇE:
+«terceiro» é a pessoa singular ou colectiva, a autoridade pública, o serviço ou qualquer outro organismo que, não sendo o titular dos dados, o responsável pelo tratamento, o
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS subcontratante ou outra pessoa sob autoridade directa do responsável pelo tratamento ou do subcontratante, esteja habilitado a tratar os dados?.
+Relativamente à comunicação de dados a entidades administrativas, o próprio art. 16.° da Lei do recenseamento eleitoral prevê a possibilidade de existência de obrigações ou autorizações legais que podem determinar, se preenchidos os restantes requisitos, a possibilidade de comunicação de dados a terceiros. Note-se, todavia, que também aqui a falta de obrigação ou autorização legal pode ser suprida por autorização da CNPD (art. 16.° n.º 1 alínea a).
+Não poderá argumentar-se que todos os dados pessoais a que se pretende aceder sejam informações livremente consultáveis, por constarem dos cadernos eleitorais, sujeitos a exposição pública (art. 56.° e 57°), ou que deles podem ser extraídas certidões, nos termos do art. 68.° da Lei do recenseamento eleitoral.
+Na realidade, a informação constante dos cadernos eleitorais é muito mais restrita, excluindo, desde logo, o endereço, a data de nascimento, ou naturalidade, embora possibilitando, todavia, o conhecimento da freguesia ou distrito consular e país de recenseamento, bem como o nome e número de inscrição do titular®
+Por outro lado, as certidões atestam o recenseamento eleitoral, e não quaisquer outros dados constantes do recenseamento.
+Assim, poderá ser dado conhecimento da inscrição de um indivíduo no recenseamento eleitoral (o que, em certos casos,.. atesta a residência, embora não determine a morada), mas não de todos os dados dele constantes.
+' O Conselho Consultivo da PGR também se pronunciou sobre a noção de terceiro, antes mesmo da nova
+Lei. Estabelecia-se que «a noção de terceiros, para os fins da previsão constante do preceito (art. 35.°
+CRP), deve abranger todos as pessoas que não sejam o(s) titular(es) dos dados pessoais em apreço, apenas não abrangendo o pessoal informático que constitui o "staff" do suporte organizacional dos ficheiros, enquanto (e na medida em que) tenha funções de acesso, indispensável à organização e exploração desses ficheiros, bancos ou bases de dados». Parecer n.º 23/95, publicado no Vol. VII dos Pareceres da PGR, p.
+423 ss., e Parecer n.° 95/87, publicado no DR II, n.° 289, de 17 de Dezembro de 1990.
+8 Por outro tado, saliente-se que mesmo o tratamento de dados pessoais recolhido junto de fonte pública terá de respeitar as disposições de protecção de dados.
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS condições, ficando sub-rogado nos direitos do lesado, após a satisfação da indemnização ao lesado. O dado solicitado é indispensável ao Fundo de Garantia Automóvel para cumprimento das suas competências próprias, considerando a CNPD justificada e necessária a comunicação da informação relativa à morada de um cidadão que desobedecendo às normas que regem o seguro obrigatório não transferiu a responsabilidade por acidente de viação para uma companhia de seguros.
+Por outro lado, a comunicação pode ser enquadrada no âmbito do art. 6.° alínea e) da Lei da Protecção de Dados, justificando-se porque enquadrada na «prossecução de interesses legítimos do responsável pelo tratamento ou de terceiro a quem os dados são comunicados, desde que não devam prevalecer os interesses ou os direitos, liberdades e garantias dos titulares dos dados».
+Nestes termos, e seguindo de perto o estabelecido no mencionado Parecer, a
+CNPD autoriza a comunicação da morada solicitada pelo Fundo de Garantia
+Automóvel.
+Junte-se cópia do Parecer n.º 22/2001 da CNPD.
+Lisboa, 22 de Janeiro de 2002
+Atainformentelasto
+Catarina Sarmento e Castro (relatora)
+heS
+Alexandre Pinheiro
+Luís Durão Barroso
+Varges Gomes
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Auaden
+Amadeu Francisco Ribeiro Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

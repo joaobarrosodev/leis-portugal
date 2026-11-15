@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Cruz Vermelha Portuguesa'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:05:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 8/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40155](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40155).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 8265/2010
+REGISTO N.º08 /2012
+A Cruz Vermelha Portuguesa, Delegação de Lisboa notificou um tratamento de dados pessoais com a finalidade de gestão de alunos e professores.
+Declarou registar os seguintes dados: nome, data de nascimento, BI, estado civil, morada, naturalidade, telefone, telemóvel e e-mail.
+Com os dados declarados a CNPD teve dúvidas sobre se era atingida a finalidade, uma vez que a mera listagem de dados de identificação e contactos não parece ser suficiente para a gestão quer de alunos, quer de professores.
+O responsável veio confirmar a finalidade e os dados tratados.
+Admite-se que o tratamento de dados em análise tenha apenas como objetivo uma listagem de identificação e contactos dos alunos, não se incluindo (conforme confirmação reiterada)
+quaisquer outros dados, designadamente dados relativos à atividade escolar dos alunos e protessores.
+Neste pressuposto consideram-se os dados recolhidos pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade é o cumprimento de obrigação legal previsto na al. b) do artigo 6° da LPD.
+Assim, regista-se nos termos dos artigos 27.° n.º 1 e 30.° n.º 1° da Lei 67/98, de 26 de Outubro nos seguintes termos:
+Responsável
+Cruz Vermelha Portuguesa, Delegação de Lisboa
+Gestão de alunos e professores
+Finalidade nome, data de nascimento, BI, estado civil,
+Categoria de dados pessoais tratados morada, naturalidade, telefone, telemóvel e e-mail..
+Forma de exercício do direito de acesso e de rectificação
+Por escrito ou pessoalmente ao responsável.
+Comunicações de Dados
+Interconexões
+Não há
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados
+Até ao fim da frequência, sem prejuízo da conservação da informação para fins de arquivo histórico
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda Lei n.° 67/98, de 26 de Outubro.
+Lisboa, 2/1/2012
+A Secretária da CNPD, eLs (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

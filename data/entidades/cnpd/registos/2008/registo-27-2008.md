@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 27/2008
-official_date: null
+official_date: '2008-02-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SECRETARIADO NACIONAL PARA A REABILIT. E INTEGRAÇÃO DAS PESSOAS C/ DEFICIÊNCIAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 27/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1055](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1055).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 883/04
+Registo n. ° 2 7/08
+O Secretariado Nacional para a Reabilitação e Integração das Pessoas com
+Deficiências notificou um tratamento de dados pessoais com a finalidade de gestão do atendimento personalizado dos utentes.
+O objectivo é adoptar medidas que possibilitem o atendimento qualificado dos titulares e a criação de condições de acessibilidade que permitam a estes cidadãos a exercer plenamente o seu direito à cidadania. Com este objectivo foram assinados protocolos com os municípios de Braga, Trofa, Alijó, Beja, Portalegre, Lousã e Alportel.
+Declara as seguintes categorias de dados pessoais: Nome, data de nascimento, idade, género, tipo de deficiência e subdeficiência, grau de incapacidade, sistema de protecção social, n° de beneficiário (facultativo), habilitações, morada, telefone, fax e e-mail.
+Os dados são recolhidos pessoalmente, pelo telefone e na Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do responsável.
+Quanto ao prazo máximo de conservação dos dados, atenta a finalidade e o disposto na alínea e) do n.° 1 do art. 5° da LPD, fixa-se em 5 anos. As análises estatísticas deverão ser efectuadas com dados agregados, sem identificação do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável - Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiências
+Categoria de dados pessoais tratados - Nome, data de nascimento, idade, género, tipo de deficiência e subdeficiência, grau de incapacidade, sistema de protecção social, n° de beneficiário (facultativo), habilitações, morada, telefone, fax e e-mail.
+Finalidade - gestão do atendimento personalizado dos utentes.
+Forma de exercício do direito de acesso e rectificação - por solicitação pessoal, telefónica ou escrita junto do responsável;
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei n.° 67/98.
+Lisboa, 4 de Fevereiro de 2008
+Secretária da CNPD stalse
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

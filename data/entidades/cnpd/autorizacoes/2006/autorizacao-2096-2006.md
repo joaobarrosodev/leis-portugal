@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ISU - INSTITUTO DE SOLIDARIEDADE E COOPERAÇÃO UNIVERSITÁRIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:42:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2096/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/695](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/695).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 1263/07
+Autorização n. 2056/07
+O ISU - Instituto de Solidariedade e Cooperação Universitária, solicitou junto da CNPD autorização para um tratamento de dados pessoais, com a finalidade de proceder à "gestão de percursos de inserção concebida no âmbito do projecto E-re@I, financiado pela iniciativa comunitária equal".
+A plataforma digital é descrita como um dispositivo de informação e um sistema de gestão de percursos de orientação e inserção social e gere percursos de acompanhamento de situações para a inserção.
+São recolhidas as seguintes categorias de dados pessoais
+- Relativas aos candidatos: Nome, morada, telefone, e-mail, sexo, filiação, data de nascimento, habilitações e experiência profissional;
+- Relativas a entidades empregadoras: Denominação, nome de pessoa de contacto, telefone, e-mail.
+- Histórico do atendimento;
+- Histórico de seguimento pelas etapas de orientação e de inserção.
+A entidade requerente veio ainda esclarecer a CNPD acerca da disponibilidade exclusiva do registo de diagnóstico dos utentes para os técnicos do serviço, sendo sempre executados em função da empregabilidade.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do artigo 7°, n° 2, da LPD, o consentimento do titular. Em face do exposto, a CNPD autoriza o tratamento relativo aos registos à gestão dos registos dos utentes ISU -
+Instituto de Solidariedade e Cooperação Universitária, nos termos do artigo 30.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável - ISU - Instituto de Solidariedade e Cooperação
+Universitária
+Categoria de dados pessoais tratados -
+- Relativas aos candidatos: Nome, morada, telefone, e-mail, sexo, data de nascimento, habilitações e experiência profissional
+- Relativas a entidades empregadoras: Denominação, nome de pessoa de contacto, telefone, e-mail.
+Finalidade - gestão de plataforma digital
+Forma de exercício do direito de acesso e rectificação - Por acesso directo ao portal e solicitação ao responsável;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Tempo de conservação dos dados - 6 meses após a conclusão do acompanhamento.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10. Tendo em conta a finalidade do tratamento e o direito de informação prestado aos candidatos a emprego, o acesso das entidades empregadoras a quaisquer dados terá de depender do consentimento informado dos titulares, para os quais deve ser claro que será dado o acesso ao portal àquelas entidades e qual a finalidade do acesso concedido.
+Não se autoriza o tratamento de dados relativos a hábitos, designadamente o consumo de álcool, café ou tabaco, ainda que estes tenham sido fornecidos pelo respectivo titular no currículo. Não se autoriza, também, a recolha de dados de saúde, dados relativos à família e dados sobre os hábitos pessoais.
+As informações recolhidas devem limitar-se às questões que incidam sobre as qualificações e a experiência profissional dos interessados.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 2 2 Outubro de 2007 lea
+Ana Roque (relatora)
+Carbo Campos LObo
+Luís Barroso
+онило
+Eduardo Campos
+Helena Delgado António costlacida
+Vasco Almeida ces
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

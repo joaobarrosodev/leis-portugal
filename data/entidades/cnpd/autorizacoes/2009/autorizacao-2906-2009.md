@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2906/2009
-official_date: null
+official_date: '2009-07-13'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SCHERING - PLOUGH FARMA, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:50:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2906/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17623](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17623).
+1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 4390/2009
+AUTORIZAÇÃO N. ° 2906/09
+Schering - Plough Farma, Ida notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com medicamentos de uso humano no tratamento em doentes com Osteossarcoma ou Sarcoma de Ewing (Protocolo
+P04720).
+Trata-se de um «ensaio clínico de fase Ila, multicêntrico e aleatorizado, cujo objectivo principal é avaliar a resposta na proliferação tumoral após a administração de SCH717454 a doentes com Osteossarcoma ou sarcoma de Ewing».
+«Serão seleccionados para o estudo, em Portugal, cerca de 14 doentes com pelo menos 4 anos de idade, com diagnóstico de Osteossarcoma ou Doença de Ewing».
+O ensaio será realizado no Instituto Português de Oncologia em Lisboa Francisco Gentil Martins EPE e no Instituto
+Português de Oncologia do Porto.
+As categorias de dados recolhidos são as seguintes: N.' do participante do estudo, ano e mês de nascimento, sexo, raça, história clínica e dados recolhidos ao longo do estudo (medicação, resultados de meios complementares de diagnóstico e terapêutica, amostras (tais como sangue e urina) e nome do investigador.
+Refira-se que a recolha do dado raça prende-se com o facto de «diferenças na resposta a diversos fármacos têm sido observadas em populações de origem racial e étnica distintas».
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS «Refira-se, a título de exemplo, que os caucasianos apresentam, no geral, menores níveis do complexo enzimático (...), o qual desempenha um importante papel na metabolização de vários fármacos de diferentes classes terapêuticas, como os anti-depressivos, antipsicóticos e betabloqueadores».
+«Outros estudos mostraram que os indivíduos de raça negra respondem deficientemente a várias classes de anti-hipertensores (...)».
+«As diferenças raciais na estrutura e fisiologia da pele podem afectar a resposta à terapêutica dermatológica e tópica. Estudos clínicos demonstraram défices na resposta ao alfa-interferon, utilizado no tratamento da Hepatite C em indivíduos negros, quando comparados com outros subgrupos raciais».
+Sublinha-se que, por estarmos perante um ensaio clínico que envolve menores, deve ter-se em consideração o superior interesse da criança. Como tal deve ser «.obtido o consentimento livre e esclarecido do representante legal, o qual deve reflectir a vontade do menor», nos termos da alínea a) do artigo 7.°, da Lei 46/2004, de 19 de Agosto.
+De igual modo deve ser realizada audição do menor a partir dos 16 anos.
+O médico Investigador recolhe e processa as informações sobre o estado de saúde do doente em bases de dados em suporte informático.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Schering - Plough Farma, Ida.
+Finalidade: gestão do ensaio clínico com medicamentos de uso humano no tratamento em doentes com Osteossarcoma ou
+Sarcoma de Ewing (Protocolo P04720).
+Categoria de Dados Pessoais tratados: N.° do participante do estudo, ano e mês de nascimento, sexo, raça, história clínica e dados recolhidos ao longo do estudo (medicação, resultados de meios complementares de diagnóstico e terapêutica, amostras (tais como sangue e urina) e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação:
+Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo
+Rua de São Rento 148-3° • 1200-821 LISBOA 21 393 00 39
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS estabelecido no ponto 5-2 do Anexo I do DL 176/2006, 30 de
+Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+tornar os dados identificados, deve ser eliminado ou anonimizado, quer pelo médico investigador, quer pelo responsável pelo tratamento 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 13 de Julho de 2009
+Carlos Campos Lobo (Relator), Ana Roque, Helena Delgado
+António, Vasco Almeida, Luís Paiva de Andrade, Luís
+Barroso.
+Luís Lingnau da Silveira (Presidente)

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JANSSEN-CILAG FARMACÊUTICA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:25:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1511/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6685](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6685).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 3396/2008
+AUTORIZAÇÃO N. ° 1511/08
+A Jansen-Cilag, representação do Promotor Tibotec
+Pharmaceuticals, Ltd, notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com medicamentos de uso humano na gordura corporal e densidade mineral óssea, em doentes infectados pelo Vírus da Imunodeficiência Adquirida (SIDA).
+Trata-se de um «sub-estudo do TMC278-TiDP6-C209 para avaliar os efeitos a longo prazo da terapêutica de TMC278 (…) e da terapêutica com efavirenz na gordura corporal e densidade mineral óssea».
+Do estudo principal TMC278-TiDP6-C215 serão seleccionados 150 doentes para o referido sub-estudo que terá a duração de 2 anos.
+As categorias de dados recolhidos são as seguintes: n.' específico do estudo e iniciais do doente, data de nascimento, sexo, dados de saúde e nome do investigador.
+A entidade encarregue do processamento da informação é a
+Tibotec Pharmaceuticals, Ltd, sita na Irlanda.
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor será identificado com as suas iniciais e código
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS de números. Apenas o médico poderá relacionar este código ao seu nome
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Jansen-Cilag, em representação do Promotor Tibotec Pharmaceuticals, Ltd,
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Finalidade: gestão do ensaio clínico com medicamentos de uso humano na gordura corporal e densidade mineral óssea, em doentes infectados pelo Vírus da Imunodeficiência
+Adquirida (SIDA).
+Categoria de Dados Pessoais tratados: n.° específico do estudo e iniciais do doente, data de nascimento, sexo, dados de saúde e nome do investigador.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O código do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa,
+Ana
+Roque 1l Julto de 2008 (Relatora)
+carlos
+Campos,
+Luís Barroso
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Greeeel
+Helena Delgado António septlmeida
+Vasco Almeida
+Eduardo Campos destine
+Luís Lingnau da Silveira (Presidente)
+Com dentava de voto de remado prant ao fazo de crisena)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 135/2001
-official_date: null
+official_date: '2001-07-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SELECÇÕES DO READER''S DIGEST'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:05:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 135/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9986](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9986).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 5/94
+AUTORIZAÇÃO N. 135/2001
+A empresa Selecções do Reader's Digest (Portugal), SA veio notificar à Comissão
+Nacional de Protecção de Dados (CNPD) os tratamentos de gestão de Recursos
+Humanos, bem como solicitar a autorização para a transferência de dados pessoais para os Estados Unidos da América (EUA). Pretende-se a transmissão de dados para a sociedade The Reader's Digest Association, Inc.
+1. As categorias de dados tratados, que constam do ponto n.º 5 do formulário, são necessários e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98, de 26 de
+Outubro). Em declaração autónoma é obtido o consentimento para o tratamento de dados.
+Na comunicação de dados para os EUA as Selecções propõem-se obter o «consentimento dos titulares dos dados» e assegurar "um elevado nível de protecção", conforme resulta do anexo ao quadro 10.
+As Selecções juntaram o documento que é assinado pelos titulares dos dados do qual consta, nomeadamente, o seguinte: "mais declaro não me opor ao fluxo transfronteiras dos meus dados para a sociedade..."
+Ora, esta não é a fórmula adequada de obter um consentimento expresso uma vez que as expressões utilizadas correspondem a uma não oposição". Assim, a CNPD - porque as
+Selecções de propõem obter o consentimento dos titulares dos dados - entende que o texto deve, para esse efeito, ser alterado no sentido de os titulares «auforizarem o fluxo transfronteiras dos seus dados para a Sociedade"... Por isso, a declaração de consentimento (anexa ao quadro 8) deve ser convenientemente alterada.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 2. Nos termos do disposto no artigo 20.º e na alínea e) do n.º 1 do artigo 23.° da Lei de
+Protecção de Dados Pessoais, a transferência de dados pessoais para países terceiros carece de autorização da CNPD.
+Nos termos do artigo 20.º da Lei 67/98, de 26 de Outubro, a transferência de dados pessoais para os EUA pode ser permitida pela CNPD se o titular dos dados tiver nela consentido inequivocamente. Será esta a situação do caso sub judice, conforme resulta da informação e proposta formulada pelo responsável.
+3. A CNPD admite que a transferência se fundamente na gestão a nível mundial de recursos humanos das Selecções de molde a permitir a tomada de decisões empresariais e de negócios que garantam as oportunidades de desenvolvimento de todos os empregados do Grupo.
+Face a todo o exposto DELIBERA esta CNPD, nos termos do disposto no n.º 1 do artigo 20.º da Lei n.º 67/98, de 26 de Outubro, Autorizar o tratamento de dados pessoais, bem como a sua transmissão para os EUA, desde que o formulário seja reformulado nos termos acima referidos.
+Lisboa, 10 de Julho de 2001
+Luís Durão Barroso (Relator)
+Amadeu Guerra
+Catacinafumente@natios
+Catarina Castro
+Mario Varges Gomes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

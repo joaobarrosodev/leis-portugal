@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 26/2000
-official_date: null
+official_date: '2000-05-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SCHERING - PLOUGH FARMA, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:09:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 26/2000
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10387](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10387).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 200/99
+AUTORIZAÇÃO N.°26/2000
+A Schering- Plough Farma, Lda vem solicitar autorização para o fluxo de dados pessoais para os Estados Unidos da América.
+1. Os dados que estão em causa referem-se à identificação pessoal, data da contratação, função e nível salarial.
+O tratamento notificado «destina-se à recolha de dados autorizados pelos empregados com a finalidade de lhes serem atribuídas opções para compra de acções da
+Companhia».
+Verifica-se que os empregados são informados da finalidade da recolha, dão um consentimento informado - através de assinatura de documento - o qual pode ser retirado a qualquer momento. A empresa compromete-se, ainda, a tomar medidas de segurança que impeçam o acesso a terceiros não autorizados, assegura o direito de acesso, correcção e rectificação aos titulares dos dados, estando estabelecida a metodologia para assegurar esse direito de acesso e correcção.
+2. Conforme se refere na Autorização n.º 1/99 de 28 de Janeiro, «os EUA - como é reconhecido a nível da União Europeia - não têm ainda um nível adequado de protecção de dados, nos termos do artigo 19.º da Lei 67/98, de 26 de Outubro».
+Em face do texto inscrito no impresso de recolha de dados verifica-se que há um «consentimento» dos titulares dos dados, o qual pode ser retirado em qualquer altura.
+Por isso, o fluxo transfronteiras enquadra-se no âmbito do corpo do art. 20.º n.º 1 da
+Lei n.° 67/98.
+A CNPD considera que o fluxo é feito no âmbito de uma finalidade determinada e legítima.
+É assegurado, nos termos legais, o direito de informação, acesso e correcção.
+São adoptadas medidas de segurança (password de acesso às informações registadas, sistemas de processamento de backup e acesso restrito de pessoas).
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Entende a CNPD que a Schering não poderá utilizar estes dados para os facultar a terceiros - nos EUA - para finalidades diversas das declaradas, nomeadamente para efeitos de mala directa.
+Nestes termos, a CNPD autoriza - ao abrigo do artigo 20.° n.º 1 da Lei 67/98 de 26/10 - a comunicação de dados da Schering- Plough Farma, Ldª para a Schering -
+Plough Corporation (EUA) e, em consequência, o fluxo de dados para os EUA -
+Kenilworth, New Jersey.
+Lisboa, 9 de Maio de 2000
+Catanafarmente Castos
+Catarina Castro
+Paula Veiga
+Paratura anela cain andara
+Luís Barroso
+João Paulo Simões de Almeida
+Mário Varges Gomes
+João Labescat (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FACULDADE DE FARMÁCIA DA UNIVERSIDADE DE COIMBRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:07:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1916/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1219](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1219).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 3215/07 19/6
+AUTORIZAÇÃO N.° 12007
+A Faculdade de Farmácia da Universidade de Coimbra veio notificar o tratamento relativo à gestão de processo clínico de utentes do seu Laboratório de Análises Clínicas, organizado segundo duas vertentes distintas: recolha de dados identificativos do Utente do Laboratório facultados voluntariamente pelo próprio para efeitos de registo de contacto; e recolha e tratamento de dados clínicos do Utente.
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto, dados referentes ao sub-sistema de saúde e dados clínicos, conforme documento Anexo.
+2. De acordo com a informação constante do quadro 11 afigura-se que foram adoptadas cautelas em matéria de medidas de segurança. O acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password». Existe ainda um acesso restrito de pessoas.
+3. Os titulares dos dados dão o seu consentimento informado, em campo próprio do formulário de recolha de dados.
+Considera-se legítimo o tratamento nos termos do artigo 7.°, n.º 2, da Lei 67/98, de 26 de Outubro.
+4. Admite-se que os dados médicos sejam de acesso a funcionários administrativos ou de enfermagem desde que esse processamento seja realizado sob ordem e supervisão do médico encarregado de prestar os cuidados de saúde ao doente, titular dos dados (cf. art. 7.° n.º 4 da Lei 67/98).
+Quando forem utilizados dados para investigação bio-médica, estes deverão ser previamente anonimizados, nos termos da lei (cfr. Lei n° 12/2005).
+Em face do exposto, autoriza-se o tratamento de dados por parte do
+Requerente (cf. artigo 27.° e 28.° da Lei 67/98) consignando-se, nos termos do artigo 30.°, o seguinte:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1. Responsável: Faculdade de Farmácia da Universidade de Coimbra 2. Categorias de dados pessoais tratados: identificação do doente, dados clínicos, n° de beneficiário e sub-sistemas de saúde.
+3. Finalidade: gestão de processo clínico de utentes do Laboratório de
+Análises Clínicas.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação do utente junto do Laboratório de Análises Clínicas.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação: Os dados de identificação são conservados por 2 anos; os dados clínicos são conservados por 6 meses.
+Lisboa, 08 dOut bode 2007.
+el
+Ana Roque (relatora)
+Carlos
+Luís Barroso
+Helena Delgado António
+Eduardo Campos
+Vareflameda
+Vasco Almeida
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt q
+
+D
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

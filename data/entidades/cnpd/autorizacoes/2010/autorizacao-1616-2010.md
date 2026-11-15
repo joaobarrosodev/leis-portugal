@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOÃO NUNO GONÇALVES RIBEIRO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:36:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1616/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22809](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22809).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 1828/2010
+AUTORIZAÇÃO N.° (6/612010
+João Nuno Gonçalves Ribeiro, no âmbito da sua Tese de Mestrado, notificou à CNPD um tratamento de dados pessoais com a finalidade de realizar um estudo para avaliar o perfil psicomotor de crianças e o seu relacionamento com o seu desempenho escolar.
+Serão incluídos no estudo os alunos do Agrupamento de Escolas Pêro da Covilhã, que realizarão uma bateria psicomotora de testes com duração aproximadamente de duas horas.
+A recolha de dados nominativos prende-se com a necessidade de posterior comparação do desempenho psicomotor com o aproveitamento escolar.
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida a confidencialidade e anonimato no tratamento.
+O tratamento de dados pessoais está na disponibilidade dos seus titulares, ou dos seus representantes legais no caso de serem menores, apenas a estes cabendo decidir se pretendem prestar as informações em causa e autorizar a recolha de informação para a finalidade pretendida.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso dos titulares dos dados. Porque haverá recolha de dados de menores, terá de haver consentimento a prestar pelos legais representantes. Impõe-se, ainda, que a criança seja ouvida e em função da idade, nos termos
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS da lei, interpretada à luz da Convenção Internacional dos Direitos da Criança, ela própria preste a sua anuência à recolha de dados pessoais para participação no estudo.
+Assim, nos termos da alínea d) do n.º1 do artigo 28° da Lei 67/98, com as condições e limites aqui fixados, e ainda com a condição aqui fixada, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: João Nuno Gonçalves Ribeiro
+Finalidade: estudo para avaliar o perfil psicomotor de crianças e o seu relacionamento com o seu desempenho escolar.
+Categoria de Dados pessoais tratados: nome, sexo, data de nascimento, data da observação, bateria psicomotora (tonicidade, equilibração, lateralização, noção do corpo, estruturação espácio-temporal, praxia global e praxia fina) e aproveitamento escolar.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do responsável.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: os dados pessoais devem ser destruídos um mês após a arguição da tese.
+Dos termos e condições fixados na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa,
+-de Abril de 2010
+Ana Roque, Luís Paiva de Andrade (Relator), Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Cas dege
+Luís Lingnau da Silveira (Presidente)

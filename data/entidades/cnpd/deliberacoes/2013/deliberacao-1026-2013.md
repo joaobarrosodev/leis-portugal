@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1026/2013
-official_date: null
+official_date: '2013-07-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: POLÍCIA JUDICIÁRIA - GABINETE DO DIRECTOR NACIONAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:51:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 1026/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55671](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/55671).
+Processo n.º 6969/2013
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Deliberação n./026 12013
+A Polícia Judiciária (PJ) veio solicitar à CNPD que se pronunciasse sobre o prazo de conservação adequado dos registos de auditoria (logs) que são gerados sempre que um utilizador acede ao sistema de informação, permitindo rastrear a sua atividade.
+O Decreto-Lei n.º 352/99, de 3 de setembro, que regula as bases de dados da PJ, e prevê, no seu artigo 12.°, garantias de segurança da informação, não impõe um prazo para a conservação destes registos. Por outro lado, a Lei n.° 67/98, de 26 de outubro,
+- Lei de Proteção de Dados (LPD), dispõe para os ficheiros policiais' a obrigatoriedade de adoção de medidas especiais de segurança que permitam, designadamente, controlar o acesso e a utilização dos dados pessoais, bem como garantir que seja possível «verificar-se a posteriori, em prazo adequado à natureza do tratamento (...), quais os dados pessoais introduzidos quando e por quem» (cf. alínea g) do artigo 15.°).
+Contendo os logs dados pessoais, compete à CNPD, nos termos da alínea f) do n.º 1 do artigo 23.º da,LPD, fixar o prazo para a conservação destes registos, «em função da sua finalidade» e atendendo à «natureza do tratamento».
+Os registos efetuados pela PJ têm por finalidade permitir auditar várias vertentes da utilização do sistema de informação (nomeadamente, acesso, consulta, introdução de dados, alteração, cópia, transmissão ou apagamento), rastreando a atividade dos utilizadores (quem, quando, o quê) para verificação da sua conformidade com as exigências legais.
+4 Por referência feita no n.º 1 do artigo 15.º aos tratamentos de dados referidos no n.º 1 do artigo 8.º da
+LPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 6969/2013
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Estes logs são indispensáveis quer para a realização de auditorias internas, com vista à eventual deteção de irregularidades, e elaboração dos respetivos relatórios de análise periódicos, quer para fins mais vastos de fiscalização por parte da CNPD.
+O número considerável de utilizadores da PJ, assim como um nível intenso de utilização das bases de dados, consentâneo com a atividade policial desenvolvida, geram um elevado número de logs, cuja auditoria efetiva será difícil com prazos muito curtos de conservação.
+Por outro lado, observando os prazos máximos de conservação dos dados pessoais nas bases de dados da PJ, previstos na lei, verifica-se haver uma grande disparidade, na ordem das dezenas de anos, o que aconselha a encontrar um certo equilíbrio com o prazo de conservação dos logs para efeitos de controlo da qualidade dos dados.
+Acresce ainda que o tratamento de dados policiais assume uma especial sensibilidade pelo forte impacto que pode ter nos direitos, liberdades e garantias dos cidadãos. Nessa medida, impõe-se o estabelecimento de um período de conservação dos logs suficiente para permitir uma verificação mais extensiva da utilização das bases de dados em conformidade com os requisitos legais.
+Deste modo, considerando a finalidade dos logs de auditoria e a natureza dos tratamentos de dados realizados pela PJ, entende a CNPD que o prazo de conservação adequado dos registos de auditoria deve ser de cinco (5) anos.
+Lisboa, 16 de julho de 2013
+Luís Barroso (relator), Ana Roque, Carlos Campos Lobo, Helena Delgado António,
+Luís Paiva de Andrade e Vasco Almeida na
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

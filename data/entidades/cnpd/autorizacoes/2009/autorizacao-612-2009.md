@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GENZYME PORTUGAL, S.A. ( EX: ENZIFARMA DIAGNÓSTICA E FARMACÊUTICA ,S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,75 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:29:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 612/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14477](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14477).
+1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 7260/2008
+AUTORIZAÇÃO N. ° 612/09
+Genzyme Portugal, em representação do Promotor Genzyme
+Corporation, notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes pediátricos do sexo masculino com doença de Fabry. (Protocolo AGAL06207).
+Trata-se de um ensaio clínico «„de fase 3B, multinacional, multicêntrico, aleatorizado...» que tem como objectivo avaliar «.o efeito de Fabrazyme na redução da acumulação de gordura (...) na pele, plasma e urina bem como analisará se
+Fabrazyme pode prevenir sintomas clínicos da doença de
+Fabry. A finalidade deste estudo é avaliar 2 regimes de doses baixas de Fabrazyme…».
+São critérios de inclusão para este estudo 24 doentes com idades compreendidas entre os 5 e os 18 anos.
+Sublinha-se que, por estarmos perante um ensaio clínico que envolve menores, deve ter-se em consideração o superior interesse da criança. Como tal deve ser «obtido o consentimento livre e esclarecido do representante legal, o qual deve reflectir a vontade do menor», nos termos da alínea a) do artigo 7.°, da Lei 46/2004, de 19 de Agosto.
+De igual modo deve ser realizada audição do menor a partir dos 16 anos.
+As categorias de dados recolhidos são as seguintes: n.° específico do estudo e iniciais do doente, data de nascimento, sexo, raça, história clínica, exames físicos,
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS amostras de sangue, E.C.G., electrocardiograma, questionários sobre a qualidade de vida e nome do investigador.
+Refira-se que a se procede, neste estudo, à recolha do dado raça «„para que se possa proceder a uma análise de subgrupos, sendo para este efeito considerada necessária a recolha de dados de raça, como parte desta variável».
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+• fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.º333/07 o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Genzyme Portugal, em representação do Promotor Genzyme Corporation.
+Finalidade: gestão do ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes pediátricos do sexo masculino com doença de
+Fabry. (Protocolo AGAL06207).
+Categoria de Dados Pessoais tratados: n.' específico do estudo e iniciais do doente, data de nascimento, sexo, raça, história clínica, exames físicos, amostras de sangue,
+E.C.G., electrocardiograma, questionários sobre a qualidade de vida e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: O código de doente, porque permite tornar os dados identificados, deve ser eliminado ou anonimizado, quer pelo médico investigador, quer pelo responsável pelo tratamento 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, d9 de feverelo de 2009
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Luís Paiva de Andrade (Relator), Luís Barroso, Ana Roque,
+Helena Delgado António, Vasco Almeida re
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

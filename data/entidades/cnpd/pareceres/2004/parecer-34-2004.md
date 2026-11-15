@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 34/2004
-official_date: null
+official_date: '2004-09-11'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO MINISTRO ADJUNTO DO PRIMEIRO-MINISTRO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:25:12Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 34/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5925](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5925).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.® n.° 2178/1096/04
+Parecer n. °34/2004
+O Governo, através do Ministro Adjunto do Primeiro-Ministro solicita à Comissão
+Nacional de Protecção de dados (CNPD) parecer relativamente a um projecto que aprova a lei orgânica do Instituto Nacional do Consumidor (INIC).
+O texto objecto de análise é composto por 31 artigos e por um anexo que inclui os
+Estatutos do Instituto Nacional do Consumidor, IP, a aprovar por portaria conjunta dos
+Ministros das Finanças e da Tutela.
+Das normas previstas no projecto relevam no âmbito da competência da CNPD, não existem, em princípio, zonas de conflito de competências, veja-se assim, por exemplo, que: a) o INIC tem por fim a promoção da política de salvaguarda dos direitos dos consumidores, bem como a coordenação e execução das medidas tendentes à sua protecção, informação e educação e de apoio às organizações de consumidores (artigo 5.°, n.º 1); assegurar a articulação das entidades públicas ou privadas que desenvolvam actividades no âmbito da defesa e protecção dos direitos e interesses do consumidor (artigo 6.°, n.º 1, alínea e)); colaborar com outras entidades reguladoras nacionais e acompanhar as experiências estrangeiras de regulação em matérias relacionadas com as suas atribuições.
+Deste conjunto de normas não se perspectiva conflito com as disposições atributivas de competências à CNPD. Merece contudo uma referência o artigo 9.°, n.° 1, alínea h) que, em sede de procedimentos de regulação e sancionatórios remete para outros actos previstos na lei. Seria de toda a conveniência esclarecer o regime aplicável à publicidade domiciliária, por telefone e telecópia, prevista na Lei n.º 6/99, de 27 de
+Janeiro. Do ponto de vista da CNPD este o aspecto que merece esclarecimento no projecto ora apresentado.
+Lisboa, 11 de Setembro de 2004
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Enun
+Eduardo Campos
+Ana Luísa Geraldes
+Arden he
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

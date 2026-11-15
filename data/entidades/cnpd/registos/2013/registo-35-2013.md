@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 35/2013
-official_date: null
+official_date: '2013-04-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LEISURE DIMENSIONS LIMITED - SUCURSAL EM PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,30 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:01:46Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 35/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52852](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52852).
+Proc. n.9 5321/200g / 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+REGISTO n.º 35 /2013
+A Leisure Dimensions Limited - Sucursal em Portugal notificou um tratamento de dados pessoais com a finalidade de marketing.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1, al. a), da Lei n.º 67/98, de 26 de Outubro -LPD), para finalidades determinadas, explícitas e legítimas (cf. al. b)
+do mesmo artigo) e não excessiva.
+O fundamento de legitimidade é o consentimento inequívoco do responsável, previsto no artigo 6.° da LPD
+A responsável deve garantir ao titular dos dados as informações previstas no art.° 10° da LPD.
+Deve, ainda, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Em face do exposto, nos termos da alínea b) n.º 1 do artigo 23° e do n.º 1 do artigo 30.° da LPD, a CNPD regista o tratamento de dados pessoais consignando o seguinte:
+1. Responsável: Leisure Dimensions Limited - Sucursal em Portugal 2. Categorias de dados pessoais: Nome, morada, telefone, email, idade (intervalo), n.° de vezes por ano que faz férias, tipo de acomodação nas férias, n.º de pessoas que o acompanham, estado civil, 3. Finalidade: marketing 4. Entidades a quem podem ser transmitidos: Não aplicável 5 Acesso e Retificação: Por escrito para a morada do responsável 6. Eventuais interconexões: Não aplicável;
+8. Prazo máximo de conservação dos dados: 10 anos
+Lisboa, 3 de abril de 2013
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

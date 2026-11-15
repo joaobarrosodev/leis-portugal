@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ITMP ALIMENTAR, SA (EX-Regional Mercadorias, Sociedade Central de Aprovisionamen'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,69 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:08:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2026/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52281](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52281).
+Processo 12349/2011| 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃON 2026/2013
+RELATÓRIO
+Regional Mercadorias, Sociedade Central de Aprovisionamento S.A., com sede em Lugar do Marrujo, Bugalhos - Alcanena vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de clientes e marketing.
+A Requerente dedica-se à atividade de distribuição de mercadorias.
+Os dados pessoais objecto de recolha são os seguintes: Nome, morada, e-mail e telefone.
+Pretende-se também a realização de operações de marketing, nada se referindo sobre a possibilidade de o titular se opor ao tratamento dos seus dados para tal fim.
+Os dados são recolhidos junto do titular.
+Está assegurado o acesso, retificação e eliminação dos dados a requerimento do titular.
+Como fundamento de legitimidade a requerente invoca o consentimento dos titulares.
+Nada se diz quanto às medidas de segurança a adotar.
+Não há comunicação, interconexão ou fluxos transfronteiriços de dados.
+A requerente propõe-se conservar os dados por 10 anos.
+APRECIAÇÃO
+O tratamento de dados pessoais objeto de notificação visa uma finalidade determinada, explícita e legítima.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 12349/2011 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da Lei n° 67/98, de 26 de outubro), sendo a mesma adequada, pertinente e não excessiva.
+O fundamento de legitimidade em presença cabe na previsão da al.a) do artigo 6° do diploma que se vem citando.
+In casu, não se apontam quaisquer medidas de segurança a implementar pelo que, o responsável deve adotar medidas técnicas e organizativas adequadas a proteger os dados pessoais, as quais devem atestar um nível de segurança adequado em relação aos riscos que o tratamento apresenta e à natureza dos dados a proteger.
+Acresce que deverá ser garantido aos titulares dos dados o direito de os mesmos se oporem ao uso da sua informação para efeitos de marketing.
+DECISÃO
+Em face do exposto e observadas as condições assinaladas, a Comissão Nacional de
+Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 6° al.a), 27° e 30.° nº1 da Lei n.º 67/98, de 26.10, consignando-se o seguinte:
+Responsável do tratamento: Regional Mercadorias, Sociedade Central de
+Aprovisionamento S.A.;
+Finalidade: Gestão de clientes e marketing;
+Categorias de dados pessoais tratados: Nome, morada, e-mail e telefone;
+Forma de exercício do direito de acesso e retificação: Mediante pedido junto da
+Requerente;
+Comunicação, interconexão e transferência de dados: Não há
+Tempo de conservação dos dados: Durante o tempo de 10 (dez) anos.
+Lisboa, 12 de maço de 2013
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 12349/2011 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Carlos de Campos Lobo (relator), Ana Roque, Helena Delgado António, Luís Barroso,
+Luís Paiva de Andrade, Vasco Almeida
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

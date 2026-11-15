@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 7/2013
-official_date: null
+official_date: '2013-01-11'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Alltrain consultores, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:02:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 7/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50521](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/50521).
+Proc. n.º 16445/2011
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Registo n.°7 12013
+A Alltrain Consultores, Lda notificou à CNPD um tratamento com a finalidade de seleção de pessoal e recrutamento.
+Os dados pessoais que se pretende tratar para a finalidade declarada são: Nome, endereços, contactos, habilitações literárias, experiencia profissional, formação, competências e outros interesses.
+Os dados são recolhidos por impresso, pessoalmente, por telefone e no endereço www.alltrain.pt na Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98, de 26 de outubro - LPD).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento do titular
+Assim, regista-se, de acordo do n.º 1 do artigo 27° e n.º 1 do artigo 30° ambos da
+LPD, o tratamento, nos seguintes termos:
+Responsável - Alltrain Consultores, Lda
+Categoria de dados pessoais tratados - Nome, endereços, contactos, habilitações literárias, experiencia profissional, formação, competências e outros interesses.
+Finalidade - Seleção de pessoal e recrutamento
+Forma de exercício do direito de acesso e rectificação - Por solicitação pessoal ou por correio postal para Urbanização do Malheiro, Rua dos Pinheiros, 2 - 8500 331
+Portimão e ainda por correio eletrónico para info@alltrain.pt;
+Comunicações de dados - Não há;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados para países terceiros - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, incluindo o n.° 4 uma vez que há recolha de dados em rede aberta.
+Não se autoriza o tratamento de dados relativos a hábitos, designadamente o consumo de álcool, café ou tabaco, ainda que estes tenham sido fornecidos pelo
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.9 16445/2011 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS respectivo titular no currículo. Não se autoriza, também, a recolha de dados de saúde e dados relativos à família.
+Lisboa, 11 de janeiro de 2013
+A Secretária da CNPD sala sabel Cristina Cru
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

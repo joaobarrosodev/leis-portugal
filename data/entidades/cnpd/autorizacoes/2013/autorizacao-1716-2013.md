@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LEAL & LEAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:14:17Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1716/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52018](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52018).
+Proc. 5185/09 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 5185/09
+AUTORIZAÇÃO N.º 1 7/ 6 12013
+Leal & Leal, Lda. veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas na Estrada Nacional n.º 361, Rotunda de acesso ao IC1.
+Não existe Comissão de Trabalhadores.
+Pretende-se colocar 7 câmaras que abrangem as seguintes áreas: entrada e saída, loja e ilhas de abastecimento.
+Através da deliberação n.° 61/2004, de 19 de abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspetos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n.º 1, alínea c), da Lei 67/98, de 26 de outubro - LPD), condições de legitimidade (artigos 7.° e 8.°, n.º 2, da LPD), bem como as formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.°, n.° 1, alínea c), da LPD).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança.
+() Disponível in http://www.cnpd.pt/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 5185/09 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Considera-se, por isso, legítimo o tratamento - autorizando-se a recolha de dados (artigo 7.°, n.º 2, e 28.°, n.º 1, alínea a), da LPD) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Leal & Leal, Lda.
+2. Finalidade - Proteção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detetada a prática de infração penal, a entidade responsável pelo tratamento deve - com a respetiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização das imagens pelo responsável - Admite-se, excecionalmente, a visualização das imagens quando - não havendo qualquer infração penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da LPD.
+5. Direito de Informação - Deverão ser afixados, em locais bem visiveis, avisos que informem as pessoas sobre a gravação de imagem com os seguintes dizeres Para sua proteção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem».
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros.
+7. Quando estiverem em causa imagens que servem de prova em processo criminal -imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.°, n.º 2, da LPD (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+8. A recolha de imagens deve confinar-se ao perímetro da propriedade, não podendo as camaras incidir nas zonas limítrofes, propriedade de terceiros ou na via pública.
+9. As câmaras não devem estar direcionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 5185/09 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 10. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+11. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a atividade laboral (cf. artigo 20.° do Código do Trabalho).
+Lisboa, 26 FeveReino 2013
+Ana Roque, Carlos Lobo, Helena Delgado António, Vasco Almeida, Luís Paiva de
+Andrade (Relator)
+Luis Barroso (O Vogal que presidiu).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

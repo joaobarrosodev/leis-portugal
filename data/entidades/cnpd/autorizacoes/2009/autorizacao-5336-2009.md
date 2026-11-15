@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO BIC PORTUGUÊS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:09:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5336/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20381](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20381).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 8017/09 5336
+AUTORIZAÇÃO N.°
+/2009
+Banco BIC Português, SA notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transacções comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+A CNPD já se pronunciou na sua Deliberação n.º 922/2009' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.º 922/2009, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequivoco do titular (n.° 1 do artigo 4° da Lei n.° 41/2004, de 18 de Agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efectue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida ou do respectivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20º do Código de Trabalho, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.º 2, 28.° n.º 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Banco BIC Português, SA
+Finalidade
+Prova das transacções comerciais e quaisquer outras comunicações respeitantes à relação contratual
+Categoria de dados pessoais tratados
+Dados de tráfego e conteúdo das chamadas realizadas
+Forma de exercício dos direitos de acesso e rectificação
+Por solicitação escrita ao responsável
+Disponível em http://www.cnpd.pt/bin/decisoes/2009/htm/del/del_922_2009.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados 90 dias
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.º 67/98, de 26 de Outubro.
+Dos termos e condições fixados na Deliberação n.º 922/2009 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Esclarece-se que a presente Autorização não inclui a finalidade de gravação de chamadas no âmbito de call centers, que por constituir finalidade diferente carece de notificação autónoma.
+Lisboa, 23/11/09
+Ana Roque, Luís Barroso (Relator), Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade.
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1849/2009
-official_date: null
+official_date: '2009-05-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CONSULPED - CONSULTÓRIOS DE PEDIATRIA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:08:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1849/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15820](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15820).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 729/2006
+AUTORIZAÇÃO N° 84/2009 1) O Pedido
+A empresa Consulped - Consultórios de Pediatria, Lda, notificou um tratamento de dados pessoais com a finalidade de "obtenção de ficha clínica, actualizada ao longo das diferentes consultas".
+Os dados recolhidos são o nome, morada, telefone, sub-sistema de saúde, história clínica, queixas actuais, observação, diagnóstico, terapêutica.
+Como fundamento de legitimidade aponta-se o consentimento dos titulares dos dados.
+Prevê-se comunicação, em suporte papel, de dados a outros especialistas que acompanhem o doente.
+Não existem interconexões nem fluxos transfronteiras.
+Como medida de segurança refere-se o acesso restrito de pessoas.
+Propõe-se a conservação dos dados de pediatria até aos 18 anos e nas outras especialidades "segundo o critério do médico especialista".
+Como forma de exercício dos direitos de acesso e rectificação, prevê-se o contacto directo com o médico especialista ou o seu assistente.
+2) Apreciação
+Os dados são recolhidos para finalidades determinadas, explícitas e legítimas (art° 5°, n° 1, al b) da Lei n° 67/98, de 26 de Outubro).
+E revelam-se adequados, pertinentes e não excessivos face às finalidades previstas (Ibidem, al c).
+O consentimento (a prestar, no caso da pediatria, pelos representantes legais dos menores) tem de ser informado, livre e expresso, manifestado por escrito.
+Devem tomar-se medidas de segurança para garantir a confidencialidade no caso da comunicação de dados, em suporte escrito, entre especialistas (transmissão em envelope fechado e inviolável).
+O prazo de conservação de dados em relação às crianças afigura-se correcto.
+Quanto aos demais, é de aplicar a Portaria n° 247/00, de 8 de Maio.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3) Autorização a) Responsável
+Consulped - Consultórios de Pediatria, Lda b) Finalidade
+Organização de ficheiro clínico com base nas consultas efectuadas.
+c) Dados tratados
+Nome, morada, telefone, sub-sistema de saúde, história clínica; queixas actuais;
+observação; diagnóstico, terapêutica.
+d) Interconexões
+Não há e) Fluxos transfronteiras
+Não há f) Comunicação
+A outros especialistas que acompanhem os doentes.
+g) Forma de exercício dos direitos de acesso e rectificação
+Por contacto directo com o médico ou seu assistente.
+Lisboa, 1 de Maio de 2009
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente e relator)
+amm
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

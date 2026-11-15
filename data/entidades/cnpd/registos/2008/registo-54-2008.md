@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 54/2008
-official_date: null
+official_date: '2008-02-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Fotosport Digital Imaging, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 54/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1029](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1029).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 336/07
+Registo n.° 5Y/08
+Fotosport - Digital Imaging, Lda. notificou um tratamento de dados pessoais com a finalidade gestão cartão de cliente e marketing.
+Declaram as seguintes categorias de dados pessoais: Nome, morada, data de nascimento, BI, sexo, telefone e local de recolha.
+Os dados são recolhidos directamente por impresso.
+E indicada a existência de comunicação de dados", contudo não são declaradas as condições que fundamentam a comunicação.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Fotosport - Digital Imaging, Lda Categoria de dados pessoais tratados - Nome, morada, data de nascimento, BI, sexo, telefone e local de recolha.
+Finalidade - gestão cartão de cliente e marketing;
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável.
+Interconexões - Não há;
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°.
+Relativamente à finalidade de marketing, deve o responsável, no momento da recolha, garantir ao titular a possibilidade de se opor à utilização dos seus dados para essa finalidade, nos termos da al. b do art° 12°.
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e) do art.°5°, fixa-se 10 anos.
+Não se autoriza a comunicação de dados até que o responsável venha informar a que entidades e em que condições.
+Lisboa, 4 de Fevereiro de 2008
+A Secretária da CNPD abe
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

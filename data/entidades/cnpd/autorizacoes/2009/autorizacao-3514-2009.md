@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3514/2009
-official_date: null
+official_date: '2009-08-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UNIVERSIDADE NOVA DE LISBOA - FACULDADE DE CIÊNCIAS MÉDICAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:39:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3514/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18307](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18307).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 4152/2009
+AUTORIZAÇÃO N.° 3J|/2009
+A Faculdade de Ciências Médicas da Universidade Nova de Lisboa notificou um tratamento de dados pessoais com a finalidade de elaborar um estudo sobre crenças, conhecimento e atitudes dos profissionais de saúde e de outros profissionais comunitários em relação à depressão e à suicidalidade.
+O estudo tem também como objectivos avaliar o impacto das acções de formação especializada e outras intervenções de prevenção do suicídio multi- nível em Portugal.
+A recolha dos dados será efectuada "imediatamente antes e imediatamente depois das acções de formação, e entre 4 a 6 meses depois daquelas, em profissionais do concelho da Amadora.
+Aos participantes no estudo será aplicado um questionário e consentirão expressamente no tratamento dos seus dados.
+Não há identificação nominal dos titulares sendo aposto um código de identificação.
+Serão recolhidos os seguintes dados: código, distrito de residência, género, idade, concelho do exercício profissional, n.° de anos de exercício profissional, profissão, existência de treino específico sobre a matéria, respostas aos questionários relativos a crenças, conhecimento e atitude face à depressão e suicídio.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10 da LPD.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.° 67/98, de 26 de Outubro, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Faculdade de Ciências Médicas da Universidade Nova de
+Lisboa
+Finalidade: estudo sobre crenças, conhecimento e atitudes dos profissionais de saúde e de outros profissionais comunitários em relação à depressão e à suicidalidade.
+Categoria de Dados pessoais tratados: código, distrito de residência, género, idade, concelho do exercício profissional, n.º de anos de exercício profissional, profissão, existência de treino específico sobre a matéria, respostas aos questionários relativos a crenças, conhecimento e atitude face à depressão e suicídio
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do responsável.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do participante, porque torna os dados identificados, deve ser destruído após o fim da participação do titular
+Lisboa, 19 de Agosto de 2009 tars Silve
+Luís Lingnau da Silveira (Presidente, que relatou)
+Rua de São Bento. 148-3° • 1200-821 LISROA

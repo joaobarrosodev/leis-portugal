@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 188/2005
-official_date: null
+official_date: '2005-05-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GNR - POSTO DA GUARDA NACIONAL REPUBLICANA DO CADAVAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:30:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 188/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7623](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7623).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n° 921/04
+Autorização n° (&% /2005
+A Guarda Nacional Republicana (GNR) de Cadaval veio pediu à Escola Secundária C/ 3° Ciclo E.B. de Montejunto que lhe fosse comunicada a residência de uma aluna, com a finalidade de investigação criminal.
+A Escola veio pedir à CNPD autorização para essa comunicação.
+A Escola procede ao tratamento do dado pessoal "morada" da aluna para efeitos de gestão da actividade escolar.
+A comunicação desse dado pessoal da aluna para fins de investigação policial é um desvio da finalidade do tratamento, pelo que essa operação carece, nos termos da alinea d) do n° 1 do artigo 28° da Lei de Protecção de Dados (LPD), de autorização prévia da
+Comissão Nacional de Protecção de Dados (CNPD).
+Compete à CNPD, pois, de acordo com a alínea b) do n° 1 do artigo 23° da LPD, decidir sobre essa autorização.
+A GNR tem por missão "prevenir a criminalidade e contribuir para a sua repressão, exercendo as funções de órgão de polícia criminal nos tremos previstos na legislação processual penal": alínea c) do n° 1 do artigo 2° do Decreto-Lei 39/90 de 3 de
+Fevereiro.
+Conclui a CNPD que se encontra preenchida a condição de legitimidade prevista na alínea d) do artigo 6° da LPD para que o tratamento - comunicação pela Escola do dado pessoal "morada" respeitante à aluna identificada nos autos à GNR de Cadaval - seja
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS efectuado, uma vez que se trata do exercício de autoridade pública em que a GNR se encontra investida.
+Importa, porém, observar outros princípios em matéria de protecção de dados pessoais, nomeadamente garantir à titular dos dados pessoais - ou aos seus representantes legais, caso a titular seja menor - o direito de informação previsto no artigo 10° da LPD.
+Não se tratando de investigação criminal que revista qualquer perigo para a ordem e segurança pública, de modo que justifique secretismo de informações, a Escola deve informar a titular dos dados, seja através dos seus representantes legais, da comunicação do dado pessoal "morada" à GNR, exclusivamente para os efeitos declarados por esta força policial.
+Por outro lado, a GNR não pode efectuar qualquer tratamento desse dado pessoal que não vise a finalidade de investigação criminal.
+Nestes termos, autoriza a CNPD a Escola Secundária c/ 3° Ciclo E. B. de Montejunto a comunicar à GNR o dado pessoal "morada" da aluna indicada nos autos.
+Lisboa, 17 de Maio de 2005
+Eduardo Campos (Relator)
+Alexandre Sousa Pinheiro
+Luís Barroso
+Ana Luísa Geraldes
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

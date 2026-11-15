@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HAIR & HAIR - SOLUÇÕES CAPILARES, UNIPESSOAL, LDA (SVENSONS)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T07:24:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3790/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30450](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30450).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 7704/10 3790
+AUTORIZAÇÃO N.º /2011
+HAIR & HAIR - SOLUÇÕES CAPILARES, UNIPESSOAL, Lda. (SVENSON)
+veio notificar o tratamento relativo à gestão de processo de clientes atendidos nas suas instalações (CENTROS), no âmbito da realização de consultas de soluções para problemas capilares.
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto, e dados de saúde, os quais se reportam à dermatologia (problemas do couro cabeludo).
+2. De acordo com a informação constante do quadro 11, foram adoptadas as seguintes medidas de segurança: o acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password». Existe ainda um acesso restrito de pessoas.
+Os dados de saúde deverão estar separados logicamente dos dados de identificação, nos termos do artigo 15°, n° 3, da Lei n° 67/98.
+3. Os titulares dos dados dão o seu consentimento expresso e informado, em campo próprio do formulário de recolha de dados, nos termos do artigo 7.9, n.º 2, da Lei 67/98, de 26 de Outubro.
+4. Os dados são comunicados para a sede da empresa mãe, em Espanha.
+Considera-se legítimo o tratamento nos termos do artigo 7.9, n.º 2, da Lei 67/98, de 26 de Outubro.
+Em face do exposto, autoriza-se o tratamento de dados por parte da
+Requerente (cf. artigo 27.° e 28.° da Lei 67/98) consignando-se, nos termos do artigo 30.-, o seguinte:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1. Responsável: HAIR & HAIR - SOLUÇÕES CAPILARES, UNIPESSOAL,
+Lda.
+2. Categorias de dados pessoais tratados: dados de identificação, dados de contacto, e dados de saúde, os quais se reportam aos seguintes pontos:
+tensão arterial, hábitos alimentares, dieta.
+3. Finalidade: gestão de processo de clientes 5. Forma de exercício do direito de acesso e rectificação: Por solicitação do utente junto do responsável.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação: Os dados são conservados por cinco anos, contados após a última actualização.
+Lisboa, / 1 Abril de 2011.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida
+Sdeo
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

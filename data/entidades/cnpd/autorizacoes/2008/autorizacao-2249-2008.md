@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOSÉ SIMÕES ACTIVIDADES HOTELEIRAS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,69 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:08:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2249/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9458](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9458).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 8756/08 2249
+AUTORIZAÇÃO N.° /2008
+I. Pedido 1. A Sociedade "José Simões Actividades Hoteleiras, Lda." veio notificar junto da
+Comissão Nacional de Protecção de Dados (CNPD) o tratamento de videovigilância a realizar nas suas instalações, sitas na Rua São Mamede ao Caldas, 35 A, em
+Lisboa.
+2. Segundo informações fornecidas, o sistema é composto por uma câmara fixa, que procede à gravação de imagem, e que está colocada no hall de entrada.
+II. Análise 3. Através da Deliberação n.º 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade [alínea c), do n.º 1, do artigo 5.º da Lei n.° 67/98, de 26 de Outubro], condições de legitimidade (artigos 7.° e 8.° n.º 2 da mesma Lei), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações em apreço, no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas, com entradas facilitadas, onde pode haver furto de produtos e/ou danificação de equipamentos. Acresce, que as instalações podem ainda ser alvo de furto, especialmente, durante a noite.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade, na medida em que os direitos dos () Disponível in http://www.cnpd.pt/bin/decisoes/2004/htm/del/del061-04.htm
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt/7
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS titulares não se devem sobrepor à execução de uma finalidade legitima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+4. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação ao fim visado [alínea c), do n.º 1, do artigo 5.° da Lei n.° 67/98].
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (?).
+III. - Conclusão
+Considera-se, por isso, legítimo o tratamento - autorizando-se parcialmente a recolha de dados [artigos 8.°, n.º 2, e 28.°, n.º 1, alínea a), da Lei n.º 67/98] -devendo ser observadas as seguintes condições:
+A. Responsável pelo tratamento - José Simões Actividades Hoteleiras, Lda.
+B. Características do sistema - uma câmara fixa, que procede à gravação de imagem.
+C. Finalidade - Protecção de pessoas e bens.
+D. Local abrangido pela câmara - Hall de entrada.
+E. A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+(2) No mesmo sentido ver Acórdão do STJ, proferido no âmbito do Processo n.° 3139/05, disponível in http://www.cnpd.pt/bin/legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.p2/7
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+F. As câmaras não devem estar direccionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+G. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+H. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+1. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informa as pessoas sobre a gravação de imagem (cf. artigo 13.° do
+Decreto-Lei n.° 35/2004, de 21 de Fevereiro).
+J. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/ anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável, ao exercício do direito de acesso, o disposto no artigo 11.°, n.° 2, da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+K. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias (cf. artigo 13.° do Decreto-Lei n.° 35/2004).
+Lisboa, 27 Outubro 2a00
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt
+- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pg/7
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Carlos Campos Lobo
+Eduardo Campos
+Helena Delgado António
+Luis Barroso
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.p4/7

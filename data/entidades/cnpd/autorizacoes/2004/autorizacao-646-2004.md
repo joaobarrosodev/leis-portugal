@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 646/2004
-official_date: null
+official_date: '2004-06-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO GERAL DE VETERINÁRIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:46:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 646/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8907](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8907).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 945/2004
+AUTORIZAÇÃO N.° 646 12004
+A Direcção-Geral de Veterinária vem notificar à CNPD um tratamento relativo à gestão da informação de controlo de Alimentação Animal e processamento das respectivas contra-ordenações.
+Os dados registados são o nome, morada, telefone, n.º de contribuinte ou número de pessoa colectiva e informação relativa ao processo de contra-ordenação.
+Os dados constantes da aplicação poderão ser comunicados ao Tribunal.
+A legitimidade para o tratamento de dados em apreço - gestão de contra-ordenações -está previsto no artigo 8.° n.º 2 da Lei 67/98, de 26 de Outubro. Há legitimidade para o tratamento quando seja ‹necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Esse tratamento carece de autorização da CNPD (art. 28.° n.º 1 al. a), que verificará a observância das normas de protecção de dados e de segurança da informação.
+Nos termos do artigo 28.° n.º 2 do DL 216/99, de 15 de Junho, "a entidade que levantar o auto de notícia remeterá o mesmo à Direcção-Geral de Veterinária para instrução do competente processo". Verifica-se, por isso, que a lei atribui competência à DG de Veterinária para instruir os processos de contra-ordenação.
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (cf. art. 5.° n.º 1 al. b) e d) da Lei 67/98). A DG
+Veterinária tem legitimidade legal para processar a informação, por ter competência para instruir processos de contra-ordenação. A informação é de acesso restrito, sendo estabelecida password (cf. ponto n.º 11 do formulário de legalização).
+A informação deverá ser conservada pelo período estritamente necessário à finalidade (gestão de contra-ordenações) - cf. art. 5.° al. e) da Lei n.º 67/98, de 26/10 - não podendo a mesma ser conservada, conforme o caso, para além dos prazos de
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS prescrição do procedimento por contra-ordenação ou de prescrição da coima. Findo esses prazos deverá ser eliminada a informação.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 8.° n.º 2 e 28.° n.° 1 al. a) da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados relativos aos autos de contra-ordenação, nos seguintes termos:
+1. Responsável: Direcção Geral de Veterinária 2. Categorias de dados pessoais tratados: nome, morada, telefone, n.º de contribuinte ou número de pessoa colectiva e informação relativa ao processo de contra-ordenação.
+3. Finalidade: Controlo de Alimentação Animal e gestão de processos de contra-ordenação.
+4. Entidades a quem podem ser transmitidos: Aos tribunais.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita ao
+Director Geral, sem prejuízo do disposto no artigo 11.° n.º 2 da Lei 67/98.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+Lisboa, 1 de Junho de 2004
+Amadeu Guerra (relator)
+Alkondetousashuteir
+Alexandre Pinheiro
+-10_2
+Luís Barroso
+Eduardo Campos
+Jen
+Ana Luísa Geraldes
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

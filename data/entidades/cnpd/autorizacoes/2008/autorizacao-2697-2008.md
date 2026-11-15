@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ORPHAN EUROPE PORTUGAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:00:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2697/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10748](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10748).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 2010/08
+AUTORIZAÇÃO N.° 269712008
+A Orphan Europe, Portugal, Lda veio notificar à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo sobre os parâmetros de tolerância dos doentes com homocistinúria tratados com Cystadane.
+A Agência Europeia do Medicamento solicitou à Orphan Europe que, no âmbito da autorização de comercialização do Cystadane, elaborasse esse estudo.
+Aos doentes nas condições de inclusão das unidades de saúde aderentes ao estudo, será solicitado, pelo seu médico assistente e que tem, simultaneamente, a qualidade de investigador do estudo, o consentimento para a sua participação no estudo.
+As declarações de consentimento são guardadas pelo médico investigador.
+Os dados serão recolhidos pelo médico assistente, anualmente, e transmitidos sem identificação nominal à Orphan Europe, com sede em França, sendo indicado a primeira inicial do primeiro e último nome. A chave desta codificação é apenas conhecida do médico.
+Serão recolhidos os seguintes dados: dados do médico (nome, especialidade, telefone, morada, pais, e-mail e fax), dados do doente (primeira inicial do primeiro e último nome, mês e ano de nascimento, sexos, data da visita, tipo de enzima deficiente, data do diagnóstico e início dos sintomas, sintomas associados, valores biológicos, tipo de tratamento, efeitos indesejáveis e dados de farmacovigilância.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Orphan Europe, Portugal, Lda
+Finalidade: estudo sobre os parâmetros de tolerância dos doentes com homocistinúria tratados com Cystadane
+Categoria de Dados pessoais tratados: dados do médico (nome, especialidade, telefone, morada, país, e-mail e fax), dados do doente (primeira inicial do primeiro e último nome, mês e ano de nascimento, sexos, data da visita, tipo de enzima deficiente, data do diagnóstico e início dos sintomas, sintomas associados, valores biológicos, tipo de tratamento, efeitos indesejáveis e dados de farmacovigilância.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico participante.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente e as iniciais do nome, porque tornam os dados identificados, devem ser destruídos, quer pelo médico assistente, quer pelo responsável pelo tratamento, um mês após fim do estudo. Igual prazo se aplica aos dados do médico.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 132 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Dos termos e condições fixados na Deliberação n.º2271 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 24 Cl Nevenho de 2008
+Ana Roque; Carlos Campos Lobo; Eduardo Campos; Helena Delgado António (Relatora);
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 3 duvidas@cnpd.pt

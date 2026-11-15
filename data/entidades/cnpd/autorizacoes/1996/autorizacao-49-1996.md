@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GE CONSUMER FINANCE, I.F.I.C.-INST.FINANC. DE CRÉDITO,SA (EX: WODCHESTER LEAS.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:14:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 49/1996
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2829](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2829).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 771/95
+AUTORIZAÇÃO N.° 635 | 2007 1. G.E. Consumer Finance, IFIC - Instituição Financeira de Crédito, SA, vem solicitar autorização à CNPD para facultar a comunicação de dados pessoais, no âmbito de contratos de prestação de serviços que visam, concretamente, a recuperação de créditos e/ou equipamentos objecto de contratos de financiamento ou locação financeira de clientes seus por empresas especializadas.
+Essas empresas são as seguintes:
+Confira - Logística e Recuperação de Activos, SA
+Servicrédito - Gestão de Crédito e Serviços, Lda
+Collections Company _ Gestão e Recuperação de Créditos, SA
+Debtges - Consultoria Técnico-Financeiro, Lda
+Os dados pessoais a disponibilizar são os seguintes:
+Nome, morada, número de telefone, número de contribuinte, elementos financeiros da dívida (data de vencimento da prestação, dias em mora, juros de mora, menção de despesas e/ou encargos, se aplicável, montante total em dívida), dados do bem/equipamento objecto de financiamento (matricula, modelo, marca), nome do fornecedor do bem/equipamento objecto do financiamento.
+2. A Directiva 95/46/CE, consagra a figura do subcontratante - "pessoa ou entidade que processa dados por conta do responsável" (art° 2° al. e)) - e obriga-o a processar esses dados de acordo com as "instruções do responsável".
+A Lei 67/98, de 26.10, definiu como subcontratante a "pessoa singular ou colectiva (...)
+que trate os dados pessoais por conta do responsável pelo tratamento" (art. 3.º al. e)).
+À semelhança do que acontece com a Directiva 95/46/CE, a Lei 67/98 obriga o subcontratante que tenha acesso aos dados pessoais a tratá-los de acordo com as «instruções do responsável» (art. 16.), não os podendo utilizar em proveito próprio (art.s 3.° al. e) e 5.º n.º 1 al. b)). Está vinculado, igualmente, à obrigação de sigilo profissional (art. 17.° n.º 1).
+Rua de São Bento, 148 - 3.° --- 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O artigo 14.º n.º 3 da Lei 67/98 determina ainda que «a realização de operações de tratamento em subcontratação deve ser regida por um contrato ou acto jurídico que vincule o subcontratante ao responsável pelo tratamento e que estipule, designadamente, que o subcontratante apenas actua mediante instruções do responsável pelo tratamento».
+Os dados deverão ser actualizados logo que a dívida seja paga.
+3. Assim, e desde que verificadas as circunstâncias enunciadas - que o responsável se propõe consignar nos contratos a celebrar (cf. minuta junta como anexo 5), considera-se alterada a autorização n° 75/2001, em termos de autorizar que os dados sejam facultados às empresas Confira - Logística e Recuperação de Activos, SA, Servicrédito - Gestão de Crédito e Serviços, Lda, Collections Company - Gestão e Recuperação de Créditos,
+SA e Debtges - Consultoria Técnico-Financeiro, Lda, no âmbito de uma subcontratação de serviços.
+Proceda-se à actualização do registo público (artigo 31° da Lei 67/98).
+Lisboa, 19 de Abril de 2007
+Luís Barroso
+Eduardo Campos
+Ana Roque los Campos Lobo •
+Helena Delgado António (relatora)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Vasco Almeida
+Paes Telie
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

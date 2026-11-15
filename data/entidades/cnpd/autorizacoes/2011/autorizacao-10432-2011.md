@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 10432/2011
-official_date: null
+official_date: '2011-09-26'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UNIDADE DE EDUCAÇÃO MÉDICA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,77 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T05:32:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 10432/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37564](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37564).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 9850/2011
+AUTORIZAÇÃON° 10432 12011
+I. Do Pedido
+A Unidade de Educação Médica da Universidade do Minho notificou à CNPD um tratamento de dados pessoais com a finalidade de realizar um estudo observacional longitudinal para avaliar o impacto da inovação no ensino superior numa escola médica.
+Este estudo visa contribuir para o desenvolvimento do curso de medicina através do estudo de factores que influem sobre a competência profissional dos médicos diplomados na ECS-UM.
+Os dados pessoais objecto de recolha são os seguintes: nome, n.º de identificação individual na Universidade, n.° de BI/Cartão de Cidadão, sexo, data de nascimento, naturalidade, nacionalidade, estado civil, morada, contactos telefónicos, e-mail, forma de entrada no curso de medicina, n.° de matrículas no ensino superior, ano de entrada no ensino superior, universidades e cursos frequentados anteriormente, ordem de preferência pela Universidade do Minho, conhecimento do plano curricular, factores que mais influenciaram a escolha do curso e da universidade, necessidade de mudança de residência, dificuldades na frequência do curso de medicina, habilitações literárias, situação profissional actual, categoria profissional, situação de bolseiro, estabelecimento de ensino secundário, habilitações literárias dos pais, categoria e situação profissional dos pais, fontes de informação acerca do curso de medicina da universidade do Minho, possui computador portátil, escala de empatia para estudantes, escala de empatia para médicos, questionário de personalidade, questionário cognitivo, questionário de admissão, questionário de graduação, questionário de aprendizagem ao longo da vida, questionário de início de especialidade, formulário de apreciação de médico interno, classificações.
+Serão incluídos no estudo todos os alunos e graduados do curso de medicina da Escola de
+Ciências da Saúde que consintam voluntariamente participar no estudo, para o que terão de assinar o consentimento informado, sendo este recolhido pela equipa de investigação da
+Unidade de Educação Médica associada ao estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A segurança das informações é garantida pela manutenção dos dados em local de acesso reservado, criação de backups, bem como pela utilização de níveis de acesso com controlo por log-in e passwords.
+Aos titulares dos dados é assegurado o direito de conhecer, corrigir e eliminar os dados que lhes respeitem.
+II. Da Análise
+Porque em grande parte referentes à s vida privada, os dados dos utentes dos serviços prestados pela requerente têm a natureza de sensíveis, razão pela qual o respectivo tratamento so pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n° 2 do artigo 7° da Lei n° 67/98, de 26 de Outubro.
+Por esta razão é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objecto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da Lei n° 67/98, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de rectificação por parte do respectivo titular.
+Como decorre dos impressos de recolha de dados, cujos modelos estão juntos aos autos, os titulares dos dados apõem as suas assinaturas nos mesmos, deste modo satisfazendo as referidas exigências legais, pelo que a Comissão Nacional de Protecção de Dados considera existir legitimidade para o tratamento dos dados que a requerente se propõe realizar (artigos 3°, alínea h), e 7° n°2 da Lei n° 67/98, de 26.10).
+A informação tratada é recolhida de forma lícita (artigo 5°, n.º1 alínea a) da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O fundamento de legitimidade é o consentimento dos titulares dos dados ou dos representantes legais, quando os titulares dos dados sejam incapazes.
+Os dados devem ser exactos e, se necessário, actualizados (artigo 5°, alínea d), da Lei n° 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da Lei n° 67/98), sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou rectificados os dados inexactos ou incompletos ou não necessários (artigo 5° n.º 1, alineas c) e d), e n.° 3 da Lei n° 67/98).
+Assim, prazo de conservação dos dados deverá ser o da duração do estudo.
+Deverão ser adoptadas as medidas de segurança adequadas, atenta a natureza sensivel dos dados objecto de tratamento, devendo o responsável adoptar medidas técnicas e organizativas adequadas a proteger os dados pessoais, as quais devem atestar um nível de segurança adequado em relação aos riscos que o tratamento apresenta e à natureza dos dados a proteger.
+III. Da Conclusão
+Em face do exposto, a Comissão Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos do nº2 do artigo 7°, da alínea a) do n°1 do art. 28.° e do n.º 1 do art. 30.° da Lei n.° 67/98, de 26.10, consignando-se o seguinte:
+Responsável pelo tratamento: Unidade de Educação Médica da Universidade do Minho
+Finalidade: Estudo observacional longitudinal para avaliar o impacto da inovação no ensino superior numa escola médica.
+Categoria de Dados pessoais tratados: nome, n.º de identificação individual na Universidade, n.° de BI/Cartão de Cidadão, sexo, data de nascimento, naturalidade, nacionalidade, estado civil, morada, contactos telefónicos, e-mail, forma de entrada no curso de medicina, n.º de matrículas no ensino superior, ano de entrada no ensino superior, universidades e cursos frequentados anteriormente, ordem de preferência pela Universidade do Minho, conhecimento do plano curricular, factores que mais influenciaram a escolha do curso e da universidade, necessidade de mudança de residência, dificuldades na frequência do curso de medicina, habilitações literárias, situação profissional actual, categoria profissional, situação de bolseiro,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS estabelecimento de ensino secundário, habilitações literárias dos pais, categoria e situação profissional dos pais, fontes de informação acerca do curso de medicina da universidade do
+Minho, possui computador portátil, escala de empatia para estudantes, escala de empatia para médicos, questionário de personalidade, questionário cognitivo, questionário de admissão, questionário de graduação, questionário de aprendizagem ao longo da vida, questionário de início de especialidade, formulário de apreciação de médico interno, classificações.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do responsável pelo tratamento dos dados.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Forma de exercício do direito de acesso e rectificação: Mediante pedido dirigido ao responsavel.
+Lisboa, 26 de Setembro de 2011
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos
+Campos Lobo, Luís Barroso
+мі бл
+Luís Lingnau da Silveira
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 4 duvidas@cnpd.pt

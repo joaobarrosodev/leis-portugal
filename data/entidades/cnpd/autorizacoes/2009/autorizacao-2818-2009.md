@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GESPORMAR - GESTÃO DE PORTOS E MARINAS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 7 de 7 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,106 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:51:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2818/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17433](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17433).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 2832/09
+AUTORIZAÇÃO N.º2818/2009
+I - Pedido 1. A Gespormar - Gestão de Portos e Marinas, S.A. veio notificar a Comissão
+Nacional de Protecção de Dados (CNPD) do tratamento de videovigilância referente à recolha e gravação de imagens na Marina de Cascais.
+2. A entidade declara que não existe comissão de trabalhadores.
+3. Pretende-se a colocação de 21 câmaras nos seguintes locais: acesso à escada e elevador 1 no nível cobertura dentro da caixa de escadas, acesso à escada 2 no nível cobertura dentro da caixa de escadas, acesso escada 3 no nível P1, acesso da escada 1 ao PO, acesso do elevador 1 ao PO, acesso ao elevador 2 ao PO, acesso da escada 2 ao PO, acesso do elevador 3 ao PO, acesso da escada 4 ao PO, acesso à área comercial, acesso da escada 1 ao
+P-1, acesso de escada 2 ao P-1, acesso de escada 2 ao P-1, acesso do elevador 3 ao P-1, acesso da escada 4 ao P-1, central de segurança e zona de contagem de dinheiro.
+4. Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD) elaborou o projecto de autorização de 21 de Junho de 2009, no sentido de não autorizar a recolha de imagem na zona de contagem de dinheiro, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 6476, de 1 de Junho de 2009, nos termos e para os efeitos do disposto no artigo 100.° do Código do Procedimento
+Administrativo.
+5. Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projecto, sustentando que «na referida zona não exercem a sua actividade trabalhadores da Gespormar.
+(...) NA referida zona apenas exercem actividades vigilantes da SOV
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS empresa que não tem acesso às gravações. Como tal não existe qualquer perigo de violação do art.20.° do Código de Trabalho. Acresce que os vigilantes da SOV encontram-se numa situação de perigo acrescido para a vida e para a integridade física devido aos avultados montantes de dinheiro (em numerário) que se encontram na zona. (...) Um eventual criminoso que pretenda entrar na zona em causa, mesmo na ausência do vigilante, será seriamente dissuadido pois saberá que será filmado, sendo possível aos autoridades públicas proceder à sua identificação e condenação. Por outro lado, apenas com um sistema de CCTV é possível identificar possíveis criminosos que pratiquem crimes contra os vigilantes da SOV no local, contra o património da Marcascais (furtando ou roubando o dinheiro) e que violem o sistema de CCTV ou outros equipamentos de segurança da Marina de Cascais».
+II - Análise 6. A Lei da Protecção de Dados Pessoais (Lei n.º 67/98, de 26 de Outubro)
+determina, no seu artigo 4.°, n.° 4, que a presente lei se aplica à videovigilância e outras formas de captação, tratamento e difusão de sons e imagens que permitam identificar pessoas.
+7. Por sua vez, dispõe o artigo 2.° da citada Lei que o tratamento dos dados pessoais (') se deve processar de forma transparente e no estrito respeito pela reserva da vida privada, bem como dos direitos, liberdades e garantias fundamentais.
+(') Entende-se por tratamento de dados pessoais qualquer operação ou conjunto de operações sobre dados pessoais, efectuadas com ou sem meios automatizados, tais como a recolha, o registo, a organização, a conservação, a adaptação ou alteração, a recuperação, a consulta, a utilização, a comunicação por transmissão, por difusão ou por qualquer outra forma de colocação à disposição, com comparação ou interconexão, bem como o bloqueio, apagamento ou destruição" (vd. alínea b) do artigo 3.° da Lei n.° 67/98).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 8. A utilização da videovigilância na Marina de Cascais tem fundamento legitimante no Decreto-Lei n.° 335/91, de 7 de Setembro, diploma que define o enquadramento legal em que se processará a construção e exploração de uma marina de recreio em Cascais.
+9. Com efeito, determina a Base V, n.° 1, alínea n), do aludido diploma legal, que a concessionária assegurará obrigatoriamente a instalação e o funcionamento na Marina de Cascais da "rede de vigilância através de câmaras de vídeo fixadas às colunas de iluminação exterior e orientadas, de forma a permitirem o controlo das zonas de acesso, estacionamentos de veículos e embarcações e postos de acostagem, e através de agentes equipados com aparelhos portáteis de rádio (sublinhado e negrito nosso).
+10. Para além disso, a Lei da Protecção de Dados Pessoais exige que o tratamento a realizar e os meios utilizados sejam considerados os adequados, pertinentes e proporcionados com as finalidades estabelecidas:
+protecção de pessoas e bens (alínea c) do artigo 5.°, da Lei da Protecção de Dados Pessoais).
+11. O princípio da proporcionalidade (ou da proibição do excesso), concretiza-se em três sub-princípios: o princípio da adequação (ou idoneidade), impondo que as medidas restritivas legalmente previstas se revelem como meio adequado para a prossecução dos fins visados por lei;
+o princípio da necessidade, por força do qual as medidas restritivas se deverão revelar indispensáveis, não podendo os fins legalmente visados ser obtidos por outros meios menos onerosos para os direitos, liberdades e garantias sacrificados e o princípio da proporcionalidade em sentido estrito, que visa impedir a adopção de medidas excessivas ou
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS desproporcionadas por alcançar os fins pretendidos, devendo pesar-lhe as desvantagens dos meios em relação às vantagens do fim.
+12. Neste sentido, a CNPD, na sua Deliberação n.º 61/2004 (?), considerou que será admissível aceitar que - quando haja razões justificativas da utilização destes meios - a gravação de imagens se apresente, em primeiro lugar, como medida preventiva ou dissuasora tendente à protecção de pessoas e bens e, ao mesmo tempo, como meio idóneo para captar a prática de factos passíveis de serem considerados como ilícitos penais e, nos termos da lei processual penal, servir de meio de prova. (...) Por isso, em cada caso concreto, e de acordo com os princípios acabados de enunciar, a CNPD deverá limitar ou condicionar a utilização de sistemas de videovigilância quando a utilização destes meios se apresentem como excessivos e desproporcionados aos fins pretendidos e tenham consequências gravosas para os cidadãos visados".
+13. Por seu turno, as imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (), pelo que, não se autoriza a recolha de imagens na zona de contagem de dinheiro.
+14. Assim, entende esta Comissão que a recolha de imagens nos locais supra citados se mostra desproporcionada e excessiva em relação à finalidade (artigo 5.°, n.° 1, alínea c), da Lei n.° 67/98).
+15. Com efeito, a CNPD considera que a recolha de imagens naqueles locais e desproporcional e excessiva, tendo em conta, por um lado, a intenção do (*) Disponível in http://www.cnpd.pt/orientaçoes/principiosvideo.htm..
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 4 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS legislador em assegurar apenas as zonas de acesso, estacionamento de veículos e embarcações e postos de acostagem e nunca zonas de trabalho já que, as câmaras irão captar os trabalhadores no exercício da sua actividade profissional.
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que não se devia autorizar a recolha de imagens na zona supra referida, pois essa captação de imagens mostrava-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento, pelo que as referidas câmaras deviam ser retiradas.
+No entanto, a entidade requerente veio aos autos alegar, em suma, que as câmaras serão utilizadas como instrumento para prevenir situações de ilícitos criminais procedendo à protecção de pessoas e bens.
+Assim sendo e porque não há captação de imagens dos trabalhadores no desempenho da sua actividade profissional não se violando o disposto nos art. °20 n°1 e n°2 do Código de Trabalho, a CNPD autoriza a instalação das câmaras nos locais de contagem de dinheiro.
+III - Conclusões
+Atento o exposto, a CNPD decide o seguinte:
+Considerar legítimo o tratamento - autorizando-se a recolha de imagens (artigo 7.°, n.° 2, e 28.°, n., alínea a), da Lei n.° 67/98 e Decreto-Lei n.° 335/91, de 7 de Setembro) - devendo ser observadas, ainda, as seguintes condições:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 5 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1. Responsável pelo tratamento - Gespormar - Gestão de Portos e
+Marinas, S.A.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação -enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - nao havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei n.° 67/98.
+5. Direito de Informação - Deverão ser afixado, em local bem visivel, avisos que informem as pessoas sobre a recolha de imagem (artigo 13.° do Decreto-Lei n.º 35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável, ao exercício do direito de acesso, o disposto no artigo 11.°, n.° 2, da Lei n.° 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias (artigo 13.° do Decreto-Lei n.° 35/2004).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir sobre estes durante a actividade laboral (cf. artigo 20.° do Código do Trabalho).
+Lisboa, 6 Julho 2009
+Ana Roque, Carlos Lobo (Relator), Luís Paiva de Andrade, Helena António,
+Luís Barroso, Vasco Almeida,
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 7 duvidas@cnpd.pt

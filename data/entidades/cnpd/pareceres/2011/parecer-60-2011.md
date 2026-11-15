@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO-GERAL DE POLÍTICA EXTERNA (MNE)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:07:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 60/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/36670](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/36670).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. N.°: 7739/2010
+PARECER N.º 60 /2011
+O Ministério dos Negócios Estrangeiros - Direcção Geral de Política Externa - solicitou à Comissão Nacional de Protecção de Dados (CNPD) a emissão de parecer sobre o projecto de acordo de Cooperação entre a República Portuguesa e os Estados Unidos
+Mexicanos no domínio da redução da procura e da luta contra o tráfico ilícito de estupefacientes e de substâncias psicotrópicas.
+O pedido de parecer decorre das atribuições conferidas à Comissão Nacional de
+Protecção de Dados pelo artigo 22.° da Lei n.º 67/98, de 26.10, e é emitido no uso da competência fixada na alínea a) do n.º 1 do artigo 23.° do mesmo diploma legal.
+A CNPD já se pronunciou sobre o referido projecto do Acordo de Cooperação entre a
+República Portuguesa e os Estados Unidos Mexicanos, no seu Parecer n.º 73/2010.
+Vem agora a Direcção Geral de Política Externa do Ministério dos Negócios
+Estrangeiros solicitar novo parecer sobre a versão do referido Projecto de Acordo aprovada pelos Estados Unidos Mexicanos e redigida em Castelhano.
+Esta versão apresenta ligeiras alterações face à versão anterior, designadamente o elenco de entidades mexicanas responsáveis pela aplicação do presente acordo e a periodicidade com que ambas as partes se reúnem.
+As alterações em questão não atingem o tratamento de dados pessoais em causa -pressupondo que as entidades mexicanas responsáveis pela aplicação do acordo têm competência e legitimidade para o tratamento de dados em questão - pelo que não implicam uma revisão da análise já efectuada.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Deste modo, a CNPD mantém a posição defendida no seu Parecer N.° 73/2010, de 15 de Novembro.
+E este o sentido do nosso parecer.
+Lisboa, 6 de Setembro de 201k
+Luís Paiva de Andrade (Relator)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 2

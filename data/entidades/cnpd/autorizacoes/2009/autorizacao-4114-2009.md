@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SINDICATO NACIONAL DOS QUADROS E TÉCNICOS BANCÁRIOS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,100 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:30:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4114/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18839](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18839).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n° 7071/08
+AUTORIZAÇÃON° 4114 12009 1. O Sindicato Nacional dos Quadros e Técnicos Bancários veio notificar o tratamento de videovigilância a realizar nas suas instalações. (Rua Pinheiro
+Chagas, 6 Lisboa)
+A empresa declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 15 câmaras nas escadas, fachada traseiras, patamares, átrio elevadores cave hall do auditório, interior do auditório, átrio de entrada e zona de espera.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD) elaborou o projecto de autorização de 13 de Julho de 2009, no sentido de não autorizar a recolha de imagem no interior do auditório nem na zona de espera, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 8707, de 14 de Julho de 2009, nos termos e para os efeitos do disposto no artigo 100.° do Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projecto, sustentando que «(...) importa realçar que seria importante também, por razões de segurança, a possibilidade de captação de imagens na zona de espera, pelo menos fora do horário normal das instalações, pelo que se requer a alteração do referido projecto neste ponto especifico».
+II - Análise
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Através da deliberação n° 61/2004, de 19 de Abril('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7. e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações do sindicato no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos.
+As instalações podem ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.° 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilicitos - tarefa que é desempenhada na prossecução do interesse público, em
+Rua de Sao be to, 14838 cm9288-82 PEPSos principiosvideo.hm
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (*).
+Não se autoriza a recolha de imagens no interior do auditório nem na zona de espera, já que tal permite ao responsável uma intromissão desproporcionada na liberdade de movimentos e mesmo na privacidade de quem acede aquele local.
+Contudo ressalva-se a possibilidade de captação de imagens nos acessos à zona referida. Contempla-se ainda a possibilidade de captação de imagens no interior do auditório fora do horário normal das instalações.
+Face ao exposto, a CNPD entendeu, no projecto de autorização que foi remetido à entidade requerente, que não se devia autorizar a recolha de imagens na zona supra referida, pois essa captação de imagens mostrava-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento, pelo que as referidas câmaras deviam ser retiradas.
+No entanto, a entidade requerente veio aos autos solicitar a possibilidade de captação de imagens na sala de espera, pelo menos, fora do horário normal de funcionamento da entidade também.
+Acontece que a CNPD continua a entender que a recolha de imagens no interior do auditório e zona de espera durante o período laboral se apresenta como excessiva e desproporcionada, por permitir ao responsável um controlo permanente sobre os trabalhadores no exercício da sua actividade profissional.
+(2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Contudo a CNPD admite a recolha de imagens nos acessos ao auditório e acesso à zona de espera. Contempla-se ainda não só a possibilidade de captação de imagens no auditório fora do horário normal de funcionamento da entidade bem como também se autoriza a captação de imagens na zona de espera fora do período normal de trabalho da entidade, conforme o agora solicitado pela entidade requerente.
+III - Conclusões
+Considera-se, por isso, legitimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Sindicato Nacional dos Quadros e Técnicos
+Bancários.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem» (Art.º13.° n."3 do
+Decreto-Lei n.°35/2004, de 21 de Fevereiro).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a actividade laboral. (cf. artigo 20.° do Código do Trabalho).
+9. A recolha de imagens deve confinar-se ao perímetro da propriedade e não podem envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+10. Não é autorizada a recolha de imagens no interior do auditório nem na zona de espera, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento. Contudo ressalva-se a possibilidade de captação de imagens nos acessos às zonas referidas (interior do auditório e zona de espera). Contempla-se ainda a possibilidade de captação de imagens no interior do auditório e zona de espera fora do horário normal das instalações.
+Lisboa, 21 SetembRo 2009
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque (Relatora), Carlos Lobo, Helena Delgado António, Vasco Almeida,
+Luís Barroso, Luís Paiva de Andrade
+Gran Selena
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.enpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

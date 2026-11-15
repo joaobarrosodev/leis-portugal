@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 15/2013
-official_date: null
+official_date: '2013-03-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Joana Isabel Ramos Vieira'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:02:06Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 15/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52287](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/52287).
+Proc. N.°: 906/2013 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+REGISTO N.° 45
+/2013
+Joana Isabel Ramos Vieira, no âmbito da sua Tese de Mestrado, notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional sobre a identificação de indicadores de qualidade do exercício profissional com vista à construção de um programa de supervisão clínica em enfermagem.
+O estudo pretende recolher dados através de dois métodos. Numa primeira fase, será realizado um estudo extensivo, no qual será aplicado um inquérito aos enfermeiros dos centros de saúde de Ribeira de Pena, Vila Pouca de Aguiar e Chaves 2.
+Na segunda fase, a investigadora entrevistará os inquiridos na primeira fase do estudo.
+Os dados identificativos dos participantes serão apenas conhecidos da investigadora.
+Os dados tratados são: género, idade, tempo de exercício profissional, categoria profissional, instituição onde exerce funções, habilitações académicas e profissionais, experiência como supervisionado e como supervisor, preparação dos prestadores de cuidados, caracterização da população-alvo dos cuidados de enfermagem, identificação do processo de documentação dos cuidados de enfermagem, indicadores de qualidade que contribuam para a melhoria da preparação do prestador de cuidados e opinião sobre supervisão do trabalho.
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Aos participantes no estudo que o requeiram, serão enviadas as conclusões do estudo.
+O fundamento de legitimidade para este tratamento de dados pessoais é o consentimento expresso do titular dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.°: 906/2013 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, de acordo com as disposições conjugadas do n.º 1 do artigo 27.° e do n.º 1 do artigo 30.° da Lei n.° 67/98, de 26 de outubro, regista-se o tratamento nos seguintes termos:
+Responsável pelo tratamento: Joana Isabel Ramos Vieira
+Finalidade: Estudo observacional sobre a identificação de indicadores de qualidade do exercício profissional com vista à construção de um programa de supervisão clínica em enfermagem.
+Categoria de Dados pessoais tratados: género, idade, tempo de exercício profissional, categoria profissional, instituição onde exerce funções, habilitações académicas e profissionais, experiência como supervisionado e como supervisor, preparação dos prestadores de cuidados, caracterização da população-alvo dos cuidados de enfermagem, identificação do processo de documentação dos cuidados de enfermagem, indicadores de qualidade que contribuam para a melhoria da preparação do prestador de cuidados e opinião sobre supervisão do trabalho.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto da investigadora.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: Os dados pessoais devem ser destruídos um mês após a defesa da Tese.
+Dos termos e condições fixados no presente Registo decorrem obrigações que o responsável deve cumprir.
+Lisboa, 14 de março de 2013
+A Secretária da CNPD aler (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

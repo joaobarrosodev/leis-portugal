@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 9471/2012
-official_date: null
+official_date: '2012-12-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Laboratórios Pfizer Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:58:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9471/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/49599](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/49599).
+Proc. N.: 11469/2012 1
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º Q47| 12012
+I. Do Pedido
+Os Laboratórios Pfizer, Lda. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para avaliar adaptação cultural e validação psicométrica para Português da escala GAD-7 para identificação de doentes com Perturbação de Ansiedade Generalizada.
+A entidade encarregue do processamento da informação é a CEISUC, com o qual a responsável pelo tratamento celebrará o contrato previsto no art. 14.° da Lei n.° 67/98, de 26 de Outubro.
+Serão incluídos no estudo cem doentes com diagnóstico confirmado da patologia e a receber acompanhamento médico no Centro Hospitalar Psiquiátrico de Lisboa.
+A participação no estudo consiste aplicação da escala aos doentes e na sua reaplicação a uma subamostra de trinta doentes para comprovar a estabilidade do instrumento ou fiabilidade do teste.
+Os dados serão recolhidos num caderno de recolha de dados em formato em papel.
+No "caderno de recolha de dados" não há identificação nominal da titular, sendo aposto um codigo de doente. A chave desta codificação só pode ser conhecida da equipa de investigação.
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.°: 11469/2012 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (cfr. al. a) do n.º1 do art.° 5.° da Lei n.º 67/98, de 26 de Outubro), para finalidades determinadas, explícitas e legítimas (cfr. al.
+b) do mesmo artigo) e não é excessiva, salvo o n.º de Processo Clínico que é excessivo face à finalidade declarada.
+Deverá ser criado um novo código sequencial dos doentes, não utilizando nenhum número que lhe haja sido atribuído.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados. No entanto, dada a natureza da patologia dos doentes objeto do estudo, o médico investigador deverá aferir as condições concretas de capacidade do doente no momento da prestação do direito de informação e obtenção do consentimento. Caso o doente esteja judicialmente interditado, o consentimento terá de ser prestado pelo representante legal do doente.
+II.
+Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º° 2 do artigo 7.°, n.º1 do artigo 27°, al. a) do n.º 1 do artigo 28° e art. 30° da Lei de Proteção de Dados, com as condições e limites fixados na referida Deliberação n.° 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada,
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 11469/2012 3
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Termos do tratamento:
+Responsável pelo tratamento: Laboratórios Pfizer, Lda.
+Finalidade: Estudo observacional para avaliar adaptação cultural e validação psicométrica para Português da escala GAD-7 para identificação de doentes com
+Perturbação de Ansiedade Generalizada.
+Categorias de Dados pessoais tratados: código de participação, dados demográficos (idade, género, estado civil, escolaridade, situação profissional), antecedentes médicos e psiquiátricos, sintomas físicos e medicação habitual.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 04 de Dezembro de 2012
+Ana Roque, Helena Delgado António (Relatora), Carlos Campos Lobo, Luís Paiva de
+Andrade, Vasco Almeida
+Luís Barroso (Vogal, am substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TMN - TELECOMUNICAÇÕES MÓVEIS NACIONAIS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 860/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6522](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6522).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 1159/57/05 860
+Autorização n° /2005
+TMN - Telecomunicações, Móveis Nacionais, SA vem notificar a CNPD de um tratamento relativo ao registo das interacções entre a lista de clientes e listas de reclamações apresentada pelos mesmos.
+Os dados tratados são o nome, morada, número de telefone, NIF, controlo de crédito, valor de cliente.
+Os dados são recolhidos e actualizados quer de forma directa, quer indirecta.
+São adoptadas como medidas de segurança a feitura de cópias de segurança, password de acesso às informações, a criação de sistemas de processamento de backup.
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (cf. art. 5.° n.° 1 alínea c) da Lei 67/98).
+A informação deverá ser conservada até cinco anos após a desactivação do cartão, quando não existam dúvidas ou reclamações pendentes.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.° da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados relativos aos autos de contra-ordenação, nos seguintes termos:
+Responsável: TMN - Telecomunicações, Móveis Nacionais, SA
+Categorias de dados pessoais tratados: Nome, morada, número de telefone, NIF, controlo de crédito, valor de cliente.
+Finalidade: Registo das interacções entre a lista de clientes e listas de reclamações apresentada pelos mesmos.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Entidades a quem podem ser transmitidos: Aplica-se a Deliberação n.º 70/96 da
+CNPD.
+Forma de exercício do direito de acesso e rectificação: Por via escrita.
+Eventuais interconexões : Não há.
+Transferências de dados para países terceiros : Não há.
+Lisboa, 17 de Quilo de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos ger
+Ana Luísa Geraldes preden les
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

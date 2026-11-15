@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 18/2008
-official_date: null
+official_date: '2008-01-31'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Aquafitness - Actividades Desportivas, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 18/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1064](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1064).
+Proe.n.° 137/07
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n.° | 108
+Aquafitness - Actividades Desportivas, Lda notificou um tratamento de dados pessoais com a finalidade de gestão de clientes.
+Declaram as seguintes categorias de dados pessoais: nome, BI, NIF, data de nascimento, naturalidade, nacionalidade, sexo, profissão, existência de declaração médica (s/n), dados de facturação.
+Os dados são recolhidos pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98), com excepção dos dados relativos à naturalidade e à nacionalidade que são irrelevantes para a prestação dos serviços contratados, pelo que não se autoriza o seu tratamento.
+O fundamento de legitimidade para o tratamento é o consentimento dos titulares, nos termos da alínea a) do artigo 6° da LPD.
+Assim, regista-se, nos termos dos artigos 27° n.° 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Aquafitness - Actividades Desportivas, Lda
+Categoria de dados pessoais tratados - nome, BI, NIF, data de nascimento, sexo, profissão, existência de declaração médica (s/n) e dados de facturação.
+Finalidade - gestão de clientes.
+Comunicação de dados - não há.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação dos dados - 5 anos
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da lei n.° 67/98.
+Lisboa, 31 de Janeiro de 2008
+A Secretária da CNPD
+Isabel Gristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

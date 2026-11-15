@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BBVA – INSTITUIÇÃO FINANCEIRA DE CRÉDITO, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:30:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2380/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23196](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23196).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 3381/2010 2380
+AUTORIZAÇÃO N.°
+/2010
+BBVA - Instituição Financeira de Crédito, S.A.notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transacções comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+Plurimarketing - Telemarketing e Marketing Directo, S.A., com sede em Portugal, é a entidade encarregada do processamento da informação, a qual se encontra vinculada à entidade responsável pelo tratamento por via de subcontratação.
+A CNPD já se pronunciou na sua Deliberação n.º 922/2009' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.º 922/2009, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequívoco do titular (n.° 1 do artigo 4° da Lei n.º 41/2004, de 18 de Agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efectue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respectivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20° do Código de Trabalho, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.º 2, 28.° n.º 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+BBVA - Instituição Financeira de Crédito, S.A.
+Finalidade
+Prova das transacções comerciais e quaisquer outras comunicações respeitantes à relação contratual
+' Disponível em http://www.cnpd.pt/bin/decisoes/2009/htm/del/del_922_2009.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Categoria de dados pessoais tratados
+Dados de tráfego realizadas conteúdo das chamadas
+Forma de exercício dos direitos de acesso e rectificação
+Por solicitação ao responsável
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados 90 dias
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de Outubro.
+Dos termos e condições fixados na Deliberação n.º 922/2009 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Esclarece-se que a presente Autorização não inclui a finalidade de auditoria para verificação da qualidade do serviço prestado, nem a finalidade de gravação de chamadas no âmbito de call centers (Decreto-Lei n.º 134/2009), que por constituírem finalidades diferentes carecem de notificações autónomas.
+Lisboa, 24/05/2010
+Ana Roque (Relatora), Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade.
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

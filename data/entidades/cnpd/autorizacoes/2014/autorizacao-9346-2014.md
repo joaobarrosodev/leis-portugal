@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 9346/2014
-official_date: null
+official_date: '2014-10-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Ana Catarina Batista Dos Santos'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T20:05:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9346/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/69688](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/69688).
+Proc. ° n.° 13006/2014 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃO N° 93Y6 / 2014
+Ana Catarina Batista dos Santos, no âmbito da sua Tese de Mestrado em
+Enfermagem de Saúde Infantil e Pediatria, notificou à Comissão Nacional de Proteção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo sobre "Atitudes e Comportamentos Sexuais dos Adolescentes que Frequentam o 12.° Ano de Escolaridade".
+Serão incluídos no estudo todos os alunos inscritos no 12.º ano de escolaridade no ano letivo 2014/2015, nas escolas secundárias de ensino público da Covilhã, Fundão e
+Belmonte.
+A participação no estudo consiste na resposta a um questionário de autopreenchimento pelos titulares dos dados, em ambiente escolar.
+No "caderno de recolha de dados" não há identificação nominal do titular, nem recolha de qualquer dado suscetível de o identificar, pelo que se considera anónimo.
+Será solicitado o consentimento informado aos participantes e aos representantes legais dos menores, cuja declaração será conservada no processo individual do aluno.
+A investigadora terá unicamente acesso aos questionários anónimos.
+Os destinatários serão informados sobre a natureza facultativa da sua participação e será garantida confidencialidade no tratamento.
+Pela análise dos dados recolhidos e da metodologia aplicada verifica-se que não há tratamento de dados pessoais, uma vez que em nenhum momento do estudo é possível o relacionamento direto ou indireto da identificação dos participantes no estudo com a informação constante dos cadernos de recolha de dados. Assim, porque não existe tratamento de dados pessoais, não se aplica a Lei n.º 67/98, de 26 de outubro. Deste modo, o estudo, do ponto de vista da proteção de dados, pode ser
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Proc. ° n.° 13006/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS realizado, desde que acautelada a conservação da declaração de consentimento informado separadamente do questionário.
+Lisboa, 14 de outubro de 2014, fere
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39)
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

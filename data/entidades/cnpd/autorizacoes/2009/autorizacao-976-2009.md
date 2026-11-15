@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CITIBANK INTERNACIONAL plc SUCURSAL EM PORTUGAL (EX: CITIBANK PORTUGAL, S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,65 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:22:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 976/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14885](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14885).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo N.º10095/2008
+AUTORIZAÇÃO N.º976 /2009
+PEDIDO
+O CITIBANK INTERNATIONAL PLC - SUCURSAL EM PORTUGAL, S.A., com sede na Rua Barata Salgueiro, 30 - 4°, 1269 056 Lisboa, notificou à Comissão
+Nacional de Protecção de Dados CNPD) um tratamento de dados pessoais com a finalidade declarada de "Gestão de Contas em divida com vista ao contacto com o cliente de forma a obter a regularização do atraso".
+Para atingir tal finalidade o declarante pretende tratar os seguintes dados pessoais dos seus clientes, titulares de cartões de crédito Citibank Visa:
+Número de cliente, nome do cliente, valor em dívida, morada/domicílio, código postal, teletones, protissão, local de trabalho, morada profissional, bilhete de identidade e número de identificação fiscal.
+O tratamento será efectuado por conta do declarante sendo o subcontratante
+Logicomer - Gestão e Recuperação de Créditos, SA.
+Entre a declarante e a subcontratante foi celebrado, em obediência ao disposto no artigo 14.° - 3 da Lei 67/98, de 26 de Outubro, um contrato que vincula a
+Logicomer - Gestão e Recuperação de Créditos, SA ao CITIBANK
+INTERNATIONAL PLC - SUCURSAL EM PORTUGAL, S.A e que estipula que o subcontratante apenas actua mediante instruções do responsável pelo tratamento e lhe incube igualmente o cumprimento das obrigações de segurança estatuídas no N.º 1 do acima referido artigo e no artigo 16.° da mesma lei.
+O declarante dispõe da Autorização N.º 126/97 da CNPD para o tratamento de dados pessoais no âmbito da gestão do cartão de crédito Citibank Visa.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+APRECIAÇÃO
+Respeitando o tratamento de dados pessoais relativos ao crédito e solvabilidade dos titulares dos dados, o tratamento está sujeito ao controlo prévio da CNPD e carece da sua autorização (cf. artigo 28.° - 1 - b) da Lei 67/98, de 26 de Outubro).
+A legitimidade para o tratamento resulta da necessidade de execução do contrato celebrado entre o titular dos dados e o responsável pelo tratamento no âmbito da utilização do cartão de crédito devendo este no acto de formalização do mesmo informar o titular de que os dados poderão ser transmitidos ao subcontratante. (cf. artigos 6° - a) e 10° da Lei 67/98, de 26 de Outubro).
+Os dados pessoais a tratar são adequados, pertinentes e não excessivos e o tempo de conservação consentâneo com a finalidade (cf. artigo 5.° -1 c) e e).
+Estão garantidos os direitos de acesso e de oposição do titular dos dados (cf.
+artigos 11.° e 12.° da Lei 67/98, de 26 de Outubro).
+Tudo ponderado, autoriza-se o tratamento notificado, consignando-se, nos termos do n.º 1 do artigo 27.°, da alínea c), do n.º 1, do artigo 28.° e do artigo 30.°, todos da Lei n.º 67/98, de 26 de Outubro, o seguinte:
+1.Responsável do ficheiro: CITIBANK INTERNATIONAL PLC -
+SUCURSAL EM PORTUGAL, S.A.
+2. Dados pessoais tratados: Número de cliente, nome do cliente, valor em dívida, morada/domicílio, código postal, telefones, profissão, local de trabalho, morada profissional, bilhete de identidade e número de identificação fiscal.
+3. Finalidade: Gestão de Contas em divida com vista ao contacto com o cliente de forma a obter a regularização do atraso.
+4. Forma de exercício do direito de acesso e rectificação: Por comunicação ao responsável pelo tratamento.
+5. Comunicação: Não há.
+6.Interconexões: Não existem.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 7. Transferências de dados para países terceiros: Não há.
+8. Tempo de conservação: Sete meses após o término do contrato entre o titular dos dados e o responsável pelo tratamento.
+Consigna-se que o responsável pelo tratamento dos dados deve assegurar o ponto de vista do titular dos dados quando este invoque razões para fundamentar o incumprimento.
+Lisboa, de panço de 2009.
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso,
+Luís Paiva de Andrade (Relator), Vasco Almeida
+Luis Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

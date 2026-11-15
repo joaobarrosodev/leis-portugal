@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 40/2000
-official_date: null
+official_date: '2000-07-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO SANTANDER CONSUMER PORTUGAL (EX: INTERBANCO, S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,38 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:09:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 40/2000
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10371](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10371).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 427/96
+AUTORIZAÇÃO N.°40/2000
+O Interbanco, SA vem informar que pretende transmitir e consultar os dados pessoais com cada um dos Bancos do Grupo BCP/Atlântico com o fim de «garantir os níveis de serviço contratados com os clientes, minimizar os riscos próprios da actividade dos Bancos e garantir a segurança das operações realizadas e para efeitos de reconciliação da informação recíproca no âmbito das regras específicas aplicáveis à prossecução do seu objecto social».
+O pedido é demasiado genérico, podendo a CNPD aceitar - em face dos elementos adiantados - a troca de informação recíproca no âmbito dos "riscos de crédito" entre o
+InterBanco, SA e as entidades financeiras do Grupo BCP/Atlântico. Efectivamente, o artigo 83.° do DL 298/92, de 31 de Dezembro, estabelece que "as instituições de crédito poderão organizar, sob regime de segredo um sistema de informações recíprocas com o fim de garantir a segurança das operações". A troca de informações no âmbito desta finalidade - porque resultante de disposição legal (cf. art. 6. al. b) da
+Lei 67/98, de 26 de Outubro) - é possível entre as empresas do Grupo BCP/Atlântico.
+A utilização da informação para qualquer outra finalidade (vg. realização de operações de depósito, transferências, informação de saldos, emissão de extractos de conta, emissão de cheques) deve ser formulada em pedido expresso à CNPD do qual constem: a identificação da empresas que podem ter acesso à informação, as finalidades do acesso, indicação dos dados pessoais disponibilizados e indicação no sentido de saber se há autorização dos titulares dos dados (corpo do art. 6.° da Lei 67/98) ou se a-disponibilização da informação decorre de contrato estabelecido (art.
+6.° al. a).
+Em face do exposto a CNPD delibera alterar a autorização n.º 4/95 de 7 de Março autorizando o acesso à informação às empresas financeiras do Grupo BCP/Atlântico desde que os dados sejam fornecidos "sob regime de segredo" e com o fim de
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS "garantir a segurança das operações", nos precisos termos do artigo 83.º do DL 298/92, de 31 de Dezembro (cf. art. 6.° al. b) da Lei 67/98).
+Lisboa, 14 de Julho de 2000
+Amadeu Guerra (relator)
+Catain tementel astor
+Catarina Castro
+Taniafase obesion incia?
+Paula Veiga r0-2
+Luís Durão Barroso doao Sımões de Almeida
+Mário Varges Gomes
+João Labescat (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

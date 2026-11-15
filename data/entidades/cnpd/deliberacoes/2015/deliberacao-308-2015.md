@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Associação Portuguesa de Seguradores'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 6 de 6 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,117 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:49:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 308/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/74223](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/74223).
+Processo n.º 7322/2009 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Deliberação n.º 308/2015 1- Relatório
+A Associação Portuguesa de Seguradores (APS) veio solicitar à Comissão Nacional de Protecção de Dados (CNPD) que se pronunciasse sobre a sua pretensão de permitir o acesso online à Guarda Nacional Republicana (GNR) à designada plataforma Segurnet, a qual é constituída pelo Ficheiro Nacional de Matrículas (FNM)
+e pelo Ficheiro de Sinistros e Fraude Automóveis (FSFA). Pretende, ainda, enviar à
+GNR informação sobre veículos que não possuem seguro válido no FNM.
+Foi elaborado Projeto de Deliberação em 6 de janeiro de 2015, o qual remetido à
+Requerente para os efeitos do disposto nos artigos 100° e 101° do CPA, não foi objecto de oposição.
+2- Do Pedido
+Pretende-se com o presente pedido que a CNPD se pronuncie sobre a possibilidade de acesso online por parte da Guarda Nacional Republicana (GNR) à designada plataforma Segurnet, a qual é constituída pelo Ficheiro Nacional de Matrículas (FNM)
+e pelo Ficheiro de Sinistros e Fraude Automóveis (FSFA). Pretende, ainda, enviar -se à GNR informação sobre veículos que não possuem seguro válido no FNM.
+Os referidos acessos serão titulados por um protocolo de colaboração, que regula os princípios gerais e procedimentos para o acesso/comunicação, a estabelecer entre a
+APS e a GNR.
+Serão atribuídos códigos de acesso, compostos por username e password, para cada utilizador.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 7322/2009 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Estabelece o protocolo, no n.º 3 da cláusula 3.ª, que o acesso à informação e a posterior utilização da mesma é da responsabilidade da GNR, cabendo-lhe estabelecer normas internas para o efeito. Deverá, nomeadamente, garantir que o acesso à informação só será efetuado no âmbito de processos de investigação devidamente instruidos.
+Está ainda previsto, na cláusula 4.ª, o envio, semanal, de um ficheiro eletrónico, por meio seguro, com informação sobre os veículos que não possuem registo de seguro válido no FNM. O referido ficheiro conterá a matrícula, marca, modelo, data da anulação do seguro e classe.
+A APS fará registo dos acessos dos utilizadores fornecendo-os regularmente à GNR, para efeitos de auditoria da sua utilização. Os logs dos acessos e das tentativas de acesso serão conservados pelo período de dois anos.
+De acordo com a cláusula 8.ª o acesso ao FNM tem por finalidade promover a rápida e completa identificação de veículos envolvidos em acidentes de viação, bem como de veículos que circulem sem seguro.
+Sob a epígrafe Conteúdo da informação, o n.º 1 da cláusula 9.ª elenca a informação acessível no FNM e o n.º 2 estabelece que o ficheiro é atualizado semanalmente, afirmando que podem verificar-se pontual e temporariamente desfasamentos, nomeadamente, no que respeita à validade do seguro, pelo que deverá a autoridade (...) confirmar junto do proprietário do veículo a prova da existência de seguro válido.
+A informação acessível é a seguinte: Identificação do contrato (seguradora, data de início, data e motivo de anulação, data de início e fim da matrícula no contrato e estado - vigor, anulado, espera.); Identificação do tomador do seguro (Nome, tipo e n.° do documento de identificação); Caraterísticas do veículo (matrícula, data, nacionalidade, marca, modelo, cor, ano de fabrico, categoria, cilindrada, peso bruto, lotação, combustível, tipo de caixa e número de chassis); e, Histórico (toda a informação respeitante a contratos anteriores para essa matrícula).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 7322/2009 3
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+O protocolo prevê que as pesquisas ao FSF sejam efetuadas por referência à matrícula do veículo e nome do tomador, neste último caso desde que preenchido o campo documento identificativo (cláusula 10.°).
+O acesso ao FSFA tem por finalidade a deteção de situações fraudulentas no seguro e os acessos, que são apenas efetuados por referência à matrícula do veículo (cf.
+cláusula 13ª), disponibilizam a informação relativa a sinistros participados às seguradoras, discriminando a data do acidente, o número de veículos intervenientes e respetivas matrículas, bem como, se conhecidas situações de fraude.
+Finalmente, estabelece o protocolo que a GNR, através do sistema de comunicação em uso entre forças policiais com competência na fiscalização rodoviária, pode transmitir à PSP, nas condições previstas no protocolo, os dados que lhe são comunicados, informando desse facto a APS.
+3- Apreciação
+Compete à GNR, no que a este protocolo importa, velar pelo cumprimento das leis e regulamentos relativos à viação terrestre e aos transportes rodoviários, e promover e garantir a segurança rodoviária (cf. alínea f) do n.º 1 do artigo 3.° da Lei n.° 63/2007, de 6 de novembro).
+Compete-lhe, também, por força do Código da Estrada, designadamente, nos termos do artigo 85.° e alínea f) do n.º 1 do artigo 162.°, fiscalizar o cumprimento da obrigação de seguro automóvel.
+O protocolo, na cláusula 1.ª, estabelece o respetivo objeto, o qual consiste na regulação dos procedimentos relativos à utilização, pela GNR, do Ficheiro Nacional de
+Matrículas (FNM) e do Ficheiro de Sinistros e Fraude Automóvel (FSFA), bem como ao envio às forças policiais da informação respeitante aos veículos que não registam seguro válido no FNM.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt.
+www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 7322/2009 | 4 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Suscitam-se reservas à parte final deste artigo. O presente protocolo é celebrado com a GNR, pelo que a previsão do envio de informação deverá ser expressamente para a
+GNR e não, genericamente, para as forças policiais.
+Quanto à disponibilização de informação de veículos que não possuem registo de seguro válido no FNM, regulada na cláusula 4.ª, importa referir que esta é uma informação com efeitos negativos para o proprietário do veículo, criando a convicção de que há uma violação de lei. Acresce que a informação pode estar desatualizada, fazendo-se referência expressa à necessidade de a GNR confirmar junto do proprietário a existência de seguro válido.
+O protocolo tem por objeto o estabelecimento dos procedimentos para que a GNR tenha acesso online, o que garantirá a atualidade da informação ou, pelo menos, diminuira, substancialmente, a possibilidade dos desfasamentos. Tendo a GNR esse acesso online à informação, é difícil compreender a razão pela qual é, semanalmente, enviado um ficheiro com informação relativa às matrículas em vigor que não possuem seguro válido.
+O facto de um veículo ter uma matrícula válida e não possuir seguro não é em si mesmo indiciador de qualquer violação. Essa violação só ocorrerá se o veículo estiver em circulação. Ora, no âmbito das suas competências a GNR tem mecanismos legalmente previstos ao seu dispor para fiscalizar a existência de seguro automóvel válido.
+Acresce que eventuais vantagens que poderiam decorrer da disponibilização desta informação, que não estão demonstradas, teriam necessariamente que ceder face à disseminação de informação que induz um juízo de prevaricação sem garantias de fiabilidade e atualidade, potenciando, deste modo, a divulgação de dados pessoais que não cumpre os princípios de proteção de dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 7322/2009
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A referência efetuada no processo de autorização' do tratamento de dados pessoais do FNM e do FSFA ao envio [para a GNR] de um ficheiro semanal (Polícia
+Automático) não constitui neste contexto fundamento suficiente. Uma vez que se desconhece a base legal para o referido Polícia Automático e tal base de dados não foi objeto de notificação e autorização pela CNPD.
+Na medida em que o FNM é alimentado diariamente pelas seguradoras e o acesso é online, o n.º 2 da cláusula 9.ª deve ser eliminado, por já não corresponder à realidade, independentemente da GNR ter sempre que confirmar junto do proprietário do veículo a existência de seguro válido.
+Aliás, convém esclarecer que eventuais desatualizações/incorreções dos dados pessoais dos tratamentos da responsabilidade da APS são imputáveis a esta considerando precisamente a sua qualidade de responsável, ficando, desse modo, sujeita às sanções previstas na Lei n.º 67/98, de 26 de outubro
+Não se vê razões para que haja formas diferentes para efetuar as consultas nos dois ficheiros (cláusulas 10.ª e 13.ª). As consultas deverão sempre ser efetuadas por referência à matrícula do veículo e não por referência ao nome do proprietário.
+Ainda que a informação possa ter por destino, fora do âmbito da fiscalização rodoviária, processo-crime e a GNR esteja a atuar com competência delegada do
+Ministério Público, a utilização deste acesso será sempre em função de um veículo concreto, donde a adequação e necessidade do dado matrícula e a consequente desnecessidade e desproporcionalidade da busca de informação a partir do nome do proprietário.
+À CNPD foi enviado para pronúncia protocolo com a mesma finalidade, de teor semelhante, a estabelecer com a PSP, pelo que não se descortina a razão da estipulação de envio pela GNR de informação do FNM ou do FSFA à PSP.
+* Processo n.º 13136/2013.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 7322/2009 6
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Tanto mais que a troca de informações entre forças policiais está sujeita ao princípio da legalidade, não podendo, naturalmente, ser regulada por protocolo com entidades terceiras. Assim, deve a cláusula 14.ª ser eliminada.
+4- Decisão
+Em presença do exposto e nos termos dos estatuído nos artigos 5.°, n°1 alíneas c) e d), 23.°, n°1 alínea c) e 28°, nº1 alínea d) da Lei n.º 67/98, de 26 de outubro, a CNPD delibera autorizar o desvio de finalidade consubstanciado no acesso pela GNR ao
+Ficheiro Nacional de Matrículas e ao Ficheiro de Sinistros e Fraude Automóvel da responsabilidade da Associação Portuguesa de Seguradores com os seguintes limites:
+- O texto do protocolo, no que respeita à cláusula 1.ª, deve ser alterado de modo a eliminar a parte em que prevê o envio às forças policiais da informação respeitante aos veículos que não registam seguro válido no FNM;
+- A cláusula 4.ª, que prevê o envio, semanal, de um ficheiro eletrónico, por meio seguro, com informação sobre os veículos que não possuem registo de seguro válido no FNM, deve ser eliminada;
+- O n.° 2 da cláusula 9.ª deve ser eliminado, por já não corresponder à realidade;
+- As consultas deverão sempre ser efetuadas por referência à matrícula do veículo e não por referência ao nome do proprietário;
+- A cláusula 14.ª deve ser eliminada pois a troca de informações entre forças policiais não pode ser regulada no presente protocolo.
+Lisboa, 23 de feuuis2015 jer
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt.
+www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

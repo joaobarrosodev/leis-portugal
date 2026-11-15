@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Condifaro - Administração de Condomínios, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 34/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1048](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1048).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 381/07
+Registo n.º 34 108
+Condifaro - Administração de Condomínios, Lda notificou um tratamento de dados pessoais com a finalidade gestão de condomínios.
+Declaram as seguintes categorias de dados pessoais: Nome, morada, morada alternativa, telefone, e-mail, NIFe BI.
+Apesar da entidade não ter declarado, terá necessariamente que, face à finalidade, tratar dados relativos a débitos e créditos dos condóminos e dados relativos à identificação do imóvel, seguro do imóvel.
+Os dados são recolhidos pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da
+LPD, a execução do contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Condifaro - Administração de Condomínios, Lda
+Categoria de dados pessoais tratados - Nome, morada, telefone, NIF, BI, identificação do móvel, seguro do imóvel e débitos e créditos.
+Finalidade - gestão de condominios
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável por telefone ou por escrito;
+Comunicação de dados - Não há
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação dos dados- 5 anos
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei n.º 67/98, de 26 de Outubro,
+Finalmente, alerta-se o responsável que não poderão ser afixadas no condominio as listagens dos condóminos devedores de quotas.
+Lisboa, 6 de Fevereiro de 08
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

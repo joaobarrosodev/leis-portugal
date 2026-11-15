@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1373/2007
-official_date: null
+official_date: '2007-07-16'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GESSA - CLÍNICA MÉDICA DAS FONTAÍNHAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:16:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1373/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1936](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1936).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 2777/07
+AUTORIZAÇÃO N.º 1373 /2007 1. A sociedade comercial por quotas GESSA - Clínica Médica das
+Fontaínhas, Lda., veio notificar um tratamento relativo aos doentes seguidos nas clínicas de que é proprietária, a saber: Clínica Médica das
+Fontaínhas, Clínica da Beloura e Clínica Parque do Estoril. Os tipos de dados recolhidos são os seguintes:
+Dados de identificação - nome, morada, telefone, data de nascimento, sexo, BI, NIF, sistema de saúde, n° apólice seguro de saúde.
+Diagnóstico, receitas e documentos clínicos.
+III- Variáveis clínicas e laboratoriais por consulta.
+2. Analisado o processo verifica-se que:
+• Há tratamento de dados de saúde;
+• As medidas de segurança adoptadas são as seguintes: cópias de backup, password de acesso às informações, acesso restrito de pessoas.
+A Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais.
+O artigo 7.° n.º 1 proíbe, por princípio, o tratamento destes dados. Porém, os números seguintes (n.º 2 e n.º 4) vieram estabelecer as situações em que será possível o tratamento destes dados.
+Em relação ao tratamento de dados de saúde e dados genéticos, admite o artigo 7.°, n.º 4, o respectivo tratamento, quando for necessário «para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS sigilo ou por outra pessoa sujeita igualmente a segredo profissional» e desde que sejam «garantidas medidas adequadas de segurança da informação».
+3. A informação tratada é recolhida de forma lícita (art. 5.° n.° 1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (art. 5.° n.° 1 al. b)
+e não há recolha de informação excessiva (art. 5.° n.° 1 al. c).
+Quando os dados são processados no âmbito da realização de diagnósticos, medicina preventiva, prestação de cuidados de saúde ou tratamentos médicos ou gestão de serviços de saúde, há legitimidade para ser feito o seu tratamento automatizado quando este é feito por pessoas vinculadas a segredo profissional (cf. art. 7.° n.º 4 de Lei 67/98 de 26/10). Parecem adequadas as normas de segurança adoptadas. É recolhido também o consentimento expresso dos titulares. Em relação ao prazo de conservação devem ser observadas as disposições da Portaria n.° 247/2000, de 8 de Maio.
+Assim, nos termos do artigo 28.°, n.º 1 - al. a), 7.°, n.º 2, e 29.° da Lei 67/98, de 26 de Outubro, a CNPD autoriza o tratamento automatizado, consignando o seguinte:
+1. Responsável:. GESSA - Clínica Médica das Fontaínhas, Lda.
+2. Categorias de dados pessoais tratados: dados de identificação dos doentes, diagnóstico e variáveis clínicas e laboratoriais por consulta.
+3. Finalidades: diagnóstico médico e prestação de cuidados ou tratamentos médicos;
+4. Conservação: nos termos da Portaria n.º 247/2000, de 8 de Maio;
+5. Forma de exercício do direito de acesso e rectificação: Sempre que o doente ou o seu legal representante o solicite através de contacto directo. Em relação aos dados de saúde deve fazê-lo através de médico (art. 11.°, n.° 5, da
+Lei 67/98).
+Lisboa, 16 de Julho de 2007.
+Ana Róque (relatora)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Carjos Lobo
+Helena Delgado António
+Eduardo Campos
+Luís Bartoso
+Na perfemeida
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA --- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

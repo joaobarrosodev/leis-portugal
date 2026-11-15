@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 107/2001
-official_date: null
+official_date: '2001-06-26'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ADMINISTRAÇÃO REGIONAL DE SAÚDE DO ALGARVE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:06:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 107/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10102](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10102).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 131/98
+AUTORIZAÇÃO N.º 107/2001 1. A Administração Regional de Saúde do Algarve estabeleceu um programa conjunto com o Instituto Português de Oncologia de Lisboa e que tem em vista estabelecer um programa de trabalho dirigido à «prevenção do cancro do colo do útero».
+O tratamento por parte da ARS do Algarve encontra-se regulada pela Autorização n.° 85/2001, de 15 de Maio.
+2. A ARS do Algarve pretende comunicar dados nominativos ao Instituto Português de Oncologia Francisco Gentil 'sem prévio consentimento dos titulares dos dados".
+O tratamento de dados, para além de estar fundamentado em objectivos de medicina preventiva, diagnóstico médico e prestação de cuidados de saúde (cf. art. 7.° n.º 4 da
+Lei 67/98, de 26/10), é feito no contexto da Portaria n.º 35/88, de 16 de Janeiro.
+Esta Portaria estabelece a existência de um registo oncológico em cada hospital (n.° 6), havendo Registos Oncológicos Regionais, incumbidos da «colheita de dados sobre doentes oncológicos e a sua análise e interpretação», tendo em vista a «elaboração de relatório contendo a informação devidamente trabalhada» (n.º 1 e 3).
+A Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais. Em relação ao tratamento de dados de saúde admite o artigo 7.º n.º 4 o seu tratamento quando for necessário «para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional» e desde que sejam «garantidas medidas adequadas de segurança da informação».
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A CNPD, em face da Portaria n.º 35/88, considera que existe legitimidade para a comunicação de dados ao IPO Francisco Gentil - por força do artigo 7.° n.º 2 da Lei 67/98, de 26 de Outubro - na medida em que os objectivos e finalidades do tratamento resultam de disposição legal e o tratamento está fundamentado na prossecução de um «interesse público importante»: caracterização do programa e realização de estudos de investigação que permitam tomar medidas preventivas em relação a esta doença.
+Em face do exposto a CNPD autoriza a comunicação de dados ao IPO, devendo os titulares dos dados ser informados da finalidade do tratamento e comunicação, num dos ofícios junto ao processo («Carta Convite» - destinada à convocatória/convite na participação do programa; ou na «Carta de resultado» - em que é comunicado o resultado dos testes realizados).
+Lisboa, 26 de Junho de 2001
+Amadeu Guerra (Relator)
+Catarinefumente Castros
+Catarina Castro
+Luís Durão Barroso oão Simões de Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

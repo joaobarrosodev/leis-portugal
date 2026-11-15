@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 187/2007
-official_date: null
+official_date: '2007-02-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CENTRO HOSPITALAR COVA DA BEIRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:38:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 187/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3177](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3177).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 3886/06
+Autorização n° 181/2007 1. O Centro Hospitalar Cova da Beira, E.PE., vem proceder à notificação do tratamento que tem como finalidade a gestão dos Registos dos utentes do
+Hospital relativos a marcação de consultas, respectiva data e especialidade. O titular dos dados pode aceder à informação utilizando o n° do cartão de utente.
+São recolhidos dados sobre identificação de doentes (n° de utente, data das consultas marcadas e especialidade.
+2. A Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais. Em relação ao tratamento de dados de saúde admite o artigo 7.° n.º 4 o seu tratamento quando for necessário «para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional» e desde que sejam «garantidas medidas adequadas de segurança da informação».
+A informação tratada é recolhida de forma lícita (art. 5.° n.° 1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (art. 5.° n.º 1 al. b).
+A CNPD considera que existe legitimidade para o tratamento destes dados -por força do artigo 7.° da Lei 67/98, de 26 de Outubro - na medida em que se destina à gestão de serviços de saúde.
+Em face do exposto a CNPD autoriza o tratamento relativo aos registos à gestão dos Registos dos utentes do Hospital relativos a marcação de consultas, respectiva data e especialidade, nos termos do artigo 30.° da Lei 67/98, consignando o seguinte:
+1. Responsável: Centro Hospitalar Cova da Beira, E.P.E.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2. Categorias de dados pessoais tratados: Os indicados em anexo ao formulário.
+3. Finalidade: Gestão dos Registos dos utentes do Hospital relativos a marcação de consultas, respectiva data e especialidade 4. Não há comunicação de dados.
+5. Forma de exercício do direito de acesso e rectificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.°.
+6. Não há interconexão de dados 7. Não há transferência de dados para países terceiros.
+8. Conservação dos dados: durante o tempo de vigência do cartão de utente do Hospital.
+Lisboa, 1 de Fevereiro de 2007.
+Ana Roqu
+Relatora)
+Luís Barroso efe cecel
+Helena Delgado António
+Eduardo Campos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS vageralmida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

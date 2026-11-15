@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6142/2018
-official_date: null
+official_date: '2018-05-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Mário Augusto Morais Ribeiro'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,78 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:47:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6142/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/120520](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/120520).
+Processo n.° 3717/2018 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 6142/2018
+I - Pedido
+Mário Augusto Morais Ribeiro, notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade gestão de processos clínicos.
+Os dados pessoais objeto de registo são os seguintes: gestão de processos clínicos.
+Os dados são recolhidos de forma direta, presencialmente, por telefone, e por impresso.
+Não se verifica comunicação de dados a terceiros.
+Existem interconexões de tratamentos: «esclarecer um caso clínico com algum colega de profissão, etc.»
+Não existem fluxos internacionais de dados para países terceiros.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem, por escrito e presencialmente, no endereço: Largo Padre Joaquim Pereira dos
+Santos, n.º 304, 1.°, 4460 - 446 Matosinhos.
+Pretende-se a conservação dos dados por 10 anos.
+Não são indicadas medidas de segurança física, nem lógica.
+II - Apreciação
+Na notificação, constam como dados tratados os supra descritos. Atenta a finalidade notificada, de gestão de processos clínicos, é óbvio, por implícito, que os dados pessoais atinentes ao nome, morada, contactos, NIF, data de nascimento e dados de saúde, serão objeto de tratamento.
+Assim, porque se trata de uma imperfeição na formulação do pedido, e no sentido de suprir a falta de indicação explícita dos dados a tratar, visto que o Requerente se limitou a introduzir na lista de dados pessoais tratados: "gestão de processos clínicos", ao abrigo do n.º 2 do artigo 108.° do Código do Procedimento Administrativo (CPA), redefinimos a caraterização dos dados nos termos acima especificados.
+O n.° 4 do artigo 7.° da Lei n.º° 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015 de 24 de agosto (LPDP), admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.º 17198/2017 | 1v.
+efetuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+A informação tratada é recolhida de forma lícita (artigo 5.° n.º 1, alínea a), da LPDP), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva. A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.º 4 de LPDP.
+Relativamente à interconexão constata-se que a mesma não corresponde a uma efetiva interconexão de tratamento de dados, na aceção conferida pela norma constante da alínea i) do artigo 3.° da LPDP, motivo pelo qual se desconsidera a interconexão declarada.
+Sendo que, o profissional de saúde poderá sempre esclarecer um caso clínico com algum colega de profissão desde que assegure a pseudonimização do paciente, ou assegure o anonimato quanto à identificação daquele, permitindo deste modo, assegurar o propósito evidenciado pelo Requerente.
+Quanto ao direito de acesso, deve o mesmo respeitar o disposto no artigo 3.°, n.° 3, da Lei n.º 12/2005, de 26 de janeiro (Lei da Informação Genética Pessoal e Informação de Saúde), na redação que lhe foi dada pela Lei n.° 26/2016, de 22 de agosto, e que agora apenas obriga à intermediação de médico no acesso aos dados de saúde do titular quando este último o solicite. Tal vem, indiscutivelmente, revogar o n.º 5 do artigo 11.°, da LPDP, que fazia depender da intermediação de médico o "acesso à informação relativa a dados de saúde, incluindo os dados genéticos".
+A precisão introduzida pela nova versão da Lei da Informação Genética Pessoal e
+Informação de Saúde não vem, contudo, afastar, as mais elementares regras de proteção de dados pessoais, nomeadamente no que respeita ao direito de acesso. Desta forma, o artigo 3.°, n.º 3, da Lei n.º 12/2005, de 26 de janeiro, deve ser alvo de leitura conjugada com o disposto no artigo 11.°, n.º 1, da LPDP, mantendo-se o direito, por parte do titular, de aceder aos seus dados pessoais e "...de obter do responsável pelo tratamento, livremente e sem restrições, com periodicidade razoável e sem demoras ou custos excessivosii tudo quanto vem disposto nas alíneas do referido preceito da LPDP.
+
+Processo n. 3717/2018 | 2 /^
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+A novidade assim introduzida não prejudica, ainda, os casos em que não seja apurável a vontade do titular dos dados, onde se mantém a obrigação de intermediação médica no acesso à informação de saúde, como o prescreve o n.º 4 do artigo 3.° da Lei da Informação
+Genética Pessoal e Informação de Saúde.
+Quanto à conservação dos dados, entendemos que os processos clínicos e demais documentos de suporte a dados de saúde devem ser conservados pelos períodos previstos na Portaria n.º 247/2000, de 8 de maio, alterada pela Portaria n.º 157/2014, de 19 de agosto.
+Para efeitos de faturação, os dados podem ser conservados pelo período de 10 anos, atento o disposto no artigo 123.° do Código do IRC.
+Deve ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação aos titulares dos dados, nos termos dos artigos 10.° da LPDP;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. artigo 15.° n.º 3 da
+LPDP);
+c) Devem ser adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7.° n.º 4 da LPDP).
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento é a esta que cabe assegurar o resultado de efetiva segurança da informação e dos dados tratados.
+III - Decisão
+Nestes termos e ao abrigo do disposto nos artigos 7.° n.º 4 e 30.° da LPDP, a CNPD autoriza o tratamento notificado, consignando o seguinte:
+Responsável pelo tratamento: Mário Augusto Morais Ribeiro;
+Finalidade: gestão de processos clínicos;
+Categorias de dados pessoais tratados: nome, morada, contactos, NIF, data de nascimento e dados de saúde.
+Comunicação de dados: não se verifica;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.º 17198/2017 2v.
+Forma de exercício do direito de acesso e retificação: presencialmente, no endereço: Largo
+Padre Joaquim Pereira dos Santos, n.º 304, 1.°, 4460 - 446 Matosinhos;
+Interconexão de dados: não se verifica;
+Transferência de dados para países terceiros: não há;
+Conservação dos dados:
+a) Dados de saúde - pelo prazo previsto na Portaria n.º 247/2000, de 8 de maio com as alterações introduzidas pela Portaria n.º 157/2014, de 19 de agosto;
+b) Dados para faturação - 10 anos.
+Lisboa, 14 de maio de 2018
+Filipa Calvão (Presidente)

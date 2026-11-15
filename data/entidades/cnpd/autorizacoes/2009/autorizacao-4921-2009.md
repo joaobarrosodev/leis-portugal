@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ABBOTT LABORATÓRIOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:16:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4921/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19897](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19897).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 6080/2009
+AUTORIZAÇÃO N.º 4921 12009
+O Abbott Laboratórios, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo não intervencional de registo a 5 anos de Humira (Adalimumab) em indivíduos com doença de Crohn de actividade moderada a grave (Protocolo
+P06-134).
+Serão incluídos no estudo os doentes com a patologia que frequentam a consulta dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+No que concerne ao tratamento do dado raça, o responsável pelo tratamento justificou a sua necessidade do seguinte modo: "... sabe-se que as populações racialmente homogéneas partilham muitos genes, constituindo a raça um indicador da herança genética partilhada.
+segurança.
+Por exemplo, tem sido recorrentemente reportado que os negros são mais susceptíveis a falência terapêutica com hipertensores do que os caucasianos, quando tratados com beta-bloqueadores ou com inibidores ECA.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, é importante para o objectivo deste estudo, o facto da influência da raça na tolerância terapêutica ter sido pouco ou nada estudada para uma vasta gama de medicamentos, nos quais se incluem adalimumab, mas que poderá ter impacto sobre a ocorrência de efeitos adversos, como recentemente comunicado para a terapêutica cardio-vascular em indivíduos negros na meta-análise efectuada por McDowell e colaboradores. Este estudo revelou um risco três vezes maior de angioedema em negros em comparação com não negros, em doentes submetidos a IECAS, assim como um risco duas vezes maior de hemorragia intracraniana em doentes submetidos a terapêutica trombolítica.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Abbott Laboratórios, Lda
+Finalidade: estudo não intervencional de registo a 5 anos de Humira (Adalimumab) em indivíduos com doença de Crohn de actividade moderada a grave (Protocolo P06-134).
+Categoria de Dados pessoais tratados: código do doente, número do caderno de recolha de dados (CRF), dados demográficos (data de nascimento, sexo e raça), escolaridade, estado civil, história clínica, exame objectivo, eventos adversos, medicação, qualidade de vida, utilização de recursos de saúde.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 2271 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, de Outubro de 2009
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo (Relator), Luis Barroso
+Luís Lingnau da Silveira (Presidente)

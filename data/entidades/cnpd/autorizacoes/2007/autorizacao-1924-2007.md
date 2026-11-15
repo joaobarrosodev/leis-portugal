@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: E M - EMPRESA METROPOLITANA DE ESTACIONAMENTO DA MAIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:07:06Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1924/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1211](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1211).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 1096/2003
+AUTORIZAÇÃO N.º (92/2007
+A Empresa Metropolitana de Estacionamento da Maia, E.M., vem notificar à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais relativo à gestão de processos de contra-ordenação.
+Os dados contidos em cada registo são o nome, residência, bilhete de identidade e/ou cartão de condução (no caso de pessoas singulares), número de identificação fiscal (pessoas colectivas) e dados relativos a veículos.
+A legitimidade para o tratamento de dados em apreço - gestão de contra-ordenações - está previsto no artigo 8.°, n.º 2, da Lei n.º 67/98, de 26 de
+Outubro. Com efeito, a disposição anteriormente citada dispõe que há legitimidade para o tratamento quando seja «necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias dos titulares dos dados».
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (cf. artigo 5.°, n.° 1, alínea c), da Lei n.° 67/98).
+Existem cópias de backup (segurança) dos dados, passwords de acesso à informação e acesso restrito de pessoas às instalações.
+E garantido ao titular o direito de conhecer, corrigir e eliminar os dados que lhe respeitem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt1
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação deverá ser conservada pelo período estritamente necessário à finalidade, não podendo a mesma ser conservada, conforme o caso, para além dos prazos de prescrição do procedimento por contra-ordenação ou de prescrição da coima.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 8.°, n.º 2, e 28.°, n.º 1, alínea a), da Lei n.º° 67/98, de 26 de Outubro, autoriza-se o tratamento de dados relativos aos autos de contra-ordenação, nos seguintes termos:
+Responsável: Empresa Metropolitana de Estacionamento da Maia, E.M..
+Categorias de dados pessoais tratados: o nome, residência, bilhete de identidade e/ou cartão de condução (no caso de pessoas singulares), número de identificação fiscal (pessoas colectivas) e dados relativos a veículos.
+Finalidade: Gestão de processos de contra-ordenação.
+Entidades a quem podem ser transmitidos: Aos tribunais.
+É garantido ao titular o direito de conhecer, corrigir e eliminar os dados que lhe respeitem.
+Prazo de conservação: Deve ser conservada durante o prazo de prescrição do procedimento por contra-ordenação ou de prescrição da coima.
+Lisboa, O8 de Oulato de 2ex7
+Ana Roque
+Cajos de Campos Lobo
+Rua de São Bento. 148 - 3.° - 1200-821 LISBOA -
+E-mail: geral@cnpd.pt
+- Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt 2
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos logeoccole
+Helena Delgado António reatemosaa
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente, que também relatou)
+Rua de São Bento. 148 - 3.° — 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

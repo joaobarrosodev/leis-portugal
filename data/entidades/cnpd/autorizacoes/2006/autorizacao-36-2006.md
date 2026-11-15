@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 36/2006
-official_date: null
+official_date: '2006-02-06'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO PORTUGUÊS DE MUSEUS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:14:39Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 36/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6489](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6489).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc® 2283/02
+Autorização n° 36 12006
+A) O pedido
+O Instituto Português de Museus (IPM), entidade com a natureza jurídica de instituto público, veio requerer autorização à CNPD para efectuar o tratamento de dados que consubstanciam um "registo actualizado de bens culturais móveis de valor museológico, pertencentes a particulares, classificados pelo
+Estado português e que integram o património cultural da nação". Este tratamento contém o nome completo dos proprietários dos bens, o seu endereço e o número de telefone. Não se pretende efectuar qualquer interconexão de dados nem realizar fluxos transfronteiras de dados pessoais.
+B) Apreciação
+O IPM, no âmbito das suas funções e de acordo com as atribuições que lhe são cometidas no Decreto-Lei n° 398/99, de 13 de Outubro, designadamente através do disposto no art. 3°, n° 1 - b), promove o estudo, a salvaguarda, a valorização e a divulgação do património cultural móvel, onde se deve incluir o tratamento de dados relativos aos mesmos bens culturais móveis pertencentes a particulares. Assim, a legitimidade invocada consiste na execução de missão de interesse público, nos termos do art. 6° alíneas b) e d) da Lei n° 67/98, de 26 de Outubro. Nesta medida, cabe-lhe recolher os elementos necessários ao desempenho cabal das suas funções, pelo que pode afirmar-se que o
+Requerente tem legitimidade para o tratamento destes dados
+De acordo com as suas atribuições legais compete ao IPM a obrigatoriedade de manter o registo de informações sobre os bens culturais em causa, com todos os elementos necessários à sua identificação, incluindo quem são os particulares seus proprietários. Deve, contudo, assegurar o direito de informação aos titulares dos dados, nos termos consignados na Lei n° 67/98, art. 10°, n°s 1 e 2, bem como o direito de acesso contemplado no art. 11° do mesmo diploma legal.
+A CNPD autoriza o tratamento por se mostrarem preenchidos os pressupostos legais que permitem deferir o requerido, nos termos do artigo 30° da Lei n°
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 67/98, consignando-se que o tempo de conservação dos dados será o adequado à finalidade do tratamento, tendo em conta a necessidade de salvaguardar o historial dos bens classificados.
+Lisboa, 6 de Fevereiro de 2006.
+Ana Roque (relatora)
+Amadeu Guerra
+Alexandre Pinheiro
+Eduardo Campos
+Luís Barroso
+Luis Lingnau da Siveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

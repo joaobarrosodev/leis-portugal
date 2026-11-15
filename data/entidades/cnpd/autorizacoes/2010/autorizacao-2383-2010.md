@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2383/2010
-official_date: null
+official_date: '2010-05-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CENTRO HOSPITALAR DE LISBOA CENTRAL, EPE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:30:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2383/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23243](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23243).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 10260/2009
+AUTORIZAÇÃO N.° 2383 12010
+O Centro Hospitalar de Lisboa Central, EPE notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de escalas.
+As categorias de dados pessoais tratados são as seguintes: N° mecanográfico, nome, n° de horas e contrato.
+Para a atribuição de salários de acordo com as escalas efectuadas por cada profissional, haverá interconexão de dados com a base de dados RHV de processamento de salários. Deste modo, a interconexão de dados pessoais é adequada à prossecução das finalidades legais.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é a execução do contrato.
+Assim, nos termos da alínea c) do n.º1 do artigo 28° da Lei 67/98, com as condições e limites fixados aqui referidos, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Centro Hospitalar de Lisboa Central, EPE
+Finalidade: gestão de escalas.
+Categoria de Dados pessoais tratados: N° mecanográfico, nome, n° de horas e contrato.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do responsável pelo tratamento dos dados por escrito.
+Interconexões de tratamentos: Há interconexão com a base de dados RHV de processamento de salários.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: um ano após a cessação da relação contratual.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dos termos e condições fixados na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 2 de Maio de 2010
+Ana Roque, Luis Paiva de Andrade, Vasco Almeida (Relator), Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Salge
+Luís Lingnau da Silveira (Presidente)

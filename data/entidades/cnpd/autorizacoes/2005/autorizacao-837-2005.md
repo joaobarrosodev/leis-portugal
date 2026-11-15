@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SONAE IMOBILIÁRIA GESTÃO, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 837/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6543](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6543).
+1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 889/02 837
+Autorização n.° /2005
+Sonae Imobiliária Gestão, SA solicita à Comissão Nacional de Protecção de Dados (CNPD) a introdução das seguintes alterações à Autorização n.º 716/03:
+- a possibilidade de a recolha de dados se processar, também, através de cupão que integra informação não sensível;
+- a possibilidade do titular dos dados os rectificar ou alterar por solicitação por escrito junto da Sonae Imobiliária Gestão, SA;
+- a comunicação dos dados à Nomimarketing Consultores, SA, Lda, para que esta insira os dados constantes dos cupões, não ficando com qualquer cópia de back-up.
+Atendendo a que as alterações não colocam em causa a natureza da Autorização n.º 716/03, a Comissão Nacional de Protecção de Dados autoriza as alterações apresentadas.
+Lisboa, 17 de Ou deGade 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Jan
+Ana Luísa Geraldes
+Amadeu Guerra
+Ses delon
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

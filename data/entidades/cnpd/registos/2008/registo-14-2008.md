@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE PALMELA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,31 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 14/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1068](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1068).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 66/07
+Registo n.º|f 108
+Câmara Municipal de Palmela notificou um tratamento de dados pessoais com a finalidade gestão de correspondência.
+Declara as seguintes categorias de dados pessoais: dados de identificação (nome, morada, telefone, e-mail, fax) e dados relativos ao conteúdo do documento.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da al. b) do artigo 6° da LPD, o cumprimento de obrigações legais.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.° 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Câmara Municipal de Palmela
+Categoria de dados pessoais tratados - dados de identificação (nome, morada, telefone, e-mail, fax) e dados relativos ao conteúdo do documento.
+Finalidade - gestão de correspondência.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável (por escrito ou pessoalmente).
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Lisboa, 24 de Janeiro de 08
+A Secretária da CNPD
+Lavo
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4172/2016
-official_date: null
+official_date: '2016-05-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Centro Hospitalar e Universitário de Coimbra'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,85 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T14:21:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4172/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/90399](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/90399).
+Processo n.º 2887/2016 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 4172 12016 1. Pedido
+Centro de Investigação e Formação Clínica (CIFC) Hospital Pediátrico - Centro
+Hospitalar e Universitário de Coimbra (HP-CHUC) notificou à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de constituição de um biobanco.
+Pretende o responsável, com a criação do biobanco, catalogar e armazenar algumas amostras, que, juntamente com a respetiva informação clinica, poderão servir para encontrar marcadores biológicos que ajudem a compreender melhor os mecanismos da doença, melhorar o diagnóstico, o prognóstico e as decisões terapêuticas.
+A participação no estudo consiste na recolha de amostras de sangue de crianças e dos seus pais, aos quais estará apensa uma base de dados com informações clínicas, estando a identidade dos titulares codificada.
+O médico assistente solicitará o consentimento informado, cuja declaração deverá ser arquivada no processo clínico do participante.
+Os dados pessoais recolhidos são: n.º de participante, sexo, filiação, país de origem, amostras biológicas dos progenitores e dos filhos.
+Os dados serão recolhidos num "caderno de recolha de dados" no qual não há identificação nominal do titular, sendo aposto um código. A chave desta codificação só pode ser conhecida da equipa de investigação.
+Apreciação
+Nos termos da Lei n.° 12/2005, de 26 de janeiro, é legítima a criação de um biobanco com a finalidade de investigação básica ou aplicada à saúde (cf. n.º 3 do artigo 19.°).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.° 2887/2016 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os destinatários deverão ser informados sobre a finalidade do biobanco e que a utilização para estudos futuros será sujeita a um consentimento informado específico, sendo facultativa a sua participação e garantida a confidencialidade no tratamento.
+O consentimento para a conservação dos dados no biobanco não dispensa a solicitação de um consentimento específico para a participação num futuro estudo.
+No que respeita à recolha de país de origem justifica a sua necessidade do seguinte modo: "Não é necessária a recolha da raça mas sim do país de origem. É conhecido que há uma grande variabilidade genética e fenotípica entre populações. Numas as alterações genéticas podem ser patogénicas e noutras ser benignas. Precisamos por isso de comparar as amostras em estudo com controlos que tenham um património genético semelhante".
+Deste modo, entende a CNPD encontrar-se justificada a recolha do dado "país de origem", nos moldes supra descritos.
+Para a constituição do biobanco terá de ser obtida a autorização prévia da entidade credenciada pelo departamento responsável pela tutela da saúde, de acordo com o disposto no n.° 2 do artigo 19.° da Lei n.º 12/2005.
+A par das amostras de sangue, os dados clínicos recolhidos devem ser igualmente objeto de codificação, ou seja, do caderno de recolha de dados não deve constar qualquer elemento identificador do doente participante, sendo antes aposto um código de doente.
+Deverão ser adotadas medidas de segurança adequadas, devendo ser dada especial atenção à necessidade de assegurar:
+a) O direito de informação e acesso aos titulares dos dados, nos termos do artigo 10.° e n.° 5 do artigo 11.° da LPD, assim como do artigo 9.° da Lei n.º 12/2005;
+b) A separação lógica entre dados administrativos e dados de saúde (cf. n.º 3 do artigo 15.° da LPD);
+c) A adoção de medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas; a informação de saúde deverá ser de acesso restrito
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.° 2887/2016 3
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. n.º 4 do artigo 7.° da LPD).
+O acesso aos dados identificados dos participantes deve ser feito no estrito cumprimento do disposto na Lei n.º 21/2014, de 16 de abril, com as alterações introduzidas pela Lei n.º 73/2015, de 27 de junho (Lei da investigação clínica).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1 alínea a) da LPDP), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e não é excessiva (cf. alínea c) do mesmo artigo).
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+III. Decisão
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a), e 30.° da LPDP, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Centro de Investigação e Formação Clínica (CIFC)
+Hospital Pediátrico - Centro Hospitalar e Universitário de Coimbra (HP-CHUC);
+Finalidade: Gestão de processos clínicos associados à criação de biobancos;
+Categoria de Dados pessoais tratados: n.º de participante, sexo, filiação, país de origem, amostras biológicas dos progenitores e dos filhos;
+Entidades a quem podem ser comunicados: Não há;
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente;
+Interconexões de tratamentos: Não há;
+Transferência de dados para países terceiros: Não há;
+Prazo de conservação: o código do titular deve ser destruído no prazo de 5 anos após o fim do estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 1 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.° 2887/2016 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Dos termos e condições fixados na Deliberação n.º 1704/2015 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 10 de maio de 2016
+Fili
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

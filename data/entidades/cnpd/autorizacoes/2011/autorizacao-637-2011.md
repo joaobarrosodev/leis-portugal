@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FERRING PHARMACEUTICALS A/S'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:18:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 637/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27336](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27336).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 9910/2010
+AUTORIZAÇÃO N.° 637 12011
+A Ferring Pharmaceuticals A/S, representada pela Ferring Portuguesa - Produtos
+Farmacêuticos, Sociedade Unipessoal, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para identificar os riscos associados à utilização de Firmagon® (Degarrelix) em doentes com cancro da próstata avançado.
+A entidade encarregue do processamento da informação é a PPD Research Coordinating
+Center em Bruxelas, com a qual deve a responsável celebrar o o contrato previsto no artigo 14.° da Lei n.° 67/98, de 26 de Outubro.
+Serão incluídos no estudo os indivíduos com a patologia a receber tratamento em qualquer um dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal dos titulares, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 21 393 00 39
+LINHA PRIVACIDADE
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Assim, nos termos do n.º 2 do artigo 7.°, do n.º1 do artigo 27°, das al. a) e d) do n.º 1 do artigo 28° e do art. 30º da Lei n.º 67/98, de 26 de Outubro, com as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Ferring Pharmaceuticals A/S, representada pela Ferring
+Portuguesa - Proutos Farmacêuticos, Sociedade Unipessoal, Lda
+Finalidade: estudo observacional para identificar os riscos associados à utilização de
+Firmagon® (Degarrelix) em doentes com cancro da próstata avançado.
+Categoria de Dados pessoais tratados: código do doente, dados sócio-demográficos (sexo, idade, peso, altura e situação profissional), história clínica, resultados de análises laboratoriais, terapêutica de privação androgénica prescrita, terapêutica de androgénica prescrita avaliações de seguimento e acontecimentos adversos.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: O código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, | de Fevereiro de 2011
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo (Relator), Luis Barroso 402 pre presidio)
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 gera (@cnpd.nt www.cnnd.nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

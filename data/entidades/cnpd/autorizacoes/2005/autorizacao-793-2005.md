@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LOURES PARQUE EMPRESA MUNICIPAL DE ESTACIONAMENTO E.M.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:20:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 793/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6610](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6610).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.° 8128/225/05
+Autorização n. 93/05
+Loures Parque Empresa Municipal de Estacionamento, EM vem notificar a CNPD de um tratamento relativo à gestão de processos de contra-ordenação.
+Os dados registados são: o nome, morada, domicílio profissional, n.º de Bl, n.° de passaporte, n.º de carta de condução, NIF, código de auto de notícia, código de entidade autuante, matrícula, marca, modelo e cor.
+A legitimidade para o tratamento de dados em apreço - gestão de contra-ordenações -está previsto no artigo 8.° n.º 2 da Lei 67/98, de 26 de Outubro. Há legitimidade para o tratamento quando seja «necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias dos titulares dos dados».
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (cf. art. 5.° n.° 1 alínea c) da Lei 67/98).
+Existem passwords de acesso à informação e acesso restrito de pessoas às instalações.
+A informação deverá ser conservada pelo período estritamente necessário à finalidade, não podendo a mesma ser conservada, conforme o caso, para além dos prazos de prescrição do procedimento por contra-ordenação ou de prescrição da coima.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 8.° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados relativos aos autos de contra-ordenação, nos seguintes termos:
+Responsável: Loures Parque Empresa Municipal de Estacionamento, EM
+Categorias de dados pessoais tratados: Nome, morada, domicílio profissional, n.º de
+BI, n.º de passaporte, n.º de carta de condução, NIF, código de auto de notícia, código de entidade autuante, matrícula, marca, modelo e cor.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Finalidade: Gestão de processos de contra-ordenação
+Entidades a quem podem ser transmitidos: Aos tribunais.
+Forma de exercício do direito de acesso e rectificação: Mediante requerimento dirigido ao Presidente do Conselho de Administração.
+Eventuais interconexões : Não há.
+Transferências de dados para países terceiros : Não há.
+Lisboa, 11 de Out hede 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+этим
+Eduardo Campos
+Ana Luísa Geraldes
+Amadeu Guerra
+Tas Tiver
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

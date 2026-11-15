@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMPANHIA INDUSTRIAL DE RESINAS SINTÉTICAS, CIRES, LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T18:54:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1196/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73777](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/73777).
+Processo n° 325/2015 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º/(% /2015
+Companhia Industrial de Resinas Sintéticas, CIRES, Lda., com sede no Apartado 20
+Samouqueiro-Avanca, 3864-752 Estarreja, veio notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão da informação dos Serviços de Medicina no Trabalho.
+A CNPD já se pronunciou na sua Deliberação n.° 840/20101 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados (LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela Deliberação n.º 840/2010.
+Os dados recolhidos são necessários e pertinentes para a finalidade declarada (cf.
+artigo 5° da LPD), embora insuficientes, importando que se acrescentem os referidos na secção "Categorias de dados tratados" da já citada Deliberação.
+O fundamento de legitimidade é - nos termos do n.º 2 do artigo 7° da LPD - a Lei, consubstanciada nos artigos 281° a 284° do Código do Trabalho e na Lei n.º 102/2009, de 10 de Setembro.
+Pretende-se a conservação dos dados por um período de 40 anos após a saída do trabalhador, em face do disposto no art.º 46.°, n.º 3, da Lei n.º 102/2009, de 10 de setembro, alterada pelas Leis n.os 42/2012, de 28 de agosto e 3/2014 de 28 de janeiro.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos n.º 2 do artigo 7.°, alínea a), do n.º1 do artigo 28° e artigo 30° da Lei n.º 67/98, de 26 de outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por
+' Disponível em http://www.cnpd.pt/bin/orientacoes/DEL 840_2010_MED_trabalho actualizada.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 325/2015 | 2 p
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS reproduzidos e que fundamentam o presente instrumento de legalização, autoriza-se o tratamento notificado nos seguintes termos:
+Responsável pelo tratamento: Companhia Industrial de Resinas Sintéticas, CIRES,
+Lda.;
+Finalidade: Gestão da informação dos Serviços de Medicina no Trabalho
+Categoria de dados pessoais tratados: os necessários para a finalidade de medicina do trabalho, a saber: dados de identificação, incluindo o número de segurança social, o número de utente de serviço nacional de saúde, informação sobre seguros, dados de saúde (tais como anamnese, resultado dos exames médicos no trabalho ocorrência de baixas por doença ou baixas por lesão, exames complementares, diagnósticos, prognósticos e terapêuticas), informação sobre atividades/funções e informações sobre riscos de doenças profissionais e/ou acidentes de trabalho, dado apto e não apto para o exercício de funções, boletim internacional de vacinas.
+Comunicação de Dados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Autoridade para as Condições de Trabalho (cf. n.º 2 do artigo 109.° da Lei n.° 102/2009, de 10 de setembro)
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Forma de exercício do direito de acesso e retificação: O direito de acesso deverá ser exercido, nos termos do n.º 5 do artigo 11.° da Lei ° 67/98, de 26 de outubro, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do trabalhador, o médico do trabalho e no exercício do direito de retificação deste tipo de dados, deverá o trabalhador exercê-lo diretamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas
+Interconexões: Não se verificam
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 325/2015 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Fluxo transfronteiriço de dados: Não há
+Prazo Máximo de Conservação dos dados: Os dados pessoais podem ser conservados pelo período máximo de cinco anos após a cessação do vínculo, sem prejuizo da sua conservação para além do referido período caso seja necessário em sede de procedimento judicial em virtude de doenças profissionais e/ou acidentes de trabalho, incluindo em caso de revisão judicial do grau de incapacidade para o trabalho.
+No caso dos registos de dados dos trabalhadores estarem em situação suscetível de implicar risco para o património genético, o prazo de conservação é de 40 anos.
+Dos termos e condições fixados na Deliberação n.° 840/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve igualmente dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 9 fevereiro de 2015
+Filipa Calvão (a Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: VIEIRA DE ALMEIDA & ASSOCIADOS, SOCIEDADE DE ADVOGADOS, R.L. ("VdA")'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:28:07Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 187/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26889](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26889).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 9219/10 087
+Autorização n° /2011
+A sociedade comercial por quotas denominada Vieira de Almeida &
+Associados Sociedade de Advogados, R.L., veio notificar o tratamento que tem como finalidade a gestão da base de dados de clientes e contactos institucionais, gestão de pagamentos efectuados por clientes, controlo de receitas e perdas, envio de informações, envio de newsletters, envio de convites para eventos e sessões informativas.
+Os dados tratados vêm especificados no ponto n.º 5 do formulário de notificação, sendo de salientar as seguintes categorias de dados: de identificação pessoal, NIF, endereços postais e electrónicos, dados de contacto, morada (contactos de facturação), número de conta bancária (quando solicitado o pagamento por transferência bancária).
+Os dados recolhidos, pelo grau de detalhe e pelas finalidades a que se destinam, integram-se no conceito de informação tendente ao apuramento d e dados da vida privada dos titulares, nos termos e para os efeitos do artigo 7° da
+Lei n° 67/98, de 26 de Outubro. Por isso, a necessidade de autorização da
+CNPD (cf. art. 28.° n.° 1 al. b) da Lei 67/98).
+Em face das finalidades indicadas pela requerente, os dados são pertinentes, adequados e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98).
+A Vieira de Almeida & Associados Sociedade de Advogados, R.L., tem legitimidade para o tratamento destes dados, na medida em que o mesmo decorre de gestão da relação contratual com os seus clientes (cf. art. 6.° al. a)
+da Lei 67/98).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Verifica-se a Requerente não pretende comunicar os dados a terceiros, nem fazer interconexões de dados, e também não existem fluxos transfronteiras de dados.
+O tempo de conservação é de 10 anos sobre a cessação da relação contratual, ou enquanto subsistirem obrigações decorrentes da relação contratual.
+Em face do exposto a CNPD autoriza o tratamento, nos termos declarados e com as especialidades constantes da presente autorização, consignando-se, nos termos dos artigos 27.°, 28.° n.º 1 al. b) e 30.° da Lei 67/98, de 26 de
+Outubro, o seguinte:
+1. Responsável: Vieira de Almeida & Associados, Sociedade de
+Advogados, R.L.
+2. Categorias de dados pessoais tratados: identificação pessoal, NIF, endereços postais e electrónicos, dados de contacto, morada (contactos de facturação), número de conta bancária (quando solicitado o pagamento por transferência bancária), dados de avaliação de fornecedores.
+3. Finalidade: gestão de clientes de contactos institucionais, gestão de pagamentos efectuados por clientes, controlo de receitas e perdas, envio de informações, envio de newsletters, envio de convites para eventos e sessões informativas.
+4. Forma de exercício do direito de acesso e rectificação: Pessoalmente ou por escrito.
+5. Comunicação de dados: não há 6. Interconexões: não há 7. Transferências de dados: não há
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 8. Conservação dos dados: 10 anos sobre a cessação da relação contratual, ou enquanto subsistirem obrigações decorrentes da relação contratual
+Lisboa, [de Janeiro de 2011.
+Ana Roque (relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado
+António, Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

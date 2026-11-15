@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4328/2017
-official_date: null
+official_date: '2017-04-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Universidade do Porto - Faculdade de Engenharia'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T10:24:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4328/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/104206](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/104206).
+Processo n. 5745/2016/ 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃON.° 4328 12017
+I. Pedido
+A Faculdade de Engenharia da Universidade do Porto notificou à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de realização de um estudo da sustentabilidade da mobilidade da comunidade da Faculdade designado "SenseMyFEUP".
+Este estudo pretende recolher dados sobre mobilidade de forma direta, através da aplicação para smartphone "SenseMyFEUP" para investigação científica sobre a sustentabilidade da mobilidade da comunidade da FEUP, durante 4 meses. O estudo será divulgado por email e os elementos da comunidade (acima dos 18 anos) poderão decidir aderir, se assim entenderem, sendo o objetivo atingir os 500 participantes das cerca de 9000 pessoas que se deslocam regularmente à FEUP.
+Na instalação da aplicação será solicitado consentimento, sem o qual aquela não inicia o seu funcionamento, nem recolhe quaisquer dados.
+Será recolhida informação demográfica sobre os participantes (idade, profissão) e a aplicação recolherá ainda sequências de localizações (obtidas por GPS ou por métodos assistidos pelas redes sem fios) durante deslocações. Quando os dados estiverem a ser recolhidos, a aplicação indica esta informação através de um ícone sempre visível no smartphone.
+Os dados são guardados associados ao hash do endereço de email da Google, de modo a ser possível a cada participante ver ou apagar os seus próprios dados usando OAuth, não sendo possível inverter esse hash para obter o endereço de email.
+Os participantes podem sair do estudo apagando a aplicação do telemóvel. Caso pretendam que os seus dados sejam apagados, os participantes podem contactar os investigadores que, através do endereço de email, poderão chegar ao hash correspondente e assim eliminar todos os dados registados sob essa referência. Apenas nesse momento e para esse efeito terão os investigadores acesso a um dado identificativo de um participante.
+Os dados serão guardados durante 3 anos após a sua recolha.
+Análise
+Porque em grande parte referentes à vida privada, os dados recolhidos pelo requerente têm a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.° 5745/2016 1v.
+K consentimento expresso, esclarecido e livre dos titulares dos dados, ou dos seus representantes legais nos termos do disposto no n.º 2 do artigo 7.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto (Lei de Proteção de Dados Pessoais-
+LPDP).
+Por esta razão é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPDP, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Findos os 4 meses de período de recolha, isto é, de registo das deslocações dos participantes, deve ser eliminada qualquer aplicação (hash) que permita regressar ao endereço eletrónico do titular dos dados, convertendo-os em dados irreversivelmente anónimos.
+Uma vez definitivamente anónimos, os dados perdem a qualidade de dados pessoais, pelo que não estão sujeitos a limitações quanto ao prazo da sua conservação, nos termos da
+LPDP.
+A informação tratada é recolhida de forma lícita (cf. alínea a) do n.° 1 do artigo 5.° da LPDP), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo).
+III. Conclusão
+Em face do exposto, a CNPD autoriza o tratamento de dados pessoais supra apreciado, nos termos do n.º 2 do artigo 7.°, da alínea a) do n.º 1 do artigo 28.° e do n.° 1 do artigo 30.° da
+LPDP, consignando-se o seguinte:
+Responsável pelo tratamento: Faculdade de Engenharia da Universidade do Porto;
+Finalidade: Estudo da sustentabilidade da mobilidade da comunidade da Faculdade de
+Engenharia da Universidade do Porto designado "SenseMyFEUP";
+Categoria de Dados pessoais tratados: endereço de email, hash, dados das deslocações;
+
+Processo n.° 5745/2016 2
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Entidades a quem podem ser comunicados: Não há;
+Formas de exercício do direito de acesso e retificação: Junto do responsável pelo tratamento dos dados;
+Interconexões de tratamentos: Não há;
+Transferência de dados para países terceiros: Não há;
+Prazo de conservação dos dados: o endereço de email e a respetiva aplicação de função hash deverão ser eliminados no final do estudo; uma vez tornados irreversivelmente anónimos, não é aplicável prazo de conservação aos dados de deslocação.
+Dos termos e condições fixados na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve igualmente dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 18 de abril de 2017
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

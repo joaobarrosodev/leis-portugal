@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 8606/2013
-official_date: null
+official_date: '2013-11-28'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Boehringer Ingelheim Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,92 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T23:07:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 8606/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/59119](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/59119).
+Proc. 7375/13
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N° 8606 2013
+Boehringer Ingelheim, Lda notificou a CNPD de um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico relativo à eficácia e segurança de medicamentos de uso humano para tratamento em primeira linha ou pré-tratados com quimioterapia com cancro do pulmão. (Protocolo 1200.55).
+As categorias de dados pessoais tratados do paciente: n.° do participante no estudo, iniciais do nome, número de CRF, país de origem, data de nascimento, peso, altura, sexo, raça, história clínica e dados recolhidos ao longo do estudo, medicação, resultados de meios complementares de diagnóstico e terapêutica, informação genética, amostras, dados relativos a hábitos da vida privada e atividade profissional dos participantes no estudo que possam ter implicações/influência no seu estado de saúde, história clínica familiar.
+As categorias de dados pessoais tratados do investigador: nome completo, número de célula profissional, dados de contacto: domicílio profissional, contactos profissionais e/ou pessoais de telefone, email e fax, contacto preferencial, melhor altura do dia para contacto, especialidade médica, áreas de experiência, titulo académico, percurso como investigador, indicação da influência na área científica, lista de publicações enquanto key opinion leader, áreas de interesse profissional ou científico.
+Apreciação
+Analisado o processo, foi proferido o Projeto de Autorização n.º 388/2013, de 8 de outubro, que não autorizava o tratamento do dado raça - uma vez que não foram apresentadas razões suscetíveis de demonstrar a necessidade de tal recolha no caso em apreço. De igual modo, alertou-se para a necessidade de alteração do texto do consentimento informado, para que apenas os monitores do responsavel pelo tratamento, e não o Promotor e seus representantes, tivessem acesso aos ficheiros clínicos para efeitos de verificação da conformidade da recolha de dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 7375/13
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Por fim, não se autorizou o texto do consentimento informado que referia a possibilidade de alguns países fora da Europa não disporem de leis que "até certo ponto" protegessem a privacidade do paciente na mesma medida que a Lei de
+Proteção de Dados, em Portugal, ou a Lei Europeia. Sucede, porém, que a transferência de dados para um país que não pertença à União Europeia só pode realizar-se se esse Estado assegurar um nível de Proteção de dados pessoais adequado.
+Notificada para exercer o direito de audição que lhe assistia, nos termos do artigo 100.° do C.P.A., o responsável pelo tratamento veio pronunciar-se, acolhendo todas as indicações da CNPD, e declarando que os dados do paciente são anonimizados.
+Deste modo, a CNPD vem converter em Autorização o Projeto supra mencionado.
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+A CNPD já se pronunciou na sua Deliberação n.º 333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+No que respeita à recolha do dado raça, o responsável pelo tratamento justifica a sua necessidade do seguinte modo: «A este respeito, a Boehringer Ingelheim gostaria de salientar que, ainda que reconheça que o dado "Raça" é um dado sensível e, como tal, o seu tratamento deverá estar limitado a situações específicas, tal tratamento se justifica no caso concreto, como se verá de seguida. De facto é sobejamente conhecida, no sector farmacêutico e médico, a maior ou menor suscetibilidade a desenvolver ou ser contaminado por certas doenças, e bem assim as diferentes
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 7375/13
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS reações à toma de um mesmo fármaco, conforme um indivíduo seja, por exemplo, de raça negra ou de raça caucasiana. No vasto programa de desenvolvimento clínico do afatinib em várias patologias que inclui Cancro do Pulmão, cancro da mama, cancro da cabeça e pescoço, não existe ainda informação suficiente sobre o dado "Raça", ou seja, não existem dados suficientes que possam fazer excluir uma não causalidade com o dado "Raça" tanto em termos de eficácia como de segurança do tratamento.
+Por este motivo continua a ser importante a recolha do dado "Raça" para que se possa identificar no desenvolvimento clínico global do afatinib eventuais diferenças no tratamento dos doentes com cancro do pulmão de não pequenas células. Em face do exposto, considera a Boehringer Ingelheim que o dito dado "Raça" é essencial para avaliar, de forma adequada, a eficácia e segurança de medicamentos de uso humano para tratamento em primeira linha com cancro do pulmão - nomeadamente, para avaliação de potenciais diferenças quanto à eficácia e segurança do fármaco, entre subgrupos populacionais, em virtude das diferenças notórias que existem relativamente à reação aos fármacos, consoante a raça dos participantes no ensaio».
+Assim sendo, atentos os referidos argumentos que apontam para a necessidade da recolha do dado "raça" para aferir o perfil de segurança e de eficácia em função destes elementos, admite-se a recolha deste dado.
+O responsável declarou a existência de interconexão com o tratamento de farmacovigilância. Na medida em que tais tratamentos estão codificados, não podendo o responsavel aceder à identidade do titular, o inter-relacionamento da informação, não constitui uma interconexão de dados pessoais.
+Quanto aos fluxos transfronteiriços para os Estados Unidos da América, porque a informação está codificada e não é suscetível de, no destino, se identificar o titular não configura um fluxo transfronteiriço de dados pessoais.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, alínea a), da Lei n.° 67/98, de 26 de outubro - LPD) para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.7375/13
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade é o consentimento expresso e escrito do titular (cf.
+artigo 7.°, n.° 2, da LPD).
+Conclusão
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a), e 30.º da LPD, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, pretende-se autorizar o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Boehringer Ingelheim, Lda.
+Finalidade: gestão do ensaio clínico relativo à eficácia e segurança de medicamentos de uso humano para tratamento em primeira linha ou pré-tratados com quimioterapia com cancro do pulmão. (Protocolo 1200.55).
+As categorias de dados pessoais tratados pelo paciente: n.° do participante no estudo, iniciais do nome, número de CRF, país de origem, data de nascimento, peso, altura, sexo, raça, história clínica e dados recolhidos ao longo do estudo, medicação, resultados de meios complementares de diagnóstico e terapêutica, informação genética, amostras, dados relativos a hábitos da vida privada e atividade profissional dos participantes no estudo que possam ter implicações/influência no seu estado de saúde, história clínica familiar.
+As categorias de dados pessoais tratados do investigador: nome completo, número de célula profissional, dados de contacto: domicílio profissional, contactos profissionais e/ou pessoais de telefone, email e fax, contacto preferencial, melhor altura do dia para contacto, especialidade médica, áreas de experiência, título académico, percurso como investigador, indicação da influência na área cientifica, lista de publicações enquanto key opinion leader, áreas de interesse profissional ou científico.
+Interconexões de tratamentos: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico investigador.
+Fluxos transfronteiras: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do Decreto-Lei n.º 176/2006, 30 de agosto.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt.
+www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+5
+Proc. 7375/13
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.º 333/2007 e no presente projeto decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 28 de novembro de 2013
+Helena Delgado António (Relatora)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

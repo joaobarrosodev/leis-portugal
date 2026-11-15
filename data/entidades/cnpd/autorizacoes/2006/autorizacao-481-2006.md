@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 481/2006
-official_date: null
+official_date: '2006-08-24'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: EMPRESA PÚBLICA MUNICIPAL DE ESTACIONAMENTO DE LISBOA, E.M. (EMEL)-AV. DE BERNA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,76 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:06:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 481/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5721](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5721).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n° 1507/03
+AUTORIZAÇÃO N° 81/2006 1. A Empresa Pública Municipal de Estacionamento de Lisboa, EM veio notificar o tratamento de videovigilância em funcionamento no Parque de
+Estacionamento na Avenida de Berna.
+Através da deliberação n° 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações do parque no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto ou danos em veículos. O parque pode ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+2. Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+() Disponível in http://www.cnpd.pt/orientaçoes/prinicpiosvideo.htm
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção. O que está em causa na utilização destes meios é assegurar a dissuasão,
+Sempre com o reconhecimento das pessoas e com protecção dos seus direitos fundamentais (), bem como registar e documentar a eventual prática de infracções. O tratamento de som ou imagem e a finalidade delineada, não tem que "situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores segundo o artigo 20.° do Código do Trabalho (').
+Considera-se, por isso, legitimo o tratamento - autorizando-se a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo Tratamento - Empresa Pública Municipal de
+Estacionamento de Lisboa, E.M.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada () O artigo 8.º n.º 2 obriga, como condições a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+() No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS a prática de infracção penal, a entidade responsável pelo tratamento deve -com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelos responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo máximo de 3 dias.
+8. A recolha de imagens deve confinar-se ao perímetro do parque e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+9. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores (cf. artigo 20.° do Código do Trabalho).
+Lisboa, $ 5 de Molio 2006
+-Ana Roque
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Quer lee des.
+Luís Barroso
+амно
+Eduardo Campos, que relatou
+Luís Lingnau da Silveira (Presidente).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4
+
+Proc . 1507/03
+COMISSÃO NACIONAL DE PROTECÇAO DE DADOS 2 A Emel, em 6/8/03 e 27/8/03, notificou dois tratamentos de videovigilância 3 respeitantes, respectivamente, aos parques de estacionamento de Alfama e 4 Av. De Berna, a que corresponderam os processos 1507/03 e 1705/03.
+5 Por lapso, foram os dois processos autuados como respeitando à Av. De Berna 6 e consequentemente foram emitidas duas autorizações - 481 e 482 de 2006 -7 com a referência de Av. De Berna.
+& Sendo um erro material manifesto, deve juntar-se o presente despacho à
+, Autorização 481/2006, da qual fará parte integrante, passando a ler-se Alfama onde se diz Av. de Berna.
+10
+Altere-se em conformidade o registo público e notifique-se a entidade.
+12 Lisboa, 24 de Agosto de 2006 14A Secretária da CNPD 16 →aloree
+Isabel Cristina Cruz 18 19

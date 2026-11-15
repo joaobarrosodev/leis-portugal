@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOAQUIM DIAS CARDOSO ( MÉDICO - ADESÃO AO NETMÉDICO)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:02:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 93/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9763](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9763).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 258/02
+AUTORIZAÇÃO N. 3/2002 1. A NETSAÚDE - Gestão e Prestação de Serviços na Área da Saúde Via INTERNET,
+SA e o Dr. Joaquim Dias Cardoso vieram notificar o tratamento designado por «netmédico» e cujas condições gerais foram apreciadas pela Deliberação da CNPD n.º 158/2001, de 23 de Outubro.
+A NetSaúde pretende proporcionar aos seus clientes (médicos) uma "plataforma aplicacional capaz de responder às necessidades profissionais de natureza médica e posterior gestão técnica do armazenamento das bases de dados por eles criadas". A
+NetSaúde permite aos médicos subscrever um serviço que consiste no fornecimento de ferramenta e gestão de todos os suportes técnicos que permitem ao médico introduzir os dados pessoais (administrativos e ficha clínica) dos seus doentes.
+Cada médico - através da Internet - preenche as fichas dos seus doentes, podendo aceder às respectivas fichas mediante autenticação com certificado digital.
+A NetSaúde concebeu a aplicação, escolheu quais devem ser os dados a tratar, é a entidade proprietária do equipamento no qual são armazenados os dados, faz a manutenção da aplicação e é responsável por todos os procedimentos de segurança necessários a assegurar a confidencialidade dos dados.
+Uma das particularidades legais para a atribuição da qualidade de responsável é, também, a definição dos "meios de tratamento de dados" (cf. art. 3.° al. d). Quem define estes meios e as suas características é a NetSaúde.
+Cabe ao responsável, nos termos do artigo 14.º da Lei 67/98, a adopção das "medidas técnicas e organizativas adequadas a proteger os dados pessoais contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizado, nomeadamente quando o tratamento implicar a sua transmissão por rede". A grande parte das medidas de segurança incumbem à NetSaúde. A informação circula encriptada na internet.
+Cada médico é o responsável pelos dados introduzidos no sistema, estando incumbido de assegurar o direito de informação ou o consentimento (quando legalmente necessário), o direito de acesso, rectificação e eliminação dos dados (cf. art. 10.º e 11.°
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS da Lei 67/98). O tratamento dos dados pessoais dos doentes é feito no contexto da relação médico-doente, não acedendo a NetSaúde a dados pessoais dos doentes.
+Assim, em face das características especiais em que é processada a informação, entende-se que estaremos perante a situação legal de «responsabilidade conjunta»
+prevista no artigo 3.º al. d) da Lei 67/98. Os responsáveis pelo tratamento são a
+NetSaúde e cada um dos médicos aderentes, os quais de acordo com as funções que desempenham, devem assegurar o cumprimento da Lei 67/98.
+A aplicação - a disponibilizar aos médicos aderentes - trata informação de natureza administrativa e informação de saúde (história actual, antecedentes pessoais, próteses, história social, vacinas, antecedentes familiares, sintomas gerais, exame objectivo, problemas, resultados de exames, pedidos de exames complementares, diagnóstico, terapêutica, resultados da terapêutica, relatórios e estatísticas).
+A informação é necessária, pertinente e não excessiva em relação à finalidade (art. 5.° da Lei 67/98).
+A informação é tratada para finalidades relacionadas com a prevenção, diagnóstico, prestação e gestão de cuidados de saúde (art. 7.° n.º 4 da Lei 67/98). Entende a CNPD que o acesso à informação de saúde deve ser restrita ao médico que, através de password e certificado digital, deverá ter acesso à informação. Admite-se que o médico, no âmbito da finalidade especificada no artigo 7.° n.º 4 da Lei 67/98, estabeleça que um profissional de saúde, obrigado a segredo profissional, possa - sob a sua autoridade e supervisão - proceder à introdução e consulta de alguns dados pessoais (especialmente dados administrativos).
+As normas de segurança parecem adequadas, reservando-se a CNPD a faculdade de proceder a uma auditoria ao sistema por forma a assegurar que a informação circula na rede em condições de segurança (vg. encriptada) sem perigo de ser acessível por terceiros não autorizados.
+Os tratamentos de cada médico aderente são independentes, não havendo qualquer interconexão entre eles.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, consigna-se, nos termos e para os efeitos do artigo 27.° e 30.º da Lei 67/98, o seguinte:
+1. Responsável: NetSaúde - Gestão e Prestação de Serviços na Área da Saúde Via
+INTERNET, SA e o Dr. Joaquim Dias Cardoso 2. Categorias de dados pessoais tratados: Os indicados em anexo ao formulário.
+3. Finalidade: prevenção, diagnóstico, prestação de cuidados de saúde e gestão dos serviços de saúde.
+4. Entidades a quem podem ser transmitidos: Não há transmissão de dados 5. Forma de exercício do direito de acesso e rectificação: Por solicitação ao médico responsável.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+Lisboa,de Abril de 2002
+Alexandre Pinheiro
+V
+Luís Durão Barroso
+Curtulaule Bptrati
+Cristina Baptista
+Mário Varges Gomes
+Arden
+Amadeu Guerra
+Cataringoranentalech
+Catarina Sarmento e Castro
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

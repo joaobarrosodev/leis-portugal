@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 6/2001
-official_date: null
+official_date: '2001-01-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO COMERCIAL PORTUGUÊS, S.A. (NOVA REDE) - BCP'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:08:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1502](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1502).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.º 40/94
+AUTORIZAÇÃO N.° 6 /20001 1. O Banco Comercial Português, SA vem solicitar à CNPD:
+a) O averbamento, no expediente da Comissão, da «fusão por incorporação do
+Banco Mello, SA naquele Banco» tendo anexado fotocópia comprovativa desse facto;
+b) Autorização para que o BCP Leasing, SA possa ceder ao Deutsche Bank dados pessoais no âmbito de operações de securitização, oportunamente autorizada para o Banco Mello, SA e Mello Leasing, SA, respectivamente, pelas autorizações n.º 43/99 e 45/99, ambas de 12 de Outubro.
+2. De acordo com a certidão do Registo Comercial junta ao processo verifica-se que o
+Banco Mello, SA foi incorporado no BCP. Com a extinção do Banco Mello a informação sobre clientes passou a ficar integrada no sistema de informação do BCP, tendo este banco assumido a posição contratual do extinto Banco Mello, SA.
+A CNPD considera que não existem obstáculos legais à "incorporação" da informação no sistema do BCP. O BCP deve assegurar o direito de informação aos titulares dos dados, nos termos do artigo 10.° da Lei 67/98, de 26 de Outubro.
+Em relação à operação de securitização o BCP deve respeitar as condições de tratamento de dados estabelecidas na autorização da CNPD n.º 43/99, de 12 de
+Outubro.
+3. Tendo a CNPD estabelecido nas autorizações n.º 43/99 e 45/99 as condições a que devia obedecer a cedência de dados ao Deutsche Bank - no âmbito de operações de securitização - considera que o BCP Leasing, SA deve assegurar o cumprimento daquelas autorizações face às operações de securitização que vier a realizar.
+Lisboa, 23 de Janeiro de 2001 vaden
+Amadeu Guerra (relator)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Cantauincamentellashos
+Catarina Castro
+João Simões de Almeida
+Márjo Varges Gomes
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SECRETARIA REGIONAL DA ECONOMIA-DIRECÇÃO REGIONAL DO COMÉRCIO,INDÚSTRIA ENERGIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:16:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1356/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15403](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15403).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PROCESSO N.º 254/2004
+AUTORIZAÇÃO N.º (3 0/2009
+PEDIDO
+A Direcção Regional do Comércio, Industria e Energia da Secretaria Regional da
+Economia da Região Autónoma dos Açores notificou à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade declarada de "Registo de processos de contra-ordenação "
+O tratamento incidirá sobre os seguintes dados pessoais: Nome, Morada, Coima aplicada.
+APRECIAÇÃO 1. A condição de legitimidade deste tratamento de dados pessoais é a prevista no artigo 8.° - 2 da Lei 67/98, de 26 de Outubro, que prevê que o tratamento de dados pessoais relativos a contra--ordenações possa ser autorizado pela
+CNPD, observadas as normas de protecção de dados e de segurança da informação, quando tal tratamento for necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias do titular dos dados.
+A Direcção Regional do Comércio, Industria e Energia da Secretaria Regional da Economia da Região Autónoma dos Açores tem competência em matéria contra-ordenacional referente à Industria e Energia, consequentemente o tratamento de dados pessoais é-lhe necessário e é legitima a finalidade.
+2. Assim, observadas que sejam as normas de protecção de dados e de segurança da informação, a CNPD autorizará o tratamento (cf. artigo 28.° 1 -a) da Lei 26 de Outubro).
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. Os dados pessoais são adequados, pertinentes e não excessivos e recolhidos para uma finalidade determinada, explícita e legítima (cf. artigo 5.° - 1 b) e c) da
+Lei 67/98, de 26 de Outubro).
+4. O responsável pelo tratamento assegura estarem garantidas as condições de segurança das instalações, limitando o seu acesso físico a pessoas determinadas, e do sistema, através de cópias de backup dos dados e de acesso a eles unicamente por password. O responsável pelo tratamento deverá assegurar que, independentemente das medidas tomadas, em conformidade com o artigo 14.° da Lei 67/98, de 26 de Outubro, existe uma efectiva protecção dos dados pessoais.
+5. Existe comunicação dos dados pessoais ao Ministério Público em sede de recursos judiciais de aplicação das coimas.
+CONCLUSÃO
+Do que antecede e, conforme o estatuído nos artigos 8.° - 2 e 28.° - 1 - a) da Lei 67/98, de 26 de Outubro, a CNPD delibera autorizar o tratamento de dados pessoais relativos ao tratamento automatizado das contra-ordenações aplicadas pela Direcção Regional do Comércio, Industria e Energia da Secretaria Regional da Economia da Região
+Autónoma dos Açores, consignando o seguinte:
+1. Responsável do ficheiro: Direcção Regional do Comércio, Industria e
+Energia da Secretaria Regional da Economia da Região Autónoma dos Açores.
+2. Dados pessoais tratados: Nome, Morada, Coima aplicada.
+3. Finalidade: Instauração e instrução dos processos de contra-ordenação.
+4. Forma de exercício do direito de acesso e rectificação: Por comunicação ao responsável pelo tratamento.
+5. Comunicação de dados: Ao Ministério Público em sede de recursos judiciais de aplicação das coimas.
+6. Interconexões: Não existem.
+Rua de São Bento. 148-3° • 1200-821 LISBOA

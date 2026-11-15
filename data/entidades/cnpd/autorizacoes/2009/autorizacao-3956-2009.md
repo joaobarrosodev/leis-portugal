@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3956/2009
-official_date: null
+official_date: '2009-09-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOÃO JOÃO DUARTE ALVES MENDES'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:32:50Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3956/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18841](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18841).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 7134/2009
+AUTORIZAÇÃO N.° 3956/2009
+João João Duarte Alves Mendes, no âmbito do seu projecto de doutoramento, notificou à
+CNPD um tratamento de dados pessoais com a finalidade de elaborar um levantamento epidemiológico (estudo prospectivo) da flora infecciosa do pé diabético em centros clínicos de referência da área da grande Lisboa, estratificando esses dados em relação aos dados anamésicos do doente, às características do pé diabético, tempo de evolução e antibioticoterapia actual e prévia.
+Os dados serão recolhidos num caderno de recolha de dados, do qual não consta a identificação nominal do titular, sendo aposto um código/número de doente. A chave desta codificação só pode ser conhecida do profissional de saúde participante.
+Serão incluídos no estudo os doentes com a patologia que frequentam a consulta dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Porque referentes à saúde e à vida privada, os dados abrangidos pelo estudo em causa têm a natureza de sensíveis, razão pela qual o respectivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n° 2 do artigo 7° da Lei n° 67/98, de 26.10.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Assim, nos termos do artigo 28°, n.°1, alínea d), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: João João Duarte Alves Mendes
+Finalidade: estudo epidemiológico da flora infecciosa do pé diabético em centros clínicos de referência da área da grande Lisboa.
+Categoria de Dados pessoais tratados: código do doente, dados demográficos (idade e sexo), dados clinicos (presença de co-morbilidades, dados relativos aos parâmetros clínicos em estudo, tipo de pe diabético, classificação pedis do pé diabético; localização, tempo de evolução da úlcera e antibióticoterapia actual e prévia; resultado microbiológico da cultura do material biológico colhido).
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do investigador.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o endereço electrónico deve ser destruído imediatamente após a validação dos dados.
+Dos termos e condições fixados na Deliberação n.º 2271 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa,21 de Setembro de 2009
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo (Relator), Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA 7.1.212.029100 10.912 076029 21 393 00 39

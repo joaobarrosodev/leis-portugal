@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PLIMAT - PLÁSTICOS INDUSTRIAIS MATOS, S.A'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,28 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:10:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1689/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15619](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15619).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n° 3885/07
+AUTORIZAÇÃO Nº1689/2009 1. A Plimat - Plásticos Industriais Matos, S.A. veio notificar o tratamento de videovigilância a realizar nas suas instalações. (Rua da Alemanha Lt.35 -
+Marinha Grande)
+A empresa declara que não existe comissão de trabalhadores.
+Pretende-se a colocação de 1 câmara na porta de serviço de acesso á empresa e hall de entrada.
+Através da deliberação n° 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.° n.º° 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da empresa no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos.
+As instalações podem ser alvo de furto, especialmente durante a noite.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+() Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

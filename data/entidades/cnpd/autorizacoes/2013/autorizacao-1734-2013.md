@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ANGELINI FARMACÊUTICA LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,104 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:13:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1734/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51989](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/51989).
+Processo 13113/2012| 1 f
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃON. 1734/2013
+.RELATÓRIO
+ANGELINI FARMACÊUTICA Lda com sede em Quinta das Palhas, Rua João Chagas 53
+- 3° Cruz Quebrada - Dafundo vem notificar um tratamento relativo à igestão dos registos relativos a sanções disciplinares"
+Foram solicitados e prestados os esclarecimentos que se entenderam pertinentes para apreciação do pedido em questão.
+II.DOS FACTOS
+-A requerente dedica-se à indústria farmacêutica.
+-Pretende implementar um tratamento com vista à gestão dos registos relativos a sanções disciplinares.
+-Os dados colhidos são:
+Nome do trabalhador, processo disciplinar, razões que o justificam, decisão final e sanção disciplinar aplicada.
+-A Requerente é a entidade encarregue do processamento da informação.
+-Não há comunicação, interconexão ou fluxos transfronteiriços de dados.
+-Como medidas de segurança a adoptar estão previstas cópias de backup, password de acesso à informação, sistemas de processamento de backup, acesso restrito de pessoas e sistemas de alarme e resposta.
+-Os dados são conservados pelo tempo de duração do processo disciplinar e, no caso de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39 1
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 13113/2012 | 2
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+-O titular pode conhecer, corrigir e/ou eliminar os seus dados através de contacto com o responsável do Departamento dos Recursos Humanos.
+III.APRECIAÇÂO/O DIREITO
+O tratamento em causa, porque perante dados pessoais, deve respeitar as condições expressas na Lei 67/98 de 260ut, mormente:
+.respeito pela reserva da vida privada (art° 2°);
+•visar finalidades determinadas, explícitas e legítimas (art°5°/n°1 al.b);
+estarem em causa dados adequados, pertinentes, não excessivos em relação à finalidade e proporcionais aos objectivos que se pretendem atingir (art°5°/n°1 al.c);
+o responsável só pode proceder ao tratamento se, de acordo com a natureza dos dados estiverem preenchidas "condições de legitimidade" (art°s 6° e 7°).
+Na verdade a Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais, sendo inquestionável que, em relação ao tratamento de determinados dados como sejam os da vida privada e de saúde ou os relativos à prática de actividades ilícitas/infracções penais/contra-ordenações, necessário se torna que esteja presente alguma das situações previstas nos arts° 7.° e 8°, respectivamente, sendo a lei, nesta matéria, particularmente exigente, ao qualificar os dados como sensíveis.
+Acresce que, em qualquer tratamento, necessário se torna que estejam efectivados os direitos de informação (art° 10°), de acesso (art° 11°) e de oposição (art° 12°) de molde a permitir-se o mesmo.
+Concatenando tais vectores com a factualidade acima enunciada, cumprirá então indagar se, no caso vertente, estão verificadas as condições legalmente exigidas, para o deferimento do pedido.
+Retira-se desde já que a finalidade pretendida com este tratamento é a gestão dos registos relativos a sanções disciplinares, sendo que tendo a Requerente universo de colaboradores ao seu serviço, surge óbvio que se está perante uma finalidade determinada, explícita e legítima.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 13113/2012 | 3 A
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS colaboradores ao seu serviço, surge óbvio que se está perante uma finalidade determinada, explícita e legítima.
+Os dados a colher, tendo em atenção a finalidade pretendida, apresentam-se como adequados, pertinentes e não excessivos.
+Cumpre avaliar do fundamento de legitimidade que permita à requerente realizar o presente tratamento.
+A CNPD tem entendido dada a formulação genérica do artigo 8.° n.° 2 da Lei 67/98, de 26 de Outubro, que o tratamento de dados sobre gestão de sanções disciplinares (vg.
+«decisões que apliquem penas») terá que ser objecto de autorização - artº.28.n.º 1 al.
+a) da Lei 67/98.
+A Requerente tem legitimidade para o tratamento de sanções disciplinares, na medida em que - nos termos do art° 332° do CTrabalho - a entidade patronal está obrigada a manter actualizado o registo das sanções disciplinares. Este tratamento é, assim, necessário ao cumprimento de finalidades legalmente estabelecidas (cf. Art° 8./n.° 2 da
+Lei 67/98), as quais se configuram como «legítimas» e não existe, por regra, uma prevalência dos direitos dos titulares dos dados.
+Efectivamente, tal como resulta do citado normativo do CTrabalho, um dos objectivos do registo das sanções disciplinares é precisamente assegurar o controlo, pelas entidades competentes, da aplicação de sanções disciplinares abusivas, sendo que por força do seu n°2, constitui contraordenação leve a violação do comando inserto no n° 1.
+Consigna-se no entanto que, o acesso à informação sobre sanções disciplinares deve ser restrito apenas às pessoas com necessidade de aceder a esta informação, devendo o sistema estar dotado de níveis diferenciados de acesso que garantam que outras pessoas não autorizadas não acedam a estas informações.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39 3
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 13113/2012 | 4
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Faça-se notar que as medidas de segurança se mostram equilibradas, sendo certo que apenas podem ter acesso à informação colhida as pessoas para tal autorizadas e que da informação necessitam para realização do fim visado.
+Ao titular é garantida a possibilidade de aceder, corrigir e/ou eliminar os dados, estando assim salvaguardado o mecanismo insito no art° 11° da LPDP.
+Entende-se respeitador da regra espelhada no art°5° al.e) da Lei 67/98, de 26 de outubro o tempo de conservação dos dados proposto.
+IV.DECISÃO
+Em presença do exposto, decide-se considerar como legítimo, o tratamento notificado e consequentemente se autoriza o mesmo, de acordo com o plasmado nos normativos combinados dos art°s 8/nº2, 23/n°1 al.b), 27° e 30° da Lei n°67/98 de 26 de Outubro e nas seguintes condições.
+1.Responsável: ANGELINI FARMACEUTICA Ldª;
+2.Finalidade: Gestão dos registos relativos a sanções disciplinares;
+3.Categorias dos dados: Nome do trabalhador, processo disciplinar, razões que o justificam, decisão final e sanção disciplinar aplicada;
+4.Destinatários dos Dados: Não há comunicação, interconexão ou fluxos transfronteiriços de dados;
+5.Direito de Informação: Deverá ser assegurado que se esclareceu o titular dos dados, das finalidades da recolha, dos destinatários da informação e das condições de utilização;
+6.Direito de Acesso: Por contacto directo do titular (verbal ou escrito) junto do
+Responsável do Departamento de Recursos Humanos;
+7.Prazo de Conservação: Tempo de duração do processo disciplinar e, no caso de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39 4
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 13113/2012 | 5
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS procedimento judicial, até seis meses após o trânsito em julgado da decisão.
+Lisboa, 5 maiçode 2013
+Carlos Campos Lobo (Relator), Ana Roque, Luís Barroso, Luis Paiva de Andrade, Vasco
+Almgida file
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39 5
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

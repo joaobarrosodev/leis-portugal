@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 36/2014
-official_date: null
+official_date: '2014-05-12'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO SECRETÁRIO DE ESTADO DA SOLIDARIEDADE E DA SEGURANÇA SOCIAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:02:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 36/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/64857](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/64857).
+Proc. 1339/2014 1'
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.° 36/2014
+Do Pedido
+O Gabinete do Secretário de Estado da Solidariedade e da Segurança Social remeteu, de novo, a esta Comissão para parecer o projeto de portaria que estabelece os princípios de criação e manutenção de uma base de dados de registo do Sistema de
+Atribuição de Produtos de Apoio (SAPA) e regula o tratamento da respetiva informação, em ficheiro informático, e o procedimento de referenciação, prescrição, atribuição, comparticipação e reutilização de produtos de apoio.
+A Comissão Nacional de Protecção de Dados (CNPD) emite parecer ao abrigo do disposto no artigo 22.°, n.º1, da Lei n.° 67/98, de 26 de outubro - Lei de Proteção de
+Dados Pessoais (LPD).
+II.
+Da Apreciação
+A CNPD já teve oportunidade de se pronunciar no seu parecer n.º 8/2014, de 4 de fevereiro sobre a anterior versão do presente projeto de diploma.
+Posteriormente, tendo em vista uma resposta eficaz e urgente sobre a matéria, foram estabelecidos contactos entre a Comissão e o Gabinete do Secretário de Estado que culminaram com o envio da versão ora em análise.
+Analisado o novo texto reformulado, e confrontando-o com o anteriormente submetido pelo Governo, verifica-se que as recomendações, então sugeridas, foram acolhidas.
+Ainda assim, sempre se dirá que em matéria da interconexão de dados, que se encontra consagrada no artigo 12.° do diploma em análise, a CNPD, no âmbito das suas atribuições e competências e em sede de emissão da competente autorização, definirá os termos e condições daquela operação de tratamento, tendo em conta o
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 1339/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS quadro legal vigente e as autorizações já emitidas diretamente relacionadas com esta matéria.
+Este é o nosso parecer.
+Lisboa, 12 de maio de 2014
+GeaKque na Roque (relatora).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMPANHIA DE SEGUROS - AIG EUROPE, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:49Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 826/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6554](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6554).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.º 838/1939/04 826
+Autorização n.° /05
+AIG Europ, SA vem junto da Comissão Nacional de Protecção de Dados (CNPD)
+proceder a um tratamento de legalização de dados pessoais com a seguinte finalidade:
+para exercer a actividade de seguradora.
+Os dados tratados são nome, morada, NIF, telefone, NIB.
+Pode haver recolha e actualização directa, ou indirecta junto de mediadores, corretores ou agentes.
+As medidas de segurança adoptadas são: cópias de backup, sistemas de processamento de backup, passwords de acesso às informações.
+Os dados são conservados pelo tempo necessário ao cumprimento das obrigações legais.
+A transferência para os Estados-Unidos está dependente de consentimento prévio do titular dos dados nos termos do artigo 20.°, da Lei n.º 67/98, de 26 de Outubro, da existência de cláusulas contratuais que respeitem a Decisão da Comissão n.° 2002/16/CE ou da integração no safe harbour.
+A transferência para os Estados-Unidos é acompanhada de documento contratual que cumpre a Decisão da Comissão das Comunidades Europeias.
+Esta transferência tem que ser, sempre, antecedida de consentimento do titular dos dados (artigo 20.º da Lei n.º 67/98, de 26 de Setembro). Este é prestado nos termos da
+Lei de Protecção de Dados
+Os dados recolhidos são considerados necessários, pertinentes e adequados, atenta a finalidade prosseguida (artigo 5.° da Lei n.° 67/98, de 26 de Outubro).
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.° da Lei n.º 67/98, de 26 de Outubro, autoriza-se o tratamento de dados apresentado, nos seguintes termos:
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável: AIG Europ, SA
+Categorias de dados pessoais tratados: nome, morada, NIF, telefone, NIB.
+Finalidade: Exercer a actividade de seguradora
+Entidades a quem podem ser transmitidos: Não se verifica
+Forma de exercício do direito de acesso e rectificação: Contactando a empresa através de correio, e-mail ou telefone.
+Eventuais interconexões : Não se verifica
+Transferências de dados para países terceiros: França, Reino-Unido e Estados-
+Unidos.
+A transferência para os Estados-Unidos verifica-se nos termos previstos nesta
+Autorização.
+Lisboa, || de Outubro de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo
+- ними ampos' e
+Ana Luísa Geraldes
+Arden
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

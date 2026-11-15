@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: METRIS-MÉTODOS DE RECOLHA INVESTIGAÇÃO SOCIAL, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:13:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 880/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27590](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27590).
+1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 3611/2006
+AUTORIZAÇÃON° 880 2011 1 - Métris - Métodos de Recolha e Investigação Social, Lda, notificou à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de criação de um painel de participantes num estudo relativo a opiniões e comportamentos das famílias portuguesas".
+Os dados pessoais objecto de recolha são os seguintes: nome, morada, telefone, sexo, idade, estado civil, instrução, ocupação, dados sobre o agregado familiar, dados sobre o alojamento, bens possuídos, telecomunicações disponíveis, dados sobre consumo de bens e serviços, respostas a questões sobre convicções políticas, sobre saúde e sobre a etnia do próprio e dos seus progenitores.
+Os dados são recolhidos de forma directa, por meio de entrevistas realizadas aos titulares enquanto componentes do painel de participantes, via telefónica ou pela internet.
+Como fundamento de legitimidade a requerente invoca o consentimento dos titulares dos dados, sendo que os titulares dos dados, aderentes ao painel, apõem a sua assinatura em declaração de consentimento de que foi junto modelo aos autos.
+A segurança das informações é garantida por cópias de backup dos dados e password de acesso às informações, sendo assegurada a segurança física das instalações mediante o acesso restrito de pessoas.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+Pretende-se a conservação dos dados pelo período de permanência do titular dos dados no painel de participantes.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 2 - Porque referentes à saúde e à vida privada, os dados objecto de registo têm a natureza de sensíveis, razão pela qual o respectivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n° 2 do artigo 7° da Lei n° 67/98, de 26.10, ou dos seus legais representantes.
+Por esta razão é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objecto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10° da Lei n° 67/98, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de rectificação.
+No caso em apreço, o titular dos dados presta declaração de consentimento, com aposição da respectiva assinatura, autorizando o tratamento, conforme modelo junto com o formulário de notificação.
+Verifica-se, todavia, que a declaração em causa não contém qualquer referência aos dados pessoais objecto de tratamento.
+Deste modo, e desde que a declaração de que está junto modelo aos autos discrimine os dados pessoais recolhidos, considera a Comissão Nacional de Protecção de Dados que existe legitimidade para o tratamento dos dados que a requerente se propõe realizar (artigos 3° alínea h) e 7° n°2 da Lei n° 67/98, de 26.10).
+A informação tratada é recolhida de forma lícita (artigo 5°, n.º1 alínea a) da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva tendo em conta tais finalidades.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os dados devem ser exactos e, se necessário, actualizados (artigo 5º, alínea d), da Lei n° 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da Lei n° 67/98), sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou rectificados os dados inexactos ou incompletos ou não necessários (artigo 5° n.º 1, alíneas c) e d), e n.° 3 da Lei n° 67/98).
+O prazo de conservação dos dados deverá ser, assim, o da relação contratual, após o que só poderão ser conservados para fins estatísticos desde que anonimizados.
+3 - Conclusão
+Em face do exposto, a Comissão Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 7° nº2, 28 nº1, alínea a), e 30° n°1 da Lei n.º 67/98, de 26.10, consignando-se o seguinte:
+Responsável pelo tratamento: Métris - Métodos de Recolha e Investigação Social,
+Lda
+Finalidade do tratamento: criação de um painel de participantes num estudo relativo a "opiniões e comportamentos das famílias portuguesas"
+Categoria de Dados: nome, morada, telefone, sexo, idade, estado civil, instrução, ocupação, dados sobre o agregado familiar, dados sobre o alojamento, bens possuídos, telecomunicações disponíveis, dados sobre consumo de bens e serviços, respostas a questões sobre convicções políticas, sobre saúde e sobre a etnia do próprio e dos seus progenitores
+Comunicação de dados: não há
+Interconexões de dados: não há
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+4
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Forma de exercício do direito de acesso e rectificação: mediante pedido dirigido à responsável
+Lisboa, 21 de Janio deaou
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

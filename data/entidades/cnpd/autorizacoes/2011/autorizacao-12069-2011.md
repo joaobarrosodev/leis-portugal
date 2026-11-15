@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CENTRO PAROQUIAL DO ESTORIL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,74 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T05:04:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12069/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/38902](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/38902).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 6917/2011
+AUTORIZAÇÃO N° / 2069/2011 1 - Centro Paroquial do Estoril vem notificar à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de exercício de actividade educativa.
+Os dados pessoais objecto de recolha são os seguintes:
+Dados do utente - nome da criança, sexo, data de nascimento, naturalidade, morada, número de telefone, número de BI, NIF, NISS, informações sobre cuidados de saúde de que a criança carece;
+Dados dos responsáveis pelo criança-utente - nome, morada, número de telefone, número de BI, NIF, número de elementos do agregado familiar, informações sobre situação económica (facultativo).
+Os dados são recolhidos de forma directa, presencialmente, mediante o preenchimento de impresso.
+A segurança das informações é garantida por acesso restrito de pessoas às instalações.
+Aos titulares dos dados é assegurado o direito de conhecer e corrigir os dados que lhes respeitem.
+Pretende-se a conservação dos dados pelo período necessário à prossecução da finalidade.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnnd.nt 21 393 00 39
+LINHA PRIVACIDADE
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2 - Porque em parte referentes à saúde e à vida privada, os dados objecto de registo têm a natureza de sensíveis, razão pela qual o respectivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n° 2 do artigo 7° da Lei n° 67/98, de 26.10, ou dos seus responsáveis.
+Por esta razão é necessário o «consentimento expresso do titular», que deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível. Nos termos do artigo 10° da Lei n° 67/98, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de rectificação.
+No caso em apreço, deverá ser incluída nos modelos de impresso de recolha de dados declaração de consentimento dos titulares, em seu nome e enquanto responsáveis pela criança-utente, com aposição da respectiva assinatura, bem como informação sobre a forma ou formas de acesso aos dados, sob pena de a
+Comissão Nacional de Protecção de Dados considerar não existir legitimidade para o tratamento.
+A informação tratada é recolhida de forma lícita (artigo 5°, n.º1 alínea a) da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+Os dados devem ser exactos e, se necessário, actualizados (artigo 5°, alínea d), da Lei n° 67/98), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5°, alínea e), da Lei n° 67/98), sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou rectificados os dados inexactos ou incompletos ou não necessários (artigo 5° n.º 1, alíneas c) e d), e n.º 3 da Lei n° 67/98).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+3
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+O prazo de conservação dos dados deverá ser, assim, o da relação contratual.
+Deverão ser adoptadas as medidas de segurança adequadas, atenta a natureza sensível dos dados objecto de tratamento, devendo o responsável adoptar medidas técnicas e organizativas adequadas a proteger os dados pessoais, as quais devem atestar um nível de segurança adequado em relação aos riscos que o tratamento apresenta e à natureza dos dados a proteger.
+3 - Conclusão
+Em face do exposto, e observadas que sejam as condições impostas, a Comissão
+Nacional de Protecção de Dados (CNPD) autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 7° nº2, 28 nº1, alínea a), e 30.° nº1 da Lei n.º 67/98, de 26.10, consignando-se o seguinte:
+Responsável pelo tratamento: Centro Paroquial do Estoril
+Finalidade do tratamento: exercício de actividade educativa
+Categorias de Dados:
+Dados do utente - nome da criança, sexo, data de nascimento, naturalidade, morada, número de telefone, número de BI, NIF, NISS, informações sobre cuidados de saúde de que a criança carece;
+Dados dos responsáveis pelo utente - nome, morada, número de telefone, número de BI,
+NIF, número de elementos do agregado familiar, informações sobre situação económica (facultativo)
+Comunicação de dados e Interconexões de dados: não há
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Forma de exercício do direito de acesso e rectificação: mediante pedido dirigido ao responsável
+Lisboa, 0r de Novele Gro de 2oul
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade se Siren
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

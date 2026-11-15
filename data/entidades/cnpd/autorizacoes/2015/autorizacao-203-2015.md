@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Banif -Banco Internacional do Funchal, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:10:50Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 203/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72815](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/72815).
+Processo n° 8846/2014 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.° 203/2015
+Banif - Banco Internacional do Funchal, S.A., vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados relativo a operação de cessão de créditos, tendo por cessionária a Arrow Global Limited.
+A referida operação ocorre ao abrigo de um contrato e implica a transmissão de dados pessoais do devedor (nome, morada com código postal e localidade, número de contribuinte dos mutuários, dados relativos ao crédito) à cessionária.
+A cedência de dados é feita no âmbito de um contrato celebrado nos termos do artigo 577.° do Código Civil. Por força do disposto no n.º 1 do referido preceito a cessão de crédito é admissível independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros direitos acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (cf. n.° 1 do artigo 582.° do Código Civil)
+Os dados objeto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no artigo 78.° do Decreto-Lei n.º 298/92, de 31 de dezembro. Enquadram-se, por isso, no conceito de vida privada do n.º 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro (LPD).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é a disposição legal prevista no n.° 2 do artigo 7.° da LPD.
+O responsável deverá assegurar que o titular obteve as informações previstas no artigo 10° da LPD, designadamente que a cessionária é destinatária da informação e a finalidade da comunicação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 8846/2014 2 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Deve, de igual modo, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização de auditorias internas e externas. Deve, também, efetuar cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direção, a outros técnicos obrigados a segredo profissional. No que diz respeito aos dados contidos em suporte de papel, devem ser adotadas medidas, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos da alínea b) do n.° 1 do artigo 23.° e da alínea b) do n.º1 do artigo 28.° da Lei n° 67/98, de 26 de outubro, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da LPD, o seguinte:
+Responsável: Banif - Banco Internacional do Funchal, S.A.
+Finalidade: Cessão de créditos
+Categorias de dados pessoais tratados: nome, morada com código postal e localidade, número de contribuinte dos mutuários, dados relativos ao crédito.
+Entidade a quem são comunicados: Arrow Global Limited
+Forma de exercício do direito de acesso e retificação Por escrito, junto do responsável
+Interconexões de dados: Não aplicável
+Transferência de dados para países terceiros Não há
+Prazo de conservação dos dados: 10 anos após a cessão da relação contratual.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n° 8846/2014 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 13 de Janeino de 2015 fere
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

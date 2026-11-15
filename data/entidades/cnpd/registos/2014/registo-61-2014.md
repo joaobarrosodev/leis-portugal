@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 61/2014
-official_date: null
+official_date: '2014-08-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Ministério dos Negócios Estrangeiros'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,38 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:57:08Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 61/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/68090](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/68090).
+Proc. 874/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n.% / 12014
+Ministério dos Negócios Estrangeiros notificou à CNPD um tratamento com a finalidade de controlo de assiduidade.
+Os dados pessoais que se pretende tratar para a finalidade declarada são: Nome, número do trabalhador, data, hora, porta de entrada e saída.
+Os dados são recolhidos presencialmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do artigo 5° da Lei 67/98, de 26 de outubro - LPD).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea b) do artigo 6.° da LPD, o cumprimento de obrigação legal.
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados tratados.
+Em face do exposto, nos termos da alínea b) do n.º 1 do artigo 23° e do artigo 27.°da
+LPD, a CNPD regista o tratamento consignando, nos termos e para os efeitos do artigo 30.° da LPD, o seguinte:
+Responsável - Ministério dos Negócios Estrangeiros
+Categoria de dados pessoais tratados - Nome, número do trabalhador, data, hora, porta de entrada e saída
+Finalidade - Controlo de assiduidade dos trabalhadores
+Forma de exercício do direito de acesso e retificação - Escrita para o serviço de pessoal;
+Comunicação de dados - Não há;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados para países terceiros - Não há;
+Prazo máximo de conservação da informação - 1 anos.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, incluindo o n.º 4, da LPD.
+Lisboa, 25 de agosto de 2014
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

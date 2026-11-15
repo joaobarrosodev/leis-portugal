@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LIS-EMPRESA MUNICIPAL DE DESPORTO, EM'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,38 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:20:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 780/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6621](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6621).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 374/03
+Autorização n.º7802005 1-LIS - Empresa Municipal de Desporto EM, veio notificar os tratamentos de videovigilância a efectuar através de 10 câmaras nas piscinas municipais de Lisboa, com a finalidade de controlo de acesso e segurança nas piscinas. Tendo sido notificada do projecto de autorização da CNPD nos termos do artigo 100.º da Código de
+Procedimento Administrativo, a querente nada disse. Assim a CNPD mantém a decisão, bem como os seus fundamentos.
+2-Através da deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro), condições de legitimidade (artigos 7° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância quando os direitos dos titulares não se devam sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, atenta a natureza do caso concreto julga-se que a actividade desportiva e de lazer desenvolvida em piscinas não parece compatível com a fiscalização e observação à distância através de câmaras de videovigilância. Neste sentido, entende-se que o tratamento em causa não respeita o princípio da proporcionalidade, constitucionalmente recolhido no artigo 18.°.
+() Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Efectivamente, esta Comissão tem autorizado desde que asseguradas as condições de legitimidade e de informação previstas na lei, a realização deste tipo de tratamentos, sempre que a finalidade prosseguida não deva ceder perante direitos, liberdaees e garantias. Mantendo esta doutrina fundamental, a Comissão Nacional de Protecção de
+Dados não pode autorizar o tratamento de videovigilância notificado, por estar em causa a defesa da privacidade numa situação concreta da vida, em que ela deve prevalecer sobre a utilização de câmaras com fins securitários.
+O responsável pelo tratamento e as entidades públicas competentes deverão, nos termos gerais, garantir a segurança dos frequentadores das piscinas com recurso a outros meios de carácter menos intrusivo na esfera íntima da pessoa.
+Neste sentido, a CNPD não autoriza o tratamento notificado.
+Lisboa,
+Alexandre Sousa Pinheiro (Relator)
+гли
+Eduardo Campos ta Luísa Geraldes
+Araden
+Amadeu Guerra
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

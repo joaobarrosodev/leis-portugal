@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Maria João Ferreira Mendes'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 23/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1059](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1059).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 294/07
+Registo n.º 23 /08
+Maria João Ferreira Mendes notificou um tratamento de dados pessoais com a finalidade gestão dos aderentes à petição relativa à colocação de docentes pela
+DGRHE.
+Declaram as seguintes categorias de dados pessoais: Nome, BI, e-mail e localidade.
+Os dados são recolhidos directamente na Internet.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+Os dados são conservados pelo prazo máximo de um mês após a entrega da petição.
+O fundamento de legitimidade para o tratamento é, nos termos da do corpo do artigo 6° da LPD, o consentimento do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Maria João Ferreira Mendes
+Categoria de dados pessoais tratados - Nome, BI, e-mail e localidade.
+Os dados são recolhidos directamente na Internet.
+Finalidade - petição relativa à colocação de docentes pela DGRHE.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável através do e-mail meucorreio075@iol.pt;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve, no momento da recolha, ser garantido o direito de informação previsto no artigo 10° da LPD, incluindo o n.º 4, por haver recolha de dados em rede aberta.
+O tratamento notificado reveste-se de uma especial sensibilidade. Embora não sejam registados dados classificados como dados sensíveis, nos termos do n.º 1 do art.º 7° da Lei 67/98, mas apenas dados de identificação, o simples facto de se assumir publicamente uma determinada posição face a um facto relevante da vida em sociedade pode, em algumas situações, revelar ou
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS permitir deduzir as convicções políticas ou filosóficas do seu titular ou até mesmo elementos que se integrem no conceito de vida privada.
+Por outro lado a disponibilização destes dados em rede aberta suscita alguns problemas relacionados com a segurança da informação, dado que existe a real possibilidade de acesso, cópia ou alteração indevida.
+Deve por isso, a responsável adoptar as medidas de segurança necessárias ao caso concreto.
+Lisboa, 4 de Fevereiro de 08
+A Secretária da CNPD
+Isases
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

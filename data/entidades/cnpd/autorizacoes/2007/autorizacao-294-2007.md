@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL DE SÃO JOÃO, EPE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:36:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 294/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3300](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3300).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 2565/06
+Autorização n° /2007 1. O Hospital de São João, E.PE., vem proceder à notificação do tratamento que tem como finalidade, no âmbito do programa de vacinação dos funcionários do HSJ contra a gripe sazonal e do Plano de Contingência para a
+Pandemia da Gripe, "proporcionar o conhecimento da real cobertura vacinal e dos motivos da não vacinação na época passada". Os dados são tratados por médicos. O titular dos dados pode optar por manter o anonimato.
+São recolhidos dados de identificação dos funcionários: n° mecanográfico (opcional), sexo, idade (por categorias), categoria profissional, existência de doença crónica.
+2. A Lei 67/98 de 26 de Outubro delimita o tratamento de dados pessoais. Em relação ao tratamento de dados de saúde admite o artigo 7.° n.º 4 o seu tratamento quando for necessário «para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional» e desde que sejam «garantidas medidas adequadas de segurança da informação».
+A informação tratada é recolhida de forma lícita (art. 5.° n.º 1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (art. 5.° n.° 1 al. b).
+A CNPD considera que existe legitimidade para o tratamento destes dados -por força do artigo 7.° da Lei 67/98, de 26 de Outubro - na medida em que se destina à medicina preventiva.
+Em face do exposto, a CNPD autoriza o tratamento relativo ao conhecimento da real cobertura vacinal e dos motivos da não vacinação na época passada, nos termos do artigo 30.° da Lei 67/98, consignando o seguinte:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 1. Responsável: Hospital de São João, E.P.E.
+2. Categorias de dados pessoais tratados: n° mecanográfico (opcional), sexo, idade (por categorias), categoria profissional, existência de doença crónica.
+3. Finalidade: no âmbito do programa de vacinação dos funcionários do HSJ contra a gripe sazonal e do Plano de Contingência para a Pandemia da Gripe, "proporcionar o conhecimento da real cobertura vacinal e dos motivos da não vacinação na época passada".
+4. Não há comunicação de dados.
+5. Forma de exercício do direito de acesso e rectificação: é assegurado o direito de informação e acesso, nos termos dos artigos 10.° e 11.°.
+6. Não há interconexão de dados 7. Não há transferência de dados para países terceiros.
+8. Conservação dos dados: 2 anos.
+Lisboa,de Fevereiro de 2007.
+Ana Roque (Relatora)
+Carlos Campos Lobo
+Luís Barroso
+Helena Delgado António
+Eduardo Campos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+VascoAlmeida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

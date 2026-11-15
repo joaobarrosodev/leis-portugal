@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TRANSPORTES AÉREOS PORTUGUESES, S.A. - TAP AIR PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:42:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 96/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14519](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14519).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 605/09
+Registo n.º 96/09
+A Tap - Transportes Aéreos Portugueses, SA notificou à CNPD uma alteração ao tratamento, já registado, com a finalidade de gerir o Programa Passageiro Frequente TAP Vitória.
+Por comunicação de 26/11/06, a TAP notificou o referido tratamento, no qual a recolha de dados era efectuada directamente. Por alteração do funcionamento do Programa, passou o responsável a recolher dados de forma indirecta.
+Foram estabelecidos contratos com parceiros comerciais que permitem que, mediante a aquisição de bens e serviços nesses parceiros, os titulares acumulem pontos revertíveis em milhas.
+Os dados pessoais tratados são: N.º de passageiro frequente, nome, data de nascimento, morada, telefone, PIN de acesso, e-mail, dados relativos às viagens efectuadas, preferências de viagens (preferências de alimentação e lugar preferido) e dados relativos à aquisição de bens e serviços nos parceiros.
+Os dados são recolhidos directamente, por impresso na Internet, telefónica e pessoalmente e indirectamente através da comunicação, pelos parceiros do programa, dos bens e serviços adquiridos.
+É declarada a existência de fluxos transfronteiriços para a Suíça e para Índia.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+Relativamente aos dados recolhidos indirectamente, os parceiros apenas podem comunicar os valores totais dos bens e serviços adquiridos, não podendo remeter a informação de quais os bens e serviços adquiridos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade para o tratamento é, nos termos da al. a) do artigo 6° da LPD, a execução de contrato.
+Quanto ao fluxo transfronteiriço para a Suíça, sendo um país pertencente ao Espaço
+Económico Europeu, aplica-se o regime da Directiva 95/46/CE, pelo que o fluxo é livre.
+Quanto aos fluxos transfronteiriços para a india, no âmbito da subcontratação de serviços, tem que ter por fundamento as cláusulas contratuais tipo entre responsável e subcontratante aprovadas pela Comissão Europeia. Assim, nos termos do n.° 5 do artigo 20° da Lei 67/98, , e ainda de acordo com a declaração interpretativa da CNPD, de 29 de Novembro de 2004, não carecem do controlo prévio previsto no artigo 28°, podendo em consequência efectuar-se.
+Assim, regista-se, nos termos dos artigos 27° n.° 1 e 30° n.° 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Tap - Transportes Aéreos Portugueses, SA
+Categoria de dados pessoais tratados - N.º de passageiro frequente, nome, data de nascimento, morada, telefone, PIN de acesso, e-mail, dados relativos às viagens efectuadas, preferências de viagens (preferências de alimentação e lugar preferido) e dados relativos ao valor total da aquisição de bens e serviços nos parceiros.
+Finalidade - gestão Programa Passageiro Frequente TAP Vitória
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável.
+Interconexões - Não há;
+Comunicação de dados - Não há.
+Fluxo transfronteiriço de dados - Suíça e Índia (no âmbito de subcontratação).
+Prazo máximo de conservação dos dados - Enquanto durar a relação contratual.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, bem como o direito de oposição (Cf. Art° 12°),
+Lisboa, 12 de Fevereiro de 09
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 89/2013
-official_date: null
+official_date: '2013-08-13'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CNH Portugal, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:00:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 89/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56185](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/56185).
+Proc. 9492/2012 | 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Registo n.° 89/2013
+CNH Portugal, Lda. notificou um tratamento de dados pessoais com a finalidade de marketing.
+Os dados pessoais são recolhidos diretamente, através de impresso e por telefone.
+Os dados recolhidos são pertinentes e não excessivos face à finalidade declarada.
+O fundamento de legitimidade para o tratamento é, nos termos da alínea e) do artigo 6° da Lei n.º 67/98, de 26 de outubro (LPD), a persecução do interesse legítimo do responsável.
+Apesar de ter sido declarada a existência de comunicação de dados às entidades constantes do anexo, após análise da mesma conclui-se que a listagem corresponde à base de dados que irá ser utilizada para marketing. É nesse pressuposto que se faz o presente registo.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 LPD, o tratamento de dados pessoais nos seguintes termos:
+Responsável - CNH Portugal, Lda.
+Categoria de dados pessoais tratados Nome, empresa, morada, contactos telefónicos e e-mail
+Finalidade - marketing
+Forma de exercício do direito de acesso e retificação - Por contacto escrito na sede do responsável, Rua Quinta do Paizinho, n.º 2, 1.° - 2794-083 Carnaxide
+Interconexões - Não há;
+Comunicação de dados a terceiros - Não há;
+Fluxo transfronteiriço de dados - Não há;
+Prazo máximo de conservação dos dados - 10 anos
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, da LPD, bem como o direito de se oporem à utilização dos seus dados para fins de marketing.
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, designadamente as previstas no artigo 14° da LPD.
+Lisboa, 13 de agosto de 2013,
+A Secretária da CNPD,
+Isabel Cristína Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

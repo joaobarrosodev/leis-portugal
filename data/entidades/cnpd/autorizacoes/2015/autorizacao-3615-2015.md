@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3615/2015
-official_date: null
+official_date: '2015-04-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Leticia Leuze Machado'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,86 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T18:12:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3615/2015
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/76266](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/76266).
+Processo N. ° 13745/2014 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃONº 3615 12015
+I. Pedido
+Letícia Leuze Machado notificou à Comissão Nacional de Protecção de Dados (CNPD)
+um tratamento de dados pessoais com a finalidade de realização de um estudo intitulado "Implicações dos Fatores de Tomada de Decisão sobre o Transplante de
+Medula Óssea (TMO) no Período Pós-transplante: Comunicação e Compreensão em
+Contexto de Saúde."
+O estudo tem como objetivos investigar a necessidade e eficácia percebida em relação ao TMO, a preocupação sobre os efeitos adversos ou dificuldades associadas com o tratamento, a percepção de riscos, os fatores decisivos para a concretização do transplante, bem como avaliar o nível de ansiedade e qualidade de vida dos doentes.
+A participação no estudo consiste na resposta a três questionários: questionário sociodemográfico, questionário adaptado do estudo de Hutson et Al., Functional
+Assessment Cancer Therapy - Bone Marrow Transplantation, Questionário de
+Crenças sobre a Doença (versão breve) e Hospital Anxiety and Depression scale.
+Serão convidados a participar no estudo cerca de 30 pacientes adultos submetidos a transplante de medula óssea do tipo autólogo há pelo menos três meses, e que estejam a ser acompanhados pelo Serviço de hematologia do Hospital dos Capuchos.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de participante. A chave desta codificação só pode ser conhecida da equipa de investigação.
+Os destinatários são ainda informados sobre a natureza facultativa da sua participação e garantia de confidencialidade no tratamento, caso decidam participar.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.º 13745/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+II. Análise
+Porque em grande parte referentes à vida privada e também à saúde, os dados recolhidos pela requerente têm a natureza de sensíveis, nos termos do disposto no n.º 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD).
+Em regra, o tratamento de dados sensíveis é proibido, de acordo com o disposto no n.º 1 do artigo 7.° da LPD. Todavia, nos termos do n.º 2 do mesmo artigo, o tratamento de dados da vida privada e de saúde é permitido, quando haja uma disposição legal que consagre esse tratamento de dados, quando por motivos de interesse público importante o tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável ou quando o titular dos dados tiver prestado o seu consentimento.
+Não estando preenchidas as duas primeiras condições de legitimidade, o fundamento de legitimidade só pode basear-se no consentimento dos titulares dos dados ou dos representantes legais, quando os titulares dos dados sejam incapazes.
+Assim, é necessário o «consentimento expresso do titular», entendendo-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento (cf. artigo 3.°, alínea h), da LPD), o qual deve ser obtido através de uma ¿declaração de consentimento informado" onde seja utilizada uma linguagem clara e acessível.
+Nos termos do artigo 10.° da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Os titulares dos dados, de acordo com a declaração de consentimento informado junta aos autos, apõem as suas assinaturas na mesma, deste modo satisfazendo as exigências legais.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.º 13745/2014 3
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1 alínea a) da Lei n.º 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+I. Conclusão
+Assim, nos termos das disposições conjugadas do n.° 2 do artigo 7.°, n.° 1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.° e artigo 30.° da Lei de Proteção de Dados, autoriza-se o tratamento de dados supra referido, consignando-se o seguinte:
+Responsável pelo tratamento: Letícia Leuze Machado;
+Finalidade: estudo intitulado "Implicações dos Fatores de Tomada de Decisão sobre o
+Transplante de Medula Óssea (TMO) no Período Pós-transplante: Comunicação e
+Compreensão em Contexto de Saúde";
+Categoria de Dados pessoais tratados: código do participante; género; idade;
+escolaridade; profissão; naturalidade; estado civil; número de filhos; diagnóstico;
+tratamentos anteriores; questionário adaptado do estudo de Hutson et Al., Functional
+Assessment Cancer Therapy - Bone Marrow Transplantation, Questionário de
+Crenças sobre a Doença (versão breve) e Hospital Anxiety and Depression scale.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto da responsável.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo N.º 13745/2014 | 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 17 de abril de 2015
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

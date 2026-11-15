@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 113/2017
-official_date: null
+official_date: '2017-01-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Centro de Paralisia Cerebral de Beja'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,86 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T11:37:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 113/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/99842](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/99842).
+Processo 16310/2014 1 p
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Autorização n.° 113 12017
+Pedido
+O Centro de Paralisia Cerebral de Beja notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais para fins de controlo de assiduidade dos seus trabalhadores por meio de um sistema de identificação biométrica.
+Declara o Requerente pretender proceder ao tratamento de dois dados biométricos:
+impressão digital e reconhecimento facial. A estes dados, acrescem ainda os seguintes dados pessoais: nome, número de empregado, horário, departamento/secção e data e hora de entrada e de saída.
+Declara igualmente que os dados são armazenados num terminal local, num estabelecimento único.
+Não há Comissão de Trabalhadores.
+A CNPD emitiu o Projeto de Deliberação n.º 277/2016, a 25 de outubro de 2016, no qual demonstrou a sua intenção de não autorizar o tratamento de dois tipos de dados biométricos - impressão digital e reconhecimento facial - sobre o mesmo universo de trabalhadores, por não se apresentar como um meio idóneo e necessário, sendo por isso desproporcional.
+A este Projeto de Deliberação, e atendendo ao prazo nele estipulado, nos termos dos artigos 121.° e 122.° do Código do Procedimento Administrativo (CPA), aprovado pelo
+Decreto-Lei n.°4/2015, de 7 de janeiro, veio o Requerente pronunciar-se, esclarecendo o pedido inicialmente peticionado, declarando que pretendem «um sistema de tratamento de dados no exterior do edifício» o qual consistiria no tratamento do dado impressão digital - «reconhecimento digital - e que «se destina única e exclusivamente aos funcionários que desempenham funções no nosso Lar
+Residencial.
+Além disto, clarificou ainda que pretendem que seja autorizado «outro sistema (reconhecimento facial) no interior do edifício que se destina exclusivamente aos
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 16310/2014 2
+D
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS restantes trabalhadores, isto é que desempenham as suas funções nas diversas valências que temos dentro do edifico principal.
+Por fim, concluiu o Requerente que «não se trata de submeter qualquer trabalhador a mais do que um sistema de recolha de dados, mas apenas de ter dois sistemas de tratamentos de dados que por uma questão de funcionalidade servem os interesses da instituição e dos seus colaboradores, sendo certo que cada um deles, nos termos atrás mencionados, apenas utilizará um dos sistemas».
+Apreciação
+A CNPD já se pronunciou sobre os princípios aplicáveis aos tratamentos de dados biométricos para controlo de assiduidade dos trabalhadores na sua Deliberação de 26 de fevereiro de 2004, bem como sobre o enquadramento legal, os fundamentos de legitimidade e as medidas a tomar para o correto cumprimento da Lei de Proteção de
+Dados (LPD). Decorrem desses princípios os seguintes limites ao tratamento:
+• Não se admite a reversão do dado biométrico, isto é, a descodificação e a reprodução da imagem da característica biométrica;
+• A operação de captação de dados biométricos não pode ser realizada com violação da identidade pessoal do trabalhador (artigo 26.° da CRP), com lesão da sua integridade física (artigo 25.°, n.º 1, da CRP) ou com intromissão na intimidade da vida privada;
+• As taxas de falsa rejeição e falsa aceitação devem ser adequadas à prossecução da finalidade declarada;
+• A informação biométrica não pode ser utilizada para outra finalidade que não seja o controlo de assiduidade nos termos declarados;
+Os dados recolhidos são necessários à finalidade que se pretende alcançar.
+Considera-se igualmente justificada a opção pela utilização de diferentes dados biométricos para diferentes trabalhadores na medida em que o tratamento de dados não incide sobre o mesmo universo de utilizadores.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 16310/2014
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A CNPD considera, pois, que a utilização da biometria neste contexto é um meio adequado para assegurar uma finalidade especifica, explícita e legítima, conforme exigível pela alínea b) do n.º 1 do artigo 5.° da LPD, não envolvendo a utilização desta tecnologia qualquer violação dos direitos de personalidade do trabalhador.
+O fundamento de legitimidade para o tratamento de dados com a finalidade de controlo de assiduidade tem como fonte a previsão do artigo 6.° alínea e) da LPD, uma vez que este é feito na «prossecução de interesses legítimos do responsável».
+Atendendo à especificidade dos fins a alcançar, os dados devem ser conservados apenas durante o período de vigência do contrato laboral, devendo ser eliminados de imediato finda a relação contratual.
+Conclusão
+Assim, com os limites fixados, autoriza-se o tratamento notificado ao abrigo do disposto nos artigos 6.° alínea e) e 30.°, n.º 1, da Lei n.º 67/98, de 26 de outubro, nos seguintes termos:
+Responsável: Centro de Paralisia Cerebral de Beja
+Finalidade: Controlo de assiduidade
+Categoria de dados pessoais tratados: nome, número de empregado, horario, departamento/secção e data e hora de entrada e de saída; template da impressão digital ou da face, relativamente universos de trabalhadores diferentes, resultante de interpretação algorítmica de pontos fisiométricos, sem possibilidade de reconstrução do dado biométrico.
+Forma do exercício do direito de acesso: por solicitação presencial ao responsável no seguinte endereço: Rua Cidade S. Paulo, S/N, 7800-453, Beja
+Comunicação de dados: não há
+Interconexão de dados: não há
+Conservação dos dados: apenas durante o período de duração da relação contratual.
+O Requerente deverá assegurar uma efetiva informação prévia aos titulares dos dados em relação às finalidades da recolha dos dados biométricos e às condições da sua
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo 16310/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS utilização, bem como quanto aos restantes elementos exigidos pelo n.º 1 do artigo 10.° da LPD.
+Devem ser encontradas soluções alternativas de controlo para suprir eventuais deficiências do sistema biométrico, especialmente as que resultem de falsas rejeições ou impossibilidade temporária do funcionário apresentar o seu dado biométrico para autenticação ou reconhecimento.
+O titular dos dados pode - quando existam razões ponderosas e legítimas relativas à sua situação particular (cf. artigo 12.° alínea a) da LPD) - exercer o direito de oposição em relação ao tratamento dos seus dados. Neste caso, deve apresentar os fundamentos em que assenta a sua oposição, cabendo ao responsável apreciá-los, podendo a CNPD intervir, em última análise, na apreciação e ponderação dos interesses em presença, de acordo com a alínea e) do artigo 6° e da alínea a) do artigo 12.° da LPD.
+Não podem ser recolhidos e tratados dois dados biométricos diferentes, relativos ao mesmo trabalhador.
+Lisboa, 4 de janeiro de 2017
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

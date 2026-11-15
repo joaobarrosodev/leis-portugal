@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SERVIER PORTUGAL, ESPECIALIDADES FARMACÊUTICAS, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:09:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1785/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1373](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1373).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc n.° 2693/07
+AUTORIZAÇÃO N.º |785/2007
+A sociedade comercial por quotas Servier Portugal, Especialidades Farmacêuticas,
+Lda., veio notificar à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional, multicêntrico, tendo como objectivo a determinação da prevalência da dor em mulheres pós-menopáusicas, com diagnóstico de osteoporose e identificação de factores associados à redução e resolução da dor. A entidade encarregue do processamento da informação é a sociedade anónima
+Eurotrials, Consultores Científicos, S.A.. Trata-se de um estudo observacional e a recolha dos dados será feita em consulta. Os dados são recolhidos pelos médicos participantes, num "caderno de recolha", que será posteriormente enviado para a subcontratada.
+Os dados recolhidos são de natureza sócio-demográfica (sexo, data de nascimento, profissão, estado civil), sobre actividade física, história clínica e tratamento em curso.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação apenas pode ser conhecida do médico.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade deverá ser o consentimento do titular dos dados, devendo este ser informado, contendo os elementos previstos no artigo 10° da Lei n.º 67/98.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.° 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Servier Portugal, Especialidades Farmacêuticas,
+Lda.
+Finalidade: estudo observacional, multicêntrico, tendo como objectivo a determinação da prevalência da dor em mulheres pós-menopáusicas, com diagnóstico de osteoporose e identificação de factores associados à redução e resolução da dor
+Categoria de Dados pessoais tratados: os constantes no questionário incluído nos autos, referentes a dados sócio-demográficos, história clínica e medicação em curso.
+Formas de exercício do direito de acesso e rectificação: junto do médico investigador. Porque há tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do titular o médico/investigador e no exercício do direito de rectificação deste tipo de dados, deverá o titular, de igual modo, exercê-lo directamente junto do médico/investigador, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: 2 anos.
+Dos termos e condições fixados na Deliberação n.º 2271 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 02 de Outu Gre) : 2007.
+Ana Roque (Relatora)
+Carlos Campos Lobo
+Eduardo Campos
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

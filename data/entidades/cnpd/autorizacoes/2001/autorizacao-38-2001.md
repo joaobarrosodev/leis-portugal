@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 38/2001
-official_date: null
+official_date: '2001-02-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IGIF - INSTITUTO DE GESTÃO INFORMÁTICA E FINANCEIRA DA SAÚDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:07:30Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 38/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10193](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10193).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. N.° 28/99
+AUTORIZAÇÃO N.38-/2001
+O Instituto de Gestão Informática e Financeira da Saúde (IGIF) notificou à CNPD o
+Sistema de Conferência de Facturas de Farmácias e de Convencionados, tendo as condições desse tratamento sido autorizado, nos termos estabelecidos pelas autorizações n.º 36/99, de 13 de Julho, e 32/2000, de 4 de Julho.
+O IGIF informa que as ARS/Sub-Regiões - que pagam a facturação directamente às farmácias e entidades convencionadas - procedem, posteriormente, à facturação de medicamentos e meios auxiliares de diagnóstico aos hospitais.
+Adianta o IGIF o seguinte: "para comprovação dos pagamentos que os hospitais vão ter de efectuar à ARS/Sub-Regiões, são por estas remetidos aos hospitais os documentos relativos às prescrições efectuadas pelos seus profissionais e transmitidos dados constantes dos seus ficheiros locais de conferências de facturas e de convencionados, uma vez que com os respectivos documentos é enviada informação referente a cada médico prescritor, onde constam dados relativos à identificação do prescritor (nome e cédula profissional), e dados relativos às prescrições efectuadas".
+A comunicação de dados aos hospitais é fundamental, nomeadamente para estes poderem conferir a factura que lhes é apresentada pelas ARS.
+A comunicação de dados revela-se necessária, pertinente e integra-se no âmbito da finalidade de tratamento e gestão de pagamentos dos encargos de saúde (cf. art. 5.° e 7.° n.º 4 da Lei 67/98).
+Em face do exposto a CNPD autoriza a comunicação de dados aos hospitais, nos termos e com os fundamentos indicados. Consideram-se, por isso, alteradas as autorizações n.º 36/99 e 32/2000.
+Lisboa, 20 de Fevereiro de 2001
+Amadeu Guerra (relator)
+Rua de São Bento, 148 - 3.° -
+- 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+en
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Catarinefumental Castro
+Catarina Castro
+João Simões de Almeida
+Mário Varges Gomes (presidente em substituição)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

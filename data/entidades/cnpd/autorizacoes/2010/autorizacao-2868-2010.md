@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FUNDAÇÃO CALOUSTE GULBENKIAN - INSTITUTO GULBENKIAN DE CIÊNCIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:19:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2868/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23798](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23798).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 1816/2010
+AUTORIZAÇÃO N.º 2868 12010
+A Fundação Calouste Gulbenkian - Instituto Gulbenkian de Ciência notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para monitorizar a propagação da gripe em Portugal (Gripenet).
+Serão incluídos no estudo os titulares dos dados que se registem no sítio www.gripenet.pt, possuam um endereço electrónico, residam em território nacional e preencham o questionário.
+Semanalmente, será solicitado aos titulares que preencham o questionário de sintomas.
+Os dados pessoais constantes do registo são: sexo, código postal, mês e ano de nascimento, nome de utilizador, password de utilizador (encriptada) e e-mail.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Assim, nos termos do artigo 28°, n.º1, alínea d), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: Fundação Calouste Gulbenkian - Instituto Gulbenkian de
+Ciência
+Finalidade: estudo observacional para monitorizar a propagação da gripe em Portugal (Gripenet).
+Categoria de Dados pessoais tratados: sexo, código postal, mês e ano de nascimento, nome de utilizador, password de utilizador (encriptada), e-mail e sintomas.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto da zona de utilizador, mediante nome de utilizador e password ou por envio de mensagem de correio electrónico a solicitar a sua exclusão do estudo.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 2% de Junho de 2010
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo, Luís Barroso (Relator)
+(e ' Luis Lingnau da Silveira (Presidente)
+y02
+Duo do C2o Dante 110 20 A

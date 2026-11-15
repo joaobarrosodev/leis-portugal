@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 564/2004
-official_date: null
+official_date: '2004-05-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASTRAZENECA, PRODUTOS FARMACÊUTICOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:47:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 564/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8998](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8998).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. N° 782/04
+AUTORIZAÇÃO N.º S64/2004 1. A Astra Zeneca Produtos Farmacêuticos, Ld.ª veio legalizar o seu ficheiro de «ensaios clínicos» relativos a tratamento de insuficiência cardíaca.
+O ficheiro recolhe dados pessoais que, confrontados com o processo clínico do médico ou com os seus elementos na qualidade de investigador, podem permitir a identificação dos doentes. Recolhe o "nome do investigador", as iniciais do nome do doente e um E Code. São recolhidos, ainda, os seguintes dados: data de nascimento, o sexo, origem, dados sobre a condição física e mental, dados clínicos e reacções adversas.
+A Astra Zeneca não admite, em nenhum momento, que possam ser colhidos elementos adicionais de identificação (vg. nome do doente) por forma a tornar identificáveis os dados.
+A Astra Zeneca obtém autorização dos titulares para participar nos ensaios clínicos (consentimento informado junto ao processo).
+A CNPD autoriza o tratamento automatizado dos dados desde que se verifiquem os seguintes requisitos (cf. artigo 27., 7° n.º 2 e 28.° n.º 1 al. a) da Lei 67/98, de 26 de
+Outubro):
+1. A Astra Zeneca não possa aceder a dados em poder do investigador que possam, de algum modo, identificar os doentes;
+2. Que os dados a remeter para a Astra Zeneca pelo investigador devem ser dados agregados que não permitam a identificação dos seus titulares;
+3. No momento em que os titulares dão a sua autorização à realização dos ensaios clínicos devem estes, igualmente, autorizar o tratamento automatizado dos seus dados e serem informados - de forma esclarecida - da finalidade e destino dos dados recolhidos (conforme consta da declaração junta ao processo).
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 4. A declaração de consentimento informado, que identifica o doente, deve ficar na posse do investigador hospitalar que contacta com os doentes e tem acesso à identificação dos mesmos.
+Lisboa, 18 de Maio de 2004
+Anedu
+Amadeu Guerra (relator)
+AlexandeSonsafinheir
+Alexandre Pinheiro ro
+Luís Barroso
+ому
+Eduardo Campos gei
+Ana Luísa Geraldes 29.%
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

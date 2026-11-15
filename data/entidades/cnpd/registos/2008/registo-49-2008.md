@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 49/2008
-official_date: null
+official_date: '2008-01-31'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOHNSON & JOHNSON, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 49/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1034](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1034).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.º 108/07
+Registo n.° 49/08
+Johnson & Johonson Lda notificou um tratamento de dados pessoais com a finalidade de marketing (Listerine)
+Declara as seguintes categorias de dados pessoais: Nome, morada, telefone, nome do médico e da clínica onde recebeu o kit, data da próxima consulta, dados relativos à utilização do Listerine, opinião sobre o produto.
+Os dados serão processados pela Dilan, Marketing & Publicidade, Lda
+Os dados são recolhidos directamente por impresso. São também recolhidos indirectamente os dados do médico que disponibilizou o produto.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da al. e) do artigo 6° da LPD, o interesse do responsável.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Johnson & Johonson Lda
+Categoria de dados pessoais tratados - Nome, morada, telefone, nome do médico e da clínica onde recebeu o kit, data da próxima consulta, dados relativos à utilização do Listerine, opinião sobre o produto Finalidade -marketing por SMS e MMS.
+Forma de exercício do direito de acesso e rectificação - Por solicitação por escrita ao responsável.
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de, no momento da recolha, se oporem à utilização dos seus dados para fins de marketing.
+Assim, deve o responsável alterar o texto informativo em conformidade com o supra exposto.
+Nas situações de recolha indirecta deve, também, ser garantido o direito de informação previsto no n.° 3 do artigo 10°.
+Lisboa, 31 de Janeiro de 2008
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

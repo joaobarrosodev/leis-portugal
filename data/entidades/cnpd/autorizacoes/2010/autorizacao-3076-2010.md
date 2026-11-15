@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOVARTIS PHARMA SERVICES AG, REPRESENTADA NA UE POR NOVARTIS PHARMA ARZNEIMITTEL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:16:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3076/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24072](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24072).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 3680/2010
+AUTORIZAÇÃO N. ° 3076/10
+Novartis Pharma Services AG, representada pela Novartis
+Farma - Produtos Farmacêuticos, S.A., veio notificar a esta
+CNPD um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes com formas recidivantes de esclerose múltipla. (Protocolo
+CFTY720D2316) .
+Trata-se de um «estudo multicêntrico, aberto, com a duração de 4 meses, para explorar a tolerabilidade, segurança e resultados de saúde do FTY720 em doentes com formas recidivantes de EM numa população de doentes mais abrangente do que aquela previamente estudada em ensaios clínicos com FTY720, o que inclui a avaliação dos efeitos do medicamento e tratamento em seres humanos; o estudo das suas propriedades, eficácia e segurança e o registo e notificação às autoridades competentes de efeitos e reacções adversas ao medicamento verificados no decurso do ensaio, no âmbito da farmacovigilância».
+As categorias de dados são as seguintes: Iniciais do nome, número de participante no estudo, nacionalidade, data de nascimento, peso, altura, raça, sexo, história clínica e dados recolhidos ao longo do estudo, medicação, resultados de meios complementares de diagnóstico e terapêutica, dados relativos a hábitos da vida privada e actividade profissional/influência no seu estado de saúde, história clínica familiar e nome do investigador.
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O Promotor veio justificar a recolha do dado raça para este ensaio, nos seguintes termos:
+1 - «Em caso de achados clínicos será possível cruzar a informação com o dado raça e determinar se existirá alguma relação científica/biológica».
+2 - «Demonstrar a diversidade da população de doentes no estudo, de modo a melhor representar a população em geral».
+3 - «Sendo este um estudo internacional que decorre em vários países entre os quais os Estados Unidos, é um requisito das autoridades de saúde americanas a obtenção deste dado».
+• fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N. 333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por
+
+3
+COMISSÃO NACIONAL refIBIIEGGDEDOS fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Novartis Pharma Services AG, representada pela Novartis Farma - Produtos Farmacêuticos,
+S.A.
+Finalidade: gestão de ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes com formas recidivantes de esclerose múltipla.(Protocolo
+CFTY720D2316).
+Categoria de Dados Pessoais tratados: Iniciais do nome, número de participante no estudo, nacionalidade, data de nascimento, peso, altura, raça, sexo, história clínica e dados recolhidos ao longo do estudo, medicação, resultados de meios complementares de diagnóstico e terapêutica, dados relativos a hábitos da vida privada e actividade profissional/influência no seu estado de saúde, história clínica familiar e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do DL 176/2006, 30 de Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 2 Julho de 2010
+Vasco Almeida (Relator), Luís Paiva de Andrade, Luís
+Barroso, Carlos Campos Lobo, Ana Roque, Helena Delgado
+António.
+Pel
+Luís Lingnau da Silveira (Presidente)

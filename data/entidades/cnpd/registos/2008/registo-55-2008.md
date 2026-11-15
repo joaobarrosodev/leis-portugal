@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UNIVERSIDADE DE COIMBRA - SERVIÇOS CENTRAIS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 55/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1028](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1028).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n. ° 310/07
+Registo n.° JJ 108
+A Universidade de Coimbra notificou um tratamento de dados pessoais com a finalidade de comunicação interna.
+Declara as seguintes categorias de dados pessoais: Nome, telefone, telemóvel, e-mail, faculdade ou serviço que integra.
+Os dados são recolhidos directamente, por impresso ou pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo da alíne e) do artigo 6° da LPD, o interesse do responsável.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.° 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Universidade de Coimbra
+Categoria de dados pessoais tratados - Nome, telefone, telemóvel, e-mail, faculdade ou serviço que integra.
+Finalidade - comunicação interna.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável.
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação dos dados - 1 ano após o fim da relação contratual.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, bem como o direito de oposição (Cf. Art° 12°) .
+Lisboa, 4 de Fevereiro de 08
+A Secretária da CNPD asce
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

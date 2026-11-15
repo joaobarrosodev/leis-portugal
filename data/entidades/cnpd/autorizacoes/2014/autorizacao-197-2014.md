@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 197/2014
-official_date: null
+official_date: '2014-01-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Sociedade Portuguesa de Cardiologia'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,72 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T22:42:05Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 197/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60411](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/60411).
+Proc. N.: 10113/2013 1 f
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃON° 197 12014 1. Do Pedido
+A Sociedade Portuguesa de Cardiologia notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional sobre a prevenção de doenças cardiovasculares e diabetes (Estudo Euroaspire IV).
+A amostra do estudo será constituída por todos os doentes diagnosticados com uma das patologias em análise nos centros de saúde participantes.
+A participação no estudo consiste na compilação de dados de saúde do processo clínico pelo médico assistente ou por uma enfermeira da equipa de investigação.
+O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração conservará em local de acesso reservado.
+Os dados serão recolhidos num caderno de recolha de dados em formato eletrónico e em papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de participante. A chave desta codificação só será conhecida do médico assistente e do coordenador nacional do estudo.
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e será garantida confidencialidade no tratamento.
+A responsável pelo tratamento requer ainda o envio de dados para a Sociedade
+Europeia de Cardiologia, para fins estatísticos.
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.N.: 10443/2013| 2 k
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS cumprimento da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+A informação tratada é recolhida de forma lícita (cfr. alínea a) do n.º 1 do artigo 5.° da
+LPD), para finalidades determinadas, explícitas e legítimas (cfr. alínea b) do mesmo artigo) e não é excessiva.
+No que respeita ao dado raça, a responsável pelo tratamento justifica a sua necessidade do seguinte modo: "[n)este estudo europeu, a recolha da variável "raça" tem como principal objetivo identificar a existência de potenciais variações tanto na fisiopatologia da doença como na sua progressão e também na resposta aos tratamentos, que possam estar relacionados com a etnia/raça dos pacientes, uma vez que este tipo de relações já foi demonstrada no passado. Por exemplo, podem ocorrer diferenças na forma como os medicamentos são metabolizados, e isto tem um enorme impacto no tratamento de qualquer doença".
+Atendendo à fundamentação apresentada pela responsável pelo tratamento, entende esta Comissão que se encontra justificado o tratamento do dado raça.
+Relativamente à comunicação de dados para a Sociedade Europeia de Cardiologia, para fins estatísticos, não deverão ser transmitidos dados identificados. Pela própria natureza da finalidade da transmissão, deverão apenas ser comunicados dados agregados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 10443/2013 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º 1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.° e artigo 30.° da LPD, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Termos do tratamento:
+Responsável pelo tratamento: Sociedade Portuguesa de Cardiologia
+Finalidade: Estudo observacional sobre a prevenção de doenças cardiovasculares e diabetes (Estudo Euroaspire IV).
+Categoria de Dados pessoais tratados: código de participante, país, dados sociodemográficos (idade, género, raça, escolaridade, situação profissional), dados antropométricos (peso, altura, pressão arterial, frequência cardíaca, perímetro abdominal), hábitos tabágicos, prática de exercício físico, resultados de análises laboratoriais, história clínica de diabetes ou de doenças cardiovasculares.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do investigador principal.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados deve ser destruída um mês após o fim do estudo.
+Dos termos e condições fixados na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 7 de janeiro de 2014
+Ana Roque (Relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado António,
+Vasco Almeida, Luís Paiva de Andrade
+-ce
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

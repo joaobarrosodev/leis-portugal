@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: OCIDENTAL -COMP. PORT. DE SEG. DE VIDA, SA (INCORPORAÇÃO DA BPA SEG. VIDA, S.A.)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,17 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:25:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 1/1996
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1445](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1445).
+20 21 22 23 24 25 26 27 29 30
+COMISSÃO NACIONAL DE PROTECÇÃO DE DADOS PESSOAIS INFORMATIZADOS eouc:91.03.20
+Roudu se ao reguito condi novento ven dienigo, no pago máaiin de 100 dis ada trigo dos vippressor de ne colha an dor pun ninento do duro untiinment chenta deverno or unest um sei vi mieino de 180 dias colha de eito 01 seu penito mor art 13 i na li paro no do du poden
+, eu qus
+- 10 abitatral bor nepali de voutra ver
+Rua de São Bento, n.° 148, 3.° 1200 LISBOA
+Telefones: (01) 3966228 - 3966190
+Fax: (01) 3976832

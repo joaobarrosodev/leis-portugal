@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CRIT - CENTRO DE REABILITAÇÃO E INTERGRAÇÃO TORREJANO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T05:32:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 10410/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37340](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/37340).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 8066/10 10410
+AUTORIZAÇÃO N.º /2011
+O CRIT - CENTRO DE REABILITAÇÃO E INTEGRAÇÃO TORREJANO,
+IPSS, com sede na Avenida do Bom Amor, em Torres Novas, veio notificar o tratamento relativo à gestão de processo de utentes dos seus serviços, incluindo processo clínico, organizado segundo duas vertentes distintas:
+recolha de dados identificativos do utente facultados voluntariamente pelo próprio para efeitos de registo de contacto; e recolha e tratamento de dados clínicos do utente.
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto e dados clínicos, referentes ao histórico da saúde.
+2. De acordo com a informação constante do quadro 11 afigura-se que foram adoptadas cautelas em matéria de medidas de segurança. O acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password». Existe ainda um acesso restrito de pessoas. Os dados de saúde deverão estar separados logicamente dos dados de identificação, nos termos do artigo 15°, n° 3, da Lei n° 67/98.
+3. Admite-se que os dados médicos sejam de acesso a funcionários administrativos ou de enfermagem desde que esse processamento seja realizado sob ordem e supervisão do médico encarregado de prestar os cuidados de saúde ao doente, titular dos dados.
+Considera-se legítimo o tratamento nos termos do artigo 7.°, n.º 4, da Lei 67/98, de 26 de Outubro.
+Em face do exposto, autoriza-se o tratamento de dados por parte do
+Requerente (cf. artigo 27.° e 28.° da Lei 67/98) consignando-se, nos termos do artigo 30.°, o seguinte:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt.
+www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 1. Responsável: CRIT - CENTRO DE REABILITAÇÃO E INTEGRAÇÃO
+TORREJANO, IPSS 2. Categorias de dados pessoais tratados: identificação do utente, dados clínicos.
+3. Finalidade: gestão de processo de utentes.
+4. Forma de exercício do direito de acesso e rectificação: Por solicitação verbal ou escrita do utente ou do seu representante legal junto do responsável.
+5. Eventuais interconexões: Não há.
+6. Transferências de dados para países terceiros: Não há.
+7. Comunicação de dados: De acordo com as exigências legais.
+8. Conservação: Os dados podem ser conservados por 5 anos após a saída do utente. Os dados de saúde devem ser conservados nos termos da Portaria n° 247/2000, de 8 de Maio.
+Lisboa, |9 cl .
+'de 2011.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

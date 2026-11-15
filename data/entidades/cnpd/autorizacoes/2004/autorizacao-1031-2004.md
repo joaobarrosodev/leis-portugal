@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LIDL & CIA (S. BRÁS DE ALPORTEL)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:39:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1031/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8247](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8247).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 545/04
+AUTORIZAÇÃO N.º 1031 /2004
+O Lidl & Companhia vem notificar a CNPD da recolha de imagens com vista à segurança das instalações e protecção de pessoas e bens de grande parte das suas lojas (conforme lista anexa).
+As imagens são recolhidas por várias câmaras, sendo feita a gravação pelo período de 15 dias e sem que haja qualquer tratamento posterior. As imagens só poderão ser utilizadas nos termos previstos na lei.
+A recolha e tratamento de dados faz-se nos termos da lei (DL 231/98, de 22 de Julho), sendo necessário assegurar o direito de informação, nos termos estabelecidos no artigo 12.º n.º 3 do referido diploma, através da inclusão de um texto - em local bem visível - com os seguintes dizeres: «Para sua protecção este local encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagens e som».
+O Lidl & Companhia deverá proceder à afixação desses avisos.
+A CNPD autoriza o tratamento (cf. art. 4.° n.° 4, 27.° n.º 1, 28.° n.º 1 al a) e 29.° da Lei 67/98, de 26 de Outubro), consignando-se o seguinte:
+1. Responsável: Lidl & Companhia 2. Categorias de dados pessoais tratados: Gravação de imagem nos locais indicados no ponto 3 do formulário.
+3. Finalidade: Segurança das instalações e protecção de pessoas e bens.
+4. Entidades a quem podem ser transmitidos: Não há transmissão de dados. Os dados só podem ser utilizados nos termos da lei penal.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 5. Forma de exercício do direito de acesso e rectificação: Por solicitação pessoal.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Prazo de conservação: 15 dias
+O Lidl & Companhia fica obrigado a comunicar, a todos os estabelecimentos onde existe o sistema de videovigilância, as condições fixadas na presente autorização, devendo aqueles obedecer às condições aqui estabelecidas.
+Lisboa, 12 de OU ubo, de 2004
+Hexandretornatit
+Alexandre Pinheiro (Relator)
+Areden
+Amadeu Guerra
+Luís Barroso
+сним
+Eduardo Campos
+Ana Luísa Geraldes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt
+- 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt

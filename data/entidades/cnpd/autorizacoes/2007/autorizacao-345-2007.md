@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MONTE DE PIEDAD Y CAJA GENERAL DE AHORROS DE BADAJOZ'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:36:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 345/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3250](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3250).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 299/07 34>
+Autorização n° /2007 1. A entidade Monte de Piedad Y Caja General de Ahorros veio notificar o tratamento que tem como finalidade a gestão de clientes, procedendo à "identificação de clientes e contas, acompanhamento e gestão de todas as aplicações financeiras da actividade bancária, avaliação do risco de operações e contratos. Os dados tratados vêm especificados no anexo ao ponto n.º 5 do formulário de notificação, sendo de salientar as seguintes categorias de dados:
+de identificação pessoal, estado civil, situação profissional e tipo de vínculo laboral e dados sobre a situação patrimonial e financeira: rendimentos mensais (vencimentos e outros rendimentos regulares), e dados bancários.
+2. Os dados recolhidos, pelo grau de detalhe e pelas finalidades a que se destinam, integram-se no conceito de informação tendente ao apuramento do "crédito e solvabilidade" dos titulares. Por isso, a necessidade de autorização da CNPD (cf. art. 28.° n.º 1 al. b) da Lei 67/98, de 26 de Outubro).
+Em face das finalidades indicadas pela requerente, os dados são pertinentes, adequados e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98).
+A Monte de Piedad Y Caja General de Ahorros tem legitimidade para o tratamento destes dados na medida em que o mesmo decorre de "diligências prévias à formação do contrato" ou de "contrato celebrado com vista à atribuição e gestão de crédito" (cf. art. 6.° al. a) da Lei 67/98).
+No entanto, deve salientar-se que a recolha de dados do cônjuge deve ser objecto do seu consentimento quando o mesmo não figure como parte no contrato a celebrar.
+3. A Monte de Piedad Y Caja General de Ahorros propõe-se comunicar alguns dados ao Banco de Portugal, bem como aos tribunais e às empresas do grupo. Estas comunicações resultam de cláusula contratual e de consentimento do titular.
+Rua de São Bento. 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Verifica-se, de igual modo, que a requerente pretende fazer interconexões de dados com o ficheiro relativo a "controlo de uso legítimo de documentos de identificação", com o "exclusivo propósito de verificar se algum cliente foi objecto de roubo da sua documentação*.
+Existem fluxos transfronteiras de dados para Espanha, para a sede da entidade requerente.
+O tempo de conservação é de 10 anos sobre a cessação da relação contratual, ou enquanto subsistirem obrigações decorrentes da relação contratual.
+Em face do exposto a CNPD autoriza o tratamento, nos termos declarados e com as especialidades constantes da presente autorização, consignando-se, nos termos dos artigos 27.°, 28.° n.º 1 al. b) e 30.º da Lei 67/98, de 26 de
+Outubro, o seguinte:
+1. Responsável: Monte de Piedad Y Caja General de Ahorros 2. Categorias de dados pessoais tratados: Os indicados nos formulários anexos.
+3. Finalidade: gestão de clientes.
+4. Entidades a quem podem ser transmitidos: Banco de Portugal, Tribunais, empresas do Grupo da Caixa de Badajoz que sejam instituições de crédito.
+5. Forma de exercício do direito de acesso e rectificação: Pessoalmente ou por escrito.
+6. Eventuais interconexões: ficheiro relativo a "controlo de uso legítimo de documentos de identificação" 7. Transferências de dados: Espanha.
+Lisboa, 5 de l MacÇ de 2007.
+Ana Roque (relatora)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Luís Barroso
+Eduardo Campos
+Carlos paropos Lobo
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA -- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

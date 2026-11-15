@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 582/2004
-official_date: null
+official_date: '2004-05-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ALCATEL PORTUGAL,S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:47:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 582/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8980](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8980).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 2214/03
+AUTORIZAÇÃO N.° 582 /2004
+A ALCATEL PORTUGAL, SA vem notificar um tratamento que visa a gestão de um concurso Audiovisual denominado «Alarga a tua Vida», o qual é lançado na Internet.
+Informa a Alactel que, por razões de carácter estritamente logísticas os dados encontram-se alojados num servidor localizado nos Estados Unidos da América.
+Os dados recolhidos são pertinentes, necessários e não excessivos em relação à finalidade (cf. artigo 5.° n.º 1 al. c) da Lei 67/98), sendo os titulares informados sobre a existência e condições de tratamento.
+Os titulares consentem o tratamento de dados (cf. artigo 6.° da Lei 67/98), bem como o fluxo para os EUA (cf. artigo 20.° n.º 1 da Lei 67/98).
+Estão reunidos os requisitos legais para considerar notificado o tratamento e admitir o fluxo de dados transfronteiras. Por isso, a CNPD admite o fluxo de dados para os EUA com fundamento no consentimento.
+Lisboa, 25 de Maio de 2004
+Areen mus
+Amadeu Guerra (relator)
+Alexandafoss detins
+Alexandre Pinheiro
+Luís Barroso
+эми
+Eduardo Campos
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Ana Luísa Geraldes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

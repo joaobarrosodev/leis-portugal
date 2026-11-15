@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2507/2009
-official_date: null
+official_date: '2009-06-22'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MARIA DE FÁTIMA CARVALHO SERRANO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:56:50Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2507/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17011](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/17011).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 4133/09
+AUTORIZAÇÃO N.2507/2009
+Maria de Fátima Carvalho Serrano, médica ginecologista, notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo epidemiologico de avaliação da perda recorrente da gravidez.
+Participarão no estudo cerca de 200 mulheres que reúnam os critérios de inclusão, frequentadoras da consulta de obstetrícia da Maternidade Dr. Alfredo da Costa.
+No "caderno de recolha de dados" não há identificação nominal da titular, sendo a titular identificado por um código.
+As categorias de dados contidos no formulário são as seguintes: Código da titular, dados demográficos (raça e idade), história obstétrica anterior, antecedentes trombombólicos e resultados da pesquisa das mutações.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo).
+No que respeita ao tratamento do dado raça, a responsável apresenta a seguinte justificação:
+A referência ao dado raça é indispensável ao estudo.
+As mutações para o factor V de Leiden e Protrombina 20210GA são as trombofilias hereditárias frequentes, geralmente subdiagnosticadas devido ao facto da maior parte dos portadores ser assintomática.
+A mutação para o factor V de Leiden é relativamente comum entre a população caucasiana europeia e norte americana saudáveis, variando entre 2 a 13,3 % nas diferentes regiões geográficas.
+Esta mutação é por outro lado muito rara nos grupos étnicos de origem africana e asiática
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Em Portugal, existem dados referentes á prevalência deste polimorfismo. Dada a variação étnica desta mutação é fundamental a inclusão deste dado para uma correcta caracterização da prevalência do Factor V de
+Leiden."
+Juntou referências bibliográficas.
+O fundamento de legitimidade será o consentimento da titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Maria de Fátima Carvalho Serrano.
+Finalidade: estudo epidemiológico de avaliação da perda recorrente da gravidez.
+Categoria de Dados pessoais tratados: Código da titular, dados demográficos (raça e idade), história obstétrica anterior, antecedentes tromboembólicos e resultados da pesquisa das mutações.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto da investigadora.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: O código da titular deve ser destruído um mês após a apresentação pública dos resultados.
+Dos termos e condições fixados na Deliberação n.º 2271 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa,22 de Junho de 2009
+Ana Roque, Luís Paiva de Andrade (Relator), Helena Delgado António, , Vasco
+Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2

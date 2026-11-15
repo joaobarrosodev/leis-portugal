@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JARDIM DAS BRINCADEIRAS - CRECHE E JARDIM DE INFÂNCIA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:18:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 886/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7017](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7017).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 11469/365/04 886
+Autorização n.° /2005
+Jardim das Brincadeiras - Creche e Jardim de Infância, Lda, vem notificar a
+Comissão Nacional de Protecção de Dados (CNPD) de um tratamento de dados pessoais coma finalidade de manter em arquivo a informação necessária para constituir o processo individual de cada criança.
+Os dados recolhidos são:
+- Relativamente aos pais - nome, morada, profissão, idade;
+- Relativamente às crianças - nome, idade, data de nascimento, sexo, identificação do médico assistente, estado vacinal, grupo sanguíneo, alergias.
+Como fonte de legitimidade indica-se o consentimento prévio necessário.
+Os dados são recolhidos e podem ser actualizados directamente.
+Não existe comunicação de dados. Não há interconexões. Não se verificam fluxos transfronteiras.
+O titular pode exercer os seus direitos de acesso ou de rectificação directamente junto da gerência.
+Os dados são conservados até cinco anos após a frequência do estabelecimento.
+De acordo com a Lei de Protecção de Dados, esta Comissão entende que os dados tratados são adequados, pertinentes e não excessivos para a finalidade declarada (artigo 5., n.° 1, alínea c)).
+Assim, a CNPD considera notificado o tratamento, determinando para efeitos dos artigos 27° e 30.°, da Lei n.º 67/98, de 26 de Outubro o seguinte
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável: Jardim das Brincadeiras - Creche e Jardim de Infância, Lda
+Categorias de dados pessoais tratados: Nome, morada, profissão e idade dos pais.
+Nome, idade, data de nascimento, sexo, identificação do médico assistente, estado vacinal, grupo sanguínea e alergias das crianças
+Finalidade: Manter em arquivo a informação necessária para constituir o processo individual de cada criança.
+Entidades a quem podem ser transmitidos: Não se verifica.
+Forma de exercício do direito de acesso e rectificação: Directamente junto da gerência.
+Eventuais interconexões: Não se verificam.
+Transferências de dados para países terceiros: Não se verificam
+Lisboa, 2yde : Outubrode 2005
+Aléxandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campo le
+Ana Luísa Geraldes
+Amadeu Guerra
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Gens Titia
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

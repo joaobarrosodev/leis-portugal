@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FEDERAÇÃO NACIONAL DAS CAIXAS DE CRÉDITO AGRÍCOLA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:41:08Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 72/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3437](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3437).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 02/07
+AUTORIZAÇÃO Nº721 2007
+A Federação Nacional das Caixas de Crédito Agrícola veio requerer autorização para tratamento de dados pessoais referentes ao registo dos clientes do Crédito Agrícola, mediante a criação de uma base de dados contendo os dados seguintes de cada titular: nome, morada, número de contribuinte, número de bilhete de identidade e registo das contas bancárias e respectivos movimentos.
+A finalidade é o cumprimento de obrigações contratuais com os clientes, nomeadamente a criação de extractos de movimentos de conta a enviar ao respectivo titular, pelo correio, em suporte papel.
+Do requerimento apresentado, resulta que é solicitada autorização, ao abrigo do artigo 27° e da al. b) do n° 1 do artigo 28° da Lei n° 67 / 98 de 26 de
+Outubro), para proceder ao tratamento de dados pessoais relativos ao crédito e à solvabilidade dos titulares.
+Da pretensão da requerente acima exposta e da análise dos elementos que mais e maiores cuidados reclamam, importa abordar, do ponto de vista jurídico e à luz da LPD, as questões seguintes:
+1) Os dados tratados, atenta a finalidade do tratamento, são adequados, pertinentes e não excessivos.
+2) A requerente encontra o fundamento de legitimidade para proceder ao tratamento dos dados pessoais dos titulares no consentimento prestado por estes.
+Impende sobre a entidade responsável pelo tratamento aqui requerido a obrigação de proceder e de manter os dados exactos e actualizados, sempre com observância do princípio da boa fé.
+3) O prazo de conservação de 5 anos após final do contrato parece adequado à necessidade de obtenção do resultado pretendido pela finalidade do tratamento, o que respeita a al. e) do n° 1 do artigo 5° da Lei n° 67/98.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Face ao requerimento apresentado, a CNPD autoriza o tratamento de dados pela requerente nos termos seguintes:
+Responsável: Federação Nacional das Caixas de Crédito Agrícola
+Mútuo.
+Finalidade do tratamento: A finalidade é o cumprimento de obrigações contratuais comos clientes.
+Categorias dos dados pessoais tratados: nome, morada, número de contribuinte, número de bilhete de identidade e informações bancárias (contas e respectivos movimentos).
+Interconexão de dados: não são autorizadas interconexões de dados pessoais.
+Tempo de conservação dos dados: 5 anos após a extinção de contrato.
+Forma de exercício do direito de acesso e rectificação: Através de contacto pessoal ou por carta com o balcão onde o titular é cliente.
+Transferência de dados para países terceiros: não há.
+Adverte a CNPD a entidade responsável que:
+- Cabe à entidade responsável pelo presente tratamento cumprir efectivamente o dever de manter os dados tratados exactos e actualizados.
+Lisboa, de Janeiro de 2007.
+Ana Roque (relatora)
+Eduardo Campos
+Rua de São Bento, 148 -
+E-mail: geral@cnpd.pt 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Carlos Campos Lobo
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

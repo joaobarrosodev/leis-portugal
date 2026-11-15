@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ADMINISTRAÇÃO CENTRAL DO SISTEMA DE SAÚDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:59:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2309/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/254](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/254).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 4008/07
+AUTORIZAÇÃO N. 12007
+A Administração Central do Sistema de Saúde (ACSS) veio notificar o tratamento relativo à utilização do sistema informático que suporta a atribuição dos Benefícios Adicionais de Saúde (BAS), com base no disposto no Decreto-
+Lei n° 252/2007, de 5 de Julho, complementado pela Portaria n° 833/2007, de 3 de Agosto, bem como dos benefícios do Complemento Solidário de Idosos (CSI), instituído pelo Decreto-Lei n° 232/2005, de 29 de Dezembro. Os dados contidos em cada registo são os constantes nos Anexo 5 e 6, obtidos a partir do Registo Nacional de Utentes (RNU), com excepção do NIF, o qual é fornecido pelo utente no momento do pedido de emissão da declaração para efeitos de IRS.
+2. De acordo com a informação constante do quadro 11, afigura-se que foram adoptadas cautelas em matéria de medidas de segurança. O acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password». Existe ainda um acesso restrito de pessoas. Cada Centro de
+Saúde apenas tem acesso aos dados dos utentes que lhe correspondem. As
+ARS têm acesso aos dados estatísticos dos centros de Saúde na sua região. A
+ACSS tem acesso aos dados estatísticos nacionais.
+3. Considera-se legítimo o tratamento nos termos do artigo 7.°, n.° 2, da Lei 67/98, de 26 de Outubro, uma vez se trata de dar cumprimento a disposições legais.
+Em face do exposto, autoriza-se o tratamento de dados por parte do
+Requerente (cf. artigo 27° e 28.° da Lei 67/98) consignando-se, nos termos do artigo 30.°, o seguinte:
+1. Responsável: Administração Central do Sistema de Saúde (ACSS)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 2. Categorias de dados pessoais tratados: os constantes do nos anexos 5 e 6, nomeadamente, a identificação do utente, morada, contactos, os benefícios atribuídos.
+3. Finalidade: atribuição dos Benefícios Adicionais de Saúde (BAS)
+5. Forma de exercício do direito de acesso e rectificação: Junto do respectivo Centro de Saúde6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação: Os dados de identificação são conservados por 5 anos, nos termos da lei.
+Lisboa, 2 Novembro de 2007.
+Ana Roque (relatora)
+Carlos Campos Lobo
+Luís Barroso
+Helena Delgado António
+Eduardo Campos reestreita
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt

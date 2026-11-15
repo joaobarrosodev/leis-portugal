@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CARLOS CARVALHEIRA, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:14:13Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 16/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11060](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11060).
+Prer: 339196
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+AUTORIZAÇÃO N.º%/97
+Carlos Carvalheira, Ld.* solicita autorização para a manutenção do seu tratamento informático destinado ao "registo clínico - resultado de consultas e exames (técnicas endoscópicas) de gastrenterologia".
+Estamos perante um tratamento informático de dados pessoais relativos ao estado de saúde das pessoas em causa, levado a cabo por entidade privada.
+Como tal, o mesmo tem de obedecer, no caso presente, ao disposto no
+Art.º 17° n.º 2 da Lei 10/91, de 29/04, na redacção dada pela Lei 28/94, de 29/08, ou seja :
+• Deverão ser asseguradas garantias de não discriminação ;
+• Autorização desta CNPDPI ;
+• Consentimento dos respectivos titulares e conhecimento do seu destino e utilização.
+1- Uma vez que a inserção dos dados é levada a cabo na presença do respectivo titular, deverá o responsável pelo tratamento informá-lo do mesmo, bem como da sua finalidade, obtendo o seu consentimento expresso ;
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS 2- Entende-se também que é justificado que o período de conservação dos dados registados seja vitalício, sem prejuízo da necessidade da sua conservação, desde que em causa venha a ser posto o tratamento prestado; /-3- Finalmente, chama-se a atenção do responsável que, nos termos do disposto no Art.º 28.° n.º 3 da citada Lei 10/91, a informação médica deverá ser prestada através de médico designado pelo respectivo titular.
+***
+Face ao deixado exposto, DELIBERA esta CNPDPI autorizar o tratamento em causa, nos seguintes termos :
+Responsável - Carlos Alberto Gil Carvalheira, médico gastrenterologista,
+Edifício "O Seu Café", 3, D, 8000 Faro
+Tel. 805353 ;
+Finalidade - Rgisto clínico - resultado de consultas e exames (técnicas endoscópicas) de gastrenterologia ;
+Caract. - Computador pessoal isolado - Microsoft Acess ;
+Serv.proc. - O próprio responsável ;
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS (Joaquim Seabra Lopes)
+- an (Luis J. Durão Barroso)
+O Presidente (A. Victor Coelho)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

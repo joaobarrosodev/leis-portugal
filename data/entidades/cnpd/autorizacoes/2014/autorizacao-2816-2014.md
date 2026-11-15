@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2816/2014
-official_date: null
+official_date: '2014-03-11'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Liga dos Amigos do Hospital de Santa Marta'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T21:55:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2816/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63076](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63076).
+Proc.133/14|1 / p
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃON.º 2816/2014
+Liga dos Amigos do Hospital de Santa Marta notificou a CNPD de um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico relativo à análise de duas estratégias cirúrgicas comuns em participantes com doença coronária estável candidatos à cirurgia coronária de bypass. (Protocolo NCT01810224).
+As categorias de dados pessoais tratados: n.º do participante no estudo, três iniciais do nome, género, data de nascimento, presença ou não de fatores de risco cardiovasculares: Hipertensão arterial, diabetes, hipercolesterolemia, enfarte do miocárdio prévio, tabagismo, e índice de massa corporal, dados relativos ao resultado da coronariografia invasiva efetuada, dados relativos ao procedimento cirúrgico efetuado e respetivo internamento, dados relativos aos resultados clínicos e cirúrgicos ao fim de 12 meses (incluído estado vital) e nome do investigador.
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+A CNPD já se pronunciou na sua Deliberação n.º 333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Proteção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.º1, alínea a), da Lei n.° 67/98, de 26 de outubro - LPD) para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular (cf.
+artigo 7.°, n.° 2, da LPD).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc.133/14 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a), e 30.º da LPD, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Liga dos Amigos do Hospital de Santa Marta.
+Finalidade: gestão do ensaio clínico relativo à análise de duas estratégias cirúrgicas comuns em participantes com doença coronária estável candidatos à cirurgia coronária de bypass. (Protocolo NCT01810224).
+As categorias de dados pessoais tratados: n.° do participante no estudo, três iniciais do nome, género, data de nascimento, presença ou não de fatores de risco cardiovasculares: Hipertensão arterial, diabetes, hipercolesterolemia, enfarte do miocárdio prévio, tabagismo, e índice de massa corporal, dados relativos ao resultado da coronariografia invasiva efetuada, dados relativos ao procedimento cirúrgico efetuado e respetivo internamento, dados relativos aos resultados clínicos e cirúrgicos ao fim de 12 meses (incluído estado vital) e nome do investigador.
+Interconexões de tratamentos: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico investigador.
+Fluxos transfronteiras: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do Decreto-Lei n.º 176/2006, 30 de agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento, ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo, ser eliminado.
+Dos termos e condições fixados na Deliberação n.° 333/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 11 de março de 2014
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 133/14 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Carlos Campos Lobo (Relator), Luís Barroso, Ana Roque, Luís Paiva de Andrade,
+Maria Cândida Guedes de Oliveira.
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

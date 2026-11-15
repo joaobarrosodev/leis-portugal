@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BAZIN PORTUGAL - MEDIAÇÃO IMOBILIÁRIA E GESTÃO DE IMÓVEIS,LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 823/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6557](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6557).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.º 1306/03 823
+Autorização n° /2005
+A Barin Portugal Mediação Imobiliária e Gestão de Imóveis, Lda, vem notificar à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento relativo à gestão de recursos humanos.
+Os dados registados são: nome, data de início do contrato; nome, data de início do contrato de trabalho, número de segurança social, NIB, sexo, estado civil, data de nascimento, remuneração e estatuto profissional.
+A recolha e actualização de dados fazem-se por via directa.
+Não há comunicação de dados. Não há interconexões.
+São utilizadas todas as formas de segurança previstas no formulário da CNPD.
+Verificam-se fluxos transfronteiras para a Irlanda, França e para os Estados-Unidos.
+Os Estados-Unidos não são uma Estado que ofereça garantias de protecção adequada.
+A transferência para os Estados-Unidos está dependente de consentimento prévio do titular dos dados nos termos do artigo 20.°, da Lei n.º 67/98, de 26 de Outubro, da existência de cláusulas contratuais que respeitem a Decisão da Comissão n.° 2002/16/CE ou da integração no safe harbour.
+Os dados recolhidos são considerados necessários, pertinentes e adequados, atenta a finalidade prosseguida (artigo 5.° da Lei n.° 67/98, de 26 de Outubro).
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.º da Lei n.º 67/98, de 26 de Outubro, autoriza-se o tratamento de dados apresentado, nos seguintes termos:
+Responsável: Barin Portugal Mediação Imobiliária e Gestão de Imóveis, Lda
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categorias de dados pessoais tratados: Nome, data de início do contrato de trabalho, número de segurança social, NIB, sexo, estado civil, data de nascimento, remuneração e estatuto profissional
+Finalidade: Gestão de recursos humanos.
+Entidades a quem podem ser transmitidos: não se verificam.
+Forma de exercício do direito de acesso e rectificação: directamente junto do departamento de recursos humanos.
+Eventuais interconexões : não se verificam.
+Transferências de dados para países terceiros: Irlanda, França e Estados-Unidos.
+No caso de transferências para os Estados-Unidos, é necessário que exista consentimento prévio do titular dos dados nos termos do artigo 20.°, da Lei n.º 67/98, de 26 de Outubro ou existência de cláusulas contratuais que respeitem a Decisão da
+Comissão n.º 2002/16/CE ou da integração no safe harbour.
+Nenhuma destas circunstâncias foi comunicada à CNPD.
+Lisboa, || de Outubro de 2005
+Alentes R
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo baley
+Ana Luísa Geraldes
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Reden
+Amadeu Guerra
+Pans Adve
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

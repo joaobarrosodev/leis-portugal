@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BOEHRINGER INGELHEIM, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:15:06Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3148/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24319](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24319).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 5912/2010
+AUTORIZAÇÃO N.° 3/48 12010
+A Boehringer Ingelheim, Lda. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional com vista a registar a informação de segurança sobre a utilização de inibidores da enzima de conversão da angiotensina e antagonistas dos receptores da angiotensina.
+Serão incluídos no estudo doentes com hipertensão medicados com inibidores da enzima de conversão da angiotensina ou antagonistas dos receptores da angiotensina, que frequentem a consulta externa dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal dos titulares, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Aos médicos assistentes, investigadores no estudo, serão solicitados dados de identificação, contacto e curriculum vitae com o intuito de serem convidados a participar em reuniões de investigadores, ou em futuros estudos ou ensaios clínicos.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA 1 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Assim, nos termos do n°2 do artigo 7° e da alínea a) e d) do n° 1 do artigo 28° da LPD, com as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Boehringer Ingelheim, Lda.
+Finalidade: estudo observacional com vista a registar a informação de segurança sobre a utilização de inibidores da enzima de conversão da angiotensina e antagonistas dos receptores da angiotensina.
+Categoria de Dados pessoais tratados:
+- dos participantes: código do doente, n° do centro, dados demográficos (mês e ano de nascimento e sexo), historial farmacológico, acontecimentos adversos em terapêutica com
+ARAS e IECAS, descritivo do acontecimento adverso;
+- dos investigadores: nome, n° de cédula profissional, domicílio profissional, contactos, especialidade médica, áreas de experiência, título académico, percurso como investigador, participação em estudos promovidos pelo responsável pelo tratamento, motivação na participação neste programa, influência na área científica, lista de publicações, áreas de interesse profissional ou científico.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, L0 de Setembro de 2010
+Ana Roque, Luís Paiva de Andrade (Relator), Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt

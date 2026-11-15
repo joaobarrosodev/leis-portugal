@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: M. M. Delegado, unipessoal, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 91/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/992](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/992).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 518/07
+Registo n.° 91 108
+M.M. Delgado, Unipessoal, Lda notificou um tratamento de dados pessoais com a finalidade gestão de condomínios.
+Declaram as seguintes categorias de dados pessoais: Nome, morada, telefone, NIF, BI, identificação do imóvel, seguro do imóvel, n.ºdo agregado familiar.
+Apesar da entidade não ter declarado, terá necessariamente que, face à finalidade, tratar dados relativos a débitos e créditos dos condóminos..
+Os dados são recolhidos directamente, por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da
+LPD, a execução do contrato.
+Assim, regista-se, nos termos dos artigos 27° n.° 1 e 30° n.° 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - M.M. Delgado, Unipessoal, Lda
+Categoria de dados pessoais tratados - Nome, morada, telefone, NIF, BI, identificação do imóvel, seguro do imóvel, n.ºdo agregado familiar, débitos e créditos.
+Finalidade - gestão de condomínios
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável por correio ou pessoalmente;
+Comunicação de dados - Não há
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da Lei n.º 67/98, de 26 de Outubro,
+Quanto ao prazo máximo de conservação dos dados, atento o disposto na alínea e) do art.º5°, fixa-se em 30 dias após o fim da relação contratual com o condomínio.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Finalmente, alerta-se o responsável que não poderão ser afixadas no condomínio as listagens dos condóminos devedores de quotas.
+Lisboa, 6 de Fevereiro de 08
+A Secretária da CNPD
+Salas
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

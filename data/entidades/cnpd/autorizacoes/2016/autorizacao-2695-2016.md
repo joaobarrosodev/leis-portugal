@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2695/2016
-official_date: null
+official_date: '2016-03-15'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Barclays Bank PLC - Sucursal em Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,90 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T14:46:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2695/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/88714](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/88714).
+Processo n° 707/2016 | 1 g
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N. 2690/2016 1 - Pedido
+Barclays Bank PLC, Sucursal em Portugal, notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais que tem como finalidade a comunicação de dados pessoais para o Bankinter, S.A., Sucursal em Portugal, na sequência da venda a este banco das seguintes linhas de negócio: banca de retalho, banca privada e banca de pequenas e médias empresas.
+Em anexo ao formulário a requerente declarou quei no âmbito dos contratos de compra e venda assinados, serão sujeitos a transmissão os dados pessoais de:
+Clientes;
+Potenciais Clientes;
+Trabalhadores; e
+Fornecedores".
+Solicitou autorização para a comunicação dos dados pessoais esclarecendo que:
+"(i) os sistemas informáticos do Barclays passarão a ser geridos pelo Bankinter pelo que não existirá qualquer migração ou transferência de dados;
+(ii) os dados a transmitir estão sujeitos a sigilo bancário nos termos do artigo 78.° do
+Decreto-Lei n.° 298/92, de 31 de Dezembro, na sua versão consolidada;
+(iii) Relativamente aos dados de Clientes, o consentimento para a cessão da posição contratual nos contratos em vigor celebrados já foi obtida".
+Do pedido de autorização verifica-se que:
+a) Os dados pessoais objeto de tratamento são: "Dados de identificação (nome, documento de identificação, data nascimento, sexo, estado civil, número de dependentes, morada, contactos), Dados Fiscais (NIF), Dados Profissionais (profissão, vínculo laboral, antiguidade, função, dados entidade patronal), Dados
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 707/2016 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Financeiros (salário, despesas), Dados Bancários (NIB, limite de crédito, detalhe das transacções, origem e proveniência de fundos), Crédito e Solvabilidade (crédito em mora, dados de pagamentos em falta, montantes vencidos, crédito em contencioso, ocorrências sobre cheques, inibições, comunicações Banco de Portugal)".
+b) A recolha dos dados é feita por via direta, presencialmente, por impresso;
+c) Há comunicação de dados ao Bankinter, S.A., Sucursal em Portugal, por força da compra e venda da venda das linhas de negócio relativas à banca de retalho, à banca privada e à banca de pequenas e médias empresas;
+d) Não se verificam interconexões de tratamentos nem fluxos internacionais de dados para países terceiros;
+e) Não é indicado prazo para a conservação dos dados;
+f) O exercício do direito de acesso é feito presencialmente junto da entidade responsável;
+g) São indicadas medidas de segurança física e lógica.
+2 - Apreciação
+Por força do contrato de compra e venda supramencionado, o Bankinter, S.A., Sucursal em
+Portugal, assumirá a posição de responsável pelo tratamento de dados pessoais, ficando obrigado a cumprir as disposições da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de
+Dados Pessoais - LPDP), com a redação dada pela Lei n.º 103/2015, de 24 de agosto, designadamente a obrigação de notificação e de obtenção de autorização prévia previstas, respetivamente, nos artigos 27° e 28° daquele diploma legal.
+Deste modo, no que respeita à comunicação da informação as condições de legitimidade do tratamento são diversas consoante os tipos de titulares de dados:
+a) Para os clientes, potenciais clientes e fornecedores a condição de legitimidade é o consentimento expresso, específico e informado (cf. n.º 2 do artigo 7.° da LPDP);
+b) Para os trabalhadores é a lei (cf. artigo 285° do Código do Trabalho).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 707/2016 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita [cf. alínea a) do n.º 1 do artigo 5° da LPDP], para finalidades determinadas, explícitas e legítimas [¡dem, alínea b)] e os dados a tratar consideram-se adequados, pertinentes e não excessivos [cf. alínea c)].
+No momento da recolha dos dados existentes deve ser assegurado o direito de informação nos termos previstos no artigo 10.° da LPDP. Deve ainda ser assegurado o direito de acesso nos termos do artigo 11.° da LPDP. Aos titulares dos dados ou aos seus representantes deverá ser assegurado o direito de conhecer, corrigir e eliminar os dados que lhes respeitem.
+Independentemente das medidas de seguranças adotadas, o Barclays Bank PLC, Sucursal em Portugal, fica obrigado a garantir a efetiva segurança da informação.
+3.
+Conclusão
+Assim, nos termos das disposições conjugadas do artigo 7.° n.º 2, 27.° n.º1, 28.°, n.º 1, alínea a) e 30.°, todos da LPDP, autoriza-se o tratamento de dados supramencionado, consignando-se o seguinte:
+Responsável: Barclays Bank PLC, Sucursal em Portugal;
+Categoria de dados tratados: Dados de identificação (nome, documento de identificação, data nascimento, sexo, estado civil, número de dependentes, morada, contactos), dados fiscais (NIF), dados profissionais (profissão, vínculo laboral, antiguidade, função, dados entidade patronal), dados financeiros (salário, despesas), dados bancários (NIB, limite de crédito, detalhe das transações, origem e proveniência de fundos), crédito e solvabilidade (crédito em mora, dados de pagamentos em falta, montantes vencidos, crédito em contencioso, ocorrências sobre cheques, inibições, comunicações Banco de Portugal);
+Finalidade: comunicação de dados decorrente de contrato de compra e venda
+Comunicação de dados a terceiros: Bankinter, S.A., Sucursal em Portugal;
+Interconexões: não há;
+Fluxos internacionais de dados para países terceiros: não há;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 707/2016 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Forma do exercício do direito de acesso e retificação: presencialmente junto do responsável;
+Prazo de conservação de dados: não aplicável.
+Lisboa, 15 de março de 2016
+File
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

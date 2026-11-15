@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 832/2005
-official_date: null
+official_date: '2005-10-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ADVANCE CARE - GESTÃO DE SERVIÇOS DE SAÚDE, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 832/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6548](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6548).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 494/98
+AUTORIZAÇÃO N.º 832 /2005
+I. O pedido 1. A AdvanceCare - Gestão de Serviços de Saúde, SA foi autorizada a proceder à gravação de chamadas telefónicas no centro de atendimento, com vista à monitorização do serviço prestado pelos seus colaboradores.
+As gravações eram feitas com os seguintes objectivos:
+a) Controlar a qualidade interna do atendimento prestado, através da audição das gravações pelos Supervisores, de forma aleatória e não sistemática, possibilitando a correcção de procedimentos de rotina;
+b) Avaliação do grau de satisfação dos clientes e da rapidez de resposta;
+c) Maior segurança na resposta e eventuais reclamações sobre os serviços prestados;
+A Advance Care vem informar que será extremamente reduzido o prazo de 45 fixado no ponto 6 da Autorização da CNPD n.° 285/2005.
+Na referida autorização a CNPD teceu as seguintes considerações e fixou os termos do tempo de conservação:
+"Em relação ao prazo de conservação - 3 meses - afigura-se-nos que, em geral, se trata de um prazo excessivo. Sendo pressuposto que, por regra, existe uma relação estreita entre o trabalhador e o supervisor pensamos que as finalidades do tratamento podem ser asseguradas mediante a conservação pelo prazo máximo de 45 dias. Isto sem prejuízo de
+- em caso de reclamação do cliente - possam ser conservadas (v.g. transcritas) por prazo superior e até à resolução do litígio".
+2. A Advance Care vem solicitar o alargamento do prazo de conservação das gravações
+- para 6 meses - invocando os seguintes fundamentos:
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS "a) Na maioria dos casos, quando é identificada uma situação de reclamação a respectiva gravação já foi destruída por ter ultrapassado esse tempo, impossibilitando a sua resolução;
+b) Outra situação está relacionada com o direito que o cliente tem de ter acesso à gravação das suas chamadas, quando surge uma situação de reclamação, por vezes a respectiva gravação também já não existe quando é solicitada".
+Na autorização 285/2005 a CNPD estabeleceu a possibilidade de conservação, por transcrição, das chamadas por um prazo superior ao fixado, nomeadamente na sequência de reclamação do cliente. Em face do alegado pela requerente a CNPD admite como possível alongar o prazo de conservação das gravações para 6 meses, mas apenas quando está em causa apreciar reclamações de clientes.
+Ou seja, em relação às outras finalidades estabelecidas (v.g. controlar a qualidade interna do atendimento prestado para possibilitando a correcção de procedimentos de rotina ou a avaliação do grau de satisfação dos clientes e da rapidez de resposta)
+mantém-se o prazo anteriormente estabelecido. Apesar de a entidade manter as gravações pelo prazo de 6 meses, não vir a utilizá-las para outras finalidades que não seja a apreciação de reclamações dos clientes.
+Considera-se, deste modo, alterada a autorização n.º 285/2005, de 15 de Junho.
+Lisboa, 7 de Outubro de 2005
+Arden
+Amadeu Guerra (Relator)
+Ana Luísa Geraldes
+Eduardo Campos
+Alexandre Pinheiro
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Luis Barro
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TMN - TELECOMUNICAÇÕES MÓVEIS NACIONAIS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:42:52Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 98/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14517](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14517).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 2763/07
+Registo n. 1/09
+TMN - Telecomunicações Móveis Nacionais, SA notificou um tratamento de dados pessoais com a finalidade processamento de gestão de benefícios de campanha de incentivos de venda de produtos/serviços da TMN
+Declaram as seguintes categorias de dados pessoais: Nome, morada, telefone, e-mail e dados relativos à campanha.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da
+LPD, a execução de um contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - TMN - Telecomunicações Móveis Nacionais, SA
+Categoria de dados pessoais tratados - Nome, morada, telefone, e-mail e dados relativos à campanha.
+Finalidade - gestão de benefícios de campanha de incentivos de venda de produtos/serviços da TMN.
+Comunicação de dados - Não há
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados para países 3°s - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação de forma a cumprir o artigo 10° da LPD.
+Lisboa, 9 de Fevereiro de 09
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

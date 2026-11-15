@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CENTRO DE ESTUDOS E AVALIAÇÃO EM SAÚDE (CEFAR) DO INST. FORM. E INOV. EM SAÚDE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:28:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1341/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5386](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5386).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 993/08
+AUTORIZAÇÃO N.° 34| /2008
+O CEFAR - Centro de Estudos e Avaliação em Saúde do Instituto de Formação e
+Inovação em Saúde (Infosaúde) notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo para a caracterização do padrão de utilização da vacina contra Papilomavírus Humano (HPV).
+A recolha de dados será efectuada através do preenchimento de um questionário aplicado pelo farmacêutico onde é adquirida a vacina e posterior contacto telefónico para aferir o cumprimento do esquema da sua administração. O questionário depois de preenchido será enviado para o responsável pelo tratamento que fará o contacto telefónico.
+No momento do preenchimento do inquérito é obtido o consentimento informado do titular para a participação no estudo. O documento do consentimento é igualmente remetido ao responsável.
+Serão recolhidos o nome e número de telefone do titular, para possibilitar o contacto posterior. Estes dados serão mantidos num ficheiro separado e atribuído um código do titular que constará no inquérito e que permitirá o relacionamento do inquérito inicial com as respostas ao contacto telefónico posterior.
+Serão registados os seguintes dados: Nome, código do titular, telefone, idade, nível educacional, identificação da vacina, data da administração das doses e informação sobre o início da actividade sexual. Se a inquirida tiver mais de 18 anos será ainda perguntado se já fez algum rastreio cervical.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: CEFAR - Centro de Estudos e Avaliação em
+Saúde do Instituto de Formação e Inovação em Saúde (Infosaúde)
+Finalidade: elaborar um estudo para a caracterização do padrão de utilização da vacina contra Papilomavírus Humano (HPV).
+Categoria de Dados pessoais tratados: Nome, código do titular, telefone, idade, nível educacional, identificação da vacina, data da administração das doses e informação sobre o início da actividade sexual. Se a inquirida tiver mais de 18 anos será ainda perguntado se já fez algum rastreio cervical.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do responsável pelo tratamento.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: os dados de identificação do titular (nome telefone e o código) devem ser destruídos um mês após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 30 de yenho de 2008
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 090
+Ana Roque 2000~
+Carlos Campos Lobo (Relator)
+Eduardo Campos
+тило
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Sdo
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

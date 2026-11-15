@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PHARMION - SUCURSAL EM PORTUGAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:17:58Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 933/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6966](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6966).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 11413/300/04
+Autorização n.° 233/2005
+Pharmion Sucursal em Portugal, vem notificar junto da Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados pessoais com a seguinte finalidade: recolha de informações de dados de fornecedores. Os dados recolhidos são nome, morada, número de telefone e número de fax.
+Após resposta da entidade em que se solicitam esclarecimentos sobre a transferência de dados para os Estados-Unidos, a CNPD mantém a decisão contida no projecto aditando adicionais elementos explicativos. Assim:
+- Os dados recolhidos destinam-se a ser comunicados à Pharmarion em Espanha, no
+Reino Unido e para os Estados-Unidos.
+- Atendendo a que os Estados-Unidos não são um Estado que garanta protecção adequada em termos de protecção de dados, esta Comissão só pode autorizart a transmissão de dados se existir consentimento inequívoco do titular dos dados ou se estiver preenchida alguma das condições enunciadas no artigo 20.°, n.º 1. Nenhum desses elementos consta do processo. Ou seja do processo não consta qualquer declaração de consentimento ou cláusula contratual que seja do conhecimento dos titulares, garantindo o conhecimento de que a informação obtida se destina a transferência para os Estados-Unidos.
+- A recolha processa-se directamente. A segurança das instalações baseia-se em: cópias de backup, password de acesso às informações e no acesso restrito de pessoas.
+O titular pode conhecer e actualizar a informação a si respeitante através de contacto telefónico, fax, correio electrónico da entidade encarregue do processamento da informação.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º 1, alínea a) e 30.°, da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de d nos seguintes termos:
+Responsável: Pharmion Sucursal em Portugal
+Dados tratados: Nome, morada, número de telefone e número de fax.
+Finalidade: Recolha de informações de dados de fornecedores.
+Forma de exercício do direito de acesso e rectificação: O titular pode conhecer e actualizar a informação a si respeitante através de contacto telefónico, fax, correio electrónico da entidade encarregue do processamento da informação.
+Comunicação de Dados e interconexões: Os dados são comunicados Espanha e ao
+Reino Unido.
+Não se autoriza a comunicação de dados para os Estados-Unidos, pelas razões já expostas nesta autorização.
+Lisboa, de Novembro de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+омич
+Eduardo Campos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Luísa Geraldes
+Adeuts
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3

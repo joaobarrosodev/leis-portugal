@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 28/2008
-official_date: null
+official_date: '2008-02-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CAPGEMINI PORTUGAL, SERVIÇOS DE CONSULTORIA E INFORMÁTICA SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:22:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 28/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1054](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1054).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 2675/06
+Registo 28/08
+A Capgemini Portugal - Serviços de Consultoria e Informática, SA notificou à CNPD um tratamento com a finalidade de processamento de salários
+Os dados pessoais que se pretende tratar para a finalidade declarada são: Dados de
+Identificação, dados de contacto, dados académicos, profissionais, dados relativos ás remunerações.
+Os dados são recolhidos pessoalmente, por impresso e por telefone e indirectamente das empresas de trabalho temporário.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da al. a) do artigo 6° da LPD, a execução de contrato.
+E declarada a existência de fluxos transfronteiriços para a Cap Gemini sita nos EUA, India e
+China, efectuados ao abrigo de cláusulas contratuais-tipo.
+O fundamento de legitimidade para o tratamento é, nos termos da alínea a) do artigo 6° da
+LPD, a execução de um contrato.
+Nos termos do n.º 4 e al. a) do n.º 1 do artigo 20° da Lei 67/98 e ainda de acordo com a declaração interpretativa da CNPD de 29 de Novembro de 2004, os fluxos não carecem do controlo prévio previsto no artigo 28°.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - Capgemini Portugal - Serviços de Consultoria e Informática, SA
+Categoria de dados pessoais tratados - Dados de Identificação, dados de contacto, dados académicos, profissionais, dados relativos ás remunerações.
+Finalidade - processamento de salários
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsavel;
+Comunicações de dados - Os dados apenas serão comunicados no âmbito de obrigação legal.
+Interconexões - Não há;
+Fluxo transfronteiriço de dados para países terceiros - Cap Gemini dos EUA, India e China
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA —- Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°.
+Não se autoriza o tratamento de dados relativos a hábitos, designadamente o consumo de álcool, café ou tabaco, ainda que estes tenham sido fornecidos pelo respectivo titular no currículo. Não se autoriza, também, a recolha de dados de saúde, dados relativos à família e dados sobre os hábitos pessoais.
+Lisboa, 4 de Fevereiro de 2008
+A Secretária da CNPD
+Sabe
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

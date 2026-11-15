@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Invesaúde - Gestão Hospitalar, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:33:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4032/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44216](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44216).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 1687/05
+AUTORIZAÇÃO N. 1032/2012 1. O Pedido
+Invesaúde - Gestão Hospitalar, S.A. notificou tratamento de dados pessoais relativos a medicina preventiva, diagnóstico médico, prestação de cuidados e tratamentos médicos.
+Os dados pessoais a tratar são: dados de identificação; habilitações literárias e profissionais; funções exercidas; situação profissional; local de trabalho e entidade seguradora de que é beneficiário; dados clínicos.
+Como fundamentos de legitimidade indica-se o consentimento do titular e a inexistência do risco de intromissão na vida privada e de discriminação.
+Há comunicação de dados para as seguradoras (identificadas) que atuam no ramo saúde.
+Não há interconexões, nem fluxos transfronteiras.
+Como medidas de segurança apontam-se o acesso restrito de pessoas e a utilização de cópias de back-up, de palavras-chave de acesso às informações, de sistemas de processamento de back-up e de informação cifrada.
+Os prazos de conservação de dados são os estipulados na Portaria 247/2000, de 8 de
+Maio.
+O exercício de direitos de acesso e retificação realiza-se mediante contato direto com o responsável.
+2. Apreciação
+As finalidades propostas são determinadas, explícitas e legítimas (Lei n.º 67/98, de 26 de Outubro, art.° 5.°, n.º 1, al. b)).
+Os dados a tratar são adequados, pertinentes e não excessivos (ibidem, al. c)).
+O fundamento da legitimidade consta do n.º 4 do art.º 7º da Lei n.º 67/98, devendo os dados ser tratados por médicos ou outros profissionais sujeitos a sigilo profissional.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE / 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+As comunicações previstas têm como pressuposto o facto de as empresas destinatárias terem notificado os tratamentos de dados relativos a seguros de saúde.
+Também nestas empresas os dados tratados devem sê-lo por médicos ou outros profissionais sujeitos a sigilo profissional.
+3. Autorização
+Pelo exposto, e nos termos do art. 7., n.º 4 e 30.º da Lei n.º 67/98, a CNPD profere a seguinte autorização:
+a) Responsável
+Invesaúde - Gestão Hospitalar, S.A.
+b) Finalidade
+Tratamento de dados para prevenção, diagnóstico clínico, prestação de cuidados e tratamentos de saúde c) Dados tratados
+Dados de identificação; profissionais; local de trabalho; funções; clínicos.
+d) Comunicações
+A Seguradoras do ramo saúde e) Interconexões
+Não há f) Fluxos transfronteiriços
+Não há g) Modo do exercício dos direitos de acesso e retificação
+Direta, perante o responsável
+Lisboa o7de acoeo de 2012
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso, Luís
+Paiva de Andrade, Vasco de Almeida
+Luís Lingnau da Silveira (Presidente), que relatou
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 geral@cnpd.pt
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE/2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

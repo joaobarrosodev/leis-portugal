@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASTRAZENECA, PRODUTOS FARMACÊUTICOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:07:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2313/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9657](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9657).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 6415/08
+AUTORIZAÇÃO N.º2313/2008
+A AstraZeneca, Produtos Farmacêuticos, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional, prospectivo, multicêntrico, e multinacional para analisar os efeitos de inibidores da Aramatase e
+Fulvestrant em mulheres pós-menopausa com receptores de estrogénios positivos que progrediram em terapêutica prévia anti-estrogénio (FAIP - Faslodex e Inibidores
+Aromatase em Portugal)..
+A empresa KeyPoint -Consultoria Científica, Lda, é a entidade subcontratada para o processamento da informação.
+Aos doentes nas condições de inclusão das unidades de saúde aderentes ao estudo, será solicitado, pelo seu médico assistente e que tem, simultaneamente, a qualidade de investigador do estudo, o consentimento para a sua participação no estudo.
+As declarações de consentimento são guardadas pelo médico investigador.
+O estudo será realizado através do preenchimento pelo médico do caderno de recolha de dados e de um questionário de satisfação. O doente preencherá também um questionário de satisfação e um questionário de qualidade de vida.
+O estudo propõe-se avaliar cerca de 200 doentes do sexo feminino em 10 centros de investigação e decorrerá até Abril de 2010. As visitas serão de semestrais até progressão da doença. Os dados de sobrevivência serão recolhidos apenas se o doente morrer durante o período do estudo.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+As categorias de dados contidos no formulário são as seguintes: código do doente, iniciais do doente, Dados demográficos (ano de nascimento, raça), história clínica, avaliação tumoral, tratamento actual, qualidade de vida, satisfação do doente e do médico, eventos adversos e tempo de sobrevida.
+Os dados do "cadernos de recolha" introduzidos "numa base de dados electrónica apenas acessivel na Intranet da Sanofi-aventis, apenas acessível aos investigadores.
+Os dados dos vários países são consolidados pela empresa subcontratada.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+No que respeita ao tratamento do dado raça, o responsável justifica a sua necessidade pelo facto de "nesta patologia, a raça é uma variável considerada de grande importância, o que está cientificamente documentado. O cancro da mama ocorre com maior frequência em mulheres caucasianas, comparativamente a mulheres latinas, asiaticas ou africanas. Contudo, as mulheres africanas, quando diagnosticadas com carcinoma da mama, verifica-se que a sua manifestação tem uma forma mais agressiva e mais difícil de tratari
+O fundamento de legitimidade será o consentimento do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.p2
+
+D
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável pelo tratamento: AstraZeneca, Produtos Farmacêuticos, Lda
+Finalidade: estudo observacional, prospectivo, multicêntrico, e multinacional para analisar os efeitos de inibidores da Aramatase e Fulvestrant em mulheres pós-menopausa com receptores de estrogénios positivos que progrediram em terapêutica prévia anti-estrogénio (FAIP - Faslodex e Inibidores Aromatase em Portugal).
+Categoria de Dados pessoais tratados: código do doente, iniciais do doente, Dados demográficos (ano de nascimento, raça), história clínica, avaliação tumoral, tratamento actual, qualidade de vida, satisfação do doente e do médico, eventos adversos e tempo de sobrevida.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código de doente deve ser destruído, quer pelo médico investigador, quer pela subcontratada, imediatamente após a validação dos dados.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, oce de Noue bo 162008 00 0
+Ana Roque (Relatora)
+António, Luís Barroso, Vasco Almeida T
+Vasco Almeida Lou, Eduardo Campos, Helena Delgado
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° -
+E-mail: geral@cnpd.pt
+- 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt 3

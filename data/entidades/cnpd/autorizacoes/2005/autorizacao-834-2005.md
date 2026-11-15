@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 834/2005
-official_date: null
+official_date: '2005-10-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MERRILL LYNCH CAPITAL MARKETS AG'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 834/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6546](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6546).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 43/02 034
+Autorização n° /2005
+A Merrill Lynch Capital Market AG, vem notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento relativo ao envio de informação sobre produtos e serviços e a prestação de serviços financeiros.
+Os dados registados são: nome, endereço de correio electrónico, entidade patronal, título, morada, número de telefone.
+A recolha e actualização de dados faz-se por via directa ou indirecta.
+As medidas de seguranças adoptadas são: cópias de backup, password de acesso às informações e informação cifrada.
+Não há comunicação de dados. Não há interconexões.
+Verificam-se fluxos transfronteiras para a Suiça e para os Estados-Unidos.
+Relativamente à Suiça, a Comissão Europeia já a considerou como Estado que garante protecção adequada em tratamentos de dados pessoais
+A transferência para os Estados-Unidos está dependente de consentimento prévio do titular dos dados nos termos do artigo 20.°, da Lei n.º 67/98, de 26 de Outubro, da existência de cláusulas contratuais que respeitem a Decisão da Comissão n.° 2002/16/CE ou da integração no safe harbour.
+Os dados recolhidos são considerados necessários, pertinentes e adequados, atenta a finalidade prosseguida (artigo 5.° da Lei n.º 67/98, de 26 de Outubro).
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.º da Lei n.º 67/98, de 26 de Outubro, autoriza-se o tratamento de dados apresentado, nos seguintes termos:
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável: Merrill Lynch Capital Market AG,
+Categorias de dados pessoais tratados: data de nascimento, naturalidade, nacionalidade, sexo, habilitações académicas, moradas, nome, estado civil, n.º BI e n.°
+NIB.
+Finalidade: Envio de informação sobre produtos e serviços e a prestação de serviços financeiros..
+Entidades a quem podem ser transmitidos: Não se verificam.
+Forma de exercício do direito de acesso e rectificação: Via Internet ou junto da
+Merril Lynch International
+Eventuais interconexões : Não se verificam
+Transferências de dados para países terceiros: Suiça e Estados-Unidos desde que cumpridos os termos previstos nesta autorização.
+Lisboa, 17 de Outubro de 2005
+Alle lus
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aredeu U
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

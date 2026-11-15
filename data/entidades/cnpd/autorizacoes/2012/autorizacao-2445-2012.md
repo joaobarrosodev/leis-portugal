@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: The Boston Consulting Group, Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:58:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2445/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42656](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/42656).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 5993/11
+AUTORIZAÇÃO N.°JUS /2012
+A entidade THE BOSTON CONSULTING GROUP, LDA., veio notificar um tratamento cuja finalidade é a construção de uma base de dados que integrará o "nome (e iniciais identificativas do nome) e curricula de todos os colaboradores que participam na elaboração e produção de documentos para os clientes do responsável ao abrigo da respectiva relação laboral, nome e função exercida pelo representante do cliente do responsável em cada projecto encomendado ao responsável pelo cliente em questão (informação histórica do projecto)".
+1. É recolhida informação sobre o nome (e iniciais identificativas do nome) e curricula de todos os colaboradores que participam na elaboração e produção de documentos para os clientes do responsável ao abrigo da respectiva relação laboral, nome e função exercida pelo representante do cliente do responsável em cada projecto encomendado ao responsável pelo cliente em questão, a qual se reputa necessária, pertinente e não excessiva em relação à finalidade (cf. art. 5.° da Lei 67/98).
+2. Os dados são tratados na sequência de execução de contrato. Existe, por isso, legitimidade para o tratamento de dados (cf. art. 6.° al. a) da Lei 67/98, de 26 de
+Outubro).
+Por força do artigo 27., 28.° n.º 1 al. d) e 30.° da Lei 67/98, autoriza-se o tratamento notificado consignando-se o seguinte:
+1. Responsável: THE BOSTON CONSULTING GROUP, LDA.
+2. Categorias de dados pessoais tratados: nome (e iniciais identificativas do nome) e curricula de todos os colaboradores que participam na elaboração e produção de documentos para os clientes do responsável ao abrigo da respectiva relação laboral, nome e função exercida pelo representante do cliente do responsável em cada projecto encomendado ao responsável pelo cliente em questão
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. Finalidade: execução de contrato 4. Entidades a quem podem ser transmitidos: entidades promotoras de concursos públicos, relativamente aos certificados de registo criminal dos gerentes, nos termos do
+Código dos Contratos Públicos (DL n° 18/2088, de 29 de Janeiro), uma vez obtido o consentimento dos titulares 5. Forma de exercício do direito de acesso e retificação: Por solicitação escrita.
+6. Eventuais interconexões: Não há 7. Transferências de dados para países terceiros: Não há.
+8. Conservação dos dados: 5 anos após a execução do contrato.
+Lisboa, a de Gauço de 2012
+Ana Roque (relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado António,
+Luís Paiva de Andrade, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

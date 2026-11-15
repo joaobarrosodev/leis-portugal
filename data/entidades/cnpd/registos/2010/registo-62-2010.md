@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: QUERCUS - ASSOCIAÇÃO NACIONAL DE CONSERVAÇÃO DA NATUREZA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,38 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 62/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22321](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22321).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 3880/2009
+REGISTO N.° 62 12010
+A Quercus - Associação Nacional de Conservação da Natureza notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de programa de envio de conselhos ambientais via SMS.
+Os dados são recolhidos directamente pela Internet. O titular inscreve-se no sítio para a recepção das mensagens.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, de acordo com as disposições conjugadas dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Quercus - Associação Nacional de Conservação da Natureza
+Finalidade
+Gestão de programa de envio de conselhos ambientais via SMS.
+Nome e n° de telemóvel.
+Categoria de dados pessoais tratados
+Comunicação de dados
+Forma de exercício do direito de acesso e rectificação
+Interconexões
+Não há.
+Junto do responsável pelo tratamento dos dados na página onde efectuou a inscrição.
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados 1 ano.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE

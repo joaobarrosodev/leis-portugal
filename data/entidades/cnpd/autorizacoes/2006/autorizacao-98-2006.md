@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AISIR - PRODUTOS FARMACÊUTICOS, UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,70 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:13:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 98/2006
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6433](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6433).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 1966/04
+AUTORIZAÇÃO N. 98 106 1. AISIR - Produtos Farmacêuticos, S.U., Lda, veio notificar a
+CNPD da recolha de imagens com vista à segurança das suas instalações farmacêuticas e protecção de pessoas e bens.
+II - Apreciando e Decidindo:
+1. Através da Deliberação n.º 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios gerais e o enquadramento legal sobre o tratamento de dados de videovigilância, tendo aí definido os parâmetros gerais a que o mesmo deve obedecer.
+Destarte, qualquer apreciação jurídica sobre tal matéria deve ter necessariamente em conta o entendimento vertido nessa Deliberação, restando aferir in concreto os pressupostos aludidos na citada
+Deliberação da CNPD.
+Assim sendo, temos que:
+2. No que concerne à apreciação das condições de tratamento de videovigilância pela entidade responsável, importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (art.
+5., n.º 1, al. c), da Lei 67/98, de 26 de Outubro), às condições de legitimidade (artigos 7° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso quanto aos dados recolhidos pelos sistemas de videovigilância.
+3. Verifica-se, assim, que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas farmácias, não só no âmbito da protecção de pessoas e bens () Disponível in http://www.cnpd.pt
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS mas para prevenir actos de violência em relação ao furto de certos medicamentos (v.g., psicotrópicos). Acresce, por outro lado, que o facto de as farmácias estarem abertas ao público durante a noite («farmácias de serviço») é um factor de risco que justifica a colocação destes meios de dissuasão.
+Em face da finalidade assinalada, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação a essa finalidade (artigo 5.° n.º 1 al. c) da Lei 67/98).
+Com efeito, pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Ora, o que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com a protecção dos seus direitos fundamentais (), bem como registar e documentar a eventual prática de infracções.
+Sendo certo que o tratamento de som ou imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que "situar-se, necessariamente, a montante de qualquer actividade delituosa" ou pressupor a existência de suspeitas concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+Nestas circunstâncias, e em termos gerais, não se afigura que devam prevalecer os direitos, liberdades e garantias dos titulares sobre o interesse do responsável Requerente.
+4. Em Conclusão:
+() O artigo 8.° n.° 2, da Lei n° 67/98, de 26 de Outubro, obriga, como condição a ponderar pela CNPD, a que «não prevaleçam os direitos, liberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e de imagem.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+- Face ao que antecede, decide-se considerar como legitimo o tratamento, autorizando-se, por consequência, a recolha de dados (artigo 8.° n.° 2 e 28.° n.° 1 al. a) da Lei 67/98), devendo ser observadas, ainda, as seguintes condições:
+1. Responsável: A Requerente;
+2. Finalidade: Segurança das instalações e protecção de pessoas e bens;
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.º da Lei 67/98, de 26/10.
+5. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de som e imagem.
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal -imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da
+Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+Deve, ainda, impedir que as câmaras de vídeo sejam direccionadas para os respectivos sistemas ou terminais de pagamento.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+Lisboa, 10 Fevereiro 200€.
+Eduardo Campos ( Relator)
+luana.
+en
+Ana ROQUE
+Arden
+Amadeu Guerra
+Alexandre Pinheiro
+Luís Durão Barroso s Gilves
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1073/2007
-official_date: null
+official_date: '2007-07-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SNS - SOCIEDADE NEFROLÓGICA SUL, SA - (SERVIÇOS CLÍNICOS)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:21:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1073/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2311](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2311).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 1121/07
+AUTORIZAÇÃO N.°( 073/2007
+SNS - Sociedade Nefrológica do Sul, SA veio notificar à CNPD um tratamento de dados pessoais, na vertente utilização para finalidade diversa, com o fim de elaborar estudos científicos relativos a tratamentos de diálise dos doentes com insuficiência renal. Este tratamento insere-se no projecto Euclid cujo objectivo é juntar os dados clínicos dos centros de hemodiálise, portugueses e estrangeiros, de forma a elaborar estudos científicos nesta área
+O responsável tem por objecto social prestar serviços de hemodiálise, tendo, por isso, ficheiros de dados pessoais com as histórias clínicas dos seus doentes, pretendendo utilizá-los com o fim de os comunicar à Clinical Management Europe da Fresenius
+Medical Care AG&GaA, com sede na Alemanha, entidade que elaborará os referidos estudos.
+O tratamento agora notificado consubstancia uma finalidade diversa mas não incompatível, como é exigido pelo art.° 5° n.º 1, al. b) da Lei n.º 67/98, de 26 de
+Outubro.
+Os dados serão posteriormente comunicados de forma anónima.
+Os titulares autorizam expressamente a utilização dos seus dados com a finalidade comunicação para fins de investigação.
+O universo do estudo será constituído pelos doentes da SNS, SA que consentirem na utilização.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+O fundamento de legitimidade será o consentimento do titular dos dados.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+A comunicação dos dados será efectuada sem dados identificados ou identificáveis.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: SNS - Sociedade Nefrológica do Sul, SA
+Finalidade: Estudos científicos relativos a tratamentos de diálise dos doentes com insuficiência renal.
+Categoria de dados pessoais tratados: Dados de identificação, contactos, anamnese, história clínica, resultados laboratoriais, terapêutica, internamentos.
+Entidades a quem podem ser comunicados: Não há comunicação de dados pessoais.
+Formas de exercício do direito de acesso e rectificação: pessoalmente e por escrito junto do responsável.
+Porque há tratamento de dados de saúde, o direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei 67/98, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do titular o médico/investigador e no exercício do direito de rectificação deste tipo de dados, deverá o titular, de igual modo, exercê-lo directamente junto do médico/investigador, uma vez que o conhecimento destes dados está limitado a estas pessoas.
+Comunicação de Dados Pessoais: Não há
+Interconexões de tratamentos: Não há
+Transferências de dados para países terceiros: Não há.
+Dos termos e condições fixados na Deliberação n.°227/2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 18 de Julho de 2007
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque",
+Carlos Campos Lobo
+Eduardo Campos /Belaro C
+Helena Delgado António 012
+Luís Barroso
+Vascotemida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+7
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

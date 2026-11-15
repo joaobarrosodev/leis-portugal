@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MUNDICONTA DE MARIA CONCEIÇÃO C. F. S. SILVA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,71 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:15:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 72/1995
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11859](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11859).
+Pouto A1
+Afrivada 24.10.95
+PRoc: 92/1994
+AUTORIZAÇÃO N°72 /95 "MUNDICONTA". empresa em nome individual de Maria da
+Conceicão Fonseca Sousa Silva. com sede na Rua do Arneiro. n° 4. Loja A.
+em Mem Martins. solicita autorização para o tratamento informático destinado à elaboração da contabilidade dos seus clientes.
+Tem o mesmo sempre por fundamento a celebração de um contrato de serviços entre aquela e estes e destina-se à elaboração da respectiva contabilidade. comercial ou não. para efeitos de processamento de salários e respectivos descontos legais. bem como e sobretudo, para efeitos fiscais. v.g. de
+IRS, IRC e IVA.
+De entre os dados pessoais das pessoas em causa. objecto de tratamento.
+ressalta. deste modo, a "situação patrimonial e financeira". de todo necessária para as finalidades referidas.
+Verificados que se mostram os requisitos legais. sobretudo aqueles objecto do Art.° 17° n.º 2 da Lei 10/91. nada obsta a que seja deferida a solicitada autorização.
+Assim e face ao exposto. DELIBERA-SE autorizar a manutenção do tratamento informático em causa. nos seguintes termos :
+Responsável - "Mundiconta" de Maria da Conceição Correia Fonseca Silva.
+com sede na Rua do Arneiro. n.º 4. Loja A. 2725 Mem Martins
+Tel. - 9209406
+Fax - 9208297
+
+Caracteristicas - PC. em rede. com sistema de gestão de bases de dados.
+Finalidade - Prestacão de servicos de contabilidade para efeitos fiscais.
+Dados Pessoais - identificação da pessoa em causa (nome/firma, estado civil.
+Bl/n.° pessoa colectiva. morada/sede. telefone. n.° contribuinte. agregado familiar) e os elementos necessários à contabilidade (situação patrimonial e financeira) designadamente rendimentos. vendas. despesas. dívidas a fornecedores. letras. bancos. investimentos.
+Fundamento - Contrato.
+Recolha e actualiz. - Directa. pessoal e por telefone.
+Comunicação - À DGCI. (Cliente)
+Comparac. e interconex. - Não há.
+Fluxos Transfr. - Não há
+Segurança - Todas as constantes da Declaração apresentada, com excepção de sistema de processamento de "backup".
+Conservação - Enquanto se mantiver o contrato celebrado.
+Acesso directo - A requerente - gerente - e o seu cônjuge, a toda a informação.
+Dt.º Acesso e correcção - A pedido do respectivo titular.
+00
+/ 10/95
+O Relator (Mário M. Varges Gomes)
+Os Vogais (Amadeu F. Ribeiro Guerra)
+
+AUTORIZAÇÃO N.° /95 "MUNDICONTA", empresa em nome individual de Maria da
+Conceição Fonseca Sousa Silva, com sede na Rua do Arneiro, n° 4, Loja A, em
+Mem Martins, solicita autorização para o tratamento informático destinado à elaboração da contabilidade dos seus clientes.
+Tem o mesmo sempre por fundamento a celebração de um contrato de serviços entre aquela e estes e destina-se à elaboração da respectiva contabilidade, comercial ou não, para efeitos de processamento de salários e respectivos descontos legais, bem como e sobretudo, para efeitos fiscais, v.g. de
+IRS, IRC e IVA.
+De entre os dados pessoais das pessoas em causa, objecto de tratamento, ressalta, deste modo, a "situação patrimonial e financeira", de todo necessária para as finalidades referidas.
+Verificados que se mostram os requisitos legais, sobretudo aqueles objecto do Art.º 17.° n.º 2 da Lei 10/91, nada obsta a que seja deferida a solicitada autorização.
+Assim e face ao exposto, DELIBERA-SE autorizar a manutenção do tratamento informático em causa, nos seguintes termos :
+Responsável - "Mundiconta" de Maria da Conceição Correia Fonseca Silva, com sede na Rua do Arneiro, n.° 4, Loja A, 2725 Mem Martins
+Tel. - 9209406
+Fax - 9208297
+
+Características - PC em rede, com sistema de gestão de bases de dados.
+Finalidade - Prestação de serviços de contabilidade para efeitos fiscais.
+Dados Pessoais - Identificação da pessoa em causa (nome/firma, estado civil,
+BI/n.° pessoa colectiva, morada/sede, telefone, n.° contribuinte, agregado familiar) e os elementos necessários à contabilidade (situação patrimonial e financeira) designadamente rendimentos, vendas, despesas, dívidas a fornecedores, letras, bancos, investimentos.
+Fundamento - Contrato.
+Recolha e actualiz. - Directa, pessoal e por telefone.
+Comunicação - À DGCI.
+Comparaç. e interconex. - Não há.
+Fluxos Transfr. - Não há.
+Segurança - Todas as constantes da Declaração apresentada, com excepção de sistema de processamento de "backup".
+Conservação - Enquanto se mantiver o contrato celebrado.
+Acesso directo - A requerente - gerente - e o seu cônjuge, a toda a informação.
+Dt.º Acesso e correcção - A pedido do respectivo titular.
+00
+/10/95

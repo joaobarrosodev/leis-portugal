@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO-GERAL DOS REGISTOS E DO NOTARIADO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:23:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 40/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5879](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5879).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.°: /1611/05
+Parecer n. °40/05 1-A Direcção-Geral dos Registos e do Notariado solicita à Comissão Nacional de
+Protecção de Dados (CNPD) parecer sobre o protocolo de acesso à base de dados do registo comercial celebrado com a Câmara dos Solicitadores e o Instituto das
+Tecnologias da Justiça.
+Segundo o texto apresentado, o protocolo justifica-se porque:
+- a figura do solicitador de execução visou agilizar o processo executivo;
+- o Director Geral dos Registos e do Notariado é o responsável pelo tratamento de dados do registo comercial (artigo 107.° do Código do Registo Predial, aplicável por força do artigo 115.° do Código do Registo Comercial);
+- a Câmara dos Solicitadores é uma associação pública, nos termos do artigo 1.° do
+Decreto-Lei n.º 88/2003, de 26 de Abril;
+- ao Instituto das Tecnologias de Informação na Justiça (ITIJ) encontra-se deferida competência para a gestão integrada da rede de informação e comunicação da justiça.
+2- O Código de Processo Civil determina que a realização da penhora é precedida de todas as diligências úteis à identificação e localização de bens penhoráveis procedendo-se à consulta das bases de dados da segurança social, das conservatórias do registo e de outros registos ou arquivos semelhantes (artigo 833.º do Código de
+Processo Civil).
+O artigo 109.°-A, n.º 2 do Código de Registo Predial determina que dados pessoais podem ser comunicados aos organismos e serviços do Estado e demais pessoas colectivas de direito público para prossecução das respectivas atribuições legais e estatutárias.
+O artigo 109.-A, n.º 4 do Código de Registo Predial determina a possibilidade de celebração de protocolos no contexto do n.º 2.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Em conformidade com estas disposições, o clausulado indica que:
+- os solicitadores de execução têm acesso ao conteúdo da base de dados do registo comercial por via de uma aplicação de GPESE (cláusula 1ª, n.º 1);
+- a finalidade encontra-se recortada através da competência legal dos solicitadores de execução (cláusula 1ª, n.º 2);
+- os acessos devem identificar o número de processo, o tribunal e a unidade orgânica em que estão integradas (cláusula 2ª);
+- existe o dever de cumprimento da legislação aplicável na matéria de protecção de dados (cláusula 3ª);
+- os solicitadores de execução devem encontrar-se identificados junto do ITIJ (cláusula 5ª);
+- os acessos ao sistema são individualizados através de um código de utilizador atribuído a cada solicitador de execução (cláusula 7ª, n.º 4).
+Em função do exposto, a Comissão Nacional de Protecção de Dados considera que o protocolo cumpre a legislação aplicável sobre protecção de dados pessoais.
+Lisboa, 3 | de Outubro de 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos na Luísa Geraldes den
+Amadeu Guerra
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

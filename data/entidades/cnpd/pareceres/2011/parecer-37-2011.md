@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO MINISTRO DA ECONOMIA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:09:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 37/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30814](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30814).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n° 3705/2011
+Parecer nº3ł/2011 1. O pedido
+O Gabinete de S. Exa. o Ministro da Economia, da Inovação e do
+Desenvolvimento solicita à Comissão Nacional de Protecção de Dados (CNPD)
+parecer sobre um conjunto de projectos de diplomas legais que se inserem na estratégia definida na iniciativa para a Competitividade e Emprego. O pedido de parecer foi remetido à CNPD com a menção de ser "urgente".
+A CNPD dispõe de competência para a prática do acto solicitado, nos termos da alínea a) do n.º 1 do artigo 23.° da Lei n.º 67/98, de 26 de Outubro.
+2. Apreciação
+Os projectos ora em apreço visam assegurar alguns aspectos da simplificação administrativa, no âmbito da "Iniciativa para a Competitividade e Emprego", aprovada pela Resolução de Conselho de Ministros n° 101-B/2010, de 27 de
+Dezembro, destinada a promover a competitividade e o crescimento da economia portuguesa.
+Para este efeito, o legislador propõe-se actuar sobre o sector da construção, tendo em conta o peso específico deste no contexto nacional. Assim, o conjunto de projectos de diploma aponta, agindo sobre a reabilitação urbana e o mercado de arrendamento, para três domínios onde se procura dinamizar aquele sector, a saber:
+a) São simplificados os procedimentos de execução das operações urbanísticas de reabilitação dos edifícios, desburocratizando os processos de obtenção das permissões para realização destas obras, assim reduzindo também os custos;
+b) Para dinamizar o mercado de arrendamento e colocar mais imóveis disponíveis para serem arrendados, são reforçados os mecanismos que os proprietários têm ao seu dispor para reagir perante o incumprimento do contrato;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www enna nt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS c) No domínio do financiamento das operações de reabilitação urbana, e para além do apoio financeiro ao sector, promove-se uma melhor articulação entre o financiamento das obras de iniciativa privada, a aplicação de incentivos e de benefícios fiscais aos seus promotores e o desenvolvimento de intervenções de iniciativa pública.
+Para o efeito, é criado um procedimento especial, mais simples e rápido, para a realização das obras, com centralização da decisão numa única entidade e eliminação dos pedidos de pareceres a outras entidades. Este procedimento especial passa a fazer-se com base numa comunicação prévia, sem licenças nem autorizações, podendo a obra iniciar-se 20 dias após a comunicação.
+Quanto ao mercado de arrendamento, salienta-se a criação de um procedimento extrajudicial de despejo, a aplicar nomeadamente em caso de falta de pagamento de rendas.
+Em matéria de protecção de dados pessoais, o projecto de diploma que inclui as medidas destinadas a incentivar a reabilitação urbana encerra várias disposições relevantes, a saber:
+a) O artigo 15°-A, que prevê na alínea c) que, em sede de procedimento de despejo, "caso a comunicação especial seja devolvida por o destinatário se ter recusado a recebê-la ou não a ter levantado, a entidade competente para o procedimento de despejo procede à sua notificação pessoal ou à afixação dessa comunicação na porta do local arrendado (...);
+b) O artigo 15°-D, que no n° 3, alínea c), repete o mesmo procedimento;
+c) No âmbito da simplificação de procedimentos necessários à execução de operações urbanísticas, os dados pessoais do titular da autorização são centrais para a tramitação respectiva (vejam-se, em especial, os artigos 15°, n°2, 18° a 20° e 22°.
+Assim, estes preceitos visam o tratamento de dados para efeitos de procedimento administrativo e limitando-se a dados de identificação. Verifica-se, pois, os dados a tratar são adequados, pertinentes e não excessivos para a finalidade a que se destinam, incluindo-se as condições de legitimidade da sua recolha no âmbito do artigo 6° da Lei 67/98, de 26 de Outubro.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3. Conclusão
+Tendo em conta a adequação do projecto ao regime jurídico da protecção de dados, este merece, em consonância, a concordância desta Comissão.
+Este é o Parecer da CNPD.
+Lisboa, 27 Abril de 2011.
+Ana Roque (Relatora), Carlos Campos Lobo, Helena António, Vasco Almeida,
+Luis Paiva de Andrade, Luís Barroso ai Alvei
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

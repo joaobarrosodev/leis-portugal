@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: VIFOR PHARMA UK LIMITED'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,49 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:16:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3070/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24062](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24062).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.4672/2010
+AUTORIZAÇÃO N. ° 3070/10
+Vifor Pharma Uk Limited, representada pelo Dr. Fernando
+Carrera, veio notificar a esta CNPD um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes com doença renal crónica não dependentes de diálise (Protocolo FER-CKD-01).
+de
+Trata-se «estudo aberto, multicêntrico, aleatorizado.» que tem como objectivo «avaliar a eficácia a longo prazo da FCM (..) ou de ferro oral para atrasar e/ou reduzir o uso do agente estimulador da eritropoiese (...)
+e/ou outras opções de tratamento da anemia em doentes com
+NDD-CKD com anemia ferripriva».
+As categorias de dados são as seguintes: Número de participante no estudo, data de nascimento, sexo, história mádica, exame físico, sinais vitais, teste de gravidez, testes laboratoriais, electrocardiograma, medicação concomitante, eventos adversos.
+0 estudo irá incluir cerca de 30 doentes em Portugal.
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.º1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Vifor Pharma Uk Limited, representada pelo Dr. Fernando Carrera.
+Finalidade: gestão de ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes com doença renal crónica não dependentes de diálise (Protocolo FER-CKD-01).
+Categoria de Dados Pessoais tratados: Número de participante no estudo, data de nascimento, sexo, história mádica, exame físico, sinais vitais, teste de gravidez, testes laboratoriais, electrocardiograma, medicação concomitante, eventos adversos.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do DL 176/2006, 30 de Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 12 Julho de 2010
+Luís Paiva de Andrade (Relator), Ana Roque, Luís Barroso,
+Carlos Campos Lobo, Vasco Almeida, Helena Delgado António.
+Luis Linghau da Silveira (Presidente)

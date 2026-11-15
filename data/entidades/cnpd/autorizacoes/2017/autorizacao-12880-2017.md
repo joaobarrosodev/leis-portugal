@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 12880/2017
-official_date: null
+official_date: '2017-11-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Bankinter, S.A., Sucursal em Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,84 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T08:02:49Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12880/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/112645](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/112645).
+Processo n: 12179/2017 ' /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N./2882017
+Pedido
+O Bankinter, S.A. - Sucursal em Portugal, notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais relativo à subcontratação de novas entidades no âmbito da finalidade de gestão de clientes objeto da Autorização n.° 2702/2016.
+desta Comissão.
+Do formulário de notificação e dos esclarecimentos complementares resulta que a entidade responsável pelo tratamento pretende subcontratar as seguintes entidades:
+• EIT Services Co. Portugal, Lda.;
+• GESVALT SOCIEDAD DE TASACION SA - Sucursal em Portugal;
+• Sphericalround, Unipessoal, Lda.;
+• Administradora de Arquivos SAU - Sucursal em Portugal;
+• Seines, Serviços de Informática, Lda.
+Serão objeto de tratamento todos os dados permitidos na Autorização n.º 2702/2016, a saber: dados de identificação: nome completo; documento de identificação, nomeadamente o tipo de documento, número do documento, local e data de emissão e validade;
+naturalidade e nacionalidade; data de nascimento; idade; sexo; estado civil; número de dependentes; grau de instrução/habilitações literárias (facultativos); morada; telefone de residência/emprego; telemóvel; e-mail, dados fiscais: número de identificação fiscal em
+Portugal; número de identificação fiscal no país de residência (se diferente de Portugal/ país emissor do número de identificação fiscal); representante fiscal em Portugal (nome completo/ número de identificação fiscal/morada em Portugal); dados profissionais:
+profissão; natureza do vínculo laboral (trabalhador por conta de outrem/efetivo/a prazo);
+cargo público (sim/não e qual); função/cargo na empresa; identificação da entidade patronal:
+atividade da empresa; morada; telefone; telemóvel; ano de admissão; salário; dados bancários: número de cliente; número(s) da conta de depósito; relação com colaboradores do Banco; limite de crédito; data de validade do cartão; detalhe das transações (produto, cliente, nome, data e montante); codificações estatísticas para efeitos do Banco de Portugal;
+relacionamento bancário; dados transmitidos ao Banco de Portugal: nome; número de referência do Banco de Portugal; tipo e classificação do crédito; débito pendente; número de
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 12179/2017 1v.
+instituições de crédito; dados relativos a decisões de crédito: data da decisão de crédito;
+decisão de crédito; motivos de recusa de decisão de crédito; representantes das pessoas coletivas: dados de identificação, dados de contacto.
+A entidade responsável declara manterem-se todos os demais elementos objeto da supracitada Autorização n.° 2702/2016, nomeadamente quanto às comunicações de dados a terceiros, à inexistência de interconexões e fluxos internacionais de dados para países terceiros, a forma do exercício do direito de acesso e retificação do titular dos dados e ao respetivo prazo de conservação.
+2.
+Análise
+A informação tratada pelo Bankinter, S.A., Sucursal em Portugal, corresponde a informação sujeita a sigilo bancário e, nessa medida, por dizer respeito à vida privada dos titulares, enquadra-se no conceito de dados sensíveis previsto no n.º 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto (Lei de Proteção de
+Dados Pessoais - LPDP). Deste modo, no que respeita à informação recolhida no âmbito da gestão das operações financeiras dos clientes a condição de legitimidade do tratamento é a lei (cf. n.° 2 do artigo 7.° da LPDP).
+Nos termos dos artigos 14°, n.º 3 e 16° da LPDP, deve o responsável estabelecer contratos ou atos jurídicos que vinculem os subcontratantes e onde se estipule, designadamente, que o subcontratante apenas atua mediante instruções do responsável. O responsável deverá ainda escolher subcontratantes que ofereçam garantias suficientes em relação às medidas de segurança técnica e organizacional e deverá zelar pelo cumprimento dessas medidas (cf.
+n.° 2 do artigo 14.° da LPDP).
+Nos termos dos artigos 14.° e 15° da LPDP, o responsável pelo tratamento deve assegurar o cumprimento das medidas de segurança adequadas para proteção dos dados pessoais, nomeadamente contra a destruição, a alteração ou o acesso não autorizado.
+Por ter sobrevindo alteração legislativa após a prolação da Autorização n.° 2702/2016, deve ser alterado o prazo relativo à conservação dos dados para efeitos de faturação. Assim, no uso da competência prevista na alínea f) do n.º 1 do artigo 23.° da LPDP, fixa-se o prazo em um ano após o termo da relação contratual, admitindo-se a conservação dos dados para faturação pelo período de 10 (dez) anos, nos termos do n.º 4 do artigo 123.° do Código de
+
+processo n: 12179/2017| 2 /
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Imposto sobre o Rendimento de Pessoas Coletivas, na redação dada pela Lei n.° 7- A/2016, de 30 de março.
+3.
+Conclusão
+Face ao exposto, nos termos das disposições conjugadas do artigo 7.°, n.º 2, 27.°, n.º 1, 28°, n.° 1, alínea a) e 30.°, todos da LPDP, autoriza-se o tratamento de dados supramencionado, incluindo as subcontratações objeto do pedido, nos seguintes termos:
+Responsável: Bankinter, S.A. - Sucursal em Portugal;
+Categoria de dados tratados: dados de identificação: nome completo; documento de identificação, nomeadamente o tipo de documento, número do documento, local e data de emissão e validade; naturalidade e nacionalidade; data de nascimento; idade; sexo; estado civil; número de dependentes; grau de instrução/habilitações literárias (facultativos); morada;
+telefone de residência/emprego; telemóvel; e-mail, dados fiscais: número de identificação fiscal em Portugal; número de identificação fiscal no país de residência (se diferente de
+Portugal/ país emissor do número de identificação fiscal); representante fiscal em Portugal (nome completo/ número de identificação fiscal/morada em Portugal); dados profissionais:
+profissão; natureza do vínculo laboral (trabalhador por conta de outrem/efetivo/a prazo);
+cargo público (sim/não e qual); função/cargo na empresa; identificação da entidade patronal:
+atividade da empresa; morada; telefone; telemóvel; ano de admissão; salário; dados bancários: número de cliente; número(s) da conta de depósito; relação com colaboradores do Banco; limite de crédito; data de validade do cartão; detalhe das transações (produto, cliente, nome, data e montante); codificações estatísticas para efeitos do Banco de Portugal;
+relacionamento bancário; dados transmitidos ao Banco de Portugal: nome; número de referência do Banco de Portugal; tipo e classificação do crédito; débito pendente; número de instituições de crédito; dados relativos a decisões de crédito: data da decisão de crédito;
+decisão de crédito; motivos de recusa de decisão de crédito; representantes das pessoas coletivas: dados de identificação, dados de contacto, habilitações académicas;
+Finalidade: gestão de clientes;
+Comunicação de dados a terceiros: Banco de Portugal, Comissão do Mercado de Valores
+Mobiliários, Autoridade Tributária, entidades gestoras de sistemas de pagamentos e emitentes de cartões de crédito, entidades judiciárias e judiciais, Interbolsa, outros bancos do sistema no âmbito dos sistemas de compensação/pagamento e centralização de riscos e
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 12179/2017 | 2v.
+entidades necessárias para assegurar a prestação do serviço para cumprimento de obrigações legais e contratuais;
+Interconexões: não há;
+Fluxos internacionais de dados para países terceiros: não há;
+Forma do exercício do direito de acesso e retificação: presencialmente e por escrito, junto do responsável;
+Tempo de conservação de dados: um ano após o termo da relação contratual. Admite-se ainda a conservação dos dados para efeitos de faturação pelo período de 10 (dez) anos.
+Nos termos do n.º 1 do artigo 173.° e da alínea b) do n.º 2 do artigo 167.° do Código de
+Procedimento Administrativo, esta autorização altera e substitui a Autorização n.° 2702/2016 e produz efeitos a partir da presente data.
+Lisboa, 14 de novembro de 2017
+Filipa Calvão (Presidente)

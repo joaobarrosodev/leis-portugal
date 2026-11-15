@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MILUPA COMERCIAL - COMERCIALIZAÇÃO DE PRODUTOS ALIMENTARES, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:54:10Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 579/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21546](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21546).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 62/2010
+AUTORIZAÇÃO N.º579/2010
+Milupa Comercial - Comercialização de Produtos Alimentares, S.A. notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transacções comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+Plurimarketing - Telemarketing e Marketing Directo, S.A., com sede em Portugal, é a entidade encarregada do processamento da informação, a qual se encontra vinculada à entidade responsável pelo tratamento por via de subcontratação.
+Na verdade, invocou a requerente como finalidade o cumprimento da disposição prevista no n.° 2 do artigo 9.° do Decreto-Lei n.° 134/2009, de 2 de Junho.
+Todavia, de acordo com as informações recolhidas junto da requerente, esclareceu-se que as gravações de chamadas decorrem no contexto de relação contratual.
+A CNPD já se pronunciou na sua Deliberação n.° 922/2009' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.º 922/2009, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade para a realização do tratamento é, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequívoco do titular (n.° 1 do artigo 4° da Lei n.º 41/2004, de 18 de Agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissivel que a entidade patronal efectue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respectivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+Alerta-se para que, nos termos do disposto no artigo 20° do Código de Trabalho, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores.
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.º 2, 28.° n.° 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+' Disponível em http://www.cnpd.pt/bin/decisoes/2009/htm/del/del 922_2009.pdf
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável
+Milupa Comercial - Comercialização de Produtos Alimentares, S.A.
+Finalidade
+Prova das transacções comerciais e quaisquer outras comunicações respeitantes a relação contratual
+Dados de tráfego e conteúdo das chamadas
+Categoria de dados pessoais tratados realizadas
+Forma de exercício dos direitos de acesso e rectificação
+Por solicitação ao responsável
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados 90 dias
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de Outubro.
+Dos termos e condições fixados na Deliberação n.º 922/2009 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Esclarece-se que a presente Autorização não inclui a finalidade de auditoria para verificação da qualidade do serviço prestado, nem a finalidade de gravação de chamadas no âmbito de call centers (Decreto-Lei n.° 134/2009), que por constituírem finalidades diferentes carecem de notificações autónomas.
+Lisboa, 08/02/2010
+Ana Roque (Relatora), Luis Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade.
+Luís Lingnau da Silveira (Presidente)

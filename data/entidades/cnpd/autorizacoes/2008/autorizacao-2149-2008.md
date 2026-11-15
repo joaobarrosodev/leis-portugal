@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL GARCIA DE ORTA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:10:40Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2149/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9337](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9337).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 1757/2006
+AUTORIZAÇÃO N.º2/19/2008
+O Hospital Garcia de Orta, E.P.E vem notificar à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de "segurança das crianças nascidas e internadas", porque permite monitorizar em tempo real a localização dos recém-nascidos e notificar, instantaneamente, uma tentativa de rapto ou o desaparecimento de uma criança. Fornece, ainda, em tempo real, a contagem das crianças em cada local.
+Alega o responsável pelo tratamento, em 11 de Agosto de 2008, em sede de esclarecimentos, que o tratamento visa ia protecção dos bebés nascidos nesta unidade hospitalar designado por BabyMatch".
+Isto significa que, após o nascimento, é colocada uma pulseira electrónica no recém-nascido que é usada no tornozelo e só será retirada no momento da alta. Cada pulseira contém um número de identificação, sendo que no sistema informático este número é associado ao nome e ao número do processo clínico da mãe do bebé.
+Sempre que um bebé com uma pulseira activa se aproximar de uma saída controlada, a porta será automaticamente trancada, permanecendo trancada enquanto o bebé se mantiver nessa localização.
+Ao saírem fora da área de segurança, é activado um sinal luminoso sonoro.
+Defende o responsavel, em sede de esclarecimentos, que o sistema BabyMatch é suportado por uma aplicação informática, onde é registada, em tempo real, a localização exacta da criança na Instituição. Esclarece, ainda, que são controladas todas as saidas dos Serviços onde o mesmo se encontra implementado: Bloco de
+Partos, Serviço de Obstetrícia e Serviço de Pediatria.
+Os dados contidos em cada registo são o nome da criança e número de processo (se se tratar de recém-nascido) e o nome da mãe e número de processo.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A entidade encarregue do processamento da informação e o Serviço de Pediatria do
+Hospital Garcia de Orta, em Almada.
+Há recolha directa dos dados pessoais pessoalmente e recolha indirecta do programa "SONHO".
+Não existe interconexões de tratamentos nem fluxos transfronteiras de dados.
+A segurança da informação é feita através de cópias de backup (segurança) dos dados, sistemas de processamento de backup, password de acesso às informações e acesso restrito de pessoas às instalações.
+A legitimidade para o tratamento dos dados em apreço está prevista nos artigos 6.°, alínea e), da Lei n.° 67/98, de 26 de Outubro - há legitimidade para o tratamento quando seja «necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias dos titulares dos dados».
+Em face do exposto e tendo em atenção o disposto nas disposições conjugadas dos artigos 6.°, alínea e), 28.° e 30.° da Lei n.° 67/98, de 26 de Outubro, a CNPD delibera autorizar o tratamento de dados pessoais, nos seguintes termos:
+A. Responsável: Hospital Garcia de Orta, E.P.E..
+B. Categoria dos Dados Pessoais: nome da criança e número de processo (se se tratar de recém-nascido) e o nome da mãe e número de processo.
+C. Finalidade: Segurança das crianças nascidas e internadas no Hospital Garcia de
+Orta.
+D. Forma de exercício do direito de acesso e rectificação: Por solicitação ao responsável.
+E. Interconexões e Transferência de Dados: Não existe.
+F. Prazo de conservação: 5 anos.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS na o g leo de 2008
+Ana Roque
+Carlos de Campos Lobo
+Eduardo Campos
+лиша
+Helena Delgado António
+Luís Barroso (Relator)
+cida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Instituto dos Registos e do Notariado, I.P. (IRN)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:52:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 197/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14883](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14883).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 10407/2008
+DELIBERAÇION 197/2005 1 - O Presidente do Instituto dos Registos e do Notariado, I.P. (IRN), veio remeter à
+Comissão Nacional de Protecção de Dados (CNPD) cópia do protocolo a celebrar entre aquele Instituto, a Direcção Geral das Alfândegas e dos Impostos Especiais (DGAIEC), a Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA) e o Instituto das Tecnologias de Informação na Justiça (ITIJ, I.P.).
+A remessa é efectuada ao abrigo do disposto no artigo 27° - E, n°7, do DL 54/75, de 12.02 (redacção do DL 182/2002, de 20.08), e do artigo 78° - G, n°4, do Código do
+Registo Comercial.
+Nos termos do primeiro dos citados preceitos, os protocolos a celebrar no âmbito do acesso à base de dados do registo de veículos estão sujeitos a parecer prévio da
+Comissão Nacional de Protecção de Dados, enquanto que o segundo estabelece a obrigação de remessa a esta Comissão relativamente a todos os protocolos sobre acesso a dados celebrados pelo actual IRN, I.P..
+2 - Em causa está um tratamento de dados que consiste no acesso por parte da DGAIEC, através da DGITA, à informação constante da base de dados do registo de veículos para a finalidade exclusiva de prossecução das competências que lhe estão legalmente atribuídas" (cf. Cláusula 1ª).
+Como decorre dos termos do preâmbulo do protocolo, o tratamento é efectuado ao abrigo dos artigos 27° - D, n°2, alínea b), e 27° - E, n°s 2 e 3, do DL 54/75, de 12.02, na
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS redacção dada pelo DL 182/2002, de 20.08, e dos n°s 2 e 3 do artigo 78° - F e do n°2 do artigo 78° - G do Código do Registo Comercial.
+O presente protocolo visa assim concretizar as previsões dos citados normativos legais, pelo que nenhumas dúvidas se suscitam sobre a legitimidade do tratamento.
+Acresce que o protocolo evidencia ter acautelado a protecção dos princípios vigentes em matéria de protecção de dados pessoais, em consonância, de resto, com o já estipulado naqueles preceitos legais.
+3 - Nestes termos, a Comissão Nacional de Protecção de Dados nada tem a obstar ao projecto de protocolo em análise porquanto o mesmo se mostra consentâneo com os princípios de protecção de dados pessoais relevantes.
+Lisboa, os de sae co de ao
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

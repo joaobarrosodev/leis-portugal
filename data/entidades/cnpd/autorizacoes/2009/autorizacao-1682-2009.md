@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IPATIMUP - INSTITUTO DE PATOLOGIA E IMUNOLOGIA MOLECULAR DA UNIV. DO PORTO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:10:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1682/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15663](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15663).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 7806/2008
+AUTORIZAÇÃO N.° 10%J/2009
+O Instituto de Patologia e Imunologia Molecular da Universidade do Porto notificou à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo com a finalidade declarada de "Localização de um grupo de indivíduos irradiados na infância para tratar a tinea capitis, a fim de lhes proporcionar uma consulta médica para despiste de possíveis efeitos da irradiação".
+As categorias de dados a tratar são as seguintes: Nome, Data do nascimento, Número de utente, Profissão, e Dados de saúde.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+A condição de legitimidade do tratamento é o consentimento do titular dos dados expresso de forma livre, específica e informada (cf. artigo 7.° - 2 da Lei 67/98 de 26 de
+Outubro).
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 30
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: Instituto de Patologia e Imunologia Molecular da
+Universidade do Porto.
+Finalidade: Localização de um grupo de indivíduos irradiados na infância para tratar a tinea capitis, a fim de lhes proporcionar uma consulta médica para despiste de possíveis efeitos da irradiação.
+Categoria de Dados pessoais tratados: Nome, Data do nascimento, Número de utente, Profissão, e Dados de saúde.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Mediante contacto com o responsável pelo tratamento dos dados pessoais.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: Apenas durante o período necessário à elaboração do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de intormação.
+Lisboa, A de Ahril de 2009
+Ana Roque, Carlos Campos Lobo, Luís Paiva de Andrade (Relator), Helena Delgado
+António, Luís Barroso, Vasco Almeida
+Silve
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento. 148-3° • 1200.821 1 ISROA

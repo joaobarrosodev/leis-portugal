@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BANCO COMERCIAL PORTUGUÊS, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 61/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22320](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22320).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 3959/2009
+REGISTO N.° 61 12010
+O Banco Comercial Português, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de elaboração de inquéritos de satisfação ("Valor do
+Millenium BCP").
+Os dados são recolhidos directamente pela Internet, telefone e impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, de acordo com as disposições conjugadas dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Banco Comercial Português, S.A.
+Finalidade
+Elaboração de inquéritos de satisfação (*Valor do
+Millenium BCP").
+Categoria de dados pessoais tratados
+Nome e morada do cliente, código do cliente (no caso de não ter solicitado o anonimato) e respostas ao questionário.
+Não há.
+Comunicação de dados
+Forma de exercício do direito de acesso e rectificação
+Junto do responsável pelo tratamento dos dados.
+Interconexões
+Não há.
+Não há.
+Fluxo transfronteiriço de dados
+Conservação dos dados 3 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 21 393 00 39
+LINHA PRIVACIDADE
+
+D
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 04/01/10
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

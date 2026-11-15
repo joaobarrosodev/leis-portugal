@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 337/2009
-official_date: null
+official_date: '2009-05-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Instituto dos Registos e do Notariado, I.P. (IRN)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:52:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 337/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15816](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15816).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 2433/09
+Deliberação n.º 337
+/09
+I. Relatório
+Por ofício recebido nesta CNPD em 25 de Março de 2008, veio o Presidente do
+Instituto dos Registos e do Notariado solicitar à CNPD a apreciação do projecto de protocolo a celebrar entre aquele Instituto, o Instituto das Tecnologias de
+Informação na Justiça, IP, e a Caixa Geral de Aposentações (CGA), tendo em vista o acesso à informação constante da base de dados do registo automóvel.
+Esta acção insere-se no Programa Simplex, visando a desburocratização de alguns processos, nomeadamente no domínio da gestão dos registos. Assim, a finalidade do protocolo em apreciação consiste em estabelecer as condições de comunicação à CGA para, no âmbito da sua actividade, "poder proceder à atribuição rigorosa das prestações sociais e à prevenção e combate à fraude e evasão relacionadas com cotizações, contribuições das entidades empregadoras e encargos com pensões." A transmissão de dados em causa destina-se ainda a efeitos de prova de carência de alimentos em situações de união de facto ou no âmbito de processos de execução fiscal intentados pela
+CGA.
+O protocolo remete expressamente, na Cláusula Quarta, para as disposições legais vigentes em matéria de protecção de dados pessoais constantes da Lei n° 67/98, de 26 de Outubro, salientando os seguintes deveres para o MDN:
+a) Respeitar integralmente a finalidade para que foi autorizada a transmissão dos dados;
+b) Não utilizar a informação para fim diferente do permitido;
+c) Não transmitir a informação a terceiros.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Todos os funcionários que tenham acesso à informação transmitida ficam sujeitos a sigilo profissional.
+O protocolo é celebrado pelo prazo de um ano, tacitamente prorrogável por iguais períodos de tempo. Se for verificado o incumprimento de alguma das condições fixadas no protocolo, a transmissão é suspensa por despacho do
+Presidente do IRN, IP.
+Em face do exposto, delibera a CNPD considerar o protocolo em apreço conforme com o disposto na Lei n.º 67/98, de 26 de Outubro, em especial quanto ao disposto nos seus artigos 5° e 6°, alínea d).
+Proceda-se à notificação da entidade interessada.
+Lisboa, 4 de Maio de 2009.
+Ana Roque (relatora), Helena Delgado António, Luís Barroso, Carlos Lobo,
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

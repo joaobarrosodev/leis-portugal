@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HPP ALGARVE, S. A. - Ex - HOSPITAIS PRIVADOS DE PORTUGAL - HPP SUL, SA (LAGOS)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,26 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:47:37Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 954/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21963](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21963).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo N.º 1678/2006 e 9704/2008
+AUTORIZAÇÃO Nº959 12010
+PEDIDO
+A Hospitais Privados de Portugal - HHP SUL, SA notificou à Comissão Nacional de protecção de
+Dados (CNPD) um tratamento de dados pessoais com a finalidade de "Gestão dos seus clientes, facturação e prescrição electrónica dos medicamentos".
+Declara as seguintes categorias de dados pessoais: Nome, data do nascimento, sexo, morada, contactos, números de identificação civil, fiscal e de segurança social, dados de saúde.
+ANÁLISE
+Analisado o processo verifica-se que:
+O tratamento processa informação sobre identificação e dados de saúde para efeitos de diagnóstico médico e de prestação de cuidados de saúde.
+Embora seja proibido o tratamento de dados pessoais relativos à saúde (cf. artigo 7.° - 1 da Lei 67/98, de 26 de Outubro), admite-se o seu tratamento quando ele for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou de gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional de saúde e sejam garantidas medidas adequadas de segurança da informação (cf.
+artigo 7.° - 4 da Lei n.° 67/98, de 26 de Outubro). A notificante tem entre o seu objecto também o da prestação de cuidados de saúde pelo que tem legitimidade para efectuar este tratamento de dados pessoais.
+A informação tratada é recolhida de forma licita, para finalidades determinadas, explícitas e legítimas e adequados, pertinentes e não excessivos para a finalidade (cf. artigo 5.°, n.º1 - a), b)
+e c) da Lei 67/98, de 26 de Outubro).
+Aos titulares dos dados deve ser assegurado o direito de Informação previsto no artigo 10° da
+Lei 67/98, de 26 de Outubro.

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MODELO CONTINENTE HIPERMERCADOS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:48:03Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 929/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21912](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21912).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 6629/09 929
+AUTORIZAÇÃO N.º /2010
+Modelo Continente Hipermercados S.A. veio notificar o tratamento relativo à gestão de processo de clientes atendidos por nutricionistas nas suas Lojas, no âmbito da realização de consultas de nutricionismo, complementadas pelo aconselhamento de dietas alimentares.
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto, e dados de saúde, os quais se reportam aos seguintes pontos:
+tensão arterial, hábitos alimentares, dieta.
+2. De acordo com a informação constante do quadro 11, foram adoptadas as seguintes medidas de segurança: o acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password». Existe ainda um acesso restrito de pessoas.
+Os dados de saúde deverão estar separados logicamente dos dados de identificação, nos termos do artigo 15°, n° 3, da Lei n° 67/98.
+3. Os titulares dos dados dão o seu consentimento expresso e informado, em campo próprio do formulário de recolha de dados, nos termos do artigo 7.°, n.º 2, da Lei 67/98, de 26 de Outubro.
+Considera-se legítimo o tratamento nos termos do artigo 7.°, n.º 2, da Lei 67/98, de 26 de Outubro.
+Em face do exposto, autoriza-se o tratamento de dados por parte da
+Requerente (cf. artigo 27.° e 28.° da Lei 67/98) consignando-se, nos termos do artigo 30.°, o seguinte:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS 1. Responsável: Modelo Continente Hipermercados S.A.
+2. Categorias de dados pessoais tratados: dados de identificação, dados de contacto, e dados de saúde, os quais se reportam aos seguintes pontos:
+tensão arterial, hábitos alimentares, dieta.
+3. Finalidade: gestão de processo de clientes das consultas de nutricionismo 5. Forma de exercício do direito de acesso e rectificação: Por solicitação do utente junto do responsável.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação: Os dados são conservados por 2 anos, contados após a última actualização.
+Lisboa/8 Março de 2010.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

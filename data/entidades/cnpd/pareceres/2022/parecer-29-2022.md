@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 29/2022
-official_date: null
+official_date: '2022-03-28'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Ministério da Saúde'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,29 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:52:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 29/2022
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121973](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121973).
+PAR/2022/19 1
+Г
+CNPD
+Comissão Nacional de Proteção de Dados
+PARECER/2022/29
+I. Pedido 1. A Diretora-Geral de Saúde (DGS) solicitou à Comissão Nacional de Proteção de Dados (CNPD) a emissão de parecer sobre o novo projeto de modelo de atestado médico de incapacidade multiuso (AMIM) para os efeitos da Lei n.° 14/2021, de 6 de abril.
+2. A CNPD emite parecer no âmbito das suas atribuições e competências, enquanto autoridade administrativa independente com poderes de autoridade para o controlo dos tratamentos de dados pessoais, conferidos pela alínea c) do n.º 1 do artigo 57.°, a alínea b) do n.º 3 do artigo 58.° e n.° 4 do artigo 36.°, do Regulamento (UE)
+2016/679, de 27 de abril de 2016 - Regulamento Geral sobre a Proteção de Dados (doravante RGPD), em conjugação com o disposto no artigo 3.°, no n.º 2 do artigo 4.° e na alínea a) do n.° 1 do artigo 6.°, todos da Lei n.° 58/2019, de 8 de agosto, que executa na ordem jurídica interna o RGPD.
+II. Análise 3. Do modelo de atestado médico de incapacidade multiuso (AMIM), agora apresentado, constam os dados de identificação do Utente e os dados relativos à avaliação da incapacidade, previamente preenchida com a percentagem de incapacidade determinada pela Lei n.º 14/2021, de 6 de abril, bem como a indicação do ano de reavaliação da incapacidade.
+4. Em causa estão, pois, dados pessoais - portanto, informação relacionada com a saúde de pessoa singular identificada, nos termos da alínea 1) do artigo 4.° do Regulamento (UE) 2016/679, de 27 de abril de 2016 (Regulamento Geral sobre a Proteção de Dados - RGPD) -, que integram a categoria de dados especialmente protegidos pelo n.º 1 do artigo 9.° do RGPD.
+5. O tratamento destes dados assenta diretamente na Lei n.° 14/2021, de 6 de abril, a qual prevê o regime transitório para a emissão de atestado médico de incapacidade multiuso para os doentes oncológicos, bem como no Decreto-Lei n.° 202/96, de 23 de outubro, alterado e republicado pelo Decreto-Lei n.° 291/2009, de 12 de outubro (máxime, no n.° 2 do artigo 4.°), e visa atestar, de modo eficiente e eficaz, uma específica condição de saúde perante entidades administrativas para obtenção, pelo respetivo titular dos dados, de determinados benefícios sociais, económicos e fiscais, nos termos legais.
+6. Os dados pessoais objeto de tratamento afiguram-se adequados e necessários para a prossecução das finalidades visadas com a emissão do referido atestado, em obediência aos princípios da licitude e da minimização dos dados pessoais, consagrados nas alíneas b) e c) do n.º 1 do artigo 5.° do RGPD.
+Av. D. Carlos I, 134, 1° 1200-651 Lisboa
+T (+351) 213 928 400
+F (+351) 213 976 832 geral@cnpd.pt www.cnpd.pt
+
+PAR/2022/19 1v.
+III. Conclusão 7. Nestes termos, a CNPD entende que o modelo de atestado médico em apreço respeita os princípios de proteção de dados consagrados no RGPD.
+Lisboa, 28 de março de 2022
+Filipa Calvão (Presidente, que relatou)

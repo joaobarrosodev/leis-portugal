@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AdP - Águas de Portugal Serviços Ambientais, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T21:43:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3532/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63796](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63796).
+Processo n° 3935/2014 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 3532/2014
+AdP - Aguas de Portugal Serviços Ambientais, S.A., veio notificar à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão da informação dos Serviços de Medicina no Trabalho.
+A entidade encarregue do processamento da informação é Sagies - Segurança,
+Higiene e Saúde no Trabalho, SA, com a qual a responsável pelo tratamento celebrará o contrato previsto no artigo 14.° da Lei n.º 67/98, de 26 de outubro.
+A CNPD já se pronunciou na sua Deliberação n.º 840/20101 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei de Protecção de Dados (LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela Deliberação n.° 840/2010.
+Os dados recolhidos são necessários e pertinentes para a finalidade declarada (cf.
+artigo 5° da LPD).
+O fundamento de legitimidade é - nos termos do n.º 2 do artigo 7° da LPD - a Lei, consubstanciada nos artigos 281° a 284° do Código do Trabalho e na Lei n.º 102/2009, de 10 de Setembro.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos n.º 2 do artigo 7.°, alínea a), do n.º1 do artigo 28° e artigo 30° da Lei n.º 67/98, de 26 de outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam o presente instrumento de legalização, autoriza-se o tratamento notificado nos seguintes termos:
+Responsável pelo tratamento: AdP - Águas de Portugal Serviços Ambientais, S.A.
+1 Disponível em http://www.cnpd.pt/bin/orientacoes/DEL 840_2010_MED_trabalho actualizada.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 3935/2014 | 2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Finalidade: Gestão da informação dos Serviços de Medicina no Trabalho
+Categoria de dados pessoais tratados: Dados de identificação, dados de saúde, dados relativos atividade profissional, dados sobre riscos de doença profissional e dados sobre doenças profissionais
+Comunicação de Dados: Sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Autoridade de Condições de Trabalho (cf. n.º2 do artigo 109° da Lei n.º 102/2009, de 10 de Setembro)
+O empregador apenas deverá ser informado dos resultados necessários à tomada de decisão em matéria de emprego, através da "ficha de aptidão".
+Forma de exercício do direito de acesso e retificação: O direito de acesso deverá ser exercido, nos termos do n° 5 do artigo 11° da Lei ° 67/98, de 26 de outubro, isto é, por intermédio de médico escolhido pelo titular dos dados, que pode ser, a solicitação do trabalhador, o médico do trabalho e no exercício do direito de retificação deste tipo de dados, deverá o trabalhador exercê-lo diretamente junto do médico do trabalho ou de profissional de saúde sujeito a segredo profissional, uma vez que o conhecimento destes dados está limitado a estas pessoas
+Interconexões: Não se verificam
+Fluxo transfronteiriço de dados: Não há
+Prazo Máximo de Conservação dos dados: Os dados pessoais podem ser conservados pelo período máximo de cinco anos após a cessação do vínculo.
+No caso dos registos de dados dos trabalhadores estarem em situação suscetível de implicar risco para o património genético, o prazo de conservação é de 40 anos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n° 3935/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Dos termos e condições fixados na Deliberação n.º 840/2010 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve igualmente dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 1 le Abril de 2014
+Helena Delgado António (relatora), Ana Roque, Luís Paiva de Andrade, Maria Cândida
+Guedes de Oliveira
+Oeira One
+Luis Barroso (vogal, em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

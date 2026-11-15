@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Centro Social e Cultural Nossa Senhora do Ó de Aguim'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,95 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T00:20:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4574/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54924](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/54924).
+Proc. 4783/12/1 p
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 4783/12
+AUTORIZAÇÃO N.º 45) (12013
+Pedido
+Centro social e Cultural Nossa Senhora do Ó de Aguim veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas na Rua das
+Escolas, n.º47
+A entidade declara que não existe Comissão de Trabalhadores.
+Pretende-se colocar 4 câmaras que abrangem as seguintes áreas: traseiras do edifício (nascente), recreio das crianças (sul), porta principal do edifício e parque de estacionamento (poente).
+Há visualização de imagens em tempo real.
+Há transmissão de imagens para o exterior das instalações.
+Na sequência desse pedido, a Comissão Nacional de Proteção de Dados (CNPD) elaborou o projeto de autorização de 21 de maio de 2013, no sentido de não autorizar a recolha de imagens nas zonas de recreio das crianças, tendo sido a entidade requerente notificada do referido projeto, através do n/ofício n.° 11855 de 24 de maio de 2013, nos termos e para os efeitos do disposto no artigo 100.° do Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos concordar com a generalidade do projeto. Informou no entanto que, a câmara n.º2 cobre apenas parcialmente aquele espaço, visto que a sua finalidade é a cobertura da zona da lavandaria, garagem e o respetivo estacionamento.
+Análise
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 1
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 1783/12 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Através da deliberação n° 61/2004, de 19 de abril('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação dar condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspetos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1, alínea c), da Lei 67/98, de 26 de outubro - LPD), condições de legitimidade (artigos 7.° e 8.°, n.º 2 da LPD), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efetivamente, admite-se que sejam utilizados estes meios de prevenção na área abrangida com vista à proteção de pessoas e bens no edifício. Trata-se da colocação de sistemas de recolha de imagem em zonas de circulação de pessoas.
+Em termos de proporcionalidade justifica-se a utilização de sistemas de videovigilância, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que corresponde a um interesse público relevante. O tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «proteção de pessoas e bens».
+No entanto, em face da finalidade, afigura-se-nos que o tratamento se apresenta parcialmente como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 alínea c), da LPD).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de atos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infração.
+() Disponível in http://www.cnpd.pt/orientacoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 4783/12 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, a CNPD não autoriza a recolha de imagens na zona de recreio das crianças, por considerar que tal captação permite uma intromissão desproporcionada na liberdade de movimentação e mesmo na privacidade das crianças e adultos. Contudo, ressalva-se a possibilidade de captação de imagens na zona supra referida após o horário normal de funcionamento do Centro, isto é, em horário noturno.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a atividade laboral (cf. artigo 20.° do Código do Trabalho).
+Face ao exposto e do alegado pela requerente, a entidade requerente veio aceitar na generalidade as condições impostas pela CNPD no projeto em apreço.
+No entanto, considerando que a câmara n.º2 cobre apenas parcialmente aquele espaço, visto que a sua finalidade é a cobertura da zona da lavandaria, garagem e o respetivo estacionamento, a CNPD admite que a mesma recolha imagens no horário de funcionamento do Centro, na condição de a câmara não incidir sobre a zona de recreio das crianças.
+Conclusões
+A CNPD considera, por isso, legítimo o tratamento e pretende autorizar parcialmente, a recolha de dados (artigo 7.°, n.º 2 e 28.°, n.° 1, alínea a), da LPD)
+- devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Centro social e Cultural Nossa Senhora do Ó de Aguim.
+2. Finalidade - Proteção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detetada a prática de infração penal, a entidade responsável pelo tratamento
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 3
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 4783/12 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS deve - com a respetiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização das imagens pelo responsável - Admite-se, excecionalmente, a visualização das imagens quando - não havendo qualquer infração penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da LPD.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem nos termos do disposto no artigo 31.°, n.º5, da Lei n.° 34/2013, de 16 de maio.
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros.
+7. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça
+- é aplicável ao exercício do direito de acesso o disposto no artigo 11.°, n.º 2, da LPD (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+8. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+9. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir regularmente sobre estes durante a atividade laboral (cf. artigo 20.° do Código do Trabalho).
+10. A recolha de imagens deve confinar-se aos espaços interiores do Centro e não pode envolver a recolha de imagens na via pública.
+11. Não se autoriza a recolha de imagens na zona de recreio das crianças, já que, tal permite uma intromissão desproporcionada na liberdade de movimentação e mesmo na privacidade das crianças. Contudo, ressalva-se a possibilidade de captação de imagens através da câmara n.°2 desde que a mesma apenas incidia nas áreas que pretende proteger (zona da lavandaria, garagem e respetivo parqueamento), sem captar imagens dos momentos de lazer das crianças no recreio.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 4
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. 4783/12 5
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 1 8 junho de 2013
+Vasco Almeida, Luís Barroso (Relator), Carlos Lobo, Ana Roque sale
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 5
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

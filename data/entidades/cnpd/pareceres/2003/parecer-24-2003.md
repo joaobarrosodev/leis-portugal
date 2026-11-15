@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO SECRETÁRIO DE ESTADO ADJUNTO DO MINISTRO DA JUSTIÇA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,69 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:28:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 24/2003
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5984](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5984).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 1446/03
+PARECER N° 24/03 1-
+A Presidência do Conselho de Ministros, através do Gabinete do Secretário de Estado Adjunto do Ministro da Presidência, solicita o Parecer desta CNPD, com a
+*máxima urgência... se possível, num prazo não excedente a 7 dias", relativamente a um tratamento de dados pessoais que visa facilitar o trabalho administrativo de processamento e tratamento dos dados referentes aos cidadãos brasileiros que estejam em condições de beneficiar do" Acordo celebrado entre a República Portuguesa e a
+República Federativa do Brasil sobre Contratação Recíproca de Nacionais, celebrado em 11 do corrente mês de Julho.
+De acordo com a documentação junta aos autos, parece inferir-se que o tratamento a implementar visa o "recenseamento prévio" dos cidadãos brasileiros que se candidatem à regularização da sua permanência no território português, de acordo com as formalidades legalmente previstas.
+O mesmo parece ser levado a cabo através dos serviços do Alto-Comissariado para a Imigração e Minorias Etnicas, apenas "para facilitar a instrução dos processos e evitar aos imigrantes longas esperas nos diversos serviços administrativos envolvidos", após o que os respectivos dados serão enviados, em suporte informático, ao Serviço de
+Estrangeiros e Fronteiras para a competente tramitação e decisão legal.
+Esclarece-se também que o referido recenseamento prévio e, consequentemente, o fornecimento dos competentes dados pessoais, é voluntário, não adquirindo, quem o fizer, qualquer direito, nem quem nele não participar ficará inibido do mesmo, tudo visando tão só a maior celeridade na conclusão do processo respectivo.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Todo este processo poderá ser divulgado quer através da publicação de anúncios na imprensa, quer através da intermediação das associações de emigrantes.
+2-
+Os dados a tratar são "o nome, a morada, o número do passaporte, a data da entrada em Portugal e, caso seja aplicável, o local de trabalho", recolhidos através do impresso de "Registo Prévio para a Concessão de Vistos a Imigrantes Brasileiros" junto aos autos.
+Cumpre então apreciar.
+3-
+O presente pedido de parecer, se bem que, na sua essência, de todo esclarecedor, peca por uma clara deficiência quer na sua substância, quer na sua forma, já que, inequivocamente, não cumpre o expressamente previsto no Art° 29° da Lei 67/98, de 26/10.
+Em bom rigor, e presentes que são os Art°s 22° n° 2 e 23° n° 1 al. a) deste mesmo diploma legal, justificado estaria no entanto apenas e se o tratamento a implementar fosse objecto de regulação através de qualquer diploma legal, o que não nos parece ser o caso.
+Nada impede, contudo, a emissão do mesmo, eventualmente e com algum esforço interpretativo, tendo em conta o expressamente disposto nos Art° 22° n°s 1 e 3 al. c) seguinte.
+Assim sendo, diríamos fundamentalmente que :
+3.1- Estamos perante um tratamento de dados pessoais não sensíveis, caracterizado pela sua transitoriedade, uma vez que, como se disse, visa apenas agilizar o processo legal de concessão de vistos a emigrantes brasileiros ;
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3.2- Daí que o responsável pelo mesmo seja o Serviço de Estrangeiros e
+Fronteiras, entidade legalmente competente para o efeito nos termos do disposto no
+Dec. Lei 244/98, de 8/08 - vd Art° 3° al. d) da Lei 67/98 ;
+3.3- Funcionando, em bom rigor, o Alto-Comissariado para a Imigração e
+Minorias Étnicas - atenta a sua atribuição p. no Art° 2° al. g) do Dec.Lei 251/02, de 22/11 - como "subcontratante", nos termos definidos pela al. e) do citado Art° 3° ;
+3.4- A finalidade do tratamento em causa é, como se disse, a agilização do processo administrativo prévio àquele processo de concessão de vistos ;
+3.5- Pelo que, uma vez concluído este processo agilizador, todos os dados pessoais recolhidos no âmbito deste tratamento prévio, uma vez incorporados naquele processo legal, se tornarão eventualmente, desnecessários, devendo, por isso, ser eliminados - vd Art° 5° n° 1 al. e) da Lei 67/98 ;
+3.6- Deverá ter-se finalmente em conta que o impresso de recolha dos dados relativo ao "registo prévio" junto aos autos, deverá cumprir também o disposto no Art° 10° n° 2 seguinte.
+Face a todo o deixado exposto, DELIBERA esta CNPD emitir parecer favorável à implementação do tratamento em causa, desde que o SEF proceda, desde já, à notificação do mesmo a esta CNPD nos termos do disposto no Art° 27º da Lei 67/98, devendo ter em conta todo o supra referenciado.
+*
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+4
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Notifique, enviando-se desde já o competente impresso para a notificação referida.
+***
+Lx*, 31/07/03
+Mário Varges Gomes
+Amadeu Guerra
+Luís Durão Barroso
+Alexandre Pinheiro
+Luís Silveira
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

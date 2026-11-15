@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 32/1997
-official_date: null
+official_date: '1997-05-15'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PORTUGAL TELECOM, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:13:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 32/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11046](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11046).
+Pe50-468195
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+AUTORIZAÇÃO N° 32/ 97
+A Portugal Telecom requer autorização para a manutenção de um ficheiro informático destinado a permitir o acompanhamento dos processos disciplinares promovidos pela empresa contra os seus funcionários.
+Dado inserir informação relativa a eventuais suspeitas de actividades ilícitas, o presente processo é de Autorização.
+Assim, a Comissão delibera :
+Autorizar, nos termos do artigo 8° n° 1 alínea b) e 17° n° 2 da lei n°10/91, na redacção introduzida pela lei n°28/94, a manutenção do ficheiro de acompanhamento de processos disciplinares da Portugal Telecom, nas seguintes condições:
+1. Responsável: Portugal Telecom
+Av. Fontes Pereira de Melo, 40 Lisboa 2. Características: Sistema Departamental, isolado.
+3. Finalidade : acompanhamento dos processos disciplinares.
+4. Serviços encarregados do processamento da informação: Gabinete Jurídico e de Contencioso.
+5. Dados pessoais registados : nome, n° de empregado, morada, bilhete de identidade. Identificação de processos disciplinares promovidos pela empresa
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS 6. Fundamento da recolha de dados:
+Consentimento do titular. Obrigação legal e contratual 7. Recolha Indirecta : no processo jurídico.
+8. Forma de actualização dos dados: no processo jurídico.
+9. Não há comunicação de dados.
+10. Não há relacionamento da informação.
+11. Não há fluxos transfronteiras de dados.
+12. Medidas de segurança: cópias de back-up, acesso restrito, sistema de processamento de backup, password de acesso, sistema de alarme e resposta.
+13. Tempo de conservação: dependente do processo. Não devem ser conservados dados, sempre que houver decisão definitiva que dê como não provados os factos que originaram o procedimento.
+14. Pessoas com acesso directo à informação:
+- inspectores e o secretariado de apoio.
+15. Formas e condições de acesso e rectificação por parte das pessoas : a pedido do próprio, junto do Gabinete Jurídico e de Contencioso.
+Lisboa, 15 de Maio de 1997 r Alfer 1.
+João Alfredo M. Labescat da Silva
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS eden
+Amadeu F. Ribeiro Guerra
+Luis José Durão Barroso
+Marto Manuel Varges Gomes atore
+Nuno Albuquerque Morais Sarmento
+Joaquim Seabra Lopes
+Augusto Victor Coelho( Presidente)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Direcção-Geral do Desenvolvimento Regional'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,34 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 73/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1010](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1010).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 883/07
+Registo +3 108
+A Direcção Geral de Desenvolvimento Regional notificou um tratamento de dados que tem por finalidade a gestão dos utilizadores do Sistema de Informação dos
+Fundos Estruturais e de Coesão.
+São recolhidos os seguintes dados: Username, nome, BI, morada, e-mail, telefone, fax, departamento, perfil, modo de acesso, programa operacional
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos da alínea b) do artigo 6° da LPD, o cumprimento de obrigação legal.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Direcção Geral de Desenvolvimento Regional
+Categoria de dados pessoais tratados - Username, nome, BI, morada, e-mail, telefone, fax, departamento, perfil, modo de acesso, programa operacional
+Finalidade - gestão dos utilizadores do Sistema de Informação dos Fundos
+Estruturais e de Coesão.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável.
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 11 de Fevereiro de 08
+A Secretária da CNPD
+ло
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

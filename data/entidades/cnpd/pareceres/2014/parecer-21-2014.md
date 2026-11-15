@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Direcção Geral da Saúde'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:03:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 21/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63782](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/63782).
+Proc. 4693/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+PARECER N.° 2 1 12014
+Do Pedido
+A Direcção-Geral de Saúde (DGS) solicita, de novo, a emissão de parecer sobre o projeto de protocolo a celebrar entre a Direção-Geral da Saúde (DGS) e o Instituto dos
+Registos e do Notariado, I.P. (I.P.), relativa à transmissão da informação do Sistema de Informação de Certificados de Óbito (SICO), tendo em vista a correção de insuficiências identificadas durante o período experimental do SICO, garantindo, assim, o seu adequado funcionamento.
+A Comissão Nacional de Proteção de Dados (CNPD) emite parecer nos termos e para os efeitos do disposto no artigo 7°, n.º 3 da Lei n.º 15/2012, de 3 de abril.
+Da Apreciação
+O Diretor-geral da Saúde é a entidade responsável pelo tratamento da base de dados que suporta o Sistema de Informação dos Certificados de Óbito (SICO), instituído pela
+Lei n.° 15/2012, de 3 de abril.
+De acordo com o preâmbulo do protocolo agora remetido, o período experimental do
+SICO «(...) evidenciou necessidades não identificadas previamente à sua utilização no
+Protocolo celebrado a 15 de Novembro de 2012 (Parecer n.º 73/2012 da Comissão
+Nacional de Proteção de Dados)».
+Neste sentido, a DGS pretende ver alargada a categoria de dados relativos ao assento de óbito e ao falecido que devem ser retornados pelo IRN, I.P., tendo em vista a confirmação de que os dados do falecido enviados pela DGS ao IRN e, depois, por este retornados aquela, dizem respeito à mesma pessoa e não a pessoa distinta.
+Para que tal seja possível consideram os seguintes dados como necessários para atingir a referida finalidade: nome e filiação, a residência (freguesia, concelho, distrito e país), número de identificação civil, estado civil, naturalidade, nacionalidade, data e local do óbito, data de nascimento e sexo.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc: 4693/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Atendendo à finalidade do tratamento e aos motivos invocados, a CNPD considera que os dados se mostram adequados, pertinentes e necessários e, só desta forma, se consegue assegurar o princípio da qualidade dos dados do SICO, consagrado no artigo 5° da Lei de Proteção de Dados.
+Este é o nosso parecer.
+Lisboa, O 1 de AGilde 2014
+Ana Roque (relatora), Helena Delgado António, Luis Paiva de Andrade e Maria
+Cândida Guedes de Oliveira
+Luis Barroso (O Vogal, em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

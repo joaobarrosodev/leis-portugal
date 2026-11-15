@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 5760/2016
-official_date: null
+official_date: '2016-06-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CAIXA GERAL DE DEPÓSITOS, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T13:54:56Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5760/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/91866](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/91866).
+Processo n.° 5420/2016 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 5760/2016
+Caixa Geral de Depósitos, S.A., notificou à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados relativo à operação de cessão de créditos tendo como cessionária a empresa Magnetiregra - Unipessoal, Lda.
+Nos termos do contrato promessa de cessão de créditos de que está junta minuta ao processo, após a obtenção das autorizações das autoridades reguladoras, a
+Magnetiregra - Unipessoal, Lda, irá ceder a sua posição contratual à Hefesto STC, S.A., na parte relativa à cessão dos empréstimos.
+A referida transação envolve uma transmissão de dados pessoais do mutuário e do garante - nome, ano de nascimento, nacionalidade, país de residência fiscal, morada, profissão, NIF, operações de crédito, tipo de crédito, data do contrato, montante, prazo e taxa de juro, data do início do incumprimento, taxa de mora e valores em dívida, colaterais (imóveis hipotecados), identificação do bem (descrição predial e matriz), tipologia do imóvel, morada, ano de construção, áreas, datas e valores de avaliação (inicial e a mais recente), ações judiciais, identificação do processo judicial, n.º do processo, tipo de processo, comarca, montante peticionado, data e identificação da última diligência e créditos preferentes.
+A cedência de dados é feita no âmbito de um contrato, nos termos do artigo 577.° do
+Código Civil (CC). Por força do n.º1 do referido artigo 577° a cessão de crédito é admissível independentemente de consentimento do devedor.
+A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros direitos acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.° 1 do artigo 582.° do CC)
+Os dados objeto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no artigo 78.° do DL 298/92, de 31 de Dezembro. Enquadram-se, por isso, no conceito de vida privada do n.º 1 do artigo 7.° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto (LPD).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 5420/2016 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade é a disposição legal prevista no n.° 2 do artigo 7.° da
+LPD.
+O responsavel deverá assegurar que o titular obteve as informações previstas no artigo 10.° da LPD, designadamente que a cessionária é destinatária da informação e a finalidade da comunicação. Deve, de igual modo, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas. Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização de auditorias internas e externas. Devem, também, ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direção, a outros técnicos obrigados a segredo profissional. No que diz respeito aos dados contidos em suporte de papel, devem ser adotadas medidas, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos dos artigos 7.° n.º 2, alínea b) do n.° 1 do artigo 23.° e alínea b) do n.º1 do artigo 28.°, todos da Lei n.º 67/98, de 26 de outubro, alterada pela
+Lei n.º 103/2015, de 24 de agosto, a Comissão Nacional de Protecção de Dados autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da LPD, o seguinte:
+Responsável: Caixa Geral de Depósitos, S.A.
+Finalidade: Cessão de créditos
+Categorias de dados pessoais tratados: nome, ano de nascimento, nacionalidade, país de residência fiscal, morada, profissão, NIF, operações de crédito, tipo de crédito, data do contrato, montante, prazo e taxa de juro, data do início do incumprimento, taxa de mora e valores em dívida, colaterais (imóveis hipotecados), identificação do bem (descrição predial e matriz), tipologia do imóvel, morada, ano de construção, áreas, datas e valores de avaliação (inicial e a mais recente), ações judiciais, identificação do
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 5420/2016 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS processo judicial, n.º do processo, tipo de processo, comarca, montante peticionado, data e identificação da última diligência e créditos preferentes
+Entidade a quem são comunicados: Magnetiregra - Unipessoal, Lda
+Forma de exercício do direito de acesso e retificação: presencialmente ou por escrito na
+Avenida João XXI, 63, Lisboa
+Eventuais interconexões: não aplicável
+Transferência de dados para países terceiros: não aplicável
+Prazo de conservação dos dados: 10 anos após o contrato de cessão.
+Lisboa, 14 de Junho de 2016
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4/1999
-official_date: null
+official_date: '1999-02-09'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INVEST - GESTÃO DE ACTIVOS, SGFIM, S.A. (EX-BANCO INVEST)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:10:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4/1999
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10493](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10493).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 10/99
+AUTORIZAÇÃO N.°4/99
+O Banco Alves Ribeiro, SA veio legalizar os seus tratamento automatizados.
+Informa que o Banco «não elege como objectivo prioritário a intervenção na área do crédito e, nomeadamente, no segmento dos particulares».
+Por outro lado, «não constitui estratégia de actuação o desenvolvimento de depósitos à ordem, a emissão ou a simples gestão de cartões de débito ou crédito nem a concessão de crédito pessoal ou de consumo».
+A sua prossecução centra-se na «actividade de intermediação financeira» dirigida primordialmente a «operações de crédito de raiz imobiliária», assumindo operações tituladas «por pessoas singulares, sobretudo empresários em nome individual ou profissionais independentes».
+Estando em causa a «avaliação de riscos de crédito» e operações «relativas a crédito e à solvabilidade dos titulares», o tratamento de dados está sujeito a autorização da
+CNPD (cf. art. 28.° n.º 1 al. b) da Lei 67/98, de 26 de Outubro).
+Não consta do pedido que sejam tratados dados relativos a suspeita de actividades ilícitas (branqueamento de capitais, contumácia ou cheques sem provisão) ou condenações em processo crime. Não será autorizado, por isso, o seu processamento uma vez que não é requerido.
+Assim, autoriza-se a manutenção do ficheiro, nos termos comunicados consignando-se a seguinte informação nos termos do artigo 30.° da Lei 67/98:
+1. Responsável do ficheiro: Banco Alves Ribeiro, SA.
+2. Categorias de dados tratados: São tratados dados de identificação pessoal, dados necessários à avaliação de risco e tomada de decisão (situação económica e patrimonial, dados objectivos sobre responsabilidade titulada pelos proponentes ou garantes junto de instituições de crédito e dados subjectivos sobre conceitos de natureza comercial existentes - estes últimos são recolhidos com conhecimento do
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS titular nos termos da clª 13ª do contrato), nos termos detalhados no impresso de recolha de dados.
+3. Finalidades a que se destinam os dados: Para a constituição do ficheiro de clientes, gestão de operações e eventuais promoções. Organização e avaliação de riscos de crédito.
+4. Categorias de entidades a quem podem ser transmitidos: Banco de Portugal,
+Associação Portuguesa de Empresas de Leasing (riscos de crédito).
+5. Forma de exercício do direito de acesso e rectificação: por solicitação escrita.
+6. Interconexões: não há.
+7. Fluxos transfronteiras: não há.
+Lisboa, 9 de Fevereiro de 1999
+Ariden
+Amadeu Francisco Ribeiro Guerra (relator)
+Joaquim de Seabra Loj uno Morais Sarmento
+Luís José Durão Barroso
+João Alfredo M. Labescat da Silva
+Mário Manuel Varges Gomes
+Augusto Victor Coelho (Presidente)
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: (01) 392 84 00 Fax: (01) 397 68 32
+E-mail: geral@ cnpd.pt
+Internet: http://www.cnpd.pt

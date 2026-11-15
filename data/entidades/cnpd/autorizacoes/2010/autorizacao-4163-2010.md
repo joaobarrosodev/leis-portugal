@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AMGEN - BIOFARMACÊUTICA LDA.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:55:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4163/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/25300](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/25300).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 7742/2010
+AUTORIZAÇÃO N.º 4163 12010
+A AMGEN - Biofarmacêutica, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo para avaliar a adesão e persistência à terapêutica oral com bifosfonatos.
+A entidade encarregue do processamento da informação é a INFOSAÙDE - Instituto de Formação e Inovação em Saúde, Unipessoal, Lda / CEFAR - Centro de Estudos e
+Avaliação em Saúde.
+A recolha de dados será efectuada através do preenchimento de um questionário aplicado pelo farmacêutico onde é adquirido o medicamento e posterior contacto telefónico para aferir o cumprimento do esquema da sua administração. O questionário depois de preenchido será enviado para os investigadores do CEFAR que farão o contacto telefónico.
+No momento do preenchimento do inquérito é obtido o consentimento informado do titular para a participação no estudo. O documento do consentimento é igualmente remetido aos investigadores do CEFAR.
+Serão recolhidos o nome e número de telefone do titular, para possibilitar o contacto posterior. Estes dados serão mantidos num ficheiro separado e atribuído um código do titular que constará no inquérito e que permitirá o relacionamento do inquérito inicial com as respostas ao contacto telefónico posterior.
+Serão registados os seguintes dados: código da farmácia, código do doente, data de aquisição da primeira embalagem, caracterização sócio-demográfica (sexo, data de nascimento, nível de escolaridade, freguesia e concelho de residência, se pratica exercício físico, se vive sozinha, se está empregada, n.º de elementos do agregado familiar, rendimento mensal líquido por escalões, frequência com que vai ao médico),
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h 1
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS diagnóstico de osteoporose, densidade mineral óssea, menopausa, fracturas de ossos, doença crónica, terapêutica com bifosfonatos, terapêuticas concomitantes, data da entrevista telefónica, parou a medicação, motivo, efeitos adversos, quantas embalagens do bifosfonato adquiriu na última visita à farmácia.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: AMGEN - Biofarmacêutica, Lda
+Finalidade: estudo para avaliar a adesão e persistência à terapêutica oral com bitosfonatos.
+Categoria de Dados pessoais tratados: código da farmácia, código do doente, data de aquisição da primeira embalagem, caracterização sócio-demográfica (sexo, data de nascimento, nível de escolaridade, freguesia e concelho de residência, se pratica exercício fisico, se vive sozinha, se está empregada, n.º de elementos do agregado familiar, rendimento mensal líquido por escalões, frequência com que vai ao médico), diagnóstico de osteoporose, densidade mineral óssea, menopausa, fracturas de
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213 976 832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS ossos, doença crónica, terapêutica com bifosfonatos, terapêuticas concomitantes, data da entrevista telefónica, parou a medicação, motivo, efeitos adversos, quantas embalagens do bifosfonato adquiriu na última visita à farmácia.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do responsável pelo tratamento.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: os dados de identificação do titular (nome telefone e o código) devem ser destruídos um mês após fim do estudo.
+Dos termos e condições fixados na Deliberação n.º2271 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, (&de Novembro de 2010
+Ana Roque, Luís Paiva de Andrade (Relator), Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luis Barroso
+Sies
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SERVIER PORTUGAL, ESPECIALIDADES FARMACÊUTICAS, LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,56 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:39:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3516/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18309](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18309).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 6205/2009
+AUTORIZAÇÃO N. ° 3516/09
+A Servier Portugal - Especialidades Farmacêuticas Lda veio notificar à CNPD um tratamento de dados pessoais com a finalidade de gestão do ensaio clínico em doentes com doença de Alzheimer (Protocolo CL2-38093-009).
+Trata-se de um «estudo de fase II, internacional, multicêntrico, aleatorizado, em dupla ocultação, controlado com placebo..» que tem como objectivo «avaliar segurança do
+S38093, comparativamente com placebo, em doentes com Doença de Alzheimer..».
+A entidade encarregue do processamento da informação é a
+I.R.I.S. Institut de Recherches Internationales Servier.
+Entre o responsável pelo tratamento e o subcontratante deve existir um contrato ou acto jurídico que vincule este último ao responsável pelo tratamento (cf. n.º3, do artigo 14. ° da LPD).
+As categorias de dados recolhidos são as seguintes: n.' específico do estudo e iniciais do doente, data de nascimento, sexo, raça, escolaridade, história médica e cirúrgica, eventos adversos, exame físico, sinais vitais,
+E.C.G., testes laboratoriais, consumo de álcool, tratamentos concomitantes e nome do investigador.
+A recolha do dado raça é «essencial devido à necessidade de provar que os resultados obtidos são válidos independentemente da origem étnica do doente e por isso transponíveis para outros grupos populacionais».
+Rua de São Rento 148.2° • 1200.821 1 IcRO1
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O doente será identificado apenas pelas suas iniciais e por um número específico do estudo. O registo na base de dados do promotor, será identificado com as suas iniciais e código de números. Apenas o médico poderá relacionar este código ao seu nome.
+O fundamento de legitimidade é o consentimento expresso do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.• 5.°, n.°1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. Al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.º, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento:
+Servier Portugal -
+Especialidades Farmacêuticas Lda
+Finalidade: gestão do ensaio clínico em doentes com doença de Alzheimer (Protocolo CL2-38093-009).
+Categoria de Dados Pessoais tratados: n.° específico do estudo e iniciais do doente, data de nascimento,
+_sexo,
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 30
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS raça, escolaridade, história médica e cirúrgica, eventos adversos, exame físico, sinais vitais, E.C.G., testes laboratoriais, consumo de álcool, tratamentos concomitantes e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo 1 do DL 176/2006, 30 de Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.º333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 26 Agosto de 2009
+Atens Silvia
+Luís Lingnau da Silveira (0 Presidente que o relatou)
+Rua de São Rento 148.20 • 1200.821 1 Icp01

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UNIVERSIDADE NOVA DE LISBOA - FACULDADE DE CIÊNCIAS MÉDICAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,55 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:28:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4233/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19086](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19086).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 6567/2009 4233.
+AUTORIZAÇÃO N.°
+/2009
+O Departamento de Farmacologia da Faculdade de Ciências Médicas da Universidade Nova de
+Lisboa notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo de "Detecção de metabolitos de Nevirapina e adutos de proteínas e DNA no soro de indivíduos infectados pelo VIH".
+Serão incluídos no estudo os doentes com a patologia que frequentam a consulta dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados, do qual não consta a identificação nominal do titular, sendo apenas aposto um código de doente. A chave desta codificação só pode ser conhecida do profissional de saúde participante.
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+No que concerne ao tratamento do dado raça, o responsável justifica a sua necessidade do seguinte modo: "O objectivo deste projecto de investigação é o estudo de efeitos secundários de fármacos anti-retrovirais a longo prazo e os mecanismos subjacentes a estes efeitos secundários pelo que os dados de saúde são dados imprescindíveis. A origem étnica dos indivíduos é um dado fundamental dadas as diferenças de metabolismo dos fármacos entre os
+Individuos de diferentes etnias."
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Assim, nos termos do artigo 28°, n.º1, alínea d), com as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Departamento de Farmacologia da Faculdade de Ciências
+Médicas da Universidade Nova de Lisboa.
+Finalidade: estudo de "Detecção de metabolitos de Nevirapina e adutos de proteínas e DNA no soro de indivíduos infectados pelo VIH".
+Categoria de Dados pessoais tratados: código do doente, dados demográficos (sexo, idade), dados antropométricos (peso, altura e etnia), dados clínicos (dados laboratoriais, outras doenças activas e terapêutica e efeitos adversos).
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, | 4 de Euturo de 2009
+Ana Roque, Luís Paiva de Andrade (Relator), Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt

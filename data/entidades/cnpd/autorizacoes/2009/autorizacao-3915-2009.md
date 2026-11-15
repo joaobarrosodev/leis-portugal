@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOVARTIS FARMA - PRODUTOS FARMACÊUTICOS, S.A. (EX: PRODUTOS SANDOZ, LDA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:33:30Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3915/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18710](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/18710).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 5491/2009
+AUTORIZAÇÃO N.39 15/2009
+A Novartis Farma - Produtos Farmacêuticos, SA notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo não interventivo com o objectivo de avaliar durante um período de três meses a qualidade de vida dos doentes com polineuropatia amilóide familiar transplantados hepáticos e que apresentem complicações gastrointestinais.
+A entidade encarregue do processamento é a Novexem Portugal, Lda.
+Serão incluídos no estudo os doentes com a patologia que frequentam a consulta dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em papel.
+No que diz respeito aos dados contidos em suporte de papel, devem ser adoptadas medidas organizacionais, que garantam um nivel de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do profissional de saúde participante.
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.° 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Novartis Farma - Produtos Farmacêuticos, SA
+Finalidade: estudo não interventivo com o objectivo de avaliar durante um período de três meses a qualidade de vida dos doentes com polineuropatia amilóide familiar transplantados hepáticos e que apresentem complicações gastrointestinais.
+Categoria de Dados pessoais tratados: código do doente, critérios de inclusão, critérios de dados demográficos (idade, sexo), variáveis antropométricas (altura e peso), sinais vitais (pressão arterial, temperatura e frequência cardíaca), variáveis clínicas laboratoriais (parâmetros de bioquimica e hemograma), tratamento imunossupressor, indice de qualidade de vida gastrointestinal, acontecimentos cardíacos adversos, rejeição.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 2271 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa,2 | de Setembro de 2009
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida (Relator), Helena Delgado António, Carlos
+Campos Lobo, Luís Barroso
+=>
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

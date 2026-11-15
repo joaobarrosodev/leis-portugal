@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 77/2013
-official_date: null
+official_date: '2013-10-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MINISTÉRIO DA ADMINISTRAÇÃO INTERNA -GABINETE DO MINISTRO - (MAI)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:03:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 77/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57971](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/57971).
+P. N.º 10578/13
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.° $7 12013 1. PEDIDO
+O Senhor Ministro da Administração Interna solicitou à Comissão Nacional de Protecção de Dados (CNPD) o seu parecer sobre um Anteprojeto de proposta de lei que procede à primeira alteração ao Regulamento de Disciplina da Guarda Nacional Republicana, aprovado em anexo à Lei n.º 145/99, de 1 de setembro (Anteprojecto).
+Tal parecer, porque o Anteprojecto contem matéria de proteção de dados pessoais, e por força do Artigo 23.° - 1 - a) da Lei 67/98, de 26 de outubro, é obrigatório.
+Cumpre assim emitir parecer.
+2. APRECIAÇÃO
+O Anteprojecto introduz alterações ao Regulamento de Disciplina da Guarda Nacional
+Republicana, aprovado em anexo à Lei n.º 145/99, de 1 de setembro, diploma que não foi sujeito a parecer da CNPD.
+No Anteprojecto não se suscitam específicas questões de proteção de dados, com exceção do disposto nos n.ºs 1 e 3 do artigo 36.° do Regulamento na redação dada pelo
+Anteprojeto, referente à publicação das penas disciplinares e das decisões dos respetivos recursos. Ainda que nada se tenha a dizer sobre o teor literal dos referidos preceitos, a 1
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+P. N.º 10578/13
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+CNPD apenas deixa a nota de que esta publicação não pode ser feita na internet, uma vez que a divulgação de informação pessoal desta natureza por esta via corresponderia a uma pena acessória por um período de tempo ilimitado, o que não é admissível na ordem jurídica constitucional portuguesa.
+É este o parecer da CNPD.
+Lisboa,2 de outubro de 2013
+Luís Paiva de Andrade (Relator), Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena
+Delgado António, Vasco de Almeida,
+Filipa Calvão (Presidente)
+2
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

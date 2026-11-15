@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Cooperativa de Rádio Táxis do Alto da Barra, C.R.L.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:32:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4049/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44233](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44233).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 2879/2012
+AUTORIZAÇÃO N.°
+/2012
+A Cooperativa de Rádio Táxis do Alto da Barra, C.R.L., notificou um tratamento de dados pessoais de gravações de chamadas com a finalidade de prova das transacções comerciais e quaisquer outras comunicações respeitantes a relação contratual.
+A CNPD já se pronunciou na sua Deliberação n.º 629/2010' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicaveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+De acordo com a Deliberação n.º 629/2010, os dados recolhidos são considerados adequados, pertinentes e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.1,0)
+O fundamento de legitimidade para a realização do tratamento e, relativamente aos clientes, tendo sido cumprido o dever de informação, o consentimento prévio, expresso e inequivoco do titular (n.° 1 do artigo 4° da Lei n.° 41/2004, de 18 de Agosto).
+No que respeita aos trabalhadores que intervêm na comunicação, entende a CNPD que é admissível que a entidade patronal efectue essa gravação desde que decorra do próprio contrato de trabalho, da categoria estabelecida e do respectivo conteúdo funcional. A inclusão de cláusula contratual e a assinatura de documento escrito que demonstre a prestação do direito de informação e a aceitação do trabalhador em relação à gravação, serão meios idóneos para sustentar como condição de legitimidade a execução do contrato.
+A existência de uma entidade encarregue do processamento da informação obriga a que sejam cumpridas as medidas de segurança que resultam das disposições dos artigos 14° e 15° da Lei 67/98 de 26 de Outubro.
+Alerta-se para que, nos termos do disposto no artigo 20° do Código de Trabalho e no n.º 1 do artigo 11.° do Regime do Contrato de Trabalho em Funções Públicas, as gravações de chamadas não podem servir para controlo do desempenho profissional dos trabalhadores
+Assim, autoriza-se o tratamento ao abrigo dos artigos 7.°, n.º 2, 28.° n.º 1, al. a), 29.° e 30.°, n.º 1.° da Lei 67/98, de 26 de Outubro, nos seguintes termos:
+Responsável
+Cooperativa de Rádio Táxis do Alto da Barra, C.R.L
+' Disponível em http://www.cnpd.pt/bin/orientacoes/DEL629_2010.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Prova das transacções comerciais e quaisquer outras comunicações
+Finalidade respeitantes a relação contratual
+Categoria de dados pessoais tratados
+Dados de tráfego e conteúdo das chamadas realizadas
+Forma de exercício dos direitos de acesso e restificação
+Por solicitação ao responsável
+Comunicações de Dados Pessoais
+Não há
+Interconexões
+Não há.
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados 90 dias
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°da Lei n.° 67/98, de 26 de Outubro.
+Dos termos e condições fixados na Deliberação n.° 629/2010 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no processo.
+Devem ser postas em prática as medidas de segurança previstas no artigos 14° e 15º da
+Lei n.° 67/98, de 26 de Outubro.
+Esclarece-se que a presente Autorização não inclui a finalidade de monitorização da qualidade do serviço prestado, nem a finalidade de cumprimento das obrigações relativas ao serviço de emergência de serviço público, que por constituírem finalidades diferentes carecem de notificações autónomas.
+Lisboa, 07 de maio de 20l2
+Ana Roque, Luís Barroso, Helena Delgado António (Relatora), Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 9466/2012
-official_date: null
+official_date: '2012-12-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Universidade de Aveiro - Secção Autónoma de Ciências da Saúde'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,72 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T01:58:46Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9466/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/49594](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/49594).
+Proc. N.9: 11017/2012 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 9466 12012
+I. Do Pedido
+A Universidade de Aveiro - Secção Autónoma de Ciências da Saúde notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo intervencional para avaliar a eficácia do Programa Mindfulness-Based Cancer
+Recovery on Health-Related Quality of Life" em doentes com cancro.
+Serão incluídos no estudo aproximadamente vinte doentes, maiores, com diagnóstico de cancro, a receber tratamento no Serviço de Oncologia do Centro Hospitalar do
+Baixo Vouga.
+Os participantes no estudo serão divididos em grupo experimental e grupo de controlo.
+No final do estudo, os elementos do grupo de controlo que o desejarem poderão também entrar no Programa.
+O estudo terá a duração de vinte e uma semanas e será solicitado aos participantes que preencham dois questionários antes da aplicação do Programa, no seu final e doze semanas após a conclusão do Programa. Serão ainda recolhidas informações do processo clínico.
+O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração será arquivada no processo clínico hospitalar.
+Os dados serão recolhidos num caderno de recolha de dados em formato eletrónico e em papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente e do investigador principal.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 11017/2012 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os destinatários serão ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+II. Da Análise
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela
+Deliberação.
+A informação tratada é recolhida de forma lícita (cfr. al. a) do n.º1 do art.° 5° da Lei n.° 67/98), para finalidades determinadas, explícitas e legitimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+III. Da Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a) do n.° 1 do artigo 28° e art. 30° da Lei de Protecção de Dados, com as condições e limites fixados na referida Deliberação n.º 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados supra referido, para a elaboração do presente estudo.
+Termos do tratamento:
+Responsável pelo tratamento: Universidade de Aveiro - Secção Autónoma de Ciências da Saúde
+Finalidade: Estudo intervencional para avaliar a eficácia do Programa "Mindfulness-
+Based Cancer Recovery on Health-Related Quality of Life" em doentes com cancro.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 11017/2012 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Categoria de Dados pessoais tratados: código do participante, dados demográficos (idade, género, estado civil, habilitações literárias e ocupação profissional), historia clínica da doença oncológica (diagnóstico, data da última terapêutica antineoplásica, sinais/sintomas, medicação, terapêuticas não medicamentosas), comorbilidades, evolução da situação clínica em consulta de seguimento, resposta em diferentes momentos aos questionários de qualidade de vida MAAS - Mindful Attention and
+Awareness Scale e EORTC QLQ-C30.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente ou do investigador principal.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 04 de Dezembro de 2012
+Ana Roque, Helena Delgado António, Carlos Campos Lobo, Luís Paiva de Andrade (Relator), Vasco Almeida
+Luís Barroso (Vagal, em substituição da Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

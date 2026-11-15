@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 11511/2017
-official_date: null
+official_date: '2017-10-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Caixa Económica Montepio Geral'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T08:25:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 11511/2017
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/111522](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/111522).
+Processo n.º 12008/2017 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 11511/2017
+A Caixa Económica Montepio Geral notificou à Comissão Nacional Proteção Dados (CNPD)
+um tratamento de dados relativo à operação de cessão de créditos tendo como cessionária a Arrow Global Group PLC (Arrow Global).
+A cedência de dados é feita no âmbito de um contrato, nos termos do artigo 577° do Código
+Civil (CC). Por força do n.º1 do referido artigo 577° a cessão de crédito é admissível independentemente de consentimento do devedor. A cessão de créditos importa a transmissão, para o cessionário, das garantias e outros direitos acessórios do direito transmitido, que não sejam inseparáveis da pessoa do cedente (n.° 1 do artigo 582° do CC).
+Deste modo, a referida transação podera envolver uma transmissão de dados pessoais do devedor e dos garantes, que serão entregues à cessionária, em suporte digital ou por outros meios similares disponíveis, comprometendo-se esta entidade a apenas aceder ao seu conteúdo na estrita medida em que tal se revele necessário ao exercício dos direitos de crédito que resultam da cessão.
+Os dados objeto do tratamento estão sujeitos a sigilo bancário, conforme resulta do disposto no artigo 78.° do Decreto-Lei n.º 298/92, de 31 de dezembro, alterado pela Lei n.° 30/2017, de 30 de maio. Enquadram-se, por isso, no conceito de vida privada do n.º 1 do artigo 7.° da
+Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto (LPDP).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1, alínea a), da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo).
+O fundamento de legitimidade é a disposição legal prevista no n.° 2 do artigo 7.° da LPD. O responsável deverá, ainda, assegurar que o titular obteve as informações previstas no artigo 10.° da LPDP, designadamente que a cessionária é destinatária da informação e a finalidade da comunicação. Deve, de igual modo, adotar medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas e garantir um acesso restrito, sob o ponto de vista fisico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização de auditorias internas e externas.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n. ° 12008/2017 | 1v.
+Devem também ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direção, a outros técnicos obrigados a segredo profissional.
+No que diz respeito aos eventuais dados contidos em suporte de papel, devem ser adotadas medidas, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Em face do exposto, nos termos da alínea b) do n.º 1 do artigo 23.° e da alínea b) do n.º1 do artigo 28.° ambos da LPDP, a CNPD autoriza o tratamento nos termos supra referidos, consignando, nos termos e para os efeitos do artigo 30.° da LPD, o seguinte:
+Responsável: Caixa Económica Montepio Geral.
+Categorias de dados pessoais tratados - Dados de identificação e contacto, dados relativos ao contrato, dados de gestão do crédito e dados de processo judicial.
+Finalidade: Cessão de créditos.
+Entidade a quem são comunicados: Arrow Global Group PLC (Arrow Global).
+Forma de exercício do direito de acesso e retificação: Presencialmente e por escrito para o endereço postal Rua Áurea n.º 219 a 241, 1100-062 Lisboa.
+Eventuais interconexões: Não aplicável.
+Transferência de dados para países terceiros: Não aplicável
+Prazo máximo de conservação dos dados: 1 ano após a extinção dos créditos sem prejuízo da conservação dos dados necessários para fins fiscais, pelo prazo de 10 anos.
+Lisboa, 10 de outubro de 2017
+Filipa Calvão (Presidente)

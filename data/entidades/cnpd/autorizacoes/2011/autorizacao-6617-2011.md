@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOCOLIRO GEST IMOBILIÁRIA, S.A (GRUPO LENA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:36:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 6617/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33436](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/33436).
+1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 306/2004
+AUTORIZAÇÃO N° 6617/11 1 - Socoliro Gest Imobiliária, S.A., veio requerer à Comissão Nacional de Protecção de Dados (CNPD) a actualização da Autorização n° 552/2004, de 18 de Maio de 2004, em termos de o tratamento autorizado abranger também a finalidade de marketing.
+Os dados pessoais objecto de tratamento são os seguintes:
+Designação de terceiro (cliente ou fornecedor), NIF, morada, contacto telefónico, fax, e-mail e sítio Web, saldos da conta corrente e volume de negócios.
+A recolha de dados será efectuada pessoalmente e através de telefone.
+Como fundamento de legitimidade a requerente invoca o consentimento do titular dos dados.
+Como medidas de segurança referem-se a utilização de cópias de "backup" e de password de acesso às informações.
+Está assegurado o direito à actualização dos dados, bem como as condições de o titular conhecer, corrigir e eliminar os dados.
+Pretende-se a interconexão de dados com dados similares objecto de tratamento com os dados tratados por outras empresas do Grupo Lena, nos termos já autorizados.
+A requerente não definiu o prazo de conservação dos dados.
+2 - Os dados são tratados com consentimento do titular, pelo que a CNPD considera que existe, por isso, legitimidade para o tratamento de dados nos termos previstos no artigo 6°, corpo, da Lei n° 67/98, de 26.10.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os dados tratados terão de se mostrar necessários, pertinentes e não excessivos em relação à finalidade prosseguida, nos termos do disposto no artigo 5° n.º 1, alíneas b) e c), da Lei n° 67/98, de 26.10, pelo que apenas se admite o tratamento de dados relativos ao nome e contactos, não podendo os restantes dados ser utilizados.
+Ao titular deve sempre ser garantido o direito de informação previsto no artigo 10° da
+Lei n° 67/98, bem como o direito de se opor à utilização dos seus dados pessoais para fins de marketing, nos termos previstos no artigo 12° ‚alínea b), do mesmo diploma.
+Afiguram-se adequadas as medidas de segurança acima referidas. Todavia, independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+No que respeita ao prazo de conservação, considerando a finalidade do tratamento, a
+CNPD entende fixar o de dez anos após cessação da relação com o cliente, conforme o princípio geral aplicável no âmbito comercial.
+3 - Pelo exposto, e com as especificidades acima referidas, a CNPD delibera autorizar a alteração da Autorização n° 552/2004, de 18 de Maio de 2004, em termos de o tratamento autorizado abranger também a finalidade de marketing.
+Proceda-se à actualização do registo público - artigo 31° da Lei n° 67/98, de 26.10.
+Lisboa, xt
+Junto de 2011.
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

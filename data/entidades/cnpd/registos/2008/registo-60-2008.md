@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 60/2008
-official_date: null
+official_date: '2008-02-06'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Datanálise - Serviços e Técnicas de Manutenção, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:57Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 60/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1023](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1023).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 480/07
+Registo n. 60 108
+Datanálise - Serviços e Técnicos de Manutenção, Lda notificou um tratamento de dados pessoais com a finalidade de gestão de acções de formação.
+Declaram as seguintes categorias de dados pessoais: nome, Bl, data de nascimento, morada, habilitações literárias, empresa onde exerce actividade, função desempenhada e acções de formação.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é o cumprimento de obrigação legal.
+Assim, regista-se, nos termos dos artigos 27° n.° 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Datanálise - Serviços e Técnicos de Manutenção, Lda
+Categoria de dados pessoais tratados - nome, BI, data de nascimento, morada, habilitações literárias, empresa onde exerce actividade, função desempenhada e acções de formação.
+Finalidade - gestão de acções de formação
+Comunicação de dados - Não há.
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsável;
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da lei n.º 67/98, reformulando-se o sítio da Internet e os impressos em conformidade.
+Lisboa, 6 de Fevereiro de 2008
+A Secretária da CNPD
+Isabes
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

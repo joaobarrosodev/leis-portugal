@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: OFCEP - OFFICE CENTRE PORTUGAL - EQUIP. DE ESCRIT., LDª ( STAPLES)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,36 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:22:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 678/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6751](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6751).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 1863/03
+Autorização n. 67/2005 1.OFCEP - Office Centre Portugal, Equipamento de Escritório, Lda - loja de
+Guimarães vem notificar à Comissão Nacional de Protecção de Dados (CNPD) uma alteração duas alterações à Autorização n.º 1016/2004. Assim:
+- Pretende-se instalar uma camera fixa e uma rotativa no exterior da loja para protecção da propriedade privada;
+- Pretende-se a ampliação do prazo de conservação dos dados de 8 para trinta dias.
+No que respeita à harmonização da recolha de imagens através de cameras, com o proporcionalidade, a Comissão Nacionalidade de Protecção de Dados tem entendido que infringe os artigos 18.º e 35., n.º 3 da Constituição e o artigo 7°, n.º 1 da Lei de
+Protecção de Dados - na parte em que refere a vida privada - a utilização de câmaras para vigilância de espaço externo a empresas ou fábricas. No caso concreto, tratando-se de propriedade privada, a CNPD considera o tratamento legítimo, desde que prossiga a finalidade de protecção de pessoas e bens. Não pode haver captação de imagens da via públlica.
+A Comissão Nacional de Protecção de Dados autoriza as alterações notificadas, mantendo-se no restante aplicável a Autorização n.º 1016/2004.
+. Lisboa de de Cu Letrole 2005 kle
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+-име
+Eduardo Campos
+Ana Luísa Geraldes
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

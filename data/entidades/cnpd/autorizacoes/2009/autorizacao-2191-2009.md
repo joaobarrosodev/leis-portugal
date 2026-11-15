@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2191/2009
-official_date: null
+official_date: '2009-06-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GLOBE MOTORS PORTUGAL - MATERIAL ELÉCTRICO PARA A INDÚSTRIA AUTOMÓVEL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,66 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:02:14Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2191/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16313](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16313).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 237/2005
+AUTORIZAÇÃO NoI
+/2009 1)
+O pedido
+A Globe Motors Portugal - Material Eléctrico para a Indústria Automóvel, Lda notifica um tratamento destinado a "Facilitar o acesso dos colaboradores à Base de Dados de
+Recursos Humanos, para consulta e actualização de informações" a seu respeito.
+O dado pessoal tratado é a impressão digital.
+O fundamento de legitimidade é o consentimento (dos trabalhadores que optem por utilizar este sistema de acesso aos dados).
+O trabalhador pode, a qualquer momento e sem qualquer restrição, solicitar a remoção da impressão digital da base de dados.
+Não há comunicação de dados, nem interconexões nem fluxos transfronteiras.
+Como medidas de segurança, refere-se o acesso restrito de pessoas e a utilização de sistemas de "backup" e de "passwords" de acesso.
+O prazo de conservação é o da relação laboral.
+O exercício dos direitos de acesso e rectificação ocorre por pedido escrito ao
+Departamento de Recursos Humanos.
+2) Apreciação
+A finalidade visada é determinada, explícita e legítima - qual seja a de garantir apenas ao próprio o acesso aos dados do seu processo pessoal (Lei n° 67/98, 26 de Outubro, artigo 5, n° 1, al b).
+O dado tratado (impressão digital) é adequado, pertinente e não excessivo, na medida em que o interessado pode sempre exigir a sua eliminação e utilizar palavra-passe para aceder ao processo pessoal - ibidem, al c).
+O fundamento de legitimidade é o consentimento, revogável a qualquer momento.
+3) Autorizações
+Face do exposto, e nos termos dos artigos 6°, al e), 27° e 29° da Lei n° 67/98, a CNPD emite a seguinte autorização:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS a) Responsável
+Globe Motors Portugal - Material Eléctrico para a Indústria Automóvel.
+Finalidade
+Controlar o acesso ao processo pessoal dos trabalhadores.
+Dados pessoais tratados
+Impressão digital.
+d)
+Interconexões
+Não há.
+e)
+Comunicações
+Não há.
+Fluxos transfronteiras
+Não há.
+g)
+Forma de exercício do direito de acesso e rectificação
+Por pedido ao Departamento de Recursos Humanos.
+Lisboa, 1 de Junho de 2009
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade
+Luís Lingnau da Silveira (Presidente/relator)
+amm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 geral@cnpd.pt
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

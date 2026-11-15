@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1967/2009
-official_date: null
+official_date: '2009-05-11'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SENSE TEST - SOC. DE ESTUDOS DE ANÁLISE SENSORIAL A PRODUTOS ALIMENTARES, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:06:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1967/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15941](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15941).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 2063/07 1967
+Autorização n.°
+/2009
+A Sense Test - Sociedade de Estudos de Análise Sensorial a Produtos Alimentares, Lda notificou um tratamento de dados pessoais com a finalidade criar uma base de dados de selecção de consumidores para "ensaios de análise sensorial e estudos ao consumidor".
+Os dados recolhidos são: Nome, endereço, género, fotografia, profissão, contactos, NIF, dados de saúde (prótese dentária, pele hipersensível, hipertensão, diabetes, daltonismo, sinusites frequentes, hipoglicémia, doenças nasais, fumador e medicação actual que afecte a sensibilidade gustativa), hábitos alimentares, autoavaliação da capacidade de distinção de sabores, existência de familiares com relação com empresas do ramo alimentar (s/n), formação em análise sensorial, interesse em participar no painel de provas e disponibilidade.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98), com excepção dos dados relativos à saúde.
+A CNPD entende a necessidade do responsável conhecer a existência de patologias que possam afectar a capacidade sensorial do titular ou por em risco a sua saúde (v.g.a diabetes).
+Contudo, para atingir este fim bastará que o responsável questione o titular sobre a existência de alguma de aquelas situações, sem necessidade de conhecer, em concreto, qual a doença que afecta o titular.
+Porque referentes à saúde, os dados abrangidos pelo estudo em causa têm a natureza de sensíveis, razão pela qual o respectivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, nos termos do disposto no n° 2 do artigo 7° da Lei n° 67/98.
+Existe legitimidade para o tratamento dos dados desde que pelos titulares seja dado consentimento expresso.
+O texto constante do impresso de consentimento deve ser reformulado de forma a cumprir o artigo 10° da LPD.
+Em face do exposto, a Comissão Nacional de Protecção de Dados autoriza o tratamento de dados pessoais supra apreciado, nos termos dos artigos 27.° nº1, 28 nº1 alínea a) e 30.° nº1 da
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Lei n.º 67/98, de 26 de Outubro, consignando-se o seguinte:
+1 - Responsável do tratamento: Sense Test - Sociedade de Estudos de Análise Sensorial a
+Produtos Alimentares, Lda 2 - Categorias de dados pessoais tratados: Nome, endereço, género, fotografia, profissão, contactos, NIF, existência de qualquer das patologias indicadas (sem indicação concreta da doença); hábitos alimentares, autoavaliação da capacidade de distinção de sabores, existência de familiares com relação com empresas do ramo alimentar (s/n), formação em análise sensorial, interesse em participar no painel de provas e disponibilidade.
+3- Finalidade: base de dados de selecção de consumidores para "ensaios de análise sensorial e estudos ao consumidor".
+4 - Forma de exercício do direito de acesso e rectificação: junto do responsável pelo tratamento.
+6 - Comunicação de dados: Não há 7 - Interconexão e fluxos transfronteiriço de dados: Não há 8 - Tempo de conservação dos dados: 5 anos.
+Lisboa, 11 de Maio de 2009
+Luís Barroso; Luís Paiva de Andrade; Ana Roque (Relatora); Carlos Campos Lobo; Helena
+Delgado António; Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

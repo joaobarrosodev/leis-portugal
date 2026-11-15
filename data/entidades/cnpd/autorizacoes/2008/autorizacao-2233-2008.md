@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: EGEAC - EMPRESA DE GESTÃO DE EQUIPAMENTOS E ANIMAÇÃO CULTURAL, E.M.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,69 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:09:08Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2233/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9442](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9442).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 7439/2008
+AUTORIZAÇÃO N.º223 3/2008
+I - Pedido 1. A EGEAC - Empresa de Gestão de Equipamentos e Animação Cultural,
+E.M., com sede no Palácio Marquês de Tancos, Calçada Marquês de
+Tancos, n.º 2, em Lisboa, veio notificar junto da Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento de dados de videovigilância a colocar no Teatro Municipal São Luíz e no Teatro Estúdio Mário Viegas.
+2. Segundo informações fornecidas, o sistema é composto por 9 (nove)
+câmaras fixas, que procedem à captação de imagem, a colocar nas zonas de acesso e circulação de público.
+3. Existe Comissão de Trabalhadores, tendo a mesma emitido parecer favorável: em 19 de Outubro de 2007.
+II - Análise 4. Através da Deliberação n.º 61/2004, de 19 de Abril (), a CNPD estabeleceu os princípios gerais e o enquadramento legal sobre o tratamento de dados de videovigilância, tendo aí definido os parâmetros gerais a que o mesmo deve obedecer.
+5. No que concerne à apreciação das condições de tratamento de videovigilância pela entidade responsável, importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (') Disponível in http://www.cnpd.pt/bin/orientaçoes/principiosvideo.htm.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS (art. 5.°, n.º 1, al. c), da Lei 67/98, de 26 de Outubro), às condições de legitimidade (artigos 7.° e 8.° n.° 2 da Lei 67/98), bem como às formas de acesso quanto aos dados recolhidos pelos sistemas de videovigilância.
+6. Verifica-se, assim, que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens», nomeadamente, a segurança e protecção dos passageiros que utilizam os respectivos meios de transporte.
+7. Em face da finalidade assinalada, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação a essa finalidade (artigo 5.° n.° 1 al. c) da Lei 67/98).
+Com efeito, pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança -podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Ora, o que está em causa na utilização destes meios é assegurar a dissuasão, sempre com o conhecimento das pessoas e com a protecção dos seus direitos fundamentais ('), bem como registar e documentar a eventual prática de infracções.
+Sendo certo que o tratamento de som ou imagem e a finalidade delineada pelo responsável, porque assume objectivos primordialmente preventivos e dissuasores, não tem que '¿situar-se, necessariamente, a montante de qualquer actividade delituosai ou pressupor a existência de suspeitas (") O artigo 8.°, n.º 2, obriga, como condições a ponderar pela CNPD, a que «não prevaleçam os direitos, (iberdades e garantias dos titulares dos dados». Em termos de investigação criminal, o êxito das diligências de observação e vigilância está dependente da ignorância por parte do visado do facto de que está a ser objecto de escutas, de gravação de som e imagem.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS concretas sobre a generalidade das pessoas em relação às quais são captadas as imagens.
+Nestas circunstâncias, e em termos gerais, não se afigura que devam prevalecer os direitos, liberdades e garantias dos titulares sobre o interesse do responsável Requerente, pelo que, nada obsta, in casu, a realização de tal tratamento.
+No entanto, cabe referir que a recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limitrofes ou na via pública ().
+III - Conclusão:
+Face ao que antecede decide-se autorizar o tratamento requerido e, por consequência, a respectiva recolha de dados pessoais através da captação de imagem pelo referido sistema de videovigilância (artigo 8.° n.° 2 e 28.° n.° 1 al. a) da Lei 67/98);
+Devem, ainda, ser observadas as seguintes condições:
+A. Responsável - EGEAC - Empresa de Gestão de Equipamentos e
+Animação Cultural, E.M..
+B. Finalidade - Protecção de pessoas e bens.
+C. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores (cf. artigo 20.° do Código do Trabalho, quando aplicável).
+D. Direito de Informação - Deverá ser afixado, em local bem visivel, um aviso que informe as pessoas sobre a recolha de imagem (cf. artigo 13.°, n.° 3, do Decreto-Lei n.° 35/2004, de 21 de Fevereiro).
+(') De acordo com os princípios da protecção de dados pessoais, designadamente do principio da proporcionalidade - artigo 5.°, alínea c), da Lei n.° 67/98.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+E. Recolha de imagens - A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+Lisboa, 2+ outubro 2008
+Ana Roque
+Carlos Campos Lobo
+мио
+Eduardo Campos (relator)
+Helena Delgado António
+Luís Barroso
+Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4

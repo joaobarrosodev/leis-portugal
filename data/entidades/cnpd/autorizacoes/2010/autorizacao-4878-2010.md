@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IMCLONE SYSTEMS INTERNATIONAL GMBH'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,65 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:41:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4878/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26056](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26056).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 5673/2010
+AUTORIZAÇÃO N. ° 4878 2010
+ImClone Systems International GmbH, representada pela
+Eurotrials Consultores científicos, SA veio notificar a esta CNPD um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes com carcinoma hepatocelular. (Protocolo IMC-CP12-0919).
+Trata-se de um «estudo de fase.
+3, multicêntrico, aleatorizado que avalia a segurança e eficácia do
+Ramucirumab mais MTS numa comparação em dupla ocultação, controlada por placebo (placebo mais MTS)».
+As categorias de dados são as seguintes: Número de participante no estudo, data de nascimento, peso, altura, raça, sexo, história médica e exames (incluindo sinais vitais, pressão sanguínea, pulso, frequência respiratória, electrocardiograma, ecocardiograma, análises à urina e teste de gravidez, ECOG, questionário e nome do investigador.
+O responsável pelo tratamento, instado por esta CNPD a justificar a recolha do dado raça, veio apresentar os seguintes argumentos:
+«Para Cancro hepatocelular em particular, parecem existir disparidades raciais e étnicas significativas a nível do resultado dos doentes com Carcinoma hepatocelular, muito embora recebam tratamento comparável». Assim sendo admite-se a recolha do dado raça por se revelar adequada, pertinente e não excessiva face à finalidade.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5.°, n.°1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30. da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: ImClone Systems International
+GmbH, representada pela Eurotrials Consultores científicos,
+SA.
+Finalidade: gestão de ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes com carcinoma hepatocelular. (Protocolo IMC-CP12-0919).
+Categoria de Dados Pessoais tratados: Número de participante no estudo, data de nascimento, peso, altura, raça, sexo, história médica e exames (incluindo sinais
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS vitais, pressão sanguínea, pulso, frequência respiratória, electrocardiograma, ecocardiograma, análises à urina e teste de gravidez, ECOG, questionário e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do DL 176/2006, 30 de Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 17 de Degebrode 2010
+Carlos Campos Lobo (Relator), Luís Paiva de Andrade, Luís
+Barroso, Vasco Almeida, Ana Roque, Helena Delgado António.
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

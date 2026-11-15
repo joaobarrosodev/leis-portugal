@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MELISAUTO-Mercado Lisbonense de Automóveis, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,54 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:04:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 17/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40641](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40641).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 16038/2011
+REGISTO N.°/ 7/ 2012
+A Melisauto - Mercado Lisbonense de Automóveis, S.A., notificou à CNPD um tratamento de dados pessoais com a finalidade de controlo de assiduidade (horário de trabalho).
+Os dados são recolhidos directamente pelo responsável pelo tratamento.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alínea a)
+do artigo 6° da LPD, a execução do contrato.
+Os funcionários da requerente procedem ao registo do ponto através de um clique na sua fotografia, que é apresentada no painel do sistema informático associada a um nome de utilizador (escolhido pelo próprio titular dos dados), ficando registada a data e hora de entrada e saída dos funcionários.
+Assim, de acordo com as disposições conjugadas dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+Finalidade
+Categoria de dados pessoais tratados
+Melisauto - Mercado Lisbonense de Automóveis,
+S.A.
+Controlo de assiduidade (horário de trabalho)
+Nome, nome de utilizador, fotografia, data e hora de entrada e saída.
+Não há.
+Comunicação de dados
+Forma de exercício do direito de acesso e rectificação
+Junto do responsável pelo tratamento de dados pessoais, por escrito.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Interconexões
+Não há.
+Não há.
+Fluxo transfronteiriço de dados
+Conservação dos dados
+Período de exercício de funções do funcionário.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no art. 10° da LPD.
+Lisboa, 02/0(/2012
+A Secretária da CNPD,
+Joanetes (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

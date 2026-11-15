@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1563/2016
-official_date: null
+official_date: '2016-09-29'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Acesso a dados pessoais de saúde'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,93 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:38:04Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 1563/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/96611](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/96611).
+Processo n.º 14430/2016 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃON.º 1563 12016 na qualidade de cônjuge de falecido, solicitou à Comissão Nacional de Protecção de Dados (CNPD) o acesso aos dados clínicos do seu cônjuge para efeitos de seguro de vida.
+A requerente pretende obter a informação clínica porque a Associação Mutualista
+Montepio exige a sua apresentação como condição para acionar o seguro de vida do cônjuge falecido, associado à hipoteca da sua casa.
+I.
+Questões prévias
+Sendo imprescindível à apreciação do pedido de acesso a análise do contrato de seguro de vida, celebrado pelo titular dos dados, em especial de eventuais declarações de consentimento de acesso aos dados clínicos, cuja cópia a requerente solicitou sucessivas vezes junto da Seguradora, na qualidade de beneficiária do seguro, sem a ter conseguido obter, a CNPD não pode emitir outra decisão que não seja a que a seguir se expõe, por falta dos elementos necessários à apreciação do pedido. No mais, à CNPD não cabe impor (ou executar) à Seguradora a obrigação de apresentação da cópia do contrato à beneficiária do seguro, por essa ser uma competência dos tribunais.
+A Comissão Nacional de Protecção de Dados (CNPD) pronunciou-se, na Deliberação n.° 72/2006, de 30 de maio, sobre o acesso aos dados de saúde em poder de serviços de saúde'. Mais recentemente, na Deliberação n.º 241/2014, a CNPD veio fundamentar o entendimento de que o acesso a dados pessoais se rege pela Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto - Lei de proteção de dados pessoais (doravante, LPD) - independentemente da natureza jurídica da entidade onde os dados se encontrem depositados?.
+1 Segue-se de perto essa deliberação.
+2 Com os fundamentos expostos na Deliberação n.° 241/2014, consultável in
+Rua de São Bento, 148-30 e 1200-821 LISBOA CNPD_delib241. pd ua de São Bento,
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 14430/2016 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Com efeito, nos termos da alínea b) do artigo 2.° da LPD, bem como da alínea b) do artigo 2.° da Diretiva 95/46/CE, que esta lei transpõe para a ordem jurídica portuguesa?, o acesso a dados pessoais constitui um tratamento de dados pessoais, por necessariamente se realizar por consulta ou comunicação de informação pessoal. E à
+CNPD compete controlar e fiscalizar o cumprimento das normas jurídicas em matéria de proteção de dados pessoais, nos termos descritos nos artigos 21.° e ss. da LPD.
+Assim, é ao abrigo do regime jurídico definido no diploma legal sobre o regime de proteção de dados pessoais - a LPD -, o qual, em transposição daquela Diretiva, define as condições de legitimidade e os princípios e regras a que obedecem todos os tratamentos de dados pessoais, que se analisa no caso concreto a legitimidade do acesso aos dados de saúde.
+Considerações gerais sobre acesso a dados de saúde
+A Constituição da República Portuguesa (CRP) consagra o direito à reserva da intimidade da vida privada no artigo 26.° e o direito à proteção de dados pessoais no artigo 35.°.
+Especificamente, o n.º 4 do artigo 35.° da CRP estabelece a regra da proibição do acesso a dados pessoais de terceiros, salvo as exceções previstas na lei. Por sua vez, o n.º 1 do artigo 7.° da Lei n.° 67/98, de 26 de outubro (Lei de Proteção de Dados Pessoais - LPD)
+reafirmou esta limitação quanto aos dados relativos à saúde e à vida sexual, incluindo os dados genéticos. Também o artigo 3.° da Lei n.º 12/2005, de 26 de janeiro, consagra a regra da proibição do acesso a dados clínicos de terceiros.
+Apesar desta proibição geral, o acesso é admissível desde que exista consentimento expresso do titular dos dados ou autorização prevista na lei (cf. n.º 2 do artigo 7.° da LPD)
+ou quando se verifiquem as condições previstas no n.º 3 do artigo 7.° da LPD.
+3 Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 14430/2016 3
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Acesso pelas seguradoras
+Em relação ao acesso pelas seguradoras aos dados de saúde de segurados já falecidos, em especial no caso de seguros do ramo vida, entendemos que, por princípio e na falta de consentimento - livre, específico, informado e expresso - prestado em vida, aquele deve ser negado. O mesmo vale para os pedidos de acesso formulados por familiares para apresentação da informação nas seguradoras.
+Em ambas as situações e como resulta das normas acima indicadas, o dever de confidencialidade por parte dos serviços de saúde, a reserva da intimidade da vida privada do segurado, bem como o direito à proteção dos dados que lhe digam respeito impedem que qualquer terceiro (v.g., seguradora) aceda à informação de saúde do de cujus.
+Como este caso claramente evidencia, o interesse em obter a informação de saúde do falecido segurado é da Seguradora. Nos contratos de seguros do ramo vida, o facto gerador da obrigação de a Seguradora pagar a quantia segurada aos beneficiários é a morte do segurado. Verificado este facto - a morte do segurado -, a Seguradora fica obrigada a pagar a indemnização. Assim sendo, é à seguradora que cabe demonstrar que existem razões que a desobrigam de pagar a quantia segurada.
+No caso, o único fundamento que legitimaria o acesso seria o consentimento prestado de modo livre, específico e informado e por forma expressa, pelo titular dos dados de saúde, de acordo com o estatuído no n.º 2 do artigo 7.° e na alínea h) do artigo 3.° da LPD.
+Note-se que não é defensável que a assinatura da proposta de contrato de seguro configure um consentimento do titular dos dados para o acesso à informação de saúde.
+Na verdade, apenas consubstanciaria o consentimento expresso, específico e autónomo a declaração destacada do contrato de adesão que, desde logo, revelasse o direto conhecimento e compreensão, pelo titular dos dados, dos efeitos de semelhante consentimento no âmbito da relação contratual.
+No caso concreto, a declaração de consentimento junto ao processo, emitida em vida pelo titular dos dados, limita a autorização de acesso aos dados de saúde necessários à confirmação ou complemento de informação já fornecida para efeito da aceitação da
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 14430/2016 4
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS proposta do contrato. Assim, não tendo sido apresentada declaração de consentimento em relação a outro tipo de informação de saúde do titular, não há legitimidade para aceder aos referidos dados, nos termos do artigo 7.° da LPD.
+Os direitos dos familiares do falecido não ficam, no entanto, prejudicados na medida em que qualquer cláusula que faça depender o pagamento da quantia segura da apresentação de informação de saúde sem o consentimento do titular (alínea h) do artigo 3.° e do n.° 2 do artigo 7.° da LPD) é uma cláusula que enferma de nulidade, pois contraria disposição legal imperativa (artigo 294.° do Código Civil).
+São conhecidas diversas sentenças emanadas pelos tribunais portugueses que têm considerado que "as cláusulas que obrigam os beneficiários a apresentar atestados dos médicos com a informação referida, são abusivas, porque contrárias à boa-fé, contendendo com o disposto no artigo 15.° e 16.º do Decreto-Lei n.º 446/85 de 25 de outubro, e porque transferem para os beneficiários dos seguros uma obrigação que só à seguradora devia caber, de acordo com a distribuição normal do ónus da prova, aqui contendendo com o artigo 21.°, alínea d) do mesmo diploma".
+Os Tribunais têm concluído pela nulidade desse tipo de cláusulas(4), considerando que, de acordo com a normal distribuição do ónus da prova, é à seguradora que cabe investigar as situações de declarações inexatas referentes à saúde aquando da celebração do contrato e que tornem o mesmo nulo, e aquelas em que se verifique qualquer das causas de exclusão previstas no clausulado e que afastem a sua responsabilidade contratual.
+(*http://www.pgdlisboa.pt/docpgd/doc_busca.php?buscajur=&nid_especie=3&nid_subespecie=21& pagina=1&ficha=1.
+Cf. ainda o Acórdão do Supremo Tribunal de Justiça de 26/09/2013 (Proc. 15/10.7TJLSB.L1.S1), acessível em:
+http://www.dgsi.pt/jstj.nsf/954f0ce6ad9dd8b980256b5f003fa814/57f48f94ab7bb43080257bf30038e e7a?OpenDocument
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 14430/2016 | 5
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+IV.
+Conclusão
+Assim, entende a CNPD que não devem ser facultados a os dados clínicos do seu cônjuge falecido,
+, com exceção da causa da morte, na medida em que tais dados se destinam a ser entregues a
+Seguradora sem que, para o efeito, conste do contrato de seguro o necessário consentimento do titular.
+Lisboa, 29 de setembro de 2016 falt
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

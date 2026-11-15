@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMISSÃO DE EDUCAÇÃO, CIÊNCIA E CULTURA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:04:38Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 28/2013
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53613](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/53613).
+Proc. n.º 4281/2013 | 1 K
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+PARECER N.° 28/2013
+O pedido
+O Senhor Presidente da Comissão Parlamentar de Educação, Ciência e Cultura da
+Assembleia da República solicitou a emissão de parecer sobre a "Proposta de Lei n.° 137/XII, Lei que procede à segunda alteração à Lei n.º 39/2009, de 30 de julho, que estabelece o regime jurídico do combate à violência, ao racismo, à xenofobia e à intolerância nos espetáculos desportivos, de forma a possibilitar a realização dos mesmos com segurança".
+O dever de solicitar parecer à CNPD decorre das atribuições conferidas àquela por via do disposto no n.º 2 do artigo 22.° da Lei n.º 67/98, de 26 de Outubro (Lei de Proteção de Dados Pessoais - LPD), e é emitido no uso da competência prevista na alínea a) do n.º 1 do artigo 23.° do mesmo diploma legal.
+O presente parecer restringe-se à apreciação da matéria relativa à proteção de dados pessoais.
+A apreciação
+A CNPD já se pronunciou em diversas ocasiões sobre a problemática da violência nos espetáculos desportivos. O parecer n.º 10/2004, proferido no âmbito do Processo n.º 444/2004 é exemplificativo do contributo da CNPD na presente temática.
+No contexto do processo legislativo que originou a Lei n.º 39/2009, de 30 de julho, a
+CNPD emitiu o Parecer n.° 18/2009 (Processo n.º 1909/2009) o qual aqui se dá por integralmente reproduzido.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 4281/2013 2 K
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Já no decurso dos trabalhos do Governo com vista à aprovação do então projeto de proposta de lei e que agora se encontra em discussão na especialidade na Comissão requerente do presente parecer, a CNPD emitiu os Pareceres n.º 49/2012 e 15/2013, os quais se encontram disponíveis na página do Parlamento relativa à correspondente iniciativa legislativa.
+Com relevância para a presente apreciação, sem prejuízo de quanto consta dos referidos pareceres, ressalvam-se as seguintes alterações aos projetos anteriores, com relevância na matéria de proteção de dados pessoais:
+• A atual redação dada à alínea g) do n.° 1 do artigo 15.° da Lei n.° 39/2009, de 30 de julho, onde se aditou o correio eletrónico à lista de dados que integram o registo do promotor, conforme alteração ao n.º 1 do artigo 15.° da mesma Lei;
+• A nova redação dada ao n.º 6 do artigo 18.°, a qual se encontrava inalterada nas versões anteriores da presente Proposta de Lei, aumenta o âmbito do acesso às imagens do sistema de videovigilância, uma vez que a redação da
+Lei n.º 39/2009, de 30 de julho, previa o acesso "para os efeitos exclusivamente disciplinares desportivos previstos na presente lei" e a atual redação, que agora se propõe, prevê o acesso "para efeitos exclusivamente disciplinares". Afigura-se que a redação inicial, por mais clara e objetiva, é preferível à que agora se apresenta, até porque as finalidades típicas dos sistemas de videovigilância são maioritariamente para proteção de pessoas e bens, sendo o acesso para a finalidade genérica no âmbito disciplinar um desvio, que agora se alarga, à regra da utilização de sistemas de videovigilância para a finalidade de proteção de pessoas e bens. O alargamento do âmbito do acesso a qualquer questão com incidência disciplinar resvala no crivo da proporcionalidade.
+No demais, mantêm-se a apreciação e as conclusões vertidas nos já referidos pareceres, reafirmando a necessidade de obtenção de autorização prévia ao início dos tratamentos de dados previstos na Proposta de Lei.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. n.º 4281/2013 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Reforça-se, também, o entendimento da CNPD quanto ao tratamento do dado convicção política ou ideológica, pelo que se retoma o expendido no Parecer n.° 49/2012 sobre tal problemática:
+"Se se pode conceber o direito a não apoiar grupos organizados de adeptos que prossigam e manifestem ideologias políticas, não pode deixar de se manifestar total discordância com as condições de permanência dos espectadores no recinto desportivo estabelecidas no artigo 23.°.
+Este artigo permanece inalterado no presente projeto, mas permitimo-nos sugerir a sua ponderação no contexto da alteração ao regime jurídico da violência no desporto.
+As condições previstas nas alíneas a), c) e e) do artigo 23.°, na parte que diz respeito às manifestações de ideologia politica são particularmente ilustrativas da sensibilidade da opção legislativa vertida na Lei n.° 39/2009, de 30 de julho, e cuja conformidade constitucional suscita as maiores dúvidas, atentos os preceitos supra invocados.
+Note-se que o incumprimento das alíneas a), c) e e) do artigo 23.° determina o afastamento imediato do recinto desportivo a efetuar pelas forças de segurança presentes no local, nos termos do disposto no n.º° 2 do inalterado artigo 23.°.
+Assim, este tratamento de dados resultante do registo dos filiados no grupo organizado de adeptos, por via do tratamento do dado convicção politica ou ideológica, que sempre decorrerá no contexto do cumprimento das disposições legais já aludidas, suscitam sérias reservas por parte desta CNPD."
+E este o Parecer na CNPD.
+Lisboa, + de maio de 2013
+Ana Roque, Carlos de Campos Lobo (Relator), Helena António, Luís Barroso, Luís
+Paiva de Andrade, Vasco Almeida.
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

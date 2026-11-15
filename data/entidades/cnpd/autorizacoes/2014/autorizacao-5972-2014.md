@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Marolhão Produtos da Pesca, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,85 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T21:02:30Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5972/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/66265](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/66265).
+Proc. N.º: 10439/2013 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 5972/2014
+Marolhão Produtos da Pesca, Lda, com a atividade indústria transformadora de pescado, notificou um tratamento de dados pessoais resultantes de videovigilância, com a finalidade de proteção de pessoas e bens, a realizar nas suas instalações sitas na Zona Industrial de
+Olhão, Lote 7 a 14, 8700-281 Olhão.
+O sistema é composto por 4 (quatro) câmaras, colocadas nos seguintes locais: Zonas de acesso pelo exterior.
+Esclareceu que uma das câmaras apesar de localizada na zona de produção (...)
+encontra-se direcionadas para as zonas de acesso ao exterior.
+Há visualização das imagens em tempo real.
+Não há transmissão das imagens para o exterior do local da instalação do sistema.
+Não há Comissão de Trabalhadores.
+A CNPD já se pronunciou na Deliberação n.º 61/2004, de 19 de Abril ' sobre os princípios orientadores para o correto cumprimento da Lei de Protecção de Dados, em matéria de videovigilância, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de proteção de pessoas e bens. Decorrem desses princípios, bem como da lei laboral e da jurisprudência, os seguintes limites ao tratamento:
+• Não é permitida a recolha de som;
+• A recolha de imagens deve confinar-se à propriedade do responsável, não podendo abranger imagens da via pública ou de propriedades limitrofes;
+• No caso de existirem terminais de pagamento ATM, as câmaras não podem estar direcionadas de modo a captar a digitação dos códigos;
+• Não podem as câmaras incidir regularmente sobre os trabalhadores durante a atividade laboral, nem as imagens podem ser utilizadas para o controlo da
+' Disponível em www.cnpd.pt/bin/orientacoes/principiosvideo.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 10439/2013
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS atividade dos trabalhadores, seja para aferir a produtividade seja para efeitos de responsabilização disciplinar (cf. artigos 20° e 21° do Código do Trabalho);
+• Apenas a recolha de imagens nos locais declarados está abrangida pela presente autorização, não podendo, em circunstância alguma, serem recolhidas imagens de acesso ou interior de instalações sanitárias, acesso e interiores de vestiários ou outras áreas destinadas aos trabalhadores.
+O tratamento em análise, com as limitações referidas, é adequado, pertinente e nãc excessivo face à finalidade declarada (cf. al. b) do n.º1 do artigo 5.° da Lei n.º 67/98, de 26 de outubro (LPD).
+O tratamento de dados pessoais efetuado no âmbito da videovigilância enquadra-se no conceito de vida privada, estando por isso limitado às condições previstas no artigo 7.° da
+LPD. O artigo 13.° do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, constitui a norma legal prevista no artigo 7.°, n.°2 da LPD.
+Assim, com os limites fixados, autoriza-se o tratamento notificado ao abrigo do disposto nos artigos 7.°, n.º 2, 28.° n.º 1, al. a), 29.° e 30.°, n.º 1.° da LPD, nos seguintes termos:
+Responsável
+Marolhão Produtos da Pesca, Lda
+Finalidade
+Protecção de pessoas e bens
+Categoria de dados pessoais tratados
+Forma de exercício do direito de acesso
+Imagens captadas pelo sistema.
+Comunicação das imagens
+Por solicitação escrita ou presencial ao responsável na
+Zona Industrial de Olhão, Lote 7 a 14, 8700-281 Olhão.
+As imagens só podem ser transmitidas no termos da lei processual penal.
+Detetada a eventual infração penal, o responsável deverá, juntamente com a participação, enviar à autoridade judiciária ou ao órgão de polícia criminal competentes as imagens recolhidas.
+Noutras situações em que as autoridades solicitem acesso às imagens, tal só poderá ocorrer, no âmbito de processo-crime devidamente identificado, em cumprimento de despacho fundamentado da autoridade judiciária competente.
+Fora destas condições não pode o responsável comunicar as imagens.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 10439/2013 | 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Interconexões
+Não há
+Fluxo transfronteiriço para países terceiros
+Não há
+Conservação dos dados 30 dias
+Qualquer pessoa abrangida pela gravação das imagens (titular dos dados) tem o direito de a elas aceder (n.º 1 do artigo 11° da LPD), salvo se as imagens estiverem a ser utilizadas no âmbito de investigação criminal, situação em que o pedido do titular deve ser feito à
+CNPD (n.° 2 do mesmo artigo).
+Ao disponibilizar as imagens ao titular dos dados, o responsável deve adotar as medidas técnicas necessárias para ocultar as imagens de terceiros que possam ter sido abrangidos pela gravação.
+Deverão ser afixados, em locais bem visíveis, avisos informativos da existência de videovigilância, nos termos exigidos pelo n.º 3 do artigo 13° do Decreto-lei n.º 35/2004, de 21 de Fevereiro.
+O responsável deve adotar as medidas de segurança previstas nos artigos 14° e 15° da
+LPD.
+O responsável pelo tratamento deve manter um registo de acesso às imagens (Logs) de modo a poder saber quem, quando e que operações foram efetuadas. Deve, também, manter sempre atualizadas a data e hora das gravações.
+Independentemente das medidas de segurança adotadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efetiva segurança dos dados.
+A presente Autorização substitui a Autorização n.º 52/2005, de 15 de fevereiro.
+Lisboa 30/6/2014
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -14,7 +14,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 76/2012
-official_date: null
+official_date: '2012-11-06'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -22,7 +22,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GAB. DO SECRETÁRIO DE ESTADO DA PRESID. DO CONSELHO DE MINISTROS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -71,11 +71,38 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:05:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 76/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/48953](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/48953).
+Processo n.º 11508/2012 | 1 fr
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Parecer N.º 76 12012
+PEDIDO
+Sua Exa. o Senhor Secretário de Estado da Presidência do Conselho de Ministros solicitou à Comissão Nacional de Protecção de Dados (CNPD) parecer sobre o Projeto de Decreto-lei que tem como objecto estabelecer o regime de determinação do nível de conservação dos prédios urbanos ou frações autónomas, arrendados ou não, para os efeitos previstos em matéria de arrendamento urbano, de reabilitação urbana e de conservação do edificado (Projeto).
+Este Projeto contém matéria relativa ao tratamento de dados pessoais, pelo que, por força do artigo 23.° - n.º 1 - a) da Lei 67/98, de 26 de Outubro, o parecer da CNPD é obrigatório.
+Cumpre emitir parecer;
+PARECER 1. O Projeto contém uma única norma que indicia tratamentos de dados pessoais, trata-se do artigo 3.°; "1 - A determinação do nível de conservação, ordenada nos termos do artigo anterior, e realizada por arquiteto, engenheiro ou nos termos do rio anterior es engenheiro técnico inscrito na respectiva ordem profissional. 2 - Os profissionais a que se refere o número anterior são designados, pela câmara municipal ou pela entidade a que se refere o n.º 2 do artigo 2.°, consoante os casos, de entre a) Trabalhadores que exerçam funções públicas, em qualquer modalidade de relação jurídica de emprego público, no município ou na entidade a que se refere o n.º 2 do artigo 2.°, consoante os casos; b)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 11508/2012 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Arquitetos, engenheiros ou engenheiros técnicos que, não se encontrando na situação prevista na alínea anterior, constem de lista, fornecida pelas respectivas ordens profissionais à câmara municipal ou à entidade a que se refere o n.° 2 do artigo 2.°, [entidades referidas no regime de reabilitação urbana do Decreto-Lei n.º 307/2009, de 23 de outubro] consoante os casos, com a indicação dos profissionais habilitados e disponíveis".
+2. Temos assim de concluir que as Câmaras Municipais e aquelas entidades que tenham bases de dados pessoais dos profissionais que se destinam à determinação do nível de conservação dos edifícios, conforme o diploma aprovado, deverão nos termos do artigo 27.° da Lei 67/98, de 26 de outubro, notificar a CNPD.
+É este o nosso parecer.
+Lisboa, 6 de novembro de 2012
+Ana Roque, Helena Delgado António, Luís Barroso, Luís Paiva de Andrade (Relator).
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

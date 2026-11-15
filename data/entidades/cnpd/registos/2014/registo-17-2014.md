@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 17/2014
-official_date: null
+official_date: '2014-01-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Sorrir sempre, Cuidados de saude Unipessoal, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,59 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:57:53Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 17/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/61073](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/61073).
+Processo n.º 8314/2010 | 1
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+REGISTO N.º 17 /2014
+SORRIR SEMPRE - CUIDADOS DE SAÚDE UNIPESSOAL, LDA. notificou um tratamento de dados pessoais com a finalidade de marketing através de passatempo.
+A entidade encarregada do processamento da informação é a Medinfotec.
+Os dados tratados são: nome, morada, telefone, e-mail, idade, fotografia da boca.
+Os dados são recolhidos pessoalmente junto do titular através do passatempo "À procura do sorriso mais bonito de Portugal", promovido pela Vital Dent em parceria com as clínicas suas franchisadas, como é o caso do responsável, sendo solicitada a participação dos utentes das clínicas dentárias.
+Há comunicação de dados entre as clínicas parceiras na promoção do passatempo.
+Os dados pessoais recolhidos são pertinentes e não excessivos face à finalidade declarada, conforme o disposto na alínea c) do n.º 1 do artigo 5.° da Lei n.º 67/98, de 26 de outubro - Lei de
+Proteção de Dados (LPD).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6° da LPD, o consentimento do titular dos dados.
+A requerente vem indicar 10 anos como prazo de conservação dos dados. Por força do disposto na alínea e) do n.º 1 do artigo 5.° da LPD, os dados só devem ser conservados durante o período necessário ao cumprimento do fim a que se destinam.
+Considera a CNPD que, atendendo à finalidade do tratamento e à duração do passatempo, o prazo se revela exagerado. Além disso, de acordo com as condições do passatempo, o titular dos dados cede os direitos de reprodução da sua imagem por um período máximo de 3 anos, não se encontrando, por isso, justificada a conservação dos dados por tempo superior.
+Nesse sentido, fixa-se o prazo máximo de 3 anos findo o passatempo para a conservação dos dados.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 8314/2010 | 2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Assim, em conformidade com o n.º 1 do artigo 27° e do n.º1 do artigo 30.° da Lei n.° 67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+SORRIR SEMPRE - CUIDADOS DE SAÚDE UNIPESSOAL, LDA.
+Finalidade
+Marketing / passatempo "À procura do sorriso mais bonito de Portugal"
+Categoria de dados pessoais tratados
+Nome, morada, telefone, e-mail, idade, fotografia
+Forma de exercício dos direitos de acesso e retificação
+Por carta dirigida à Medinfotec, entidade subcontratada
+Comunicações de dados a terceiros
+Clínicas parceiras na promoção do passatempo
+Interconexões
+Não há
+Transferências para países terceiros
+Não há
+Prazo máximo de conservação dos dados 3 anos após o fim do passatempo
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Havendo lugar à subcontratação de serviços, o responsável está obrigado a observar as exigências legais previstas no artigo 14.° da LPD, designadamente proceder à celebração de contrato, nos termos do n.º 3, e zelar pelo cumprimento das medidas de segurança necessárias à proteção dos dados pessoais, conforme disposto nos n.ºs 1 e 2
+Lisboa, 10 de janeiro de 2014
+A Secretária da CNPD,
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

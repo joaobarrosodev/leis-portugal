@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Chiltern International Portugal, Ldª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:39:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 721/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3580](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/3580).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 4999/07
+Autorização n.° 72|/2008
+Ricardo Diaz, Chiltern International Portugal, Lda, na qualidade de representante de FoldRx Pharmaceuticals, Inc, com sede nos EUA, veio notificar à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional, multicêntrico, em doentes com mutações documentadas da transterretina (TTR) ou amiloidose TTR do tipo selvagem (THAOS).
+O estudo terá a duração de dez anos.
+Os médicos investigadores, nas suas consultas, obterão o consentimento expresso dos doentes que reúnam os critérios de inclusão e aceitem participar no estudo.
+As declarações de consentimento são guardadas pelo médico assistente.
+A recolha dos dados clínicos será efectuada, pelos médicos assistentes participantes no estudo, por acesso ao processo clínico do doente e por resposta a questionários.
+Serão recolhidas as seguintes categorias de dados: Código do doente, iniciais, data de nascimento, género, origem étnica, dados antropométricos, sinais vitais, resultados dos testes genéticos e da biópsia ao tecido, história clínica, resultados dos exames neurológico, cardíaco, renal e oftalmológico, história familiar, terapêutica data das consultas, causas de morte. Será também recolhido o nome do investigador.
+Será obtido o consentimento informado e expresso através de uma declaração, cujo modelo foi junto aos autos.
+A CNPD já se pronunciou na sua Deliberação n.º 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida
+Deliberação.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Não foi apresentada qualquer razão para o tratamento do dado relativo à origem étnica, pelo que a CNPD, com os fundamentos constantes na Deliberação supra referida não Autoriza o tratamento desse dado. A restante informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo).
+O fundamento de legitimidade será o consentimento do titular dos dados.
+O texto de consentimento informado não cumpre as exigências da Lei de Protecção de
+Dados, devendo ser alterado em conformidade.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Ricardo Diaz, Chiltern International Portugal, Lda, na qualidade de representante de FoldRx Pharmaceuticals, Inc,
+Finalidade: estudo observacional, multicêntrico, em doentes com mutações documentadas da transterretina (TTR) ou amiloidose TTR do tipo selvagem (THAOS).
+Categoria de Dados pessoais tratados: - Código do doente, iniciais, data de nascimento, género, dados antropométricos, sinais vitais, resultados dos testes genéticos e da biópsia ao tecido, história clínica, resultados dos exames neurológico, cardíaco, renal e oftalmológico, história familiar, terapêutica data das consultas, causas de morte. Será também recolhido o nome do investigador
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico participante.
+Interconexões de tratamentos: Não há.
+Transferências de dados pessoais para países terceiros: Não há
+Prazo de conservação: o código de doente, porque torna os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS tratamento, após fim da participação do doente no estudo. No mesmo prazo deve ser eliminado o nome do investigador.
+O texto da declaração de consentimento informado deve ser alterada, nos termos do disposto no artigo 10° da LPD.
+Dos termos e condições fixados na Deliberação n.º227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 28 do ACal de 2008
+Ana Roque
+Carlos Campos Lobo
+этме
+Eduardo Campos
+Helena Delgado António (Relatora)
+Luis Barrosp ascotlmeida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

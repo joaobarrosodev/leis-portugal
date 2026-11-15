@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1799/2010
-official_date: null
+official_date: '2010-03-22'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CONTINENTE HIPERMERCADOS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,90 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:33:08Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1799/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23102](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23102).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 1630/09
+AUTORIZAÇÃO N.º 1799 /2010
+I. O Pedido
+Continente Hipermercados, S.A. veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas no Centro Comercial Continente de Valongo, sito na
+Av. do Conhecimento, n.º75, em Valongo.
+A empresa declara que não existe comissão de trabalhadores.
+O sistema é constituído por 112 câmaras que abrangem as seguintes áreas: piso - 2 (porta escadas de emergência, portões entrada e saída, saídas da rampa, porta da escada emergência, porta de emergência acesso directo ao exterior lado P. Combustível, porta escadas de emergência, hall elevadores panorâmicos, hall dos tapetes rolantes, hall dos elevadores, corredores de acesso a escada emergência, parque de estacionamento, acessos aos tapetes rolantes, entradas e saídas do parque de estacionamento, cais da galeria, entrada do monta-cargas, portaria cais, portão de entrada do cais), piso -1 (portas das escadas de emergência, portas de acesso aos corredores técnicos, rampas de acesso, escadas de emergência, central de bombagem, portões de entrada, entradas e saídas, hall dos elevadores panorâmicos, hall dos tapetes rolantes, parque de estacionamento, saídas dos elevadores, acesso a tapetes rolantes, hall dos elevadores, portão de entrada e portaria do continente e elevador), piso 0 (corredores técnicos de acesso a escadas de emergência, acesso a escadas de emergência, corredores das lojas, galerias, acesso a elevador monta-cargas, praça de alimentação, tapetes rolantes, corredores técnicos, entradas, tapetes rolantes, praça da restauração, hall dos elevadores e wc's) piso 1 (acesso a escadas de emergência, administração do centro, caixas de correio) piso 2 (cais da galeria, acesso a escadas de emergência, hall monta cargas e acesso a cobertura, central de segurança, corredor técnico) cobertura uta's, exterior da loja Continente, cobertura, posto de combustível, entradas e saídas exteriores (sem captar via pública), espelho de água, entrada cais e traseiras do cais continente.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213928400
+Fax: 213976832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+II. Análise
+Através da deliberação n° 61/2004, de 19 de Abril(), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.° n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da empresa no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos, valores e agressões entre pessoas.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.° 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços () Disponível in http://www.cnpd.pt/bin/orientaçoes/prinicpiosvidco.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Contudo, considera a CNPD, que a captação de imagens através da câmara n.° 76 (hall de elevadores 3 e 4 e wc's) não respeita o princípio da proporcionalidade infringindo o artigo 18° da Constituição, bem como os artigos 35° n.º3 da
+Constituição e 7° n.º 1 da Lei de Protecção de Dados, na parte em que referem o valor jurídico vida privada. A CNPD não autoriza assim a recolha de imagens nos wc's e acessos por considerar que tal permite ao responsável uma intromissão desproporcionada na liberdade de movimentação dos clientes e trabalhadores do
+Centro, pelo que deve a referida câmara ser recolocada apenas para o hall dos elevadores 3 e 4, sem captar imagens da citada zona sensível.
+Mais entende a CNPD que, as imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.° do
+Código do Trabalho (*).
+III. Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Continente Hipermercados, S.A.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve (2) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral(@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal -os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei 67/98.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem com os seguintes dizeres:
+«Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem» (Art.º13.º n.º3 do
+Decreto-Lei n.°35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho.
+9. As câmaras não devem estar direccionadas para os terminais de pagamento (POS), sendo proibida a captação de imagens relativas à digitação dos "códigos" associados aos cartões de débito.
+10. A recolha de imagens deve confinar-se ao perímetro da propriedade e não podem envolver a recolha de imagens nas zonas limitrofes ou na via pública.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 4 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 11. Não é autorizada a recolha de imagens dos wc's e acessos a estes, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento, pelo que, a câmara n.º 76 deve ser recolocada apenas para o hall dos elevadores 3 e 4.
+Notificada, a entidade responsável para se pronunciar nos termos dos artigos 100.° e 101.° do CPA, e a mesma tendo aceite as condições impostas pela CNPD, determina-se converter o projecto de autorização de 22 de Março de 2010, na presente autorização.
+Lisboa, 17 Maio 2010
+Ana Roque, Carlos Lobo, Helena Delgado António (Relatora), Vasco Almeida,
+Luís Barroso, Luís Paiva de Andrade
+Sa
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 5 duvidas@cnpd.pt

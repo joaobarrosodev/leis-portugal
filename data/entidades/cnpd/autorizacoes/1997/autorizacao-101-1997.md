@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 101/1997
-official_date: null
+official_date: '1997-01-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: MONTEPIO GERAL CAIXA ECONOMICA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,45 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:12:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 101/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10620](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10620).
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Pe-N: 261/97 - Inconporado AUTORIZAÇÃO N° 101/97
+No processo 68194
+O Montepio Geral Caixa Económica tem os seus ficheiros legalizados nos termos da Autorização n° 71/96 de 25/6/96.
+1. Esse instrumento de legalização já solicitava autorização para comunicar os dados as empresas que fazem parte do Grupo. Os impressos de recolha de dados já obtém autorização dos titulares para cedência dos dados às empresas do Grupo.
+A CNPDPI entendeu, na autorização em referência, que apenas estavam reunidas condições de acesso à informação por parte do Montepio Geral Associação
+Mutualista.
+2. Vem a CEMG solicitar autorização para facultar à Lusitânia - Companhia de
+Seguros, SA e à LEACOCK - Sociedade Correctora de Seguros, Ldª, empresas do
+Grupo, alguma informação. O pedido é formulado nos seguintes termos:
+- Pretende transmitir a estas empresas dados actualizados que detenha nos seus ficheiros informáticos (morada, localidade e código postal) em relação a mutuários que tenham apólices constituídas ou mediadas naquelas empresas;
+- Ceder àquelas empresas a informação anteriormente mencionada no âmbito dos Seguros de Risco de Crédito relativo a clientes da CEMG.
+A CNPDPI autoriza o acesso à informação na medida em que a cedência é «compativel com a finalidade da recolha e, nomeadamente, com o tipo de actividade desenvolvida pelas empresas do Grupo identificadas no processo». Por outro lado, essa possibilidade e fundamentada pelo disposto no art° 83 do D.L. 298/92 de 31/12 ao estabelecer que "as instituições de crédito poderão organizar, sob regime de segredo, um sistema de informações recíprocas com o fim de garantir a segurança das operações".
+Também o D. L. 183/88 de 24 de Maio - que regulamentou o quadro legal do seguro de créditos - permite às seguradoras o "acesso ao serviço de centralização dos riscos de crédito do Banco de Portugal, desde que as informações se prendam com os riscos previstos neste diploma" (art° 21° al. b).
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+N
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+Em face do exposto, a Comissão autoriza o acesso/cedência de dados às empresas
+Lusitânia e Leacock nos termos e com os fundamentos que antecedem.
+Lisboa, 23 de Janeiro de 1997
+Amadeu Francisco Ribeiro Guerra (Relator)
+Nuno Albuquerque Morais Sarmento
+Luís José Durão Barroso
+João Alfredo Massano Labescat da Silva
+Mário Varges Gomes 1 Clu
+Augusto Victor Coelho (Presidento)
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

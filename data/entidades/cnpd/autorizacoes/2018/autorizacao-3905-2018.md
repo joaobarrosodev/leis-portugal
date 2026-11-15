@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3905/2018
-official_date: null
+official_date: '2018-03-20'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NAVIGATOR TISSUE CACIA SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,84 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T06:24:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3905/2018
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/119599](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/119599).
+Processo n. 19574/2017 | 1 /
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+AUTORIZAÇÃO N.º 3905/2018 1 - Pedido
+NAVIGATOR Tissue Cacia, S.A., titular do NIF/NIPC n.º 513485368, notificou à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de controlo de substâncias psicoativas. Esse tratamento está consubstanciado no documento intitulado "Regulamento Interno de Prevenção e controlo de álcool, estupefacientes, psicotrópicos e substâncias análogas nas instalações da The Navigator
+Company". Além daquele documento, foi enviado um formulário intitulado "Boletim de
+Controlo de Aptidão para o Trabalho .
+Do pedido de autorização resulta o seguinte:
+a) Os dados pessoais objeto de tratamento são nome do colaborador, número, categoria, empresa, local de trabalho, órgão a que pertence, período normal de trabalho, hora, data, motivo do teste, álcool, valor, contraprova, toxicologia, contraprova, assinatura do responsável pela realização, assinatura da testemunha, assinatura do colaborador;
+b) Foi declarada a inexistência de comissão de trabalhadores;
+c) Pretende-se a conservação dos dados pelo prazo de 1 (um) ano e nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho ou doença profissional, a informação pode ser conservada para além daquele prazo enquanto se mostrar necessária, designadamente para comprovação da situação de doença;
+d) O exercício do direito de acesso é feito presencialmente na morada: Rua dos
+Bombeiros da Celulose, 3800 - 536 Cacia, Portugal;
+e) São indicadas medidas de segurança física e lógica.
+2 - Audiência prévia
+A Requerente foi notificada, nos termos e para os efeitos do disposto nos artigos 121° e 122° do Código de Procedimento Administrativa, se pronunciar, querendo, sobre o Projeto de Autorização n.° 29/2018. Todavia, até à data nada disse.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n. 19574/2017 | 1v. /
+Reiteram-se, assim, os fundamentos de facto e de Direito constantes do referido Projeto de
+Autorização.
+3 - Enquadramento juridico
+A CNPD já se pronunciou na sua Deliberação n.° 890/20101 sobre o enquadramento legal, os fundamentos de legitimidade e os princípios orientadores para o correto cumprimento da
+Lei n.º 67/98, de 26 de outubro, com a redação dada pela Lei n.º 103/2015, de 24 de agosto (Lei de Proteção de Dados Pessoais - LPDP), bem como sobre as condições gerais aplicáveis ao tratamento de dados pessoais com esta finalidade.
+O fundamento de legitimidade do tratamento de dados é o interesse público importante que lhe está subjacente e que se traduz na prevenção do perigo para a integridade física do próprio ou de terceiros (cf. n.º 2 do artigo 7° da LPDP). Assim, o âmbito de aplicação do controlo deve ser restrito a trabalhadores de categorias profissionais cuja atividade possa pôr em perigo a sua integridade física ou outros bens jurídicos protegidos, ou de terceiro e em qualquer momento, aos trabalhadores que o solicitem, tal como consta do Regulamento.
+Do disposto no n.º 2 do artigo 17° do Código do Trabalho, no artigo 107° da Lei n.° 102/2009, de 10 de setembro, e na Deliberação n.º 890/2010 decorre que só são legítimos os procedimentos de controlo de alcoolemia com a finalidade de medicina preventiva e curativa, devendo ser sempre efetuados pelos serviços de medicina do trabalho, por médicos, profissionais de saúde sujeitos, como é consabido, a um duplo sigilo.
+E ilegítimo estabelecer presunções de inaptidão por recusa do trabalhador em submeter-se ao exame, tanto mais que a finalidade do tratamento tem um caráter preventivo e não punitivo. A declaração de aptidão ou inaptidão terá, assim, de resultar de um exame médico e da efetiva constatação da real condição física e psíquica do trabalhador.
+Do exposto decorre que não é a constatação de uma qualquer taxa de alcoolemia ou de toxicologia que objetivamente pode determinar se o trabalhador está apto ou inapto para o trabalho; tal afirmação apenas pode com legitimidade ser feita pelo médico do trabalho em função da observação do trabalhador e com base em critérios clínicos. Não se autoriza pois, o disposto nos pontos 5.1., 5.2 e 5.3 do Regulamento.
+A informação de saúde, na qual se incluem os resultados dos testes, em caso algum poderá ser comunicada ao empregador, apenas podendo ser dado conhecimento do estado de
+'Cf. www.cnpd.pt/bin/orientacoes/20_890:2010.pdf
+
+Processo n.º 19574/2017 2 /
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS aptidão do trabalhador através da ficha com a menção de "apto" ou "não apto" (cf. n.º 3 do artigo 19° do Código de Trabalho"). Em caso algum pode o empregador tomar conhecimento do resultado dos testes - sujeitos a sigilo médico -, seja para efeitos de procedimento disciplinar ou para contestação de ação judicial; apenas lhe é lícito conhecer a ficha de aptidão.
+Admite-se a utilização das fichas de aptidão - e apenas destas, não dos resultados dos testes - para efeitos de prova em procedimento disciplinar cuja fundamentação assente nas causas tipificadas no Código do Trabalho. Sublinha-se que o consumo em si não constitui infração disciplinar, mas apenas e tão só o comportamento que dele eventualmente decorra.
+Nos termos do disposto no n.º 12 do artigo 15.º da Lei n.º 102/2009, de 10 de setembro, não podem decorrer encargos financeiros para o trabalhador em resultado da execução de medidas de controlo de substâncias psicoativas no local de trabalho ou de eventual contraprova.
+A Requerente não mencionou o plano terapêutico nos dados a tratar. Todavia, se não estivermos perante um caso fortuito de consumo de álcool ou drogas mas face a uma situação de adição ou dependência, estágio mais grave que constitui doença, o médico do trabalho terá necessariamente de estabelecer um plano terapêutico, como de resto o fará em casos de menor gravidade mas que, por outras condicionantes, possam exigir acompanhamento ou medicação. Estes dados clínicos recolhidos pelo médico serão sempre e para todos os efeitos dados cuja recolha é efetuada em nome e por conta da Requerente, quer o médico aja enquanto subcontratante (ou como seu trabalhador) no caso de serviço externo de medicina no trabalho, seja diretamente na qualidade de médico do serviço interno da entidade responsável. Assim sendo, a Requerente será sempre a entidade responsável pelo tratamento e segurança daqueles dados, pelo que têm de ser elencados no conjunto de dados a tratar.
+No momento da recolha ou da atualização dos dados existentes deve ser assegurado direito de informação nos termos do artigo 10.° da LPDP. Durante o período de conservação dos dados deve ainda ser assegurado o direito de acesso nos termos previstos no artigo 11.° da
+LPDP.
+Relativamente aos prazos máximos de conservação de dados, atento o disposto na alínea e) do n.º 1 do artigo 5.° da LPDP, devem os dados pessoais ser conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n. 19574/2017 2v. / tratamento posterior. Neste sentido, atenta a sensibilidade dos dados pessoais objeto de tratamento, fixa-se o prazo máximo de conservação da informação em 1 (um) ano. Nas situações de pendência de processo judicial, nomeadamente decorrente de acidente de trabalho, ou doença profissional, a informação pode ser conservada para além do referido prazo, enquanto se mostrar necessária para comprovação da situação de doença.
+Os testes e exames médicos realizados no âmbito dos controlos de substâncias psicoativas constituem dados de saúde dos trabalhadores e, enquanto dados sensíveis à luz n.º 2 do artigo 7° da LPDP, a respetiva guarda e conservação estão sujeitas às medidas especiais de segurança previstas no artigo 15° daquele diploma legal.
+4 - Decisão
+Assim, nos termos das disposições conjugadas dos artigos 7.°, n.º 2, 27.°, n.º1, e 30.°, todos da LPDP, a CNPD autoriza o tratamento de dados supra referido nos seguintes termos:
+Responsável: Stanley NAVIGATOR Tissue Cacia, S.A.;
+Categoria de dados tratados: dados de identificação do trabalhador, dados de saude relacionados com o consumo, incluindo plano terapêutico, substâncias alvo de deteção/controlo, circunstâncias da aplicação dos testes, dados de identificação dos profissionais de saúde envolvidos na deteção, frequência do controlo e respetiva fundamentação, data de realização do controlo, eventuais resultados de contraprova por organismo credenciado e procedimentos adotados no caso de resultado positivo;
+Finalidade: medicina preventiva e curativa no âmbito do controlo de substâncias psicoativas;
+Comunicação de dados: sem prejuízo das comunicações legalmente previstas, não pode haver comunicação de dados. A ficha clínica só pode ser facultada às autoridades de saúde e aos médicos da Autoridade para as Condições de Trabalho (cf. n.° 2 do artigo 109° da Lei n.º 102/2009, de 10 de Setembro). A comunicação de dados para os recursos humanos deverá limitar-se às indicações de "apto", ou "não apto";
+Interconexões: não há;
+Fluxos internacionais de dados para países terceiros: não se verificam;
+Forma do exercício do direito de acesso e retificação: presencialmente na morada: Rua dos
+Bombeiros da Celulose, 3800 - 536 Cacia, Portugal;
+Tempo de conservação de dados: fixa-se o prazo máximo de conservação da informação em 1 (um) ano. Nas situações de existência de processo judicial, nomeadamente decorrente de acidente de trabalho, ou doença profissional, a informação pode ser conservada para
+
+Processo n.º 19574/2017 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS além do referido prazo, enquanto se mostrar necessária, designadamente para comprovação da situação de doença.
+Lisboa, 20 de março de 2018
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

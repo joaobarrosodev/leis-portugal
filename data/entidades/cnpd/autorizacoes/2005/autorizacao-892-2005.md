@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IBMC - INSTITUTO DE BIOLOGIA MOLECULAR CELULAR'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:18:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 892/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7011](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7011).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 1453/2005
+AUTORIZAÇÃO N.° 892 /2005 1. O Instituto de Biologia Molecular e Celular veio notificar tratamento com a finalidade de «melhorar a prestação de cuidados assistenciais e contribuir para a investigação clínica».
+Conforme consta dos autos, os dados são recolhidos junto do médico assistente nos respectivos Centros de Saúde, sendo obtido o «consentimento informado» para o tratamento daqueles dados, conforme modelo constante de fls. 2.
+2. Os dados tratados - nome, data de nascimento, sexo, nome dos pais, morada, nome do médico assistente bem como resultado do estudo das análises genéticas - são necessários, pertinentes e não excessivos em relação à finalidade (cf. artigo 5.º n.º 1 alínea c) da Lei 67/98, de 26 de Outubro).
+É obtido o consentimento informado dos titulares (cf. artigo 7.° n.º 2 da Lei 67/98), havendo razões bastantes para assegurar que há garantias de não discriminação na medida em que os dados são processados por profissionais de saúde obrigados ao segredo profissional.
+A CNPD autoriza o tratamento (cf. artigos 7.° n.º 2, 27.º n.º 1, 28.° n.º 1 al a) e 29.° da
+Lei 67/98, de 26 de Outubro), consignando-se o seguinte:
+1. Responsável: Instituto de Biologia Molecular e Celular.
+2. Categorias de dados pessoais tratados: nome, data de nascimento, sexo, nome dos pais, morada, nome do médico assistente bem como resultado do estudo das análises genéticas.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 3. Finalidade: melhorar a prestação de cuidados assistenciais e contribuir para a investigação clínica.
+4. Entidades a quem podem ser transmitidos: Não há transmissão de dados.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação pessoal, através do médico assistente.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+Lisboa, 3 | de Outubro de 2005
+Aedeno
+Amadeu Guerra (relator)
+Alexandre Pinheiro
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Telr
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

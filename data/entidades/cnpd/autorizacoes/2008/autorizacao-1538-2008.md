@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1538/2008
-official_date: null
+official_date: '2008-07-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FIXEDA - MATERIAIS E EQUIPAMENTOS PARA MANUTENÇÃO AUTO, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:24:36Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1538/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5874](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5874).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 1469/08
+AUTORIZAÇÃO N.º1538/2008
+A sociedade comercial por quotas denominada FIXEDA - MATERIAIS E
+EQUIPAMENTOS PARA MANUTENÇÃO AUTO, Lda., notificou à Comissão
+Nacional de Protecção de Dados (CNPD) os tratamentos de gestão de
+Recursos Humanos em relação aos seus trabalhadores, indicando como finalidade do tratamento "elaboração dos recibos de vencimento dos empregados da entidade e cumprimento dos requisitos legais inerentes a esta gestão".As categorias de dados tratados, que constam do ponto n.º 5 do formulário e são dados identificativos e NIB, bem como dados relativos à actividade laboral prestada, são necessárias e não excessivas em relação à finalidade (cf. art. 5.° da Lei 67/98, de 26 de Outubro).
+Não há comunicação de dados, nem quaisquer fluxos ou interconexões. Os dados recolhidos podem ser conservados por 6 meses após o fim da relação laboral. Os titulares podem exercer o seu direito de correcção por escrito junto do responsável.
+Face ao exposto, delibera esta CNPD, nos termos do disposto no n.º 1 do artigo 30.° da Lei n.º 67/98, de 26 de Outubro, Autorizar o tratamento de dados pessoais relativos à gestão de recursos humanos, com fundamento no disposto no artigo 6°, alínea e), da LPD.
+Responsável: FIXEDA -
+MATERIAIS E EQUIPAMENTOS PARA
+MANUTENÇÃO AUTO, Lda.,
+Categoria de dados pessoais tratados: dados identificativos e NIB
+Finalidade: gestão de recursos humanos
+Prazo de conservação: 5 anos após o fim da relação laboral
+Lisboa, 7 de Julho de 2008.
+Ana Roque (relatora)
+Rua de São Bento, 148 - 3.° -
+— 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Helena Delgado António
+Luís Barroso
+элло
+Eduardo Campos vascoslmeida
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

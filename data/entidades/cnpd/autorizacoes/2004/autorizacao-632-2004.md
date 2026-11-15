@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 632/2004
-official_date: null
+official_date: '2004-06-01'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GMAC - Instituição Financeira de Crédito, SA -ExGENERAL MOTORS ACCEP.CORP PT,SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,39 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:46:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 632/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8932](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8932).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 66/96
+AUTORIZAÇÃO N.° 632 /2004
+A GMAC - Serviços Financeiros, SA veio pedir autorização para a transmissão de informação sobre os seus clientes em situação de mora, para a base de dados da
+Credinformações.
+1. A comunicação de dados à Credinformações tem como fundamento próximo uma disposição legal: o art° 83° do DL 298/92 de 31 de Dezembro. Este preceito é expresso ao permitir às sociedades financeiras a organização, isob regime de segredo, de um sistema de informações recíprocas com o fim de garantir a segurança das operações" -tarefa que, no caso em apreço, está atribuída à Credinformações.
+A Comissão considera que os titulares dos dados devem ter conhecimento das finalidades do ficheiro e da finalidade determinante da recolha de dados (cf. art. 10.º da
+Lei 67/98).
+Esta obrigação de informação - que impende sobre as entidades responsáveis de cada um destes tratamentos - é independente da obrigação que tem a Credinformações, em relação ao seu tratamento, de informar os titulares da inclusão/registo dos seus dados pessoais.
+2. A GMAC deverá dar particular atenção à actualização de dados, devendo comunicar à Credinformações - de imediato - a regularização da obrigação em mora. Neste caso, e tal como decorre do artigo 5.° n.º 1 al. d) da Lei 67/98, a comunicação da «alteração da situação» - que visa a actualização de dados na base de dados da responsabilidade da
+Credinformações - deverá ser feita imediatamente após a regularização da dívida.
+Caso seja adoptada outra metodologia para actualização - vg. através do envio de suporte magnético - deve a GMAC informar qual o prazo máximo para a actualização de dados.
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 1 de Junho de 2004
+Amadeu Guerra (relator)
+Alexandesourodinteir
+Alexandre Pinheiro n
+Luís Barroso
+Eduardo Campos ger
+Ana Luísa Geraldes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

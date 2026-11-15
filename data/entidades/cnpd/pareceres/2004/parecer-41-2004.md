@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 41/2004
-official_date: null
+official_date: '2004-11-23'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GABINETE DO PRESIDENTE DA A.R.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,57 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:24:59Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 41/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5919](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/5919).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.º 1206/1596/04
+Parecer n. |/04 1- Tendo o Gabinete do Presidente da Assembleia da República solicitado à Comissão
+Nacional de Protecção de Dados (CNPD) parecer sobre a proposta de lei n.º 140/IX que
+*autoriza o Governo a alterar o regime jurídico do arrendamento urbano", apresentada pelo Governo. Esta Comissão decidiu no Parecer n.º 37/2004, concluindo, designadamente, que:
+- A lei de autorização deve prever, claramente, as regras que enquadram o sentido e a extensão das interconexões autorizadas.
+- A lei de autorização deve prever, claramente, a finalidade atribuida à interconexão, bem como o responsável pelo tratamento.
+Na sequência de alterações apresentadas, o Governo solicita à CNPD novo parecer sobre o texto já apreciado, com algumas alterações.
+2- Do novo texto, releva, para efeitos de apreciação por esta Comissão, o seguinte:
+a) O artigo 3.°, n.° 6, alínea a) permite ao Governo legislar, no sentido de definir como dados pessoais objecto de tratamento e interconexão os constantes das informações a prestar para efeitos de atribuição de subsídios de renda, de incentivo ao arrendamento por jovens, ao direito à habitação social e à integração em programas de realojamento, com vista a permitir o realojamento, com vista a permitir o acompanhamento, verificação e fiscalização do cumprimento dos requisitos legais para atribuição de cada um dos apoios sociais;
+b) O artigo 3., n.º 6, alínea b) permite ao Governo legislar, no sentido de atribuir ao
+Instituto Nacional de Habitação a responsabilidade para o tratamento dos dados pessoais previstos na alínea anterior, nos termos do artigo 3.°, alínea i), da Lei n.º 67/98, de 26 de Outubro, tendo em vista a prossecução das suas competências no sector da habitação.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Com estas duas novas disposições fica definido o responsável pelo concreto tratamento da interconexão.
+No caso de a interconexão se verificar entre ficheiros do Instituto Nacional de
+Habitação, a lei deve precisar qual a natureza dos dados em causa.
+No caso de a interconexão envolver o recurso - nas formas de recolha e fornecimento -a ficheiros mantidos por outro ou por outro responsáveis, salienta-se que a proposta de lei é omissa. Nesta conformidade, não haverá cobertura para, por exemplo, a cooperação recíproca entre entidades diversas através dos dados referidos nesta autorização legislativa.
+Em conformidade com o exposto a Comissão Nacional de Protecção de Dados conclui que:
+- A lei de autorização deve precisar a natureza dos dados objecto de tratamento entre ficheiros internos do Instituto Nacional de Habitação, nomeadamente se estiverem em causa dados de natureza sensível, nos termos do artigo 7º da Lei n.º 67/98, de 26 de
+Outubro;
+- A presente autorização legislativa não cobre eventuais interconexões de tratamentos com entidades externas ao Instituto Nacional de Habitação;
+- A autorização legislativa em apreciação não permite, designadamente, a cooperação recíproca entre entidades diversas com recolha aos dados aí previstos.
+Lisboa, 23 de Novembro de 2004
+Alexandedoradinhos
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Eduardo Campos'
+Jou
+Ana Luísa Geraldes
+Aeden un
+Amadeu Guerra de: 9 falar:
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

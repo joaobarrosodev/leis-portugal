@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 181/2002
-official_date: null
+official_date: '2002-11-05'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UNILEVER BESTFOODS PORTUGAL-PRODUTOS ALIMENTARES SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:00:48Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 181/2002
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9642](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9642).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 781/02
+AUTORIZAÇÃO N.° 181 /2002
+A empresa UNILEVER Bestfoods Portugal - Produtos Alimentares, SA veio notificar à Comissão Nacional de Protecção de Dados (CNPD) o tratamento de dados de gestão de Recursos Humanos/gestão de quadros a nível internacional, bem como solicitar a autorização para a transferência de dados pessoais para os Estados Unidos da
+América (EUA).
+1. As categorias de dados tratados, que constam do anexo ao ponto n.º 5 do formulário:
+nome, data de nascimento, data de admissão, estado civil, nome e data de nascimento dos filhos, grau académico, curso e Universidade, formação profissional (cursos
+Unilever), conhecimentos de línguas estrangeiras, histórico de funções, histórico de remunerações, histórico de posição na hierarquia, local de trabalho, área funcional, experiência profissional anterior à admissão.
+Os dados tratados são necessários e não excessivos em relação à finalidade (cf. art. 5.º da Lei 67/98, de 26 de Outubro).
+2. Nos termos do disposto no artigo 20.º e na alínea e) do n.º 1 do artigo 23.º da Lei de
+Protecção de Dados Pessoais, a transferência de dados pessoais para países terceiros carece de autorização da CNPD.
+Nos termos do artigo 20.º da Lei 67/98, de 26 de Outubro, a transferência de dados pessoais para os EUA pode ser permitida pela CNPD se o titular dos dados tiver nela consentido inequivocamente.
+Conforme resulta dos processos de outras empresas do Grupo - v.g. Gelcasa (Porc.
+209/98) existe uma declaração de consentimento que é precedida de uma informação sobre as finalidades do tratamento.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3. A CNPD admite que a transferência de dados se apresente como uma razão de interesse para o titular dos dados. No entanto, o anexo - declaração de consentimento -deve ser reformulado por forma a assegurar com rigor e clareza as finalidades da comunicação de dados e representar um «consentimento inequívoco» (cf. corpo do artigo 20.° da Lei 67/98). Para o efeito, a declaração de consentimento deve ser complementada e acompanhada da carta/memorando (datada de 25 de Outubro de 2001). Só assim os trabalhadores são informados da finalidade do tratamento, da finalidade do fluxo transfronteiras, a que se seguirá uma «declaração de consentimento informado».
+Face a todo o exposto DELIBERA esta CNPD, nos termos do disposto no n.º 1 do artigo 20.° da Lei n.º 67/98, de 26 de Outubro, autorizar o tratamento de dados pessoais, bem como a sua transmissão para os EUA. A entidade responsável deve cumprir as exigências relativas ao direito de informação e consentimento informado.
+Lisboa, 5 de Novembro de 2002
+Mário Varges Comes (Relator)
+Luís Durão Barroso
+Cristina Baptista
+Catarina Sarmento e Castro
+Alicandesoura dinheiro
+Alexandre Pinheiro
+Amadeu Guerra
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.°
+E-mail: geral@cnpd.pt 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt

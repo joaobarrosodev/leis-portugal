@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NETSAÚDE - GESTÃO E PRESTAÇÃO DE SERVIÇOS NA ÁREA DA SAÚDE VIA INTERNET, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,50 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:04:26Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 831/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8475](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8475).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 488/2001
+AUTORIZAÇÃO N.º 8S | /2004
+A NetSaúde vem requerer à CNPD autorização para introduzir uma nova funcionalidade que consiste na possibilidade de o médico aderente fazer a prescrição de medicamentos de forma digital, podendo a farmácia - através da consulta à base de dados - fazer o aviamento do medicamento, a solicitação do doente que apresenta o cartão de utente do
+SNS.
+Quando o doente exibe o Cartão de Utente a farmácia faz a leitura do respectivo código de barras. Na sequência dessa operação é feita uma busca imediata ao sistema NetSaúde das prescrições existentes em relação àquele utente no "processo clínico electrónico" de cada médico. Por razões operacionais e de rapidez da busca pretende a NetSaúde criar uma base de dados centralizada de prescrições - que agregará as prescrições de cada processo clínico electrónico - e que contém a informação estritamente necessária ao aviamento dos medicamentos (cf. ponto 5 do formulário). Este novo tratamento tem uma finalidade específica - acesso pelas farmácias às prescrições electrónicas - e apenas conservará os dados pelo prazo de 10 dias, com o objectivo exclusivo de permitir o aviamento. Findo esse prazo os dados serão eliminados desta base de dados.
+Os dados destinam-se exclusivamente a esta finalidade e «não serão transmitidos a qualquer entidade não envolvida no processamento» (farmácia ou entidade que comparticipa no medicamento).
+Consagram-se limitações em relação à privacidade: "não revelação à farmácia que avia a prescrição da entidade médico prescritor, nem à entidade pagadora de comparticipação pública do nome do doente".
+A farmácia tem acesso aos seguintes dados:
+N.º de receita, nome do doente, telefone, entidade responsável, n.° de beneficiário, designação do medicamento prescrito, dosagem, forma de apresentação, dimensão da embalagem, n.º destas e indicações se o médico autoriza (ou não) a dispensa de medicamento genérico.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A NetSaúde remeterá à entidade que procede ao pagamento da comparticipação os seguintes dados:
+N.º de receita, identificação do médico prescritor (nome, n.º de cédula profissional, especialidade) e medicamento aviado.
+Importa reconhecer que estes dados já hoje são acessíveis, tanto à farmácia como ao "sub-sistema de saúde" em suporte de papel.
+Os dados são necessários, adequados e não excessivos em relação à finalidade (cf.
+artigo 5.° n.º 1 al. c) da Lei 67/98, de 26 de Outubro). O tratamento é legítimo na medida em que feito no âmbito de diagnóstico e prestação de cuidados de saúde (em relação à NetSaúde/médico prescritor) - cf. artigo 7.° n.º 4 de Lei 67/98 - sendo admissível a comunicação à farmácia para fins de aviamento (cf. artigo 6.° alínea a) e c)
+da Lei 67/98).
+Em face do exposto autoriza-se o tratamento destes dados, nos termos requeridos e da forma descrita na presente autorização.
+Lisboa, 3 de Julho de 2004 reden
+Amadeu Guerra (relator)
+Alexandefesa dinheiro
+Alexandre Pinheiro
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

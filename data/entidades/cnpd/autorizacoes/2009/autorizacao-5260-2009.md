@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO PORTUGUÊS DE ONCOLOGIA DO PORTO FRANCISCO GENTIL, E.P.E'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:11:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5260/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20288](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20288).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 2872/07
+Autorização n.° 5260/09
+O Instituto Português de Oncologia do Porto Francisco Gentil, EPE notificou um tratamento de dados pessoais com a finalidade de gestão do Sistema Laboratorial de Microbiologia
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+Em relação à segurança da informação - e porque estão em causa dados sensíveis - o responsável deve assegurar as condições adequadas e suficientes que garantam a qualidade (exactidão, actualidade, fiabilidade, entre outras características) da informação nelas contidas que se reporta aos titulares. E importante, ainda, considerar as medidas previstas no artigo 15.° da Lei 67/98.
+Tais medidas devem aplicar-se tanto aos dados contidos em ficheiros automatizados, como aos dados manuais. Importa ainda ter em atenção os procedimentos concretos quanto às formas de recolha, processamento e circulação da informação. O sistema deve garantir uma separação lógica entre os dados referentes à saúde e os restantes dados pessoais, de natureza administrativa (artigo 15° n° 3 da Lei 67/98). Nesse sentido, o sistema deve estar estruturado, de modo a permitir o acesso à informação de acordo com os diferentes perfis de utilizador, com níveis de acesso diferenciados e privilégios de manuseamento da informação distintos. Deverão ser atribuídas palavras-passe que disciplinem as autorizações de acesso. Os perfis de utilizador devem ser mantidos actualizados e eliminados quando utilizador deixe de ter privilégios de acesso. As palavras-passe devem ainda ser periodicamente alteradas.
+Devem, pois, ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas
+Sempre que haja circulação da informação de saúde em rede, a transmissão dos dados deve ser cifrada (n° 4 do artigo 15° da Lei 67/98).
+Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização auditorias de internas e externas. De igual modo, devem ser feitas cópias de segurança (backups) da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direcção, a outros técnicos obrigados a segredo profissional.
+No que diz respeito aos dados contidos em suporte de papel, devem ser adoptadas medidas organizacionais, que garantam um nível de segurança idêntico, impedindo o acesso e manuseamento indevidos.
+Quando a recolha de dados pessoais referentes à saúde não for efectuada directamente pelo profissional de saúde (p.e., preenchimento de um questionário directamente pelo titular dos dados ou recolha de dados pelos funcionários administrativos), têm de ser tomadas medidas concretas quanto a circulação dessa informação, que impeçam a visualização dos dados por pessoa não autorizada (alíneas b) e h) do n° 1 do art. 15° da Lei 67/98), designadamente mediante a entrega directa ao profissional de saúde ou entrega nos serviços, em envelope
+Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+O fundamento de legitimidade é o n.º4 do artigo 7° da LPD, uma vez que o tratamento é necessário para diagnóstico, prestação de cuidados e tratamentos médicos, é efectuado por um profissional de saúde obrigado a sigilo e foram declaradas medidas de segurança
+Assim, ao abrigo dos artigos 27°, n.º1, 28.° n.º 1 al. a) e 30° da Lei de Protecção de Dados autoriza-se o tratamento nos seguintes termos:
+Responsável
+Instituto Português de Oncologia do Porto Francisco Gentil, EPE
+Finalidade
+Gestão do Sistema Laboratorial de Microbiologia
+Categoria de dados pessoais tratados
+Nome, morada, sexo, data de nascimento, telefone, n.°º de beneficiário, tipo de utente, n.° de processo hospitalar, serviço/quarto/cama,/enfermaria, serviço requisitante, médico, e resultados das análises laboratoriais
+Forma de exercício do direito de acesso e rectificação
+Por solicitação escrita ao responsável
+Comunicações de dados
+Ao médico/serviço requisitante
+Interconexões
+Não há.
+Fluxo transfronteiriço de dados
+Não há.
+Conservação dos dados
+Prazo estabelecido no anexo à Portaria n.º 247/2000, de 8 de
+Maio;
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.°
+Quanto ao exercício dos direitos de acesso, rectificação e eliminação, alerta-se o responsável que sobre esta matéria rege o artigo 11° da Lei n.° 67/98, de 26 de Outubro.
+Do mesmo modo se alerta que o acesso por terceiros a dados de saúde, incluindo aos dos titulares já falecidos (v.g. Companhias de Seguros ou familiares) carece de autorização prévia desta CNPD.
+Lisboa, 16 / I| / 0g
+Ana Roque, Carlos Lobo, Helena Delgado António, Luís Paiva de Andrade, Vasco Almeida, Luís
+Barroso (Relator)
+›ure
+Luís Lingnau da Silveira (Presidente)

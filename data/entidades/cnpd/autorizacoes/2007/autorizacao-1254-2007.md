@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BARCLAYS BANK, PLC'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T13:18:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1254/2007
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2059](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/2059).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 349/96
+AUTORIZAÇÃO N° 1254/07 1 - BARCLAYS BANK PLC, sucursal em Portugal, vem solicitar autorização à
+Comissão Nacional de Protecção de Dados (CNPD) para facultar a comunicação de dados pessoais à empresa Inter Partner Assistance Serviços Portugal, SA (grupo
+AXA), no âmbito de um contrato de prestação de serviços que tem por objecto a prestação de serviços na área do atendimento telefónico, utilização de Call Center para recepção e seguimento das chamadas/solicitações dos clientes do requerente titulares de cartões bancários.
+Juntou cópia da minuta do contrato de prestação de serviços.
+Os dados pessoais a disponibilizar são os seguintes:
+Nome do titular do cartão (três nomes), número do cartão (sete primeiros dígitos), data da validade do cartão, nome e morada do balcão.
+2 -Os dados objecto da comunicação estão sujeitos a sigilo profissional, conforme resulta do disposto no artigo 79° n°1° do DL 298/92, de 31.10.
+A Lei 67/98, de 26.10, permite a subcontratação e prevê o acesso a dados pessoais por parte do subcontratante, desde que este actue de acordo com as instruções do responsavel (artigo 16.°).
+A Directiva 95/46/CE consagra idêntica realidade em relação à figura do subcontratante
+- "pessoa ou entidade que processa dados por conta do responsável" (artigo 2° alínea e))
+- e obriga-o a processar esses dados de acordo com as "instruções do responsável" (cf.
+artigo 16.°).
+A Lei 67/98, de 26.10, definiu como subcontratante a "pessoa singular ou colectiva ...
+que trate os dados pessoais por conta do responsável pelo tratamento" (artigo 3.º alínea
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS e)).
+A semelhança do que acontece com a Directiva 95/46/CE, a Lei 67/98 obriga o subcontratante que tenha acesso aos dados pessoais a tratá-los de acordo com as «instruções do responsável» (artigo 16."), não os podendo utilizar em proveito próprio (artigos 3.° alínea e) e 5.° n.º 1 alínea b)).
+Está vinculado, igualmente, à obrigação de sigilo profissional (artigo 17.° n.º 1).
+O artigo 14.° n.º 3 da Lei 67/98 determina ainda que «a realização de operações de tratamento em subcontratação deve ser regida por um contrato ou acto jurídico que vincule o subcontratante ao responsável pelo tratamento e que estipule, designadamente, que o subcontratante apenas actua mediante instruções do responsável pelo tratamento».
+A entidade a quem os dados são comunicados não poderá utilizar os dados para outras finalidades que não sejam as que resultam do contrato de prestação de serviços.
+A CNPD considera que os titulares dos dados devem ter conhecimento das finalidades do ficheiro e da finalidade determinante da recolha de dados (cf. art. 10.° nº1 alínea c)
+da Lei 67/98), devendo o responsável informar os titulares dos dados que a empresa supra referida, em concreto, será destinatária dos seus dados pessoais para o referido fim - subcontratação de serviços.
+Assim, considera a CNPD que o BARCLAYS BANK PLC, sucursal em Portugal, deve assegurar a observância de tal obrigação.
+3 - Nestes termos, a CNPD delibera autorizar a comunicação de dados pessoais, no âmbito de um acordo de subcontratação, nos termos solicitados pelo requerente, à empresa Inter Partner Assistance Serviços Portugal, SA (grupo AXA).
+Proceda-se à actualização do registo público (artigo 31° da Lei 67/98).
+Lisboa, os de julho de 2007
+Luís Barroso
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Eduardo Campos keek
+Ana Roque
+Carlos Campos Lobo
+Helena Delgado António (relatora)
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

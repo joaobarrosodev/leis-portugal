@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO DE HABITAÇÃO DA MADEIRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:14:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 18/1997
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11058](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/11058).
+PO.N: 175155 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS
+AUTORIZAÇÃO N° 18 / 97
+O Instituto de Habitação da Madeira veio proceder à legalização do seu ficheiro informatizado.O ficheiro daquele organismo, dotado de autonomia administrativa, financeira e patrimonial, destina-se a proceder ao processamento de dados pessoais de agregados familiares com carências habitacionais, no âmbito das competências legais daquele Instituto.
+Nestes termos, a Comissão 1) Autoriza o funcionamento daquela base de dados, nos seguintes termos 1. Responsável:
+Instituto de Habitação da Madeira.
+Av. Arriaga. Ed. Golden Gate, 21 -3° 9 000 Funchal 2. Características: Sistema Departamental e computador pessoal.
+3. Finalidade : levantamento de agregados familiares com carências habitacionais, visando a sua seriação final através de concurso público, para a atribuição de casa.
+Rua de São Bento. n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+2
+COMISSAO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS 4. Serviços encarregados do processamento da informação: Direcção Regional de Informática 5. Dados pessoais registados : nome, morada, telefone, profissão, data de nascimento, sexo, idade do titular e do cônjuge, n° de contribuinte, vencimento pessoal e do agregado, estado civil, parentes com quem habita, regime de utilização da casa que habita, tipo e condições da habitação, se tem pessoas doentes ou com deficiência no agregado familiar.
+6. Fundamento da recolha de dados:
+Obrigação legal, decorrente do decreto Regulamentar Regional 26/92/M de 18 de Setembro.
+7. Recolha directa : pessoalmente e por impresso.
+8. Forma de actualização dos dados: Directa.
+9. Há comunicação de dados ao governo regional, autarquias e tribunais, desde que no âmbito das respectivas competências do governo regional e das autarquias e para a finalidade exclusiva de atribuição de casa( excepto Tribunais ).
+10. Há relacionamento da informação.
+11. Não Há fluxos transfronteiras de dados.
+12. Medidas de segurança: cópias de back-up ;password de acesso; acesso restrito de pessoas.
+13. Tempo de conservação: pela sua natureza o presente registo deve ser conservado, enquanto os dados se mostrarem justificados face à finalidade do registo, podendo manter-se apenas para a salvaguarda de direitos do agregado familiar - que constam das indicações iniciais para atribuição de casa-, designadamente quanto à possibilidade de transmissão de direitos.
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS 14. Pessoas com acesso directo à informação:
+- funcionário e operador de computador.
+15. Formas e condições de acesso e rectificação por parte das pessoas : directamente nos serviços.
+2) Os dados não podem ser comunicados a terceiros, excepto a entidades públicas, para cumprimento das obrigações legais que decorrem das competências no processo de atribuição de habitação social e para essa exclusiva finalidade, excepto mandato da autoridade judiciária.
+Lisboa em de Fevereiro de 1997
+João Alfredo M. Labescat da Silva ( Relator )
+Mário Manuel Varges Gomes
+Amadeu Francisco Ribeiro Guerra mne
+Joaquim Seabra Lopes
+Luís José Durão Barroso
+Rua de São Bento, n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO
+DE DADOS
+PESSOAIS
+INFORMATIZADOS t V
+Augusto Victor Coelho ( Presidente)
+Rua de São Bento. n." 148, 3." - 1200 LISBOA — Telefones: (01) 396 62 28 - 396 61 90 - Fax: (01) 397 68 32

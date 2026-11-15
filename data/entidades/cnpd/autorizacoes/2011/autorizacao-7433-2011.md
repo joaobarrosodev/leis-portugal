@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ARQUI-JARDIM - MANUTENÇÃO DE ESPAÇOS VERDES, LDA (GRUPO LENA)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,28 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T06:22:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 7433/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34009](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/34009).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 340/2004
+AUTORIZAÇÃON 7433 /11 1 - Arqui-Jardim - Manutenção de Espaços Verdes, Lda, veio requerer à Comissão
+Nacional de Protecção de Dados (CNPD) um tratamento com a finalidade de apoio à gestão financeira da empresa e marketing.
+Os dados pessoais objecto de tratamento são os seguintes:
+Designação de terceiro (cliente ou fornecedor), NIF, morada, contacto telefónico, fax, e-mail, sítio Web, CAE, saldos da conta corrente e volume de negócios.
+A recolha de dados será efectuada pessoalmente e através de telefone.
+Como fundamento de legitimidade a requerente invoca o consentimento do titular dos dados.
+Como medidas de segurança referem-se a utilização de cópias de "backup" e password de acesso às informações.
+Está assegurado o direito à actualização dos dados, bem como as condições de o titular conhecer, corrigir e eliminar os dados.
+Pretende-se a interconexão de dados com dados similares objecto de tratamento por outras empresas do Grupo Lena.
+A requerente não definiu o prazo de conservação dos dados.
+2 - Os dados são tratados no âmbito de uma relação contratual, com consentimento expresso do titular, existindo por isso legitimidade para o tratamento de dados (cf. artigo 6°, alínea a), da Lei n° 67/98, de 26.10).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

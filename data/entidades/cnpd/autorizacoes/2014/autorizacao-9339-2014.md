@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Flávio Fernandes, Artigos de Caça, Pesca e Defesa'
-- 'Texto incompleto: 1 de 4 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,12 +69,27 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T20:05:59Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9339/2014
+
+Proc. 13741/2014 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+DELIBERAÇÃO N.º 37 12015
+Verificou-se que, por lapso do requerente, foram submetidas, no sistema informático da Comissão Nacional de Protecção de Dados (CNPD), duas notificações com o mesmo pedido e objeto, que deram origem ao presente processo e ao processo n.º 1017/2011.
+Na sequência da primeira notificação, foi emitida a Autorização n.º 452/2011, de 24 de janeiro de 2011. E em 10 de outubro de 2014 foi emitida a Autorização n.º 9339/2014, a qual apresenta exatamente o mesmo objeto e conteúdo daquela.
+Assim, nos termos do artigo 138.° e 141.° do Código do Procedimento Administrativo, a CNPD delibera revogar a Autorização n.° 9339/2014, por ser um ato meramente confirmativo da Autorização n.° 452/2011, não determinando a produção de qualquer efeito jurídico autónomo na ordem jurídica.
+Lisboa, 6 de janeiro de 2015
+Frük
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21:303 00 30
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
 
 Processo n.º 13741/ 2014
 AUTORIZAÇÃO N.º 9339/ 2014

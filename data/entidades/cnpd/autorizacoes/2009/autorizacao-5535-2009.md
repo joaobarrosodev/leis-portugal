@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LILLY PORTUGAL-PRODUTOS FARMACÊUTICOS, LDA EX-LILLY FARMA PRODUTOS FARMACÊUT LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:06:20Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5535/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20878](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20878).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 2268/05
+AUTORIZAÇÃO N.° 55 35 12009 1. O pedido
+A sociedade Lilly Portugal - Produtos Farmacêuticos, Lda., notifica um tratamento de dados pessoais relativo a pedidos de informação respeitantes a características, efeitos, indicação terapêutica e métodos de administração de produtos seus.
+Os dados pessoais tratados são: nome do consulente, data e hora da chamada, contacto telefónico, data de início da terapêutica, informação relacionada com a questão posta e respectivo acompanhamento ("follow-up"), nome do colaborador responsável que recebe a chamada e encaminha o pedido.
+Os dados pessoais respeitantes à pessoa que formula o pedido são registados em suporte de papel, tendo em vista proporcionar o "follow-up" e resposta ao pedido formulado.
+A responsável regista também em suporte informático (mas sem identificação dos consultantes) as questões postas, as respostas dadas e a indicação do colaborador que recebe e encaminha a pergunta.
+O fundamento de legitimidade do tratamento é o consentimento, obtido por ocasião da chamada telefónica e depois de prestadas as informações previstas no artigo 10.° da Lei n.° 67/98.
+Não há comunicação de dados, nem interconexões ou fluxos transfronteiriços.
+Como medidas de segurança, aponta-se o acesso restrito de pessoas e a utilização de sistemas de alarme e resposta.
+1/4
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados são conservados pelo prazo necessário à resolução da questão posta pelo interessado. Esgotado esse período, são destruídos os suportes de papel utilizados.
+Os direitos de acesso e rectificação de dados podem ser exercidos por via telefónica em contacto com a entidade responsável.
+2. Apreciação
+As finalidades do tratamento são determinadas, explícitas e legítimas (Lei n.º 67/98, de 26 de Outubro, artigo 5.°, n.º 1, alínea b).
+E os dados tratados apresentam-se adequados, pertinentes e não excessivos em relação às finalidades prosseguidas (ibidem, alínea c).
+A recepção, encaminhamento e resposta das questões, deve caber a pessoal de saúde (incluindo a área de farmácia), sujeito a sigilo profissional. O mesmo vale para os que procedam à gestão dos registos em suporte de papel.
+O consentimento (expresso) prestado verbalmente, por via telefónica, é admissível, mas para respectiva comprovação - e porque as chamadas não são gravadas - o colaborador do responsável que receba a chamada do consulente deve registá-lo em suporte de papel relativo a cada consulta e seu "follow-up".
+O prazo de conservação dos dados registados em suporte de papel é ajustado.
+E o mesmo deve aplicar-se aos dados pessoais, registados informaticamente, relativos aos colaboradores que recebam e encaminhem as questões. Isto, dado que não se prevê como eventual finalidade do tratamento a avaliação da recepção e encaminhamento das questões.
+3. Autorização 2/4
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Pelas razões expostas, e nos termos dos artigos 7.°, n.º 2, 28.°, n.º 1, alínea a) e 29.° da Lei n.º° 67/98, a CNPD emite a seguinte autorização:
+A. Responsável
+Lilly Portugal - Produtos Farmacêuticos, Lda.
+B. Finalidade
+Recepção e resposta a pedidos de informação relativos a características, efeitos, indicação terapêutica e métodos de administração de produtos seus.
+C. Dados tratados
+Nome do consulente, data e hora da chamada, contacto telefónico, data de início da terapêutica, informação relacionada com a questão posta e respectivo acompanhamento ("follow-up"), nome do colaborador responsável que recebe a chamada e acompanha o pedido.
+D. Comunicação de dados
+Não há
+E. Interconexões
+Não há
+F. Fluxos transfronteiriços
+Não há
+G. Modo de exercício dos direitos de acesso e rectificação
+Por contacto telefónico com a entidade responsável
+Lisboa 9 de Dogalibro de 2009 3/4
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso, Luís
+Paiva de Andrade, Vasco de Almeida
+Heres Silve
+Luís Lingnau da Silveira (Presidente), que relatou 4/4

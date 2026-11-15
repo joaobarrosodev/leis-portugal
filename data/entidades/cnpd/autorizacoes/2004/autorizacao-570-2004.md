@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 570/2004
-official_date: null
+official_date: '2004-05-25'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BPN - BANCO PORTUGUÊS DE NEGOCIOS S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:47:50Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 570/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8992](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8992).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 23/94
+AUTORIZAÇÃO N.S70/2004J
+O BPN - Banco Português de Negócios, SA - na sequência da Autorização n.° 51/2002 e 161/2002 - vem pedir autorização para o "alargamento da actividade do Grupo a outras áreas, que não a financeira". Em causa está o alargamento da cedência de dados pessoais a empresas da «Área da Saúde», englobando as seguintes empresas:
+- Clínica Lótus, SA;
+- Clínica Lótus (Coimbra) Clube Residencial, SA;
+- Turigon - Turismo de Gondomar, Ld.";
+- L.U.K.H. - Lisbon United Kingdom Hospital - Serviços de Saúde, SA;
+- British Hospital - Lisboa XXI, SA;
+- 4M - Sociedade Médica, Ld.ª
+Pretende-se o acesso, exclusivamente, do nome e morada e verificadas que sejam as seguintes condições:
+- Exista fundamento legal;
+- O titular tenha dado consentimento para esse acesso;
+- A sua utilização seja compatível com as finalidades da recolha.
+A finalidade da comunicação é a «realização de operações de "cross-selling" sobre todos os clientes do universo das empresas da Area Financeira do Grupo».
+Tratando-se de dados sujeitos a sigilo bancário, deve dizer-se que a cedência destes dados para a finalidade indicada deve ser fundamentada no consentimento expresso e informado dos titulares dos dados (cf. artigo 3.° n.º 1 alínea b) e 6.° da Lei 67/98, de 26 de Outubro).
+A circulação da informação no seio das empresas do Grupo BPN será feita nos mesmos termos que foi consignada na autorização n.º 51/2002.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Verifica-se, porém, que nenhuma das empresas tem os seus tratamentos notificados na
+CNPD. Enquanto não proceder à notificação não se autoriza a cedência de dados.
+Lisboa, 25 de Maio de 2004
+Anaden w
+Amadeu Guerra (relator)
+Luís Barroso
+Eduardo Campos
+Olu
+Ana Luísa Geraldes
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

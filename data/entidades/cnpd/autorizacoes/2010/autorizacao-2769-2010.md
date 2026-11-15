@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: NOVANTAS II - COMÉRCIO IMOBILIÁRIO, S. A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 8 de 8 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,138 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:22:03Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2769/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23629](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/23629).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 48/2009
+AUTORIZAÇÃO N.°2 769 /2010
+Pedido
+A Novantas II - Comércio Imobiliário, S.A. veio notificar o tratamento de videovigilância em funcionamento nas suas instalações sitas no Centro Comercial
+Dolce Vita Porto, Rua dos Campeões Europeus, n. 28 a 198, no Porto.
+Pretende-se colocar 208 câmaras que abrangem as seguintes áreas: zona de restauração, escadas, átrios e corredores dos diversos pisos, cais de cargas e descargas, parque de estacionamento, parque infantil, corredores dos wc's, elevador público n.º6, hall dos elevadores, hall de escadas de emergência, entradas e saídas do centro, entrada do corredor da administração, portas de emergência, acessos ao parque, tapetes rolantes, corredores técnicos, corredor da administração, sala de controlo, escadas de emergência, corredor do monta-cargas (acesso), túnel do cais, monta-cargas, compactador, portões, quadro eléctrico, acessos exteriores e manutenção.
+A entidade declara que não existe Comissão de Trabalhadores.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD)
+elaborou o projecto de autorização de 3 de Maio, no sentido de não autorizar a recolha de imagens nos halls dos wc's, na zona do parque infantil e no elevador publico, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.º 5402, de 4 de Maio de 2010, nos termos e para os efeitos do disposto no artigo 100.° do Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos requerer a revisão do projecto.
+Análise
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A Lei da Protecção de Dados Pessoais (Lei n.º 67/98, de 26 de Outubro) determina, no seu artigo 4.°, n.º 4, que a presente lei se aplica à videovigilância e outras formas de captação, tratamento e difusão de sons e imagens que permitam identificar pessoas.
+Por sua vez, dispõe o artigo 2.° da citada Lei que o tratamento dos dados pessoais (')
+se deve processar de forma transparente e no estrito respeito pela reserva da vida privada, bem como dos direitos, liberdades e garantias fundamentais.
+A Lei da Protecção de Dados Pessoais consagra ainda o princípio da proporcionalidade, especificando que os dados pessoais só poderão ser objecto de tratamento, incluindo neste a respectiva recolha [cfr. artigo 3.°, alínea b)], quando forem adequados, pertinentes e não excessivos relativamente às finalidades a prosseguir [alínea c)].
+Neste sentido, entendeu a CNPD, na sua Deliberação n.º 61/2004, de 19 de Abril (?), que io tratamento a realizar e os meios utilizados devem ser considerados os necessários, adequados e proporcionados com as finalidades estabelecidas: a protecção de pessoas e bens".
+O princípio da proporcionalidade, impondo que os dados pessoais sejam adequados, pertinentes e não excessivos relativamente às finalidades para que são recolhidos e posteriormente tratados, visa consagrar o mesmo princípio que decorre do artigo 18.° da Constituição da República Portuguesa (CRP).
+Estabelece-se, no supramencionado artigo 18.°, que a lei só pode restringir os direitos, liberdades e garantias nos casos expressamente previstos na Constituição e devendo as restrições limitar-se ao necessario para salvaguardar outros direitos ou interesses constitucionalmente protegidos.
+(') Entende-se por tratamento de dados pessoais qualquer operação ou conjunto de operações sobre dados pessoais, efectuadas com ou sem meios automatizados, tais como a recolha, o registo, a organização, a conservação, a adaptação ou alteração, a recuperação, a consulta, a utilização, a comunicação por transmissão, por difusão ou por qualquer outra forma de colocação à disposição, com comparação ou interconexão, bem como o bloqueio, apagamento ou destruição" (vd. alínea b) do artigo
+*) Disponível in http://www.cnpd.pt/orientaçoes/principiosvideo.htm.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Neste sentido, a CNPD, na sua Deliberação n.º 61/2004, considerou que será admissivel aceitar que - quando haja razões justificativas da utilização destes meios
+- a gravação de imagens se apresente, em primeiro lugar, como medida preventiva ou dissuasora tendente à protecção de pessoas e bens e, ao mesmo tempo, como meio idóneo para captar a prática de factos passíveis de serem considerados como ilicitos penais e, nos termos da lei processual penal, servir de meio de prova".
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações do centro comercial no âmbito da protecção de pessoas e bens na medida em que se trata de local de movimento de pessoas, onde pode haver furto de produtos ou valores. As instalações podem ser alvo de furto, especialmente durante a noite.
+No entanto, considerou a CNPD, excessiva e desproporcionada, a colocação de uma câmara na zona do parque infantil (câmara n.º18), uma vez que, tal captação de imagens permite ao responsável pelo tratamento uma intromissão desproporcionada nos movimentos dos clientes (crianças e respectivos pais) no interior das instalações, nomeadamente em momentos de lazer. Face ao exposto, devia a referida câmara ser recolocada de modo a não abranger a referida área.
+Considerou ainda a CNPD, desnecessária a captação de imagens na entrada/saida dos wc's, permitindo também ao responsável pelo tratamento uma intromissão desproporcionada nos movimentos dos clientes dentro do centro comercial. Assim, tais câmaras (instaladas nos corredores de acesso aos wc's) deviam ser instaladas de modo a não incidirem na entrada das instalações sanitárias.
+Por último, a câmara n.° 107 (elevador público n.º6) devia ser colocada no exterior do mesmo captando apenas o seu átrio/hall de acesso.
+Face ao exposto, veio a entidade requerente alegar em síntese, o seguinte:
+1. As câmaras instaladas no hall's dos wc's captam apenas imagens dos corredores de acesso aos mesmos e aos equipamentos ali existentes, tais como máquinas de vending, telefones públicos e corredores técnicos, não
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS sendo possivel determinar por esta via, qual o wc a que os clientes se dirigem (homens, senhoras, fraldário ou deficientes) ou se dirigem a qualquer um dos equipamentos existentes.
+2. Não sendo visualizadas ou recolhidas imagens da entrada nos wc's, não há violação da privacidade dos clientes pelo sistema de videovigilância.
+3. Na zona do parque infantil, sendo um parque muito frequentado, entende a administração do centro comercial ser fundamental, por motivos de segurança das próprias crianças frequentadoras do mesmo, que o local seja objecto de vigilância.
+4. Tal facto transmite segurança a todos os utilizadores do mesmo, incluindo os pais ou acompanhantes. Em caso de acidente ou de alguma tentativa atentatória da segurança das crianças, poderão os serviços de vigilância actuar de forma mais rápida se o local for vigiado por profissionais.
+5. Em relação à localização da câmara n. °107, a mesma localiza-se no exterior do elevador público, conforme fotografia anexa ao processo.
+Ponderados os argumentos invocados pelo 'Novantas II - Comércio Imobiliário, S.A.', decide a CNPD autorizar a instalação das câmaras nos corredores de acesso aos wC's, atendendo às particularidades das instalações e pelo número de clientes que diariamente ali se deslocam. No entanto, adverte-se o responsável pelo tratamento que as câmaras não podem incidir directamente nestas áreas consideradas sensíveis, devendo captar apenas o corredor de acesso de uma forma panorâmica.
+A câmara n.°107 pode permanecer instalada conforme foi notificado a esta comissão, uma vez que, não abrange o interior do elevador.
+No entanto, a CNPD continua a entender que a recolha de imagens na zona do parque infantil é excessiva e desproporcionada, por permitir ao responsável pelo tratamento uma intromissão desproporcionada na liberdade de movimentos dos titulares dos dados, quer se tratem de crianças quer dos pais que as acompanham.
+O princípio da proporcionalidade, impondo que os dados pessoais sejam adequados, pertinentes e não excessivos relativamente às finalidades para que são recolhidos e
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13h 4 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS posteriormente tratados, visa consagrar o mesmo princípio que decorre do artigo 18.° da Constituição da República Portuguesa (CRP).
+Estabelece-se, no supramencionado artigo 18.°, que os preceitos constitucionais respeitantes aos direitos, liberdades e garantias são directamente aplicáveis, vinculando as entidades públicas e privadas, só podendo a lei restringi-los nos casos expressamente previstos na Constituição e devendo as restrições limitar-se ao necessário para salvaguardar outros direitos ou interesses constitucionalmente protegidos.
+Tal princípio constitucional da proporcionalidade (ou da proibição do excesso)
+concretiza-se em tres sub-principios: o princípio da adequação (ou idoneidade), impondo que as medidas restritivas legalmente previstas se revelem como meio adequado para a prossecução dos fins visados por lei; o princípio da necessidade, por força do qual as medidas restritivas se deverão revelar indispensáveis, não podendo os fins legalmente visados ser obtidos por outros meios menos onerosos para os direitos, liberdades e garantias sacrificados e o princípio da proporcionalidade em sentido estrito, que visa impedir a adopção de medidas excessivas ou desproporcionadas para alcançar os fins pretendidos, devendo pesar-lhe as desvantagens dos meios em relação às vantagens do fim.
+Note-se que a videovigilância é um meio de utilização residual, devendo a finalidade pretendida pela Entidade, com a instalação das câmaras no local supra mencionado, ser alcançada sempre que possivel, por auxiliares/vigilantes profissionalmente competentes para o efeito. Assim, no caso em concreto, pese embora a argumentação vertida pela requerente, é de todo razoável que a vigilância a efectuar na zona do parque infantil seja efectuada por estes ou pelos pais/acompanhantes, sem uma permanente captação de imagens nas actividades infantis.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 5 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+A câmara n.°18 deve ser recolocada de modo a não incidir na zona do parque infantil, ou retirada, mantendo-se a posição adoptada pela CNPD no Projecto de Autorização n.º 226/10. Pretende-se desta forma, proteger os direitos dos titulares dos dados, dissuadindo, no entanto, da prática de actos ilícitos por terceiros estranhos às instalações.
+Cabe igualmente referir que a já citada Deliberação n.° 61/2004, explana, com clareza, o acesso aos dados recolhidos pelo sistema de videovigilância, mencionando o seguinte: é imprescindível que - de acordo com o princípio da necessidade - o acesso às imagens seja restrito às entidades que delas precisam para alcançar as finalidades delineadas. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à entidade judiciária competente as imagens recolhidasi. As entidades responsáveis não podem visualizar as imagens.
+O n.º 3 do artigo 13.° do Decreto-Lei n.º 35/2004 garante aos titulares dos dados o direito de informação, impondo ao responsável pelo tratamento de videovigilância a afixação de avisos informativos sobre a recolha de imagens, com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão procedendo-se à gravação de imagem», que deverá ser seguido de um símbolo identificativo.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (').
+III. Conclusões (3) No mesmo sentido ver Acórdão do STJ Processo n.º 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 6 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Considera-se, por isso, legitimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 8.° n.º 2 e 28 n.º 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1.
+Responsável pelo tratamento - Novantas II - Comércio Imobiliário, S.A.
+2.
+Finalidade - Protecção de pessoas e bens.
+3. Categoria de dados pessoais tratados: imagens.
+4.
+Forma de exercício do direito de acesso e de rectificação: Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar / anonimizar as imagens de terceiros.
+Quando estiverem em causa imagens que servem de prova em processo criminal
+- imagens necessariamente sujeitas às regras do segredo de justiça - é aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da Lei 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+5. Fluxos transfronteiras: Não há.
+6. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem, com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem» (artigo 13.°, n.º 3, do Decreto-Lei n.° 35/2004, de 21 de Fevereiro).
+7. A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas regularmente sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho.
+Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+10. Não é autorizada a recolha de imagens na zona do parque infantil, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares dos dados, face à finalidade prosseguida pelo presente tratamento, pelo que, deve a referida câmara ser instalada de modo a não
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 7 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS captar imagens na referida zona. Caso tal não seja possível deve ser retirada.
+Lisboa, 14 Junho 2010
+Ana Roque, Vasco Almeida, Helena António, Luís Barroso, Carlos Lobo, Luís Paiva de
+Andrade (Relator)
+Suer
+Luis Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 8 duvidas@cnpd.pt

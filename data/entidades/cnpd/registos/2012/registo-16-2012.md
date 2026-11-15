@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CAPGEMINI PORTUGAL SERVIÇOS DE CONSULTORIA E INFORMÁTICA, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:04:55Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 16/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40640](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/40640).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 7302/2010
+REGISTO N.° / 0 12012
+Capgemini Portugal - Serviços de Consultoria Informática, SA, notificou um tratamento de dados pessoais com a finalidade de gestão de recursos humanos de trabalhadores externos
+Na finalidade são indicadas subfinalidades.
+Destas, algumas reconduzem-se à finalidade de gestão de recursos humanos, podendo ser apreciadas no presente processo, designadamente avaliação da prestação de serviços, pagamento de remunerações e despesas, gestão corrente das atividades desenvolvidas pelos trabalhadores em causa
+Contudo, são indicadas finalidade que extravasam o âmbito desta notificação e deve ser objeto de notificação autónoma. Em concreto refere-se a finalidade de segurança e "referências a novos ou potenciais empregadores".
+Assim, o tratamento irá ser legalizado sem aquelas finalidades.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10), com exceção dos dados relativos à localização do trabalhador através do cartão eletrónico de acesso.
+Há fluxos transfronteiriços para as empresas do Grupo Capgemini sediadas nos EUA, Canadá,
+México, Austrália, India, Hong Kong e China, ao abrigo de contratos efetuados nos termos das cláusulas contratuais tipo aprovadas pela União Europeia.
+Nos termos do n.º 4 e al. a) do n.° 1 do artigo 20º da Lei 67/98 e ainda de acordo com a declaração interpretativa da CNPD de 29 de Novembro de 2004, os fluxos não carecem do controlo prévio previsto no artigo 28°.
+Há comunicação de dados para a Capgemini da Suécia, onde se encontra o servidor da entidade
+O fundamento de legitimidade é o cumprimento de obrigação contratual do responsável, previsto na al. a) do artigo 6° da LPD.
+Assim, regista-se nos termos dos artigos 27.° n.º 1 e 30.° n.º 1.° da Lei 67/98, de 26 de Outubro nos seguintes termos:
+Responsável
+Capgemini Portugal - Serviços de Consultoria Informática, SA
+Finalidade
+Gestão de recursos humanos de trabalhadores externos
+Dados de identificação e contacto (nome, data de nascimento, naturalidade,
+Categoria de dados pessoais tratados filiação, sexo, nacionalidade, morada, telefone, NIF, BI, NISS, dados de identificação e contacto de terceiros em caso de emergência), dados suscetíveis de determinar a atribuição de remuneração e e outros montantes devidos), habilitações literárias, dados da atividade profissional e elementos relativos à retribuição.
+Forma de exercício do direito de acesso e rectificação
+Por contacto com o responsável.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Comunicações de Dados
+Capgemini da Suécia
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Grupo Capgemini sediadas nos EUA, Canadá,
+México, Austrália, Índia, Hong Kong e China
+Um ano após o fim da relação contratual, sem prejuízo da
+Conservação dos dados conservação em cópias de back up para fins de registo histórico.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda Lei n.º 67/98, de 26 de Outubro.
+Lisboa, 03-01-2012
+A Secretária da CNPD, se (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BOEHRINGER INGELHEIM GMBH'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,73 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T09:15:09Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 3145/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24251](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/24251).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 5511/2010
+AUTORIZAÇÃO N.° 314S 2010
+Boehringer Ingelheim GmbH, representada pela Boehringer
+Ingelheim, Ida, veio notificar a esta CNPD um tratamento de dados pessoais com a finalidade de gestão de ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes com diabetes mellitus tipo 2.
+(Protocolo BI 1245.28).
+Trata-se de um «ensaio de fase III, aleatorizado, duplamente cego, com controlo activo, de grupos paralelos, para avaliação de eficácia e segurança do BI 10773 comparado com glimepirida (...) em doentes com diabettes mellitus tipo2 e com controlo glicémico insuficiente apesar de tratamento com metformina»
+As categorias de dados são as seguintes: Iniciais do nome, número de participante no estudo, número de CRF, país de origem, data de nascimento, peso, altura, raça, sexo, história clínica e dados recolhidos ao longo do estudo, medicação, resultados de meios complementares de diagnóstico e terapêutica, informação genética e nome do investigador.
+O responsável pelo tratamento, instado por esta CNPD a justificar a recolha do dado raça, veio apresentar os seguintes argumentos:
+«Os efeitos de certos fármacos podem ser expressos de forma diferente consoante a origem racial e/ou étnica dos doentes e o seu perfil genético. No caso dos ensaios clínicos na área do metabolismo, tais efeitos devem ser estudados para determinar se existem e qual o impacto no tratamento dos doentes, nomeadamente no tratamento da diabetes mellitus
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS tipo 2. É comummente aceite na comunidade científica que existem diferenças significativas entre raças e respostas diferenciadas consoante o genótipo de cada indivíduo, no que diz respeito à absorção, distribuição, metabolismo e excreção dos fármacos».
+• fundamento de legitimidade é o consentimento expresso e escrito do titular.
+A CNPD já se pronunciou na sua Deliberação N.°333/07 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado pela referida Deliberação.
+A informação tratada é recolhida de forma lícita (art.' 5.°, n.°1, al. a) da Lei 67/98, para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º1, alínea a) e 30.° da Lei n.º67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Boehringer Ingelheim GmbH, representada pela Boehringer Ingelheim, Ida.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Finalidade: gestão de ensaio clínico com o objectivo de avaliar a eficácia de medicamentos de uso humano em doentes com diabetes mellitus tipo 2. (Protocolo BI 1245.28).
+Categoria de Dados Pessoais tratados: Iniciais do nome, número de participante no estudo, número de CRF, país de origem, data de nascimento, peso, altura, raça, sexo, história clínica e dados recolhidos ao longo do estudo, medicação, resultados de meios complementares de diagnóstico e terapêutica, informação genética e nome do investigador.
+Entidades a quem podem ser comunicados: não há
+Formas de exercício do direito de acesso e rectificação:
+Junto do médico Investigador.
+Interconexões de tratamentos: Não se verificam.
+Prazo de Conservação: Ensaios Clínicos relativos a medicamentos que tenham obtido autorização de introdução no mercado - Fixa-se o prazo estabelecido no ponto 5-2 do
+Anexo I do DL 176/2006, 30 de Agosto.
+Nos restantes casos: O código de doente, porque permite tornar os dados identificados, deve ser destruído, quer pelo médico investigador, quer pelo responsável pelo tratamento ao fim de 5 anos após o ensaio. O nome do investigador deve, no mesmo prazo ser eliminado.
+Dos termos e condições fixados na Deliberação n.°333/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 20 Setembro de 2010
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Carlos Campos Lobo (Relator), Luís Paiva de Andrade, Luís
+Barroso, Vasco Almeida, Ana Roque, Helena Delgado António.
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

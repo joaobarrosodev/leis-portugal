@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IPO - INSTITUTO PORTUGUÊS DE ONCOLOGIA FRANCISCO GENTIL - (CTRO) LISBOA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:01:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2647/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10565](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10565).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 369/2004
+AUTORIZAÇÃO N° 2047,2008 1) O Pedido
+O Instituto Português de Oncologia Francisco Gentil - Centro Regional de Oncologia de
+Lisboa, SA notifica um tratamento destinado à avaliação de resultados clínicos de programa de transplantação medular.
+Os dados pessoais tratados são: nome (iniciais), idade, diagnóstico, data de nascimento, tratamento e resultados.
+Como fundamentos de legitimidade apresentam-se o consentimento dos titulares; a protecção de interesse vital deles; a prossecução de interesse legítimo sem risco de intromissão na vida privada ou discriminação.
+Não existe comunicação de dados nem interconexões.
+Refere-se a transferência de dados (sob anonimato) para os registos europeu (EBMT) e mundial (IBMTR) de transplantes de medula óssea; o primeiro tem sede na Turquia e o segundo nos EUA.
+Procede-se à obtenção do consentimento expresso e específico dos titulares dos dados para estas transferências - conquanto feitas sob anonimato, os respectivos titulares de dados são identificáveis.
+Como medidas de segurança, utilizam-se cópias de "backup" e palavras-chave ("passwords") de acesso aos dados.
+O direito de acesso e eventual rectificação de dados é exercido através de médico designado pelo titular.
+Dada a muito especial natureza dos dados em questão, e do tratamento que recebem em termos internacionais, considera-se impossível estimar um prazo de conservação dos dados.
+2) Apreciação
+Os dados tratados são recolhidos para finalidades determinadas, explícitas e legítimas (Lei n° 67/98, de 26 de Outubro, art° 5°, n° 1, al b).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+E apresentam-se adequados, pertinentes e não excessivos em relação às finalidades prosseguidas (ibidem, al c).
+O tratamento mostra-se necessário para efeitos de diagnóstico médico e de prestação de cuidados ou tratamentos médicos.
+Sendo assim, a respectiva legitimidade apoia-se no artigo 7°, n° 4 da Lei n° 67/98.
+Isto, já que se prevêem adequadas medidas de segurança.
+O tratamento dos dados terá, face a essa norma, de ser efectuado por profissional de saúde obrigado a sigilo ou outra pessoa igualmente sujeita a sigilo profissional.
+Considerado a especial natureza dos dados tratados e da índole do tratamento, em moldes internacionais, considera-se justificada a não fixação de prazo para a respectiva conservação.
+3) Autorização
+Pelo exposto, a CNPD, com base no artigo 7°, n° 4 da Lei n° 67/98, autoriza o seguinte tratamento de dados:
+a) Responsável
+Instituto Português de Oncologia Francisco gentil - Centro Regional de Oncologia de
+Lisboa, SA b) Finalidade
+Avaliação de resultados clínicos de programa de transplantação medular c) Dados tratados
+Nome (iniciais); idade; diagnóstico; data de nascimento; tratamento e resultados d) Comunicação de dados
+Não há e) Interconexões
+Não há f) Fluxos transfronteiras
+Para Turquia e EUA, respectivamente no âmbito dos Registos Europeu e
+Internacional de transplantes de medula óssea g) Exercício do direito de acesso e rectificação
+Através de médico indicado pelo titular h) Prazo de conservação
+Não é fixado
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

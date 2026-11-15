@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: INSTITUTO DE INFORMÁTICA, I. P. - Ex-INSTITUTO DE INFORMÁTICA E ESTATÍSTICA DA S'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,60 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:08:01Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1848/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15819](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15819).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 29/06
+AUTORIZAÇÃO N.° 1848/2009 1. Do Pedido
+O Instituto de Informática, I.P. veio solicitar autorização para comunicar dados ao
+Conselho Executivo da Escola Básica Integrada de Mourão.
+Declaram que o tratamento consiste no envio de listas de abono de família para o
+Conselho Executivo da Escola Básica Integrada de Mourão, por ser, nos termos da alínea d) do número 1 do art.º 10°, do Decreto-lei n.º 301/93, de 31 de Agosto, um dos instrumentos de controlo do cumprimento do dever de matricula".
+Mais declaram que ia lista a ser fornecida conterá somente a identificação das crianças beneficiárias de abono de família do concelho de Mourão, nascidas entre 16 de Setembro de 1999 e 15 de Setembro de 2000 (nome, data de nascimento, morada, nome do titular do exercício do poder paternal), sendo omitida qualquer informação irrelevante para o controlo de matrícula".
+As medidas de segurança adoptadas são: cópias de backup dos dados, password de acesso às informações, acesso restrito de pessoas, sistemas de processamento de backup.
+II. Da Apreciação
+Dispõe o artigo 4° do Decreto-Lei n.º 301/93, de 31 de Agosto que o cumprimento do dever de matrícula e do dever de frequência é controlado nos termos previstos no presente diploma e deve ser verificado pelos órgãos e serviços competentes".
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Dispõe, ainda, a alínea d) do n° 1 do artigo 10° do mesmo diploma legal que o controlo do dever de matrícula é efectuado, com base em diversos elementos, entre os quais as listas de abono de família enviadas pelos centros regionais de segurança social e demais departamentos processadores de abono de família".
+O referido controlo compete, de acordo com o n.º 2 do mesmo preceito legal, aos centros de área educativa das direcções regionais de educação, quando se trata da primeira matrícula no ensino básico. Nas situações de renovação de matrícula, tal competência pertence aos órgãos de gestão das respectivas escolas.
+O pedido é omisso relativamente ao facto de tratar-se de controlo do cumprimento de primeira matrícula ou de renovação de matrícula.
+Admitindo-se, porém, que a requerente pretende a informação para ambas as finalidades, considera-se que a comunicação de dados por parte do Instituto de
+Informática à Escola Básica e Integrada de Mourão para as situações de renovação de matrícula mostra-se possível, porquanto visa a prossecução de interesses legítimos da requerente (Cfr. artigo 6°, alínea d), 2ª parte da Lei n.º 67/98, de 26 de Outubro-LPD).
+Mostrar-se-á, de igual modo, legitima a comunicação de dados, para efeitos de controlo da primeira matrícula se, por força das alterações ocorridas na orgânica do Ministério da
+Educação, a requerente sucedeu nas atribuições e competências dos Centros de Aérea
+Educativa, entretanto extintos por força do disposto no n.º 1 do artigo 13° do Decreto-
+Regulamentar n.º 11/2004, de 28 de Abril.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados a comunicar - nome da criança, data de nascimento, morada, nome do titular do poder paternal - mostram-se adequados e necessários à renovação da matrícula e /ou controlo da primeira matrícula (Cfr. artigo 5°, n° 1, alínea c) da Lei n.º 67/98).
+Devem ser adoptadas medidas de segurança adequadas para proteger os dados pessoais, designadamente contra a destruição acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizados, as quais devem garantir um nível de segurança adequado em relação aos riscos que o tratamento e à natureza dos dados a proteger (Cfr.
+artigo 14° da LPD).
+II. Da Decisão
+Termos em que, nos termos do artigo 28°, n.º 1 alínea d), conjugado com o artigo 6°, alínea e), da Lei n.º 67/98, de 26 de Outubro e artigo 10° do Decreto-Lei n.º 301/93, 31 de Agosto, e atento os limites acima explicitados, se autoriza a comunicação de dados pelo Instituto de Informática, I.P. ao Conselho Executivo da Escola Básica e Integrada de Mourão.
+Lisboa, 04 de Nu ode 2009
+Ana Roque, Luís Barroso (relator), Luís Paiva de Andrade, Helena António, Carlos
+Lobo, Vasco de Almeida.
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 geral@cnpd.pt
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CREDIBOM - INSTITUIÇÃO FINANCEIRA DE CRÉDITO, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:18:02Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 930/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6969](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6969).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.° 139/96
+AUTORIZAÇÃON.º 930 120005 1. A CREDIBOM - Instituição Financeira de Crédito, SA veio solicitar a alteração do seu tratamento de dados cuja finalidade é o «suporte à decisão, na concessão de crédito e à realização dos respectivos contratos de crédito. Posteriores acções de marketing directo da própria Instituição Responsável pelo tratamento».
+Os dados tratados vêm indicados no anexo I ao formulário, verificando-se que são tratados dados de identificação do cliente (nome, morada, n.º de telefone, fax, e-mail, n.° de BI, n.º Contribuinte, data de nascimento, sexo), profissionais (contactos no emprego, nome da entidade empregadora, tipo de contrato de trabalho), de rendimento e de apreciação do risco (tipo de habitação, rendimento bruto, despesas mensais, outras dívidas, número de pessoas do agregado familiar, regime de bens, outros rendimentos), bem como dados relativos a scoring (pontuação) e a acções marketing (endereço e-mail, status de marketing).
+Estando em causa a «avaliação de riscos de crédito» e operações «relativas a crédito e à solvabilidade dos titulares», o tratamento notificado está sujeito a autorização da
+CNPD (cf. art. 28.° n.º 1 al. b) da Lei 67/98, de 26 de Outubro).
+2. Os dados tratados são necessários, adequados e não excessivos à finalidade (artigo 5.° n.º 1 alínea b) e c) da Lei 67/98). O sistema está preparado para assegurar o direito de oposição em relação aos titulares que não pretenderem receber acções de marketing (cf. artigo 12.° al. b) da Lei 67/98).
+O impresso de recolha de dados (Anexo 2) obtém o consentimento dos titulares dos dados para o tratamento, bem como para o envio de acções de marketing directo, independentemente do «canal de comunicação», nomeadamente através de "correio postal ou electrónico, SMS, MMS ou outras formas de chamada automática" (cf.
+artigo 22.° n.º 1 do DL 7/2004, de 7 de Janeiro).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Havendo tratamento de scoring, alerta-se para a obrigatoriedade de assegurar o cumprimento das disposições constantes do artigo 13.° da Lei 67/98.
+Há comunicação de dados às entidades identificadas no anexo 3.
+Assim, autoriza-se o tratamento, nos termos comunicados consignando-se a seguinte informação nos termos do artigo 30.° da Lei 67/98:
+1. Responsável do ficheiro: CREDIBOM - Instituição Financeira de Crédito, SA.
+2. Categorias de dados tratados: dados de identificação do cliente (nome, morada, n.° de telefone, fax, e-mail, n.° de BI, n.° Contribuinte, data de nascimento, sexo), profissionais (contactos no emprego, nome da entidade empregadora, tipo de contrato de trabalho), de rendimento e de apreciação do risco (tipo de habitação, rendimento bruto, despesas mensais, outras dívidas, número de pessoas do agregado familiar, regime de bens, outros rendimentos), bem como dados relativos a scoring (pontuação) e a acções marketing (endereço e-mail, status de marketing).
+3. Finalidades a que se destinam os dados: suporte à decisão, na concessão de crédito e à realização dos respectivos contratos de crédito. Posteriores acções de marketing directo da própria Instituição Responsável pelo tratamento.
+4. Categorias de entidades a quem podem ser transmitidos: Banco de Portugal,
+Credinformações, sociedades de recuperação de créditos e advogados (no âmbito de uma prestação de serviços), a outras instituições financeiras nos termos do artigo 83.° do DL 298/92, às autoridades judiciais e tributárias nos termos da legislação aplicável.
+5. Forma de exercício do direito de acesso e rectificação: por solicitação escrita ou pessoal. Tratando-se de informação protegida pelo sigilo bancário só é possível o acesso e correcção mediante «código» ou outro meio que identifique o titular.
+6. Interconexões: Não há.
+7. Fluxos transfronteiras: Não há.
+Lisboa, 1 de Novembrde 2005
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Atenu
+Amadeu Guerra (relator)
+Alexandre Pinheiro
+Luís Barroso
+Eduardo foll
+Ana Luísa Geraldes
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

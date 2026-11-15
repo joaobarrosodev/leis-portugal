@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DIRECÇÃO-GERAL DAS PESCAS E AQUICULTURA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,70 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:01:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2667/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10647](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10647).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.º 3058/2008
+AUTORIZAÇÃO N.° 2667 /2008 1 - Dos Factos 1. A Direcção-Geral das Pescas e Aquicultura veio notificar junto da
+Comissão Nacional de Protecção de Dados (CNPD) o tratamento de videovigilância nas suas instalações, sitas na Avenida Brasilia - Pedrouços, em Lisboa (sede).
+2. O responsável pelo tratamento pretende instalar 20 câmaras fixas, as quais procedem à gravação de imagens, colocadas nos acessos ao edifício e diversos pisos.
+3. Declara o responsável que não existe Comissão de Trabalhadores.
+4. O responsável pelo tratamento refere que o serviço encarregue do processamento da informação é a Securitas, S.A..
+II - Análise 5. Através da Deliberação n.° 61/2004, de 19 de Abril ('), a CNPD estabeleceu os princípios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.°, n.° 1, alínea c), da Lei n.º 67/98, de 26 de Outubro), condições de legitimidade (artigos 7.° e 8.°, n.º 2, da Lei n.º 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+(') Disponivel in http: //www.cnpd.pt
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações da entidade requerente, no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância onde a entidade requerente exerce a sua actividade, na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+6. Verifica-se que a utilização dos sistemas agora notificados se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que os tratamentos se apresentam como adequados, pertinentes e não excessivos em relação à finalidade (artigo 5.°, n.º 1, alínea c), da Lei n.° 67/98).
+Pretende-se com estes tratamentos assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (*).
+A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+(*) No mesmo sentido, ver
+Acórdão do STJ,
+Processo n.° 3139/05, disponível in http://www.cnpd.pt/bin/legis/juris/decisoes/sindicato.pdf..
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 7. Cabe referir que, de acordo com o n.º 2 do artigo 13.° do Decreto-Lei n.º 35/2004, de 21 de Fevereiro, os dados recolhidos devem ser conservados pelo prazo de 30 dias, findo o qual serão destruídos, só podendo ser utilizados nos termos da legislação processual penal.
+8. O responsável pelo tratamento deverá ainda afixar, em local bem visível, um aviso que informe as pessoas sobre a recolha de imagem, com o texto "Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão", seguido de símbolo identificativo, observando o disposto no n.° 3 do artigo 13.° do Decreto-Lei n.° 35/2004 de 21 de Fevereiro.
+III - Conclusões
+Atento o exposto, a CNPD decide considerar legitimo o tratamento -autorizando-se a recolha e o visionamento de imagens pelas câmaras (artigo 8.°, n.° 2, e 28.°, n.º 1, alínea a), da Lei n.º 67/98) - devendo ser observadas; ainda, as seguintes condições:
+A. Responsável pelo tratamento - Direcção-Geral das Pescas e
+Aquicultura (sede).
+B. Finalidade - Protecção de pessoas e bens.
+C. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal.
+Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação -enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+D. Visualização da imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11.° da Lei n.° 67/98.
+Rua de São Bento, 148 - 3.° -
+- 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+E. Direito de Informação - Deverá ser afixado, em local bem visível, um aviso que informe as pessoas sobre a recolha de imagem.
+F. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal - imagens necessariamente sujeitas às regras do segredo de justiça - e aplicavel, ao exercicio do direito de acesso, o disposto no artigo 11.°, n.° 2, da Lei n.º 67/98 (prevenção ou investigação criminal), razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+G. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+H. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras incidir sobre estes durante a actividade laboral (cf. artigo 20.° do Código do Trabalho).
+I. A recolha de imagens deve confinar-se ao perímetro da propriedade e não pode envolver a recolha de imagens nas zonas limítrofes ou na via pública.
+Lisboa, 21 NovembRO z
+Ana Roque (relatora), Carlos Campos Lobo, Eduardo Campos, Helena
+Delgado António, Luís Barroso, Vasco Almeida
+Luis inenau da sivera (Presdente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4

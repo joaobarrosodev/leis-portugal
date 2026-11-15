@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BP LUBS-COMPANHIA DE LUBRIFICANTES, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:33:18Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 35/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7772](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/7772).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.º 314/01
+Autorização n. 35/05
+A BP Lubs - Companhia Portuguesa de Lubrificantes, Lda, vem apresentar à
+Comissão Nacional de Protecção de Dados (CNPD) um pedido de alteração das autorizações números 156/2002 e 523/2003 no sentido de permitir a transferência de dados pessoais para a India, para a subcontratante IBM Global Services India Private
+Limited.
+Na sequência de decisões anteriores, nomeadamente da Autorização n.º 528/2003, a
+CNPD considera que a transferência de dados para a Índia, para que empresas aí sediadas ajam como subcontratantes, carece de autorização que deve preencher os requisitos da Lei n.° 67/98, de 26 de Outubro.
+A CNPD considera que a alteração pretendida garante todas as medidas de segurança das informações cedidas, desde que o n.º 4.1.7 do contrato celebrado entre a BP
+Portugal - Comércio de Combustíveis e Lubrificantes, SA e a IBM Global Services
+India Private Limited seja interpretado no sentido de assegurar o consentimento prévio do titular dos dados em relação à sua transferência.
+Pelo exposto, e na condição determinada, a Comissão Nacional de Protecção de Dados autoriza a requerente a fornecer os dados pessoais identificados na Autorização n.º 156/2002 à IBM Global Services India Private Limited.
+listas, lou fevereio 2aos
+Aliardes
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+снии
+Eduardo Campos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Ana Luísa Geraldes
+Ameden
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

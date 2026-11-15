@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 58/2001
-official_date: null
+official_date: '2001-03-27'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PORTUGÁLIA - REFEIÇÕES RÁPIDAS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T15:07:11Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 58/2001
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10176](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/10176).
+D.
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n.º 108/2001
+AUTORIZAÇÃO N.ºS8 /2001
+A Portugália - Refeições Rápidas, SA vem notificar a CNPD da recolha de imagens com vista à segurança das instalações e protecção de pessoas e bens.
+As imagens são recolhidas por 4 câmaras, sendo feita a gravação pelo período de 72 horas e sem que haja qualquer tratamento posterior. As imagens só poderão ser utilizadas nos termos previstos na lei.
+A recolha e tratamento de dados faz-se nos termos da lei (DL 231/98, de 22 de Julho), sendo necessário assegurar o direito de informação, nos termos estabelecidos no artigo 12.° n.º 3 do referido diploma, através da inclusão de um texto - em local bem visível - com os seguintes dizeres: «Para sua protecção este local encontra-se sob vigilância de um circuito fechado de televisão».
+A Portugália deve assegurar o direito de informação, procedendo à afixação, em local bem visível, de um texto com os dizeres acima referidos.
+A CNPD autoriza o tratamento (cf. art. 4.° n.° 4, 27.° n.º 1, 28.° n.º 1 al a) e 29.° da Lei 67/98, de 26 de Outubro), consignando-se o seguinte:
+1. Responsável: Portugália - Refeições Rápidas, SA 2. Categorias de dados pessoais tratados: Gravação de imagem nos locais indicados no ponto 3 do formulário, nas instalações da Av. Almirante Reis.
+3. Finalidade: Segurança das instalações e protecção de pessoas e bens.
+4. Entidades a quem podem ser transmitidos: Não há transmissão de dados. Os dados só podem ser utilizados «nos termos da lei penal».
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação pessoal.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Prazo de conservação: 72 horas
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 27 de Março de 2001
+Amaden un
+Amadeu Guerra
+Catarinefarmente Castos
+Catarina Castro
+João Simões de Almeida
+Luís Barroso 221
+Márie Varges Gomes (Presidente em substituição, que relatou)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

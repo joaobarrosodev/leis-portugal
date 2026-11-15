@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4919/2010
-official_date: null
+official_date: '2010-12-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL PRIVADO DA BOA NOVA, S. A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:40:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4919/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26222](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26222).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 698/2009
+Autorização n. ° 4|9/2010
+Hospital Privado da Boa Nova, SA notificou um tratamento com a finalidade de gestão de prescrição electrónica.
+Declara as seguintes categorias de dados pessoais: Dados de identificação e medicamentos prescritos.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade decorre do n.º 4 do art. 7° da Lei n.º 67/98, de 26 de Outubro que admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+O responsável deve garantir as medidas de segurança necessárias à sensibilidade da informação tratada, designadamente a separação lógica entre os dados administrativos e os dados de saúde (cf. Art.º 15° n.º 3 da referida lei), devendo ser adoptadas medidas de segurança que impeçam o acesso à informação por pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos e técnicos de saúde ou, sob a sua direcção, a outros profissionais obrigados a segredo profissional (n.° 4 do citado art.° 7°). O sistema deve ser dotado de passwords de acesso diferenciado para assegurar as exigências supra especificadas;
+Cada acto de prescrição é enviado ao IGIF, através da rede privada multimédia do Ministério da Saúde, em ficheiro XML, para integração no Sistema de Conferência de Facturas de
+Medicamentos. Não são enviados dados pessoais dos doentes.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 27°, n.ºs1 e 4, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites supra fixados regista-se o tratamento de dados pessoais nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 1. Responsável: Hospital Privado da Boa Nova, SA 2. Categorias de dados pessoais tratados: Dados de identificação e medicamentos prescritos.
+3. Finalidade: Gestão de processo clínico 4. Entidades a quem podem ser transmitidos: Não há 5. Forma de exercício do direito de acesso e rectificação: Por solicitação ao responsável.
+6. Interconexões: Não existem 7. Transferências de dados para países terceiros: Não há.
+8. Tempo de conservação: - Prazo de conservação do processo clínico nos termos da
+Portaria n.º 247/2000, de 8 de Maio;
+Aos titulares dos dados deve ser assegurado o direito de Informação previsto no art. 10° da
+LPD.
+Lisboa, 7 de Dezembro de 2010
+Ana Roque, Carlos Campos Lobo (Relator), Helena Delgado António, Luís Paiva de Andrade,
+Luís Barroso, Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

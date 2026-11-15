@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 12464/2011
-official_date: null
+official_date: '2011-11-28'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UNIVERSIDADE DE ÉVORA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T04:58:35Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 12464/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/39726](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/39726).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. N.°: 10502/2011
+AUTORIZAÇÃO N.° | 2161/2011
+I. Do Pedido
+Paulo Eduardo Marques da Costa Guimarães notificou um tratamento de dados pessoais com a finalidade de realizar um estudo observacional sobre a mobilidade social em Portugal entre 1860 e 1960.
+A metodologia adoptada pretende analisar a mobilidade social em Portugal, tendo por base a recolha da informação sociológica de todos os indivíduos presentes no acto de casamento e registada nos assentos de casamento.
+Os dados pessoais recolhidos do Assento de Casamento são: idade, estado civil, legitimidade, freguesia, naturalidade, ocupação ou profissão dos nubentes e respectivos pais e testemunhas.
+Este elenco de dados será recolhido por bolseiros de investigação da Fundação para a Ciência e Tecnologia, mediante a consulta dos assentos de casamentos nas Conservatórias de Registo
+Civil de Lisboa, Porto, Portalegre, Covilhã, Guarda Viseu, Olhão, Madeira e Açores.
+II. Da Análise
+As certidões extraídas dos registos constantes dos livros do registo civil podem ser pedidas por qualquer pessoa, nos termos do n.º 1 do artigo 214.° do Código de Registo Civil. Deste modo, é legítimo aos investigadores solicitarem a consulta de assentos de casamento.
+Todavia, embora se trate de um documento público, o assento de casamento contém dados pessoais, pelo que a sua consulta configura um tratamento de dados pessoais, de acordo com o disposto na alínea b) do art. 3.º da Lei N.º 67/98, de 26 de Outubro.
+Ademais, porque referentes à vida privada, os dados pessoais em questão são dados pessoais sensíveis, e nessa medida, sujeitos a Autorização prévia da CNPD.
+O n.º 3 do artigo 35.° da Constituição da República Portuguesa refere expressamente que a informática "... não pode ser utilizada para tratamento de dados pessoais relativos à (...) vida
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS privada (...), salvo mediante consentimento expresso do titular, autorização prevista por lei com garantias de não discriminação ou para processamento de dados estatísticos não individualmente identificáveis.
+Atendendo aos dados recolhidos e à finalidade do tratamento, está em causa a excepção prevista no artigo supra citado de processamento da informação para fins estatísticos.
+O n.° 2 do artigo 7.° da Lei de Protecção de Dados estabelece igualmente limites quanto ao tratamento de dados pessoais relativos à vida privada. A CNPD deve certificar-se da adopção de medidas de segurança e garantias de não discriminação.
+No que respeita ao dado "legitimidade", cumpre à CNPD fazer a seguinte destrinça: se em causa está, de facto, a capacidade para casar não vê esta Comissão qualquer impedimento para a recolha desse dado; por outro lado, se a legitimidade se prender com a filiação ilegítima, por se tratar de um dado passível de discriminação negativa, não se autoriza a recolha desse dado, nos termos do n.º 4 do artigo 34.° da Constituição da República Portuguesa.
+A CNPD entende que a informação tratada é recolhida de forma licita (artigo 5°, n.º1 alínea a)
+da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+II.
+Da Conclusão
+Assim, de acordo com as disposições conjugadas do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a)
+do n.° 1 do artigo 28° e art. 30º da Lei de Protecção de Dados, autoriza-se o tratamento, com as condições supra referidas, nos seguintes termos:
+Responsável pelo tratamento: Paulo Eduardo Marques da Costa Guimarães
+Finalidade: Estudo observacional sobre a mobilidade social em Portugal entre 1860 e 1960.
+Categoria de Dados pessoais tratados: idade, estado civil, capacidade jurídica para casar, freguesia, naturalidade, ocupação ou profissão dos nubentes e respectivos pais e testemunhas.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: Não aplicável.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Prazo de conservação: Não são conservados dados que permitam identificar os seus titulares.
+Dos termos e condições fixados na Deliberação n.º 227/2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 28 de Novembro de 2011
+Ana Roque, Luís Paiva de Andrade (Relator), Vasco Almeida, Helena Delgado António, Carlos
+Campos Lobo, Luis Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

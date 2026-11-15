@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4313/2012
-official_date: null
+official_date: '2012-05-14'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AMERICAN MEDICAL SYSTEMS IBÉRICA, S.L.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,47 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:26:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4313/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44568](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44568).
+fe
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc 3920/2012
+AUTORIZAÇÃO N.° Y313/2012
+A sociedade comercial denominada AMERICAN MEDICAL SYSTEMS
+IBÉRICA, S.L., veio notificar à Comissão Nacional de Proteção de Dados (CNPD) o tratamento de dados de gestão de Recursos Humanos, para processamento de remunerações.
+1. As categorias de dados tratados, incluem: nome, morada, data de nascimento, data de admissão, estado civil, nome do conjugue, NIF,
+NIB, número e data de nascimento dos filhos, histórico de funções, histórico de remunerações, histórico de posição na hierarquia, local de trabalho, área funcional, complementos de retribuição (entre outros, destinados a aferir o valor da remuneração).
+2. Os dados tratados são necessários e não excessivos em relação à finalidade (cf. art. 5.° da Lei 67/98, de 26 de Outubro).
+3. A recolha é direta e os titulares têm direito a corrigir e atualizar os dados.
+4. Constitui fundamento de legitimidade para o tratamento a execução da relação contratual, ao abrigo do artigo 6°, alínea a), da citada lei.
+5. A Requerente indica como subcontratante a sociedade comercial Guerra
+& Figueirinhas, Lda, nos termos do artigo 16° da mesma lei.
+Face a todo o exposto DELIBERA esta CNPD, nos termos do disposto na alínea a) do n.º 1 do artigo 28.º da Lei n.º 67/98, de 26 de Outubro, autorizar o tratamento de dados pessoais.
+A entidade responsável deve cumprir as exigências relativas ao consentimento informado de terceiros cujos dados sejam recolhidos.
+1. Responsável: AMERICAN MEDICAL SYSTEMS IBÉRICA, S.L.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2. Finalidade: Gestão de Recursos Humanos, para processamento de remunerações 3.Categorias dos dados: Dados de Identificação e dados da vida privada nome, morada, data de nascimento, data de admissão, estado civil, nome do conjugue, NIF, NIB, número e data de nascimento dos filhos, histórico de funções, histórico de remunerações, histórico de posição na hierarquia, local de trabalho, área funcional, complementos de retribuição (entre outros, destinados a aferir o valor da remuneração).
+4.Destinatários dos Dados: Inexiste interconexão, bem como fluxos transfronteiriços;
+5.Direito de Informação: Deverá ser assegurado o direito de informação e acesso, nos termos do consagrado nos artigos °10° e 11° da Lei n° 67/98, de 26 de Outubro;
+6. Prazo de Conservação: 10 anos após o termo da relação laboral
+Lisboa, 14 de Maio de 2012.
+Ana Roque (Relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade
+Fisica
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

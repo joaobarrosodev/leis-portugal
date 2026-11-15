@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: JOSÉ MANUEL DA COSTA MARTINS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:11:08Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5251/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20279](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20279).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 8748/2009
+AUTORIZAÇÃO N.º 1251 12009
+José Manuel da Costa Martins, no âmbito do seu projecto de investigação para a dissertação de Doutoramento em Medicina, notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo para analisar a expressão dolorosa no parto e o seu tratamento - dimensão psicobiológica na abordagem anestesiológica.
+Serão incluídas no estudo as parturientes que frequentam a consulta dos centros participantes.
+O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do investigador.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: José Manuel da Costa Martins
+Finalidade: estudo para analisar a expressão dolorosa no parto e o seu tratamento - dimensão psicobiológica na abordagem anestesiológica.
+Categoria de Dados pessoais tratados: código do doente, idade, contactos, profissão, tipo de relação, avaliações da história clínica, avaliação psicológica (escala de vinculação), amostras de saliva.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: 12 meses.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, l de Novembro de 2009
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo, Luis Barroso (Relator)
+Luís Lingnau da Silveira (Presidente)

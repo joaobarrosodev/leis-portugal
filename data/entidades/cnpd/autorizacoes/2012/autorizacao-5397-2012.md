@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Plurirad, Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,61 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:08:49Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 5397/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/45564](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/45564).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 2373/2012
+AUTORIZAÇÃON° 5397 2012 1 - Plurirad, Lda, vem notificar à Comissão Nacional de Protecção de Dados (CNPD)
+um tratamento de dados pessoais com a finalidade de gestão da avaliação de doses de radiação relativamente a trabalhadores expostos, durante um determinado período de tempo.
+Os dados tratados são os seguintes:
+Nome, sexo, data de nascimento, nacionalidade, número de BI, NIF, função, especialidade, valores das doses de radiações registadas.
+A recolha de dados é efetuada diretamente, através do preenchimento de impresso.
+Está assegurado o direito à atualização dos dados, bem como as condições de o titular conhecer, corrigir e eliminar os dados.
+Não vêm referidas no formulário de notificação as medidas de segurança que a requerente se propõe implementar. Todavia, instada a pronunciar-se sobre o assunto, informou que o sistema de segurança se baseia num sistema de utilizador/senha a atribuir a cada clínica, validado pela requerente.
+A requerente pretende comunicar os dados à Direção Geral de Saúde e ao Registo
+Central de doses do Instituto Tecnológico e Nuclear, em cumprimento do disposto nos artigos 21° e 23° do DL 167/2002, de 18 de julho, respetivamente.
+Pretende-se a conservação dos dados pelo período de 5 anos após a comunicação efetuada nos termos do artigo 23° acima referido.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 2 - A requerente é uma entidade prestadora de serviços na área da proteção contra radiações ionizantes, nos termos previstos pelo DL 167/2002, de 18 de julho.
+No exercício da atividade relativa à dosimetria individual, a requerente está obrigada nos termos do disposto no artigo 23° do diploma citado, a comunicar ao serviço do registo dosimétrico central do Instituto Tecnológico e Nuclear, os valores das doses de radiações que registou e a identidade das pessoas que as receberam no exercício das respetivas profissões (cf. artigo 22°). Deve ainda comunicar os casos previstos no artigo 21° do mesmo diploma à Direção Geral de Saúde.
+O tratamento notificado é efetuado em cumprimento das referidas disposições legais, pelo que a CNPD considera que a requerente tem legitimidade para o tratamento, na medida em que se visa assegurar o cumprimento de uma obrigação legal (cf. artigo 7.° n.° 2 da Lei n° 67/98).
+A comunicação de dados a entidades públicas está prevista e autorizada pelo disposto nos artigos 21° e 23° do DL 167/2002, de 18 de julho.
+A informação tratada é, na generalidade, adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (alínea c) do n.° 1 do artigo 5.° da Lei n° 67/98, de 26.10).
+Em relação à segurança da informação, deverá a responsável pelo tratamento tomar as medidas previstas nos artigos 14° e 15.º da Lei n° 67/98, adotando as medidas adequadas à prevenção dos riscos existentes, como impõe o artigo 25° n°3 do DL 167/2002, de 18 de julho, e respeitar o dever de sigilo.
+O prazo proposto para a conservação dos dados está em conformidade com a previsão do artigo 23° nº2, do DL 167/2002, de 18 de julho.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3 - Em face do exposto, a CNPD autoriza o tratamento nos termos declarados, consignando-se, nos termos dos artigos 7, n°2, e 30.º da Lei n° 67/98, de 26.10, o seguinte:
+Responsável pelo tratamento: Plurirad, Lda
+Finalidade do tratamento: gestão da avaliação de doses de radiação relativamente a trabalhadores expostos, durante um determinado período de tempo
+Categorias de Dados: nome, sexo, data de nascimento, nacionalidade, número de BI,
+NIF, função, especialidade, valores das doses de radiações registadas
+Comunicação de dados: à Direção Geral de Saúde e ao Registo Central de doses do
+Instituto Tecnológico e Nuclear
+Interconexões de dados: não há
+Forma de exercício do direito de acesso e retificação: mediante pedido dirigido por escrito à responsável.
+Lisboa, 25 de Junho le 2012
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

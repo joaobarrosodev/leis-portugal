@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CITIBANK INTERNACIONAL PLC - SUCURSAL EM PORTUGAL , S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,63 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T12:45:32Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 359/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21099](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21099).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n° 406/96
+AUTORIZAÇÃON: 359/08 1. CITIBANK INTERNATIONAL PLC - SUCURSAL EM PORTUGAL, vem solicitar a actualização das Autorizações n°s 29/97 e 126/97, de 15 de Abril de 1997 e 19 de Dezembro de 1997, respectivamente, em termos de permitir a comunicação de dados pessoais relativos aos seus clientes à empresa White Label Rewards, Ltd, no âmbito de um contrato de prestação de serviços, com a finalidade de gestão do programa de pontos associado ao cartão de crédito Citi Travel Pass.
+Juntou minuta do contrato de prestação de serviços em referência.
+2. A Lei 67/98, de 26.10, permite a subcontratação e prevê o acesso a dados pessoais por parte do subcontratante, desde que este actue de acordo com as instruções do responsável (artigo 16.).
+O subcontratante está vinculado a cumprir as disposições relativas ao sigilo bancário (cf. artigos 78° nº1 e 79° nº1 do DL 298/92, de 31.12) e está obrigado a segredo profissional (cf. artigo 17.° da Lei 67/98), e só pode utilizar os dados para executar o contrato a que se vinculou, não podendo utilizá-los para finalidades diversas.
+O artigo 78.º do DL 298/92, de 31.12 estabelece o dever de segredo em relação aos empregados das instituições de crédito, bem como em relação aos «mandatários, comitidos e outras pessoas que lhes prestem serviços a título permanente ou ocasional».
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O dever de sigilo engloba, nomeadamente, os "nomes dos clientes, as contas de depósito e seus movimentos e outras operações bancárias" e não cessa com o termo da prestação de serviços (n° 2 e 3 do mesmo preceito).
+A Directiva 95/46/CE consagra idêntica realidade em relação à figura do subcontratante
+- "pessoa ou entidade que processa dados por conta do responsável" (artigo 2° alínea e)
+- e obriga-o a processar esses dados de acordo com as instruções do responsável" (cf.
+artigo 16.°).
+A Lei 67/98, de 26.10, definiu como subcontratante a pessoa singular ou colectiva ...
+que trate os dados pessoais por conta do responsável pelo tratamento" (artigo 3.º alínea e).
+À semelhança do que acontece com a Directiva 95/46/CE, a Lei 67/98 obriga o subcontratante que tenha acesso aos dados pessoais a tratá-los de acordo com as «instruções do responsável» (artigo 16."), não os podendo utilizar em proveito próprio (artigos 3.º alínea e) e 5.° n.º 1 alínea b)). Está vinculado, igualmente, à obrigação de sigilo profissional (artigo 17.° n.° 1).
+O artigo 14.° n.º 3 da Lei 67/98 determina ainda que «a realização de operações de tratamento em subcontratação deve ser regida por um contrato ou acto jurídico que vincule o subcontratante ao responsável pelo tratamento e que estipule, designadamente, que o subcontratante apenas actua mediante instruções do responsável pelo tratamento».
+O responsável deve informar os titulares dos dados sobre os «destinatários dos dados»
+(cf. artigo 10.° n.º 1 alínea c) da Lei 67/98), informando que as empresas subcontratadas serão destinatárias dos seus dados pessoais.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 2
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3. Mostram-se reunidas, em face do teor do contrato de prestação de serviços cuja minuta se encontra junta aos autos, as condições legalmente exigidas em matéria de tratamento de dados, confidencialidade e segurança (cf. artigo 27°, 5.°, 6.°, 16.° e 17° da Lei 67/98) para autorizar a comunicação de dados à empresa White Label Rewards,
+Ltd.
+Nestes termos, consideram-se actualizadas as Autorizações n°s 29/97 e 126/97, de 15 de
+Abril de 1997 e 19 de Dezembro de 1997, respectivamente, nos termos constantes da presente Autorização.
+Proceda-se à actualização do registo público - artigo 31° da Lei 67/98, de 26.10.
+Lisboa, 43 Up Tarço de 20c8
+Luís Barroso
+ами
+Eduardo
+Ana Roque
+Carlos Campos Lobo
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 3
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Helena Delgado António (relatora)
+Vasco Almeida
+Bris Inina
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt 4

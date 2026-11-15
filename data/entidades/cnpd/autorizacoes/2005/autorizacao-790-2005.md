@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CÂMARA MUNICIPAL DE COIMBRA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:20:21Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 790/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6613](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6613).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.º 9833/1443/03
+Autorização n. 71905
+O Gabinete de Apoio Jurídico à Câmara Municipal de Coimbra, vem notificar junto da Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de registo de contra-ordenações.
+Os dados recolhidos são: nome, endereço e NIF.
+A recolha e actualização dos dados são directas.
+Atenta a finalidade do tratamento, considera-se que os dados pessoais recolhidos são geralmente adequados, pertinentes e não excessivos (alínea c) do n.º 1 do artigo 5.° da
+Lei n.º 67/98, de 26 de Outubro).
+De acordo com todo o exposto, a Comissão Nacional de Protecção de Dados considera-se notificada e autoriza os tratamentos declarados nos termos dos artigos 28.º e 30.º da
+Lei n.º 67/98, de 26 de Outubro, determinando o seguinte:
+Responsável pelo tratamento: Gabinete de Apoio Jurídico à Câmara Municipal de
+Coimbra.
+Categorias de dados pessoais tratados: Nome, endereço e NIF.
+Finalidade: Registar autos de contra-ordenação.
+Forma e condições como pode conhecer e corrigir informação a si respeitante:
+Directamente ou por escrito.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Tempo de conservação dos dados: O estabelecido nos termos legais.
+Comunicação de dados: Não se verifica.
+Eventuais interconexões: Não se verifica.
+Transferência de dados para países terceiros: Não se verifica.
+Lisboa, 11 de Obj: 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+сини
+Eduardo Campos
+Ana Luísa Geraldes
+Anelen 4x
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

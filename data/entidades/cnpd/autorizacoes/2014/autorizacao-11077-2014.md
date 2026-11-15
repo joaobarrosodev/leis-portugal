@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SATU-Oeiras - Sistema Automático de Transporte Urbano, E.M., S.A.'
-- 'Texto incompleto: 1 de 3 página(s) do PDF sem texto (digitalização sem OCR).'
+- 'Texto obtido por OCR em 1 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,8 +70,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:36:45Z'
-  warnings:
-  - 'Texto incompleto: páginas digitalizadas sem OCR.'
+  warnings: []
   errors: []
 ---
 

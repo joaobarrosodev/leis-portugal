@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Banque PSA Finance - Sucursal em Portugal'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,37 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:01:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2218/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16453](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16453).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.º 4160/07
+AUTORIZAÇÃO N.° 2218 /2009
+A entidade BANQUE PSA FINANCE (sucursal em Portugal) veio notificar um tratamento cuja finalidade é a construção de uma base de dados que integrará a denominada "EULIST", em cumprimento do disposto na Directiva Comunitária 2005/60/CE, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais e financiamento de terrorismo.
+A Requerente esclarece que a referida base de dados comunitária (EULIST) cria para si um dever legal de vigilância. Assim, no momento do processamento informático da proposta contratual com um novo cliente da instituição, e caso o nome desse futuro cliente se encontre na base de dados EULIST, o processo contratual é imediatamente interrompido.
+1. É recolhida informação sobre nome completo e data de nascimento do futuro cliente, a qual se reputa necessária, pertinente e não excessiva em relação à finalidade (cf. art.
+5.° da Lei 67/98).
+2. Os dados são tratados na sequência de uma obrigação legal que recai sobre a
+Requerente. Existe, por isso, legitimidade para o tratamento de dados (cf. art. 6.° al. b)
+da Lei 67/98, de 26 de Outubro).
+Por força do artigo 27.°, 28.° n.º 1 al. d) e 30.° da Lei 67/98, autoriza-se o tratamento notificado consignando-se o seguinte:
+1. Responsável: BANQUE PSA FINANCE 2. Categorias de dados pessoais tratados: Nome completo e data de nascimento.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 21 393 00 39
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3. Finalidade: cumprimento de obrigação legal relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais e financiamento de terrorismo.
+4. Entidades a quem podem ser transmitidos: Comissão Europeia 5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita.
+6. Eventuais interconexões: Não há 7. Transferências de dados para países terceiros: Não há.
+8. Conservação dos dados: 5 anos após o termo da relação contratual.
+Lisboa, | de Junho de 2009
+Ana Roque (relatora), Luís Barroso, Carlos Campos Lobo, Helena Delgado António,
+Luís Paiva de Andrade, Vasco Almeida
+Saloe
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+T1.019000 10 21 393 00 39

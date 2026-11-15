@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 38/2008
-official_date: null
+official_date: '2008-03-10'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: AUTORIDADE DE SEGURANÇA ALIMENTAR E ECONÓMICA - ASAE'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,32 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:16:49Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 38/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8741](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8741).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 0164/2008
+PARECER N° 38 12008 1. A Comissão aprovou, em 10 de Março de 2008, o seu Parecer n° 8/2008, acerca do
+Protocolo celebrado entre a Autoridade de Segurança Alimentar e Económica (ASAE), o
+Instituto dos Registos e do Notariado, IP (IRN) e o Instituto de Tecnologias de Informação da Justiça, IP (ITIJ), destinado a proporcionar o acesso daquela Autoridade à Base de
+Dados de Identificação Civil.
+2. Nesse Parecer, interpretou-se o Protocolo em causa como abrangendo a actividade da
+ASAE como órgão de polícia criminal, mas também como entidade administrativa organizadora de processos de contraordenação.
+Aponte-se que foram apresentados dois votos de vencido, precisamente no sentido de o
+Protocolo não poder permitir o acesso da ASAE à Base de Dados de Identificação Civil no ambito de processos contraordenacionais.
+3. Vem agora a ASAE esclarecer que se pretende que o Protocolo se aplique apenas a processos de natureza criminal.
+Para o deixar mais bem explicitado, formula-se nova redacção dos artigos 1° (n°2) e 2° (n° 2) do Protocolo.
+4. Afigura-se que, perante esta explicitação, caberá reiterar o teor do Parecer n° 8/2008 - mas apenas na parte relativa à actividade da ASAE como órgão de polícia criminal.
+boa. 1 3 de Outubro de 200 é
+Luís Lingnau da Silveira (Presidente e relator)
+Luís Barroso
+Eduardo Campos au cartoriosel
+Leee
+Helena António
+Almeid
+Vasco Almeida amm
+Rua de São Bento. 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832

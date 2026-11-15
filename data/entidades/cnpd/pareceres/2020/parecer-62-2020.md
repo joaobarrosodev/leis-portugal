@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 62/2020
-official_date: null
+official_date: '2020-06-03'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: COMISSÃO DE ASSUNTOS CONSTITUCIONAIS DIREITOS, LIBERDADES E GARANTIAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 13 de 13 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,165 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T02:55:47Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Parecer da CNPD n.º 62/2020
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121764](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/121764).
+LD
+COMISSÃO NACIONAL
+DE PROTEÇAO DE DADOS
+Processo PAR/2020/38 | 1 /
+PARECER/2020/62
+I.
+Pedido
+O Presidente da Comissão dos Assuntos Constitucionais, Direitos, Liberdades e Garantias da Assembleia da República solicitou à Comissão Nacional de Proteção de Dados (CNPD)
+que se pronunciasse sobre a Proposta de Lei n.º 16/XIV/1.ª (GOV) - Transpõe a Diretiva (UE) 2018/843, do Parlamento Europeu e do Conselho, de 30 de maio de 2018, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais ou de financiamento do terrorismo e a Diretiva (UE) 2018/1673 do Parlamento Europeu e do
+Conselho, de 23 de outubro de 2018, relativa ao combate ao branqueamento de capitais através do direito penal.
+O pedido formulado e o presente parecer enquadram-se nas atribuições e competências da
+CNPD, enquanto autoridade nacional de controlo dos tratamentos de dados pessoais, nos termos do disposto na alínea c) do n.º 1 do artigo 57.° e no n.º 4 do artigo 36.° do
+Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016 (Regulamento Geral sobre a Proteção de Dados - RGPD), em conjugação com o disposto no artigo 3.°, no n.º 2 do artigo 4.° e da alínea a) do n.º 1 do artigo 6.°, todos da Lei n.º 58/2019, de 8 de agosto (a qual tem por objeto assegurar a execução, na ordem jurídica interna, do RGPD).
+A apreciação da CNPD cinge-se às normas que preveem ou regulam tratamentos de dados pessoais.
+II.
+Apreciação
+A presente Proposta de Lei transpõe para a ordem jurídica interna a Diretiva (UE) 2018/843, do Parlamento Europeu e do Conselho, de 30 de maio de 2018, que altera a Diretiva (UE)
+2015/849 relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais ou de financiamento do terrorismo e que, por sua vez, altera as Diretivas 2009/138/CE e 2013/36/UE. Transpõe ainda a Diretiva (UE) 2018/1673 do
+Parlamento Europeu e do Conselho, de 23 de outubro de 2018, relativa ao combate ao branqueamento de capitais através do direito penal, dotando os ordenamentos jurídicos dos
+Estados-Membros de mecanismos e instrumentos penais que proporcionem uma
+AV. D. CARLOS I. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+Processo PAR/2020/38 | 1v.
+cooperação transfronteiriça mais eficiente entre as autoridades competentes, aperfeiçoando-se o regime imposto pela Decisão-Quadro 2001/500/JAI do Conselho, de 26 de junho, que estabelece requisitos relativos à criminalização do branqueamento de capitais.
+Nos termos do preâmbulo, a Proposta de Lei visa proceder «a uma revisão dos principais instrumentos jurídicos nacionais em matéria de prevenção e combate ao branqueamento de capitais e financiamento do terrorismo, num esforço de garantir um regime jurídico mais eficiente e completo para enfrentar e mitigar riscos emergentes, decorrentes, em particular, do recurso a sistemas financeiros alternativos, como a moeda eletrónica e outros ativos virtuais, e da ameaça resultante de uma maior convergência entre a criminalidade organizada transnacional e o terrorismo».
+Assim, a presente Proposta de Lei introduz medidas que visam combater os riscos inerentes à anonimidade das moedas e outros ativos virtuais que torna possível a sua utilização abusiva para fins criminosos e impõe a adoção de medidas de diligência reforçada às entidades obrigadas sempre se relacionem com países terceiros de risco elevado, alargando o âmbito subjetivo destas obrigações.
+Por último, a proposta alarga o quadro de ilícitos típicos subjacentes e as condutas típicas próprias do crime de branqueamento, bem como agrava a moldura penal nos casos em que o infrator é uma entidade obrigada, nos termos do artigo 2.° da Diretiva (UE) 2015/849 do
+Parlamento Europeu e do Conselho, de 20 de maio de 2015, e cometa a infração no exercício das suas atividades profissionais.
+Para além de transpor as Diretivas supra referidas, a presente lei procede igualmente à trigésima quinta alteração à Lei n.° 15/2001, de 5 de junho; à segunda alteração à Lei n.º 20/2008, de 21 de abril; à quarta alteração ao Regime Jurídico de Acesso e Exercício da
+Atividade Seguradora e Resseguradora, aprovado no anexo | à Lei n.° 147/2015, de 9 de setembro; à segunda alteração à Lei n.º 83/2017, de 18 de agosto; à primeira alteração à Lei n.º 89/2017, de 21 de agosto; à primeira alteração à Lei n.º 97/2017, de 23 de agosto; à quinquagésima alteração ao Código de Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro; à quadragésima oitava alteração ao Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro; à quinquagésima segunda alteração ao
+Decreto-Lei n.º 298/92, de 31 de dezembro; à vigésima quarta alteração ao Decreto-Lei n.°
+
+Processo PAR/2020/38 2
+COMISSÃO NACIONAL
+DE PROTEÇÃO DE DADOS 15/93, de 22 de janeiro; à vigésima quinta alteração ao Código do Notariado, aprovado em anexo ao Decreto-Lei n.º 207/95, de 14 de agosto; à trigésima alteração ao Regulamento
+Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro; e à segunda alteração ao Decreto-Lei n.º 14/2013, de 28 de janeiro.
+Porém, do ponto de vista da proteção de dados pessoais nem todas as alterações legislativas introduzidas pela Proposta de Lei apresentam relevância jurídica. Vejamos, pois, aquelas que merecem ou suscitam observações, não deixando de se assinalar que ao longo da Proposta foram atualizadas, nos diferentes diplomas objeto de alteração, as referências à legislação de proteção de dados.
+A. Alterações introduzidas à Lei n.º 83/2017, de 18 de agosto - Medidas de combate ao branqueamento de capitais e financiamento do terrorismo
+Como nota prévia, a CNPD lamenta que se mantenham algumas opções legislativas que já foram objeto de pronúncia no Parecer n.º 31/2017, de 16 de maio de 2017, relativo à
+Proposta de Lei 72/XIII', e que suscitaram reservas quanto à sua conformidade com os princípios relativos aos tratamentos de dados pessoais (em especial os artigos 25.°, n.º 4, e 127.°, n.° 2, da Lei n.º 83/2017, de 18 de agosto).
+De entre as alterações agora introduzidas pelo artigo 5.° da Proposta, com relevância em matéria de proteção de dados, destacam-se:
+a) Artigo 25.° - «Meios comprovativos dos elementos identificativos»
+Este inciso, relativamente às pessoas singulares, prevê que as entidades obrigadas exijam sempre a apresentação de documentos de identificação válidos, sendo a comprovação dos elementos identificativos efetuada através dos meios de identificação eletrónica, assinatura eletrónica qualificada e autenticação segura do Estado disponíveis através do sítio na
+Internet autenticacao.gov.pt e através da autorização do titular dos dados para a sua transmissão, nos termos do n.º 2 do artigo 4.°-A da Lei n.° 37/2014, de 26 de junho, na sua redação atua/ (cfr. alíneas a) e d) no n.º 2 do artigo 25.°).
+' Disponível em https://www.cnpd.pt/home/decisoes/Par/40_31_2017.pdf
+AV. D. CARLOS I. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+Processo PAR/2020/38 | 2V. /
+Ora, relativamente a este último meio de comprovação dos dados constantes nos documentos de identificação, não se alcança que transmissão está aqui em causa, nem a necessidade da autorização do titular dos dados para que esta se concretize.
+Efetivamente a Lei n.º 37/2014, de 26 de junho, alterada por último pela Lei n.° 2/2020, de 31 de março, estabelece um sistema alternativo e voluntário de autenticação dos cidadãos nos portais e sítios na Internet da Administração Pública, denominado Chave Móvel Digital, consagrando no n.° 2 do Artigo 4.°-A que Os cidadãos titulares de cartão de cidadão ou
+CMD podem, através de autenticação segura, obter dados constantes das bases de dados de organismos da Administração Pública a disponibilizar no autenticação.gov.». Ou seja, prevê a possibilidade de os cidadãos terem acesso aos seus dados constantes das bases de dados de organismos da Administração Pública. Ora, a alínea d) do artigo 25.° da
+Proposta reflete uma interpretação diversa, prevendo que os titulares de dados autorizem o acesso aos seus dados pessoais constantes das bases de dados da Administração Pública por outras entidades e, ainda, autorizem a transferência dos mesmos, o que objetivamente não cabe na letra do n.° 2 do artigo 4.°-A daquela lei.
+O que poderá pretender-se é admitir que os titulares dos dados, perante as instituições financeiras, acedam aos dados pessoais constantes da base de dados do cartão de cidadão e os apresentem em tempo real às instituições financeiras, mas nesta hipótese a remissão deve ser feita para os n.ºs 1 e 4 do artigo 4.°-A da Lei n.º 37/2014, de 26 de junho, e não pode ser para o n.º 2 do artigo 4.°-A, Com efeito, aí se estatui que « Os cidadãos titulares de
+CMD, e por ela devidamente autenticados, podem ter acesso aos dados constantes dos seus documentos de identificação [...], através de aplicação móvel disponibilizada pela
+Agência para a Modernização Administrativa, I. P.» e que a «A apresentação dos dados em tempo real perante terceiros através da aplicação prevista no n.º 1 tem um valor jurídico equivalente ao dos documentos originais, desde que aqueles terceiros disponham, no local, dos meios eletrónicos necessários à sua verificação.»
+Recomenda-se, pois, a revisão da alínea d) do n.º 2 do artigo 25.º da Proposta por forma a refletir efetivamente o disposto no n.° 2 do artigo 4.-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual, ou, se essa for a ratio subjacente àquela norma, a correção da remissão para os n.ºs 1 e 4 do mesmo artigo; em alternativa, a sua eliminação.
+
+Processo PAR/2020/38| 3 p
+COMISSÃO NACIONAL
+DE PROTEÇAO DE DADOS
+Por sua vez, o n.º 4 do artigo 25.° prevê que, quando o cidadão não seja detentor de cartão de cidadão, a comprovação dos documentos de identificação é efetuada, entre outras formas, mediante a reprodução do original do bilhete de identidade, em suporte físico ou eletrónico (cfr. a alínea a)).
+Reiteram-se aqui as observações feitas no Parecer n.º 31/2017 supra citado e que ora parcialmente se reproduz: «Não pode deixar de se estranhar que numa matéria como esta, em que e absolutamente crucial a correta identificação dos clientes e representantes, pelo impacto que os tratamentos de dados subsequentes têm na vida das pessoas, se admita a utilização de soluções que apresentam especiais riscos de manipulação dos documentos e da identificação, como é o caso da comprovação mediante a reprodução do original do bilhete de identidade, em suporte físico ou eletrónico. Com efeito, a reprodução por fotocópia ou por digitalização não assegura que não tenha havido falsificação do documento original...
+Assim, compreendendo-se que tem de ser encontrada solução para os casos em que as pessoas não são portadoras de documentos de identificação em suporte eletrónico - todos os que não disponham de um cartão de cidadão ou outro documento de identificação digital
+- ou, por qualquer razão, não estejam em condições de o utilizar por esta via, parece mais adequado admitir a possibilidade de comprovação por um de dois meios: ou por via da recolha presencial dos dados por parte da entidade obrigada com base na leitura do documento apresentado presencialmente e aposição da assinatura do titular dos dados no documento onde tais dados vão ser inscritos; ou por meio do envio eletrónico de certidão emitida pelo IRN, I.P, que descreva os dados contidos no documento de identificação civil, à qual seja aplicado um hash que assinale sempre que haja alteração da certidão. Aliás, note-se que a hipótese de certidão é admitida na alínea b) do n.° 1 do artigo 38.°, não se percebendo porque não foi também considerada em sede do artigo 25.°».
+Note-se que a alínea c) do n.º 4 deste Artigo prevê, também, para os casos em que o cidadão não seja detentor do cartão de cidadão, que a comprovação dos elementos identificativos das pessoas singulares seja efetuada mediante o acesso à respetiva informação eletrónica com valor equivalente, designadamente através: «i) Do recurso a dispositivos seguros, reconhecidos, aprovados ou aceites pelas autoridades competentes, que confiram certificação qualificada, nos termos a definir por regulamentação; ii) Da recolha e verificação, mediante prévio consentimento, dos dados eletrónicos junto das entidades competentes responsáveis pela sua gestão; iii) Da autorização para a transmissão dos dados nos termos
+AV. D. CARLOS 1. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+Processo PAR/2020/38 | 3v. p do n.° 2 do artigo 4.º-A da Lei n.° 37/2014, de 26 de junho, na sua redação atual, iv) Do recurso a prestadores qualificados de serviços de confiança, nos termos previstos no
+Regulamento (UE) n.º 910/2014, do Parlamento Europeu e do Conselho, de 23 de julho de 2014».
+Paralelamente, quanto à subalínea iii) da alínea c) do n.º 4 do artigo 25.°, pelas razões acima indicadas, recomenda-se a sua reformulação de modo a refletir efetivamente o disposto no n.º 2 do artigo 4.°-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual, ou, se essa for a ratio subjacente àquela norma, a correção da remissão para os n.°s 1 e 4 do mesmo artigo; em alternativa, a sua eventual eliminação.
+b) Artigo 135.° - «Dever de cooperação entre autoridades de supervisão do setor financeiro»
+Neste Artigo está previsto o regime de cooperação das autoridades de supervisão das entidades financeiras com entidades estrangeiras que prossigam funções análogas, sendo agora introduzido um novo n.° 4 relativo a fluxos internacionais de informações sujeitas a segredo com autoridades que prossigam funções análogas de supervisão financeira em
+Estados que não sejam membros da União Europeia, no âmbito de acordos de cooperação que hajam celebrado e para o exercício de funções de supervisão, em regime de reciprocidade e mediante a demonstração de requisitos equivalentes em matéria de sigilo profissional.
+Note-se que este inciso resulta da transposição da Diretiva (UE) 2018/843 do Parlamento
+Europeu e do Conselho, de 30 de maio de 2018, que altera a Diretiva (UE) 2015/849, relevando aqui o artigo 57.°-A que prevê que «Os Estados-Membros podem autorizar as respetivas autoridades nacionais competentes que supervisionam as instituições de crédito e as instituições financeiras a celebrar acordos de cooperação que prevejam a colaboração e o intercâmbio de informações confidenciais com as autoridades competentes de países terceiros que sejam homólogas dessas autoridades nacionais competentes. Esses acordos de cooperação devem ser celebrados com base no princípio de reciprocidade e apenas se as informações divulgadas estiverem sujeitas a uma garantia de exigências de sigilo profissional no mínimo equivalentes às referidas no n.° 1».
+No entanto, para que as transferências de dados pessoais para um país terceiro, aqui previstas, estejam de acordo com o disposto no RGPD, é necessário que, sempre que sobre esse Estado terceiro não tenha recaído uma decisão de adequação por parte da Comissão
+
+Processo PAR/2020/38 | 4 p
+COMISSÃO NACIONAL
+DE PROTEÇÃO DE DADOS
+Europeia, nos termos do artigo 45.° do RGPD, é imprescindível que o acordo de colaboração apresente garantias adequadas nele estejam previstos os direitos oponíveis e efetivos dos titulares dos dados, bem como medidas corretivas eficazes, nos termos impostos pelo artigo 46.° deste diploma da União .
+Importa, por isso, especificar no n.º 4 do artigo 135.°, que os acordos têm de cumprir o disposto no artigo 46.° do RGPD.
+B - Alteração à Lei n.° 89/2017, de 21 de agosto
+A proposta em análise procede à alteração dos artigos 5.° e 22.° da Lei n.° 89/2017, de 21 e agosto, sem que no entanto mereça reparos do ponto de vista da proteção de dados: o artigo 5.° alarga o leque de pessoas que devem informar a sociedade com vista à elaboração do registo, bem como a obrigação de atualizar a informação no prazo de 15 dias, enquanto o n.º 5 do artigo 22.°, parte final, indica agora como data pertinente para a relevância dos consequências emergentes do incumprimento das obrigações declarativas a fixada por portaria dos membros do governo responsáveis pelas áreas das finanças e da justiça para a consulta eletrónica ao RCBE.
+C - Alteração ao Regime Jurídico do Registo Central do Beneficiário Efetivo - aprovado em anexo à Lei n.° 89/2017
+Para além de outras alterações pontuais a diplomas conexos, a presente Proposta de Lei, no seu artigo 9.°, introduz alterações ao regime jurídico do Registo Central do Beneficiário
+Efetivo (RCBE), aprovado pela Lei n.º 89/2017, de 21 de agosto.
+1. Constata-se, no entanto, que em várias alterações introduzidas ao regime jurídico do
+RCBE se remete para Protocolo a celebrar entre o IRN, I.P., e diversas entidades, a definição de elementos essenciais de tratamentos de dados.
+Veja-se, por exemplo, o artigo 6.° do RCBE, relativo à legitimidade para declarar informação sobre os seus beneficiários efetivos, ao qual é agora acrescentado um n.° 3 onde se dispõe que a legitimidade pode, sempre que possível, ser verificada automaticamente por recurso à informação contida nas bases de dados que disponham de informação relevante para o efeito, nos termos a definir por protocolo celebrado entre o IRN, IP, e a entidade responsável
+AV. D. CARLOS I. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+Processo PAR/2020/38 | 4V / pelo tratamento de dados quando se trate de bases de dados externa(s) àquele instituto.
+Chama-se a atenção desde já para o carater vago desta norma, não identificando as bases de dados em causa nem delimitando a informação pertinente.
+Na verdade, não há aqui definição dos elementos mínimos identificadores do tratamento de dados pessoais para se considerar que a norma legal prevê ou admite o tratamento. Na verdade, para que a norma legal cumpra a finalidade de legitimação de um tratamento de dados pessoais, para efeito da alínea c) ou da alínea e) do n.º 1 do artigo 6.° do RGPD, e cumpra a exigência de previsibilidade, tem pelo menos de identificar as bases de dados da
+Administração Pública em causa e, desejavelmente, as categorias de dados pessoais.
+O mesmo se diga relativamente ao n.º° 4 do artigo 8.° do Regime jurídico do RCBE: se atualmente o n.º 4 prevê que «a informação relativa à entidade sujeita ao RCBE, pode sempre que possível e quando estiverem reunidas as condições técnicas, ser validada por recurso às bases de dados da Administração Pública», vem agora a nova redação proposta fixar que a informação constante do RCBE, pode, sempre que possível, ser recolhida automaticamente, por recurso à informação já contida nas bases de dados da Administração
+Pública, nos termos a definir por protocolo celebrado entre o IRN, IP, a entidade responsável pelo tratamento de dados, quando se trate de base de dados externa aquele Instituto, estando a informação recolhida automaticamente sujeita a confirmação pelo declarante quando necessário.
+Note-se que esta alteração significa, desde logo, que deixa de ocorrer uma interconexão de dados entre bases de dados da Administração Pública para validar a informação em causa, para agora se prever um tratamento de dados que se consubstancia na recolha indireta de dados efetuada nas bases de dados da Administração Pública tendo como fundamento de licitude a alínea e) do n.° 1 do artigo 6.° do RGPD.
+Por sua vez, o n.° 2 do Artigo 14.° do Regime jurídico do RCBE prevê agora que a informação constante do RCBE pode, sempre que possível, ser atualizada automaticamente, com base na informação já contida nas bases de dados da Administração Pública, nos termos a definir por protocolo celebrado entre o IRN, IP, e a entidade responsável pelo tratamento de dados, quando se trate de base de dados externa aquele Instituto.
+Também a propósito dessa disposição se recorda a necessidade da sua densificação para que possa servir de norma legal reguladora do tratamento de dados aqui genericamente
+
+Processo PAR/2020/38 | 5
+COMISSÃO NACIONAL
+DE PROTEÇAO DE DADOS aflorado. Com efeito, a simples afirmação de que a atualização da informação constante do
+RCBE se fará, sempre que possível, mediante comunicação automática a partir das bases de dados da Administração Pública, sem identificação das bases de dados que podem constituir a fonte de alimentação daquele Registo não define os elementos mínimos identificadores do tratamento de dados pessoais para se considerar que a norma legal prevê ou impõe, como obrigação, o tratamento. Insiste-se: para que a norma legal cumpra a finalidade de legitimação de um tratamento de dados pessoais, para efeito da alínea c) do n.º 1 do artigo 6.° do RGPD, e cumpra a exigência de previsibilidade, tem pelo menos de identificar as bases de dados da Administração Pública em causa, e desejavelmente as categorias de dados que cada uma delas pode transmitir ao RCBE por via de um procedimento automático de transmissão de informação, sem prejuízo de a regulação de outros aspetos deste tratamento de dados ser feito através do mencionado Protocolo.
+Por último, refira-se que o n.º 3 do Artigo 39.° («Encargos») prevê que o acesso à informação para fins diversos dos estritamente previstos nos artigos 19.° a 21.° pode ser disponibilizado nos termos e nas condições a fixar em protocolo celebrado com o IRN, IP.
+Perante o facto de a Proposta de Lei estar a delegar para o plano de protocolos administrativos a definição de elementos essenciais do tratamento de dados, a CNPD recorda que os protocolos, na medida em que correspondem a atos jurídicos de entidades públicas que definem regras vinculativas para as partes quanto a tratamentos de dados pessoais, têm natureza de regulamento administrativo. Nessa medida, nos termos do n.° 4 do artigo 36.° e da alínea c) do n.º 1 do artigo 57.° do RGPD, têm de ser sujeitos à apreciação prévia da CNPD. Para que não restem dúvidas quanto a tal dever, a CNPD sugere a sua explicitação no texto dos artigos.
+2. Por sua vez, constata-se que a Proposta de Lei, nas alterações introduzidas ao regime jurídico do RCBE, remete para Portaria dos Membros do Governo responsáveis pelas áreas das finanças e da justiça a definição e regulação de alguns de tratamentos de dados pessoais.
+Assim, o artigo 17.° do Regime jurídico do RCBE remete para Portaria dos Membros do
+Governo a notificação da rejeição da declaração bem como as notificações subsequentes,
+AV. D. CARLOS I. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+Processo PAR/2020/38 | 5v.
+bem como a comunicação da conclusão do procedimento ao declarante, à entidade e às pessoas indicadas como beneficiários efetivos (cfr. artigo 18.°).
+O mesmo ocorre no n.° 3 do Artigo 19.°, agora alterado, que prevê que a disponibilização da informação referida no n.º 1, bem como os critérios de pesquisa da informação do RCBE, são regulados em Portaria dos Membros do Governo responsáveis pelas áreas das finanças e da justiça. Igual disposição consta do n.º 7 do Artigo 22.° que consagra que a tramitação do procedimento previsto é efetuada por via eletrónica, nos termos a definir por Portaria dos
+Membros do Governo responsáveis pelas áreas das finanças e da justiça, bem como o n.º 4 do Artigo 26.° que remete para Portaria a definição dos termos em que são efetuadas as comunicações, notificações e declarações de retificação previstas nos números anteriores.
+A CNPD recorda uma vez mais a necessidade de que estes instrumentos jurídicos, Portarias dos Membros de Governo responsáveis pela área das finanças e da Justiça, sejam sujeitos à apreciação da CNPD nos termos do disposto na alínea c) do n.º 1 do artigo 57.° e no n.º 4 do artigo 36.° do RGPD.
+Note-se que a Proposta vem agora remeter a definição da forma dos atos e os procedimentos tendentes ao ingresso da informação no RCBE, bem como a respetiva disponibilização, para despacho do Presidente do Conselho Diretivo do IRN, IP. Aqui reafirma-se a pronúncia feita no Parecer n.º 29/2017, de 9 de maio, sobre a Proposta de Lei 71/XI||/2ªGOV,2 sobre o mesmo inciso, que aqui se reproduz: «A este propósito a CNPD recorda que o regime jurídico dos tratamentos de dados pessoais, que abrange as diferentes operações sobre dados pessoais, deve ser objeto de lei da Assembleia da República ou de decreto-lei autorizado, com consulta prévia da CNPD. Sempre que os diplomas legais que prevejam tratamentos de dados pessoais não esgotem a sua regulação e remetam a definição de aspetos do regime para outros instrumentos jurídicos, é imprescindível sujeitar tais instrumentos a controlo prévio da CNPD, sob pena de se defraudar, por esta via, o disposto na alínea a) do n.° 1 do artigo 6.° da Lei n.º 58/2019, de 8 de agosto e a função que esta entidade tem por determinação do Direito nacional e do Direito europeu.
+2 Disponível em https://www.cnpd.pt/home/decisoes/Par/40_29_2017.pdf
+
+Processo PAR/2020/38 | 6
+COMISSAO NACIONAL
+DE PROTEÇÃO DE DADOS
+Em síntese, a CNPD recomenda a densificação no artigo 18.° do regime de comunicação e inscrição de dados pessoais no RCBE; não sendo essa a opção legislativa, que a matéria seja objeto de regulamentação governamental, sujeita a parecer prévio da CNPD.»
+3. Assinale-se, como positivo, o alargamento dos fundamentos de limitação total ou parcial no acesso à informação sobre o beneficiário ativo, com a redação proposta agora para o n.° 1 do artigo 22.° do Regime jurídico, em conformidade com o estatuído na Diretiva que se transpõe.
+D - Alteração ao Decreto-Lei n.° 298/92, de 31 de dezembro
+Relativamente às alterações introduzidas pela Proposta de Lei ao Regime Geral das
+Instituições de Crédito e das Sociedades Financeiras, aprovado pelo Decreto-Lei n.° 298/92, de 31 de dezembro, alterado por último pelo Decreto-Lei n.° 144/2019, de 23 de janeiro, apenas a referente ao Artigo 81.°-A, merece destaque. Assim, o n.° 7 do Artigo 81.°-A dispõe que a informação contida na base de dados das contas é diretamente acedida de forma imediata e não filtrada pela Unidade de Informação Financeira (UIF) e pelo Departamento
+Central de Investigação e Ação Penal (DCIAP), prevendo que as medidas que se mostrem necessárias para assegurar a efetiva proteção da informação e dos dados pessoais tratados, nomeadamente as medidas de segurança de natureza física e lógica sejam definidas em
+Protocolo a celebrar com o Banco de Portugal.
+Reitera-se o que acima se afirmou quanto à necessidade de consulta prévia da CNPD sobre o texto do protocolo.
+Mas mais importante é aqui sublinhar que os responsáveis pelo acesso à base de dados das contas têm o dever de garantir o controlo dos acessos, nos termos impostos pela alinea e) do n.º 2 do artigo 31.° da Lei n.º 59/2019, de 8 de agosto?. Assim, na medida em que se prevê agora o acesso direto e sem restrições pela UIF e o DCIAP à base de dados das contas, importa garantir que esse acesso é efetivamente realizado para a finalidade de prevenção e combate aos crimes de branqueamento de capitais e financiamento de 3 Que aprova as regras relativas ao tratamento de dados pessoais para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, transpondo a Diretiva (UE)
+2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016.
+AV. D. CARLOS 1. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832
+
+Processo PAR/2020/38 | 6v. p terrorismo, por ser esse o âmbito da respetiva previsão legal. Nestes termos, recomenda-se que seja inscrito no n.º 7 do artigo 81.°-A (e não apenas no protocolo a celebrar entre as autoridades públicas) o dever, do lado do responsável pelos acessos, de manter o registo de cada acesso, com a respetiva fundamentação.
+III. Conclusão
+Nos termos e com os fundamentos acima expostos, a CNPD recomenda:
+1 - A revisão da alínea d) do n.º 2 do Artigo 25.° da Lei n.° 83/2017, de 18 de agosto constante no Artigo 5.° da Proposta, por forma a refletir efetivamente o disposto no n.° 2 do artigo 4.°-
+A da Lei n.° 37/2014, de 26 de junho, na sua redação atual ou, se essa for a ratio subjacente àquela norma, a correção da remissão para os n.°s 1 e 4 do mesmo artigo; em alternativa, a sua eliminação;
+2 - A reformulação do n.º 4 do Artigo 25.° da Lei n.º 83/2017, de 18 de agosto constante no artigo 5.° da Proposta, admitindo formas alternativas à comprovação dos documentos de identificação em substituição da reprodução do original do bilhete de identidade, em suporte fisico ou eletrónico, e especificamente quanto à subalínea iii) da alínea c) do n.° 4 do artigo 25.°, a sua revisão de modo a refletir efetivamente o disposto no n.° 2 do artigo 4.°-
+A da Lei n.° 37/2014, de 26 de junho, na sua redação atual ou, se essa for a ratio subjacente àquela norma, a correção da remissão para os n.°s 1 e 4 do mesmo artigo; em alternativa, a sua eliminação;
+3 - A indicação no n.º 4 do Artigo 135.°, relativo ao dever de cooperação entre autoridades de supervisão do setor financeiro da necessidade de os acordos de colaboração que legitimem os fluxos internacionais de dados pessoais que ocorram nesse âmbito respeitarem o disposto no artigo 46.º do RGPD;
+4 - Nas diferentes normas do Regime jurídico do RCBE que impõem ou admitem genericamente tratamentos que envolvem acesso a dados pessoais entre bases de dados da Administração Pública não especificadas, remetendo a definição dos mesmos para protocolo entre o IRN, I.P. e as entidades por elas responsáveis (também não especificadas), a imprescindível identificação das bases de dados e, desejavelmente, as categorias de dados pessoais, sob pena de essas normas, por não conterem os elementos mínimos
+
+Processo PAR/2020/38 | 7
+COMISSÃO NACIONAL
+DE PROTEÇÃO DE DADOS identificadores do tratamento de dados pessoais, não servirem como fundamento de licitude dos tratamentos nos termos das c) ou e) do n.º 1 do artigo 6.° do RGPD;
+5 - A explicitação no texto dos artigos que preveem a celebração de Protocolos entre o IRN,
+I.P., e demais entidades da necessidade de os mesmos estarem sujeitos à apreciação prévia da CNPD.
+6 - No que diz respeito às alterações introduzidas no Regime Geral das Instituições de
+Crédito e das Sociedades Financeiras, a previsão no n.º 7 do artigo 81.°-A do dever, do lado dos responsáveis pelos acessos, de manter o registo de cada acesso, com a respetiva fundamentação, a fim de permitir o seu controlo nos termos legalmente exigidos.
+Aprovado na reunião de 3 de junho de 2020
+Filipa Calvão (Presidente)
+AV. D. CARLOS 1. 134 - 1° | 1200-651 LISBOA | WWW.CNPD.PT | TEL: +351 213 928 400 | FAX: +351 213 976 832

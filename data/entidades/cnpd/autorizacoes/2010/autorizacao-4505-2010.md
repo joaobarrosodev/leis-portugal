@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CLÍNICA DRA. HELENA SIMÕES UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,46 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:49:41Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4505/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/25839](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/25839).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 6316/09
+AUTORIZAÇÃO N.º
+/2010
+A sociedade comercial por quotas denominada CLINICA DRA. HELENA
+SIMÕES UNIPESSOAL, Lda., com o NIPC 501922903, veio notificar o tratamento relativo à gestão de processo clínico de utentes dos seus consultórios, organizado segundo duas vertentes distintas: recolha de dados identificativos do utente facultados voluntariamente pelo próprio para efeitos de registo de contacto; e recolha e tratamento de dados clínicos do Utente.
+1. Os dados contidos em cada registo são dados de identificação, dados de contacto e dados clínicos, referentes ao histórico da saúde.
+2. De acordo com a informação constante do quadro 11 afigura-se que foram adoptadas cautelas em matéria de medidas de segurança. O acesso à aplicação depende da inserção de um «nome de utilizador» e de uma «password». Existe ainda um acesso restrito de pessoas. Os dados de saúde deverão estar separados logicamente dos dados de identificação, nos termos do artigo 15°, n° 3, da Lei n° 67/98.
+3. Admite-se que os dados médicos sejam de acesso a funcionários administrativos ou de enfermagem desde que esse processamento seja realizado sob ordem e supervisão do médico encarregado de prestar os cuidados de saúde ao doente, titular dos dados.
+Considera-se legitimo o tratamento nos termos do artigo 7.°, n.º 4, da Lei 67/98, de 26 de Outubro.
+Em face do exposto, autoriza-se o tratamento de dados por parte do
+Requerente (cf. artigo 27.° e 28.º da Lei 67/98) consignando-se, nos termos do artigo 30.°, o seguinte:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 1. Responsável: CLÍNICA DRA. HELENA SIMOES UNIPESSOAL, Lda.
+2. Categorias de dados pessoais tratados: identificação do doente, dados clínicos.
+3. Finalidade: gestão de processo de utentes da clinica.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação verbal ou escrita do utente junto do responsável.
+6. Eventuais interconexões : Não há.
+7. Transferências de dados para países terceiros : Não há.
+8. Conservação: Os dados podem ser conservados nos termos da Portaria n° 247/2000, de 8 de Maio.
+29
+Lisboa, Novembro de 2010.
+Ana Roque (relatora), Carlos Campos Lobo, Luís Barroso, Helena Delgado
+António, Luís Paiva de Andrade, Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

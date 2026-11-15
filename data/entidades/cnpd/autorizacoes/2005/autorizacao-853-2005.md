@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: APEME - ÀREA DE PLEANEAMENTO E ESTUDOS DE MERCADO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 853/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6529](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6529).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 11651/535/04 853
+Autorização n.° /05
+A Apeme - Área de Planeamento e Estudos de Mercado, Lda, vem notificar à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de realizar pesquisas de mercado e pesquisas de opinião.
+Para a realização destes estudos é recolhida informação pessoal de identificação, caracterização sócio-demográfica, caracterização sócio-económica, caracterização de estilos de vida, caracterização de consumos, disponibilização em participar em pesquisas on-line (os dados estão descritos detalhadamente no Anexo 1).
+Como aspecto fundamental deste tratamento sublinhe-se que não existe comunicação de dados a entidades externas à Apeme. Assim, não podem ser utilizadas as informações recolhidas para estudos de mercado com uma finalidade de marketing.
+Do anexo 2 - relativo à recolha de dados extrai-se que os dados recolhidos são para uso exclusivo da Apeme, sendo, igualmente o consentimento recolhido para tratamento da informação pela entidade requerente.
+A informação tratada é adequada, pertinente, necessária e não excessiva em relação à finalidade determinante do tratamento (artigo 5.°, n.º 1, alínea c) da Lei 67/98).
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.° e 30.° da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados relativos aos autos de contra-ordenação, nos seguintes termos:
+Responsável: Apeme - Área de Planeamento e Estudos de Mercado, Lda,
+Categorias de dados pessoais tratados: Informação pessoal de identificação, caracterização sócio-demográfica, caracterização sócio-económica, caracterização de
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS estilos de vida, caracterização de consumos, disponibilização em participar em pesquisas on-line (os dados estão descritos detalhadamente no Anexo 1).
+Finalidade: Realizar pesquisas de mercado e pesquisas de opinião.
+Interconexões: não se verificam;
+Não há fluxos transfronteiras.
+Exercício do direito de acesso e eventual correcção de informação pessoal:
+Directamente junto do responsável.
+Prazo de conservação: A CNPD não autoriza a conservação dos dados por um período ilimitado. Os dados deevm ser conservados por um período máximo de dez anos.
+Lisboaf7 de Ou détride 2005
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Areden
+Amadeu Guerra
+Ana Luísa Geraldes
+Eduardo Campos
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

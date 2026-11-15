@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: LAR IMACULADA CONCEIÇÃO LDª'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 7 de 7 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,128 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:28:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4207/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19056](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/19056).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. n.° 1691/07
+AUTORIZAÇÃON.° 4207 12009
+I.
+O pedido
+Lar Imaculada Conceição, Lda. veio notificar o tratamento de videovigilância a realizar nas suas instalações sitas na Rua Dr. Manuel Monterroso, em Leça da
+Palmeira.
+A entidade declara que não existe comissão de trabalhadores.
+Pretende-se colocar 12 câmaras que abrangem as seguintes áreas: quartos dos idosos, sala de estar, cozinha e sala de arrumos.
+Na sequência desse pedido, a Comissão Nacional de Protecção de Dados (CNPD)
+elaborou o projecto de autorização de 29 de Setembro de 2008, no sentido de não autorizar a recolha e visionamento de imagens nos quartos do lar, na sala de estar e na cozinha, tendo sido a entidade requerente notificada do referido projecto, através do ofício n.° 8580, de 03 de Outubro de 2008, nos termos e para os efeitos do disposto no artigo 100.° do Código do Procedimento Administrativo.
+Em sede de resposta à audiência dos interessados, a entidade requerente veio aos autos solicitar a revisão do referido projecto sustentando que "os utentes e os familiares estão informados da colocação do sistema de vigilância nos respectivos quartos, pelo qual concordam plenamente". Nada alegou a entidade requerente acerca da câmara que se pretendia instalar na cozinha.
+IL.
+Análise
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Através da deliberação n.° 61/2004, de 19 de Abril('), a CNPD estabeleceu os principios sobre tratamento de dados de videovigilância.
+Na apreciação das condições de tratamento de videovigilância pela entidade responsável importa dar especial atenção aos aspectos relativos à pertinência e ao princípio da proporcionalidade (artigo 5.° n°. 1 al. c) da Lei 67/98, de 26 de
+Outubro), condições de legitimidade (artigos 7.° e 8.º n.º 2 da Lei 67/98), bem como às formas de acesso aos dados recolhidos pelos sistemas de videovigilância.
+Efectivamente, justifica-se que sejam utilizados estes meios de prevenção nas instalações do Lar no âmbito da protecção de pessoas e bens, na medida em que se trata de local de movimento de pessoas, onde pode haver furto de medicamentos e equipamentos valiosos e/ou perigosos.
+Relativamente ao princípio da proporcionalidade justifica-se a utilização de sistemas de videovigilância neste sector de actividade na medida em que os direitos dos titulares não se devem sobrepor à execução de uma finalidade legítima que deve ser reconhecida ao responsável. No entanto, o tratamento de imagens deve obedecer a certas condições específicas.
+Verifica-se que a utilização do sistema agora notificado se destina a assegurar a «protecção de pessoas e bens».
+Em face da finalidade, afigura-se-nos que o tratamento se apresenta como adequado, pertinente e não excessivo em relação à finalidade (artigo 5.° n.º 1 al. c)
+da Lei 67/98).
+Pretende-se com este tratamento assegurar a prevenção e dissuasão da prática de actos ilícitos - tarefa que é desempenhada na prossecução do interesse público, em complementaridade e subsidiariedade face às competências das forças e serviços de segurança - podendo a informação recolhida vir a ser utilizada como prova da infracção.
+Tel: 213 928 400 geral@cnpd.pt
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Não obstante, considerou a CNPD que se apresentava como excessiva - por violar a «liberdade de movimentos» e a privacidade dos utentes - a colocação de câmaras nos quartos do lar e na sala de estar.
+Etectivamente, em termos de proporcionalidade, entende-se que a recolha de tais imagens naqueles locais é susceptível de invadir a reserva da vida privada na medida em que permite ao responsável uma intromissão desproporcionada nos movimentos dos utentes no interior do lar.
+A dissuasão que se pretende fazer através do tratamento de imagens não deve sobrepor-se ao direito à privacidade dos titulares dos dados (cf. artigo 8.° n.º 2 da
+Lei 67/98). Em face do exposto deviam as referidas câmaras ser retiradas.
+Mais se acresce que, as imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do Trabalho (*), pelo que, a câmara colocada na cozinha devia ser retirada.
+Face ao exposto, a entidade requerente veio alegar, em sintese, o seguinte:
+1. Os utentes e os familiares estão informados da colocação do sistema de vigilância nos respectivos quartos, pelo qual concordam plenamente, caso contrário seria desactivado;
+2. O sistema possui um monitor que emite imagens dos quartos, em local estratégico e de acesso restrito às funcionárias da instituição, monitor esse que só é ligado à noite, quando os idosos se dirigem aos quartos para dormirem;
+3. Apesar de a funcionária fazer ronda pelos quartos, com este sistema, a vigilância é quase constante o que tranquiliza e ajuda a evitar situações de alguma gravidade, que ao serem resolvidas de imediato, não têm consequências mais gravosas;
+(2) No mesmo sentido ver Acórdão do STJ Processo n.° 3139/05 disponível in http://www.cnpd.pt/bin/ legis/juris/decisões/sindicato.pdf
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 3 duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS 4. A videovigilância é fundamental para a qualidade física e intelectual dos idosos e das funcionárias.
+Acontece que, a CNPD continua a entender que a recolha e o visionamento de imagens no interior dos quartos e na sala de estar, como excessiva e desproporcionada, por permitir ao responsável pelo tratamento uma intromissão desproporcionada na liberdade de movimentos dos utentes.
+O princípio da proporcionalidade, impondo que os dados pessoais sejam adequados, pertinentes e não excessivos relativamente às finalidades para que são recolhidos e posteriormente tratados, visa consagrar o mesmo princípio que decorre do artigo 18.° da Constituição da República Portuguesa (CRP).
+Estabelece-se, no supramencionado artigo 18.°, que os preceitos constitucionais respeitantes aos direitos, liberdades e garantias são directamente aplicáveis, vinculando as entidades públicas e privadas, só podendo a lei restringi-los nos casos expressamente previstos na Constituição e devendo as restrições limitar-se ao necessário para salvaguardar outros direitos ou interesses constitucionalmente protegidos.
+Tal princípio constitucional da proporcionalidade (ou da proibição do excesso), concretiza-se em três sub-princípios: o princípio da adequação (ou idoneidade), impondo que as medidas restritivas legalmente previstas se revelem como meio adequado para a prossecução dos fins visados por lei; o princípio da necessidade, por força do qual as medidas restritivas se deverão revelar indispensáveis, não podendo os fins legalmente visados ser obtidos por outros meios menos onerosos para os direitos, liberdades e garantias sacrificados e o princípio da proporcionalidade em sentido estrito, que visa impedir a adopção de medidas excessivas ou desproporcionadas para alcançar os fins pretendidos, devendo pesar-lhe as desvantagens dos meios em relação às vantagens do fim.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 4
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Neste sentido, a CNPD, na sua Deliberação n.º 61/2004, considerou que "será admissível aceitar que - quando haja razões justificativas da utilização destes meios - a gravação de imagens se apresente, em primeiro lugar, como medida preventiva ou dissuasora tendente à protecção de pessoas e bens e, ao mesmo tempo, como meio idóneo para captar a prática de factos passíveis de serem considerados como ilícitos penais e, nos termos da lei processual penal, servir de meio de prova. (...) Por isso, em cada caso concreto, e de acordo com os princípios acabados de enunciar, a CNPD deverá limitar ou condicionar a utilização de sistemas de videovigilância quando a utilização destes meios se apresentem como excessivos e desproporcionados aos fins pretendidos e tenham consequências gravosas para os cidadãos visados".
+"O principio da intervenção minima obriga, necessariamente, que, em cada caso concreto, se pondere entre a finalidade pretendida e a necessária violação de Direitos Fundamentais, aqui concretamente o Direito à Privacidade e à
+Imagem"⅔
+Note-se que a videovigilância é um meio de utilização residual, devendo a finalidade pretendida pela Instituição, com a instalação das câmaras nos locais supra mencionados, ser alcançada sempre que possível, por auxiliares profissionalmente competentes para o efeito.
+Pelo exposto, e atendendo a que os Lares e Instituições de Solidariedade e Apoio
+Social como a requerente, são locais onde os utentes devem poder permanecer com o mínimo resguardo, sem estarem a ser constantemente vigiados no seu comportamento e nos seus gestos, a CNPD entende, que as câmaras devem ser retiradas, conforme exposto no projecto de autorização n.° 247/08 de 29 de
+Setembro. Não releva nesta sede o consentimento dos utentes e familiares.
+> In "Principais orientações da C1200-821 LISBOA NPD, 2004
+Rua de São Bento, 148-3
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 5 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Não havendo qualquer justificação por parte da entidade requerente para a colocação de uma câmara na cozinha, a mesma deve ser retirada.
+m.
+Conclusões
+Considera-se, por isso, legítimo o tratamento - autorizando-se, parcialmente, a recolha de dados (artigo 8.° n.º 2 e 28 n.° 1 al. a) da Lei 67/98) - devendo ser observadas, ainda, as seguintes condições:
+1. Responsável pelo tratamento - Lar Imaculada Conceição, Lda.
+2. Finalidade - Protecção de pessoas e bens.
+3. Destinatários dos dados - Os dados não podem ser transmitidos a terceiros e só podem ser utilizados nos termos da lei processual penal. Uma vez detectada a prática de infracção penal, a entidade responsável pelo tratamento deve - com a respectiva participação - enviar ao órgão de polícia criminal ou à autoridade judiciária competente as imagens recolhidas.
+4. Visualização de imagens pelo responsável - Admite-se, excepcionalmente, a visualização das imagens quando - não havendo qualquer infracção penal - os titulares dos dados tenham solicitado o «direito de acesso», nos termos do artigo 11." da Lei 67/98.
+5. Direito de Informação - Deverão ser afixados, em locais bem visíveis, avisos que informem as pessoas sobre a recolha de imagem com os seguintes dizeres «Para sua protecção, este lugar encontra-se sob vigilância de um circuito fechado de televisão, procedendo-se à gravação de imagem» (Art."13." n."3 do Decreto-Lei n.°35/2004, de 21 de Fevereiro).
+6. Direito de acesso - Podendo o exercício do direito de acesso por parte de determinado interessado envolver o acesso a dados de terceiros, o responsável do tratamento deve tomar todas as medidas técnicas necessárias para ocultar/anonimizar as imagens de terceiros. Quando estiverem em causa imagens que servem de prova em processo criminal -imagens necessariamente sujeitas às regras do segredo de justiça
+Rua de São Bento, 148-3° • 1200-821 LISBOA 21 393 00 39 é
+Tel: 213 928 400
+Fax: 213976832
+LINHA PRIVACIDADE geral@cnpd.pt www.cnpd.pt
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS aplicável ao exercício do direito de acesso o disposto no artigo 11.° n.º 2 da
+Lei 67/98 (prevenção ou investigação criminal) razão pela qual os pedidos de acesso devem ser encaminhados para a CNPD.
+7. Prazo de conservação - Os dados recolhidos são conservados pelo prazo de 30 dias.
+8. A recolha de imagens deve confinar-se ao perímetro do Centro e não pode envolver a recolha de imagens nas zonas limitrofes ou na via pública.
+9. As imagens não podem servir para controlo do desempenho profissional dos trabalhadores nem as câmaras estar dirigidas sobre estes durante a actividade laboral segundo o artigo 20.° do Código do
+Trabalho, pelo que, a câmara colocada na cozinha deve ser retirada.
+10. A CNPD entende não autorizar a recolha e visionamento de imagens nos quartos e na sala de estar, pois essa captação de imagens mostra-se desnecessária e excessiva para os direitos dos titulares, face à finalidade prosseguida pelo presente tratamento. Devem as câmaras ser retiradas.
+Lisboa, 28 SetembRo 2009
+Ana Roque, Carlos Lobo, Vasco Almeida, Helena Delgado António, Luís
+Barroso, Luís Paiva de Andrade
+Tem Salves:
+Luís Lingnau da Silveira (Presidente), que relatou.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 7 duvidas@cnpd.pt

@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UNIVERSIDADE NOVA DE LISBOA - FACULDADE DE CIÊNCIAS MÉDICAS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,52 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T10:01:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 143/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21102](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21102).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 10115/2009
+AUTORIZAÇÃO N.° 143 12010
+A Faculdade de Ciências Médicas da Universidade Nova de Lisboa notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo epidemiológico nacional de morbilidade psiquiátrica: prevalência, factores de risco, carga social e económica e utilização de serviços.
+Serão incluídos no estudo os indivíduos maiores, residentes nas áreas domiciliárias em
+Portugal, seleccionados através da Tabela de Kish. Primeiramente, será confirmada a participação por telefone e marcada a data da entrevista e, posteriormente, será realizada a entrevista. O investigador no estudo solicitará consentimento informado.
+Os dados serão recolhidos num caderno de recolha de dados.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do investigador.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.º 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade será o consentimento expresso do titular dos dados.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea a) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Responsável pelo tratamento: Faculdade de Ciências Médicas da Universidade Nova de
+Lisboa
+Finalidade: estudo epidemiológico nacional de morbilidade psiquiátrica: componente genética.
+Categoria de Dados pessoais tratados: código de doente, dados demográficos (data de nascimento, país onde nasceu, sexo, peso, altura e estado civil), grau de parentesco do entrevistado com as restantes pessoas do agregado familiar, profissão, nacionalidade, antecedentes familiares, acontecimentos traumáticos, consumo de álcool e outras drogas, hábitos tabágicos, saúde física, saúde mental e resposta ao questionário.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do investigador.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 1 | de Janeiro de 2010
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António, Carlos Campos
+Lobo (Relator), Luis Barroso eque
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE 2
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

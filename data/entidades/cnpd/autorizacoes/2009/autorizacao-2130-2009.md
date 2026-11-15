@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: FERNANDA LEOPOLDINA PARENTE VIANA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,75 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:03:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2130/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16186](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16186).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc° 117/2005 2130
+AUTORIZAÇÃO N°
+/09 1) Pedido
+Fernanda Leopoldina Parente Viana notifica um tratamento de dados consubstanciado num estudo sobre a avaliação do desempenho em leitura no final do 1° ano de escolaridade e comparação com os dados obtidos sobre a mesma população há 10 anos.
+Ao dados a tratar são: nome, data de nascimento, dados de saúde e de desenvolvimento, hábitos de leitura.
+Como fundamento de legitimidade, aponta-se o consentimento dos titulares (através dos seus representantes legais).
+Não há comunicação de dados, nem interconexão, nem fluxos transfronteiras.
+Apontam-se certos inter-relacionamentos de dados, mas ocorrem dentro do tratamento em causa.
+Como medidas de segurança, apontam-se o acesso restrito de pessoas e a utilização de palavra-chave de acesso a dados.
+Como tempo de conservação dos dados, refere-se "cerca de dois anos".
+E como forma de exercício dos direitos de acesso e rectificação menciona-se o contacto pessoal com a coordenadora do projecto.
+Instada a esclarecer o destino dos suportes de papel dos questionários, a responsável esclareceu que eles seriam destruídos, após utilização para o estudo.
+E asseverou ir seguir a indicação que lhe foi dada, no sentido de haver um consentimento específico para o tratamento dos dados (além do relativo à resposta ao questionário), dado por cada um dos pais, visto serem tratados dados relativos a cada um deles.
+2) Apreciação
+As finalidades prosseguidas são determinadas, explícitas e legítimas (Lei n° 67/98, de 26 de Outubro, artigo 5°, n° 1, al b).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Os dados tratados apresentam-se adequados, pertinentes e não excessivos, em relação às finalidades tidas em vista (ibidem, al c).
+O fundamento de legitimidade é o consentimento expresso, de cada um dos pais das crianças visto serem tratados não só dados destas, mas também daquelas.
+Como prazo de conservação de dados, fixa-se o de um ano após a conclusão do estudo, período ajustado para poderem relevar a propósito da discussão ou apreciação do trabalho.
+3) Autorização
+Face ao exposto, e nos termos dos artigos 7°, n° 2, 28°, n° 1, al a) e 29° da Lei n° 67/98, a CNPD emite a seguinte autorizaçao:
+a)
+Responsável
+Prof. Assoc. Fernanda Leopoldina Parente Viana.
+b) Finalidade
+Elaboração de estudo sobre a avaliação do desempenho em leitura no final do 1° ano de escolaridade e comparação com os dados obtidos sobre a mesma população 10 anos antes.
+c) Dados pessoais tratados
+Nome; data de nascimento; dados de saúde e de desenvolvimento;
+hábitos de leitura.
+d) Comunicação de dados
+Não há.
+e) Interconexões
+Não há.
+f) Fluxos transfronteiras
+Não há.
+g) Modo de exercício dos direitos de acesso e rectificação
+Por contacto directo com a coordenadora do projecto.
+Lisboa, 25de Maio de 2009
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Ana Roque, Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade sens
+Sores
+Luis Lingnau da Silveira (Presidente/relator)
+amm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

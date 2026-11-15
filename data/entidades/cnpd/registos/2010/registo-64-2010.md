@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CIMPOMÓVEL GESTÃO E PARTICIPAÇÃO'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,32 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:19Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 64/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22323](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/22323).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 4355/2009
+REGISTO N.° 64 12010
+A Cimpomóvel - Gestão e Participações, S.A. notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão de acções de formação profissional.
+Os dados são recolhidos directamente por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade indicado para o tratamento é, nos termos da alínea b)
+do artigo 6° da LPD, o cumprimento de obrigações legais.
+Assim, regista-se, de acordo com as disposições conjugadas dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Cimpomóvel - Gestão e Participações, S.A.
+Finalidade
+Gestão de acções de formação profissional.
+Categoria de dados pessoais tratados
+Curso, local de realização, data de início, duração, horário, nome, morada, código postal, localidade, naturalidade, nacionalidade, telefone, telemóvel, morada, data de nascimento, n° de BI, data de emissão e arquivo de identificação, NIF, e-mail, habilitações literárias, área de formação, situação profissional (trabalhador por conta de outrem, função actual, trabalhador independente, profissão, empresário em nome individual, actividade), empresa, n° de contribuinte, morada do local de trabalho, código postal, localidade, telefone e assinatura.
+Comunicação de dados
+Para a Câmara de Comércio e Indústria Luso-
+Alemã, que é responsável pela organização, supervisão das acções de formação e emissão de certificados dos formandos.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 21 393 00 39
+LINHA PRIVACIDADE

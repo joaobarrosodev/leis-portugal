@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 623/2004
-official_date: null
+official_date: '2004-06-04'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: BARCLAYS BANK, PLC'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:46:34Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 623/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8939](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/8939).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 815/2004
+AUTORIZAÇÃO N.°623 /2004
+O Barclays Bank, PLC vem notificar um tratamento relativo à gestão de clientes e, em particular, a avaliação mínima sobre a origem e proveniência do património/recursos que permita responder aos requisitos legais e à Instrução 48/96 do Banco de Portugal.
+Em relação ao branqueamento de capitais verifica-se que o tratamento deriva de obrigação legal e que as instituições financeiras estão obrigadas a fornecer informações e apresentar documentos respeitantes a bens, depósitos ou quaisquer outros valores pertencentes a indivíduos suspeitos ou arguidos da prática de crimes previstos nos artigos 22.° a 24.°, 26.° e 28.° do DL 15/93, de 22 de Janeiro (cf. art. 60.°).
+Está em causa o cumprimento de obrigações legais, por forma a assegurar o dever de colaboração" às autoridades de supervisão das entidades financeiras.
+Em relação aos restantes dados pessoais - necessários à gestão de clientes - o seu tratamento apresenta-se como legítimo na medida em que decorre da celebração de contrato (cf. artigo 6.° n.º 1 al. a) da Lei 67/98).
+O impresso de recolha de dados deve ser reformulado, a fim de assegurar, nos termos do artigo 10.º n.º 1 e 2 da Lei 67/98 o direito de informação dos titulares dos dados.
+A aplicação deve ser dotada de password (cf. ponto 11 do pedido de notificação) para impedir o acesso a pessoas não autorizadas, em particular quando está em causa a anotação de suspeitas sobre branqueamento de capitais.
+Caso a aplicação disponha de campo para observações, não deve este campo ser utilizado para inscrever dados pessoais que envolvam discriminação ou juízos de valor sobre os clientes.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Assim, autoriza-se a manutenção do ficheiro, nos termos comunicados consignando-se a seguinte informação nos termos do artigo 30.º da Lei 67/98:
+1. Responsável: Barclays Bank, PLC 2. Categorias de dados pessoais tratados: Os indicados no impresso de recolha de dados.
+3. Finalidade: gestão de clientes e, em particular, a avaliação mínima sobre a origem e proveniência do património/recursos que permita responder aos requisitos legais e à
+Instrução 48/96 do Banco de Portugal 4. Entidades a quem podem ser transmitidos: Nos termos legais.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita. O acesso aos dados sobre prevenção e investigação criminal será feita nos termos do artigo 11.° n.° 2 da Lei 67/98.
+6. Não há interconexões ou transferências de dados para países terceiros.
+Lisboa, 4 de Junho de 2004 eden
+Amadeu Guerra (relator)
+Alexandre Pinheiro
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Gabrie e
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

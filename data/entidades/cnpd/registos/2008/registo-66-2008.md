@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Tel-S - TELECOMUNICAÇÕES E SISTEMAS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,34 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 66/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1017](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1017).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 715/07
+Registo n.° 66/08
+A TelS- Telecomunicações e Sistemas Lda notificou um tratamento de dados pessoais com a finalidade de marketing.
+Declaram as seguintes categorias de dados pessoais: e-mail.
+Os dados são recolhidos directamente na Internet e indirectamente através da aquisição de bases de dados de endereços de e-mail.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O envio de correio electrónico para fins promocionais está sujeito ao disposto no n.° 1 do artigo 22° do Decreto - Lei n.° 7/2004, exigindo-se na referida norma o consentimento prévio do titular.
+O fundamento de legitimidade para o tratamento é, nos termos da alinea e)do artigo 6° da LPD, o interesse do responsável.
+Assim, com as limitações supra, regista-se, nos termos dos artigos 27° n.° 1 e 30° n.º 1 da Lei n.°67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - TelS- Telecomunicações e Sistemas Lda
+Categoria de dados pessoais tratados - e-mail.
+Finalidade - marketing
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável.
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Aos titulares dos dados deve, no momento da recolha, ser garantido o direito de informação previsto no artigo 10° da LPD, bem como o direito de se oporem à utilização dos seus dados para fins de marketing
+Quanto ao prazo máximo de conservação de dados, atenta a finalidade, fixa-se em 10 anos após o último contacto do titular.
+Lisboa, 7 de Fevereiro de 08
+A Secretária da CNPD
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

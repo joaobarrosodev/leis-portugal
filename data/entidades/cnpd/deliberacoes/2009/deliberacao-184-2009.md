@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 184/2009
-official_date: null
+official_date: '2009-02-17'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Instituto dos Registos e do Notariado, I.P. (IRN)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,44 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:52:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Deliberação da CNPD n.º 184/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14927](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/14927).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 1456/09
+Deliberação n.° 184 109
+I. Relatório
+Por ofício recebido nesta CNPD em 17 de Fevereiro de 2009, veio o Presidente do Instituto dos Registos e do Notariado solicitar à CNPD a apreciação do projecto de protocolo a celebrar entre aquele Instituto, o Instituto das
+Tecnologias de Informação na Justiça, IP, e o Município de Lisboa, tendo em vista o acesso à base de dados do registo comercial.
+Esta acção insere-se no Programa Simplex 2008, visando a desburocratização de alguns processos, nomeadamente no domínio da gestão do registo comercial, no âmbito do procedimento "Casa Pronta".
+Assim, a finalidade do protocolo em apreciação consiste em estabelecer mecanismos de cooperação com o Município de Lisboa. A transmissão de dados em causa destina-se à obtenção de informação necessária ao exercício do direito de preferência daquele Município, dispensando a apresentação de certidões das sociedades e de outras entidades sujeitas a registo comercial.
+Os dados comunicados pelo ITIJ, IP, sob indicação do IRN, IP, são os dados do registo comercial do concelho de Lisboa.
+O protocolo remete expressamente, na Cláusula Terceira, para as disposições legais vigentes em matéria de protecção de dados pessoais constantes da Lei n° 67/98, de 26 de Outubro, salientando os seguintes deveres para o Município de Lisboa:
+a) Respeitar integralmente a finalidade para que foi autorizada a transmissão dos dados;
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS b) Não utilizar a informação para fim diferente do permitido;
+c) Não transmitir a informação a terceiros.
+Todos os funcionários que tenham acesso à informação transmitida ficam sujeitos a sigilo profissional.
+O protocolo é celebrado pelo prazo de um ano, tacitamente prorrogável por iguais períodos de tempo. Se for verificado o incumprimento de alguma das condições fixadas no protocolo, a transmissão é suspensa por despacho do
+Presidente do IRN, IP.
+Em face do exposto, delibera a CNPD considerar o protocolo em apreço conforme com o disposto na Lei n.º 67/98, de 26 de Outubro, em especial quanto ao disposto nos seus artigos 5° e 6°, alínea d).
+Proceda-se à notificação da entidade interessada.
+Lisboa, 9de Março de 2009.
+Ana Roque (relatora), Helena Delgado António, Luís Barroso, Carlos Lobo,
+Vasco Almeida, Luís Paiva de Andrade
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 9703/2014
-official_date: null
+official_date: '2014-10-21'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CONSTANTSMILE UNIPESSOAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,86 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:59:51Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9703/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/70055](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/70055).
+Proc. N.9: 22564/2014 1 f
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N. 9703/ 2014
+I. Do Pedido
+CONSTANSMILE UNIPESSOAL, LDA, notificou à Comissão Nacional de Protecção de
+Dados (CNPD) um tratamento de dados pessoais decorrente do registo da informação no processo clínico eletrónico de toda a informação relacionada com um episódio clínico e o acompanhamento das diferentes ações em todos os sectores e etapas de atendimento do utente, nas quais se incluem:
+a) Registo clínico;
+b) Prescrição medicamentosa através de receita eletrónica;
+c) Gestão de consultas;
+d) Faturação.
+Foram prestados esclarecimentos pela requerente tidos como necessárias.
+Os dados pessoais registados são: nome, morada, data de nascimento, dados de identificação (cartão cidadão, segurança social, contribuinte, sns) dados de seguros de saúde, telefones, filiação, habilitações literárias, dados de saúde;
+Quanto aos dados automatizados, o sistema deve garantir uma separação lógica entre os dados referentes à saúde e os restantes dados pessoais, de natureza administrativa (cf. n.° 3 do artigo15.° da Lei n.° 67/98, 26 de outubro - Lei de Proteção de Dados - LPD). Nesse sentido, o sistema informatizado deve estar estruturado, de modo a permitir o acesso à informação de acordo com os diferentes perfis de utilizador, com níveis de acesso e privilégios de manuseamento da informação distintos. Deverão ser atribuídas palavras-passe que disciplinem as autorizações de acesso.
+No quadro da prescrição eletrónica há comunicação de dados para a ACSS, no âmbito do Sistema de Conferência de Faturas de Medicamentos. Há ainda comunicação de dados a subsistemas de saúde.
+Não se verificam interconexões nem fluxos internacionais de dados para países terceiros.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.9: 12564/2014 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+II. Apreciação Jurídica
+Os dados pessoais recolhidos são pertinentes, necessários e não excessivos em relação à finalidade do tratamento (cf. alínea c) do n.º 1 do artigo 5.° da LPD).
+Por outro lado, a prescrição eletrónica foi objeto de regulamentação, pelo que ha dados de registo obrigatório que não foram declarados pelo responsável e que são essenciais ao sistema de prescrição eletrónico.
+Assim, para além dos dados declarados importa que se adite à presente autorização os seguintes dados: dados sobre os medicamentos prescritos (n.º de registo, quantidade, tipo de medicamento, produtos abrangidos pelo protocolo da Diabetes, descrição do manipulado, autorização para fornecimento de genérico), código do local de prescrição e dados da receita - número da receita, data da prescrição, tipo de receita - renovável/ não renovável e regime especial de comparticipação.
+O tratamento de dados de saúde é realizado para fins de i medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde» (cf. n.º 4 do artigo 7.° da LPD). Ao mesmo tempo, e tal como resulta do mesmo preceito, o tratamento desses dados é efetuado «por um profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional.
+O acesso à informação para avaliação do funcionamento da consulta, quer na vertente clínica, quer na vertente financeira deve ser efetuado de forma agregada, sem acesso a dados de identificação do doente.
+A transmissão de dados à ACSS para integração no Sistema de Conferência de
+Faturas de Medicamento já foi autorizada pela CNPD, designadamente nas
+Autorizações n.º 36/99 e 38/2001, apenas se alterando agora o suporte da comunicação.
+A identificação dos utilizadores faz-se através de um nome de utilizador e password.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.º: 12564/2014 3
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Quanto à segurança da informação, deve o responsável pelo tratamento adotar regras de procedimento interno, de forma a analisar periodicamente os registos de acesso (logs), para garantir que os acessos à informação se efetuam de acordo com os princípios da necessidade e pertinência. Os logs e os relatórios de análise devem ser conservados durante o período máximo de conservação da informação, para efeitos de auditoria da CNPD no exercício das suas competências.
+III. Decisão
+Deste modo, a CNPD autoriza o tratamento de dados - cf. n.º 2 e n.º4 do artigo 7.°, alínea a) do n.º 1 do artigo 28.°, alínea b) do n.º 1 do artigo 23.° e artigo 30.° da LPD -com as condições acima referidas.
+Termos do tratamento:
+1. Responsável: CONSTANSMILE UNIPESSOAL, LDA;
+2. Categorias de dados pessoais tratados: nome, morada, localidade, data de nascimento, sexo, dados de identificação (cartão cidadão, segurança social, contribuinte, sns) dados de seguros de saúde, telefones, filiação, habilitações literárias, dados de saúde; e ainda dados sobre o medicamento (n.º de registo, quantidade, tipo de medicamento, produtos abrangidos pelo protocolo da Diabetes, descrição do manipulado, autorização para fornecimento de genérico); Dados do médico prescritor (n.° de prescritor atribuído pela Ordem dos Médicos); Local de prescrição e dados sobre a receita (n.°, data, tipo de receita, regime especial de comparticipação).
+3. Finalidade: Gestão do processo clínico e prescrição medicamentosa eletrónica.
+4. Entidades a quem podem ser transmitidos:
+- ACSS, no âmbito do Sistema de Conferência de Faturas de Medicamentos, sem transmissão de dados pessoais dos utentes;
+- Subsistemas de saúde, no âmbito da faturação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Proc. N.°: 12564/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 5. Forma de exercício do direito de acesso e retificação: de forma presencial. A informação de saúde é revelada por «intermediação médica» (cf. n.° 5 do artigo 11.° da LPD).
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+8. Tempo de conservação:
+a) Dados de saúde - Nos termos do anexo à Portaria n.º 247/2000, de 8 de maio;
+b) Dados de faturação - 10 anos.
+Esta Autorização é emitida no pressuposto de que o software em questão foi certificado pela ACSS.
+Deve ser dado conhecimento da presente autorização a todos os intervenientes no circuito da informação, designadamente aos utilizadores do sistema.
+Lisboa, 21 de outubro de 2014
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

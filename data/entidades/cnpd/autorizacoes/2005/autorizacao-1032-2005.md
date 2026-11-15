@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 1032/2005
-official_date: null
+official_date: '2005-12-19'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CAJA DE AHORROS DE GALICIA, SUCURSAL'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,40 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:16:15Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1032/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6861](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6861).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. 423/2000
+AUTORIZAÇÃO N.° 10,32
+/2005
+A CAJA DE AHORROS ' DE GALICIA; Sucursal em Portugal vem informar que pretende celebrar com a empresa MM&JR Consultadoria de Gestão, Ld. um contrato de prestação de serviços destinado a assegurar a «gestão administrativa dos processos de empréstimos hipotecários da Caixa»
+O CAJA propõe-se comunicar à MM&JR os seguintes dados: nome do cliente, n.º de telefone, morada, BI, N.º Contribuinte, número de conta do cliente, montante e condições financeiras do empréstimo (taxa de juro, spread, prazo, finalidade), dados do imóvel a adquirir e identificação dos intervenientes nos contratos (vendedores, fiadores).
+A comunicação de dados é feita no contexto de um contrato de prestação de serviços que visa assegurar a «gestão administrativa dos processos de empréstimos hipotecários da Caixa».
+A Lei 67/98 permite a subcontratação e prevê o acesso a dados pessoais por parte do subcontratante, desde que este actue de acordo com as instruções do responsável (artigo 16.°).
+O subcontratante está obrigado a segredo profissional (cf. artigo 17.°) e só pode utilizar os dados para executar o contrato a que se vinculou, não podendo utilizá-los para finalidades diversas.
+O responsável deve informar os titulares dos dados sobre os «destinatários dos dados»
+(cf. artigo 10.° n.º 1 alínea c) da Lei 67/98). O titular consente a Caixa a revelar «a terceira entidade os dados única e exclusivamente necessários para efeitos de gestão administrativa do processo de crédito».
+Verifica-se que está preenchida a condição de legitimidade para comunicação de dados, por força do corpo do artigo 6.° (consentimento) e por força de disposição legal (o artigo 6.º alínea b) e 16.° da Lei 67/98, de 26 de Outubro, e os artigos 78.° e 79.° do DL 298/92).
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Em face do exposto, considera a CNPD que não há obstáculo legal à comunicação de dados, desde que observadas as condições estabelecidas na presente autorização.
+Considera-se alterada a Autorização n.° 68/2000, de 24 de Outubro.
+Lisboa, 19 de Dezembro de 2005 sheden u
+Amadeu Guerra (relator)
+Luís Barroso
+Alexandre Pinheiro
+сили
+Eduardo Campos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

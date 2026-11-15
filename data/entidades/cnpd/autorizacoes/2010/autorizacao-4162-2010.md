@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: UNITED INVESTMENTS PORTUGAL, E. T. S. A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 5 de 5 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,93 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:55:44Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4162/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/25299](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/25299).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+PROCESSO N.° 5534/2010
+AUTORIZÇÃO N.° 6/2010
+United Investments (Portugal) Empreendimentos Turísticos, SA notificou à
+Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de implementar o denominado StarGuest System.
+Pretende tratar os seguintes dados pessoais; Nome, Data do nascimento,
+Nome do cônjuge, Domicílio, Dados de viagem, Hábitos, Preferências de lazer e entretimento, Preferências de alojamento, Frequência de utilização dos serviços de hotelaria fornecidos pelo notificante e Gestão de reclamações dos hóspedes relativamente aos serviços prestados.
+APRECIAÇÃO
+O StarGuest System consiste num sistema de troca de informação entre os elementos da cadela Starwood Hotels and Resorts Worldwide, Inc, que é a entidade encarregue do processamento da informação, onde se inclui a notificante, proprietária do Hotel Sheraton Algarve. Tal sistema reúne a informação disponibilizada pelos clientes da referida rede de hotelaria no sentido de optimizar as suas estadias, enquanto hóspedes, pelo conhecimento prévio dos seus gostos e preferências que o pessoal responsável satisfará. Assim a notificante organiza um ficheiro recolhendo a informação directamente dos seus clientes e por comunicação de informação proveniente dos outros estabelecimentos pertencentes à cadeia.
+Os dados a recolher podem incluir dados sensíveis, nomeadamente dados de saúde, tabagismo por exemplo, donde a condição de legitimidade deste tratamento só poder ser o consentimento expresso dos titulares. Este consentimento tem que ser expresso através de uma vontade livre, específica e informada (cf. artigos 7.° - n.° 2 e 3.° - i) da Lei 67/98, de 26 de Outubro.
+Qualidade dos dados pessoais
+Os dados a tratar são recolhidos directamente dos clientes com o seu consentimento livre específico e informado, de forma lícita, respeitando o princípio da boa fé e são adequados, pertinentes e não excessivos para a finalidade anunciada que é determinada, explícita e legítima (cf. artigo 5.° -n.° 1 - a), b) e c) da Lei 67/98, de 26 de Outubro).
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Condição de legitimidade
+A condição de legitimidade do tratamento é o consentimento expresso (cf.
+artigo 7.° - n.° 2 da Lei 67/98, de 26 de Outubro). Igualmente os dados dos cônjuges só podem ser recolhidos mediante consentimento expresso deles.
+Finalidade
+A finalidade do tratamento é determinada, explícita e legítima (cf. artigo 5.°
+-n.° 1 - b) da Lei 67/98, de 26 de Outubro).
+Controle prévio
+Da possibilidade de recolha de dados de saúde decorre, para além da obrigação de notificação do tratamento à CNPD, a necessidade do presente controlo prévio e a sua autorização para o tratamento (cf. artigos 28.° - n.º 1 - a) da Lei 67/98, de 26 de Outubro).
+Direitos de informação e de acesso
+O responsável pelo tratamento afirma respeitar o dever de informação aos titulares dos dados (cf. artigo 10.° da Lei 67/98, de 26 de Outubro) e assegura o direito destes de acesso, pessoalmente ou por escrito. Não pode colocar qualquer restrição ao exercício desse direito (cf. artigos 11.° da Lei 67/98, de 26 de Outubro).
+Comunicação de dados
+O notificante, poderá proceder a transferência dos dados pessoais para países da União Europeia e para países terceiros; Estados Unidos da
+América, Coreia do Sul, China e México. Neste último caso terá que ser obtido, para o efeito, o consentimento inequívoco dos titulares informando-os que pode não estar assegurado aos dados um nível de protecção adequado (cf. artigo 20.° - n.° 1 - a) da Lei 67/98, de 26 de Outubro).
+Prazo de conservação dos dados
+O tempo de conservação dos dados deverá ser adequado à finalidade concordando-se com o sugerido, cinco anos a partir da última estadia dos titulares em estabelecimento incluído no sistema.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Medidas de segurança
+COMISSAO NACIONAL
+DEPETECa PEDestar estruturado, de modo a permitir o acesso à informação de acordo com os diferentes perfis de utilizador, com níveis de acesso diferenciados e privilégios de manuseamento da informação distintos. Deverão ser atribuídas palavras-chave que disciplinem as autorizações de acesso. Os perfis de utilizador devem ser mantidos actualizados e eliminados quando o utilizador deixe de ter privilégios de acesso. As palavras-chave devem ainda ser periodicamente alteradas.
+Devem, pois, ser adoptadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+Ainda no âmbito das condições de segurança, deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de acesso à informação sensível para controlo das operações e para a realização das auditorias internas e externas. De igual modo, devem ser feitas cópias de segurança da informação, as quais deverão ser mantidas em local apenas acessível ao administrador de sistema ou, sob sua direcção, a outros técnicos obrigados a segredo profissional.
+Independentemente das medidas de segurança adoptadas pela entidade responsável pelo tratamento, é a esta que cabe assegurar o resultado da efectiva segurança da informação e dos dados tratados.
+Tudo ponderado, em conformidade com os artigos 23.° - 1 b) e 30.° da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados notificado nos seguintes termos:
+1.Responsável pelo tratamento: United Investments (Portugal)
+Empreendimentos Turísticos, SA.
+2.Dados pessoais tratados: Nome, Data do nascimento, Nome do cônjuge, Domicílio, Dados de viagem, Hábitos, Preferências de lazer e entretimento, Preferências de alojamento, Frequência de utilização dos serviços de hotelaria fornecidos pelo notificante e Gestão de reclamações dos hóspedes relativamente aos serviços prestados.
+3. Finalidade: StarGuest System.
+4. Forma de exercício do direito de acesso e rectificação: Por comunicação pessoal ou escrita ao responsável pelo tratamento.
+5. Interconexões: Não existem.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+.Transferências de dados para países terceiros: Estados Unidos da
+América, Coreia do Sul, China e México.
+7.Tempo de conservação: Cinco anos a partir da última estadia dos titulares em estabelecimento incluído no sistema.
+Esta Autorização substitui a N.° 4123/2009
+Lisboa, 08 de Ncvou 20 de 2010
+Ana Roque, Carlos de Campos Lobo, Helena Delgado António, Luís Barroso,
+Luis Paiva de Andrade (Relator), Vasco Almeida
+Luís Lingnau Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

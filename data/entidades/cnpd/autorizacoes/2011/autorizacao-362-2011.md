@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SANOFI - AVENTIS RECHERCHE ET DEVELOPPEMENT'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,66 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:23:42Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 362/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27078](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27078).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.º 212/2011
+AUTORIZAÇÃO N.º 362/2011
+A Sanofi - Aventis Recherche et Development, representada pela Sanofi - Aventis Produtos
+Farmacêuticos, Lda, notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo para avaliar um estudo para avaliar a segurança e eficácia de
+SAR110894D em doentes com Alzheimer e medicados com donepezil.
+Serão incluídos no estudo os indivíduos com a patologia a receber tratamento em qualquer um dos centros participantes. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Os dados serão recolhidos num caderno de recolha de dados em formato electrónica.
+No "caderno de recolha de dados" não há identificação nominal dos titulares, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do médico assistente.
+Este estudo envolve não só a resposta a perguntas sobre a saúde do participante e seus antecedentes clínicos, como também uma amostra de sangue para que sejam feitos testes genéticos. Todo o sangue que não for imediatamente utilizado será destruído após a realização das análises.
+À amostra de sangue e ao ADN extraído será atribuído um segundo código, diferente do código do participante ("codificação dupla").
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.º 227 /2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+No que concerne ao tratamento do dado raça, o responsável justifica a sua necessidade do seguinte modo: "A necessidade da distinção prende-se com o facto da evolução da doença subjacente à entrada no ensaio clínico (ou seja, a doença que os indivíduos têm de ter para serem a população alvo do estudo), ser diferente consoante a raça, bem como os parâmetros analíticos determinados pelas análises sanguíneas (incluindo diferentes valores de referência), e também a incidência e prevalência da patologia. Por outro lado, o metabolismo dos medicamentos é também diferente devido às características específicas de cada raça. Assim, anatomo-fisiologicamente, o que poderá ser considerado normal para uma raça, é considerado normal para uma raça, é considerado fora dos parâmetros de referência para outra. A não distinção das raças impedirá uma avaliação cientificamente válida dos resultados, inviabilizando a credibilidade dos resultados apurados".
+O fundamento de legitimidade é o consentimento expresso do titular dos dados. No entanto, dada a natureza da patologia dos doentes objecto do estudo, o médico investigador deverá aferir as condições concretas de capacidade do doente no momento da prestação do direito de informação e obtenção do consentimento. Caso o doente esteja judicialmente interditado, o consentimento terá de ser prestado pelo representante legal do doente.
+Salienta-se, que a partir do momento em que as amostras dão entrada no banco de amostras deve ser-lhes retirada qualquer tipo de identificação do dador, tornando-se anonimizadas, sem possibilidade de eventual ligação com a identificação do dador, porquanto estamos perante uma entidade privada com fins comerciais, (Cfr. n.º10 do art. 19.° da Lei 12/2005, de 26 de
+Janeiro).
+Havendo absoluta necessidade de se usarem amostras identificadas ou identificáveis, estas devem ser codificadas, ficando os códigos armazenados separadamente, mas sempre em instituições públicas (Cfr. n° 11 do art. 19° da supra referida Lei 12/2005).
+Assim, tendo em atenção o disposto nas disposições combinadas do n.º 2 do artigo 7.°, do n.º1 do artigo 27°, da al. a) do n.º 1 do artigo 28° e do art. 30° da Lei n.° 67/98, de 26 de Outubro, e as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 as 13h 2 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Responsável pelo tratamento: Sanofi - Aventis Recherche et Development, representada pela Sanofi - Aventis Produtos Farmacêuticos, Lda
+Finalidade: estudo para avaliar a segurança e eficácia de SAR110894D em doentes com
+Alzheimer e medicados com donepezil.
+Categoria de Dados pessoais tratados: código de participante, dados sócio-demográficos (data de nascimento, sexo, raça), história clínica da doença de Alzheimer, nível de escolaridade, história clínica, consumo de álcool, sinais vitais, exame físico, medicação e eventos adversos.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, Pde Feu : de 2011
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt

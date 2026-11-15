@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: EDIMPRESA EDITORA, LDª- ex: (LISTAS-MARKETING DIRECTO,LDª)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,67 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:52:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 131/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9136](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9136).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.° n.° 433/98
+Autorização n.°/3l/2004
+Edimpresa, Grupo Edipresse - Grupo Impresa - sucede a Listas - Marketing Directo,
+Banco de Dados e Publicidade, Lda nos tratamentos constantes da Deliberação n.° 92/98 com a finalidade de marketing directo.
+Em 27 de Janeiro de 2004 a CNPD proferiu projecto de Autorização o qual foi notificado, nos termos do artigo 100.º do CPA. A Edimpresa, em ofício de 13 de
+Fevereiro de 2004, informou que altera o modelo de inquérito conforme as indicações mencionadas pela CNPD.
+A CNPD considerou que a autorização do tratamento em causa dependia do preenchimento do seguinte:
+a) Atendendo à extensão e natureza da informação recolhida, e ao facto de por natureza ser utilizada na definição de perfis de consumidores, deve ser recolhido o consentimento expresso do titular dos dados para eventuais comunicações futuras a outras entidades, e prestada a informação constante do artigo 10.º da
+Lei n.º 67/98, de 26 de Outubro;
+b) Devem ser identificadas as empresas idóneas nossas parceiras referidas no boletim de recolha de dados;
+Rua de São Bento, 148 - 3.° — 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+2 peRs
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS c) No momento da recolha deve incluir-se claramente a referência à natureza facultativa do inquérito, referindo-se, só após essa menção, as consequências do não preenchimento ou do preenchimento inexacto;
+d) Os elementos referidos nas alíneas anteriores devem ser apresentados no canto superior esquerdo do boletim de inquérito ou em outro espaço claramente visível;
+e) A frase caso não pretenda receber outras propostas (...)" deve ser substituída por "caso não autorize que os seus dados sejam cedidos a terceiros";
+f) O espaço vazio destinado à aposição de cruz para exercício do direito de oposição afigura-se imperceptível.
+Contudo, no projecto de questionário enviado à CNPD, com as alterações indicadas, verifica-se que não consta o campo para que o titular dê autorização para o tratamento dos seus dados pessoais como determinado na al. a) do projecto de autorização.
+Por outro lado, o espaço vazio destinado ao exercício do direito de oposição encontra-se numa faixa vertical, na parte esquerda do prospecto, sendo de percepção e exercício difíceis.
+Em face do exposto e tendo em atenção as alterações indicadas, a declaração do responsável do tratamento e o disposto nas disposições combinadas dos artigos 7.° n.º 1 e 2, 28.° n.° 1 al. a) e 30.° da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento relativo à base de dados para inquérito de hábitos de consumo, nos seguintes termos:
+1. Responsável: Edimpresa Editora, LDA
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+ASAS
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS 2. Categorias de dados pessoais tratados: Os indicados no formulário de recolha 3. Finalidade: Tratamento e envio de mailings em acções de markting directo.
+4. Entidades a quem podem ser transmitidos: Unicamente a entidades com a mesma finalidade de marketing directo, mas com exclusão dos nomes dos titulares que o tenham requerido.
+5. Forma de exercício do direito de acesso e rectificação: Por solicitação escrita ao responsável.
+6. Eventuais interconexões: Não há.
+7. Transferências de dados para países terceiros: Não há.
+Esta Comissão só autoriza o tratamento desde que:
+No formulário do inquérito seja recolhido o consentimento expresso do titular dos dados.
+No formulário do inquérito seja correctamente identificado um espaço visível para exercer o direito de oposição.
+Notifique-se a declarante.
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa,д6 de Fevereiro de 2004
+Alexandre Sousa Pinheiro (relator)
+ru
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Amadeu Guerra is CAstren
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200 - 821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

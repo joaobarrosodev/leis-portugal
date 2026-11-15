@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: TOYS "R" US PORTUGAL BRINQUEDOS E ARTIGOS JOVENIS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,53 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:22:31Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 10/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21553](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/21553).
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 640/2009
+REGISTO N.° 10 12010
+A Toys "R" Us (TRU) notificou à CNPD um tratamento de dados pessoais com a finalidade de gestão e expedição de correio para os clientes da TRU.
+A entidade encarregue do tratamento dos dados é a Romba Morais & Gregório -
+Publicidade e Serviços, Lda., com que deve a responsável estabelecer o contrato previsto no art. 14° da LPD.
+Os dados serão recolhidos directamente por impresso.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+Os fundamentos de legitimidade indicados para o tratamento são, nos termos do corpo do artigo 6° da LPD e da sua alinea a), respectivamente, o consentimento expresso dos titulares e a execução do contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável
+Toys "R" Us
+Finalidade
+Gestão e expedição de correio para os clientes da
+TRO.
+Categoria de dados pessoais tratados
+Nome completo, n° de BI, nome abreviado para o cartão, data de nascimento, morada, localidade, telefone, código postal, nome e data de nascimento dos filhos e assinatura.
+Comunicação de dados
+Não há.
+Forma de exercício do direito de acesso e rectificação
+Junto do responsável pelo tratamento dos dados.
+Interconexões
+Não há.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Fluxo transfronteiriço de dados
+Conservação dos dados
+Não há.
+Até 5 anos após a realização das transacções ou o cancelamento do cartão.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD.
+Lisboa, 1512| 10
+A Secretária da CNPD, (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

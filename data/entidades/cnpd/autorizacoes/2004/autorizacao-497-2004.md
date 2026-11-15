@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 497/2004
-official_date: null
+official_date: '2004-04-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ORACLE PORTUGAL - SISTEMAS DE INFORMAÇÃO, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:49:16Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 497/2004
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9072](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/9072).
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc. 586/2004
+AUTORIZAÇÃO N.°US7 /2004
+A empresa Oracle Portugal - Sistemas de informação, Ld.ª veio notificar à Comissão
+Nacional de Protecção de Dados (CNPD) o tratamento de dados de gestão de Recursos
+Humanos/gestão de quadros a nível internacional, bem como solicitar a autorização para a transferência de dados pessoais para os Estados Unidos da América (EUA).
+1. As categorias de dados tratados, que constam do ponto n.º 5 do formulário.
+Os dados tratados são necessários e não excessivos em relação à finalidade (cf. art. 5.º da Lei 67/98, de 26 de Outubro).
+2. Nos termos do disposto no artigo 20.° e na alínea e) do n.º 1 do artigo 23.° da Lei de
+Protecção de Dados Pessoais, a transferência de dados pessoais para países terceiros carece de autorização da CNPD.
+Nos termos do artigo 20.º da Lei 67/98, de 26 de Outubro, a transferência de dados pessoais para os EUA pode ser permitida pela CNPD se o titular dos dados tiver nela consentido inequivocamente. Será esta a situação do caso sub judice, conforme resulta da declaração junta ao processo.
+Acresce, por outro lado, que a Oracle aderiu ao Safe Harbor.
+Face a todo o exposto DELIBERA esta CNPD, nos termos do disposto no n.º 1 do artigo 20.° da Lei n.º 67/98, de 26 de Outubro, autorizar o tratamento de dados pessoais, bem como a sua transmissão para os EUA.
+Lisboa 2 de Abril de 2004 oden w
+Amadeu Guerra (relator)
+Rua de São Bento, 148 - 3.°-
+E-mail: geral@cnpd.pt 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+Internet: http://www.cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aldandesasa inheika
+Mexandre Pinheiro
+Luís Durão Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Chei LIdar
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

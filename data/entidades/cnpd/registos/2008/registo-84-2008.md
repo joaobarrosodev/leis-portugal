@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: GLAXOSMITHKLINE - PRODUTOS FARMACÊUTICOS, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,35 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:21:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 84/2008
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1000](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/1000).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc.n.° 474/07
+Registo n. ° 84 108
+A GlaxoSmithKline - Produtos Farmacêuticos, Lda notificou um tratamento de dados pessoais com a finalidade de gestão de eventos científicos, congressos e simpósios.
+Declara as seguintes categorias de dados pessoais: Nome, morada, montantes pagos e valor económico de outros apois concedidos a profissionais de saúde.
+Os dados são recolhidos pessoalmente.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b) do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo da alinea a) do artigo 6° da LPD, a execução de contrato.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de
+Outubro, o tratamento, nos seguintes termos:
+Responsável - GlaxoSmithKline - Produtos Farmacêuticos, Lda
+Categoria de dados pessoais tratados - Nome, morada, montantes pagos e valor económico de outros apois concedidos a profissionais de saúde.
+Finalidade - gestão de eventos científicos, congressos e simpósios
+Forma de exercício do direito de acesso e rectificação - Por solicitação escrita ao responsavel.
+Interconexões - Não há;
+Comunicação de dados - Não há;
+Fluxo transfronteiriço de dados - Não há.
+Prazo máximo de conservação da informação - 5 anos.
+Lisboa, 4 de Fevereiro de 08
+A Secretária da CNPD
+¿sases
+Isabel Cristina Cruz
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

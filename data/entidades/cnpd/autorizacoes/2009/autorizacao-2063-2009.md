@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 2063/2009
-official_date: null
+official_date: '2009-05-18'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: IVDP-INSTITUTO DOS VINHOS DO DOURO PORTO(EX-CIRDD-COM.INTERPROF.REG. DEM. DOURO)'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,68 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:04:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 2063/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16070](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/16070).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc° 913/2004 2063
+AUTORIZAÇÃO N°
+/2009 1) O pedido
+O Instituto dos Vinhos do Douro e do Porto - IVDP notifica um tratamento com a finalidade de controlo administrativo, de acções de certificação e de qualidade.
+Os dados tratados reportam-se à identificação das entidades singulares contratantes, controlos efectuados, volumes aprovados, reprovados, contas correntes de destiladores.
+Como fundamento de legitimidade, aponta-se a prossecução de interesses legítimos.
+Não haverá comunicação de dados, nem fluxos transfronteiras.
+Refere-se haver interconexão com o tratamento de dados relativo ao controlo, certificação e defesa da denominação de origem "Porto".
+Como medidas de segurança, mencionam-se a utilização de cópias de "backup" de dados e de palavras-passe de acesso aos dados.
+Prevê-se que os dados sejam conservados enquanto a entidade contratada se mantiver activa.
+Como forma de exercício dos direitos de acesso e rectificação, refere-se o contacto com o Gabinete Técnico e os Serviços de Fiscalização do IVDP.
+2) Apreciação
+As finalidades previstas revelam-se determinadas, explícitas e legítimas (Lei n° 67/98, de 26 de Outubro, art° 5°, n° 1, al b).
+Os dados tratados são adequados, pertinentes e não excessivos, face às finalidades prosseguidas (ibidem, al c).
+Os dados relativos a contas correntes de destiladores reportar-se-ão, pelo menos indirectamente, a crédito e solvabilidade. Daí estarem sujeitos a autorização, nos termos do artigo 28°, n° 1, al b) da Lei n° 67/98.
+O tratamento da generalidade dos dados em questão encontra-se legitimado pelo cumprimento de obrigação legal.
+O prazo de conservação proposto apresenta-se ajustado.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS 3) Autorizações
+Pelo exposto, e nos termos dos artigos 6°, al e), 28°, n° 1, al b) e 29° da Lei n° 67/98, a
+CNPD emite a seguinte autorização:
+a)
+b)
+d)
+e)
+Responsável
+Instituto dos Vinhos do Douro e do Porto - IVDP.
+Finalidade
+Controlo administrativo, acções de certificação e qualidade.
+Dados pessoais tratados
+Identificação da entidade controlada; controlos efectuados; volumes aprovados e reprovados; contas correntes de destiladores.
+Comunicação de dados
+Não há.
+Interconexões
+Não há.
+Fluxos transfronteiras
+Não há.
+Forma de exercício do direito de acesso e rectificação
+Contacto com o Gabinete Técnico e os Serviços de Fiscalização do IVDP.
+Lisboa, 18 de Maio de 2009
+Ana Roque,
+Luís Barroso, Helena Delgado António, Carlos Campos Lobo, Vasco
+Almeida, Luís Paiva de Andrade
+Luis Lingnau da Silveira (Presidente/relator)
+amm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

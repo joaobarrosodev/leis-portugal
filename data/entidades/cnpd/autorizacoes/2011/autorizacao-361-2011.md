@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 361/2011
-official_date: null
+official_date: '2011-02-02'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: ASSOCIAÇÃO PORTUGUESA DE UROLOGIA -APU'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,64 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:23:43Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 361/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27079](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/27079).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n.° 26/2011
+AUTORIZAÇÃO N.º 36/ 12011
+Associação Portuguesa de Urologia (APU) notificou à CNPD um tratamento de dados pessoais com a finalidade de elaborar um estudo observacional para caracterização demográfica e clínica do carcinoma de células renais (CCR) nos hospitais do Serviço Nacional de Saúde de
+Portugal.
+A entidade encarregue do processamento da informação é a Eurotrials, Consultores
+Científicos, S.A.
+Este estudo observacional é composto por uma fase prospectiva e uma fase retrospectiva.
+Na primeira fase, os Urulogistas inscritos na APU e que exerçam a sua actividade num Hospital do Serviço Nacional de Saúde incluirão no estudo os seus doentes com a patologia. O médico assistente, investigador no estudo, solicitará consentimento informado, cuja declaração deverá ser arquivada no processo clínico do doente.
+Numa segunda fase, serão seleccionados aleatoriamente 30 processos clínicos de doentes com a patologia para obter dados mais específicos sobre a patologia.
+Os dados serão recolhidos num caderno de recolha de dados em formato papel.
+No "caderno de recolha de dados" não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida do profissional de saúde participante.
+Os destinatários deverão ser ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento.
+A CNPD já se pronunciou na sua Deliberação n.° 227 /2007 sobre o enquadramento legal, os tundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados. Quando haja recolha de dados de menores, terá de haver consentimento a prestar pelos legais representantes. Impõe-se, ainda, que a criança seja ouvida e em função da idade, nos termos da lei, ela própria preste a sua anuência à recolha de dados pessoais para participação no estudo. O estudo deve ter em conta o superior interesse da criança.
+Assim, nos termos do n.º 2 do artigo 7.°, n.º1 do artigo 27°, al. a) do n.º 1 do artigo 28° e art.
+30º da Lei de Protecção de Dados, com as condições e limites fixados na referida Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, e ainda com a condição aqui fixada, autoriza-se o acesso aos dados pessoais dos doentes, constantes dos processos clínicos, para a elaboração do presente estudo.
+Responsável pelo tratamento: Associação Portuguesa de Urologia (APU)
+Finalidade: estudo observacional para caracterização demográfica e clínica do carcinoma de células renais (CCR) nos hospitais do Serviço Nacional de Saúde de Portugal.
+Categoria de Dados pessoais tratados: código do centro, código do doente, dados sócio-demográficos (data de nascimento, sexo), diagnóstico do CCR, tratamento e inquérito ao médico.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e rectificação: junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há
+Prazo de conservação: o código do titular deve ser destruído um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.° 227/ 2007 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13h 2 duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇAO DE DADOS
+Lisboa, 02 de Fevereiro de 2011
+Ana Roque, Luís Paiva de Andrade, Vasco Almeida, Helena Delgado António (Relatora), Carlos
+Campos Lobo, Luis Barroso
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 3 duvidas@cnpd.pt

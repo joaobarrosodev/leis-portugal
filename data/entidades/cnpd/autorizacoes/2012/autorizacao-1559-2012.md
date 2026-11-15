@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOSPITAL SOUSA MARTINS'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,65 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T04:13:45Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1559/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/41754](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/41754).
+1
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Processo n° 31/2005
+AUTORIZAÇÃO N.° 1559/292 1 - Hospital Sousa Martins - Guarda veio notificar à Comissão Nacional de
+Protecção de Dados (CNPD) um tratamento com a finalidade de emissão e comunicação de faturas relativas a serviços prestados, em suporte digital.
+Os dados recolhidos são os seguintes: Número e nome de beneficiário, número de cartão de utente, código do módulo, número de episódio, código e designação do cuidado de saúde, data de início e fim do cuidado de saúde, quantidades de cuidados de saude.
+As medidas de segurança adotadas são as seguintes: cópias de backup, password de acesso às informações e sistemas de processamento de backup, sendo a segurança das instalações garantida mediante o acesso restrito de pessoas.
+Os dados são tratados com o consentimento dos titulares.
+Está assegurado o direito de acesso dos titulares dos dados à informação, bem como os direitos de correção e eliminação.
+2 - A informação tratada é recolhida de forma lícita (artigo 5° n.º1, alínea a), da Lei n° 67/98), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e a informação recolhida não é excessiva.
+A CNPD considera que, no caso, existe legitimidade para o tratamento, por força do artigo 7.° n.º 4 de Lei n° 67/98, de 26.10.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+O responsável deverá, ainda, assegurar que:
+• A informação não será utilizada para finalidades diversas das declaradas. Ou seja, não poderá ser utilizada para finalidade diversa da indicada no artigo 7.° n.° 4 da Lei n° 67/98.
+• São adotadas medidas de segurança que impeçam o acesso à informação a pessoas não autorizadas.
+• A informação de saúde deverá ser de acesso restrito aos médicos ou, sob a sua direção e controlo, a outros profissionais de saúde obrigados a segredo profissional (cf. artigo 7.° n.º 4).
+Aos titulares dos dados deve ser garantido o direito de informação e acesso aos seus dados, nos termos do artigo 10.º e 11.º n.º 5 da Lei n° 67/98);
+3 - Nestes termos e ao abrigo do disposto nos artigos 7.º n.º 4 e 30.º da Lei n° 67/98, de 26.10, a CNPD autoriza o tratamento automatizado, consignando o seguinte:
+Responsável: Hospital Sousa Martins - Guarda
+Categorias de dados pessoais tratados: número e nome de beneficiário, número de cartão de utente, código do módulo, número de episódio, código e designação do cuidado de saúde, data de início e fim do cuidado de saúde, quantidades de cuidados de saúde
+Finalidade: emissão e comunicação de faturas relativas a serviços prestados, em suporte digital
+Comunicação de dados: a entidades aderentes aos pagamentos através de faturação eletrónica
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Forma de exercício do direito de acesso e retificação: Deve ser assegurado o direito de informação e acesso, nos termos dos artigos 10.º e 11.º da Lei n° 67/98. Quanto ao direito de acesso aos dados de saúde deve o mesmo ser assegurado através de «médico escolhido pelo titular dos dados» nos termos do artigo 11.° n.º 5 da mesma Lei
+Interconexão de dados: não há
+Transferência de dados para países terceiros: não há
+Conservação dos dados:
+a) Dados de saúde - pelo prazo previsto na Portaria n° 247/2000, de 8 de Maio;
+b) Dados para faturação - 10 anos.
+Lisboa,
+Luís Barroso, Ana Roque, Carlos Campos Lobo, Helena Delgado António (relatora),
+Vasco Almeida, Luís Paiva de Andrade
+Been
+• Supera
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

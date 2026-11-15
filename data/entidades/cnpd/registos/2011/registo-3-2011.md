@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 3/2011
-official_date: null
+official_date: '2011-04-13'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Boehringer Ingelheim Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,41 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T04:07:25Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 3/2011
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30453](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/30453).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.n.° 674/2009
+Registon.° 3 12011
+Boehringer Ingelheim, Lda notificou um tratamento de dados pessoais com a finalidade gestão e resposta a pedidos de informação por profissionais de saúde e marketing.
+Os titulares serão profissionais de saúde.
+Declaram as seguintes categorias de dados pessoais: Nome, especialidade, local de trabalho (Hospital/Centro de Saúde/Clínica), informação/documentação pretendida, produto/substância activa com o qual se relaciona o pedido.
+Os dados são recolhidos pessoalmente, por telefone, impresso e Internet.
+No contexto de um acordo com a Pfizer para a co-promoção do medicamento Spiriva, os dados são recolhidos pela Pfizer e transmitidos à Boehringer Ingelheim, Lda.
+No âmbito de acordo estabelecido com a Eli Lilly & Company para a co-promoção do medicamento
+Cymbalta há comunicação dos dados à Lilly Portugal para que esta proceda ao tratamento da resposta.
+Os dados são posteriormente devolvidos à Boehringer Ingelheim, Lda, actuando a Lilly como subcontratada.
+Os dados recolhidos são pertinentes, adequados e não excessivos face à finalidade declarada (Cf. al. b)
+do art° 5° da Lei 67/98).
+O fundamento de legitimidade para o tratamento é, nos termos do corpo do artigo 6º da LPD, o consentimento inequívoco do titular.
+Assim, regista-se, nos termos dos artigos 27° n.º 1 e 30° n.º 1 da Lei n.º67/98, de 26 de Outubro, o tratamento, nos seguintes termos:
+Responsável - Boehringer Ingelheim, Lda
+Categoria de dados pessoais tratados - Nome, especialidade, local de trabalho (Hospital/Centro de
+Saúde/Clínica), informação/documentação pretendida, produto/substância activa com o qual se relaciona o pedido.
+Finalidade - gestão e resposta a pedidos de informação por profissionais de saúde e marketing.
+Forma de exercício do direito de acesso e rectificação - Por solicitação ao responsável.
+Interconexões - Não há;
+Fluxo transfronteiriço de dados - Não há
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10°, bem como o direito de oposição previsto na al. b) do artigo 12° da LPD.
+Lisboa, 13 de Abril de 2011
+A Secretária da CNPD
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt
+Isabel Cristina Cruz 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

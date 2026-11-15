@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: HOME PRODUCTS DE PORTUGAL, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,58 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T11:16:24Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 1368/2009
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15193](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/15193).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 1259/06
+AUTORIZAÇÃO N.936012009
+A Home Products de Portugal, Lda notificou à CNPD um tratamento de dados pessoais com a finalidade exclusiva de farmacovigilância.
+São recolhidas as seguintes categorias de dados pessoais
+- Das pessoas que sofreram a reacção adversa: Identificação (iniciais do nome, sexo, data de nascimento); Dados Antropométricos (peso e altura); Dados da reacção adversa (descrição, início, duração, gravidade, evolução, identificação do medicamento suspeito, data de início da toma, data da suspensão, via de administração, dose diária, indicação terapêutica, primeira utilização, dados relativos à medicação concomitante, existência de reacções anteriores ao mesmo fármaco, reintrodução do mesmo fármaco e suspeita de interacção); Dados clínicos, exames auxiliares de diagnóstico, alergias e gravidez; e parecer clínico quanto à relação causal.
+- Dos profissionais de saúde que transmitem a informação,: Nome; Local de trabalho;
+Contacto; Especialidade médica.
+Há comunicação ao INFARMED (Cf. artigos 29°, n.° 1 alínea j), 83°, 85°, 93°, 169°, 170°, 176°, n.º 1 alínea c) e f)) do Decreto-Lei n.° 176/2006, de 30 de Agosto.
+A CNPD já se pronunciou na sua Deliberação n° 219/2009' sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correcto cumprimento da Lei de
+Protecção de Dados, bem como as condições gerais aplicáveis ao tratamento de dados pessoais para esta finalidade.
+No caso em apreço, a notificação enquadra-se no âmbito tipificado por aquela Deliberação.
+A informação tratada é recolhida de forma lícita (art.° 5°, n.º1 al. a) da Lei 67/98, de 26 de
+Outubro - LPD), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é, nos termos do artigo 7° n.º 2 da LPD, a Lei n.º 46/2004, de 19 de Agosto, que impõe o registo e comunicação de reacções adversas, no âmbito de ensaios clínicos e o Decreto-Lei n.º 176/2006, de 30 de Agosto, relativamente aos medicamentos com autorização de introdução no mercado.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 28°, n.º1, alínea b) e 30° da Lei n.º 67/98, de 26 de Outubro, e as condições e limites fixados na referida
+' Disponível em /www.cnpd.pt/bin/orientacoes/orientacoes.htm
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h 1 duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Deliberação, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados pessoais nos seguintes termos:
+Responsável pelo tratamento: Home Products de Portugal, Lda
+Finalidade: Farmacovigilância.
+Categoria de Dados pessoais tratados:
+- Das pessoas que sofreram a reacção adversa: Identificação (iniciais do nome, sexo, data de nascimento); Dados Antropométricos (peso e altura); Dados da reacção adversa (descrição, início, duração, gravidade, evolução, identificação do medicamento suspeito, data de início da toma, data da suspensão, via de administração, dose diária, indicação terapêutica, primeira utilização, dados relativos à medicação concomitante, existência de reacções anteriores ao mesmo fármaco, reintrodução do mesmo fármaco e suspeita de interacção); Dados clínicos, exames auxiliares de diagnóstico, alergias e gravidez; e parecer clínico quanto à relação causal.
+- Dos profissionais de saúde que transmitem a informação,: Nome; Local de trabalho;
+Contacto; Especialidade médica.
+Entidades a quem podem ser comunicados: INFARMED - Sistema Nacional de
+Farmacovigilância de Medicamentos para Uso Humano
+Formas de exercício do direito de acesso e rectificação: Pessoalmente ou por escrito ao responsável pelo tratamento
+Interconexões de tratamentos: Não há
+Fluxos de dados pessoais para países terceiros: Não há
+Prazo de conservação: os dados devem ser conservados pelo período estabelecido no ponto 5.2 do Anexo | do DL n.º 176/2006.
+Dos termos e condições fixados na Deliberação n.º 219/2009 e na presente Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 2 3de Março de 2009
+Ana Roque, Carlos Campos Lobo, Luís Paiva de Andrade (Relator), Helena Delgado António,
+Vasco Almeida
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt 2

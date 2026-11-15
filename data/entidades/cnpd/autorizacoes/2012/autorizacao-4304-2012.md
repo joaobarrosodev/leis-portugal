@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: SOLINCA - INVESTIMENTOS TURÍSTICOS, SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,70 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T03:27:00Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4304/2012
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44571](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/44571).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc 1947/04 4304
+AUTORIZAÇÃO N° /2012 1) O Pedido
+Solinca - Investimentos, S.A notifica tratamento de dados relativo à gestão de clientes.
+Os dados a recolher são: nome, morada, doc de identidade, local e data de nascimento,
+NIF, nacionalidade, meio de pagamento, contactos, profissão, n° de estadias, cancelamentos e "no shows", preferências na prestação de serviços, datas de entrada e saída, históricos de serviço consumidos e a faturar pelo último quarto.
+Como fundamento de legitimidade aponta-se o consentimento dos titulares.
+Não existem interconexões nem fluxos transfronteiras.
+Como medidas de segurança apontam-se o acesso restrito de pessoas e a utilização de cópias de back-up e de chaves de acesso às informações.
+Propõe-se período indeterminado de tratamento
+Como forma de exercício do direito de acesso e retificação menciona-se o contato pessoal ou por escrito, com a sede da responsável.
+Refere-se a comunicação, imposta por lei, do alojamento de estrangeiros ao SEF (ou á
+PSP, onde aquela não tiver serviços).
+2) Esclarecimentos
+Instada pela CNPD, a Responsável esclareceu que:
+a) Os dados relativos a condições de prestação de serviços e serviços consumidos e a faturar são recolhidos dos titulares, através de consentimento expresso.
+b) O prazo de conservação será de 365 dias.
+3) Apreciação
+O tratamento tem finalidades determinadas explícitas e legítimas - Lei n° 67/98, de 26 de Outubro, art 5° n° 1, alínea B)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt
+Pág 1 / 3 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSAO NACIONAL
+DE PROTECÇÃO DE DADOS
+Os dados a tratar apresentam-se adequados, pertinentes e não excessivos (ibidem, alínea c).
+É ajustado o modelo de declaração de consentimento expresso exibido - já que estão em causa, em parte, dados da vida privada, e por isso sensíveis (Lei n° 67/98, art 7°).
+O prazo de conservação, alterado, surge admissível.
+4) Autorização
+Nos termos dos artigos 7°, n° 1 e 2, alínea a) do n° 1 do art 28°, e 29° da Lei n° 67/98, a
+CNPD profere a seguinte autorização:
+a) Responsável
+Solinca - Instituto Turístico S.A b) Finalidade
+Gestão de clientes c) Dados Tratados nome, morada, doc de identidade, local e data de nascimento, NIF, nacionalidade, meio de pagamento, contactos, profissão, n° de estadias, cancelamentos e "no shows", preferências na prestação de serviços, datas de entrada e saída, históricos de serviço consumidos e a faturar pelo último quarto d) Interconexões
+Não há e) Comunicações
+Ao SEF, os dados relativos a estrangeiros f) Fluxos Transfronteiras
+Não há g) Modo de exercício dos direitos de acesso e retificação
+Pessoalmente ou por escrito, junto da sede da responsável
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 geral@cnpd.pt www.cnpd.pt
+Pág 2 / 3 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Lisboa, 14 a Nair L 2012
+Ana Roque (Relatora), Carlos Lobo, Helena Delgado António, Luís Barroso, Luís Paiva de
+Andrade, Vasco Almeida
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 geral@cnpd.pt www.cnpd.pt
+Pág 3 / 3 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

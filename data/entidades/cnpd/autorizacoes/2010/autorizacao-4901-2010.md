@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 4901/2010
-official_date: null
+official_date: '2010-12-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: CENTRO CLÍNICO INDUMED, LDA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,48 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T08:41:23Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 4901/2010
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26070](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/26070).
+COMISSÃO NACIONAL
+DE PROTECÇAO DE DADOS
+Proc. n° .9005/2010 4901
+Autorização n.°
+/2010
+Centro Clínico Indumed, Lda notificou um tratamento com a finalidade de gestão de processo clínico.
+Declara as seguintes categorias de dados pessoais: Dados de identificação, dados de contacto dados relativos à saúde, vida sexual e genéticos para efeitos de medicina preventiva e curativa.
+A informação tratada é recolhida de forma lícita (art.º 5°, n.º1 al. a) da Lei 67/98), para finalidades determinadas, explícitas e legítimas (cf. al. b) do mesmo artigo) e a informação recolhida não é excessiva.
+O fundamento de legitimidade decorre do n.º 4 do art. 7° da Lei n.° 67/98, de 26 de Outubro que admite o tratamento de dados de saúde quando for necessário para efeitos de medicina preventiva, diagnóstico médico, prestação de cuidados ou tratamentos médicos ou para gestão dos serviços de saúde, desde que o tratamento desses dados seja efectuado por profissional de saúde sujeito a sigilo médico ou por outra pessoa obrigada a segredo profissional de saúde e desde que estejam garantidas medidas de segurança da informação.
+A CimpleCare, Lda é a entidade subcontratada para garantir as medidas de segurança da informação, com quem deve o responsável assinar o contrato previsto no artigo 14° da LPD.
+O responsável deve garantir as medidas de segurança necessárias à sensibilidade da informação tratada, designadamente a separação lógica entre os dados administrativos e os dados de saúde (cf. Art.º 15° n.º 3 da referida lei), devendo ser adoptadas medidas de segurança que impeçam o acesso à informação por pessoas não autorizadas. A informação de saúde deverá ser de acesso restrito aos médicos e técnicos de saúde ou, sob a sua direcção, a outros profissionais obrigados a segredo profissional (n.º 4 do citado art.° 7°). O sistema deve ser dotado de passwords de acesso diferenciado para assegurar as exigências supra especificadas;
+Cada acto de prescrição é enviado ao IGIF, através da rede privada multimédia do Ministério da Saúde, em ficheiro XML, para integração no Sistema de Conferência de Facturas de
+Medicamentos. Não são enviados dados pessoais dos doentes.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 geral@cnpd.pt www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+São transmitidos dados de facturação aos subsistemas de saúde e a seguradoras, no âmbito de seguros de saúde.
+Assim, tendo em atenção o disposto nas disposições combinadas dos artigos 27°, n.ºs1 e 4, alínea a) e 30° da Lei n.º° 67/98, de 26 de Outubro, e as condições e limites supra fixados regista-se o tratamento de dados pessoais nos seguintes termos:
+1. Responsável: Centro Clínico Indumed, Lda 2. Categorias de dados pessoais tratados: Dados de identificação, dados de contacto dados relativos à saúde, vida sexual e genéticos para efeitos de medicina preventiva e curativa.
+3. Finalidade: Gestão de processo clínico 4. Entidades a quem podem ser transmitidos: Dados de facturação a subsistemas de saúde e seguradoras 5. Forma de exercício do direito de acesso e rectificação: Por solicitação ao responsável.
+6. Interconexões: Não existem 7. Transferências de dados para países terceiros: Não há.
+8. Tempo de conservação: - Prazo de conservação do processo clínico nos termos da
+Portaria n.° 247/2000, de 8 de Maio;
+Aos titulares dos dados deve ser assegurado o direito de Informação previsto no art. 10° da
+LPD.
+Lisboa, | 7 de Dezembro de 2010
+Ana Roque, Carlos Campos Lobo, Helena Delgado António, Luís Paiva de Andrade, Luís
+Barroso (Relator), Vasco Almeida
+Luis Lingnau da Silveira (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 geral@cnpd.pt
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

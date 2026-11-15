@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: VICTOR GUEDES INDÚSTRIA E COMÉRCIO SA'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,43 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-13T14:19:27Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 849/2005
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6533](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/6533).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Proc.° n.° 2476/03
+Autorização n.° /2005
+Victor Guedes Indústria e Comércio, SA vem notificar junto da Comunicação
+Nacional de Protecção de Dados (CNPD) o tratamento pessoais com a finalidade de melhorar a qualidade da informação relacionada com o pessoal para que o
+Departamento de Recursos Humanos disponha de uma ferramenta que lhe possibilite efectuar a sua gestão de forma mais eficiente.
+Os dados tratados respeitam a: atribuição organizacional; nome, endereço e dados bancários; dados familiares; tempo de trabalho; remunerações; componentes do contrato; qualificações; seguros, cessões; documentos de identificação; número de identificação fiscal; número de beneficiário da segurança social; categoria profissional;
+ausências; benefícios e formações profissionais.
+Os dados tratados consideram-se necessários, pertinentes e não excessivos, nos termos do artigo 5.°, da Lei n.º 67/98, de 26 de Outubro.
+Ao invés do que é referido na declaração a comunicação apresentada não consubstancia uma interconexão, mas uma comunicação.
+Em face do exposto e tendo em atenção o disposto nas disposições combinadas dos artigos 28.°, n.º 1, alínea a) e 30.°, da Lei 67/98, de 26 de Outubro, autoriza-se o tratamento de dados de saúde nos seguintes termos:
+Responsável: Victor Guedes Indústria e Comércio, SA.
+Dados tratados: Os que integram a notificação.
+Rua de São Bento, 148 - 3.° - 1200-821 LISBOA — Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt
+
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Finalidade: Melhorar a qualidade da informação dos funcionários da empresa
+Forma de exercício do direito de acesso e rectificação: A qualquer momento e através de qualquer processo.
+Comunicação de Dados: Verifica-se no âmbito da empresa em relação às diversas companhias do Grupo Unilever.
+Lisboa, 17 de Ou tula de 2005 de
+Alexandre Sousa Pinheiro (relator)
+Luís Barroso
+Eduardo Campos
+Ana Luísa Geraldes
+Araden
+Amadeu Guerra
+Luís Lingnau da Silveira (Presidente)
+Rua de São Bento, 148 - 3.° — 1200-821 LISBOA - Telefone: 213 928 400 - Fax: 213 976 832
+E-mail: geral@cnpd.pt
+Internet: http://www.cnpd.pt

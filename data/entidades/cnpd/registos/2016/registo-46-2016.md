@@ -12,7 +12,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 46/2016
-official_date: null
+official_date: '2016-07-07'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Margarida Mamede, Unip. Lda'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 3 de 3 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,62 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:55:33Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 46/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92819](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/92819).
+Processo n.º 6764/2016 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+REGISTO N.° 46 / 2016 1 - O Pedido
+Margarida Mamede, Unipessoal, Lda, veio notificar à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de gestão de clientes.
+Os dados objeto de tratamento são os seguintes: nome, morada, NIF, número de telefone.
+Os dados são recolhidos de forma direta, presencialmente.
+É garantido ao titular o direito de acesso, correção e eliminação dos dados que lhe respeitem através de pedido efetuado pessoalmente e por escrito.
+No formulário de notificação são indicadas as medidas de segurança das informações que a requerente se propõe adotar.
+A requerente declara pretender a conservação dos dados pelo período de 10 anos.
+2 - Apreciação
+A requerente desenvolve a atividade de comércio a retalho de relógios e artigos de ourivesaria.
+Os dados tratados mostram-se necessários, pertinentes e não excessivos em relação a finalidade prosseguida (artigo 5.° n.º 1, alíneas b) e c), da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto (LPD).
+O fundamento de legitimidade para o tratamento pode ser encontrado na previsão da alínea a) do artigo 6.° da LPD, ou seja, a execução de uma obrigação contratual.
+No momento da recolha dos dados existentes deve ser assegurado direito de informação nos termos previstos no artigo 10.° da LPD. Durante o período de conservação dos dados deve ser garantido o exercício dos direitos de retificação e de eliminação, consignados na alínea d) do artigo 11.° da LPD.
+As formas de acesso aos dados, para eventual retificação ou eliminação, mostram-se corretas.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º° 6764/2016 | 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Quanto à segurança da informação, devem ser adotadas as medidas previstas no artigo 15.° da LPD. Deve ser garantido um acesso restrito, sob o ponto de vista físico e lógico, aos servidores do sistema, que devem manter um registo de auditoria de acesso à informação. Independentemente das medidas de segurança adotadas pela entidade responsavel pelo tratamento é a esta que cabe assegurar o resultado da efetiva segurança da informação e dos dados tratados.
+Os dados devem ser exatos e, se necessário, atualizados (artigo 5.°, alínea d), da LPD), sendo conservados apenas durante o período necessário para a prossecução das finalidades da recolha e do tratamento posterior (artigo 5.°, alínea e), da LPD), sendo que incumbe ao responsável tomar as medidas adequadas para assegurar que sejam apagados ou retificados os dados inexatos ou incompletos ou não necessários (artigo 5.° n.° 1, alíneas c) e d), e n.° 3 da LPD). Significa isto que se entende como adequado o prazo de 1 ano após a cessação da relação contratual, sem prejuízo da conservação por 10 anos dos dados de faturação.
+3 - Conclusão
+Em face do exposto, ao abrigo das disposições combinadas dos artigos 6.°, alínea a), 27.° n.º1 e 30° da Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.° 103/2015, de 24 de agosto, a CNPD autoriza o tratamento notificado, consignando-se o seguinte:
+Responsável pelo tratamento: Margarida Mamede, Unipessoal, Lda
+Finalidade do tratamento: gestão de clientes
+Categorias de dados tratados: nome, morada, NIF, número de telefone
+Comunicação de dados: não há
+Forma de exercício do direito de acesso e retificação: mediante solicitação à responsável, feita por escrito
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt
+
+Processo n.º 6764/2016 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Interconexões: não há
+Transferência de dados para países terceiros: não há
+Prazo de conservação dos dados: 1 ano após a cessação da relação contratual. Para efeitos de faturação, os dados devem ser conservados pelo prazo de 10 anos.
+Lisboa, 7 de julho de 2016
+Helena Delgado António (vogal da CNPD)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h duvidas@cnpd.pt

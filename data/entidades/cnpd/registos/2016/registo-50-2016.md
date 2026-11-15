@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: DigitalSign Certificadora Digital S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 2 de 2 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,51 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T03:55:29Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 50/2016
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/93395](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/93395).
+Processo n.º 12085/2012 | 1
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+REGISTO N.º SO /2016
+DigitalSign Certificadora Digital, S.A., empresa de certificação digital, notificou um tratamento de dados pessoais com a finalidade emissão de assinaturas eletrónicas para cidadãos.
+O fundamento da legitimidade para o tratamento de dados é o consentimento expressamente autorizado pelo titular, cf. n.º 3 do artigo 14.° do Decreto Regulamentar n.º 25/2004, de 15 de julho e proémio do artigo 6.° da Lei n.° 67/98, de 26 de outubro, Lei de Proteção de Dados (LPD), alterada pela Lei n.º 103/2015, de 24 de agosto.
+De acordo com o disposto na alínea c) do n.º 1 do artigo 5.° da LPD e o artigo 14.°, os dados recolhidos são adequados, necessários e não excessivos.
+Assim, em conformidade com o n.º 1 do artigo 27° e do n.º1 do artigo 30.° da Lei n.° 67/98, de 26 de Outubro, regista-se o tratamento nos seguintes termos:
+Responsável
+DigitalSign Certificadora Digital, S.A
+Finalidade
+Emissão de assinaturas eletrónicas
+Nome, número de identificação civil, correio eletrónico
+Categoria de dados pessoais tratados e morada
+Forma de exercício dos direitos de acesso e retificação
+Mediante pedido escrito através do correio eletrónico geral@digitalsign.pt e presencialmente na sede do responsável
+Comunicações de dados a terceiros
+Não há
+Interconexões
+Não há
+Transferências para países terceiros
+Não há
+Prazo máximo de conservação dos dados 20 anos, cf. n.° 6 do artigo 30.° do Decreto-Lei n.º 290-D/99, de 2/8
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Processo n.º 12085/2012 2
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10° da LPD,
+O responsável deve adotar as medidas de segurança necessárias à proteção dos dados pessoais, em conformidade com o previsto no artigo 14° da LPD e na alínea m) do artigo 24.° do Decreto-Lei n.º 290-D/99, de 2/8.
+Lisboa, 2 • 8 LU16
+A Secretária da CNPD,
+Isabel Cristina Cruz
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

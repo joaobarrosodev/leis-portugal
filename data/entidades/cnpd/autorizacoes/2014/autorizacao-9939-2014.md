@@ -13,7 +13,7 @@ issuing_authority:
 - Comissão Nacional de Proteção de Dados
 proposing_entity: null
 official_number: 9939/2014
-official_date: null
+official_date: '2014-10-28'
 publication_date: null
 publication: null
 entry_into_force_dates: []
@@ -21,7 +21,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: Laboratórios Pfizer Lda.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 4 de 4 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -70,11 +70,82 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T19:55:54Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Autorização da CNPD n.º 9939/2014
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/70292](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/70292).
+Proc. N. 885312014 1 f
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+AUTORIZAÇÃO N.º 9939 12014
+I. Pedido
+Os Laboratórios Pfizer Lda. notificaram à Comissão Nacional de Protecção de Dados (CNPD) um tratamento de dados pessoais com a finalidade de elaborar um estudo epidemiológico transversal sobre a Incidência de Cancro do Pulmão de Não Pequenas
+Células ALK Positivos em Portugal.
+A entidade encarregue do processamento da informação é a Prime Focus,
+Investigação e Estudos de Mercado, Lda. com a qual o responsável pelo tratamento celebrará o contrato previsto no artigo 14.° da Lei n.° 67/98, de 26 de outubro (Lei de
+Proteção de Dados - LPD).
+Tendo em conta que o cancro do pulmão de não pequenas células (CPNPC) é responsável por cerca de 85% dos casos de cancro do pulmão; que subgrupos genéticos específicos de doentes com CPNPC apresentam mutações específicas que parecem influenciar o desenvolvimento da doença; que as alterações no ALK (anaplastic lymphoma kinase) ocorrem em cerca de 4,2% de todos os doentes com
+CPNPC; que em Portugal a taxa de mortalidade por cancro do pulmão é a mais elevada de todos os tipos de cancro com 35 mortes por cada 100000 habitantes em 2013 e que não existe informação descritiva disponível sobre esta população, os objetivos principais do estudo consistem em estimar a proporção de doentes ALK positivos em casos de CPNPC de novo em Portugal, bem como caracterizar os doentes em termos demográficos e de acordo com as suas características clínicas.
+A amostra será composta por aproximadamente 1000 doentes, homens ou mulheres com idade igual ou superior a 18 anos, diagnosticados com CPNPC de novo, em 7 centros de referência em cancro do pulmão de Portugal.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Proc. N.º 8853/2014
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+A participação no estudo consistirá na recolha de dados médicos e demográficos pelo médico assistente, investigador no estudo.
+Os dados serão recolhidos num "caderno de recolha de dados" em formato eletrónico, no qual não há identificação nominal do titular, sendo aposto um código de doente. A chave desta codificação só pode ser conhecida da equipa de investigação.
+Os destinatários são ainda informados sobre a natureza facultativa da sua participação e garantida confidencialidade no tratamento, caso decidam participar, recolhendo o médico assistente/investigador o seu consentimento informado para o efeito.
+II. Análise
+A CNPD já se pronunciou na sua Deliberação n.° 227/2007 sobre o enquadramento legal, os fundamentos de legitimidade, os princípios orientadores para o correto cumprimento da Lei n.º 67/98, de 26 de outubro (Lei de Proteção de Dados - LPD), bem como as condições gerais aplicáveis ao tratamento de dados pessoais para a finalidade de estudos de investigação na área da saúde.
+Assim, enquadrando-se o caso em apreço no âmbito tipificado pela referida
+Deliberação, porque referentes à saúde e à vida privada, os dados recolhidos pela requerente têm a natureza de sensíveis, razão pela qual o respetivo tratamento só pode basear-se no consentimento expresso, esclarecido e livre dos titulares dos dados, ou dos seus representantes legais, nos termos do disposto no n.º 2 do artigo 7.° da LPD.
+Entende-se por consentimento qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados sejam objeto de tratamento, o qual deve ser obtido através de uma "declaração de consentimento informado " onde seja utilizada uma linguagem clara e acessível.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Proc. N.° 8853/2014 | 3
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Nos termos do artigo 10.º da LPD, a declaração de consentimento tem de conter a identificação do responsável pelo tratamento e a finalidade do tratamento, devendo ainda conter informação sobre a existência e as condições do direito de acesso e de retificação por parte do respetivo titular.
+Os titulares dos dados, de acordo com a declaração de consentimento informado junta aos autos, apõem as suas assinaturas na mesma, deste modo satisfazendo as exigências legais.
+Cabe ao Investigador assegurar a confidencialidade dos dados pessoais e da informação tratada, conforme o estatuído na alínea g) do artigo 10.° da Lei n.° 21/2014, de 16 de abril (Lei da investigação clínica).
+A informação tratada é recolhida de forma lícita (artigo 5.°, n.º1 alínea a) da LPD), para finalidades determinadas, explícitas e legítimas (cf. alínea b) do mesmo artigo) e não é excessiva.
+O fundamento de legitimidade é o consentimento expresso do titular dos dados.
+Conclusão
+Assim, nos termos das disposições conjugadas do n.º 2 do artigo 7.°, n.º 1 do artigo 27.°, alínea a) do n.º 1 do artigo 28.° e artigo 30.º da Lei de Proteção de Dados, com as condições e limites fixados na referida Deliberação n.° 227/2007, que se dão aqui por reproduzidos e que fundamentam esta decisão, autoriza-se o tratamento de dados supra referido, consignando-se o seguinte:
+Responsável pelo tratamento: Laboratórios Pfizer, Lda.;
+Finalidade: Estudo epidemiológico transversal sobre a Incidência de Cancro do
+Pulmão de Não Pequenas Células ALK Positivos em Portugal.
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h
+
+Proc. N.° 8853/2014 4
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Categoria de Dados pessoais tratados: código do participante; dados demográficos (género e data de nascimento); Hábitos tabágicos; Tipo histológico do cancro do pulmão; Teste ALK - resultados dos testes FISH e IHC.
+Entidades a quem podem ser comunicados: Não há.
+Formas de exercício do direito de acesso e retificação: Junto do médico assistente.
+Interconexões de tratamentos: Não há.
+Transferências de dados para países terceiros: Não há.
+Prazo de conservação: A chave de codificação dos dados do titular deve ser destruída um mês após o fim do estudo.
+Dos termos e condições fixados na Deliberação n.º 227/ 2007 e na presente
+Autorização decorrem obrigações que o responsável deve cumprir. Deve, igualmente, dar conhecimento dessas condições a todos os intervenientes no circuito de informação.
+Lisboa, 28 de outubro de 2014
+Filipa Calvão (Presidente)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400
+Fax: 213 976 832 www.cnpd.pt 21 393 00 39
+LINHA PRIVACIDADE
+Dias úteis das 10 às 13 h

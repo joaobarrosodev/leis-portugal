@@ -20,7 +20,7 @@ end_of_validity_date: null
 legal_status: unknown
 notes:
 - 'Entidade: PEUGEOT PORTUGAL AUTOMÓVEIS, S.A.'
-- 'Fonte sem texto: o PDF da CNPD não tem camada de texto (digitalização); falta OCR.'
+- 'Texto obtido por OCR em 1 de 1 página(s) (digitalização): pode ter erros de reconhecimento.'
 language: por
 version:
   kind: original
@@ -69,11 +69,42 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-12T05:25:22Z'
-  warnings:
-  - Sem texto extraído do PDF.
+  warnings: []
   errors: []
 ---
 
 # Registo da CNPD n.º 70/1998
 
-O texto não foi extraído do PDF oficial: [https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20451](https://www.cnpd.pt/umbraco/surface/cnpdDecision/download/20451).
+COMISSÃO NACIONAL
+DE PROTECÇÃO DE DADOS
+Processo n.° 70/98
+REGISTO N.ºQ) ( 12009
+Peugeot Portugal Automóveis, SA notificou um tratamento de dados pessoais com a finalidade de marketing.
+Os dados são recolhidos indirectamente da base de dados de clientes do responsável e da rede de concessionários e reparadores autorizados da marca Peugeut.
+Os dados são pertinentes, adequados e não excessivos face à finalidade declarada (cf. al. b) do artigo 5.° da Lei 67/98, de 26.10)
+O fundamento de legitimidade é o interesse do responsável, previsto na alínea e) do artigo 6° da LPD
+Assim, regista-se ao abrigo dos artigos 27.° n.º 1 e 30.° n.º 1.° da Lei 67/98, de 26 de
+Outubro nos seguintes termos:
+Responsável
+Peugeot Portugal Automóveis, SA
+Finalidade
+Marketing.
+Categoria de dados pessoais tratados
+Forma de exercício do direito de acesso e rectificação
+Comunicações de Dados Pessoais
+Nome, estado civil, morada, telefone, telemóvel, e-mail, viatura actual (modelo e ano), NIF, data de nascimento, n.° de filhos, profissão e passatempos.
+Por escrito, Internet e contacto telefónico ao responsável ou nas redes de concessionários e reparadores autorizados.
+Às empresas à Peugeut França.
+Interconexões
+Não há
+Fluxo transfronteiriço de dados
+Não há
+Conservação dos dados 10 anos após o fim da relação contratual.
+Aos titulares dos dados deve ser garantido o direito de informação previsto no artigo 10.ºda Lei n.º 67/98, de 26 de Outubro. Deve ainda ser garantido o direito de oposição à utilização dos dados para marketing.
+Relativamente ao eventual marketing através de comunicações electrónicas, deve o responsável cumprir o disposto no artigo 20° do Decreto-lei n.º 7/2004, de 7 de Janeiro.
+Os concessionários e reparadores autorizados devem ter os tratamentos de dados pessoais legalizados na CNPD.
+Lisboa, 20/10 /09
+A Secretária da CNPD,
+Dese (Isabel Cristina Cruz)
+Rua de São Bento, 148-3° • 1200-821 LISBOA
+Tel: 213 928 400 ax 712 076 82 21 393 00 3
