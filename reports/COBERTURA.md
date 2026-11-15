@@ -1,6 +1,6 @@
 # Cobertura do acervo
 
-Relatório gerado em 2026-11-14 a partir dos registos presentes em `data/`.
+Relatório gerado em 2026-11-15 a partir dos registos presentes em `data/`.
 
 **Este relatório não representa cobertura integral da legislação portuguesa ou europeia.**
 A metodologia conta apenas ficheiros existentes e válidos no repositório; não usa estimativas.
@@ -384,7 +384,7 @@ A metodologia conta apenas ficheiros existentes e válidos no repositório; não
 
 ## Cobertura face aos sitemaps do DRE
 
-Verificado em 2026-10-27 com `leis-portugal collect dre --missing`: documentos que o DRE lista nos sitemaps públicos (1078567), dos quais 385320 estão no acervo e 693247 faltam. Os sitemaps incluem o catálogo do Jornal Oficial dos Açores que o DRE guarda. Tipos marcados com * são sobretudo da 2.ª Série.
+Verificado em 2026-10-27 com `leis-portugal collect dre --missing`: documentos que o DRE lista nos sitemaps públicos (1078567), dos quais 385326 estão no acervo e 693241 faltam. Os sitemaps incluem o catálogo do Jornal Oficial dos Açores que o DRE guarda. Tipos marcados com * são sobretudo da 2.ª Série.
 
 | Tipo | No DRE | No acervo | Em falta |
 |---|---:|---:|---:|
@@ -417,7 +417,7 @@ Verificado em 2026-10-27 com `leis-portugal collect dre --missing`: documentos q
 | Despacho (extrato) * | 215767 | 576 | 215191 |
 | Declaração de Retificação | 16803 | 16797 | 6 |
 | Declaração de Retificação (extrato) | 8 | 8 | 0 |
-| Declaração * | 25755 | 25754 | 1 |
+| Declaração * | 25755 | 25755 | 0 |
 | Acórdão do Tribunal Constitucional | 165 | 164 | 1 |
 | Acórdão do Supremo Tribunal de Justiça | 207 | 207 | 0 |
 | Acórdão do Supremo Tribunal Administrativo | 122 | 122 | 0 |
@@ -432,10 +432,10 @@ Verificado em 2026-10-27 com `leis-portugal collect dre --missing`: documentos q
 | Regimento | 22 | 21 | 1 |
 | Regimento da Assembleia da República | 6 | 6 | 0 |
 | Regimento do Conselho de Estado | 2 | 2 | 0 |
-| Regulamento * | 18842 | 18839 | 3 |
+| Regulamento * | 18842 | 18841 | 1 |
 | Regulamento da CMVM | 198 | 198 | 0 |
 | Diretiva * | 278 | 51 | 227 |
-| Deliberação * | 23487 | 23484 | 3 |
+| Deliberação * | 23487 | 23487 | 0 |
 | Acordo Coletivo de Trabalho * | 2142 | 2142 | 0 |
 
 ## Registos existentes
