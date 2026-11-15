@@ -19,7 +19,7 @@ O objetivo é tornar o ordenamento jurídico português mais acessível, pesquis
 | Versões | ~10 mil diplomas e atos com o histórico de versões (`.versoes.json`) e consulta do texto numa data (`version-at`) |
 | Texto em vigor consolidado pelo leis-portugal | mais de 2,6 mil diplomas que o DRE dá como alterados mas não consolida: alterações aplicadas por regras ou por um LLM e verificadas às cegas por outro modelo; marcados como **sem valor oficial** (ver [`consolidacao/`](consolidacao/README.md)) |
 | Relações | ~1,04 milhões de relações (alterações, revogações, retificações, citações, transposições); ~89% apontam para um documento do acervo |
-| Decisões (fora da legislação) | 122.223 decisões da CNPD, todas as do histórico de 1994 a 2026 (114.331 autorizações anteriores ao RGPD), 70 % com texto (nos pareceres e deliberações só 6 a 7 %, porque a maioria dos PDF são digitalizações); 29.392 acórdãos do Tribunal Constitucional, todos os de 1983 a 2026 que têm texto no site, e 5.320 decisões sumárias de 1998 a 2026; 8.966 normas julgadas tiradas da decisão dos de 1983 a 2026, com 371 declarações de inconstitucionalidade com força obrigatória geral, ligadas ao diploma (precisão medida às cegas: 90 % em 2016–2026, 78 % antes de 2016) |
+| Decisões (fora da legislação) | 122.223 decisões da CNPD, todas as do histórico de 1994 a 2026 (114.331 autorizações anteriores ao RGPD), 99,7 % com texto (36.197 delas por OCR das digitalizações; 311 continuam sem texto); 29.392 acórdãos do Tribunal Constitucional, todos os de 1983 a 2026 que têm texto no site, e 5.320 decisões sumárias de 1998 a 2026; 8.966 normas julgadas tiradas da decisão dos de 1983 a 2026, com 371 declarações de inconstitucionalidade com força obrigatória geral, ligadas ao diploma (precisão medida às cegas: 90 % em 2016–2026, 78 % antes de 2016) |
 | Fontes operacionais | Diário da República Eletrónico (DRE), EUR-Lex/CELLAR, CNPD e Tribunal Constitucional |
 | Atualização | Diária, por GitHub Actions |
 | Exportação | Índice de relações (JSONL), SQLite e Parquet com os metadados (`leis-portugal export`) |
@@ -496,12 +496,14 @@ Faltam 30: 3 sem texto em nenhuma forma no CELLAR e 4 decisões cujo número ofi
 
 | CNPD, por tipo | No site | No repositório | Com texto |
 |---|--:|--:|--:|
-| Pareceres | 1.798 | 1.798 | 116 (6 %) |
-| Deliberações | 883 | 883 | 63 (7 %) |
-| Registos (anteriores ao RGPD) | 5.202 | 5.202 | 3.012 (58 %) |
+| Pareceres | 1.798 | 1.798 | 1.793 (99,7 %) |
+| Deliberações | 883 | 883 | 882 (99,9 %) |
+| Registos (anteriores ao RGPD) | 5.202 | 5.202 | 5.195 (99,9 %) |
 | Diretrizes e regulamentos | 9 | 9 | 9 |
-| Autorizações (anteriores ao RGPD) | 114.331 | 114.331 | 82.588 (72 %) |
-| **Total** | **122.223** | **122.223** | **85.788 (70 %)** |
+| Autorizações (anteriores ao RGPD) | 114.331 | 114.331 | 114.033 (99,7 %) |
+| **Total** | **122.223** | **122.223** | **121.912 (99,7 %)** |
+
+O texto de 36.197 decisões digitalizadas foi obtido por OCR do macOS (Vision) em 15/11/2026, com a nota «Texto obtido por OCR … pode ter erros de reconhecimento» em cada registo; numa amostra lida à mão o texto sai certo, com os cabeçalhos das páginas pelo meio. As 311 que continuam sem texto são PDF que o OCR não leu (páginas em branco ou ilegíveis).
 
 O número no site é o que o histórico de decisões anuncia para cada ano e tipo; a recolha falha se a listagem não lhe chegar. Os registos sem texto são digitalizações sem camada de texto (num PDF verificado à mão: 3 páginas de imagem de uma fotocopiadora, nenhuma fonte). Ficam com os metadados, a entidade, o início do assunto e a ligação ao PDF oficial, e com a nota «Fonte sem texto»; `collect cnpd --without-text` volta a extraí-los, com OCR do macOS (Vision) quando corre fora de um sandbox.
 

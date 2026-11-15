@@ -46,16 +46,9 @@ Gasta pouco: são consultas ao CELLAR e um script.
   - juntar à avaliação cerca de 50 perguntas desses tipos, verificadas às cegas;
   - repetir a avaliação BM25 com o aviso de inconstitucionalidade de 1983–2026.
 
-## 4. Só no PC, sem gastar o plano (pode correr antes de segunda)
+## 4. OCR da CNPD: feito (15/11)
 
-OCR dos cerca de 36 mil PDF digitalizados da CNPD. São 2 a 3 dias de máquina e pode ser
-interrompido. Corre num Terminal, no checkout principal:
-
-```bash
-LEIS_PORTUGAL_PDFTEXT="/Users/barroso/Documents/Seamless Doubt/leis-portugal/.claude/worktrees/fase2-texto-em-vigor-c8cffe/.cache/pdftext" PYTHONPATH=src .venv/bin/leis-portugal collect cnpd --without-text
-```
-
-No fim, faz o commit dos registos regravados.
+36.197 decisões com texto por OCR; ficam 311 sem texto. Validação sem erros e commit no main.
 
 ## 5. À espera de terceiros
 
