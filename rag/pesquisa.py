@@ -115,7 +115,10 @@ def _numeros_ue(numero: str) -> list[str]:
 
 
 class Pesquisa:
-    def __init__(self, caminho: Path | None = None, *, reranker=None, candidatos: int = 100, codigos_candidatos: int = CODIGOS_CANDIDATOS):
+    def __init__(
+        self, caminho: Path | None = None, *, reranker=None, candidatos: int = 100, codigos_candidatos: int = CODIGOS_CANDIDATOS,
+        reranker_com_perguntas: bool = False,
+    ):
         caminho = caminho or PASTA_INDICE / "indice.sqlite"
         self.con = sqlite3.connect(f"file:{caminho}?mode=ro", uri=True, check_same_thread=False)
         metodo = dict(self.con.execute("SELECT chave, valor FROM meta")).get("metodo_termos")
@@ -135,6 +138,12 @@ class Pesquisa:
         # `rag.indice`): ficam fora do BM25 em todo o acervo. Índices sem a tabela: nenhum.
         tem_tabela = self.con.execute("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'so_referencia'").fetchone()
         self.so_referencia: set[str] = {i for (i,) in self.con.execute("SELECT id FROM so_referencia")} if tem_tabela else set()
+        # Variante do piloto das perguntas por artigo: o reranker também lê as perguntas de leigo do artigo.
+        self.perguntas: dict[tuple[str, str], str] = {}
+        if reranker_com_perguntas:
+            from rag.indice import perguntas_do_indice
+
+            self.perguntas = perguntas_do_indice(self.con)
 
     # ------------------------------------------------------------------ pedaços e documentos
 
@@ -350,7 +359,7 @@ class Pesquisa:
         if self.reranker is not None:
             topo = sorted((r for r in resultados if r.id not in dos_codigos), key=lambda r: (-r.nivel, -r.pontuacao))[: self.reranker.maximo]
             topo += [r for r in resultados if r.id in dos_codigos]
-            for r, s in zip(topo, self.reranker.pontuar(pergunta, [f"{r.rotulo}\n{r.texto}" for r in topo]), strict=True):
+            for r, s in zip(topo, self.reranker.pontuar(pergunta, [self._passagem(r) for r in topo]), strict=True):
                 r.reranker = s
             resultados = topo
             # Um artigo revogado fica atrás dos outros do mesmo nível: numa pergunta sobre a lei em
@@ -370,6 +379,13 @@ class Pesquisa:
         for r in unicos:
             self._avisos(r, data)
         return Consulta(pergunta, data, refs, unicos, citados, em_falta)
+
+    def _passagem(self, r: Resultado) -> str:
+        """O que o reranker lê de um pedaço: o caminho e o texto (e as perguntas de leigo, na variante do piloto)."""
+        perguntas = self.perguntas.get((r.documento, r.chave)) if r.ate is None else None
+        if perguntas:
+            return f"{r.rotulo}\nPerguntas: {' '.join(perguntas.splitlines())}\n{r.texto}"
+        return f"{r.rotulo}\n{r.texto}"
 
     # ------------------------------------------------------------------ texto em vigor e avisos
 

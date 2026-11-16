@@ -217,6 +217,10 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--maximo", type=int, default=30, help="Quantos candidatos o reranker lê.")
     parser.add_argument("--candidatos", type=int, default=100, help="Candidatos de cada BM25.")
     parser.add_argument("--limiar", type=float, help="'Não sei' quando o reranker dá ao melhor artigo menos do que isto.")
+    parser.add_argument(
+        "--reranker-com-perguntas", action="store_true",
+        help="O reranker também lê as perguntas de leigo do artigo (piloto rag.perguntas_por_artigo).",
+    )
     parser.add_argument("--sem-llm", action="store_true", help="Não usar o LLM mesmo que haja chave.")
     parser.add_argument("--sem-reescrita", action="store_true", help="Com LLM, pesquisar pela pergunta tal como está, sem a reescrever (rag.reescrita).")
     parser.add_argument("--sem-reais", action="store_true")
@@ -233,7 +237,7 @@ def main(argv: list[str] | None = None) -> int:
         from rag.modelos import Reranker
 
         reranker = Reranker(args.reranker, maximo=args.maximo)
-    pesquisa = Pesquisa(args.indice, reranker=reranker, candidatos=args.candidatos)
+    pesquisa = Pesquisa(args.indice, reranker=reranker, candidatos=args.candidatos, reranker_com_perguntas=args.reranker_com_perguntas)
     usar_llm = llm_disponivel() and not args.sem_llm
     usar_reescrita = usar_llm and not args.sem_reescrita
     if args.perguntas:
@@ -252,7 +256,8 @@ def main(argv: list[str] | None = None) -> int:
         if n % 50 == 0:
             print(f"{n}/{len(perguntas)} ({time.time() - inicio:.0f} s)", file=sys.stderr, flush=True)
 
-    configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm, "reescrita": usar_reescrita}
+    configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm, "reescrita": usar_reescrita,
+                    **({"reranker_com_perguntas": True} if args.reranker_com_perguntas else {})}
     resumo = guardar(args.nome, configuracao, linhas)
     print(tabela(resumo))
     for tipo in ("revogada",):
