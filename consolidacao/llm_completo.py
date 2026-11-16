@@ -324,6 +324,7 @@ def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, in
         partes += [aviso, ""]
     partes.append("## Texto atual do original, por artigos (e os títulos de divisão, pela ordem do texto)")
     chaves = consolidado.chaves_unicas()
+    antes = _artigos_do_original(extra) if tocados else {}
     for s in consolidado.segmentos:
         if not isinstance(s, Artigo):
             for k, l in enumerate(s):
@@ -337,6 +338,12 @@ def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, in
         sinal = (" [já alterado por um programa]" if s.chave in tocados
                  else " [já alterado numa passagem anterior]" if chave in tocados_llm else "")
         partes += [f"### {chave}{sinal}", s.epigrafe, _NOTA.sub("", s.texto).strip(), ""]
+        o = antes.get(chave) if s.chave in tocados else None
+        if o is not None and (o.epigrafe, o.texto.strip()) != (s.epigrafe, _NOTA.sub("", s.texto).strip()):
+            # Se o programa aplicou mal uma instrução (uma revogação "na parte aplicável a…"), o
+            # LLM só a pode desfazer se vir o texto que o artigo tinha antes.
+            partes += [f"#### {chave}, como estava no original (antes do programa; repõe-no se o programa aplicou mal uma instrução):",
+                       o.epigrafe, o.texto.strip(), ""]
     partes.append("## Diplomas que alteram o original, por ordem de aplicação")
     for n, a in enumerate(alteradores, inicio):
         texto, completo = _texto_alterador(a["path"], registo["title"])
@@ -344,6 +351,15 @@ def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, in
         partes += [f"### Alterador {n}: {a.get('title') or a['id']}{aviso_a}", texto.strip(), ""]
     texto = "\n".join(partes)
     return texto, len(texto)
+
+
+def _artigos_do_original(extra: dict) -> dict[str, Artigo]:
+    """Os artigos do original (antes das regras), pela chave única."""
+    if not extra.get("texto_original"):
+        return {}
+    original = texto_mod.dividir(extra["texto_original"])
+    chaves = original.chaves_unicas()
+    return {chaves[id(a)]: a for a in original.artigos}
 
 
 def _texto_atual(consolidado) -> str:
