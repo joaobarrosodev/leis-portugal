@@ -85,3 +85,14 @@ def test_numeros_do_rotulo():
     # os artigos de outro diploma que o original altera
     assert lc.numeros_do_rotulo("Alterados os arts. 21.º, 26.º e 28.º do Dec Lei 225/85, de 04-Jul") == []
     assert lc.numeros_do_rotulo("Alterados os arts. 2º, 82º e 85º do presente diploma, na redacção do Dec Lei 167/89") == ["2.º", "82.º", "85.º"]
+
+
+def test_anexo_revogado_passa_a_verificacao_letra_a_letra(monkeypatch):
+    monkeypatch.setattr(lc, "_alteradores_da_selecao", lambda selecao: [{"path": "a.md"}])
+    monkeypatch.setattr(lc, "texto_do_alterador", lambda caminho: "É revogado o anexo II.")
+    monkeypatch.setattr(lc, "publicado", lambda caminho: "## ANEXO II\n\n1 - Texto antigo.\n\n2 - Outro.")
+    resposta = {"anexos": [{"titulo": "## ANEXO II", "texto": "(Revogado.)", "alterador": 1},
+                           {"titulo": "## ANEXO III", "texto": "2.4 - (Revogado.)", "alterador": 1}]}
+    assert lc.verificar_resposta(resposta, REGISTO) == []
+    resposta["anexos"][0]["texto"] = "Texto inventado."
+    assert lc.verificar_resposta(resposta, REGISTO) != []

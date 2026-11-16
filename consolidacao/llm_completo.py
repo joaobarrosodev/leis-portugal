@@ -159,7 +159,10 @@ def verificar_resposta(resultado: dict, selecao: dict, textos_atuais: list[str] 
             problemas.append(f"{artigo['chave']}: parágrafo que não está no alterador nem no original: {p[:80]}")
     for anexo in resultado.get("anexos") or []:
         for p in (x.strip() for x in (anexo.get("texto") or "").split("\n\n") if x.strip()):
-            if not vem_de_algum(_plano(p)):
+            # um anexo (ou um número dele) revogado fica "(Revogado.)", como nos artigos
+            if _REVOGADO.match(p) or _REVOGADO.match(_NUMERACAO.sub("", p)) or vem_de_algum(_plano(p)):
+                continue
+            if not vem_de_algum(_plano(_NUMERACAO.sub("", p))):
                 problemas.append(f"anexo {str(anexo.get('titulo'))[:40]}: parágrafo que não está no alterador nem no original: {p[:80]}")
     for titulo in resultado.get("titulos") or []:
         novo = titulo.get("novo")
