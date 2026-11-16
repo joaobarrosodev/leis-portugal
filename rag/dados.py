@@ -107,7 +107,19 @@ def impressoes(con: sqlite3.Connection) -> dict[str, str]:
     for linha in con.execute("SELECT documento, tipo, alvo, alvo_titulo, data FROM relacoes ORDER BY documento, tipo, alvo, data, alvo_titulo"):
         if linha[0] in hashes:
             hashes[linha[0]].update(b"R" + repr(linha[1:]).encode())
+    for documento in so_referencia(con):
+        if documento in hashes:
+            hashes[documento].update(b"S")
     return {k: v.hexdigest() for k, v in hashes.items()}
+
+
+def _tem_so_referencia(con: sqlite3.Connection) -> bool:
+    return con.execute("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'so_referencia'").fetchone() is not None
+
+
+def so_referencia(con: sqlite3.Connection) -> set[str]:
+    """Os diplomas que só se encontram pela referência (`rag.indice --serie-ii-por-referencia`); vazio se não há a tabela."""
+    return {i for (i,) in con.execute("SELECT id FROM so_referencia")} if _tem_so_referencia(con) else set()
 
 
 def gerar_delta(antigo: Path, novo: Path, saida: Path, de: str, para: str) -> dict:
@@ -128,6 +140,8 @@ def gerar_delta(antigo: Path, novo: Path, saida: Path, de: str, para: str) -> di
             s.execute(f"CREATE TABLE documentos ({', '.join(colunas_doc)})")
             s.execute(f"CREATE TABLE pedacos ({_COLUNAS_PEDACO})")
             s.execute("CREATE TABLE relacoes (documento, tipo, alvo, alvo_titulo, data)")
+            s.execute("CREATE TABLE so_referencia (id TEXT PRIMARY KEY)")
+            s.executemany("INSERT INTO so_referencia VALUES (?)", [(d,) for d in sorted(so_referencia(n) & set(mudados))])
             s.executemany("INSERT INTO meta VALUES (?, ?)", [("de", de), ("para", para), ("metodo_termos", metodo_n)])
             s.executemany("INSERT INTO removidos VALUES (?)", [(d,) for d in removidos])
             marcas = ",".join("?" * len(colunas_doc))
@@ -158,6 +172,11 @@ def aplicar_delta(indice: Path, delta: Path) -> dict:
         if meta.get("metodo_termos") != metodo:
             raise RuntimeError("O delta foi feito com outros termos: descarrega a versão completa.")
         con.execute("BEGIN")
+        # Deltas anteriores a 16/11/2026 não têm a tabela: nenhum diploma só pela referência.
+        marcados = so_referencia(d)
+        if marcados:
+            con.execute("CREATE TABLE IF NOT EXISTS so_referencia (id TEXT PRIMARY KEY)")
+        tem_tabela = _tem_so_referencia(con)
         sair = [r[0] for r in d.execute("SELECT id FROM removidos")] + [r[0] for r in d.execute("SELECT id FROM documentos")]
         for documento in sair:
             doc = con.execute("SELECT titulo, sumario FROM documentos WHERE id = ?", (documento,)).fetchone()
@@ -171,6 +190,10 @@ def aplicar_delta(indice: Path, delta: Path) -> dict:
             con.execute("DELETE FROM pedacos WHERE documento = ?", (documento,))
             con.execute("DELETE FROM relacoes WHERE documento = ?", (documento,))
             con.execute("DELETE FROM documentos WHERE id = ?", (documento,))
+            if tem_tabela:
+                con.execute("DELETE FROM so_referencia WHERE id = ?", (documento,))
+        if marcados:
+            con.executemany("INSERT INTO so_referencia VALUES (?)", [(i,) for i in sorted(marcados)])
         proximo = (con.execute("SELECT max(id) FROM pedacos").fetchone()[0] or 0) + 1
         colunas_doc = [c[1] for c in d.execute("PRAGMA table_info(documentos)")]
         marcas = ",".join("?" * len(colunas_doc))
@@ -350,12 +373,20 @@ def _base(pasta: Path, anterior: dict) -> Path:
 
 
 def publicar(
-    indice: Path, pasta: Path, versao: str, *, url_base: str = URL_BASE, completo: bool = False, limite: float = LIMITE_DELTA, remoto: bool = True
+    indice: Path, pasta: Path, versao: str, *, url_base: str = URL_BASE, completo: bool = False, limite: float = LIMITE_DELTA, remoto: bool = True,
+    com_so_referencia: bool = False,
 ) -> tuple[dict, list[Path]]:
     """Prepara em `pasta` a versão `versao`: um delta desde a última publicada ou uma completa nova.
 
     Devolve o manifesto novo e os ficheiros a enviar (o `versao.json` em último). A última publicação
     vem do alojamento (`remoto`); a base do delta é `pasta/publicado.sqlite` ou reconstrói-se (`_base`)."""
+    with sqlite3.connect(f"file:{indice}?mode=ro", uri=True) as con:
+        if so_referencia(con) and not com_so_referencia:
+            # A aplicação 0.1.0 não conhece a tabela: punha a 2.ª Série na pesquisa em todo o acervo.
+            raise RuntimeError(
+                "O índice tem diplomas só pela referência (tabela so_referencia), que a aplicação 0.1.0 não conhece. "
+                "Lança primeiro a aplicação nova e publica com --com-so-referencia."
+            )
     pasta.mkdir(parents=True, exist_ok=True)
     anterior = _manifesto_publicado(pasta, remoto)
     publicado = pasta / "publicado.sqlite"
@@ -442,13 +473,19 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--versao", default=date.today().isoformat())
     p.add_argument("--completo", action="store_true", help="Publicar uma versão completa mesmo que o delta seja pequeno.")
     p.add_argument("--enviar", action="store_true", help="Enviar para o Hugging Face.")
+    p.add_argument(
+        "--com-so-referencia", action="store_true",
+        help="Publicar um índice com a tabela so_referencia (só depois de lançar a aplicação que a conhece).",
+    )
     d = sub.add_parser("descarregar", help="Descarregar a versão publicada (como faz a aplicação).")
     d.add_argument("--pasta", type=Path, required=True)
     args = parser.parse_args(argv)
     if args.comando == "publicar":
         from rag.fontes import PASTA_INDICE
 
-        manifesto, enviar = publicar(args.indice or PASTA_INDICE / "indice.sqlite", args.pasta, args.versao, completo=args.completo)
+        manifesto, enviar = publicar(
+            args.indice or PASTA_INDICE / "indice.sqlite", args.pasta, args.versao, completo=args.completo, com_so_referencia=args.com_so_referencia
+        )
         for f in enviar:
             print(f"{f}: {f.stat().st_size / 1e6:.1f} MB")
         if args.enviar:

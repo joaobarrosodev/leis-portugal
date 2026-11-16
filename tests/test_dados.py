@@ -93,6 +93,46 @@ def test_delta_da_o_mesmo_indice_que_construir_de_raiz(tmp_path):
         assert dict(con.execute("SELECT chave, valor FROM meta"))["versao"] == "2026-11-08"
 
 
+def _marcar_so_referencia(caminho, ids):
+    with sqlite3.connect(caminho) as con:
+        con.execute("CREATE TABLE IF NOT EXISTS so_referencia (id TEXT PRIMARY KEY)")
+        con.execute("DELETE FROM so_referencia")
+        con.executemany("INSERT INTO so_referencia VALUES (?)", [(i,) for i in ids])
+
+
+def test_delta_leva_os_diplomas_so_pela_referencia(tmp_path):
+    # Do índice sem a tabela para um com ela: entra o novo marcado (pt:d) e o que passou a ser (pt:c).
+    antigo, novo = _construir(tmp_path / "a.sqlite", A), _construir(tmp_path / "b.sqlite", B)
+    _marcar_so_referencia(novo, ["pt:c", "pt:d"])
+    dados.gerar_delta(antigo, novo, tmp_path / "delta.sqlite", "1", "2")
+    aplicado = tmp_path / "aplicado.sqlite"
+    shutil.copyfile(antigo, aplicado)
+    dados.aplicar_delta(aplicado, tmp_path / "delta.sqlite")
+    assert _conteudo(aplicado) == _conteudo(novo)
+    with sqlite3.connect(aplicado) as con:
+        assert dados.so_referencia(con) == {"pt:c", "pt:d"}
+    assert _bm25(aplicado, "senhorio arrendamento") == _bm25(novo, "senhorio arrendamento") == []
+    # E de volta: pt:c deixa de ser só pela referência, pt:d continua.
+    _marcar_so_referencia(novo, ["pt:d"])
+    shutil.copyfile(novo, tmp_path / "c.sqlite")
+    with sqlite3.connect(novo) as con:
+        marcados = dados.so_referencia(con)
+    dados.gerar_delta(aplicado, tmp_path / "c.sqlite", tmp_path / "delta2.sqlite", "2", "3")
+    dados.aplicar_delta(aplicado, tmp_path / "delta2.sqlite")
+    with sqlite3.connect(aplicado) as con:
+        assert dados.so_referencia(con) == marcados == {"pt:d"}
+    assert _bm25(aplicado, "senhorio arrendamento") == _bm25(tmp_path / "c.sqlite", "senhorio arrendamento") != []
+
+
+def test_publicar_recusa_a_tabela_so_referencia_sem_a_opcao(tmp_path):
+    indice = _construir(tmp_path / "i.sqlite", A)
+    _marcar_so_referencia(indice, ["pt:c"])
+    with pytest.raises(RuntimeError, match="aplicação 0.1.0"):
+        dados.publicar(indice, tmp_path / "pub", "2026-11-17", url_base="https://exemplo.pt/d/", remoto=False)
+    manifesto, _ = dados.publicar(indice, tmp_path / "pub", "2026-11-17", url_base="https://exemplo.pt/d/", remoto=False, com_so_referencia=True)
+    assert manifesto["versao"] == "2026-11-17"
+
+
 def test_delta_com_outros_termos_e_recusado(tmp_path):
     antigo, novo = _construir(tmp_path / "a.sqlite", A), _construir(tmp_path / "b.sqlite", B)
     with sqlite3.connect(novo) as con:
