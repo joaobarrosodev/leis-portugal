@@ -26,6 +26,7 @@ from typing import Any
 
 from leis_portugal.domain.history import HISTORY_SCHEMA, render_version, summarize, version_at
 from leis_portugal.domain.identifiers import clean_date, pt_record_id
+from leis_portugal.domain.numbering import fix_article_numbers
 from leis_portugal.domain.record import (
     ArticleStructure,
     DerivedMaterial,
@@ -175,7 +176,7 @@ def apply_history(result: HistoryResult, *, acervo: Acervo, dre_source: DreSourc
 
     history_file = acervo.history_path(path)
     current = version_at(history, today) or history["versions"][0]
-    body = render_version(history, current, title=record.title)
+    body, number_notes = fix_article_numbers(render_version(history, current, title=record.title))
     summary = summarize(history, history_file.name)
     if not created and record.version_history == summary and acervo.read_history(path) == json.loads(acervo.render_history(history)):
         return path, "unchanged"
@@ -222,6 +223,7 @@ def apply_history(result: HistoryResult, *, acervo: Acervo, dre_source: DreSourc
         extraction_method="Fragmentos da legislação consolidada do DRE (TipoFragmentoId)",
     )
     record.add_relationships(amended_by, eu_relationships(body))
+    record.notes.extend(note for note in number_notes if note not in record.notes)
     record.derived_material = DerivedMaterial(
         notes="Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões."
     )

@@ -121,7 +121,21 @@ A primeira versão era quase só casos falsos. Foram lidos um a um, e as isenç�
 - **DL 92/92: certo.** O 13.º-A e o 13.º-B foram aditados ao DL 55/87, mas o texto que os adita é o art. 2.º do DL 92/92. O DL 78/2007 revoga esse art. 2.º no art. 14.º, al. b), e extingue o GAE. A revogação pertence a este diploma. O art. 2.º não tem chave própria, porque o parser lhe dá as chaves dos artigos aditados. Por isso, o consolidado marca os dois artigos aditados como revogados e mantém a frase de abertura do art. 2.º.
 - **DRR 2/2005/M: texto certo; a chave errada vem do DRE.** O parser não leu mal: o próprio `TextoFormatado` do DRE escreve "Artigo 212.º" entre o 20.º e o 22.º. O PDF do DR está cifrado com AES e não foi lido. A revogação dos arts. 21.º a 32.º pelo DRR 21/2008/M está certa.
 
-O DRE tem mais gralhas destas. `scripts/numeracao_artigos.py` procura títulos n-1, X, n+1 com X diferente de n e guarda-os em `reports/numeracao_artigos_suspeitas.jsonl`. A 16/11/2026 eram 138 suspeitas em 119 diplomas: 69 gralhas isoladas, 61 números repetidos e 8 trocas. Destas, 80 estão na 2.ª Série e 16 na UE. Confirmei no `TextoFormatado` do DRE outras três gralhas: no DL 337/88, "12.º" no lugar do 19.º; no DL 202/90, "90.º" no do 9.º; no DL 157/92, "251.º" no do 351.º. Nada em `data/` foi corrigido.
+O DRE tem mais gralhas destas. `scripts/numeracao_artigos.py` procura títulos n-1, X, n+1 com X diferente de n e guarda-os em `reports/numeracao_artigos_suspeitas.jsonl`. A 16/11/2026 eram 138 suspeitas em 119 diplomas: 69 gralhas isoladas, 61 números repetidos e 8 trocas. Destas, 80 estão na 2.ª Série e 16 na UE. Confirmei no `TextoFormatado` do DRE outras três gralhas: no DL 337/88, "12.º" no lugar do 19.º; no DL 202/90, "90.º" no do 9.º; no DL 157/92, "251.º" no do 351.º.
+
+**Corrigidas a 16/11/2026: 78 títulos em 73 diplomas** (44 gralhas isoladas e 34 números repetidos; `reports/numeracao_artigos_corrigidos.jsonl`). A regra está em `src/leis_portugal/domain/numbering.py` e só corrige quando a sequência não deixa dúvidas, dentro da mesma parte:
+- os dois artigos antes e os dois depois estão seguidos (num extremo da parte, basta um lado);
+- o número certo não existe noutro artigo da parte;
+- a epígrafe bate com a dos vizinhos e não é a de um artigo de um ato de alteração ("Artigo 2.º — Aditamentos ao Regulamento"), e o mesmo título não aparece igual noutro sítio do registo.
+
+Cada correção deixa em `notes` o que o DRE escreve: "Numeração corrigida: o DRE escreve «Artigo 212.º» entre os artigos 20.º e 22.º; usado o 21.º." A recolha do DRE corrige as gralhas isoladas nos registos novos, tanto no `TextoFormatado` (`sources/dre/mapper.py`) como nos consolidados (`services/versions.py`). Os repetidos só se corrigem com `scripts/corrigir_numeracao.py --repetidos`: os 34 foram lidos um a um, mas um número repetido também pode ser um erro do próprio legislador.
+
+A regra estrita afastou falsos positivos que a lista crua tinha: o art. 10.º do CIRS citado na Lei 30-C/92, o art. 388.º do Código Penal no Acórdão 431/94, e o "Artigo 2.º" do próprio edital que altera, no Edital 643/2003. Confirmei 9 casos no DRE a 16/11:
+- **erro no `TextoFormatado`:** os Editais 214/2003 e 50/2004, os Regulamentos 661/2010, 392/2020 e 89/2025, o DL 465-A/79 e a RAR 80/2001 (três destes são números repetidos: o Edital 50/2004, o Regulamento 392/2020 e o DL 465-A/79);
+- **erro no texto simples do DRE:** no DL 31095, consolidado, "Art. 520.º" no lugar do 526.º;
+- **já corrigida pelo DRE:** no DLR 12/2005/A, o DRE escreve hoje 64.º, o mesmo que a regra propõe.
+
+As 63 suspeitas que sobram têm o motivo em `reports/numeracao_artigos_suspeitas.jsonl`. As da UE não são gralhas do EUR-Lex: são artigos citados (Regulamento 1882/2003) ou artigos aditados com letra ("Artigo 5.º A").
 
 **`rotulo_por_aplicar`: amostra das 12 aplicadas.** Há de tudo:
 - **Falso:** na Lei 77/2017, o rótulo do DL 12/2019 fala dos artigos do DL 96/2013 que a Lei 77/2017 altera, e o LLM ignorou-o bem.

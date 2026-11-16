@@ -8,14 +8,20 @@ Por ordem: primeiro o que gasta pouco, depois o que precisa de modelos.
 Os três estão certos no texto, e o parser lê bem. Os pormenores estão no `consolidacao/README.md`.
 A chave «212.º» do DRR 2/2005/M é uma gralha do próprio DRE.
 
-**Novo: gralhas do DRE na numeração dos artigos.** Há 138 suspeitas em 119 diplomas
-(`reports/numeracao_artigos_suspeitas.jsonl`, feito com `scripts/numeracao_artigos.py`). Uma
-pergunta sobre o art. 21.º não encontra o artigo que o DRE numerou «212.º».
-- Falta decidir como se corrige. Pode ser na recolha, com uma nota que guarda o número do DRE, como
-  o `sources/tc.py` já faz com as datas. Corrigir só as gralhas isoladas; os repetidos e as trocas
-  leem-se um a um.
-- Depois, `data/` no main, `structure` e o índice. O índice pode ser reconstruído na mesma vez que o
-  do ponto 3.
+**Gralhas do DRE na numeração dos artigos: corrigidas (16/11).** Eram 138 suspeitas em 119
+diplomas. Ficaram corrigidos 78 títulos em 73 diplomas: 44 gralhas isoladas e 34 números
+repetidos. Cada um tem uma nota em `notes` com o número que o DRE escreve. A lista está em
+`reports/numeracao_artigos_corrigidos.jsonl`. As regras estão em `consolidacao/README.md`.
+- A recolha do DRE já corrige as gralhas isoladas dos registos novos, mas não os repetidos. Se um
+  dos 34 repetidos voltar a ser recolhido, perde a correção: corre-se outra vez
+  `scripts/corrigir_numeracao.py --repetidos --escrever`.
+- Sobram 63 suspeitas, todas com o motivo em `reports/numeracao_artigos_suspeitas.jsonl`. Quase
+  todas são artigos citados de outros diplomas, números de anexos diferentes ou atos de alteração,
+  e não gralhas. Das 16 da UE, nenhuma é uma gralha do EUR-Lex.
+- **Por fazer:** o `articles.py` não reconhece os artigos com a letra separada («Artigo 78.º A»,
+  «Artigo 292.º ‐A», com o hífen U+2010). São 147 títulos em 45 registos, 64 deles na UE, e o
+  texto desses artigos cola-se ao artigo anterior.
+- Falta o índice, e o `structure` só para o relatório: ficam para a reconstrução do ponto 3.
 
 ## 2. Atos da UE em vigor que ainda faltam (30)
 
