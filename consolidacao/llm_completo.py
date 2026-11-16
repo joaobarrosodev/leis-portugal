@@ -597,10 +597,15 @@ def _junto(resposta: dict, registo: dict) -> dict:
     if consolidado is None or not consolidado.artigos:
         return linha | {"estado": "não junto", "motivo": "original sem artigos: a resposta não tem onde encaixar"}
     alteradores = _alteradores(registo)
+    resposta, repostos = _repor_originais(resposta, extra, consolidado)
     registos_llm, citados, erro = _aplicar(resposta, registo, consolidado)
     if erro:
         return linha | {"estado": "não junto", "motivo": erro}
-    if not registos_llm:
+    if repostos:
+        # o artigo volta ao original: saem as alterações que as regras lhe tinham feito, e não leva nota
+        extra = extra | {"registos": [r for r in extra["registos"] if r.get("artigo") not in repostos]}
+        linha["repostos"] = sorted(repostos)
+    if not registos_llm and not repostos:
         return linha | {"estado": "não junto", "motivo": "a resposta não muda nenhum artigo em relação ao texto das regras"}
 
     aplicados = list(extra["aplicados"])
@@ -621,6 +626,35 @@ def _junto(resposta: dict, registo: dict) -> dict:
     if resposta.get("avisos"):
         linha["avisos_alvos"] = resposta["avisos"]
     return linha
+
+
+def _paragrafos_do_corpo(artigo: Artigo) -> list[str]:
+    corpo = [p.strip() for p in artigo.texto.split("\n\n") if p.strip()]
+    if corpo and artigo.epigrafe and corpo[0] == artigo.epigrafe.strip():
+        corpo = corpo[1:]
+    return corpo
+
+
+def _repor_originais(resposta: dict, extra: dict, consolidado) -> tuple[dict, set[str]]:
+    """Os artigos que as regras mudaram e que a resposta devolve com o texto do original (a regra
+    aplicou mal uma instrução): voltam, letra a letra, ao bloco do original, sem notas. Devolve a
+    resposta sem esses artigos e as chaves (das regras) repostas."""
+    tocados = extra.get("tocados") or set()
+    originais = _artigos_do_original(extra) if tocados else {}
+    if not originais:
+        return resposta, set()
+    atuais = {chave: a for a, chave in ((a, k) for a in consolidado.artigos for k in [consolidado.chaves_unicas()[id(a)]])}
+    ficam, repostos = [], set()
+    for novo in resposta.get("artigos") or []:
+        o, c = originais.get(novo["chave"]), atuais.get(novo["chave"])
+        paragrafos = [p.strip() for p in (novo.get("texto") or "").split("\n\n") if p.strip()]
+        if o is not None and c is not None and c.chave in tocados and paragrafos == _paragrafos_do_corpo(o):
+            k = next(i for i, seg in enumerate(consolidado.segmentos) if seg is c)
+            consolidado.segmentos[k] = Artigo(o.parte, o.numero, o.epigrafe, list(o.linhas))
+            repostos.add(c.chave)
+        else:
+            ficam.append(novo)
+    return (resposta | {"artigos": ficam}), repostos
 
 
 def _ultimos_do_original(registo: dict) -> set[str]:
