@@ -112,6 +112,10 @@ class Acervo:
             # para se manter estável entre recolhas.
             label = (record.document_type_label or record.document_type).split(" ")[0]
             slug = slugify(f"{label} UE {record.official_number or 'sem-numero'}")
+            if disambiguate and record.identifiers.celex:
+                # Dois atos com o mesmo número no mesmo ano (p. ex. a Decisão 2014/541/UE do BCE
+                # e a Decisão n.º 541/2014/UE): o segundo leva o CELEX no nome.
+                slug = f"{slug}-{record.identifiers.celex.lower()}"
             return self.data / EU_SCOPE / directory / str(year) / f"{slug}.md"
 
         document_type = self.types.resolve(record.document_type)
@@ -152,10 +156,11 @@ class Acervo:
         return directory / year / f"{stem}.md"
 
     def resolve_target(self, record: LegalRecord) -> Path:
-        """Caminho onde gravar; desambigua com o id do DRE se outro diploma já o ocupa."""
+        """Caminho onde gravar; desambigua com o id do DRE (ou o CELEX, na UE) se outro
+        diploma já o ocupa."""
         preferred = self.path_for(record)
         occupant = read_record_id(preferred) if preferred.exists() else None
-        if occupant is None or record.same_document(occupant) or record.jurisdiction == EU_SCOPE:
+        if occupant is None or record.same_document(occupant):
             return preferred
         alternative = self.path_for(record, disambiguate=True)
         occupant = read_record_id(alternative) if alternative.exists() else None

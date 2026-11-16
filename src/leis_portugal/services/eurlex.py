@@ -39,7 +39,8 @@ class EurLexIngestion:
     def ingest(self, celex: str, source: EurLexSource | None = None) -> WriteResult:
         document = (source or self.source_factory()).collect(celex, language=self.language, consolidated=self.consolidated)
         record, body = document.record, document.body
-        path = self.acervo.path_for(record)
+        # O ficheiro deste ato (não o de outro com o mesmo número, que ocupa o caminho canónico).
+        path = self.acervo.locate(record)
         if path.exists():
             existing, existing_body = self.acervo.read(path)
             if existing.version_history and self.acervo.read_history(path) is not None:
@@ -51,7 +52,7 @@ class EurLexIngestion:
                 record.integrity = existing.integrity
                 record.source.consolidated_url = existing.source.consolidated_url
                 body = existing_body
-        return self.acervo.save(record, body, policy=EU_POLICY)
+        return self.acervo.save(record, body, target=path, policy=EU_POLICY)
 
     def ingest_many(self, celex_list: list[str], *, workers: int = 1, progress: Progress = silent) -> EurLexRunSummary:
         """Vários CELEX em paralelo (uma sessão CELLAR por thread); uma falha não
