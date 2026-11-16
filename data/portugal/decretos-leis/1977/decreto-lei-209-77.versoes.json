@@ -1,0 +1,333 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:252824:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-05-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48e261230073905b",
+    "23836370ae405d04",
+    "ea1dfaf21c39861e",
+    "4998426015ff1556",
+    "af974c5b2e5916d1",
+    "fa159388f2835a78",
+    "7a1713b6c036d3bc",
+    "c561b90b27e16cda",
+    "bc7d9598a73fd29d",
+    "74ea68bac7df051b",
+    "6151100a46b43646",
+    "958a59163a3026d4",
+    "641a236ffb9df609",
+    "9bc0a3193796f69f",
+    "8694be3fbd2156df",
+    "1a2b48d18f51bb33"
+   ]
+  },
+  {
+   "date": "1978-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278258:por",
+     "title": "Lei n.º 73/77",
+     "published": "1977-09-27",
+     "dre_path": "/dr/detalhe/lei/73-1977-278258"
+    },
+    {
+     "id": "pt:dre:324774:por",
+     "title": "Decreto-Lei n.º 401/78",
+     "published": "1978-12-15",
+     "dre_path": "/dr/detalhe/decreto-lei/401-1978-324774"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "48e261230073905b",
+    "23836370ae405d04",
+    "614792d67b629173",
+    "57004375b5e17078",
+    "fdc662d922a1e9f2",
+    "fa159388f2835a78",
+    "91b89071be227153",
+    "53e1d7a5b78d113e",
+    "e11d1a87b7b313a0",
+    "e78f857edcb77d8a",
+    "0fab9c39b5376477",
+    "e41c163821c37b5b",
+    "641a236ffb9df609",
+    "dd6d6c9d3f14fbc1",
+    "57c8149aa61c5192",
+    "f4e6ad3c640125de"
+   ]
+  }
+ ],
+ "fragments": {
+  "48e261230073905b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Maio\n\nO conceito de retornado assim como as diversas modalidades de assistência e apoio aos cidadãos regressados das ex-colónias em situação de carência encontra-se fixado na resolução do Conselho de Ministros de 5 de Maio do ano findo. Aí se determina que as modalidades estabelecidas serão obrigatoriamente revistas até 31 de Dezembro de 1976.\n\nA fase predominante assistencial, de atendimento e apoio em regime de emergência dos cidadãos vindos das ex-colónias, está de facto concluída:\n\na) Várias formas de apoio organizado estão já programadas com vista à integração sócio-económica de desalojados na vida nacional - resolução do Conselho de Ministros de 21 de Outubro findo;\n\nb) O recenseamento da população desalojada, nos termos do [Decreto-Lei n.º 826-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/826-a-1976-534386), de 17 de Novembro, decorreu de 20 de Novembro a 6 de Dezembro. O tratamento automático da informação recebida vai permitir o melhor conhecimento do desalojado em situação de carência;\n\nc) O regime de protecção social a desalojados, que vai ser estabelecido em decreto-lei, determina a integração nas estruturas dos serviços de emprego, saúde e segurança social a partir de 1 de Janeiro de 1977 das seguintes prestações: subsídio de desemprego, assistência médica e medicamentosa, abono de família e prestações complementares, pensões de invalidez, velhice e sobrevivência.\n\nEm face do exposto, tendo em conta que a evolução verificada possibilita respostas concretas no que respeita à protecção social, a programas de habitação e ao crédito para projectos de actividade económica conducente à criação e manutenção de postos de trabalho, é necessário e oportuno proceder à clarificação do conceito de desalojado em vez de retornado e de situação de carência, assim como ao estabelecimento de orientação quanto a prestações específicas.\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "ea1dfaf21c39861e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Conceito de desalojado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Conceito de desalojado)\n\n1. São considerados desalojados todos os indivíduos de nacionalidade portuguesa vindos das ex-colónias posteriormente a 1 de Setembro de 1974 e anteriormente a 30 de Novembro de 1976 e que, numa destas, tivessem a residência habitual.\n\n2. São ainda considerados desalojados os indivíduos portugueses que satisfaçam os requisitos do número anterior e tenham vindo ou venham para Portugal até 31 de Julho de 1977, desde que provem terem sido impedidos de embarcar antes de 30 de Novembro de 1976 ou terem sido posteriormente forçados a abandonar o território por motivos independentes e estranhos à sua vontade.\n\n3. O disposto no número anterior não se aplica aos funcionários e agentes do Estado ou demais entidades públicas, nem aos cooperantes, quer sejam ou não funcionários."
+  },
+  "4998426015ff1556": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Direito a apoio por parte do Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Direito a apoio por parte do Estado)\n\n1. Em geral poderão beneficiar de apoio por parte do Estado os desalojados em quem não concorram cumulativamente as seguintes condições:\n\na) Alojamento em habitação própria em termos aceitáveis para o comum da sociedade portuguesa, o que inclui o aluguer de quartos ou partes de casa;\n\nb) Posto de trabalho estável por conta própria, que inclui os beneficiários de financiamentos específicos para desalojados, ou por conta de outrem, vencido que seja o período experimental aplicável à profissão.\n\nSão considerados nesta situação os aposentados e os funcionários já integrados no quadro geral de adidos, mesmo na disponibilidade, e bem assim os desalojados que tenham recorrido à emigração, desde que esta se efective, ainda que temporariamente.\n\n2. O disposto no número anterior pode ser objecto de regime especial adaptado às finalidades da respectiva forma de apoio.\n\n3. Oportunamente serão fixados os prazos e regras a que há-de obedecer a total extinção do apoio a desalojados por parte do Estado."
+  },
+  "af974c5b2e5916d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Situação de carência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Situação de carência)\n\n1. Considera-se em situação de carência o desalojado que não aufira rendimentos de qualquer proveniência iguais ou superiores a 60% do salário mínimo nacional ou aquele cujo agregado familiar não atinja de rendimento per capita este valor.\n\n2. Para efeito do número anterior, o agregado familiar é constituído:\n\na) Pelo desalojado e pelo cônjuge;\n\nb) Pelos descendentes em linha recta e equiparados menores de 18 anos ou incapazes;\n\nc) Pelos ascendentes e afins em linha recta e equiparados, sem direito a pensão, que vivam com o desalojado em economia conjunta e na sua dependência económica."
+  },
+  "fa159388f2835a78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Prestações específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Prestações específicas"
+  },
+  "7a1713b6c036d3bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Âmbito quanto às prestações específicas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Âmbito quanto às prestações específicas)\n\n1. Consideram-se prestações específicas a desalojados as formas de ajuda que, pelas suas características, pela sua dimensão ou pela urgência de resposta, não cabem por enquanto nas estruturas normais dos departamentos adequados. Respeitam predominantemente ao alojamento, à integração profissional por pequenas iniciativas e à adaptação social, devendo esta relacionar-se estreitamente com aquelas duas modalidades de prestação específica.\n\n2. São asseguradas pelo Comissariado para os Desalojados, através dos organismos ou serviços que dele dependam e dentro dos limites dos orçamentos aprovados."
+  },
+  "c561b90b27e16cda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Alojamento individual)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Alojamento individual)\n\nA ajuda para alojamento individual, limitada a aspectos não contemplados em programas para habitação de iniciativa do Comissariado ou de outros departamentos, tem por objectivos:\n\na) Contribuir para a primeira instalação do desalojado em casa própria ou arrendada;\n\nb) Promover a colocação de idosos e menores privados de agregado familiar próprio em casas particulares"
+  },
+  "bc7d9598a73fd29d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Alojamentos colectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Alojamentos colectivos)\n\n1. O recurso a alojamentos colectivos tem por objectivo:\n\na) Assegurar a instalação da população activa a título muito transitório;\n\nb) Assegurar a instalação em lares, em condições de dignidade, a grupos de população desalojada socialmente mais desfavorecida, com prioridade para idosos e menores privados de agregado familiar.\n\n2. A instalação a que se refere a alínea a) do número anterior terá lugar em centros temporários de alojamento (CTA), caracterizados, fundamentalmente, pela finalidade de apoio à integração sócio-profissional dos utentes e por não prosseguirem fins lucrativos.\n\n3. Consideram-se equiparados a centros temporários de alojamento os estabelecimentos que, embora com fins lucrativos, se submetam a contratos especiais e sirvam a finalidade referida no número anterior."
+  },
+  "74ea68bac7df051b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Orientações gerais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Orientações gerais)\n\nA instalação em alojamentos colectivos obedecerá aos princípios seguintes:\n\na) Os alojamentos colectivos devem funcionar de preferência em regime de cooperação com entidades especialmente vocacionadas para o efeito e dispondo de equipamentos adequados, em conformidade com acordos ou contratos tipo;\n\nb) A intervenção dos utentes na gestão dos alojamentos colectivos deve ser estimulada e apoiada, tendo em vista promover a sua solidariedade actuante nos propósitos da integração e, bem assim, assegurar a melhoria de qualidade do serviço e a economia de custos;\n\nc) A permanência nos CTA deverá ser acompanhada de acções dirigidas à rápida integração sócio-profissional dos utentes na sociedade portuguesa;\n\nd) As despesas com a estada no CTA devem ser comparticipadas pelos utentes com importâncias variáveis segundo o grau de carência e crescentes em função do tempo de permanência;\n\ne) As despesas nos lares devem ser comparticipadas pelos próprios e pelos seus familiares com importâncias variáveis segundo o respectivo grau de carência."
+  },
+  "6151100a46b43646": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Ajuda à integração profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Ajuda à integração profissional)\n\n1. A ajuda à integração profissional por pequenas iniciativas tem por objectivo contribuir para a inserção do desalojado na actividade profissional e não poderá exceder o montante mínimo que estiver fixado para o sistema de crédito a desalojados.\n\n2. Não são considerados aqueles desalojados que tenham requerido e beneficiem de empréstimos de montante superior ao indicado, qualquer que tenha sido a entidade que o conceda.\n\n3. A prestação específica não excederá o limite de 15000$00 quando revestir a forma de subsídio e revestirá a forma de empréstimo, isento de juros, na parte que eventualmente exceda aquele montante."
+  },
+  "958a59163a3026d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Protecção complementar na saúde)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Protecção complementar na saúde)\n\nA comparticipação nas despesas com a assistência médico-social, que normalmente ficam a cargo dos beneficiários, será assegurada, em casos especiais, mediante estudo individualizado da situação."
+  },
+  "641a236ffb9df609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias"
+  },
+  "9bc0a3193796f69f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Normas regulamentares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Normas regulamentares)\n\n1. As condições de atribuição de cada uma das prestações, a sua natureza e montantes, incluindo a comparticipação dos utentes, e o modo de funcionamento dos equipamentos, assim como a articulação das entidades intervenientes, deverão ser estabelecidos em normas regulamentares a elaborar com a participação de representantes dos utentes e a aprovar pelo Alto-Comissário.\n\n2. A aplicação destas normas deverá ser avaliada semestralmente de modo a permitir a sua revisão no sentido da integração progressiva das diversas prestações nas estruturas normais ou a sua oportuna cessação."
+  },
+  "8694be3fbd2156df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Interpretação e integração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Interpretação e integração)\n\n1. As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Alto-Comissário para os Desalojados.\n\n2. O Alto-Comissário poderá transitoriamente recorrer a formas de ajuda de carácter excepcional para integração sócio-económica do desalojado, desde que permitam a redução imediata de vultosos encargos economicamente inúteis.\n\n3. Para além do estabelecido no presente diploma, o Alto-Comissário poderá determinar o atendimento de casos excepcionais a fim de responder a situações não previstas neste diploma e que apresentem um carácter particular de gravidade ou de urgência."
+  },
+  "1a2b48d18f51bb33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Revisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Revisão)\n\nO presente diploma será revisto um ano após a sua entrada em vigor.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Joaquim Jorge de Pinho Campinos.\n\nPromulgado em 16 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "614792d67b629173": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Conceito de desalojado)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 73/77](https://diariodarepublica.pt/dr/detalhe/lei/73-1977-278258), publicado em 1977-09-27."
+   ],
+   "markdown": "###### Artigo 1.º — (Conceito de desalojado)\n\n1. São considerados desalojados:\n\na) Os portugueses vindos das ex-colónias posteriormente a 1 de Setembro de 1974 e anteriormente a 30 de Novembro de 1976, que, numa delas, tivessem residêncial habitual;\n\nb) Os portugueses que satisfaçam os requisitos do número anterior e tenham vindo, ou venham, para Portugal até 31 de Julho de 1977, desde que tenham sido forçados a abandonar o território por motivos independentes e estranhos à sua vontade;\n\nc) Os portugueses que, em 1 de Setembro de 1974, tivessem residência habitual numa das ex-colónias, mas que, por virtude de doença ou férias, se encontrassem em Portugal a partir de data não anterior a 1 de Março do mesmo ano;\n\nd) Os portugueses vindos das ex-colónias antes de 1 de Setembro de 1974 que tenham mais de 50 anos de idade e vinte de residência em qualquer delas, que, àquela data, viviam exclusivamente dos rendimentos de bens que lá possuíam e se encontrem agora em situação de carência, nos termos do artigo 3.º\n\n2. A prova da condição de desalojado será apreciada casuisticamente pelo Alto-Comissário.\n\n3. O disposto no número anterior não se aplica aos funcionários e agentes do Estado ou demais entidades públicas, nem aos cooperantes, quer sejam ou não funcionários.\n\n> Alterado pelo/a [Lei n.º 73/77](https://diariodarepublica.pt/dr/detalhe/lei/73-1977-278258), publicado em 1977-09-27."
+  },
+  "57004375b5e17078": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Direito a apoio por parte do Estado)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 2.º — (Direito a apoio por parte do Estado)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "fdc662d922a1e9f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Situação de carência)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 3.º — (Situação de carência)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "91b89071be227153": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Âmbito quanto às prestações específicas)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 4.º — (Âmbito quanto às prestações específicas)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "53e1d7a5b78d113e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Alojamento individual)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 5.º — (Alojamento individual)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "e11d1a87b7b313a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Alojamentos colectivos)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 6.º — (Alojamentos colectivos)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "e78f857edcb77d8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Orientações gerais)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 7.º — (Orientações gerais)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "0fab9c39b5376477": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Ajuda à integração profissional)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 8.º — (Ajuda à integração profissional)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "e41c163821c37b5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Protecção complementar na saúde)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 9.º — (Protecção complementar na saúde)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "dd6d6c9d3f14fbc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Normas regulamentares)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 10.º — (Normas regulamentares)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "57c8149aa61c5192": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Interpretação e integração)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 11.º — (Interpretação e integração)\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3. Para além do estabelecido no presente diploma, o Alto-Comissário poderá determinar o atendimento de casos excepcionais a fim de responder a situações não previstas neste diploma e que apresentem um carácter particular de gravidade ou de urgência.\n\n> Alterado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+  },
+  "f4e6ad3c640125de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Revisão)",
+   "in_force_from": "1978-12-15",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15."
+   ],
+   "markdown": "###### Artigo 12.º — (Revisão)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Joaquim Jorge de Pinho Campinos.\n\nPromulgado em 16 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

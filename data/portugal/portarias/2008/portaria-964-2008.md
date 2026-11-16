@@ -40,10 +40,41 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-11-21'
+version_history:
+  file: portaria-964-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-11-21'
+    amending: pt:dre:490967:por
+    amending_title: Portaria n.º 1141/2009; Portaria n.º 814/2010; Portaria n.º 228/2011; Portaria n.º 253/2013; Portaria
+      n.º 243/2014
+    changes:
+    - Altera Artigo ANEXO::6.º
+    - Altera Artigo ANEXO::9.º
+    - Altera Artigo ANEXO::12.º
+    - Altera Artigo ANEXO::13.º
+    - Altera Artigo ANEXO::14.º
+    - Adita Artigo ANEXO::16.º-A
+    - Revoga Artigo ANEXO::25.º
+    - Altera Artigo ANEXO::7.º
+    - Altera Artigo ANEXO::21.º
+    - Altera Artigo ANEXO::23.º
+    - Altera Artigo ANEXO::24.º
+    - Altera Artigo ANEXO::15.º
+    - Altera Artigo ANEXO::16.º
+    - Altera Artigo ANEXO::17.º
+    - Altera Artigo ANEXO::18.º
+    - Altera Artigo ANEXO::20.º
+    - Altera Artigo ANEXO I — Despesas elegíveis
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/964/2008/08/28/p/dre/pt/html
@@ -69,7 +100,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:35:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1141/2009; Portaria
+    n.º 814/2010; Portaria n.º 228/2011; Portaria n.º 253/2013; Portaria n.º 243/2014. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/portarias/2008/portaria-964-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -268,17 +301,19 @@ b) Cumprirem as condições legais necessárias ao exercício da respectiva acti
 
 c) Disporem de capacidade técnica adequada;
 
-d) Terem a situação regularizada face à administração fiscal e à segurança social;
+d) (Revogada.)
 
 e) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;
 
-f) Disporem de contabilidade actualizada e organizada de acordo com as especificações do Plano Oficial de Contabilidade;
+f) (Revogada.)
 
 g) Possuírem declaração, emitida pela comissão de coordenação e desenvolvimento regional (CCDR) respectiva, nos termos do artigo 65.º da Lei n.º 58/2005, de 29 de Dezembro, com informação favorável sobre a possibilidade de utilização dos recursos hídricos para rega.
 
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
 ###### Artigo 7.º — Critérios de elegibilidade das operações
 
-Podem beneficiar dos apoios previstos no presente Regulamento os projectos de investimento que se enquadrem nos objectivos previstos no artigo 2.º e que reúnam as seguintes condições:
+1 - Podem beneficiar dos apoios previstos no presente Regulamento os projectos de investimento que se enquadrem nos objectivos previstos no artigo 2.º e que reúnam as seguintes condições:
 
 a) Apresentem uma entidade pública ou privada que assegure a gestão do aproveitamento hidroagrícola;
 
@@ -306,6 +341,30 @@ g) Apresentem uma percentagem igual ou inferior a 15 % de solos hidromórficos o
 
 h) Apresentem uma percentagem igual ou superior a 80 % de solos com boa ou moderada aptidão para o regadio na área a beneficiar, de acordo com a classificação para o efeito do ex-Serviço de Reconhecimento e Ordenamento Agrário.
 
+2 - As operações que se enquadrem na tipologia prevista na alínea b) do artigo 11.º devem ainda reunir as seguintes condições:
+
+a) Comprovar a qualidade de água para rega com as seguintes características:
+
+i) Condutividade eléctrica menor ou igual a 1 dS/m (decisiemens/metro);
+
+ii) Índice sodium adsorption ratio (SAR) menor ou igual a 4;
+
+iii) pH maior ou igual a 6,0 e menor ou igual a 8,4;
+
+iv) Número de coliformes fecais por 100 ml de água inferior aos limites legais máximos permitidos;
+
+v) Número de ovos de parasitas intestinais por litro de água inferior ao limite legal máximo permitido;
+
+b) Apresentar uma percentagem igual ou inferior a 15 % de solos hidromórficos ou para-hidromórficos na área a beneficiar;
+
+c) Apresentar uma percentagem igual ou superior a 80 % de solos com boa ou moderada aptidão para o regadio na área a beneficiar, de acordo com a classificação para o efeito do ex-Serviço de Reconhecimento e Ordenamento Agrário.
+
+3 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.
+
+4 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
+
 ###### Artigo 8.º — Despesas elegíveis
 
 As despesas elegíveis são as constantes do anexo i ao presente Regulamento.
@@ -324,7 +383,7 @@ d) Cumprir as obrigações legais, designadamente as fiscais e relativas à segu
 
 e) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;
 
-f) Manter um sistema de contabilidade nos termos previstos no artigo 6.º;
+f) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;
 
 g) Manter a actividade e as condições legais necessárias ao exercício da mesma, até ao termo da operação;
 
@@ -332,13 +391,15 @@ h) Comunicar à autoridade de gestão do PRODER, a seguir designada autoridade d
 
 i) Evidenciar, de forma clara e a qualquer momento, todos os movimentos económicos e financeiros relacionados com a operação, através do recurso a contas de ordem ou da contabilidade analítica, ou outra qualquer desagregação contabilística que permita separar os movimentos da operação dos restantes movimentos contabilísticos;
 
-j) Não locar, alienar ou por qualquer forma onerar os equipamentos e as instalações co-financiadas, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos sem prévia autorização da autoridade de gestão;
+j) Não locar, alienar ou por qualquer forma onerar os equipamentos e as instalações co-financiadas, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização do gestor do PRODER;
 
 l) Manter, devidamente organizados e até três anos após a data de encerramento do PRODER, todos os documentos originais susceptíveis de comprovar as informações e as declarações prestadas no âmbito do pedido de apoio que fundamentaram as opções de investimento apresentadas, bem como os documentos comprovativos da realização das despesas, para consulta em qualquer momento pelos organismos intervenientes no processo de análise, acompanhamento e controlo das operações;
 
 m) Garantir que todos os pagamentos e recebimentos referentes à operação são feitos através da conta bancária específica para o efeito;
 
 n) Assegurar, por si ou por outra entidade pública ou privada, a gestão, exploração e conservação das infra-estruturas após a conclusão da obra nos termos da legislação hidroagrícola em vigor.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 10.º — Forma e nível dos apoios
 
@@ -364,19 +425,25 @@ b) Grupo B - outros projectos de aproveitamentos hidroagrícolas em fases difere
 
 2 - A VGO é calculada de acordo com a metodologia constante do anexo ii.
 
-3 - Para o cálculo da VGO dos pedidos de apoio, a autoridade de gestão pode proceder à recolha da informação considerada necessária.
+3 - Para o cálculo da VGO dos pedidos de apoio, o secretariado técnico pode proceder à recolha da informação considerada necessária.
+
+4 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ### CAPÍTULO II — Procedimento
 
 ###### Artigo 13.º — Apresentação dos pedidos de apoio
 
-1 - Os pedidos de apoio para cada uma das tipologias de projecto referidas no artigo 11.º são submetidos por concurso, ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, divulgado pela autoridade de gestão, com a antecedência de 15 dias relativamente à data de início de concurso.
+1 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.
 
-2 - A apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, www.proder.pt, estando sujeitos a confirmação por via electrónica, considerando-se a data do envio como a data de apresentação do pedido de apoio.
+2 - A apresentação dos pedidos de apoio efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.
 
-###### Artigo 14.º — Avisos de abertura
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
-1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após a audição da autoridade de gestão e homologação do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:
+###### Artigo 14.º — Avisos de abertura e anúncios
+
+1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
 
 a) Os objectivos e as prioridades visadas;
 
@@ -392,31 +459,45 @@ f) O número máximo de pedidos de apoio admitidos por beneficiário;
 
 g) A forma e nível dos apoios a conceder, respeitando o disposto no artigo 10.º;
 
-h) As componentes dos factores da valia global da operação e respectiva ponderação, aplicáveis em função das prioridades e objectivos fixados para cada concurso.
+h) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridade fixados.
 
-2 - Os avisos de abertura dos concursos são divulgados em www.proder.pt, publicados em dois jornais de grande circulação e, quando se justifique, num jornal regional relevante na área geográfica do respectivo concurso.
+2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 15.º — Análise dos pedidos de apoio
 
-1 - A autoridade de gestão analisa e emite parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação, bem como a aplicação dos factores referidos no anexo ii, o apuramento do montante do custo total elegível e o nível de apoio previsional, e procedem à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da valia global da operação.
+1 - O secretariado técnico analisa e emite parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade, da operação e do beneficiário, a aplicação dos factores referidos no anexo II e o apuramento do montante do custo total elegível e procede à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da valia global da operação.
 
-2 - São solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, que devem ser prestados no prazo de 10 dias úteis, decorridos os quais a ausência de resposta constitui fundamento de não aprovação do pedido.
+2 - São solicitados aos candidatos, quando se justifique, pelo secretariado técnico, os documentos exigidos no formulário do pedido ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
 
 3 - Para efeitos da análise técnica, quando necessário, podem ser solicitados pareceres especializados junto de organismos do MADRP, de acordo com as respectivas competências, ou a entidades externas;
 
-4 - O parecer referido no n.º 1 é emitido no prazo máximo de 30 dias úteis a contar da data de recepção dos pedidos de apoio;
+4 - O parecer referido no n.º 1 é emitido no prazo máximo de 90 dias úteis a contar do termo do prazo de apresentação dos pedidos de apoio e, em função do princípio da coesão territorial e da dotação orçamental referida no respectivo aviso de abertura, remetido com a correspondente hierarquização ao gestor.
 
-5 - O gestor, ouvida a autoridade de gestão, elabora proposta de decisão, que envia ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+5 - O gestor, após audição da comissão de gestão, elabora proposta de decisão que envia ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+> Alterado pelo/a [Portaria n.º 1141/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1141-2009-490967), publicado em 2009-10-01.
 
 ###### Artigo 16.º — Decisão dos pedidos de apoio
 
-Os pedidos de apoio são objecto de decisão pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sendo a mesma notificada aos candidatos pelo gestor no prazo máximo de cinco dias úteis após a sua recepção.
+Os pedidos de apoio são objecto de decisão pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sendo a mesma comunicada aos candidatos pelo secretariado técnico no prazo máximo de cinco dias úteis após a sua recepção.
+
+> Alterado pelo/a [Portaria n.º 1141/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1141-2009-490967), publicado em 2009-10-01.
+
+###### Artigo 16.º-A — Readmissão de pedidos de apoio
+
+Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.
+
+> Aditado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 17.º — Contrato de financiamento
 
-1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário ou beneficiários e o IFAP, I. P.
+1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário ou beneficiários e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)
 
-2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data da notificação, pelo gestor, da decisão do Ministro, que dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março.
+2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção, pelo gestor, da decisão do Ministro, que dispõe de 20 dias úteis para devolução do mesmo devidamente assinado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março.
+
+> Alterado pelo/a [Portaria n.º 1141/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1141-2009-490967), publicado em 2009-10-01.
 
 ###### Artigo 18.º — Execução das operações
 
@@ -424,7 +505,9 @@ Os pedidos de apoio são objecto de decisão pelo Ministro da Agricultura, do De
 
 2 - O prazo máximo para os beneficiários iniciarem a execução física das operações é de seis meses, contados a partir da data da assinatura do contrato de financiamento, e termina na data fixada no plano de investimento apresentado para a sua conclusão, não podendo ultrapassar 31 de Dezembro de 2013.
 
-3 - Em casos excepcionais e devidamente justificados, a autoridade de gestão pode autorizar a prorrogação dos prazos estabelecidos no número anterior.
+3 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior.
+
+> Alterado pelo/a [Portaria n.º 1141/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1141-2009-490967), publicado em 2009-10-01.
 
 ###### Artigo 19.º — Alteração do projecto
 
@@ -434,27 +517,31 @@ Os pedidos de apoio são objecto de decisão pelo Ministro da Agricultura, do De
 
 ###### Artigo 20.º — Apresentação dos pedidos de pagamento
 
-1 - A apresentação dos pedidos de pagamento efectua-se, mensalmente, até ao dia 20 de cada mês, através de formulário electrónico disponível no sítio da Internet, em www.proder.pt, estando sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
+1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
-2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues no secretariado técnico, bem como, quando aplicável, a documentação do procedimento estipulado na alínea b) do artigo 9.º, nos termos das cláusulas contratuais e dos números seguintes, no prazo de cinco dias úteis.
+2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues no secretariado técnico bem como, quando aplicável, a documentação do procedimento estipulado na alínea b) do artigo 9.º, no prazo de cinco dias úteis a contar da data de apresentação do pedido.
 
-3 - Apenas são aceites os pedidos de pagamento relativos a despesas liquidadas por transferência bancária ou, excepcionalmente, por cheque até ao máximo de (euro) 1 500 000, comprovadas pelo respectivo extracto bancário demonstrativo do pagamento.
+3 - Apenas são aceites os pedidos de pagamento relativos a despesas efectuadas por transferência bancária, por débito em conta ou por cheque, comprovadas pelo respectivo extracto bancário demonstrativo do pagamento, nos termos das cláusulas contratuais e dos números seguintes.
 
-4 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, até ao montante máximo de 20 % do apoio.
+4 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, mediante a constituição de caução correspondente a 110 % do montante do adiantamento.
 
-5 - O pagamento é proporcional à realização do investimento elegível e às demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 5 % da despesa total elegível da operação.
+5 - O pagamento é proporcional à realização da operação nos termos das condições contratuais.
 
-###### Artigo 21.º — Análise dos pedidos de pagamento e autorização da despesa
+> Alterado pelo/a [Portaria n.º 243/2014](https://diariodarepublica.pt/dr/detalhe/portaria/243-2014-58957683), publicado em 2014-11-20.
 
-1 - O secretariado técnico analisa os pedidos de pagamento que devem dar entrada neste o mais tardar 27 meses após a assinatura do respectivo contrato de financiamento, excepto nos casos previstos no n.º 3 do artigo 16.º, em que o pedido de pagamento do saldo deve ser apresentado três meses após o fim do prazo de prorrogação autorizado.
+###### Artigo 21.º — Análise dos pedidos de pagamento
 
-2 - Podem ser solicitados aos beneficiários elementos complementares, que devem ser prestados no prazo de 10 dias úteis, decorridos os quais a ausência de resposta constitui fundamento de não aprovação do pedido.
+1 - O secretariado técnico analisa os pedidos de pagamento e emite o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.
 
-3 - Da análise referida no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação do respectivo pedido de pagamento.
+2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
 
-4 - São realizadas visitas aos locais da operação durante o seu período de execução.
+3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.
 
-5 - Para efeitos de pagamento ao beneficiário, o gestor emite as autorizações de despesa validada e envia-as ao IFAP, I. P.
+4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
+
+5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 22.º — Pagamento
 
@@ -464,25 +551,23 @@ Os pedidos de apoio são objecto de decisão pelo Ministro da Agricultura, do De
 
 ###### Artigo 23.º — Controlo
 
-1 - O projecto está sujeito a controlos, a efectuar durante a execução da operação e até 24 meses após a realização do pagamento final.
+1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
-2 - Caso o período compreendido entre a data de assinatura do contrato de financiamento e a data limite definida no número anterior seja inferior a cinco anos, passará a ser considerado este prazo para a sua execução.
+2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo elaborado o respectivo relatório da visita, devendo do mesmo ser notificado o beneficiário, que tem 10 dias úteis para dizer o que se lhe oferecer.
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 24.º — Reduções e exclusões
 
-Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.
+Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 25.º — Disposição transitória
 
-1 - As despesas efectuadas após 1 de Janeiro de 2007 são consideradas elegíveis quando sejam satisfeitas cumulativamente as seguintes condições:
+(Revogado.)
 
-a) Os candidatos apresentem os pedidos de apoio de acordo com o artigo 13.º;
-
-b) As respectivas operações não estejam concluídas antes da data da aprovação do pedido de apoio.
-
-2 - Às despesas referidas no n.º 1 não é aplicável o disposto na alínea l) do artigo 9.º nem o limite dos pagamentos efectuados por cheque, desde que esses pagamentos tenham sido efectuados anteriormente à publicação do presente Regulamento.
+> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ## ANEXO I — Despesas elegíveis
 
@@ -512,9 +597,11 @@ i) Obras de adaptação ao regadio;
 
 j) Centrais mini-hídricas.
 
+l) Acções de estruturação fundiária associadas à implementação de aproveitamentos hidroagrícolas e ou de blocos de rega de aproveitamentos hidroagrícolas, perímetros e blocos de rega, incluindo estudo prévio, elaboração e execução do projecto, indemnizações por perda de rendimento, colocação de marcos, titulação, inscrição e registo de novos lotes.
+
 3 - Construção e equipamento das sedes das associações de beneficiários e instalações de apoio à gestão dos aproveitamentos hidroagrícolas.
 
-4 - Expropriações e indemnizações necessárias à execução das obras até ao limite de 10 % da despesa elegível total da operação.
+4 - Expropriações e indemnizações necessárias à execução das obras até 10% do valor elegível aprovado da operação.
 
 5 - Acompanhamento, assistência técnica e fiscalização das obras.
 
@@ -536,7 +623,9 @@ j) Centrais mini-hídricas.
 
 14 - Acções de dinamização da adesão ao regadio.
 
-15 - Revisões de preços decorrentes da legislação aplicável, até ao limite de 5 % do montante sujeito.
+15 - Revisões de preços decorrentes da legislação aplicável.
+
+> Alterado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
 
 ## ANEXO II — Metodologia de cálculo da valia global da operação
 

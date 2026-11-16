@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-03-15'
+version_history:
+  file: decreto-lei-380-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-10-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-15'
+    amending: pt:dre:628041:por
+    amending_title: Decreto-Lei n.º 72/93; Decreto-Lei n.º 72/93
+    changes:
+    - Revoga Artigo 6.º
+    - Revoga Artigo 6.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:54:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 72/93; Decreto-Lei
+    n.º 72/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-380-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -221,9 +239,15 @@ b) Completar a carreira contributiva, tendo em vista a melhoria quantitativa das
 
 ###### Artigo 3.º — Âmbito pessoal
 
-1 - Os beneficiários activos do regime geral de segurança social residentes em Portugal que apresentem prova de períodos de actividade a que não tenha correspondido pagamento de contribuições podem requerer o pagamento retroactivo, ainda que as mesmas respeitem a períodos não abrangidos por qualquer regime de previdência ou de segurança social de inscrição obrigatória.
+1 - Os beneficiários activos do regime geral de segurança social, nacionais ou estrangeiros, residentes em Portugal, que apresentem prova de períodos de actividade profissional exercida em território nacional a que não tenha correspondido pagamento de contribuições podem requerer o pagamento retroactivo, ainda que as mesmas respeitem a períodos não abrangidos por qualquer regime de previdência ou de segurança social de inscrição obrigatória.
 
-2 - A faculdade prevista no número anterior é aplicável aos trabalhadores não inscritos no sistema de segurança social.
+2 - A faculdade prevista no número anterior é ainda aplicável:
+
+a) A beneficiários já pensionistas;
+
+b) A pessoas que, enquanto trabalhadores, não tivessem sido inscritos no sistema de segurança social.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.
 
 ###### Artigo 4.º — Situações excluídas
 
@@ -249,7 +273,11 @@ c) Nas actividades agrícolas, silvícolas e pecuárias, excepto quanto aos trab
 
 2 - Nos casos em que, para efeitos da contagem do prazo de garantia exigido para atribuição de direito a pensão de invalidez, for necessário recorrer a período objecto de retroacção nos termos do presente diploma, o direito àquela prestação só se efectiva quando o beneficiário for reconhecido como incapacitado para toda e qualquer profissão.
 
-3 - Quando se trata de beneficiários não vinculados ao sistema de segurança social anteriormente ao requerimento da retroacção, o montante das pensões corresponde ao valor calculado para a pensão regulamentar, sem que haja lugar à aplicação das normas sobre limites mínimos, quer do valor das pensões quer da taxa de formação das mesmas.
+3 - (Revogado.)
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.
 
 ###### Artigo 7.º — Limites temporais da retroacção
 
@@ -257,7 +285,11 @@ c) Nas actividades agrícolas, silvícolas e pecuárias, excepto quanto aos trab
 
 2 - Os períodos a considerar para efeitos de pagamento retroactivo devem ainda ser posteriores à data em que o interessado perfez 14 anos de idade.
 
-3 - Tratando-se de interessados não vinculados ao sistema de segurança social, o pedido de retroacção só pode ser deferido se se reportar a períodos que totalizem pelo menos 180 meses.
+3 - Tratando-se de pensionistas, os períodos a que se reportam os números anteriores não podem ser posteriores à data da atribuição da pensão nem exceder 37 anos quando somados com os períodos de carreira contributiva normal dos interessados.
+
+4 - Relativamente a interessados não vinculados ao sistema de segurança social, o pedido de retroacção só pode ser deferido se se reportar a períodos que totalizem, pelo menos, 144 meses.
+
+> Alterado pelo/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.
 
 ###### Artigo 8.º — Condições gerais de retroacção
 

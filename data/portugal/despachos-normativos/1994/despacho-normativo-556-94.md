@@ -38,10 +38,50 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-06-17'
+version_history:
+  file: despacho-normativo-556-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-06-17'
+    amending: pt:dre:471158:por
+    amending_title: Despacho Normativo n.º 42/98
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Altera Artigo ANEXO A — Índice da estrutura do diagnóstico e análise estratégica para infra-estruturas tecnológicas
+      previsto na alínea a) do n.º 3 do artigo 6.º
+    - Altera Artigo ANEXO B — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea
+      b) do n.º 4 do artigo 6.º
+    - Altera Artigo ANEXO C — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea
+      a) do n.º 5 do artigo 6.º
+    - Altera Artigo ANEXO D — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea
+      a) do n.º 6 do artigo 6.º
+    - Altera Artigo ANEXO A — Índice da estrutura do diagnóstico e análise estratégica para infra-estruturas tecnológicas
+      previsto na alínea a) do n.º 3 do artigo 6.º
+    - Altera Artigo ANEXO B — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea
+      b) do n.º 4 do artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/556/1994/07/29/p/dre/pt/html
@@ -67,7 +107,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:21:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 42/98. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-556-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,11 +189,13 @@ Assim, determina-se o seguinte:
 
 2 - O presente Regime de Apoio tem por objecto:
 
-a) Promover o desenvolvimento e a consolidação das infra-estruturas tecnológicas existentes, no quadro de um plano de acção estratégico, em que se deverão privilegiar a intensificação das ligações junto do tecido empresarial e o reforço da cooperação inter-infra-estruturas;
+a) Promover o desenvolvimento e a consolidação das infra-estruturas tecnológicas existentes, no quadro de um plano estratégico, mediante o reforço das suas competências técnicas e capacidade de gestão, nesta vertente com especial incidência nas áreas de organização e marketing e o reforço da cooperação interinfra-estruturas;
 
 b) Acelerar o processo de partilha de experiências entre dirigentes e quadros técnicos de infra-estruturas tecnológicas através do apoio à mobilidade internacional de especialistas;
 
 c) Criar condições que garantam o sucesso do processo de transerência tecnológica mediante a dinamização da mobilidade dos técnicos entre a indústria e as infra-estruturas.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ###### Artigo 2.º — Âmbito
 
@@ -162,17 +205,19 @@ c) Criar condições que garantam o sucesso do processo de transerência tecnol�
 
 a) Acção A - Acções de desenvolvimento e consolidação - acções consubstanciadas em projectos integrados de investimento nas diversas áreas funcionais da infra-estrutura tecnológica, devidamente justificados por um diagnóstico e análise estratégica.
 
-Esta acção é constituída por duas fases, sendo a primeira referente ao diagnóstico e análise estratégica e a segunda ao próprio plano de consolidação, podendo os promotores candidatar-se simultaneamente às duas fases:
+Esta acção é constituída por duas fases, sendo a primeira referente ao diagnóstico e análise estratégica e a segunda ao próprio projecto de consolidação, podendo os promotores candidatar-se simultaneamente às duas fases:
 
-Fase 1 - os diagnósticos e análises estratégicas das infra-estruturas deverão ter em atenção, em cada caso, a sua envolvente e condicionantes externas que qualifiquem e quantifiquem a sua actividade nos seus múltiplos aspectos, nomeadamente capacidade tecnológica, qualificação e alocação de recursos humanos, credibilidade na comunidade empresarial, organização interna, promoção dos serviços (negócios) e situação financeira;
+Fase 1 - os diagnósticos e análises estratégicas das infra-estruturas deverão ter em atenção, em cada caso, a sua envolvente e as condicionantes internas e externas que determinam a sua actividade nos seus múltiplos aspectos, nomeadamente capacidade tecnológica, qualificação e alocação de recursos humanos, credibilidade na comunidade empresarial, organização interna, promoção dos serviços (negócios) e situação financeira.
+
+§ 1.º As infra-estruturas tecnológicas às quais estejam ou venham a estar atribuídas competências no domínio da formação profissional no quadro do PEDIP II deverão integrar no respectivo diagnóstico e análise estratégica as formas de implementação das actividades correspondentes a esta valência de intervenção;
 
 Fase 2 - os projectos integrados de consolidação poderão incluir investimentos nas seguintes áreas:
 
 Consolidação de actividades de gestão profissionalizada, marketing, mediação tecnológica, engenharia de produto e design;
 
-Acolhimento de especialistas estrangeiros em gestão e marketing de infra-estruturas, por períodos de tempo definidos e para intervenções com carácter estruturante;
+Estágios ou missões de estudo de quadros superiores, nas áreas acima definidas, em infra-estruturas estrangeiras similares, quando não apoiáveis no âmbito do Fundo Social Europeu;
 
-Estágios ou missões de estudos de quadros superiores, nas áreas acima definidas, em infra-estruturas estrangeiras similares, quando não apoiáveis no âmbito do Fundo Social Europeu;
+Acolhimento de especialistas estrangeiros em gestão e marketing de infra-estruturas, por períodos de tempo definidos e para intervenções com carácter estruturante;
 
 Acções estruturadas de formação, independentemente das áreas, população e duração, integradas num plano de formação a médio prazo, nomeadamente estágios de quadros superiores noutras infra-estruturas nacionais e estrangeiras;
 
@@ -180,13 +225,17 @@ Estudos de mercado que identifiquem oportunidades de introdução de novas tecno
 
 Assistência técnica no domínio da mediação tecnológica;
 
-Campanhas de promoção das actividades da infra-estrutura, nomeadamente participação em feiras nacionais, produção e distribuição de material de divulgação;
+Campanhas de promoção das actividades da infra-estrutura, nomeadamente participação em feiras nacionais e produção e distribuição de material de divulgação;
 
-Criação de condições para a concretização da cooperação inter-infra-estruturas;
+Participação em feiras e missões no estrangeiro, em casos excepcionais devidamente fundamentados e com interesse relevante para a actividade da infra-estrutura e das empresas suas clientes, em particular no âmbito das suas estratégias de internacionalização;
+
+Criação de condições para a concretização da cooperação interinfra-estruturas;
 
 Aquisição de equipamentos complementares para concretização do plano de desenvolvimento, na sua vertente de especialização tecnológica e sectorial, criando-se estruturas específicas, nomeadamente na área do design;
 
-Acesso a bases de dados internacionais, nomeadamente, para apoio ao processo de internacionalização das empresas;
+Acesso a bases de dados e a redes internacionais de informação.
+
+§ 2.º No caso das infra-estruturas tecnológicas que tenham ou venham a ter competências no domínio da formação profissional, as áreas supra-referidas deverão reflectir as adaptações decorrentes da sua intervenção, designadamente ao nível da concepção, organização, dinamização e avaliação da formação profissional, domínio em que também se inscreve o desenvolvimento e consolidação, das respectivas competências internas;
 
 b) Acção B - Apoio à mobilidade internacional, visando o apoio a acções de carácter esporádico e pontual, com duração não inferior a um mês nem superior a seis meses, fruto da própria dinâmica do desenvolvimento tecnológico e do processo de inovação e, como tal, não contidas no plano de desenvolvimento. Estas acções incluem:
 
@@ -196,19 +245,27 @@ Estágios e missões de estudo de especialistas em infra-estruturas estrangeiras
 
 c) Acção C - Dinamização da mobilidade dos técnicos, mediante:
 
-O apoio à permanência temporária, com duração não inferior a um mês nem superior a seis meses, de técnicos de empresas industriais em infra-estruturas tecnológicas;
+O apoio à permanência temporária de técnicos de empresas industriais em infra-estruturas tecnológicas cuja duração total não seja inferior a um mês nem superior a seis meses;
 
 A cedência temporária à indústria de especialistas das infra-estruturas tecnológicas para fomento do processo de inovação tecnológica nas empresas.
 
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
+
 ###### Artigo 3.º — Organismo gestor
 
-O organismo responsável pela gestão deste Regime de Apoio é o Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia (GEPIE).
+O organismo responsável pela gestão deste Regime de Apoio é a Direcção-Geral da Indústria (DGI).
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ###### Artigo 4.º — Entidades beneficiárias
 
-1 - Os beneficiários do presente Regime de Apoio são as entidades de direito privado sem fins lucrativos que tenham como objecto social a realização de actividades de apoio técnico e I&DT industrialmente orientadas, nomeadamente as infra-estruturas tecnológicas promovidas pelo PEDIP I.
+1 - Os beneficiários do presente Regime são as entidades de direito privado sem fins lucrativos que tenham como objecto social a realização de actividades de apoio técnico e I&DT industrialmente orientadas, bem como as que prossigam finalidades estatutárias no domínio do ensino e formação tecnologicamente direccionada nas áreas para as quais se encontram vocacionadas, nomeadamente as infra-estruturas tecnológicas e as escolas tecnológicas promovidas pelo PEDIP.
 
 2 - Não é permitida a apresentação de candidaturas conjuntas no âmbito deste Regime de Apoio.
+
+3 - Para efeitos do disposto no n.º 1, consideram-se ainda entidades beneficiárias os parques tecnológicos e os centros de incubação criados no âmbito do Programa Específico de Desenvolvimento da Indústria Portuguesa - PEDIP I.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ###### Artigo 5.º — Condições de acesso do promotor
 
@@ -218,23 +275,25 @@ a) Encontrar-se constituídos, de acordo com a legislação em vigor, há, pelo 
 
 b) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como que têm a sua situação regularizada em relação ao Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento;
 
-c) Quando exista investimento em formação profissional, cumprir o disposto no despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social, a que se refere o artigo 8.º do [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882) (SINFRAPEDIP) (IIDG02);
+c) Quando exista investimento em formação profissional, cumprir o disposto no despacho conjunto que regulamenta os apoios a conceder pelo Fundo Social Europeu no quadro do PEDIP II;
 
-d) Possuir composição patrimonial maioritariamente detida por empresas e ou associações do sector industrial;
+d) Comprovar, através da natureza dos serviços que prestam, que desenvolvem dominantemente actividades de interesse para a indústria;
 
-e) Ter uma composição dos órgãos sociais que reflicta a contribuição dos diferentes sócios para o património associativo;
+e) Ter uma composição dos órgãos sociais que assegure a intervenção dos diferentes tipos de interesses, nomeadamente científicos, tecnológicos e empresariais, na definição da estratégia e no prosseguimento das actividades que desenvolvem.
 
 2 - Os promotores de projectos no âmbito da fase 2 da acção A e das acções B e C deverão ainda cumprir as seguintes condições de acesso:
 
 a) Possuir ou garantir, através dos seus planos de acção, a existência de estrutura organizacional, de meios financeiros e de recursos humanos qualificados, adequados às exigências da sua actividade e à execução da estratégia subjacente ao projecto apresentado;
 
-b) Apresentar condições de viabilização auto-sustentável a prazo;
+b) Demonstrar a possibilidade de vir a ter condições de auto-sustentabilidade;
 
 c) Comprovar que dispõem de contabilidade organizada de acordo com as especificações do Plano Oficial de Contabilidade;
 
 d) Comprovar que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento do projecto;
 
 3 - Os promotores de projectos no âmbito da acção B referida na alínea b) do n.º 2 do artigo 2.º deverão ainda ter em curso um plano de consolidação aprovado no âmbito da acção A, referida na alínea a) do n.º 2 do mesmo artigo 2.º do presente Regime de Apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ###### Artigo 6.º — Condições de acesso do projecto
 
@@ -248,27 +307,23 @@ c) Demonstrar que se encontram asseguradas as fontes de financiamento do project
 
 2 - Constituem excepções ao previsto na alínea a) do n.º 1:
 
-a) O disposto nos artigos 21.º e 22.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho;
+a) Os diagnósticos e análises estratégicas concluídos há menos de 60 dias úteis relativamente à data de apresentação da candidatura, no caso da acção A referida na alínea a) do n.º 2 do artigo 2.º;
 
-b) O diagnóstico e análise estratégica concluído há menos de 120 dias úteis relativamente à data de apresentação da candidatura, no caso da acção A referida na alínea a) do n.º 1 do artigo 2.º;
-
-c) As despesas no âmbito da formação profissional, no caso da acção A referida na alínea a) do n.º 1 do artigo 2.º, efectuadas há menos de 60 dias úteis contados da data de apresentação da candidatura;
+b) As despesas no âmbito da formação profissional, no caso da acção A referida na alínea a) do n.º 2 do artigo 2.º, nos termos previstos pelo despacho conjunto que regulamenta os apoios a conceder pelo Fundo Social Europeu no âmbito do PEDIP II.
 
 3 - Os projectos a apoiar no âmbito da fase 1 da acção A deverão ainda:
 
 a) Respeitar o âmbito e os objectivos estabelecidos para a elaboração do diagnóstico e análise estratégica, dando resposta às preocupações sugeridas na estrutura constante do anexo A ao presente despacho e que dele faz parte integrante;
 
-b) Ser elaborado por entidade que demonstre possuir para o efeito capacidade e experiência nas áreas de conselho estratégico, de gestão de organizações, de marketing, financeira e de tecnologia específica, incluindo os promotores.
+b) Ser elaborados por entidade que demonstre possuir para o efeito capacidade e experiência nas áreas de conselho estratégico, de gestão de organizações, de marketing, financeira e de tecnologia específica, ou pelos próprios promotores quando demonstrem capacidade para tal.
 
 4 - Os projectos a apoiar no âmbito da fase 2 da acção A deverão ainda cumprir as seguintes condições de acesso:
 
-a) Inserir-se na estratégia a médio prazo da entidade promotora, decorrente de um diagnóstico e análise estratégica prévio que fundamente o plano plurianual, dando resposta às preocupações sugeridas no anexo A ao presente despacho;
+a) Inserir-se na estratégia a médio prazo da entidade promotora, decorrente de um diagnóstico e análise estratégica prévios que fundamentem o plano plurianual, dando resposta às preocupações sugeridas no anexo A ao presente despacho;
 
 b) Apresentar a estrutura constante do anexo B ao presente despacho e que dele faz parte integrante;
 
-c) Envolver um montante mínimo de investimento de 50000 contos;
-
-d) Quando existam investimentos em formação profissional, cumprir o disposto no despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social, a que se refere o artigo 8.º do [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882) (SINFRAPEDIP) (IIDG02);
+c) Quando exista investimento em formação profissional, cumprir o disposto no despacho conjunto que regulamenta os apoios a conceder pelo Fundo Social Europeu no quadro do PEDIP II.
 
 5 - Os projectos a apoiar no âmbito da acção B deverão ainda cumprir as seguintes condições de acesso:
 
@@ -286,6 +341,8 @@ b) Manifestar interesse evidente para a transferência de tecnologia para a ind�
 
 7 - As acções a apoiar no âmbito dos n.os 5 e 6 deverão revestir um carácter pontual.
 
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
+
 ###### Artigo 7.º — Critérios de selecção
 
 São critérios de selecção:
@@ -302,13 +359,11 @@ c) Os curricula da entidade que realiza o diagnóstico e análise estratégica e
 
 a) Critério C(índice 1) - a adequação do plano de desenvolvimento às opções estratégicas fundamentadas no diagnóstico e análise estratégica;
 
-b) Critério C(índice 1) - o peso dos capitais próprios na estrutura de financiamento da infra-estrutura;
+b) Critério C(índice 2) - o peso dos capitais próprios na estrutura de financiamento da infra-estrutura;
 
-c) Critério C(índice 3) - o grau de participação dos associados industriais no património associativo e na gestão da entidade promotora;
+c) Critério C(índice 3) - a dominância e interesse para a indústria quanto às actividades desenvolvidas e a desenvolver;
 
-d) Critério C(índice 4) - a relevância industrial da actividade desenvolvida e a desenvolver, nomeadamente para as empresas nacionais;
-
-e) Critério C(índice 5) - a capacidade de transferência tecnológica;
+d) Critério C(índice 4) - a capacidade de transferência tecnológica.
 
 3 - No que se refere à acção B, prevista na alínea b) do n.º 2 do artigo 2.º, os seguintes:
 
@@ -318,13 +373,21 @@ b) A especialização e a capacidade de transferência tecnológica da institui�
 
 4 - No que se refere à acção C, prevista na alínea c) do n.º 2 do artigo 2.º, a adequação dos curricula dos técnicos deslocados ao tipo de trabalho da entidade receptora.
 
-5 - Cada um dos atributos mencionados no n.º 2 deste artigo será valorado em três níveis discretos, 0, 50 ou 100.
+5 - Cada um dos atributos mencionados no n.º 2 será valorado em cinco níveis discretos, 0, 25, 50, 75 ou 100.
 
-A pontuação final (PF) será obtida pela aplicação da fórmula:
+A pontuação final (PF) será obtida pela aplicação da seguinte fórmula:
 
-PF = 0,3 C(índice 1) + 0,1 C(índice 2) + 0,1 C(índice 3) + 0,3 C(índice 4) + 0,2 C(índice 5)
+PF = 0,35 C(índice 1) + 0,1 C(índice 2) + 0,35 C(índice 3) + 0,2 C(índice 4)
 
-Quando a pontuação final for inferior ou igual a 50 ou quando o critério C1 for nulo, não haverá lugar à atribuição do incentivo; quando PF for superior ou igual a 75, dará lugar à atribuição do incentivo máximo.
+Quando PF for superior ou igual a 75, dará lugar à atribuição do incentivo máximo.
+
+Não haverá lugar à atribuição de incentivo, quando a pontuação final for inferior a 50 ou quando se verificar uma das seguintes situações:
+
+a) C(índice 1) ou C(índice 3) com pontuação igual ou inferior a 25;
+
+b) C(índice 2) ou C(índice 4) com pontuação igual a 0.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ###### Artigo 8.º — Aplicações relevantes
 
@@ -334,25 +397,27 @@ Consideram-se aplicações relevantes, para efeitos do cálculo dos incentivos, 
 
 2 - No âmbito da fase 2 da acção A:
 
-a) Remunerações do pessoal contratado cuja actividade recaia exclusivamente nas áreas definidas, bem como os custos de deslocação e comunicações inerentes às actividades de comercialização;
+a) Remunerações do pessoal contratado cuja actividade recaia, exclusiva ou parcialmente, nas áreas de consolidação definidas no primeiro item da lista relativa a esta fase, prevista na alínea a) do n.º 2 do artigo 2.º, bem como os custos de deslocação e comunicações inerentes às actividades de comercialização;
 
-b) Horários dos especialistas estrangeiros, viagens e estada;
+b) Viagens e estada dos quadros superiores das infra-estruturas durante o período dos estágios e missões, bem como encargos com a supervisão por parte das entidades de acolhimento;
 
-c) Viagens e estada dos quadros superiores das infra-estruturas durante o período dos estágios ou missões e outros encargos associados;
+c) Honorários dos especialistas estrangeiros, viagens e estada;
 
 d) Estudos de mercado, de organização e acções de mediação tecnológica contratadas a entidades externas;
 
-e) Inscrição, aluguer de espaço, projecto e montagem do stand e transporte de material para participação em feiras, produção e distribuição de material de divulgação;
+e) Inscrição, aluguer de espaço, projecto, execução e montagem do stand, transporte de material, viagens e estada do pessoal para participação em feiras, bem como produção e distribuição de material de divulgação;
 
-f) Deslocações e estada associadas com reuniões para o estabelecimento da cooperação inter-infra-estruturas;
+f) Deslocações, estadas e outros custos de logística associados a reuniões para o estabelecimento da cooperação interinfra-estruturas;
 
-g) Aquisição de equipamentos e pequenas obras relacionadas com a sua instalação;
+g) Aquisição de equipamentos e pequenas obras complementares;
 
 h) Aplicações informáticas;
 
-i) Acesso a bases de dados internacionais para apoio aos processos de internacionalização das empresas;
+i) Acesso a bases de dados e a redes internacionais de informação, para apoio à actividade do promotor e ao processo de internacionalização das empresas;
 
-j) Acções de formação, desde que integradas no plano de formação de médio prazo, nomeadamente estágios de quadros superiores em infra-estruturas nacionais e estrangeiras, de acordo com o disposto no despacho conjunto dos Ministros da Indústria e Energia e do Emprego e da Segurança Social, a que se refere o artigo 8.º do [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882) (SINFRAPEDIP) (IIDG02);
+j) Aquisição de bibliografia técnica;
+
+l) Acções de formação, desde que integradas no plano de formação de médio prazo, nomeadamente estágios de quadros superiores em infra-estruturas nacionais e estrangeiras, de acordo com o disposto no despacho conjunto que regulamenta os apoios a conceder pelo Fundo Social Europeu no quadro do PEDIP II.
 
 3 - No âmbito da acção B, os custos relacionados com:
 
@@ -372,27 +437,29 @@ d) Acompanhamento da actividade de formação em posto de trabalho decorrida nas
 
 5 - Os montantes de comparticipação referentes aos custos de deslocações e comunicações associados à aplicação relevante referida na alínea a) do n.º 2 serão definidos em função de uma percentagem dos valores das remunerações deste pessoal.
 
-6 - Os critérios para a determinação dos níveis, bem como os limites máximos a consderar nos custos associados às aplicações relevantes referidas nas alíneas a), b), c) e f) do n.º 2, a) e b) do n.º 3 e c) e d) do n.º 4, serão definidos em despacho do Ministro da Indústria e Energia.
+6 - Os critérios para a determinação dos níveis, bem como os limites máximos a considerar nos custos associados às aplicações relevantes referidas nas alíneas a), b), c), e) e f) do n.º 2, a) e b) do n.º 3 e a), c) e d) do n.º 4, relativos a despesas com pessoal, são os definidos pelo [Despacho Normativo n.º 9-A/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-a-1995-143719), de 16 de Fevereiro.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ###### Artigo 9.º — Incentivos
 
-O incentivo a conceder no âmbito deste Regime de Apoio assumirá a forma de um subsídio a fundo perdido, determinado pela aplicação de uma percentagem sobre o montante das aplicações relevantes e até aos limites definidos nos números seguintes:
+O incentivo a conceder no âmbito deste Regime de Apoio assumirá a forma de um subsídio a fundo perdido, determinado pela aplicação de percentagens sobre os montantes das aplicações relevantes e até aos limites definidos nos números seguintes:
 
-1 - No que respeita ao diagnóstico e análise estratégica elaborado por entidade externa, será aplicada a percentagem de 70%, até ao limite máximo de 5000 contos; quando aquele for elaborado pelo próprio promotor, será atribuído um incentivo máximo de 3000 contos.
+1 - No que respeita ao diagnóstico e análise estratégica, será aplicada a percentagem de 70%, até ao limite máximo de 5000 contos se for elaborado por entidade externa e de 3000 contos quando for exclusivamente elaborado pelo próprio promotor.
 
 2 - No que respeita às restantes aplicações relevantes da acção A, a percentagem será a indicada nas alíneas seguintes, até ao limite máximo acumulado de 100000 contos por ano e por promotor para o período de vigência do PEDIP II:
 
 a) 75%, nos casos em que a pontuação final (PF) mencionada no n.º 5 do artigo 7.º é igual ou superior a 75, com exclusão do incentivo relativo à formação profissional;
 
-b) 65%, nos casos em que a pontuação final (PF) mencionada no n.º 5 do artigo 7.º é superior a 50 e inferior a 75, com exclusão do incentivo relativo à formação profissional;
+b) 65%, nos casos em que a pontuação final (PF) mencionada no n.º 5 do artigo 7.º é igual ou superior a 50 e inferior a 75, com exclusão do incentivo relativo à formação profissional;
 
-c) 90% sobre o montante das aplicações relevantes relativas à formação profissional, com excepção do que se referir a custos de produção de material pedagógico, para as quais a percentagem será de 50%;
+c) A percentagem sobre o montante das aplicações relevantes relativas à formação profissional determinar-se-á de acordo com o disposto no despacho conjunto que regulamenta os apoios a conceder pelo Fundo Social Europeu no quadro do PEDIP II;
 
-d) As percentagens referidas nas alíneas anteriores não são aplicáveis às aplicações relevantes relativas ao pessoal contratado, as quais serão decrescentes, de acordo com o quadro seguinte:
+d) As percentagens referidas nas alíneas a) e b) não são aplicáveis às aplicações relevantes relativas a remunerações do pessoal contratado, as quais serão decrescentes, de acordo com o quadro seguinte:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42624267.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/06/134b00/26472651.pdf)
 
-3 - No que respeita à acção B, a percentagem de comparticipação será igual à atribuída à fase 2 da acção A em curso, até ao limite máximo de 20000 contos, por promotor, para o período de vigência do PEDIP II, não podendo exceder 6000 contos por ano.
+3 - No que respeita à acção B, a percentagem da comparticipação será igual à atribuída à fase 2 da acção A em curso, de acordo com as alíneas a) e b) do n.º 2, até ao limite máximo de 20000 contos por promotor, para o período de vigência do PEDIP II, não podendo exceder 6000 contos por ano.
 
 4 - No que respeita à acção C, a percentagem será de 75%, até ao limite máximo acumulado de 40000 contos, durante o período de vigência do PEDIP II, não podendo exceder 15000 contos por ano.
 
@@ -400,41 +467,73 @@ d) As percentagens referidas nas alíneas anteriores não são aplicáveis às a
 
 6 - Os limites máximos a que se refere o n.º 2 não incluem o incentivo relativo à formação profissional.
 
-###### Artigo 10.º — Segundo diagnóstico
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
-No decorrer de um projecto de consolidação poderá ser apoiada a realização de um segundo diagnóstico e análise estratégica sempre que ocorram alterações nas condicionantes externas ou na situação interna da infra-estrutura tecnológica que o justifiquem, respeitando-se os limites máximos estabelecidos no n.º 1 do artigo 9.º
+###### Artigo 10.º — Projectos sucessivos de consolidação
+
+1 - O plano de consolidação pode ser dividido em projectos sucessivos, sendo que cada um deles terá também de apoiar-se, à semelhança do primeiro, num diagnóstico e análise estratégica.
+
+2 - Havendo projectos sucessivos, o apoio às despesas a que se refere a alínea a) do n.º 2 do artigo 8.º, com base nas percentagens estabelecidas na alínea d) do n.º 2 do artigo 9.º, considera-se a partir do primeiro ano do primeiro projecto, com degressão das percentagens ao longo do plano.
+
+3 - Se, em consequência do diagnóstico, for proposto pelo promotor o apoio a remunerações de pessoal em funções não previstas no projecto anterior, serão consideradas, nesses casos, as percentagens constantes da alínea d) do n.º 2 do artigo 9.º, correspondendo o primeiro ano de aplicação das percentagens ao ano do início da função.
+
+4 - No âmbito do apoio a projectos sucessivos, o limite máximo de apresentação de diagnósticos pelos promotores é 31 de Dezembro de 1998.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ###### Artigo 11.º — Apresentação de candidaturas
 
-1 - A apresentação de candidaturas ao presente Regime de Apoio é contínua, devendo ser formalizada de acordo com o disposto no artigo 9.º do [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882) (SINFRAPEDIP) (IIDG02).
+1 - A apresentação de candidaturas ao presente Regime de Apoio é contínua, devendo ser formalizada de acordo com o disposto no artigo 9.º do [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882) (IIDG02), de 29 de Julho.
 
-2 - No caso da fase 1 da acção A, prevista na alínea a) do n.º 2 do artigo 2.º, apenas serão aceites candidaturas no período de 1994 a 1997, de modo a permitir a realização das acções preconizadas nos planos de desenvolvimento durante o período de vigência do PEDIP II.
+2 - No caso da fase 1 da acção A, prevista na alínea a) do n.º 2 do artigo 2.º, apenas serão aceites candidaturas até 31 de Dezembro de 1998, de modo a permitir a realização das acções preconizadas nos planos de desenvolvimento durante o período de vigência do PEDIP II.
 
-3 - A apresentação de candidaturas à acção B, referida na alínea b) do n.º 2 do artigo 2.º, obriga à existência de um plano de consolidação em curso e já aprovado no âmbito da acção A.
+3 - A apresentação de candidaturas à acção B, referida na alínea b) do n.º 2 do artigo 2.º, obriga à existência de um projecto de consolidação em curso e já aprovado no âmbito da acção A.
 
 4 - No caso de a infra-estrutura tecnológica ter condições e pretender concorrer também aos incentivos previstos no Regime de Apoio à Consolidação das Infra-Estruturas da Qualidade Industrial, o procedimento a adoptar será o seguinte:
 
 a) O diagnóstico e análise estratégica deverá justificar os investimentos a que se candidata no âmbito do presente Regime de Apoio e no âmbito do Regime de Apoio à Consolidação das Infra-Estruturas da Qualidade Industrial;
 
-b) As candidaturas ao presente Regime de Apoio e ao Regime de Apoio à Consolidação das Infra-Estruturas da Qualidade Industrial serão entregues em conjunto no GEPIE;
+b) As candidaturas ao presente Regime de Apoio e ao Regime de Apoio à Consolidação das Infra-Estruturas da Qualidade Industrial serão entregues em conjunto na DGI;
 
-c) O GEPIE enviará ao Instituto Português da Qualidade, no prazo de três dias úteis, a candidatura relativa ao Regime de Apoio à Consolidação das Infra-Estruturas da Qualidade Industrial, remetendo-lhe, de igual modo, no prazo de 15 dias úteis contados da data de recepção da candidatura, o seu parecer sobre o enquadramento e a coerência dos investimentos propostos e fundamentados no diagnóstico e análise estratégica;
+c) A DGI enviará ao Instituto Português da Qualidade (IPQ), no prazo de 3 dias úteis, a candidatura relativa ao regime de Apoio à Consolidação das Infra-Estruturas da Qualidade Industrial, remetendo-lhe, de igual modo, no prazo de 15 dias úteis contados da data de recepção da candidatura, o seu parecer sobre o enquadramento e a coerência dos investimentos propostos e fundamentados no diagnóstico e análise estratégica;
 
 d) Sempre que se julgue imprescindível uma apreciação final conjunta, deve tal facto ser mencionado no parecer a que se refere a alínea anterior.
 
-###### Artigo 12.º — Competência e prazo de apreciação
+5 - No caso em que a infra-estrutura solicite apoio para promoção de formação profissional, esta componente da candidatura, entregue em conjunto na DGI, será remetida para apreciação do Gabinete de Dinamização e Acompanhamento de Formação Profissional (GDA-FP).
 
-Compete ao GEPIE analisar as candidaturas, emitindo parecer fundamentado no prazo de 30 dias úteis, no que se refere a cada uma das fases da acção A, e de 15 dias úteis, no que se refere às acções B e C, contados a partir da data de apresentação das candidaturas.
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
+
+###### Artigo 12.º — Competência e prazos de apreciação
+
+1 - Compete à DGI analisar as candidaturas, emitindo parecer fundamentado no prazo de 60 dias úteis, no que se refere a cada uma das fases da acção A, e de 30 dias úteis, no que se refere às acções B e C, contados a partir da data de recepção das candidaturas.
+
+2 - Quando a candidatura inclua investimento em formação profissional, a análise da componente de formação será assegurada pelo GDA-FP, nos termos definidos pelo despacho conjunto que regulamenta os apoios do FSE no quadro do PEDIP II, sendo precedida do parecer de enquadramento geral da competência da DGI.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ###### Artigo 13.º — Decisão
 
-1 - No caso da fase 2 da acção A, referida na alínea a) do n.º 2 do artigo 2.º, a decisão incidirá sobre a adequação das acções propostas no plano de desenvolvimento às opções estratégicas decorrentes do diagnóstico e análise estratégica, com cativação global do incentivo a atribuir, e sobre o conteúdo e custo do conjunto das acções específicas para o primeiro ano do processo de consolidação.
+1 - No caso da fase 2 da acção A, referida na alínea a) do n.º 2 do artigo 2.º, a decisão incidirá sobre a adequação das acções propostas no projecto de desenvolvimento e consolidação às opções estratégicas decorrentes do diagnóstico e análise estratégica, com cativação global do incentivo a atribuir, e sobre o conteúdo e custo do conjunto das acções específicas para o primeiro ano do processo de consolidação.
 
-2 - No final de cada ano deverá o promotor das acções referidas no número anterior submeter ao GEPIE o relatório de execução das acções inicialmente aprovadas, bem como o plano de desenvolvimento para o ano seguinte, quando aplicaÓvel, cabendo ainda àquele organismo a decisão sobre a continuação do apoio ou propor eventuais ajustamentos.
+2 - No final de cada ano, deverá o promotor das acções referidas no número anterior submeter à DGI o relatório de execução das acções inicialmente aprovadas, bem como o plano de desenvolvimento para o ano seguinte, quando aplicável, cabendo ainda àquele organismo a decisão sobre a continuação do apoio ou propor eventuais ajustamentos.
 
 Ministério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
-## ANEXO A — Índice da estrutura do diagnóstico e análise estratégica para infra-estruturas tecnológicas previsto na alínea a) do n.º 3 do artigo 6.º
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
+
+###### Artigo 14.º — Candidaturas pendentes
+
+As candidaturas que não tiverem sido objecto de decisão à data de produção de efeitos do presente despacho poderão beneficiar do que nele se encontra previsto, se o promotor assim o pretender.
+
+> Aditado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
+
+###### Artigo 15.º — Produção de efeitos
+
+O presente diploma produz efeitos desde 1 de Janeiro de 1998.
+
+> Aditado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
+
+## ANEXO A — Índice da estrutura do diagnóstico e análise estratégica prevista na alínea a) do n.º 3 do artigo 6.º
 
 I - Apresentação sumária da infra-estrutura tecnológica.
 
@@ -446,9 +545,11 @@ IV - Análise da utilização do potencial da infra-estrutura tecnológica.
 
 V - Opções estratégicas.
 
-Nota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia.
+Nota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se o diagnóstico segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.
 
-## ANEXO B — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea b) do n.º 4 do artigo 6.º
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
+
+## ANEXO B — Estrutura a que deverá presidir a elaboração do projecto de consolidação prevista na alínea b) do n.º 4 do artigo 6.º
 
 I - Caracterização sucinta do projecto.
 
@@ -456,7 +557,9 @@ II - Pressupostos básicos para a elaboração do projecto de consolidação.
 
 III - Acções preconizadas para o projecto de consolidação.
 
-Nota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia.
+Nota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ## ANEXO C — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea a) do n.º 5 do artigo 6.º
 
@@ -468,11 +571,13 @@ III - Acções preconizadas.
 
 IV - Articulação com outras acções no âmbito do PEDIP II e de outros programas comunitários.
 
-Nota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia.
+Nota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ## ANEXO D — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea a) do n.º 6 do artigo 6.º
 
-I - Caracterização do projecto.
+I - Caracterização sucinta do projecto.
 
 II - Justificação da necessidade de realização do projecto.
 
@@ -480,4 +585,6 @@ III - Acções preconizadas.
 
 IV - Articulação com outras acções no âmbito do PEDIP II e de outros programas comunitários.
 
-Nota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia.
+Nota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
