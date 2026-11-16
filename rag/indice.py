@@ -11,6 +11,7 @@ Tudo fica num SQLite com FTS5 (BM25), fora do git:
     PYTHONPATH=src python -m rag.indice                # acervo completo (~1 h)
     PYTHONPATH=src python -m rag.indice --amostra 5000 # só os diplomas da avaliação e mais 5000
     PYTHONPATH=src python -m rag.indice --com-serie-ii # também os atos da 2.ª Série recolhidos em 12/11/2026
+    PYTHONPATH=src python -m rag.indice --serie-ii-por-referencia # esses atos só quando a pergunta os cita
 
 Os regulamentos, deliberações, acordos coletivos de trabalho, editais e declarações que o
 `collect dre --missing --all` trouxe a partir de 12/11/2026 (~100 mil, quase todos da 2.ª
@@ -200,6 +201,13 @@ def documentos_do_export(export: Path, *, com_serie_ii: bool = False, com_traduc
     ]
 
 
+def serie_ii_do_export(export: Path) -> set[str]:
+    """Os ids que `fora_por_omissao` deixa de fora (com `--serie-ii-por-referencia`, entram só pela referência)."""
+    with sqlite3.connect(f"file:{export}?mode=ro", uri=True) as con:
+        linhas = con.execute("SELECT id, document_type, retrieved_at FROM documentos WHERE text_quality = 'texto'").fetchall()
+    return {i for i, tipo, recolhido_em in linhas if fora_por_omissao(tipo, recolhido_em)}
+
+
 def relacoes_do_export(export: Path, ids: set[str]) -> Iterator[tuple[str, str, str, str, str | None]]:
     with sqlite3.connect(f"file:{export}?mode=ro", uri=True) as con:
         titulos = dict(con.execute("SELECT id, title FROM documentos"))
@@ -212,7 +220,7 @@ def relacoes_do_export(export: Path, ids: set[str]) -> Iterator[tuple[str, str, 
                 yield origem, tipo, alvo, titulos.get(alvo) or rotulo_ or alvo, data
 
 
-def construir(saida: Path, documentos: list[Documento], export: Path, *, fios: int = 8) -> None:
+def construir(saida: Path, documentos: list[Documento], export: Path, *, fios: int = 8, so_referencia: set[str] | None = None) -> None:
     saida.parent.mkdir(parents=True, exist_ok=True)
     temporario = saida.with_suffix(".tmp")
     temporario.unlink(missing_ok=True)
@@ -267,6 +275,10 @@ def construir(saida: Path, documentos: list[Documento], export: Path, *, fios: i
         [("metodo_termos", termos_mod.METODO), ("construido", date.today().isoformat()), ("export", str(export)),
          *((k, str(v)) for k, v in contagem.items())],
     )
+    if so_referencia:
+        # Encontram-se só quando a pergunta os cita: `Pesquisa.bm25` tira-os da pesquisa em todo o acervo.
+        con.execute("CREATE TABLE so_referencia (id TEXT PRIMARY KEY)")
+        con.executemany("INSERT INTO so_referencia VALUES (?)", [(i,) for i in sorted(so_referencia & ids)])
     con.execute("INSERT INTO pedacos_fts (pedacos_fts) VALUES ('optimize')")
     con.commit()
     con.close()
@@ -307,19 +319,25 @@ def main(argv: list[str] | None = None) -> int:
         help="Incluir os regulamentos, deliberações, ACT, editais e declarações da recolha em massa de 12/11/2026.",
     )
     parser.add_argument(
+        "--serie-ii-por-referencia", action="store_true",
+        help="Incluir a 2.ª Série da recolha em massa, mas só para quando a pergunta cita o ato (fora do BM25 em todo o acervo).",
+    )
+    parser.add_argument(
         "--sem-traducoes", action="store_true",
         help="Deixar de fora os atos da UE em tradução não oficial (version.kind translation), para medir o efeito deles.",
     )
     args = parser.parse_args(argv)
     export = export_sqlite()
-    documentos = documentos_do_export(export, com_serie_ii=args.com_serie_ii, com_traducoes=not args.sem_traducoes)
+    com_serie_ii = args.com_serie_ii or args.serie_ii_por_referencia
+    documentos = documentos_do_export(export, com_serie_ii=com_serie_ii, com_traducoes=not args.sem_traducoes)
+    so_referencia = serie_ii_do_export(export) if args.serie_ii_por_referencia and not args.com_serie_ii else None
     if args.amostra is not None:
         avaliacao = documentos_da_avaliacao()
         # Os consolidados que têm o texto em vigor dos códigos republicados (IRS, IRC…) também entram.
         avaliacao |= {"pt:dre:66022085:por", "pt:dre:571007:por"}
         resto = [d for d in documentos if d.id not in avaliacao]
         documentos = [d for d in documentos if d.id in avaliacao] + random.Random(20261027).sample(resto, min(args.amostra, len(resto)))
-    construir(args.saida, documentos, export, fios=args.fios)
+    construir(args.saida, documentos, export, fios=args.fios, so_referencia=so_referencia)
     return 0
 
 

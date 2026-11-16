@@ -78,6 +78,19 @@ def test_assemble_writes_a_marked_translation_with_the_english_source(repo_root)
     assert validate_repository(acervo) == []
 
 
+def test_translation_from_the_pdf_drops_the_only_pdf_warning(repo_root):
+    data = _prepare(repo_root)
+    aviso = "Sem texto eletrónico no CELLAR (A expressão não tem manifestação XHTML nem HTML.); o registo liga apenas ao PDF oficial."
+    data["record"]["validation"]["warnings"] = [aviso, "Outro aviso."]
+    data["ocr"] = {"pdf_url": "http://publications.europa.eu/resource/cellar/x/DOC_1"}
+    record, _ = eu_translation.translated_record(data, TRANSLATION, translator="Claude (teste)", today=date(2026, 11, 16))
+    assert record.validation.warnings == ["Outro aviso."]
+    # Sem o PDF (texto eletrónico normal), os avisos ficam como estão.
+    del data["ocr"]
+    record, _ = eu_translation.translated_record(data, TRANSLATION, translator="Claude (teste)", today=date(2026, 11, 16))
+    assert record.validation.warnings == [aviso, "Outro aviso."]
+
+
 def test_official_portuguese_text_replaces_the_translation(repo_root):
     _prepare(repo_root)
     cache = repo_root / eu_translation.CACHE

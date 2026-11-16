@@ -185,8 +185,50 @@ def test_numero_da_2a_serie_com_sufixo_encontra_o_diploma():
         ("b", "edital", "113/2000 (2.ª série) - AP", "2000-03-01"),
         ("c", "declaracao", "81/20021", "2021-01-01"),
         ("d", "declaracao", "81/2002", "2002-01-01"),
+        ("e", "regulamento", "11/2003 - AP", "2003-07-10"),
     ])
     falso = SimpleNamespace(con=con)
     assert Pesquisa.diplomas(falso, "declaracao", "81/2002") == ["d", "a"]
     assert Pesquisa.diplomas(falso, "edital", "113/2000") == ["b"]
     assert Pesquisa.diplomas(falso, "declaracao", "81/200") == []
+    assert Pesquisa.diplomas(falso, "regulamento", "11/2003") == ["e"]
+
+
+def test_referencias_aos_atos_da_2a_serie():
+    from rag import referencias
+
+    diplomas = referencias.extrair(
+        "No Edital n.º 317/2001 (2.ª série), no Acordo Coletivo de Trabalho n.º 206/2015 e no Regulamento n.º 296-B/2007"
+    ).diplomas
+    assert [(t, n) for t, n, _ in diplomas] == [
+        ("edital", "317/2001"), ("acordo-coletivo-trabalho", "206/2015"), ("regulamento", "296-B/2007"),
+    ]
+    # O regulamento da UE continua a ser lido como antes (e também como regulamento português).
+    assert [(t, n) for t, n, _ in referencias.extrair("Regulamento (CE) n.º 1234/2007").diplomas] == [
+        ("regulation", "2007/1234"), ("regulamento", "1234/2007"),
+    ]
+
+
+def test_diploma_so_por_referencia_fica_fora_do_bm25_em_todo_o_acervo(tmp_path):
+    import sqlite3
+
+    from rag.pesquisa import Pesquisa
+
+    from test_dados import _artigos, _construir
+
+    caminho = _construir(tmp_path / "i.sqlite", {
+        "pt:lei:001": ("Lei n.º 1/2020", "piscinas", _artigos(2, "piscina"), []),
+        "pt:reg:002": ("Regulamento n.º 2/2020", "piscinas municipais", _artigos(2, "piscina", "piscina municipal"), []),
+        # Outros diplomas, para "piscina" não estar em mais de 20% dos pedaços (a pesquisa ignorava-a).
+        **{f"pt:lei:{n:03}": (f"Lei n.º {n}/2020", "estradas", _artigos(2, "estrada"), []) for n in range(3, 13)},
+    })
+    con = sqlite3.connect(caminho)
+    con.execute("CREATE TABLE so_referencia (id TEXT PRIMARY KEY)")
+    con.execute("INSERT INTO so_referencia VALUES ('pt:reg:002')")
+    con.commit()
+    con.close()
+    p = Pesquisa(caminho)
+    documento = lambda ids: {p._info([i])[i][2] for i, _ in ids}  # noqa: E731
+    assert documento(p.bm25("piscina", "2026-01-01")) == {"pt:lei:001"}
+    # Quando a pergunta o cita, encontra-se como os outros.
+    assert documento(p.bm25("piscina", "2026-01-01", documentos=["pt:reg:002"])) == {"pt:reg:002"}

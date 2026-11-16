@@ -131,6 +131,10 @@ class Pesquisa:
         self._documentos: dict[str, dict | None] = {}
         self._jurisprudencia = None
         self._relacoes: dict[str, tuple] = {}
+        # Diplomas que só se encontram quando a pergunta os cita (a 2.ª Série com `rag.indice
+        # --serie-ii-por-referencia`): ficam fora do BM25 em todo o acervo. Índices sem a tabela: nenhum.
+        tem_tabela = self.con.execute("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'so_referencia'").fetchone()
+        self.so_referencia: set[str] = {i for (i,) in self.con.execute("SELECT id FROM so_referencia")} if tem_tabela else set()
 
     # ------------------------------------------------------------------ pedaços e documentos
 
@@ -169,11 +173,11 @@ class Pesquisa:
     def diplomas(self, tipo: str, numero: str) -> list[str]:
         numeros = _numeros_ue(numero) if tipo in _TIPOS_UE else [numero]
         marcas = ",".join("?" * len(numeros))
-        # Na 2.ª Série o DRE escreve o número com sufixo: "81/2002 (2.ª série)", "113/2000 (2.ª série) - AP".
-        # O intervalo [numero + " (", numero + " )") apanha-os e continua a usar o índice da coluna.
+        # Na 2.ª Série o DRE escreve o número com sufixo: "81/2002 (2.ª série)", "113/2000 (2.ª série) - AP",
+        # "11/2003 - AP". O intervalo [numero + " ", numero + "!") apanha-os e continua a usar o índice da coluna.
         return [linha[0] for linha in self.con.execute(
             f"SELECT id FROM documentos WHERE tipo = ? AND (numero IN ({marcas}) OR (numero >= ? AND numero < ?)) ORDER BY data",
-            (tipo, *numeros, f"{numero} (", f"{numero} )"),
+            (tipo, *numeros, f"{numero} ", f"{numero}!"),
         )]
 
     def codigos(self) -> dict[str, list[tuple[str, str]]]:
@@ -254,6 +258,8 @@ class Pesquisa:
         else:
             linhas = self.con.execute(sql + " ORDER BY s LIMIT ?", (consulta, limite * 10)).fetchall()
         info = self._info([i for i, _ in linhas])
+        if not documentos and self.so_referencia:
+            linhas = [(i, s) for i, s in linhas if info[i][2] not in self.so_referencia]
         pontuacoes = [(i, -s * (1.0 if documentos else self._prior(*info[i][2:]))) for i, s in linhas if self._em_vigor(*info[i][:2], data)]
         return sorted(pontuacoes, key=lambda x: -x[1])[:limite]
 

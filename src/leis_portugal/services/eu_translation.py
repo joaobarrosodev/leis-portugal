@@ -168,6 +168,9 @@ def translated_record(data: dict, translation: str, *, translator: str, today: d
     if data.get("ocr"):
         # Sem texto eletrónico no CELLAR: o texto saiu do PDF oficial (camada de texto ou OCR).
         extra.append(f"O original só existe em PDF no EUR-Lex ({data['ocr']['pdf_url']}); o texto foi extraído do PDF antes da tradução.")
+        # O aviso da recolha («liga apenas ao PDF oficial») deixa de ser verdade: o registo tem texto.
+        # Se ficasse, o export dava-lhe `text_quality = pdf` e o índice do RAG saltava-o.
+        record.validation.warnings = [w for w in record.validation.warnings if _ONLY_PDF not in w]
     record.notes = [
         f"Traduzido do texto em {name} publicado no EUR-Lex: {url}",
         reason,
