@@ -35,7 +35,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 19.º» entre os artigos 17.º e 19.º; usado o 18.º.'
 language: por
 version:
   kind: consolidated
@@ -392,7 +393,7 @@ A contabilização do apoio deverá ser feita, nos termos legais aplicáveis, em
 
 2 - O organismo gestor fiscalizará a realização das operações, adoptando as medidas necessárias ao seu acompanhamento e velando pelo cumprimento do contrato.
 
-###### Artigo 19.º — Concorrência e acumulação de apoios
+###### Artigo 18.º — Concorrência e acumulação de apoios
 
 1 - Os apoios previstos no presente diploma não são acumuláveis com quaisquer outros que revistam a mesma natureza ou fins, concedidos por qualquer outro regime legal nacional ou comunitário, sendo contudo permitidas acumulações quando os projectos tenham sido candidatos a programas comunitários cujo objecto seja promover a demonstração ou disseminação de tecnologias energéticas inovadoras.
 

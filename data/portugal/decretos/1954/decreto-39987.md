@@ -36,7 +36,9 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 8.º» entre os artigos 2.º e 4.º; usado o 3.º.'
+- 'Numeração corrigida: o DRE escreve «Artigo 48.º» entre os artigos 42.º e 44.º; usado o 43.º.'
 language: por
 version:
   kind: consolidated
@@ -486,7 +488,7 @@ Os locais em que se encontrem os agentes reguladores do trânsito serão sempre 
 
 #### Secção III — Sinais luminosos
 
-###### Artigo 8.º
+###### Artigo 3.º
 
 1. Os sinais a que se refere o artigo anterior poderão ser substituídos por sinais luminosos de comando manual ou automático instalados nas vias públicas, nos termos constantes dos números seguintes.
 
@@ -1958,7 +1960,7 @@ A deliberação dependerá de homologação da Direcção-Geral de Saúde, quand
 
 #### Secção II — Instrução
 
-###### Artigo 48.º
+###### Artigo 43.º
 
 1. As licenças para a utilização de veículos automóveis no serviço de instrução serão concedidas pela Direcção-Geral de Transportes Terrestres, de harmonia com o disposto no n.º 4 do artigo 51.º do Código da Estrada, competindo às direcções de viação a passagem dos respectivos títulos e o averbamento dos mesmos na matrícula dos veículos.
 

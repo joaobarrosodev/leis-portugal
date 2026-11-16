@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 88.º» entre os artigos 85.º e 87.º; usado o 86.º.'
 language: por
 version:
   kind: original
@@ -1104,7 +1105,7 @@ Será objecto de contratos temporários a prestação do serviço público de fo
 
 5 - Os montantes resultantes da aplicação das tarifas aos consumos serão cobrados conjuntamente com os da aplicação das tarifas devidas pelas águas residuais geradas, quando o contrato seja comum.
 
-###### Artigo 88.º — Taxas
+###### Artigo 86.º — Taxas
 
 Consideram-se taxas as seguintes referentes a serviços prestados pela entidade gestora:
 

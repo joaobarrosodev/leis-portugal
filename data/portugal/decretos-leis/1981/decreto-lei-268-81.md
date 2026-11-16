@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 44.º» entre os artigos 39.º e 41.º; usado o 40.º.'
 language: por
 version:
   kind: original
@@ -894,7 +895,7 @@ f) Os encargos resultantes das actividades referidas no n.º 3 do artigo 33.º q
 
 g) Os encargos com a organização e participação em reuniões nacionais e internacionais, bem como as despesas com as visitas de personalidades estranhas aos serviços.
 
-###### Artigo 44.º — (Subsídios)
+###### Artigo 40.º — (Subsídios)
 
 Por despacho do Ministro da Justiça podem ser concedidos, através do Gabinete de Gestão Financeira, os subsídios necessários para assegurar a execução dos orçamentos de despesas privativos dos serviços prisionais e do Fundo de Fomento e Assistência Prisional, quando as respectivas receitas próprias se mostrem insuficientes.
 

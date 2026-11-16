@@ -36,7 +36,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 13.º» entre os artigos 13.º e 15.º; usado o 14.º.'
 language: por
 version:
   kind: original
@@ -645,7 +646,7 @@ Cada Signatário tomará as medidas adequadas para assegurar que as capacidades 
 
 Cada Signatário tomará as medidas adequadas para assegurar que são estabelecidos e implementados programas de garantia de qualidade de modo que se possa confiar que os requisitos especificados para todas as actividades importantes em termos de segurança nuclear são cumpridos ao longo da existência da instalação nuclear.
 
-###### Artigo 13.º — Avaliação e verificação da segurança
+###### Artigo 14.º — Avaliação e verificação da segurança
 
 Cada Signatário tomará as medidas adequadas para assegurar que:
 

@@ -36,7 +36,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 12.º» entre os artigos 18.º e 20.º; usado o 19.º.'
 language: por
 version:
   kind: original
@@ -506,7 +507,7 @@ b) Assistente de relações públicas especialista, principal e de 1.ª classe, 
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Artigo 12.º — Transição de pessoal
+###### Artigo 19.º — Transição de pessoal
 
 1 - Os funcionários pertencentes ao quadro do DAFSE previsto na [Portaria n.º 17/88](https://diariodarepublica.pt/dr/detalhe/portaria/17-1988-583800), de 8 de Janeiro, devem ser providos no quadro anexo, de acordo com as seguintes regras:
 

@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 23.º» entre os artigos 24.º e 26.º; usado o 25.º.'
 language: por
 version:
   kind: original
@@ -348,7 +349,7 @@ v) Utilizar altifalantes ou qualquer outra aparelhagem sonora;
 
 x) Exercer actividades proibidas por qualquer disposição legal.
 
-###### Artigo 23.º — Coimas
+###### Artigo 25.º — Coimas
 
 As contra-ordenações previstas no artigo anterior são punidas com coima entre 50 euros e 500 euros.
 

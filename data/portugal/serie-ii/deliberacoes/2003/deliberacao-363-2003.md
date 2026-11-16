@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 5.º» entre os artigos 7.º e 9.º; usado o 8.º.'
 language: por
 version:
   kind: original
@@ -132,7 +133,7 @@ Os candidatos à matrícula serão seleccionados por um júri constituído por t
 
 4) Entrevista.
 
-###### Artigo 5.º — Condições de matrícula e de inscrição
+###### Artigo 8.º — Condições de matrícula e de inscrição
 
 A matrícula e a inscrição deverão ser efectuadas na Secretária da Faculdade de Medicina de Lisboa.
 

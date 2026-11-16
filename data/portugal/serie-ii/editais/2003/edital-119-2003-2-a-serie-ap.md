@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 39.º» entre os artigos 37.º e 39.º; usado o 38.º.'
 language: por
 version:
   kind: original
@@ -536,7 +537,7 @@ Os cadáveres destinados a ser cremados serão envolvidos em vestes muito simple
 
 2 - Se no momento da abertura não estiverem terminados os fenómenos de destruição da matéria orgânica, recobre-se de novo o cadáver, mantendo-o inumado por períodos sucessivos de dois anos até à mineralização do esqueleto.
 
-###### Artigo 39.º — Aviso aos interessados
+###### Artigo 38.º — Aviso aos interessados
 
 1 - Decorrido o prazo estabelecido no n.º 1 do artigo anterior, poderá proceder-se à exumação.
 

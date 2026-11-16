@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 10.º» entre os artigos 19.º e 21.º; usado o 20.º.'
 language: por
 version:
   kind: original
@@ -352,7 +353,7 @@ Profundidade - 1 m.
 
 #### SECÇÃO III — Das inumações em jazigo
 
-###### Artigo 10.º — Espécies de jazigos
+###### Artigo 20.º — Espécies de jazigos
 
 1 - Os jazigos podem ser de três espécies:
 

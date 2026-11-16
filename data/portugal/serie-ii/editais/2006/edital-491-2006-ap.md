@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 2.º» entre os artigos 19.º e 21.º; usado o 20.º.'
 language: por
 version:
   kind: original
@@ -442,7 +443,7 @@ Em caso de incumprimento, poderão os funcionários do Parque indicar qualquer o
 
 6 - Sem prejuízo do disposto nos números anteriores e seguintes, a circulação interna de veículos dentro do Parque fica sujeita ao regime geral do Código das Estradas.
 
-###### Artigo 2.º — Proibições para os veículos
+###### Artigo 20.º — Proibições para os veículos
 
 Relativamente a veículos não é permitido:
 

@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 5.º» entre os artigos 5.º e 7.º; usado o 6.º.'
 language: por
 version:
   kind: original
@@ -184,7 +185,7 @@ Por metro quadrado ou fracção e por mês - 3 euros.
 
 Por metro quadrado ou fracção e por mês - 3 euros.
 
-###### Artigo 5.º — Cartazes, dísticos colantes, panfletos e outros semelhantes
+###### Artigo 6.º — Cartazes, dísticos colantes, panfletos e outros semelhantes
 
 Por metro quadrado ou fracção de cada e por semana ou fracção - 4 euros.
 

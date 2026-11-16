@@ -29,6 +29,7 @@ legal_status: repealed
 notes:
 - A presente versão consolidada integra a <a href=" https://dre.pt/dre/detalhe/declaracao-rectificacao/61-2005-241860"> Declaração
   de Rectificação n.º 61/2005</a>, de 5 de agosto, designadamente no que respeita à redação da alínea n) do artigo 3.º.
+- 'Numeração corrigida: o DRE escreve «Artigo 74.º» entre os artigos 63.º e 65.º; usado o 64.º.'
 language: por
 version:
   kind: consolidated
@@ -1635,7 +1636,7 @@ s) Exercer as demais competências que lhe forem atribuídas pela lei e pelo reg
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 17/2010/A - Diário da República n.º 71/2010, Série I de 2010-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-613402), em vigor a partir de 2010-04-14
 
-###### Artigo 74.º — Funcionamento
+###### Artigo 64.º — Funcionamento
 
 O conselho pedagógico reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa, a requerimento de um terço dos seus membros em efectividade de funções ou sempre que um pedido de parecer da assembleia ou do conselho executivo o justifique.
 

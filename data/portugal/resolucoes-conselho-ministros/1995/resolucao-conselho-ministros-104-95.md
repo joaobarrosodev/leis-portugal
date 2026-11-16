@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 45.º» entre os artigos 36.º e 38.º; usado o 37.º.'
 language: por
 version:
   kind: original
@@ -775,7 +776,7 @@ Os espaços urbanizáveis são aqueles para os quais se prevê que possam adquir
 
 Estes espaços destinam-se à instalação de unidades industriais, em geral, e, suplementarmente, de actividades que se mostrem incompatíveis com as funções urbanas, nomeadamente armazéns.
 
-###### Artigo 45.º — Regime de edificabilidade
+###### Artigo 37.º — Regime de edificabilidade
 
 1 - As condições de ocupação e instalação de indústrias e outras actividades nos espaços industriais propostos são estabelecidas em planos de pormenor e regulamentos de utilização de elaboração obrigatória pelo município e condicionados à apresentação de estudos de integração na envolvente.
 

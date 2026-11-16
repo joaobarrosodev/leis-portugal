@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 6.º» entre os artigos 6.º e 8.º; usado o 7.º.'
 language: por
 version:
   kind: original
@@ -166,7 +167,7 @@ d.Os recursos humanos e materiais indispensáveis para garantir o nível e a qua
 
 2 - A licenciatura em Arqueologia entra em funcionamento no ano lectivo 2006/2007
 
-###### Artigo 6.º — Estrutura curricular, plano de estudos e créditos
+###### Artigo 7.º — Estrutura curricular, plano de estudos e créditos
 
 1) O curso está organizado segundo o sistema europeu de acumulação e transferências de créditos (ECTS).
 

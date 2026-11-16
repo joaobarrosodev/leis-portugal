@@ -35,7 +35,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 2.º» entre os artigos 4.º e 6.º; usado o 5.º.'
 language: por
 version:
   kind: original
@@ -278,7 +279,7 @@ e) A partir de 2001, subtraindo do resultado referido na alínea d) os ganhos l�
 
 f) Calculando, no momento de cada alargamento da União Europeia, um ajustamento ao resultado referido na alínea e) para diminuir a compensação, assegurando dessa forma que a despesa que não é deduzida antes do alargamento continuará a não ser deduzida após o alargamento. O referido ajustamento será efectuado retirando do total das despesas repartidas um montante equivalente à despesa anual de pré-adesão dos países aderentes. Todos os montantes assim calculados serão transitados para anos posteriores e ajustados anualmente mediante a aplicação do deflator do PNB euro utilizado para a adaptação das perspectivas financeiras.
 
-###### Artigo 2º
+###### Artigo 5º
 
 1 - O encargo financeiro da correcção é assumido pelos outros Estados-Membros de acordo com as seguintes regras:
 

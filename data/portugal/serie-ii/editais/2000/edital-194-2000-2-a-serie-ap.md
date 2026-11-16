@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 55.º» entre os artigos 55.º e 57.º; usado o 56.º.'
 language: por
 version:
   kind: original
@@ -634,7 +635,7 @@ b) No interior do edifício em zonas comuns ou no logradouro junto à entrada co
 
 4 - Quando os contadores se encontrem a distância apreciável do limite da propriedade, a entidade gestora pode instalar uma válvula de seccionamento na extremidade de jusante do ramal de ligação de água, a qual só pode por ela ser manobrada.
 
-###### Artigo 55.º — Verificação e substituição
+###### Artigo 56.º — Verificação e substituição
 
 1 - A entidade gestora poderá, sempre que o julgar conveniente, proceder à verificação do contador e sua substituição quando tenha conhecimento de qualquer anomalia, por razões de exploração e controlo metrológico.
 

@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 103.º» entre os artigos 112.º e 114.º; usado o 113.º.'
 language: por
 version:
   kind: original
@@ -1856,7 +1857,7 @@ V = Cubicagem da câmara frigorífica (metro cúbico ou fracção)
 
 Instalações desportivas e de recreio
 
-###### Artigo 103 º — Parque desportivo "Campinhos da Trindade" - recinto descoberto
+###### Artigo 113 º — Parque desportivo "Campinhos da Trindade" - recinto descoberto
 
 1 - Entidades privadas e associações sediadas na área do município, em período diurno:
 

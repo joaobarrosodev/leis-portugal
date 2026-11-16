@@ -35,7 +35,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 9.º» entre os artigos 18.º e 20.º; usado o 19.º.'
 language: por
 version:
   kind: original
@@ -384,7 +385,7 @@ f) Não ultrapassem a área bruta máxima de construção de 400 m2, excepto qua
 
 ### CAPÍTULO V — Ordenamento do espaço natural
 
-###### Artigo 9.º — Zona natural
+###### Artigo 19.º — Zona natural
 
 A zona natural compreende áreas de incultos, espaços sujeitos a regimes de condicionamento especial da sua ocupação e ainda espaços cuja estrutura natural se pretende preservar, nomeadamente os que se integram em biótopos identificados.
 

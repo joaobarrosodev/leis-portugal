@@ -35,7 +35,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 212.º» entre os artigos 20.º e 22.º; usado o 21.º.'
 language: por
 version:
   kind: original
@@ -837,7 +838,7 @@ O NSTPS é a unidade orgânica que tem por objectivo assegurar os serviços do �
 
 #### SECÇÃO IX — Da Direcção Regional dos Assuntos Culturais
 
-###### Artigo 212.º — Atribuições e competências
+###### Artigo 21.º — Atribuições e competências
 
 1 - A DRAC é o órgão de estudo, coordenação, execução, apoio e orientação, no âmbito e de acordo com a política governamental definida para o sector da cultura.
 

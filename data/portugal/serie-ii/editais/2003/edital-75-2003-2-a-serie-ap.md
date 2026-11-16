@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 56.º» entre os artigos 54.º e 56.º; usado o 55.º.'
 language: por
 version:
   kind: original
@@ -642,7 +643,7 @@ A emissão do alvará para trabalhos de remodelação, nomeadamente operações 
 
 ### CAPÍTULO IX — Utilização de edifícios ou suas fracções
 
-###### Artigo 56.º — Licenças de utilização e de alteração do uso
+###### Artigo 55.º — Licenças de utilização e de alteração do uso
 
 1 - A licença ou autorização de utilização destina-se a verificar a conformidade do uso previsto com as normas legais e regulamentares que lhe são aplicáveis e a idoneidade do edifício ou sua fracção autónoma para o fim a que se destina.
 

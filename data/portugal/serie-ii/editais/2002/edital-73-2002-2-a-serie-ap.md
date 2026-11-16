@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 35.º» entre os artigos 32.º e 34.º; usado o 33.º.'
 language: por
 version:
   kind: original
@@ -412,7 +413,7 @@ Os consumidores são responsáveis por todos os gastos de água, fugas ou perdas
 
 ### CAPÍTULO IV — Contadores
 
-###### Artigo 35.º — Contadores
+###### Artigo 33.º — Contadores
 
 1 - Os contadores são propriedade da Câmara Municipal de Lagoa.
 

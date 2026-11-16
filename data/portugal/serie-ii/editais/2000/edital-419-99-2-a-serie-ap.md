@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 64.º» entre os artigos 53.º e 55.º; usado o 54.º.'
 language: por
 version:
   kind: original
@@ -610,7 +611,7 @@ O preceituado neste capítulo aplica-se, com as necessárias adaptações, às s
 
 3 - Estão isentas de licença as obras de simples limpeza e beneficiação, desde que não impliquem alteração do aspecto inicial dos jazigos e sepulturas.
 
-###### Artigo 64.º — Projecto
+###### Artigo 54.º — Projecto
 
 1 - Do projecto referido no artigo anterior constarão os elementos seguintes:
 

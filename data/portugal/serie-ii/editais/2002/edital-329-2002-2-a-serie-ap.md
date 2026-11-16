@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 101.º» entre os artigos 103.º e 105.º; usado o 104.º.'
 language: por
 version:
   kind: original
@@ -1472,7 +1473,7 @@ As anotações das contagens físicas, têm de ser realizadas em documentos pró
 
 O presente capítulo visa estabelecer procedimentos e medidas de controlo interno para a gestão e controlo dos bens pertencentes ao activo imobilizado da autarquia.
 
-###### Artigo 101.º — Âmbito
+###### Artigo 104.º — Âmbito
 
 Devem ser considerados imobilizado os bens adquiridos por recurso a verbas de rubricas de "Bens duradouros e bens ou de investimentos", entendidos os primeiros como bens de consumo duradouro que se conservam para além de um ano e que em regra são susceptíveis de inventariação e, os segundos, bens igualmente inventariáveis ligados à produção de bens e serviços que revestem a característica de serem meios de produção, e os bens produzidos, duráveis, por recurso a sinergias internas da autarquia.
 

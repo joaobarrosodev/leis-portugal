@@ -25,7 +25,9 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 19.º» entre os artigos 17.º e 19.º; usado o 18.º.'
+- 'Numeração corrigida: o DRE escreve «Artigo 37.º» entre os artigos 31.º e 33.º; usado o 32.º.'
 language: por
 version:
   kind: original
@@ -292,7 +294,7 @@ b) São perpétuas aquelas cuja utilização foi exclusiva e perpetuamente conce
 
 2 - As sepulturas perpétuas devem localizar-se em talhões distintos dos destinados a sepulturas temporárias, dependendo a alteração da natureza dos talhões de deliberação da Junta de Freguesia.
 
-###### Artigo 19.º — Dimensões
+###### Artigo 18.º — Dimensões
 
 As sepulturas terão, em planta, a forma rectangular, obedecendo às seguintes dimensões mínimas:
 
@@ -408,7 +410,7 @@ Para a inumação em jazigo o cadáver deve ser encerrado em caixão de zinco, t
 
 3 - As concessões de terrenos não conferem aos titulares nenhum título de propriedade ou qualquer direito real, mas somente o direito de aproveitamento com afectação especial e nominativa em conformidade com as leis e regulamentos.
 
-###### Artigo 37.º — Pedido
+###### Artigo 32.º — Pedido
 
 O pedido para a concessão de terrenos é dirigido ao presidente da Junta de Freguesia e dele deve constar a identificação do requerente e a localização.
 

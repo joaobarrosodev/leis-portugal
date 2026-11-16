@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 93.º» entre os artigos 12.º e 14.º; usado o 13.º.'
 language: por
 version:
   kind: original
@@ -330,7 +331,7 @@ h) Os critérios que presidirão à ordenação dos candidatos e consequente atr
 
 2 - Da identificação do concurso constará, expressamente, a área e o tipo de serviço para que é aberto e o regime de estacionamento.
 
-###### Artigo 93.º — Requisitos de admissão a concurso
+###### Artigo 13.º — Requisitos de admissão a concurso
 
 1 - Ao concurso para atribuição de licenças, só poderão candidatar-se as entidades que sejam titulares de alvará para o exercício da actividade de transportes em táxi, emitido pela DGTT, bem como os trabalhadores por conta de outrem e os membros de cooperativas licenciadas por aquela mesma Direcção-Geral, que reúnam as condições de acesso definidas no [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de Agosto, e que demonstrem ter a sua situação regularizada relativamente a dívidas por impostos ao Estado e por contribuições para a segurança social.
 

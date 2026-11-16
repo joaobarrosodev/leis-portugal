@@ -37,7 +37,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 251.º» entre os artigos 350.º e 352.º; usado o 351.º.'
 language: por
 version:
   kind: original
@@ -298,7 +299,7 @@ c) Segundo-grumete recruta (2GRREC) ou soldado recruta (SOLREC), quando destinad
 
 5 - Ao militar em SEN é atribuído, em substituição da cédula, um cartão de identificação, de uso obrigatório, para comprovar a sua identidade para efeitos militares.
 
-###### Artigo 251.º — Funções
+###### Artigo 351.º — Funções
 
 1 - Ao militar em SEN incumbe o desempenho de funções compatíveis com a preparação obtida e, sempre que possível, com as habilitações académicas e qualificações profissionais que detenha.
 

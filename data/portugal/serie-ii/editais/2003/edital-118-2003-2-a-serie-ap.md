@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 90.º» entre os artigos 8.º e 10.º; usado o 9.º.'
 language: por
 version:
   kind: original
@@ -482,7 +483,7 @@ Junto ao Feira Nova (2).
 
 4 - Os locais destinados ao estacionamento de táxis, serão devidamente assinalados através de sinalização horizontal e vertical.
 
-###### Artigo 90.º — Fixação de contingentes
+###### Artigo 9.º — Fixação de contingentes
 
 São fixados os seguintes contingentes de veículos ligeiros de passageiros afectos ao transporte de aluguer:
 

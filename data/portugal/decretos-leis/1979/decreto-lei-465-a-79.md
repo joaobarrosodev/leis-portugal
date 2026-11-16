@@ -26,7 +26,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 23.º» entre os artigos 21.º e 23.º; usado o 22.º.'
 language: por
 version:
   kind: original
@@ -404,7 +405,7 @@ A assistência às reuniões do conselho de gerência e as demais funções que 
 
 É aplicável aos membros da comissão de fiscalização o disposto no artigo 15.º
 
-###### Artigo 23.º — (Dever de sigilo)
+###### Artigo 22.º — (Dever de sigilo)
 
 Os membros da comissão de fiscalização são obrigados a guardar segredo dos factos e informações de que tiverem conhecimento no exercício das suas funções, sem prejuízo do dever enunciado na alínea h) do n.º 1 do artigo 17.º
 

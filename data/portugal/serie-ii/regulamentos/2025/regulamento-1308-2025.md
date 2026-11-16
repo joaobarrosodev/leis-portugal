@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 44.º» entre os artigos 44.º e 46.º; usado o 45.º.'
 language: por
 version:
   kind: original
@@ -542,7 +543,7 @@ As transmissões de jazigos e sepulturas perpétuas averbar-se-ão no alvará de
 
 2 - As transmissões, no todo ou em parte, a favor de pessoas estranhas à família do instituidor ou concessionário só serão, porém, permitidas desde que o adquirente declare no pedido de averbamento que se responsabiliza pela perpetuidade da conservação, no próprio jazigo ou sepultura, dos corpos ou ossadas aí existentes, devendo esse compromisso constar daquele averbamento.
 
-###### Artigo 44.º — Transmissão por ato entre vivos
+###### Artigo 45.º — Transmissão por ato entre vivos
 
 1 - As transmissões por atos entre vivos das concessões de jazigos ou sepulturas perpétuas serão livremente admitidas quando neles não existam corpos ou ossadas, de familiares da pessoa a quem é doado e sempre mediante autorização expressa da Câmara Municipal.
 
