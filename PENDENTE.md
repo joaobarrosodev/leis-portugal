@@ -27,8 +27,29 @@ repetidos. Cada um tem uma nota em `notes` com o número que o DRE escreve. A li
   - Nenhum registo perde artigos. No Aviso n.º 17262/2018, as três unidades «1.º, 2.º, 3.º» davam
     lugar ao art. 82.º-B, que as contém.
   - O `data/` não mudou: só a leitura.
+- **Os dois leitores de artigos alinhados: feito (16/11).** Em 1.751.984 títulos `###### Artigo`, os dois
+  leitores dão agora o mesmo número em 1.748.096. Antes, divergiam em cerca de 38 mil.
+  - **No RAG, 62.402 artigos mudam de chave em 12.516 registos** (55.598 da UE e 6.804 de Portugal). Passam à
+    forma das perguntas: «1o», «1g.», «1º.», «1°», «1.», «1», «3. º», «12.ºA» e «3.º–EA» ficam «1.º», «12.º-A»
+    e «3.º-EA». A pesquisa procura o artigo pelo número exato, por isso uma pergunta pelo «artigo 1.º» não
+    encontrava, por exemplo, os 17 mil artigos «1o» dos atos antigos do EUR-Lex.
+  - **No RAG, entram 2.805 artigos** com números compostos dos regulamentos («A/1 - 5.º», «C - 1/4.º») ou
+    sem espaço («Artigo12.º»). Saem 4 títulos (como «Artigo Anexo I»), cujo texto passa para o artigo
+    anterior.
+  - **O `articles.py` lê mais 35.131 artigos** (21.803 da UE): os «1o», «1g.», os aditados com a letra junta e
+    os compostos. 3.708 registos que não tinham nenhum artigo passam a tê-los. Só 6 se perdem, nos
+    Editais 510/2017 e 790/2018: os números 1.º–5.º eram os n.ºs do artigo D-4/24.º, que agora os contém. Só no Edital 189/2011 mudam ids de forma relevante: os 243 «art-c-N»
+    passam a «art-c-1-N-o».
+  - Ficam diferentes 2.117 títulos. 1.055 só o RAG lê, e com a chave de antes: são títulos estranhos
+    como «Artigo Segundo», «Artigo A» ou «1쨘» (com a codificação errada). 1.056 só o `articles.py` lê:
+    quase todos têm a epígrafe depois de um hífen («Artigo 87.º - Ensaios.»), e o RAG continua a não a
+    ler. Nos decretos antigos com essa forma, os outros artigos estão em texto corrido antes do título,
+    e o índice perdê-los-ia.
+  - Nas perguntas da avaliação da UE, 25 chaves passaram à forma nova («1º» → «1.º»). Todas existem no
+    registo com o leitor novo.
 - Falta o índice, e o `structure` só para o relatório: ficam para a reconstrução do ponto 3. Na
-  reconstrução, entram as chaves novas (`78.º-A`), e as que tinham o hífen U+2010 passam a «-».
+  reconstrução, entram as chaves novas (`78.º-A`, `1.º` em vez de `1o`), e as que tinham o hífen
+  U+2010 passam a «-».
 
 ## 2. Atos da UE em vigor: feito (16/11)
 

@@ -31,10 +31,18 @@ from dataclasses import dataclass, field
 
 ARTICLE_KINDS = {"artigo": "art", "base": "base", "clausula": "clausula", "numero": "n"}
 
-# Letra de artigo aditado: «10.º-A», «10.º - A», «292.º ‐A» (hífen U+2010 do EUR-Lex) e «78.º A»; a letra
-# solta só quando o título acaba nela ou segue a epígrafe («Artigo 5.º A presente lei…» não é o 5.º-A).
-_LETTER = r"(?:\s?[-‐‑]\s?[A-Z]{1,2}\b|\s[A-Z]\b(?=\s*(?:$|[—–])))"
-_NUMBER = r"(?:\d+(?:\s?\.?\s?[º°]|\.o\b|\.)?(?:" + _LETTER + r")?|[IVXLCDM]+\b(?:-[A-Z]\b)?|[ÚúUu]nic[oa]\b|ÚNIC[OA]\b|UNIC[OA]\b)"
+# Letra de artigo aditado: «10.º-A», «10.º - A», «292.º ‐A» (hífen U+2010 do EUR-Lex), «3.º–EA», «12.ºA» e
+# «78.º A» (até três letras: «230.º-AAA»); a letra solta só quando o título acaba nela ou segue a epígrafe («Artigo 5.º A presente lei…»
+# não é o 5.º-A).
+_LETTER = r"(?:\s?[-‐‑]\s?[A-Z]{1,3}\b|–[A-Z]{1,2}\b|(?<=[º°o])[A-Z]{1,2}\b|\s[A-Z]\b(?=\s*(?:$|[—–])))"
+# O número inteiro também vem como «1o», «1o.» e «1g.» nos atos antigos do EUR-Lex. Há ainda os números
+# compostos dos regulamentos («A-1/2.º», «C - 1/4.º», «A/1 - 5.º», «D-11/2.º-A», «III/1.º») e os dos
+# acordos da UE («2.1», «J.1»). O mesmo leitor está em `avaliacao/comum.py`, para o índice do RAG.
+_COMPOUND = r"(?:[A-Z]{1,3}|\d+)(?:\s?[-/.]\s?(?:[A-Z]{1,3}|\d+))+(?:\s?\.?\s?º)?(?:\s?-\s?[A-Z]{1,2}\b)?"
+_NUMBER = (
+    r"(?:\d+(?:\s?\.?\s?[º°]|\.?o\.?(?![a-z])|g\.|\.)?(?:" + _LETTER + r")?|" + _COMPOUND
+    + r"|[IVXLCDM]+\b(?:-[A-Z]\b)?|[ÚúUu]nic[oa]\b|ÚNIC[OA]\b|UNIC[OA]\b)"
+)
 _LABELS = {
     "artigo": "artigo", "art.": "artigo", "artº": "artigo", "art.º": "artigo",
     "base": "base", "cláusula": "clausula", "clausula": "clausula", "article": "artigo",
@@ -157,9 +165,12 @@ def _canonical_label(label: str) -> str:
 
 
 def _clean_number(number: str) -> str:
-    """`10.º - A`, `292.º ‐A` e `78.º A` ficam `10.º-A`, `292.º-A` e `78.º-A`."""
-    number = re.sub(r"\s*[‐‑]\s*", "-", number.strip())
+    """`10.º - A`, `292.º ‐A`, `78.º A` e `12.ºA` ficam `10.º-A`, `292.º-A`, `78.º-A` e `12.º-A`; `1o` e `1g.`
+    ficam `1.º`."""
+    number = re.sub(r"\s*[‐‑–]\s*", "-", number.strip())
+    number = re.sub(r"^(\d+)(?:\.?o\.?|g\.)(?![a-z])", r"\1.º", number)
     number = re.sub(r"(?<=[º°.o])\s+(?=[A-Z]{1,2}$)", "-", number)
+    number = re.sub(r"(?<=[º°])(?=[A-Z]{1,2}$)", "-", number)
     return re.sub(r"\s+", "", number).rstrip(".")
 
 
