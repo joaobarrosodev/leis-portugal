@@ -3,7 +3,8 @@ id: pt:dre:161503:por
 title: Decreto n.º 162/75
 original: data/portugal/decretos/1975/decreto-162-75.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:454502:por
@@ -41,45 +42,83 @@ Nos termos da base IV da [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe
 
 ###### Artigo 3.º
 
-(Revogado.)
+1. No prazo de um ano a contar da publicação do presente diploma será elaborado o plano de ordenamento da reserva, do qual constará a indicação dos trabalhos de estrutura e valorização a realizar.
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+2. Após a aprovação do plano referido no número anterior, serão definidas por decreto a especificação e delimitação dos tipos e zonas de reserva e as servidões e restrições administrativas a que ficarão sujeitos os terrenos e bens nela compreendidos.
+
+3. Os projectos de que sejam objecto as zonas que vierem a ser definidas como reservas turísticas, no decreto a que se refere o número anterior, deverão prever a integração na paisagem, a resolução dos problemas de estabilização biofísica por processos integráveis com base na vegetação clima ou tradicional, a valorização e protecção dos elementos físicos naturais e a valorização estética e ambiental.
 
 ###### Artigo 4.º
 
-(Revogado.)
-
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+A reserva será administrada por uma comissão, a que presidirá um representante da Comissão Nacional de Parques, Reservas e Património Paisagístico, a designar pelo Subsecretário de Estado do Ambiente, de que serão vogais representantes dos municípios interessados e do Gabinete de Planeamento Urbanístico e do Ambiente do Algarve.
 
 ###### Artigo 5.º
 
-(Revogado.)
+Constitui contravenção:
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+a) A realização de quaisquer trabalhos, obras ou actividades em terrenos abrangidos na reserva sem autorização superior, quando regularmente exigida, ou com inobservância das condições impostas ou projectos aprovados;
+
+b) A introdução, a circulação e o estabelecimento nos terrenos situados na reserva de pessoas, veículos ou animais com inobservância das proibições ou condicionamentos que forem estabelecidos;
+
+c) A instalação de locais de campismo ou o acampamento em terrenos situados na reserva, fora das zonas especialmente destinadas a esse fim ou com inobservância das condições fixadas;
+
+d) O abandono de detritos fora dos locais especialmente destinados a esse fim;
+
+e) A introdução na reserva de animais não domésticos e de espécies vegetais exóticas e a colheita de plantas;
+
+f) A destruição de vegetação e a captura ou caça de qualquer animal selvagem;
+
+g) A pesca com redes ou quaisquer artefactos que visem a comercialização do produto da mesma, com excepção da pesca à linha em lugares para tal demarcados;
+
+h) O depósito de materiais ou qualquer outra alteração de relevo;
+
+i) O sobrevoo da zona por aeronaves que circulem com o tecto de voo inferior a 200 m.
 
 ###### Artigo 6.º
 
-(Revogado.)
+1. As contravenções previstas no artigo anterior são punidas com multas:
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+a) De 500$00 a 10000$00, as das alíneas a), b), d), h) e i) e a instalação de locais de campismo prevista na alínea c);
+
+b) De 500$00, o acto de acampamento previsto na alínea c);
+
+c) De 200$00 a 1000$00, as das alíneas e), f) e g).
+
+2. A aplicação da multa pelas contravenções previstas nas alíneas a) e h) do artigo anterior não prejudica a obrigação de o infractor demolir as obras ou trabalhos efectuados, quando não possam ser autorizadas.
 
 ###### Artigo 7.º
 
-(Revogado.)
+1. As funções de polícia e fiscalização da reserva competem às câmaras municipais dentro de cuja área de jurisdição se situem terrenos abrangidos pela reserva.
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+2. Os autos de notícia por infracção ao disposto no presente decreto serão levantados e processados nos termos dos artigos 166.º e 167.º do Código de Processo Penal.
+
+3. O produto das multas citadas no artigo anterior reverterá em favor das câmaras municipais do local da infracção.
 
 ###### Artigo 8.º
 
-(Revogado.)
+1. Até à data de entrada em vigor do decreto referido no n.º 2 do artigo 3.º do presente diploma fica dependente de autorização superior, dentro do perímetro da reserva, a realização dos seguintes trabalhos:
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+a) Construção, reconstrução, ampliação ou demolição de edifícios e outras instalações;
+
+b) Instalação de explorações ou ampliação das já existentes;
+
+c) Alterações importantes, por meio de aterros ou escavações, à configuração geral dos terrenos;
+
+d) Derrube de árvores em maciço;
+
+e) Abertura de novas vias de comunicação e a passagem de linhas eléctricas ou telefónicas;
+
+f) Captação e desvio de águas.
+
+2. A autorização a que se refere o número anterior não dispensa quaisquer outros condicionamentos legalmente exigidos.
+
+3. Não carecem da autorização a que se referem os números antecedentes quaisquer obras no interior de povoações que possuam planos de urbanização, às quais serão aplicáveis os respectivos planos, ou, para as que, não possuindo plano, se localizam estritamente dentro do seu perímetro urbano, desde que não se trate do estabelecimento de actividades poluentes ou que afectem o ambiente.
 
 ###### Artigo 9.º
 
-(Revogado.)
+1. É aplicável às obras e trabalhos efectuados com inobservância do preceituado no número anterior o disposto no artigo 5.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730).
 
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+2. São nulas e de nenhum efeito as licenças municipais concedidas com violação do regime instituído neste diploma.
 
 ###### Artigo 10.º
 
@@ -91,9 +130,7 @@ As despesas emergentes da execução do presente diploma serão suportadas pelas
 
 ###### Artigo 12.º
 
-(Revogado.)
-
-> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), publicado em 2008-07-24.
+As dúvidas suscitadas pelo presente decreto serão resolvidas por despacho do Subsecretário de Estado do Ambiente, com o acordo do Ministro do Equipamento Social e do Ambiente.
 
 ###### Artigo 13.º
 

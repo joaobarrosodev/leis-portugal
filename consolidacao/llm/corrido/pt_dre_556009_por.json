@@ -15,12 +15,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Substituição das plantas anexas (Portarias 979/94 e 877/97) só em imagem. Portarias 592/2002 (suspensão da caça), 906/2002 (renovação), 1215/2004 (anexação) e 1065/2008 (renovação e anexação) não alteram textualmente a portaria: são atos autónomos sobre a concessão.",
+  "nao_aplicavel": "Portaria 592/2002 (suspensão do exercício da caça, revogada pela Portaria 906/2002), Portaria 906/2002 (renovação por seis anos, 1555,9525 ha), Portaria 1215/2004 (anexação, área total 1648 ha) e Portaria 1065/2008 (renovação e anexação, 1511 ha): nenhuma dá nova redação ao n.º 1.º nem ao n.º 2.º, por isso não se aplicam ao texto (reparo do verificador não aceite: seria inferir alterações). As plantas anexas só vêm em imagem.",
   "instrucoes": [
-    "Portaria 979/94: nova redação do n.º 1.º (unidade 6) - aplicada, depois substituída pela redação da Portaria 877/97; planta substituída só em imagem",
-    "Portaria 877/97, 1.º: nova redação do n.º 1.º (unidade 6) - substituída, mantendo o número 1.º",
-    "Portaria 877/97: aditado n.º 1.º-A - inserido após a unidade 6",
-    "Portarias 592/2002, 906/2002, 1215/2004 e 1065/2008: suspensão, renovações e anexações sem alteração textual - não aplicadas"
+    "Portaria 979/94: nova redação do n.º 1.º (1868,85 ha) e substituição da planta: unidade 6 substituída, depois substituída de novo pelo alterador 2; planta só em imagem.",
+    "Portaria 877/97, n.º 1.º: nova redação do n.º 1.º (1785,1425 ha), mantendo o número 1.º da unidade: unidade 6 com o texto final.",
+    "Portaria 877/97, n.º 1.º: aditado o n.º 1.º-A: inserido depois da unidade 6.",
+    "Portaria 592/2002: suspensão do exercício da caça; sem alteração textual: nao_aplicavel.",
+    "Portaria 906/2002: renovação da concessão (1555,9525 ha); sem alteração textual: nao_aplicavel.",
+    "Portaria 1215/2004: anexação de prédios (1648 ha); sem alteração textual: nao_aplicavel.",
+    "Portaria 1065/2008: renovação e anexação (1511 ha); sem alteração textual: nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

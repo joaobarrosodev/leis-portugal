@@ -182,6 +182,20 @@
     "alterador": "pt:dre:667477:por"
   },
   {
+    "artigo": "13.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 13.º — Modalidades de avaliação\n\nAs modalidades de avaliação são as referidas no artigo 11.º do Decreto-Lei n.º 74/2004, de 26 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 24/2006, de 6 de Fevereiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.",
+    "depois": "###### Artigo 13.º — Modalidades de avaliação\n\nAs modalidades de avaliação são as referidas no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 24/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2006-551873), de 6 de Fevereiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.\n\n> Alterado pelo/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:238847:por",
+    "alterador": "pt:dre:667477:por;pt:dre:247710:por"
+  },
+  {
     "artigo": "19.º",
     "operacao": "substituir",
     "regra": "llm",
@@ -193,7 +207,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:238847:por",
-    "alterador": "pt:dre:247710:por"
+    "alterador": "pt:dre:667477:por;pt:dre:247710:por"
   },
   {
     "artigo": "21.º",
@@ -207,7 +221,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:238847:por",
-    "alterador": "pt:dre:247710:por"
+    "alterador": "pt:dre:667477:por;pt:dre:247710:por"
   },
   {
     "artigo": "29.º",
@@ -221,7 +235,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:238847:por",
-    "alterador": "pt:dre:247710:por"
+    "alterador": "pt:dre:667477:por;pt:dre:247710:por"
   },
   {
     "artigo": "33.º",
@@ -235,6 +249,48 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:238847:por",
-    "alterador": "pt:dre:247710:por"
+    "alterador": "pt:dre:667477:por;pt:dre:247710:por"
+  },
+  {
+    "artigo": "ANEXO II — Regulamento da Prova de Aptidão Tecnológica",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II — Regulamento da Prova de Aptidão Tecnológica\n1 - O produto, objecto ou produção escrita ou de outra natureza, bem como o respectivo relatório de realização, a defender na prova de aptidão tecnológica (PAT), são presentes ao júri até oito dias úteis antes da data de realização da prova.\n\n2 - A PAT tem a duração máxima de quarenta e cinco minutos e realiza-se, de acordo com calendário a definir por cada escola, preferencialmente no período definido para a realização dos exames finais nacionais.\n\n3 - A preparação da PAT desenvolve-se do seguinte modo:\n\na) Elaboração do projecto pelo aluno e sua aprovação pelo docente da área tecnológica integrada (ATI);\n\nb) Desenvolvimento do produto proposto, sob orientação do professor da ATI;\n\nc) Redacção, por parte do aluno, do relatório de realização do produto;\n\nd) Entrega dos elementos a defender na PAT ao presidente do júri, no prazo previsto no n.º 1 do presente Regulamento.\n\n4 - O produto a defender pelo aluno pode resultar, entre outras possibilidades, do aprofundamento individual do trabalho de projecto desenvolvido no âmbito do projecto tecnológico.\n\n5 - Ao professor da ATI cabe:\n\na) Orientar o aluno na escolha do produto a apresentar, na sua realização e na redacção do respectivo relatório;\n\nb) Informar os alunos sobre os critérios de avaliação;\n\nc) Decidir se o produto e o relatório estão em condições de serem presentes ao júri;\n\nd) Orientar o aluno na preparação da apresentação a realizar na PAT;\n\ne) Lançar, na respectiva pauta, a classificação da PAT.\n\n6 - Ao director de curso compete:\n\na) Propor para aprovação do conselho pedagógico os critérios de avaliação da PAT, depois de ouvidos os professores das disciplinas tecnológicas do curso;\n\nb) Garantir que os critérios referidos na alínea anterior estão de acordo com os princípios gerais e os critérios de avaliação adoptados pela escola;\n\nc) Assegurar, em articulação com o presidente do órgão de direcção executiva da escola, os procedimentos necessários à realização da PAT, nomeadamente a calendarização das provas, nos termos do n.º 2 do presente Regulamento, e a constituição do júri de avaliação;\n\nd) Garantir, no que respeita à PAT, a articulação entre as várias disciplinas, nomeadamente as da componente de formação tecnológica e as áreas não disciplinares.\n\n7 - O presidente do órgão de direcção executiva da escola, em colaboração com os órgãos pedagógicos da escola, é o responsável pelo planeamento necessário à realização da PAT.\n\n8 - O júri de avaliação da PAT é designado pelo órgão de direcção executiva da escola e tem a seguinte composição:\n\na) O presidente do órgão de direcção executiva ou um seu representante, que preside;\n\nb) O director de curso;\n\nc) O coordenador pedagógico de turma;\n\nd) Um professor orientador do projecto;\n\ne) Um representante das associações empresariais ou das empresas de sectores afins ao curso;\n\nf) Um representante das associações sindicais dos sectores de actividade afins ao curso;\n\ng) Uma personalidade de reconhecido mérito na área de formação profissional do curso ou dos sectores de actividade afins ao curso.\n\n9 - O júri de avaliação, para deliberar, necessita da presença de, pelo menos, quatro elementos, estando entre eles, obrigatoriamente, um dos elementos a que se refere a alínea a), um dos elementos a que se referem as alíneas b) e c) e dois dos elementos a que se referem as alíneas e) a g) do número anterior, tendo o presidente voto de qualidade em caso de empate nas votações.\n\n10 - O júri reúne para avaliação da PAT, devendo dessa reunião ser lavrada acta, a qual é, depois de assinada por todos os elementos do júri, remetida ao órgão de direcção executiva da escola.\n\n11 - O aluno que, por razão justificada, não compareça à PAT deve apresentar, no prazo de dois dias úteis a contar da data da realização da prova, a respectiva justificação ao órgão de direcção executiva da escola, podendo aquela ser entregue através do encarregado de educação.\n\n12 - No caso de ser aceite a justificação, o presidente do júri marca a data de realização da nova prova.\n\n13 - A não justificação ou a injustificação da falta à primeira prova, bem como a falta à nova prova, determina sempre a impossibilidade de realizar a PAT nesse ano escolar.\n\n14 - O aluno que, tendo comparecido à PAT, não tenho sido considerado aprovado pelo júri poderá realizar nova prova, no mesmo ano escolar, em data a definir pelo presidente do órgão de direcção executiva da escola, em articulação com o presidente do júri.\n\n15 - A falta de aproveitamento na nova prova determina sempre a impossibilidade de realizar a PAT nesse ano escolar.\n\n16 - A classificação da PAT não pode ser objecto de pedido de reapreciação.",
+    "depois": "## ANEXO II — Regulamento da Prova de Aptidão Tecnológica\n\n1 - O produto, objecto ou produção escrita ou de outra natureza, bem como o respectivo relatório de realização, a defender na prova de aptidão tecnológica (PAT), são presentes ao júri até oito dias úteis antes da data de realização da prova.\n\n2 - A PAT tem a duração máxima de quarenta e cinco minutos e realiza-se, de acordo com calendário a definir por cada escola, no final das actividades lectivas, após a realização do estágio.\n\n3 - A preparação da PAT desenvolve-se do seguinte modo:\n\na) Elaboração do projecto pelo aluno e sua aprovação pelo docente da área tecnológica integrada (ATI);\n\nb) Desenvolvimento do produto proposto, sob orientação do professor da ATI;\n\nc) Redacção, por parte do aluno, do relatório de realização do produto;\n\nd) Entrega dos elementos a defender na PAT ao presidente do júri, no prazo previsto no n.º 1 do presente Regulamento.\n\n4 - O produto a defender pelo aluno pode resultar, entre outras possibilidades, do aprofundamento individual do trabalho de projecto desenvolvido no âmbito do projecto tecnológico.\n\n5 - Ao professor da ATI cabe:\n\na) Orientar o aluno na escolha do produto a apresentar, na sua realização e na redacção do respectivo relatório;\n\nb) Informar os alunos sobre os critérios de avaliação;\n\nc) Decidir se o produto e o relatório estão em condições de serem presentes ao júri;\n\nd) Orientar o aluno na preparação da apresentação a realizar na PAT;\n\ne) Lançar, na respectiva pauta, a classificação da PAT.\n\n6 - Ao director de curso compete:\n\na) Propor para aprovação do conselho pedagógico os critérios de avaliação da PAT, depois de ouvidos os professores das disciplinas tecnológicas do curso;\n\nb) Garantir que os critérios referidos na alínea anterior estão de acordo com os princípios gerais e os critérios de avaliação adoptados pela escola;\n\nc) Assegurar, em articulação com o presidente do órgão de direcção executiva da escola, os procedimentos necessários à realização da PAT, nomeadamente a calendarização das provas, nos termos do n.º 2 do presente Regulamento, e a constituição do júri de avaliação;\n\nd) Garantir, no que respeita à PAT, a articulação entre as várias disciplinas, nomeadamente as da componente de formação tecnológica e as áreas não disciplinares.\n\n7 - O presidente do órgão de direcção executiva da escola, em colaboração com os órgãos pedagógicos da escola, é o responsável pelo planeamento necessário à realização da PAT.\n\n8 - O júri da PAT é constituído pelos seguintes elementos:\n\na) Director de curso, que preside;\n\nb) Professor da ATI;\n\nc) Um representante das associações empresariais ou das empresas e instituições de sectores afins do curso;\n\nd) Uma personalidade de reconhecido mérito na área de formação profissional do curso ou dos sectores de actividades afins do curso.\n\n8.1 - O júri de avaliação, para deliberar, necessita da presença de três elementos, estando entre eles obrigatoriamente os elementos a que se referem as alíneas a) e b) e um dos elementos a que se referem as alíneas c) e d).\n\n8.2 - Nos casos em que o director de curso e o professor da ATI são a mesma pessoa, deve o júri integrar um outro professor da componente de formação tecnológica do curso.\n\n8.3 - Nos casos em que não seja possível assegurar a presença do elemento a que se refere a alínea a) do n.º 8 do presente anexo, deve o júri ser presidido, em sua substituição, por um elemento do órgão de direcção executiva da escola.\n\n8.4 - O presidente do júri tem voto de qualidade em caso de empate nas votações.\n\n9 - Sempre que os cursos correspondam a profissões certificadas no âmbito do sistema de certificação profissional, o júri de avaliação integra também os elementos referidos no artigo 11.º do [Decreto Regulamentar n.º 68/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1994-547021), de 26 de Novembro, e o seu presidente é designado de acordo com o n.º 3 do mencionado artigo.\n\n10 - O júri reúne para avaliação da PAT, devendo dessa reunião ser lavrada acta, a qual é, depois de assinada por todos os elementos do júri, remetida ao órgão de direcção executiva da escola.\n\n11 - O aluno que, por razão justificada, não compareça à PAT deve apresentar, no prazo de dois dias úteis a contar da data da realização da prova, a respectiva justificação ao órgão de direcção executiva da escola, podendo aquela ser entregue através do encarregado de educação.\n\n12 - No caso de ser aceite a justificação, o presidente do júri marca a data de realização da nova prova.\n\n13 - A não justificação ou a injustificação da falta à primeira prova, bem como a falta à nova prova, determina sempre a impossibilidade de realizar a PAT nesse ano escolar.\n\n14 - O aluno que, tendo comparecido à PAT, não tenho sido considerado aprovado pelo júri poderá realizar nova prova, no mesmo ano escolar, em data a definir pelo presidente do órgão de direcção executiva da escola, em articulação com o presidente do júri.\n\n15 - A falta de aproveitamento na nova prova determina sempre a impossibilidade de realizar a PAT nesse ano escolar.\n\n16 - A classificação da PAT não pode ser objecto de pedido de reapreciação.\n\n> Alterado pelo/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:238847:por",
+    "alterador": "pt:dre:667477:por;pt:dre:247710:por"
+  },
+  {
+    "artigo": "ANEXO III — Provas de equivalência à frequência: tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO III — Provas de equivalência à frequência: tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração\n[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)",
+    "depois": "## ANEXO III — Provas de equivalência à frequência: tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração\n\n[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/052b00/18441848.pdf)\n\n> Alterado pelo/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:238847:por",
+    "alterador": "pt:dre:667477:por;pt:dre:247710:por"
+  },
+  {
+    "artigo": "ANEXO IV — Exames finais nacionais: tipo de prova a realizar em cada disciplina e respectiva duração",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO IV — Exames finais nacionais: tipo de prova a realizar em cada disciplina e respectiva duração\n[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)",
+    "depois": "## ANEXO IV — Exames finais nacionais: tipo de prova a realizar em cada disciplina e respectiva duração\n\n(Revogado.)\n\n> Alterado pelo/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:238847:por",
+    "alterador": "pt:dre:667477:por;pt:dre:247710:por"
   }
 ]

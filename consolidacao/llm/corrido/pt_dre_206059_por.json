@@ -21,12 +21,16 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Portaria 569-C/96, 2.º: substituição da planta anexa (só em imagem). Portarias 614/2003 (suspensão da caça), 1140/2003 (renovação a outra concessionária), 61/2006, 142/2007 e 865/2008 (anexações de prédios e áreas totais): não alteram o texto do original.",
+  "nao_aplicavel": "Alterador 1, 2.º, e alteradores 5 a 8: plantas substituídas/anexas só em imagem. Alterador 2: repete a Portaria 569-C/96 (alterador 1), já aplicada. Alterador 3, 2.º: declara NIPC e sede da URBALGARVE II, sem redacção dirigida ao texto. Alterador 4 (Portaria 614/2003): suspensão do exercício da caça, não textual (e revogada pelo alterador 5). Alterador 5 (Portaria 1140/2003): renova a concessão por 12 anos à CINELOTÃO, com NIPC, sede e área de 3687,1179 ha, mas sem redacção substitutiva dos n.os 1.º a 3.º; alteradores 6 (Portaria 61/2006, área total 3944 ha), 7 (Portaria 142/2007, 4290 ha) e 8 (Portaria 865/2008, 4361 ha): anexações de prédios sem redacção dirigida ao texto. Não se infere nova redacção dos n.os 1.º a 3.º (o reparo do verificador confirma que não há texto substitutivo).",
   "instrucoes": [
-    "569-C/96 1.º: nova redação do n.º 1.º; unidade 6 substituída (alterador 1; o alterador 2 é o mesmo diploma repetido).",
-    "569-C/96 2.º: substitui a planta anexa; não textual, em nao_aplicavel.",
-    "231/99 1.º: onde se lê URBALGARVE - Imobiliária e Turismo, Lda. passa URBALGARVE II - Turismo e Construções, S. A.; aplicado nas unidades 7 e 8 (no texto está 'Imobiliário', mesma entidade).",
-    "231/99 2.º, 614/2003, 1140/2003, 61/2006, 142/2007, 865/2008: não textuais, nada aplicado."
+    "Alterador 1 (Portaria 569-C/96), 1.º: nova redacção do n.º 1.º (área 3765 ha) - substituída a unidade 6.",
+    "Alterador 1, 2.º: substituição da planta - só em imagem, não aplicada.",
+    "Alterador 2: duplicado do alterador 1 - nada a mais.",
+    "Alterador 3 (Portaria 231/99), 1.º: onde se lê «URBALGARVE - Imobiliária e Turismo, Lda.» passa a ler-se «URBALGARVE II - Turismo e Construções, S. A.»; o original diz «Imobiliário» (gralha da citação), alvo inequívoco - substituído nas unidades 7 e 8.",
+    "Alterador 3, 2.º: NIPC e sede da nova denominação - declarativo, não aplicado.",
+    "Alterador 4 (Portaria 614/2003): suspensão temporária - não textual.",
+    "Alterador 5 (Portaria 1140/2003): renovação e mudança de concessionária para a CINELOTÃO, área 3687,1179 ha - sem redacção substitutiva, em nao_aplicavel.",
+    "Alteradores 6, 7 e 8: anexações (áreas totais 3944, 4290 e 4361 ha) - sem redacção substitutiva, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

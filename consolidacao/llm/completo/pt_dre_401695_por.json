@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:401695:por",
+  "artigos": [
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "A fim de fortalecer a capacidade concorrencial das actividades produtivas nacionais nos mercados interno e externo, designadamente nos sectores que desempenham acção motora no processo de desenvolvimento económico, o Governo instituirá temporàriamente:\n\na) A isenção ou redução de direitos que incidam sobre a importação de determinadas matérias-primas e bens de equipamento;\n\nb) A dedução, na matéria colectável da contribuição industrial, de uma percentagem do valor de investimentos que conduzam a novos fabricos ou à redução do custo ou melhoria de qualidade dos produtos que as empresas já fabriquem;\n\nc) A aceleração do regime de reintegrações e amortizações previstas no n.º 7.º do artigo 26.º do código aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963.\n\n§ único. O Conselho de Ministros para os Assuntos Económicos, mediante proposta dos Ministros das Finanças e da Economia, definirá, até 31 de Janeiro de 1968, atenta a conjuntura económico-financeira e os objectivos visados na fase inicial da execução do III Plano de Fomento, os bens e actividades a que se poderão aplicar as providências indicadas no corpo deste artigo.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "O texto do Decreto-Lei n.º 194/80 vem vazio no pedido: nenhuma instrução escrita revoga o artigo 8.º (nem altera outro artigo). O programa tinha posto o artigo 8.º como (Revogado.) sem instrução que o confirme; reposto o texto original.",
+  "instrucoes": [
+    "DL 194/80: texto vazio no pedido, sem instruções legíveis dirigidas ao original; artigo 8.º, que o programa dera como revogado, reposto com o texto original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "8.º: nenhum alterador menciona o artigo 8.º"
+  ],
+  "avisos": []
+}

@@ -217,7 +217,7 @@ Art. 33.º Nos casos em que, por falsificação, ocultação ou declaração dol
 
 Ministério das Finanças, 6 de Julho, de 1967. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês.
 
-Lista das actividades sujeitas a imposto para a defesa e valorização do ultramar, a que se refere o artigo 12.º da [Lei n.º 10/70](https://diariodarepublica.pt/dr/detalhe/lei/10-1970-689181), de 28 de Dezembro.
+Lista das actividades sujeitas a imposto para a defesa e valorização do ultramar, a que se refere o artigo 1 º do regulamento aprovado pelo Decreto n.º 47780, de 6 de Julho de 1967.
 
 1 - Agentes ou comissários de fabricantes e negociantes nacionais ou estrangeiros, de compra e venda de propriedades ou de comércios não especificados.
 

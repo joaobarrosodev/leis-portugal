@@ -341,17 +341,11 @@ A presente tabela aplica-se a todas as entidades referidas no artigo 1.º do Có
 
 > Alterado pelo/a [Portaria n.º 632/87](https://diariodarepublica.pt/dr/detalhe/portaria/632-1987-420583), publicado em 1987-07-20.
 
-###### ARTIGO 27.º
+Art. 27.º Os registos de actos respeitantes a cooperativas beneficiam da redução de 50% dos emolumentos.
 
-Os registos de actos respeitantes a cooperativas beneficiam da redução de 50% dos emolumentos.
+Art. 28.º Mantêm-se as isenções emolumentares estabelecidas no artigo 5.º do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.
 
-###### ARTIGO 28.º
-
-Mantêm-se as isenções emolumentares estabelecidas no artigo 5.º do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.
-
-###### ARTIGO 29.º
-
-Em caso de dúvida na aplicação da presente tabela sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.
+Art. 29.º Em caso de dúvida na aplicação da presente tabela sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.
 
 > Aditado pelo/a [Portaria n.º 632/87](https://diariodarepublica.pt/dr/detalhe/portaria/632-1987-420583), publicado em 1987-07-20.
 

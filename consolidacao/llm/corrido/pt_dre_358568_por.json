@@ -6,19 +6,14 @@
       "depois_de": 22,
       "texto": "13.º As entidades referidas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), de 6 de Março, e as empresas transportadoras podem ainda optar por estabelecerem entre si acordos de transporte, com vista a garantir o livre acesso ao transporte dos beneficiários que se identifiquem como tal, nos termos constantes do acordo.\n\n14.º Os acordos referidos no artigo anterior serão válidos por um ano, renovados automaticamente por indexação às tarifas fixadas anualmente para os referidos transportes, salvo denúncia de uma das partes, que deverá notificar a outra parte com a antecedência de 30 dias.\n\n15.º O pagamento do transporte acordado é efectuado por duodécimos.\n\n16.º O acordo é depositado pelo menos 10 dias antes da sua data de entrada em vigor na Direcção-Geral de Transportes Terrestres.\n\n17.º Na falta de acordo de transporte, quer por inexistência quer por cessação dos seus efeitos, aplica-se o regime previsto nos n.os 1.º a 12.º da presente portaria.",
       "alterador": 2
-    },
-    {
-      "depois_de": 22,
-      "texto": "18.º O disposto nos n.os 13.º a 17.º é aplicável ao pessoal da Direcção-Geral dos Serviços Prisionais que, pelo seu estatuto, beneficie de transporte gratuito.",
-      "alterador": 3
     }
   ],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "N.º 18.º aditado pela Portaria 201/97 (alterador 3) não incluído: a Portaria 105/2008 (alterador 4, art. 1.º) revoga a Portaria 201/97, cujo único conteúdo era esse aditamento, mas não diz por escrito como fica o n.º 18.º no texto. A suspensão da Portaria 807-A/88 (alterador 1) não é textual e foi revogada pelo alterador 4.",
   "instrucoes": [
-    "Alt. 1 (Portaria 807-A/88): suspende a aplicação a magistraturas e pessoal do Ministério da Justiça; não textual, nada feito.",
-    "Alt. 2 (Portaria 588/93): aditados os n.os 13.º a 17.º, inseridos depois da unidade 22.",
-    "Alt. 3 (Portaria 201/97): aditado o n.º 18.º, inserido a seguir ao 17.º (depois da unidade 22, após a inserção do alterador 2).",
-    "Alt. 4 (Portaria 105/2008): revoga as Portarias 807-A/88 e 201/97 (outros diplomas); ignorado."
+    "Alterador 1 (Portaria 807-A/88): suspensão da aplicação ao pessoal da Justiça; não textual, revogada pelo alterador 4. Nada aplicado.",
+    "Alterador 2 (Portaria 588/93): aditamento dos n.os 13.º a 17.º; inseridos a seguir à unidade 22 (n.º 12.º), letra a letra.",
+    "Alterador 3 (Portaria 201/97): aditamento do n.º 18.º; não incluído porque a Portaria 201/97 foi revogada pelo alterador 4 (ver nao_aplicavel).",
+    "Alterador 4 (Portaria 105/2008), art. 1.º: revoga as Portarias 807-A/88 e 201/97; o efeito no texto é o n.º 18.º não constar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

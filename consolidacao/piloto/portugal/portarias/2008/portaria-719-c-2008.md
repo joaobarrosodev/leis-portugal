@@ -63,9 +63,11 @@ a) Os promotores dos projectos previstos na alínea a) do artigo 5.º devem esta
 
 b) Os promotores dos projectos previstos na alínea b) do artigo 5.º devem ter obtido autorização da Direcção-Geral das Pescas e Aquicultura para o aumento da sua eficiência em função das necessidades do mercado;
 
-c) Os promotores dos projectos previstos na alínea c) do artigo 5.º devem ter o reconhecimento específico, nos termos do artigo 12.º do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro 1999;
+c) Os promotores dos projectos previstos na alínea c) do artigo 5.º devem ter o reconhecimento específico, nos termos do artigo 12.º do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro de 1999;
 
 d) Os promotores dos projectos previstos na alínea d) do artigo 5.º devem demonstrar a existência de meios financeiros que assegurem a respectiva comparticipação.
+
+> Alterado pelo/a [Portaria n.º 1151/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1151-2010-309073), publicado em 2010-11-04.
 
 ###### Artigo 4.º — Condições de acesso relativas aos projectos
 
@@ -83,7 +85,7 @@ e) Demonstrar o cumprimento das disposições legais em matéria de ambiente;
 
 f) Demonstrar o cumprimento das disposições legais em matéria de contratos públicos ou apresentar declaração de compromisso;
 
-g) Enquadrar-se nos programas operacionais, a que se refere o artigo 9.º do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro 1999, sempre que o projecto seja apresentado por uma organização de produtores.
+g) Enquadrar-se nos programas operacionais a que se refere o artigo 9.º do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro de 1999, sempre que o projecto seja apresentado por uma organização de produtores.
 
 > Alterado pelo/a [Portaria n.º 1151/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1151-2010-309073), publicado em 2010-11-04.
 
@@ -93,7 +95,7 @@ São susceptíveis de apoio os seguintes tipos de projectos:
 
 a) A constituição e o funcionamento de organizações de produtores, nos termos do artigo 5.º do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro de 1999;
 
-b) O aumento da eficiência das organizações de produtores reconhecidas, em função das necessidades do mercado;
+b) O aumento da eficiência das organizações de produtores reconhecidas em função das necessidades do mercado;
 
 c) A execução de planos de melhoria da qualidade dos produtos da pesca e da aquicultura, nos termos do artigo 12.º do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro de 1999;
 
@@ -143,13 +145,13 @@ iv) Correspondência e telecomunicações;
 
 v) Material de escritório e amortização ou custos de locação financeira do equipamento de escritório;
 
-vi) Despesas com a deslocação de pessoal, nomeadamente alugueres de viaturas de curta duração e estadias;
+vi) Despesas com a deslocação de pessoal, nomeadamente alugueres de viaturas de curta duração e estadas;
 
 vii) Rendas de edifícios destinados ao funcionamento administrativo da organização de produtores;
 
 viii) Seguros relativos ao transporte de pessoal e aos edifícios administrativos e respectivos equipamentos;
 
-b) Para os projectos da alínea c) do artigo 5.º, são elegíveis as despesas previstas, respeitantes a:
+b) Para os projectos da alínea c) do artigo 5.º, são elegíveis as despesas previstas respeitantes a:
 
 i) Estudos preliminares à definição e modificação do plano de melhoria da qualidade;
 
@@ -181,7 +183,7 @@ vii) Infra-estruturas e equipamentos, trabalhos de adaptação e outras melhoria
 
 viii) Software específico relativo à criação de base de dados e de modelos de gestão;
 
-ix) Formandos, formadores, pessoal de apoio, preparação, execução e avaliação das acções de formação e de divulgação, nos termos e limites fixados pelo Despacho Normativo n.º 4-A/2008, de 24 de Janeiro;
+ix) Formandos, formadores, pessoal de apoio, preparação, execução e avaliação das acções de formação e de divulgação, nos termos e limites fixados pelo despacho normativo n.º 4-A/2008, de 24 de Janeiro;
 
 x) Meios de acondicionamento e embalagem reutilizáveis e materiais de rotulagem e etiquetagem;
 
@@ -215,7 +217,7 @@ f) Aquisição de edifícios, embarcações, explorações piscícolas ou outras
 
 1 - Os apoios públicos revestem a forma de subsídios a fundo perdido.
 
-2 - Para os projectos previstos nas alíneas a) e b) do artigo 5.º o apoio público é concedido nos três anos seguintes à data da respectiva decisão, devendo os montantes a conceder, nos 1.º, 2.º e 3.º anos, estar contidos nos seguintes limites:
+2 - Para os projectos previstos nas alíneas a) e b) do artigo 5.º, o apoio público é concedido nos três anos seguintes à data da respectiva decisão, devendo os montantes a conceder, nos 1.º, 2.º e 3.º anos, estar contidos nos seguintes limites:
 
 a) 3 %, 2 % e 1 %, respectivamente, do valor da produção comercializada no âmbito da organização de produtores; e
 
@@ -227,21 +229,21 @@ i) (euro) 180 000, para os projectos da alínea a) do artigo 5.º;
 
 ii) (euro) 100 000, para os projectos da alínea b) do artigo 5.º
 
-3 - Para os projectos previstos na alínea c) do artigo 5.º o apoio público é concedido nos três anos seguintes ao reconhecimento específico das organizações de produtores, não podendo exceder 60 %, 50 % e 40 %, respectivamente, das despesas elegíveis efectuadas nesses anos pelas organizações de produtores, para a execução dos planos de melhoria da qualidade, até ao limite de (euro) 180 000.
+3 - Para os projectos previstos na alínea c) do artigo 5.º, o apoio público é concedido nos três anos seguintes ao reconhecimento específico das organizações de produtores, não podendo exceder 60 %, 50 % e 40 %, respectivamente, das despesas elegíveis efectuadas nesses anos pelas organizações de produtores, para a execução dos planos de melhoria da qualidade, até ao limite de (euro) 180 000.
 
-4 - Para os projectos previstos nas subalíneas i), ii), iii), iv), vi) e ix) da alínea d) do artigo 5.º é concedido um apoio público:
+4 - Para os projectos previstos nas subalíneas i), ii), iii), iv), vi) e ix) da alínea d) do artigo 5.º, é concedido um apoio público:
 
 a) Até 100 % das despesas elegíveis para as entidades previstas na alínea b) do artigo 2.º;
 
 b) Até 90 % das despesas elegíveis para as entidades previstas nas alíneas a), c) e d) do artigo 2.º
 
-5 - Para os projectos previstos nas restantes subalíneas da alínea d) do artigo 5.º, é concedido um apoio público até:
+5 - Para os projectos previstos nas restantes subalíneas da alínea d) do artigo 5.º é concedido um apoio público até:
 
 a) 60 % das despesas elegíveis para os projectos localizados na região de Lisboa;
 
 b) 80 % das despesas elegíveis para os projectos localizados nas regiões do Norte, Centro, Alentejo e Algarve.
 
-6 - Ao apoio público previsto nos n.os 4 e 5 é efectuada uma dedução proporcional à receita líquida gerada pelo projecto durante cinco anos, a calcular de acordo com orientações a emitir pela Autoridade de Gestão.
+6 - Ao apoio público previsto nos n.os 4 e 5 é efectuada uma dedução proporcional à receita líquida gerada pelo projecto durante cinco anos, a calcular de acordo com orientações a emitir pela autoridade de gestão.
 
 > Alterado pelo/a [Portaria n.º 1151/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1151-2010-309073), publicado em 2010-11-04.
 
@@ -249,7 +251,7 @@ b) 80 % das despesas elegíveis para os projectos localizados nas regiões do No
 
 1 - As candidaturas são apresentadas, em qualquer altura, nas direcções regionais de agricultura e pescas (DRAP).
 
-2 - Os projectos previstos nas alíneas a), b) e c) do artigo 5.º são apresentados no prazo de um ano, a contar da data da respectiva decisão de reconhecimento, de modificação ou do reconhecimento específico da organização de produtores.
+2 - Os projectos previstos nas alíneas a), b) e c) do artigo 5.º são apresentados no prazo de um ano a contar da data da respectiva decisão de reconhecimento, de modificação ou do reconhecimento específico da organização de produtores.
 
 3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
 
@@ -277,15 +279,17 @@ PF = AT
 
 PF = 0,3 AT + 0,7 AE
 
-4 - São excluídas as candidaturas que obtenham menos de 50 pontos na pontuação final, ou 0 pontos em qualquer uma das valências previstas no número anterior.
+4 - São excluídas as candidaturas que obtenham menos de 50 pontos na pontuação final ou 0 pontos em qualquer das valências previstas no número anterior.
 
-5 - A pontuação atribuída à apreciação técnica (AT) é de 100 pontos, sempre que os projectos detenham qualidade técnica adequada, sendo pontuados com 0 pontos as que não detenham essa qualidade, caso em que as respectivas candidaturas serão excluídas.
+5 - A pontuação atribuída à apreciação técnica (AT) é de 100 pontos sempre que os projectos detenham qualidade técnica adequada, sendo pontuados com 0 pontos os que não detenham essa qualidade, caso em que as respectivas candidaturas serão excluídas.
 
 6 - A forma de cálculo da pontuação da apreciação estratégica (AE) é definida no anexo ao presente Regulamento.
 
 7 - A apreciação estratégica (AE) não é exigível com um investimento elegível inferior a (euro) 25 000, caso em que a PF será resultante da fórmula constante do n.º 1.
 
-8 - As candidaturas seleccionadas nos termos dos números anteriores são ordenadas em dois grupos, consoante os projectos se localizem na região de Lisboa ou nas restantes regiões do continente, para efeitos de decisão, tendo em vista as dotações financeiras a fixar por despacho do membro do Governo responsável pelo sector das pescas.
+8 - As candidaturas seleccionadas nos termos dos números anteriores são ordenadas em dois grupos consoante os projectos se localizem na região de Lisboa ou nas restantes regiões do continente, para efeitos de decisão, tendo em vista as dotações financeiras a fixar por despacho do membro do Governo responsável pelo sector das pescas.
+
+> Alterado pelo/a [Portaria n.º 1151/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1151-2010-309073), publicado em 2010-11-04.
 
 ###### Artigo 11.º — Decisão e contratação
 
@@ -295,9 +299,9 @@ a) Do gestor para as candidaturas relativas a projectos de investimento com uma 
 
 b) Do membro do Governo responsável pelo sector das pescas para as candidaturas relativas aos restantes projectos.
 
-2 - As candidaturas são decididas no prazo máximo de 50 dias, a contar da data da respectiva entrada, considerando-se aquele prazo suspenso sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
+2 - As candidaturas são decididas no prazo máximo de 50 dias a contar da data da respectiva entrada, considerando-se aquele prazo suspenso sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
-3 - O Instituto de Financiamento da Agricultura e Pescas, adiante designado por IFAP, notifica o promotor, no prazo de 10 dias após ter tido conhecimento da decisão final do apoio, remetendo o contrato para assinatura, ou informando o local onde o mesmo pode ser assinado.
+3 - O Instituto de Financiamento da Agricultura e Pescas, adiante designado por IFAP, notifica o promotor, no prazo de 10 dias após ter tido conhecimento da decisão final do apoio, remetendo o contrato para assinatura ou informando o local onde o mesmo pode ser assinado.
 
 4 - O IFAP, após a recepção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e remeter um exemplar ao promotor.
 
@@ -305,9 +309,9 @@ b) Do membro do Governo responsável pelo sector das pescas para as candidaturas
 
 ###### Artigo 12.º — Pagamento dos apoios
 
-1 - O pagamento do apoio é feito pelo IFAP, após apresentação pelo promotor, nas direcções regionais de agricultura e pescas, dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios.
+1 - O pagamento do apoio é feito pelo IFAP, após apresentação pelo promotor, nas DRAP, dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios.
 
-2 - No caso de projectos que envolvam acções de formação, o pagamento do apoio apenas é efectuado pelo IFAP após apresentação pelo promotor, nas direcções regionais de agricultura e pescas, dos documentos comprovativos da obtenção, em momento anterior ao início da execução do projecto, das autorizações e licenciamentos legalmente exigidos para o efeito.
+2 - No caso de projectos que envolvam acções de formação, o pagamento do apoio apenas é efectuado pelo IFAP após apresentação pelo promotor, nas DRAP, dos documentos comprovativos da obtenção, em momento anterior ao início da execução do projecto, das autorizações e licenciamentos legalmente exigidos para o efeito.
 
 3 - A primeira prestação do apoio só é paga após a realização de 5% do investimento elegível.
 
@@ -353,7 +357,7 @@ b) Iniciar a execução do projecto até 180 dias, a contar da data da recepçã
 
 c) Cumprir as disposições legais aplicáveis relativas aos procedimentos em matéria de contratos públicos;
 
-d) Aplicar integralmente os apoios na realização do projecto de investimento aprovado, com vista à execução dos objectivos que justificaram a sua atribuição;
+d) Aplicar integralmente os apoios na realização do projecto de investimento aprovado com vista à execução dos objectivos que justificaram a sua atribuição;
 
 e) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objectivos dos apoios;
 
@@ -373,7 +377,9 @@ Podem ser admitidas alterações técnicas, desde que se mantenha a conceção e
 
 ###### Artigo 16.º — Cobertura orçamental
 
-Os encargos com o pagamento dos apoios públicos previstos neste regulamento são suportados pelo projecto «Medidas de interesse geral» do PIDDAC - Programa de Investimentos e Despesas de Desenvolvimento da Administração Central, inscrito no IFAP.
+Os encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projecto «Medidas de interesse geral» do PIDDAC - Programa de Investimentos e Despesas de Desenvolvimento da Administração Central, inscrito no IFAP.
+
+> Alterado pelo/a [Portaria n.º 1151/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1151-2010-309073), publicado em 2010-11-04.
 
 ## ANEXO — Metodologia para o cálculo da pontuação da apreciação estratégica (AE)
 
@@ -385,14 +391,20 @@ A pontuação da AE é obtida através da soma dos pontos obtidos por cada um do
 
 2) Projectos que desenvolvam uma política de qualidade dos produtos da pesca e da aquicultura - 20 pontos;
 
-3) Projectos que melhorem as condições ambientais - 10 pontos;
+3) Projectos que melhorem as condições ambientais - 20 pontos;
 
-4) Projectos que melhorem as condições de trabalho - 10 pontos;
+4) Projectos que melhorem as condições de trabalho e segurança - 30 pontos;
 
 5) Projectos que melhorem o equilíbrio entre a oferta e a procura - 10 pontos;
 
-6) Projectos que sejam realizados por organizações que tenham beneficiado de reconhecimento oficial na acepção do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro - 10 pontos;
+6) Projectos que sejam realizados por organizações que tenham beneficiado de reconhecimento oficial na acepção do Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro de 1999, por associações do sector ou por outras entidades com atribuições e responsabilidades na área da pesca - 10 pontos;
 
 7) Projectos que envolvam parcerias entre entidades do sector - 10 pontos;
 
-8) Projectos que melhorem as condições das zonas aquícolas - 10 pontos.
+8) Projectos que melhorem as condições das zonas aquícolas - 20 pontos;
+
+9) Projectos que melhorem as competências profissionais ou visem a elaboração de novos métodos e instrumentos de formação - 30 pontos;
+
+10) Projectos que visem o desenvolvimento da constituição de redes e do intercâmbio de experiências e boas práticas entre organizações que promovam a igualdade de oportunidades entre homens e mulheres e outras partes interessadas - 30 pontos.
+
+> Alterado pelo/a [Portaria n.º 1151/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1151-2010-309073), publicado em 2010-11-04.

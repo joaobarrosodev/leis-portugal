@@ -32,13 +32,21 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - A União de Bancos Portugueses, E. P., que resultou da fusão de instituições de crédito nacionalizadas pelos Decretos-Leis n.os [470/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/470-1974-473287), de 10 de Setembro, e [132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, e mantidas pelos mesmos diplomas como sociedades anónimas e que está organizada como pessoa colectiva de direito público ao abrigo do [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, e do [Decreto n.º 3-A/78](https://diariodarepublica.pt/dr/detalhe/decreto/3-a-1978-149258), de 9 de Janeiro, assume pelo presente diploma a forma de sociedade anónima de responsabilidade limitada e de capitais exclusivamente públicos, passando a denominar-se União de Bancos Portugueses, S. A. R. L.
+Artigo 1.º - 1 - A União de Bancos Portugueses, E. P., que resultou da fusão de instituições de crédito nacionalizadas pelos Decretos-Leis n.os [470/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/470-1974-473287), de 10 de Setembro, e [132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, e mantidas pelos mesmos diplomas como sociedades anónimas e que está organizada como pessoa colectiva de direito público ao abrigo do [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, e do [Decreto n.º 3-A/78](https://diariodarepublica.pt/dr/detalhe/decreto/3-a-1978-149258), de 9 de Janeiro, assume pelo presente diploma a forma de sociedade anónima e de capitais exclusivamente públicos, passando a denominar-se União de Bancos Portugueses, S. A.
 
-2 - A União de Bancos Portugueses, S. A. R. L., reger-se-á pelo presente diploma e em tudo o que nele se não achar previsto pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas de responsabilidade limitada e pelas normas gerais e especiais aplicáveis às instituições de crédito.
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
-Art. 2.º - 1 - A União de Bancos Portugueses, S. A. R. L., mantém, sob a forma referida no artigo anterior e sem quebra de identidade, a personalidade jurídica da União de Bancos Portugueses, E. P., conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais integrantes do activo e do passivo desta.
+2 - A União de Bancos Portugueses, S. A., reger-se-á pelo presente diploma e em tudo o que nele se não achar previsto pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas de responsabilidade limitada e pelas normas gerais e especiais aplicáveis às instituições de crédito.
 
-2 - O presente diploma é título bastante para a comprovação do previsto no número anterior para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser feitos pelas repartições competentes com base em simples comunicação subscrita por dois membros do conselho de administração da União de Bancos Portugueses, S. A. R. L., isentos de quaisquer taxas ou emolumentos.
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
+
+Art. 2.º - 1 - A União de Bancos Portugueses, S. A., mantém, sob a forma referida no artigo anterior e sem quebra de identidade, a personalidade jurídica da União de Bancos Portugueses, E. P., conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais integrantes do activo e do passivo desta.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
+
+2 - O presente diploma é título bastante para a comprovação do previsto no número anterior para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser feitos pelas repartições competentes com base em simples comunicação subscrita por dois membros do conselho de administração da União de Bancos Portugueses, S. A., isentos de quaisquer taxas ou emolumentos.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 Art. 3.º - 1 - A União de Bancos Portugueses, S. A. R. L, terá inicialmente um capital social de 6000000000$00, o qual se acha integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 
@@ -46,7 +54,9 @@ Art. 3.º - 1 - A União de Bancos Portugueses, S. A. R. L, terá inicialmente u
 
 > Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
-3 - As acções representativas do capital social da União de Bancos Portugueses, S. A. R. L., e as novas accões emitidas por força de aumentos de capital só poderão pertencer ao Estado, a pessoas colectivas de direito público, a empresas públicas e a sociedades de capitais públicos; consideram-se sociedades de capitais públicos, para efeitos deste diploma, aquelas cujos capitais, por determinação legal, apenas possam pertencer a entidades do sector público.
+3 - As acções representativas do capital social da União de Bancos Portugueses, S. A., e as novas accões emitidas por força de aumentos de capital só poderão pertencer ao Estado, a pessoas colectivas de direito público, a empresas públicas e a sociedades de capitais públicos; consideram-se sociedades de capitais públicos, para efeitos deste diploma, aquelas cujos capitais, por determinação legal, apenas possam pertencer a entidades do sector público.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 4 - A participação directa do Estado no capital social da União de Bancos Portugueses, S. A., nunca poderá ser inferior a 51%.
 
@@ -56,7 +66,9 @@ Art. 3.º - 1 - A União de Bancos Portugueses, S. A. R. L, terá inicialmente u
 
 > Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
-Art. 4.º - 1 - São aprovados os estatutos da União de Bancos Portugueses, S. A. R. L., anexos a este diploma e que dele fazem parte integrante.
+Art. 4.º - 1 - São aprovados os estatutos da União de Bancos Portugueses, S. A., anexos a este diploma e que dele fazem parte integrante.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 2 - Os estatutos anexos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.
 
@@ -82,9 +94,13 @@ Art. 6.º - 1 - Os trabalhadores e pensionistas mantêm todos os seus direitos, 
 
 > Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
-2 - Os funcionários do Estado, de institutos públicos e de autarquias locais e os trabalhadores de empresas públicas podem ser autorizados a exercer funções na União de Bancos Portugueses, S. A. R. L., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros de que usufruíam por antiguidade se tivessem permanecido naquele quadro.
+2 - Os funcionários do Estado, de institutos públicos e de autarquias locais e os trabalhadores de empresas públicas podem ser autorizados a exercer funções na União de Bancos Portugueses, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros de que usufruíam por antiguidade se tivessem permanecido naquele quadro.
 
-3 - A situação dos trabalhadores da União de Bancos Portugueses, S. A. R. L., que sejam chamados a ocupar cargos nos órgãos da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
+
+3 - A situação dos trabalhadores da União de Bancos Portugueses, S. A., que sejam chamados a ocupar cargos nos órgãos da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 Art. 7.º Fica desde já convocada a assembleia geral para eleger os corpos sociais e deliberar sobre a respectiva remuneração, que reunirá na sede do banco um mês após a data da entrada em vigor do presente diploma, mantendo-se em funções os actuais membros do conselho de gestão e da comissão de fiscalização até à data da posse dos novos corpos sociais.
 
@@ -112,7 +128,9 @@ Estatutos
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de União de Bancos Portugueses, S. A. R. L.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de União de Bancos Portugueses, S. A.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é na cidade do Porto.
 
@@ -282,7 +300,9 @@ Art. 22.º As deliberações do conselho fiscal serão tomadas estando presente 
 
 ### CAPÍTULO IV — Pessoal
 
-Art. 23.º - 1 - Permanecem ao serviço da União de Bancos Portugueses, S. A. R. L., mantendo idêntico vínculo contratual e todos os direitos adquiridos, incluindo a contagem de tempo de antiguidade, os trabalhadores que já se encontravam ao serviço da União de Bancos Portugueses, E. P., à data da publicação destes estatutos.
+Art. 23.º - 1 - Permanecem ao serviço da União de Bancos Portugueses, S. A., mantendo idêntico vínculo contratual e todos os direitos adquiridos, incluindo a contagem de tempo de antiguidade, os trabalhadores que já se encontravam ao serviço da União de Bancos Portugueses, E. P., à data da publicação destes estatutos.
+
+> Alterado pelo/a [Lei n.º 13/87](https://diariodarepublica.pt/dr/detalhe/lei/13-1987-666147), publicado em 1987-04-07.
 
 2 - Os pensionistas da União de Bancos Portugueses, E. P., mantêm igualmente todos os direitos, obrigações e regalias que detinham à data da entrada em vigor deste diploma.
 

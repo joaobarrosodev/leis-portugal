@@ -18,7 +18,7 @@
     "operacao": "aditar",
     "regra": "llm",
     "antes": "",
-    "depois": "###### ARTIGO 27.º\n\nOs registos de actos respeitantes a cooperativas beneficiam da redução de 50% dos emolumentos.\n\n###### ARTIGO 28.º\n\nMantêm-se as isenções emolumentares estabelecidas no artigo 5.º do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.\n\n###### ARTIGO 29.º\n\nEm caso de dúvida na aplicação da presente tabela sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.",
+    "depois": "Art. 27.º Os registos de actos respeitantes a cooperativas beneficiam da redução de 50% dos emolumentos.\n\nArt. 28.º Mantêm-se as isenções emolumentares estabelecidas no artigo 5.º do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.\n\nArt. 29.º Em caso de dúvida na aplicação da presente tabela sobre qual seja o emolumento devido, cobrar-se-á sempre o menor.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

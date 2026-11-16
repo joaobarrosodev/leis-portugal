@@ -13,15 +13,12 @@ consolidacao:
   - id: pt:dre:631650:por
     title: Portaria n.º 456/2006
     publication_date: '2006-05-16'
-  - id: pt:dre:445744:por
-    title: Portaria n.º 1291/2003
-    publication_date: '2003-11-18'
-  - id: pt:dre:261879:por
-    title: Portaria n.º 590/2004
-    publication_date: '2004-06-02'
   - id: pt:dre:592170:por
     title: Portaria n.º 609-A/2009
     publication_date: '2009-06-05'
+  - id: pt:dre:540024:por
+    title: Portaria n.º 953/2006
+    publication_date: '2006-09-12'
 ---
 
 # Portaria n.º 448-A/2001
@@ -48,7 +45,9 @@ O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel C
 
 ## ANEXO
 
-REGULAMENTO DE APLICAÇÃO DAS ACÇÕES N.OS 3.1 E 3.2, «APOIO À SILVICULTURA» E «RESTABELECIMENTO DO POTENCIAL DE PRODUÇÃO SILVÍCOLA».
+REGULAMENTO DE APLICAÇÃO DAS ACÇÕES N.os 3.1 E 3.2, «APOIO À SILVICULTURA» E «RESTABELECIMENTO DO POTENCIAL DE PRODUÇÃO SILVÍCOLA».
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 1.º — Objecto
 
@@ -276,7 +275,7 @@ c) Sociedades gestoras de fundos de investimento florestais e entidades gestoras
 
 2 - Os projectos de investimento que incidam em área igual ou inferior a 20 ha podem revestir a forma de projecto simplificado de investimento.
 
-> Alterado pelo/a [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744), publicado em 2003-11-18.
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 12.º — Análise das candidaturas
 
@@ -302,7 +301,7 @@ As propostas de decisão são submetidas a parecer da unidade de gestão.
 
 ###### Artigo 14.º — Decisão das candidaturas
 
-1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação e de subdelegação dessa competência, nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação e de subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
 
 2 - As candidaturas são decididas no prazo máximo de 60 ou de 90 dias a contar da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos.
 
@@ -350,7 +349,7 @@ h) Utilizar o livro de obra para acompanhamento e validação da execução dos 
 
 3 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no n.º 1.
 
-> Alterado pelo/a [Portaria n.º 590/2004](https://diariodarepublica.pt/dr/detalhe/portaria/590-2004-261879), publicado em 2004-06-02.
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 18.º — Pagamentos
 
@@ -368,7 +367,7 @@ h) Utilizar o livro de obra para acompanhamento e validação da execução dos 
 
 2 - A cartografia digital, quando exista, é objecto de validação no âmbito do auto de fecho.
 
-> Alterado pelo/a [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744), publicado em 2003-11-18.
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ###### Artigo 20.º — Norma transitória
 
@@ -378,31 +377,39 @@ h) Utilizar o livro de obra para acompanhamento e validação da execução dos 
 
 > Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.
 
-> Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ## ANEXO I — [a que se refere a alínea b) do artigo 3.º]
 
 Densidades mínimas dos povoamentos
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
 
 Espécies elegíveis
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
+
+(**) Para os beneficiários não agricultores, apenas quando exploradas em rotações superiores a 20 anos, nos termos previstos no presente Regulamento.
 
 1 - Em projectos com menos de 5 ha são elegíveis todas as espécies adaptadas ecologicamente à estação respectiva.
 
-2 - A utilização de outras espécies em projectos com mais de 5 ha é elegível, desde que adaptadas ecologicamente à estação e não ultrapassem 25% da área do projecto.
+2 - A utilização de outras espécies em projectos com mais de 5 ha é elegível desde que adaptadas ecologicamente à estação e não ultrapasse 25% da área do projecto.
 
-3 - Para efeitos dos números anteriores só podem, todavia, ser utilizadas espécies indígenas de Portugal continental e ainda espécies naturalizadas, constantes do anexo I ao [Decreto-Lei n.º 565/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/565-1999-661769), de 19 de Dezembro (excluindo as classificadas como invasoras), e as classificadas como de interesse para a arborização, listadas no anexo II do mesmo decreto-lei.
+3 - Para efeitos dos números anteriores, só podem, todavia, ser utilizadas espécies indígenas de Portugal continental e ainda espécies naturalizadas, constantes do anexo I do Decreto-Lei n.º 565/99, de 19 de Dezembro (excluindo as classificadas como invasoras), e as classificadas como de interesse para a arborização, listadas no anexo II do mesmo decreto-lei.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 7.º)
 
 Espécies de crescimento rápido/áreas máximas contínuas
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 8.º)
 
@@ -416,13 +423,13 @@ b) Protecção dos povoamentos contra a acção do gado e ou da fauna selvagem, 
 
 c) Instalação de culturas de cobertura do solo;
 
-d) Operações associadas à instalação do povoamento com espécies de rotações/revoluções superiores a 20 anos, concretizadas no período máximo de 5 anos a contar da instalação do povoamento que visem a consolidação daquela instalação.
+d) Operações associadas à instalação do povoamento com espécies de rotações/revoluções superiores a 20 anos, concretizadas no período máximo de 5 anos a contar da instalação do povoamento, que visem a consolidação daquela instalação.
 
 2 - Beneficiação - são elegíveis as despesas relativas às operações a seguir indicadas:
 
 a) Adensamento;
 
-b) Melhoria e consolidação dos povoamentos e intervenções silvícolas associadas à sua concretização;
+b) Melhoria e consolidação dos povoamentos e intervenções silvícolas associados à sua concretização;
 
 c) Substituição parcial ou total de povoamentos ecologicamente mal adaptados ou cuja produção se encontre significativamente abaixo do seu potencial produtivo, ou seja, com produtividades inferiores a 50% da produção estimada para a estação, incluindo a rearborização com outras ou com a mesma espécie;
 
@@ -432,15 +439,15 @@ e) Operações de reabilitação de ecossistemas florestais degradados e conserv
 
 f) No que se refere às operações de substituição, previstas na alínea c), reportadas a espécies com rotações inferiores a 20 anos, apenas são elegíveis os seguintes investimentos:
 
-i) Investimentos de reconversão de povoamentos degradados dessas espécies que tenham uma área mínima de 40 ha e se encontrem ecologicamente mal adaptadas em povoamentos com outras espécies;
+i) Investimentos de reconversão de povoamentos degradados dessas espécies que se encontrem ecologicamente mal adaptadas em povoamentos com outras espécies;
 
-ii) Investimentos complementares de beneficiação de povoamentos de espécies de crescimento rápido situados nas zonas A e B definidas no anexo da [Portaria n.º 528/89](https://diariodarepublica.pt/dr/detalhe/portaria/528-1989-619560), de 11 de Julho, e com produtividades inferiores a 50% da produção estimada para a estação;
+ii) Investimentos complementares de beneficiação de povoamentos de espécies de crescimento rápido situados nas zonas A e B definidas no anexo da Portaria n.º 528/89, de 11 de Julho, e com produtividades inferiores a 50% da produção estimada para a estação;
 
 iii) Os investimentos complementares de beneficiação acima referidos apenas são elegíveis desde que estejam associados aos investimentos de reconversão previstos na alínea i) e desde que a área do investimento de beneficiação seja inferior à área total para reconversão com outras espécies.
 
 3 - Infra-estruturas - são elegíveis as despesas relativas às operações a seguir indicadas:
 
-a) Construção e beneficiação da rede viária e divisional própria ou integrando redes existentes dentro e fora da área de intervenção florestal da exploração;
+a) Construção e beneficiação de rede viária e divisional, própria ou integrando redes existentes dentro e fora da área de intervenção florestal da exploração;
 
 b) Construção e beneficiação de pontos de água.
 
@@ -460,7 +467,7 @@ v) Aquisição e instalação de comedouros;
 
 vi) Limpeza de pontos de água naturais e acessíveis para a fauna;
 
-vii) Construção, aquisição e colocação de moroços;
+vii) Construção, aquisição e colocação de morouços;
 
 viii) Instalação e manutenção de sebes;
 
@@ -474,15 +481,19 @@ xii) Abertura de charcas e construção/reabilitação de açudes.
 
 As despesas identificadas nas subalíneas ix) e xii) não poderão ultrapassar o limite de 20% do custo total elegível da acção de uso múltiplo;
 
-b) Silvo-pastorícia:
+b) Silvipastorícia:
 
-i) Instalação de pastagens em regime silvo-pastoril;
+i) Instalação de pastagens em regime silvipastoril;
 
 ii) Aquisição e instalação de bebedouros;
 
 iii) Aquisição e instalação de cercas;
 
-c) Produção de cogumelos - aquisição e instalação de plantas micorrizadas para produção de cogumelos;
+c) Produção de cogumelos:
+
+i) Aquisição e instalação de plantas micorrizadas para produção de cogumelos;
+
+ii) Aquisição e aplicação de inóculo de cogumelos comestíveis;
 
 d) Pesca desportiva:
 
@@ -500,7 +511,7 @@ i) Instalação de parques ecológicos e de merendas;
 
 ii) Circuitos de manutenção.
 
-5 - Para todos os investimentos são elegíveis as seguintes despesas:
+5 - Para todos os investimentos, são elegíveis as seguintes despesas:
 
 a) Com a aquisição ou elaboração da cartografia digital da área intervencionada, após execução do projecto;
 
@@ -508,104 +519,122 @@ b) Elaboração e acompanhamento da execução do projecto, até ao limite de 12
 
 c) Despesas com a constituição de garantias, quando exigidas no quadro da análise de risco, até ao limite de 2% do montante total das despesas elegíveis.
 
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
+
 ## ANEXO V — (a que se refere o n.º 4 do artigo 14.º)
 
 Projectos prioritários
 
 Para efeitos de hierarquização, os projectos são pontuados da seguinte forma:
 
-1 - Projectos relativos a áreas sujeitas ao regime florestal parcial: 25 pontos.
+1 - Projectos relativos a áreas sujeitas ao regime florestal parcial e projectos em áreas integradas em ZIF - 25 pontos.
 
-2 - Projectos relativos às áreas agrupadas: 10 pontos.
-
-A esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:
-
-a) Projectos que se enquadrem na alínea b) do n.º 2 do artigo 9.º (projectos apresentados, executados e com compromisso de gestão por parte das associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais contínuos): 3 pontos;
-
-b) Projectos que se enquadrem na alínea c) do n.º 2 do artigo 9.º (projectos apresentados, executados e com compromisso de gestão por parte das associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais não contínuos): 2 pontos;
-
-c) Projectos que se enquadrem na alínea d) do n.º 2 do artigo 9.º (projectos apresentados pelos titulares de áreas agrupadas, através de uma associação ou cooperativa, e executados por aqueles e projectos apresentados e executados pelos titulares de áreas agrupadas de espaços florestais contínuos): 1 ponto.
-
-3 - Projectos incidentes em freguesias com alta susceptibilidade à desertificação ou que se insiram em áreas das RNAP, das ZEC e das ZPE, com planos de ordenamento: 7 pontos.
+2 - Projectos relativos às áreas agrupadas - 10 pontos.
 
 A esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:
 
-a) Projectos incidentes em freguesias com alta susceptibilidade à desertificação: 1 ponto;
+a) Projectos que se enquadrem na alínea b) do n.º 2 do artigo 9.º (projectos apresentados, executados e com compromisso de gestão por parte das associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais contínuos) - 3 pontos;
 
-b) Projectos incidentes em áreas da RNAP com planos de ordenamento aprovados ou projectos incidentes em ZEC ou ZPE com planos de ordenamento aprovados: 1 ponto.
+b) Projectos que se enquadrem na alínea c) do n.º 2 do artigo 9.º (projectos apresentados, executados e com compromisso de gestão por parte das associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais não contínuos) - 2 pontos;
+
+c) Projectos que se enquadrem na alínea d) do n.º 2 do artigo 9.º (projectos apresentados pelos titulares de áreas agrupadas, através de uma associação ou cooperativa, e executados por aqueles e projectos apresentados e executados pelos titulares de áreas agrupadas de espaços florestais contínuos) - 1 ponto;
+
+3 - Projectos incidentes em freguesias com alta susceptibilidade à desertificação, ou que se insiram em áreas da Rede Nacional de Áreas Protegidas (RNAP), zonas especiais de conservação (ZEC) e zonas de protecção especial (ZPE), com planos de ordenamento - 7 pontos.
+
+A esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:
+
+a) Projectos incidentes em freguesias com alta susceptibilidade à desertificação - 1 ponto;
+
+b) Projectos incidentes em áreas da RNAP com planos de ordenamento aprovados ou projectos incidentes em ZEC ou ZPE com planos de ordenamento aprovados - 1 ponto.
 
 Nota. - As pontuações apresentadas no n.º 3 são cumulativas.
 
-4 - Projectos relativos à reabilitação de ecossistemas florestais degradados, de diversificação das superfícies florestais, bem como os que incidam em áreas submetidas ao regime florestal, à RNAP, às ZEC e às ZPE e em áreas classificadas como extremamente e muito sensíveis ao perigo de incêndio, nos termos do [Decreto-Lei n.º 327/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1980-469788), de 26 de Agosto, e do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro: 1 ponto.
+4 - Projectos relativos à reabilitação de ecossistemas florestais degradados, de diversificação das superfícies florestais, bem como os que incidam em áreas submetidas ao regime florestal, à RNAP, a ZEC e a ZPE e em áreas das classes IV e V, tal como se encontram definidas no [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho - 1 ponto.
 
 A esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:
 
-a) Projectos relativos à reabilitação de ecossistemas florestais degradados: 1 ponto;
+a) Projectos relativos à reabilitação de ecossistemas florestais degradados - 1 ponto;
 
-b) Projectos relativos à diversificação de superfícies florestais: 1 ponto;
+b) Projectos relativos à diversificação de superfícies florestais - 1 ponto;
 
-c) Projectos incidentes em áreas classificadas como extremamente e muito sensíveis ao fogo, nos termos do [Decreto-Lei n.º 327/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1980-469788), de 26 de Agosto, e do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro: 1 ponto;
+c) Projectos incidentes em áreas das classes IV e V, tal como se encontram definidas no [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho - 1 ponto;
 
-d) Projectos incidentes em áreas da RNAP sem planos de ordenamento aprovados ou projectos incidentes em ZEC ou ZPE sem planos de ordenamento aprovados: 1 ponto;
+d) Projectos incidentes em áreas da RNAP sem planos de ordenamento aprovados ou projectos incidentes em ZEC ou ZPE sem planos de ordenamento aprovados - 1 ponto;
 
-e) Projectos incidentes em áreas submetidas ao regime florestal: 1 ponto.
+e) Projectos incidentes em áreas submetidas ao regime florestal - 1 ponto.
 
 Nota. - As pontuações apresentadas no n.º 4 são cumulativas.
 
-5 - Para efeitos da alínea b) do número anterior, consideram-se as seguintes acções de diversificação de superfícies florestais: instalação de elementos de descontinuidade (incluindo sebes, faixas com espécies mais resistentes ao fogo, corredores ecológicos, recuperação de galerias ripícolas), conservação de maciços arbóreos, arbustivos ou de exemplares notáveis, instalação de povoamentos mistos, instalação de espécies arbóreas e arbustivas de interesse apícola.
+5 - Para efeitos da alínea b) do número anterior, consideram-se as seguintes acções de diversificação de superfícies florestais:
 
-6 - A pontuação final de cada projecto é o resultado da soma das pontuações obtidas nos termos dos n.os 1 a 4.
+Instalação de elementos de descontinuidade (incluindo sebes, faixas com espécies mais resistentes ao fogo, corredores ecológicos e recuperação de galerias ripícolas);
+
+Conservação de maciços arbóreos, arbustivos ou de exemplares notáveis;
+
+Instalação de povoamentos mistos;
+
+Instalação de espécies arbóreas e arbustivas de interesse apícola.
+
+6 - A pontuação final de cada projecto é resultado da soma das pontuações obtidas nos termos dos n.os 1 a 4.
 
 7 - Consideram-se prioritários os projectos que reunirem maior número de pontos.
 
-## ANEXO VI — [a que se refere a alínea b) do artigo 16.º]
+> Alterado pelo/a [Portaria n.º 953/2006](https://diariodarepublica.pt/dr/detalhe/portaria/953-2006-540024), publicado em 2006-09-12.
+
+## ANEXO VI — [a que se referem a alínea c) do n.º 1 do artigo 7.º e a alínea b) do artigo 16.º]
 
 Densidades mínimas de estabelecimento do povoamento
 
-[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)
 
-Observação. - A densidade mínima dos povoamentos mistos deve ser igual à densidade mínima definida para a espécie principal (folhosa), devendo esta representar, pelo menos, 50% do povoamento.
+Observações
 
-Em povoamentos mistos em que a espécie principal seja o sobreiro ou a azinheira a densidade mínima deve ser de 600 árvores por hectare, devendo aquelas espécies representar, pelo menos, 50% do povoamento.
+A densidade mínima dos povoamentos mistos deve ser igual à densidade mínima definida para a espécie principal, devendo esta representar, pelo menos, 50% do povoamento.
+
+Em povoamentos mistos em que a espécie principal seja o sobreiro ou a azinheira, a densidade mínima deve ser de 600 árvores por hectare, devendo àquelas espécies corresponder, no mínimo, 300 árvores por hectare.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.
 
 ## ANEXO VII — [a que se refere a alínea c) do artigo 16.º]
 
 Boas práticas florestais
 
-Durante, pelo menos, a vigência do plano de gestão devem ser cumpridas as seguintes exigências mínimas ambientais:
+Durante, pelo menos, a vigência do plano de gestão, devem ser cumpridas as seguintes exigências mínimas ambientais:
 
 1) Utilização de espécies e proveniências adaptadas à estação;
 
-2) Utilização de plantas e ou sementes certificadas na instalação dos povoamentos para as espécies constantes do [Decreto-Lei n.º 239/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1992-217697), de 27 de Julho, e respectiva regulamentação;
+2) Na instalação de povoamentos deverão ser utilizadas plantas ou sementes certificadas no caso de espécies constantes do anexo I do decreto-lei relativo à comercialização de materiais florestais de reprodução (transpõe a Directiva n.º [1999/105/CE](http://data.europa.eu/eli/dir/1999/105/oj?locale=pt), do Conselho, de 22 de Dezembro). Para as espécies pinheiro-bravo, pinheiro-manso, sobreiro e eucalipto-glóbulo só devem ser utilizadas plantas ou sementes das categorias «seleccionada», «qualificada» ou «testada»;
 
 3) Aproveitamento da regeneração natural existente na exploração a florestar, enquadrando-a nos objectivos do projecto sempre que se apresente em bom estado vegetativo;
 
-4) Criação de faixas ou manchas de descontinuidade, preferencialmente ao longo das redes viária e divisional, das linhas de água e de cumeada e dos vales, utilizando, nomeadamente, espécies arbóreas ou arbustivas com baixa inflamabilidade e combustibilidade, comunidades herbáceas ou, ainda, mantendo a vegetação natural. Em arborizações monoespecíficas de resinosas ou folhosas de elevada combustibilidade, de superfície superior a 20 ha, as zonas de descontinuidade deverão representar pelo menos 15% da superfície total. Esta exigência não se aplica aos povoamentos constituídos por quercíneas autóctones;
+4) Criação de faixas ou manchas de descontinuidade, preferencialmente ao longo das redes viária e divisional, das linhas de água e de cumeada e dos vales, utilizando, nomeadamente, espécies arbóreas ou arbustivas com baixa inflamabilidade e combustibilidade, comunidades herbáceas ou, ainda, mantendo a vegetação natural. Em arborizações monoespecíficas de resinosas ou folhosas de elevada combustibilidade, de superfície superior a 20 ha, as zonas de descontinuidade deverão representar, pelo menos, 15% da superfície total. Esta exigência não se aplica aos povoamentos constituídos por quercíneas autóctones;
 
-5) Nas faixas de protecção às linhas de água, que deverão ter uma largura mínima de 5 m, efectuar, quando necessário, unicamente mobilizações de solo localizadas;
+5) Nas faixas de protecção às linhas de água, que deverão ter uma largura mínima de 10 m, efectuar, quando necessário, unicamente mobilizações de solo localizadas;
 
-6) Conservação de maciços arbóreos, arbustivos e ou de exemplares notáveis de espécies autóctones, principalmente os constantes da alínea c) do artigo 10.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, e os classificados ao abrigo do [Decreto-Lei n.º 28468](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28468-1938-230365), de 15 de Fevereiro de 1938, e legislação complementar;
+6) Conservação de maciços arbóreos, arbustivos e ou de exemplares notáveis de espécies autóctones, principalmente os constantes da alínea c) do artigo 10.º do Decreto Regulamentar n.º 55/81, de 18 de Dezembro, e os classificados ao abrigo do Decreto-Lei n.º 28468, de 15 de Fevereiro de 1938, e legislação complementar;
 
-7) Conservação dos habitats classificados segundo a Directiva Habitats, florestais ou não;
+7) Conservação dos habitats classificados segundo a directiva habitats, florestais ou não;
 
-8) As mobilizações do solo não localizadas devem ser executadas segundo as curvas de nível; no entanto, poderá a operação de ripagem não obedecer a essa regra, se seguida de uma operação final de vala e cômoro executada segundo as curvas de nível;
+8) As mobilizações do solo não localizadas devem ser executadas segundo as curvas de nível; no entanto, poderá a operação de ripagem não obedecer a essa regra se seguida de uma operação final de vala e cômoro executada segundo as curvas de nível;
 
-9) Em silvicultura de menores espaçamentos - entrelinhas =<4 m - e declives superiores a 20%, instalar uma cultura de cobertura ou manter a vegetação espontânea por um período mínimo de dois anos, através de faixas, dispostas em curva de nível, de acordo com uma das seguintes opções:
+9) Em silvicultura de menores espaçamentos - entrelinhas (igual ou menor que) 4 m - e declives superiores a 20%, instalar uma cultura de cobertura ou manter a vegetação espontânea por um período mínimo de dois anos, através de faixas, dispostas em curva de nível, de acordo com uma das seguintes opções:
 
 Manter em todas as entrelinhas uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com a largura mínima de 0,5 m;
 
 Manter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com a largura mínima de 4 m;
 
-10) Em silvicultura de maiores espaçamentos - entrelinhas >= 4 m - manter todas as entrelinhas por um período mínimo de dois anos, sem mobilização do solo ou, quando mobilizado, sem reviramento do solo, dispostas em curva de nível, com a largura mínima de 1 m, que preservem a vegetação espontânea ou em que se instale uma cultura de cobertura;
+10) Em silvicultura de maiores espaçamentos - entrelinhas (igual ou maior que) 4 m -, manter todas as entrelinhas por um período mínimo de dois anos, sem mobilização do solo ou, quando mobilizado, sem reviramento do solo, dispostas em curva de nível, com a largura mínima de 1 m, que preservem a vegetação espontânea ou em que se instale uma cultura de cobertura;
 
-11) Nas zonas de elevada susceptibilidade à desertificação aplicam-se as exigências 9 ou 10. Nestas zonas, para qualquer declive, deve existir especial cuidado na protecção do solo contra a erosão, nomeadamente evitando o reviramento do solo e a sua permanência sem cobertura;
+11) Nas zonas de elevada susceptibilidade à desertificação aplicam-se as exigências referidas nos n.os 9 ou 10). Nestas zonas, para qualquer declive, deve existir especial cuidado na protecção do solo contra a erosão, nomeadamente evitando o reviramento do solo e a sua permanência sem cobertura;
 
-12) Utilizar apenas produtos fitofarmacêuticos (PFF) homologados pelo MADRP. É sempre obrigatória a conservação dos comprovativos de aquisição de PFF e de fertilizantes;
+12) Utilizar apenas produtos fitofarmacêuticos (PFF) homologados pelo Ministério da Agricultura, Desenvolvimento Rural e Pescas. É sempre obrigatória a conservação dos comprovativos de aquisição de PFF e de fertilizantes;
 
-13) Os PFF não se devem aplicar junto das linhas ou captações de água, devendo o seu manuseamento e armazenamento efectuar-se em local seco e impermeabilizado, a uma distância mínima de 10 m de linhas ou captações de água;
+13) Os PFF não devem ser aplicados junto das linhas ou captações de água, devendo o seu manuseamento e armazenamento efectuar-se em local seco e impermeabilizado, a uma distância mínima de 10 m de linhas ou captações de água;
 
 14) Recolher os resíduos - embalagens (incluindo contentores de plantas, sacos plásticos, caixas diversas, etc.), restos de produtos, águas de lavagem de máquinas e óleos - dos locais de estação, de preparação dos produtos e das áreas de arborização, para locais devidamente apropriados. Não queimar plásticos e borracha na exploração;
 
 15) Não destruir locais de valor arqueológico, patrimonial ou cultural, bem como infra-estruturas tradicionais (muretes, poços, levadas, etc.) que contenham esses valores;
 
 16) Em parceria com as autoridades competentes - autarquias, direcções regionais do ambiente, Instituto dos Resíduos -, proceder à remoção dos depósitos de entulhos e outros resíduos.
+
+> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.

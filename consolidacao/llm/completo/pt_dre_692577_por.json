@@ -2,6 +2,12 @@
   "id": "pt:dre:692577:por",
   "artigos": [
     {
+      "chave": "ANEXO — Orgânica da Direcção Regional dos Assuntos Fiscais::10.º",
+      "epigrafe": "Estrutura",
+      "texto": "1 - A DSJUT compreende os seguintes serviços:\n\na) A Divisão de Pareceres Jurídicos, adiante designada por DP, a quem incumbe o desempenho das competências mencionadas nas alíneas a), b), c), j) e i) do artigo 8.º;\n\nb) A Divisão do Contencioso, adiante designada por DC, a quem incumbe o desempenho das competências mencionadas nas alíneas d), g), h), l), p), q) e r) do artigo 8.º;\n\nc) A Divisão de Justiça Tributária, adiante designada por DTJ, a quem incumbe o desempenho das competências mencionadas nas alíneas f), j), m), n), o) e s) do artigo 8.º;\n\nd) O Serviço de Apoio à Justiça Tributária e Contencioso, adiante designado abreviadamente por SAJT.\n\n2 - As divisões poderão ser chefiadas por um chefe de divisão, cargo de direcção intermédia de 2.º grau, e o SAJT por um coordenador, aplicando-se a este o regime previsto no artigo 40.º do presente diploma.",
+      "alterador": 1
+    },
+    {
       "chave": "ANEXO — Orgânica da Direcção Regional dos Assuntos Fiscais::24.º-A",
       "epigrafe": "Natureza e atribuições",
       "texto": "O Gabinete de Coordenação Local, adiante designado, abreviadamente, por GCL, é o órgão de apoio técnico e logístico do director regional a quem incumbe, designadamente, a coordenação da actividade dos serviços locais de finanças da DRAF.",
@@ -15,13 +21,20 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 10.º do anexo, n.º 1, alínea d): a instrução do alt. 1 diz \"d) [Antiga alínea c).]\", mas o texto atual já traz esse marcador em vez do texto da antiga alínea c), que não está disponível no pedido; não foi possível repor. Alt. 4 (DRR 14/2015/M), art. 20.º: o n.º 1 mantém em vigor os arts. 39.º, 44.º, 50.º e 52.º, mas o n.º 2 (que terá revogado o resto) só aparece como \"(Revogado.)\", sem texto: revogação não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "1) DLR 28/2006/M, art. 60.º, n.º 2: a criação de uma nova «SUBSECÇÃO IV — Gabinete de Coordenação Local» (antes dos novos artigos 24.º-A e 24.º-B) é a inserção de um título de divisão que não existe no texto atual; o formato só permite mudar ou eliminar títulos existentes, e a SUBSECÇÃO IV atual (Departamento de Coordenação e de Apoio ao Director Regional, arts. 21.º a 24.º) continua a existir, pelo que não foi alterada; os artigos 24.º-A e 24.º-B foram aditados. 2) DLR 28/2006/M, art. 31.º: o novo quadro de pessoal que substitui o publicado em anexo à orgânica só vem em imagem («(ver documento original)»), e os mapas do original também só vêm em imagem (sem corpo de anexo próprio): não aplicado. 3) DLR 28/2006/M, art. 60.º, n.º 3 (retroactividade a 1 de Setembro de 2005): não é alteração textual. 4) DRR 14/2015/M, art. 20.º: o n.º 1 mantém em vigor os artigos 39.º, 44.º, 50.º e 52.º, mas o texto do n.º 2 (que revogaria o resto) só vem como «(Revogado.)», e o art. 19.º, n.º 2, mantinha os arts. 34.º a 36.º até uma portaria futura: sem texto revogatório visível, nenhuma revogação foi aplicada.",
   "instrucoes": [
-    "Alt. 1 (DLR 28/2006/M, art. 60.º): nova redação dos arts. 3.º, 10.º e 50.º do anexo (já aplicada, salvo o marcador da alínea d) do 10.º); adita a subsecção IV e os arts. 24.º-A e 24.º-B, aplicados (a epígrafe da subsecção não é artigo). Arts. 31.º, 32.º, 37.º, 49.º, 55.º não alteram o texto.",
-    "Alts. 2, 3 e 5 a 14: mantêm suplementos em vigor; não textuais.",
-    "Alt. 4 (DRR 14/2015/M): nova orgânica; art. 20.º em nao_aplicavel."
+    "Alterador 1 (DLR 28/2006/M), art. 60.º, n.º 1, art. 3.º: nova redação do n.º 1 igual ao texto atual (já aplicada pelo programa); restantes números '...'. Sem mudança.",
+    "Alterador 1, art. 60.º, n.º 1, art. 10.º: alíneas a) a c) novas (iguais ao texto atual); d) '[Antiga alínea c).]' = a antiga alínea c) do original, que o programa deixou como marcador. Reparo do verificador aceite: d) passa a 'O Serviço de Apoio à Justiça Tributária e Contencioso, adiante designado abreviadamente por SAJT.' (texto da antiga c), coerente com o n.º 2, o art. 11.º e o título DIVISÃO I); n.º 2 '...' mantém o atual.",
+    "Alterador 1, art. 60.º, n.º 1, art. 50.º: nova redação do n.º 1 igual ao texto atual; n.º 2 '...'. Sem mudança.",
+    "Alterador 1, art. 60.º, n.º 2: aditados os artigos 24.º-A (Natureza e atribuições) e 24.º-B (Direcção e competências); o novo título SUBSECÇÃO IV — Gabinete de Coordenação Local não pode ser inserido pelo formato (ver nao_aplicavel). Reparo verificado: a instrução existe, aplicada na parte dos artigos.",
+    "Alterador 1, art. 31.º: quadro de pessoal substitui o anexo, mas só em imagem: não aplicado (reparo verificado: não há texto a copiar).",
+    "Alterador 1, arts. 32.º, 37.º, 49.º e 55.º; alteradores 2, 3 e 5 a 14 (normas que mantêm suplementos): só remetem para o original, não o alteram.",
+    "Alterador 4 (DRR 14/2015/M): nova orgânica da AT-RAM; art. 20.º, n.º 1 mantém em vigor arts. 39.º, 44.º, 50.º e 52.º; n.º 2 só como '(Revogado.)': nenhuma revogação aplicada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

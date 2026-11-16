@@ -4,25 +4,27 @@
     {
       "de": 6,
       "ate": 6,
-      "alterador": 3,
-      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de São Quintino, município de Sobral de Monte Agraço, com uma área de 1671,9580 ha."
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria, que dela faz parte integrante, sitos na freguesia de São Quintino, município de Sobral de Monte Agraço, com uma área de 1671,9580 ha.",
+      "alterador": 3
     }
   ],
   "insercoes": [
     {
       "depois_de": 6,
-      "alterador": 2,
-      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo."
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2 (Portaria 915/97), n.º 2.º: reduz para um o número de guardas do n.º 6.º sem dar nova redação (alteração não textual); alteradores 4, 5 e 6 (Portarias 965/99, 1129/2004, 580/2005): anexações, correção de área e de planta e renovação, sem nova redação do texto (plantas só em imagem).",
+  "nao_aplicavel": "Portaria 915/97, n.º 2.º: o n.º 6.º 'no que respeita ao número de guardas, passa apenas a obrigar' a manter um guarda florestal auxiliar; não dá nova redação ao n.º 6.º e o texto proposto pelo verificador não está letra a letra em nenhuma fonte, por isso não se aplica (alteração não textual). Portaria 965/99 (anexação de prédios, área total 1884,9280 ha), Portaria 1129/2004 (n.º 1.º: a zona passa a englobar 1847 ha; substituição da planta) e Portaria 580/2005 (renovação por 12 anos e anexação, 3137 ha): sem instrução que altere o texto do original; as plantas anexas só vêm em imagem.",
   "instrucoes": [
-    "Alterador 1 (Portaria 940/94): nova redação do n.º 1.º (unidade 6); depois substituída pelas redações dos alteradores 2 e 3.",
-    "Alterador 2 (Portaria 915/97), n.º 1.º: nova redação do n.º 1.º (substituída depois pelo alterador 3) e aditamento do n.º 1.º-A, inserido depois da unidade 6; n.º 2.º (guardas do n.º 6.º) sem nova redação: nao_aplicavel.",
-    "Alterador 3 (Portaria 424/99): nova redação do n.º 1.º; unidade 6 substituída por esta redação final.",
-    "Alterador 4 (Portaria 965/99): anexação de prédios, sem alteração textual.",
-    "Alterador 5 (Portaria 1129/2004): nova delimitação e área da zona e substituição da planta, sem nova redação do n.º 1.º: nao_aplicavel.",
-    "Alterador 6 (Portaria 580/2005): renovação e anexação, sem alteração textual."
+    "Portaria 940/94: nova redação do n.º 1.º (2441,6833 ha) e substituição da planta: unidade 6 substituída (depois substituída de novo pelos alteradores 2 e 3); planta só em imagem, não aplicada.",
+    "Portaria 915/97, n.º 1.º: nova redação do n.º 1.º (1707,6580 ha), mantendo o número 1.º da unidade; substituída de novo pelo alterador 3.",
+    "Portaria 915/97, n.º 1.º: aditado o n.º 1.º-A: inserido depois da unidade 6.",
+    "Portaria 915/97, n.º 2.º: n.º 6.º passa a obrigar a um só guarda florestal auxiliar; sem nova redação, posto em nao_aplicavel (reparo do verificador não aceite: o texto proposto não está letra a letra em nenhuma fonte).",
+    "Portaria 424/99: nova redação do n.º 1.º (1671,9580 ha): unidade 6 com o texto final.",
+    "Portaria 965/99: anexação de prédios (1884,9280 ha) sem alteração textual: nao_aplicavel.",
+    "Portaria 1129/2004: delimitação e área (1847 ha) e substituição da planta, sem alteração textual do original: nao_aplicavel.",
+    "Portaria 580/2005: renovação da concessão e anexação de prédios, sem alteração textual: nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

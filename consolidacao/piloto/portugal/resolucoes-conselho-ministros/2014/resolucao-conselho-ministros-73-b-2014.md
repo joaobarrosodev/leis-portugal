@@ -172,6 +172,8 @@ Programa Operacional Temático Capital Humano
 
 2 - É designado como presidente da comissão diretiva do Programa Operacional Temático Capital Humano Joaquim José de Pina Antunes Bernardo.
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 39/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2016-75069301), publicado em 2016-08-01.
+
 3 - São designadas como vogais executivos da comissão diretiva do Programa Operacional Temático Capital Humano Ana Isabel do Vale Lima das Neves e Ana Cristina Jacinto da Silva.
 
 > Alterado pelo/a [Resolução do Conselho de Ministros n.º 39/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2016-75069301), publicado em 2016-08-01.
@@ -388,6 +390,8 @@ Notas curriculares (síntese)
 
 Programa operacional temático 'Competitividade e Internacionalização'
 
+> Alterado pelo/a [Despacho n.º 11338/2021](https://diariodarepublica.pt/dr/detalhe/despacho/11338-2021-174516729), publicado em 2021-11-18.
+
 Nota curricular de Nuno André Oliveira Mangas Pereira
 
 1 - Dados Pessoais:
@@ -447,6 +451,8 @@ Desde 2012 - professor coordenador do Instituto Politécnico de Leiria;
 1996-2012 - professor adjunto na Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Leiria;
 
 1994-1996 - assistente na Escola Superior de Tecnologia e Gestão do Instituto Politécnico de Leiria.
+
+> Alterado pelo/a [Despacho n.º 11046/2020](https://diariodarepublica.pt/dr/detalhe/despacho/11046-2020-148113973), publicado em 2020-11-11.
 
 Nota curricular de Ana Margarida Lemos Gomes
 

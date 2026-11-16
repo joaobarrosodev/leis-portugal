@@ -2,6 +2,12 @@
   "id": "pt:dre:641126:por",
   "artigos": [
     {
+      "chave": "5.º",
+      "epigrafe": "Controlo",
+      "texto": "1 - A designação e revisão da designação das zonas vulneráveis será feita mediante:\n\na) A realização de um programa de controlo de concentração de nitratos nas águas doces durante um ano:\n\ni) Nas estações de colheita de amostras de águas superficiais referidas no n.º 4 do artigo 5.º da Directiva n.º [75/440/CEE](https://data.europa.eu/eli/dir/1975/440/oj?locale=pt) ou noutras estações de colheita de amostras representativas das águas superficiais, pelo menos, mensalmente e mais frequentemente durante os períodos de cheias;\n\nii) Nas estações de colheita de amostras representativas dos lençóis freáticos, em intervalos regulares, tendo em conta o disposto na Directiva n.º [80/778/CEE](https://data.europa.eu/eli/dir/1980/778/oj?locale=pt);\n\nb) O programa de controlo referido na alínea a) deverá ser repetido pelo menos de quatro em quatro anos, excepto no que se refere às estações de amostragem em que a concentração de nitratos em todas as amostras anteriores tenha sido inferior a 25 mg/l e em que não tenha sido registado qualquer novo factor susceptível de aumentar o teor dos nitratos; nesses casos, o programa de controlo só necessita de ser aplicado de oito em oito anos;\n\nc) A avaliação do estado de eutrofização das águas doces superficiais, dos estuários e das águas costeiras, de quatro em quatro anos.\n\n2 - Deverão utilizar-se os métodos de análise de referência constantes do anexo II ao presente diploma, que dele faz parte integrante.\n\n3 - Compete às direcções regionais do ambiente, sob a coordenação do INAG, e em concertação com as direcções regionais de agricultura e outras entidades com competência técnica específica para o efeito e capacidade laboratorial disponível, realizar o programa de controlo da concentração de nitratos nas águas doces superficiais e subterrâneas referido na alínea a) do n.º 1 e a avaliação do estado de eutrofização referida na alínea c) do mesmo número.\n\n4 - Os resultados analíticos obtidos através do cumprimento do disposto no número anterior serão enviados ao INAG, que os deverá manter em registos adequados à sua permanente actualização e fácil disponibilização.",
+      "alterador": 1
+    },
+    {
       "chave": "7.º",
       "epigrafe": "Programas de acção",
       "texto": "1 - Para a prossecução dos objectivos mencionados no artigo 2.º, serão aprovados, por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, programas de acção a aplicar às zonas identificadas como vulneráveis, nos termos do artigo 4.º, tendo em conta:\n\na) Os dados científicos e técnicos disponíveis, sobretudo no que se refere às contribuições relativas de azoto proveniente de fontes agrícolas ou outras;\n\nb) As condições do ambiente, em particular as edafo-climáticas, nas diferentes regiões.\n\n2 - Um programa de acção poderá abranger todas as zonas vulneráveis do território nacional ou poderão ser elaborados vários programas para diferentes zonas ou partes de zonas vulneráveis.\n\n3 - Dos programas de acção constarão obrigatoriamente as medidas referidas no anexo IV ao presente diploma, que dele faz parte integrante, bem como as regras do Código de Boas Práticas Agrícolas que forem consideradas pertinentes.\n\n4 - Os programas de acção deverão estar executados no prazo de quatro anos a contar da respectiva aprovação.\n\n5 - Compete às DRA estabelecer formas de controlo que permitam avaliar da eficácia dos programas de acção estabelecidos por força do presente artigo, que deverão incluir, para além de outras medidas consideradas necessárias, as decorrentes da aplicação do disposto no artigo 5.º\n\n6 - Se da execução dos programas resultar que as medidas referidas no n.º 3 se manifestam insuficientes para a prossecução dos objectivos referidos no artigo 2.º, deverão ser adoptadas as medidas e acções suplementares necessárias.\n\n7 - Os programas de acção, bem como as medidas e acções suplementares mencionadas no número anterior, serão objecto de análise e, se necessário, revistos pelo menos de quatro em quatro anos.\n\n8 - Compete ao INAG dar conhecimento à Comissão Europeia dos programas de acção a que se refere o presente artigo, bem como das alterações que estes venham a merecer e das eventuais medidas e acções a que se refere o n.º 6.",
@@ -9,14 +15,30 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DL 68/99: nova redação dos anexos I e V, que não constam do texto atual; não aplicada.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Critérios de identificação das águas poluídas por nitratos",
+      "texto": "1 - Na identificação das águas referidas no n.º 1 do artigo 4.º serão aplicados, entre outros, os seguintes critérios:\n\na) Águas doces superficiais, nomeadamente as utilizadas ou destinadas à produção de água para consumo humano que contenham ou possam vir a conter uma concentração de nitratos superior à definida de acordo com disposto na Directiva n.º [75/440/CEE](https://data.europa.eu/eli/dir/1975/440/oj?locale=pt), caso não sejam empreendidas acções nos termos do artigo 7.º;\n\nb) Águas subterrâneas que contenham ou apresentem risco de conter uma concentração de nitratos superior a 50 mg/l, se não forem tomadas as medidas previstas no artigo 7.º;\n\nc) Lagoas, outras massas de águas doces, estuários, águas costeiras e marinhas que se revelem eutróficos ou que se possam tornar eutróficos a curto prazo, se não forem tomadas as medidas previstas no artigo 7.º\n\n2 - Na aplicação destes critérios, deverá ainda atender-se:\n\na) Às características físicas e ambientais das águas e dos solos;\n\nb) Aos conhecimentos disponíveis quanto ao comportamento dos compostos de azoto no ambiente (águas e solos);\n\nc) Aos conhecimentos disponíveis acerca do impacte das acções empreendidas nos termos do artigo 7.º;\n\nd) À caracterização das actividades humanas nas áreas envolventes.",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO V — Informações a incluir nos relatórios ao abrigo do artigo 8.º",
+      "texto": "1 - Uma exposição das medidas preventivas tomadas ao abrigo do artigo 6.º\n\n2 - Um mapa que indique:\n\na) As águas identificadas nos termos dos critérios e constantes do anexo I, indicando, para cada água, qual dos critérios foi utilizado para efeitos de identificação;\n\nb) A localização das zonas vulneráveis designadas, estabelecendo a distinção entre as zonas antigas e as designadas desde o relatório anterior.\n\n3 - Um resumo dos resultados do controlo efectuado nos termos do artigo 5.º, incluindo uma exposição das circunstâncias que conduziram à designação de cada zona vulnerável e a todos os aditamentos ou revisões das designações de zonas vulneráveis.\n\n4 - Um resumo dos programas de acção elaborados nos termos do artigo 7.º e, em especial:\n\na) As medidas exigidas pelas alíneas a) e b) do n.º 1 do artigo 7.º;\n\nb) Todas as medidas suplementares tomadas ao abrigo do n.º 6 do artigo 7.º;\n\nc) Um resumo dos resultados dos programas de controlo executados ao abrigo do n.º 5 do artigo 7.º\n\nd) As informações relativas à forma como está a ser aplicado o disposto no n.º 2 do anexo IV;\n\ne) As previsões quanto aos prazos em que se espera que as águas identificadas nos termos do n.º 1 do artigo 4.º correspondam às medidas previstas no programa de acção, juntamente com a indicação do grau de fiabilidade destas previsões.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1: artigos 4.º e 5.º já têm no texto atual a redação do DL 68/99 (só diferem ligações); sem mudança.",
-    "Alterador 1: artigo 7.º, n.º 1 substituído (com alíneas a) e b)); n.os 2 a 8 mantêm o texto atual.",
-    "Alterador 1: anexos I e V ausentes do texto atual; não aplicados.",
-    "Alterador 2 (Portaria 177/2005): altera outro diploma (Portaria 46-A/2001) e só remete para o original; ignorado."
+    "DL 68/99, artigo único, art. 4.º n.º 2: já aplicado pelo programa e certo; mantém-se.",
+    "DL 68/99, art. 5.º (nova redacção dos n.os 1 a 4, sai o n.º 5): o programa aplicou-o, mas sem as ligações das Directivas 75/440/CEE e 80/778/CEE; devolvido letra a letra do alterador.",
+    "DL 68/99, art. 7.º n.º 1 nova redacção com alíneas a) e b); n.os 2 a 8 mantêm-se: aplicado.",
+    "DL 68/99, anexo I: n.º 1 (corpo, a) e c)) nova redacção; b) e n.º 2 mantêm-se: aplicado.",
+    "DL 68/99, anexo V: n.º 4 (corpo e a)) nova redacção e aditadas d) e e); restantes mantêm-se: aplicado.",
+    "Portaria 177/2005: altera a Portaria 46-A/2001 (Regulamento das Indemnizações Compensatórias), não o DL 235/97: ignorada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

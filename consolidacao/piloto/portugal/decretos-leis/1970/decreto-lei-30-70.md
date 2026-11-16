@@ -7,18 +7,9 @@ consolidacao:
     pelo LLM), sem valor oficial'
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:382996:por
-    title: Decreto-Lei n.º 67/79
-    publication_date: '1979-03-30'
   - id: pt:dre:229149:por
     title: Decreto-Lei n.º 130/70
     publication_date: '1970-03-25'
-  - id: pt:dre:411328:por
-    title: Decreto-Lei n.º 156/74
-    publication_date: '1974-04-19'
-  - id: pt:dre:472892:por
-    title: Decreto-Lei n.º 530/74
-    publication_date: '1974-10-09'
 ---
 
 # Decreto-Lei n.º 30/70
@@ -539,23 +530,19 @@ Ordenados e quadros
 
 I
 
-Vencimentos dos governadores civis e vice-governadores civis
+Ordenados dos governadores civis
 
-a) Governadores civis:
+... Fixos
 
-Lisboa e Porto ... 30500$00
+Lisboa e Porto ... 14000$00
 
-Outros distritos ... 26000$00
+Outros distritos do continente ... 12500$00
 
-b) Vice-governadores civis:
+Os governadores civis dos distritos de Lisboa e Porto e os dos outros distritos do continente têm direito aos subsídios mensais de 5000$00 e 3000$00, respectivamente, para despesas de representação.
 
-Lisboa e Porto ... 24750$00
+Quando o exercício do cargo obrigue o governador civil a mudança de residência e esta lhe não seja facultada em edifício público, ser-lhe-á abonado um subsídio mensal de habitação de 2000$00.
 
-Outros distritos ... 22500$00
-
-Quando o exercício do cargo obrigue o governador civil, o vice-governador civil, ou ambos, a mudança de residência, e esta não seja facultada em edifício público, abonar-se-á o subsídio mensal de habitação de 7000$00. O direito ao subsídio será reconhecido por despacho do Ministro da Administração Interna.
-
-> Alterado pelo/a [Decreto-Lei n.º 67/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1979-382996), publicado em 1979-03-30.
+O direito ao subsídio será reconhecido por despacho do Ministro do Interior.
 
 II
 
@@ -641,25 +628,19 @@ Administradores dos bairros de Lisboa e Porto ... 7800$00
 
 Agentes do Ministério Público junto das auditorias ... 7800$00
 
-Chefes de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, habilitados com concurso para a 1.ª categoria ou providos nos termos do artigo 488.º-A do Código Administrativo ... 7800$00
+Chefes de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, habilitados com concurso para a 1.ª categoria ... 7800$00
 
-Chefes de secretaria das juntas distritais com sede em Lisboa e Porto, habilitados com concurso para a 1.ª categoria ou providos nos termos do artigo 488.º-A do Código Administrativo ... 7800$00
-
-> Alterado pelo/a [Decreto-Lei n.º 130/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1970-229149), publicado em 1970-03-25.
+Chefes de secretaria das juntas distritais com sede em Lisboa e Porto, habilitados com concurso para a 1.ª categoria ... 7800$00
 
 2.ª categoria:
 
 1.ª classe: ... Fixos
 
-Chefes de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, não habilitados com concurso para a 1.ª categoria nem providos nos termos do artigo 488.º-A do Código Administrativo ... 6500$00
-
-> Alterado pelo/a [Decreto-Lei n.º 130/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1970-229149), publicado em 1970-03-25.
+Chefes de secretaria das câmaras municipais dos concelhos urbanos de 1.ª ordem, não habilitados com concurso para a 1.ª categoria ... 6500$00
 
 Chefes de secretaria das câmaras municipais dos concelhos rurais de 1.ª ordem ... 6500$00
 
-Chefes de secretaria das juntas distritais com sede em Lisboa e Porto, não habilitados com concurso para a 1.ª categoria nem providos nos termos do artigo 488.º-A do Código Administrativo, e das demais juntas distritais ... 6500$00
-
-> Alterado pelo/a [Decreto-Lei n.º 130/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1970-229149), publicado em 1970-03-25.
+Chefes de secretaria das juntas distritais com sede em Lisboa e Porto, não habilitados com concurso para a 1.ª categoria, e das demais juntas distritais ... 6500$00
 
 Secretários das administrações dos bairros de Lisboa e Porto ... 6500$00
 
@@ -773,33 +754,29 @@ Quadro do pessoal maior das secretarias dos governos civis, administrações dos
 
 Governos civis:
 
-a) Distritos de 1.ª ordem:
+Distritos de 1.ª ordem:
 
 Lisboa:
 
 1 secretário.
 
-1 adjunto do secretário.
-
-3 chefes de secção.
+1 adjunto de secretário.
 
 3 primeiros-oficiais.
 
 1 tesoureiro.
 
-7 segundos-oficiais.
+4 segundos-oficiais.
 
-12 terceiros-oficiais.
+5 terceiros-oficiais.
 
-15 escriturários-dactilógrafos de 1.ª classe.
+10 escriturários-dactilógrafos de 1.ª classe.
 
-15 escriturários-dactilógrafos de 2.ª classe.
+20 escriturários-dactilógrafos de 2.ª classe.
 
 Porto:
 
 1 secretário.
-
-2 chefes de secção.
 
 2 primeiros-oficiais.
 
@@ -809,129 +786,31 @@ Porto:
 
 3 terceiros-oficiais.
 
-5 escriturários-dactilógrafos de 1.ª classe.
+4 escriturários-dactilógrafos de 1.ª classe.
 
-6 escriturários-dactilógrafos de 2.ª classe.
+7 escriturários-dactilógrafos de 2.ª classe.
 
-Funchal e Ponta Delgada:
-
-1 secretário.
-
-2 primeiros-oficiais.
-
-2 segundos-oficiais.
-
-1 terceiro-oficial.
-
-3 escriturários-dactilógrafos de 1.ª classe.
-
-3 escriturários-dactilógrafos de 2.ª classe.
-
-b) Distritos de 2.ª ordem:
-
-Angra do Heroísmo:
-
-1 secretário.
-
-1 primeiro-oficial.
-
-2 segundos-oficiais.
-
-1 terceiro-oficial.
-
-1 escriturário-dactilógrafo de 1.ª classe.
-
-2 escriturários-dactilógrafos de 2.ª classe.
-
-Aveiro:
-
-1 secretário.
-
-1 primeiro-oficial.
-
-1 segundo-oficial.
-
-2 terceiros-oficiais.
-
-2 escriturários-dactilógrafos de 1.ª classe.
-
-2 escriturários-dactilógrafos de 2.ª classe.
-
-Beja, Castelo Branco, Évora, Horta, Vila Real e Viseu:
-
-1 secretário.
-
-1 primeiro-oficial.
-
-1 segundo-oficial.
-
-1 terceiro-oficial.
-
-1 escriturário-dactilógrafo de 1.ª classe.
-
-1 escriturário-dactilógrafo de 2.ª classe.
-
-Braga e Setúbal:
-
-1 secretário.
-
-1 primeiro-oficial.
-
-1 segundo-oficial.
-
-1 terceiro-oficial.
-
-2 escriturários-dactilógrafos de 1.ª classe.
-
-2 escriturários-dactilógrafos de 2.ª classe.
-
-Bragança, Guarda, Portalegre e Viana do Castelo:
-
-1 secretário.
-
-1 primeiro-oficial.
-
-1 segundo-oficial.
-
-1 escriturário-dactilógrafo de 1.ª classe.
-
-2 escriturários-dactilógrafos de 2.ª classe.
+Distritos de 2.ª ordem:
 
 Coimbra:
 
 1 secretário.
 
-1 primeiro-oficial.
-
 2 segundos-oficiais.
 
 1 terceiro-oficial.
 
-2 escriturários-dactilógrafos de 1.ª classe.
+1 escriturário-dactilógrafo de 1.ª classe.
 
-2 escriturários-dactilógrafos de 2.ª classe.
+3 escriturários-dactilógrafos de 2.ª classe.
 
 Faro:
 
 1 secretário.
 
-1 primeiro-oficial.
-
 2 segundos-oficiais.
 
 2 terceiros-oficiais.
-
-2 escriturários-dactilógrafos de 1.ª classe.
-
-2 escriturários-dactilógrafos de 2.ª classe.
-
-Leiria:
-
-1 secretário.
-
-1 primeiro-oficial.
-
-1 segundo-oficial.
 
 2 escriturários-dactilógrafos de 1.ª classe.
 
@@ -941,17 +820,109 @@ Santarém:
 
 1 secretário.
 
+2 segundos-oficiais.
+
+1 terceiro-oficial.
+
+2 escriturários-dactilógrafos de 1.ª classe.
+
+4 escriturários-dactilógrafos de 2.ª classe.
+
+Braga:
+
+1 secretário.
+
+1 segundo-oficial.
+
+1 terceiro-oficial.
+
+1 escriturário-dactilógrafo de 1.ª classe.
+
+3 escriturários-dactilógrafos de 2.ª classe.
+
+Beja, Castelo Branco, Évora, Vila Real e Viseu:
+
+1 secretário.
+
+1 segundo-oficial.
+
+1 terceiro-oficial.
+
+1 escriturário-dactilógrafo de 1.ª classe.
+
+1 escriturário-dactilógrafo de 2.ª classe.
+
+Leiria e Setúbal:
+
+1 secretário.
+
+1 segundo-oficial.
+
+1 escriturário-dactilógrafo de 1.ª classe.
+
+3 escriturários-dactilógrafos de 2.ª classe.
+
+Aveiro, Bragança, Guarda, Portalegre e Viana do Castelo:
+
+1 secretário.
+
+1 segundo-oficial.
+
+1 escriturário-dactilógrafo de 1.ª classe.
+
+2 escriturários-dactilógrafos de 2.ª classe.
+
+Distritos autónomos:
+
+Funchal:
+
+1 secretário.
+
 1 primeiro-oficial.
 
 2 segundos-oficiais.
 
 1 terceiro-oficial.
 
-3 escriturários-dactilógrafos de 1.ª classe.
+2 escriturários-dactilógrafos de 1.ª classe.
+
+4 escriturários-dactilógrafos de 2.ª classe.
+
+Ponta Delgada:
+
+1 secretário.
+
+1 primeiro-oficial.
+
+2 segundos-oficiais.
+
+1 terceiro-oficial.
+
+2 escriturários-dactilógrafos de 1.ª classe.
 
 3 escriturários-dactilógrafos de 2.ª classe.
 
-> Alterado pelo/a [Decreto-Lei n.º 156/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1974-411328), publicado em 1974-04-19.
+Angra do Heroísmo:
+
+1 secretário.
+
+2 segundos-oficiais.
+
+1 terceiro-oficial.
+
+1 escriturário-dactilógrafo de 1.ª classe.
+
+2 escriturários-dactilógrafos de 2.ª classe.
+
+Horta:
+
+1 secretário.
+
+1 segundo-oficial.
+
+1 terceiro-oficial.
+
+1 escriturário-dactilógrafo de 2.ª classe.
 
 Administrações dos bairros:
 
@@ -1077,21 +1048,23 @@ Ministério do Interior, 7 de Janeiro de 1970. - O Ministro do Interior, Antóni
 
 Tabela anexa ao Estatuto dos Distritos Autónomos das Ilhas Adjacentes
 
-Ordenados dos governadores e vice-governadores dos distritos autónomos e dos presidentes e vice-presidentes das juntas gerais.
+Ordenados dos governadores dos distritos autónomos e dos presidentes das juntas gerais
 
-1 - a) Ordenados dos governadores ... 16600$00
+1. Ordenados dos governadores dos distritos autónomos ... 14000$00
 
-b) Ordenados dos vice-governadores ... 15000$00
+O governador do Funchal e os dos restantes distritos autónomos têm direito, respectivamente, a 5000$00 e 3000$00 para despesas de representação.
 
-Os governadores e vice-governadores do Funchal e de Ponta Delgada e os dos restantes distritos autónomos têm direito aos subsídios mensais de 5000$00 e 3000$00, respectivamente, para despesas de representação.
+Quando o exercício do cargo obrigue o governador a mudar de residência e esta não lhe seja facultada em edifício público, ser-lhe-á abonado um subsídio mensal de habitação de 2000$00.
 
-Quando o exercício do cargo obrigue o governador, o vice-governador ou ambos a mudar de residência, e esta não seja facultada em edifício público, abonar-ser-á o subsídio mensal de habitação de 5000$00. O direito ao subsídio será reconhecido por despacho do Ministro da Administração Interna.
+2. Ordenados dos presidentes das juntas gerais:
 
-2 - a) Ordenados dos presidentes das juntas gerais ... 15500$00
+Funchal ... 11600$00
 
-b) Ordenados dos vice-presidentes dos mesmos corpos administrativos ... 13900$00
+Ponta Delgada ... 11600$00
 
-> Alterado pelo/a [Decreto-Lei n.º 530/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1974-472892), publicado em 1974-10-09.
+Angra do Heroísmo ... 10200$00
+
+Horta ... 10200$00
 
 Ministério do Interior, 7 de Janeiro de 1970. - O Ministro do Interior, António Manuel Gonçalves Rapazote.
 
@@ -1173,7 +1146,7 @@ Estação Agrária (ver nota d):
 
 3 veterinários (ver nota e), a ... 7800$00
 
-4 ajudantes de pecuária (e) e (f), a ... 2200$00
+4 ajudantes de pecuária (e) e (f), a ...
 
 > Alterado pelo/a [Decreto-Lei n.º 130/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1970-229149), publicado em 1970-03-25.
 
@@ -1355,7 +1328,7 @@ C) Quadros especiais:
 
 2 veterinários de 3.ª classe (ver nota e) e (ver nota j), a ... 7100$00
 
-2 ajudantes de pecuária (e) e (f), a ... 2200$00
+2 ajudantes de pecuária (e) e (f), a ...
 
 > Alterado pelo/a [Decreto-Lei n.º 130/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1970-229149), publicado em 1970-03-25.
 
@@ -1495,7 +1468,7 @@ C) Quadros especiais:
 
 1 veterinário (ver nota e) ... 7100$00
 
-2 ajudantes de pecuária (e) e (f), a ... 2200$00
+2 ajudantes de pecuária (e) e (f), a ...
 
 > Alterado pelo/a [Decreto-Lei n.º 130/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1970-229149), publicado em 1970-03-25.
 
@@ -1607,7 +1580,7 @@ C) Quadros especiais:
 
 1 veterinário (ver nota e) ... 7100$00
 
-1 ajudante de pecuária (e) e (f) ... 2200$00
+1 ajudante de pecuária (e) e (f) ...
 
 > Alterado pelo/a [Decreto-Lei n.º 130/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1970-229149), publicado em 1970-03-25.
 

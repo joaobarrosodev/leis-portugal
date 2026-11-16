@@ -1,0 +1,33 @@
+{
+  "id": "pt:dre:549454:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Âmbito pessoal",
+      "texto": "1 - Os beneficiários activos do regime geral de segurança social, nacionais ou estrangeiros, residentes em Portugal, que apresentem prova de períodos de actividade profissional exercida em território nacional a que não tenha correspondido pagamento de contribuições podem requerer o pagamento retroactivo, ainda que as mesmas respeitem a períodos não abrangidos por qualquer regime de previdência ou de segurança social de inscrição obrigatória.\n\n2 - A faculdade prevista no número anterior é ainda aplicável:\n\na) A beneficiários já pensionistas;\n\nb) A pessoas que, enquanto trabalhadores, não tivessem sido inscritos no sistema de segurança social.",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Limites temporais da retroacção",
+      "texto": "1 - Os períodos indicados pelo interessado para efeitos de pagamento retroactivo devem ser posteriores à data de publicação da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, salvo se o interessado demonstrar que tem um interesse relevante em que seja considerada uma data anterior.\n\n2 - Os períodos a considerar para efeitos de pagamento retroactivo devem ainda ser posteriores à data em que o interessado perfez 14 anos de idade.\n\n3 - Tratando-se de pensionistas, os períodos a que se reportam os números anteriores não podem ser posteriores à data da atribuição da pensão nem exceder 37 anos quando somados com os períodos de carreira contributiva normal dos interessados.\n\n4 - Relativamente a interessados não vinculados ao sistema de segurança social, o pedido de retroacção só pode ser deferido se se reportar a períodos que totalizem, pelo menos, 144 meses.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 72/93), art. 1.º n.º 1: nova redação do art. 3.º (n.º 1 e n.º 2 com alíneas a) e b)) — aplicada.",
+    "Alterador 1, art. 1.º n.º 1: art. 7.º — n.os 1 e 2 ('...') mantêm o texto atual; n.º 3 (pensionistas, 37 anos) passa a ser o novo texto e é aditado o n.º 4 (144 meses) — aplicado.",
+    "Alterador 1, art. 1.º n.º 2: revoga o n.º 3 do art. 6.º — já está '(Revogado.)' no texto atual; sem mudança.",
+    "Alterador 2 é o mesmo DL 72/93 repetido: mesmas instruções, nada a acrescentar.",
+    "Alterador 3 (DL 16-A/2021, art. 99.º): só remete para o original; não altera o texto.",
+    "Reparos dos art. 3.º e 7.º confirmados e aplicados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

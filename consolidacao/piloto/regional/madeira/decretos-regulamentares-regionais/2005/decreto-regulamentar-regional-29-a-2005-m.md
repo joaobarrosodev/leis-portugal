@@ -318,11 +318,13 @@ b) A Divisão do Contencioso, adiante designada por DC, a quem incumbe o desempe
 
 c) A Divisão de Justiça Tributária, adiante designada por DTJ, a quem incumbe o desempenho das competências mencionadas nas alíneas f), j), m), n), o) e s) do artigo 8.º;
 
-d) [Antiga alínea c).]
+d) O Serviço de Apoio à Justiça Tributária e Contencioso, adiante designado abreviadamente por SAJT.
 
 2 - As divisões poderão ser chefiadas por um chefe de divisão, cargo de direcção intermédia de 2.º grau, e o SAJT por um coordenador, aplicando-se a este o regime previsto no artigo 40.º do presente diploma.
 
 > Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 28/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2006-537579), publicado em 2006-07-19.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 28/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2006-537579), publicado em 2006-07-19.
 
 ##### DIVISÃO I — Serviço de Apoio à Justiça Tributária e Contencioso
 

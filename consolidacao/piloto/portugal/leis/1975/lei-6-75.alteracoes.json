@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:366841:por",
     "alterador": "pt:dre:305810:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º — Constituição e formação do Governo Provisório\n\n1. O Governo Provisório é constituído pelo Primeiro-Ministro, que poderá gerir os negócios de um ou mais Ministérios, pelos Ministros, Secretários e Subsecretários de Estado.\n\n2. O Primeiro-Ministro é nomeado e exonerado livremente pelo Presidente da República, ouvido o Conselho da Revolução.\n\nOs restantes membros do Governo são nomeados e exonerados pelo Presidente da República, sob proposta do Primeiro-Ministro.\n\n3. As funções de todos os membros do Governo cessam com a exoneração do Primeiro-Ministro e as dos Secretários e Subsecretários de Estado com as dos respectivos Ministros.\n\n4. Poderá haver Ministros sem pasta, que desempenharão missões de natureza específica e exercerão funções de coordenação entre os Ministérios ou quaisquer outras que neles tenham sido delegadas pelo Primeiro-Ministro.\n\n5. Na ausência ou no impedimento do Primeiro-Ministro será ele substituído pelo Ministro que para o efeito indicar ao Presidente da República ou, na falta de tal indicação, pelo Ministro que for designado pelo Presidente da República, ouvido o Conselho da Revolução.\n\n6. Poderá haver um Subsecretário de Estado adjunto do Primeiro-Ministro, ao qual compete coadjuvar este nas tarefas de coordenação da actividade governamental, podendo participar, sem direito a voto, nas sessões do Conselho de Ministros.",
+    "depois": "###### Artigo 1.º — Constituição e formação do Governo Provisório\n\n1. O Governo Provisório é constituído pelo Primeiro-Ministro, que poderá gerir os negócios de um ou mais Ministérios, pelos Ministros, Secretários e Subsecretários de Estado.\n\n2. O Primeiro-Ministro é nomeado e exonerado livremente pelo Presidente da República, ouvido o Conselho da Revolução.\n\nOs restantes membros do Governo são nomeados e exonerados pelo Presidente da República, sob proposta do Primeiro-Ministro.\n\n3. As funções de todos os membros do Governo cessam com a exoneração do Primeiro-Ministro e as dos Secretários e Subsecretários de Estado com as dos respectivos Ministros.\n\n4. Poderá haver Ministros sem pasta, que desempenharão missões de natureza específica e exercerão funções de coordenação entre os Ministérios ou quaisquer outras que neles tenham sido delegadas pelo Primeiro-Ministro.\n\n5. Na ausência ou no impedimento do Primeiro-Ministro será ele substituído pelo Vice-Primeiro-Ministro que para o efeito indicar ao Presidente da República ou, na falta de tal indicação, pelo Vice-Primeiro-Ministro que for designado pelo Presidente da República, ouvido o Conselho da Revolução.\n\n6. Poderá haver um Subsecretário de Estado adjunto do Primeiro-Ministro, ao qual compete coadjuvar este nas tarefas de coordenação da actividade governamental, podendo participar, sem direito a voto, nas sessões do Conselho de Ministros.\n\n> Alterado pelo/a [Lei n.º 10/75](https://diariodarepublica.pt/dr/detalhe/lei/10-1975-305810), publicado em 1975-08-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:366841:por",
+    "alterador": "pt:dre:305810:por"
   }
 ]

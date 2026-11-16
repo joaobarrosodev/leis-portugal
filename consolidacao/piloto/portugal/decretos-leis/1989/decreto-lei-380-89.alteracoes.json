@@ -30,5 +30,33 @@
     ],
     "diploma": "pt:dre:549454:por",
     "alterador": "pt:dre:628041:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Âmbito pessoal\n\n1 - Os beneficiários activos do regime geral de segurança social residentes em Portugal que apresentem prova de períodos de actividade a que não tenha correspondido pagamento de contribuições podem requerer o pagamento retroactivo, ainda que as mesmas respeitem a períodos não abrangidos por qualquer regime de previdência ou de segurança social de inscrição obrigatória.\n\n2 - A faculdade prevista no número anterior é aplicável aos trabalhadores não inscritos no sistema de segurança social.",
+    "depois": "###### Artigo 3.º — Âmbito pessoal\n\n1 - Os beneficiários activos do regime geral de segurança social, nacionais ou estrangeiros, residentes em Portugal, que apresentem prova de períodos de actividade profissional exercida em território nacional a que não tenha correspondido pagamento de contribuições podem requerer o pagamento retroactivo, ainda que as mesmas respeitem a períodos não abrangidos por qualquer regime de previdência ou de segurança social de inscrição obrigatória.\n\n2 - A faculdade prevista no número anterior é ainda aplicável:\n\na) A beneficiários já pensionistas;\n\nb) A pessoas que, enquanto trabalhadores, não tivessem sido inscritos no sistema de segurança social.\n\n> Alterado pelo/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549454:por",
+    "alterador": "pt:dre:628041:por"
+  },
+  {
+    "artigo": "7.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 7.º — Limites temporais da retroacção\n\n1 - Os períodos indicados pelo interessado para efeitos de pagamento retroactivo devem ser posteriores à data de publicação da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, salvo se o interessado demonstrar que tem um interesse relevante em que seja considerada uma data anterior.\n\n2 - Os períodos a considerar para efeitos de pagamento retroactivo devem ainda ser posteriores à data em que o interessado perfez 14 anos de idade.\n\n3 - Tratando-se de interessados não vinculados ao sistema de segurança social, o pedido de retroacção só pode ser deferido se se reportar a períodos que totalizem pelo menos 180 meses.",
+    "depois": "###### Artigo 7.º — Limites temporais da retroacção\n\n1 - Os períodos indicados pelo interessado para efeitos de pagamento retroactivo devem ser posteriores à data de publicação da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, salvo se o interessado demonstrar que tem um interesse relevante em que seja considerada uma data anterior.\n\n2 - Os períodos a considerar para efeitos de pagamento retroactivo devem ainda ser posteriores à data em que o interessado perfez 14 anos de idade.\n\n3 - Tratando-se de pensionistas, os períodos a que se reportam os números anteriores não podem ser posteriores à data da atribuição da pensão nem exceder 37 anos quando somados com os períodos de carreira contributiva normal dos interessados.\n\n4 - Relativamente a interessados não vinculados ao sistema de segurança social, o pedido de retroacção só pode ser deferido se se reportar a períodos que totalizem, pelo menos, 144 meses.\n\n> Alterado pelo/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:549454:por",
+    "alterador": "pt:dre:628041:por"
   }
 ]

@@ -1,0 +1,30 @@
+{
+  "id": "pt:dre:510178:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Requisição de fundos",
+      "texto": "1 - Os serviços e fundos autónomos e os serviços com autonomia administrativa, na parte em que elaboram orçamentos privativos para aplicação de receitas próprias, deverão fornecer à Direcção Regional de Orçamento e Contabilidade todos os elementos que por esta lhes forem solicitados para o acompanhamento da respectiva execução orçamental.\n\n2 - Os serviços dotados de autonomia administrativa e de autonomia administrativa e financeira apenas poderão requisitar mensalmente as importâncias que, embora dentro dos respectivos duodécimos, forem estritamente indispensáveis à realização das despesas correspondentes às suas necessidades mensais.\n\n3 - As requisições de fundos enviadas à Direcção Regional de Orçamento e Contabilidade - Direcção de Serviços de Contabilidade - para autorização de pagamento serão acompanhadas de projectos de aplicação, onde, por cada rubrica, se pormenorizem os encargos previstos no respectivo mês e o saldo por aplicar das importâncias anteriormente levantadas.\n\n4 - Poderão ser autorizados a liquidação e pagamento das despesas com as transferências para os serviços com autonomia administrativa e autonomia administrativa e financeira cujas requisições estejam em conformidade com os números anteriores deste artigo, independentemente de quaisquer formalidades.\n\n5 - O disposto no número anterior aplica-se com as necessárias adaptações a outros documentos de levantamentos de fundos dos cofres da Região.",
+      "alterador": 1
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Património da Região Autónoma da Madeira",
+      "texto": "O n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 5/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1982-392466), de 18 de Maio, passa a ter a seguinte redacção:",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Reparo 5.º confirmado: o art. 20.º do DRR 3/2008/M revoga o artigo 5.º do DRR 5/82/M (na redacção dada pelo artigo 10.º do original) e o artigo 7.º do DRR 5/82/M; nada revoga o artigo 5.º do original. Repus o texto original do 5.º.",
+    "Reparo 10.º confirmado: a mesma revogação recai sobre o artigo 5.º do DRR 5/82/M, outro diploma; não revoga o artigo 10.º do original. Repus o texto original do 10.º. O 5.º#2 (texto do art. 5.º do DRR 5/82/M dado pelo art. 10.º) fica como está, por a revogação ser instrução sobre outro diploma.",
+    "Restantes artigos do DRR 3/2008/M (1.º a 19.º e 21.º): regulam a execução do orçamento de 2008 e não contêm instruções de alteração ao original; nada aplicado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

@@ -15,12 +15,13 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Substituição das plantas anexas (Portarias 735/95 e 759/97) só em imagem. Portarias 153/99 e 1033-CQ/2004 (anexações) e 158/2007 (renovação e anexação) não alteram textualmente a portaria: são atos autónomos sobre a concessão.",
+  "nao_aplicavel": "Alteradores 1 e 2: substituição da planta só em imagem. Alterador 3 (Portaria 153/99, área total 1900,2202 ha), alterador 4 (Portaria 1033-CQ/2004, área total 2085 ha) e alterador 5 (Portaria 158/2007, renovação por 12 anos com efeitos a 16 de Julho de 2006 e área total 1839 ha): anexações e renovação sem redacção dirigida ao texto do original; não se infere nova redacção dos n.os 1.º e 2.º (o reparo do verificador confirma que não há texto substitutivo).",
   "instrucoes": [
-    "Portaria 735/95: nova redação do n.º 1.º (unidade 6) - aplicada, depois substituída pela redação da Portaria 759/97; planta só em imagem",
-    "Portaria 759/97, 1.º: nova redação do n.º 1.º (unidade 6) - substituída",
-    "Portaria 759/97: aditado n.º 1.º-A - inserido após a unidade 6",
-    "Portarias 153/99, 1033-CQ/2004 e 158/2007: anexações e renovação sem alteração textual - não aplicadas"
+    "Alterador 1 (Portaria 735/95): nova redacção do n.º 1.º (1796,9750 ha) - substituída depois pelo alterador 2.",
+    "Alterador 2 (Portaria 759/97), 1.º: nova redacção do n.º 1.º (1624,2750 ha) - unidade 6 substituída; aditado o n.º 1.º-A, inserido depois da unidade 6.",
+    "Alterador 3 (Portaria 153/99): anexação, área total 1900,2202 ha - sem redacção, em nao_aplicavel.",
+    "Alterador 4 (Portaria 1033-CQ/2004): anexação, área total 2085 ha - sem redacção, em nao_aplicavel.",
+    "Alterador 5 (Portaria 158/2007): renovação por 12 anos e anexação, área total 1839 ha - sem redacção, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

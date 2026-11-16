@@ -44,6 +44,12 @@
       "alterador": 1
     },
     {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "Os indivíduos de menores recursos financeiros poderão ter o desconto de 50% nos actos a que correspondem os emolumentos designados nos n.os 4.º, 6.º, 45.º, 49.º, 55.º, 56.º, 63.º 84.º e 89.º quando não estejam em condições de lhes ser aplicada a alínea a) do artigo 15.º",
+      "alterador": 3
+    },
+    {
       "chave": "22.º",
       "epigrafe": "",
       "texto": "(Revogado.)",
@@ -56,12 +62,6 @@
       "alterador": 2
     },
     {
-      "chave": "19.º",
-      "epigrafe": "",
-      "texto": "Os indivíduos de menores recursos financeiros poderão ter o desconto de 50% nos actos a que correspondem os emolumentos designados nos n.os 4.º, 6.º, 45.º, 49.º, 55.º, 56.º, 63.º 84.º e 89.º quando não estejam em condições de lhes ser aplicada a alínea a) do artigo 15.º",
-      "alterador": 3
-    },
-    {
       "chave": "24.º",
       "epigrafe": "",
       "texto": "A metade dos emolumentos provenientes da aplicação desta tabela cobrada nos consulados não de carreira e nos vice-consulados pertencerá ao cônsul, vice-cônsul ou encarregado da gerência no respectivo posto, que a embolsarão directamente.",
@@ -69,17 +69,37 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "O artigo 1.º e o artigo 3.º da tabela de emolumentos consulares não existem no texto atual: as chaves 1.º, 2.º e 3.º são os artigos do decreto-lei que aprova a tabela (a tabela começa no 4.º), pelo que o alvo é ambíguo. Por isso não se aplicaram: os n.os 1.º e 2.º do artigo 1.º e o artigo 3.º da tabela (alterador 1); a nova redação do artigo 1.º da tabela (alterador 3); os n.os 28.º e 29.º do artigo 1.º (alterador 4); os n.os 4.º e 7.º do artigo 1.º (alterador 5).",
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO I",
+      "novo": "#### SECÇÃO I — Protecção consular",
+      "alterador": 3
+    },
+    {
+      "atual": "#### SECÇÃO VI — Actos diversos",
+      "novo": "#### SECÇÃO VI — Percentagens",
+      "alterador": 3
+    },
+    {
+      "atual": "#### SECÇÃO VII — Percentagens",
+      "novo": "#### SECÇÃO VII — Actos diversos",
+      "alterador": 3
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Artigos 1.º e 3.º da tabela de emolumentos consulares: no texto atual as chaves 1.º, 2.º e 3.º são os artigos do decreto-lei que aprova a tabela (aprovação, início de vigência e revogação da tabela de 1931), não os artigos 1.º a 3.º da tabela; o artigo 1.º da tabela (os números das secções I a VII) só aparece como títulos de secção sem corpo, e os artigos 2.º e 3.º da tabela não constam do texto atual. Por isso não se aplicam, por falta de alvo no texto atual: (a) a nova redacção dos n.os 1.º e 2.º do artigo 1.º e do artigo 3.º da tabela pelo artigo 1.º do DL 633/70 (alterador 1); (b) a nova redacção dos números do artigo 1.º da tabela (n.os 1.º a 89.º) pelo artigo 1.º do DL 157/87 (alterador 3), de que só se aplicaram as epígrafes das secções I, VI e VII; (c) a nova redacção dos n.os 28.º e 29.º do artigo 1.º pelo DL 339/87 (alterador 4); (d) a nova redacção dos n.os 4.º e 7.º do artigo 1.º pelo DL 84/89 (alterador 5). Aplicá-las às chaves 1.º e 3.º do texto atual substituiria artigos do decreto que nenhuma instrução altera. A revogação dos artigos 3.º, 4.º e 5.º do Decreto-Lei n.º 47010 (art. 2.º do DL 633/70) é de outro diploma e não se aplica.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: n.os 1.º e 2.º do artigo 1.º e artigo 3.º da tabela - não aplicados (artigos da tabela ausentes do texto atual; chaves 1.º/3.º são do decreto).",
-    "Alterador 1, art. 1.º: nova redação dos artigos 7.º a 13.º da tabela - aplicada.",
-    "Alterador 1, art. 2.º: revoga o artigo 22.º da tabela - 22.º fica (Revogado.); a revogação dos artigos 3.º a 5.º do Decreto-Lei n.º 47010 é de outro diploma - ignorada.",
-    "Alterador 2, art. 1.º: nova redação do artigo 23.º da tabela - aplicada; arts. 2.º e 3.º não alteram o texto.",
-    "Alterador 3, art. 1.º: nova redação dos artigos 19.º e 24.º - aplicada; nova redação do artigo 1.º da tabela - não aplicada (artigo ausente do texto atual).",
-    "Alterador 4, art. 1.º: nova redação dos n.os 28.º e 29.º do artigo 1.º da tabela - não aplicada (artigo ausente do texto atual).",
-    "Alterador 5, art. 1.º: nova redação dos n.os 4.º e 7.º do artigo 1.º da tabela - não aplicada (artigo ausente do texto atual)."
+    "Reparo 1 (art. 3.º não aplicado): confirmado que o DL 633/70 dá nova redacção ao art. 3.º da tabela, mas a chave 3.º do texto atual é o art. 3.º do decreto-lei (revogação da tabela de 1931), não o da tabela, que não consta do texto atual: em nao_aplicavel.",
+    "Reparo 2 (art. 1.º e secções I-VII): a chave 1.º do texto atual é o artigo de aprovação do decreto-lei; o art. 1.º da tabela só existe como títulos de secção sem corpo: os números novos (DL 633/70, DL 157/87, DL 339/87, DL 84/89) vão em nao_aplicavel; aplicadas apenas as epígrafes de secção que o DL 157/87 muda (I — Protecção consular; VI — Percentagens; VII — Actos diversos).",
+    "DL 633/70 art. 1.º: nova redacção dos arts. 7.º, 8.º, 9.º, 10.º, 11.º, 12.º e 13.º da tabela: aplicada.",
+    "DL 633/70 art. 2.º: revoga o art. 22.º da tabela: aplicado (Revogado.); a revogação dos arts. 3.º a 5.º do DL 47010 é de outro diploma: ignorada.",
+    "Lei 4/82 art. 1.º: nova redacção do art. 23.º da tabela (n.os 1 a 6): aplicada; arts. 2.º e 3.º da lei são disposições autónomas.",
+    "DL 157/87 art. 1.º: nova redacção dos arts. 19.º e 24.º da tabela: aplicada; art. 1.º da tabela: só as epígrafes das secções (resto em nao_aplicavel).",
+    "DL 339/87 art. 1.º: n.os 28.º e 29.º do art. 1.º da tabela: nao_aplicavel (sem corpo no texto atual).",
+    "DL 84/89 art. 1.º: n.os 4.º e 7.º do art. 1.º da tabela: nao_aplicavel (sem corpo no texto atual)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

@@ -3,7 +3,8 @@ id: pt:dre:520432:por
 title: Decreto-Lei n.º 78/2007
 original: data/portugal/decretos-leis/2007/decreto-lei-78-2007.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:263689:por
@@ -197,9 +198,15 @@ O pessoal necessário à prossecução das atribuições previstas no artigo 2.�
 
 ###### Artigo 11.º — Consultores
 
-(Revogado.)
+1 - Na DGAI podem desempenhar funções, em regime de comissão de serviço pelo período de um a três anos, renovável, consultores nomeados pelo membro do Governo responsável pela área da Administração Interna sob proposta do director-geral, de entre doutores ou mestres, ou outras personalidades de reconhecido mérito, nas áreas de atribuição do MAI.
 
-> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 161-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), publicado em 2013-12-02.
+2 - Os consultores exercem funções em regime de isenção de horário de trabalho.
+
+3 - O exercício de funções nos termos dos números anteriores é contado, para todos os efeitos legais, designadamente para a progressão nas respectivas carreiras, como prestado nos lugares de origem.
+
+4 - Os consultores são remunerados pelo índice 820 da escala salarial do regime geral.
+
+5 - A dotação de consultores é aprovada por portaria dos membros do Governo responsáveis pelas áreas da Administração Interna, das Finanças e da Administração Pública.
 
 ###### Artigo 12.º — Sucessão
 

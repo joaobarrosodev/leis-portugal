@@ -3,7 +3,8 @@ id: pt:dre:517385:por
 title: Decreto Regulamentar Regional n.º 6/97/M
 original: data/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-6-97-m.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:515272:por
@@ -167,13 +168,7 @@ d) Gabinete de Assuntos Comunitários e Relações Internacionais.
 
 ##### SUBSECÇÃO IV
 
-###### Artigo 11.º
-
-SUBSECÇÃO IV
-
-Artigo 11.º
-
-Órgãos de apoio logístico
+###### Artigo 11.º — Órgãos de apoio logístico
 
 Os órgãos de apoio logístico são os seguintes:
 
@@ -182,6 +177,8 @@ a) Departamento dos Serviços Administrativos;
 b) Departamento de Aquisições e Manutenção.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
 
 ### CAPÍTULO III — Pessoal
 

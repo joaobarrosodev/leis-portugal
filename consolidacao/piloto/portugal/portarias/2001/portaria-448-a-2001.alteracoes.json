@@ -39,7 +39,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::4.º",
@@ -53,7 +53,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::5.º",
@@ -67,7 +67,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::6.º",
@@ -81,7 +81,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::7.º",
@@ -95,7 +95,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::8.º",
@@ -109,7 +109,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::9.º",
@@ -123,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::10.º",
@@ -137,21 +137,35 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
-    "artigo": "ANEXO::14.º",
+    "artigo": "ANEXO::11.º",
     "operacao": "substituir",
     "regra": "llm",
-    "antes": "###### Artigo 14.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.\n\n2 - As candidaturas são decididas no prazo máximo de 60 dias ou 90 dias a contar da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos.\n\n3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento e as que não tenham cobertura orçamental assegurada.\n\n4 - Os projectos que reúnam as condições de aprovação são hierarquizados, tendo em conta os critérios e pontuações definidos no anexo V.\n\n5 - A lista das freguesias com alta susceptibilidade à desertificação é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.",
-    "depois": "###### Artigo 14.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação e de subdelegação dessa competência, nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.\n\n2 - As candidaturas são decididas no prazo máximo de 60 ou de 90 dias a contar da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos.\n\n3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento e as que não tenham cobertura orçamental assegurada.\n\n4 - Os projectos que reúnam as condições de aprovação são hierarquizados tendo em conta os critérios e pontuações definidos no anexo V.\n\n5 - A lista das freguesias com alta susceptibilidade à desertificação é objecto de despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "antes": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação junto do IFADAP do formulário próprio.\n\n2 - Os projectos de investimento que incidam em área igual ou inferior a 10 ha podem revestir a forma de projecto simplificado de investimento.",
+    "depois": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação junto do IFADAP do formulário próprio.\n\n2 - Os projectos de investimento que incidam em área igual ou inferior a 20 ha podem revestir a forma de projecto simplificado de investimento.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO::14.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 14.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessa competência nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril.\n\n2 - As candidaturas são decididas no prazo máximo de 60 dias ou 90 dias a contar da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos.\n\n3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento e as que não tenham cobertura orçamental assegurada.\n\n4 - Os projectos que reúnam as condições de aprovação são hierarquizados, tendo em conta os critérios e pontuações definidos no anexo V.\n\n5 - A lista das freguesias com alta susceptibilidade à desertificação é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.",
+    "depois": "###### Artigo 14.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas, sem prejuízo da faculdade de delegação e de subdelegação dessa competência, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - As candidaturas são decididas no prazo máximo de 60 ou de 90 dias a contar da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos.\n\n3 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento e as que não tenham cobertura orçamental assegurada.\n\n4 - Os projectos que reúnam as condições de aprovação são hierarquizados tendo em conta os critérios e pontuações definidos no anexo V.\n\n5 - A lista das freguesias com alta susceptibilidade à desertificação é objecto de despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::16.º",
@@ -165,49 +179,49 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
-  },
-  {
-    "artigo": "ANEXO::11.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação junto do IFADAP do formulário próprio.\n\n2 - Os projectos de investimento que incidam em área igual ou inferior a 10 ha podem revestir a forma de projecto simplificado de investimento.",
-    "depois": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação junto do IFADAP do formulário próprio.\n\n2 - Os projectos de investimento que incidam em área igual ou inferior a 20 ha podem revestir a forma de projecto simplificado de investimento.\n\n> Alterado pelo/a [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744), publicado em 2003-11-18.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
-  },
-  {
-    "artigo": "ANEXO::19.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 19.º — Avaliação da execução do projecto\n\n1 - Compete ao IFADAP efectuar a avaliação técnica e qualitativa da execução dos projectos de investimento contratados, com emissão dos respectivos auto de fecho de projecto e auto de avaliação do projecto.\n\n2 - A cartografia digital é objecto de validação no âmbito do auto de fecho.",
-    "depois": "###### Artigo 19.º — Avaliação da execução do projecto\n\n1 - Compete ao IFADAP efectuar a avaliação técnica e qualitativa da execução dos projectos de investimento contratados, com emissão dos respectivos auto de fecho do projecto e auto de avaliação do projecto.\n\n2 - A cartografia digital, quando exista, é objecto de validação no âmbito do auto de fecho.\n\n> Alterado pelo/a [Portaria n.º 1291/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1291-2003-445744), publicado em 2003-11-18.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::17.º",
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 17.º — Execução do projecto\n\n1 - A execução material do projecto deve iniciar-se no prazo máximo de seis meses a contar da data de celebração do contrato de atribuição da ajuda e estar concluído no prazo estabelecido naquele.\n\n2 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no número anterior.",
-    "depois": "###### Artigo 17.º — Execução do projecto\n\n1 - A execução material do projecto deve iniciar-se no prazo máximo de seis meses a contar da data de celebração do contrato de atribuição da ajuda e estar concluída no prazo estabelecido naquele.\n\n2 - O início da execução do projecto deve ser comunicado ao IFADAP, através do envio do termo de abertura do livro de obra, com uma antecedência mínima de 15 dias.\n\n3 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no n.º 1.\n\n> Alterado pelo/a [Portaria n.º 590/2004](https://diariodarepublica.pt/dr/detalhe/portaria/590-2004-261879), publicado em 2004-06-02.",
+    "depois": "###### Artigo 17.º — Execução do projecto\n\n1 - A execução material do projecto deve iniciar-se no prazo máximo de seis meses a contar da data de celebração do contrato de atribuição da ajuda e estar concluída no prazo estabelecido naquele.\n\n2 - O início da execução do projecto deve ser comunicado ao IFADAP, através do envio do termo de abertura do livro de obra, com uma antecedência mínima de 15 dias.\n\n3 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no n.º 1.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO::19.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 19.º — Avaliação da execução do projecto\n\n1 - Compete ao IFADAP efectuar a avaliação técnica e qualitativa da execução dos projectos de investimento contratados, com emissão dos respectivos auto de fecho de projecto e auto de avaliação do projecto.\n\n2 - A cartografia digital é objecto de validação no âmbito do auto de fecho.",
+    "depois": "###### Artigo 19.º — Avaliação da execução do projecto\n\n1 - Compete ao IFADAP efectuar a avaliação técnica e qualitativa da execução dos projectos de investimento contratados, com emissão dos respectivos auto de fecho do projecto e auto de avaliação do projecto.\n\n2 - A cartografia digital, quando exista, é objecto de validação no âmbito do auto de fecho.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO::20.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 20.º — Norma transitória\n\n1 - (Actual corpo do artigo.)\n\n2 - São elegíveis no âmbito deste regulamento os pagamentos das ajudas à manutenção de superfícies florestais instaladas ao abrigo de projectos subsidiados e contratados nos termos do anterior quadro comunitário de apoio.\n\n> Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.",
+    "depois": "###### Artigo 20.º — Norma transitória\n\n1 - O disposto neste Regulamento aplica-se às candidaturas apresentadas ao abrigo da Portaria n.º 533-D/2000, de 1 de Agosto, mas ainda não decididas.\n\n2 - São elegíveis no âmbito deste Regulamento os pagamentos das ajudas à manutenção de superfícies florestais instaladas ao abrigo de projectos subsidiados e contratados nos termos do anterior quadro comunitário de apoio.\n\n> Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
     "artigo": "ANEXO::18.º",
@@ -221,20 +235,132 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   },
   {
-    "artigo": "ANEXO::20.º",
+    "artigo": "ANEXO",
     "operacao": "substituir",
     "regra": "llm",
-    "antes": "###### Artigo 20.º — Norma transitória\n\n1 - (Actual corpo do artigo.)\n\n2 - São elegíveis no âmbito deste regulamento os pagamentos das ajudas à manutenção de superfícies florestais instaladas ao abrigo de projectos subsidiados e contratados nos termos do anterior quadro comunitário de apoio.\n\n> Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.",
-    "depois": "###### Artigo 20.º — Norma transitória\n\n1 - O disposto neste Regulamento aplica-se às candidaturas apresentadas ao abrigo da Portaria n.º 533-D/2000, de 1 de Agosto, mas ainda não decididas.\n\n2 - São elegíveis no âmbito deste Regulamento os pagamentos das ajudas à manutenção de superfícies florestais instaladas ao abrigo de projectos subsidiados e contratados nos termos do anterior quadro comunitário de apoio.\n\n> Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.\n\n> Alterado pelo/a [Portaria n.º 388/2002](https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385), publicado em 2002-04-11.",
+    "antes": "## ANEXO\nREGULAMENTO DE APLICAÇÃO DAS ACÇÕES N.OS 3.1 E 3.2, «APOIO À SILVICULTURA» E «RESTABELECIMENTO DO POTENCIAL DE PRODUÇÃO SILVÍCOLA».",
+    "depois": "## ANEXO\n\nREGULAMENTO DE APLICAÇÃO DAS ACÇÕES N.os 3.1 E 3.2, «APOIO À SILVICULTURA» E «RESTABELECIMENTO DO POTENCIAL DE PRODUÇÃO SILVÍCOLA».\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:531186:por",
-    "alterador": "pt:dre:631650:por;pt:dre:445744:por;pt:dre:261879:por;pt:dre:592170:por;pt:dre:303385:por"
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO I — [a que se refere a alínea b) do artigo 3.º]",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — [a que se refere a alínea b) do artigo 3.º]\nDensidades mínimas dos povoamentos\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)",
+    "depois": "## ANEXO I — [a que se refere a alínea b) do artigo 3.º]\n\nDensidades mínimas dos povoamentos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO II — (a que se refere o n.º 2 do artigo 4.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)\nEspécies elegíveis\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)\n\n1 - Em projectos com menos de 5 ha são elegíveis todas as espécies adaptadas ecologicamente à estação respectiva.\n\n2 - A utilização de outras espécies em projectos com mais de 5 ha é elegível, desde que adaptadas ecologicamente à estação e não ultrapassem 25% da área do projecto.\n\n3 - Para efeitos dos números anteriores só podem, todavia, ser utilizadas espécies indígenas de Portugal continental e ainda espécies naturalizadas, constantes do anexo I ao [Decreto-Lei n.º 565/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/565-1999-661769), de 19 de Dezembro (excluindo as classificadas como invasoras), e as classificadas como de interesse para a arborização, listadas no anexo II do mesmo decreto-lei.",
+    "depois": "## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)\n\nEspécies elegíveis\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)\n\n(**) Para os beneficiários não agricultores, apenas quando exploradas em rotações superiores a 20 anos, nos termos previstos no presente Regulamento.\n\n1 - Em projectos com menos de 5 ha são elegíveis todas as espécies adaptadas ecologicamente à estação respectiva.\n\n2 - A utilização de outras espécies em projectos com mais de 5 ha é elegível desde que adaptadas ecologicamente à estação e não ultrapasse 25% da área do projecto.\n\n3 - Para efeitos dos números anteriores, só podem, todavia, ser utilizadas espécies indígenas de Portugal continental e ainda espécies naturalizadas, constantes do anexo I do Decreto-Lei n.º 565/99, de 19 de Dezembro (excluindo as classificadas como invasoras), e as classificadas como de interesse para a arborização, listadas no anexo II do mesmo decreto-lei.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO III — (a que se refere o n.º 2 do artigo 7.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO III — (a que se refere o n.º 2 do artigo 7.º)\nEspécies de crescimento rápido/áreas máximas contínuas\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)",
+    "depois": "## ANEXO III — (a que se refere o n.º 2 do artigo 7.º)\n\nEspécies de crescimento rápido/áreas máximas contínuas\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO IV — (a que se refere o n.º 1 do artigo 8.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO IV — (a que se refere o n.º 1 do artigo 8.º)\nDespesas elegíveis\n\n1 - Arborização e rearborização - são elegíveis as despesas com as seguintes operações:\n\na) Instalação de povoamentos florestais, através de sementeira, plantação ou aproveitamento da regeneração natural;\n\nb) Protecção dos povoamentos contra a acção do gado e ou da fauna selvagem, quando se torne necessário conciliar as duas actividades, através da instalação de protecções individuais ou vedações;\n\nc) Instalação de culturas de cobertura do solo;\n\nd) Operações associadas à instalação do povoamento com espécies de rotações/revoluções superiores a 20 anos, concretizadas no período máximo de 5 anos a contar da instalação do povoamento que visem a consolidação daquela instalação.\n\n2 - Beneficiação - são elegíveis as despesas relativas às operações a seguir indicadas:\n\na) Adensamento;\n\nb) Melhoria e consolidação dos povoamentos e intervenções silvícolas associadas à sua concretização;\n\nc) Substituição parcial ou total de povoamentos ecologicamente mal adaptados ou cuja produção se encontre significativamente abaixo do seu potencial produtivo, ou seja, com produtividades inferiores a 50% da produção estimada para a estação, incluindo a rearborização com outras ou com a mesma espécie;\n\nd) Operações de controlo da erosão, nomeadamente pela recuperação de galerias ripícolas, fixação de vertentes e correcção torrencial, incluindo, entre outras, construção e beneficiação de infra-estruturas de suporte de terras, de correcção torrencial e outras intervenções silvícolas específicas;\n\ne) Operações de reabilitação de ecossistemas florestais degradados e conservação de habitats florestais, sempre que estes representem um elemento importante na preservação da biodiversidade e do património social e paisagístico, com particular aplicação aos habitats da Rede Natura 2000 e das zonas com alta susceptibilidade à desertificação (trabalhos de restauração ou conservação de habitats e reconstituição de ecossistemas florestais);\n\nf) No que se refere às operações de substituição, previstas na alínea c), reportadas a espécies com rotações inferiores a 20 anos, apenas são elegíveis os seguintes investimentos:\n\ni) Investimentos de reconversão de povoamentos degradados dessas espécies que tenham uma área mínima de 40 ha e se encontrem ecologicamente mal adaptadas em povoamentos com outras espécies;\n\nii) Investimentos complementares de beneficiação de povoamentos de espécies de crescimento rápido situados nas zonas A e B definidas no anexo da [Portaria n.º 528/89](https://diariodarepublica.pt/dr/detalhe/portaria/528-1989-619560), de 11 de Julho, e com produtividades inferiores a 50% da produção estimada para a estação;\n\niii) Os investimentos complementares de beneficiação acima referidos apenas são elegíveis desde que estejam associados aos investimentos de reconversão previstos na alínea i) e desde que a área do investimento de beneficiação seja inferior à área total para reconversão com outras espécies.\n\n3 - Infra-estruturas - são elegíveis as despesas relativas às operações a seguir indicadas:\n\na) Construção e beneficiação da rede viária e divisional própria ou integrando redes existentes dentro e fora da área de intervenção florestal da exploração;\n\nb) Construção e beneficiação de pontos de água.\n\n4 - Actividades de uso múltiplo em superfícies florestais - são elegíveis, com as limitações a seguir indicadas, as despesas com as seguintes operações:\n\na) Actividade cinegética:\n\ni) Protecção individual de árvores para caça maior;\n\nii) Instalação de campos de alimentação ou de clareiras;\n\niii) Instalação de espécies arbóreas ou arbustivas produtoras de fruto;\n\niv) Aquisição e instalação de bebedouros;\n\nv) Aquisição e instalação de comedouros;\n\nvi) Limpeza de pontos de água naturais e acessíveis para a fauna;\n\nvii) Construção, aquisição e colocação de moroços;\n\nviii) Instalação e manutenção de sebes;\n\nix) Desmatações;\n\nx) Aquisição de espécimes de caça menor para efeitos de repovoamento;\n\nxi) Parques de adaptação para caça menor;\n\nxii) Abertura de charcas e construção/reabilitação de açudes.\n\nAs despesas identificadas nas subalíneas ix) e xii) não poderão ultrapassar o limite de 20% do custo total elegível da acção de uso múltiplo;\n\nb) Silvo-pastorícia:\n\ni) Instalação de pastagens em regime silvo-pastoril;\n\nii) Aquisição e instalação de bebedouros;\n\niii) Aquisição e instalação de cercas;\n\nc) Produção de cogumelos - aquisição e instalação de plantas micorrizadas para produção de cogumelos;\n\nd) Pesca desportiva:\n\ni) Aquisição de exemplares para repovoamento de albufeiras;\n\nii) Beneficiação de margens (instalação de espécies ripícolas e limpezas e consolidação de margens);\n\niii) Construção de plataformas;\n\ne) Apicultura - instalação de espécies arbóreas e arbustivas de interesse apícola;\n\nf) Utilização pública:\n\ni) Instalação de parques ecológicos e de merendas;\n\nii) Circuitos de manutenção.\n\n5 - Para todos os investimentos são elegíveis as seguintes despesas:\n\na) Com a aquisição ou elaboração da cartografia digital da área intervencionada, após execução do projecto;\n\nb) Elaboração e acompanhamento da execução do projecto, até ao limite de 12% do montante total de investimento elegível;\n\nc) Despesas com a constituição de garantias, quando exigidas no quadro da análise de risco, até ao limite de 2% do montante total das despesas elegíveis.",
+    "depois": "## ANEXO IV — (a que se refere o n.º 1 do artigo 8.º)\n\nDespesas elegíveis\n\n1 - Arborização e rearborização - são elegíveis as despesas com as seguintes operações:\n\na) Instalação de povoamentos florestais, através de sementeira, plantação ou aproveitamento da regeneração natural;\n\nb) Protecção dos povoamentos contra a acção do gado e ou da fauna selvagem, quando se torne necessário conciliar as duas actividades, através da instalação de protecções individuais ou vedações;\n\nc) Instalação de culturas de cobertura do solo;\n\nd) Operações associadas à instalação do povoamento com espécies de rotações/revoluções superiores a 20 anos, concretizadas no período máximo de 5 anos a contar da instalação do povoamento, que visem a consolidação daquela instalação.\n\n2 - Beneficiação - são elegíveis as despesas relativas às operações a seguir indicadas:\n\na) Adensamento;\n\nb) Melhoria e consolidação dos povoamentos e intervenções silvícolas associados à sua concretização;\n\nc) Substituição parcial ou total de povoamentos ecologicamente mal adaptados ou cuja produção se encontre significativamente abaixo do seu potencial produtivo, ou seja, com produtividades inferiores a 50% da produção estimada para a estação, incluindo a rearborização com outras ou com a mesma espécie;\n\nd) Operações de controlo da erosão, nomeadamente pela recuperação de galerias ripícolas, fixação de vertentes e correcção torrencial, incluindo, entre outras, construção e beneficiação de infra-estruturas de suporte de terras, de correcção torrencial e outras intervenções silvícolas específicas;\n\ne) Operações de reabilitação de ecossistemas florestais degradados e conservação de habitats florestais, sempre que estes representem um elemento importante na preservação da biodiversidade e do património social e paisagístico, com particular aplicação aos habitats da Rede Natura 2000 e das zonas com alta susceptibilidade à desertificação (trabalhos de restauração ou conservação de habitats e reconstituição de ecossistemas florestais);\n\nf) No que se refere às operações de substituição, previstas na alínea c), reportadas a espécies com rotações inferiores a 20 anos, apenas são elegíveis os seguintes investimentos:\n\ni) Investimentos de reconversão de povoamentos degradados dessas espécies que se encontrem ecologicamente mal adaptadas em povoamentos com outras espécies;\n\nii) Investimentos complementares de beneficiação de povoamentos de espécies de crescimento rápido situados nas zonas A e B definidas no anexo da Portaria n.º 528/89, de 11 de Julho, e com produtividades inferiores a 50% da produção estimada para a estação;\n\niii) Os investimentos complementares de beneficiação acima referidos apenas são elegíveis desde que estejam associados aos investimentos de reconversão previstos na alínea i) e desde que a área do investimento de beneficiação seja inferior à área total para reconversão com outras espécies.\n\n3 - Infra-estruturas - são elegíveis as despesas relativas às operações a seguir indicadas:\n\na) Construção e beneficiação de rede viária e divisional, própria ou integrando redes existentes dentro e fora da área de intervenção florestal da exploração;\n\nb) Construção e beneficiação de pontos de água.\n\n4 - Actividades de uso múltiplo em superfícies florestais - são elegíveis, com as limitações a seguir indicadas, as despesas com as seguintes operações:\n\na) Actividade cinegética:\n\ni) Protecção individual de árvores para caça maior;\n\nii) Instalação de campos de alimentação ou de clareiras;\n\niii) Instalação de espécies arbóreas ou arbustivas produtoras de fruto;\n\niv) Aquisição e instalação de bebedouros;\n\nv) Aquisição e instalação de comedouros;\n\nvi) Limpeza de pontos de água naturais e acessíveis para a fauna;\n\nvii) Construção, aquisição e colocação de morouços;\n\nviii) Instalação e manutenção de sebes;\n\nix) Desmatações;\n\nx) Aquisição de espécimes de caça menor para efeitos de repovoamento;\n\nxi) Parques de adaptação para caça menor;\n\nxii) Abertura de charcas e construção/reabilitação de açudes.\n\nAs despesas identificadas nas subalíneas ix) e xii) não poderão ultrapassar o limite de 20% do custo total elegível da acção de uso múltiplo;\n\nb) Silvipastorícia:\n\ni) Instalação de pastagens em regime silvipastoril;\n\nii) Aquisição e instalação de bebedouros;\n\niii) Aquisição e instalação de cercas;\n\nc) Produção de cogumelos:\n\ni) Aquisição e instalação de plantas micorrizadas para produção de cogumelos;\n\nii) Aquisição e aplicação de inóculo de cogumelos comestíveis;\n\nd) Pesca desportiva:\n\ni) Aquisição de exemplares para repovoamento de albufeiras;\n\nii) Beneficiação de margens (instalação de espécies ripícolas e limpezas e consolidação de margens);\n\niii) Construção de plataformas;\n\ne) Apicultura - instalação de espécies arbóreas e arbustivas de interesse apícola;\n\nf) Utilização pública:\n\ni) Instalação de parques ecológicos e de merendas;\n\nii) Circuitos de manutenção.\n\n5 - Para todos os investimentos, são elegíveis as seguintes despesas:\n\na) Com a aquisição ou elaboração da cartografia digital da área intervencionada, após execução do projecto;\n\nb) Elaboração e acompanhamento da execução do projecto, até ao limite de 12% do montante total de investimento elegível;\n\nc) Despesas com a constituição de garantias, quando exigidas no quadro da análise de risco, até ao limite de 2% do montante total das despesas elegíveis.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO V — (a que se refere o n.º 4 do artigo 14.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO V — (a que se refere o n.º 4 do artigo 14.º)\nProjectos prioritários\n\nPara efeitos de hierarquização, os projectos são pontuados da seguinte forma:\n\n1 - Projectos relativos a áreas sujeitas ao regime florestal parcial: 25 pontos.\n\n2 - Projectos relativos às áreas agrupadas: 10 pontos.\n\nA esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:\n\na) Projectos que se enquadrem na alínea b) do n.º 2 do artigo 9.º (projectos apresentados, executados e com compromisso de gestão por parte das associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais contínuos): 3 pontos;\n\nb) Projectos que se enquadrem na alínea c) do n.º 2 do artigo 9.º (projectos apresentados, executados e com compromisso de gestão por parte das associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais não contínuos): 2 pontos;\n\nc) Projectos que se enquadrem na alínea d) do n.º 2 do artigo 9.º (projectos apresentados pelos titulares de áreas agrupadas, através de uma associação ou cooperativa, e executados por aqueles e projectos apresentados e executados pelos titulares de áreas agrupadas de espaços florestais contínuos): 1 ponto.\n\n3 - Projectos incidentes em freguesias com alta susceptibilidade à desertificação ou que se insiram em áreas das RNAP, das ZEC e das ZPE, com planos de ordenamento: 7 pontos.\n\nA esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:\n\na) Projectos incidentes em freguesias com alta susceptibilidade à desertificação: 1 ponto;\n\nb) Projectos incidentes em áreas da RNAP com planos de ordenamento aprovados ou projectos incidentes em ZEC ou ZPE com planos de ordenamento aprovados: 1 ponto.\n\nNota. - As pontuações apresentadas no n.º 3 são cumulativas.\n\n4 - Projectos relativos à reabilitação de ecossistemas florestais degradados, de diversificação das superfícies florestais, bem como os que incidam em áreas submetidas ao regime florestal, à RNAP, às ZEC e às ZPE e em áreas classificadas como extremamente e muito sensíveis ao perigo de incêndio, nos termos do [Decreto-Lei n.º 327/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1980-469788), de 26 de Agosto, e do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro: 1 ponto.\n\nA esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:\n\na) Projectos relativos à reabilitação de ecossistemas florestais degradados: 1 ponto;\n\nb) Projectos relativos à diversificação de superfícies florestais: 1 ponto;\n\nc) Projectos incidentes em áreas classificadas como extremamente e muito sensíveis ao fogo, nos termos do [Decreto-Lei n.º 327/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1980-469788), de 26 de Agosto, e do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro: 1 ponto;\n\nd) Projectos incidentes em áreas da RNAP sem planos de ordenamento aprovados ou projectos incidentes em ZEC ou ZPE sem planos de ordenamento aprovados: 1 ponto;\n\ne) Projectos incidentes em áreas submetidas ao regime florestal: 1 ponto.\n\nNota. - As pontuações apresentadas no n.º 4 são cumulativas.\n\n5 - Para efeitos da alínea b) do número anterior, consideram-se as seguintes acções de diversificação de superfícies florestais: instalação de elementos de descontinuidade (incluindo sebes, faixas com espécies mais resistentes ao fogo, corredores ecológicos, recuperação de galerias ripícolas), conservação de maciços arbóreos, arbustivos ou de exemplares notáveis, instalação de povoamentos mistos, instalação de espécies arbóreas e arbustivas de interesse apícola.\n\n6 - A pontuação final de cada projecto é o resultado da soma das pontuações obtidas nos termos dos n.os 1 a 4.\n\n7 - Consideram-se prioritários os projectos que reunirem maior número de pontos.",
+    "depois": "## ANEXO V — (a que se refere o n.º 4 do artigo 14.º)\n\nProjectos prioritários\n\nPara efeitos de hierarquização, os projectos são pontuados da seguinte forma:\n\n1 - Projectos relativos a áreas sujeitas ao regime florestal parcial e projectos em áreas integradas em ZIF - 25 pontos.\n\n2 - Projectos relativos às áreas agrupadas - 10 pontos.\n\nA esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:\n\na) Projectos que se enquadrem na alínea b) do n.º 2 do artigo 9.º (projectos apresentados, executados e com compromisso de gestão por parte das associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais contínuos) - 3 pontos;\n\nb) Projectos que se enquadrem na alínea c) do n.º 2 do artigo 9.º (projectos apresentados, executados e com compromisso de gestão por parte das associações ou cooperativas de produtores florestais relativos a áreas agrupadas de espaços florestais não contínuos) - 2 pontos;\n\nc) Projectos que se enquadrem na alínea d) do n.º 2 do artigo 9.º (projectos apresentados pelos titulares de áreas agrupadas, através de uma associação ou cooperativa, e executados por aqueles e projectos apresentados e executados pelos titulares de áreas agrupadas de espaços florestais contínuos) - 1 ponto;\n\n3 - Projectos incidentes em freguesias com alta susceptibilidade à desertificação, ou que se insiram em áreas da Rede Nacional de Áreas Protegidas (RNAP), zonas especiais de conservação (ZEC) e zonas de protecção especial (ZPE), com planos de ordenamento - 7 pontos.\n\nA esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:\n\na) Projectos incidentes em freguesias com alta susceptibilidade à desertificação - 1 ponto;\n\nb) Projectos incidentes em áreas da RNAP com planos de ordenamento aprovados ou projectos incidentes em ZEC ou ZPE com planos de ordenamento aprovados - 1 ponto.\n\nNota. - As pontuações apresentadas no n.º 3 são cumulativas.\n\n4 - Projectos relativos à reabilitação de ecossistemas florestais degradados, de diversificação das superfícies florestais, bem como os que incidam em áreas submetidas ao regime florestal, à RNAP, a ZEC e a ZPE e em áreas das classes IV e V, tal como se encontram definidas no [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho - 1 ponto.\n\nA esta pontuação base será somado um determinado número de pontos, de acordo com a tabela que se segue:\n\na) Projectos relativos à reabilitação de ecossistemas florestais degradados - 1 ponto;\n\nb) Projectos relativos à diversificação de superfícies florestais - 1 ponto;\n\nc) Projectos incidentes em áreas das classes IV e V, tal como se encontram definidas no [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho - 1 ponto;\n\nd) Projectos incidentes em áreas da RNAP sem planos de ordenamento aprovados ou projectos incidentes em ZEC ou ZPE sem planos de ordenamento aprovados - 1 ponto;\n\ne) Projectos incidentes em áreas submetidas ao regime florestal - 1 ponto.\n\nNota. - As pontuações apresentadas no n.º 4 são cumulativas.\n\n5 - Para efeitos da alínea b) do número anterior, consideram-se as seguintes acções de diversificação de superfícies florestais:\n\nInstalação de elementos de descontinuidade (incluindo sebes, faixas com espécies mais resistentes ao fogo, corredores ecológicos e recuperação de galerias ripícolas);\n\nConservação de maciços arbóreos, arbustivos ou de exemplares notáveis;\n\nInstalação de povoamentos mistos;\n\nInstalação de espécies arbóreas e arbustivas de interesse apícola.\n\n6 - A pontuação final de cada projecto é resultado da soma das pontuações obtidas nos termos dos n.os 1 a 4.\n\n7 - Consideram-se prioritários os projectos que reunirem maior número de pontos.\n\n> Alterado pelo/a [Portaria n.º 953/2006](https://diariodarepublica.pt/dr/detalhe/portaria/953-2006-540024), publicado em 2006-09-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO VI — [a que se refere a alínea b) do artigo 16.º]",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO VI — [a que se refere a alínea b) do artigo 16.º]\nDensidades mínimas de estabelecimento do povoamento\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2001/05/102b01/00020009.pdf)\n\nObservação. - A densidade mínima dos povoamentos mistos deve ser igual à densidade mínima definida para a espécie principal (folhosa), devendo esta representar, pelo menos, 50% do povoamento.\n\nEm povoamentos mistos em que a espécie principal seja o sobreiro ou a azinheira a densidade mínima deve ser de 600 árvores por hectare, devendo aquelas espécies representar, pelo menos, 50% do povoamento.",
+    "depois": "## ANEXO VI — [a que se refere a alínea b) do artigo 16.º]\n\nDensidades mínimas de estabelecimento do povoamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/05/094b00/33843394.pdf)\n\nObservações\n\nA densidade mínima dos povoamentos mistos deve ser igual à densidade mínima definida para a espécie principal, devendo esta representar, pelo menos, 50% do povoamento.\n\nEm povoamentos mistos em que a espécie principal seja o sobreiro ou a azinheira, a densidade mínima deve ser de 600 árvores por hectare, devendo àquelas espécies corresponder, no mínimo, 300 árvores por hectare.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO VII — [a que se refere a alínea c) do artigo 16.º]",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO VII — [a que se refere a alínea c) do artigo 16.º]\nBoas práticas florestais\n\nDurante, pelo menos, a vigência do plano de gestão devem ser cumpridas as seguintes exigências mínimas ambientais:\n\n1) Utilização de espécies e proveniências adaptadas à estação;\n\n2) Utilização de plantas e ou sementes certificadas na instalação dos povoamentos para as espécies constantes do [Decreto-Lei n.º 239/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1992-217697), de 27 de Julho, e respectiva regulamentação;\n\n3) Aproveitamento da regeneração natural existente na exploração a florestar, enquadrando-a nos objectivos do projecto sempre que se apresente em bom estado vegetativo;\n\n4) Criação de faixas ou manchas de descontinuidade, preferencialmente ao longo das redes viária e divisional, das linhas de água e de cumeada e dos vales, utilizando, nomeadamente, espécies arbóreas ou arbustivas com baixa inflamabilidade e combustibilidade, comunidades herbáceas ou, ainda, mantendo a vegetação natural. Em arborizações monoespecíficas de resinosas ou folhosas de elevada combustibilidade, de superfície superior a 20 ha, as zonas de descontinuidade deverão representar pelo menos 15% da superfície total. Esta exigência não se aplica aos povoamentos constituídos por quercíneas autóctones;\n\n5) Nas faixas de protecção às linhas de água, que deverão ter uma largura mínima de 5 m, efectuar, quando necessário, unicamente mobilizações de solo localizadas;\n\n6) Conservação de maciços arbóreos, arbustivos e ou de exemplares notáveis de espécies autóctones, principalmente os constantes da alínea c) do artigo 10.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, e os classificados ao abrigo do [Decreto-Lei n.º 28468](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28468-1938-230365), de 15 de Fevereiro de 1938, e legislação complementar;\n\n7) Conservação dos habitats classificados segundo a Directiva Habitats, florestais ou não;\n\n8) As mobilizações do solo não localizadas devem ser executadas segundo as curvas de nível; no entanto, poderá a operação de ripagem não obedecer a essa regra, se seguida de uma operação final de vala e cômoro executada segundo as curvas de nível;\n\n9) Em silvicultura de menores espaçamentos - entrelinhas =<4 m - e declives superiores a 20%, instalar uma cultura de cobertura ou manter a vegetação espontânea por um período mínimo de dois anos, através de faixas, dispostas em curva de nível, de acordo com uma das seguintes opções:\n\nManter em todas as entrelinhas uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com a largura mínima de 0,5 m;\n\nManter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com a largura mínima de 4 m;\n\n10) Em silvicultura de maiores espaçamentos - entrelinhas >= 4 m - manter todas as entrelinhas por um período mínimo de dois anos, sem mobilização do solo ou, quando mobilizado, sem reviramento do solo, dispostas em curva de nível, com a largura mínima de 1 m, que preservem a vegetação espontânea ou em que se instale uma cultura de cobertura;\n\n11) Nas zonas de elevada susceptibilidade à desertificação aplicam-se as exigências 9 ou 10. Nestas zonas, para qualquer declive, deve existir especial cuidado na protecção do solo contra a erosão, nomeadamente evitando o reviramento do solo e a sua permanência sem cobertura;\n\n12) Utilizar apenas produtos fitofarmacêuticos (PFF) homologados pelo MADRP. É sempre obrigatória a conservação dos comprovativos de aquisição de PFF e de fertilizantes;\n\n13) Os PFF não se devem aplicar junto das linhas ou captações de água, devendo o seu manuseamento e armazenamento efectuar-se em local seco e impermeabilizado, a uma distância mínima de 10 m de linhas ou captações de água;\n\n14) Recolher os resíduos - embalagens (incluindo contentores de plantas, sacos plásticos, caixas diversas, etc.), restos de produtos, águas de lavagem de máquinas e óleos - dos locais de estação, de preparação dos produtos e das áreas de arborização, para locais devidamente apropriados. Não queimar plásticos e borracha na exploração;\n\n15) Não destruir locais de valor arqueológico, patrimonial ou cultural, bem como infra-estruturas tradicionais (muretes, poços, levadas, etc.) que contenham esses valores;\n\n16) Em parceria com as autoridades competentes - autarquias, direcções regionais do ambiente, Instituto dos Resíduos -, proceder à remoção dos depósitos de entulhos e outros resíduos.",
+    "depois": "## ANEXO VII — [a que se refere a alínea c) do artigo 16.º]\n\nBoas práticas florestais\n\nDurante, pelo menos, a vigência do plano de gestão, devem ser cumpridas as seguintes exigências mínimas ambientais:\n\n1) Utilização de espécies e proveniências adaptadas à estação;\n\n2) Na instalação de povoamentos deverão ser utilizadas plantas ou sementes certificadas no caso de espécies constantes do anexo I do decreto-lei relativo à comercialização de materiais florestais de reprodução (transpõe a Directiva n.º [1999/105/CE](http://data.europa.eu/eli/dir/1999/105/oj?locale=pt), do Conselho, de 22 de Dezembro). Para as espécies pinheiro-bravo, pinheiro-manso, sobreiro e eucalipto-glóbulo só devem ser utilizadas plantas ou sementes das categorias «seleccionada», «qualificada» ou «testada»;\n\n3) Aproveitamento da regeneração natural existente na exploração a florestar, enquadrando-a nos objectivos do projecto sempre que se apresente em bom estado vegetativo;\n\n4) Criação de faixas ou manchas de descontinuidade, preferencialmente ao longo das redes viária e divisional, das linhas de água e de cumeada e dos vales, utilizando, nomeadamente, espécies arbóreas ou arbustivas com baixa inflamabilidade e combustibilidade, comunidades herbáceas ou, ainda, mantendo a vegetação natural. Em arborizações monoespecíficas de resinosas ou folhosas de elevada combustibilidade, de superfície superior a 20 ha, as zonas de descontinuidade deverão representar, pelo menos, 15% da superfície total. Esta exigência não se aplica aos povoamentos constituídos por quercíneas autóctones;\n\n5) Nas faixas de protecção às linhas de água, que deverão ter uma largura mínima de 10 m, efectuar, quando necessário, unicamente mobilizações de solo localizadas;\n\n6) Conservação de maciços arbóreos, arbustivos e ou de exemplares notáveis de espécies autóctones, principalmente os constantes da alínea c) do artigo 10.º do Decreto Regulamentar n.º 55/81, de 18 de Dezembro, e os classificados ao abrigo do Decreto-Lei n.º 28468, de 15 de Fevereiro de 1938, e legislação complementar;\n\n7) Conservação dos habitats classificados segundo a directiva habitats, florestais ou não;\n\n8) As mobilizações do solo não localizadas devem ser executadas segundo as curvas de nível; no entanto, poderá a operação de ripagem não obedecer a essa regra se seguida de uma operação final de vala e cômoro executada segundo as curvas de nível;\n\n9) Em silvicultura de menores espaçamentos - entrelinhas (igual ou menor que) 4 m - e declives superiores a 20%, instalar uma cultura de cobertura ou manter a vegetação espontânea por um período mínimo de dois anos, através de faixas, dispostas em curva de nível, de acordo com uma das seguintes opções:\n\nManter em todas as entrelinhas uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com a largura mínima de 0,5 m;\n\nManter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com a largura mínima de 4 m;\n\n10) Em silvicultura de maiores espaçamentos - entrelinhas (igual ou maior que) 4 m -, manter todas as entrelinhas por um período mínimo de dois anos, sem mobilização do solo ou, quando mobilizado, sem reviramento do solo, dispostas em curva de nível, com a largura mínima de 1 m, que preservem a vegetação espontânea ou em que se instale uma cultura de cobertura;\n\n11) Nas zonas de elevada susceptibilidade à desertificação aplicam-se as exigências referidas nos n.os 9 ou 10). Nestas zonas, para qualquer declive, deve existir especial cuidado na protecção do solo contra a erosão, nomeadamente evitando o reviramento do solo e a sua permanência sem cobertura;\n\n12) Utilizar apenas produtos fitofarmacêuticos (PFF) homologados pelo Ministério da Agricultura, Desenvolvimento Rural e Pescas. É sempre obrigatória a conservação dos comprovativos de aquisição de PFF e de fertilizantes;\n\n13) Os PFF não devem ser aplicados junto das linhas ou captações de água, devendo o seu manuseamento e armazenamento efectuar-se em local seco e impermeabilizado, a uma distância mínima de 10 m de linhas ou captações de água;\n\n14) Recolher os resíduos - embalagens (incluindo contentores de plantas, sacos plásticos, caixas diversas, etc.), restos de produtos, águas de lavagem de máquinas e óleos - dos locais de estação, de preparação dos produtos e das áreas de arborização, para locais devidamente apropriados. Não queimar plásticos e borracha na exploração;\n\n15) Não destruir locais de valor arqueológico, patrimonial ou cultural, bem como infra-estruturas tradicionais (muretes, poços, levadas, etc.) que contenham esses valores;\n\n16) Em parceria com as autoridades competentes - autarquias, direcções regionais do ambiente, Instituto dos Resíduos -, proceder à remoção dos depósitos de entulhos e outros resíduos.\n\n> Alterado pelo/a [Portaria n.º 456/2006](https://diariodarepublica.pt/dr/detalhe/portaria/456-2006-631650), publicado em 2006-05-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
+  },
+  {
+    "artigo": "ANEXO VI — [a que se refere a alínea b) do artigo 16.º]",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO VI — [a que se refere a alínea b) do artigo 16.º]",
+    "depois": "## ANEXO VI — [a que se referem a alínea c) do n.º 1 do artigo 7.º e a alínea b) do artigo 16.º]",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:531186:por",
+    "alterador": "pt:dre:631650:por;pt:dre:592170:por;pt:dre:540024:por"
   }
 ]

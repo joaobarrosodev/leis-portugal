@@ -183,19 +183,38 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (n.º 1.º): prorrogação até 15 de Dezembro do prazo excepcional do n.º 1 do artigo 89.º, sem nova redação (não textual). Alterador 2: prorrogação, no corrente ano, do primeiro período de candidatura dos n.os 1 dos artigos 42.º e 63.º até final de Fevereiro, sem nova redação (não textual). Anexos I e IV (Alterador 3), anexo I (Alteradores 4 e 6) e anexo IV (Alterador 5): só vêm em imagem ('ver documento original'), não aplicados.",
+  "titulos": [
+    {
+      "atual": "## ANEXO IV — Agrupamento de Defesa Sanitária",
+      "novo": "## ANEXO IV — Agrupamentos de defesa sanitária",
+      "alterador": 3
+    }
+  ],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — (a que se referem o n.º 1 do artigo 29.º e o n.º 2 do artigo 30.º)",
+      "texto": "[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/03/071b00/13211325.pdf)",
+      "alterador": 6
+    },
+    {
+      "titulo": "## ANEXO IV — Agrupamento de Defesa Sanitária",
+      "texto": "[a que se refere a alínea b) do artigo 73.º]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/170b00/37823783.pdf)",
+      "alterador": 5
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (P. 1044/94, n.º 1.º) e alterador 2 (P. 54-A/95): prorrogações, só para o ano em curso, dos prazos de candidatura dos artigos 89.º, n.º 1, 42.º, n.º 1, e 63.º, n.º 1; não são alterações textuais e o texto desses artigos fica. Alterador 4, n.os 2.º e 3.º, e alterador 7, n.º 2.º: normas sobre contratos e prazos excepcionais desse ano, sem alteração do texto. Anexos I (alteradores 3, 4 e 6) e IV (alteradores 3 e 5): o quadro novo só vem em imagem no documento original; aplicou-se só o texto que vem no alterador (a ligação para o documento e, no anexo IV, a remissão para a alínea b) do artigo 73.º); o conteúdo do quadro não se transcreve.",
   "instrucoes": [
-    "Alt. 1, 1.º: prorroga o prazo do art. 89.º, n.º 1 (e de outras portarias) - não textual, em nao_aplicavel; 2.º a 4.º dirigem-se a outras portarias - ignorados.",
-    "Alt. 2: prorroga prazos dos arts. 42.º, n.º 1, e 63.º, n.º 1, no corrente ano - não textual, em nao_aplicavel.",
-    "Alt. 3, 1.º: nova redação dos arts. 17.º, 26.º (n.º 1, c), e n.º 2), 29.º, 30.º (n.os 2 a 4), 32.º, 38.º (n.º 1), 43.º, 45.º, 52.º (n.º 1, d)), 60.º (c)), 66.º (n.º 1), 74.º, 75.º, 80.º (n.º 1, b)) - aplicados; os que foram depois alterados de novo ficam com a redação final; anexos I e IV só em imagem.",
-    "Alt. 3, 2.º: adita os arts. 74.º-A e 87.º-A - aditados.",
-    "Alt. 4, 1.º: art. 26.º adita n.º 3; art. 28.º nova redação (n.os 1 a 3); art. 29.º passa a corpo único sem números; art. 30.º n.º 3 novo; art. 33.º nova redação; art. 41.º n.º 1, d); art. 72.º n.º 2 - aplicados (26.º, 28.º, 30.º e 72.º alterados de novo depois); anexo I só em imagem. 2.º (cláusulas dos contratos) e 3.º (prazo excepcional) não alteram o texto.",
-    "Alt. 5: art. 72.º n.º 2 nova redação sem alíneas; art. 73.º com nova redação integral (só n.º 1 com alíneas a) a d)), substituindo os anteriores n.os 1 a 4; anexo IV só em imagem.",
-    "Alt. 6, 1.º: art. 4.º n.º 2; arts. 18.º a 22.º nova redação; art. 26.º n.os 2 e 3; art. 30.º n.º 1, c), e n.os 3 e 4; art. 31.º n.º 1; art. 80.º nova redação integral (corpo único com alíneas a) a c), sem o antigo n.º 2) - aplicados; anexo I só em imagem.",
-    "Alt. 6, 2.º: revoga os arts. 23.º e 24.º - ambos ficam '(Revogado.)'.",
-    "Alt. 7, 1.º: art. 28.º n.º 3 (15 de Dezembro de 2001) - aplicado; 2.º (cláusulas dos contratos) não textual."
+    "Alt. 1 (P. 1044/94) 1.º: prorroga até 15 de Dezembro o prazo excepcional do art. 89.º, n.º 1, para o corrente ano; não textual, art. 89.º fica.",
+    "Alt. 2 (P. 54-A/95): prorroga no corrente ano o 1.º período de candidatura dos arts. 42.º, n.º 1, e 63.º, n.º 1; não textual.",
+    "Alt. 3 (P. 662/95) 1.º: nova redação dos arts. 17.º, 26.º (n.º 1 c) e n.º 2), 29.º, 30.º, 32.º, 38.º (n.º 1), 43.º, 45.º, 52.º (n.º 1 d)), 60.º (c)), 66.º (n.º 1), 74.º, 75.º, 80.º (n.º 1 b)) e anexos I e IV; aplicados, os que não voltam a mudar ficam com o alterador 3. No art. 52.º a instrução só traz o n.º 1 (alíneas a) a c) e e) com '...'); a omissão do n.º 2 lê-se como abreviação (só muda a alínea d)), pelo que o n.º 2, que remete para o anexo III, fica com o texto atual. Anexo IV: epígrafe passa a 'Agrupamentos de defesa sanitária' (titulos).",
+    "Alt. 3 2.º: aditados os arts. 74.º-A e 87.º-A.",
+    "Alt. 4 (P. 569-A/96) 1.º: arts. 26.º (n.º 3), 28.º, 29.º (passa a corpo único, sem n.os), 30.º (n.º 3), 33.º, 41.º (n.º 1 d)) e 72.º (n.º 2) e anexo I. No art. 41.º, como no 52.º, a omissão do n.º 2 lê-se como abreviação: n.º 2 (remissão para o anexo II) fica. 26.º, 28.º, 30.º, 72.º e anexo I voltam a mudar depois.",
+    "Alt. 5 (P. 560/97): art. 72.º n.º 2 (n.º 1 fica); art. 73.º substituído pelo novo n.º 1 com alíneas a) a d) (redação completa sem '...', os antigos n.os 2 a 4 não constam e saem); anexo IV substituído (remissão para a alínea b) do artigo 73.º e ligação para o documento).",
+    "Alt. 6 (P. 200/98) 1.º: n.º 2 do art. 4.º (n.os 1 e 3 ficam), arts. 18.º a 22.º, n.os 2 e 3 do art. 26.º, alínea c) do n.º 1 e n.os 3 e 4 do art. 30.º (n.º 2 fica na redação do alt. 3), n.º 1 do art. 31.º, art. 80.º (corpo único, sai o n.º 2) e anexo I; aplicados. 2.º: revogados os arts. 23.º e 24.º.",
+    "Alt. 7 (P. 1172/2001) 1.º: n.º 3 do art. 28.º passa a 'até 15 de Dezembro de 2001'; aplicado. 2.º: actualização das cláusulas dos contratos; não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

@@ -135,13 +135,28 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO N.º 1 — Matriz dos cursos gerais",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "titulo": "## ANEXO N.º 2 — Matriz dos cursos tecnológicos",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "DL 156/2002 (alterador 1): suspende a vigência do n.º 1 do artigo 20.º e mantém em vigor o DL 286/89 enquanto durar a suspensão; não é alteração textual (e o diploma foi depois revogado pelo art. 19.º, n.º 1, b), do DL 74/2004).",
   "instrucoes": [
-    "Alterador 1 (DL 156/2002): suspende a vigência do n.º 1 do art. 20.º; suspensão, não alteração textual; nada aplicado.",
-    "Alterador 2 (DL 74/2004), art. 19.º, n.º 1, alínea a): revoga o DL 7/2001 com excepção do art. 9.º; arts. 1.º a 8.º e 10.º a 22.º revogados.",
-    "Alterador 2, art. 19.º, n.º 2, alínea f): revoga o art. 9.º do DL 7/2001 de acordo com o calendário de produção de efeitos; art. 9.º revogado."
+    "DL 156/2002, artigo único: suspensão da vigência do n.º 1 do art. 20.º; não textual, em nao_aplicavel.",
+    "DL 74/2004, art. 19.º, n.º 1, a): revoga o DL 7/2001 com excepção do art. 9.º; arts. 1.º a 8.º e 10.º a 22.º ficam '(Revogado.)' e os anexos n.os 1 e 2 (matrizes curriculares, parte do diploma revogado) ficam '(Revogado.)' (reparo confirmado).",
+    "DL 74/2004, art. 19.º, n.º 2, f): revoga o art. 9.º do DL 7/2001 'de acordo com o calendário de produção de efeitos' do art. 18.º; o calendário é de anos lectivos fixos (2004-2005 a 2007-2008), já decorridos, e não um facto futuro incerto (regulamento, plano ou portaria a publicar), pelo que a revogação já produziu efeito: art. 9.º '(Revogado.)' (reparo ponderado e não seguido).",
+    "DL 74/2004, restantes alíneas do art. 19.º e notas de alteração do próprio DL 74/2004: dizem respeito a outros diplomas; ignoradas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

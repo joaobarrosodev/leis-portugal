@@ -44,14 +44,14 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 1: a substituição dos anexos n.º 10 e n.º 8 do anexo n.º 1 (programa de trabalhos) não é textual, porque os anexos não estão no texto. Alterador 1, n.º 2: a regra de que as referências ao programa de trabalhos se entendem feitas ao programa de estudos, projecto e construção de recuperação é interpretativa e não muda o texto (só foi aplicada onde o n.º 28 vem com nova redação). O quadro do n.º 28.1 só existe em imagem, tanto em 2003 (alterador 1) como em 2009 (alterador 3): troquei apenas a ligação da unidade 238 pela de 2009, que é a última. Alteradores 4 e 5: não trazem texto dirigido ao original.",
+  "nao_aplicavel": "RCM 85/2003, n.º 1: substituição do anexo n.º 8 do anexo n.º 1 e do anexo n.º 10 pelo programa de estudos, projecto e construção de recuperação; é conteúdo dos anexos, que não estão no texto, e não dá redacção nova a nenhuma unidade (2.1 j) e 1.1 m') ficam como estão). RCM 85/2003, n.º 2: norma interpretativa (as referências ao programa de trabalhos e ao programa de estudos e projectos «entendem-se feitas» ao novo programa); não é uma substituição de termos por escrito e aplicá-la obrigaria a escrever texto e concordâncias que não estão em nenhuma fonte (1.1 m'), 2.1 j), 25.2, 25.3, 30, 35, 38.1, 74.1, 74.2, etc. ficam inalterados); só se aplicou onde a nova redacção do n.º 28 o diz letra a letra (28.2 e 28.3). Quadro do n.º 28.1 (datas limite): só vem em imagem nas RCM 85/2003 e 54-A/2009; substituiu-se apenas a ligação da unidade 238 pela da última redacção (RCM 54-A/2009), sem poder verificar o conteúdo do quadro. Alteradores 4 (RCM 39-E/2010) e 5 (RCM 45-E/2015): o pedido não traz texto nenhum deles, nada aplicado.",
   "instrucoes": [
-    "Alterador 1, n.º 3: nova redação do n.º 28. A epígrafe fica igual; no 28.1, 'serão' passa a 'são' (unidade 237); 28.2, 28.3 e as alíneas a) a c) substituídas (unidades 239-243); 28.4 '...' mantém-se. A ligação do quadro de 2003 foi ultrapassada pela de 2009 (alterador 3).",
-    "Alterador 1, n.os 1 e 2: substituição dos anexos e regra de leitura das referências ao programa de trabalhos: não são textuais (ver nao_aplicavel).",
-    "Alterador 2: nova redação do n.º 55. O 55.2 é substituído (unidade 447); 55.1 e 55.3 a 55.9 vêm com '...' e mantêm-se; 55.10 e 55.11 são novos, inseridos a seguir à unidade 454.",
-    "Alterador 3: n.º 5. A alínea c) do 5.1 é substituída (unidade 121); a nova alínea f) é inserida a seguir à e) (unidade 123); o resto vem com '...' e mantém-se.",
-    "Alterador 3: n.º 28. Só o quadro do 28.1 muda e está em imagem: a ligação da unidade 238 passa para a de 2009; o resto vem com '...' e mantém-se.",
-    "Alteradores 4 e 5: não trazem texto."
+    "RCM 85/2003, n.º 1: substituição dos anexos n.º 8 do anexo n.º 1 e n.º 10 — não textual, em nao_aplicavel.",
+    "RCM 85/2003, n.º 2: norma interpretativa sobre referências ao programa de trabalhos — sem redacção por escrito, em nao_aplicavel (confirmado o reparo: não se aplica fora do n.º 28).",
+    "RCM 85/2003, n.º 3: nova redacção do n.º 28 — 28 igual; 28.1 substituída (unidade 237, 'são as seguintes'); 28.2, 28.3 e alíneas a) a c) substituídas (239-243); 28.4 '...' mantida.",
+    "RCM 19/2004: nova redacção do n.º 55 — 55.2 substituído (447); 55.1 e 55.3 a 55.9 '...' mantidos; 55.10 e 55.11 aditados depois de 55.9 (454).",
+    "RCM 54-A/2009: n.º 5 — alínea c) do 5.1 substituída (121); alínea f) aditada depois da e) (123); resto '...'. N.º 28 — só muda o quadro do 28.1 (imagem): ligação da unidade 238 substituída pela da RCM 54-A/2009; restante '...'.",
+    "RCM 39-E/2010 e RCM 45-E/2015: sem texto no pedido, nada aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -3,7 +3,8 @@ id: pt:dre:546976:por
 title: Decreto-Lei n.º 221/95
 original: data/portugal/decretos-leis/1995/decreto-lei-221-95.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:168056:por
@@ -65,7 +66,13 @@ c) Técnica, destinada a verificar os conhecimentos do candidato acerca do funci
 
 3 - A admissão a exame para as subcategorias E + B, E + C e E + D depende, respectivamente, da prévia habilitação nas categorias B, C ou D.
 
+4 - Ficam dispensados da prestação das provas teóricas e ou técnicas os candidatos já titulares de carta de condução válida para cuja obtenção tenham sido aprovados em alguma ou em ambas dessas provas, bem como os titulares de licença de condução que tenham efectuado prova teórica escrita para a sua obtenção.
+
+5 - A realização de exame de condução por parte de candidatos portadores de restrição ou limitação de âmbito sensorial ou psicomotor que não sejam inibidoras da condução reveste forma especial, com conteúdo a definir por despacho do director-geral de Viação, de acordo com as condicionantes existentes.
+
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20.
+
+> Alterado pelo/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20.
 
 ###### Artigo 4.º — Exames para obtenção de licenças de condução
 

@@ -4,7 +4,7 @@
     {
       "chave": "ANEXO — Regulamento dos Concursos Especiais de Acesso ao Ensino Superior::3.º-A",
       "epigrafe": "Cursos pós-secundários",
-      "texto": "1 - Os pares estabelecimento/curso pós-secundários abrangidos pela alínea c) do n.º 1 do artigo 10.º do Decreto-Lei n.º 393-B/99, de 2 de Outubro, são os fixados no anexo a este Regulamento.\n\n2 - Os pares estabelecimento/curso de ensino superior a que os titulares dos cursos referidos no número anterior se podem candidatar, bem como as condições adicionais que devem satisfazer, são os fixados no anexo a este Regulamento.\n\n3 - Os titulares de um diploma de especialização tecnológica obtido nos termos da [Portaria n.º 989/99](https://diariodarepublica.pt/dr/detalhe/portaria/989-1999-694187), de 3 de Novembro, com as alterações constantes das Portarias n.os [698/2001](https://diariodarepublica.pt/dr/detalhe/portaria/698-2001-399182), de 11 de Julho, e [392/2002](https://diariodarepublica.pt/dr/detalhe/portaria/392-2002-303187), de 12 de Abril, com 18 meses de actividade profissional na área de formação do diploma realizados após a obtenção deste, podem ainda candidatar-se aos pares estabelecimento/curso fixados nos termos da alínea a) do n.º 4 ou do n.º 5 do n.º 5.º daquela portaria.",
+      "texto": "1 - Os pares estabelecimento/curso pós-secundários abrangidos pela alínea c) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro, são os fixados no anexo a este Regulamento.\n\n2 - Os pares estabelecimento/curso de ensino superior a que os titulares dos cursos referidos no número anterior se podem candidatar, bem como as condições adicionais que devem satisfazer, são os fixados no anexo a este Regulamento.\n\n3 - Os titulares de um diploma de especialização tecnológica obtido nos termos da [Portaria n.º 989/99](https://diariodarepublica.pt/dr/detalhe/portaria/989-1999-694187), de 3 de Novembro, com as alterações constantes das Portarias n.os [698/2001](https://diariodarepublica.pt/dr/detalhe/portaria/698-2001-399182), de 11 de Julho, e [392/2002](https://diariodarepublica.pt/dr/detalhe/portaria/392-2002-303187), de 12 de Abril, com 18 meses de actividade profissional na área de formação do diploma realizados após a obtenção deste, podem ainda candidatar-se aos pares estabelecimento/curso fixados nos termos da alínea a) do n.º 4 ou do n.º 5 do n.º 5.º daquela portaria.",
       "alterador": 2
     },
     {
@@ -15,16 +15,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Portaria 1081/2001 n.º 1.º, n.º 2: o anexo aditado ao Regulamento (quadros de cursos pós-secundários) só vem em imagem; não aplicado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Portaria n.º 1081/2001, n.º 1.º, n.º 2 (aditamento ao Regulamento de um anexo com os certificados de habilitação profissional da Egas Moniz e da CESPU): o texto atual não tem nenhum título nem corpo para esse anexo do Regulamento (o único anexo é o «ANEXO — Regulamento dos Concursos Especiais…», que é o próprio Regulamento), e os quadros do anexo só vêm em imagem («ver quadro no documento original»); não aplicado para não inventar títulos nem conteúdo. DL 39/2022: só altera o DL 88/2006 (o art. 51.º, n.º 2, da republicação apenas ressalva o art. 3.º-A do Regulamento), sem instrução dirigida ao original.",
   "instrucoes": [
-    "Portaria 1081/2001 1.º n.º 1: adita art. 3.º-A; já presente no texto atual",
-    "Portaria 1081/2001 1.º n.º 2: adita anexo em imagem; não aplicável",
-    "Portaria 1081/2001 2.º: nova redação do art. 4.º (n.º 5 novo, anterior n.º 5 passa a n.º 6); aplicado",
-    "Portaria 393/2002 1.º: adita n.º 3 ao art. 3.º-A; aplicado",
-    "Portaria 393/2002 2.º: adita arts. 3.º-B e 11.º-A; já presentes e iguais no texto atual",
-    "DL 39/2022: altera o Decreto-Lei n.º 88/2006, outro diploma; ignorado"
+    "Portaria 1081/2001, 1.º, n.º 1: aditado o art. 3.º-A (já aplicado por um programa; devolvido com o texto do alterador porque a Portaria 393/2002 lhe acrescenta o n.º 3).",
+    "Portaria 1081/2001, 1.º, n.º 2: aditado um anexo ao Regulamento (quadros em imagem, sem título no texto atual): nao_aplicavel.",
+    "Portaria 1081/2001, 2.º: art. 4.º com novo n.º 5 e o anterior n.º 5 passa a n.º 6; epígrafe e n.os 1 a 4 mantidos.",
+    "Portaria 393/2002, 1.º: aditado o n.º 3 ao art. 3.º-A (faltava no texto atual): devolvido o art. 3.º-A completo.",
+    "Portaria 393/2002, 2.º: aditados os arts. 3.º-B e 11.º-A (já aplicados por um programa; o texto atual coincide com o do alterador, salvo as ligações): não devolvidos.",
+    "DL 39/2022: altera, revoga e republica o DL 88/2006; nenhuma instrução dirigida à Portaria 854-A/99: ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

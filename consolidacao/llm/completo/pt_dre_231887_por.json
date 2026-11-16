@@ -76,7 +76,7 @@
     {
       "chave": "13.º",
       "epigrafe": "Decisão",
-      "texto": "1 - No caso da fase 2 da acção A, referida na alínea a) do n.º 2 do artigo 2.º, a decisão incidirá sobre a adequação das acções propostas no projecto de desenvolvimento e consolidação às opções estratégicas decorrentes do diagnóstico e análise estratégica, com cativação global do incentivo a atribuir, e sobre o conteúdo e custo do conjunto das acções específicas para o primeiro ano do processo de consolidação.\n\n2 - No final de cada ano, deverá o promotor das acções referidas no número anterior submeter à DGI o relatório de execução das acções inicialmente aprovadas, bem como o plano de desenvolvimento para o ano seguinte, quando aplicável, cabendo ainda àquele organismo a decisão sobre a continuação do apoio ou propor eventuais ajustamentos.",
+      "texto": "1 - No caso da fase 2 da acção A, referida na alínea a) do n.º 2 do artigo 2.º, a decisão incidirá sobre a adequação das acções propostas no projecto de desenvolvimento e consolidação às opções estratégicas decorrentes do diagnóstico e análise estratégica, com cativação global do incentivo a atribuir, e sobre o conteúdo e custo do conjunto das acções específicas para o primeiro ano do processo de consolidação.\n\n2 - No final de cada ano, deverá o promotor das acções referidas no número anterior submeter à DGI o relatório de execução das acções inicialmente aprovadas, bem como o plano de desenvolvimento para o ano seguinte, quando aplicável, cabendo ainda àquele organismo a decisão sobre a continuação do apoio ou propor eventuais ajustamentos.\n\nMinistério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.",
       "alterador": 3
     },
     {
@@ -105,24 +105,40 @@
       "alterador": 3
     }
   ],
-  "nao_aplicavel": "Despacho Normativo n.º 24-C/96 (alterador 2): atribui à DGI a gestão do Regime de Apoio sem alterar o texto do original (alteração não textual); o artigo 3.º só passa a referir a DGI com o alterador 3. Os anexos A a D foram substituídos pelo Despacho Normativo n.º 42/98, mas o texto atual só tem os seus títulos de divisão: só os títulos de A e B (os que mudam) foram atualizados; o corpo dos anexos não está no texto atual e não foi aplicado.",
+  "anexos": [
+    {
+      "titulo": "## ANEXO A — Índice da estrutura do diagnóstico e análise estratégica para infra-estruturas tecnológicas previsto na alínea a) do n.º 3 do artigo 6.º",
+      "texto": "I - Apresentação sumária da infra-estrutura tecnológica.\n\nII - Condicionantes externas.\n\nIII - Condicionantes internas.\n\nIV - Análise da utilização do potencial da infra-estrutura tecnológica.\n\nV - Opções estratégicas.\n\nNota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se o diagnóstico segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.",
+      "alterador": 3
+    },
+    {
+      "titulo": "## ANEXO B — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea b) do n.º 4 do artigo 6.º",
+      "texto": "I - Caracterização sucinta do projecto.\n\nII - Pressupostos básicos para a elaboração do projecto de consolidação.\n\nIII - Acções preconizadas para o projecto de consolidação.\n\nNota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.",
+      "alterador": 3
+    },
+    {
+      "titulo": "## ANEXO C — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea a) do n.º 5 do artigo 6.º",
+      "texto": "I - Caracterização sucinta do projecto.\n\nII - Justificação da necessidade de realização do projecto.\n\nIII - Acções preconizadas.\n\nIV - Articulação com outras acções no âmbito do PEDIP II e de outros programas comunitários.\n\nNota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.",
+      "alterador": 3
+    },
+    {
+      "titulo": "## ANEXO D — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea a) do n.º 6 do artigo 6.º",
+      "texto": "I - Caracterização sucinta do projecto.\n\nII - Justificação da necessidade de realização do projecto.\n\nIII - Acções preconizadas.\n\nIV - Articulação com outras acções no âmbito do PEDIP II e de outros programas comunitários.\n\nNota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Alterador 2 (Despacho Normativo n.º 24-C/96): atribui à DGI a gestão do regime e a representação nas comissões, sem dar nova redação a nenhum artigo; não é alteração textual (o artigo 3.º acabou reescrito pelo alterador 3). Artigo 9.º, n.º 2, alínea d): o quadro das percentagens decrescentes só vem em imagem no alterador 3; troca-se apenas a ligação «(ver quadro no documento original)», o conteúdo do quadro não é transcrito.",
   "instrucoes": [
-    "Alt. 1 (DN 15/95): aditado o n.º 3 ao art. 4.º (parques tecnológicos e centros de incubação) — aplicado.",
-    "Alt. 2 (DN 24-C/96): gestão do regime atribuída à DGI, sem instrução textual — não aplicado (ver nao_aplicavel).",
-    "Alt. 3 (DN 42/98) art. 1.º: nova alínea a) do n.º 2 — aplicada.",
-    "Alt. 3 art. 2.º: nova alínea a) (com §§ 1.º e 2.º) e nova alínea c) do n.º 2 — aplicadas; n.º 1 e alínea b) do texto atual.",
-    "Alt. 3 art. 3.º: organismo gestor passa a DGI — aplicado.",
-    "Alt. 3 art. 4.º: nova redação do n.º 1; n.os 2 e 3 mantidos (o 3 do alt. 1) — aplicado.",
-    "Alt. 3 art. 5.º: alíneas c), d) e e) do n.º 1 e b) do n.º 2 — aplicadas.",
-    "Alt. 3 art. 6.º: n.º 2 passa a ter só as alíneas a) e b) (cai a antiga alínea c)); alínea b) do n.º 3; n.º 4 passa a ter alíneas a) a c) (cai a antiga d)) — aplicado.",
-    "Alt. 3 art. 7.º: alíneas a) a d) do n.º 2 (cai a antiga e)) e novo n.º 5 — aplicado.",
-    "Alt. 3 art. 8.º: alíneas a), b), c), e), f), g), i), j) e nova l) do n.º 2 e n.º 6 — aplicadas.",
-    "Alt. 3 art. 9.º: proémio, n.º 1, alíneas b), c) e d) do n.º 2 (com o quadro só em ligação) e n.º 3 — aplicados.",
-    "Alt. 3 arts. 10.º a 13.º: nova redação integral (10.º e 12.º com nova epígrafe) — aplicada.",
-    "Alt. 3: aditados os arts. 14.º e 15.º — aplicados.",
-    "Alt. 3: nova redação dos anexos A a D — títulos de A e B atualizados em 'titulos'; C e D sem mudança no título."
+    "Alterador 1 (DN 15/95): artigo 4.º ganha o n.º 3 (parques tecnológicos e centros de incubação); n.os 1 e 2 '...' ficam como estão. Aplicado; o n.º 3 vem letra a letra do alterador 1 e o alterador 3 mantém-no com '3 - ...' (reparo do verificador sobre o n.º 3 confirmado: texto do alterador 1).",
+    "Alterador 2 (DN 24-C/96): transferência da gestão para a DGI, sem redação nova; em nao_aplicavel.",
+    "Alterador 3 (DN 42/98): nova redação dos artigos 1.º a 13.º, com '...' a manter o texto atual de cada unidade; nas alíneas enumeradas por inteiro (6.º n.os 2 e 4, 7.º n.º 2, 8.º n.º 2) fica só a lista nova, desaparecendo as alíneas antigas que a lista nova já não tem (6.º n.º 2 c), 6.º n.º 4 d), 7.º n.º 2 e)).",
+    "Alterador 3: artigo 10.º passa a 'Projectos sucessivos de consolidação' e artigo 12.º a 'Competência e prazos de apreciação' (epígrafes novas).",
+    "Alterador 3: aditados os artigos 14.º (Candidaturas pendentes) e 15.º (Produção de efeitos).",
+    "Artigo 13.º: mantém-se no fim a assinatura do original, que vinha no texto atual a seguir ao n.º 2 e que a nova redação não toca.",
+    "Alterador 3, anexos: títulos dos anexos A e B mudam (titulos); corpos dos anexos A, B, C e D com a Nota nova e, no D, 'I - Caracterização sucinta do projecto.' (reparos do verificador confirmados letra a letra no alterador 3)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

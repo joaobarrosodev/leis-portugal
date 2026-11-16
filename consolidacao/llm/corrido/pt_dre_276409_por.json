@@ -15,12 +15,13 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Substituição das plantas anexas (Portarias 1002/95, 866/97, 726/98, 716/99, 854/2003, 1033-BU/2004, 1073/2006): só em imagem. Anexações de prédios e alterações de área total (726/98, 716/99, 854/2003, 1073/2006), retificação da área para 849,8536 ha referida no preâmbulo da 726/98, renovação da concessão por 12 anos com área de 1861 ha (1033-BU/2004) e criação de áreas condicionadas: sem nova redação de texto do original, não aplicadas.",
+  "nao_aplicavel": "Substituição das plantas anexas (Portaria 1002/95 e plantas das Portarias 866/97, 726/98, 716/99, 854/2003, 1033-BU/2004 e 1073/2006): só vêm em imagem, a unidade 18 fica como está. Portarias 726/98, 716/99, 854/2003 e 1073/2006: anexações de prédios com novas áreas totais (1610,1531; 1685,7281; 1938,8696; 2117 ha) sem nova redacção do n.º 1.º; a rectificação da área para 849,8536 ha só vem no preâmbulo da Portaria 726/98, sem fórmula de alteração; o n.º 1.º fica com 858,3701 ha (confirmado o reparo: não há texto para aplicar). Portaria 1033-BU/2004: renovação por 12 anos com a área de 1861 ha (corrigida para 1931 ha no preâmbulo da Portaria 1073/2006), sem nova redacção do n.º 1.º nem do n.º 2.º, que fica 'pelo período de 10 anos' (confirmado o reparo: não textual). Áreas condicionadas (Portaria 854/2003, 2.º; Portaria 1033-BU/2004, 2.º; Portaria 1073/2006, 3.º) e normas sobre fim da concessão e efeitos (854/2003, 3.º e 4.º; 1033-BU/2004, 3.º e 4.º; 1073/2006, 2.º e 4.º): normas autónomas, sem texto a inserir no original.",
   "instrucoes": [
-    "Portaria 1002/95: nova redação do n.º 1.º (área 1575,6475 ha); substituída depois pela redação da 866/97.",
-    "Portaria 866/97 1.º: nova redação do n.º 1.º (área 858,3701 ha): unidade 6 com a numeração '1.º'.",
-    "Portaria 866/97 1.º: adita o n.º 1.º-A: inserido depois da unidade 6.",
-    "Portarias 726/98, 716/99, 854/2003, 1033-BU/2004 e 1073/2006: anexações, renovação e áreas condicionadas sem alteração textual (ver nao_aplicavel)."
+    "Portaria 1002/95: nova redacção do n.º 1.º (1575,6475 ha), depois substituída pela Portaria 866/97; substituição da planta só em imagem (nao_aplicavel).",
+    "Portaria 866/97, 1.º: nova redacção do n.º 1.º (858,3701 ha) — unidade 6 substituída, mantendo o número '1.º'; aditado o n.º 1.º-A depois da unidade 6.",
+    "Portaria 866/97, 2.º e 3.º: manutenção de direitos e entrada em vigor — nada a aplicar.",
+    "Portarias 726/98, 716/99, 854/2003 e 1073/2006: anexações e novas áreas totais sem redacção — nao_aplicavel.",
+    "Portaria 1033-BU/2004: renovação por 12 anos e área de 1861 ha sem redacção — nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

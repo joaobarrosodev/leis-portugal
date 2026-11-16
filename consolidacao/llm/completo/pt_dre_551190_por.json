@@ -10,7 +10,7 @@
     {
       "chave": "7.º",
       "epigrafe": "Despesas não elegíveis",
-      "texto": "Sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de Maio, não são consideradas, para efeito de concessão de apoios, as seguintes despesas:\n\na) Aquisição de edifícios, instalações ou equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os respetivos contratos estipularem uma opção de compra e esta estiver realizada e paga:\n\ni) No prazo de dois anos após a celebração do contrato de concessão dos apoios, para as operações de prazo igual ou inferior a 24 meses;\n\nii) Até 30 de junho de 2015, para as demais operações;\n\nb) Obras provisórias não directamente ligadas à execução do projecto;\n\nc) Aquisição de sistemas, equipamentos e materiais em segunda mão;\n\nd) Trabalhos e equipamentos de embelezamento e de manutenção, nomeadamente arranjo de espaços verdes, com excepção do previsto na alínea s) do artigo 6.º, instalação de campos desportivos, adequação de espaços para espectáculos, instalação de bares, aquisição de vídeos e televisões, com excepção do previsto na alínea n) do artigo 6.º, instalação de imagens de marca e logótipos e de equipamentos de recreio;\n\ne) Aquisição de telemóveis, material de escritório e mobiliário;\n\nf) Equipamentos e sistemas informáticos exclusivamente destinados ao apoio administrativo e contabilístico;\n\ng) De funcionamento ou materiais consumíveis;\n\nh) (Revogada.)\n\ni) Encargos financeiros, à excepção dos previstos na alínea x) do n.º 1 do artigo 6.º, bancários e administrativos, transferência de propriedade de uma empresa, constituição de fundo de maneio, pagamento de impostos, taxas e multas, despesas notariais, jurídicas, judiciais ou contabilísticas;\n\nj) Relacionadas com o comércio retalhista.",
+      "texto": "Sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de Maio, não são consideradas, para efeito de concessão de apoios, as seguintes despesas:\n\na) Aquisição de edifícios, instalações ou equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os respetivos contratos estipularem uma opção de compra e esta estiver realizada e paga:\n\ni) No prazo de dois anos após a celebração do contrato de concessão dos apoios, para as operações de prazo igual ou inferior a 24 meses;\n\nii) Até 30 de junho de 2015, para as demais operações;\n\nb) Obras provisórias não directamente ligadas à execução do projecto;\n\nc) Aquisição de sistemas, equipamentos e materiais em segunda mão;\n\nd) Trabalhos e equipamentos de embelezamento e de manutenção, nomeadamente arranjo de espaços verdes, com excepção do previsto na alínea s) do artigo 6.º, instalação de campos desportivos, adequação de espaços para espectáculos, instalação de bares, aquisição de vídeos e televisões, com excepção do previsto na alínea n) do artigo 6.º, instalação de imagens de marca e logótipos e de equipamentos de recreio;\n\ne) Aquisição de telemóveis, material de escritório e mobiliário;\n\nf) Equipamentos e sistemas informáticos exclusivamente destinados ao apoio administrativo e contabilístico;\n\ng) De funcionamento ou materiais consumíveis;\n\nh) (Revogado.)\n\ni) Encargos financeiros, à excepção dos previstos na alínea x) do n.º 1 do artigo 6.º, bancários e administrativos, transferência de propriedade de uma empresa, constituição de fundo de maneio, pagamento de impostos, taxas e multas, despesas notariais, jurídicas, judiciais ou contabilísticas;\n\nj) Relacionadas com o comércio retalhista.",
       "alterador": 3
     },
     {
@@ -57,16 +57,32 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Portaria 316/2013 art. 1.º n.os 2 e 3: nova redação do anexo I e aditamento do anexo III ao Regulamento - os anexos não constam do texto atual por artigos, pelo que não foram aplicados.",
+  "titulos": [
+    {
+      "atual": "## ANEXO I — (a que se refere o artigo 3.º)",
+      "novo": "## ANEXO I — Critério para avaliação de situação financeira pré-projeto",
+      "alterador": 3
+    }
+  ],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — (a que se refere o artigo 3.º)",
+      "texto": "[a que se refere o artigo 3.º]\n\n1) Para efeitos do disposto no artigo 3.º e sem prejuízo do disposto no n.º 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré-projeto seja igual ou superior a 15 %. A autonomia financeira pré-projeto tem por base o último exercício encerrado à data de apresentação das candidaturas.\n\n2) A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:\n\nAutonomia financeira = (CP / AL) x 100\n\nem que:\n\nCP - capitais próprios da empresa, incluindo os suprimentos e ou empréstimos de sócios ou acionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato;\n\nAL - ativo líquido da empresa.\n\n3 - Relativamente aos promotores que, à data de apresentação das candidaturas, não tenham desenvolvido qualquer actividade, ou não tenha ainda decorrido o prazo legal de apresentação do balanço e contas, bem como aos empresários em nome individual sem contabilidade organizada, considera-se que possuem uma situação financeira equilibrada se suportarem com capitais próprios pelo menos 20 % do custo total do investimento.\n\n4) Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, mas sempre referida a uma data anterior à da apresentação da candidatura, devendo para o efeito apresentar os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas, nos termos previstos no n.º 3 do artigo 4.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, na redação dada pelo [Decreto-Lei n.º 37/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243), de 20 de abril.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": "Port. 316/2013 (alterador 3), art. 1.º, n.º 3: aditamento de um novo ANEXO III (Critério para avaliação de situação financeira pós-projeto) - o ANEXO III não existe no texto atual e o formato só permite mudar títulos e corpos de anexos que lá estão; fica por aplicar (o texto está no alterador 3, linhas «ANEXO III» a «revisor oficial de contas.»).",
   "instrucoes": [
-    "Portaria 28/2010: nova redação do art. 10.º (n.os 3 e 5 novos; o anterior n.º 6 passa a n.º 5) - aplicada.",
-    "Portaria 106/2010 art. 1.º n.º 4: art. 13.º, n.º 1 novo e n.º 2 revogado - aplicada (n.º 1 depois substituído pela Portaria 316/2013); os restantes números do art. 1.º alteram outras portarias - ignorados.",
-    "Portaria 316/2013 art. 1.º n.º 1: arts. 3.º (alínea c)), 7.º (alínea a) com subalíneas; alínea h) revogada), 9.º (n.os 1 e 3), 11.º (n.os 2 e 4), 12.º (n.os 2 e 3), 13.º (n.os 1, 3, 4 e 7), 14.º (n.º 1 com alíneas b) e h) novas; n.º 2 novo) e 15.º - aplicadas.",
-    "Portaria 316/2013 art. 1.º n.os 2 e 3: anexo I e anexo III - não aplicados (anexos ausentes do texto atual).",
-    "Portaria 378/2013: nova alínea b) do art. 3.º - aplicada.",
-    "Portaria 109/2014 art. 6.º: aditado n.º 4 ao art. 9.º - aplicado; os restantes artigos alteram outras portarias - ignorados."
+    "Port. 28/2010, art. 1.º: nova redação dos n.os 3 e 5 do artigo 10.º (o antigo «6 -», gralha do original, passa a n.º 5 com o texto do alterador); n.os 1, 2 e 4 mantidos.",
+    "Port. 106/2010, art. 1.º, n.º 4: nova redação do n.º 1 e revogação do n.º 2 do artigo 13.º; os outros números do art. 1.º alteram outras portarias e foram ignorados.",
+    "Port. 316/2013, art. 1.º, n.º 1: alínea c) do artigo 3.º; alínea a) e revogação da alínea h) do artigo 7.º; n.os 1 e 3 do artigo 9.º (o novo n.º 1 já não tem as alíneas a) e b)); n.º 2 e novo n.º 4 do artigo 11.º; n.os 2 e 3 do artigo 12.º; n.os 1, 3, 4 e 7 do artigo 13.º, com o n.º 2 «...» (fica o texto atual, revogado pela Port. 106/2010 - o reparo do verificador que pedia o n.º 2 original foi rejeitado); artigo 14.º passa a n.º 1 com alínea b) nova e alínea h) aditada, e n.º 2 aditado; artigo 15.º com nova redação.",
+    "Port. 316/2013, art. 1.º, n.º 2: nova redação do ANEXO I (corpo em anexos; epígrafe nova no título); o n.º 3 do anexo vem como «3)...» e fica com o texto atual.",
+    "Port. 316/2013, art. 1.º, n.º 3: aditamento do ANEXO III - em nao_aplicavel.",
+    "Port. 378/2013, art. 1.º: nova redação da alínea b) do artigo 3.º.",
+    "Port. 109/2014, art. 6.º: aditamento do n.º 4 ao artigo 9.º; os outros artigos alteram outras portarias e foram ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

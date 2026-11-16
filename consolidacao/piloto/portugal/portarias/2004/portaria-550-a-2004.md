@@ -223,9 +223,11 @@ f) Prova de aptidão tecnológica (PAT) - prova que consiste na defesa, perante 
 
 ###### Artigo 13.º — Modalidades de avaliação
 
-As modalidades de avaliação são as referidas no artigo 11.º do Decreto-Lei n.º 74/2004, de 26 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 24/2006, de 6 de Fevereiro.
+As modalidades de avaliação são as referidas no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 24/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2006-551873), de 6 de Fevereiro.
 
 > Alterado pelo/a Artigo 1.º do/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.
+
+> Alterado pelo/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.
 
 ###### Artigo 14.º — Avaliação formativa
 
@@ -797,7 +799,7 @@ IX - Avaliação
 
 1 - O produto, objecto ou produção escrita ou de outra natureza, bem como o respectivo relatório de realização, a defender na prova de aptidão tecnológica (PAT), são presentes ao júri até oito dias úteis antes da data de realização da prova.
 
-2 - A PAT tem a duração máxima de quarenta e cinco minutos e realiza-se, de acordo com calendário a definir por cada escola, preferencialmente no período definido para a realização dos exames finais nacionais.
+2 - A PAT tem a duração máxima de quarenta e cinco minutos e realiza-se, de acordo com calendário a definir por cada escola, no final das actividades lectivas, após a realização do estágio.
 
 3 - A preparação da PAT desenvolve-se do seguinte modo:
 
@@ -835,23 +837,25 @@ d) Garantir, no que respeita à PAT, a articulação entre as várias disciplina
 
 7 - O presidente do órgão de direcção executiva da escola, em colaboração com os órgãos pedagógicos da escola, é o responsável pelo planeamento necessário à realização da PAT.
 
-8 - O júri de avaliação da PAT é designado pelo órgão de direcção executiva da escola e tem a seguinte composição:
+8 - O júri da PAT é constituído pelos seguintes elementos:
 
-a) O presidente do órgão de direcção executiva ou um seu representante, que preside;
+a) Director de curso, que preside;
 
-b) O director de curso;
+b) Professor da ATI;
 
-c) O coordenador pedagógico de turma;
+c) Um representante das associações empresariais ou das empresas e instituições de sectores afins do curso;
 
-d) Um professor orientador do projecto;
+d) Uma personalidade de reconhecido mérito na área de formação profissional do curso ou dos sectores de actividades afins do curso.
 
-e) Um representante das associações empresariais ou das empresas de sectores afins ao curso;
+8.1 - O júri de avaliação, para deliberar, necessita da presença de três elementos, estando entre eles obrigatoriamente os elementos a que se referem as alíneas a) e b) e um dos elementos a que se referem as alíneas c) e d).
 
-f) Um representante das associações sindicais dos sectores de actividade afins ao curso;
+8.2 - Nos casos em que o director de curso e o professor da ATI são a mesma pessoa, deve o júri integrar um outro professor da componente de formação tecnológica do curso.
 
-g) Uma personalidade de reconhecido mérito na área de formação profissional do curso ou dos sectores de actividade afins ao curso.
+8.3 - Nos casos em que não seja possível assegurar a presença do elemento a que se refere a alínea a) do n.º 8 do presente anexo, deve o júri ser presidido, em sua substituição, por um elemento do órgão de direcção executiva da escola.
 
-9 - O júri de avaliação, para deliberar, necessita da presença de, pelo menos, quatro elementos, estando entre eles, obrigatoriamente, um dos elementos a que se refere a alínea a), um dos elementos a que se referem as alíneas b) e c) e dois dos elementos a que se referem as alíneas e) a g) do número anterior, tendo o presidente voto de qualidade em caso de empate nas votações.
+8.4 - O presidente do júri tem voto de qualidade em caso de empate nas votações.
+
+9 - Sempre que os cursos correspondam a profissões certificadas no âmbito do sistema de certificação profissional, o júri de avaliação integra também os elementos referidos no artigo 11.º do [Decreto Regulamentar n.º 68/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1994-547021), de 26 de Novembro, e o seu presidente é designado de acordo com o n.º 3 do mencionado artigo.
 
 10 - O júri reúne para avaliação da PAT, devendo dessa reunião ser lavrada acta, a qual é, depois de assinada por todos os elementos do júri, remetida ao órgão de direcção executiva da escola.
 
@@ -867,13 +871,19 @@ g) Uma personalidade de reconhecido mérito na área de formação profissional 
 
 16 - A classificação da PAT não pode ser objecto de pedido de reapreciação.
 
+> Alterado pelo/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.
+
 ## ANEXO III — Provas de equivalência à frequência: tipos de provas a realizar em cada disciplina e área não disciplinar e respectiva duração
 
-[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/052b00/18441848.pdf)
+
+> Alterado pelo/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.
 
 ## ANEXO IV — Exames finais nacionais: tipo de prova a realizar em cada disciplina e respectiva duração
 
-[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)](https://files.diariodarepublica.pt/1s/2004/05/119b01/00020017.pdf)
+(Revogado.)
+
+> Alterado pelo/a [Portaria n.º 260/2006](https://diariodarepublica.pt/dr/detalhe/portaria/260-2006-667477), publicado em 2006-03-14.
 
 ## ANEXO V — Procedimentos específicos a observar no desenvolvimento da prova extraordinária de avaliação
 

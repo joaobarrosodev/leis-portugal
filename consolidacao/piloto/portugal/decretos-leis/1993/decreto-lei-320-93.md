@@ -266,68 +266,18 @@ Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
 ## ANEXO I — Estrutura remuneratória da carreira técnica de inspecção
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf)
+(Revogado.)
+
+> Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02.
 
 ## ANEXO II — Estrutura remuneratória da carreira de verificador
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf)
+(Revogado.)
+
+> Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02.
 
 ## ANEXO III — Conteúdos funcionais
 
-I - Carreira de inspector superior de pescas:
+(Revogado.)
 
-a) Superintender na actividade inspectiva, programando, dirigindo ou executando acções de fiscalização, no âmbito das competências específicas atribuídas à Direcção-Geral das Pescas;
-
-b) Efectuar estudos, elaborar relatórios e emitir pareceres visando o aperfeiçoamento constante do sistema de fiscalização, controlo e vigilância das actividades de pesca marítima e das culturas marinhas;
-
-c) Colaborar com as entidades a quem a lei atribua competência de fiscalização e vigilância na área da pesca marítima e das culturas marinhas para a concretização das políticas e orientações adoptadas para o sector;
-
-d) Realizar toda a actividade inspectiva de que a Direcção-Geral das Pescas venha a ser incumbida, desde que nomeado para o efeito pelo director-geral;
-
-e) Levantar autos de notícia por infracções detectadas no exercício de funções inspectivas e instruir os respectivos processos.
-
-II - Carreira de inspector técnico de pescas:
-
-a) Realizar acções de fiscalização no âmbito das competências específicas da Direcção-Geral das Pescas;
-
-b) Proceder à recolha, estudo e análise de todos os elementos necessários à concretização da actividade inspectiva;
-
-c) Acompanhar os resultados das acções de fiscalização do exercício das actividades da pesca marítima ou das culturas marinhas nas águas ou parcelas de terreno sob soberania ou jurisdição nacional;
-
-d) Fiscalizar ou acompanhar as actividades das embarcações de pesca em águas não sujeitas à jurisdição nacional, no quadro de compromissos assumidos com a Comunidade Económica Europeia ou com as organizações internacionais de que Portugal seja membro;
-
-e) Integrar-se em acções de inspecção e vigilância multidisciplinares que tenham como objectivo garantir o cumprimento das normas que disciplinam o exercício da actividade da pesca marítima nos domínios da comercialização, transporte e armazenagem do pescado, bem como das que regulamentam o exercício da actividade de culturas marinhas, com vista a promover a sua conformidade com as políticas e orientações adoptadas pela administração do sector;
-
-f) Elaborar relatórios e informações e efectuar inquéritos sobre o cumprimento da legislação relativos ao exercício das actividades da pesca marítima e das culturas marinhas;
-
-g) Colaborar com os inspectores superiores de pescas na programação e concretização da actividade inspectiva que aqueles superintendam;
-
-h) Levantar autos de notícia por infracções detectadas nas suas áreas de intervenção e instruir os respectivos processos.
-
-III - Carreira de técnico-adjunto de inspecção de pescas:
-
-a) Coadjuvar o trabalho dos inspectores superiores na execução das suas funções, efectuando todas as diligências e acções de natureza inspectiva de que forem encarregues, no âmbito das competências atribuídas à Direcção-Geral das Pescas;
-
-b) Participar na actividade inspectiva, integrando-se em equipas pluridisciplinares que tenham como objectivo efectuar o controlo do exercício das actividades de pesca marítima, nos domínios da comercialização, transporte e armazenagem do pescado, bem como do exercício da actividade de culturas marinhas;
-
-c) Proceder, entre outras tarefas, à análise dos diários de bordo, verificando a veracidade do seu conteúdo, a obrigatoriedade da sua apresentação, bem como as declarações de desembarque e quaisquer outros documentos de registo da actividade da pesca de apresentação obrigatória;
-
-d) Verificar o cumprimento das condições de instalação e exploração dos estabelecimentos de culturas marinhas;
-
-e) Colaborar na elaboração dos relatórios ou informações relativos às acções inspectivas realizadas;
-
-f) Levantar autos de notícia por infracções detectadas na execução da sua actividade inspectiva e instruir os respectivos autos.
-
-IV - Carreira de técnico de verificação dos produtos da pesca. - Compete ao pessoal da carreira de técnico de verificação dos produtos da pesca proceder à verificação da qualidade das matérias-primas destinadas às indústrias transformadoras, nomeadamente pescado, azeite e óleos, sal e embalagens, controlando a sua utilização sempre que necessário.
-
-Compete-lhe ainda proceder:
-
-a) À verificação da qualidade dos produtos acabados;
-
-b) À apreensão e eventual inutilização dos produtos considerados impróprios;
-
-c) Ao acompanhamento das diversas fases dos ciclos fabris e fiscalização do estado das instalações e equipamentos fabris;
-
-d) À execução e controlo dos mecanismos nacionais e comunitários de intervenção e regulação do mercados dos produtos da pesca;
-
-e) Colaboração na execução de funções administrativas inerentes às administrações marítimas.
+> Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02.

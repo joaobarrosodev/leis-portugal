@@ -1,0 +1,26 @@
+{
+  "id": "pt:dre:546976:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Exames para obtenção da carta de condução",
+      "texto": "1 - O exame para as categorias A e B e para a subcategoria E + B consta de uma prova teórica e de uma prova prática.\n\n2 - O exame para as categorias C e D consta de uma prova teórica, de uma prova técnica e de uma prova prática.\n\n3 - A admissão a exame para as subcategorias E + B, E + C e E + D depende, respectivamente, da prévia habilitação nas categorias B, C ou D.\n\n4 - Ficam dispensados da prestação das provas teóricas e ou técnicas os candidatos já titulares de carta de condução válida para cuja obtenção tenham sido aprovados em alguma ou em ambas dessas provas, bem como os titulares de licença de condução que tenham efectuado prova teórica escrita para a sua obtenção.\n\n5 - A realização de exame de condução por parte de candidatos portadores de restrição ou limitação de âmbito sensorial ou psicomotor que não sejam inibidoras da condução reveste forma especial, com conteúdo a definir por despacho do director-geral de Viação, de acordo com as condicionantes existentes.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "DL 121/97 (alterador 2), art. 2.º: suspensão por um ano da vigência do n.º 4 do artigo 14.º - não é alteração textual, o texto fica. DL 167/98 (alterador 3): repristinação do diploma até à entrada em vigor do regulamento do Código da Estrada - não é alteração textual.",
+  "instrucoes": [
+    "DL 214/96, art. 2.º: nova redação da epígrafe e dos n.os 1, 2 e 3 do artigo 3.º; os n.os 4 e 5 não são tocados e ficam com o texto original (o programa tinha-os apagado; reparo do verificador confirmado).",
+    "DL 121/97, art. 1.º: nova redação do artigo 11.º (depois revogado pelo DL 209/98) e da epígrafe do n.º 1 e da alínea b) do n.º 1 do artigo 12.º; o texto atual do artigo 12.º já está certo, não se devolve.",
+    "DL 121/97, art. 2.º: suspensão do n.º 4 do artigo 14.º - em nao_aplicavel.",
+    "DL 167/98: repristinação - em nao_aplicavel.",
+    "DL 209/98, art. 9.º: revoga o artigo 11.º; o texto atual já tem (Revogado.), não se devolve. A revogação do DL 121/97 pelo mesmo artigo não desfaz o texto que ele deu ao artigo 12.º (nenhuma instrução o diz)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

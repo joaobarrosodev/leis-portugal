@@ -74,7 +74,25 @@ def rondas() -> list[tuple[Path, Path]]:
 # Legislativo Regional n.º 13/98/A e a Lei n.º 10/2012 (ver README, "Resultado da verificação
 # às cegas").
 DUVIDAS_RESOLVIDAS = {"pt:dre:430016:por"}
-DE_FORA = {"pt:dre:431229:por", "pt:dre:542458:por"}
+DE_FORA = {
+    "pt:dre:431229:por", "pt:dre:542458:por",
+    # Ronda 112: passaram às cegas, mas a segunda leitura (jurídica) encontrou um erro que a
+    # verificação letra a letra não apanha (README, "Ronda 112").
+    "pt:dre:314061:por",   # Decreto 47780: alterações do imposto de um só ano aplicadas como redação permanente
+    "pt:dre:488485:por",   # DL 205/2009: alterações ao ECDU (DL 448/79) aplicadas ao estatuto republicado em anexo
+    "pt:dre:674410:por",   # Portaria 367/72: as assinaturas do original desaparecem com a nova redação do art. 16.º
+    "pt:dre:551192:por",   # Portaria 719-C/2008: instrução sobre a numeração antiga do art. 9.º apaga o n.º 3 em vigor
+    "pt:dre:617289:por",   # Portaria 809-E/94: regime transitório de 1997 substitui o art. 73.º inteiro
+    "pt:dre:2336625:por",  # DN 18-A/2010: alínea c) do n.º 1 do art. 2.º revogada por um alterador fora da cadeia
+    "pt:dre:339835:por",   # DLR 28/2000/A: arts. 7.º e 16.º ficam com duas versões (blocos soltos do original)
+    "pt:dre:531186:por",   # Portaria 448-A/2001: segue a republicação e perde o n.º 4 do art. 10.º, que ninguém revogou
+    "pt:dre:302908:por",   # Portaria 572/92: a concessão foi extinta pela Portaria 56/2000
+    # Ronda 112: a resposta só desfaz uma regra mal aplicada e o texto fica igual ao original; uma
+    # consolidação sem mudança não se aplica (como o DL 349/89).
+    "pt:dre:161503:por", "pt:dre:510178:por", "pt:dre:520432:por", "pt:dre:667357:por",
+    # Verificado na ronda 6 e nunca aplicado; fora do lote da ronda 112 e sem a segunda leitura.
+    "pt:dre:606505:por",
+}
 
 # Consolidações refeitas que passaram às cegas mas não substituem a nossa anterior, por serem
 # menos fiéis ao original num ponto que a verificação não apanhou.

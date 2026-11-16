@@ -3,7 +3,8 @@ id: pt:dre:389381:por
 title: Decreto-Lei n.º 55/81
 original: data/portugal/decretos-leis/1981/decreto-lei-55-81.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:425924:por
@@ -69,11 +70,13 @@ Aos militares em comissão normal poderá ser concedida por uma só vez e num s�
 
 ###### Artigo 7.º
 
-1 - (Corpo do artigo.)
+1 - Os encargos decorrentes deste diploma passam a ser satisfeitos por verbas adequadas do orçamento do Estado-Maior-General das Forças Armadas.
 
 2 - Os encargos a que se refere o número anterior podem, excepcionalmente, ser satisfeitos pelo ramo das Forças Armadas a que o pessoal pertence, mediante despacho conjunto dos Ministros das Finanças e da Defesa Nacional, devidamente fundamentado.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 232/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2002-425924), publicado em 2002-11-02.
+
+> Alterado pelo/a [Decreto-Lei n.º 232/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2002-425924), publicado em 2002-11-02.
 
 ###### Artigo 8.º
 
