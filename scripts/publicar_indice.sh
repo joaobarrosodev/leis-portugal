@@ -31,5 +31,6 @@ fi
 
 .venv/bin/leis-portugal export
 PYTHONPATH=src .venv/bin/python -m rag.indice
-PYTHONPATH=src .venv/bin/python -m rag.dados publicar --enviar --versao "$(date +%F)"
+# --com-so-referencia: o índice tem a 2.ª Série só pela referência (16/11/2026), que a app 0.1.0 não conhece.
+PYTHONPATH=src .venv/bin/python -m rag.dados publicar --enviar --com-so-referencia --versao "$(date +%F)"
 echo "== fim $(date '+%F %T')"
