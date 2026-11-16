@@ -105,8 +105,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-14T10:34:43Z'
-  warnings:
-  - Sem texto eletrónico no CELLAR (A expressão não tem manifestação XHTML nem HTML.); o registo liga apenas ao PDF oficial.
+  warnings: []
   errors: []
 ---
 
