@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 42.º» entre os artigos 42.º e 44.º; usado o 43.º.'
 language: por
 version:
   kind: original
@@ -912,7 +913,7 @@ Quadro XXXVIII
 
 ### CAPÍTULO VII — Poluição Sonora
 
-###### Artigo 42.º — Licenças de ruído e medições acústicas
+###### Artigo 43.º — Licenças de ruído e medições acústicas
 
 Quadro XXXIX
 

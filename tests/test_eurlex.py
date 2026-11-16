@@ -4,7 +4,9 @@ import hashlib
 from datetime import date
 from typing import Any
 
+from conftest import record_dict
 from leis_portugal.domain.identifiers import eu_record_id, normalize_celex, parse_celex
+from leis_portugal.domain.record import LegalRecord
 from leis_portugal.infrastructure.markdown import read_markdown_record, render_markdown
 from leis_portugal.infrastructure.repository import Acervo
 from leis_portugal.services.eurlex import EurLexIngestion
@@ -192,6 +194,24 @@ def test_old_id_format_is_migrated_and_portuguese_links_kept(repo_root):
     assert {"type": "transposed_by", "target": "pt:dre:1:por", "label": None, "source": None} in migrated["relationships"]
 
 
+def test_act_whose_number_is_taken_goes_to_a_disambiguated_path(repo_root):
+    """O CELLAR dá a decisões do BCE o ano do CELEX e o número do JO (32006D0030 é a
+    2007/48/CE, mas fica 2006/48): o caminho canónico pode já ser de outro ato."""
+    acervo = Acervo(repo_root)
+    other = acervo.save(LegalRecord.from_dict(record_dict(
+        "eu:celex:32022L9999:por", document_type_label="Diretiva", official_number="2022/2555", identifiers={"celex": "32022L9999"},
+    )), "# Outra diretiva")
+
+    result = _ingestion(repo_root).ingest("32022L2555")
+    assert result.path.name == "diretiva-ue-2022-2555-32022l2555.md"
+    _, body = read_markdown_record(result.path)
+    assert "###### Artigo 1.º — Objeto" in body
+    assert read_markdown_record(other.path)[1].strip() == "# Outra diretiva"
+    again = _ingestion(repo_root).ingest("32022L2555")
+    assert again.path == result.path and not again.changed
+    assert validate_repository(Acervo(repo_root)) == []
+
+
 def test_ingest_dates_runs_in_parallel(repo_root):
     summary = _ingestion(repo_root).ingest_dates(date(2022, 12, 27), date(2022, 12, 27), types="L", workers=2)
     assert len(summary.results) + len(summary.failures) == 2
@@ -236,12 +256,12 @@ def test_case_law_celex_is_accepted():
 def test_plain_html_of_old_acts_in_english_without_portuguese():
     from leis_portugal.sources.eurlex.xhtml import CellarXhtmlMarkdownConverter
 
-    html = """<html><body><div id="banner"><p><a href="../../../editorial/legal_notice.htm">Avis juridique important</a></p></div>
+    html = b"""<html><body><div id="banner"><p><a href="../../../editorial/legal_notice.htm">Avis juridique important</a></p></div>
     <h1>31970D0376</h1><p><strong>70/376/EEC: Council Decision</strong><em>Official Journal L 170</em></p>
     <div id="TexteOnly"><p><txt_te><p>COUNCIL DECISION of 20 July 1970 on the conclusion of the Protocol</p>
     <p>THE COUNCIL OF THE EUROPEAN COMMUNITIES,</p><p>Having regard to the Treaty establishing the European Economic Community;</p>
     <p>HAS DECIDED AS FOLLOWS:</p><p>Article 1</p><p>The Protocol for the Accession of the United Arab Republic to GATT is hereby concluded.</p>
-    <p>Article 2</p><p>The President of the Council shall deposit the instrument.</p></txt_te></p></div></body></html>""".encode()
+    <p>Article 2</p><p>The President of the Council shall deposit the instrument.</p></txt_te></p></div></body></html>"""
     result = CellarXhtmlMarkdownConverter().convert(html)
     assert result.article_count == 2
     assert "###### Article 1" in result.markdown

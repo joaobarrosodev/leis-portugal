@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 44.º» entre os artigos 3.º e 5.º; usado o 4.º.'
 language: por
 version:
   kind: original
@@ -156,7 +157,7 @@ d) Todos aqueles que utilizando veículos automóveis ou reboques, neles confecc
 
 ### CAPÍTULO II — Disposições comuns
 
-###### Artigo 44.º — Cartão de vendedor ambulante
+###### Artigo 4.º — Cartão de vendedor ambulante
 
 1 - Compete à Câmara Municipal emitir e renovar o cartão de vendedor ambulante, cujo modelo oficial se encontra publicado em anexo ao [Decreto-Lei n.º 122/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043), de 8 de Maio.
 

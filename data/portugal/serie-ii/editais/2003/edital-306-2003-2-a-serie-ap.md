@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 28.º» entre os artigos 19.º e 21.º; usado o 20.º.'
 language: por
 version:
   kind: original
@@ -262,7 +263,7 @@ Os números dos edifícios são assinalados em placas ou pintados.
 
 ### CAPÍTULO IV — Sanções
 
-###### Artigo 28.º — Contra-ordenação
+###### Artigo 20.º — Contra-ordenação
 
 Constitui contra-ordenação punível com coima de 50 euros a 200 euros a infracção ao disposto no artigo 18.º do presente Regulamento.
 

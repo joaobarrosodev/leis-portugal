@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 90.º» entre os artigos 90.º e 92.º; usado o 91.º.'
 language: por
 version:
   kind: original
@@ -1248,7 +1249,7 @@ Bancos - 175$00 - 0,87 euros;
 
 Toucas - 175$00 - 0,87 euros.
 
-###### Artigo 90.º
+###### Artigo 91.º
 
 Pela utilização do salão das piscinas para fins sociais, culturais, educacionais e desportivos:
 

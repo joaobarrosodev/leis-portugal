@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 32.º» entre os artigos 30.º e 32.º; usado o 31.º.'
 language: por
 version:
   kind: original
@@ -548,7 +549,7 @@ Salvo disposição expressa em contrário, aplicam-se à venda ambulante as regr
 
 3 - O anúncio da hasta pública indica, nomeadamente, os lugares que se encontram disponíveis, a base de licitação e demais esclarecimentos necessários para o ato público.
 
-###### Artigo 32.º — Deveres especiais
+###### Artigo 31.º — Deveres especiais
 
 No exercício da sua atividade, os vendedores ambulantes são obrigados, para além do cumprimento das disposições gerais previstas no capítulo I do presente Regulamento, com as devidas adaptações, a:
 

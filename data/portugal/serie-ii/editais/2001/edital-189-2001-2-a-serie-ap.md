@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 22.º» entre os artigos 22.º e 24.º; usado o 23.º.'
 language: por
 version:
   kind: original
@@ -528,7 +529,7 @@ d) Quando não tenha sido possível alienar por qualquer das formas previstas no
 
 ### CAPÍTULO VIII — Da valorização dos bens
 
-###### Artigo 22.º — Regras gerais
+###### Artigo 23.º — Regras gerais
 
 1 - O activo imobilizado deve ser valorizado pelo custo de aquisição ou pelo custo de produção. Quando os respectivos elementos tiverem uma vida útil limitada, ficam sujeitos a uma amortização sistemática durante esse período.
 

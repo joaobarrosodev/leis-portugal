@@ -35,7 +35,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 21.º» entre os artigos 26.º e 28.º; usado o 27.º.'
 language: por
 version:
   kind: original
@@ -419,7 +420,7 @@ As infracções às disposições do presente diploma constituem contra-ordenaç
 
 2 - As coimas previstas neste diploma serão cobradas nos termos do artigo 88.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-###### Artigo 21.º — (Coimas)
+###### Artigo 27.º — (Coimas)
 
 As contra-ordenações ao disposto no presente diploma são punidas com as seguintes coimas:
 

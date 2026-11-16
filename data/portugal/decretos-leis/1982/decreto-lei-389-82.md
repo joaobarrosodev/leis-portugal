@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 33.º» entre os artigos 12.º e 14.º; usado o 13.º.'
 language: por
 version:
   kind: original
@@ -242,7 +243,7 @@ O conselho administrativo é o órgão responsável pela fiscalização da legal
 
 O conselho administrativo é composto pelo presidente da direcção ou pelo seu substituto, que presidirá, por 1 representante da Direcção-Geral da Contabilidade Pública e por 2 membros designados por despacho conjunto do Primeiro-Ministro e do Ministro de Estado e das Finanças e do Plano de entre funcionários de qualquer dos departamentos abrangidos pelos Serviços Sociais com competência para o desempenho dessas funções.
 
-###### Artigo 33.º — (Competência e funcionamento)
+###### Artigo 13.º — (Competência e funcionamento)
 
 1 - Compete ao conselho administrativo:
 

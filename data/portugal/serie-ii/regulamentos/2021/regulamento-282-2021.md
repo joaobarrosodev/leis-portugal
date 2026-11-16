@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 34.º» entre os artigos 34.º e 36.º; usado o 35.º.'
 language: por
 version:
   kind: original
@@ -322,7 +323,7 @@ Na construção de jazigos será dada preferência à aplicação de granitos da
 
 A construção de jazigos particulares que se alude o artigo 33.º devem concluir-se dentro do prazo fixado pela Junta de Freguesia.
 
-###### Artigo 34.º
+###### Artigo 35.º
 
 A inobservância do prazo fará incorrer o concessionário na coima de 100(euro) a 1000(euro), marcando-se novo prazo. Se este também não for cumprido, caduca a concessão com perdas das importâncias pagas revertendo para a freguesia todos os materiais encontrados no local da obra.
 

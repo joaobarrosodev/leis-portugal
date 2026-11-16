@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 45.º» entre os artigos 45.º e 47.º; usado o 46.º.'
 language: por
 version:
   kind: original
@@ -630,7 +631,7 @@ e) Ter acesso ao livro de reclamações, a fim de nele formular algum reparo;
 
 f) Ser-lhes assegurada a necessária privacidade em qualquer das modalidades de utilização.
 
-###### Artigo 45.º — Deveres dos Utentes
+###### Artigo 46.º — Deveres dos Utentes
 
 1 - Durante a sua estadia no Parque de Campismo e Caravanismo, os campistas devem pautar o seu comportamento pelas regras da boa vizinhança.
 

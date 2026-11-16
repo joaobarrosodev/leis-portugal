@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 18.º» entre os artigos 19.º e 21.º; usado o 20.º.'
 language: por
 version:
   kind: original
@@ -466,7 +467,7 @@ e) Documento relativo ao número de postos de trabalho, com carácter de perman�
 
 Findo o prazo a que se refere o n.º 1 do artigo 17.º, o serviço por onde corre o processo de concurso apresentará à Câmara Municipal, no prazo de 20 dias úteis, um relatório fundamentado com a lista provisória de classificação ordenada dos candidatos para efeitos de atribuição da licença, de acordo com os critérios de classificação fixados.
 
-###### Artigo 18.º — Critérios de atribuição de licenças
+###### Artigo 20.º — Critérios de atribuição de licenças
 
 1 - Na classificação dos concorrentes e na atribuição de licenças serão tidos em consideração os seguintes critérios, por ordem decrescente de importância:
 

@@ -1,138 +1,56 @@
-{"path": "data/european_union/directives/1968/diretiva-ue-1968-193.md", "posicao": 7, "antes": 5, "lido": 5, "depois": 7, "provavel": 6, "tipo": "repetido"}
-{"path": "data/european_union/directives/2006/diretiva-ue-2006-112.md", "posicao": 259, "antes": 290, "lido": 292, "depois": 292, "provavel": 291, "tipo": "repetido"}
-{"path": "data/european_union/regulations/1962/regulamento-ue-1962-31.md", "posicao": 66, "antes": 65, "lido": 65, "depois": 67, "provavel": 66, "tipo": "repetido"}
-{"path": "data/european_union/regulations/1962/regulamento-ue-1962-31.md", "posicao": 163, "antes": 15, "lido": 17, "depois": 17, "provavel": 16, "tipo": "repetido"}
-{"path": "data/european_union/regulations/2001/regulamento-ue-2001-1852.md", "posicao": 1, "antes": 1, "lido": 3, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/european_union/regulations/2001/regulamento-ue-2001-575.md", "posicao": 1, "antes": 1, "lido": 3, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 17, "antes": 13, "lido": 9, "depois": 15, "provavel": 14, "tipo": "gralha"}
-{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 33, "antes": 7, "lido": 13, "depois": 9, "provavel": 8, "tipo": "gralha"}
-{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 44, "antes": 10, "lido": 8, "depois": 12, "provavel": 11, "tipo": "gralha"}
-{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 56, "antes": 8, "lido": 6, "depois": 10, "provavel": 9, "tipo": "gralha"}
-{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 84, "antes": 15, "lido": 12, "depois": 17, "provavel": 16, "tipo": "gralha"}
-{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 93, "antes": 6, "lido": 15, "depois": 8, "provavel": 7, "tipo": "gralha"}
-{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 97, "antes": 5, "lido": 5, "depois": 7, "provavel": 6, "tipo": "repetido"}
-{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 120, "antes": 8, "lido": 11, "depois": 10, "provavel": 9, "tipo": "gralha"}
-{"path": "data/european_union/regulations/2009/regulamento-ue-2009-663.md", "posicao": 21, "antes": 21, "lido": 21, "depois": 23, "provavel": 22, "tipo": "repetido"}
-{"path": "data/european_union/regulations/2018/regulamento-ue-2018-2066.md", "posicao": 58, "antes": 56, "lido": 56, "depois": 58, "provavel": 57, "tipo": "repetido"}
-{"path": "data/portugal/avisos/2004/aviso-176-2004.md", "posicao": 3, "antes": 11, "lido": 13, "depois": 13, "provavel": 12, "tipo": "repetido"}
-{"path": "data/portugal/avisos/2007/aviso-39-2007.md", "posicao": 2, "antes": 8, "lido": 22, "depois": 10, "provavel": 9, "tipo": "gralha"}
-{"path": "data/portugal/decretos-leis/1940/decreto-lei-31095.md", "posicao": 546, "antes": 525, "lido": 520, "depois": 527, "provavel": 526, "tipo": "gralha"}
-{"path": "data/portugal/decretos-leis/1979/decreto-lei-465-a-79.md", "posicao": 21, "antes": 21, "lido": 23, "depois": 23, "provavel": 22, "tipo": "repetido"}
-{"path": "data/portugal/decretos-leis/1981/decreto-lei-268-81.md", "posicao": 39, "antes": 39, "lido": 44, "depois": 41, "provavel": 40, "tipo": "gralha"}
-{"path": "data/portugal/decretos-leis/1982/decreto-lei-389-82.md", "posicao": 12, "antes": 12, "lido": 33, "depois": 14, "provavel": 13, "tipo": "gralha"}
-{"path": "data/portugal/decretos-leis/1986/decreto-lei-354-86.md", "posicao": 25, "antes": 26, "lido": 21, "depois": 28, "provavel": 27, "tipo": "gralha"}
-{"path": "data/portugal/decretos-leis/1986/decreto-lei-403-86.md", "posicao": 88, "antes": 82, "lido": 81, "depois": 84, "provavel": 83, "tipo": "troca"}
-{"path": "data/portugal/decretos-leis/1986/decreto-lei-403-86.md", "posicao": 89, "antes": 81, "lido": 84, "depois": 83, "provavel": 82, "tipo": "troca"}
-{"path": "data/portugal/decretos-leis/1988/decreto-lei-337-88.md", "posicao": 18, "antes": 18, "lido": 12, "depois": 20, "provavel": 19, "tipo": "gralha"}
-{"path": "data/portugal/decretos-leis/1990/decreto-lei-202-90.md", "posicao": 8, "antes": 8, "lido": 90, "depois": 10, "provavel": 9, "tipo": "gralha"}
-{"path": "data/portugal/decretos-leis/1992/decreto-lei-157-92.md", "posicao": 14, "antes": 350, "lido": 251, "depois": 352, "provavel": 351, "tipo": "gralha"}
-{"path": "data/portugal/decretos-leis/1995/decreto-lei-316-95.md", "posicao": 2, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido"}
-{"path": "data/portugal/decretos-leis/2005/decreto-lei-152-2005.md", "posicao": 8, "antes": 9, "lido": 8, "depois": 11, "provavel": 10, "tipo": "troca"}
-{"path": "data/portugal/decretos-leis/2005/decreto-lei-152-2005.md", "posicao": 9, "antes": 8, "lido": 11, "depois": 10, "provavel": 9, "tipo": "troca"}
-{"path": "data/portugal/decretos-regulamentares/1989/decreto-regulamentar-26-89.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/decretos/1954/decreto-39987.md", "posicao": 5, "antes": 2, "lido": 8, "depois": 4, "provavel": 3, "tipo": "gralha"}
-{"path": "data/portugal/decretos/1954/decreto-39987.md", "posicao": 45, "antes": 42, "lido": 48, "depois": 44, "provavel": 43, "tipo": "gralha"}
-{"path": "data/portugal/despachos-normativos/1994/despacho-normativo-681-94.md", "posicao": 17, "antes": 17, "lido": 19, "depois": 19, "provavel": 18, "tipo": "repetido"}
-{"path": "data/portugal/leis/1980/lei-39-80.md", "posicao": 23, "antes": 23, "lido": 91, "depois": 25, "provavel": 24, "tipo": "gralha"}
-{"path": "data/portugal/leis/1992/lei-30-c-92.md", "posicao": 30, "antes": 23, "lido": 10, "depois": 25, "provavel": 24, "tipo": "gralha"}
-{"path": "data/portugal/leis/1992/lei-30-c-92.md", "posicao": 78, "antes": 45, "lido": 43, "depois": 47, "provavel": 46, "tipo": "gralha"}
-{"path": "data/portugal/leis/1993/lei-75-93.md", "posicao": 65, "antes": 44, "lido": 52, "depois": 46, "provavel": 45, "tipo": "gralha"}
-{"path": "data/portugal/leis/1994/lei-39-b-94.md", "posicao": 51, "antes": 5, "lido": 4, "depois": 7, "provavel": 6, "tipo": "gralha"}
-{"path": "data/portugal/leis/1995/lei-35-95.md", "posicao": 3, "antes": 60, "lido": 123, "depois": 62, "provavel": 61, "tipo": "gralha"}
-{"path": "data/portugal/leis/2016/lei-26-2016.md", "posicao": 45, "antes": 47, "lido": 46, "depois": 49, "provavel": 48, "tipo": "gralha"}
-{"path": "data/portugal/outros/acordao/1992/acordao-285-92.md", "posicao": 6, "antes": 6, "lido": 28, "depois": 8, "provavel": 7, "tipo": "gralha"}
-{"path": "data/portugal/outros/acordao/1994/acordao-431-94.md", "posicao": 1, "antes": 78, "lido": 388, "depois": 80, "provavel": 79, "tipo": "gralha"}
-{"path": "data/portugal/portarias/2010/portaria-1234-2010.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/resolucoes-assembleia-republica/1991/resolucao-assembleia-republica-34-91.md", "posicao": 134, "antes": 15, "lido": 11, "depois": 17, "provavel": 16, "tipo": "gralha"}
-{"path": "data/portugal/resolucoes-assembleia-republica/1992/resolucao-assembleia-republica-37-92.md", "posicao": 6, "antes": 25, "lido": 4, "depois": 27, "provavel": 26, "tipo": "gralha"}
-{"path": "data/portugal/resolucoes-assembleia-republica/1998/resolucao-assembleia-republica-9-98.md", "posicao": 13, "antes": 13, "lido": 13, "depois": 15, "provavel": 14, "tipo": "repetido"}
-{"path": "data/portugal/resolucoes-assembleia-republica/2015/resolucao-assembleia-republica-40-a-2015.md", "posicao": 472, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido"}
-{"path": "data/portugal/resolucoes-assembleia-republica/2015/resolucao-assembleia-republica-54-2015.md", "posicao": 438, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido"}
-{"path": "data/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-104-95.md", "posicao": 36, "antes": 36, "lido": 45, "depois": 38, "provavel": 37, "tipo": "gralha"}
-{"path": "data/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-52-95.md", "posicao": 18, "antes": 18, "lido": 9, "depois": 20, "provavel": 19, "tipo": "gralha"}
-{"path": "data/portugal/resolucoes-conselho-ministros/1999/resolucao-conselho-ministros-25-99.md", "posicao": 60, "antes": 60, "lido": 62, "depois": 62, "provavel": 61, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/deliberacoes/2003/deliberacao-363-2003.md", "posicao": 7, "antes": 7, "lido": 5, "depois": 9, "provavel": 8, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/despachos/2022/despacho-3919-2022.md", "posicao": 6, "antes": 22, "lido": 22, "depois": 24, "provavel": 23, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2000/edital-194-2000-2-a-serie-ap.md", "posicao": 55, "antes": 55, "lido": 55, "depois": 57, "provavel": 56, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2000/edital-287-2000-2-a-serie-ap.md", "posicao": 7, "antes": 8, "lido": 8, "depois": 10, "provavel": 9, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2000/edital-419-99-2-a-serie-ap.md", "posicao": 52, "antes": 53, "lido": 64, "depois": 55, "provavel": 54, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2000/edital-484-2000-2-a-serie-ap.md", "posicao": 19, "antes": 19, "lido": 10, "depois": 21, "provavel": 20, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2001/edital-123-2001-2-a-serie-ap.md", "posicao": 43, "antes": 43, "lido": 34, "depois": 45, "provavel": 44, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2001/edital-163-2001-2-a-serie-ap.md", "posicao": 19, "antes": 19, "lido": 18, "depois": 21, "provavel": 20, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2001/edital-189-2001-2-a-serie-ap.md", "posicao": 22, "antes": 22, "lido": 22, "depois": 24, "provavel": 23, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2001/edital-231-2001-2-a-serie-ap.md", "posicao": 85, "antes": 85, "lido": 88, "depois": 87, "provavel": 86, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2001/edital-328-2001-2-a-serie-ap.md", "posicao": 19, "antes": 19, "lido": 10, "depois": 21, "provavel": 20, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2001/edital-45-2001-2-a-serie-ap.md", "posicao": 104, "antes": 90, "lido": 90, "depois": 92, "provavel": 91, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2001/edital-450-2001-2-a-serie-ap.md", "posicao": 32, "antes": 32, "lido": 35, "depois": 34, "provavel": 33, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2001/edital-491-2001-2-a-serie-ap.md", "posicao": 38, "antes": 38, "lido": 49, "depois": 40, "provavel": 39, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2002/edital-322-2002-2-a-serie-ap.md", "posicao": 44, "antes": 45, "lido": 41, "depois": 47, "provavel": 46, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2002/edital-322-2002-2-a-serie-ap.md", "posicao": 70, "antes": 71, "lido": 71, "depois": 73, "provavel": 72, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2002/edital-323-2002-2-a-serie-ap.md", "posicao": 1, "antes": 1, "lido": 3, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2002/edital-329-2002-2-a-serie-ap.md", "posicao": 104, "antes": 103, "lido": 101, "depois": 105, "provavel": 104, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2002/edital-610-2002-2-a-serie-ap.md", "posicao": 11, "antes": 12, "lido": 93, "depois": 14, "provavel": 13, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2002/edital-73-2002-2-a-serie-ap.md", "posicao": 32, "antes": 32, "lido": 35, "depois": 34, "provavel": 33, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-118-2003-2-a-serie-ap.md", "posicao": 8, "antes": 8, "lido": 90, "depois": 10, "provavel": 9, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-119-2003-2-a-serie-ap.md", "posicao": 37, "antes": 37, "lido": 39, "depois": 39, "provavel": 38, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-214-2003-2-a-serie-ap.md", "posicao": 48, "antes": 48, "lido": 489, "depois": 50, "provavel": 49, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-306-2003-2-a-serie-ap.md", "posicao": 18, "antes": 19, "lido": 28, "depois": 21, "provavel": 20, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-392-2003-2-a-serie-ap.md", "posicao": 17, "antes": 17, "lido": 19, "depois": 19, "provavel": 18, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-392-2003-2-a-serie-ap.md", "posicao": 31, "antes": 31, "lido": 37, "depois": 33, "provavel": 32, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-449-2003-2-a-serie-ap.md", "posicao": 29, "antes": 29, "lido": 39, "depois": 31, "provavel": 30, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-643-2003-2-a-serie-ap.md", "posicao": 4, "antes": 25, "lido": 2, "depois": 27, "provavel": 26, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-713-2003-2-a-serie-ap.md", "posicao": 24, "antes": 24, "lido": 23, "depois": 26, "provavel": 25, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-75-2003-2-a-serie-ap.md", "posicao": 53, "antes": 54, "lido": 56, "depois": 56, "provavel": 55, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-793-2003-2-a-serie-ap.md", "posicao": 5, "antes": 5, "lido": 3, "depois": 7, "provavel": 6, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-899-2003-2-a-serie-ap.md", "posicao": 24, "antes": 24, "lido": 26, "depois": 26, "provavel": 25, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-899-2003-2-a-serie-ap.md", "posicao": 44, "antes": 44, "lido": 46, "depois": 46, "provavel": 45, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2003/edital-899-2003-2-a-serie-ap.md", "posicao": 49, "antes": 49, "lido": 60, "depois": 51, "provavel": 50, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2004/edital-50-2004-2-a-serie-ap.md", "posicao": 125, "antes": 125, "lido": 125, "depois": 127, "provavel": 126, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2004/edital-8-2004-2-a-serie-ap.md", "posicao": 4, "antes": 25, "lido": 2, "depois": 27, "provavel": 26, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2005/edital-303-2005-2-a-serie-ap.md", "posicao": 10, "antes": 5, "lido": 5, "depois": 7, "provavel": 6, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2006/edital-491-2006-ap.md", "posicao": 19, "antes": 19, "lido": 2, "depois": 21, "provavel": 20, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2007/edital-120-i-2007.md", "posicao": 31, "antes": 21, "lido": 21, "depois": 23, "provavel": 22, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2009/edital-514-2009.md", "posicao": 40, "antes": 40, "lido": 42, "depois": 42, "provavel": 41, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2010/edital-159-2010.md", "posicao": 1, "antes": 1, "lido": 3, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2010/edital-209-2010.md", "posicao": 12, "antes": 12, "lido": 12, "depois": 14, "provavel": 13, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2010/edital-462-2010.md", "posicao": 79, "antes": 42, "lido": 42, "depois": 44, "provavel": 43, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2011/edital-969-2011.md", "posicao": 80, "antes": 16, "lido": 7, "depois": 18, "provavel": 17, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/editais/2012/edital-76-2012.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2021/edital-970-2021.md", "posicao": 46, "antes": 46, "lido": 46, "depois": 48, "provavel": 47, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/editais/2023/edital-113-2023.md", "posicao": 2, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos-cmvm/2001/regulamento-cmvm-37-2000.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2001/regulamento-3-2001-ap.md", "posicao": 3, "antes": 3, "lido": 44, "depois": 5, "provavel": 4, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/regulamentos/2008/regulamento-30-2008.md", "posicao": 4, "antes": 4, "lido": 4, "depois": 6, "provavel": 5, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2009/regulamento-1-2009.md", "posicao": 45, "antes": 45, "lido": 45, "depois": 47, "provavel": 46, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2009/regulamento-250-2009.md", "posicao": 6, "antes": 6, "lido": 6, "depois": 8, "provavel": 7, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2009/regulamento-491-2009.md", "posicao": 12, "antes": 12, "lido": 12, "depois": 14, "provavel": 13, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2009/regulamento-503-2009.md", "posicao": 21, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2009/regulamento-80-2009.md", "posicao": 45, "antes": 45, "lido": 45, "depois": 47, "provavel": 46, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2010/regulamento-171-2010.md", "posicao": 6, "antes": 6, "lido": 6, "depois": 8, "provavel": 7, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2010/regulamento-172-2010.md", "posicao": 6, "antes": 6, "lido": 6, "depois": 8, "provavel": 7, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2010/regulamento-661-2010.md", "posicao": 321, "antes": 322, "lido": 236, "depois": 324, "provavel": 323, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/regulamentos/2011/regulamento-277-2011.md", "posicao": 79, "antes": 42, "lido": 42, "depois": 44, "provavel": 43, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2011/regulamento-87-2011.md", "posicao": 5, "antes": 2, "lido": 21, "depois": 4, "provavel": 3, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/regulamentos/2013/regulamento-160-2013.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-244-2015.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-520-2015.md", "posicao": 2, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "troca"}
-{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-520-2015.md", "posicao": 3, "antes": 1, "lido": 3, "depois": 3, "provavel": 2, "tipo": "troca"}
-{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-520-2015.md", "posicao": 8, "antes": 5, "lido": 5, "depois": 7, "provavel": 6, "tipo": "troca"}
-{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-520-2015.md", "posicao": 9, "antes": 5, "lido": 7, "depois": 7, "provavel": 6, "tipo": "troca"}
-{"path": "data/portugal/serie-ii/regulamentos/2020/regulamento-392-2020.md", "posicao": 22, "antes": 22, "lido": 22, "depois": 24, "provavel": 23, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2021/regulamento-282-2021.md", "posicao": 34, "antes": 34, "lido": 34, "depois": 36, "provavel": 35, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2023/regulamento-966-2023.md", "posicao": 30, "antes": 30, "lido": 32, "depois": 32, "provavel": 31, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2024/regulamento-1135-2024.md", "posicao": 15, "antes": 41, "lido": 2, "depois": 43, "provavel": 42, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/regulamentos/2024/regulamento-311-2024.md", "posicao": 11, "antes": 14, "lido": 2, "depois": 16, "provavel": 15, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/regulamentos/2024/regulamento-422-2024.md", "posicao": 15, "antes": 78, "lido": 78, "depois": 80, "provavel": 79, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2024/regulamento-77-2024.md", "posicao": 3, "antes": 3, "lido": 1, "depois": 5, "provavel": 4, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/regulamentos/2024/regulamento-774-2024.md", "posicao": 4, "antes": 4, "lido": 3, "depois": 6, "provavel": 5, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/regulamentos/2025/regulamento-1047-2025.md", "posicao": 12, "antes": 2, "lido": 1, "depois": 4, "provavel": 3, "tipo": "gralha"}
-{"path": "data/portugal/serie-ii/regulamentos/2025/regulamento-1308-2025.md", "posicao": 44, "antes": 44, "lido": 44, "depois": 46, "provavel": 45, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2025/regulamento-403-2025.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2025/regulamento-407-2025.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2025/regulamento-770-2025.md", "posicao": 24, "antes": 24, "lido": 24, "depois": 26, "provavel": 25, "tipo": "repetido"}
-{"path": "data/portugal/serie-ii/regulamentos/2025/regulamento-89-2025.md", "posicao": 12, "antes": 86, "lido": 187, "depois": 88, "provavel": 87, "tipo": "gralha"}
-{"path": "data/regional/acores/decretos-legislativos-regionais/1988/decreto-legislativo-regional-16-88-a.md", "posicao": 19, "antes": 22, "lido": 2, "depois": 24, "provavel": 23, "tipo": "gralha"}
-{"path": "data/regional/acores/decretos-legislativos-regionais/2005/decreto-legislativo-regional-12-2005-a.md", "posicao": 63, "antes": 63, "lido": 74, "depois": 65, "provavel": 64, "tipo": "gralha"}
-{"path": "data/regional/madeira/decretos-legislativos-regionais/1993/decreto-legislativo-regional-2-93-m.md", "posicao": 36, "antes": 44, "lido": 23, "depois": 46, "provavel": 45, "tipo": "gralha"}
-{"path": "data/regional/madeira/decretos-regulamentares-regionais/1984/decreto-regulamentar-regional-7-84-m.md", "posicao": 55, "antes": 55, "lido": 76, "depois": 57, "provavel": 56, "tipo": "gralha"}
-{"path": "data/regional/madeira/decretos-regulamentares-regionais/2005/decreto-regulamentar-regional-2-2005-m.md", "posicao": 20, "antes": 20, "lido": 212, "depois": 22, "provavel": 21, "tipo": "gralha"}
+{"path": "data/european_union/regulations/2001/regulamento-ue-2001-1852.md", "posicao": 1, "antes": 1, "lido": 3, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "UE (EUR-Lex, fora desta correção): sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/european_union/regulations/2001/regulamento-ue-2001-575.md", "posicao": 1, "antes": 1, "lido": 3, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "UE (EUR-Lex, fora desta correção): sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 17, "antes": 13, "lido": 9, "depois": 15, "provavel": 14, "tipo": "gralha", "motivo": "UE (EUR-Lex, fora desta correção): a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 33, "antes": 7, "lido": 13, "depois": 9, "provavel": 8, "tipo": "gralha", "motivo": "UE (EUR-Lex, fora desta correção): o 8.º já existe na mesma parte"}
+{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 44, "antes": 10, "lido": 8, "depois": 12, "provavel": 11, "tipo": "gralha", "motivo": "UE (EUR-Lex, fora desta correção): sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 56, "antes": 8, "lido": 6, "depois": 10, "provavel": 9, "tipo": "gralha", "motivo": "UE (EUR-Lex, fora desta correção): o 9.º já existe na mesma parte"}
+{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 84, "antes": 15, "lido": 12, "depois": 17, "provavel": 16, "tipo": "gralha", "motivo": "UE (EUR-Lex, fora desta correção): o 16.º já existe na mesma parte"}
+{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 93, "antes": 6, "lido": 15, "depois": 8, "provavel": 7, "tipo": "gralha", "motivo": "UE (EUR-Lex, fora desta correção): o 7.º já existe na mesma parte"}
+{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 97, "antes": 5, "lido": 5, "depois": 7, "provavel": 6, "tipo": "repetido", "motivo": "UE (EUR-Lex, fora desta correção): o 6.º já existe na mesma parte"}
+{"path": "data/european_union/regulations/2003/regulamento-ue-2003-1882.md", "posicao": 120, "antes": 8, "lido": 11, "depois": 10, "provavel": 9, "tipo": "gralha", "motivo": "UE (EUR-Lex, fora desta correção): o 9.º já existe na mesma parte"}
+{"path": "data/portugal/avisos/2004/aviso-176-2004.md", "posicao": 3, "antes": 11, "lido": 13, "depois": 13, "provavel": 12, "tipo": "repetido", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/decretos-leis/1986/decreto-lei-403-86.md", "posicao": 88, "antes": 82, "lido": 81, "depois": 84, "provavel": 83, "tipo": "troca", "motivo": "o 83.º já existe na mesma parte"}
+{"path": "data/portugal/decretos-leis/1986/decreto-lei-403-86.md", "posicao": 89, "antes": 81, "lido": 84, "depois": 83, "provavel": 82, "tipo": "troca", "motivo": "o 82.º já existe na mesma parte"}
+{"path": "data/portugal/decretos-leis/1995/decreto-lei-316-95.md", "posicao": 2, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido", "motivo": "o 3.º já existe na mesma parte"}
+{"path": "data/portugal/decretos-leis/2005/decreto-lei-152-2005.md", "posicao": 8, "antes": 9, "lido": 8, "depois": 11, "provavel": 10, "tipo": "troca", "motivo": "o 10.º já existe na mesma parte"}
+{"path": "data/portugal/decretos-leis/2005/decreto-lei-152-2005.md", "posicao": 9, "antes": 8, "lido": 11, "depois": 10, "provavel": 9, "tipo": "troca", "motivo": "o 9.º já existe na mesma parte"}
+{"path": "data/portugal/decretos-regulamentares/1989/decreto-regulamentar-26-89.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/leis/1980/lei-39-80.md", "posicao": 23, "antes": 23, "lido": 91, "depois": 25, "provavel": 24, "tipo": "gralha", "motivo": "epígrafe diferente da dos vizinhos: provavelmente um artigo do ato de alteração"}
+{"path": "data/portugal/leis/1992/lei-30-c-92.md", "posicao": 30, "antes": 23, "lido": 10, "depois": 25, "provavel": 24, "tipo": "gralha", "motivo": "o 24.º já existe na mesma parte"}
+{"path": "data/portugal/leis/1992/lei-30-c-92.md", "posicao": 78, "antes": 45, "lido": 43, "depois": 47, "provavel": 46, "tipo": "gralha", "motivo": "o 46.º já existe na mesma parte"}
+{"path": "data/portugal/leis/1993/lei-75-93.md", "posicao": 65, "antes": 44, "lido": 52, "depois": 46, "provavel": 45, "tipo": "gralha", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/leis/1994/lei-39-b-94.md", "posicao": 51, "antes": 5, "lido": 4, "depois": 7, "provavel": 6, "tipo": "gralha", "motivo": "o 6.º já existe na mesma parte"}
+{"path": "data/portugal/leis/1995/lei-35-95.md", "posicao": 3, "antes": 60, "lido": 123, "depois": 62, "provavel": 61, "tipo": "gralha", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/outros/acordao/1992/acordao-285-92.md", "posicao": 6, "antes": 6, "lido": 28, "depois": 8, "provavel": 7, "tipo": "gralha", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/outros/acordao/1994/acordao-431-94.md", "posicao": 1, "antes": 78, "lido": 388, "depois": 80, "provavel": 79, "tipo": "gralha", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/portarias/2010/portaria-1234-2010.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/resolucoes-assembleia-republica/1991/resolucao-assembleia-republica-34-91.md", "posicao": 134, "antes": 15, "lido": 11, "depois": 17, "provavel": 16, "tipo": "gralha", "motivo": "o 16.º já existe na mesma parte"}
+{"path": "data/portugal/resolucoes-assembleia-republica/1992/resolucao-assembleia-republica-37-92.md", "posicao": 6, "antes": 25, "lido": 4, "depois": 27, "provavel": 26, "tipo": "gralha", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/resolucoes-assembleia-republica/2015/resolucao-assembleia-republica-40-a-2015.md", "posicao": 472, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/resolucoes-assembleia-republica/2015/resolucao-assembleia-republica-54-2015.md", "posicao": 438, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/despachos/2022/despacho-3919-2022.md", "posicao": 6, "antes": 22, "lido": 22, "depois": 24, "provavel": 23, "tipo": "repetido", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/serie-ii/editais/2003/edital-643-2003-2-a-serie-ap.md", "posicao": 4, "antes": 25, "lido": 2, "depois": 27, "provavel": 26, "tipo": "gralha", "motivo": "epígrafe diferente da dos vizinhos: provavelmente um artigo do ato de alteração"}
+{"path": "data/portugal/serie-ii/editais/2004/edital-8-2004-2-a-serie-ap.md", "posicao": 4, "antes": 25, "lido": 2, "depois": 27, "provavel": 26, "tipo": "gralha", "motivo": "epígrafe diferente da dos vizinhos: provavelmente um artigo do ato de alteração"}
+{"path": "data/portugal/serie-ii/editais/2011/edital-969-2011.md", "posicao": 79, "antes": 16, "lido": 7, "depois": 18, "provavel": 17, "tipo": "gralha", "motivo": "o mesmo título aparece igual noutro sítio do registo"}
+{"path": "data/portugal/serie-ii/editais/2012/edital-76-2012.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/editais/2021/edital-970-2021.md", "posicao": 46, "antes": 46, "lido": 46, "depois": 48, "provavel": 47, "tipo": "repetido", "motivo": "epígrafe diferente da dos vizinhos: provavelmente um artigo do ato de alteração"}
+{"path": "data/portugal/serie-ii/editais/2023/edital-113-2023.md", "posicao": 2, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido", "motivo": "o 3.º já existe na mesma parte"}
+{"path": "data/portugal/serie-ii/regulamentos-cmvm/2001/regulamento-cmvm-37-2000.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/regulamentos/2008/regulamento-30-2008.md", "posicao": 4, "antes": 4, "lido": 4, "depois": 6, "provavel": 5, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/regulamentos/2009/regulamento-503-2009.md", "posicao": 21, "antes": 2, "lido": 2, "depois": 4, "provavel": 3, "tipo": "repetido", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/serie-ii/regulamentos/2011/regulamento-87-2011.md", "posicao": 5, "antes": 2, "lido": 21, "depois": 4, "provavel": 3, "tipo": "gralha", "motivo": "o 3.º já existe na mesma parte"}
+{"path": "data/portugal/serie-ii/regulamentos/2013/regulamento-160-2013.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-244-2015.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-520-2015.md", "posicao": 2, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "troca", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-520-2015.md", "posicao": 3, "antes": 1, "lido": 3, "depois": 3, "provavel": 2, "tipo": "troca", "motivo": "o 2.º já existe na mesma parte"}
+{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-520-2015.md", "posicao": 8, "antes": 5, "lido": 5, "depois": 7, "provavel": 6, "tipo": "troca", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/serie-ii/regulamentos/2015/regulamento-520-2015.md", "posicao": 9, "antes": 5, "lido": 7, "depois": 7, "provavel": 6, "tipo": "troca", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/portugal/serie-ii/regulamentos/2024/regulamento-1135-2024.md", "posicao": 15, "antes": 41, "lido": 2, "depois": 43, "provavel": 42, "tipo": "gralha", "motivo": "epígrafe de um artigo de um ato de alteração"}
+{"path": "data/portugal/serie-ii/regulamentos/2024/regulamento-311-2024.md", "posicao": 11, "antes": 14, "lido": 2, "depois": 16, "provavel": 15, "tipo": "gralha", "motivo": "epígrafe de um artigo de um ato de alteração"}
+{"path": "data/portugal/serie-ii/regulamentos/2024/regulamento-77-2024.md", "posicao": 3, "antes": 3, "lido": 1, "depois": 5, "provavel": 4, "tipo": "gralha", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/regulamentos/2024/regulamento-774-2024.md", "posicao": 4, "antes": 4, "lido": 3, "depois": 6, "provavel": 5, "tipo": "gralha", "motivo": "o 5.º já existe na mesma parte"}
+{"path": "data/portugal/serie-ii/regulamentos/2025/regulamento-1047-2025.md", "posicao": 12, "antes": 2, "lido": 1, "depois": 4, "provavel": 3, "tipo": "gralha", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/regulamentos/2025/regulamento-403-2025.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/portugal/serie-ii/regulamentos/2025/regulamento-407-2025.md", "posicao": 1, "antes": 1, "lido": 1, "depois": 3, "provavel": 2, "tipo": "repetido", "motivo": "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"}
+{"path": "data/regional/acores/decretos-legislativos-regionais/1988/decreto-legislativo-regional-16-88-a.md", "posicao": 19, "antes": 22, "lido": 2, "depois": 24, "provavel": 23, "tipo": "gralha", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}
+{"path": "data/regional/madeira/decretos-legislativos-regionais/1993/decreto-legislativo-regional-2-93-m.md", "posicao": 36, "antes": 44, "lido": 23, "depois": 46, "provavel": 45, "tipo": "gralha", "motivo": "sem dois vizinhos seguidos de cada lado: artigos citados de outros diplomas ou números trocados"}

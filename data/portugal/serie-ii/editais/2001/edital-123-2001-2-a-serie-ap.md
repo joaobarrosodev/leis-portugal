@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 34.º» entre os artigos 43.º e 45.º; usado o 44.º.'
 language: por
 version:
   kind: original
@@ -570,7 +571,7 @@ Os serviços responsáveis da Câmara Municipal procederão à comunicação par
 
 #### SECÇÃO I — Das formalidades
 
-###### Artigo 34.º — Concessão
+###### Artigo 44.º — Concessão
 
 1 - Os terrenos dos cemitérios podem, mediante autorização do presidente da Câmara Municipal, ser objecto de concessões de uso privativo, para instalação de sepulturas perpétuas e para a construção de jazigos particulares.
 

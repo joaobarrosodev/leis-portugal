@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 3.º» entre os artigos 1.º e 3.º; usado o 2.º.'
 language: por
 version:
   kind: original
@@ -106,7 +107,7 @@ Regimento da Assembleia de Freguesia
 
 2 - A Assembleia de Freguesia tem competência regulamentar própria nos limites da Constituição, das leis e dos regulamentos emanados das autarquias de grau superior ou das autarquias com poder tutelar.
 
-###### Artigo 3.º — Duração
+###### Artigo 2.º — Duração
 
 1 - O mandato dos membros da Assembleia inicia-se com a sessão destinada especialmente à verificação de poderes e cessa com igual sessão posterior à eleição subsequente, sem prejuízo de cessão por outras causas previstas na lei.
 

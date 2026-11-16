@@ -25,7 +25,9 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 41.º» entre os artigos 45.º e 47.º; usado o 46.º.'
+- 'Numeração corrigida: o DRE escreve «Artigo 71.º» entre os artigos 71.º e 73.º; usado o 72.º.'
 language: por
 version:
   kind: original
@@ -552,7 +554,7 @@ Os jazigos que vierem à posse da Junta de Freguesia em virtude de caducidade da
 
 ### CAPÍTULO X — Sepulturas e jazigos abandonados
 
-###### Artigo 41.º — Conceito
+###### Artigo 46.º — Conceito
 
 1 - Consideram-se abandonados, podendo declarar-se prescritos a favor da autarquia, os jazigos e sepulturas perpétuas cujos concessionários não sejam conhecidos ou residam em parte incerta e não exerçam os seus direitos por período superior a 10 anos, nem se apresentem a reivindicá-los dentro do prazo de 60 dias depois de citados por meio de éditos publicados em dois jornais mais lidos na área da freguesia de Tramaga e afixados nos lugares de estilo.
 
@@ -768,7 +770,7 @@ A fiscalização do cumprimento do presente Regulamento cabe à Junta de Fregues
 
 A competência para determinar a instrução do processo de contra-ordenação e para aplicar a respectiva coima pertence ao presidente da Junta.
 
-###### Artigo 71.º — Contra-ordenações e coimas
+###### Artigo 72.º — Contra-ordenações e coimas
 
 1 - Constitui contra-ordenação, punível com coima de 249,39 euros a 3740,98 euros, a violação das seguintes normas do [Decreto-Lei n.º 411/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1998-286106), de 30 de Dezembro, com a nova redacção que lhe foi dada pelos Decretos-Leis n.os [5/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936) e [138/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2000-319932), respectivamente de 29 de Janeiro e 13 de Julho:
 

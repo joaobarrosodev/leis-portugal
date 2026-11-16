@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 39.º» entre os artigos 28.º e 30.º; usado o 29.º.'
 language: por
 version:
   kind: original
@@ -418,7 +419,7 @@ g) Em caso de falência ou insolvência do titular da licença.
 
 A Junta de Freguesia pode determinar a execução de obras de conservação, reparação ou alteração dos espaços comerciais, com vista, designadamente, ao cumprimento das normas higio-sanitárias ou dos requisitos técnicos em vigor para os diferentes tipos de estabelecimentos.
 
-###### Artigo 39º — (Benfeitorias)
+###### Artigo 29º — (Benfeitorias)
 
 1 - O Comerciante que cesse a sua actividade no mercado tem o direito de retirar todas as benfeitorias por ele realizadas, desde que tal possa ser feito sem prejuízo do edifício.
 

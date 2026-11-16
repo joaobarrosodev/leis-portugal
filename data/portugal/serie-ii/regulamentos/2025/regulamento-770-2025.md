@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 24.º» entre os artigos 24.º e 26.º; usado o 25.º.'
 language: por
 version:
   kind: original
@@ -364,7 +365,7 @@ b) Todos os candidatos tenham sido excluídos.
 
 5 - As habitações consideram-se concluídas nos termos do disposto no artigo 86.º e seguintes do Regime Jurídico da Urbanização e Edificação, na sua redação em vigor.
 
-###### Artigo 24.º — Reversão da Propriedade
+###### Artigo 25.º — Reversão da Propriedade
 
 1 - A reversão da propriedade dos lotes a favor da Junta de Freguesia opera-se sempre que:
 

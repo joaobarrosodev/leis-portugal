@@ -22,7 +22,9 @@ EXPORT = next(
     RAIZ / "exports" / "leis-portugal.sqlite",
 )
 
-_ARTIGO = re.compile(r"^#{6} Artigo (\S+)(?: — (.*))?$")
+# A letra de um artigo aditado vem às vezes separada: «78.º A» ou «292.º ‐A» (hífen U+2010 do EUR-Lex).
+# O número fica sempre «78.º-A», como nos outros aditados.
+_ARTIGO = re.compile(r"^#{6} Artigo (\S+?)(?:(?:\s?[‐‑]\s?|\s[-‐‑]?\s?)([A-Z]))?(?: — (.*))?$")
 _ANEXO = re.compile(r"^## (Anexo.*)$")
 _NOTA = re.compile(r"^> (Alterado|Aditado|Revogado|Retificado|Republicado)", re.I)
 _LIGACAO = re.compile(r"<a [^>]*>(.*?)</a>")
@@ -74,7 +76,10 @@ def artigos(texto: str) -> list[Artigo]:
         cabecalho = _ARTIGO.match(linha)
         if cabecalho:
             fechar()
-            atual, linhas = Artigo(parte, cabecalho.group(1), (cabecalho.group(2) or "").strip(), ""), []
+            numero = cabecalho.group(1).replace("‐", "-").replace("‑", "-")
+            if cabecalho.group(2):
+                numero = f"{numero.rstrip('-')}-{cabecalho.group(2)}"
+            atual, linhas = Artigo(parte, numero, (cabecalho.group(3) or "").strip(), ""), []
             continue
         if atual is None:
             continue

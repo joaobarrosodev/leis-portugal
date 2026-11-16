@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 125.º» entre os artigos 125.º e 127.º; usado o 126.º.'
 language: por
 version:
   kind: original
@@ -1242,7 +1243,7 @@ Caberá à Câmara Municipal ou entidade gestora, através dos serviços compete
 
 #### SECÇÃO I — Objecto
 
-###### Artigo 125.º — Objecto
+###### Artigo 126.º — Objecto
 
 1 - As normas gerais, as condições de cedência e utilização dos equipamentos de lazer são as que constam do presente capítulo.
 

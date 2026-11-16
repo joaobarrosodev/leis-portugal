@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 187.º» entre os artigos 86.º e 88.º; usado o 87.º.'
 language: por
 version:
   kind: original
@@ -200,7 +201,7 @@ c) Instruir e organizar do processo individual;
 
 3 - Proceder à gestão dos dados pessoais e sensíveis bem como ao seu devido armazenamento, garantindo o sigilo em relação ao processo individual de cada família, facultando o seu acesso sempre que solicitado pela mesma, ou através de terceiros com o seu consentimento, pondo em prática o previsto na legislação respeitante à proteção de dados pessoais, tomando as medidas adequadas que garantam também a segurança das instalações e controlo de acesso à informação e aos equipamentos.
 
-###### Artigo 187.º — Apoios a conceder
+###### Artigo 87.º — Apoios a conceder
 
 A Câmara Municipal atribuirá um apoio financeiro mensal até 15 horas, no valor de 8,00€/hora, mediante a apresentação de mapa/registo mensal por parte dos Cuidadores e que é facultado pela Câmara Municipal (Anexo XII).
 

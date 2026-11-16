@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 49.º» entre os artigos 38.º e 40.º; usado o 39.º.'
 language: por
 version:
   kind: original
@@ -584,7 +585,7 @@ e) O incumprimento do disposto no artigo 11.º
 
 4 - A Câmara Municipal comunica à Direcção-Geral de Transportes Terrestres e às organizações sócio-profissionais do sector, as infracções cometidas e respectivas sanções.
 
-###### Artigo 49.º — Falta de apresentação de documentos
+###### Artigo 39.º — Falta de apresentação de documentos
 
 A não apresentação da licença do táxi, do alvará ou da sua cópia certificada no acto da fiscalização constitui contra-ordenação e é punível com a coima prevista na alínea c) do n.º 2 do artigo anterior, salvo se o documento em falta for apresentado no prazo de oito dias à autoridade indicada pelo agente de fiscalização, caso em que a coima é de 10 000$ a 50 000$.
 

@@ -35,7 +35,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: partially_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 62.º» entre os artigos 60.º e 62.º; usado o 61.º.'
 language: por
 version:
   kind: original
@@ -1548,7 +1549,7 @@ a) Adossados à construção, quando constituídos por elementos de protecção 
 
 b) Individualizados, em sistema de cobertura de espaço exterior, em material natural (caniço, entrelaçado de ráfia, tecido adequado, etc.), ou por unidades individuais.
 
-###### Artigo 62.º — Acessos e estrados
+###### Artigo 61.º — Acessos e estrados
 
 1 - Os sistemas de acesso pedonal a empregar (passadeiras e áreas de esplanada) serão em ripado de madeira tratada, com juntas não inferiores a 0,02 m, por forma a não impermeabilizar a área afecta, podendo o sistema estrutural a empregar ser em madeira ou ferro metalizado.
 

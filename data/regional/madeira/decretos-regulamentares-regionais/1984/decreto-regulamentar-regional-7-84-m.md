@@ -35,7 +35,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 76.º» entre os artigos 55.º e 57.º; usado o 56.º.'
 language: por
 version:
   kind: original
@@ -1138,7 +1139,7 @@ m) Estabelecer a organização interna dos serviços e assegurar o seu funcionam
 
 n) Contribuir para a formação e aperfeiçoamento profissional do seu pessoal técnico.
 
-###### Artigo 76.º
+###### Artigo 56.º
 
 A Direcção dos Serviços Hidroagrícolas é composta pelos seguintes departamentos:
 

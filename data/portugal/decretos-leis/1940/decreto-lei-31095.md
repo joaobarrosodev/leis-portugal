@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 520.º» entre os artigos 525.º e 527.º; usado o 526.º.'
 language: por
 version:
   kind: consolidated
@@ -7256,7 +7257,7 @@ Consideram-se na situação de inactividade no quadro os funcionários providos 
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 39447 - Diário do Governo n.º 260/1953, Série I de 1953-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39447-1953-648771)
 
-###### Artigo 520.º
+###### Artigo 526.º
 
 Consideram-se na situação de inactividade fora do quadro os funcionários no gôzo de licença ilimitada ou incumbidos de comissão extraordinária de serviço público por tempo indeterminado ou superior a um ano.
 

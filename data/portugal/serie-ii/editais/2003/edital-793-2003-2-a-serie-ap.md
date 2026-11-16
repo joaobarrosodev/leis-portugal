@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 3.º» entre os artigos 5.º e 7.º; usado o 6.º.'
 language: por
 version:
   kind: original
@@ -236,7 +237,7 @@ a) Cumprir e fazer cumprir as disposições do presente Regulamento, das leis e 
 
 b) A manutenção da limpeza e conservação do cemitério no que se refere aos espaços públicos e equipamento de propriedade da autarquia.
 
-###### Artigo 3.º — Serviços de registo e expediente geral
+###### Artigo 6.º — Serviços de registo e expediente geral
 
 Os serviços de registo e expediente geral estarão a cargo da secretaria da Junta de Freguesia, onde existirão, para o efeito, livros de registo de inumações, cremações, exumações, trasladações, concessão de terrenos e respectivos ficheiros, por ordem alfabética e numércia, assim como quaisquer outros considerados necessários ao bom funcionamento dos serviços.
 

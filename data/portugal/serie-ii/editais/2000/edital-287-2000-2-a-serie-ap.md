@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 8.º» entre os artigos 8.º e 10.º; usado o 9.º.'
 language: por
 version:
   kind: original
@@ -244,7 +245,7 @@ b) Termo de responsabilidade assinado por um técnico habilitado para o efeito, 
 
 4 - O referido no número anterior é extensível a divertimentos, sempre que a sua complexidade assim o justifique.
 
-###### Artigo 8.º — Documentos a apresentar para recintos improvisados e licença acidental de recinto
+###### Artigo 9.º — Documentos a apresentar para recintos improvisados e licença acidental de recinto
 
 1 - É obrigatório apresentar para efeitos de licenciamento de recintos improvisados:
 

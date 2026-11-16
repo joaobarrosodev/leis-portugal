@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 39.º» entre os artigos 29.º e 31.º; usado o 30.º.'
 language: por
 version:
   kind: original
@@ -500,7 +501,7 @@ No caso fortuito ou de força maior, considera-se que há abandono do exercício
 
 3 - Não pode ser recusado o transporte de animais de companhia, desde que devidamente acompanhados e acondicionados, salvo motivo atendível, designadamente a perigosidade, o estado de saúde ou de higiene.
 
-###### Artigo 39.º — Regime de preços
+###### Artigo 30.º — Regime de preços
 
 Os transportes em táxi estão sujeitos ao regime de preços fixado em legislação especial.
 

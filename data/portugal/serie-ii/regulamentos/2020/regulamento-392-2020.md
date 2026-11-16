@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 22.º» entre os artigos 22.º e 24.º; usado o 23.º.'
 language: por
 version:
   kind: original
@@ -292,7 +293,7 @@ Excluído.
 
 A creditação das formações e as correspondentes classificações atribuídas cumprem o estipulado na legislação aplicável e na regulamentação interna em vigor.
 
-###### Artigo 22.º — Limitações quantitativas
+###### Artigo 23.º — Limitações quantitativas
 
 1 - O reingresso não está sujeito a limitações quantitativas.
 

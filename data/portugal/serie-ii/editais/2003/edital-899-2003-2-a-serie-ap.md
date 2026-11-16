@@ -25,7 +25,10 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 26.º» entre os artigos 24.º e 26.º; usado o 25.º.'
+- 'Numeração corrigida: o DRE escreve «Artigo 46.º» entre os artigos 44.º e 46.º; usado o 45.º.'
+- 'Numeração corrigida: o DRE escreve «Artigo 60.º» entre os artigos 49.º e 51.º; usado o 50.º.'
 language: por
 version:
   kind: original
@@ -396,7 +399,7 @@ a) Vender jogo depois da hora fixada para o início da extracção da lotaria;
 
 b) Anunciar jogo por forma contrária às restrições legais em matéria de publicidade.
 
-###### Artigo 26.º — Cartão de vendedor ambulante
+###### Artigo 25.º — Cartão de vendedor ambulante
 
 1 - Os vendedores ambulantes de lotarias só poderão exercer a sua actividade desde que sejam titulares e portadores do cartão de vendedor ambulante emitido e actualizado pela Câmara Municipal.
 
@@ -582,7 +585,7 @@ e) Município em que a máquina está em exploração.
 
 2 - O presidente da Câmara Municipal atribuirá, no caso referido no número anterior, um novo título de registo, que obedece ao modelo 3 anexo à [Portaria n.º 144/2003](https://diariodarepublica.pt/dr/detalhe/portaria/144-2003-198954), de 14 de Fevereiro.
 
-###### Artigo 46.º — Licença de exploração
+###### Artigo 45.º — Licença de exploração
 
 1 - Cada máquina de diversão só pode ser colocada em exploração desde que disponha da correspondente licença de exploração.
 
@@ -624,7 +627,7 @@ Nos casos de concessão de licença de exploração ou de alteração do local d
 
 As máquinas de diversão não poderão ser colocadas em exploração em locais que se situem a menos de 150 m do perímetro dos estabelecimentos de ensino.
 
-###### Artigo 60.º — Causas de indeferimento
+###### Artigo 50.º — Causas de indeferimento
 
 1 - Constituem motivos de indeferimento da pretensão de concessão, renovação da licença e mudança de local de exploração:
 

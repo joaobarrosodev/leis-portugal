@@ -1,4 +1,5 @@
 {"celex": "31953D0038", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31953D0038."}
+{"celex": "31958R0005", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31958R0005."}
 {"celex": "31958R0006", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31958R0006."}
 {"celex": "31959R0007", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31959R0007."}
 {"celex": "31960D0511", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31960D0511."}
@@ -18,7 +19,7 @@
 {"celex": "31964D0599", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31964D0599."}
 {"celex": "31964R0005", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31964R0005."}
 {"celex": "31964R0059", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31964R0059."}
-{"celex": "31965R0004", "motivo": "metadados_em_falta", "error": "MetadataError: A expressão não tem manifestação XHTML nem HTML."}
+{"celex": "31965R0004", "motivo": "sem_texto_na_fonte", "error": "MetadataError: A expressão portuguesa não tem ficheiros (só a manifestação print, sem PDF, HTML nem XHTML)."}
 {"celex": "31965R0062", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31965R0062."}
 {"celex": "31966D0033", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31966D0033."}
 {"celex": "31966D0556", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31966D0556."}
@@ -101,6 +102,7 @@
 {"celex": "31972D0480", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31972D0480."}
 {"celex": "31972R0229", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31972R0229."}
 {"celex": "31972R2655", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31972R2655."}
+{"celex": "31972R2864", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31972R2864."}
 {"celex": "31973D0002", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973D0002."}
 {"celex": "31973D0062", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973D0062."}
 {"celex": "31973D0094", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973D0094."}
@@ -116,6 +118,7 @@
 {"celex": "31973D0322", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973D0322."}
 {"celex": "31973D0334", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973D0334."}
 {"celex": "31973D0357", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973D0357."}
+{"celex": "31973L0358", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973L0358."}
 {"celex": "31973R0681", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973R0681."}
 {"celex": "31973R1834", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973R1834."}
 {"celex": "31973R3476", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31973R3476."}
@@ -169,7 +172,9 @@
 {"celex": "31975D0645", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31975D0645."}
 {"celex": "31975D0768", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31975D0768."}
 {"celex": "31975D0781", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31975D0781."}
+{"celex": "31975L0269", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31975L0269."}
 {"celex": "31975L0271", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31975L0271."}
+{"celex": "31975L0273", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31975L0273."}
 {"celex": "31975L0274", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31975L0274."}
 {"celex": "31975L0275", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31975L0275."}
 {"celex": "31975R1031", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31975R1031."}
@@ -203,6 +208,7 @@
 {"celex": "31976D0676", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31976D0676."}
 {"celex": "31976D0677", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31976D0677."}
 {"celex": "31976D0684", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31976D0684."}
+{"celex": "31976D0687", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31976D0687."}
 {"celex": "31976D0688", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31976D0688."}
 {"celex": "31976D0689", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31976D0689."}
 {"celex": "31976D0697", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31976D0697."}
@@ -358,6 +364,7 @@
 {"celex": "31979D0311", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31979D0311."}
 {"celex": "31979D0313", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31979D0313."}
 {"celex": "31979D0314", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31979D0314."}
+{"celex": "31979D0347", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31979D0347."}
 {"celex": "31979D0348", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31979D0348."}
 {"celex": "31979D0374", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31979D0374."}
 {"celex": "31979D0375", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31979D0375."}
@@ -476,6 +483,7 @@
 {"celex": "31980D1060", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1060."}
 {"celex": "31980D1071", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1071."}
 {"celex": "31980D1074", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1074."}
+{"celex": "31980D1097", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1097."}
 {"celex": "31980D1103", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1103."}
 {"celex": "31980D1135", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1135."}
 {"celex": "31980D1136", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1136."}
@@ -509,12 +517,14 @@
 {"celex": "31980D1352", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1352."}
 {"celex": "31980D1359", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1359."}
 {"celex": "31980D1360", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980D1360."}
-{"celex": "31980R0680", "motivo": "metadados_em_falta", "error": "MetadataError: A expressão não tem manifestação XHTML nem HTML."}
+{"celex": "31980L0370", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980L0370."}
+{"celex": "31980R0680", "motivo": "sem_texto_na_fonte", "error": "MetadataError: A expressão portuguesa não tem ficheiros (só a manifestação print, sem PDF, HTML nem XHTML)."}
 {"celex": "31980R1696", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980R1696."}
 {"celex": "31980R2667", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980R2667."}
 {"celex": "31980R2735", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980R2735."}
 {"celex": "31980R2786", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980R2786."}
 {"celex": "31980R3346", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980R3346."}
+{"celex": "31980R3481", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980R3481."}
 {"celex": "31980R3512", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980R3512."}
 {"celex": "31980R3513", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31980R3513."}
 {"celex": "31981D0034", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981D0034."}
@@ -644,8 +654,10 @@
 {"celex": "31981D1028", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981D1028."}
 {"celex": "31981D1030", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981D1030."}
 {"celex": "31981D1062", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981D1062."}
+{"celex": "31981L0645", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981L0645."}
 {"celex": "31981R0052", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981R0052."}
 {"celex": "31981R1224", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981R1224."}
+{"celex": "31981R1390", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981R1390."}
 {"celex": "31981R1460", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981R1460."}
 {"celex": "31981R3020", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981R3020."}
 {"celex": "31981R3700", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31981R3700."}
@@ -705,6 +717,7 @@
 {"celex": "31982D0213", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0213."}
 {"celex": "31982D0249", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0249."}
 {"celex": "31982D0252", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0252."}
+{"celex": "31982D0257", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0257."}
 {"celex": "31982D0258", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0258."}
 {"celex": "31982D0262", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0262."}
 {"celex": "31982D0268", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0268."}
@@ -742,6 +755,7 @@
 {"celex": "31982D0379", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0379."}
 {"celex": "31982D0380", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0380."}
 {"celex": "31982D0381", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0381."}
+{"celex": "31982D0382", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0382."}
 {"celex": "31982D0383", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0383."}
 {"celex": "31982D0390", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0390."}
 {"celex": "31982D0410", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31982D0410."}
@@ -962,6 +976,7 @@
 {"celex": "31983D0364", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31983D0364."}
 {"celex": "31983D0377", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31983D0377."}
 {"celex": "31983D0382", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31983D0382."}
+{"celex": "31983D0387", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31983D0387."}
 {"celex": "31983D0388", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31983D0388."}
 {"celex": "31983D0389", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31983D0389."}
 {"celex": "31983D0400", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31983D0400."}
@@ -1126,6 +1141,8 @@
 {"celex": "31984D0564", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31984D0564."}
 {"celex": "31984D0580", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31984D0580."}
 {"celex": "31984L0167", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31984L0167."}
+{"celex": "31984L0169", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31984L0169."}
+{"celex": "31984L0513", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31984L0513."}
 {"celex": "31984R1677", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31984R1677."}
 {"celex": "31984R1763", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31984R1763."}
 {"celex": "31984R1764", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31984R1764."}
@@ -1196,6 +1213,10 @@
 {"celex": "31985D0535", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0535."}
 {"celex": "31985D0543", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0543."}
 {"celex": "31985D0561", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0561."}
+{"celex": "31985D0563", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0563."}
+{"celex": "31985D0564", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0564."}
+{"celex": "31985D0565", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0565."}
+{"celex": "31985D0566", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0566."}
 {"celex": "31985D0598", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0598."}
 {"celex": "31985D0599", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0599."}
 {"celex": "31985D0600", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0600."}
@@ -1209,17 +1230,15 @@
 {"celex": "31985D0636", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0636."}
 {"celex": "31985D0642", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985D0642."}
 {"celex": "31985L0148", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985L0148."}
+{"celex": "31985L0350", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985L0350."}
 {"celex": "31985R0363", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985R0363."}
 {"celex": "31985R0448", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985R0448."}
+{"celex": "31985R0462", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985R0462."}
 {"celex": "31985R1367", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985R1367."}
 {"celex": "31985R1464", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985R1464."}
 {"celex": "31985R1554", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 31985R1554."}
-{"celex": "32006D0030", "motivo": "armazenamento", "error": "StorageError: Colisão de caminho: /Users/barroso/Documents/Seamless Doubt/leis-portugal/data/european_union/decisions/2006/decisao-ue-2006-48.md já contém eu:celex:32006D0048:por"}
-{"celex": "32006D1004", "motivo": "metadados_em_falta", "error": "MetadataError: A expressão não tem manifestação XHTML nem HTML."}
-{"celex": "32010D0033", "motivo": "armazenamento", "error": "StorageError: Colisão de caminho: /Users/barroso/Documents/Seamless Doubt/leis-portugal/data/european_union/decisions/2010/decisao-ue-2010-11.md já contém eu:celex:32010D0011:por"}
-{"celex": "32014D0034", "motivo": "armazenamento", "error": "StorageError: Colisão de caminho: /Users/barroso/Documents/Seamless Doubt/leis-portugal/data/european_union/decisions/2014/decisao-ue-2014-541.md já contém eu:celex:32014D0541:por"}
+{"celex": "32006D1004", "motivo": "sem_texto_na_fonte", "error": "MetadataError: A expressão portuguesa não tem ficheiros (só a manifestação print, sem PDF, HTML nem XHTML)."}
 {"celex": "32014D0036", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 32014D0036."}
 {"celex": "32015D1890", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 32015D1890."}
-{"celex": "32016D0776", "motivo": "armazenamento", "error": "StorageError: Colisão de caminho: /Users/barroso/Documents/Seamless Doubt/leis-portugal/data/european_union/decisions/2016/decisao-ue-2016-776.md já contém eu:celex:32016D0775:por"}
 {"celex": "32022D0021", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 32022D0021."}
 {"celex": "32026D0022", "motivo": "sem_texto_na_fonte", "error": "NoSourceText: Sem expressão na língua por para CELEX 32026D0022."}

@@ -9,6 +9,7 @@ from typing import Any
 
 from leis_portugal.domain.document_types import DocumentTypeRegistry
 from leis_portugal.domain.identifiers import clean_date, pt_record_id
+from leis_portugal.domain.numbering import fix_article_numbers
 from leis_portugal.domain.record import (
     DerivedMaterial,
     Identifiers,
@@ -190,6 +191,8 @@ class DreMapper:
                 has_text = False
                 body = f"# {title}\n\n> O DRE não tem o texto deste diploma nem o PDF; este registo tem só os metadados."
                 warnings.append("Sem texto e sem PDF no DRE; registo só com os metadados.")
+        # O DRE tem gralhas na numeração dos títulos («Artigo 212.º» entre o 20.º e o 22.º).
+        body, number_notes = fix_article_numbers(body)
 
         relationships = [
             Relationship(type="cites", target=pt_record_id(cited))
@@ -233,7 +236,7 @@ class DreMapper:
                 pdf_url=pdf_url,
             ),
             legal_status=legal_status_from_dre(detail.get("Vigencia")),
-            notes=[note for note in [re.sub(r"<[^>]+>", "", detail.get("Notas") or "").strip()] if note],
+            notes=[note for note in [re.sub(r"<[^>]+>", "", detail.get("Notas") or "").strip()] if note] + number_notes,
             version=Version(
                 kind="original",
                 label="Texto publicado no Jornal Oficial dos Açores" if regional else "Texto publicado no Diário da República",

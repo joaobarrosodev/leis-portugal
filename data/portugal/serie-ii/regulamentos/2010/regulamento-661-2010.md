@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 236.º» entre os artigos 322.º e 324.º; usado o 323.º.'
 language: por
 version:
   kind: original
@@ -4310,7 +4311,7 @@ A realização por particulares de quaisquer trabalhos no cemitério fica sujeit
 
 A mudança de um cemitério para terreno diferente daquele onde está instalado, que implique a transferência, total ou parcial, dos cadáveres, ossadas, fetos mortos e peças anatómicas que aí estejam inumados e das cinzas que aí estejam guardadas, é da competência da Câmara Municipal.
 
-###### Artigo 236.º — Transferência do cemitério
+###### Artigo 323.º — Transferência do cemitério
 
 No caso de transferência do cemitério para outro local, os direitos e deveres dos concessionários são automaticamente transferidos para o novo local, suportando a Câmara Municipal os encargos com o transporte dos restos inumados e sepulturas e jazigos concessionados.
 

@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 6.º» entre os artigos 6.º e 8.º; usado o 7.º.'
 language: por
 version:
   kind: original
@@ -186,7 +187,7 @@ que se realiza no desenvolvimento das unidades curriculares em torno das compet�
 
 3 - As normas de avaliação referentes à frequência dos cursos ministrados em regime de tempo parcial ou regime nocturno prolongado ou ainda em regime à distâncias serão fixadas pelo Regulamento das Licenciaturas da ESTAL e o Regulamento dos Cursos não Conferentes de Grau da ESTAL.
 
-###### Artigo 6.º — Áreas científicas e unidades curriculares
+###### Artigo 7.º — Áreas científicas e unidades curriculares
 
 1 - Os planos de estudo dos cursos ministrados na ESTAL organizam-se em áreas científicas.
 

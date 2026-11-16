@@ -25,7 +25,8 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: unknown
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 489.º» entre os artigos 48.º e 50.º; usado o 49.º.'
 language: por
 version:
   kind: original
@@ -568,7 +569,7 @@ Os montantes das contra-ordenações previstas nas alíneas a) a h) do artigo an
 
 2 - Não sendo dado cumprimento ao disposto no número anterior dentro do prazo indicado, a CMPM poderá efectuar o levantamento das canalizações que se encontram em más condições e procederá à cobrança das despesas resultantes da execução desses trabalhos.
 
-###### Artigo 489.º — Responsabilidade civil e criminal
+###### Artigo 49.º — Responsabilidade civil e criminal
 
 O pagamento de coima não isenta o transgressor da responsabilidade civil por perdas e danos, nem qualquer procedimento criminal a que der causa.
 

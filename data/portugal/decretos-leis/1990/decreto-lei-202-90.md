@@ -35,7 +35,8 @@ entry_into_force:
   end_rule: null
 end_of_validity_date: null
 legal_status: not_in_force
-notes: []
+notes:
+- 'Numeração corrigida: o DRE escreve «Artigo 90.º» entre os artigos 8.º e 10.º; usado o 9.º.'
 language: por
 version:
   kind: original
@@ -196,7 +197,7 @@ c) For colocado no mercado equipamento eléctrico não conforme com o protótipo
 
 4 - É proibida a utilização no equipamento a que se refere este diploma de marcas ou inscrições susceptíveis de serem confundidas com a marcação identificadora.
 
-###### Artigo 90.º — Controlo do equipamento eléctrico
+###### Artigo 9.º — Controlo do equipamento eléctrico
 
 1 - As verificações e ensaios de fabricação a que cada equipamento ou parte de equipamento deve ser submetido constarão de um registo, mantido à disposição das entidades fiscalizadoras e do Instituto Português da Qualidade.
 
