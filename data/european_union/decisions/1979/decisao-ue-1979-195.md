@@ -88,8 +88,7 @@ derived_material:
 validation:
   status: validated
   checked_at: '2026-11-14T10:30:08Z'
-  warnings:
-  - 'Sem texto eletrónico no CELLAR (Tipo de conteúdo inesperado para o XHTML: image/jpeg); o registo liga apenas ao PDF oficial.'
+  warnings: []
   errors: []
 ---
 
