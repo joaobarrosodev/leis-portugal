@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-03-28'
+version_history:
+  file: portaria-1219-a-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-03-28'
+    amending: pt:dre:342103:por
+    amending_title: Portaria n.º 946/2010; Portaria n.º 80/2012
+    changes:
+    - Adita Artigo 7.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo ANEXO
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1219-a/2008/10/23/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:28:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 946/2010; Portaria n.º
+    80/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-1219-a-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,11 +167,13 @@ Manda o Governo, pelo Ministro de Estado e das Finanças, em cumprimento do disp
 
 ###### Artigo 2.º
 
-1 - A concessão pelo Estado de garantias pessoais ao abrigo do presente regime tem por objecto exclusivamente o cumprimento de obrigações assumidas em contratos de financiamento ou de emissão de dívida não subordinada, com um prazo mínimo de três meses e um prazo máximo de três anos, denominada em euros.
+1 - A concessão pelo Estado de garantias pessoais ao abrigo do regime da [Lei n.º 60-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2008-383202), de 20 de outubro, tem por objeto exclusivamente o cumprimento de obrigações assumidas em contratos de financiamento ou de emissão de dívida não subordinada, com um prazo mínimo de três meses e um prazo máximo de cinco anos.
 
-2 - O prazo máximo referido no número anterior pode, excepcionalmente por proposta fundamentada do Banco de Portugal, ir até aos cinco anos.
+2 - O prazo máximo referido no número anterior pode ir até aos sete anos quando se trate de concessão de garantia pessoal a uma emissão de obrigações hipotecárias ou de obrigações sobre o setor público nos termos do [Decreto-Lei n.º 59/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2006-667889), de 20 de março.
 
 3 - Ficam excluídas do âmbito do presente regime as operações do mercado monetário de depósitos interbancário, as operações de dívida subordinada, as operações que já beneficiem de outro tipo de garantia, bem assim como as operações de financiamento realizadas em jurisdição que não observe padrões de transparência internacionalmente aceites.
+
+> Alterado pelo/a [Portaria n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/portaria/80-2012-553953), publicado em 2012-03-27.
 
 ###### Artigo 3.º
 
@@ -210,6 +229,36 @@ b) Monitorizar as entidades beneficiárias na pendência das garantias, por recu
 
 c) Enviar à Direcção-Geral do Tesouro e Finanças e ao Instituto de Gestão da Tesouraria e do Crédito Público, I. P., a informação necessária ao acompanhamento e fiscalização a que se refere o artigo 6.º da [Lei n.º 60-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/60-a-2008-383202), de 20 de Outubro.
 
+###### Artigo 7.º-A
+
+1 - A instituição de crédito beneficiária deve apresentar ao Banco de Portugal um estudo de viabilidade sempre que, no momento da concessão, o total de responsabilidades garantidas a essa instituição represente no total das respectivas responsabilidades um rácio superior a 5 % e o montante total de responsabilidades garantidas seja superior a 500 milhões de euros.
+
+2 - Para efeitos do disposto no número anterior, entende-se que o total de responsabilidades abrange:
+
+a) As responsabilidades garantidas pelo Estado constituídas pela primeira vez, bem como aquelas que sejam renovadas, incluindo as que são objecto da concessão da garantia a que se refere o número anterior;
+
+b) As responsabilidades emergentes de garantias concedidas pelo Estado antes da data de entrada em vigor da presente portaria.
+
+3 - O Banco de Portugal deve remeter ao membro do Governo responsável pela área das finanças o estudo de viabilidade previsto no n.º 1, acompanhado do respectivo parecer, tendo em vista a comunicação daquele estudo à Comissão Europeia no prazo de três meses a partir da concessão da garantia, devendo para o efeito:
+
+a) A instituição de crédito a quem a garantia foi concedida elaborar o estudo de viabilidade e entregar o mesmo ao Banco de Portugal no prazo de 20 dias úteis a contar da data da concessão da garantia;
+
+b) O Banco de Portugal remeter ao Governo o estudo de viabilidade e o respectivo parecer no prazo de 20 dias úteis a contar da recepção daquele estudo ou, se for o caso, a contar da recepção das informações complementares solicitadas à instituição de crédito beneficiária, mas nunca depois de decorridos 30 dias úteis sobre a data da entrega inicial do estudo de viabilidade.
+
+4 - A elaboração do estudo de viabilidade previsto no n.º 1 deve observar os princípios definidos na secção 2 da Comunicação da Comissão sobre Reestruturação no Sector Bancário (2009/C 195/04), publicada no Jornal Oficial da União Europeia, de 19 de Agosto de 2009, devendo este estudo tomar em consideração, nomeadamente, factores específicos da instituição beneficiária, a situação macroeconómica em geral, como sejam as condições de acesso ao financiamento por parte do sistema bancário, bem como a situação dos mercados financeiros na medida em que tenham impacto na demonstração de viabilidade e no peso relativo das responsabilidades garantidas sobre o total das responsabilidades.
+
+5 - Sempre que necessário, ou quando solicitado pela Comissão Europeia, a instituição de crédito deve realizar testes de esforço de liquidez destinados a comprovar a informação prestada no estudo de viabilidade previsto no n.º 1.
+
+6 - Ficam dispensadas da apresentação de novo estudo de viabilidade previsto no n.º 1 as instituições de crédito que se encontrem, no momento em que a garantia é concedida, numa das seguintes situações:
+
+a) Em processo de reestruturação ou obrigadas a apresentar um plano de reestruturação;
+
+b) Em processo de elaboração de um estudo de viabilidade, nos prazos previstos no n.º 3, devido a anterior concessão de garantia;
+
+c) O financiamento garantido esteja abrangido por anterior estudo de viabilidade em análise.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 946/2010](https://diariodarepublica.pt/dr/detalhe/portaria/946-2010-342103), publicado em 2010-09-22.
+
 ###### Artigo 8.º
 
 As instituições de crédito beneficiárias da garantia do Estado enviam à Direcção-Geral do Tesouro e Finanças, no prazo de cinco dias a contar dos respectivos factos, cópia dos documentos comprovativos das amortizações do capital e do pagamento de juros nas operações de financiamento, indicando os montantes que deixam de constituir objecto de garantia do Estado.
@@ -236,14 +285,18 @@ O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Out
 
 ## ANEXO
 
-1 - O valor das comissões é fixado de acordo com a seguinte tabela:
+1 - O valor das comissões para emissões denominadas em euros é fixado de acordo com a seguinte tabela:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06200/0147801479.pdf)
 
 2 - O spread do credit default swap relevante a que se refere o número anterior é calculado de acordo com a seguinte tabela:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06200/0147801479.pdf)
 
 3 - Para efeitos do cálculo do spread do credit default swap relevante a que se refere a alínea a) do número anterior, cabe ao Banco de Portugal determinar se a instituição de crédito em questão dispõe de informação de credit default swap representativa.
 
 4 - Para efeitos do cálculo do spread do credit default swap relevante a que se refere a alínea b) do n.º 2, pode o Banco de Portugal, após avaliação fundamentada e se necessário, adaptar o valor do spread do credit default swap relevante.
+
+5 - O valor da comissão para títulos denominados em moeda distinta do euro considera o procedimento de cálculo previsto nos números anteriores, ao qual será acrescido um custo associado ao risco cambial.
+
+> Alterado pelo/a [Portaria n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/portaria/80-2012-553953), publicado em 2012-03-27.
