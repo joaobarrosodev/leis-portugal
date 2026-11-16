@@ -618,7 +618,9 @@ def _junto(resposta: dict, registo: dict) -> dict:
     destino.with_suffix(".alteracoes.json").write_text(json.dumps(json_registos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     destino.write_text(_markdown(registo, aplicados, consolidado, extra["titulos_normalizados"], METODO), encoding="utf-8")
     linha |= {"estado": "aplicado com LLM", "consolidado": str(destino.relative_to(RAIZ)), "artigos_llm": len(registos_llm),
-              "artigos_regras": len(extra["registos"]), "alteradores_ids": [a["id"] for a in aplicados], "pedido": "completo"}
+              "artigos_regras": len(extra["registos"]), "alteradores_ids": [a["id"] for a in aplicados], "pedido": "completo",
+              # a verificação às cegas vê todos os alteradores do pedido, para dar por uma instrução que o LLM deixou cair
+              "alteradores_vistos": [a["id"] for a in alteradores]}
     if extra["titulos_normalizados"]:
         linha["titulos_normalizados"] = True
     if resposta.get("nao_aplicavel"):
