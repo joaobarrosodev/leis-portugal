@@ -30,22 +30,27 @@ repetidos. Cada um tem uma nota em `notes` com o número que o DRE escreve. A li
 - Falta o índice, e o `structure` só para o relatório: ficam para a reconstrução do ponto 3. Na
   reconstrução, entram as chaves novas (`78.º-A`), e as que tinham o hífen U+2010 passam a «-».
 
-## 2. Atos da UE em vigor que ainda faltam (30)
+## 2. Atos da UE em vigor: feito (16/11)
 
-Os 1.218 sem versão portuguesa já estão traduzidos (14/11). Faltam:
+Lista do CELLAR refeita a 16/11: 34.213 atos em vigor, todos no acervo (32.969 com versão
+portuguesa oficial e 1.244 em tradução não oficial). Os 30 que faltavam, caso a caso, em
+`reports/eurlex_em_vigor_30.md`:
 
-- **23 por identificar:** são a diferença entre a lista do CELLAR de 11/11/2026 e
-  `reports/eurlex_em_vigor_failures.jsonl`. Refazer a lista dos atos em vigor, cruzar com o acervo
-  e ver se já estão gravados com outro id ou se têm outro problema.
-- **4 com o número oficial repetido:** decisões cujo número coincide com o de outra já gravada.
-  Decidir se se gravam com o caminho desambiguado.
-- **3 sem texto no CELLAR:** confirmar que não há PDF nem HTML em nenhuma língua.
+- **23 sem versão portuguesa** no CELLAR, que não estavam no relatório de 11/11: traduzidos como
+  os 1.218 (o 3481/80 a partir do italiano, porque o texto inglês do CELLAR é o do 3479/80).
+- **3 com a expressão portuguesa sem ficheiros** (só `print`): traduzidos do inglês ou do francês
+  (o 30/65/CEE a partir do PDF francês).
+- **4 com o número oficial repetido:** gravados com o CELEX no nome do ficheiro.
 
-Gasta pouco: são consultas ao CELLAR e um script.
+Verificação às cegas das 26 traduções: 2 erros graves, corrigidos antes de gravar.
+
+Fica por decidir: o número oficial errado que o CELLAR dá a algumas decisões, como as do BCE
+(2006/48 em vez de 2007/48) e a 32016D0775 (2016/776 em vez de 2016/775). Corrigi-lo muda o
+caminho de registos que já existem.
 
 ## 3. RAG
 
-- **Reconstruir o índice** para entrarem as 1.218 traduções da UE. Usa só o PC.
+- **Reconstruir o índice** para entrarem as 1.244 traduções da UE. Usa só o PC.
 - **Mostrar na resposta o `version.label`** («Tradução não oficial … sem valor jurídico») quando
   se cita um ato traduzido.
 - **Decidir se as traduções ficam no índice:** quase todas são decisões antigas dirigidas a outros
