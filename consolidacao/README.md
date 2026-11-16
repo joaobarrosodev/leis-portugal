@@ -135,7 +135,7 @@ A regra estrita afastou falsos positivos que a lista crua tinha: o art. 10.º do
 - **erro no texto simples do DRE:** no DL 31095, consolidado, "Art. 520.º" no lugar do 526.º;
 - **já corrigida pelo DRE:** no DLR 12/2005/A, o DRE escreve hoje 64.º, o mesmo que a regra propõe.
 
-As 63 suspeitas que sobram têm o motivo em `reports/numeracao_artigos_suspeitas.jsonl`. As da UE não são gralhas do EUR-Lex: são artigos citados (Regulamento 1882/2003) ou artigos aditados com letra ("Artigo 5.º A").
+As 56 suspeitas que sobram têm o motivo em `reports/numeracao_artigos_suspeitas.jsonl`. As da UE não são gralhas do EUR-Lex: são sobretudo artigos citados (Regulamento 1882/2003). Os artigos aditados com a letra separada ("Artigo 5.º A", "292.º ‐A") já não contam como suspeitas: desde 16/11/2026, os dois leitores de artigos leem-nos como o 5.º-A.
 
 **`rotulo_por_aplicar`: amostra das 12 aplicadas.** Há de tudo:
 - **Falso:** na Lei 77/2017, o rótulo do DL 12/2019 fala dos artigos do DL 96/2013 que a Lei 77/2017 altera, e o LLM ignorou-o bem.

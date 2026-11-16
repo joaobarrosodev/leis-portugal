@@ -27,7 +27,8 @@ from leis_portugal.domain.articles import body
 from leis_portugal.domain.numbering import review_numbers
 
 
-_TITULO = re.compile(r"^###### Artigo (\d+)\.º(?:\s|$)")
+# Sem os aditados com letra, também quando vem separada («78.º A», «292.º ‐A»): não são o 78.º.
+_TITULO = re.compile(r"^###### Artigo (\d+)\.º(?!\s?[-‐‑]?\s?[A-Z](?:\s|$))(?:\s|$)")
 
 
 def suspeitas(numeros: list[int]) -> list[dict]:
@@ -44,13 +45,7 @@ def suspeitas(numeros: list[int]) -> list[dict]:
     return achadas
 
 
-_LETRA = re.compile(r"^###### Artigo \d+\.º(?: [A-Z]| ?‐ ?[A-Z])(?:\s|$)")
-
-
-def motivo(caminho: str, titulos: list[str], linha: int, revisao: dict[int, str | None]) -> str:
-    """`titulos`: o título suspeito e os dois vizinhos."""
-    if any(_LETRA.match(titulo) for titulo in titulos):
-        return "artigo aditado com letra («78.º A», «292.º ‐A»): não é gralha, mas o articles.py não lê esta forma"
+def motivo(caminho: str, linha: int, revisao: dict[int, str | None]) -> str:
     if linha not in revisao:
         razao = "a sequência atravessa um anexo ou uma parte: são números de partes diferentes"
     else:
@@ -78,7 +73,7 @@ def main(raiz: str) -> None:
             revisao = {fix.line: razao for fix, razao in review_numbers(texto, repeated=True)}
             for s in achadas:
                 linha = linhas[s["posicao"]][0]
-                print(json.dumps({"path": caminho, **s, "motivo": motivo(caminho, [todas[linhas[p][0]] for p in range(s["posicao"] - 1, s["posicao"] + 2)], linha, revisao)}, ensure_ascii=False))
+                print(json.dumps({"path": caminho, **s, "motivo": motivo(caminho, linha, revisao)}, ensure_ascii=False))
 
 
 if __name__ == "__main__":

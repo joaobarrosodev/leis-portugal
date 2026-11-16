@@ -31,7 +31,10 @@ from dataclasses import dataclass, field
 
 ARTICLE_KINDS = {"artigo": "art", "base": "base", "clausula": "clausula", "numero": "n"}
 
-_NUMBER = r"(?:\d+(?:\s?\.?\s?[º°]|\.o\b|\.)?(?:\s?-\s?[A-Z]{1,2}\b)?|[IVXLCDM]+\b(?:-[A-Z]\b)?|[ÚúUu]nic[oa]\b|ÚNIC[OA]\b|UNIC[OA]\b)"
+# Letra de artigo aditado: «10.º-A», «10.º - A», «292.º ‐A» (hífen U+2010 do EUR-Lex) e «78.º A»; a letra
+# solta só quando o título acaba nela ou segue a epígrafe («Artigo 5.º A presente lei…» não é o 5.º-A).
+_LETTER = r"(?:\s?[-‐‑]\s?[A-Z]{1,2}\b|\s[A-Z]\b(?=\s*(?:$|[—–])))"
+_NUMBER = r"(?:\d+(?:\s?\.?\s?[º°]|\.o\b|\.)?(?:" + _LETTER + r")?|[IVXLCDM]+\b(?:-[A-Z]\b)?|[ÚúUu]nic[oa]\b|ÚNIC[OA]\b|UNIC[OA]\b)"
 _LABELS = {
     "artigo": "artigo", "art.": "artigo", "artº": "artigo", "art.º": "artigo",
     "base": "base", "cláusula": "clausula", "clausula": "clausula", "article": "artigo",
@@ -154,6 +157,9 @@ def _canonical_label(label: str) -> str:
 
 
 def _clean_number(number: str) -> str:
+    """`10.º - A`, `292.º ‐A` e `78.º A` ficam `10.º-A`, `292.º-A` e `78.º-A`."""
+    number = re.sub(r"\s*[‐‑]\s*", "-", number.strip())
+    number = re.sub(r"(?<=[º°.o])\s+(?=[A-Z]{1,2}$)", "-", number)
     return re.sub(r"\s+", "", number).rstrip(".")
 
 

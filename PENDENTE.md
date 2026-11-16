@@ -15,13 +15,20 @@ repetidos. Cada um tem uma nota em `notes` com o número que o DRE escreve. A li
 - A recolha do DRE já corrige as gralhas isoladas dos registos novos, mas não os repetidos. Se um
   dos 34 repetidos voltar a ser recolhido, perde a correção: corre-se outra vez
   `scripts/corrigir_numeracao.py --repetidos --escrever`.
-- Sobram 63 suspeitas, todas com o motivo em `reports/numeracao_artigos_suspeitas.jsonl`. Quase
+- Sobram 56 suspeitas, todas com o motivo em `reports/numeracao_artigos_suspeitas.jsonl`. Quase
   todas são artigos citados de outros diplomas, números de anexos diferentes ou atos de alteração,
-  e não gralhas. Das 16 da UE, nenhuma é uma gralha do EUR-Lex.
-- **Por fazer:** o `articles.py` não reconhece os artigos com a letra separada («Artigo 78.º A»,
-  «Artigo 292.º ‐A», com o hífen U+2010). São 147 títulos em 45 registos, 64 deles na UE, e o
-  texto desses artigos cola-se ao artigo anterior.
-- Falta o índice, e o `structure` só para o relatório: ficam para a reconstrução do ponto 3.
+  e não gralhas. Das 10 da UE, nenhuma é uma gralha do EUR-Lex.
+- **Artigos com a letra separada: feito (16/11).** Os dois leitores de artigos passaram a ler
+  «Artigo 78.º A» e «Artigo 292.º ‐A» (hífen U+2010 do EUR-Lex) como o artigo 78.º-A. São eles o
+  `domain/articles.py` e o `avaliacao/comum.py`, que é o do índice do RAG. Antes, o texto destes
+  artigos colava-se ao artigo anterior.
+  - Com o `articles.py`, ganham-se 144 artigos em 45 registos: 80 de Portugal e 64 da UE.
+  - Com o leitor do RAG, ganham-se 140 artigos em 39 registos.
+  - Nenhum registo perde artigos. No Aviso n.º 17262/2018, as três unidades «1.º, 2.º, 3.º» davam
+    lugar ao art. 82.º-B, que as contém.
+  - O `data/` não mudou: só a leitura.
+- Falta o índice, e o `structure` só para o relatório: ficam para a reconstrução do ponto 3. Na
+  reconstrução, entram as chaves novas (`78.º-A`), e as que tinham o hífen U+2010 passam a «-».
 
 ## 2. Atos da UE em vigor que ainda faltam (30)
 
