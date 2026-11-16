@@ -139,6 +139,28 @@ def test_eu_paths_use_celex_year_and_base_type(repo_root: Path):
     assert acervo.relative(acervo.path_for(record)) == "data/european_union/regulations/2024/regulamento-ue-2024-1689.md"
 
 
+def test_eu_acts_with_the_same_number_are_disambiguated_with_the_celex(repo_root: Path):
+    """A Decisão 2014/541/UE do BCE (32014D0034) e a Decisão n.º 541/2014/UE (32014D0541)
+    têm o mesmo número: a segunda a chegar leva o CELEX no nome; o caminho da primeira não muda."""
+    acervo = Acervo(repo_root)
+
+    def decision(celex: str) -> LegalRecord:
+        return LegalRecord.from_dict(record_dict(
+            f"eu:celex:{celex}:por", document_type="decision", document_type_label="Decisão",
+            official_number="2014/541", identifiers={"celex": celex},
+        ))
+
+    first = acervo.save(decision("32014D0541"), "# A")
+    second = acervo.save(decision("32014D0034"), "# B")
+    assert acervo.relative(first.path) == "data/european_union/decisions/2014/decisao-ue-2014-541.md"
+    assert acervo.relative(second.path) == "data/european_union/decisions/2014/decisao-ue-2014-541-32014d0034.md"
+    # Recolhas seguintes, com um acervo novo (sem o índice em memória), voltam aos mesmos ficheiros.
+    again = Acervo(repo_root)
+    assert again.save(decision("32014D0034"), "# B").path == second.path
+    assert again.save(decision("32014D0541"), "# A").path == first.path
+    assert again.read(first.path)[1].strip() == "# A"
+
+
 def test_history_files_live_next_to_the_record(repo_root: Path):
     acervo = Acervo(repo_root)
     result = acervo.save(_record(), "# Texto")
