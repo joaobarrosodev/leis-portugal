@@ -115,6 +115,25 @@ Os números estão no `rag/README.md`, «Tipos novos».
     à parte.
 - **CNPD:** não está no índice nem no RAG. O TC chega às respostas pelo `normas-julgadas.jsonl`.
 
+## Compostas: mais artigos no contexto do LLM (16/11, em espera)
+
+Os números estão no `rag/README.md`, em «Compostas: o segundo artigo no contexto, só com a pesquisa».
+
+Só com a pesquisa, os dois artigos estão nos 8 primeiros em 67 das 100 compostas e nos 16 primeiros em 78. As
+outras 21 falhas são da pesquisa: o artigo não está nos 30 candidatos que o reranker lê, e um contexto maior
+não o traz.
+
+**Por fazer, quando a máquina estiver livre:** medir com o LLM e os quatro juízes um contexto de 8 contra um de 16, no mesmo índice copiado
+para uma pasta fixa. Entram as 100 compostas e a premissa errada, e, se houver tempo, as sem resposta e uma amostra de reais.
+- No `passo_llm`, pesquisar uma só vez para os dois contextos, guardando as consultas. Com o reranker, a pesquisa
+  leva cerca de 1 minuto por pergunta.
+- Se o 16 ganhar sem piorar os outros tipos, mudar:
+  - `ARTIGOS_NO_CONTEXTO`;
+  - o `k=10` do `avaliar`, do `perguntar` e do `web`;
+  - o `[:8]` fixo do `passo_llm importar`.
+- **À parte, para a pesquisa:** subir o `maximo` do reranker. Pode recuperar até 14 das 21 falhas, mas muda a
+  pesquisa de todos os tipos e torna-a mais lenta.
+
 ## 4. OCR da CNPD: feito (15/11)
 
 36.197 decisões com texto por OCR; ficam 311 sem texto. Validação sem erros e commit no main.

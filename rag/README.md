@@ -301,7 +301,25 @@ O resultado foi 11 alteram mesmo o texto, 11 em dúvida e 58 não alteram:
 - **Os erros:** quadros de pessoal alterados "de acordo com o quadro anexo", áreas de zonas de caça, um "n.º 1.º passa a ter a seguinte redacção", uma portaria revogada por inteiro, e os Estatutos da Universidade de Coimbra.
 - **Por motivo da triagem:** "cita o original mas não lhe dá instruções" teve 8 em 24; "só aparece numa lista" teve 2 em 25; "não menciona o original" teve 0 em 22, mas as 3 dúvidas eram mudanças reais a anexos.
 
-Com 14% a 28% de erro, tirar o aviso faria o sistema responder com texto desatualizado, por isso o aviso fica. O que se aproveita é para os dados: a triagem deixa passar alterações reais, sobretudo em portarias que mexem em quadros e zonas de caça.
+Com 14% a 28% de erro, tirar o aviso faria o sistema responder com texto desatualizado, por isso o aviso fica.
+
+**Compostas: o segundo artigo no contexto, só com a pesquisa** (16/11/2026). As 100 compostas foram pesquisadas outra vez no índice de uso de 16/11, sem LLM. Usaram-se as mesmas consultas reescritas do `teste-reescrito` e o reranker cruzado, com os 30 candidatos de sempre. Conta-se uma pergunta quando os dois artigos que ela pede estão nos k primeiros resultados.
+
+| Os dois artigos nos primeiros… | 8 (hoje) | 10 | 12 | 16 | 20 | 30 | 45 |
+|---|--:|--:|--:|--:|--:|--:|--:|
+| Compostas (100) | 67 | 71 | 73 | **78** | 78 | 79 | 79 |
+
+- **Com 16 artigos no contexto, entram mais 11 perguntas.** Sete delas eram "não sei" no `teste-reescrito` e quatro já estavam certas. Acima de 16 só entra mais uma.
+- **As outras 21 falhas vêm da pesquisa, não do contexto.** Nelas, um dos artigos nem chega ao reranker:
+  - em 7, não está entre os 100 candidatos do BM25;
+  - em 14, está no BM25, mas abaixo dos 30 primeiros, que são os únicos que o reranker lê (6 entre o 31.º e o 45.º lugar, 3 entre o 46.º e o 60.º, 4 entre o 61.º e o 100.º e 1 além do 100.º).
+
+  Destas 21, 16 eram "não sei" no `teste-reescrito`. Com contexto de 16, o máximo que se pode converter é 7 dos 30 "não sei". Os outros 16 só se resolvem na pesquisa, com mais candidatos para o reranker (`maximo`) ou melhores candidatos do BM25.
+- **A deduplicação por artigo não tira nenhum artigo certo.** Em 36 perguntas, há cópias do mesmo artigo noutro diploma entre os 16 primeiros: ocupam lugares no contexto, mas não empurram os certos para fora.
+- **Custo de 16 artigos.** Com 8 artigos, o prompt tem em média 11,4 mil caracteres (cerca de 1.400 por artigo; mediu-se nos prompts do `teste-reescrito`). Com 16, deve ficar à volta de 22 mil, ainda por medir. A pesquisa com o reranker levou em média 59 s por pergunta, com a máquina carregada por outras tarefas.
+- **No código, um contexto maior obriga a mudar dois sítios.** O `passo_llm`, o `avaliar`, o `perguntar` e o `web` pedem 10 resultados à pesquisa. O `importar` do `passo_llm` lê as citações sobre os 8 primeiros (`[:8]` fixo).
+
+Ressalva: os 67 com dois artigos nos 8 não são as 67 certas do `teste-reescrito`, embora o número coincida. O índice mudou desde 09/11 e as certas dependem do LLM e dos juízes. Ainda não foi medido com o LLM se as respostas certas sobem com 16 artigos, nem se as sem resposta e as de premissa errada pioram com mais artigos no contexto. Por isso, o contexto continua em 8 (`ARTIGOS_NO_CONTEXTO`). O que se aproveita é para os dados: a triagem deixa passar alterações reais, sobretudo em portarias que mexem em quadros e zonas de caça.
 
 ## Principais tipos de erro (com reranker)
 
