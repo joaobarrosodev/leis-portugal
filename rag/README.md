@@ -516,6 +516,66 @@ Os atos da 2.ª Série recolhidos desde 12/11 ficavam fora do índice por omiss�
 
 As decisões da CNPD e os acórdãos do TC não estão no export das leis nem no índice. O TC chega às respostas pelo `normas-julgadas.jsonl`: o aviso de inconstitucionalidade, e a segunda resposta, a da jurisprudência. A CNPD ainda não entra no RAG.
 
+## Perguntas por artigo (piloto, 16/11/2026)
+
+Sem chave da API não há reescrita da pergunta numa consulta jurídica, e o BM25 recebe as palavras do dia a dia. Com a reescrita, o artigo certo em 1.º nas reais sobe de 42 % para 68 %. A ideia deste piloto é escrever uma vez, offline, perguntas de leigo para cada artigo e juntá-las aos termos do artigo. É o que na literatura se chama doc2query.
+
+**Como se fez** (`rag/perguntas_por_artigo.py`, dados em `rag/perguntas_artigo/`):
+- **Âmbito:** os artigos em vigor e não revogados do Código do Trabalho (anexo da Lei n.º 7/2009, 599), do NRAU (o articulado da Lei n.º 6/2006, 74) e do Código Civil, art. 1022.º a 1113.º (92). São 765 ao todo.
+  - O anexo do NRAU que republica o Código Civil fica de fora: é texto de 2006, e o texto em vigor está no DL 47344.
+  - Os revogados escolhem-se pela nota mais recente (`revogado_agora`). O `fontes.revogado` dava como revogados 50 artigos em vigor do Código Civil (1064.º a 1113.º), porque basta-lhe uma nota antiga «Revogado pelo…». Isso também os penaliza na pesquisa (abaixo, ressalvas).
+- **Geração:** 22 sessões do Claude (`claude-opus-5-5`), uma por lote de 35 artigos, com as regras de `REGRAS.md`.
+  - Cada sessão leu só as regras e o seu lote, sem acesso às perguntas de avaliação, e as regras não foram escritas a partir delas.
+  - O `importar` validou tudo: 3 a 5 perguntas por artigo, sem números de artigos nem nomes de diplomas. As 765 linhas passaram à primeira.
+  - Resultado: **3.078 perguntas**, com uma mediana de 14 palavras. Ficaram no commit antes de qualquer medição, e não se mudaram depois de ver os resultados.
+- **No índice:** as perguntas entram nos termos da coluna `texto` do FTS (peso 1, fixado antes de medir), só na redação em vigor do artigo.
+  - O texto do artigo, o que o reranker lê e o resto do índice não mudam.
+  - A tabela `perguntas_artigo` guarda as perguntas, para os deltas apagarem a linha do FTS com os mesmos termos (`rag.dados`, com testes).
+  - `rag.indice --com-perguntas` junta-as; por omissão fica desligado. `rag.dados publicar` recusa um índice com perguntas sem `--com-perguntas`, porque a aplicação 0.1.0 corrompia o FTS ao aplicar um delta.
+- **Medição sem batota:**
+  - «Antes» é uma cópia do índice de uso de 16/11; «depois» é a mesma cópia com as perguntas (`rag.perguntas_por_artigo juntar`). Os dois saem do mesmo export e só diferem nas perguntas.
+  - A medição é `rag.avaliar --sem-llm` com o mesmo código, e o `comparar` agrupa por âmbito e emparelha pergunta a pergunta.
+  - **Decide-se nas 155 perguntas do âmbito que nunca serviram para afinar**: 127 coloquiais e 28 reais novas (real-201…350). As 99 reais do Código do Trabalho são todas das 136 afinadas, e por isso ficam à parte.
+
+**BM25** (as 1.519 perguntas: o conjunto público, as 281 reais, as 281 coloquiais, as da UE e as da 2.ª Série; resumos `rag/resultados/pa-antes-bm25.json` e `pa-depois-bm25.json`):
+
+| Grupo | n | Artigo certo em 1.º (pontos) | Nos 10 primeiros | Ganhos / perdas no 1.º |
+|---|--:|--:|--:|--:|
+| **Âmbito, nunca afinaram (decisão)** | 155 | 15% → **55%** (+39) | 39% → **80%** | 69 / 8 |
+| âmbito: coloquial | 127 | 13% → **57%** (+45) | 35% → **82%** | 63 / 6 |
+| âmbito: real (novas) | 28 | 29% → **43%** (+14) | 57% → **71%** | 6 / 2 |
+| âmbito: real (afinadas) | 99 | 46% → **71%** (+24) | 80% → **97%** | 25 / 1 |
+| âmbito: premissa errada | 8 | 38% → 50% | 62% → 62% | 1 / 0 |
+| âmbito: compostas | 7 | 0% → 0% | 71% → 100% | 0 / 0 |
+| fora: coloquial | 154 | 9% → 7% | 26% → 22% | 0 / 3 |
+| fora: real (novas) | 117 | 26% → 25% | 68% → 67% | 0 / 2 |
+| fora: real (afinadas) | 37 | 14% → 14% | 49% → 49% | 0 / 0 |
+| fora: literais, temporais, revogadas, texto alterado, premissa errada, compostas (com as da UE e da 2.ª Série) | 837 | sem mudança | sem mudança | 0 / 0 |
+| **Fora do âmbito (todas)** | 1.145 | 58% → 57% | 80% → 79% | 0 / 5 |
+
+Nas reais, que são FAQs escritas por pessoas, o artigo certo em 1.º passa de 32 % para 41 % (90 → 116 de 281). Nas coloquiais passa de 11 % para 30 % (30 → 84 de 281).
+
+As perdas são de dois tipos:
+- dentro do âmbito, um artigo vizinho do mesmo código, que agora tem mais palavras de leigo, passa à frente do certo (falta para assistência a filho em vez de dispensa, denúncia pelo arrendatário em vez da do senhorio);
+- fora do âmbito, um artigo do Código do Trabalho passa à frente de um diploma que não tem perguntas (Lei n.º 15/2014, Portaria n.º 142-B/2012, DL 308/2007).
+
+Este segundo tipo é o custo de só uma parte do acervo ter perguntas. Alargá-las a outros diplomas também o reduz.
+
+**Com o reranker** (a medir; corre nas 562 reais e coloquiais, antes e depois, e a variante em que o reranker também lê as perguntas, nas 254 do âmbito).
+
+**Ressalvas:**
+- As coloquiais foram escritas por sessões do Claude, como as perguntas geradas. Partilham vocabulário, e isso pode inflacionar o ganho nelas, embora a geração nunca as tenha visto.
+- Nas FAQs escritas por pessoas, o ganho é menor e mais seguro: +14 pontos nas 28 novas (6 ganhos, 2 perdas; amostra pequena) e +24 nas 99 afinadas, que aqui servem de controlo, porque a geração também não as viu.
+- 99 das 127 coloquiais reescrevem reais afinadas, e por isso o nível absoluto delas está inflacionado. A diferença entre antes e depois continua justa: a pesquisa é a mesma nos dois índices.
+- Os 50 artigos do arrendamento do Código Civil dados como revogados pelo `fontes.revogado` (peso a priori 0,6, vão para trás e levam o aviso) baixam as perguntas de arrendamento nos dois índices. A correção é outra tarefa.
+- Não houve um índice construído de raiz com `--com-perguntas`. O `construir` chama a mesma função que o `juntar` (`juntar_perguntas`), e os testes confirmam que dá o mesmo FTS, também por deltas.
+
+**Custo de alargar** aos outros códigos principais (`Pesquisa.codigos_principais()`):
+- No índice de 16/11 são 58 diplomas com 15.910 artigos em vigor e não revogados (13,7 milhões de caracteres). Sem os 765 do piloto, ficam cerca de 15.150, o resto do Código Civil incluído.
+- O piloto gastou cerca de 2,3 milhões de tokens nas sessões (≈ 3.000 por artigo) e 3 minutos por lote de 35.
+- Alargar dá cerca de **430 lotes e 45 milhões de tokens**: umas 2 horas com 11 sessões em paralelo, mais a validação.
+- A lista dos «códigos principais» também traz alguns regulamentos e editais grandes que não são códigos: convém rever a lista antes de gerar.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:

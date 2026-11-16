@@ -248,9 +248,10 @@ def comparar(antes: str, depois: str, perguntas: list[dict]) -> str:
         ganhos = sum(not no_topo(a[i], 1) and no_topo(d[i], 1) for i in ids)
         perdas = sum(no_topo(a[i], 1) and not no_topo(d[i], 1) for i in ids)
         pct = lambda x: f"{100 * x / n:.0f}%"  # noqa: E731
-        return f"| {nome} | {n} | {pct(a1)} → **{pct(d1)}** ({d1 - a1:+d}) | {pct(a10)} → **{pct(d10)}** | {ganhos} / {perdas} |"
+        pontos = f"{100 * (d1 - a1) / n:+.0f}"
+        return f"| {nome} | {n} | {pct(a1)} → **{pct(d1)}** ({pontos}) | {pct(a10)} → **{pct(d10)}** | {ganhos} / {perdas} |"
 
-    linhas = ["| Grupo | n | Artigo certo em 1.º | Nos 10 primeiros | Ganhos / perdas no 1.º |", "|---|--:|--:|--:|--:|",
+    linhas = ["| Grupo | n | Artigo certo em 1.º (pontos) | Nos 10 primeiros | Ganhos / perdas no 1.º |", "|---|--:|--:|--:|--:|",
               linha("**Âmbito, nunca afinaram (decisão)**", decisao)]
     for chave in sorted(grupos, key=lambda g: (g[0] != "âmbito", g[1])):
         linhas.append(linha(f"{chave[0]}: {chave[1]}", grupos[chave]))
