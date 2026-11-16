@@ -63,9 +63,20 @@ portuguesa oficial e 1.244 em tradução não oficial). Os 30 que faltavam, caso
 
 Verificação às cegas das 26 traduções: 2 erros graves, corrigidos antes de gravar.
 
-Fica por decidir: o número oficial errado que o CELLAR dá a algumas decisões, como as do BCE
-(2006/48 em vez de 2007/48) e a 32016D0775 (2016/776 em vez de 2016/775). Corrigi-lo muda o
-caminho de registos que já existem.
+**Número oficial errado do CELLAR: corrigido (16/11).** Corrige-se o `official_number`, e o caminho
+fica onde está, porque o repositório encontra os registos pelo id (o CELEX). Só se corrige quando
+duas fontes concordam contra o CELLAR. Foram 13 decisões, listadas em
+`reports/eurlex_numero_oficial_corrigido.jsonl`, cada uma com uma nota em `notes`:
+- 10 do BCE com o ano da adoção em vez do ano do Jornal Oficial (2006/48 → 2007/48, 2018/47 →
+  2019/47…). O título e o ano da publicação concordam.
+- A Decisão (UE) 2016/1717 do BCE, que estava com o número interno (BCE/2016/27).
+- A 2016/775 (o CELLAR dava 2016/776) e a 85/269/CEE (dava 1985/1519). O título e o CELEX concordam.
+
+Os outros 40 atos em que o título discorda do número ficam como estão: aí a gralha é do título, e o
+CELEX confirma o número (por exemplo, a «Directiva 2010/45/UE» é a 2010/53/UE). A recolha do EUR-Lex
+aplica a mesma regra (`official_number` em `sources/eurlex/mapper.py`), por isso a correção não se
+perde quando um registo volta a ser recolhido. **Na pesquisa, só conta a partir da próxima
+reconstrução do índice:** o de 16/11 ainda tem os números antigos.
 
 ## 3. RAG
 

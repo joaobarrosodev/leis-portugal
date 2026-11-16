@@ -67,9 +67,9 @@ repositório passa a gravar o segundo com o CELEX no nome; os caminhos que já e
 | 32014D0034 | Decisão 2014/541/UE do BCE (BCE/2014/34) | 32014D0541, Decisão n.º 541/2014/UE do Parlamento Europeu e do Conselho | número igual de verdade, em séries diferentes (antes de 2015) | `decisions/2014/decisao-ue-2014-541-32014d0034.md` |
 | 32016D0776 | Decisão (UE) 2016/776 do Conselho | 32016D0775, Decisão de Execução (UE) 2016/775 da Comissão | erro do CELLAR: dá o número 776 à 2016/775 | `decisions/2016/decisao-ue-2016-776-32016d0776.md` |
 
-Ficam com o número oficial do CELLAR (2006/48, 2010/11, 2014/541; e 2016/776 também na
-32016D0775), como as outras decisões do BCE: corrigir o número mudaria o caminho de registos que
-já existem.
+Os caminhos ficam como estão. O número oficial errado do CELLAR (2006/48, 2010/11 e, na 32016D0775,
+2016/776) foi corrigido a 16/11 só no `official_number`: ver `reports/eurlex_numero_oficial_corrigido.jsonl`.
+A 2014/541 do BCE tem mesmo esse número, numa série diferente.
 
 ## Verificação das 26 traduções
 
