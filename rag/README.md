@@ -463,9 +463,9 @@ Por ordem de ganho esperado:
 4. **Trocar `fontes.ler_artigos` pelo parser da fase 3** e reconstruir o índice (5 min); medir outra vez.
 5. **Velocidade**: o reranker leva 7 a 8 s por pergunta em CPU; para uso real, um reranker mais pequeno, menos candidatos ou GPU.
 
-### Atos da UE em tradução não oficial (14/11/2026)
+### Atos da UE em tradução não oficial (14 e 16/11/2026)
 
-Os 1.218 atos da UE em vigor sem versão portuguesa estão no acervo em tradução não oficial (`version.kind: translation`, `language: por`). Entram no índice na próxima reconstrução, como os outros atos da UE. Falta: a resposta mostrar o `version.label` («Tradução não oficial … sem valor jurídico») quando cita um destes atos, e decidir se ficam no índice, porque quase todos são decisões antigas dirigidas a outros Estados e podem aparecer em perguntas gerais sobre agricultura ou alfândegas.
+Os 1.244 atos da UE em vigor sem versão portuguesa estão no acervo em tradução não oficial (`version.kind: translation`, `language: por`). Entram no índice na próxima reconstrução, como os outros atos da UE. Falta: a resposta mostrar o `version.label` («Tradução não oficial … sem valor jurídico») quando cita um destes atos, e decidir se ficam no índice, porque quase todos são decisões antigas dirigidas a outros Estados e podem aparecer em perguntas gerais sobre agricultura ou alfândegas.
 
 ### Jurisprudência (estado em 12/11/2026)
 
