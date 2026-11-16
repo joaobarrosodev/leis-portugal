@@ -15,13 +15,12 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1: a nova planta só existe em imagem; alterador 2 (Portaria n.º 533/2001): anexação de prédios (área total 1695,5688 ha) com planta em imagem, sem alteração textual; alterador 3 (Portaria n.º 822/2002): desanexação de prédios (área total 1681,3873 ha) com planta em imagem, sem alteração textual; alterador 4 (Portaria n.º 1255/2010): renovação da concessão com área de 1411 ha e planta em imagem, sem alteração textual.",
+  "nao_aplicavel": "Portarias n.º 533/2001 (alterador 2, anexação, área total 1695,5688 ha), n.º 822/2002 (alterador 3, desanexação, área total 1681,3873 ha) e n.º 1255/2010 (alterador 4, renovação por 12 anos, área 1411 ha): não dão nova redacção ao n.º 1.º nem ao n.º 2.º do original; não são alterações textuais e ficam por aplicar.",
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 1.º (área 1643,0173 ha) - unidade 6 substituída, mantendo a numeração 1.º",
-    "Alterador 1: aditamento do n.º 1.º-A - inserido depois da unidade 6",
-    "Alterador 2: anexação de prédios - não textual, em nao_aplicavel",
-    "Alterador 3: desanexação de prédios - não textual, em nao_aplicavel",
-    "Alterador 4: renovação da concessão - não textual, em nao_aplicavel"
+    "Alterador 1 (Portaria 848/97), 1.º: nova redacção do n.º 1.º (1643,0173 ha), unidade 6.",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A (inserção depois da unidade 6).",
+    "Alterador 1, 2.º: mantêm-se os direitos e obrigações; nada a mudar.",
+    "Alteradores 2, 3 e 4: anexação, desanexação e renovação sem texto de redacção; em nao_aplicavel (reparo confirmado como não textual)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

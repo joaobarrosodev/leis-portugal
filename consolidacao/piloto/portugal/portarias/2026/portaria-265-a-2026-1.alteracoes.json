@@ -54,5 +54,19 @@
     "unidade": [],
     "diploma": "pt:dre:1133905372:por",
     "alterador": "pt:dre:1139971701:por"
+  },
+  {
+    "artigo": "ANEXO I — Critérios",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — Critérios",
+    "depois": "## ANEXO I — Tabela de análise e classificação (artigo 7.º) e especificações de aplicação",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1133905372:por",
+    "alterador": "pt:dre:1139971701:por"
   }
 ]

@@ -9,10 +9,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Portaria n.º 475/2002, n.os 1.º e 2.º: renova a concessão por seis anos (área de 669,0055 ha, nova planta) e fixa a produção de efeitos, sem dar nova redação a nenhum ponto do original; não aplicado.",
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 1.º - substituída a unidade 6.",
-    "Alterador 2: renovação da concessão com nova área e planta, sem alteração textual ao original - nada a fazer."
+    "Portaria 459/94: nova redação do n.º 1.º — unidade 6 substituída pelo texto do alterador.",
+    "Portaria 475/2002, 1.º e 2.º: renovação da concessão e efeitos, sem redação textual — nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

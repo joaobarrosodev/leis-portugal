@@ -7,6 +7,9 @@ consolidacao:
     pelo LLM), sem valor oficial'
   estado: por verificar às cegas
   alteracoes_aplicadas:
+  - id: pt:dre:566202:por
+    title: Decreto-Lei n.º 348/90
+    publication_date: '1990-11-05'
   - id: pt:dre:220475:por
     title: Decreto-Lei n.º 283-A/89
     publication_date: '1989-08-23'
@@ -64,7 +67,9 @@ d) O montante das acções a adquirir pelo conjunto de entidades, singulares ou 
 
 e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b) serão, para cada operação de venda, fixadas por portaria do Ministro das Finanças.
 
-2 - As acções adquiridas nos termos das alíneas a) e b) do n.º 1 não podem ser transaccionadas durante dois anos.
+2 - As acções adquiridas nos termos das alíneas a) e b) do n.º 1 não podem ser transaccionadas durante um ano.
+
+> Alterado pelo/a [Decreto-Lei n.º 348/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1990-566202), publicado em 1990-11-05.
 
 3 - As alienações previstas no presente artigo são realizadas por transacção em bolsa de valores, salvo nos casos previstos no número seguinte.
 

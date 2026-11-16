@@ -82,5 +82,19 @@
     "unidade": [],
     "diploma": "pt:dre:406498:por",
     "alterador": "pt:dre:468588:por"
+  },
+  {
+    "artigo": "ANEXO D",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "## ANEXO D",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:406498:por",
+    "alterador": "pt:dre:468588:por"
   }
 ]

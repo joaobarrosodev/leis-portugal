@@ -2,11 +2,14 @@
   "id": "pt:dre:185077:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "O Alterador 1 (Decreto n.º 45541) vem sem nenhum texto no pedido; não há instrução que se possa aplicar.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto n.º 45541): o pedido não traz o texto deste diploma (secção vazia), pelo que não há nenhuma instrução dirigida ao original que se possa ler e aplicar; em particular, não se aplica nenhuma revogação do artigo 7.º, que nenhum texto dá por escrito.",
   "instrucoes": [
-    "Alterador 1 (Decreto n.º 45541): texto vazio no pedido; nada aplicado."
+    "Decreto n.º 45541: texto ausente do pedido; nada aplicado, o texto atual fica como está (incluindo o artigo 7.º)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

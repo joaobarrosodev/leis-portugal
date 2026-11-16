@@ -1,5 +1,19 @@
 [
   {
+    "artigo": "unidades 27-27",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "2 - As acções adquiridas nos termos das alíneas a) e b) do n.º 1 não podem ser transaccionadas durante dois anos.",
+    "depois": "2 - As acções adquiridas nos termos das alíneas a) e b) do n.º 1 não podem ser transaccionadas durante um ano.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:615457:por",
+    "alterador": "pt:dre:566202:por;pt:dre:220475:por"
+  },
+  {
     "artigo": "depois da unidade 31",
     "operacao": "aditar",
     "regra": "llm",
@@ -11,7 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:615457:por",
-    "alterador": "pt:dre:220475:por"
+    "alterador": "pt:dre:566202:por;pt:dre:220475:por"
   },
   {
     "artigo": "depois da unidade 73",
@@ -25,6 +39,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:615457:por",
-    "alterador": "pt:dre:220475:por"
+    "alterador": "pt:dre:566202:por;pt:dre:220475:por"
   }
 ]

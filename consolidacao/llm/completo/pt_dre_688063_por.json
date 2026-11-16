@@ -1,0 +1,19 @@
+{
+  "id": "pt:dre:688063:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Art. 28.º do DL 189/2000 (alterador 1): «O Decreto-Lei n.º 306/97, de 11 de Novembro, cessará a sua vigência a partir de 8 de Dezembro de 2003, sem prejuízo do disposto no n.º 2 do artigo 26.º» — é a cessação de vigência do diploma inteiro, com efeito adiado para uma data futura e com ressalva (n.º 2 do art. 26.º permite a entrada em serviço até 7 de Dezembro de 2005); não é uma instrução textual sobre artigos do original e não se aplica ao texto. O reparo do verificador confirma-se como facto (a cessação existe), mas, pelas regras, fica aqui e não no texto. Também não se aplicam os n.os 1 a 3 do art. 26.º (normas transitórias do próprio DL 189/2000, sem instrução textual ao original).",
+  "instrucoes": [
+    "Art. 27.º do DL 189/2000 (alterador 1), nova redação do art. 3.º (n.º 1 mantido com «...», n.º 2 novo): o programa já a aplicou corretamente; o texto atual coincide com a instrução, nada a mudar.",
+    "Art. 27.º, nova redação do art. 12.º (n.º 1 com alíneas a) e b) e n.º 2): já aplicada corretamente pelo programa; nada a mudar.",
+    "Art. 27.º, nova redação do art. 13.º: já aplicada corretamente pelo programa; nada a mudar.",
+    "Art. 28.º (cessação de vigência do DL 306/97 a partir de 8 de Dezembro de 2003, sem prejuízo do n.º 2 do art. 26.º): revogação global com efeito adiado e ressalvado, não aplicada ao texto; em nao_aplicavel.",
+    "Art. 26.º, n.º 3 (a aplicação do DL 306/97 faz-se sem prejuízo do artigo seguinte): não é instrução textual; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

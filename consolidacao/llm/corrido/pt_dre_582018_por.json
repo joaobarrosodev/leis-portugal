@@ -8,12 +8,11 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alteradores 2 (Portaria n.º 46/2011) e 3 (Portaria n.º 212/2018) não contêm instruções textuais de alteração: aprovam programas de formação novos e integrais (atualizados) de cardiologia e de ortopedia, que se aplicam só aos internos que iniciam a formação a partir de 2011 e de 2019, respetivamente; não revogam nem substituem expressamente os programas anexos ao original, que continuam a reger os internos anteriores. Não aplicados.",
+  "nao_aplicavel": "Alterador 2 (Portaria 46/2011), artigo 1.º, e alterador 3 (Portaria 212/2018), artigo 1.º: «É actualizado/atualizado o programa de formação ... constante do anexo à presente portaria» aprovam um programa novo como anexo da própria portaria alteradora; nenhuma instrução diz que o programa de cardiologia ou de ortopedia anexo à Portaria 50/97 é substituído, alterado ou revogado, e os programas novos só se aplicam aos internos que iniciem a formação a partir de 1 de Abril de 2011 / janeiro de 2019 (n.º 7.1 de cada anexo), pelo que o programa de 1997 continua a reger os internos anteriores. Trocar o texto seria inferir uma substituição que nenhuma instrução dá por escrito; reparos do verificador vistos e não seguidos.",
   "instrucoes": [
-    "Alterador 1, 1.º: adita o n.º 7.4 (Avaliação final) ao programa de anatomia patológica; inserido a seguir à unidade 117 (fim do 7.3.2), antes do n.º 8.",
-    "Alterador 1, 2.º: entrada em vigor; não textual, ignorado.",
-    "Alterador 2, art. 1.º: atualiza o programa de cardiologia por aprovação de programa novo integral com regime transitório próprio; não aplicado (ver nao_aplicavel).",
-    "Alterador 3, art. 1.º: atualiza o programa de ortopedia por aprovação de programa novo integral com efeitos a 1 de janeiro de 2019; não aplicado (ver nao_aplicavel)."
+    "Alterador 1 (Portaria 199/97), 1.º: aditado o n.º 7.4 (Avaliação final) ao programa de anatomia patológica; inserido depois da unidade 117 (7.3.2 b)), antes de 8 - Disposições finais.",
+    "Alterador 2 (Portaria 46/2011), art. 1.º: actualiza o programa de cardiologia em anexo próprio, sem instrução de substituição do anexo da Portaria 50/97; não aplicado (nao_aplicavel).",
+    "Alterador 3 (Portaria 212/2018), art. 1.º: actualiza o programa de ortopedia em anexo próprio, com efeitos a 1 de janeiro de 2019, sem instrução de substituição; não aplicado (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

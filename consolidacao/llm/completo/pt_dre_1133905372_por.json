@@ -21,16 +21,25 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1, n.º 2 do artigo 3.º: nova redação do Anexo I do RIPAC (tabela de análise e classificação, partes I a III) não pode aplicar-se: esse anexo não consta do texto atual por artigos e a nova redação é quase toda '[...]' dentro de uma tabela, sem alvo seguro.",
+  "titulos": [
+    {
+      "atual": "## ANEXO I — Critérios",
+      "novo": "## ANEXO I — Tabela de análise e classificação (artigo 7.º) e especificações de aplicação",
+      "alterador": 1
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Art. 3.º, n.º 2, da Portaria 276-B/2026/1 (nova redação do Anexo I do RIPAC): o reparo do verificador confirma-se (a instrução existe e muda a tabela da Parte I nas linhas A.2.2 e A2.4, o n.º 4 da Parte II, com os métodos A e B do critério A2.4, e a Parte III, critério A2.2), mas não se pode aplicar com segurança: o texto atual não traz o corpo de nenhuma das partes (o «ANEXO I — Critérios» vem com corpo vazio e as PARTES I, II e III só têm a linha do título, o que indica que o anexo está em imagem), e a nova redação é feita quase toda com «[...]», que remetem para esse texto que não existe aqui; não há como montar o corpo inteiro das partes sem inventar. Também não muda o título «## PARTE III»: a linha «Especificações relativas à aplicação do critério A2.2 da tabela de análise e classificação - Notoriedade e circulação de obras anteriores:» acaba em dois pontos e não se sabe se é epígrafe da parte ou início do corpo (alvo ambíguo). Os títulos da PARTE I e da PARTE II ficam como estão (a nova redação mantém a designação e a epígrafe, ou «[...]»).",
   "instrucoes": [
-    "Alterador 1, art. 2.º: nova redação do art. 9.º da portaria; o único texto novo (n.º 2) é igual ao texto atual, sem alteração.",
-    "Alterador 1, art. 3.º n.º 1: art. 9.º do RIPAC, n.º 6 passa a 1 000 000,00 €; aplicado.",
-    "Alterador 1, art. 3.º n.º 1: art. 13.º do RIPAC, nova redação do n.º 6 (remissão para o n.º 4 do artigo 6.º); aplicado.",
-    "Alterador 1, art. 3.º n.º 1: art. 15.º do RIPAC, nova redação dos n.os 6 e 7 (contrato do n.º 13 do artigo anterior); aplicado.",
-    "Alterador 1, art. 3.º n.º 1: menção ao art. 18.º sem redação, retirada pela Declaração de Retificação n.º 28/2026/1 (alterador 2); nada a aplicar.",
-    "Alterador 1, art. 3.º n.º 2: nova redação do Anexo I do RIPAC (tabela); não aplicada, ver nao_aplicavel."
+    "Art. 2.º da Portaria 276-B/2026/1 (alterador 1), n.º 2 do art. 9.º da portaria: já aplicado corretamente pelo programa (sem «até 20 dias úteis antes da missão prevista»); n.os 1 e 3 a 6 [...]; nada a mudar.",
+    "Art. 3.º, n.º 1 (retificado pela Declaração de Retificação 28/2026/1, alterador 2, que tira o art. 18.º da lista; de qualquer modo não vinha texto para o art. 18.º): art. 9.º do RIPAC, n.º 6 novo (1 000 000,00 €), resto [...] mantido.",
+    "Art. 3.º, n.º 1: art. 13.º do RIPAC, n.º 6 novo (remissão para o n.º 4 do artigo 6.º), resto mantido.",
+    "Art. 3.º, n.º 1: art. 15.º do RIPAC, n.os 6 e 7 novos (contrato previsto no n.º 13 do artigo anterior), resto mantido.",
+    "Art. 3.º, n.º 2: Anexo I do RIPAC com nova redação; aplicada só a nova epígrafe do anexo («Tabela de análise e classificação (artigo 7.º) e especificações de aplicação», em titulos); o corpo das Partes I, II e III fica em nao_aplicavel por não haver texto atual a que os «[...]» remetam.",
+    "Alterador 2 (Declaração de Retificação 28/2026/1): retifica o n.º 1 do art. 3.º do alterador 1 (lista de artigos sem o 18.º); aplicada na leitura do alterador 1, nada a mudar no texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

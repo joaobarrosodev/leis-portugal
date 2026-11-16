@@ -86,5 +86,33 @@
     "unidade": [],
     "diploma": "pt:dre:898989649:por",
     "alterador": "pt:dre:1161801441:por"
+  },
+  {
+    "artigo": "ANEXO III — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e o n.º 12 do artigo 21.º]",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO III — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e o n.º 12 do artigo 21.º]",
+    "depois": "## ANEXO III — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e os n.os3 e 9 do artigo 21.º]",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:898989649:por",
+    "alterador": "pt:dre:1161801441:por"
+  },
+  {
+    "artigo": "ANEXO IV — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e o n.º 12 do artigo 21.º]",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO IV — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e o n.º 12 do artigo 21.º]",
+    "depois": "## ANEXO IV — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e os n.os3 e 9 do artigo 21.º]",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:898989649:por",
+    "alterador": "pt:dre:1161801441:por"
   }
 ]

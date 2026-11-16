@@ -9,11 +9,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alteradores 3 (Portaria n.º 1039/2006: anexação de 29 ha e desanexação de 110 ha, área total 1848 ha) e 4 (Portaria n.º 336/2009: renovação da concessão e anexação de 154 ha, área total 1210 ha) não dão nova redação a nenhum número do original: alterações não textuais, não aplicadas.",
+  "nao_aplicavel": "Portaria 15/99: a nova planta só vem em imagem. Portaria 1039/2006, n.os 1.º e 2.º: anexação de 29 ha e desanexação de 110 ha, área total de 1848 ha, por planta e sem nova redação do n.º 1.º; não textual. Portaria 336/2009, n.os 1.º a 4.º: renovação da concessão por 12 anos com efeitos a 5 de Outubro de 2008, anexação de 154 ha e área total de 1210 ha, por planta e sem nova redação dos n.os 1.º ou 2.º; não textual.",
   "instrucoes": [
-    "Alt. 1: nova redação do n.º 1.º (acrescenta a freguesia de Este (São Pedro)): aplicada à unidade 6, depois substituída pela redação do alterador 2.",
-    "Alt. 2, 1.º: nova redação do n.º 1.º (área de 1929 ha): unidade 6 substituída, mantendo o número 1.º do texto atual.",
-    "Alt. 3 e 4: anexações, desanexação e renovação sem redação nova: não aplicadas (ver nao_aplicavel)."
+    "Portaria 72/97: nova redação do n.º 1.º (acrescenta a freguesia de Este (São Pedro)); ultrapassada pela redação seguinte da Portaria 15/99.",
+    "Portaria 15/99, n.º 1.º: nova redação do n.º 1.º (unidade 6), com o número 1.º mantido; área de 1929 ha.",
+    "Portaria 1039/2006: anexação e desanexação; reparo confirmado como não textual, em nao_aplicavel.",
+    "Portaria 336/2009: renovação e anexação; reparo confirmado como não textual, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

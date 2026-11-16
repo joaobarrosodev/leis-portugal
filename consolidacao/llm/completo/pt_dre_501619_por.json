@@ -9,15 +9,40 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Rectificações ao preâmbulo («Assim:») e aos anexos II, III e IV do caderno de encargos não aplicadas: preâmbulo e anexos não constam do texto atual por artigos.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO II — Questionário a preencher pelos concorrentes",
+      "texto": "[artigo 10.º, n.º 1, alínea a) do caderno de encargos]\n\n1 - Identificação completa das entidades que compõem o agrupamento concorrente:\n\n1.1 - Nome ou denominação social;\n\n1.2 - Capital (ver nota *);\n\n1.3 - Domicílio ou sede;\n\n1.4 - Grupo económico a que pertence (ver nota *);\n\n1.5 - Lista dos principais sócios ou accionistas, com indicação da percentagem de participação de cada um (ver nota *);\n\n1.6 - Sucursais no estrangeiro (ver nota *);\n\n1.7 - Empresas directa ou indirectamente controladas;\n\n1.8 - Acordos celebrados com outras pessoas singulares ou colectivas que possam ter uma relação directa ou indirecta com a aquisição de acções da SECIL ou da CMP.\n\n2 - Idoneidade e capacidade financeira:\n\n2.1 - Apresentação dos elementos curriculares relativos à actividade desenvolvida pelo concorrente;\n\n2.2 - Capacidade financeira e origem de eventual financiamento para a aquisição de acções proposta.\n\n3 - Relacionamento com a SECIL ou e CMP:\n\n3.1 - Tipo de relacionamento que o concorrente mantém com a SECIL ou CMP, relações a nível jurídico, financeiro, comercial ou industrial, tais como:\n\na) Participações em sociedades do grupo;\n\nb) Acordos de cooperação técnica;\n\nc) Participações em comum em sociedades;\n\nd) Operações financeiras comuns;\n\ne) Contencioso;\n\nf) Projectos comuns;\n\n3.2 - Perspectivas da evolução destas relações (sua manutenção, desenvolvimento ou reformulação) no âmbito da reprivatização da SECIL e da CMP.\n\n4 - Participação na SECIL e na CMP:\n\n4.1 - Vantagens para a SECIL e CMP desta tomada de participação;\n\n4.2 - Objectivo que o concorrente pretende prosseguir ao propor-se adquirir as acções postas a concurso.\n\n4.3 - Descrição detalhada de qual a forma jurídica preconizada para assegurar a gestão e exploração integradas da SECIL e da CMP (fusão, concentração das acções numa SGPS, constituição de relações de domínio ou de subordinação, etc.), com indicação dos prazos de concretização das operações visadas.\n\n5 - Outras informações relevantes para a avaliação da proposta de compra.\n\nQualquer notificação ou comunicação que, no âmbito do presente concurso, haja de ser feita para o signatário deverá sê-lo para o endereço a seguir indicado, ..., à atenção de ...\n\n... [data e assinatura (ver nota 1)].\n\nNota. - Os n.os 1, 2 e 3 terão de ser necessariamente respondidos em relação a cada uma das entidades que integram o agrupamento. Os n.os 4 e 5 deverão ser objecto de respostas comuns do agrupamento.\n\n(nota *) Não aplicável a pessoas singulares.\n\n(nota 1) Assinatura do representante comum do agrupamento, reconhecida notarialmente.",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO III — Modelo de garantia bancária",
+      "texto": "(artigos 21.º, n.º 1, e 31.º do caderno de encargos)\n\nGarantia bancária n.º ...\n\nEm nome e a pedido de ... (ver nota 1) vem o ... (ver nota 2), pelo presente documento, prestar, a favor do Estado Português, uma garantia bancária no valor de ... (ver nota 3), destinada a caucionar o integral cumprimento das obrigações assumidas pelo garantido nos termos e para os efeitos previstos no artigo ... (ver nota 4) do caderno de encargos anexo à Resolução do Conselho de Ministros n.º 10/94, de 3 de Fevereiro, responsabilizando-se pela entrega ao Estado daquele montante, à primeira interpelação, caso o garantido deixe de cumprir ... (ver nota 5).\n\nFica bem assente que o banco garante, no caso de vir a ser chamado a honrar a presente garantia, não poderá tomar em consideração quaisquer objecções do garantido, limitando-se a efectuar o pagamento logo que para ele seja solicitado.\n\n(nota 1) Identificação completa de todas as entidades que integram o agrupamento.\n\n(nota 2) Identificação completa da instituição bancária garante.\n\n(nota 3) 10000000000$00, no caso da caução do artigo 21.º, n.º 1, e 1000000000$00, no caso da caução do artigo 31.º\n\n(nota 4) Artigo 22.º ou artigos 29.º e 30.º, conforme for o caso.\n\n(nota 5) A obrigação de integral pagamento do preço pelo qual lhe venha a ser adjudicada a aquisição do capital social da SECIL - Companhia Geral de Cal e Cimento, S. A., e da CMP - Cimentos Maceira e Pataias, S. A., no inerente concurso; ou\n\nAs obrigações decorrentes do disposto nos artigos 29.º e 30.º do caderno de encargos supra-referido.",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO IV — Modelo de carta para revisão de oferta de compra de acções",
+      "texto": "(artigo 25.º, n.º 3, do caderno de encargos)\n\nSr. Ministro das Finanças:\n\n... (ver nota 1) vêm informar que pretendem rever o preço da oferta por si apresentada no concurso para aquisição conjunta de 2998800 acções do capital da SECIL e 10928000 acções do capital da CMP, apresentando o novo preço de ... (ver nota 2) por acção da SECIL e de ... (ver nota 2) por acção da CMP, o que representa um valor global de ... (ver nota 2).\n\nCom os melhores cumprimentos,\n\n... (data e assinatura do representante comum do agrupamento).\n\n(nota 1) Identificação de todas as entidades que compõem o agrupamento.\n\n(nota 2) Identificar o preço em algarismos e por extenso.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Retificação do preâmbulo (introduzir «Assim:» antes de «Nos termos das alíneas d) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu»): o preâmbulo da resolução não vem no texto atual, que só traz o caderno de encargos por artigos e os anexos; não há onde aplicar.",
   "instrucoes": [
-    "Rect. art. 13.º, n.º 1: texto atual já rectificado; nada a mudar.",
-    "Rect. art. 26.º, n.º 3, alínea b): texto atual já completo; nada a mudar.",
-    "Rect. art. 30.º: texto atual já completo; nada a mudar.",
-    "Rect. art. 33.º: epígrafe «Direito aos dividendos»; aplicada.",
-    "Rect. preâmbulo e anexos II, III e IV: não aplicáveis (não constam do texto)."
+    "Preâmbulo, introduzir «Assim:»: não aplicado (preâmbulo ausente do texto atual) — ver nao_aplicavel.",
+    "Artigo 13.º, n.º 1 («propostas, deverá» e «Rua Angelina Vidal,»): o programa já aplicou bem a retificação; o texto atual coincide com o texto retificado, sem mudança.",
+    "Artigo 26.º, n.º 3, alínea b) («hierar-» → «hierarquizada nos termos dos n.os 5 e 6 do artigo 24.º;»): o texto atual já tem a redação retificada; sem mudança (o reparo do verificador não se confirma).",
+    "Artigo 30.º («pre-» → «presente caderno de encargos.»): o texto atual já termina em «que aprove o presente caderno de encargos.»; sem mudança (o reparo não se confirma).",
+    "Artigo 33.º: acrescentada a epígrafe «Direito aos dividendos»; corpo igual ao texto atual.",
+    "Anexo II, n.º 5: «Qualquer notifificação» → «Qualquer notificação»; aplicado no corpo do anexo.",
+    "Anexo III: «pelo presente despacho,» → «pelo presente documento,»; aplicado no corpo do anexo.",
+    "Anexo IV: «(artigo 25.º, n.º 7, do caderno de encargos)» → «(artigo 25.º, n.º 3, do caderno de encargos)»; aplicado no corpo do anexo."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [
+    "anexo ## ANEXO II — Questionário a preencher p: parágrafo que não está no alterador nem no original: Qualquer notificação ou comunicação que, no âmbito do presente concurso, haja de",
+    "anexo ## ANEXO III — Modelo de garantia bancár: parágrafo que não está no alterador nem no original: Em nome e a pedido de ... (ver nota 1) vem o ... (ver nota 2), pelo presente doc"
+  ],
+  "avisos": []
 }

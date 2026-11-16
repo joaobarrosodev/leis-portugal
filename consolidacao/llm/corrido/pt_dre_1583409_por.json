@@ -8,11 +8,11 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 1, n.º 2 (republicação em anexo): as diferenças do texto republicado (alínea bb) terminada em ';' em vez de '.', ortografia actualizada, preâmbulo com novas referências legais) não vêm de nenhuma instrução de alteração; não aplicadas, porque só valem as instruções escritas (o n.º 1 só adita as alíneas cc) a ee)).",
   "instrucoes": [
-    "Alterador 1, n.º 1: aditadas as alíneas cc), dd) e ee) ao n.º 3, inseridas a seguir à alínea bb) (unidade 54).",
-    "Alterador 1, n.º 2: republicação em anexo; as diferenças de grafia (acordo ortográfico), o preâmbulo e o ';' final da alínea bb) na republicação não vêm de instrução de alteração e não foram aplicados.",
-    "Alterador 1, n.º 3: produção de efeitos, sem alteração textual."
+    "Alterador 1, n.º 1: aditadas ao n.º 3 as alíneas cc), dd) e ee); inseridas a seguir à unidade 54 (alínea bb)).",
+    "Alterador 1, n.º 2: republicação; diferenças sem instrução (incluindo o ';' no fim da bb), reparo do verificador) ficam em nao_aplicavel.",
+    "Alterador 1, n.º 3: produção de efeitos do próprio despacho alterador; sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

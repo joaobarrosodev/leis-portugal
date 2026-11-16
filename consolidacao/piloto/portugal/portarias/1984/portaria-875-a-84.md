@@ -30,21 +30,39 @@ Manda o Governo da República Portuguesa, pelo Ministro da Saúde, o seguinte:
 
 1.º - (Revogado.)
 
+> Alterado pelo/a [Portaria n.º 1334/95](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1995-674470), publicado em 1995-11-09.
+
 2.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1334/95](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1995-674470), publicado em 1995-11-09.
 
 3.º - (Revogado.)
 
+> Alterado pelo/a [Portaria n.º 1334/95](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1995-674470), publicado em 1995-11-09.
+
 4.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1334/95](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1995-674470), publicado em 1995-11-09.
 
 5.º - (Revogado.)
 
+> Alterado pelo/a [Portaria n.º 1334/95](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1995-674470), publicado em 1995-11-09.
+
 6.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1334/95](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1995-674470), publicado em 1995-11-09.
 
 7.º - (Revogado.)
 
+> Alterado pelo/a [Portaria n.º 1334/95](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1995-674470), publicado em 1995-11-09.
+
 8.º - (Revogado.)
 
+> Alterado pelo/a [Portaria n.º 1334/95](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1995-674470), publicado em 1995-11-09.
+
 9.º - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1334/95](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1995-674470), publicado em 1995-11-09.
 
 10.º - (Revogado.)
 

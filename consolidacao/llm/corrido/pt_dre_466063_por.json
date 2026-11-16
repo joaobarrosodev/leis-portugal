@@ -9,12 +9,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alteradores 1, 3 e 4 (Portarias n.os 738/2007, 1294/2009 e 728/2010) mudam a área e a planta da zona de caça e renovam-na, sem dar nova redação a nenhum ponto do original: não são alterações textuais.",
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 738/2007): manda que a zona passe a integrar os terrenos da planta anexa com a área de 3832 ha, mas não dá nova redação ao n.º 2.º do original; alteração não textual, não aplicada. Alterador 3 (Portaria n.º 1294/2009): renovação por seis anos com a área de 2622 ha, sem redação nova do original; não aplicada. Alterador 4 (Portaria n.º 728/2010): exclusão de 23 ha (área total de 2599 ha), sem redação nova do original; não aplicada.",
   "instrucoes": [
-    "Alterador 1: zona passa a integrar terrenos com 3832 ha (exclusão por direito à não caça, nova planta) — não textual, não aplicada.",
-    "Alterador 2: nova redação do n.º 3.º e alíneas a) a d) — substituídas as unidades 8 a 12.",
-    "Alterador 3: renovação por seis anos com área de 2622 ha — não textual, não aplicada.",
-    "Alterador 4: exclusão de 23 ha, área total 2599 ha — não textual, não aplicada."
+    "Alterador 1: exclusão de área por direito à não caça, zona com 3832 ha, sem fórmula de nova redação do n.º 2.º — em nao_aplicavel (reparo verificado: nenhuma instrução escreve o novo n.º 2.º).",
+    "Alterador 2: nova redação do n.º 3.º (percentagens 45/30/20/5 e artigo 15.º do DL 202/2004) — substituídas as unidades 8 a 12.",
+    "Alterador 3: renovação por seis anos com 2622 ha — em nao_aplicavel.",
+    "Alterador 4: exclusão de 23 ha, área total 2599 ha — em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

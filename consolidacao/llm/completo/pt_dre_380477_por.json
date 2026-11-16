@@ -5,7 +5,7 @@
       "chave": "2.º",
       "epigrafe": "Supranumerários",
       "texto": "São supranumerários os estudantes que se encontram numa das seguintes situações:\n\na) Funcionários portugueses de missão diplomática portuguesa no estrangeiro e seus familiares;\n\nb) Cidadãos portugueses bolseiros no estrangeiro ou funcionários públicos em missão oficial no estrangeiro e seus familiares;\n\nc) Oficiais do quadro permanente das forças armadas portuguesas, no âmbito da satisfação de necessidades específicas de formação das forças armadas;\n\nd) Funcionários estrangeiros de missão diplomática acreditada em Portugal e seus familiares, em regime de reciprocidade.\n\ne) Atletas de alta competição constantes do registo organizado ao abrigo da alínea a) do artigo 4.º do [Decreto-Lei n.º 257/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1990-573547), de 7 de Agosto.\n\nf) Naturais e filhos de naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas e Estados estrangeiros.",
-      "alterador": 1
+      "alterador": 2
     },
     {
       "chave": "11.º-A",
@@ -34,14 +34,17 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Os títulos novos 'SECÇÃO V' (Portaria 811/90, 1.º n.º 2, sem epígrafe) e 'SECÇÃO VI — Naturais e filhos de naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas e Estados estrangeiros.' (Portaria 895-A/91, 1.º n.º 2) não constam do texto atual; o formato só permite mudar títulos existentes, por isso não foram inseridos (só os artigos 11.º-A a 11.º-D). Os n.os 2.º (prazos de 1990 e 1991) são disposições transitórias próprias dos alteradores, não alteram o texto.",
+  "anexos": [],
+  "nao_aplicavel": "Os títulos das novas secções do capítulo II não foram acrescentados: a Portaria n.º 811/90 (n.º 2 do 1.º) adita a «SECÇÃO V» (antes do artigo 11.º-A) e a Portaria n.º 895-A/91 (n.º 2 do 1.º) adita a «SECÇÃO VI — Naturais e filhos de naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas e Estados estrangeiros.» (antes do artigo 11.º-C); o formato só permite mudar ou eliminar títulos de divisão que já existem no texto atual (\"titulos\"), não inserir títulos novos. Os artigos 11.º-A a 11.º-D vêm aplicados. Os n.os 2.º («Prazo em 1990»/«Prazo em 1991») e 3.º das duas portarias são normas próprias, transitórias, e não alteram o Regulamento.",
   "instrucoes": [
-    "Alterador 1, 1.º n.º 1: adita alínea e) ao artigo 2.º — aplicado.",
-    "Alterador 1, 1.º n.º 2: adita secção V ao capítulo II com os artigos 11.º-A e 11.º-B — artigos aditados; título da secção não inserido (ver nao_aplicavel).",
-    "Alterador 2, 1.º n.º 1: adita alínea f) ao artigo 2.º — aplicado.",
-    "Alterador 2, 1.º n.º 2: adita secção VI com os artigos 11.º-C e 11.º-D — artigos aditados; título da secção não inserido."
+    "Portaria n.º 811/90, 1.º, n.º 1: aditada a alínea e) ao artigo 2.º — aplicado.",
+    "Portaria n.º 811/90, 1.º, n.º 2: aditada a secção V ao capítulo II com os artigos 11.º-A (Âmbito) e 11.º-B (Cursos para que podem requerer matrícula e inscrição) — artigos aplicados; o título «SECÇÃO V» não se pode inserir pelo formato (nao_aplicavel).",
+    "Portaria n.º 895-A/91, 1.º, n.º 1: aditada a alínea f) ao artigo 2.º (a seguir à e)) — aplicado; o artigo 2.º leva alterador 2 por ser a última mudança.",
+    "Portaria n.º 895-A/91, 1.º, n.º 2: aditada a secção VI com os artigos 11.º-C (Âmbito) e 11.º-D (Cursos para que podem requerer matrícula e inscrição) — artigos aplicados; o título «SECÇÃO VI — Naturais e filhos de naturais…» não se pode inserir pelo formato (nao_aplicavel). Reparo do verificador confirmado: os títulos das secções V e VI faltam, mas não há forma de os acrescentar sem inventar uma linha de divisão que não existe no texto atual.",
+    "2.º e 3.º das duas portarias (prazos de 1990 e 1991, entrada em vigor): não alteram o original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

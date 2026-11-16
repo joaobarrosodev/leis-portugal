@@ -10,12 +10,14 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 1 aprova os textos dos anexos 1 a 5 da Convenção, que não constam do texto atual e cujos modelos só vêm em imagem; não foram acrescentados.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1 (DL 48399): aprova os textos em francês e a tradução portuguesa dos Anexos I a 5 da Convenção; o texto atual do original não traz esses anexos (nem títulos nem corpo), e os modelos só vêm em imagem, por isso não se inventam títulos nem corpos de anexo. Alterador 2: o artigo 25-bis é aditado também ao texto em francês ('Article 25-bis'), mas o texto atual do original só tem a versão portuguesa; aplica-se só a tradução portuguesa.",
   "instrucoes": [
-    "Alterador 1: aprovação dos anexos (texto francês e tradução) — anexos ausentes do texto atual e modelos só em imagem: não aplicada.",
-    "Alterador 2: aditado o artigo 25-bis (versão portuguesa), sem epígrafe."
+    "Alterador 1, artigo único: aprova os textos dos Anexos à Convenção; não aplicado (anexos ausentes do texto atual e modelos em imagem) — ver nao_aplicavel.",
+    "Alterador 2, artigo único: adita o artigo 25-bis; aditado com o texto português do alterador, letra a letra; o texto francês fica de fora porque o original só tem a versão portuguesa."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

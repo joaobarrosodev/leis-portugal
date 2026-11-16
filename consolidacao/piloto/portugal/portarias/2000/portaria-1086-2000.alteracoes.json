@@ -124,5 +124,33 @@
     "unidade": [],
     "diploma": "pt:dre:613430:por",
     "alterador": "pt:dre:163804:por;pt:dre:348912:por"
+  },
+  {
+    "artigo": "ANEXO I — (a que se refere o artigo 5.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — (a que se refere o artigo 5.º)\nMetodologia para a avaliação final (AF)\n\n1 - Cálculo da apreciação técnica (AT): AT = IE + NA.\n\nIdade das embarcações (IE):\n\n10 a 15 anos - 25 pontos;\n\n16 a 20 anos - 35 pontos;\n\n21 a 30 anos - 45 pontos;\n\nMais de 30 anos - 55 pontos.\n\nNível médio de actividade (NA) nos dois últimos anos:\n\nDe 75 a 90 dias ou de 80% a 85% dos dias de mar autorizados - 15 pontos;\n\nDe 91 a 120 dias ou de 86% a 90% dos dias de mar autorizados - 25 pontos;\n\nDe 121 a 200 dias ou de 91% a 95% dos dias de mar autorizados - 35 pontos;\n\nMais de 200 dias ou mais de 95% dos dias de mar autorizados - 45 pontos.\n\n2 - Cálculo da avaliação sectorial (AS): AS = IO + PA.\n\n[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/2000/11/261b00/63326335.pdf)\n\nMPOP = (Capacidade da frota (Gt)/Objectivos do POP frota (Gt)) x 100",
+    "depois": "## ANEXO I — (a que se refere o artigo 5.º)\n\nMetodologia para a avaliação final (AF)\n\n1 - Cálculo da apreciação técnica (AT):\n\nAT = IE + NA\n\nIdade das embarcações (IE):\n\n15 a 20 anos - 35 pontos;\n\n21 a 30 anos - 45 pontos;\n\nMais de 30 anos - 55 pontos;\n\nNível médio da actividade (NA) nos dois últimos anos:\n\nDe 75 a 90 dias ou de 80% a 85% dos dias de mar autorizados - 15 pontos;\n\nDe 91 a 120 dias ou de 86% a 90% dos dias de mar autorizados - 25 pontos;\n\nDe 121 a 200 dias ou de 91% a 95% dos dias de mar autorizados - 35 pontos;\n\nMais de 200 dias ou mais de 95% dos dias de mar autorizados - 45 pontos.\n\n2 - Cálculo da avaliação sectorial (AS):\n\n1) Inviabilidade operacional da actividade motivada por:\n\nSituação biológica dos recursos ou adopção de medidas técnicas de gestão restritivas da actividade - 100;\n\nNão renovação ou suspensão de acordos de pesca ou interdição de pesca por motivos de ordem ambiental - 70;\n\n2) Outras situações - 50.\n\n> Alterado pelo/a [Portaria n.º 1490/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1490-2004-348912), publicado em 2004-12-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:613430:por",
+    "alterador": "pt:dre:163804:por;pt:dre:348912:por"
+  },
+  {
+    "artigo": "ANEXO II — (a que se refere o artigo 6.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II — (a que se refere o artigo 6.º)\nQUADRO N.º 1\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/261b00/63326335.pdf)](https://files.diariodarepublica.pt/1s/2000/11/261b00/63326335.pdf)\n\nQUADRO N.º 2\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/11/261b00/63326335.pdf)](https://files.diariodarepublica.pt/1s/2000/11/261b00/63326335.pdf)\n\nNota 1. - O quadro n.º 1 é aplicável a partir de 1 de Janeiro de 2000, para os navios com mais de 24 m entre perpendiculares e, a partir de 1 de Janeiro de 2004, para todos os navios.\n\nNota 2:\n\nNavios com 10 a 15 anos: quadro n.º 1 ou n.º 2;\n\nNavios com 16 a 29 anos: quadro n.º 1 ou n.º 2, diminuídos de 1,5% por cada ano além dos 15 anos;\n\nNavios com 30 anos ou mais: quadro n.º 1 ou n.º 2, diminuídos de 22,5%.",
+    "depois": "## ANEXO II — (a que se refere o artigo 6.º)\n\n[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/12/302b00/73527353.pdf)\n\nNota:\n\nNavios com 16 a 29 anos - diminuído de 1,5% por cada ano além dos 15;\n\nNavios com 30 anos ou mais - diminuído de 22,5%.\n\n> Alterado pelo/a [Portaria n.º 1490/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1490-2004-348912), publicado em 2004-12-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:613430:por",
+    "alterador": "pt:dre:163804:por;pt:dre:348912:por"
   }
 ]

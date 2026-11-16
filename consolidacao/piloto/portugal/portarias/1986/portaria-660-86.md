@@ -100,11 +100,11 @@ Classificação final
 
 1 - A classificação final de cada curso é a média artimética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o respectivo plano de estudos.
 
+> Alterado pelo/a [Portaria n.º 992/89](https://diariodarepublica.pt/dr/detalhe/portaria/992-1989-549809), publicado em 1989-11-16.
+
 2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.
 
 3 - A classificação final do ramo de Formação Educacional é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.
-
-> Alterado pelo/a [Portaria n.º 992/89](https://diariodarepublica.pt/dr/detalhe/portaria/992-1989-549809), publicado em 1989-11-16.
 
 5.º-A
 

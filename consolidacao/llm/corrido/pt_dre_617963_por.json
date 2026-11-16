@@ -9,11 +9,13 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1 (renovação da concessão por 15 anos e ressalva do n.º 8.º, cuja renovação passa a seguir o artigo 83.º do Decreto-Lei n.º 251/92, sem nova redação) e alterador 3 (anexação da Quinta do Juncal, nova planta) não trazem alteração textual ao original.",
+  "nao_aplicavel": "Portaria n.º 254-GP/96 (alterador 1), 1.º e 2.º: renova a concessão por 15 anos (área de 1563,0588 ha) e diz que a renovação deixa de ser feita como no n.º 8.º e passa a sê-lo nos termos do artigo 83.º do Decreto-Lei n.º 251/92; não dá nova redação ao n.º 2.º nem ao n.º 8.º, e escrever esse texto seria compô-lo, por isso o texto fica como está. Portaria n.º 715/99 (alterador 3): anexa a «Quinta do Juncal» (13,06 ha), com área total de 1557,7688 ha, sem dar nova redação ao n.º 1.º; a área do n.º 1.º fica a da Portaria n.º 795/98.",
   "instrucoes": [
-    "Alterador 1: renovação da concessão e ressalva ao n.º 8.º sem nova redação — não aplicado.",
-    "Alterador 2, 1.º: nova redação do n.º 1.º (área de 1544,7088 ha) — substituída a unidade 8.",
-    "Alterador 3: anexação de prédios, sem alteração textual — não aplicado."
+    "Portaria 254-GP/96, 1.º e 2.º: renovação por 15 anos e exceção ao n.º 8.º sem texto de nova redação; em nao_aplicavel (reparo ponderado: não há texto literal a pôr).",
+    "Portaria 254-GP/96, 3.º: entrada em vigor; nada a mudar.",
+    "Portaria 795/98, 1.º: nova redação do n.º 1.º; substituída a unidade 8 mantendo a numeração «1.º».",
+    "Portaria 795/98, 2.º: entrada em vigor; nada a mudar.",
+    "Portaria 715/99: anexação de prédios sem nova redação; em nao_aplicavel (reparo ponderado: não há texto literal com a área total)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

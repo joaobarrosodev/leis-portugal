@@ -201,12 +201,15 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "A revogação do Decreto-Lei n.º 188/97 (art. 21.º do DL 152/2007) abrange também o mapa anexo a que se refere o n.º 2 do artigo 31.º, que só vem em imagem; não foi aplicada a esse mapa.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Art. 21.º do DL 152/2007 revoga também o mapa de pessoal dirigente a que se refere o n.º 2 do artigo 31.º, que vem no fim do texto (depois das assinaturas) só como ligação para imagem e não como artigo nem como anexo com corpo: ficou como está. Os títulos de divisão não foram mexidos (nenhuma instrução os elimina).",
   "instrucoes": [
-    "Alterador 1 (DL 214/2006): nenhuma instrução dirigida ao DL 188/97; nada aplicado.",
-    "Alterador 2 (DL 152/2007), art. 21.º: revoga o DL 188/97 com excepção do n.º 2 do artigo 11.º e do artigo 30.º; artigos 1.º a 29.º (salvo 11.º) e 31.º a 34.º marcados (Revogado.), incluindo 24.º e 25.º; no 11.º revogados os n.os 1, 3, 4, 5 e 6, mantido o n.º 2; o 30.º fica inalterado."
+    "Alterador 1 (DL 214/2006, Lei Orgânica do MCTES): não tem instruções de alteração do texto do DL 188/97 (só prevê a reestruturação da FCT por diploma orgânico próprio): nada aplicado.",
+    "Alterador 2 (DL 152/2007), art. 21.º: revoga o DL 188/97, com excepção do n.º 2 do art. 11.º e do art. 30.º. Aplicado: arts. 1.º a 10.º, 12.º a 29.º e 31.º a 34.º com '(Revogado.)' (incluindo os arts. 24.º e 25.º, Divisão de Apoio Jurídico e Divisão de Apoio Informático, cujo corpo está vazio no texto atual); no art. 11.º ficam revogados os n.os 1, 3, 4, 5 e 6 e mantém-se o n.º 2; o art. 30.º fica igual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

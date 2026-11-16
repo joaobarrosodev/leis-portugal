@@ -27,16 +27,29 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 2.º e 3.º do Decreto Regulamentar n.º 24/2004 alteram os limites e revogam os anexos I e II, substituindo-os pelos anexos do próprio Decreto Regulamentar n.º 24/2004 (o anexo II só vem em imagem); os anexos não constam do texto por artigos, pelo que não foram aplicados.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Limites da Reserva Natural",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/266b00/62466249.pdf)",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Decreto Regulamentar n.º 24/2004, art. 2.º: os novos limites (texto e carta simplificada) constam dos anexos I e II do próprio Decreto Regulamentar n.º 24/2004 («do presente diploma, que dele fazem parte integrante»), não de uma nova redação dos anexos do original; nenhuma instrução dá esse texto ao original, pelo que os anexos I e II do original ficam só revogados (art. 3.º) e o artigo 2.º do original não muda de texto. O anexo II novo só existe em imagem. Decreto-Lei n.º 78/2015, art. 2.º, altera o Decreto-Lei n.º 135/2012, não o original.",
   "instrucoes": [
-    "DR 24/2004, art. 1.º: art. 3.º com nova redação das alíneas a) a d), idêntica ao texto atual; nada muda.",
-    "DR 24/2004, art. 1.º: art. 6.º com novos n.os 2 e 3, n.os 4 a 6 = anteriores n.os 5 a 7; o anterior n.º 4 e o n.º 8 desaparecem da nova redação.",
-    "DR 24/2004, art. 1.º: art. 8.º, n.º 1 com novas alíneas a) a o); fica sem efeito por o art. 8.º ser depois revogado.",
-    "DR 24/2004, arts. 2.º e 3.º: limites e anexos I e II substituídos; não aplicado (ver nao_aplicavel).",
-    "DL 78/2015, art. 3.º, al. f): revoga a alínea b) do art. 5.º e os arts. 8.º e 9.º; aplicado.",
-    "DL 78/2015, art. 2.º: altera o DL 135/2012, outro diploma; ignorado."
+    "DR 24/2004, art. 1.º, artigo 3.º: nova redação do corpo e alíneas a) a d); o artigo já tem essa redação no texto atual (programa aplicou bem) e não muda.",
+    "DR 24/2004, art. 1.º, artigo 6.º: n.º 1 mantém-se; n.os 2 e 3 novos; n.os 4 a 6 passam a ser os anteriores n.os 5 a 7; a nova redação acaba no n.º 6, pelo que os antigos n.os 4 e 8 deixam de constar.",
+    "DR 24/2004, art. 1.º, artigo 8.º: nova lista de alíneas do n.º 1; prejudicada pela revogação do artigo 8.º pelo DL 78/2015.",
+    "DR 24/2004, art. 3.º: revogados os anexos I e II do original: corpo «(Revogado.)» em ambos.",
+    "DL 78/2015, art. 3.º, alínea f): revogada a alínea b) do artigo 5.º e os artigos 8.º e 9.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

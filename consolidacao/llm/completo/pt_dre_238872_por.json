@@ -117,18 +117,26 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Quadros de pessoal (anexo; art. 3.º do alterador 1, art. 3.º do alterador 2 e art. 5.º do alterador 3) só vêm em imagem — não aplicados. No alterador 3 a nova redação dos artigos 16.º a 18.º desloca o conteúdo (16.º = antiga DSP do 16.º-A, 16.º-A = antiga DSF do 16.º-B, 16.º-B = antiga DSPGS do 16.º-C, 16.º-C = antiga DST do 17.º, 17.º = antigo GEP do 18.º); os «...» foram preenchidos com o texto dessas unidades de origem, confirmado pela republicação.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "DRR 12/2002/M, art. 3.º: o título «SUBSECÇÃO I» que antecede o art. 15.º-A não existe no texto atual e não se pode criar um título novo; não aplicado (os títulos SUBSECÇÃO I a X das republicações também não, por não virem em instrução). Os quadros de pessoal (DRR 32/2000/M, art. 3.º e mapa I; DRR 39/2000/M, art. 3.º; DRR 12/2002/M, art. 5.º) só vêm em imagem e o anexo não tem corpo de texto no texto atual; não aplicados. DRR 32/2000/M, art. 2.º, e DRR 39/2000/M, art. 4.º, e DRR 12/2002/M, art. 4.º (transição de pessoal e republicações): não são alterações textuais.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação do artigo 16.º — substituída depois pelo alterador 2 e pelo alterador 3.",
-    "Alterador 1, art. 3.º: quadro de pessoal no mapa I — não aplicado (imagem).",
-    "Alterador 2, art. 1.º: nova redação dos artigos 12.º, 15.º, 16.º (GGE), 17.º e 18.º — 12.º aplicado e depois alterado pelo alterador 3; os restantes substituídos pelo alterador 3.",
-    "Alterador 2, art. 2.º: adita 11.º-A a 11.º-D e 16.º-A a 16.º-C — 11.º-A a 11.º-D revogados pelo alterador 3; 16.º-A a 16.º-C substituídos pelo alterador 3.",
-    "Alterador 3, art. 1.º: revoga os artigos 11.º-A, 11.º-B, 11.º-C e 11.º-D — ficam (Revogado.).",
-    "Alterador 3, art. 2.º: nova redação dos artigos 4.º, 7.º, 9.º, 12.º, 15.º, 16.º, 16.º-A, 16.º-B, 16.º-C, 17.º e 18.º — aplicado.",
-    "Alterador 3, art. 3.º: adita os artigos 15.º-A, 17.º-A, 19.º-A e 24.º-A — aplicado.",
-    "Alterador 3, art. 5.º: quadro de pessoal — não aplicado (imagem)."
+    "Alterador 1 (DRR 32/2000/M), art. 1.º: nova redação do art. 16.º (DSGAP com departamentos) — superada pela substituição integral do art. 16.º pelo alterador 2 e depois pelo alterador 3; não fica nada dela.",
+    "Alterador 1, arts. 2.º a 4.º: transição de pessoal, quadro de pessoal (imagem) e vigência — não textuais.",
+    "Alterador 2 (DRR 39/2000/M), art. 1.º: nova redação dos arts. 12.º, 15.º, 16.º (GGE), 17.º e 18.º; art. 2.º: aditados os arts. 11.º-A a 11.º-D e 16.º-A a 16.º-C — aplicados como base para o alterador 3 (o texto dos «...» do alterador 3 vem daqui, letra a letra, e não das republicações).",
+    "Alterador 3 (DRR 12/2002/M), art. 1.º: revogados os arts. 11.º-A, 11.º-B, 11.º-C e 11.º-D (aditados pelo alterador 2) — ficam «(Revogado.)» com a epígrafe do alterador 2.",
+    "Alterador 3, art. 2.º: art. 4.º (novo proémio, alíneas do texto atual), art. 7.º (n.º 2 novo), art. 9.º (epígrafe «Competências do presidente», alínea c) nova, n.º 4 novo, resto do texto atual).",
+    "Alterador 3, art. 2.º: art. 12.º — só muda a alínea c); as alíneas com «...» são as da redação do alterador 2, que substituiu o art. 12.º por inteiro (o reparo que pedia o texto do original não procede).",
+    "Alterador 3, art. 2.º: art. 15.º com redação integral nova; o título «SECÇÃO II — Dos serviços centrais» que vem antes fica igual.",
+    "Alterador 3, art. 2.º: os arts. 16.º, 16.º-A, 16.º-B, 16.º-C e 17.º passam a tratar, pela ordem, da DSP, DSF, DSPGS, DST e DSEP; os «...» correspondem ao texto, na redação do alterador 2, dos arts. 16.º-A, 16.º-B, 16.º-C, 17.º e 18.º (as estruturas de números e alíneas só batem com esses, e a epígrafe «[...]» do 16.º-C é a da DST). Mudam só o que o alterador 3 escreve: 16.º n.º 2 b) e n.º 4; 16.º-A n.º 3; 16.º-B n.º 3; 16.º-C n.º 2; 17.º epígrafe e n.º 2.",
+    "Reparo do 16.º-A (DSF), n.º 4: o alterador 2 diz «A DGH compreende o Departamento de Finanças e Orçamento (DFO).»; «A DGF» só aparece na republicação, que nenhuma instrução dá — mantido «DGH» (gralha do alterador, que não se corrige).",
+    "Reparos dos 16.º, 16.º-B e 17.º: as diferenças de pontuação e o «O GEP» do n.º 1 do 17.º vêm do texto do alterador 2 (e do original no proémio do antigo 18.º), que os «...» mantêm; o texto das republicações não se usa.",
+    "Alterador 3, art. 2.º: art. 18.º (GGO) com redação integral nova — aplicado.",
+    "Alterador 3, art. 3.º: aditados os arts. 15.º-A, 17.º-A, 19.º-A e 24.º-A — aplicados; o título «SUBSECÇÃO I» em nao_aplicavel.",
+    "Alterador 3, arts. 4.º a 6.º: republicação, quadro de pessoal (imagem) e vigência — não textuais."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

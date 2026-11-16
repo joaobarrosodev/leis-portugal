@@ -90,6 +90,14 @@ DE_FORA = {
     # Ronda 112: a resposta só desfaz uma regra mal aplicada e o texto fica igual ao original; uma
     # consolidação sem mudança não se aplica (como o DL 349/89).
     "pt:dre:161503:por", "pt:dre:510178:por", "pt:dre:520432:por", "pt:dre:667357:por",
+    # Ronda 113, pela segunda leitura: o diploma deixou de vigorar e o consolidado tirava-lhe o aviso.
+    "pt:dre:402278:por",   # Portaria 667-S4/93: concessão de caça extinta pela Portaria 222/2000
+    "pt:dre:276236:por",   # Portaria 640-F4/94: zona de caça extinta em parte e caducada (Portaria 1105/2007)
+    "pt:dre:402281:por",   # Portaria 667-S7/93: área e prazo ultrapassados pela Portaria 1154/2005 (renovação até 2017)
+    "pt:dre:613430:por",   # Portaria 1086/2000: vigência suspensa pela Portaria 398/2005
+    "pt:dre:570507:por",   # DL 418-B/98: a sociedade dura até à entidade da Casa da Música; art. 7.º-A remete para o n.º 3 eliminado
+    # Ronda 113: igual ao original depois de desfazer a regra mal aplicada.
+    "pt:dre:438049:por",
     # Verificado na ronda 6 e nunca aplicado; fora do lote da ronda 112 e sem a segunda leitura.
     "pt:dre:606505:por",
 }

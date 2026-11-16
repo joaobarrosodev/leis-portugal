@@ -353,36 +353,34 @@ Compete ao fiscal único exercer as competências que estão cometidas por lei a
 
 2 - Salvo se a assembleia geral, convocada especialmente para o efeito, decidir de outro modo, serão liquidatários os membros do conselho de administração em exercício à data da liquidação/dissolução.
 
-## ANEXO II
+## ANEXO II — Áreas afetas à sociedade
 
-Áreas afectas à Sociedade:
+1 - Património afeto à sociedade, incluindo todas as construções e edificações nele existentes:
 
-1 - Património afecto à Sociedade, incluindo todas as construções e edificações nele existentes:
+a) Castelo dos Mouros;
 
-Castelo dos Mouros;
+b) Convento de Santa Cruz dos Capuchos e sua cerca;
 
-Convento de Santa Cruz dos Capuchos e sua cerca;
+c) Palácio de Seteais e Jardim de Seteais;
 
-Jardim de Seteais;
+d) Palácio Nacional da Pena;
 
-Parque da Pena e tapadas anexas;
+e) Parque da Pena e tapadas anexas, incluindo a Pousada Prof. Mário de Azevedo Gomes, a Arrecadação de Santa Eufémia e o edifício do arquivo da extinta Direção-Geral de Florestas, em Santa Eufémia e o edifício inacabado junto ao mesmo;
 
-Parque de Monserrate;
+f) Palácio de Monserrate;
 
-Tapada de Monserrate;
+g) Palácio Nacional de Queluz;
 
-Quinta da Abelheira;
+h) Palácio Nacional de Sintra;
 
-Tapada de D. Fernando II;
+i) Parque de Monserrate;
 
-Tapada do Shore.
+j) Tapada de Monserrate;
 
-2 - Ficam excluídos do número anterior:
+k) Quinta da Abelheira;
 
-Palácio Nacional da Pena;
+l) Tapada de D. Fernando II;
 
-Pousada Prof. Mário de Azevedo Gomes;
+m) Tapada do Shore.
 
-Arrecadação de Santa Eufémia;
-
-Edifício do Arquivo da Direcção-Geral de Florestas em Santa Eufémia e edifício inacabado junto ao mesmo.
+> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.

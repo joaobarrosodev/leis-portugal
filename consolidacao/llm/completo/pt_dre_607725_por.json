@@ -1,0 +1,47 @@
+{
+  "id": "pt:dre:607725:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Registo regional do artesanato",
+      "texto": "É criado o registo regional do artesanato, que integrará o reportório regional de actividades artesanais previsto no artigo anterior e que se destina à inscrição dos artesãos e das unidades produtivas artesanais reconhecidas nos termos previstos, respectivamente, nos artigos 10.º e 13.º do [Decreto-Lei n.º 41/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2001-319952), de 9 de Fevereiro.",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Competências",
+      "texto": "1 - As referências feitas à Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais no [Decreto-Lei n.º 41/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2001-319952), de 9 de Fevereiro, na sua redacção actual, reportam-se, na Região, ao Centro Regional de Apoio ao Artesanato, criado pelo [Decreto Regulamentar Regional n.º 74/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/74-1988-356730), de 6 de Dezembro, que ouvirá, tendo em conta a natureza do processo, outras entidades.\n\n2 - As referências feitas aos Ministros do Trabalho e da Solidariedade, da Economia, do Planeamento, da Agricultura, do Desenvolvimento Rural e das Pescas, da Educação e da Cultura no [Decreto-Lei n.º 41/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2001-319952), de 9 de Fevereiro, na sua redacção actual, reportam-se, na Região, ao membro do Governo Regional com competência em matéria de artesanato, salvo o disposto no número seguinte.\n\n3 - As referências feitas ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas no n.º 2 do artigo 16.º do [Decreto-Lei n.º 41/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2001-319952), de 9 de Fevereiro, na sua redacção actual, reportam-se, na Região, ao membro do Governo Regional com competência em matéria de agricultura e pescas.\n\n4 - As referências feitas ao Instituto Português de Conservação e Restauro no [Decreto-Lei n.º 41/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2001-319952), de 9 de Fevereiro, na sua redacção actual, reportam-se, na Região, aos serviços respectivos do departamento do Governo Regional com competência em matéria de assuntos culturais.",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Regime transitório",
+      "texto": "Os artesãos detentores do cartão de artesão emitido nos termos do [Decreto Regulamentar Regional n.º 74/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/74-1988-356730), de 6 de Dezembro, deverão, no prazo de um ano a contar da publicação das normas regulamentadoras necessárias à execução deste diploma, sujeitar-se ao novo regime de reconhecimento, sob pena de caducidade daquela certificação.",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Regulamentação",
+      "texto": "No prazo de 180 dias a contar da publicação do presente diploma serão aprovadas as normas regulamentares necessárias à execução das disposições nele contidas no que respeita à definição e elaboração do reportório regional das actividades artesanais, ao processo de reconhecimento dos artesãos e das unidades produtivas artesanais e à organização e funcionamento do registo regional do artesanato.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1, art. 1.º: nova redacção do artigo 4.º (epígrafe «Competências», n.os 1 a 4); devolvido com o texto do alterador.",
+    "Alterador 1, art. 2.º, a): no artigo 3.º «acreditadas» passa a «reconhecidas»; aplicado.",
+    "Alterador 1, art. 2.º, b): nos artigos 5.º e 6.º «acreditação» passa a «reconhecimento»; aplicado (uma ocorrência em cada artigo).",
+    "Alterador 2, art. 1.º: nova redacção do n.º 2 do artigo 4.º (n.os 1, 3 e 4 mantêm-se); aplicado. O texto do programa estava certo no conteúdo, mas sem as ligações do alterador; devolvido com o texto letra a letra dos alteradores."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: É criado o registo regional do artesanato, que integrará o reportório regional d",
+    "5.º: parágrafo que não está no alterador nem no original: Os artesãos detentores do cartão de artesão emitido nos termos do [Decreto Regul",
+    "6.º: parágrafo que não está no alterador nem no original: No prazo de 180 dias a contar da publicação do presente diploma serão aprovadas "
+  ],
+  "avisos": []
+}

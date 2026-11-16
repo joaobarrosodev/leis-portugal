@@ -9,14 +9,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Artigo 4.º do Decreto n.º 512/73: eliminação, nos quadros do pessoal anexos, das unidades de Moçambique que transitaram para os Serviços de Veterinária — os quadros não vêm no texto atual e as unidades não são identificadas; não aplicado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Decreto 512/73, art. 4.º: eliminação, nos quadros do pessoal anexos (mapas I a III), das unidades de Moçambique que transitaram para os Serviços de Veterinária — os mapas só existem em imagem («ver documento original») e a instrução não identifica as unidades por texto; não aplicável. Art. 2.º: norma autónoma sobre as atribuições da Missão de Moçambique, sem alteração de texto do original.",
   "instrucoes": [
-    "Art. 1.º: aditado § único ao artigo 8.º — aplicado.",
-    "Art. 2.º: norma autónoma, não altera o texto do original.",
-    "Art. 3.º: altera o Decreto n.º 49073 — ignorado.",
-    "Art. 4.º: eliminação de unidades nos quadros anexos — não aplicável."
+    "Decreto 512/73 art. 1.º: aditamento de § único ao art. 8.º — aplicado.",
+    "Decreto 512/73 art. 2.º: norma autónoma, não altera texto do original — ver nao_aplicavel.",
+    "Decreto 512/73 art. 3.º: elimina § 3.º do art. 26.º do Decreto 49073 — outro diploma, ignorado.",
+    "Decreto 512/73 art. 4.º: eliminação de unidades nos quadros anexos — não aplicável (mapas em imagem; reparo confirmado como não verificável)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

@@ -239,6 +239,12 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Limites da Reserva Natural
 
-Do oceano Atlântico, pelo limite das freguesias de São Jacinto e da Torreira até à estrada nacional n.º 327, pela estrada nacional n.º 327 até ao Caminho da Areia e por este caminho até ao aceiro I, seguindo o seu alinhamento até ao oceano Atlântico. No mar, o limite da Reserva Natural passa pela linha de 6 m de profundidade média na maré baixa.
+(Revogado.)
+
+> Alterado pelo/a [Decreto Regulamentar n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2004-529425), publicado em 2004-07-12.
 
 ## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/266b00/62466249.pdf)
+
+(Revogado.)
+
+> Alterado pelo/a [Decreto Regulamentar n.º 24/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2004-529425), publicado em 2004-07-12.

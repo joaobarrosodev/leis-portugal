@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: a planta anexa é substituída pela da Portaria n.º 80/2007, que só existe em imagem no documento original.",
+  "nao_aplicavel": "Portaria n.º 80/2007, n.º 2.º: substituição da planta anexa, que só vem em imagem. Portaria n.º 720/2008, n.os 1.º a 3.º: renovação da zona de caça e da transferência de gestão (área de 2763 ha), criação de área de condicionamento total e produção de efeitos, sem redacção textual para nenhuma unidade do original; o n.º 2.º mantém os 2823 ha da Portaria n.º 80/2007.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 2.º (área 2823 ha) - substituída a unidade 7, mantendo o número 2.º.",
-    "Alterador 1, 2.º: substituição da planta anexa - não aplicável (só em imagem).",
-    "Alterador 2: renovação da zona de caça e criação de área de condicionamento, sem alteração textual ao original - nada a fazer."
+    "Portaria 80/2007, 1.º: nova redacção do n.º 2.º (2823 ha): substituída a unidade 7, com a numeração 2.º do original.",
+    "Portaria 80/2007, 2.º: planta substituída, só em imagem: em nao_aplicavel.",
+    "Portaria 720/2008: renovação, área de 2763 ha e condicionamento sem redacção textual: em nao_aplicavel (reparo confirmado como dúvida, não aplicado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

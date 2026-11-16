@@ -51,14 +51,19 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Portaria 106/2010, art. 1.º, n.º 5: nova redação do n.º 1 do art. 12.º e revogação do n.º 2 (n.º 1 depois substituído).",
-    "Portaria 226/2012, art. 1.º: novas redações dos arts. 2.º (al. b)), 3.º (proémio, al. c), nova al. d)), 9.º (n.º 1), 10.º (n.º 2, novo n.º 4), 11.º (n.os 2 e 3), 12.º (n.º 1), 13.º (nova epígrafe, n.º 1 proémio e al. b), novo n.º 2) e 14.º; republicação não usada para unidades não alteradas.",
-    "Portaria 313/2013, art. 1.º: novas redações do art. 9.º n.º 3, art. 11.º n.º 2, art. 12.º n.os 1, 3, 4 (com alíneas) e novo n.º 7; arts. 2.º e 3.º da portaria são normas próprias.",
-    "Portaria 109/2014, art. 7.º: aditado n.º 4 (com alíneas a) a d)) ao art. 9.º; restantes artigos alteram outros regulamentos, ignorados."
+    "Port. 106/2010 (alt. 1), art. 1.º n.º 5: nova redação do n.º 1 do art. 12.º e revogação do n.º 2; n.os 3 a 6 ficam. Aplicado (o n.º 1 foi depois substituído pelos alt. 2 e 3). Os n.os 1-4 e 6-8 do art. 1.º alteram outras portarias: ignorados.",
+    "Reparo do verificador ao art. 12.º n.º 2: não procede. O n.º 2 foi revogado pela Port. 106/2010 (art. 1.º n.º 5, «2 - (Revogado.)»); as Port. 226/2012 e 313/2013 dizem «2 - ...», que mantém o texto atual, já revogado. Fica «2 - (Revogado.)».",
+    "Port. 226/2012 (alt. 2), art. 1.º: novas redações dos arts. 2.º (al. b)), 3.º (proémio, al. c) e nova al. d)), 9.º (n.º 1), 10.º (n.º 2 e novo n.º 4), 11.º (n.os 2 e 3), 12.º (n.º 1), 13.º (nova epígrafe, n.º 1 com al. b) nova e novo n.º 2) e 14.º (corpo). Aplicado; o que vem como «...» fica com o texto atual.",
+    "Port. 226/2012, arts. 2.º e 3.º (disposição transitória e produção de efeitos) e art. 4.º (republicação): não são textuais; a grafia da republicação não se aplica.",
+    "Port. 313/2013 (alt. 3), art. 1.º: n.º 3 do art. 9.º, n.º 2 do art. 11.º, n.os 1, 3 e 4 (com als. a) e b)) e novo n.º 7 do art. 12.º. Aplicado; n.os 2, 5 e 6 do art. 12.º ficam. Arts. 2.º e 3.º (transitória e efeitos) não textuais.",
+    "Port. 109/2014 (alt. 4), art. 7.º: aditado o n.º 4 (als. a) a d)) ao art. 9.º; n.os 1 a 3 ficam. Aplicado. Os outros artigos alteram outros regulamentos: ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

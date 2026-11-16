@@ -9,13 +9,13 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.os 1.º a 3.º, e alterador 2, n.º 1.º: agregam propriedades ao n.º 1.º sem nova redação textual; alterador 2, n.º 2.º: mapa anexo só em imagem; alterador 3: renovação da concessão por 12 anos, nova área e planta, e alteração do número de guardas do 7.º (quatro, três dos quais com meio de transporte) sem nova redação textual.",
+  "nao_aplicavel": "Alterador 1 (Portaria 589-A/88), n.os 1.º a 3.º, e alterador 2 (Portaria 636-B/88), n.º 1.º: agregam propriedades ao conjunto do n.º 1.º, sem nova redacção do n.º 1.º nem indicação de onde e como entram na lista; não se monta texto. Alterador 2, n.º 2.º: novo mapa anexo, só em imagem. Alterador 3 (Portaria 786/2000): renovação por 12 anos com 6024,8600 ha e fiscalização por quatro guardas florestais auxiliares, três com meio de transporte, sem nova redacção nem indicação do n.º 7.º; efeito não textual. O n.º 4.º do alterador 1 altera a Portaria 516-A/88 e o n.º 4.º do alterador 3 revoga a Portaria 601/2000, outros diplomas.",
   "instrucoes": [
-    "Alterador 1, 1.º a 3.º: agregação de propriedades ao n.º 1.º, sem texto novo: não aplicado",
-    "Alterador 1, 4.º: altera a Portaria 516-A/88, não o original: ignorado",
-    "Alterador 1, 5.º: nova redação do n.º 2.º: unidade 8 substituída",
-    "Alterador 2: agregação de propriedades e mapa anexo em imagem: não aplicado",
-    "Alterador 3: renovação, área, planta e guardas do 7.º sem texto novo: não aplicado"
+    "Alterador 1 (Portaria 589-A/88), n.os 1.º a 3.º: agregação de propriedades ao n.º 1.º — reparo confirmado: não há nova redacção; em nao_aplicavel.",
+    "Alterador 1, n.º 4.º: altera o n.º 2.º da Portaria 516-A/88 — outro diploma, ignorado.",
+    "Alterador 1, n.º 5.º: nova redacção do n.º 2.º — substituída a unidade 8, mantendo o número 2.º.",
+    "Alterador 2 (Portaria 636-B/88), n.º 1.º: agregação de propriedades — sem nova redacção, em nao_aplicavel; n.º 2.º: mapa anexo só em imagem, em nao_aplicavel.",
+    "Alterador 3 (Portaria 786/2000): renovação e quatro guardas florestais auxiliares — reparo confirmado: não dá nova redacção nem indica o n.º 7.º; em nao_aplicavel. Revogação da Portaria 601/2000 é de outro diploma."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

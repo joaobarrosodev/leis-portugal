@@ -1,86 +1,17 @@
 {
   "id": "pt:dre:618114:por",
-  "artigos": [
-    {
-      "chave": "212.º",
-      "epigrafe": "Atribuições e competências",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "22.º",
-      "epigrafe": "Estrutura",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "23.º",
-      "epigrafe": "Director regional",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "24.º",
-      "epigrafe": "Divisão de Serviços Administrativos",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "25.º",
-      "epigrafe": "Arquivo Regional da Madeira",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "26.º",
-      "epigrafe": "Direcção de Serviços de Bibliotecas",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "27.º",
-      "epigrafe": "Direcção de Serviços de Museus",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "28.º",
-      "epigrafe": "Direcção de Serviços do Património Cultural",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "29.º",
-      "epigrafe": "Direcção de Serviços de Dinamização Cultural",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "30.º",
-      "epigrafe": "Centro de Estudos John dos Passos",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "31.º",
-      "epigrafe": "Centro Cívico e Cultural de Santa Clara",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    },
-    {
-      "chave": "32.º",
-      "epigrafe": "Inspecção Regional de Espectáculos",
-      "texto": "(Revogado.)",
-      "alterador": 2
-    }
-  ],
-  "nao_aplicavel": "Alterador 2, art. 2.º: revogação do quadro iv do anexo ao DRR 2/2005/M; o quadro não consta do texto atual por artigos. Alterador 1, art. 28.º: manutenção em vigor transitória do DRR 2/2005/M na parte que transita para a SREC, sem alteração textual.",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 2 (DRR 21/2008/M), art. 2.º: revoga os artigos 21.º a 32.º e o quadro IV do anexo, mas o n.º 2 do art. 3.º diz que essa revogação «só produz efeitos quando entrar em vigor a regulamentação das matérias tratadas na legislação revogada» (estrutura nuclear e flexível e quadro de pessoal), facto futuro que o pedido não mostra; revogação adiada, não aplicada. O alterador 1 (DRR 1/2008/M) não dá instruções ao original (o art. 28.º do seu anexo mantém-no em vigor na parte respeitante às matérias que transitam para a SREC).",
   "instrucoes": [
-    "Alterador 1 (DRR 1/2008/M): aprova nova orgânica da SREC e revoga o DRR 5/2005/M; nenhuma instrução textual dirigida ao original (o art. 28.º só o mantém transitoriamente em vigor): nada aplicado.",
-    "Alterador 2 (DRR 21/2008/M), art. 2.º: revoga os artigos 21.º a 32.º do original: 12 artigos com corpo (Revogado.) (o art. 21.º tem a chave '212.º' no pedido); efeitos diferidos pelo art. 3.º, n.º 2, mas a revogação é aplicada ao texto.",
-    "Alterador 2, art. 2.º: revogação do quadro iv do anexo e da Portaria n.º 78/2006: o quadro não está no texto atual; a portaria é outro diploma."
+    "Alterador 1 (DRR 1/2008/M): aprova a orgânica da SREC; nenhuma instrução de alteração ou revogação dirigida ao DRR 2/2005/M; nada aplicado.",
+    "Alterador 2 (DRR 21/2008/M), art. 2.º: revogação dos artigos 21.º a 32.º e do quadro IV do anexo; efeito adiado pelo n.º 2 do art. 3.º; não aplicada (em nao_aplicavel). Os reparos do verificador (artigos 23.º a 32.º e quadro IV) não se seguem por isso; os artigos ficam como no texto atual.",
+    "Alterador 2, art. 2.º: revogação da Portaria n.º 78/2006 é dirigida a outro diploma; ignorada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }
