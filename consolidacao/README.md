@@ -116,10 +116,12 @@ A verificação letra a letra de `llm_completo.verificar_resposta` confirma que 
 
 A primeira versão era quase só casos falsos. Foram lidos um a um, e as isenções vêm deles: revogações do diploma inteiro com todos os artigos "(Revogado.)", renumerações, retificações de datas na assinatura e alterações ao anexo que está dentro do último artigo.
 
-**`sem_instrucao`: as 3 aplicadas, para rever.** Nenhuma é um erro de texto óbvio, mas as três merecem ser lidas:
-- **DL 82/73**: o DL 553/77 revoga o "Decreto n.º 82/73", e o original é o Decreto-Lei n.º 82/73. O LLM aplicou a revogação a todos os artigos; a identidade do diploma revogado está por confirmar.
-- **DL 92/92**: o 13.º-A ficou "(Revogado.)" porque o DL 78/2007 revoga o artigo 2.º do DL 92/92, o artigo que adita os 13.º-A e 13.º-B a outro diploma.
-- **DRR 2/2005/M**: a chave "212.º" no pedido é o artigo 21.º lido mal pelo parser. A revogação dos arts. 21.º a 32.º está certa; a chave não.
+**`sem_instrucao`: as 3 aplicadas, lidas a 16/11/2026.** Nenhuma tem erro de texto:
+- **DL 82/73: certo.** O art. 32.º do DL 553/77 escreve "Decreto n.º 82/73", mas o DRE liga a revogação (`repealed_by` pt:dre:404488) a este Decreto-Lei n.º 82/73, e o preâmbulo do DL 553/77 cita-o pelo nome certo. A revogação tem uma exceção: o art. 4.º fica em vigor até ao decreto regulamentar da al. a) do art. 7.º do DL 553/77. O consolidado respeita-a: revoga os outros 36 artigos e deixa o 4.º.
+- **DL 92/92: certo.** O 13.º-A e o 13.º-B foram aditados ao DL 55/87, mas o texto que os adita é o art. 2.º do DL 92/92. O DL 78/2007 revoga esse art. 2.º no art. 14.º, al. b), e extingue o GAE. A revogação pertence a este diploma. O art. 2.º não tem chave própria, porque o parser lhe dá as chaves dos artigos aditados. Por isso, o consolidado marca os dois artigos aditados como revogados e mantém a frase de abertura do art. 2.º.
+- **DRR 2/2005/M: texto certo; a chave errada vem do DRE.** O parser não leu mal: o próprio `TextoFormatado` do DRE escreve "Artigo 212.º" entre o 20.º e o 22.º. O PDF do DR está cifrado com AES e não foi lido. A revogação dos arts. 21.º a 32.º pelo DRR 21/2008/M está certa.
+
+O DRE tem mais gralhas destas. `scripts/numeracao_artigos.py` procura títulos n-1, X, n+1 com X diferente de n e guarda-os em `reports/numeracao_artigos_suspeitas.jsonl`. A 16/11/2026 eram 138 suspeitas em 119 diplomas: 69 gralhas isoladas, 61 números repetidos e 8 trocas. Destas, 80 estão na 2.ª Série e 16 na UE. Confirmei no `TextoFormatado` do DRE outras três gralhas: no DL 337/88, "12.º" no lugar do 19.º; no DL 202/90, "90.º" no do 9.º; no DL 157/92, "251.º" no do 351.º. Nada em `data/` foi corrigido.
 
 **`rotulo_por_aplicar`: amostra das 12 aplicadas.** Há de tudo:
 - **Falso:** na Lei 77/2017, o rótulo do DL 12/2019 fala dos artigos do DL 96/2013 que a Lei 77/2017 altera, e o LLM ignorou-o bem.

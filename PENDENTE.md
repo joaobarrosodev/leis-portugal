@@ -3,23 +3,19 @@
 O plano semanal do Claude estava a 98 % no sábado (14/11) e renova-se na segunda, por volta das 4h.
 Por ordem: primeiro o que gasta pouco, depois o que precisa de modelos.
 
-## 1. Três diplomas consolidados por confirmar (consolidação)
+## 1. Três diplomas consolidados por confirmar: feito (16/11)
 
-**Ler os três: cerca de 15 minutos.** Basta comparar o consolidado com o texto do alterador.
+Os três estão certos no texto, e o parser lê bem. Os pormenores estão no `consolidacao/README.md`.
+A chave «212.º» do DRR 2/2005/M é uma gralha do próprio DRE.
 
-- **DL 82/73:** quase de certeza o mais rápido. Se o registo em `data/` tiver a relação
-  `repealed_by` do DRE a apontar para o DL 553/77, fica confirmado que é o mesmo diploma e não há
-  nada a corrigir.
-- **DL 92/92:** é o que pede mais leitura. É preciso decidir se o 13.º-A é deste diploma ou se foi
-  aditado a outro. Se foi aditado a outro, a revogação não devia estar aqui.
-- **DRR 2/2005/M:** o texto está certo, só a chave «212.º» está errada. O que leva tempo é perceber
-  porque é que o parser leu mal o artigo 21.º.
-
-**Corrigir o que estiver mal: mais 15 a 45 minutos.**
-- Um consolidado corrigido tem de voltar a passar pela verificação às cegas (numa sessão à parte) e
-  pelo `acervo.py` antes de mudar o `data/`.
-- Se o erro for do parser, como no DRR 2/2005/M, também é preciso corrigir o parser e confirmar que
-  mais nada muda.
+**Novo: gralhas do DRE na numeração dos artigos.** Há 138 suspeitas em 119 diplomas
+(`reports/numeracao_artigos_suspeitas.jsonl`, feito com `scripts/numeracao_artigos.py`). Uma
+pergunta sobre o art. 21.º não encontra o artigo que o DRE numerou «212.º».
+- Falta decidir como se corrige. Pode ser na recolha, com uma nota que guarda o número do DRE, como
+  o `sources/tc.py` já faz com as datas. Corrigir só as gralhas isoladas; os repetidos e as trocas
+  leem-se um a um.
+- Depois, `data/` no main, `structure` e o índice. O índice pode ser reconstruído na mesma vez que o
+  do ponto 3.
 
 ## 2. Atos da UE em vigor que ainda faltam (30)
 
