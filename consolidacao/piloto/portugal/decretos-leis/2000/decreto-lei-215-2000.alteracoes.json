@@ -138,5 +138,33 @@
     "unidade": [],
     "diploma": "pt:dre:580793:por",
     "alterador": "pt:dre:174824:por;pt:dre:640651:por"
+  },
+  {
+    "artigo": "ANEXO II",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II\nÁreas afectas à Sociedade:\n\n1 - Património afecto à Sociedade, incluindo todas as construções e edificações nele existentes:\n\nCastelo dos Mouros;\n\nConvento de Santa Cruz dos Capuchos e sua cerca;\n\nJardim de Seteais;\n\nParque da Pena e tapadas anexas;\n\nParque de Monserrate;\n\nTapada de Monserrate;\n\nQuinta da Abelheira;\n\nTapada de D. Fernando II;\n\nTapada do Shore.\n\n2 - Ficam excluídos do número anterior:\n\nPalácio Nacional da Pena;\n\nPousada Prof. Mário de Azevedo Gomes;\n\nArrecadação de Santa Eufémia;\n\nEdifício do Arquivo da Direcção-Geral de Florestas em Santa Eufémia e edifício inacabado junto ao mesmo.",
+    "depois": "## ANEXO II\n\n1 - Património afeto à sociedade, incluindo todas as construções e edificações nele existentes:\n\na) Castelo dos Mouros;\n\nb) Convento de Santa Cruz dos Capuchos e sua cerca;\n\nc) Palácio de Seteais e Jardim de Seteais;\n\nd) Palácio Nacional da Pena;\n\ne) Parque da Pena e tapadas anexas, incluindo a Pousada Prof. Mário de Azevedo Gomes, a Arrecadação de Santa Eufémia e o edifício do arquivo da extinta Direção-Geral de Florestas, em Santa Eufémia e o edifício inacabado junto ao mesmo;\n\nf) Palácio de Monserrate;\n\ng) Palácio Nacional de Queluz;\n\nh) Palácio Nacional de Sintra;\n\ni) Parque de Monserrate;\n\nj) Tapada de Monserrate;\n\nk) Quinta da Abelheira;\n\nl) Tapada de D. Fernando II;\n\nm) Tapada do Shore.\n\n> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:580793:por",
+    "alterador": "pt:dre:174824:por;pt:dre:640651:por"
+  },
+  {
+    "artigo": "ANEXO II",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II",
+    "depois": "## ANEXO II — Áreas afetas à sociedade",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:580793:por",
+    "alterador": "pt:dre:174824:por;pt:dre:640651:por"
   }
 ]

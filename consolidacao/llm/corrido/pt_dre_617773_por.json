@@ -6,6 +6,12 @@
       "ate": 6,
       "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Évora de Alcobaça, município de Alcobaça, com a área de 1949,30 ha.",
       "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 1
     }
   ],
   "insercoes": [
@@ -15,13 +21,14 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, 2.º: o n.º 6.º passa a obrigar a manter apenas um guarda florestal auxiliar, mas sem nova redação do texto; não aplicado. Alterador 3 diz no preâmbulo que a área é 1926 ha e não 1949,30 ha, sem nova redação do n.º 1.º; não aplicado.",
+  "nao_aplicavel": "Portaria n.º 904/2004 (alterador 2), 1.º: suspensão temporária do exercício da caça até à portaria de renovação, pelo prazo máximo de nove meses; não é alteração textual, vale só por um período e foi revogada pela Portaria n.º 1313/2004. Portaria n.º 1313/2004 (alterador 3), 1.º: renova a concessão por 12 anos com a área de 1926 ha e nova planta; não dá nova redação a nenhum número do original (nem ao prazo do 2.º nem à área do 1.º), e a correção da área para 1926 ha só vem no preâmbulo, por isso o texto fica como está.",
   "instrucoes": [
-    "Alt. 1, 1.º: nova redação do n.º 1.º -> substituída a unidade 6, mantendo a numeração 1.º.",
-    "Alt. 1: aditado o n.º 1.º-A -> inserido depois da unidade 6.",
-    "Alt. 1, 2.º: n.º 6.º passa a um guarda; alteração não textual, não aplicada.",
-    "Alt. 2: suspensão do exercício da caça; não textual, nada feito.",
-    "Alt. 3: renovação (1926 ha) e revogação da Portaria 904/2004 (outro diploma); nada feito."
+    "Portaria 940/97, 1.º: nova redação do n.º 1.º; substituída a unidade 6 mantendo a numeração «1.º».",
+    "Portaria 940/97, 1.º (2.º parágrafo): aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Portaria 940/97, 2.º (reparo confirmado): o n.º 6.º passa a obrigar a manter apenas um guarda; na unidade 12 trocado «dois guardas florestais auxiliares dotados» por «um guarda florestal auxiliar dotado», letra a letra do alterador.",
+    "Portaria 940/97, 3.º: entrada em vigor; nada a mudar.",
+    "Portaria 904/2004: suspensão temporária da caça, não textual; em nao_aplicavel.",
+    "Portaria 1313/2004: renovação da concessão e revogação da Portaria 904/2004 (instrução a outro diploma); nenhuma redação nova para o original; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

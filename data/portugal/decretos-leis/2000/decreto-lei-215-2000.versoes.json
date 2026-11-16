@@ -1,0 +1,486 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:580793:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66dff40d23bafc57",
+    "8e2fbe2549a1659f",
+    "695cc5c511b242eb",
+    "fa6e87aabf871c64",
+    "48f2d8307a7ebd9c",
+    "fdafc8a6bdb25ac4",
+    "29b3523d7cca9721",
+    "632c911f428aa2fd",
+    "0b1529c6a3390c0d",
+    "bfc9d90616ccb169",
+    "c78fc4b4ed349565",
+    "a270f067e0929e39",
+    "f367e2d4211e19c6",
+    "7e6aef335133556d",
+    "1ada3c58ee5d1047",
+    "4be004523abfed07",
+    "7647ce662d8ef4b8",
+    "6beaa70bdd10ce36",
+    "83b45d1e670d75e2",
+    "7dd2261bcae87e4e",
+    "f9f1c612554cc7d3",
+    "d753e68bd1a1b0eb",
+    "e7e1f34c3b28321c",
+    "e2c8f910a49c3d4d",
+    "a2df349543232157",
+    "c27ce20c5e09e522",
+    "a237402850c6b2ac",
+    "98bf77ebe52a72c7",
+    "6684f8a0083fea0e",
+    "f0a64541c059d91e",
+    "cec2ff4b6006bfed",
+    "610e0feb6e9ce480",
+    "16d38c041c8a0062"
+   ]
+  },
+  {
+   "date": "2012-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640651:por",
+     "title": "Decreto-Lei n.º 292/2007",
+     "published": "2007-08-21",
+     "dre_path": "/dr/detalhe/decreto-lei/292-2007-640651"
+    },
+    {
+     "id": "pt:dre:174824:por",
+     "title": "Decreto-Lei n.º 205/2012",
+     "published": "2012-08-31",
+     "dre_path": "/dr/detalhe/decreto-lei/205-2012-174824"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 8.º-B",
+    "Revoga Artigo 9.º",
+    "Altera Artigo ANEXO — Estatutos da Sociedade Parques de Sintra - Monte da Lua, S. A.::15.º",
+    "Altera Artigo ANEXO — Estatutos da Sociedade Parques de Sintra - Monte da Lua, S. A.::17.º",
+    "Altera Artigo ANEXO II",
+    "Altera Artigo ANEXO II"
+   ],
+   "fragments": [
+    "66dff40d23bafc57",
+    "8e2fbe2549a1659f",
+    "f5b8a7f11735159a",
+    "2641cb4b348b2052",
+    "48f2d8307a7ebd9c",
+    "fdafc8a6bdb25ac4",
+    "2d275419ac2bb561",
+    "632c911f428aa2fd",
+    "375703f4a5686c1e",
+    "7f7feb4d24cecd2e",
+    "dd987d8d2458a9f9",
+    "da26f846cdbeffbe",
+    "c78fc4b4ed349565",
+    "a270f067e0929e39",
+    "f367e2d4211e19c6",
+    "7e6aef335133556d",
+    "1ada3c58ee5d1047",
+    "4be004523abfed07",
+    "7647ce662d8ef4b8",
+    "6beaa70bdd10ce36",
+    "83b45d1e670d75e2",
+    "7dd2261bcae87e4e",
+    "f9f1c612554cc7d3",
+    "d753e68bd1a1b0eb",
+    "e7e1f34c3b28321c",
+    "e2c8f910a49c3d4d",
+    "a2df349543232157",
+    "3d42f9246621d090",
+    "a237402850c6b2ac",
+    "d2e7b872baa46037",
+    "6684f8a0083fea0e",
+    "f0a64541c059d91e",
+    "cec2ff4b6006bfed",
+    "610e0feb6e9ce480",
+    "87c9957de7ccc49c"
+   ]
+  }
+ ],
+ "fragments": {
+  "66dff40d23bafc57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Setembro\n\nA grande densidade de bens monumentais e naturais na área de Sintra levaram a UNESCO a classificar Sintra como património mundial.\n\nA diversidade desses bens, se lhe confere um valor patrimonial ímpar, acrescenta-lhe também assinaláveis vulnerabilidades em termos de preservação e restauro. A antiguidade dos monumentos, a relativa fragilidade de muitos dos materiais usados na sua construção, o estado de abandono a que muitos deles estiveram sujeitos, realidade que também se aplica aos parques de Sintra, e a dificuldade de controlo resultam numa situação complexa que urge resolver.\n\nVárias entidades estão directamente envolvidas no processo de recuperação e revalorização do património histórico e natural de Sintra: a Câmara Municipal de Sintra, o Instituto da Conservação da Natureza, o Instituto Português do Património Arquitectónico e a Direcção-Geral das Florestas.\n\nO importante e árduo trabalho levado a cabo por estas instituições e organismos permitiu classificar Sintra como património mundial; no entanto, também esta distinção internacional responsabiliza e obriga à convergência de esforços porventura dispersos.\n\nAssim, a responsabilidade histórica inerente à conservação do património natural e construído de Sintra e os altos padrões de qualidade e eficácia que terão de ser observados na sua manutenção exigem do Estado uma rigorosa compatibilização de esforços e coordenação de iniciativas que não se compadece com acções individuais desagregadas de uma visão de conjunto de restauro, recuperação e revalorização dos monumentos, dos parques e da paisagem envolvente.\n\nAcontece, porém, que a dimensão e complexidade da concepção e execução do projecto de recuperação da zona de património mundial da UNESCO, bem como a gestão dos meios de financiamento das actividades necessárias à sua realização, aconselham que aquelas actividades sejam confiadas a uma entidade dotada de estrutura empresarial.\n\nEsta entidade revestirá a natureza de sociedade anónima de capitais exclusivamente públicos, que serão subscritos pelo Estado, através do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, pelo Ministério do Ambiente e do Ordenamento do Território, através do Instituto da Conservação da Natureza (ICN), pelo Ministério da Cultura, através do Instituto Português do Património Arquitectónico (IPPAR) e pela Câmara Municipal de Sintra, sem prejuízo da propriedade ou dominialidade existentes.\n\nPelo presente diploma cria-se a Sociedade Parques de Sintra - Monte da Lua, S. A., sociedade anónima de capitais exclusivamente públicos, e aprovam-se os respectivos estatutos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "8e2fbe2549a1659f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É constituída a Sociedade Parques de Sintra - Monte da Lua, S. A., sociedade anónima de capitais exclusivamente públicos, abreviadamente designada por Parques do Monte da Lua ou Sociedade.\n\n2 - A Sociedade rege-se pelo regime jurídico do sector empresarial do Estado, pelo presente diploma e pelos seus estatutos."
+  },
+  "695cc5c511b242eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A Parques do Monte da Lua tem por objecto a recuperação, requalificação e revitalização, gestão, exploração e conservação de todas as áreas, designadamente os parques e demais zonas envolventes, que lhe sejam atribuídas pelo presente diploma, nos termos do anexo II, bem como todas as actividades conexas ou afins ao objecto principal.\n\n2 - Mediante despacho dos membros do Governo da tutela respectiva, obtida a anuência prévia do município de Sintra, poderão ser, ainda, incluídas no âmbito de intervenção da Sociedade outras áreas, de que o Estado, institutos públicos ou o município de Sintra sejam titulares, que se encontrem dentro do perímetro da área inscrita na lista de património mundial e respectiva zona tampão, designadamente a área envolvente do cabo da Roca.\n\n3 - A Sociedade respeitará quaisquer compromissos anteriormente assumidos pelas entidades que a constituem, bem como eventuais condicionantes de utilização, estabelecendo protocolos para esse efeito sempre que necessário."
+  },
+  "fa6e87aabf871c64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A Parques do Monte da Lua é constituída com um capital social inicial de 500000 euros, integralmente subscrito e realizado em dinheiro.\n\n2 - Participam no capital social da Parques do Monte da Lua:\n\na) Instituto da Conservação da Natureza, com 55%;\n\nb) Estado, através do Ministério da Agricultura, Desenvolvimento Rural e Pescas, com 15%;\n\nc) Instituto Português do Património Arquitectónico, com 15%;\n\nd) Município de Sintra, com 15%;\n\n3 - As acções representativas do capital social da Sociedade apenas poderão ser alienadas a favor de entes públicos, tal como definidos na alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.\n\n4 - As acções representativas do capital serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida, por despacho do Ministro das Finanças, obtida a anuência dos accionistas referidos no n.º 2, a uma pessoa colectiva de direito público ou a sociedades anónimas de capitais exclusivamente públicos.\n\n5 - Os direitos do Estado e dos institutos públicos como accionistas serão exercidos através de representantes designados por despacho dos ministros da tutela respectiva.\n\n6 - Os direitos do município de Sintra como accionista serão exercidos por representante designado pela respectiva Câmara Municipal"
+  },
+  "48f2d8307a7ebd9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - São aprovados os estatutos da Parques do Monte da Lua, que figuram em anexo ao presente diploma, do qual fazem parte integrante.\n\n2 - Os estatutos anexos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.\n\n3 - As alterações aos estatutos realizam-se nos termos da lei comercial.\n\n4 - Os actos necessários ao registo da constituição, bem como todas as alterações posteriores aos presentes estatutos, estão isentos de quaisquer taxas ou emolumentos notariais, de registo ou de outro tipo."
+  },
+  "fdafc8a6bdb25ac4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPara a prossecução dos seus fins, são conferidos à Parques do Monte da Lua, para além de outros que lhe venham a ser expressamente atribuídos por lei:\n\na) Os poderes para, nos termos da lei, agir como entidade expropriante dos imóveis que sejam necessários à prossecução do seu escopo social;\n\nb) Direito de utilizar e administrar os bens do domínio público que estejam ou venham a estar afectos ao exercício da sua actividade."
+  },
+  "29b3523d7cca9721": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - As obras a realizar pela Parques do Monte da Lua ficam sujeitas ao disposto nos regimes de contratação pública e legislação complementar, no que respeita ao modo e às garantias de execução e conclusão de empreitadas e fornecimentos.\n\n2 - À Parques do Monte da Lua são conferidos os poderes e prerrogativas do Estado quanto à protecção, desocupação, demolição e defesa administrativa da posse dos terrenos e instalações que lhe estejam afectos e das obras por si executadas ou contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos particulares de que necessite para estaleiros, depósito de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito a indemnização que houver lugar."
+  },
+  "632c911f428aa2fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNo património não afecto à Sociedade mas que se situe dentro do perímetro da zona de património mundial, os projectos e obras a realizar por entidades públicas deverão ser previamente concertados com a Sociedade."
+  },
+  "0b1529c6a3390c0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs funcionários do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer quaisquer cargos ou funções, em regime de requisição ou de comissão de serviço, na Parques do Monte da Lua."
+  },
+  "bfc9d90616ccb169": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nFica desde já convocada a assembleia geral da Parques do Monte da Lua, para se reunir, na sede social, pelas 15 horas do 8.º dia útil após a publicação do presente diploma, para a eleição dos titulares dos cargos sociais.\n\nVisto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa - José Estêvão Cangarato Sasportes.\n\nPromulgado em 16 de Agosto de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Agosto de 2000.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  },
+  "c78fc4b4ed349565": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estatutos da Sociedade Parques de Sintra - Monte da Lua, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estatutos da Sociedade Parques de Sintra - Monte da Lua, S. A."
+  },
+  "a270f067e0929e39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Forma e denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Forma e denominação\n\nA Sociedade adopta a forma de sociedade anónima e a denominação de Parques de Sintra - Monte da Lua, S. A."
+  },
+  "f367e2d4211e19c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A sede social é em Sintra.\n\n2 - O conselho de administração pode deslocar a sede social para outro local dentro do mesmo município ou em municípios limítrofes.\n\n3 - O conselho de administração pode também estabelecer delegações, filiais, sucursais ou outras formas de representação social, em território nacional ou estrangeiro."
+  },
+  "7e6aef335133556d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nA duração da Sociedade é por tempo indeterminado."
+  },
+  "1ada3c58ee5d1047": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto\n\nA Sociedade tem por objecto a recuperação, requalificação e revitalização, gestão, exploração e conservação de todas as áreas, designadamente os parques e demais zonas envolventes que lhe venham a ser atribuídos ou afectos, bem como todas as actividades conexas ou afins ao objecto principal."
+  },
+  "4be004523abfed07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Participação noutras sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Participação noutras sociedades\n\nA Sociedade poderá adquirir, a título originário ou derivado, participações no capital de sociedades cujo objecto social esteja, directa ou indirectamente, relacionado com o seu, bem como, por qualquer forma, alienar ou onerar as que estejam integradas no seu património."
+  },
+  "7647ce662d8ef4b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Capital\n\n1 - O capital social é de 500000 euros, dividido em 50000 acções de 10 euros cada uma, encontrando-se integralmente realizado em dinheiro.\n\n2 - O capital poderá ser elevado até 2500000 euros, por uma ou mais vezes, por entradas em dinheiro, mediante deliberação do conselho de administração, que fixará, nos termos da lei, as condições de subscrição, nomeadamente o diferimento das entradas e as categorias de acções a emitir.\n\n3 - O capital poderá ser aumentado por subscrição a realizar em dinheiro ou em espécie, por uma ou mais vezes, por deliberação dos accionistas a tomar em assembleias gerais a convocar para o efeito."
+  },
+  "6beaa70bdd10ce36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acções\n\n1 - As acções são nominativas.\n\n2 - Haverá títulos representativos de 1, 5, 50, 1000 e 10000 acções.\n\n3 - As acções representativas do capital social da sociedade apenas poderão ser alienadas a favor de entes públicos, tal como definidos na alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio."
+  },
+  "83b45d1e670d75e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito de preferência\n\n1 - Os accionistas terão direito de preferência na alienação de acções a título oneroso.\n\n2 - Para efeito de exercício do direito de preferência, os accionistas serão avisados pelo conselho de administração por carta registada, com aviso de recepção, com a antecedência mínima de 30 dias, precedendo comunicação escrita do alienante àquele conselho, indicando o objecto da alienação, o preço, as condições de pagamento e as demais circunstâncias relevantes do negócio.\n\n3 - O conselho de administração notificará o alienante e os preferentes para comparecerem em certa data na sede social, munidos dos respectivos títulos, distribuindo-se as acções por acordo entre os preferentes ou, na falta de acordo, por licitação."
+  },
+  "7dd2261bcae87e4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações\n\nPor deliberação do conselho de administração e observados os demais condicionamentos legais, a Sociedade poderá emitir obrigações por subscrição pública ou privada."
+  },
+  "f9f1c612554cc7d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Órgãos sociais\n\nSão órgãos da Sociedade:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) O fiscal único."
+  },
+  "d753e68bd1a1b0eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Composição da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição da assembleia geral\n\n1 - A assembleia geral é formada pelos accionistas com direito a, pelo menos, um voto.\n\n2 - A cada 100 acções corresponde um voto.\n\n3 - Nos trabalhos da assembleia devem participar os membros do conselho de administração e o fiscal único.\n\n4 - Pode qualquer accionista fazer-se representar na assembleia geral, mediante simples carta dirigida ao presidente da mesa, cabendo a esta apreciar a autenticidade da mesma.\n\n5 - Os accionistas que assumam a natureza de pessoa colectiva indicam, através de carta dirigida ao presidente da mesa, quem os representa na assembleia geral."
+  },
+  "e7e1f34c3b28321c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competência da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência da assembleia geral\n\n1 - Compete à assembleia geral:\n\na) Deliberar sobre o plano de actividades, anual e plurianual;\n\nb) Deliberar sobre o orçamento;\n\nc) Deliberar sobre o relatório de gestão e as contas do exercício;\n\nd) Deliberar sobre a proposta de aplicação de resultados;\n\ne) Proceder à apreciação geral da administração e fiscalização da Sociedade;\n\nf) Eleger os titulares dos demais órgãos sociais;\n\ng) Deliberar sobre alterações dos estatutos;\n\nh) Deliberar sobre qualquer outro assunto para que tenha sido convocada.\n\n2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número."
+  },
+  "e2c8f910a49c3d4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mesa da assembleia geral\n\n1 - A mesa da assembleia geral é constituída por um presidente e por dois secretários, eleitos por esta, para um mandato de três anos.\n\n2 - O mandato dos membros da mesa da assembleia geral é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham a substituir."
+  },
+  "a2df349543232157": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Reuniões da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reuniões da assembleia geral\n\nA assembleia geral reunir-se-á, pelo menos, uma vez por ano e sempre que for convocada, nos termos da lei ou a requerimento do conselho de administração, do fiscal único ou de accionistas que representem, pelo menos, 5% do capital social."
+  },
+  "c27ce20c5e09e522": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Composição do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto por um presidente e dois a seis vogais.\n\n2 - Nas deliberações do conselho, o presidente tem voto de qualidade.\n\n3 - O presidente do conselho de administração é escolhido pela assembleia geral de entre os vogais eleitos.\n\n4 - O mandato dos membros do conselho de administração tem a duração de quatro anos e é renovável."
+  },
+  "a237402850c6b2ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Competência do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência do conselho de administração\n\n1 - Compete ao conselho de administração assegurar a gestão dos negócios da Sociedade, sendo-lhe atribuídos os mais amplos poderes e cabendo-lhe, designadamente:\n\na) Elaborar o plano de actividades, anual e plurianual;\n\nb) Elaborar o orçamento e acompanhar a sua execução;\n\nc) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência de outro órgão da Sociedade;\n\nd) Adquirir, alienar ou onerar participações no capital de outras sociedades, bem como obrigações e outros títulos semelhantes;\n\ne) Representar a Sociedade, em juízo e fora dele, activa e passivamente, propor e acompanhar acções, confessar, desistir, transigir e comprometer-se em árbitros;\n\nf) Deliberar sobre a emissão de empréstimos obrigacionistas e contrair outros empréstimos no mercado financeiro, ressalvados os limites legais;\n\ng) Estabelecer a organização técnico-administrativa da Sociedade;\n\nh) Decidir sobre a admissão de pessoal e sua remuneração;\n\ni) Constituir procuradores e mandatários da Sociedade, nos termos que julgue conveniente;\n\nj) Exercer as demais competências que lhe caibam por lei, independentemente e sem prejuízo das que lhe sejam delegadas pela assembleia geral.\n\n2 - O conselho de administração poderá delegar em algum ou alguns dos seus membros ou em comissões especiais algum ou alguns dos seus poderes, definindo em acta os limites e condições de tal delegação.\n\n3 - Incumbe especialmente ao presidente do conselho de administração:\n\na) Representar o conselho em juízo e fora dele;\n\nb) Coordenar a actividade do conselho de administração, convocar e dirigir as respectivas reuniões;\n\nc) Zelar pela correcta execução das deliberações do conselho de administração."
+  },
+  "98bf77ebe52a72c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Reuniões do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reuniões do conselho de administração\n\n1 - O conselho de administração reúne mensalmente e ainda sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de pelo menos dois administradores.\n\n2 - O conselho de administração pode deliberar validamente quando estiver presente a maioria dos seus membros, sendo as respectivas deliberações tomadas por maioria de votos dos membros presentes ou representados, dispondo o presidente, em caso de empate na votação, de voto de qualidade.\n\n3 - Os membros do conselho de administração podem-se fazer representar nas reuniões por outro administrador, mediante carta dirigida ao presidente."
+  },
+  "6684f8a0083fea0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Representação\n\n1 - A Sociedade obriga-se:\n\na) Pela assinatura do presidente do conselho de administração;\n\nb) Pela assinatura de dois vogais executivos do conselho de administração, nos termos da respectiva delegação de poderes;\n\nc) Pela assinatura de um ou mais administradores-delegados, nos termos da respectiva delegação de poderes;\n\nd) Pela assinatura de um membro do conselho de administração e de um mandatário ou procurador da Sociedade, nos termos dos respectivos poderes;\n\ne) Pela assinatura de um mandatário ou procurador da Sociedade, nos termos dos respectivos poderes.\n\n2 - Em assuntos de mero expediente bastará a assinatura de um dos vogais executivos do conselho de administração."
+  },
+  "f0a64541c059d91e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Fiscal único\n\n1 - A fiscalização da actividade social compete a um fiscal único, nos termos da lei.\n\n2 - O fiscal único pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria."
+  },
+  "cec2ff4b6006bfed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências do fiscal único\n\nCompete ao fiscal único exercer as competências que estão cometidas por lei ao conselho fiscal."
+  },
+  "610e0feb6e9ce480": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Dissolução e liquidação\n\n1 - A Sociedade dissolve-se nos termos da lei.\n\n2 - Salvo se a assembleia geral, convocada especialmente para o efeito, decidir de outro modo, serão liquidatários os membros do conselho de administração em exercício à data da liquidação/dissolução."
+  },
+  "16d38c041c8a0062": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nÁreas afectas à Sociedade:\n\n1 - Património afecto à Sociedade, incluindo todas as construções e edificações nele existentes:\n\nCastelo dos Mouros;\n\nConvento de Santa Cruz dos Capuchos e sua cerca;\n\nJardim de Seteais;\n\nParque da Pena e tapadas anexas;\n\nParque de Monserrate;\n\nTapada de Monserrate;\n\nQuinta da Abelheira;\n\nTapada de D. Fernando II;\n\nTapada do Shore.\n\n2 - Ficam excluídos do número anterior:\n\nPalácio Nacional da Pena;\n\nPousada Prof. Mário de Azevedo Gomes;\n\nArrecadação de Santa Eufémia;\n\nEdifício do Arquivo da Direcção-Geral de Florestas em Santa Eufémia e edifício inacabado junto ao mesmo."
+  },
+  "f5b8a7f11735159a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A Parques do Monte da Lua tem por objeto a recuperação, requalificação e revitalização, gestão, exploração e conservação de todas as áreas, designadamente os parques e demais zonas envolventes, que lhe sejam atribuídas pelo presente diploma, nos termos do anexo ii, por decisão do Estado ou por contrato celebrado com o Estado, bem como todas as atividades conexas, nomeadamente turísticas, ou afins ao objeto principal.\n\n2 - A Parques do Monte da Lua tem ainda por objeto a prossecução de atribuições de serviço público delegadas pelo Estado relativas à manutenção e desenvolvimento das atividades da Escola Portuguesa de Arte Equestre.\n\n3 - Mediante despacho do membro do Governo responsável pela área das finanças e dos membros do Governo da tutela respetiva, e obtida a anuência prévia do Município de Sintra sempre que estejam em causa áreas que se encontrem dentro do perímetro da área inscrita na lista de património mundial e respetiva zona tampão, podem ser incluídas no âmbito de intervenção da sociedade outras áreas ou património de que o Estado, institutos públicos ou o Município de Sintra sejam titulares.\n\n4 - A Sociedade respeitará quaisquer compromissos anteriormente assumidos pelas entidades que a constituem, bem como eventuais condicionantes de utilização, estabelecendo protocolos para esse efeito sempre que necessário.\n\n> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+  },
+  "2641cb4b348b2052": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21.",
+    "Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - A Parques do Monte da Lua é constituída com um capital social inicial de 500000 euros, integralmente subscrito e realizado em dinheiro.\n\n2 - Participam no capital social da Parques do Monte da Lua:\n\na) O Estado, com 35 %;\n\nb) O Instituto da Conservação da Natureza e das Florestas, I. P., com 35 %;\n\nc) O Turismo de Portugal, I. P., com 15 %;\n\nd) O Município de Sintra, com 15 %.\n\n3 - As acções representativas do capital social da Sociedade apenas poderão ser alienadas a favor de entes públicos, tal como definidos na alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.\n\n4 - Os direitos do Estado como acionista são exercidos através da Direção-Geral do Tesouro e Finanças, sob a direção do membro do Governo responsável pela área das finanças, que pode delegar, mediante prévia coordenação, por despacho com o membro do Governo responsável pela área da cultura.\n\n5 - Os direitos do Instituto da Conservação da Natureza e Florestas, I. P., e do Turismo de Portugal, I. P., como acionistas são exercidos pelos órgãos de gestão respetivos, com respeito pelas orientações decorrentes da superintendência e pela tutela que sobre eles sejam exercidas.\n\n6 - Os direitos do município de Sintra como accionista serão exercidos por representante designado pela respectiva Câmara Municipal\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21.\n\n> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+  },
+  "2d275419ac2bb561": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - As obras a realizar pela Parques do Monte da Lua ficam sujeitas ao disposto nos regimes de contratação pública e legislação complementar, no que respeita ao modo e às garantias de execução e conclusão de empreitadas e fornecimentos.\n\n2 - À Parques do Monte da Lua são conferidos os poderes e prerrogativas do Estado quanto à protecção, desocupação, demolição e defesa administrativa da posse dos terrenos e instalações que lhe estejam afectos e das obras por si executadas ou contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos particulares de que necessite para estaleiros, depósito de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito a indemnização que houver lugar.\n\n3 - O disposto no número anterior não prejudica o cumprimento dos procedimentos definidos na lei para a realização de obras em património classificado e em matéria de salvaguarda e valorização de bens imóveis e das respectivas zonas de protecção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21."
+  },
+  "375703f4a5686c1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+   ],
+   "markdown": "###### Artigo 8.º\n\nOs trabalhadores em funções públicas do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem exercer quaisquer cargos ou funções, nos termos da lei, na Parques do Monte da Lua.\n\n> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+  },
+  "7f7feb4d24cecd2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º-A",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+   ],
+   "markdown": "###### Artigo 8.º-A\n\n1 - Sem prejuízo do disposto nos Estatutos da Parques do Monte da Lua, carecem de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças, da conservação da natureza e florestas, da cultura e do turismo a aquisição, a alienação ou a oneração de participações no capital social da sociedade, nos termos da lei.\n\n2 - Carecem ainda de aprovação dos membros do Governo referidos no n.º 1 os planos de atividades e de investimento, bem como os orçamentos e contas.\n\n3 - Para efeitos do disposto no número anterior, os planos de atividades e de investimento e os orçamentos e contas são remetidos aos membros do Governo referidos no n.º 1, para aprovação, no prazo em que são disponibilizados aos acionistas.\n\n> Aditado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+  },
+  "dd987d8d2458a9f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º-B",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+   ],
+   "markdown": "###### Artigo 8.º-B\n\n1 - O membro do Governo responsável pela área da cultura pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa ao património cultural que lhe esteja afeto.\n\n2 - O membro do Governo responsável pelas áreas da conservação da natureza e das florestas pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa à Escola Portuguesa de Arte Equestre.\n\n3 - O membro do Governo responsável pelo turismo pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa a investimentos financiados pelo Turismo de Portugal, I. P.\n\n> Aditado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+  },
+  "da26f846cdbeffbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.\n\nVisto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa - José Estêvão Cangarato Sasportes.\n\nPromulgado em 16 de Agosto de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Agosto de 2000.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  },
+  "3d42f9246621d090": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Composição do conselho de administração",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21."
+   ],
+   "markdown": "###### Artigo 15.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto por um presidente e dois vogais executivos, eleitos em assembleia geral da sociedade.\n\n2 - O presidente do conselho de administração é escolhido pela assembleia geral por maioria qualificada de dois terços do capital accionista.\n\n3 - O mandato dos membros do conselho de administração é de três anos, podendo ser renovado até ao limite máximo de três vezes.\n\n> Alterado pelo/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21."
+  },
+  "d2e7b872baa46037": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Reuniões do conselho de administração",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21."
+   ],
+   "markdown": "###### Artigo 17.º — Reuniões do conselho de administração\n\n1 - O conselho de administração reúne mensalmente e sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de qualquer dos administradores.\n\n2 - O conselho de administração pode deliberar validamente quando estiver presente a maioria dos seus membros, sendo as respectivas deliberações tomadas por maioria de votos dos membros presentes ou representados, dispondo o presidente, em caso de empate na votação, de voto de qualidade.\n\n3 - Os membros do conselho de administração podem-se fazer representar nas reuniões por outro administrador, mediante carta dirigida ao presidente.\n\n> Alterado pelo/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21."
+  },
+  "87c9957de7ccc49c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Áreas afetas à sociedade",
+   "in_force_from": "2012-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+   ],
+   "markdown": "## ANEXO II — Áreas afetas à sociedade\n\n1 - Património afeto à sociedade, incluindo todas as construções e edificações nele existentes:\n\na) Castelo dos Mouros;\n\nb) Convento de Santa Cruz dos Capuchos e sua cerca;\n\nc) Palácio de Seteais e Jardim de Seteais;\n\nd) Palácio Nacional da Pena;\n\ne) Parque da Pena e tapadas anexas, incluindo a Pousada Prof. Mário de Azevedo Gomes, a Arrecadação de Santa Eufémia e o edifício do arquivo da extinta Direção-Geral de Florestas, em Santa Eufémia e o edifício inacabado junto ao mesmo;\n\nf) Palácio de Monserrate;\n\ng) Palácio Nacional de Queluz;\n\nh) Palácio Nacional de Sintra;\n\ni) Parque de Monserrate;\n\nj) Tapada de Monserrate;\n\nk) Quinta da Abelheira;\n\nl) Tapada de D. Fernando II;\n\nm) Tapada do Shore.\n\n> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31."
+  }
+ }
+}

@@ -3,7 +3,8 @@ id: pt:dre:1913792:por
 title: Regulamento n.º 40/2009
 original: data/portugal/serie-ii/regulamentos/2009/regulamento-40-2009.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:3282938:por
@@ -71,6 +72,8 @@ g) «Transportadora aérea», empresa detentora de licença de exploração nos 
 
 a) Passageiros/carga transportados fora do território nacional e de fora para dentro do território nacional e do território nacional para fora do mesmo, nos 12 meses anteriores, discriminando-os por origem/destino;
 
+b) Volume de negócios referente a transporte aéreo internacional no exercício económico anterior.
+
 3 - O INAC, I. P., emite a declaração requerida no prazo máximo de 15 dias, após a completa instrução do processo.
 
 4 - Sempre que o INAC, I. P., solicitar esclarecimentos adicionais sobre a informação prestada, é interrompido o prazo previsto no número anterior.
@@ -78,6 +81,8 @@ a) Passageiros/carga transportados fora do território nacional e de fora para d
 5 - O INAC, I. P., reserva-se o direito de solicitar comprovativos da informação prestada à empresa requerente ou a qualquer outra entidade.
 
 > Alterado pelo/a Artigo 2.º do/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29.
+
+> Alterado pelo/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29.
 
 ###### Artigo 4.º — Emissão da declaração para transportadoras aéreas em início de actividade
 

@@ -51,19 +51,33 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Anexo II (áreas afetas à sociedade), substituído pelo alterador 2 (art. 1.º, n.º 2) e pelo alterador 3 (art. 6.º e anexo I), não consta do texto atual por artigos; não aplicado. As republicações (alt. 2 e alt. 3) não foram usadas como instruções.",
+  "titulos": [
+    {
+      "atual": "## ANEXO II",
+      "novo": "## ANEXO II — Áreas afetas à sociedade",
+      "alterador": 3
+    }
+  ],
+  "anexos": [
+    {
+      "titulo": "## ANEXO II",
+      "texto": "1 - Património afeto à sociedade, incluindo todas as construções e edificações nele existentes:\n\na) Castelo dos Mouros;\n\nb) Convento de Santa Cruz dos Capuchos e sua cerca;\n\nc) Palácio de Seteais e Jardim de Seteais;\n\nd) Palácio Nacional da Pena;\n\ne) Parque da Pena e tapadas anexas, incluindo a Pousada Prof. Mário de Azevedo Gomes, a Arrecadação de Santa Eufémia e o edifício do arquivo da extinta Direção-Geral de Florestas, em Santa Eufémia e o edifício inacabado junto ao mesmo;\n\nf) Palácio de Monserrate;\n\ng) Palácio Nacional de Queluz;\n\nh) Palácio Nacional de Sintra;\n\ni) Parque de Monserrate;\n\nj) Tapada de Monserrate;\n\nk) Quinta da Abelheira;\n\nl) Tapada de D. Fernando II;\n\nm) Tapada do Shore.",
+      "alterador": 3
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1 (DL 97/2007): orgânica do IMC; art. 19.º sucessão de participações — não altera o texto",
-    "Alt. 2, art. 1.º n.º 1: artigos 3.º e 6.º — texto atual já tem essa redação; sem mudança",
-    "Alt. 2, art. 1.º n.º 2: anexo II — fora dos artigos; não aplicado",
-    "Alt. 2, art. 3.º: estatutos 15.º e 17.º — aplicados (depois sem alteração posterior)",
-    "Alt. 3, art. 5.º: artigos 2.º, 3.º e 8.º — aplicados (2.º n.º 4 = anterior n.º 3; 3.º n.º 6 = anterior n.º 5)",
-    "Alt. 3, art. 6.º: anexo II — não aplicado",
-    "Alt. 3, art. 7.º: aditados 8.º-A e 8.º-B",
-    "Alt. 3, art. 8.º: altera DL 48/2007 — ignorado",
-    "Alt. 3, art. 10.º a): revoga o artigo 9.º; b) diz respeito a outro diploma — ignorado"
+    "DL 97/2007 (alt. 1): lei orgânica do IMC; o art. 19.º (sucessão nas participações sociais) não dá nenhuma nova redação ao original. Nada aplicado.",
+    "DL 292/2007 (alt. 2), art. 1.º n.º 1: arts. 3.º e 6.º. O programa aplicou-os bem (3.º: als. a)-c), n.º 4 novo, n.º 5 = anterior n.º 6; 6.º: n.º 3 novo); o 6.º fica como está. O 3.º volta a mudar pelo DL 205/2012.",
+    "DL 292/2007, art. 1.º n.º 2: nova redação do anexo II; substituída depois pelo DL 205/2012, art. 6.º, cuja redação é a que fica (os dois reparos procedem).",
+    "DL 292/2007, art. 3.º: arts. 15.º (n.os 1 a 3, o artigo fica com três números, como na redação dada) e 17.º (n.º 1; n.os 2 e 3 ficam) dos Estatutos. Aplicado. Art. 2.º (afetação) e art. 4.º (republicação) não textuais.",
+    "DL 205/2012 (alt. 3), art. 5.º: arts. 2.º (n.os 1 a 3 novos, n.º 4 = anterior n.º 3), 3.º (als. a)-d) do n.º 2, n.os 4 e 5 novos, n.º 6 = anterior n.º 5) e 8.º. Aplicado.",
+    "DL 205/2012, art. 6.º: o anexo II passa a ter a redação do anexo I do DL 205/2012: corpo substituído e título do anexo passa a «## ANEXO II — Áreas afetas à sociedade», como vem no alterador.",
+    "DL 205/2012, art. 7.º: aditados os arts. 8.º-A e 8.º-B. Aplicado.",
+    "DL 205/2012, art. 10.º al. a): revogado o art. 9.º. Aplicado. Al. b) e art. 8.º alteram outros diplomas: ignorados. Arts. 1.º a 4.º, 9.º e 11.º (republicação) não textuais; a redação da republicação não se aplica onde nenhuma instrução a dá."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

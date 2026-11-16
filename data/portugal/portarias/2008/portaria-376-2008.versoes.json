@@ -1,0 +1,386 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249483:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-05-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70e1be3c293a12d6",
+    "9aaecfd3ae1eb1f5",
+    "ae78e2b275f398cf",
+    "9ad64a16020f689a",
+    "9fd5d0a2fcb4850e",
+    "f203f0dba326e4cb",
+    "8d9e2443ad7008a9",
+    "e8cdfe812a8b17a2",
+    "45a0cc709a499d96",
+    "c236a00716c7e190",
+    "9252c33ee8513eb3",
+    "7d672926a8a94cce",
+    "1433afe9962df8fc",
+    "a9773b8c95f3e132",
+    "dc18b86b475a9d85",
+    "1dd2847f5bae0ec0",
+    "60c5e4acdb06b11a",
+    "75c91e7f0537fc0b",
+    "160ed94907697726",
+    "9b1ee107b1a1a59e",
+    "f20addaae6d8076c",
+    "818d8ea18d8bb37d",
+    "743506370a872b8f",
+    "690abe51e274a01d",
+    "b0db85ce585c7c92",
+    "a8841d592759cfe4"
+   ]
+  },
+  {
+   "date": "2014-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:494196:por",
+     "title": "Portaria n.º 578/2009",
+     "published": "2009-06-01",
+     "dre_path": "/dr/detalhe/portaria/578-2009-494196"
+    },
+    {
+     "id": "pt:dre:260644:por",
+     "title": "Portaria n.º 168/2013",
+     "published": "2013-04-30",
+     "dre_path": "/dr/detalhe/portaria/168-2013-260644"
+    },
+    {
+     "id": "pt:dre:25343983:por",
+     "title": "Portaria n.º 80/2014",
+     "published": "2014-04-09",
+     "dre_path": "/dr/detalhe/portaria/80-2014-25343983"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::6.º",
+    "Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::8.º",
+    "Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::11.º",
+    "Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::12.º",
+    "Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::14.º",
+    "Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::19.º",
+    "Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::19.º",
+    "Altera Artigo ANEXO"
+   ],
+   "fragments": [
+    "70e1be3c293a12d6",
+    "9aaecfd3ae1eb1f5",
+    "ae78e2b275f398cf",
+    "9ad64a16020f689a",
+    "9fd5d0a2fcb4850e",
+    "f203f0dba326e4cb",
+    "8d9e2443ad7008a9",
+    "a1b150c4dbc727af",
+    "45a0cc709a499d96",
+    "0917f7972a3630d1",
+    "9252c33ee8513eb3",
+    "7d672926a8a94cce",
+    "fbdfe53a97ef8917",
+    "0a6c688a21bd330e",
+    "dc18b86b475a9d85",
+    "a4be208c4a240f48",
+    "60c5e4acdb06b11a",
+    "75c91e7f0537fc0b",
+    "160ed94907697726",
+    "9b1ee107b1a1a59e",
+    "4729263ad6420628",
+    "818d8ea18d8bb37d",
+    "743506370a872b8f",
+    "690abe51e274a01d",
+    "b0db85ce585c7c92",
+    "d11b7ebb8765ed47"
+   ]
+  }
+ ],
+ "fragments": {
+  "70e1be3c293a12d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Maio\n\nO [Decreto-Lei n.º 186/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2006-540026), de 12 de Setembro, estabelece o regime de atribuição de apoios financeiros pelo Estado, através dos serviços e organismos do Ministério da Saúde, a pessoas colectivas privadas sem fins lucrativos.\n\nÀs Administrações Regionais de Saúde, I. P., compete, no âmbito das suas atribuições, desenvolver e consolidar, na sua área de influência, a Rede Nacional de Cuidados Continuados Integrados e supervisionar o seu funcionamento.\n\nNo quadro do regime instituído pelo referido diploma legal, importa agora estabelecer as regras específicas da atribuição de apoio financeiro pelas Administrações Regionais de Saúde, I. P., a projectos que permitam colmatar necessidades identificadas no âmbito dos cuidados continuados integrados nas áreas geográficas em que se inserem.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 186/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2006-540026), de 12 de Setembro, manda o Governo, pela Ministra da Saúde, o seguinte:\n\n1.º É aprovado o Regulamento da Atribuição de Apoios Financeiros pelas Administrações Regionais de Saúde, I. P., a Pessoas Colectivas Privadas sem Fins Lucrativos, no âmbito da Rede Nacional de Cuidados Continuados Integrados, designado por Programa Modelar, anexo à presente portaria e que dela faz parte integrante.\n\n2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nPela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado Adjunto e da Saúde, em 15 de Abril de 2008."
+  },
+  "9aaecfd3ae1eb1f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — REGULAMENTO DO PROGRAMA MODELAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — REGULAMENTO DO PROGRAMA MODELAR"
+  },
+  "ae78e2b275f398cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece as normas aplicáveis à atribuição de apoios financeiros pelas Administrações Regionais de Saúde, I. P., adiante designadas por ARS."
+  },
+  "9ad64a16020f689a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO financiamento a que se refere o presente Regulamento visa fomentar a participação directa das pessoas colectivas privadas sem fins lucrativos na prossecução dos objectivos estabelecidos no artigo 2.º do [Decreto-Lei n.º 186/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2006-540026), de 12 de Setembro, através de projectos que respondam a necessidades identificadas no desenvolvimento e consolidação da Rede Nacional de Cuidados Continuados Integrados (RNCCI)."
+  },
+  "9fd5d0a2fcb4850e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\nO presente Regulamento aplica-se a Portugal continental."
+  },
+  "f203f0dba326e4cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Candidatos\n\nSão entidades susceptíveis de beneficiar de apoio financeiro as pessoas colectivas privadas sem fins lucrativos que desenvolvam ou pretendam desenvolver projectos para prestação de cuidados continuados integrados no âmbito da RNCCI e que reúnam os requisitos previstos no artigo seguinte."
+  },
+  "8d9e2443ad7008a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Requisitos dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos dos candidatos\n\n1 - Os candidatos à atribuição de apoio financeiro devem obedecer ao cumprimento das seguintes condições, sob pena de exclusão:\n\na) Encontrar-se regularmente constituídos e devidamente registados;\n\nb) Possuir contabilidade organizada e ter a situação regularizada em matéria de obrigações contabilísticas;\n\nc) Não ter condenação judicial por má administração de subsídios ou outro tipo de financiamentos públicos;\n\nd) Deter idoneidade, capacidade organizativa, técnica e financeira, bem como os meios materiais, técnicos, humanos e financeiros para desenvolver os projectos propostos;\n\ne) Ter a situação contributiva perante a segurança social e a administração fiscal devidamente regularizada;\n\nf) Serem proprietários do terreno ou do edifício a intervencionar ou detentores de qualquer outro título bastante que permita afectar edificações, instalações e equipamentos objecto do financiamento previsto no presente Regulamento, pelo período mínimo de três, cinco ou oito anos, consoante o apoio financeiro ascenda a (euro) 100 000, (euro) 400 000 ou (euro) 750 000, respectivamente, em regime de permanência e exclusividade."
+  },
+  "e8cdfe812a8b17a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Projectos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Projectos elegíveis\n\n1 - Os projectos susceptíveis de beneficiar de apoio financeiro devem inscrever-se em, pelo menos, um dos seguintes tipos:\n\na) Construção de raiz e ou construção de ampliação para tipologias da RNCCI, no caso de situações de lacuna destes serviços e para progressiva cobertura a nível nacional da RNCCI, de acordo com os requisitos das condições de instalação definidos nos programas funcionais constantes do anexo do presente Regulamento e que dele fazem parte integrante;\n\nb) Construção de remodelação para tipologias da RNCCI, tendo em conta os requisitos das condições de instalação definidos nos programas funcionais constantes do anexo;\n\nc) Aquisição de equipamentos para melhorar as condições de funcionamento de unidades prestadoras de cuidados continuados integrados no âmbito da RNCCI."
+  },
+  "45a0cc709a499d96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Requisitos dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos dos projectos\n\n1 - Os projectos não podem ter sido objecto de qualquer outro financiamento, comunitário ou nacional, para as mesmas despesas.\n\n2 - Verificar-se viabilidade de construção, de raiz ou de ampliação, mediante informação prévia da autarquia.\n\n3 - Podem, em aviso de abertura, ser fixados requisitos diferenciados de acesso às candidaturas."
+  },
+  "c236a00716c7e190": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Financiamento de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Financiamento de projectos\n\n1 - O montante financeiro disponível para o presente programa é fixado anualmente, nos termos do [Decreto-Lei n.º 186/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2006-540026), de 12 de Setembro.\n\n2 - O apoio financeiro a atribuir pela ARS a cada projecto é de 75 % do valor global elegível, até ao limite máximo de apoio financeiro de (euro) 750 000.\n\n3 - Para efeitos do disposto no número anterior, considera-se valor global elegível a soma dos valores parciais elegíveis determinados nos termos do número seguinte.\n\n4 - Os valores parciais elegíveis são, no máximo, os seguintes:\n\na) De estudos e projectos: o equivalente ao valor global destes, até ao limite máximo de (euro) 50 000;\n\nb) De edificações e instalações técnicas: o produto do valor de referência do metro quadrado de construção, pela área útil dos espaços exclusivamente atribuídos a cuidados continuados integrados, objecto de construção no âmbito da candidatura apresentada;\n\nc) De equipamento: o equivalente ao valor global deste, até ao limite máximo de (euro) 200 000.\n\n5 - O valor de referência do metro quadrado será definido em cada aviso de abertura de candidaturas.\n\n6 - O apoio financeiro a conceder tem natureza não reembolsável."
+  },
+  "9252c33ee8513eb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Elegibilidade de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Elegibilidade de despesas\n\n1 - Todas as despesas a considerar destinam-se, exclusivamente, à prossecução dos projectos referidos no artigo 6.º do presente Regulamento e regem-se por princípios de boa administração, boa gestão financeira e optimização dos recursos disponíveis.\n\n2 - As despesas elegíveis têm, como implícito no conceito de despesa, a obrigatoriedade de um pagamento efectivo por parte da entidade beneficiária do apoio, a ser devidamente comprovado por esta.\n\n3 - Podem ser consideradas despesas elegíveis:\n\na) Aquisição de serviços;\n\nb) Estudos e projectos;\n\nc) Despesas associadas a obras de construção de raiz e ou ampliação previstas na alínea a) do n.º 1 do artigo 6.º;\n\nd) As despesas associadas a obras de remodelação previstas na alínea b) do n.º 1 do artigo 6.º, para cumprimento dos programas funcionais tipo constantes do anexo;\n\ne) Aquisição de equipamentos novos:\n\ni) Equipamentos e instrumentos médicos;\n\nii) Equipamento informático e ou de comunicação;\n\niii) Equipamentos gerais, incluindo mobiliário.\n\n4 - Para efeitos do disposto na alínea e) do n.º 3, são disponibilizadas nos sítios da Internet de cada ARS as listagens referenciais do equipamento elegível no âmbito do presente Regulamento."
+  },
+  "7d672926a8a94cce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Limite de elegibilidade de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Limite de elegibilidade de despesas\n\n1 - São apenas elegíveis as despesas realizadas durante o período de vigência do projecto e que sejam objectivamente indispensáveis à sua concretização, podendo, porém, ser consideradas despesas em curso realizadas entre 1 de Janeiro de 2008 e a data de celebração do contrato a que se refere o artigo 18.º do presente Regulamento.\n\n2 - Para efeitos do disposto na parte final do número anterior, as entidades susceptíveis de beneficiar de apoio financeiro devem, aquando da apresentação da candidatura, documentar a realização dessas despesas de acordo com a legislação em vigor relativa à aquisição de bens e serviços e empreitadas de obras públicas."
+  },
+  "1433afe9962df8fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Aviso de abertura de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aviso de abertura de candidaturas\n\nOs avisos de abertura das candidaturas ao apoio financeiro previsto neste Regulamento são fixados por despacho da Ministra da Saúde."
+  },
+  "a9773b8c95f3e132": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - As candidaturas aos projectos previstos neste Regulamento devem ser apresentadas à ARS competente em função da respectiva área de influência.\n\n2 - Para efeitos do disposto no número anterior, as candidaturas devem ser entregues directamente na sede da ARS, ou enviadas pelo correio sob registo, sendo obrigatória a utilização do formulário disponibilizado pela ARS, devidamente preenchido e assinado por quem tenha competência para o acto nos termos legais.\n\n3 - São ainda admissíveis as candidaturas que, à data da sua apresentação à ARS, já tenham iniciado a execução do respectivo projecto desde que o mesmo não se encontre ainda totalmente concluído.\n\n4 - O processo de candidatura deve ser acompanhado:\n\na) Formulário e documentos nele indicados ou nos seus anexos;\n\nb) Documentos comprovativos da posse dos requisitos a que se referem as alíneas a), b), d) e f) do artigo 5.º e declaração sob compromisso de honra relativamente à situação prevista na alínea c) do mesmo artigo;\n\nc) Documentos comprovativos da regular situação contributiva perante a segurança social e administração fiscal prevista na alínea e) do artigo 5.º ou declaração de autorização de consulta dessa informação por parte da ARS, nos termos da lei;\n\nd) Documentos comprovativos do preenchimento do requisito enunciado no n.º 1 do artigo 7.º e informação da autarquia a que se refere o n.º 2 do mesmo artigo;\n\ne) Documentos comprovativos da capacidade financeira do candidato para suportar o financiamento do projecto na parte que excede o apoio financeiro concedido nos termos do presente Regulamento;\n\nf) No caso de projectos que envolvam a realização de obras de construção, deve ainda a candidatura ser instruída com o estudo prévio de arquitectura ou elementos de fase posterior do projecto técnico, incluindo peças escritas e desenhadas de forma a permitir a fácil apreciação das soluções propostas pelo autor do projecto e sua comparação com as exigências do programa funcional, acompanhado, no mínimo, dos seguintes elementos:\n\ni) Memória descritiva e justificativa;\n\nii) Elementos gráficos sob a forma de plantas, alçados e cortes longitudinais e transversais abrangendo o núcleo edificado e o terreno, com indicação do perfil existente e o proposto, bem como das quotas dos diversos pisos e pavimento exterior envolvente, em escala apropriada, que explicitem a implantação do edifício, a sua integração urbana, os acessos, as necessidades de infra-estruturas, bem como a organização interna dos espaços, a interdependência de áreas e volumes, a compartimentação genérica e os sistemas de circulação;\n\niii) Estimativa do custo da obra.\n\n5 - A não entrega de todos os elementos referidos nos números anteriores e ou a sua apresentação fora de prazo implica a exclusão liminar da candidatura.\n\n6 - Da candidatura devem constar, de forma rigorosa e precisa, os objectivos mensuráveis do projecto e os meios necessários para os atingir, factor determinante na sua avaliação.\n\n7 - Podem sempre ser solicitados aos candidatos outros documentos considerados necessários para a apreciação das respectivas candidaturas, nomeadamente para efeitos do disposto no n.º 3 do artigo 7.º"
+  },
+  "dc18b86b475a9d85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Períodos de apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Períodos de apresentação de candidaturas\n\nOs períodos para apresentação das candidaturas são fixados no respectivo aviso de abertura de candidaturas."
+  },
+  "1dd2847f5bae0ec0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Comissão de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comissão de apreciação\n\n1 - As candidaturas são apreciadas por uma comissão composta por elementos da ARS, a designar pelo conselho directivo.\n\n2 - A composição da comissão referida no número anterior pode ser variável, devendo ser sempre constituída por um número ímpar de elementos, um dos quais preside.\n\n3 - Relativamente a cada candidatura, a comissão elabora parecer fundamentado quanto à respectiva qualidade e interesse, concluindo com uma proposta objectiva, não vinculativa, a submeter ao conselho directivo da ARS, propondo a aprovação ou não aprovação da mesma.\n\n4 - Para efeitos do disposto no número anterior, deve ser solicitado parecer técnico à Unidade de Missão para os Cuidados Continuados Integrados, bem como a outras entidades no âmbito das respectivas atribuições.\n\n5 - Podem sempre ser solicitados às entidades beneficiárias os esclarecimentos considerados necessários à elaboração de proposta de aprovação ou não aprovação de candidatura."
+  },
+  "60c5e4acdb06b11a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Critérios e prazo para apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Critérios e prazo para apreciação das candidaturas\n\n1 - É condição de indeferimento das candidaturas o não cumprimento dos requisitos definidos no artigo 5.º do presente Regulamento.\n\n2 - É ainda condição de indeferimento a verificação de qualquer das seguintes situações:\n\na) O não cumprimento dos requisitos definidos no artigo 6.º do presente Regulamento;\n\nb) A não conformidade do estudo prévio e ou do projecto técnico de arquitectura com o programa funcional tipo para a tipologia respectiva da RNCCI, constante do anexo;\n\nc) A não conformidade, dos projectos técnicos de arquitectura e ou de engenharia, com os regulamentos legais e ou com as normas europeias harmonizadas aplicáveis.\n\n3 - São critérios de apreciação:\n\na) A cobertura territorial, tendo em conta, para o efeito, os rácios definidos para cada uma das tipologias da RNCCI por 1000 habitantes com mais de 65 anos;\n\nb) O aumento da capacidade do número de lugares resultante do projecto objecto de candidatura até à lotação máxima definida para cada tipologia a indicar no aviso de abertura de candidaturas;\n\nc) Consistência do projecto, designadamente pela adequação do valor proposto de investimento à actividade a desenvolver e razoabilidade dos custos;\n\nd) Relação intrínseca entre o diagnóstico de necessidades da RNCCI, a intervenção proposta e os resultados esperados.\n\n4 - A apreciação das candidaturas deve ser efectuada no prazo máximo de 90 dias úteis contados da data limite de apresentação das candidaturas devidamente instruídas."
+  },
+  "75c91e7f0537fc0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Decisão final\n\nCompete ao conselho directivo da ARS a decisão final sobre a atribuição de apoio financeiro, devidamente fundamentada."
+  },
+  "160ed94907697726": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Publicitação\n\nA decisão final do conselho directivo da ARS é notificada aos candidatos e publicitada no sítio da Internet da ARS."
+  },
+  "9b1ee107b1a1a59e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contrato\n\n1 - A concessão do apoio financeiro formaliza-se através da celebração de um contrato entre a ARS e a entidade seleccionada para beneficiar de apoio.\n\n2 - Do contrato referido no número anterior devem constar, obrigatoriamente, os direitos e obrigações das partes, bem como a previsão expressa de mecanismos eficazes de avaliação e acompanhamento permanente da respectiva execução."
+  },
+  "f20addaae6d8076c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Obrigações das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obrigações das entidades beneficiárias\n\n1 - Sem prejuízo das obrigações constantes do contrato, bem como das estabelecidas no presente Regulamento, as entidades beneficiárias dos apoios ficam obrigadas a:\n\na) Respeitar os requisitos e condições que determinem a atribuição de apoio financeiro;\n\nb) Comprovar o cumprimento das obrigações contratuais, designadamente através da apresentação de relatórios de execução técnica e financeira e relatórios de actividades;\n\nc) Fornecer aos serviços da ARS todas as informações que lhes sejam solicitadas relativas à utilização dos apoios atribuídos;\n\nd) Organizar, manter actualizados e permanentemente disponíveis os dossiers técnico e financeiro dos projectos, contendo os elementos que sejam indicados, para o efeito, pela ARS;\n\ne) Afectar, obrigatoriamente, em regime de permanência e exclusividade, as edificações construídas e as instalações realizadas por atribuição do presente apoio financeiro aos fins e os objectivos propostos, por um período mínimo de três, cinco ou oito anos, consoante o apoio financeiro ascenda a (euro) 100 000, (euro) 400 000 ou (euro) 750 000 euros, respectivamente, não podendo ser alienados antes de decorridos esse período, sem prejuízo do disposto no n.º 2;\n\nf) Manter na sua posse os bens e ou equipamentos adquiridos por atribuição do presente apoio financeiro, cumprindo os objectivos propostos, por um período mínimo de cinco anos.\n\n2 - Mediante autorização prévia do conselho directivo da ARS, podem ser oneradas as infra-estruturas objecto de financiamento pelo presente Regulamento a favor de instituição de crédito que tenha concedido financiamento ao projecto."
+  },
+  "818d8ea18d8bb37d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acompanhamento e avaliação\n\n1 - O controlo da utilização do apoio financeiro é da responsabilidade da ARS, com vista a permitir o acompanhamento dos projectos e a prevenir ou detectar irregularidades e confirmar que os apoios financeiros se destinaram aos fins para os quais foram concedidos.\n\n2 - O acompanhamento operacionaliza-se através de visitas aos locais de desenvolvimento dos projectos, da apresentação de relatórios da execução física e da financeira pelas entidades beneficiárias e, eventualmente, por avaliação externa através de especialistas independentes designados para o efeito pelo conselho directivo da ARS.\n\n3 - Para efeitos do disposto no número anterior, as entidades beneficiárias devem apresentar à ARS os elementos que por esta sejam solicitados, bem como os relatórios de execução, com particular incidência nos aspectos de natureza financeira e com indicação dos objectivos atingidos e dos resultados alcançados.\n\n4 - O momento ou a periodicidade de apresentação dos relatórios é fixado no contrato a que se refere o artigo 18.º\n\n5 - A não apresentação dos relatórios a que se refere o n.º 3 condiciona a atribuição de novo apoio financeiro e pode determinar a suspensão da transferência de verbas conforme o disposto no artigo 22.º\n\n6 - Sem prejuízo do disposto nos números anteriores, as entidades beneficiárias podem sempre ser objecto de auditorias técnicas e financeiras com vista ao apuramento da execução do contrato."
+  },
+  "743506370a872b8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Comissão de avaliação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comissão de avaliação técnica\n\n1 - Sem prejuízo do disposto no artigo anterior, a execução dos projectos relativos a obras de construção, de raiz, e ou ampliação, e de remodelação previstas nas alíneas a) e b) do n.º 1 do artigo 6.º, é acompanhada por uma comissão de avaliação técnica, que procede à elaboração de pareceres/relatórios de avaliação a pedido da ARS respectiva.\n\n2 - A decisão sobre a composição da comissão compete ao conselho directivo da ARS, de acordo com as orientações da Unidade de Missão para os Cuidados Continuados Integrados."
+  },
+  "690abe51e274a01d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Suspensão do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Suspensão do financiamento\n\n1 - O apoio financeiro concedido ao abrigo do presente Regulamento pode ser suspenso pelo conselho directivo da ARS caso sejam detectadas situações de deficiente cumprimento das obrigações pela entidade beneficiária do apoio financeiro:\n\na) Inexistência ou grave deficiência relativa a prestação de informação à ARS, à constituição dos dossiers técnicos e financeiros e à organização processual dos projectos;\n\nb) Inconformidades dos documentos de despesas;\n\nc) Inconformidades ou graves deficiências no âmbito da execução dos projectos.\n\n2 - A suspensão do financiamento cessa com a sanação da situação pela entidade beneficiária, no prazo que lhe tenha sido concedido pela ARS para o efeito."
+  },
+  "b0db85ce585c7c92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Rescisão do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Rescisão do contrato\n\n1 - O contrato pode ser unilateralmente rescindido pela ARS nos seguintes casos:\n\na) Não cumprimento do projecto, nomeadamente o exercício desadequado da intervenção aprovada;\n\nb) Incumprimento das obrigações estabelecidas no contrato, bem como das obrigações legais e fiscais;\n\nc) Superveniência de situação não regularizada em matéria de impostos ou contribuições para a segurança social;\n\nd) Recusa de prestação de informações, prestação de informações falsas sobre a situação da entidade ou viciação dos dados fornecidos;\n\ne) Não sanação, no prazo concedido para o efeito, das deficiências e ou inconformidades previstas no artigo 22.º\n\n2 - A rescisão implica a caducidade do apoio financeiro concedido, ficando a entidade beneficiária obrigada a repor as importâncias recebidas, acrescidas de juros à taxa legalmente aplicável."
+  },
+  "a8841d592759cfe4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n1 - Programa funcional tipo - Paliativos\n\nNota. - As instalações referidas de seguida são consideradas por unidade de 20 camas ou piso de internamento.\n\nNa unidade de internamento de paliativos 100 % dos quartos são individuais.\n\nGeneralidades:\n\nTodos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,20 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível, a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)\n\n2 - Programa funcional tipo - Convalescença\n\nNota. - As instalações referidas de seguida são consideradas por unidade de 20 a 30 camas ou piso de internamento.\n\nNa unidade de internamento de convalescença, 75 % dos quartos são duplos e 25 % dos quartos são individuais.\n\nGeneralidades:\n\nTodos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,20 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)\n\n3 - Programa funcional tipo - Manutenção\n\nNota. - As instalações referidas de seguida são consideradas por unidade de 20 a 30 camas ou piso de internamento.\n\nNa unidade de internamento de manutenção, 75 % dos quartos são duplos e 25 % dos quartos são individuais.\n\nGeneralidades:\n\nTodos os corredores destinados à circulação de camas e macas devem ter o mínimo de 1,40 m úteis de largura, devendo ser previstas bolsas de alargamento com 2,20 m de largura útil para cruzamento de duas camas.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)\n\n4 - Programa funcional tipo - Reabilitação\n\nNota. - As instalações referidas de seguida são consideradas por unidade de 20 a 30 camas ou piso de internamento.\n\nNa unidade de internamento de reabilitação, 75 % dos quartos são duplos e 25 % dos quartos são individuais.\n\nGeneralidades:\n\nTodos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,20 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)"
+  },
+  "a1b150c4dbc727af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Projectos elegíveis",
+   "in_force_from": "2014-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+   ],
+   "markdown": "###### Artigo 6.º — Projectos elegíveis\n\n1 - Os projectos susceptíveis de beneficiar de apoio financeiro devem inscrever-se em, pelo menos, um dos seguintes tipos:\n\na) Construção de raiz e ou construção de ampliação para tipologias da RNCCI, no caso de situações de lacuna destes serviços e para progressiva cobertura a nível nacional da RNCCI, de acordo com os requisitos das condições de instalação definidos nos programas funcionais constantes do anexo do presente Regulamento e que dele fazem parte integrante;\n\nb) Construção de remodelação para tipologias da RNCCI, tendo em conta os requisitos das condições de instalação definidos nos programas funcionais constantes do anexo;\n\nc) Aquisição de equipamentos para melhorar as condições de funcionamento de unidades prestadoras de cuidados continuados integrados no âmbito da RNCCI.\n\n2 - Para efeitos do disposto na alínea c) do número anterior, são susceptíveis de se candidatarem a apoio financeiro os projectos que preencham um dos seguintes requisitos:\n\na) Aquisição de equipamento relativo a unidades de internamento que já integram a RNCCI;\n\nb) Aquisição de equipamento relativo a unidades de internamento que constem do plano de implementação.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+  },
+  "0917f7972a3630d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Financiamento de projectos",
+   "in_force_from": "2014-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+   ],
+   "markdown": "###### Artigo 8.º — Financiamento de projectos\n\n1 - O montante financeiro disponível para o presente programa é fixado anualmente, nos termos do [Decreto-Lei n.º 186/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2006-540026), de 12 de Setembro.\n\n2 - O apoio financeiro a atribuir pela ARS a cada projecto é de 75 % do valor global elegível, até ao limite máximo de apoio financeiro de (euro) 750 000.\n\n3 - Para efeitos do disposto no número anterior, considera-se valor global elegível a soma dos valores parciais elegíveis determinados nos termos do número seguinte.\n\n4 - Os valores parciais elegíveis são, no máximo, os seguintes:\n\na) De estudos e projectos: o equivalente ao valor global destes, até ao limite máximo de (euro) 50 000;\n\nb) De edificações e instalações técnicas: o produto do valor de referência do metro quadrado de construção, pela área útil dos espaços exclusivamente atribuídos a cuidados continuados integrados, objecto de construção no âmbito da candidatura apresentada;\n\nc) De equipamento: o equivalente ao valor global deste, até ao limite máximo de (euro) 200 000.\n\n5 - Considera-se área útil de construção o valor correspondente à soma das áreas de todos os compartimentos da edificação, incluindo vestíbulos, circulações interiores, instalações sanitárias, arrumos, espaços de função similar ou complementar.\n\n6 - O valor de referência do metro quadrado será definido em cada aviso de abertura de candidaturas.\n\n7 - O apoio financeiro a conceder tem natureza não reembolsável.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+  },
+  "fbdfe53a97ef8917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Aviso de abertura de candidaturas",
+   "in_force_from": "2014-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+   ],
+   "markdown": "###### Artigo 11.º — Aviso de abertura de candidaturas\n\nOs avisos de abertura das candidaturas ao apoio financeiro previsto neste Regulamento são fixados por despacho da Ministra da Saúde e são publicitados no sítio da Internet de cada ARS e em dois jornais de âmbito nacional.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+  },
+  "0a6c688a21bd330e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": "2014-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+   ],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - As candidaturas aos projectos previstos neste Regulamento devem ser apresentadas à ARS competente em função da respectiva área de influência.\n\n2 - Para efeitos do disposto no número anterior, as candidaturas devem ser entregues directamente na sede da ARS, ou enviadas pelo correio sob registo, sendo obrigatória a utilização do formulário disponibilizado pela ARS, devidamente preenchido e assinado por quem tenha competência para o acto nos termos legais.\n\n3 - São ainda admissíveis as candidaturas que, à data da sua apresentação à ARS, já tenham iniciado a execução do respectivo projecto desde que o mesmo não se encontre ainda totalmente concluído.\n\n4 - O processo de candidatura deve ser acompanhado:\n\na) Formulário e documentos nele indicados ou nos seus anexos;\n\nb) Documentos comprovativos da posse dos requisitos a que se referem as alíneas a), b), d) e f) do artigo 5.º e declaração sob compromisso de honra relativamente à situação prevista na alínea c) do mesmo artigo;\n\nc) Documentos comprovativos da regular situação contributiva perante a segurança social e administração fiscal prevista na alínea e) do artigo 5.º ou declaração de autorização de consulta dessa informação por parte da ARS, nos termos da lei;\n\nd) Declaração sob compromisso de honra relativa ao requisito enunciado no n.º 1 do artigo 7.º e informação prévia da autarquia a que se refere o n.º 2 do mesmo artigo;\n\ne) Documentos comprovativos da capacidade financeira do candidato para suportar o financiamento do projecto na parte que excede o apoio financeiro concedido nos termos do presente Regulamento;\n\nf) No caso de projectos que envolvam a realização de obras de construção, deve ainda a candidatura ser instruída com o estudo prévio de arquitectura ou elementos de fase posterior do projecto técnico, incluindo peças escritas e desenhadas de forma a permitir a fácil apreciação das soluções propostas pelo autor do projecto e sua comparação com as exigências do programa funcional, acompanhado, no mínimo, dos seguintes elementos:\n\ni) Memória descritiva e justificativa;\n\nii) Elementos gráficos sob a forma de plantas, alçados e cortes longitudinais e transversais abrangendo o núcleo edificado e o terreno, com indicação do perfil existente e o proposto, bem como das cotas dos diversos pisos e pavimento exterior envolvente, em escala apropriada, que explicitem a implantação do edifício, a sua integração urbana, os acessos, as necessidades de infra-estruturas, bem como a organização interna dos espaços, a interdependência de áreas e volumes, a compartimentação genérica e os sistemas de circulação;\n\niii) Estimativa do custo da obra.\n\n5 - Para efeitos do disposto na alínea f) do número anterior, devem todos os documentos do estudo prévio de arquitectura ser entregues à ARS em suporte de papel e em suporte digital, devendo a cópia digital ser, também, remetida pela ARS à UMCCI.\n\n6 - As candidaturas, elaboradas e instruídas nos termos do n.º 4, devem ser apresentadas até ao termo do prazo estabelecido no aviso de abertura das candidaturas.\n\n7 - Os candidatos cujos pedidos não estejam instruídos com todos os elementos referidos no n.º 4 são notificados para procederem à entrega dos elementos em falta no prazo de 10 dias úteis.\n\n8 - Terminado o prazo referido no número anterior sem que os candidatos regularizem os elementos em falta, as candidaturas são liminarmente excluídas.\n\n9 - Da candidatura devem constar, de forma rigorosa e precisa, os objectivos mensuráveis do projecto e os meios necessários para os atingir, factor determinante na sua avaliação.\n\n10 - Podem sempre ser solicitados aos candidatos outros documentos considerados necessários para a apreciação das respectivas candidaturas, nomeadamente para efeitos do disposto no n.º 3 do artigo 7.º\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+  },
+  "a4be208c4a240f48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Comissão de apreciação",
+   "in_force_from": "2014-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+   ],
+   "markdown": "###### Artigo 14.º — Comissão de apreciação\n\n1 - As candidaturas são apreciadas por uma comissão composta por elementos da ARS, a designar pelo conselho directivo, que pode integrar também dois elementos da Unidade de Missão para os Cuidados Continuados Integrados.\n\n2 - A composição da comissão referida no número anterior pode ser variável, devendo ser sempre constituída por um número ímpar de elementos, um dos quais preside.\n\n3 - Relativamente a cada candidatura, a comissão elabora parecer fundamentado quanto à respectiva qualidade e interesse, concluindo com uma proposta objectiva, não vinculativa, a submeter ao conselho directivo da ARS, propondo a aprovação ou não aprovação da mesma.\n\n4 - Para efeitos do disposto no número anterior, deve ser solicitado parecer técnico à Unidade de Missão para os Cuidados Continuados Integrados, bem como a outras entidades no âmbito das respectivas atribuições.\n\n5 - Podem sempre ser solicitados às entidades beneficiárias os esclarecimentos considerados necessários à elaboração de proposta de aprovação ou não aprovação de candidatura.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+  },
+  "4729263ad6420628": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Obrigações das entidades beneficiárias",
+   "in_force_from": "2014-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2013](https://diariodarepublica.pt/dr/detalhe/portaria/168-2013-260644), publicado em 2013-04-30.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80/2014](https://diariodarepublica.pt/dr/detalhe/portaria/80-2014-25343983), publicado em 2014-04-09."
+   ],
+   "markdown": "###### Artigo 19.º — Obrigações das entidades beneficiárias\n\n1 - Sem prejuízo das obrigações constantes do contrato, bem como das estabelecidas no presente Regulamento, as entidades beneficiárias dos apoios ficam obrigadas a:\n\na) Respeitar os requisitos e condições que determinem a atribuição de apoio financeiro;\n\nb) Comprovar o cumprimento das obrigações contratuais, designadamente através da apresentação de relatórios de execução técnica e financeira e relatórios de actividades;\n\nc) Fornecer aos serviços da ARS todas as informações que lhes sejam solicitadas relativas à utilização dos apoios atribuídos;\n\nd) Organizar, manter actualizados e permanentemente disponíveis os dossiers técnico e financeiro dos projectos, contendo os elementos que sejam indicados, para o efeito, pela ARS;\n\ne) Afectar, obrigatoriamente, em regime de permanência e exclusividade, as edificações construídas e as instalações realizadas por atribuição do presente apoio financeiro aos fins e os objectivos propostos, por um período mínimo de três, cinco ou oito anos, consoante o apoio financeiro ascenda a (euro) 100 000, (euro) 400 000 ou (euro) 750 000, respectivamente, não podendo ser alienados antes de decorridos esse período, sem prejuízo do disposto nos n.os 2 e 3;\n\nf) Manter na sua posse os bens e ou equipamentos adquiridos por atribuição do presente apoio financeiro, cumprindo os objectivos propostos, por um período mínimo de cinco anos.\n\n2 - Mediante autorização prévia do conselho directivo da ARS, podem ser oneradas as infra-estruturas objecto de financiamento pelo presente Regulamento a favor de instituição de crédito que tenha concedido financiamento ao projecto.\n\n3 - Em situações excepcionais, e mediante autorização prévia do membro do Governo responsável pela área da saúde, as edificações construídas e as instalações realizadas por atribuição do presente apoio financeiro podem ser afetas a estruturas para alojamento e residência de pessoas idosas.\n\n4 - Sem prejuízo do disposto na alínea e) do n.º 2, nas situações em que o Estado manifeste a intenção de não contratar toda a capacidade instalada, as entidades beneficiárias podem contratar a restante com terceiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2013](https://diariodarepublica.pt/dr/detalhe/portaria/168-2013-260644), publicado em 2013-04-30.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80/2014](https://diariodarepublica.pt/dr/detalhe/portaria/80-2014-25343983), publicado em 2014-04-09."
+  },
+  "d11b7ebb8765ed47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": "2014-04-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+   ],
+   "markdown": "## ANEXO\n\n1 - Programa funcional tipo - Paliativos\n\n(especificações mínimas)\n\nNota. - As instalações referidas de seguida são consideradas por módulo de 20 camas, no máximo, ou por piso de internamento.\n\nNa unidade de internamento de cuidados paliativos 100% dos quartos são individuais.\n\nGeneralidades\n\nTodos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.\n\nNão são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade condicionada. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.\n\nInstalações de gases medicinais:\n\nÉ obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições.\n\nAscensores:\n\nCaso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.\n\nEm caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)\n\n2 - Programa funcional tipo - Convalescença\n\n(especificações mínimas)\n\nNota. - As instalações referidas de seguida são consideradas por módulos de 20 a 30 camas, ou por piso de internamento.\n\nNestas unidades de internamento, 25% dos quartos, no mínimo, são individuais.\n\nGeneralidades\n\nTodos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.\n\nNão são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.\n\nNos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,9 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,6 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,5 m de diâmetro entre a outra cama e a parede lateral.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade condicionada. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.\n\nDeve ser sempre garantido um acesso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.\n\nInstalações de gases medicinais:\n\nÉ obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições, bem como nas salas de ginásio/fisioterapia.\n\nAscensores:\n\nCaso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.\n\nEm caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)\n\n3 - Programa funcional tipo - Reabilitação ou média duração\n\n(especificações mínimas)\n\nNota. - As instalações referidas de seguida são consideradas por módulos de 20 a 30 camas, ou por piso de internamento.\n\nNestas unidades de internamento, 25% dos quartos, no mínimo, são individuais.\n\nGeneralidades\n\nTodos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.\n\nNão são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.\n\nNos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,9 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,6 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,5 m de diâmetro entre a outra cama e a parede lateral.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade reduzida. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.\n\nDeve ser sempre garantido um acesso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.\n\nInstalações de gases medicinais:\n\nÉ obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições, bem como nas salas de ginásio/fisioterapia.\n\nAscensores:\n\nCaso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.\n\nEm caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)\n\n4 - Programa funcional tipo - Manutenção ou longa duração\n\n(especificações mínimas)\n\nNota. - As instalações referidas de seguida são consideradas por módulos de 20 a 30 camas, ou por piso de internamento.\n\nNestas unidades de internamento, 25% dos quartos, no mínimo, são individuais.\n\nGeneralidades\n\nTodos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.\n\nNão são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.\n\nNos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,9 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,6 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,5 m de diâmetro entre a outra cama e a parede lateral.\n\nOs quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.\n\nSempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.\n\nAs portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.\n\nTodas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade reduzida. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.\n\nAs portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.\n\nDeve ser sempre garantido um acesso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.\n\nInstalações de gases medicinais:\n\nÉ obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições, bem como nas salas de ginásio/fisioterapia.\n\nAscensores:\n\nCaso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.\n\nEm caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)\n\n> Alterado pelo/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01."
+  }
+ }
+}

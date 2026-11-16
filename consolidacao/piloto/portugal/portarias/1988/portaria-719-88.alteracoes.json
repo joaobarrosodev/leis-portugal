@@ -11,20 +11,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:358568:por",
-    "alterador": "pt:dre:258568:por;pt:dre:526581:por"
-  },
-  {
-    "artigo": "depois da unidade 22",
-    "operacao": "aditar",
-    "regra": "llm",
-    "antes": "",
-    "depois": "18.º O disposto nos n.os 13.º a 17.º é aplicável ao pessoal da Direcção-Geral dos Serviços Prisionais que, pelo seu estatuto, beneficie de transporte gratuito.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:358568:por",
-    "alterador": "pt:dre:258568:por;pt:dre:526581:por"
+    "alterador": "pt:dre:258568:por"
   }
 ]

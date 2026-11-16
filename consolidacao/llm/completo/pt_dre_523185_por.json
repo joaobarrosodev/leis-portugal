@@ -1,12 +1,71 @@
 {
   "id": "pt:dre:523185:por",
-  "artigos": [],
-  "nao_aplicavel": "Alterador 1 (DLR n.º 18/2001/M), art. 5.º: revoga o estatuto remuneratório e regime de carreira aprovado pelo Decreto Regulamentar Regional n.º 13/92/M, ou seja, o diploma no seu todo, sem indicar artigos; revogação global, não uma alteração textual de artigos, pelo que não foi convertida em revogações artigo a artigo.",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Objecto",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "Âmbito de aplicação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "Conteúdo funcional",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "Piloto dos N/M",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "Engenheiro maquinista da marinha mercante",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Remuneração base",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "Remunerações acessórias",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Escala salarial",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Entrada em vigor",
+      "texto": "(Revogado.)\n\nAprovado em Conselho do Governo Regional em 2 de Abril de 1992.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 27 de Abril de 1992.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "A revogação do estatuto (artigo 5.º do DLR 18/2001/M) abrange também os Anexos I, II e III (mapas), mas estes só vêm em imagem (o corpo é vazio ou só a ligação ao documento original) e as regras não dão marca de revogação para o corpo de um anexo; ficam como estão. Os títulos de capítulo, secção e subsecção não mudam de designação por nenhuma instrução. As assinaturas finais do artigo 9.º mantêm-se.",
   "instrucoes": [
-    "Alterador 1, arts. 1.º a 4.º e 6.º: não se dirigem ao texto do original; ignorados.",
-    "Alterador 1, art. 5.º: revogação total do diploma original (e de outros diplomas); registada em nao_aplicavel, nenhum artigo alterado."
+    "Alterador 1, artigo 5.º: revoga o estatuto remuneratório e regime de carreira do pessoal oficial da marinha mercante aprovado pelo DRR 13/92/M, ou seja, todo o original; artigos 1.º a 9.º ficam «(Revogado.)», com as assinaturas finais mantidas no 9.º; anexos em imagem não marcados — ver nao_aplicavel.",
+    "Alterador 1, artigos 1.º a 4.º e 6.º: dizem respeito à aplicação do EPAP (DL 421/99) na Região; não alteram o original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

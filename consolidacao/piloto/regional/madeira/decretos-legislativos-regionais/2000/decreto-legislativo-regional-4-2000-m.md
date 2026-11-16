@@ -120,9 +120,9 @@ d) Conselho administrativo.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
-### CAPÍTULO II — Órgãos
+### CAPÍTULO II — Órgãos de direcção, administração e gestão
 
-#### SECÇÃO I — Do conselho da comunidade educativa
+#### SECÇÃO I — Órgão de direcção
 
 ###### Artigo 6.º — Conselho da comunidade educativa
 
@@ -222,12 +222,6 @@ O conselho da comunidade educativa reúne ordinariamente uma vez por trimestre e
 
 5 - Sempre que nas escolas referidas no n.º 3, por aplicação do método referido no número anterior, não resultar apurado um docente da educação pré-escolar ou do 1.º ciclo do ensino básico, o último mandato é atribuído ao primeiro candidato da lista mais votada que preencha tal requisito.
 
-6 - Quando no primeiro escrutínio se apresenta à votação mais de uma lista e tenha de haver segundo escrutínio, neste é considerada eleita a lista que tenha obtido maior número de votos desde que tenham votado pelo menos 60% dos eleitores.
-
-7 - Quando no primeiro escrutínio se apresente apenas uma lista à votação e, por força do n.º 3 deste artigo, tenha de haver segundo escrutínio, neste a lista só é considerada vencedora desde que obtenha 51% dos votos entrados na urna, os quais deverão representar pelo menos 60% do número total de eleitores.
-
-8 - Na impossibilidade de conclusão do processo eleitoral, os representantes do pessoal docente e não docente são designados pelos corpos representativos do pessoal dos quadros da escola, ou, na sua ausência, de entre o pessoal em exercício efectivo de funções.
-
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
 ###### Artigo 12.º — Mandato
@@ -242,7 +236,7 @@ O conselho da comunidade educativa reúne ordinariamente uma vez por trimestre e
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
-#### SECÇÃO II — Da direcção executiva ou director
+#### SECÇÃO II — Órgãos de administração e gestão
 
 ###### Artigo 13.º — Conselho executivo ou director
 
@@ -251,8 +245,6 @@ O conselho da comunidade educativa reúne ordinariamente uma vez por trimestre e
 2 - A opção por qualquer das formas referidas no número anterior compete à escola, nos termos do respectivo regulamento interno.
 
 3 - Os membros do conselho executivo, o director e os adjuntos ficam dispensados na totalidade da componente lectiva, podendo leccionar uma turma mediante opção, sem que daqui resulte acréscimo remuneratório.
-
-4 - Os vice-presidentes e os adjuntos gozam de redução na componente lectiva de acordo com o mapa I em anexo, que faz parte integrante deste diploma.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
@@ -522,7 +514,7 @@ O conselho administrativo reúne ordinariamente uma vez por mês e extraordinari
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
-#### SECÇÃO III — Do conselho pedagógico
+#### SUBSECÇÃO II — Do conselho pedagógico
 
 ###### Artigo 31.º — Fundo escolar
 
@@ -549,6 +541,8 @@ f) A realização de actividades de formação incluídas no projecto educativo 
 g) Outras despesas que por lei lhe venham a ser atribuídas, desde que salvaguardadas as devidas contrapartidas financeiras.
 
 2 - Os fundos escolares poderão, cumpridas as formalidades legais aplicáveis e obtida a homologação do Secretário Regional de Educação, conceder a entidades terceiras a exploração de refeitórios, bufetes, papelarias, reprografias e outras valências similiares, celebrando para tal os contratos a que haja lugar.
+
+3 - (Eliminado.)
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
@@ -604,7 +598,7 @@ c) A coordenação pedagógica de cada ciclo ou de ano, no caso do 1.º ciclo do
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
-#### SECÇÃO IV — Do conselho administrativo
+#### SUBSECÇÃO III — Do conselho administrativo
 
 ###### Artigo 36.º — Estruturas de gestão intermédia de cariz pedagógico e técnico-pedagógico
 
@@ -668,7 +662,7 @@ f) Exercer as demais competências fixadas pelo regulamento interno.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
-#### SECÇÃO V — Do fundo escolar
+#### SECÇÃO III — Do fundo escolar
 
 ###### Artigo 41.º — Delegado de disciplina
 
@@ -691,6 +685,8 @@ f) Exercer as demais competências fixadas pelo regulamento interno.
 a) Do conselho de turma, nos 2.º e 3.º ciclos do ensino básico e ensino secundário, constituído pelos professores da turma, delegado de turma e um representante dos pais e ou encarregados de educação.
 
 b) Nas escolas básicas integradas, no 1.º ciclo do ensino básico, por professores das turmas daquele nível de ensino e por um representante dos pais e ou encarregados de educação;
+
+c) (Eliminada.)
 
 2 - Para coordenar o desenvolvimento do plano de trabalho referido na alínea a) do número anterior, o conselho executivo ou o director designa um director de turma, tendo em conta a sua competência pedagógica e capacidade de relacionamento, de entre os professores da mesma, sempre que possível profissionalizado.
 
@@ -738,7 +734,7 @@ f) Exercer a relação escola-família-instituição formadora.
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
-### CAPÍTULO III — Das estruturas de gestão intermédia
+### SECÇÃO IV — Das estruturas de gestão intermédia
 
 ###### Artigo 45.º — Coordenação de ciclo
 
@@ -894,7 +890,7 @@ b) Promover a constituição e funcionamento do conselho da comunidade educativa
 
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
-### CAPÍTULO IV — Das escolas do 1.º ciclo do ensino básico
+### CAPÍTULO III — Das creches e estabelecimentos de educação pré-escolar e das escolas do 1.º ciclo do ensino básico
 
 ###### Artigo 62.º — Comissão de avaliação
 
@@ -906,12 +902,22 @@ Por despacho do Secretário Regional de Educação será criada uma comissão à
 
 O presente diploma prevalece sobre todas as normas gerais e especiais que o contrariem.
 
+MAPA I
+
+(a que faz referência o n.º 1 do artigo 37.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)
+
+MAPA II
+
+(a que fazem referência os n.os 1 do artigo 53.º e 5 do artigo 61.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)
+
 > Alterado pelo/a [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), publicado em 2006-06-21.
 
-### CAPÍTULO V — Das creches e estabelecimentos de educação pré-escolar
+### CAPÍTULO IV — Dos incentivos pecuniários e prestação de serviço extraordinário e de acumulação
 
-### CAPÍTULO VI — Dos incentivos pecuniários e prestação de serviço docente extraordinário e de acumulação
+### CAPÍTULO V — Disposições comuns
 
-### CAPÍTULO VII — Disposições comuns
-
-### CAPÍTULO VIII — Disposições finais e transitórias
+### CAPÍTULO VI — Disposições finais

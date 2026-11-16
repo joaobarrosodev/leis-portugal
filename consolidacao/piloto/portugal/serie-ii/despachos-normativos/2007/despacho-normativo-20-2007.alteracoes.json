@@ -348,5 +348,19 @@
     "unidade": [],
     "diploma": "pt:dre:3506417:por",
     "alterador": "pt:dre:2502964:por;pt:dre:1871181:por;pt:dre:1503931:por;pt:dre:3286468:por"
+  },
+  {
+    "artigo": "ANEXO — Pólos turísticos",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Pólos turísticos\nNos termos do n.º 3 do artigo 2.º, os pólos turísticos abrangem os seguintes municípios:\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/05/092000000/1256212567.pdf)",
+    "depois": "## ANEXO — Pólos turísticos\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/185000000/4017940180.pdf)\n\n> Alterado pelo/a [Despacho Normativo n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2008-1871181), publicado em 2008-09-24.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:3506417:por",
+    "alterador": "pt:dre:2502964:por;pt:dre:1871181:por;pt:dre:1503931:por;pt:dre:3286468:por"
   }
 ]

@@ -10,7 +10,7 @@
     {
       "chave": "2.º",
       "epigrafe": "Denominação dos estabelecimentos de educação ou de ensino públicos",
-      "texto": "1 - Sem prejuízo do disposto no n.º 3, a denominação dos estabelecimentos de educação ou de ensino públicos não superiores é constituída pelos elementos constantes das alíneas seguintes:\n\na) Designação de acordo com a tipologia dos estabelecimentos de educação e ensino constante do artigo 8.º do presente diploma e respectivo mapa anexo;\n\nb) Nome de um patrono ou outro nome alusivo à região onde a escola cultural e geograficamente se insere;\n\nc) Nome da localidade onde se situa o estabelecimento, seguido do nome do concelho, se a localidade não for sede de concelho.\n\nd) No caso das escolas profissionais e das escolas artísticas a denominação dos estabelecimentos de ensino poderá também incluir a designação da área de formação ministrada.\n\n2 - As propostas de denominação que incluem qualquer dos elementos constantes na alínea b) do número anterior devem fundamentar-se no reconhecido valor de personalidade que se tenha distinguido na região, nomeadamente no âmbito da cultura, da ciência ou educação, podendo ainda ser alusivas à memória da expansão portuguesa, à antiga toponímia ou a características geográficas ou históricas do local onde se situam os estabelecimentos de educação ou de ensino.\n\n3 - A inclusão na denominação do estabelecimento de ensino de um nome de um patrono ou outro nome alusivo à região onde a escola se insere, nos termos da alínea b) do n.º 1, é facultativa, excepto nas localidades onde exista mais de um estabelecimento de ensino ou mais de um estabelecimento do mesmo nível ou modalidade de ensino, ou da mesma área de formação, neste último caso quando se trate de escolas profissionais ou artísticas.",
+      "texto": "1 - Sem prejuízo do disposto no n.º 3, a denominação dos estabelecimentos de educação ou de ensino públicos não superiores é constituída pelos elementos constantes das alíneas seguintes:\n\na) Designação de acordo com a tipologia dos estabelecimentos de educação e ensino constante do artigo 8.º do presente diploma e respectivo mapa anexo;\n\nb) Nome de um patrono ou outro nome alusivo à região onde a escola cultural e geograficamente se insere;\n\nc) Nome da localidade onde se situa o estabelecimento, seguido do nome do concelho, se a localidade não for sede de concelho;\n\nd) No caso das escolas profissionais e das escolas artísticas a denominação dos estabelecimentos de ensino poderá também incluir a designação da área de formação ministrada.\n\n2 - As propostas de denominação que incluem qualquer dos elementos constantes na alínea b) do número anterior devem fundamentar-se no reconhecido valor de personalidade que se tenha distinguido na região, nomeadamente no âmbito da cultura, da ciência ou educação, podendo ainda ser alusivas à memória da expansão portuguesa, à antiga toponímia ou a características geográficas ou históricas do local onde se situam os estabelecimentos de educação ou de ensino.\n\n3 - A inclusão na denominação do estabelecimento de ensino de um nome de um patrono ou outro nome alusivo à região onde a escola se insere, nos termos da alínea b) do n.º 1, é facultativa, excepto nas localidades onde exista mais de um estabelecimento de ensino ou mais de um estabelecimento do mesmo nível ou modalidade de ensino, ou da mesma área de formação, neste último caso quando se trate de escolas profissionais ou artísticas.",
       "alterador": 2
     },
     {
@@ -57,20 +57,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Os quadros anexos não são aplicáveis ao texto: o quadro n.º 1 (aprovado pelo Decreto-Lei n.º 314/97 e substituído pelo art. 1.º, n.º 2, do Decreto-Lei n.º 299/2007) e o quadro n.º 2 (aprovado pelo Decreto-Lei n.º 314/97 e revogado pelo art. 3.º do Decreto-Lei n.º 299/2007) só vêm em imagem ('ver documento original') e não são artigos.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Quadros anexos: o quadro n.º 1 (aditado pelo DL 314/97 e substituído pelo art. 1.º, n.º 2, do DL 299/2007) e o quadro n.º 2 (aditado pelo DL 314/97 e revogado pelo art. 3.º do DL 299/2007) não existem no texto atual (não há título de anexo onde os colocar) e o seu conteúdo só vem em imagem.",
   "instrucoes": [
-    "DL 314/97 art. 1.º: nova redação do art. 2.º (n.os 1 com alíneas a) a c) e 2; desaparece o antigo n.º 3), depois substituída pelo DL 299/2007.",
-    "DL 314/97 art. 1.º: art. 5.º com nova epígrafe 'Símbolos representativos' e novo n.º 1 (n.º 2 '...' mantido); depois revogado pelo DL 299/2007.",
-    "DL 314/97 art. 1.º: art. 6.º n.os 1 e 2 (proémio) alterados; depois substituído na íntegra pelo DL 299/2007.",
-    "DL 314/97 art. 1.º: art. 8.º com nova epígrafe 'Tipologia de estabelecimentos' e n.os 1 a 5; depois alterado pelo DL 299/2007.",
-    "DL 314/97 art. 2.º: aditado o art. 8.º-A 'Registo'; depois alterado pelo DL 299/2007.",
-    "DL 314/97 art. 3.º e 4.º: disposições finais próprias e republicação: nada a aplicar.",
-    "DL 299/2007 art. 1.º, n.º 1: nova redação dos arts. 1.º, 2.º, 3.º, 6.º, 7.º, 8.º e 8.º-A; '[...]' e '...' mantêm o texto atual (incluindo o ponto final da alínea c) do n.º 1 do art. 2.º, copiado tal como está).",
-    "DL 299/2007 art. 1.º, n.º 2: nova redação do quadro n.º 1, só em imagem: não aplicada (ver nao_aplicavel).",
-    "DL 299/2007 art. 3.º: revogados os n.os 3 e 4 do art. 3.º e os n.os 2 e 3 do art. 8.º (já assim na nova redação), os arts. 4.º e 5.º ('(Revogado.)') e o quadro n.º 2 (anexo em imagem, não é artigo).",
-    "DL 299/2007 art. 2.º e 4.º: disposições finais próprias e republicação: nada a aplicar."
+    "DL 314/97 art. 1.º: nova redacção dos arts. 2.º, 5.º (epígrafe «Símbolos representativos» e n.º 1), 6.º e 8.º (epígrafe «Tipologia de estabelecimentos») — aplicada e depois alterada/revogada pelo DL 299/2007.",
+    "DL 314/97 art. 2.º: adita o art. 8.º-A «Registo» — corpo depois substituído pelo DL 299/2007.",
+    "DL 299/2007 art. 1.º, n.º 1: nova redacção dos arts. 1.º, 2.º, 3.º, 6.º (nova epígrafe «Instrução do processo»), 7.º, 8.º e 8.º-A — aplicada. Art. 2.º: reparo confirmado — alíneas a) a c) mantidas do DL 314/97, com a alínea c) a terminar em «;» como na republicação, por se lhe seguir a nova alínea d).",
+    "DL 299/2007 art. 3.º: revoga n.os 3 e 4 do art. 3.º, n.os 2 e 3 do art. 8.º, arts. 4.º e 5.º e o quadro n.º 2 — aplicado. Art. 5.º: reparo não seguido — a epígrafe «Símbolos representativos» foi dada pelo próprio art. 1.º do DL 314/97 (e consta da sua republicação), por isso fica essa e não «Símbolos representativos da escola».",
+    "DL 314/97 art. 3.º e DL 299/2007 art. 2.º: disposições finais próprias dos alteradores — não alteram o original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

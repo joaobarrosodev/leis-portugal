@@ -6,6 +6,12 @@
       "ate": 6,
       "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma e que dele faz parte integrante, sitos nas freguesias de São Torcato, Atães, Rendufe e Gouça, município de Guimarães, com a área de 1800 ha.",
       "alterador": 2
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 66.º do [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se o concessionário a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 2
     }
   ],
   "insercoes": [
@@ -15,15 +21,13 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 1 (Portaria n.º 36/95): substituição da planta anexa, que só existe em imagem; alterador 2 (Portaria n.º 602/97): o n.º 2.º reduz a obrigação do n.º 6.º a um guarda florestal auxiliar sem dar nova redação ao texto, e a nova planta é imagem; alterador 3 (Portaria n.º 930/99): suspensão da exploração cinegética, não textual; alterador 4 (Portaria n.º 222/2000): extinção da concessão, não textual (não revoga expressamente o texto).",
+  "nao_aplicavel": "Alterador 1 (Portaria 36/95): a planta anexa que substitui a da Portaria 667-S4/93 só vem em imagem. Alterador 3 (Portaria 930/99): suspensão da exploração cinegética, não textual. Alterador 4 (Portaria 222/2000): extinção da concessão do regime cinegético especial, acto administrativo que não revoga nem altera o texto da portaria; não se aplica ao texto.",
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 1.º (unidade 6, área 2226 ha) - aplicada e depois substituída pela do alterador 2",
-    "Alterador 1: substituição da planta anexa - imagem, em nao_aplicavel",
-    "Alterador 2: nova redação do n.º 1.º (área 1800 ha) - unidade 6 substituída, mantendo a numeração 1.º",
-    "Alterador 2: aditamento do n.º 1.º-A - inserido depois da unidade 6",
-    "Alterador 2: n.º 6.º passa a obrigar a um só guarda - sem nova redação, em nao_aplicavel",
-    "Alterador 3: suspensão da exploração - não textual, em nao_aplicavel",
-    "Alterador 4: extinção da concessão - não textual, em nao_aplicavel"
+    "Alterador 1 (Portaria 36/95): nova redacção do n.º 1.º (2226 ha; a instrução diz «667-S4/94», gralha pela 667-S4/93 citada no resto do diploma); substituída depois pela redacção do alterador 2, que é a que fica na unidade 6. Substituição da planta: só em imagem, em nao_aplicavel.",
+    "Alterador 2 (Portaria 602/97), n.º 1.º: nova redacção do n.º 1.º (1800 ha) — substituída a unidade 6, mantendo o número 1.º; aditado o n.º 1.º-A — inserido depois da unidade 6.",
+    "Alterador 2, n.º 2.º: o n.º 6.º, quanto ao número de guardas, passa a obrigar a manter um guarda florestal auxiliar dotado de meio de transporte — reparo confirmado: a instrução nomeia o n.º 6.º e dá o texto; na unidade 12 trocado «dois guardas florestais auxiliares dotados de meio de transporte» por «um guarda florestal auxiliar dotado de meio de transporte», letra a letra do alterador, o resto da unidade como estava.",
+    "Alterador 3 (Portaria 930/99): suspensão — não textual, em nao_aplicavel.",
+    "Alterador 4 (Portaria 222/2000): extinção da concessão — não altera o texto, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

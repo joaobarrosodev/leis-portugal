@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.º 2: nova redação do anexo (tabela de encargos, unidade 72), mas a tabela nova só vem em imagem; não aplicada.",
+  "nao_aplicavel": "Resolução do Conselho de Ministros n.º 154/2026 (alterador 1), n.º 2: altera o anexo (tabela) com a redacção do anexo da resolução, mas esse anexo só vem em imagem; não se pode copiar o texto, fica a tabela atual.",
   "instrucoes": [
-    "Alterador 1, n.º 1: nova redação do n.º 11; o proémio (unidade 55) fica igual, as alíneas a) a d) mudam de valores e acrescem e) 2029 e f) 2030 - unidades 56 a 59 substituídas por a) a f).",
-    "Alterador 1, n.º 2: substitui o anexo; tabela só em imagem - nao_aplicavel.",
-    "Alterador 1, n.º 3: produção de efeitos - norma própria, nada a aplicar."
+    "Alterador 1, n.º 1: nova redacção do n.º 11; o corpo fica igual e as alíneas a) a d) passam a a) a f) com os novos limites anuais (2025 a 2030); substituídas as unidades 56 a 59.",
+    "Alterador 1, n.º 2: anexo substituído só em imagem; em nao_aplicavel (reparo confirmado, não aplicável por falta de texto).",
+    "Alterador 1, n.º 3: produção de efeitos, nada a mudar no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

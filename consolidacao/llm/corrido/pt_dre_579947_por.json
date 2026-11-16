@@ -6,6 +6,12 @@
       "ate": 6,
       "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Lourinhã, Santa Bárbara, Marteleira e Miragaia, município da Lourinhã, com a área de 1628,3160 ha.",
       "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "7.º As propriedades que integram esta zona de caça, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidas ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte.",
+      "alterador": 1
     }
   ],
   "insercoes": [
@@ -15,13 +21,14 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: o n.º 7.º passa, quanto ao número de guardas, a obrigar a manter só um guarda florestal auxiliar, mas sem nova redacção do texto; não aplicado. Alterador 2 (suspensão do exercício da caça) e alterador 3 (renovação da concessão por 12 anos, com área de 1728,70 ha e nova planta em imagem) não alteram textualmente o original.",
+  "nao_aplicavel": "Portaria n.º 567/2002 (alterador 2), n.º 1.º: suspensão temporária do exercício da caça até à portaria de renovação, pelo prazo máximo de nove meses; não é alteração textual, vale só por um período e foi revogada pela Portaria n.º 353/2003. Portaria n.º 353/2003 (alterador 3), n.º 1.º: renova a concessão por 12 anos com a área de 1728,70 ha e nova planta; não dá nova redação a nenhum número do original (nem ao prazo do 2.º nem à área do 1.º), e a correção da área para 1728,70 ha só vem no preâmbulo, por isso o texto fica como está.",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: nova redacção do n.º 1.º; substituída a unidade 6.",
-    "Alterador 1, n.º 1.º (2.º parágrafo): aditado o n.º 1.º-A; inserido depois da unidade 6.",
-    "Alterador 1, n.º 2.º: redução para um guarda no n.º 7.º sem nova redacção; não aplicada.",
-    "Alterador 2, n.º 1.º: suspensão do exercício da caça até à renovação; não textual.",
-    "Alterador 3, n.º 1.º: renovação da concessão por 12 anos com 1728,70 ha; não textual (a correcção da área está só no preâmbulo)."
+    "Portaria 876/97, 1.º: nova redação do n.º 1.º; substituída a unidade 6 mantendo a numeração «1.º».",
+    "Portaria 876/97, 1.º (2.º parágrafo): aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Portaria 876/97, 2.º (reparo confirmado): o n.º 7.º passa a obrigar a manter apenas um guarda; na unidade 12 trocado «dois guardas florestais auxiliares dotados» por «um guarda florestal auxiliar dotado», letra a letra do alterador.",
+    "Portaria 876/97, 3.º: entrada em vigor; nada a mudar.",
+    "Portaria 567/2002: suspensão temporária da caça, não textual; em nao_aplicavel.",
+    "Portaria 353/2003: renovação da concessão e revogação da Portaria 567/2002 (instrução a outro diploma); nenhuma redação nova para o original; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

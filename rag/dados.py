@@ -110,6 +110,11 @@ def impressoes(con: sqlite3.Connection) -> dict[str, str]:
     for documento in so_referencia(con):
         if documento in hashes:
             hashes[documento].update(b"S")
+    from rag.indice import perguntas_do_indice
+
+    for (documento, chave), perguntas in sorted(perguntas_do_indice(con).items()):
+        if documento in hashes:
+            hashes[documento].update(b"P" + repr((chave, perguntas)).encode())
     return {k: v.hexdigest() for k, v in hashes.items()}
 
 
@@ -142,6 +147,14 @@ def gerar_delta(antigo: Path, novo: Path, saida: Path, de: str, para: str) -> di
             s.execute("CREATE TABLE relacoes (documento, tipo, alvo, alvo_titulo, data)")
             s.execute("CREATE TABLE so_referencia (id TEXT PRIMARY KEY)")
             s.executemany("INSERT INTO so_referencia VALUES (?)", [(d,) for d in sorted(so_referencia(n) & set(mudados))])
+            from rag.indice import ESQUEMA_PERGUNTAS, perguntas_do_indice
+
+            s.execute(ESQUEMA_PERGUNTAS)
+            conjunto = set(mudados)
+            s.executemany(
+                "INSERT INTO perguntas_artigo VALUES (?, ?, ?)",
+                [(d, c, p) for (d, c), p in sorted(perguntas_do_indice(n).items()) if d in conjunto],
+            )
             s.executemany("INSERT INTO meta VALUES (?, ?)", [("de", de), ("para", para), ("metodo_termos", metodo_n)])
             s.executemany("INSERT INTO removidos VALUES (?)", [(d,) for d in removidos])
             marcas = ",".join("?" * len(colunas_doc))
@@ -162,7 +175,7 @@ def gerar_delta(antigo: Path, novo: Path, saida: Path, de: str, para: str) -> di
 
 def aplicar_delta(indice: Path, delta: Path) -> dict:
     """Aplica o delta ao índice, numa só transação (se falhar a meio, o índice fica como estava)."""
-    from rag.indice import textos_fts
+    from rag.indice import ESQUEMA_PERGUNTAS, perguntas_do_indice, perguntas_do_pedaco, tem_perguntas, textos_fts
 
     con = sqlite3.connect(indice, isolation_level=None)
     d = sqlite3.connect(f"file:{delta}?mode=ro", uri=True)
@@ -177,16 +190,27 @@ def aplicar_delta(indice: Path, delta: Path) -> dict:
         if marcados:
             con.execute("CREATE TABLE IF NOT EXISTS so_referencia (id TEXT PRIMARY KEY)")
         tem_tabela = _tem_so_referencia(con)
+        # Perguntas de leigo por artigo (`rag.perguntas_por_artigo`): entram nos termos do FTS, por isso
+        # apagam-se com elas e juntam-se às do delta. Deltas e índices sem a tabela: nenhuma.
+        perguntas_delta = perguntas_do_indice(d)
+        if perguntas_delta:
+            con.execute(ESQUEMA_PERGUNTAS)
+        com_perguntas = tem_perguntas(con)
         sair = [r[0] for r in d.execute("SELECT id FROM removidos")] + [r[0] for r in d.execute("SELECT id FROM documentos")]
         for documento in sair:
             doc = con.execute("SELECT titulo, sumario FROM documentos WHERE id = ?", (documento,)).fetchone()
             if doc is None:
                 continue
-            for id_, parte, epigrafe, texto in con.execute("SELECT id, parte, epigrafe, texto FROM pedacos WHERE documento = ?", (documento,)).fetchall():
+            antigas = perguntas_do_indice(con, documento) if com_perguntas else {}
+            for id_, parte, epigrafe, texto, chave, ate in con.execute(
+                "SELECT id, parte, epigrafe, texto, chave, ate FROM pedacos WHERE documento = ?", (documento,)
+            ).fetchall():
                 con.execute(
                     "INSERT INTO pedacos_fts (pedacos_fts, rowid, cabecalho, texto) VALUES ('delete', ?, ?, ?)",
-                    (id_, *textos_fts(doc[0], doc[1] or "", parte or "", epigrafe or "", texto or "")),
+                    (id_, *textos_fts(doc[0], doc[1] or "", parte or "", epigrafe or "", texto or "", perguntas_do_pedaco(antigas, documento, chave, ate))),
                 )
+            if com_perguntas:
+                con.execute("DELETE FROM perguntas_artigo WHERE documento = ?", (documento,))
             con.execute("DELETE FROM pedacos WHERE documento = ?", (documento,))
             con.execute("DELETE FROM relacoes WHERE documento = ?", (documento,))
             con.execute("DELETE FROM documentos WHERE id = ?", (documento,))
@@ -203,13 +227,17 @@ def aplicar_delta(indice: Path, delta: Path) -> dict:
             con.execute(f"INSERT INTO documentos ({', '.join(colunas_doc)}) VALUES ({marcas})", doc)
             for p in d.execute(f"SELECT {_COLUNAS_PEDACO} FROM pedacos WHERE documento = ? ORDER BY rowid", (doc[0],)).fetchall():
                 con.execute("INSERT INTO pedacos VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (proximo, *p))
+                extra = perguntas_do_pedaco(perguntas_delta, doc[0], p[4], p[9])
                 con.execute(
                     "INSERT INTO pedacos_fts (rowid, cabecalho, texto) VALUES (?, ?, ?)",
-                    (proximo, *textos_fts(linha_doc["titulo"], linha_doc["sumario"] or "", p[1] or "", p[3] or "", p[6] or "")),
+                    (proximo, *textos_fts(linha_doc["titulo"], linha_doc["sumario"] or "", p[1] or "", p[3] or "", p[6] or "", extra)),
                 )
                 proximo += 1
                 novos += 1
             con.executemany("INSERT INTO relacoes VALUES (?, ?, ?, ?, ?)", d.execute("SELECT * FROM relacoes WHERE documento = ?", (doc[0],)).fetchall())
+            dele = [(doc[0], c, q) for (dd, c), q in sorted(perguntas_delta.items()) if dd == doc[0]]
+            if dele:
+                con.executemany("INSERT INTO perguntas_artigo VALUES (?, ?, ?)", dele)
         con.execute("INSERT OR REPLACE INTO meta VALUES ('construido', ?)", (meta["para"],))
         con.execute("INSERT OR REPLACE INTO meta VALUES ('versao', ?)", (meta["para"],))
         con.execute("COMMIT")
@@ -374,7 +402,7 @@ def _base(pasta: Path, anterior: dict) -> Path:
 
 def publicar(
     indice: Path, pasta: Path, versao: str, *, url_base: str = URL_BASE, completo: bool = False, limite: float = LIMITE_DELTA, remoto: bool = True,
-    com_so_referencia: bool = False,
+    com_so_referencia: bool = False, com_perguntas: bool = False,
 ) -> tuple[dict, list[Path]]:
     """Prepara em `pasta` a versão `versao`: um delta desde a última publicada ou uma completa nova.
 
@@ -386,6 +414,14 @@ def publicar(
             raise RuntimeError(
                 "O índice tem diplomas só pela referência (tabela so_referencia), que a aplicação 0.1.0 não conhece. "
                 "Lança primeiro a aplicação nova e publica com --com-so-referencia."
+            )
+        from rag.indice import tem_perguntas
+
+        if tem_perguntas(con) and not com_perguntas:
+            # A aplicação que não conhece a tabela apagava as linhas do FTS sem os termos das perguntas (índice corrompido).
+            raise RuntimeError(
+                "O índice tem perguntas por artigo (tabela perguntas_artigo), que a aplicação 0.1.0 não sabe apagar nos deltas. "
+                "Lança primeiro a aplicação nova e publica com --com-perguntas."
             )
     pasta.mkdir(parents=True, exist_ok=True)
     anterior = _manifesto_publicado(pasta, remoto)
@@ -477,6 +513,10 @@ def main(argv: list[str] | None = None) -> int:
         "--com-so-referencia", action="store_true",
         help="Publicar um índice com a tabela so_referencia (só depois de lançar a aplicação que a conhece).",
     )
+    p.add_argument(
+        "--com-perguntas", action="store_true",
+        help="Publicar um índice com a tabela perguntas_artigo (só depois de lançar a aplicação que a conhece).",
+    )
     d = sub.add_parser("descarregar", help="Descarregar a versão publicada (como faz a aplicação).")
     d.add_argument("--pasta", type=Path, required=True)
     args = parser.parse_args(argv)
@@ -484,7 +524,8 @@ def main(argv: list[str] | None = None) -> int:
         from rag.fontes import PASTA_INDICE
 
         manifesto, enviar = publicar(
-            args.indice or PASTA_INDICE / "indice.sqlite", args.pasta, args.versao, completo=args.completo, com_so_referencia=args.com_so_referencia
+            args.indice or PASTA_INDICE / "indice.sqlite", args.pasta, args.versao, completo=args.completo, com_so_referencia=args.com_so_referencia,
+            com_perguntas=args.com_perguntas,
         )
         for f in enviar:
             print(f"{f}: {f.stat().st_size / 1e6:.1f} MB")

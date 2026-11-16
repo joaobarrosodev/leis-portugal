@@ -418,5 +418,47 @@
     "unidade": [],
     "diploma": "pt:dre:617289:por",
     "alterador": "pt:dre:197728:por;pt:dre:476113:por;pt:dre:621316:por;pt:dre:534409:por;pt:dre:144614:por"
+  },
+  {
+    "artigo": "ANEXO I — (a que se referem o n.º 1 do artigo 29.º e o n.º 2 do artigo 30.º)",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — (a que se referem o n.º 1 do artigo 29.º e o n.º 2 do artigo 30.º)\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)",
+    "depois": "## ANEXO I — (a que se referem o n.º 1 do artigo 29.º e o n.º 2 do artigo 30.º)\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/03/071b00/13211325.pdf)\n\n> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:617289:por",
+    "alterador": "pt:dre:197728:por;pt:dre:476113:por;pt:dre:621316:por;pt:dre:534409:por;pt:dre:144614:por"
+  },
+  {
+    "artigo": "ANEXO IV — Agrupamento de Defesa Sanitária",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO IV — Agrupamento de Defesa Sanitária\n[artigo 73.º, n.º 2, alínea c)]\n\nDespesas de funcionamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)",
+    "depois": "## ANEXO IV — Agrupamento de Defesa Sanitária\n\n[a que se refere a alínea b) do artigo 73.º]\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/170b00/37823783.pdf)\n\n> Alterado pelo/a [Portaria n.º 560/97](https://diariodarepublica.pt/dr/detalhe/portaria/560-1997-144614), publicado em 1997-07-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:617289:por",
+    "alterador": "pt:dre:197728:por;pt:dre:476113:por;pt:dre:621316:por;pt:dre:534409:por;pt:dre:144614:por"
+  },
+  {
+    "artigo": "ANEXO IV — Agrupamento de Defesa Sanitária",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO IV — Agrupamento de Defesa Sanitária",
+    "depois": "## ANEXO IV — Agrupamentos de defesa sanitária",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:617289:por",
+    "alterador": "pt:dre:197728:por;pt:dre:476113:por;pt:dre:621316:por;pt:dre:534409:por;pt:dre:144614:por"
   }
 ]

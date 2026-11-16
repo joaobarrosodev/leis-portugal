@@ -64,7 +64,7 @@
     {
       "chave": "17.º",
       "epigrafe": "Recinto",
-      "texto": "1 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento previamente licenciado para a exploração de jogos, o qual não pode situar-se nas proximidades de estabelecimentos de ensino.\n\n2 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos com intercomunicação interna, vertical ou horizonal.\n\n3 - É aplicável ao recinto o regime de horários de funcionamento dos estabelecimentos comerciais previsto no [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de Maio.\n\n4 - Nos estabelecimentos licenciados para a exploração exclusiva de máquinas de diversão é permitida a instalação de aparelhos destinados à venda de produtos ou bebidas não alcoólicas.\n\n5 - É obrigatória a fixação, na própria máquina, em lugar bem visível, de inscrição ou dístico contendo os seguintes elementos:\n\na) Número de registos;\n\nb) Nome do proprietário;\n\nc) Prazo limite da validade da licença de exploração concedida;\n\nd) Idade exigida para a sua utilização;\n\ne) Nome do fabricante;\n\nf) Terra do jogo;\n\ng) Tipo de máquina;\n\nh) Número de fábrica.",
+      "texto": "1 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento previamente licenciado para a exploração de jogos, o qual não pode situar-se nas proximidades de estabelecimentos de ensino.\n\n2 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos com intercomunicação interna, vertical ou horizontal.\n\n3 - É aplicável ao recinto o regime de horários de funcionamento dos estabelecimentos comerciais previsto no [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de Maio.\n\n4 - Nos estabelecimentos licenciados para a exploração exclusiva de máquinas de diversão é permitida a instalação de aparelhos destinados à venda de produtos ou bebidas não alcoólicas.\n\n5 - É obrigatória a fixação, na própria máquina, em lugar bem visível, de inscrição ou dístico contendo os seguintes elementos:\n\na) Número de registos;\n\nb) Nome do proprietário;\n\nc) Prazo limite da validade da licença de exploração concedida;\n\nd) Idade exigida para a sua utilização;\n\ne) Nome do fabricante;\n\nf) Terra do jogo;\n\ng) Tipo de máquina;\n\nh) Número de fábrica.",
       "alterador": 4
     },
     {
@@ -105,18 +105,19 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1 (DLR 12/2001/A), art. 1.º: nova redação do n.º 2 do artigo 2.º; aplicada.",
-    "Alt. 1, art. 1.º: artigo 20.º com nova alínea h) do n.º 1, novo n.º 3 (crime e contra-ordenação) e n.º 4 = anterior n.º 3; aplicado e depois substituído pelo alterador 3.",
-    "Alt. 1, art. 1.º: nova redação do artigo 24.º (forças de segurança); aplicada.",
-    "Alt. 2 (DLR 32/2003/A), art. 1.º: nova redação dos n.os 1 e 2 do artigo 17.º, n.os 3 a 5 mantidos; aplicada ('horizonal' copiado tal como está). Art. 2.º (aplicação a processos pendentes) não altera o texto.",
-    "Alt. 3 (DLR 41/2006/A), art. 1.º: nova redação do n.º 1 dos artigos 4.º, 7.º, 8.º e 23.º e dos artigos 6.º, 11.º, 12.º (n.os 1 e 3), 14.º, 15.º, 16.º, 19.º, 20.º, 22.º e 25.º; aplicada. Os artigos 7.º e 16.º estavam vazios no texto atual: o 16.º vem completo na instrução; no 7.º o n.º 2 ('...') não existe no texto atual e foi copiado da republicação anexa ao próprio alterador 3, com a epígrafe 'Título de registo'.",
-    "Alt. 3, art. 1.º: artigo 20.º com o n.º 1 em euros, n.º 2 mantido e '3 - (Anterior n.º 4.)', isto é, 'A negligência e a tentativa são punidas.'.",
-    "Alt. 3, art. 2.º: revoga o n.º 3 do artigo 20.º; refere-se ao n.º 3 introduzido pelo alterador 1 (crime e contra-ordenação), que a nova redação já não contém; o n.º 3 resultante (antigo n.º 4) fica, conforme a republicação anexa. Arts. 3.º a 5.º (republicação, norma transitória, vigência) não alteram o texto; diferenças só de republicação não aplicadas.",
-    "Alt. 4 (DLR 12/2012/A), art. 1.º: nova redação do n.º 4 do artigo 17.º; aplicada. Art. 2.º (republicação com nova grafia) não aplicado como instrução."
+    "DLR 12/2001/A art. 1.º: art. 2.º n.º 2 com nova redação (aplicado, alterador 1); art. 20.º alínea h) e novos n.os 3 e 4 (absorvidos pela redação do alterador 3); art. 24.º fiscalização pelas forças de segurança (aplicado).",
+    "DLR 32/2003/A art. 1.º: nova redação dos n.os 1 e 2 do art. 17.º (aplicado). O verificador disse que este alterador não estava incluído, mas está (alterador 2). No n.º 2 o texto da instrução traz 'horizonal'; as republicações integrais dos alteradores 3 e 4 (o alterador 4 altera e republica o próprio art. 17.º) trazem 'horizontal', que se adotou por estar letra a letra no alterador 4.",
+    "DLR 41/2006/A art. 1.º: novas redações dos arts. 4.º n.º 1, 6.º, 7.º n.º 1, 8.º n.º 1, 11.º, 12.º (n.os 1 e 3), 14.º, 15.º, 16.º, 19.º, 20.º, 22.º, 23.º n.º 1 e 25.º (aplicado). Os arts. 7.º e 16.º vinham vazios no texto atual: o n.º 2 do art. 7.º ('[...]' na instrução) copiou-se da republicação anexa ao mesmo alterador; o art. 16.º foi substituído por inteiro.",
+    "DLR 41/2006/A art. 2.º: revoga o n.º 3 do art. 20.º (regra do crime, aditada pelo DLR 12/2001/A); na nova redação do art. 20.º o n.º 3 passa a ser o 'Anterior n.º 4' (negligência e tentativa), como na republicação; aplicado.",
+    "DLR 12/2012/A art. 1.º: nova redação do n.º 4 do art. 17.º (aplicado).",
+    "Arts. 2.º/3.º de 32/2003/A, 3.º-5.º de 41/2006/A e republicações: sem instruções textuais adicionais. As linhas '## Título de registo' e '## Título de licenciamento' do texto atual são as epígrafes dos arts. 7.º e 16.º e não títulos de divisão; nenhuma instrução as muda, por isso não se tocou em 'titulos'."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

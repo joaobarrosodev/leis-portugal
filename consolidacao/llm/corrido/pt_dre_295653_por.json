@@ -30,6 +30,18 @@
       "ate": 34,
       "texto": "b) Galináceos prontos a cozinhar - 13$20 por quilograma;\n\nc) Leporídeos prontos a cozinhar - 9$00 por quilograma.",
       "alterador": 4
+    },
+    {
+      "de": 56,
+      "ate": 56,
+      "texto": "19.º As infracções do disposto nos n.os 1.º, 3.º e 9.º e seus parágrafos e § único do n.º 11.º constituem contravenções puníveis com a multa de 1000$00 a 10000$00.",
+      "alterador": 1
+    },
+    {
+      "de": 57,
+      "ate": 57,
+      "texto": "20.º As infracções do disposto nos n.os 16.º e 17.º constituem contravenções puníveis com a multa de 1000$00 a 10000$00.",
+      "alterador": 1
     }
   ],
   "insercoes": [
@@ -39,14 +51,14 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1 (Portaria n.º 820/73), n.º 2.º: eleva os limites mínimos e máximos das multas dos n.os 19.º e 20.º para 1000$00 e 10000$00 sem dar nova redação a esses números; é uma alteração de valores não textual, que não se aplica ao texto.",
+  "nao_aplicavel": "Portarias n.º 327-A/76 e 327-B/76 (alteradores 2 e 3), 192-M/78, 192-T/78, 179/79, 180/79, 320/81 e 331-I/81 (alteradores 5 a 10): estabelecem regimes de preços máximos e margens próprios, mantendo em vigor a Portaria n.º 21362 'em tudo o que não contrarie' - derrogação condicional, sem alteração textual do original (tabelas só em imagem). Despacho Normativo n.º 23/90 (alterador 11): revoga o Despacho Normativo n.º 102/83, ao abrigo do n.º 7.º, sem alterar o original.",
   "instrucoes": [
-    "Alt. 1 (Port. 820/73) n.º 2.º: eleva os limites das multas dos n.os 19.º e 20.º, sem nova redação -> não aplicado (nao_aplicavel).",
-    "Alt. 1 n.º 10.º: adita o § 5.º ao n.º 9.º -> inserção depois da unidade 43.",
-    "Alt. 1 n.os 1.º-9.º: alteram outras portarias (20921, 22307, 267/72, 18113) -> ignorados.",
-    "Alt. 2, 3, 5, 6, 7, 8, 9, 10: novos regimes de preços/margens; o original 'mantém-se em vigor em tudo o que não contrarie' (revogação condicional) -> nada aplicado.",
-    "Alt. 4 (Port. 327-C/76) n.º 1.º: nova redação dos n.os 4.º e 5.º (§ 2.º mantidos) -> substituídas as unidades 18-20, 23-24 (4.º e § 1.º) e 26-27, 31-32, 34 (5.º e § 1.º); unidades iguais ficaram.",
-    "Alt. 11 (Desp. Normativo 23/90): revoga o Despacho Normativo 102/83 ao abrigo do n.º 7.º -> nada a aplicar."
+    "Portaria 820/73 (1) n.º 2.º: limites mínimo e máximo das multas dos n.os 19.º e 20.º elevados para 1000$00 e 10000$00 - substituídos os montantes nas unidades 56 (500$00 a 5000$00) e 57 (200$00 a 500$00).",
+    "Portaria 820/73 (1) n.º 10.º: aditado § 5.º ao n.º 9.º - inserido depois da unidade 43 (§ 4.º).",
+    "Portaria 820/73 (1) n.os 1.º, 3.º a 9.º: alteram outras portarias - ignorados.",
+    "Portaria 327-C/76 (4) n.º 1.º: nova redacção dos n.os 4.º e 5.º - substituídas as unidades 18-20, 23-24 (b) desdobrada em b) e c)), 26-27, 31-32 (2) desdobrado em 2) e 3) e § 1.º sem vírgula) e 34 (b) desdobrada em b) e c)); §§ 2.º ficam ('...'); unidades iguais (21, 22, 28-30, 33) mantidas.",
+    "Portarias 327-A/76, 327-B/76, 192-M/78, 192-T/78, 179/79, 180/79, 320/81, 331-I/81 (2, 3, 5-10): regimes paralelos, original mantido no que não contrarie - nao_aplicavel.",
+    "Despacho Normativo 23/90 (11): revoga outro despacho - nada a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

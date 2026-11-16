@@ -21,17 +21,31 @@
     }
   ],
   "removidos": [],
+  "titulos": [
+    {
+      "atual": "## ANEXO III — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e o n.º 12 do artigo 21.º]",
+      "novo": "## ANEXO III — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e os n.os3 e 9 do artigo 21.º]",
+      "alterador": 1
+    },
+    {
+      "atual": "## ANEXO IV — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e o n.º 12 do artigo 21.º]",
+      "novo": "## ANEXO IV — [a que se referem o n.º 4 do artigo 9.º, a alínea a) do n.º 1 do artigo 11.º, a alínea b) do n.º 1 do artigo 19.º e os n.os3 e 9 do artigo 21.º]",
+      "alterador": 1
+    }
+  ],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 5.º: nova redação do art. 10.º (n.os 3 a 6) - igual ao texto atual, sem mudança",
-    "Alterador 1, art. 5.º: nova redação do proémio e das alíneas b) e c) do n.º 4 do art. 17.º - aplicada",
-    "Alterador 1, art. 5.º: nova redação dos n.os 2 a 4 e 6 a 10 do art. 21.º, n.os 11 e 12 revogados - aplicada",
-    "Alterador 1, art. 5.º: nova redação do n.º 2 do art. 26.º - aplicada",
-    "Alterador 1, art. 5.º: anexos III e IV só mudam a indicação de referência, texto [...] - não são artigos do texto atual, sem efeito",
-    "Alterador 1, art. 8.º, alínea e): revoga os n.os 11 e 12 do art. 21.º - já constam como (Revogado.)",
-    "Alterador 1, arts. 2.º a 4.º, 6.º e 7.º: alteram outras portarias - ignorados"
+    "Art. 5.º da Portaria 384/2026/1, nova redação do art. 10.º (n.os 1 e 2 mantidos, n.º 3 igual, n.os 4, 5 e 6 novos): o programa já a aplicou corretamente; nada a mudar.",
+    "Art. 5.º, nova redação do art. 17.º: n.º 4 corpo novo («são ainda consideradas»), alínea a) mantida, alíneas b) e c) novas; n.os 1 a 3 mantidos ([...]) e n.os 5 e 6, não mencionados, ficam como estão. O art. 9.º, n.º 5, dá efeitos retroativos à alínea c) (6 de dezembro de 2024), o que não impede a aplicação ao texto.",
+    "Art. 5.º, nova redação do art. 21.º: o programa só tinha revogado os n.os 11 e 12; corrigido com a redação completa: n.º 1 e n.º 5 mantidos ([...]), n.os 2, 3, 4, 6, 7, 8, 9 e 10 novos, n.os 11 e 12 revogados (também pelo art. 8.º, alínea e)).",
+    "Art. 5.º, nova redação do n.º 2 do art. 26.º (com alíneas a) a c)); n.os 1 e 3 mantidos. Efeitos a 1 de janeiro de 2023 (art. 9.º, n.º 6), aplicado ao texto.",
+    "Art. 5.º, anexos III e IV: muda só a nota de remissão («e o n.º 12 do artigo 21.º» passa a «e os n.os3 e 9 do artigo 21.º»), corpo [...] mantido; vai em titulos (confirma o reparo do verificador: a nota era diferente da do original).",
+    "Art. 8.º, alínea e): revogação dos n.os 11 e 12 do art. 21.º, aplicada.",
+    "Arts. 2.º, 3.º, 4.º, 6.º e 7.º e alíneas a) a d) e f) do art. 8.º: dirigidos a outras portarias; ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

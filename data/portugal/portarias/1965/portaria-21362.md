@@ -28,10 +28,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-06-01'
+version_history:
+  file: portaria-21362.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-06-01'
+    amending: pt:dre:412019:por
+    amending_title: Portaria n.º 820/73; Portaria n.º 327-C/76
+    changes:
+    - Altera Artigo unidades 18-20
+    - Altera Artigo unidades 23-24
+    - Altera Artigo unidades 26-27
+    - Altera Artigo unidades 31-32
+    - Altera Artigo unidades 34-34
+    - Adita Artigo depois da unidade 43
+    - Altera Artigo unidades 56-56
+    - Altera Artigo unidades 57-57
 identifiers:
   celex: null
   eli: null
@@ -57,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:02:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 820/73; Portaria n.º
+    327-C/76. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1965/portaria-21362.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -218,25 +240,33 @@ a) Ovos: praticar-se-ão dois preços por quilograma - um para os ovos normais e
 
 b) Criação (viva ou morta): serão realizadas de acordo com as três categorias expressas e definidas no citado despacho.
 
-4.º Os preços de venda dos produtos avícolas formam-se para o comércio grossista e qualquer que seja o número de intervenientes, fazendo acrescer aos preços de compra na produção uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:
+4.º Os preços de venda dos produtos avícolas e cunícolas formam-se, para o comércio grossista, e qualquer que seja o número de intervenientes, fazendo acrescer aos preços de compra na produção uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:
 
-a) Ovos - 1$00 por dúzia.
+a) Ovos - 2$00 por dúzia;
 
-b) Criação viva - 2$00 por quilograma
+b) Criação viva - 2$00 por quilograma;
+
+> Alterado pelo/a [Portaria n.º 327-C/76](https://diariodarepublica.pt/dr/detalhe/portaria/327-c-1976-310621), publicado em 1976-06-01.
 
 c) Criação morta - 1$00 por quilograma.
 
 § 1.º Quando o comércio grossista adquirir a criação viva e efectuar o abate, as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:
 
-a) Galináceos preparados segundo o tipo tradicional - 4$00 por quilograma.
+a) Galináceos preparados segundo o tipo tradicional - 4$00 por quilograma;
 
-b) Leporídeos e galináceos prontos a cozinhar - 8$00 por quilograma.
+b) Galináceos prontos a cozinhar - 14$00 por quilograma;
+
+c) Leporídeos prontos a cozinhar - 8$00 por quilograma.
+
+> Alterado pelo/a [Portaria n.º 327-C/76](https://diariodarepublica.pt/dr/detalhe/portaria/327-c-1976-310621), publicado em 1976-06-01.
 
 § 2.º As margens máximas previstas no parágrafo anterior entendem-se sobre o preço de compra à produção, na origem, por quilograma, de criação viva.
 
-5.º Os preços de venda dos produtos avícolas formam-se, para o comércio retalhista, fazendo acrescer aos preços de aquisição uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:
+5.º Os preços de venda dos produtos avícolas e cunícolas formam-se para o comércio retalhista, fazendo acrescer aos preços de aquisição uma quantia até às margens máximas adiante indicadas, as quais são independentes da classificação comercial dos produtos e englobam o lucro líquido, bem como todos os encargos inerentes ao exercício da respectiva actividade:
 
-a) Ovos - 1$20 por dúzia;
+a) Ovos - 2$00 por dúzia;
+
+> Alterado pelo/a [Portaria n.º 327-C/76](https://diariodarepublica.pt/dr/detalhe/portaria/327-c-1976-310621), publicado em 1976-06-01.
 
 b) Criação viva - 3$00 por quilograma;
 
@@ -244,13 +274,21 @@ c) Criação morta:
 
 1) Galináceos preparados segundo o tipo tradicional - 2$50 por quilograma;
 
-2) Leporídeos e galináceos prontos a cozinhar - 3$00 por quilograma.
+2) Galináceos prontos a cozinhar - 4$00 por quilograma;
 
-§ 1.º Enquanto o comércio retalhista adquirir a criação viva e efectuar o abate, as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:
+3) Leporídeos prontos a cozinhar - 3$00 por quilograma.
+
+§ 1.º Enquanto o comércio retalhista adquirir a criação viva e efectuar o abate as margens máximas que poderá auferir, nos termos deste número, serão as seguintes:
+
+> Alterado pelo/a [Portaria n.º 327-C/76](https://diariodarepublica.pt/dr/detalhe/portaria/327-c-1976-310621), publicado em 1976-06-01.
 
 a) Galináceos preparados segundo o tipo tradicional - 5$00 por quilograma;
 
-b) Leporídeos e galináceos prontos a cozinhar - 9$00 por quilograma.
+b) Galináceos prontos a cozinhar - 13$20 por quilograma;
+
+c) Leporídeos prontos a cozinhar - 9$00 por quilograma.
+
+> Alterado pelo/a [Portaria n.º 327-C/76](https://diariodarepublica.pt/dr/detalhe/portaria/327-c-1976-310621), publicado em 1976-06-01.
 
 § 2.º As margens máximas estabelecidas no parágrafo anterior entendem-se sobre o preço de compra, por quilograma, da criação viva.
 
@@ -269,6 +307,10 @@ b) Leporídeos e galináceos prontos a cozinhar - 9$00 por quilograma.
 § 3.º Considera-se como inexistente a factura que não contenha todos os elementos mencionados no corpo do presente número.
 
 § 4.º A não apresentação pelo comprador do documento a que se refere este número, designadamente por não ter sido passado pelo vendedor ou por se ter extraviado, não constitui, para aquele, circunstância dirimente da sua responsabilidade.
+
+§ 5.º Independentemente do disposto no parágrafo anterior, cabe ainda ao comprador a obrigação de identificar o vendedor.
+
+> Aditado pelo/a [Portaria n.º 820/73](https://diariodarepublica.pt/dr/detalhe/portaria/820-1973-412019), publicado em 1973-11-19.
 
 10.º A Junta Nacional dos Produtos Pecuários poderá obrigar todas as entidades inscritas a possuir livros de talões, mapas e impressos, bem como as embalagens e outros pertences inerentes ao normal exercício da actividade, de modelo, medidas e características aprovados pela Junta.
 
@@ -294,9 +336,13 @@ b) Estarem colectados pela actividade que exercem.
 
 18.º As infracções do preceituado na presente portaria são punidas, nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-19.º As infracções do disposto nos n.os 1.º, 3.º e 9.º e seus parágrafos e § único do n.º 11.º constituem contravenções puníveis com a multa de 500$00 a 5000$00.
+19.º As infracções do disposto nos n.os 1.º, 3.º e 9.º e seus parágrafos e § único do n.º 11.º constituem contravenções puníveis com a multa de 1000$00 a 10000$00.
 
-20.º As infracções do disposto nos n.os 16.º e 17.º constituem contravenções puníveis com a multa de 200$00 a 500$00.
+> Alterado pelo/a [Portaria n.º 820/73](https://diariodarepublica.pt/dr/detalhe/portaria/820-1973-412019), publicado em 1973-11-19.
+
+20.º As infracções do disposto nos n.os 16.º e 17.º constituem contravenções puníveis com a multa de 1000$00 a 10000$00.
+
+> Alterado pelo/a [Portaria n.º 820/73](https://diariodarepublica.pt/dr/detalhe/portaria/820-1973-412019), publicado em 1973-11-19.
 
 21.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) serão aplicáveis à instrução preparatória e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos.
 

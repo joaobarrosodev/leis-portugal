@@ -139,7 +139,7 @@ h) Elaborar e manter actualizadas as estatísticas necessárias à prossecução
 
 3 - O GEP é dirigido por um director de serviços.
 
-#### SECÇÃO III — Repartição de Serviços Administrativos (RSA)
+#### SECÇÃO III — Departamento de Serviços Administrativos (DSA)
 
 ###### Artigo 6.º — Natureza e competências
 

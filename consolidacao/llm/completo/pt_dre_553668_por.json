@@ -56,6 +56,12 @@
       "alterador": 5
     },
     {
+      "chave": "40.º",
+      "epigrafe": "Natureza e âmbito da procuradoria",
+      "texto": "1 - Sem prejuízo do disposto no regime do acesso ao direito e aos tribunais, a parte vencedora, na proporção em que o seja, tem direito a receber do vencido, desistente ou confitente, em cada instância e no Supremo Tribunal de Justiça, salvo nos incidentes, uma quantia a título de procuradoria, que entra em regra de custas.\n\n2 - Se houver mais de um vencedor, a procuradoria é dividida na proporção.\n\n3 - É devida procuradoria nas transacções, salvo acordo das partes em contrário, não podendo, no entanto, prescindir-se das quantias destinadas às entidades a que se refere o n.º 1 do artigo 42.º\n\n4 - A procuradoria liquidada nas execuções a favor do exequente é independente da devida no concurso de credores.\n\n5 - No caso de graduação, a procuradoria devida no concurso é rateada pelos credores na proporção dos seus créditos, ou nos termos determinados pelo juiz se houver créditos impugnados e não impugnados.\n\n6 - Nas execuções por custas, nos processos em que a parte vencedora seja isenta ou dispensada do pagamento de custas ou não seja representada por advogado ou solicitador e nas acções que terminem antes de oferecida a contestação ou sem esta, a procuradoria reverte, a partir de 1 de Julho de 2006, para o Cofre Geral dos Tribunais, entrando na conta final.\n\n7 - A procuradoria é abatida nas despesas extrajudiciais, indemnizações, diferença de juro ou pena convencional a que o vencedor ou exequente tenha direito por vir a juízo, salvo se a cláusula penal ou a estipulação congénere não for restrita ao caso de cobrança judicial e dever funcionar por outro motivo.",
+      "alterador": 8
+    },
+    {
       "chave": "42.º",
       "epigrafe": "Destino da procuradoria",
       "texto": "1 - À procuradoria a que a lei não dê destino especial deduzem-se:\n\na) 15% para o Conselho Geral da Ordem dos Advogados;\n\nb) 2% para o Conselho Geral da Câmara dos Solicitadores;\n\nc) 40% para a Caixa de Previdência dos Advogados e Solicitadores;\n\nd) 3% para os Serviços Sociais do Ministério da Justiça.\n\n2 - A verba correspondente à soma das percentagens referidas nas alíneas a), b) e c) é remetida mensalmente à Caixa de Previdência dos Advogados e Solicitadores.\n\n3 - Incumbe à Caixa de Previdência dos Advogados e Solicitadores a remessa ao Conselho Geral da Ordem dos Advogados e ao Conselho Geral da Câmara dos Solicitadores do montante global que lhes caiba.",
@@ -122,6 +128,12 @@
       "alterador": 5
     },
     {
+      "chave": "95.º",
+      "epigrafe": "Procuradoria",
+      "texto": "1 - A procuradoria é arbitrada pelo tribunal tendo em atenção o volume e a natureza da actividade desenvolvida e a situação económica do devedor, entre um quarto e metade da taxa de justiça individualmente devida.\n\n2 - A procuradoria devida pelo arguido é contada a favor do Instituto de Gestão Financeira e Patrimonial da Justiça, salvo se o processo tiver por objecto exclusivo crimes de natureza particular; se a condenação resultar de crimes particulares e públicos, a procuradoria é dividida com o assistente na proporção que o juiz fixar em função do número de cada espécie.\n\n3 - Quando o tribunal a não arbitre, a procuradoria, considera-se fixada em metade da taxa de justiça individualmente devida.",
+      "alterador": 9
+    },
+    {
       "chave": "121.º",
       "epigrafe": "Depósito de custas prováveis",
       "texto": "Sem prejuízo de registo contabilístico autónomo, as custas prováveis são objecto de depósito na conta única do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça, podendo sê-lo juntamente com a quantia exequenda.",
@@ -130,8 +142,8 @@
     {
       "chave": "124.º",
       "epigrafe": "Depósitos",
-      "texto": "1 - O prévio pagamento da taxa de justiça inicial e o pagamento da taxa de justiça subsequente são efectuados directamente na Caixa Geral de Depósitos ou através de sistema electrónico, a favor do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça.\n\n2 - Os pagamentos das taxas de justiça inicial e subsequente que não sejam realizados de forma prévia e todos os outros pagamentos não abrangidos pelo número anterior são efectuados através de guia a emitir pelo tribunal.\n\n3 - A conta do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça vence juros.\n\n4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos à ordem do juiz do processo.",
-      "alterador": 5
+      "texto": "1 - (Revogado.)\n\n2 - As formas de pagamento da taxa de justiça são fixadas por portaria do Ministro da Justiça.\n\n3 - A conta do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça vence juros.\n\n4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos à ordem do juiz do processo.\n\n8 - Os depósitos existentes na Caixa Geral de Depósitos na data de entrada em vigor do Decreto-Lei n.º 324/2003, de 27 de Dezembro, são objecto de transferência para a conta do Instituto de Gestão Financeira e Patrimonial da Justiça, mediante ordem do tribunal com jurisdição sobre os mesmos.",
+      "alterador": 9
     },
     {
       "chave": "126.º",
@@ -148,8 +160,8 @@
     {
       "chave": "131.º",
       "epigrafe": "Destino das receitas",
-      "texto": "1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas das Regiões Autónomas dos Açores e da Madeira, do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\n2 - Das receitas mencionadas na alínea b) do número anterior, revertem 40% para o Serviço Social do Ministério da Justiça e 20% para o Instituto de Reinserção Social.\n\n3 - Incumbe ao Cofre Geral dos Tribunais o envio trimestral das receitas referidas na alínea a) do n.º 1 e no número anterior às entidades a que se destinam, sendo, no âmbito do sistema de segurança social, competente, para tal efeito, o Instituto de Gestão Financeira da Segurança Social.",
-      "alterador": 3
+      "texto": "1 - Revertem para o Cofre Geral dos Tribunais:\n\na) O produto das coimas e das multas de qualquer natureza cobradas em juízo, salvo se constituírem receitas das Regiões Autónomas dos Açores e da Madeira, do orçamento da segurança social, das autarquias locais ou percentagem a que, por lei, tenha direito o autuante ou o participante;\n\nb) As taxas de justiça criminal;\n\nc) As taxas de justiça cível;\n\nd) As quantias a que se refere o n.º 2 do artigo 57.º;\n\ne) Os juros de mora, os juros das contas e as importâncias provenientes de actos avulsos;\n\nf) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.\n\nh) O produto da coima cobrado por via judicial, independentemente da origem do respectivo processo de contra-ordenação, salvo se constituir receitas das Regiões Autónomas, do orçamento da segurança social das autarquias locais, ou percentagem a que por lei tenha direito o autuante, o participante ou outra entidade.\n\n2 - (Revogado.)\n\n3 - Das receitas mencionadas na alínea c) do n.º 1, revertem:\n\nb) 5 (por mil) para o Conselho Geral da Câmara dos Solicitadores;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n4 - (Revogado.)\n\n5 - Sem prejuízo do disposto no número seguinte, incumbe ao Instituto de Gestão Financeira e Patrimonial da Justiça o envio mensal das receitas referidas na alínea a) do n.º 1 e no n.º 3 às entidades a que se destinam, sendo competente para tal efeito, no âmbito do sistema de segurança social, o Instituto de Gestão Financeira da Segurança Social.\n\n6 - (Revogado.)\n\n9 - (Revogado.)",
+      "alterador": 9
     },
     {
       "chave": "132.º",
@@ -160,79 +172,38 @@
     {
       "chave": "142.º",
       "epigrafe": "Perda de validade dos cheques",
-      "texto": "1 - Perdem validade a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao último dia do segundo mês seguinte àquele em que forem passados.\n\n2 - Decorrido o prazo de validade dos cheques sem que tenham sido apresentados a pagamento, a Caixa Geral de Depósitos informará o Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça no prazo de 10 dias.\n\n3 - Recebida a informação, é a importância do crédito inscrita nos cheques sem validade escriturado no livro de pagamentos a favor do Cofre Geral dos Tribunais.",
-      "alterador": 5
+      "texto": "1 - Perdem validade a favor do Cofre Geral dos Tribunais os cheques que não forem apresentados a pagamento até ao último dia do segundo mês seguinte àquele em que forem passados.\n\n2 - Decorrido o prazo de validade dos cheques sem que tenham sido apresentados a pagamento, a Caixa Geral de Depósitos informará o Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça no prazo de 10 dias.\n\n3 - Recebida a informação, é a importância do crédito inscrita nos cheques sem validade escriturado no livro de pagamentos a favor do Cofre Geral dos Tribunais.\n\n5 - Nos casos referidos no n.º 3, só são pagas quantias com valor igual ou superior a (euro) 10.",
+      "alterador": 9
     },
     {
       "chave": "144.º",
       "epigrafe": "Informação de saldos, balanço mensal e sua verificação pelo Ministério Público",
       "texto": "1 - O secretário deve elaborar mensalmente balanço destinado a apurar se a soma do saldo da conta corrente com as dotações orçamentais, com o valor dos cheques emitidos e ainda não pagos, corresponde à soma do valor do depósito na conta com a Caixa Geral de Depósitos com a importância em numerário do fundo permanente.\n\n2 - Para o efeito do disposto no número anterior, a Caixa Geral de Depósitos informa o secretário, no final de cada mês, do saldo da conta.\n\n3 - O balanço a que se refere o n.º 1 deve ser verificado pelo Ministério Público.",
       "alterador": 5
-    },
-    {
-      "chave": "40.º",
-      "epigrafe": "Natureza e âmbito da procuradoria",
-      "texto": "1 - Sem prejuízo do disposto no regime do acesso ao direito e aos tribunais, a parte vencedora, na proporção em que o seja, tem direito a receber do vencido, desistente ou confitente, em cada instância e no Supremo Tribunal de Justiça, salvo nos incidentes, uma quantia a título de procuradoria, que entra em regra de custas.\n\n2 - Se houver mais de um vencedor, a procuradoria é dividida na proporção.\n\n3 - É devida procuradoria nas transacções, salvo acordo das partes em contrário, não podendo, no entanto, prescindir-se das quantias destinadas às entidades a que se refere o n.º 1 do artigo 42.º\n\n4 - A procuradoria liquidada nas execuções a favor do exequente é independente da devida no concurso de credores.\n\n5 - No caso de graduação, a procuradoria devida no concurso é rateada pelos credores na proporção dos seus créditos, ou nos termos determinados pelo juiz se houver créditos impugnados e não impugnados.\n\n6 - Nas execuções por custas, nos processos em que a parte vencedora seja isenta ou dispensada do pagamento de custas ou não seja representada por advogado ou solicitador e nas acções que terminem antes de oferecida a contestação ou sem esta, a procuradoria reverte, a partir de 1 de Julho de 2006, para o Cofre Geral dos Tribunais, entrando na conta final.\n\n7 - A procuradoria é abatida nas despesas extrajudiciais, indemnizações, diferença de juro ou pena convencional a que o vencedor ou exequente tenha direito por vir a juízo, salvo se a cláusula penal ou a estipulação congénere não for restrita ao caso de cobrança judicial e dever funcionar por outro motivo.",
-      "alterador": 8
-    },
-    {
-      "chave": "95.º",
-      "epigrafe": "Procuradoria",
-      "texto": "1 - A procuradoria é arbitrada pelo tribunal tendo em atenção o volume e a natureza da actividade desenvolvida e a situação económica do devedor, entre um quarto e metade da taxa de justiça individualmente devida.\n\n2 - A procuradoria devida pelo arguido é contada a favor do Instituto de Gestão Financeira e Patrimonial da Justiça, salvo se o processo tiver por objecto exclusivo crimes de natureza particular; se a condenação resultar de crimes particulares e públicos, a procuradoria é dividida com o assistente na proporção que o juiz fixar em função do número de cada espécie.\n\n3 - Quando o tribunal a não arbitre, a procuradoria, considera-se fixada em metade da taxa de justiça individualmente devida.",
-      "alterador": 9
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterador 5 (DL 320-B/2000), art. 2.º e anexo: a tabela das taxas de justiça inicial e subsequente a que se referem os artigos 23.º e 25.º só vem em imagem (ligação ao PDF), não há texto a copiar. Alterador 5, art. 3.º n.º 2: a revogação dos artigos 125.º a 130.º, 132.º a 139.º, 141.º, 143.º e 145.º fica dependente da entrada em vigor de portaria futura do Ministro da Justiça (procedimentos do sistema de gestão e controlo das receitas e despesas), facto que não consta do pedido; não a apliquei. Alterador 5, art. 3.º n.º 3: a revogação do n.º 3 do artigo 43.º fica dependente da aprovação por portaria da tabela de preparos para despesas, facto que não consta do pedido; não a apliquei (o n.º 3 do 43.º mantém-se). Alterador 6 (DL 323/2001), art. 32.º do anexo: as novas tabelas (a do artigo 13.º e a dos artigos 23.º e 25.º) só vêm em imagem (ligação ao PDF); a frase solta «Para além de (euro) 49879,79: por cada (euro) 4987,98 de valor da acção ou fracção - (euro) 49,88 de taxa de justiça.» pertence a essa tabela e não há unidade textual no texto atual onde a inserir; apliquei só o artigo 27.º. | Não apliquei as novas redacções dos artigos 124.º, 131.º e 142.º (alterador 8, art. 94.º, quanto ao 131.º; alterador 9, art. 134.º n.os 1 e 2, quanto aos três): essas instruções pressupõem a redacção dada pelo Decreto-Lei n.º 324/2003 e referem-se a unidades que não existem no texto atual (que é a redacção anterior): no 124.º os n.os 5 a 7 ('...'), quando o texto atual só tem n.os 1 a 4; no 131.º a alínea g) do n.º 1, as alíneas a) a d) do n.º 3 e os n.os 4 a 8 ('...' ou revogados), quando o texto atual tem n.º 1 a) a f) e n.os 1 a 3 sem alíneas no n.º 3; no 142.º o n.º 4 ('...'), quando o texto atual só tem n.os 1 a 3. Sem o texto dessas unidades a redacção resultante não se pode reconstruir com segurança. Alterador 11 (Acórdão TC n.º 375/2008): declara a inconstitucionalidade do n.º 2 do artigo 13.º numa certa interpretação, na redacção do DL 324/2003; não é alteração textual e o n.º 2 do 13.º no texto atual é a redacção de 1996, por isso não alterei nada. Alterador 12 (Lei n.º 42/2016, art. 148.º): só se refere ao n.º 8 do artigo 124.º para ordenar transferências de depósitos; não altera o texto. Alterador 10 (DL 116/2008): sem artigos no pedido. Artigos 22.º e 135.º do alterador 9: regime transitório e produção de efeitos, sem alteração textual.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 5 (DL 320-B/2000), art. 3.º, n.º 2: revogação dos artigos 125.º a 130.º, 132.º a 139.º, 141.º, 143.º e 145.º adiada para a entrada em vigor de portaria a publicar - não aplicada. Alterador 5, art. 3.º, n.º 3: revogação do n.º 3 do artigo 43.º adiada para a aprovação da tabela de preparos por portaria - não aplicada. Alterador 5, art. 2.º e anexo, e alterador 6 (DL 323/2001), anexo, art. 32.º: as tabelas a que se referem os artigos 13.º, 23.º e 25.º só vêm em imagem (ver documento original) - não transcritas. Alterador 6, art. 1.º, n.º 2: conversão automática em euros das referências a escudos não previstas no anexo - regra geral, não textual. Alteradores 8 (Lei 60-A/2005) e 9 (Lei 53-A/2006): alteram a redacção dada pelo DL 324/2003, que não está na cadeia; as unidades marcadas '...' que não existem no texto atual não foram preenchidas nem inventadas: artigo 131.º, n.º 1, alínea g), n.º 3, alínea a), e n.os 7 e 8; artigo 124.º, n.os 5 a 7; artigo 142.º, n.º 4. Alterador 9, art. 134.º, n.º 3 (efeitos da revogação da alínea c) em 2007 só para processos entrados a partir de 1-1-2007), art. 22.º e art. 135.º: regras de aplicação no tempo, não textuais. Alterador 11 (Acórdão do TC n.º 375/2008): declaração de inconstitucionalidade do artigo 13.º, n.º 2, na redacção do DL 324/2003, só numa certa interpretação - não é alteração textual. Alterador 12 (Lei 42/2016), art. 148.º: transferência de depósitos, não altera o texto do original.",
   "instrucoes": [
-    "Alterador 1 (DL 91/97) art. 1.º: nova redação do 131.º (alínea a) do n.º 1 e n.º 3). O texto atual já traz esta redação (assinalado como alterado por um programa); fica superada pelo alterador 3.",
-    "Alterador 2 (Lei 59/98) art. 7.º: alínea c) do n.º 1 do 85.º passa a «Em processos sumários e abreviados, entre 1 UC e 20 UC;». Aplicado.",
-    "Alterador 3 (DL 304/99) art. 1.º: alínea a) do n.º 1 do 131.º passa a incluir as receitas das Regiões Autónomas dos Açores e da Madeira; restante com '...' mantido. Aplicado.",
-    "Alterador 3 art. 2.º: novas redações de 121.º (corpo único), 124.º (n.º 4), 126.º (n.º 1), 127.º (n.º 4) e 132.º (n.º 2); o art. 3.º n.º 2 faz depender a sua entrada em vigor das portarias previstas no 127.º n.º 4 e 132.º n.º 2. Apliquei 126.º, 127.º e 132.º; 121.º e 124.º foram depois integralmente substituídos pelo alterador 5, pelo que devolvo a redação deste.",
-    "Alterador 4 (DL 533/99): sem artigos dirigidos ao original no pedido. Nada a aplicar.",
-    "Alterador 5 (DL 320-B/2000) art. 1.º: novas redações de 23.º (corpo), 24.º (epígrafe, n.º 1, n.os 3 e 4; n.º 2 mantido), 25.º (corpo), 26.º (n.os 1 e 2), 27.º (epígrafe e corpo; depois substituído pelo alterador 6), 28.º (epígrafe e corpo), 32.º (alínea b) e nova alínea h)), 33.º (n.º 2), 34.º (novo n.º 3), 42.º (alínea d) do n.º 1 e n.º 2), 43.º (n.º 2), 53.º (n.º 2; antigos n.os 4 e 5 passam a 3 e 4, antigo n.º 3 desaparece), 56.º (n.os 1, 2, 3 corpo, alíneas a), b) e d), n.º 4), 57.º (n.os 1 e 2), 59.º (antigos n.os 4, 5 e 6 passam a 3, 4 e 5; antigo n.º 3 desaparece), 64.º (alínea c) do n.º 1), 71.º (antigas alíneas b) e c) passam a a) e b); antiga a) desaparece), 91.º (novo n.º 8), 121.º (corpo), 124.º (n.os 1 a 4), 142.º (n.º 2), 144.º (n.os 1 e 2). Todos aplicados.",
-    "Alterador 5 art. 2.º: aprova a tabela anexa dos artigos 23.º e 25.º; só em imagem (ver nao_aplicavel).",
-    "Alterador 5 art. 3.º n.º 1: revogado o artigo 70.º. Aplicado como «(Revogado.)».",
-    "Alterador 5 art. 3.º n.os 2 e 3: revogações condicionadas a portarias futuras; não aplicadas (ver nao_aplicavel).",
-    "Alterador 6 (DL 323/2001) art. 32.º do anexo: nova redação do 27.º com o limite em euros ((euro) 199519,16). Aplicado com alterador 6; epígrafe '[...]' mantém a do alterador 5. As tabelas só vêm em imagem (ver nao_aplicavel). Art. 1.º n.º 2 (conversão automática de escudos): não resta no texto atual nenhuma referência a escudos depois das substituições do 27.º (alterador 6) e do n.º 2 do 56.º (alterador 5). Os restantes artigos do anexo do alterador 6 alteram outros diplomas: ignorados.",
-    "Nota: as chaves 1.º a 18.º existem em duplicado no texto atual (diploma preambular e Código); nenhum dos artigos devolvidos está nessa faixa.",
-    "Alterador 7 (DL 38/2003, art. 18.º): nova redacção dos artigos 32.º e 33.º do Código. No 32.º substituí a alínea g) do n.º 1 pelo custo da citação por funcionário judicial e aditei os n.os 3 e 4; mantive a alínea h) do texto atual, que a instrução não menciona (lista só a) a g)). No 33.º substituí o n.º 4. Os restantes artigos do alterador 7 alteram outros diplomas (CPC, Código do Registo Predial, CPEREF, CPPT, CPT, CVM, Código Penal, Lei 3/99, DL 269/98, Lei 31/86, Lei 30-E/2000): ignorados.",
-    "Alterador 8 (Lei 60-A/2005, art. 94.º): nova redacção do n.º 6 do artigo 40.º, aplicada. Artigo 131.º (alínea h) e n.º 9 novos): não aplicado, ver nao_aplicavel.",
-    "Alterador 9 (Lei 53-A/2006, art. 134.º): nova redacção do n.º 2 do artigo 95.º, aplicada. Artigos 124.º, 131.º e 142.º e revogações do n.º 2 do art. 134.º: não aplicados, ver nao_aplicavel. Arts. 22.º e 135.º: sem alteração textual.",
-    "Alterador 10 (DL 116/2008): nenhum artigo no pedido; nada a aplicar.",
-    "Alterador 11 (Acórdão TC 375/2008): inconstitucionalidade interpretativa do n.º 2 do art. 13.º; não é alteração textual, nada aplicado.",
-    "Alterador 12 (Lei 42/2016, art. 148.º): transferência de depósitos referida ao n.º 8 do art. 124.º; não altera o texto, nada aplicado."
+    "Reparo 124.º: confirmado na Lei 53-A/2006, art. 134.º, n.os 1 e 2 - n.º 1 revogado, n.º 2 substituído, n.os 3 e 4 mantêm-se (texto atual, redacção do DL 320-B/2000), n.º 8 aditado; n.os 5 a 7 ('...') sem texto atual, ficam por preencher.",
+    "Reparos 126.º, 127.º e 132.º: a revogação do DL 320-B/2000, art. 3.º, n.º 2, é adiada para portaria futura e não se aplica; mantêm-se as redacções do DL 304/99, art. 2.º (n.º 1 do 126.º, n.º 4 do 127.º, n.º 2 do 132.º).",
+    "Reparo 131.º: confirmado - Lei 60-A/2005 adita a alínea h) do n.º 1 e o n.º 9; Lei 53-A/2006 revoga os n.os 2, 4, 6 e 9, substitui o n.º 3 (corpo, alínea b), alíneas c) e d) revogadas) e o n.º 5; alínea a) do n.º 1 segundo o DL 304/99; alínea g) do n.º 1, alínea a) do n.º 3 e n.os 7 e 8 não existem no texto atual e não foram inventados.",
+    "Reparo 142.º: confirmado - Lei 53-A/2006 adita o n.º 5; n.º 2 segundo o DL 320-B/2000; n.º 4 ('...') sem texto atual.",
+    "DL 91/97 (1): artigo 131.º, n.º 1, alínea a) e n.º 3 - já aplicados pelo programa; n.º 3 mantém-se.",
+    "Lei 59/98 (2), art. 7.º: artigo 85.º, n.º 1, alínea c) - aplicada.",
+    "DL 304/99 (3), art. 1.º: artigo 131.º, n.º 1, alínea a) (Regiões Autónomas) - aplicada; art. 2.º: 121.º e 124.º, n.º 4 (depois substituídos pelo DL 320-B/2000), 126.º, n.º 1, 127.º, n.º 4, 132.º, n.º 2 - aplicados.",
+    "DL 533/99 (4) e DL 116/2008 (10): sem instruções dirigidas ao original no pedido.",
+    "DL 320-B/2000 (5), art. 1.º: nova redacção dos artigos 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 32.º, 33.º, 34.º, 42.º, 43.º, 53.º (renumeração), 56.º, 57.º, 59.º (renumeração), 64.º, 71.º (alíneas renumeradas), 91.º, 121.º, 124.º, 142.º e 144.º - aplicada; art. 3.º, n.º 1: artigo 70.º revogado; art. 3.º, n.os 2 e 3: revogações adiadas, não aplicadas; tabela em imagem.",
+    "DL 323/2001 (6), anexo, art. 32.º: artigo 27.º com valor em euros - aplicado; tabelas em imagem, não transcritas.",
+    "DL 38/2003 (7), art. 18.º: artigo 32.º (alínea g) do n.º 1 substituída, n.os 3 e 4 aditados; alínea h) mantém-se) e artigo 33.º, n.º 4 - aplicados.",
+    "Lei 60-A/2005 (8), art. 94.º: artigo 40.º, n.º 6 - aplicado; artigo 131.º, n.º 1, alínea h) e n.º 9 - aplicados (n.º 9 depois revogado pela Lei 53-A/2006).",
+    "Lei 53-A/2006 (9), art. 134.º: artigo 95.º, n.º 2, artigo 124.º, artigo 131.º e artigo 142.º, n.º 5 - aplicados nos termos acima; art. 134.º, n.º 3, e arts. 22.º e 135.º não textuais.",
+    "Acórdão do TC 375/2008 (11) e Lei 42/2016 (12): sem alteração textual."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "chars": 160683,
-      "artigos": 28
-    },
-    {
-      "n": 2,
-      "alteradores": [
-        7,
-        8,
-        9,
-        10,
-        11,
-        12
-      ],
-      "chars": 277157,
-      "artigos": 4
-    }
-  ],
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

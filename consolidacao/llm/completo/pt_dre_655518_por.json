@@ -207,14 +207,33 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Estrutura remuneratória da carreira técnica de inspecção",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "titulo": "## ANEXO II — Estrutura remuneratória da carreira de verificador",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "titulo": "## ANEXO III — Conteúdos funcionais",
+      "texto": "(Revogado.)",
+      "alterador": 4
+    }
+  ],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 296-A/95): não contém instrução textual dirigida ao DL 320/93 (só transfere a DGP para o MADRP); nada aplicado.",
-    "Alterador 2 (DL 331-B/95), art. 4.º: dá nova redação ao art. 2.º, mantendo a) a o) e aditando a alínea p); ficou sem efeito no texto final porque o alterador 4 revoga o art. 2.º.",
-    "Alterador 3 (DL 196/96): extingue as delegações referidas no art. 29.º, n.º 2, sem alterar o texto do original; nada aplicado.",
-    "Alterador 4 (DR 12/97), art. 32.º: revoga o DL 320/93 com exceção do n.º 4 do art. 23.º; artigos 1.º a 22.º e 24.º a 34.º passam a (Revogado.) e no art. 23.º os n.os 1 a 3 passam a (Revogado.), mantendo o n.º 4."
+    "Alterador 1 (DL 296-A/95, Lei Orgânica do Governo): não tem instrução textual dirigida ao DL 320/93 (só muda o enquadramento ministerial da DGP); nada aplicado.",
+    "Alterador 2 (DL 331-B/95), art. 4.º: adita a alínea p) ao artigo 2.º; aplicada, mas o artigo 2.º fica depois revogado pelo alterador 4.",
+    "Alterador 3 (DL 196/96): extingue as delegações referidas no n.º 2 do art. 29.º, sem alterar o texto do original; nada a aplicar (o art. 29.º fica revogado pelo alterador 4).",
+    "Alterador 4 (DR 12/97), art. 32.º: revoga o DL 320/93 com excepção do n.º 4 do artigo 23.º. Todos os artigos 1.º a 34.º passam a (Revogado.); no artigo 23.º revogam-se os n.os 1 a 3 e mantém-se o n.º 4 com o texto atual. Reparo confirmado: os anexos I, II e III fazem parte do diploma revogado e ficam (Revogado.)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

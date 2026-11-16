@@ -1530,7 +1530,7 @@ b) Individualizados, em sistema de cobertura de espaço exterior, em material na
 
 > Alterado pelo/a [Resolução do Conselho de Ministros n.º 154/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2007-642545), publicado em 2007-10-02.
 
-###### Artigo 62.º — Acessos e estrados
+###### Artigo 61.º — Acessos e estrados
 
 1 - Os sistemas de acesso pedonal a empregar (passadeiras e áreas de esplanada) devem ser em ripado de madeira tratada, com juntas não inferiores a 0,01 m, de forma a não impermeabilizar a área afecta, podendo o sistema estrutural a empregar ser em madeira ou ferro metalizado.
 
@@ -1844,8 +1844,138 @@ As disposições constantes do POOC não põem em causa direitos adquiridos à d
 
 > Aditado pelo/a [Resolução do Conselho de Ministros n.º 154/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2007-642545), publicado em 2007-10-02.
 
-## ANEXO I — [(ver quadros n.os 1 a 15 no documento original)](https://files.diariodarepublica.pt/1s/1999/04/081b00/18671889.pdf)
+## ANEXO II — QUADRO N.º 1
 
-## ANEXO II — [(ver quadros n.os 1 a 7 no documento original)](https://files.diariodarepublica.pt/1s/1999/04/081b00/18671889.pdf)
+UOPG n.º 1 - Núcleo urbano da praia do Carreço (artigo 28.º)
 
-[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1999/04/081b00/18671889.pdf)
+(Antigo anexo i, quadro n.º 1, «UOPG n.º 1».)
+
+QUADRO N.º 2
+
+UOPG n.º 2 - Zona piscatória da Pedra Alta (artigo 29.º)
+
+(Antigo anexo i, quadro n.º 2, «UOPG n.º 2».)
+
+QUADRO N.º 3
+
+UOPG n.º 3 - São Bartolomeu do Mar (artigo 30.º)
+
+(Antigo anexo i, quadro n.º 3, «UOPG n.º 3».)
+
+QUADRO N.º 4
+
+UOPG n.º 4 - Núcleo turístico de Ofir (artigo 31.º)
+
+(Antigo anexo i, quadro n.º 4, «UOPG n.º 4».)
+
+QUADRO N.º 5
+
+UOPG n.º 5 - Aguçadoura (artigo 32.º)
+
+(Antigo anexo i, quadro n.º 5, «UOPG n.º 5».)
+
+QUADRO N.º 6
+
+UOPG n.º 6 - Aglomerado piscatório de Quião (artigo 33.º)
+
+(Antigo anexo i, quadro n.º 6, «UOPG n.º 6».)
+
+QUADRO N.º 7
+
+UOPG n.º 7 - Faixa a poente da marginal de A Ver-o-Mar (artigo 34.º)
+
+(Antigo anexo i, quadro n.º 7, «UOPG n.º 7».)
+
+QUADRO N.º 8
+
+UOPG n.º 8 - Zona piscatória de Vila Chã (artigo 35.º)
+
+(Antigo anexo i, quadro n.º 8, «UOPG n.º 8».)
+
+QUADRO N.º 9
+
+UOPG n.º 9 - Zona piscatória de Angeiras (artigo 36.º)
+
+(Antigo anexo i, quadro n.º 9, «UOPG n.º 9».)
+
+QUADRO N.º 10
+
+UOPG n.º 10 - Faixa litoral Pampelide-Memória-Cabo do Mundo (artigo 37.º)
+
+(Antigo anexo i, quadro n.º 10, «UOPG n.º 10».)
+
+QUADRO N.º 11
+
+UOPG n.º 11 - Litoral de Salgueiros (artigo 38.º)
+
+(Antigo anexo i, quadro n.º 11, «UOPG n.º 11».)
+
+QUADRO N.º 12
+
+UOPG n.º 12 - Litoral de Madalena (artigo 39.º)
+
+(Antigo anexo i, quadro n.º 12, «UOPG n.º 12».)
+
+QUADRO N.º 13
+
+UOPG n.º 13 - Núcleo antigo da Aguda (artigo 40.º)
+
+(Antigo anexo i, quadro n.º 13, «UOPG n.º 13».)
+
+QUADRO N.º 14
+
+UOPG n.º 14 - Aglomerado a norte de Espinho (artigo 41.º)
+
+(Antigo anexo i, quadro n.º 14, «UOPG n.º 14».)
+
+QUADRO N.º 15
+
+UOPG n.º 15 - Aglomerado de Paramos (artigo 42.º)
+
+(Antigo anexo i, quadro n.º 15, «UOPG n.º 15».)
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 154/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2007-642545), publicado em 2007-10-02.
+
+## ANEXO III — QUADRO N.º 1
+
+Características dos apoios de praia e equipamentos das praias do tipo i
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
+
+QUADRO N.º 2
+
+Características dos apoios de praia e equipamentos das praias do tipo ii
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
+
+QUADRO N.º 3
+
+Características dos apoios de praia e equipamentos das praias do tipo iii
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
+
+QUADRO N.º 4
+
+Quantificação das instalações de apoio à praia
+
+(Antigo anexo ii, quadro n.º 4.)
+
+QUADRO N.º 5
+
+Material a utilizar na estrutura dos equipamentos e apoios de praia
+
+(Antigo anexo ii, quadro n.º 5.)
+
+QUADRO N.º 6
+
+Material a utilizar no revestimento dos equipamentos e apoios de praia
+
+(Antigo anexo ii, quadro n.º 6.)
+
+QUADRO N.º 7
+
+Material a utilizar na cobertura dos equipamentos e apoios de praia
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 154/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2007-642545), publicado em 2007-10-02.

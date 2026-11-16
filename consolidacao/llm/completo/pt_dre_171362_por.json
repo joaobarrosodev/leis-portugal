@@ -33,17 +33,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterações ao mapa de pessoal anexo (Portaria 277/87, que o substitui; Portarias 49-A/92 e 282/97, que alteram o seu n.º 4; Portaria 319/2004, que altera o mapa da Portaria 330-A/2002, só em imagem): o mapa não é um artigo do original e, após o DL 97/2006, passa a ser aprovado por portaria; não aplicado ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Mapa de pessoal: a Portaria n.º 277/87 (2) substitui o mapa de pessoal pelo mapa anexo e as Portarias n.os 49-A/92 (3) e 282/97 (4) alteram o seu n.º 4, mas no texto atual o mapa não vem como anexo com título e «Corpo do anexo» (está colado ao fim do art. 10.º, depois das assinaturas), pelo que não há onde aplicar estas substituições sem pôr o corpo de um anexo em «artigos». A Portaria n.º 319/2004 (2.ª série) (5) altera o mapa anexo à Portaria n.º 330-A/2002, que não consta do texto e só vem em imagem. O DL 97/2006, art. 2.º, e o DL 100/2019 são regimes transitórios/suspensões sem alteração textual; os alteradores 8 a 10 não trazem texto.",
   "instrucoes": [
-    "Alterador 1 (DL 302/86): nova redação do art. 6.º (5 números); aplicada e depois sobreposta em parte pelo alterador 6.",
-    "Alteradores 2 a 5 (portarias): alteram o mapa de pessoal anexo, não artigos; não aplicados (ver nao_aplicavel).",
-    "Alterador 6 (DL 97/2006), art. 1.º: art. 3.º com n.º 1 mantido e n.os 2 a 4 novos; art. 4.º com n.os 1 e 2 novos e n.º 3 = anterior n.º 2; art. 6.º com n.os 1, 4, 5 e 6 novos e n.os 2 e 3 mantidos (redação do DL 302/86).",
-    "Alterador 6, art. 3.º, a): revogados os arts. 8.º e 9.º; ficam (Revogado.).",
-    "Alterador 6, art. 4.º: republicação; nada a aplicar (no n.º 1 do art. 4.º copiado 'do Ministros' como no texto da alteração).",
-    "Alterador 7 (DL 100/2019): suspensão transitória de regime, não alteração textual; nada a aplicar.",
-    "Alteradores 8 a 10: sem artigos que mencionem o original; nada a aplicar."
+    "Reparo ao artigo 6.º rejeitado: o DL 302/86 é o alterador 1 da lista e dá nova redação a todo o art. 6.º (n.os 1 a 5): o n.º 2 passa a «propostos pelos respectivos presidentes dos governos», o antigo n.º 3 (4 anos) sai e o regime supletivo passa a n.º 3. Copiou-se o n.º 2 letra a letra do DL 302/86 («governos das regiões autónomas», em minúsculas); a maiúscula vem só da republicação do DL 97/2006.",
+    "DL 97/2006 (6): art. 6.º n.os 1, 4, 5 e 6 novos, n.os 2 e 3 «...» (redação do DL 302/86).",
+    "DL 97/2006 (6): art. 3.º n.os 2 a 4 novos; art. 4.º n.os 1 e 2 novos e n.º 3 = anterior n.º 2 (copiado «portaria conjunta do Ministros» letra a letra); arts. 8.º e 9.º revogados (art. 3.º, a)).",
+    "Portarias 277/87, 49-A/92, 282/97 e 319/2004 (mapa de pessoal), DL 97/2006 art. 2.º e DL 100/2019: ver nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

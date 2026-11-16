@@ -38,10 +38,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-28'
+version_history:
+  file: despacho-normativo-61-c-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-28'
+    amending: pt:dre:532064:por
+    amending_title: Despacho Normativo n.º 22/99; Despacho Normativo n.º 63/99
+    changes:
+    - Revoga Artigo 12.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Revoga Artigo 14.º
+    - Altera Artigo ANEXO B — Metodologia para o cálculo da percentagem final do incentivo
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/61-c/1995/10/17/p/dre/pt/html
@@ -67,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:29:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 22/99; Despacho
+    Normativo n.º 63/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1995/despacho-normativo-61-c-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -233,11 +256,11 @@ iii) Um diagnóstico e análise estratégica, aprofundado em função da complex
 
 d) Resultar de uma análise integrada das necessidades de investimento nas diversas áreas funcionais da empresa;
 
-e) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto;
+e) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto, bem como, através de declaração de uma entidade bancária protocolada com o IAPMEI a apresentar no prazo de 45 dias úteis a contar da data da candidatura, que está aprovado um empréstimo bancário com um período de vida até sete anos, os quais incluirão um período de utilização e carência até dois anos, sendo os reembolsos efectuados em semestralidades constantes de capital.
 
-f) Envolver um montante mínimo de investimento em capital fixo de 100000 contos.
+f) Envolver um montante mínimo de investimento em capital fixo de 20000 contos.
 
-3 - Constituem excepções ao previsto na alínea a) do n.º 1:
+2 - Constituem excepções ao previsto na alínea a) do n.º 1:
 
 a) O disposto nos n.os 10.º e 20.º do Regulamento de Aplicação do Programa IMIT;
 
@@ -246,6 +269,8 @@ b) Os estudos, diagnósticos e auditorias concluídos há menos de 60 dias útei
 c) O diagnóstico e análise estratégica concluído há menos de 120 dias úteis relativamente à data de apresentação da candidatura;
 
 d) O adiantamento para sinalização até 50% do custo de cada equipamento, não podendo ultrapassar 25% do custo global dos equipamentos, sempre que os documentos justificativos desse adiamento se refiram aos 60 dias úteis que antecedem a data de apresentação da candidatura.
+
+> Alterado pelo/a [Despacho Normativo n.º 63/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/63-1999-642740), publicado em 1999-11-23.
 
 ###### Artigo 5.º — Critérios de selecção
 
@@ -299,21 +324,19 @@ r) Custos com a contratação de um máximo de dois técnicos superiores, durant
 
 ###### Artigo 7.º — Incentivos
 
-Os incentivos a conceder no âmbito deste Regime podem revestir as seguinte formas:
+1 - Os incentivos a conceder no âmbito deste Regime podem revestir as seguintes formas:
 
-1) Subsídios reembolsáveis à taxa nula para as componentes do projecto de investimento, a que se referem as alíneas a) a h), k) e l) do n.º 1 e o n.º 2 do artigo anterior;
+a) Bonificação da taxa de juro, através do pagamento dos juros devidos pelos promotores às instituições de crédito protocoladas;
 
-2) Subsídios a fundo perdido para as restantes componentes não directamente produtivas do projecto consideradas no artigo anterior;
+b) Acrescidos do respectivo imposto do selo, resultantes dos empréstimos bancários obtidos para as componentes do projecto de investimento a que se referem as alíneas a) a h), k) e l) do n.º 1 e o n.º 2 do artigo anterior;
 
-3) Bonificado da taxa de juro de empréstimos bancários necessários para o financiamento do projecto de investimento e de outras acções de melhoria da competitividade da empresa promotora;
+c) Subsídio a fundo perdido para as restantes componentes, não directamente produtivas do projecto, consideradas no artigo anterior.
 
-4) Poderá ser objecto de subsídio reembolsável o valor excedente a que se refere a alínea d) do n.º 2 do artigo 1.º;
+2 - Poderá ainda ser objecto de bonificação da taxa de juro o valor excedente a que se refere a alínea c) do n.º 2 do artigo 10.º, com o limite aí referido.
 
-5) Os incentivos relativos a aplicações relevantes realizadas no estrangeiro serão sempre concretizados através de subsídios reembolsáveis;
+3 - Os incentivos relativos a aplicações relevantes realizadas no estrangeiro serão sempre concretizados através da bonificação da taxa de juro.
 
-6) Haverá um prémio de realização, nos projectos que envolvam subsídio reembolsável, para os considerados Excelentes tanto na concepção como, e principalmente, na sua execução, em função dos resultados obtidos, até ao limite máximo de acumulação previsto no n.º 2 do n.º 17.º do Regulamento de Aplicação do Programa IMIT;
-
-7) A natureza, os critérios e a forma de atribuição do prémio referido no número anterior serão objecto de despacho do Ministro da Indústria e Energia.
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
 
 ###### Artigo 8.º — Percentagem do incentivo
 
@@ -327,47 +350,53 @@ Os montantes do incentivo a atribuir ao abrigo do presente Regime de Apoio são 
 
 1 - Deverá ser garantido que o nível base do incentivo e a majoração permitam que o incentivo global atribuído aos projectos localizados nas Regiões Autónomas, em regiões abrangidas pelo Sistema de Incentivos Regionais, bem como nos concelhos que venham a ser reconhecidos, por despacho conjunto dos Ministros da Indústria e Energia e do Planeamento e da Administração do Território, como profundamente afectados por transformações industriais, seja superior em 15% em relação aos projectos realizados no resto do País.
 
-2 - Os limites máximos de incentivos a conceder são os seguintes:
+2 - Os limites máximos do incentivo a conceder são os seguintes:
 
-a) 500000 contos por empresa, quando o incentivo revista forma de subsídio reembolsado, salvo o disposto na alínea d);
+a) Para as empresas com projectos já homologados no âmbito do presente Regime de Apoio:
 
-b) 250000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido, com excepção do incentivo relativo à formação profissional;
+Juros correspondentes a um empréstimo bancário de 800000 contos por empresa, salvo o disposto na alínea c) seguinte;
 
-c) 100000 contos por empresa, quando o incentivo revista a forma de bonificação de juros;
+400000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido;
 
-d) Sempre que o montante calculado do incentivo a fundo perdido seja superior ao montante máximo de 250000 contos, o valor excedente poderá ser financiado através de subsídio reembolsável, este último com o limite máximo de 600000 contos por empresa;
+b) Para outras empresas:
 
-3 - O montante total do incentivo a conceder, com exclusão das bonificações de juro, não poderá exceder dois terços do custo total do investimento.
+Juros correspondentes a um empréstimo bancário de 500000 contos por empresa, salvo o disposto na alínea c) seguinte;
 
-###### Artigo 11.º — Subsídios reembolsáveis
+250000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido;
 
-1 - Nos protocolos a celebrar entre o IAPMEI e as entidades financiadoras deverão ser estipuladas as regras a aplicar aos serviços da dívida conjuntos, nos casos de atribuição de subsídios reembolsáveis, sem prejuízo do disposto nos números seguintes.
+c) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 400000 contos ou a 250000 contos, conforme se trate, respectivamente, das alíneas a) ou b) anteriores, o valor excedente poderá ser transformado em bonificação de juro de um empréstimo bancário no montante máximo de, também respectivamente, 900000 contos ou 600000 contos por empresa.
 
-2 - O esquema de reembolso dos subsídios ao IAPMEI deverá enquadrar-se e respeitar o serviço de dívida convencionado entre o promotor e a entidade financiadora.
+3 - Em nenhum caso o incentivo a atribuir a cada projecto poderá ultrapassar os limites fixados nas alíneas b) e c) do n.º 2.
 
-3 - O serviço de dívida respeitará um período de vida do empréstimo até sete anos, incluindo o período de utilização e carência, sendo os reembolsos efectuados em semestralidades.
+4 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento.
 
-4 - Nos casos de inexistência de operação de financiamento por recurso a capitais alheios ou de recurso a entidades financeiras não subscritoras de protocolos com o IAPMEI, o subsídio reembolsado é prestado directamente ao promotor por este organismo, sendo de igual modo aplicável o disposto no número anterior.
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
 
-###### Artigo 12.º — Bonificações de juro
+###### Artigo 11.º — Bonificação de juros
 
-1 - Poderá ser concedida uma bonificação dos juros suportados pelo promotor durante os três primeiros anos do prazo de operações de financiamento bancário de médio ou longo prazo referidas no artigo anterior.
+1 - A bonificação dos juros corresponderá aos encargos que o promotor suporte durante o período de vida do empréstimo, com o limite de sete anos, incluindo o período de utilização e carência.
 
-2 - A parcela do empréstimo bonificada deverá destinar-se à cobertura do investimento aprovado e poderá ainda incluir o financiamento do fundo de maneio permanente necessário a outras acções necessárias à melhoria da competitividade da empresa, devidamente fundamentadas no diagnóstico apresentado.
+2 - As taxas máximas de juro e as outras condições dos empréstimos a bonificar serão reguladas em protocolos a estabelecer entre o IAPMEI e as instituições de crédito financiadoras.
 
-3 - As taxas máximas de juros e as outras condições dos empréstimos a bonificar serão reguladas em protocolos a estabelecer entre o IAPMEI e as instituições de crédito referidos no n.º 1 do artigo anterior.
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
 
-###### Artigo 13.º — Competência e prazo de apreciação
+###### Artigo 12.º — Competência e prazo de apreciação
 
 1 - Compete ao IAPMEI analisar as candidaturas, emitindo parecer fundamentado no prazo de 60 dias úteis contados a partir da data de apresentação da candidatura.
 
 2 - Compete à Direcção-Geral da Indústria emitir parecer sobre a verificação da condição de acesso prevista na alínea b) do n.º 1 do artigo 4.º no prazo de 20 dias úteis contados partir da data do envio do projecto pelo IAPMEI.
 
-###### Artigo 14.º — Projecto com investimento no estrangeiro
+> Revogado pelo/a Artigo 2.º do/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
+
+###### Artigo 13.º — Projecto com investimento no estrangeiro
 
 Independentemente do nível de decisão relativamente ao projecto, a comissão de selecção deve comprovar e dar parecer sobre os montantes das aplicações relevantes referentes aos projectos de internacionalização que envolvam investimentos no estrangeiro.
 
 Ministério da Indústria e Energia, 16 de Outubro de 1995. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
 
 ## ANEXO A — Metodologia para a determinação da valia industrial
 
@@ -487,15 +516,13 @@ A pontuação do impacte do projecto será determinada através da seguinte chav
 
 1.º
 
-Percentagem do incentivo
+Percentagem base do incentivo
 
-A percentagem do incentivo a conceder aos projectos seleccionados (VI igual ou superior a 60) será a seguinte:
+Para a determinação do incentivo final a conceder aos projectos seleccionados (VI igual ou superior a 60), observar-se-á o seguinte:
 
-a) 65% para os subsídios reembolsáveis;
+a) A percentagem base (I(índice bj)) a considerar para a determinação do montante máximo do empréstimo que poderá beneficiar de bonificação da taxa de juros é de 65%;
 
-b) 55% para os subsídios a fundo perdido;
-
-c) 33% para as bonificações de juros.
+b) A percentagem base do subsídio a fundo perdido (I(índice fp)) corresponderá a 55%.
 
 2.º
 
@@ -513,16 +540,32 @@ c) Para os concelhos que venham a ser reconhecidos, por despacho conjunto dos Mi
 
 Cálculo do incentivo
 
-O montante do incentivo a conceder será obtido pela multiplicação das percentagens referidas nos números anteriores pelo valor:
+Os montantes dos incentivos a atribuir são calculados de acordo com as alíneas seguintes:
 
-a) Das aplicações relevantes referidas no n.º 1 do artigo 9.º, relativamente aos subsídios reembolsáveis;
+a) Empréstimo com juro bonificado:
 
-b) Das aplicações relevantes referidas no n.º 2 do artigo 9.º, relativamente aos subsídios a fundo perdido;
+Montante máximo do empréstimo = I(índice bj)x AR(índice bj)
 
-c) Dos juros suportados referidos no n.º 1 do artigo 14.º, relativamente à bonificação de juros.
+em que:
+
+I(índice bj) - percentagem base a aplicar na determinação do montante máximo do empréstimo, de acordo com o n.º 1.º anterior, acrescida, se aplicável, da majoração referida no n.º 2.º deste anexo;
+
+AR(índice bj) - aplicações relevantes relativas às componentes referidas na alínea a) do n.º 1 do artigo 7.º do presente despacho;
+
+b) Subsídio a fundo perdido:
+
+Incentivo = I(índice fp) x AR(índice fp)
+
+em que:
+
+I(índice fp) - percentagem base relativa ao fundo perdido, de acordo com o n.º 1.º anterior, acrescida, se aplicável, da majoração referida no n.º 2.º deste anexo;
+
+AR(índice fp) - aplicações relevantes relativas às componentes referidas na alínea b) do n.º 1 do artigo 7.º do presente despacho.
 
 4.º
 
 Incentivo final
 
 O incentivo final será constituído pelo somatório dos subsídios reembolsáveis, dos subsídios a fundo perdido e das bonificações de juro.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.

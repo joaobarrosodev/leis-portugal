@@ -159,7 +159,10 @@ def verificar_resposta(resultado: dict, selecao: dict, textos_atuais: list[str] 
             problemas.append(f"{artigo['chave']}: parágrafo que não está no alterador nem no original: {p[:80]}")
     for anexo in resultado.get("anexos") or []:
         for p in (x.strip() for x in (anexo.get("texto") or "").split("\n\n") if x.strip()):
-            if not vem_de_algum(_plano(p)):
+            # um anexo (ou um número dele) revogado fica "(Revogado.)", como nos artigos
+            if _REVOGADO.match(p) or _REVOGADO.match(_NUMERACAO.sub("", p)) or vem_de_algum(_plano(p)):
+                continue
+            if not vem_de_algum(_plano(_NUMERACAO.sub("", p))):
                 problemas.append(f"anexo {str(anexo.get('titulo'))[:40]}: parágrafo que não está no alterador nem no original: {p[:80]}")
     for titulo in resultado.get("titulos") or []:
         novo = titulo.get("novo")
@@ -324,6 +327,7 @@ def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, in
         partes += [aviso, ""]
     partes.append("## Texto atual do original, por artigos (e os títulos de divisão, pela ordem do texto)")
     chaves = consolidado.chaves_unicas()
+    antes = _artigos_do_original(extra) if tocados else {}
     for s in consolidado.segmentos:
         if not isinstance(s, Artigo):
             for k, l in enumerate(s):
@@ -337,6 +341,12 @@ def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, in
         sinal = (" [já alterado por um programa]" if s.chave in tocados
                  else " [já alterado numa passagem anterior]" if chave in tocados_llm else "")
         partes += [f"### {chave}{sinal}", s.epigrafe, _NOTA.sub("", s.texto).strip(), ""]
+        o = antes.get(chave) if s.chave in tocados else None
+        if o is not None and (o.epigrafe, o.texto.strip()) != (s.epigrafe, _NOTA.sub("", s.texto).strip()):
+            # Se o programa aplicou mal uma instrução (uma revogação "na parte aplicável a…"), o
+            # LLM só a pode desfazer se vir o texto que o artigo tinha antes.
+            partes += [f"#### {chave}, como estava no original (antes do programa; repõe-no se o programa aplicou mal uma instrução):",
+                       o.epigrafe, o.texto.strip(), ""]
     partes.append("## Diplomas que alteram o original, por ordem de aplicação")
     for n, a in enumerate(alteradores, inicio):
         texto, completo = _texto_alterador(a["path"], registo["title"])
@@ -344,6 +354,15 @@ def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, in
         partes += [f"### Alterador {n}: {a.get('title') or a['id']}{aviso_a}", texto.strip(), ""]
     texto = "\n".join(partes)
     return texto, len(texto)
+
+
+def _artigos_do_original(extra: dict) -> dict[str, Artigo]:
+    """Os artigos do original (antes das regras), pela chave única."""
+    if not extra.get("texto_original"):
+        return {}
+    original = texto_mod.dividir(extra["texto_original"])
+    chaves = original.chaves_unicas()
+    return {chaves[id(a)]: a for a in original.artigos}
 
 
 def _texto_atual(consolidado) -> str:
@@ -578,10 +597,15 @@ def _junto(resposta: dict, registo: dict) -> dict:
     if consolidado is None or not consolidado.artigos:
         return linha | {"estado": "não junto", "motivo": "original sem artigos: a resposta não tem onde encaixar"}
     alteradores = _alteradores(registo)
+    resposta, repostos = _repor_originais(resposta, extra, consolidado)
     registos_llm, citados, erro = _aplicar(resposta, registo, consolidado)
     if erro:
         return linha | {"estado": "não junto", "motivo": erro}
-    if not registos_llm:
+    if repostos:
+        # o artigo volta ao original: saem as alterações que as regras lhe tinham feito, e não leva nota
+        extra = extra | {"registos": [r for r in extra["registos"] if r.get("artigo") not in repostos]}
+        linha["repostos"] = sorted(repostos)
+    if not registos_llm and not repostos:
         return linha | {"estado": "não junto", "motivo": "a resposta não muda nenhum artigo em relação ao texto das regras"}
 
     aplicados = list(extra["aplicados"])
@@ -594,7 +618,9 @@ def _junto(resposta: dict, registo: dict) -> dict:
     destino.with_suffix(".alteracoes.json").write_text(json.dumps(json_registos, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     destino.write_text(_markdown(registo, aplicados, consolidado, extra["titulos_normalizados"], METODO), encoding="utf-8")
     linha |= {"estado": "aplicado com LLM", "consolidado": str(destino.relative_to(RAIZ)), "artigos_llm": len(registos_llm),
-              "artigos_regras": len(extra["registos"]), "alteradores_ids": [a["id"] for a in aplicados], "pedido": "completo"}
+              "artigos_regras": len(extra["registos"]), "alteradores_ids": [a["id"] for a in aplicados], "pedido": "completo",
+              # a verificação às cegas vê todos os alteradores do pedido, para dar por uma instrução que o LLM deixou cair
+              "alteradores_vistos": [a["id"] for a in alteradores]}
     if extra["titulos_normalizados"]:
         linha["titulos_normalizados"] = True
     if resposta.get("nao_aplicavel"):
@@ -602,6 +628,35 @@ def _junto(resposta: dict, registo: dict) -> dict:
     if resposta.get("avisos"):
         linha["avisos_alvos"] = resposta["avisos"]
     return linha
+
+
+def _paragrafos_do_corpo(artigo: Artigo) -> list[str]:
+    corpo = [p.strip() for p in artigo.texto.split("\n\n") if p.strip()]
+    if corpo and artigo.epigrafe and corpo[0] == artigo.epigrafe.strip():
+        corpo = corpo[1:]
+    return corpo
+
+
+def _repor_originais(resposta: dict, extra: dict, consolidado) -> tuple[dict, set[str]]:
+    """Os artigos que as regras mudaram e que a resposta devolve com o texto do original (a regra
+    aplicou mal uma instrução): voltam, letra a letra, ao bloco do original, sem notas. Devolve a
+    resposta sem esses artigos e as chaves (das regras) repostas."""
+    tocados = extra.get("tocados") or set()
+    originais = _artigos_do_original(extra) if tocados else {}
+    if not originais:
+        return resposta, set()
+    atuais = {chave: a for a, chave in ((a, k) for a in consolidado.artigos for k in [consolidado.chaves_unicas()[id(a)]])}
+    ficam, repostos = [], set()
+    for novo in resposta.get("artigos") or []:
+        o, c = originais.get(novo["chave"]), atuais.get(novo["chave"])
+        paragrafos = [p.strip() for p in (novo.get("texto") or "").split("\n\n") if p.strip()]
+        if o is not None and c is not None and c.chave in tocados and paragrafos == _paragrafos_do_corpo(o):
+            k = next(i for i, seg in enumerate(consolidado.segmentos) if seg is c)
+            consolidado.segmentos[k] = Artigo(o.parte, o.numero, o.epigrafe, list(o.linhas))
+            repostos.add(c.chave)
+        else:
+            ficam.append(novo)
+    return (resposta | {"artigos": ficam}), repostos
 
 
 def _ultimos_do_original(registo: dict) -> set[str]:

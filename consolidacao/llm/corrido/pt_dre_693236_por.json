@@ -55,19 +55,21 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 3 (DL 48405): o artigo 2.º substitui no quadro do artigo 20.º a categoria de chefe de secção pela de subdirector e extingue a de escriturário-dactilógrafo, e o anexo altera o mapa do artigo 69.º (só em imagem); são alterações de regime/quadro, não textuais. Alterador 4 (DL 409/72), alterador 5 (DL 576/74, correcções genéricas à orgânica, supressão de restrições ao pessoal feminino, extinção de serviços), alterador 6 (Portaria 419-B/75, mapa em imagem), alterador 8 (Portaria 571/77, mapas em imagem) e alterador 9 (Portaria 336/78, aumento do quadro): sem instruções textuais dirigidas ao texto do original.",
+  "nao_aplicavel": "DL 48405 (alterador 3), art. 2.º: substituição no quadro do art. 20.º da categoria de chefe de secção pela de subdirector e extinção da de escriturário-dactilógrafo - alteração implícita, sem nova redacção escrita (não há texto letra a letra para a linha nova); arts. 3.º a 21.º regulam o pessoal sem alterar por escrito o texto da Organização; o mapa anexo (art. 69.º) só vem em imagem. DL 409/72 (alterador 4): extinção das brigadas móveis e transição de pessoal, sem instrução textual sobre o original. DL 576/74 (alterador 5), art. 3.º, regras 1.ª, 2.ª, 14.ª (categoria única de aspirante e de escriturário-dactilógrafo, extinção de auxiliar de desenho) e 11.ª (supressão das restrições de acesso do pessoal feminino, p. ex. arts. 42.º f) e n), 47.º, 54.º § 5.º): alterações implícitas, sem nova redacção dos preceitos; não aplicadas. Portarias n.º 419-B/75, 571/77 e 336/78 (alteradores 6, 8 e 9): alteram quadros/mapas de pessoal que só vêm em imagem ou por número de lugares, sem texto para o original.",
   "instrucoes": [
-    "Alterador 1 (DL 45686): adita § 3.º ao artigo 40.º da organização - inserido depois da unidade 250 (§ 2.º).",
-    "Alterador 1 (DL 45686): adita alínea e) ao artigo 54.º - inserida depois da unidade 344 (alínea d)).",
-    "Alterador 2 (DL 46369, art. 6.º): nova redacção do § 1.º do artigo 9.º - substituída a unidade 113.",
-    "Alterador 2: artigo 40.º com novo § 4.º - inserido a seguir ao § 3.º aditado pelo alterador 1 (depois da unidade 250).",
-    "Alterador 2: nova redacção dos §§ 4.º e 5.º do artigo 54.º - substituídas as unidades 349 e 350.",
-    "Alterador 2: nova redacção da alínea a) do artigo 65.º - substituída a unidade 385.",
-    "Alterador 2: nova redacção do artigo 71.º (corpo e § único novo) - substituída a unidade 401.",
-    "Alterador 2: restantes artigos (códigos da sisa, imposto profissional, OSJF) não são do original - ignorados.",
-    "Alterador 3 (DL 48405): regime transitório, quadro do artigo 20.º e mapa do artigo 69.º - não textual, em nao_aplicavel.",
-    "Alteradores 4, 5, 6, 8 e 9: medidas de pessoal, quadros e mapas sem nova redacção do original - em nao_aplicavel.",
-    "Alterador 7 (DL 19/76): nova redacção da alínea m) do artigo 42.º - substituída a unidade 273."
+    "DL 45686 (1): adita § 3.º ao art. 40.º - inserido depois da unidade 250 (§ 2.º).",
+    "DL 45686 (1): adita alínea e) ao art. 54.º - inserida depois da unidade 344 (alínea d)).",
+    "DL 46369 (2) art. 6.º: nova redacção do § 1.º do art. 9.º - substituída a unidade 113.",
+    "DL 46369 (2) art. 6.º: art. 40.º, novo § 4.º - inserido depois do § 3.º aditado pelo alterador 1 (depois da unidade 250).",
+    "DL 46369 (2) art. 6.º: art. 54.º, nova redacção dos §§ 4.º e 5.º - substituídas as unidades 349 e 350.",
+    "DL 46369 (2) art. 6.º: art. 65.º, nova redacção da alínea a) - substituída a unidade 385; b) e § único ficam.",
+    "DL 46369 (2) art. 6.º: nova redacção do art. 71.º, com corpo e § único - substituída a unidade 401.",
+    "DL 48405 (3): alterações implícitas ao quadro do art. 20.º e regime do pessoal, sem redacção nova; mapa em imagem - nao_aplicavel.",
+    "DL 409/72 (4): transição de pessoal das brigadas móveis - sem alteração textual - nao_aplicavel.",
+    "DL 576/74 (5): regras do art. 3.º (categorias únicas, extinção de auxiliar de desenho, fim das restrições ao pessoal feminino) - implícitas, nao_aplicavel.",
+    "Portaria 419-B/75 (6): alterações ao quadro geral em mapa (imagem) - nao_aplicavel.",
+    "DL 19/76 (7): nova redacção da alínea m) do art. 42.º - substituída a unidade 273.",
+    "Portarias 571/77 (8) e 336/78 (9): quadros de pessoal em mapa/número de lugares - nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -165,34 +165,36 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Lei 16/2009, art. 2.º: revoga o anexo (modelo do cartão especial de identificação) do Estatuto na versão da Lei 3/2001; o modelo não consta do texto (só em imagem), por isso não foi aplicado. Lei 60/2019, art. 4.º: a republicação do Estatuto inclui alterações da Lei 44/2019 (art. 16.º reformulado e novos arts. 16.º-A, 16.º-B e 16.º-C), que não está entre os alteradores do pedido, e a grafia do Acordo Ortográfico em unidades não alteradas; não foram aplicadas (art. 16.º fica com a redação da Lei 43/2007).",
-  "instrucoes": [
-    "Alterador 1 (Lei 24/2003): nova redação dos n.os 2, 3 e 4 do art. 8.º e do n.º 1 do art. 23.º do Estatuto (anexo republicado); aplicado (8.º depois sobreposto pelos alteradores 5 e 7).",
-    "Alterador 2 (Lei 52-A/2005): art. 4.º altera o n.º 1 do art. 18.º do Estatuto; aplicado. Arts. 1.º e 6.º alteram/revogam a Lei 4/85 (inclusive normas com a redação dada pelo art. 2.º do original): outro diploma, ignorados; arts. 2.º, 3.º e 5.º alteram outras leis: ignorados.",
-    "Alterador 3 (Lei 45/2006): arts. 20.º (n.º 1, alíneas a), g), n)), 21.º (n.º 6, nova d) e renumeração e)/f)) e 26.º (n.os 2 a 7); aplicados, depois sobrepostos pelos alteradores 5 e 7.",
-    "Alterador 4 (Lei 44/2006): nova redação integral do art. 5.º (n.os 1 a 4; os antigos n.os 5 e 6 desaparecem, como confirma a republicação de 2019) e alínea l) do n.º 1 do art. 20.º (depois passa a m) pelo alterador 7); aplicados.",
-    "Alterador 5 (Lei 43/2007): arts. 2.º, 8.º, 12.º, 14.º, 15.º, 16.º, 20.º, 21.º, 22.º, 25.º, 27.º, 28.º e 30.º alterados; n.º 7 do art. 26.º alterado; aditado art. 27.º-A; revogado art. 17.º; tudo aplicado (vários depois sobrepostos pelo alterador 7).",
-    "Alterador 6 (Lei 16/2009): n.os 3 d), 4 e 5 do art. 15.º alterados; substituição de 'cartão especial de identificação'/'cartão de identificação' por 'cartão de Deputado' aplicada nos arts. 15.º (n.º 3 b) e n.º 6), 28.º (n.º 1) e 29.º (n.º 3); revogação do anexo-modelo do cartão não aplicada (ver nao_aplicavel).",
-    "Alterador 7 (Lei 60/2019): arts. 1.º, 4.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 20.º, 21.º, 22.º, 26.º, 27.º e 27.º-A alterados; aditado art. 21.º-B; revogados n.º 3 do art. 6.º, alínea b) do n.º 2 do art. 12.º, n.º 2 do art. 21.º e n.os 4 a 7 do art. 26.º; aplicados. Republicação não usada como texto (ver nao_aplicavel).",
-    "Arts. 1.º a 7.º da própria Lei 3/2001 (normas de alteração, revogação e vigência): nenhum alterador lhes é dirigido; sem mudanças."
-  ],
-  "modelo": "claude-fable-5-1",
-  "pedido": "completo",
-  "passagens": [
+  "titulos": [],
+  "anexos": [
     {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "chars": 180185,
-      "artigos": 27
+      "titulo": "## ANEXO — Cartão especial de identificação a que se referem os n.os 4 e 5 do artigo 15.º do Estatuto dos Deputados",
+      "texto": "(Revogado.)\n\nESTATUTO DOS DEPUTADOS",
+      "alterador": 6
+    },
+    {
+      "titulo": "## ANEXO — Cartão especial de identificação a que se referem os n.os 4 e 5 do artigo 15.º do Estatuto dos Deputados",
+      "texto": "(Revogado.)",
+      "alterador": 6
     }
   ],
-  "problemas": []
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Reparo ao artigo 20.º rejeitado: a Lei n.º 45/2006 (alterador 3) dá nova redação ao corpo do n.º 1 («mandato de deputado», minúscula) e à alínea a) («Representantes da República para as Regiões Autónomas»); a 43/2007 e a 60/2019 mantêm-nos com «...». Fica a redação da 45/2006.",
+    "Reparo do anexo aceite: a Lei n.º 16/2009, art. 2.º, revoga o anexo ao Estatuto (modelo do cartão especial de identificação) na versão da Lei n.º 3/2001. Os dois corpos do anexo com esse título (o do início, antes do Estatuto republicado, e o do fim, depois do art. 31.º) passam a «(Revogado.)»; no primeiro mantém-se a linha «ESTATUTO DOS DEPUTADOS», que é o título da republicação e não faz parte do modelo.",
+    "As alterações ao Estatuto dos Deputados aplicam-se aos artigos do Estatuto republicado em anexo (chaves «ANEXO — …::N.º»); os artigos 1.º a 7.º da própria Lei n.º 3/2001 não são alterados por nenhuma instrução.",
+    "Lei 24/2003 (1): art. 8.º n.os 2, 3 e 4 novos; art. 23.º n.º 1 novo.",
+    "Lei 52-A/2005 (2): art. 4.º dá nova redação ao n.º 1 do art. 18.º do Estatuto; as demais alterações e revogações são à Lei 4/85, Lei 29/87, Lei 9/91 e DL 252/92 (outros diplomas, ignoradas).",
+    "Lei 45/2006 (3): art. 20.º n.º 1 (corpo, a), g), n)); art. 21.º n.º 6 (corpo, nova d), e) e f) = anteriores d) e e)); art. 26.º n.os 2 a 7 novos.",
+    "Lei 44/2006 (4): art. 5.º com nova redação integral só com n.os 1 a 4 (sai a antiga alínea d) do n.º 2 e os n.os 5 e 6, como confirma a republicação da Lei 60/2019); art. 20.º n.º 1 l) nova.",
+    "Lei 43/2007 (5): arts. 2.º n.º 2, 8.º n.os 2 e 4, 12.º n.º 2 (a)-d)) e n.os 6-8 novos, 14.º n.º 1 e) e f), 15.º n.os 2 e 7, 16.º n.º 5, 20.º n.º 1 b), 21.º n.os 5 c) e 7, 22.º, 25.º, 27.º n.º 3, 28.º n.º 3, 30.º; art. 26.º n.º 7; aditado o 27.º-A; revogado o 17.º.",
+    "Lei 16/2009 (6): art. 15.º n.º 3 d), n.os 4 e 5; art. 3.º substitui «cartão especial de identificação» e «cartão de identificação» por «cartão de Deputado» (arts. 15.º n.º 3 b) e n.º 6, 28.º n.º 1, 29.º n.º 3); art. 2.º revoga o anexo (ver acima).",
+    "Lei 60/2019 (7): nova redação de partes dos arts. 1.º, 4.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 20.º, 21.º, 22.º, 26.º, 27.º e 27.º-A; aditado o 21.º-B; art. 3.º revoga 6.º n.º 3, 12.º n.º 2 b), 21.º n.º 2 e 26.º n.os 4 a 7. No art. 20.º, m) e n) = anteriores l) (redação da 44/2006) e m); no art. 27.º-A as alíneas «[Anterior alínea X) do corpo do artigo]» copiam a redação da 43/2007.",
+    "Nas unidades com «...» manteve-se o texto atual letra a letra, incluindo o ponto final das alíneas que deixaram de ser as últimas (8.º n.º 1 d), 14.º n.º 1 d), 21.º n.º 6 f)).",
+    "A republicação anexa à Lei 60/2019 não foi usada como instrução: inclui alterações da Lei n.º 44/2019 (que não está na lista de alteradores, p. ex. arts. 16.º, 16.º-A a 16.º-C e epígrafe do 11.º) e atualização ortográfica; só se aplicaram as instruções dos alteradores listados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
 }

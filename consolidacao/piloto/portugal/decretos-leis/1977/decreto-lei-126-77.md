@@ -13,6 +13,9 @@ consolidacao:
   - id: pt:dre:329833:por
     title: Decreto-Lei n.º 280/78
     publication_date: '1978-09-08'
+  - id: pt:dre:382999:por
+    title: Decreto-Lei n.º 66/79
+    publication_date: '1979-03-30'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -105,11 +108,17 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO — Regras para reavaliação do activo imobilizado
 
-1. As reavaliações dos bens integrantes dos activos imobilizados corpóreos das empresas têm por objectivo evidenciar as respectivas mais-valias resultantes da desvalorização monetária e/ou das desvalorizações intrínsecas desses mesmos bens.
+1. As reavaliações dos bens integrantes dos activos imobilizados corpóreos das empresas têm por objectivo evidenciar as respectivas mais-valias resultantes da desvalorização monetária e/ou das valorizações intrínsecas desses mesmos bens, podendo ser usados nessas reavaliações os seguintes critérios:
 
-2. O critério geral de reavaliação é o do valor de subtituição (ou valor novo), entendendo-se por tal, para efeito destas regras, aquele que, à data da reavaliação de cada componente do imobilizado corpóreo, teria de ser despendido na aquisição (ou construção) e instalação de uma unidade nova ou idêntica ou equiparável em capacidade, custos de produção e qualidade de produto a obter.
+a) Para os bens ainda não totalmente amortizados e não adquiridos em estado de uso, o critério do valor de substituição (ou valor novo) ou o critério da correcção monetária, nos termos das regras 2, 3 e 4;
 
-3. Não existindo à data da reavaliação unidades idênticas ou equiparáveis, nos termos do número anterior, o valor reavaliado de cada componente do imobilizado corpóreo obtém-se pela aplicação aos respectivos valores de aquisição (ou construção) e instalação dos coeficientes de correcção monetária publicados anualmente pelo Ministério das Finanças para efeitos da determinação da matéria colectável do imposto de mais-valias, de acordo com a [Portaria n.º 556/76](https://diariodarepublica.pt/dr/detalhe/portaria/556-1976-408715), de 6 de Setembro, presentemente em vigor.
+b) Para os bens ainda não totalmente amortizados e adquiridos em estado de uso, os critérios referidos na regra 6;
+
+c) Para os bens totalmente amortizados, o critério estabelecido na regra 5.
+
+2. Entende-se por valor de substituição aquele que à data da reavaliação de cada componente do imobilizado corpóreo teria de ser despendido na aquisição (ou construção) e instalação de uma unidade nova ou idêntica ou equiparável em capacidade, custos de produção e qualidade de produto a obter.
+
+3 - Pela aplicação do critério da correcção monetária, o valor reavaliado obtém-se pela aplicação aos respectivos valores de aquisição (ou construção) e instalação dos coeficientes de correcção monetária publicados anualmente pelo Ministério das Finanças e do Plano para efeitos de determinação da matéria colectável do imposto de mais-valias.
 
 4. Após determinação do valor reavaliado de cada componente do imobilizado corpóreo, o valor acumulado das respectivas amortizações ou reintegrações terá de ser corrigido em conformidade, por forma que o valor líquido correspondente reflicta, em termos actuais, a depreciação sofrida. Para o efeito, o valor líquido contabilístico será actualizado pela aplicação de um coeficiente que traduza a relação existente entre o valor bruto reavaliado, segundo qualquer dos critérios anteriores, e o valor bruto originário (ou contabilístico).
 
@@ -119,6 +128,6 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Se o critério usado para reavaliação de tais bens for o do valor de substituição referido no n.º 2, o valor em novo que se apurar será reduzido na proporção necessária para ter em conta o seu estado de uso à data da sua aquisição pela empresa.
 
-7. A reavaliação só será considerada se se traduzir em aumento global do valor líquido dos bens reavaliados de, pelo menos, 10% e limitar-se-á, em princípio, quaisquer que sejam os critérios adoptados, ao valor global resultante da aplicação do critério da actualização monetária referido no n.º 3, a menos que, após exame solicitado à Direcção-Geral das Contribuições e Impostos, se decida manter valor excedente daquele limite, desde que calculado de acordo com os critérios definidos.
+7. A reavaliação só será considerada se se traduzir em aumento global do valor líquido dos bens reavaliados de, pelo menos, 10% e limitar-se-á, em princípio, quaisquer que sejam os critérios adoptados, ao valor global resultante da aplicação do critério da actualização monetária referido no n.º 3, a menos que, mediante parecer fundamentado da Direcção-Geral das Contribuições e Impostos, se decida manter valor excedente daquele limite, desde que calculado de acordo com os critérios definidos.
 
-O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira.
+> Alterado pelo/a [Decreto-Lei n.º 66/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1979-382999), publicado em 1979-03-30.

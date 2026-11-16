@@ -9,11 +9,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "A Portaria n.º 244/86 (n.º 2.º) extingue a Comissão Permanente de Estudos do Espaço Exterior, mas não revoga nem altera expressamente o texto da Portaria n.º 29/70; o n.º 2.º da Portaria n.º 307/71 (substituto de cada membro) é norma autónoma, sem alteração textual do original.",
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 307/71), 1.º: acrescenta seis membros (alíneas i) a n)) sem instrução expressa de aditamento ao n.º 2.º do original; de qualquer modo o n.º 2.º foi depois substituído por inteiro pelo alterador 2, pelo que não há texto a aplicar. Alterador 1, 2.º (cada membro terá um substituto nas suas faltas ou impedimentos): disposição autónoma, sem instrução de redacção nem lugar indicado no original; não aplicada. Alterador 3 (Portaria n.º 244/86), 2.º: extingue a Comissão Permanente de Estudos do Espaço Exterior, sem revogação expressa do texto da Portaria n.º 29/70; não textual, não aplicada.",
   "instrucoes": [
-    "Alterador 1 (Portaria 307/71), n.º 1.º: acrescenta seis membros i) a n) à composição do n.º 2.º; ficou absorvido pela nova redação integral do n.º 2.º dada pelo alterador 2, por isso não se insere separadamente. N.º 2.º (substitutos): norma autónoma, não textual.",
-    "Alterador 2 (Portaria 292/83): nova redação dos n.os 2.º e 3.º; substituídas as unidades 14 a 26 pelo texto novo (o antigo 2.º, incluindo as alíneas a) a h) e os parágrafos seguintes, e o 3.º).",
-    "Alterador 3 (Portaria 244/86), n.º 2.º: extingue a Comissão; não é revogação textual, não aplicado (nao_aplicavel)."
+    "Alterador 1 (Portaria n.º 307/71), 1.º: mais seis membros (i) a n)), sem instrução de aditamento ao texto e superado pela nova redacção do n.º 2.º dada pelo alterador 2; em nao_aplicavel.",
+    "Alterador 1 (Portaria n.º 307/71), 2.º: substitutos dos membros, disposição autónoma; em nao_aplicavel (reparo confirmado: não tem lugar no texto do original).",
+    "Alterador 2 (Portaria n.º 292/83): nova redacção dos n.os 2.º e 3.º; substituídas as unidades 14 a 26 (todo o n.º 2.º, incluindo o parágrafo sobre o presidente e vice-presidente da Junta, que não consta da nova redacção, e o n.º 3.º) pelo texto do alterador.",
+    "Alterador 3 (Portaria n.º 244/86), 1.º: cria comissões coordenadoras na JNICT, não dirigido ao texto do original; 2.º: extinção da Comissão, sem revogação expressa; em nao_aplicavel (reparo confirmado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

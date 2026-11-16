@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-04-29'
+version_history:
+  file: portaria-240-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-03-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-04-29'
+    amending: pt:dre:532798:por
+    amending_title: Decreto-Lei n.º 85/2005
+    changes:
+    - Revoga Artigo ANEXO::27.º
+    - Altera Artigo ANEXO II
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/240/1992/03/25/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:15:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 85/2005. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-240-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -448,7 +464,9 @@ Quando a combustão for efectuada em instalações com uma potência térmica ig
 
 ###### Artigo 27.º — Definição das características dos óleos usados
 
-As características a que devem obedecer os óleos usados ou as misturas destes com outros combustíveis para instalações de potência térmica inferior a 3 MW com base no poder calorífico inferior, «PCI», serão definidas por despacho conjunto dos directores-gerais de Energia e da Qualidade do Ambiente, não podendo a emissão de partículas ser superior a 300 mg/m3, medidas nas condições fixadas no anexo II.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 85/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2005-532798), publicado em 2005-04-28.
 
 #### SECÇÃO VII — Incineração
 
@@ -472,8 +490,6 @@ ANEXO I - MAPAS DE REGISTO DE MOVIMENTOS DE ÓLEOS USADOS
 
 ## ANEXO II
 
-Valores limite de emissão (ver nota 1) para determinadas substâncias emitidas na combustão de óleos usados em instalações com potência térmica igual ou superior a 3 MW (PCI).
+(Revogado.)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf)
-
-(nota 1) Estes valores limite indicam a concentração da massa das referidas matérias nas emissões de gases, em função do volume dos gases emitidos em condições normais (273 k, 1013 hPa) após a dedução do teor de humidade no vapor de água e em função de um volume de oxigénio, contido nas emissões de gases, de 3%.
+> Alterado pelo/a [Decreto-Lei n.º 85/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2005-532798), publicado em 2005-04-28.

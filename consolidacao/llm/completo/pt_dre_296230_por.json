@@ -15,15 +15,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 3 (Decreto-Lei n.º 417/99), artigo 5.º: revoga as disposições do Decreto-Lei n.º 46377 'em contrário ao disposto no presente diploma' — revogação condicional, não se aplica ao texto. Reparo do verificador sobre o n.º 3 do artigo 1.º não aceite: o Alterador 1 (Decreto-Lei n.º 47429) deu nova redação ao n.º 3, e o '3. ...' do Alterador 2 mantém o texto em vigor nessa altura, que é o do Alterador 1; o texto original proposto pelo verificador já não está em vigor.",
   "instrucoes": [
-    "DL 47429: nova redação do n.º 3 do art. 1.º aplicada",
-    "DL 239/71 art. 3.º n.º 1: nova redação do corpo do n.º 1 e da alínea d) do art. 1.º, aditado o n.º 4; a)-c), 2 e 3 mantidos",
-    "DL 239/71 art. 3.º n.º 2: aditada a alínea d) ao n.º 1 do art. 5.º",
-    "DL 239/71 restantes artigos: alteram outros diplomas ou são autónomos; ignorados",
-    "DL 417/99 art. 5.º: revogação condicional (disposições em contrário); não aplicada ao texto"
+    "Alterador 1 (DL 47429), artigo único: nova redação do n.º 3 do artigo 1.º — aplicada, copiada letra a letra do alterador.",
+    "Alterador 2 (DL 239/71), art. 3.º, n.º 1: nova redação do artigo 1.º (corpo do n.º 1 e alínea d) novos; a), b), c), n.º 2 e n.º 3 com '...' mantêm o texto vigente, sendo o n.º 3 o do Alterador 1; n.º 4 aditado) — aplicada.",
+    "Alterador 2 (DL 239/71), art. 3.º, n.º 2: nova redação do n.º 1 do artigo 5.º (a), b), c) com '...' mantidas; alínea d) aditada) — aplicada; n.os 2 e 3 do artigo 5.º inalterados.",
+    "Alterador 2, arts. 1.º, 2.º, 4.º e 8.º: alteram outros diplomas (DL 42135, DL 42632, DL 42134, Decreto 32615) — ignorados.",
+    "Alterador 3 (DL 417/99), art. 5.º: revogação das disposições em contrário — condicional, em nao_aplicavel.",
+    "Reparo do verificador (n.º 3 do art. 1.º igual ao original): rejeitado, porque o Alterador 1 substituiu o n.º 3 e o Alterador 2 o mantém com '...'."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

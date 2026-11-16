@@ -9,10 +9,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 971/2003): anexa prédios rústicos à zona de caça (área total de 2898,4750 ha, planta em imagem) sem dar nova redação a qualquer número da Portaria n.º 1075/2002; alteração não textual.",
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 971/2003): anexação de prédios rústicos (145,4750 ha) com nova área total de 2898,4750 ha, por estatuição própria da portaria, sem nenhuma instrução de nova redação do n.º 1.º do original; a «área total de 2750 ha» do n.º 1.º fica como está.",
   "instrucoes": [
-    "Alterador 1: no n.º 1.º, 'com uma área de 2462,3250 ha' (Ponte de Sor) passa a 'com uma área de 241,7750 ha'; aplicado na unidade 7.",
-    "Alterador 2, 1.º a 4.º: anexação de prédios e regras de sinalização, sem alteração textual do original; registado em nao_aplicavel."
+    "Alterador 1 (Portaria n.º 23/2003): no n.º 1.º, onde se lê «e na freguesia de Montargil, município de Ponte de Sor, com uma área de 2462,3250 ha» passa a ler-se «... com uma área de 241,7750 ha»: substituída a unidade 7 com a frase trocada (reparo confirmado).",
+    "Alterador 2 (Portaria n.º 971/2003): anexação de prédios e nova área total sem instrução textual: em nao_aplicavel (reparo confirmado como não aplicável)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

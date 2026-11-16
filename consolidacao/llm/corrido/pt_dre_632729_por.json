@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1442/2007): a referência no preâmbulo à Associação de Caçadores e Pescadores Os Castelos, «e não ... Os Castelos de Mértola, como por lapso é mencionado», não é uma instrução de nova redação e o texto citado não existe no original (que diz «Associação de Caça e Pesca Os Castelos de Mértola»); a anexação de prédios (área total de 2205 ha) e as novas áreas de condicionamento são estatuição própria da portaria, sem instrução de alterar o texto do n.º 1.º. Alterador 3 (Portaria n.º 142/2009): renovação da concessão por novo período, com área total de 1475 ha, por estatuição própria, sem nenhuma instrução de nova redação do original.",
   "instrucoes": [
-    "Alterador 1 (Portaria 760/2006): no n.º 1.º, onde se lê «por um período de seis anos» passa a ler-se «por um período de seis anos, renováveis por dois períodos iguais»; substituída a unidade 7.",
-    "Alterador 2 (Portaria 1442/2007): anexação de prédios e áreas de condicionamento; o lapso no nome da associação vem só no preâmbulo; não há instrução textual dirigida ao original.",
-    "Alterador 3 (Portaria 142/2009): renovação da concessão; não altera o texto."
+    "Alterador 1 (Portaria n.º 760/2006): no n.º 1.º, onde se lê «por um período de seis anos» passa a ler-se «por um período de seis anos, renováveis por dois períodos iguais»: substituída a unidade 7 com a frase trocada.",
+    "Alterador 2 (Portaria n.º 1442/2007): retificação do nome da concessionária só no preâmbulo do alterador e anexação de prédios sem instrução textual: não aplicado, em nao_aplicavel (reparo confirmado como não aplicável).",
+    "Alterador 3 (Portaria n.º 142/2009): renovação da concessão por nova portaria, sem instrução de nova redação: não aplicado, em nao_aplicavel (reparo confirmado como não aplicável)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

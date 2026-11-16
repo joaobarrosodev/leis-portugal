@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:542458:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — REGULAMENTO ORGÂNICO DA COMISSÃO DE ACESSO AOS DOCUMENTOS ADMINISTRATIVOS::3.º",
+      "epigrafe": "Pessoal",
+      "texto": "1 - Os serviços de apoio dispõem de pessoal integrado por técnicos superiores juristas, assistentes técnicos e assistentes operacionais.\n\n2 - Para o desempenho de funções nos serviços de apoio da CADA no âmbito dos mecanismos de mobilidade, e sempre que se opere por iniciativa do trabalhador, é dispensado o acordo do serviço de origem.\n\n3 - As funções de assistente técnico e de assistente operacional podem ser desempenhadas, em mobilidade, anual, sucessivamente renovável, respetivamente, por oficial de justiça e por elemento de força de segurança.\n\n4 - Aos técnicos superiores juristas a que se refere o n.º 1 é aplicável, enquanto desempenharem funções na CADA, o disposto no artigo 26.º do Decreto-Lei n.º 545/99, de 14 de dezembro, alterado pelo Decreto-Lei n.º 181/2015, de 16 de setembro.\n\n5 - Os demais trabalhadores a que se refere o n.º 1, enquanto desempenharem funções na CADA, auferem a remuneração correspondente à posição remuneratória imediatamente seguinte da respetiva categoria ou carreira.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "A nota a seguir ao artigo 45.º da Lei n.º 26/2016 diz que esse artigo foi alterado pelo artigo 9.º da Lei n.º 68/2021, mas o texto dessa alteração não vem no pedido; nada se aplicou a partir dela.",
+  "instrucoes": [
+    "Lei n.º 26/2016, art. 45.º: nova redação do art. 3.º do Regulamento (epígrafe e n.os 1 a 3 mantidos, n.º 4 novo, antigo n.º 4 passa a n.º 5 com «Os demais trabalhadores»); o programa já a tinha aplicado bem, devolvido o art. 3.º com o texto atual, igual letra a letra ao alterador.",
+    "Reparo do verificador sobre o art. 3.º: confirmado que os n.os 4 e 5 coincidem letra a letra com o art. 45.º; a alteração da Lei n.º 68/2021 não está no pedido e não se infere."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

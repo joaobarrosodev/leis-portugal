@@ -181,7 +181,7 @@ f) Equipamentos e sistemas informáticos exclusivamente destinados ao apoio admi
 
 g) De funcionamento ou materiais consumíveis;
 
-h) (Revogada.)
+h) (Revogado.)
 
 i) Encargos financeiros, à excepção dos previstos na alínea x) do n.º 1 do artigo 6.º, bancários e administrativos, transferência de propriedade de uma empresa, constituição de fundo de maneio, pagamento de impostos, taxas e multas, despesas notariais, jurídicas, judiciais ou contabilísticas;
 
@@ -345,23 +345,27 @@ Podem ser admitidas alterações técnicas, desde que se mantenha a conceção e
 
 Os encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projecto «Medidas de interesse geral» do PIDDAC - Programa de Investimentos e Despesas de Desenvolvimento da Administração Central, inscrito no IFAP.
 
-## ANEXO I — (a que se refere o artigo 3.º)
+## ANEXO I — Critério para avaliação de situação financeira pré-projeto
 
-1 - Para efeitos do disposto no artigo 3.º e sem prejuízo do disposto no n.º 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré e pós-projecto seja igual ou superior a 20 %. A autonomia financeira pré-projecto tem por base o último exercício encerrado à data da apresentação das candidaturas.
+[a que se refere o artigo 3.º]
 
-2 - A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:
+1) Para efeitos do disposto no artigo 3.º e sem prejuízo do disposto no n.º 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré-projeto seja igual ou superior a 15 %. A autonomia financeira pré-projeto tem por base o último exercício encerrado à data de apresentação das candidaturas.
 
-Autonomia financeira = CP/AL x100
+2) A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:
+
+Autonomia financeira = (CP / AL) x 100
 
 em que:
 
-CP - capitais próprios da empresa, incluindo os suprimentos e ou empréstimos de sócios ou accionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato, no caso da autonomia financeira pré-projecto, ou antes do último pagamento dos apoios, no caso da autonomia financeira pós-projecto;
+CP - capitais próprios da empresa, incluindo os suprimentos e ou empréstimos de sócios ou acionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato;
 
-AL - activo líquido da empresa.
+AL - ativo líquido da empresa.
 
 3 - Relativamente aos promotores que, à data de apresentação das candidaturas, não tenham desenvolvido qualquer actividade, ou não tenha ainda decorrido o prazo legal de apresentação do balanço e contas, bem como aos empresários em nome individual sem contabilidade organizada, considera-se que possuem uma situação financeira equilibrada se suportarem com capitais próprios pelo menos 20 % do custo total do investimento.
 
-4 - Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, mas sempre referida a uma data anterior à da apresentação da candidatura, devendo para o efeito apresentar os respectivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.
+4) Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, mas sempre referida a uma data anterior à da apresentação da candidatura, devendo para o efeito apresentar os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas, nos termos previstos no n.º 3 do artigo 4.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, na redação dada pelo [Decreto-Lei n.º 37/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2010-613243), de 20 de abril.
+
+> Alterado pelo/a [Portaria n.º 316/2013](https://diariodarepublica.pt/dr/detalhe/portaria/316-2013-502864), publicado em 2013-10-22.
 
 ## ANEXO II — Metodologia para o cálculo da pontuação final (PF)
 

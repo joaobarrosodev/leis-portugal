@@ -214,8 +214,12 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO N.º 1 — Matriz dos cursos gerais
 
-[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/015a00/02650272.pdf)](https://files.diariodarepublica.pt/1s/2001/01/015a00/02650272.pdf)
+(Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), publicado em 2004-03-26.
 
 ## ANEXO N.º 2 — Matriz dos cursos tecnológicos
 
-[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/015a00/02650272.pdf)](https://files.diariodarepublica.pt/1s/2001/01/015a00/02650272.pdf)
+(Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), publicado em 2004-03-26.

@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:445757:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "1. A realização de trabalhos de investigação a efectuar por entidades nacionais ou estrangeiras na plataforma continental metropolitana depende de autorização do Ministério da Marinha, ouvida a Comissão Interministerial para o Estudo da Utilização Pacífica do Fundo do Mar, adiante designada simplesmente por Comissão, podendo ser impostas, nas autorizações, as condições julgadas adequadas em cada caso, nomeadamente a entrega das informações e dos registos obtidos e das respectivas interpretações.\n\n2. A Comissão não poderá deliberar nos termos do número anterior sem a presença e o voto da representação da Secretaria de Estado da Indústria, sempre que o pedido de autorização envolva interesse geológico ou mineiro.\n\n3. A realização de trabalhos de investigação de natureza puramente científica relativa às características físicas ou biológicas da plataforma continental metropolitana será, em regra, autorizada, quando requerida por instituições qualificadas, sob condição de os resultados serem publicados e de o Estado, se assim o desejar, participar ou fazer-se representar nesses trabalhos.\n\n4. Os pedidos de autorização devem ser apresentados, em regra, com a antecedência de noventa dias sobre a data prevista para o início dos trabalhos, no Ministério da Marinha, quando se tratar de entidades nacionais e no Ministério dos Negócios Estrangeiros, quando se tratar de entidades estrangeiras ou internacionais.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Reparo ao art. 1.º confirmado: o DL 364/86 (alterador 1), art. 1.º, extingue a Comissão e revoga só o artigo 15.º do Decreto n.º 97/71; nenhuma instrução revoga o art. 1.º. O programa revogou-o mal: repõe-se o texto original do art. 1.º (n.os 1 a 4).",
+    "DL 364/86, art. 1.º: revogação do art. 15.º — já aplicada no texto atual ((Revogado.)), sem mudança.",
+    "DL 364/86, art. 2.º: entrada em vigor do próprio decreto-lei, não altera o original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

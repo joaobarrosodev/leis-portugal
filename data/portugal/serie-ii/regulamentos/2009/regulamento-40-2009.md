@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-10-30'
+version_history:
+  file: regulamento-40-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-01-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-30'
+    amending: pt:dre:3282938:por
+    amending_title: Regulamento n.º 821/2010
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:16:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Regulamento n.º 821/2010. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos/2009/regulamento-40-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,7 +198,7 @@ g) «Transportadora aérea», empresa detentora de licença de exploração nos 
 
 2 - O requerimento previsto no número anterior deve ser instruído com informação sobre:
 
-a) Passageiros/carga transportados fora do território nacional, nos 12 meses anteriores, discriminando-os por origem/destino;
+a) Passageiros/carga transportados fora do território nacional e de fora para dentro do território nacional e do território nacional para fora do mesmo, nos 12 meses anteriores, discriminando-os por origem/destino;
 
 b) Volume de negócios referente a transporte aéreo internacional no exercício económico anterior.
 
@@ -190,6 +207,10 @@ b) Volume de negócios referente a transporte aéreo internacional no exercício
 4 - Sempre que o INAC, I. P., solicitar esclarecimentos adicionais sobre a informação prestada, é interrompido o prazo previsto no número anterior.
 
 5 - O INAC, I. P., reserva-se o direito de solicitar comprovativos da informação prestada à empresa requerente ou a qualquer outra entidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29.
+
+> Alterado pelo/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29.
 
 ###### Artigo 4.º — Emissão da declaração para transportadoras aéreas em início de actividade
 
@@ -217,7 +238,9 @@ b) No caso de uma transportadora aérea que se dedique simultaneamente a outras 
 
 1 - Nos termos do presente regulamento, para efeitos de caracterização de tráfego, são considerados os passageiros/carga transportados ou o volume de negócios associado a contratos de wet lease entre operadores.
 
-2 - Sempre que a requerente exerça a sua actividade de transporte aéreo internacional com recurso a contratos de wet lease com outras transportadoras, deve a mesma, juntamente com o requerimento, indicar o número de passageiros/carga transportados e o volume de negócios associado a esses contratos de wet lease.
+2 - Sempre que a requerente exerça, como locadora, a sua actividade de transporte aéreo internacional com recurso a contratos de wet lease com outras transportadoras, deve a mesma, juntamente com o requerimento, indicar o número de passageiros/carga transportados e o volume de negócios associado a esses contratos de wet lease.
+
+> Alterado pelo/a Artigo 2.º do/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29.
 
 ###### Artigo 8.º — Disposições transitórias
 

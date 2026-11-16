@@ -3,7 +3,8 @@ id: pt:dre:510178:por
 title: Decreto Regulamentar Regional n.º 13/95/M
 original: data/regional/madeira/decretos-regulamentares-regionais/1995/decreto-regulamentar-regional-13-95-m.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:247446:por
@@ -55,9 +56,15 @@ Compete à Secretaria Regional das Finanças, no âmbito da sua acção de liqui
 
 ###### Artigo 5.º — Requisição de fundos
 
-(Revogado.)
+1 - Os serviços e fundos autónomos e os serviços com autonomia administrativa, na parte em que elaboram orçamentos privativos para aplicação de receitas próprias, deverão fornecer à Direcção Regional de Orçamento e Contabilidade todos os elementos que por esta lhes forem solicitados para o acompanhamento da respectiva execução orçamental.
 
-> Revogado pelo/a Artigo 20.º do/a [Decreto Regulamentar Regional n.º 3/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2008-247446), publicado em 2008-02-27.
+2 - Os serviços dotados de autonomia administrativa e de autonomia administrativa e financeira apenas poderão requisitar mensalmente as importâncias que, embora dentro dos respectivos duodécimos, forem estritamente indispensáveis à realização das despesas correspondentes às suas necessidades mensais.
+
+3 - As requisições de fundos enviadas à Direcção Regional de Orçamento e Contabilidade - Direcção de Serviços de Contabilidade - para autorização de pagamento serão acompanhadas de projectos de aplicação, onde, por cada rubrica, se pormenorizem os encargos previstos no respectivo mês e o saldo por aplicar das importâncias anteriormente levantadas.
+
+4 - Poderão ser autorizados a liquidação e pagamento das despesas com as transferências para os serviços com autonomia administrativa e autonomia administrativa e financeira cujas requisições estejam em conformidade com os números anteriores deste artigo, independentemente de quaisquer formalidades.
+
+5 - O disposto no número anterior aplica-se com as necessárias adaptações a outros documentos de levantamentos de fundos dos cofres da Região.
 
 ###### Artigo 6.º — Serviços e fundos autónomos
 
@@ -91,9 +98,7 @@ As importâncias inscritas no capítulo 20 das receitas e consignadas a favor de
 
 ###### Artigo 10.º — Património da Região Autónoma da Madeira
 
-(Revogado.)
-
-> Revogado pelo/a Artigo 20.º do/a [Decreto Regulamentar Regional n.º 3/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2008-247446), publicado em 2008-02-27.
+O n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 5/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1982-392466), de 18 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 5.º — Consulta e parecer
 

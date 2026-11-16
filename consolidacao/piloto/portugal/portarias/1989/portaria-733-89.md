@@ -7,12 +7,12 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:556415:por
-    title: Portaria n.º 811/90
-    publication_date: '1990-09-10'
   - id: pt:dre:350547:por
     title: Portaria n.º 895-A/91
     publication_date: '1991-08-30'
+  - id: pt:dre:556415:por
+    title: Portaria n.º 811/90
+    publication_date: '1990-09-10'
 ---
 
 # Portaria n.º 733/89
@@ -65,7 +65,7 @@ e) Atletas de alta competição constantes do registo organizado ao abrigo da al
 
 f) Naturais e filhos de naturais de territórios sob administração portuguesa, mas temporariamente ocupados por forças armadas e Estados estrangeiros.
 
-> Alterado pelo/a [Portaria n.º 811/90](https://diariodarepublica.pt/dr/detalhe/portaria/811-1990-556415), publicado em 1990-09-10.
+> Alterado pelo/a [Portaria n.º 895-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/895-a-1991-350547), publicado em 1991-08-30.
 
 ###### Artigo 3.º — Incompatibilidades
 

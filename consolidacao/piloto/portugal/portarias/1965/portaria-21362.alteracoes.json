@@ -82,5 +82,33 @@
     "unidade": [],
     "diploma": "pt:dre:295653:por",
     "alterador": "pt:dre:310621:por;pt:dre:412019:por"
+  },
+  {
+    "artigo": "unidades 56-56",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "19.º As infracções do disposto nos n.os 1.º, 3.º e 9.º e seus parágrafos e § único do n.º 11.º constituem contravenções puníveis com a multa de 500$00 a 5000$00.",
+    "depois": "19.º As infracções do disposto nos n.os 1.º, 3.º e 9.º e seus parágrafos e § único do n.º 11.º constituem contravenções puníveis com a multa de 1000$00 a 10000$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:295653:por",
+    "alterador": "pt:dre:310621:por;pt:dre:412019:por"
+  },
+  {
+    "artigo": "unidades 57-57",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "20.º As infracções do disposto nos n.os 16.º e 17.º constituem contravenções puníveis com a multa de 200$00 a 500$00.",
+    "depois": "20.º As infracções do disposto nos n.os 16.º e 17.º constituem contravenções puníveis com a multa de 1000$00 a 10000$00.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:295653:por",
+    "alterador": "pt:dre:310621:por;pt:dre:412019:por"
   }
 ]

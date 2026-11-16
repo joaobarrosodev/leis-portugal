@@ -284,13 +284,13 @@
       "alterador": 2
     },
     {
-      "chave": "62.º",
+      "chave": "61.º",
       "epigrafe": "Acessos e estrados",
       "texto": "1 - Os sistemas de acesso pedonal a empregar (passadeiras e áreas de esplanada) devem ser em ripado de madeira tratada, com juntas não inferiores a 0,01 m, de forma a não impermeabilizar a área afecta, podendo o sistema estrutural a empregar ser em madeira ou ferro metalizado.\n\n2 - Deve ser contemplada a garantia de acesso a pessoas com mobilidade condicionada.\n\n3 - Os estrados ou esplanadas afectos a construções ligeiras serão implantados em condições semelhantes a estas, nomeadamente sobre estacaria adequada, com afastamento mínimo de 0,5 m em relação ao nível do solo.",
       "alterador": 2
     },
     {
-      "chave": "62.º#2",
+      "chave": "62.º",
       "epigrafe": "Vedações e protecções contra ventos dominantes",
       "texto": "1 - São admissíveis vedações e protecções amovíveis contra ventos, desde que previamente autorizados pela CCDR ou pelo ICNB, I. P., e pela câmara municipal.\n\n2 - A delimitação dos espaços exteriores afectos a construções fixas e ligeiras será admissível, preferencialmente em material vegetal ou natural adequado ou ainda pelos sistemas de protecção contra ventos dominantes.",
       "alterador": 2
@@ -375,22 +375,48 @@
     }
   ],
   "removidos": [],
-  "titulos": [],
-  "nao_aplicavel": "Alterador 1 (RCM 62/2004): determina a elaboração da alteração do POOC, suspende temporariamente (pelo prazo das medidas preventivas) a alínea f) do n.º 2 do artigo 11.º (em certas situações), o n.º 5 do artigo 54.º, o artigo 55.º, o quadro n.º 4 do anexo II e as áreas dos quadros n.os 1 a 3 do anexo II, e fixa medidas preventivas: suspensão temporária e medidas preventivas não são alterações textuais, não aplicadas. Alterador 3 (RCM 168-B/2008): suspende por dois anos, renovável, a alínea j) do n.º 1 do artigo 22.º na área da planta anexa: suspensão não textual, não aplicada. Alteradores 4 (RCM 175/2008) e 5 (RCM 111/2021): o pedido não traz nenhum texto deles dirigido ao original; nada aplicado. Alterador 2 (RCM 154/2007): (i) cria um novo 'CAPÍTULO IX — Planos de praia' antes do artigo 76.º e mantém 'CAPÍTULO IX — Disposições finais e transitórias' (numeração repetida no alterador) antes do 77.º; não há título no texto atual para o novo capítulo, por isso não foi inserido; o título atual 'CAPÍTULO IX — Disposições finais e transitórias' fica antes do 76.º. (ii) os anexos (novo anexo I, quadro de equipamentos em APC; anexo II = antigo anexo I, quadros 1 a 15; anexo III = quadros 1 a 3 e 7 novos e antigos quadros 4 a 6 do anexo II) só vêm em imagem/remissão para o documento original: não aplicados, ficando os títulos de anexo atuais. (iii) o alterador republica os antigos artigos 76.º a 79.º como 77.º a 80.º e acrescenta 76.º e 81.º novos, sem dispor sobre o antigo artigo 80.º («Revisão»), que deixa assim de ter texto próprio (a chave 80.º passa a «Direitos adquiridos»). (iv) os artigos 61.º e 62.º do alterador correspondem às chaves '62.º' (Acessos e estrados, numerado 62.º por erro no original) e '62.º#2' (Vedações).",
+  "titulos": [
+    {
+      "atual": "## ANEXO I — [(ver quadros n.os 1 a 15 no documento original)](https://files.diariodarepublica.pt/1s/1999/04/081b00/18671889.pdf)",
+      "novo": "## ANEXO II — QUADRO N.º 1",
+      "alterador": 2
+    },
+    {
+      "atual": "## ANEXO II — [(ver quadros n.os 1 a 7 no documento original)](https://files.diariodarepublica.pt/1s/1999/04/081b00/18671889.pdf)",
+      "novo": "## ANEXO III — QUADRO N.º 1",
+      "alterador": 2
+    }
+  ],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — [(ver quadros n.os 1 a 15 no documento original)](https://files.diariodarepublica.pt/1s/1999/04/081b00/18671889.pdf)",
+      "texto": "UOPG n.º 1 - Núcleo urbano da praia do Carreço (artigo 28.º)\n\n(Antigo anexo i, quadro n.º 1, «UOPG n.º 1».)\n\nQUADRO N.º 2\n\nUOPG n.º 2 - Zona piscatória da Pedra Alta (artigo 29.º)\n\n(Antigo anexo i, quadro n.º 2, «UOPG n.º 2».)\n\nQUADRO N.º 3\n\nUOPG n.º 3 - São Bartolomeu do Mar (artigo 30.º)\n\n(Antigo anexo i, quadro n.º 3, «UOPG n.º 3».)\n\nQUADRO N.º 4\n\nUOPG n.º 4 - Núcleo turístico de Ofir (artigo 31.º)\n\n(Antigo anexo i, quadro n.º 4, «UOPG n.º 4».)\n\nQUADRO N.º 5\n\nUOPG n.º 5 - Aguçadoura (artigo 32.º)\n\n(Antigo anexo i, quadro n.º 5, «UOPG n.º 5».)\n\nQUADRO N.º 6\n\nUOPG n.º 6 - Aglomerado piscatório de Quião (artigo 33.º)\n\n(Antigo anexo i, quadro n.º 6, «UOPG n.º 6».)\n\nQUADRO N.º 7\n\nUOPG n.º 7 - Faixa a poente da marginal de A Ver-o-Mar (artigo 34.º)\n\n(Antigo anexo i, quadro n.º 7, «UOPG n.º 7».)\n\nQUADRO N.º 8\n\nUOPG n.º 8 - Zona piscatória de Vila Chã (artigo 35.º)\n\n(Antigo anexo i, quadro n.º 8, «UOPG n.º 8».)\n\nQUADRO N.º 9\n\nUOPG n.º 9 - Zona piscatória de Angeiras (artigo 36.º)\n\n(Antigo anexo i, quadro n.º 9, «UOPG n.º 9».)\n\nQUADRO N.º 10\n\nUOPG n.º 10 - Faixa litoral Pampelide-Memória-Cabo do Mundo (artigo 37.º)\n\n(Antigo anexo i, quadro n.º 10, «UOPG n.º 10».)\n\nQUADRO N.º 11\n\nUOPG n.º 11 - Litoral de Salgueiros (artigo 38.º)\n\n(Antigo anexo i, quadro n.º 11, «UOPG n.º 11».)\n\nQUADRO N.º 12\n\nUOPG n.º 12 - Litoral de Madalena (artigo 39.º)\n\n(Antigo anexo i, quadro n.º 12, «UOPG n.º 12».)\n\nQUADRO N.º 13\n\nUOPG n.º 13 - Núcleo antigo da Aguda (artigo 40.º)\n\n(Antigo anexo i, quadro n.º 13, «UOPG n.º 13».)\n\nQUADRO N.º 14\n\nUOPG n.º 14 - Aglomerado a norte de Espinho (artigo 41.º)\n\n(Antigo anexo i, quadro n.º 14, «UOPG n.º 14».)\n\nQUADRO N.º 15\n\nUOPG n.º 15 - Aglomerado de Paramos (artigo 42.º)\n\n(Antigo anexo i, quadro n.º 15, «UOPG n.º 15».)",
+      "alterador": 2
+    },
+    {
+      "titulo": "## ANEXO II — [(ver quadros n.os 1 a 7 no documento original)](https://files.diariodarepublica.pt/1s/1999/04/081b00/18671889.pdf)",
+      "texto": "Características dos apoios de praia e equipamentos das praias do tipo i\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)\n\nQUADRO N.º 2\n\nCaracterísticas dos apoios de praia e equipamentos das praias do tipo ii\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)\n\nQUADRO N.º 3\n\nCaracterísticas dos apoios de praia e equipamentos das praias do tipo iii\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)\n\nQUADRO N.º 4\n\nQuantificação das instalações de apoio à praia\n\n(Antigo anexo ii, quadro n.º 4.)\n\nQUADRO N.º 5\n\nMaterial a utilizar na estrutura dos equipamentos e apoios de praia\n\n(Antigo anexo ii, quadro n.º 5.)\n\nQUADRO N.º 6\n\nMaterial a utilizar no revestimento dos equipamentos e apoios de praia\n\n(Antigo anexo ii, quadro n.º 6.)\n\nQUADRO N.º 7\n\nMaterial a utilizar na cobertura dos equipamentos e apoios de praia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19000/0703707057.pdf)",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 1 (RCM 62/2004): suspensão temporária de disposições (art. 11.º, n.º 1, f); art. 54.º, n.º 5; art. 55.º; quadros do anexo II) e medidas preventivas por prazo limitado - não é alteração textual, não aplicada. Alterador 3 (RCM 168-B/2008): suspensão da alínea j) do n.º 1 do artigo 22.º por dois anos numa área delimitada - não é alteração textual, não aplicada. Alteradores 4 (RCM 175/2008) e 5 (RCM 111/2021): o pedido não traz texto dirigido ao original. Alterador 2: o novo título «### CAPÍTULO IX — Planos de praia» (antes do novo artigo 76.º) não existe no texto atual e não pode ser criado em \"titulos\"; o título «CAPÍTULO IX — Disposições finais e transitórias» mantém-se igual. Alterador 2: o novo anexo I («QUADRO N.º 1 - Parâmetros para a área de equipamento em APC») só vem em imagem e não há no texto atual um título onde o pôr (os anexos atuais I e II passaram a II e III, conforme o alterador «Antigo anexo i» / «Antigo anexo ii»); não aplicado. Os quadros n.os 1, 2, 3 e 7 do novo anexo III também só vêm em imagem (copiou-se a ligação tal como vem). Alterador 2: com o novo artigo 76.º (Planos de praia), os artigos 77.º a 80.º passam a ter o conteúdo dado pelo alterador (antigos 76.º a 79.º, com nova redação nos 77.º e 78.º) e o 81.º é novo; o antigo artigo 80.º «Revisão» não é republicado nem o alterador diz o que lhe acontece - a chave 80.º ficou com «Direitos adquiridos», como o alterador escreve, e não se inventou outro destino para «Revisão».",
   "instrucoes": [
-    "Alterador 1 (RCM 62/2004): suspensões temporárias e medidas preventivas; não textuais, nada aplicado (ver nao_aplicavel).",
-    "Alterador 2 (RCM 154/2007), artigos 3.º, 5.º, 7.º, 11.º a 14.º, 16.º, 19.º, 20.º, 22.º a 42.º, 44.º a 50.º, 53.º a 60.º, 63.º, 66.º a 68.º, 72.º, 74.º, 75.º: nova redação aplicada, com '...'/'[...]' preenchidos com o texto atual e '[Anterior ...]' com a unidade antiga renumerada; epígrafes novas (11.º, 32.º a 42.º, 47.º a 50.º, 55.º, 56.º, 68.º, 46.º).",
-    "Alterador 2, artigo 4.º (definições): nova lista de 64 definições, com as remissões '[Anterior n.º X)]'; as antigas definições 16), 22), 27), 28) e 37) deixam de constar.",
-    "Alterador 2, artigo 10.º: redação republicada igual à atual; sem mudança.",
-    "Alterador 2, artigo 45.º: corpo passa a n.º 1 (alínea d) revogada, a), l), r) novas) e é aditado o n.º 2.",
-    "Alterador 2, artigo 61.º do alterador aplicado à chave '62.º' (Acessos e estrados) e artigo 62.º à chave '62.º#2' (Vedações).",
-    "Alterador 2, artigo 68.º: nota '(Antigo artigo 68.º, «Recolha mecânica de resíduos».)' tratada como indicação; nova epígrafe, n.º 3 novo e n.º 4 aditado.",
-    "Alterador 2, artigos 76.º a 81.º: 76.º novo (Âmbito e objectivos dos planos de praia); 77.º novo texto do licenciamento; 78.º = antigo 77.º com n.º 1 mantido e n.os 2 a 4 novos; 79.º e 80.º = antigos 78.º e 79.º; 81.º aditado; antigo 80.º «Revisão» desaparece sem instrução expressa.",
-    "Alterador 2: novo título 'CAPÍTULO IX — Planos de praia' e anexos em imagem não aplicados (ver nao_aplicavel).",
-    "Alterador 3 (RCM 168-B/2008): suspensão da alínea j) do n.º 1 do artigo 22.º; não textual, nada aplicado.",
-    "Alteradores 4 e 5: sem texto dirigido ao original no pedido; nada aplicado."
+    "Alterador 2 (RCM 154/2007), Regulamento alterado publicado por artigos com \"...\" para o que não muda: aplicados os artigos 3.º, 4.º, 5.º, 7.º, 11.º a 14.º, 16.º, 19.º, 20.º, 22.º a 42.º, 44.º a 50.º, 53.º a 63.º, 66.º a 68.º, 72.º, 74.º, 75.º; \"...\" e \"[...]\" preenchidos com o texto atual; \"[Anterior ...]\" / \"(Anterior n.º ...)\" com a unidade atual renumerada.",
+    "Art. 4.º: nova lista de 64 definições, com renumerações [Anterior n.º X)]; as antigas 16), 22), 27), 28), 37) desaparecem por não serem retomadas.",
+    "Art. 10.º: o n.º 1 republicado é igual ao atual letra a letra; o artigo não muda e não foi devolvido (reparo do verificador verificado).",
+    "Art. 41.º: n.º 3 com «O plano referido no n.º 1 terá em conta ... do anexo ii» como no alterador (reparo do verificador confirmado).",
+    "Arts. 61.º e 62.º: o texto atual tem 61.º «Acessos e estrados» e 62.º «Vedações...», como o alterador; devolvidos com essas chaves (o reparo sobre a numeração confirma-se: Acessos e estrados é o 61.º).",
+    "Arts. 32.º a 42.º: epígrafes com a nova numeração das UOPG dada pelo alterador; n.º 3 remete para o anexo ii.",
+    "Art. 45.º: passa a ter n.º 1 (alínea d) revogada, a), l) e r) novas) e n.º 2 novo.",
+    "Art. 68.º: nova epígrafe «Recolha de resíduos»; a nota «(Antigo artigo 68.º, «Recolha mecânica de resíduos».)» não entra no corpo; n.os 3 e 4 novos.",
+    "Arts. 72.º e 74.º: substituídas as espécies indicadas nas posições dos \"[...]\", restantes do texto atual.",
+    "Art. 76.º novo (Planos de praia); 77.º (Licenciamento) e 78.º (Conteúdo dos projectos, n.º 1 vindo do antigo 77.º, n.º 1) com nova redação; 79.º (Responsabilidade) e 80.º (Direitos adquiridos) renumerados; 81.º novo (Situações excepcionais e transitórias).",
+    "Anexos: antigo anexo I (quadros UOPG) passa a anexo II e antigo anexo II (quadros dos apoios) passa a anexo III, com títulos e corpo copiados do alterador; novo anexo I em nao_aplicavel.",
+    "Alterador 1 (RCM 62/2004) e alterador 3 (RCM 168-B/2008): suspensões e medidas preventivas, não aplicadas ao texto (nao_aplicavel).",
+    "Alteradores 4 e 5: sem texto no pedido."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

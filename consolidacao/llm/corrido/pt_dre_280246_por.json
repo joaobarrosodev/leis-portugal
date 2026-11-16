@@ -9,10 +9,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "A prorrogação por 5 anos do prazo de execução das obras do artigo 6.º do caderno de encargos (Decreto do Governo n.º 36/84) não altera o texto do artigo; não aplicada.",
+  "nao_aplicavel": "Decreto do Governo n.º 36/84, artigo único: prorroga por 5 anos o prazo do artigo 6.º do caderno de encargos (conclusão até 22 de Dezembro de 1989), sem dar nova redação ao artigo 6.º; não aplicado.",
   "instrucoes": [
-    "Alterador 1: nova redação do artigo 7.º do caderno de encargos (epígrafe igual); unidade 34 substituída.",
-    "Alterador 2: prorrogação do prazo do artigo 6.º até 22 de Dezembro de 1989; não textual, nada aplicado."
+    "Decreto 44/78, artigo único: nova redação do artigo 7.º do caderno de encargos — unidade 34 (corpo) substituída; epígrafe (unidade 33) igual.",
+    "Decreto do Governo 36/84, artigo único: prorrogação do prazo do artigo 6.º sem redação textual — nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

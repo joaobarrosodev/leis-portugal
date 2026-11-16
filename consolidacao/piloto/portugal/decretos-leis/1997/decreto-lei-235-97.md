@@ -82,9 +82,9 @@ l) «Zonas vulneráveis»: áreas que drenam para as águas identificadas nos te
 
 a) A realização de um programa de controlo de concentração de nitratos nas águas doces durante um ano:
 
-i) Nas estações de colheita de amostras de águas superficiais referidas no n.º 4 do artigo 5.º da Directiva n.º 75/440/CEE ou noutras estações de colheita de amostras representativas das águas superficiais, pelo menos, mensalmente e mais frequentemente durante os períodos de cheias;
+i) Nas estações de colheita de amostras de águas superficiais referidas no n.º 4 do artigo 5.º da Directiva n.º [75/440/CEE](https://data.europa.eu/eli/dir/1975/440/oj?locale=pt) ou noutras estações de colheita de amostras representativas das águas superficiais, pelo menos, mensalmente e mais frequentemente durante os períodos de cheias;
 
-ii) Nas estações de colheita de amostras representativas dos lençóis freáticos, em intervalos regulares, tendo em conta o disposto na Directiva n.º 80/778/CEE;
+ii) Nas estações de colheita de amostras representativas dos lençóis freáticos, em intervalos regulares, tendo em conta o disposto na Directiva n.º [80/778/CEE](https://data.europa.eu/eli/dir/1980/778/oj?locale=pt);
 
 b) O programa de controlo referido na alínea a) deverá ser repetido pelo menos de quatro em quatro anos, excepto no que se refere às estações de amostragem em que a concentração de nitratos em todas as amostras anteriores tenha sido inferior a 25 mg/l e em que não tenha sido registado qualquer novo factor susceptível de aumentar o teor dos nitratos; nesses casos, o programa de controlo só necessita de ser aplicado de oito em oito anos;
 
@@ -97,6 +97,8 @@ c) A avaliação do estado de eutrofização das águas doces superficiais, dos 
 4 - Os resultados analíticos obtidos através do cumprimento do disposto no número anterior serão enviados ao INAG, que os deverá manter em registos adequados à sua permanente actualização e fácil disponibilização.
 
 > Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 68/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1999-158047), publicado em 1999-03-11.
+
+> Alterado pelo/a [Decreto-Lei n.º 68/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1999-158047), publicado em 1999-03-11.
 
 ###### Artigo 6.º — Código de Boas Práticas Agrícolas
 
@@ -184,13 +186,13 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Critérios de identificação das águas poluídas por nitratos
 
-1 - As águas poluídas e as águas em risco de serem poluídas por nitratos de origem agrícola devem ser identificadas mediante a aplicação, entre outros, dos seguintes critérios:
+1 - Na identificação das águas referidas no n.º 1 do artigo 4.º serão aplicados, entre outros, os seguintes critérios:
 
-a) Águas doces superficiais utilizadas ou destinadas à produção de água para consumo humano que contenham ou apresentem risco de vir a conter uma concentração de nitratos superior a 50 mg/l, se não forem tomadas as medidas previstas no artigo 7.º;
+a) Águas doces superficiais, nomeadamente as utilizadas ou destinadas à produção de água para consumo humano que contenham ou possam vir a conter uma concentração de nitratos superior à definida de acordo com disposto na Directiva n.º [75/440/CEE](https://data.europa.eu/eli/dir/1975/440/oj?locale=pt), caso não sejam empreendidas acções nos termos do artigo 7.º;
 
 b) Águas subterrâneas que contenham ou apresentem risco de conter uma concentração de nitratos superior a 50 mg/l, se não forem tomadas as medidas previstas no artigo 7.º;
 
-c) Lagoas, outras massas de água doce, estuários e águas costeiras que se revelem eutróficos ou se possam tornar eutróficos a curto prazo, se não forem tomadas as medidas previstas no artigo 7.º
+c) Lagoas, outras massas de águas doces, estuários, águas costeiras e marinhas que se revelem eutróficos ou que se possam tornar eutróficos a curto prazo, se não forem tomadas as medidas previstas no artigo 7.º
 
 2 - Na aplicação destes critérios, deverá ainda atender-se:
 
@@ -201,6 +203,8 @@ b) Aos conhecimentos disponíveis quanto ao comportamento dos compostos de azoto
 c) Aos conhecimentos disponíveis acerca do impacte das acções empreendidas nos termos do artigo 7.º;
 
 d) À caracterização das actividades humanas nas áreas envolventes.
+
+> Alterado pelo/a [Decreto-Lei n.º 68/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1999-158047), publicado em 1999-03-11.
 
 ## ANEXO II
 
@@ -298,8 +302,14 @@ b) A localização das zonas vulneráveis designadas, estabelecendo a distinçã
 
 4 - Um resumo dos programas de acção elaborados nos termos do artigo 7.º e, em especial:
 
-a) As medidas exigidas pelas alíneas a) e b) do n.º 3 do artigo 7.º;
+a) As medidas exigidas pelas alíneas a) e b) do n.º 1 do artigo 7.º;
 
 b) Todas as medidas suplementares tomadas ao abrigo do n.º 6 do artigo 7.º;
 
 c) Um resumo dos resultados dos programas de controlo executados ao abrigo do n.º 5 do artigo 7.º
+
+d) As informações relativas à forma como está a ser aplicado o disposto no n.º 2 do anexo IV;
+
+e) As previsões quanto aos prazos em que se espera que as águas identificadas nos termos do n.º 1 do artigo 4.º correspondam às medidas previstas no programa de acção, juntamente com a indicação do grau de fiabilidade destas previsões.
+
+> Alterado pelo/a [Decreto-Lei n.º 68/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1999-158047), publicado em 1999-03-11.

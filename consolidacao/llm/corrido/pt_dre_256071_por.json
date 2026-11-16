@@ -21,11 +21,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2, n.º 1: a Comissão passa a designar-se Comissão Interministerial de Estudos Urbanos e Regionais - CEUR e a funcionar na dependência do Ministério do Plano e da Administração do Território — norma própria, sem nova redacção dos n.os 1, 3, 4 ou 5 do original; não aplicada ao texto.",
+  "nao_aplicavel": "Alterador 2 (Resolução do Conselho de Ministros n.º 60/86), n.º 1: a Comissão passa a ser designada por Comissão Interministerial de Estudos Urbanos e Regionais - CEUR, funcionando na dependência do Ministério do Plano e da Administração do Território; não é uma substituição textual de nenhum número do original (nem 'onde se lê' nem nova redacção dos n.os 1, 3, 4 ou 5), pelo que não se altera o texto.",
   "instrucoes": [
-    "Alterador 1: nova redacção da alínea i) do n.º 1 — acrescenta «Direcção-Geral do Equipamento Regional e Urbano;» e o Fundo de Fomento da Habitação passa a terminar em ponto: unidade 36 substituída.",
-    "Alterador 2, n.º 1: mudança de designação e de dependência da Comissão, sem alteração textual — não aplicada.",
-    "Alterador 2, n.º 2: nova redacção das alíneas a) e d) do n.º 2 (unidades 44 e 47 substituídas)."
+    "Alterador 1 (Resolução n.º 229/77): nova redacção da alínea i) do n.º 1; as três primeiras linhas (unidades 33 a 35) ficam iguais; a unidade 36 passa a 'Direcção-Geral do Equipamento Regional e Urbano;' e 'Fundo de Fomento da Habitação.', copiadas letra a letra do alterador.",
+    "Alterador 2 (RCM n.º 60/86), n.º 1: mudança de designação e de dependência sem redacção literal; em nao_aplicavel (reparo confirmado como não textual).",
+    "Alterador 2 (RCM n.º 60/86), n.º 2: nova redacção das alíneas a) e d) do n.º 2; substituídas as unidades 44 e 47 pelo texto do alterador, letra a letra."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -15,15 +15,13 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter um só guarda florestal auxiliar, mas sem nova redacção do texto — não aplicada. Alterador 1: substituição da planta anexa (só em imagem). Alterador 3 (suspensão) e alterador 4 (renovação e anexação) não são alterações textuais.",
+  "nao_aplicavel": "Alterador 1 (Portaria 463/95): a substituição da planta anexa só vem em imagem; não aplicada (a nova redacção do n.º 1.º que dá foi depois substituída pela do alterador 2). Alterador 2, 2.º: o n.º 6.º passa, quanto ao número de guardas, a obrigar a manter um guarda florestal auxiliar, mas sem nova redacção do n.º 6.º (alteração material, não textual); o 6.º fica como está. Alterador 3 (Portaria 986/2004): suspensão temporária da caça, revogada pelo alterador 4; não textual. Alterador 4 (Portaria 1109/2004): renovação por 12 anos e anexação de prédios (área total 2005 ha), sem nova redacção de nenhum número do original; não aplicado.",
   "instrucoes": [
-    "Alt. 1: nova redacção do n.º 1.º (2885,6030 ha) — substituída depois pela do alt. 2 na mesma unidade 6.",
-    "Alt. 1: substituição da planta — só em imagem, não aplicada.",
-    "Alt. 2, 1.º: nova redacção do n.º 1.º — substituída a unidade 6, mantendo o número 1.º.",
-    "Alt. 2, 1.º: aditado n.º 1.º-A — inserido depois da unidade 6.",
-    "Alt. 2, 2.º: n.º 6.º passa a um guarda — sem redacção textual, em nao_aplicavel.",
-    "Alt. 3: suspensão — não textual.",
-    "Alt. 4: renovação e anexação — não textual."
+    "Alterador 1 (Portaria 463/95): nova redacção do n.º 1.º (área 2885,6030 ha); superada pela do alterador 2 na mesma unidade 6; planta substituída só em imagem (nao_aplicavel).",
+    "Alterador 2, 1.º: nova redacção do n.º 1.º (área 1980,02 ha); substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 2, 1.º: aditado o n.º 1.º-A; inserido a seguir à unidade 6.",
+    "Alterador 2, 2.º: n.º 6.º passa a obrigar a um guarda, sem redacção expressa; nao_aplicavel (reparo do verificador confirmado no alterador, mas a instrução não dá texto novo).",
+    "Alteradores 3 e 4: suspensão (revogada), renovação e anexação sem nova redacção; nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

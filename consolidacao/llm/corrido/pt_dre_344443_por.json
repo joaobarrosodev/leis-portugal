@@ -9,11 +9,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1 (Portaria 147/97), 1.º, n.º 2: o quadro n.º 2 do anexo I passa a ter a redacção do quadro anexo, que só existe em imagem (o anexo I do original também só existe em imagem); não aplicado.",
+  "nao_aplicavel": "Portaria n.º 147/97 (alterador 1), n.º 1.º, n.º 2: novo quadro n.º 2 do anexo I - o quadro só vem em imagem (no original, os anexos estão na unidade 131, também imagem); não aplicado.",
   "instrucoes": [
-    "Alterador 1, 1.º n.º 1: nova redacção do n.º 1.º (Criação); epígrafe, corpo e frase final iguais, mudam a alínea a) (Ciclo), as três opções e a alínea b) (Ciclos): substituídas as unidades 14-18.",
-    "Alterador 1, 1.º n.º 2: substitui o quadro n.º 2 do anexo I por quadro em imagem; não aplicável.",
-    "Alterador 1, 2.º e 3.º: aplicação e transição, normas próprias; nada a mudar no original."
+    "Portaria 147/97 (1) n.º 1.º n.º 1: nova redacção do n.º 1.º - substituídas as unidades 14 a 18 (1.º Ciclo, novas opções, 2.º e 3.º Ciclos); epígrafe, corpo e frase final iguais.",
+    "Portaria 147/97 (1) n.º 1.º n.º 2: quadro n.º 2 do anexo I em imagem - nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

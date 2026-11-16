@@ -9,13 +9,13 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (exoneração da gestora nomeada no n.º 4 e nomeação de novo gestor), alterador 3 (extinção da estrutura de apoio do eixo n.º 3 do POEFDS e sucessão pelo GGPOAP) e alterador 4, n.º 1 (nova duração da estrutura de missão) não dão nova redação ao texto: não são alterações textuais. O alterador 1 (Decreto-Lei n.º 79/2005) não contém instrução dirigida ao original.",
+  "nao_aplicavel": "Resolução n.º 30/2005 (2.ª série), n.os 1 e 2: exonera a gestora nomeada no n.º 4 e nomeia novo gestor; é um ato de nomeação, não dá nova redação ao n.º 4, que fica como está. Resolução do Conselho de Ministros n.º 118/2006, n.º 1: fixa a duração do GGPOAP e da IOAP sem dar texto ao original. Decreto-Lei n.º 79/2005 (lei orgânica do Governo) e Resolução do Conselho de Ministros n.º 158/2005 (extinção da estrutura de apoio do eixo n.º 3 do POEFDS e sucessão pelo GGPOAP): nenhuma instrução de redação dirigida ao original.",
   "instrucoes": [
-    "Alterador 1: lei orgânica do Governo, sem instrução dirigida ao original — nada a fazer.",
-    "Alterador 2: exoneração e nomeação de gestor, sem alteração textual — não aplicado.",
-    "Alterador 3: extinção de estrutura do POEFDS, sem alteração textual — não aplicado.",
-    "Alterador 4, n.º 1: duração do GGPOAP e da estrutura de missão, sem alteração textual — não aplicado.",
-    "Alterador 4, n.º 2: revogados os n.os 14 e 15 — unidades 46 e 47 substituídas por «(Revogado.)»."
+    "DL 79/2005: lei orgânica do XVII Governo; nenhuma instrução textual ao original (o n.º 6 do artigo 13.º só reparte competências); nada aplicado.",
+    "Resolução 30/2005 (2.ª série): exoneração e nomeação do gestor; ato não textual, em nao_aplicavel.",
+    "RCM 158/2005: extinção de outra estrutura e sucessão pelo GGPOAP; sem instrução textual ao original; nada aplicado.",
+    "RCM 118/2006, n.º 1: duração do GGPOAP e da IOAP sem texto; em nao_aplicavel.",
+    "RCM 118/2006, n.º 2: revogados os n.os 14 e 15; unidades 46 e 47 passam a «14 - (Revogado.)» e «15 - (Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

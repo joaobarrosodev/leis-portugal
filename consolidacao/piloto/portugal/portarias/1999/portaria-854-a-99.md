@@ -65,7 +65,7 @@ c) A pessoa que demonstre exercer o poder paternal ou tutelar, no caso de o estu
 
 ###### Artigo 3.º-A — Cursos pós-secundários
 
-1 - Os pares estabelecimento/curso pós-secundários abrangidos pela alínea c) do n.º 1 do artigo 10.º do Decreto-Lei n.º 393-B/99, de 2 de Outubro, são os fixados no anexo a este Regulamento.
+1 - Os pares estabelecimento/curso pós-secundários abrangidos pela alínea c) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro, são os fixados no anexo a este Regulamento.
 
 2 - Os pares estabelecimento/curso de ensino superior a que os titulares dos cursos referidos no número anterior se podem candidatar, bem como as condições adicionais que devem satisfazer, são os fixados no anexo a este Regulamento.
 

@@ -3,7 +3,8 @@ id: pt:dre:249483:por
 title: Portaria n.º 376/2008
 original: data/portugal/portarias/2008/portaria-376-2008.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:494196:por
@@ -335,88 +336,158 @@ e) Não sanação, no prazo concedido para o efeito, das deficiências e ou inco
 
 1 - Programa funcional tipo - Paliativos
 
-Nota. - As instalações referidas de seguida são consideradas por unidade de 20 camas ou piso de internamento.
+(especificações mínimas)
 
-Na unidade de internamento de paliativos 100 % dos quartos são individuais.
+Nota. - As instalações referidas de seguida são consideradas por módulo de 20 camas, no máximo, ou por piso de internamento.
 
-Generalidades:
+Na unidade de internamento de cuidados paliativos 100% dos quartos são individuais.
 
-Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,20 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+Generalidades
+
+Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
 
 Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
 
-Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
 
 As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
 
-Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
+Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade condicionada. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
 
-As portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível, a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
+As portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)
+Instalações de gases medicinais:
+
+É obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições.
+
+Ascensores:
+
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.
+
+Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
 
 2 - Programa funcional tipo - Convalescença
 
-Nota. - As instalações referidas de seguida são consideradas por unidade de 20 a 30 camas ou piso de internamento.
+(especificações mínimas)
 
-Na unidade de internamento de convalescença, 75 % dos quartos são duplos e 25 % dos quartos são individuais.
+Nota. - As instalações referidas de seguida são consideradas por módulos de 20 a 30 camas, ou por piso de internamento.
 
-Generalidades:
+Nestas unidades de internamento, 25% dos quartos, no mínimo, são individuais.
 
-Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,20 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+Generalidades
 
-Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
+Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
 
-Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
 
-As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
-
-Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
-
-As portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)
-
-3 - Programa funcional tipo - Manutenção
-
-Nota. - As instalações referidas de seguida são consideradas por unidade de 20 a 30 camas ou piso de internamento.
-
-Na unidade de internamento de manutenção, 75 % dos quartos são duplos e 25 % dos quartos são individuais.
-
-Generalidades:
-
-Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 1,40 m úteis de largura, devendo ser previstas bolsas de alargamento com 2,20 m de largura útil para cruzamento de duas camas.
+Nos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,9 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,6 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,5 m de diâmetro entre a outra cama e a parede lateral.
 
 Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
 
-Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
 
 As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
 
-Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
+Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade condicionada. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
 
-As portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
+As portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)
+Deve ser sempre garantido um acesso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.
 
-4 - Programa funcional tipo - Reabilitação
+Instalações de gases medicinais:
 
-Nota. - As instalações referidas de seguida são consideradas por unidade de 20 a 30 camas ou piso de internamento.
+É obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições, bem como nas salas de ginásio/fisioterapia.
 
-Na unidade de internamento de reabilitação, 75 % dos quartos são duplos e 25 % dos quartos são individuais.
+Ascensores:
 
-Generalidades:
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.
 
-Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,20 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+
+3 - Programa funcional tipo - Reabilitação ou média duração
+
+(especificações mínimas)
+
+Nota. - As instalações referidas de seguida são consideradas por módulos de 20 a 30 camas, ou por piso de internamento.
+
+Nestas unidades de internamento, 25% dos quartos, no mínimo, são individuais.
+
+Generalidades
+
+Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
+
+Nos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,9 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,6 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,5 m de diâmetro entre a outra cama e a parede lateral.
 
 Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
 
-Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
 
 As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
 
-Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
+Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade reduzida. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
 
-As portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
+As portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)
+Deve ser sempre garantido um acesso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.
+
+Instalações de gases medicinais:
+
+É obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições, bem como nas salas de ginásio/fisioterapia.
+
+Ascensores:
+
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.
+
+Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+
+4 - Programa funcional tipo - Manutenção ou longa duração
+
+(especificações mínimas)
+
+Nota. - As instalações referidas de seguida são consideradas por módulos de 20 a 30 camas, ou por piso de internamento.
+
+Nestas unidades de internamento, 25% dos quartos, no mínimo, são individuais.
+
+Generalidades
+
+Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
+
+Nos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,9 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,6 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,5 m de diâmetro entre a outra cama e a parede lateral.
+
+Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
+
+Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+
+As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
+
+Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade reduzida. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
+
+As portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
+
+Deve ser sempre garantido um acesso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.
+
+Instalações de gases medicinais:
+
+É obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições, bem como nas salas de ginásio/fisioterapia.
+
+Ascensores:
+
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.
+
+Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+
+> Alterado pelo/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01.

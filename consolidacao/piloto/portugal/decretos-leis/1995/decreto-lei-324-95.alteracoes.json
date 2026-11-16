@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:627210:por",
     "alterador": "pt:dre:345124:por"
+  },
+  {
+    "artigo": "11.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 11.º — Contra-ordenações\n\n1 - Sem prejuízo de eventual responsabilidade criminal, constitui contra-ordenação a concepção, organização e funcionamento dos locais de trabalho das indústrias extractivas com desrespeito pelas prescrições mínimas de segurança e de saúde previstas nos artigos 3.º, 4.º, 6.º, 7.º e 9.º do presente diploma e nas normas técnicas aplicáveis, bem como pelas demais obrigações nelas previstas.\n\n2 - As contra-ordenações previstas no número anterior são puníveis com coima nos seguintes termos:\n\na) De 120000$00 a 350000$00, quando o número de trabalhadores for igual ou inferior a 20;\n\nb) De 180000$00 a 480000$00, quando o número de trabalhadores for de 21 a 50;\n\nc) De 480000$00 a 1200000$00, quando o número de trabalhadores for de 51 a 100;\n\nd) De 590000$00 a 1900000$00, quando o número de trabalhadores for superior a 100.\n\n3 - Os limites máximos das coimas referidos no número anterior são elevados para o dobro nos casos de:\n\na) Inexistência do plano de segurança e de saúde;\n\nb) Falta de previsão, no plano de segurança e de saúde, de medidas específicas para trabalhos que impliquem riscos graves;\n\nc) Violação dos deveres de informação, de segurança e de saúde;\n\nd) Inexistência de comunicação, ou comunicação fora do prazo, de acidentes graves ou mortais ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho.\n\n4 - Para efeito da aplicação das coimas previstas nos números anteriores, considera-se o número máximo de trabalhadores por conta de outrem e independentes presentes em simultâneo no local de trabalho.\n\n5 - A violação, por parte dos trabalhadores independentes, das obrigações previstas no artigo 5.º constitui contra-ordenação punível com coima de 50000$00 a 500000$00.\n\n6 - Quando a infracção seja cometida por pessoa singular, o montante da coima a aplicar nos termos dos números anteriores não poderá exceder 750000$00.",
+    "depois": "###### Artigo 11.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação dos n.os 1, 2, 3 e 5 do artigo 3.º, das alíneas c) e e) a h) do n.º 1 do artigo 4.º, das alíneas e) e f) do n.º 2 do artigo 4.º e do n.º 2 do artigo 9.º\n\n2 - Constitui contra-ordenação grave:\n\na) Imputável ao empregador, a violação dos n.os 7 a 9 do artigo 3.º, das alíneas a), b), d), i) e j) do n.º 1 do artigo 4.º, das alíneas a) a d), g) e h) do n.º 2 do artigo 4.º, da portaria referida no n.º 3 e do n.º 4 do artigo 4.º, dos n.os 1 e 2 do artigo 6.º, do artigo 7.º e do n.º 1 do artigo 9.º;\n\nb) Imputável ao trabalhador independente, a violação da alínea a) do artigo 5.º\n\n3 - As coimas aplicáveis ao trabalhador independente, nos termos da alínea b) do número anterior, são as correspondentes às infracções aos regimes jurídicos do serviço doméstico e do contrato individual de trabalho a bordo das embarcações de pesca.\n\n> Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), publicado em 1999-08-03.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:627210:por",
+    "alterador": "pt:dre:345124:por"
   }
 ]

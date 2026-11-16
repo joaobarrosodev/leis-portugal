@@ -43,10 +43,10 @@
   },
   {
     "artigo": "18.º",
-    "operacao": "revogar",
+    "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 18.º\n\n1. O parecer da comissão a que se refere o artigo anterior será directamente enviado, para decisão final, ao Presidente do Conselho ou ao Ministro competente, consoante o estudo ou sugestão interesse a mais do que um Ministério ou a um só.\n\n2. O sobrescrito apenas poderá ser aberto para identificação do autor do estudo ou sugestão, se tiver sido concedido qualquer dos prémios previstos no artigo 16.º\n\n3. A fixação da importância do prémio depende de aprovação do Ministro das Finanças.\n\nServiços sociais",
-    "depois": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.",
+    "depois": "###### Artigo 18.º\n\n(Revogado.)\n\nServiços sociais\n\n> Alterado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

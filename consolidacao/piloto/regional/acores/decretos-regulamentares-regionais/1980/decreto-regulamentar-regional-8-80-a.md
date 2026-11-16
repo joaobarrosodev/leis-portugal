@@ -232,7 +232,7 @@ d) Executar as tarefas administrativas respeitantes à gestão do pessoal do Ins
 
 e) Desempenhar, de maneira geral, todas e quaisquer funções de ordem administrativa que lhes sejam cometidas pela direcção.
 
-### CAPÍTULO IV — Do pessoal
+### CAPÍTULO IV — Pessoal
 
 ###### Artigo 21.º — Quadro de pessoal
 
@@ -258,7 +258,7 @@ As condições e regras de ingresso e acesso dos funcionários do IACAPS são, p
 
 > Alterado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 
-### CAPÍTULO V — Das receitas
+### CAPÍTULO V — Gestão financeira
 
 ###### Artigo 23.º — Pessoal dirigente e de direcção
 
@@ -345,6 +345,20 @@ As dúvidas que se suscitarem da aplicação do presente diploma serão resolvid
 2 - O fiel auxiliar de armazém, posicionado no escalão 8, índice 200, que vem desempenhando funções de fiel de armazém no núcleo da Praia da Vitória, ilha Terceira, há mais de seis anos transita para esta carreira, sendo posicionado no escalão 7, índice 210.
 
 3 - O escriturário-dactilógrafo, posicionado no escalão 4, índice 150, que possui o 9.º ano de escolaridade e que vem desempenhando funções de oficial administrativo na delegação de Ponta Delgada, ilha de São Miguel, há mais de seis anos transita para a categoria de terceiro-oficial, sendo posicionado no escalão 1, índice 180.
+
+Aprovado pelo Governo Regional em 10 de Janeiro de 1980.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 4 de Fevereiro de 1980.
+
+Publique-se.
+
+O Ministro da República, Henrique Afonso da Silva Horta.
+
+Quadro do pessoal do Instituto de Apoio Comercial à Agricultura, Pecuária e Silvicultura (IACAPS)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/05400/02960299.pdf)
 
 > Aditado pelo/a [Decreto Regulamentar Regional n.º 44/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974), publicado em 1996-10-08.
 

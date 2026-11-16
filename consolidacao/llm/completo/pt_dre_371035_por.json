@@ -93,16 +93,18 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Art. 26.º na redacção do DL 119/2003: as remissões '[Anterior alínea c).]' a '[Anterior alínea s).]' não batem com o texto atual (lidas à letra repetiriam o INETI depois do DL 20/2004 e perderiam o INPI e o LNEC); apliquei-as desfasadas de uma letra (b)=antiga d), c)=antiga e), d)=antiga f), g)=antiga j), ... r)=antiga t)), como mostra a republicação anexa ao próprio DL 119/2003, com o texto das alíneas antigas copiado do texto atual. Divergências de redacção que só aparecem nas republicações (p. ex. 'Ministra'->'Ministro de Estado e das Finanças' noutros artigos, art. 9.º, n.º 4, b), art. 17.º, n.º 3) não vêm em nenhuma instrução e não foram aplicadas.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DL 119/2003 art. 1.º: nova redacção dos arts. 6.º (n.º 2, b) nova, c) e d) = antigas b) e c); n.os 3 e 4 saem para o 6.º-A), 9.º n.º 1, 14.º n.º 2, 17.º n.º 4, 20.º n.º 2, 24.º n.º 2, 25.º n.º 2 e n.º 6 c), 26.º (reordenado, ver nao_aplicavel), 27.º (todo), 29.º n.º 2, 30.º n.º 2, 31.º n.º 2: aplicados.",
-    "DL 119/2003 art. 2.º: aditado 6.º-A; os n.os 2 e 3 '(Anterior n.º 3/4 do artigo 6.º)' foram preenchidos com o texto dos antigos n.os 3 e 4 do art. 6.º.",
-    "DL 20/2004 art. 1.º: art. 18.º n.º 1 novo; art. 26.º b) e l) novas, restantes alíneas renumeradas (sai a do Instituto Geológico e Mineiro): aplicados.",
-    "DL 176/2004 art. 1.º: art. 9.º n.º 4 d) revogada; art. 25.º n.º 2 novo, n.os 6 e 7 novos, n.º 8 = anterior n.º 6: aplicados.",
-    "DL 176/2004 art. 2.º: aditado art. 32.º-A.",
-    "Normas de produção de efeitos e republicação dos alteradores: não alteram o texto."
+    "Reparo ao artigo 26.º (dúvida): as remissões «[Anterior alínea X).]» do DL 119/2003 só batem com o texto se se contar a lista atual sem a alínea b) (Agência de Inovação, que o mesmo diploma passa para o n.º 2 do art. 27.º como sociedade anónima): anterior c) = IGM, d) = INETI, e) = INPI, i) = Agência Sócrates/Leonardo, j) = CNE, l) = ITN, m) = INSA, n) = CITE, o) = CNPCJR, p) = IEFP, q) = Inovinter, r) = SCML, s) = LNEC. É essa a leitura que a republicação anexa ao próprio DL 119/2003 (e as dos DL 20/2004 e 176/2004) confirma, e as remissões do DL 20/2004 (sobre a redação do 119/2003) batem com ela sem desvios. Saem APAD, IIPM, INIA e ANEFA, substituídos pelas novas alíneas e) INIAP e f) LNIV; entra j) Instituto de Genética Médica. As alíneas que só mudam de letra copiam o texto atual letra a letra (por isso f) e m) mantêm a redação atual, que difere da republicação).",
+    "DL 119/2003 (1): art. 6.º n.º 2 (nova b), c) e d) = anteriores b) e c)); os n.os 3 e 4 do art. 6.º passam a n.os 2 e 3 do novo art. 6.º-A (o 6.º fica só com os n.os 1 e 2); 6.º-A corrigido, pois o programa deixara os marcadores «(Anterior n.º 3/4 do artigo 6.º)» em vez do texto; arts. 9.º n.º 1, 14.º n.º 2, 17.º n.º 4, 20.º n.º 2, 24.º n.º 2, 25.º n.os 2 e 6 c), 26.º, 27.º, 29.º n.º 2, 30.º n.º 2 e 31.º n.º 2.",
+    "DL 20/2004 (2): art. 18.º n.º 1; art. 26.º (nova b) INETI, nova l) CITE, restantes renumeradas).",
+    "DL 176/2004 (3): art. 9.º n.º 4 d) revogada; art. 25.º n.º 2, novos n.os 6 e 7, n.º 8 = anterior n.º 6; aditado o art. 32.º-A.",
+    "As republicações anexas aos três decretos-leis trocam também «Ministra» por «Ministro» e fazem outros acertos de redação em artigos que nenhuma instrução altera (p. ex. arts. 2.º, 7.º, 13.º, 33.º); não foram aplicados por não haver instrução de alteração."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

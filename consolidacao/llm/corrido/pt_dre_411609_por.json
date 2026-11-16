@@ -9,10 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.º 1: a redução temporária (seis meses) da contribuição da entidade patronal para $60 não se aplica porque as taxas do n.º 4 só existem no quadro em imagem e a alteração é transitória.",
+  "nao_aplicavel": "Alterador 1, n.º 1: altera a contribuição da entidade patronal do n.º 4 para $60 só por um período de seis meses a partir de 1 de Abril de 1974 (alteração temporária) e a tabela das contribuições só consta em imagem; não aplicada.",
   "instrucoes": [
-    "Alterador 1 (Portaria 279/74), n.º 1: contribuição patronal do n.º 4 alterada para $60 por seis meses — não aplicada (quadro em imagem, alteração temporária).",
-    "Alterador 1, n.º 2: prazo de pagamento da alínea a) do n.º 4 passa a ser do dia 11 ao dia 20 — substituída a unidade 20 trocando 'do dia 1 ao dia 10' por 'do dia 11 ao dia 20'."
+    "Alterador 1, n.º 1: contribuição patronal do n.º 4 alterada para $60 por seis meses — temporária e tabela em imagem, em nao_aplicavel (reparo confirmado).",
+    "Alterador 1, n.º 2: o prazo de pagamento da alínea a) do n.º 4 passa a ser do dia 11 ao dia 20 do mês seguinte — trocado na unidade 20 o trecho do dia 1 ao dia 10 por do dia 11 ao dia 20.",
+    "Alterador 1, n.º 3: vigência — sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

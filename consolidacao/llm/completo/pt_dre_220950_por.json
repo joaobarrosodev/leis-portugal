@@ -124,35 +124,38 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alterações aos anexos do Regulamento não aplicadas, porque o conteúdo dos anexos não vem no texto atual (só os títulos): Alterador 2 art. 4.º (anexo III, n.os 1.2, 1.6, 1.7 a), 2.1 a)); Alterador 3 art. 18.º (anexos III, VI, IX e X, este e o VI só em imagem) e art. 38.º n.º 14 (alínea d) do n.º 1.1 do anexo III e n.º 2 do anexo IX); Alterador 4 art. 13.º (anexos III n.º 2.4 e IX n.º 1) e art. 32.º n.º 1 (segundo parágrafo da nota do anexo VIII); Alterador 6 art. 19.º f) (n.º 2.4 do anexo III, com efeitos retroativos). Alterador 5 (Portaria 104/2012) só suspende temporariamente compromissos (densidades dos PGF na campanha 2011/2012), alteração não textual.",
-  "instrucoes": [
-    "A1 art. 2.º: adita n.os 4, 5 e 6 ao art. 11.º — aplicado.",
-    "A2 art. 1.º: altera alíneas b), d), e), h), i), t) do art. 4.º, 5.º n.º 1 a) ii), 6.º d), 10.º d), 13.º n.º 1 e) e n.º 2 b), 17.º n.º 1, 18.º n.os 1, 2, 4, 5, 21.º n.º 1 b) e c), 22.º n.os 1, 3, 4, 6, 24.º epígrafe e n.os 2, 3, 5, 27.º e 29.º — aplicado (29.º depois revogado; 10.º, 13.º, 17.º, 27.º depois alterados).",
-    "A2 art. 7.º n.º 1: revoga 13.º n.º 2 c) e 22.º n.º 8 — aplicado.",
-    "A2 art. 4.º: anexo III — não aplicável (anexo sem texto).",
-    "A3 art. 18.º: altera arts. 10.º (n.os 1-3, a) revogada, d), f), g)), 13.º n.º 1 h), 14.º (n.os 4, 5, 6=anterior 4), 15.º n.º 3, 16.º n.º 1, 17.º n.os 1 e 2, 19.º (epígrafe e texto) — aplicado; anexos III, VI, IX, X — não aplicável.",
-    "A3 art. 38.º n.º 14: revoga 9.º b), 10.º n.º 1 a), art. 29.º — aplicado; anexo III n.º 1.1 d) e anexo IX n.º 2 — não aplicável.",
-    "A4 art. 13.º: altera 4.º q) e r), 8.º (nova alínea j) no n.º 1), 10.º n.º 1 f) e n.º 2, 24.º n.º 4, 27.º (passa a dois números), 28.º — aplicado; anexos III e IX — não aplicável.",
-    "A4 art. 32.º n.º 1: revoga parágrafo da nota do anexo VIII — não aplicável.",
-    "A5: suspensão temporária de compromissos, sem alteração textual — não aplicável.",
-    "A6 art. 19.º f): revoga n.º 2.4 do anexo III — não aplicável."
-  ],
-  "modelo": "claude-fable-5-1",
-  "pedido": "completo",
-  "passagens": [
+  "anexos": [
     {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "chars": 163515,
-      "artigos": 20
+      "titulo": "## ANEXO III — Despesas elegíveis e não elegíveis",
+      "texto": "(a que se refere o artigo 12.º)\n\nSão elegíveis atendendo ao respectivo valor de mercado e até aos valores de referência das tabelas da Comissão de Acompanhamento para as Operações Florestais (CAOF) as despesas relativas aos tipos de investimento a seguir indicados.\n\nAs contribuições em espécie podem constituir despesas elegíveis de acordo com valores tabelados constantes de normativo técnico a divulgar pela autoridade de gestão do PRODER.\n\n1 - Despesas elegíveis:\n\n1.1 - Estabilização de emergência após incêndio:\n\na) Tratamento e protecção de encostas;\n\nb) Tratamento de linhas de água;\n\nc) Tratamento de caminhos;\n\nd) (Revogada.)\n\n1.2 - Reabilitação de povoamentos e habitats florestais classificados afectados por incêndio ou agentes bióticos nocivos na sequência de incêndios:\n\na) Adensamento;\n\nb) Remoção do material ardido sem valor comercial;\n\nc) Rolagem;\n\nd) Selecção de rebentos ou varas e redução de densidades excessivas;\n\ne) Desramações e podas;\n\nf) Tratamentos fitossanitários;\n\ng) Instalação de elementos de descontinuidade, tais como faixas de gestão de combustíveis, faixas de arvoredo de alta densidade e instalação de vegetação ripícola nas faixas de protecção às linhas de água;\n\nh) Instalação de espécies protegidas;\n\ni) Restauração do fundo de fertilidade do solo, nomeadamente através da instalação de culturas de cobertura e melhoradoras do solo.\n\n1.3 - Reflorestação de áreas afectadas por incêndio ou agentes bióticos na sequência de incêndio, florestação de terras agrícolas e florestação de terras não agrícolas:\n\na) Instalação de povoamentos florestais, através de sementeira, plantação ou aproveitamento da regeneração natural;\n\nb) Remoção de árvores afectadas por incêndio ou agentes bióticos nocivos na sequência de incêndios sem valor comercial.\n\n1.4 - Associadas às intervenções relativas aos n.os 1.2 e 1.3, são ainda elegíveis as seguintes despesas:\n\na) Construção e beneficiação de rede viária e divisional, própria ou integrando redes existentes dentro da área de intervenção, até 30 % do investimento elegível aprovado para as despesas de reabilitação, reflorestação ou florestação;\n\nb) Correcção e fertilização do solo;\n\nc) Aquisição e instalação de protecções individuais de plantas para melhorar as condições microclimáticas ou conciliar a arborização com a presença do gado ou fauna selvagem;\n\nd) Aquisição e instalação de cercas para protecção dos povoamentos contra a acção do gado ou fauna selvagem.\n\n1.5 - Instalação de sistemas agro-florestais em terras agrícolas:\n\na) Florestação;\n\nb) Instalação de pastagens biodiversas;\n\nc) Correcção e fertilização do solo;\n\nd) Aquisição e instalação de protecções individuais de plantas para melhorar as condições microclimáticas ou conciliar a arborização com a presença do gado.\n\nPara todas as operações são elegíveis as despesas a seguir indicadas:\n\n1.6 - A elaboração e acompanhamento da execução do projecto de investimento, incluindo a elaboração da cartografia digital, até um limite a definir em orientações específicas da autoridade de gestão, em função da dimensão do projecto, nunca ultrapassando o montante máximo de (euro) 6000, sem IVA;\n\n1.7 - O IVA nas seguintes situações, a demonstrar por certidão da repartição de finanças:\n\na) Regime de isenção, o IVA é totalmente elegível, quando resulte da aplicação do artigo 9.º do CIVA, excepto no caso das entidades públicas;\n\nb) Regimes mistos:\n\ni) Afectação real, o IVA é elegível no caso de a actividade em causa constituir a parte isenta da actividade do beneficiário;\n\nii) Pro rata, o IVA é elegível na percentagem em que não for dedutível.\n\n2 - Despesas não elegíveis:\n\n2.1 - O IVA não poderá ser considerado elegível nas seguintes situações:\n\na) Ao abrigo dos artigos 2.º e 53.º do CIVA ou entidades públicas independentemente do regime do IVA;\n\nb) Regimes mistos:\n\ni) Afectação real, o IVA não é elegível no caso de a actividade em causa constituir a parte não isenta da actividade do beneficiário;\n\nii) Pro rata, o IVA não é elegível na percentagem em que for dedutível;\n\nc) Regime normal: o IVA não é elegível.\n\n2.2 - Aquisição de bens e equipamento em estado de uso.\n\n2.3 - Juros das dívidas.\n\n2.4 - (Revogado.)",
+      "alterador": 6
+    },
+    {
+      "titulo": "## ANEXO VIII — Prémio por perda de rendimento",
+      "texto": "(a que se refere o n.º 2 do artigo 14.º)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)\n\nFactor de majoração do prémio por perda de rendimento\n\nFolhosas produtoras de madeiras de elevada qualidade - 1,3.\n\nNota. - Em povoamentos mistos que integrem folhosas produtoras de madeira de elevada qualidade, aplica-se a majoração definida quando estas espécies representem mais de 50 % da área ou da densidade do povoamento.\n\n(Revogado.)",
+      "alterador": 4
+    },
+    {
+      "titulo": "## ANEXO IX — Limites máximos de apoio",
+      "texto": "(a que se refere o n.º 3 do artigo 14.º)\n\n1 - O limite máximo de apoio ao investimento por subacção e por beneficiário é de (euro) 2 500 000.\n\n2 - (Revogado.)\n\n3 - O montante máximo do prémio por perda de rendimento por ano e beneficiário é de (euro) 20 000 para agricultores a título individual ou colectivo e de (euro) 10 000 para outros beneficiários.",
+      "alterador": 4
     }
   ],
-  "problemas": []
+  "nao_aplicavel": "Port. 814/2010, art. 18.º: a nova redação dos anexos VI e X só vem em imagem ('(ver documento original)'), sem texto a copiar: não aplicada, mantém-se o corpo atual. Port. 104/2012: suspensão temporária de compromissos na campanha 2011/2012, não é alteração textual. Port. 228/2011, art. 31.º: norma transitória, não textual.",
+  "instrucoes": [
+    "Port. 147/2009, art. 2.º: aditados os n.os 4, 5 e 6 ao art. 11.º: aplicado (art. 1.º dirige-se a outros regulamentos)",
+    "Port. 739-B/2009, art. 1.º: alíneas b), d), e), h), i) e t) do art. 4.º, subalínea ii) da a) do n.º 1 do art. 5.º, d) do art. 6.º, d) do art. 10.º, e) do n.º 1 e b) do n.º 2 do art. 13.º, n.º 1 do art. 17.º, n.os 1, 2, 4 e 5 do art. 18.º, b) e c) do n.º 1 do art. 21.º, n.os 1, 3, 4 e 6 do art. 22.º, epígrafe e n.os 2, 3 e 5 do art. 24.º, art. 27.º e art. 29.º: aplicadas (algumas depois substituídas por 814/2010 e 228/2011)",
+    "Port. 739-B/2009, art. 4.º: proémio do n.º 1.2, n.º 1.6, a) do n.º 1.7 e a) do n.º 2.1 do anexo III: aplicadas (1.7 a) e 2.1 a) depois substituídas por 814/2010); reparo confirmado",
+    "Port. 739-B/2009, art. 7.º, n.º 1: revogadas a c) do n.º 2 do art. 13.º e o n.º 8 do art. 22.º: aplicado",
+    "Port. 814/2010, art. 18.º: arts. 10.º (n.º 1 com o anterior proémio, a) revogada, nova d), f) e g), novos n.os 2 e 3), 13.º (n.º 1 h)), 14.º (novos n.os 4 e 5, anterior n.º 4 passa a 6), 15.º (n.º 3), 16.º (n.º 1), 17.º (n.os 1 e 2), 19.º (epígrafe e texto) e anexos III (1.1 a) a c), d) revogada, 1.7 a), 2.1 a)) e IX (n.º 1, n.º 2 revogado): aplicados; anexos VI e X só em imagem: em nao_aplicavel",
+    "Port. 814/2010, art. 38.º, n.º 14: revogadas a b) do art. 9.º, a a) do n.º 1 do art. 10.º, o art. 29.º, a d) do n.º 1.1 do anexo III e o n.º 2 do anexo IX: aplicado",
+    "Port. 228/2011, art. 13.º: arts. 4.º (q) e r)), 8.º (nova j)), 10.º (f) e n.º 2), 24.º (n.º 4), 27.º (n.os 1 e 2, a nova redação já não tem n.º 3), 28.º e anexos III (n.º 2.4) e IX (n.º 1 com 2 500 000, n.º 2 revogado): aplicados; reparo confirmado",
+    "Port. 228/2011, art. 32.º, n.º 1: revogado o segundo parágrafo da nota do anexo VIII: aplicado, o parágrafo fica '(Revogado.)'; reparo confirmado",
+    "Port. 104/2012: suspensão temporária, não textual: em nao_aplicavel",
+    "Port. 253/2013, art. 19.º, f): revogado o n.º 2.4 das despesas não elegíveis do anexo III: aplicado ('2.4 - (Revogado.)'); restantes artigos dirigem-se a outros regulamentos"
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
 }

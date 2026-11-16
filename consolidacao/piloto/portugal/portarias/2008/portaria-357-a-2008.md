@@ -13,6 +13,9 @@ consolidacao:
   - id: pt:dre:343948:por
     title: Portaria n.º 814/2010
     publication_date: '2010-08-27'
+  - id: pt:dre:498497:por
+    title: Portaria n.º 253/2013
+    publication_date: '2013-08-07'
 ---
 
 # Portaria n.º 357-A/2008
@@ -91,19 +94,19 @@ b) «Exploração agrícola», o conjunto de unidades de produção submetidas a
 
 c) «Jovem agricultor», o agricultor que, à data da apresentação do pedido, tem mais de 18 e menos de 40 anos de idade.
 
-d) «Primeira instalação», a situação em que o jovem agricultor assume formalmente a gestão e titularidade da exploração agrícola, considerando-se como tal a data de apresentação do pedido de apoio a esta acção, nos casos em que este pedido venha a ser aprovado.
+d) 'Primeira instalação', a situação em que o jovem agricultor assume formalmente a gestão e titularidade da exploração agrícola, considerando-se como tal a data de apresentação do pedido de apoio a esta acção, nos casos em que este pedido venha a ser aprovado.
 
-e) «Titular de uma exploração agrícola», o gestor do aparelho produtivo e detentor, a qualquer título, do património fundiário necessário à produção de um ou vários produtos agrícolas.
+e) 'Titular de uma exploração agrícola', o gestor do aparelho produtivo e detentor, a qualquer título, do património fundiário necessário à produção de um ou vários produtos agrícolas.
 
 f) «Unidade de produção», o conjunto de parcelas agrícolas, agro-florestais ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização.
 
-g) «Produtos agrícolas», os produtos abrangidos pelo anexo i do Tratado de Amesterdão, com excepção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro de 1999.
+g) 'Produtos agrícolas', os produtos abrangidos pelo anexo i do Tratado de Amesterdão, com excepção dos produtos da pesca e da aquicultura abrangidos pelo Regulamento (CE) n.º [104/2000](http://data.europa.eu/eli/reg/2000/104/oj?locale=pt), do Conselho, de 17 de Dezembro de 1999.
 
-h) «Termo da operação», o ano de conclusão da operação, determinado no contrato de financiamento.
+h) 'Termo da operação', o ano de conclusão da operação, determinado no contrato de financiamento.
 
-i) «Valor do investimento do plano empresarial (VIPE)», o valor considerado para efeito do cálculo do prémio à instalação.
+i) 'Valor do investimento do plano empresarial (VIPE)', o valor considerado para efeito do cálculo do prémio à instalação.
 
-j) «Valor do investimento elegível», o valor considerado para efeito do cálculo do apoio ao investimento.
+j) 'Valor do investimento elegível', o valor considerado para efeito do cálculo do apoio ao investimento.
 
 > Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
@@ -155,7 +158,7 @@ d) Descrição detalhada dos investimentos, designadamente os necessários para 
 
 a) Cujo valor elegível do investimento, apurado na análise da respectiva candidatura, seja igual ou superior a (euro) 5000;
 
-b) Não conflituem com outras medidas que se enquadrem no âmbito de regimes de apoio ao abrigo da Organização Comum dos Mercados Agrícolas («OCM única») e respeitem quaisquer restrições à produção ou outras condicionantes do apoio a título da mesma;
+b) Não conflituem com outras medidas que se enquadrem no âmbito de regimes de apoio ao abrigo da Organização Comum dos Mercados Agrícolas ('OCM única') e respeitem quaisquer restrições à produção ou outras condicionantes do apoio a título da mesma;
 
 c) Cujo investimento não seja incompatível com compromissos ou obrigações a que as parcelas, objecto do investimento, estejam sujeitas;
 
@@ -389,11 +392,11 @@ c) Componente prática em contexto empresarial, sessenta horas.
 
 a) Formação de gestão da empresa agrícola, quarenta e cinco horas;
 
-b) Formação específica para a orientação produtiva da instalação, sessenta horas.
+b) Formação específica para a orientação produtiva da instalação, até sessenta horas.
 
 4 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta escolaridade é de componente agrícola, mas sem experiência no sector agrícola de pelo menos três anos:
 
-a) Formação específica para a orientação produtiva da instalação, sessenta horas;
+a) Formação específica para a orientação produtiva da instalação, até sessenta horas;
 
 b) Formação de gestão da empresa agrícola, quarenta e cinco horas;
 
@@ -401,7 +404,7 @@ c) Componente prática em contexto empresarial, sessenta horas.
 
 5 - Candidatos com escolaridade inferior ao 12.º ano, sendo que esta escolaridade é de componente agrícola, mas com experiência no sector agrícola de pelo menos três anos:
 
-a) Formação específica para a orientação produtiva da instalação, sessenta horas;
+a) Formação específica para a orientação produtiva da instalação, até sessenta horas;
 
 b) Formação de gestão da empresa agrícola, quarenta e cinco horas;
 
@@ -411,82 +414,64 @@ c) Componente prática em contexto empresarial, sessenta horas.
 
 a) Formação de gestão da empresa agrícola, quarenta e cinco horas.
 
-7 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4 e 5, de áreas de formação não agrícola [doutoramento, mestrado, licenciatura, bacharelato, curso de especialização tecnológica (CET), técnico de nível 3] e sem experiência agrícola de pelo menos três anos:
+7 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4, 5, 6, 7 e 8, de áreas de formação não agrícola [doutoramento, mestrado, licenciatura, bacharelato, curso de especialização tecnológica (CET), técnico de nível 3] e sem experiência agrícola de pelo menos três anos:
 
 a) Aplicável de acordo com o referencial do n.º 1.
 
-8 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4 e 5, de áreas de formação não agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3), com experiência no sector agrícola de pelo menos três anos.
+8 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4, 5, 6, 7 e 8, de áreas de formação não agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3), com experiência no sector agrícola de pelo menos três anos:
 
 a) Aplicável de acordo com o referencial do n.º 2.
 
-9 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4 e 5, de áreas de formação não agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3), com experiência no sector de pelo menos três anos e experiência de pelo menos três anos na área de investimento.
+9 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4, 5, 6, 7 e 8, de áreas de formação não agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3), com experiência no sector de pelo menos três anos e experiência de pelo menos três anos na área de investimento:
 
 a) Aplicável de acordo com o n.º 6.
 
-10 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4 e 5, de áreas de formação agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3) ou curso de empresário agrícola homologado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas (MADRP), independentemente dos níveis de experiência - reúnem os requisitos de aptidão e competência profissional adequada, não sendo necessária formação obrigatória.
+10 - Candidatos com escolaridade de nível igual ou superior ao 12.º ano e níveis de qualificação 3, 4, 5, 6, 7 e 8, de áreas de formação agrícola (doutoramento, mestrado, licenciatura, bacharelato, CET, técnico de nível 3) ou curso de empresário agrícola homologado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas (MADRP), independentemente dos níveis de experiência - reúnem os requisitos de aptidão e competência profissional adequada, não sendo necessária formação obrigatória.
 
 11 - Candidatos com curso de empresário agrícola homologado pelo MADRP, independentemente dos níveis de escolaridade e dos níveis de experiência - reúnem os requisitos de aptidão e competência profissional adequada, não sendo necessária formação obrigatória.
 
-## ANEXO II — Viabilidade económica da exploração agrícola em primeira instalação
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.
 
-(a que se refere o n.º 2 do artigo 5.º)
+## ANEXO II — Despesas elegíveis e não elegíveis e sectores de actividades
 
-A viabilidade económica da exploração expressa-se pela verificação conjunta das seguintes expressões:
+(a que se refere o n.º 1 do artigo 9.º)
 
-I - REL (igual ou maior que) SMN
+Despesas elegíveis
 
-II - VALcf/UTA (igual ou maior que) 1,5 x SMN
+Os indicadores de custo unitário, por hora e por formando, em matéria de formação de iniciativa individual e de participações individuais, estão definidos na Portaria n.º 596-D/2008, de 8 de Julho.
 
-III - VALinv (maior que) 0
+Despesas elegíveis
 
-onde:
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15100/0474104749.pdf)
 
-REL - rendimento empresarial líquido;
+Despesas não elegíveis
 
-SMN - salário mínimo nacional;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
 
-VALcf - valor acrescentado líquido a custo de factores;
+Sectores abrangidos para a transformação e comercialização
 
-UTA - unidade de trabalho ano;
+Transformação dos produtos agrícolas provenientes da própria exploração cujo produto final se enquadre nas actividades que constam no quadro seguinte, bem como a sua comercialização.
 
-VALinv - valor actualizado líquido do investimento.
+Sectores industriais enquadrados no PRODER
 
-A expressão referida em iii é aplicável quando o plano empresarial preveja investimentos a realizar.
+(CAE constantes do Decreto-Lei n.º 381/2007, de 14 de Novembro)
 
-## ANEXO III — Cálculo da valia dos jovens agricultores
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/08700/0254202553.pdf)
 
-(a que se refere o artigo 8.º)
+> Alterado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
 
-A valia dos jovens agricultores (VJA) é obtida por aplicação da seguinte fórmula:
+## ANEXO III — Despesas elegíveis para a determinação do VIPE
 
-VJA = 0,60 VPE + 0,40 VPF
+(a que se refere o n.º 2 do artigo 9.º)
 
-na qual:
+Para além de todas as despesas elegíveis no âmbito do investimento (anexo ii), são também elegíveis, nomeadamente, as seguintes despesas:
 
-VPE - valia do plano empresarial;
+1) Compra de animais;
 
-VPF - valia do plano de formação.
+2) Aquisição de prédios rústicos e terrenos;
 
-Os pedidos de instalação que tenham uma VJA inferior a 4 não são aprovados.
+3) Aquisição de participações sociais em cooperativas ou outras formas de organização de produtores;
 
-As pontuações atribuídas às duas componentes do VJA são atribuídas da seguinte forma:
+4) Aquisição de direitos de produção agrícola.
 
-I - Quanto à valia do plano empresarial:
-
-Produção de produtos estratégicos - 2;
-
-Utilização de energias renováveis - 2;
-
-Aumento do volume de vendas (maior que 20 %) - 2;
-
-VAL/UTA (maior que) 2 SMN - 2;
-
-Análise SWOT detalhada e consistente - 2;
-
-Metas e objectivos de acordo com análise SWOT - 2.
-
-II - Quanto à valia do plano de formação:
-
-Formação adequada - 4;
-
-Formação complementar de interesse relevante para o exercício da actividade agrícola - 4.
+> Alterado pelo/a [Portaria n.º 184/2011](https://diariodarepublica.pt/dr/detalhe/portaria/184-2011-287108), publicado em 2011-05-05.

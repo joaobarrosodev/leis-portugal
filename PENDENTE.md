@@ -142,3 +142,18 @@ para uma pasta fixa. Entram as 100 compostas e a premissa errada, e, se houver t
 
 - **TC e CNPD:** a resposta ao pedido de confirmação da reutilização, notificados a 12/11/2026.
 - **Chave da API:** para testar as respostas escritas com o LLM.
+
+## 6. Perguntas de leigo por artigo (piloto, 16/11)
+
+Os números estão no `rag/README.md`, «Perguntas por artigo».
+
+- **Feito:**
+  - 3.078 perguntas de leigo para os 765 artigos em vigor do Código do Trabalho, do NRAU e do arrendamento do Código Civil (`rag/perguntas_artigo/`), escritas por 22 sessões do Claude às cegas das perguntas de avaliação;
+  - o código para as juntar ao índice (`rag.indice --com-perguntas`, desligado por omissão) e para as levar nos deltas, com testes.
+- **BM25:** nas 155 perguntas do âmbito que nunca afinaram, o artigo certo em 1.º passa de 15 % para 55 % (69 ganhos, 8 perdas). Fora do âmbito, 5 perdas em 1.145.
+- **Por fazer:**
+  - acabar a medição com o reranker, que é o que decide alargar ou não;
+  - se se alargar, rever a lista dos códigos principais e gerar uns 430 lotes (cerca de 45 milhões de tokens, umas 2 horas com 11 sessões);
+  - pôr as perguntas no índice de uso;
+  - publicar só depois de lançar a aplicação que sabe apagá-las nos deltas (`publicar --com-perguntas`).
+- **Achado:** `fontes.revogado` dá como revogados 50 artigos em vigor do Código Civil (1064.º–1113.º), por causa de notas antigas «Revogado pelo…» seguidas de «Aditado/Alterado». A sessão «Voltar ao trabalho» já tem a correção no seu worktree.

@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:319899:por
     title: Decreto-Lei n.º 38/2001
     publication_date: '2001-02-08'
-  - id: pt:dre:319899:por
-    title: Decreto-Lei n.º 38/2001
-    publication_date: '2001-02-08'
   - id: pt:dre:158620:por
     title: Decreto-Lei n.º 147/2002
     publication_date: '2002-05-21'
@@ -34,11 +31,17 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 ###### Artigo 1.º
 
-1 - É constituída a sociedade Porto 2001, S. A., sociedade anónima de capitais exclusivamente públicos, abreviadamente designada por Porto 2001, S. A.
+1 - A sociedade Porto 2001, S. A., sociedade anónima de capitais exclusivamente públicos, passa a denominar-se Casa da Música/Porto 2001, S. A.
 
 2 - A Porto 2001, S. A., rege-se pelo presente diploma, pelos estatutos publicados em anexo e, subsidiariamente, pela lei das sociedades comerciais.
 
+3 - A partir da data de entrada em vigor do presente diploma, a sociedade Casa da Música/Porto 2001, S. A., sucede em todos os direitos e obrigações da sociedade Porto 2001, S. A.
+
+4 - A partir da data de entrada em vigor do presente diploma, todas as menções legais, contratuais ou outras referentes à sociedade Porto 2001, S. A., devem considerar-se, para todos os efeitos legais, como sendo feitas à sociedade Casa da Música/Porto 2001, S. A.
+
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 2.º
 
@@ -50,13 +53,13 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 ###### Artigo 3.º
 
-1 - A Porto 2001, S. A., tem como objecto social a concepção, planeamento, promoção, execução e exploração de todas as acções que integram o evento Porto - Capital Europeia da Cultura 2001, ou as que com ela se relacionam no âmbito da requalificação urbana.
+1 - A sociedade tem por objecto social a gestão e a execução das empreitadas para a construção do edifício denominado de Casa da Música, sito na Avenida da Boavista, 604-610, 4100-111 Porto, e o exercício dos actos necessários à utilização, manutenção e gestão daquele edifício, bem como a promoção e a realização de actividades culturais no domínio da música.
 
-2 - O programa de requalificação urbana da cidade do Porto será realizado em zonas a definir pela sociedade e a aprovar pela Câmara Municipal do Porto e pelos Ministros das Finanças, do Equipamento Social, do Planeamento, da Economia e da Cultura, de acordo com as suas competências próprias.
-
-3 - À Porto 2001, S. A., relativamente às zonas urbanas referidas no número anterior, são conferidas, com efeitos a retroagir à data da sua constituição, as competências, direitos e obrigações, quer do município do Porto, quer de organismos públicos da administração central do Estado, no âmbito do QCA III, em programas que se adeqúem à execução do seu objecto estatutário, mediante contrato-programa, já celebrado ou a celebrar entre o município do Porto, organismos públicos da administração central do Estado e a Porto 2001, S. A.
+2 - A sociedade tem também por objecto a gestão e a execução das obras iniciadas pela sociedade Porto 2001, S. A., que não estejam concluídas até 30 de Junho de 2002.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 4.º
 
@@ -72,7 +75,9 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 ###### Artigo 5.º
 
-As deliberações da assembleia geral não poderão ser aprovadas com a oposição do accionista Estado ou do accionista município do Porto.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 6.º
 
@@ -122,17 +127,19 @@ c) Outros elementos que o conselho de administração julgue adequados à compre
 
 2 - Os estatutos anexos ao presente diploma não carecem de redução a escritura pública, devendo o registo comercial competente ser feito oficiosamente com base no Diário da República em que hajam sido publicados.
 
-3 - (Revogado.)
-
 4 - Os actos necessários ao registo da constituição, bem como todas as alterações posteriores aos estatutos anexos, estão isentos de quaisquer taxas ou emolumentos, nomeadamente participações emolumentares, notariais, de registo ou de outro tipo e de qualquer natureza.
 
 > Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
 
+> Alterado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
+
 ###### Artigo 12.º
 
-1 - O mandato dos membros eleitos dos órgãos sociais durará até 30 de Junho de 2002.
+1 - O mandato dos membros eleitos dos órgãos sociais durará até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
 
 2 - Os membros dos órgãos sociais consideram-se empossados logo que eleitos, sem dependência de outras formalidades, salvo a prestação de caução, se a ela houver lugar, e manter-se-ão em exercício de funções até à eleição de quem deve substituí-los.
+
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 13.º
 
@@ -158,9 +165,11 @@ ESTATUTOS DA PORTO 2001, S. A.
 
 ###### Artigo 1.º — Tipo, denominação e duração
 
-1 - A sociedade adopta o tipo de sociedade anónima e a denominação de Porto 2001, S. A.
+1 - A sociedade adopta o tipo de sociedade anónima e a denominação de Casa da Música/Porto 2001, S. A.
 
-2 - A sociedade dura até 30 de Junho de 2002.
+2 - A sociedade dura até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
+
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 2.º — Sede
 
@@ -168,31 +177,41 @@ A sede social é na Casa das Artes, Palácio Vilar de Allen, na cidade do Porto.
 
 ###### Artigo 3.º — Objecto
 
-1 - A sociedade tem como objecto social a concepção, planeamento, promoção, execução e exploração de todas as acções que integram o evento Porto - Capital Europeia da Cultura 2001, ou as que com ela se relacionam no âmbito da requalificação urbana.
+1 - A sociedade tem por objecto social a gestão e a execução das empreitadas para a construção do edifício denominado de Casa da Música, sito na Avenida da Boavista, 604-610, 4100-111 Porto, e o exercício dos actos necessários à utilização, manutenção e gestão daquele edifício, bem como a promoção e a realização de actividades culturais no domínio da música.
 
-2 - O programa de requalificação urbana da cidade do Porto será realizado em zonas a definir pela sociedade e a aprovar pela Câmara Municipal do Porto e pelos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Economia, do Ambiente e da Cultura, de acordo com as competências próprias.
+2 - A sociedade tem também por objecto a gestão e a execução das obras iniciadas pela sociedade Porto 2001, S. A., que não estejam concluídas até 30 de Junho de 2002.
 
 3 - A sociedade poderá adquirir, originária ou derivadamente, participações no capital de sociedades de responsabilidade limitada.
 
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+
 ###### Artigo 4.º — Capital social
 
-1 - O capital social é de 4000000000$00, subscrito pelo Estado em 98,75%, ao que equivale o valor de 3950000000$00, e pelo município do Porto em 1,25%, ao que equivale o valor de 50000000$00.
+1 - O capital social é de 41814996 euros, subscrito pelo Estado em 86,92%, o que corresponde ao valor de 36344996 euros, e pelo município do Porto em 13,08%, o que corresponde ao valor de 5470000 euros.
 
-2 - O montante do capital social realizado é de 100000000$00, em partes iguais pelo Estado e pelo município do Porto.
+2 - O montante do capital social realizado é de 9726558 euros pelo Estado e de 249399 euros pelo município do Porto.
 
-3 - O remanescente do capital deverá ser realizado de harmonia com as necessidades da sociedade tal como forem definidas pelo conselho de administração, mas sempre com a observância dos limites máximos seguintes:
+3 - O remanescente do capital social subscrito pelo Estado, no valor de 26618438 euros, deverá ser realizado de harmonia com as necessidades da sociedade tal como forem definidas pelo conselho de administração, mas sempre com observância dos limites máximos seguintes:
 
-No ano de 1998 - 900000000$00;
+a) No ano de 2000 - 19177058 euros;
 
-No ano de 1999 - 1000000000$00;
+b) No ano de 2001 - 7441375 euros.
 
-No ano de 2000 - 1000000000$00;
+4 - O remanescente do capital social subscrito pelo município do Porto, no valor de 5220601 euros, será realizado da seguinte forma:
 
-No ano de 2001 - 1000000000$00.
+a) No ano de 2000:
+
+2494601 euros, em espécie, através da cedência à Porto 2001, S. A., do direito de propriedade sobre o terreno onde irá ser construída a Casa da Música;
+
+1090402 euros;
+
+b) No ano de 2001, 1635598 euros, a realizar em duas prestações de igual valor.
+
+> Alterado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
 
 ###### Artigo 5.º — Acções
 
-1 - O capital é representado por 4000000 de acções com o valor nominal de 1000$00 cada uma.
+1 - O capital social é representado por 41814996 acções com o valor nominal de 1 euro cada.
 
 2 - Só as pessoas colectivas de direito público poderão ser admitidas como accionistas da sociedade.
 
@@ -201,6 +220,8 @@ No ano de 2001 - 1000000000$00.
 4 - As acções são obrigatoriamente escriturais.
 
 5 - A sociedade poderá emitir acções preferenciais sem direito a voto, conferindo direito a um dividendo prioritário, remíveis ou não, dentro dos limites legais e nas condições que vierem a ser fixadas pela assembleia geral que tal deliberar.
+
+> Alterado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
 
 ###### Artigo 6.º — Direito de preferência
 
@@ -262,7 +283,9 @@ h) Fixar os limites máximos de obrigações a emitir em cada ano;
 
 i) Deliberar sobre qualquer outro assunto para que tenha sido convocada.
 
-2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número, sem prejuízo do disposto no artigo 5.º do Decreto-Lei n.º 418-B/98.
+2 - As deliberações são tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral, sempre que a lei não exija maior número.
+
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 11.º — Mesa da assembleia geral
 
@@ -274,17 +297,19 @@ A assembleia geral reunir-se-á pelo menos uma vez por ano e sempre que for conv
 
 ###### Artigo 13.º — Composição do conselho de administração
 
-1 - O conselho de administração é composto por número ímpar de membros, no mínimo 13 e no máximo 19, sendo um deles o seu presidente, que deverá ser designado pela assembleia geral.
+1 - O conselho de administração é composto por três membros, sendo um deles o seu presidente, que deverá ser designado pela assembleia geral.
 
 2 - O presidente do conselho de administração tem voto de qualidade.
+
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 14.º — Competência do conselho de administração
 
 1 - Compete ao conselho de administração:
 
-a) Aprovar o programa do evento «Porto - Capital Europeia da Cultura 2001»;
+a) Gerir e acompanhar a execução das empreitadas para a construção do edifício denominado de Casa da Música;
 
-b) Definir as áreas de intervenção e as acções de requalificação urbana, que aí deverão ser desenvolvidas de harmonia com o artigo 3.º, n.º 1, destes estatutos;
+b) Aprovar o programa cultural da Casa da Música;
 
 c) Elaborar o plano anual de actividades;
 
@@ -308,15 +333,15 @@ m) Designar o secretário da sociedade;
 
 n) Exercer as demais competências decorrentes da lei e destes estatutos.
 
-2 - O conselho poderá delegar em algum ou alguns dos seus membros ou numa comissão executiva composta por três a cinco administradores os poderes de gestão, nos termos da lei.
+2 - O conselho de administração poderá delegar em algum ou alguns dos seus membros os poderes de gestão, nos termos da lei.
 
-3 - Só os membros da comissão executiva referida no número anterior têm direito a remuneração, fixada nos termos da alínea f) do n.º 1 do artigo 10.º
+3 - Compete ao presidente do conselho de administração a coordenação das actividades do conselho, a convocação das suas reuniões e zelar pela correcta execução das deliberações do conselho.
 
-4 - Compete ao presidente do conselho de administração a coordenação das actividades do conselho, a convocação das suas reuniões e zelar pela correcta execução das deliberações do conselho.
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 15.º — Reuniões do conselho de administração
 
-1 - O conselho de administração reúne mensalmente e ainda sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de dois administradores, e a periodicidade será bimensal ou trimestral, se vier a ser constituída uma comissão executiva.
+1 - O conselho de administração reúne mensalmente e ainda sempre que convocado pelo seu presidente, por sua iniciativa ou a pedido de um dos vogais.
 
 2 - O conselho de administração pode deliberar validamente quando estiver presente a maioria dos seus membros, sendo as respectivas deliberações tomadas por maioria de votos dos membros presentes ou representados, dispondo o presidente, no caso de empate de votação, de voto de qualidade.
 
@@ -324,21 +349,21 @@ n) Exercer as demais competências decorrentes da lei e destes estatutos.
 
 4 - Nenhum administrador pode representar mais de um administrador.
 
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+
 ###### Artigo 16.º — Representação
 
 1 - A sociedade obriga-se:
 
 a) Pela assinatura do presidente do conselho de administração;
 
-b) Pela assinatura de dois administradores executivos, no âmbito da delegação de poderes;
+b) Pela assinatura de um ou dos dois vogais do conselho de administração, no âmbito da delegação de poderes;
 
-c) Pela assinatura de um ou mais administradores-delegados, no âmbito da delegação de poderes;
+c) Pela assinatura de um mandatário ou procurador da sociedade.
 
-d) Pela assinatura de um membro do conselho de administração e de um mandatário ou procurador da sociedade;
+2 - Em assuntos de mero expediente bastará a assinatura de um dos vogais.
 
-e) Pela assinatura de um mandatário ou procurador da sociedade.
-
-2 - Em assuntos de mero expediente bastará a assinatura de um dos vogais do conselho de administração.
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 17.º — Fiscal único
 
@@ -346,41 +371,33 @@ A fiscalização da actividade social da sociedade compete a um fiscal único, q
 
 ###### Artigo 18.º — Competência do fiscal único
 
-Além das competências fixadas na lei, cabem especialmente ao fiscal único:
+Além das competências fixadas na lei, incumbe ainda ao fiscal único:
 
 a) Emitir parecer acerca do orçamento, do balanço, do inventário e das contas anuais;
 
 b) Chamar à atenção do conselho de administração para qualquer assunto que, do ponto de vista das suas competências, deva ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aquele órgão;
 
-c) Enviar trimestralmente aos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território e da Cultura um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação ao orçamento.
+c) Enviar trimestralmente aos Ministros das Finanças, do Planeamento e da Cultura um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação ao orçamento.
+
+> Alterado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899), publicado em 2001-02-08.
 
 ###### Artigo 19.º — Conselho consultivo
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 38/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2001-319899) e [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
+> Revogado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 20.º — Competência do conselho consultivo
 
-Compete ao conselho consultivo, que é um órgão de consulta do conselho de administração, dar parecer, a solicitação do presidente deste órgão social, sobre:
+(Revogado.)
 
-a) Propostas e projectos de realização de eventos no âmbito do Porto - Capital Europeia da Cultura 2001, nomeadamente nos domínios das artes plásticas, música, cinema, vídeo, teatro e outras artes performativas;
-
-b) Propostas e projectos de renovação e requalificação urbana da cidade do Porto, designadamente de construção e reconstrução de edifícios, espaços públicos e reordenamento urbano;
-
-c) Quaisquer outros assuntos relativos à prossecução do objecto da sociedade sobre os quais lhe seja solicitado parecer pelo presidente do conselho de administração.
+> Revogado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 21.º — Reuniões do conselho consultivo
 
-1 - O conselho consultivo reunirá sempre que para tanto for convocado pelo presidente do conselho de administração, que presidirá às reuniões.
+(Revogado.)
 
-2 - As convocatórias deverão ser expedidas com a antecedência mínima de 10 dias, especificar o dia, o local e a hora da reunião e incluir a ordem de trabalhos respectiva.
-
-3 - Independentemente das suas reuniões plenárias e dos pareceres aprovados nessas reuniões, o conselho consultivo poderá também organizar-se em secções especializadas, às quais caberá emitir parecer sobre matérias das suas competências específicas.
-
-4 - As deliberações do conselho consultivo são tomadas por maioria de votos, cabendo um voto a cada um dos seus membros.
-
-5 - O funcionamento do conselho consultivo obedece a um regulamento por si elaborado e aprovado.
+> Revogado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
 ###### Artigo 22.º — Secretário da sociedade
 
@@ -388,12 +405,16 @@ A sociedade terá secretário e secretário suplente, que exercerão as competê
 
 ###### Artigo 23.º — Dissolução e liquidação
 
-1 - A sociedade dissolve-se nos termos da lei no dia 30 de Junho de 2002.
+1 - A sociedade dissolve-se nos termos da lei, aquando da criação da entidade que irá gerir a Casa da Música.
 
 2 - Fica a assembleia geral convocada para o 1.º dia útil após aquela data, a fim de estabelecer a forma de execução da liquidação e nomear o administrador liquidatário.
 
-###### Artigo 24.º — Mandatos dos órgãos sociais
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
 
-1 - O mandato dos membros eleitos dos órgãos sociais durará até 30 de Junho de 2002.
+###### Artigo 24.º — Mandato dos órgãos sociais
+
+1 - O mandato dos membros eleitos dos órgãos sociais durará até à tomada de posse dos cargos dirigentes da entidade que irá gerir a Casa da Música.
 
 2 - Os membros dos órgãos sociais consideram-se empossados logo que eleitos, sem dependência de outras formalidades, salvo a prestação de caução, se a ela houver lugar, e manter-se-ão em exercício de funções até à eleição de quem deve substituí-los.
+
+> Alterado pelo/a [Decreto-Lei n.º 147/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2002-158620), publicado em 2002-05-21.
