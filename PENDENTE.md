@@ -83,19 +83,17 @@ reconstrução do índice:** o de 16/11 ainda tem os números antigos.
 Os números estão no `rag/README.md`, «Tipos novos».
 
 - **Índice reconstruído (16/11)** com o export de 16/11: 267.084 diplomas e 1.576.082 pedaços (eram
-  246.506 e 1.484.508). Os inteiros estão todos na forma «N.º», e nenhuma chave tem o hífen U+2010.
+  246.506 e 1.484.508). À noite, outra vez, com a 2.ª Série só pela referência (abaixo). Os
+  inteiros estão todos na forma «N.º», e nenhuma chave tem o hífen U+2010.
   Teste: «artigo 1.º da Diretiva 88/361/CEE» dá o artigo certo em primeiro lugar (no registo, o
   título é «Artigo 1g.»).
 - **Medido no índice novo:** a pesquisa fica igual nas 1.298 perguntas, com os mesmos totais por tipo,
   e só 3 mudam de posição abaixo do 1.º lugar. Nenhum ato traduzido aparece em 1.º lugar, nem
   nessas nem nas 167 da UE.
 - **As traduções ficam no índice**, e a resposta avisa quando cita uma (`AVISO_TRADUCAO`).
-- **Faltam 11 traduções no índice** (1.233 de 1.244). São os 11 atos cujo original só existia em PDF,
-  como o 2/63/Euratom e a Decisão 2026/22. Têm texto traduzido, mas o registo guarda o aviso da
-  recolha «o registo liga apenas ao PDF oficial» em `validation.warnings`. Por isso o export dá-lhes
-  `text_quality = pdf` e o índice salta-os. Falta tirar o aviso desses 11 registos (no checkout
-  principal) e ver se o passo da tradução o deixa noutros.
-  - Entram na próxima reconstrução, com os 13 números oficiais corrigidos (ponto 2).
+- **As 11 traduções que faltavam já estão no índice** (1.244). Eram os atos cujo original só existia
+  em PDF e que guardavam o aviso da recolha «liga apenas ao PDF oficial». O aviso saiu dos 11
+  registos (2b0de97), e o passo da tradução já não o grava.
 - **TC 1983–2026:** a avaliação BM25 foi repetida. Entram 2 avisos novos, ambos certos, e nada piora.
   O aviso passou a dizer «ilegal» nas 17 declarações que são só de ilegalidade.
 - **2.ª Série:** 54 perguntas verificadas às cegas (`avaliacao/perguntas-serie-ii.jsonl`).
@@ -104,8 +102,17 @@ Os números estão no `rag/README.md`, «Tipos novos».
   - Mas, só com BM25, as perguntas reais pioram um pouco: 200 → 192 com o artigo nos 10 primeiros.
   - Com o reranker, as reais pioram: 120 → 115 no 1.º lugar. Em 12 delas, o 1.º lugar passa a ser um
     regulamento ou acordo coletivo da 2.ª Série sobre o mesmo tema.
-  - **Decisão: fica fora do índice por omissão.** Por medir: a 2.ª Série só pela referência exata
-    («Regulamento n.º 1126/2026»), fora do BM25 em todo o acervo.
+  - **Só pela referência** (hoje a omissão do `rag.indice`): os atos entram, mas só se encontram
+    quando a pergunta os cita. Com o reranker, as 54 dão 91 % em 1.º lugar, e as reais ficam como sem
+    a 2.ª Série: 120 no 1.º lugar e 105 certas (eram 101). Só com BM25, as reais perdem um pouco
+    (200 → 193 nos 10 primeiros), pelas estatísticas do BM25.
+  - **Decisão: o índice de uso passa a ser assim.** Reconstruído na noite de 16/11: 357.148 diplomas, dos
+    quais 90.053 só pela referência.
+  - **Antes de publicar no Hugging Face, lançar a aplicação nova.** A 0.1.0 não conhece a tabela
+    `so_referencia` e poria a 2.ª Série na pesquisa geral. `rag.dados publicar` recusa este índice sem
+    `--com-so-referencia`.
+  - Por fazer, se a perda só com BM25 importar: os atos só pela referência numa tabela de pesquisa
+    à parte.
 - **CNPD:** não está no índice nem no RAG. O TC chega às respostas pelo `normas-julgadas.jsonl`.
 
 ## 4. OCR da CNPD: feito (15/11)

@@ -10,13 +10,15 @@ Tudo fica num SQLite com FTS5 (BM25), fora do git:
 
     PYTHONPATH=src python -m rag.indice                # acervo completo (~1 h)
     PYTHONPATH=src python -m rag.indice --amostra 5000 # só os diplomas da avaliação e mais 5000
-    PYTHONPATH=src python -m rag.indice --com-serie-ii # também os atos da 2.ª Série recolhidos em 12/11/2026
-    PYTHONPATH=src python -m rag.indice --serie-ii-por-referencia # esses atos só quando a pergunta os cita
+    PYTHONPATH=src python -m rag.indice --sem-serie-ii # sem os atos da 2.ª Série recolhidos em 12/11/2026
+    PYTHONPATH=src python -m rag.indice --com-serie-ii # com esses atos também no BM25 em todo o acervo
 
 Os regulamentos, deliberações, acordos coletivos de trabalho, editais e declarações que o
-`collect dre --missing --all` trouxe a partir de 12/11/2026 (~100 mil, quase todos da 2.ª
-Série) ficam fora por omissão, até se medir que ajudam a pesquisa: ver `fora_por_omissao`.
-Os destes tipos que já lá estavam (os citados ou alterados por diplomas do acervo) continuam.
+`collect dre --missing --all` trouxe a partir de 12/11/2026 (~90 mil, quase todos da 2.ª
+Série; ver `fora_por_omissao`) entram por omissão só pela referência: na tabela `so_referencia`,
+que a pesquisa tira do BM25 em todo o acervo. Só aparecem quando a pergunta cita o ato. Na
+pesquisa geral baralhavam as perguntas reais (medição em `rag/README.md`, «Tipos novos»). Os
+destes tipos que já lá estavam (os citados ou alterados por diplomas do acervo) entram como os outros.
 """
 
 from __future__ import annotations
@@ -176,15 +178,15 @@ def _com_historico(historico: dict) -> list[Pedaco]:
 
 
 # Tipos da 2.ª Série recolhidos em massa a partir de 12/11/2026 (`collect dre --missing --all
-# --types ...`). Ainda não se mediu se ajudam ou atrapalham a pesquisa, por isso os registos
-# destes tipos recolhidos desde essa data ficam fora do índice por omissão (`--com-serie-ii`
-# para os incluir). Os recolhidos antes (os que um diploma do acervo cita ou altera) entram.
+# --types ...`). Na pesquisa geral baralham as perguntas reais, por isso os registos destes tipos
+# recolhidos desde essa data entram só pela referência (`so_referencia`; `--com-serie-ii` ou
+# `--sem-serie-ii` para outra escolha). Os recolhidos antes (os que um diploma cita ou altera) entram.
 TIPOS_SERIE_II = ("regulamento", "deliberacao", "acordo-coletivo-trabalho", "edital", "declaracao")
 SERIE_II_DESDE = "2026-11-12"
 
 
 def fora_por_omissao(tipo: str, recolhido_em: str | None) -> bool:
-    """Registo dos tipos da 2.ª Série recolhido na recolha em massa (fica fora por omissão)."""
+    """Registo dos tipos da 2.ª Série recolhido na recolha em massa (por omissão, só pela referência)."""
     return tipo in TIPOS_SERIE_II and (recolhido_em or "") >= SERIE_II_DESDE
 
 
@@ -202,7 +204,7 @@ def documentos_do_export(export: Path, *, com_serie_ii: bool = False, com_traduc
 
 
 def serie_ii_do_export(export: Path) -> set[str]:
-    """Os ids que `fora_por_omissao` deixa de fora (com `--serie-ii-por-referencia`, entram só pela referência)."""
+    """Os ids de que `fora_por_omissao` fala: por omissão, entram só pela referência."""
     with sqlite3.connect(f"file:{export}?mode=ro", uri=True) as con:
         linhas = con.execute("SELECT id, document_type, retrieved_at FROM documentos WHERE text_quality = 'texto'").fetchall()
     return {i for i, tipo, recolhido_em in linhas if fora_por_omissao(tipo, recolhido_em)}
@@ -314,13 +316,14 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--saida", type=Path, default=PASTA_INDICE / "indice.sqlite")
     parser.add_argument("--amostra", type=int, help="Só os diplomas da avaliação e mais N ao acaso (para desenvolver).")
     parser.add_argument("--fios", type=int, default=8)
-    parser.add_argument(
+    serie_ii = parser.add_mutually_exclusive_group()
+    serie_ii.add_argument(
         "--com-serie-ii", action="store_true",
-        help="Incluir os regulamentos, deliberações, ACT, editais e declarações da recolha em massa de 12/11/2026.",
+        help="Os regulamentos, deliberações, ACT, editais e declarações da recolha em massa de 12/11/2026 também no BM25 em todo o acervo.",
     )
-    parser.add_argument(
-        "--serie-ii-por-referencia", action="store_true",
-        help="Incluir a 2.ª Série da recolha em massa, mas só para quando a pergunta cita o ato (fora do BM25 em todo o acervo).",
+    serie_ii.add_argument(
+        "--sem-serie-ii", action="store_true",
+        help="Deixar de fora esses atos (por omissão entram só pela referência).",
     )
     parser.add_argument(
         "--sem-traducoes", action="store_true",
@@ -328,9 +331,8 @@ def main(argv: list[str] | None = None) -> int:
     )
     args = parser.parse_args(argv)
     export = export_sqlite()
-    com_serie_ii = args.com_serie_ii or args.serie_ii_por_referencia
-    documentos = documentos_do_export(export, com_serie_ii=com_serie_ii, com_traducoes=not args.sem_traducoes)
-    so_referencia = serie_ii_do_export(export) if args.serie_ii_por_referencia and not args.com_serie_ii else None
+    documentos = documentos_do_export(export, com_serie_ii=not args.sem_serie_ii, com_traducoes=not args.sem_traducoes)
+    so_referencia = None if args.com_serie_ii or args.sem_serie_ii else serie_ii_do_export(export)
     if args.amostra is not None:
         avaliacao = documentos_da_avaliacao()
         # Os consolidados que têm o texto em vigor dos códigos republicados (IRS, IRC…) também entram.

@@ -49,6 +49,7 @@ Para publicar, depois de reconstruir o índice (`python -m rag.indice`) e com a 
 python -m rag.dados publicar --versao 2026-11-20 --enviar
 ```
 
+- **2.ª Série só pela referência (desde 16/11/2026):** o índice tem a tabela `so_referencia`, que a aplicação 0.1.0 não conhece. Por isso, o `publicar` recusa-o até se lançar a aplicação nova; depois, publica-se com `--com-so-referencia` (e acrescenta-se a opção ao `scripts/publicar_indice.sh`).
 - **Delta ou versão completa:** se o delta passar de 30% da versão completa, publica-se uma completa nova (para forçar, usar `--completo`).
 - **Ordem do envio:** os ficheiros vão primeiro e o `versao.json` depois, para nunca apontar para um ficheiro que ainda não lá está. Só no fim se apagam os ficheiros que já não fazem falta e se limpa o histórico (`super_squash_history`), para o espaço não crescer.
 - **Privacidade:** o caminho local do export sai da cópia publicada, porque tinha o nome do utilizador da máquina.

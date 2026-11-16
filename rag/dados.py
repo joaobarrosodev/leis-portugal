@@ -118,7 +118,7 @@ def _tem_so_referencia(con: sqlite3.Connection) -> bool:
 
 
 def so_referencia(con: sqlite3.Connection) -> set[str]:
-    """Os diplomas que só se encontram pela referência (`rag.indice --serie-ii-por-referencia`); vazio se não há a tabela."""
+    """Os diplomas que só se encontram pela referência (a 2.ª Série, por omissão em `rag.indice`); vazio se não há a tabela."""
     return {i for (i,) in con.execute("SELECT id FROM so_referencia")} if _tem_so_referencia(con) else set()
 
 

@@ -80,7 +80,7 @@ Para fazer perguntas uma a uma (por exemplo, para alguém testar), na raiz do re
 Na primeira vez prepara tudo: o `.venv` com o extra `rag`, o export e o índice (~5 min). Depois abre as perguntas, com o reranker e o limiar 3. Mostra o artigo mais provável com os avisos e os outros artigos encontrados, e pergunta se está certo e, se não, o que se esperava. Tudo fica em `rag/resultados/privado/perguntas-testadas.jsonl` (fora do git), para as perguntas que falham entrarem no conjunto de avaliação. `./perguntar "a pergunta"` faz uma só; `./perguntar --reconstruir` refaz o export e o índice (por exemplo, depois de atualizar o acervo).
 
 - `rag.indice` precisa de `exports/leis-portugal.sqlite` (na raiz, ou na pasta principal quando se corre numa worktree; ou `RAG_EXPORT`). `--amostra N` faz um índice só com os diplomas da avaliação e mais N, em segundos.
-- Os regulamentos, deliberações, acordos coletivos de trabalho, editais e declarações que a recolha em massa da 2.ª Série trouxe a partir de 12/11/2026 (~100 mil) ficam fora do índice por omissão, porque ainda não se mediu se ajudam a pesquisa ou só a enchem de atos administrativos. Os destes tipos recolhidos antes, os que um diploma do acervo cita ou altera, continuam. Para os incluir: `python -m rag.indice --com-serie-ii` (o critério é `fora_por_omissao` em `indice.py`: o tipo e a data `retrieved_at` do registo).
+- Os regulamentos, deliberações, acordos coletivos de trabalho, editais e declarações que a recolha em massa da 2.ª Série trouxe a partir de 12/11/2026 (~90 mil) entram por omissão só pela referência: só aparecem quando a pergunta cita o ato (ver «Tipos novos»). Os destes tipos recolhidos antes, os que um diploma do acervo cita ou altera, entram como os outros. `python -m rag.indice --com-serie-ii` põe-nos também na pesquisa geral, e `--sem-serie-ii` deixa-os de fora (o critério é `fora_por_omissao` em `indice.py`: o tipo e a data `retrieved_at` do registo).
 - `rag.avaliar` lê `avaliacao/perguntas.jsonl` e, se existir, `avaliacao/privado/perguntas-reais.jsonl`. O resumo vai para `rag/resultados/<nome>.json`; o detalhe por pergunta para `rag/resultados/privado/` (fora do git, porque tem o texto das perguntas reais). Com `ANTHROPIC_API_KEY`, usa o LLM, a não ser com `--sem-llm`.
 - O índice, os modelos (descarregados do Hugging Face na primeira vez, ~0,7 GB) e o detalhe ficam em `rag/indice/` e `rag/resultados/privado/`, no `.gitignore`.
 - Uma medição completa leva ~5 min só com BM25 e ~65 a 85 min com o reranker (7 a 8 s por pergunta, em CPU).
@@ -463,8 +463,8 @@ O índice de 16/11 tem 267.084 diplomas e 1.576.082 pedaços; o anterior tinha 2
 
 - **Nas 1.298 perguntas do conjunto completo, a pesquisa fica igual** (`bm25-indice-1611`). Os totais por tipo são os mesmos do índice anterior (`bm25-tc-1983-2026`). Só 3 perguntas mudam de posição, sempre abaixo do 1.º lugar: lit-191, real-027 e col-102.
 - **Nenhum ato traduzido aparece em 1.º lugar**, nem nessas 1.298 perguntas nem nas 167 da UE. As traduções ficam no índice: não baralham as perguntas gerais e respondem às perguntas sobre esses atos.
-- **UE, só BM25** (`bm25-ue-1611`): 78 % @1 e 84 % @10. As literais dão 80 % @1 e as revogadas 68 %. Com reranker e reescrita, as literais davam 98 % @1 (medição de 12/11, acima). Não há BM25 do índice anterior para comparar, porque o índice foi substituído.
-- **Ficaram 11 traduções de fora.** O original destes 11 atos só existia em PDF, e o registo guarda o aviso da recolha «o registo liga apenas ao PDF oficial», embora o texto tenha sido extraído e traduzido. Com esse aviso, o export dá-lhes `text_quality = pdf` e o índice salta-os. Ver `PENDENTE.md`.
+- **UE, só BM25** (`bm25-ue-1611-ref`, índice da noite de 16/11): 94 % @1 e 100 % @10 nas 167 perguntas. A primeira medição (`bm25-ue-1611`, 78 % @1) estava errada: as perguntas ainda tinham a chave do artigo na forma antiga («4º»), que a sessão das gralhas passou a «4.º».
+- **Ficaram 11 traduções de fora no índice da tarde, entretanto corrigidas.** O original destes 11 atos só existia em PDF, e o registo guardava o aviso da recolha «o registo liga apenas ao PDF oficial», embora o texto tivesse sido extraído e traduzido. Com esse aviso, o export dava-lhes `text_quality = pdf`. O aviso saiu dos 11 registos e o passo da tradução já não o grava (`eu_translation.translated_record`, com teste). No índice da noite estão as 1.244.
 
 **Aviso nos atos traduzidos.** Quando o artigo citado é de um ato com `version.kind = translation`, a pesquisa junta o aviso `AVISO_TRADUCAO` («Tradução não oficial para português europeu … sem valor jurídico. O ato não tem versão portuguesa oficial.»). O aviso vai para o LLM e para a resposta, como o de revogação. `rag.indice --sem-traducoes` faz um índice sem estes atos, para comparar.
 
@@ -478,7 +478,7 @@ Repetida a avaliação BM25 com o `normas-julgadas.jsonl` de 13/11 (371 declara�
 
 ### 2.ª Série do DR
 
-Os atos da 2.ª Série recolhidos desde 12/11 ficam fora do índice por omissão (`fora_por_omissao`). São regulamentos, editais, deliberações, declarações e acordos coletivos. Para os medir, foram escritas 54 perguntas sobre eles, verificadas às cegas (`avaliacao/perguntas-serie-ii.jsonl`, ver `avaliacao/README.md`), e construído um índice com `--com-serie-ii`.
+Os atos da 2.ª Série recolhidos desde 12/11 ficavam fora do índice por omissão (`fora_por_omissao`). São regulamentos, editais, deliberações, declarações e acordos coletivos. Para os medir, foram escritas 54 perguntas sobre eles, verificadas às cegas (`avaliacao/perguntas-serie-ii.jsonl`, ver `avaliacao/README.md`), e construído um índice com `--com-serie-ii`.
 
 | Medição | Sem a 2.ª Série | Com a 2.ª Série |
 |---|--:|--:|
@@ -497,7 +497,20 @@ Os atos da 2.ª Série recolhidos desde 12/11 ficam fora do índice por omissão
 - O artigo certo em 1.º lugar passa de 120 para 115, e nos 10 primeiros de 218 para 214. As certas passam de 101 para 99. Pioram 33 perguntas e melhoram 26.
 - Em 12 das 33 que pioram, o 1.º lugar passa a ser um regulamento ou acordo coletivo da 2.ª Série: um regulamento municipal ou de um instituto que fala do mesmo tema (teletrabalho, descanso compensatório, isenção de IMT). Aí a resposta citaria a regra de uma entidade em vez da lei geral, o que engana mais do que um «não sei».
 
-**Decisão: a 2.ª Série fica fora do índice por omissão.** Ganha-se nas perguntas que citam um ato da 2.ª Série e perde-se nas perguntas gerais, que são as mais comuns. Hipótese por medir: pôr a 2.ª Série no índice só para a referência exata («Regulamento n.º 1126/2026»), fora do BM25 em todo o acervo. As 54 perguntas citam todas o ato.
+**2.ª Série só pela referência** (hoje a omissão do `rag.indice`). Os atos da 2.ª Série entram no índice, mas ficam numa tabela `so_referencia`, e a pesquisa tira-os do BM25 em todo o acervo. Só aparecem quando a pergunta cita o ato: «Regulamento n.º 1126/2026», «Edital n.º 317/2001 (2.ª série)», «Acordo Coletivo de Trabalho n.º 206/2015». Para isso, as referências passaram a ler «Edital», «Acordo Coletivo de Trabalho» e «Regulamento» com números como «296-B/2007», e os números com sufixo «11/2003 - AP». No conjunto completo, isto não muda nenhum resultado (`bm25-indice-1611-refs`).
+
+| Medição | Sem a 2.ª Série | 2.ª Série toda | Só pela referência |
+|---|--:|--:|--:|
+| 54 da 2.ª Série, BM25: @1 / @10 | 0 % / 0 % | 65 % / 96 % | 67 % / 96 % |
+| 54 da 2.ª Série, reranker: @1 / @10 | — | 89 % / 98 % | **91 % / 98 %** |
+| 281 reais, reranker: @1 / @10 | 120 / 218 | 115 / 214 | **120 / 216** |
+| 281 reais, reranker: certas | 101 | 99 | **105** |
+| 281 reais, BM25: @1 / @10 | 93 / 200 | 90 / 192 | 90 / 193 |
+
+- **Com o reranker, só pela referência não perde nada nas perguntas reais.** Pioram 24 e melhoram 31, e só 1 das 24 tem um ato da 2.ª Série em 1.º lugar. Nas 54 da 2.ª Série, o «não sei» desce de 6 % para 2 %.
+- **Só com BM25, as reais perdem um pouco** (−3 @1, −7 @10), mesmo sem nenhum ato da 2.ª Série nos resultados. A causa provável são as estatísticas do BM25: os 950 mil pedaços a mais mudam a raridade de cada termo e o corte dos termos que estão em mais de 20 % dos pedaços. Ler mais candidatos até haver tantos como num índice sem a 2.ª Série não mudou nada (`bm25-reais-ref-fundo`). Para o resolver, os atos só pela referência teriam de ficar numa tabela de pesquisa à parte.
+
+**Decisão: o `rag.indice` põe por omissão a 2.ª Série só pela referência** (feito na noite de 16/11: 357.148 diplomas, 2.532.562 pedaços, 90.053 só pela referência). Os deltas levam a tabela (`rag.dados`, com teste), e `rag.dados publicar` recusa um índice com ela sem `--com-so-referencia`. A aplicação 0.1.0 não conhece a tabela e poria a 2.ª Série na pesquisa em todo o acervo, por isso este índice só vai para o Hugging Face depois de lançar a aplicação nova.
 
 ### CNPD e TC
 

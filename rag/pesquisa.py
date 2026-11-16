@@ -131,8 +131,8 @@ class Pesquisa:
         self._documentos: dict[str, dict | None] = {}
         self._jurisprudencia = None
         self._relacoes: dict[str, tuple] = {}
-        # Diplomas que só se encontram quando a pergunta os cita (a 2.ª Série com `rag.indice
-        # --serie-ii-por-referencia`): ficam fora do BM25 em todo o acervo. Índices sem a tabela: nenhum.
+        # Diplomas que só se encontram quando a pergunta os cita (a 2.ª Série, por omissão em
+        # `rag.indice`): ficam fora do BM25 em todo o acervo. Índices sem a tabela: nenhum.
         tem_tabela = self.con.execute("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'so_referencia'").fetchone()
         self.so_referencia: set[str] = {i for (i,) in self.con.execute("SELECT id FROM so_referencia")} if tem_tabela else set()
 
