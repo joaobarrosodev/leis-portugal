@@ -13,7 +13,7 @@ document_type_label: Decisão
 issuing_authority:
 - Banco Central Europeu
 proposing_entity: null
-official_number: 2018/43
+official_number: 2019/43
 official_date: null
 publication_date: '2019-01-11'
 publication:
@@ -28,7 +28,8 @@ entry_into_force_dates:
 - '2019-01-01'
 end_of_validity_date: '2020-01-31'
 legal_status: repealed
-notes: []
+notes:
+- 'Número oficial corrigido: o CELLAR dá 2018/43; o título e o ano do Jornal Oficial dão 2019/43.'
 language: por
 version:
   kind: original

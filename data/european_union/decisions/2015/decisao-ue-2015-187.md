@@ -12,7 +12,7 @@ document_type_label: Decisão
 issuing_authority:
 - Banco Central Europeu
 proposing_entity: null
-official_number: 2015/187
+official_number: 2016/187
 official_date: null
 publication_date: '2016-02-12'
 publication:
@@ -27,7 +27,8 @@ entry_into_force_dates:
 - '2016-02-15'
 end_of_validity_date: '9999-12-31'
 legal_status: in_force
-notes: []
+notes:
+- 'Número oficial corrigido: o CELLAR dá 2015/187; o título e o ano do Jornal Oficial dão 2016/187.'
 language: por
 version:
   kind: original

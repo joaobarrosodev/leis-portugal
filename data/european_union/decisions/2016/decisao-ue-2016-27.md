@@ -12,7 +12,7 @@ document_type_label: Decisão
 issuing_authority:
 - Banco Central Europeu
 proposing_entity: null
-official_number: 2016/27
+official_number: 2016/1717
 official_date: null
 publication_date: '2016-09-24'
 publication:
@@ -27,7 +27,8 @@ entry_into_force_dates:
 - '2016-09-24'
 end_of_validity_date: '9999-12-31'
 legal_status: in_force
-notes: []
+notes:
+- 'Número oficial corrigido: o CELLAR dá 2016/27; o título do ato do BCE dão 2016/1717.'
 language: por
 version:
   kind: original

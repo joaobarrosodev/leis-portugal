@@ -12,7 +12,7 @@ document_type_label: Decisão
 issuing_authority:
 - Banco Central Europeu
 proposing_entity: null
-official_number: 2018/47
+official_number: 2019/47
 official_date: null
 publication_date: '2019-01-11'
 publication:
@@ -27,7 +27,8 @@ entry_into_force_dates:
 - '2019-01-01'
 end_of_validity_date: '9999-12-31'
 legal_status: in_force
-notes: []
+notes:
+- 'Número oficial corrigido: o CELLAR dá 2018/47; o título e o ano do Jornal Oficial dão 2019/47.'
 language: por
 version:
   kind: original

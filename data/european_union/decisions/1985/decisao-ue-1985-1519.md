@@ -12,7 +12,7 @@ document_type_label: Decisão
 issuing_authority:
 - Comissão Europeia
 proposing_entity: null
-official_number: 1985/1519
+official_number: 1985/269
 official_date: null
 publication_date: '1985-06-05'
 publication:
@@ -27,7 +27,8 @@ entry_into_force_dates:
 - '1985-05-02'
 end_of_validity_date: '2014-03-20'
 legal_status: repealed
-notes: []
+notes:
+- 'Número oficial corrigido: o CELLAR dá 1985/1519; o título e o CELEX dão 1985/269.'
 language: por
 version:
   kind: original

@@ -13,7 +13,7 @@ document_type_label: Decisão de Execução
 issuing_authority:
 - Comissão Europeia
 proposing_entity: null
-official_number: 2016/776
+official_number: 2016/775
 official_date: null
 publication_date: '2016-05-19'
 publication:
@@ -28,7 +28,8 @@ entry_into_force_dates:
 - '2016-06-08'
 end_of_validity_date: '9999-12-31'
 legal_status: in_force
-notes: []
+notes:
+- 'Número oficial corrigido: o CELLAR dá 2016/776; o título e o CELEX dão 2016/775.'
 language: por
 version:
   kind: original
