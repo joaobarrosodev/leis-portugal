@@ -47,9 +47,7 @@ repetidos. Cada um tem uma nota em `notes` com o número que o DRE escreve. A li
     e o índice perdê-los-ia.
   - Nas perguntas da avaliação da UE, 25 chaves passaram à forma nova («1º» → «1.º»). Todas existem no
     registo com o leitor novo.
-- Falta o índice, e o `structure` só para o relatório: ficam para a reconstrução do ponto 3. Na
-  reconstrução, entram as chaves novas (`78.º-A`, `1.º` em vez de `1o`), e as que tinham o hífen
-  U+2010 passam a «-».
+- O índice e o relatório do `structure` (`--dry-run`) foram refeitos a 16/11: ver o ponto 3.
 
 ## 2. Atos da UE em vigor: feito (16/11)
 
@@ -71,7 +69,11 @@ caminho de registos que já existem.
 
 ## 3. RAG
 
-- **Reconstruir o índice** para entrarem as 1.244 traduções da UE. Usa só o PC.
+- **Índice reconstruído (16/11)** com o export de 16/11: 267.084 diplomas e 1.576.082 pedaços (eram
+  246.506 e 1.484.508). Entram 1.233 das 1.244 traduções da UE; as outras 11 só têm PDF, sem texto.
+  Os inteiros estão todos na forma «N.º» (1.163.329 pedaços), e nenhuma chave tem o hífen U+2010.
+  Teste: «artigo 1.º da Diretiva 88/361/CEE» dá o artigo certo em primeiro lugar (no registo, o
+  título é «Artigo 1g.»). As medições ainda não foram repetidas com o índice novo.
 - **Mostrar na resposta o `version.label`** («Tradução não oficial … sem valor jurídico») quando
   se cita um ato traduzido.
 - **Decidir se as traduções ficam no índice:** quase todas são decisões antigas dirigidas a outros

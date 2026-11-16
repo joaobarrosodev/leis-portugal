@@ -1,176 +1,176 @@
 {
- "gerado_em": "2026-11-13",
+ "gerado_em": "2026-11-16",
  "artigos": {
-  "registos": 323151,
-  "com_texto": 221978,
+  "registos": 405785,
+  "com_texto": 303225,
   "por_unidade": {
-   "artigos": 66110,
-   "nenhum": 96608,
-   "numeros": 58667,
-   "so_anexos": 593
+   "artigos": 89495,
+   "nenhum": 137485,
+   "numeros": 74362,
+   "so_anexos": 1883
   },
-  "com_artigos": 66110,
-  "com_artigos_ou_numeros": 124777,
-  "em_vigor_com_texto": 134286,
-  "em_vigor_com_artigos": 38911,
-  "em_vigor_com_artigos_ou_numeros": 78356,
-  "artigos_identificados": 994525,
-  "numeros_identificados": 286711,
-  "com_anexos": 6621,
-  "com_numeracao_repetida": 1082,
+  "com_artigos": 89495,
+  "com_artigos_ou_numeros": 163857,
+  "em_vigor_com_texto": 135183,
+  "em_vigor_com_artigos": 39201,
+  "em_vigor_com_artigos_ou_numeros": 79044,
+  "artigos_identificados": 1740849,
+  "numeros_identificados": 400592,
+  "com_anexos": 10467,
+  "com_numeracao_repetida": 1532,
   "ids_duplicados": 0,
-  "so_texto_corrido": 83636,
-  "com_titulos": 41734,
-  "artigos_antes": 40234
+  "so_texto_corrido": 99315,
+  "com_titulos": 66425,
+  "artigos_antes": 63518
  },
  "entrada_em_vigor": {
-  "com_texto": 221978,
+  "com_texto": 303225,
   "por_metodo": {
-   "clausula_com_data": 31035,
-   "clausula_so_regra": 4082,
-   "sem_clausula": 134446,
+   "clausula_com_data": 41322,
+   "clausula_so_regra": 10602,
+   "sem_clausula": 198886,
    "supletiva": 52415
   },
-  "calculadas_do_texto": 31035,
-  "so_regra": 4082,
+  "calculadas_do_texto": 41322,
+  "so_regra": 10602,
   "supletivas": 52415,
-  "sem_clausula": 134446,
-  "com_data_de_efeitos": 12268,
-  "com_regra_de_efeitos_sem_data": 5124,
-  "com_fim_de_vigencia": 228,
-  "com_clausulas_parciais": 18300,
+  "sem_clausula": 198886,
+  "com_data_de_efeitos": 13670,
+  "com_regra_de_efeitos_sem_data": 5851,
+  "com_fim_de_vigencia": 271,
+  "com_clausulas_parciais": 25525,
   "regras_mais_frequentes_sem_data": [
+   [
+    "no dia útil seguinte ao da sua publicação no diário da república",
+    173
+   ],
+   [
+    "no dia útil seguinte ao da sua publicação",
+    169
+   ],
+   [
+    "no primeiro dia útil seguinte ao da sua publicação no diário da república",
+    159
+   ],
    [
     "no dia seguinte ao da sua assinatura",
     127
    ],
    [
-    "no dia útil seguinte ao da sua publicação",
-    115
+    "no primeiro dia útil seguinte ao da sua publicação",
+    116
    ],
    [
     "na data da sua assinatura",
-    106
+    108
+   ],
+   [
+    "no primeiro dia útil seguinte à sua publicação no diário da república",
+    108
    ],
    [
     "no N.º dia útil seguinte ao da sua publicação",
-    82
+    95
    ],
    [
-    "no primeiro dia útil seguinte ao da sua publicação",
-    82
-   ],
-   [
-    "no N.º dia útil do mês seguinte ao da sua publicação",
-    66
+    "no primeiro dia útil após a sua publicação no diário da república",
+    95
    ],
    [
     "no primeiro dia útil do mês seguinte ao da sua publicação",
-    63
+    89
    ],
    [
-    "na data da assinatura",
-    46
+    "no dia seguinte ao da sua aprovação",
+    81
    ],
    [
-    "na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica",
-    41
+    "após publicação no diário da república",
+    80
    ],
    [
-    "decorridos N dias após a data da sua publicação",
-    28
+    "no ano letivo N/N",
+    78
    ],
    [
-    "imediatamente",
-    26
+    "no dia útil seguinte à sua publicação no diário da república",
+    73
    ],
    [
-    "no dia útil seguinte ao da sua publicação e",
-    20
-   ],
-   [
-    ":",
-    19
-   ],
-   [
-    "com o orçamento do estado subsequente à sua publicação",
-    19
-   ],
-   [
-    "N dias após a recepção da última notificação, por escrito e por via diplomática, de que fo",
-    18
+    "no N.º dia útil do mês seguinte ao da sua publicação",
+    70
    ]
   ],
   "por_jurisdicao_e_serie": {
    "portugal / série I": {
-    "clausula_com_data": 23211,
-    "clausula_so_regra": 3322,
-    "sem_clausula": 80439,
+    "clausula_com_data": 23216,
+    "clausula_so_regra": 3324,
+    "sem_clausula": 80448,
     "supletiva": 52415
    },
    "portugal / série II": {
-    "clausula_com_data": 3014,
-    "clausula_so_regra": 426,
-    "sem_clausula": 47653
+    "clausula_com_data": 13271,
+    "clausula_so_regra": 6933,
+    "sem_clausula": 111895
    },
    "regional / série ?": {
-    "sem_clausula": 4
+    "sem_clausula": 5
    },
    "regional / série I": {
-    "clausula_com_data": 4754,
+    "clausula_com_data": 4755,
     "clausula_so_regra": 333,
-    "sem_clausula": 6110
+    "sem_clausula": 6111
    },
    "regional / série II": {
-    "clausula_com_data": 56,
-    "clausula_so_regra": 1,
-    "sem_clausula": 240
+    "clausula_com_data": 80,
+    "clausula_so_regra": 12,
+    "sem_clausula": 427
    }
   }
  },
  "vigencia": {
-  "desconhecidos": 124275,
+  "desconhecidos": 204814,
   "por_categoria": {
-   "caducado": 22,
+   "caducado": 26,
    "conflito": 7,
-   "historico_so_pdf": 61812,
-   "revogacao_parcial": 138,
-   "revogacao_por_confirmar": 49,
-   "revogado": 320,
-   "sem_prova": 61927
+   "historico_so_pdf": 61890,
+   "revogacao_parcial": 168,
+   "revogacao_por_confirmar": 51,
+   "revogado": 670,
+   "sem_prova": 142002
   },
   "estado_proposto": {
-   "not_in_force": 22,
-   "repealed": 320
+   "not_in_force": 26,
+   "repealed": 670
   },
-  "resolvidos": 342,
-  "revogacoes_lidas_no_texto": 17131,
-  "diplomas_revogados_no_texto": 15068,
+  "resolvidos": 696,
+  "revogacoes_lidas_no_texto": 17696,
+  "diplomas_revogados_no_texto": 15587,
   "precisao_nos_estados_conhecidos": {
    "texto": {
     "repealed": 292,
-    "not_in_force": 9597,
-    "em_vigor": 827,
-    "concordam": 9889,
-    "total": 10716,
-    "taxa": 0.9228
+    "not_in_force": 9635,
+    "em_vigor": 840,
+    "concordam": 9927,
+    "total": 10767,
+    "taxa": 0.922
    },
    "relacao": {
     "repealed": 0,
-    "not_in_force": 20410,
-    "em_vigor": 1106,
-    "concordam": 20410,
-    "total": 21516,
-    "taxa": 0.9486
+    "not_in_force": 20605,
+    "em_vigor": 1123,
+    "concordam": 20605,
+    "total": 21728,
+    "taxa": 0.9483
    }
   },
   "texto_contra_dre": {
-   "diplomas": 729,
-   "provas": 736,
+   "diplomas": 742,
+   "provas": 749,
    "por_segmento": {
-    "a": 507,
-    "b": 35,
-    "c": 194
+    "a": 515,
+    "b": 36,
+    "c": 198
    },
    "por_segmento_e_tipo": {
     "a": {
@@ -181,14 +181,15 @@
      "despacho": 3,
      "despacho-normativo": 34,
      "lei": 2,
-     "portaria": 318,
-     "regulamento": 1,
+     "portaria": 319,
+     "regulamento": 8,
      "resolucao-conselho-ministros": 1
     },
     "b": {
      "aviso-banco-portugal": 1,
      "decreto": 4,
      "decreto-lei": 3,
+     "deliberacao": 1,
      "despacho": 1,
      "despacho-normativo": 3,
      "portaria": 19,
@@ -204,9 +205,11 @@
      "decreto-regional": 4,
      "decreto-regulamentar": 5,
      "decreto-regulamentar-regional": 19,
+     "deliberacao": 1,
      "despacho-normativo": 16,
      "lei": 7,
-     "portaria": 96,
+     "portaria": 98,
+     "regulamento": 1,
      "resolucao": 1,
      "resolucao-conselho-ministros": 1
     }
@@ -297,5 +300,192 @@
   },
   "provas_manuais": 248
  },
- "validacao": {}
+ "validacao": {
+  "amostra": 179,
+  "consolidados_no_acervo": 8404,
+  "atual": {
+   "diplomas": 179,
+   "mesmo_numero_de_artigos": 175,
+   "tudo_igual": 171,
+   "partes_iguais": 177,
+   "artigos_dre": 6731,
+   "artigos_parser": 6735,
+   "epigrafes_iguais": 6603
+  },
+  "original": {
+   "diplomas": 148,
+   "mesmo_numero_de_artigos": 145,
+   "tudo_igual": 144,
+   "partes_iguais": 147,
+   "artigos_dre": 5259,
+   "artigos_parser": 5265,
+   "epigrafes_iguais": 5139
+  },
+  "diferencas": [
+   {
+    "path": "data/portugal/decretos-leis/1988/decreto-lei-5-a-88.md",
+    "artigos_parser": 50,
+    "artigos_dre": 49,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 2,
+    "epigrafes_iguais": 2,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 2,
+     "parser": [
+      "",
+      "3.º",
+      "Órgãos e serviços"
+     ],
+     "dre": [
+      "",
+      "4.º",
+      "Presidente"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/decretos-leis/2000/decreto-lei-281-2000.md",
+    "artigos_parser": 22,
+    "artigos_dre": 22,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 22,
+    "epigrafes_iguais": 21,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 5,
+     "parser": [
+      "",
+      "4.º-A",
+      ""
+     ],
+     "dre": [
+      "",
+      "4.º-A",
+      "Teor de enxofre máximo nos combustíveis navais utilizados em mares territoriais, zonas económicas exclusivas e zonas de controlo da poluição, incluindo zonas de controlo das emissões de SO(índice x) e pelos navios de passageiros que efetuam serviços regulares com partida ou destino em portos da União Europeia."
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/decretos-leis/2015/decreto-lei-163-2015.md",
+    "artigos_parser": 39,
+    "artigos_dre": 39,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 39,
+    "epigrafes_iguais": 36,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 15,
+     "parser": [
+      "",
+      "16.º",
+      ""
+     ],
+     "dre": [
+      "",
+      "16.º",
+      "Contraordenações no âmbito do Regulamento (UE) 2015/340, da Comissão, de 20 de fevereiro de 2015, e da secção vi do Regulamento (UE) 2018/1139, do Parlamento Europeu e do Conselho, de 4 de julho de 2018"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/portarias/2000/portaria-1177-2000.md",
+    "artigos_parser": 13,
+    "artigos_dre": 15,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 8,
+    "epigrafes_iguais": 13,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 8,
+     "parser": [
+      "",
+      "9.º",
+      ""
+     ],
+     "dre": [
+      "",
+      "8.º-A",
+      ""
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/portarias/2015/portaria-50-2015.md",
+    "artigos_parser": 80,
+    "artigos_dre": 77,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 7,
+    "epigrafes_iguais": 7,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 7,
+     "parser": [
+      "",
+      "8.º",
+      "Objetivos"
+     ],
+     "dre": [
+      "",
+      "9.º",
+      "Critérios de elegibilidade"
+     ]
+    }
+   },
+   {
+    "path": "data/portugal/portarias/2023/portaria-175-2023.md",
+    "artigos_parser": 8,
+    "artigos_dre": 6,
+    "mesmo_numero_de_artigos": false,
+    "numeros_iguais": 6,
+    "epigrafes_iguais": 6,
+    "partes_iguais": true,
+    "primeira_diferenca": null
+   },
+   {
+    "path": "data/regional/acores/decretos-legislativos-regionais/2020/decreto-legislativo-regional-1-2020-a.md",
+    "artigos_parser": 93,
+    "artigos_dre": 93,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 93,
+    "epigrafes_iguais": 89,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 49,
+     "parser": [
+      "",
+      "48.º",
+      ""
+     ],
+     "dre": [
+      "",
+      "48.º",
+      "Décima quarta alteração ao Decreto Legislativo Regional n.º 8/2002/A, de 10 de abril, na sua atual redação, que estabelece o regime jurídico da atribuição do acréscimo regional à retribuição mínima mensal garantida, do complemento regional de pensão e da remuneração complementar regional"
+     ]
+    }
+   },
+   {
+    "path": "data/regional/acores/decretos-legislativos-regionais/2021/decreto-legislativo-regional-15-a-2021-a.md",
+    "artigos_parser": 91,
+    "artigos_dre": 91,
+    "mesmo_numero_de_artigos": true,
+    "numeros_iguais": 91,
+    "epigrafes_iguais": 90,
+    "partes_iguais": true,
+    "primeira_diferenca": {
+     "posicao": 88,
+     "parser": [
+      "",
+      "91.º",
+      ""
+     ],
+     "dre": [
+      "",
+      "91.º",
+      "Alteração do limite mínimo de autofinanciamento das associações beneficiárias de apoio no âmbito do Programa de Incentivo ao Associativismo Juvenil, designado de PIAJ, e Programa de Apoio ao Empreendedorismo Social das Associações de Juventude, designado por PAESAJ"
+     ]
+    }
+   }
+  ]
+ }
 }
