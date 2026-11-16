@@ -16,15 +16,18 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Alteradores 1 (Despacho Normativo n.º 1-A/2016) e 2 (Despacho Normativo n.º 14/2019): o pedido não traz o texto de nenhum artigo destes diplomas; nada aplicado. Alterador 3, art. 1.º, na parte do art. 5.º do Anexo I: a nova redação pressupõe números 1 a 4 e um n.º 2 com alíneas a) a e) que não existem no texto atual (corpo com alíneas a) a k), sem números), provavelmente vindos de uma alteração intermédia não disponível; não aplicado. Alterador 4 (Despacho n.º 8062/2026), art. 5.º do Anexo I: assenta na redação republicada pelo Despacho Normativo n.º 7/2025 (n.ºs 1 a 4 com subalíneas, aditamento das subalíneas xiv) e xv) da alínea b) e xxix) da alínea c) do n.º 3, revogação da subalínea v) da alínea c) do n.º 3), estrutura inexistente no texto atual; não aplicado.",
+  "anexos": [],
+  "nao_aplicavel": "Art. 5.º do anexo I (Despacho Normativo 8/2020, alínea a) a e) do n.º 2; Despacho 8062/2026, subalíneas xiv) e xv) da alínea b) e xxix) da alínea c) do n.º 3 e revogação da subalínea v) da alínea c) do n.º 3): ambas as redações pressupõem um art. 5.º dividido em n.os 1 a 4, com alíneas e subalíneas, vindo de alterações cujo texto não está no pedido (Despachos Normativos 1-A/2016 e 14/2019, vazios). O texto atual do art. 5.º não tem números (só proémio e alíneas a) a k)): os «[...]» dos n.os 1, 3 e 4 não têm texto atual a que corresponder e as novas alíneas não têm onde encaixar sem inventar o resto do artigo. Não aplicado.",
   "instrucoes": [
-    "Alt. 1 e Alt. 2: sem texto no pedido — nada aplicado",
-    "Alt. 3: nova redação do art. 1.º do Anexo I — aplicada (epígrafe mantida por [...])",
-    "Alt. 3: nova redação do art. 5.º do Anexo I — não aplicada (estrutura de números inexistente no texto atual)",
-    "Alt. 3: nova redação do art. 6.º do Anexo I — aplicada: proémio e subalíneas i) a iii) novas; alínea a) e alíneas b) a d) mantidas do texto atual",
-    "Alt. 4: nova redação do art. 5.º do Anexo I (aditamentos e revogação de subalíneas) — não aplicada (estrutura inexistente no texto atual)"
+    "Despacho Normativo 1-A/2016 (1): sem texto no pedido.",
+    "Despacho Normativo 14/2019 (2): sem texto no pedido.",
+    "Despacho Normativo 8/2020 (3): nova redação do art. 1.º do anexo I — aplicada.",
+    "Despacho Normativo 8/2020 (3): nova redação do art. 5.º do anexo I (n.º 2, alíneas a) a e)) — não aplicável, ver nao_aplicavel.",
+    "Despacho Normativo 8/2020 (3): nova redação do proémio e das subalíneas i) a iii) da alínea a) do art. 6.º do anexo I — aplicada; alíneas a) (proémio), b), c) e d) do texto atual.",
+    "Despacho 8062/2026 (4): alteração do art. 5.º do anexo I (n.º 3) — não aplicável, ver nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

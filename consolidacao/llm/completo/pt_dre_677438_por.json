@@ -32,15 +32,15 @@
       "alterador": 3
     },
     {
-      "chave": "19.º-A",
-      "epigrafe": "Chefes de repartição",
-      "texto": "Com a entrada em vigor do presente diploma são extintos os lugares de chefe de repartição.",
-      "alterador": 3
-    },
-    {
       "chave": "17.º",
       "epigrafe": "Carreira de operador de substâncias explosivas",
       "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "19.º-A",
+      "epigrafe": "Chefes de repartição",
+      "texto": "Com a entrada em vigor do presente diploma são extintos os lugares de chefe de repartição.",
       "alterador": 3
     },
     {
@@ -51,18 +51,31 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DRR 13/96/M art. 2.º e DRR 16/99/M art. 4.º alteram o quadro de pessoal do anexo I, que só existe em imagem; a nova epígrafe da secção III (Departamento de Serviços Administrativos (DSA)) não tem unidade correspondente no texto por artigos.",
+  "titulos": [
+    {
+      "atual": "#### SECÇÃO III — Repartição de Serviços Administrativos (RSA)",
+      "novo": "#### SECÇÃO III — Departamento de Serviços Administrativos (DSA)",
+      "alterador": 3
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "DRR 13/96/M, art. 2.º (aditamento de um lugar de chefe de repartição ao quadro de pessoal) e DRR 16/99/M, art. 4.º (novo quadro de pessoal a que se refere o n.º 1 do artigo 16.º): o anexo I/quadro só vem em imagem («ver documento original»/«ver quadro no documento original») e não tem título de divisão nem corpo de anexo no texto atual; não aplicados. DLR 4-A/97/M, art. 25.º, n.º 1, DLR 34/2009/M, art. 40.º, alínea b), e DLR 2/2011/M, art. 61.º, alínea b): mantêm em vigor suplementos, sem alteração textual do original.",
   "instrucoes": [
-    "DRR 13/96/M art. 1.º: nova redação do artigo 11.º (n.º 2 aditado); aplicada e depois substituída pelo DRR 16/99/M.",
-    "DRR 13/96/M art. 2.º: adita lugar ao quadro do anexo I (imagem); não aplicável.",
-    "DLR 4-A/97/M art. 25.º n.º 2: adita artigo 28.º ao anexo II (estatuto do CPF); aplicado com a chave 28.º, a seguir ao 27.º do anexo.",
-    "DRR 16/99/M art. 1.º: nova redação dos artigos 3.º (n.º 3 a)), 6.º (n.º 1 e proémios dos n.os 2 e 3), 7.º (n.º 3) e 11.º (n.º 2); aplicada. Epígrafe da secção III: sem unidade no texto, não aplicada.",
-    "DRR 16/99/M art. 2.º: adita os artigos 16.º-A e 19.º-A; aplicado.",
-    "DRR 16/99/M art. 3.º: revoga o artigo 17.º; aplicado.",
-    "DRR 16/99/M art. 4.º: substitui o quadro de pessoal (imagem); não aplicável.",
-    "DLR 34/2009/M art. 40.º e DLR 2/2011/M art. 61.º: só mantêm em vigor o suplemento; sem alteração do texto."
+    "DRR 13/96/M, art. 1.º: nova redação do art. 11.º (n.º 1 com as três divisões e n.º 2 com núcleo de apoio administrativo chefiado por chefe de repartição); depois substituída pelo DRR 16/99/M.",
+    "DRR 13/96/M, art. 2.º: lugar aditado ao quadro de pessoal (anexo em imagem): nao_aplicavel.",
+    "DLR 4-A/97/M, art. 25.º, n.º 2: aditado ao anexo II (Estatuto do CPF) o artigo 28.º (suplemento de penosidade por zonas): devolvido como 28.º, sem epígrafe (a instrução não dá nenhuma).",
+    "DRR 16/99/M, art. 1.º: art. 3.º, n.º 3, alínea a) passa a «Departamento de Serviços Administrativos (DSA)»; resto mantido ('...').",
+    "DRR 16/99/M, art. 1.º: epígrafe da secção III passa a «Departamento de Serviços Administrativos (DSA)» (reparo confirmado: o texto atual ainda diz RSA): em titulos.",
+    "DRR 16/99/M, art. 1.º: art. 6.º, n.os 1, 2 (proémio) e 3 (proémio) passam a referir o DSA; alíneas mantidas.",
+    "DRR 16/99/M, art. 1.º: art. 7.º, n.º 3 passa a «chefe de departamento».",
+    "DRR 16/99/M, art. 1.º: art. 11.º, n.º 2 passa a «chefiado por um chefe de departamento» (sem vírgula); alíneas do n.º 1 mantidas.",
+    "DRR 16/99/M, art. 2.º: aditados os artigos 16.º-A (Chefes de departamento) e 19.º-A (Chefes de repartição).",
+    "DRR 16/99/M, art. 3.º: revogado o artigo 17.º (Carreira de operador de substâncias explosivas) do decreto regulamentar.",
+    "DRR 16/99/M, art. 4.º: novo quadro de pessoal só em imagem: nao_aplicavel (reparo confirmado como não aplicável com segurança).",
+    "DLR 34/2009/M, art. 40.º b) e DLR 2/2011/M, art. 61.º b): só mantêm em vigor o suplemento de penosidade; sem alteração textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

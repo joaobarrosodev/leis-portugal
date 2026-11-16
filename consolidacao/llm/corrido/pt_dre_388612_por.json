@@ -21,12 +21,15 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 4 (Portaria n.º 898/87), n.º 14.º: derroga a portaria só 'no que diz respeito' ao mestrado em Transferência e Conversão de Energia, sem revogar texto identificado. Alterador 5 (Portaria n.º 602/88), n.º 1.º, n.º 2: nova redação do n.º 6.º só para o mestrado em Engenharia de Estruturas, não se pode aplicar ao texto comum a todos os cursos.",
+  "nao_aplicavel": "Portaria 602/88, n.º 1.º, 2: nova redacção do n.º 6.º só 'no que diz respeito ao curso especializado conducente ao grau de mestre em Engenharia de Estruturas'; o n.º 6.º continua a valer para os outros cursos, por isso substituí-lo no texto mudaria a regra de todos (âmbito restrito, aplicação ambígua): não aplicada. Portaria 898/87, n.os 13.º e 14.º: extinção do mestrado em Transferência e Conversão de Energia e derrogação da 226/81 quanto a esse curso, sem instrução textual (não se apaga a alínea f) nem o anexo VI). Portaria 602/88, n.º 2.º: regra de aplicação no tempo, não textual.",
   "instrucoes": [
-    "Alteradores 1, 3 e 5: cada um dá nova redação ao anexo I; aplicada a última (alterador 5), que absorve as anteriores; mudam as unidades 60-63 e 67-68.",
-    "Alterador 2: nova redação do anexo VI; substituídas as unidades 130-138 (o novo anexo não tem os pontos de licenciaturas e especialidade).",
-    "Alterador 4, n.º 14.º: derrogação parcial quanto ao mestrado em Transferência e Conversão de Energia; não aplicada.",
-    "Alterador 5, n.º 1.º, n.º 2: nova redação do n.º 6.º só para um curso; não aplicada."
+    "Portaria 371/84 (alterador 1): nova redacção do anexo I; substituída depois pela 420/86 e pela 602/88, fica a redacção final da 602/88.",
+    "Portaria 826/85 (alterador 2): nova redacção do anexo VI; pontos 1 e 2 iguais, substituídas as unidades 130-138 (pontos 3 a 5) pelos novos pontos 3 e 4.",
+    "Portaria 420/86 (alterador 3): nova redacção do anexo I; substituída depois pela 602/88.",
+    "Portaria 898/87 (alterador 4): cria o mestrado em Engenharia Mecânica (disposições próprias); n.os 13.º e 14.º extinguem/derrogam quanto ao mestrado em Transferência e Conversão de Energia, sem efeito textual: nao_aplicavel.",
+    "Portaria 602/88 (alterador 5), n.º 1.º, 1: anexo I com a redacção do anexo da 602/88; mudam as unidades 60-63 e 67-68, ficam iguais 56-59 e 64-66.",
+    "Portaria 602/88, n.º 1.º, 2: nova redacção do n.º 6.º só para Engenharia de Estruturas: nao_aplicavel (âmbito restrito, aplicação ambígua); confirmado o reparo, o n.º 6.º fica igual.",
+    "Reparo sobre a 898/87 n.º 14.º confirmado: derrogação parcial sem efeito textual; o anexo VI fica com a redacção da 826/85."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

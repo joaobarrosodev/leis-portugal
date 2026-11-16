@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: a nova planta só vem em imagem. Alterador 2: mudança de denominação, anexação de prédios (984 ha) e área de condicionamento, sem nova redação de pontos do original e com planta em imagem; não são alterações textuais, não aplicadas.",
+  "nao_aplicavel": "Portaria n.º 504/2005, n.º 2.º: substituição da planta anexa, que só vem em imagem. Portaria n.º 1500/2008, n.os 1.º a 4.º: mudança de denominação para zona de caça associativa de Assafora, anexação de prédios (área total de 984 ha), área de condicionamento total e efeitos da anexação, sem redacção textual para nenhuma unidade do original; o n.º 1.º mantém o texto da Portaria n.º 504/2005.",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: nova redação do n.º 1.º (941 ha); unidade 7 substituída, mantida a numeração \"1.º\" e a gralha \"abragendo\".",
-    "Alterador 1, n.º 2.º: substitui a planta, só em imagem; em nao_aplicavel.",
-    "Alterador 2: denominação, anexação e condicionamento sem texto do original; em nao_aplicavel."
+    "Portaria 504/2005, 1.º: nova redacção do n.º 1.º (838-DGRF, 941 ha): substituída a unidade 7, com a numeração 1.º do original e sem corrigir «abragendo».",
+    "Portaria 504/2005, 2.º: planta substituída, só em imagem: em nao_aplicavel.",
+    "Portaria 1500/2008: denominação, anexação e condicionamento sem redacção textual: em nao_aplicavel (reparo confirmado como dúvida, não aplicado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

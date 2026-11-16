@@ -15,13 +15,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, 2.º: redução para um guarda florestal auxiliar não é nova redação textual (e remete para o n.º 6.º, quando a obrigação consta do n.º 7.º). Alterador 1: nova planta só em imagem. Alteradores 2 e 3 (suspensão e renovação da concessão) não são alterações textuais.",
+  "nao_aplicavel": "Alterador 1, n.º 2.º: manda que o n.º 6.º, no que respeita ao número de guardas, passe a obrigar a manter um guarda florestal auxiliar, mas o n.º 6.º do original trata da sinalização e não fala de guardas (os dois guardas estão no n.º 7.º); alvo errado e sem nova redação, não aplicado. Alterador 2 (Portaria n.º 1203-J/2001): suspensão temporária do exercício da caça, depois revogada; não textual. Alterador 3 (Portaria n.º 987/2002): renovação por 11 anos com a área de 1949,18 ha (a correção da área vem só no preâmbulo), sem nova redação do original; não aplicada.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 1.º - unidade 6 substituída.",
-    "Alterador 1: aditamento do n.º 1.º-A - inserido depois da unidade 6.",
-    "Alterador 1, 2.º: um só guarda florestal auxiliar - não textual, não aplicado.",
-    "Alterador 2: suspensão do exercício da caça - não textual, ignorado.",
-    "Alterador 3: renovação da concessão por 11 anos (área 1949,18 ha) e revogação da Portaria n.º 1203-J/2001 - não textual, ignorado."
+    "Alterador 1, n.º 1.º: nova redação do n.º 1.º (área de 1700,3412 ha) — substituída a unidade 6, mantendo a numeração 1.º.",
+    "Alterador 1, n.º 1.º: aditado o n.º 1.º-A — inserido a seguir à unidade 6.",
+    "Alterador 1, n.º 2.º: um guarda florestal auxiliar no n.º 6.º — o n.º 6.º não tem guardas; não se infere a mudança no n.º 7.º, em nao_aplicavel (reparo verificado).",
+    "Alterador 2: suspensão da caça por nove meses no máximo — temporária, em nao_aplicavel.",
+    "Alterador 3: renovação com 1949,18 ha e revogação da Portaria n.º 1203-J/2001 — sem redação nova do original, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

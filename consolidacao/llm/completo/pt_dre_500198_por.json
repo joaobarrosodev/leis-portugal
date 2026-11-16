@@ -250,7 +250,7 @@
     {
       "chave": "46.º",
       "epigrafe": "Equipamentos a instalar",
-      "texto": "1 - A instalação de equipamentos previstos com área de influência concelhia far-se-á nos locais indicados na planta de ordenamento, nas áreas urbana e periurbana da cidade de Montemor-o-Novo e de acordo com o Plano Geral de Urbanização e em Lavre e Santiago do Escoural:\n\na) Em Lavre e Santiago do Escoural - Escola EB 1, 2;\n\nb) Em Montemor-o-Novo:\n\nCentro de Saúde;\n\nCampos de grandes jogos e piscinas;\n\nBombeiros;\n\nCemitério;\n\nParque urbano.\n\n2 - Equipamentos de menor dimensão, nomeadamente escolas do 1.º e 2.º ciclos do ensino básico, centros infantis, extensões do Centro de Saúde e outros de nível idêntico, instalar-se-ão nos aglomerados de nível II e serão localizados de acordo com o Plano de Urbanização ou planos de pormenor.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00490065.pdf)",
+      "texto": "1 - A instalação de equipamentos previstos com área de influência concelhia far-se-á nos locais indicados na planta de ordenamento, nas áreas urbana e periurbana da cidade de Montemor-o-Novo e de acordo com o Plano Geral de Urbanização e em Lavre e Santiago do Escoural:\n\na) Em Lavre e Santiago do Escoural - Escola EB 1, 2;\n\nb) Em Montemor-o-Novo:\n\nCentro de Saúde;\n\nCampos de grandes jogos e piscinas;\n\nBombeiros;\n\nCemitério;\n\nParque urbano.\n\n2 - Equipamentos de menor dimensão, nomeadamente escolas do 1.º e 2.º ciclos do ensino básico, centros infantis, extensões do Centro de Saúde e outros de nível idêntico, instalar-se-ão nos aglomerados de nível II e serão localizados de acordo com o Plano de Urbanização ou planos de pormenor.",
       "alterador": 3
     }
   ],
@@ -262,16 +262,18 @@
       "alterador": 3
     }
   ],
-  "nao_aplicavel": "Alterador 1 (RCM 43/2000): ratifica o Plano de Urbanização de Silveiras, que altera densidades e índices do PDM só para a sua área, sem instrução textual sobre o Regulamento do PDM. Alterador 5 (Aviso 9241/2014): suspensão parcial do PDM (Herdade da Caneira) com medidas preventivas por 2 anos; não é alteração textual.",
+  "anexos": [],
+  "nao_aplicavel": "RCM 43/2000 (alterador 1): ratifica o Plano de Urbanização de Silveiras e publica o regulamento desse plano. Não dá nova redacção a nenhum artigo do PDM. RCM 54/2005 (alterador 2): o pedido não traz nenhum artigo. Aviso 9241/2014 (alterador 5): suspensão parcial do PDM por 2 anos e medidas preventivas para a Herdade da Caneira. É uma suspensão temporária e localizada, não uma alteração do texto. Declaração de Retificação 779/2025/2 (alterador 6): o art. 36.º transcrito é de outro regulamento (a revisão do PDM) e só cita a RCM 8/94 como data. Não retifica o texto do original. Na RCM 2/2007 (alterador 3), as plantas de ordenamento e de condicionantes só vêm em imagem.",
   "instrucoes": [
-    "Alterador 1 (RCM 43/2000): ratificação do PU de Silveiras; nenhuma alteração textual ao Regulamento do PDM (ver nao_aplicavel).",
-    "Alterador 2 (RCM 54/2005): sem artigos que mencionem o original; nada aplicado.",
-    "Alterador 3 (RCM 2/2007): publica a nova redacção do Regulamento alterado (n.º 2 enumera os preceitos alterados e o preâmbulo indica a substituição das referências legislativas por «legislação em vigor»); aplicada a republicação a todos os artigos cujo texto difere do atual (2.º a 14.º, 16.º, 17.º, 19.º a 40.º, 42.º a 46.º), copiando o texto republicado; 1.º, 15.º, 18.º e 41.º ficam iguais. No 22.º manteve-se a epígrafe atual (a republicação parte-a em duas linhas). Título do CAPÍTULO III passa a ter epígrafe.",
-    "Alterador 4 (Aviso 16878/2012, PP da Zona Industrial da Adua), art. 19.º: revoga os artigos 29.º e 30.º do Regulamento do PDM; ambos ficam (Revogado.).",
-    "Alterador 5 (Aviso 9241/2014): suspensão parcial e medidas preventivas; não textual (ver nao_aplicavel).",
-    "Alterador 6 (Declaração de Retificação 779/2025/2): o artigo 36.º transcrito é do regulamento da revisão do PDM e só menciona o original; não é instrução dirigida ao texto do original; ignorado."
+    "RCM 2/2007, n.os 1 e 2: ratifica a alteração e publica a nova redacção de todo o Regulamento. Aplicada a redacção republicada a todos os artigos cujo texto difere do atual: 2.º a 14.º, 16.º, 17.º, 19.º a 28.º, 31.º a 40.º e 42.º a 46.º. Ficam iguais os arts. 1.º, 15.º, 18.º e 41.º. Entram também as diferenças só de redacção, mesmo em números que o n.º 2 não enumera (por exemplo, os arts. 3.º, 11.º, 12.º e 19.º)",
+    "RCM 2/2007: o art. 22.º vem com a epígrafe partida em duas linhas («Espaços urbanos de interesse cultural» / «Núcleos antigos dos aglomerados»). A segunda linha é o resto da epígrafe e não um parágrafo: mantém-se a epígrafe atual, que junta as duas, e o corpo começa em «Nos núcleos antigos…» (assim não fica a duplicação de que fala o reparo)",
+    "RCM 2/2007: o CAPÍTULO III passa a ter a designação «Área de intervenção do Plano Geral de Urbanização da Cidade de Montemor-o-Novo, espaços urbanos e espaços urbanizáveis» (vai em titulos). Os outros títulos ficam iguais",
+    "RCM 2/2007: a ligação «(ver documento original)» que vinha a seguir ao art. 46.º no texto atual não é texto do artigo e não foi reproduzida",
+    "Aviso 16878/2012, art. 19.º do Regulamento do PP da Zona Industrial da Adua: revoga os arts. 29.º e 30.º do Regulamento do PDM. Aplicado: (Revogado.) (alterador 4). A revogação produz efeitos com a entrada em vigor do plano, no dia seguinte à publicação",
+    "RCM 43/2000, RCM 54/2005, Aviso 9241/2014 e Declaração de Retificação 779/2025/2: sem alteração textual (ver nao_aplicavel)"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

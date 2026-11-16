@@ -255,13 +255,9 @@ c) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 
 
 Independentemente do nível de decisão relativamente ao projecto, a comissão de selecção deve comprovar e dar parecer sobre os montantes das aplicações relevantes referentes aos projectos de internacionalização que envolvam investimentos no estrangeiro.
 
-> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
-
-###### Artigo 14.º — Projecto com investimento no estrangeiro
-
-Independentemente do nível de decisão relativamente ao projecto, a comissão de selecção deve comprovar e dar parecer sobre os montantes das aplicações relevantes referentes aos projectos de internacionalização que envolvam investimentos no estrangeiro.
-
 Ministério da Indústria e Energia, 16 de Outubro de 1995. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.
 
 ## ANEXO A — Metodologia para a determinação da valia industrial
 
@@ -381,15 +377,13 @@ A pontuação do impacte do projecto será determinada através da seguinte chav
 
 1.º
 
-Percentagem do incentivo
+Percentagem base do incentivo
 
-A percentagem do incentivo a conceder aos projectos seleccionados (VI igual ou superior a 60) será a seguinte:
+Para a determinação do incentivo final a conceder aos projectos seleccionados (VI igual ou superior a 60), observar-se-á o seguinte:
 
-a) 65% para os subsídios reembolsáveis;
+a) A percentagem base (I(índice bj)) a considerar para a determinação do montante máximo do empréstimo que poderá beneficiar de bonificação da taxa de juros é de 65%;
 
-b) 55% para os subsídios a fundo perdido;
-
-c) 33% para as bonificações de juros.
+b) A percentagem base do subsídio a fundo perdido (I(índice fp)) corresponderá a 55%.
 
 2.º
 
@@ -407,16 +401,32 @@ c) Para os concelhos que venham a ser reconhecidos, por despacho conjunto dos Mi
 
 Cálculo do incentivo
 
-O montante do incentivo a conceder será obtido pela multiplicação das percentagens referidas nos números anteriores pelo valor:
+Os montantes dos incentivos a atribuir são calculados de acordo com as alíneas seguintes:
 
-a) Das aplicações relevantes referidas no n.º 1 do artigo 9.º, relativamente aos subsídios reembolsáveis;
+a) Empréstimo com juro bonificado:
 
-b) Das aplicações relevantes referidas no n.º 2 do artigo 9.º, relativamente aos subsídios a fundo perdido;
+Montante máximo do empréstimo = I(índice bj)x AR(índice bj)
 
-c) Dos juros suportados referidos no n.º 1 do artigo 14.º, relativamente à bonificação de juros.
+em que:
+
+I(índice bj) - percentagem base a aplicar na determinação do montante máximo do empréstimo, de acordo com o n.º 1.º anterior, acrescida, se aplicável, da majoração referida no n.º 2.º deste anexo;
+
+AR(índice bj) - aplicações relevantes relativas às componentes referidas na alínea a) do n.º 1 do artigo 7.º do presente despacho;
+
+b) Subsídio a fundo perdido:
+
+Incentivo = I(índice fp) x AR(índice fp)
+
+em que:
+
+I(índice fp) - percentagem base relativa ao fundo perdido, de acordo com o n.º 1.º anterior, acrescida, se aplicável, da majoração referida no n.º 2.º deste anexo;
+
+AR(índice fp) - aplicações relevantes relativas às componentes referidas na alínea b) do n.º 1 do artigo 7.º do presente despacho.
 
 4.º
 
 Incentivo final
 
 O incentivo final será constituído pelo somatório dos subsídios reembolsáveis, dos subsídios a fundo perdido e das bonificações de juro.
+
+> Alterado pelo/a [Despacho Normativo n.º 22/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1999-532064), publicado em 1999-04-26.

@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "O 4.º da Portaria n.º 210/90 revoga o n.º 3.º, o mesmo a que o seu 1.º acaba de dar nova redação; a contradição indica gralha quanto ao número revogado, pelo que a revogação não foi aplicada.",
+  "nao_aplicavel": "Portaria n.º 210/90, 4.º: «É revogado o n.º 3.º da Portaria n.º 242/89» contradiz o 1.º do mesmo diploma, que dá nova redação a esse mesmo n.º 3.º; o alvo da revogação é ambíguo (provável lapso) e aplicá-la apagaria a redação dada no mesmo ato, por isso não se aplica. Os n.os 2.º e 3.º da Portaria n.º 210/90 fixam prazos só para o ano de 1990 e não alteram o texto do original.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 3.º (unidade 9), aplicada.",
-    "Alterador 1, 2.º e 3.º: prazos de inscrição e reclamação para 1990, normas autónomas; nada a mudar.",
-    "Alterador 1, 4.º: revoga o n.º 3.º, contraditório com o 1.º; não aplicado."
+    "Portaria 210/90, 1.º: nova redação do n.º 3.º com alíneas a) e b); substituída a unidade 9.",
+    "Portaria 210/90, 2.º e 3.º: prazos de inscrição e de reclamação para o corrente ano; regras autónomas e temporárias, não aplicadas.",
+    "Portaria 210/90, 4.º: revogação do n.º 3.º contraditória com o 1.º (reparo do verificador ponderado); não aplicada, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

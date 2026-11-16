@@ -6,6 +6,12 @@
       "ate": 6,
       "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Encarnação, município de Mafra, com a área de 1612,6890 ha.",
       "alterador": 1
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 1
     }
   ],
   "insercoes": [
@@ -15,14 +21,12 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: o n.º 6.º passa a obrigar a manter apenas um guarda florestal auxiliar, mas sem nova redação textual; não aplicado ao texto. Alteradores 2 (suspensão da caça), 3 (renovação com nova área e planta) e 4 (anexação de prédios) não dão nova redação ao texto do original; plantas só em imagem.",
+  "nao_aplicavel": "Portaria n.º 564/2003 (alterador 2): suspensão temporária do exercício da caça até à renovação (depois revogada pela Portaria n.º 408/2004); Portaria n.º 408/2004 (alterador 3): renovação por 12 anos com a área de 1344 ha; Portaria n.º 1312/2007 (alterador 4): anexação de prédios (área total 1482 ha) e regra própria sobre o fim da concessão em áreas classificadas; nenhuma dá nova redacção nem adita texto ao original, não são alterações textuais e ficam por aplicar.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 1.º; substituída a unidade 6 mantendo o número 1.º",
-    "Alterador 1, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6",
-    "Alterador 1, 2.º: redução para um guarda no n.º 6.º sem texto novo; não aplicada",
-    "Alterador 2: suspensão do exercício da caça; não textual, ignorada",
-    "Alterador 3: renovação da concessão por 12 anos com área de 1344 ha; não textual, ignorada",
-    "Alterador 4: anexação de prédios; não textual, ignorada"
+    "Alterador 1 (Portaria 878/97), 1.º: nova redacção do n.º 1.º (1612,6890 ha), unidade 6.",
+    "Alterador 1, 1.º: aditado o n.º 1.º-A (inserção depois da unidade 6).",
+    "Alterador 1, 2.º: o n.º 6.º passa a obrigar a manter um guarda florestal auxiliar dotado de meio de transporte; trocada a frase na unidade 12 com o texto letra a letra do alterador (reparo confirmado).",
+    "Alteradores 2, 3 e 4: suspensão, renovação e anexação sem texto de redacção para o original; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

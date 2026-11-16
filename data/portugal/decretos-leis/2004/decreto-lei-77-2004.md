@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-05-01'
+version_history:
+  file: decreto-lei-77-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-05-01'
+    amending: pt:dre:520987:por
+    amending_title: Decreto-Lei n.º 141/2007
+    changes:
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/77/2004/03/31/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:47:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 141/2007. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2004/decreto-lei-77-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -270,125 +287,21 @@ Artigo 29.º
 
 ###### Artigo 2.º — Alteração da designação do IFT para ITP
 
-1 - O Instituto de Financiamento e Apoio ao Turismo, abreviadamente designado como IFT, cujos Estatutos foram aprovados pelo [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), de 10 de Agosto, passa a denominar-se por Instituto de Turismo de Portugal, abreviadamente designado como ITP.
+(Revogado.)
 
-2 - As referências feitas ao IFT na legislação ou em actos ou contratos e outros instrumentos legais passam a ser entendidas como feitas ao ITP.
-
-3 - O ITP sucede ao IFT na titularidade de todos os bens, direitos e obrigações.
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 3.º — Transferências do ICEP
 
-O ITP sucede ao ICEP na titularidade de todos os direitos e obrigações correspondentes às atribuições e competências que, em matéria de turismo, são objecto de transferência através do presente decreto-lei.
+(Revogado.)
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 4.º — Alterações ao [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), de 10 de Agosto
 
-Os artigos 1.º, 3.º, 4.º, 5.º e 8.º dos Estatutos do Instituto de Turismo de Portugal, aprovados pelo [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), de 10 de Agosto, passam a ter a seguinte redacção:
+(Revogado.)
 
-«Artigo 1.º
-
-[...]
-
-1 - O Instituto de Turismo de Portugal, adiante designado por ITP, é um instituto público dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.
-
-2 - ...
-
-Artigo 3.º
-
-[...]
-
-O ITP tem a sua sede em Lisboa, podendo dispor de escritórios, delegações, centros de informação e outras formas de representação em qualquer local do território nacional, a criar por despacho do Ministro da Economia, precedido de proposta do conselho directivo.
-
-Artigo 4.º
-
-[...]
-
-O ITP tem por objecto o apoio ao fortalecimento, modernização e desenvolvimento das estruturas empresariais, a promoção do desenvolvimento de infra-estruturas e investimento no sector do turismo, bem como a promoção interna e externa de Portugal como destino turístico.
-
-Artigo 5.º
-
-[...]
-
-1 - Para a realização do seu objecto estatutário, são atribuições do ITP:
-
-a) Colaborar no estudo e definição de medidas de natureza financeira e de apoio às estruturas empresariais para o sector do turismo;
-
-b) Promover a execução das medidas de política económica que se enquadrem no âmbito das suas atribuições;
-
-c) Assegurar a gestão dos sistemas de incentivos nos termos da legislação em vigor;
-
-d) Prestar apoio técnico e financeiro, directa ou indirectamente, às empresas do sector do turismo;
-
-e) Promover a criação de novas empresas, quando tal promoção contribua para o desenvolvimento do turismo;
-
-f) Cooperar com outras entidades públicas ou privadas, bem como participar em sociedades, institutos, associações ou outras entidades, quando tal participação contribua para o desenvolvimento do turismo;
-
-g) Aprovar e acompanhar o investimento público consignado às autarquias locais através da afectação das contrapartidas financeiras pela criação das zonas de jogo;
-
-h) Apoiar a definição e a realização de estratégias de desenvolvimento turístico assim como a montagem, por parte das entidades ou empresas, de projectos de investimento nas áreas de vocação turística do País;
-
-i) Estimular o desenvolvimento empresarial, visando o reforço da competitividade e da produtividade das empresas turísticas portuguesas;
-
-j) Promover e divulgar interna e externamente Portugal como destino turístico;
-
-l) Proceder ao estudo da evolução e tendência dos mercados, nomeadamente a actuação dos países concorrentes, o comportamento e tendências da procura, a atractividade de Portugal e da oferta portuguesa;
-
-m) Disponibilizar informação estratégica e operacional ao sector turístico, nomeadamente em matéria de mercados e fluxos turísticos nacionais e internacionais;
-
-n) Promover e apoiar a requalificação e desenvolvimento de novos produtos e destinos turísticos regionais.
-
-2 - Para a realização do seu objecto estatutário, o ITP pode:
-
-a) ...
-
-b) ...
-
-c) ...
-
-d) ...
-
-e) ...
-
-f) ...
-
-g) ...
-
-h) ...
-
-i) ...
-
-j) ...
-
-l) ...
-
-m) ...
-
-n) Proceder ao estudo e prospecção de mercados, detectar oportunidades de negócio, observar o comportamento da concorrência e identificar canais de comercialização e de distribuição;
-
-o) Desenvolver ou participar em acções específicas no âmbito da informação e promoção da marca turística Portugal, dos seus produtos e marcas regionais;
-
-p) Apoiar a instalação de empresas portuguesas do sector do turismo no estrangeiro e a presença das mesmas em canais de comercialização e distribuição internacional;
-
-q) Cooperar com quaisquer entidades portuguesas envolvidas na negociação de acordos de cooperação económica no domínio do turismo, bem como no acompanhamento da respectiva execução.
-
-3 - A associação a que se refere a alínea c) do número anterior pode incluir a delegação nas outras entidades das competências de gestão relativa aos financiamentos concedidos, mediante autorização concedida nos termos legais.
-
-4 - O exercício das competências previstas nas alíneas h) e l) do n.º 2 do presente artigo carece de autorização a conceder por despacho do Ministro da Economia.
-
-5 - ...
-
-6 - Quando se mostrar imprescindível para a prossecução das respectivas atribuições, o ITP pode constituir ou participar em entidades de direito privado, a que se refere a alínea f) do número anterior, mediante autorização dos Ministros das Finanças e da Economia.
-
-Artigo 8.º
-
-Conselho directivo
-
-1 - O conselho directivo é o órgão dirigente do ITP composto por um presidente, um ou dois vice-presidentes e no máximo três vogais, nomeados por resolução do Conselho de Ministros, sob proposta do Ministro da Economia.
-
-2 - O número de elementos que integram o conselho directivo do ITP não pode ser superior a cinco.
-
-3 - Os membros do conselho directivo do ITP podem exercer, em acumulação, mas sem acréscimo de remuneração, funções de presidente, de vice-presidente ou de vogal do conselho directivo do ICEP, devendo os termos da acumulação constar do instrumento de nomeação.
-
-4 - Os membros do conselho directivo do ITP podem exercer, como actividade derivada do cargo que ocupam ou por inerência, funções em pessoas colectivas participadas pelo ITP, bem como funções não executivas em outras pessoas colectivas, mediante autorização do Ministro da Economia.»
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
 
 ###### Artigo 5.º — Normas transitórias
 

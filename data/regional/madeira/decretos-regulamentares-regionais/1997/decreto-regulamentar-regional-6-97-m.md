@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-03-22'
+version_history:
+  file: decreto-regulamentar-regional-6-97-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-03-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-03-22'
+    amending: pt:dre:515272:por
+    amending_title: Decreto Regulamentar Regional n.º 12/2000/M
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/6/1997/03/17/m/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    12/2000/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-6-97-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -309,15 +325,17 @@ d) Gabinete de Assuntos Comunitários e Relações Internacionais.
 
 ##### SUBSECÇÃO IV
 
-###### Artigo 11.º
-
-Órgãos de apoio logístico
+###### Artigo 11.º — Órgãos de apoio logístico
 
 Os órgãos de apoio logístico são os seguintes:
 
-a) Repartição dos Serviços Administrativos;
+a) Departamento dos Serviços Administrativos;
 
-b) Repartição de Aquisições e Manutenção.
+b) Departamento de Aquisições e Manutenção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.
 
 ### CAPÍTULO III — Pessoal
 

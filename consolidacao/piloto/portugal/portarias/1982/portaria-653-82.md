@@ -7,9 +7,9 @@ consolidacao:
     pelo LLM), sem valor oficial'
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:399447:por
-    title: Portaria n.º 731/84
-    publication_date: '1984-09-20'
+  - id: pt:dre:376470:por
+    title: Portaria n.º 942/82
+    publication_date: '1982-10-07'
   - id: pt:dre:377331:por
     title: Portaria n.º 1075/82
     publication_date: '1982-11-17'
@@ -59,9 +59,7 @@ b) Compete-lhe, nomeadamente:
 
 5) Elaborar um mapa dos créditos reclamados em que estes sejam graduados em conformidade com a lei geral, o qual deverá estar patente ao exame dos credores durante prazo a fixar pela comissão liquidatária;
 
-6) Submeter o relatório e contas dos exercícios de 1981 e 1982, até à extinção da empresa, bem como o inventário de todos os bens e direitos da empresa, à aprovação dos Secretários de Estado das Finanças e das Pescas, até 30 de Novembro de 1984;
-
-> Alterado pelo/a [Portaria n.º 731/84](https://diariodarepublica.pt/dr/detalhe/portaria/731-1984-399447), publicado em 1984-09-20.
+6) Submeter o relatório e contas dos exercícios de 1981 e 1982, até à extinção da empresa, bem como o inventário de todos os bens e direitos da empresa, à aprovação dos Secretários de Estado das Finanças e das Pescas, até 30 de Novembro do corrente ano;
 
 7) Realizar o activo alienando dos bens móveis, sem precedência de qualquer autorização, excepto os bens móveis sujeitos a registo, cuja alienação carece de homologação dos Secretários de Estado das Finanças e das Pescas, e cobrando os créditos da empresa;
 
@@ -97,9 +95,9 @@ c) No caso da cedência ter lugar, o Estado ficará subrogado nos direitos recla
 
 11.º Mapa dos créditos:
 
-a) Até 30 de Novembro de 1984, a comissão liquidatária apreciará as reclamações de créditos e impugnações e publicará o mapa de todos os créditos.
+a) Até 31 de Dezembro de 1982, a comissão liquidatária apreciará as reclamações de créditos e impugnações e publicará o mapa de todos os créditos.
 
-> Alterado pelo/a [Portaria n.º 731/84](https://diariodarepublica.pt/dr/detalhe/portaria/731-1984-399447), publicado em 1984-09-20.
+> Alterado pelo/a [Portaria n.º 942/82](https://diariodarepublica.pt/dr/detalhe/portaria/942-1982-376470), publicado em 1982-10-07.
 
 b) Em relação a cada crédito será discriminado o nome do credor, data da reclamação, causa do crédito e seu montante;
 

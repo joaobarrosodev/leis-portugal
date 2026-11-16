@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:366841:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Constituição e formação do Governo Provisório",
+      "texto": "1. O Governo Provisório é constituído pelo Primeiro-Ministro, que poderá gerir os negócios de um ou mais Ministérios, pelos Ministros, Secretários e Subsecretários de Estado.\n\n2. O Primeiro-Ministro é nomeado e exonerado livremente pelo Presidente da República, ouvido o Conselho da Revolução.\n\nOs restantes membros do Governo são nomeados e exonerados pelo Presidente da República, sob proposta do Primeiro-Ministro.\n\n3. As funções de todos os membros do Governo cessam com a exoneração do Primeiro-Ministro e as dos Secretários e Subsecretários de Estado com as dos respectivos Ministros.\n\n4. Poderá haver Ministros sem pasta, que desempenharão missões de natureza específica e exercerão funções de coordenação entre os Ministérios ou quaisquer outras que neles tenham sido delegadas pelo Primeiro-Ministro.\n\n5. Na ausência ou no impedimento do Primeiro-Ministro será ele substituído pelo Vice-Primeiro-Ministro que para o efeito indicar ao Presidente da República ou, na falta de tal indicação, pelo Vice-Primeiro-Ministro que for designado pelo Presidente da República, ouvido o Conselho da Revolução.\n\n6. Poderá haver um Subsecretário de Estado adjunto do Primeiro-Ministro, ao qual compete coadjuvar este nas tarefas de coordenação da actividade governamental, podendo participar, sem direito a voto, nas sessões do Conselho de Ministros.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Reparo confirmado: a Lei 10/75, art. 2.º, dá nova redação ao n.º 5 do art. 1.º da Lei Constitucional n.º 6/75 (a data de 25 de Março é a da promulgação; o mesmo diploma é citado como de 26 de Março no preâmbulo e no art. 4.º); o art. 1.º do original tem n.º 5 com o mesmo assunto: aplicado.",
+    "Lei 10/75, arts. 1.º e 3.º: normas próprias (cria os cargos de vice-primeiro-ministro; Conselho de Ministros); não alteram o texto do original.",
+    "Lei 10/75, art. 4.º: revoga o art. 4.º: já estava '(Revogado.)' pelo programa, correto; sem mudança.",
+    "Alterador 2 (DL 131/76): só invoca a Lei 6/75 como habilitação e altera um quadro de pessoal de outro diploma: ignorado."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

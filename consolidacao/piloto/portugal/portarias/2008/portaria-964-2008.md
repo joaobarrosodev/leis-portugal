@@ -19,6 +19,9 @@ consolidacao:
   - id: pt:dre:58957683:por
     title: Portaria n.º 243/2014
     publication_date: '2014-11-20'
+  - id: pt:dre:498497:por
+    title: Portaria n.º 253/2013
+    publication_date: '2013-08-07'
 ---
 
 # Portaria n.º 964/2008
@@ -429,9 +432,11 @@ i) Obras de adaptação ao regadio;
 
 j) Centrais mini-hídricas.
 
+l) Acções de estruturação fundiária associadas à implementação de aproveitamentos hidroagrícolas e ou de blocos de rega de aproveitamentos hidroagrícolas, perímetros e blocos de rega, incluindo estudo prévio, elaboração e execução do projecto, indemnizações por perda de rendimento, colocação de marcos, titulação, inscrição e registo de novos lotes.
+
 3 - Construção e equipamento das sedes das associações de beneficiários e instalações de apoio à gestão dos aproveitamentos hidroagrícolas.
 
-4 - Expropriações e indemnizações necessárias à execução das obras até ao limite de 10 % da despesa elegível total da operação.
+4 - Expropriações e indemnizações necessárias à execução das obras até 10% do valor elegível aprovado da operação.
 
 5 - Acompanhamento, assistência técnica e fiscalização das obras.
 
@@ -453,7 +458,9 @@ j) Centrais mini-hídricas.
 
 14 - Acções de dinamização da adesão ao regadio.
 
-15 - Revisões de preços decorrentes da legislação aplicável, até ao limite de 5 % do montante sujeito.
+15 - Revisões de preços decorrentes da legislação aplicável.
+
+> Alterado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
 
 ## ANEXO II — Metodologia de cálculo da valia global da operação
 

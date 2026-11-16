@@ -19,6 +19,9 @@ consolidacao:
   - id: pt:dre:601535:por
     title: Portaria n.º 147/2009
     publication_date: '2009-02-06'
+  - id: pt:dre:498497:por
+    title: Portaria n.º 253/2013
+    publication_date: '2013-08-07'
 ---
 
 # Portaria n.º 1137-B/2008
@@ -543,15 +546,15 @@ As contribuições em espécie podem constituir despesas elegíveis de acordo co
 
 1.1 - Estabilização de emergência após incêndio:
 
-a) Limpeza e desobstrução das linhas de água;
+a) Tratamento e protecção de encostas;
 
-b) Obras de correcção torrencial de pequena dimensão em linhas de escorrimento ou valas de drenagem;
+b) Tratamento de linhas de água;
 
-c) Aplicação de resíduos orgânicos;
+c) Tratamento de caminhos;
 
-d) Rompimento da camada do solo repelente à água.
+d) (Revogada.)
 
-1.2 - Reabilitação de povoamentos florestais e habitats florestais afectados por incêndio ou agentes bióticos nocivos na sequência de incêndio:
+1.2 - Reabilitação de povoamentos e habitats florestais classificados afectados por incêndio ou agentes bióticos nocivos na sequência de incêndios:
 
 a) Adensamento;
 
@@ -599,11 +602,11 @@ d) Aquisição e instalação de protecções individuais de plantas para melhor
 
 Para todas as operações são elegíveis as despesas a seguir indicadas:
 
-1.6 - Elaboração e acompanhamento da execução do projecto, incluindo a elaboração de cartografia digital, até a um limite a definir em orientações específicas da autoridade de gestão, em função da dimensão do projecto, nunca ultrapassando o montante máximo de (euro) 6000.
+1.6 - A elaboração e acompanhamento da execução do projecto de investimento, incluindo a elaboração da cartografia digital, até um limite a definir em orientações específicas da autoridade de gestão, em função da dimensão do projecto, nunca ultrapassando o montante máximo de (euro) 6000, sem IVA;
 
 1.7 - O IVA nas seguintes situações, a demonstrar por certidão da repartição de finanças:
 
-a) Regime de isenção - o IVA é totalmente elegível, com excepção dos isentos ao abrigo do artigo 53.º cujo o IVA não é considerado elegível;
+a) Regime de isenção, o IVA é totalmente elegível, quando resulte da aplicação do artigo 9.º do CIVA, excepto no caso das entidades públicas;
 
 b) Regimes mistos:
 
@@ -615,7 +618,7 @@ ii) Pro rata, o IVA é elegível na percentagem em que não for dedutível.
 
 2.1 - O IVA não poderá ser considerado elegível nas seguintes situações:
 
-a) Regime de isenção ao abrigo do artigo 53.º do CIVA;
+a) Ao abrigo dos artigos 2.º e 53.º do CIVA ou entidades públicas independentemente do regime do IVA;
 
 b) Regimes mistos:
 
@@ -629,7 +632,9 @@ c) Regime normal: o IVA não é elegível.
 
 2.3 - Juros das dívidas.
 
-2.4 - Sem prejuízo do disposto no artigo 29.º, as despesas realizadas antes da data de apresentação dos pedidos de apoio, sendo, no entanto, admitidas como elegíveis as relativas à elaboração do projecto, desde que realizadas até três meses antes da apresentação dos pedidos de apoio.
+2.4 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
 
 ## ANEXO IV — Boas práticas florestais
 
@@ -711,27 +716,21 @@ Folhosas produtoras de madeiras de elevada qualidade - 1,3.
 
 Nota. - Em povoamentos mistos que integrem folhosas produtoras de madeira de elevada qualidade, aplica-se a majoração definida quando estas espécies representem mais de 50 % da área ou da densidade do povoamento.
 
-Nos restantes casos, apenas se aplica a majoração à área ocupada pelas folhosas produtoras de madeira de elevada qualidade.
+(Revogado.)
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ## ANEXO IX — Limites máximos de apoio
 
 (a que se refere o n.º 3 do artigo 14.º)
 
-1 - Para a subacção n.º 2.3.2.1 o limite máximo de apoio é de (euro) 75 000 por beneficiário, com excepção dos seguintes casos:
+1 - O limite máximo de apoio ao investimento por subacção e por beneficiário é de (euro) 2 500 000.
 
-a) Por órgão de administração de baldios, associação de baldios, área agrupada, organismo da administração local e associação intermunicipal, (euro) 300 000;
-
-b) Por ZIF, fundo de investimento imobiliário florestal e organismo da administração central, (euro) 1 000 000.
-
-2 - Para a subacção n.º 2.3.2.2 o limite máximo de apoio ao investimento é de (euro) 75 000 por beneficiário, com excepção dos seguintes casos:
-
-a) Por órgão de administração de baldios, associação de baldios, área agrupada e organismo da administração local, (euro) 250 000;
-
-b) Por ZIF, fundo de investimento imobiliário florestal e organismo da administração central, (euro) 700 000;
-
-c) Para instalação de sistemas agro-florestais, independentemente do beneficiário, (euro) 50 000.
+2 - (Revogado.)
 
 3 - O montante máximo do prémio por perda de rendimento por ano e beneficiário é de (euro) 20 000 para agricultores a título individual ou colectivo e de (euro) 10 000 para outros beneficiários.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ## ANEXO X — Níveis dos critérios a considerar na hierarquização dos pedidos de apoio
 

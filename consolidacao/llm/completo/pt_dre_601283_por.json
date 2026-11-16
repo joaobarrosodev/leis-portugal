@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:601283:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "O prazo previsto no artigo único do [Decreto-Lei n.º 412/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1990-247050), de 31 de Dezembro, é prorrogado até 31 de Dezembro de 1993.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1 (DL 20/94), art. 1.º: elimina o adicional de 4% estabelecido no DL 21/93 para os fornecimentos em alta e média tensão e em BT com potência superior a 19,8 kVA, com efeitos a 1 de Janeiro de 1994; não dá nova redação nem revoga nenhum artigo do original (alteração não textual), por isso não se aplica ao texto.",
+  "instrucoes": [
+    "DL 20/94, art. 1.º: eliminação do adicional de 4% para certos fornecimentos — não textual, em nao_aplicavel.",
+    "Nenhuma instrução revoga o art. 1.º: o programa revogou-o mal; reposto o texto original (reparo do verificador confirmado).",
+    "DL 20/94, arts. 2.º a 4.º: dirigem-se ao adicional do DL 351/83, ao saldo do ex-FAT e à produção de efeitos; não alteram o texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

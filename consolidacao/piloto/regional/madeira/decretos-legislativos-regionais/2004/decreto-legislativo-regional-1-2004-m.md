@@ -349,7 +349,7 @@ Base I
 
 Objecto da concessão
 
-É objecto da concessão a exploração, a par da conservação e manutenção dos troços de estradas regionais e outros a elas associados, nos termos definidos no artigo 1.º do decreto legislativo regional que institui a concessão, e cria a Concessionária de Estradas VIAEXPRESSO da Madeira, S. A.
+É objeto da concessão a exploração, a par da conservação e manutenção, dos troços de estradas regionais definidos no n.º 1 do artigo 1.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro.
 
 Base II
 
@@ -363,9 +363,9 @@ Base III
 
 Vias concessionadas
 
-1 - As vias concessionadas são as que estão referidas no artigo 1.º do decreto legislativo regional e aquelas que venham, nos termos do n.º 2 dessa disposição, a ser nela integradas.
+1 - As vias concessionadas são as que estão referidas no n.º 1 do artigo 1.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro, e aquelas a que venha a ser estendida a concessão, nos termos do n.º 4 do artigo 1.º daquele diploma.
 
-2 - O contrato de concessão identificará as vias que inicialmente fazem parte da concessão, através de um mapa, o qual, se e sempre que ocorra a extensão do objecto da concessão, será obrigatoriamente actualizado.
+2 - O contrato de concessão identificará as vias que fazem parte da concessão, através de um mapa, o qual, se e sempre que ocorra a extensão do objeto da concessão, será obrigatoriamente atualizado.
 
 3 - Os limites físicos da concessão são definidos em relação às vias concessionadas que a integram pelos perfis transversais extremos das mesmas, em conformidade com os traçados definitivos constantes dos projectos oficialmente aprovados.
 
@@ -405,7 +405,7 @@ Bancos financiadores
 
 1 - As instituições de crédito, nacionais ou estrangeiras, financiadoras das actividades da concessão, e com ela relacionadas, nos termos dos contratos de financiamento que estejam identificados no contrato de concessão, constituem, para efeitos da concessão, os bancos financiadores.
 
-2 - Os bancos financiadores poderão indicar, por acordo entre eles, um elemento para a Comissão de Acompanhamento da Concessão (CAC), decorrendo o processo de nomeação de acordo com as regras a esse efeito estabelecidas no contrato de concessão.
+2 - Os bancos financiadores poderão indicar, por acordo entre eles, um elemento para a Comissão de Acompanhamento da Concessão (CAC), decorrendo o processo de nomeação de acordo com as regras para esse efeito estabelecidas no contrato de concessão.
 
 Base VIII
 
@@ -445,7 +445,7 @@ Base XII
 
 Extensão da área da concessão e aumento especial de capital social
 
-1 - O Governo Regional poderá, por deliberação sua, e com a alteração do contrato de concessão, a qual fica desde já autorizada, estender a outras vias e áreas o âmbito da presente concessão de serviço público, desde que seja realizado o aumento especial de capital social previsto nos n.os 4 e 5 do artigo 4.º do decreto legislativo regional que aprova estas bases da concessão.
+1 - O Governo Regional poderá, por deliberação sua, e com a alteração do contrato de concessão, a qual fica desde já autorizada, estender a outras vias e áreas o âmbito da presente concessão de serviço público, desde que seja realizado o aumento especial de capital social previsto nos n.os 4 e 5 do artigo 4.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro.
 
 2 - Esta prerrogativa conferida ao Governo Regional pode ser utilizada por uma ou mais vezes.
 
@@ -453,7 +453,7 @@ Base XIII
 
 Duração da concessão
 
-1 - A concessão terá a duração de 25 anos contados desde a celebração do contrato de concessão, acrescida do período que decorrer entre a entrada em vigor do decreto legislativo regional que aprova as presentes bases da concessão e a firma do contrato.
+1 - A concessão terá a duração de 25 anos contados desde a celebração do contrato de concessão, acrescida do período que decorrer entre a entrada em vigor do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro, e a firma do contrato.
 
 2 - Passados os 25 anos sobre a celebração do contrato, e sem necessidade de qualquer notificação, opera o disposto na base XLV e cessam todos os efeitos da concessão, sem prejuízo do disposto no segundo parágrafo da base XXX.
 
@@ -467,7 +467,7 @@ Pagamento à concedente
 
 1 - A concessionária pagará à concedente o valor de (euro) 250000000, nos termos e momentos definidos no contrato de concessão.
 
-2 - No caso de extensão do objecto da concessão, pode o Governo Regional exigir o pagamento de uma verba à concessionária, nos termos gerais admitidos no parágrafo anterior. Caso tal valor seja proporcional aos quilómetros de estrada concessionada, tendo por termo comparativo o troço referido na base I, bastará, para que torne uma nova obrigação da concessionária, uma simples alteração ao contrato de concessão.
+2 - No caso de extensão do objecto da concessão, deve o Governo Regional exigir o pagamento de uma nova verba à concessionária.
 
 Base XV
 
@@ -545,7 +545,7 @@ Base XXIV
 
 Conservação, manutenção e reparação das estradas concessionadas
 
-1 - Cabe à concessionária manter as estradas concessionadas em perfeito estado de utilização e conservação durante todo o período da concessão.
+1 - Cabe à concessionária manter as estradas concessionadas, durante todo o período da concessão, num estado de operacionalidade e segurança que obedeça aos padrões de qualidade fixados no contrato de concessão.
 
 2 - O contrato de concessão especificará o que se entende por padrão de qualidade mínimo da conservação, manutenção e reparação, que constitui uma obrigação essencial da concessionária, e cujo desrespeito substancial representa um caso de incumprimento grave. Cabe ao contrato de concessão estabelecer a diferença entre desrespeito substancial e não substancial e os critérios em que essa distinção se funda.
 
@@ -573,11 +573,11 @@ Base XXVII
 
 Novas construções e alterações ou modificações relevantes nas já existentes assumidas pela concessionária
 
-1 - O contrato de concessão poderá cometer à concessionária, além dos deveres de conservação e manutenção, a realização de obras novas, ou de reparações ou modificações relevantes nas já existentes. Nesse caso, o valor das obras que sejam cometidas à concessionária não poderá exceder o valor dos pagamentos à concedente previsto na base XIV. Esta relação ter-se-á de manter, se ocorrer a extensão do objecto da concessão.
+1 - Sem prejuízo do disposto no n.º 3 da presente base, não poderá ser aceite ou admitida a realização de obra nova, mas unicamente de reparações relevantes indispensáveis ao cumprimento das obrigações de conservação ou manutenção, de modo a garantir a segurança dos utentes.
 
-2 - Caso as obras sejam realizadas por qualquer das entidades parte do agrupamento, ou agrupamentos, que sejam escolhidos para participar no aumento especial de capital social não será necessário recorrer a qualquer procedimento concorrencial para as adjudicar. Caso tais obras sejam realizadas por terceiros, será aplicado o regime jurídico das empreitadas de obras públicas, na adjudicação desses trabalhos, sujeito às devidas e necessárias adaptações.
+2 - A concessionária só está obrigada à realização das reparações relevantes previstas no n.º 1, após ter acordado com a concedente as condições financeiras da respetiva execução.
 
-3 - São equiparadas a entidades parte do agrupamento todas as sociedades ou outras organizações que se encontrem ou venham a encontrar-se durante a duração do contrato de concessão em relação substancialmente idêntica à definida no n.º 4 do artigo 3.º da Directiva n.º [93/37/CEE](http://data.europa.eu/eli/dir/1993/37/oj?locale=pt), do Conselho, de 14 de Junho, relativa à coordenação dos processos de adjudicação de empreitadas de obras públicas.
+3 - No caso de extensão do objeto da concessão, nos termos previstos nas presentes bases, a concessionária poderá receber, por meio de cessão da posição contratual da respetiva entidade pública contratante, o encargo de executar obra nova, desde que tenha sido respeitado pela entidade cedente o procedimento pré-contratual legalmente estabelecido, e com a consequência de ser o valor dos pagamentos assumidos pela concessionária deduzido à verba prevista na base xiv.
 
 Base XXVIII
 
@@ -800,3 +800,5 @@ Contrato de concessão
 1 - O contrato de concessão, que respeitará o conteúdo destas bases, as desenvolverá e executará, e com elas se conformará, é o instrumento jurídico nuclear da concessão, e reunirá tanto o que aqui se dispõe como o que, em benefício do interesse público, conste da declaração de intenções do(s) agrupamento(s) que venha(m) a integrar o corpo accionista da VIAEXPRESSO, aí incluídas as possibilidades, os limites e as modalidades de alteração futura do título contratual.
 
 2 - O contrato de concessão especificará, nomeadamente, os termos em que poderá ocorrer a sua redução voluntária, a extinção ou caducidade por motivos que transcendam a vontade das partes, a revogação por mútuo acordo e a subsistência do vínculo contratual, mesmo que alguma, ou algumas, das suas cláusulas venham a ser judicialmente declaradas inválidas.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 9/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-73766217), publicado em 2016-03-03.

@@ -9,12 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 825/2000): anexação e desanexação de prédios (área total 1649,73 ha) sem alteração textual do original. Alteradores 3 e 4 (Portarias n.os 1132/2007 e 1140/2007): extinção parcial da zona de caça quanto a certos prédios, sem alteração textual do original.",
+  "nao_aplicavel": "Alterador 2 (Portaria 825/2000: anexação e desanexação de prédios, área total 1649,73 ha) e alteradores 3 e 4 (Portarias 1132/2007 e 1140/2007: extinção parcial da zona de caça): não dão nova redacção a nenhum número da Portaria 111/99; não aplicados ao texto (o n.º 1.º fica com a área de 1406,25 ha da redacção dada pela Portaria 1093/99).",
   "instrucoes": [
-    "Alt. 1: nova redação do n.º 1.º (área 1406,25 ha) — substituída a unidade 8, mantendo o prefixo 1.º",
-    "Alt. 2: anexação/desanexação de prédios, não textual — não aplicada",
-    "Alt. 3: extinção parcial da zona de caça, não textual — não aplicada",
-    "Alt. 4: extinção parcial da zona de caça, não textual — não aplicada"
+    "Alterador 1 (Portaria 1093/99): nova redacção do n.º 1.º (área 1406,25 ha); substituída a unidade 8, mantendo o número 1.º.",
+    "Alterador 2 (Portaria 825/2000): anexação/desanexação sem nova redacção; nao_aplicavel.",
+    "Alteradores 3 e 4 (Portarias 1132/2007 e 1140/2007): extinção parcial sem nova redacção; nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

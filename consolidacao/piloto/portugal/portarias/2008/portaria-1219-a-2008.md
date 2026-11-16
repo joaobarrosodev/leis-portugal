@@ -165,14 +165,18 @@ O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Out
 
 ## ANEXO
 
-1 - O valor das comissões é fixado de acordo com a seguinte tabela:
+1 - O valor das comissões para emissões denominadas em euros é fixado de acordo com a seguinte tabela:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06200/0147801479.pdf)
 
 2 - O spread do credit default swap relevante a que se refere o número anterior é calculado de acordo com a seguinte tabela:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06200/0147801479.pdf)
 
 3 - Para efeitos do cálculo do spread do credit default swap relevante a que se refere a alínea a) do número anterior, cabe ao Banco de Portugal determinar se a instituição de crédito em questão dispõe de informação de credit default swap representativa.
 
 4 - Para efeitos do cálculo do spread do credit default swap relevante a que se refere a alínea b) do n.º 2, pode o Banco de Portugal, após avaliação fundamentada e se necessário, adaptar o valor do spread do credit default swap relevante.
+
+5 - O valor da comissão para títulos denominados em moeda distinta do euro considera o procedimento de cálculo previsto nos números anteriores, ao qual será acrescido um custo associado ao risco cambial.
+
+> Alterado pelo/a [Portaria n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/portaria/80-2012-553953), publicado em 2012-03-27.

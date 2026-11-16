@@ -4,25 +4,24 @@
     {
       "de": 6,
       "ate": 6,
-      "alterador": 2,
-      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Loures, com a área de 1948,5940 ha."
+      "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia e município de Loures, com a área de 1948,5940 ha.",
+      "alterador": 2
     }
   ],
   "insercoes": [
     {
       "depois_de": 6,
-      "alterador": 2,
-      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo."
+      "texto": "1.º-A Exceptuam-se do número anterior as áreas não submetidas ao regime cinegético especial, devidamente assinaladas na planta em anexo.",
+      "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2 (Portaria 1147/97), n.º 2.º: reduz para um o número de guardas do n.º 6.º sem dar nova redação (alteração não textual); alterador 3 (Portaria 765/2000), n.º 2.º: fiscalização por dois guardas, sem nova redação do n.º 6.º; anexações/desanexações e áreas totais dos alteradores 3 a 8, suspensão do alterador 1 (revogada pelo alterador 2) e renovação do alterador 7 não são alterações textuais; plantas só em imagem.",
+  "nao_aplicavel": "Sem redacção literal para o original: Portaria 982/97 (suspensão da actividade cinegética por 180 dias, revogada depois pela 1147/97, 3.º); Portaria 1147/97, 2.º (o n.º 6.º passa a obrigar a um só guarda, sem nova redacção do texto) e Portaria 765/2000, 2.º (fiscalização por dois guardas, um com transporte), não textuais; anexações e desanexações de prédios e novas áreas totais (765/2000, 1.º; 821/2002; 1253/2002; 526/2005, 1.º; 1597/2007, 2.º e 3.º; 1240/2009, 2.º) e renovação por 12 anos (1597/2007, 1.º): não dão nova letra aos n.os 1.º, 2.º ou 8.º, não se inferem.",
   "instrucoes": [
-    "Alterador 1 (Portaria 982/97): suspende a atividade cinegética, sem alteração textual; foi revogada pelo alterador 2. Nada aplicado.",
-    "Alterador 2 (Portaria 1147/97), n.º 1.º: nova redação do n.º 1.º (unidade 6, substituída) e aditamento do n.º 1.º-A (inserido depois da unidade 6); n.º 2.º altera o número de guardas do n.º 6.º sem nova redação: nao_aplicavel.",
-    "Alterador 3 (Portaria 765/2000): anexação de prédios e dois guardas, sem nova redação: nao_aplicavel.",
-    "Alteradores 4, 5, 6 (Portarias 821/2002, 1253/2002, 526/2005): desanexação/anexações de prédios, sem alteração textual.",
-    "Alterador 7 (Portaria 1597/2007): renovação e anexação, sem alteração textual.",
-    "Alterador 8 (Portaria 1240/2009): desanexação e anexação, sem alteração textual."
+    "Portaria 982/97 (alterador 1): suspende a actividade cinegética por 180 dias; não textual, revogada pela 1147/97: nao_aplicavel.",
+    "Portaria 1147/97 (alterador 2), 1.º: nova redacção do n.º 1.º; substituída a unidade 6 mantendo o número '1.º'.",
+    "Portaria 1147/97, 1.º (2.º parágrafo): aditado o n.º 1.º-A, inserido a seguir à unidade 6.",
+    "Portaria 1147/97, 2.º: n.º 6.º passa a obrigar a um só guarda, sem redacção literal: nao_aplicavel; reparo confirmado, o n.º 6.º fica igual (a 765/2000, 2.º, volta a dois guardas, também sem redacção literal).",
+    "Portarias 765/2000, 821/2002, 1253/2002, 526/2005, 1597/2007 e 1240/2009: anexações/desanexações, áreas totais e renovação, sem instrução textual sobre o original: nao_aplicavel (reparo confirmado como não textual)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

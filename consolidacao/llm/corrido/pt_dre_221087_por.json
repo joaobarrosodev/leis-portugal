@@ -9,8 +9,8 @@
     },
     {
       "de": 34,
-      "ate": 35,
-      "texto": "1 - A classificação final de cada curso é a média artimética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o respectivo plano de estudos.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n3 - A classificação final do ramo de Formação Educacional é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.",
+      "ate": 34,
+      "texto": "1 - A classificação final de cada curso é a média artimética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o respectivo plano de estudos.",
       "alterador": 1
     }
   ],
@@ -22,17 +22,17 @@
     },
     {
       "depois_de": 35,
-      "texto": "5.º-A\n\nEstágio do ramo de Formação Educacional\n\nO estágio pedagógico do ramo de Formação Educacional, bem como a admissão ao mesmo, são regulados pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pelas Portarias n.º 791/80, de 6 de Outubro, 176/83, de 2 de Março, e 494/84, de 23 de Julho.",
+      "texto": "3 - A classificação final do ramo de Formação Educacional é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.\n\n5.º-A\n\nEstágio do ramo de Formação Educacional\n\nO estágio pedagógico do ramo de Formação Educacional, bem como a admissão ao mesmo, são regulados pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pelas Portarias n.º 791/80, de 6 de Outubro, 176/83, de 2 de Março, e 494/84, de 23 de Julho.",
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, 1.º, n.º 2: os quadros do anexo I passam a ter a redação dos quadros anexos ao alterador, que só vêm em imagem; não aplicado.",
+  "nao_aplicavel": "Alterador 1, 1.º, n.º 2: os quadros do anexo I passam a ter a redacção dos quadros anexos à Portaria 992/89; o anexo I não está no texto do original (só a ligação ao documento original) e os quadros novos não vêm em texto no alterador; não aplicado.",
   "instrucoes": [
-    "Alterador 1, 1.º, n.º 1: nova redação do n.º 2.º (epígrafe 'Ramos', corpo e alíneas); substituídas as unidades 10 a 14, mantendo a unidade 9 ('2.º').",
-    "Alterador 1, 1.º, n.º 1: nova redação do n.º 5.º; epígrafe igual (unidade 33 mantida), corpo substituído nas unidades 34 a 35 com o novo n.º 3.",
-    "Alterador 1, 1.º, n.º 2: quadros do anexo I em imagem; não aplicado (ver nao_aplicavel).",
-    "Alterador 1, 2.º: aditados os n.os 2.º-A (depois da unidade 14) e 5.º-A (depois da unidade 35).",
-    "Alterador 1, 3.º a 5.º: normas próprias do alterador (aplicação, transição, vigência); nada a aplicar."
+    "Alterador 1, 1.º n.º 1: nova redacção do n.º 2.º (epígrafe Ramos, corpo e alíneas a) a c)); substituídas as unidades 10 a 14 (o número 2.º fica).",
+    "Alterador 1, 1.º n.º 1: nova redacção do n.º 5.º; muda o n.º 1 (unidade 34), o n.º 2 e a epígrafe ficam iguais, o n.º 3 novo vai a seguir à unidade 35.",
+    "Alterador 1, 1.º n.º 2: quadros do anexo I; nao_aplicavel (reparo confirmado, mas o anexo e os quadros não estão em texto).",
+    "Alterador 1, 2.º: aditados os n.os 2.º-A (a seguir à unidade 14) e 5.º-A (a seguir à unidade 35, depois do novo n.º 3 do 5.º).",
+    "Alterador 1, 3.º a 5.º: aplicação, transição e vigência do próprio alterador; sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

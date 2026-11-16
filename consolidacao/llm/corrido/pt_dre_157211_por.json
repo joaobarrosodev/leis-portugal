@@ -15,14 +15,13 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 1 (Portaria n.º 1009/97) só suspende a actividade cinegética e foi revogado pelo alterador 2; alterador 3 (Portaria n.º 295/99) anexa um prédio (área total 2289,1760 ha) por planta, sem nova redacção do texto; alterador 4 (Portaria n.º 663/2006) renova a concessão (2333 ha), sem alteração textual. Não são alterações textuais do original.",
+  "nao_aplicavel": "Alterador 1 (Portaria 1009/97): suspensão temporária da actividade cinegética, não textual (revogada pelo alterador 2). Alterador 3 (Portaria 295/99): anexa um prédio de 130 ha e diz que a zona fica com 2289,1760 ha, sem nova redacção do n.º 1.º. Alterador 4 (Portaria 663/2006): renova a concessão por 12 anos com 2333 ha, com efeitos a 17 de Junho de 2006, sem nova redacção dos n.os 1.º ou 2.º. Reparos vistos: mudar a área ou o prazo seria inferir uma redacção que nenhuma instrução dá por escrito.",
   "instrucoes": [
-    "Alt. 1: suspensão da actividade cinegética por 180 dias — não textual, não aplicada.",
-    "Alt. 2, 1.º: nova redacção do n.º 1.º — substituída a unidade 9, mantendo o número 1.º.",
-    "Alt. 2, 1.º: aditado n.º 1.º-A — inserido depois da unidade 9.",
-    "Alt. 2, 2.º-4.º: manutenção de direitos, revogação da Portaria 1009/97, vigência — não dirigidas ao texto.",
-    "Alt. 3: anexação de prédio por planta — não textual.",
-    "Alt. 4: renovação da concessão — não textual."
+    "Alterador 1 (Portaria 1009/97): suspensão por 180 dias; não textual.",
+    "Alterador 2 (Portaria 1053/97), 1.º: nova redacção do n.º 1.º (2159,1760 ha); unidade 9 substituída, mantendo o número 1.º.",
+    "Alterador 2, 1.º, 2.ª parte: aditado o n.º 1.º-A; inserido depois da unidade 9.",
+    "Alterador 3 (Portaria 295/99): anexação de prédio, sem redacção; não aplicado.",
+    "Alterador 4 (Portaria 663/2006): renovação, sem redacção; não aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -826,7 +826,9 @@ O pagamento das ajudas é efectuado pela IFADAP nos termos do contrato ou da con
 
 ## ANEXO I — (a que se referem o n.º 1 do artigo 29.º e o n.º 2 do artigo 30.º)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/03/071b00/13211325.pdf)
+
+> Alterado pelo/a [Portaria n.º 200/98](https://diariodarepublica.pt/dr/detalhe/portaria/200-1998-197728), publicado em 1998-03-25.
 
 ## ANEXO II — (a que se refere o artigo 41.º, n.º 2)
 
@@ -838,10 +840,10 @@ O pagamento das ajudas é efectuado pela IFADAP nos termos do contrato ou da con
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
 
-## ANEXO IV — Agrupamento de Defesa Sanitária
+## ANEXO IV — Agrupamentos de defesa sanitária
 
-[artigo 73.º, n.º 2, alínea c)]
+[a que se refere a alínea b) do artigo 73.º]
 
-Despesas de funcionamento
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/170b00/37823783.pdf)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/09/211b01/00240032.pdf)
+> Alterado pelo/a [Portaria n.º 560/97](https://diariodarepublica.pt/dr/detalhe/portaria/560-1997-144614), publicado em 1997-07-25.

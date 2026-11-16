@@ -10,19 +10,23 @@
     {
       "chave": "9.º",
       "epigrafe": "",
-      "texto": "Este decreto-lei entra em vigor em 9 de Setembro de 1974.\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.\n\nPromulgado em 2 de Setembro de 1974.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO DE SPÍNOLA.\n\nLista a que se refere o n.º 1 do artigo 2.º\n\nTaxa sobre cada embalagem de tabaco picado ou maço de cigarros das seguintes marcas:\n\nPicados:\n\nGama ... 20$00\n\nComodoro ... 20$00\n\nCigarros sem filtro:\n\nProvisórios, com 12 ... 2$00\n\nDefinitivos, com 12 ... 2$00\n\nProvisórios, com 24 ... 4$00\n\nDefinitivos, com 24 ... 4$00\n\nLusos ... 4$00\n\nAntoninos ... 5$50\n\nSporting ... 5$50\n\nPortuguês Suave ... 5$50\n\nParis ... 5$50\n\n20-20-20 ... 5$50\n\nHigh-Life ... 5$50\n\nCigarros com filtro:\n\nAntoninos ... 8$00\n\nKart (normal) ... 8$00\n\nSagres (normal) ... 8$00\n\nSporting ... 8$00\n\nPorto (normal) ... 8$00\n\nRitz ... 8$00\n\nNegritas (normal) ... 8$00\n\nCT (normal) ... 8$00\n\nSG (normal) ... 8$00\n\nSG (ventil) ... 8$00\n\nTamariz ... 8$50\n\nSagres (longo) ... 8$50\n\nKart (longo) ... 8$50\n\nMonserrate ... 8$50\n\nMini Kayak ... 8$50\n\nPorto (gigante) ... 8$50\n\nRitz (gigante) ... 8$50\n\nCT (longo) ... 8$50\n\nSG (gigante) ... 8$50\n\nNegritas (gigante) ... 8$50\n\n2002 ... 8$50\n\nEstoril ... 11$00\n\nSintra ... 11$00\n\nKayak ... 11$00\n\nValetes ... 11$00\n\nNobel ... 11$00\n\nPlaza ... 11$00\n\nO Ministro das Finanças, José da Silva Lopes.",
+      "texto": "Este decreto-lei entra em vigor em 9 de Setembro de 1974.\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.\n\nPromulgado em 2 de Setembro de 1974.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO DE SPÍNOLA.\n\nLista a que se refere o n.º 1 do artigo 2.º\n\nPicados:\n\nGama ... 20$00\n\nComodoro ... 20$00\n\nCigarros sem filtro:\n\nProvisórios, com 12 ... 2$00\n\nDefinitivos, com 12 ... 2$00\n\nProvisórios, com 24 ... 4$00\n\nDefinitivos, com 24 ... 4$00\n\nLusos ... 4$00\n\nAntoninos ... 5$50\n\nSporting ... 5$50\n\nPortuguês Suave ... 5$50\n\nParis ... 5$50\n\n20-20-20 ... 5$50\n\nHigh-Life ... 5$50\n\nCigarros com filtro:\n\nAntoninos ... 8$00\n\nKart (normal) ... 8$00\n\nSagres (normal) ... 8$00\n\nSporting ... 8$00\n\nPorto (normal) ... 8$00\n\nRitz ... 8$00\n\nNegritas (normal) ... 8$00\n\nCT (normal) ... 8$00\n\nSG (normal) ... 8$00\n\nSG (ventil) ... 8$00\n\nTamariz ... 8$50\n\nSagres (longo) ... 8$50\n\nKart (longo) ... 8$50\n\nMonserrate ... 8$50\n\nMini Kayak ... 8$50\n\nPorto (gigante) ... 8$50\n\nRitz (gigante) ... 8$50\n\nCT (longo) ... 8$50\n\nSG (gigante) ... 8$50\n\nNegritas (gigante) ... 8$50\n\n2002 ... 8$50\n\nEstoril ... 11$00\n\nSintra ... 11$00\n\nKayak ... 11$00\n\nValetes ... 11$00\n\nNobel ... 11$00\n\nPlaza ... 11$00\n\nO Ministro das Finanças, José da Silva Lopes.",
       "alterador": 2
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 323/75: adita n.º 4 ao art. 2.º - aplicado.",
-    "DL 713/75 art. 1.º: nova redação do art. 2.º (n.os 1 e 2 '...', n.º 3 novo) - aplicado, mantido o n.º 4 aditado pelo DL 323/75.",
-    "DL 713/75 art. 2.º: nova lista a que se refere o n.º 1 do art. 2.º - substituídas as entradas da lista (que está no corpo do 9.º).",
-    "DL 621/76: fixa taxas da Madeira em diploma próprio, sem alteração textual do original - nada aplicado."
+    "DL 323/75, artigo único: adita o n.º 4 ao artigo 2.º (isenção da taxa para o Fundo de Socorro Social, países da EFTA). O reparo do verificador (que dizia que este n.º 4 não vinha de nenhuma instrução) foi rejeitado: o aditamento está escrito no alterador 1, e o DL 713/75 não o revoga nem o elimina (a nova redação só dá os n.os 1 a 3, com «...» nos n.os 1 e 2).",
+    "DL 713/75, art. 1.º: nova redação do n.º 3 do artigo 2.º; n.os 1 e 2 mantidos.",
+    "DL 713/75, art. 2.º: a lista a que se refere o n.º 1 do artigo 2.º (no texto atual, dentro do artigo 9.º, a seguir às assinaturas) passa a ser a nova lista: fica o título «Lista a que se refere o n.º 1 do artigo 2.º», a lista antiga (com a linha «Taxa sobre cada embalagem...» e Grândola) é substituída pela nova, e a assinatura final do Ministro das Finanças fica.",
+    "DL 713/75, art. 3.º e 4.º: lucros das tabaqueiras e entrada em vigor - não alteram o original.",
+    "DL 621/76: fixa as taxas da Madeira em lista própria (o decreto do n.º 2 do artigo 2.º); não dá nenhuma instrução de alteração ao texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

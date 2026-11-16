@@ -15,12 +15,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "O n.º 3 da RCM 88/2008 (o INR, I. P., passa a fazer o acompanhamento técnico do PAIPDI) é uma determinação sem alteração textual expressa do n.º 3 do original, por isso não foi aplicado ao texto.",
+  "nao_aplicavel": "Alterador 1, n.º 3: determina que o organismo de acompanhamento técnico permanente passa a ser o INR, I. P., mas não dá nova redação ao n.º 3 da resolução nem ao n.º 4.2 do anexo (que continuam a referir o Secretariado Nacional); alteração não textual, não aplicada. O título do anexo do alterador (DEFICIÊNCIAS E OU INCAPACIDADES) e a designação do Plano no n.º 1 não são objeto de nenhuma instrução de nova redação; não alterados.",
   "instrucoes": [
-    "Alterador 1 (RCM 88/2008) n.º 1: a parte II do Plano passa a ter o teor do anexo — substituídas as unidades 79 a 266 (conteúdo da parte II, mantendo a unidade 78 'Parte II') pelo novo texto.",
-    "Alterador 1 n.º 2: nova redação do último parágrafo do n.º 4.1 da parte I — substituída a unidade 73.",
-    "Alterador 1 n.º 3: INR, I. P., passa a ser o organismo de acompanhamento — não textual, não aplicado.",
-    "O novo título do anexo ('DEFICIÊNCIAS E OU INCAPACIDADES') não é objeto de instrução expressa — título não alterado."
+    "Alterador 1, n.º 1: a parte II do Plano passa a ter o teor do anexo — substituídas as unidades 79 a 266 (do Capítulo I ao fim do Capítulo II) pelo texto da parte II do anexo; a unidade 78 (Parte II) fica.",
+    "Alterador 1, n.º 2: nova redação do último parágrafo do n.º 4.1 da parte I — substituída a unidade 73 pelo parágrafo do anexo.",
+    "Alterador 1, n.º 3: acompanhamento técnico passa ao INR, I. P. — sem texto, em nao_aplicavel (reparo confirmado).",
+    "Alterador 1, n.º 4: produção de efeitos — sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

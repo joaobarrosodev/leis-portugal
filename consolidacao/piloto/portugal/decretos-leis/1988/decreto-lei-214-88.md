@@ -13,12 +13,12 @@ consolidacao:
   - id: pt:dre:218744:por
     title: Decreto-Lei n.º 222/94
     publication_date: '1994-08-24'
-  - id: pt:dre:169460:por
-    title: Decreto-Lei n.º 39/99
-    publication_date: '1999-02-09'
   - id: pt:dre:241228:por
     title: Lei n.º 44/96
     publication_date: '1996-09-03'
+  - id: pt:dre:169460:por
+    title: Decreto-Lei n.º 39/99
+    publication_date: '1999-02-09'
   - id: pt:dre:475081:por
     title: Decreto-Lei n.º 153/95
     publication_date: '1995-07-01'
@@ -120,7 +120,7 @@ No desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei nº 38/87, 
 
 2. A sede e a composição dos tribunais de relação são as constantes do mapa V anexo ao presente diploma.
 
-###### Artigo 4.º-A — (Desdobramento de secções)
+###### Artigo 4.º-A — Desdobramento de secções
 
 1 - As secções em matéria cível, em matéria penal e em matéria social do Supremo Tribunal de Justiça e dos tribunais de relação podem desdobrar-se em subsecções.
 
@@ -136,7 +136,7 @@ Os tribunais judiciais de 1ª. instância têm a sede, composição e àrea de j
 
 > Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
-###### Artigo 6.º — (Tribunais de círculo)
+###### Artigo 6.º — Tribunais de círculo
 
 1 - Nos tribunais de círculo, o colectivo é constituído por dois juízes privativos e por um juiz designado nos termos do número seguinte, sem prejuízo do disposto no n.º 3.
 
@@ -150,7 +150,7 @@ Os tribunais judiciais de 1ª. instância têm a sede, composição e àrea de j
 
 > Aditado pelo/a [Decreto-Lei n.º 222/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1994-218744), publicado em 1994-08-24.
 
-###### Artigo 6.º-A — (Secretarias judiciais privativas)
+###### Artigo 6.º-A — Secretarias judiciais privativas
 
 1 - O expediente do tribunal de círculo, incluindo o do Ministério Público, é, em regra, assegurado por secretarias judiciais privativas.
 
@@ -172,23 +172,23 @@ Os tribunais judiciais de 1ª. instância têm a sede, composição e àrea de j
 
 > Revogado pelo/a Artigo 37.º-A do/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
-###### Artigo 9.º — (Tribunais de família e tribunais de família e menores)
+###### Artigo 9.º — Tribunais de família e tribunais de família e menores
 
 1 - Aos tribunais de família e aos tribunais de competência especializada mista de família e menores são aplicadas as regras de funcionamento previstas para os tribunais de círculo, quando, nos termos da lei de processo, funcionem como tribunais colectivos.
 
-2 - Os juizes privativos dos tribunais referidos no nº 1 são equiparados aos juízes dos tribunais de círculo.
+2. Os juizes privativos dos tribunais referidos no nº 1 são equiparados aos juízes dos tribunais de círculo.
 
 > Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
-###### Artigo 10.º — (Constituição do tribunal colectivo noutros tribunais)
+###### Artigo 10.º — Constituição do tribunal colectivo noutros tribunais
 
 1 - Nos restantes tribunais, sempre que seja admissível a constituição e funcionamento do tribunal colectivo, o Conselho Superior da Magistratura designa os juízes necessários de entre magistrados sediados na mesma comarca ou em comarca vizinha, atendendo aos critérios referidos no n.º 4 do artigo 6.º
 
-2 - Nos tribunais de trabalho de Lisboa e Porto, haverá um juiz presidente por juízo, a quem cabe o julgamento dos processos em que tenha de intervir o colectivo.
+2. Nos tribunais de trabalho de Lisboa e Porto, haverá um juiz presidente por juízo, a quem cabe o julgamento dos processos em que tenha de intervir o colectivo.
 
-3 - O juiz presidente será designado pelo Conselho Superior da Magistratura, atendendo aos critérios da classificação e antiguidade, devendo satisfazer os requisitos previstos no artigo 100º da Lei nº 38/87 e sendo equiparado a juiz de círculo.
+3. O juiz presidente será designado pelo Conselho Superior da Magistratura, atendendo aos critérios da classificação e antiguidade, devendo satisfazer os requisitos previstos no artigo 100º da Lei nº 38/87 e sendo equiparado a juiz de círculo.
 
-4 - Nos tribunais de trabalho sediados fora de Lisboa e Porto, os juízes titulares beneficiam de estatuto idêntico ao previsto no número anterior, sempre que satisfaçam os requisitos estabelecidos no artigo 100º da Lei nº 38/87.
+4. Nos tribunais de trabalho sediados fora de Lisboa e Porto, os juízes titulares beneficiam de estatuto idêntico ao previsto no número anterior, sempre que satisfaçam os requisitos estabelecidos no artigo 100º da Lei nº 38/87.
 
 > Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
@@ -202,9 +202,9 @@ Os tribunais judiciais de 1ª. instância têm a sede, composição e àrea de j
 
 São criados com competência cumulativa, nos termos do artigo 77º da Lei nº 38/87, os tribunais de pequenas causas que constam do mapa VII anexo ao presente diploma.
 
-###### Artigo 13.º — (Deslocação dos tribunais)
+###### Artigo 13.º — Deslocação dos tribunais
 
-1 - É obrigatória a deslocação do tribunal de relação, a requerimento de qualquer das partes, quando for superior a 100 km a distância entre a respectiva sede e a sede do tribunal onde deva decorrer a audiência ou sessão, em consequência da aplicação dos critérios referidos nos n.os 2 e 3 do artigo 8.º da Lei n.º 38/87, de 23 de Dezembro.
+1 - É obrigatória a deslocação do tribunal de relação, a requerimento de qualquer das partes, quando for superior a 100 km a distância entre a respectiva sede e a sede do tribunal onde deva decorrer a audiência ou sessão, em consequência da aplicação dos critérios referidos nos n.os 2 e 3 do artigo 8.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro.
 
 2 - É igualmente obrigatória a deslocação do tribunal de círculo, a requerimento de qualquer das partes, sempre que a distância entre a sede daquele tribunal e a sede da comarca onde deva decorrer a audiência for superior a 50 km.
 
@@ -216,7 +216,7 @@ São criados com competência cumulativa, nos termos do artigo 77º da Lei nº 3
 
 > Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
-###### Artigo 13.º-A — (Coadjuvação do tribunal)
+###### Artigo 13.º-A — Coadjuvação do tribunal
 
 1 - Nos casos de deslocação em consequência do disposto no artigo anterior, incumbe ao tribunal em cuja sede decorrer a sessão ou audiência fornecer os funcionários indispensáveis à coadjuvação do tribunal, bem como as instalações e demais meios materiais.
 
@@ -226,7 +226,7 @@ São criados com competência cumulativa, nos termos do artigo 77º da Lei nº 3
 
 > Aditado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
-###### Artigo 14.º — (Comparecimento pessoal e despesas de deslocação)
+###### Artigo 14.º — Comparecimento pessoal e despesas de deslocação
 
 1 - O tribunal de círculo poderá ordenar a comparência pessoal de quem residir na área do respectivo círculo judicial, do mesmo modo que o tribunal de comarca está autorizado, nos termos da lei de processo, a determinar a comparência pessoal dos residentes na área da comarca.
 
@@ -238,7 +238,7 @@ São criados com competência cumulativa, nos termos do artigo 77º da Lei nº 3
 
 > Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
-###### Artigo 14.º-A — (Âmbito de competência para a prática de actos judiciais)
+###### Artigo 14.º-A — Âmbito de competência para a prática de actos judiciais
 
 1 - O tribunal de círculo pode praticar na área da respectiva jurisdição quaisquer actos judiciais da sua competência.
 
@@ -252,11 +252,11 @@ São criados com competência cumulativa, nos termos do artigo 77º da Lei nº 3
 
 Na área de jurisdição dos círculos de Lisboa e Porto, os tribunais de comarca que deles fazem parte podem adoptar no respectivo círculo os procedimentos previstos para a prática de actos da sua competência.
 
-###### Artigo 16.º — (Presidência do tribunal para efeitos administrativos)
+###### Artigo 16.º — Presidência do tribunal para efeitos administrativos
 
-1 - Para os efeitos administrativos, a que se refere o artigo 86º da Lei nº 38/87, a presidência do tribunal é atribuída ao respectivo juíz de direito.
+1. Para os efeitos administrativos, a que se refere o artigo 86º da Lei nº 38/87, a presidência do tribunal é atribuída ao respectivo juíz de direito.
 
-2 - Para efeitos do disposto no número anterior, considera-se a presidência atribuída aos magistrados do Ministério Público, relativamente aos serviços que lhe estão afectos.
+2. Para efeitos do disposto no número anterior, considera-se a presidência atribuída aos magistrados do Ministério Público, relativamente aos serviços que lhe estão afectos.
 
 3 - Nos tribunais e nos juízos em que haja mais de um juiz de direito, a presidência para efeitos administrativos compete, por períodos bianuais, a cada juiz, começando pelo mais antigo e seguindo-se escalonadamente a ordem de antiguidade.
 
@@ -298,13 +298,13 @@ b) Na falta de juiz nas condições da alínea anterior, a substituição deve s
 
 2. Em caso de provimento efectuado nos termos do número anterior, o lugar será posto a concurso de dois em dois anos, nos movimentos judiciais, embora possa, durante esse prazo, ser requerida pelo magistrado interino a sua nomeação em comissão de serviço, desde que satisfaça os requisitos legais exigidos.
 
-###### Artigo 21.º — (Magistrados do Ministério Público)
+###### Artigo 21.º — Magistrados do Ministério Público
 
-1 - O quadro de magistrados do Ministério Público junto dos tribunais de 1ª. e 2ª. instância é o constante do mapa VIII anexo ao presente diploma.
+1. O quadro de magistrados do Ministério Público junto dos tribunais de 1ª. e 2ª. instância é o constante do mapa VIII anexo ao presente diploma.
 
-2 - Para tribunais instalados na mesma comarca há um número global de procuradores da república e de delegados do procurador da república, fazendo-se menção, neste caso, dos que podem ser afectos a tribunais do trabalho.
+2. Para tribunais instalados na mesma comarca há um número global de procuradores da república e de delegados do procurador da república, fazendo-se menção, neste caso, dos que podem ser afectos a tribunais do trabalho.
 
-3 - Sem prejuízo da superior orientação do Procurador-Geral da República, a distribuição do serviço por procuradores da república e delegados do procurador da república faz-se por despacho do competente procurador-geral adjunto ou procurador da república, respectivamente.
+3. Sem prejuízo da superior orientação do Procurador-Geral da República, a distribuição do serviço por procuradores da república e delegados do procurador da república faz-se por despacho do competente procurador-geral adjunto ou procurador da república, respectivamente.
 
 4 - A Procuradoria-Geral da República, ponderando as necessidades de serviço, pode:
 
@@ -316,13 +316,7 @@ b) Determinar a afectação de magistrados de igual categoria, em regime de excl
 
 > Alterado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
-###### Artigo 21.º-A
-
-(Revogado.)
-
-> Aditado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
-
-###### Artigo 22.º — (Turnos de férias judiciais)
+###### Artigo 22.º — Turnos de férias judiciais
 
 1 - Para efeitos do disposto no n.º 1 do artigo 90.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, em cada círculo judicial organizam-se um ou mais turnos, que funcionam nos tribunais competentes para assegurar o serviço em causa, sendo abrangidos os magistrados que exerçam funções em tribunais com sede no círculo respectivo.
 
@@ -342,7 +336,7 @@ f) Juízes dos juízos criminais, do tribunal de pequena instância criminal, do
 
 > Alterado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
 
-###### Artigo 22.º-A — (Tribunais de turno)
+###### Artigo 22.º-A — Tribunais de turno
 
 1 - Para efeitos do disposto no n.º 2 do artigo 90.º da [Lei n.º 38/87](https://diariodarepublica.pt/dr/detalhe/lei/38-1987-305439), de 23 de Dezembro, são criados os tribunais de turno constantes do mapa X anexo ao presente diploma.
 
@@ -360,7 +354,7 @@ f) Juízes dos juízos criminais, do tribunal de pequena instância criminal, do
 
 > Aditado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
 
-###### Artigo 22.º-B — (Magistrados dos tribunais de turno)
+###### Artigo 22.º-B — Magistrados dos tribunais de turno
 
 1 - São abrangidos para efeitos de prestação de serviço em cada tribunal de turno os magistrados que exerçam funções nos tribunais com sede nas comarcas abrangidas pelo tribunal de turno.
 
@@ -380,7 +374,7 @@ c) Que abranja as restantes comarcas, um juiz e um magistrado do Ministério Pú
 
 > Aditado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
 
-###### Artigo 22.º-C — (Competência e funcionamento dos tribunais de turno)
+###### Artigo 22.º-C — Competência e funcionamento dos tribunais de turno
 
 1 - Cada tribunal de turno tem competência territorial idêntica à dos tribunais normalmente competentes para a execução do serviço urgente que tenham sede em qualquer das comarcas por ele abrangidas, independentemente do âmbito territorial da comarca e do tribunal onde se encontre instalado.
 
@@ -394,9 +388,9 @@ c) Que abranja as restantes comarcas, um juiz e um magistrado do Ministério Pú
 
 > Aditado pelo/a [Lei n.º 44/96](https://diariodarepublica.pt/dr/detalhe/lei/44-1996-241228), publicado em 1996-09-03.
 
-###### Artigo 23.º — (Juízes de instrução criminal)
+###### Artigo 23.º — Juízes de instrução criminal
 
-1 - Nas comarcas em que não haja tribunal de instrução criminal, pode o Conselho Superior da Magistratura, sempre que o movimento processual o justifique determinar a afectação de juízes de direito, em regime de exclusividade, à instrução criminal.
+1. Nas comarcas em que não haja tribunal de instrução criminal, pode o Conselho Superior da Magistratura, sempre que o movimento processual o justifique determinar a afectação de juízes de direito, em regime de exclusividade, à instrução criminal.
 
 2 - O disposto no número anterior é aplicável à comarca ou comarcas em que não se encontre sediado o tribunal de instrução criminal e se integrem na respectiva área de jurisdição.
 
@@ -410,13 +404,13 @@ c) Que abranja as restantes comarcas, um juiz e um magistrado do Ministério Pú
 
 2. Sempre que o movimento processual o justifique, podem ser destacados oficiais de justiça para apoiar o juiz de direito afecto em regime de exclusividade à instrução criminal.
 
-###### Artigo 25.º — (Informática nos tribunais)
+###### Artigo 25.º — Informática nos tribunais
 
-1 - A utilização da informática nos tribunais é desenvolvida com a cooperação do Conselho Superior da Magistratura, da Procuradoria-Geral da República, da Direcção-Geral dos Serviços Judiciários, do Gabinete de Estudos e Planeamento do Ministério da Justiça e da Direcção-Geral dos Serviços de Informática, mediante planos e acções a aprovar pelo Ministro da Justiça.
+1. A utilização da informática nos tribunais é desenvolvida com a cooperação do Conselho Superior da Magistratura, da Procuradoria-Geral da República, da Direcção-Geral dos Serviços Judiciários, do Gabinete de Estudos e Planeamento do Ministério da Justiça e da Direcção-Geral dos Serviços de Informática, mediante planos e acções a aprovar pelo Ministro da Justiça.
 
 2 - Para efeitos do disposto no número anterior, podem ser constituídas equipas de projecto integrando magistrados judiciais e do Ministério Público, funcionários de justiça e técnicos designações pelo Ministério da Justiça em regime de acumulação de funções ou em comissão de serviço, destacamento ou requisição, observadas as normas estatutárias respectivas.
 
-3 - A cooperação a prestar pela Direcção-Geral dos Serviços de Informática abrange, não só a prestação de serviços pelo seu pessoal técnico, como a utilização dos equipamentos que lhe estão afectos, sempre que tal se mostre necessário.
+3. A cooperação a prestar pela Direcção-Geral dos Serviços de Informática abrange, não só a prestação de serviços pelo seu pessoal técnico, como a utilização dos equipamentos que lhe estão afectos, sempre que tal se mostre necessário.
 
 4 - Durante a fase de estudos, trabalhos preparatórios e implantação de projectos de informática nas instituições judiciárias, incluindo os respeitantes à constituição de bases de dados jurídicas, e até final de 1999, é aplicável aos magistrados que desempenham funções nesse âmbito o disposto no artigo 19.º do presente diploma, com as devidas adaptações.
 
@@ -540,7 +534,7 @@ d) Para os 1º a 3º juízos, onde são distribuídos, os da 2a. secção do ext
 
 6. O restante pessoal é colocado sem outra formalidade, e, sem prejuízo do disposto no artigo 71º do Decreto-Lei nº 376/86, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga nos serviços para onde transitaram os processos, ficando na situação de supranumerários nos restantes casos.
 
-###### Artigo 33.º — (Tribunal de Pequena Instância Criminal de Lisboa e Porto)
+###### Artigo 33.º — Tribunal de Pequena Instância Criminal de Lisboa e Porto
 
 1 - São extintos o 2.º Juízo do Tribunal de Pequena Instância Criminal de Lisboa e o 2.º Juízo do Tribunal de Pequena Instância Criminal do Porto.
 
@@ -550,7 +544,7 @@ d) Para os 1º a 3º juízos, onde são distribuídos, os da 2a. secção do ext
 
 > Alterado pelo/a [Decreto-Lei n.º 153/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1995-475081), publicado em 1995-07-01.
 
-###### Artigo 33.º-A — (Tribunais de Pequena Instância de Almada e Vila Nova de Gaia)
+###### Artigo 33.º-A — Tribunais de Pequena Instância de Almada e Vila Nova de Gaia
 
 1 - São extintos os Tribunais de Pequena Instância Criminal de Almada e Vila Nova de Gaia.
 
@@ -656,13 +650,13 @@ e) Para o 5.º Juízo, os da 1.ª Secção do extinto 8.º Juízo.
 
 3. Transitam igualmente para o tribunal de Angra do Heroísmo o equipamento e os livros, processos, objectos e papéis, findos e pendentes, do tribunal do trabalho de Angra do Heroísmo.
 
-###### Artigo 37.º-A — (Tribunal do Trabalho de Aveiro)
+###### Artigo 37.º-A — Tribunal do Trabalho de Aveiro
 
 1 - É extinto o 2.º Juízo do Tribunal do Trabalho de Aveiro.
 
 2 - Os processos e papéis pendentes no Juízo extinto transitam para o 1.º Juízo.
 
-3 - O pessoal dos serviços extintos transita sem qualquer formalidade, e sem prejuízo do disposto no artigo 71.º do Decreto-Lei n.º 376/87, de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do Tribunal, ficando na situação de supranumerários nos restantes casos.
+3 - O pessoal dos serviços extintos transita sem qualquer formalidade, e sem prejuízo do disposto no artigo 71.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, segundo a antiguidade e desde que haja vaga para os outros serviços do Tribunal, ficando na situação de supranumerários nos restantes casos.
 
 > Aditado pelo/a [Decreto-Lei n.º 206/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1991-658224), publicado em 1991-06-07.
 
@@ -848,11 +842,11 @@ e) Para o 5.º Juízo, os da 1.ª Secção do extinto 8.º Juízo.
 
 4. O equipamento, livros, processos, objectos e papéis findos transitam igualmente para os respectivos tribunais de comarca.
 
-###### Artigo 55.º — (Entrada em funcionamento de novos tribunais ou juízos)
+###### Artigo 55.º — Entrada em funcionamento de novos tribunais ou juízos
 
-1 - Os tribunais ou juízos criados ou convertidos pelo presente diploma entram em funcionamento na data em que for determinada a respectiva instalação, por portaria do Ministro da Justiça.
+1. Os tribunais ou juízos criados ou convertidos pelo presente diploma entram em funcionamento na data em que for determinada a respectiva instalação, por portaria do Ministro da Justiça.
 
-2 - Após a instalação dos tribunais referidos no número anterior, dar-se-á cumprimento ao preceituado no n.º 1 do artigo 3.º da Lei n.º 24/90, de 4 de Agosto.
+2 - Após a instalação dos tribunais referidos no número anterior, dar-se-á cumprimento ao preceituado no n.º 1 do artigo 3.º da [Lei n.º 24/90](https://diariodarepublica.pt/dr/detalhe/lei/24-1990-573144), de 4 de Agosto.
 
 3 - O disposto no número anterior será igualmente aplicável às acções ou incidentes referidos nos artigos 144.º, 147.º, 150.º, 151.º e 153.º do Código de Processo do Trabalho, bem como à actualização das pensões, quando suscitadas em processos de acidente de trabalho já findos.
 

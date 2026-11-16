@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-05-27'
+version_history:
+  file: decreto-lei-353-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-10-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-05-27'
+    amending: pt:dre:612829:por
+    amending_title: Decreto-Lei n.º 71/89; Decreto-Lei n.º 170-A/90
+    changes:
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 24-24
+    - Altera Artigo unidades 61-61
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:43:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 71/89; Decreto-Lei
+    n.º 170-A/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-353-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +157,9 @@ Art. 5.º - 1 - O capital social é representado por acções do tipo A e do tip
 
 a) As acções do tipo A são nominativas e delas apenas podem ser titulares o Estado, pessoas colectivas de direito público ou outras entidades que, por imposição legal, devam pertencer ao sector público;
 
-b) As acções do tipo B são nominativas ou ao portador, podendo delas ser titulares entidades públicas ou privadas.
+b) As acções do tipo B são nominativas ou ao portador em regime de registo, podendo delas ser titulares entidades públicas ou privadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 71/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1989-612829), publicado em 1989-03-03.
 
 2 - São obrigatoriamente acções do tipo A:
 
@@ -158,7 +177,9 @@ c) Nenhuma entidade não pública, singular ou colectiva, no conceito definido p
 
 e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b) serão fixadas para cada operação de venda por portaria do Ministro das Finanças.
 
-2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos e são obrigatoriamente nominativas ou ao portador registadas, embora convertíveis em acções ao portador findo este prazo.
+2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de um ano.
+
+> Alterado pelo/a [Decreto-Lei n.º 170-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-a-1990-303601), publicado em 1990-05-26.
 
 3 - A alienação de acções pelo Estado deve realizar-se por transacção em bolsa de valores, com excepção da parte das acções que em cada alienação seja reservada nos termos das alíneas a) e b) do n.º 1, a qual será transaccionada mediante subscrição pública, com recurso a rateio, se tal se vier a mostrar necessário.
 
@@ -232,7 +253,9 @@ Art. 4.º - 1 - O capital social será, em qualquer momento, representado por ac
 
 a) As acções do tipo A serão nominativas e só podem ser detidas pelo Estado, por pessoas colectivas públicas ou por outras entidades que, por imposição legal, devam pertencer ao sector público;
 
-b) As acções do tipo B serão nominativas ou ao portador, podendo ser detidas por entidades públicas ou privadas.
+b) As acções do tipo B são nominativas ou ao portador em regime de registo, podendo delas ser titulares entidades públicas ou privadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 71/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1989-612829), publicado em 1989-03-03.
 
 2 - Serão obrigatoriamente do tipo A:
 

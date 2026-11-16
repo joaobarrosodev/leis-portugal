@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "A Portaria n.º 490/2001 (anexação da Herdade da Charnequinha, área 1207,7015 ha) e a Portaria n.º 438/2007 (renovação por 12 anos) alteram a zona de caça sem dar nova redação a nenhum ponto do original; não são alterações textuais.",
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 490/2001), 1.º e 2.º: anexa a Herdade da Charnequinha (82,8140 ha) e fixa a área total em 1207,7015 ha, sem nova redacção de nenhum ponto do original; alteração não textual, não aplicada. Alterador 3 (Portaria n.º 438/2007), 1.º e 2.º: renova a concessão por 12 anos com 1208 ha, com efeitos a 19 de Abril de 2007, sem nova redacção do 2.º nem de outro ponto; alteração não textual, não aplicada (o 2.º mantém 'até 18 de Abril de 2007').",
   "instrucoes": [
-    "Alt. 1: nova redação do n.º 1.º; unidade 8 substituída.",
-    "Alt. 2: anexação de prédio sem nova redação do texto: nao_aplicavel.",
-    "Alt. 3: renovação da concessão sem nova redação do texto: nao_aplicavel."
+    "Alterador 1 (Portaria n.º 197/98): nova redacção do n.º 1.º; substituída a unidade 8 pelo texto do alterador, letra a letra.",
+    "Alterador 2 (Portaria n.º 490/2001): anexação de prédio e nova área total, sem redacção literal; em nao_aplicavel (reparo confirmado).",
+    "Alterador 3 (Portaria n.º 438/2007): renovação da concessão, sem redacção literal; em nao_aplicavel (reparo confirmado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

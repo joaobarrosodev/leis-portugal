@@ -84,7 +84,7 @@ O capital social da VIAMADEIRA é de (euro) 100 000, a realizar integralmente e 
 
 ###### Artigo 8.º — Valor a pagar à Região Autónoma da Madeira
 
-O valor a pagar pela VIAMADEIRA à Região Autónoma da Madeira será satisfeito pelo pagamento dos encargos com a execução das empreitadas de obras públicas relativas à execução das vias rodoviárias constantes do artigo 3.º dos estatutos da VIAMADEIRA, que constituem o anexo i do Decreto Legislativo Regional n.º 36/2008/M, de 14 de Agosto.
+O valor a pagar pela VIAMADEIRA à Região Autónoma da Madeira será satisfeito pelo pagamento dos encargos com a execução das empreitadas de obras públicas relativas à execução das vias rodoviárias constantes do artigo 3.º dos estatutos da VIAMADEIRA, que constituem o anexo i do [Decreto Legislativo Regional n.º 36/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2008-455616), de 14 de Agosto.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2010-306666), publicado em 2010-11-30.
 
@@ -438,9 +438,7 @@ Base VII
 
 Bancos financiadores
 
-As instituições de crédito, nacionais ou estrangeiras, financiadoras das actividades da concessão, e com ela relacionadas, nos termos dos contratos de financiamento que estejam identificados no contrato de concessão, constituem, para efeitos da concessão, os bancos financiadores.
-
-Os bancos financiadores poderão indicar, por acordo entre eles, um elemento para a comissão de acompanhamento da concessão (CAC), decorrendo o processo de nomeação de acordo com as regras a esse efeito estabelecidas no contrato de concessão.
+As instituições de crédito nacionais ou estrangeiras, financiadoras das actividades da concessão, e com ela relacionadas, nos termos dos contratos de financiamento que estejam identificados no contrato de concessão, constituem, para efeitos da concessão, os bancos financiadores.
 
 Base VIII
 
@@ -490,19 +488,19 @@ Duração da concessão
 
 A concessão terá a duração de 30 anos, contados desde a celebração do contrato de concessão, acrescida do período que decorrer entre a entrada em vigor do decreto legislativo regional que aprova as presentes bases da concessão e a assinatura do contrato.
 
-Passados os 30 anos sobre a celebração do contrato, e sem necessidade de qualquer notificação, opera o disposto na base xlv e cessam todos os efeitos da concessão, sem prejuízo do disposto no 2.º parágrafo da base xxx.
+Passados os 30 anos sobre a celebração do contrato, e sem necessidade de qualquer notificação, opera o disposto na base xlv e cessam todos os efeitos da concessão, sem prejuízo do disposto no segundo parágrafo da base xxx.
 
-O contrato de concessão poderá prever soluções específicas para o caso de, na data prevista para o início da contagem do prazo dos 25 anos de concessão, não estarem totalmente disponíveis para transmissão à concessionária as vias concessionadas. Em tal eventualidade, pode o troço total ser dividido em vários, e a data de duração da concessão ser diversa conforme as secções que resultem desta operação. O objectivo dessas cláusulas do contrato de concessão é o de, sem alargar injustificadamente o prazo da concessão, também impedir que em relação a alguma secção do troço concessionado, a concessionária dela frua por um período inferior aos 25 anos.
+O contrato de concessão poderá prever soluções específicas para o caso de, na data prevista para o início da contagem do prazo dos 30 anos de concessão, não estarem totalmente disponíveis para transmissão à concessionária as vias concessionadas. Em tal eventualidade, pode o troço total ser dividido em vários, e a data de duração da concessão ser diversa conforme as secções que resultem desta operação. O objectivo destas cláusulas do contrato de concessão é o de, sem alargar injustificadamente o prazo da concessão, também impedir que em relação a alguma secção do troço concessionado, a concessionária dela frua por um período inferior aos 30 anos.
 
-No caso de se operar a extensão da área da concessão, poderão concedente e concessionária acordar sobre se se mantém o termo da concessão, nos termos definidos nos parágrafos anteriores, ou se, para a parte do objecto que corresponda à extensão, se contarão os 25 anos desde a dada da assinatura da alteração ao contrato de concessão.
+No caso de se operar a extensão da área da concessão, poderão concedente e concessionária acordar sobre se se mantém o termo da concessão, nos termos definidos nos parágrafos anteriores, ou se, para a parte do objecto que corresponda à extensão, se contarão os 30 anos desde a data da assinatura da alteração ao contrato de concessão.
 
 Base XIV
 
 Pagamento à concedente
 
-A concessionária pagará à concedente o valor de (euro) 472 600 000, nos termos e momentos definidos no contrato de concessão.
+O valor a pagar à Região Autónoma da Madeira é o que constar no contrato de concessão, e será satisfeito unicamente pelo pagamento dos encargos referentes à execução das empreitadas de obras públicas relativas à execução das vias rodoviárias constantes do artigo 3.º dos estatutos da VIAMADEIRA, que constituem o anexo i do [Decreto Legislativo Regional n.º 36/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2008-455616), de 14 de Agosto.
 
-No caso de extensão do objecto da concessão, deve o Governo Regional exigir o pagamento de uma nova verba à concessionária, sendo que tal verba, e o momento de pagamento, ou pagamentos, terá de constar da alteração ao contrato de concessão.
+Os encargos relativos à execução das empreitadas referidas no parágrafo anterior terão de perfazer o valor de (euro) 472 600 000, valor esse que será acrescido do que for determinado para a extensão do objecto da concessão entretanto produzida.
 
 Base XV
 
@@ -564,9 +562,9 @@ Base XXII
 
 Oneração de bens afectos à concessão e de acções representativas do capital social da concessionária
 
-Qualquer oneração de bens afectos à concessão é proibida, salvo acordo expresso dado pela concedente, após solicitação escrita a esse propósito, apresentada pela concessionária.
+Qualquer oneração de bens afectos à concessão é proibida, salvo acordo expresso ou tácito dado pela concedente, nos termos estabelecidos no contrato de concessão.
 
-Fica desde já autorizada a oneração de acções representativas do capital social da concessionária, para efeitos de prestação das garantias destinadas à recolha de meios financeiros necessários à execução do contrato.
+Fica desde já autorizada a oneração de acções representativas do capital social da concessionária, para efeitos de prestação de garantias destinadas à recolha de meios financeiros necessários à execução do contrato.
 
 Base XXIII
 
@@ -608,9 +606,11 @@ Base XXVII
 
 Novas construções e alterações ou modificações relevantes, nas já existentes, assumidas pela concessionária
 
-A esta concessão é aplicável o disposto no artigo 61.º da Directiva n.º [2004/18/CE](http://data.europa.eu/eli/dir/2004/18/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de Março de 2004, apesar de tal regra não implicar a mudança da natureza da concessão de serviço público para de obra pública, sendo que não poderá ser aceite ou admitida a realização de obra nova, mas unicamente de reparações relevantes indispensáveis ao cumprimento das obrigações de conservação ou manutenção, de modo a garantir a segurança dos utentes. Nestes casos, a concessionária tem de desencadear procedimento pré-contratual admissível para a situação concreta pelo regime legal de contratação pública, e só está obrigada à execução das obras após ter acordado com a concedente as condições financeiras de execução.
+A concessionária pode receber, por meio de cessão de posição contratual ou de cessão de posição jurídica da RAMEDM - Estradas da Madeira, S. A., o encargo de executar obra nova, desde que tenha sido respeitado o procedimento pré-contratual legalmente estabelecido pela entidade cedente.
 
-A concessionária poderá receber, por meio de cessão da posição contratual da RAMEDM - Estradas da Madeira, S. A., ou de outras entidades públicas, o encargo de executar obra nova, desde que tenha sido respeitado procedimento pré-contratual legalmente estabelecido pela entidade cedente, e com a consequência de ser o valor dos pagamentos assumidos pela VIAMADEIRA deduzidos das verbas previstas na base xiv.
+A RAMEDM - Estradas da Madeira, S. A., pode, ainda, desencadear procedimentos pré-contratuais e adjudicar e contratar empreitadas de obras públicas relativas à execução de vias rodoviárias que integrem, ou venham a integrar o objecto da VIAMADEIRA, considerando a extensão prevista na base iv e o disposto no artigo 3.º dos estatutos da VIAMADEIRA, que constituem o anexo i do [Decreto Legislativo Regional n.º 36/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2008-455616), de 14 de Agosto, mesmo que essas empreitadas venham a ter a sua execução cometida à VIAMADEIRA.
+
+A RAMEDM - Estradas da Madeira, S. A., tem de submeter a fiscalização prévia do Tribunal de Contas os contratos de empreitada de obra pública referidos no parágrafo anterior.
 
 Base XXVIII
 
@@ -630,7 +630,7 @@ Caução
 
 Para garantir o cumprimento das suas obrigações, a concessionária prestará caução, no montante e com os requisitos de execução incondicional que o contrato de concessão especifique.
 
-A caução terá de ser prestada em termos de ficar em vigor para além do período de vigência da concessão, sempre que qualquer obrigação no âmbito destas bases, e do contrato que as executa, se possa projectar além do prazo de 25 anos.
+A caução terá de ser prestada em termos de ficar em vigor para além do período de vigência da concessão, sempre que qualquer obrigação no âmbito destas bases, e do contrato que as executa, se possa projectar além do prazo de 30 anos.
 
 O montante da caução poderá ir sendo reduzido, sempre que haja diminuição do risco associado envolvido, nomeadamente pelo decurso do prazo da concessão, e nos termos em que o contrato de concessão o estabeleça.
 
@@ -774,31 +774,7 @@ Base XLIV
 
 Comissão de acompanhamento da concessão
 
-É instituída uma comissão de acompanhamento da concessão (CAC), que será composta por três elementos, sendo um deles o presidente, nomeado pelo membro do Governo Regional responsável pelas obras públicas, outro nomeado pela concessionária, e um terceiro pelos bancos financiadores.
-
-O processo de indigitação, nomeação, posse e revogação de mandatos, e renúncia a eles, será estabelecido e descrito no contrato de concessão.
-
-À CAC deve ser remetida, periódica e sistematicamente, a informação que lhe permita acompanhar a execução do contrato de concessão, a qualidade do serviço público concessionado, e prevenir litígios entre a concedente e a concessionária.
-
-O contrato de concessão especificará qual a informação a fornecer à CAC, bem como as modalidades do respectivo suporte, e do respectivo acesso e ou remessa.
-
-Caso ocorra um litígio entre a concedente a a concessionária, ou seja provável, face a dados objectivos, que um litígio se venha a desenvolver, a curto prazo, a CAC deverá recolher a informação precisa a esses respeito, e elaborar uma proposta de prevenção e ou resolução do conflito.
-
-As partes do contrato de concessão são livres de aceitar ou rejeitar, total ou parcialmente, as sugestões da comissão.
-
-A CAC terá reuniões ordinárias cada seis meses, e reuniões extraordinárias sempre que tal se justifique.
-
-A CAC deverá produzir um relatório anual da concessão, a apresentar até ao fim de Junho, e que se apoiará nas contas aprovadas pela assembleia geral da VIAMADEIRA.
-
-A CAC só delibera por consenso. Caso os membros da CAC não cheguem a acordo para a aprovação de dois relatórios anuais, ou de dois relatórios sobre litígios concretos, estes no espaço de doze meses seguidos, é considerada a comissão automaticamente extinta. Nessa situação, o presidente da CAC elaborará um relatório que enuncie os factos que provocaram a extinção da Comissão, e que será entregue ao Governo Regional e à concessionária.
-
-O contrato de concessão concretizará as remunerações, ajudas de custo e reembolso de despesas, a que têm direito os membros da CAC. Do contrato deverá, igualmente, constar um anexo de onde constem os nomes dos primeiros titulares da CAC.
-
-A concessionária suportará todos os custos com o funcionamento da CAC, devendo o contrato de concessão especificar os critérios de imputação objectivos, e os limites desta obrigação.
-
-Caso alguma das partes notifique a outra da sua intenção em rescindir o contrato, a Comissão só intervirá, para produzir uma sugestão concreta, caso ambas as partes o solicitem, expressamente.
-
-A CAC, contudo, deverá ser consultada na eventualidade da ocorrência da suspensão, resgate ou sequestro da concessão. Essa consulta pode ser desencadeada por qualquer das partes do contrato de concessão.
+(Revogada.)
 
 Base XLV
 
@@ -829,3 +805,5 @@ Contrato de concessão
 O contrato de concessão, que respeitará o conteúdo destas bases, as desenvolverá e executará, e com elas se conformará, é o instrumento jurídico nuclear da concessão, e reunirá tanto o que aqui se dispõe como o que, em benefício do interesse público, conste da declaração de intenções do(s) agrupamento(s) que venha(m) a integrar o corpo accionista da VIAMADEIRA, aí incluídas as possibilidades, os limites e as modalidades, de alteração futura do título contratual.
 
 O contrato de concessão especificará, nomeadamente, os termos em que poderá ocorrer a sua redução voluntária, a extinção ou caducidade por motivos que transcendam a vontade das partes, a revogação por mútuo acordo e a subsistência do vínculo contratual, mesmo que alguma, ou algumas, das suas cláusulas, venham a ser judicialmente declaradas inválidas.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 23/2010/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2010-306666), publicado em 2010-11-30.

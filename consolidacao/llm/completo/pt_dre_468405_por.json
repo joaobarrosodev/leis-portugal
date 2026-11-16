@@ -135,13 +135,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "DLR 25/2019/A, art. 12.º: a parte final («com exceção dos Estatutos aprovados em anexo ao diploma, que se mantêm em vigor até à data de conclusão do processo de extinção») adia a revogação dos Estatutos anexos para um facto futuro (a conclusão do processo de extinção); por isso os artigos 1.º a 25.º dos Estatutos e o título do anexo ficam como estão.",
   "instrucoes": [
-    "Alterador 1 (DLR 2/2007/A): sem texto que mencione o original: nada aplicado.",
-    "Alterador 2 (DLR 25/2019/A) art. 12.º: revoga o DLR 41/2003/A, com exceção dos Estatutos anexos: arts. 1.º a 22.º ficam (Revogado.); artigos do anexo mantêm-se.",
-    "Alterador 2 restantes artigos: regime de extinção da SAUDAÇOR, sem alteração textual do original."
+    "Alterador 1 (DLR 2/2007/A): sem texto de artigos dirigidos ao original; nada a aplicar.",
+    "DLR 25/2019/A, art. 12.º: revogação do DLR 41/2003/A, com exceção dos Estatutos anexos — aplicada aos artigos 1.º a 22.º do decreto (corpo «(Revogado.)», epígrafes mantidas).",
+    "Reparo ao art. 22.º confirmado: o artigo é revogado pelo art. 12.º do DLR 25/2019/A e o corpo fica só «(Revogado.)», sem restos da fórmula final.",
+    "DLR 25/2019/A, arts. 1.º a 11.º e 13.º: regulam a extinção da SAUDAÇOR e a entrada em vigor do próprio diploma; não alteram o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

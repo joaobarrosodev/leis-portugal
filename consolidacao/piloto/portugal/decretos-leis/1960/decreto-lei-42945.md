@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:678447:por
     title: Decreto-Lei n.º 284/95
     publication_date: '1995-10-30'
+  - id: pt:dre:243479:por
+    title: Decreto-Lei n.º 434-G/82
+    publication_date: '1982-10-29'
   - id: pt:dre:140560:por
     title: Decreto-Lei n.º 44331
     publication_date: '1962-05-10'
@@ -51,9 +54,11 @@ Estatuto do Cofre de Previdência das Forças Armadas
 
 ###### Artigo 3.º
 
-(Revogado.)
+O Cofre de Previdência das Forças Armadas tem por fim essencial assegurar por morte dos seus subscritores um subsídio pecuniário único, pago por uma só vez, à pessoa ou pessoas consideradas hábeis para o efeito, nos termos deste estatuto.
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+§ único. Sem prejuízo da finalidade essencial referida e quando as suas condições financeiras o permitirem, o Cofre poderá aceitar seguros de vida temporários dos seus subscritores e, bem assim, cooperar na solução dos seus problemas habitacionais e em quaisquer outras actividades destinadas a beneficiá-los, para o que elaborará os respectivos regulamentos, para aprovação do Chefe do Estado-Maior-General das Forças Armadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 434-G/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-g-1982-243479), publicado em 1982-10-29.
 
 ### CAPÍTULO II — Dos subscritores
 
@@ -61,21 +66,35 @@ Estatuto do Cofre de Previdência das Forças Armadas
 
 ###### Artigo 4.º
 
-(Revogado.)
+São hábeis para se inscreverem como subscritores do Cofre de Previdência das Forças Armadas, desde que tenham menos de 61 anos de idade, à data da inscrição:
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+a) Os oficiais, sargentos e furriéis dos quadros permanentes e as praças readmitidas, seja qual for a sua situação;
+
+b) Os oficiais e sargentos do quadro de complemento do Exército e da Força Aérea, das reservas militares e navais M e N e o pessoal civil dos quadros dos departamentos militares.
+
+§ 1.º A inscrição no Cofre é obrigatória para todos os militares que ingressem no quadro permanente, e será feita com referência ao dia 1 do mês seguinte ao da promoção ao oficialato ou ao primeiro posto na classe de sargentos, e é facultativa para os restantes militares e pessoal civil a que se refere o corpo deste artigo.
+
+§ 2.º A inscrição do pessoal a que se refere a alínea b) só poderá fazer-se: para os militares, quando se encontrem ao serviço activo depois de verem completado o tempo de serviço obrigatório; para os civis, dentro do período de um ano, a contar da data do seu ingresso no quadro.
 
 ###### Artigo 5.º
 
-(Revogado.)
+Quando se der qualquer promoção ao oficialato ou ao primeiro posto da classe de sargentos, e para cumprimento do disposto no § 1.º do artigo 4.º, as a unidades, estabelecimentos ou serviços do Exército e da Força Aérea onde estiverem colocados os novos oficiais ou sargentos, bem como a Superintendência dos Serviços da Armada, para oficiais, e o Corpo de Marinheiros, para os sargentos, enviarão imediatamente à secretaria do Cofre as folhas individuais de inscrição a que se refere o artigo 6.º
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+§ 1.º As praças readmitidas mencionadas na alínea a) do artigo 4.º, bem como os militares e civis mencionados na alínea b) do mesmo artigo, que desejarem ser inscritos no Cofre de Previdência das Forças Armadas deverão igualmente preencher folhas individuais de inscrição, que serão remetidas à secretaria do Cofre pelas vias competentes de harmonia com o disposto no corpo deste artigo.
+
+§ 2.º A inscrição dos militares e civis a que alude o § 1.º deste artigo, bem como a dos oficiais, sargentos e furriéis na situação de reserva ou reforma que à data da publicação deste estatuto ainda não sejam subscritores, ficará sempre dependente da verificação do seu estado de saúde, nos termos do § 1.º do artigo 10.º
 
 ###### Artigo 6.º
 
-(Revogado.)
+As inscrições serão feitas numa folha individual de inscrição da qual conste o nome do interessado, data do nascimento, lugar, freguesia e concelho onde nasceu, filiação, estado, data da promoção, graduação, reintegração ou nomeação e importância que deseja subscrever, tudo segundo o modelo I anexo a este estatuto.
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+§ 1.º Estes elementos serão autenticados pela autoridade de que dependa o militar ou o civil a inscrever.
+
+§ 2.º As inscrições a que se referem os artigos anteriores só se consideram efectuadas quando der entrada na tesouraria do Cofre a importância da primeira quota.
+
+2.º Dos subsídios
+
+A) Generalidades
 
 ###### Artigo 7.º
 
@@ -419,7 +438,9 @@ Reverterão para o Cofre os subsídios que não puderem ser pagos por carência 
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+1) Da direcção
+
+> Alterado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
 
 ###### Artigo 52.º
 
@@ -473,7 +494,9 @@ Reverterão para o Cofre os subsídios que não puderem ser pagos por carência 
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+2) Dos serviços
+
+> Alterado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
 
 ###### Artigo 61.º
 
@@ -545,51 +568,41 @@ Reverterão para o Cofre os subsídios que não puderem ser pagos por carência 
 
 ###### Artigo 72.º
 
-(Revogado.)
+Os actuais subscritores sujeitos ao pagamento de quotas pela tabela 5,5 por cento e 4 por cento, de harmonia com as disposições legais, continuarão sujeitos ao pagamento das mesmas quotas, salvo o disposto na alínea b) do artigo 45.º
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+§ único. A tabela D a que se refere o artigo 18.º não é aplicável aos subscritores referidos no corpo do mesmo artigo inscritos até à publicação deste estatuto, os quais continuarão obrigados ao pagamento do adicional de 1$00, salvo se aumentarem o subsídio, caso em que a tabela B passará a ser aplicada à totalidade do subsídio.
 
 ###### Artigo 73.º — transitório
 
-(Revogado.)
+As declarações dos actuais subscritores feitas ao abrigo do regime estabelecido nos Decretos n.os 14589, de 18 de Novembro de 1927, e 22199, de 15 de Fevereiro de 1933, serão cumpridas segundo o disposto no presente estatuto, se for possível e na medida em que o for; no caso contrário, serão nulas e de nenhum efeito.
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+> Alterado pelo/a [Decreto-Lei n.º 44331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44331-1962-140560), publicado em 1962-05-10.
 
 ###### Artigo 74.º — transitório
 
-(Revogado.)
+São mantidos os direitos dos actuais beneficiários de rendas vitalícias e dos subsídios em prestações, bem como os dos subscritores actuais que já tenham feito as suas declarações, transformando os subsídios para que contribuíram nalguma daquelas modalidades, de harmonia com o artigo 31.º do [Decreto n.º 22199](https://diariodarepublica.pt/dr/detalhe/decreto/22199-1933-267019), de 15 de Fevereiro de 1933, mas aplicando a tabela C anexa.
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+§ único. Enquanto existirem beneficiários aos quais aproveite o disposto neste artigo, deve figurar no passivo do balanço técnico a que se refere a alínea c) do artigo 56.º tanto a reserva matemática das rendas vitalícias calculadas por meio das tabelas CR como a importância dos depósitos constituídos para garantia do pagamento das rendas, nos termos do artigo 32.º do decreto citado no corpo deste artigo.
 
 ###### Artigo 75.º — transitório
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+É mantido em relação aos actuais subscritores e aos subsídios com que se inscreveram e aumentos de subsídios que lhes foram concedidos o disposto no artigo 10.º do [Decreto n.º 22199](https://diariodarepublica.pt/dr/detalhe/decreto/22199-1933-267019) e § único do seu artigo 27.º e no artigo 7.º do [Decreto n.º 14589](https://diariodarepublica.pt/dr/detalhe/decreto/14589-1927-679274).
 
 ###### Artigo 76.º — transitório
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+É permitido aos actuais subscritores do Cofre com mais de 60 anos de idade o aumento do subsídio, nos termos do artigo 10.º, conjugado com o artigo 13.º, desde que assim o declarem desejar, dentro do prazo de um ano, a contar da data da publicação do presente estatuto. O aumento considerar-se-á efectuado aos 61 anos incompletos, devendo o subscritor pagar de uma só vez todas as quotas em atraso, acrescidas, cada uma, do juro composto de 4 por cento ao ano.
 
 ###### Artigo 77.º — transitório
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+Os oficiais, sargentos e furriéis reintegrados nas forças armadas pelo [Decreto-Lei n.º 38267](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38267-1951-625044), de 26 de Maio de 1951, que se encontram suspensos dos seus direitos de subscritores, nos termos do artigo 23.º do Decreto-Lei n.º 22199, de 15 de Fevereiro de 1933, alterado pelo [Decreto-Lei n.º 33551](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33551-1944-399586), de 25 de Fevereiro de 1944, ou eliminados nos termos do artigo 17.º do Decreto-Lei n.º 14589, de 18 de Novembro de 1927, podem, dentro do prazo de seis meses, a contar da data da publicação do presente estatuto, readquirir os seus direitos, nos termos do artigo 23.º, mesmo que a sua idade seja superior a 60 anos.
 
 ###### Artigo 78.º — transitório
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+Ao pessoal civil dos quadros dos departamentos militares, com menos de 60 anos de idade, em serviço à data da publicação do presente estatuto é permitido inscrever-se como subscritor do Cofre, no prazo de um ano, se for considerado em condições favoráveis de saúde, nos termos prescritos no § 1.º do artigo 10.º
 
 ###### Artigo 79.º — transitório
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+Mantém-se o subsídio de 2500$00 para os actuais subscritores que não quiserem aumentá-lo.
 
 ###### Artigo 80.º — transitório
 
@@ -607,4 +620,72 @@ Reverterão para o Cofre os subsídios que não puderem ser pagos por carência 
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.
+Presidência do Conselho, 26 de Abril de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.
+
+Modelo I
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+Tabela A
+
+A que se refere o artigo 15.º
+
+Quotas mensais correspondentes a cada 1000$00 de subsídio
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+As quotas constantes desta tabela podem ser alteradas por despacho do Ministro da Defesa Nacional, mediante proposta da direcção do Cofre.
+
+Tabela B
+
+A que se refere o artigo 18.º
+
+Adicionais mensais
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+Os adicionais referidos nesta tabela podem ser modificados por despacho do Ministro da Defesa Nacional, mediante proposta da direcção do Cofre.
+
+Modelo II
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+Nota. - Na relação de cada mês devem figurar sempre os subscritores que descontaram na do mês anterior, e quando a algum deles não seja feito qualquer desconto deve ser mencionado o motivo na casa «Observações».
+
+Modelo III
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+Modelo IV
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+Nota. - No verso da folha modelo IV deverão estar transcritos o artigo 24.º e o § 4.º do artigo 30.º deste estatuto.
+
+Modelo V
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+Quadro I
+
+Pessoal ao serviço do Cofre a que se refere o artigo 62.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+Quadro II
+
+Pessoal auxiliar a que se refere o artigo 62.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+Tabela C
+
+A que se refere o artigo 74.º
+
+Rendas vitalícias anuais, correspondentes ao subsídio de 1000$00
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09700/09951006.pdf)
+
+Presidência do Conselho, 26 de Abril de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.
+
+> Alterado pelo/a [Decreto-Lei n.º 284/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447), publicado em 1995-10-30.

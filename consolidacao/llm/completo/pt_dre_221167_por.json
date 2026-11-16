@@ -14,19 +14,23 @@
       "alterador": 3
     }
   ],
-  "nao_aplicavel": "Alterações ao anexo (quadros) do DL 394/98 não aplicadas: o anexo não consta do texto atual por artigos e os quadros novos só vêm em imagem — DL 216/2004 art. 2.º n.º 2 e anexo I (novas designações de categorias, quadros III e IV), art. 3.º e anexo II (quadros VIII e IX, em imagem); DL 33/2008 art. 3.º e anexo II (E 968 Eritritol na linha E 420 a E 967); DL 94/2010 art. 5.º e anexo II (quadro X, em imagem).",
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "As alterações aos quadros do anexo não se podem aplicar ao texto: os quadros só vêm em imagem («ver quadros no documento original») e o corpo do anexo no texto atual tem apenas a Nota (n.os 1 e 2), onde não aparecem as designações nem as entradas visadas. São elas: DL 216/2004, art. 2.º, n.º 2, e anexo I, n.º 1 (novas designações de categorias de géneros alimentícios nos quadros) e n.º 2, a) (quadro III, E 951, aditada «Confeitaria - Essoblaten - 1000 mg/kg») e b) (quadro IV, E 952, 400 mg/l passa a 250 mg/l e supressão de categorias); DL 216/2004, art. 3.º e anexo II (aditamento dos quadros VIII e IX, só em imagem, e a sua nota); DL 33/2008, art. 3.º e anexo II (E 968 «Eritritol» na linha E 420 a E 967); DL 94/2010, art. 5.º e anexo II (aditamento do quadro X, só em imagem).",
   "instrucoes": [
-    "DL 216/2004 art. 2.º n.º 1: nova redação do art. 7.º (corpo e alíneas a) e b) '...', aditada alínea c)); o texto atual já tem a alínea c) igual, nada a mudar.",
-    "DL 216/2004 art. 2.º n.º 2 e anexo I: alterações aos quadros III e IV e designações de categorias do anexo; não aplicável (anexo fora do texto).",
-    "DL 216/2004 art. 3.º e anexo II: aditamento dos quadros VIII e IX, só em imagem; não aplicável.",
-    "DL 33/2008 art. 2.º e anexo I: alteram o DL 121/98, outro diploma; ignoradas.",
-    "DL 33/2008 art. 3.º e anexo II: E 968/Eritritol na linha E 420 a E 967 do anexo; não aplicável (anexo fora do texto).",
-    "DL 94/2010 art. 2.º, art. 6.º e anexo I: alteram o DL 365/98; ignoradas.",
-    "DL 94/2010 art. 3.º: nova redação do art. 11.º (epígrafe e corpo) aplicada.",
-    "DL 94/2010 art. 4.º: aditado o art. 3.º-A 'Autoridade competente'.",
-    "DL 94/2010 art. 5.º e anexo II: aditamento do quadro X, só em imagem; não aplicável."
+    "Alterador 1 (DL 216/2004), art. 2.º, n.º 1: art. 7.º com nova alínea c) — já está assim no texto atual (a) e b) mantidas, c) aditada); sem mudança.",
+    "Alterador 1, art. 2.º, n.º 2, e anexo I: alterações aos quadros do anexo (só em imagem) — nao_aplicavel.",
+    "Alterador 1, art. 3.º e anexo II: aditamento dos quadros VIII e IX (imagem) — nao_aplicavel.",
+    "Alterador 2 (DL 33/2008), art. 2.º e anexo I: alteram o DL 121/98 — ignorados.",
+    "Alterador 2, art. 3.º e anexo II: E 968 Eritritol num quadro do anexo (imagem) — nao_aplicavel.",
+    "Alterador 3 (DL 94/2010), art. 2.º, art. 6.º e anexo I: alteram o DL 365/98 — ignorados.",
+    "Alterador 3, art. 3.º: nova redação do art. 11.º — aplicada.",
+    "Alterador 3, art. 4.º: aditado o art. 3.º-A — aplicado.",
+    "Alterador 3, art. 5.º e anexo II: aditamento do quadro X (imagem) — nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

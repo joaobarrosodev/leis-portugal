@@ -206,7 +206,7 @@ A licença de exploração mencionará expressamente a entidade exploradora, a l
 
 1 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento previamente licenciado para a exploração de jogos, o qual não pode situar-se nas proximidades de estabelecimentos de ensino.
 
-2 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos com intercomunicação interna, vertical ou horizonal.
+2 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos com intercomunicação interna, vertical ou horizontal.
 
 3 - É aplicável ao recinto o regime de horários de funcionamento dos estabelecimentos comerciais previsto no [Decreto-Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1996-469018), de 15 de Maio.
 

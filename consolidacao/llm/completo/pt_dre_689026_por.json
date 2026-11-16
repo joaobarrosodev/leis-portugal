@@ -15,13 +15,16 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (Decreto-Lei n.º 11/77), artigo 1.º: cria outro lugar de subdirector no quadro de pessoal (mapa anexo), que não vem no texto atual; não aplicado. Alterador 2 (Portaria n.º 241/83): equipara o cargo de director de serviços-adjunto a chefe de divisão, sem alteração textual do original.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "DL 11/77, art. 1.º: criação de outro lugar de subdirector no quadro do pessoal; o quadro (Anexo ao Decreto n.º 355/72) só vem em imagem e o alterador não dá texto novo para ele (reparo confirmado: não se pode aplicar textualmente). Portaria 241/83, n.º 1.º: equiparação do cargo de director de serviços-adjunto a chefe de divisão, sem alteração do texto do decreto.",
   "instrucoes": [
-    "Alterador 1, artigo 1.º: criação de lugar de subdirector no quadro anexo; não aplicada (quadro ausente).",
-    "Alterador 1, artigo 2.º: nova redação dos artigos 7.º e 8.º. Aplicada.",
-    "Alterador 2, n.º 1.º: equiparação de cargo, não textual; não aplicada."
+    "Alterador 1 (DL 11/77), art. 1.º: novo lugar de subdirector no quadro; quadro só em imagem, sem texto novo (nao_aplicavel).",
+    "Alterador 1, art. 2.º: nova redacção dos artigos 7.º e 8.º: aplicada.",
+    "Alterador 2 (Portaria 241/83), n.º 1.º: equiparação a chefe de divisão; não textual (nao_aplicavel). N.º 2.º: produção de efeitos."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

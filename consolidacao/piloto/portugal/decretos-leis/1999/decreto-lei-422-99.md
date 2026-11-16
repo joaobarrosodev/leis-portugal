@@ -3,7 +3,8 @@ id: pt:dre:667357:por
 title: Decreto-Lei n.º 422/99
 original: data/portugal/decretos-leis/1999/decreto-lei-422-99.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:179530:por
@@ -407,9 +408,9 @@ h) Exercer as demais competências que lhe sejam atribuídas por lei.
 
 ###### Artigo 21.º — Funcionamento
 
-(Revogado.)
+1 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo seu presidente, por iniciativa deste ou por solicitação de um dos restantes membros.
 
-> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 157/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2012-179530), publicado em 2012-07-18.
+2 - As restantes normas de funcionamento constarão de regimento interno a elaborar pela própria comissão.
 
 #### SECÇÃO VI — Comissão de acompanhamento
 
@@ -511,11 +512,9 @@ b) Serviços, que se constituem em direcções de serviços e divisões.
 
 4 - O exercício das funções de director de unidade departamental e de chefe de núcleo tem os efeitos previstos no estatuto da carreira de investigação científica, nomeadamente o disposto no artigo 50.º desse estatuto.
 
-5 - (Revogado.)
+5 - Aos directores das unidades departamentais e aos chefes de núcleo são atribuídos suplementos remuneratórios mensais de, respectivamente, 28% e 23% da remuneração base mensal correspondente ao índice 100 da escala salarial da sua carreira.
 
 6 - Os suplementos remuneratórios referidos no número anterior são considerados para efeitos de cálculo de subsídios de Natal e de férias, bem como das pensões de aposentação, nos termos da legislação aplicável.
-
-> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 157/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2012-179530), publicado em 2012-07-18.
 
 ###### Artigo 36.º — Estatuto dos dirigentes de serviços
 

@@ -1,0 +1,318 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517385:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7bb6955848404571",
+    "e82e298be73417b9",
+    "281d554c9477c9a6",
+    "5839d5a2721f2cb7",
+    "e0e4623a09d2cd77",
+    "8fd56ea38d5ffb41",
+    "c8ff3660f02a530b",
+    "d2443415180bbccf",
+    "b4b51be9a2a7d32c",
+    "c53423d4f7d5d405",
+    "ec28563d41c3a55a",
+    "f3a0b434e90e0734",
+    "84f781235cae0079",
+    "00bee0a8cf035067",
+    "05bf5aa979d74ba2",
+    "d8570ba460cb0717",
+    "262f1a238dd700cc",
+    "9511bc1c257a7916",
+    "64115b81801596f5",
+    "6cbbb74613b64a6b",
+    "cdab4f0f8cd1a9a8",
+    "a052a7809524e63f",
+    "601f8f55164ecc98",
+    "6ca522390246bac8",
+    "3b68cf9537e7d4a6",
+    "3ce72d9b0e44b08a",
+    "d946ff289c0142cc"
+   ]
+  },
+  {
+   "date": "2000-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:515272:por",
+     "title": "Decreto Regulamentar Regional n.º 12/2000/M",
+     "published": "2000-03-21",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/12-2000-515272"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "7bb6955848404571",
+    "e82e298be73417b9",
+    "281d554c9477c9a6",
+    "5839d5a2721f2cb7",
+    "e0e4623a09d2cd77",
+    "8fd56ea38d5ffb41",
+    "c8ff3660f02a530b",
+    "d2443415180bbccf",
+    "b4b51be9a2a7d32c",
+    "c53423d4f7d5d405",
+    "ec28563d41c3a55a",
+    "f3a0b434e90e0734",
+    "84f781235cae0079",
+    "00bee0a8cf035067",
+    "05bf5aa979d74ba2",
+    "d8570ba460cb0717",
+    "262f1a238dd700cc",
+    "9511bc1c257a7916",
+    "64115b81801596f5",
+    "8bdf842ee520acca",
+    "cdab4f0f8cd1a9a8",
+    "a052a7809524e63f",
+    "601f8f55164ecc98",
+    "6ca522390246bac8",
+    "3b68cf9537e7d4a6",
+    "3ce72d9b0e44b08a",
+    "d946ff289c0142cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "7bb6955848404571": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei Orgânica da Secretaria Regional de Educação\n\nO [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, que procedeu à reestruturação do Governo da Região Autónoma da Madeira, modificou a orgânica da Secretaria Regional de Educação.\n\nNa Secretaria Regional de Educação ficam englobados os sectores da educação, educação especial, desporto e formação profissional. Assim, urge criar a orgânica da Secretaria Regional de Educação com a sua nova estrutura.\n\nNestes termos:\n\nO Governo Regional da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 49.º da [Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/lei/23-1991-492471), de 5 de Junho, e do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, o seguinte:"
+  },
+  "e82e298be73417b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Princípios gerais"
+  },
+  "281d554c9477c9a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria Regional de Educação, designada no presente diploma abreviadamente por SRE, é o departamento do Governo Regional da Madeira a que se refere a alínea h) do artigo 1.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes."
+  },
+  "5839d5a2721f2cb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições da SRE o estudo e a execução da política educativa, de desporto e de formação profissional da Região Autónoma da Madeira, assim como contribuir para a definição dos princípios gerais do sistema nacional de educação."
+  },
+  "e0e4623a09d2cd77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - A SRE é superiormente dirigida pelo Secretário Regional de Educação, ao qual são genericamente atribuídas as seguintes competências:\n\na) Estudar, orientar e executar a política educativa na Região, assim como contribuir para a sua definição, no quadro geral do sistema educativo;\n\nb) Orientar e superintender a promoção das acções destinadas à primeira e segunda infâncias, numa perspectiva de apoio à família com carácter supletivo, visando o desenvolvimento integral e a inserção na vida da comunidade;\n\nc) Orientar e superintender em todas as actividades a desenvolver nas áreas do ensino, da acção social escolar, da educação física e desporto e da formação profissional;\n\nd) Superintender e realizar a gestão dos meios humanos e materiais para efectivação das atribuições enunciadas na alínea anterior;\n\ne) Assegurar a observância das disposições reguladoras das tarefas que lhe são cometidas, sem prejuízo das atribuições e competências conferidas por lei a outros departamentos.\n\n2 - O Secretário Regional de Educação pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.\n\n3 - Compete ainda ao Secretário Regional:\n\na) Representar a SRE;\n\nb) Definir a política educativa, promovendo a sua execução, designadamente nos domínios do ensino, da infância, da educação física, do desporto e da formação profissional, em consonância com as orientações gerais do Governo Regional."
+  },
+  "8fd56ea38d5ffb41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Estrutura da Secretaria Regional de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estrutura da Secretaria Regional de Educação"
+  },
+  "c8ff3660f02a530b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I"
+  },
+  "d2443415180bbccf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEstrutura\n\n1 - A SRE compreende:\n\na) Gabinete do Secretário Regional;\n\nb) Direcção Regional de Inovação e Gestão Educativa;\n\nc) Direcção Regional de Educação Especial;\n\nd) Direcção Regional de Formação Profissional;\n\ne) Direcção Regional de Administração e Pessoal;\n\nf) Instituto do Desporto da Região Autónoma da Madeira.\n\n2 - A natureza, atribuições, orgânica, funcionamento e pessoal de cada um dos organismos e serviços referidos nas alíneas a), b), c), d), e) e f) do n.º 1 constarão de decreto regulamentar regional."
+  },
+  "b4b51be9a2a7d32c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II"
+  },
+  "c53423d4f7d5d405": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEstrutura e atribuições do Gabinete do Secretário Regional\n\n1 - O Gabinete do Secretário Regional tem por atribuições coadjuvar o Secretário Regional no exercício das suas funções.\n\n2 - O Gabinete do Secretário Regional compreende um chefe de gabinete, dois adjuntos e dois secretários pessoais.\n\n3 - Podem ser destacados, requisitados ou contratados, em regime de prestação de serviços, para exercer funções de apoio técnico e administrativo no Gabinete do Secretário Regional quaisquer funcionários ou agentes da administração pública central, regional ou local, dos institutos públicos e de empresas públicas ou privadas."
+  },
+  "ec28563d41c3a55a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências\n\n1 - Ao chefe de gabinete compete:\n\na) Representar o Secretário Regional nos actos de carácter não estritamente pessoal;\n\nb) Dirigir o Gabinete do Secretário Regional;\n\nc) Assegurar o expediente normal do Gabinete;\n\nd) Estabelecer a sua ligação com os vários departamentos e serviços da SRE, bem como com outros departamentos governamentais;\n\ne) Exercer as competências que lhe sejam delegadas pelo Secretário Regional.\n\n2 - Aos adjuntos compete:\n\na) Prestar ao Secretário Regional o apoio técnico que lhes for determinado;\n\nb) Substituir o chefe de gabinete nas suas ausências e impedimentos."
+  },
+  "f3a0b434e90e0734": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Conselheiros técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselheiros técnicos\n\nMediante proposta do Secretário Regional de Educação, podem ser nomeados e exonerados livremente conselheiros técnicos, por resolução do Conselho do Governo Regional, que farão parte integrante do Gabinete do Secretário Regional, os quais serão, para todos os efeitos, equiparados a adjuntos."
+  },
+  "84f781235cae0079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I"
+  },
+  "00bee0a8cf035067": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nEstrutura\n\nDo Gabinete do Secretário Regional dependem directamente os seguintes órgãos:\n\na) Departamentos de natureza técnica e técnico-pedagógica;\n\nb) Órgãos de concepção e de apoio;\n\nc) Órgãos de apoio logístico."
+  },
+  "05bf5aa979d74ba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II"
+  },
+  "d8570ba460cb0717": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nDepartamentos de natureza técnica e técnico-pedagógica\n\n1 - Os departamentos de natureza técnica e técnico-pedagógica são os seguintes:\n\na) Departamento de Tecnologia e Sistemas de Informação;\n\nb) Departamento da Inspecção Regional de Educação.\n\n2 - O Departamento de Tecnologia e Sistemas de Informação é dirigido por um director de serviços.\n\n3 - O Departamento da Inspecção Regional de Educação é dirigido por um coordenador, equiparado, para todos os efeitos legais, a director de serviços."
+  },
+  "262f1a238dd700cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III"
+  },
+  "9511bc1c257a7916": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÓrgãos de concepção e de apoio\n\n1 - Os órgãos de concepção e de apoio são os seguintes:\n\na) Gabinete de Gestão e Controlo Orçamental;\n\nb) Gabinete de Estudos e Planeamento;\n\nc) Gabinete de Estudos e Pareceres Jurídicos;\n\nd) Gabinete de Assuntos Comunitários e Relações Internacionais.\n\n2 - Os órgãos referidos nas alíneas a) e b) do n.º 1 são dirigidos por um director de serviços.\n\n3 - Os órgãos referidos nas alíneas c) e d) são dirigidos por coordenadores, equiparados, para todos os efeitos legais, a chefes de divisão."
+  },
+  "64115b81801596f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV"
+  },
+  "6cbbb74613b64a6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nÓrgãos de apoio logístico\n\nOs órgãos de apoio logístico são os seguintes:\n\na) Repartição dos Serviços Administrativos;\n\nb) Repartição de Aquisições e Manutenção."
+  },
+  "cdab4f0f8cd1a9a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Pessoal"
+  },
+  "a052a7809524e63f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Quadros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Quadros\n\n1 - O pessoal dos quadros dos organismos e serviços da SRE é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal docente;\n\nd) Pessoal de informática;\n\ne) Pessoal técnico;\n\nf) Pessoal técnico de inspecção pedagógica e inspecção administrativa financeira;\n\ng) Pessoal técnico-profissional;\n\nh) Pessoal administrativo;\n\ni) Pessoal operário;\n\nj) Pessoal auxiliar.\n\n2 - Os quadros de pessoal dos organismos e serviços da SRE constarão de mapas anexos aos diplomas referidos no n.º 2 do artigo 4.º"
+  },
+  "601f8f55164ecc98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Comissões, grupos de trabalho e conselhos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comissões, grupos de trabalho e conselhos consultivos\n\nPara o estudo de problemas específicos poderão ser constituídas comissões, grupos de trabalho ou conselhos consultivos, cuja composição, mandato, funcionamento e demais condições serão estabelecidos em despacho do Secretário Regional."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "3b68cf9537e7d4a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Primeiro provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Primeiro provimento\n\nO primeiro provimento em lugares dos quadros de pessoal do Gabinete do Secretário Regional e serviços dependentes far-se-á através de lista nominativa, aprovada pelo Secretário Regional, com dispensa de quaisquer outras formalidades legais sempre que se tratar de pessoal com vínculo à Administração Pública e o provimento se processar em categoria igual ou equivalente à que detinha no respectivo quadro de origem."
+  },
+  "3ce72d9b0e44b08a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Orgânica dos organismos e serviços existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Orgânica dos organismos e serviços existentes\n\nAté à publicação dos diplomas a que se refere o n.º 2 do artigo 4.º mantêm-se em vigor o [Decreto Regulamentar Regional n.º 2/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1993-584979), de 20 de Janeiro, o [Decreto Regulamentar Regional n.º 17/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1993-268778), de 17 de Junho, o [Decreto Legislativo Regional n.º 20/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1993-660372), de 17 de Setembro, rectificado pela Declaração n.º 234/93, de 30 de Novembro, o [Decreto Legislativo Regional n.º 19/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-1993-660476), de 17 de Setembro, alterado pela [Portaria n.º 95/96](https://diariodarepublica.pt/dr/detalhe/portaria/95-1996-546863), de 10 de Julho, o [Decreto Regulamentar Regional n.º 23/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1993-390598), de 13 de Julho, alterado pelo [Decreto Regulamentar Regional n.º 9/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1996-429023), de 28 de Junho, e o [Decreto Regulamentar Regional n.º 32/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1993-651685), de 29 de Setembro, rectificado pela Declaração n.º 262/93, de 31 de Dezembro."
+  },
+  "d946ff289c0142cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Vigência\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 13 de Fevereiro de 1997.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.\n\nAssinado em 28 de Fevereiro de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "8bdf842ee520acca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Órgãos de apoio logístico",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.",
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 11.º — Órgãos de apoio logístico\n\nOs órgãos de apoio logístico são os seguintes:\n\na) Departamento dos Serviços Administrativos;\n\nb) Departamento de Aquisições e Manutenção.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 12/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2000-515272), publicado em 2000-03-21."
+  }
+ }
+}

@@ -329,9 +329,9 @@ b) A verificação física do projecto tem por base a realização de visitas t�
 
 ## ANEXO — Pólos turísticos
 
-Nos termos do n.º 3 do artigo 2.º, os pólos turísticos abrangem os seguintes municípios:
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/185000000/4017940180.pdf)
 
-[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/05/092000000/1256212567.pdf)
+> Alterado pelo/a [Despacho Normativo n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2008-1871181), publicado em 2008-09-24.
 
 ## ANEXO N.º 2 — Regulamento da Linha de Apoio II - Eventos para a Projecção do Destino Portugal do Programa de Intervenção Turística
 

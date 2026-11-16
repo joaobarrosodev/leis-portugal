@@ -2,16 +2,10 @@
   "id": "pt:dre:395497:por",
   "substituicoes": [
     {
-      "de": 23,
-      "ate": 23,
-      "texto": "6) Submeter o relatório e contas dos exercícios de 1981 e 1982, até à extinção da empresa, bem como o inventário de todos os bens e direitos da empresa, à aprovação dos Secretários de Estado das Finanças e das Pescas, até 30 de Novembro de 1984;",
-      "alterador": 3
-    },
-    {
       "de": 41,
       "ate": 41,
-      "texto": "a) Até 30 de Novembro de 1984, a comissão liquidatária apreciará as reclamações de créditos e impugnações e publicará o mapa de todos os créditos.",
-      "alterador": 3
+      "texto": "a) Até 31 de Dezembro de 1982, a comissão liquidatária apreciará as reclamações de créditos e impugnações e publicará o mapa de todos os créditos.",
+      "alterador": 1
     },
     {
       "de": 56,
@@ -32,15 +26,16 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Portaria n.º 1075/82, n.os 1.º e 2.º (cessação do mandato do BPSM e sucessão do Estado nos créditos) são normas autónomas, sem alteração textual. Decreto-Lei n.º 161/89, arts. 3.º e 4.º (referências às comissões liquidatárias entendem-se feitas ao administrador liquidatário; superintendência do Ministro das Finanças): regra interpretativa/de competência, não alteração textual.",
+  "nao_aplicavel": "Portaria 731/84: os prazos do n.º 6 da alínea b) do n.º 5.º e da alínea a) do n.º 11.º 'sejam alterados para 30 de Novembro de 1984', sem nova redação das unidades (e com prorrogações intermédias de Portarias que não vêm no pedido): não aplicado. Decreto-Lei 161/89, art. 3.º: as referências às comissões liquidatárias entendem-se feitas ao administrador liquidatário; norma interpretativa, não é substituição de texto: não aplicada (reparo do verificador não aceite). Portaria 1075/82, n.os 1.º e 2.º, e Decreto-Lei 161/89, arts. 1.º, 2.º e 4.º: normas autónomas, sem alteração textual do original.",
   "instrucoes": [
-    "Portaria 942/82: nova redação da alínea a) do n.º 11.º (unidade 41) - aplicada, depois alterada de novo pelo alterador 3",
-    "Portaria 1075/82, 3.º: nova redação da alínea g) do n.º 13.º (unidade 56) - substituída",
-    "Portaria 1075/82, 4.º: aditada alínea h) ao n.º 13.º - inserida após a unidade 56",
-    "Portaria 1075/82, 5.º: aditado n.º 20.º - inserido após a unidade 72",
-    "Portaria 1075/82, 1.º e 2.º: normas autónomas - não aplicadas",
-    "Portaria 731/84: prazos do n.º 6 da alínea b) do n.º 5.º (unidade 23) e da alínea a) do n.º 11.º (unidade 41) alterados para 30 de Novembro de 1984 - datas substituídas no texto",
-    "Decreto-Lei 161/89, arts. 3.º e 4.º: remissão interpretativa e competência - não aplicados (nao_aplicavel)"
+    "Portaria 942/82: nova redação da alínea a) do n.º 11.º: unidade 41 substituída.",
+    "Portaria 1075/82, n.º 3.º: nova redação da alínea g) do n.º 13.º: unidade 56 substituída.",
+    "Portaria 1075/82, n.º 4.º: aditada a alínea h) ao n.º 13.º: inserida depois da unidade 56.",
+    "Portaria 1075/82, n.º 5.º: aditado o n.º 20.º: inserido depois da unidade 72.",
+    "Portaria 1075/82, n.os 1.º e 2.º: cessação do mandato do BPSM e sucessão do Estado nos créditos; sem alteração textual.",
+    "Portaria 731/84: prazos alterados para 30 de Novembro de 1984 sem nova redação: nao_aplicavel.",
+    "Decreto-Lei 161/89, art. 3.º: referências às comissões liquidatárias entendem-se feitas ao administrador liquidatário; norma interpretativa: nao_aplicavel.",
+    "Decreto-Lei 161/89, arts. 1.º, 2.º e 4.º: administrador liquidatário, revogações de outros diplomas e superintendência do Ministro das Finanças; sem alteração textual do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

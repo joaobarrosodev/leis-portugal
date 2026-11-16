@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-03-04'
+version_history:
+  file: decreto-legislativo-regional-1-2004-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-01-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-03-04'
+    amending: pt:dre:455616:por
+    amending_title: Decreto Legislativo Regional n.º 36/2008/M; Decreto Legislativo Regional n.º 9/2016/M
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 1.º
+    - Altera Artigo ANEXO II — Bases da concessão
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/1/2004/01/13/m/dre/pt/html
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    36/2008/M; Decreto Legislativo Regional n.º 9/2016/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2004/decreto-legislativo-regional-1-2004-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,11 +140,17 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, bem como das alíneas c), d), x) e ll) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, o seguinte:
 
-###### Artigo 1.º — Concessão de serviço público
+###### Artigo 1.º — Concessão de Serviço Público
 
-1 - É instituída a concessão de serviço público dos troços das estradas regionais (EERR) variante à ER 101 entre Ribeira Brava e Tábua, ER 101 entre Tábua e Ponta do Sol - variante à ER 101 entre Ponta do Sol e Madalena do Mar - túnel da ER 101 entre Madalena do Mar e Fajã do Mar - variante à ER 101 entre Arco da Calheta e Calheta - ER 101 entre Calheta, Estreito da Calheta, Prazeres e Raposeira do Lugarinho - túneis da ER 223 entre Ribeira Funda, Jardim do Mar e Paul do Mar - variante à ER 104 entre Vila da Ribeira Brava e Meia Légua - ER 104 entre Serra de Água e Rosário - variante à ER 104 entre Rosário e São Vicente - ER 101 entre São Vicente, Seixal, Ribeira da Janela e Porto Moniz - nova ligação rodoviária Caniço-Camacha - ER 101 entre Machico, Porto da Cruz e Faial - nova ligação rodoviária entre Faial, Santana e Ribeira de São Jorge - variante à ER 107 entre Ribeira da Lapa e Curral das Freiras, na extensão total de 80 km e diversos troços associados na extensão de 13 km, em regime de exclusivo e sem cobrança directa aos utilizadores (SCUT), a qual será regida por este diploma, e concretizada pelo que nele é autorizado.
+1 - Na data de entrada em vigor do Contrato de Concessão Alterado passam a constituir o objeto do contrato de concessão outorgado entre a Região Autónoma da Madeira e a Concessionária de Estradas VIAEXPRESSO da Madeira, S. A., a VE1, entre Machico e Ribeira de S. Jorge, a VE2, entre São Vicente e Porto Moniz, a VE3, entre Ribeira Brava e Madalena do Mar e entre Arco da Calheta e Raposeira do Lugarinho, e a VE4, entre Ribeira Brava e Meia Légua e entre Serra de Água e São Vicente, na extensão total de cerca de 69 km, em regime de exclusivo e sem cobrança direta aos utilizadores (SCUT).
 
-2 - A concessão poderá ser estendida a outras estradas regionais ou a troços que digam respeito a extensões das identificadas no número anterior, até ao limite de metade da quilometragem inicialmente definida, por simples alteração do contrato de concessão, e respeitado o processo previsto nos n.os 4 e 5 do artigo 4.º
+2 - Em consequência do disposto no número anterior, são excluídos do âmbito da concessão, da ER101, os troços associados entre São Vicente e Porto Moniz, com a extensão de 10,5 km, da ER101, o troço associado entre Madalena do Mar e o túnel da banda D'Além e entre este e a rotunda do Arco da Calheta, com a extensão de 2,5 km, da ER101, o troço principal do túnel da banda D'Além, com a extensão de 0,6 km, e da ER216, o troço principal, nó de Machico Norte com a ER236, com a extensão de 0,6 km, que haviam sido desclassificados para o domínio público municipal pelo [Decreto Legislativo Regional n.º 1/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2013-588855), de 2 de janeiro, e bem assim o troço da VE5, Cancela-Camacha, com a extensão de 4,0 km, o troço da VE6, Ribeira da Lapa-Curral das Freiras, com a extensão de 2,62 km, e o troço da VE7, Ribeira Funda-Paúl do Mar, com a extensão de 2,85 km.
+
+3 - A concessionária prestará à concedente, relativamente aos troços da VE5, VE6 e VE7, estritamente serviços de monitorização e informação a partir do seu sistema de controlo e vigilância.
+
+4 - A concessão poderá ser estendida a outras estradas regionais ou a troços que digam respeito a extensões das identificadas no n.º 1, até ao limite da quilometragem inicialmente identificada, por simples alteração do contrato e respeitado o processo previsto nos n.os 4 e 5 do artigo 4.º.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 9/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-73766217), publicado em 2016-03-03.
 
 ###### Artigo 2.º — Criação da Concessionária de Estradas VIAEXPRESSO da Madeira, S. A.
 
@@ -181,9 +204,9 @@ O capital social da Concessionária de Estradas VIAEXPRESSO da Madeira, S. A., �
 
 ###### Artigo 8.º — Valor a pagar à Região Autónoma da Madeira
 
-1 - O valor a pagar pela VIAEXPRESSO à Região Autónoma da Madeira é o estabelecido nas bases da concessão, a liquidar nos termos em que o contrato de concessão o especifique.
+O valor a pagar pela VIAEXPRESSO à Região Autónoma da Madeira é o estabelecido nas bases da concessão, a liquidar nos termos em que o contrato de concessão o especifique, sendo deduzidos deste valor os montantes que correspondam à execução de obras que esta deva executar por efeito de cessão de posição contratual a seu favor de empreitadas contratadas originalmente pela RAMEDM - Estradas da Madeira, S. A., ou por outras entidades públicas. Sempre que haja extensão do objecto da concessão, deve ser estabelecido novo valor a pagar pela concessionária à Região Autónoma da Madeira.
 
-2 - Sempre que haja extensão do objecto da concessão, pode ser estabelecido novo valor a pagar pela concessionária à Região Autónoma da Madeira. Caso tal valor seja proporcional aos quilómetros de estrada concessionada, tendo por base comparativa o troço referido no n.º 1 do artigo 1.º deste diploma, bastará, a tal efeito, uma simples alteração ao contrato de concessão para concretizar essa obrigação.
+> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 36/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2008-455616), publicado em 2008-08-14.
 
 ###### Artigo 9.º — Actos de instalação
 
@@ -439,7 +462,7 @@ Base I
 
 Objecto da concessão
 
-É objecto da concessão a exploração, a par da conservação e manutenção dos troços de estradas regionais e outros a elas associados, nos termos definidos no artigo 1.º do decreto legislativo regional que institui a concessão, e cria a Concessionária de Estradas VIAEXPRESSO da Madeira, S. A.
+É objeto da concessão a exploração, a par da conservação e manutenção, dos troços de estradas regionais definidos no n.º 1 do artigo 1.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro.
 
 Base II
 
@@ -453,9 +476,9 @@ Base III
 
 Vias concessionadas
 
-1 - As vias concessionadas são as que estão referidas no artigo 1.º do decreto legislativo regional e aquelas que venham, nos termos do n.º 2 dessa disposição, a ser nela integradas.
+1 - As vias concessionadas são as que estão referidas no n.º 1 do artigo 1.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro, e aquelas a que venha a ser estendida a concessão, nos termos do n.º 4 do artigo 1.º daquele diploma.
 
-2 - O contrato de concessão identificará as vias que inicialmente fazem parte da concessão, através de um mapa, o qual, se e sempre que ocorra a extensão do objecto da concessão, será obrigatoriamente actualizado.
+2 - O contrato de concessão identificará as vias que fazem parte da concessão, através de um mapa, o qual, se e sempre que ocorra a extensão do objeto da concessão, será obrigatoriamente atualizado.
 
 3 - Os limites físicos da concessão são definidos em relação às vias concessionadas que a integram pelos perfis transversais extremos das mesmas, em conformidade com os traçados definitivos constantes dos projectos oficialmente aprovados.
 
@@ -495,7 +518,7 @@ Bancos financiadores
 
 1 - As instituições de crédito, nacionais ou estrangeiras, financiadoras das actividades da concessão, e com ela relacionadas, nos termos dos contratos de financiamento que estejam identificados no contrato de concessão, constituem, para efeitos da concessão, os bancos financiadores.
 
-2 - Os bancos financiadores poderão indicar, por acordo entre eles, um elemento para a Comissão de Acompanhamento da Concessão (CAC), decorrendo o processo de nomeação de acordo com as regras a esse efeito estabelecidas no contrato de concessão.
+2 - Os bancos financiadores poderão indicar, por acordo entre eles, um elemento para a Comissão de Acompanhamento da Concessão (CAC), decorrendo o processo de nomeação de acordo com as regras para esse efeito estabelecidas no contrato de concessão.
 
 Base VIII
 
@@ -535,7 +558,7 @@ Base XII
 
 Extensão da área da concessão e aumento especial de capital social
 
-1 - O Governo Regional poderá, por deliberação sua, e com a alteração do contrato de concessão, a qual fica desde já autorizada, estender a outras vias e áreas o âmbito da presente concessão de serviço público, desde que seja realizado o aumento especial de capital social previsto nos n.os 4 e 5 do artigo 4.º do decreto legislativo regional que aprova estas bases da concessão.
+1 - O Governo Regional poderá, por deliberação sua, e com a alteração do contrato de concessão, a qual fica desde já autorizada, estender a outras vias e áreas o âmbito da presente concessão de serviço público, desde que seja realizado o aumento especial de capital social previsto nos n.os 4 e 5 do artigo 4.º do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro.
 
 2 - Esta prerrogativa conferida ao Governo Regional pode ser utilizada por uma ou mais vezes.
 
@@ -543,7 +566,7 @@ Base XIII
 
 Duração da concessão
 
-1 - A concessão terá a duração de 25 anos contados desde a celebração do contrato de concessão, acrescida do período que decorrer entre a entrada em vigor do decreto legislativo regional que aprova as presentes bases da concessão e a firma do contrato.
+1 - A concessão terá a duração de 25 anos contados desde a celebração do contrato de concessão, acrescida do período que decorrer entre a entrada em vigor do [Decreto Legislativo Regional n.º 1/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-602477), de 13 de janeiro, e a firma do contrato.
 
 2 - Passados os 25 anos sobre a celebração do contrato, e sem necessidade de qualquer notificação, opera o disposto na base XLV e cessam todos os efeitos da concessão, sem prejuízo do disposto no segundo parágrafo da base XXX.
 
@@ -557,7 +580,7 @@ Pagamento à concedente
 
 1 - A concessionária pagará à concedente o valor de (euro) 250000000, nos termos e momentos definidos no contrato de concessão.
 
-2 - No caso de extensão do objecto da concessão, pode o Governo Regional exigir o pagamento de uma verba à concessionária, nos termos gerais admitidos no parágrafo anterior. Caso tal valor seja proporcional aos quilómetros de estrada concessionada, tendo por termo comparativo o troço referido na base I, bastará, para que torne uma nova obrigação da concessionária, uma simples alteração ao contrato de concessão.
+2 - No caso de extensão do objecto da concessão, deve o Governo Regional exigir o pagamento de uma nova verba à concessionária.
 
 Base XV
 
@@ -635,7 +658,7 @@ Base XXIV
 
 Conservação, manutenção e reparação das estradas concessionadas
 
-1 - Cabe à concessionária manter as estradas concessionadas em perfeito estado de utilização e conservação durante todo o período da concessão.
+1 - Cabe à concessionária manter as estradas concessionadas, durante todo o período da concessão, num estado de operacionalidade e segurança que obedeça aos padrões de qualidade fixados no contrato de concessão.
 
 2 - O contrato de concessão especificará o que se entende por padrão de qualidade mínimo da conservação, manutenção e reparação, que constitui uma obrigação essencial da concessionária, e cujo desrespeito substancial representa um caso de incumprimento grave. Cabe ao contrato de concessão estabelecer a diferença entre desrespeito substancial e não substancial e os critérios em que essa distinção se funda.
 
@@ -663,11 +686,11 @@ Base XXVII
 
 Novas construções e alterações ou modificações relevantes nas já existentes assumidas pela concessionária
 
-1 - O contrato de concessão poderá cometer à concessionária, além dos deveres de conservação e manutenção, a realização de obras novas, ou de reparações ou modificações relevantes nas já existentes. Nesse caso, o valor das obras que sejam cometidas à concessionária não poderá exceder o valor dos pagamentos à concedente previsto na base XIV. Esta relação ter-se-á de manter, se ocorrer a extensão do objecto da concessão.
+1 - Sem prejuízo do disposto no n.º 3 da presente base, não poderá ser aceite ou admitida a realização de obra nova, mas unicamente de reparações relevantes indispensáveis ao cumprimento das obrigações de conservação ou manutenção, de modo a garantir a segurança dos utentes.
 
-2 - Caso as obras sejam realizadas por qualquer das entidades parte do agrupamento, ou agrupamentos, que sejam escolhidos para participar no aumento especial de capital social não será necessário recorrer a qualquer procedimento concorrencial para as adjudicar. Caso tais obras sejam realizadas por terceiros, será aplicado o regime jurídico das empreitadas de obras públicas, na adjudicação desses trabalhos, sujeito às devidas e necessárias adaptações.
+2 - A concessionária só está obrigada à realização das reparações relevantes previstas no n.º 1, após ter acordado com a concedente as condições financeiras da respetiva execução.
 
-3 - São equiparadas a entidades parte do agrupamento todas as sociedades ou outras organizações que se encontrem ou venham a encontrar-se durante a duração do contrato de concessão em relação substancialmente idêntica à definida no n.º 4 do artigo 3.º da Directiva n.º [93/37/CEE](http://data.europa.eu/eli/dir/1993/37/oj?locale=pt), do Conselho, de 14 de Junho, relativa à coordenação dos processos de adjudicação de empreitadas de obras públicas.
+3 - No caso de extensão do objeto da concessão, nos termos previstos nas presentes bases, a concessionária poderá receber, por meio de cessão da posição contratual da respetiva entidade pública contratante, o encargo de executar obra nova, desde que tenha sido respeitado pela entidade cedente o procedimento pré-contratual legalmente estabelecido, e com a consequência de ser o valor dos pagamentos assumidos pela concessionária deduzido à verba prevista na base xiv.
 
 Base XXVIII
 
@@ -890,3 +913,5 @@ Contrato de concessão
 1 - O contrato de concessão, que respeitará o conteúdo destas bases, as desenvolverá e executará, e com elas se conformará, é o instrumento jurídico nuclear da concessão, e reunirá tanto o que aqui se dispõe como o que, em benefício do interesse público, conste da declaração de intenções do(s) agrupamento(s) que venha(m) a integrar o corpo accionista da VIAEXPRESSO, aí incluídas as possibilidades, os limites e as modalidades de alteração futura do título contratual.
 
 2 - O contrato de concessão especificará, nomeadamente, os termos em que poderá ocorrer a sua redução voluntária, a extinção ou caducidade por motivos que transcendam a vontade das partes, a revogação por mútuo acordo e a subsistência do vínculo contratual, mesmo que alguma, ou algumas, das suas cláusulas venham a ser judicialmente declaradas inválidas.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 9/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-73766217), publicado em 2016-03-03.

@@ -40,10 +40,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-04-10'
+version_history:
+  file: portaria-376-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-04-10'
+    amending: pt:dre:494196:por
+    amending_title: Portaria n.º 578/2009; Portaria n.º 168/2013; Portaria n.º 80/2014
+    changes:
+    - Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::6.º
+    - Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::8.º
+    - Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::11.º
+    - Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::12.º
+    - Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::14.º
+    - Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::19.º
+    - Altera Artigo ANEXO — REGULAMENTO DO PROGRAMA MODELAR::19.º
+    - Altera Artigo ANEXO
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/376/2008/05/23/p/dre/pt/html
@@ -69,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:31:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 578/2009; Portaria n.º
+    168/2013; Portaria n.º 80/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-376-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -192,6 +214,14 @@ b) Construção de remodelação para tipologias da RNCCI, tendo em conta os req
 
 c) Aquisição de equipamentos para melhorar as condições de funcionamento de unidades prestadoras de cuidados continuados integrados no âmbito da RNCCI.
 
+2 - Para efeitos do disposto na alínea c) do número anterior, são susceptíveis de se candidatarem a apoio financeiro os projectos que preencham um dos seguintes requisitos:
+
+a) Aquisição de equipamento relativo a unidades de internamento que já integram a RNCCI;
+
+b) Aquisição de equipamento relativo a unidades de internamento que constem do plano de implementação.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01.
+
 ###### Artigo 7.º — Requisitos dos projectos
 
 1 - Os projectos não podem ter sido objecto de qualquer outro financiamento, comunitário ou nacional, para as mesmas despesas.
@@ -216,9 +246,13 @@ b) De edificações e instalações técnicas: o produto do valor de referência
 
 c) De equipamento: o equivalente ao valor global deste, até ao limite máximo de (euro) 200 000.
 
-5 - O valor de referência do metro quadrado será definido em cada aviso de abertura de candidaturas.
+5 - Considera-se área útil de construção o valor correspondente à soma das áreas de todos os compartimentos da edificação, incluindo vestíbulos, circulações interiores, instalações sanitárias, arrumos, espaços de função similar ou complementar.
 
-6 - O apoio financeiro a conceder tem natureza não reembolsável.
+6 - O valor de referência do metro quadrado será definido em cada aviso de abertura de candidaturas.
+
+7 - O apoio financeiro a conceder tem natureza não reembolsável.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01.
 
 ###### Artigo 9.º — Elegibilidade de despesas
 
@@ -254,7 +288,9 @@ iii) Equipamentos gerais, incluindo mobiliário.
 
 ###### Artigo 11.º — Aviso de abertura de candidaturas
 
-Os avisos de abertura das candidaturas ao apoio financeiro previsto neste Regulamento são fixados por despacho da Ministra da Saúde.
+Os avisos de abertura das candidaturas ao apoio financeiro previsto neste Regulamento são fixados por despacho da Ministra da Saúde e são publicitados no sítio da Internet de cada ARS e em dois jornais de âmbito nacional.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01.
 
 ###### Artigo 12.º — Apresentação de candidaturas
 
@@ -272,7 +308,7 @@ b) Documentos comprovativos da posse dos requisitos a que se referem as alíneas
 
 c) Documentos comprovativos da regular situação contributiva perante a segurança social e administração fiscal prevista na alínea e) do artigo 5.º ou declaração de autorização de consulta dessa informação por parte da ARS, nos termos da lei;
 
-d) Documentos comprovativos do preenchimento do requisito enunciado no n.º 1 do artigo 7.º e informação da autarquia a que se refere o n.º 2 do mesmo artigo;
+d) Declaração sob compromisso de honra relativa ao requisito enunciado no n.º 1 do artigo 7.º e informação prévia da autarquia a que se refere o n.º 2 do mesmo artigo;
 
 e) Documentos comprovativos da capacidade financeira do candidato para suportar o financiamento do projecto na parte que excede o apoio financeiro concedido nos termos do presente Regulamento;
 
@@ -280,15 +316,23 @@ f) No caso de projectos que envolvam a realização de obras de construção, de
 
 i) Memória descritiva e justificativa;
 
-ii) Elementos gráficos sob a forma de plantas, alçados e cortes longitudinais e transversais abrangendo o núcleo edificado e o terreno, com indicação do perfil existente e o proposto, bem como das quotas dos diversos pisos e pavimento exterior envolvente, em escala apropriada, que explicitem a implantação do edifício, a sua integração urbana, os acessos, as necessidades de infra-estruturas, bem como a organização interna dos espaços, a interdependência de áreas e volumes, a compartimentação genérica e os sistemas de circulação;
+ii) Elementos gráficos sob a forma de plantas, alçados e cortes longitudinais e transversais abrangendo o núcleo edificado e o terreno, com indicação do perfil existente e o proposto, bem como das cotas dos diversos pisos e pavimento exterior envolvente, em escala apropriada, que explicitem a implantação do edifício, a sua integração urbana, os acessos, as necessidades de infra-estruturas, bem como a organização interna dos espaços, a interdependência de áreas e volumes, a compartimentação genérica e os sistemas de circulação;
 
 iii) Estimativa do custo da obra.
 
-5 - A não entrega de todos os elementos referidos nos números anteriores e ou a sua apresentação fora de prazo implica a exclusão liminar da candidatura.
+5 - Para efeitos do disposto na alínea f) do número anterior, devem todos os documentos do estudo prévio de arquitectura ser entregues à ARS em suporte de papel e em suporte digital, devendo a cópia digital ser, também, remetida pela ARS à UMCCI.
 
-6 - Da candidatura devem constar, de forma rigorosa e precisa, os objectivos mensuráveis do projecto e os meios necessários para os atingir, factor determinante na sua avaliação.
+6 - As candidaturas, elaboradas e instruídas nos termos do n.º 4, devem ser apresentadas até ao termo do prazo estabelecido no aviso de abertura das candidaturas.
 
-7 - Podem sempre ser solicitados aos candidatos outros documentos considerados necessários para a apreciação das respectivas candidaturas, nomeadamente para efeitos do disposto no n.º 3 do artigo 7.º
+7 - Os candidatos cujos pedidos não estejam instruídos com todos os elementos referidos no n.º 4 são notificados para procederem à entrega dos elementos em falta no prazo de 10 dias úteis.
+
+8 - Terminado o prazo referido no número anterior sem que os candidatos regularizem os elementos em falta, as candidaturas são liminarmente excluídas.
+
+9 - Da candidatura devem constar, de forma rigorosa e precisa, os objectivos mensuráveis do projecto e os meios necessários para os atingir, factor determinante na sua avaliação.
+
+10 - Podem sempre ser solicitados aos candidatos outros documentos considerados necessários para a apreciação das respectivas candidaturas, nomeadamente para efeitos do disposto no n.º 3 do artigo 7.º
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01.
 
 ###### Artigo 13.º — Períodos de apresentação de candidaturas
 
@@ -296,7 +340,7 @@ Os períodos para apresentação das candidaturas são fixados no respectivo avi
 
 ###### Artigo 14.º — Comissão de apreciação
 
-1 - As candidaturas são apreciadas por uma comissão composta por elementos da ARS, a designar pelo conselho directivo.
+1 - As candidaturas são apreciadas por uma comissão composta por elementos da ARS, a designar pelo conselho directivo, que pode integrar também dois elementos da Unidade de Missão para os Cuidados Continuados Integrados.
 
 2 - A composição da comissão referida no número anterior pode ser variável, devendo ser sempre constituída por um número ímpar de elementos, um dos quais preside.
 
@@ -305,6 +349,8 @@ Os períodos para apresentação das candidaturas são fixados no respectivo avi
 4 - Para efeitos do disposto no número anterior, deve ser solicitado parecer técnico à Unidade de Missão para os Cuidados Continuados Integrados, bem como a outras entidades no âmbito das respectivas atribuições.
 
 5 - Podem sempre ser solicitados às entidades beneficiárias os esclarecimentos considerados necessários à elaboração de proposta de aprovação ou não aprovação de candidatura.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01.
 
 ###### Artigo 15.º — Critérios e prazo para apreciação das candidaturas
 
@@ -356,11 +402,19 @@ c) Fornecer aos serviços da ARS todas as informações que lhes sejam solicitad
 
 d) Organizar, manter actualizados e permanentemente disponíveis os dossiers técnico e financeiro dos projectos, contendo os elementos que sejam indicados, para o efeito, pela ARS;
 
-e) Afectar, obrigatoriamente, em regime de permanência e exclusividade, as edificações construídas e as instalações realizadas por atribuição do presente apoio financeiro aos fins e os objectivos propostos, por um período mínimo de três, cinco ou oito anos, consoante o apoio financeiro ascenda a (euro) 100 000, (euro) 400 000 ou (euro) 750 000 euros, respectivamente, não podendo ser alienados antes de decorridos esse período, sem prejuízo do disposto no n.º 2;
+e) Afectar, obrigatoriamente, em regime de permanência e exclusividade, as edificações construídas e as instalações realizadas por atribuição do presente apoio financeiro aos fins e os objectivos propostos, por um período mínimo de três, cinco ou oito anos, consoante o apoio financeiro ascenda a (euro) 100 000, (euro) 400 000 ou (euro) 750 000, respectivamente, não podendo ser alienados antes de decorridos esse período, sem prejuízo do disposto nos n.os 2 e 3;
 
 f) Manter na sua posse os bens e ou equipamentos adquiridos por atribuição do presente apoio financeiro, cumprindo os objectivos propostos, por um período mínimo de cinco anos.
 
 2 - Mediante autorização prévia do conselho directivo da ARS, podem ser oneradas as infra-estruturas objecto de financiamento pelo presente Regulamento a favor de instituição de crédito que tenha concedido financiamento ao projecto.
+
+3 - Em situações excepcionais, e mediante autorização prévia do membro do Governo responsável pela área da saúde, as edificações construídas e as instalações realizadas por atribuição do presente apoio financeiro podem ser afetas a estruturas para alojamento e residência de pessoas idosas.
+
+4 - Sem prejuízo do disposto na alínea e) do n.º 2, nas situações em que o Estado manifeste a intenção de não contratar toda a capacidade instalada, as entidades beneficiárias podem contratar a restante com terceiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2013](https://diariodarepublica.pt/dr/detalhe/portaria/168-2013-260644), publicado em 2013-04-30.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80/2014](https://diariodarepublica.pt/dr/detalhe/portaria/80-2014-25343983), publicado em 2014-04-09.
 
 ###### Artigo 20.º — Acompanhamento e avaliação
 
@@ -414,88 +468,158 @@ e) Não sanação, no prazo concedido para o efeito, das deficiências e ou inco
 
 1 - Programa funcional tipo - Paliativos
 
-Nota. - As instalações referidas de seguida são consideradas por unidade de 20 camas ou piso de internamento.
+(especificações mínimas)
 
-Na unidade de internamento de paliativos 100 % dos quartos são individuais.
+Nota. - As instalações referidas de seguida são consideradas por módulo de 20 camas, no máximo, ou por piso de internamento.
 
-Generalidades:
+Na unidade de internamento de cuidados paliativos 100% dos quartos são individuais.
 
-Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,20 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+Generalidades
+
+Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
 
 Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
 
-Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
 
 As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
 
-Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
+Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade condicionada. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
 
-As portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível, a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
+As portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)
+Instalações de gases medicinais:
+
+É obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições.
+
+Ascensores:
+
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.
+
+Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
 
 2 - Programa funcional tipo - Convalescença
 
-Nota. - As instalações referidas de seguida são consideradas por unidade de 20 a 30 camas ou piso de internamento.
+(especificações mínimas)
 
-Na unidade de internamento de convalescença, 75 % dos quartos são duplos e 25 % dos quartos são individuais.
+Nota. - As instalações referidas de seguida são consideradas por módulos de 20 a 30 camas, ou por piso de internamento.
 
-Generalidades:
+Nestas unidades de internamento, 25% dos quartos, no mínimo, são individuais.
 
-Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,20 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+Generalidades
 
-Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
+Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
 
-Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
 
-As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
-
-Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
-
-As portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
-
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)
-
-3 - Programa funcional tipo - Manutenção
-
-Nota. - As instalações referidas de seguida são consideradas por unidade de 20 a 30 camas ou piso de internamento.
-
-Na unidade de internamento de manutenção, 75 % dos quartos são duplos e 25 % dos quartos são individuais.
-
-Generalidades:
-
-Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 1,40 m úteis de largura, devendo ser previstas bolsas de alargamento com 2,20 m de largura útil para cruzamento de duas camas.
+Nos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,9 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,6 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,5 m de diâmetro entre a outra cama e a parede lateral.
 
 Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
 
-Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
 
 As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
 
-Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
+Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade condicionada. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
 
-As portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
+As portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)
+Deve ser sempre garantido um acesso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.
 
-4 - Programa funcional tipo - Reabilitação
+Instalações de gases medicinais:
 
-Nota. - As instalações referidas de seguida são consideradas por unidade de 20 a 30 camas ou piso de internamento.
+É obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições, bem como nas salas de ginásio/fisioterapia.
 
-Na unidade de internamento de reabilitação, 75 % dos quartos são duplos e 25 % dos quartos são individuais.
+Ascensores:
 
-Generalidades:
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.
 
-Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,20 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+
+3 - Programa funcional tipo - Reabilitação ou média duração
+
+(especificações mínimas)
+
+Nota. - As instalações referidas de seguida são consideradas por módulos de 20 a 30 camas, ou por piso de internamento.
+
+Nestas unidades de internamento, 25% dos quartos, no mínimo, são individuais.
+
+Generalidades
+
+Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
+
+Nos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,9 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,6 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,5 m de diâmetro entre a outra cama e a parede lateral.
 
 Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
 
-Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,40 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
 
 As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
 
-Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com deficiência. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
+Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade reduzida. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
 
-As portas deverão abrir para fora ou ser de correr. Nos casos em que isto não seja possível a configuração das instalações sanitárias deve salvaguardar a possibilidade de com a abertura da porta ser arrastado um corpo caído no seu interior. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
+As portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09900/0291702928.pdf)
+Deve ser sempre garantido um acesso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.
+
+Instalações de gases medicinais:
+
+É obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições, bem como nas salas de ginásio/fisioterapia.
+
+Ascensores:
+
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.
+
+Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+
+4 - Programa funcional tipo - Manutenção ou longa duração
+
+(especificações mínimas)
+
+Nota. - As instalações referidas de seguida são consideradas por módulos de 20 a 30 camas, ou por piso de internamento.
+
+Nestas unidades de internamento, 25% dos quartos, no mínimo, são individuais.
+
+Generalidades
+
+Todos os corredores destinados à circulação de camas e macas devem ter o mínimo de 2,2 m úteis de largura, assegurando a possibilidade de cruzamento de duas camas.
+
+Não são permitidas rampas nem degraus nas circulações horizontais do interior do edifício.
+
+Nos quartos com mais de uma cama, a distância entre camas deve ser, no mínimo, de 0,9 m. A distância entre uma das camas e a parede lateral deve ser, no mínimo, de 0,6 m. Deve também ser considerada uma área livre na qual se inscreva um círculo de 1,5 m de diâmetro entre a outra cama e a parede lateral.
+
+Os quartos têm de ter iluminação e ventilação naturais e equipamento que permita o seu completo obscurecimento.
+
+Sempre que a unidade de cuidados continuados tiver um desenvolvimento superior a um piso deve haver uma escada principal com uma largura não inferior a 1,4 m e pelo menos outra de serviço, com excepção para pisos com acesso de nível ao exterior.
+
+As portas dos quartos e enfermarias devem ter o mínimo de 1,15 m de largura útil.
+
+Todas as instalações sanitárias de doentes devem ser acessíveis por pessoas com mobilidade reduzida. Os acessos às instalações sanitárias não devem devassar os locais de circulação dos utentes e do pessoal.
+
+As portas deverão abrir para fora sem criar conflitos de circulação ou ser de correr. Nestes casos, deverão deslizar pelo exterior da parede, por questões de assepsia. Todas as fechaduras deverão ser comandadas pelo exterior por intermédio de chave mestra.
+
+Deve ser sempre garantido um acesso interior desde a unidade de internamento até às instalações da área de medicina física e de reabilitação.
+
+Instalações de gases medicinais:
+
+É obrigatória a instalação de centrais de oxigénio e de aspiração/vácuo, das respectivas redes de distribuição e das respectivas tomadas, junto de cada cama dos quartos, bem como nas salas de tratamento, e de preferência também nas salas de convívio e nas salas de refeições, bem como nas salas de ginásio/fisioterapia.
+
+Ascensores:
+
+Caso a unidade se situe a um nível diferente do piso de entrada, deve existir monta-camas com as dimensões de 2,4 m x 1,4 m x 2,3 m (comprimento x largura x altura), com porta automática de 1,3 m de abertura útil e altura livre de passagem de 2,1 m.
+
+Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+
+> Alterado pelo/a [Portaria n.º 578/2009](https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196), publicado em 2009-06-01.

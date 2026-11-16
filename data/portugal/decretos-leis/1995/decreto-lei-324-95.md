@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-12-01'
+version_history:
+  file: decreto-lei-324-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-12-01'
+    amending: pt:dre:345124:por
+    amending_title: Lei n.º 113/99
+    changes:
+    - Revoga Artigo 12.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/324/1995/11/29/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:41:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 113/99. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-324-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -274,37 +290,23 @@ c) Propor, sempre que o plano de segurança e de saúde se revelar desadequado, 
 
 ###### Artigo 11.º — Contra-ordenações
 
-1 - Sem prejuízo de eventual responsabilidade criminal, constitui contra-ordenação a concepção, organização e funcionamento dos locais de trabalho das indústrias extractivas com desrespeito pelas prescrições mínimas de segurança e de saúde previstas nos artigos 3.º, 4.º, 6.º, 7.º e 9.º do presente diploma e nas normas técnicas aplicáveis, bem como pelas demais obrigações nelas previstas.
+1 - Constitui contra-ordenação muito grave a violação dos n.os 1, 2, 3 e 5 do artigo 3.º, das alíneas c) e e) a h) do n.º 1 do artigo 4.º, das alíneas e) e f) do n.º 2 do artigo 4.º e do n.º 2 do artigo 9.º
 
-2 - As contra-ordenações previstas no número anterior são puníveis com coima nos seguintes termos:
+2 - Constitui contra-ordenação grave:
 
-a) De 120000$00 a 350000$00, quando o número de trabalhadores for igual ou inferior a 20;
+a) Imputável ao empregador, a violação dos n.os 7 a 9 do artigo 3.º, das alíneas a), b), d), i) e j) do n.º 1 do artigo 4.º, das alíneas a) a d), g) e h) do n.º 2 do artigo 4.º, da portaria referida no n.º 3 e do n.º 4 do artigo 4.º, dos n.os 1 e 2 do artigo 6.º, do artigo 7.º e do n.º 1 do artigo 9.º;
 
-b) De 180000$00 a 480000$00, quando o número de trabalhadores for de 21 a 50;
+b) Imputável ao trabalhador independente, a violação da alínea a) do artigo 5.º
 
-c) De 480000$00 a 1200000$00, quando o número de trabalhadores for de 51 a 100;
+3 - As coimas aplicáveis ao trabalhador independente, nos termos da alínea b) do número anterior, são as correspondentes às infracções aos regimes jurídicos do serviço doméstico e do contrato individual de trabalho a bordo das embarcações de pesca.
 
-d) De 590000$00 a 1900000$00, quando o número de trabalhadores for superior a 100.
-
-3 - Os limites máximos das coimas referidos no número anterior são elevados para o dobro nos casos de:
-
-a) Inexistência do plano de segurança e de saúde;
-
-b) Falta de previsão, no plano de segurança e de saúde, de medidas específicas para trabalhos que impliquem riscos graves;
-
-c) Violação dos deveres de informação, de segurança e de saúde;
-
-d) Inexistência de comunicação, ou comunicação fora do prazo, de acidentes graves ou mortais ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho.
-
-4 - Para efeito da aplicação das coimas previstas nos números anteriores, considera-se o número máximo de trabalhadores por conta de outrem e independentes presentes em simultâneo no local de trabalho.
-
-5 - A violação, por parte dos trabalhadores independentes, das obrigações previstas no artigo 5.º constitui contra-ordenação punível com coima de 50000$00 a 500000$00.
-
-6 - Quando a infracção seja cometida por pessoa singular, o montante da coima a aplicar nos termos dos números anteriores não poderá exceder 750000$00.
+> Alterado pelo/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), publicado em 1999-08-03.
 
 ###### Artigo 12.º — Destino das coimas
 
-O produto das coimas tem o destino estabelecido no artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto.
+(Revogado.)
+
+> Revogado pelo/a Artigo 15.º do/a [Lei n.º 113/99](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), publicado em 1999-08-03.
 
 ###### Artigo 13.º — Fiscalização das condições de trabalho
 

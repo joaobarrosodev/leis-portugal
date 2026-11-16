@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alteradores 2 e 3: anexação de prédios, renovação da concessão e nova área (planta em imagem) por normas próprias, sem instrução de alteração textual do original — não aplicados.",
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 650/2001), 1.º e 2.º: anexa prédios com 375,3630 ha, ficando a zona com 819,8280 ha, e refere o parecer da Direcção-Geral do Turismo, sem nova redacção do n.º 1.º nem de outro ponto do original; alteração não textual, não aplicada. Alterador 3 (Portaria n.º 1016/2008), 1.º a 5.º: renova a concessão por 10 anos a partir de 27 de Setembro de 2008, anexa 62 ha e fixa a área total em 1032 ha, sem redacção literal de nenhum ponto do original; não aplicada.",
   "instrucoes": [
-    "Alterador 1: no n.º 2.º, «é concessionada pelo período de seis anos» passa a «é concessionada pelo período de 10 anos»: unidade 7 substituída.",
-    "Alterador 2: anexa prédios (área total 819,8280 ha), planta em imagem — não é alteração textual, não aplicado.",
-    "Alterador 3: renova a concessão por 10 anos e anexa 62 ha (1032 ha), planta em imagem — não é alteração textual, não aplicado."
+    "Alterador 1 (Portaria n.º 116/99): no n.º 2.º, 'é concessionada pelo período de seis anos' passa a 'é concessionada pelo período de 10 anos'; substituída a unidade 7 com a frase trocada.",
+    "Alterador 2 (Portaria n.º 650/2001): anexação, área total 819,8280 ha, sem redacção literal; em nao_aplicavel (reparo confirmado: alteração implícita).",
+    "Alterador 3 (Portaria n.º 1016/2008): renovação e anexação, área total 1032 ha, sem redacção literal; em nao_aplicavel (reparo confirmado: alteração implícita)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

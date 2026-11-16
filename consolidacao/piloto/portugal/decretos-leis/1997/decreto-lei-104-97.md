@@ -213,7 +213,9 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)
 
-ESTATUTOS DA REFER, E. P.
+(Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 91/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943), publicado em 2015-05-29.
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -433,44 +435,24 @@ ESTATUTOS DA REFER, E. P.
 
 ## ANEXO II — [a que se refere a alínea a) do artigo 4.º]
 
-A infra-estrutura ferroviária compõe-se dos seguintes elementos, desde que façam parte das vias principais e de serviço, com excepção das situadas no interior das oficinas de reparação do material e dos depósitos ou resguardos das unidades de tracção, assim como dos ramais particulares:
+(Revogado.)
 
-Terrenos;
-
-Estrutura e plataforma da via, nomeadamente aterros, trincheiras, drenos, valas, valetas de alvenaria, aquedutos, muros de revestimento, plantações para protecção dos taludes, etc; cais de passageiros e de mercadorias; bermas e pistas; muros de vedação, sebes vivas, paliçadas; faixas protectoras contra o fogo; dispositivos para aquecimento das agulhas; anteparos contra a neve;
-
-Obras de arte: pontes, pontões e outras passagens superiores, túneis, valas cobertas e outras passagens inferiores; muros de suporte e obras de protecção contra avalanchas, quedas de pedras, etc.;
-
-Passagens de nível, incluindo as instalações destinadas a garantir a segurança da circulação rodoviária;
-
-Superstrutura, nomeadamente carris, carris de gola e contracarris; travessas e longarinas, pequenas peças de ligação;
-
-balastro, incluindo gravilha e areia; aparelhos de via; placas giratórias e carros transbordadores (com excepção dos exclusivamente reservados às unidades de tracção);
-
-Pátios das gares de passageiros e mercadorias, incluindo os acessos por estrada;
-
-Instalações de segurança, sinalização e telecomunicações das vias propriamente ditas, das gares e das triagens, incluindo instalações de produção, transformação e distribuição da corrente eléctrica para sinalização e telecomunicações; freios de via;
-
-Instalações de iluminação destinadas a assegurar a circulação dos veículos e a respectiva segurança;
-
-Instalações de transformação e de transporte da corrente eléctrica para a tracção dos comboios: subestações, linhas de alimentação entre as su-bestações e os fios de contacto, catenárias e suportes; carril de transmissão (terceiro carril) e seus suportes;
-
-Edifícios afectos ao serviço das infra-estruturas, incluindo a parte relativa às instalações de cobrança dos bilhetes de transporte.
+> Alterado pelo/a [Decreto-Lei n.º 91/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943), publicado em 2015-05-29.
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 12.º)
 
-1.ª fase de transferência
+(Revogado.)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/099a00/19321943.pdf)
+> Alterado pelo/a [Decreto-Lei n.º 91/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943), publicado em 2015-05-29.
 
 ## ANEXO IV — [a que se refere a alínea a) o n.º 2 do artigo 12.º]
 
-2.ª fase de transferência
+(Revogado.)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/099a00/19321943.pdf)
+> Alterado pelo/a [Decreto-Lei n.º 91/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943), publicado em 2015-05-29.
 
 ## ANEXO V — [a que se refere a alínea b) do n.º 2 do artigo 12.º]
 
-3.ª fase de transferência
+(Revogado.)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/099a00/19321943.pdf)
+> Alterado pelo/a [Decreto-Lei n.º 91/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943), publicado em 2015-05-29.

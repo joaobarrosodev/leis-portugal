@@ -28,11 +28,11 @@
     "alterador": "pt:dre:549809:por"
   },
   {
-    "artigo": "unidades 34-35",
+    "artigo": "unidades 34-34",
     "operacao": "substituir",
     "regra": "llm",
-    "antes": "1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.",
-    "depois": "1 - A classificação final de cada curso é a média artimética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o respectivo plano de estudos.\n\n2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.\n\n3 - A classificação final do ramo de Formação Educacional é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.",
+    "antes": "1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o plano de estudos.",
+    "depois": "1 - A classificação final de cada curso é a média artimética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o respectivo plano de estudos.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
@@ -46,7 +46,7 @@
     "operacao": "aditar",
     "regra": "llm",
     "antes": "",
-    "depois": "5.º-A\n\nEstágio do ramo de Formação Educacional\n\nO estágio pedagógico do ramo de Formação Educacional, bem como a admissão ao mesmo, são regulados pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pelas Portarias n.º 791/80, de 6 de Outubro, 176/83, de 2 de Março, e 494/84, de 23 de Julho.",
+    "depois": "3 - A classificação final do ramo de Formação Educacional é calculada nos termos da [Portaria n.º 792/81](https://diariodarepublica.pt/dr/detalhe/portaria/792-1981-565003), de 11 de Setembro.\n\n5.º-A\n\nEstágio do ramo de Formação Educacional\n\nO estágio pedagógico do ramo de Formação Educacional, bem como a admissão ao mesmo, são regulados pela [Portaria n.º 431/79](https://diariodarepublica.pt/dr/detalhe/portaria/431-1979-377538), de 16 de Agosto, com a redacção que lhe foi dada pelas Portarias n.º 791/80, de 6 de Outubro, 176/83, de 2 de Março, e 494/84, de 23 de Julho.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

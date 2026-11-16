@@ -15,12 +15,13 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 309/70), n.os 4.º a 6.º: fixam de novo, em texto próprio, o limite anual (100000$00) e as exclusões e exceções, sem instrução expressa dirigida aos n.os 2.º a 4.º do original; não aplicado ao texto por não ser alteração textual expressa.",
+  "nao_aplicavel": "Portaria n.º 309/70, n.º 4.º (limite anual de 100000$00 por pessoa): é uma disposição própria da Portaria n.º 309/70 (com os seus n.os 5.º e 6.º a remeterem para os n.os 3.º e 4.º dela mesma), sem qualquer instrução escrita que altere o n.º 2.º da Portaria n.º 21038; o reparo do verificador reconhece que a alteração seria implícita, pelo que não se aplica e o n.º 2.º fica com o valor de 50000$00 dado expressamente pelo artigo 6.º do Decreto-Lei n.º 48214. Também os n.os 5.º e 6.º da Portaria n.º 309/70 não alteram os n.os 3.º e 4.º do original.",
   "instrucoes": [
-    "Alt. 1, art. 6.º: alterado para 50000$00 o limite do n.º 2.º — substituído o valor na unidade 5.",
-    "Alt. 1, restantes artigos: dirigidos ao regime dos certificados de aforro ou a outros diplomas (Decreto n.º 43454) — ignorados.",
-    "Alt. 2, n.º 3.º: elevado de 300000$00 para 500000$00 o limite do n.º 1 — substituído o valor na unidade 4.",
-    "Alt. 2, n.os 1.º, 2.º: tabela de amortização do Decreto-Lei n.º 48214 — outro diploma, ignorado. N.os 4.º a 6.º: ver nao_aplicavel."
+    "DL 48214, art. 6.º: limite do n.º 2.º alterado para 50000$00: substituída a unidade 5 com o valor trocado.",
+    "DL 48214, restantes artigos: dirigidos a certificados de aforro, ao DL 43453, ao DL 45643 e ao Decreto 43454, não ao original: ignorados.",
+    "Portaria 309/70, 3.º: limite do n.º 1 elevado de 300000$00 para 500000$00: substituída a unidade 4 com o valor trocado.",
+    "Portaria 309/70, 4.º a 6.º: disposições próprias sem instrução escrita de alteração do original: em nao_aplicavel (reparo do verificador não seguido, por ser alteração implícita).",
+    "Portaria 309/70, 1.º e 2.º: tabela de amortização, não dirigida ao original: ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

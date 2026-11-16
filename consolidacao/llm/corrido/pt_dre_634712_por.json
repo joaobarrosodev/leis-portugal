@@ -9,8 +9,14 @@
     },
     {
       "de": 14,
+      "ate": 14,
+      "texto": "a) Nome completo, estado civil, naturalidade, residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, a firma e o tipo das sociedades e as denominações das pessoas colectivas que os outorgantes representem, com indicação da respectiva sede, e ainda a menção do nome do cônjuge e do regime de bens, sendo casado, ou, sendo solteiro, a indicação de ser maior;",
+      "alterador": 1
+    },
+    {
+      "de": 15,
       "ate": 15,
-      "texto": "a) Nome completo, estado civil, naturalidade, residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, a firma e o tipo das sociedades e as denominações das pessoas colectivas que os outorgantes representem, com indicação da respectiva sede, e ainda a menção do nome do cônjuge e do regime de bens, sendo casado, ou, sendo solteiro, a indicação de ser maior;\n\nb) Nacionalidade, se algum dos outorgantes não for português, salvo se intervier na qualidade de representante;\n\nc) Número de contribuinte, caso seja pessoa singular, ou, tratando-se de pessoa colectiva, o seu número de identificação, respectivo número de matrícula na conservatória do registo comercial e montante do capital social, quando devido.",
+      "texto": "b) Nacionalidade, se algum dos outorgantes não for português, salvo se intervier na qualidade de representante;\n\nc) Número de contribuinte, caso seja pessoa singular, ou, tratando-se de pessoa colectiva, o seu número de identificação, respectivo número de matrícula na conservatória do registo comercial e montante do capital social, quando devido.",
       "alterador": 1
     },
     {
@@ -21,13 +27,13 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "N.º 2.º do alterador 1 (e do alterador 2, idêntico): substituição dos campos D e E dos modelos A e B, que só vêm em imagem no anexo; não aplicada.",
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 882/94), n.º 2.º: os campos D e E dos modelos A e B são integralmente substituídos pelos modelos publicados em anexo, que só vêm em imagem; os modelos não constam do texto do original por unidades, pelo que não é possível aplicar. O alterador 2 é o mesmo texto da Portaria n.º 882/94, repetido; as suas instruções são as do alterador 1 e não se aplicam duas vezes.",
   "instrucoes": [
-    "Alterador 1 (Portaria 882/94), 1.º: nova redacção do n.º 4.º; substituída a unidade 12.",
-    "Alterador 1, 1.º: n.º 5.º com corpo «...» (mantém-se a unidade 13), nova alínea a), nova alínea b) e alínea c) aditada; substituídas as unidades 14 e 15.",
-    "Alterador 1, 1.º: nova redacção do n.º 7.º; substituída a unidade 17.",
-    "Alterador 1, 2.º: campos D e E dos modelos em anexo (só em imagem); não aplicado.",
-    "Alterador 2: é a mesma Portaria 882/94 repetida; as mesmas alterações já ficaram aplicadas pelo alterador 1, nada a acrescentar."
+    "Alterador 1 (Portaria n.º 882/94), n.º 1.º: nova redação do n.º 4.º: substituída a unidade 12.",
+    "Alterador 1, n.º 1.º: nova redação do n.º 5.º, corpo «...» (mantém-se a unidade 13), nova alínea a) (unidade 14 substituída) e alíneas b) e c) novas em lugar da antiga b) (unidade 15 substituída pelas duas).",
+    "Alterador 1, n.º 1.º: nova redação do n.º 7.º: substituída a unidade 17.",
+    "Alterador 1, n.º 2.º: substituição dos campos D e E dos modelos A e B em anexo: modelos só em imagem e fora do texto do original, em nao_aplicavel (reparo confirmado como não aplicável).",
+    "Alterador 2: repetição da Portaria n.º 882/94, já aplicada como alterador 1."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

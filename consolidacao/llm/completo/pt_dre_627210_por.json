@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:627210:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Contra-ordenações",
+      "texto": "1 - Constitui contra-ordenação muito grave a violação dos n.os 1, 2, 3 e 5 do artigo 3.º, das alíneas c) e e) a h) do n.º 1 do artigo 4.º, das alíneas e) e f) do n.º 2 do artigo 4.º e do n.º 2 do artigo 9.º\n\n2 - Constitui contra-ordenação grave:\n\na) Imputável ao empregador, a violação dos n.os 7 a 9 do artigo 3.º, das alíneas a), b), d), i) e j) do n.º 1 do artigo 4.º, das alíneas a) a d), g) e h) do n.º 2 do artigo 4.º, da portaria referida no n.º 3 e do n.º 4 do artigo 4.º, dos n.os 1 e 2 do artigo 6.º, do artigo 7.º e do n.º 1 do artigo 9.º;\n\nb) Imputável ao trabalhador independente, a violação da alínea a) do artigo 5.º\n\n3 - As coimas aplicáveis ao trabalhador independente, nos termos da alínea b) do número anterior, são as correspondentes às infracções aos regimes jurídicos do serviço doméstico e do contrato individual de trabalho a bordo das embarcações de pesca.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (Lei 113/99), art. 15.º, n.º 1: revoga o artigo 12.º; o programa já o deixou «(Revogado.)», o que está certo; não muda.",
+    "Alterador 1, art. 15.º, n.º 2: nova redacção integral do artigo 11.º (n.os 1 a 3); aplicada, substituindo os antigos n.os 1 a 6.",
+    "Alterador 1, restantes artigos (1.º a 14.º, 16.º e 17.º): alteram outros diplomas; ignorados."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

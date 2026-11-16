@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:520432:por",
+  "artigos": [
+    {
+      "chave": "11.º",
+      "epigrafe": "Consultores",
+      "texto": "1 - Na DGAI podem desempenhar funções, em regime de comissão de serviço pelo período de um a três anos, renovável, consultores nomeados pelo membro do Governo responsável pela área da Administração Interna sob proposta do director-geral, de entre doutores ou mestres, ou outras personalidades de reconhecido mérito, nas áreas de atribuição do MAI.\n\n2 - Os consultores exercem funções em regime de isenção de horário de trabalho.\n\n3 - O exercício de funções nos termos dos números anteriores é contado, para todos os efeitos legais, designadamente para a progressão nas respectivas carreiras, como prestado nos lugares de origem.\n\n4 - Os consultores são remunerados pelo índice 820 da escala salarial do regime geral.\n\n5 - A dotação de consultores é aprovada por portaria dos membros do Governo responsáveis pelas áreas da Administração Interna, das Finanças e da Administração Pública.",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1 (DL 126-B/2011), art. 20.º: revogação genérica das normas dos diplomas orgânicos dos serviços do MAI objecto de reestruturação, sem nomear o original e com efeito adiado para a entrada em vigor dos decretos regulamentares que aprovam as orgânicas sucessoras: não se aplica ao texto. Alterador 3 (DL 161-A/2013), art. 13.º, b): revoga o DL 54/2012 (outro diploma), mantendo em vigor o artigo 11.º do original; não há no pedido instrução escrita que revogue artigos do original, pelo que nada se revoga.",
+  "instrucoes": [
+    "Reparo 11.º confirmado: o art. 13.º, b) do DL 161-A/2013 revoga o DL 54/2012 e diz que se mantém em vigor o artigo 11.º do original; nenhuma instrução revoga o artigo 11.º. Repus o texto original do 11.º (o programa tinha-o dado por revogado).",
+    "DL 126-B/2011 (Lei Orgânica do MAI): art. 20.º, revogação genérica e adiada das orgânicas reestruturadas, vai em nao_aplicavel; art. 21.º revoga o DL 203/2006 (outro diploma); nada aplicado ao original.",
+    "DR 29/2012 (orgânica da SG do MAI): art. 12.º revoga o DL 76/2007 (outro diploma); nenhuma instrução dirigida ao original.",
+    "DL 161-A/2013, art. 13.º: alíneas a) e c) revogam normas do DL 126-B/2011 e do DL 160/2012 (outros diplomas); alínea b) revoga o DL 54/2012 mantendo em vigor o artigo 11.º do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

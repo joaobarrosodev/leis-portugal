@@ -38,17 +38,22 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Ponto 2.º da Portaria n.º 1257/2003 (supressão do anexo D da Portaria n.º 1502/2002): o anexo D não consta do texto atual por artigos, pelo que não há unidade a que aplicar a supressão.",
+  "removidos": [],
+  "titulos": [
+    {
+      "atual": "## ANEXO D",
+      "novo": null,
+      "alterador": 1
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "1.º, art. 2.º: nova redação integral do corpo; epígrafe [...] mantida (Objectivos).",
-    "1.º, art. 4.º: n.º 1 '...' mantido; n.º 2 substituído (Recomendação 96/280/CE).",
-    "1.º, art. 6.º: proémio do n.º 1 e alíneas e) e f) substituídos; a)-d), g), h) mantidas; n.os 2 a 5 substituídos pela nova redação (o antigo n.º 3, prorrogação do prazo, deixa de constar).",
-    "1.º, art. 7.º: proémio, a) e c) mantidos; alínea b) substituída (gralha 'tabalho' copiada).",
-    "1.º, art. 10.º: nova redação com só n.os 1 e 2; como o alterador marca com '...' as unidades que mantém noutros artigos e aqui não o faz, os antigos n.os 3 e 4 deixam de constar.",
-    "1.º, art. 11.º: n.os 1, 2 e 3 substituídos; alíneas a)-c) do n.º 1 mantidas.",
-    "2.º: supressão do anexo D não aplicada (anexo ausente do texto atual)."
+    "1.º da Portaria 1257/2003: nova redação dos artigos 2.º, 4.º (n.º 2), 6.º (proémio do n.º 1, alíneas e) e f), n.os 2 a 5), 7.º (alínea b)), 10.º e 11.º (n.º 1, n.os 2 e 3) do Regulamento do anexo A - aplicado; o que vem como '...' fica do texto atual; o artigo 10.º passa a ter só os n.os 1 e 2 dados na nova redação.",
+    "2.º da Portaria 1257/2003: supressão do anexo D - título '## ANEXO D' eliminado (com o seu corpo)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

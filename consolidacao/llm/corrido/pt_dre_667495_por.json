@@ -9,10 +9,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Portaria n.º 101-A/96 (alterador 2), n.os 7.º e 11.º: actualizam o subsídio de refeição e os subsídios de viagem e marcha 'fixados na/pela Portaria n.º 1093-A/94' para novos valores, mas não dão nova redacção aos n.os 6.º e 10.º do original; é uma revisão autónoma de valores (a portaria regula ela própria o ano de 1996), sem instrução textual, pelo que não se altera o texto. O mesmo vale para os restantes números da Portaria 101-A/96, que não se dirigem ao texto do original.",
   "instrucoes": [
-    "Alt. 1 (Port. 87/95) n.º 1.º: nova redação do n.º 5.º (índice 106) -> unidade 19.",
-    "Alt. 2 (Port. 101-A/96): nova revisão anual autónoma, sem alteração nem revogação expressa do original -> nada."
+    "Alterador 1 (Portaria 87/95), 1.º: nova redacção do n.º 5.º; substituída a unidade 19 pelo texto do alterador.",
+    "Alterador 1, 2.º: produção de efeitos; não altera o texto.",
+    "Alterador 2 (Portaria 101-A/96), 7.º e 11.º: actualização de valores fixados na Portaria 1093-A/94 sem nova redacção dos n.os 6.º e 10.º; posto em nao_aplicavel (reparo do verificador confirmado como não textual).",
+    "Alterador 2, restantes números: revisão autónoma das remunerações de 1996; nada dirigido ao texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-06-18'
+version_history:
+  file: despacho-normativo-23-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-18'
+    amending: pt:dre:3620234:por
+    amending_title: Declaração de Rectificação n.º 1172/2010
+    changes:
+    - Revoga Artigo 14.º
+    - Altera Artigo ANEXO II — Procedimentos e requisitos para o reconhecimento dos agrupamentos de produtores
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/23/2005/04/07/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:42:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 1172/2010.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2005/despacho-normativo-23-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -321,19 +337,9 @@ b) 616 mil euros no sector dos ovinos e caprinos.
 
 ###### Artigo 14.º — Reconhecimento dos agrupamentos de produtores
 
-1 - O reconhecimento dos agrupamentos de produtores para efeitos dos pagamentos previstos nos artigos 2.º e 8.º do presente despacho obedece aos requisitos e procedimentos estabelecidos no anexo II.
+(Revogado.)
 
-2 - As entidades cujos associados pretendam beneficiar dos pagamentos complementares estabelecidos pelos artigos 2.º e 8.º do presente despacho devem encontrar-se reconhecidas como agrupamentos de produtores, nos termos do número anterior, até à data de 28 de Fevereiro de cada ano.
-
-3 - As entidades reconhecidas como agrupamentos de produtores, cujos membros pretendam continuar a beneficiar dos pagamentos complementares previstos no presente despacho devem enviar, anualmente, à direcção regional de agricultura (DRA) da área da sua sede, até à data de 31 de Janeiro, um relatório de actividade relativo ao ano precedente.
-
-4 - As DRA são responsáveis pelo controlo periódico da manutenção das condições justificativas do reconhecimento e procedem à análise do relatório referido no número anterior, enviando-o ao Gabinete de Planeamento e Política Agro-alimentar (GPPAA) até à data de 1 de Março.
-
-5 - Em caso de incumprimento das normas estabelecidas, sob proposta das DRA, o GPPAA pode propor a suspensão ou a revogação dos títulos de reconhecimento.
-
-6 - O GPPAA comunica ao IFADAP/INGA e às DRA as decisões sobre os pedidos de reconhecimento, bem como quaisquer alterações às respectivas condições.
-
-7 - O GPPAA envia às entidades referidas no número anterior, até 15 de Março de cada ano, a lista dos agrupamentos de produtores reconhecidos cujos associados poderão ser elegíveis aos pagamentos relativos ao ano precedente.
+> Revogado pelo/a [Declaração de Rectificação n.º 1172/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1172-2010-3620234), publicado em 2010-06-18.
 
 ###### Artigo 15.º — Declarações de comercialização
 
@@ -411,48 +417,6 @@ Serrana.
 
 ## ANEXO II — Procedimentos e requisitos para o reconhecimento dos agrupamentos de produtores
 
-1 - O reconhecimento dos agrupamentos de produtores para efeitos do presente diploma é concedido por despacho do director do Gabinete de Planeamento e Política Agro-Alimentar (GPPAA).
+(Revogado.)
 
-2 - Podem ser reconhecidas como agrupamento de produtores, a seu pedido, as entidades que, cumulativamente, preencham os seguintes requisitos:
-
-a) Reúnam, para a categoria de produtos a título da qual é solicitado o reconhecimento, o número mínimo de produtores e o volume mínimo de produção comercializado anualmente, constantes do quadro seguinte:
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/04/068b00/29212925.pdf)
-
-b) Revistam a natureza jurídica de cooperativa agrícola, sociedade comercial, sociedade de agricultura de grupo - integração parcial (SAG-IP), agrupamento complementar de exploração agrícola (ACEA), agrupamento complementar de empresas ou sociedade civil sob forma comercial;
-
-c) Sejam compostas por um mínimo de 75% de produtores ou, no caso das sociedades comerciais, possuam a maioria do capital detida por produtores, devendo as acções ser nominativas se essas sociedades revestirem a forma de sociedade anónima;
-
-d) Incluam nos respectivos estatutos disposições que garantam:
-
-I) O direito de se associar a qualquer interessado cuja exploração se localize dentro da respectiva área social;
-
-II) A obrigação para os seus membros de efectuar através do próprio agrupamento a colocação no mercado da totalidade da produção destinada à comercialização salvo derrogação expressamente autorizada pelo agrupamento;
-
-III) A obrigação de um período mínimo de permanência de um ano e respectivas condições de renúncia;
-
-e) Mantenham um sistema de contabilidade susceptível de permitir o controlo relativo à comercialização dos produtos para os quais tenha sido requerido o reconhecimento.
-
-3 - O requerimento para o reconhecimento deve ser apresentado junto da direcção regional de agricultura (DRA) da área onde se localiza a sede do requerente.
-
-4 - O requerimento referido no número anterior deve ser acompanhado dos seguintes documentos:
-
-a) Memória descritiva de actividades, incluindo, nomeadamente, a sua localização, a descrição das instalações e dos meios técnicos e administrativos relativos à podução, conservação, acondicionamento e comercialização dos produtos e a capacidade técnica de utilização, bem como, para os produtos para os quais se requer o reconhecimento, o valor da produção comercializada do conjunto dos produtores no decurso das três últimas campanhas;
-
-b) Prova da capacidade jurídica bastante dos representantes da entidade, para efeitos da apresentação do requerimento;
-
-c) Escritura de constituição e ou estatutos publicados no Diário da República e regulamento interno, se o houver, devidamente actualizados;
-
-d) Relação nominal dos associados, com localização das explorações, área afecta aos produtos e volumes de produção nas três últimas campanhas;
-
-e) Relatórios de actividade dos três últimos exercícios ou orçamento previsional (este apenas para agrupamentos constituídos há menos de um ano).
-
-5 - As entidades que foram reconhecidas como agrupamento de produtores ao abrigo do Regulamento (CEE) n.º [1360/78](https://data.europa.eu/eli/reg/1978/1360/oj?locale=pt), do Conselho, de 18 de Maio, ou do Regulamento (CE) n.º [952/97](https://data.europa.eu/eli/reg/1997/952/oj?locale=pt), do Conselho, de 20 de Maio, deverão acompanhar o seu requerimento apenas dos seguintes elementos:
-
-a) Elementos eventualmente intervenientes após o referido reconhecimento e susceptíveis de ter alterado os requisitos referidos no n.º 2;
-
-b) Relação nominal actualizada dos associados, com a localização das suas explorações e indicação da área afecta aos produtos e dos volumes de produção nas três últimas campanhas.
-
-6 - Compete às DRA, no prazo de 15 dias após a data da recepção dos processos, a sua instrução, a emissão do respectivo parecer e o seu envio ao GPPAA.
-
-7 - Compete ao GPPAA, no prazo de 15 dias após a data da recepção dos processos provenientes das DRA, a emissão do parecer e da decisão final sobre os mesmos.
+> Alterado pelo/a [Declaração de Rectificação n.º 1172/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1172-2010-3620234), publicado em 2010-06-18.

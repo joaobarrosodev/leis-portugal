@@ -145,9 +145,13 @@ b) Estarem colectados pela actividade que exercem.
 
 18.º As infracções do preceituado na presente portaria são punidas, nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-19.º As infracções do disposto nos n.os 1.º, 3.º e 9.º e seus parágrafos e § único do n.º 11.º constituem contravenções puníveis com a multa de 500$00 a 5000$00.
+19.º As infracções do disposto nos n.os 1.º, 3.º e 9.º e seus parágrafos e § único do n.º 11.º constituem contravenções puníveis com a multa de 1000$00 a 10000$00.
 
-20.º As infracções do disposto nos n.os 16.º e 17.º constituem contravenções puníveis com a multa de 200$00 a 500$00.
+> Alterado pelo/a [Portaria n.º 820/73](https://diariodarepublica.pt/dr/detalhe/portaria/820-1973-412019), publicado em 1973-11-19.
+
+20.º As infracções do disposto nos n.os 16.º e 17.º constituem contravenções puníveis com a multa de 1000$00 a 10000$00.
+
+> Alterado pelo/a [Portaria n.º 820/73](https://diariodarepublica.pt/dr/detalhe/portaria/820-1973-412019), publicado em 1973-11-19.
 
 21.º As disposições do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) serão aplicáveis à instrução preparatória e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos.
 

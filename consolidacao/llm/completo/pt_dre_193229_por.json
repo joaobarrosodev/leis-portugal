@@ -39,18 +39,23 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterações às tabelas anexas (só em imagem ou sem texto do anexo no texto atual): alterador 1 art. 3.º (tabelas 10 e 11), alterador 3 art. 2.º e alterador 7 (tabela 17 substituída, em imagem), alterador 5 § único (tabelas 10 e 13), alterador 6 (tabela 7), alterador 8 e 11 (tabela 10), alterador 9 art. 1.º (tabelas 1 a 9, em imagem), alterador 10 art. 2.º (tabelas 10 a 16), alterador 12 art. 2.º (tabelas 7, 8 e 9). Alterador 12 art. 3.º abole a classificação de praças de 1.ª e 2.ª sem alterar textualmente os artigos 3.º, 4.º, 7.º, 31.º a 34.º: não aplicado ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterações às tabelas anexas, que só existem em imagem («Da TABELA N.º 1 à TABELA N.º 17 — ver documento original») e não têm corpo de anexo no texto atual: DL 46290 art. 3.º (tabelas n.os 10 e 11, gratificações de representação), DL 46815 art. 2.º (tabela n.º 17 substituída), DL 47501 § único (especialidade «comando» aditada às tabelas n.os 10 e 13), DL 47756 (quantitativos aditados à tabela n.º 7), DL 47795 (tabela n.º 17 substituída), DL 48793 art. 1.º e DL 228/72 art. 1.º (gratificações incluídas na tabela n.º 10), DL 266/70 art. 1.º (tabelas n.os 1 a 9 substituídas), DL 133/72 art. 2.º (gratificação de pisteiro de combate aditada às tabelas n.os 10 a 16) e DL 233/74 art. 2.º, n.º 2 (reajuste da tabela 8). Alterações não textuais: DL 47114 art. 1.º (vencimentos de Cabo Verde passam a ser os das tabelas da Guiné e S. Tomé e Príncipe) e DL 233/74 art. 3.º (abolição da classificação de praças de 1.ª e 2.ª, sem nova redação de artigos).",
   "instrucoes": [
-    "Alterador 1 art. 1.º: aditados os n.os 9.º e 10.º ao artigo 19.º, inseridos depois do n.º 8.º e antes do § único.",
-    "Alterador 1 art. 2.º: nova redação do artigo 13.º, da alínea a) do n.º 7.º do artigo 19.º e do artigo 43.º; aplicadas.",
-    "Alterador 1 art. 3.º: alterações às tabelas 10 e 11; não aplicável (tabelas em imagem).",
-    "Alterador 2: nova redação do § 3.º do artigo 7.º; aplicada, mantidos o corpo e §§ 1.º e 2.º.",
-    "Alterador 3 art. 1.º: substituído o artigo 16.º e seu § único; aplicado. Art. 2.º: tabela 17 substituída; não aplicável.",
-    "Alterador 4 art. 2.º: nova redação do artigo 12.º (com § único); aplicada. Art. 1.º: norma autónoma, sem alteração textual.",
-    "Alteradores 5, 6, 7, 8, 9, 10, 11: aditamentos/substituições de tabelas anexas e normas autónomas; não aplicáveis ao texto dos artigos.",
-    "Alterador 12: prés e tabelas 7, 8, 9 e abolição da classificação 1.ª/2.ª; sem alteração textual dos artigos; não aplicado."
+    "Reparos do verificador confirmados quanto ao facto de as tabelas não estarem aplicadas, mas não podem ser aplicadas: as tabelas só existem em imagem; ficam em nao_aplicavel.",
+    "DL 46290 art. 1.º (alt. 1): aditados os n.os 9.º e 10.º ao art. 19.º, colocados a seguir ao n.º 8.º e antes do § único.",
+    "DL 46290 art. 2.º (alt. 1): nova redação do art. 13.º, da alínea a) do n.º 7.º do art. 19.º («primeiros 60 dias») e do art. 43.º — aplicadas.",
+    "DL 46290 art. 3.º: tabelas n.os 10 e 11 — nao_aplicavel (imagem).",
+    "DL 46746 (alt. 2): nova redação do § 3.º do art. 7.º — aplicada.",
+    "DL 46815 art. 1.º (alt. 3): art. 16.º e § único substituídos — aplicado; art. 2.º (tabela n.º 17) — nao_aplicavel.",
+    "DL 47114 art. 2.º (alt. 4): nova redação do art. 12.º (corpo e § único) — aplicada; art. 1.º não textual — nao_aplicavel.",
+    "DL 47501, 47756, 47795, 48793, 266/70, 133/72, 228/72 e 233/74: só alteram tabelas em imagem ou têm efeito não textual — nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": [
+    "4.º: o DRE diz «Substituídas as tabelas n.os 1 a 9 a que se referem os arts. 1º, 2º, 3º e 4º do presente d» (Decreto-Lei n.º 266/70) e nem a resposta nem as regras o mudam"
+  ]
 }

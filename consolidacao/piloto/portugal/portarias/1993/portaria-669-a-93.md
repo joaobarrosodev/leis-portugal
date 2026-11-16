@@ -42,6 +42,8 @@ c) Modelo C, para mútuo com hipoteca.
 
 a) Nome completo, estado civil, naturalidade, residência habitual dos outorgantes, bem como das pessoas singulares por estes representadas, a firma e o tipo das sociedades e as denominações das pessoas colectivas que os outorgantes representem, com indicação da respectiva sede, e ainda a menção do nome do cônjuge e do regime de bens, sendo casado, ou, sendo solteiro, a indicação de ser maior;
 
+> Alterado pelo/a [Portaria n.º 882/94](https://diariodarepublica.pt/dr/detalhe/portaria/882-1994-600130), publicado em 1994-10-01.
+
 b) Nacionalidade, se algum dos outorgantes não for português, salvo se intervier na qualidade de representante;
 
 c) Número de contribuinte, caso seja pessoa singular, ou, tratando-se de pessoa colectiva, o seu número de identificação, respectivo número de matrícula na conservatória do registo comercial e montante do capital social, quando devido.

@@ -351,9 +351,9 @@ Reforço da competitividade das zonas de pesca e valorização dos produtos;
 
 Diversificação e reestruturação das actividades económicas e sociais;
 
-Promoção e valorização da qualidade do ambiente costeiro e das comunidades, a fim de manter o seu carácter atraente e garantir a sua recuperação e desenvolvimento, bem como a protecção e valorização do património natural e arquitectónico;
+Promoção e valorização da qualidade do ambiente costeiro e das comunidades a fim de manter o seu carácter atraente e garantir a sua recuperação e desenvolvimento, bem como a protecção e valorização do património natural e arquitectónico;
 
-Aquisição de competências e animação.
+Aquisição de competências e cooperação.
 
 Com base na análise dos pontos anteriores devem ser definidos:
 
@@ -361,7 +361,7 @@ O objectivo global e, pelo menos, um indicador que permita avaliar o impacte da 
 
 Objectivos específicos e correspondentes indicadores que permitam avaliar os resultados das acções implementadas.
 
-Desejavelmente deverão ser indicadas as situações de partida de forma quantificada e os referenciais estatísticos, ou de outra natureza, que permitam aferir os níveis de realização dos indicadores de impacte e de resultados, bem como os respectivos calendários.
+Desejavelmente, deverão ser indicadas as situações de partida de forma quantificada e os referenciais estatísticos, ou de outra natureza, que permitam aferir os níveis de realização dos indicadores de impacte e de resultados, bem como os respectivos calendários.
 
 A estratégia pode ainda mencionar as modalidades de cooperação a prosseguir, identificando as áreas temáticas em que se pretendem desenvolver projectos de cooperação, os objectivos a alcançar e as mais-valias para o território resultantes da execução desses projectos.
 
@@ -544,6 +544,8 @@ Sistema de informação do grupo.
 5.10 - O gestor emite decisão das candidaturas, no prazo máximo de 10 dias úteis após recepção do parecer da comissão de avaliação, sendo a lista com as pontuações de todos os candidatos divulgada no sítio da Internet da Direcção-Geral das Pescas e Aquicultura.
 
 5.11 - Caso o número de freguesias das zonas costeiras abrangidas pela lista indicada na alínea a) do n.º 2.1, que foram objecto de selecção de um grupo, sejam inferiores a 80 % das constantes daquela lista, a autoridade de gestão pode proceder à abertura de novos concursos no mesmo mês de qualquer dos anos seguintes, no máximo até 2011, para apresentação de candidaturas para esses territórios, que seguirá os mesmos procedimentos previstos neste regulamento, até ser alcançado aquele limiar mínimo.
+
+> Alterado pelo/a [Portaria n.º 1237/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1237-2010-306892), publicado em 2010-12-13.
 
 ## ANEXO III
 

@@ -11,21 +11,21 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:354763:por",
-    "alterador": "pt:dre:612829:por"
+    "alterador": "pt:dre:612829:por;pt:dre:303601:por"
   },
   {
     "artigo": "unidades 24-24",
     "operacao": "substituir",
     "regra": "llm",
     "antes": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos e são obrigatoriamente nominativas ou ao portador registadas, embora convertíveis em acções ao portador findo este prazo.",
-    "depois": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos.",
+    "depois": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de um ano.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:354763:por",
-    "alterador": "pt:dre:612829:por"
+    "alterador": "pt:dre:612829:por;pt:dre:303601:por"
   },
   {
     "artigo": "unidades 61-61",
@@ -39,6 +39,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:354763:por",
-    "alterador": "pt:dre:612829:por"
+    "alterador": "pt:dre:612829:por;pt:dre:303601:por"
   }
 ]

@@ -3,8 +3,62 @@
   "substituicoes": [
     {
       "de": 9,
+      "ate": 9,
+      "texto": "1.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 10,
+      "ate": 11,
+      "texto": "2.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 12,
+      "ate": 24,
+      "texto": "3.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 25,
+      "ate": 25,
+      "texto": "4.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 26,
+      "ate": 26,
+      "texto": "5.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 27,
+      "ate": 30,
+      "texto": "6.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 31,
+      "ate": 31,
+      "texto": "7.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "8.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 33,
+      "ate": 33,
+      "texto": "9.º - (Revogado.)",
+      "alterador": 2
+    },
+    {
+      "de": 34,
       "ate": 34,
-      "texto": "1.º - (Revogado.)\n\n2.º - (Revogado.)\n\n3.º - (Revogado.)\n\n4.º - (Revogado.)\n\n5.º - (Revogado.)\n\n6.º - (Revogado.)\n\n7.º - (Revogado.)\n\n8.º - (Revogado.)\n\n9.º - (Revogado.)\n\n10.º - (Revogado.)",
+      "texto": "10.º - (Revogado.)",
       "alterador": 2
     },
     {
@@ -15,11 +69,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1 (Portaria n.º 902/87) fixa nova duração do internato geral (dezanove meses) sem dar nova redação ao n.º 11.º e mantém o original em vigor no que não for contrariado: derrogação não textual, não aplicada.",
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 902/87): o n.º 1.º fixa a duração do internato geral em dezanove meses, mas não dá nova redação ao n.º 11.º do original (21 meses) nem a outra unidade; os n.os 2.º e 3.º são normas próprias sobre férias e o 4.º mantém em vigor o original no que não for contrariado (revogação tácita, não textual). Nada aplicado deste alterador.",
   "instrucoes": [
-    "Alterador 1: nova duração do internato e regime de férias, sem alteração textual do original; manutenção em vigor no que não for contrariado — não aplicada.",
-    "Alterador 2, n.º 2.º: revoga a portaria com excepção dos n.os 11.º a 13.º — n.os 1.º a 10.º (unidades 9 a 34) e 14.º (unidade 41) passam a (Revogado.).",
-    "Alterador 2, n.os 1.º e 3.º e Regulamento anexo: aprovam regulamento novo e revogam artigos da Portaria n.º 1223/82 — dirigidos a outros diplomas, ignorados."
+    "Alterador 1, n.º 1.º: duração de dezanove meses — sem fórmula de nova redação do n.º 11.º, em nao_aplicavel (reparo verificado: nenhuma instrução escreve o novo n.º 11.º).",
+    "Alterador 1, n.os 2.º a 4.º: normas próprias e ressalva do que não for contrariado — sem efeito textual, em nao_aplicavel.",
+    "Alterador 2, n.º 2.º: revogada a Portaria n.º 875-A/84 com excepção dos n.os 11.º a 13.º — n.os 1.º a 10.º e 14.º ficam (Revogado.), cada ponto com todas as suas unidades (unidades 9 a 34 e 41); mantidos os n.os 11.º a 13.º.",
+    "Alterador 2, n.os 1.º e 3.º: aprova regulamento próprio e revoga artigos da Portaria n.º 1223/82 — instruções a outro diploma, ignoradas."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

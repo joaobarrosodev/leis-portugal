@@ -15,14 +15,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 4, 2.º: a fiscalização passa a um só guarda florestal auxiliar, sem nova redacção do n.º 6.º — não aplicada. Alterador 1: substituição da planta anexa (só em imagem). Alterador 3 (suspensão, revogado pelo alterador 4) e alterador 4, 1.º (renovação) não são alterações textuais.",
+  "nao_aplicavel": "Alterador 1 (Portaria 893/94): a planta anexa que substitui a da Portaria 627/94 só vem em imagem. Alterador 3 (Portaria 505/2000): suspensão da actividade cinegética por 180 dias, efeito não textual (e revogada pela Portaria 714/2000). Alterador 4 (Portaria 714/2000), n.º 1.º: renovação da concessão até 31 de Maio de 2012 com 1943,5000 ha e nova planta, efeito não textual sem nova redacção dos n.os 1.º ou 2.º; n.º 2.º: a fiscalização passa a um só guarda florestal auxiliar, mas a instrução não indica o n.º 6.º nem dá nova redacção, pelo que não se altera o texto; n.º 3.º revoga a Portaria 505/2000, outro diploma.",
   "instrucoes": [
-    "Alt. 1: nova redacção do n.º 1.º (2206 ha) — substituída depois pela do alt. 2 na mesma unidade 6.",
-    "Alt. 1: substituição da planta — só em imagem, não aplicada.",
-    "Alt. 2, 1.º: nova redacção do n.º 1.º — substituída a unidade 6, mantendo o número 1.º.",
-    "Alt. 2, 1.º: aditado n.º 1.º-A — inserido depois da unidade 6.",
-    "Alt. 3: suspensão — não textual.",
-    "Alt. 4: renovação e um só guarda — sem redacção textual, em nao_aplicavel."
+    "Alterador 1 (Portaria 893/94): nova redacção do n.º 1.º (2206 ha); substituída depois pela redacção do alterador 2, que é a que fica na unidade 6.",
+    "Alterador 1: substituição da planta anexa — só em imagem, em nao_aplicavel.",
+    "Alterador 2 (Portaria 868/97), n.º 1.º: nova redacção do n.º 1.º (2038,5660 ha) — substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 2, n.º 1.º: aditado o n.º 1.º-A — inserido depois da unidade 6.",
+    "Alterador 2, n.os 2.º e 3.º: manutenção de direitos e entrada em vigor — sem alteração ao texto.",
+    "Alterador 3 (Portaria 505/2000): suspensão da actividade cinegética — não textual, em nao_aplicavel.",
+    "Alterador 4 (Portaria 714/2000): renovação até 2012 (1943,5000 ha) e um só guarda florestal auxiliar — reparos confirmados: nenhuma das duas dá nova redacção nem indica a unidade a mudar; em nao_aplicavel. Revogação da Portaria 505/2000 é de outro diploma."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

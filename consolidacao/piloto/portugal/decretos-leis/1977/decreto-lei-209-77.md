@@ -37,101 +37,81 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 1.º — (Conceito de desalojado)
 
-1. São considerados desalojados todos os indivíduos de nacionalidade portuguesa vindos das ex-colónias posteriormente a 1 de Setembro de 1974 e anteriormente a 30 de Novembro de 1976 e que, numa destas, tivessem a residência habitual.
+1. São considerados desalojados:
 
-2. São ainda considerados desalojados os indivíduos portugueses que satisfaçam os requisitos do número anterior e tenham vindo ou venham para Portugal até 31 de Julho de 1977, desde que provem terem sido impedidos de embarcar antes de 30 de Novembro de 1976 ou terem sido posteriormente forçados a abandonar o território por motivos independentes e estranhos à sua vontade.
+a) Os portugueses vindos das ex-colónias posteriormente a 1 de Setembro de 1974 e anteriormente a 30 de Novembro de 1976, que, numa delas, tivessem residêncial habitual;
+
+b) Os portugueses que satisfaçam os requisitos do número anterior e tenham vindo, ou venham, para Portugal até 31 de Julho de 1977, desde que tenham sido forçados a abandonar o território por motivos independentes e estranhos à sua vontade;
+
+c) Os portugueses que, em 1 de Setembro de 1974, tivessem residência habitual numa das ex-colónias, mas que, por virtude de doença ou férias, se encontrassem em Portugal a partir de data não anterior a 1 de Março do mesmo ano;
+
+d) Os portugueses vindos das ex-colónias antes de 1 de Setembro de 1974 que tenham mais de 50 anos de idade e vinte de residência em qualquer delas, que, àquela data, viviam exclusivamente dos rendimentos de bens que lá possuíam e se encontrem agora em situação de carência, nos termos do artigo 3.º
+
+2. A prova da condição de desalojado será apreciada casuisticamente pelo Alto-Comissário.
 
 3. O disposto no número anterior não se aplica aos funcionários e agentes do Estado ou demais entidades públicas, nem aos cooperantes, quer sejam ou não funcionários.
 
+> Alterado pelo/a [Lei n.º 73/77](https://diariodarepublica.pt/dr/detalhe/lei/73-1977-278258), publicado em 1977-09-27.
+
 ###### Artigo 2.º — (Direito a apoio por parte do Estado)
 
-1. Em geral poderão beneficiar de apoio por parte do Estado os desalojados em quem não concorram cumulativamente as seguintes condições:
+(Revogado.)
 
-a) Alojamento em habitação própria em termos aceitáveis para o comum da sociedade portuguesa, o que inclui o aluguer de quartos ou partes de casa;
-
-b) Posto de trabalho estável por conta própria, que inclui os beneficiários de financiamentos específicos para desalojados, ou por conta de outrem, vencido que seja o período experimental aplicável à profissão.
-
-São considerados nesta situação os aposentados e os funcionários já integrados no quadro geral de adidos, mesmo na disponibilidade, e bem assim os desalojados que tenham recorrido à emigração, desde que esta se efective, ainda que temporariamente.
-
-2. O disposto no número anterior pode ser objecto de regime especial adaptado às finalidades da respectiva forma de apoio.
-
-3. Oportunamente serão fixados os prazos e regras a que há-de obedecer a total extinção do apoio a desalojados por parte do Estado.
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 ###### Artigo 3.º — (Situação de carência)
 
-1. Considera-se em situação de carência o desalojado que não aufira rendimentos de qualquer proveniência iguais ou superiores a 60% do salário mínimo nacional ou aquele cujo agregado familiar não atinja de rendimento per capita este valor.
+(Revogado.)
 
-2. Para efeito do número anterior, o agregado familiar é constituído:
-
-a) Pelo desalojado e pelo cônjuge;
-
-b) Pelos descendentes em linha recta e equiparados menores de 18 anos ou incapazes;
-
-c) Pelos ascendentes e afins em linha recta e equiparados, sem direito a pensão, que vivam com o desalojado em economia conjunta e na sua dependência económica.
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 ### CAPÍTULO II — Prestações específicas
 
 ###### Artigo 4.º — (Âmbito quanto às prestações específicas)
 
-1. Consideram-se prestações específicas a desalojados as formas de ajuda que, pelas suas características, pela sua dimensão ou pela urgência de resposta, não cabem por enquanto nas estruturas normais dos departamentos adequados. Respeitam predominantemente ao alojamento, à integração profissional por pequenas iniciativas e à adaptação social, devendo esta relacionar-se estreitamente com aquelas duas modalidades de prestação específica.
+(Revogado.)
 
-2. São asseguradas pelo Comissariado para os Desalojados, através dos organismos ou serviços que dele dependam e dentro dos limites dos orçamentos aprovados.
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 ###### Artigo 5.º — (Alojamento individual)
 
-A ajuda para alojamento individual, limitada a aspectos não contemplados em programas para habitação de iniciativa do Comissariado ou de outros departamentos, tem por objectivos:
+(Revogado.)
 
-a) Contribuir para a primeira instalação do desalojado em casa própria ou arrendada;
-
-b) Promover a colocação de idosos e menores privados de agregado familiar próprio em casas particulares
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 ###### Artigo 6.º — (Alojamentos colectivos)
 
-1. O recurso a alojamentos colectivos tem por objectivo:
+(Revogado.)
 
-a) Assegurar a instalação da população activa a título muito transitório;
-
-b) Assegurar a instalação em lares, em condições de dignidade, a grupos de população desalojada socialmente mais desfavorecida, com prioridade para idosos e menores privados de agregado familiar.
-
-2. A instalação a que se refere a alínea a) do número anterior terá lugar em centros temporários de alojamento (CTA), caracterizados, fundamentalmente, pela finalidade de apoio à integração sócio-profissional dos utentes e por não prosseguirem fins lucrativos.
-
-3. Consideram-se equiparados a centros temporários de alojamento os estabelecimentos que, embora com fins lucrativos, se submetam a contratos especiais e sirvam a finalidade referida no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 ###### Artigo 7.º — (Orientações gerais)
 
-A instalação em alojamentos colectivos obedecerá aos princípios seguintes:
+(Revogado.)
 
-a) Os alojamentos colectivos devem funcionar de preferência em regime de cooperação com entidades especialmente vocacionadas para o efeito e dispondo de equipamentos adequados, em conformidade com acordos ou contratos tipo;
-
-b) A intervenção dos utentes na gestão dos alojamentos colectivos deve ser estimulada e apoiada, tendo em vista promover a sua solidariedade actuante nos propósitos da integração e, bem assim, assegurar a melhoria de qualidade do serviço e a economia de custos;
-
-c) A permanência nos CTA deverá ser acompanhada de acções dirigidas à rápida integração sócio-profissional dos utentes na sociedade portuguesa;
-
-d) As despesas com a estada no CTA devem ser comparticipadas pelos utentes com importâncias variáveis segundo o grau de carência e crescentes em função do tempo de permanência;
-
-e) As despesas nos lares devem ser comparticipadas pelos próprios e pelos seus familiares com importâncias variáveis segundo o respectivo grau de carência.
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 ###### Artigo 8.º — (Ajuda à integração profissional)
 
-1. A ajuda à integração profissional por pequenas iniciativas tem por objectivo contribuir para a inserção do desalojado na actividade profissional e não poderá exceder o montante mínimo que estiver fixado para o sistema de crédito a desalojados.
+(Revogado.)
 
-2. Não são considerados aqueles desalojados que tenham requerido e beneficiem de empréstimos de montante superior ao indicado, qualquer que tenha sido a entidade que o conceda.
-
-3. A prestação específica não excederá o limite de 15000$00 quando revestir a forma de subsídio e revestirá a forma de empréstimo, isento de juros, na parte que eventualmente exceda aquele montante.
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 ###### Artigo 9.º — (Protecção complementar na saúde)
 
-A comparticipação nas despesas com a assistência médico-social, que normalmente ficam a cargo dos beneficiários, será assegurada, em casos especiais, mediante estudo individualizado da situação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
 ###### Artigo 10.º — (Normas regulamentares)
 
-1. As condições de atribuição de cada uma das prestações, a sua natureza e montantes, incluindo a comparticipação dos utentes, e o modo de funcionamento dos equipamentos, assim como a articulação das entidades intervenientes, deverão ser estabelecidos em normas regulamentares a elaborar com a participação de representantes dos utentes e a aprovar pelo Alto-Comissário.
+(Revogado.)
 
-2. A aplicação destas normas deverá ser avaliada semestralmente de modo a permitir a sua revisão no sentido da integração progressiva das diversas prestações nas estruturas normais ou a sua oportuna cessação.
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
-###### Artigo 11.º — Interpretação e integração
+###### Artigo 11.º — (Interpretação e integração)
 
 1 - (Revogado.)
 
@@ -139,11 +119,13 @@ A comparticipação nas despesas com a assistência médico-social, que normalme
 
 3. Para além do estabelecido no presente diploma, o Alto-Comissário poderá determinar o atendimento de casos excepcionais a fim de responder a situações não previstas neste diploma e que apresentem um carácter particular de gravidade ou de urgência.
 
-> Alterado pelo/a [Lei n.º 73/77](https://diariodarepublica.pt/dr/detalhe/lei/73-1977-278258) e [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
+> Alterado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 ###### Artigo 12.º — (Revisão)
 
-O presente diploma será revisto um ano após a sua entrada em vigor.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 401/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1978-324774), publicado em 1978-12-15.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Joaquim Jorge de Pinho Campinos.
 

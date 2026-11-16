@@ -15,11 +15,12 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 1: as agências passam a designar-se agências de contratualização dos serviços de saúde (ACSS), mudança de designação geral sem indicar que trechos do texto mudam; não aplicada às unidades 10-23.",
+  "nao_aplicavel": "Despacho Normativo n.º 61/99, n.º 1: as agências de acompanhamento dos serviços de saúde passam a designar-se agências de contratualização dos serviços de saúde (ACSS). É uma mudança de denominação sem redacção textual para os n.os 1 a 5 nem para o preâmbulo do original (e a sigla AASS do n.º 1 não tem substituto escrito); reescrever essas unidades exigiria montar texto que não está letra a letra em nenhuma fonte, pelo que não se aplica ao texto.",
   "instrucoes": [
-    "Alterador 1, n.º 1: nova designação das agências (geral, não textual); não aplicada.",
-    "Alterador 1, n.º 2: nova redação do n.º 6 (unidade 23); substituída.",
-    "Alterador 1, n.º 3: aditados os n.os 7 a 8.3; inseridos depois da unidade 23."
+    "DN 61/99, n.º 1: mudança de denominação das agências (AASS para ACSS), sem redacção textual para as unidades do original: em nao_aplicavel (reparo confirmado como dúvida, não aplicado).",
+    "DN 61/99, n.º 2: nova redacção do n.º 6: substituída a unidade 23.",
+    "DN 61/99, n.º 3: aditados os n.os 7, 7.1, 7.2, 7.3, 8, 8.1, 8.2 e 8.3 com as alíneas: inseridos depois da unidade 23.",
+    "DN 61/99, n.os 4 e 5: despesas e entrada em vigor do próprio despacho, não dirigidos ao original: ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

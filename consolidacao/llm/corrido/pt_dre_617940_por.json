@@ -15,14 +15,14 @@
       "alterador": 3
     }
   ],
-  "nao_aplicavel": "Alterador 4 (Portaria 785/99) desanexa e anexa prédios (2197,3770 ha) e, no 2.º, passa a fiscalização a dois guardas com meio de transporte ou cinco sem, sem dar nova redação ao n.º 6.º; alterador 5 (Portaria 418/2006) renova e anexa (2879 ha): alterações não textuais, não aplicadas.",
+  "nao_aplicavel": "Alterador 4 (Portaria 785/99): 1.º desanexa e anexa prédios (área total 2197,3770 ha) sem nova redacção do n.º 1.º; 2.º diz que a zona passará a ser fiscalizada por dois guardas com transporte ou cinco sem transporte, mas não altera expressamente o n.º 6.º nem dá redacção para ele (reparo visto, não aplicado). Alterador 5 (Portaria 418/2006): renovação por 12 anos e anexação (2879 ha), sem nova redacção de nenhum número. Mudar áreas, prazos ou guardas seria inferir uma redacção que nenhuma instrução dá por escrito.",
   "instrucoes": [
-    "Alt. 1: nova redação do n.º 1.º (1604,50 ha), depois substituída.",
-    "Alt. 2: nova redação do n.º 1.º com n.os 1 e 2 (1602,7920 ha), depois substituída por inteiro.",
-    "Alt. 3, 1.º: nova redação do n.º 1.º (1592,8360 ha) -> unidade 6 substituída com o texto final, mantendo o número 1.º.",
-    "Alt. 3, 1.º: aditado n.º 1.º-A -> inserido depois da unidade 6.",
-    "Alt. 4: desanexação/anexação e guardas, sem nova redação -> nao_aplicavel.",
-    "Alt. 5: renovação e anexação, não textual."
+    "Alterador 1 (Portaria 136/95): nova redacção do n.º 1.º (1604,50 ha); depois substituída.",
+    "Alterador 2 (Portaria 647-B/96): nova redacção do n.º 1.º em dois números (1602,7920 ha e enclaves); depois substituída por inteiro pelo alterador 3.",
+    "Alterador 3 (Portaria 829/97), 1.º: nova redacção do n.º 1.º (1592,8360 ha); unidade 6 substituída, mantendo o número 1.º.",
+    "Alterador 3, 1.º, 2.ª parte: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 4 (Portaria 785/99): desanexação/anexação e fiscalização por guardas, sem redacção para o n.º 1.º nem para o n.º 6.º; não aplicado.",
+    "Alterador 5 (Portaria 418/2006): renovação e anexação, sem redacção; não aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

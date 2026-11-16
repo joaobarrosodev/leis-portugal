@@ -54,5 +54,19 @@
     "unidade": [],
     "diploma": "pt:dre:546976:por",
     "alterador": "pt:dre:423602:por"
+  },
+  {
+    "artigo": "3.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 3.º — Exames para obtenção da carta de condução\n\n1 - O exame para as categorias A e B e para a subcategoria E + B consta de uma prova teórica e de uma prova prática.\n\n2 - O exame para as categorias C e D consta de uma prova teórica, de uma prova técnica e de uma prova prática.\n\n3 - A admissão a exame para as subcategorias E + B, E + C e E + D depende, respectivamente, da prévia habilitação nas categorias B, C ou D.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20.",
+    "depois": "###### Artigo 3.º — Exames para obtenção da carta de condução\n\n1 - O exame para as categorias A e B e para a subcategoria E + B consta de uma prova teórica e de uma prova prática.\n\n2 - O exame para as categorias C e D consta de uma prova teórica, de uma prova técnica e de uma prova prática.\n\n3 - A admissão a exame para as subcategorias E + B, E + C e E + D depende, respectivamente, da prévia habilitação nas categorias B, C ou D.\n\n4 - Ficam dispensados da prestação das provas teóricas e ou técnicas os candidatos já titulares de carta de condução válida para cuja obtenção tenham sido aprovados em alguma ou em ambas dessas provas, bem como os titulares de licença de condução que tenham efectuado prova teórica escrita para a sua obtenção.\n\n5 - A realização de exame de condução por parte de candidatos portadores de restrição ou limitação de âmbito sensorial ou psicomotor que não sejam inibidoras da condução reveste forma especial, com conteúdo a definir por despacho do director-geral de Viação, de acordo com as condicionantes existentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20.\n\n> Alterado pelo/a [Decreto-Lei n.º 214/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1996-168056), publicado em 1996-11-20.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:546976:por",
+    "alterador": "pt:dre:168056:por"
   }
 ]

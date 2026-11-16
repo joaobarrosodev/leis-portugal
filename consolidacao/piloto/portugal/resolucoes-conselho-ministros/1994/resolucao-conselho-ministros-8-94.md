@@ -1107,6 +1107,4 @@ Parque urbano.
 
 2 - Equipamentos de menor dimensão, nomeadamente escolas do 1.º e 2.º ciclos do ensino básico, centros infantis, extensões do Centro de Saúde e outros de nível idêntico, instalar-se-ão nos aglomerados de nível II e serão localizados de acordo com o Plano de Urbanização ou planos de pormenor.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00490065.pdf)
-
 > Alterado pelo/a [Resolução do Conselho de Ministros n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2007-262345), publicado em 2007-01-05.

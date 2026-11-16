@@ -13,6 +13,9 @@ consolidacao:
   - id: pt:dre:122132155:por
     title: Despacho Normativo n.º 12/2019
     publication_date: '2019-04-18'
+  - id: pt:dre:107963533:por
+    title: Despacho Normativo n.º 7/2017
+    publication_date: '2017-08-08'
 ---
 
 # Despacho normativo n.º 18-A/2010
@@ -173,15 +176,17 @@ Instruções de preenchimento da relação de clientes
 
 4 - Tendo havido crédito reportado de período anterior de valor superior a 25 % do reembolso pedido e se o imposto dedutível do período for inferior ao pedido de reembolso, devem ser submetidas, desde que ainda não entregues, as relações, no máximo de três, correspondentes aos períodos de reporte que estão a influenciar o pedido de reembolso.
 
-5 - A col. 1 deve ser preenchida com a identificação fiscal dos clientes nacionais com os quais tenham sido efectuadas as seguintes operações:
+5 - A coluna 1 deverá ser preenchida com a identificação fiscal dos clientes nacionais com os quais tenham sido efetuadas as seguintes operações:
 
 a) Transmissões de bens e prestações de serviços referidos nas subalíneas I) a VI) da alínea b) do n.º 1 do artigo 20.º do CIVA;
 
-b) Transmissões de bens isentas nos termos do artigo 6.º do [Decreto-Lei n.º 198/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), de 19 de Junho;
+b) Transmissões de bens isentas nos termos do artigo 6.º do [Decreto-Lei n.º 198/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), de 19 de junho;
 
-c) Operações abrangidas pelo artigo 10.º do [Decreto-Lei n.º 362/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1999-570294), de 16 de Setembro;
+c) Operações abrangidas pelo artigo 10.º do [Decreto-Lei n.º 362/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1999-570294), de 16 de setembro;
 
-d) Operações abrangidas pelas alíneas i), j) e l) do n.º 1 do artigo 2.º do CIVA.
+d) Operações abrangidas pelas alíneas i), j) e l) do n.º 1 do artigo 2.º do CIVA;
+
+e) Operações referidas no n.º 2 do artigo 6.º do regime aprovado pelo [Decreto-Lei n.º 21/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2007-518046), de 29 de janeiro.
 
 6 - A col. 2 deve ser preenchida com o número de identificação da declaração de exportação, excepto quando a exportação se processa em estância aduaneira situada fora do território nacional, sendo nesses casos de indicar a sigla EAFTN.
 
@@ -192,6 +197,8 @@ d) Operações abrangidas pelas alíneas i), j) e l) do n.º 1 do artigo 2.º do
 a) Operações efectuadas no estrangeiro, nomeadamente as transmissões de bens e prestações de serviços referidas nos n.os 5, 7, 9 e 11 do artigo 6.º do CIVA, bem como as prestações de serviços que não sejam tributáveis em território nacional em resultado da aplicação do disposto na alínea a) do n.º 6 do artigo 6.º do CIVA;
 
 b) Outras operações isentas ou sem liquidação de imposto que conferem direito à dedução, nomeadamente operações internas cuja liquidação não compete ao declarante.
+
+> Alterado pelo/a [Despacho Normativo n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2017-107963533), publicado em 2017-08-08.
 
 ## ANEXO II — Relação de fornecedores
 
@@ -215,15 +222,21 @@ Instruções de preenchimento da relação de fornecedores
 
 Caso a liquidação do imposto dedutível tenha sido efectuada por sujeitos passivos não enquadrados no regime normal do IVA, devem ser inscritas nesta col. as siglas «OI» para as «Operações Imobiliárias», «AI» para os «Actos Isolados» e «OR» para «Outros Regimes».
 
-7 - A col. 2 destina-se à indicação do NIF, quer de fornecedores nacionais quer de fornecedores pertencentes a outros Estados membros da União Europeia. No caso em que a liquidação e a dedução do imposto tenham sido efectuadas pelo adquirente dos bens ou pelo destinatário dos serviços, quando não sejam aquisições intracomunitárias de bens, deve ser mencionado o NIF do declarante, indicando obrigatoriamente na col. 1 o prefixo «RC».
+7 - A col. 2 destina-se à indicação do NIF, quer de fornecedores nacionais quer de fornecedores pertencentes a outros Estados membros da União Europeia. No caso em que a liquidação e a dedução do imposto tenham sido efetuadas pelo adquirente dos bens ou pelo destinatário dos serviços, quando não sejam aquisições intracomunitárias de bens ou de serviços deve ser mencionado o NIF do declarante, indicando obrigatoriamente na col. 1 o prefixo 'RC' ou o prefixo 'IM' no caso de importações sujeitas ao regime previsto nos números 8 e 9 do artigo 27.º do CIVA.
 
-8 - Na col. 3 deve ser mencionado o número da liquidação constante do recibo de pagamento informatizado ou das listagens dos registos de liquidação, ambos emitidos pelas tesourarias da DGAIEC que deram origem ao imposto deduzido. Neste caso não são preenchidas as cols. 1 e 2.
+8 - Na col. 3 deve ser mencionado o número da liquidação constante do recibo de pagamento informatizado ou das listagens do registo de liquidação, ambos emitidos pelas tesourarias da AT que deram origem ao imposto deduzido. Neste caso, não são preenchidas as cols. 1 e 2.
 
-9 - Na col. 4 devem ser indicados o mês e o ano da operação que deu origem ao imposto deduzido, isto é, no caso de fornecedores nacionais ou comunitários, o da emissão das facturas ou documentos equivalentes e, no caso de fornecedores de países terceiros, a data de pagamento do IVA liquidado constante do recibo de pagamento informatizado ou das listagens de registo de liquidação, ambos emitidos pelas tesourarias da DGAIEC, correspondentes à declaração de importação.
+No caso de importações sujeitas ao regime previsto nos números 8 e 9 do artigo 27.º do CIVA, na col. 3 deve ser preenchido o número da liquidação constante do documento de importação. Neste caso também serão preenchidas as cols. 1 e 2, com o prefixo 'IM' e com o NIF do declarante respetivamente.
+
+9 - Na col. 4 devem ser indicados o mês e o ano da operação que deu origem ao imposto deduzido, isto é, no caso de fornecedores nacionais ou comunitários, o da emissão das faturas ou documentos equivalentes e, no caso de fornecedores de países terceiros, a data de pagamento do IVA liquidado constante do recibo de pagamento informatizado ou das listagens de registo de liquidação, ambos emitidos pela tesourarias da AT, correspondentes à declaração de importação.
+
+No caso de importações sujeitas ao regime previsto nos números 8 e 9 do artigo 27.º do CIVA, na col. 4 devem ser indicados o mês e o ano da emissão do documento de importação.
 
 10 - Na col. 5 deve ser indicado o valor tributável relativo à(s) aquisição(ões) de bens ou de serviços e à(s) importação(ões), constante(s) do(s) correspondente(s) documento(s), sujeita(s) a imposto.
 
 11 - Na col. 6 deve ser mencionado o IVA efectivamente deduzido em consequência, nomeadamente, das limitações do direito à dedução previstas no artigo 21.º do CIVA ou da utilização do pro rata.
+
+> Alterado pelo/a [Despacho Normativo n.º 7/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2017-107963533), publicado em 2017-08-08.
 
 ## ANEXO III — Relação dos sujeitos passivos a que respeitam as regularizações
 

@@ -1,15 +1,675 @@
 {
   "id": "pt:dre:688589:por",
-  "artigos": [],
+  "artigos": [
+    {
+      "chave": "único",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "2.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "4.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "18.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "19.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "20.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "21.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "22.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "23.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "24.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "25.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "26.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "27.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "28.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "29.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "30.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "31.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "32.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "33.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "34.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "36.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "37.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "38.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "39.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "40.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "41.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "42.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "43.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "44.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "45.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "46.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "47.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "48.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "49.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "50.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "51.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "52.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "53.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "54.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "55.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "56.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "57.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "58.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "59.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "60.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "61.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "62.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "63.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "64.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "65.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "66.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "67.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "68.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "69.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "70.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "71.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "72.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "73.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "74.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "chave": "75.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "76.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "77.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "78.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "79.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "80.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "81.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "82.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "83.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "84.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "85.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "86.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "87.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "chave": "88.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    }
+  ],
   "removidos": [],
-  "nao_aplicavel": "Alt. 1 (Portaria 1016/91), n.º 8.º: revoga a secção III e a subsecção III da secção V do capítulo IV e os anexos B a J do Regulamento; o texto atual não traz as divisões em capítulos/secções nem os anexos, por isso não se sabe que artigos abrange. N.º 6.º (extinção dos cursos do art. 28.º) não é alteração textual. Alt. 2 (DL 322/93), art. 13.º, al. a): revoga o diploma por inteiro (chamado 'Decreto-Lei n.º 345/72, de 30 de Agosto', quando o original é Decreto), sem prejuízo do n.º 2 do art. 3.º; revogação global, não aplicada artigo a artigo.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO A — Organograma",
+      "texto": "(Revogado.)",
+      "alterador": 2
+    },
+    {
+      "titulo": "## ANEXO B — Programa anual das actividades escolares",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO C — Calendário escolar",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO D — Disciplinas e instruções dos cursos de formação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO E — Disciplinas de que dependem as diversas instruções dos cursos de formação",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO F — Plano do curso de formação de marinheiro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO G — Plano do curso de formação de fogueiro-motorista",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO H — Plano do curso de formação de electricista",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO I — Plano do curso de formação de copeiro",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO J — I) Condições de admissão",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Portaria n.º 1016/91, n.º 6.º (são considerados extintos os cursos de formação ministrados ao abrigo do artigo 28.º do Regulamento): não é alteração textual, não se aplica ao texto (o artigo 28.º fica de qualquer modo revogado pelo Decreto-Lei n.º 322/93).",
   "instrucoes": [
-    "Alt. 1 (Portaria 1016/91), n.os 1.º a 5.º e 7.º: criam cursos e regras próprias, não alteram o texto do original; ignorados.",
-    "Alt. 1, n.º 6.º: declara extintos os cursos do art. 28.º; não textual; não aplicado.",
-    "Alt. 1, n.º 8.º: revoga secção III e subsecção III da secção V do cap. IV e anexos B a J; alvo não identificável no texto atual; não aplicado.",
-    "Alt. 2 (DL 322/93), art. 13.º, al. a): revogação global do diploma (designação 'Decreto-Lei' divergente); não aplicada artigo a artigo; restante diploma (criação da EMCP, extinção da EMM) não altera o texto."
+    "Alterador 1 (Portaria n.º 1016/91), n.º 8.º: revoga a secção III do capítulo IV (artigos 39.º a 60.º, subsecções I a IV) e a subsecção III da secção V do capítulo IV (artigos 66.º a 74.º) — artigos com «(Revogado.)», alterador 1; o artigo 87.º do Regulamento admite a alteração destas disposições e dos anexos por portaria.",
+    "Reparo confirmado: o mesmo n.º 8.º revoga os anexos B, C, D, E, F, G, H, I e J do Regulamento — o corpo de cada um passa a «(Revogado.)», alterador 1.",
+    "Alterador 1, n.os 1.º a 5.º e 7.º: criam cursos novos e regras próprias da portaria, sem texto dirigido ao Regulamento; n.º 6.º (extinção dos cursos do artigo 28.º) vai em nao_aplicavel.",
+    "Alterador 2 (Decreto-Lei n.º 322/93), artigo 13.º, alínea a): revoga «O Decreto-Lei n.º 345/72, de 30 de Agosto» — é este diploma (Decreto n.º 345/72, de 30 de Agosto, que aprova o Regulamento da Escola de Mestrança e Marinhagem, escola que o artigo 11.º do mesmo decreto-lei extingue); o «sem prejuízo do n.º 2 do artigo 3.º» só mantém os quadros de pessoal, que não constam deste texto. Revogação integral: artigo único e artigos 1.º a 88.º do Regulamento com «(Revogado.)» (alterador 2, salvo os já revogados pelo alterador 1) e anexo A também «(Revogado.)», alterador 2.",
+    "Títulos de divisão: a revogação não muda designações nem epígrafes; titulos vazio."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [
+    "17.º: nenhum alterador menciona o artigo 17.º",
+    "18.º: nenhum alterador menciona o artigo 18.º",
+    "19.º: nenhum alterador menciona o artigo 19.º",
+    "20.º: nenhum alterador menciona o artigo 20.º",
+    "21.º: nenhum alterador menciona o artigo 21.º",
+    "22.º: nenhum alterador menciona o artigo 22.º",
+    "23.º: nenhum alterador menciona o artigo 23.º",
+    "24.º: nenhum alterador menciona o artigo 24.º",
+    "25.º: nenhum alterador menciona o artigo 25.º",
+    "26.º: nenhum alterador menciona o artigo 26.º",
+    "27.º: nenhum alterador menciona o artigo 27.º",
+    "29.º: nenhum alterador menciona o artigo 29.º",
+    "30.º: nenhum alterador menciona o artigo 30.º",
+    "31.º: nenhum alterador menciona o artigo 31.º",
+    "32.º: nenhum alterador menciona o artigo 32.º",
+    "33.º: nenhum alterador menciona o artigo 33.º",
+    "34.º: nenhum alterador menciona o artigo 34.º",
+    "35.º: nenhum alterador menciona o artigo 35.º",
+    "36.º: nenhum alterador menciona o artigo 36.º",
+    "37.º: nenhum alterador menciona o artigo 37.º",
+    "38.º: nenhum alterador menciona o artigo 38.º",
+    "39.º: nenhum alterador menciona o artigo 39.º",
+    "40.º: nenhum alterador menciona o artigo 40.º",
+    "41.º: nenhum alterador menciona o artigo 41.º",
+    "42.º: nenhum alterador menciona o artigo 42.º",
+    "43.º: nenhum alterador menciona o artigo 43.º",
+    "44.º: nenhum alterador menciona o artigo 44.º",
+    "45.º: nenhum alterador menciona o artigo 45.º",
+    "46.º: nenhum alterador menciona o artigo 46.º",
+    "47.º: nenhum alterador menciona o artigo 47.º",
+    "48.º: nenhum alterador menciona o artigo 48.º",
+    "49.º: nenhum alterador menciona o artigo 49.º",
+    "50.º: nenhum alterador menciona o artigo 50.º",
+    "51.º: nenhum alterador menciona o artigo 51.º",
+    "52.º: nenhum alterador menciona o artigo 52.º",
+    "53.º: nenhum alterador menciona o artigo 53.º",
+    "54.º: nenhum alterador menciona o artigo 54.º",
+    "55.º: nenhum alterador menciona o artigo 55.º",
+    "56.º: nenhum alterador menciona o artigo 56.º",
+    "57.º: nenhum alterador menciona o artigo 57.º",
+    "58.º: nenhum alterador menciona o artigo 58.º",
+    "59.º: nenhum alterador menciona o artigo 59.º",
+    "60.º: nenhum alterador menciona o artigo 60.º",
+    "61.º: nenhum alterador menciona o artigo 61.º",
+    "62.º: nenhum alterador menciona o artigo 62.º",
+    "63.º: nenhum alterador menciona o artigo 63.º",
+    "64.º: nenhum alterador menciona o artigo 64.º",
+    "65.º: nenhum alterador menciona o artigo 65.º",
+    "66.º: nenhum alterador menciona o artigo 66.º",
+    "67.º: nenhum alterador menciona o artigo 67.º",
+    "68.º: nenhum alterador menciona o artigo 68.º",
+    "69.º: nenhum alterador menciona o artigo 69.º",
+    "70.º: nenhum alterador menciona o artigo 70.º",
+    "71.º: nenhum alterador menciona o artigo 71.º",
+    "72.º: nenhum alterador menciona o artigo 72.º",
+    "73.º: nenhum alterador menciona o artigo 73.º",
+    "74.º: nenhum alterador menciona o artigo 74.º",
+    "75.º: nenhum alterador menciona o artigo 75.º",
+    "76.º: nenhum alterador menciona o artigo 76.º",
+    "77.º: nenhum alterador menciona o artigo 77.º",
+    "78.º: nenhum alterador menciona o artigo 78.º",
+    "79.º: nenhum alterador menciona o artigo 79.º",
+    "80.º: nenhum alterador menciona o artigo 80.º",
+    "81.º: nenhum alterador menciona o artigo 81.º",
+    "82.º: nenhum alterador menciona o artigo 82.º",
+    "83.º: nenhum alterador menciona o artigo 83.º",
+    "84.º: nenhum alterador menciona o artigo 84.º",
+    "85.º: nenhum alterador menciona o artigo 85.º",
+    "86.º: nenhum alterador menciona o artigo 86.º"
+  ],
+  "avisos": []
 }

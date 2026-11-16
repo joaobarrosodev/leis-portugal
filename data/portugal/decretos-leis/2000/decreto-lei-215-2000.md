@@ -38,10 +38,35 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-09-05'
+version_history:
+  file: decreto-lei-215-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-05'
+    amending: pt:dre:640651:por
+    amending_title: Decreto-Lei n.º 292/2007; Decreto-Lei n.º 205/2012
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Adita Artigo 8.º-A
+    - Adita Artigo 8.º-B
+    - Revoga Artigo 9.º
+    - Altera Artigo ANEXO — Estatutos da Sociedade Parques de Sintra - Monte da Lua, S. A.::15.º
+    - Altera Artigo ANEXO — Estatutos da Sociedade Parques de Sintra - Monte da Lua, S. A.::17.º
+    - Altera Artigo ANEXO II
+    - Altera Artigo ANEXO II
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/215/2000/09/02/p/dre/pt/html
@@ -67,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:19:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 292/2007; Decreto-Lei
+    n.º 205/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-215-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,11 +192,15 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 2.º
 
-1 - A Parques do Monte da Lua tem por objecto a recuperação, requalificação e revitalização, gestão, exploração e conservação de todas as áreas, designadamente os parques e demais zonas envolventes, que lhe sejam atribuídas pelo presente diploma, nos termos do anexo II, bem como todas as actividades conexas ou afins ao objecto principal.
+1 - A Parques do Monte da Lua tem por objeto a recuperação, requalificação e revitalização, gestão, exploração e conservação de todas as áreas, designadamente os parques e demais zonas envolventes, que lhe sejam atribuídas pelo presente diploma, nos termos do anexo ii, por decisão do Estado ou por contrato celebrado com o Estado, bem como todas as atividades conexas, nomeadamente turísticas, ou afins ao objeto principal.
 
-2 - Mediante despacho dos membros do Governo da tutela respectiva, obtida a anuência prévia do município de Sintra, poderão ser, ainda, incluídas no âmbito de intervenção da Sociedade outras áreas, de que o Estado, institutos públicos ou o município de Sintra sejam titulares, que se encontrem dentro do perímetro da área inscrita na lista de património mundial e respectiva zona tampão, designadamente a área envolvente do cabo da Roca.
+2 - A Parques do Monte da Lua tem ainda por objeto a prossecução de atribuições de serviço público delegadas pelo Estado relativas à manutenção e desenvolvimento das atividades da Escola Portuguesa de Arte Equestre.
 
-3 - A Sociedade respeitará quaisquer compromissos anteriormente assumidos pelas entidades que a constituem, bem como eventuais condicionantes de utilização, estabelecendo protocolos para esse efeito sempre que necessário.
+3 - Mediante despacho do membro do Governo responsável pela área das finanças e dos membros do Governo da tutela respetiva, e obtida a anuência prévia do Município de Sintra sempre que estejam em causa áreas que se encontrem dentro do perímetro da área inscrita na lista de património mundial e respetiva zona tampão, podem ser incluídas no âmbito de intervenção da sociedade outras áreas ou património de que o Estado, institutos públicos ou o Município de Sintra sejam titulares.
+
+4 - A Sociedade respeitará quaisquer compromissos anteriormente assumidos pelas entidades que a constituem, bem como eventuais condicionantes de utilização, estabelecendo protocolos para esse efeito sempre que necessário.
+
+> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.
 
 ###### Artigo 3.º
 
@@ -178,21 +208,25 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - Participam no capital social da Parques do Monte da Lua:
 
-a) Instituto da Conservação da Natureza, com 55%;
+a) O Estado, com 35 %;
 
-b) Estado, através do Ministério da Agricultura, Desenvolvimento Rural e Pescas, com 15%;
+b) O Instituto da Conservação da Natureza e das Florestas, I. P., com 35 %;
 
-c) Instituto Português do Património Arquitectónico, com 15%;
+c) O Turismo de Portugal, I. P., com 15 %;
 
-d) Município de Sintra, com 15%;
+d) O Município de Sintra, com 15 %.
 
 3 - As acções representativas do capital social da Sociedade apenas poderão ser alienadas a favor de entes públicos, tal como definidos na alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
 
-4 - As acções representativas do capital serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida, por despacho do Ministro das Finanças, obtida a anuência dos accionistas referidos no n.º 2, a uma pessoa colectiva de direito público ou a sociedades anónimas de capitais exclusivamente públicos.
+4 - Os direitos do Estado como acionista são exercidos através da Direção-Geral do Tesouro e Finanças, sob a direção do membro do Governo responsável pela área das finanças, que pode delegar, mediante prévia coordenação, por despacho com o membro do Governo responsável pela área da cultura.
 
-5 - Os direitos do Estado e dos institutos públicos como accionistas serão exercidos através de representantes designados por despacho dos ministros da tutela respectiva.
+5 - Os direitos do Instituto da Conservação da Natureza e Florestas, I. P., e do Turismo de Portugal, I. P., como acionistas são exercidos pelos órgãos de gestão respetivos, com respeito pelas orientações decorrentes da superintendência e pela tutela que sobre eles sejam exercidas.
 
 6 - Os direitos do município de Sintra como accionista serão exercidos por representante designado pela respectiva Câmara Municipal
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21.
+
+> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.
 
 ###### Artigo 4.º
 
@@ -218,17 +252,45 @@ b) Direito de utilizar e administrar os bens do domínio público que estejam ou
 
 2 - À Parques do Monte da Lua são conferidos os poderes e prerrogativas do Estado quanto à protecção, desocupação, demolição e defesa administrativa da posse dos terrenos e instalações que lhe estejam afectos e das obras por si executadas ou contratadas, podendo ainda, nos termos da lei, ocupar temporariamente os terrenos particulares de que necessite para estaleiros, depósito de materiais, alojamento de pessoal operário e instalação de escritórios, sem prejuízo do direito a indemnização que houver lugar.
 
+3 - O disposto no número anterior não prejudica o cumprimento dos procedimentos definidos na lei para a realização de obras em património classificado e em matéria de salvaguarda e valorização de bens imóveis e das respectivas zonas de protecção.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21.
+
 ###### Artigo 7.º
 
 No património não afecto à Sociedade mas que se situe dentro do perímetro da zona de património mundial, os projectos e obras a realizar por entidades públicas deverão ser previamente concertados com a Sociedade.
 
 ###### Artigo 8.º
 
-Os funcionários do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer quaisquer cargos ou funções, em regime de requisição ou de comissão de serviço, na Parques do Monte da Lua.
+Os trabalhadores em funções públicas do Estado, dos institutos públicos e das autarquias locais, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem exercer quaisquer cargos ou funções, nos termos da lei, na Parques do Monte da Lua.
+
+> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.
+
+###### Artigo 8.º-A
+
+1 - Sem prejuízo do disposto nos Estatutos da Parques do Monte da Lua, carecem de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças, da conservação da natureza e florestas, da cultura e do turismo a aquisição, a alienação ou a oneração de participações no capital social da sociedade, nos termos da lei.
+
+2 - Carecem ainda de aprovação dos membros do Governo referidos no n.º 1 os planos de atividades e de investimento, bem como os orçamentos e contas.
+
+3 - Para efeitos do disposto no número anterior, os planos de atividades e de investimento e os orçamentos e contas são remetidos aos membros do Governo referidos no n.º 1, para aprovação, no prazo em que são disponibilizados aos acionistas.
+
+> Aditado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.
+
+###### Artigo 8.º-B
+
+1 - O membro do Governo responsável pela área da cultura pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa ao património cultural que lhe esteja afeto.
+
+2 - O membro do Governo responsável pelas áreas da conservação da natureza e das florestas pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa à Escola Portuguesa de Arte Equestre.
+
+3 - O membro do Governo responsável pelo turismo pode dirigir instruções à Parques do Monte da Lua sobre aspetos concretos da sua atuação relativa a investimentos financiados pelo Turismo de Portugal, I. P.
+
+> Aditado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.
 
 ###### Artigo 9.º
 
-Fica desde já convocada a assembleia geral da Parques do Monte da Lua, para se reunir, na sede social, pelas 15 horas do 8.º dia útil após a publicação do presente diploma, para a eleição dos titulares dos cargos sociais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa - José Estêvão Cangarato Sasportes.
 
@@ -352,13 +414,13 @@ A assembleia geral reunir-se-á, pelo menos, uma vez por ano e sempre que for co
 
 ###### Artigo 15.º — Composição do conselho de administração
 
-1 - O conselho de administração é composto por um presidente e dois a seis vogais.
+1 - O conselho de administração é composto por um presidente e dois vogais executivos, eleitos em assembleia geral da sociedade.
 
-2 - Nas deliberações do conselho, o presidente tem voto de qualidade.
+2 - O presidente do conselho de administração é escolhido pela assembleia geral por maioria qualificada de dois terços do capital accionista.
 
-3 - O presidente do conselho de administração é escolhido pela assembleia geral de entre os vogais eleitos.
+3 - O mandato dos membros do conselho de administração é de três anos, podendo ser renovado até ao limite máximo de três vezes.
 
-4 - O mandato dos membros do conselho de administração tem a duração de quatro anos e é renovável.
+> Alterado pelo/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21.
 
 ###### Artigo 16.º — Competência do conselho de administração
 
@@ -396,11 +458,13 @@ c) Zelar pela correcta execução das deliberações do conselho de administraç
 
 ###### Artigo 17.º — Reuniões do conselho de administração
 
-1 - O conselho de administração reúne mensalmente e ainda sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de pelo menos dois administradores.
+1 - O conselho de administração reúne mensalmente e sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de qualquer dos administradores.
 
 2 - O conselho de administração pode deliberar validamente quando estiver presente a maioria dos seus membros, sendo as respectivas deliberações tomadas por maioria de votos dos membros presentes ou representados, dispondo o presidente, em caso de empate na votação, de voto de qualidade.
 
 3 - Os membros do conselho de administração podem-se fazer representar nas reuniões por outro administrador, mediante carta dirigida ao presidente.
+
+> Alterado pelo/a [Decreto-Lei n.º 292/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651), publicado em 2007-08-21.
 
 ###### Artigo 18.º — Representação
 
@@ -434,36 +498,34 @@ Compete ao fiscal único exercer as competências que estão cometidas por lei a
 
 2 - Salvo se a assembleia geral, convocada especialmente para o efeito, decidir de outro modo, serão liquidatários os membros do conselho de administração em exercício à data da liquidação/dissolução.
 
-## ANEXO II
+## ANEXO II — Áreas afetas à sociedade
 
-Áreas afectas à Sociedade:
+1 - Património afeto à sociedade, incluindo todas as construções e edificações nele existentes:
 
-1 - Património afecto à Sociedade, incluindo todas as construções e edificações nele existentes:
+a) Castelo dos Mouros;
 
-Castelo dos Mouros;
+b) Convento de Santa Cruz dos Capuchos e sua cerca;
 
-Convento de Santa Cruz dos Capuchos e sua cerca;
+c) Palácio de Seteais e Jardim de Seteais;
 
-Jardim de Seteais;
+d) Palácio Nacional da Pena;
 
-Parque da Pena e tapadas anexas;
+e) Parque da Pena e tapadas anexas, incluindo a Pousada Prof. Mário de Azevedo Gomes, a Arrecadação de Santa Eufémia e o edifício do arquivo da extinta Direção-Geral de Florestas, em Santa Eufémia e o edifício inacabado junto ao mesmo;
 
-Parque de Monserrate;
+f) Palácio de Monserrate;
 
-Tapada de Monserrate;
+g) Palácio Nacional de Queluz;
 
-Quinta da Abelheira;
+h) Palácio Nacional de Sintra;
 
-Tapada de D. Fernando II;
+i) Parque de Monserrate;
 
-Tapada do Shore.
+j) Tapada de Monserrate;
 
-2 - Ficam excluídos do número anterior:
+k) Quinta da Abelheira;
 
-Palácio Nacional da Pena;
+l) Tapada de D. Fernando II;
 
-Pousada Prof. Mário de Azevedo Gomes;
+m) Tapada do Shore.
 
-Arrecadação de Santa Eufémia;
-
-Edifício do Arquivo da Direcção-Geral de Florestas em Santa Eufémia e edifício inacabado junto ao mesmo.
+> Alterado pelo/a [Decreto-Lei n.º 205/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2012-174824), publicado em 2012-08-31.
