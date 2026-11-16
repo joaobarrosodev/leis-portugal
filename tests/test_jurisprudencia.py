@@ -122,6 +122,14 @@ def test_aviso_distingue_a_redacao_declarada_da_atual():
     assert "uma redação anterior" in j.aviso_declaracao(julgamento, "2024-02-06")
 
 
+def test_aviso_diz_ilegal_quando_a_declaracao_e_de_ilegalidade():
+    # Ac. 265/2011: ilegalidade do art. 7.º do DLR 26/2008/A, por violação do Estatuto dos Açores.
+    ilegal = {"numero": "265/2011", "data": "2011-06-01", "alinea": "decide declarar, com força obrigatória geral, a ilegalidade dos n.os 1 e 2, do artigo 7.º"}
+    assert j.aviso_declaracao(ilegal, "2008-07-24").startswith("Declarado ilegal com força obrigatória geral")
+    ambos = {"numero": "1/2000", "data": "2000-01-01", "alinea": "declarar a inconstitucionalidade e a ilegalidade, com força obrigatória geral"}
+    assert j.aviso_declaracao(ambos, "1999-01-01").startswith("Declarado inconstitucional")
+
+
 def test_segunda_resposta_um_por_acordao_e_resumo_do_resto():
     from types import SimpleNamespace
 

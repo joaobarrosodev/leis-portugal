@@ -187,14 +187,17 @@ def fora_por_omissao(tipo: str, recolhido_em: str | None) -> bool:
     return tipo in TIPOS_SERIE_II and (recolhido_em or "") >= SERIE_II_DESDE
 
 
-def documentos_do_export(export: Path, *, com_serie_ii: bool = False) -> list[Documento]:
+def documentos_do_export(export: Path, *, com_serie_ii: bool = False, com_traducoes: bool = True) -> list[Documento]:
     with sqlite3.connect(f"file:{export}?mode=ro", uri=True) as con:
         linhas = con.execute(
             """SELECT id, title, document_type, official_number, coalesce(official_date, publication_date), coalesce(summary, ''),
                       coalesce(legal_status, 'unknown'), coalesce(version_kind, 'original'), consolidation_date, path, retrieved_at
                FROM documentos WHERE text_quality = 'texto' ORDER BY path"""
         ).fetchall()
-    return [Documento(*linha[:-1]) for linha in linhas if com_serie_ii or not fora_por_omissao(linha[2], linha[-1])]
+    return [
+        Documento(*linha[:-1]) for linha in linhas
+        if (com_serie_ii or not fora_por_omissao(linha[2], linha[-1])) and (com_traducoes or linha[7] != "translation")
+    ]
 
 
 def relacoes_do_export(export: Path, ids: set[str]) -> Iterator[tuple[str, str, str, str, str | None]]:
@@ -303,9 +306,13 @@ def main(argv: list[str] | None = None) -> int:
         "--com-serie-ii", action="store_true",
         help="Incluir os regulamentos, deliberações, ACT, editais e declarações da recolha em massa de 12/11/2026.",
     )
+    parser.add_argument(
+        "--sem-traducoes", action="store_true",
+        help="Deixar de fora os atos da UE em tradução não oficial (version.kind translation), para medir o efeito deles.",
+    )
     args = parser.parse_args(argv)
     export = export_sqlite()
-    documentos = documentos_do_export(export, com_serie_ii=args.com_serie_ii)
+    documentos = documentos_do_export(export, com_serie_ii=args.com_serie_ii, com_traducoes=not args.sem_traducoes)
     if args.amostra is not None:
         avaliacao = documentos_da_avaliacao()
         # Os consolidados que têm o texto em vigor dos códigos republicados (IRS, IRC…) também entram.

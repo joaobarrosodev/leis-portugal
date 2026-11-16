@@ -16,7 +16,11 @@ from pathlib import Path
 
 
 RAIZ = Path(__file__).resolve().parents[1]
-EXPORT = RAIZ / "exports" / "leis-portugal.sqlite"
+# Na raiz, ou na pasta principal quando se corre numa worktree (como `rag.fontes.export_sqlite`).
+EXPORT = next(
+    (p / "exports" / "leis-portugal.sqlite" for p in (RAIZ, *RAIZ.parents) if (p / "exports" / "leis-portugal.sqlite").exists()),
+    RAIZ / "exports" / "leis-portugal.sqlite",
+)
 
 _ARTIGO = re.compile(r"^#{6} Artigo (\S+)(?: — (.*))?$")
 _ANEXO = re.compile(r"^## (Anexo.*)$")

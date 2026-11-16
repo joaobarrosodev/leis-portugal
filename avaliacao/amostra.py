@@ -14,7 +14,8 @@ ficheiro JSONL por tipo em `--saida`:
   diploma (regra e exceção, definições, normas transitórias), com os dois textos.
 
 A amostra é reprodutível (`--semente`). Uso: `python avaliacao/amostra.py --saida <pasta>`;
-`--tipos alterado,composta` limita aos tipos pedidos.
+`--tipos alterado,composta` limita aos tipos pedidos; `--ue` tira os candidatos dos atos da UE e
+`--serie-ii` só literais dos tipos da 2.ª Série recolhidos em massa (regulamentos, editais…).
 """
 
 from __future__ import annotations
@@ -92,6 +93,49 @@ def literais(db: sqlite3.Connection, rng: random.Random, n: int) -> list[dict]:
             resultado.append(registo(caminho, artigo, documento=doc_id, titulo=titulo))
         if len(resultado) == n:
             break
+    return resultado
+
+
+# `--serie-ii`: os tipos da 2.ª Série da recolha em massa de 12/11/2026, que o índice deixa de fora por
+# omissão (`rag.indice.fora_por_omissao`). Quase nenhum tem `legal_status` do DRE nem consolidação: conta
+# como texto atual o que não tem `amended_by` e como em vigor o que não está dado como revogado.
+# As quotas são por tipo, para os editais e as deliberações (os mais numerosos) não abafarem o resto.
+QUOTAS_SERIE_II = {"regulamento": 0.45, "edital": 0.2, "deliberacao": 0.17, "declaracao": 0.1, "acordo-coletivo-trabalho": 0.08}
+SERIE_II_DESDE = "2026-11-12"
+SERIE_II = (
+    "text_quality = 'texto' and retrieved_at >= '" + SERIE_II_DESDE + "'"
+    " and id not in (select source_id from relacoes where type = 'amended_by')"
+    " and coalesce(legal_status, 'unknown') not in ('repealed', 'not_in_force')"
+    " and id not in (select source_id from relacoes where type = 'repealed_by')"
+)
+
+
+# Projetos em consulta ou discussão pública (sobretudo editais): não são normas em vigor.
+_PROJETO = re.compile(r"\bprojet[oa]s?\b|consulta p[úu]blica|aprecia[çc][ãa]o p[úu]blica|discuss[ãa]o p[úu]blica", re.I)
+
+
+def literais_serie_ii(db: sqlite3.Connection, rng: random.Random, n: int) -> list[dict]:
+    """Literais nos tipos da 2.ª Série recolhidos em massa, com quotas por tipo (só registos com artigos)."""
+    resultado = []
+    for tipo, parte in QUOTAS_SERIE_II.items():
+        quota = max(1, round(n * parte))
+        linhas = db.execute(
+            f"select id, title, path, coalesce(issuing_authority, ''), coalesce(summary, ''), coalesce(official_date, publication_date)"
+            f" from documentos where document_type = ? and {SERIE_II}", (tipo,)
+        ).fetchall()
+        rng.shuffle(linhas)
+        escolhidos = 0
+        for doc_id, titulo, caminho, entidade, sumario, data in linhas:
+            if _PROJETO.search(f"{titulo} {sumario}") or _PROJETO.search(corpo((RAIZ / caminho).read_text(encoding="utf-8"))[:1500]):
+                continue
+            artigo = escolher(caminho, rng)
+            if artigo:
+                # A entidade e o sumário identificam o ato: na 2.ª Série o número sozinho repete-se.
+                resultado.append(registo(caminho, artigo, documento=doc_id, titulo=titulo, tipo_documento=tipo,
+                                         entidade=entidade, sumario=sumario, data=data))
+                escolhidos += 1
+            if escolhidos == quota:
+                break
     return resultado
 
 
@@ -360,7 +404,13 @@ def main() -> int:
     parser.add_argument("--documentos", help="títulos de diplomas consolidados para `composta`, separados por ponto e vírgula")
     parser.add_argument("--por-diploma", type=int, default=3)
     parser.add_argument("--ue", action="store_true", help="atos da UE em vez da legislação portuguesa (literal, revogada, distrator)")
+    parser.add_argument(
+        "--serie-ii", action="store_true",
+        help="só literais, nos tipos da 2.ª Série recolhidos em massa (regulamentos, editais, deliberações…), com quotas por tipo",
+    )
     args = parser.parse_args()
+    if args.serie_ii:
+        args.tipos = "literal"
     if args.ue:
         global NACIONAL, TEXTO_ATUAL
         NACIONAL, TEXTO_ATUAL = UE, TEXTO_ATUAL_UE
@@ -368,7 +418,7 @@ def main() -> int:
     db = sqlite3.connect(EXPORT)
     args.saida.mkdir(parents=True, exist_ok=True)
     tipos = {
-        "literal": lambda rng: literais(db, rng, args.literais),
+        "literal": lambda rng: (literais_serie_ii if args.serie_ii else literais)(db, rng, args.literais),
         "temporal": lambda rng: temporais(db, rng, args.temporais),
         "revogada": lambda rng: revogadas(db, rng, args.revogadas),
         "distrator": lambda rng: distratores(db, rng, args.distratores),
@@ -385,7 +435,7 @@ def main() -> int:
             for candidato in candidatos:
                 ficheiro.write(json.dumps(candidato, ensure_ascii=False) + "\n")
         print(f"{nome}: {len(candidatos)} candidato(s)")
-    print(f"Amostra de {date.today().isoformat()} a partir de {EXPORT.relative_to(RAIZ)}")
+    print(f"Amostra de {date.today().isoformat()} a partir de {EXPORT}")
     return 0
 
 

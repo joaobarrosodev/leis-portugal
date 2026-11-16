@@ -751,9 +751,16 @@ def aviso_declaracao(julgamento: dict, desde: str | None) -> str:
     A declaração recai sobre a redação em vigor na altura: se o texto do artigo é posterior ao
     acórdão, a declaração foi sobre uma redação anterior e o aviso diz isso."""
     acordao = f"Acórdão do Tribunal Constitucional n.º {julgamento['numero']}, de {data_pt(julgamento['data'])}"
+    # Uma declaração de ilegalidade (violação de lei com valor reforçado, como um Estatuto
+    # político-administrativo) não é de inconstitucionalidade: 17 das 371 em 1983–2026.
+    vicio = "ilegal" if _so_ilegalidade(julgamento.get("alinea") or "") else "inconstitucional"
     if desde and julgamento["data"] and desde > julgamento["data"]:
-        return f"O {acordao} declarou inconstitucional, com força obrigatória geral, uma redação anterior deste artigo."
-    return f"Declarado inconstitucional com força obrigatória geral, pelo menos em parte, pelo {acordao}."
+        return f"O {acordao} declarou {vicio}, com força obrigatória geral, uma redação anterior deste artigo."
+    return f"Declarado {vicio} com força obrigatória geral, pelo menos em parte, pelo {acordao}."
+
+
+def _so_ilegalidade(alinea: str) -> bool:
+    return bool(re.search(r"ilegalidade|\bilega(?:l|is)\b", alinea, re.I)) and not re.search(r"inconstitucional", alinea, re.I)
 
 
 def main(argv: list[str] | None = None) -> int:

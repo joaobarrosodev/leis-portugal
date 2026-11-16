@@ -222,6 +222,10 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--sem-reais", action="store_true")
     parser.add_argument("--tipos", help="Só estes tipos de pergunta, separados por vírgulas (p. ex. `real`), para medir depressa.")
     parser.add_argument("--limite", type=int)
+    parser.add_argument(
+        "--perguntas", type=Path, action="append",
+        help="Só as perguntas deste ficheiro (p. ex. avaliacao/perguntas-ue.jsonl); pode repetir-se.",
+    )
     args = parser.parse_args(argv)
 
     reranker = None
@@ -232,7 +236,10 @@ def main(argv: list[str] | None = None) -> int:
     pesquisa = Pesquisa(args.indice, reranker=reranker, candidatos=args.candidatos)
     usar_llm = llm_disponivel() and not args.sem_llm
     usar_reescrita = usar_llm and not args.sem_reescrita
-    perguntas = ler_perguntas(not args.sem_reais)
+    if args.perguntas:
+        perguntas = [p for ficheiro in args.perguntas for p in ler_perguntas(ficheiro=ficheiro)]
+    else:
+        perguntas = ler_perguntas(not args.sem_reais)
     if args.tipos:
         perguntas = [p for p in perguntas if p["tipo"] in args.tipos.split(",")]
     perguntas = perguntas[: args.limite]

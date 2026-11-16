@@ -132,3 +132,61 @@ def test_tipos_da_serie_ii_recolhidos_em_massa_ficam_fora_do_indice(tmp_path):
         con.executemany("INSERT INTO documentos VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", linhas)
     assert [d.id for d in documentos_do_export(export)] == ["b", "c"]
     assert [d.id for d in documentos_do_export(export, com_serie_ii=True)] == ["a", "b", "c"]
+
+
+def test_sem_traducoes_tira_os_atos_traduzidos(tmp_path):
+    import sqlite3
+
+    from rag.indice import documentos_do_export
+
+    export = tmp_path / "export.sqlite"
+    with sqlite3.connect(export) as con:
+        con.execute(
+            "CREATE TABLE documentos (id, title, document_type, official_number, official_date, publication_date, summary,"
+            " legal_status, version_kind, consolidation_date, path, retrieved_at, text_quality)"
+        )
+        linhas = [
+            ("t", "Diretiva", "diretiva", None, None, "1975-01-01", "", None, "translation", None, "t.md", "2026-11-14T10:00:00Z", "texto"),
+            ("o", "Diretiva", "diretiva", None, None, "1975-01-01", "", None, "original", None, "o.md", "2026-11-01T10:00:00Z", "texto"),
+        ]
+        con.executemany("INSERT INTO documentos VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", linhas)
+    assert [d.id for d in documentos_do_export(export)] == ["o", "t"]
+    assert [d.id for d in documentos_do_export(export, com_traducoes=False)] == ["o"]
+
+
+def _avisos_de(documento: dict) -> list[str]:
+    from types import SimpleNamespace
+
+    from rag.pesquisa import Pesquisa, Resultado
+
+    falso = SimpleNamespace(documento=lambda _id: documento, relacoes=lambda _id: [], julgamentos=lambda _r: [])
+    r = Resultado(1, "x", "Diretiva", "", "1.º", "", "1.º", "Diretiva › Artigo 1.º", "Texto.", "", "1975-01-01", None)
+    Pesquisa._avisos(falso, r, "2026-11-16")
+    return r.avisos
+
+
+def test_ato_traduzido_avisa_que_a_traducao_nao_e_oficial():
+    from rag.pesquisa import AVISO_TRADUCAO
+
+    assert AVISO_TRADUCAO in _avisos_de({"versao": "translation", "legal_status": "in_force"})
+    assert AVISO_TRADUCAO not in _avisos_de({"versao": "original", "legal_status": "in_force"})
+
+
+def test_numero_da_2a_serie_com_sufixo_encontra_o_diploma():
+    import sqlite3
+    from types import SimpleNamespace
+
+    from rag.pesquisa import Pesquisa
+
+    con = sqlite3.connect(":memory:")
+    con.execute("CREATE TABLE documentos (id, tipo, numero, data)")
+    con.executemany("INSERT INTO documentos VALUES (?, ?, ?, ?)", [
+        ("a", "declaracao", "81/2002 (2.ª série)", "2002-04-03"),
+        ("b", "edital", "113/2000 (2.ª série) - AP", "2000-03-01"),
+        ("c", "declaracao", "81/20021", "2021-01-01"),
+        ("d", "declaracao", "81/2002", "2002-01-01"),
+    ])
+    falso = SimpleNamespace(con=con)
+    assert Pesquisa.diplomas(falso, "declaracao", "81/2002") == ["d", "a"]
+    assert Pesquisa.diplomas(falso, "edital", "113/2000") == ["b"]
+    assert Pesquisa.diplomas(falso, "declaracao", "81/200") == []

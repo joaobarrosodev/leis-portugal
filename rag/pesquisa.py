@@ -35,6 +35,12 @@ PRIOR_ESTADO = {"repealed": 0.6, "not_in_force": 0.6, "unknown": 0.85}
 PRIOR_REPUBLICACAO = 0.6
 PRIOR_ARTIGO_REVOGADO = 0.6
 REVOGADO = ("repealed", "not_in_force")
+# Atos da UE sem versão portuguesa, traduzidos pelo projeto (`version.kind: translation`). O índice não
+# guarda o `version.label`, que diz de que língua; o aviso diz o essencial sem mudar o formato do índice.
+AVISO_TRADUCAO = (
+    "Tradução não oficial para português europeu, feita pelo projeto a partir de outra língua do EUR-Lex; "
+    "sem valor jurídico. O ato não tem versão portuguesa oficial."
+)
 CODIGOS_CANDIDATOS = 15  # candidatos do BM25 só nos códigos principais, juntos aos do reranker
 CODIGO_GRANDE = 60  # artigos, no mínimo, de uma parte para contar como código principal
 _NOME_CODIGO = re.compile(r"^(codigo|lei geral)\b")
@@ -163,8 +169,11 @@ class Pesquisa:
     def diplomas(self, tipo: str, numero: str) -> list[str]:
         numeros = _numeros_ue(numero) if tipo in _TIPOS_UE else [numero]
         marcas = ",".join("?" * len(numeros))
+        # Na 2.ª Série o DRE escreve o número com sufixo: "81/2002 (2.ª série)", "113/2000 (2.ª série) - AP".
+        # O intervalo [numero + " (", numero + " )") apanha-os e continua a usar o índice da coluna.
         return [linha[0] for linha in self.con.execute(
-            f"SELECT id FROM documentos WHERE tipo = ? AND numero IN ({marcas}) ORDER BY data", (tipo, *numeros)
+            f"SELECT id FROM documentos WHERE tipo = ? AND (numero IN ({marcas}) OR (numero >= ? AND numero < ?)) ORDER BY data",
+            (tipo, *numeros, f"{numero} (", f"{numero} )"),
         )]
 
     def codigos(self) -> dict[str, list[tuple[str, str]]]:
@@ -406,6 +415,8 @@ class Pesquisa:
         relacoes = self.relacoes(r.documento)
         revogacoes = [(alvo, titulo, quando) for tipo, alvo, titulo, quando in relacoes if tipo == "repealed_by" and (quando or "") <= data]
         estado = doc.get("legal_status")
+        if doc.get("versao") == "translation":
+            r.avisos.append(AVISO_TRADUCAO)
         if r.redirecionado_de:
             original = self.documento(r.redirecionado_de) or {}
             r.avisos.append(f"Texto em vigor do diploma republicado ({original.get('titulo', r.redirecionado_de)}), no consolidado de {doc.get('titulo')}.")

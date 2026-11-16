@@ -34,6 +34,27 @@ As novas foram tiradas com outras sementes de `amostra.py` (20261028 a 20261031)
 
 Tudo o que está aqui foi verificado por modelos. O protocolo da primeira revisão por um jurista está em [`juristas/`](juristas/README.md): cerca de 160 respostas do protótipo, incluindo recusas e respostas que os juízes deram como erradas, e 150 artigos consolidados pelo `leis-portugal`. Tem um pacote de leitura com o texto integral dos artigos, uma folha para o veredicto e a causa, e a concordância com os juízes. O `juristas.py` tira as amostras e faz as contas. Ainda não há resultados.
 
+## Perguntas sobre atos da 2.ª Série (16/11/2026)
+
+`perguntas-serie-ii.jsonl` tem 54 perguntas literais com `ambito: "serie_ii"` e ids `s2-lit-`, sobre os tipos da 2.ª Série da recolha em massa de 12/11/2026, que o índice deixa de fora por omissão: 26 regulamentos, 12 editais, 12 deliberações, 3 declarações e 1 acordo coletivo de trabalho.
+
+**Candidatos.** Saíram de `amostra.py --serie-ii --literais 70 --semente 20261116`, com quotas por tipo, porque os editais e as deliberações são a maioria. Só entram:
+- registos com artigos;
+- registos sem `amended_by` nem revogação;
+- registos que não sejam projetos nem avisos de consulta ou discussão pública.
+
+A pergunta nomeia o ato pelo número e pela entidade, porque na 2.ª Série o número repete-se.
+
+**Geração.** Feita por subagentes Opus, com as regras de `serie-ii/REGRAS-geracao.md`. Dos 66 candidatos, 12 foram saltados: alterações a outro regulamento, entrada em vigor, remissões para quadros e propostas de plano.
+
+**Verificação.**
+- Literal: 54 de 54.
+- Às cegas, por Sonnet (`serie-ii/REGRAS-verificacao.md`, `verificacao/entrada-serie-ii.jsonl`, `respostas-b-serie-ii.jsonl`): 50 confirmadas automaticamente e 4 revistas à mão.
+  - s2-lit-005 tinha dois prazos no artigo. Foi reformulada e confirmada numa 2.ª ronda às cegas (`*-revistas.jsonl`).
+  - s2-lit-035 remete para os arts. 6.º e 8.º e ficou com `depende_de_outro`.
+  - s2-lit-022 e s2-lit-049 dizem o mesmo por outras palavras.
+- `respostas-b-serie-ii-final.jsonl` junta as duas rondas. A medição está em `rag/README.md`, "Tipos novos".
+
 ## Perguntas sobre direito da UE (12/11/2026)
 
 `perguntas-ue.jsonl`: 167 perguntas com `ambito: "ue"` e ids `ue-lit-`, `ue-rev-` e `ue-sem-`, com os tipos de sempre (`literal`, `revogada`, `sem_resposta`). Candidatos de `amostra.py --ue --semente 20261112` (e `20261113` para os substitutos): artigos de atos da UE em vigor, consolidados ou nunca alterados, sem os artigos finais (entrada em vigor, aplicação, destinatários). Geração por subagentes Opus com as regras de `ue/REGRAS-geracao.md`; verificação literal (167 de 167); verificação às cegas por Sonnet (`ue/REGRAS-verificacao.md`, `verificacao/entrada-ue.jsonl` e `respostas-b-ue.jsonl`): 136 confirmadas automaticamente e as outras 31 revistas à mão (19 revogadas em que B não sabia da revogação, que vem dos metadados do CELLAR e não do texto; 5 com as mesmas respostas por outras palavras; 7 em que o artigo remete para um anexo ou outro ato mas a resposta está no texto). Das 243 escritas, 76 sobre a data de entrada em vigor ou de aplicação foram retiradas por serem triviais. Medição em `rag/README.md`, "Direito da União Europeia".
