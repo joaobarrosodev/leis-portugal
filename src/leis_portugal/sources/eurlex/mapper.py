@@ -71,6 +71,58 @@ def citation_title(title: str) -> tuple[str, str | None]:
     return title, None
 
 
+# O número do ato no início do título: «2007/48/CE: Decisão…», «Decisão (UE) 2016/775 da Comissão…»,
+# «Regulamento (CEE) n.º 211/91…» (aqui é número/ano).
+_TITLE_NUMBER = re.compile(
+    r"^(?:(?P<old_year>\d{2}|\d{4})/(?P<old_number>\d+)/[A-Z]+\s?:"
+    r"|(?:Decisão|Diretiva|Directiva|Regulamento)(?: de Execução| Delegad[oa])?\s"
+    r"(?:\((?:UE|CE|CEE|Euratom|CECA)\)\s)?(?P<prefix>n\.?\s?[º°o]\.?\s?)?(?P<a>\d{2,4})/(?P<b>\d+)\b)"
+)
+
+
+def title_number(title: str) -> tuple[int, int] | None:
+    """(ano, número) do ato no início do título, ou None."""
+    match = _TITLE_NUMBER.match(title)
+    if not match:
+        return None
+    if match.group("old_year"):
+        year, number = match.group("old_year"), match.group("old_number")
+    elif match.group("prefix"):
+        number, year = match.group("a"), match.group("b")
+    else:
+        year, number = match.group("a"), match.group("b")
+    return (int(year) if len(year) == 4 else 1900 + int(year)), int(number)
+
+
+def official_number(
+    cellar: tuple[int, int], *, celex: tuple[int, int], title: str, publication_year: int | None, authors: list[str]
+) -> tuple[str, str | None]:
+    """O número oficial «ano/número» e, se o do CELLAR estiver errado, a nota da correção.
+
+    O CELLAR (`resource_legal_year` + `resource_legal_number_natural`) erra em alguns atos. Só se corrige
+    quando duas fontes concordam contra ele:
+    - o título e o ano do Jornal Oficial: as decisões do BCE de dezembro publicadas em janeiro ficam com o
+      ano da adoção («2006/48» em vez de «2007/48»);
+    - o título e o CELEX: «2016/776» na Decisão de Execução (UE) 2016/775 (CELEX 32016D0775);
+    - nos atos do BCE, o título, porque o CELEX e o CELLAR trazem às vezes o número interno do BCE
+      (BCE/2016/27 em vez da Decisão (UE) 2016/1717).
+    Nos outros casos, o título é que tem a gralha («Directiva 2010/45/UE» na 2010/53/UE).
+    """
+    written = f"{cellar[0]}/{cellar[1]}"
+    found = title_number(title)
+    if found is None or found == cellar:
+        return written, None
+    year, number = found
+    by_journal = number == cellar[1] and year == publication_year
+    by_celex = found == celex and cellar[0] == celex[0]
+    by_ecb = "Banco Central Europeu" in authors and year in {cellar[0], cellar[0] + 1}
+    if not (by_journal or by_celex or by_ecb):
+        return written, None
+    fixed = f"{year}/{number}"
+    reason = "o título e o ano do Jornal Oficial" if by_journal else "o título e o CELEX" if by_celex else "o título do ato do BCE"
+    return fixed, f"Número oficial corrigido: o CELLAR dá {written}; {reason} dão {fixed}."
+
+
 def oj_series(oj_id: str | None) -> str | None:
     """`oj:JOL_2016_119_R` -> `L`; `oj:L_202602343` -> `L`."""
     match = re.match(r"^oj:(?:JO)?([LC])_", oj_id or "")
@@ -168,6 +220,7 @@ class EurLexMapper:
         if label and subtype and subtype.group(1) in ELI_SUBTYPES:
             label = f"{label} {ELI_SUBTYPES[subtype.group(1)]}"
         title, summary = citation_title(re.sub(r"\s+", " ", expression.title).strip())
+        authors = _authors(work.get("author", []))
 
         series = oj_series(oj_id)
         reference = None
@@ -181,6 +234,10 @@ class EurLexMapper:
 
         body, structure, date_hint = self._body(content, title=title, warnings=warnings)
         published = published or date_hint
+        number_text, number_note = official_number(
+            (year, number), celex=(parts.year, parts.number), title=title,
+            publication_year=int(published[:4]) if published else None, authors=authors,
+        )
         lang_code = "PT" if language == "por" else language.upper()
         consolidation_date = None
         if consolidated_celex:
@@ -196,8 +253,8 @@ class EurLexMapper:
             jurisdiction="european_union",
             document_type=document_type,
             document_type_label=label,
-            issuing_authority=_authors(work.get("author", [])),
-            official_number=f"{year}/{number}",
+            issuing_authority=authors,
+            official_number=number_text,
             official_date=_first(work, "signature_date"),
             publication_date=published,
             publication=Publication(
@@ -210,6 +267,7 @@ class EurLexMapper:
             entry_into_force_dates=sorted(work.get("entry_date", [])),
             end_of_validity_date=_first(work, "end_date"),
             legal_status=legal_status,
+            notes=[number_note] if number_note else [],
             language=language,
             version=Version(
                 kind="consolidated" if consolidated_celex else "original",
