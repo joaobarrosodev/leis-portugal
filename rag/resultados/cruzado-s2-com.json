@@ -1,0 +1,36 @@
+{
+ "configuracao": {
+  "reranker": "cruzado",
+  "limiar": 3.0,
+  "llm": false,
+  "reescrita": false
+ },
+ "resumo": {
+  "literal": {
+   "n": 54,
+   "nao_sei": 3,
+   "respondidas": 51,
+   "certas": 47,
+   "artigo@1": 48,
+   "texto@1": 48,
+   "artigo@5": 50,
+   "texto@5": 50,
+   "artigo@10": 53,
+   "texto@10": 53,
+   "com_fonte": 54
+  },
+  "total": {
+   "n": 54,
+   "nao_sei": 3,
+   "respondidas": 51,
+   "certas": 47,
+   "artigo@1": 48,
+   "texto@1": 48,
+   "artigo@5": 50,
+   "texto@5": 50,
+   "artigo@10": 53,
+   "texto@10": 53,
+   "com_fonte": 54
+  }
+ }
+}

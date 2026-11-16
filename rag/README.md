@@ -453,6 +453,56 @@ Nas 2 perguntas em que o BM25 difere, os 100 resultados e as pontuações são o
 
 A versão completa de 12/11/2026 tem 1,35 GB comprimida (4,35 GB sem comprimir). Por esta medição, um delta de 2 mil diplomas é cerca de 0,7% da versão completa. O tamanho de um delta numa semana normal ainda não foi medido: só se sabe com duas publicações seguidas.
 
+## Tipos novos (16/11/2026)
+
+Medições só da pesquisa, sem LLM: o artigo certo em 1.º lugar (@1) e nos 10 primeiros (@10).
+
+### Índice de 16/11: as traduções da UE e as correções da numeração
+
+O índice de 16/11 tem 267.084 diplomas e 1.576.082 pedaços; o anterior tinha 246.506 e 1.484.508. Entram 1.233 dos 1.244 atos da UE em tradução não oficial e as chaves novas dos artigos («78.º-A», «1.º»).
+
+- **Nas 1.298 perguntas do conjunto completo, a pesquisa fica igual** (`bm25-indice-1611`). Os totais por tipo são os mesmos do índice anterior (`bm25-tc-1983-2026`). Só 3 perguntas mudam de posição, sempre abaixo do 1.º lugar: lit-191, real-027 e col-102.
+- **Nenhum ato traduzido aparece em 1.º lugar**, nem nessas 1.298 perguntas nem nas 167 da UE. As traduções ficam no índice: não baralham as perguntas gerais e respondem às perguntas sobre esses atos.
+- **UE, só BM25** (`bm25-ue-1611`): 78 % @1 e 84 % @10. As literais dão 80 % @1 e as revogadas 68 %. Com reranker e reescrita, as literais davam 98 % @1 (medição de 12/11, acima). Não há BM25 do índice anterior para comparar, porque o índice foi substituído.
+- **Ficaram 11 traduções de fora.** O original destes 11 atos só existia em PDF, e o registo guarda o aviso da recolha «o registo liga apenas ao PDF oficial», embora o texto tenha sido extraído e traduzido. Com esse aviso, o export dá-lhes `text_quality = pdf` e o índice salta-os. Ver `PENDENTE.md`.
+
+**Aviso nos atos traduzidos.** Quando o artigo citado é de um ato com `version.kind = translation`, a pesquisa junta o aviso `AVISO_TRADUCAO` («Tradução não oficial para português europeu … sem valor jurídico. O ato não tem versão portuguesa oficial.»). O aviso vai para o LLM e para a resposta, como o de revogação. `rag.indice --sem-traducoes` faz um índice sem estes atos, para comparar.
+
+### Aviso de inconstitucionalidade com os acórdãos de 1983 a 2026
+
+Repetida a avaliação BM25 com o `normas-julgadas.jsonl` de 13/11 (371 declarações com força obrigatória geral, eram 64), no índice da manhã de 16/11 (`bm25-tc-1983-2026`):
+
+- **Das 736 perguntas que também estavam na medição de 12/11, só 3 mudam** (cmp-024, alt-095, alt-021), e nenhuma tem aviso do TC. A mudança vem da reconstrução do índice de 13/11, não dos dados do TC.
+- **Entram 2 avisos novos, ambos certos:** lit-270 e tmp-048 citam normas que o TC declarou inconstitucionais antes de 2016.
+- **Correção:** 17 das 371 declarações são só de ilegalidade, e o aviso dizia «inconstitucional». Passou a dizer «ilegal» quando a alínea fala só de ilegalidade (`_so_ilegalidade`, com teste).
+
+### 2.ª Série do DR
+
+Os atos da 2.ª Série recolhidos desde 12/11 ficam fora do índice por omissão (`fora_por_omissao`). São regulamentos, editais, deliberações, declarações e acordos coletivos. Para os medir, foram escritas 54 perguntas sobre eles, verificadas às cegas (`avaliacao/perguntas-serie-ii.jsonl`, ver `avaliacao/README.md`), e construído um índice com `--com-serie-ii`.
+
+| Medição | Sem a 2.ª Série | Com a 2.ª Série |
+|---|--:|--:|
+| 54 perguntas da 2.ª Série, BM25: @1 / @10 | 0 % / 0 % | 65 % / 96 % |
+| 54 perguntas da 2.ª Série, reranker: @1 / @10 | — | **89 % / 98 %** |
+| 1.298 perguntas, BM25: pior / melhor do que antes | — | 16 / 6 |
+| 281 reais, BM25: @1 / @10 | 93 / 200 | 90 / 192 |
+| 281 reais, reranker: @1 / @10 | 43 % / 78 % | 41 % / 76 % |
+
+- **Por tipo, BM25 @1:** regulamentos 17/26, editais 9/12, deliberações 5/12, declarações 3/3, acordos coletivos 1/1.
+- **Com o reranker, as 54 dão 6 % de «não sei» e 92 % de fiabilidade** (47/51, limiar 3).
+- **No BM25, as perguntas que pioram** quase nunca têm um ato da 2.ª Série em 1.º lugar: só 1 das 16. Os atos da 2.ª Série entram nos candidatos e empurram para baixo o artigo certo, sobretudo nas reais.
+- **Correção na procura dos diplomas citados:** na 2.ª Série, o número tem às vezes um sufixo («1126/2026 (…)»). `Pesquisa.diplomas` passou a encontrar o número com sufixo (com teste).
+
+**Com o reranker, a 2.ª Série baralha as perguntas reais** (`cruzado-reais-atual` contra `cruzado-reais-com-s2`, limiar 3):
+- O artigo certo em 1.º lugar passa de 120 para 115, e nos 10 primeiros de 218 para 214. As certas passam de 101 para 99. Pioram 33 perguntas e melhoram 26.
+- Em 12 das 33 que pioram, o 1.º lugar passa a ser um regulamento ou acordo coletivo da 2.ª Série: um regulamento municipal ou de um instituto que fala do mesmo tema (teletrabalho, descanso compensatório, isenção de IMT). Aí a resposta citaria a regra de uma entidade em vez da lei geral, o que engana mais do que um «não sei».
+
+**Decisão: a 2.ª Série fica fora do índice por omissão.** Ganha-se nas perguntas que citam um ato da 2.ª Série e perde-se nas perguntas gerais, que são as mais comuns. Hipótese por medir: pôr a 2.ª Série no índice só para a referência exata («Regulamento n.º 1126/2026»), fora do BM25 em todo o acervo. As 54 perguntas citam todas o ato.
+
+### CNPD e TC
+
+As decisões da CNPD e os acórdãos do TC não estão no export das leis nem no índice. O TC chega às respostas pelo `normas-julgadas.jsonl`: o aviso de inconstitucionalidade, e a segunda resposta, a da jurisprudência. A CNPD ainda não entra no RAG.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:
@@ -465,7 +515,7 @@ Por ordem de ganho esperado:
 
 ### Atos da UE em tradução não oficial (14 e 16/11/2026)
 
-Os 1.244 atos da UE em vigor sem versão portuguesa estão no acervo em tradução não oficial (`version.kind: translation`, `language: por`). Entram no índice na próxima reconstrução, como os outros atos da UE. Falta: a resposta mostrar o `version.label` («Tradução não oficial … sem valor jurídico») quando cita um destes atos, e decidir se ficam no índice, porque quase todos são decisões antigas dirigidas a outros Estados e podem aparecer em perguntas gerais sobre agricultura ou alfândegas.
+Os 1.244 atos da UE em vigor sem versão portuguesa estão no acervo em tradução não oficial (`version.kind: translation`). Desde 16/11 estão no índice (1.233; as outras 11 ficam de fora por um aviso antigo no registo), a resposta avisa quando cita um deles, e medido não baralham as perguntas gerais: ver "Tipos novos".
 
 ### Jurisprudência (estado em 12/11/2026)
 

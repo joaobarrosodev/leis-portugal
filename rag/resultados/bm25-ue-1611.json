@@ -1,0 +1,67 @@
+{
+ "configuracao": {
+  "reranker": null,
+  "limiar": null,
+  "llm": false,
+  "reescrita": false
+ },
+ "resumo": {
+  "literal": {
+   "n": 123,
+   "nao_sei": 0,
+   "respondidas": 123,
+   "certas": 98,
+   "artigo@1": 98,
+   "texto@1": 98,
+   "artigo@5": 106,
+   "texto@5": 106,
+   "artigo@10": 106,
+   "texto@10": 106,
+   "com_fonte": 123
+  },
+  "revogada": {
+   "n": 19,
+   "nao_sei": 0,
+   "respondidas": 19,
+   "certas": 18,
+   "artigo@1": 13,
+   "texto@1": 13,
+   "artigo@5": 13,
+   "texto@5": 13,
+   "artigo@10": 13,
+   "texto@10": 13,
+   "com_fonte": 19,
+   "avisa_revogacao@1": 19,
+   "revogado_por_certo@1": 18
+  },
+  "sem_resposta": {
+   "n": 25,
+   "nao_sei": 12,
+   "respondidas": 13,
+   "certas": 0,
+   "certas_nao_sei": 12,
+   "artigo@1": 0,
+   "texto@1": 0,
+   "artigo@5": 0,
+   "texto@5": 0,
+   "artigo@10": 0,
+   "texto@10": 0,
+   "com_fonte": 0
+  },
+  "total": {
+   "n": 167,
+   "nao_sei": 12,
+   "respondidas": 155,
+   "certas": 116,
+   "artigo@1": 111,
+   "texto@1": 111,
+   "artigo@5": 119,
+   "texto@5": 119,
+   "artigo@10": 119,
+   "texto@10": 119,
+   "com_fonte": 142,
+   "avisa_revogacao@1": 19,
+   "revogado_por_certo@1": 18
+  }
+ }
+}
