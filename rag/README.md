@@ -516,6 +516,33 @@ Os atos da 2.ª Série recolhidos desde 12/11 ficavam fora do índice por omiss�
 
 As decisões da CNPD e os acórdãos do TC não estão no export das leis nem no índice. O TC chega às respostas pelo `normas-julgadas.jsonl`: o aviso de inconstitucionalidade, e a segunda resposta, a da jurisprudência. A CNPD ainda não entra no RAG.
 
+## Modo sem IA: o âmbito à vista (17/11/2026)
+
+O teste que levou a isto: «Quantos dias de férias tem um trabalhador por ano?», sem IA, dava em 1.º lugar o artigo 126.º da Lei Geral do Trabalho em Funções Públicas (LTFP), e na lista apareciam as Portarias 913/80 e 193/79 (30 dias, de um setor só). Quem lê não tinha como ver que o 1.º artigo era só da função pública. Três mudanças, nenhuma pede reconstruir o índice:
+
+- **A. Os 3 artigos mais prováveis, cada um com o âmbito** (`rag/ambito.py`, página e `rag/web.py`). No modo sem IA a página já não mostra um artigo como se fosse a resposta. Mostra os 3 primeiros, numerados, com uma etiqueta: «Função pública», «Direito da UE», «Só Açores», «Só Madeira», «Regulamento de 1980, sem versão consolidada» ou «Regime geral».
+- **B. A lei geral antes dos regimes de um setor.** Se a pergunta não fala da função pública, os diplomas da função pública levam um fator 0,8 no BM25 (`PRIOR_SETOR`). Com o reranker, contam um ponto a menos na ordenação (`RERANKER_SETOR`), mas só abaixo do nível 2 e nunca para o limiar do «não sei». Quando a pergunta cita o diploma, nada muda.
+- **C. Os regulamentos antigos atrás.** Portarias, despachos e avisos de antes de 1990 sem versão consolidada levam um fator 0,75 (`PRIOR_ANTIGO`) e um ponto a menos com o reranker (`RERANKER_ANTIGO`).
+
+Na pergunta das férias, com o reranker, o 1.º lugar passa a ser o artigo 239.º do Código do Trabalho, o 2.º o 126.º da LTFP e o 3.º o 238.º do Código do Trabalho, e as portarias saem da lista.
+
+| Medição | Antes | Com A, B e C |
+|---|--:|--:|
+| 1.298 perguntas, BM25: certas | 557 | 562 |
+| 281 reais, BM25: @1 / @10 | 90 / 193 | 94 / 194 |
+| 281 coloquiais, BM25: @1 / @10 | 30 / 85 | 31 / 86 |
+| 281 reais, reranker: @1 / @10 | 122 / 222 | 125 / 223 |
+| 281 reais, reranker: certas / «não sei» | 108 / 92 | **112** / 93 |
+
+- **Nenhum tipo piora** no conjunto completo (`bm25-indice-1611-ref` contra `bm25-ambito`). Os outros tipos ficam exatamente iguais.
+- **Com o reranker** (`cruzado-reais-sem-ambito` contra `cruzado-reais-ambito`, limiar 3): ganham-se 4 certas e não se perde nenhuma. As 4 são perguntas gerais de trabalho em que a LTFP passava à frente do Código do Trabalho: o período experimental, a contagem do período experimental, o trabalho noturno e quem define o horário. Mais 2 perguntas descem do 1.º para o 2.º lugar sem mudar a resposta.
+- **Sem afinar mais:** os fatores ficaram nos primeiros valores. Não foram ajustados à pergunta das férias nem às 281 reais.
+
+**Correção: artigos repostos depois de revogados** (`fontes.revogado`). Um artigo contava como revogado se alguma nota dissesse «Revogado», mesmo que uma alteração posterior o tivesse reposto. Era o caso dos artigos 1064.º a 1113.º do Código Civil (o arrendamento, revogado em 1990 e reposto pela Lei 6/2006). Agora conta a data de publicação de cada nota: o artigo só está revogado se a última revogação for posterior à última alteração. Se uma revogação não tiver data, ou tiver uma data impossível («1079-01-01»), o artigo continua revogado. Saem 159 artigos em vigor que contavam como revogados, 53 deles do Código Civil.
+
+- **Medido só com BM25** (`bm25-ambito` contra `bm25-ambito-revogado`, nas literais, revogadas, reais e coloquiais): as reais passam de 194 para 199 com o artigo nos 10 primeiros. As 5 que entram são perguntas de arrendamento (artigos 1101.º e 1110.º do Código Civil e o NRAU). Em 1.º lugar nada muda.
+- **Aviso a menos, certo:** na lit-166, o artigo 1069.º do Código Civil (forma do contrato de arrendamento) deixa de vir com o aviso «revogado», que estava errado. As 55 revogadas continuam todas com o aviso e o diploma revogatório certo.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:

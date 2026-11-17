@@ -114,6 +114,12 @@ Os números estão no `rag/README.md`, «Tipos novos».
   - Por fazer, se a perda só com BM25 importar: os atos só pela referência numa tabela de pesquisa
     à parte.
 - **CNPD:** não está no índice nem no RAG. O TC chega às respostas pelo `normas-julgadas.jsonl`.
+- **Modo sem IA (17/11):** mostra os 3 artigos mais prováveis, cada um com o âmbito («Função
+  pública», «Regime geral»…). Numa pergunta que não fala da função pública, a lei geral passa à
+  frente dos regimes da função pública, e as portarias e despachos de antes de 1990 ficam atrás.
+  Com o reranker, as reais passam de 108 para 112 certas, e nada piora. Também passaram a contar
+  como em vigor os artigos repostos depois de revogados (159, entre eles o arrendamento do Código
+  Civil). Ver «Modo sem IA» no `rag/README.md`.
 
 ## 4. OCR da CNPD: feito (15/11)
 

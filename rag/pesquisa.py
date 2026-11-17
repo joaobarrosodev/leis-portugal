@@ -23,6 +23,7 @@ from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
 
+from rag import ambito as ambito_mod
 from rag import referencias as refs_mod
 from rag import texto as termos_mod
 from rag.fontes import PASTA_INDICE, revogado
@@ -34,6 +35,12 @@ PRIOR_CONSOLIDADO = 1.25
 PRIOR_ESTADO = {"repealed": 0.6, "not_in_force": 0.6, "unknown": 0.85}
 PRIOR_REPUBLICACAO = 0.6
 PRIOR_ARTIGO_REVOGADO = 0.6
+PRIOR_SETOR = 0.8  # regime de um setor (função pública) numa pergunta que não fala dele: `rag.ambito`
+PRIOR_ANTIGO = 0.75  # portaria, despacho ou aviso de antes de 1990 sem versão consolidada
+# O reranker não vê os pesos acima: nos artigos que a pergunta não cita, tira-se isto à pontuação dele
+# para ordenar (não para o limiar do "não sei"). Pontos de logit do bge-reranker-v2-m3.
+RERANKER_SETOR = 1.0
+RERANKER_ANTIGO = 1.0
 REVOGADO = ("repealed", "not_in_force")
 # Atos da UE sem versão portuguesa, traduzidos pelo projeto (`version.kind: translation`). O índice não
 # guarda o `version.label`, que diz de que língua; o aviso diz o essencial sem mudar o formato do índice.
@@ -153,9 +160,10 @@ class Pesquisa:
         if id_ in self._documentos:
             return self._documentos[id_]
         linha = self.con.execute(
-            "SELECT id, titulo, tipo, numero, data, legal_status, versao, data_consolidacao, com_historico FROM documentos WHERE id = ?", (id_,)
+            "SELECT id, titulo, tipo, numero, data, legal_status, versao, data_consolidacao, com_historico, sumario FROM documentos WHERE id = ?",
+            (id_,),
         ).fetchone()
-        chaves = ("id", "titulo", "tipo", "numero", "data", "legal_status", "versao", "data_consolidacao", "com_historico")
+        chaves = ("id", "titulo", "tipo", "numero", "data", "legal_status", "versao", "data_consolidacao", "com_historico", "sumario")
         self._documentos[id_] = dict(zip(chaves, linha, strict=True)) if linha else None
         return self._documentos[id_]
 
@@ -207,7 +215,8 @@ class Pesquisa:
             self._principais = []
             for documento, parte in dict.fromkeys(partes):
                 artigos = self.con.execute("SELECT count(*) FROM pedacos WHERE documento = ? AND parte = ?", (documento, parte)).fetchone()[0]
-                if artigos >= CODIGO_GRANDE and documento not in self._principais:
+                # Os da 2.ª Série só pela referência ("Código de Conduta do Município…") não contam.
+                if artigos >= CODIGO_GRANDE and documento not in self._principais and documento not in self.so_referencia:
                     self._principais.append(documento)
         return self._principais
 
@@ -260,13 +269,16 @@ class Pesquisa:
         info = self._info([i for i, _ in linhas])
         if not documentos and self.so_referencia:
             linhas = [(i, s) for i, s in linhas if info[i][2] not in self.so_referencia]
-        pontuacoes = [(i, -s * (1.0 if documentos else self._prior(*info[i][2:]))) for i, s in linhas if self._em_vigor(*info[i][:2], data)]
+        pontuacoes = [
+            (i, -s * (1.0 if documentos else self._prior(*info[i][2:], pergunta=pergunta))) for i, s in linhas if self._em_vigor(*info[i][:2], data)
+        ]
         return sorted(pontuacoes, key=lambda x: -x[1])[:limite]
 
-    def _prior(self, documento: str, parte: str, artigo_revogado: bool) -> float:
+    def _prior(self, documento: str, parte: str, artigo_revogado: bool, *, pergunta: str = "") -> float:
         """Peso da "lei atual" na pesquisa em todo o acervo: o texto consolidado pelo DRE à frente, os
         diplomas revogados, de vigência desconhecida, os artigos revogados e os anexos de republicação
-        (texto de outra data) atrás."""
+        (texto de outra data) atrás. Também atrás: o regime de um setor quando a pergunta não fala dele,
+        e os regulamentos antigos sem versão consolidada (`rag.ambito`)."""
         doc = self.documento(documento) or {}
         peso = PRIOR_CONSOLIDADO if doc.get("com_historico") else 1.0
         peso *= PRIOR_ESTADO.get(doc.get("legal_status"), 1.0)
@@ -274,7 +286,25 @@ class Pesquisa:
             peso *= PRIOR_ARTIGO_REVOGADO
         if "republica" in parte.lower():
             peso *= PRIOR_REPUBLICACAO
+        nome_setor = ambito_mod.setor(doc.get("titulo") or "", doc.get("sumario") or "", parte)
+        if nome_setor and not ambito_mod.pergunta_fala_do_setor(pergunta, nome_setor):
+            peso *= PRIOR_SETOR
+        if ambito_mod.antigo_regulamentar(doc):
+            peso *= PRIOR_ANTIGO
         return peso
+
+    def _desconto_reranker(self, r: Resultado, pergunta: str) -> float:
+        """Quanto se tira à pontuação do reranker de um artigo que a pergunta não cita (`RERANKER_SETOR`…)."""
+        if r.nivel >= 2:
+            return 0.0
+        doc = self.documento(r.documento) or {}
+        desconto = 0.0
+        nome_setor = ambito_mod.setor(doc.get("titulo") or "", doc.get("sumario") or "", r.parte or "")
+        if nome_setor and not ambito_mod.pergunta_fala_do_setor(pergunta, nome_setor):
+            desconto += RERANKER_SETOR
+        if ambito_mod.antigo_regulamentar(doc):
+            desconto += RERANKER_ANTIGO
+        return desconto
 
     def _info(self, ids: list[int]) -> dict[int, tuple[str | None, str | None, str, str, bool]]:
         """(desde, ate, documento, parte, artigo revogado) de cada pedaço."""
@@ -355,7 +385,13 @@ class Pesquisa:
             resultados = topo
             # Um artigo revogado fica atrás dos outros do mesmo nível: numa pergunta sobre a lei em
             # vigor nunca é a resposta (quando o diploma é citado, os dele vêm antes na mesma).
-            resultados.sort(key=lambda r: (-min(r.nivel, 2), revogado(r.texto, r.notas), -(r.reranker if r.reranker is not None else -1e9)))
+            resultados.sort(
+                key=lambda r: (
+                    -min(r.nivel, 2),
+                    revogado(r.texto, r.notas),
+                    -((r.reranker if r.reranker is not None else -1e9) - self._desconto_reranker(r, pergunta)),
+                )
+            )
         else:
             resultados.sort(key=lambda r: (-r.nivel, revogado(r.texto, r.notas), -r.pontuacao))
 

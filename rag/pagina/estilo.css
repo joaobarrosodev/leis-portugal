@@ -107,6 +107,8 @@ h3 { font: 500 13px var(--mono); letter-spacing: .06em; text-transform: uppercas
 .r-juris li { font-size: 14.5px; }
 .r-fontes details summary, .r-outros details summary { cursor: pointer; font-weight: 500; }
 .r-outros > summary { cursor: pointer; margin-top: 16px; color: var(--suave); font-size: 14.5px; }
+.hipotese-cabeca { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px; margin-top: 14px; }
+.ambito { font-size: 12px; padding: 1px 8px; border-radius: 999px; background: var(--ouro-claro); color: var(--suave); white-space: nowrap; }
 .texto-artigo { font-size: 14px; color: var(--suave); white-space: pre-wrap; margin: 8px 0 2px; }
 .r-avaliar { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin-top: 18px; padding-top: 14px; border-top: 1px solid var(--linha); font-size: 14.5px; color: var(--suave); }
 .r-esperado { flex-basis: 100%; display: grid; gap: 8px; }
