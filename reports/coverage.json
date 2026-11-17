@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-17",
   "methodology": "Contagem direta dos ficheiros Markdown em data/ com front matter válido; sem estimativas de completude. Ano = data de publicação.",
   "totals": {
-    "documents": 461003,
+    "documents": 461031,
     "sources_registered": 5,
     "sources_operational": 4,
-    "validated_documents": 461003
+    "validated_documents": 461031
   },
   "by_jurisdiction": {
-    "european_union": 55218,
-    "portugal": 373904,
+    "european_union": 55234,
+    "portugal": 373916,
     "regional": 31881
   },
   "by_document_type": {
@@ -17,7 +17,7 @@
     "acordao-doutrinario": 183,
     "acordao-extrato": 31,
     "acordao-supremo-tribunal-administrativo": 122,
-    "acordao-supremo-tribunal-justica": 212,
+    "acordao-supremo-tribunal-justica": 213,
     "acordao-tribunal-constitucional": 168,
     "acordao-tribunal-contas": 4,
     "acordo": 7,
@@ -39,7 +39,7 @@
     "contrato-extrato": 25,
     "convenio": 2,
     "decisao": 3,
-    "decision": 21069,
+    "decision": 21074,
     "declaracao": 25760,
     "declaracao-extrato": 21,
     "declaracao-retificacao": 17447,
@@ -55,7 +55,7 @@
     "decreto-regulamentar": 1933,
     "decreto-regulamentar-regional": 2603,
     "decreto-representante-republica": 69,
-    "deliberacao": 23504,
+    "deliberacao": 23508,
     "deliberacao-assembleia-republica": 1,
     "deliberacao-extracto": 8,
     "deliberacao-extrato": 79,
@@ -79,7 +79,7 @@
     "instrucao": 8,
     "instrucoes": 4,
     "jurisprudencia": 20,
-    "lei": 6716,
+    "lei": 6719,
     "lei-constitucional": 8,
     "lei-organica": 94,
     "listagem": 1,
@@ -107,11 +107,11 @@
     "regimento": 21,
     "regimento-assembleia-republica": 6,
     "regimento-conselho-estado": 2,
-    "regulamento": 18844,
+    "regulamento": 18848,
     "regulamento-cmvm": 198,
     "regulamento-extracto": 2,
     "regulamento-extrato": 5,
-    "regulation": 29961,
+    "regulation": 29972,
     "relatorio": 1,
     "resolucao": 15239,
     "resolucao-assembleia-legislativa-regional": 1869,
@@ -125,8 +125,8 @@
     "tabela": 1
   },
   "by_source": {
-    "dre": 405785,
-    "eurlex-cellar": 55218
+    "dre": 405797,
+    "eurlex-cellar": 55234
   },
   "by_year": {
     "1833": 2,
@@ -286,54 +286,54 @@
     "2023": 11126,
     "2024": 11262,
     "2025": 11467,
-    "2026": 9134
+    "2026": 9162
   },
   "by_territory": {
     "acores": 28314,
     "madeira": 3567,
-    "nacional": 429122
+    "nacional": 429150
   },
   "by_version_kind": {
-    "consolidated": 14514,
-    "original": 445245,
+    "consolidated": 14541,
+    "original": 445246,
     "translation": 1244
   },
   "by_legal_status": {
-    "in_force": 201380,
-    "not_in_force": 38808,
+    "in_force": 201393,
+    "not_in_force": 38812,
     "partially_in_force": 790,
     "repealed": 14841,
-    "unknown": 205184
+    "unknown": 205195
   },
   "by_origin": {
     "importacao_inicial": 1,
-    "recolha_direta": 461002
+    "recolha_direta": 461030
   },
   "by_text_quality": {
     "metadados": 27323,
-    "pdf": 76543,
-    "texto": 357137
+    "pdf": 76532,
+    "texto": 357176
   },
-  "with_version_history": 10789,
+  "with_version_history": 10816,
   "relationships_by_type": {
     "amended_by": 171467,
-    "amends": 36513,
-    "based_on": 77150,
-    "cited_by": 29264,
-    "cites": 994978,
+    "amends": 36524,
+    "based_on": 77167,
+    "cited_by": 29265,
+    "cites": 995078,
     "corrected_by": 27246,
     "corrects": 826,
     "implicitly_repeals": 8160,
     "interpreted_by": 9670,
     "repealed_by": 47166,
-    "repeals": 10987,
+    "repeals": 10988,
     "republished_by": 36,
     "republishes": 13,
-    "transposed_by": 2512,
-    "transposes": 2519
+    "transposed_by": 2513,
+    "transposes": 2520
   },
   "by_validation_status": {
-    "validated": 461003
+    "validated": 461031
   },
   "documents_listed": false,
   "documents": []
