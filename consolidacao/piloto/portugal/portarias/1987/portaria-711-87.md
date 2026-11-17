@@ -81,3 +81,8 @@ Assinada em 24 de Julho de 1987.
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18900/32473248.pdf)
+
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/20000/37143714.pdf)
+
+> Aditado pelo/a [Portaria n.º 752/89](https://diariodarepublica.pt/dr/detalhe/portaria/752-1989-547010), publicado em 1989-08-31.

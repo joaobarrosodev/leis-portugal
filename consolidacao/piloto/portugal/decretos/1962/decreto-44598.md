@@ -3,7 +3,8 @@ id: pt:dre:160371:por
 title: Decreto n.º 44598
 original: data/portugal/decretos/1962/decreto-44598.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:155848:por
@@ -21,9 +22,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ###### Artigo 1.º
 
-(Revogado.)
+É permitida a importação sob regime de draubaque de milho ultramarino destinado ao fabrico de sêmolas alimentares ou de farinhas para gados.
 
 > Revogado pelo/a [Decreto n.º 44679](https://diariodarepublica.pt/dr/detalhe/decreto/44679-1962-155848), publicado em 1962-11-12.
+
+> Alterado pelo/a [Decreto n.º 44679](https://diariodarepublica.pt/dr/detalhe/decreto/44679-1962-155848), publicado em 1962-11-12.
 
 ###### Artigo 2.º
 

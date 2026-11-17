@@ -544,10 +544,20 @@ Escola Secundária de Rodrigues de Freitas (Porto).
 
 1 - Época normal:
 
-1.1 - Inscrição - 18 de Novembro a 6 de Dezembro de 1991.
+1.1 - Inscrição - 18 de Novembro a 6 de Dezembro de 1991;
 
-1.2 - Primeira chamada - 3 de Fevereiro de 1992.
+1.2 - 1.ª chamada - 3 de Fevereiro de 1992;
 
-1.3 - Segunda chamada - 17 de Fevereiro de 1992.
+1.3 - 2.ª chamada - 17 de Fevereiro de 1992;
 
-2 - Época especial - a fixar no quadro do calendário geral de acesso.
+1.4 - 3.ª chamada - 8 de Maio de 1992.
+
+2 - Época especial:
+
+2.1 - Inscrição - 22 a 30 de Junho de 1992;
+
+2.2 - 1.ª chamada - 3 de Agosto de 1992;
+
+2.3 - 2.ª chamada - 7 de Agosto de 1992.
+
+> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13.

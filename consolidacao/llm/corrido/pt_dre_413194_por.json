@@ -1,18 +1,11 @@
 {
   "id": "pt:dre:413194:por",
-  "substituicoes": [
-    {
-      "de": 8,
-      "ate": 8,
-      "texto": "a) (Revogada.)",
-      "alterador": 1
-    }
-  ],
+  "substituicoes": [],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Portaria 580-A/76, n.º 7.º: revoga a Portaria 692/73 'na parte respeitante a livros escolares'. É uma revogação parcial pela matéria, que não indica números nem alíneas e atinge também os n.os 2.º e 3.º na medida em que respeitem a livros escolares; não se aplica ao texto. A alínea a) do n.º 1.º fica 'a) Livros escolares;' (o reparo do verificador confirma-se: a resposta anterior tinha-a marcado como revogada).",
   "instrucoes": [
-    "N.º 7.º da Portaria n.º 580-A/76 revoga a Portaria n.º 692/73 na parte respeitante a livros escolares: alínea a) do n.º 1.º (unidade 8) passa a «a) (Revogada.)».",
-    "Revogação do despacho de 9 de Novembro de 1973 e restantes números: não dirigidos ao original."
+    "Alterador 1 (Portaria 580-A/76), n.º 7.º: revogação 'na parte respeitante a livros escolares': revogação parcial não delimitada no texto: em nao_aplicavel; a alínea a) do n.º 1.º fica com o texto original.",
+    "Alterador 1, restantes números (regime de preços controlados dos livros escolares, mapa anexo): regime próprio do alterador, sem instruções dirigidas ao texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

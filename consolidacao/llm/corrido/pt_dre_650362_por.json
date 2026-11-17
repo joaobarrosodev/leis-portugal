@@ -18,6 +18,12 @@
       "ate": 18,
       "texto": "4.º Tendo em conta a avaliação feita pela Comissão de Acompanhamento e o estado dos recursos, por despacho conjunto dos Ministros do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas podem ser estabelecidos outros limites diários de captura, períodos e zonas de defeso, bem como regimes de rotatividade das zonas de apanha.",
       "alterador": 1
+    },
+    {
+      "de": 32,
+      "ate": 32,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0307103072.pdf)\n\nZona 1 - da Pedra do Sal (Cabo de Sines) até à praia do Barranco do Queimado (inclusive).\n\nZona 10 - da Ponta da Atalaia até à Praia do Burgau (inclusive).",
+      "alterador": 1
     }
   ],
   "insercoes": [
@@ -27,13 +33,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, artigo 1.º, anexo III: a nova redacção traz um mapa em imagem e as zonas 2 a 9 como [...], que remetem para texto que no original só existe em imagem (unidade 32); não aplicado.",
+  "nao_aplicavel": "Portaria 388/2008, art. 1.º, anexo III: as zonas 2 a 9 vêm com [...] (fica o texto atual), mas no original as zonas de apanha só existem em imagem, por isso não há texto a manter nessas unidades; ficaram só a nova ligação e as zonas 1 e 10 escritas. Art. 3.º (aplicação das limitações à área da Capitania de Sines) não é alteração textual do Regulamento.",
   "instrucoes": [
-    "Alterador 1, art. 1.º, n.º 1.º: nova redacção do proémio (unidade 12); alíneas a) e b) com '...' mantidas; alínea c) substituída por c) com i) e ii) (unidade 15).",
-    "Alterador 1, art. 1.º, n.º 4.º: nova redacção (unidade 18).",
-    "Alterador 1, art. 1.º, anexo III: nova redacção só em parte textual, zonas 2-9 em [...] sobre imagem; não aplicado (nao_aplicavel).",
-    "Alterador 1, art. 2.º: aditado o n.º 2.º-A, inserido depois da unidade 16.",
-    "Alterador 1, art. 3.º: extensão das limitações à Capitania de Sines; norma própria do alterador, não altera o texto do original."
+    "Portaria 388/2008, art. 1.º, n.º 1.º: nova redação do corpo; a) e b) com ... ficam; nova alínea c) com i) e ii): substituídas as unidades 12 e 15.",
+    "Portaria 388/2008, art. 1.º, n.º 4.º: nova redação: substituída a unidade 18.",
+    "Portaria 388/2008, art. 1.º, anexo III: epígrafe e título iguais (unidades 30-31 ficam); substituída a unidade 32 pela nova ligação e pelas zonas 1 e 10; zonas 2 a 9 em nao_aplicavel.",
+    "Portaria 388/2008, art. 2.º: aditado o n.º 2.º-A: inserido depois da unidade 16.",
+    "Portaria 388/2008, art. 3.º: extensão das limitações à Capitania de Sines, sem mudança no texto (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

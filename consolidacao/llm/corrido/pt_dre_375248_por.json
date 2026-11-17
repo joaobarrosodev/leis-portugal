@@ -35,9 +35,9 @@
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "1.º: no n.º 2.º, São Julião (Oeiras) passa a Santo António dos Cavaleiros (Loures) (unidade 94) e Dr. Augusto César de Lima (Porto) passa a Albergaria-a-Velha (unidade 102); mantido o separador '... 1' do texto atual",
-    "2.º: no n.º 3.º, Moura passa a Caldas das Taipas (Guimarães) (unidade 273) e Soares dos Reis (Vila Nova de Gaia) passa a Almirante Gago Coutinho (Lisboa) (unidade 302)",
-    "3.º: no n.º 3.º, Santa Iria de Azoia (Vila Franca de Xira) passa a Póvoa de Santa Iria (unidade 291)"
+    "Portaria 25/84, 1.º: no n.º 2.º, São Julião (Oeiras) -> Santo António dos Cavaleiros (Loures) (unidade 94) e Dr. Augusto César de Lima (Porto) -> Albergaria-a-Velha (unidade 102); mantido o ' ... 1' do texto atual.",
+    "Portaria 25/84, 2.º: no n.º 3.º, Moura -> Caldas das Taipas (Guimarães) (unidade 273) e Soares dos Reis (Vila Nova de Gaia) -> Almirante Gago Coutinho (Lisboa) na ocorrência do n.º 3.º (unidade 302, extintos de terceiro-oficial); a linha Soares dos Reis do n.º 2.º (unidade 206) mantém-se (reparo confirmado).",
+    "Portaria 25/84, 3.º: no n.º 3.º, Santa Iria de Azoia (Vila Franca de Xira) -> Póvoa de Santa Iria (unidade 291)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

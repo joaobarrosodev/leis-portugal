@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:395573:por",
     "alterador": "pt:dre:200018:por"
+  },
+  {
+    "artigo": "ANEXO II — Prazos",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II — Prazos\n1 - Época normal:\n\n1.1 - Inscrição - 18 de Novembro a 6 de Dezembro de 1991.\n\n1.2 - Primeira chamada - 3 de Fevereiro de 1992.\n\n1.3 - Segunda chamada - 17 de Fevereiro de 1992.\n\n2 - Época especial - a fixar no quadro do calendário geral de acesso.",
+    "depois": "## ANEXO II — Prazos\n\n1 - Época normal:\n\n1.1 - Inscrição - 18 de Novembro a 6 de Dezembro de 1991;\n\n1.2 - 1.ª chamada - 3 de Fevereiro de 1992;\n\n1.3 - 2.ª chamada - 17 de Fevereiro de 1992;\n\n1.4 - 3.ª chamada - 8 de Maio de 1992.\n\n2 - Época especial:\n\n2.1 - Inscrição - 22 a 30 de Junho de 1992;\n\n2.2 - 1.ª chamada - 3 de Agosto de 1992;\n\n2.3 - 2.ª chamada - 7 de Agosto de 1992.\n\n> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:395573:por",
+    "alterador": "pt:dre:200018:por"
   }
 ]

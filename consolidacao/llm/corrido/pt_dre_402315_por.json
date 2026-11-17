@@ -15,11 +15,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, 2.º: o n.º 6.º passa a obrigar a manter apenas um guarda florestal auxiliar, mas sem nova redação do ponto; não aplicado para não inventar texto.",
+  "nao_aplicavel": "Portaria 958/97, n.º 2.º: diz que o n.º 6.º, no que respeita ao número de guardas, passa apenas a obrigar a entidade concessionária a manter um guarda florestal auxiliar; não dá nova redação ao n.º 6.º. O texto proposto pelo verificador ('obrigando-se o concessionário a manter um guarda florestal auxiliar dotado de meio de transporte, com observância...') não está letra a letra em nenhuma fonte: seria uma frase montada (alteração não textual). O n.º 6.º fica como está, com 'dois guardas florestais auxiliares'.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 1.º (1538 ha); substituí a unidade 6 mantendo a numeração 1.º.",
-    "Alterador 1, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6.",
-    "Alterador 1, 2.º: n.º 6.º passa a um guarda; sem redação textual (nao_aplicavel)."
+    "Alterador 1 (Portaria 958/97), n.º 1.º: nova redação do n.º 1.º (área de 1538 ha): unidade 6 substituída, com o número '1.º' do texto atual.",
+    "Alterador 1, n.º 1.º: adita o n.º 1.º-A: inserido a seguir à unidade 6, com o número '1.º-A' dado na instrução.",
+    "Alterador 1, n.º 2.º: um só guarda florestal auxiliar no n.º 6.º, sem nova redação; reparo do verificador não seguido porque o texto proposto não está letra a letra num alterador: em nao_aplicavel.",
+    "Alterador 1, n.º 3.º: entrada em vigor do próprio alterador; não altera o texto.",
+    "Nota: a concessão é pelo período de 12 anos a partir de 1993 (n.º 2.º); nenhum alterador a renova."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

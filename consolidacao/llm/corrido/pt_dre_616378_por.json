@@ -6,14 +6,21 @@
       "ate": 23,
       "texto": "1 - O estágio que integra o plano de estudos do curso tem uma duração não inferior a 26 semanas.\n\n2 - O estágio tem como objectivo a aproximação do estudante à realidade da sua futura actividade profissional.\n\n3 - O regulamento do estágio é fixado pelo órgão legal e estatutariamente competente da Escola.",
       "alterador": 1
+    },
+    {
+      "de": 42,
+      "ate": 42,
+      "texto": "## ANEXO — ([Portaria n.º 1129/92](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1992-616378), de 10 de Dezembro - Alteração)\n\nInstituto Politécnico de Viana do Castelo\n\nEscola Superior Agrária de Ponte de Lima\n\nCurso: Engenharia Hortícola e Paisagista\n\nGrau: bacharel\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/142b00/30613063.pdf)",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.º 1.º: a mudança de designação do curso (Horticultura para Engenharia Hortícola e Paisagista) não é uma alteração textual do original, não aplicada ao n.º 1.º. Alterador 1, n.º 2.º: o novo plano de estudos (anexo) só existe em imagem; não aplicado.",
+  "nao_aplicavel": "Portaria 414/97, 1.º: o curso de bacharelato em Horticultura passa a designar-se curso de Engenharia Hortícola e Paisagista, sem nova redação escrita para o n.º 1.º do original; não se infere a troca no texto do n.º 1.º. A nova designação só entra no texto pelo anexo substituído (2.º).",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: nova designação do curso, sem instrução textual sobre o original; não aplicada.",
-    "Alterador 1, n.º 2.º: substitui o plano de estudos do anexo (imagem); não aplicável.",
-    "Alterador 1, n.º 3.º: nova redação do n.º 4.º (Estágio) com três números; substituídas as unidades 19 a 23, mantendo '4.º' e a epígrafe 'Estágio' (iguais)."
+    "Portaria 414/97, 1.º: nova designação do curso sem redação nova para o n.º 1.º: não aplicada (ver nao_aplicavel).",
+    "Portaria 414/97, 2.º: o plano de estudos passa a ser o do anexo da 414/97: substituída a unidade 42 (anexo em imagem) pelo anexo do alterador, letra a letra.",
+    "Portaria 414/97, 3.º: nova redação do n.º 4.º (Estágio, n.os 1 a 3): substituídas as unidades 19-23; o número e a epígrafe ficam.",
+    "Portaria 414/97, 4.º e 5.º: aplicação e transição, sem mudança no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

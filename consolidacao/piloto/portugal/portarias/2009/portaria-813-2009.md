@@ -13,6 +13,9 @@ consolidacao:
   - id: pt:dre:670056:por
     title: Portaria n.º 228/2011
     publication_date: '2011-06-09'
+  - id: pt:dre:498497:por
+    title: Portaria n.º 253/2013
+    publication_date: '2013-08-07'
 ---
 
 # Portaria n.º 813/2009
@@ -371,7 +374,7 @@ Limites às elegibilidades
 
 13 - O investimento constante do n.º 4 é elegível quando o seu uso for indispensável à execução da operação, sendo o seu limite definido em OTE.
 
-14 - As despesas relativas aos n.os 9 e 10 são limitadas a uma percentagem das despesas totais elegíveis, a definir em OTE.
+14 - As despesas relativas aos nºs 9 e 10 são limitadas a uma percentagem do valor elegível aprovado das restantes despesas, a definir em OTE.
 
 15 - São elegíveis as despesas de IVA quando os beneficiários se encontrem sujeitos ao regime de isenção, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA é não elegível.
 
@@ -415,6 +418,8 @@ Limites às elegibilidades
 
 28 - Não são elegíveis as despesas realizadas antes da data de apresentação dos pedidos de apoio, excepto as relativas a estudos de mercado ou trabalhos de levantamento de destinatários potenciais, desde que realizados até seis meses antes da apresentação dos pedidos de apoio.
 
+> Alterado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
+
 ## ANEXO II — Nível e limites dos apoios
 
 (a que se refere o artigo 10.º)
@@ -435,7 +440,7 @@ a) SI, «Impacte económico, social ou ambiental directo da operação», valori
 
 b) S, «Grau de sinergia com outras medidas do PRODER», valoriza a articulação dos serviços com operações de outras medidas;
 
-c) N, «Número de destinatários potenciais, devidamente fundamentado através de levantamento ou estudo de mercado», valoriza a abrangência dos serviços;
+c) N, 'Número de destinatários potenciais, devidamente fundamentado', que valoriza a abrangência dos serviços;
 
 d) V, «Valor de custo da prestação avaliado com base no preço hora/homem», valoriza a eficiência no uso da mão-de-obra;
 
@@ -454,3 +459,5 @@ a) Cada factor é pontuado de 0 a 20 pontos de acordo com a grelha de pontuaçã
 b) A VGO é determinada com base no somatório dos factores definidos para cada um dos coeficientes;
 
 c) Os pedidos de apoio são hierarquizados por ordem decrescente de acordo com a VGO obtida (arredondamento à centésima), até ao limite orçamental definido no aviso de abertura do concurso.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.

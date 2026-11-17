@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:194625:por",
     "alterador": "pt:dre:226819:por"
+  },
+  {
+    "artigo": "unidades 32-34",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso: Gestão\n\nGrau: licenciado\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/198b00/44944495.pdf)",
+    "depois": "Curso de Gestão\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:194625:por",
+    "alterador": "pt:dre:226819:por"
   }
 ]

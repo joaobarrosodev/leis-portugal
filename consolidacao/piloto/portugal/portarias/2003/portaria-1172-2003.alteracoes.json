@@ -12,19 +12,5 @@
     "unidade": [],
     "diploma": "pt:dre:484099:por",
     "alterador": "pt:dre:346719:por"
-  },
-  {
-    "artigo": "unidades 19-19",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/10/228b00/64836483.pdf)",
-    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/113b00/41714171.pdf)",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:484099:por",
-    "alterador": "pt:dre:346719:por"
   }
 ]

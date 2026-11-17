@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:417639:por",
     "alterador": "pt:dre:547010:por"
+  },
+  {
+    "artigo": "depois da unidade 34",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/20000/37143714.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:417639:por",
+    "alterador": "pt:dre:547010:por"
   }
 ]

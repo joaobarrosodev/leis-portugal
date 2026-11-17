@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:307648:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Regime transitório",
+      "texto": "1 - O regime transitório definido no artigo 3.º da Portaria n.º 353-A/2009, de 3 de Abril, cuja data limite de vigência se encontra fixada em 31 de Dezembro de 2010, mantém-se em vigor até 31 de Dezembro de 2011, em tudo o que não for alterado pela presente portaria.\n\n2 - Os promotores podem submeter pedidos de reformulação dos respectivos projectos aprovados, beneficiando das seguintes disposições extraordinárias e transitórias, até à data que for determinada pelo órgão de gestão:\n\na) A prorrogação do prazo de execução do projecto prevista no n.º 4 do artigo 11.º do Regulamento anexo à presente portaria poderá ser autorizada por um período superior a um ano de acordo com as necessidades reconhecidas para a adequada conclusão do projecto, estabelecendo-se como limite máximo um prazo de execução adicional de 24 meses, com excepção dos projectos simplificados de inovação (Vale Inovação) em que este prazo tem um limite máximo de 12 meses;\n\nb) As alterações decorrentes da aceitação do pedido de reformulação, nomeadamente a revisão do prazo de execução e do valor do investimento, não produzem quaisquer consequências negativas na avaliação do mérito do projecto.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alt. 1 (Portaria 47-A/2012), art. 3.º: 'Revoga-se o caráter transitório das normas abrangidas pelo n.º 1 do artigo 3.º' não revoga o texto do n.º 1 nem lhe dá nova redação (alteração não textual): o n.º 1 fica com o texto original, que o programa tinha marcado mal como (Revogado.). Alt. 2 (Portaria 233-A/2012) e alt. 3 (Portaria 369/2012) alteram os artigos 6.º, 7.º, 12.º e 16.º do Regulamento do SI Qualificação PME anexo à Portaria n.º 1463/2007, isto é, outro diploma (apenas republicado em anexo à Portaria 1101/2010): não aplicados ao texto republicado.",
+  "instrucoes": [
+    "Alt. 1, art. 3.º: torna permanentes as normas do n.º 1 do art. 3.º, sem revogar o texto; reparo confirmado: art. 3.º reposto como no original (n.º 1 com o texto original).",
+    "Alt. 2, art. 2.º: alterações aos arts. 7.º, 12.º e 16.º do Regulamento da Portaria 1463/2007 (outro diploma, republicado em anexo): não aplicadas.",
+    "Alt. 3, art. 2.º: alterações aos arts. 6.º, 12.º e 16.º do mesmo Regulamento (outro diploma): não aplicadas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

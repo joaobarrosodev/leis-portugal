@@ -9,14 +9,29 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 art. 2.º: alterações aos anexos VI (n.º 7) e VIII (epígrafe) não constam do texto por artigos.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO VI — Especificações geométricas mínimas a que se refere o artigo 22.º, n.º 5",
+      "texto": "1 - Profundidade do degrau (D) - 80 mm.\n\n2 - Espaço livre do degrau (E), inclui a profundidade do degrau - 150 mm.\n\n3 - Largura do degrau (F) - 300 mm (ver nota *).\n\n4 - Largura do degrau mais baixo (G) - 200 mm.\n\n5 - Altura do degrau (S) - 120 mm.\n\n6 - Desalinhamento transversal entre degraus (H) - 0 mm.\n\n7 - Sobreposição longitudinal (J) entre dois degraus seguidos do mesmo lanço, ou entre o degrau mais alto e o piso do habitáculo do condutor - 200 mm.\n\n(nota *) Nos veículos fora de estrada, o valor F pode ser reduzido para 200 mm.",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO VIII",
+      "texto": "Distância mínima (P) entre a aresta superior do ou dos corrimãos, das pegas ou de dispositivos equivalentes e o piso do habitáculo do condutor.\n\n1 - A do ou dos corrimões, pegas ou dispositivos equivalentes (U) - 650 mm.\n\n2 - A do ou dos corrimões, pegas ou dispositivos equivalentes (V) - 550 mm.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 art. 2.º: nova redação do art. 1.º - já refletida no texto atual.",
-    "Alterador 1 art. 2.º: art. 22.º - novo n.º 5 e antigos n.os 5 a 8 renumerados 6 a 9 - aplicado.",
-    "Alterador 1 art. 2.º: anexos VI e VIII - não aplicável (fora dos artigos).",
-    "Alterador 1 art. 3.º: norma de efeitos autónoma."
+    "Alt. 1 (DL 93/2002), art. 2.º, art. 1.º: nova redação já aplicada pelo programa e igual ao texto do alterador; sem mudança.",
+    "Alt. 1, art. 2.º, art. 22.º: aditado novo n.º 5 e os antigos n.os 5 a 8 passam a 6 a 9.",
+    "Alt. 1, art. 2.º, anexo VI: novo n.º 7 (sobreposição longitudinal (J)…); reparo confirmado.",
+    "Alt. 1, art. 2.º, anexo VIII: nova frase inicial (Distância mínima (P) entre…); n.os 1 e 2 mantêm-se; reparo confirmado.",
+    "Alt. 1, art. 3.º: efeitos, não textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

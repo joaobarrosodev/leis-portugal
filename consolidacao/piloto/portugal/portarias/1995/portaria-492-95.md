@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:580776:por
     title: Decreto-Lei n.º 32/2004
     publication_date: '2004-02-07'
+  - id: pt:dre:423899:por
+    title: Portaria n.º 412/98
+    publication_date: '1998-07-14'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -174,7 +177,7 @@ Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da
 
 ## ANEXO I — Condições específicas de polícia sanitária
 
-### CAPÍTULO 1 — Leite líquido, leite em pó e produtos à base de leite em pó não destinados ao consumo humano
+### CAPÍTULO 1 — Leite, produtos à base de leite e colostro não destinados ao consumo humano
 
 O comércio intracomunitário e as importações de leite líquido, de leite em pó e de produtos à base de leite em pó não destinados ao consumo humano estão sujeitos às seguintes condições:
 
@@ -296,7 +299,7 @@ iv) Que o processo de tratamento foi testado com resultados satisfatórios em co
 
 4 - Cada lote de produtos fabricados a partir de peles transformadas deve ser acompanhado do documento comercial ou do certificado previsto na alínea b) do n.º 2 do artigo 13.º da Portaria n.º 965/92, com a redacção que lhe foi dada pela Portaria n.º 25/94, atestando que os produtos foram submetidos durante a transformação a um tratamento térmico suficiente para destruir os organismos patogénicos (incluindo as salmonelas) e que foram tomadas medidas eficazes após a transformação para impedir a contaminação dos produtos.
 
-### CAPÍTULO 5
+### CAPÍTULO 5 — Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão de farinha de chifre), unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco) destinados ao consumo humano.
 
 Ossos e produtos à base de osso (com exclusão da farinha de osso), chifres e produtos à base de chifre (com exclusão da farinha de chifre), unhas e cascos e produtos à base de cascos (com exclusão da farinha de casco).
 
@@ -326,7 +329,7 @@ Esta declaração de compromisso deve ser apresentada ao veterinário oficial do
 
 3) Algumas das exigências acima referidas podem ser derrogadas de acordo com o procedimento comunitariamente previsto e em função das situações sanitárias e das garantias em matéria de controlo na origem oferecidas pelo país terceiro.
 
-### CAPÍTULO 6 — Proteínas animais transformadas
+### CAPÍTULO 6 — Proteínas animais transformadas destinadas ao consumo humano
 
 I - Sem prejuízo de eventuais restrições impostas em matéria de encefalopatia espongiforme bovina (BSE) e das restrições impostas à alimentação de ruminantes com proteínas de ruminantes, o comércio e as importações de proteínas de animais transformadas estão subordinados:
 
@@ -376,7 +379,7 @@ b) Ou utilizado para um fim diferente da alimentação animal; nesse caso o lote
 
 c) Ou sujeito a novo tratamento numa instalação de transformação aprovada nos termos da Portaria n.º 965/92, de 10 de Outubro, ou em qualquer empresa aprovada para efeitos de descontaminação; para assegurar o controlo desse lote, a sua saída do porto ou do entreposto de armazenagem deverá ser sujeita a uma autorização emitida pela autoridade competente, e o lote só poderá ser levantado depois de tratado e submetido pela autoridade competente a testes de pesquisa de salmonelas, em conformidade com o disposto no capítulo III do anexo I da mesma portaria, e desde que o resultado desses testes seja negativo.
 
-### CAPÍTULO 7 — Sangue e produtos de sangue de origem animal (com excepção dos provenientes de equídeos)
+### CAPÍTULO 7 — Sangue e produtos derivados de sangue de ungulados e de aves de capoeira (com excepção de soro de equídeos)
 
 1 - O comércio de sangue e produtos de sangue efectuar-se-á de acordo com as disposições gerais do artigo 4.º da presente portaria.
 
@@ -562,7 +565,7 @@ Ter sido embalados, imediatamente após o tratamento e sem que tenham estado em 
 
 Ser acompanhados de um certificado veterinário atestando que foram respeitadas as condições acima indicadas.
 
-### CAPÍTULO 14 — Chorume para tratamento do solo
+### CAPÍTULO 14 — Chorume
 
 Produtos transformados à base de chorume. - Todos os adubos orgânicos devem ter sido tratados por forma que o produto esteja isento de agentes patogénicos.
 
@@ -620,22 +623,316 @@ b) Sejam transaccionadas ou transportadas em remessas destinadas a particulares,
 
 ## ANEXO II — Condições específicas de saúde pública
 
-Importações a partir de países terceiros de produtos à base de carne obtidos a partir de carnes de aves de capoeira, de caça de criação, de caça selvagem e de carnes de coelho.
+CAPÍTULO 1
 
-Os produtos à base de carne obtidos a partir de carnes de aves de capoeira, de caça de criação, de caça selvagem e de carnes de coelho só serão importados:
+Importações a partir de países terceiros de produtos à base de carne
 
-a) Se forem provenientes de um país terceiro constante da lista a elaborar comunitariamente, no que se refere:
+Os produtos à base de carne obtidos a partir de carnes de aves de capoeira, de caça selvagem, de carnes de coelho e de caça de criação só podem ser importadas:
 
-i) Às carnes de aves de capoeira;
+a) Se forem provenientes de um país terceiro constante da lista a que se refere:
 
-ii) Às carnes de caça selvagem;
+i) A alínea a) do artigo 7.º do regulamento aprovado pela Portaria n.º 323/94, de 26 de Maio, relativamente às carnes de aves de capoeira;
 
-iii) Às carnes de coelho e às carnes de caça de criação;
+ii) O artigo 14.º do anexo A do Decreto-Lei n.º 44/96, de 10 de Maio, relativamente às carnes de caça selvagem;
 
-b) Se a carne fresca utilizada satisfizer as exigências pertinentes do artigo 14.º da Directiva n.º [71/118/CEE](http://data.europa.eu/eli/dir/1971/118/oj?locale=pt), alterada e actualizada pela Directiva n.º [92/116/CEE](http://data.europa.eu/eli/dir/1992/116/oj?locale=pt), no que se refere às carnes de aves de capoeira, no artigo 16.º da Directiva n.º [92/45/CEE](http://data.europa.eu/eli/dir/1992/45/oj?locale=pt), no que se refere às carnes de caça selvagem, no artigo 3.º do regulamento anexo à Portaria n.º 1001/93, de 11 de Outubro, no que se refere à carne de coelho, e no artigo 6.º do referido regulamento, no que se refere às carnes de caça de criação;
+iii) O capítulo 11 do anexo I da presente portaria, relativamente às carnes de coelho e às carnes de caça de criação;
 
-c) Se forem provenientes de um estabelecimento que ofereça as mesmas garantias que as referidas na Portaria n.º 1229/93, de 27 de Novembro, aprovadas de acordo com o procedimento comunitariamente previsto, ou, na pendência da adopção dessa decisão, pela autoridade competente do Estado membro, continuando as importações desses produtos sujeitas às regras do n.º 2 do artigo 11.º do regulamento anexo à Portaria n.º 774/93, de 3 de Setembro;
+ou se forem provenientes de país terceiro constante da parte 1 do anexo da Decisão n.º [93/435/CEE](http://data.europa.eu/eli/dec/1993/435/oj?locale=pt), de 27 de Julho, que altera a Decisão n.º [79/542/CEE](http://data.europa.eu/eli/dec/1979/542/oj?locale=pt), de 21 de Dezembro, devendo nesse caso terem sido submetidas a um tratamento efectuado pelo calor em recipiente hermético, sendo o valor Fo igual ou superior a 3,00 e, se se tratar de produtos à base de carne de uma espécie diferente da dos suídeos, esse tratamento pode ser substituído por um tratamento pelo calor que conduza a uma temperatura interna de, pelo menos 70ºC;
 
-d) Se forem preparados, inspeccionados e manipulados de acordo com as exigências pertinentes da Portaria n.º 1229/93, de 27 de Novembro;
+b) Se a carne fresca utilizada satisfizer às exigências do artigo 15.º do anexo A do Decreto-Lei n.º 167/96, de 7 de Setembro, no que se refere às carnes de aves de capoeira, no artigo 14.º do anexo A do Decreto-Lei n.º 44/96, de 10 de Maio, no que se refere às carnes de caça selvagem, no artigo 3.º do regulamento aprovado pela Portaria n.º 1001/93, de 11 de Outubro, no que se refere à carne de coelho, e no artigo 6.º do mesmo regulamento, no que se refere às carnes de caça de criação;
 
-e) Se cada lote de produtos à base de carne for acompanhado de um certificado sanitário elaborado de acordo com o procedimento comunitariamente previsto.
+c) Se forem provenientes de um estabelecimento que ofereça as mesmas garantias que as referidas na Portaria n.º 1229/93, de 27 de Novembro, aprovadas de acordo com o procedimento comunitário previsto, ou, na pendência da adopção dessa decisão pela autoridade competente, continuando as importações desses produtos sujeitos às regras do n.º 2 do artigo 11.º do regulamento aprovado pela Portaria n.º 774/93, de 3 de Setembro;
+
+d) Se forem preparados, inspeccionados e manipulados de acordo com as exigências do regulamento aprovado pela Portaria n.º 1229/93, de 27 de Novembro;
+
+e) Se cada lote de produto à base de carne for acompanhado de um certificado sanitário elaborado de acordo com o procedimento comunitário previsto.
+
+CAPÍTULO 2
+
+I - Comércio de ovos com a Finlândia e Suécia
+
+1 - Em relação às salmonelas e enquanto se aguarda a adopção das disposições comunitárias são aplicáveis as seguintes regras aos ovos destinados à Finlândia e à Suécia:
+
+a) As remessas de ovos podem ser sujeitas a garantias adicionais, gerais ou limitadas, segundo as normas fixadas pela Decisão n.º [95/168/CE](http://data.europa.eu/eli/dec/1995/168/oj?locale=pt), de 8 de Maio;
+
+b) As garantias previstas na alínea a) não serão aplicáveis aos ovos provenientes de um estabelecimento abrangido por um programa reconhecido como equivalente ao referido na alínea c) nos termos do procedimento comunitariamente previsto.
+
+2 - As garantias previstas no n.º 1 serão aplicáveis de acordo com os programas operacionais apresentados pela Finlândia e pela Suécia.
+
+II - Comércio e importação de leite e produtos à base de leite e de carnes e produtos cárneos de espécies não abrangidas por exigências específicas.
+
+Enquanto não forem fixadas as condições para o comércio, produção e colocação no mercado, bem como para a importação dos produtos citados nas seguintes alíneas a) e b), a DGV deverá observar as seguintes garantias mínimas:
+
+a) Leite e produtos à base de leite destinado ao consumo humano e provenientes de espécies não referidas no regulamento aprovado pela Portaria n.º 533/93, de 24 de Maio, requisitos específicos em matéria de:
+
+Saúde animal e estatuto sanitário dos efectivos leiteiros, designadamente no que diz respeito à tuberculose e à brucelose;
+
+Higiene:
+
+Da ordenha, transporte, tratamento e transformação do leite;
+
+Do pessoal;
+
+Pesquisa de resíduos de substâncias com acção farmacológica e ou hormonal, antibióticos, pesticidas ou outras substâncias nocivas no leite ou nos produtos à base de leite;
+
+Critérios aplicáveis ao leite cru, matéria-prima;
+
+Critérios microbiológicos aplicáveis aos produtos acabados;
+
+b) Carnes de espécies não abrangidas pelas exigências específicas, nomeadamente carnes de répteis e respectivos produtos, destinados ao consumo humano devendo, segundo as espécies, requisitos em matéria de:
+
+Critérios microbiológicos e parasitológicos;
+
+Higiene durante o abate;
+
+Pesquisa de resíduos.
+
+CAPÍTULO 3
+
+I - Condições sanitárias específicas aplicáveis ao comércio e à importação de caracóis destinados ao consumo humano
+
+A - Sem prejuízo das disposições comunitárias, nacionais ou internacionais, relativas à preservação da fauna selvagem, os caracóis a que se refere o presente capítulo são os gastrópodes terrestres das espécies Helix pomatia Linné, Helix aspersa Muller, Helix lucorum e espécies da família dos Achatinidae.
+
+B - A DGV velará para que os caracóis sem concha, cozinhados ou em conserva, só sejam comercializados para consumo humano se satisfizerem as seguintes condições:
+
+1) Devem ser provenientes de um estabelecimento que:
+
+Satisfaça as condições referidas no n.º 3 do artigo 4.º da presente portaria;
+
+Tenha sido aprovado pela autoridade competente, na observância das condições adequadas previstas nos capítulos IV e V do anexo ao Regulamento das Normas Sanitárias Aplicáveis à Produção e Colocação no Mercado dos Produtos da Pesca, aprovado pela Portaria n.º 553/95, de 8 de Junho;
+
+Seja submetido, por parte da autoridade competente, a uma vigilância das condições de produção e a um controlo sanitário em conformidade com o capítulo VI, n.os 3 e 5 da parte I e n.º 3 da parte II, do mesmo Regulamento;
+
+Exerça um autocontrolo nos termos da Decisão n.º [94/356/CE](http://data.europa.eu/eli/dec/1994/356/oj?locale=pt), de 20 de Maio, da Comissão;
+
+2) Devem ser submetidos a uma avaliação organoléptica efectuada por amostragem e, se em resultado dessa avaliação, se concluir que os caracóis são impróprios para consumo humano, devem ser tomadas medidas para que sejam retirados do mercado e desnaturados de forma a não poderem ser utilizados novamente para consumo humano;
+
+3) Para a preparação da carne de caracóis sem concha:
+
+a) Os estabelecimentos, segundo a importância da actividade, devem reservar zonas ou locais específicos para:
+
+A armazenagem das embalagens e do material de acondicionamento;
+
+A recepção e a armazenagem de caracóis vivos;
+
+A lavagem, escaldadura, extracção das conchas e preparação;
+
+A armazenagem e, se for caso disso, a limpeza e o tratamento das conchas;
+
+Se for caso disso, o tratamento térmico da carne;
+
+O acondicionamento ou a embalagem da carne;
+
+A armazenagem de produtos finais em instalações frigoríficas;
+
+b) Os caracóis devem ser controlados antes da escaldadura, devendo os caracóis mortos não ser preparados para consumo humano;
+
+c) Após extracção das conchas, os hepato-pâncreas retirados aquando da preparação não devem ser utilizados para consumo humano;
+
+4) Conservas. - O estabelecimento deve satisfazer as condições previstas no capítulo V, n.º 4 da parte IV, do anexo do Regulamento já citado;
+
+5) Caracóis cozinhados:
+
+a) Os estabelecimentos, segundo a importância da actividade, devem reservar zonas ou locais específicos para:
+
+A armazenagem da carne de caracóis sem concha em instalações frigoríficas;
+
+A armazenagem das conchas limpas;
+
+A armazenagem dos produtos de panificação;
+
+A preparação do recheio;
+
+A cozedura e o arrefecimento;
+
+A incorporação da carne e do recheio na concha e o acondicionamento numa dependência em temperatura controlada;
+
+Se for caso disso, a congelação;
+
+A armazenagem de produtos finais em instalações frigoríficas.
+
+Os estabelecimentos devem respeitar as condições previstas no capítulo IX do anexo B do regulamento aprovado pela Portaria n.º 1229/93, de 27 de Novembro;
+
+b) A carne de caracol incorporada deve respeitar, antes da cozedura, as condições previstas para a carne de caracol sem concha;
+
+6) Controlos microbiológicos. - Em conformidade com o procedimento comunitário a definir poderão ser fixados critérios microbiológicos, incluindo planos de amostragem e métodos de análise, caso tal se revele necessário para a protecção da saúde pública;
+
+7) Os caracóis devem ser acondicionados, embalados, armazenados e transportados nas condições de higiene adequadas previstas nos capítulos VII e IX do anexo do regulamento aprovado pela Portaria n.º 553/95, de 8 de Junho;
+
+8) Os caracóis embalados e acondicionados devem ostentar uma marca de identificação com as seguintes indicações:
+
+O nome ou as iniciais do país expedidor em maiúsculas, isto é: AT, B, DK, D, EL, E, F, FI, IRL, I, NL, P, SE, UK, seguidos do número de aprovação do estabelecimento e de uma das seguintes siglas: CE, EC, EF, EG, EK, EY.
+
+C) - Para as importações:
+
+1) Nas embalagens e no material de acondicionamento de caracóis sem concha, cozinhados ou em conserva, devem figurar, inscritos de forma indelével, o nome ou o código ISO do país de origem e o número de aprovação do estabelecimento de produção;
+
+2) O certificado de salubridade que, nos termos do n.º 2, alínea c), do artigo 8.º, deve acompanhar cada remessa de caracóis sem concha, cozinhados ou em conserva, proveniente de países terceiros, deve estar de acordo com o modelo seguinte:
+
+Modelo de certificado de salubridade relativo a caracóis sem concha, cozinhados ou em conserva, originários de países terceiros e destinados à Comunidade Europeia.
+
+Nota ao importador. - O presente certificado destina-se apenas ao controlo veterinário e deve acompanhar a remessa até à sua chegada ao posto de inspecção fronteiriço.
+
+Número de referência: ...
+
+País expedidor: ...
+
+Autoridade competente: ...
+
+I - Identificação dos caracóis
+
+Descrição do produto:
+
+Espécies (nomes científicos): ...
+
+Estado (ver nota 1) e natureza do tratamento: ...
+
+Número de código (eventual): ...
+
+Natureza da embalagem: ...
+
+Número de unidades de embalagem: ...
+
+Peso líquido: ...
+
+Temperatura de armazenagem e de transporte exigida: ...
+
+II - Origem dos caracóis
+
+Nome(s) e número(s) de aprovação oficial do(s) estabelecimento(s) aprovado(s) pela autoridade competente para exportação para a CE: ...
+
+III - Destino dos produtos
+
+Os caracóis são expedidos de... (local de expedição) para ... (país e local de destino) pelo seguinte meio de transporte (ver nota 2)...
+
+Nome e endereço do expedidor: ...
+
+Nome do destinatário e endereço do local de destino: ...
+
+IV - Certificado sanitário
+
+O abaixo assinado, inspector oficial, certifica que os caracóis a que diz respeito o presente certificado:
+
+1) Foram manipulados e, quando adequado, submetidos a um processo de extracção das conchas, cozinhados, conservados, congelados, embalados e armazenados de forma higiénica, segundo as condições previstas no capítulo 3, parte I, do anexo II da Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt);
+
+2) Foram objecto de um programa de autocontrolo estabelecido e executado pelo responsável do estabelecimento em conformidade com as disposições da Decisão n.º [94/356/CE](http://data.europa.eu/eli/dec/1994/356/oj?locale=pt);
+
+3) Foram submetidos a um controlo sanitário oficial em conformidade com as disposições pertinentes do capítulo V do anexo da Directiva n.º [91/493/CEE](http://data.europa.eu/eli/dir/1991/493/oj?locale=pt).
+
+O abaixo assinado, inspector oficial, declara ter conhecimento do disposto no capítulo 3, parte I, do anexo II da Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt), do Conselho, nos capítulos III, IV, V, VI e VIII do anexo da Directiva n.º [91/493/CEE](http://data.europa.eu/eli/dir/1991/493/oj?locale=pt), na Decisão n.º [94/356/CE](http://data.europa.eu/eli/dec/1994/356/oj?locale=pt) e no capítulo IX do anexo B da Directiva n.º [77/99/CEE](http://data.europa.eu/eli/dir/1977/99/oj?locale=pt).
+
+Feito em ... em ...
+
+(Carimbo oficial) (ver nota 3)
+
+Nome (em maiúsculas) e assinatura do inspector oficial (ver nota 3) ...
+
+(nota 1) Refrigerado, congelado, sem concha, cozinhado, em conserva.
+
+(nota 2) Número de registo de veículo ou do contentor, número de comboio ou de voo ou nome do navio.
+
+(nota 3) O selo e a assinatura devem ser de cor diferente da das outras menções do certificado
+
+II - Condições sanitárias específicas aplicáveis ao comércio e à importação de coxas de rã destinadas ao consumo humano
+
+A - Sem prejuízo das disposições comunitárias, nacionais ou internacionais, relativas à preservação da fauna selvagem, as coxas de rã a que se refere o presente capítulo são as partes posteriores do corpo, após evisceração e esfola, seleccionado transversalmente atrás dos membros anteriores, de animais das espécies Rana sp. (família dos Ranidae), apresentadas no estado fresco, congelado ou transformado.
+
+B - A DGV velará para que as coxas de rã só sejam comercializadas para consumo humano se satisfizerem as seguintes condições:
+
+1) As rãs devem ser abatidas, sangradas, preparadas e, se for caso disso, refrigeradas, congeladas, transformadas, embaladas e armazenadas em estabelecimentos que:
+
+Satisfaçam as condições previstas no n.º 3 do artigo 4.º da presente portaria;
+
+Tenham sido aprovados pela autoridade competente, na observância das condições adequadas previstas nos capítulos IV e V do anexo do regulamento aprovado pela Portaria n.º 553/95, de 8 de Junho;
+
+Estejam submetidos a controlo sanitário e fiscalização das condições de produção pela autoridade competente, em conformidade com o capítulo VI, n.os 3 e 5 da parte I e n.º 3 da parte II, do anexo do mesmo regulamento;
+
+Exerçam um autocontrolo nos termos da Decisão n.º [94/356/CE](http://data.europa.eu/eli/dec/1994/356/oj?locale=pt), da Comissão;
+
+2) As coxas de rã devem ser submetidas a uma avaliação organoléptica efectuada por amostragem e se, em resultado dessa avaliação, se concluir que são impróprias para consumo humano, devem ser tomadas medidas para que sejam retiradas do mercado e desnaturadas de forma a não poderem ser utilizadas novamente para consumo humano;
+
+3) Além disso, deve ser reservado um local especial para a armazenagem e lavagem das rãs vivas, seu abate e sangria. As rãs que estejam já mortas antes do abate não devem ser preparadas para consumo humano. O local deve satisfazer as condições referidas no capítulo IV, n.º 2 da parte I, do anexo do citado regulamento e deve estar fisicamente separado da sala de preparação;
+
+4) Imediatamente após a sua preparação, as coxas de rã devem ser abundantemente lavadas com água potável corrente e refrigeradas, sem demora, à temperatura do gelo fundente, congeladas a temperatura inferior a -18ºC, ou transformadas;
+
+5) Se as coxas de rã forem transformadas, a transformação deve ser efectuada segundo as regras previstas no capítulo V do anexo do citado regulamento;
+
+6) Controlos microbiológicos. - Em conformidade com o processo comunitário a definir, poderão ser fixados critérios microbiológicos, incluindo planos de amostragem e métodos de análise, caso tal se revele necessário para a protecção da saúde pública;
+
+7) As coxas de rã devem ser acondicionadas, embaladas, armazenadas e transportadas nas condições de higiene adequadas previstas nos capítulos VII e IX deste mesmo regulamento;
+
+8) As embalagens e os acondicionamentos de coxas de rã devem ostentar uma marca de identificação com as seguintes indicações:
+
+O nome ou as iniciais do país expedidor em maiúsculas, isto é: AT, B, DK, D, EL, E, F, FI, IRL, I, L, NL, P, SE, UK, seguidos do número de aprovação do estabelecimento e de uma das seguintes siglas: CE, EC, EF, EG, EK, EY.
+
+C - Para as importações:
+
+1) Nas embalagens e no material de acondicionamentos de coxas de rã devem figurar, inscritos de forma indelével, o nome ou o código ISO do país de origem e o número de aprovação do estabelecimento de produção.
+
+2) O certificado de salubridade que, nos termos do n.º 2, alínea c), do artigo 8.º, deve acompanhar cada remessa de coxas de rã proveniente de países terceiros deve ser elaborado de acordo com o modelo seguinte:
+
+Modelo de certificado de salubridade relativo a coxas de rã refrigeradas, congeladas ou transformadas, originárias de países terceiros e destinadas à Comunidade Europeia.
+
+Nota ao importador. - O presente certificado destina-se apenas ao controlo veterinário e deve acompanhar a remessa até à sua chegada ao posto de inspecção fronteiriço.
+
+País expedidor: ...
+
+Número de referência ...
+
+Autoridade competente: ...
+
+I - Identificação das coxas de rã
+
+Descrição do produto:
+
+Espécies (nomes científicos): ...
+
+Estado (ver nota 1) e natureza do tratamento: ...
+
+Número de código (eventual): ...
+
+Natureza da embalagem: ...
+
+Número de unidades de embalagem: ...
+
+Peso líquido: ...
+
+Temperatura de armazenagem e de transporte exigida: ...
+
+II - Origem das coxas de rã
+
+Nome(s) e número(s) de aprovação oficial do(s) estabelecimento(s) aprovado(s) pela autoridade competente para exportação para a CE: ...
+
+III - Destino dos produtos
+
+As coxas de rã são expedidas de ... (local de expedição) para ... (país e local de destino) pelo seguinte meio de transporte (ver nota 2) ...
+
+Nome e endereço do expedidor: ...
+
+Nome do destinatário e endereço do local de destino: ...
+
+IV - Certificado sanitário
+
+O abaixo assinado, inspector oficial, certifica que as coxas de rã a que diz respeito o presente certificado:
+
+1) Após o abate dos animais, sangrados, preparados e, se for caso disso, refrigerados, congelados ou transformados, embalados e armazenados de forma higiénica, segundo as condições previstas no capítulo 3, parte II, do anexo II da Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt);
+
+2) Foram objecto de um programa de autocontrolo estabelecido e executado pelo responsável do estabelecimento em conformidade com as disposições da Decisão n.º [94/356/CE](http://data.europa.eu/eli/dec/1994/356/oj?locale=pt);
+
+3) Foram submetidos a um controlo sanitário oficial em conformidade com as disposições pertinentes do capítulo V do anexo da Directiva n.º [91/493/CEE](http://data.europa.eu/eli/dir/1991/493/oj?locale=pt).
+
+O abaixo assinado, inspector oficial, declara ter conhecimento do disposto no capítulo 3, parte II, do anexo II da Directiva n.º [92/118/CEE](http://data.europa.eu/eli/dir/1992/118/oj?locale=pt), do Conselho, nos capítulos III, IV, V, VI e VIII do anexo da Directiva n.º [91/493/CEE](http://data.europa.eu/eli/dir/1991/493/oj?locale=pt), na Decisão n.º [94/356/CE](http://data.europa.eu/eli/dec/1994/356/oj?locale=pt) e no capítulo IX do anexo B da Directiva n.º [77/99/CEE](http://data.europa.eu/eli/dir/1977/99/oj?locale=pt).
+
+Feito em ... em ...
+
+(Carimbo oficial) (ver nota 3)
+
+Nome (em maiúsculas) e assinatura do inspector oficial (ver nota 3) ...
+
+(nota 1) Refrigerado, congelado, transformado.
+
+(nota 2) Número de registo do veículo ou do contentor, número de comboio ou de voo ou nome do navio.
+
+(nota 3) O selo e a assinatura devem ser de cor diferente da das outras menções do certificado.
+
+> Alterado pelo/a [Portaria n.º 412/98](https://diariodarepublica.pt/dr/detalhe/portaria/412-1998-423899), publicado em 1998-07-14.

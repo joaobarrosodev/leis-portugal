@@ -3,13 +3,13 @@
   "artigos": [
     {
       "chave": "1.º",
-      "epigrafe": "Natureza, tipologia e missão",
+      "epigrafe": "Natureza",
       "texto": "(Revogado.)",
       "alterador": 3
     },
     {
       "chave": "2.º",
-      "epigrafe": "Atribuições",
+      "epigrafe": "Competências",
       "texto": "(Revogado.)",
       "alterador": 3
     },
@@ -38,8 +38,74 @@
       "alterador": 3
     },
     {
+      "chave": "7.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "8.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "9.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "10.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "11.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "12.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "13.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "14.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "15.º",
+      "epigrafe": "Estrutura",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "16.º",
+      "epigrafe": "Competências",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
       "chave": "16.º-A",
       "epigrafe": "Dotação de lugares de direcção",
+      "texto": "(Revogado.)",
+      "alterador": 3
+    },
+    {
+      "chave": "17.º",
+      "epigrafe": "Quadros",
       "texto": "(Revogado.)",
       "alterador": 3
     },
@@ -70,18 +136,41 @@
     {
       "chave": "22.º",
       "epigrafe": "Entrada em vigor",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nAprovado em Conselho do Governo Regional em 27 de Setembro de 2001.\n\nO Presidente do Governo Regional, em exercício, João Carlos Cunha e Silva.\n\nAssinado em 18 de Outubro de 2001.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.\n\nMAPA ANEXO\n\nOrgânica da Direcção Regional do Ambiente\n\n(a que se refere o n.º 2 do artigo 17.º)\n\n[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/265b00/73137320.pdf)",
       "alterador": 3
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [
+    {
+      "atual": "### CAPÍTULO I — Natureza e competências",
+      "novo": "### CAPÍTULO I — Natureza e atribuições",
+      "alterador": 2
+    },
+    {
+      "atual": "#### SECÇÃO III — Inspecção Ambiental",
+      "novo": "#### SECÇÃO III — Inspecção Ambiental e do Ordenamento do Território",
+      "alterador": 2
+    },
+    {
+      "atual": "#### SECÇÃO VII — Direcção de Serviços de Projectos de Intervenção Ambiental",
+      "novo": "#### SECÇÃO VII — Direcção de Serviços do Ordenamento do Território",
+      "alterador": 2
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "DRR 7/2011/M: as alterações do artigo 2.º (nova redação dos artigos 1.º a 6.º), a reestruturação do artigo 5.º e as revogações do artigo 10.º (n.º 3 do artigo 3.º, artigos 7.º a 17.º e mapa anexo) só produzem efeitos com a entrada em vigor dos diplomas referidos no seu artigo 6.º (artigo 12.º, n.º 2), ou seja, ficam adiadas para um facto futuro e não se aplicam; o programa tinha-as aplicado (artigos 3.º, n.º 3, e 7.º a 17.º), mas o resultado final é o mesmo porque o DRR 30/2012/M revoga o diploma inteiro. DRR 23/2005/M: não traz instrução dirigida a este diploma. As assinaturas e o mapa anexo, que vêm a seguir ao artigo 22.º, foram mantidos depois de «(Revogado.)», porque nenhuma instrução os tira do texto.",
   "instrucoes": [
-    "DRR 23/2005/M: aprova a orgânica da SRA e revoga outros diplomas (11/2001/M, 7/2003/M, Portaria 64/2002) — nenhuma instrução dirigida ao DRR 31/2001/M.",
-    "DRR 7/2011/M: altera arts. 1.º-6.º, designações de capítulos/secções, adita 16.º-A, revoga n.º 3 do art. 3.º e arts. 7.º-17.º (estes já constam do texto atual como revogados) — superado pela revogação total do alterador 3.",
-    "DRR 30/2012/M, art. 2.º, n.º 1: revoga o DRR 31/2001/M — todos os artigos ainda não revogados (1.º-6.º, 16.º-A, 18.º-22.º) ficam '(Revogado.)'; 7.º-17.º já estavam '(Revogado.)' e não mudam. Epígrafes de 1.º e 2.º seguem a redação dada pelo DRR 7/2011/M."
+    "DRR 23/2005/M: sem instrução dirigida ao DRR 31/2001/M (revoga outros diplomas); ignorado.",
+    "DRR 7/2011/M, artigo 2.º (nova redação dos artigos 1.º a 6.º): efeitos adiados (artigo 12.º, n.º 2); não aplicado.",
+    "DRR 7/2011/M, artigo 3.º (designações do capítulo I e das secções III e VII do capítulo II): produz efeitos de imediato; aplicado em titulos (reparo do verificador confirmado); SECÇÃO VII com «do Ordenamento», como na instrução (a republicação diz «de»).",
+    "DRR 7/2011/M, artigo 4.º (aditamento do artigo 16.º-A): já estava no texto atual.",
+    "DRR 7/2011/M, artigos 5.º e 10.º (reestruturação e revogações): efeitos adiados; não aplicados.",
+    "DRR 7/2011/M, artigo 11.º: republicação, não usada como fonte.",
+    "DRR 30/2012/M, artigo 2.º, n.º 1: revoga o DRR 31/2001/M por inteiro (sem condição; a ressalva «na parte que se reportam…» é só para os DRR 7/2008/M e 6/2011/M); todos os artigos, incluindo o 16.º-A, ficam «(Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

@@ -26,5 +26,19 @@
     "unidade": [],
     "diploma": "pt:dre:405324:por",
     "alterador": "pt:dre:239604:por;pt:dre:667161:por"
+  },
+  {
+    "artigo": "unidades 49-54",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso de Aconselhamento Dinâmico\n\nGrau de mestre\n\nQUADRO N.º 1\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/12/297b00/80718072.pdf)](https://files.diariodarepublica.pt/1s/2002/12/297b00/80718072.pdf)\n\nQUADRO N.º 2\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/12/297b00/80718072.pdf)](https://files.diariodarepublica.pt/1s/2002/12/297b00/80718072.pdf)",
+    "depois": "Curso de especialização em Aconselhamento Dinâmico\n\nGrau de mestre\n\nQUADRO\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/091b00/24982499.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:405324:por",
+    "alterador": "pt:dre:239604:por;pt:dre:667161:por"
   }
 ]

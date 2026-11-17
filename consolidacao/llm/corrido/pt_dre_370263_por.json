@@ -1,18 +1,11 @@
 {
   "id": "pt:dre:370263:por",
-  "substituicoes": [
-    {
-      "de": 12,
-      "ate": 12,
-      "texto": "",
-      "alterador": 1
-    }
-  ],
+  "substituicoes": [],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Portaria 163/2010, art. 3.º: 'É extinta a Reserva ARC-2 no concelho de Arouca constante do n.º 1' da Portaria 725-E/93: extinção da reserva, sem revogação nem nova redação da unidade (alteração não textual); não aplicada, mantém-se o texto original da alínea ARC-2 (unidade 12). Os arts. 1.º, 2.º e 4.º respeitam à zona de caça associativa da Freita (outro diploma).",
   "instrucoes": [
-    "Alterador 1, artigo 3.º: é extinta a reserva ARC-2 do concelho de Arouca constante do n.º 1: elimina-se a unidade 12 (zona ARC-2, Serra da Freita).",
-    "Alterador 1, artigos 1.º, 2.º e 4.º: anexação à zona de caça associativa da Freita, sem texto a alterar no original."
+    "Portaria 163/2010, arts. 1.º, 2.º e 4.º: anexação à zona de caça associativa da Freita: dirigidos a outro diploma, ignorados.",
+    "Portaria 163/2010, art. 3.º: extinção da Reserva ARC-2: não textual, em nao_aplicavel; o parágrafo ARC-2 fica como no original (reparo: corrigida a resposta anterior, que o tinha deixado vazio)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

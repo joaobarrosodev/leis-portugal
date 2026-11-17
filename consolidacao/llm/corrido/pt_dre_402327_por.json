@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, 2.º: substituição da planta anexa, não textual. Alterador 2 (Portaria n.º 1024/97): revoga a concessão da zona de caça, não o texto da portaria nem nenhum ponto dela; não é alteração textual, não aplicado.",
+  "nao_aplicavel": "Portaria 569-F/96, n.º 2.º: a nova planta substitui a anexa, mas só vem em imagem. Portaria 1024/97: revoga a concessão da zona de caça associativa atribuída por esta portaria ao Clube de Caçadores de Fanhões (entra em vigor no dia seguinte ao da publicação, 24 de Setembro de 1997). É a revogação de um ato de concessão, não uma revogação do texto da portaria nem de nenhuma unidade, e não dá texto a escrever: nada se marca como revogado no texto, mas a concessão ficou extinta e a portaria deixou de ter efeito útil.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 1.º (1154,1160 ha); substituí a unidade 6.",
-    "Alterador 1, 2.º: planta substituída; não textual (nao_aplicavel).",
-    "Alterador 2: revogação da concessão; não revoga o texto (nao_aplicavel)."
+    "Alterador 1 (Portaria 569-F/96), n.º 1.º: nova redação do n.º 1.º (área de 1154,1160 ha): unidade 6 substituída, letra a letra.",
+    "Alterador 1, n.º 2.º: substituição da planta: só em imagem, em nao_aplicavel.",
+    "Alterador 2 (Portaria 1024/97): revogação da concessão (ato concreto), não do texto; reparo do verificador confirmado quanto ao efeito (concessão extinta), mas sem unidade a marcar: em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

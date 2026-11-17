@@ -48,7 +48,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 3.º
 
-1 - A exploração e gestão do sistema multimunicipal do Litoral Centro é atribuída em regime de concessão exclusiva à ERSUC - Resíduos Sólidos do Centro, S. A., até 31 de dezembro de 2034.
+1 - O exclusivo da exploração e gestão do sistema multimunicipal do Litoral Centro é atribuído em regime de concessão, por um período de 25 anos, nos termos do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, à sociedade ERSUC - Resíduos Sólidos de Coimbra, S. A., adiante designada por sociedade.
 
 2 - (Revogado.)
 
@@ -78,7 +78,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
+> Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ###### Artigo 8.º
 
@@ -134,19 +134,13 @@ A sociedade adopta a denominação de ERSUC - Resíduos Sólidos de Coimbra, S. 
 
 ###### Artigo 3.º
 
-1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do Litoral Centro.
+1 - A sociedade tem por objecto social principal a promoção do tratamento e valorização de resíduos sólidos, nomeadamente através de:
 
-2 - A exploração e a gestão referidas no número anterior compreendem:
+a) Promoção directa ou indirecta da concepção, construção e exploração de unidades integrantes dos sistemas de transporte, valorização, tratamento e destino final de resíduos sólidos;
 
-a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
+b) Prestação de serviços de gestão, fiscalização, assessoria técnica e administrativa a entidades públicas ou privadas que prossigam total ou parcialmente actividade do mesmo ramo.
 
-b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
-
-c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.
-
-3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
-
-> Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
+2 - A sociedade poderá, desde que para o efeito esteja habilitada, exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares e devidamente autorizadas pela concedente.
 
 ###### Artigo 4.º
 
@@ -353,20 +347,6 @@ A sociedade obriga-se perante terceiros pela assinatura conjunta de dois adminis
 3 - O revisor oficial de contas, ou a sociedade de revisores oficiais de contas, é nomeado pela assembleia geral, sob proposta do conselho fiscal.
 
 > Alterado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
-
-###### Artigo 25.º-A
-
-1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados e da gestão das infraestruturas afetas à concessão.
-
-2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.
-
-3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e do conselho fiscal.
-
-4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.
-
-5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.
-
-> Aditado pelo/a [Decreto-Lei n.º 102/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604), publicado em 2014-07-02.
 
 ### CAPÍTULO IV — Disposições finais
 

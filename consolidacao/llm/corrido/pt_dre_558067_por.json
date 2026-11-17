@@ -8,20 +8,20 @@
       "alterador": 2
     },
     {
-      "de": 49,
+      "de": 48,
       "ate": 56,
-      "texto": "Curso de Sistemas de Informação e Multimédia\n\nGrau de mestre\n\nQUADRO N.º 1\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)\n\nQUADRO N.º 2\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)",
+      "texto": "## ANEXO — ([Portaria n.º 831/2000](https://diariodarepublica.pt/dr/detalhe/portaria/831-2000-558067), de 22 de Setembro - alteração)\n\nUniversidade Fernando Pessoa\n\nCurso de Sistemas de Informação e Multimédia\n\nGrau de mestre\n\nQUADRO N.º 1\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)\n\nQUADRO N.º 2\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)",
       "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, 1.º: o curso passa a denominar-se Sistemas de Informação e Multimédia, mas sem instrução textual (onde se lê) sobre os n.os 1.º e 3.º, que falam do grau de mestre na especialidade de Sistemas Interactivos; o texto desses números não foi alterado. Alterador 2: a lista de portarias abrangidas só vem em imagem; aplicado ao n.º 9.º (Regulamento) por o diploma constar como alterador deste original.",
+  "nao_aplicavel": "Portaria 75/2003, 1.º: o curso de mestrado em Sistemas Interactivos passa a denominar-se «Sistemas de Informação e Multimédia», sem nova redação escrita para o 1.º ou o 3.º do original (que falam da especialidade, não do curso); não se infere a troca nesses números. A nova denominação só entra no texto pelo anexo substituído (2.º).",
   "instrucoes": [
-    "Alterador 1, 1.º: mudança de denominação do curso - não aplicada ao texto dos n.os 1.º e 3.º (sem instrução textual)",
-    "Alterador 1, 2.º: o anexo passa a ter a redação do anexo da Portaria n.º 75/2003 - unidades 49 a 56 substituídas pelo novo anexo (cabeçalho da unidade 48 mantido)",
-    "Alterador 1, 3.º e 4.º: transição e aplicação - não alteram o texto do original",
-    "Alterador 2, 1.º: nova redação do número com a epígrafe Regulamento (9.º) - corpo, unidades 40 a 43, substituído por um só parágrafo",
-    "Alterador 2, 2.º e 3.º: produção de efeitos e entrada em vigor - não alteram o texto do original"
+    "Portaria 75/2003, 1.º: mudança da denominação do curso sem redação nova para os números do original: não aplicada ao 1.º e 3.º (ver nao_aplicavel).",
+    "Portaria 75/2003, 2.º: o anexo passa a ter a redação do anexo da 75/2003: substituídas as unidades 48-56 pelo anexo do alterador, letra a letra (os quadros só vêm em imagem, ficam as ligações).",
+    "Portaria 75/2003, 3.º e 4.º: transição e aplicação, sem mudança no texto.",
+    "Portaria 269/2006, 1.º: o número com a epígrafe Regulamento das portarias do anexo (o anexo lista a 831/2000, de 22 de Setembro, n.º 9.º) passa a ter a redação dada: substituído o corpo do 9.º (unidades 40-43) pelo texto citado; ficam o número e a epígrafe (unidades 38-39).",
+    "Portaria 269/2006, 2.º e 3.º: produção de efeitos e entrada em vigor, sem mudança no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

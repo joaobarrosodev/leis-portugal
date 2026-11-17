@@ -9,10 +9,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "N.º 2.º do alterador (o prazo de 90 dias do n.º 5.º conta-se a partir da publicação do alterador) não é alteração textual do original.",
+  "nao_aplicavel": "Portaria 223/2005, 2.º: o prazo de 90 dias do n.º 5.º passa a contar-se da publicação da portaria alteradora, sem nova redação do n.º 5.º; não é alteração textual, o n.º 5.º fica igual.",
   "instrucoes": [
-    "Nova redação do n.º 1.º: unidade 6 substituída.",
-    "Contagem do prazo do n.º 5.º: não textual, não aplicada."
+    "Portaria 223/2005, 1.º: nova redação do n.º 1.º (rectificação com a inscrição matricial e o registo): substituída a unidade 6.",
+    "Portaria 223/2005, 2.º: novo início da contagem do prazo do n.º 5.º, sem redação nova: não aplicada (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

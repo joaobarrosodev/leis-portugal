@@ -16,7 +16,7 @@
     {
       "chave": "3.º",
       "epigrafe": "",
-      "texto": "1 - A exploração e gestão do sistema multimunicipal do Litoral Centro é atribuída em regime de concessão exclusiva à ERSUC - Resíduos Sólidos do Centro, S. A., até 31 de dezembro de 2034.\n\n2 - (Revogado.)\n\n3 - (Revogado.)",
+      "texto": "1 - O exclusivo da exploração e gestão do sistema multimunicipal do Litoral Centro é atribuído em regime de concessão, por um período de 25 anos, nos termos do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, à sociedade ERSUC - Resíduos Sólidos de Coimbra, S. A., adiante designada por sociedade.\n\n2 - (Revogado.)\n\n3 - (Revogado.)",
       "alterador": 1
     },
     {
@@ -40,7 +40,7 @@
     {
       "chave": "7.º",
       "epigrafe": "",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nVisto e aprovado em Conselho de Ministros 5 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 14 de Agosto de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Agosto de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.",
       "alterador": 1
     },
     {
@@ -59,12 +59,6 @@
       "chave": "ANEXO::2.º",
       "epigrafe": "",
       "texto": "1 - A sede social é na Rua Alexandre Herculano, 21-B, Sé Nova 3000-019 Coimbra.\n\n2 - Por deliberação do conselho de administração a sede da sociedade pode ser deslocada para qualquer outro local dentro do mesmo concelho.\n\n3 - Por deliberação do conselho de administração poderá a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação.",
-      "alterador": 1
-    },
-    {
-      "chave": "ANEXO::3.º",
-      "epigrafe": "",
-      "texto": "1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do Litoral Centro.\n\n2 - A exploração e a gestão referidas no número anterior compreendem:\n\na) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;\n\nb) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;\n\nc) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.\n\n3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.",
       "alterador": 1
     },
     {
@@ -132,25 +126,22 @@
       "epigrafe": "",
       "texto": "1 - A fiscalização da sociedade compete a um conselho fiscal e a um revisor oficial de contas ou sociedade de revisores oficiais de contas que não sejam membros daquele órgão.\n\n2 - O conselho fiscal é composto por três membros efetivos e por um suplente, nomeados em assembleia geral, sendo o seu presidente também por ela nomeado.\n\n3 - O revisor oficial de contas, ou a sociedade de revisores oficiais de contas, é nomeado pela assembleia geral, sob proposta do conselho fiscal.",
       "alterador": 1
-    },
-    {
-      "chave": "ANEXO::25.º-A",
-      "epigrafe": "",
-      "texto": "1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados e da gestão das infraestruturas afetas à concessão.\n\n2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.\n\n3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e do conselho fiscal.\n\n4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.\n\n5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.",
-      "alterador": 1
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Republicação (art. 7.º do DL 102/2014, com adoção do presente do indicativo e das denominações/valores já registados, p. ex. ANEXO::1.º 'Resíduos Sólidos do Centro', ANEXO::5.º n.º 1 '8 500 000,00 euros', ANEXO::21.º e 22.º, e grafia nova nos artigos não alterados): não são instruções textuais de alteração; o texto dos artigos e números não visados pelos arts. 2.º a 6.º ficou como no texto atual (os '[...]' mantêm o texto atual). Nota: o art. 3.º do DL e os arts. 3.º e 25.º-A dos estatutos têm entrada em vigor diferida (art. 8.º, n.º 2) para a data em que a ERSUC deixar de ser detida maioritariamente por entidades públicas; a redação foi aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "(1) DL 102/2014, art. 8.º, n.º 2: a nova redação do n.º 1 do art. 3.º do DL 166/96 e a nova redação do art. 3.º e o aditamento do art. 25.º-A dos estatutos só entram em vigor quando a ERSUC deixar de ser detida maioritariamente por entidades públicas (facto futuro): não aplicados (o n.º 1 do art. 3.º e o art. 3.º dos estatutos ficam com o texto atual; o art. 25.º-A não é aditado). A revogação dos n.os 2 e 3 do art. 3.º, feita também pelo art. 6.º, que não é diferido, aplica-se. (2) Estatutos, art. 5.º, n.º 1: a instrução dá «1 - [...].», que mantém o texto atual (315000000$00); o reparo do verificador (8 500 000,00 euros) vem só da republicação e de uma alteração registada (inscrição 10) que nenhuma instrução dá por escrito: não seguido. (3) Pela mesma razão não se aplicam as mudanças que só constam do preâmbulo/republicação: denominação «ERSUC - Resíduos Sólidos do Centro» no art. 1.º dos estatutos, nova redação dos arts. 21.º e 22.º dos estatutos, presente do indicativo e grafia atualizada nos restantes artigos, e epígrafe «Disposições gerais» do capítulo I.",
   "instrucoes": [
-    "Art. 2.º: nova redação dos arts. 1.º e 3.º do DL 166/96 (art. 3.º n.os 2 e 3 revogados) — aplicada.",
-    "Art. 3.º: aditamento dos arts. 8.º e 9.º ao DL 166/96 — aplicado.",
-    "Art. 4.º: nova redação dos arts. 2.º, 3.º, 4.º, 5.º, 8.º, 9.º, 10.º, 12.º, 14.º, 18.º, 19.º e 25.º dos estatutos (anexo); os '[...]' mantêm o texto atual — aplicada.",
-    "Art. 5.º: aditamento do art. 25.º-A aos estatutos — aplicado com a chave ANEXO::25.º-A.",
-    "Art. 6.º: revogação dos arts. 2.º, 4.º, 5.º, 6.º e 7.º e n.os 2 e 3 do art. 3.º do DL; do art. 6.º, n.º 3 do art. 8.º, n.os 1 e 2 do art. 9.º e n.º 3 do art. 10.º dos estatutos — aplicada com '(Revogado.)'.",
-    "Art. 7.º: republicação — não usada como fonte de alterações (ver nao_aplicavel)."
+    "Art. 2.º: nova redação do art. 1.º do DL (aplicada) e do art. 3.º (n.º 1 diferido pelo art. 8.º, n.º 2; não aplicado).",
+    "Art. 3.º: aditados os arts. 8.º e 9.º do DL (aplicados).",
+    "Art. 4.º: nova redação dos arts. 2.º, 4.º, 5.º (só o n.º 2), 8.º, 9.º, 10.º, 12.º, 14.º, 18.º, 19.º e 25.º dos estatutos (aplicados, com [...] a manter o texto atual); art. 3.º dos estatutos diferido (não aplicado).",
+    "Art. 5.º: aditamento do art. 25.º-A dos estatutos, diferido pelo art. 8.º, n.º 2 (não aplicado).",
+    "Art. 6.º: revogados os arts. 2.º, 4.º, 5.º, 6.º e 7.º do DL (no 7.º ficam as assinaturas), os n.os 2 e 3 do art. 3.º do DL, o art. 6.º, o n.º 3 do art. 8.º, os n.os 1 e 2 do art. 9.º e o n.º 3 do art. 10.º dos estatutos (aplicado).",
+    "Art. 7.º: republicação, sem instrução própria; não se copia texto dela."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

@@ -12,14 +12,21 @@
       "ate": 43,
       "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
       "alterador": 2
+    },
+    {
+      "de": 49,
+      "ate": 54,
+      "texto": "Curso de especialização em Aconselhamento Dinâmico\n\nGrau de mestre\n\nQUADRO\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/091b00/24982499.pdf)",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.º 2 do número único: o novo plano de estudos (anexo) só vem em imagem, não se aplica ao anexo.",
+  "nao_aplicavel": "Portaria 315/2003, n.º 2: o novo plano de estudos (quadro do anexo) só vem em imagem; substituído o anexo pelo da Portaria 315/2003, com a ligação ao quadro novo, mas o conteúdo do quadro não pode ser transcrito.",
   "instrucoes": [
-    "Alterador 1, n.º 1: nova redação do n.º 2 do 5.º (30 alunos); n.º 1 mantém-se ('...'). Substituída a unidade 28.",
-    "Alterador 1, n.º 2: plano de estudos passa a ser o do anexo, que só vem em imagem. Não aplicado.",
-    "Alterador 2, 1.º: nova redação do número com a epígrafe Regulamento (9.º), num só parágrafo. Substituídas as unidades 40 a 43; epígrafe mantém-se."
+    "Portaria 315/2003, n.º 1: nova redação do n.º 2 do n.º 5.º (frequência global de 30 alunos): unidade 28 substituída; o n.º 1 ('...') fica.",
+    "Portaria 315/2003, n.º 2: plano de estudos passa a ser o do anexo: anexo substituído (unidades 49-54) pelo anexo da Portaria 315/2003, letra a letra (reparo confirmado); quadro só em imagem.",
+    "Portaria 269/2006, 1.º e anexo: o número com a epígrafe 'Regulamento' (9.º da Portaria 1546/2002) passa a ter nova redação: corpo do 9.º (unidades 40-43) substituído pelo texto novo.",
+    "Portaria 269/2006, 2.º e 3.º: produção de efeitos e entrada em vigor: sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

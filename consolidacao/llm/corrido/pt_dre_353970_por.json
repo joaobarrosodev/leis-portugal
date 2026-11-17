@@ -9,11 +9,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Os quadros do novo plano de estudos (alterador 2) só vêm em imagem; aplicou-se a estrutura textual do novo anexo com as remissões para o documento original. A mudança de denominação do curso (alterador 1) não dá nova redação a nenhuma unidade e não se aplicou ao n.º 1.º.",
+  "nao_aplicavel": "Portaria n.º 884/2002, 1.º: o curso passa a denominar-se Engenharia Electrotécnica e das Telecomunicações, mas a instrução não dá nova redação ao 1.º do original nem manda substituir palavras; alteração não textual, o 1.º fica com 'em Engenharia Electrotécnica'. Portaria n.º 101/2003, 1.º (o 2.º ciclo deixa de se desdobrar em ramos): sem redação textual própria, o efeito vem só pelo anexo novo. Os quadros n.os 1 a 10 do anexo novo só vêm em imagem: fica a referência ao documento original tal como vem no alterador.",
   "instrucoes": [
-    "Alt. 1, 1.º: o curso passa a denominar-se Engenharia Electrotécnica e das Telecomunicações; sem nova redação textual, não aplicado ao corpo (consta do novo anexo do alterador 2).",
-    "Alt. 2, 1.º: o 2.º ciclo deixa de ter ramos; refletido no novo anexo.",
-    "Alt. 2, 2.º: o anexo passa a ter a redação do anexo da Portaria n.º 101/2003; substituídas as unidades 20-30 (a 19, Escola Superior de Tecnologia, mantém-se); quadros só em imagem."
+    "Alterador 1 (Portaria n.º 884/2002), 1.º: mudança de denominação do curso — não textual; em nao_aplicavel. 2.º: aplicação da portaria alteradora — não altera o original.",
+    "Alterador 2 (Portaria n.º 101/2003), 1.º: o 2.º ciclo deixa de ter ramos — sem redação textual; em nao_aplicavel (o efeito está no anexo novo).",
+    "Alterador 2, 2.º: o anexo passa a ter a redação do anexo da Portaria n.º 101/2003 — mantidas as unidades 18 e 19 (iguais ao início do anexo novo) e substituídas as unidades 20 a 30 pelo texto do anexo novo (curso, ciclos, quadros n.os 1 a 10).",
+    "Alterador 2, 3.º e 4.º: transição e aplicação da portaria alteradora — não alteram o original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

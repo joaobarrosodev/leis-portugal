@@ -75,24 +75,25 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Portaria n.º 814/2010: a nova redação do anexo i do Regulamento (n.º 1, e alínea b) do n.º 3 revogada, também pelo artigo 38.º, n.º 21) não se aplica porque o texto do anexo i não consta do texto atual do original.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Despesas elegíveis e não elegíveis",
+      "texto": "(a que se refere o artigo 8.º)\n\n1 - Despesas elegíveis - são elegíveis, atendendo ao respectivo valor de mercado, as despesas com a aquisição de equipamentos para melhoramento ambiental e da eficiência energética das explorações, outros equipamentos e máquinas, com exclusão de viaturas, pequenas construções, pequenos melhoramentos fundiários e pequenas plantações plurianuais.\n\n2 - Para todas as operações de investimento são ainda elegíveis as despesas com o IVA, nas seguintes situações, a demonstrar por certidão da repartição de finanças:\n\na) Regime de isenção: o IVA é totalmente elegível, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA não é considerado elegível;\n\nb) Regimes mistos:\n\ni) Afectação real: o IVA é elegível no caso de a actividade em causa constituir a parte isenta da actividade do beneficiário;\n\nii) Pro rata: o IVA é elegível na percentagem em que não for dedutível.\n\n3 - Despesas não elegíveis. - Não são elegíveis as seguintes despesas:\n\na) Bens de equipamento em estado de uso ou de simples substituição;\n\nb) (Revogada.)\n\nc) Instalações e equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração;\n\nd) Juros das dívidas;\n\ne) Constituição de garantias;\n\nf) O IVA, nas seguintes situações:\n\ni) Regime de isenção ao abrigo do artigo 53.º do CIVA;\n\nii) Regimes mistos:\n\na) Afectação real: o IVA não é elegível no caso de a actividade em causa constituir a parte não isenta da actividade do beneficiário;\n\nb) Pro rata: o IVA não é elegível na percentagem em que for dedutível;\n\niii) Regime normal: o IVA não é elegível.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alt. 1, art. 25.º, artigo 7.º: alínea d) do n.º 1 revogada, novos n.os 2 e 3, antigos n.os 2 e 3 passam a 4 e 5; aplicado (n.º 2 depois substituído pelo alt. 2).",
-    "Alt. 1, art. 25.º, artigo 9.º: nova alínea f) do n.º 1; aplicado.",
-    "Alt. 1, art. 25.º, artigo 10.º: nova alínea a) do n.º 2, alínea b) revogada; aplicado.",
-    "Alt. 1, art. 25.º, artigo 11.º: nova alínea c) do n.º 1 e novo n.º 3; aplicado.",
-    "Alt. 1, art. 25.º, artigo 12.º: novo n.º 1; aplicado.",
-    "Alt. 1, art. 25.º, artigo 13.º: novos n.os 1 e 2; aplicado.",
-    "Alt. 1, art. 25.º, artigo 15.º: nova epígrafe e novo corpo; aplicado.",
-    "Alt. 1, art. 25.º, anexo i: não aplicado (anexo i não está no texto atual).",
-    "Alt. 1, art. 38.º, n.º 21: revoga alíneas c) e e) do artigo 6.º (aplicado), d) do n.º 1 do artigo 7.º (já revogada), b) do n.º 2 do artigo 10.º (já revogada), o artigo 23.º (aplicado: (Revogado.)) e a alínea b) do n.º 3 do anexo i (não aplicável). Restantes números do art. 38.º dizem respeito a outros diplomas: ignorados.",
-    "Alt. 2, art. 19.º, artigo 7.º: novo n.º 2; aplicado.",
-    "Alt. 2, art. 19.º, artigo 19.º: novo n.º 4; aplicado.",
-    "Alt. 2, art. 19.º, artigo 21.º: nova redação com n.os 1 e 2 apenas (o antigo n.º 2 desaparece e o texto do antigo n.º 3 passa a n.º 2); aplicado.",
-    "Alt. 2, art. 19.º, artigo 22.º: novo corpo; aplicado.",
-    "Alt. 2: restantes artigos alteram outros regulamentos; ignorados."
+    "Portaria 814/2010, art. 25.º: nova redação dos arts. 7.º, 9.º, 10.º, 11.º, 12.º, 13.º e 15.º e do anexo I do Regulamento — aplicada («...» mantém o texto atual; no 7.º os n.os 4 e 5 são os anteriores n.os 2 e 3; o 15.º muda de epígrafe).",
+    "Portaria 814/2010, art. 25.º, anexo I: novo n.º 1 e alínea b) do n.º 3 revogada; resto «[...]» mantido — aplicado (reparo confirmado).",
+    "Portaria 814/2010, art. 38.º, n.º 21: revogadas as alíneas c) e e) do art. 6.º, d) do n.º 1 do art. 7.º, b) do n.º 2 do art. 10.º, o art. 23.º e a alínea b) do n.º 3 do anexo I — aplicado.",
+    "Portaria 814/2010, art. 38.º, n.os 1 a 20 e 22 a 31: revogações noutros regulamentos — ignoradas.",
+    "Portaria 228/2011, art. 19.º: nova redação dos arts. 7.º (n.º 2), 19.º (n.º 4), 21.º e 22.º — aplicada; o art. 21.º fica só com os dois números da nova redação.",
+    "Portaria 228/2011, restantes artigos: alteram outros regulamentos — ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

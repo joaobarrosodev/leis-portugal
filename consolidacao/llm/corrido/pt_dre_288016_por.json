@@ -15,13 +15,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: reduz para um o número de guardas do n.º 6.º sem dar nova redação ao texto (alteração não textual). Alterador 2 (Portaria n.º 591/99): anexação de prédio com nova área total (1481,40 ha) por planta, sem nova redação do texto (alteração não textual).",
+  "nao_aplicavel": "Portaria n.º 945/97, 2.º: diz que o n.º 6.º passa apenas a obrigar a manter um guarda florestal auxiliar, mas não dá nova redação ao n.º 6.º nem manda substituir palavras; alteração não textual, o n.º 6.º fica como está. Portaria n.º 591/99: anexa a Quinta do Furadouro (469 ha) e fixa a área total em 1481,40 ha, sem nova redação do n.º 1.º; alteração não textual, a área de 1012,40 ha do n.º 1.º fica como está.",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: nova redação do n.º 1.º (unidade 6), mantendo a numeração '1.º'.",
-    "Alterador 1, n.º 1.º (2.º parágrafo): adita o n.º 1.º-A; inserido após a unidade 6.",
-    "Alterador 1, n.º 2.º: altera o efeito do n.º 6.º quanto ao número de guardas sem nova redação; não aplicado.",
-    "Alterador 1, n.º 3.º: entrada em vigor do alterador; ignorado.",
-    "Alterador 2: anexa a Quinta do Furadouro (área total 1481,40 ha) por planta; não textual; não aplicado."
+    "Alterador 1 (Portaria n.º 945/97), 1.º: nova redação do n.º 1.º — substituída a unidade 6, mantendo o número 1.º.",
+    "Alterador 1, 1.º (segundo parágrafo): aditado o n.º 1.º-A — inserido depois da unidade 6.",
+    "Alterador 1, 2.º: n.º 6.º passa a obrigar a um só guarda — sem redação textual; em nao_aplicavel.",
+    "Alterador 1, 3.º: entrada em vigor da portaria alteradora — não altera o original.",
+    "Alterador 2 (Portaria n.º 591/99): anexação de prédio, área total 1481,40 ha — sem redação textual; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

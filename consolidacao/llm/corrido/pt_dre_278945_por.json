@@ -15,10 +15,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Resolução 311/77: o parágrafo 'As condições gerais das promissórias do Tesouro - Regularização de activos e passivos financeiros FA/TAP...' e as condições 1.º a 4.º respeitam às promissórias FA/TAP (TAP e forças armadas), não só ao n.º 2 (forças armadas); a resolução não diz se fazem parte da nova redação do n.º 2 nem manda aditá-las ao original, nem lhes dá número ou lugar: alvo ambíguo, não aplicadas. A nova redação do n.º 2 não traz a linha '2 - Relativamente às forças armadas:', que se mantém por nenhuma instrução a tirar.",
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 2; muda o 1.º parágrafo (acrescenta 'em vigor') e o 3.º parágrafo (unidades 8 e 10); o 2.º parágrafo (unidade 9) fica igual.",
-    "Alterador 1: as condições gerais das promissórias (1.º a 4.º) são disposição própria da Resolução n.º 311/77, não redação do original; não inseridas."
+    "Resolução 311/77: nova redação do n.º 2: unidade 8 ('em vigor à data') e unidade 10 (acrescento dos empréstimos contraídos pelo Estado) substituídas letra a letra; unidade 9 igual; unidade 7 mantida.",
+    "Resolução 311/77: condições gerais das promissórias FA/TAP (1.º a 4.º): sem instrução de aditamento ao original e sem lugar certo: em nao_aplicavel (reparo verificado: não se confirma que façam parte do n.º 2)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

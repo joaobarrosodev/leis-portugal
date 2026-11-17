@@ -81,3 +81,7 @@ Regulamento do Sistema Nacional de Farmacovigilância e Toxicologia Veterinária
 ## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/152b00/35153517.pdf)
 
 ## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/152b00/35153517.pdf)
+
+(Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 263/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2002-448158), publicado em 2002-11-25.

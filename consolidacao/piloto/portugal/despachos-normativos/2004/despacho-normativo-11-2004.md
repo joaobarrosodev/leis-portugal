@@ -32,7 +32,7 @@ Assim, ao abrigo do artigo 9.º do Regulamento (CE) n.º [1254/99](http://data.e
 
 3.º O número máximo de direitos a atribuir a cada candidato não pode ser superior à diferença entre o número de fêmeas já paridas inscritas no livro de adultos do LG ou RZ, e confirmadas pelo secretário técnico do respectivo LG ou RZ, e o número de direitos ao prémio à vaca em aleitamento que o candidato detiver em 31 de Janeiro de 2004.
 
-3.º-A Para efeitos de aplicação do n.º 3 do presente despacho normativo, serão tidos em conta os direitos ao prémio à vaca em aleitamento que o candidato venha a deter, em 2004, no âmbito da reserva específica.
+3-A Para efeitos de aplicação do n.º 3 do presente despacho normativo, serão tidos em conta os direitos ao prémio à vaca em aleitamento que o candidato venha a deter, em 2004, no âmbito da reserva específica.
 
 > Aditado pelo/a [Despacho Normativo n.º 22/2004](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-2004-301809), publicado em 2004-05-05.
 

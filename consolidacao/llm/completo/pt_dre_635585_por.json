@@ -105,22 +105,29 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1 (RCM 28/99): as alterações ao anexo I (definições de altura e loteamento) e ao anexo III (quadro só em imagem) não se aplicam porque o texto destes anexos não vem no texto atual; as alterações às plantas de ordenamento n.os 6 e 8 não são textuais.",
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Definições",
+      "texto": "Leito do curso de água - terreno coberto pelas águas, quando não influenciadas por cheias extraordinárias, inundações ou tempestades. O leito é limitado pela linha que corresponder à extrema dos terrenos que as águas cobrem em condições de cheias médias sem transbordar para o solo natural, habitualmente enxuto.\n\nMargem do curso de água - faixa de terreno contígua ou sobranceira à linha que limita o leito das águas. A margem das águas navegáveis ou flutuáveis tem a largura de 30 m. A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.\n\nÍndice de utilização (i) - quociente entre a área bruta de construção e a superfície do prédio ou parcela a que se aplica, inserida em espaço residencial, industrial, agrícola e florestal.\n\nAltura - é a dimensão vertical acima do solo, medida a partir do ponto mais desfavorável do edifício até à linha inferior da platibanda ou do beirado, excluindo-se o acesso às garagens em cave e os recuos previstos em parte de um dos planos da fachada.\n\nCércea - valor máximo da distância entre a cota superior do beirado, platibanda ou guarda do terraço e a cota do arruamento fronteiro à fachada, medida no plano perpendicular ao eixo da rua.\n\nLoteamento - todas as operações que tenham por objecto ou por efeito a divisão em lotes, qualquer que seja a sua dimensão, de um ou vários prédios, desde que pelo menos um dos lotes se destine subsequentemente a construção urbana.\n\nLote - área de terreno, marginado por arruamento, destinado à construção, resultante de uma operação de loteamento licenciada nos termos da legislação em vigor.\n\nParcela - área de terreno, não resultante de operação de loteamento, marginada por via pública e susceptível de construção.\n\nPrédio - área de terreno rústico que, para ser utilizado como urbano, tem de ser objecto de uma operação de loteamento e ou de aprovação de obras de urbanização.\n\nÁrea bruta de construção (Ab) - somatório de todas as superfícies de pavimento a construir acima e abaixo da cota de soleira, com excepção da área em cave destinada a estacionamento.\n\nSuperfície impermeabilizada - soma da superfície do terreno ocupada por edifícios, vias, passeios, estacionamento, piscinas e demais obras que impermeabilizem o terreno.\n\nObras de urbanização - todas as obras de criação e remodelação de infra-estruturas que integram a operação de loteamento e as destinadas a servirem os conjuntos e aldeamentos turísticos e as ocupações industriais.\n\nAlinhamento - linha(s) e plano(s) que determina(m) a implantação das edificações.",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO III — Número de lugares de estacionamento a prever nos espaços urbanos",
+      "texto": "[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b00/21542157.pdf)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "RCM 28/99, n.º 2: alterações às plantas de ordenamento n.os 6 e 8 — cartografia, sem texto. Anexo III: a nova tabela só vem em imagem; só se substituiu a ligação do corpo pela que o alterador dá. Alterador 2 (Aviso n.º 7886/2015): não traz nenhum texto dirigido ao original; nada a aplicar.",
   "instrucoes": [
-    "Alterador 1: artigo 4.º com nova epígrafe 'Revisão' e novo corpo — aplicado.",
-    "Alterador 1: artigo 14.º, corpo substituído por um único parágrafo — aplicado.",
-    "Alterador 1: artigo 23.º passa a n.º 1 (alíneas a) a f) mantidas, novas g) Espaços culturais e h) Unidades operativas) e novos n.os 2 e 3 — aplicado.",
-    "Alterador 1: artigo 25.º, n.º 1 = anterior 2, n.º 2 = anterior 1, novos n.os 3 e 4, n.º 5 = anterior 3 — aplicado.",
-    "Alterador 1: artigos 27.º, 28.º e 29.º, n.º 2 substituído (altura máxima e recuo) — aplicado.",
-    "Alterador 1: artigo 30.º, n.º 1 = anterior 2, novos n.os 2 e 3 — aplicado.",
-    "Alterador 1: artigos 31.º, 35.º e 49.º com nova redação integral (no 49.º os antigos n.os 5 e 6 deixam de existir) — aplicado.",
-    "Alterador 1: artigo 41.º, novo proémio do n.º 2 e novo n.º 3 — aplicado.",
-    "Alterador 1: artigo 43.º, novo n.º 1 com as alíneas a) a c) do anterior n.º 2 e nova d), novos n.os 2 e 3 — aplicado.",
-    "Alterador 1: troca das secções VII e VIII e dos artigos 46.º e 47.º — aplicado (artigos e títulos).",
-    "Alterador 1: anexos I e III e plantas — não aplicável (ver nao_aplicavel).",
-    "Alterador 2 (Aviso 7886/2015): não traz artigos dirigidos ao original — nada a fazer."
+    "RCM 28/99, n.º 1: nova redação dos arts. 4.º (nova epígrafe «Revisão»), 14.º, 23.º, 25.º, 27.º a 31.º, 35.º, 41.º, 43.º e 49.º — aplicada («...»/«[...]» mantém o texto atual; renumerações dos 25.º, 30.º e 43.º seguidas).",
+    "RCM 28/99, n.º 1: troca das secções VII e VIII (a VII passa a ser a anterior VIII e vice-versa) e dos arts. 46.º e 47.º (o 46.º passa a ter o texto do anterior 47.º e o 47.º o do anterior 46.º) — aplicada nos títulos e nos artigos.",
+    "RCM 28/99, n.º 1: nova redação do anexo I — novas definições de «Altura» e «Loteamento»; as marcadas «[...]» mantidas; a nova redação, completa, já não traz «Número de pisos» nem «Cave», que saem (reparo confirmado).",
+    "RCM 28/99, n.º 1: anexo III — nova tabela em imagem; ligação substituída.",
+    "RCM 28/99, n.º 2: plantas — sem texto (nao_aplicavel).",
+    "Aviso 7886/2015: sem texto — nada aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

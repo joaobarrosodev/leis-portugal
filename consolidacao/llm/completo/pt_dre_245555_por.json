@@ -9,15 +9,17 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1: a nova redação do n.º 2.º e o aditamento do n.º 3.º do corpo da portaria não se aplicam porque esses números não estão no texto atual (só há os artigos do anexo II). O anexo I vem só em imagem ('ver tabelas no documento original'). O anexo III, novo, não foi aditado porque a instrução não lhe dá uma chave segura no texto atual (o cabeçalho remete para o n.º 3.º e não para o n.º 2.º como o anexo II atual).",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "(1) Portaria 15-A/99, n.º 1.º (nova redação do n.º 2.º da Portaria 815/98) e n.º 2.º (aditamento do n.º 3.º): os números dispositivos da Portaria 815/98 não estão no texto atual (só os anexos I e II), pelo que a substituição do n.º 2.º não tem alvo e o novo n.º 3.º não tem lugar seguro onde entrar; não aplicados (reparos do verificador confirmados quanto à existência das instruções, mas não aplicáveis com segurança). (2) Anexo III (regime para pequenos agricultores) introduzido pelo novo n.º 3.º: anexo novo cujo título não existe no texto atual; não se inventam títulos nem chaves. (3) Anexo I da Portaria 15-A/99 (culturas e concelhos): só em imagem e sem instrução de substituição; não aplicado.",
   "instrucoes": [
-    "1.º: nova redação do n.º 2.º do corpo da portaria; não está no texto atual, não aplicada (nao_aplicavel)",
-    "2.º: aditamento do n.º 3.º do corpo, que remete para os anexos II e III; não está no texto atual, não aplicado (nao_aplicavel)",
-    "Anexo I: substituído por tabelas que só vêm em imagem; não aplicado (nao_aplicavel)",
-    "Anexo II, artigo único: nova redação do artigo 2.º do anexo II (Acesso); aplicada letra a letra",
-    "Anexo III (artigos 1.º a 7.º): anexo novo para os pequenos agricultores; não aditado por falta de chave segura (nao_aplicavel)"
+    "N.º 1.º: nova redação do n.º 2.º da Portaria 815/98 — alvo ausente do texto atual; em nao_aplicavel.",
+    "N.º 2.º: aditamento do n.º 3.º (anexos II e III) — sem lugar seguro no texto atual; em nao_aplicavel.",
+    "Anexo II da Portaria 15-A/99, artigo único: nova redação do art. 2.º do anexo II da Portaria 815/98 (aplicada).",
+    "Anexo III: novo anexo sem título no texto atual; em nao_aplicavel. Anexo I: só imagem; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

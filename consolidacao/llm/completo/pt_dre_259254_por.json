@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:259254:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Portaria 153/2013, art. 1.º (quota acrescida em 260 toneladas) e art. 2.º (aplicação da Portaria 20/2013 e limitação às águas nacionais até 31/12/2013): disposições autónomas, sem instrução de nova redação a nenhum artigo da Portaria 89/2013; não há texto a aplicar (reparos do verificador vistos: não há redação a mudar no art. 2.º, n.º 1).",
+  "instrucoes": [
+    "Portaria 124/2013, art. 2.º: nova redação do art. 2.º (epígrafe [...] mantida; n.os 1 e 2 novos) — já aplicada corretamente pelo programa; nada a mudar.",
+    "Portaria 153/2013, art. 3.º: revogação do art. 5.º — já aplicada corretamente pelo programa ((Revogado.)); nada a mudar.",
+    "Portaria 153/2013, arts. 1.º e 2.º: sem efeito textual; em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

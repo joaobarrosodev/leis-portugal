@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:300610:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "Altera o artigo 9.º do [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro",
+      "texto": "O artigo 9.º do [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 9.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - A coordenação operacional do CSREAP é assegurada pelo secretário-geral do Ministério, sendo o apoio técnico e administrativo indispensável à sua actividade prestado pelos meios próprios da Secretaria-Geral.»",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "DL 47/2005, art. 39.º, alínea c): revoga o Decreto-Lei n.º 269/2000 'com a redacção dada pelo artigo 1.º do Decreto-Lei n.º 78/2002' — é revogação de outro diploma (o DL 269/2000), não do art. 1.º do original; nenhuma instrução revoga o art. 1.º do DL 78/2002, pelo que se repõe o texto original que o programa tinha dado como revogado (reparo do verificador: dúvida resolvida neste sentido).",
+  "instrucoes": [
+    "DL 47/2005, art. 39.º, c): revoga o DL 269/2000 (outro diploma); o programa tinha revogado o art. 1.º do original sem instrução que o diga — reposto o texto original do art. 1.º.",
+    "DL 47/2005, restantes artigos: lei orgânica do MFAP, sem instruções dirigidas ao DL 78/2002."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

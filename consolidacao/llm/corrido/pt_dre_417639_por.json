@@ -8,11 +8,17 @@
       "alterador": 1
     }
   ],
-  "insercoes": [],
-  "nao_aplicavel": "O 2.º da Portaria n.º 752/89 adita um anexo III, cujo conteúdo só vem em imagem no documento original.",
+  "insercoes": [
+    {
+      "depois_de": 34,
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/20000/37143714.pdf)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação da alínea b) do n.º 1 do 5.º; substituída a unidade 25 (n.º 1, alíneas a) e c) ficam com '...').",
-    "Alterador 1, 2.º: aditamento do anexo III; só em imagem, não aplicado."
+    "Portaria 752/89, 1.º: nova redação da alínea b) do n.º 1 do n.º 5.º (o resto com ...): substituída a unidade 25.",
+    "Portaria 752/89, 2.º: aditado o anexo III com a redação do anexo do alterador, que só vem em imagem: inserida depois da unidade 34 a ligação do alterador, letra a letra (o alterador não dá título escrito ao anexo, por isso não se acrescenta título)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -54,5 +54,19 @@
     "unidade": [],
     "diploma": "pt:dre:650362:por",
     "alterador": "pt:dre:448961:por"
+  },
+  {
+    "artigo": "unidades 32-32",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/077b00/28222824.pdf)",
+    "depois": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0307103072.pdf)\n\nZona 1 - da Pedra do Sal (Cabo de Sines) até à praia do Barranco do Queimado (inclusive).\n\nZona 10 - da Ponta da Atalaia até à Praia do Burgau (inclusive).",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:650362:por",
+    "alterador": "pt:dre:448961:por"
   }
 ]

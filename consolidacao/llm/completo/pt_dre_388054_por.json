@@ -15,14 +15,16 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DRR 9/81/M, art. 2.º: altera a rubrica «A) Pessoal dirigente» do quadro de pessoal a que se refere o n.º 2 do artigo 26.º, quadro que só vem em imagem; não aplicada.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "DRR 9/81/M, art. 2.º: altera a composição da rubrica 'A) Pessoal dirigente' do quadro de pessoal a que se refere o n.º 2 do artigo 26.º (1 director regional, 3 directores de serviços, 3 chefes de divisão). O quadro só existe em imagem ('ver documento original'), fora dos artigos e sem corpo de anexo no texto atual; não há texto onde aplicar a alteração. O artigo 26.º em si não é alterado (o reparo do verificador não procede quanto ao artigo).",
   "instrucoes": [
-    "DRR 9/81/M, art. 1.º: nova redação do artigo 2.º; aplicada.",
-    "DRR 9/81/M, art. 1.º: nova redação do artigo 3.º; aplicada.",
-    "DRR 9/81/M, art. 2.º: altera o quadro de pessoal anexo (só em imagem); não aplicada.",
-    "DRR 9/81/M, art. 3.º: entrada em vigor do próprio diploma; não altera o original."
+    "DRR 9/81/M, art. 1.º: nova redação dos arts. 2.º e 3.º. Aplicado.",
+    "DRR 9/81/M, art. 2.º: quadro de pessoal (só em imagem) — não aplicado, ver nao_aplicavel.",
+    "DRR 9/81/M, art. 3.º: entrada em vigor, sem texto a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

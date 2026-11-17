@@ -17,9 +17,8 @@
   "insercoes": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DL 244/75, art. 1.º: retifica a redação do artigo 1.º; unidade 13 substituída pela nova redação.",
-    "DL 244/75, art. 1.º: retifica a redação do artigo 4.º; unidade 17 substituída (o '...' intermédio mantém os artigos 2.º e 3.º).",
-    "DL 244/75, art. 2.º: efeitos retroativos da retificação; norma própria, sem alteração ao texto."
+    "Decreto-Lei 244/75, art. 1.º: rectifica a redação do artigo 1.º (unidade {{13}}).",
+    "Decreto-Lei 244/75, art. 1.º: rectifica a redação do art. 4.º (unidade {{17}}); o «...» mantém os artigos 2.º e 3.º."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

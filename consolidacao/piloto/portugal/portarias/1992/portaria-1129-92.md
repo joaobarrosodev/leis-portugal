@@ -92,4 +92,16 @@ Assinada em 12 de Novembro de 1992.
 
 O Ministro da Educação, António Fernando Couto dos Santos.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/284b00/56525653.pdf)
+## ANEXO — ([Portaria n.º 1129/92](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1992-616378), de 10 de Dezembro - Alteração)
+
+Instituto Politécnico de Viana do Castelo
+
+Escola Superior Agrária de Ponte de Lima
+
+Curso: Engenharia Hortícola e Paisagista
+
+Grau: bacharel
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/142b00/30613063.pdf)
+
+> Alterado pelo/a [Portaria n.º 414/97](https://diariodarepublica.pt/dr/detalhe/portaria/414-1997-164386), publicado em 1997-06-23.

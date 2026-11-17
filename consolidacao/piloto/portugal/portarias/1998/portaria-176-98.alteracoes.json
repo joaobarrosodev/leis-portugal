@@ -11,6 +11,20 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:197516:por",
-    "alterador": "pt:dre:667161:por"
+    "alterador": "pt:dre:667161:por;pt:dre:515000:por"
+  },
+  {
+    "artigo": "unidades 49-52",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Instituto Superior de Matemática e Gestão de Lisboa\n\nCurso: Terapias Comportamentais e Cognitivas\n\nGrau: mestre\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/03/064b00/11381140.pdf)",
+    "depois": "Universidade Lusófona de Humanidades e Tecnologias\n\nCurso de especialização em Terapias Comportamentais e Cognitivas\n\nGrau de mestre\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50885089.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:197516:por",
+    "alterador": "pt:dre:667161:por;pt:dre:515000:por"
   }
 ]

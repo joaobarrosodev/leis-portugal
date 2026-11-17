@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria 449/2007) anexa prédios (área total 14291 ha) e alterador 3 (Portaria 483/2010) renova a transferência de gestão com 10 180 ha e nova planta: não dão nova redação a nenhum ponto do original.",
+  "nao_aplicavel": "Portaria n.º 449/2007, 1.º (anexação de 1555 ha, área total de 14291 ha) e Portaria n.º 483/2010, artigo 1.º (renovação por seis anos, com a área de 10 180 ha e freguesias de Marinha Grande e Moita): nenhuma dá nova redação ao n.º 2.º do original nem a outra unidade; não são alterações textuais, pelo que a área de 12736 ha no n.º 2.º fica como está.",
   "instrucoes": [
-    "Alterador 1 (Portaria 1276/2004): nova redação do n.º 1.º (acrescenta o Clube de Caça e Pesca da Vieira); unidade 5 substituída.",
-    "Alterador 2 (Portaria 449/2007): anexação de terrenos sem instrução textual; não aplicado.",
-    "Alterador 3 (Portaria 483/2010): renovação da transferência de gestão sem instrução textual; não aplicado."
+    "Alterador 1 (Portaria n.º 1276/2004): nova redação do n.º 1.º — substituída a unidade 5 pelo texto dado.",
+    "Alterador 2 (Portaria n.º 449/2007), 1.º e 2.º: anexação de prédios (1555 ha, total 14291 ha) e efeitos da anexação — sem redação textual sobre o original; em nao_aplicavel.",
+    "Alterador 3 (Portaria n.º 483/2010), artigos 1.º e 2.º: renovação da transferência de gestão por seis anos (área de 10 180 ha), com efeitos a 11 de Agosto de 2010 — sem redação textual sobre o original; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

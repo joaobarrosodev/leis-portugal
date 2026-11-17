@@ -11,7 +11,21 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:383673:por",
-    "alterador": "pt:dre:692813:por"
+    "alterador": "pt:dre:692813:por;pt:dre:381276:por"
+  },
+  {
+    "artigo": "depois da unidade 15",
+    "operacao": "aditar",
+    "regra": "llm",
+    "antes": "",
+    "depois": "3 - O QO provisório do Centro de Gestão Financeira da Logística será oportunamente difundido por despacho do CEME.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:383673:por",
+    "alterador": "pt:dre:692813:por;pt:dre:381276:por"
   },
   {
     "artigo": "depois da unidade 15",
@@ -25,6 +39,6 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:383673:por",
-    "alterador": "pt:dre:692813:por"
+    "alterador": "pt:dre:692813:por;pt:dre:381276:por"
   }
 ]

@@ -88,72 +88,78 @@ O presente despacho entra em vigor no dia seguinte ao da sua publicação.
 
 4 de abril de 2012. - O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça.
 
-## ANEXO I
+## ANEXO I — Raças
 
-Raças:
+Alentejana.
 
-Alentejana;
+Algarvia.
 
-Algarvia;
+Arouquesa.
 
-Arouquesa;
+Barrosã.
 
-Barrosã;
+Brava.
 
-Brava;
+Marinhoa.
 
-Marinhoa;
+Maronesa.
 
-Maronesa;
+Mertolenga.
 
-Mertolenga;
+Minhota.
 
-Minhota;
+Mirandesa.
 
-Mirandesa;
+Charolesa.
 
-Charolesa;
+Hereford.
 
-Herford;
+Limousine.
 
-Limousine;
+Salers.
 
-Salers;
+Pie Rouge.
 
-Pie Rouge;
+Norueguesa.
 
-Fleckvieh;
+Fleckvieh.
 
-Cruzado de Carne;
+Cruzado de Carne.
 
-Preta;
+Preta.
 
-Cachena;
+Cachena.
 
-Ramo Grande;
+Ramo Grande.
 
-Blonde d'Aquitaine;
+Blonde d'Aquitaine.
 
-Blanc-Blue Belge;
+Blanc - Blue Belge.
 
-Garvonesa;
+Garvonesa.
 
-Indeterminado de Carne;
+Indeterminado de Carne.
 
-Cruzado de Limosine;
+Cruzado de Charolês.
 
-Cruzado Alentejano;
+Cruzado de Limosine.
 
-Cruzado BBB;
+Cruzado Alentejano.
 
-Cruzado Simmental-Fleckvieh;
+Cruzado BBB.
 
-Jarmelista;
+Piemontesa.
 
-Aberdeen-Angus;
+Cruzado Simmental - Fleckvieh.
 
-Cruzado de Aberdeen-Angus;
+Jarmelista.
+
+Brava dos Açores.
+
+Aberdeen-Angus.
+
+Cruzado de Aberdeen-Angus.
 
 Cruzado de Blonde.
 
-205960689
+> Alterado pelo/a [Despacho Normativo n.º 13/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2012-2522481), publicado em 2012-05-31.

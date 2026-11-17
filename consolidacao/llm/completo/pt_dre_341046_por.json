@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:341046:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "N.º 4 do artigo 19.º do DL 74/2002 (todas as referências feitas no DL 188/2000 aos assessores passam a considerar-se feitas aos adjuntos): é uma regra de remissão, não dá nova redação a nenhum artigo nem diz por escrito que palavras substituir; não se reescrevem os artigos 2.º, 3.º e 5.º (nem a epígrafe do 3.º). Os n.os 1 e 2 do artigo 19.º alteram outros diplomas (DL 186-A/99 e DL 177/2000): não são do original.",
+  "instrucoes": [
+    "Art. 19.º, n.º 3 do DL 74/2002: nova redação dos artigos 1.º (n.º 1 «...» mantém-se; n.os 2 e 3 novos) e 6.º — o texto atual (já alterado pelo programa) coincide letra a letra com a instrução; nada a mudar.",
+    "Art. 19.º, n.º 4: referências a assessores passam a considerar-se feitas a adjuntos — regra de remissão, não textual: em nao_aplicavel (reparo do verificador não seguido).",
+    "Art. 19.º, n.os 1 e 2: alteram o DL 186-A/99 e o DL 177/2000 — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

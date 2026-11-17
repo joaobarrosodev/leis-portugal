@@ -15,11 +15,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 1292/2005): renova a concessão por 12 anos com a área de 1211 ha e nova planta, sem dar nova redação a nenhum ponto do original; não é alteração textual.",
+  "nao_aplicavel": "Portaria 1292/2005, n.º 1.º: renova a concessão por 12 anos, renovável por dois períodos iguais, com a área de 1211 ha (freguesias de Mação e Carvoeiro) conforme nova planta; é um ato de renovação, sem instrução de nova redação para o n.º 1.º nem para o n.º 2.º, e a planta só vem em imagem. Não se aplica ao texto; o n.º 1.º fica com 1275,10 ha.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 1.º (1275,10 ha); substituí a unidade 6 mantendo a numeração 1.º.",
-    "Alterador 1, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6.",
-    "Alterador 2: renovação e redução de área sem nova redação; não aplicado (nao_aplicavel)."
+    "Alterador 1 (Portaria 1001/97), n.º 1.º: nova redação do n.º 1.º (área de 1275,10 ha): unidade 6 substituída, com o número '1.º' do texto atual.",
+    "Alterador 1, n.º 1.º: adita o n.º 1.º-A: inserido a seguir à unidade 6, com o número '1.º-A' dado na instrução.",
+    "Alterador 1, n.os 2.º e 3.º: manutenção dos direitos e obrigações e entrada em vigor; não alteram o texto.",
+    "Alterador 2 (Portaria 1292/2005), n.º 1.º: renovação e nova área sem fórmula de alteração de texto; reparo do verificador confirmado como dúvida, sem texto a copiar: em nao_aplicavel.",
+    "Alterador 2, n.º 2.º: efeitos a partir de 15 de Julho de 2005; não altera o texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

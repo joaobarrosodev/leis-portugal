@@ -186,4 +186,8 @@ c) Na classificação de serviço.
 
 (Revogado.)
 
-> Revogado pelo/a [Portaria n.º 385/98](https://diariodarepublica.pt/dr/detalhe/portaria/385-1998-486931), publicado em 1998-07-03.
+Curso de formação do estágio para ingresso na carreira de subinspector de espectáculos e direitos de autor da DGESP
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/096b00/18551857.pdf)
+
+> Alterado pelo/a [Portaria n.º 385/98](https://diariodarepublica.pt/dr/detalhe/portaria/385-1998-486931), publicado em 1998-07-03.

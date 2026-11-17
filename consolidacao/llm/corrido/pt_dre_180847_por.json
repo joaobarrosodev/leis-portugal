@@ -1,18 +1,11 @@
 {
   "id": "pt:dre:180847:por",
-  "substituicoes": [
-    {
-      "de": 36,
-      "ate": 36,
-      "texto": "1979 ... 250",
-      "alterador": 1
-    }
-  ],
+  "substituicoes": [],
   "insercoes": [],
-  "nao_aplicavel": "N.º 2 da Resolução 219/79 (dotação de 1980 passa a 950000 contos, 'em princípio' e 'eventualmente ajustável'): não aplicado porque o calendário atual não tem nenhuma linha de 1980 (lê '1981 ... 700' e '1981 ... 500') e a fixação não é firme, pelo que o alvo é ambíguo.",
+  "nao_aplicavel": "Resolução n.º 219/79, n.º 1: altera o calendário da alínea f), passando a competir ao ano de 1979 a dotação de 250000 contos, mas não dá nova redação à linha do calendário (\"1979 ... 500\"); escrever \"1979 ... 250\" seria texto que não está letra a letra em nenhuma fonte, por isso não aplicado. N.º 2: a dotação para 1980 é fixada 'em princípio' e 'eventualmente ajustável', sem nova redação e sem linha de 1980 no calendário do original (que tem '1981 ... 700' e '1981 ... 500'); instrução indicativa e não textual, não aplicada.",
   "instrucoes": [
-    "Resolução 219/79, n.º 1: dotação de 1979 do calendário da alínea f) passa a 250000 contos -> unidade 36 '1979 ... 500' passa a '1979 ... 250' (milhares de contos).",
-    "Resolução 219/79, n.º 2: dotação de 1980 em princípio de 950000 contos -> não aplicado (sem linha de 1980 no texto atual; indicação não firme)."
+    "Res. 219/79 n.º 1: novo valor de 1979 (250000 contos) no calendário da alínea f) sem redação textual da linha; em nao_aplicavel.",
+    "Res. 219/79 n.º 2: dotação de 1980 'em princípio' de 950000 contos; indicativa, sem redação; em nao_aplicavel (reparo confirmado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

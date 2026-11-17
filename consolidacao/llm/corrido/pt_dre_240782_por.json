@@ -9,10 +9,14 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Portaria n.º 405/2019, arts. 1.º, 3.º, 4.º e 5.º (nova denominação do curso, transição, novo número máximo de alunos 30/60, aplicação) são normas autónomas que não dão nova redação a nenhum ponto da Portaria n.º 332/2003, pelo que não se aplicam ao texto; as tabelas do novo anexo só existem em imagem (mantidas as ligações).",
+  "nao_aplicavel": "Art. 1.º da Portaria 405/2019 (nova denominação do curso: 'Enfermagem de Saúde Materna e Obstétrica') não dá nova redação ao n.º 1.º do original; aplicá-la ao n.º 1.º exigiria montar uma frase que não está letra a letra em nenhuma fonte: não aplicada ao texto (a denominação nova consta do novo anexo). Art. 3.º (regras de transição) é norma própria, não altera o texto. Art. 4.º (máximo de 30 alunos/ano e 60 de frequência global) e art. 5.º (aplicação a partir de 2019-2020) não dizem que alteram os n.os 5.º e 7.º do original nem lhes dão nova redação: alteração implícita, não aplicada. A duração de 4 semestres consta só do novo anexo; o n.º 3.º do original não é alterado por nenhuma instrução expressa. Os quadros da estrutura curricular e do plano de estudos do novo anexo só vêm em imagem (ficam as ligações ao documento original).",
   "instrucoes": [
-    "Art. 2.º: caracterização, estrutura curricular e plano de estudos passam a ter a redação do anexo -> substituído o anexo (unidades 35-37) pelo anexo novo, com as ligações das tabelas em imagem.",
-    "Arts. 1.º, 3.º, 4.º, 5.º: normas autónomas, não aplicadas (ver nao_aplicavel)."
+    "Art. 1.º: alteração da denominação do curso, sem nova redação do n.º 1.º: em nao_aplicavel.",
+    "Art. 2.º: caracterização, estrutura curricular e plano de estudos passam a ter a redação do anexo: substituído o anexo (unidades 35-37) pelo anexo da Portaria 405/2019, letra a letra.",
+    "Art. 3.º: regras de transição: norma própria, sem efeito no texto.",
+    "Art. 4.º: número máximo de alunos: não altera expressamente o n.º 5.º: em nao_aplicavel.",
+    "Art. 5.º: aplicação a partir de 2019-2020: não altera expressamente o n.º 7.º: em nao_aplicavel.",
+    "Reparos: confirmados como alterações não expressas ao texto do articulado (1.º, 3.º, 5.º, 7.º); mantidas em nao_aplicavel por não haver nova redação dessas unidades."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

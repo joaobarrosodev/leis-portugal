@@ -936,16 +936,34 @@ Os presentes estatutos entrarão em vigor no dia seguinte ao da sua publicação
 
 ## ANEXO I
 
-O símbolo do Instituto Politécnico de Beja tem fundo branco, expressando a pureza do saber e da ciência, e forma espiralada verde, dado entender-se a espiral como a expansão infinito do saber e da ciência e o verde como a esperança no futuro.
+O símbolo do Instituto Politécnico de Beja tem fundo branco, expressando a pureza do saber e da ciência, e a forma espiralada verde, dado entender-se a espiral como a expansão infinita do saber e da ciência e o verde como a experiência no futuro.
 
 Um mocho, símbolo da sabedoria, ocupa o centro da espiral; mas um mocho como que voando para o futuro, na rota que lhe impõe o Instituto Politécnico de Beja.
 
 A espiga que o mocho transporta significa a riqueza cultural, económica e social da região, enquanto o ramo de oliveira tem conotação com a paz e com a bem-aventurança.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf)
+A integração das unidades orgânicas do Instituto Politécnico de Beja faz-se através do nome da cidade que acolhe o seu campus, Beja; por tal, o Instituto adoptou como suas as cores da cidade: o encarnado e o preto.
 
-A integração das unidades orgânicas do Instituto Politécnico de Beja faz-se através do nome da cidade que acolhe o seu campus Beja; por tal, o Instituto adoptou como suas as cores da cidade, o encarnado e o preto.
+As quatro unidades orgânicas já instaladas (a Escola Superior Agrária de Beja, a Escola Superior de Educação, a Escola Superior de Tecnologia e de Gestão e a Escola Superior de Enfermagem) têm emblemática própria, constante do presente anexo, reportando-se à emblemática do Instituto através da designação da cidade de acolhimento - Beja - e mantendo o simbolismo das principais actividades que cada uma desenvolve - agricultura, educação, tecnologia, gestão e turismo e saúde.
 
-As duas unidades orgânicas já instaladas (Escola Superior Agrária de Beja e Escola Superior de Educação de Beja) têm emblemática própria, constante do presente anexo, reportando-se à emblemática do Instituto através da designação da cidade de acolhimento - Beja - e mantendo o simbolismo das principais actividades que cada uma desenvolve - Agricultura e Educação.
+Instituto Politécnico de Beja
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+Escola Superior Agrária de Beja
+
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+Escola Superior de Educação de Beja
+
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+Escola Superior de Tecnologia e de Gestão de Beja
+
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+Escola Superior de Enfermagem de Beja
+
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+> Alterado pelo/a [Despacho Normativo n.º 46/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-2001-577765), publicado em 2001-12-11.

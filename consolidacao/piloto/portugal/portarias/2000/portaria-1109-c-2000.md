@@ -179,6 +179,6 @@ Os beneficiários ficam obrigados, nomeadamente, a cumprir os planos de acção 
 
 3 - O coordenador da medida AGRIS procede à análise dos pedidos de pagamento e envia ao IFADAP recapitulativo de despesas, com base no qual o Instituto procederá ao pagamento das ajudas.
 
-4 - Podem ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e condições previstos no artigo 52.º do Regulamento (CE) n.º 445/2002, da Comissão, de 26 de Fevereiro.
+4 - Podem ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e condições previstos no artigo 52.º do Regulamento (CE) n.º [445/2002](http://data.europa.eu/eli/reg/2002/445/oj?locale=pt), da Comissão, de 26 de Fevereiro.
 
 > Alterado pelo/a [Portaria n.º 1198/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1198-2003-481371), publicado em 2003-10-13.

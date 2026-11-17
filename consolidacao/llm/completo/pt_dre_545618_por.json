@@ -9,15 +9,29 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Os anexos não constam do texto atual por artigos: a nova redação do anexo I dada pelo Decreto-Lei n.º 11/2010 (art. 2.º e anexo I) e depois pelo Decreto-Lei n.º 148/2013 (art. 14.º e anexo XI), e a revogação do anexo XIV pelo art. 6.º do Decreto-Lei n.º 11/2010, não foram aplicadas por não haver chave de anexo onde as aplicar.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — (referente ao n.º 1 do artigo 6.º, n.º 1 do artigo 15.º e artigos 29.º e 30.º)",
+      "texto": "1 - Aplicabilidade do presente decreto-lei aos SCE:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)\n\n2 - Todos os SCE conformes com um tipo aprovado ao abrigo do presente decreto-lei devem apresentar uma marca de homologação CE.\n\nA marca de homologação CE consiste num rectângulo envolvendo a letra minúscula «e», seguida do número distintivo do Estado membro que concedeu a homologação CE do componente:\n\n1 - Alemanha;\n\n2 - França;\n\n3 - Itália;\n\n4 - Países Baixos;\n\n5 - Suécia;\n\n6 - Bélgica;\n\n7 - Hungria;\n\n8 - República Checa;\n\n9 - Espanha;\n\n11 - Reino Unido;\n\n12 - Áustria;\n\n13 - Luxemburgo;\n\n17 - Finlândia;\n\n18 - Dinamarca;\n\n19 - Roménia;\n\n20 - Polónia;\n\n21 - Portugal;\n\n23 - Grécia;\n\n24 - Irlanda;\n\n25 - Croácia;\n\n26 - Eslovénia;\n\n27 - Eslováquia;\n\n29 - Estónia;\n\n32 - Letónia;\n\n34 - Bulgária;\n\n36 - Lituânia;\n\n49 - Chipre;\n\n50 - Malta.\n\nNa proximidade do rectângulo, o «número de homologação de base» incluído na secção 4 do número de homologação referido no anexo vii do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, alterado pelo Decreto-Lei n.º 135/2008, de 21 de Julho, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa do presente decreto-lei. O número sequencial da alteração e o número de homologação do componente que figuram no certificado são separados por um asterisco. O número sequencial correspondente ao presente decreto-lei é 03.\n\n3 - O ensaio com vista à determinação da imunidade do SCE representativo do tipo deve ser efectuado pelos métodos de acordo com a norma ISO 7637-2: DIS2002, conforme descrito no anexo XXI, com os níveis de ensaio apresentados no seguinte quadro:\n\nQuadro 1\n\nImunidade dos SCE\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)\n\n4 - O ensaio com vista à determinação das radiações do SCE representativo do tipo deve ser efectuado pelos métodos de acordo com a norma ISO 7637-2: DIS2002, conforme descrito no anexo XXI, com os níveis apresentados no seguinte quadro:\n\nQuadro 2\n\nAmplitude máxima de impulsos autorizada\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)",
+      "alterador": 2
+    },
+    {
+      "titulo": "## ANEXO XIV — (referente aos n.os 10 e 11 do artigo 6.º)",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (DL 11/2010), art. 2.º: anexo I passa a ter a redação do anexo I do alterador — anexo ausente do texto atual, não aplicado.",
-    "Alterador 1, art. 3.º e 4.º: alteram o DL 218/2008 e o Regulamento aprovado pelo DL 267-B/2000 — outros diplomas, ignorados.",
-    "Alterador 1, art. 6.º: revoga o artigo 39.º — artigo 39.º fica «(Revogado.)»; revoga o anexo XIV — anexo ausente do texto atual, não aplicado.",
-    "Alterador 2 (DL 148/2013), art. 14.º: anexo I passa a ter a redação do anexo XI do alterador — anexo ausente do texto atual, não aplicado.",
-    "Alterador 2, restantes artigos 2.º a 13.º e 15.º a 18.º: alteram outros diplomas, ignorados."
+    "DL 11/2010, art. 2.º: nova redação do anexo I — n.º 1 «...» mantém-se; n.º 2 substituído pelo texto do alterador 1 (lista com Roménia e Bulgária, remissão ao DL 135/2008); n.os 3 e 4 «...» mantêm-se.",
+    "DL 148/2013, art. 14.º e anexo XI: nova redação do anexo I — n.os 1, 3 e 4 e as frases do n.º 2 marcadas «[...]» ficam como estavam após o DL 11/2010; a lista dos Estados membros do n.º 2 passa a ser a do alterador 2 (com Croácia). Corpo do anexo I devolvido inteiro (alterador 2).",
+    "DL 11/2010, art. 6.º: revogados o artigo 39.º e o anexo XIV — aplicados («(Revogado.)»).",
+    "DL 11/2010, arts. 3.º e 4.º: alteram o DL 218/2008 e o DL 267-B/2000 — ignorados (outros diplomas).",
+    "DL 148/2013, arts. 2.º a 13.º e 15.º a 18.º: alteram outros diplomas — ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

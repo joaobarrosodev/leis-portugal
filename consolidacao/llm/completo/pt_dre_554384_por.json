@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:554384:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "1 - A praça inicia-se com a abertura das propostas recebidas, se existirem, havendo lugar a licitação a partir da proposta de valor mais elevado, ou, se não existirem, a partir do valor base de licitação anunciada.\n\n2 - Podem intervir na praça os interessados e os eventuais titulares de direitos de preferência, ou os seus representantes, devidamente identificados e, no caso de pessoas colectivas, habilitados com poderes bastantes para arrematar.\n\n3 - O valor do lanço mínimo é fixado pela comissão, em montante não inferior a 2% da base de licitação.\n\n4 - A licitação termina quando o presidente da comissão tiver anunciado por três vezes o lanço mais elevado e este não for coberto.\n\n5 - Terminada a licitação, o interessado que apresentou a proposta de valor mais elevado a partir da qual teve início a licitação pode cobrir o último lanço com o mínimo de 1/20 do valor do lanço estabelecido pela comissão, nos termos do n.º 3 deste artigo, arredondado para as unidades de milhares de escudos superiores.\n\n6 - Se houver mais de uma proposta nas condições referidas no número anterior, reabre-se a licitação entre os respectivos proponentes.\n\n7 - Em seguida, há lugar ao exercício de eventuais direitos de preferência e, apresentando-se a preferir mais de uma pessoa com igual direito, reabre-se a licitação entre elas.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Despacho Normativo 29/2000: nova redação do n.º 5 do artigo 5.º; os n.os 1 a 4, 6 e 7 «(Igual.)» ficam com o texto do original (o programa tinha copiado «(Igual.)» à letra; reposto a partir do bloco «como estava no original»)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

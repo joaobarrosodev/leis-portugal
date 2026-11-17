@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:405925:por",
     "alterador": "pt:dre:570104:por"
+  },
+  {
+    "artigo": "unidades 36-37",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "Curso de Formação Militar Complementar de Oficiais\n\n[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/02/026b00/04340435.pdf)",
+    "depois": "Curso de formação militar complementar de Oficiais\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270b00/74727472.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:405925:por",
+    "alterador": "pt:dre:570104:por"
   }
 ]

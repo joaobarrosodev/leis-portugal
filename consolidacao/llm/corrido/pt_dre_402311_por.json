@@ -15,11 +15,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 624/2005): renova a concessão por 12 anos com a área de 1703 ha e nova planta, sem dar nova redação a nenhum ponto do original; não é alteração textual.",
+  "nao_aplicavel": "Portaria 624/2005, n.º 1.º: renova a concessão por 12 anos, renovável automaticamente por dois períodos iguais, com a área de 1703 ha conforme nova planta; é um ato de renovação, sem instrução de nova redação para nenhuma unidade (nem do n.º 1.º nem do n.º 2.º), e a planta só vem em imagem. Não se aplica ao texto; o n.º 1.º fica com 1834,60 ha e o n.º 2.º com o período de 12 anos.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 1.º (1834,60 ha); substituí a unidade 6, copiada letra a letra (incluindo 'Ou-rondo').",
-    "Alterador 1, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 6.",
-    "Alterador 2: renovação da concessão e redução de área sem nova redação; não aplicado (nao_aplicavel)."
+    "Alterador 1 (Portaria 753/97), n.º 1.º: nova redação do n.º 1.º (área de 1834,60 ha): unidade 6 substituída, texto letra a letra (incluindo 'Ou-rondo').",
+    "Alterador 1, n.º 1.º: adita o n.º 1.º-A: inserido a seguir à unidade 6.",
+    "Alterador 1, n.os 2.º e 3.º: manutenção dos direitos e obrigações e entrada em vigor; não alteram o texto.",
+    "Alterador 2 (Portaria 624/2005), n.º 1.º: renovação da concessão e nova área (1703 ha) sem fórmula de alteração de texto; reparo do verificador confirmado como dúvida, mas não há texto a copiar: em nao_aplicavel.",
+    "Alterador 2, n.º 2.º: efeitos a partir de 15 de Julho de 2005; não altera o texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

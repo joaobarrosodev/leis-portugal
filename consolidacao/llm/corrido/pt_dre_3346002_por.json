@@ -9,11 +9,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 prorroga por um ano o prazo de início das obras do 6.º e fixa prazo para o aditamento ao auto de cessão, sem dar nova redação: alteração não textual.",
+  "nao_aplicavel": "Portaria n.º 593/2011, 1.º: prorroga por um ano o prazo de início das obras do § 6.º, sem nova redação; 2.º: prazo de 90 dias para o aditamento ao auto de cessão; instruções não textuais, não aplicadas.",
   "instrucoes": [
-    "Alterador 1: nova redação do 6.º (unidade 11).",
-    "Alterador 2, 1.º: prorrogação do prazo do 6.º sem nova redação; não aplicada.",
-    "Alterador 2, 2.º: prazo para aditamento ao auto de cessão; norma própria, não altera o texto."
+    "Port. 382/2008: nova redação do § 6.º; substituída a unidade 11.",
+    "Port. 593/2011 1.º e 2.º: prorrogação e prazo do aditamento; não textuais, em nao_aplicavel (reparo confirmado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -84,6 +84,8 @@ O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 13 de Janeir
 
 ## ANEXO — Escola Superior de Tecnologias Navais
 
-Curso de Formação Militar Complementar de Oficiais
+Curso de formação militar complementar de Oficiais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/02/026b00/04340435.pdf)
+[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270b00/74727472.pdf)
+
+> Alterado pelo/a [Portaria n.º 1298/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1298-2001-570104), publicado em 2001-11-21.

@@ -10,6 +10,12 @@ consolidacao:
   - id: pt:dre:457203:por
     title: Decreto-Lei n.º 3/2005
     publication_date: '2005-01-05'
+  - id: pt:dre:502980:por
+    title: Decreto-Lei n.º 148/2013
+    publication_date: '2013-10-24'
+  - id: pt:dre:456780:por
+    title: Decreto-Lei n.º 134/2008
+    publication_date: '2008-07-21'
 ---
 
 # Decreto-Lei n.º 311/2003
@@ -410,13 +416,19 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem controlos e
 
 9.10.5.2.4 - Devem ser dadas especificações relativas a outros componentes importantes do sistema de aquecimento, tais como, por exemplo, a ventoinha do aquecedor, no que diz respeito ao método de construção e a dados técnicos.
 
-9.10.5.3 - Consumo de electricidade máximo: ... kW.
+9.10.5.3 - Breve descrição do modelo de veículo no que diz respeito ao sistema de aquecimento de combustão e ao controlo automático:...
+
+9.10.5.3.1 - Esquema do aquecedor de combustão, do sistema de captação de ar, do sistema de escape, do reservatório de combustível, do sistema de alimentação de combustível (incluindo as válvulas) e das ligações eléctricas, mostrando as respectivas localizações no veículo.
+
+9.10.5.4 - Consumo de electricidade máximo: ... kW.
 
 (nota *) Os números dos pontos e as notas utilizados nesta ficha de informações correspondem aos do anexo I do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas. Os pontos não relevantes para efeitos do presente Regulamento são omitidos.
 
 (nota **) Tratando-se de sistemas de aquecimento que utilizam o fluido de arrefecimento do motor como fonte de calor, só serão aplicáveis aos pontos 0 a 0.8, 3.2.7 e 9.10.5.1.
 
 (nota 1) Riscar o que não interessa.
+
+> Alterado pelo/a [Decreto-Lei n.º 3/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2005-457203), publicado em 2005-01-05.
 
 ## ANEXO II — (referente ao n.º 2 do artigo 6.º)
 
@@ -516,7 +528,9 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem controlos e
 
 1.1 - Pressão de ensaio (no caso de um aquecedor de combustão, accionado a gás de petróleo liquefeito ou similar, a pressão aplicada ao conector de captação do gás do aquecedor: ...
 
-1.2 - Etc.
+1.2 - Descrição pormenorizada, esquemas e descrição da montagem do aquecedor de combustão e de todos os seus componentes:...
+
+> Alterado pelo/a [Decreto-Lei n.º 3/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2005-457203), publicado em 2005-01-05.
 
 ## ANEXO IV — (referente ao n.º 2 do artigo 8.º)
 
@@ -604,6 +618,10 @@ Marca de homologação CE como componente
 
 6 para a Bélgica;
 
+7 para a Hungria;
+
+8 para a República Checa;
+
 9 para a Espanha;
 
 11 para o Reino Unido;
@@ -616,13 +634,35 @@ Marca de homologação CE como componente
 
 18 para a Dinamarca;
 
+19 para a Roménia;
+
+20 para a Polónia;
+
 21 para Portugal;
 
 23 para a Grécia;
 
 24 para a Irlanda;
 
-1.1.2 - Pelo «número de homologação de base» que constitui a secção 4 do número de homologação objecto do anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa da Directiva n.º [78/548/CEE](https://data.europa.eu/eli/dir/1978/548/oj?locale=pt) à data da concessão da homologação CE como componente, ambos a figurar na proximidade do rectângulo. O número sequencial correspondente ao presente Regulamento é 00.
+25 para a Croácia;
+
+26 para a Eslovénia;
+
+27 para a Eslováquia;
+
+29 para a Estónia;
+
+32 para a Letónia;
+
+34 para a Bulgária;
+
+36 para a Lituânia;
+
+CY para Chipre;
+
+MT para Malta.
+
+1.1.2 - Pelo 'número de homologação de base' que constitui a secção 4 do número de homologação objecto do anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa da Directiva n.º [2001/56/CE](https://data.europa.eu/eli/dir/2001/56/oj?locale=pt) à data da concessão da homologação CE como componente, ambos a figurar na proximidade do rectângulo. O número sequencial correspondente ao presente Regulamento é 00.
 
 1.2 - A marca de homologação CE como componente deve ser claramente legível e indelével.
 
@@ -634,19 +674,21 @@ Marca de homologação CE como componente
 
 A marca de homologação como componente acima ilustrada indica que o aquecedor de combustão em questão foi homologado na Alemanha (e1) sob o número de homologação de base 2439. Os dois primeiros algarismos (00) indicam que o componente foi homologado com base no presente Regulamento.
 
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
+
 ## ANEXO VI — (referente ao n.º 4 do artigo 3.º)
 
-1 - No quadro seguinte indicam-se os anexos que são aplicáveis a cada tipo de sistema de aquecimento, em função da categoria do veículo:
+2 - No quadro seguinte indicam-se os anexos que são aplicáveis a cada tipo de sistema de aquecimento, em função da categoria do veículo:
 
-[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/286a00/83958403.pdf)](https://files.diariodarepublica.pt/1s/2003/12/286a00/83958403.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)](https://files.diariodarepublica.pt/1s/2005/01/003a00/00340042.pdf)
 
 2 - O capítulo IV do presente Regulamento contém outros requisitos relativos aos aquecedores de combustão e sua instalação nos veículos.
 
 Nota 1. - Os veículos que satisfaçam os requisitos do capítulo III ficam isentos da aplicação destes requisitos de ensaio.
 
-Nota 2. - Um novo anexo X, «Requisitos de segurança aplicáveis aos aquecedores de combustão a GPL», será aditado ao presente Regulamento.
+Nota 2. - Os aquecedores de combustão instalados fora do habitáculo e que utilizem água como meio de transferência serão considerados conformes com os anexos VII e VIII ao presente Regulamento.
 
-Nota 3. - Os aquecedores de combustão instalados fora do habitáculo que utilizem água como meio de transferência serão considerados conformes com os anexos VII e VIII do presente Regulamento.
+> Alterado pelo/a [Decreto-Lei n.º 3/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2005-457203), publicado em 2005-01-05.
 
 ## ANEXO VII — Método de ensaio da qualidade do ar
 
@@ -696,4 +738,72 @@ b) Num ponto situado no interior do veículo, a menos de 1 m da saída do ar aqu
 
 ## ANEXO X — Requisitos de segurança aplicáveis aos aquecedores de combustão a GPL
 
-(V. anexo VI do presente Regulamento, ponto 2, nota 2.)
+(referente ao artigo 26.º)
+
+Requisitos de segurança aplicáveis aos aquecedores de combustão a GPL e sistemas de aquecimento a GPL
+
+1 - Sistemas de aquecimento a GPL para utilização rodoviária em veículos a motor:
+
+1.1 - Se um sistema de aquecimento a GPL num veículo a motor também puder ser utilizado com o veículo em movimento, o aquecedor de combustão a GPL e o seu sistema de alimentação devem cumprir os seguintes requisitos:
+
+1.1.1 - O aquecedor de combustão a GPL deve cumprir os requisitos da norma harmonizada 'Especificações para aparelhos que funcionam exclusivamente com GPL - Aquecedores com circuito estanque, que funcionam com GPL, para instalar em veículos e em barcos' (EN 624:2000) (ver nota *).
+
+1.1.2 - No caso de a instalação do reservatório de GPL ser fixa, todos os componentes do sistema que estão em contacto com o GPL na fase líquida (todos os componentes da unidade de enchimento até ao vaporizador/redutor de pressão) e a instalação da fase líquida devem cumprir os requisitos técnicos do Regulamento n.º 67 da UNECE, partes I e II, e dos anexos 3 a 10, 13 e 15 a 17 (ver nota **).
+
+1.1.3 - A instalação da fase gasosa do sistema de aquecimento a GPL num veículo deve cumprir os requisitos da norma harmonizada 'Especificações para a instalação de sistemas a GPL para fins residenciais em veículos habitáveis de recreio e noutros veículos rodoviários' (EN 1949:2002) (ver nota ***).
+
+1.1.4 - O sistema de alimentação do GPL deve ser concebido de forma que o GPL seja fornecido com a pressão requerida e na fase adequada ao aquecedor de combustão a GPL instalado. É permitido retirar GPL do reservatório de GPL fixo, tanto na fase líquida como na fase gasosa.
+
+1.1.5 - A saída de GPL líquido do reservatório de GPL fixo destinada a fornecer GPL ao aquecedor deve dispor de uma válvula de isolamento telecomandada, com válvula de limitação do débito, tal como prevê o ponto 17.6.1.1 do Regulamento n.º 67 da UNECE. A válvula de isolamento telecomandada com válvula de limitação do débito deve ser comandada de modo a ser automaticamente fechada num período máximo de cinco segundos a seguir à paragem do motor, independentemente da posição da chave de ignição. Se, durante esse período de cinco segundos, o interruptor do aquecedor ou do sistema de fornecimento de GPL for colocado na posição de ligado, o sistema de aquecimento poderá continuar a funcionar. O aquecimento poderá sempre voltar a ser ligado.
+
+1.1.6 - Se o GPL for fornecido na fase gasosa a partir do reservatório fixo de GPL ou de cilindros portáteis independentes, devem ser tomadas as medidas adequadas para garantir que:
+
+1.1.6.1 - O GPL líquido não possa entrar no redutor de pressão nem no aquecedor de combustão a GPL. Pode ser usado num separador;
+
+1.1.6.2 - Não se produza uma emissão descontrolada devido a uma desconexão acidental. Deve prever-se um meio para interromper o fluxo de GPL instalando um dispositivo imediatamente após o redutor, ou no próprio redutor, se este estiver montado no cilindro ou reservatório; se o redutor não estiver montado no cilindro ou reservatório, deve ser instalado um dispositivo imediatamente antes do tubo flexível ou rígido do cilindro ou reservatório e outro dispositivo adicional após o redutor ou no próprio redutor.
+
+1.1.7 - Se o GPL for fornecido na fase líquida, a unidade vaporizador-redutor de pressão deve ser devidamente aquecida por uma fonte de calor adequada.
+
+1.1.8 - Nos veículos a motor que utilizem GPL no seu sistema de propulsão, o aquecedor de combustão a GPL pode ser ligado ao mesmo reservatório fixo que fornece GPL ao motor, desde que sejam respeitadas as prescrições em matéria de segurança aplicáveis ao sistema de propulsão. Se for utilizado um reservatório de GPL separado para o aquecimento, este reservatório deve ser fornecido com a sua própria unidade de enchimento.
+
+2 - Sistemas de aquecimento a GPL exclusivamente para uso estacionário em veículos a motor e seus reboques:
+
+2.1 - O aquecedor de combustão a GPL e o respectivo sistema de alimentação pertencentes a um sistema de aquecimento a GPL destinado a ser utilizado apenas quando o veículo não se encontre em movimento devem cumprir os seguintes requisitos:
+
+2.1.1 - Devem ser apostos rótulos permanentes no compartimento onde estão armazenados os cilindros de GPL portáteis e na proximidade imediata do dispositivo de controlo do sistema de aquecimento indicando que o aquecedor a GPL não deve funcionar e que a válvula do cilindro de GPL portátil deve estar fechada quando o veículo estiver em movimento.
+
+2.1.2 - O aquecedor de combustão a GPL deve cumprir os requisitos do ponto 1.1.1.
+
+2.1.3 - A instalação da fase gasosa do sistema de aquecimento a GPL deve cumprir os requisitos do ponto 1.1.3.
+
+(nota *) Comunicação da Comissão no âmbito de aplicação da Directiva n.º [90/396/CEE](https://data.europa.eu/eli/dir/1990/396/oj?locale=pt), do Conselho, de 29 de Junho, relativa à aproximação das legislações dos Estados membros respeitantes aos aparelhos a gás (JO, n.º C 202, de 18 de Julho de 2001, p. 5).
+
+(nota **) Regulamento n.º 67 da UNECE - prescrições uniformes relativas à homologação de:
+
+i) Equipamento especial dos veículos a motor que utilizam gases de petróleo liquefeitos (GPL) nos seus sistemas de propulsão;
+
+ii) Veículos equipados com equipamento especial para o uso de gases de petróleo liquefeitos (GPL) nos seus sistemas de propulsão no que diz respeito à instalação desse equipamento:
+
+E/ECE/324 - rev. 1/add. 66/rev. 1;
+
+E/ECE/TRANS/505 - rev. 1/add. 66/rev. 1;
+
+E/ECE/324 - rev. 1/add. 66/rev. 1/amend. 1;
+
+E/ECE/ TRANS/505 - rev. 1/add. 66/rev. 1/amend. 1;
+
+E/ECE/ 324 - rev. 1/add. 66/rev. 1/corr. 1;
+
+E/ECE/TRANS/505 - rev. 1/add. 66/rev. 1/corr. 1;
+
+E/ECE/324 - rev. 1/add. 66/rev. 1/corr. 2;
+
+E/ECE/TRANS/505 - rev. 1/add. 66/rev. 1/corr. 2;
+
+E/ECE/324 - rev. 1/add. 66/rev. 1/amend. 2;
+
+E/ECE/TRANS/505 - rev. 1/add. 66/rev. 1/amend. 2.
+
+(nota ***) A norma EN 1949:2002 é elaborada pelo Comité Europeu de Normalização (CEN). A EN 624:2000 refere-se à EN 1949:2002 (v. ponto 1.1.1).
+
+> Alterado pelo/a [Decreto-Lei n.º 134/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2008-456780), publicado em 2008-07-21.

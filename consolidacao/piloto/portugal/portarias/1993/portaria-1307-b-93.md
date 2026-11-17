@@ -262,32 +262,8 @@ Transferências Orçamento do Estado:
 
 Despesa orçamental;
 
-Receitas correntes;
+Receita do Estado.
 
-Receitas de capital;
+Nota. - Nas contas de terceiros identificar-se-á o serviço administrador da operação de tesouraria.
 
-Recursos próprios comunitários;
-
-Reposições;
-
-Contas de ordem.
-
-Natureza das operações de tesouraria:
-
-Impostos, taxas, adicionais e multas;
-
-Cobranças coercivas;
-
-Depósitos efectuados em cofres do Tesouro;
-
-Transferências do exterior;
-
-Recursos alheios no Tesouro;
-
-Quotizações sociais;
-
-Dívida pública;
-
-Operações a regularizar;
-
-CEROT - [Lei n.º 23/90](https://diariodarepublica.pt/dr/detalhe/lei/23-1990-573136).
+> Alterado pelo/a [Portaria n.º 1491-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/1491-a-1995-448554), publicado em 1995-12-29.

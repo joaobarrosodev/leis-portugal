@@ -40,5 +40,33 @@
     "unidade": [],
     "diploma": "pt:dre:453241:por",
     "alterador": "pt:dre:694041:por"
+  },
+  {
+    "artigo": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453241:por",
+    "alterador": "pt:dre:694041:por"
+  },
+  {
+    "artigo": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)",
+    "depois": "",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:453241:por",
+    "alterador": "pt:dre:694041:por"
   }
 ]

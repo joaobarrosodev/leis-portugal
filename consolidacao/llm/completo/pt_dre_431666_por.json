@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:431666:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "A retificação do sumário e do 1.º parágrafo do preâmbulo («Congelados de Bacalhau» -> «Congelados e Bacalhau») não se aplica aqui: nem o sumário nem o preâmbulo vêm no texto atual por artigos. No artigo 1.º a retificação já está aplicada no texto atual (o programa aplicou-a bem), pelo que o artigo não muda.",
+  "instrucoes": [
+    "Declaração de Rectificação n.º 14-B/97: no artigo 1.º, n.º 1, «Congelados de Bacalhau» passa a «Congelados e Bacalhau» — já aplicado no texto atual, mantido sem alteração.",
+    "Mesma retificação no sumário e no 1.º parágrafo (preâmbulo): fora dos artigos, não está no texto atual — em nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

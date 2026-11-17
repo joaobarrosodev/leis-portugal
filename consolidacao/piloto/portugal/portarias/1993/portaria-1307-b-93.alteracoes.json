@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:415444:por",
     "alterador": "pt:dre:448554:por"
+  },
+  {
+    "artigo": "ANEXO — Plano de contas",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Plano de contas\nDisponibilidades e aplicações:\n\nCaixas;\n\nDepósitos no País;\n\nDepósitos no estrangeiro;\n\nOutros depósitos no estrangeiro;\n\nCaixas - Tesourarias da Fazenda Pública;\n\nOutros valores.\n\nTerceiros:\n\nCredores por receitas fiscais e similares;\n\nCredores por execuções fiscais e depósitos em cofres do Tesouro;\n\nCredores por transferências do exterior;\n\nRecursos alheios no Tesouro;\n\nCredores por descontos para a segurança social, seguros e sindicatos;\n\nOutros devedores e credores.\n\nResultados de operações financeiras:\n\nDiferenças de câmbio;\n\nLucros de amoedação;\n\nEncargos bancários;\n\nJuros de depósitos bancários;\n\nOutros resultados.\n\nTransferências Orçamento do Estado:\n\nDespesa orçamental;\n\nReceitas correntes;\n\nReceitas de capital;\n\nRecursos próprios comunitários;\n\nReposições;\n\nContas de ordem.\n\nNatureza das operações de tesouraria:\n\nImpostos, taxas, adicionais e multas;\n\nCobranças coercivas;\n\nDepósitos efectuados em cofres do Tesouro;\n\nTransferências do exterior;\n\nRecursos alheios no Tesouro;\n\nQuotizações sociais;\n\nDívida pública;\n\nOperações a regularizar;\n\nCEROT - [Lei n.º 23/90](https://diariodarepublica.pt/dr/detalhe/lei/23-1990-573136).",
+    "depois": "## ANEXO — Plano de contas\n\nDisponibilidades e aplicações:\n\nCaixas;\n\nDepósitos no País;\n\nDepósitos no estrangeiro;\n\nOutros depósitos no estrangeiro;\n\nCaixas - Tesourarias da Fazenda Pública;\n\nOutros valores.\n\nTerceiros:\n\nCredores por receitas fiscais e similares;\n\nCredores por execuções fiscais e depósitos em cofres do Tesouro;\n\nCredores por transferências do exterior;\n\nRecursos alheios no Tesouro;\n\nCredores por descontos para a segurança social, seguros e sindicatos;\n\nOutros devedores e credores.\n\nResultados de operações financeiras:\n\nDiferenças de câmbio;\n\nLucros de amoedação;\n\nEncargos bancários;\n\nJuros de depósitos bancários;\n\nOutros resultados.\n\nTransferências Orçamento do Estado:\n\nDespesa orçamental;\n\nReceita do Estado.\n\nNota. - Nas contas de terceiros identificar-se-á o serviço administrador da operação de tesouraria.\n\n> Alterado pelo/a [Portaria n.º 1491-A/95](https://diariodarepublica.pt/dr/detalhe/portaria/1491-a-1995-448554), publicado em 1995-12-29.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:415444:por",
+    "alterador": "pt:dre:448554:por"
   }
 ]

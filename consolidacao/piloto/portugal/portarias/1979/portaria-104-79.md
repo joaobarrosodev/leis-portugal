@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:692813:por
     title: Portaria n.º 40/80
     publication_date: '1980-02-14'
+  - id: pt:dre:381276:por
+    title: Portaria n.º 302/79
+    publication_date: '1979-06-28'
 ---
 
 # Portaria n.º 104/79
@@ -45,6 +48,10 @@ h) A verificação das contas das unidades, estabelecimentos e outros órgãos p
 i) Fiscalizar as actividades desenvolvidas no âmbito da gestão financeira da sua área de apoio.
 
 > Alterado pelo/a [Portaria n.º 40/80](https://diariodarepublica.pt/dr/detalhe/portaria/40-1980-692813), publicado em 1980-02-14.
+
+3 - O QO provisório do Centro de Gestão Financeira da Logística será oportunamente difundido por despacho do CEME.
+
+> Aditado pelo/a [Portaria n.º 302/79](https://diariodarepublica.pt/dr/detalhe/portaria/302-1979-381276), publicado em 1979-06-28.
 
 3 - O Centro de Gestão Financeira da Logística compreende:
 

@@ -504,9 +504,11 @@ ii) A carga transversal prescrita, perpendicularmente ao plano definido pela car
 
 6 - Desalinhamento transversal entre degraus (H) - 0 mm.
 
-7 - Sobreposição longitudinal (J) - 200 mm.
+7 - Sobreposição longitudinal (J) entre dois degraus seguidos do mesmo lanço, ou entre o degrau mais alto e o piso do habitáculo do condutor - 200 mm.
 
 (nota *) Nos veículos fora de estrada, o valor F pode ser reduzido para 200 mm.
+
+> Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12.
 
 ## ANEXO VII — Características dos corrimões, pegas (ver nota *) e outros dispositivos equivalentes para acesso ao habitáculo do condutor
 
@@ -522,11 +524,13 @@ ii) A carga transversal prescrita, perpendicularmente ao plano definido pela car
 
 ## ANEXO VIII
 
-Distância mínima (P) da aresta superior do ou dos corrimões, pegas ou dispositivos equivalentes, a partir do degrau mais alto, piso do habitáculo do condutor.
+Distância mínima (P) entre a aresta superior do ou dos corrimãos, das pegas ou de dispositivos equivalentes e o piso do habitáculo do condutor.
 
 1 - A do ou dos corrimões, pegas ou dispositivos equivalentes (U) - 650 mm.
 
 2 - A do ou dos corrimões, pegas ou dispositivos equivalentes (V) - 550 mm.
+
+> Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12.
 
 ## ANEXO IX — Especificações geométricas a que se refere o artigo 23.º, n.º 4
 
