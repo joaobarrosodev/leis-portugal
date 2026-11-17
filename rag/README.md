@@ -561,6 +561,19 @@ Na pergunta das férias, com o reranker, o 1.º lugar passa a ser o artigo 239.�
 - **Medido só com BM25** (`bm25-ambito` contra `bm25-ambito-revogado`, nas literais, revogadas, reais e coloquiais): as reais passam de 194 para 199 com o artigo nos 10 primeiros. As 5 que entram são perguntas de arrendamento (artigos 1101.º e 1110.º do Código Civil e o NRAU). Em 1.º lugar nada muda.
 - **Aviso a menos, certo:** na lit-166, o artigo 1069.º do Código Civil (forma do contrato de arrendamento) deixa de vir com o aviso «revogado», que estava errado. As 55 revogadas continuam todas com o aviso e o diploma revogatório certo.
 
+## Índice de 17/11: os blocos 1 e 2 da consolidação
+
+O índice foi reconstruído com o export de 17/11, que tem os 27 diplomas consolidados nos blocos 1 e 2 da ronda 113 (2.761 no total). Ficou em `rag/indice/indice-1711.sqlite`, ao lado do índice em uso, e leva 357.148 diplomas e 2.532.809 pedaços. Medições só da pesquisa, sem LLM e com o mesmo código nos dois índices:
+
+| Medição | Índice de 16/11 | Índice de 17/11 |
+|---|--:|--:|
+| 1.298 perguntas, BM25: certas | 565 | 567 |
+| 99 de texto alterado, BM25: texto certo em 1.º / nos 10 primeiros | 67 / 77 | 69 / 79 |
+| 99 de texto alterado, reranker: certas / «não sei» | 68 / 5 | 70 / 5 |
+
+- **Ganham-se 2 perguntas e não se perde nenhuma** (`bm25-1711-antes` contra `bm25-1711-depois`, `cruzado-alt-1711-*`): a alt-001 e a alt-058, as duas do Despacho Normativo n.º 61-C/95, que passou a ter o texto em vigor. Os outros tipos ficam exatamente iguais.
+- **Ainda não substitui o `indice.sqlite`:** a troca espera que acabem as medições da sessão das perguntas por artigo, que leem o índice em uso. O bloco 3 da consolidação ficou por aplicar.
+
 ## Perguntas por artigo (piloto, 16/11/2026)
 
 Sem chave da API não há reescrita da pergunta numa consulta jurídica, e o BM25 recebe as palavras do dia a dia. Com a reescrita, o artigo certo em 1.º nas reais sobe de 42 % para 68 %. A ideia deste piloto é escrever uma vez, offline, perguntas de leigo para cada artigo e juntá-las aos termos do artigo. É o que na literatura se chama doc2query.
