@@ -1,5 +1,6 @@
 """Perguntas de leigo por artigo (rag.perguntas_por_artigo): âmbito, validação, junção ao índice e deltas."""
 
+import json
 import shutil
 import sqlite3
 
@@ -8,7 +9,8 @@ from rag import dados
 from rag import perguntas_por_artigo as pa
 from rag.indice import juntar_perguntas, perguntas_do_indice
 from rag.pesquisa import Pesquisa
-from test_dados import A, _bm25, _conteudo, _construir
+
+from test_dados import A, _bm25, _construir, _conteudo
 
 
 CT = "pt:dre:602073:por"
@@ -146,7 +148,7 @@ def test_juntar_copia_o_indice(tmp_path):
     pasta = tmp_path / "perguntas"
     pasta.mkdir()
     (pasta / "nrau.jsonl").write_text(
-        '{"documento": "%s", "chave": "15.º", "perguntas": ["O senhorio pode pôr-me na rua com a gaiola?"]}\n' % NRAU, encoding="utf-8"
+        json.dumps({"documento": NRAU, "chave": "15.º", "perguntas": ["O senhorio pode pôr-me na rua com a gaiola?"]}, ensure_ascii=False) + "\n", encoding="utf-8"
     )
     depois = tmp_path / "depois.sqlite"
     assert pa.juntar(antes, depois, pasta)["artigos"] == 1
