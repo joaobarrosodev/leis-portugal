@@ -34,21 +34,32 @@
     {
       "chave": "13.º",
       "epigrafe": "Projecto com investimento no estrangeiro",
-      "texto": "Independentemente do nível de decisão relativamente ao projecto, a comissão de selecção deve comprovar e dar parecer sobre os montantes das aplicações relevantes referentes aos projectos de internacionalização que envolvam investimentos no estrangeiro.",
+      "texto": "Independentemente do nível de decisão relativamente ao projecto, a comissão de selecção deve comprovar e dar parecer sobre os montantes das aplicações relevantes referentes aos projectos de internacionalização que envolvam investimentos no estrangeiro.\n\nMinistério da Indústria e Energia, 16 de Outubro de 1995. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.",
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, art. 2.º: com a eliminação do artigo 12.º e a renumeração dos artigos 13.º e 14.º para 12.º e 13.º, o antigo artigo 14.º deixa de existir; o formato não permite apagar a chave 14.º, que tem de ser removida (não deve ficar como revogada). Alterador 1, art. 3.º: nova redação dos n.os 1.º e 3.º do anexo B, que não consta do texto atual por artigos; não aplicado.",
+  "removidos": [
+    "14.º"
+  ],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO B — Metodologia para o cálculo da percentagem final do incentivo",
+      "texto": "1.º\n\nPercentagem base do incentivo\n\nPara a determinação do incentivo final a conceder aos projectos seleccionados (VI igual ou superior a 60), observar-se-á o seguinte:\n\na) A percentagem base (I(índice bj)) a considerar para a determinação do montante máximo do empréstimo que poderá beneficiar de bonificação da taxa de juros é de 65%;\n\nb) A percentagem base do subsídio a fundo perdido (I(índice fp)) corresponderá a 55%.\n\n2.º\n\nMajorações\n\nAs percentagens de incentivo referidas nas alíneas a) e b) do número anterior são passíveis de uma majoração de carácter regional de 15%, nos seguintes casos de projectos:\n\na) Para as Regiões Autónomas;\n\nb) Para as regiões específicas abrangidas pelo Sistema de Incentivos Regionais;\n\nc) Para os concelhos que venham a ser reconhecidos, por despacho conjunto dos Ministros da Indústria e Energia e do Planeamento e da Administração do Território, como profundamente afectados por transformações industriais.\n\n3.º\n\nCálculo do incentivo\n\nOs montantes dos incentivos a atribuir são calculados de acordo com as alíneas seguintes:\n\na) Empréstimo com juro bonificado:\n\nMontante máximo do empréstimo = I(índice bj)x AR(índice bj)\n\nem que:\n\nI(índice bj) - percentagem base a aplicar na determinação do montante máximo do empréstimo, de acordo com o n.º 1.º anterior, acrescida, se aplicável, da majoração referida no n.º 2.º deste anexo;\n\nAR(índice bj) - aplicações relevantes relativas às componentes referidas na alínea a) do n.º 1 do artigo 7.º do presente despacho;\n\nb) Subsídio a fundo perdido:\n\nIncentivo = I(índice fp) x AR(índice fp)\n\nem que:\n\nI(índice fp) - percentagem base relativa ao fundo perdido, de acordo com o n.º 1.º anterior, acrescida, se aplicável, da majoração referida no n.º 2.º deste anexo;\n\nAR(índice fp) - aplicações relevantes relativas às componentes referidas na alínea b) do n.º 1 do artigo 7.º do presente despacho.\n\n4.º\n\nIncentivo final\n\nO incentivo final será constituído pelo somatório dos subsídios reembolsáveis, dos subsídios a fundo perdido e das bonificações de juro.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "DN 22/99, art. 3.º: a citação traz o anexo B com a epígrafe «Metodologia para o cálculo do incentivo final», mas a instrução só dá nova redação aos n.os 1.º e 3.º; o título do anexo fica como está (não se monta título novo). DN 22/99, art. 4.º (enquadramento de projetos não homologados): norma transitória, não altera o texto. DN 63/99, art. 1.º (altera o DN 61-A/95 e fixa a data limite de candidaturas) e art. 3.º (altera o DN 61-D/95): instruções a outros diplomas, ignoradas.",
   "instrucoes": [
-    "Alterador 1 (DN 22/99), art. 1.º: nova redação da alínea e) do n.º 1 do artigo 4.º. Aplicado (mantido o resto do 4.º).",
-    "Alterador 1, art. 1.º: nova redação integral dos artigos 7.º e 11.º (nova epígrafe 'Bonificação de juros' no 11.º). Aplicado.",
-    "Alterador 1, art. 1.º: artigo 10.º com n.º 1 mantido ('1 - ...') e novos n.os 2, 3 e 4. Aplicado.",
-    "Alterador 1, art. 2.º: elimina o artigo 12.º (já revogado) e os artigos 13.º e 14.º passam a 12.º e 13.º com a mesma redação. Aplicado nas chaves 12.º e 13.º; a remoção da chave 14.º fica em nao_aplicavel.",
-    "Alterador 1, art. 3.º: n.os 1.º e 3.º do anexo B. Não aplicado (anexo fora do texto atual).",
-    "Alterador 2 (DN 63/99), art. 1.º: altera o DN 61-A/95, não o original. Ignorado. Art. 3.º: altera o DN 61-D/95. Ignorado.",
-    "Alterador 2, art. 2.º: artigo 4.º com nova alínea f) do n.º 1 (20000 contos) e o anterior n.º 3 (excepções) passa a n.º 2 com o mesmo texto. Aplicado sobre a redação já dada pelo alterador 1 (a alínea e) vem do alterador 1; marcado alterador 2 por ser a última mudança)."
+    "DN 22/99, art. 1.º: nova alínea e) do n.º 1 do art. 4.º; nova redação dos arts. 7.º, 10.º (n.º 1 mantém-se) e 11.º (epígrafe «Bonificação de juros»). Aplicado.",
+    "DN 22/99, art. 2.º: eliminado o art. 12.º (o programa tinha-o só revogado; corrigido) e os arts. 13.º e 14.º passam a 12.º e 13.º com a mesma redação; a chave 14.º vai em removidos. A assinatura que seguia o antigo art. 14.º acompanha-o no novo 13.º. Reparo confirmado.",
+    "DN 22/99, art. 3.º: nova redação dos n.os 1.º e 3.º do anexo B; corpo do anexo B devolvido com os n.os 2.º e 4.º atuais. Reparo confirmado. A epígrafe nova do anexo, que a instrução não refere, fica em nao_aplicavel.",
+    "DN 22/99, art. 4.º: transitório; não altera o texto.",
+    "DN 63/99, art. 2.º: nova alínea f) do n.º 1 do art. 4.º (20000 contos) e o antigo n.º 3 (exceções) passa a n.º 2 com a frase do alterador, alíneas a) a d) atuais. Aplicado.",
+    "DN 63/99, arts. 1.º e 3.º: alteram os DN 61-A/95 e 61-D/95; ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

@@ -3,7 +3,8 @@ id: pt:dre:445757:por
 title: Decreto n.º 97/71
 original: data/portugal/decretos/1971/decreto-97-71.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:220972:por
@@ -25,9 +26,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ###### Artigo 1.º
 
-(Revogado.)
+1. A realização de trabalhos de investigação a efectuar por entidades nacionais ou estrangeiras na plataforma continental metropolitana depende de autorização do Ministério da Marinha, ouvida a Comissão Interministerial para o Estudo da Utilização Pacífica do Fundo do Mar, adiante designada simplesmente por Comissão, podendo ser impostas, nas autorizações, as condições julgadas adequadas em cada caso, nomeadamente a entrega das informações e dos registos obtidos e das respectivas interpretações.
 
-> Revogado pelo/a [Decreto-Lei n.º 364/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1986-220972), publicado em 1986-10-30.
+2. A Comissão não poderá deliberar nos termos do número anterior sem a presença e o voto da representação da Secretaria de Estado da Indústria, sempre que o pedido de autorização envolva interesse geológico ou mineiro.
+
+3. A realização de trabalhos de investigação de natureza puramente científica relativa às características físicas ou biológicas da plataforma continental metropolitana será, em regra, autorizada, quando requerida por instituições qualificadas, sob condição de os resultados serem publicados e de o Estado, se assim o desejar, participar ou fazer-se representar nesses trabalhos.
+
+4. Os pedidos de autorização devem ser apresentados, em regra, com a antecedência de noventa dias sobre a data prevista para o início dos trabalhos, no Ministério da Marinha, quando se tratar de entidades nacionais e no Ministério dos Negócios Estrangeiros, quando se tratar de entidades estrangeiras ou internacionais.
 
 ###### Artigo 2.º
 

@@ -15,13 +15,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, 2.º: o n.º 6.º passa a obrigar a manter apenas um guarda florestal auxiliar, mas sem nova redação textual do número - não aplicado; a nova planta do alterador 1 só existe em imagem. Alterador 2 (suspensão da caça) e alterador 3 (renovação da concessão e anexação/desanexação de prédios, área de 516 ha, nova planta em imagem; revogação da Portaria n.º 1010/2004) não dão nova redação ao texto do original.",
+  "nao_aplicavel": "Portaria 935/97, n.º 2.º: diz só que o n.º 6.º, no que respeita ao número de guardas, passa a obrigar a manter 'um guarda florestal auxiliar', sem nova redação; a unidade 12 diz 'dois guardas florestais auxiliares dotados de meio de transporte' e trocar só o número obrigaria a acertar a concordância ('dotados' passaria a 'dotado'), texto que não está letra a letra em nenhuma fonte; não aplicado ao texto. Portaria 1010/2004: suspensão temporária do exercício da caça (até à renovação, prazo máximo de nove meses), não textual. Portaria 730/2005: renovação da concessão e anexação e desanexação de prédios (área total de 516 ha, planta em imagem), sem instrução textual ao original.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 1.º - substituída a unidade 6.",
-    "Alterador 1, 1.º (segundo parágrafo): aditado o n.º 1.º-A - inserido depois da unidade 6.",
-    "Alterador 1, 2.º: n.º 6.º passa a exigir um só guarda, sem redação textual - não aplicado.",
-    "Alterador 2: suspensão do exercício da caça - não é alteração textual.",
-    "Alterador 3: renovação, anexação e desanexação de prédios e revogação da Portaria n.º 1010/2004 - não é alteração textual do original."
+    "Portaria 935/97, n.º 1.º: nova redação do n.º 1.º (unidade 6), com o número 1.º mantido.",
+    "Portaria 935/97, n.º 1.º (segunda parte): aditado o n.º 1.º-A, inserido a seguir à unidade 6.",
+    "Portaria 935/97, n.º 2.º: reparo verificado; a instrução só muda o número de guardas e o texto do alterador ('um guarda florestal auxiliar') não encaixa letra a letra na unidade 12 sem ajuste de concordância; em nao_aplicavel.",
+    "Portaria 1010/2004: suspensão temporária; não aplicável.",
+    "Portaria 730/2005: renovação e alteração da área por planta; não aplicável ao texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

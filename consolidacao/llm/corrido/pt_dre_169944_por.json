@@ -2,25 +2,26 @@
   "id": "pt:dre:169944:por",
   "substituicoes": [
     {
-      "de": 16,
-      "ate": 18,
-      "texto": "",
-      "alterador": 1
-    },
-    {
       "de": 12,
       "ate": 12,
       "texto": "4.º A referida pesca só poderá ser exercida para além das seis milhas de distância da costa, excepto ao largo do Algarve, onde também e permitida em zonas no interior desse limite que estejam por fora da. isobatimétrica dos 150 m.",
       "alterador": 2
+    },
+    {
+      "de": 16,
+      "ate": 18,
+      "texto": "",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 20250): o n.º 1.º prorroga o regime experimental até 31 de Dezembro de 1965 e o n.º 3.º fixa a malhagem mínima dos sacos das redes como norma autónoma; nenhum deles altera textualmente o original.",
+  "nao_aplicavel": "Alterador 2, 1.º: prorrogação do regime experimental até 31 de Dezembro de 1965, sem nova redacção do n.º 2.º (alteração não textual e limitada no tempo); o 2.º fica como está. Alterador 2, 3.º: fixa a malha mínima de 50 mm do saco da rede, sem instrução que a adite ou a ponha em nenhum número do original; não aplicada. Alterador 3 (Portaria 294/79): dá nova redacção ao n.º 2.º da Portaria 22312, outro diploma; ignorada.",
   "instrucoes": [
-    "Alt. 1: eliminadas as normas 8.ª, 9.ª e 10.ª — unidades 16 a 18 eliminadas",
-    "Alt. 2, n.º 2.º: nova redação do n.º 4.º — substituída a unidade 12",
-    "Alt. 2, n.os 1.º e 3.º: prorrogação e malhagem, não textuais — não aplicadas",
-    "Alt. 3: altera a Portaria n.º 22312, não o original — ignorada"
+    "Alterador 1 (Portaria 19700): eliminadas as normas 8.ª, 9.ª e 10.ª; unidades 16 a 18 substituídas por texto vazio.",
+    "Alterador 2, 1.º: prorrogação até 31-12-1965 sem redacção nova; nao_aplicavel (reparo confirmado, mas não há texto para o 2.º).",
+    "Alterador 2, 2.º: nova redacção do n.º 4.º; substituída a unidade 12, mantendo o número 4.º e as gralhas do alterador.",
+    "Alterador 2, 3.º: malha mínima de 50 mm, norma autónoma sem lugar indicado no original; nao_aplicavel.",
+    "Alterador 3 (Portaria 294/79): altera a Portaria 22312; ignorada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

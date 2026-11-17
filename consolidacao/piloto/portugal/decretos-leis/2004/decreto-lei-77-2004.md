@@ -3,7 +3,8 @@ id: pt:dre:217518:por
 title: Decreto-Lei n.º 77/2004
 original: data/portugal/decretos-leis/2004/decreto-lei-77-2004.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:520987:por
@@ -163,15 +164,17 @@ Artigo 29.º
 
 ###### Artigo 5.º — Normas transitórias
 
-(Revogado.)
+1 - O pessoal do ICEP afecto ao exercício de funções inerentes à prossecução das atribuições transferidas para o ITP transita para este Instituto, nos termos da lei aplicável, com salvaguarda dos direitos adquiridos.
 
-> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
+2 - A transição referida no número anterior realiza-se mediante lista nominativa homologada por despacho do Ministro da Economia, sob proposta conjunta dos conselhos directivos do ICEP e do ITP a apresentar no prazo de 90 dias a contar da entrada em vigor do presente diploma, considerando-se os quadros de pessoal do ITP automaticamente aditados do número de lugares correspondentes, os quais se extinguem nos quadros do ICEP.
+
+3 - A transição de pessoal referida nos números anteriores opera automaticamente o aditamento do número de lugares correspondente aos quadros de pessoal do ITP e a respectiva extinção nos quadros de pessoal do ICEP.
+
+4 - Nos Decretos-Leis n.os [264/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2000-532862), de 18 de Outubro, e [308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), de 10 de Agosto, onde se lê «conselho de administração» deve ler-se «conselho directivo».
 
 ###### Artigo 6.º — Número máximo de membros dos conselhos directivos
 
-(Revogado.)
-
-> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), publicado em 2007-04-27.
+Os conselhos directivos do IAPMEI, do ITP e do ICEP não terão, em caso algum, em conjunto, mais de 12 administradores diferentes, incluindo os respectivos presidentes dos conselhos directivos.
 
 ###### Artigo 7.º — Produção de efeitos
 

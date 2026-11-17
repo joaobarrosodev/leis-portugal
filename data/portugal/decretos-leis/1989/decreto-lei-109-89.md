@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-11-06'
+version_history:
+  file: decreto-lei-109-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-04-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-11-06'
+    amending: pt:dre:220475:por
+    amending_title: Decreto-Lei n.º 283-A/89; Decreto-Lei n.º 348/90
+    changes:
+    - Altera Artigo unidades 27-27
+    - Adita Artigo depois da unidade 31
+    - Adita Artigo depois da unidade 73
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:48:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 283-A/89; Decreto-Lei
+    n.º 348/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-109-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,7 +194,9 @@ d) O montante das acções a adquirir pelo conjunto de entidades, singulares ou 
 
 e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b) serão, para cada operação de venda, fixadas por portaria do Ministro das Finanças.
 
-2 - As acções adquiridas nos termos das alíneas a) e b) do n.º 1 não podem ser transaccionadas durante dois anos.
+2 - As acções adquiridas nos termos das alíneas a) e b) do n.º 1 não podem ser transaccionadas durante um ano.
+
+> Alterado pelo/a [Decreto-Lei n.º 348/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1990-566202), publicado em 1990-11-05.
 
 3 - As alienações previstas no presente artigo são realizadas por transacção em bolsa de valores, salvo nos casos previstos no número seguinte.
 
@@ -186,6 +205,10 @@ e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b
 5 - A aquisição das acções por parte dos trabalhadores a que se refere a alínea a) do n.º 1 beneficiará de condições especiais.
 
 6 - Caso não seja subscrita a totalidade das acções reservadas nos termos das alíneas a) e b) do n.º 1, poderão as acções remanescentes ser alienadas nos termos do n.º 3.
+
+7 - O preço de emissão das acções representativas de qualquer aumento de capital, no âmbito do artigo 9.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, poderá ser o que resultar de leilão competitivo realizado em bolsa de valores, nos mesmos termos da alienação de acções.
+
+> Aditado pelo/a [Decreto-Lei n.º 283-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1989-220475), publicado em 1989-08-23.
 
 Art. 7.º - 1 - Para efeitos do disposto nos artigos anteriores, compete ao conselho de administração da Aliança Seguradora, S. A., propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes tecnicamente habilitadas, a escolher de entre as pré-qualificadas para o efeito, nos termos legais.
 
@@ -270,6 +293,10 @@ a) As acções correspondentes à globalidade dos valores dos capitais sociais d
 b) As acções adicionais necessárias para que 51% do capital social existente em cada momento esteja detido pelas entidades referidas na alínea a) do n.º 1.
 
 3 - As acções são livremente transferíveis entre as entidades a que puderem pertencer, sem prejuízo dos limites à participação estabelecidos pela lei.
+
+4 - No caso de transmissão para entidades privadas, nos termos da lei, de acções detidas pelo Estado, os outros accionistas poderão gozar, com respeito a tal transmissão, de direito de preferência na proporção do número de acções de cada um, sem prejuízo das disposições legais que reservem para certas categorias de adquirentes uma percentagem das acções a alienar.
+
+> Aditado pelo/a [Decreto-Lei n.º 283-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-a-1989-220475), publicado em 1989-08-23.
 
 Art. 5.º - 1 - O capital social é de 1500000000$00, estando integralmente subscrito e realizado pelo Estado à data da entrada em vigor dos presentes estatutos.
 

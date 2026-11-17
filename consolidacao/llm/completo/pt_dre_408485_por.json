@@ -51,19 +51,27 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "DL 388/84 (alterador 2): o art. 2.º (extinção do Ministério da Agricultura, Florestas e Alimentação e das quatro secretarias de Estado) e o art. 3.º, n.º 1 (organismos da alínea a) do artigo 43.º passam à dependência exclusiva do Ministério da Agricultura, salvo o Instituto dos Produtos Florestais) são normas autónomas sem instrução de nova redacção: o texto dos artigos 28.º, 29.º e 43.º não foi alterado; os n.os 2 e 3 do art. 3.º alteram o DL 23/84 (outro diploma). DL 279-A/85 (alterador 3): os arts. 1.º, 3.º, 4.º, 5.º e 6.º (extinção do Ministério da Qualidade de Vida, dependência dos seus serviços, etc.) são normas autónomas sem alteração textual do original. DL 451/83, DL 319/88 e DL 296-A/95 (alteradores 1, 4 e 5) não trazem instruções dirigidas ao texto do original (o DL 296-A/95 substitui a estrutura do DL 451/91, não revoga expressamente este diploma).",
   "instrucoes": [
-    "DL 451/83: mantém em vigor o DL 293/82 no MAFA; não altera o texto do original. Nada aplicado.",
-    "DL 388/84 art. 1.º: nova alínea j) do art. 2.º (Ministro da Agricultura), novo art. 16.º, novo n.º 3 do art. 23.º (copiado com a gralha 'Adjundo'), nova alínea e) do n.º 1 do art. 24.º e novo art. 33.º. Aplicado. Na alínea e) o alterador traz 'O Ministro da Agricultura [...]'; o '[...]' foi lido como o fim da unidade e ficou 'e) O Ministro da Agricultura;' (o ';' vem do texto atual).",
-    "DL 388/84 arts. 2.º a 5.º: extinção de ministério e secretarias, art. 3.º altera o DL 23/84, normas orçamentais; não alteram o texto do original.",
-    "DL 279-A/85 art. 2.º: novo art. 2.º (sai a alínea p) Ministro da Qualidade de Vida; p) Assuntos Parlamentares, q) Mar; a j) mantém a redação do DL 388/84), novo art. 6.º (alíneas c) a h) novas, intróito e a), b) ficam), novo art. 8.º com três números (copiado 'Qualidade Vida'). Aplicado.",
-    "DL 279-A/85 art. 7.º: revoga o art. 20.º. Aplicado como '(Revogado.)'. Restantes artigos não são textuais.",
-    "DL 319/88: cria lugar no quadro da Secretaria-Geral do Ministério da Saúde; não altera o original.",
-    "DL 296-A/95: nova Lei Orgânica do Governo; substitui a estrutura do DL 451/91 e não traz nenhuma instrução textual dirigida ao DL 344-A/83. Nada aplicado."
+    "DL 388/84 art. 1.º, artigo 2.º alínea j): passa a «j) Ministro da Agricultura;» - aplicado (reparo confirmado).",
+    "DL 388/84 art. 1.º, artigo 16.º: nova redacção (Ministério da Agricultura; Secretarias de Estado da Produção Agrícola e do Comércio e Indústrias Agrícolas) - aplicado (reparo confirmado).",
+    "DL 388/84 art. 1.º, artigo 23.º n.º 3: nova redacção copiada letra a letra, com a gralha «Adjundo» do alterador; n.os 1, 2 e 4 ficam - aplicado (reparo confirmado).",
+    "DL 388/84 art. 1.º, artigo 24.º n.º 1 alínea e): «O Ministro da Agricultura [...]»; o «[...]» lido como o resto da unidade atual (o «;» final da alínea) - fica «e) O Ministro da Agricultura;» - aplicado (reparo confirmado).",
+    "DL 388/84 art. 1.º, artigo 33.º: nova redacção - aplicado (reparo confirmado).",
+    "DL 388/84 arts. 2.º e 3.º: normas autónomas ou dirigidas ao DL 23/84 - nao_aplicavel.",
+    "DL 279-A/85 art. 2.º, artigo 2.º: «...» e novas alíneas p) Ministro dos Assuntos Parlamentares e q) Ministro do Mar; sai a alínea do Ministro da Qualidade de Vida e a antiga r) - aplicado sobre a redacção do DL 388/84 (reparo confirmado).",
+    "DL 279-A/85 art. 2.º, artigo 6.º: corpo e alíneas a) e b) ficam; novas alíneas c) a h) - aplicado (reparo confirmado).",
+    "DL 279-A/85 art. 2.º, artigo 8.º: nova redacção dos n.os 1 a 3 (com «Qualidade Vida» como no alterador) - aplicado (reparo confirmado).",
+    "DL 279-A/85 art. 7.º: revoga o artigo 20.º - «(Revogado.)».",
+    "DL 279-A/85 arts. 1.º, 3.º a 6.º e 8.º: normas autónomas ou de produção de efeitos - nao_aplicavel / sem efeito no texto.",
+    "DL 451/83, DL 319/88 e DL 296-A/95: sem instruções dirigidas ao texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
   "problemas": [
     "24.º: parágrafo que não está no alterador nem no original: e) O Ministro da Agricultura;"
-  ]
+  ],
+  "avisos": []
 }

@@ -15,12 +15,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1: anexação de prédios e nova área com planta, sem nova redação; alterador 3: suspensão temporária (revogada pelo alterador 4); alterador 4: renovação por 12 anos, sem alteração textual (o prazo do 2.º não recebe nova redação).",
+  "nao_aplicavel": "Alterador 1 (Portaria 11/99): anexação dos prédios Provença e Horta Nova, com área total de 1133,4190 ha e nova planta, sem nova redacção do n.º 1.º; efeito não textual. Alterador 3 (Portaria 562/2002): suspensão do exercício da caça, não textual (revogada pela Portaria 1168/2002). Alterador 4 (Portaria 1168/2002): renovação da concessão por 12 anos, sem nova redacção do n.º 2.º (o prazo até 31 de Maio de 2002 fica como está no texto); efeito não textual. A revogação da Portaria 562/2002 é de outro diploma.",
   "instrucoes": [
-    "Alterador 1: anexação de prédios, não textual: não aplicado",
-    "Alterador 2: onde se lê «Sociedade Agrícola da Herdade de Alcobaça, Lda.» passa «Sociedade Agrícola da Fonte do Pinheiro, S. A.»: unidades 7 e 9",
-    "Alterador 3: suspensão, não textual: não aplicado",
-    "Alterador 4: renovação, não textual: não aplicado"
+    "Alterador 1 (Portaria 11/99): anexação de dois prédios e nova área total — reparo confirmado: não há nova redacção do n.º 1.º; em nao_aplicavel.",
+    "Alterador 2 (Portaria 864/99): onde se lê «Sociedade Agrícola da Herdade de Alcobaça, Lda.» passa a ler-se «Sociedade Agrícola da Fonte do Pinheiro, S. A.» — trocado nas unidades 7 (n.º 2.º) e 9 (n.º 4.º), as únicas onde aparece.",
+    "Alterador 3 (Portaria 562/2002): suspensão — não textual, em nao_aplicavel.",
+    "Alterador 4 (Portaria 1168/2002): renovação por 12 anos — reparo confirmado: não dá nova redacção do n.º 2.º; em nao_aplicavel. Revogação da Portaria 562/2002 é de outro diploma."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

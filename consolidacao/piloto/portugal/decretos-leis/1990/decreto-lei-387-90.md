@@ -46,7 +46,7 @@ a) Designação de acordo com a tipologia dos estabelecimentos de educação e e
 
 b) Nome de um patrono ou outro nome alusivo à região onde a escola cultural e geograficamente se insere;
 
-c) Nome da localidade onde se situa o estabelecimento, seguido do nome do concelho, se a localidade não for sede de concelho.
+c) Nome da localidade onde se situa o estabelecimento, seguido do nome do concelho, se a localidade não for sede de concelho;
 
 d) No caso das escolas profissionais e das escolas artísticas a denominação dos estabelecimentos de ensino poderá também incluir a designação da área de formação ministrada.
 

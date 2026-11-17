@@ -8,10 +8,10 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 418/83): passa o Centro de Apoio à Terceira Idade de S. Martinho do Bispo para integração orgânica e funcional, mas não dá nova redação à norma I nem manda mudar o texto; alteração não textual.",
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 418/83), n.º 1.º: integra orgânica e funcionalmente o Centro de Apoio à Terceira Idade de S. Martinho do Bispo, antes objeto de integração funcional; é estatuição própria da portaria, sem instrução de nova redação, eliminação ou mudança de lugar no texto do original, pelo que o ponto 2) não se altera. Os n.os 2.º e 3.º do alterador 2 também não se dirigem ao texto do original.",
   "instrucoes": [
-    "Alterador 1: nova redação da norma I; corpo e restantes alíneas iguais ('...'), acrescentado na alínea b) o Jardim-de-Infância da ex-OMEN depois dos serviços do Instituto da Família e Acção Social.",
-    "Alterador 2: integração orgânica do Centro de S. Martinho do Bispo sem instrução textual; não aplicada (ver nao_aplicavel)."
+    "Alterador 1 (Portaria n.º 374/80): nova redação da norma I, com 1), a), b), c), d) e 2) em «...» (texto atual mantido) e um novo elemento na alínea b), «O Jardim-de-Infância da ex-OMEN.»: inserido depois da unidade 11, sem tirar o texto atual da alínea b).",
+    "Alterador 2 (Portaria n.º 418/83), n.º 1.º: integração orgânica e funcional do Centro de Apoio à Terceira Idade de S. Martinho do Bispo sem texto de alteração expresso: não aplicado, em nao_aplicavel (reparo confirmado como não aplicável por falta de instrução textual)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

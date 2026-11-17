@@ -1,6 +1,13 @@
 {
   "id": "pt:dre:615457:por",
-  "substituicoes": [],
+  "substituicoes": [
+    {
+      "de": 27,
+      "ate": 27,
+      "texto": "2 - As acções adquiridas nos termos das alíneas a) e b) do n.º 1 não podem ser transaccionadas durante um ano.",
+      "alterador": 2
+    }
+  ],
   "insercoes": [
     {
       "depois_de": 31,
@@ -13,12 +20,12 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 2, artigo 11.º: reduz para um ano o prazo do n.º 2 do artigo 6.º sem dar nova redação ao preceito (norma de reprivatização, não textual); não aplicado.",
+  "nao_aplicavel": "Decreto-Lei n.º 348/90, art. 12.º: manda a sociedade adaptar os estatutos após a reprivatização; não dá texto nenhum, nada aplicado. Os restantes artigos do Decreto-Lei n.º 348/90 (1.º a 10.º e 13.º) regulam a segunda fase da reprivatização em regime próprio e não alteram o texto do original.",
   "instrucoes": [
-    "Alterador 1, artigo 1.º: novo n.º 7 do artigo 6.º do decreto-lei (n.os 1 a 6 com «...»), inserido depois da unidade 31.",
-    "Alterador 1, artigo 2.º: novo n.º 4 do artigo 4.º dos estatutos (n.os 1 a 3 com «...»), inserido depois da unidade 73.",
-    "Alterador 2, artigos 1.º a 10.º e 12.º: regime da alienação dos 51 % do Estado e adaptação futura dos estatutos; normas autónomas, nada a mudar.",
-    "Alterador 2, artigo 11.º: redução do prazo do n.º 2 do artigo 6.º para um ano, sem nova redação; não aplicado."
+    "DL 283-A/89, art. 1.º: art. 6.º com n.os 1 a 6 em «...» e novo n.º 7; inserido depois da unidade 31.",
+    "DL 283-A/89, art. 2.º: art. 4.º dos estatutos com n.os 1 a 3 em «...» e novo n.º 4; inserido depois da unidade 73.",
+    "DL 348/90, art. 11.º (reparo confirmado): o prazo do n.º 2 do artigo 6.º é reduzido para um ano; na unidade 27 «durante dois anos» passa a «durante um ano».",
+    "DL 348/90, art. 12.º: adaptação futura dos estatutos sem texto; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -306,5 +306,33 @@
     "unidade": [],
     "diploma": "pt:dre:338987:por",
     "alterador": "pt:dre:210801:por"
+  },
+  {
+    "artigo": "ANEXO N.º 1 — Matriz dos cursos gerais",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO N.º 1 — Matriz dos cursos gerais\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/015a00/02650272.pdf)](https://files.diariodarepublica.pt/1s/2001/01/015a00/02650272.pdf)",
+    "depois": "## ANEXO N.º 1 — Matriz dos cursos gerais\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), publicado em 2004-03-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:338987:por",
+    "alterador": "pt:dre:210801:por"
+  },
+  {
+    "artigo": "ANEXO N.º 2 — Matriz dos cursos tecnológicos",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO N.º 2 — Matriz dos cursos tecnológicos\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/01/015a00/02650272.pdf)](https://files.diariodarepublica.pt/1s/2001/01/015a00/02650272.pdf)",
+    "depois": "## ANEXO N.º 2 — Matriz dos cursos tecnológicos\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), publicado em 2004-03-26.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:338987:por",
+    "alterador": "pt:dre:210801:por"
   }
 ]

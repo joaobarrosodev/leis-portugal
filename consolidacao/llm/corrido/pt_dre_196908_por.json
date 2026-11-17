@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 1331/2009, artigo único: prédios da planta nova, freguesia e área de 1853 ha) e alterador 3 (Portaria n.º 1115/2010: anexação de 591 ha, total de 2444 ha) não dão nova redação ao n.º 1.º nem mandam substituir texto; são alterações não textuais com plantas só em imagem. Não aplicados.",
+  "nao_aplicavel": "Alterador 2 (Portaria n.º 1331/2009), artigo único: a zona passa a englobar os prédios da planta anexa, sitos na freguesia de Quintã Pêro Martins, com 1853 ha, sem nova redacção nem 'onde se lê' do n.º 1.º; alteração não textual, não aplicada. Alterador 3 (Portaria n.º 1115/2010), artigos 1.º a 3.º: anexação de 591 ha e área total de 2444 ha, efeitos da sinalização e produção de efeitos, sem redacção literal de nenhum ponto do original; não aplicada.",
   "instrucoes": [
-    "Alterador 1: no n.º 1.º, 'sitos nas freguesias de Quintã de Pêro Martins e Penha Garcia' passa a 'sitos nas freguesias de Quintã de Pêro Martins e de Penha de Águia'; aplicado na unidade 6.",
-    "Alterador 2, artigo único: redefine prédios, freguesia e área (1853 ha) por planta nova; não textual, não aplicado.",
-    "Alterador 3, artigos 1.º a 3.º: anexação de terrenos (área total de 2444 ha); não textual, não aplicado."
+    "Alterador 1 (Portaria n.º 1427/2002): no n.º 1.º, 'sitos nas freguesias de Quintã de Pêro Martins e Penha Garcia' passa a 'sitos nas freguesias de Quintã de Pêro Martins e de Penha de Águia'; substituída a unidade 6 com a frase trocada.",
+    "Alterador 2 (Portaria n.º 1331/2009): correcção da área e da localização sem redacção literal; em nao_aplicavel (reparo confirmado: não há texto a aplicar).",
+    "Alterador 3 (Portaria n.º 1115/2010): anexação, total 2444 ha, sem redacção literal; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

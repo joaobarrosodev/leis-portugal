@@ -437,11 +437,11 @@ Critérios de selecção
 
 Os critérios de selecção referidos no artigo 7.º são os seguintes:
 
-C1 - Adequação do projecto à estratégia empresarial, tendo em conta o grau de satisfação das necessidades da empresa de acordo com as suas orientações estratégicas. Avalia-se o grau de adequação do projecto às necessidades reais da empresa (com o aprofundamento da fundamentação da estratégia em função da dimensão e da complexidade da empresa e do projecto) nas variáveis consideradas chave para a competitividade global da empresa - cobrindo as áreas organizacional, de recursos humanos, tecnológica/produtiva, económica, financeira, comercial, energética e ambiental. Assim, tendo como referência os objectivos definidos a médio prazo, este critério avalia o grau de adequação do projecto às necessidades da empresa, nas variáveis consideradas chave para a sua competitividade global, com base na análise da sua adequação:
+C1 - Adequação do projecto à estratégia empresarial, tendo em conta o grau de satisfação das necessidades da empresa de acordo com as suas orientações estratégicas. Avalia-se o grau de adequação do projecto às necessidades reais da empresa (com o aprofundamento da fundamentação da estratégia em função da dimensão e da complexidade da empresa e do projecto) nas variáveis consideradas chave para a competitividade global da empresa - cobrindo as áreas organizacional, de recursos humanos, tecnológica/produtiva, económica, financeira, comercial, energética e ambiental; assim, tendo como referência os objectivos definidos a médio prazo, este critério avalia o grau de adequação do projecto às necessidades da empresa, nas variáveis consideradas chave para a sua competitividade global, com base na análise da sua adequação:
 
 Em todas as recomendações do diagnóstico, tendo em conta as perspectivas de evolução do mercado, para os casos de investimentos em capital fixo inferiores a 250000 contos;
 
-Em todas as recomendações do diagnóstico, tendo em conta a sua posição concorrencial e as operações de desenvolvimento, para os casos de investimentos em capital fixo compreendidos entre 250000 e 750000 contos;
+Em todas as recomendações do diagnóstico, tendo em conta a sua posição concorrencial e as operações de desenvolvimento, para os casos de investimentos em capital fixo compreendidos entre 250000 e 750000 mil contos;
 
 Em todas as variáveis determinantes para a sua competitividade, para os casos de investimentos em capital fixo superiores a 750000 contos;
 
@@ -459,13 +459,13 @@ Organização e gestão;
 
 Função comercial e de marketing e sua adequação aos canais de venda dos produtos produzidos;
 
-Produtividade da empresa, aferida por indicadores adaptados à actividade em causa, a serem definidos, e comparativamente quantificados pelo promotor.
+Produtividade da empresa, aferida por indicadores adaptados à actividade em causa, a serem definidos e comparativamente quantificados pelo promotor.
 
 2.º
 
 Classificação dos critérios
 
-A avaliação dos critérios C1, C2 e C3 será efectuada com base numa notação qualitativa de três níveis: Não adequação; Boa adequação; e Muito boa adequação.
+A avaliação dos critérios C1, C2 e C3 será efectuada com base numa notação qualitativa de três níveis: Não adequação; Boa adequação e Muito boa adequação.
 
 Só serão considerados passíveis de apoio os projectos que demonstrem pelo menos Boa adequação em todos os critérios.
 
@@ -489,7 +489,9 @@ Em função da classificação obtida, os projectos são pontuados de acordo com
 
 Valia normal: apresentarem, pelo menos, Boa adequação nos critérios C1, C2 e C3;
 
-Valia especial: apresentarem Muito boa adequação nos critérios C2 e C3 ou apresentarem, pelo menos, Boa adequação em todos os critérios e situarem-se em áreas de tratamento mais favorável, definidas no critério complementar.
+Valia especial: apresentarem Muito boa adequação nos critérios C2 e C3 ou apresentarem, pelo menos, Boa adequação em todos os critérios e situarem-se em 'áreas de tratamento mais favorável', definidas no critério complementar.
+
+> Alterado pelo/a [Despacho Normativo n.º 48/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/48-1999-667565), publicado em 1999-10-23.
 
 ## ANEXO B — Metodologia para o cálculo da percentagem final do incentivo
 
@@ -499,9 +501,9 @@ Projectos de inovação e internacionalização das estruturas empresariais
 
 Percentagem do incentivo
 
-A percentagem do incentivo a atribuir é função da valia industrial do projecto calculada em conformidade com a metodologia constante do anexo A e será atribuída de acordo com o quadro seguinte:
+A percentagem do incentivo a atribuir é função da valia industrial do projecto, calculada em conformidade com a metodologia constante do anexo A, e será atribuída de acordo com o quadro seguinte:
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/297b00/81698179.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/10/248b00/71257129.pdf)
 
 2.º
 
@@ -519,7 +521,7 @@ b) Majorações de carácter industrial:
 
 3) Empresas resultantes de acções estratégicas de redimensionamento industrial, nomeadamente fusões e concentrações - 5%;
 
-4) Empresas industriais participantes na criação de redes de cooperação inseridas no âmbito do Despacho Normativo n.º 554/94, de 29 de Julho - 5%;
+4) Empresas industriais participantes na criação de redes de cooperação inseridas no âmbito do [Despacho Normativo n.º 554/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/554-1994-231881), de 29 de Julho - 5%;
 
 5) Assistência técnica prestada por infra-estruturas tecnológicas (até 10%); a contribuição total para o incentivo, relativa a estas componentes, não pode ultrapassar 80% das correspondentes despesas de investimento;
 
@@ -537,25 +539,25 @@ b) Majorações de carácter industrial:
 
 Percentagem final do incentivo
 
-1 - A percentagem final do incentivo relativa ao subsídio reembolsável (Ifr) é calculada através da fórmula:
+1 - A percentagem final do incentivo relativa ao subsídio reembolsável (I(índice fr)) é calculada através da fórmula:
 
-Ifr = Ip + M + N
+I(índice fr) = I(índice r)r + M + N
 
 sendo:
 
-Ip = percentagem do incentivo relativa ao subsídio reembolsável, calculada de acordo com o n.º 1;
+I(índice r) = percentagem do incentivo relativa ao subsídio reembolsável, calculada de acordo com o n.º 1.º;
 
 M = somatório das majorações de carácter industrial, até ao limite máximo de 10%;
 
 N = majoração de carácter regional (15%).
 
-2 - A percentagem final do incentivo relativo ao subsídio a fundo perdido (Ifp), com excepção do que se refere à formação profissional, é calculada através da fórmula:
+2 - A percentagem final do incentivo relativo ao subsídio a fundo perdido (I(índice fp)), com excepção do que se refere à formação profissional, é calculada através da fórmula:
 
-Ifp = Ip + M + N
+I(índice fp) = I(índice p) + M + N
 
 sendo:
 
-Ip = percentagem do incentivo relativa ao subsídio a fundo perdido, calculada de acordo com o n.º 1;
+I(índice p) = percentagem do incentivo relativa ao subsídio a fundo perdido, calculada de acordo com o n.º 1.º;
 
 M = somatório das majorações de carácter industrial, até ao limite máximo de 10%;
 
@@ -563,25 +565,29 @@ N = majoração de carácter regional (15%).
 
 3 - A percentagem final do incentivo não deverá ultrapassar 80% das aplicações relevantes a que se refere o n.º 1 do artigo 9.º nem 70% das aplicações relevantes a que se refere o n.º 2 do mesmo artigo.
 
+> Alterado pelo/a [Despacho Normativo n.º 48/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/48-1999-667565), publicado em 1999-10-23.
+
 ## ANEXO G — Critérios de enquadramento
 
 São enquadráveis no âmbito do PRATIC os projectos que demonstrem possuir interesse estratégico, aferido através da exigência de que os mesmos prossigam uma das seguintes vias de desenvolvimento empresarial:
 
-1) Para empresas já existentes:
+1 - Para empresas já existentes:
 
-a)Significativa intervenção sobre os factores de competitividade considerados estratégicos no diagnóstico do PRATIC (capacidade de desenvolvimento e de projecto, sourcing, tecnologias de fabrico e de organização, recursos humanos e marketing);
+a) Significativa intervenção sobre os factores de competitividade considerados estratégicos no diagnóstico do PRATIC (capacidade de desenvolvimento e de projecto, sourcing, tecnologias de fabrico e de organização, recursos humanos e marketing);
 
 b) Fabricação de novos produtos até agora não produzidos no País ou com melhorias significativas de conteúdo tecnológico e competitividade face aos já fabricados;
 
 c) Internacionalização das empresas, nomeadamente pelo reforço significativo da sua posição em mercados internacionais, sustentável pelas suas capacidades e pelas características dos seus produtos;
 
-2) Para novas empresas:
+2 - Para novas empresas:
 
 a) Fabricação de produtos orientados para nichos de mercado e tecnologia;
 
 b) Instalação de fabricos que permitam um reforço da cadeia de valor das TIC, preenchendo lacunas da oferta nacional com possibilidades concorrenciais;
 
 c) Exploração de sinergias dentro do sector ou com outros sectores, de forma sustentável, nomeadamente através da cooperação empresarial ou das funções integradoras das TIC em outros domínios tecnológicos ou produtivos.
+
+> Alterado pelo/a [Despacho Normativo n.º 48/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/48-1999-667565), publicado em 1999-10-23.
 
 ## ANEXO IV
 

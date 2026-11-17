@@ -10,6 +10,12 @@ consolidacao:
   - id: pt:dre:122657688:por
     title: Portaria n.º 190-B/2019
     publication_date: '2019-06-21'
+  - id: pt:dre:1139897694:por
+    title: Portaria n.º 280/2026/1
+    publication_date: '2026-06-29'
+  - id: pt:dre:858167927:por
+    title: Portaria n.º 126/2024/1
+    publication_date: '2024-04-01'
   - id: pt:dre:205509977:por
     title: Portaria n.º 312-B/2022
     publication_date: '2022-12-30'
@@ -29,7 +35,7 @@ Manda o Governo, pela Ministra da Presidência e da Modernização Administrativ
 
 A presente portaria define, nos termos da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, na sua redação atual:
 
-a) Os mecanismos técnicos de acesso e leitura dos dados constantes de circuito integrado do cartão de cidadão;
+a) As normas técnicas de armazenamento, acesso, leitura, segurança e interoperabilidade dos dados constantes de circuito integrado do cartão de cidadão;
 
 b) O prazo geral de validade do cartão de cidadão;
 
@@ -37,29 +43,37 @@ c) Os casos e os termos em que podem ser apresentados por via eletrónica e por 
 
 d) O sistema de cancelamento do cartão de cidadão pela via telefónica e eletrónica;
 
-e) O montante devido pelo Instituto dos Registos e Notariado, I. P. (IRN), à Agência de Modernização Administrativa, I. P. (AMA), pelo exercício das suas competências, previstas no artigo 23.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, alterada pelas [Leis n.os 91/2015](https://diariodarepublica.pt/dr/detalhe/lei/91-2015-69992903), de 12 de agosto e [32/2017](https://diariodarepublica.pt/dr/detalhe/lei/32-2017-107114304), de 1 de junho;
+e) O montante devido pelo Instituto dos Registos e Notariado, I. P. (IRN), à Agência de Modernização Administrativa, I. P. (AMA), pelo exercício das suas competências, previstas no artigo 23.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, na sua redação atual;
 
-f) As regras relativas à conservação do ficheiro com o código pessoal de desbloqueio (PUK) do cartão de cidadão;
+f) As regras relativas à conservação do ficheiro com o código pessoal de desbloqueio (PUK) do cartão de cidadão.
 
 g) Os termos de ativação dos certificados do cartão de cidadão através do recurso a sistema biométrico de comparação das imagens do rosto, recolhidas eletronicamente e em tempo real, com a imagem facial constante do sistema de informação responsável pelo ciclo de vida do cartão de cidadão.
 
-> Alterado pelo/a [Portaria n.º 312-B/2022](https://diariodarepublica.pt/dr/detalhe/portaria/312-b-2022-205509977), publicado em 2022-12-30.
+h) A validade dos certificados e a sua substituição ou renovação.
+
+i) Os mecanismos técnicos de acesso e leitura do código técnico do cartão constante do circuito integrado do cartão de cidadão.
+
+> Alterado pelo/a [Portaria n.º 280/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/280-2026-1139897694), publicado em 2026-06-29.
 
 #### Secção I — Funcionalidades e Informação contida em circuito integrado
 
 ###### Artigo 2.º — Interfaces dos circuitos integrados
 
-1 - O Cartão de Cidadão disponibiliza uma interface de contacto para acesso aos dados armazenados eletronicamente.
+1 - O cartão de cidadão disponibiliza interfaces para acesso aos dados armazenados eletronicamente.
 
-2 - As normas técnicas e de interoperabilidade suportadas pela interface encontram-se descritas no Anexo I da presente portaria, da qual faz parte integrante.
+2 - As normas técnicas de armazenamento, acesso, leitura, segurança e interoperabilidade suportadas pelas interfaces encontram-se descritas no anexo i da presente portaria, da qual faz parte integrante.
 
-3 - A interoperabilidade a que se refere o número anterior deverá ser assegurada pelas entidades aderentes, sendo disponibilizada pela AMA toda a documentação técnica necessária para que essas entidades possam garantir a interoperabilidade dos seus sistemas com o cartão de cidadão.
+3 - A interoperabilidade a que se refere o número anterior é assegurada pelas entidades aderentes, sendo disponibilizada pela ARTE, I. P., toda a documentação técnica necessária para que essas entidades possam garantir a interoperabilidade dos seus sistemas com o cartão de cidadão, em conformidade com o ciclo de vida daquele documento.
+
+4 - As entidades aderentes asseguram que os dispositivos de leitura do circuito integrado cumprem os requisitos constantes da documentação técnica disponibilizada pela ARTE, I. P., bem como as condições técnicas de acesso, leitura, autenticação, interoperabilidade e segurança do código técnico do cartão, garantindo a interoperabilidade e a proteção dos dados pessoais.
+
+> Alterado pelo/a [Portaria n.º 280/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/280-2026-1139897694), publicado em 2026-06-29.
 
 ###### Artigo 3.º — Informação contida em circuito integrado
 
-São acessíveis através de interface de contacto os seguintes elementos:
+São acessíveis através de interfaces os seguintes elementos:
 
-a) Os referidos no n.º 1 do artigo 7.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, com exceção da alínea i);
+a) Os elementos visíveis de identificação do seu titular, com exceção da assinatura;
 
 b) (Revogada.)
 
@@ -71,17 +85,17 @@ e) Impressões digitais;
 
 f) Campo reservado a indicações eventuais, tipificadas na lei;
 
-g) Zona livre que o titular do cartão pode utilizar, por sua vontade, para arquivar informações pessoais.
+g) (Revogada.)
 
-> Alterado pelo/a [Portaria n.º 312-B/2022](https://diariodarepublica.pt/dr/detalhe/portaria/312-b-2022-205509977), publicado em 2022-12-30.
+> Alterado pelo/a [Portaria n.º 126/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), publicado em 2024-04-01.
 
 ###### Artigo 4.º — Funcionalidades disponíveis em circuito integrado
 
-Encontram-se disponíveis as seguintes funcionalidades através da interface de contacto:
+Encontram-se disponíveis as seguintes funcionalidades através de interfaces:
 
 a) Leitura dos elementos visíveis de identificação do seu titular, com exceção da assinatura;
 
-b) Arquivo pessoal adicionado pelo cidadão;
+b) (Revogada.)
 
 c) (Revogada.)
 
@@ -95,7 +109,43 @@ g) Verificação e alteração de PIN de autenticação, de assinatura e de aces
 
 h) Desbloqueio do PIN de autenticação, de assinatura e de acesso à morada com recurso a PUK ou através da verificação da impressão digital do seu titular.
 
-> Alterado pelo/a [Portaria n.º 312-B/2022](https://diariodarepublica.pt/dr/detalhe/portaria/312-b-2022-205509977), publicado em 2022-12-30.
+i) Código técnico do cartão.
+
+> Alterado pelo/a [Portaria n.º 280/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/280-2026-1139897694), publicado em 2026-06-29.
+
+###### Artigo 4.º-A — Código técnico do cartão
+
+1 - Ao cartão de cidadão é associado um código técnico, que consiste num código emitido e gerido no âmbito do ciclo de vida do cartão de cidadão.
+
+2 - O acesso e a leitura do código técnico do cartão não permitem o acesso a outros dados do titular do cartão de cidadão.
+
+3 - O IRN disponibiliza à ARTE, I. P., o código técnico do cartão, ou valida-o quando remetido pela ARTE, I. P., nos termos da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, e de acordo com o protocolo a celebrar entre o IRN, o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., e a ARTE, I. P.
+
+4 - A disponibilização pela ARTE, I. P., do código técnico do cartão a entidades terceiras efetua-se nos termos da legislação aplicável, cabendo à ARTE, I. P., e às entidades terceiras assegurar os meios técnicos necessários à sua interoperabilidade.
+
+5 - A disponibilização e utilização do código técnico do cartão deve respeitar a legislação aplicável em matéria de proteção de dados pessoais, competindo às entidades intervenientes determinar, nos termos do [Regulamento (UE) 2016/679](https://data.europa.eu/eli/reg/2016/679/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de abril de 2016, nomeadamente:
+
+a) As finalidades e os meios do tratamento;
+
+b) Os responsáveis pelo tratamento e subcontratantes, caso existam;
+
+c) As responsabilidades das partes nas obrigações e cumprimento de todas as disposições legais nesta matéria;
+
+d) As condições de acesso, utilização e conservação dos dados;
+
+e) As medidas técnicas e organizativas adequadas, incluindo mecanismos de pseudonimização, controlo de acessos e auditoria;
+
+f) O modo de cumprimento integral dos deveres de informação e garantia dos direitos dos titulares dos dados.
+
+6 - O código técnico do cartão pode ser utilizado para acesso a serviços públicos e privados que requeiram a identificação do titular, designadamente para efeitos de controlo de acessos, quando legal ou contratualmente admissível e nos termos definidos nas normas técnicas aplicáveis.
+
+7 - A utilização do código técnico do cartão está sujeita a mecanismos de controlo adequados, devendo ser assegurada a prevenção da sua utilização indevida, da interconexão não autorizada de dados e da leitura não autorizada, designadamente em ambientes de proximidade, através de medidas técnicas e organizativas apropriadas.
+
+8 - As condições técnicas de acesso, leitura, autenticação, interoperabilidade e segurança do código técnico do cartão são definidas em normas técnicas aprovadas e publicitadas pela ARTE, I. P., sendo de cumprimento obrigatório pelas entidades aderentes.
+
+9 - A utilização do código técnico do cartão não prejudica a existência de outros meios de identificação legalmente previstos.
+
+> Aditado pelo/a [Portaria n.º 280/2026/1](https://diariodarepublica.pt/dr/detalhe/portaria/280-2026-1139897694), publicado em 2026-06-29.
 
 #### Secção II — Prazo de validade do cartão de cidadão
 
@@ -109,7 +159,7 @@ h) Desbloqueio do PIN de autenticação, de assinatura e de acesso à morada com
 
 4 - Nos casos previstos no n.º 2 artigo 7.º, a data de validade do cartão de cidadão emitido corresponde à do cartão renovado.
 
-#### Secção III — Pedidos de renovação do Cartão de Cidadão através do Portal do Cidadão
+#### Secção III — Pedidos de emissão, renovação, alteração de morada e novos códigos pessoais do cartão de cidadão
 
 ###### Artigo 6.º — Entrega do cartão de cidadão solicitado por via eletrónica
 
@@ -129,7 +179,9 @@ O pedido de emissão de cartão de cidadão, na sequência da declaração de na
 
 ###### Artigo 7.º — Renovação do Cartão de Cidadão por via eletrónica
 
-1 - Pode solicitar a renovação do cartão de cidadão, por via eletrónica, o cidadão que:
+(Revogado.)
+
+1 - O cidadão pode solicitar a renovação do cartão de cidadão, por via eletrónica, no portal único de serviços, quando estejam preenchidos os seguintes requisitos:
 
 a) Tenha completado 25 anos de idade;
 
@@ -139,23 +191,35 @@ c) O cartão de cidadão a renovar se encontre dentro do prazo de validade ou te
 
 d) (Revogada.)
 
-e) Os serviços competentes disponham de impressões digitais do titular relativamente ao cartão de cidadão a renovar;
+e) Os serviços competentes disponham de impressões digitais do titular relativamente ao cartão de cidadão a renovar; e
 
 f) Tenha nacionalidade portuguesa.
 
-2 - Pode ainda solicitar a renovação do cartão de cidadão por via eletrónica o cidadão que tenha completado 25 anos de idade, desde que:
+2 - Quando o cartão de cidadão tenha sido cancelado, por perda, destruição, furto ou roubo, o cidadão pode solicitar a sua renovação desde que estejam preenchidos os seguintes requisitos:
 
 a) Se autentique de forma segura no portal único de serviços, através de cartão de cidadão ou de Chave Móvel Digital ou, quando careça de representação para o ato, o seu representante se autentique dessa forma;
 
 b) O prazo de validade do cartão de cidadão seja, no momento do pedido, superior a 60 dias;
 
-c) Os serviços competentes disponham de impressões digitais do titular relativamente ao cartão de cidadão a renovar;
+c) Os serviços competentes disponham de impressões digitais do titular relativamente ao cartão de cidadão a renovar; e
 
-d) O cidadão tenha cancelado o cartão de cidadão a renovar, por perda, destruição, furto ou roubo;
+d) (Revogada.)
 
 e) Tenha nacionalidade portuguesa.
 
-3 - O pedido de renovação de cartão de cidadão pode ainda ser apresentado mediante pagamento de referência bancária remetida oficiosamente com os respetivos códigos de ativação para a morada indicada nos termos do n.º 2 do artigo 13.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, na sua redação atual, quando estejam preenchidos os seguintes requisitos:
+3 - A renovação do cartão de cidadão pode ser igualmente solicitada pelo cidadão através de aplicação disponibilizada para o efeito pela AMA ou equipamentos self-service disponibilizados para o efeito, quando estejam preenchidos os seguintes requisitos:
+
+a) Tenha completado 14 anos de idade; e
+
+b) Se autentique de forma segura no portal único de serviços, através de cartão de cidadão ou de Chave Móvel Digital ou, quando careça de representação para o ato, o seu representante se autentique dessa forma;
+
+c) O cartão de cidadão a renovar se encontre dentro do prazo de validade ou tenha caducado até 30 dias após esta data, no momento do pedido;
+
+d) Tenha nacionalidade portuguesa; e
+
+e) Efetue, quando necessária, a recolha dos elementos biométricos na aplicação disponibilizada para o efeito pela AMA ou equipamentos self-service disponibilizados para o efeito.
+
+4 - O pedido de renovação de cartão de cidadão pode ainda ser apresentado mediante pagamento de referência bancária remetida oficiosamente com os respetivos códigos de ativação para a morada indicada nos termos do n.º 2 do artigo 13.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, na sua redação atual, quando estejam preenchidos os seguintes requisitos:
 
 a) O cartão de cidadão a renovar se encontre dentro do prazo de validade;
 
@@ -163,15 +227,17 @@ b) Os serviços competentes disponham de impressões digitais do titular relativ
 
 c) O titular do cartão de cidadão tenha nacionalidade portuguesa;
 
-d) O titular do cartão de cidadão tenha completado 25 anos;
+d) O titular do cartão de cidadão tenha completado 25 anos; e
 
 e) Sendo o titular do cartão de cidadão maior acompanhado, não careça de representação para o ato.
 
-4 - Nas renovações previstas nos n.os 1 e 2 do presente artigo podem ser alterados os dados relativos aos apelidos e morada do titular do cartão de cidadão.
+5 - Nas renovações previstas nos n.os 1 e 2 do presente artigo podem ser alterados os dados relativos aos apelidos e morada do titular do cartão de cidadão.
 
-5 - Na renovação prevista no n.º 3 do presente artigo não pode ocorrer qualquer alteração de dados do titular do cartão de cidadão.
+6 - Na renovação prevista no n.º 4 do presente artigo não pode ocorrer qualquer alteração de dados do titular do cartão de cidadão.
 
-> Alterado pelo/a [Portaria n.º 312-B/2022](https://diariodarepublica.pt/dr/detalhe/portaria/312-b-2022-205509977), publicado em 2022-12-30.
+7 - Nas renovações previstas no n.º 3 podem ser alterados os dados relativos aos apelidos e morada e os dados biométricos do titular do cartão de cidadão.
+
+> Alterado pelo/a [Portaria n.º 126/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), publicado em 2024-04-01.
 
 ###### Artigo 7.º-A — Limite de renovações com reutilização de dados
 
@@ -259,6 +325,18 @@ e) A recolha de informação complementar, para efeitos de identificação do in
 
 > Aditado pelo/a [Portaria n.º 312-B/2022](https://diariodarepublica.pt/dr/detalhe/portaria/312-b-2022-205509977), publicado em 2022-12-30.
 
+###### Artigo 7.º-F — Validade e substituição de certificados
+
+1 - O prazo de validade dos certificados de autenticação e de assinatura do cartão de cidadão é idêntico ao do cartão de cidadão.
+
+2 - Caso se verifique que a segurança dos algoritmos criptográficos, a dimensão das chaves ou dos certificados usados para a emissão dos certificados indicados no n.º 1, se encontrem comprometidos, o titular do cartão pode solicitar a sua substituição ou renovação sem necessidade de cancelamento do cartão, nem emissão de novo cartão de cidadão.
+
+3 - Para a realização do processo de substituição de certificados é obrigatório recorrer a mecanismos de autenticação segura, de modo a garantir a transmissão segura de informação.
+
+4 - Os novos certificados são emitidos com a mesma validade dos que forem substituídos.
+
+> Aditado pelo/a [Portaria n.º 126/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), publicado em 2024-04-01.
+
 #### Secção IV — Cancelamento do cartão de cidadão
 
 ###### Artigo 8.º — Cancelamento do cartão de cidadão por via eletrónica
@@ -345,7 +423,7 @@ b) Da escrita cifrada da outra parte do PUK em sistema de informação responsá
 
 2 - A cifra do código PUK é feita com chave simétrica específica.
 
-3 - O acesso à parte do PUK cifrada referida na alínea a) do n.º 1 é efetuado mediante a utilização da funcionalidade de validação da impressão digital (match-on-card) presencialmente junto dos serviços de receção a que aludem os n.os 2 e 7 do artigo 20.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, alterada pelas [Leis n.º 91/2015](https://diariodarepublica.pt/dr/detalhe/lei/91-2015-69992903), de 12 de agosto e [32/2017](https://diariodarepublica.pt/dr/detalhe/lei/32-2017-107114304), de 1 de junho.
+3 - O acesso à parte do PUK cifrada referida na alínea a) do n.º 1 é efetuado mediante a utilização da funcionalidade de validação da impressão digital (match-on-card) presencialmente junto dos serviços de receção a que aludem os n.os2 e 7 do artigo 20.º da [Lei n.º 7/2007](https://diariodarepublica.pt/dr/detalhe/lei/7-2007-518073), de 5 de fevereiro, na sua redação atual.
 
 4 - A decifra da informação referente ao PUK prevista no n.º 1 é feita através da chave simétrica indicada no n.º 2.
 
@@ -356,6 +434,8 @@ b) Da escrita cifrada da outra parte do PUK em sistema de informação responsá
 7 - Após a decifra do código PUK prevista nos n.os 3, 4 e 6, o cidadão define novos códigos PIN.
 
 8 - O sistema responsável pela conservação e desbloqueio eletrónico do código PUK é obrigatoriamente submetido a processo de acreditação autónomo à entidade supervisora nacional, referida no [Regulamento (UE) n.º 910/2014](https://data.europa.eu/eli/reg/2014/910/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de julho de 2014, relativo à identificação eletrónica e aos serviços de confiança para as transações eletrónicas no mercado interno.
+
+> Alterado pelo/a [Portaria n.º 126/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), publicado em 2024-04-01.
 
 ###### Artigo 12.º — Norma revogatória
 
@@ -373,11 +453,11 @@ b) Da escrita cifrada da outra parte do PUK em sistema de informação responsá
 
 A Ministra da Presidência e da Modernização Administrativa, Maria Manuel de Lemos Leitão Marques, em 26 de setembro de 2017. - A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem, em 25 de setembro de 2017.
 
-## ANEXO I — Regras técnicas e de interoperabilidade CC
+## ANEXO I — Normas técnicas de armazenamento, acesso, leitura, segurança e interoperabilidade suportadas pelas interfaces do cartão de cidadão
 
-Elementos de segurança física e de interoperabilidade que compõem o cartão de cidadão
+(Revogado.)
 
-1 - Referências para verificação dos requisitos. - Além do respeito pelas normas jurídicas aplicáveis, o Cartão de Cidadão deve observar os parâmetros e critérios constantes das normas técnicas internacionalmente aceites como melhores técnicas disponíveis, nomeadamente:
+1 - Para além do respeito pelas normas jurídicas aplicáveis, e sem prejuízo das especiais medidas de segurança aplicáveis, o cartão de cidadão deve observar os parâmetros e critérios constantes das normas técnicas internacionalmente aceites como melhores técnicas disponíveis, nomeadamente:
 
 a) ISO 7810;
 
@@ -389,10 +469,18 @@ d) ISO 10373;
 
 e) ICAO 9303;
 
-2 - Referências para verificação dos requisitos. - Além do respeito pelas normas jurídicas aplicáveis, o Cartão de Cidadão Provisório deve observar os parâmetros e critérios constantes das normas técnicas internacionalmente aceites como melhores técnicas disponíveis, nomeadamente:
+f) ISO 14443;
+
+g) [Regulamento (UE) 2019/1157](https://data.europa.eu/eli/reg/2019/1157/oj?locale=pt) do Parlamento Europeu e do Conselho, de 20 de junho de 2019, que visa reforçar a segurança dos bilhetes de identidade dos cidadãos da União e dos títulos de residência emitidos aos cidadãos da União e seus familiares que exercem o direito à livre circulação.
+
+2 - Para além do respeito pelas normas jurídicas aplicáveis, o cartão de cidadão provisório deve observar os parâmetros e critérios constantes das normas técnicas internacionalmente aceites como melhores técnicas disponíveis, nomeadamente:
 
 a) ISO 7810;
 
 b) ISO 10373;
 
 c) ICAO 9303.
+
+d) [Regulamento (UE) 2019/1157](https://data.europa.eu/eli/reg/2019/1157/oj?locale=pt) do Parlamento Europeu e do Conselho, de 20 de junho de 2019, que visa reforçar a segurança dos bilhetes de identidade dos cidadãos da União e dos títulos de residência emitidos aos cidadãos da União e seus familiares que exercem o direito à livre circulação.
+
+> Alterado pelo/a [Portaria n.º 126/2024/1](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), publicado em 2024-04-01.

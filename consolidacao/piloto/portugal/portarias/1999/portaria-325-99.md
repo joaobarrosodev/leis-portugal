@@ -52,6 +52,8 @@ Escola Superior de Tecnologia e Gestão
 
 Curso de Design de Comunicação
 
+> Alterado pelo/a [Portaria n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/portaria/126-2003-200420), publicado em 2003-02-05.
+
 1.º ciclo
 
 Grau de bacharel
@@ -73,6 +75,8 @@ QUADRO N.º 3
 3.º ano
 
 [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07320733.pdf)
+
+> Alterado pelo/a [Portaria n.º 126/2003](https://diariodarepublica.pt/dr/detalhe/portaria/126-2003-200420), publicado em 2003-02-05.
 
 2.º ciclo
 

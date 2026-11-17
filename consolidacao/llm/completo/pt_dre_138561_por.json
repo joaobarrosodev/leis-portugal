@@ -9,15 +9,24 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Anexo da portaria (n.os 1 e 2, tabelas de comissões e de spread de CDS) alterado pelos alteradores 1 e 2: o anexo não consta do texto atual por artigos e as tabelas só vêm em imagem ('ver documento original').",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO",
+      "texto": "1 - O valor das comissões para emissões denominadas em euros é fixado de acordo com a seguinte tabela:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06200/0147801479.pdf)\n\n2 - O spread do credit default swap relevante a que se refere o número anterior é calculado de acordo com a seguinte tabela:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06200/0147801479.pdf)\n\n3 - Para efeitos do cálculo do spread do credit default swap relevante a que se refere a alínea a) do número anterior, cabe ao Banco de Portugal determinar se a instituição de crédito em questão dispõe de informação de credit default swap representativa.\n\n4 - Para efeitos do cálculo do spread do credit default swap relevante a que se refere a alínea b) do n.º 2, pode o Banco de Portugal, após avaliação fundamentada e se necessário, adaptar o valor do spread do credit default swap relevante.\n\n5 - O valor da comissão para títulos denominados em moeda distinta do euro considera o procedimento de cálculo previsto nos números anteriores, ao qual será acrescido um custo associado ao risco cambial.",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "As tabelas dos n.os 1 e 2 do anexo (Portaria 946/2010 e Portaria 80/2012) só vêm em imagem no Diário da República: no corpo do anexo ficou a ligação '(ver documento original)' para o PDF da Portaria 80/2012, tal como vem no alterador; o conteúdo das tabelas não se pode transcrever.",
   "instrucoes": [
-    "Alterador 1, art. 2.º: nova redação do n.º 1 do art. 2.º (prazo máximo de três anos, sem 'denominada em euros'); substituída depois pelo alterador 2.",
-    "Alterador 1, art. 2.º: n.º 1 e n.º 5 do anexo; não aplicado (anexo fora do texto atual, tabela em imagem).",
-    "Alterador 1, art. 3.º: aditamento do art. 7.º-A; já consta do texto atual igual, sem alteração.",
-    "Alterador 2, art. 2.º: nova redação dos n.os 1 e 2 do art. 2.º (cinco anos; até sete anos para obrigações hipotecárias); n.º 3 mantém-se; aplicado.",
-    "Alterador 2, art. 2.º: nova redação do Anexo (n.os 1 e 2, tabelas em imagem); não aplicado."
+    "Alterador 1, art. 2.º: nova redação do n.º 1 do art. 2.º (sem 'denominada em euros'), n.os 2 e 3 mantidos; substituída depois pelo alterador 2.",
+    "Alterador 1, art. 2.º: nova redação do n.º 1 do anexo (comissões para emissões em euros, tabela em imagem) e n.º 5 novo do anexo (títulos em moeda distinta do euro); n.os 2 a 4 mantidos. Aplicado.",
+    "Alterador 1, art. 3.º: aditamento do art. 7.º-A; o texto atual (já alterado por um programa) é igual ao do alterador, nada a mudar.",
+    "Alterador 2, art. 2.º: nova redação dos n.os 1 e 2 do art. 2.º (prazo de cinco anos, até sete anos para obrigações hipotecárias); n.º 3 mantido. Aplicado.",
+    "Alterador 2, art. 2.º: nova redação do anexo: n.º 1 e n.º 2 com as novas tabelas (em imagem, ligação para o PDF de 2012), n.os 3, 4 e 5 mantidos (o 5 com a redação do alterador 1). Aplicado no corpo do anexo."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

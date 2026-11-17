@@ -1703,7 +1703,7 @@
       "chave": "284.º",
       "epigrafe": "(Organização dos verbetes do índice real)",
       "texto": "(Revogado.)",
-      "alterador": 1
+      "alterador": 3
     },
     {
       "chave": "285.º",
@@ -1726,33 +1726,23 @@
     {
       "chave": "288.º",
       "epigrafe": "(Informações que as secções de finanças devem prestar)",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nMinistério da Justiça, 28 de Março de 1967. - O Ministro da Justiça, João de Matos Antunes Varela.\n\nTABELA DOS EMOLUMENTOS DO REGISTO PREDIAL\n\n###### ARTIGO 1.º\n\n(Revogado.)\n\n###### ARTIGO 2.º\n\n(Revogado.)\n\n###### ARTIGO 3.º\n\n(Revogado.)\n\n###### ARTIGO 4.º\n\n(Revogado.)\n\n###### ARTIGO 5.º\n\n(Revogado.)\n\n###### ARTIGO 6.º\n\n(Revogado.)\n\n###### ARTIGO 7.º\n\n(Revogado.)\n\n###### ARTIGO 8.º\n\n(Revogado.)\n\n###### ARTIGO 9.º\n\n(Revogado.)\n\n###### ARTIGO 10.º\n\n(Revogado.)\n\n###### ARTIGO 11.º\n\n(Revogado.)\n\n###### ARTIGO 12.º\n\n(Revogado.)\n\n###### ARTIGO 13.º\n\n(Revogado.)\n\n###### ARTIGO 14.º\n\n(Revogado.)\n\n###### ARTIGO 15.º\n\n(Revogado.)\n\n###### ARTIGO 16.º\n\n(Revogado.)\n\n###### ARTIGO 17.º\n\n(Revogado.)\n\n###### ARTIGO 18.º\n\n(Revogado.)\n\n###### ARTIGO 19.º\n\n(Revogado.)\n\n###### ARTIGO 20.º\n\n(Revogado.)\n\n###### ARTIGO 21.º\n\n(Revogado.)\n\nMinistério da Justiça, 28 de Março de 1967. - O Ministro da Justiça, João de Matos Antunes Varela.",
       "alterador": 3
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": null,
+  "anexos": [],
+  "nao_aplicavel": "O texto da nova Tabela de Emolumentos do Registo Predial anexa ao Decreto-Lei n.º 31/78 (que pelo artigo 1.º substitui a tabela) e as novas redacções dos artigos 10.º, 12.º e 19.º da tabela dadas pelo artigo 3.º do Decreto-Lei n.º 49053 não se transcrevem: a tabela, anexa ao Código, fica revogada com ele pelo artigo 9.º do Decreto-Lei n.º 224/84 («os Códigos aprovados pelo Decreto-Lei n.º 47611 … com as subsequentes alterações»), e por isso os 21 artigos da tabela do texto atual vão como «(Revogado.)» dentro do corpo do artigo 288.º, onde a tabela vem no texto atual (não têm chave própria). As alterações do Decreto-Lei n.º 49053 aos artigos do Código ficam sem efeito visível porque todos os artigos são revogados; só as epígrafes novas que ele dá (34.º, 45.º, 46.º, 47.º, 48.º, 52.º, 152.º, 168.º, 191.º, 271.º) ficam aplicadas. Os artigos 2.º e 4.º do Decreto-Lei n.º 49053 e 2.º e 3.º do Decreto-Lei n.º 31/78 são normas próprias e não alteram o original; as outras tabelas do Decreto-Lei n.º 31/78 (registo civil, comercial, automóveis, notariado) não são do original.",
   "instrucoes": [
-    "Alterador 1 (DL 49053), art. 1.º: nova redação dos artigos 29.º, 34.º, 38.º, 45.º, 46.º (passa a ser o antigo 47.º), 47.º (antigo 48.º), 48.º, 52.º, 54.º, 58.º, 78.º, 93.º, 149.º, 152.º, 158.º, 168.º, 181.º, 191.º, 200.º, 201.º, 262.º, 266.º, 267.º, 271.º e 272.º: aplicadas em sequência, mas ficam sem efeito no texto final porque o alterador 3 revoga todo o Código; mantêm-se as epígrafes novas.",
-    "Alterador 1, art. 3.º: nova redação dos artigos 10.º, 12.º e 19.º da tabela de emolumentos (texto que vem depois do artigo 288.º): fica coberta pela revogação.",
-    "Alterador 1, art. 5.º: revoga o artigo 284.º: (Revogado.).",
-    "Alterador 2 (DL 31/78), art. 1.º: substitui a Tabela de Emolumentos do Registo Predial pela tabela anexa; a tabela não tem artigos com chave no texto atual e fica coberta pela revogação.",
-    "Alterador 3 (DL 224/84), art. 9.º: revoga expressamente o Código aprovado pelo DL 47611, com as alterações posteriores: os 288 artigos ficam (Revogado.); os títulos de divisão não mudam."
+    "DL 49053, art. 1.º: nova redacção dos artigos 29.º, 34.º, 38.º, 45.º, 46.º, 47.º, 48.º, 52.º, 54.º, 58.º, 78.º, 93.º, 149.º, 152.º, 158.º, 168.º, 181.º, 191.º, 200.º, 201.º, 262.º, 266.º, 267.º, 271.º e 272.º — substituída pela revogação de todo o Código (DL 224/84); ficam as epígrafes novas dos artigos 34.º, 45.º, 48.º, 52.º, 152.º, 168.º, 191.º e 271.º, e as dos 46.º e 47.º, que passam a ser os actuais 47.º e 48.º.",
+    "DL 49053, art. 3.º: nova redacção dos artigos 10.º, 12.º e 19.º da tabela de emolumentos — sem efeito final (tabela substituída pelo DL 31/78 e revogada com o Código pelo DL 224/84).",
+    "DL 49053, art. 5.º: revogado o artigo 284.º — aplicado (fica também revogado pelo DL 224/84).",
+    "DL 31/78, art. 1.º: a Tabela de Emolumentos do Registo Predial é substituída pela tabela anexa a esse diploma — sem efeito final no texto do original, porque a tabela anexa ao Código fica revogada pelo DL 224/84 (ver nao_aplicavel).",
+    "DL 224/84, art. 9.º: revogado o Código aprovado pelo DL 47611, com as subsequentes alterações — aplicado: artigos 1.º a 288.º com o corpo «(Revogado.)», um elemento por artigo; no corpo do 288.º mantêm-se as assinaturas e o título da tabela, e os 21 artigos da tabela ficam «(Revogado.)». Reparo do verificador (artigos da tabela omitidos em vez de revogados) confirmado e corrigido; os títulos de divisão ficam, porque nenhuma instrução os elimina."
   ],
-  "modelo": "claude-fable-5-1",
+  "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "passagens": [
-    {
-      "n": 1,
-      "alteradores": [
-        1,
-        2,
-        3
-      ],
-      "chars": 228381,
-      "artigos": 288
-    }
-  ],
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

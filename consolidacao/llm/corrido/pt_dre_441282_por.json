@@ -27,14 +27,17 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alt. 1, n.º 1.º-1, e alt. 3, n.º 1.º-1: mudança da designação dos graus (Engenharia Civil - ramo de Produção para Engenharia Civil; Engenharia Metalomecânica para Engenharia Mecânica) sem instrução textual sobre outras unidades (ex.: n.º 1.º, n.º 2.º, alínea a) Civil, organizado no ramo de Produção). Alt. 2 (Portaria 431/89): cria a licenciatura em Engenharia de Produção e extingue o ramo de Metalomecânica sem alterar o texto do original.",
+  "nao_aplicavel": "Portaria 557/88 (alterador 1), 1.º n.º 1, e Portaria 440/89 (alteradores 3 e 4), 1.º n.º 1: mudam a designação do grau (Engenharia Civil - ramo de Produção passa a Engenharia Civil; Engenharia Metalomecânica passa a Engenharia Mecânica) sem dar nova redacção a nenhuma unidade; não se infere a alteração do 1.º n.º 1 a) nem do 2.º 2) a) do original. Só se aplicou a nova redacção expressa da alínea b) do n.º 2.º e dos anexos II e III. Portaria 431/89 (alterador 2), 8.º: extinção progressiva do ramo de Metalomecânica da licenciatura em Engenharia de Produção, sem instrução textual (e de efeito diferido, um ano curricular por ano lectivo); não se altera o 2.º 2) c) I) nem o anexo IV. Os restantes números da Portaria 431/89 criam um curso novo de forma autónoma, sem aditamento ao texto do original.",
   "instrucoes": [
-    "Alt. 1 (Portaria 557/88), n.º 1.º-2: aditado o n.º 4.º-A (Disciplinas de opção) a seguir ao n.º 4.º.",
-    "Alt. 1, n.º 2.º: anexo II substituído pelo anexo da portaria (título passa a Licenciatura em Engenharia Civil).",
-    "Alt. 1, n.º 1.º-1: mudança de designação do grau, não textual: não aplicada.",
-    "Alt. 2 (Portaria 431/89): diploma autónomo; extinção do ramo de Metalomecânica sem instrução textual: não aplicado.",
-    "Alt. 3 (Portaria 440/89), n.º 1.º-2: alínea b) do n.º 2.º passa a b) Mecânica.; n.º 1.º-3: anexo III substituído (título passa a Licenciatura em Engenharia Mecânica).",
-    "Alt. 4: repetição da Portaria 440/89, igual ao alt. 3: nada de novo."
+    "Alterador 1 (Portaria 557/88), 1.º n.º 1: mudança de designação do grau, sem redacção textual; em nao_aplicavel.",
+    "Alterador 1, 1.º n.º 2: aditado o n.º 4.º-A (Disciplinas de opção); inserido depois da unidade 49, no fim do n.º 4.º, com a epígrafe tal como vem no alterador.",
+    "Alterador 1, 2.º: o anexo II passa a ter a redacção do anexo da portaria; substituídas as unidades 92 a 116, com o título do anexo trocado para 'Licenciatura em Engenharia Civil'.",
+    "Alterador 1, 3.º: regime de transição; não altera o texto.",
+    "Alterador 2 (Portaria 431/89): cria a licenciatura em Engenharia de Produção de forma autónoma; o 8.º extingue progressivamente o ramo de Metalomecânica, sem instrução textual; em nao_aplicavel.",
+    "Alterador 3 (Portaria 440/89), 1.º n.º 1: mudança de designação do grau, sem redacção textual; em nao_aplicavel.",
+    "Alterador 3, 1.º n.º 2: nova redacção da alínea b) do n.º 2.º; substituída a unidade 25 por 'b) Mecânica.'.",
+    "Alterador 3, 1.º n.º 3: o anexo III passa a ter a redacção do anexo da portaria; substituídas as unidades 117 a 140, com o título trocado para 'Licenciatura em Engenharia Mecânica'.",
+    "Alterador 4: repetição integral da Portaria 440/89 (alterador 3); as mesmas mudanças, já aplicadas, sem nada de novo."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

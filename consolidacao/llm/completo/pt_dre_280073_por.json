@@ -22,13 +22,16 @@
   ],
   "removidos": [],
   "titulos": [],
+  "anexos": [],
   "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 (Portaria 532/78): nova redação do artigo 19.º — aplicada e depois alterada pelo alterador 3",
-    "Alterador 2 (Portaria 710/78): nova redação do artigo 3.º (cita 'Portaria n.º 971/77', gralha evidente pela data e designação das normas) — aplicada, epígrafe mantida",
-    "Alterador 3 (Portaria 555/79): nova redação do artigo 6.º — aplicada; nova redação da alínea b) do n.º 1 do artigo 19.º, com '...' no resto — aplicada sobre a redação do alterador 1"
+    "Alterador 1 (Portaria 532/78): nova redação do artigo 19.º (n.º 1 com alíneas a) a c) e n.º 2 sobre a redução pelo ajudante general do Exército). Aplicado e depois alterado pelo alterador 3.",
+    "Alterador 2 (Portaria 710/78): nova redação do artigo 3.º (n.os 1 a 4; o pessoal docente passa a n.º 3 próprio). A portaria cita 'Portaria n.º 971/77, de 28 de Dezembro', gralha evidente para 791/77 (mesmas normas provisórias, mesma data); aplicado.",
+    "Alterador 3 (Portaria 555/79): nova redação do artigo 6.º (n.os 1 a 3) e da alínea b) do n.º 1 do artigo 19.º; a), c) e n.º 2 com '...' ficam com o texto dado pelo alterador 1.",
+    "Reparo do verificador sobre o n.º 2 do artigo 19.º: não confirmado como erro; o texto está letra a letra no alterador 1 (Portaria 532/78), que o alterador 3 mantém com '2 - ...'."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

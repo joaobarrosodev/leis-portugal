@@ -249,12 +249,12 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Limites da Reserva Natural
 
-Norte: o Caminho dos Canteiros, entre o rio Almonda e a Vala Real, e o seu prolongamento para oeste, desde o caminho de ferro; a Vala do Canto do Doutor e o seu prolongamento, denominado «Vala do Pé da Galinha», pela sua margem direita, entre a Vala Real e o Casão Pereira.
+(Revogado.)
 
-Leste: a margem esquerda da Vala da Pereira para sul até ao ponto donde parte um caminho à esquerda; este caminho até ao ponto em que se junta à Vala do Valadão; uma linha para sul, unindo este ponto ao ponto em que um caminho que parte da estrada nacional n.º 365, a norte do cruzamento com o rio Almonda, flecte para este; este caminho até a estrada nacional n.º 365.
-
-Sul: a estrada nacional n.º 365, desde a bifurcação do caminho atrás referido até à Quinta da Broa, na margem direita do rio Almonda; o caminho que, partindo desta Quinta, vai até a Quinta de Miranda e o seu prolongamento para noroeste até ao caminho de ferro.
-
-Oeste: o caminho de ferro, para norte, desde a antiga passagem de nível até a um ponto situado no enfiamento do Caminho dos Canteiros.
+> Alterado pelo/a [Decreto Regulamentar n.º 2/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2005-579534), publicado em 2005-03-23.
 
 ## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/269b00/63076311.pdf)
+
+(Revogado.)
+
+> Alterado pelo/a [Decreto Regulamentar n.º 2/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2005-579534), publicado em 2005-03-23.

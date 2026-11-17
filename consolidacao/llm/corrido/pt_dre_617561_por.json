@@ -6,6 +6,12 @@
       "ate": 6,
       "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Manique do Intendente e Vila Nova de São Pedro, município da Azambuja, com uma área de 1082,8512 ha.",
       "alterador": 3
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 2
     }
   ],
   "insercoes": [
@@ -15,14 +21,14 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alt. 2, 2.º: diz que o n.º 6.º passa a obrigar a manter apenas um guarda florestal auxiliar, mas não dá nova redação ao n.º 6.º (unidade 12 mantida). Alt. 4 (renovação por 12 anos, área de 1359 ha) e alt. 5 (artigo único que redefine os prédios da zona, 1356 ha) não alteram o texto do original.",
+  "nao_aplicavel": "Portaria n.º 634/2004 (alterador 4): renova a concessão por 12 anos com a área de 1359 ha, e Portaria n.º 819/2009 (alterador 5, artigo único): a zona passa a englobar os prédios da nova planta, com a área de 1356 ha; nenhuma dá nova redacção ao n.º 1.º nem a outro número do original, não são alterações textuais e ficam por aplicar.",
   "instrucoes": [
-    "Alt. 1: nova redação do n.º 1.º (2080 ha) - unidade 6, depois substituída de novo.",
-    "Alt. 2, 1.º: nova redação do n.º 1.º (1356 ha) - unidade 6, depois substituída de novo.",
-    "Alt. 2, 1.º: aditado n.º 1.º-A - inserido depois da unidade 6.",
-    "Alt. 2, 2.º: redução do número de guardas no n.º 6.º sem nova redação - não aplicado.",
-    "Alt. 3, 1.º: nova redação do n.º 1.º (1082,8512 ha) - substituída a unidade 6 com o texto final.",
-    "Alt. 4 e 5: renovação e correção da área/planta, não textuais - não aplicados."
+    "Alterador 1 (Portaria 273/95): nova redacção do n.º 1.º (2080 ha), unidade 6; substituída depois pelos alteradores 2 e 3. A substituição da planta não é textual.",
+    "Alterador 2 (Portaria 620/97), 1.º: nova redacção do n.º 1.º (1356 ha), substituída depois pelo alterador 3.",
+    "Alterador 2, 1.º: aditado o n.º 1.º-A (inserção depois da unidade 6).",
+    "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter um guarda florestal auxiliar dotado de meio de transporte; trocada a frase na unidade 12 com o texto letra a letra do alterador (reparo confirmado).",
+    "Alterador 3 (Portaria 4/2001): nova redacção do n.º 1.º (1082,8512 ha); é o texto final da unidade 6.",
+    "Alteradores 4 e 5: renovação e correcção da área sem redacção nova; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

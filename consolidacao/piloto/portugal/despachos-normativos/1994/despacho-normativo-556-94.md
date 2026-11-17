@@ -360,6 +360,8 @@ d) Sempre que se julgue imprescindível uma apreciação final conjunta, deve ta
 
 2 - No final de cada ano, deverá o promotor das acções referidas no número anterior submeter à DGI o relatório de execução das acções inicialmente aprovadas, bem como o plano de desenvolvimento para o ano seguinte, quando aplicável, cabendo ainda àquele organismo a decisão sobre a continuação do apoio ou propor eventuais ajustamentos.
 
+Ministério da Indústria e Energia, 11 de Julho de 1994. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
+
 > Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ###### Artigo 14.º — Candidaturas pendentes
@@ -386,7 +388,9 @@ IV - Análise da utilização do potencial da infra-estrutura tecnológica.
 
 V - Opções estratégicas.
 
-Nota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia.
+Nota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se o diagnóstico segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ## ANEXO B — Estrutura a que deverá presidir a elaboração do projecto de consolidação prevista na alínea b) do n.º 4 do artigo 6.º
 
@@ -396,7 +400,9 @@ II - Pressupostos básicos para a elaboração do projecto de consolidação.
 
 III - Acções preconizadas para o projecto de consolidação.
 
-Nota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia.
+Nota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ## ANEXO C — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea a) do n.º 5 do artigo 6.º
 
@@ -408,11 +414,13 @@ III - Acções preconizadas.
 
 IV - Articulação com outras acções no âmbito do PEDIP II e de outros programas comunitários.
 
-Nota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia.
+Nota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.
 
 ## ANEXO D — Estrutura a que deverá presidir a elaboração do projecto de investimento prevista na alínea a) do n.º 6 do artigo 6.º
 
-I - Caracterização do projecto.
+I - Caracterização sucinta do projecto.
 
 II - Justificação da necessidade de realização do projecto.
 
@@ -420,4 +428,6 @@ III - Acções preconizadas.
 
 IV - Articulação com outras acções no âmbito do PEDIP II e de outros programas comunitários.
 
-Nota. - O projecto deverá ser acompanhado dos correspondentes anexos técnicos e da documentação constante de listagem homologada pelo Ministro da Indústria e Energia.
+Nota. - O projecto deverá ser acompanhado dos correspondentes formulários de candidatura e anexos técnicos normalizados, apresentando-se segundo a respectiva estrutura indicativa, elementos a fornecer pelo organismo gestor do regime de apoio.
+
+> Alterado pelo/a [Despacho Normativo n.º 42/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1998-471158), publicado em 1998-06-12.

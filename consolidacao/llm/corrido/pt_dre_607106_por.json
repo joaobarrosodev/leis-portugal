@@ -9,12 +9,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 3 alarga o âmbito da intervenção do n.º 4 do anexo à cortiça e aos sobreiros sem dar nova redação ao texto (alteração não textual).",
+  "nao_aplicavel": "RCM 8/2004 (alterador 3): alarga o âmbito da intervenção do n.º 4 do anexo à cortiça e aos sobreiros afetados, sem dar nova redação ao n.º 4; não é alteração textual, o n.º 4 fica igual.",
   "instrucoes": [
-    "Alt. 1: nova redação do n.º 1 (acrescenta Faro) - aplicada, depois substituída pela do alt. 2",
-    "Alt. 2: nova redação do n.º 1 (acrescenta Lisboa e Beja) - unidade 8 substituída",
-    "Alt. 3: alarga o n.º 4 do anexo à cortiça e sobreiros - não textual, não aplicado",
-    "Alt. 4: altera o Despacho Normativo n.º 39/2003, não o original - ignorado"
+    "RCM 123/2003 (alterador 1): nova redação do n.º 1 (acrescenta Faro); depois substituída pela RCM 161/2003.",
+    "RCM 161/2003 (alterador 2): nova redação do n.º 1 (Faro, Lisboa e Beja); unidade 8 substituída por esta redação final.",
+    "RCM 8/2004 (alterador 3): alargamento não textual do n.º 4 do anexo (ver nao_aplicavel); reparo confirmado.",
+    "Despacho Normativo 27/2004 (alterador 4): altera o Despacho Normativo n.º 39/2003, outro diploma; ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

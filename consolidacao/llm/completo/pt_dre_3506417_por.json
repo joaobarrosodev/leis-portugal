@@ -144,17 +144,28 @@
     "ANEXO N.º 2 — Regulamento da Linha de Apoio II - Eventos para a Projecção do Destino Portugal do Programa de Intervenção Turística::18.º",
     "ANEXO N.º 2 — Regulamento da Linha de Apoio II - Eventos para a Projecção do Destino Portugal do Programa de Intervenção Turística::19.º"
   ],
-  "nao_aplicavel": "Alterador 2 (DN 49/2008), n.º 2: nova redação do quadro anexo do Regulamento da Linha de Apoio I (Pólos turísticos), que só vem em imagem e não está no texto atual; não aplicado. A tabela de taxas do n.º 1 do art. 10.º da Linha I (alterador 3) também só vem em imagem; copiou-se apenas a ligação tal como consta do alterador.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — Pólos turísticos",
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/2s/2008/09/185000000/4017940180.pdf)",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "O novo quadro do Anexo — Pólos turísticos (DN 49/2008, n.º 2) e o novo quadro de taxas do n.º 1 do artigo 10.º da Linha I (DN 30/2009) só vêm em imagem: copiou-se a ligação ao documento, sem o conteúdo dos quadros. Não são alterações textuais do original: as dotações orçamentais (DN 9/2008 n.º 1, DN 49/2008 n.º 1, DN 30/2009 n.º 2, DN 15/2010 n.os 2 e 4), a prorrogação e vigência gerais (DN 30/2009 n.º 1, DN 15/2010 n.º 3, concretizadas pelas alterações aos artigos 1.º), a criação da Linha III com regulamento anexo ao próprio DN 15/2010 (n.º 1) e a suspensão do prazo de candidaturas da Linha II (DN 13/2011).",
   "instrucoes": [
-    "Alterador 1 (DN 9/2008), n.º 2: adita n.º 4 ao art. 8.º da Linha II; absorvido pela revogação final da Linha II (alterador 6).",
-    "Alterador 2 (DN 49/2008): n.º 2 altera o quadro anexo da Linha I (imagem; não aplicado); n.º 3 adita n.º 5 ao art. 3.º da Linha I (aplicado; a epígrafe 'Candidaturas' do texto alterador não foi tomada como mudança de epígrafe); n.º 4 adita n.º 5 ao art. 8.º e n.º 5 altera o n.º 1 do art. 12.º da Linha II (absorvidos pela revogação final).",
-    "Alterador 3 (DN 30/2009), n.º 3: revoga o art. 21.º da Linha I e altera os arts. 1.º (2010), 6.º (adita n.º 3), 9.º e 10.º (n.os 1 e 2 novos; n.os 3 e 4 mantidos, usando como n.º 3 o número 'O montante dos incentivos...' e descartando a repetição corrompida do n.º 2) da Linha I; aplicado.",
-    "Alterador 3, n.º 4: revoga os arts. 9.º e 19.º da Linha II e altera os arts. 1.º, 6.º, 8.º e 11.º (anterior 12.º); a renumeração indicada ('anterior 12.º') e confirmada pela republicação faz os antigos 10.º a 18.º passarem a 9.º a 17.º, deixando de existir as chaves 18.º e 19.º.",
-    "Alterador 4 (DN 15/2010): n.º 5 altera o n.º 2 do art. 1.º da Linha I (2012), aplicado; n.º 6 altera o art. 1.º da Linha II, absorvido pela revogação final; o Regulamento da Linha III é anexo do próprio alterador, não do original, e não foi aditado.",
-    "Alterador 5 (DN 13/2011): suspende o prazo de candidaturas da Linha II; não é alteração textual.",
-    "Alterador 6 (DN 14/2012): extingue a Linha II, revogando todas as disposições correspondentes; todos os artigos do Anexo n.º 2 (1.º a 17.º após renumeração) revogados."
+    "DN 9/2008 n.º 2: adita n.º 4 ao art. 8.º do Regulamento da Linha II — aplicado e depois substituído pelo DN 30/2009 e, por fim, revogado com toda a Linha II (DN 14/2012).",
+    "DN 49/2008 n.º 2: nova redacção do Anexo (Pólos turísticos) do Regulamento da Linha I — reparo confirmado: corpo do anexo substituído pelo texto do alterador (só a ligação à imagem do quadro de 2008).",
+    "DN 49/2008 n.º 3: adita n.º 5 ao art. 3.º da Linha I (a epígrafe «Candidaturas» da instrução é lapso; mantida a epígrafe atual «Enquadramento territorial»).",
+    "DN 49/2008 n.os 4 e 5: n.º 5 do art. 8.º e n.º 1 do art. 12.º da Linha II — aplicados e depois substituídos pelo DN 30/2009; tudo revogado pelo DN 14/2012.",
+    "DN 30/2009 n.º 3: revoga o art. 21.º da Linha I; altera arts. 1.º (2010, depois 2012 pelo DN 15/2010), 6.º (adita n.º 3), 9.º e 10.º (n.os 1 e 2 novos; n.os 3 e 4 mantidos — eliminado o parágrafo duplicado e truncado «3 - O montante - as taxas referidas...» que constava do texto atual, conforme a republicação).",
+    "DN 30/2009 n.º 4: revoga os arts. 9.º e 19.º da Linha II e altera 1.º, 6.º, 8.º e 11.º (anterior 12.º); a republicação (n.º 5) confirma a renumeração dos antigos 10.º a 18.º para 9.º a 17.º, pelo que as chaves 18.º e 19.º deixam de existir (removidos).",
+    "DN 15/2010 n.os 5 e 6: art. 1.º n.º 2 das Linhas I e II passa a 2012 — aplicado na Linha I; a Linha II fica revogada.",
+    "DN 13/2011: suspensão do prazo de candidaturas da Linha II — não textual.",
+    "DN 14/2012 n.º 1: extingue a Linha II, revogando todas as disposições correspondentes — todos os artigos do Regulamento da Linha II (1.º a 17.º após a renumeração) ficam «(Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

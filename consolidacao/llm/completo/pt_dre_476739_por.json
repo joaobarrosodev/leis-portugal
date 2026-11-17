@@ -345,15 +345,45 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 5 (DL 91/2015, art. 22.º, a)) mantém o n.º 1 do artigo 1.º apenas 'no que respeita à criação da REFER, E. P. E.': esta revogação parcial do resto do n.º 1 não é textual; o n.º 1 ficou com o texto atual inteiro.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — (a que se refere o n.º 1 do artigo 1.º)",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "titulo": "## ANEXO II — [a que se refere a alínea a) do artigo 4.º]",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "titulo": "## ANEXO III — (a que se refere o n.º 1 do artigo 12.º)",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "titulo": "## ANEXO IV — [a que se refere a alínea a) o n.º 2 do artigo 12.º]",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    },
+    {
+      "titulo": "## ANEXO V — [a que se refere a alínea b) do n.º 2 do artigo 12.º]",
+      "texto": "(Revogado.)",
+      "alterador": 5
+    }
+  ],
+  "nao_aplicavel": "DL 394-A/98, art. 6.º, n.º 4 (retirar do anexo V as menções à linha da Póvoa e à linha de Guimarães até Trofa): o corpo do anexo V só existe em imagem (\"ver documento original\"), não há texto onde retirar as menções; de resto, o anexo fica revogado pelo DL 91/2015. DL 91/2015, art. 22.º, a): a exceção do n.º 1 do artigo 1.º vale só «no que respeita à criação da REFER, E. P. E.» — revogação parcial dentro do número, sem texto que a separe: o n.º 1 fica inteiro. DL 474-A/99 (Lei Orgânica do XIV Governo) e DL 141/2008, art. 1.º (transformação em E. P. E.): sem instrução textual dirigida ao original.",
   "instrucoes": [
-    "Alterador 1 (DL 394-A/98, art. 6.º, n.º 3): adita n.º 5 ao art. 11.º — já consta do texto atual; n.º 4 (retirar menções do anexo V) incide sobre anexo que não está no texto; superado pela revogação. Restantes números alteram os Estatutos da CP: ignorados.",
-    "Alterador 2 (DL 474-A/99, Lei Orgânica do Governo): não contém instruções dirigidas ao original; nada aplicado.",
-    "Alterador 3 (DL 270/2003): art. 80.º, a) revoga art. 2.º n.º 3, arts. 7.º e 8.º; art. 81.º, n.os 4 e 5 alteram arts. 3.º e 19.º dos Estatutos (já constam do texto atual). Tudo superado pela revogação do alterador 5.",
-    "Alterador 4 (DL 141/2008): art. 2.º altera arts. 2.º, 5.º, 9.º, 13.º e 18.º; art. 3.º altera arts. 1.º, 2.º, 4.º, 5.º, 6.º, 10.º-13.º, 20.º, 26.º e 30.º dos Estatutos; art. 6.º republica. Só subsiste a alteração do n.º 1 do art. 5.º (aplicada); o resto é superado pela revogação.",
-    "Alterador 5 (DL 91/2015, art. 22.º, a)): revoga o DL 104/97 com exceção do n.º 1 do art. 1.º e do art. 5.º; arts. 2.º-4.º, 6.º-24.º e os arts. 1.º-33.º do anexo I ficam (Revogado.); n.º 2 do art. 1.º fica (Revogado.)."
+    "DL 394-A/98 (1), art. 6.º, n.º 3: adita o n.º 5 ao art. 11.º — já estava no texto atual; depois revogado pelo DL 91/2015.",
+    "DL 394-A/98 (1), art. 6.º, n.º 4: retirar menções do anexo V — não aplicável (imagem), ver nao_aplicavel; anexo revogado depois.",
+    "DL 474-A/99 (2): sem instrução dirigida ao original.",
+    "DL 270/2003 (3): revoga os arts. 2.º, n.º 3, 7.º e 8.º e altera a alínea a) do n.º 2 do art. 3.º e a alínea a) do art. 19.º dos Estatutos — absorvido pela revogação do DL 91/2015.",
+    "DL 141/2008 (4): nova redação dos arts. 2.º, 5.º, 9.º, 13.º e 18.º e dos arts. 1.º, 2.º, 4.º, 5.º, 6.º, 10.º a 13.º, 20.º, 26.º e 30.º dos Estatutos — só fica com efeito o n.º 1 do art. 5.º (mantido pelo DL 91/2015); o resto é absorvido pela revogação.",
+    "DL 91/2015 (5), art. 22.º, a): revoga o DL 104/97 e anexos, salvo o n.º 1 do art. 1.º e o art. 5.º — arts. 2.º a 4.º, 6.º a 24.º e os 33 artigos do anexo I «(Revogado.)», n.º 2 do art. 1.º revogado, corpos dos anexos I a V «(Revogado.)»."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

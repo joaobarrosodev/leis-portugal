@@ -9,11 +9,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1: a substituição da planta anexa não se aplica porque a planta só existe em imagem; alterador 2 (Portaria 718/97) revoga a concessão da zona de caça (ato administrativo, sem revogação expressa da portaria nem alteração textual), pelo que não se altera o texto.",
+  "nao_aplicavel": "Portaria 353/94: a planta que substitui a anexa só vem em imagem. Portaria 718/97: revoga a concessão da zona de caça associativa (acto sobre a concessão), sem revogar nem alterar o texto da portaria; não textual. A Portaria 887/94, que a Portaria 718/97 diz ter alterado o original, não vem no pedido.",
   "instrucoes": [
-    "Alterador 1 (Portaria 353/94): nova redação do n.º 1.º — substituída a unidade 6.",
-    "Alterador 1: substituição da planta anexa — não aplicada (imagem).",
-    "Alterador 2 (Portaria 718/97): revogação da concessão da zona de caça — não é alteração textual nem revogação expressa da portaria; não aplicada."
+    "Portaria 353/94: nova redação do n.º 1.º (unidade 6), município de Mogadouro e área de 1570 ha, copiada letra a letra; planta em imagem, não aplicável.",
+    "Portaria 718/97: revogação da concessão; reparo confirmado: não é revogação do texto, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

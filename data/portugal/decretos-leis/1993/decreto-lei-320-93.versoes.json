@@ -1,0 +1,902 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:655518:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d074cd6684aa49e4",
+    "7342f7b1dcac3873",
+    "9b567f893867b669",
+    "72c6864667c4ff54",
+    "396cfe66f6d1ddf2",
+    "3f5429b5bc86d88d",
+    "a42d8f9f48b1eb3f",
+    "27b9d82dfa7d7381",
+    "d8bdc2f03f92ab3e",
+    "8f40140fcb0deb11",
+    "30fdfa76a0057903",
+    "7ac984830ee98f89",
+    "94dcabae2ef6125a",
+    "ffdee0ee41c45935",
+    "10fafc7fd208c532",
+    "f0e77a061303b87d",
+    "286a7e9bf4b392b3",
+    "c9c726288b05b0c1",
+    "0693fa1f492b371b",
+    "cd352f4d98772d92",
+    "5a89aedf512f53b8",
+    "f379706e85f47356",
+    "f07aadf79dbd96ed",
+    "cdab4f0f8cd1a9a8",
+    "f22e8d76e8be97c7",
+    "d66caca51ed05929",
+    "8dbba5e9e4519427",
+    "388bacc84939dda4",
+    "7b228b57421de3dd",
+    "0c63e05c897164c2",
+    "b1a3343f2ff8443e",
+    "fae7808e2c5b3ccb",
+    "9f082a7105d7cdf0",
+    "d519adec59b5a8ba",
+    "c9270a913b64723c",
+    "260a9f4ecd4b5740",
+    "0653aa6c5f2d56df",
+    "c36f1136c3667f8b",
+    "e779e2e4f94fc9f2",
+    "0a7d092bc808148e",
+    "83fff4cbb6ab95df",
+    "9ca912fc44cde85b",
+    "def7c8af440cfdf5",
+    "9d668f6b49c6ba25",
+    "d2ea9b1c940b5f8e",
+    "da009dd2b44059ea"
+   ]
+  },
+  {
+   "date": "1997-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:382200:por",
+     "title": "Decreto Regulamentar n.º 12/97",
+     "published": "1997-05-02",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/12-1997-382200"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Altera Artigo ANEXO I — Estrutura remuneratória da carreira técnica de inspecção",
+    "Altera Artigo ANEXO II — Estrutura remuneratória da carreira de verificador",
+    "Altera Artigo ANEXO III — Conteúdos funcionais"
+   ],
+   "fragments": [
+    "d074cd6684aa49e4",
+    "7342f7b1dcac3873",
+    "04282e7a1ad0153b",
+    "cf43090817da1a65",
+    "396cfe66f6d1ddf2",
+    "3f5429b5bc86d88d",
+    "0109261c0284b46c",
+    "27b9d82dfa7d7381",
+    "e1b70d7eaa91feca",
+    "02fd3d81eed75813",
+    "c50f5c0b5c3d86c1",
+    "2580512a2ab784bf",
+    "94dcabae2ef6125a",
+    "f31c12e2cc3d8f5a",
+    "8114d9dee15d8bcc",
+    "cabbd9c3476539ac",
+    "2432fe2f0bb7fea2",
+    "f461617430ba8085",
+    "8e425e00d7b8c815",
+    "0f6834a90ed58dc0",
+    "a1d3a408f7aa77ee",
+    "ca0603da45dbace8",
+    "1f5450d6c8093d86",
+    "cdab4f0f8cd1a9a8",
+    "90b0fbaf9a3db49c",
+    "846d77221da5b273",
+    "ae2446de1a4aadbc",
+    "4b63cb350f6258f5",
+    "8cec9772841971b0",
+    "64c7224bccce4901",
+    "0dbca822bf1e2182",
+    "03946109c18e0490",
+    "9f082a7105d7cdf0",
+    "3676631dc559da46",
+    "85b25633e0ec41ae",
+    "260a9f4ecd4b5740",
+    "0b8279da0bb370bf",
+    "50e44c83bdd1e682",
+    "dcbb5f16a10c929c",
+    "9db55c7f34094704",
+    "8de964805e35c864",
+    "96787d22c2576542",
+    "7743bd0a75ec7ed2",
+    "d82ff618a405972e",
+    "2dfe550909ebb7d1",
+    "7648bbca9731e230"
+   ]
+  }
+ ],
+ "fragments": {
+  "d074cd6684aa49e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Setembro\n\nA Lei Orgânica do Ministério do Mar, aprovada pelo [Decreto-Lei n.º 154/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1992-305260), de 25 de Julho, estabeleceu o novo quadro orgânico deste departamento governamental, prevendo, porém, a necessidade da emanação de diplomas próprios, com vista à definição da estrutura orgânica, funcionamento, regime jurídico e quadro de pessoal dos serviços que o integram.\n\nEstando ainda em curso os trabalhos de reestruturação do Sistema da Autoridade Marítima, decorrentes da sua colocação na dependência do Ministro da Defesa Nacional através do [Decreto-Lei n.º 451/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1991-292481), de 4 de Dezembro, importa desde já fixar a forma como serão coordenadas as acções que se desenvolverão pelos serviços destes dois Ministérios, justificando-se, para tanto, a adopção da forma de portaria conjunta dos Ministros da Defesa Nacional e do Mar.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "9b567f893867b669": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção-Geral das Pescas, abreviadamente designada por DGP, é um serviço operativo do Ministério do Mar dotado de autonomia administrativa."
+  },
+  "72c6864667c4ff54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições da DGP:\n\na) Estudar e coordenar a actividade da pesca, bem como o controlo do seu exercício;\n\nb) Contribuir para a definição da política nacional das pescas, promover a elaboração dos programas e instrumentos necessários à sua prossecução e assegurar o respectivo acompanhamento e execução;\n\nc) Coordenar a execução das políticas definidas para o sector, em especial no domínio da exploração dos recursos marinhos vivos e da sua transformação e comercialização;\n\nd) Controlar e fiscalizar as actividades da pesca marítima, aquicultura, extracção de sal marinho, apanhas marinhas, indústria transformadora e de acondicionamento e mercados dos produtos da pesca, em articulação com os demais serviços competentes;\n\ne) Assegurar a protecção, conservação e gestão dos recursos vivos marinhos nas áreas sob jurisdição nacional e promover o desenvolvimento da aquicultura;\n\nf) Autorizar e licenciar as estruturas e actividades produtivas nos domínios da pesca marítima, aquicultura, salicultura e plantas marinhas, bem como da indústria transformadora e de acondicionamento de produtos da pesca, em articulação com os demais serviços competentes;\n\ng) Licenciar as estruturas de primeira venda de pescado fresco e refrigerado, assegurando a observância de adequadas condições técnico-funcionais, e fiscalizar o respectivo funcionamento, em articulação com os demais serviços competentes;\n\nh) Apoiar a adequação das estruturas produtivas e de comercialização de pescado e o seu funcionamento aos objectivos da política do Governo e da política comum de pescas em articulação com os órgãos e serviços nacionais e comunitários competentes em razão da matéria;\n\ni) Promover os estudos, difundir os conhecimentos e apoiar as acções necessárias ao desenvolvimento das actividades económicas ligadas à pesca;\n\nj) Organizar e informar os projectos e processos de investimento produtivo, nomeadamente os que envolvam a concessão de ajudas nacionais ou comunitárias ao sector das pescas, em articulação com os demais serviços competentes;\n\nl) Estudar e propor, em articulação com os demais serviços competentes, regras e medidas relativas ao pessoal das categorias específicas da marinha de pesca;\n\nm) Assegurar o planeamento sectorial e apoiar tecnicamente o planeamento a nível regional no domínio das pescas e gerir o sistema de informação do sector pesqueiro e a ligação aos órgãos nacionais e internacionais competentes nessas áreas;\n\nn) Gerir o sistema estatístico pesqueiro no âmbito do Sistema Estatístico Nacional, em colaboração com o Instituto Nacional de Estatística;\n\no) Assegurar a função de prevenção e pré-contencioso no domínio do cumprimento, por parte dos agentes económicos, das obrigações decorrentes da concessão de ajudas financeiras nacionais e comunitárias, bem como a auditoria externa às empresas, de acordo com a legislação nacional e comunitária."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "3f5429b5bc86d88d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Estrutura"
+  },
+  "a42d8f9f48b1eb3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura\n\n1 - São órgãos da DGP:\n\na) O director-geral;\n\nb) O conselho administrativo;\n\nc) O Conselho de Inspecção das Pescas;\n\nd) O conselho consultivo.\n\n2 - São serviços da DGP:\n\na) A Direcção de Serviços da Pesca Marítima e Relações Internacionais;\n\nb) A Direcção de Serviços de Estruturas;\n\nc) A Direcção de Serviços de Mercados e Qualidade;\n\nd) A Direcção de Serviços de Informação, Empresas e Economia das Pescas;\n\ne) A Direcção de Serviços de Estatística e Informática;\n\nf) A Direcção de Serviços de Inspecção;\n\ng) A Direcção de Serviços de Administração Geral;\n\nh) O Gabinete Jurídico."
+  },
+  "27b9d82dfa7d7381": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Órgãos e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Órgãos e suas competências"
+  },
+  "d8bdc2f03f92ab3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director-geral\n\nAo director-geral, coadjuvado por quatro subdirectores-gerais, compete:\n\na) Dirigir e coordenar os serviços da DGP;\n\nb) Representar a DGP;\n\nc) Presidir ao conselho administrativo, ao Conselho de Inspecção das Pescas e ao conselho consultivo;\n\nd) Submeter à aprovação ministerial o plano e o relatório de actividades anuais;\n\ne) Representar o Estado na outorga dos contratos em que intervenha a DGP."
+  },
+  "8f40140fcb0deb11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho administrativo\n\n1 - O conselho administrativo (CA) é o órgão responsável pela gestão financeira, ao qual compete:\n\na) Autorizar, dentro dos limites legais, a realização das despesas e o seu pagamento, no âmbito da gestão corrente, em obediência às normas que disciplinam a administração financeira do Estado;\n\nb) Dar parecer sobre o plano de actividades e a proposta de orçamento, sobre o relatório da gestão efectuada, bem como sobre a conta de gerência, a enviar ao Tribunal de Contas;\n\nc) Promover a constituição do fundo de maneio, nos termos da lei;\n\nd) Pronunciar-se sobre quaisquer assuntos de gestão financeira e patrimonial que lhe sejam submetidos;\n\ne) Autorizar a restituição das importâncias indevidamente arrecadadas, bem como a reposição dos dinheiros públicos, nos termos da lei;\n\nf) Prestar contas, nos termos da lei.\n\n2 - O CA tem a seguinte composição:\n\na) O director-geral, que preside;\n\nb) O subdirector-geral que for designado substituto legal do director-geral;\n\nc) O director de serviços de Administração Geral.\n\n3 - O CA só pode movimentar fundos e obrigar-se mediante a assinatura de dois dos seus membros, devendo uma delas ser a do presidente ou a do seu substituto legal."
+  },
+  "30fdfa76a0057903": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Conselho de Inspecção das Pescas (CIP)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho de Inspecção das Pescas (CIP)\n\n1 - O Conselho de Inspecção das Pescas (CIP) é o órgão consultivo em matéria de vigilância e fiscalização das actividades da pesca, ao qual compete:\n\na) Proceder à análise periódica dos resultados da vigilância e fiscalização das actividades da pesca marítima e das culturas marinhas;\n\nb) Propor medidas visando o aperfeiçoamento das regras reguladoras das actividades da pesca marítima e das culturas marinhas e uma melhor articulação e coordenação das acções de vigilância e fiscalização;\n\nc) Dar parecer sobre todas as consultas que lhe sejam submetidas pelo seu presidente.\n\n2 - O CIP é presidido pelo director-geral das Pescas e é composto pelo subdirector-geral que for designado inspector das pescas e por um representante de cada uma das seguintes entidades:\n\na) Marinha;\n\nb) Força Aérea;\n\nc) Inspecção-Geral das Actividades Económicas;\n\nd) Direcção-Geral das Alfândegas;\n\ne) Guarda Nacional Republicana;\n\nf) Instituto Português de Investigação Marítima;\n\ng) Região Autónoma dos Açores;\n\nh) Região Autónoma da Madeira.\n\n3 - Os membros do CIP a que se referem as alíneas do número anterior constam de despacho do Ministro do Mar, a publicar no Diário da República.\n\n4 - Quando o presidente do CIP o entender conveniente ou a pedido de qualquer dos seus membros, podem ser convidadas outras entidades a assistir às reuniões do Conselho, com o estatuto de observador.\n\n5 - Nas suas faltas e impedimentos, o presidente será substituído pelo inspector das pescas."
+  },
+  "7ac984830ee98f89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo (CC) é um órgão de consulta da DGP, ao qual compete dar parecer sobre:\n\na) Os planos de acção e incentivos ao sector económico das pescas;\n\nb) Os assuntos que lhe sejam submetidos no domínio da política de pescas, nomeadamente nos âmbitos comunitário, da economia pesqueira e da organização comum dos mercados;\n\nc) Quaisquer assuntos que o presidente decida submeter à sua apreciação.\n\n2 - O CC é presidido pelo director-geral das Pescas e composto pelos subdirectores-gerais e por um representante de cada uma das seguintes entidades:\n\na) Associações empresariais dos vários segmentos produtivos, incluindo a comercialização;\n\nb) Organizações de produtores;\n\nc) Organizações sindicais;\n\nd) Região Autónoma dos Açores;\n\ne) Região Autónoma da Madeira.\n\n3 - Os membros do CC a que se referem as alíneas do número anterior constam de despacho do Ministro do Mar, a publicar no Diário da República.\n\n4 - Quando o presidente do CC o entender conveniente, podem ser convidadas outras entidades a assistir às reuniões do CC, com estatuto de observador.\n\n5 - O CC funciona em sessões plenárias ou por comissões especializadas, de acordo com o respectivo regulamento interno, a aprovar pelo Ministro do Mar, sob proposta do presidente, ouvido o conselho."
+  },
+  "94dcabae2ef6125a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Serviços"
+  },
+  "ffdee0ee41c45935": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços da Pesca Marítima e Relações Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços da Pesca Marítima e Relações Internacionais\n\n1 - A Direcção de Serviços da Pesca Marítima e Relações Internacionais (DSPMRI) é o serviço operativo que visa o ordenamento da actividade pesqueira, incumbindo-lhe:\n\na) Coordenar e controlar as medidas técnicas de gestão e de conservação dos recursos vivos marinhos em águas sob jurisdição nacional e participar e acompanhar as acções homólogas de âmbito comunitário e internacional nestes domínios;\n\nb) Acompanhar o processo de exploração pesqueira comercial da frota nacional e da estrangeira em águas sob jurisdição nacional, procedendo ao respectivo licenciamento e controlo técnico de actuação;\n\nc) Assistir tecnicamente às acções de promoção, negociação e administração relacionadas com o exercício da pesca por embarcações nacionais em águas comunitárias, estrangeiras e internacionais;\n\nd) Divulgar junto do armamento nacional as oportunidades de pesca actuais e potenciais, respectivas condições de acesso e aspectos técnicos, económicos e jurídicos relevantes e fomentar a cooperação bilateral institucional e económica no domínio da produção pesqueira, na perspectiva do desenvolvimento de projectos de natureza empresarial e em articulação com os adequados instrumentos de política nacional e comunitária.\n\n2 - A DSPMRI compreende:\n\na) A Divisão de Recursos Internos (DRI), à qual compete desenvolver e executar as acções relativas à actividade pesqueira em águas sob jurisdição nacional ou comunitária;\n\nb) A Divisão de Recursos Externos (DRE), à qual compete desenvolver e executar as acções relativas à actividade pesqueira em águas estrangeiras e internacionais."
+  },
+  "10fafc7fd208c532": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Estruturas\n\n1 - A Direcção de Serviços de Estruturas (DSE) é o serviço operativo que visa o desenvolvimento e racionalização das estruturas produtivas do sector das pescas, incumbindo-lhe:\n\na) Contribuir para a definição das políticas e elaboração dos programas relativos ao desenvolvimento das estruturas produtivas do sector das pescas e propor as medidas e normativos para o respectivo ordenamento e adequação aos recursos disponíveis, às condições técnicas e às possibilidades de mercado, nos campos da frota pesqueira, aquicultura, salicultura, apanhas marinhas, indústria transformadora, infra-estruturas e comercialização dos produtos da pesca;\n\nb) Acompanhar e controlar a execução dos programas e projectos de desenvolvimento nos domínios referidos na alínea anterior, em articulação com os órgãos e serviços nacionais, regionais e comunitários competentes;\n\nc) Estudar, informar e encaminhar os processos administrativos e de investimento em relação aos quais sejam solicitadas ajudas e incentivos no domínio das competências da DGP.\n\n2 - A DSE compreende:\n\na) A Divisão da Frota (DF), à qual compete desenvolver e executar as acções relativas à frota de pesca e estruturas de apoio;\n\nb) A Divisão de Aquicultura, Sal e Apanhas Marinhas (DASAM), à qual compete desenvolver e executar as acções relativas à aquicultura, salicultura e apanhas marinhas;\n\nc) A Divisão de Estruturas de Comercialização e Transformação (DECT), à qual compete desenvolver e executar as acções relativas à indústria transformadora, equipamentos portuários e comercialização."
+  },
+  "f0e77a061303b87d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços de Mercados e Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Mercados e Qualidade\n\n1 - A Direcção de Serviços de Mercados e Qualidade (DSMQ) é o serviço operativo que visa a regulação do mercado dos produtos da pesca, incumbindo-lhe:\n\na) Apoiar a acção e funcionamento das organizações de produtores;\n\nb) Acompanhar e garantir a boa execução dos mecanismos comunitários de intervenção no mercado, controlar a aplicação das respectivas comparticipações financeiras nacionais e comunitárias e assegurar a ligação aos serviços da Comissão das Comunidades Europeias encarregues dos assuntos da Organização Comum de Mercados (OCM), fornecendo os elementos necessários em conformidade com os regulamentos em vigor;\n\nc) Desenvolver e manter um sistema de informação de mercado no domínio da comercialização e transformação dos produtos da pesca e proceder às respectivas análises e propostas de eventuais medidas, designadamente no âmbito da promoção do consumo e comercialização dos produtos da pesca;\n\nd) Organizar e manter actualizado o registo das unidades da indústria transformadora da pesca, em terra e no mar, organizar os processos relativos ao licenciamento dos estabelecimentos da indústria transformadora da pesca e das estruturas de primeira venda de pescado fresco e refrigerado e verificar o cumprimento e a adequação das regras hígio-sanitárias e técnico-funcionais a que os mesmos devem obedecer, em articulação com os demais serviços competentes;\n\ne) Coordenar e acompanhar todo o processo de licenciamento dos estabelecimentos da indústria transformadora da pesca, em articulação com as entidades intervenientes, controlar a observância da legislação em relação às condições tecnológicas, de higiene e segurança das instalações e equipamentos e instruir os processos por infracções às disposições legais sobre o exercício da actividade das unidades da indústria transformadora da pesca;\n\nf) Promover o controlo oficial da qualidade dos produtos da indústria transformadora da pesca, bem como das matérias-primas e materiais utilizados, e colaborar com outras entidades no sentido do estabelecimento, divulgação e aplicação de normas de comercialização e qualidade na área dos produtos da pesca, em articulação com os demais serviços competentes.\n\n2 - A DSMQ compreende:\n\na) A Divisão de Mercados (DM), à qual incumbe o exercício das competências previstas nas alíneas a) a c) do número anterior;\n\nb) A Divisão de Licenciamento e Controlo de Qualidade (DLCQ), à qual incumbe o exercício das competências previstas nas alíneas d) a f) do número anterior."
+  },
+  "286a7e9bf4b392b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Direcção de Serviços de Informação, Empresas e Economia das Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direcção de Serviços de Informação, Empresas e Economia das Pescas\n\n1 - A Direcção de Serviços de Informação, Empresas e Economia das Pescas (DSIEEP) é o serviço operativo que visa promover a realização de estudos e o tratamento e divulgação de informação relacionada com a actividade económica das pescas, incumbindo-lhe:\n\na) Assegurar a função de informação, documentação e relação com o exterior no sector das pescas e organizar e manter actualizado o ficheiro de empresas e instituições ligadas à actividade económica das pescas;\n\nb) Assegurar as funções de auditoria externa previstas na lei e nos regulamentos comunitários;\n\nc) Efectuar estudos da actividade económica das pescas, assistindo tecnicamente à realização e execução de planos e programas, bem como à preparação de instrumentos e actividades de âmbito sectorial, regional e comunitário;\n\nd) Promover o aperfeiçoamento das técnicas de planeamento e da informação estatística das pescas.\n\n2 - A DSIEEP compreende:\n\na) A Divisão de Empresas, Informação, Documentação e Relações Públicas (DEIDRP), à qual incumbe o exercício das competências previstas nas alíneas a) e b) do número anterior;\n\nb) A Divisão de Planeamento e Economia das Pescas (DPEP), à qual incumbe o exercício das competências previstas nas alíneas c) e d) do número anterior."
+  },
+  "c9c726288b05b0c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção de Serviços de Estatística e Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção de Serviços de Estatística e Informática\n\n1 - A Direcção de Serviços de Estatística e Informática (DSEI) é o serviço de apoio técnico em matéria de estatísticas e informática, incumbindo-lhe:\n\na) Gerir o sistema estatístico do sector das pescas e assegurar a disponibilização adequada e atempada dos respectivos produtos;\n\nb) Gerir o sistema informático da DGP;\n\nc) Assegurar a ligação aos órgãos do Sistema Estatístico Nacional e das organizações internacionais ligadas à pesca, com as quais exista intercâmbio ou obrigações de fornecimento de dados;\n\nd) Gerir o subsistema de informação do controlo das actividades da pesca em colaboração com a Direcção de Serviços de Inspecção, assegurando a eficiente troca de informação entre a DGP, a Marinha e a Força Aérea.\n\n2 - A DSEI compreende:\n\na) A Divisão de Estatística (DEST), à qual incumbe o exercício das competências previstas na alínea a) do número anterior;\n\nb) A Divisão de Informática (DI), à qual incumbe o exercício das competências previstas nas alíneas b) e c) do número anterior;\n\nc) Divisão de Controlo das Actividades da Pesca (DCAP), à qual incumbe o exercício das competências previstas na alínea d) do número anterior."
+  },
+  "0693fa1f492b371b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção de Serviços de Inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Inspecção\n\n1 - A Direcção de Serviços de Inspecção (DSI) é um serviço de fiscalização e controlo externo, incumbindo-lhe:\n\na) Proceder à fiscalização do cumprimento das normas nacionais e comunitárias regulamentadoras do exercício da pesca marítima, no acto do desembarque, e nos domínios da comercialização, transporte e armazenagem do pescado, desde que efectuados na área dos portos de pesca, sem prejuízo das competências próprias dos outros serviços;\n\nb) Proceder à fiscalização do cumprimento das normas regulamentadoras do exercício da actividade de culturas marinhas;\n\nc) Proceder à fiscalização de artes, apetrechos e instrumentos de pesca em terra e nos portos;\n\nd) Fiscalizar o preenchimento dos diários de pesca e declarações de desembarque e quaisquer outros documentos de registo da actividade de pesca de apresentação obrigatória, bem como a veracidade dos seus conteúdos;\n\ne) Fiscalizar e acompanhar as actividades das embarcações de pesca em águas não sujeitas à jurisdição nacional, no quadro dos compromissos assumidos pela Comunidade Europeia ou com os organismos internacionais de que Portugal seja parte, nomeando para esse efeito inspectores ou observadores;\n\nf) Estudar, acompanhar e propor as medidas necessárias para a vigilância e fiscalização do exercício da pesca marítima e das culturas marinhas e participar com outras entidades em acções de fiscalização, nomeadamente nos domínios de comercialização, transporte e armazenagem dos produtos da pesca;\n\ng) Levantar autos de notícia por infracções detectadas no exercício da sua actividade de inspecção e fiscalização e instruir os respectivos processos de contra-ordenação e, bem assim, os processos levantados por outros agentes de fiscalização quando actuem ao abrigo do n.º 2 do artigo 15.º do [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de Julho, quando actuem em áreas de competência da DGP;\n\nh) Instruir os processos por infracção às normas regulamentadoras do exercício da pesca marítima praticada em águas não sujeitas à jurisdição nacional e cuja competência sancionatória não pertença a outro Estado.\n\n2 - Compete ao inspector das pescas a aplicação das coimas e sanções acessórias nos seguintes casos:\n\na) Nas situações previstas nas alíneas g) e h) do número anterior;\n\nb) Nas situações previstas nas alíneas a), b) e d) do artigo 13.º do [Decreto-Lei n.º 304/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1987-417175), de 4 de Agosto, e em quaisquer outras situações que legalmente lhe sejam cometidas.\n\n3 - Na dependência do inspector das pescas funciona o Núcleo de Apoio Jurídico e Processos de Contra-Ordenação, coordenado por um técnico superior licenciado em Direito, ao qual incumbe apoiar a DSI em todos os aspectos referentes a questões jurídicas, processuais, normativas e outras de que esta careça para a prossecução das suas atribuições."
+  },
+  "cd352f4d98772d92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção de Serviços de Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços de Administração Geral\n\n1 - À Direcção de Serviços de Administração Geral (DSAG) compete promover e assegurar a administração dos recursos humanos, financeiros e patrimoniais, bem como prestar apoio técnico-administrativo aos órgãos e serviços da DGP.\n\n2 - A Direcção de Serviços de Gestão e Administrativa compreende:\n\na) A Repartição de Pessoal e de Expediente Geral;\n\nb) A Repartição Financeira e Patrimonial."
+  },
+  "5a89aedf512f53b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Repartição de Pessoal e de Expediente Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Repartição de Pessoal e de Expediente Geral\n\n1 - A Repartição de Pessoal e Expediente Geral compreende:\n\na) A Secção de Pessoal;\n\nb) A Secção de Expediente e Arquivo.\n\n2 - À Secção de Pessoal compete:\n\na) Organizar e manter actualizado o cadastro de todo o pessoal da DGP, bem como o registo do controlo de assiduidade;\n\nb) Assegurar a preparação e execução das acções relativas à constituição, modificação e extinção da relação jurídica de emprego e de promoção do pessoal da DGP;\n\nc) Assegurar a análise e processamento dos elementos relativos aos vencimentos e demais abonos do pessoal, bem como elaborar os documentos que servem de suporte ao tratamento informático daquelas remunerações;\n\nd) Assegurar a execução das acções relativas à notação do pessoal e à elaboração das listas de antiguidade;\n\ne) Assegurar o expediente relacionado com os benefícios sociais a que os funcionários tenham direito;\n\nf) Superintender no pessoal auxiliar e coordenar a organização do respectivo trabalho.\n\n3 - À Secção de Expediente e Arquivo compete:\n\na) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo de todo o expediente da DGP;\n\nb) Organizar o arquivo geral a assegurar o seu funcionamento em articulação com os arquivos dos vários serviços da DGP;\n\nc) Garantir a divulgação pelos serviços das normas internas e directivas superiores de carácter geral."
+  },
+  "f379706e85f47356": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Repartição Financeira e Patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Repartição Financeira e Patrimonial\n\n1 - A Repartição Financeira e Patrimonial (RFP) compreende:\n\na) A Secção de Orçamento e Conta;\n\nb) A Secção de Contabilidade;\n\nc) A Secção de Património e Aprovisionamento.\n\n2 - À Secção de Orçamento e Conta compete:\n\na) Preparar o projecto de orçamento anual da DGP de conta das dotações atribuídas no Orçamento do Estado e propor as alterações consideradas convenientes, procedendo de igual forma relativamente às dotações sujeitas a duplo cabimento;\n\nb) Preparar os elementos necessários ao controlo orçamental;\n\nc) Colaborar numa adequada gestão dos recursos financeiros;\n\nd) Organizar a conta anual da gerência e preparar só elementos indispensáveis à elaboração do relatório financeiro.\n\n3 - À Secção de Contabilidade compete:\n\na) Organizar e manter actualizada a contabilidade e conferir, processar e liquidar as despesas relativas à execução dos orçamentos da DGP;\n\nb) Processar as requisições mensais de fundos;\n\nc) Proceder à cobrança das receitas próprias da DGP;\n\nd) Elaborar indicadores de gestão que permitam acompanhar a evolução da situação financeira da DGP;\n\ne) Informar os processos de pessoal e material no que respeita à legalidade e cabimento de verba;\n\nf) Controlar o movimento da tesouraria e efectuar mensalmente o seu balanço.\n\n4 - À Secção de Património e Aprovisionamento compete:\n\na) Organizar e manter actualizado o inventário dos bens móveis e imóveis da DGP;\n\nb) Assegurar a gestão, conservação e segurança dos bens, equipamentos, instalações e meios de comunicação da DGP;\n\nc) Assegurar a gestão das viaturas automóveis afectas à DGP;\n\nd) Assegurar o apetrechamento em mobiliário e equipamento de todos os serviços da DGP;\n\ne) Promover as demais aquisições necessárias ao funcionamento dos serviços e proceder à sua armazenagem, conservação e distribuição.\n\n5 - Adstrita à RFP funciona uma tesouraria, coordenada por um tesoureiro."
+  },
+  "f07aadf79dbd96ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Gabinete Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gabinete Jurídico\n\n1 - O Gabinete Jurídico (GJ) é o serviço que visa assegurar o apoio jurídico da DGP, incumbindo-lhe:\n\na) Elaborar estudos, informações e pareceres sobre matéria das atribuições da DGP;\n\nb) Desenvolver estudos da legislação em vigor relativa ao âmbito das atribuições da DGP;\n\nc) Analisar e instruir os processos de inquérito e averiguações ou disciplinares e preparar petições, respostas e contestações, acompanhando as acções e recursos judiciais e administrativos;\n\nd) Proceder ao tratamento da legislação e à sua divulgação pelos serviços e prestar apoio jurídico na interpretação das suas disposições, elaborando documentos tendo em vista a melhor aplicação da legislação e regulamentação, para efeitos da sua divulgação e aplicação uniforme pelos seus destinatários.\n\n2 - O GJ é dirigido por um director de serviços."
+  },
+  "cdab4f0f8cd1a9a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Pessoal"
+  },
+  "f22e8d76e8be97c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Quadro de pessoal\n\n1 - O quadro de pessoal da DGP é aprovado por portaria conjunta dos Ministros das Finanças e do Mar.\n\n2 - Do quadro a que se refere o número anterior consta a dotação de pessoal a afectar às administrações marítimas, nos termos e condições definidos na respectiva lei orgânica."
+  },
+  "d66caca51ed05929": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Carreira de inspector superior de pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Carreira de inspector superior de pescas\n\n1 - A carreira de inspector superior de pescas é uma carreira integrada no grupo do pessoal técnico superior, cujo conteúdo funcional consta do anexo III ao presente diploma, que dele faz parte integrante.\n\n2 - A carreira de inspecção superior de pescas desenvolve-se pelas categorias de inspector superior assesor principal, inspector superior assessor, inspector superior principal, inspector superior da 1.ª classe e inspector superior de 2.ª classe.\n\n3 - O recrutamento para as categorias da carreira obedece às seguintes regras:\n\na) Inspector superior assessor principal, de entre inspectores superiores assessores com, pelo menos, três anos de serviço na categoria, classificados de Muito bom;\n\nb) Inspector superior assessor, de entre inspectores superiores principais com, pelo menos, três anos de serviço efectivo na categoria, classificados de Muito bom;\n\nc) Inspector superior principal, de entre inspectores superiores de 1.ª classe com, pelo menos, três anos de serviço efectivo na categoria, classificados de Bom;\n\nd) Inspector superior de 1.ª classe, de entre inspectores superiores de 2.ª classe com, pelo menos, três anos efectivos de serviço na categoria, classificados de Bom;\n\ne) Inspector superior de 2.ª classe, de entre estagiários que hajam obtido aproveitamento no estágio com classificação não inferior a 14 valores;\n\nf) Estagiários, de entre diplomados com licenciatura adequada.\n\n4 - O regulamento do estágio será definido por despacho conjunto dos Ministros das Finanças e do Mar, o qual estabelecerá o curso de formação adequado e o respectivo programa."
+  },
+  "8dbba5e9e4519427": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Carreira de inspector técnico de pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Carreira de inspector técnico de pescas\n\n1 - A carreira de inspector técnico de pescas desenvolve-se pelas categorias de inspector técnico de pescas principal, inspector técnico de pescas de 1.ª classe, inspector técnico de pescas de 2.ª classe e inspector técnico de pescas.\n\n2 - O recrutamento para as categorias da carreira de inspector técnico de pescas obedece às seguintes regras:\n\na) Inspector técnico de pescas principal e inspector técnico de pescas de 2.ª classe, de entre, respectivamente, inspectores técnicos de 1.ª classe, inspectores técnicos de 2.ª classe e inspectores técnicos com, pelo menos, três anos nas respectivas categorias, classificados de Muito bom, ou cinco anos, classificados, no mínimo, de Bom;\n\nb) Inspector técnico de pescas, de entre pessoal técnico com as categorias de técnico de 1.ª classe ou técnico de 2.ª classe, possuindo, neste último caso, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n3 - A estrutura remuneratória da carreira é a constante do anexo I ao presente diploma, que dele faz parte integrante, e adopta a base 100 das carreiras do regime geral."
+  },
+  "388bacc84939dda4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Carreira de técnico-adjunto de inspecção de pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Carreira de técnico-adjunto de inspecção de pescas\n\n1 - A carreira de técnico-adjunto de inspecção de pescas é uma carreira integrada no grupo de pessoal técnico-profissional, nível 4, e desenvolve-se pelas categorias de técnico-adjunto de inspecção de pescas especialista de 1.ª classe, técnico-adjunto de inspecção de pescas especialista, técnico-adjunto de inspecção de pescas principal, técnico-adjunto de inspecção de pescas de 1.ª classe e técnico-adjunto de inspecção de pescas de 2.ª classe.\n\n2 - O recrutamento para as categorias da carreira de técnico-adjunto de inspecção de pescas obedece às seguintes regras:\n\na) Técnico-adjunto de inspecção de pescas especialista de 1.ª classe, técnico-adjunto de inspecção de pescas especialista, técnico-adjunto de inspecção de pescas principal e técnico-adjunto de inspecção de pescas de 1.ª classe, de entre, respectivamente, técnicos-adjuntos de inspecção de pescas especialistas, técnicos-adjuntos de inspecção de pescas principais, técnicos-adjuntos de inspecção de pescas de 1.ª classe e técnicos-adjuntos de inspecção de pescas de 2.ª classe com, pelo menos, três anos nas respectivas categorias, classificados de Muito bom, ou cinco anos, classificados, no mínimo, de Bom;\n\nb) Técnico-adjunto de inspecção de pescas de 2.ª classe, de entre indivíduos diplomados com cursos de formação técnico-profissional adequada ao exercício de funções inspectivas de duração não inferior a três anos, para além de nove anos de escolaridade, ou de entre pessoal técnico-profissional de pescas com igual índice do 1.º escalão."
+  },
+  "7b228b57421de3dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Conteúdos funcionais das carreiras de inspecção de pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Conteúdos funcionais das carreiras de inspecção de pescas\n\nOs conteúdos funcionais das carreiras de inspecção de pescas são os constantes do anexo III."
+  },
+  "0c63e05c897164c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Direitos e deveres especiais do pessoal de inspecção de pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direitos e deveres especiais do pessoal de inspecção de pescas\n\n1 - O pessoal de inspecção goza, no exercício das suas funções, dos seguintes direitos:\n\na) Livre acesso a todas as embarcações de pesca, instalações e locais onde se desenvolvam actividades de pesca e indústrias complementares com ela relacionadas, bem como aos estabelecimentos de culturas marinhas;\n\nb) Faculdade de exame de todos os documentos que se mostrem necessários ao bom exercício da sua actividade inspectiva e fiscalizadora, designadamente diários de pesca, diários de navegação, declarações de desembarque e documentos de venda e pesagem;\n\nc) Faculdade de requisitar às autoridades policiais a colaboração que se mostre necessária ao exercício das funções, designadamente nos casos de resistência por parte dos destinatários;\n\nd) Direito a detenção de uso de porte de arma, nos termos do artigo 48.º do [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949.\n\n2 - São deveres especiais do pessoal de inspecção:\n\na) Agir com isenção, integridade e imparcialidade e desempenhar com correcção e diligência os serviços de que estiverem incumbidos;\n\nb) Guardar sigilo nos termos previstos na lei.\n\n3 - O serviço prestado pelo pessoal de inspecção tem carácter de disponibilidade permanente e implica a obrigatoriedade da sua prestação a qualquer hora do dia ou da noite, incluindo os dias de descanso, domingos e feriados, conforme as necessidades do serviço.\n\n4 - O director-geral, o inspector das pescas, o director de serviços de Inspecção, bem como o pessoal das carreiras de inspector superior e inspector técnico de pescas e de técnico-adjunto de inspecção de pescas, mantêm o direito ao suplemento criado pelo artigo 30.º do [Decreto-Lei n.º 421/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1988-357533), de 12 de Novembro, de acordo com o disposto nos n.os 1 e 2 do artigo 37.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro."
+  },
+  "b1a3343f2ff8443e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Identificação\n\nO pessoal da inspecção de pescas é identificado mediante a apresentação de cartão de identidade profissional de modelo a aprovar por despacho do Ministro do Mar."
+  },
+  "fae7808e2c5b3ccb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Carreira de técnico de verificação de produtos da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Carreira de técnico de verificação de produtos da pesca\n\n1 - A carreira de técnico de verificação de produtos da pesca é uma carreira integrada na carreira técnico-profissional e desenvolve-se pelas categorias de verificador-chefe, verificador principal, verificador de 1.ª classe, verificador de 2.ª classe, verificador auxiliar de 1.ª classe e verificador auxiliar de 2.ª classe.\n\n2 - O recrutamento para as categorias de verificador-chefe, verificador principal, verificador de 1.ª classe, verificador de 2.ª classe e verificador auxiliar de 1.ª classe far-se-á de entre, respectivamente, verificadores principais, verificadores de 1.ª classe, verificadores de 2.ª classe, verificadores auxiliares de 1.ª classe e verificadores auxiliares de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.\n\n3 - O recrutamento para a categoria de verificador auxiliar de 2.ª classe far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade ou equiparado, aprovados em estágio.\n\n4 - A estrutura remuneratória da carreira é a constante do anexo II ao presente diploma, que dele faz parte integrante, e adopta a base 100 das carreiras de regime geral.\n\n5 - O conteúdo funcional da carreira é o constante do anexo III ao presente diploma."
+  },
+  "9f082a7105d7cdf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Da gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Da gestão financeira"
+  },
+  "d519adec59b5a8ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Princípios e instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Princípios e instrumentos de gestão\n\n1 - A DGP deve observar na sua gestão os seguintes princípios:\n\na) Gestão por objectivos;\n\nb) Controlo interno de gestão;\n\nc) Informação permanente da evolução financeira.\n\n2 - Na previsão e controlo utilizar-se-ão os seguintes instrumentos:\n\na) Plano de actividades anual;\n\nb) Orçamento anual;\n\nc) Relatório anual de gestão;\n\nd) Conta."
+  },
+  "c9270a913b64723c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Receitas\n\nA DGP dispõe, para além da dotação que anualmente lhe for atribuída pelo Orçamento do Estado, das seguintes receitas próprias:\n\na) O produto dos serviços prestados;\n\nb) O valor da venda de publicações e impressos por si editados;\n\nc) Subsídios, subvenções e comparticipações nacionais, estrangeiras ou internacionais;\n\nd) Outras receitas que lhe sejam conferidas por lei, acto ou contrato."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "0653aa6c5f2d56df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Concessão de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Concessão de serviços\n\n1 - A DGP pode, mediante contrato de concessão, autorizar entidades nacionais ou estrangeiras de reconhecido mérito a prestar serviços necessários à prossecução das suas atribuições no âmbito do desenvolvimento e racionalização das estruturas produtivas do sector das pescas.\n\n2 - O lançamento do concurso para celebração do contrato previsto no número anterior, incluindo o respectivo caderno de encargos, é objecto de portaria do Ministro do Mar."
+  },
+  "c36f1136c3667f8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Sucessão e articulação com o Sistema da Autoridade Marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Sucessão e articulação com o Sistema da Autoridade Marítima\n\n1 - Para efeitos do disposto nos n.os 2 e 4 do artigo 13.º do [Decreto-Lei n.º 154/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1992-305260), de 25 de Julho, a DGP sucede, na medida do previsto no presente diploma, nas atribuições e competências dos seguintes serviços extintos:\n\na) Instituto Português de Conservas e Pescado (IPCP);\n\nb) Gabinete de Estudos de Planeamento das Pescas (GEPP);\n\nc) Inspecção-Geral das Pescas (IGP).\n\n2 - As delegações dos Açores e da Madeira do Instituto Português de Conservas e Pescado transitam para a DGP.\n\n3 - A articulação com o Sistema da Autoridade Marítima das acções necessárias à prossecução das atribuições e competências a que se refere a alínea c) do n.º 1 é fixada em portaria conjunta dos Ministros da Defesa Nacional e do Mar."
+  },
+  "e779e2e4f94fc9f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Transição de património, saldos de gerência e dotações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Transição de património, saldos de gerência e dotações orçamentais\n\nSerá afecto à DGP o património referido nos n.os 2 e 3 do artigo 13.º do [Decreto-Lei n.º 154/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1992-305260), de 25 de Julho, bem como, através de créditos especiais a inscrever para o efeito nas adequadas rubricas de despesa do orçamento da DGP, os saldos de gerência do IPCP, constituindo-se os mesmos em receita de capital compensadora dos referidos créditos especiais."
+  },
+  "0a7d092bc808148e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Transferência de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Transferência de registos\n\nA DGP transferirá para a Direcção-Geral de Portos, Navegação e Transportes Marítimos os registos relativos ao pessoal de pesca e demais documentação conexa."
+  },
+  "83fff4cbb6ab95df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Transição de pessoal\n\nO pessoal do quadro anterior da DGP e o pessoal dos extintos IPCP, GEPP e IGP transita para o quadro a que se refere o artigo 18.º deste diploma, nos termos da lei geral."
+  },
+  "9ca912fc44cde85b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Vigência\n\nOs quadros de pessoal da DGP, do IPCP, do GEPP e da IGP mantêm-se em vigor até à data do início de vigência da portaria a que se refere o artigo 18.º do presente diploma."
+  },
+  "def7c8af440cfdf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Revogação\n\nÉ revogado o [Decreto Regulamentar n.º 17/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1988-286536), de 7 de Abril.\n\nVisto e aprovado em Conselho de Ministros de 11 de Junho de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Eduardo Eugénio Castro Azevedo Soares.\n\nPromulgado em 3 de Agosto de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 3 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "9d668f6b49c6ba25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Estrutura remuneratória da carreira técnica de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Estrutura remuneratória da carreira técnica de inspecção\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf)"
+  },
+  "d2ea9b1c940b5f8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Estrutura remuneratória da carreira de verificador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Estrutura remuneratória da carreira de verificador\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/222a00/51755184.pdf)"
+  },
+  "da009dd2b44059ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Conteúdos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Conteúdos funcionais\n\nI - Carreira de inspector superior de pescas:\n\na) Superintender na actividade inspectiva, programando, dirigindo ou executando acções de fiscalização, no âmbito das competências específicas atribuídas à Direcção-Geral das Pescas;\n\nb) Efectuar estudos, elaborar relatórios e emitir pareceres visando o aperfeiçoamento constante do sistema de fiscalização, controlo e vigilância das actividades de pesca marítima e das culturas marinhas;\n\nc) Colaborar com as entidades a quem a lei atribua competência de fiscalização e vigilância na área da pesca marítima e das culturas marinhas para a concretização das políticas e orientações adoptadas para o sector;\n\nd) Realizar toda a actividade inspectiva de que a Direcção-Geral das Pescas venha a ser incumbida, desde que nomeado para o efeito pelo director-geral;\n\ne) Levantar autos de notícia por infracções detectadas no exercício de funções inspectivas e instruir os respectivos processos.\n\nII - Carreira de inspector técnico de pescas:\n\na) Realizar acções de fiscalização no âmbito das competências específicas da Direcção-Geral das Pescas;\n\nb) Proceder à recolha, estudo e análise de todos os elementos necessários à concretização da actividade inspectiva;\n\nc) Acompanhar os resultados das acções de fiscalização do exercício das actividades da pesca marítima ou das culturas marinhas nas águas ou parcelas de terreno sob soberania ou jurisdição nacional;\n\nd) Fiscalizar ou acompanhar as actividades das embarcações de pesca em águas não sujeitas à jurisdição nacional, no quadro de compromissos assumidos com a Comunidade Económica Europeia ou com as organizações internacionais de que Portugal seja membro;\n\ne) Integrar-se em acções de inspecção e vigilância multidisciplinares que tenham como objectivo garantir o cumprimento das normas que disciplinam o exercício da actividade da pesca marítima nos domínios da comercialização, transporte e armazenagem do pescado, bem como das que regulamentam o exercício da actividade de culturas marinhas, com vista a promover a sua conformidade com as políticas e orientações adoptadas pela administração do sector;\n\nf) Elaborar relatórios e informações e efectuar inquéritos sobre o cumprimento da legislação relativos ao exercício das actividades da pesca marítima e das culturas marinhas;\n\ng) Colaborar com os inspectores superiores de pescas na programação e concretização da actividade inspectiva que aqueles superintendam;\n\nh) Levantar autos de notícia por infracções detectadas nas suas áreas de intervenção e instruir os respectivos processos.\n\nIII - Carreira de técnico-adjunto de inspecção de pescas:\n\na) Coadjuvar o trabalho dos inspectores superiores na execução das suas funções, efectuando todas as diligências e acções de natureza inspectiva de que forem encarregues, no âmbito das competências atribuídas à Direcção-Geral das Pescas;\n\nb) Participar na actividade inspectiva, integrando-se em equipas pluridisciplinares que tenham como objectivo efectuar o controlo do exercício das actividades de pesca marítima, nos domínios da comercialização, transporte e armazenagem do pescado, bem como do exercício da actividade de culturas marinhas;\n\nc) Proceder, entre outras tarefas, à análise dos diários de bordo, verificando a veracidade do seu conteúdo, a obrigatoriedade da sua apresentação, bem como as declarações de desembarque e quaisquer outros documentos de registo da actividade da pesca de apresentação obrigatória;\n\nd) Verificar o cumprimento das condições de instalação e exploração dos estabelecimentos de culturas marinhas;\n\ne) Colaborar na elaboração dos relatórios ou informações relativos às acções inspectivas realizadas;\n\nf) Levantar autos de notícia por infracções detectadas na execução da sua actividade inspectiva e instruir os respectivos autos.\n\nIV - Carreira de técnico de verificação dos produtos da pesca. - Compete ao pessoal da carreira de técnico de verificação dos produtos da pesca proceder à verificação da qualidade das matérias-primas destinadas às indústrias transformadoras, nomeadamente pescado, azeite e óleos, sal e embalagens, controlando a sua utilização sempre que necessário.\n\nCompete-lhe ainda proceder:\n\na) À verificação da qualidade dos produtos acabados;\n\nb) À apreensão e eventual inutilização dos produtos considerados impróprios;\n\nc) Ao acompanhamento das diversas fases dos ciclos fabris e fiscalização do estado das instalações e equipamentos fabris;\n\nd) À execução e controlo dos mecanismos nacionais e comunitários de intervenção e regulação do mercados dos produtos da pesca;\n\ne) Colaboração na execução de funções administrativas inerentes às administrações marítimas."
+  },
+  "04282e7a1ad0153b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "cf43090817da1a65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "0109261c0284b46c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "e1b70d7eaa91feca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "02fd3d81eed75813": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho administrativo",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 5.º — Conselho administrativo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "c50f5c0b5c3d86c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Conselho de Inspecção das Pescas (CIP)",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 6.º — Conselho de Inspecção das Pescas (CIP)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "2580512a2ab784bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "f31c12e2cc3d8f5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços da Pesca Marítima e Relações Internacionais",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços da Pesca Marítima e Relações Internacionais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "8114d9dee15d8bcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Estruturas",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Estruturas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "cabbd9c3476539ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços de Mercados e Qualidade",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Mercados e Qualidade\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "2432fe2f0bb7fea2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Direcção de Serviços de Informação, Empresas e Economia das Pescas",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 11.º — Direcção de Serviços de Informação, Empresas e Economia das Pescas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "f461617430ba8085": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção de Serviços de Estatística e Informática",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 12.º — Direcção de Serviços de Estatística e Informática\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "8e425e00d7b8c815": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direcção de Serviços de Inspecção",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 13.º — Direcção de Serviços de Inspecção\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "0f6834a90ed58dc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção de Serviços de Administração Geral",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços de Administração Geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "a1d3a408f7aa77ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Repartição de Pessoal e de Expediente Geral",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 15.º — Repartição de Pessoal e de Expediente Geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "ca0603da45dbace8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Repartição Financeira e Patrimonial",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 16.º — Repartição Financeira e Patrimonial\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "1f5450d6c8093d86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Gabinete Jurídico",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 17.º — Gabinete Jurídico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "90b0fbaf9a3db49c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Quadro de pessoal",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 18.º — Quadro de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "846d77221da5b273": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Carreira de inspector superior de pescas",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 19.º — Carreira de inspector superior de pescas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "ae2446de1a4aadbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Carreira de inspector técnico de pescas",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 20.º — Carreira de inspector técnico de pescas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "4b63cb350f6258f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Carreira de técnico-adjunto de inspecção de pescas",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 21.º — Carreira de técnico-adjunto de inspecção de pescas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "8cec9772841971b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Conteúdos funcionais das carreiras de inspecção de pescas",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 22.º — Conteúdos funcionais das carreiras de inspecção de pescas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "64c7224bccce4901": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Direitos e deveres especiais do pessoal de inspecção de pescas",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 23.º — Direitos e deveres especiais do pessoal de inspecção de pescas\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - O director-geral, o inspector das pescas, o director de serviços de Inspecção, bem como o pessoal das carreiras de inspector superior e inspector técnico de pescas e de técnico-adjunto de inspecção de pescas, mantêm o direito ao suplemento criado pelo artigo 30.º do [Decreto-Lei n.º 421/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1988-357533), de 12 de Novembro, de acordo com o disposto nos n.os 1 e 2 do artigo 37.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "0dbca822bf1e2182": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Identificação",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 24.º — Identificação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "03946109c18e0490": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Carreira de técnico de verificação de produtos da pesca",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 25.º — Carreira de técnico de verificação de produtos da pesca\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "3676631dc559da46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Princípios e instrumentos de gestão",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 26.º — Princípios e instrumentos de gestão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "85b25633e0ec41ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Receitas",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 27.º — Receitas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "0b8279da0bb370bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Concessão de serviços",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 28.º — Concessão de serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "50e44c83bdd1e682": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Sucessão e articulação com o Sistema da Autoridade Marítima",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 29.º — Sucessão e articulação com o Sistema da Autoridade Marítima\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "dcbb5f16a10c929c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Transição de património, saldos de gerência e dotações orçamentais",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 30.º — Transição de património, saldos de gerência e dotações orçamentais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "9db55c7f34094704": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Transferência de registos",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 31.º — Transferência de registos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "8de964805e35c864": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Transição de pessoal",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 32.º — Transição de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "96787d22c2576542": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Vigência",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 33.º — Vigência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "7743bd0a75ec7ed2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Revogação",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "###### Artigo 34.º — Revogação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02.\n\nVisto e aprovado em Conselho de Ministros de 11 de Junho de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Eduardo Eugénio Castro Azevedo Soares.\n\nPromulgado em 3 de Agosto de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 3 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "d82ff618a405972e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Estrutura remuneratória da carreira técnica de inspecção",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "## ANEXO I — Estrutura remuneratória da carreira técnica de inspecção\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "2dfe550909ebb7d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Estrutura remuneratória da carreira de verificador",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "## ANEXO II — Estrutura remuneratória da carreira de verificador\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  },
+  "7648bbca9731e230": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Conteúdos funcionais",
+   "in_force_from": "1997-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+   ],
+   "markdown": "## ANEXO III — Conteúdos funcionais\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto Regulamentar n.º 12/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1997-382200), publicado em 1997-05-02."
+  }
+ }
+}

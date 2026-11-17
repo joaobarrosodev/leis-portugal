@@ -33,16 +33,28 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 3 (DL 280/78), art. 3.º, e alterador 5 (DL 66/79): novas redações das regras 1, 2, 3 e 7 do anexo — o anexo (regras para a reavaliação) não está no texto atual, pelo que não foram aplicadas. Alteradores 2, 4, 6, 7, 8, 9 e 10: prorrogações do prazo dos n.os 1 e 2 do art. 1.º sem nova redação do texto — não textuais, não aplicadas.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — Regras para reavaliação do activo imobilizado",
+      "texto": "1. As reavaliações dos bens integrantes dos activos imobilizados corpóreos das empresas têm por objectivo evidenciar as respectivas mais-valias resultantes da desvalorização monetária e/ou das valorizações intrínsecas desses mesmos bens, podendo ser usados nessas reavaliações os seguintes critérios:\n\na) Para os bens ainda não totalmente amortizados e não adquiridos em estado de uso, o critério do valor de substituição (ou valor novo) ou o critério da correcção monetária, nos termos das regras 2, 3 e 4;\n\nb) Para os bens ainda não totalmente amortizados e adquiridos em estado de uso, os critérios referidos na regra 6;\n\nc) Para os bens totalmente amortizados, o critério estabelecido na regra 5.\n\n2. Entende-se por valor de substituição aquele que à data da reavaliação de cada componente do imobilizado corpóreo teria de ser despendido na aquisição (ou construção) e instalação de uma unidade nova ou idêntica ou equiparável em capacidade, custos de produção e qualidade de produto a obter.\n\n3 - Pela aplicação do critério da correcção monetária, o valor reavaliado obtém-se pela aplicação aos respectivos valores de aquisição (ou construção) e instalação dos coeficientes de correcção monetária publicados anualmente pelo Ministério das Finanças e do Plano para efeitos de determinação da matéria colectável do imposto de mais-valias.\n\n4. Após determinação do valor reavaliado de cada componente do imobilizado corpóreo, o valor acumulado das respectivas amortizações ou reintegrações terá de ser corrigido em conformidade, por forma que o valor líquido correspondente reflicta, em termos actuais, a depreciação sofrida. Para o efeito, o valor líquido contabilístico será actualizado pela aplicação de um coeficiente que traduza a relação existente entre o valor bruto reavaliado, segundo qualquer dos critérios anteriores, e o valor bruto originário (ou contabilístico).\n\n5. Os elementos do imobilizado corpóreo que já se encontrem totalmente amortizados, mas ainda possuam aptidão para poderem utilmente desempenhar a sua função técnico-económica e sejam ainda efectivamente utilizados no processo produtivo da empresa, são também objecto de reavaliação, corrigindo-se apenas a sua vida útil total em função do período previsto para utilização futura, aplicando-se, no período adicional, a taxa média resultante da nova vida útil e corrigindo nessa base as reintegrações acumuladas.\n\n6. Os bens que tenham sido adquiridos pela empresa em estado de uso são reavaliados pelo seu valor real actual, tidos em conta o seu estado e a utilidade ainda esperada para a empresa.\n\nSe o critério usado para reavaliação de tais bens for o do valor de substituição referido no n.º 2, o valor em novo que se apurar será reduzido na proporção necessária para ter em conta o seu estado de uso à data da sua aquisição pela empresa.\n\n7. A reavaliação só será considerada se se traduzir em aumento global do valor líquido dos bens reavaliados de, pelo menos, 10% e limitar-se-á, em princípio, quaisquer que sejam os critérios adoptados, ao valor global resultante da aplicação do critério da actualização monetária referido no n.º 3, a menos que, mediante parecer fundamentado da Direcção-Geral das Contribuições e Impostos, se decida manter valor excedente daquele limite, desde que calculado de acordo com os critérios definidos.",
+      "alterador": 5
+    }
+  ],
+  "nao_aplicavel": "As prorrogações do prazo dos n.os 1 e 2 do artigo 1.º feitas pelo artigo único dos DL 126/78 (alterador 2), 20/79 (alterador 4), 519-M2/79 (alterador 6), 569/80 (alterador 7), 72/84 (alterador 8), 230/85 (alterador 9) e 79/88 (alterador 10) não são alterações textuais: não dão nova redação ao artigo 1.º, que fica com o texto dado pelo DL 353-B/77.",
   "instrucoes": [
-    "Alt. 1 (DL 353-B/77): aditado n.º 2 ao art. 1.º; o texto atual passa a n.º 1 — aplicado.",
-    "Alt. 2, 4, 6, 7, 8, 9, 10: prorrogação do prazo do art. 1.º (até 1978, 1979, 1980, 1981, 1984, 1985, 1988) — não textual, em nao_aplicavel.",
-    "Alt. 3 art. 1.º: nova redação do n.º 3 do art. 5.º e do n.º 2 do art. 6.º — aplicadas, copiadas do alterador.",
-    "Alt. 3 art. 2.º: aditados os arts. 6.º-A e 6.º-B — aplicados.",
-    "Alt. 3 art. 3.º: regras 1, 2, 3 e 7 do anexo — anexo ausente do texto atual, em nao_aplicavel.",
-    "Alt. 5 (DL 66/79): regra 3 do anexo — anexo ausente, em nao_aplicavel."
+    "Alterador 1 (DL 353-B/77, artigo único): adita o n.º 2 ao artigo 1.º; o texto atual passa a n.º 1 («1. ...»). Aplicado.",
+    "Alterador 2 (DL 126/78): prorroga o prazo do artigo 1.º até 31/12/1978; não é alteração textual (nao_aplicavel).",
+    "Alterador 3 (DL 280/78), art. 1.º: nova redação do n.º 3 do artigo 5.º (coluna (4)) e do n.º 2 do artigo 6.º (Código da Contribuição Industrial). Aplicado; os outros números ficam com o texto atual.",
+    "Alterador 3, art. 2.º: adita os artigos 6.º-A e 6.º-B. Aplicado.",
+    "Alterador 3, art. 3.º: nova redação das regras 1, 2, 3 e 7 do anexo; regras 4, 5 e 6 ficam («...»). Reparo do verificador confirmado: aplicado no corpo do anexo (a regra 3 foi depois substituída pelo alterador 5).",
+    "Alterador 4 (DL 20/79): prorroga o prazo até 31/12/1979; não textual (nao_aplicavel).",
+    "Alterador 5 (DL 66/79, artigo único): nova redação do n.º 3 do anexo. Aplicado sobre a redação do DL 280/78; o anexo vai com o alterador 5 como último a mudá-lo.",
+    "Alteradores 6 a 10 (DL 519-M2/79, 569/80, 72/84, 230/85, 79/88): prorrogam o prazo do artigo 1.º; não textuais (nao_aplicavel).",
+    "A assinatura ministerial no fim do corpo do anexo não entra no corpo devolvido (fórmula final do diploma)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-06-06'
+version_history:
+  file: despacho-normativo-759-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-11-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-06-06'
+    amending: pt:dre:555461:por
+    amending_title: Despacho Normativo n.º 9/97; Despacho Normativo n.º 37/98
+    changes:
+    - Altera Artigo ANEXO B — Critérios para a apreciação da proposta de criação de novas infra-estruturas de apoio à indústria::9.º
+    - Altera Artigo ANEXO B — Critérios para a apreciação da proposta de criação de novas infra-estruturas de apoio à indústria::12.º
+    - Altera Artigo ANEXO C — Acção C - Infra-estruturas associativas
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/759/1994/11/05/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:26:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 9/97; Despacho
+    Normativo n.º 37/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1994/despacho-normativo-759-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -369,7 +386,9 @@ c) Viaturas e material de transporte.
 
 1 - O incentivo a conceder assumirá a forma de um subsídio financeiro a fundo perdido, determinado pela aplicação de uma percentagem sobre o total das aplicações relevantes que cada projecto envolve e até aos limites estabelecidos, constantes dos anexos A a E ao presente Regulamento, nos termos do n.º 4 do artigo 2.º
 
-2 - Quando o incentivo às acções A, B, D e E se revelar manifestamente insuficiente para a realização do projecto, poderá aquele ser majorado em casos excepcionais de grande interesse reconhecido por despacho do Ministro da Indústria e Energia, desde que existam disponibilidades orçamentais complementares ao Programa.
+2 - Quando o incentivo se revelar manifestamente insuficiente para a realização do projecto, poderá aquele ser majorado em casos excepcionais de grande interesse reconhecido por despacho do Ministro da Economia, em razão das valias industrial e regional do projecto, desde que existam disponibilidades orçamentais do Programa ou outras complementares.
+
+> Alterado pelo/a [Despacho Normativo n.º 9/97](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-1997-555461), publicado em 1997-02-12.
 
 ###### Artigo 10.º — Apresentação de candidaturas
 
@@ -383,9 +402,11 @@ Considera-se início da realização do projecto a data da factura mais antiga i
 
 ###### Artigo 12.º — Concretização do projecto
 
-1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 1999.
+1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 2000.
 
 2 - Para efeitos administrativos, a concretização do projecto traduzir-se-á na data do último pagamento efectuado pelo beneficiário ou beneficiários no contrato.
+
+> Alterado pelo/a [Despacho Normativo n.º 37/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1998-461979), publicado em 1998-06-01.
 
 ###### Artigo 13.º — Competência e prazos de apreciação
 
@@ -635,11 +656,37 @@ A percentagem de comparticipação a atribuir é de 65% para as empresas e de 75
 
 Condições específicas de acesso do promotor
 
-Os promotores dos projectos deverão cumprir as seguintes condições específicas de acesso:
+1 - Os promotores dos projectos deverão cumprir as seguintes condições específicas de acesso:
 
 a) Ser associação empresarial de vocação industrial, traduzida por um predomínio de sócios pertencentes ao sector industrial superior a 50% da totalidade do número de sócios, ou ter vindo a desenvolver como actividade predominante, há mais de cinco anos, acções de indiscutível interesse para a indústria;
 
 b) Revelar inequivocamente um carácter de serviço público ao qual terão acesso todas as empresas que o pretendam e em que a aplicação e a finalidade públicas dos apoios concedidos possam ser verificadas a todo o tempo pelas autoridades competentes.
+
+2 - Poderão ainda ser aceites como promotores as estruturas associativas de âmbito regional que, não sendo de vocação predominantemente industrial, nos termos definidos na alínea a) do número anterior, satisfaçam os seguintes requisitos:
+
+a) Ser estatutariamente uma entidade associativa sem fins lucrativos com representação significativa dos agentes económicos da região, nomeadamente do sector industrial, e ter uma abertura permanente à adesão de novos associados deste sector;
+
+b) Reflectir nos órgãos de gestão a participação no capital associativo ou nas quotizações dos seus associados;
+
+c) Estar sediada e desenvolver a sua acção em região do País de grande potencial para o desenvolvimento industrial;
+
+d) Apresentar um plano de acção de grande interesse para o desenvolvimento da indústria na área geográfica da sua influência, a valorar em função do grau de incidência nas seguintes vertentes:
+
+Cobertura de sectores industriais considerados estratégicos para a economia nacional;
+
+Aproveitamento de recursos humanos e de infra-estruturas de transportes e de apoio existentes na região ou de existência futura assegurada;
+
+Contribuição para o acréscimo de valia e eventual reconversão de actividades locais já existentes;
+
+Promoção da criação de emprego qualificado;
+
+Correspondência ao interesse, a demonstrar, de entidades empresariais ou com capacidade financeira ou de autarquias locais;
+
+e) Assumir o compromisso de ter uma atitude pró-activa na angariação de novos associados industriais;
+
+f) Demonstrar a compatibilidade da execução do plano com a sua viabilidade económico-financeira a prazo.
+
+3 - Podendo as associações referidas no número anterior ser também apoiadas pelos programas operacionais regionais, como se estabelece na alínea a) do n.º 3 do despacho conjunto dos Ministros do Planeamento e da Administração do Território e da Indústria e Energia publicado no Diário da República, 2.ª série, n.º 141, de 21 de Junho de 1995, devem as suas candidaturas ser instruídas com um diagnóstico e plano de acção de médio prazo, a que se refere o n.º 5 desse despacho conjunto, regendo-se a repartição de apoios a conceder-lhes pelo PEDIP II e por esses programas pelo disposto nos n.os 6 a 10 do mesmo diploma.
 
 2.º
 
@@ -671,7 +718,7 @@ Outras associações - percentagem da actividade desenvolvida na área industria
 
 Aplicações relevantes
 
-Constituem aplicações relevantes para efeitos do cálculo do incentivo os custos relativos a:
+1 - Constituem aplicações relevantes para efeitos do cálculo do incentivo os custos relativos a:
 
 a) Aquisição de terreno, com um limite máximo de 10% do investimento elegível;
 
@@ -689,11 +736,15 @@ g) Aquisição de equipamento de apoio ligado à actividade da infra-estrutura;
 
 h) Aquisição de software.
 
+2 - Nos casos em que os promotores se enquadrem no tipo de beneficiários a que se refere o n.º 2 do n.º 1.º, as despesas mencionadas no número anterior só serão consideradas elegíveis desde que aqueles demonstrem que as mesmas são relevantes para o apoio à indústria.
+
 5.º
 
 Incentivo
 
 A percentagem de comparticipação a atribuir é de 70%, à excepção das associações geradoras de receitas, cuja taxa de comparticipação não deverá ultrapassar o limite de 50%, até ao limite máximo de apoio de 200000000$00 por projecto.
+
+> Alterado pelo/a [Despacho Normativo n.º 37/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1998-461979), publicado em 1998-06-01.
 
 ## ANEXO D — Acção D - Infra-estruturas de formação
 

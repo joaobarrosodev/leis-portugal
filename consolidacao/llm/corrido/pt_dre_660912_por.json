@@ -4,56 +4,56 @@
     {
       "de": 9,
       "ate": 11,
-      "texto": "2 - (Revogado.)",
-      "alterador": 1
+      "alterador": 1,
+      "texto": "2 - (Revogado.)"
     },
     {
       "de": 35,
       "ate": 35,
-      "texto": "",
-      "alterador": 1
+      "alterador": 1,
+      "texto": ""
     },
     {
       "de": 36,
       "ate": 36,
-      "texto": "",
-      "alterador": 2
+      "alterador": 2,
+      "texto": ""
     },
     {
       "de": 37,
       "ate": 37,
-      "texto": "",
-      "alterador": 3
+      "alterador": 3,
+      "texto": ""
     },
     {
       "de": 38,
       "ate": 38,
-      "texto": "",
-      "alterador": 5
+      "alterador": 5,
+      "texto": ""
     },
     {
       "de": 43,
       "ate": 43,
-      "texto": "",
-      "alterador": 1
+      "alterador": 1,
+      "texto": ""
     },
     {
       "de": 44,
       "ate": 52,
-      "texto": "",
-      "alterador": 1
+      "alterador": 1,
+      "texto": ""
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Portaria n.º 1138/92 (alterador 6): retira da lista 1 os leites dietéticos para alimentação infantil apenas na parte em que não correspondam a alimentos dietéticos para lactentes destinados a prescrição em certos erros congénitos do metabolismo; é uma exclusão parcial sem nova redação do item, pelo que a unidade 42 não foi alterada.",
+  "nao_aplicavel": "Portaria 1138/92, 1.º: retira da lista I os leites dietéticos para alimentação infantil 'que não correspondam a alimentos dietéticos para lactentes destinados a prescrição em certos erros congénitos do metabolismo ou outras situações metabólicas especiais'; é uma retirada parcial que só se exprimiria com uma linha nova que não está letra a letra em nenhuma fonte, por isso a unidade 42 fica como está.",
   "instrucoes": [
-    "Portaria 398/86 1.º: exclui da lista 1 as bolachas (unidade 35) e as conservas de atum e sardinha (unidade 43): eliminadas.",
-    "Portaria 398/86 2.º: suprime a lista 2 (unidades 44-52): eliminadas.",
-    "Portaria 398/86 3.º: revoga o n.º 2 do n.º 2.º (unidades 9-11): '2 - (Revogado.)'. A revogação de outras portarias não é do original.",
-    "Portaria 1203/90 2.º: retira da lista 1 as massas alimentícias em embalagens de papel (unidade 36): eliminada.",
-    "Portarias 1204/90 e 1216/90 2.º: retiram da lista 1 as farinhas de trigo para usos culinários (unidade 37): eliminada (instrução repetida pela 1216/90).",
-    "Portaria 1144/91 1.º: retira da lista 1 as margarinas (unidade 38): eliminada.",
-    "Portaria 1138/92 1.º: retirada parcial dos leites dietéticos: não aplicada (ver nao_aplicavel)."
+    "Portaria 398/86, 1.º: excluídos da lista I as bolachas (unidade 35) e as conservas de atum e sardinha (unidade 43) - eliminadas.",
+    "Portaria 398/86, 2.º: suprimida a lista II (unidades 44-52) - eliminada.",
+    "Portaria 398/86, 3.º: revogado o n.º 2 do n.º 2.º (unidades 9-11) - '2 - (Revogado.)'.",
+    "Portaria 1203/90, 2.º: retiradas da lista 1 as massas alimentícias em embalagens de papel (unidade 36) - eliminada.",
+    "Portaria 1204/90, 2.º (e Portaria 1216/90, 2.º, igual): retiradas as farinhas de trigo (unidade 37) - eliminada.",
+    "Portaria 1144/91, 1.º: retiradas as margarinas (unidade 38) - eliminada.",
+    "Portaria 1138/92, 1.º: retirada parcial dos leites dietéticos - em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

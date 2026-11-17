@@ -12,6 +12,7 @@ Tudo fica num SQLite com FTS5 (BM25), fora do git:
     PYTHONPATH=src python -m rag.indice --amostra 5000 # só os diplomas da avaliação e mais 5000
     PYTHONPATH=src python -m rag.indice --sem-serie-ii # sem os atos da 2.ª Série recolhidos em 12/11/2026
     PYTHONPATH=src python -m rag.indice --com-serie-ii # com esses atos também no BM25 em todo o acervo
+    PYTHONPATH=src python -m rag.indice --com-perguntas # com as perguntas de leigo de rag/perguntas_artigo/ (piloto)
 
 Os regulamentos, deliberações, acordos coletivos de trabalho, editais e declarações que o
 `collect dre --missing --all` trouxe a partir de 12/11/2026 (~90 mil, quase todos da 2.ª
@@ -98,13 +99,66 @@ def rotulo(doc: Documento, parte: str, numero: str, epigrafe: str) -> str:
     return " › ".join(partes)
 
 
-def textos_fts(titulo: str, sumario: str, parte: str, epigrafe: str, texto: str) -> tuple[str, str]:
+def textos_fts(titulo: str, sumario: str, parte: str, epigrafe: str, texto: str, perguntas: str = "") -> tuple[str, str]:
     """Os termos de um pedaço na tabela de pesquisa (cabeçalho e texto).
 
     A tabela é sem conteúdo (`content=''`): para apagar um pedaço é preciso dar-lhe os mesmos termos
-    com que entrou. Por isso a construção (`construir`) e os deltas (`rag.dados`) usam esta função."""
+    com que entrou. Por isso a construção (`construir`) e os deltas (`rag.dados`) usam esta função.
+    As `perguntas` de leigo do artigo (`rag.perguntas_por_artigo`) juntam-se aos termos do texto."""
     cabecalho = f"{titulo} {sumario[:300]} {parte} {epigrafe}"
-    return " ".join(termos_mod.termos(cabecalho)), " ".join(termos_mod.termos(texto))
+    corpo_ = termos_mod.termos(texto) + (termos_mod.termos(perguntas) if perguntas else [])
+    return " ".join(termos_mod.termos(cabecalho)), " ".join(corpo_)
+
+
+ESQUEMA_PERGUNTAS = "CREATE TABLE IF NOT EXISTS perguntas_artigo (documento TEXT, chave TEXT, perguntas TEXT, PRIMARY KEY (documento, chave))"
+
+
+def tem_perguntas(con: sqlite3.Connection) -> bool:
+    return con.execute("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'perguntas_artigo'").fetchone() is not None
+
+
+def perguntas_do_indice(con: sqlite3.Connection, documento: str | None = None) -> dict[tuple[str, str], str]:
+    """(documento, chave) → perguntas (uma por linha), de um diploma ou de todos; vazio se não há a tabela."""
+    if not tem_perguntas(con):
+        return {}
+    sql, args = "SELECT documento, chave, perguntas FROM perguntas_artigo", ()
+    if documento is not None:
+        sql, args = sql + " WHERE documento = ?", (documento,)
+    return {(d, c): p for d, c, p in con.execute(sql, args)}
+
+
+def perguntas_do_pedaco(perguntas: dict[tuple[str, str], str], documento: str, chave: str, ate: str | None) -> str:
+    """As perguntas que entram nos termos de um pedaço: só na redação em vigor (`ate` vazio), de onde foram escritas."""
+    return perguntas.get((documento, chave), "") if ate is None else ""
+
+
+def juntar_perguntas(con: sqlite3.Connection, perguntas: dict[tuple[str, str], list[str]]) -> dict:
+    """Junta as perguntas de leigo aos termos dos artigos em vigor (e grava-as em `perguntas_artigo`).
+
+    Substitui as perguntas que o artigo já tivesse. A construção (`construir`) e a experiência
+    (`rag.perguntas_por_artigo juntar`) passam por aqui; os deltas (`rag.dados`) usam as mesmas regras."""
+    con.execute(ESQUEMA_PERGUNTAS)
+    antigas = perguntas_do_indice(con)
+    encontradas, em_falta, pedacos_ = 0, [], 0
+    for (documento, chave), lista in sorted(perguntas.items()):
+        texto_novo = "\n".join(lista)
+        linhas = con.execute(
+            "SELECT p.id, p.parte, p.epigrafe, p.texto, d.titulo, d.sumario FROM pedacos p JOIN documentos d ON d.id = p.documento "
+            "WHERE p.documento = ? AND p.chave = ? AND p.ate IS NULL",
+            (documento, chave),
+        ).fetchall()
+        if not linhas:
+            em_falta.append((documento, chave))
+            continue
+        encontradas += 1
+        velho = antigas.get((documento, chave), "")
+        for id_, parte, epigrafe, texto, titulo, sumario in linhas:
+            args = (titulo, sumario or "", parte or "", epigrafe or "", texto or "")
+            con.execute("INSERT INTO pedacos_fts (pedacos_fts, rowid, cabecalho, texto) VALUES ('delete', ?, ?, ?)", (id_, *textos_fts(*args, velho)))
+            con.execute("INSERT INTO pedacos_fts (rowid, cabecalho, texto) VALUES (?, ?, ?)", (id_, *textos_fts(*args, texto_novo)))
+            pedacos_ += 1
+        con.execute("INSERT OR REPLACE INTO perguntas_artigo VALUES (?, ?, ?)", (documento, chave, texto_novo))
+    return {"artigos": encontradas, "pedacos": pedacos_, "em_falta": em_falta}
 
 
 def _blocos(texto: str) -> Iterator[str]:
@@ -222,7 +276,10 @@ def relacoes_do_export(export: Path, ids: set[str]) -> Iterator[tuple[str, str, 
                 yield origem, tipo, alvo, titulos.get(alvo) or rotulo_ or alvo, data
 
 
-def construir(saida: Path, documentos: list[Documento], export: Path, *, fios: int = 8, so_referencia: set[str] | None = None) -> None:
+def construir(
+    saida: Path, documentos: list[Documento], export: Path, *, fios: int = 8, so_referencia: set[str] | None = None,
+    perguntas: dict[tuple[str, str], list[str]] | None = None,
+) -> None:
     saida.parent.mkdir(parents=True, exist_ok=True)
     temporario = saida.with_suffix(".tmp")
     temporario.unlink(missing_ok=True)
@@ -281,6 +338,9 @@ def construir(saida: Path, documentos: list[Documento], export: Path, *, fios: i
         # Encontram-se só quando a pergunta os cita: `Pesquisa.bm25` tira-os da pesquisa em todo o acervo.
         con.execute("CREATE TABLE so_referencia (id TEXT PRIMARY KEY)")
         con.executemany("INSERT INTO so_referencia VALUES (?)", [(i,) for i in sorted(so_referencia & ids)])
+    if perguntas:
+        juntadas = juntar_perguntas(con, perguntas)
+        print(f"Perguntas por artigo: {juntadas['artigos']} artigos, {juntadas['pedacos']} pedaços, {len(juntadas['em_falta'])} em falta", file=sys.stderr)
     con.execute("INSERT INTO pedacos_fts (pedacos_fts) VALUES ('optimize')")
     con.commit()
     con.close()
@@ -329,6 +389,10 @@ def main(argv: list[str] | None = None) -> int:
         "--sem-traducoes", action="store_true",
         help="Deixar de fora os atos da UE em tradução não oficial (version.kind translation), para medir o efeito deles.",
     )
+    parser.add_argument(
+        "--com-perguntas", action="store_true",
+        help="Juntar aos artigos as perguntas de leigo de rag/perguntas_artigo/ (piloto; publicar exige --com-perguntas).",
+    )
     args = parser.parse_args(argv)
     export = export_sqlite()
     documentos = documentos_do_export(export, com_serie_ii=not args.sem_serie_ii, com_traducoes=not args.sem_traducoes)
@@ -339,7 +403,12 @@ def main(argv: list[str] | None = None) -> int:
         avaliacao |= {"pt:dre:66022085:por", "pt:dre:571007:por"}
         resto = [d for d in documentos if d.id not in avaliacao]
         documentos = [d for d in documentos if d.id in avaliacao] + random.Random(20261027).sample(resto, min(args.amostra, len(resto)))
-    construir(args.saida, documentos, export, fios=args.fios, so_referencia=so_referencia)
+    perguntas = None
+    if args.com_perguntas:
+        from rag.perguntas_por_artigo import ler
+
+        perguntas = ler()
+    construir(args.saida, documentos, export, fios=args.fios, so_referencia=so_referencia, perguntas=perguntas)
     return 0
 
 

@@ -6,6 +6,12 @@
       "ate": 6,
       "texto": "1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa à presente portaria e que dela faz parte integrante, sitos na freguesia de Ramalhal, município de Torres Vedras, com a área de 1620,1072 ha.",
       "alterador": 2
+    },
+    {
+      "de": 12,
+      "ate": 12,
+      "texto": "6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter um guarda florestal auxiliar dotado de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).",
+      "alterador": 2
     }
   ],
   "insercoes": [
@@ -15,16 +21,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 2, n.º 2.º, modifica o n.º 6.º do original quanto ao número de guardas (passa a obrigar a manter um guarda florestal auxiliar dotado de meio de transporte) sem dar nova redação: alteração não textual, não aplicada à unidade 12. Alterador 1 (Portaria 980/97, suspensão, revogada pelo alt. 2), alterador 3 (Portaria 901/2004, suspensão), alterador 4 (Portaria 519/2005, renovação com 1198 ha, afirmando lapso na área) e alterador 5 (Portaria 884/2010, anexação, 2983 ha) não dão nova redação ao texto. A Portaria 1006/95, referida como alteradora, não consta do pedido.",
+  "nao_aplicavel": "Alteradores 1 (Portaria 980/97) e 3 (Portaria 901/2004): suspensões temporárias da actividade cinegética, não textuais. Alterador 4 (Portaria 519/2005): renova a concessão por 11 anos com 1198 ha (e diz no preâmbulo que os 1620,1072 ha da Portaria 1127/97 são lapso), sem nova redacção nem rectificação expressa de nenhum número. Alterador 5 (Portaria 884/2010), art. 2.º, n.º 2: anexa prédios à zona (zona ii, área total 2983 ha), sem nova redacção do n.º 1.º. Mudar áreas ou prazos seria inferir uma redacção que nenhuma instrução dá por escrito.",
   "instrucoes": [
-    "Alt. 1: suspensão da actividade cinegética, não textual.",
-    "Alt. 2, 1.º: nova redação do n.º 1.º -> unidade 6 substituída.",
-    "Alt. 2, 1.º: aditado n.º 1.º-A -> inserido depois da unidade 6.",
-    "Alt. 2, 2.º: n.º 6.º passa a obrigar a um só guarda, sem nova redação -> nao_aplicavel.",
-    "Alt. 2, 3.º-4.º: revogação da Portaria 980/97 e vigência, sem texto a mudar.",
-    "Alt. 3: suspensão, não textual.",
-    "Alt. 4: renovação e área de 1198 ha, não textual.",
-    "Alt. 5: anexação de prédios, não textual."
+    "Alterador 1 (Portaria 980/97): suspensão da actividade cinegética por 180 dias; não textual (revogada pelo alterador 2).",
+    "Alterador 2 (Portaria 1127/97), 1.º: nova redacção do n.º 1.º (1620,1072 ha); unidade 6 substituída.",
+    "Alterador 2, 1.º, 2.ª parte: aditado o n.º 1.º-A; inserido depois da unidade 6.",
+    "Alterador 2, 2.º: o n.º 6.º passa a obrigar a manter um guarda florestal auxiliar dotado de meio de transporte; reparo confirmado, trocada na unidade 12 só a expressão dos guardas.",
+    "Alterador 3 (Portaria 901/2004): suspensão até à renovação; não textual.",
+    "Alterador 4 (Portaria 519/2005): renovação por 11 anos com 1198 ha; sem redacção; não aplicado.",
+    "Alterador 5 (Portaria 884/2010): extinção da zona municipal e anexação de prédios; sem redacção para o original; não aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

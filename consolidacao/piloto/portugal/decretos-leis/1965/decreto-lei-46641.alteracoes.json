@@ -11,7 +11,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   },
   {
     "artigo": "8.º",
@@ -25,7 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   },
   {
     "artigo": "9.º",
@@ -39,7 +39,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   },
   {
     "artigo": "10.º",
@@ -53,7 +53,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   },
   {
     "artigo": "11.º",
@@ -67,7 +67,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   },
   {
     "artigo": "12.º",
@@ -81,7 +81,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   },
   {
     "artigo": "13.º",
@@ -95,7 +95,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   },
   {
     "artigo": "22.º",
@@ -109,21 +109,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
-  },
-  {
-    "artigo": "23.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 23.º\n\nA redução dos escudos à moeda do país em que forem cobradas as taxas dos emolumentos consulares estabelecidas nas secções desta tabela será calculada em Lisboa segundo os câmbios fixados para este fim pelo Ministério dos Negócios Estrangeiros.",
-    "depois": "###### Artigo 23.º\n\n1 - A conversão dos escudos à moeda do país em que forem cobradas as taxas dos emolumentos consulares estabelecidas nas secções desta tabela será efectuada, segundo os câmbios fixados para este fim, pelo Ministério dos Negócios Estrangeiros, de acordo com o disposto nos números seguintes.\n\n2 - As taxas de conversão de escudos nas moedas dos países em que são cobrados emolumentos consulares - taxas de câmbio consular - serão iguais aos câmbios de compra das divisas cotadas pelo Banco de Portugal.\n\n3 - Quando alguma divisa não for cotada pelo Banco de Portugal, a taxa de câmbio consular será calculada por meio de câmbio cruzado (cross-rate), preferentemente em função do dólar dos EUA ou da libra esterlina.\n\n4 - O montante em moeda estrangeira resultante da conversão, segundo os números anteriores, será arredondado, quando necessário, em ordem a facilitar a cobrança.\n\n5 - As taxas de câmbio consular serão obrigatoriamente revistas no início de cada ano e, além disso, sempre que o desvio entre uma taxa de câmbio consular em vigor e o câmbio no último dia de cada mês, determinado nos termos dos n.os 2 e 3, for igual ou superior a 6%.\n\n6 - As taxas revistas em obediência ao número anterior entrarão em vigor até ao fim do mês seguinte ao da data da cotação que lhes servir de base.\n\n> Alterado pelo/a [Lei n.º 4/82](https://diariodarepublica.pt/dr/detalhe/lei/4-1982-607351), publicado em 1982-04-15.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   },
   {
     "artigo": "19.º",
@@ -137,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   },
   {
     "artigo": "24.º",
@@ -151,6 +137,62 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:511670:por",
-    "alterador": "pt:dre:146059:por;pt:dre:607351:por;pt:dre:666550:por"
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
+  },
+  {
+    "artigo": "23.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 23.º\n\nA redução dos escudos à moeda do país em que forem cobradas as taxas dos emolumentos consulares estabelecidas nas secções desta tabela será calculada em Lisboa segundo os câmbios fixados para este fim pelo Ministério dos Negócios Estrangeiros.",
+    "depois": "###### Artigo 23.º\n\n1 - A conversão dos escudos à moeda do país em que forem cobradas as taxas dos emolumentos consulares estabelecidas nas secções desta tabela será efectuada, segundo os câmbios fixados para este fim, pelo Ministério dos Negócios Estrangeiros, de acordo com o disposto nos números seguintes.\n\n2 - As taxas de conversão de escudos nas moedas dos países em que são cobrados emolumentos consulares - taxas de câmbio consular - serão iguais aos câmbios de compra das divisas cotadas pelo Banco de Portugal.\n\n3 - Quando alguma divisa não for cotada pelo Banco de Portugal, a taxa de câmbio consular será calculada por meio de câmbio cruzado (cross-rate), preferentemente em função do dólar dos EUA ou da libra esterlina.\n\n4 - O montante em moeda estrangeira resultante da conversão, segundo os números anteriores, será arredondado, quando necessário, em ordem a facilitar a cobrança.\n\n5 - As taxas de câmbio consular serão obrigatoriamente revistas no início de cada ano e, além disso, sempre que o desvio entre uma taxa de câmbio consular em vigor e o câmbio no último dia de cada mês, determinado nos termos dos n.os 2 e 3, for igual ou superior a 6%.\n\n6 - As taxas revistas em obediência ao número anterior entrarão em vigor até ao fim do mês seguinte ao da data da cotação que lhes servir de base.\n\n> Alterado pelo/a [Lei n.º 4/82](https://diariodarepublica.pt/dr/detalhe/lei/4-1982-607351), publicado em 1982-04-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:511670:por",
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
+  },
+  {
+    "artigo": "SECÇÃO I",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO I",
+    "depois": "#### SECÇÃO I — Protecção consular",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:511670:por",
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
+  },
+  {
+    "artigo": "SECÇÃO VI — Actos diversos",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO VI — Actos diversos",
+    "depois": "#### SECÇÃO VI — Percentagens",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:511670:por",
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
+  },
+  {
+    "artigo": "SECÇÃO VII — Percentagens",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "#### SECÇÃO VII — Percentagens",
+    "depois": "#### SECÇÃO VII — Actos diversos",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:511670:por",
+    "alterador": "pt:dre:146059:por;pt:dre:666550:por;pt:dre:607351:por"
   }
 ]

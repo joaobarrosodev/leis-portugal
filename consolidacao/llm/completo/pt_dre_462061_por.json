@@ -27,16 +27,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Quadro de pessoal anexo (art. 31.º): alterado pelos arts. 6.º, 9.º e 10.º do DL 115/83 e substituído pelo mapa anexo à Portaria 65/88; o quadro só existe em imagem (ver documento original), não aplicado.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "DL 115/83, art. 6.º (quadro aumentado de 5 técnicos superiores e deduzido de 10 escriturários-dactilógrafos), art. 9.º (extinção de 2 lugares de consultor jurídico do quadro anexo) e art. 10.º (novo quadro em mapa anexo), e Portaria n.º 65/88 (novo quadro de pessoal): alteram o quadro de pessoal, que no original e nos alteradores só vem em imagem («(ver documento original)»), sem corpo de anexo em texto; o texto do art. 31.º não muda. Não aplicados. DL 117/2011 (alterador 3): não vem nenhum texto no pedido, nada a aplicar.",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação do artigo 3.º (DG da Administração e da Função Pública, vírgula na b), nova alínea m)); aplicada.",
-    "Alterador 1, art. 2.º: nova redação do artigo 6.º (saem os Serviços Jurídicos e de Contencioso, entra o Centro de Apuramento de Custos e Estatísticas); aplicada.",
-    "Alterador 1, arts. 3.º a 5.º, 7.º e 11.º: normas autónomas do DL 115/83, não alteram o texto do original.",
-    "Alterador 1, art. 8.º: revoga o n.º 2 do artigo 8.º -> '2 - (Revogado.)' e o artigo 20.º -> (Revogado.); as revogações das Portarias 846/80 e 107/81 são de outros diplomas.",
-    "Alterador 1, arts. 6.º, 9.º e 10.º, e alterador 2 (Portaria 65/88): alteram o quadro de pessoal anexo, só em imagem; em nao_aplicavel.",
-    "Alterador 3 (DL 117/2011): sem texto no pedido; nada aplicado."
+    "Alterador 1 (DL 115/83), art. 1.º: nova redação do art. 3.º (alínea a) com 'Direcção-Geral da Administração e da Função Pública', vírgula em b), nova alínea m)).",
+    "Alterador 1, art. 2.º: nova redação do art. 6.º (sai Serviços Jurídicos e de Contencioso, entra 8) Centro de Apuramento de Custos e Estatísticas).",
+    "Alterador 1, art. 8.º: revogados o n.º 2 do art. 8.º e o art. 20.º.",
+    "Alterador 1, art. 3.º (competências do Centro de Apuramento) e arts. 4.º, 5.º, 7.º, 11.º: normas próprias do DL 115/83, não alteram o texto do original.",
+    "Alterador 1, arts. 6.º, 9.º e 10.º, e alterador 2 (Portaria 65/88): quadro de pessoal só em imagem: em nao_aplicavel (reparos do verificador confirmados quanto à existência das instruções, mas sem texto aplicável).",
+    "Alterador 3 (DL 117/2011): sem texto no pedido."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

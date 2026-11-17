@@ -1,0 +1,24 @@
+{
+  "id": "pt:dre:389381:por",
+  "artigos": [
+    {
+      "chave": "7.º",
+      "epigrafe": "",
+      "texto": "1 - Os encargos decorrentes deste diploma passam a ser satisfeitos por verbas adequadas do orçamento do Estado-Maior-General das Forças Armadas.\n\n2 - Os encargos a que se refere o número anterior podem, excepcionalmente, ser satisfeitos pelo ramo das Forças Armadas a que o pessoal pertence, mediante despacho conjunto dos Ministros das Finanças e da Defesa Nacional, devidamente fundamentado.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Alterador 1 (DL 232/2002), art. 1.º: nova redação do art. 7.º; o n.º 1 '(Corpo do artigo.)' é um marcador de que o corpo anterior passa a n.º 1, por isso o n.º 1 leva o texto original do art. 7.º (copiado letra a letra do bloco 'como estava no original') e o n.º 2 o texto do alterador. Reparo do verificador confirmado.",
+    "Alterador 1, art. 2.º: altera o art. 9.º do DL 56/81, outro diploma: ignorado.",
+    "Alterador 2 (Portaria 116/2023): prorroga uma comissão de serviço ao abrigo do DL 55/81; não contém instruções de alteração ao texto: nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

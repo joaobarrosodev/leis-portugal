@@ -10,9 +10,6 @@ consolidacao:
   - id: pt:dre:258568:por
     title: Portaria n.º 588/93
     publication_date: '1993-06-12'
-  - id: pt:dre:526581:por
-    title: Portaria n.º 201/97
-    publication_date: '1997-03-24'
 ---
 
 # Portaria n.º 719/88
@@ -70,10 +67,6 @@ b) Nos bilhetes simples e de ida e volta, o número do cartão de livre trânsit
 17.º Na falta de acordo de transporte, quer por inexistência quer por cessação dos seus efeitos, aplica-se o regime previsto nos n.os 1.º a 12.º da presente portaria.
 
 > Aditado pelo/a [Portaria n.º 588/93](https://diariodarepublica.pt/dr/detalhe/portaria/588-1993-258568), publicado em 1993-06-12.
-
-18.º O disposto nos n.os 13.º a 17.º é aplicável ao pessoal da Direcção-Geral dos Serviços Prisionais que, pelo seu estatuto, beneficie de transporte gratuito.
-
-> Aditado pelo/a [Portaria n.º 201/97](https://diariodarepublica.pt/dr/detalhe/portaria/201-1997-526581), publicado em 1997-03-24.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 

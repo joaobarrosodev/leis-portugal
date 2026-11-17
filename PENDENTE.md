@@ -121,6 +121,25 @@ Os números estão no `rag/README.md`, «Tipos novos».
   como em vigor os artigos repostos depois de revogados (159, entre eles o arrendamento do Código
   Civil). Ver «Modo sem IA» no `rag/README.md`.
 
+## Compostas: mais artigos no contexto do LLM (16/11, em espera)
+
+Os números estão no `rag/README.md`, em «Compostas: o segundo artigo no contexto, só com a pesquisa».
+
+Só com a pesquisa, os dois artigos estão nos 8 primeiros em 67 das 100 compostas e nos 16 primeiros em 78. As
+outras 21 falhas são da pesquisa: o artigo não está nos 30 candidatos que o reranker lê, e um contexto maior
+não o traz.
+
+**Por fazer, quando a máquina estiver livre:** medir com o LLM e os quatro juízes um contexto de 8 contra um de 16, no mesmo índice copiado
+para uma pasta fixa. Entram as 100 compostas e a premissa errada, e, se houver tempo, as sem resposta e uma amostra de reais.
+- No `passo_llm`, pesquisar uma só vez para os dois contextos, guardando as consultas. Com o reranker, a pesquisa
+  leva cerca de 1 minuto por pergunta.
+- Se o 16 ganhar sem piorar os outros tipos, mudar:
+  - `ARTIGOS_NO_CONTEXTO`;
+  - o `k=10` do `avaliar`, do `perguntar` e do `web`;
+  - o `[:8]` fixo do `passo_llm importar`.
+- **À parte, para a pesquisa:** subir o `maximo` do reranker. Pode recuperar até 14 das 21 falhas, mas muda a
+  pesquisa de todos os tipos e torna-a mais lenta.
+
 ## 4. OCR da CNPD: feito (15/11)
 
 36.197 decisões com texto por OCR; ficam 311 sem texto. Validação sem erros e commit no main.
@@ -129,3 +148,22 @@ Os números estão no `rag/README.md`, «Tipos novos».
 
 - **TC e CNPD:** a resposta ao pedido de confirmação da reutilização, notificados a 12/11/2026.
 - **Chave da API:** para testar as respostas escritas com o LLM.
+
+## 6. Perguntas de leigo por artigo (piloto, 16/11)
+
+Os números estão no `rag/README.md`, «Perguntas por artigo».
+
+- **Feito:**
+  - 3.078 perguntas de leigo para os 765 artigos em vigor do Código do Trabalho, do NRAU e do arrendamento do Código Civil (`rag/perguntas_artigo/`), escritas por 22 sessões do Claude às cegas das perguntas de avaliação;
+  - o código para as juntar ao índice (`rag.indice --com-perguntas`, desligado por omissão) e para as levar nos deltas, com testes.
+- **Medido:** nas 155 perguntas do âmbito que nunca afinaram, o artigo certo em 1.º muda assim:
+  - com BM25, 15 % → 55 %;
+  - com o reranker, 26 % → 44 % (+18 pontos; 31 ganhos, 3 perdas), sem mudança fora do âmbito;
+  - com o reranker a ler também as perguntas, 26 % → 71 %, com o «não sei» de 75 % para 28 %.
+- **Decisão: alargar aos outros códigos** (critério de +10 pontos cumprido). Por fazer:
+  - medir a variante do reranker com perguntas fora do âmbito e nas «sem resposta», e rever o limiar 3 com ela;
+  - rever a lista dos códigos principais, que também traz regulamentos e editais grandes;
+  - gerar uns 430 lotes (cerca de 45 milhões de tokens, umas 2 horas com 11 sessões);
+  - pôr as perguntas no índice de uso;
+  - publicar só depois de lançar a aplicação que sabe apagá-las nos deltas (`publicar --com-perguntas`).
+- **Achado:** `fontes.revogado` dá como revogados 50 artigos em vigor do Código Civil (1064.º–1113.º), por causa de notas antigas «Revogado pelo…» seguidas de «Aditado/Alterado». A sessão «Voltar ao trabalho» já tem a correção no seu worktree.

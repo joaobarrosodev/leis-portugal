@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:612829:por
     title: Decreto-Lei n.º 71/89
     publication_date: '1989-03-03'
+  - id: pt:dre:303601:por
+    title: Decreto-Lei n.º 170-A/90
+    publication_date: '1990-05-26'
 ---
 
 # Decreto-Lei n.º 353/88
@@ -60,9 +63,9 @@ c) Nenhuma entidade não pública, singular ou colectiva, no conceito definido p
 
 e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b) serão fixadas para cada operação de venda por portaria do Ministro das Finanças.
 
-2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos.
+2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de um ano.
 
-> Alterado pelo/a [Decreto-Lei n.º 71/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1989-612829), publicado em 1989-03-03.
+> Alterado pelo/a [Decreto-Lei n.º 170-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-a-1990-303601), publicado em 1990-05-26.
 
 3 - A alienação de acções pelo Estado deve realizar-se por transacção em bolsa de valores, com excepção da parte das acções que em cada alienação seja reservada nos termos das alíneas a) e b) do n.º 1, a qual será transaccionada mediante subscrição pública, com recurso a rateio, se tal se vier a mostrar necessário.
 

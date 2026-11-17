@@ -9,12 +9,23 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "A alínea c) do artigo 48.º do DL 85/2005 revoga também o anexo II da Portaria n.º 240/92, que não vem no texto atual (só há o anexo I, em imagem); a revogação do anexo II não foi aplicada ao texto.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO II",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Decreto-Lei n.º 85/2005, artigo 46.º, n.º 2 (a disciplina do artigo 27.º e do anexo II deixa de ser aplicável a certas instalações): não é alteração textual; fica absorvida pela revogação do artigo 48.º, alínea c).",
   "instrucoes": [
-    "Alterador 1 (DL 85/2005), artigo 46.º, n.º 2: afasta a aplicação do artigo 27.º e do anexo II a certas instalações; não é alteração textual; nada feito.",
-    "Alterador 1 (DL 85/2005), artigo 48.º, alínea c): revoga o artigo 27.º e o anexo II; artigo 27.º do Regulamento marcado (Revogado.); anexo II ausente do texto atual."
+    "Alterador 1 (Decreto-Lei n.º 85/2005), artigo 48.º, alínea c): a partir de 28 de Dezembro de 2005 (data certa, já decorrida) revoga o artigo 27.º do Regulamento (ANEXO::27.º) — «(Revogado.)».",
+    "Reparo confirmado: a mesma alínea c) revoga o anexo II da Portaria n.º 240/92 — o corpo do «## ANEXO II» passa a «(Revogado.)».",
+    "A revogação posterior do artigo 48.º do Decreto-Lei n.º 85/2005 pelo Decreto-Lei n.º 127/2013 não repristina o artigo 27.º nem o anexo II.",
+    "Artigo 46.º, n.º 2: não textual (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

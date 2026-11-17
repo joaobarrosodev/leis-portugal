@@ -9,13 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alt. 1 (Despacho Normativo n.º 102/85), n.º 3: a classificação de cursos anexa (unidades 23-24) é substituída pelo anexo III do alterador, que não vem no texto (só imagem no original); n.º 2: alargamento da rede escolar do anexo III às escolas do anexo II do alterador, cujo conteúdo também não vem em texto. Não aplicados.",
+  "nao_aplicavel": "Alterador 1 (Despacho Normativo n.º 102/85): n.º 1 cria cursos por estatuição própria; n.º 2 alarga a rede escolar do anexo III às escolas e cursos do anexo II do alterador, e n.º 3 substitui a classificação de cursos anexa ao original pela do anexo III do alterador; esses anexos do alterador não vêm em texto e a classificação de cursos e o anexo III do original só vêm em imagem, pelo que não se pode aplicar. A nota de retificação diz respeito ao anexo I-A do próprio Despacho Normativo n.º 102/85. Alterador 2 (Despacho Normativo n.º 120/92): n.os 2 e 3 extinguem cargos sem instrução textual sobre o original; n.º 4 e a primeira parte do n.º 5 alteram e revogam números do Despacho Normativo n.º 142/84, que é outro diploma.",
   "instrucoes": [
-    "Alt. 1, n.º 1: cria cursos (norma própria), não altera o texto do original.",
-    "Alt. 1, n.º 2: alarga a rede escolar do anexo III - conteúdo não disponível em texto, não aplicado.",
-    "Alt. 1, n.º 3: substitui a classificação de cursos anexa - anexo do alterador não disponível, não aplicado.",
-    "Alt. 2, n.os 1 a 4: dirigidos ao Despacho Normativo n.º 142/84 ou normas próprias - ignorados.",
-    "Alt. 2, n.º 5: revoga o n.º 7 do Despacho Normativo n.º 84/85 - unidade 16 passa a '7 - (Revogado.)'."
+    "Alterador 1 (Despacho Normativo n.º 102/85), n.os 2 e 3: alargamento da rede do anexo III e substituição da classificação de cursos: anexos só em imagem, em nao_aplicavel (reparos confirmados como não aplicáveis).",
+    "Alterador 2 (Despacho Normativo n.º 120/92), n.º 5: revogação do n.º 7 do Despacho Normativo n.º 84/85: unidade 16 passa a «7 - (Revogado.)».",
+    "Alterador 2, n.os 1 a 4 e resto do n.º 5: não se dirigem ao texto do original (manutenção em vigor, extinção de cargos, alterações e revogações do Despacho Normativo n.º 142/84)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

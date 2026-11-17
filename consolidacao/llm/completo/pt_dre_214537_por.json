@@ -40,26 +40,19 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Lei n.º 42/2004 (alterador 6): o artigo 30.º só revoga as normas que contrariem a lei (revogação condicional) e o artigo 31.º, alínea g), mantém a Portaria n.º 515/96 em vigor até à aprovação das normas de execução da lei (efeito adiado para facto futuro); nada aplicado ao texto. As republicações em anexo às Portarias n.os 1061/98, 1200/2000 e 1452-A/2001 trazem diferenças sem instrução correspondente (IPACA passa a ICAM nos artigos 4.º a 10.º, nova redação do n.º 3 do artigo 7.º e do artigo 12.º, alíneas a) a f) no n.º 3 do artigo 10.º, alínea p) do artigo 4.º renumerada como o)); não foram aplicadas por não haver instrução de alteração.",
+  "anexos": [],
+  "nao_aplicavel": "As republicações em anexo às Portarias 1061/98, 1200/2000 e 1452-A/2001 trazem diferenças sem instrução de alteração (IPACA substituído por ICAM noutros artigos, n.º 3 do art. 7.º, vírgulas nos arts. 2.º, 8.º e 9.º, alíneas na lista do n.º 3 do art. 10.º, renumeração da alínea p) para o) do art. 4.º, «Regulamento aprovado pela» no art. 12.º, etc.): não aplicadas, por nenhuma instrução as dar. Lei 42/2004: o art. 30.º revoga só as normas que contrariem a lei (revogação condicional) e o art. 31.º, g), mantém a Portaria 515/96 em vigor até à aprovação das normas de execução (facto futuro): não aplicados ao texto.",
   "instrucoes": [
-    "Alt. 1 (Portaria 565/97) n.º 2.º: nova redação do corpo do art. 1.º (1997) — depois substituída pelo alt. 5.",
-    "Alt. 1 n.º 3.º: alínea a) do art. 3.º (126000 contos) — depois substituída pelo alt. 5.",
-    "Alt. 1 n.º 4.º: alínea l) do art. 4.º (1996) — depois substituída.",
-    "Alt. 1 n.º 5.º: eliminado o n.º 3 do art. 5.º — aplicado.",
-    "Alt. 2 (Portaria 1061/98) n.º 2.º: corpo do art. 1.º (1998) — depois substituído pelo alt. 5.",
-    "Alt. 2 n.º 3.º: art. 3.º com n.os 1 a 4 — depois substituído pelo alt. 5.",
-    "Alt. 2 n.º 4.º: alínea l) do art. 4.º (1997) e aditada a alínea p) — p) aplicada; l) depois substituída.",
-    "Alt. 2 n.º 5.º: n.º 2 do art. 5.º (10.º dia útil) — aplicado.",
-    "Alt. 2 n.º 6.º: aditado o n.º 3 ao art. 10.º — aplicado.",
-    "Alt. 3 (Portaria 1057/99): art. 1.º (1999), n.º 1 do art. 3.º e alínea l) do art. 4.º (1998) — todas depois substituídas pelo alt. 4/5.",
-    "Alt. 4 (Portaria 1200/2000): art. 1.º (2000) e n.os 1 e 3 do art. 3.º — depois substituídos pelo alt. 5; art. 4.º: alínea f) nova redação (aplicada), alínea o) eliminada (aplicada como 'o) (Eliminada.)'), alínea l) (1999) depois substituída.",
-    "Alt. 5 (Portaria 1452-A/2001) n.º 2.º: corpo do art. 1.º (2001, ICAM) — aplicado.",
-    "Alt. 5 n.º 3.º: nova redação integral do art. 3.º (n.os 1 a 6) — aplicada.",
-    "Alt. 5 n.º 4.º: alínea l) do art. 4.º (ano 2000) — aplicada; a lista da instrução acaba em 'o) ...', mantidas o) (Eliminada.) e p) do texto atual.",
-    "Alt. 5 n.º 5.º: aditado o n.º 3 ao art. 9.º — aplicado.",
-    "Alt. 6 (Lei 42/2004) arts. 30.º e 31.º: revogação condicional e manutenção transitória — não aplicadas (ver nao_aplicavel)."
+    "Port. 565/97: art. 1.º (ano 1997), alínea a) do art. 3.º (126000 contos), alínea l) do art. 4.º (1996) e eliminação do n.º 3 do art. 5.º: aplicadas; as três primeiras foram depois substituídas",
+    "Port. 1061/98: art. 1.º (1998); art. 3.º com n.os 1 a 4; art. 4.º l) (1997) e nova p); art. 5.º n.º 2 (10.º dia útil); novo n.º 3 do art. 10.º: aplicadas (5.º e 10.º ficam desta portaria)",
+    "Port. 1057/99: art. 1.º (1999, ICAM), n.º 1 do art. 3.º e alínea l) do art. 4.º (1998): aplicadas e depois substituídas",
+    "Port. 1200/2000: art. 1.º (2000), n.os 1 e 3 do art. 3.º; art. 4.º: alínea o) eliminada e nova redação das alíneas f) e l): aplicadas (f) e o) ficam desta portaria; o reparo do verificador que dizia não haver instrução para f) e o) não se confirma)",
+    "Port. 1452-A/2001: art. 1.º (2001), nova redação integral do art. 3.º (n.os 1 a 6), alínea l) do art. 4.º (ano 2000) e novo n.º 3 do art. 9.º: aplicadas; a lista da instrução para o art. 4.º termina em o) com '...', o que mantém o) (Eliminada.) e p) do texto anterior",
+    "Art. 5.º: o reparo do verificador (n.º 3 só eliminado na republicação) não se confirma: o n.º 5.º da Port. 565/97 elimina expressamente o n.º 3",
+    "Lei 42/2004, arts. 30.º e 31.º: revogação condicional e manutenção transitória em vigor: em nao_aplicavel"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

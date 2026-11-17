@@ -9,17 +9,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "DL 394-A/98, art. 6.º: o n.º 1 adita uma alínea ao n.º 2 do art. 2.º dos Estatutos da CP (DL 109/77) e o n.º 2 altera a relação das linhas e ramais anexa a esses estatutos 'na versão dada pelo Decreto-Lei n.º 116/92'; são instruções dirigidas a outro diploma (os Estatutos aprovados pelo DL 109/77) na redação dada pelo original, por isso não alteram o texto do DL 116/92 (o ANEXO fica como está; o reparo não se segue). Os n.os 3 a 6 respeitam ao DL 104/97 e a compensações: não são do original. DL 137-A/2009, art. 16.º: revoga o DL 109/77 (alterado pelo DL 116/92), não o DL 116/92: sem efeito textual no original. Os arts. 4.º e 5.º do DL 116/92 alterados pelo DL 274/98 não têm chave própria no texto atual: estão dentro do corpo da chave '2.º', onde foram substituídos.",
   "instrucoes": [
-    "Alterador 1 (DL 274/98), art. 1.º: nova redação dos arts. 4.º e 5.º do DL 116/92; esses artigos estão no corpo da chave '2.º' (o texto atual junta o diploma inteiro nessa chave), por isso substituí ali o parágrafo 'Art. 4.º' pelos n.os 1 a 3 novos e o n.º 1 do 'Art. 5.º' pelo novo (n.º 2 '...' fica), mantendo o prefixo 'Art. N.º - ' do texto atual.",
-    "Alterador 1, arts. 2.º e 3.º: normas autónomas, não alteram o original; ignoradas.",
-    "Alterador 2 (DL 394-A/98), art. 6.º: altera os Estatutos da CP (DL 109/77) e a sua relação anexa e o DL 104/97, não o texto do DL 116/92; ignorado.",
-    "Alterador 3 (DL 137-A/2009), art. 16.º: revoga o DL 109/77 (alterado pelo 116/92), não o DL 116/92; restantes artigos e estatutos são diploma novo; ignorado."
+    "DL 274/98, art. 1.º: nova redação dos arts. 4.º (n.os 1 a 3) e 5.º (n.º 1; n.º 2 mantém-se) do DL 116/92; aplicada dentro do corpo da chave '2.º', que contém esses artigos. Arts. 2.º e 3.º do DL 274/98: normas próprias, sem alteração textual do original.",
+    "DL 394-A/98, art. 6.º: dirigido aos Estatutos da CP (DL 109/77) e ao DL 104/97: não aplicado (ver nao_aplicavel).",
+    "DL 137-A/2009: aprova o regime e os estatutos da CP, E. P. E., e revoga o DL 109/77 (art. 16.º); nenhuma instrução dirigida ao texto do DL 116/92."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
   "problemas": [
     "2.º: parágrafo que não está no alterador nem no original: Art. 4.º - 1 - A exploração do serviço de transporte ferroviário de passageiros ",
     "2.º: parágrafo que não está no alterador nem no original: Art. 5.º - 1 - Os Caminhos de Ferro Portugueses, E. P., poderão subconcessionar "
-  ]
+  ],
+  "avisos": []
 }

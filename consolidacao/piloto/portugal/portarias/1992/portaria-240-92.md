@@ -372,8 +372,6 @@ ANEXO I - MAPAS DE REGISTO DE MOVIMENTOS DE ÓLEOS USADOS
 
 ## ANEXO II
 
-Valores limite de emissão (ver nota 1) para determinadas substâncias emitidas na combustão de óleos usados em instalações com potência térmica igual ou superior a 3 MW (PCI).
+(Revogado.)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/071b00/14391443.pdf)
-
-(nota 1) Estes valores limite indicam a concentração da massa das referidas matérias nas emissões de gases, em função do volume dos gases emitidos em condições normais (273 k, 1013 hPa) após a dedução do teor de humidade no vapor de água e em função de um volume de oxigénio, contido nas emissões de gases, de 3%.
+> Alterado pelo/a [Decreto-Lei n.º 85/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2005-532798), publicado em 2005-04-28.

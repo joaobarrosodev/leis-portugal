@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:667357:por",
+  "artigos": [
+    {
+      "chave": "21.º",
+      "epigrafe": "Funcionamento",
+      "texto": "1 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo seu presidente, por iniciativa deste ou por solicitação de um dos restantes membros.\n\n2 - As restantes normas de funcionamento constarão de regimento interno a elaborar pela própria comissão.",
+      "alterador": 6
+    },
+    {
+      "chave": "35.º",
+      "epigrafe": "Estatuto dos dirigentes de ciência e tecnologia",
+      "texto": "1 - Os directores das unidades departamentais são recrutados, por escolha, de entre os investigadores do LNEC com as categorias de investigador-coordenador ou de investigador principal com habilitação ou agregação, sendo a sua nomeação e provimento efectuados pelo ministro da tutela, sob proposta da direcção.\n\n2 - Os chefes dos núcleos são recrutados, por escolha, de entre os investigadores do LNEC, sendo a sua nomeação e provimento efectuados pelo ministro da tutela, sob proposta da direcção.\n\n3 - Os directores das unidades departamentais e os chefes de núcleo são providos em comissão de serviço por um período de três anos, que poderá ser renovada por iguais períodos.\n\n4 - O exercício das funções de director de unidade departamental e de chefe de núcleo tem os efeitos previstos no estatuto da carreira de investigação científica, nomeadamente o disposto no artigo 50.º desse estatuto.\n\n5 - Aos directores das unidades departamentais e aos chefes de núcleo são atribuídos suplementos remuneratórios mensais de, respectivamente, 28% e 23% da remuneração base mensal correspondente ao índice 100 da escala salarial da sua carreira.\n\n6 - Os suplementos remuneratórios referidos no número anterior são considerados para efeitos de cálculo de subsídios de Natal e de férias, bem como das pensões de aposentação, nos termos da legislação aplicável.",
+      "alterador": 6
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Art. 17.º do DL 157/2012 (alterador 6): revoga o DL 304/2007 'salvo o disposto no seu artigo 21.º no que se refere ao n.º 5 do artigo 35.º' do DL 422/99. É uma ressalva sobre outro diploma, não uma instrução textual dirigida ao DL 422/99; não revoga nem altera o art. 21.º nem o n.º 5 do art. 35.º, pelo que nada se aplica ao texto.",
+  "instrucoes": [
+    "Alteradores 1 a 5 (DL 474-A/99, DL 120/2002, DL 215-A/2004, DL 58/2005, DL 79/2005): leis orgânicas do Governo e do MOPTC; só referem o LNEC quanto a tutela e integração ministerial, sem nenhuma instrução textual (substituição, aditamento, revogação) dirigida ao DL 422/99. Nada aplicado.",
+    "Alterador 6 (DL 157/2012): nova orgânica do LNEC, I. P.; o art. 17.º só revoga o DL 304/2007 com ressalva do seu art. 21.º quanto ao n.º 5 do art. 35.º do DL 422/99. Nenhuma instrução revoga ou altera o DL 422/99 (ver nao_aplicavel).",
+    "Art. 21.º: o programa revogou-o sem instrução que o suporte (reparo do verificador confirmado); reposto o texto original, letra a letra do bloco 'como estava no original'.",
+    "Art. 35.º: o programa revogou o n.º 5 sem instrução dirigida ao DL 422/99 (dúvida do verificador confirmada: só há a ressalva do art. 17.º do DL 157/2012 sobre o DL 304/2007); reposto o texto original com o n.º 5."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

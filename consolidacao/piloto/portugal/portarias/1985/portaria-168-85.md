@@ -112,7 +112,7 @@ a) As disciplinas do Ano Propedêutico, são equivalentes a disciplinas do 12.º
 
 b) Se através da equivalência de disciplinas do Ano Propedêutico o estudante não completar o elenco de um curso de 12.º ano de escolaridade, deverá obter aprovação nas disciplinas deste de que careça para tal.
 
-###### Artigo 6.º — Exclusão de candidatura por outros regimes
+###### Artigo 6.º — (Exclusão de candidatura por outros regimes)
 
 A candidatura através deste regime exclui a possibilidade de candidatura por qualquer dos regimes especiais de candidatura à matrícula e inscrição no ensino superior previstos no Regulamento anexo à [Portaria n.º 582-B/84](https://diariodarepublica.pt/dr/detalhe/portaria/582-b-1984-370853), de 8 de Agosto, bem como pelos regimes de reingresso, mudança de curso ou transferência.
 
@@ -140,7 +140,7 @@ Os exames revestirão exclusivamente a forma escrita.
 
 4 - Os estudantes que estejam na situação prevista no n.º 11 do despacho n.º 35/SEAM/84, publicado no Diário da República, 2.ª série, de 21 de Março de 1984, ou disposição análoga de anos anteriores estão dispensados do exame da prova de aferição em relação à disciplina em que não foi atribuída classificação de frequência.
 
-###### Artigo 10.º — Dispensa de exames da prova de aferição
+###### Artigo 10.º — (Dispensa de exames da prova de aferição)
 
 É dispensado do respectivo exame da prova de aferição o estudante que em disciplina de 12.º ano seja:
 
@@ -168,7 +168,7 @@ d) Titular de prova de aferição realizada nos anos de 1982-1983 ou 1983-1984, 
 
 3 - As classificações obtidas nos exames da prova de aferição prestados nos termos deste artigo poderão ainda ser consideradas para melhoria de nota do 12.º ano desde que satisfeitas as condições fixadas no despacho n.º 38/SEAM/84, de 19 de Março, publicado no Diário da República, 2.ª série, de 3 de Abril de 1984, com as alterações introduzidas pelo despacho n.º 49/SEAM/84, de 7 de Maio, publicado no Diário da República, 2.ª série, de 17 de Maio de 1984.
 
-###### Artigo 12.º — Prova de aferição - Épocas e chamadas
+###### Artigo 12.º — (Prova de aferição - Épocas e chamadas)
 
 1 - A prova de aferição será realizada numa e numa só época e terá duas chamadas.
 
@@ -188,7 +188,7 @@ a) Seja titular do 12.º ano de escolaridade, salvo no caso previsto no artigo 1
 
 b) Não seja titular de um curso superior.
 
-###### Artigo 14.º — Situações especiais
+###### Artigo 14.º — (Situações especiais)
 
 1 - Aos alunos que frequentam estabelecimentos de ensino particular e cooperativo sem autonomia ou paralelismo pedagógico, aos alunos do ensino individual ou doméstico e ainda aos estudantes não sujeitos a matrícula que, em consequência, só podem obter a titularidade do 12.º ano de escolaridade através de provas de exame nacionais realizadas pelo Ministério da Educação, aplicar-se-ão as regras especiais constantes do presente artigo.
 
@@ -220,7 +220,7 @@ b) É obrigatória nas 3 disciplinas, salvo se em qualquer delas o estudante ben
 
 5 - Pela inscrição a que se refere o número anterior, no prazo suplementar, é ainda devido o pagamento da propina de 600$00, a liquidar através de estampilhas fiscais a inutilizar no respectivo boletim.
 
-###### Artigo 17.º — Local e prazo da inscrição na prova de aferição
+###### Artigo 17.º — (Local e prazo da inscrição na prova de aferição)
 
 1 - A inscrição na prova de aferição realiza-se de acordo com as seguintes regras:
 
@@ -354,7 +354,7 @@ Os recursos interpostos da classificação atribuída em qualquer dos exames da 
 
 #### SECÇÃO I — Contingentes e preferências regionais
 
-###### Artigo 31.º — Identificação de contingentes
+###### Artigo 31.º — (Identificação de contingentes)
 
 1 - O número de vagas fixado para cada par curso/estabelecimento objecto de concurso de acesso distribui-se, com salvaguarda do disposto no n.º 2, pelos seguintes contingentes:
 
@@ -374,7 +374,7 @@ e) Contingente geral: diferença entre aquele número e o total das vagas afecta
 
 > Alterado pelo/a [Portaria n.º 352-B/85](https://diariodarepublica.pt/dr/detalhe/portaria/352-b-1985-444441), publicado em 1985-06-08.
 
-###### Artigo 32.º — Candidatos pelos contingentes especiais
+###### Artigo 32.º — (Candidatos pelos contingentes especiais)
 
 1 - Poderão concorrer pelos contingentes especiais previstos nas alíneas a), b), e c) do n.º 1 do artigo anterior os candidatos que, cumulativamente, façam prova de que:
 
@@ -568,7 +568,7 @@ b) Um seu procurador bastante;
 
 c) A pessoa que demonstre exercer o poder paternal ou a tutela, sendo o estudante menor.
 
-###### Artigo 45.º — Instrução do processo da candidatura
+###### Artigo 45.º — (Instrução do processo da candidatura)
 
 1 - O processo da candidatura deve ser instruído com:
 
@@ -638,7 +638,7 @@ B é a classificação a que se refere o artigo 49.º
 
 C é a classificação a que se refere o artigo 50.º
 
-###### Artigo 48.º — Componente «A»
+###### Artigo 48.º — (Componente «A»)
 
 1 - A componente A da expressão constante do artigo 47.º é a classificação final do habilitação precedente da habilitação de acesso (um curso complementar do ensino secundário ou os 10.º/11.º anos de escolaridade). Caso a mesma conste do certificado com parte decimal, deverá ser arredondada, considerando-se como unidade a parte decimal não inferior a 5 décimas.
 
@@ -740,7 +740,7 @@ h) Colocação dos candidatos do contingente geral ao abrigo da prioridade consa
 
 i) Colocação dos restantes candidatos do contingente geral nas vagas sobrantes após a operação referida na alínea h).
 
-###### Artigo 55.º — Fase complementar
+###### Artigo 55.º — (Fase complementar)
 
 1 - Se após as colocações referidas no artigo 54.º houver vagas sobrantes, realizar-se-á uma fase complementar do concurso destinada exclusivamente a procurar preencher aquelas vagas, se para elas houver candidatos, e à qual serão admitidos:
 
@@ -810,7 +810,7 @@ e) Critérios de prioridade que lhe foram aplicados.
 
 ### CAPÍTULO IV — Matrícula e inscrição no ensino superior
 
-###### Artigo 59.º — Matrícula e inscrição no ensino superior
+###### Artigo 59.º — (Matrícula e inscrição no ensino superior)
 
 1 - Os candidatos colocados deverão proceder à matrícula e inscrição no respectivo estabelecimento e curso de ensino superior no prazo indicado no anexo X.
 

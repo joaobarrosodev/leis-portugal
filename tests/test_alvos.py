@@ -85,3 +85,27 @@ def test_numeros_do_rotulo():
     # os artigos de outro diploma que o original altera
     assert lc.numeros_do_rotulo("Alterados os arts. 21.º, 26.º e 28.º do Dec Lei 225/85, de 04-Jul") == []
     assert lc.numeros_do_rotulo("Alterados os arts. 2º, 82º e 85º do presente diploma, na redacção do Dec Lei 167/89") == ["2.º", "82.º", "85.º"]
+
+
+def test_anexo_revogado_passa_a_verificacao_letra_a_letra(monkeypatch):
+    monkeypatch.setattr(lc, "_alteradores_da_selecao", lambda selecao: [{"path": "a.md"}])
+    monkeypatch.setattr(lc, "texto_do_alterador", lambda caminho: "É revogado o anexo II.")
+    monkeypatch.setattr(lc, "publicado", lambda caminho: "## ANEXO II\n\n1 - Texto antigo.\n\n2 - Outro.")
+    resposta = {"anexos": [{"titulo": "## ANEXO II", "texto": "(Revogado.)", "alterador": 1},
+                           {"titulo": "## ANEXO III", "texto": "2.4 - (Revogado.)", "alterador": 1}]}
+    assert lc.verificar_resposta(resposta, REGISTO) == []
+    resposta["anexos"][0]["texto"] = "Texto inventado."
+    assert lc.verificar_resposta(resposta, REGISTO) != []
+
+
+def test_artigo_reposto_volta_ao_original_sem_notas():
+    original = "###### Artigo 1.º\n\nO prazo é prorrogado.\n\n###### Artigo 2.º\n\nOutro."
+    atual = lc.texto_mod.dividir(
+        "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a DL 20/94, publicado em 1994-01-26.\n\n###### Artigo 2.º\n\nOutro.")
+    extra = {"texto_original": original, "tocados": {"1.º"}}
+    resposta = {"artigos": [{"chave": "1.º", "epigrafe": "", "texto": "O prazo é prorrogado.", "alterador": 1},
+                            {"chave": "2.º", "epigrafe": "", "texto": "Novo.", "alterador": 1}]}
+    resto, repostos = lc._repor_originais(resposta, extra, atual)
+    assert repostos == {"1.º"}
+    assert [a["chave"] for a in resto["artigos"]] == ["2.º"]
+    assert "Revogado pelo" not in atual.texto() and "O prazo é prorrogado." in atual.texto()

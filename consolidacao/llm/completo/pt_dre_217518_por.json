@@ -1,0 +1,31 @@
+{
+  "id": "pt:dre:217518:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "Normas transitórias",
+      "texto": "1 - O pessoal do ICEP afecto ao exercício de funções inerentes à prossecução das atribuições transferidas para o ITP transita para este Instituto, nos termos da lei aplicável, com salvaguarda dos direitos adquiridos.\n\n2 - A transição referida no número anterior realiza-se mediante lista nominativa homologada por despacho do Ministro da Economia, sob proposta conjunta dos conselhos directivos do ICEP e do ITP a apresentar no prazo de 90 dias a contar da entrada em vigor do presente diploma, considerando-se os quadros de pessoal do ITP automaticamente aditados do número de lugares correspondentes, os quais se extinguem nos quadros do ICEP.\n\n3 - A transição de pessoal referida nos números anteriores opera automaticamente o aditamento do número de lugares correspondente aos quadros de pessoal do ITP e a respectiva extinção nos quadros de pessoal do ICEP.\n\n4 - Nos Decretos-Leis n.os [264/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2000-532862), de 18 de Outubro, e [308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), de 10 de Agosto, onde se lê «conselho de administração» deve ler-se «conselho directivo».",
+      "alterador": 2
+    },
+    {
+      "chave": "6.º",
+      "epigrafe": "Número máximo de membros dos conselhos directivos",
+      "texto": "Os conselhos directivos do IAPMEI, do ITP e do ICEP não terão, em caso algum, em conjunto, mais de 12 administradores diferentes, incluindo os respectivos presidentes dos conselhos directivos.",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Art. 29.º, n.º 1, alínea f), do DL 141/2007 (alterador 2): revoga os artigos 5.º e 6.º do DL 77/2004 apenas 'na parte aplicável ao Instituto de Turismo de Portugal'. É uma revogação parcial, sem indicação textual de que números ou palavras caem, que não se aplica ao texto; os artigos 5.º e 6.º ficam com a redação original.",
+  "instrucoes": [
+    "Alterador 1 (DL 228/2004, orgânica do Ministério do Turismo): nenhuma instrução dirigida ao DL 77/2004. Nada aplicado.",
+    "Alterador 2 (DL 141/2007), art. 29.º, n.º 1, f): revoga por inteiro os artigos 2.º, 3.º e 4.º do DL 77/2004; já estavam '(Revogado.)' no texto atual, que está certo, pelo que não se devolvem.",
+    "Alterador 2, art. 29.º, n.º 1, f): revogação dos artigos 5.º e 6.º só 'na parte aplicável ao Instituto de Turismo de Portugal' (parcial, não textual): o programa revogou-os por inteiro, mal; repostos os dois artigos com o texto original, letra a letra do bloco 'como estava no original' (reparos do verificador confirmados; no n.º 4 do art. 5.º mantêm-se as ligações do texto original).",
+    "Restantes alíneas do art. 29.º do DL 141/2007 revogam outros diplomas (DL 423/83, 184/88, 308/99, 277/2001, 8/2004): não são do original; ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

@@ -10,8 +10,8 @@
     {
       "de": 24,
       "ate": 24,
-      "texto": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de dois anos.",
-      "alterador": 1
+      "texto": "2 - As acções a que se referem as alíneas a) e b) do número anterior não podem ser transaccionadas durante um período de um ano.",
+      "alterador": 2
     },
     {
       "de": 61,
@@ -21,13 +21,13 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2, art. 11.º: o prazo do n.º 2 do artigo 6.º é reduzido para um ano sem nova redação da norma (alteração não textual).",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação da alínea b) do n.º 1 do art. 5.º (unidade 15) - aplicada",
-    "Alterador 1, art. 1.º: nova redação do n.º 2 do art. 6.º (unidade 24); restantes números com '...' mantidos - aplicada",
-    "Alterador 1, art. 2.º: nova redação da alínea b) do n.º 1 do art. 4.º dos Estatutos (unidade 61) - aplicada",
-    "Alterador 2, art. 11.º: redução do prazo do n.º 2 do art. 6.º para um ano, sem redação nova - não aplicada",
-    "Alterador 2, restantes artigos: regime autónomo da reprivatização - ignorados"
+    "DL 71/89, art. 1.º: nova redação da alínea b) do n.º 1 do art. 5.º (unidade 15); n.º 1, alínea a), e n.º 2 do art. 5.º com '...' ficam como estão.",
+    "DL 71/89, art. 1.º: nova redação do n.º 2 do art. 6.º (unidade 24), 'durante um período de dois anos', sem o resto da frase antiga; n.os 1, 3, 4 e 5 com '...' ficam como estão.",
+    "DL 71/89, art. 2.º: nova redação da alínea b) do n.º 1 do art. 4.º dos Estatutos (unidade 61), copiada letra a letra do alterador.",
+    "DL 170-A/90, art. 11.º: reparo confirmado; o prazo do n.º 2 do art. 6.º é reduzido para um ano; na unidade 24, já com a redação do DL 71/89, 'dois anos' passa a 'um ano', texto do alterador; o resto da unidade fica igual.",
+    "DL 170-A/90, restantes artigos: regime próprio da alienação de acções, sem instrução ao texto do original; não há nada a mudar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

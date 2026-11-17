@@ -9,12 +9,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: substituição da planta anexa, que só vem em imagem. Alteradores 2 (renovação da transferência de gestão, área de 5802 ha) e 3 (exclusão de 214 ha, área total de 5588 ha, e nova planta) não dão nova redação a nenhum ponto do original e as plantas só vêm em imagem; não aplicados.",
+  "nao_aplicavel": "Portaria n.º 592/2005, n.º 2.º: substituição da planta anexa, que só existe em imagem. Portaria n.º 491/2010 (renovação por seis anos, 5802 ha, produção de efeitos) e Portaria n.º 1223/2010 (exclusão de 214 ha, área total 5588 ha, concessão de outra zona, efeitos): não dão nova redação a nenhum ponto do original; não aplicadas.",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: nova redação do n.º 2.º (área de 7870 ha); aplicado na unidade 7.",
-    "Alterador 1, n.º 2.º: planta anexa substituída; só imagem, não aplicado.",
-    "Alterador 2: renova a transferência de gestão por seis anos com 5802 ha e nova planta; sem alteração textual do original, não aplicado.",
-    "Alterador 3, artigo 1.º: exclui terrenos (214 ha), área total 5588 ha e nova planta; sem alteração textual do original, não aplicado. Artigo 2.º concessiona outra zona de caça; não é do original."
+    "Portaria 592/2005, 1.º: nova redação do n.º 2.º (área 7870 ha) — unidade 7 substituída, com o número '2.º' do texto atual.",
+    "Portaria 592/2005, 2.º: substituição da planta anexa (imagem) — nao_aplicavel.",
+    "Portaria 491/2010, arts. 1.º e 2.º: renovação e efeitos, sem redação textual — nao_aplicavel.",
+    "Portaria 1223/2010, arts. 1.º a 4.º: exclusão de terrenos, concessão de outra zona e efeitos, sem redação textual — nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

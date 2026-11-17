@@ -1,0 +1,29 @@
+{
+  "id": "pt:dre:164589:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "",
+      "texto": "Considera-se emigração a saída do País de indivíduos de nacionalidade portuguesa, originária ou adquirida, para se estabelecerem definitiva ou temporàriamente no estrangeiro, salvo nos casos exceptuados por lei.\n\n§ único. (Revogado.)",
+      "alterador": 2
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 19756), n.º II: as referências ao Ministro do Interior, Ministro das Corporações, Direcção-Geral do Trabalho e Corporações e Junta da Emigração «devem ser entendidas» como feitas às entidades ultramarinas — é uma regra de interpretação para a extensão às províncias ultramarinas, não uma alteração textual; não aplicada. Alterador 2 (DL 438/88), art. 53.º, c): a revogação da tabela anexa ao DL 44427 não se aplica ao texto: a tabela não tem título de anexo nem «Corpo do anexo» no texto atual (vem misturada no bloco do art. 9.º, a seguir às assinaturas) e o alterador não dá texto para a pôr; não apago esse texto do original.",
+  "instrucoes": [
+    "Alterador 1 (Portaria 19756), n.º I: extensão do DL 44427 às províncias ultramarinas (excepto arts. 7.º e 8.º) — não é alteração textual.",
+    "Alterador 1, n.º II, 1.º e 2.º: equivalência de competências e referências no ultramar — regra de interpretação, não textual; em nao_aplicavel.",
+    "Alterador 2 (DL 438/88), art. 53.º, c): revoga só o § único do art. 3.º — o programa tinha revogado o artigo inteiro; reposto o corpo do original e o § único fica «§ único. (Revogado.)».",
+    "Alterador 2, art. 53.º, c): revoga os arts. 7.º e 8.º — já estão «(Revogado.)» no texto atual, sem mudança.",
+    "Alterador 2, art. 53.º, c): revoga a tabela anexa — sem corpo de anexo identificável no texto atual; em nao_aplicavel.",
+    "Alterador 2, art. 53.º, restantes alíneas: revogam outros diplomas — ignoradas."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "3.º: parágrafo que não está no alterador nem no original: § único. (Revogado.)"
+  ],
+  "avisos": []
+}

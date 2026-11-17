@@ -9,12 +9,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria 22/87): a Comissão passa a integrar também um representante do Governo Regional dos Açores e um da Madeira, sem nova redação do texto; alteração não textual. Alteradores 3 (DL 282/88, art. 27.º) e 4 (DL 56/90, art. 7.º): transferem para o INGA e depois para a DGMAIAA as atribuições relativas à Comissão; não alteram o texto.",
+  "nao_aplicavel": "Portaria n.º 22/87 (alterador 2): a Comissão passa a integrar também um representante do Governo Regional dos Açores e um da Madeira, mas a portaria não dá redacção nova nem diz em que número ou alínea do n.º 2.º entra; não aplicada para não inventar texto. Decreto-Lei n.º 282/88 (alterador 3, art. 27.º) e Decreto-Lei n.º 56/90 (alterador 4, art. 7.º): transferem para o INGA e depois para a DGMAIAA as atribuições relativas à Comissão, sem alteração textual do original; o art. 8.º do DL 56/90 altera o DL 282/88, outro diploma.",
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 2.º; corpo igual, alínea a) substituída (unidade 18), alínea b) mantida (...)",
-    "Alterador 2: aditamento de representantes dos Governos Regionais dos Açores e da Madeira sem texto — não aplicado (nao_aplicavel)",
-    "Alterador 3, art. 27.º, n.º 1, c): atribuições quanto à Comissão assumidas pelo INGA — não textual, nada a aplicar",
-    "Alterador 4, art. 7.º, n.º 1, c): atribuições quanto à Comissão transferidas para a DGMAIAA — não textual, nada a aplicar"
+    "Alterador 1 (Portaria 1039/83): nova redacção do n.º 2.º; o corpo fica igual e a alínea b) com '...'; substituída a alínea a) (unidade 18).",
+    "Alterador 2 (Portaria 22/87): representantes dos Governos Regionais sem texto de redacção; em nao_aplicavel (reparo confirmado como dúvida, não aplicado).",
+    "Alterador 3 (DL 282/88): o INGA assume as atribuições relativas à Comissão; não textual, em nao_aplicavel.",
+    "Alterador 4 (DL 56/90): transferência para a DGMAIAA e alteração do DL 282/88; não textual para o original, em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

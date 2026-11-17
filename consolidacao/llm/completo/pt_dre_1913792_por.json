@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:1913792:por",
+  "artigos": [
+    {
+      "chave": "3.º",
+      "epigrafe": "Requerimento para obtenção de declaração para efeitos de isenção de IVA",
+      "texto": "1 - As transportadoras aéreas devem apresentar requerimento dirigido ao presidente do conselho directivo do INAC, I. P., solicitando emissão da declaração para efeitos de isenção de IVA para efeitos da alínea c) do n.º 1 do artigo 13.º e da alínea g) do n.º 1 do artigo 14.º do Código do IVA.\n\n2 - O requerimento previsto no número anterior deve ser instruído com informação sobre:\n\na) Passageiros/carga transportados fora do território nacional e de fora para dentro do território nacional e do território nacional para fora do mesmo, nos 12 meses anteriores, discriminando-os por origem/destino;\n\nb) Volume de negócios referente a transporte aéreo internacional no exercício económico anterior.\n\n3 - O INAC, I. P., emite a declaração requerida no prazo máximo de 15 dias, após a completa instrução do processo.\n\n4 - Sempre que o INAC, I. P., solicitar esclarecimentos adicionais sobre a informação prestada, é interrompido o prazo previsto no número anterior.\n\n5 - O INAC, I. P., reserva-se o direito de solicitar comprovativos da informação prestada à empresa requerente ou a qualquer outra entidade.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Regulamento n.º 821/2010, art. 2.º, artigo 3.º: só a alínea a) do n.º 2 tem nova redação; os n.os 1, 2 (proémio), 3, 4 e 5 ficam ('...'). O programa tinha eliminado a alínea b), que nenhuma instrução tira: reposta letra a letra do original (reparo do verificador confirmado).",
+    "Regulamento n.º 821/2010, art. 2.º, artigo 6.º: novo n.º 2 ('como locadora'); o texto atual já o tem certo, não muda."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

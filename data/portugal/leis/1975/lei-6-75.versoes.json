@@ -1,0 +1,195 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:366841:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-03-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d80a385683eb4fca",
+    "67123a78e8e7b9fe",
+    "f7f332fdae7ba9ff",
+    "f9f43a9ee6ec56e1",
+    "45f4265c66ad2228",
+    "7c3fe1357074ba7a",
+    "0f2c2d93cbd6c888",
+    "1742664616120261",
+    "13b380f07d449ad3"
+   ]
+  },
+  {
+   "date": "1975-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:305810:por",
+     "title": "Lei n.º 10/75",
+     "published": "1975-08-07",
+     "dre_path": "/dr/detalhe/lei/10-1975-305810"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "d80a385683eb4fca",
+    "391ddc61fe927523",
+    "d4f60ec45affef25",
+    "fa3a2d7f60d620e2",
+    "709362ea047d362b",
+    "9123b968ada5503f",
+    "a1806551354f6e05",
+    "75f1bbe09bf19cf0",
+    "fa5b015c0a4be8b8"
+   ]
+  }
+ ],
+ "fragments": {
+  "d80a385683eb4fca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Março\n\nConsiderando que a Lei Constitucional n.º 5/75 criou o Conselho da Revolução, com implícitos reflexos no estatuto constitucional do Governo Provisório;\n\nConsiderando a necessidade de dar mais maleabilidade e eficiência ao Conselho de Ministros;\n\nVisto o disposto nos n.os 1 e 2 do artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valor como lei constitucional, o seguinte:"
+  },
+  "67123a78e8e7b9fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — Constituição e formação do Governo Provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — Constituição e formação do Governo Provisório\n\n1. O Governo Provisório é constituído pelo Primeiro-Ministro, que poderá gerir os negócios de um ou mais Ministérios, pelos Ministros, Secretários e Subsecretários de Estado.\n\n2. O Primeiro-Ministro é nomeado e exonerado livremente pelo Presidente da República, ouvido o Conselho da Revolução.\n\nOs restantes membros do Governo são nomeados e exonerados pelo Presidente da República, sob proposta do Primeiro-Ministro.\n\n3. As funções de todos os membros do Governo cessam com a exoneração do Primeiro-Ministro e as dos Secretários e Subsecretários de Estado com as dos respectivos Ministros.\n\n4. Poderá haver Ministros sem pasta, que desempenharão missões de natureza específica e exercerão funções de coordenação entre os Ministérios ou quaisquer outras que neles tenham sido delegadas pelo Primeiro-Ministro.\n\n5. Na ausência ou no impedimento do Primeiro-Ministro será ele substituído pelo Ministro que para o efeito indicar ao Presidente da República ou, na falta de tal indicação, pelo Ministro que for designado pelo Presidente da República, ouvido o Conselho da Revolução.\n\n6. Poderá haver um Subsecretário de Estado adjunto do Primeiro-Ministro, ao qual compete coadjuvar este nas tarefas de coordenação da actividade governamental, podendo participar, sem direito a voto, nas sessões do Conselho de Ministros."
+  },
+  "f7f332fdae7ba9ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — Responsabilidade política do Governo Provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — Responsabilidade política do Governo Provisório\n\n1. O Primeiro-Ministro responde perante o Presidente da República pela política geral do Governo.\n\n2. Os Ministros respondem politicamente pelos seus actos perante o Primeiro-Ministro."
+  },
+  "f9f43a9ee6ec56e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — Competência do Governo Provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — Competência do Governo Provisório\n\n1. Compete ao Governo Provisório:\n\n1) Conduzir a política geral da Nação de acordo com as orientações definidas pelo Conselho da Revolução;\n\n2) Referendar os actos do Presidente da República;\n\n3) Fazer decretos-leis e aprovar tratados ou acordos internacionais;\n\n4) Elaborar decretos, regulamentos e instruções para a boa execução das leis;\n\n5) Superintender no conjunto da administração pública.\n\n2. Os actos do Governo Provisório que envolvam aumento de despesas ou diminuição de receitas serão sempre referendados pelo Ministro do Planeamento e Coordenação Económica e pelo Ministro das Finanças."
+  },
+  "45f4265c66ad2228": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — Conselho de Ministros\n\n1. Os Ministros do Governo Provisório definirão em Conselho as linhas gerais de orientação governamental em execução do Programa do Movimento das Forças Armadas, nos termos do n.º 1 do artigo anterior.\n\n2. Haverá um Conselho de Ministros restrito constituído pelo Primeiro-Ministro, por dois Ministros do Movimento das Forças Armadas, nomeados para cada sessão pelo Primeiro-Ministro e pelos Ministros sem pasta, representativos de cada um dos partidos da coligação governamental.\n\n3. Constituirão ainda este Conselho todos os outros Ministros que forem convocados, em função do assunto a tratar, por decisão do Primeiro-Ministro ou do próprio Conselho, por iniciativa própria ou mediante sugestão do Ministro directamente interessado.\n\n4. Ao Conselho de Ministros restrito competirá deliberar sobre os assuntos que sejam submetidos à sua apreciação pelo Primeiro-Ministro, nomeadamente projectos de diplomas legais e resoluções.\n\n5. As deliberações tomadas em Conselho de Ministros restrito tornam-se definitivas e vincularão desde logo todos os Ministros do Governo Provisório se por aquele Conselho como tal forem declaradas, com a consequente dispensa de circulação aos restantes Ministros, em razão da patente simplicidade ou da extrema urgência das respectivas matérias.\n\n6. As deliberações não definitivas do Conselho de Ministros restrito só vincularão os restantes Ministros se, nos cinco dias seguintes ao seu conhecimento, a maioria destes se não pronunciar por escrito no sentido da sua reapreciação em sessão plena do Conselho de Ministros."
+  },
+  "7c3fe1357074ba7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — Execução da política do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — Execução da política do Governo\n\n1. Ao Primeiro-Ministro caberá convocar e presidir às sessões do Conselho de Ministros, restrito ou pleno, coordenar e fiscalizar a execução da política do Governo.\n\n2. A execução da política definida para cada Ministério será assegurada pelo respectivo Ministro, sob a orientação do Primeiro-Ministro.\n\n3. Caberá ao Ministro do Planeamento e Coordenação Económica a coordenação das medidas de política económica cuja execução caiba directamente ao Ministro da Indústria, ao Ministro das Finanças, ao Ministro da Agricultura, ao Ministro do Comércio Externo e ao Ministro do Trabalho.\n\n4. Haverá um Conselho Económico presidido pelo Primeiro-Ministro, que poderá delegar no Ministro do Planeamento e Coordenação Económica, em que participarão os Ministros mencionados no número anterior e aqueles que forem convocados em função do assunto a tratar, que terá por função preparar as medidas de política económica a submeter ao Conselho de Ministros, restrito ou pleno, e coordenar a respectiva execução."
+  },
+  "0f2c2d93cbd6c888": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — Regulamentação do funcionamento do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — Regulamentação do funcionamento do Conselho de Ministros\n\nMediante decreto-lei, a sancionar pelo Conselho da Revolução, o Governo regulará o funcionamento do Conselho de Ministros."
+  },
+  "1742664616120261": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º\n\nFicam expressamente revogados o artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, e os artigos 1.º, 2.º, 3.º e 4.º da [Lei n.º 5/74](https://diariodarepublica.pt/dr/detalhe/lei/5-1974-475962), de 12 de Julho."
+  },
+  "13b380f07d449ad3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º\n\nEste diploma entra imediatamente em vigor.\n\nVisto e aprovado em Conselho da Revolução.\n\nPromulgado em 25 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "391ddc61fe927523": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Constituição e formação do Governo Provisório",
+   "in_force_from": "1975-08-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 10/75](https://diariodarepublica.pt/dr/detalhe/lei/10-1975-305810), publicado em 1975-08-07."
+   ],
+   "markdown": "###### Artigo 1.º — Constituição e formação do Governo Provisório\n\n1. O Governo Provisório é constituído pelo Primeiro-Ministro, que poderá gerir os negócios de um ou mais Ministérios, pelos Ministros, Secretários e Subsecretários de Estado.\n\n2. O Primeiro-Ministro é nomeado e exonerado livremente pelo Presidente da República, ouvido o Conselho da Revolução.\n\nOs restantes membros do Governo são nomeados e exonerados pelo Presidente da República, sob proposta do Primeiro-Ministro.\n\n3. As funções de todos os membros do Governo cessam com a exoneração do Primeiro-Ministro e as dos Secretários e Subsecretários de Estado com as dos respectivos Ministros.\n\n4. Poderá haver Ministros sem pasta, que desempenharão missões de natureza específica e exercerão funções de coordenação entre os Ministérios ou quaisquer outras que neles tenham sido delegadas pelo Primeiro-Ministro.\n\n5. Na ausência ou no impedimento do Primeiro-Ministro será ele substituído pelo Vice-Primeiro-Ministro que para o efeito indicar ao Presidente da República ou, na falta de tal indicação, pelo Vice-Primeiro-Ministro que for designado pelo Presidente da República, ouvido o Conselho da Revolução.\n\n6. Poderá haver um Subsecretário de Estado adjunto do Primeiro-Ministro, ao qual compete coadjuvar este nas tarefas de coordenação da actividade governamental, podendo participar, sem direito a voto, nas sessões do Conselho de Ministros.\n\n> Alterado pelo/a [Lei n.º 10/75](https://diariodarepublica.pt/dr/detalhe/lei/10-1975-305810), publicado em 1975-08-07."
+  },
+  "d4f60ec45affef25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Responsabilidade política do Governo Provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Responsabilidade política do Governo Provisório\n\n1. O Primeiro-Ministro responde perante o Presidente da República pela política geral do Governo.\n\n2. Os Ministros respondem politicamente pelos seus actos perante o Primeiro-Ministro."
+  },
+  "fa3a2d7f60d620e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competência do Governo Provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência do Governo Provisório\n\n1. Compete ao Governo Provisório:\n\n1) Conduzir a política geral da Nação de acordo com as orientações definidas pelo Conselho da Revolução;\n\n2) Referendar os actos do Presidente da República;\n\n3) Fazer decretos-leis e aprovar tratados ou acordos internacionais;\n\n4) Elaborar decretos, regulamentos e instruções para a boa execução das leis;\n\n5) Superintender no conjunto da administração pública.\n\n2. Os actos do Governo Provisório que envolvam aumento de despesas ou diminuição de receitas serão sempre referendados pelo Ministro do Planeamento e Coordenação Económica e pelo Ministro das Finanças."
+  },
+  "709362ea047d362b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Conselho de Ministros",
+   "in_force_from": "1975-08-07",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 10/75](https://diariodarepublica.pt/dr/detalhe/lei/10-1975-305810), publicado em 1975-08-07."
+   ],
+   "markdown": "###### Artigo 4.º — Conselho de Ministros\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 10/75](https://diariodarepublica.pt/dr/detalhe/lei/10-1975-305810), publicado em 1975-08-07."
+  },
+  "9123b968ada5503f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Execução da política do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Execução da política do Governo\n\n1. Ao Primeiro-Ministro caberá convocar e presidir às sessões do Conselho de Ministros, restrito ou pleno, coordenar e fiscalizar a execução da política do Governo.\n\n2. A execução da política definida para cada Ministério será assegurada pelo respectivo Ministro, sob a orientação do Primeiro-Ministro.\n\n3. Caberá ao Ministro do Planeamento e Coordenação Económica a coordenação das medidas de política económica cuja execução caiba directamente ao Ministro da Indústria, ao Ministro das Finanças, ao Ministro da Agricultura, ao Ministro do Comércio Externo e ao Ministro do Trabalho.\n\n4. Haverá um Conselho Económico presidido pelo Primeiro-Ministro, que poderá delegar no Ministro do Planeamento e Coordenação Económica, em que participarão os Ministros mencionados no número anterior e aqueles que forem convocados em função do assunto a tratar, que terá por função preparar as medidas de política económica a submeter ao Conselho de Ministros, restrito ou pleno, e coordenar a respectiva execução."
+  },
+  "a1806551354f6e05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regulamentação do funcionamento do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentação do funcionamento do Conselho de Ministros\n\nMediante decreto-lei, a sancionar pelo Conselho da Revolução, o Governo regulará o funcionamento do Conselho de Ministros."
+  },
+  "75f1bbe09bf19cf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nFicam expressamente revogados o artigo 16.º da [Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/lei/3-1974-623395), de 14 de Maio, e os artigos 1.º, 2.º, 3.º e 4.º da [Lei n.º 5/74](https://diariodarepublica.pt/dr/detalhe/lei/5-1974-475962), de 12 de Julho."
+  },
+  "fa5b015c0a4be8b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nEste diploma entra imediatamente em vigor.\n\nVisto e aprovado em Conselho da Revolução.\n\nPromulgado em 25 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}
