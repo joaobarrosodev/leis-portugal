@@ -131,10 +131,14 @@ Os números estão no `rag/README.md`, «Perguntas por artigo».
 - **Feito:**
   - 3.078 perguntas de leigo para os 765 artigos em vigor do Código do Trabalho, do NRAU e do arrendamento do Código Civil (`rag/perguntas_artigo/`), escritas por 22 sessões do Claude às cegas das perguntas de avaliação;
   - o código para as juntar ao índice (`rag.indice --com-perguntas`, desligado por omissão) e para as levar nos deltas, com testes.
-- **BM25:** nas 155 perguntas do âmbito que nunca afinaram, o artigo certo em 1.º passa de 15 % para 55 % (69 ganhos, 8 perdas). Fora do âmbito, 5 perdas em 1.145.
-- **Por fazer:**
-  - acabar a medição com o reranker, que é o que decide alargar ou não;
-  - se se alargar, rever a lista dos códigos principais e gerar uns 430 lotes (cerca de 45 milhões de tokens, umas 2 horas com 11 sessões);
+- **Medido:** nas 155 perguntas do âmbito que nunca afinaram, o artigo certo em 1.º muda assim:
+  - com BM25, 15 % → 55 %;
+  - com o reranker, 26 % → 44 % (+18 pontos; 31 ganhos, 3 perdas), sem mudança fora do âmbito;
+  - com o reranker a ler também as perguntas, 26 % → 71 %, com o «não sei» de 75 % para 28 %.
+- **Decisão: alargar aos outros códigos** (critério de +10 pontos cumprido). Por fazer:
+  - medir a variante do reranker com perguntas fora do âmbito e nas «sem resposta», e rever o limiar 3 com ela;
+  - rever a lista dos códigos principais, que também traz regulamentos e editais grandes;
+  - gerar uns 430 lotes (cerca de 45 milhões de tokens, umas 2 horas com 11 sessões);
   - pôr as perguntas no índice de uso;
   - publicar só depois de lançar a aplicação que sabe apagá-las nos deltas (`publicar --com-perguntas`).
 - **Achado:** `fontes.revogado` dá como revogados 50 artigos em vigor do Código Civil (1064.º–1113.º), por causa de notas antigas «Revogado pelo…» seguidas de «Aditado/Alterado». A sessão «Voltar ao trabalho» já tem a correção no seu worktree.

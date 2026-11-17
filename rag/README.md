@@ -561,7 +561,39 @@ As perdas são de dois tipos:
 
 Este segundo tipo é o custo de só uma parte do acervo ter perguntas. Alargá-las a outros diplomas também o reduz.
 
-**Com o reranker** (a medir; corre nas 562 reais e coloquiais, antes e depois, e a variante em que o reranker também lê as perguntas, nas 254 do âmbito).
+**Com o reranker** (`--reranker cruzado --limiar 3`, a configuração da aplicação sem chave; as 562 reais e coloquiais, `pa-antes-reranker` e `pa-depois-reranker`). O reranker continua a ler só o caminho e o texto do artigo: as perguntas só mudam os candidatos que o BM25 lhe dá.
+
+| Grupo | n | Artigo certo em 1.º (pontos) | Nos 10 primeiros | Ganhos / perdas no 1.º |
+|---|--:|--:|--:|--:|
+| **Âmbito, nunca afinaram (decisão)** | 155 | 26% → **44%** (+18) | 49% → **79%** | 31 / 3 |
+| âmbito: coloquial | 127 | 27% → **47%** (+20) | 46% → **81%** | 29 / 3 |
+| âmbito: real (novas) | 28 | 21% → **29%** (+7) | 64% → **68%** | 2 / 0 |
+| âmbito: real (afinadas) | 99 | 66% → **69%** (+3) | 94% → **95%** | 4 / 1 |
+| fora: coloquial | 154 | 19% → 18% | 33% → 32% | 2 / 3 |
+| fora: real (novas) | 117 | 31% → 31% | 69% → 69% | 0 / 0 |
+| fora: real (afinadas) | 37 | 38% → 41% | 65% → 62% | 1 / 0 |
+| **Fora do âmbito (todas)** | 308 | 26% → **26%** | 51% → 50% | 3 / 3 |
+
+O artigo certo chega muito mais vezes aos candidatos: nos 10 primeiros passa de 49 % para 79 %. Mas o reranker, que compara a pergunta de leigo com o texto jurídico, só o põe em 1.º em parte dos casos. Com o limiar 3, o «não sei» no grupo da decisão fica em 75 % (era 75 %), e as respostas certas passam de 18 em 39 para 22 em 38.
+
+**Variante declarada antes de medir, em que o reranker também lê as perguntas do artigo** (`--reranker-com-perguntas`, só nas 254 do âmbito, `pa-depois-reranker-rp`):
+
+| Grupo | n | Artigo certo em 1.º (pontos) | Nos 10 primeiros | "Não sei" (limiar 3) | Certas nas respondidas |
+|---|--:|--:|--:|--:|--:|
+| **Âmbito, nunca afinaram** | 155 | 26% → **71%** (+45) | 49% → **85%** | 75% → **28%** | 46% (18/39) → **83% (92/111)** |
+| âmbito: coloquial | 127 | 27% → **76%** (+49) | 46% → 88% | | |
+| âmbito: real (novas) | 28 | 21% → **50%** (+29) | 64% → 68% | 39% → 21% | 29% (5/17) → 59% (13/22) |
+| âmbito: real (afinadas) | 99 | 66% → **82%** (+16) | 94% → 97% | | |
+
+É o maior ganho do piloto. Nas FAQs escritas por pessoas e que nunca afinaram, o artigo certo em 1.º passa de 6 em 28 para 14 em 28, com 8 ganhos e nenhuma perda. **Ainda não pode entrar**, por duas razões:
+1. Não foi medida fora do âmbito nem nas «sem resposta».
+2. Ao ler perguntas de leigo, o reranker dá notas mais altas, que é por isso que o «não sei» cai. O limiar 3 foi afinado para notas sobre texto jurídico, e pode passar a deixar responder onde devia recusar. Sobretudo num acervo em que só uma parte dos artigos tem perguntas.
+
+**Decisão:** o critério está cumprido. Com o reranker, nas 155 perguntas do âmbito que nunca afinaram, o artigo certo em 1.º sobe 18 pontos (mais de 10), e fora do âmbito fica igual. **Propõe-se alargar aos outros códigos**, com o custo abaixo. Antes de as pôr no índice de uso:
+- medir a variante do reranker com perguntas fora do âmbito e nas «sem resposta», e rever o limiar com ela;
+- medir outra vez com o `fontes.revogado` corrigido.
+
+O ganho da variante principal sozinha é sobretudo de candidatos (o @10), e só se transforma em respostas se o reranker também ler as perguntas ou se houver LLM.
 
 **Ressalvas:**
 - As coloquiais foram escritas por sessões do Claude, como as perguntas geradas. Partilham vocabulário, e isso pode inflacionar o ganho nelas, embora a geração nunca as tenha visto.
