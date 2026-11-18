@@ -160,10 +160,11 @@ Os números estão no `rag/README.md`, «Perguntas por artigo».
   - com BM25, 15 % → 55 %;
   - com o reranker, 26 % → 44 % (+18 pontos; 31 ganhos, 3 perdas), sem mudança fora do âmbito;
   - com o reranker a ler também as perguntas, 26 % → 71 %, com o «não sei» de 75 % para 28 %.
+- **Medição completa (18/11), com o `fontes.revogado` corrigido:** com o reranker a ler as perguntas, 30 % → 76 % em 1.º e 54 % → 83 % de certas nas respondidas (21/39 → 99/120). Fora do âmbito não muda nada. Nas «sem resposta», responde em 8 de 105 em vez de 5: são 3 de arrendamento, com notas logo acima do limiar 3.
 - **Decisão: alargar aos outros códigos** (critério de +10 pontos cumprido). Por fazer:
-  - medir a variante do reranker com perguntas fora do âmbito e nas «sem resposta», e rever o limiar 3 com ela;
+  - ~~medir a variante do reranker com perguntas fora do âmbito e nas «sem resposta»~~ (feito a 18/11); decidir se os artigos com perguntas levam um limiar mais alto (≈ 3,35 tira as 3 a mais e custa umas 7 certas no âmbito);
   - rever a lista dos códigos principais, que também traz regulamentos e editais grandes;
   - gerar uns 430 lotes (cerca de 45 milhões de tokens, umas 2 horas com 11 sessões);
   - pôr as perguntas no índice de uso;
   - publicar só depois de lançar a aplicação que sabe apagá-las nos deltas (`publicar --com-perguntas`).
-- **Achado:** `fontes.revogado` dá como revogados 50 artigos em vigor do Código Civil (1064.º–1113.º), por causa de notas antigas «Revogado pelo…» seguidas de «Aditado/Alterado». A sessão «Voltar ao trabalho» já tem a correção no seu worktree.
+- **Achado:** `fontes.revogado` dá como revogados 50 artigos em vigor do Código Civil (1064.º–1113.º), por causa de notas antigas «Revogado pelo…» seguidas de «Aditado/Alterado». Corrigido no main a 17/11.

@@ -666,6 +666,31 @@ O ganho da variante principal sozinha é sobretudo de candidatos (o @10), e só 
 - Alargar dá cerca de **430 lotes e 45 milhões de tokens**: umas 2 horas com 11 sessões em paralelo, mais a validação.
 - A lista dos «códigos principais» também traz alguns regulamentos e editais grandes que não são códigos: convém rever a lista antes de gerar.
 
+### Medição completa com o código novo (18/11/2026)
+
+As duas medições que faltavam antes de pôr as perguntas no índice de uso: a variante do reranker que lê as perguntas, agora também fora do âmbito e nas «sem resposta», e tudo com o `fontes.revogado` corrigido (código do main de 17/11, 48da30ab64d).
+
+- **Como:** as 667 reais, coloquiais e «sem resposta», com `--reranker cruzado --limiar 3`, em 7 partes de 96 por causa do corte de luz de 17/11. «Antes» é outra vez uma cópia byte a byte do índice de uso de 16/11; «depois» é essa cópia com as 765 entradas de perguntas. A parte 1 do «depois» deu no BM25 0 diferenças face à medição de 17/11. Resumos em `rag/resultados/pa2-antes-reranker.json`, `pa2-depois-reranker.json` e `pa2-depois-reranker-rp.json`, mais os do BM25 (`pa2-antes-bm25.json`, `pa2-depois-bm25.json`).
+- **Controlo:** o «antes» nas reais dá 112 certas, 125 no 1.º, 223 nos 10 primeiros e 93 «não sei», os mesmos números da medição do modo sem IA de 17/11.
+
+| Grupo | n | Antes | Perguntas só nos candidatos | O reranker também as lê |
+|---|--:|--:|--:|--:|
+| **Âmbito, nunca afinaram (decisão):** artigo certo em 1.º | 155 | 30% | 50% (32 ganhos / 1 perda) | **76%** (77 / 6) |
+| … nos 10 primeiros | 155 | 54% | 87% | **94%** |
+| … «não sei» (limiar 3) | 155 | 116 | 115 | **35** |
+| … certas nas respondidas | 155 | 54% (21/39) | 60% (24/40) | **83% (99/120)** |
+| âmbito: real (novas), FAQs escritas por pessoas: em 1.º | 28 | 25% | 32% | **64%** (11 / 0) |
+| … certas nas respondidas | 28 | 6/18 | 8/19 | **17/25** |
+| âmbito: real (afinadas), em 1.º | 99 | 71% | 74% | 83% |
+| **Fora do âmbito:** em 1.º | 308 | 25% | 26% (4 / 3) | 26% (4 / 3) |
+| … certas nas respondidas | 308 | 47/92 | 47/90 | 46/92 |
+| **«Sem resposta»:** respondeu quando devia recusar | 105 | 5 | 5 | **8** |
+
+- **Fora do âmbito não muda nada,** nas duas variantes. Era a primeira dúvida.
+- **As 3 «sem resposta» a mais** são todas de arrendamento: sem-024 e sem-060 (o senhorio pode aumentar a renda em 10 % ou 15 %?) e sem-051 (o coeficiente de 2026). O 1.º resultado é um artigo do piloto (NRAU 24.º e 51.º, Código Civil 1077.º), com notas entre 3,04 e 3,31, logo acima do limiar 3. É o risco previsto: ao ler perguntas de leigo, o reranker dá notas mais altas.
+- **Subir o limiar para todos não serve.** Com 3,35 voltam a ser 5 «sem resposta», mas fora do âmbito as certas caem de 46 para 40 (simulado com as notas gravadas, sem nova corrida). Um limiar mais alto só quando o 1.º artigo tem perguntas (≈ 3,35) evitaria isso. No grupo da decisão daria cerca de 92 certas em 111 respondidas, em vez de 99 em 120. Mas seria afinar com 3 casos, e fica por decidir.
+- As ressalvas de cima continuam: as coloquiais partilham o vocabulário das perguntas geradas, e o sinal mais seguro são as 28 reais novas (6 → 17 certas, sem perdas no 1.º; amostra pequena).
+
 ## Próximos passos
 
 Por ordem de ganho esperado:

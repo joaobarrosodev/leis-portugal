@@ -189,7 +189,7 @@ def curva(linhas: list[dict], limiares: list[float]) -> str:
     for limiar in limiares:
         respondidas = [x for x in linhas if responde(x, limiar)]
         certas = sum(x["acerta_topo"] for x in respondidas)
-        texto.append(f"| {limiar:g} | {100 * sum(not responde(x, limiar) for x in com) / len(com):.0f}% | "
+        texto.append(f"| {limiar:g} | {100 * sum(not responde(x, limiar) for x in com) / max(len(com), 1):.0f}% | "
                      f"{100 * sum(not responde(x, limiar) for x in sem) / max(len(sem), 1):.0f}% | "
                      f"{100 * certas / max(len(respondidas), 1):.0f}% ({certas}/{len(respondidas)}) |")
     return "\n".join(texto)
