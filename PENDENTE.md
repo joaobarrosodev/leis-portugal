@@ -111,8 +111,9 @@ Os números estão no `rag/README.md`, «Tipos novos».
   - **Antes de publicar no Hugging Face, lançar a aplicação nova.** A 0.1.0 não conhece a tabela
     `so_referencia` e poria a 2.ª Série na pesquisa geral. `rag.dados publicar` recusa este índice sem
     `--com-so-referencia`.
-  - Por fazer, se a perda só com BM25 importar: os atos só pela referência numa tabela de pesquisa
-    à parte.
+  - A perda só com BM25 foi medida outra vez a 18/11: 10 respostas certas em 1.298 (4 reais no
+    1.º lugar). A aplicação usa sempre o reranker, onde a perda não aparece, por isso fica como está,
+    sem tabela de pesquisa à parte (mudaria o formato do índice).
 - **CNPD:** não está no índice nem no RAG. O TC chega às respostas pelo `normas-julgadas.jsonl`.
 - **Modo sem IA (17/11):** mostra os 3 artigos mais prováveis, cada um com o âmbito («Função
   pública», «Regime geral»…). Numa pergunta que não fala da função pública, a lei geral passa à

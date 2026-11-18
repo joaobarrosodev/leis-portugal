@@ -124,7 +124,7 @@ def _numeros_ue(numero: str) -> list[str]:
 class Pesquisa:
     def __init__(
         self, caminho: Path | None = None, *, reranker=None, candidatos: int = 100, codigos_candidatos: int = CODIGOS_CANDIDATOS,
-        reranker_com_perguntas: bool = False,
+        reranker_com_perguntas: bool = False, semantica=None,
     ):
         caminho = caminho or PASTA_INDICE / "indice.sqlite"
         self.con = sqlite3.connect(f"file:{caminho}?mode=ro", uri=True, check_same_thread=False)
@@ -134,6 +134,8 @@ class Pesquisa:
         self.con.execute("CREATE VIRTUAL TABLE IF NOT EXISTS temp.vocab USING fts5vocab(main, pedacos_fts, 'row')")
         self.total = self.con.execute("SELECT count(*) FROM pedacos").fetchone()[0]
         self.reranker = reranker
+        # Opcional (rag.semantica.Semantica): os artigos mais próximos da pergunta também vão ao reranker.
+        self.semantica = semantica
         self.candidatos = candidatos
         self.codigos_candidatos = codigos_candidatos
         self._codigos: dict[str, list[tuple[str, str]]] | None = None
@@ -377,6 +379,13 @@ class Pesquisa:
                 if i not in niveis:
                     niveis[i] = (1, s, "bm25-codigos")
 
+        # 0. Pesquisa semântica nos consolidados e códigos (rag.semantica): também só para o reranker.
+        semanticos: set[int] = set()
+        if self.reranker is not None and self.semantica is not None:
+            for i, s in self.semantica.pesquisar(pergunta, excluir=set(niveis)):
+                semanticos.add(i)
+                niveis[i] = (1, s, "semantica")
+
         pedacos = self._pedacos(list(niveis))
         resultados: list[Resultado] = []
         for i, (nivel, s, origem) in niveis.items():
@@ -387,8 +396,9 @@ class Pesquisa:
             resultados.append(self._redirecionar(r, data))
 
         if self.reranker is not None:
-            topo = sorted((r for r in resultados if r.id not in dos_codigos), key=lambda r: (-r.nivel, -r.pontuacao))[: self.reranker.maximo]
-            topo += [r for r in resultados if r.id in dos_codigos]
+            extras = dos_codigos | semanticos
+            topo = sorted((r for r in resultados if r.id not in extras), key=lambda r: (-r.nivel, -r.pontuacao))[: self.reranker.maximo]
+            topo += [r for r in resultados if r.id in extras]
             for r, s in zip(topo, self.reranker.pontuar(pergunta, [self._passagem(r) for r in topo]), strict=True):
                 r.reranker = s
             resultados = topo

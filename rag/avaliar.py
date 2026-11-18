@@ -225,6 +225,10 @@ def main(argv: list[str] | None = None) -> int:
         "--reranker-com-perguntas", action="store_true",
         help="O reranker também lê as perguntas de leigo do artigo (piloto rag.perguntas_por_artigo).",
     )
+    parser.add_argument(
+        "--semantica", action="store_true",
+        help="Juntar aos candidatos do reranker os da pesquisa semântica (rag.semantica; precisa de rag/indice/semantica.npz).",
+    )
     parser.add_argument("--sem-llm", action="store_true", help="Não usar o LLM mesmo que haja chave.")
     parser.add_argument("--sem-reescrita", action="store_true", help="Com LLM, pesquisar pela pergunta tal como está, sem a reescrever (rag.reescrita).")
     parser.add_argument("--sem-reais", action="store_true")
@@ -242,7 +246,14 @@ def main(argv: list[str] | None = None) -> int:
         from rag.modelos import Reranker
 
         reranker = Reranker(args.reranker, maximo=args.maximo)
-    pesquisa = Pesquisa(args.indice, reranker=reranker, candidatos=args.candidatos, reranker_com_perguntas=args.reranker_com_perguntas)
+    semantica = None
+    if args.semantica:
+        from rag.semantica import Semantica
+
+        semantica = Semantica(args.indice)
+    pesquisa = Pesquisa(
+        args.indice, reranker=reranker, candidatos=args.candidatos, reranker_com_perguntas=args.reranker_com_perguntas, semantica=semantica,
+    )
     usar_llm = llm_disponivel() and not args.sem_llm
     usar_reescrita = usar_llm and not args.sem_reescrita
     if args.perguntas:
@@ -255,7 +266,8 @@ def main(argv: list[str] | None = None) -> int:
     print(f"{len(perguntas)} perguntas; LLM: {'sim' if usar_llm else 'não'}", file=sys.stderr)
 
     configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm, "reescrita": usar_reescrita,
-                    **({"reranker_com_perguntas": True} if args.reranker_com_perguntas else {})}
+                    **({"reranker_com_perguntas": True} if args.reranker_com_perguntas else {}),
+                    **({"semantica": True} if args.semantica else {}), **({"maximo": args.maximo} if args.maximo != 30 else {})}
     parcial = RESULTADOS / "privado" / f"{args.nome}-parcial.jsonl"
     cabecalho = {"configuracao": configuracao, "indice": str(args.indice) if args.indice else None,
                  "maximo": args.maximo, "candidatos": args.candidatos, "ids": [p["id"] for p in perguntas]}
