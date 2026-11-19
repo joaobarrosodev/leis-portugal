@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-18",
+  "generated_at": "2026-11-19",
   "methodology": "Contagem direta dos ficheiros Markdown em data/ com front matter válido; sem estimativas de completude. Ano = data de publicação.",
   "totals": {
-    "documents": 461052,
+    "documents": 461074,
     "sources_registered": 5,
     "sources_operational": 4,
-    "validated_documents": 461052
+    "validated_documents": 461074
   },
   "by_jurisdiction": {
-    "european_union": 55241,
-    "portugal": 373929,
+    "european_union": 55250,
+    "portugal": 373942,
     "regional": 31882
   },
   "by_document_type": {
@@ -39,8 +39,8 @@
     "contrato-extrato": 25,
     "convenio": 2,
     "decisao": 3,
-    "decision": 21076,
-    "declaracao": 25762,
+    "decision": 21082,
+    "declaracao": 25763,
     "declaracao-extrato": 21,
     "declaracao-retificacao": 17447,
     "declaracao-retificacao-extrato": 8,
@@ -55,7 +55,7 @@
     "decreto-regulamentar": 1933,
     "decreto-regulamentar-regional": 2603,
     "decreto-representante-republica": 69,
-    "deliberacao": 23516,
+    "deliberacao": 23519,
     "deliberacao-assembleia-republica": 1,
     "deliberacao-extracto": 8,
     "deliberacao-extrato": 79,
@@ -79,7 +79,7 @@
     "instrucao": 8,
     "instrucoes": 4,
     "jurisprudencia": 20,
-    "lei": 6719,
+    "lei": 6720,
     "lei-constitucional": 8,
     "lei-organica": 94,
     "listagem": 1,
@@ -100,24 +100,24 @@
     "parecer": 8,
     "parecer-conselho-estado": 20,
     "parecer-extrato": 2,
-    "portaria": 114810,
+    "portaria": 114812,
     "portaria-extrato": 24,
     "recomendacao": 1,
     "rectificacao": 636,
     "regimento": 21,
     "regimento-assembleia-republica": 6,
     "regimento-conselho-estado": 2,
-    "regulamento": 18850,
+    "regulamento": 18854,
     "regulamento-cmvm": 198,
     "regulamento-extracto": 2,
     "regulamento-extrato": 5,
-    "regulation": 29977,
+    "regulation": 29980,
     "relatorio": 1,
     "resolucao": 15239,
     "resolucao-assembleia-legislativa-regional": 1869,
     "resolucao-assembleia-nacional": 91,
     "resolucao-assembleia-republica": 4908,
-    "resolucao-conselho-ministros": 6915,
+    "resolucao-conselho-ministros": 6917,
     "resolucao-conselho-ministros-assuntos-economicos": 1,
     "resolucao-conselho-revolucao": 2,
     "resolucao-extrato": 11,
@@ -125,8 +125,8 @@
     "tabela": 1
   },
   "by_source": {
-    "dre": 405811,
-    "eurlex-cellar": 55241
+    "dre": 405824,
+    "eurlex-cellar": 55250
   },
   "by_year": {
     "1833": 2,
@@ -286,41 +286,41 @@
     "2023": 11126,
     "2024": 11262,
     "2025": 11467,
-    "2026": 9183
+    "2026": 9205
   },
   "by_territory": {
     "acores": 28314,
     "madeira": 3568,
-    "nacional": 429170
+    "nacional": 429192
   },
   "by_version_kind": {
-    "consolidated": 14541,
-    "original": 445267,
+    "consolidated": 14547,
+    "original": 445283,
     "translation": 1244
   },
   "by_legal_status": {
-    "in_force": 201398,
-    "not_in_force": 38816,
+    "in_force": 201408,
+    "not_in_force": 38818,
     "partially_in_force": 790,
     "repealed": 14841,
-    "unknown": 205207
+    "unknown": 205217
   },
   "by_origin": {
     "importacao_inicial": 1,
-    "recolha_direta": 461051
+    "recolha_direta": 461073
   },
   "by_text_quality": {
     "metadados": 27323,
     "pdf": 76532,
-    "texto": 357197
+    "texto": 357219
   },
-  "with_version_history": 10816,
+  "with_version_history": 10822,
   "relationships_by_type": {
     "amended_by": 171467,
-    "amends": 36529,
-    "based_on": 77175,
-    "cited_by": 29265,
-    "cites": 995158,
+    "amends": 36535,
+    "based_on": 77189,
+    "cited_by": 29266,
+    "cites": 995246,
     "corrected_by": 27246,
     "corrects": 826,
     "implicitly_repeals": 8160,
@@ -329,11 +329,11 @@
     "repeals": 10988,
     "republished_by": 36,
     "republishes": 13,
-    "transposed_by": 2513,
-    "transposes": 2520
+    "transposed_by": 2517,
+    "transposes": 2524
   },
   "by_validation_status": {
-    "validated": 461052
+    "validated": 461074
   },
   "documents_listed": false,
   "documents": []
