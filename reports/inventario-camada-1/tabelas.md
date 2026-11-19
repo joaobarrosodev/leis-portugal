@@ -19,7 +19,7 @@ Prioritários da 1.ª Série, em vigor ou de vigência desconhecida, com `amende
 | sem_texto | 216 | 0 | 0 | 1041 | 0 | 0 | 1257 |
 | **Total** | 1606 | 54 | 7 | 6762 | 544 | 717 | 9690 |
 
-Consolidados em dia: 2955; com alterador publicado depois da última versão: 218; que o DRE mexeu depois da recolha: 35.
+Consolidados em dia: 2963; com alterador publicado depois da última versão: 210; que o DRE mexeu depois da recolha: 35.
 
 Portarias (só contagens): original_e_o_texto_em_vigor 10258, alteracao_por_aplicar 1689, consolidado_leis_portugal 1307, consolidado_dre 1097, alteracao_so_em_imagem 413, revogado_por_inteiro 409, nao_triado 305, sem_texto 99.
 

@@ -24,7 +24,7 @@ no export nem no índice.
 | 6 | Alterados recentes nunca triados | dados | 687 prioritários (218 leis, 375 decretos-leis), todos de vigência desconhecida; 7 centrais (Lei n.º 58/2019…) | Verificado que não entraram na triagem; quantos mudam de texto é teto | Médio: triagem e depois LLM | Alto: são diplomas de 2014–2026 |
 | 7 | Alterações ao texto por aplicar | dados | 694 prioritários (52 leis, 496 decretos-leis, 78 decretos regulamentares, 68 regionais); 16 só em imagem | Teto (triagem por regras) | Alto: rondas com LLM e verificação | Médio: 213 dos 1.381 por fechar (6 e 7) são citados por 10 ou mais diplomas em vigor |
 | 8 | Revogados por inteiro que o DRE dá como em vigor | estado | 218 prioritários | Teto (triagem) | Médio | Médio |
-| 9 | Consolidados com alterador posterior à última versão | dados | 218 prioritários (68 do DRE, 150 nossos) | Teto: o alterador pode não mudar o texto | Médio | Médio |
+| 9 | Consolidados com alterador posterior à última versão | dados | 210 prioritários (68 do DRE, 142 nossos) | Teto: o alterador pode não mudar o texto | Médio | Médio |
 | 10 | Antigos em vigor só com digitalização | dados | 2.407 leis, 7.119 decretos-leis e 962 decretos de 1910–1959; 407 citados por 5 ou mais diplomas em vigor; o Código Comercial não existe no acervo | Verificado | Alto: OCR e revisão | Baixo, salvo o Código Comercial e poucos mais |
 | 11 | Registos duplicados do mesmo diploma | apresentação | 10 prioritários com texto; 1 com consolidado e original ao mesmo tempo (Lei n.º 28/82, a do Tribunal Constitucional) | Verificado | Baixo | Baixo, salvo a Lei n.º 28/82 |
 
@@ -61,8 +61,8 @@ Universo: 9.690 prioritários da 1.ª Série, em vigor ou de vigência desconhec
 - **Com texto em vigor: 3.207** (33 %), e outros 3.627 em que o original serve, segundo a triagem. A triagem é a do
   `consolidacao/resultados-escala.jsonl` (12/11): lê as instruções do alterador por regras, e numa amostra antiga
   errou em alguns casos. É por isso um teto de confiança, não uma verificação.
-- **Em dia: 2.955 dos 3.207.** Dos outros 252, 35 foram mexidos pelo DRE depois da nossa recolha (verificado pelo
-  `lastmod` do sitemap) e 218 têm um `amended_by` publicado depois da última versão e fora do histórico (teto).
+- **Em dia: 2.963 dos 3.207.** Dos outros 244, 35 foram mexidos pelo DRE depois da nossa recolha (verificado pelo
+  `lastmod` do sitemap) e 210 têm um `amended_by` publicado depois da última versão e fora do histórico (teto).
   Lista: `consolidados-por-atualizar.jsonl`.
 - **Por fechar: 1.381** (alteração por aplicar, só em imagem e não triados). 1.043 são citados por pelo menos um
   diploma em vigor, 213 por 10 ou mais e 29 por 50 ou mais. Lista por ordem de citações:
