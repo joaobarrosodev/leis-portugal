@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '1997-09-23'
     amending: pt:dre:654144:por
-    amending_title: Portaria n.º 974/97
+    amending_title: Portaria n.º 974/97; Portaria n.º 774/94
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/667-x3/1993/07/14/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:06:11Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 974/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-x3-93.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-x3-93.alteracoes.json. Retificações
+    aplicadas com um LLM, na ronda r2, e verificadas às cegas (consolidacao/retificacoes_llm.py): Portaria n.º 774/94.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,11 +176,13 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 > Aditado pelo/a [Portaria n.º 974/97](https://diariodarepublica.pt/dr/detalhe/portaria/974-1997-654144), publicado em 1997-09-22.
 
-2.º Pelo presente diploma é concessionada, pelo período de 12 anos, ao Clube de Caçadores da Freguesia do Turcifal (registo no Instituto Florestal n.º 3.1159.92), com sede no Turcifal, Torres Vedras, a zona de caça associativa do Turcifal (processo n.º 1418 do Instituto Florestal).
+2.º Pelo presente diploma é concessionada, pelo período de 12 anos, à Associação de Caçadores da Freguesia do Turcifal (registo no Instituto Florestal n.º 3.1159.92), com sede no Turcifal, Torres Vedras, a zona de caça associativa do Turcifal (processo n.º 1418 do Instituto Florestal).
 
-3.º O Clube de Caçadores da Freguesia do Turcifal, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+> Retificado pelo/a [Portaria n.º 774/94](https://diariodarepublica.pt/dr/detalhe/portaria/774-1994-219152), publicado em 1994-08-26.
 
-4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados do Clube de Caçadores da Freguesia do Turcifal, com observância das regras legais e das suas normas estatutárias e regulamentares.
+3.º A Associação de Caçadores da Freguesia do Turcifal, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigada a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+
+4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados da Associação de Caçadores da Freguesia do Turcifal, com observância das regras legais e das suas normas estatutárias e regulamentares.
 
 5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
 

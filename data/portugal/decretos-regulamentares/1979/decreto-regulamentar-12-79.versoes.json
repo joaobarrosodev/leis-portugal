@@ -230,11 +230,32 @@
      "title": "Decreto-Lei n.º 500/79",
      "published": "1979-12-22",
      "dre_path": "/dr/detalhe/decreto-lei/500-1979-365890"
+    },
+    {
+     "id": "pt:dre:383832:por",
+     "title": "Declaração",
+     "published": "1979-06-02",
+     "dre_path": "/dr/detalhe/declaracao/1979-383832"
     }
    ],
    "changes": [
     "Altera Artigo 63.º",
-    "Altera Artigo 109.º"
+    "Altera Artigo 109.º",
+    "Retifica Artigo 10",
+    "Retifica Artigo 13",
+    "Retifica Artigo 15",
+    "Retifica Artigo 23",
+    "Retifica Artigo 34",
+    "Retifica Artigo 36",
+    "Retifica Artigo 42",
+    "Retifica Artigo 50",
+    "Retifica Artigo 52",
+    "Retifica Artigo 57",
+    "Retifica Artigo 60",
+    "Retifica Artigo 76",
+    "Retifica Artigo 86",
+    "Retifica texto",
+    "Retifica Artigo 140"
    ],
    "fragments": [
     "dae6dff478a6888b",
@@ -255,12 +276,12 @@
     "2cd561d52d97aad0",
     "109532be50d5e73d",
     "5403af8ae8a7d0a2",
-    "d2eea1460c1de014",
+    "0942b87653dc287b",
     "9e95d6864efddfe3",
     "abff8751cf304cb0",
-    "0b36bbde924e7f0f",
+    "dd3b164de76ad6df",
     "32f4b5e1a2d12236",
-    "3694709e23c61d42",
+    "de157710db7b382a",
     "9ed7e40633b05d84",
     "852c98e88df95c81",
     "f7e8cdf4039744e3",
@@ -273,7 +294,7 @@
     "6cb179a4d2293356",
     "c0599ac9e46d8315",
     "4a21e2c6eaba3825",
-    "375185cea03d6628",
+    "8257f7f61f0c0116",
     "2ef25f0cd71f5143",
     "8c81f0c3046abf86",
     "2e7a981779c8679b",
@@ -287,11 +308,11 @@
     "ccafe52d602a1430",
     "1f098801f1676c46",
     "c049dd77fed8bb52",
-    "fbfe58476e3e6578",
+    "cc56a10c4ea77430",
     "a3f8ee8ba21660f3",
     "a4b53362e199cdda",
     "3d5af0e064161f68",
-    "5ae6330973312d49",
+    "7c51291de47fdede",
     "c6f5bf6b0b7cf194",
     "e20a69e17e4632e3",
     "e0b34b5f70245072",
@@ -299,7 +320,7 @@
     "ff68b4b0093568a0",
     "b0c22a90957fa026",
     "3f2b4a4cffb2fce7",
-    "3539f2b8f32c6b1d",
+    "be5fe1b80ec27d7f",
     "81e07ff251cc51c0",
     "f6df84542838980a",
     "4b764f1b4808218f",
@@ -310,11 +331,11 @@
     "8675cffc171ff67d",
     "995d19f21bb7a7aa",
     "fec0aae526c2f4d5",
-    "e299b9f003175b19",
+    "aaa31ef712bc019b",
     "df8e443c2cf880f2",
     "2218a77ca9eeff74",
     "90b4913feeadd76f",
-    "1f479d6309fb2d2d",
+    "acaf2928995b1faa",
     "969a3e0b6b7bbc65",
     "23586d95d21f9c61",
     "df4a0e4d42c26662",
@@ -323,11 +344,11 @@
     "9813b2620872fa88",
     "ec06653b621817c3",
     "51b421e3bb96fee4",
-    "5d8e344e3ad81df2",
+    "76d901f3bfcb52b8",
     "e5caccacb9f3c600",
     "ae78108047b35cb7",
     "fc34284d2664ef3f",
-    "27b9d7766b08ad8b",
+    "699cf125593bbe46",
     "9017009af5e7e65e",
     "39173136442998bd",
     "8a9876a49c6432c6",
@@ -350,7 +371,7 @@
     "05184857ce5212fe",
     "150ee9470361cf72",
     "ce133abe9835ec95",
-    "09184258277328d7",
+    "2b442248a5738182",
     "ff93222d776ff14a",
     "b6a8b2ce6db251c9",
     "4516a6a66d3498df",
@@ -361,7 +382,7 @@
     "57c9959137f04ccf",
     "0703492eceaee7dd",
     "b60610c900883d88",
-    "b439fe4d5b8e6ebb",
+    "c6edf2537d008a29",
     "5a6ebfbcf73fee83",
     "9a54c7e5e5bda8d8",
     "ff0b6e993a1b0392",
@@ -373,7 +394,7 @@
     "e5fa2335ec7b60f3",
     "66b46578614763e9",
     "c20366349b11dc10",
-    "fd8e4fbe6ca086d9",
+    "28750589accb78ed",
     "03f3557f36ac122a",
     "25793d4ebfa4dd03",
     "c49ed32b5d9726a4",
@@ -422,7 +443,7 @@
     "8b19687aa80eedb3",
     "f645e9086f8c43c8",
     "15672322f0bf0c7f",
-    "9b77e375921397ba",
+    "f5372bfc34ef3b69",
     "a42c6fdc891419ed",
     "4f8f9bcca4d32050",
     "c12226dda4670d64",
@@ -2113,6 +2134,96 @@
    "changed_by": [],
    "markdown": "###### Artigo 160.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação, salvo quanto a vencimentos, a participação no prémio de cobrança e a contagem de antiguidade nas novas categorias e cargos, que produzirá, respectivamente, efeitos a partir de 1 de Janeiro de 1979, 1 de Janeiro de 1979 e de 1 de Novembro de 1978.\n\nCarlos Alberto da Mota Pinto - Manuel Jacinto Nunes.\n\nPromulgado em 28 de Março de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMAPA I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)\n\nMAPA II\n\nCursos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)\n\nMAPA III\n\nQualificação de pessoal técnico superior referido no artigo 50.º\n\nDocumentação;\n\nGestão de recursos humanos;\n\nOrganização e métodos;\n\nFormação.\n\nTabela de correspondência para efeitos de contagem de tempo nas novas categorias\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)\n\nO Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes."
   },
+  "0942b87653dc287b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Direcção de Serviços de Administração Geral; estrutura e atribuições)",
+   "in_force_from": "1979-12-22",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383832), publicado em 1979-06-02."
+   ],
+   "markdown": "###### Artigo 10.º — (Direcção de Serviços de Administração Geral; estrutura e atribuições)\n\n1 - A Direcção de Serviços de Administração Geral é um serviço de apoio instrumental, cuja acção se enquadra no domínio da administração dos recursos humanos, financeiros e materiais, e tem a seguinte estrutura:\n\na) Repartição de Administração do Pessoal;\n\nb) Repartição de Administração Financeira e do Material;\n\nc) Secção de Arquivo;\n\nd) Oficinas de impressão.\n\n2 - A Repartição de Administração do Pessoal compreende as seguintes secções:\n\na) De Movimentos do Pessoal;\n\nb) Do Regime Jurídico dos Funcionários;\n\nc) De Informações para a Gestão e Administração do Pessoal.\n\n3 - A Repartição de Administração Financeira e do Material compreende as seguintes secções:\n\na) De Contabilidade;\n\nb) De Administração do Material.\n\n4 - A Secção de Arquivo funciona na directa dependência do director de serviços, incumbindo-lhe assegurar a organização e a manutenção do arquivo da Direcção-Geral.\n\n5 - As oficinas de impressão funcionam na directa dependência do director de serviços, incumbindo-lhes:\n\na) A impressão de suportes de informação necessários ao funcionamento dos serviços da Direcção-Geral;\n\nb) A impressão de manuais de formação, códigos e outros elementos destinados à formação e documentação dos funcionários;\n\nc) A reprodução de documentos para os serviços centrais.\n\n6 - Incumbe à Repartição de Administração do Pessoal, através da Secção de Movimentos:\n\na) Assegurar os procedimentos administrativos relacionados com a nomeação e a cessação de funções dos funcionários;\n\nb) Assegurar os procedimentos administrativos respeitantes à contratação do pessoal ou relacionados com a rescisão de contratos;\n\nc) Assegurar as tarefas administrativas relacionadas com a abertura de concursos ou de outras provas de selecção;\n\nd) Efectuar os movimentos de transferências e promoções.\n\n7 - Incumbe à Repartição de Administração do Pessoal, através da Secção do Regime Jurídico dos Funcionários:\n\na) Assegurar os procedimentos administrativos relacionados com a concessão de licenças;\n\nb) Proceder ao contrôle das faltas;\n\nc) Elaborar a lista de antiguidade dos funcionários;\n\nd) Assegurar o expediente respeitante aos pedidos de aposentação;\n\ne) Assegurar o expediente respeitante à concessão de diuturnidades;\n\nf) Assegurar o expediente relacionado com os benefícios sociais a que tenham direito os funcionários;\n\ng) Assegurar o expediente relacionado com a disciplina;\n\nh) Coordenar e controlar o registo das informações de serviço.\n\n8 - Incumbe à Repartição de Administração do Pessoal, através da Secção de Informações para a Gestão e Administração do Pessoal:\n\na) Organizar e manter actualizado o registo central dos funcionários da Direcção-Geral;\n\nb) Codificar as informações relacionadas com o pessoal e destinadas a processamento automático;\n\nc) Assegurar as ligações com o centro de processamento automático das informações para a gestão e administração do pessoal.\n\n9 - Incumbe à Repartição de Administração Financeira e do Material, através da Secção de Contabilidade:\n\na) Elaborar as propostas orçamentais;\n\nb) Propor, realizar e processar as despesas de acordo com o orçamento aprovado e o programa de actividade da Direcção-Geral e, bem assim, com observância das normas gerais referentes à contabilidade pública;\n\nc) Processar o expediente relacionado com a conta de gerência;\n\nd) Organizar e arquivar toda a documentação relativa à conta de gerência;\n\ne) Assegurar o expediente necessário ao pagamento das remunerações e abonos diversos aos funcionários.\n\n10 - Incumbe à Repartição de Administração Financeira e do Material, através da Secção de Administração do Material:\n\na) Manter actualizado o inventário da Direcção-Geral;\n\nb) Elaborar as propostas de aquisição de material;\n\nc) Superintender na organização das consultas e concursos públicos, bem como na elaboração de contratos escritos para a aquisição de material;\n\nd) Gerir o material necessário aos serviços centrais e assegurar a distribuição, pelos serviços distritais e locais, de material que deva ser adquirido a nível central;\n\ne) Velar pela guarda e manutenção do material necessário ao funcionamento dos serviços centrais ou do que deva permanecer em depósito nos referidos serviços.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383832), publicado em 1979-06-02."
+  },
+  "dd3b164de76ad6df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Núcleo de Informática; atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Núcleo de Informática; atribuições)\n\nO Núcleo de Informática é um serviço de apoio instrumental, cuja acção se enquadra no domínio do tratamento automático de informações, ao qual incumbe:\n\na) Cooperar com os serviços do Instituto de Informática e outros serviços congéneres nas fases de levantamento e estudo prévio, bem como na implantação de novas aplicações informáticas;\n\nb) Estabelecer permanente ligação ao centro processador, com vista ao bom andamento das tarefas correntes;\n\nc) Executar e coordenar as actividades relacionadas com a exploração de equipamentos periféricos, nomeadamente para a obtenção, em suportes adequados, das informações a tratar;\n\nd) Transmitir aquelas informações ao centro processador em data oportuna e condições controladas de exactidão;\n\ne) Receber do centro os produtos do tratamento e, após o respectivo contrôle, remetê-los aos vários serviços interessados;\n\nf) Organizar e executar as operações de microfilmagem de documentos que devem permanecer nos arquivos da Direcção-Geral."
+  },
+  "de157710db7b382a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Pessoal de apoio ao director-geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Pessoal de apoio ao director-geral)\n\n1 - Junto do director-geral funcionará uma unidade de apoio administrativo, à qual incumbe:\n\na) Preparar o expediente que deva ser submetido à apreciação ou despacho do director-geral ou que este tenha de submeter aos membros do Governo;\n\nb) Receber, expedir e registar a correspondência e demais documentação de assuntos próprios do director-geral;\n\nc) Registar e microfilmar a correspondência e outra documentação dirigida à Direcção-Geral e efectuar a sua distribuição pelos respectivos serviços centrais;\n\nd) Prestar apoio administrativo ao Conselho de Administração Fiscal e aos subdirectores-gerais.\n\n2 - O pessoal de apoio ao director-geral é orientado por um secretário coadjuvado por funcionários pertencentes ao quadro técnico de administração fiscal ou ao quadro do pessoal administrativo.\n\n3 - O secretário do director-geral é escolhido por este de entre os funcionários da Direcção-Geral e exercerá o cargo em comissão de serviço, mantendo o direito ao lugar de origem e às respectivas regalias.\n\n4 - Durante o período que durar a comissão, o lugar de origem do funcionário designado para secretário do director-geral poderá ser provido interinamente."
+  },
+  "8257f7f61f0c0116": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n(Situação dos funcionários dirigentes que exerçam cargos inferiores aos de director de serviços a quem sejam dadas por findas as comissões de serviço a requerimento dos interessados.)\n\n1 - Os funcionários a que se refere o artigo anterior, com excepção dos abrangidos pelos n.os 2 e 3, podem solicitar, a todo o tempo, o regresso às categorias que lhes corresponderem nas respectivas carreiras de origem.\n\n2 - Para efeitos do número anterior, serão observadas as normas referentes a transferências previstas no presente decreto."
+  },
+  "cc56a10c4ea77430": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Transferências por conveniência de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Transferências por conveniência de serviço)\n\nAs transferências por conveniência de serviço só poderão verificar-se no caso de o comportamento dos funcionários prejudicar o bom clima de relações humanas nos serviços, a eficiência destes ou contribuir para o desprestígio da função e serão sempre precedidas de inquérito ordenado pelo director-geral, com audiência dos funcionários."
+  },
+  "7c51291de47fdede": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Nomeação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Nomeação)\n\n1 - A nomeação do pessoal técnico tributário será feita nos seguintes termos:\n\na) Liquidadores tributários de 2.ª classe, de entre liquidadores tributários estagiários que tenham concluído com aproveitamento o respectivo estágio;\n\nb) Liquidadores tributários de 1.ª classe, de entre os de 2.ª desse com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no ultimo triénio;\n\nc) Técnicos tributários de 2.ª classe, de entre liquidadores tributários de 1.ª classe com, pelo menos, dois anos de serviço na categoria e aprovação no curso II indicado no mapa II anexo ao presente diploma, sendo as nomeações efectuadas segundo graduação estabelecida nos termos dos n.os 1 a 3 do artigo 70.º;\n\nd) Técnicos tributários de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\ne) Peritos tributários de 2.ª classe, de entre técnicos tributários de 1.ª classe com, pelo menos, dois anos de serviço na categoria e aprovação no curso III mencionado no mapa II anexo ao presente decreto, sendo as nomeações efectuadas segundo graduação estabelecida nos termos dos n.os 1 a 3 do artigo 70.º;\n\nf) Peritos tributários de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 14 ou a Bom no ultimo triénio.\n\n2 - O prazo previsto nas alíneas b), d) e f) do número anterior será reduzido de um ano desde que, reunindo as restantes condições, os funcionários tenham obtido nota não inferior a 14, respectivamente, no curso de formação para a categoria de liquidador tributário no curso de promoção para a categoria de técnico tributário e no curso de promoção para a categoria de perito tributário de 2.ª classe e possuam classificação de serviço não inferior a 14 ou a Bom no último ano."
+  },
+  "be5fe1b80ec27d7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Nomeação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Nomeação)\n\n1 - A nomeação do pessoal técnico judicial será feita nos seguintes termos:\n\na) Técnicos de contencioso tributário de 2.ª classe, de entre liquidadores tributários de 1.ª classe com, pelo menos, dois anos de serviço na categoria e aprovação no curso II indicado no mapa II anexo ao presente diploma, sendo as nomeações efectuadas segundo a graduação estabelecida com base nos n.os 1 a 3 do artigo 70.º;\n\nb) Técnicos de contencioso tributário de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\nc) Peritos de contencioso tributário de 2.ª classe, mediante provas de selecção de entre técnicos de contencioso tributário de 1.ª classe com, pelo menos, dois anos de serviço na categoria, sendo as nomeações efectuadas segundo a graduação estabelecida com base nos n.os 1 a 3 do artigo 70.º;\n\nd) Peritos de contencioso tributário de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e aprovação no curso VI indicado no mapa II anexo ao presente decreto, sendo as nomeações efectuadas segundo a graduação estabelecida nos termos dos n.os 1 a 3 do artigo 70.º.\n\n2 - Os prazos previstos nas alíneas b) e d) do número anterior serão reduzidos de um ano desde que, reunindo as restantes condições, os funcionários tenham obtido nota não inferior a 14, respectivamente, no curso de promoção para a categoria de técnico de contencioso tributário de 2.ª classe e no curso de promoção para a categoria de perito de contencioso tributário de 2.ª classe e possuam classificação de serviço não inferior a 14 ou a Bom no último ano.\n\n3 - Às provas de selecção previstas nas alíneas c) e d) do n.º 1 podem concorrer, respectivamente, os técnicos tributários de 1.ª classe e os peritos tributários com o tempo de serviço previsto nas referidas alíneas."
+  },
+  "aaa31ef712bc019b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — (Nomeação de pessoal técnico superior de outras especialidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Nomeação de pessoal técnico superior de outras especialidades)\n\n1 - A nomeação do pessoal técnico superior não mencionado nos artigos anteriores efectuar-se-á nos seguintes termos:\n\na) Técnicos de 2.ª classe mediante provas de selecção de entre licenciados com curso superior adequado ao exercício das funções inerentes às especialidades previstas no mapa III anexo ao presente decreto;\n\nb) Técnicos de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;\n\nc) Técnicos principais, mediante provas de selecção de entre os de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo as nomeações efectuadas segundo graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;\n\nd) Técnicos assessores, mediante provas de selecção, que têm de incluir um trabalho elaborado para o efeito, de entre os técnicos principais com, pelo menos, seis anos de serviço na categoria, sendo as nomeações efectuadas com base no disposto nos n.os 1 a 3 do artigo 70.º\n\n2 - Na admissão de técnicos de 2.ª classe terão preferência, em igualdade de circunstâncias, os candidatos que sejam funcionários da Direcção-Geral."
+  },
+  "acaf2928995b1faa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — (Nomeações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Nomeações)\n\nA nomeação do pessoal técnico profissional far-se-á nos seguintes termos:\n\na) Técnicos auxiliares de 2.ª classe e técnicos auxiliares de documentação de 2.ª classe, mediante provas de selecção de entre funcionários da Direcção-Geral que possuam a habilitação do curso geral dos liceus ou equivalente ou, na sua falta, de entre indivíduos diplomados com o curso complementar do ensino secundário ou com habilitação equivalente;\n\nb) Técnicos auxiliares de 1.ª classe e técnicos auxiliares de documentação de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\nc) Técnicos auxiliares principais e técnicos auxiliares de documentação principais, mediante provas de selecção de entre os de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;\n\nd) Desenhadores de 2.ª classe, mediante concurso de provas práticas de entre indivíduos habilitados com o curso geral do ensino secundário ou com habilitação equivalente;\n\ne) Desenhadores de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\nf) Desenhadores principais, mediante concurso de provas práticas de entre os de 1.ª classe com, pelo menos três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;\n\ng) Electricistas de 2.ª classe, mediante provas de selecção de entre indivíduos habilitados com a escolaridade obrigatória e experiência no exercício das funções;\n\nh) Electricistas de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e informação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\ni) Electricistas principais, mediante concurso de provas práticas de entre electricistas de 1.ª classe com, pelo menos, três anos de serviço na categoria;\n\nj) Encarregados de obras, mediante provas de selecção de entre indivíduos habilitados com a escolaridade obrigatória e experiência no exercício das funções;\n\nk) Operadores de reprografia de 3.ª classe, mediante concurso de prestação de provas práticas de entre funcionários da Direcção-Geral pertencentes ao grupo do pessoal auxiliar com, pelo menos, cinco anos de serviço ou, na sua falta, de entre indivíduos com a habilitação mínima correspondente à escolaridade obrigatória;\n\nl) Operadores de reprografia de 2.ª e 1.ª classes, de entre, respectivamente, os de 3.ª e 2.ª classes com, pelo menos, três anos de serviço e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\nm) Operadores de offset de 2.ª classe, mediante concurso de provas práticas de entre operadores de reprografia de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;\n\nn) Operadores de offset de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\no) Chefe de oficinas de impressão, mediante concurso de provas práticas de entre operadores de offset de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º"
+  },
+  "76d901f3bfcb52b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — (Nomeação dos directores dos serviços centrais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — (Nomeação dos directores dos serviços centrais)\n\nA nomeação dos directores dos serviços centrais é feita nos seguintes termos:\n\na) Os directores dos serviços centrais, incluindo o director do Núcleo de Informática, são nomeados por despacho do Ministro das Finanças e do Plano, mediante proposta do director-geral, de entre funcionários habilitados com o curso de Administração Tributária previsto no mapa II anexo ao presente decreto, sem prejuízo do disposto nas alíneas seguintes;\n\nb) O director dos Serviços de Gestão dos Recursos Humanos e de Organização e o director do Centro de Formação e Aperfeiçoamento Profissional são nomeados por despacho do Ministro das Finanças e do Plano, mediante proposta do director-geral, de entre funcionários habilitados com o curso de Administração Tributária previsto no mapa II anexo ao presente decreto ou de entre técnicos superiores com categoria equivalente ou superior à de principal que, mediante apreciação do respectivo currículo profissional, revelem experiência e qualificação profissionais adequadas à especificação dos cargos;\n\nc) O director dos Serviços de Instalações é nomeado por despacho do Ministro das Finanças e do Plano, mediante proposta do director-geral, de entre engenheiros civis do quadro do pessoal da Direcção-Geral com categoria equivalente ou superior à de principal."
+  },
+  "699cf125593bbe46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — (Chefia das secretarias dos tribunais das contribuições e impostos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — (Chefia das secretarias dos tribunais das contribuições e impostos)\n\nOs cargos de chefe de secretaria dos Tribunais das Contribuições e Impostos de Lisboa e do Porto são desempenhados por subdirectores de contencioso tributário."
+  },
   "8a9876a49c6432c6": {
    "fragment_id": null,
    "type": null,
@@ -2123,6 +2234,30 @@
    ],
    "markdown": "###### Artigo 63.º — Nomeação do pessoal dirigente dos serviços locais\n\n1 - A nomeação do pessoal dirigente dos serviços locais é feita nos seguintes termos:\n\na) Os chefes de repartição de finanças de 1.ª classe, mediante concurso documental de entre peritos tributários e de entre funcionários pertencentes ao quadro do pessoal técnico de fiscalização tributária e ao quadro do pessoal técnico de contencioso tributário com categoria equivalente à de perito tributário de 2.ª classe aprovados no curso III mencionado no mapa II anexo ao presente decreto, ou de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com, pelo menos, dois anos de serviço na categoria de técnico tributário de 1.ª classe ou equivalente e aprovação no curso acima referido, sendo as nomeações efectuadas segundo a graduação estabelecida de acordo com o disposto nos n.os 1 a 3 do artigo 70.º;\n\nb) Os chefes de repartição de finanças de 2.ª classe e os adjuntos dos chefes de repartição de finanças de 1.ª classe, mediante provas de selecção de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com a categoria de técnico tributário de 1.ª classe ou equivalente, sendo as nomeações efectuadas segundo a graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;\n\nc) Os chefes de repartição de finanças de 3.ª classe e os adjuntos dos chefes de repartição de finanças de 2.ª classe, mediante concurso documental de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com a categoria de técnico tributário de 1.ª ou 2.ª classes ou equivalente e ainda de entre liquidadores tributários de 1.ª classe com, pelo menos, dois anos de serviço na categoria e aprovados no curso II indicado no mapa II anexo ao presente decreto, sendo as nomeações efectuadas segundo a graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º\n\n2 - Os liquidadores tributários de 1.ª classe nomeados directamente para os cargos de chefes de repartição de finanças de 3.ª classe ou de adjuntos de chefes de repartição de finanças de 2.ª classe, nos termos da alínea e) do número anterior, adquirem, para todos os efeitos, no quadro geral do pessoal da Direcção-Geral, a categoria de técnico tributário de 2.ª classe.\n\n3 - Os funcionários referidos na parte final da alínea a) do n.º 1 do presente artigo nomeados para os cargos de chefes de repartição de finanças de 1.ª classe adquirem, para todos os efeitos, no quadro geral do pessoal da Direcção-Geral, a categoria de perito tributário de 2.ª classe, sem prejuízo de os que forem oriundos das categorias de técnico verificador tributário de 1.ª classe e de técnico de contencioso tributário de 1.ª classe poderem concorrer às categorias imediatas das respectivas carreiras, nos termos definidos no presente decreto.\n\n4 - Os chefes de repartição de finanças de 2.ª classe e os adjuntos dos chefes de repartição de finanças de 1.ª classe que puderem ser nomeados para lugares de perito tributário de 2.ª classe, nos termos da alínea e) do artigo 36.º deste decreto, poderão permanecer no exercício daqueles cargos sem prejuízo da referida nomeação, mas só até serem providos na categoria de perito tributário de 1.ª classe e desde que não tenham informação de serviço inferior a 12 ou a Suficiente.\n\n5 - Nas nomeações para os cargos mencionados nas alíneas a), b) e c) do n.º 1 do presente artigo será dada preferência, em igualdade de circunstâncias, aos candidatos que tenham exercido, isolada ou cumulativamente, durante pelo menos três anos, funções de chefe ou de adjunto do chefe de repartição de finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 500/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1979-365890), publicado em 1979-12-22."
   },
+  "2b442248a5738182": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — (Director-geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — (Director-geral)\n\n1 - Compete ao director-geral a direcção e orientação superior de todos os serviços da Direcção-Geral e ainda:\n\na) Propor ao Ministro das Finanças e do Plano as providências necessárias à adaptação permanente dos serviços da administração fiscal aos objectivos da política tributária;\n\nb) Propor ao Ministro das Finanças e do Plano as medidas de carácter legislativo que permitam o funcionamento dos serviços segundo adequados padrões de eficácia e de eficiência;\n\nc) Definir, ouvido o parecer do Conselho de Administração Fiscal, as políticas a que deverá subordinar-se a gestão dos serviços da Direcção-Geral e promover as medidas necessárias ao seu bom funcionamento;\n\nd) Submeter à apreciação do Conselho de Administração Fiscal os programas de actividades elaborados em conformidade com as políticas definidas e orientar, coordenar e controlar a actuação dos serviços da Administração Tributária, determinando as medidas que se imponham ao cabal desempenho das missões dos referidos serviços;\n\ne) Representar a Direcção-Geral nas relações externas;\n\nf) Despachar directamente todos os assuntos que caibam no âmbito das atribuições da Direcção-Geral e que, por sua natureza, disposição da lei ou determinação do Ministro das Finanças e do Plano não devem ser sujeitos a despacho ministerial.\n\n2 - O director-geral poderá delegar o exercício de algumas das suas competências nos subdirectores-gerais e nos directores de serviço que lhe estejam directamente subordinados."
+  },
+  "c6edf2537d008a29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — (Subdirectores tributários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — (Subdirectores tributários)\n\n1 - Compete aos subdirectores tributários:\n\na) Dirigir as repartições dos serviços centrais de gestão fiscal, nos termos previstos no presente decreto;\n\nb) Orientar e coordenar, sob a direcção dos respectivos directores, a actividade dos serviços das direcções distritais de finanças, com excepção dos relacionados com a fiscalização tributária, e despachar todos os assuntos que caibam no âmbito das competências que lhes tenham sido delegadas;\n\nc) Desempenhar outras funções que lhes sejam cometidas pelos directores distritais de finanças.\n\n2 - Os subdirectores tributários, quando no exercício das funções mencionadas nas alíneas a) e b) do número anterior, consideram-se, para todos os efeitos, pessoal dirigente."
+  },
+  "28750589accb78ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Das substituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Das substituições"
+  },
   "3e40e74b401c988f": {
    "fragment_id": null,
    "type": null,
@@ -2132,6 +2267,14 @@
     "Alterado pelo/a [Decreto-Lei n.º 500/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1979-365890), publicado em 1979-12-22."
    ],
    "markdown": "###### Artigo 109.º — Secretários de finanças de 3.ª classe\n\n1 - Os secretários de finanças de 3.ª classe que possuam, pelo menos, três anos de serviço na categoria e informação de serviço não inferior a 12 ou a Suficiente no último ano transitam para a categoria de técnico tributário de 1.ª classe.\n\n2 - Os restantes secretários de finanças de 3.ª classe transitam para a categoria de técnico tributário de 2.ª classe.\n\n3 - Os secretários de finanças de 3.ª classe que à data da entrada em vigor do presente decreto estejam colocados em lugares de chefe de repartição de finanças de 3.ª classe mantêm-se no desempenho do actual cargo e os que exerçam funções de subchefe nas repartições de finanças de 2.ª classe passarão a desempenhar o cargo de adjunto de chefe de repartição de finanças de 2.ª classe.\n\n4 - Os secretários de finanças de 3.ª classe aprovados em concurso para a categoria de técnico verificador de 3.ª classe podem solicitar colocação em lugares vagos de técnico verificador auxiliar, dentro do prazo de validade do respectivo concurso, nas categorias de 2.ª ou 1.ª classes, conforme tenham menos de três ou três ou mais anos na categoria de secretário de finanças de 3.ª classe.\n\n5 - Os funcionários que transitam para as categorias mencionadas nos n.os 1 e 2 deste artigo poderão ser nomeados, no prazo de três anos a contar da data da publicação das listas classificativas correspondentes ao respectivo concurso para secretário de finanças de 3.ª classe, para lugares vagos de técnico verificador auxiliar, de 2.ª ou 1.ª classes, conforme tenham menos de três ou três ou mais anos conjuntamente nas categorias de secretário de finanças de 3.ª classe e de técnico tributário.\n\n> Alterado pelo/a [Decreto-Lei n.º 500/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1979-365890), publicado em 1979-12-22."
+  },
+  "f5372bfc34ef3b69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 140.º — (Primeiro provimento dos lugares de primeiro-oficial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 140.º — (Primeiro provimento dos lugares de primeiro-oficial)\n\n1 - O primeiro provimento dos lugares de primeiro-oficial que se efectuar após a entrada em vigor deste decreto poderá ser feito, nos termos do artigo 155.º, de entre os segundos-oficiais pertencentes aos quadros de pessoal da Direcção-Geral que possuam o tempo mínimo previsto neste diploma para a promoção à categoria imediata e classificação de serviço não inferior a 12 ou a Suficiente no último ano.\n\n2 - O disposto no número anterior aplica-se aos segundos-oficiais, oriundos do quadro geral de adidos, que hajam pertencido aos serviços de finanças dos territórios descolonizados, integrados ou que vierem a integrar-se no quadro de supranumerários criado pela [Portaria n.º 768/77](https://diariodarepublica.pt/dr/detalhe/portaria/768-1977-280241), de 21 de Dezembro."
   }
  }
 }

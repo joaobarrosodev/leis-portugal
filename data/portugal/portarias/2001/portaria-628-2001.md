@@ -55,9 +55,10 @@ version_history:
     changes: []
   - date: '2004-07-17'
     amending: pt:dre:527576:por
-    amending_title: Portaria n.º 838/2004
+    amending_title: Portaria n.º 838/2004; Declaração de Rectificação n.º 14-H/2001
     changes:
     - Altera Artigo unidades 209-226
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/628/2001/06/23/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:33:30Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 838/2004. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-628-2001.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-628-2001.alteracoes.json. Retificações aplicadas
+    com um LLM, na ronda r2, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 14-H/2001.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -466,7 +468,9 @@ QUADRO N.º 3
 
 [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)
 
-2.º ciclo
+Ramos de Clarinete, Fagote, Flauta, Oboé, Saxofone, Trombone, Trompa, Trompete e Tuba - 2.º ciclo
+
+> Retificado pelo/a [Declaração de Rectificação n.º 14-H/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-h-2001-684807), publicado em 2001-07-31.
 
 Grau de licenciado
 
@@ -506,7 +510,7 @@ QUADRO N.º 3
 
 [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)
 
-2.º ciclo
+Ramo de Guitarra - 2.º ciclo
 
 Grau de licenciado
 
@@ -546,7 +550,7 @@ QUADRO N.º 3
 
 [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)
 
-2.º ciclo
+Ramos de Contrabaixo, Viola, Violino e Violoncelo - 2.º ciclo
 
 Grau de licenciado
 
@@ -586,7 +590,7 @@ QUADRO N.º 3
 
 [[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)](https://files.diariodarepublica.pt/1s/2001/06/144b00/37113724.pdf)
 
-2.º ciclo
+Ramos de Piano e Piano de Acompanhamento - 2.º ciclo
 
 Grau de licenciado
 
@@ -624,7 +628,7 @@ QUADRO N.º 3
 
 [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)](https://files.diariodarepublica.pt/1s/2004/07/166b00/43694371.pdf)
 
-2.º ciclo
+Ramos de Cravo e Flauta de Bisel - 2.º ciclo
 
 Grau de licenciado
 

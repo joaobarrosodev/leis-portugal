@@ -54,10 +54,14 @@ version_history:
     changes: []
   - date: '2009-08-12'
     amending: pt:dre:494006:por
-    amending_title: Decreto-Lei n.º 181/2009
+    amending_title: Decreto-Lei n.º 181/2009; Declaração de Rectificação n.º 104/2007
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 3.º
+    - Retifica Artigo 75-B
+    - Retifica Artigo 77
+    - Retifica Artigo 107
+    - Retifica Artigo 148
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre/pt/html
@@ -84,7 +88,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:59:57Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 181/2009. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-316-2007.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-316-2007.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda r3, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração
+    de Rectificação n.º 104/2007.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -2630,9 +2636,11 @@ c) Fundamento técnico das soluções defendidas pela câmara municipal.
 
 1 - Para efeitos do disposto nos n.os 1 e 2 do artigo anterior, a designação dos representantes dos serviços e entidades da administração directa ou indirecta do Estado e das Regiões Autónomas inclui a delegação ou subdelegação dos poderes adequados para efeitos de vinculação daqueles serviços e entidades.
 
-2 - A posição manifestada pelos representantes dos serviços e entidades da administração directa ou indirecta do Estado e das Regiões Autónomas no parecer previsto no n.º 3 do artigo anterior substitui os pareceres que aqueles serviços e entidades devessem emitir, a qualquer título, sobre o plano, nos termos legais e regulamentares.
+2 - A posição manifestada pelos representantes dos serviços e entidades da administração directa ou indirecta do Estado e das Regiões Autónomas no parecer previsto no n.º 4 do artigo anterior substitui os pareceres que aqueles serviços e entidades devessem emitir, a qualquer título, sobre o plano, nos termos legais e regulamentares.
 
 3 - Caso o representante de um serviço ou entidade não manifeste, na reunião da comissão de acompanhamento que aprova o parecer final, a sua concordância com as soluções projectadas, ou, apesar de regularmente convocado, não compareça à reunião, considera-se que o serviço ou entidade por si representado nada tem a opor à proposta de plano director municipal, desde que não manifeste a sua discordância no prazo de cinco dias após a comunicação do resultado da reunião.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 104/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/104-2007-629446), publicado em 2007-11-06.
 
 ###### Artigo 75.º-C — Acompanhamento dos planos de urbanização e dos planos de pormenor
 
@@ -2666,7 +2674,7 @@ c) Fundamento técnico das soluções defendidas pela câmara municipal.
 
 2 - Na deliberação que determina a elaboração do plano é estabelecido um prazo, que não deve ser inferior a 15 dias, para a formulação de sugestões e para a apresentação de informações sobre quaisquer questões que possam ser consideradas no âmbito do respectivo procedimento de elaboração.
 
-3 - Concluído o período de acompanhamento e, quando for o caso, decorrido o período adicional de concertação, a câmara municipal procede à abertura de um período de discussão pública, através de aviso a publicar no Diário da República e a divulgar através da comunicação social e da respectiva página da Internet, do qual consta a indicação do período de discussão, das eventuais sessões públicas a que haja lugar e dos locais onde se encontra disponível a proposta, o respectivo relatório ambiental, o parecer da comissão de acompanhamento ou da comissão de coordenação e desenvolvimento regional, os demais pareceres eventualmente emitidos, os resultados da concertação, bem como da forma como os interessados podem apresentar as suas reclamações, observações ou sugestões.
+3 - Concluído o período de acompanhamento e, quando for o caso, decorrido o período adicional de concertação, a câmara municipal procede à abertura de um período de discussão pública, através de aviso a publicar no Diário da República e a divulgar através da comunicação social e da respectiva página da Internet, do qual consta a indicação do período de discussão, das eventuais sessões públicas a que haja lugar e dos locais onde se encontra disponível a proposta, o respectivo relatório ambiental, o parecer da comissão de acompanhamento ou a acta da conferência decisória, os demais pareceres eventualmente emitidos, os resultados da concertação, bem como da forma como os interessados podem apresentar as suas reclamações, observações ou sugestões.
 
 4 - O período de discussão pública deve ser anunciado com a antecedência mínima de 5 dias, e não pode ser inferior a 30 dias para o plano director municipal e a 22 dias para o plano de urbanização e para o plano de pormenor.
 
@@ -3276,7 +3284,7 @@ O prosseguimento dos trabalhos embargados nos termos do artigo anterior constitu
 
 a) Operações de loteamento e obras de urbanização;
 
-b) Obras de construção civil, ampliação, alteração e reconstrução, com excepção das que estejam sujeitas apenas a um procedimento de comunicação prévia à câmara municipal;
+b) Obras de construção civil, ampliação, alteração e reconstrução, com excepção das que estejam isentas de procedimento de licenciamento ou comunicação prévia;
 
 c) Trabalhos de remodelação de terrenos;
 
@@ -3816,7 +3824,7 @@ h) A resolução do Conselho de Ministros que ratifica ou aprova as medidas prev
 
 i) A resolução do Conselho de Ministros que suspende o plano regional de ordenamento do território, o plano sectorial de ordenamento do território e o plano especial de ordenamento do território;
 
-j) A resolução do Conselho de Ministros que ratifica a suspensão do plano municipal de ordenamento do território, incluindo o respectivo texto e a planta de delimitação.
+j) A resolução do Conselho de Ministros que ratifica a suspensão do plano municipal de ordenamento do território, incluindo o respectivo texto das medidas preventivas e a planta de delimitação.
 
 3 - No caso da ratificação prevista na alínea f) do número anterior ser parcial, devem ser identificadas no regulamento publicado as disposições não ratificadas.
 
@@ -3828,7 +3836,7 @@ b) A deliberação municipal que determina a elaboração de plano municipal de 
 
 c) A deliberação das assembleias municipais ou da assembleia intermunicipal que aprova o plano intermunicipal de ordenamento do território, incluindo o relatório e as peças gráficas ilustrativas;
 
-d) A deliberação municipal que aprova o plano municipal de ordenamento do território não sujeito a ratificação, incluindo o regulamento, a planta de zonamento ou de implantação e a planta de condicionantes;
+d) A deliberação municipal que aprova o plano municipal de ordenamento do território não sujeito a ratificação, incluindo o regulamento, a planta de ordenamento, de zonamento ou de implantação e a planta de condicionantes;
 
 e) A deliberação municipal que aprova as medidas preventivas não sujeitas a ratificação, incluindo o respectivo texto e a planta de delimitação, bem como a deliberação municipal que aprova a prorrogação do prazo de vigência das medidas preventivas.
 

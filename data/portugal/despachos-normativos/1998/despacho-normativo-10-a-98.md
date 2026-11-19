@@ -53,13 +53,16 @@ version_history:
     changes: []
   - date: '1999-01-31'
     amending: pt:dre:235100:por
-    amending_title: Despacho Normativo n.º 71/98; Despacho Normativo n.º 3/99; Declaração de Rectificação n.º 19-M/98
+    amending_title: Despacho Normativo n.º 71/98; Despacho Normativo n.º 3/99; Declaração de Rectificação n.º 19-M/98; Declaração
+      de Rectificação n.º 7-L/98
     changes:
     - Altera Artigo 12.º
     - Altera Artigo 2.º
     - Altera Artigo 6.º
     - Retifica texto
     - Retifica Artigo 1
+    - Retifica Artigo 2
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/10-a/1998/02/13/p/dre/pt/html
@@ -88,7 +91,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 71/98; Despacho
     Normativo n.º 3/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1998/despacho-normativo-10-a-98.alteracoes.json.
     Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
-    n.º 19-M/98.'
+    n.º 19-M/98. Retificações aplicadas com um LLM, na ronda r2, e verificadas às cegas (consolidacao/retificacoes_llm.py):
+    Declaração de Rectificação n.º 7-L/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -240,7 +244,7 @@ f) Ambiente interno da unidade fabril, incluindo a higiene e a segurança no tra
 
 g) Racionalização energética, nomeadamente os investimentos que visem a redução do conteúdo energético dos produtos, a autoprodução de energia e a opção por energias menos poluentes;
 
-h) Estratégias de comercialização, marketing e design, com destaque para os esforços na conquista de marcados externos, incluindo investimentos comerciais e industriais nesses mercados;
+h) Estratégias de comercialização, marketing e design, com destaque para os esforços na conquista de mercados externos, incluindo investimentos comerciais e industriais nesses mercados;
 
 i) Logística, nomeadamente nos aspectos de aprovisionamento e armazenagem;
 
@@ -253,6 +257,8 @@ m) Formação dos recursos humanos da empresa;
 n) Transferência de projectos com alta intensidade tecnológica para pólos e parques tecnológicos.
 
 > Alterado pelo/a [Despacho Normativo n.º 71/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/71-1998-235100) e [Despacho Normativo n.º 3/99](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1999-181383), publicado em 1999-01-26.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 7-L/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-l-1998-139455), publicado em 1998-03-31.
 
 ###### Artigo 3.º — Organismo gestor
 
@@ -760,7 +766,7 @@ b) Majorações de carácter industrial:
 
 3 - O acréscimo do incentivo a fundo perdido resultante da aplicação das majorações industriais não poderá ultrapassar o equivalente a 10% do montante das aplicações relevantes referidas na alínea b) do n.º 1 do artigo 9.º
 
-2.º
+3.º
 
 Incentivo final
 

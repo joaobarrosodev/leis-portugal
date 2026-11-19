@@ -54,10 +54,25 @@ version_history:
     changes: []
   - date: '1979-12-22'
     amending: pt:dre:365890:por
-    amending_title: Decreto-Lei n.º 500/79
+    amending_title: Decreto-Lei n.º 500/79; Declaração
     changes:
     - Altera Artigo 63.º
     - Altera Artigo 109.º
+    - Retifica Artigo 10
+    - Retifica Artigo 13
+    - Retifica Artigo 15
+    - Retifica Artigo 23
+    - Retifica Artigo 34
+    - Retifica Artigo 36
+    - Retifica Artigo 42
+    - Retifica Artigo 50
+    - Retifica Artigo 52
+    - Retifica Artigo 57
+    - Retifica Artigo 60
+    - Retifica Artigo 76
+    - Retifica Artigo 86
+    - Retifica texto
+    - Retifica Artigo 140
 identifiers:
   celex: null
   eli: null
@@ -84,7 +99,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:59:32Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 500/79. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1979/decreto-regulamentar-12-79.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1979/decreto-regulamentar-12-79.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda r3, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -605,7 +621,7 @@ c) Assegurar as ligações com o centro de processamento automático das informa
 
 a) Elaborar as propostas orçamentais;
 
-b) Propor, realizar e processar as despesas de acordo com o orçamento aprovado e o programa da actividade da Direcção-Geral e, bem assim, com observância das normas gerais referentes à contabilidade pública;
+b) Propor, realizar e processar as despesas de acordo com o orçamento aprovado e o programa de actividade da Direcção-Geral e, bem assim, com observância das normas gerais referentes à contabilidade pública;
 
 c) Processar o expediente relacionado com a conta de gerência;
 
@@ -624,6 +640,8 @@ c) Superintender na organização das consultas e concursos públicos, bem como 
 d) Gerir o material necessário aos serviços centrais e assegurar a distribuição, pelos serviços distritais e locais, de material que deva ser adquirido a nível central;
 
 e) Velar pela guarda e manutenção do material necessário ao funcionamento dos serviços centrais ou do que deva permanecer em depósito nos referidos serviços.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383832), publicado em 1979-06-02.
 
 ###### Artigo 11.º — (Direcção de Serviços de Informações e Relações Públicas; atribuições)
 
@@ -655,7 +673,7 @@ e) Propor e tomar as providências necessárias à segurança no trabalho relati
 
 ###### Artigo 13.º — (Núcleo de Informática; atribuições)
 
-O núcleo de informática é um serviço de apoio instrumental, cuja acção se enquadra no domínio do tratamento automático de informações, ao qual incumbe:
+O Núcleo de Informática é um serviço de apoio instrumental, cuja acção se enquadra no domínio do tratamento automático de informações, ao qual incumbe:
 
 a) Cooperar com os serviços do Instituto de Informática e outros serviços congéneres nas fases de levantamento e estudo prévio, bem como na implantação de novas aplicações informáticas;
 
@@ -695,7 +713,7 @@ c) Registar e microfilmar a correspondência e outra documentação dirigida à 
 
 d) Prestar apoio administrativo ao Conselho de Administração Fiscal e aos subdirectores-gerais.
 
-2 - O pessoal de apoio ao director-geral é orientado por um secretário coadjuvado por funcionários pertencentes ao quadro técnico da administração fiscal ou ao quadro do pessoal administrativo.
+2 - O pessoal de apoio ao director-geral é orientado por um secretário coadjuvado por funcionários pertencentes ao quadro técnico de administração fiscal ou ao quadro do pessoal administrativo.
 
 3 - O secretário do director-geral é escolhido por este de entre os funcionários da Direcção-Geral e exercerá o cargo em comissão de serviço, mantendo o direito ao lugar de origem e às respectivas regalias.
 
@@ -787,7 +805,7 @@ b) Doença limitativa das faculdades inerentes ao bom desempenho dos cargos, med
 
 (Situação dos funcionários dirigentes que exerçam cargos inferiores aos de director de serviços a quem sejam dadas por findas as comissões de serviço a requerimento dos interessados.)
 
-1 - Os funcionários a que se refere o artigo anterior, com excepção dos abrangidos pelos n.os 1 e 3, podem solicitar, a todo o tempo, o regresso às categorias que lhes corresponderem nas respectivas carreiras de origem.
+1 - Os funcionários a que se refere o artigo anterior, com excepção dos abrangidos pelos n.os 2 e 3, podem solicitar, a todo o tempo, o regresso às categorias que lhes corresponderem nas respectivas carreiras de origem.
 
 2 - Para efeitos do número anterior, serão observadas as normas referentes a transferências previstas no presente decreto.
 
@@ -879,7 +897,7 @@ Os funcionários deslocados do continente para as regiões autónomas têm prefe
 
 ###### Artigo 34.º — (Transferências por conveniência de serviço)
 
-As transferências por conveniência de serviço só poderão verificar-se no caso de o comportamento dos funcionários prejudicar o bom clima de relações humanas nos serviços e a eficiência destes ou contribuir para o desprestígio da função e serão sempre precedidas de inquérito ordenado pelo director-geral, com audiência dos funcionários.
+As transferências por conveniência de serviço só poderão verificar-se no caso de o comportamento dos funcionários prejudicar o bom clima de relações humanas nos serviços, a eficiência destes ou contribuir para o desprestígio da função e serão sempre precedidas de inquérito ordenado pelo director-geral, com audiência dos funcionários.
 
 ###### Artigo 35.º — (Promoções e transferências)
 
@@ -915,7 +933,7 @@ e) Peritos tributários de 2.ª classe, de entre técnicos tributários de 1.ª 
 
 f) Peritos tributários de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 14 ou a Bom no ultimo triénio.
 
-2 - O prazo previsto nas alíneas b), d) e f) do número anterior será reduzido a um ano desde que, reunindo as restantes condições, os funcionários tenham obtido nota não inferior a 14, respectivamente, no curso de formação para a categoria de liquidador tributário no curso de promoção para a categoria de técnico tributário e no curso de promoção para a categoria de perito tributário de 2.ª classe e possuam classificação de serviço não inferior a 14 ou a Bom no último ano.
+2 - O prazo previsto nas alíneas b), d) e f) do número anterior será reduzido de um ano desde que, reunindo as restantes condições, os funcionários tenham obtido nota não inferior a 14, respectivamente, no curso de formação para a categoria de liquidador tributário no curso de promoção para a categoria de técnico tributário e no curso de promoção para a categoria de perito tributário de 2.ª classe e possuam classificação de serviço não inferior a 14 ou a Bom no último ano.
 
 ###### Artigo 37.º — (Admissão de liquidadores tributários estagiários)
 
@@ -989,7 +1007,7 @@ b) Técnicos de contencioso tributário de 1.ª classe, de entre os de 2.ª clas
 
 c) Peritos de contencioso tributário de 2.ª classe, mediante provas de selecção de entre técnicos de contencioso tributário de 1.ª classe com, pelo menos, dois anos de serviço na categoria, sendo as nomeações efectuadas segundo a graduação estabelecida com base nos n.os 1 a 3 do artigo 70.º;
 
-d) Peritos de contencioso tributário de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e aprovação no curso v indicado no mapa II anexo ao presente decreto, sendo as nomeações efectuadas segundo a graduação estabelecida nos termos dos n.os 1 a 3 do artigo 70.º.
+d) Peritos de contencioso tributário de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e aprovação no curso VI indicado no mapa II anexo ao presente decreto, sendo as nomeações efectuadas segundo a graduação estabelecida nos termos dos n.os 1 a 3 do artigo 70.º.
 
 2 - Os prazos previstos nas alíneas b) e d) do número anterior serão reduzidos de um ano desde que, reunindo as restantes condições, os funcionários tenham obtido nota não inferior a 14, respectivamente, no curso de promoção para a categoria de técnico de contencioso tributário de 2.ª classe e no curso de promoção para a categoria de perito de contencioso tributário de 2.ª classe e possuam classificação de serviço não inferior a 14 ou a Bom no último ano.
 
@@ -1101,7 +1119,7 @@ g) Arquitectos assessores, mediante provas de selecção, que têm de incluir um
 
 a) Técnicos de 2.ª classe mediante provas de selecção de entre licenciados com curso superior adequado ao exercício das funções inerentes às especialidades previstas no mapa III anexo ao presente decreto;
 
-b) Técnicos de 1.ª classe, de entre os de 1.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;
+b) Técnicos de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;
 
 c) Técnicos principais, mediante provas de selecção de entre os de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo as nomeações efectuadas segundo graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;
 
@@ -1157,7 +1175,7 @@ m) Operadores de offset de 2.ª classe, mediante concurso de provas práticas de
 
 n) Operadores de offset de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;
 
-o) Chefes de oficinas de impressão, mediante concurso de provas práticas de entre operadores de offset de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º
+o) Chefe de oficinas de impressão, mediante concurso de provas práticas de entre operadores de offset de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º
 
 ##### SUBSECÇÃO IX — Pessoal técnico de informática
 
@@ -1225,7 +1243,7 @@ Os subdirectores-gerais são nomeados por despacho do Ministro das Finanças e d
 
 A nomeação dos directores dos serviços centrais é feita nos seguintes termos:
 
-a) Os directores dos serviços centrais, incluindo o director do núcleo de informática, são nomeados por despacho do Ministro das Finanças e do Plano, mediante proposta do director-geral, de entre funcionários habilitados com o curso de Administração Tributária previsto no mapa II anexo ao presente decreto, sem prejuízo do disposto nas alíneas seguintes;
+a) Os directores dos serviços centrais, incluindo o director do Núcleo de Informática, são nomeados por despacho do Ministro das Finanças e do Plano, mediante proposta do director-geral, de entre funcionários habilitados com o curso de Administração Tributária previsto no mapa II anexo ao presente decreto, sem prejuízo do disposto nas alíneas seguintes;
 
 b) O director dos Serviços de Gestão dos Recursos Humanos e de Organização e o director do Centro de Formação e Aperfeiçoamento Profissional são nomeados por despacho do Ministro das Finanças e do Plano, mediante proposta do director-geral, de entre funcionários habilitados com o curso de Administração Tributária previsto no mapa II anexo ao presente decreto ou de entre técnicos superiores com categoria equivalente ou superior à de principal que, mediante apreciação do respectivo currículo profissional, revelem experiência e qualificação profissionais adequadas à especificação dos cargos;
 
@@ -1247,7 +1265,7 @@ Os directores de finanças são nomeados por despacho do Ministro das Finanças 
 
 ###### Artigo 60.º — (Chefia das secretarias dos tribunais das contribuições e impostos)
 
-Os cargos de chefes de secretaria dos Tribunais das Contribuições e Impostos de Lisboa e do Porto são desempenhados por subdirectores de contencioso tributário.
+Os cargos de chefe de secretaria dos Tribunais das Contribuições e Impostos de Lisboa e do Porto são desempenhados por subdirectores de contencioso tributário.
 
 ###### Artigo 61.º — (Chefia das secções dos tribunais das contribuições e impostos)
 
@@ -1401,7 +1419,7 @@ b) Propor ao Ministro das Finanças e do Plano as medidas de carácter legislati
 
 c) Definir, ouvido o parecer do Conselho de Administração Fiscal, as políticas a que deverá subordinar-se a gestão dos serviços da Direcção-Geral e promover as medidas necessárias ao seu bom funcionamento;
 
-d) Submeter à apreciação do Conselho de Administração Fiscal os programas de actividades elaborados em conformidade com as políticas definidas e orientar, coordenar e controlar a actuação dos serviços da administração tributária, determinando as medidas que se imponham ao cabal desempenho das missões dos referidos serviços;
+d) Submeter à apreciação do Conselho de Administração Fiscal os programas de actividades elaborados em conformidade com as políticas definidas e orientar, coordenar e controlar a actuação dos serviços da Administração Tributária, determinando as medidas que se imponham ao cabal desempenho das missões dos referidos serviços;
 
 e) Representar a Direcção-Geral nas relações externas;
 
@@ -1491,7 +1509,7 @@ Os funcionários que desempenham cargos correspondentes ao pessoal dirigente pod
 
 a) Dirigir as repartições dos serviços centrais de gestão fiscal, nos termos previstos no presente decreto;
 
-b) Orientar e coordenar, sob a direcção dos respectivos directores, a actividade dos serviços das direcções distritais de finanças, com excepção dos relacionados com a fiscalização tributária, e despachar todos os assuntos que caibam no âmbito das competências que lhe tenham sido delegadas;
+b) Orientar e coordenar, sob a direcção dos respectivos directores, a actividade dos serviços das direcções distritais de finanças, com excepção dos relacionados com a fiscalização tributária, e despachar todos os assuntos que caibam no âmbito das competências que lhes tenham sido delegadas;
 
 c) Desempenhar outras funções que lhes sejam cometidas pelos directores distritais de finanças.
 
@@ -1551,7 +1569,7 @@ Aos funcionários sem competência específica estabelecida no presente decreto 
 
 2 - Nos Tribunais das Contribuições e Impostos de Lisboa e Porto a prática de actos de serviço externo incumbe aos liquidadores tributários dos tribunais das contribuições e impostos, com excepção dos que exijam qualificação própria dos funcionários técnicos judiciais, que serão praticados por técnicos do contencioso tributário.
 
-#### SECÇÃO III — Das substituições
+#### SECÇÃO VI — Das substituições
 
 ###### Artigo 96.º — (Substituições do pessoal dirigente)
 
@@ -1907,7 +1925,7 @@ O primeiro provimento dos lugares de chefe de secção do quadro do pessoal admi
 
 1 - O primeiro provimento dos lugares de primeiro-oficial que se efectuar após a entrada em vigor deste decreto poderá ser feito, nos termos do artigo 155.º, de entre os segundos-oficiais pertencentes aos quadros de pessoal da Direcção-Geral que possuam o tempo mínimo previsto neste diploma para a promoção à categoria imediata e classificação de serviço não inferior a 12 ou a Suficiente no último ano.
 
-2 - O disposto no número anterior aplica-se aos segundos-oficiais, oriundos do quadro geral de adidos, que hajam pertencido aos serviços de fianças dos territórios descolonizados, integrados ou que vierem a integrar-se no quadro de supranumerários criado pela [Portaria n.º 768/77](https://diariodarepublica.pt/dr/detalhe/portaria/768-1977-280241), de 21 de Dezembro.
+2 - O disposto no número anterior aplica-se aos segundos-oficiais, oriundos do quadro geral de adidos, que hajam pertencido aos serviços de finanças dos territórios descolonizados, integrados ou que vierem a integrar-se no quadro de supranumerários criado pela [Portaria n.º 768/77](https://diariodarepublica.pt/dr/detalhe/portaria/768-1977-280241), de 21 de Dezembro.
 
 ###### Artigo 141.º — (Primeiro provimento dos lugares de terceiro-oficial, chefe de oficinas de impressão e operadores de «offset»)
 

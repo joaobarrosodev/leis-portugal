@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2006-01-01'
     amending: pt:dre:666745:por
-    amending_title: Decreto-Lei n.º 364/93; Lei n.º 44/96; Decreto-Lei n.º 150/97; Decreto-Lei n.º 229/2005
+    amending_title: Decreto-Lei n.º 364/93; Lei n.º 44/96; Decreto-Lei n.º 150/97; Decreto-Lei n.º 229/2005; Declaração
     changes:
     - Revoga Artigo 42.º
     - Revoga Artigo 189.º
@@ -121,7 +121,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:22:10Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 364/93; Lei n.º 44/96;
-    Decreto-Lei n.º 150/97; Decreto-Lei n.º 229/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1987/decreto-lei-376-87.alteracoes.json'
+    Decreto-Lei n.º 150/97; Decreto-Lei n.º 229/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1987/decreto-lei-376-87.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda r2, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -290,11 +291,13 @@ Revalorizar as carreiras do grupo de pessoal oficial de justiça estabelecendo p
 
 Uniformizar a percentagem da chamada participação em custas para todas as categorias de funcionários, com o objectivo de pôr cobro às disparidades existentes, fruto de uma divisão já ultrapassada e, portanto, fictícia, das comarcas em grupos, de acordo com o movimento respectivo.
 
-Em todos o caso, a situação remuneratório foi alterada apenas no estritamente necessário, devendo o problema ser reequacionado depois de concluído o trabalho que tem vindo a ser desenvolvido pela Comissão para o Estudo do Sistema Retribuitivo da Função Pública;
+Em todo o caso, a situação remuneratório foi alterada apenas no estritamente necessário, devendo o problema ser reequacionado depois de concluído o trabalho que tem vindo a ser desenvolvido pela Comissão para o Estudo do Sistema Retribuitivo da Função Pública;
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-219505), publicado em 1988-03-31.
 
 Obter uma maior eficácia e celeridade no preenchimento das vagas existentes nos quadros;
 
-Responder às aspirações dos oficiais de justiça criando um centro de formação permanente e aprovando novas normas sobre a apreciação do respectivo serviço e mérito que possibilitam também a recolha dos elementos indispensáveis ao conhecimento do estado, necessidades e deficiências dos serviços;
+Responder às aspirações dos oficiais de justiça criando um centro de formação permanente e aprovando novas normas sobre a apreciação do respectivo serviço e mérito que possibilitem também a recolha dos elementos indispensáveis ao conhecimento do estado, necessidades e deficiências dos serviços;
 
 Transferir para as secretarias judiciais competências anteriormente exercidas pelos magistrados, por forma a libertar estes de tarefas que não impliquem qualquer apreciação jurisdicional.
 
@@ -1080,7 +1083,7 @@ Os lugares de chefe de repartição são providos de entre chefes de secção co
 
 2 - Gozam de preferência os técnicos de justiça auxiliares e escriturários judiciais que tenham realizado o curso há mais tempo.
 
-3 - Sem prejuízo do disposto no número anterior, a nomeação efectua-se segundo a ordem de graduação nos testes públicos e, em caso de igualdade, pela maior antiguidade na categoria.
+3 - Sem prejuízo do disposto no número anterior, a nomeação efectua-se segundo a ordem de graduação nos cursos públicos e, em caso de igualdade, pela maior antiguidade na categoria.
 
 ###### Artigo 55.º — Escriturários judiciais e técnicos de justiça auxiliares
 
@@ -1770,7 +1773,7 @@ d) Resolver outros assuntos, nomeadamente de carácter urgente.
 
 1 - Os inspectores e secretários de inspecção são nomeados em comissão de serviço, mediante proposta do Conselho dos Oficiais de Justiça, respectivamente de entre secretários judiciais ou secretários técnicos e de entre escrivães de direito ou técnicos de justiça principais.
 
-2 - Os inspectores e os secretários de inspecção têm o vencimento previsto na tabela de remunerações em anexo.
+2 - Os inspectores e os secretários de inspecção têm o vencimento previsto na tabela de remunerações em anexo, sem prejuízo do disposto no artigo 83.º.
 
 3 - Os lugares de origem dos funcionários nomeados para os serviços de inspecção do Conselho dos Oficiais de Justiça são declarados vagos pelo director-geral dos Serviços Judiciários, ponderada a conveniência dos serviços.
 
@@ -2228,7 +2231,7 @@ Os cursos são regulamentados por despacho do Ministro da Justiça, com observâ
 
 1 - Nos casos de grande acumulação de serviço, previsão de vacatura ou impedimento de titulares por mais de três meses, falta de concorrentes ou outros motivos justificativos, para o desempenho das funções atribuídas a escriturário judicial ou técnico de justiça auxiliar podem ser admitidos, a título eventual, indivíduos que tenham sido aprovados nos testes públicos a que se refere o n.º 1 do artigo 61.º, mediante proposta do secretário judicial, do secretário técnico ou de quem os substituir dirigida à Direcção-Geral dos Serviços Judiciários.
 
-2 - Na admissão de eventuais observa-se o disposto nos n.os 3 e 4 do artigo 55.º
+2 - Na admissão de eventuais observa-se o disposto no n.º 3 do artigo 55.º
 
 3 - Nos casos de grande acumulação de serviço, a admissão pode fazer-se por períodos prorrogáveis de seis meses e cessa com a normalização do serviço.
 
@@ -2382,7 +2385,7 @@ Aos oficiais de justiça com dez anos de serviço que tenham obtido classificaç
 
 ###### Artigo 206.º — Encargos
 
-1 - Os encargos com as remunerações do pessoal a que se referem a alínea b) do artigo 29.º e o n.º 2 do artigo 117.º são suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
+1 - Os encargos com as remunerações do pessoal a que se referem a alínea b) do artigo 29.º, a alínea a) do artigo 30.º e n.º 2 do artigo 117.º são suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.
 
 2 - Os encargos com as remunerações do restante pessoal são suportados pelo Orçamento do Estado.
 

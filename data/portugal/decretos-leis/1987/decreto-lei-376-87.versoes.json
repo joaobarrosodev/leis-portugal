@@ -289,6 +289,12 @@
      "title": "Decreto-Lei n.º 229/2005",
      "published": "2005-12-29",
      "dre_path": "/dr/detalhe/decreto-lei/229-2005-469069"
+    },
+    {
+     "id": "pt:dre:219505:por",
+     "title": "Declaração",
+     "published": "1988-03-31",
+     "dre_path": "/dr/detalhe/declaracao/1988-219505"
     }
    ],
    "changes": [
@@ -358,10 +364,15 @@
     "Altera Artigo 68.º",
     "Altera Artigo 71.º",
     "Adita Artigo 182.º-A",
-    "Altera Artigo SECÇÃO IV — Disponibilidade e licença ilimitada"
+    "Altera Artigo SECÇÃO IV — Disponibilidade e licença ilimitada",
+    "Retifica texto",
+    "Retifica Artigo 54",
+    "Retifica Artigo 117",
+    "Retifica Artigo 183",
+    "Retifica Artigo 206"
    ],
    "fragments": [
-    "5f054c838f5750f3",
+    "201f364d130b2ddc",
     "969c42665929e021",
     "e9fe672ddde1d8b6",
     "3c8edd626ae5dcef",
@@ -435,7 +446,7 @@
     "44c1c7d87959b634",
     "dc8a6fe4fb445685",
     "4652c52e7268ef93",
-    "cb845cfc8de51089",
+    "8ad71e8deb65045d",
     "5a6e6f8bc8f21dc7",
     "3209f692e4566eec",
     "9134b90e8d6525df",
@@ -510,7 +521,7 @@
     "f4e14beaa5c8a24b",
     "dce08f1ffb49d29f",
     "d6510cc00059485b",
-    "d7ebdb9fb8355e68",
+    "8c16749b16baa630",
     "cd58eafd90b9cfee",
     "67a2e6b000e9b776",
     "dbdb3a19467345eb",
@@ -589,7 +600,7 @@
     "a4e2d51d6b0c5893",
     "8c10a9d8161f039a",
     "51769c018d2b9892",
-    "f81c6a14630e278b",
+    "982a8dec8655a442",
     "bc36d95c57b0e1f1",
     "58144cfe29b03658",
     "416e0633a653dfd4",
@@ -612,7 +623,7 @@
     "98207254f417ca76",
     "44091d422c0051a0",
     "38faa12c173c45e3",
-    "c364ec42deed09c4",
+    "5d4fe705aba5bb44",
     "7af8a7d54b25509d",
     "f13ac9939a846e14"
    ]
@@ -2595,6 +2606,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 208.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1988, com excepção dos artigos 39.º a 44.º, 46.º, 55.º, 183.º e 186.º a 192.º, que entram em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 29 de Outubro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.\n\nPromulgado em 3 de Dezembro de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 7 de Dezembro de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMAPA I\n\na) Compete ao secretário de tribunal superior:\n\nSuperintender nos serviços da secretaria;\n\nDar posse aos funcionários de justiça do tribunal;\n\nProferir decisões sobre matéria de custas, nomeadamente sobre reclamações de contas;\n\nSuperintender nos serviços da tesouraria, do cofre do tribunal e elaboração do orçamento da secretaria;\n\nProferir nos processos despachos de mero expediente;\n\nCorresponder-se com entidades públicas e privadas sobre assuntos referentes ao funcionamento do tribunal;\n\nAssinar as tabelas das causas com dia designado para julgamento;\n\nAssistir às sessões do tribunal e elaborar as respectivas actas;\n\nAssegurar o expediente do serviço social do Ministério da Justiça na qualidade de seu delegado;\n\nSubmeter a despacho do presidente os assuntos da sua competência;\n\nApresentar os processos e papéis à distribuição;\n\nProvidenciar pela conservação das instalações e equipamentos do tribunal;\n\nDesempenhar as disposições conferidas por lei ou por determinação superior.\n\nb) Compete ao secretário judicial:\n\nSuperintender nos serviços da secretaria;\n\nDar posse aos funcionários de justiça do tribunal;\n\nProferir todas as decisões sobre matéria de custas, nomeadamente sobre reclamações de contas;\n\nSuperintender nos serviços de tesouraria, cofre do tribunal e elaboração do orçamento da secretaria\n\nProferir nos processos os despachos de mero expediente;\n\nCorresponder-se com as entidades públicas e privadas sobre assuntos referentes ao funcionamento do tribunal e ao normal andamento dos processos;\n\nDesempenhar as funções da alínea c) sempre que a secção central não seja dotada de escrivão de direito;\n\nNos tribunais superiores, a chefia da secção de expediente e contabilidade ou secção central dos serviços judiciais, com as inerentes competências;\n\nDistribuir o serviço externo pelos oficiais de justiça;\n\nProvidenciar pela conservação das instalações e equipamentos do tribunal;\n\nDesempenhar as demais funções conferidas por lei ou por determinação superior.\n\nc) Ao escrivão de direito, provido na secção central dos serviços judiciais da secretaria, compete:\n\nCoadjuvar o secretário judicial nos tribunais superiores e chefiar a secção nos tribunais de 1.ª instância;\n\nPreparar os processos e papéis para distribuição;\n\nContar os processos e papéis avulsos e, nos juízos criminais e correccionais, efectuar as liquidações finais;\n\nOrganizar os mapas estatísticos;\n\nEscriturar a receita e despesa do Cofre;\n\nProcessar as despesas da secretaria;\n\nElaborar os termos de posse;\n\nOrientar, coordenar e supervisionar as actividades desenvolvidas na secção, em conformidade com as respectivas atribuições;\n\nDesempenhar as demais funções conferidas por lei ou por determinação superior.\n\nd) Ao escrivão de direito, como chefe de secção de processos dos serviços judiciais da secretaria, compete:\n\nOrientar, coordenar e supervisionar as actividades desenvolvidas na secção em conformidade com as respectivas atribuições;\n\nDesempenhar as demais funções conferidas por lei ou determinação superior.\n\ne) Compete aos escrivães-adjuntos:\n\nSob a orientação dos escrivães de direito, assegurar o desempenho das funções atribuídas à respectiva secção.\n\nDesempenhar na falta de escriturários judiciais as funções atribuídas a estes.\n\nf) Compete aos escriturários judiciais:\n\nPreparar a expedição de correspondência, proceder à respectiva entrega e recebimento e assegurar o serviço externo de citações e notificações;\n\nPrestar assistência às audiências e diligências em que intervenham magistrados;\n\nExecutar o serviço que lhe for distribuído pelo funcionário que chefiar a respectiva secção.\n\ng) Compete ao secretário técnico dirigir e superintender as secretarias privativas do Ministério Público, cabendo-lhe em especial:\n\nA elaboração do orçamento da secretaria;\n\nA responsabilidade pela gestão administrativa e orçamental da secretaria;\n\nApresentar os processos, denúncias e papéis à distribuição;\n\nCorresponder-se com as repartições públicas e autoridades sobre assuntos da sua competência;\n\nSubmeter o expediente a despacho do Ministério Público;\n\nSubscrever os termos de posse de magistrados e funcionários;\n\nAssegurar o expediente do serviço social do Ministério da Justiça, na qualidade de seu delegado;\n\nPreparar, tratar e organizar os elementos e dados necessários à elaboração do relatório anual;\n\nComunicar as faltas de magistrados e funcionários;\n\nDesempenhar as demais funções conferidas por lei ou determinação superior.\n\nh) Ao técnico de justiça principal compete dirigir a secção de processos dos serviços do Ministério Público, cabendo-lhe, em especial:\n\nDistribuir o serviço pelos funcionários;\n\nDirigir e coordenar o serviço, providenciando pelo bom desempenho das funções atribuídas à secção, assumindo-as pessoalmente quando tal se justifique;\n\nControlar a assiduidade dos funcionários e comunicar as faltas dadas;\n\nApoiar os funcionários, nomeadamente em acções de formação e aperfeiçoamento profissional;\n\nAnalisar e encaminhar toda a correspondência recebida e controlar a sua expedição;\n\nCoordenar e controlar a movimentação dos processos;\n\nDesempenhar as funções mencionadas na alínea g) nas secretarias privativas do Ministério Público onde não haja secretário técnico;\n\nDesempenhar as funções mencionadas na alínea i);\n\nDesempenhar as demais funções conferidas por lei ou determinação superior.\n\ni) Compete ao técnico de justiça-adjunto:\n\nNo âmbito de inquéritos, desempenhar as funções que competem aos órgãos de polícia criminal;\n\nRegistar e movimentar os processos, juntando e conferindo os documentos e elementos deles constantes, anotando eventuais falhas ou anomalias, e providenciar pela sua regularização;\n\nElaborar as certidões e outros documentos sobre o processo que lhe sejam solicitados;\n\nControlar a execução dos prazos processuais a cumprir;\n\nAssegurar a comunicação entre os vários departamentos e entre estes e o público através da elaboração, registo, classificação e arquivo do expediente;\n\nAtender o público, prestando-lhe as informações a que por lei possa ter acesso;\n\nRemeter ao arquivo os processos, livros e demais papéis findos, após a correcção;\n\nElaborar documentos estatísticos;\n\nProceder às notificações que o funcionário que chefiar a secção de processos entenda não dever confiar aos técnicos de justiça auxiliares;\n\nDesempenhar na falta ou impedimento do técnico de justiça auxiliar as funções a este atribuídas;\n\nDesempenhar as demais funções conferidas por lei ou determinação superior.\n\nj) Compete ao técnico de justiça auxiliar:\n\nEfectuar notificações e assegurar o serviço externo;\n\nPreparar a expedição de correspondência e proceder à respectiva entrega e recebimento;\n\nRegistar e movimentar os processos;\n\nDesempenhar as demais funções conferidas por lei ou determinação superior.\n\nl) Compete ao oficial porteiro, sob a superintendência dos secretários judiciais:\n\nZelar pela segurança e conservação do edifício;\n\nExecutar as diversas tarefas relativas ao serviço de portaria;\n\nOrientar, fiscalizando e colaborando, a limpeza das instalações e pequenos serviços de reparação;\n\nDesempenhar as demais funções conferidas por lei ou determinação superior.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/28401/00020031.pdf)"
   },
+  "201f364d130b2ddc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-219505), publicado em 1988-03-31."
+   ],
+   "markdown": "de 11 de Dezembro\n\n1. Na sequência da aprovação do novo Código de Processo Penal, cuja entrada em vigor foi diferida para 1 de Janeiro de 1988, coube ao Governo a incumbência de, em tempo útil, publicar os necessários diplomas complementares, designadamente em matéria de organização judiciária, organização das secretarias judiciais e dos serviços do Ministério Público, introduzindo neste âmbito as adaptações exigidas pela entrada em vigor do novo regime processual penal.\n\n2. Aproveitando a experiência colhida durante a vigência e execução quer do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, quer do [Decreto-Lei n.º 385/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1982-375815), de 16 de Setembro, no tocante à organização das secretarias judiciais e ao estatuto do respectivo pessoal, e em face da necessidade de se proceder à alteração de parte das disposições deste último diploma e de se criar um quadro próprio de funcionários do Ministério Público visando dar resposta às novas tarefas que lhe são cometidas pelo novo Código de Processo Penal, optou-se por incluir num único diploma as matérias respeitantes à organização das secretarias judiciais e dos serviços do Ministério Público, bem como as referentes ao estatuto do respectivo pessoal.\n\n3. Procurou-se, com o presente diploma:\n\nDefinir racional e metodicamente a composição e competências das secretarias judiciais do Supremo Tribunal de Justiça, dos tribunais de relação e dos tribunais de 1.ª instância e, bem assim, no que concerne às secretarias-gerais e às secretarias privativas do Ministério Público criadas onde a natureza e o volume de serviço o justificaram;\n\nPrever a possibilidade de substituição dos diversos livros existentes nos tribunais por suportes magnéticos e informáticos adequados e, paralelamente, estabelecer a possibilidade de existência de arquivos separados para os serviços judiciais e para os serviços do Ministério Público;\n\nProceder à definição dos grupos de pessoal por que se distribuem os funcionários de justiça nos mesmos moldes do regime geral de estruturação das carreiras da função pública;\n\nConsagrar a existência no grupo de pessoal oficial de justiça de duas carreiras: a carreira judicial e a carreira do Ministério Público;\n\nRevalorizar as carreiras do grupo de pessoal oficial de justiça estabelecendo para o acesso às várias categorias a obrigatoriedade de sujeição a cursos de formação;\n\nUniformizar a percentagem da chamada participação em custas para todas as categorias de funcionários, com o objectivo de pôr cobro às disparidades existentes, fruto de uma divisão já ultrapassada e, portanto, fictícia, das comarcas em grupos, de acordo com o movimento respectivo.\n\nEm todo o caso, a situação remuneratório foi alterada apenas no estritamente necessário, devendo o problema ser reequacionado depois de concluído o trabalho que tem vindo a ser desenvolvido pela Comissão para o Estudo do Sistema Retribuitivo da Função Pública;\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-219505), publicado em 1988-03-31.\n\nObter uma maior eficácia e celeridade no preenchimento das vagas existentes nos quadros;\n\nResponder às aspirações dos oficiais de justiça criando um centro de formação permanente e aprovando novas normas sobre a apreciação do respectivo serviço e mérito que possibilitem também a recolha dos elementos indispensáveis ao conhecimento do estado, necessidades e deficiências dos serviços;\n\nTransferir para as secretarias judiciais competências anteriormente exercidas pelos magistrados, por forma a libertar estes de tarefas que não impliquem qualquer apreciação jurisdicional.\n\n4. Pretendeu-se, deste modo, e integralmente, dar resposta às referidas necessidades de viabilização da entrada em vigor do Código de Processo Penal e aprovar um conjunto de medidas que visam fornecer às secretarias judiciais e serviços do Ministério Público os meios materiais e humanos adequados ao aumento da sua eficácia.Assim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
   "39c60df1ed09dcd2": {
    "fragment_id": null,
    "type": null,
@@ -2884,6 +2905,14 @@
     "Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22."
    ],
    "markdown": "###### Artigo 50.º — Secretários judiciais e secretários técnicos\n\n1 - O acesso às categorias de secretário judicial ou secretário técnico faz-se por promoção de escrivães de direito e técnicos de justiça principais declarados aptos em curso comum, a realizar pelo Centro de Formação Permanente de Oficiais de Justiça, ou, ainda, de oficiais de justiça licenciados em Direito, Economia ou Gestão, com classificação de serviço não inferior a Bom com distinção, que tenham frequentado com aproveitamento o aludido curso.\n\n2 - Gozam de preferência no provimento os escrivães de direito, técnicos de justiça principais ou licenciados em Direito que tenham realizado o curso há mais tempo.\n\n3 - Sem prejuízo do disposto no número anterior, a nomeação efectua-se segundo a ordem de graduação no curso e, em caso de igualdade, pela maior antiguidade na categoria.\n\n4 - A percentagem dos licenciados referidos no n.º 1 a admitir a cada curso é fixada nos termos previstos no n.º 1 do artigo 181.º\n\n> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22."
+  },
+  "8ad71e8deb65045d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Técnicos de justiça-adjuntos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Técnicos de justiça-adjuntos\n\n1 - O acesso à categoria de técnico de justiça-adjunto faz-se por promoção de técnicos de justiça auxiliares e escriturários judiciais declarados aptos em curso a realizar pelo centro de formação permanente de oficias de justiça.\n\n2 - Gozam de preferência os técnicos de justiça auxiliares e escriturários judiciais que tenham realizado o curso há mais tempo.\n\n3 - Sem prejuízo do disposto no número anterior, a nomeação efectua-se segundo a ordem de graduação nos cursos públicos e, em caso de igualdade, pela maior antiguidade na categoria."
   },
   "5a6e6f8bc8f21dc7": {
    "fragment_id": null,
@@ -3203,6 +3232,14 @@
    ],
    "markdown": "###### Artigo 109.º — Competência do presidente\n\nCompete ao presidente do Conselho dos Oficiais de Justiça:\n\na) Representar o Conselho dos Oficiais de Justiça, bem como exercer as funções que lhe forem delegadas pelo Conselho;\n\nb) Dar posse ao vice-presidente, ao secretário e aos inspectores e respectivos secretários;\n\nc) Dirigir e coordenar os serviços de inspecção;\n\nd) Elaborar, mediante proposta do secretário, ordens de execução permanente;\n\ne) Executar as demais funções conferidas por lei.\n\n> Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22."
   },
+  "8c16749b16baa630": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 117.º — Inspectores e secretários de inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 117.º — Inspectores e secretários de inspecções\n\n1 - Os inspectores e secretários de inspecção são nomeados em comissão de serviço, mediante proposta do Conselho dos Oficiais de Justiça, respectivamente de entre secretários judiciais ou secretários técnicos e de entre escrivães de direito ou técnicos de justiça principais.\n\n2 - Os inspectores e os secretários de inspecção têm o vencimento previsto na tabela de remunerações em anexo, sem prejuízo do disposto no artigo 83.º.\n\n3 - Os lugares de origem dos funcionários nomeados para os serviços de inspecção do Conselho dos Oficiais de Justiça são declarados vagos pelo director-geral dos Serviços Judiciários, ponderada a conveniência dos serviços."
+  },
   "af0edff3110ee9bc": {
    "fragment_id": null,
    "type": null,
@@ -3243,6 +3280,14 @@
    ],
    "markdown": "###### Artigo 182.º-A\n\n(Revogado.)\n\n> Aditado pelo/a [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), publicado em 2005-12-29."
   },
+  "982a8dec8655a442": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 183.º — Eventuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 183.º — Eventuais\n\n1 - Nos casos de grande acumulação de serviço, previsão de vacatura ou impedimento de titulares por mais de três meses, falta de concorrentes ou outros motivos justificativos, para o desempenho das funções atribuídas a escriturário judicial ou técnico de justiça auxiliar podem ser admitidos, a título eventual, indivíduos que tenham sido aprovados nos testes públicos a que se refere o n.º 1 do artigo 61.º, mediante proposta do secretário judicial, do secretário técnico ou de quem os substituir dirigida à Direcção-Geral dos Serviços Judiciários.\n\n2 - Na admissão de eventuais observa-se o disposto no n.º 3 do artigo 55.º\n\n3 - Nos casos de grande acumulação de serviço, a admissão pode fazer-se por períodos prorrogáveis de seis meses e cessa com a normalização do serviço.\n\n4 - Nos restantes casos previstos no n.º 1, a admissão faz-se sem prazo certo e cessa o termo da situação específica que o determinou, podendo ainda ser feita cessar a todo o tempo e sem obrigação de indemnizar pela Direcção-Geral dos Serviços Judiciários.\n\n5 - Os eventuais auferem o vencimento de categoria estabelecido para escriturários judiciais provisórios.\n\n6 - Os eventuais estão sujeitos aos deveres e direitos gerais e incompatibilidades dos funcionários de justiça, sendo-lhes contado o tempo de serviço prestado, quando devidamente regularizado, nos casos em que não decorra um período de tempo superior a 60 dias, reportado à data do despacho de nomeação, entre a cessação da eventualidade e aquela data.\n\n7 - À admissão de eventuais, ponderada a conveniência dos serviços, pode ser aplicado o disposto no artigo 41.º\n\n8 - À admissão de eventuais é igualmente aplicável o regime previsto na alínea i) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio."
+  },
   "64473692802aa80b": {
    "fragment_id": null,
    "type": null,
@@ -3262,6 +3307,14 @@
     "Revogado pelo/a Artigo 71.º-A do/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22."
    ],
    "markdown": "###### Artigo 204.º — Inscrição na Câmara dos Solicitadores\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 71.º-A do/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22."
+  },
+  "5d4fe705aba5bb44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 206.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 206.º — Encargos\n\n1 - Os encargos com as remunerações do pessoal a que se referem a alínea b) do artigo 29.º, a alínea a) do artigo 30.º e n.º 2 do artigo 117.º são suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.\n\n2 - Os encargos com as remunerações do restante pessoal são suportados pelo Orçamento do Estado.\n\n3 - A participação em custas, a participação emolumentar, o subsídio de fixação e as despesas de deslocação previstos nos artigos 83.º e 84.º são suportados pelo Cofre dos Conservadores, Notários e Funcionários de Justiça.\n\n4 - O Governo tomará as providências orçamentais necessárias à execução do presente diploma."
   }
  }
 }
