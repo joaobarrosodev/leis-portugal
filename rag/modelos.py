@@ -21,7 +21,16 @@ CARACTERES = 1200
 
 
 class Reranker:
-    def __init__(self, tipo: str = "cruzado", *, maximo: int = 30, fios: int | None = None):
+    """Reordena os candidatos com um modelo multilingue.
+
+    O `cruzado` é int8 com quantização dinâmica: a escala depende do lote, por isso a nota de um
+    texto muda com os outros textos do mesmo lote (até 0,6 medido a 19/11/2026; `rag/README.md`,
+    «Candidatos ao reranker e pesquisa semântica»). Com `estavel=True` cada texto é pontuado
+    sozinho: a mesma pergunta e o mesmo texto dão sempre a mesma nota, que se pode guardar em
+    `notas` e reutilizar entre medições. Por omissão fica o lote de 16, o da aplicação 0.1.1.
+    """
+
+    def __init__(self, tipo: str = "cruzado", *, maximo: int = 30, fios: int | None = None, estavel: bool = False):
         os.environ.setdefault("HF_HOME", str(PASTA_INDICE / "hf"))
         os.environ.setdefault("HF_HUB_DISABLE_XET", "1")
         pasta = str(PASTA_INDICE / "modelos")
@@ -29,6 +38,8 @@ class Reranker:
         local = any((PASTA_INDICE / "modelos").glob("models--*"))
         self.tipo = tipo
         self.maximo = maximo
+        self.estavel = estavel
+        self.notas: dict[tuple[str, str], float] = {}  # só com `estavel`: (pergunta, texto) → nota
         if tipo == "cruzado":
             from fastembed.rerank.cross_encoder import TextCrossEncoder
 
@@ -45,7 +56,14 @@ class Reranker:
         if not textos:
             return []
         if self.tipo == "cruzado":
-            return [float(s) for s in self.modelo.rerank(pergunta, textos, batch_size=16)]
+            if not self.estavel:
+                return [float(s) for s in self.modelo.rerank(pergunta, textos, batch_size=16)]
+            falta = [t for t in dict.fromkeys(textos) if (pergunta, t) not in self.notas]
+            if falta:
+                # batch_size=1: cada texto num lote só dele, e a nota não depende dos vizinhos.
+                novas = [float(s) for s in self.modelo.rerank(pergunta, falta, batch_size=1)]
+                self.notas.update(((pergunta, t), n) for t, n in zip(falta, novas, strict=True))
+            return [self.notas[(pergunta, t)] for t in textos]
         import numpy as np
 
         vetores = np.array(list(self.modelo.embed([pergunta, *textos], batch_size=32)))
