@@ -166,7 +166,10 @@ def artigos_do_ambito(indice: Path, blocos: tuple[Bloco, ...] = AMBITO) -> list[
                     continue
                 saida.append({"documento": b.documento, "chave": chave, "titulo": titulo[0] if titulo else "", "parte": parte,
                               "epigrafe": epigrafe, "texto": texto, "sha": _sha(texto)})
-    return saida
+    # O Código Penal, o de Processo Penal e o do Registo Predial estão no articulado do decreto que os aprova
+    # (parte ""): os artigos do decreto, sem epígrafe, têm a mesma chave que os do código. Ficam os do código.
+    com_epigrafe = {(a["documento"], a["chave"]) for a in saida if a["epigrafe"]}
+    return [a for a in saida if a["epigrafe"] or (a["documento"], a["chave"]) not in com_epigrafe]
 
 
 def exportar(indice: Path, pasta: Path, tamanho: int = 35, *, so_sem_perguntas: bool = False, destino: Path = PASTA) -> int:

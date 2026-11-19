@@ -40,10 +40,35 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-05-16'
+version_history:
+  file: decreto-lei-346-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-12-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-05-16'
+    amending: pt:dre:292914:por
+    amending_title: Decreto-Lei n.º 136-A/98
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/346/1997/12/05/p/dre/pt/html
@@ -69,7 +94,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:54:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 136-A/98. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-346-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,11 +182,21 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 2.º — Objecto
 
-Sem prejuízo do disposto no artigo anterior, para os casos em que os proprietários pretendam, por iniciativa própria, proceder à reconstrução das casas que constituem a sua habitação própria e permanente ou que estejam arrendadas é criada uma linha de apoio financeiro excepcional para reconstrução de habitações situadas no continente e na Região Autónoma dos Açores.
+1 - Sem prejuízo do disposto no n.º 2 do artigo anterior e para os casos em que os proprietários pretendam por iniciativa própria proceder à reconstrução das casas que constituem a sua habitação própria e permanente ou que estejam arrendadas, é criado um apoio financeiro especial para reconstrução de habitações que se encontrem nas condições indicadas no n.º 1 do mesmo artigo.
+
+2 - O apoio financeiro aos proprietários das habitações pode, porém, destinar-se a financiar a construção de uma habitação em local diferente do da habitação sinistrada ou a aquisição de uma nova habitação, sempre que, por razões comprovadas de natureza ambiental ou urbanística, designadamente, quando se trate de imóveis situados em leitos de cheia, não seja adequado reconstruir habitações naquele local.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
 
 ###### Artigo 3.º — Levantamento das situações
 
-Compete aos municípios proceder ao levantamento rigoroso das situações referidas no número anterior existentes na respectiva área de jurisdição, devendo para o efeito apresentar ao Governo Regional dos Açores ou ao respectivo governo civil, conforme o caso, uma listagem das situações abrangidas pelo presente diploma, da qual constem a composição, grau de parentesco, rendimentos e património do agregado familiar, a localização da habitação sinistrada, o título de ocupação, o valor da renda, a descrição dos danos sofridos, a determinação da área a reconstruir e uma estimativa dos respectivos custos.
+1 - Compete aos municípios proceder ao levantamento rigoroso das situações referidas no número anterior existentes na respectiva área de jurisdição, devendo para o efeito apresentar ao Governo Regional dos Açores ou ao respectivo governo civil, conforme o caso, uma listagem das situações abrangidas pelo presente diploma, da qual constem a composição, grau de parentesco, rendimentos e património do agregado familiar, a localização da habitação sinistrada, o título de ocupação, o valor da renda, a descrição dos danos sofridos, a determinação da área a reconstruir e uma estimativa dos respectivos custos.
+
+2 - No caso do n.º 2 do artigo 2.º, deve ainda ser apresentada declaração do município sobre as razões de natureza ambiental ou urbanística invocadas, bem como os elementos relativos à localização do terreno, área bruta da habitação e estimativa do custo total das obras, tratando-se de construção de habitação ou os elementos identificativos e o preço da habitação a adquirir, tratando-se de aquisição.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
+
+> Alterado pelo/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
 
 ###### Artigo 4.º — Organização dos processos
 
@@ -172,55 +208,85 @@ Ficam excluídos da aplicação do previsto no presente diploma os danos das hab
 
 ###### Artigo 6.º — Comparticipação
 
-1 - Cabe ao INH, mediante contrato a celebrar com o proprietário da habitação, comparticipar a fundo perdido na percentagem de 50% do valor resultante do produto da área bruta a reconstruir da habitação, pelo custo de construção por metro quadrado, para o efeito fixado em 64000$00.
+1 - Cabe ao INH, mediante contrato a celebrar com o proprietário da habitação, comparticipar a fundo perdido na percentagem de 50% do custo de construção ou reconstrução da habitação fixado nos termos do n.º 1 do artigo 9.º
 
 2 - No caso de aquisição de fogo, a comparticipação a fundo perdido é de 40% do preço máximo do fogo, por tipologia, fixado nos termos da portaria a que se refere o n.º 2 do artigo 9.º
 
-3 - Nos casos de agregados familiares com reduzidos recursos económicos e patrimoniais devidamente comprovados, pode o Ministro do Equipamento, do Planeamento e da Administração do Território autorizar que o montante de comparticipação concedida pelo INH a fundo perdido seja aumentado até à cobertura integral dos custos de realojamento, por forma que os recursos do agregado familiar possam suportar o acesso ao referido regime de crédito.
+3 - Nos casos de agregados familiares com reduzidos recursos económicos e patrimoniais, o montante da comparticipação concedida pelo INH pode ser aumentado de modo que os recursos do agregado familiar suportem o acesso ao regime de crédito referido no artigo seguinte, podendo, nos casos de maior carência económica, ser assegurada dessa forma a cobertura integral dos custos de realojamento.
+
+4 - Para efeito do disposto no número anterior, os montantes a atribuir a título de comparticipação são estabelecidos em termos a definir por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
 
 ###### Artigo 7.º — Empréstimo
 
-1 - O INH pode assegurar, directamente ou através de uma instituição de crédito, o financiamento da parte do custo das obras ou da aquisição do fogo que não é comparticipada, nas condições do [Decreto-Lei n.º 110/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1985-325566), de 17 de Abril, com as devidas adaptações.
+1 - O INH ou uma instituição de crédito pode assegurar o financiamento da parte do custo das obras de reconstrução, de construção ou de aquisição do fogo que não é comparticipada, nos seguintes termos:
+
+a) Aplicação do regime estabelecido no [Decreto-Lei n.º 110/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1985-325566), de 17 de Abril, e legislação complementar, quando o realojamento for efectuado ao abrigo do n.º 2 do artigo 1.º;
+
+b) Nos casos previstos nos artigos 2.º e 8.º do presente diploma, as condições dos empréstimos são as definidas na portaria a que se refere o n.º 4 do artigo anterior.
 
 2 - Os empréstimos referidos no número anterior são garantidos por hipoteca dos terrenos e das edificações ou outra garantia que a instituição financiadora entenda por adequada
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
+
+> Alterado pelo/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
+
 ###### Artigo 8.º — Fogos arrendados
 
-No caso de fogos arrendados que o proprietário não pretenda reconstruir ou no caso em que para tal efeito não recorra ao regime de apoio financeiro previsto no presente diploma, pode o arrendatário recorrer ao mesmo para aquisição ou construção de um fogo para habitação própria e permanente.
+1 - No caso de habitações arrendadas cujos proprietários não pretendam proceder à respectiva reconstrução ou aceder ao apoio financeiro previsto nos artigos anteriores, os arrendatários têm acesso à concessão de apoio financeiro para aquisição ou construção de habitação própria permanente.
+
+2 - Têm igualmente acesso à concessão de apoio financeiro para aquisição ou construção de habitação própria permanente, no caso indicado no número anterior, os agregados familiares que ocupavam habitações sinistradas a outro título, designadamente de usufruto ou comodato, e que comprovadamente as utilizavam como sua habitação permanente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
 
 ###### Artigo 9.º — Custos máximos
 
-1 - Para efeitos do disposto no presente diploma, o custo de construção por metro quadrado de área bruta do fogo é calculado nos termos da [Portaria n.º 500/97](https://diariodarepublica.pt/dr/detalhe/portaria/500-1997-147421), de 21 de Julho.
+1 - O custo máximo das obras de construção ou reconstrução a financiar ao abrigo do presente diploma é o resultante do produto da área bruta a construir ou a reconstruir por:
+
+a) O custo de construção por metro quadrado de área bruta estabelecido nos termos da [Portaria n.º 500/97](https://diariodarepublica.pt/dr/detalhe/portaria/500-1997-147421), de 21 de Julho, no caso de construção;
+
+b) O montante de 64000$00 reportado a 1 de Abril de 1998 e actualizável nos termos do n.º 10.º da portaria referida na alínea anterior, no caso de reconstrução.
 
 2 - O preço máximo de aquisição dos fogos é o fixado nos termos da portaria anual publicada ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 197/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1995-484576), de 29 de Julho.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
+
+> Alterado pelo/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
 
 ###### Artigo 10.º — Áreas e tipologias
 
 1 - As habitações a reconstruir pelos respectivos proprietários deverão manter as áreas e tipologias correspondentes às que anteriormente possuíam e observar as disposições legais aplicáveis.
 
-2 - Nos casos referidos no artigo 8.º, as áreas e tipologias das habitações a adquirir ou a construir devem ser as adequadas à composição do agregado familiar que residia na habitação arrendada.
+2 - Nos casos referidos no n.º 2 do artigo 2.º e no artigo 8.º, as áreas e tipologias das habitações a adquirir ou a construir devem ser as adequadas à composição do agregado familiar que residia na habitação sinistrada.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
 
 ###### Artigo 11.º — Destino das habitações
 
-1 - Os fogos reconstruídos ou a adquirir ao abrigo do presente diploma deverão manter-se afectos, consoante os casos, a:
+1 - Os fogos reconstruídos, construídos ou adquiridos pelos proprietários ao abrigo do presente diploma deverão manter-se afectos, consoante os casos, a:
 
 a) Habitação própria permanente do proprietário e do respectivo agregado familiar;
 
-b) Arrendamento para habitação permanente do inquilino já existente, não podendo as obras de reconstrução dar lugar a qualquer aumento da renda anteriormente praticada.
+b) Arrendamento para habitação permanente do agregado familiar residente na habitação sinistrada, sem que haja lugar a qualquer aumento da renda anteriormente praticada.
 
-2 - Os fogos a adquirir ou a construir ao abrigo do previsto no artigo 8.º destinam-se a habitação própria permanente do agregado familiar que residia na habitação arrendada.
+2 - Os fogos a adquirir ou a construir ao abrigo do previsto no artigo 8.º destinam-se a habitação própria e permanente do respectivo agregado familiar.
 
 3 - Se o fogo deixar de constituir habitação própria e permanente do seu proprietário ou dos seus descendentes antes de decorrido o prazo de inalienabilidade fixado no n.º 1 do artigo 12.º deste diploma, deve o mesmo fogo ser arrendado, não podendo no entanto o montante da renda exceder o valor correspondente à renda condicionada.
 
 4 - A utilização dos fogos para outro fim que não o de habitação própria e permanente do proprietário ou do arrendatário e a sua desocupação por período superior a seis meses implicam o reembolso da comparticipação a fundo perdido concedida do empréstimo e das respectivas bonificações, salvo se entretanto tiver decorrido o prazo de inalienabilidade fixado no n.º 1 do artigo 12.º
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
+
 ###### Artigo 12.º — Ónus de inalienabilidade
 
-1 - As habitações reconstruídas ou adquiridas com financiamentos concedidos ao abrigo do presente diploma não podem ser alienadas antes de decorrido o prazo de 25 anos após a conclusão das obras ou da escritura de aquisição, salvo em caso de execução de dívidas de que os mesmos constituam garantia real e sem prejuízo do disposto no número seguinte.
+1 - As habitações reconstruídas, construídas ou adquiridas com financiamentos concedidos ao abrigo do presente diploma não podem ser alienadas antes de decorrido o prazo de 25 anos após a conclusão das obras ou da escritura de aquisição, salvo em caso de execução de dívidas de que os mesmos constituam garantia real e sem prejuízo do disposto no número seguinte.
 
 2 - Se o proprietário da habitação pretender alienar a habitação durante o prazo referido no número anterior, deve requerer ao INH o levantamento do ónus de inalienabilidade mediante o reembolso dos valores da comparticipação, do empréstimo em dívida e das bonificações concedidas.
 
 3 - A inalienabilidade prevista no número anterior está sujeita a registo predial, de cuja inscrição deve constar o valor da comparticipação a fundo perdido.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-1998-292914), publicado em 1998-05-15.
 
 ###### Artigo 13.º — Aplicação
 
