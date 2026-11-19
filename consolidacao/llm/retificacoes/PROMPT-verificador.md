@@ -41,3 +41,12 @@ Aqui as retificações republicam um mapa ou uma planta em imagem, publicam um a
 - `nota_do_respondedor` é o que o respondedor diz para justificar a mudança. Não é prova: confirma-a com o texto da retificação.
 
 Saída: `verificacao-saida-im.jsonl`.
+
+## Ronda r4 (`verificacao-entrada-r4.jsonl`): trocas que tinham ficado de fora
+
+São trocas que completam retificações já aplicadas. Cada uma traz `prova_do_respondedor`: um trecho do DR original (por OCR do PDF) ou do alterador posterior, com a fonte. Duas regras a mais:
+
+- Quando o «onde se lê» difere do parágrafo (outra alínea, uma palavra a mais), a mudança é `certo` só se: a prova mostra que o parágrafo é o que o DR publicou; o sítio é único (no número indicado só há um trecho que a instrução pode visar); e o depois tem exatamente o «deve ler-se». Senão, `duvida`.
+- Um parágrafo com `reescrito_depois` pode ser o que a retificação corrige se o alterador só o renumerou sem lhe mudar o texto («3 - (Actual n.º 5.)»), e a prova o mostra.
+
+Saída: `verificacao-saida-r4.jsonl`.

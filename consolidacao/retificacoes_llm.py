@@ -145,10 +145,11 @@ def entrada() -> None:
     print(f"{len(itens)} diplomas, {sum(len(x['retificacoes']) for x in itens)} retificações, {len(lotes)} lotes em {LLM.relative_to(RAIZ)}")
 
 
-def respostas() -> dict[tuple[str, str], dict]:
-    """(id do diploma, id da retificação) → resposta, de todos os `resposta-NN.jsonl`."""
+def respostas(ronda: str | None = None) -> dict[tuple[str, str], dict]:
+    """(id do diploma, id da retificação) → resposta, de todos os `resposta-NN.jsonl` (a mais
+    recente vale), ou só dos `resposta-<ronda>-NN.jsonl` de uma ronda."""
     resultado = {}
-    for f in sorted(LLM.glob("resposta-*.jsonl")):
+    for f in sorted(LLM.glob(f"resposta-{ronda}-*.jsonl" if ronda else "resposta-*.jsonl")):
         for linha in f.read_text(encoding="utf-8").splitlines():
             if not linha.strip():
                 continue
@@ -188,7 +189,7 @@ def trocar(linhas: list[str], trocas: list[dict]) -> list[dict]:
             raise Recusa(f"a linha L{i} passava a título")
         antes = linhas[i]
         linhas[i] = (novo if cru else rt.repor_ligacoes(antes, novo)) if novo else ""
-        feitas.append({"linha": i, "artigo": rt._artigo_de(linhas, i), "antes": antes, "depois": linhas[i], "com_ligacoes": cru, "nota": t.get("nota")})
+        feitas.append({"linha": i, "artigo": rt._artigo_de(linhas, i), "antes": antes, "depois": linhas[i], "com_ligacoes": cru, "nota": t.get("nota"), "prova": t.get("prova")})
     return sorted(feitas, key=lambda f: f["linha"])
 
 
@@ -216,7 +217,7 @@ def pares_da_ronda(ronda: str) -> set[tuple[str, str]]:
 def verificacao(ronda: str | None = None) -> None:
     itens = []
     da_ronda = pares_da_ronda(ronda) if ronda else None
-    for (diploma, retificacao), r in sorted(respostas().items()):
+    for (diploma, retificacao), r in sorted(respostas(ronda).items()):
         if not r.get("trocas") or (da_ronda is not None and (diploma, retificacao) not in da_ronda):
             continue
         s = next(x for x in selecao() if x["id"] == diploma and x["retificacao"] == retificacao)
@@ -237,7 +238,8 @@ def verificacao(ronda: str | None = None) -> None:
                                    "paragrafo_depois": (f["depois"] if f["com_ligacoes"] else sem_ligacoes(f["depois"])) or "(parágrafo apagado)"}
                                   | ({"contexto": contexto(linhas, f["linha"])} if ronda else {})
                                   | ({"com_ligacoes": True} if f["com_ligacoes"] else {})
-                                  | ({"nota_do_respondedor": f["nota"]} if f["nota"] else {}) for f in feitas],
+                                  | ({"nota_do_respondedor": f["nota"]} if f["nota"] else {})
+                                  | ({"prova_do_respondedor": f["prova"]} if f.get("prova") else {}) for f in feitas],
             "nao_aplicadas": r.get("nao_aplicadas", []),
         })
     (LLM / (f"verificacao-entrada-{ronda}.jsonl" if ronda else "verificacao-entrada.jsonl")).write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens), encoding="utf-8")
@@ -254,7 +256,7 @@ def aplicar(dry_run: bool, ronda: str | None = None) -> None:
             v = json.loads(linha)
             if v["veredicto"] == "certo":
                 certos.add((entrada_v[v["n"]]["id"], entrada_v[v["n"]]["retificacao_id"]))
-    resp = respostas()
+    resp = respostas(ronda)
     por_diploma: dict[str, list[tuple[dict, dict]]] = defaultdict(list)
     for s in selecao():
         if (s["id"], s["retificacao"]) in certos:
@@ -273,7 +275,10 @@ def aplicar(dry_run: bool, ronda: str | None = None) -> None:
         tocadas: dict[int, set[str]] = defaultdict(set)
         trocas_feitas = []
         for s, r in lista:
-            if s["retificacao"] in ja:
+            # uma retificação já aplicada só se completa (com trocas que tinham ficado de fora) quando
+            # a resposta o diz (`"completa": true`); o ato não se repete
+            completar = s["retificacao"] in ja
+            if completar and not r.get("completa"):
                 continue
             copia = list(linhas)
             try:
@@ -285,7 +290,7 @@ def aplicar(dry_run: bool, ronda: str | None = None) -> None:
             meta = front_matter((RAIZ / s["caminho_retificacao"]).read_text(encoding="utf-8"))
             for f in feitas:
                 tocadas[f["linha"]].add(rt._nota(meta))
-            trocas_feitas.append({"retificacao": s["retificacao"], "titulo": meta["title"], "publicacao": str(meta["publication_date"]),
+            trocas_feitas.append({"retificacao": s["retificacao"], "completa": completar, "titulo": meta["title"], "publicacao": str(meta["publication_date"]),
                                   "dre_path": (meta.get("identifiers") or {}).get("dre_path"), "caminho_retificacao": s["caminho_retificacao"],
                                   "classe": "llm", "trocas": feitas, "nao_aplicadas": r.get("nao_aplicadas", [])})
         if not trocas_feitas:
@@ -295,9 +300,9 @@ def aplicar(dry_run: bool, ronda: str | None = None) -> None:
         novo = re.sub(r"\n{3,}", "\n\n", "\n".join(com_notas))
         original = render_version(dados, dados["versions"][0], title=registo.title)
         primeira, segunda = (dict(v) for v in dados["versions"])
-        segunda["acts"] = list(segunda["acts"]) + [{"id": t["retificacao"], "title": t["titulo"], "published": t["publicacao"], "dre_path": t["dre_path"]} for t in trocas_feitas]
+        segunda["acts"] = list(segunda["acts"]) + [{"id": t["retificacao"], "title": t["titulo"], "published": t["publicacao"], "dre_path": t["dre_path"]} for t in trocas_feitas if not t["completa"]]
         artigos = dict.fromkeys(f["artigo"] or "" for t in trocas_feitas for f in t["trocas"])
-        segunda["changes"] = list(segunda["changes"]) + [f"Retifica Artigo {a}" if a else "Retifica texto" for a in artigos]
+        segunda["changes"] = list(segunda["changes"]) + [c for c in (f"Retifica Artigo {a}" if a else "Retifica texto" for a in artigos) if c not in segunda["changes"]]
         novos = historico(registo.id, registo.title, original, novo, [primeira, segunda])
         if blocos(render_version(novos, novos["versions"][1], title=registo.title)) != blocos(novo) or blocos(render_version(novos, novos["versions"][0], title=registo.title)) != blocos(original):
             recusadas.append(f"{caminho_rel}: o histórico não reproduz o texto")
