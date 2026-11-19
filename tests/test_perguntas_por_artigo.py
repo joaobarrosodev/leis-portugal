@@ -169,6 +169,17 @@ def test_exportar_so_os_artigos_sem_perguntas_e_importar_sem_apagar_o_piloto(tmp
     assert len(pa.ler(destino)) == 4
 
 
+def test_artigos_do_decreto_com_a_chave_de_um_artigo_do_codigo_saem(tmp_path):
+    cp = "pt:dre:185720:por"
+    caminho = _construir(tmp_path / "cp.sqlite", {**A, cp: ("Decreto-Lei n.º 48/95", "Revê o Código Penal", [
+        ("", "1.º", "", "O Código Penal é revisto e republicado.", "1995-10-01", None),
+        ("", "1.º", "Princípio da legalidade", "Só pode ser punido criminalmente o facto descrito na lei.", "1995-10-01", None),
+        ("", "2.º", "", "Artigo do decreto sem par no código.", "1995-10-01", None),
+    ], [])})
+    artigos = [a for a in pa.artigos_do_ambito(caminho) if a["documento"] == cp]
+    assert [(a["chave"], a["epigrafe"]) for a in artigos] == [("1.º", "Princípio da legalidade"), ("2.º", "")]
+
+
 def _ids(caminho, documento, chave):
     with sqlite3.connect(caminho) as con:
         return [i for (i,) in con.execute("SELECT id FROM pedacos WHERE documento = ? AND chave = ? ORDER BY id", (documento, chave))]
