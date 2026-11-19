@@ -13,12 +13,23 @@ JSON que o `resposta.py` pede à API. `importar` junta as respostas à pesquisa,
 `rag/resultados/<nome>-llm.json` (só números) e o detalhe em `privado/`.
 
 A sessão que responde não pode ver as respostas certas: só recebe `entrada-NN.jsonl`.
+
+Para comparar tamanhos de contexto com a mesma pesquisa (o reranker tem ruído de uma corrida para outra):
+
+    PYTHONPATH=src python -m rag.passo_llm exportar --nome compostas --tipos composta --contextos 8,16 --consultas PASTA
+    PYTHONPATH=src python -m rag.passo_llm importar --nome compostas-ctx16 --tipos composta --contexto 16 --consultas PASTA
+
+`--contextos` escreve uma pasta por tamanho (`<nome>-ctx8`, `<nome>-ctx16`) a partir da mesma consulta.
+`--consultas` guarda cada consulta (`<id>.pickle`) quando é feita e lê-a nas corridas seguintes: o
+`exportar` retoma depois de um corte e o `importar` usa a mesma pesquisa que o LLM viu.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import os
+import pickle
 import sys
 from pathlib import Path
 
@@ -26,7 +37,7 @@ from rag import avaliar
 from rag import reescrita as reescrita_mod
 from rag.fontes import RAIZ
 from rag.pesquisa import Pesquisa
-from rag.resposta import INSTRUCOES, LIMIAR_COM_LLM, Resposta, contexto, interpretar, mensagem, nao_sei_antes
+from rag.resposta import ARTIGOS_NO_CONTEXTO, INSTRUCOES, LIMIAR_COM_LLM, Resposta, contexto, interpretar, mensagem, nao_sei_antes
 
 
 PASTA = RAIZ / "rag" / "resultados" / "privado" / "llm"
@@ -43,65 +54,99 @@ def ler_reescrita(pasta: Path | None) -> dict[str, str]:
     }
 
 
-def pesquisar(pesquisa: Pesquisa, p: dict, reescrita: dict[str, str]):
+def pesquisar(pesquisa: Pesquisa, p: dict, reescrita: dict[str, str], *, k: int = max(avaliar.KS), consultas: Path | None = None):
     """Pesquisa com a consulta reescrita pelas sessões, se existir (sem chamar o LLM); a pergunta do
-    utilizador fica na consulta para o LLM e os juízes."""
-    return reescrita_mod.pesquisar(pesquisa, p["pergunta"], p["data_referencia"], k=max(avaliar.KS), consulta=reescrita.get(p["id"], p["pergunta"]))
+    utilizador fica na consulta para o LLM e os juízes. Com `consultas`, lê a consulta guardada, se a
+    houver com pelo menos `k` resultados pedidos, ou guarda a que fizer."""
+    guardada = consultas / f"{p['id']}.pickle" if consultas is not None else None
+    if guardada is not None and guardada.exists():
+        k_guardado, consulta = pickle.loads(guardada.read_bytes())
+        if k_guardado >= k:
+            return consulta
+    consulta = reescrita_mod.pesquisar(pesquisa, p["pergunta"], p["data_referencia"], k=k, consulta=reescrita.get(p["id"], p["pergunta"]))
+    if guardada is not None:
+        guardada.parent.mkdir(parents=True, exist_ok=True)
+        temporario = guardada.with_suffix(".tmp")
+        temporario.write_bytes(pickle.dumps((k, consulta)))
+        os.replace(temporario, guardada)  # um corte a meio não deixa uma consulta pela metade
+    return consulta
 
 
-def exportar(nome: str, tipos: set[str], por_lote: int, limiar: float, indice: Path | None, reescrita: dict[str, str], ficheiro: Path | None = None) -> None:
-    from rag.modelos import Reranker
+def pastas_por_contexto(nome: str, contextos: list[int] | None) -> dict[int, Path]:
+    """A pasta de cada tamanho de contexto: só `<nome>` sem `--contextos`, `<nome>-ctxN` com."""
+    if not contextos:
+        return {ARTIGOS_NO_CONTEXTO: PASTA / nome}
+    return {n: PASTA / f"{nome}-ctx{n}" for n in contextos}
 
-    pesquisa = Pesquisa(indice, reranker=Reranker("cruzado"))
+
+def exportar(
+    nome: str, tipos: set[str], por_lote: int, limiar: float, indice: Path | None, reescrita: dict[str, str], ficheiro: Path | None = None,
+    *, contextos: list[int] | None = None, consultas: Path | None = None, pesquisa: Pesquisa | None = None,
+) -> None:
+    if pesquisa is None:
+        from rag.modelos import Reranker
+
+        pesquisa = Pesquisa(indice, reranker=Reranker("cruzado"))
     perguntas = [p for p in avaliar.ler_perguntas(ficheiro=ficheiro) if p["tipo"] in tipos]
-    pasta = PASTA / nome
-    pasta.mkdir(parents=True, exist_ok=True)
-    for f in pasta.glob("entrada-*.jsonl"):
-        f.unlink()
-    entradas, regras = [], 0
-    for n, p in enumerate(perguntas, 1):
-        consulta = pesquisar(pesquisa, p, reescrita)
+    pastas = pastas_por_contexto(nome, contextos)
+    k = max(max(avaliar.KS), *pastas)
+    entradas: dict[int, list[dict]] = {n: [] for n in pastas}
+    regras = 0
+    for i, p in enumerate(perguntas, 1):
+        consulta = pesquisar(pesquisa, p, reescrita, k=k, consultas=consultas)
+        if i % 25 == 0:
+            print(f"{i}/{len(perguntas)}", file=sys.stderr, flush=True)
         if nao_sei_antes(consulta, limiar):
             regras += 1
             continue
-        texto, _ = contexto(consulta)
-        entradas.append({"id": p["id"], "mensagem": mensagem(consulta, texto)})
-        if n % 25 == 0:
-            print(f"{n}/{len(perguntas)}", file=sys.stderr, flush=True)
-    for i in range(0, len(entradas), por_lote):
-        ficheiro = pasta / f"entrada-{i // por_lote + 1:02d}.jsonl"
-        ficheiro.write_text("".join(json.dumps(e, ensure_ascii=False) + "\n" for e in entradas[i : i + por_lote]), encoding="utf-8")
-    (pasta / "INSTRUCOES.md").write_text(
-        INSTRUCOES + "\n\nCada linha de entrada-NN.jsonl tem `id` e `mensagem` (a data, os artigos numerados e a pergunta)."
-        " Escreve em saida-NN.jsonl, uma linha por `id`, o objeto JSON pedido acima mais o campo `id`.\n",
-        encoding="utf-8",
-    )
-    print(f"{len(entradas)} perguntas para o LLM em {-(-len(entradas) // por_lote)} lotes; {regras} já são 'não sei' pelas regras.")
+        for n in pastas:
+            texto, _ = contexto(consulta, n)
+            entradas[n].append({"id": p["id"], "mensagem": mensagem(consulta, texto)})
+    for n, pasta in pastas.items():
+        pasta.mkdir(parents=True, exist_ok=True)
+        for f in pasta.glob("entrada-*.jsonl"):
+            f.unlink()
+        lista = entradas[n]
+        for i in range(0, len(lista), por_lote):
+            ficheiro = pasta / f"entrada-{i // por_lote + 1:02d}.jsonl"
+            ficheiro.write_text("".join(json.dumps(e, ensure_ascii=False) + "\n" for e in lista[i : i + por_lote]), encoding="utf-8")
+        (pasta / "INSTRUCOES.md").write_text(
+            INSTRUCOES + "\n\nCada linha de entrada-NN.jsonl tem `id` e `mensagem` (a data, os artigos numerados e a pergunta)."
+            " Escreve em saida-NN.jsonl, uma linha por `id`, o objeto JSON pedido acima mais o campo `id`.\n",
+            encoding="utf-8",
+        )
+        rotulo = f" ({n} artigos, {pasta.name})" if contextos else ""
+        print(f"{len(lista)} perguntas para o LLM em {-(-len(lista) // por_lote)} lotes{rotulo}; {regras} já são 'não sei' pelas regras.")
 
 
-def importar(nome: str, tipos: set[str], limiar: float, indice: Path | None, reescrita: dict[str, str], ficheiro: Path | None = None) -> None:
-    from rag.modelos import Reranker
-
+def importar(
+    nome: str, tipos: set[str], limiar: float, indice: Path | None, reescrita: dict[str, str], ficheiro: Path | None = None,
+    *, n: int = ARTIGOS_NO_CONTEXTO, consultas: Path | None = None, pesquisa: Pesquisa | None = None,
+) -> None:
     respostas: dict[str, dict] = {}
     for f in sorted((PASTA / nome).glob("saida-*.jsonl")):
         for linha in f.read_text(encoding="utf-8").splitlines():
             if linha.strip():
                 d = json.loads(linha)
                 respostas[d["id"]] = d
-    pesquisa = Pesquisa(indice, reranker=Reranker("cruzado"))
+    if pesquisa is None:
+        from rag.modelos import Reranker
+
+        pesquisa = Pesquisa(indice, reranker=Reranker("cruzado"))
     linhas, em_falta = [], 0
     for p in (p for p in avaliar.ler_perguntas(ficheiro=ficheiro) if p["tipo"] in tipos):
-        consulta = pesquisar(pesquisa, p, reescrita)
+        consulta = pesquisar(pesquisa, p, reescrita, k=max(max(avaliar.KS), n), consultas=consultas)
         motivo = nao_sei_antes(consulta, limiar)
         if motivo:
             resposta = Resposta(False, "Não sei.", motivo=motivo)
         elif p["id"] in respostas:
-            resposta = interpretar(respostas[p["id"]], consulta.resultados[:8])
+            resposta = interpretar(respostas[p["id"]], consulta.resultados[:n])
         else:
             em_falta += 1
             continue
         linhas.append(avaliar.pontuar(p, consulta, resposta))
-    resumo = avaliar.guardar(f"{nome}-llm", {"reranker": "cruzado", "limiar": limiar, "llm": "sessão do Claude"}, linhas)
+    configuracao = {"reranker": "cruzado", "limiar": limiar, "llm": "sessão do Claude"} | ({"contexto": n} if n != ARTIGOS_NO_CONTEXTO else {})
+    resumo = avaliar.guardar(f"{nome}-llm", configuracao, linhas)
     print(avaliar.tabela(resumo))
     if em_falta:
         print(f"\n{em_falta} perguntas sem resposta do LLM ficaram de fora.", file=sys.stderr)
@@ -117,12 +162,16 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--indice", type=Path)
     parser.add_argument("--reescrita", type=Path, help="Pasta com saida-*.jsonl (id, consulta) para pesquisar com a consulta jurídica.")
     parser.add_argument("--perguntas", type=Path, help="Só as perguntas deste ficheiro (p. ex. avaliacao/perguntas-ue.jsonl).")
+    parser.add_argument("--contextos", help="exportar: tamanhos de contexto separados por vírgulas (p. ex. 8,16), uma pasta <nome>-ctxN por tamanho.")
+    parser.add_argument("--contexto", type=int, default=ARTIGOS_NO_CONTEXTO, help="importar: os artigos que o LLM viu (as citações contam sobre estes).")
+    parser.add_argument("--consultas", type=Path, help="Pasta onde guardar e de onde ler as consultas (retoma e usa a mesma pesquisa no importar).")
     args = parser.parse_args(argv)
     tipos = set(args.tipos.split(","))
     if args.acao == "exportar":
-        exportar(args.nome, tipos, args.lote, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas)
+        contextos = [int(x) for x in args.contextos.split(",")] if args.contextos else None
+        exportar(args.nome, tipos, args.lote, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas, contextos=contextos, consultas=args.consultas)
     else:
-        importar(args.nome, tipos, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas)
+        importar(args.nome, tipos, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas, n=args.contexto, consultas=args.consultas)
     return 0
 
 
