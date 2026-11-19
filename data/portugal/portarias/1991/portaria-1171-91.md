@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-04-18'
+version_history:
+  file: portaria-1171-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-11-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-04-18'
+    amending: pt:dre:200018:por
+    amending_title: Portaria n.º 341/92
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 31.º
+    - Altera Artigo ANEXO II — Prazos
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1171/1991/11/15/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:39:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 341/92. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-1171-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,9 +207,13 @@ c) Estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundári
 
 1 - A época normal tem duas chamadas.
 
-2 - Cada estudante pode apresentar-se a ambas as chamadas, sendo considerada apenas a prova da chamada em que obtenha melhor classificação.
+1-A - Excepcionalmente, no ano de 1992, a época normal tem três chamadas.
 
-3 - A apresentação à segunda chamada não carece de outra inscrição.
+2 - Cada estudante pode apresentar-se a todas as chamadas, sendo considerada apenas a prova da chamada em que obtenha a melhor classificação.
+
+3 - A apresentação às 2.ª e 3.ª chamadas não carece de outra inscrição.
+
+> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13.
 
 ###### Artigo 4.º — Época especial
 
@@ -456,11 +477,13 @@ Os estudantes que considerem que a prova geral de acesso que realizaram em 1992 
 
 Dadas as caracterísitcas da prova, o pedido de reapreciação apenas poderá incidir sobre a classificação da parte aberta.
 
-###### Artigo 31.º — Estudantes que realizaram duas chamadas de uma época da prova
+###### Artigo 31.º — Estudantes que realizaram mais de uma chamada de uma época da prova
 
-1 - Os estudantes que tenham realizado ambas as chamadas de uma época da prova geral de acesso apenas poderão requerer a consulta e posterior reapreciação da prova considerada, isto é, a prova da chamada em que obtiveram a melhor classificação.
+1 - Os estudantes que tenham realizado mais de uma chamada de uma época da prova geral de acesso apenas poderão requerer a consulta e posterior reapreciação da prova considerada, isto é, da prova da chamada em que obtiveram a melhor classificação.
 
-2 - Se a classificação das duas provas prestadas for igual, os estudantes poderão requerer a consulta e posterior reapreciação de uma delas.
+2 - Se a classificação das provas prestadas for igual, os estudantes poderão requerer a consulta e posterior reapreciação de uma delas.
+
+> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13.
 
 ###### Artigo 32.º — Júri de reapreciação
 
@@ -648,10 +671,20 @@ Escola Secundária de Rodrigues de Freitas (Porto).
 
 1 - Época normal:
 
-1.1 - Inscrição - 18 de Novembro a 6 de Dezembro de 1991.
+1.1 - Inscrição - 18 de Novembro a 6 de Dezembro de 1991;
 
-1.2 - Primeira chamada - 3 de Fevereiro de 1992.
+1.2 - 1.ª chamada - 3 de Fevereiro de 1992;
 
-1.3 - Segunda chamada - 17 de Fevereiro de 1992.
+1.3 - 2.ª chamada - 17 de Fevereiro de 1992;
 
-2 - Época especial - a fixar no quadro do calendário geral de acesso.
+1.4 - 3.ª chamada - 8 de Maio de 1992.
+
+2 - Época especial:
+
+2.1 - Inscrição - 22 a 30 de Junho de 1992;
+
+2.2 - 1.ª chamada - 3 de Agosto de 1992;
+
+2.3 - 2.ª chamada - 7 de Agosto de 1992.
+
+> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13.

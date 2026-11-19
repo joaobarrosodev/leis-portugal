@@ -1,0 +1,190 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:490019:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "711d528cf7000b6c",
+    "a32ae936508926a3",
+    "66aa5c73d35d3542",
+    "148e7284f4a7461a",
+    "7749235e56faee44",
+    "5df3db580289901e",
+    "6b1f1ee2823500fb",
+    "5c6d213703b343ec",
+    "24dad77c5443b822",
+    "e30d99320ec523a7",
+    "755ad1f77768ea10",
+    "e2dd7327a75c4d5b"
+   ]
+  },
+  {
+   "date": "2010-11-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:309035:por",
+     "title": "Portaria n.º 1169/2010",
+     "published": "2010-11-10",
+     "dre_path": "/dr/detalhe/portaria/1169-2010-309035"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "711d528cf7000b6c",
+    "a32ae936508926a3",
+    "66aa5c73d35d3542",
+    "148e7284f4a7461a",
+    "7749235e56faee44",
+    "5df3db580289901e",
+    "2b37e08e7943a986",
+    "5c6d213703b343ec",
+    "24dad77c5443b822",
+    "42228232b1e1c710",
+    "e955fa4914271863",
+    "e2dd7327a75c4d5b"
+   ]
+  }
+ ],
+ "fragments": {
+  "711d528cf7000b6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Setembro\n\nO Programa do XVII Governo Constitucional refere que «os cidadãos e as empresas não podem ser onerados com imposições burocráticas que nada acrescentem à qualidade do serviço».\n\nNa área da propriedade industrial foram concretizadas várias medidas de simplificação: criaram-se diversos serviços na Internet, reduziram-se os prazos e os custos dos pedidos dos direitos de propriedade industrial e adoptaram-se medidas para incentivar a inovação e os pedidos de invenções nacionais (patentes e modelos de utilidade).\n\nEstas medidas de simplificação tiveram resultados práticos significativos: enquanto que em 2004 um registo de marca demorava, em média, quase 18 meses a ser concedido, em 2008 a maioria dos registos de marca demorou, em média, cerca de 3 meses a ser concedida.\n\nCriaram-se diversos serviços online, sendo os mais conhecidos a «Marca Online» e a «Patente Online», disponíveis em www.inpi.pt. Estes serviços online têm tido uma adesão extraordinária: em Junho de 2009 foram apresentados online 98 % dos pedidos de marcas nacionais e 77 % dos pedidos de invenções nacionais (patentes e modelos de utilidade). Refira-se ainda que, no mesmo período, 94 % de todos os pedidos relacionados com direitos de propriedade industrial foram apresentados online.\n\nReduziram-se ainda os custos dos pedidos dos direitos de propriedade industrial. Os custos globais dos pedidos e registos de protecção dos direitos de propriedade industrial mais relevantes (marca, logótipo, patente, modelos de utilidade e desenhos ou modelos) beneficiaram de reduções significativas, que variaram entre 21 %, no caso dos modelos de utilidade, e 64 %, no caso dos modelos ou desenhos. Por exemplo, desde 1 de Outubro de 2008 que um pedido de marca nacional apresentado através do serviço «Marca Online» em vez de custar (euro) 197,14 passou a custar (euro) 115, o que corresponde a uma redução de 42 %.\n\nFinalmente, no que respeita a medidas específicas para incentivar a inovação e os pedidos de invenções nacionais, foi criado um novo instrumento especialmente vocacionado para esse objectivo - o pedido provisório de patente - e foram reduzidos os custos dos pedidos.\n\nO pedido provisório de patente consiste na possibilidade de apresentar um pedido que permite a fixação imediata - em língua portuguesa ou inglesa - da prioridade de uma invenção, com um mínimo de formalidades, concedendo um prazo de 12 meses para apresentar a documentação necessária. Caso esta documentação não seja entregue nesse prazo, o pedido fica sem efeito. Este mecanismo permite incentivar a procura de pedidos de patente por parte de pequenos e médios inventores e evitar que divulgações precoces das invenções, como os papers ou outros documentos técnico-científicos produzidos nas universidades, inviabilizem a sua protecção, permitindo a apresentação do pedido provisório de patente. Para cumprir estes objectivos, o pedido provisório de patente tem um preço extremamente reduzido de apenas (euro) 10. Só no momento da conversão do pedido em definitivo será necessário pagar um preço adicional de (euro) 60.\n\nO pedido provisório de patente tem conhecido uma adesão significativa por parte dos cidadãos e das empresas: desde 1 de Outubro de 2008 até ao final de Julho de 2009 já foram apresentados mais de 250 pedidos provisórios de patente.\n\nA presente portaria cria um incentivo para a inovação e internacionalização da economia portuguesa: a Linha de Apoio à Internacionalização de Patentes (LAIP) e visa complementar as medidas de incentivo à inovação e aos pedidos de patentes e de modelos de utilidade que já foram tomadas e apoiar as estratégias de internacionalização e de expansão para novos mercados das empresas portuguesas, o que é particularmente importante no contexto de crise que a economia mundial atravessa.\n\nAs medidas de incentivo à inovação e aos pedidos de patentes e de modelos de utilidade que já estão em funcionamento produziram resultados assinaláveis.\n\nEm 2008 os pedidos de registo de invenções - patentes e modelos de utilidade - cresceram muito significativamente em comparação com os anos anteriores. Em relação às invenções nacionais, em 2008 foram apresentados 513 pedidos, o que reflecte um aumento de 39 % de pedidos em relação ao ano de 2007 (368 pedidos). Dos pedidos de invenções nacionais apresentados em 2008, aqueles que foram apresentados por residentes em Portugal registaram um crescimento de cerca de 31 % em relação a 2007 (459 pedidos em 2008 e 316 pedidos em 2007). Trata-se de um aumento relevante, pois este é um dos indicadores que reflecte os resultados das actividades de investigação e desenvolvimento praticadas em Portugal.\n\nRefira-se ainda que o crescimento de pedidos de invenções nacionais é uma tendência sustentada: comparando o ano de 2004 com 2008, o número de pedidos de invenções nacionais cresceu 118 %. Em 2004 foram apresentados 235 pedidos, em 2005, 268, em 2006, 319, em 2007, 368, e em 2008, 513.\n\nA LAIP procura apoiar as estratégias de internacionalização e de expansão para novos mercados das empresas portuguesas.\n\nPara este efeito, a LAIP tem uma dotação orçamental de (euro) 500 000, que permite apoiar pedidos de patentes europeias e internacionais que sejam apresentados por empresas, instituições que desenvolvam actividades de investigação e inventores individuais.\n\nA LAIP cobre todas as taxas envolvidas nos pedidos de patentes europeias e internacionais, bem como outras despesas. A percentagem do apoio concedido depende da entidade que o solicita. As empresas que possam ser qualificadas como PME podem obter o nível máximo de apoio para as despesas que são elegíveis, que corresponde a 80 %, o qual ainda pode ser aumentado para 90 % caso estejam em causa invenções que tenham sido antecedidas por um pedido provisório de patente ou invenções desenvolvidas no âmbito de projectos apoiados por fundos públicos ou privados de capital semente e capital de risco. O limite máximo de incentivo a atribuir por cada candidatura é de (euro) 8000.\n\nCom o objectivo de tornar o processo mais rápido, mais eficiente e com menores custos para as empresas, as candidaturas à LAIP deverão ser apresentadas através da Internet, em www.inpi.pt, e o INPI deve decidir sobre a concessão do apoio no prazo máximo de cinco dias após a apresentação da candidatura e a entrega de todos os documentos necessários.\n\nA criação da LAIP visa assim, na sequência das medidas que têm sido tomadas e que já alcançaram resultados, continuar a incentivar a inovação e conceder de forma rápida e eficiente um apoio fundamental para que as empresas portuguesas possam prosseguir as suas estratégias de internacionalização e de expansão para novos mercados.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do disposto nas alíneas c) do artigo 199.º da Constituição da República Portuguesa e o) do n.º 2 do artigo 3.º do Decreto-Lei n.º 132/2007, de 27 de Abril, o seguinte:"
+  },
+  "a32ae936508926a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria cria a Linha de Apoio à Internacionalização de Patentes (LAIP).\n\n2 - A LAIP visa apoiar empresas, instituições sem fins lucrativos e inventores individuais que pretendam registar pedidos de patentes pelas vias europeias e internacional, por forma a incentivar a internacionalização de patentes criadas em Portugal."
+  },
+  "66aa5c73d35d3542": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Entidades beneficiárias da LAIP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias da LAIP\n\n1 - Podem beneficiar dos apoios concedidos no âmbito da LAIP as seguintes entidades:\n\na) Empresas, qualquer que seja a sua forma jurídica, que exerçam uma actividade económica e que estejam legalmente constituídas;\n\nb) Instituições sem fins lucrativos que desenvolvam actividades de investigação;\n\nc) Inventores individuais.\n\n2 - No caso de se tratar de uma pessoa colectiva, a entidade deve cumprir os seguintes requisitos:\n\na) Encontrar-se legalmente constituída em Portugal;\n\nb) Dispor de contabilidade organizada, nos termos da legislação aplicável;\n\nc) Ter o direito de reivindicar prioridade de pedido de patente anterior, quando aplicável;\n\nd) Possuir a sua situação regularizada face ao Instituto Nacional da Propriedade Industrial (INPI);\n\ne) Possuir a sua situação regularizada face à administração fiscal e à segurança social.\n\n3 - No caso de se tratar de uma pessoa individual, o requerente deve ser cidadão português ou ter domicílio real e efectivo em Portugal e cumprir os requisitos estabelecidos nas alíneas c) a e) do número anterior."
+  },
+  "148e7284f4a7461a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Pedidos de patente elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedidos de patente elegíveis\n\n1 - Podem beneficiar da LAIP os seguintes pedidos de patente:\n\na) Pedidos de patente europeia apresentados no INPI;\n\nb) Pedidos de patente europeia, apresentados no Instituto Europeu de Patentes, reivindicando a prioridade de um pedido de patente portuguesa;\n\nc) Pedidos de patente internacionais (PCT) apresentados no INPI;\n\nd) Pedidos de patente internacionais (PCT), apresentados na Organização Mundial da Propriedade Intelectual, reivindicando prioridade de um pedido de patente portuguesa.\n\n2 - Os pedidos de patente que já tenham beneficiado ou venham a beneficiar de outros apoios ou incentivos de natureza pública para as despesas elegíveis enunciadas no artigo seguinte, independentemente das respectivas taxas de comparticipação, não são elegíveis para a LAIP."
+  },
+  "7749235e56faee44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Despesas elegíveis\n\nAs despesas elegíveis relativas aos pedidos de patente referidos no artigo anterior que podem beneficiar da LAIP, as quais têm de estar realizadas à data da candidatura, são as seguintes:\n\na) Taxas relativas ao pedido de pesquisa ao estado da técnica, efectuado no INPI;\n\nb) Taxas relativas a pedidos de patente europeias, incluindo:\n\ni) Taxa de pedido;\n\nii) Taxa relativa à obtenção do documento de prioridade;\n\niii) Taxa de pesquisa;\n\niv) Taxa de reivindicações;\n\nv) Taxa de designação;\n\nvi) Taxa de extensão;\n\nvii) Taxa de exame;\n\nc) Taxas relativas a pedidos de patente pela via internacional (PCT), incluindo:\n\ni) Taxa relativa à obtenção do documento de prioridade;\n\nii) Taxa de pedido;\n\niii) Taxa de pesquisa;\n\niv) Taxa por folha, a partir da 30.ª;\n\nv) Taxa de transmissão;\n\nd) Honorários de tradução do pedido de patente para as línguas oficiais da Organização Europeia de Patentes;\n\ne) Honorários de consultoria em propriedade industrial."
+  },
+  "5df3db580289901e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Montante dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Montante dos apoios\n\n1 - Os apoios a conceder são calculados através da aplicação das seguintes taxas sobre as despesas elegíveis, para cada um dos tipos de entidades beneficiárias da LAIP:\n\na) Empresas abrangidas pelo Estatuto de PME, de acordo com o previsto na Recomendação da Comunidade de 6 de Maio de 2003 ([2003/361/CE](http://data.europa.eu/eli/reco/2003/361/oj?locale=pt)): 80 % das despesas elegíveis;\n\nb) Empresas não abrangidas pelo Estatuto de PME: 50 % das despesas elegíveis;\n\nc) Instituições sem fins lucrativos que desenvolvam tarefas de investigação: 75 % das despesas elegíveis;\n\nd) Inventores individuais: 70 % das despesas elegíveis.\n\n2 - Beneficiam de uma majoração de 10 % sobre as taxas de incentivo previstas no número anterior as candidaturas que tenham por objecto:\n\na) Proteger invenções que reivindiquem um direito de prioridade fixado por um pedido provisório de patente, nos termos dos artigos 62.º-A e 62.º-B do Código da Propriedade Industrial;\n\nb) Proteger invenções desenvolvidas no âmbito de projectos apoiados por fundos públicos ou privados de capital semente e capital de risco.\n\n3 - As majorações previstas no artigo anterior são alternativas e não cumuláveis.\n\n4 - O montante máximo das despesas previstas nas alíneas d) e e) do n.º 1 do artigo 4.º é de (euro) 1500 por cada tipo de honorários.\n\n5 - O limite máximo de incentivo a atribuir por cada candidatura é de (euro) 8000.\n\n6 - Os apoios concedidos são de natureza não reembolsável."
+  },
+  "6b1f1ee2823500fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento\n\n1 - As candidaturas à LAIP são apresentadas online em www.inpi.pt e devem indicar um responsável pela mesma.\n\n2 - Se o pedido de patente tiver mais de um titular, deve ser enviada a autorização dos restantes titulares para apresentar a candidatura e assumir as responsabilidades inerentes.\n\n3 - No momento da apresentação da candidatura, os interessados devem:\n\na) Comprovar mediante declaração os requisitos previstos nas alíneas a) a d) do n.º 2 ou, se for o caso, do n.º 3 do artigo 2.º;\n\nb) Prestar consentimento para o INPI, através da consulta nos sítios da Internet das declarações electrónicas e do serviço «Segurança Social Directa», poder comprovar os requisitos previstos na alínea e) do n.º 2 do artigo 2.º ou, se o consentimento não for prestado, comprovar os referidos requisitos através do envio, em formato digital, de certidão de situação tributária ou contributiva regularizada, nos termos do Decreto-Lei n.º 114/2007, de 19 de Abril;\n\nc) Enviar os documentos comprovativos das despesas realizadas, em formato digital, devendo os respectivos originais ser enviados no INPI, no prazo máximo de cinco dias úteis a contar da notificação da decisão.\n\n4 - O período de apresentação de candidaturas à LAIP termina no dia 11 de Dezembro de 2009, podendo terminar em data anterior se for atingido o limite da dotação orçamental da LAIP prevista no artigo 9.º"
+  },
+  "5c6d213703b343ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Decisão\n\n1 - O INPI decide sobre as candidaturas submetidas no prazo de cinco dias após a apresentação da candidatura.\n\n2 - A decisão relativa ao pedido de concessão do apoio é imediatamente notificada aos interessados, exclusivamente por meios electrónicos."
+  },
+  "24dad77c5443b822": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Obrigações dos beneficiários da LAIP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações dos beneficiários da LAIP\n\nOs beneficiários da LAIP ficam sujeitos às seguintes obrigações:\n\na) Manter a contabilidade organizada de acordo com o Plano Oficial de Contabilidade, quando aplicável;\n\nb) Criar e manter organizado e actualizado um dossier com todos os documentos susceptíveis de comprovar as declarações prestadas na candidatura, para permitir o acompanhamento e controlo da mesma."
+  },
+  "e30d99320ec523a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dotação orçamental\n\nA LAIP tem uma dotação orçamental de (euro) 500 000 para o ano de 2009, podendo ser aumentada caso tal se justifique e se encontrem reunidas as condições financeiras necessárias."
+  },
+  "755ad1f77768ea10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação no tempo\n\nPodem concorrer à concessão dos apoios da LAIP os pedidos de patente apresentados após a entrada em vigor da presente portaria."
+  },
+  "e2dd7327a75c4d5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nPelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 4 de Setembro de 2009."
+  },
+  "2b37e08e7943a986": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Procedimento",
+   "in_force_from": "2010-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1169/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1169-2010-309035), publicado em 2010-11-10.",
+    "Alterado pelo/a [Portaria n.º 1169/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1169-2010-309035), publicado em 2010-11-10."
+   ],
+   "markdown": "###### Artigo 6.º — Procedimento\n\n1 - As candidaturas à LAIP são apresentadas online em www.inpi.pt e devem indicar um responsável pela mesma.\n\n2 - Se o pedido de patente tiver mais de um titular, deve ser enviada a autorização dos restantes titulares para apresentar a candidatura e assumir as responsabilidades inerentes.\n\n3 - No momento da apresentação da candidatura, os interessados devem:\n\na) Comprovar mediante declaração os requisitos previstos nas alíneas a) a d) do n.º 2 ou, se for o caso, do n.º 3 do artigo 2.º;\n\nb) Prestar consentimento para o INPI, através da consulta nos sítios da Internet das declarações electrónicas e do serviço «Segurança Social Directa», poder comprovar os requisitos previstos na alínea e) do n.º 2 do artigo 2.º ou, se o consentimento não for prestado, comprovar os referidos requisitos através do envio, em formato digital, de certidão de situação tributária ou contributiva regularizada, nos termos do Decreto-Lei n.º 114/2007, de 19 de Abril;\n\nc) Enviar os documentos comprovativos das despesas realizadas, em formato digital, devendo os respectivos originais ser enviados no INPI, no prazo máximo de cinco dias úteis a contar da notificação da decisão.\n\n4 - O período de apresentação de candidaturas à LAIP termina no dia 10 de Dezembro de 2010, podendo terminar em data anterior, se for atingido o limite da dotação orçamental da LAIP prevista no artigo 9.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1169/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1169-2010-309035), publicado em 2010-11-10.\n\n> Alterado pelo/a [Portaria n.º 1169/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1169-2010-309035), publicado em 2010-11-10."
+  },
+  "42228232b1e1c710": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Dotação orçamental",
+   "in_force_from": "2010-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1169/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1169-2010-309035), publicado em 2010-11-10."
+   ],
+   "markdown": "###### Artigo 9.º — Dotação orçamental\n\nA LAIP é financiada, no ano de 2010, até ao montante máximo da dotação orçamental que lhe for afecta pelo orçamento do INPI, com vista a maximizar o investimento realizado e a abranger o maior número de projectos que reúnam as condições fixadas na presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1169/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1169-2010-309035), publicado em 2010-11-10."
+  },
+  "e955fa4914271863": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Aplicação no tempo",
+   "in_force_from": "2010-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1169/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1169-2010-309035), publicado em 2010-11-10."
+   ],
+   "markdown": "###### Artigo 10.º — Aplicação no tempo\n\nPodem concorrer à concessão dos apoios da LAIP os pedidos de patente apresentados após 1 de Janeiro de 2010.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1169/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1169-2010-309035), publicado em 2010-11-10."
+  }
+ }
+}

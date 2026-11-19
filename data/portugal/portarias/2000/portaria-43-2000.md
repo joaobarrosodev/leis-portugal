@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-11-26'
+version_history:
+  file: portaria-43-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-02-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-11-26'
+    amending: pt:dre:570104:por
+    amending_title: Portaria n.º 1298/2001
+    changes:
+    - Altera Artigo unidades 15-15
+    - Altera Artigo unidades 36-37
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/43/2000/02/01/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:23:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1298/2001. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-43-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,7 +160,9 @@ A admissão ao CFMCO é feita mediante concurso, aberto a militares habilitados 
 
 Duração do curso
 
-O CFMCO tem a duração de cerca de 20 semanas úteis.
+O CFMCO tem a duração de 11 semanas.
+
+> Alterado pelo/a [Portaria n.º 1298/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1298-2001-570104), publicado em 2001-11-21.
 
 4.º
 
@@ -186,6 +204,8 @@ O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 13 de Janeir
 
 ## ANEXO — Escola Superior de Tecnologias Navais
 
-Curso de Formação Militar Complementar de Oficiais
+Curso de formação militar complementar de Oficiais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/02/026b00/04340435.pdf)
+[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270b00/74727472.pdf)
+
+> Alterado pelo/a [Portaria n.º 1298/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1298-2001-570104), publicado em 2001-11-21.

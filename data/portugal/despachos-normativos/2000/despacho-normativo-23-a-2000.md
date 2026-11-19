@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-07-11'
+version_history:
+  file: despacho-normativo-23-a-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-05-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-07-11'
+    amending: pt:dre:301020:por
+    amending_title: Despacho Normativo n.º 29/2000
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/23-a/2000/05/10/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:36:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 29/2000. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2000/despacho-normativo-23-a-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,11 +196,15 @@ g) Indicação de outros elementos considerados relevantes e dos contactos para 
 
 4 - A licitação termina quando o presidente da comissão tiver anunciado por três vezes o lanço mais elevado e este não for coberto.
 
-5 - Terminada a licitação, o interessado que apresentou a proposta de valor mais elevado a partir da qual teve início a licitação pode cobrir o último lanço.
+5 - Terminada a licitação, o interessado que apresentou a proposta de valor mais elevado a partir da qual teve início a licitação pode cobrir o último lanço com o mínimo de 1/20 do valor do lanço estabelecido pela comissão, nos termos do n.º 3 deste artigo, arredondado para as unidades de milhares de escudos superiores.
 
 6 - Se houver mais de uma proposta nas condições referidas no número anterior, reabre-se a licitação entre os respectivos proponentes.
 
 7 - Em seguida, há lugar ao exercício de eventuais direitos de preferência e, apresentando-se a preferir mais de uma pessoa com igual direito, reabre-se a licitação entre elas.
+
+> Alterado pelo/a [Despacho Normativo n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2000-301020), publicado em 2000-07-06.
+
+> Alterado pelo/a [Despacho Normativo n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2000-301020), publicado em 2000-07-06.
 
 ###### Artigo 6.º
 

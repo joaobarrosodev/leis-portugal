@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-03-02'
+version_history:
+  file: portaria-22-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-01-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-02'
+    amending: pt:dre:278912:por
+    amending_title: Portaria n.º 87/2011
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/22/2010/01/11/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 87/2011. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2010/portaria-22-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,49 +142,53 @@ Assim:
 
 Ao abrigo do disposto no artigo 8.º do [Decreto-Lei n.º 144/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2007-520988), de 27 de Abril, manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:
 
-###### Artigo 1.º
+###### Artigo 1.º — Composição da Comissão de Índices e Fórmulas de Empreitadas
 
-A Comissão de Índices e Fórmulas de Empreitadas (CIFE) do Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), tem a seguinte constituição:
+A Comissão de Índices e Fórmulas de Empreitadas, abreviadamente designada CIFE, do InCI, I. P., passa a ter a seguinte composição:
 
-a) Um representante do Instituto da Habitação e Reabilitação Urbana, I. P.;
+a) Um representante do Governo Regional da Madeira ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;
 
-b) Um representante do Laboratório Nacional de Engenharia Civil, I. P.;
+b) Um representante do Governo Regional dos Açores ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;
 
-c) Um representante do Instituto de Gestão do Património Arquitectónico e Arqueológico;
+c) Um representante da Associação Nacional de Municípios Portugueses;
 
-d) Um representante do Governo Regional dos Açores ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;
+d) Um representante do Gabinete de Estratégia e Planeamento do Ministério do Trabalho e da Solidariedade Social.
 
-e) Um representante do Governo Regional da Madeira ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;
+e) Um representante do Instituto Nacional de Estatística, I. P.;
 
-f) Um representante da Associação Nacional de Municípios Portugueses;
+f) Um representante do Laboratório Nacional de Engenharia Civil, I. P.;
 
-g) Um represente da Rede Ferroviária Nacional - REFER, E. P. E.;
+g) Um representante do Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P.;
 
-h) Um representante do Metropolitano de Lisboa, E. P. E.;
+h) Um representante do Instituto da Habitação e Reabilitação Urbana, I. P.;
 
-i) Um representante da Parque Escolar, E. P. E.;
+i) Um representante do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.;
 
-j) Um representante do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.;
+j) Um represente da Rede Ferroviária Nacional - REFER, E. P. E.;
 
-l) Um representante da Associação de Empresas de Construção de Obras Públicas;
+l) Um representante do Metropolitano de Lisboa, E. P. E.;
 
-m) Um representante da Associação Nacional dos Empreiteiros de Obras Públicas;
+m) Um representante da Parque Escolar, E. P. E.;
 
-n) Um representante da Associação dos Industriais da Construção Civil de Obras Públicas;
+n) Um representante da Associação de Empresas de Construção de Obras Públicas;
 
-o) Um representante da Associação dos Industriais da Construção de Edifícios;
+o) Um representante da Associação Nacional de Empreiteiros de Obras Públicas;
 
-p) Um representante da Associação Portuguesa de Comerciantes de Materiais da Construção;
+p) Um representante da Associação dos Industriais da Construção Civil de Obras Públicas;
 
-q) Um representante da Associação dos Industriais Metalúrgicos, Metalomecânicos e Afins de Portugal;
+q) Um representante da Associação dos Industriais da Construção de Edifícios;
 
-r) Um representante da Associação Portuguesa dos Industriais de Engenharia Energética;
+r) Um representante da Associação Portuguesa de Comerciantes de Materiais da Construção;
 
-s) Um representante do Instituto Nacional de Estatística, I. P.;
+s) Um representante da Associação dos Industriais Metalúrgicos, Metalomecânicos e Afins de Portugal;
 
-t) Um representante do Departamento de Prospectiva e Planeamento e Relações Internacionais do Ministério do Ambiente e do Ordenamento do Território;
+t) (Revogada.)
 
-u) Um representante do Gabinete de Estratégia e Planeamento do Ministério do Trabalho e da Solidariedade Social.
+u) Um representante da Associação Nacional das Empresas Metalúrgicas e Electromecânicas;
+
+v) Um representante da Associação Portuguesa dos Industriais de Engenharia Energética;
+
+> Alterado pelo/a [Portaria n.º 87/2011](https://diariodarepublica.pt/dr/detalhe/portaria/87-2011-278912), publicado em 2011-02-25.
 
 ###### Artigo 2.º
 

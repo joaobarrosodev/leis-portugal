@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-04-01'
+version_history:
+  file: portaria-64-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-04-01'
+    amending: pt:dre:626813:por
+    amending_title: Decreto-Lei n.º 58/93
+    changes:
+    - Revoga Artigo 49.º
+    - Altera Artigo 49.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T09:13:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 58/93. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1987/portaria-64-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -879,9 +895,7 @@ c) Controlar as situações de processamento indevidas, resultantes de sobreposi
 
 ###### Artigo 49.º — Instituições funcionalmente integradas
 
-1 - De acordo com o artigo 2.º do [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março, permanecem funcionalmente integrados o Lar Residencial das Fontainhas (LRF) e o Centro de Paralisia Cerebral do Porto (CPCP).
-
-2 - A integração orgânica do LRF e do CPCP será determinada por portaria do MTSS.
+(Revogado.)
 
 Documento anexo ao quadro de pessoal a que se refere o artigo 47.º do Regulamento do Centro Regional de Segurança Social do Porto.
 
@@ -902,3 +916,7 @@ Administração de bases de dados.
 Quadro anexo a que se refere o artigo 47.º do Regulamento
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02400/03550370.pdf)
+
+> Revogado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01.
+
+> Alterado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01.

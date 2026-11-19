@@ -1,0 +1,187 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1037778:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-02-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6da4efc2ce30d134",
+    "75431763f45ba84a",
+    "23836370ae405d04",
+    "75c55a977a4b0262",
+    "6ecb94d9bff38752",
+    "3deedb83950c28fa",
+    "b567aa49853cee79",
+    "56378b2d5449581e",
+    "f0d308adac06cf65",
+    "4eaa8fc162d9fb7a",
+    "58841e55d0002a0c",
+    "6b436d5fed053b66",
+    "ba26a4e52c03d943"
+   ]
+  },
+  {
+   "date": "2008-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456871:por",
+     "title": "Portaria n.º 553-A/2008",
+     "published": "2008-06-27",
+     "dre_path": "/dr/detalhe/portaria/553-a-2008-456871"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Regulamento dos Serviços Prestados pelos Órgãos e Serviços da Autoridade Marítima nos Portos::2.º",
+    "Altera Artigo ANEXO — Regulamento dos Serviços Prestados pelos Órgãos e Serviços da Autoridade Marítima nos Portos::9.º"
+   ],
+   "fragments": [
+    "6da4efc2ce30d134",
+    "75431763f45ba84a",
+    "23836370ae405d04",
+    "75c55a977a4b0262",
+    "8f49f1e042f564a4",
+    "3deedb83950c28fa",
+    "b567aa49853cee79",
+    "56378b2d5449581e",
+    "f0d308adac06cf65",
+    "4eaa8fc162d9fb7a",
+    "58841e55d0002a0c",
+    "6b436d5fed053b66",
+    "57037a7b4d3c1518"
+   ]
+  }
+ ],
+ "fragments": {
+  "6da4efc2ce30d134": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O [Decreto-Lei n.º 273/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), de 9 de Novembro, que aprovou o Regulamento do Sistema Tarifário dos Portos do Continente, estabeleceu, relativamente à tarifa da autoridade marítima, o regime de taxas e emolumentos devidos por serviços prestados pelos órgãos da Autoridade Marítima Nacional, nos portos, às tripulações, à carga e aos navios e mais previu que os respectivos valores seriam fixados por portaria do membro do Governo que tutela os referidos órgãos.\n\nFoi nesse contexto que através da [Portaria n.º 385/2002](https://diariodarepublica.pt/dr/detalhe/portaria/385-2002-303383), de 11 de Abril, foi aprovado o quadro legal sustentador dos serviços prestados pelos órgãos e serviços da Autoridade Marítima Nacional e reconfigurado parte significativa do regime vigente há aproximadamente oito décadas, manifestamente desactualizado e claramente disperso.\n\nIntegrados num âmbito, mais alargado, de reajustamento orgânico global da Autoridade Marítima Nacional, cujo enquadramento foi estabelecido pelos Decretos-Leis n.os [43/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2002-251976) e [44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), ambos de 2 de Março, estes dois diplomas vieram, também, reforçar e criar novos conceitos e critérios objectivos de fundamentação dos serviços prestados, assumindo-se uma lógica de actualidade, clarificação e optimização da prestação do serviço público.\n\nA utilização de um critério de base para construção da tabela de preços anexa ao regulamento aprovado pela [Portaria n.º 385/2002](https://diariodarepublica.pt/dr/detalhe/portaria/385-2002-303383), de 11 de Abril, permitiu alcançar um maior equilíbrio nos serviços a prestar e valores neles indexados. Não obstante, existindo a percepção da necessidade em alcançar um modelo mais estável, susceptível de acautelar maior equilíbrio entre os serviços prestados e as taxas a cobrar, ficou previsto naquela portaria que a sua revisão far-se-ia no prazo máximo de um ano, o que até à data não sucedeu.\n\nDecorridos quase quatro anos sobre o prazo limite estabelecido, urge agora fazer essa revisão através da aprovação de um regulamento cuja tabela anexa traduza uma fórmula obediente ao critério, já antes firmado, de garantir um ainda maior equilíbrio e proporcionalidade entre os serviços prestados e as taxas a cobrar.\n\nNo mesmo sentido, o tempo entretanto decorrido de vigência da [Portaria n.º 385/2002](https://diariodarepublica.pt/dr/detalhe/portaria/385-2002-303383), de 11 de Abril, deu a conhecer a imperiosa necessidade de serem produzidos alguns ajustamentos, correcções e aperfeiçoamentos ao texto inicialmente aprovado, designadamente os que decorrem da entrada em vigor do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 2 de Março, diploma onde se encontram sistemicamente estruturadas as competências dos capitães dos portos, e os que resultam de desajustamento operado pelo decurso do tempo desde a previsão expressa no n.º 3.º daquela portaria.\n\nPretende-se, deste modo, com a presente portaria, aprovar o quadro regulamentar dos serviços prestados pelos órgãos e serviços dependentes da Autoridade Marítima Nacional nos portos, bem como as tabelas de preços de utilização de material e equipamentos, e dos serviços de assinalamento marítimo, revogando-se a [Portaria n.º 385/2002](https://diariodarepublica.pt/dr/detalhe/portaria/385-2002-303383), de 11 de Abril.\n\nAssim, ao abrigo do disposto no artigo 48.º do [Decreto-Lei n.º 273/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2000-621964), de 9 de Novembro, conjugado com o disposto na alínea d) do n.º 6 do artigo 13.º do [Decreto-Lei n.º 44/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2002-251979), de 2 de Março:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:\n\n1.º É aprovado o Regulamento dos Serviços Prestados pelos Órgãos e Serviços da Autoridade Marítima nos Portos, designado como RESAMP, o qual consta do anexo à presente portaria e da qual faz parte integrante\n\n2.º A distribuição das verbas destinadas a compensações do pessoal será fixada por despacho do Ministro da Defesa Nacional, sob proposta da Autoridade Marítima Nacional.\n\n3.º A presente portaria entra em vigor 90 dias após a sua data de publicação.\n\n4.º São revogados a [Portaria n.º 385/2002](https://diariodarepublica.pt/dr/detalhe/portaria/385-2002-303383), de 11 de Abril, e o despacho n.º 15 751/2003, de 14 de Agosto.\n\n30 de Janeiro de 2007. - Pelo Ministro da Defesa Nacional, João António da Costa Mira Gomes, Secretário de Estado da Defesa Nacional e dos Assuntos do Mar."
+  },
+  "75431763f45ba84a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regulamento dos Serviços Prestados pelos Órgãos e Serviços da Autoridade Marítima nos Portos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento dos Serviços Prestados pelos Órgãos e Serviços da Autoridade Marítima nos Portos"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "75c55a977a4b0262": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento define os serviços prestados pelos órgãos e serviços da Autoridade Marítima nos portos e estabelece as regras de cobrança das taxas e respectiva distribuição, constantes da tabela I em anexo ao presente Regulamento, do qual faz parte integrante.\n\n2 - Define, ainda, as taxas a praticar pela utilização de material e equipamentos afectos aos órgãos e serviços da Autoridade Marítima, constantes da tabela II em anexo ao presente Regulamento, do qual faz parte integrante.\n\n3 - Estabelece, finalmente, os serviços a executar pela Direcção de Faróis no âmbito do assinalamento marítimo e define as respectivas taxas, as quais constam da tabela III em anexo ao presente Regulamento, do qual faz parte integrante."
+  },
+  "6ecb94d9bff38752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente Regulamento, entende-se por:\n\na) \"Vistoria suplementar\" a que for determinada pelo órgão local da Autoridade Marítima especificamente para verificação da correcção das deficiências detectadas em vistoria anterior;\n\nb) \"Tonelada ou fracção\" a unidade de referência para o cálculo das verbas que sejam cobradas em função da tonelagem de arqueação bruta (TAB);\n\nc) \"Unidade de arqueação bruta ou fracção\" - para o cálculo do valor das verbas a serem cobradas em função da dimensão global da embarcação, deverá ser considerada a arqueação bruta (GT) calculada pelas novas regras de arqueação. Quando apenas esteja disponível a arqueação em toneladas Moorsom (TAB), este valor será automaticamente considerado como valor em GT enquanto o armador ou proprietário não requeira e disponha do seu cálculo pelas novas regras;\n\nd) \"Serviço prioritário\" aquele que, pela sua natureza ou por imperativo legal, tenha de ser efectuado no prazo máximo de quarenta e oito horas;\n\ne) \"Serviço urgente\" aquele que sendo requisitado durante o período de atendimento deva ser concluído no prazo máximo de dois dias úteis;\n\nf) \"Período de atendimento\" o período durante o qual os serviços se encontram abertos para atendimento ao público e não coincidente com o período nocturno;\n\ng) \"Período nocturno\" o período que medeia entre as 20 horas de um dia e as 8 horas do dia seguinte;\n\nh) \"Dias de descanso semanal e complementar\" o domingo e o sábado, respectivamente."
+  },
+  "3deedb83950c28fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Serviços prestados e receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Serviços prestados e receitas"
+  },
+  "b567aa49853cee79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Agravamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Agravamentos\n\n1 - Os serviços prestados previstos na secção I da tabela I ficam sujeitos aos seguintes agravamentos:\n\na) Serviço efectuado fora do período de atendimento - 75%;\n\nb) Serviço efectuado em período nocturno, nos dias de descanso semanal ou complementar e em dias feriados - 100%.\n\n2 - Os serviços prestados previstos nas secções II e III da tabela I ficam sujeitos aos seguintes agravamentos:\n\na) Serviço urgente - 100%;\n\nb) Serviço efectuado fora do período de atendimento - 150%;\n\nc) Serviço efectuado em período nocturno, nos dias de descanso semanal ou complementar e em dias feriados - 200%.\n\n3 - O serviço, quando for necessário e comprovadamente, prestado fora da sede da repartição marítima será agravado relativamente às deslocações e demais custos a ela agregados nos termos da secção VII da tabela I.\n\n4 - Nas situações em que o serviço, pela sua natureza, faça coincidir vários agravamentos conforme referidos no n.º 2 do presente artigo será aplicado somente o mais elevado."
+  },
+  "56378b2d5449581e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Atribuição das receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuição das receitas\n\n1 - Sem prejuízo do disposto no número seguinte, o produto das receitas cobradas pela aplicação das taxas previstas na tabela I reverte:\n\na) Em 20% para os cofres do Estado;\n\nb) Em 80% para o orçamento da Direcção-Geral da Autoridade Marítima (DGAM).\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) As receitas adicionais provenientes dos agravamentos das verbas a cobrar, nos termos do estabelecido nos n.os 1 a 3 do artigo 3.º, as quais revertem integralmente para o orçamento da DGAM;\n\nb) As verbas cobradas ao abrigo das secções IV a VIII, todas da tabela I, revertem integralmente para o orçamento da DGAM.\n\n3 - As verbas cobradas no âmbito das tabelas II e III revertem integralmente para o orçamento da DGAM."
+  },
+  "f0d308adac06cf65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Distribuição\n\n1 - As receitas atribuídas à DGAM nos termos do artigo 4.º destinam-se a suportar os encargos decorrentes do funcionamento dos seus órgãos e serviços, a suportar despesas de investimento e a compensações com o seu pessoal, de natureza emolumentar, e serão distribuídas da seguinte forma:\n\na) As verbas cobradas pela aplicação das taxas previstas nas secções II, VII e VIII da tabela I, bem como as taxas cobradas ao abrigo das tabelas II e III, destinam-se, exclusivamente, para despesas de funcionamento e de investimento;\n\nb) As verbas resultantes da aplicação das taxas previstas nas secções I, III, IV, V e VI, todas da tabela I, revertem em 65% para compensações do pessoal e em 35% para despesas de funcionamento e de investimento;\n\nc) As verbas cobradas a título de agravamentos nos termos dos n.os 1 e 2 do artigo 3.º e respeitantes a serviços de policiamento requisitado destinam-se, exclusivamente, para compensações do pessoal.\n\n2 - Os montantes que, após aplicação do estabelecido no número anterior e nos termos do despacho que regula a distribuição das verbas destinadas a compensações do pessoal, resultarem como remanescentes destinam-se, exclusivamente, a despesas de funcionamento e de investimento.\n\n3 - O quadro seguinte resume o indicado no artigo 4.º e no presente artigo.\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/02/039000000/0475304763.pdf)"
+  },
+  "4eaa8fc162d9fb7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cobrança\n\nAs taxas previstas no presente Regulamento resultantes de serviços prestados a navios e cargas, operadores portuários e demais utentes, cuja satisfação dependa, unicamente, de deslocação à repartição marítima, serão cobradas directamente pelos órgãos e serviços da DGAM."
+  },
+  "58841e55d0002a0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Abertura de repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Abertura de repartição\n\nSempre que a prestação do serviço solicitado implicar a abertura da repartição marítima fora do período de atendimento, será, ainda, cobrada uma taxa de abertura nos termos da secção V da tabela I."
+  },
+  "6b436d5fed053b66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Actualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Actualização\n\n1 - A actualização dos valores constantes das tabelas I, II e III é efectuada, anualmente, após a publicação da taxa de inflação estabelecida pelo Instituto Nacional de Estatística verificada no ano anterior.\n\n2 - A divulgação das tabelas actualizadas e a sua entrada em vigor é efectuada através de circular da DGAM."
+  },
+  "ba26a4e52c03d943": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposição final\n\nAs situações que requeiram especificações regulamentares relativamente às previsões das tabelas anexas ao presente Regulamento, designadamente em termos de visita, despacho de largada, abertura de repartição e policiamento, serão estabelecidas por despacho do director-geral da Autoridade Marítima.\n\nTABELA I\n\nServiços prestados pelas capitanias dos portos\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/02/039000000/0475304763.pdf)\n\nTABELA II\n\nUtilização de equipamentos e materiais\n\n... (Valores em euros)\n\nNúmero da rubrica ... Material/equipamentos ... Mobilização por dia ... Utilização por dia\n\nBarreiras de contenção:\n\nBarreiras pequenas (por metro):\n\n1.1 ... OEL NOLTE - ITEECRAM ... 1,75 ... 7\n\nBarreiras médias (por metro):\n\n1.2 ... TROILBOOM GP - 900 ... 2 ... 8\n\n1.3 ... TMB HI - SEAGUARD ... 2 ... 8\n\n1.4 ... SEAPACK 80 ... 2 ... 8\n\nBarreiras grandes (por metro):\n\n1.5 ... TMB INFO 400 ... 2,25 ... 9\n\n1.6 ... TMB INFO 700 ... 2,25 ... 9\n\n1.7 ... RO - BOOM Ocean 2000 ... 2,25 ... 9\n\n1.8 ... NOFI ... 3 ... 12\n\nBarreiras de praia (por metro):\n\n1.9 ... Hoyle Marine Shore Guardian ... 2,50 ... 10\n\nBarreiras para recolha de produto:\n\n1.10 ... Sistema V-SWEEP (com recuperador) ... 270 ... 1 080\n\nFato integral com equipamento de respiração autónoma:\n\n2.1 ... Fato DRAGER ... 95 ... 380\n\nEquipamento diverso:\n\n3.1 ... CHEMSPRAY ... 21,75 ... 87\n\n3.2 ... CLEARSPRAY CS 1200 ... 145 ... 580\n\n3.3 ... SEASPRAY 2 ... 145 ... 580\n\n3.4 ... AIRSPREADING ... 145 ... 580\n\nRecuperadores:\n\n4.1 ... Recuperador DESMI, DS-210 Horizontal (Weir) ... 227,75 ... 911\n\n4.2 ... Recuperador DESMI, DS-250 Vertical (Weir) ... 227,75 ... 911\n\n4.3 ... Recuperador KOMARA, STAR (discos) ... 187 ... 748\n\n4.4 ... Recuperador KOMARA, 20K (discos) ... 168,50 ... 674\n\n4.5 ... Recuperador KOMARA, 12 Mark2 (discos) ... 156 ... 624\n\n4.6 ... Recuperador LORI, LBC (escovas) ... 212 ... 848\n\n4.7 ... Recuperador AQUA-GUARD, RBS 10D3 (discos e escovas) ... 168,50 ... 674\n\n4.8 ... Recuperador MORRIS, MI-30 (discos) ... 156 ... 624\n\n4.9 ... Recuperador OEL-NOLTE, Mopmatic-Wringler (cordão) ... 98,25 ... 393\n\n4.10 ... Recuperador RO-CLEAN, OM 240 D (cordão) ... 107,75 ... 431\n\n4.11 ... Recuperador SKIM-PACK 2200 (escorregamento) ... 37,50 ... 150\n\n4.12 ... Recuperador SLURP (escorregamento) ... 37,50 ... 150\n\n4.13 ... Recuperador VIKOVAC (vácuo) ... 145 ... 580\n\n4.14 ... Recuperador KEBAB, 600 MK2 (discos) ... 37,50 ... 150\n\n4.15 ... Recuperador TRANSREC 250 ... 3 744 ... 14 976\n\nTanques:\n\n5.1 ... Tanque FASTANK 2000, 10 m3 (aberto) ... 15,50 ... 62\n\n5.2 ... Tanque HOYLE, 20 m3 (aberto) ... 23,50 ... 94\n\n5.3 ... Tanque PRONAL, 5 m3 (auto-sustentável) ... 7,75 ... 31\n\n5.4 ... Tanque PRONAL VOLUTEX, 10 m3 (auto-sustentável) ... 15,50 ... 62\n\n5.5 ... Tanque ALMOFADA, 3 m3/5 m3 (flexível) ... 15,50 ... 62\n\n5.6 ... Tanque SOLAS, 20 m3 (flutuante) ... 58,75 ... 235\n\n5.7 ... Tanque UNIBAG OIL BAG, 15 m3 (flutuante) ... 58,75 ... 235\n\n5.8 ... Tanque UNIBAG OIL BAG, 25 m3 (flutuante) ... 72,75 ... 291\n\n5.9 ... Tanque UNIBAG OIL BAG, 50 m3 (flutuante) ... 117 ... 468\n\n5.10 ... Cisterna (22 m3) ... 72,75 ... 291\n\nBombas de trasfega:\n\n6.1 ... CAMPEON FP - 190 (8 m3/h) ... 31,25 ... 125\n\n6.2 ... DESMI DOP - 250 (100 m3/h) ... 209 ... 836\n\n6.3 ... FRAMO TK - 150 (300 m3/h) ... 702 ... 2 808\n\n6.4 ... GUINARD (40 m3/h) ... 87,25 ... 349\n\n6.5 ... HYDROVIDE (60 m3/h) ... 209 ... 836\n\n6.6 ... WILDEN M-4 (17 m3/h) ... 109,25 ... 437\n\n6.7 ... INGERSOLL-RAND (30 m3/h) ... 187,25 ... 749\n\n6.8 ... ROSENBAUER E-RK40 (30 m3/h) ... 187,25 ... 749\n\n6.9 ... SELWOOD SPATE 75C (30 m3/h) ... 187,25 ... 749\n\n6.10 ... SIMPLITE 50E (11,500 m3/h) ... 87,25 ... 349\n\nMáquinas de lavar de alta pressão:\n\n7.1 ... KARCHER HDS 1290 (ER 916) ... 3 262 ... 1 048\n\n7.2 ... KARCHER HDS 200 (BR 132) ... 209 ... 836\n\n7.3 ... KARCHER HDS 610 (ER 111) ... 187,25 ... 749\n\n7.4 ... KARCHER HDS 790C ... 146,75 ... 587\n\nMáquinas auxiliares:\n\n8.1 ... Compressor de ar INGERSOLL-RAND, P250 SD ... 374,50 ... 1 498\n\n8.2 ... Compressor de ar POSEIDON, PFU-250 ... 262 ... 1 048\n\n8.3 ... Grupo electrogéneo SUZUKI, SV1400 P ... 37,50 ... 150\n\n8.4 ... Grupo electrogéneo TURBOMAR, TUB-10-A ... 262 ... 1 048\n\nMáquinas:\n\n9.1 ... Guindaste-auto (até 25 t) ... 374,50 ... 1 498\n\n9.2 ... Rectroescavadora ... 101,50 ... 406\n\n9.3 ... Tractor agrícola ... 87,25 ... 349\n\n9.4 ... Empilhador (até 2 t) ... 46,75 ... 187\n\n9.5 ... Empilhador (até 3 t) ... 50 ... 200\n\n9.6 ... Empilhador (até 7,5 t) ... 87,25 ... 349\n\n9.7 ... Empilhador (até 7,5 t) todo-o-terreno multifunções ... 92,50 ... 370\n\nEmbarcações:\n\n10.1 ... Embarcações do SCPMH ... 650 ... 2 600\n\nOutros meios:\n\n11.1 ... Bote pneumático ZEBRO (por hora) ... (ver nota a) ... 31\n\n11.2 ... Bote semi-rígido (por hora) ... (ver nota a) ... 66\n\n11.3 ... Lancha ou embarcação (por hora) ... (ver nota a) ... 306\n\n11.4 ... Tractor ... 5,25 ... 21\n\n11.5 ... Galera de cortinas ... 1,75 ... 7\n\n11.6 ... Porta máquinas especial ... 2 ... 8\n\n11.7 ... Camião de 6 t com grua ... 5,25 ... 21\n\n11.8 ... Camião 4x4 de 4,5 t com grua ... 6,50 ... 26\n\n11.9 ... Viatura ligeira 4x4 ... 1 ... 4\n\n11.10 ... Viatura ligeira/mista ... 1 ... 4\n\n11.11 ... Moto-quatro 4x4 ... 0,25 ... 1\n\n11.12 ... Centro de operações móvel ... 312 ... 1 248\n\nMaterial de consumo:\n\n12.1 ... Rolos de manta absorvente (unidade de 100 m) ... N/A ... 312\n\n12.2 ... Barreiras absorventes (por metro) ... N/A ... 11\n\n12.3 ... Barreiras absorventes com saia (por metro) ... N/A ... 16\n\n(nota a) Meios empenhados em períodos de curta duração, taxados em base horária.\n\nObservações\n\nAs tarifas para as embarcações incluem as respectivas tripulações.\n\nOs valores não incluem os transportes e o pessoal para operar os equipamentos, bem como a limpeza após a operação.\n\nTABELA III\n\nServiços de assinalamento marítimo\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/02/039000000/0475304763.pdf)"
+  },
+  "8f49f1e042f564a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 553-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/553-a-2008-456871), publicado em 2008-06-27."
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente Regulamento, entende-se por:\n\na) \"Vistoria suplementar\" a que for determinada pelo órgão local da Autoridade Marítima especificamente para verificação da correcção das deficiências detectadas em vistoria anterior;\n\nb) \"Tonelada ou fracção\" a unidade de referência para o cálculo das verbas que sejam cobradas em função da tonelagem de arqueação bruta (TAB);\n\nc) \"Unidade de arqueação bruta ou fracção\" - para o cálculo do valor das verbas a serem cobradas em função da dimensão global da embarcação, deverá ser considerada a arqueação bruta (GT) calculada pelas novas regras de arqueação. Quando apenas esteja disponível a arqueação em toneladas Moorsom (TAB), este valor será automaticamente considerado como valor em GT enquanto o armador ou proprietário não requeira e disponha do seu cálculo pelas novas regras;\n\nd) 'Serviço prioritário' aquele que pela sua natureza ou por determinação legal tem de ser efectuado nos termos e períodos especificamente definidos por lei;\n\ne) 'Serviço urgente' aquele que sendo requisitado durante o período de atendimento deve ser concluído no prazo máximo de três dias úteis.\n\nf) \"Período de atendimento\" o período durante o qual os serviços se encontram abertos para atendimento ao público e não coincidente com o período nocturno;\n\ng) \"Período nocturno\" o período que medeia entre as 20 horas de um dia e as 8 horas do dia seguinte;\n\nh) \"Dias de descanso semanal e complementar\" o domingo e o sábado, respectivamente.\n\n> Alterado pelo/a [Portaria n.º 553-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/553-a-2008-456871), publicado em 2008-06-27."
+  },
+  "57037a7b4d3c1518": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Disposição final",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 553-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/553-a-2008-456871), publicado em 2008-06-27."
+   ],
+   "markdown": "###### Artigo 9.º — Disposição final\n\nAs situações que requeiram especificações regulamentares relativamente às previsões das tabelas anexas ao presente Regulamento, designadamente em termos de visita, despacho de largada, abertura de repartição e policiamento, serão estabelecidas por despacho do director-geral da Autoridade Marítima.\n\nTABELA I\n\nServiços prestados pelas capitanias dos portos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12302/0000600014.pdf)\n\nTABELA II\n\nUtilização de equipamentos e materiais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12302/0000600014.pdf)\n\nObservações\n\nAs tarifas para as embarcações incluem as respectivas tripulações.\n\nOs valores não incluem os transportes e o pessoal para operar os equipamentos, bem como a limpeza após a operação.\n\nTABELA III\n\nServiços de assinalamento marítimo\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12302/0000600014.pdf)\n\n> Alterado pelo/a [Portaria n.º 553-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/553-a-2008-456871), publicado em 2008-06-27."
+  }
+ }
+}

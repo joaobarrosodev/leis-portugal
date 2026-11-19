@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-06-30'
+version_history:
+  file: portaria-210-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-06-30'
+    amending: pt:dre:456871:por
+    amending_title: Portaria n.º 553-A/2008
+    changes:
+    - Altera Artigo ANEXO — Regulamento dos Serviços Prestados pelos Órgãos e Serviços da Autoridade Marítima nos Portos::2.º
+    - Altera Artigo ANEXO — Regulamento dos Serviços Prestados pelos Órgãos e Serviços da Autoridade Marítima nos Portos::9.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T17:07:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 553-A/2008. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2007/portaria-210-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -176,15 +192,17 @@ b) "Tonelada ou fracção" a unidade de referência para o cálculo das verbas q
 
 c) "Unidade de arqueação bruta ou fracção" - para o cálculo do valor das verbas a serem cobradas em função da dimensão global da embarcação, deverá ser considerada a arqueação bruta (GT) calculada pelas novas regras de arqueação. Quando apenas esteja disponível a arqueação em toneladas Moorsom (TAB), este valor será automaticamente considerado como valor em GT enquanto o armador ou proprietário não requeira e disponha do seu cálculo pelas novas regras;
 
-d) "Serviço prioritário" aquele que, pela sua natureza ou por imperativo legal, tenha de ser efectuado no prazo máximo de quarenta e oito horas;
+d) 'Serviço prioritário' aquele que pela sua natureza ou por determinação legal tem de ser efectuado nos termos e períodos especificamente definidos por lei;
 
-e) "Serviço urgente" aquele que sendo requisitado durante o período de atendimento deva ser concluído no prazo máximo de dois dias úteis;
+e) 'Serviço urgente' aquele que sendo requisitado durante o período de atendimento deve ser concluído no prazo máximo de três dias úteis.
 
 f) "Período de atendimento" o período durante o qual os serviços se encontram abertos para atendimento ao público e não coincidente com o período nocturno;
 
 g) "Período nocturno" o período que medeia entre as 20 horas de um dia e as 8 horas do dia seguinte;
 
 h) "Dias de descanso semanal e complementar" o domingo e o sábado, respectivamente.
+
+> Alterado pelo/a [Portaria n.º 553-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/553-a-2008-456871), publicado em 2008-06-27.
 
 ### CAPÍTULO II — Serviços prestados e receitas
 
@@ -262,213 +280,13 @@ TABELA I
 
 Serviços prestados pelas capitanias dos portos
 
-[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/02/039000000/0475304763.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12302/0000600014.pdf)
 
 TABELA II
 
 Utilização de equipamentos e materiais
 
-... (Valores em euros)
-
-Número da rubrica ... Material/equipamentos ... Mobilização por dia ... Utilização por dia
-
-Barreiras de contenção:
-
-Barreiras pequenas (por metro):
-
-1.1 ... OEL NOLTE - ITEECRAM ... 1,75 ... 7
-
-Barreiras médias (por metro):
-
-1.2 ... TROILBOOM GP - 900 ... 2 ... 8
-
-1.3 ... TMB HI - SEAGUARD ... 2 ... 8
-
-1.4 ... SEAPACK 80 ... 2 ... 8
-
-Barreiras grandes (por metro):
-
-1.5 ... TMB INFO 400 ... 2,25 ... 9
-
-1.6 ... TMB INFO 700 ... 2,25 ... 9
-
-1.7 ... RO - BOOM Ocean 2000 ... 2,25 ... 9
-
-1.8 ... NOFI ... 3 ... 12
-
-Barreiras de praia (por metro):
-
-1.9 ... Hoyle Marine Shore Guardian ... 2,50 ... 10
-
-Barreiras para recolha de produto:
-
-1.10 ... Sistema V-SWEEP (com recuperador) ... 270 ... 1 080
-
-Fato integral com equipamento de respiração autónoma:
-
-2.1 ... Fato DRAGER ... 95 ... 380
-
-Equipamento diverso:
-
-3.1 ... CHEMSPRAY ... 21,75 ... 87
-
-3.2 ... CLEARSPRAY CS 1200 ... 145 ... 580
-
-3.3 ... SEASPRAY 2 ... 145 ... 580
-
-3.4 ... AIRSPREADING ... 145 ... 580
-
-Recuperadores:
-
-4.1 ... Recuperador DESMI, DS-210 Horizontal (Weir) ... 227,75 ... 911
-
-4.2 ... Recuperador DESMI, DS-250 Vertical (Weir) ... 227,75 ... 911
-
-4.3 ... Recuperador KOMARA, STAR (discos) ... 187 ... 748
-
-4.4 ... Recuperador KOMARA, 20K (discos) ... 168,50 ... 674
-
-4.5 ... Recuperador KOMARA, 12 Mark2 (discos) ... 156 ... 624
-
-4.6 ... Recuperador LORI, LBC (escovas) ... 212 ... 848
-
-4.7 ... Recuperador AQUA-GUARD, RBS 10D3 (discos e escovas) ... 168,50 ... 674
-
-4.8 ... Recuperador MORRIS, MI-30 (discos) ... 156 ... 624
-
-4.9 ... Recuperador OEL-NOLTE, Mopmatic-Wringler (cordão) ... 98,25 ... 393
-
-4.10 ... Recuperador RO-CLEAN, OM 240 D (cordão) ... 107,75 ... 431
-
-4.11 ... Recuperador SKIM-PACK 2200 (escorregamento) ... 37,50 ... 150
-
-4.12 ... Recuperador SLURP (escorregamento) ... 37,50 ... 150
-
-4.13 ... Recuperador VIKOVAC (vácuo) ... 145 ... 580
-
-4.14 ... Recuperador KEBAB, 600 MK2 (discos) ... 37,50 ... 150
-
-4.15 ... Recuperador TRANSREC 250 ... 3 744 ... 14 976
-
-Tanques:
-
-5.1 ... Tanque FASTANK 2000, 10 m3 (aberto) ... 15,50 ... 62
-
-5.2 ... Tanque HOYLE, 20 m3 (aberto) ... 23,50 ... 94
-
-5.3 ... Tanque PRONAL, 5 m3 (auto-sustentável) ... 7,75 ... 31
-
-5.4 ... Tanque PRONAL VOLUTEX, 10 m3 (auto-sustentável) ... 15,50 ... 62
-
-5.5 ... Tanque ALMOFADA, 3 m3/5 m3 (flexível) ... 15,50 ... 62
-
-5.6 ... Tanque SOLAS, 20 m3 (flutuante) ... 58,75 ... 235
-
-5.7 ... Tanque UNIBAG OIL BAG, 15 m3 (flutuante) ... 58,75 ... 235
-
-5.8 ... Tanque UNIBAG OIL BAG, 25 m3 (flutuante) ... 72,75 ... 291
-
-5.9 ... Tanque UNIBAG OIL BAG, 50 m3 (flutuante) ... 117 ... 468
-
-5.10 ... Cisterna (22 m3) ... 72,75 ... 291
-
-Bombas de trasfega:
-
-6.1 ... CAMPEON FP - 190 (8 m3/h) ... 31,25 ... 125
-
-6.2 ... DESMI DOP - 250 (100 m3/h) ... 209 ... 836
-
-6.3 ... FRAMO TK - 150 (300 m3/h) ... 702 ... 2 808
-
-6.4 ... GUINARD (40 m3/h) ... 87,25 ... 349
-
-6.5 ... HYDROVIDE (60 m3/h) ... 209 ... 836
-
-6.6 ... WILDEN M-4 (17 m3/h) ... 109,25 ... 437
-
-6.7 ... INGERSOLL-RAND (30 m3/h) ... 187,25 ... 749
-
-6.8 ... ROSENBAUER E-RK40 (30 m3/h) ... 187,25 ... 749
-
-6.9 ... SELWOOD SPATE 75C (30 m3/h) ... 187,25 ... 749
-
-6.10 ... SIMPLITE 50E (11,500 m3/h) ... 87,25 ... 349
-
-Máquinas de lavar de alta pressão:
-
-7.1 ... KARCHER HDS 1290 (ER 916) ... 3 262 ... 1 048
-
-7.2 ... KARCHER HDS 200 (BR 132) ... 209 ... 836
-
-7.3 ... KARCHER HDS 610 (ER 111) ... 187,25 ... 749
-
-7.4 ... KARCHER HDS 790C ... 146,75 ... 587
-
-Máquinas auxiliares:
-
-8.1 ... Compressor de ar INGERSOLL-RAND, P250 SD ... 374,50 ... 1 498
-
-8.2 ... Compressor de ar POSEIDON, PFU-250 ... 262 ... 1 048
-
-8.3 ... Grupo electrogéneo SUZUKI, SV1400 P ... 37,50 ... 150
-
-8.4 ... Grupo electrogéneo TURBOMAR, TUB-10-A ... 262 ... 1 048
-
-Máquinas:
-
-9.1 ... Guindaste-auto (até 25 t) ... 374,50 ... 1 498
-
-9.2 ... Rectroescavadora ... 101,50 ... 406
-
-9.3 ... Tractor agrícola ... 87,25 ... 349
-
-9.4 ... Empilhador (até 2 t) ... 46,75 ... 187
-
-9.5 ... Empilhador (até 3 t) ... 50 ... 200
-
-9.6 ... Empilhador (até 7,5 t) ... 87,25 ... 349
-
-9.7 ... Empilhador (até 7,5 t) todo-o-terreno multifunções ... 92,50 ... 370
-
-Embarcações:
-
-10.1 ... Embarcações do SCPMH ... 650 ... 2 600
-
-Outros meios:
-
-11.1 ... Bote pneumático ZEBRO (por hora) ... (ver nota a) ... 31
-
-11.2 ... Bote semi-rígido (por hora) ... (ver nota a) ... 66
-
-11.3 ... Lancha ou embarcação (por hora) ... (ver nota a) ... 306
-
-11.4 ... Tractor ... 5,25 ... 21
-
-11.5 ... Galera de cortinas ... 1,75 ... 7
-
-11.6 ... Porta máquinas especial ... 2 ... 8
-
-11.7 ... Camião de 6 t com grua ... 5,25 ... 21
-
-11.8 ... Camião 4x4 de 4,5 t com grua ... 6,50 ... 26
-
-11.9 ... Viatura ligeira 4x4 ... 1 ... 4
-
-11.10 ... Viatura ligeira/mista ... 1 ... 4
-
-11.11 ... Moto-quatro 4x4 ... 0,25 ... 1
-
-11.12 ... Centro de operações móvel ... 312 ... 1 248
-
-Material de consumo:
-
-12.1 ... Rolos de manta absorvente (unidade de 100 m) ... N/A ... 312
-
-12.2 ... Barreiras absorventes (por metro) ... N/A ... 11
-
-12.3 ... Barreiras absorventes com saia (por metro) ... N/A ... 16
-
-(nota a) Meios empenhados em períodos de curta duração, taxados em base horária.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12302/0000600014.pdf)
 
 Observações
 
@@ -480,4 +298,6 @@ TABELA III
 
 Serviços de assinalamento marítimo
 
-[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/02/039000000/0475304763.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12302/0000600014.pdf)
+
+> Alterado pelo/a [Portaria n.º 553-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/553-a-2008-456871), publicado em 2008-06-27.

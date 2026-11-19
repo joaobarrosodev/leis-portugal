@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:692404:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-11-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4d8df4125022fbb5",
+    "82f491b84d5c2343",
+    "911b28a38a668e4e",
+    "8ac82c29d0e1117d",
+    "a6b52cdb1b17b3d1",
+    "8fd53ce2eb1328fd",
+    "60c875731bb1ff54",
+    "06274355199a6041",
+    "47816c2280592fa9",
+    "7710d25e295cadeb",
+    "f4d21fc6d84e883a",
+    "c74f7e929996c767",
+    "9f0a60a4c6598d7b"
+   ]
+  },
+  {
+   "date": "1997-02-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570112:por",
+     "title": "Portaria n.º 79/97",
+     "published": "1997-02-03",
+     "dre_path": "/dr/detalhe/portaria/79-1997-570112"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Regulamento do Documento de Cobrança::3.º",
+    "Altera Artigo ANEXO — Regulamento do Documento de Cobrança::4.º",
+    "Altera Artigo ANEXO — Regulamento do Documento de Cobrança::7.º",
+    "Altera Artigo ANEXO I — Modelo A"
+   ],
+   "fragments": [
+    "4d8df4125022fbb5",
+    "82f491b84d5c2343",
+    "911b28a38a668e4e",
+    "8ac82c29d0e1117d",
+    "3a04aafcd6e720a2",
+    "c72683b629ceda38",
+    "60c875731bb1ff54",
+    "06274355199a6041",
+    "4b467eb3c9f61fb5",
+    "0b511046adc7828b",
+    "f4d21fc6d84e883a",
+    "c74f7e929996c767",
+    "9f0a60a4c6598d7b"
+   ]
+  }
+ ],
+ "fragments": {
+  "4d8df4125022fbb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Novembro\n\nO novo modelo de gestão da tesouraria do Estado, aprovado pelo [Decreto-Lei n.º 275-A/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-1993-686384), de 9 de Agosto, pressupondo a implementação de novos circuitos de recebimentos, estabelece como elemento essencial para o bom funcionamento do sistema o documento de cobrança, título pelo qual se exprime a relação obrigacional entre o Estado e o devedor.\n\nA uniformização dos modelos de cobrança trará evidentes benefícios para o contribuinte e para a Administração, quanto à facilidade do cumprimento das obrigações, à eficácia da gestão e ao controlo dos recebimentos.\n\nImporta, deste modo, com vista a um correcto processamento da cobrança, estabelecer o seu conteúdo e modo de utilização.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, nos termos do n.º 2 do artigo 10.º do [Decreto-Lei n.º 275-A/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-1993-686384), de 9 de Agosto, que seja aprovado o Regulamento do Documento de Cobrança, anexo à presente portaria, que dela faz parte integrante.\n\nMinistério das Finanças.\n\nAssinada em 12 de Outubro de 1995.\n\nO Ministro das Finanças, Eduardo de Almeida Catroga."
+  },
+  "82f491b84d5c2343": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regulamento do Documento de Cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento do Documento de Cobrança"
+  },
+  "911b28a38a668e4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O disposto no presente Regulamento aplica-se, no território nacional, à arrecadação de todas as receitas do Estado, bem como às entradas de fundos na tesouraria do Estado, que, nos termos da lei, se destinam a terceiros.\n\n2 - A utilização do documento de cobrança pelas entidades liquidadoras e administradoras das receitas e operações de tesouraria depende do prévio registo na Direcção-Geral do Tesouro, ao qual será atribuído um número identificador.\n\n3 - Enquanto não se efectuar o registo referido no número anterior, aplicam-se os procedimentos de cobrança anteriormente existentes."
+  },
+  "8ac82c29d0e1117d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação\n\nPelo presente Regulamento são aprovados os modelos A, B, C e D do documento de cobrança, bem como as respectivas especificações complementares constantes dos anexos I, II, III e IV, os quais fazem parte integrante do presente Regulamento."
+  },
+  "a6b52cdb1b17b3d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Forma\n\n1 - Os documentos de cobrança dos modelos A, B e D são constituídos por três partes destacáveis: o recibo, que será devolvido à entidade que efectua o pagamento após a cobrança, devidamente validado; o talão de controlo, que fica à disposição da entidade cobradora; o talão de leitura, que será devolvido à entidade que administra a receita.\n\n2 - O documento de cobrança do modelo C é composto por original e duplicado, sendo o original constituído por três partes destacáveis, servindo o duplicado de recibo, que será devolvido à entidade que efectua o pagamento, devidamente validado. Do original, o talão de controlo será retido pela entidade cobradora e o talão de leitura será, juntamente com o duplicado do recibo, remetido de acordo com o estabelecido no artigo 6.º\n\n3 - O documento de cobrança integra ainda uma linha destinada a leitura óptica, da qual deverão constar os elementos essenciais ao controlo da cobrança, conforme os anexos I, II, III e IV.\n\n4 - Quando o pagamento for efectuado por transferência electrónica de fundos ou em terminais de pagamento automático, o respectivo suporte informático deverá disponibilizar todos os elementos essenciais ao controlo da cobrança, servindo de recibo o comprovante emitido pelos referidos sistemas de pagamento, quando apresentado conjuntamente com o documento de cobrança, que ficará na posse da entidade pagadora."
+  },
+  "8fd53ce2eb1328fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Emissão\n\n1 - Os documentos de cobrança do modelo A serão emitidos pelas entidades administradoras ou liquidadoras da receita, através do recurso aos meios informáticos para a respectiva emissão, numeração e aposição da linha óptica.\n\n2 - Os documentos de cobrança do modelo B serão emitidos pelos serviços administradores ou liquidadores, através do recurso aos meios informáticos para a respectiva emissão, numeração e aposição da linha óptica, competindo à entidade devedora preencher o valor a pagar.\n\n3 - Os documentos de cobrança do modelo C serão pré-numerados, identificarão a receita e o serviço que administra ou liquida e destinam-se à autoliquidação, retenção na fonte ou pagamento por conta, em que não haja emissão de impressos do modelo B, sendo preenchidos pela entidade devedora.\n\n4 - Os documentos de cobrança do modelo D substituem os documentos do modelo A, sendo utilizados e emitidos pelas entidades administradoras ou liquidadoras da receita que não disponham, ou que não tenham operacionais, os meios informáticos para a realização da liquidação e emissão do documento de cobrança."
+  },
+  "60c875731bb1ff54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Segunda via",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Segunda via\n\n1 - Em casos de extravio, furto ou destruição, será emitida pela entidade administradora, a solicitação do devedor e no prazo máximo de cinco dias úteis contados da data do pedido, uma segunda via do documento de cobrança.\n\n2 - A ocorrência dos factos referidos no número anterior não suspende nem interrompe os prazos previstos nos regimes legais aplicáveis às respectivas cobranças."
+  },
+  "06274355199a6041": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Remessa da documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Remessa da documentação\n\n1 - No prazo máximo de seis dias úteis contados da data do pagamento e nos termos a definir por despacho do director-geral do Tesouro, ouvidas as entidade responsáveis pela liquidação ou administração da receita cobrada, serão remetidos a estas, caso estejam interessadas, exemplares dos talões de leitura do documento de cobrança, comprovativos dos recebimentos efectuados, acompanhados do resumo do movimento, bem como do original do comprovativo do documento do modelo C, ficando o respectivo talão de controlo arquivado na caixa ou entidade colaboradora que efectuou a cobrança, até à aprovação da prestação de contas.\n\n2 - Dos recebimentos processados por via electrónica será enviada à entidade responsável pela administração da receita, no prazo máximo de três dias úteis após a data da cobrança, a informação disponibilizada pelo suporte informático.\n\n3 - O envio do correspondente suporte informático considera-se para todos os efeitos, equivalente à remessa dos documentos referidos no n.º 1."
+  },
+  "47816c2280592fa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo\n\n1 - O registo na Direcção-Geral do Tesouro dos modelos de documento de cobrança, a utilizar para cada receita, estabelecendo a adaptação da área para discriminação da receita dos modelos aprovados pelo presente Regulamento, será efectuado mediante despacho do director-geral do Tesouro, o qual será objecto de publicação na 2.ª série do Diário da República sempre que se refira a documentos do modelo C.\n\n2 - No âmbito do processo de registo, a Direcção-Geral do Tesouro apreciará se foram cumpridos os requisitos definidos na presente portaria, nomeadamente o adequado posicionamento da linha óptica."
+  },
+  "7710d25e295cadeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Modelo A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Modelo A\n\n1 - Este modelo, que será emitido pela entidade liquidadora, é constituído por uma única página.\n\nConterá três componentes: o recibo, o talão de controlo e o talão de leitura óptica, com o posicionamento e a forma como se descrevem a seguir:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)\n\n1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.\n\nNo topo do lado esquerdo conterá as seguintes informações:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);\n\nIdentificação da receita/logótipo (zona onde se identifica a receita e se apõe o logótipo, se houver);\n\nIdentificação do documento;\n\nIdentificação fiscal da entidade pagadora (terá espaço para dois números, a utilizar quando necessário).\n\nNo topo do lado direito conterá o seguinte:\n\nTítulo do documento de cobrança e indicação do modelo;\n\nÁrea reservada para a janela (necessária para expedição sem envelope) ou identificação da entidade pagadora - nome(s).\n\nNo caso de o impresso conter janela, a identificação da entidade pagadora deverá ser aposta na parte superior da zona para discriminação da receita.\n\nNa parte restante desta componente existirá área para discriminação da receita, adequada à respectiva natureza, havendo obrigatoriamente na parte inferior um espaço para certificação da cobrança e a zona para indicação da data limite do pagamento e do valor a pagar.\n\n1.2 - Talão de controlo. - Esta componente, situada na parte inferior esquerda do documento, é a que se destina ao caixa cobrador para documentar a respectiva operação de cobrança.\n\nNo topo conterá a zona para:\n\nCertificação da cobrança;\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão).\n\nA seguir existirá a zona para impressão de:\n\nIdentificação do documento;\n\nValor a pagar.\n\nTerminará com um espaço destinado a instruções para o pagamento, incluindo por Multibanco, quando tal for possível, e a indicação dos balcões onde possa ser feito o pagamento, caso haja limitações nesse sentido. As instruções de pagamento poderão também ser incluídas no verso de todo o documento.\n\n1.3 - Talão de leitura. - É a componente que contém a linha óptica para efeito da respectiva recolha automática dos dados da cobrança.\n\nA parte superior conterá:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);\n\nZona para certificação da cobrança.\n\nConterá a seguir zonas para imprimir:\n\nIdentificação da receita;\n\nIdentificação do documento;\n\nIdentificação fiscal da entidade pagadora;\n\nValor a pagar;\n\nIdentificação da entidade pagadora (nome e endereço), posicionada de modo a aparecer, após a sua dobragem para expedição, na janela antes referida, ou em janela do envelope, se for usado este meio para a expedição.\n\nNa parte inferior estará reservada uma zona para a linha óptica, impressa com caracteres OCRB, que terá a seguinte composição:\n\nIdentificação do documento:\n\nAno: (2) (posições);\n\nEntidade liquidadora/balcão: (8) (posições);\n\nTipo de receita - RE/OT: (1) (posição);\n\nDígito de controlo: (1) (posição);\n\nNúmero sequencial: (11) (posições);\n\nSeparador: (1) (posição);\n\nEntidade controladora da cobrança: (4) (posições);\n\nSeparador: (1) (posição);\n\nValor: (12) (posições);\n\nDígito de controlo: (2) (posições).\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)"
+  },
+  "f4d21fc6d84e883a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Modelo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Modelo B\n\n1 - Este modelo, que será emitido pela entidade liquidadora, é constituído por uma única página, competindo à entidade pagadora a inscrição do montante a pagar.\n\nConterá três componentes: o recibo, o talão de controlo e o talão de leitura óptica, com o posicionamento e a forma como se descrevem a seguir:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)\n\n1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.\n\nNo topo do lado esquerdo conterá as seguintes informações:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);\n\nIdentificação da receita/logótipo (zona onde se identifica a receita e se apõe o logótipo, se houver);\n\nIdentificação do documento;\n\nIdentificação fiscal da entidade pagadora (terá espaço para dois números, a utilizar quando necessário).\n\nNo topo do lado direito conterá o seguinte:\n\nTítulo do documento de cobrança e indicação do modelo;\n\nÁrea reservada para a janela (necessária para expedição sem envelope) ou identificação da entidade pagadora - nome(s).\n\nNo caso de o impresso conter janela, a identificação da entidade pagadora deverá ser aposta na parte superior da zona para discriminação da receita.\n\nNa parte restante desta componente existirá área para discriminação da receita, adequada à respectiva natureza, havendo obrigatoriamente na parte inferior um espaço para certificação da cobrança e a zona para indicação da data limite do pagamento e do valor a pagar, por extenso (*).\n\n1.2 - Talão de controlo. - Esta componente, situada na parte inferior esquerda do documento, é a que se destina ao caixa cobrador para documentar a respectiva operação de cobrança.\n\nNo topo conterá a zona para:\n\nCertificação da cobrança;\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão).\n\nA seguir existirá a zona para impressão de:\n\nIdentificação do documento;\n\nValor a pagar (*).\n\nTerminará com um espaço destinado a instruções para o pagamento, incluindo por Multibanco, quando tal for possível, e a indicação dos balcões onde possa ser feito o pagamento, caso haja limitações nesse sentido. As instruções de pagamento poderão também ser incluídas no verso de todo o documento.\n\n1.3 - Talão de leitura. - É a componente que contém a linha óptica para efeito da respectiva recolha automática dos dados da cobrança.\n\nA parte superior conterá:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);\n\nZona para certificação da cobrança.\n\nConterá a seguir zonas para imprimir:\n\nIdentificação da receita;\n\nIdentificação do documento;\n\nIdentificação fiscal da entidade pagadora;\n\nValor a pagar (*).\n\nIdentificação da entidade pagadora (nome e endereço), posicionada de modo a aparecer, após a sua dobragem para expedição, na janela antes referida, ou em janela do envelope, se for usado este meio para a expedição.\n\nNa parte inferior estará reservada uma zona para a linha óptica, impressa com caracteres OCRB, que terá a seguinte composição:\n\nIdentificação do documento:\n\nAno: (2) (posições);\n\nEntidade liquidadora/balcão: (8) (posições);\n\nTipo de receita - RE/OT: (1) (posição);\n\nDígito de controlo: (1) (posição);\n\nNúmero sequencial: (11) (posições);\n\nSeparador: (1) (posição);\n\nEntidade controladora da cobrança: (4) (posições).\n\n1.4 - Os elementos assinalados com (*) serão preenchidos pelas entidades pagadoras.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)"
+  },
+  "c74f7e929996c767": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Modelo C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Modelo C\n\n1 - Este modelo, que será preenchido pela entidade pagadora, é constituído por duas páginas. A primeira página conterá três componentes: o duplicado do recibo, o talão de controlo e o talão de leitura óptica, e a segunda página (duplicado, obtido por decalque) abrangerá apenas a parte do recibo, com o posicionamento e a forma como se descrevem a seguir:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)\n\n1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.\n\nNo topo do lado esquerdo conterá as seguintes informações:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão) (*);\n\nIdentificação da receita/logótipo (zona onde se identifica a receita e se apõe o logótipo, se houver) (*);\n\nIdentificação do documento (*);\n\nIdentificação fiscal da entidade pagadora (terá espaço para dois números, quando seja o caso).\n\nNo topo do lado direito conterá o seguinte:\n\nTítulo do documento de cobrança e indicação do modelo (*);\n\nEspaço para a inscrição dos elementos referentes à identificação da entidade pagadora - nome(s) e endereço.\n\nNa parte restante desta componente existirá área para discriminação da receita, adequada à respectiva natureza, havendo obrigatoriamente na parte inferior um espaço para certificação da cobrança e a zona para indicação do valor a pagar, por extenso.\n\n1.2 - Talão de controlo. - Esta componente, situada na parte inferior esquerda do documento, é a que se destina ao caixa cobrador para documentar a respectiva operação de cobrança.\n\nNo topo conterá a zona para:\n\nCertificação da cobrança;\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão) (*).\n\nA seguir existirá a zona destinada a:\n\nIdentificação do documento (*);\n\nValor a pagar.\n\nTerminará com um espaço para as instruções para o pagamento, as quais poderão também ser incluídas no verso de todo o documento (*).\n\n1.3 - Talão de leitura. - É a componente que contém linha óptica para efeito da respectiva recolha automática (parcial) dos dados da cobrança.\n\nA parte superior conterá:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão) (*);\n\nZona para certificação da cobrança.\n\nConterá a seguir zonas para imprimir:\n\nIdentificação da receita;\n\nIdentificação do documento (*);\n\nIdentificação fiscal da entidade pagadora;\n\nValor a pagar.\n\nNa parte inferior estará reservada uma zona para a linha óptica (*), impressa com caracteres OCRB, que terá a seguinte composição:\n\nIdentificação do documento:\n\nAno: (2) (posições);\n\nEntidade liquidadora/balcão: (8) (posições);\n\nTipo de receita - RE/OT: (1) (posição);\n\nDígito de controlo: (1) (posição);\n\nNúmero sequencial: (11) (posições);\n\nSeparador: (1) (posição);\n\nEntidade controladora da cobrança: (4) (posições).\n\n1.4 - Os elementos assinalados com (*) serão pré-impressos nos documentos facultados às entidades pagadoras, as quais preencherão os restantes dados.\n\n2 - O recibo fica na posse da entidade pagadora, sendo o duplicado, constante da primeira página, enviado à entidade liquidadora.\n\n3 - Poderão ser introduzidos na primeira página, no duplicado do recibo, elementos que viabilizem a respectiva leitura óptica integral, nomeadamente quadrículas e marcas ópticas, respeitando as características técnicas necessárias para o efeito.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)"
+  },
+  "9f0a60a4c6598d7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Modelo D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Modelo D\n\n1 - Este modelo, que será emitido pela entidade liquidadora, é constituído por uma única página.\n\nConterá três componentes: o recibo, o talão de controlo e o talão de leitura óptica, com o posicionamento e a forma como se descrevem a seguir:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)\n\n1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.\n\nNo topo do lado esquerdo conterá as seguintes informações:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);\n\nIdentificação da receita/logótipo (zona onde se identifica a receita e se apõe o logótipo, se houver);\n\nIdentificação do documento;\n\nIdentificação fiscal da entidade pagadora (terá espaço para dois números, quando seja o caso).\n\nNo topo do lado direito conterá o seguinte:\n\nTítulo do documento de cobrança e indicação do modelo;\n\nÁrea reservada para a janela (necessária para expedição sem envelope) ou identificação da entidade pagadora - nome(s).\n\nNo caso de o impresso conter janela, a identificação da entidade pagadora deverá ser aposta na parte superior da zona para discriminação da receita.\n\nNa parte restante desta componente existirá área para discriminação da receita, adequada à respectiva natureza, havendo obrigatoriamente na parte inferior um espaço para certificação da cobrança e a zona para indicação da data limite do pagamento e do valor a pagar.\n\n1.2 - Talão de controlo. - Esta componente, situada na parte inferior esquerda do documento, é a que se destina ao caixa cobrador para documentar a respectiva operação de cobrança.\n\nNo topo conterá a zona para:\n\nCertificação da cobrança;\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão).\n\nA seguir existirá a zona para impressão de:\n\nIdentificação do documento;\n\nValor a pagar.\n\nTerminará com um espaço destinado a instruções para o pagamento, incluindo por Multibanco, quando tal for possível, e a indicação dos balcões onde possa ser feito o pagamento, caso haja limitações nesse sentido. As instruções de pagamento poderão também ser incluídas no verso de todo o documento.\n\n1.3 - Talão de leitura. - É a componente que contém a linha óptica para efeito da respectiva recolha automática dos dados da cobrança.\n\nA parte superior conterá:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);\n\nZona para certificação da cobrança.\n\nConterá a seguir zonas para imprimir:\n\nIdentificação da receita;\n\nIdentificação do documento;\n\nIdentificação fiscal da entidade pagadora;\n\nValor a pagar;\n\nIdentificação da entidade pagadora (nome e endereço), posicionada de modo a aparecer, após a sua dobragem para expedição, na janela antes referida, ou em janela do envelope, se for usado este meio para a expedição.\n\nNa parte inferior estará reservada uma zona para a linha óptica, impressa com caracteres OCRB, que terá a seguinte composição:\n\nIdentificação do documento:\n\nAno: (2) (posições);\n\nEntidade liquidadora/balcão: (8) (posições);\n\nTipo de receita - RE/OT: (1) (posição);\n\nDígito de controlo: (1) (posição);\n\nNúmero sequencial: (11) (posições);\n\nSeparador: (1) (posição);\n\nEntidade controladora da cobrança: (4) (posições).\n\n1.4 - A linha óptica será pré-impressa, ressalvando os casos em que tal não seja possível.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)"
+  },
+  "3a04aafcd6e720a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Forma",
+   "in_force_from": "1997-02-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03."
+   ],
+   "markdown": "###### Artigo 3.º — Forma\n\n1 - Os documentos de cobrança dos modelos A, B e D são constituídos por três partes destacáveis: o recibo, que será devolvido à entidade que efectua o pagamento após a cobrança, devidamente validado; o talão de controlo, que fica à disposição da entidade cobradora; o talão de leitura, que será devolvido à entidade que administra a receita.\n\n2 - O documento de cobrança do modelo C é composto por original e duplicado, sendo o original constituído por três partes destacáveis, servindo o duplicado de recibo, que será devolvido à entidade que efectua o pagamento, devidamente validado. Do original, o talão de controlo será retido pela entidade cobradora e o talão de leitura será, juntamente com o duplicado do recibo, remetido de acordo com o estabelecido no artigo 6.º\n\n3 - O documento de cobrança integra ainda uma linha destinada a leitura óptica, da qual deverão constar os elementos essenciais ao controlo da cobrança, conforme os anexos I, II, III e IV.\n\n4 - Quando o pagamento for efectuado por transferência electrónica de fundos ou em terminais de pagamento automático, o respectivo suporte informático deverá disponibilizar todos os elementos essenciais ao controlo da cobrança, servindo de recibo o comprovante emitido pelos referidos sistemas de pagamento.\n\n> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03."
+  },
+  "c72683b629ceda38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Emissão",
+   "in_force_from": "1997-02-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03."
+   ],
+   "markdown": "###### Artigo 4.º — Emissão\n\n1 - Os documentos de cobrança do modelo A serão emitidos pelas entidades administradoras ou liquidadoras da receita, através do recurso aos meios informáticos para a respectiva emissão, numeração e aposição da linha óptica.\n\n2 - Os documentos de cobrança do modelo B serão emitidos pelos serviços administradores ou liquidadores, através do recurso aos meios informáticos para a respectiva emissão, numeração e aposição da linha óptica, competindo à entidade devedora preencher o valor a pagar.\n\n3 - Os documentos de cobrança do modelo C serão pré-numerados, identificarão a receita e o serviço que administra ou liquida e destinam-se à autoliquidação, retenção na fonte ou pagamento por conta, em que não haja emissão de impressos do modelo B, sendo preenchidos pela entidade devedora.\n\n4 - Os documentos de cobrança do modelo D substituem os documentos do modelo A, sendo utilizados e emitidos pelas entidades administradoras ou liquidadoras da receita que não disponham, ou que não tenham operacionais, os meios informáticos para a realização da liquidação e emissão do documento de cobrança.\n\n5 - Os documentos de cobrança do modelo C poderão ser desmaterializados através da sua geração por sistemas electrónicos de cobrança que garantam as especificações referidas no n.º 3, sendo a sua numeração processada automaticamente pelo sistema gerador.\n\n> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03."
+  },
+  "4b467eb3c9f61fb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Registo",
+   "in_force_from": "1997-02-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03."
+   ],
+   "markdown": "###### Artigo 7.º — Registo\n\n1 - O registo na Direcção-Geral do Tesouro dos modelos de documento de cobrança, a utilizar para cada receita, estabelecendo a adaptação da área para discriminação da receita dos modelos aprovados pelo presente Regulamento, será efectuado mediante despacho do director-geral do Tesouro, o qual será objecto de publicação na 2.ª série do Diário da República sempre que se refira a documentos do modelo C.\n\n2 - No âmbito do processo de registo, a Direcção-Geral do Tesouro apreciará se foram cumpridos os requisitos definidos na presente portaria, nomeadamente o adequado posicionamento da linha óptica.\n\n3 - Aplica-se, com as necessárias adaptações, nomeadamente ao disposto no n.º 2, o presente artigo aos documentos de cobrança desmaterializados previstos no n.º 5 do artigo 4.º\n\n> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03."
+  },
+  "0b511046adc7828b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Modelo A",
+   "in_force_from": "1997-02-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03."
+   ],
+   "markdown": "## ANEXO I — Modelo A\n\n1 - Este modelo, que será emitido pela entidade liquidadora, é constituído por uma única página.\n\nConterá três componentes: o recibo, o talão de controlo e o talão de leitura óptica, com o posicionamento e a forma como se descrevem a seguir:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)\n\n1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.\n\nNo topo do lado esquerdo conterá as seguintes indicações:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);\n\nIdentificação da receita/logótipo (zona onde se identifica a receita e se apõe o logótipo, se houver);\n\nIdentificação do documento;\n\nIdentificação fiscal da entidade pagadora ou talão de registo, segundo o modelo normalizado adoptado pelos CTT.\n\nNo topo do lado direito conterá o seguinte:\n\nTítulo do documento de cobrança e indicação do modelo ou indicações normalizadas referentes ao invólucro mensagem e ao registo postal, segundo o modelo normalizado adoptado pelos CTT;\n\nÁrea reservada para a janela ou identificação da entidade pagadora.\n\nNo caso de o impresso conter janela, a identificação da entidade pagadora deverá ser aposta na parte superior da zona para discriminação da receita.\n\nNa parte restante desta componente existirá área para discriminação da receita, adequada à respectiva natureza, havendo obrigatoriamente na parte inferior um espaço para certificação da cobrança e a zona para indicação da data limite do pagamento e do valor a pagar.\n\n1.2 - Talão de controlo. - Esta componente, situada na parte inferior esquerda do documento, é a que se destina ao caixa cobrador para documentar a respectiva operação de cobrança.\n\nNo topo conterá a zona para:\n\nCertificação da cobrança;\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão).\n\nA seguir existirá a zona para impressão de:\n\nIdentificação do documento;\n\nValor a pagar.\n\nTerminará com um espaço destinado a instruções para o pagamento, incluindo por Multibanco, quando tal for possível, e a indicação dos balcões onde possa ser feito o pagamento, caso haja limitações nesse sentido. As instruções de pagamento poderão também ser incluídas no verso de todo o documento.\n\n1.3 - Talão de leitura. - É a componente que contém a linha óptica para efeito da respectiva recolha automática dos dados da cobrança.\n\nA parte superior conterá:\n\nIdentificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);\n\nZona para certificação da cobrança.\n\nConterá a seguir zonas para imprimir:\n\nIdentificação da receita;\n\nIdentificação do documento;\n\nIdentificação fiscal da entidade pagadora;\n\nValor a pagar;\n\nIdentificação da entidade pagadora (nome e endereço), posicionada de modo a aparecer, após a sua dobragem para expedição, na janela antes referida, ou em janela do envelope, se for usado este meio para a expedição.\n\nNa parte inferior estará reservada uma zona para a linha óptica, impressa com caracteres OCRB, que terá a seguinte composição:\n\nIdentificação do documento:\n\nAno: (2) (posições);\n\nEntidade liquidadora/balcão: (8) (posições);\n\nTipo de receita - RE/OT: (1) (posição);\n\nDígito de controlo: (1) (posição);\n\nNúmero sequencial: (11) (posições);\n\nSeparador: (1) (posição);\n\nEntidade controladora da cobrança: (4) (posições);\n\nSeparador: (1) (posição);\n\nValor: (12) (posições);\n\nDígito de controlo: (2) (posições).\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)\n\n> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03."
+  }
+ }
+}

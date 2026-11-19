@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-02-08'
+version_history:
+  file: portaria-1411-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-02-08'
+    amending: pt:dre:570112:por
+    amending_title: Portaria n.º 79/97
+    changes:
+    - Altera Artigo ANEXO — Regulamento do Documento de Cobrança::3.º
+    - Altera Artigo ANEXO — Regulamento do Documento de Cobrança::4.º
+    - Altera Artigo ANEXO — Regulamento do Documento de Cobrança::7.º
+    - Altera Artigo ANEXO I — Modelo A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1411/1995/11/24/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:53:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 79/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-1411-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,7 +177,9 @@ Pelo presente Regulamento são aprovados os modelos A, B, C e D do documento de 
 
 3 - O documento de cobrança integra ainda uma linha destinada a leitura óptica, da qual deverão constar os elementos essenciais ao controlo da cobrança, conforme os anexos I, II, III e IV.
 
-4 - Quando o pagamento for efectuado por transferência electrónica de fundos ou em terminais de pagamento automático, o respectivo suporte informático deverá disponibilizar todos os elementos essenciais ao controlo da cobrança, servindo de recibo o comprovante emitido pelos referidos sistemas de pagamento, quando apresentado conjuntamente com o documento de cobrança, que ficará na posse da entidade pagadora.
+4 - Quando o pagamento for efectuado por transferência electrónica de fundos ou em terminais de pagamento automático, o respectivo suporte informático deverá disponibilizar todos os elementos essenciais ao controlo da cobrança, servindo de recibo o comprovante emitido pelos referidos sistemas de pagamento.
+
+> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03.
 
 ###### Artigo 4.º — Emissão
 
@@ -170,6 +190,10 @@ Pelo presente Regulamento são aprovados os modelos A, B, C e D do documento de 
 3 - Os documentos de cobrança do modelo C serão pré-numerados, identificarão a receita e o serviço que administra ou liquida e destinam-se à autoliquidação, retenção na fonte ou pagamento por conta, em que não haja emissão de impressos do modelo B, sendo preenchidos pela entidade devedora.
 
 4 - Os documentos de cobrança do modelo D substituem os documentos do modelo A, sendo utilizados e emitidos pelas entidades administradoras ou liquidadoras da receita que não disponham, ou que não tenham operacionais, os meios informáticos para a realização da liquidação e emissão do documento de cobrança.
+
+5 - Os documentos de cobrança do modelo C poderão ser desmaterializados através da sua geração por sistemas electrónicos de cobrança que garantam as especificações referidas no n.º 3, sendo a sua numeração processada automaticamente pelo sistema gerador.
+
+> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03.
 
 ###### Artigo 5.º — Segunda via
 
@@ -191,6 +215,10 @@ Pelo presente Regulamento são aprovados os modelos A, B, C e D do documento de 
 
 2 - No âmbito do processo de registo, a Direcção-Geral do Tesouro apreciará se foram cumpridos os requisitos definidos na presente portaria, nomeadamente o adequado posicionamento da linha óptica.
 
+3 - Aplica-se, com as necessárias adaptações, nomeadamente ao disposto no n.º 2, o presente artigo aos documentos de cobrança desmaterializados previstos no n.º 5 do artigo 4.º
+
+> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03.
+
 ## ANEXO I — Modelo A
 
 1 - Este modelo, que será emitido pela entidade liquidadora, é constituído por uma única página.
@@ -201,7 +229,7 @@ Conterá três componentes: o recibo, o talão de controlo e o talão de leitura
 
 1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.
 
-No topo do lado esquerdo conterá as seguintes informações:
+No topo do lado esquerdo conterá as seguintes indicações:
 
 Identificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);
 
@@ -209,13 +237,13 @@ Identificação da receita/logótipo (zona onde se identifica a receita e se ap�
 
 Identificação do documento;
 
-Identificação fiscal da entidade pagadora (terá espaço para dois números, a utilizar quando necessário).
+Identificação fiscal da entidade pagadora ou talão de registo, segundo o modelo normalizado adoptado pelos CTT.
 
 No topo do lado direito conterá o seguinte:
 
-Título do documento de cobrança e indicação do modelo;
+Título do documento de cobrança e indicação do modelo ou indicações normalizadas referentes ao invólucro mensagem e ao registo postal, segundo o modelo normalizado adoptado pelos CTT;
 
-Área reservada para a janela (necessária para expedição sem envelope) ou identificação da entidade pagadora - nome(s).
+Área reservada para a janela ou identificação da entidade pagadora.
 
 No caso de o impresso conter janela, a identificação da entidade pagadora deverá ser aposta na parte superior da zona para discriminação da receita.
 
@@ -282,6 +310,8 @@ Valor: (12) (posições);
 Dígito de controlo: (2) (posições).
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+
+> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03.
 
 ## ANEXO II — Modelo B
 

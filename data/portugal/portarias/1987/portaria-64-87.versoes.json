@@ -1,0 +1,718 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:663299:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1987-01-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2766295ff12a9f6f",
+    "23836370ae405d04",
+    "c8514c72ded83a78",
+    "5abbea554d4a2d0c",
+    "396cfe66f6d1ddf2",
+    "74fc054f905ccf1d",
+    "4440ce23d7118f0d",
+    "840e0c34a764eff7",
+    "4ee7d2e7ff573def",
+    "37a0dfc249d0ee02",
+    "997556d2e1b4db91",
+    "5d808b9aa6422776",
+    "519e5ce52d7a9ded",
+    "3fd79c5fdb613d0a",
+    "21c5718c56ce91e6",
+    "35956bed1f900b65",
+    "b1d48bcfafefd2d0",
+    "d1858054ec9e4c0c",
+    "79d46677b31e16cb",
+    "50ff9c6226881bb1",
+    "6cb1201dc493d987",
+    "eacbd11153af0af8",
+    "d038681396974337",
+    "1ad5b81b7a54a58e",
+    "fc81e19c6e43d15b",
+    "b8d5c1980fb9f15b",
+    "805b0ab691536130",
+    "6143d7556604133e",
+    "2722b1e5bf581a20",
+    "a4c13527db063362",
+    "9b35ab74171f5b25",
+    "a6766e4ebd9cb761",
+    "5f37d2dbdb81423a",
+    "f878c8577e4fde33",
+    "f3db2fd1759841cd",
+    "f1e1bcc05c090b9a",
+    "03168906be40ee32",
+    "17f0f60a10cc018a",
+    "8781869c4cdbe759",
+    "3fba8a4b56511639",
+    "fecb7736c851dabd",
+    "c3b820e290001fd5",
+    "27a2b6e6a479e1a0",
+    "e957ecb2bded4c26",
+    "5fb5bb239a14f170",
+    "994235b0aa783405",
+    "ac571531f3f48dfe",
+    "078082e6cee2a77c",
+    "a7a076922c4283a7",
+    "4e16708f6c05c851",
+    "6ac23525f8f6de78",
+    "c73397e0c7683945",
+    "6d67dee266483a8a",
+    "a4f8aa00ef67bfee",
+    "cbc9171f80f30dd5",
+    "1d8c506f61ab7f9c",
+    "b1bf69407951a48a",
+    "b0e0693cc8cd5652",
+    "a0c36709ad5ba6d9",
+    "6faf33617048a54f",
+    "087d59ba80a6c806",
+    "c7bd5582844dff4b",
+    "378b62ca9fc83cf1",
+    "51997c7c04c48c7b",
+    "21124936a32de414",
+    "9a51e3581c46fca5",
+    "cedb49eaa1133b88"
+   ]
+  },
+  {
+   "date": "1993-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:626813:por",
+     "title": "Decreto-Lei n.º 58/93",
+     "published": "1993-03-01",
+     "dre_path": "/dr/detalhe/decreto-lei/58-1993-626813"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 49.º",
+    "Altera Artigo 49.º"
+   ],
+   "fragments": [
+    "2766295ff12a9f6f",
+    "23836370ae405d04",
+    "c8514c72ded83a78",
+    "5abbea554d4a2d0c",
+    "396cfe66f6d1ddf2",
+    "74fc054f905ccf1d",
+    "4440ce23d7118f0d",
+    "840e0c34a764eff7",
+    "4ee7d2e7ff573def",
+    "37a0dfc249d0ee02",
+    "997556d2e1b4db91",
+    "5d808b9aa6422776",
+    "519e5ce52d7a9ded",
+    "3fd79c5fdb613d0a",
+    "21c5718c56ce91e6",
+    "35956bed1f900b65",
+    "b1d48bcfafefd2d0",
+    "d1858054ec9e4c0c",
+    "79d46677b31e16cb",
+    "50ff9c6226881bb1",
+    "6cb1201dc493d987",
+    "eacbd11153af0af8",
+    "d038681396974337",
+    "1ad5b81b7a54a58e",
+    "fc81e19c6e43d15b",
+    "b8d5c1980fb9f15b",
+    "805b0ab691536130",
+    "6143d7556604133e",
+    "2722b1e5bf581a20",
+    "a4c13527db063362",
+    "9b35ab74171f5b25",
+    "a6766e4ebd9cb761",
+    "5f37d2dbdb81423a",
+    "f878c8577e4fde33",
+    "f3db2fd1759841cd",
+    "f1e1bcc05c090b9a",
+    "03168906be40ee32",
+    "17f0f60a10cc018a",
+    "8781869c4cdbe759",
+    "3fba8a4b56511639",
+    "fecb7736c851dabd",
+    "c3b820e290001fd5",
+    "27a2b6e6a479e1a0",
+    "e957ecb2bded4c26",
+    "5fb5bb239a14f170",
+    "994235b0aa783405",
+    "ac571531f3f48dfe",
+    "078082e6cee2a77c",
+    "a7a076922c4283a7",
+    "4e16708f6c05c851",
+    "6ac23525f8f6de78",
+    "c73397e0c7683945",
+    "6d67dee266483a8a",
+    "a4f8aa00ef67bfee",
+    "cbc9171f80f30dd5",
+    "1d8c506f61ab7f9c",
+    "b1bf69407951a48a",
+    "b0e0693cc8cd5652",
+    "a0c36709ad5ba6d9",
+    "6faf33617048a54f",
+    "087d59ba80a6c806",
+    "c7bd5582844dff4b",
+    "378b62ca9fc83cf1",
+    "51997c7c04c48c7b",
+    "21124936a32de414",
+    "9a51e3581c46fca5",
+    "3bd5fa20ad7bcaf1"
+   ]
+  }
+ ],
+ "fragments": {
+  "2766295ff12a9f6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Janeiro\n\nO [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março, definiu, num quadro normativo genérico, os pontos essenciais da orgânica e funcionamento dos centros regionais de segurança social. Do mesmo modo ficaram definidas por esse diploma legal as diversas fases do processo de transição do regime de instalação para o regime definitivo.\n\nTendo em conta as diferenças notoriamente existentes entre os vários centros, entendeu-se então oportuno determinar, como solução mais aconselhável para a adaptação à realidade de cada centro do quadro genericamente fixado, a elaboração do regulamento do centro, no que respeita à estrutura orgânica, serviços e suas competências e quadro de pessoal, a aprovar por portaria.\n\nÉ esse o objectivo do presente diploma no que se refere ao Centro Regional de Segurança Social do Porto.\n\nNestes termos:\n\nPara execução do artigo 36.º do [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março:\n\nManda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento e da Segurança Social, aprovar o Regulamento do Centro Regional de Segurança Social do Porto, anexo a esta portaria e que dela faz parte integrante.\n\nSecretarias de Estado do Orçamento e da Segurança Social.\n\nAssinada em 31 de Dezembro de 1986.\n\nO Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.\n\nRegulamento do Centro Regional de Segurança Social do Porto"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "c8514c72ded83a78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO Regulamento tem por fim adaptar ao Centro Regional de Segurança Social do Porto, adiante designado por Centro, o disposto no [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março, definindo a sua estrutura orgânica, serviços e suas competências e o quadro do pessoal."
+  },
+  "5abbea554d4a2d0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito geográfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito geográfico\n\nO Centro tem o âmbito geográfico correspondente à área do distrito do Porto."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "74fc054f905ccf1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nSão órgãos do Centro:\n\na) O conselho directivo (CD);\n\nb) O Conselho Regional de Segurança Social, cuja composição, competência e modo de funcionamento foram fixados pelo [Decreto Regulamentar n.º 26/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1983-310425), de 21 de Março."
+  },
+  "4440ce23d7118f0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Composição do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição do conselho directivo\n\nO CD é composto por um presidente, um vice-presidente e três vogais."
+  },
+  "840e0c34a764eff7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Enunciação dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Enunciação dos serviços\n\nO Centro dispõe dos seguintes serviços:\n\na) A Direcção de Serviços de Identificação (DSI);\n\nb) A Direcção de Serviços de Registo de Remunerações (DSRR);\n\nc) A Direcção de Serviços de Atribuição de Prestações (DSAP);\n\nd) A Direcção de Serviços de Acção Social (DSAS);\n\ne) A Direcção de Serviços de Equipamentos Sociais Oficiais (DSESO);\n\nf) A Direcção de Serviços Financeiros e de Contabilidade (DSFC);\n\ng) A Direcção de Serviços de Organização e Informática (DSOI);\n\nh) A Direcção de Serviços Jurídicos (DSJ);\n\ni) A Direcção de Serviços de Relações Públicas e Documentação (DSRPD);\n\nj) A Direcção de Serviços de Gestão de Pessoal (DSGP);\n\nl) A Direcção de Serviços Administrativos (DSA);\n\nm) A Divisão de Apoio Técnico (DAT);\n\nn) A Divisão de Planeamento e Estatística (DPE);\n\no) Os serviços de fiscalização (SF)."
+  },
+  "4ee7d2e7ff573def": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Departamentalização e competência dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Departamentalização e competência dos serviços"
+  },
+  "37a0dfc249d0ee02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Direcção de Serviços de Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direcção de Serviços de Identificação\n\n1 - A DSI compreende duas repartições de identificação.\n\n2 - Compete à DSI criar e manter actualizados os ficheiros que permitam conhecer e avaliar a situação dos beneficiários e contribuintes."
+  },
+  "997556d2e1b4db91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Repartições de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Repartições de identificação\n\n1 - As repartições de identificação compreendem, cada uma delas, três secções, sendo as mesmas constituídas com base na ordenação alfabética para os beneficiários e numérica para os contribuintes.\n\n2 - Compete às repartições de identificação:\n\na) Proceder à identificação e inscrição e organizar e manter actualizados os ficheiros de beneficiários, utentes, contribuintes e outras entidades;\n\nb) Proceder à transferência de beneficiários;\n\nc) Comprovar e controlar a situação das entidades patronais, designadamente no que respeita a datas de início, suspensão ou cessação da actividade;\n\nd) Promover, directamente ou em colaboração com outros serviços do Centro, medidas tendentes à oportuna e correcta inscrição de beneficiários e contribuintes;\n\ne) Assegurar o envio de elementos relativos à identificação de beneficiários e contribuintes a outros serviços públicos que deles careçam."
+  },
+  "5d808b9aa6422776": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direcção de Serviços de Registo de Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção de Serviços de Registo de Remunerações\n\n1 - A DSRR compreende três repartições.\n\n2 - Compete à DSRR dar execução às acções necessárias ao conhecimento e avaliação da situação dos beneficiários."
+  },
+  "519e5ce52d7a9ded": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Repartições de registo de remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Repartições de registo de remunerações\n\n1 - As repartições de registo de remunerações compreendem, cada uma delas, três secções, as quais são constituídas com base na ordem numérica de contribuinte.\n\n2 - Compete às repartições de registo de remunerações:\n\na) Proceder ao registo dos elementos salariais e seus equivalentes constantes das folhas de remunerações e outros documentos;\n\nb) Detectar períodos em que haja sobreposição de trabalho com equivalência de remunerações ou quaisquer outras anomalias, procedendo a averiguações, e colaborar na sua regularização;\n\nc) Apreciar e tratar reclamações sobre remunerações omitidas ou declaradas incorrectamente pelos contribuintes;\n\nd) Promover, directamente ou em colaboração com outros serviços do Centro, acções junto dos contribuintes, tendo em vista, designadamente, o correcto preenchimento das folhas de remunerações;\n\ne) Assegurar o envio de elementos relativos ao registo de remunerações a outros serviços do sector ou a quaisquer serviços públicos que deles careçam."
+  },
+  "3fd79c5fdb613d0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços de Atribuição de Prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Atribuição de Prestações\n\n1 - A DSAP compreende três repartições.\n\n2 - Compete à DSAP organizar os processos relativos à atribuição de prestações e proceder aos respectivos processamentos."
+  },
+  "21c5718c56ce91e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Repartições de atribuição de prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Repartições de atribuição de prestações\n\n1 - As repartições de atribuição de prestações são constituídas, as duas primeiras, por três secções, e a última, por quatro secções, encontrando-se as mesmas ordenadas por beneficiários.\n\n2 - Compete às repartições de atribuição de prestações:\n\na) Analisar e organizar os documentos condicionantes da atribuição de prestações, mantendo, em caso de insuficiência ou de dúvida, estreito relacionamento com os interessados, outros serviços do próprio Centro ou instituições de segurança social, com vista à rápida conclusão do processo;\n\nb) Organizar e manter actualizados os ficheiros de requerentes, de controle de provas de direito e de processamentos;\n\nc) Processar prestações pecuniárias e controlar a sua execução;\n\nd) Controlar as situações de processamento indevido de prestações resultantes de sobreposições, erros, dolo ou outras, assegurando o necessário expediente e desenvolvendo os mecanismos que conduzam à sua regularização;\n\ne) Colaborar com os outros serviços do Centro, designadamente de relações públicas e fiscalização, em acções tendentes a controlar o acesso indevido à atribuição de prestações;\n\nf) Promover ou colaborar em acções de esclarecimento ou de informação, com vista à obtenção de provas periódicas de direitos, e proceder ao tratamento das informações recebidas;\n\ng) Verificar e controlar a exactidão das informações recebidas dos serviços de saúde, fundamentalmente no que se refere à identificação dos beneficiários, e estabelecer com aqueles serviços as ligações funcionais necessárias à progressiva melhoria da qualidade da informação;\n\nh) Colaborar com os serviços de emprego e formação profissional na organização dos processos e no controle de atribuição de prestações de desemprego."
+  },
+  "35956bed1f900b65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção de Serviços de Acção Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção de Serviços de Acção Social\n\n1 - A DSAS compreende a Divisão de Acção Social Comunitária (DASC) e a Divisão de Tutela e Apoio das Instituições Particulares (DTAIP).\n\n2 - Compete à DSAS:\n\na) Executar e desenvolver as modalidades de protecção social que se caracterizam por actuações preventivas e auxílios pecuniários ou em espécie, com vista a atender, de forma tendencialmente personalizada, carências específicas das crianças, jovens, idosos e deficientes, bem como das famílias;\n\nb) Contribuir para a integração familiar e comunitária de pessoas em situação de marginalização social, assim como promover ou colaborar em acções de desenvolvimento social integrado;\n\nc) Tutelar as instituições particulares de solidariedade social e as instituições com fins lucrativos que actuam no domínio da Segurança Social."
+  },
+  "b1d48bcfafefd2d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º"
+  },
+  "d1858054ec9e4c0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Acção Social Comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Acção Social Comunitária\n\nCompete à DASC:\n\na) Fazer o levantamento dos dados relativos à população, no âmbito da sua competência, e proceder à sua actualização permanente;\n\nb) Inventariar as necessidades e recursos existentes no âmbito de cada área específica, fazendo o diagnóstico das situações de carência social;\n\nc) Apoiar e fomentar o voluntariado no âmbito do sector;\n\nd) Executar acções de acolhimento;\n\ne) Estudar a situação sócio-económica das famílias, indivíduos e grupos, em ordem à identificação das respostas mais adequadas às carências diagnosticadas;\n\nf) Promover e coordenar acções de apoio às famílias, indivíduos e grupos, de acordo com as prioridades e os critérios definidos;\n\ng) Desenvolver, dinamizar e apoiar acções tendentes à integração social dos indivíduos ou grupos marginalizados;\n\nh) Promover, coordenar e executar acções de sensibilização da comunidade para os diferentes problemas sociais;\n\ni) Proceder à avaliação das acções desenvolvidas, tendo em vista o melhor funcionamento dos serviços e o aperfeiçoamento das medidas de política social;\n\nj) Prestar apoio às instituições particulares de solidariedade social e a outros serviços sociais."
+  },
+  "79d46677b31e16cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º"
+  },
+  "50ff9c6226881bb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Tutela e Apoio das Instituições Particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Tutela e Apoio das Instituições Particulares\n\nCompete à DTAIP:\n\na) Acompanhar, em geral e em colaboração com a DASC, o funcionamento das instituições particulares de solidariedade social;\n\nb) Dinamizar e desenvolver as acções tecnicamente adequadas à celebração e revisão dos acordos de cooperação e dos actos sujeitos a registo;\n\nc) Estudar as situações passíveis de celebração de acordos de gestão de instalações e equipamento com as instituições particulares de solidariedade social;\n\nd) Fiscalizar o funcionamento das instituições particulares de solidariedade social e das instituições com fins lucrativos, bem como verificar as condições para concessão dos alvarás destas últimas."
+  },
+  "6cb1201dc493d987": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Direcção de Serviços de Equipamentos Sociais Oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Equipamentos Sociais Oficiais\n\n1 - A DSESO compreende a Divisão de Orientação Técnica de Infância e Juventude (DOTIJ) e a Divisão de Orientação Técnica de Reabilitação e População Idosa (DOTRPI).\n\n2 - Compete à DSESO:\n\na) Assegurar a orientação e apoio à gestão dos estabelecimentos sociais do Centro, através de programas de apoio e atendimento às crianças e jovens, aos deficientes e aos idosos e respectivas famílias que recorcorrem aos serviços de segurança social, numa linha de prevenção, reabilitação e de integração social;\n\nb) Estabelecer normas orientadoras do funcionamento dos estabelecimentos oficiais com o objectivo de adequar, racionalizar, qualificar e inovar as respostas;\n\nc) Desenvolver novos programas a partir dos estabelecimentos oficiais, em articulação com a DSAS;\n\nd) Estudar e propor a celebração de acordos de colaboração com os organismos oficiais que concorram para o atendimento da população infantil e juvenil ou deficiente ou idosa, visando a optimização dos estabelecimentos oficiais;\n\ne) Colaborar na elaboração de programas de implantação de equipamento social de acordo com as necessidades inventariadas;\n\nf) Apoiar a formação em exercício do pessoal das diferentes áreas."
+  },
+  "eacbd11153af0af8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º"
+  },
+  "d038681396974337": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Orientação Técnica de Infância e Juventude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Orientação Técnica de Infância e Juventude\n\n1 - A DOTIJ integra os seguintes estabelecimentos de apoio à infância e à juventude:\n\nCreche e Jardim Infantil Abrigo dos Pequeninos;\n\nCentro Infantil A Minha Janela;\n\nCentro Infantil de Crestuma;\n\nCentro Infantil de Matosinhos;\n\nCentro Infantil da Póvoa de Varzim;\n\nCentro Infantil de São Mamede de Infesta;\n\nCentro Infantil de Santo Tirso;\n\nCentro Infantil de Valbom;\n\nColónia de Férias da Praia da Árvore;\n\nInternato de Campo Lindo;\n\nInternato de São José;\n\nCentro do Dr. Leonardo Coimbra;\n\nInternato de António Cândido;\n\nSemi-Internato de Latino Coelho;\n\nSemi-Internato de Costa Cabral.\n\n2 - Compete à DOTIJ:\n\na) Estabelecer normas orientadoras do funcionamento dos estabelecimentos oficiais com o objectivo de adequar, racionalizar, qualificar e inovar respostas;\n\nb) Desenvolver novos programas a partir dos estabelecimentos oficiais, em articulação com a DSAS;\n\nc) Estudar e propor a celebração de acordos de colaboração com os organismos oficiais que concorram para o atendimento da população infantil e juvenil, visando a optimização dos estabelecimentos oficiais;\n\nd) Colaborar na elaboração de programas de implantação de equipamento social de acordo com as necessidades inventariadas;\n\ne) Apoiar a formação em exercício do pessoal das diferentes áreas."
+  },
+  "1ad5b81b7a54a58e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º"
+  },
+  "fc81e19c6e43d15b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Orientação Técnica de Reabilitação e População Idosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Orientação Técnica de Reabilitação e População Idosa\n\n1 - A DOTRPI integra os seguintes estabelecimentos de apoio à reabilitação e à terceira idade:\n\nLar do Monte dos Burgos;\n\nCentro de Reabilitação Vocacional do Porto.\n\n2 - Compete à DOTRPI:\n\na) Estabelecer normas orientadoras do funcionamento dos estabelecimentos oficiais com o objectivo de adequar, racionalizar, qualificar e inovar as respostas;\n\nb) Desenvolver novos programas a partir dos estabelecimentos oficiais, em articulação com a DSAS;\n\nc) Estudar e propor a celebração de acordos de colaboração com os organismos oficiais que concorram para o atendimento da população deficiente ou idosa, visando a optimização dos estabelecimentos oficiais;\n\nd) Colaborar na elaboração de programas de implantação de equipamento social de acordo com as necessidades inventariadas;\n\ne) Apoiar a formação em exercício do pessoal das diferentes áreas."
+  },
+  "b8d5c1980fb9f15b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Direcção de Serviços Financeiros e de Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direcção de Serviços Financeiros e de Contabilidade\n\n1 - A DSFC compreende a Divisão de Gestão Financeira (DGF), a Divisão de Contabilidade (DC) e a Repartição de Tesouraria (RT).\n\n2 - Compete à DSFC promover e executar todas as acções referentes à gestão financeira, ao controle orçamental e à organização contabilística do Centro."
+  },
+  "805b0ab691536130": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º"
+  },
+  "6143d7556604133e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Gestão Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Gestão Financeira\n\nCompete à DGF:\n\na) Elaborar os projectos de orçamento do Centro;\n\nb) Proceder ao controle da execução orçamental;\n\nc) Elaborar o plano financeiro do Centro, bem como os respectivos orçamentos mensais;\n\nd) Analisar e emitir parecer sobre os orçamentos e contas dos estabelecimentos oficiais;\n\ne) Colher dados financeiros através do balanço, conta de gerência e relatórios anuais, elaborando as respectivas estatísticas;\n\nf) Elaborar indicadores de gestão, com base nas informações económico-financeiras recolhidas;\n\ng) Analisar os orçamentos e contas das IPSS;\n\nh) Prestar apoio técnico-contabilístico às IPSS;\n\ni) Providenciar a recuperação de créditos;\n\nj) Organizar processos de dívidas de contribuições, multas e juros de mora;\n\nl) Elaborar processos relativos à celebração de acordos para pagamento de dívidas;\n\nm) Elaborar relatórios de cobrança de contribuições em dívida;\n\nn) Desenvolver acções tendentes a prevenir e contrariar as situações contributivas devedoras."
+  },
+  "2722b1e5bf581a20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º"
+  },
+  "a4c13527db063362": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Contabilidade\n\nCompete à DC:\n\na) Efectuar o lançamento em conta corrente de todo o movimento respeitante a contribuições, multas e juros de mora;\n\nb) Conferir e proceder à análise das contas correntes de contribuintes;\n\nc) Informar os contribuintes, os organismos e os serviços com interesse legítimo, por iniciativa própria ou em resposta a perguntas ou requerimentos, sobre as situações e os direitos e obrigações que lhes incumbam no domínio da respectiva situação contributiva;\n\nd) Prestar informação estatística das posições contributivas devedoras e outras, de acordo com imperativos legais;\n\ne) Proceder aos registos contabilísticos do património do Centro;\n\nf) Registar e controlar as despesas suportadas por verbas do PIDDAC, verificando a sua cobertura de acordo com o plano de investimento para o sector;\n\ng) Escriturar os livros principais e livros auxiliares e elaborar balancetes;\n\nh) Cabimentar as despesas a assumir nas diversas rubricas orçamentais da Administração e acção social, controlando a sua cobertura e efectuando, em devido tempo, o respectivo processamento;\n\ni) Proceder à execução dos orçamentos financeiros mensalmente elaborados, com controle dos meios líquidos disponíveis;\n\nj) Emitir autorizações de pagamento e recebimento;\n\nl) Emitir todos os meios de pagamento de prestações pecuniárias e acção social, bem como os que respeitam à Administração e as verbas incluídas no plano de investimento;\n\nm) Fazer o controle dos pagamentos efectuados;\n\nn) Controlar, contabilizar e regularizar os valores recebidos e as reposições, bem como os valores devolvidos e que entram em prescrição;\n\no) Efectuar todo o movimento contabilístico de acordo com o plano de contas estabelecido para o sector;\n\np) Controlar o movimento de valores;\n\nq) Conferir e justificar os saldos das diversas contas;\n\nr) Elaborar as estatísticas decorrentes da contabilização efectuada;\n\ns) Elaborar anualmente o balanço, conta de gerência e mapas complementares de acordo com o plano de contas existente;\n\nt) Elaborar mapas e documentos complementares de acordo com determinações do Tribunal de Contas."
+  },
+  "9b35ab74171f5b25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Repartição de Tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Repartição de Tesouraria\n\nCompete à RT:\n\na) Efectuar recebimentos e pagamentos em face das autorizações existentes;\n\nb) Receber e registar as folhas de remunerações e pagamento de contribuições, providenciando pelo depósito dos respectivos valores;\n\nc) Proceder à venda de impressos;\n\nd) Elaborar a folha diária de caixa;\n\ne) Assegurar as ligações com as instituições bancárias."
+  },
+  "a6766e4ebd9cb761": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Direcção de Serviços de Organização e Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Direcção de Serviços de Organização e Informática\n\n1 - A DSOI é constituída pela Divisão de Organização (DO) e pela Divisão de Informática (DI).\n\n2 - Compete à DSOI estudar, promover e coordenar as medidas tendentes ao aperfeiçoamento organizacional e modernização administrativa, com recurso, nomeadamente, aos meios informáticos."
+  },
+  "5f37d2dbdb81423a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º"
+  },
+  "f878c8577e4fde33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Organização\n\nCompete à DO:\n\na) Proceder a estudos, com vista à melhoria do funcionamento dos serviços, e acompanhar a sua implementação;\n\nb) Colaborar com a Divisão de Gestão de Pessoal no estudo das exigências dos postos de trabalho e na determinação dos efectivos a utilizar;\n\nc) Efectuar a análise das tarefas e dos postos de trabalho com vista ao controle de custos e ao estabelecimento de padrões de produtividade;\n\nd) Analisar, em colaboração com os serviços interessados, as necessidades de equipamento e material, as suas características e respectiva adequação;\n\ne) Proceder a estudos de racionalização de impressos e outros suportes de informação."
+  },
+  "f3db2fd1759841cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º"
+  },
+  "f1e1bcc05c090b9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Informática\n\nCompete à DI:\n\na) Assegurar a ligação funcional entre os serviços utilizadores do equipamento informático e entre estes e os serviços centrais;\n\nb) Proceder à transcrição de dados para suporte adequado ao processamento informático, colaborando nas operações destinadas a garantir a qualidade dos mesmos;\n\nc) Desenvolver, coordenar e controlar o planeamento da actividade de processamento de dados;\n\nd) Produzir estatísticas actualizadas sobre a ocupação e rendimento do equipamento informático;\n\ne) Colaborar na elaboração de manuais de operação e assegurar a sua correcta aplicação e utilização;\n\nf) Organizar as bibliotecas de operação, de bandas e de discos e zelar pela sua manutenção;\n\ng) Executar a análise, a programação e a testagem de trabalho de interesse específico do Centro;\n\nh) Colaborar na optimização da utilização do equipamento, tendo em atenção os recursos hardware e software disponíveis;\n\ni) Colaborar nas acções de selecção e formação de pessoal de informática;\n\nj) Garantir a segurança e privaticidade da informação à sua guarda;\n\nl) Apoiar tecnicamente na elaboração de cadernos de encargos, selecções, aquisição, contratação e instalação de equipamentos de informática ou de suportes lógicos;\n\nm) Estudar as características técnicas do equipamento de informática e dos suportes lógicos e avaliar, do ponto de vista técnico-económico, os projectos de informática."
+  },
+  "03168906be40ee32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Direcção de Serviços Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Direcção de Serviços Jurídicos\n\nCompete à DSJ:\n\na) Emitir pareceres, informações, satisfazer consultas e elaborar estudos de natureza jurídica;\n\nb) Elaborar minutas de escrituras, contratos e outros documentos de carácter legal;\n\nc) Apoiar juridicamente as instituições particulares de solidariedade social;\n\nd) Apoiar os serviços competentes na preparação dos processos necessários ao julgamento das questões que impliquem envolvimento do Centro e proceder ao acompanhamento dos processos junto dos tribunais;\n\ne) Apreciar os processos de dívida de contribuições, multas ou juros de mora, promovendo o seu envio aos tribunais de execução fiscal, quando for caso disso;\n\nf) Reclamar créditos por dívidas de contribuições em processos de falência, em processos de execução movidos por outros credores, em processos de inventário ou outros;\n\ng) Promover o reembolso de prestações pagas indevidamente sempre que seja necessário o recurso à via judicial."
+  },
+  "17f0f60a10cc018a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Direcção de Serviços de Relações Públicas e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direcção de Serviços de Relações Públicas e Documentação\n\n1 - A DSRPD é constituída pela Divisão de Relações Públicas e Documentação (DRPD), pelos centros de informação ao público e pelos serviços locais.\n\n2 - Compete à DSRPD apoiar os serviços do Centro em matéria de relações com o público e de recolha, tratamento e difusão da documentação."
+  },
+  "8781869c4cdbe759": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º"
+  },
+  "3fba8a4b56511639": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Relações Públicas e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Relações Públicas e Documentação\n\nCompete à DRPD:\n\na) Elaborar indicadores sobre o funcionamento do Centro, com base, nomeadamente, no tratamento de informações, sugestões e reclamações recebidas, com vista à permanente melhoria da prestação de serviços;\n\nb) Promover campanhas de esclarecimento junto dos beneficiários, utentes, contribuintes e público em geral, com vista à divulgação de informação sobre o sistema de segurança social e sobre o Centro em particular;\n\nc) Proceder à análise e tratamento das informações veiculadas pelos órgãos de comunicação social e estabelecer contactos com profissionais de informação ou com serviços e entidades públicas ou privadas sempre que tal se revele de interesse para a correcta prossecução das actividades do Centro;\n\nd) Programar as acções necessárias à implantação e funcionamento de serviços de informação ao público;\n\ne) Proceder ao registo, catalogação e indexação das espécies bibliográficas, bem como organizar e conservar o fundo documental;\n\nf) Organizar e manter actualizados ficheiros de legislação, jurisprudência e doutrina sobre matéria de interesse para o Centro e efectuar a difusão interna de diplomas legais e outros elementos."
+  },
+  "fecb7736c851dabd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Centros de informação ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Centros de informação ao público\n\nCompete aos centros de informação ao público:\n\na) Acolher, esclarecer e encaminhar as pessoas que se dirigem aos serviços;\n\nb) Prestar informações orais e escritas a beneficiários, utentes, contribuintes e outras entidades públicas ou privadas;\n\nc) Colher elementos indicadores do funcionamento dos serviços, quer pelas reclamações apresentadas, quer pelo tipo de informação prestada."
+  },
+  "c3b820e290001fd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Serviços locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Serviços locais\n\n1 - O Centro dispõe dos seguintes serviços locais:\n\nAmarante;\n\nBaião;\n\nFelgueiras;\n\nMaia;\n\nMarco de Canaveses;\n\nMatosinhos;\n\nParedes;\n\nPenafiel;\n\nPóvoa de Varzim;\n\nSanto Tirso;\n\nValongo;\n\nque têm como objectivo uma maior aproximação entre os serviços e as populações.\n\n2 - Compete aos serviços locais desempenharem funções nos domínios da informação ao público, do atendimento, da dinamização comunitária e das que forem determinadas pelo CD.\n\n3 - A criação de novos serviços locais obedecerá a um programa próprio a aprovar pelo Ministro do Trabalho e Segurança Social (MTSS)."
+  },
+  "27a2b6e6a479e1a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Direcção de Serviços de Gestão de Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Direcção de Serviços de Gestão de Pessoal\n\n1 - A DSGP é constituída pela Divisão de Gestão de Pessoal (DGP) e pela Repartição de Administração de Pessoal (RAP).\n\n2 - Compete à DSGP proceder a estudos, propor medidas e promover acções no âmbito da gestão e formação de pessoal, bem como executar acções referentes à respectiva administração."
+  },
+  "e957ecb2bded4c26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º"
+  },
+  "5fb5bb239a14f170": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Gestão de Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Gestão de Pessoal\n\nCompete à DGP:\n\na) Promover o estudo dos problemas de pessoal do Centro e orientar as acções de acolhimento e integração;\n\nb) Colaborar, incentivar e apoiar a aplicação dos instrumentos adequados à avaliação no desempenho das funções do pessoal do Centro;\n\nc) Promover a definição de sistemas de controle de assiduidade e pontualidade;\n\nd) Promover a definição dos índices de gestão em matéria de pessoal;\n\ne) Proceder à aplicação dos métodos e técnicas de recrutamento, selecção e orientação de pessoal e efectuar o estudo das exigências dos postos de trabalho, em colaboração com a DO;\n\nf) Realizar o levantamento de necessidades e colaborar na definição de prioridades de formação e aperfeiçoamento profissional do pessoal dos serviços e instituições particulares de solidariedade social;\n\ng) Elaborar o plano de formação e aperfeiçoamento profissional do Centro e organizar e avaliar as acções da sua responsabilidade;\n\nh) Colaborar e coordenar a participação em acções da iniciativa de outras entidades no domínio de formação e aperfeiçoamento profissional."
+  },
+  "994235b0aa783405": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Repartição de Administração de Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Repartição de Administração de Pessoal\n\n1 - A RAP é constituída pelas Secções de Movimento de Pessoal, Controle de Assiduidade e Vencimentos.\n\n2 - Compete à RAP:\n\na) Assegurar os processos de recrutamento e selecção do pessoal do Centro e executar as acções referentes a provimento, transferência, promoção, tempo de serviço, licenças, faltas, aposentação, disciplina e exoneração;\n\nb) Organizar e manter permanentemente actualizado o cadastro de pessoal;\n\nc) Proceder ao controle de assiduidade e pontualidade do pessoal do Centro;\n\nd) Efectuar todo o expediente relativo à assiduidade, diuturnidades e férias do pessoal;\n\ne) Processar as retribuições devidas ao pessoal;\n\nf) Organizar os processos relacionados com a ADSE e com a concessão de abono de família e prestações complementares, bem como de outros benefícios sociais, controlando a manutenção dos direitos e assegurando o respectivo expediente."
+  },
+  "ac571531f3f48dfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Direcção de Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Direcção de Serviços Administrativos\n\n1 - A DSA compreende a Repartição de Expediente, Arquivo e Microfilmagem (REAM), a Repartição de Aprovisionamento e Património (R Ap. P) e Centro Gráfico (CG).\n\n2 - Compete à DSA executar as acções referentes ao expediente, arquivo, aprovisionamento e património."
+  },
+  "078082e6cee2a77c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Repartição de Expediente, Arquivo e Microfilmagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Repartição de Expediente, Arquivo e Microfilmagem\n\n1 - A REAM é constituída por três secções de idêntica designação.\n\n2 - Compete à REAM:\n\na) Receber, registar, protocolar, classificar e distribuir a correspondência, documentação, publicações e valores;\n\nb) Assegurar o serviço de expedição de correspondência, documentos e meios de pagamento;\n\nc) Assegurar o serviço de dactilografia das unidades funcionais sem apoio administrativo;\n\nd) Organizar o arquivo, tendo em vista a boa conservação e fácil consulta dos documentos;\n\ne) Executar, de acordo com a legislação em vigor, o expurgo dos documentos;\n\nf) Colaborar com os outros serviços do Centro que necessitam de arquivo próprio na conservação, actualização e expurgo de documentos;\n\ng) Executar as tarefas necessárias à passagem dos arquivos tradicionais a microfilmados, produzir as microformas e garantir a sua conservação a fácil consulta;\n\nh) Zelar pela segurança da inutilização dos documentos;\n\ni) Apoiar tecnicamente os serviços e entidades que necessitem consultar os arquivos de microformas."
+  },
+  "a7a076922c4283a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Repartição de Aprovisionamento e Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Repartição de Aprovisionamento e Património\n\n1 - A R Ap. P é constituída pelas Secções de Aquisição, Armazém, Transportes e Comunicações e Património.\n\n2 - Compete à R Ap. P:\n\na) Realizar as acções relativas à aquisição, conservação, reparação, locação e alienação de quaisquer bens, móveis ou imóveis;\n\nb) Armazenar e conservar o material adquirido, mantendo actualizadas as existências mínimas que tiverem sido fixadas, procedendo à sua distribuição de acordo com as requisições dos vários serviços;\n\nc) Organizar e manter actualizado o inventário dos bens do Centro;\n\nd) Assegurar a realização de pequenos trabalhos de conservação, reparação, manutenção e outros que possam ser efectuados pelo pessoal operário;\n\ne) Velar pela segurança e higiene dos edifícios em que os serviços se encontrem instalados;\n\nf) Assegurar a gestão do parque de viaturas, elaborando programas de deslocações, controlando a sua utilização e os respectivos custos/unidade e providenciar pela respectiva manutenção;\n\ng) Organizar e manter as redes de comunicação interna e externa, designadamente no respeitante a contínuos, estafetas, correios, telefones e telex;\n\nh) Providenciar pela aquisição de serviços de transportes sempre que se torne necessário."
+  },
+  "4e16708f6c05c851": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Centro Gráfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Centro Gráfico\n\nCompete ao CG executar todas as tarefas de desenho, reprodução, corte, alceamento e encadernação de documentos e de impressos, em conformidade com as necessidades dos serviços."
+  },
+  "6ac23525f8f6de78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º"
+  },
+  "c73397e0c7683945": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Apoio Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Apoio Técnico\n\nCompete à DAT:\n\na) Pronunciar-se a respeito da aquisição ou arrendamento de terrenos e edifícios e da realização de obras;\n\nb) Elaborar projectos e cadernos de encargos destinados aos concursos de adjudicação de obras;\n\nc) Dar parecer sobre as propostas de adjudicação de obras apresentadas pelos serviços e instituições particulares de solidariedade social;\n\nd) Acompanhar e fiscalizar a execução dos trabalhos em curso;\n\ne) Proceder à vistoria de edifícios, tendo em vista informar sobre as condições de segurança, conservação e reparação;\n\nf) Elaborar os planos relativos à actuação do Centro e acompanhar, através de relatórios periódicos de execução, a respectiva realização;\n\ng) Elaborar, de acordo com os planos e orientações estabelecidos, as propostas de programas e projectos de investimentos anuais."
+  },
+  "6d67dee266483a8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º"
+  },
+  "a4f8aa00ef67bfee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Planeamento e Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Planeamento e Estatística\n\nCompete à DPE:\n\na) Promover, coordenar e estudar as acções tendentes à caracterização do sector, bem como elaborar os respectivos planos a curto e médio prazo;\n\nb) Coordenar a propositura e execução do PIDDAC;\n\nc) Acompanhar a realização dos programas e projectos de investimento;\n\nd) Definir os elementos estatísticos a apurar e coordenar a recolha, proceder à sua análise, difusão e remessa aos órgãos centrais;\n\ne) Dinamizar, preparar e coordenar todos os pedidos de comparticipação financeira do Fundo Social Europeu."
+  },
+  "cbc9171f80f30dd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Serviços de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Serviços de fiscalização\n\n1 - Compete aos SF:\n\na) Assegurar a informação necessária aos beneficiários e contribuintes, de forma a garantir o conhecimento por parte destes dos seus direitos e deveres face ao sistema de segurança social;\n\nb) Vigiar o cumprimento das obrigações impostas aos contribuintes e beneficiários no âmbito dos regimes de segurança social e, em geral, o cumprimento pelos mesmos de todas as normas legais ou regulamentares relativas aos mesmos regimes, nomeadamente em matéria de inscrição, de declaração de remunerações e de pagamento de contribuições;\n\nc) Verificar se os beneficiários reúnem os requisitos de que dependem a atribuição e manutenção do direito às prestações;\n\nd) Fazer o levantamento e proceder à identificação dos bens penhoráveis e hipotecáveis para garantia dos créditos por contribuições em dívida à Segurança Social, colaborando, para o efeito, com os Serviços de Justiça Fiscal.\n\n2 - No exercício das acções de fiscalização os funcionários terão os poderes previstos na lei."
+  },
+  "1d8c506f61ab7f9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Funcionamento"
+  },
+  "b1bf69407951a48a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Áreas funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Áreas funcionais\n\nOs serviços dos regimes de segurança social e os serviços de acção social constituem duas áreas funcionais de gestão, cada uma coordenada, no domínio da programação, gestão, controle e avaliação, por um membro do CD, designado por deliberação do mesmo, e pelo director ou directores de serviços da área respectiva."
+  },
+  "b0e0693cc8cd5652": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Acordos com casas do povo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Acordos com casas do povo\n\nTendo em vista assegurar a desconcentração do atendimento público, o Centro poderá celebrar acordos de prestação de serviços com as casas do povo."
+  },
+  "a0c36709ad5ba6d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Articulação com os serviços centrais e instituições de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Articulação com os serviços centrais e instituições de segurança social\n\n1 - O Centro articular-se-á funcionalmente e cooperará com os serviços centrais consoante a natureza das acções a desenvolver para a prossecução das suas atribuições.\n\n2 - O Centro articular-se-á com as restantes instituições de segurança social de acordo com as respectivas competências e tendo em vista a prossecução dos objectivos do sistema de segurança social."
+  },
+  "6faf33617048a54f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Articulação com outros sectores da Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Articulação com outros sectores da Administração\n\nO Centro articular-se-á no seu âmbito de actuação com os serviços dos outros sectores da Administração Pública, designadamente os do trabalho, emprego, saúde, educação, justiça e finanças."
+  },
+  "087d59ba80a6c806": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Coordenação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Coordenação de serviços\n\nOs serviços constantes deste Regulamento, a que não correspondam cargos de direcção ou chefia previstos na lei, salvo os estabelecimentos, são coordenados por funcionários de carreiras profissionais adequadas, a designar por deliberação do CD."
+  },
+  "c7bd5582844dff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "378b62ca9fc83cf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Quadro de pessoal\n\nO quadro de pessoal do Centro é o constante do anexo a este Regulamento."
+  },
+  "51997c7c04c48c7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Ajustamentos de distribuição de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Ajustamentos de distribuição de competências\n\n1 - À medida que se for desenvolvendo e consolidando a informatização dos serviços, e até que, pelo dispositivo legal adequado, se torne possível e conveniente efectuar a revisão do presente Regulamento, pode o CD do Centro proceder aos ajustamentos indispensáveis em matéria de distribuição de competências e consequente afectação dos respectivos recursos humanos.\n\n2 - Os ajustamentos referidos no número anterior não podem apresentar desvios à concepção orgânica que informa o presente Regulamento."
+  },
+  "21124936a32de414": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Direcção de Serviços de Processamento de Prestações (DSPP)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Direcção de Serviços de Processamento de Prestações (DSPP)\n\n1 - A DSPP, enquanto não se encontrar plenamente informatizada, subsistirá na área de regimes de segurança social, sendo constituída por duas repartições.\n\n2 - Compete à DSPP a execução das acções necessárias ao processamento das prestações."
+  },
+  "9a51e3581c46fca5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Repartições de processamento de prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Repartições de processamento de prestações\n\n1 - As repartições de processamento de prestações compreendem, cada uma delas, três secções, as quais estão organizadas segundo a ordem numérica de contribuinte.\n\n2 - Compete às repartições de processamento de prestações:\n\na) Processar prestações pecuniárias de abono de família e prestações complementares e controlar a sua execução;\n\nb) Processar prestações de subsídio de desemprego e controlar a sua execução;\n\nc) Controlar as situações de processamento indevidas, resultantes de sobreposições, erros, dolo ou outras, assegurando o necessário expediente e desenvolvendo os mecanismos que conduzem à sua regularização."
+  },
+  "cedb49eaa1133b88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Instituições funcionalmente integradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Instituições funcionalmente integradas\n\n1 - De acordo com o artigo 2.º do [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março, permanecem funcionalmente integrados o Lar Residencial das Fontainhas (LRF) e o Centro de Paralisia Cerebral do Porto (CPCP).\n\n2 - A integração orgânica do LRF e do CPCP será determinada por portaria do MTSS.\n\nDocumento anexo ao quadro de pessoal a que se refere o artigo 47.º do Regulamento do Centro Regional de Segurança Social do Porto.\n\nOs técnicos superiores de informática do Centro Regional de Segurança Social do Porto desenvolvem a sua actividade nas seguintes áreas funcionais:\n\nAnálise funcional e orgânica;\n\nAssessoria e auditoria;\n\nProgramação;\n\nProgramação de sistemas;\n\nPlaneamento e controle;\n\nAdministração de bases de dados.\n\nQuadro anexo a que se refere o artigo 47.º do Regulamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02400/03550370.pdf)"
+  },
+  "3bd5fa20ad7bcaf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Instituições funcionalmente integradas",
+   "in_force_from": "1993-04-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01.",
+    "Alterado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01."
+   ],
+   "markdown": "###### Artigo 49.º — Instituições funcionalmente integradas\n\n(Revogado.)\n\nDocumento anexo ao quadro de pessoal a que se refere o artigo 47.º do Regulamento do Centro Regional de Segurança Social do Porto.\n\nOs técnicos superiores de informática do Centro Regional de Segurança Social do Porto desenvolvem a sua actividade nas seguintes áreas funcionais:\n\nAnálise funcional e orgânica;\n\nAssessoria e auditoria;\n\nProgramação;\n\nProgramação de sistemas;\n\nPlaneamento e controle;\n\nAdministração de bases de dados.\n\nQuadro anexo a que se refere o artigo 47.º do Regulamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02400/03550370.pdf)\n\n> Revogado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01.\n\n> Alterado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01."
+  }
+ }
+}

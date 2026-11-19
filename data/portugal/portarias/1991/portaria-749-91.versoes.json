@@ -1,0 +1,551 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:687582:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-08-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "391d93b7843253bc",
+    "5ef74767183e4fc4",
+    "f134dd522eb477de",
+    "049cd353b66cebdc",
+    "b678f10e851dab32",
+    "2fd3aa62d192499d",
+    "ad6c3394abeedf66",
+    "729f5b5214997cf0",
+    "8df68e70d8737315",
+    "010dfd881ab44f95",
+    "c8fb45a1d92d4317",
+    "46c5b4b6e2f9ad06",
+    "7ec069a6a77f11c9",
+    "d98bae63f422f47d",
+    "53443d774a424ce4",
+    "09ec7feff69f83dc",
+    "ad85c58caef6fa64",
+    "a96a3b4d80206835",
+    "bb23f88198865b05",
+    "44e4fff21ac01c76",
+    "a271c944cd76b572",
+    "eeff05f5716676c1",
+    "6036c93ab429719f",
+    "7ec4b0c2155d7f62",
+    "98ffa06f623b4ab8",
+    "f50d91de0d0bac93",
+    "033d7adae6db754d",
+    "ba202a156fd8b896",
+    "c39388459a7d3e03",
+    "cae97e263e0f6b8b",
+    "09b06735fa4b2f95",
+    "8c251072e672ff75",
+    "b71fbddc13edf326",
+    "47eabffc90d7a1de"
+   ]
+  },
+  {
+   "date": "1995-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:683026:por",
+     "title": "Portaria n.º 1338/95",
+     "published": "1995-11-11",
+     "dre_path": "/dr/detalhe/portaria/1338-1995-683026"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO I::1.º",
+    "Altera Artigo ANEXO I::2.º",
+    "Altera Artigo ANEXO I::3.º",
+    "Altera Artigo ANEXO I::5.º",
+    "Altera Artigo ANEXO I::6.º",
+    "Altera Artigo ANEXO I::8.º",
+    "Altera Artigo ANEXO I::9.º",
+    "Altera Artigo ANEXO I::10.º",
+    "Altera Artigo ANEXO I::11.º",
+    "Altera Artigo ANEXO I::12.º",
+    "Altera Artigo ANEXO I::14.º",
+    "Altera Artigo ANEXO I::15.º",
+    "Altera Artigo ANEXO I::17.º",
+    "Altera Artigo ANEXO I::21.º",
+    "Altera Artigo ANEXO I::22.º",
+    "Altera Artigo ANEXO I::23.º"
+   ],
+   "fragments": [
+    "391d93b7843253bc",
+    "5ef74767183e4fc4",
+    "f134dd522eb477de",
+    "f840e01790f75463",
+    "e7c214757668fc70",
+    "7af29fa649874e68",
+    "ad6c3394abeedf66",
+    "361e479447a346d2",
+    "427d9a23ec24674b",
+    "010dfd881ab44f95",
+    "9e1cf1c279d93d20",
+    "e0f7e0f696ed30c0",
+    "666890fabbc03684",
+    "cc5c1d29823ad0d1",
+    "83fada477db35c96",
+    "09ec7feff69f83dc",
+    "35a3e574fdd30228",
+    "e79fe6d2413a1e0c",
+    "bb23f88198865b05",
+    "13833fbdd819e724",
+    "a271c944cd76b572",
+    "eeff05f5716676c1",
+    "6036c93ab429719f",
+    "7ec4b0c2155d7f62",
+    "c04ddde8ec8184ef",
+    "3db26115c00ce416",
+    "128b4cb5e84154aa",
+    "ba202a156fd8b896",
+    "c39388459a7d3e03",
+    "cae97e263e0f6b8b",
+    "09b06735fa4b2f95",
+    "8c251072e672ff75",
+    "b71fbddc13edf326",
+    "47eabffc90d7a1de"
+   ]
+  }
+ ],
+ "fragments": {
+  "391d93b7843253bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Agosto\n\nO [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, estabeleceu, no n.º 3 do artigo 14.º, que o activo do Fundo de Pensões dos Militares das Forças Armadas poderia ser aplicado, até ao máximo de 20%, em empréstimos aos contribuintes para aquisição ou construção de habitação própria.\n\nCom a presente portaria aprova-se o regulamento da concessão dos referidos empréstimos, que constitui a disciplina a observar por todas as entidades intervenientes.\n\nAssim:\n\nManda o Governo, pelo Ministro da Defesa Nacional, nos termos do n.º 3 do artigo 14.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de Agosto, que seja aprovado o regulamento da concessão de empréstimos aos militares participantes do Fundo de Pensões dos Militares das Forças Armadas para financiamento à aquisição ou construção de habitação própria, que constitui o anexo I à presente portaria.\n\nMinistério da Defesa Nacional.\n\nAssinada em 17 de Julho de 1991.\n\nPelo Ministro da Defesa Nacional, Eugénio Manuel dos Santos Ramos, Secretário de Estado Adjunto do Ministro da Defesa Nacional."
+  },
+  "5ef74767183e4fc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f134dd522eb477de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\nDisposições gerais"
+  },
+  "049cd353b66cebdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Fins dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Fins dos empréstimos\n\n1 - Os empréstimos, objecto do presente regulamento, visam proporcionar aos participantes do Fundo de Pensões dos Militares das Forças Armadas a possibilidade de:\n\na) Aquisição de habitação já construída;\n\nb) Construção de habitação em terreno próprio.\n\n2 - Não serão concedidos empréstimos nos termos deste regulamento para liquidação de outros contraídos com idêntica finalidade junto de quaisquer instituições de crédito."
+  },
+  "b678f10e851dab32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Novos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Novos empréstimos\n\n1 - Após ter obtido um primeiro empréstimo para construção ou aquisição de habitação própria nos termos do presente regulamento, o mesmo participante pode solicitar, sucessivamente, novos empréstimos, quando se verifique que tem necessidade de adquirir ou construir nova habitação, em virtude de a habitação construída ou adquirida com empréstimo anterior se ter tornado inadequada por motivo de aumento do agregado familiar, saúde, transferência de local de trabalho ou qualquer outro superveniente, que se considere justificativo de novo pedido.\n\n2 - Verificada a situação referida no número anterior, torna-se imediatamente exigível a parte do primeiro empréstimo ainda em dívida, cabendo à entidade gestora do Fundo de Pensões dos Militares das Forças Armadas definir, perante cada situação concreta, as condições a que deverá obedecer a concessão de novo empréstimo e a liquidação do anterior."
+  },
+  "2fd3aa62d192499d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Requisitos relativos ao requerente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos relativos ao requerente\n\nPodem solicitar a concessão de empréstimos os militares dos quadros permanentes em relação aos quais se verifiquem cumulativamente as seguintes condições:\n\na) Serem participantes do Fundo de Pensões dos Militares das Forças Armadas;\n\nb) Não possuírem habitação em seu nome ou do cônjuge não separado judicialmente de pessoas e bens, excepto se, possuindo-a, não for a mais adequada ao alojamento do respectivo agregado familiar ou não estiver situada a uma distância inferior a 35 km do local de trabalho."
+  },
+  "ad6c3394abeedf66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Candidatura\n\nA candidatura à concessão de empréstimo será formalizada pelo interessado em impresso próprio, e remetida por correio registado à entidade gestora do Fundo de Pensões dos Militares das Forças Armadas, não sendo aceites quaisquer outros processos de entrega."
+  },
+  "729f5b5214997cf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Limites gerais do valor do empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limites gerais do valor do empréstimo\n\n1 - O limite máximo do empréstimo a conceder é igual ao produto do valor correspondente ao índice 100 da grelha salarial estabelecida pelo [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, pelo factor 276, não podendo o custo da habitação ser superior ao produto do valor correspondente ao índice 100 daquela grelha salarial pelo factor 414.\n\n2 - O valor máximo do empréstimo será também definido pelas seguintes percentagens sobre o valor total da habitação em função do custo por metro quadrado, ponderado pelo índice 100 da grelha salarial:\n\nAté 1,7 vezes o índice 100 - 90%;\n\nDe 1,7 a 2,0 vezes o índice 100 - 80%;\n\nMais de 2,0 vezes o índice 100 - 65%."
+  },
+  "8df68e70d8737315": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Limites em função do rendimento do agregado familiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limites em função do rendimento do agregado familiar\n\n1 - O empréstimo não poderá exceder um valor que determine um encargo mensal superior a um terço dos rendimentos brutos do agregado familiar do beneficiário do crédito.\n\n2 - Para efeitos do presente regulamento, considera-se:\n\na) Agregado familiar: o participante, o cônjuge e os respectivos ascendentes, descendentes e filhos adoptivos que coabitam a título permanente e na sua dependência económica;\n\nb) Rendimento do agregado familiar: a soma de todos os rendimentos não eventuais dos seus componentes."
+  },
+  "010dfd881ab44f95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Confirmação das declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Confirmação das declarações\n\nA entidade gestora do Fundo de Pensões dos Militares das Forças Armadas reserva-se o direito de, sempre que o entender conveniente, efectuar as diligências necessárias para a confirmação de todas as declarações prestadas, bem como da aplicação do produto dos empréstimos."
+  },
+  "c8fb45a1d92d4317": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Regras de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regras de preferência\n\n1 - As regras de preferência a aplicar a todos os requerentes, para determinação da escala nominal dos interessados, serão as constantes do anexo A.\n\n2 - A entidade gestora do Fundo de Pensões dos Militares das Forças Armadas organizará uma lista ordenada de todos os participantes que se candidatarem à aplicação de cada dotação anual, incluindo os participantes não atendidos nos anos anteriores, com validade apenas até à integral utilização daquela verba."
+  },
+  "46c5b4b6e2f9ad06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Prazos de amortização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prazos de amortização\n\n1 - O prazo máximo dos empréstimos será de 25 anos, mesmo nos casos de construção de habitação própria.\n\n2 - Todo o empréstimo terá de estar liquidado até o beneficiário do crédito completar o limite de idade de passagem à reforma que vigorar à data da apresentação do pedido do empréstimo."
+  },
+  "7ec069a6a77f11c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Prazo de utilização em caso de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prazo de utilização em caso de construção\n\n1 - A utilização total do empréstimo em caso de construção deverá ser feita no prazo máximo de dois anos após a outorga do respectivo contrato e em prestações que não poderão exceder o número de seis.\n\n2 - A entrega ao beneficiário do crédito das prestações do empréstimo será obrigatoriamente precedida de avaliação ou medição de obra que a justifique."
+  },
+  "d98bae63f422f47d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Pagamento do empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pagamento do empréstimo\n\n1 - A amortização do empréstimo e o pagamento dos juros e demais encargos serão feitos em prestações mensais, sempre iguais, vencendo-se a primeira amortização no mês subsequente ao da utilização total do empréstimo.\n\n2 - As prestações referidas no número anterior serão debitadas nas contas de depósito dos beneficiários.\n\n3 - O beneficiário do crédito constituirá ou indicará uma conta de depósito à ordem na Caixa Geral de Depósitos, na qual se farão todos os movimentos relativos ao empréstimo concedido, e declarará expressamente, quando da outorga do empréstimo, autorizar a Caixa Geral de Depósitos a debitar ou descontar as prestações relativas aos juros e reembolso do empréstimo.\n\n4 - Quando a utilização do empréstimo se efectuar em prestações, nos termos do artigo 10.º, a cobrança dos juros das prestações utilizadas será feita periodicamente por débito na conta de depósito à ordem do beneficiário do crédito."
+  },
+  "53443d774a424ce4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Pagamento antecipado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento antecipado\n\n1 - O beneficiário do crédito poderá antecipar o reembolso do empréstimo, no todo ou em parte, devendo prevenir a entidade gestora do Fundo de Pensões dos Militares das Forças Armadas 30 dias antes daquele em que pretende usar dessa faculdade de tal facto, não resultando, no entanto, qualquer restituição de juros.\n\n2 - Se a antecipação do reembolso for total e não for apresentada qualquer justificação aceitável, o participante ficará impedido de recorrer a novo empréstimo ao abrigo deste regulamento.\n\n3 - As habitações adquiridas ou construídas com empréstimos concedidos nos termos do presente regulamento só poderão ser alienadas na condição de liquidação imediata do empréstimo."
+  },
+  "09ec7feff69f83dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Hipoteca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Hipoteca\n\nOs empréstimos serão garantidos por primeira hipoteca da habitação, constituída a favor do Fundo de Pensões dos Militares das Forças Armadas."
+  },
+  "ad85c58caef6fa64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Seguros\n\n1 - O beneficiário do crédito constituirá um seguro que garanta, em caso de morte ou invalidez permanente, uma renda mensal igual às prestações mensais em dívida e por um período igual ao prazo da respectiva amortização, ou que garanta a liquidação total da dívida, na data do evento, a favor do Fundo de Pensões dos Militares das Forças Armadas.\n\n2 - O beneficiário do crédito terá também de fazer um seguro contra os riscos de incêndio e desastres naturais da habitação, por montante mínimo igual ao valor da construção, ficando o Fundo de Pensões dos Militares das Forças Armadas, em caso de sinistro, com o direito de receber directamente da companhia seguradora a importância do seguro até ao valor do empréstimo em dívida.\n\n3 - As cláusulas dos seguros previstos nos números anteriores, depois de aprovadas pela instituição mutuante, não poderão ser alteradas sem a sua prévia autorização.\n\n4 - O beneficiário do crédito comunicará à entidade gestora do Fundo de Pensões dos Militares das Forças Armadas, anualmente, a prova de pagamento dos prémios dos seguros enunciados neste artigo, havendo lugar à rescisão do contrato de financiamento se tal prova não for efectuada."
+  },
+  "a96a3b4d80206835": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Obrigação de habitar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigação de habitar\n\n1 - Os beneficiários ficam obrigados a proceder à ocupação efectiva do imóvel no prazo de 180 dias da data da escritura de aquisição ou, nos casos de construção, em idêntico prazo da data de obtenção de licença de habitação ou documento equivalente exigido por lei, sob pena de imediato vencimento do empréstimo em dívida.\n\n2 - Qualquer que seja a modalidade do crédito, se o imóvel deixar de se destinar à habitação permanente do próprio beneficiário do crédito e ou do seu agregado familiar, o empréstimo vence-se logo que tal facto esteja constatado.\n\n3 - Exceptua-se do disposto nos números anteriores a hipótese de posterior inadequação da habitação ao respectivo agregado familiar ou de transferência do participante para localidade situada a distância superior a 35 km da sua residência, casos em que poderá ser autorizada por escrito a cedência do uso e fruição do imóvel."
+  },
+  "bb23f88198865b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Não cumprimento do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Não cumprimento do contrato\n\n1 - O não cumprimento das obrigações decorrentes do contrato determinará o vencimento imediato das prestações em dívida, que se consideram imediatamente exigíveis, iniciando-se a contagem de juros de mora, à taxa de juros de mora aplicada sobre as dívidas ao Estado.\n\n2 - Ficam sujeitos ao prescrito no número anterior, sem prejuízo de procedimento legal, todos os que usarem de meios fraudulentos, tendentes à obtenção de um despacho favorável ou de condições diversas daquelas que nos termos deste regulamento lhes competirem ou de desvio de fundos para outros fins."
+  },
+  "44e4fff21ac01c76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Perda da qualidade de participante do Fundo de Pensões dos Militares das Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Perda da qualidade de participante do Fundo de Pensões dos Militares das Forças Armadas\n\n1 - Se o beneficiário do crédito perder a qualidade de participante do Fundo de Pensões dos Militares das Forças Armadas, por passagem à situação de reforma por limite de idade ou por invalidez ou doença, será mantida a amortização mensal segundo o plano inicial.\n\n2 - Se o beneficiário do crédito perder a qualidade de participante do Fundo de Pensões dos Militares das Forças Armadas, devido a desistência ou abandono da carreira militar, poderão ser alterados os prazos e taxas para o regime geral mais gravoso."
+  },
+  "a271c944cd76b572": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Do processo"
+  },
+  "eeff05f5716676c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Período de apresentação dos pedidos de empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Período de apresentação dos pedidos de empréstimo\n\nO Período de apresentação dos pedidos de empréstimo decorre de 1 de Outubro a 30 de Novembro de cada ano, sendo apenas considerada, para efeitos de validação da candidatura, a data de registo dos correios."
+  },
+  "6036c93ab429719f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Período de concessão dos pedidos de empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Período de concessão dos pedidos de empréstimo\n\nO período de concessão dos pedidos de empréstimo decorre de 1 de Janeiro a 15 de Setembro de cada ano, sendo para o efeito consideradas as candidaturas apresentadas no período competente do ano anterior."
+  },
+  "7ec4b0c2155d7f62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Validade dos pedidos de empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Validade dos pedidos de empréstimo\n\nOs pedidos de empréstimo apenas produzirão efeitos para o estabelecimento das prioridades no ano a que respeitam, entendendo-se que os pedidos não atendidos por insuficiência de dotação anual terão de ser apresentados no(s) próximo(s) concurso(s), sob pena de não serem considerados."
+  },
+  "98ffa06f623b4ab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Instrução dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução dos processos\n\nSão indispensáveis para a concretização dos empréstimos os documentos que a seguir se enunciam:\n\n1) Empréstimos para aquisição de moradia ou andar já construído:\n\na) Identificação actualizada da propriedade;\n\nb) Contrato-promessa de compra e venda;\n\nc) Planta da moradia (ou andar) e do terreno;\n\nd) Caderneta predial urbana ou duplicado da participação para inscrição na matriz ou certidão de teor da repartição de finanças;\n\ne) Nota do registo provisório de transmissão do prédio a favor do participante;\n\nf) Nota do registo provisório da hipoteca a favor do Fundo de Pensões dos Militares das Forças Armadas do prédio adquirido;\n\ng) Certidão da conservatória do registo predial onde constem todos os registos em vigor, incluindo os provisórios de transmissão e de hipotecas;\n\nh) Identificação completa dos vendedores e dos credores hipotecários, se for caso disso. Quando o vendedor for uma sociedade, certidão de registo comercial donde constem as regras para obrigar a sociedade e os nomes dos seus representantes;\n\ni) Licença de habitação ou documento equivalente exigido por lei;\n\n2) Empréstimo para construção de habitação própria:\n\na) Identificação do terreno, se não for construção em terreno próprio;\n\nb) Certidão de teor do artigo matricial, da participação para inscrição na matriz, se ainda estiver omisso, ou caderneta predial;\n\nc) Projecto autenticado pelos serviços técnicos da câmara municipal respectiva, memória descritiva, caderno de encargos e cálculos de estabilidade;\n\nd) Declaração do construtor, com garantia bancária, assumindo compromisso de edificar de acordo com o caderno de encargos, donde conste o respectivo preço e condições de pagamento e com menção expressa da data limite para a conclusão da obra;\n\ne) Nota do registo provisório de hipoteca do terreno e imóvel a construir, a favor da instituição de crédito (quando em terreno próprio), ou ainda registo provisório de transmissão a favor do empregado, quando adquirir o terreno;\n\nf) Certidão da conservatória do registo predial donde constem todos os registos em vigor, incluindo os registos provisórios;\n\ng) Identificação completa dos vendedores;\n\nh) Certidão de loteamento, quando necessária."
+  },
+  "f50d91de0d0bac93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Apreciação e fixação de montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Apreciação e fixação de montante\n\n1 - Após a recepção da documentação referida nas alíneas a) e c) do n.º 1) e a), b), c) e d) do n.º 2) do artigo anterior, a entidade gestora do Fundo de Pensões dos Militares das Forças Armadas mandará proceder à avaliação da habitação a adquirir ou a construir.\n\n2 - Após a recepção do relatório de avaliação, o Fundo de Pensões dos Militares das Forças Armadas procederá à afixação do montante do empréstimo a conceder, tendo em consideração a referida avaliação e os limites referidos nos artigos 4.º e 5.º"
+  },
+  "033d7adae6db754d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Caducidade da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Caducidade da autorização\n\n1 - A partir da data em que lhe seja dado conhecimento da autorização provisória, o requerente tem o prazo de três meses para proceder à formalização do processo, através da entrega da documentação indispensável para se mandar proceder à avaliação da habitação que pretende adquirir ou construir, bem como de qualquer outra que, eventualmente, lhe venha a ser solicitada pelos serviços.\n\n2 - Após a avaliação, será comunicada ao requerente a autorização definitiva, tendo este o prazo de 120 dias para apresentação da restante documentação necessária para a celebração do contrato.\n\nOs prazos referidos nos números anteriores poderão a título excepcional ser prorrogados, por igual período, a pedido devidamente justificado.\n\n3 - A não observância dos n.os 1 e 2 implica a anulação do pedido e arquivo do respectivo processo."
+  },
+  "ba202a156fd8b896": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Forma do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Forma do contrato\n\nAs condições dos empréstimos serão reduzidas a escrito e revestirão a forma exigida por lei."
+  },
+  "c39388459a7d3e03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Reembolso de encargos custeados pelo Fundo de Pensões dos Militares das Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reembolso de encargos custeados pelo Fundo de Pensões dos Militares das Forças Armadas\n\nO beneficiário do crédito reembolsará o Fundo de Pensões dos Militares das Forças Armadas de todas as despesas que hajam sido realizadas com vista à concessão dos empréstimos, mesmo em caso de denegação."
+  },
+  "cae97e263e0f6b8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III"
+  },
+  "09b06735fa4b2f95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nLimite de mobilização de recursos do Fundo de Pensões dos Militares das Forças Armadas\n\n1 - A entidade gestora do Fundo de Pensões dos Militares das Forças Armadas divulgará, para cada ano, o limite dos recursos a mobilizar para o crédito à habitação nos termos do presente regulamento.\n\n2 - Se, em qualquer ano, a importância total dos pedidos de crédito para habitação autorizados ao abrigo do presente regulamento for inferior aos recursos afectos, nesse ano, à concessão deste tipo de crédito, o saldo transitará para o ano seguinte, acrescendo à respectiva dotação."
+  },
+  "8c251072e672ff75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente regulamento deverá ser aplicado pela entidade gestora do Fundo de Pensões dos Militares das Forças Armadas a partir de 1 de Outubro de 1991."
+  },
+  "b71fbddc13edf326": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nA entidade gestora do Fundo de Pensões dos Militares das Forças Armadas poderá delegar ou subcontratar na Caixa Geral de Depósitos ou noutras instituições de crédito a gestão do crédito ora regulamentado.\n\nRegras de preferência\n\n1 - Condições de habitação:\n\na) Título de ocupação:\n\n... Pontos\n\nHabitação própria inadequada ... 5\n\nLocação ... 15\n\nSublocação ou hospedagem ... 20\n\nb) Índice de ocupação:\n\nI = (NPR x 10)/NQ\n\nNPR = número de pessoas residentes;\n\nNQ = número de divisões assoalhadas menos uma (mínimo de uma);\n\nc) Relação renda/rendimento do agregado familiar:\n\nAté 10% ... 5\n\nSuperior a 10% até 20% ... 10\n\nSuperior a 20% até 30% ... 15\n\nSuperior a 30% até 40% ... 20\n\nSuperior a 40% até 50% ... 25\n\nSuperior a 50% ... 30\n\n2 - Factores de desempate (pela ordem indicada):\n\na) Idade mais avançada;\n\nb) Maior antiguidade de serviço;\n\nc) Ordem de chegada.\n\nIndicações gerais"
+  },
+  "47eabffc90d7a1de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Título de ocupação:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título de ocupação:\n\nHabitação própria inadequada - entende-se por «habitação própria inadequada» aquela que é de propriedade do peticionário, do cônjuge ou ainda de qualquer dos elementos que compõem o seu agregado familiar, inadequação essa que deve ser devidamente justificada;\n\nLocação, sublocação e hospedagem - estes conceitos abrangem ainda a situação em que o título esteja em nome do próprio ou de qualquer dos componentes do seu agregado familiar.\n\nÍndice de ocupação:\n\nNúmero de divisões assoalhadas - deverão ser indicadas somente as divisões efectivamente ocupadas pelo próprio, ou por ele e o seu agregado familiar, incluindo suas empregadas domésticas;\n\nNúmero de pessoas residentes - será indicado apenas o número de pessoas que compõem o seu agregado familiar e empregadas domésticas."
+  },
+  "f840e01790f75463": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Fins dos empréstimos",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 1.º — Fins dos empréstimos\n\n1 - Os empréstimos, objecto do presente regulamento, visam proporcionar aos participantes do Fundo de Pensões dos Militares das Forças Armadas a possibilidade de:\n\na) Aquisição de habitação já construída;\n\nb) Construção de habitação em terreno próprio.\n\nc) Beneficiação de habitação própria.\n\n2 - Não serão concedidos empréstimos nos termos deste regulamento para liquidação de outros contraídos com idêntica finalidade junto de quaisquer instituições de crédito.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "e7c214757668fc70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Novos empréstimos",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 2.º — Novos empréstimos\n\n1 - Após ter obtido um primeiro empréstimo para construção ou aquisição de habitação própria nos termos do presente regulamento, o mesmo participante pode solicitar, sucessivamente, novos empréstimos, quando se verifique ter necessidade de adquirir ou construir nova habitação, ou beneficiar a habitação própria, em virtude de a habitação construída ou adquirida com empréstimo anterior se ter tornado inadequada por motivo de aumento do agregado familiar, saúde, transferência do local de trabalho ou qualquer outro superveniente, que se considere justificativo de novo pedido.\n\n2 - Verificada a situação referida no número anterior, torna-se imediatamente exigível a parte do primeiro empréstimo ainda em dívida, cabendo à entidade gestora do Fundo de Pensões dos Militares das Forças Armadas definir, perante cada situação concreta, as condições a que deverá obedecer a concessão de novo empréstimo e a liquidação do anterior.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "7af29fa649874e68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Requisitos relativos ao requerente",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 3.º — Requisitos relativos ao requerente\n\nPodem solicitar a concessão de empréstimos os militares dos quadros permanentes em relação aos quais se verifiquem cumulativamente as seguintes situações:\n\na) Serem participantes do Fundo de Pensões dos Militares das Forças Armadas;\n\nb) Não possuírem habitação em seu nome ou do cônjuge não separado judicialmente de pessoas e bens, excepto se, possuindo-a, não for a mais adequada ao alojamento do respectivo agregado familiar ou não estiver situada a uma distância inferior a 30 km do local de trabalho, quando se trate da concessão de crédito para a aquisição ou construção de habitação própria.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "361e479447a346d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Limites gerais do valor do empréstimo",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 5.º — Limites gerais do valor do empréstimo\n\n1 - O limite máximo do empréstimo a conceder é:\n\na) Quando se trate de aquisição ou construção de habitação própria, igual ao produto do valor correspondente ao índice 100 da grelha salarial estabelecida pelo [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, pelo factor 276, não podendo o custo da habitação ser superior ao produto do valor correspondente ao índice 100 daquela grelha salarial pelo factor 414;\n\nb) Quando se trate de beneficiação de habitação própria, igual ao produto correspondente ao índice 100 da grelha salarial estabelecida pelo [Decreto-Lei n.º 57/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1990-334625), de 14 de Fevereiro, pelo factor 69.\n\n2 - O valor máximo do empréstimo será também definido pelas seguintes percentagens sobre o valor total da habitação em função do custo por metro quadrado, ponderado pelo índice 100 da grelha salarial:\n\nAté 1,7 vezes o índice 100 - 90%;\n\nDe 1,7 a 2,0 vezes o índice 100 - 80%;\n\nMais de 2,0 vezes o índice 100 - 65%.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "427d9a23ec24674b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Limites em função do rendimento do agregado familiar",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 6.º — Limites em função do rendimento do agregado familiar\n\n1 - O empréstimo não pode exceder um valor que determine um encargo mensal superior a um terço dos rendimentos brutos do agregado familiar do beneficiário do crédito, no caso de aquisição ou construção de habitação própria, ou de 1/12 dos rendimentos brutos do agregado familiar do beneficiário do crédito, no caso de beneficiação de habitação própria.\n\n2 - Para efeitos do presente regulamento, considera-se:\n\na) Agregado familiar: o participante, o cônjuge e os respectivos ascendentes, descendentes e filhos adoptivos que coabitam a título permanente e na sua dependência económica;\n\nb) Rendimento do agregado familiar: a soma de todos os rendimentos não eventuais dos seus componentes.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "9e1cf1c279d93d20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Regras de preferência",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 8.º — Regras de preferência\n\n1 - As regras de preferência a aplicar a todos os requerentes, para determinação da escala nominal dos interessados, serão as constantes do anexo A.\n\n2 - A entidade gestora do Fundo de Pensões dos Militares das Forças Armadas organiza uma lista ordenada de todos os participantes que se candidatem à aplicação de cada dotação anual, com validade apenas até à integral utilização daquela verba.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "e0f7e0f696ed30c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Prazos de amortização",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 9.º — Prazos de amortização\n\n1 - O prazo máximo dos empréstimos para aquisição ou construção de habitação própria é de 25 anos.\n\n2 - O prazo máximo dos empréstimos para beneficiação de habitação própria é de 10 anos.\n\n3 - Os empréstimos referidos nos números anteriores devem estar liquidados até o beneficiário do crédito perfazer a idade de 70 anos.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "666890fabbc03684": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Prazo de utilização em caso de construção ou de beneficiação de habitação própria",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 10.º — Prazo de utilização em caso de construção ou de beneficiação de habitação própria\n\n1 - A utilização total do empréstimo em caso de construção deve ser feita no prazo máximo de dois anos após a outorga do respectivo contrato e em prestações que não podem exceder o número de seis.\n\n2 - A utilização total do empréstimo em caso de beneficiação de habitação própria deve ser feita no prazo máximo de seis meses após a outorga do respectivo contrato e em prestações que não podem exceder o número de duas.\n\n3 - A entrega ao beneficiário do crédito das prestações do empréstimo será obrigatoriamente precedida de avaliação ou medição de obra que a justifique.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "cc5c1d29823ad0d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Pagamento do empréstimo",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 11.º — Pagamento do empréstimo\n\n1 - A amortização do empréstimo e o pagamento dos juros e demais encargos serão feitos em prestações mensais, sempre iguais, vencendo-se a primeira amortização no mês subsequente ao da utilização total do empréstimo.\n\n2 - As prestações referidas no número anterior serão debitadas nas contas de depósito dos beneficiários.\n\n3 - O beneficiário do crédito constitui ou indica uma conta de depósito à ordem na Caixa Geral de Depósitos ou noutra instituição bancária a designar pela entidade gestora, na qual se fazem todos os movimentos relativos ao empréstimo concedido, e declara expressamente, quando da outorga do empréstimo, autorizar a Caixa Geral de Depósitos ou a instituição bancária designada a debitar ou descontar as prestações relativas aos juros e reembolso do empréstimo.\n\n4 - Quando a utilização do empréstimo se efectuar em prestações, nos termos do artigo 10.º, a cobrança dos juros das prestações utilizadas será feita periodicamente por débito na conta de depósito à ordem do beneficiário do crédito.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "83fada477db35c96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Pagamento antecipado",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 12.º — Pagamento antecipado\n\n1 - O beneficiário do crédito pode antecipar o reembolso do empréstimo no todo ou em parte, devendo prevenir a entidade gestora do Fundo de Pensões dos Militares das Forcas Armadas 30 dias antes do exercício de tal faculdade.\n\n2 - As habitações adquiridas, construídas ou beneficiadas com empréstimos concedidos nos termos do presente regulamento só podem ser alienadas na condição de liquidação imediata do empréstimo.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "35a3e574fdd30228": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Seguros",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 14.º — Seguros\n\n1 - O beneficiário do crédito constitui um seguro que garante, no caso de morte ou invalidez permanente, a liquidação total da dívida, na data do evento, a favor do Fundo de Pensões dos Militares das Forças Armadas.\n\n2 - O beneficiário do crédito constitui igualmente um seguro contra os riscos de incêndio, sismos e desastres naturais da habitação, por montante mínimo igual ao valor da construção, ficando o Fundo de Pensões dos Militares das Forças Armadas, em caso de sinistro, com o direito de receber directamente da companhia seguradora a importância do seguro até ao valor do empréstimo em dívida.\n\n3 - As cláusulas dos seguros previstos nos números anteriores, depois de aprovadas pela instituição financeira gestora do empréstimo, designada de acordo com o n.º 3 do artigo 11.º, não podem ser alteradas sem a sua prévia autorização.\n\n4 - O beneficiário do crédito comunica à instituição financeira gestora do empréstimo a prova de pagamento dos prémios dos seguros previstos neste artigo, havendo lugar a rescisão do contrato de financiamento se tal prova não for efectuada.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "e79fe6d2413a1e0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Obrigação de habitar",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 15.º — Obrigação de habitar\n\n1 - Os beneficiários ficam obrigados a proceder à ocupação efectiva do imóvel no prazo de 180 dias da data da escritura de aquisição ou, nos casos de construção, em idêntico prazo da data de obtenção de licença de habitação ou documento equivalente exigido por lei, sob pena de imediato vencimento do empréstimo em dívida.\n\n2 - Quando se trate de crédito para beneficiação de habitação própria que implique o abandono da habitação, o beneficiário é obrigado a reocupar efectivamente o imóvel no prazo de 60 dias a partir da conclusão da obra, devendo disso informar a entidade gestora do crédito, sob pena de imediato vencimento do empréstimo em dívida.\n\n3 - Qualquer que seja a modalidade do crédito, se o imóvel deixar de se destinar à habitação permanente do próprio beneficiário do crédito e ou do seu agregado familiar, o empréstimo vence-se logo que tal facto esteja constatado.\n\n4 - O disposto nos números anteriores não é aplicável aos casos de inadequação da habitação ao respectivo agregado familiar ou de transferência do participante para localidade situada a distância superior a 30 km da sua residência, casos em que pode ser autorizada por escrito a cedência do uso e fruição do imóvel.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "13833fbdd819e724": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Perda da qualidade de participante do Fundo de Pensões dos Militares das Forças Armadas",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 17.º — Perda da qualidade de participante do Fundo de Pensões dos Militares das Forças Armadas\n\n1 - Se o beneficiário do crédito perder a qualidade de participante do Fundo de Pensões dos Militares das Forças Armadas, por passagem à situação de reforma por limite de idade ou por invalidez ou doença, será mantida a amortização mensal segundo o plano inicial.\n\n2 - Se o beneficiário do crédito perder a qualidade de participante do Fundo de Pensões dos Militares das Forças Armadas, devido a desistência ou abandono da carreira militar, o capital em dívida deve ser liquidado no prazo de 30 dias a contar da data de desistência ou de abate aos quadros, conforme os casos.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "c04ddde8ec8184ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Instrução dos processos",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 21.º — Instrução dos processos\n\nSão indispensáveis para a concretização dos empréstimos os seguintes documentos:\n\n1) Empréstimos para aquisição de moradia ou andar já construído:\n\na) Identificação actualizada da propriedade;\n\nb) Contrato-promessa de compra e venda;\n\nc) Planta da moradia (ou andar) e do terreno;\n\nd) Caderneta predial urbana ou duplicado da participação para inscrição na matriz ou certidão de teor da repartição de finanças;\n\ne) Nota do registo provisório de transmissão do prédio a favor do participante;\n\nf) Nota do registo provisório da hipoteca a favor do Fundo de Pensões dos Militares das Forças Armadas do prédio adquirido;\n\ng) Certidão da conservatória do registo predial onde constem todos os registos em vigor, incluindo os provisórios de transmissão e de hipotecas;\n\nh) Identificação completa dos vendedores e dos credores hipotecários, se for caso disso. Quando o vendedor for uma sociedade, certidão de registo comercial donde constem as regras para obrigar a sociedade e os nomes dos seus representantes;\n\ni) Licença de habitação ou documento equivalente exigido por lei;\n\n2) Empréstimo para construção de habitação própria:\n\na) Identificação do terreno, se não for construção em terreno próprio;\n\nb) Certidão de teor do artigo matricial, da participação para inscrição na matriz, se ainda estiver omisso, ou caderneta predial;\n\nc) Projecto autenticado pelos serviços técnicos da câmara municipal respectiva, memória descritiva, caderno de encargos e cálculos de estabilidade;\n\nd) Declaração do construtor, com garantia bancária, assumindo compromisso de edificar de acordo com o caderno de encargos, donde conste o respectivo preço e condições de pagamento e com menção expressa da data limite para a conclusão da obra;\n\ne) Nota do registo provisório de hipoteca do terreno e imóvel a construir, a favor da instituição de crédito (quando em terreno próprio), ou ainda registo provisório de transmissão a favor do empregado, quando adquirir o terreno;\n\nf) Certidão da conservatória do registo predial donde constem todos os registos em vigor, incluindo os registos provisórios;\n\ng) Identificação completa dos vendedores;\n\nh) Certidão de loteamento, quando necessária.\n\n3) Empréstimo para beneficiação de habitação própria:\n\na) Certidão da conservatória do registo predial, de onde constem todos os registos em vigor, incluindo os provisórios;\n\nb) Orçamento e projecto autenticado pelos serviços técnicos da câmara municipal respectiva, memória descritiva, caderno de encargos e cálculos de estabilidade;\n\nc) Caderno de encargos da obra, de onde deve constar o respectivo preço e condições de pagamento, assim como a menção expressa da data limite para a conclusão da obra.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "3db26115c00ce416": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Apreciação e fixação de montante",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 22.º — Apreciação e fixação de montante\n\n1 - Após a recepção da documentação referida nas alíneas a) e c) do n.º 1, a), b), c) e d) do n.º 2 e no n.º 3 do artigo anterior, a entidade gestora do Fundo de Pensões dos Militares das Forças Armadas manda proceder à avaliação da habitação a adquirir ou a construir ou da obra de beneficiação.\n\n2 - Após recepção do relatório de avaliação, o Fundo de Pensões dos Militares das Forças Armadas procede à fixação do montante do empréstimo a conceder, tendo em consideração a referida avaliação e os limites referidos nos artigos 5.º e 6.º\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  },
+  "128b4cb5e84154aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Caducidade da autorização",
+   "in_force_from": "1995-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+   ],
+   "markdown": "###### Artigo 23.º — Caducidade da autorização\n\n1 - A partir da data em que lhe seja dado conhecimento da autorização provisória, o requerente tem o prazo de três meses para proceder à formalização do processo, através da entrega da documentação indispensável para se mandar proceder à avaliação da habitação que pretende adquirir ou construir, bem como de qualquer outra que, eventualmente, lhe venha a ser solicitada pelos serviços.\n\n2 - A partir da data em que lhe seja dado conhecimento da autorização provisória, o requerente tem o prazo de 60 dias para proceder à formalização do processo, através da entrega da documentação indispensável para se mandar proceder à avaliação da obra de beneficiação, bem como de qualquer outra que, eventualmente, lhe venha a ser solicitada pelos serviços.\n\n3 - Após a avaliação, será comunicada ao requerente a autorização definitiva, tendo este o prazo de 120 dias para apresentação da restante documentação necessária para a celebração do contrato.\n\n4 - Os prazos referidos nos números anteriores poderão a título excepcional ser prorrogados, por igual período, a pedido devidamente justificado.\n\n5 - A não observância dos n.os 1, 2 e 3 implica a anulação do pedido e arquivamento do respectivo processo.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11."
+  }
+ }
+}

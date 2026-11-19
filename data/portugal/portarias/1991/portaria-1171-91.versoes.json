@@ -1,0 +1,800 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:395573:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47e99892982b66bd",
+    "7f714babba531375",
+    "e9fe672ddde1d8b6",
+    "67c467a391e351e4",
+    "cec6ed401ae64ea1",
+    "af8706587cb713be",
+    "a1a1b7b45543f409",
+    "3d5871adfb35a55b",
+    "e2dc3ba0f5c0bd33",
+    "72a5e6bbee276771",
+    "f02e24ceda96a9bf",
+    "bcec3b50ee2d4689",
+    "adfc2ae4fc993957",
+    "a46b1e6d022b93db",
+    "c7c45e6827de4235",
+    "4c04273e70baf1dd",
+    "361c6b8194f1dbec",
+    "000a31aea5d7a253",
+    "2f86ccfc0f977399",
+    "4602027b5f43315a",
+    "a2d261dcbe3f0063",
+    "0898570d01260079",
+    "e9fe672ddde1d8b6",
+    "eacbd11153af0af8",
+    "d3d4b4a7b760de83",
+    "61cd099b4b76fd30",
+    "3fec68d4f71d5048",
+    "0e736880bd146e59",
+    "8356d2195325929d",
+    "cfe6dc7ad48ef56b",
+    "aa7d775bed8e096a",
+    "df7e550208805693",
+    "2b18abc82de56e76",
+    "f4a34f1d082101d4",
+    "05d96a24404f0eb2",
+    "06560bc52fc919e2",
+    "a3863347bb290424",
+    "be0195dc720cf354",
+    "58230d6f2fd1a524",
+    "08d450b49242ab08",
+    "c8ff3660f02a530b",
+    "402602bb6048cd9a",
+    "ec846c9ecefde1b6",
+    "b030fd86e8b32d42",
+    "e68271d6d37a831b",
+    "d4ce4b78dd2878ff",
+    "9588744670b4f133",
+    "4b600934338060a9",
+    "b4f87a24b87cb1c0",
+    "9a01b57ada67599a",
+    "eff65d574bc0af86",
+    "f948d363dd1124ad",
+    "f45f3d7b5bdf1991",
+    "16bb75a1d9806c9f",
+    "fedacdc5c78ec088",
+    "c4e10d63c8c10bc3",
+    "a0b7507507a58ead",
+    "c1f3ea0648c072e6",
+    "5e1659144e6f9c47",
+    "b3a8e98200374ec4",
+    "c717ff1fd7bbf50c",
+    "81a3541a296bc744",
+    "f48671aef818414b",
+    "33eb16f2f0ce5c89",
+    "5653879ba7ad7656",
+    "cd063b4fab04b50d",
+    "7ac29bd77c630423",
+    "7c555ebfedf29b76",
+    "1117fff4dc7c13e9",
+    "ddd8188e28f17230",
+    "db4fa3605328d444",
+    "2f83b21343877189",
+    "7e59e390c9ac8d42",
+    "3b05bcfe8a2a6b31"
+   ]
+  },
+  {
+   "date": "1992-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:200018:por",
+     "title": "Portaria n.º 341/92",
+     "published": "1992-04-13",
+     "dre_path": "/dr/detalhe/portaria/341-1992-200018"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo ANEXO II — Prazos"
+   ],
+   "fragments": [
+    "47e99892982b66bd",
+    "7f714babba531375",
+    "e9fe672ddde1d8b6",
+    "67c467a391e351e4",
+    "cec6ed401ae64ea1",
+    "af8706587cb713be",
+    "e9700229c49deebe",
+    "3d5871adfb35a55b",
+    "e2dc3ba0f5c0bd33",
+    "72a5e6bbee276771",
+    "f02e24ceda96a9bf",
+    "bcec3b50ee2d4689",
+    "adfc2ae4fc993957",
+    "a46b1e6d022b93db",
+    "c7c45e6827de4235",
+    "4c04273e70baf1dd",
+    "361c6b8194f1dbec",
+    "000a31aea5d7a253",
+    "2f86ccfc0f977399",
+    "4602027b5f43315a",
+    "a2d261dcbe3f0063",
+    "0898570d01260079",
+    "e9fe672ddde1d8b6",
+    "eacbd11153af0af8",
+    "d3d4b4a7b760de83",
+    "61cd099b4b76fd30",
+    "3fec68d4f71d5048",
+    "0e736880bd146e59",
+    "8356d2195325929d",
+    "cfe6dc7ad48ef56b",
+    "aa7d775bed8e096a",
+    "df7e550208805693",
+    "2b18abc82de56e76",
+    "f4a34f1d082101d4",
+    "05d96a24404f0eb2",
+    "06560bc52fc919e2",
+    "a3863347bb290424",
+    "be0195dc720cf354",
+    "58230d6f2fd1a524",
+    "08d450b49242ab08",
+    "c8ff3660f02a530b",
+    "402602bb6048cd9a",
+    "ec846c9ecefde1b6",
+    "7e8afbabb035ddea",
+    "e68271d6d37a831b",
+    "d4ce4b78dd2878ff",
+    "9588744670b4f133",
+    "4b600934338060a9",
+    "b4f87a24b87cb1c0",
+    "9a01b57ada67599a",
+    "eff65d574bc0af86",
+    "f948d363dd1124ad",
+    "f45f3d7b5bdf1991",
+    "16bb75a1d9806c9f",
+    "fedacdc5c78ec088",
+    "c4e10d63c8c10bc3",
+    "a0b7507507a58ead",
+    "c1f3ea0648c072e6",
+    "5e1659144e6f9c47",
+    "b3a8e98200374ec4",
+    "c717ff1fd7bbf50c",
+    "81a3541a296bc744",
+    "f48671aef818414b",
+    "33eb16f2f0ce5c89",
+    "5653879ba7ad7656",
+    "cd063b4fab04b50d",
+    "7ac29bd77c630423",
+    "7c555ebfedf29b76",
+    "1117fff4dc7c13e9",
+    "ddd8188e28f17230",
+    "db4fa3605328d444",
+    "2f83b21343877189",
+    "7e59e390c9ac8d42",
+    "0a0791779750bde7"
+   ]
+  }
+ ],
+ "fragments": {
+  "47e99892982b66bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Novembro\n\nConsiderando o disposto no [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, alterado pelos Decretos-Leis n.os [140/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1989-625602), de 28 de Abril, [33/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1990-335245), de 24 de Janeiro, [276/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1990-556416), de 10 de Setembro, e [379/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1991-288236), de 9 de Outubro;\n\nAo abrigo do disposto no seu artigo 39.º:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nÉ aprovado o Regulamento da Prova Geral de Acesso ao Ensino Superior de 1992, cujo texto se publica em anexo a esta portaria.\n\n2.º\n\nO texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.\n\n3.º\n\nTodas as alterações ao Regulamento serão nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.\n\n4.º\n\nEsta portaria entra em vigor na data da sua publicação.\n\nMinistério da Educação.\n\nAssinada em 11 de Novembro de 1991.\n\nO Ministro da Educação, Diamantino Freitas Gomes Durão.\n\nRegulamento da Prova Geral de Acesso ao Ensino Superior de 1992"
+  },
+  "7f714babba531375": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Inscrição e realização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Inscrição e realização"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "67c467a391e351e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Quem deve realizar a prova geral de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Quem deve realizar a prova geral de acesso\n\nDeve realizar a prova geral de acesso todo o estudante que, em 1992, pretenda:\n\na) Apresentar-se ao concurso nacional de acesso a que se refere o artigo 5.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, para a matrícula em estabelecimento de ensino superior público; ou\n\nb) Matricular-se e inscrever-se num estabelecimento e curso de ensino superior público não abrangido pelo concurso nacional de acesso ou num estabelecimento e curso do ensino superior particular e cooperativo."
+  },
+  "cec6ed401ae64ea1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Épocas e chamadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Épocas e chamadas"
+  },
+  "af8706587cb713be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Épocas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Épocas\n\n1 - A prova geral de acesso realiza-se em duas épocas: normal e especial.\n\n2 - A época especial destina-se exclusivamente a:\n\na) Estudantes que reúnam as condições para se apresentarem à candidatura pelo contingente especial para emigrantes portugueses e seus familiares, conforme definido no artigo 58.º do presente Regulamento;\n\nb) Estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário numa língua curricular não portuguesa, quer no estrangeiro quer em Portugal;\n\nc) Estudantes, portugueses ou estrangeiros, que tenham feito o ensino secundário português no estrangeiro.\n\n3 - Não podem apresentar-se à época especial os estudantes que se hajam apresentado à época normal.\n\n4 - Aos estudantes que, em infracção ao disposto nos números anteriores, realizem a prova em mais que uma época serão anuladas todas as provas realizadas."
+  },
+  "a1a1b7b45543f409": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Época normal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Época normal\n\n1 - A época normal tem duas chamadas.\n\n2 - Cada estudante pode apresentar-se a ambas as chamadas, sendo considerada apenas a prova da chamada em que obtenha melhor classificação.\n\n3 - A apresentação à segunda chamada não carece de outra inscrição."
+  },
+  "3d5871adfb35a55b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Época especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Época especial\n\n1 - A época especial tem duas chamadas.\n\n2 - Cada estudante pode apresentar-se a ambas as chamadas, sendo considerada apenas a prova da chamada em que obtenha melhor classificação.\n\n3 - A apresentação à segunda chamada não carece de outra inscrição."
+  },
+  "e2dc3ba0f5c0bd33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Inscrição"
+  },
+  "72a5e6bbee276771": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de inscrição para a realização da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de inscrição para a realização da prova\n\nPode inscrever-se para a realização da prova geral de acesso todo o estudante que, não sendo titular de um curso superior, satisfaça uma das seguintes condições:\n\na) Ser, à data da inscrição, titular do 12.º ano de escolaridade do ensino secundário ou de habilitação legalmente equivalente;\n\nb) Prever vir a concluir o 12.º ano de escolaridade do ensino secundário até à data de realização da candidatura;\n\nc) Prever vir a obter, até à data de realização da candidatura, equivalência de uma habilitação estrangeira ao 12.º ano de escolaridade do ensino secundário."
+  },
+  "f02e24ceda96a9bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Local de inscrição para realização da prova geral de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Local de inscrição para realização da prova geral de acesso\n\n1 - A inscrição para realização da prova geral de acesso na época normal realizar-se-á num dos seguintes locais:\n\na) Estudantes que se encontram matriculados no ano lectivo em curso em, pelo menos, uma disciplina de qualquer dos cursos do 12.º ano de escolaridade num estabelecimento de ensino público dependente do Ministério da Educação - no estabelecimento de ensino público em que se encontram matriculados no 12.º ano;\n\nb) Estudantes que se encontram matriculados no ano lectivo em curso em, pelo menos, uma disciplina de qualquer dos cursos do 12.º ano de escolaridade num estabelecimento de ensino público não depende do Ministério da Educação - no estabelecimento de ensino público em que se encontram matriculados no 12.º ano;\n\nc) Estudantes que se encontram matriculados no ano lectivo em curso em, pelo menos, uma disciplina de qualquer dos cursos do 12.º ano de escolaridade num estabelecimento de ensino particular e cooperativo com autonomia ou paralelismo pedagógico - no estabelecimento de ensino particular ou cooperativo em que se encontram matriculados no 12.º ano;\n\nd) Estudantes que se encontram matriculados no ano lectivo em curso em, pelo menos, uma disciplina de qualquer dos cursos do 12.º ano de escolaridade num estabelecimento de ensino particular e cooperativo sem autonomia ou paralelismo pedagógico - no estabelecimento de ensino público em que se encontram inscritos no 12.º ano;\n\ne) Estudantes que se encontram matriculados no ano lectivo em curso em, pelo menos, uma disciplina de qualquer dos cursos do 12.º ano de escolaridade no ensino individual ou doméstico - no estabelecimento de ensino público em que se encontram inscritos no 12.º ano;\n\nf) Estudantes que, não sendo titulares de um curso do 12.º ano de escolaridade nem estando numa das situações descritas nas alíneas a) a e), pretendam vir a inscrever-se para realizar os exames das disciplinas do 12.º ano como autopropostos - no estabelecimento de ensino secundário público em que pretendem realizar a prova geral de acesso (nos estabelecimentos de ensino indicados no anexo I não serão aceites inscrições dos estudantes a que se refere a presente alínea, salvo daqueles que aí já tiverem processo);\n\ng) Estudantes já titulares do 12.º ano de escolaridade, incluindo os que o adquiriram por equivalência, e que não estejam em nenhuma das situações referidas nas alíneas a) a e), mesmo que pretendam realizar, como autopropostos, novas disciplinas ou melhorias de nota - no estabelecimento de ensino secundário público em que pretendem realizar a prova geral de acesso (nos estabelecimentos de ensino indicados no anexo I não serão aceites inscrições dos estudantes a que se refere a presente alínea, salvo daqueles que aí já tiverem processo);\n\nh) Estudantes inscritos em ano terminal, genericamente equivalente ao 12.º ano de escolaridade, ministrado em escola estrangeira sediada em Portugal - na escola estrangeira sediada em Portugal em que se encontram inscritos;\n\ni) Estudantes residentes no território de Macau - no serviço competente designado pelo Governo do território de Macau;\n\nj) Estudantes que, não estando abrangidos por nenhuma das alíneas anteriores, prevejam vir a obter, até à data da realização da candidatura, equivalência de uma habilitação estrangeira ao 12.º ano de escolaridade - no estabelecimento de ensino secundário público em que pretendem realizar a prova geral de acesso (nos estabelecimentos de ensino indicados no anexo I não serão aceites inscrições dos estudantes a que se refere a presente alínea, salvo daqueles que aí já tiverem processo).\n\n2 - A inscrição para a realização da prova geral de acesso na época especial realizar-se-á na delegação distrital do Gabinete Coordenador do Ingresso no Ensino Superior do distrito de residência do estudante."
+  },
+  "bcec3b50ee2d4689": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Instrução do processo de inscrição para a prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instrução do processo de inscrição para a prova\n\n1 - O processo de inscrição para realização da prova deve ser instruído com os seguintes documentos:\n\na) Boletim de inscrição de modelo a fixar pelo Gabinete Coordenador do Ingresso no Ensino Superior;\n\nb) Fotocópia do bilhete de identidade do estudante.\n\n2 - No acto de inscrição deve igualmente ser apresentado o bilhete de identidade do estudante, o qual, após conferência, será imediatamente devolvido ao apresentante.\n\n3 - A exibição do bilhete de identidade do estudante pode ser substituída pela entrega de fotocópia do mesmo autenticada notarialmente.\n\n4 - Os estudantes estrangeiros residentes em Portugal, bem como os estudantes residentes no estrangeiro que não disponham de bilhete de identidade emitido pelas autoridades portuguesas, poderão, em sua substituição, apresentar o documento de identificação utilizado no país de que são nacionais ou em que residem, acompanhado de documento emitido pelo Gabinete Coordenador do Ingresso no Ensino Superior com um número de identificação interno.\n\n5 - O boletim de inscrição deve ser assinado pelo estudante ou, em sua substituição:\n\na) Por procurador bastante; ou\n\nb) Pela pessoa que demonstre exercer o poder paternal ou a tutela, sendo o estudante menor.\n\n6 - A entrega do boletim de inscrição e demais documentação não carece de ser feita pelo próprio nem por nenhuma das entidades a que se refere o n.º 5.\n\n7 - Da entrega do boletim de inscrição será passado recibo numa cópia do mesmo."
+  },
+  "adfc2ae4fc993957": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Estudantes portadores de deficiência física ou sensorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estudantes portadores de deficiência física ou sensorial\n\n1 - Os estudantes portadores de deficiência física ou sensorial que careçam de condições especiais para a realização da prova geral de acesso deverão juntar ao boletim de inscrição requerimento dirigido ao júri da prova geral de acesso.\n\n2 - O requerimento a que se refere o n.º 1 será formulado em impresso próprio, de modelo a fixar pelo Gabinete Coordenador do Ingresso no Ensino Superior, e deverá ser acompanhado de:\n\na) Relatório médico ou de diagnóstico psicológico, quando aplicável;\n\nb) Relatório síntese, elaborado por docente (ou técnico educativo) de educação especial, acerca das adaptações curriculares ou dos meios técnicos ou pedagógicos específicos que hajam sido utilizados, em relação ao estudante, durante o ensino secundário."
+  },
+  "a46b1e6d022b93db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Encaminhamento das inscrições - Época normal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Encaminhamento das inscrições - Época normal\n\n1 - O original do boletim de inscrição, bem como a restante documentação entregue pelo estudante referente às inscrições realizadas nos termos das alíneas a) a h) e j) do artigo 6.º, serão remetidos pelos estabelecimentos de ensino onde se realizaram à respectiva delegação distrital do Gabinete Coordenador do Ingresso no Ensino Superior.\n\n2 - O original do boletim de inscrição bem como a restante documentação entregue pelo estudante referente às inscrições realizadas nos termos da alínea i) do artigo 6.º serão remetidos pelas autoridades do território de Macau ao Gabinete Coordenador do Ingresso no Ensino Superior, através do Gabinete de Macau."
+  },
+  "c7c45e6827de4235": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Realização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Realização"
+  },
+  "4c04273e70baf1dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Pautas de chamada - Época normal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pautas de chamada - Época normal\n\nCom base na informação constante do duplicado do boletim de inscrição, os estabelecimentos de ensino onde os estudantes se inscreveram para a realização da prova na época normal elaborarão pautas de chamada."
+  },
+  "361c6b8194f1dbec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Local de realização da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Local de realização da prova\n\n1 - A prova realizar-se-á no estabelecimento de ensino em que o estudante se inscreveu para a mesma.\n\n2 - Exceptuam-se do disposto no n.º 1:\n\na) Os estudantes inscritos nos estabelecimentos a que se refere o anexo I, que realizarão a prova nos estabelecimentos que vierem a ser indicados pela Direcção-Geral dos Ensinos Básico e Secundário;\n\nb) Os estudantes inscritos no território de Macau [alínea i) do artigo 6.º], que realizarão a prova no local que for indicado pelas autoridades daquele território;\n\nc) Os estudantes inscritos para a época especial, que realizarão a prova nos locais que vierem a ser indicados pelo Gabinete Coordenador do Ingresso no Ensino Superior.\n\n3 - Por despacho do director-geral dos Ensinos Básico e Secundário, os estudantes inscritos num estabelecimento poderão, para efeitos de realização da prova geral de acesso, ser afectados, total ou parcialmente, a outro estabelecimento sito na mesma localidade.\n\n4 - Por despacho do Ministro da Educação, mediante proposta fundamentada do inspector-geral de Educação, poderá ser vedada a realização das provas em qualquer estabelecimento."
+  },
+  "000a31aea5d7a253": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Identificação no acto de realização da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Identificação no acto de realização da prova\n\n1 - No acto de realização da prova geral de acesso, o estudante deve ser portador do seu bilhete de identidade, sob pena de a prestação da mesma lhe ficar interdita.\n\n2 - Os estudantes estrangeiros residentes em Portugal, bem como os estudantes, nacionais ou estrangeiros, residentes no estrangeiro que não disponham de bilhete de identidade emitido pelas autoridades portuguesas, poderão, em sua substituição, apresentar o documento de identificação utilizado no país de que são nacionais ou em que residem e que utilizaram no acto de inscrição.\n\n3 - Os estudantes a que se refere o n.º 2 deverão ser igualmente portadores de documento emitido pelo Gabinete Coordenador do Ingresso no Ensino Superior com o número de identificação interno que lhes foi atribuído."
+  },
+  "2f86ccfc0f977399": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Fraudes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fraudes\n\n1 - A autoria, no decurso da prova geral de acesso, ainda que sob a forma meramente tentada, de conduta fraudulenta susceptível de implicar o desvirtuamento dos objectivos da mesma acarreta aos estudantes a quem a correspondente responsabilidade for comprovadamente imputada a anulação da prova.\n\n2 - A anulação da prova é da competência do júri a que se refere o artigo 12.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro, adiante simplesmente designado por júri da prova, por sua iniciativa, face aos elementos de que disponha directamente, nomeadamente os constantes das provas, ou sob participação do órgão de gestão do estabelecimento de ensino em que a prova se haja realizado."
+  },
+  "4602027b5f43315a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Confidencialidade\n\nÉ confidencial todo o serviço de natureza sigilosa relacionado com a prova geral de acesso."
+  },
+  "a2d261dcbe3f0063": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Remessa das provas para o júri da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Remessa das provas para o júri da prova\n\nOs órgãos de gestão de cada estabelecimento de ensino onde se realizem provas deverão remeter ao júri da prova, de acordo com as instruções por este aprovadas, as provas nele realizadas."
+  },
+  "0898570d01260079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Classificação"
+  },
+  "eacbd11153af0af8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º"
+  },
+  "d3d4b4a7b760de83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Parte aberta e parte fechada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte aberta e parte fechada\n\nA prova é constituída por uma parte fechada, integrada por questões de escolha múltipla, e por uma parte aberta."
+  },
+  "61cd099b4b76fd30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Direcção e homologação da classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direcção e homologação da classificação\n\nA direcção do processo de classificação da prova e a homologação da respectiva classificação final são da competência do júri da prova."
+  },
+  "3fec68d4f71d5048": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Escala de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Escala de classificação\n\nA prova é classificada na escala inteira de 0 a 100."
+  },
+  "0e736880bd146e59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Classificação da parte fechada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Classificação da parte fechada\n\nA classificação da parte fechada da prova será feita pelo Gabinete Coordenador do Ingresso no Ensino Superior, por aplicação, através do recurso a meios informáticos, da grelha de resposta aprovada pelo júri da prova."
+  },
+  "8356d2195325929d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Classificação da parte aberta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Classificação da parte aberta\n\n1 - A classificação da parte aberta da prova será proposta ao júri da prova pelos professores classificadores a que se refere o artigo 21.º por aplicação das instruções para a classificação aprovadas pelo mesmo júri.\n\n2 - A classificação da parte aberta da prova será sujeita a homologação do júri da prova."
+  },
+  "cfe6dc7ad48ef56b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Professores classificadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Professores classificadores\n\n1 - Os professores classificadores serão professores do ensino superior ou professores do ensino secundário profissionalizados, escolhidos de acordo com os critérios fixados pelo júri da prova, de entre os que leccionem em escolas de ensino público ou em estabelecimentos do ensino particular e cooperativo com autonomia ou paralelismo pedagógico.\n\n2 - Os professors classificadores da prova geral de acesso serão designados por despacho do Ministro da Educação, sob proposta do júri da prova, ouvidos os coordenadores das delegações regionais a que se refere o artigo 23.º\n\n3 - A classificação da parte aberta da prova será feita por professores que não pertençam ao estabelecimento de ensino frequentado pelo estudante no ano escolar de 1991-1992 ou ao estabelecimento de ensino onde o estudante realizou a prova.\n\n4 - Aos professores classificadores competirá:\n\na) Proceder, junto da respectiva delegação regional do júri, ao levantamento das provas que lhes forem distribuídas para classificação;\n\nb) Propor uma classificação para cada questão da parte aberta da prova, de acordo com as instruções para a classificação aprovadas pelo júri da prova, e registá-la na folha de classificação respectiva;\n\nc) Preencher a demais documentação que lhes haja sido entregue;\n\nd) Proceder à devolução à delegação regional do júri das provas classificadas, das folhas de classificação respectivas e demais documentação que lhes haja sido entregue para preenchimento."
+  },
+  "aa7d775bed8e096a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Classificação final da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Classificação final da prova\n\nA classificação final da prova é o resultado da soma das classificações da parte fechada e da parte aberta, arredondada às unidades, considerando como unidade a fracção não inferior a cinco décimas."
+  },
+  "df7e550208805693": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Delegações regionais do júri da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Delegações regionais do júri da prova"
+  },
+  "2b18abc82de56e76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Delegações regionais do júri da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Delegações regionais do júri da prova\n\n1 - Na dependência do júri da prova funcionarão delegações regionais, que têm por objectivo orientar e coordenar, na área geográfica que lhes fica afecta, as acções relacionadas com a classificação da parte aberta da prova.\n\n2 - São criadas as seguintes delegações regionais:\n\na) Delegação regional do Norte, sediada em Vila Nova de Gaia, abrangendo os distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real;\n\nb) Delegação regional do Centro, sediada em Coimbra, abrangendo os distritos de Aveiro, Castelo Branco, Guarda, Coimbra, Leiria e Viseu;\n\nc) Delegação regional de Lisboa, sediada em Lisboa, abrangendo os distritos de Lisboa e Santarém, as Regiões Autónomas dos Açores e da Madeira e o território de Macau;\n\nd) Delegação regional do Sul, sediada em Setúbal, abrangendo os distritos de Beja, Évora, Faro, Portalegre e Setúbal.\n\n3 - As provas realizadas na época especial poderão ser afectadas de acordo com o critério de distribuição que se revelar mais adequado à sua classificação dentro dos prazos necessários à execução tempestiva do processo de candidatura."
+  },
+  "f4a34f1d082101d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Coordenadores das delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Coordenadores das delegações regionais\n\n1 - Cada delegação regional será presidida por um coordenador a designar pelo Ministro da Educação, sob proposta do júri da prova.\n\n2 - Aos coordenadores das delegações regionais competirá:\n\na) Orientar e coordenar as acções a cargo da respectiva delegação, de acordo com as normas aprovadas e as instruções que lhes forem transmitidas pelo júri da prova;\n\nb) Propor os professores classificadores;\n\nc) Preparar o plano de distribuição das provas pelos professores classificadores;\n\nd) Receber a parte aberta das provas realizadas nas escolas da área que lhes está afecta;\n\ne) Proceder à distribuição das provas pelos professores classificadores, fazendo-as acompanhar das instruções para a classificação, das folhas de classificação e de outros documentos considerados necessários;\n\nf) Acompanhar e apoiar o processo de classificação das provas, de acordo com as instruções que lhes forem transmitidas pelo júri da prova;\n\ng) Prestar ao júri da prova todas as informações de interesse sobre o andamento dos trabalhos a cargo da delegação regional;\n\nh) Propor tempestivamente ao júri da prova o termo da colaboração de todo o pessoal afecto a esta actividade;\n\ni) Elaborar para o júri da prova um relatório final da sua actividade."
+  },
+  "05d96a24404f0eb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Apoio às delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Apoio às delegações regionais\n\n1 - Os coordenadores das delegações regionais poderão ser coadjuvados por professores de escolas secundárias necessários ao bom funcionamento dos respectivos serviços.\n\n2 - Os coordenadores das delegações regionais poderão igualmente ser apoiados na respectiva actividade por funcionários administrativos e elementos de pessoal auxiliar de serviços dependentes do Ministério da Educação que julguem necessários.\n\n3 - Os professores coadjuvantes e o pessoal administrativo e auxiliar de apoio às delegações regionais serão nomeados por despacho do Ministro da Educação, mediante proposta a apresentar pelo júri da prova."
+  },
+  "06560bc52fc919e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Articulação com o Gabinete Coordenador do Ingresso no Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Articulação com o Gabinete Coordenador do Ingresso no Ensino Superior\n\n1 - O Gabinete Coordenador do Ingresso no Ensino Superior assegurará, através das respectivas delegações distritais e serviços centrais, todo o apoio logístico necessário ao desenvolvimento das actividades das delegações regionais.\n\n2 - A cada delegação regional ficará agregado o respectivo delegado distrital do Gabinete Coordenador do Ingresso no Ensino Superior, que assegurará, nomeadamente, as relações entre o Gabinete e a delegação regional."
+  },
+  "a3863347bb290424": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Instalações\n\nAs delegações regionais funcionarão em instalações do Gabinete Coordenador do Ingresso no Ensino Superior ou noutras instalações, nomeadamente nas de estabelecimentos de ensino secundário, a designar por despacho do Ministro da Educação, sob proposta do júri da prova, devendo, neste último caso, os respectivos conselhos directivos prestar o apoio necessário ao bom andamento dos trabalhos."
+  },
+  "be0195dc720cf354": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Divulgação das classificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Divulgação das classificações"
+  },
+  "58230d6f2fd1a524": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Pautas de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pautas de classificação\n\n1 - As pautas contendo as classificações homologadas pelo júri da prova, nos termos da alínea d) do artigo 13.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), serão elaboradas pelo Gabinete Coordenador do Ingresso no Ensino Superior e remetidas aos estabelecimentos de ensino onde hajam sido realizadas as provas, os quais deverão assegurar a sua afixação.\n\n2 - No caso dos resultados das provas da época especial, as pautas serão afixadas nas delegações do Gabinete Coordenador do Ingresso no Ensino Superior onde o estudante haja procedido à inscrição."
+  },
+  "08d450b49242ab08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Reapreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Reapreciação"
+  },
+  "c8ff3660f02a530b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I"
+  },
+  "402602bb6048cd9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nObjecto\n\nOs estudantes que considerem que a prova geral de acesso que realizaram em 1992 foi erradamente classificada pode solicitar a sua consulta e posterior reapreciação, nos termos do artigo 19.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro."
+  },
+  "ec846c9ecefde1b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Âmbito da reapreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Âmbito da reapreciação\n\nDadas as caracterísitcas da prova, o pedido de reapreciação apenas poderá incidir sobre a classificação da parte aberta."
+  },
+  "b030fd86e8b32d42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Estudantes que realizaram duas chamadas de uma época da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Estudantes que realizaram duas chamadas de uma época da prova\n\n1 - Os estudantes que tenham realizado ambas as chamadas de uma época da prova geral de acesso apenas poderão requerer a consulta e posterior reapreciação da prova considerada, isto é, a prova da chamada em que obtiveram a melhor classificação.\n\n2 - Se a classificação das duas provas prestadas for igual, os estudantes poderão requerer a consulta e posterior reapreciação de uma delas."
+  },
+  "e68271d6d37a831b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Júri de reapreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Júri de reapreciação\n\nA reapreciação da prova será realizada por um júri de reapreciação da prova geral de acesso nomeado nos termos do n.º 2 do artigo 19.º do [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), adiante simplesmente designado por júri de reapreciação."
+  },
+  "d4ce4b78dd2878ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Competência do júri de reapreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Competência do júri de reapreciação\n\nCompete ao júri de reapreciação, designadamente:\n\na) Definir a metodologia geral a adoptar no processo de reapreciação;\n\nb) Propor a nomeação dos professores relatores;\n\nc) Definir a metodologia de atribuição da classificação;\n\nd) Atribuir a classificação final às provas objecto de reapreciação."
+  },
+  "9588744670b4f133": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Delegações regionais\n\n1 - Na dependência do júri de reapreciação funcionarão delegações regionais que têm por objectivo orientar e coordenar, na área geográfica que lhes fica afecta, as acções relacionadas com a reapreciação da prova geral de acesso.\n\n2 - As delegações regionais a que se refere o artigo 23.º assegurarão as funções de delegações regionais do júri de reapreciação, aplicando-se-lhes, com as necessárias adaptações, as regras dos artigos 23.º a 27.º"
+  },
+  "4b600934338060a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Legitimidade para requerer a consulta e a reapreciação da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Legitimidade para requerer a consulta e a reapreciação da prova\n\nTêm legitimidade para requerer a consulta da prova e a sua reapreciação:\n\na) O estudante, quando maior de 18 anos;\n\nb) Pela pessoa que demonstre exercer o poder paternal ou a tutela, sendo o estudante menor."
+  },
+  "b4f87a24b87cb1c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Requerimento de consulta da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Requerimento de consulta da prova\n\n1 - O requerimento de consulta da prova deverá ser entregue na secretaria do estabelecimento de ensino onde o estudante se inscreveu para a sua realização nos dois dias úteis subsequentes ao da afixação da respectiva classificação.\n\n2 - Serão liminarmente indeferidos os requerimentos de consulta da prova apresentados fora do prazo fixado no número anterior."
+  },
+  "9a01b57ada67599a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Identificação\n\nNo acto de entrega do requerimento de consulta da prova o requerente deverá apresentar o bilhete de identidade, que, após conferência dos respectivos elementos, lhe será devolvido."
+  },
+  "eff65d574bc0af86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Depósito\n\n1 - No acto de entrega do requerimento de consulta da prova será feito, pelo requerente, o depósito de 3000$00.\n\n2 - A quantia depositada será arrecadada no cofre da escola até à divulgação do resultado da reapreciação.\n\n3 - Caso a classificação resultante da reapreciação da prova seja superior à sua classificação original, a quantia depositada será restituída ao requerente.\n\n4 - Caso a classificação resultante da reapreciação da prova seja igual ou inferior à sua classificação original, a quantia depositada constituirá receita do Gabinete Coordenador do Ingresso no Ensino Superior.\n\n5 - A quantia depositada constituirá igualmente receita do Gabinete Coordenador do Ingresso no Ensino Superior no caso previsto no artigo 42.º"
+  },
+  "f948d363dd1124ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Elementos facultados ao requerente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Elementos facultados ao requerente\n\nNos três dias úteis subsequentes à entrega do requerimento de consulta, o estabelecimento de ensino facultará ao requerente, em relação à prova que poderá ser objecto de reapreciação, e mediante o pagamento dos encargos de reprodução:\n\na) Cópia da folha de resposta da parte aberta da prova;\n\nb) Cópia da folha de classificação;\n\nc) Cópia das instruções para a classificação da parte aberta da prova aprovadas pelo júri da prova."
+  },
+  "f45f3d7b5bdf1991": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Entrega do requerimento de reapreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Entrega do requerimento de reapreciação\n\n1 - Nos três dias úteis subsequentes àquele em que os documentos a que se refere o artigo 39.º foram colocados à disposição do requerente, este poderá apresentar, na secretaria do estabelecimaento de ensino, requerimento de reapreciação da prova.\n\n2 - Serão liminarmente indeferidos os requerimentos de reapreciação da prova apresentados fora do prazo fixado no número anterior."
+  },
+  "16bb75a1d9806c9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Forma de apresentação do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Forma de apresentação do requerimento\n\nO requerimento de reapreciação é dirigido ao júri de reapreciação e formulado em impresso de modelo a fixar pelo Gabinete Coordenador do Ingresso no Ensino Superior."
+  },
+  "fedacdc5c78ec088": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Não apresentação do requerimento de reapreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Não apresentação do requerimento de reapreciação\n\nOs requerentes que não apresentarem o requerimento de reapreciação dentro do prazo fixado no artigo 40.º perdem o direito à quantia depositada."
+  },
+  "c4e10d63c8c10bc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Encaminhamento dos requerimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Encaminhamento dos requerimentos\n\nOs estabelecimentos de ensino, de acordo com as instruções do júri de reapreciação, entregarão nas respectivas delegações distritais do Gabinete Coordenador do Ingresso no Ensino Superior os requerimentos de reapreciação acompanhados das correspondentes folhas de resposta da parte aberta da prova."
+  },
+  "a0b7507507a58ead": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Entrega ao júri de reapreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Entrega ao júri de reapreciação\n\nAs delegações distritais do Gabinete Coordenador do Ingresso no Ensino Superior entregarão ao júri de reapreciação, através das respectivas delegações regionais, os requerimentos de reapreciação e as correspondentes folhas de resposta da parte aberta da prova, de acordo com as instruções deste."
+  },
+  "c1f3ea0648c072e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Relatores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Relatores\n\n1 - Os professores relatores serão professores do ensino superior ou professores do ensino secundário profissionalizados, escolhidos de acordo com os critérios fixados pelo júri de reapreciação, de entre os que leccionem em escolas de ensino público ou em estabelecimentos do ensino particular e cooperativo com autonomia ou paralelismo pedagógico.\n\n2 - Os professores relatores serão designados por despacho do Ministro da Educação, sob proposta do júri de reapreciação, ouvidos os coordenadores das delegações regionais a que se refere o artigo 34.º\n\n3 - Os professores relatores de cada prova não poderão pertencer ao estabelecimento de ensino frequentado pelo estudante no ano escolar de 1991-1992 ou ao estabelecimento de ensino onde o estudante realizou a prova.\n\n4 - Aos professores relatores competirá:\n\na) Proceder, junto da respectiva delegação regional, ao levantamento das provas que lhes forem distribuídas para classificação;\n\nb) Propor uma classificação para cada questão da parte aberta da prova, de acordo com as instruções de classificação aprovadas pelo júri da prova, e registá-la na folha de classificação respectiva;\n\nc) Preencher a demais documentação que lhes haja sido entregue;\n\nd) Proceder à devolução à delegação regional das provas classificadas, das folhas de classificação respectivas e demais documentação que lhes haja sido entregue para preenchimento.\n\n5 - Cada prova será submetida a parecer de dois professores relatores.\n\n6 - Os relatores da reapreciação de cada prova não poderão ter participado na sua classificação original."
+  },
+  "5e1659144e6f9c47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Apreciações independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Apreciações independentes\n\nOs dois relatores farão apreciações independentes, classificando, para o efeito, toda a parte aberta da prova de acordo com as instruções para a classificação aprovadas pelo júri da prova."
+  },
+  "b3a8e98200374ec4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Prazo\n\nO prazo em que os pareceres deverão ser emitidos será fixado pelo júri de reapreciação."
+  },
+  "c717ff1fd7bbf50c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Pareceres adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Pareceres adicionais\n\nSempre que o entenda necessário, o júri de reapreciação poderá solicitar a emissão de parecer ou pareceres adicionais sobre a mesma prova."
+  },
+  "81a3541a296bc744": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Nova classificação da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Nova classificação da prova\n\nCom base nos pareceres dos relatores, o júri de reapreciação deliberará sobre a nova classificação a atribuir à prova objecto de reapreciação."
+  },
+  "f48671aef818414b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Divulgação\n\nOs resultados dos pedidos de reapreciação serão divulgados através da afixação de pautas nos estabelecimentos de ensino onde foram apresentados os requerimentos."
+  },
+  "33eb16f2f0ce5c89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Prevalência da nova classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Prevalência da nova classificação\n\nA classificação atribuída pelo júri de reapreciação, quer seja inferior quer seja superior à classificação original da prova objecto de reapreciação, substituirá esta para todos os efeitos."
+  },
+  "5653879ba7ad7656": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Classificação final da prova geral de acesso de 1992",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Classificação final da prova geral de acesso de 1992\n\nA classificação final da prova geral de acesso de 1992, para os estudantes que requeiram reapreciação, será a nova classificação a que se refere o artigo 51.º"
+  },
+  "cd063b4fab04b50d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Época especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Época especial\n\nNa época especial as competências atribuídas no presente capítulo ao estabelecimento de ensino secundário onde o estudante se inscreveu para a realização da prova serão exercidas pela delegação distrital do Gabinete Coordenador do Ingresso no Ensino Superior onde o estudante realizou essa inscrição."
+  },
+  "7ac29bd77c630423": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Nova reapreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Nova reapreciação\n\nDa nova classificação a que se refere o artigo 52.º não poderá ser pedida reapreciação."
+  },
+  "7c555ebfedf29b76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Normas finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Normas finais"
+  },
+  "1117fff4dc7c13e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Prazos\n\nOs prazos em que devem decorrer as acções constantes do presente Regulamento são os fixados no anexo II."
+  },
+  "ddd8188e28f17230": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Encargos\n\nTodos os encargos com a realização, classificação e reapreciação da prova, incluindo o funcionamento dos júris e das suas delegações regionais, serão suportados pelas verbas apropriadas do orçamento do Gabinete Coordenador do Ingresso no Ensino Superior."
+  },
+  "db4fa3605328d444": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Instruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Instruções\n\nO Gabinete Coordenador do Ingresso no Ensino Superior e os júris da prova e de reapreciação, ouvida, nos casos aplicáveis, a Direcção-Geral dos Ensinos Básico e Secundário, expedirão as instruções que se mostrem necessárias à execução do presente Regulamento."
+  },
+  "2f83b21343877189": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Contingente especial para emigrantes portugueses e seus familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Contingente especial para emigrantes portugueses e seus familiares\n\n1 - São abrangidos pelo contingente especial para emigrantes portugueses e seus familiares os candidatos que satisfaçam, cumulativamente, os seguintes requisitos:\n\na) Ter residência permanente, durante mais de dois anos, no país de emigração e pretender apresentar candidatura dentro de um prazo máximo de três anos após o seu regresso a Portugal;\n\nb) Ter obtido nesse país:\n\n1) A titularidade do curso de ensino secundário que seja habilitação ao ensino superior nesse país; ou\n\n2) A titularidade do 12.º ano de escolaridade do ensino secundário português.\n\n2 - Para os efeitos do disposto neste número, entende-se por familiar, além do cônjuge, o parente ou afim em qualquer grau da linha recta e até ao 3.º grau da linha colateral, que tenha menos de 25 anos de idade em 31 de Dezembro do ano em que pretende realizar a candidatura."
+  },
+  "7e59e390c9ac8d42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nEscola Secundária de Belém-Algés (Lisboa).\n\nEscola Secundária da Cidade Universitária (Lisboa).\n\nEscola Secundária de Vitorino Nemésio (Lisboa).\n\nEscola Secundária n.º 1 de Setúbal.\n\nEscola Secundária de Rodrigues de Freitas (Porto)."
+  },
+  "3b05bcfe8a2a6b31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Prazos\n\n1 - Época normal:\n\n1.1 - Inscrição - 18 de Novembro a 6 de Dezembro de 1991.\n\n1.2 - Primeira chamada - 3 de Fevereiro de 1992.\n\n1.3 - Segunda chamada - 17 de Fevereiro de 1992.\n\n2 - Época especial - a fixar no quadro do calendário geral de acesso."
+  },
+  "e9700229c49deebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Época normal",
+   "in_force_from": "1992-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13."
+   ],
+   "markdown": "###### Artigo 3.º — Época normal\n\n1 - A época normal tem duas chamadas.\n\n1-A - Excepcionalmente, no ano de 1992, a época normal tem três chamadas.\n\n2 - Cada estudante pode apresentar-se a todas as chamadas, sendo considerada apenas a prova da chamada em que obtenha a melhor classificação.\n\n3 - A apresentação às 2.ª e 3.ª chamadas não carece de outra inscrição.\n\n> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13."
+  },
+  "7e8afbabb035ddea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Estudantes que realizaram mais de uma chamada de uma época da prova",
+   "in_force_from": "1992-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13."
+   ],
+   "markdown": "###### Artigo 31.º — Estudantes que realizaram mais de uma chamada de uma época da prova\n\n1 - Os estudantes que tenham realizado mais de uma chamada de uma época da prova geral de acesso apenas poderão requerer a consulta e posterior reapreciação da prova considerada, isto é, da prova da chamada em que obtiveram a melhor classificação.\n\n2 - Se a classificação das provas prestadas for igual, os estudantes poderão requerer a consulta e posterior reapreciação de uma delas.\n\n> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13."
+  },
+  "0a0791779750bde7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Prazos",
+   "in_force_from": "1992-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13."
+   ],
+   "markdown": "## ANEXO II — Prazos\n\n1 - Época normal:\n\n1.1 - Inscrição - 18 de Novembro a 6 de Dezembro de 1991;\n\n1.2 - 1.ª chamada - 3 de Fevereiro de 1992;\n\n1.3 - 2.ª chamada - 17 de Fevereiro de 1992;\n\n1.4 - 3.ª chamada - 8 de Maio de 1992.\n\n2 - Época especial:\n\n2.1 - Inscrição - 22 a 30 de Junho de 1992;\n\n2.2 - 1.ª chamada - 3 de Agosto de 1992;\n\n2.3 - 2.ª chamada - 7 de Agosto de 1992.\n\n> Alterado pelo/a [Portaria n.º 341/92](https://diariodarepublica.pt/dr/detalhe/portaria/341-1992-200018), publicado em 1992-04-13."
+  }
+ }
+}

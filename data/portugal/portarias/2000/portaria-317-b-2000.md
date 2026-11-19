@@ -38,10 +38,53 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-02-12'
+version_history:
+  file: portaria-317-b-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-02-12'
+    amending: pt:dre:402706:por
+    amending_title: Portaria n.º 113-A/2002
+    changes:
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::3.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::5.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::6.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::7.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::8.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::9.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::11.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::3.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::12.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::13.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::14.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::15.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::16.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::17.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::20.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::23.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::24.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::25.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::27.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::28.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::35.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::37.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::38.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::39.º
+    - Altera Artigo ANEXO — Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (URBCOM)::40.º
+    - Altera Artigo ANEXO I — Aplicações relevantes e percentagem máxima do investimento elegível no URBCOM
+    - Altera Artigo ANEXO II
+    - Altera Artigo ANEXO III — Normas de candidatura das câmaras municipais, nos termos do n.º 3 do artigo 7.º do URBCOM
+    - Altera Artigo ANEXO I — Aplicações relevantes e percentagem máxima do investimento elegível no URBCOM
+    - Altera Artigo ANEXO III — Normas de candidatura das câmaras municipais, nos termos do n.º 3 do artigo 7.º do URBCOM
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/317-b/2000/05/31/p/dre/pt/html
@@ -67,7 +110,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:22:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 113-A/2002. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-317-b-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,7 +208,7 @@ Os projectos de urbanismo comercial visam a modernização das actividades empre
 
 1 - São entidades beneficiárias dos apoios financeiros previstos no presente Regulamento:
 
-a) Microempresas e PME de qualquer natureza e sob qualquer forma jurídica que cumpram os critérios constantes da Recomendação n.º [96/280/CE](http://data.europa.eu/eli/reco/1996/280/oj?locale=pt), da Comissão Europeia, e cujas actividades se integrem nas CAE (Rev. 2 - 1993) a seguir indicadas:
+a) Microempresas e PME de qualquer natureza e sob qualquer forma jurídica que cumpram os critérios constantes da Recomendação n.º [96/280/CE](http://data.europa.eu/eli/reco/1996/280/oj?locale=pt), da Comissão Europeia, que desenvolvam actividades económicas e projectos de investimento que se integrem nas CAE (Rev. 2 - 1993) a seguir indicadas:
 
 i) 50 comércio, manutenção e reparação de veículos automóveis e motociclos, comércio a retalho de combustíveis para veículos;
 
@@ -188,11 +232,15 @@ d) Unidade de acompanhamento e coordenação (UAC).
 
 2 - Os projectos de investimento referidos nas subalíneas iv) e v) da alínea a) do número anterior apenas são abrangidos pelo URBCOM desde que não funcionem exclusivamente em período nocturno.
 
-3 - A título excepcional, podem ainda ser abrangidos projectos de investimento promovidos por empresas de outros sectores de actividade que não os referidos na alínea a) do n.º 1, desde que devidamente fundamentados os seus efeitos de carácter relevante para o projecto global e que obtenham despacho favorável do Ministro da Economia.
+3 - Os projectos de investimento promovidos por empresas de outros sectores de actividade que não os referidos na alínea a) do n.º 1 podem ser abrangidos, mediante despacho do Ministro da Economia, desde que devidamente fundamentados os seus efeitos de carácter relevante para o projecto global por proposta do IAPMEI a submeter à unidade de gestão.
 
 4 - A UAC prevista na alínea d) do n.º 1 é de constituição facultativa e será promovida por iniciativa das estruturas associativas, tendo como objectivo essencial o acompanhamento e gestão do projecto de urbanismo comercial da área de intervenção.
 
 5 - A forma de constituição da UAC, bem como o acesso da mesma aos apoios previstos pelo URBCOM, será definida nos termos a aprovar por despacho do Ministro da Economia.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 #### SECÇÃO II — Metodologia e faseamento dos projectos
 
@@ -204,19 +252,29 @@ Os projectos de urbanismo comercial desenvolvem-se em parceria e articulação e
 
 1 - O projecto global consubstancia-se na revitalização e modernização do tecido empresarial do comércio e dos serviços e na requalificação urbanística da área de intervenção definida, bem como no conjunto de acções colectivas tendentes à sua promoção.
 
-2 - A qualificação do projecto global é feita por meio de um estudo prévio do qual deve constar a proposta de definição da área de intervenção e os elementos necessários à avaliação dos critérios de qualificação.
+2 - A qualificação do projecto global é feita com base em critérios de selecção a definir por despacho do Ministro da Economia.
 
-3 - A elaboração do estudo prévio referido no número anterior e o correspondente desenvolvimento do projecto são da competência conjunta da estrutura associativa e da câmara municipal.
+3 - Constitui ainda condição de qualificação a previsão de uma taxa de adesão comercial, na área de intervenção, igual ou superior a 50%.
 
-4 - A apresentação do estudo prévio é feita pela estrutura associativa na Direcção-Geral do Comércio e da Concorrência, adiante designada por DGCC, que, para efeitos de emissão de parecer relativo à sua qualificação como projecto global, verifica, de acordo com uma avaliação da densidade e diversidade da oferta comercial, a existência, nomeadamente, de:
+4 - Entende-se por taxa de adesão comercial o cálculo do número de estabelecimentos candidatos sobre o número de estabelecimentos existentes na área de intervenção.
 
-a) Funções urbanas centrais;
+5 - Para efeitos da selecção prevista nos números anteriores, deve ser apresentado um estudo prévio, do qual constam a proposta de definição da área de intervenção e os elementos necessários à respectiva qualificação como projecto global.
 
-b) Património arquitectónico e ambiental;
+6 - A elaboração do estudo prévio referido no número anterior e o correspondente desenvolvimento do projecto global são da competência conjunta da estrutura associativa e da câmara municipal.
 
-c) Planos complementares integrados de desenvolvimento para a área urbana.
+7 - A apresentação do estudo prévio é feita pela estrutura associativa, na DGCC, que, para efeitos de emissão de parecer relativo à sua qualificação como projecto global, procede à sua avaliação, de acordo com os critérios de selecção referidos no n.º 2.
 
-5 - A qualificação do projecto global de urbanismo comercial é atribuída por despacho do Ministro da Economia, sob proposta da unidade de gestão competente, com base no parecer da DGCC referido no número anterior.
+8 - Os projectos globais serão hierarquizados com base na avaliação realizada pela DGCC, nos termos do número anterior.
+
+9 - A selecção dos projectos globais é feita com base na hierarquização estabelecida no número anterior, até ao limite orçamental a definir nos termos do número seguinte.
+
+10 - A qualificação dos projectos globais é feita por fases cujos períodos e dotações orçamentais são definidos por despacho do Ministro da Economia.
+
+11 - Os projectos globais elegíveis mas não seleccionados por razões de ordem orçamental transitarão para a fase seguinte, onde são de novo hierarquizados, sendo os resultados obtidos nesta fase definitivos.
+
+12 - A qualificação dos projectos globais de urbanismo comercial seleccionados é homologada pelo Ministro da Economia, sob proposta da unidade de gestão competente.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 6.º — Estudo global da área de intervenção
 
@@ -226,19 +284,25 @@ c) Planos complementares integrados de desenvolvimento para a área urbana.
 
 3 - Antes de ser remetido à DGCC para apreciação, o estudo global deve obter a concordância da estrutura associativa e da câmara municipal.
 
-4 - Após a aprovação do estudo global pela DGCC, o Ministro da Economia aprova as Normas Específicas do Projecto Global de Urbanismo Comercial, que incluem, nomeadamente, a definição da área de intervenção, investimentos complementares e respectivas aplicações relevantes e períodos de apresentação de candidaturas, bem como a componente relativa à formação profissional.
+4 - A DGCC deverá dar parecer sobre se o estudo global está em condições de ser objecto de consulta pública.
 
-5 - O estudo global é obrigatoriamente objecto de consulta pública por um período de 30 dias úteis.
+5 - O estudo global é obrigatoriamente objecto de consulta pública por um período mínimo de 30 dias, após o qual deverá ser enviada para a DGCC a proposta final de estudo global juntamente com o parecer final da estrutura associativa e da câmara municipal.
 
-6 - Posteriormente à sua aprovação pela DGCC o estudo global é objecto de apresentação pública.
+6 - Após a aprovação final do estudo global pela DGCC, o Ministro da Economia aprova as Normas Específicas do Projecto Global de Urbanismo Comercial, que incluem, nomeadamente, a definição da área de intervenção, os investimentos complementares e respectivas aplicações relevantes, bem como a componente relativa à formação profissional e os períodos de apresentação de candidaturas.
+
+7 - Posteriormente à aprovação das Normas referidas no número anterior, o estudo global é objecto de apresentação pública.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 7.º — Candidaturas dos promotores
 
-1 - Após a apresentação pública do estudo global, as empresas apresentam as respectivas candidaturas individuais junto do IAPMEI, com base nas medidas e acções contidas no referido estudo para a respectiva área de intervenção, eventualmente coadjuvadas com outras que entendam realizar, desde que não seja desvirtuado o projecto de urbanismo comercial.
+1 - As empresas devem apresentar as respectivas candidaturas individuais, no período estabelecido nas normas específicas do estudo global com base nas medidas e acções nele contidas para a respectiva área de intervenção, reforçadas com outras que entendam realizar para melhorar a competitividade das empresas, não devendo ser desvirtuado o projecto de urbanismo comercial.
 
-2 - As candidaturas da estrutura associativa, que contemplam a divulgação, animação e promoção de acções relacionadas com as actividades empresariais objecto do projecto, bem como a da câmara municipal, no que concerne à dinamização e promoção dos espaços públicos da envolvente comercial, são apresentadas pelas respectivas entidades junto da DGCC.
+2 - As candidaturas da estrutura associativa devem contemplar a divulgação, animação e promoção de acções relacionadas com as actividades empresariais objecto do projecto, bem como a da câmara municipal no que concerne à dinamização e promoção dos espaços públicos da envolvente comercial.
 
-3 - As candidaturas das câmaras municipais são elaboradas e apresentadas nos termos constantes do anexo III a este Regulamento.
+3 - As candidaturas das câmaras municipais são elaboradas e apresentadas nos termos constantes do anexo IV a este Regulamento.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ### CAPÍTULO II — Trâmites procedimentais
 
@@ -246,17 +310,23 @@ c) Planos complementares integrados de desenvolvimento para a área urbana.
 
 ###### Artigo 8.º — Apresentação e formalização das candidaturas
 
-1 - As candidaturas das empresas são formalizadas em suporte magnético ou físico, através de modelo próprio junto do IAPMEI ou de qualquer serviço ou organismo qualificado como receptor no Ministério da Economia.
+1 - As candidaturas das empresas serão apresentadas nos postos de atendimento competentes do Ministério da Economia, que as recepcionarão e verificarão se contêm as informações e documentos exigidos, encaminhando-as de seguida para as entidades gestoras.
 
-2 - A estrutura associativa e a câmara municipal apresentam as respectivas candidaturas, obrigatoriamente acompanhadas de todos os elementos comprovativos do cumprimento das condições de elegibilidade, em suporte magnético ou físico, junto da DGCC.
+2 - As candidaturas das empresas poderão ainda ser enviadas pela Internet através de formulário electrónico, nos termos do disposto na Resolução do Conselho de Ministros n.º 60/98, de 6 de Maio.
+
+3 - A estrutura associativa e a câmara municipal apresentam as respectivas candidaturas, obrigatoriamente acompanhadas de todos os elementos comprovativos do cumprimento das condições de elegibilidade, em suporte magnético ou físico, junto da DGCC.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 #### SECÇÃO II — Prazos de apreciação das candidaturas das empresas
 
 ###### Artigo 9.º — Prazo de apreciação e análise
 
-1 - As candidaturas das empresas formuladas ao abrigo do presente Regulamento e recepcionadas nos serviços e organismos do Ministério da Economia, de acordo com o referido nos n.os 1 e 2 do artigo anterior, devem ser remetidas no prazo máximo de cinco dias úteis ao IAPMEI.
+1 - As candidaturas das empresas formuladas ao abrigo do presente Regulamento e recepcionadas nos serviços competentes do Ministério da Economia, de acordo com o referido nos n.os 1 e 2 do artigo anterior, devem ser remetidas no prazo máximo de cinco dias úteis ao IAPMEI.
 
 2 - As candidaturas referidas no número anterior são analisadas no prazo de 60 dias úteis a contar da data de recepção das mesmas pelo IAPMEI.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 10.º — Pedido de elementos complementares
 
@@ -270,7 +340,9 @@ c) Planos complementares integrados de desenvolvimento para a área urbana.
 
 ###### Artigo 11.º — Formação profissional
 
-Quando exista investimento em formação profissional, compete à entidade responsável pela gestão da formação profissional no Ministério da Economia proceder à análise e parecer relativamente a esta componente.
+Quando exista investimento no domínio da formação profissional apresentado pela estrutura associativa e dirigida aos recursos humanos das empresas, compete ao IAPMEI proceder à respectiva análise e submeter à apreciação da unidade de gestão.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ### CAPÍTULO III — Condições de elegibilidade e critérios de selecção
 
@@ -288,17 +360,17 @@ c) Dispor de contabilidade actualizada e organizada, de acordo com o Plano Ofici
 
 d) Cumprir as condições necessárias ao exercício da respectiva actividade, nomeadamente ter a sua situação regularizada em matéria de licenciamento e cadastro comercial e cumprir as normas ambientais em vigor;
 
-e) Possuir capacidade técnica, financeira e de gestão adequada à dimensão e complexidade do projecto e ter situação líquida positiva;
+e) Possuir capacidade técnica, financeira e de gestão adequada à dimensão e complexidade do projecto e ter capitais próprios positivos no final do ano anterior ao da data da candidatura, ou entre aquelas datas, desde que comprovada através de balanço intercalar, devidamente certificado por um ROC;
 
-f) Comprometer-se a afectar o projecto à actividade e à localização geográfica por um período mínimo de três anos após a celebração do contrato.
+f) Comprometer-se a afectar o projecto à localização geográfica e à respectiva actividade por um período mínimo de cinco anos, após a notificação da aprovação do incentivo.
 
-2 - A comprovação das condições constantes das alíneas a), b), c), d) e e) do n.º 1 deve ser efectuada até 40 dias úteis após a comunicação de decisão da aprovação da candidatura, bastando, na fase de candidatura, a apresentação pelo promotor de uma declaração, sob compromisso de honra, de que cumpre ou irá cumprir as referidas condições até àquela data.
+2 - A comprovação das condições constantes das alíneas a), b), c), d) e e) do n.º 1 deve ser efectuada até 20 dias úteis após a comunicação de decisão da aprovação da candidatura, bastando, na fase de candidatura, a apresentação pelo promotor de uma declaração, sob compromisso de honra, de que cumpre ou irá cumprir as referidas condições até àquela data.
 
-3 - No que concerne à condição constante da alínea f) do n.º 1, o compromisso do promotor deve ser assumido na data da apresentação da candidatura, sem prejuízo de, em casos devidamente fundamentados, poder vir a ser efectuada até à celebração do contrato.
+3 - As empresas cujo acto de constituição se tenha verificado nos 60 dias anteriores à data de candidatura estão obrigadas ao cumprimento do disposto no n.º 2 no prazo de 40 dias úteis após a comunicação da decisão da aprovação de candidatura.
 
-4 - As empresas cujo acto de constituição se tenha verificado nos 60 dias anteriores à data da candidatura estão obrigadas ao cumprimento do disposto no n.º 2 no prazo de 60 dias úteis após a comunicação da decisão da aprovação da candidatura.
+4 - Caso as condições previstas no n.º 1, por razões imputáveis aos promotores, não sejam cumpridas no prazo indicado no n.º 2, ou no n.º 3, consoante os casos, a decisão de aprovação da candidatura caduca automaticamente.
 
-5 - Caso as condições previstas no n.º 1, por razões imputáveis aos promotores, não sejam cumpridas no prazo indicado no n.º 2, ou no n.º 3, conforme os casos, a decisão de aprovação da candidatura caduca automaticamente.
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 13.º — Condições de elegibilidade para os projectos das empresas
 
@@ -306,23 +378,23 @@ f) Comprometer-se a afectar o projecto à actividade e à localização geográf
 
 a) Situarem-se na área de intervenção definida para o projecto de urbanismo comercial e integrarem-se nos objectivos do estudo global realizado para a mesma área;
 
-b) Não terem sido iniciados há mais de seis meses da data de apresentação da candidatura;
+b) Não incluir despesas anteriores à data da candidatura, à excepção dos adiantamentos, para sinalização, relacionados com o projecto, até ao valor de 50% do custo de cada aquisição e respeitando o limite de 25% do investimento total, e as despesas relativas aos estudos e projectos, desde que iniciados há menos de um ano;
 
 c) Terem um investimento elegível igual ou inferior a 150000 euros;
 
-d) Não ultrapassarem, em tempo de execução, o prazo de 12 meses após a data da comunicação da aprovação;
+d) Não ultrapassar, em tempo de execução, o prazo de 12 meses após a notificação da aprovação do incentivo;
 
 e) Serem financiados por capitais próprios em montante igual ou superior a 10% do total do investimento.
 
-2 - Para efeitos do disposto na alínea b) do n.º 1, considera-se como início do projecto a data da factura mais antiga imputada ao mesmo, excepto no caso de haver adiantamento até ao valor de 25% do investimento total.
+2 - Para efeitos da determinação das datas de início e conclusão do projecto, consideram-se as datas das primeira e última facturas pagas imputáveis ao mesmo, excluindo o disposto na alínea b) do n.º 1.
 
-3 - Para efeitos do disposto na alínea e) do n.º 1, consideram-se capitais próprios as entradas em numerário a título de suprimentos consolidados até, pelo menos, três anos após a conclusão do projecto, não podendo neste caso exceder um terço do valor do capital próprio pós-investimento as prestações suplementares ou de aumentos de capital e ainda os meios libertos da empresa disponíveis antes da realização do projecto ou capital social não utilizado.
+3 - Para efeitos do disposto na alínea e) do n.º 1, consideram-se capitais próprios as entradas em numerário a título de aumentos de capital social, de prestações suplementares de capital ou de suprimentos consolidados até, pelo menos, três anos após a conclusão do projecto, não podendo estes exceder um terço do valor da soma dos capitais próprios pré-projecto com os do projecto, conforme consta no anexo I ao presente Regulamento.
 
-4 - No caso em que a cobertura financeira do projecto se efectue através de prestações suplementares, a sua constituição deverá estar prevista no pacto social ou, não estando, o promotor obriga-se a alterá-lo em conformidade.
+4 - Os projectos candidatos que visem a abertura de novos estabelecimentos ficam ainda obrigados à demonstração da sua contribuição para o equilíbrio da oferta comercial na área de intervenção, nos termos do estudo global.
 
-5 - Os projectos candidatos que visem a abertura de novos estabelecimentos ficam ainda obrigados à demonstração da sua contribuição para o equilíbrio da oferta comercial na área de intervenção, nos termos do estudo global.
+5 - Excepcionalmente, por razões devidamente fundamentadas, o prazo referido na alínea d) do n.º 1 poderá ser prorrogado por proposta do IAPMEI submetida a despacho do Ministro da Economia.
 
-6 - Excepcionalmente, por razões devidamente fundamentadas, o prazo referido na alínea d) do n.º 1 poderá ser prorrogado por proposta do IAPMEI submetida a despacho do Ministro da Economia.
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 14.º — Condições de elegibilidade para as estruturas associativas
 
@@ -332,13 +404,17 @@ a) Encontrar-se legalmente constituída e registada no Registo Nacional de Pesso
 
 b) Possuir a sua situação contributiva regularizada perante o Estado, a segurança social e as entidades pagadoras do incentivo ou de que o seu pagamento está assegurado mediante acordos que tenham sido celebrados para o efeito;
 
-c) Ter assegurados os necessários recursos humanos e técnicos adequados à sua concretização;
+c) Dispor de contabilidade actualizada e organizada, de acordo com o Plano Oficial de Contabilidade (POC);
 
-d) Fazer prova de que uma percentagem igual ou superior a 25% dos empresários que aderiram ao projecto de urbanismo comercial já concretizaram os respectivos investimentos, excepto no que concerne à vertente da formação profissional.
+d) Ter assegurados os necessários recursos humanos e técnicos adequados à sua concretização;
+
+e) Fazer prova de que uma percentagem igual ou superior a 25% dos empresários que aderiram ao projecto de urbanismo comercial já concretizaram os respectivos investimentos, excepto no que concerne à vertente da formação profissional.
 
 2 - A comprovação das condições constantes do número anterior deve ser efectuada até 40 dias úteis após a comunicação de decisão da aprovação da candidatura, bastando, na fase de candidatura, a apresentação pelo promotor de uma declaração, sob compromisso de honra, de que cumpre ou irá cumprir as referidas condições até àquela data.
 
 3 - Caso as condições previstas no n.º 1, por razões imputáveis aos promotores, não sejam cumpridas no prazo indicado no n.º 2, a decisão de aprovação da candidatura caduca automaticamente.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 15.º — Condições de elegibilidade para os projectos das estruturas associativas
 
@@ -348,23 +424,35 @@ a) Terem viabilidade técnica e corresponderem às necessidades enunciadas no pr
 
 b) Estarem integrados num plano de actividades plurianual da estrutura associativa e não se sobreporem a outras acções que beneficiem de apoios comunitários da mesma natureza;
 
-c) Quando exista investimento em formação profissional, cumprirem o disposto nos normativos legais que regulamentam a aplicação do Fundo Social Europeu.
+c) Não incluir despesas anteriores à data da candidatura à excepção das despesas relativas a estudos desde que iniciados há menos de um ano;
+
+d) Quando exista investimento em formação profissional, cumprirem o disposto nos normativos legais que regulamentam a aplicação do Fundo Social Europeu.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 16.º — Condições de elegibilidade para as câmaras municipais
 
-A câmara municipal deve satisfazer, cumulativamente, os seguintes requisitos:
+1 - A câmara municipal deve satisfazer, cumulativamente, os seguintes requisitos:
 
-a) Cumprir os procedimentos administrativos relativos ao processo de candidatura definidos no anexo III a este Regulamento e a que se refere o n.º 3 do artigo 7.º do presente Regulamento;
+a) Cumprir os procedimentos administrativos relativos ao processo de candidatura definidos no anexo IV a este Regulamento e a que se refere o n.º 3 do artigo 7.º do presente Regulamento;
 
 b) Garantir o financiamento do projecto através da inscrição da respectiva contrapartida municipal;
 
-c) Não terem iniciado as obras há mais de seis meses da data da apresentação da candidatura.
+c) Não ter iniciado o investimento há mais de seis meses da data de apresentação da candidatura;
+
+d) O investimento não deverá estar concluído à data de apresentação da candidatura.
+
+2 - Para efeitos do disposto nas alíneas c) e d) do n.º 1 considera-se, respectivamente, como início do investimento a data da factura mais antiga imputada ao mesmo e como conclusão a data da última factura paga imputada ao investimento.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 #### SECÇÃO II — Critérios de selecção
 
 ###### Artigo 17.º — Empresas
 
-As candidaturas das empresas só podem ser aprovadas quando o indicador da «qualidade do projecto» (QP) definido nos termos do anexo II ao presente Regulamento alcançar um valor igual ou superior a 60 pontos.
+As candidaturas das empresas serão avaliadas através do indicador «qualidade do projecto» (QP), definido nos termos do anexo III ao presente Regulamento.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 18.º — Estruturas associativas
 
@@ -386,47 +474,39 @@ As candidaturas das empresas só podem ser aprovadas quando o indicador da «qua
 
 ###### Artigo 20.º — Empresas
 
-1 - Constituem despesas elegíveis as realizadas em investimento corpóreo e incorpóreo, nomeadamente com:
+1 - Constituem despesas elegíveis as realizadas em investimento corpóreo e incorpóreo, com:
 
-a) Introdução de novas formas de venda, mudança de ramo ou desenvolvimento de actividades carenciadas, identificadas no estudo global da área de intervenção;
+a) Realização de obras na fachada dos estabelecimentos, até ao limite constante do anexo II a este Regulamento, de acordo com as fichas individuais e critérios de licenciamento apresentados no estudo global;
 
-b) Criação ou desenvolvimento de serviços pós-venda, nomeadamente, os identificados no estudo global;
+b) Aquisição ou alteração de toldos e reclamos luminosos de acordo com as fichas individuais e critérios de licenciamento apresentados no estudo global;
 
-c) Recurso a meios informáticos específicos para melhoria da gestão;
+c) Realização de obras de adaptação ou necessárias à alteração de lay-out e de redimensionamento do interior do estabelecimento, incluindo as destinadas a melhorar as condições de segurança, higiene e saúde, até ao limite constante do anexo II ao presente Regulamento;
 
-d) Redimensionamento do interior dos estabelecimentos e melhoria do nível de qualidade dos produtos e serviços oferecidos, nomeadamente através da especialização;
+d) Aquisição de equipamento de exposição, visando melhoria da imagem e animação dos estabelecimentos e adequada identificação, localização e apresentação de produtos;
 
-e) Decoração de montras de acordo com as técnicas de marketing e vitrinismo;
+e) Aquisição de máquinas e equipamentos, incluindo hardware/software, introdução de tecnologias de informação e comunicação, investimentos em serviços pós-venda e outros que se mostrem essenciais ao exercício da actividade nas diversas áreas da empresa;
 
-f) Realização de obras na fachada dos estabelecimentos e ou alteração de toldos e reclamos luminosos, de acordo com as fichas individuais e critérios de licenciamento apresentados no estudo global;
+f) Despesas com acções de marketing no ponto de venda, incluindo vitrinismo;
 
-g) Realização de obras de adaptação ou necessárias à alteração do lay-out do estabelecimento comercial, até ao limite constante do anexo I ao presente Regulamento;
+g) Elaboração de estudos, diagnósticos, projectos de arquitectura, engenharia, design e do processo de candidatura, até aos limites constantes do anexo II;
 
-h) Aquisição de equipamento de exposição e alteração do método de organização do espaço interior, visando melhoria da imagem e animação dos estabelecimentos e adequada identificação, localização e apresentação de produtos;
+h) Equipamentos sociais obrigatórios por determinação legal;
 
-i) Aquisição de equipamentos, nomeadamente, de apoio à gestão, para além dos referidos na alínea c);
+i) Aquisição de marcas, patentes e alvarás;
 
-j) Melhoria das condições de iluminação, segurança e higiene;
+j) Intervenção de técnicos oficiais de contas ou revisores oficiais de contas prevista na alínea a) do n.º 1 do artigo 38.º;
 
-k) Despesas com acções de marketing no ponto de venda;
-
-l) Elaboração do processo de candidatura e dos projectos de arquitectura e de engenharia até aos limites constantes do anexo I;
-
-m) Equipamentos sociais obrigatórios por determinação legal;
-
-n) Aquisição de marcas, patentes, licenças e alvarás;
-
-o) A intervenção de técnicos oficiais de contas ou revisores oficiais de contas prevista na alínea a) do n.º 1 do artigo 38.º;
-
-p) Custos com garantias bancárias suportadas pelo promotor, exigidas nos termos do contrato.
+k) Custos com garantias bancárias suportados pelo promotor, exigidas nos termos do contrato.
 
 2 - Os investimentos referidos no n.º 1 só serão considerados elegíveis para efeitos de apoio financeiro no âmbito do URBCOM quando exista adequação do investimento ao objectivo do projecto aprovado.
 
 3 - Os projectos relacionados com a actividade de restaurantes (CAE: 5530) devem aplicar, pelo menos, um terço do investimento total elegível em cozinhas, copas e instalações sanitárias, caso não possuam, do ponto de vista legal, instalações adequadas nessas áreas.
 
-4 - Os investimentos constantes do projecto apresentado, indicados a preços correntes, devem estar devidamente identificados, orçamentados ou com facturas pró-forma.
+4 - Para a determinação do valor das despesas de investimento comparticipáveis, é deduzido o imposto sobre o valor acrescentado (IVA), sempre que o promotor do projecto seja sujeito passivo desse imposto e possa exercer o direito à dedução.
 
-5 - Não são elegíveis as despesas referentes a:
+5 - Para efeito do disposto no número anterior, apenas são considerados os valores declarados pelo promotor do projecto que correspondam aos custos médios do mercado, podendo as entidades gestoras, caso não se verifique essa correspondência, proceder à respectiva adequação.
+
+6 - Não são elegíveis as despesas referentes a:
 
 a) Construção ou aquisição de instalações;
 
@@ -443,6 +523,8 @@ f) Mobiliário e outros equipamentos não directamente ligados ao exercício da 
 g) Custos internos da empresa;
 
 h) Fundo de maneio.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 21.º — Estruturas associativas
 
@@ -480,15 +562,17 @@ g) Pavimentação de áreas de estacionamento à superfície com exclusão das r
 
 ###### Artigo 23.º — Empresas
 
-1 - O incentivo é concedido segundo a pontuação obtida pela «qualidade do projecto» (QP), a qual é calculada através dos critérios constantes do anexo II ao presente Regulamento, nos termos seguintes:
+1 - O incentivo é concedido segundo a classificação obtida pela «qualidade do projecto» (QP), a qual é apurada através dos critérios constantes do anexo III ao presente Regulamento, nos termos seguintes:
 
-a) Quando QP for igual ou superior a 80 pontos, o apoio financeiro traduz-se na concessão de um incentivo não reembolsável no valor de 66,6% das aplicações relevantes;
+a) Quando QP for forte, o apoio financeiro traduz-se na concessão de um incentivo não reembolsável no valor de 50% das despesas elegíveis após a aplicação dos limites impostos no anexo II;
 
-b) Quando QP for igual ou superior a 60 pontos e inferior a 80 pontos, o apoio financeiro traduz-se na concessão de um incentivo não reembolsável no valor de 50% das aplicações relevantes.
+b) Quando QP for média, o apoio financeiro traduz-se na concessão de um incentivo não reembolsável no valor de 40% das despesas elegíveis após a aplicação dos limites impostos no anexo II.
 
 2 - Os incentivos a conceder às empresas, no âmbito do presente regime, não podem ultrapassar 100000 euros por empresa beneficiária durante um período de três anos, contado a partir da data da aprovação do primeiro incentivo.
 
 3 - No montante definido no número anterior, englobam-se os incentivos concedidos no âmbito de outros sistemas de incentivo, ao abrigo dos auxílios de minimis nas condições definidas pela Comissão Europeia, nos quais o apoio máximo atribuível naquele período não pode ultrapassar, no seu conjunto, os 100000 euros.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 24.º — Estruturas associativas
 
@@ -498,9 +582,13 @@ b) Quando QP for igual ou superior a 60 pontos e inferior a 80 pontos, o apoio f
 
 3 - O montante do investimento elegível do projecto promocional tem como limite 10% do montante do investimento total dos projectos empresariais da área de intervenção.
 
-4 - Em situações de excepcional relevância comercial devidamente fundamentadas, o limite fixado no número anterior pode ser alterado, a solicitação da estrutura associativa, por despacho do Ministro da Economia.
+4 - Em situações de excepcional relevância comercial, devidamente fundamentadas, os limites fixados nos números anteriores podem ser alterados, a solicitação da estrutura associativa, por despacho do Ministro da Economia.
 
 5 - Quando exista formação profissional, o incentivo a conceder decorre da legislação que regulamenta os apoios do FSE, nos termos da qual se estabelecem os mecanismos de financiamento desta componente.
+
+6 - O limite referido no n.º 3 terá uma redução de 30% se a taxa de adesão dos estabelecimentos for inferior a 50%.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 25.º — Câmaras municipais
 
@@ -512,6 +600,10 @@ b) Quando QP for igual ou superior a 60 pontos e inferior a 80 pontos, o apoio f
 
 4 - No caso de investimento de natureza corpórea, o apoio financeiro reveste a natureza de incentivo não reembolsável de valor igual a 50% do investimento elegível de natureza corpórea.
 
+5 - O limite referido no n.º 1 terá uma redução de 30% se a taxa de adesão dos estabelecimentos for inferior a 50%.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
+
 ###### Artigo 26.º — Cumulação de incentivos
 
 Para as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presente regime não são cumuláveis com quaisquer outros da mesma natureza.
@@ -522,33 +614,37 @@ Para as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presen
 
 ###### Artigo 27.º — Gestão do URBCOM
 
-1 - As entidades responsáveis pela gestão do URBCOM são o IAPMEI, para os projectos das empresas, e a DGCC para os projectos das estruturas associativas e das câmaras municipais.
+1 - As entidades responsáveis pela gestão do URBCOM são o IAPMEI, para os projectos das empresas e para as intervenções no domínio da formação profissional dirigida aos recursos humanos das empresas, e a DGCC, para os projectos das estruturas associativas e das câmaras municipais.
 
 2 - Para a realização das disposições deste regulamento, o gestor, em conjunto com a DGCC e o IAPMEI, pode celebrar protocolos com outros órgãos da administração central e local, instituições de crédito e as estruturas associativas.
 
 3 - No quadro das suas competências, a DGCC e o IAPMEI podem recorrer ao parecer de outros órgãos da administração central ou solicitar o parecer especializado de consultores externos.
 
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
+
 ###### Artigo 28.º — Competências do IAPMEI
 
 De acordo com o referido no artigo anterior, ao IAPMEI compete, nomeadamente:
 
-a) Recepcionar e efectuar a instrução técnica dos processos de candidatura das empresas;
+a) Analisar as condições de viabilidade económica e financeira do projecto;
 
-b) Analisar as condições de viabilidade económica e financeira do projecto;
+b) Avaliar a «qualidade do projecto» (QP) e a sua adequação aos objectivos do presente Regulamento;
 
-c) Avaliar a «qualidade do projecto» (QP) e a sua adequação aos objectivos do presente Regulamento;
+c) Determinar o valor do apoio financeiro a conceder;
 
-d) Determinar o valor do apoio financeiro a conceder;
+d) Submeter à unidade de gestão restrita à componente a proposta relativa a cada candidatura;
 
-e) Submeter à unidade de gestão restrita à componente a proposta relativa a cada candidatura;
+e) Celebrar com as empresas os contratos de concessão dos apoios financeiros;
 
-f) Celebrar com as empresas os contratos de concessão dos apoios financeiros;
+f) Efectuar os pagamentos relativos aos apoios financeiros;
 
-g) Efectuar os pagamentos relativos aos apoios financeiros;
+g) Efectuar a transferência para as entidades pagadoras dos fundos de origem comunitária correspondentes aos projectos das câmaras municipais;
 
-h) Efectuar a transferência para as entidades pagadoras dos fundos de origem comunitária correspondentes aos projectos das câmaras municipais;
+h) Acompanhar e fiscalizar a execução dos investimentos e a utilização dos incentivos recebidos.
 
-i) Acompanhar e fiscalizar a execução dos investimentos e a utilização dos incentivos recebidos.
+i) Propor à unidade de gestão os projectos de investimento previstos no n.º 3 do artigo 3.º
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 29.º — Competências da DGCC
 
@@ -612,21 +708,11 @@ A resolução do contrato é admissível nos termos definidos no artigo 15.º do
 
 #### SECÇÃO II — Pagamentos dos incentivos
 
-###### Artigo 35.º — Pagamentos por adiantamentos ou na totalidade
+###### Artigo 35.º — Pagamento
 
-1 - O pagamento do incentivo pode processar-se por adiantamentos ou após a conclusão do projecto.
+O pagamento do incentivo financeiro é processado nos termos definidos na norma de pagamentos homologada pelo Ministro da Economia.
 
-2 - O promotor pode solicitar o pedido de pagamento de adiantamento até duas parcelas do incentivo concedido, no valor total de 70% do montante atribuído, de acordo com uma das duas alternativas seguintes:
-
-a) Contra a apresentação de garantia bancária autónoma, emitida por instituição de crédito, correspondente ao valor do adiantamento de cada uma das parcelas, até ao limite total de 70% do incentivo não reembolsável atribuído;
-
-b) Através da constituição de um depósito em conta bancária específica do promotor de montante igual ao anteriormente referido e que se destina a caucionar o adequado financiamento bancário, nos termos a definir através de protocolo institucional com as instituições financeiras, para a concretização do projecto.
-
-3 - No caso de ser atribuído o adiantamento até 70% conforme previsto no n.º 2, o remanescente do incentivo é pago depois de concluído o projecto, mediante a apresentação pelo promotor dos documentos comprovativos das despesas e dos pagamentos, devidamente classificados e ordenados e após a verificação final.
-
-4 - No caso de o adiantamento ter constituído o depósito caução, o valor correspondente converte-se em incentivo não reembolsável.
-
-5 - O promotor pode optar por solicitar o pagamento da totalidade do incentivo após a conclusão do projecto, mediante a apresentação dos documentos comprovativos das despesas e dos pagamentos, devidamente classificados e ordenados e após a verificação final.
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ###### Artigo 36.º — Pagamento da componente formação profissional
 
@@ -638,7 +724,7 @@ Quando exista investimento em formação profissional, o pagamento do financiame
 
 1 - Os promotores ficam sujeitos às seguintes obrigações:
 
-a) Executar o projecto nos termos e prazos fixados no contrato;
+a) Executar o projecto nos termos e prazos fixados no contrato, apresentando no prazo máximo de 60 dias úteis todos os documentos que possibilitem o encerramento do projecto;
 
 b) Cumprir atempadamente as obrigações legais e fiscais, de harmonia com o estabelecido em legislação especial;
 
@@ -648,7 +734,11 @@ d) Fornecer todos os elementos que lhes forem solicitados pelas entidades com co
 
 e) Comunicar aos organismos responsáveis pela gestão do URBCOM qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos às condições de elegibilidade com que o projecto foi aprovado, bem como a sua realização.
 
-2 - Todos os apoios financeiros concedidos ficam sujeitos à verificação da sua utilização em conformidade com o projecto de investimento, não podendo ser desviados para outros fins, nem podendo o promotor ceder, locar, alienar ou por qualquer modo onerar ou deslocalizar, no todo ou em parte, o investimento e os bens com eles adquiridos, sem autorização prévia do organismo gestor até três anos contados após a celebração do contrato.
+f) Manter na empresa, devidamente organizados em dossiê, todos os documentos susceptíveis de comprovar as declarações prestadas na candidatura.
+
+2 - Todos os apoios financeiros concedidos ficam sujeitos à verificação da sua utilização em conformidade com o projecto de investimento, não podendo ser desviados para outros fins, nem podendo o promotor ceder, locar, alienar ou por qualquer modo onerar ou deslocalizar, no todo ou em parte, o investimento e os bens com eles adquiridos, sem autorização prévia do organismo gestor até cinco anos contados após a notificação da aprovação do incentivo.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ### CAPÍTULO IX — Acompanhamento e controlo
 
@@ -656,21 +746,25 @@ e) Comunicar aos organismos responsáveis pela gestão do URBCOM qualquer altera
 
 1 - Sem prejuízo de outros mecanismos de acompanhamento e controlo que venham a ser adoptados, o acompanhamento e o controlo do projecto são efectuados na fase de conclusão do projecto, com base nos seguintes documentos:
 
-a) A «declaração de fiabilidade» documental e contabilística, subscrita pelo revisor oficial de contas ou técnico oficial de contas do promotor, de acordo com as respectivas obrigações legais, na qual se confirma que os documentos comprovativos da despesa apresentados como suporte da realização do investimento se encontram correctamente lançados na contabilidade e que o incentivo concedido foi contabilizado de acordo com o POC;
+a) A «declaração de despesa de investimento» documental e contabilística, ratificada pelo revisor oficial de contas do promotor ou técnico oficial de contas, de acordo com as respectivas obrigações legais, na qual se confirma que os documentos comprovativos da despesa apresentados no mapa de despesa do investimento se encontram correctamente lançados na contabilidade e que o incentivo concedido foi contabilizado de acordo com o POC;
 
-b) O «relatório de execução» física do investimento, onde se confirme que o investimento proposto e objecto do incentivo foi realizado pelos promotores nos termos constantes da candidatura, que será elaborado do seguinte modo:
+b) O «relatório de execução do projecto», onde se confirme que o investimento proposto e objecto do incentivo foi realizado pelos promotores nos termos constantes da candidatura, será elaborado do seguinte modo:
 
-i) No que concerne às empresas, será celebrado um protocolo entre o gestor e as estruturas associativas, em que estas figuram como entidades idóneas e responsáveis pela elaboração e apresentação do relatório;
+i) No que concerne às empresas, será celebrado um protocolo entre o gestor e as estruturas associativas que demonstrem possuir capacidade técnica adequada, em que estas figuram como entidades idóneas e responsáveis pela elaboração e apresentação do relatório de execução do projecto;
 
 ii) Quanto às estruturas associativas, será igualmente celebrado um protocolo entre estas e o gestor, no qual se determinarão as entidades externas idóneas para a elaboração e apresentação do relatório.
 
-2 - Para efeitos do disposto na alínea b) do número anterior, o custo da elaboração do relatório de execução será financiado ao abrigo de medidas previstas nos termos do Programa Operacional da Economia, nomeadamente a relativa às acções de parceria e iniciativas públicas.
+2 - A intervenção das estruturas associativas, para os efeitos do disposto na alínea b) do número anterior, será objecto de regulamentação específica no âmbito das parcerias e iniciativas públicas.
 
-###### Artigo 39.º — Verificação física dos projectos de investimento
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
-1 - A verificação física dos projectos de investimento, por parte dos organismos responsáveis no âmbito do URBCOM, será promovida por amostragem e sempre que se identifique, em qualquer fase do processo - recepção, análise da candidatura, contrato, adiantamento, acompanhamento - um incidente de verificação obrigatória, ou quando ao gestor assistam dúvidas razoáveis quanto ao objectivo ou à estrutura do investimento, antes do encerramento do projecto.
+###### Artigo 39.º — Verificação dos projectos
 
-2 - Relativamente à componente da formação profissional, o organismo responsável a designar no âmbito do Ministério da Economia concretizará, em conformidade com os normativos que regulamentem a aplicação do Fundo Social Europeu, no quadro normativo nacional, mecanismos de acompanhamento, controlo e fiscalização da execução da componente, incluindo, nomeadamente, o recurso a auditorias.
+1 - A verificação dos projectos, por parte dos organismos responsáveis no âmbito do URBCOM, será promovida por amostragem ou sempre que se identifique, em qualquer fase do processo - recepção, análise, contratação, acompanhamento e encerramento - um incidente de verificação obrigatória, ou quando ao gestor assistam dúvidas razoáveis quanto ao objectivo ou à estrutura do investimento.
+
+2 - Relativamente à componente da formação profissional, o IAPMEI concretizará, em conformidade com os normativos que regulamentem a aplicação do Fundo Social Europeu, no quadro normativo nacional, mecanismos de acompanhamento, controlo e fiscalização da execução da componente, incluindo, nomeadamente, o recurso a auditorias.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ### CAPÍTULO X — Disposições finais e transitórias
 
@@ -682,49 +776,95 @@ ii) Quanto às estruturas associativas, será igualmente celebrado um protocolo 
 
 3 - A análise dos projectos das empresas a transitar, ao abrigo do disposto no n.º 1, é assegurada conjuntamente pelo IAPMEI e pela DGCC.
 
+4 - Às candidaturas das empresas decorrentes dos projectos referidos no n.º 1 que tenham dado entrada, e que possuam mais de um estabelecimento, não é aplicável o limite previsto na alínea c) do n.º 1 do artigo 13.º, nem as regras constantes dos n.os 2 e 3 do artigo 23.º, devendo, contudo, ser observados para cada estabelecimento.
+
+5 - Os incentivos a conceder às empresas referidas no número anterior ficam sujeitos aos limites máximos aplicáveis às PME nas diferentes regiões em conformidade com o mapa de auxílios aprovado pela Comissão Europeia.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
+
 ###### Artigo 41.º — Regiões Autónomas dos Açores e da Madeira
 
 Sem prejuízo das competências legalmente atribuídas às Regiões Autónomas, as condições de execução dos apoios criados no desenvolvimento do presente Regulamento são fixadas mediante protocolo a celebrar entre os órgãos competentes dos respectivos Governos Regionais e o Ministério da Economia, de acordo com o estipulado no artigo 19.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio.
 
-## ANEXO I — Aplicações relevantes e percentagem máxima do investimento elegível no URBCOM
+## ANEXO I
 
-(artigo 23.º do Regulamento)
+Indicador para a determinação do valor máximo a considerar em suprimentos consolidados de acordo com o n.º 3 do artigo 13.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00070016.pdf)
+Suprimentos =<(CPe + CPp)/3
+
+em que:
+
+CPe = capitais próprios da empresa pré-projecto;
+
+CPp = capitais próprios do projecto.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ## ANEXO II
 
-Critérios para a elegibilidade dos investimentos integrados em projectos de urbanismo comercial relativamente às candidaturas das empresas no URBCOM.
+Percentagem máxima da despesa elegível no URBCOM
 
-A medida da qualidade do projecto (QP) referida nos artigos 17.º e 23.º do URBCOM resulta da soma de duas perspectivas de análise que consideram o nível de atractividade (a(índice 1) e a(índice 2)) e de reestruturação funcional a introduzir nas empresas (b(índice 1) e b(índice 2)), de acordo com a seguinte fórmula:
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)
 
-QP = (a(índice 1) ou a(índice 2))+(b(índice 1) ou b(índice 2))
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
-1.1 - Atractividade do estabelecimento:
+## ANEXO III
 
-a(índice 1)) Média atractividade - 30 pontos;
+Critérios para avaliação da qualidade dos projectos relativamente às candidaturas das empresas no URBCOM
 
-b(índice 2)) Forte atractividade - 50 pontos.
+A qualidade do projecto (QP), referida nos artigos 17.º e 23.º do URBCOM, é avaliada através da aplicação de dois critérios:
 
-Para este efeito considera-se:
+A - atractividade do estabelecimento;
 
-Projecto de média atractividade - o projecto que visa melhorar o grau de atractividade do estabelecimento através da modernização e ou optimização das estruturas físicas (interior e exterior) e da introdução de equipamentos por outros tecnologicamente mais avançados;
+B - reestruturação funcional da empresa.
 
-Projecto de forte atractividade - o projecto que visa potenciar o grau de atractividade através da adequação do visual do estabelecimento à imagem urbana da zona de intervenção, definida no estudo global, da modernização/aumento das estruturas físicas, da introdução de equipamentos inovadores e aumento da sua especialização com evidentes benefícios ao nível dos serviços prestados.
+O grau de atractividade do estabelecimento é avaliado através do peso relativo dos investimentos elegíveis nas seguintes áreas de impacte (a. i.), face ao investimento elegível total (IET):
 
-1.2 - Reestruturação funcional da empresa:
+Modernização/optimização das estruturas físicas;
 
-b(índice 1)) Média reestruturação funcional - 30 pontos;
+Equipamentos mais modernos;
 
-b(índice 2)) Forte reestruturação funcional - 50 pontos.
+Expansão das estruturas físicas;
 
-Para este efeito considera-se:
+Equipamentos inovadores;
 
-Projecto de média reestruturação funcional - o projecto que racionaliza a actividade da empresa através da introdução de melhorias nos processos de gestão e ou na qualidade e diversidade da oferta de serviços ao cliente;
+Visual do estabelecimento;
 
-Projecto de forte reestruturação funcional - o projecto que racionaliza a actividade da empresa, proporcionando uma maior competitividade, resultante, designadamente, da adequação do seu ramo de actividade/forma de venda à estrutura comercial específica definida no âmbito do estudo global, de melhorias acentuadas da gestão, do nível da qualidade, da especialização dos produtos e serviços prestados ao consumidor e da complementaridade em relação à oferta existente.
+Adequação do visual do estabelecimento à imagem urbana da área de intervenção, definida no estudo global.
 
-## ANEXO III — Normas de candidatura das câmaras municipais, nos termos do n.º 3 do artigo 7.º do URBCOM
+Projecto de forte atractividade - aquele que inclua investimentos em a. i. que contemplem o enquadramento da imagem do estabelecimento conforme definido no estudo global para a zona de intervenção em que se insere, bem como a introdução de equipamentos inovadores para o sector de actividade em causa.
+
+O grau de reestruturação funcional é avaliado através do peso relativo dos investimentos elegíveis nas seguintes a. i., face ao IET:
+
+Melhoria dos processos de gestão;
+
+Melhoria da qualidade da oferta;
+
+Diversificação/especialização da oferta da empresa;
+
+Complementaridade da oferta da empresa relativamente à existente na área de intervenção;
+
+Novos processos de gestão;
+
+Nível de qualidade acentuadamente elevado;
+
+Adequação do ramo de actividade conforme identificado no estudo global;
+
+Adequação da forma de venda à estrutura comercial definida no estudo global.
+
+Projecto de forte reestruturação funcional - investimentos em a. i. que visem melhorias acentuadas nas diversas áreas funcionais da empresa, na qualidade e na complementaridade da oferta e dos serviços prestados ao consumidor. Serão ainda qualificados como forte os projectos de empresas novas ou de empresas existentes que venham a desenvolver actividades identificadas no estudo global como falhas de mercado ou sobre as quais existe oferta insuficiente.
+
+Consoante a distribuição dos investimentos nas referidas áreas de impacte, poderão ocorrer as seguintes situações:
+
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)
+
+A QP será forte quando o valor do investimento elegível afecto às áreas de impacte consideradas de forte atractividade e ou forte reestruturação funcional (indicadores I(índice AF) e I(índice BF), respectivamente) for superior a 40% do IET, sendo necessário que o valor do investimento elegível, repartido pelas áreas de impacte do outro critério (indicadores I(índice A) e I(índice B)), seja representativo de, pelo menos, 10% do IET.
+
+Nos restantes casos, a QP será média.
+
+ANEXO IV
+
+Normas de candidatura das câmaras municipais, nos termos do n.º 3 do artigo 8.º do URBCOM
 
 1 - A apresentação e instrução das candidaturas dos municípios no âmbito do URBCOM é efectuada nos seguintes termos:
 
@@ -746,7 +886,7 @@ Projecto de forte reestruturação funcional - o projecto que racionaliza a acti
 
 1.3.6 - Limitação a 31 de Dezembro de 2007 da respectiva execução financeira, comprovada pelas datas das ordens de pagamento e respectivos recibos.
 
-1.4 - A CCR competente emite, sobre cada processo de candidatura, um parecer relativo ao cumprimento das condições mencionadas no n.º 1.3, donde conste necessariamente o montante de apoio a conceder face às despesas elegíveis, calculadas tendo em conta o parecer da DGCC referido no n.º 1.6 deste anexo.
+1.4 - A CCR competente emite, sobre cada processo de candidatura, um parecer relativo ao cumprimento das condições mencionadas no n.º 1.3, donde conste necessariamente o montante de apoio a conceder face às despesas elegíveis calculadas tendo em conta o parecer da DGCC referido no n.º 1.2 deste anexo.
 
 1.5 - As CCR devem remeter os processos de candidatura, devidamente instruídos com o respectivo parecer, à DGCC, no prazo máximo de 30 dias úteis a contar da data em que o processo esteja completo.
 
@@ -797,3 +937,5 @@ Projecto de forte reestruturação funcional - o projecto que racionaliza a acti
 6 - No quadro das suas competências, a fiscalização e controlo dos projectos, nas suas componentes material, financeira e contabilística, incluindo a verificação documental e física, são assegurados pelas CCR.
 
 7 - Complementarmente ao acompanhamento dos projectos, a DGCC e o gestor promoverão, por sua iniciativa e no âmbito das suas competências, actividades de controlo de projectos no local.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.

@@ -38,10 +38,42 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-04-27'
+version_history:
+  file: resolucao-conselho-ministros-169-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-12-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-04-27'
+    amending: pt:dre:534624:por
+    amending_title: Resolução do Conselho de Ministros n.º 28/99
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 35.º
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo ANEXO I — Definições
+    - Altera Artigo ANEXO III — Número de lugares de estacionamento a prever nos espaços urbanos
+    - Altera Artigo SECÇÃO VII — Unidades operativas de planeamento e gestão
+    - Altera Artigo SECÇÃO VIII — Espaços culturais
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/169/1995/12/13/p/dre/pt/html
@@ -67,7 +99,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:14:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 28/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-169-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -231,9 +264,11 @@ O presente Regulamento e as plantas que graficamente o traduzem estabelecem as p
 
 3 - A realização de obras, bem como a utilização de edificações ou do solo em violação do PDM da Póvoa de Lanhoso, constitui contra-ordenação punível com coima, nos termos do artigo 25.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
 
-###### Artigo 4.º — Prazo de vigência
+###### Artigo 4.º — Revisão
 
-O PDM da Póvoa de Lanhoso vigorará pelo prazo máximo de 10 anos contados a partir da sua entrada em vigor, sem prejuízo da sua revisão, nos termos do artigo 19.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
+O PDM da Póvoa de Lanhoso poderá ser revisto nos termos legalmente estabelecidos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ###### Artigo 5.º — Composição
 
@@ -327,9 +362,9 @@ A ocupação, uso e transformação dos solos da RAN carece de parecer favoráve
 
 ###### Artigo 14.º — Reserva Ecológica Nacional
 
-1 - A ocupação, uso e transformação dos terrenos da REN fica condicionada ao que é estipulado no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro.
+A ocupação, uso e transformação dos terrenos integrados na REN fica condicionada ao estipulado na lei vigente.
 
-2 - Nas áreas excluídas da REN, nomeadamente nas que se localizam em leitos de cheia, apenas serão permitidas as construções já existentes ou em situação de consolidação urbana, devendo ser respeitadas as cotas de soleira, as quais devem ser superiores à alcançada pelas cheias, não sendo autorizada a construção de caves.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ###### Artigo 15.º — Monumentos nacionais e imóveis de interesse público
 
@@ -399,7 +434,7 @@ A exploração de pedreiras fica condicionada ao que é estipulado na legislaç�
 
 ###### Artigo 23.º — Classes de espaços
 
-Em função do uso dominante, são consideradas as seguintes classes de espaços, que se encontram identificadas na planta de ordenamento:
+1 - Em função do uso dominante, são consideradas as seguintes classes de espaços, que se encontram identificadas na planta de ordenamento:
 
 a) Espaços urbanos;
 
@@ -413,9 +448,15 @@ e) Espaços agrícolas;
 
 f) Espaços florestais;
 
-g) Unidades operativas de planeamento e gestão;
+g) Espaços culturais;
 
-h) Espaços culturais.
+h) Unidades operativas de planeamento e gestão.
+
+2 - Quando o mesmo terreno seja objecto de distintas classes de uso que sejam confrontantes, serão admitidos acertos decorrentes do cadastro da propriedade ou da representação gráfica entre tais espaços, não podendo tal acerto exceder os 10 m.
+
+3 - Quando tais acertos estiverem abrangidos pelas condicionantes previstas no presente diploma, carecerão da autorização da respectiva entidade tutelar.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 #### SECÇÃO I — Espaços urbanos
 
@@ -437,11 +478,15 @@ d) Espaço urbano de nível 4.
 
 ###### Artigo 25.º — Regras gerais
 
-1 - Para cada espaço urbano são definidos índices de utilização máximos e número de pisos máximo, devendo ser elaborados, quando necessário, planos de urbanização, planos de pormenor ou outros estudos de conjunto que pormenorizem os condicionamentos urbanísticos de cada espaço.
+1 - Na ausência de estudos de conjunto, e quando estes se mostrarem dispensáveis, as edificações deverão respeitar as características urbanísticas do espaço, implantar-se com frente para a rua e integrar-se dentro do volume delimitado pelo alinhamento e cércea dominante e afastamento aos limites laterais, conforme Regulamento Geral das Edificações Urbanas (RGEU) e edificações nas propriedades contíguas.
 
-2 - Na ausência de estudos de conjunto, e quando estes se mostrarem dispensáveis, as edificações deverão respeitar as características urbanísticas do espaço, implantar-se com frente para a rua e integrar-se dentro do volume delimitado pelo alinhamento e cércea dominante e afastamento aos limites laterais, conforme Regulamento Geral das Edificações Urbanas (RGEU) e edificações nas propriedades contíguas.
+2 - Para cada espaço urbano são definidos índices de utilização máximos e número de pisos máximo, devendo ser elaborados, quando necessário, planos de urbanização, planos de pormenor ou outros estudos de conjunto que pormenorizem os condicionamentos urbanísticos de cada espaço.
 
-3 - Nos espaços urbanos é interdito:
+3 - Para equipamentos de reconhecido interesse público poderão ser admitidos indicadores urbanísticos superiores aos previstos, desde que a solução volumétrica se articule harmoniosamente com a envolvente, contribuindo para a sua valorização.
+
+4 - Nas ampliações e construções de raiz será admissível a manutenção das características da edificação coalescente, desde que as mesmas perspectivem a colmatação do tecido existente.
+
+5 - Nos espaços urbanos é interdito:
 
 a) A instalação de indústrias das classes A e B e todas as actividades que se considere tenham efeitos incompatíveis com a habitação ou sejam susceptíveis de pôr em perigo a segurança e saúde públicas, sendo razões de incompatibilidade, designadamente:
 
@@ -452,6 +497,8 @@ A perturbação das condições de trânsito e estacionamento ou movimentos de c
 A apresentação de riscos de toxicidade, de incêndio ou de explosão;
 
 b) A instalação de parques de sucata, de depósito de entulho de qualquer tipo, de lixeiras, de nitreiras, de instalações agro-pecuárias, bem como depósitos ou armazéns de explosivos, de tóxicos e de produtos inflamáveis por grosso, devendo estas actividades, quando existentes, ser eliminadas desta área.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ###### Artigo 26.º — Loteamento e edificação
 
@@ -465,7 +512,11 @@ a) 1,6 aplicado à faixa de 25 m de profundidade confinante com a via pública, 
 
 b) 0,8 aplicado à totalidade do terreno, quando se trate de loteamento para o qual seja necessária a realização de obras de urbanização.
 
-2 - Número de pisos máximo - 5.
+2 - a) A altura máxima permitida é de 16 m.
+
+b) Em terrenos onde as condições topográficas o permitam, será admitido o recuo de parte de uma das fachadas, num mínimo de 3 m, medidos entre o desfasamento dos seus planos verticais, devendo a altura máxima dos planos observar o estabelecido na alínea anterior.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ###### Artigo 28.º — Espaço urbano de nível 2
 
@@ -475,7 +526,11 @@ a) 1,2 aplicado à faixa de 25 m de profundidade confinante com a via pública, 
 
 b) 0,6 aplicado à totalidade do terreno, quando se trate de loteamento para o qual seja necessária a realização de obras de urbanização.
 
-2 - Número de pisos máximo - 4.
+2 - a) A altura máxima permitida é de 13 m.
+
+b) Em terrenos onde as condições topográficas o permitam, será admitido o recuo de parte de uma das fachadas, num mínimo de 3 m, medidos entre o desfasamento dos seus planos verticais, devendo a altura máxima dos planos observar o estabelecido na alínea anterior.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ###### Artigo 29.º — Espaço urbano de nível 3
 
@@ -485,19 +540,29 @@ a) 0,8 aplicado à faixa de 25 m de profundidade confinante com a via pública, 
 
 b) 0,4 aplicado à totalidade do terreno, quando se trate de loteamento para o qual seja necessária a realização de obras de urbanização.
 
-2 - Número de pisos máximo - 2.
+2 - a) A altura máxima permitida é de 7 m.
+
+b) Em terrenos onde as condições topográficas o permitam, será admitido o recuo de parte de uma das fachadas, num mínimo de 3 m, medidos entre o desfasamento dos seus planos verticais, devendo a altura máxima dos planos observar o estabelecido na alínea anterior.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ###### Artigo 30.º — Espaço urbano de nível 4
 
-1 - Apenas serão permitidos loteamentos e edificações confinantes com a via pública existente.
+1 - Índice de utilização máximo (i) - 0,40 aplicado à faixa de 25 m de profundidade confinante com a via pública.
 
-2 - Índice de utilização máximo (i) - 0,40 aplicado à faixa de 25 m de profundidade confinante com a via pública.
+2 - a) A altura máxima permitida é de 7 m.
 
-3 - Número máximo de pisos - 2.
+b) Em terrenos onde as condições topográficas o permitam, será admitido o recuo de parte de uma das fachadas, num mínimo de 3 m, medidos entre o desfasamento dos seus planos verticais, devendo a altura máxima dos planos observar o estabelecido na alínea anterior.
+
+3 - Apenas será admitida a tipologia unifamiliar, admitindo-se, em complementaridade, a instalação de actividades compatíveis com espaços urbanos, no rés-do-chão e ou cave, quando devidamente justificadas.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ###### Artigo 31.º — Anexos
 
-A área máxima para anexos em lote ou parcela nos espaços urbanos não poderá exceder 5% da área total, devendo ter um só piso e um pé-direito máximo de 2,20 m.
+A área máxima para anexos em lote ou parcela não poderá exceder 5% da área total, mas sempre com o limite máximo de 60 m2, devendo ter um só piso e um pé-direito máximo de 2,2 m.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ###### Artigo 32.º — Estacionamento
 
@@ -539,13 +604,19 @@ b) Espaço urbanizável de nível 2.
 
 ###### Artigo 35.º — Regras gerais
 
-1 - A Câmara Municipal poderá autorizar a ocupação dos espaços urbanizáveis, mediante prévia apresentação e aprovação do plano de urbanização ou de pormenor e garantida a execução das necessárias infra-estruturas.
+1 - Os espaços urbanizáveis sujeitam-se à prévia apresentação e aprovação de plano municipal de ordenamento do território.
 
-2 - A elaboração de planos de urbanização ou de pormenor no espaço urbanizável de nível 1 sujeitar-se-á aos indicadores urbanísticos definidos para o espaço urbano de nível 1.
+2 - A ocupação destes espaços poderá igualmente ser efectuada mediante operação de loteamento.
 
-3 - A elaboração de planos de urbanização ou de pormenor no espaço urbanizável de nível 2 sujeitar-se-á aos indicadores urbanísticos definidos para o espaço urbano de nível 2.
+3 - A Câmara Municipal poderá não sujeitar a ocupação à prévia existência de plano municipal de ordenamento do território ou loteamento aprovado, nos casos em que a dimensão do terreno e a tipologia adoptada sejam insusceptíveis de prejudicar a organização futura da área envolvente, em particular no que respeita ao dimensionamento e traçado de arruamentos e outras infra-estruturas urbanísticas.
 
-4 - Enquanto não se verificar a sua passagem a espaços urbanos, apenas será permitida a instalação de equipamentos de interesse e usos colectivos apoiada em estudo de conjunto que garanta uma solução urbanística adequada ao local.
+4 - Em qualquer dos casos referidos nos números anteriores, deverá ficar garantida a execução das necessárias infra-estruturas, não podendo as actividades a instalar acarretar prejuízos ou criar condições de incompatibilidade com a função residencial, designadamente as referidas no n.º 5 do artigo 25.º deste Regulamento.
+
+5 - A ocupação do espaço urbanizável de nível 1 sujeitar-se-á aos indicadores urbanísticos definidos para o espaço urbano de nível 1.
+
+6 - A ocupação do espaço urbanizável de nível 2 sujeitar-se-á aos indicadores urbanísticos definidos para o espaço urbano de nível 2.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 #### SECÇÃO III — Espaços industriais
 
@@ -601,13 +672,17 @@ Os espaços para indústrias extractivas destinam-se à exploração de pedreira
 
 1 - A edificabilidade nas áreas agrícolas incluídas na RAN deverá obedecer ao disposto no artigo 13.º deste Regulamento.
 
-2 - Nas áreas agrícolas complementares será permitida a edificação nas seguintes condições:
+2 - Nos espaços agrícolas será permitida a edificação nas seguintes condições:
 
 a) Habitação, desde que o terreno possua uma área de 2000 m2 e acesso a partir de caminho público, sendo o índice de utilização máximo de 0,2 e o número máximo de pisos de dois;
 
 b) Instalações de apoio às actividades agrícolas;
 
 c) Equipamentos de interesse municipal.
+
+3 - A construção de anexos deverá obedecer ao disposto no artigo 31.º deste Regulamento.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 #### SECÇÃO VI — Espaços florestais
 
@@ -619,9 +694,7 @@ c) Equipamentos de interesse municipal.
 
 ###### Artigo 43.º — Edificabilidade
 
-1 - A edificabilidade nas áreas florestais incluídas na REN deverá obedecer ao disposto no artigo 14.º deste Regulamento.
-
-2 - Nas áreas florestais não incluídas na REN será permitida a edificação nas seguintes condições:
+1 - Nas áreas florestais não incluídas na Reserva Ecológica Nacional será permitida a edificação nas seguintes condições:
 
 a) Habitação, desde que o terreno possua uma área mínima de 5000 m2 e acesso a partir de caminho público, sendo o índice de utilização máximo de 0,05 e o número de pisos igual ou inferior a dois;
 
@@ -629,7 +702,13 @@ b) Instalações de apoio à actividade florestal;
 
 c) Equipamentos de interesse municipal.
 
-3 - Nos terrenos com povoamentos florestais que sejam percorridos por incêndios ficam proibidas, nos 10 anos seguintes a contar da data do fogo, todas as acções e actividades referidas no artigo 1.º do [Decreto-Lei n.º 327/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1990-565445), de 22 de Outubro.
+d) Indústrias relacionadas com a actividade florestal.
+
+2 - A construção de anexos deverá obedecer ao disposto no artigo 31.º deste Regulamento.
+
+3 - Os terrenos com povoamentos florestais que sejam percorridos por incêndios deverão observar as disposições legais aplicáveis.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ###### Artigo 44.º — Florestação
 
@@ -649,9 +728,19 @@ b) Classe III - sensível.
 
 2 - Em todos os espaços florestais, e no âmbito da prevenção contra fogos, deverá proceder-se em conformidade com o disposto nos artigos 9.º, 10.º e 12.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro.
 
-#### SECÇÃO VII — Unidades operativas de planeamento e gestão
+#### SECÇÃO VII — Espaços culturais
 
 ###### Artigo 46.º — Caracterização
+
+1 - Os espaços culturais caracterizam-se por se destinarem à salvaguarda e valorização de imóveis ou conjuntos classificados ou em vias de classificação, devendo ser objecto de um plano de salvaguarda e valorização.
+
+2 - Estes espaços incluem, para além do representado graficamente na planta de ordenamento, as áreas de protecção aos imóveis classificados constantes do anexo II.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
+
+#### SECÇÃO VIII — Unidades operativas de planeamento e gestão
+
+###### Artigo 47.º — Caracterização
 
 1 - As unidades operativas de planeamento e gestão delimitam áreas de intervenção para serem tratadas a um nível mais detalhado, mediante plano de pormenor e plano de ordenamento.
 
@@ -667,13 +756,7 @@ b) Plano de ordenamento:
 
 Albufeira de Andorinhas.
 
-#### SECÇÃO VIII — Espaços culturais
-
-###### Artigo 47.º — Caracterização
-
-1 - Os espaços culturais caracterizam-se por se destinarem à salvaguarda e valorização de imóveis ou conjuntos classificados ou em vias de classificação, devendo ser objecto de um plano de salvaguarda e valorização.
-
-2 - Estes espaços incluem, para além do representado graficamente na planta de ordenamento, as áreas de protecção aos imóveis classificados constantes do anexo II.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ### CAPÍTULO IV — Área bruta de construção a autorizar ao promotor e compensações ao munícipio
 
@@ -687,35 +770,15 @@ b) A resultante da aplicação do respectivo índice de utilização, conforme d
 
 ###### Artigo 49.º — Cedências de terreno
 
-1 - Quando da emissão do alvará de loteamento, o proprietário e os demais titulares de direitos reais sobre o prédio a lotear cedem gratuitamente à Câmara Municipal parcelas de terreno para espaços verdes públicos e de utilização colectiva, infra-estruturas, designadamente arruamentos viários e pedonais, estacionamento e equipamentos públicos, que, de acordo com a operação de loteamento, devam integrar o domínio público.
+1 - O dimensionamento das parcelas a ceder para espaços verdes e de utilização colectiva, previstas em operações de loteamento ou planos municipais de ordenamento do território, deverá observar o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.
 
-2 - São as seguintes as áreas de cedência obrigatórias:
+2 - O dimensionamento das parcelas a ceder para equipamento, previstos em operações de loteamento ou planos municipais de ordenamento do território, deverá observar o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.
 
-a) Áreas de arruamentos e estacionamentos públicos;
+3 - Caso não se justifique a localização de qualquer equipamento, não haverá lugar a cedência de parcelas para esse fim, ficando, no entanto, o proprietário obrigado a pagar ao município uma compensação, em numerário ou espécie, nos termos definidos em regulamento municipal.
 
-b) Espaços verdes públicos e de utilização colectiva;
+4 - Se a área a ceder para equipamento for inferior a 500 m2 e não se verificar a hipótese de associação a outra cedência prevista para os terrenos contíguos, a mesma deverá ser substituída por compensação, a estabelecer de acordo com o previsto no número anterior.
 
-c) Áreas para equipamentos públicos.
-
-3 - O valor das cedências para espaços verdes públicos e de utilização colectiva é de:
-
-a) 0,3 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 1, nos espaços industriais e nos espaços para fins turísticos;
-
-b) 0,2 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 2;
-
-c) 0,1 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 3.
-
-4 - O valor das cedências para equipamentos públicos é de:
-
-a) 0,3 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 1, nos espaços industriais e nos espaços de desenvolvimento turístico;
-
-b) 0,2 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 2;
-
-c) 0,1 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 3.
-
-5 - Se o prédio ou parcela a lotear já estiver servido pelas infra-estruturas necessárias ou não se justificar a localização de qualquer equipamento público, não há lugar a cedências para esse fim, ficando, no entanto, o proprietário obrigado a pagar à Câmara Municipal uma compensação em numerário ou espécie.
-
-6 - A fórmula que traduzirá em numerário ou espécie será definida em regulamento aprovado pela Assembleia Municipal.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
@@ -747,17 +810,11 @@ Margem do curso de água - faixa de terreno contígua ou sobranceira à linha qu
 
 Índice de utilização (i) - quociente entre a área bruta de construção e a superfície do prédio ou parcela a que se aplica, inserida em espaço residencial, industrial, agrícola e florestal.
 
-Número de pisos - número total de andares sobrepostos acima da cota do arruamento de acesso, com excepção da cave e do sótão, se este corresponder a um simples aproveitamento do vão da cobertura, não podendo a inclinação desta ultrapassar o ângulo de 28º.
-
-Cave - espaço coberto por laje total ou parcialmente enterrado, quando, cumulativamente:
-
-Nos alçados confrontantes com espaço público, a cota do plano inferior da laje de cobertura estiver, em média, a menos de 0,90 m acima da cota do terreno adjacente;
-
-Nos alçados confrontantes com espaço privado, a cota do pavimento não estiver, em nenhum ponto, mais de 0,20 m acima do terreno adjacente.
+Altura - é a dimensão vertical acima do solo, medida a partir do ponto mais desfavorável do edifício até à linha inferior da platibanda ou do beirado, excluindo-se o acesso às garagens em cave e os recuos previstos em parte de um dos planos da fachada.
 
 Cércea - valor máximo da distância entre a cota superior do beirado, platibanda ou guarda do terraço e a cota do arruamento fronteiro à fachada, medida no plano perpendicular ao eixo da rua.
 
-Loteamento - operação de divisão em lotes de um ou mais prédios, destinados imediata ou subsequentemente à construção.
+Loteamento - todas as operações que tenham por objecto ou por efeito a divisão em lotes, qualquer que seja a sua dimensão, de um ou vários prédios, desde que pelo menos um dos lotes se destine subsequentemente a construção urbana.
 
 Lote - área de terreno, marginado por arruamento, destinado à construção, resultante de uma operação de loteamento licenciada nos termos da legislação em vigor.
 
@@ -772,6 +829,8 @@ Superfície impermeabilizada - soma da superfície do terreno ocupada por edifí
 Obras de urbanização - todas as obras de criação e remodelação de infra-estruturas que integram a operação de loteamento e as destinadas a servirem os conjuntos e aldeamentos turísticos e as ocupações industriais.
 
 Alinhamento - linha(s) e plano(s) que determina(m) a implantação das edificações.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ## ANEXO II
 
@@ -841,4 +900,6 @@ Decreto-Lei n.º 30762, de 26 de Setembro de 1940.
 
 ## ANEXO III — Número de lugares de estacionamento a prever nos espaços urbanos
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/286b00/77827792.pdf)
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b00/21542157.pdf)
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.

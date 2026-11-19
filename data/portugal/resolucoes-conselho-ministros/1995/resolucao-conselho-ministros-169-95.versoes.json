@@ -1,0 +1,930 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:635585:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-12-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eff436c86bae9e6a",
+    "23836370ae405d04",
+    "bafcbc326615a048",
+    "eafbfefd48b7320b",
+    "369cf855773ee3db",
+    "df7c580becdb9880",
+    "4e4cbf8f8f59214b",
+    "c31b495a953103bb",
+    "d9326573691cec06",
+    "d848d651d6db7d48",
+    "9c30ffcdd42b87af",
+    "146c369ea463ad03",
+    "eb3e9215aa107bae",
+    "e684ef252d6a8063",
+    "3d52556ad17beeb9",
+    "b592a39da9200ce9",
+    "969ba36610053590",
+    "356da3a5c10e95dc",
+    "c2d91fb020b9d0cb",
+    "80ba758d1e3aceec",
+    "ffcddcf8057d5c74",
+    "d123fee58e3c4a7d",
+    "5309dac829d5e79a",
+    "7d39fe1f417c2e81",
+    "d9d465989f984889",
+    "3cdff8168c61849d",
+    "cd6f0082edfc9cbf",
+    "8913f3b8d0dbcadb",
+    "56f5a3560ca07a43",
+    "d68b87f2eff5357b",
+    "d25da490e7f302cf",
+    "21c39254c9dec97e",
+    "0070c57379acc7ed",
+    "a99a604f90bdddc6",
+    "3ac175aa00d5f5b8",
+    "a239f6445787d3e0",
+    "5b9a9c4f8da45311",
+    "318ccbd0ec3c5758",
+    "dbf017d3d9631826",
+    "448cfe9ccce0cb2e",
+    "ead9151406eaeaae",
+    "29b4d21d0a8d55aa",
+    "250f5f593b7fa616",
+    "41bc3add81b17fab",
+    "af5caf1718ba1e91",
+    "a371b26758c7736a",
+    "8392f2e583e12c7d",
+    "ce5f4431338476f0",
+    "52160a4610dea35b",
+    "a7c46ee2dcca9ba0",
+    "71378673353f22c9",
+    "4bbb910e1c4f5c69",
+    "d868375e5e947a8e",
+    "22a4878ba8a14e3a",
+    "4463368cbed072f4",
+    "88f4682e1afe3a14",
+    "29f295ce7b4772e7",
+    "9810dcf9cb810c95",
+    "34bd82ee37efb3ef",
+    "e8e397890694b383",
+    "fb94bf0aa8daf60e",
+    "c74587c9ef74f218",
+    "260a9f4ecd4b5740",
+    "c87992feeaa38234",
+    "9d35e32d0081e288",
+    "d477e30d2a6360c4",
+    "4f49726fb3fbf7b3",
+    "2655249e3ebcbd70",
+    "40f95651d3a15922"
+   ]
+  },
+  {
+   "date": "1999-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:534624:por",
+     "title": "Resolução do Conselho de Ministros n.º 28/99",
+     "published": "1999-04-22",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/28-1999-534624"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo ANEXO I — Definições",
+    "Altera Artigo ANEXO III — Número de lugares de estacionamento a prever nos espaços urbanos",
+    "Altera Artigo SECÇÃO VII — Unidades operativas de planeamento e gestão",
+    "Altera Artigo SECÇÃO VIII — Espaços culturais"
+   ],
+   "fragments": [
+    "eff436c86bae9e6a",
+    "23836370ae405d04",
+    "bafcbc326615a048",
+    "eafbfefd48b7320b",
+    "369cf855773ee3db",
+    "24ac3d9acbe6ed90",
+    "4e4cbf8f8f59214b",
+    "c31b495a953103bb",
+    "d9326573691cec06",
+    "d848d651d6db7d48",
+    "9c30ffcdd42b87af",
+    "146c369ea463ad03",
+    "eb3e9215aa107bae",
+    "e684ef252d6a8063",
+    "3d52556ad17beeb9",
+    "b592a39da9200ce9",
+    "b81bce5f5c7d96d5",
+    "356da3a5c10e95dc",
+    "c2d91fb020b9d0cb",
+    "80ba758d1e3aceec",
+    "ffcddcf8057d5c74",
+    "d123fee58e3c4a7d",
+    "5309dac829d5e79a",
+    "7d39fe1f417c2e81",
+    "d9d465989f984889",
+    "3cdff8168c61849d",
+    "3a375e72037416fe",
+    "8913f3b8d0dbcadb",
+    "56f5a3560ca07a43",
+    "5614c6583575aa93",
+    "d25da490e7f302cf",
+    "2517b3a36c11ed97",
+    "df2f165edb732ab0",
+    "ed34279c437dc559",
+    "1b3910048e1f808e",
+    "3c59d01b0b5e988f",
+    "5b9a9c4f8da45311",
+    "318ccbd0ec3c5758",
+    "dbf017d3d9631826",
+    "448cfe9ccce0cb2e",
+    "809f826df76c9ad2",
+    "29b4d21d0a8d55aa",
+    "250f5f593b7fa616",
+    "41bc3add81b17fab",
+    "af5caf1718ba1e91",
+    "a371b26758c7736a",
+    "8392f2e583e12c7d",
+    "ce5f4431338476f0",
+    "52160a4610dea35b",
+    "fdd11a85875dd16c",
+    "71378673353f22c9",
+    "4bbb910e1c4f5c69",
+    "a2abc471662f07b5",
+    "22a4878ba8a14e3a",
+    "4463368cbed072f4",
+    "49a931f9a0e5f920",
+    "f93a2dcd8ff3f5a3",
+    "dc2ab19faf761a77",
+    "b4f8c71993334b99",
+    "e8e397890694b383",
+    "fb94bf0aa8daf60e",
+    "7b29636675a8196c",
+    "260a9f4ecd4b5740",
+    "c87992feeaa38234",
+    "9d35e32d0081e288",
+    "d477e30d2a6360c4",
+    "4a93b10b239b852c",
+    "2655249e3ebcbd70",
+    "2b39b7ff3b684cc8"
+   ]
+  }
+ ],
+ "fragments": {
+  "eff436c86bae9e6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia Municipal da Póvoa de Lanhoso aprovou, em 3 de Julho de 1995, o seu Plano Director Municipal.\n\nNa sequência desta aprovação, a Câmara Municipal respectiva iniciou o processo de ratificação daquele instrumento de planeamento, conforme dispõe o n.º 5 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.\n\nO Plano Director Municipal da Póvoa de Lanhoso foi objecto de parecer favorável da comissão técnica que, nos termos da legislação em vigor, acompanhou a elaboração daquele Plano.\n\nEste parecer favorável está consubstanciado no relatório final daquela comissão, subscrito por todos os representantes dos serviços da Administração que a compõem.\n\nForam cumpridas todas as formalidades exigidas pelo [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, designadamente no que se refere ao inquérito público.\n\nVerifica-se ainda a conformidade formal do Plano Director Municipal da Póvoa de Lanhoso com as demais disposições legais e regulamentares em vigor, designadamente com as das Reservas Agrícola e Ecológica Nacionais.\n\nDeve, porém, referir-se que a figura de «estudos de conjunto», mencionada em diversos artigos do Regulamento, carece de existência legal, pelo que não poderá ser utilizada no desenvolvimento das propostas de ordenamento constantes do presente Plano Director Municipal.\n\nDo mesmo modo, a proibição de florestação com espécies de rápido crescimento, constante do n.º 1 do artigo 44.º, não pode contrariar o disposto no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, designadamente a alínea b) do artigo 6.º\n\nPor outro lado, os planos municipais de ordenamento do território referidos no n.º 3 do artigo 50.º carecem de ratificação, nos termos do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, se consubstanciarem alterações ao Plano Director Municipal.\n\nRefira-se ainda que o regime de cedências previsto no artigo 49.º deve ser entendido estritamente de acordo com o disposto no [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, com as alterações que entretanto lhe foram introduzidas.\n\nNa aplicação prática do Plano há ainda a observar as servidões e restrições de utilidade pública, constantes da planta de condicionantes, a qual, embora não seja publicada, constitui elemento fundamental do Plano.\n\nConsiderando o disposto no [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro:\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\nRatificar o Plano Director Municipal da Póvoa de Lanhoso.\n\nPresidência do Conselho de Ministros, 14 de Setembro de 1995. - O Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nRegulamento do Plano Director Municipal da Póvoa de Lanhoso"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "bafcbc326615a048": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito territorial\n\nO Plano Director Municipal da Póvoa de Lanhoso, adiante designado por PDM da Póvoa de Lanhoso, tem por área de intervenção todo o território sujeito à jurisdição municipal."
+  },
+  "eafbfefd48b7320b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente Regulamento e as plantas que graficamente o traduzem estabelecem as principais regras a que deve obedecer a ocupação, uso e transformação do solo na área abrangida pelo PDM da Póvoa de Lanhoso."
+  },
+  "369cf855773ee3db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime\n\n1 - Sem prejuízo do estabelecido na lei geral ou especial, rege-se pelo disposto no presente diploma a apreciação e aprovação de qualquer plano ou projecto, bem como o licenciamento de qualquer obra ou actividade de iniciativa pública ou privada que implique a ocupação, uso ou transformação do solo na área do PDM da Póvoa de Lanhoso.\n\n2 - Constitui ilegalidade grave, nos termos do disposto no artigo 24.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, o licenciamento de qualquer obra ou actividade em violação do PDM da Póvoa de Lanhoso.\n\n3 - A realização de obras, bem como a utilização de edificações ou do solo em violação do PDM da Póvoa de Lanhoso, constitui contra-ordenação punível com coima, nos termos do artigo 25.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março."
+  },
+  "df7c580becdb9880": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Prazo de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prazo de vigência\n\nO PDM da Póvoa de Lanhoso vigorará pelo prazo máximo de 10 anos contados a partir da sua entrada em vigor, sem prejuízo da sua revisão, nos termos do artigo 19.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março."
+  },
+  "4e4cbf8f8f59214b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição\n\nO PDM da Póvoa de Lanhoso é constituído pelos seguintes elementos:\n\na) Elementos fundamentais: regulamento, planta de ordenamento e planta actualizada de condicionantes;\n\nb) Elementos complementares: relatório e planta de enquadramento;\n\nc) Elementos anexos: estudos de caracterização física, social, económica e urbanística e planta da situação existente."
+  },
+  "c31b495a953103bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza jurídica\n\nO PDM da Póvoa de Lanhoso tem a natureza de regulamento administrativo."
+  },
+  "d9326573691cec06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Omissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Omissões\n\nQualquer situação não regulamentada no PDM da Póvoa de Lanhoso observará o disposto na demais legislação vigente."
+  },
+  "d848d651d6db7d48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Definições\n\nNo PDM da Póvoa de Lanhoso e para os fins regulamentados são utilizadas as definições urbanísticas constantes do anexo I."
+  },
+  "9c30ffcdd42b87af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Servidões administrativas e restrições de utilidade pública ao uso dos solos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Servidões administrativas e restrições de utilidade pública ao uso dos solos"
+  },
+  "146c369ea463ad03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Aplicação, identificação e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aplicação, identificação e objectivos\n\n1 - As servidões administrativas e restrições de utilidade pública ao uso dos solos, delimitadas na planta actualizada de condicionantes, regem-se pelo disposto no presente título e demais legislação aplicável.\n\n2 - Foram identificadas as seguintes servidões administrativas e restrições de utilidade pública ao uso dos solos:\n\na) Leitos e margens dos cursos de água;\n\nb) Área sujeita a riscos de cheia;\n\nc) Albufeira de Andorinhas;\n\nd) Reserva Agrícola Nacional (RAN);\n\ne) Reserva Ecológica Nacional (REN);\n\nf) Monumentos nacionais e imóveis de interesse público;\n\ng) Rede rodoviária nacional;\n\nh) Rede rodoviária municipal;\n\ni) Rede pública e captação, adução e distribuição de água;\n\nj) Rede pública de drenagem de esgotos;\n\nk) Linhas eléctricas de alta tensão;\n\nl) Marcos geodésicos;\n\nm) Pedreiras.\n\n3 - As servidões administrativas e restrições de utilidade pública ao uso dos solos referidas no número anterior têm como objectivo, designadamente:\n\na) A preservação do meio ambiente e do equilíbrio ecológico;\n\nb) A preservação da estrutura agrícola e do coberto vegetal;\n\nc) A preservação das linhas de água e de drenagem natural;\n\nd) O enquadramento do património cultural e ambiental;\n\ne) O funcionamento e ampliação das infra-estruturas;\n\nf) A execução de infra-estruturas programadas ou já em fase de projecto."
+  },
+  "eb3e9215aa107bae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Leitos e margens dos cursos de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Leitos e margens dos cursos de água\n\nNos leitos e numa faixa de 10 m das margens dos cursos de água, a ocupação e utilização dos terrenos fica condicionada à licença da Direcção Regional do Ambiente e Recursos Naturais, nos termos do que consta no [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro."
+  },
+  "e684ef252d6a8063": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Área sujeita a riscos de cheia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Área sujeita a riscos de cheia\n\nNa área sujeita a riscos de cheia, o licenciamento de qualquer edificação fica sujeito a prévio parecer favorável da Direcção Regional do Ambiente e Recursos Naturais."
+  },
+  "3d52556ad17beeb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Albufeira de Andorinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Albufeira de Andorinhas\n\n1 - A albufeira de Andorinhas, classificada como condicionada pelo [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, tem uma zona de protecção com largura de 200 m e uma zona reservada de 50 m a contar da linha do nível de pleno armazenamento (NPA) e medida na horizontal.\n\n2 - Na zona de protecção não serão permitidas as práticas das actividades referidas no artigo 8.º do [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro.\n\n3 - As edificações a implantar na zona de protecção só serão permitidas fora da zona reservada e têm de ser licenciadas pela Direcção-Geral dos Recursos Naturais, nos termos do que figura no artigo 9.º do mesmo decreto regulamentar."
+  },
+  "b592a39da9200ce9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Reserva Agrícola Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reserva Agrícola Nacional\n\nA ocupação, uso e transformação dos solos da RAN carece de parecer favorável da Comissão Regional de Reserva Agrícola nos termos do n.º 2 do artigo 9.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 273/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1992-597569), de 12 de Dezembro."
+  },
+  "969ba36610053590": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Reserva Ecológica Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reserva Ecológica Nacional\n\n1 - A ocupação, uso e transformação dos terrenos da REN fica condicionada ao que é estipulado no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro.\n\n2 - Nas áreas excluídas da REN, nomeadamente nas que se localizam em leitos de cheia, apenas serão permitidas as construções já existentes ou em situação de consolidação urbana, devendo ser respeitadas as cotas de soleira, as quais devem ser superiores à alcançada pelas cheias, não sendo autorizada a construção de caves."
+  },
+  "356da3a5c10e95dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Monumentos nacionais e imóveis de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Monumentos nacionais e imóveis de interesse público\n\nOs edifícios classificados como monumentos nacionais e imóveis de interesse público, que constam do anexo II, ficam sujeitos aos condicionamentos estabelecidos na legislação aplicável em vigor."
+  },
+  "c2d91fb020b9d0cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Rede rodoviária nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Rede rodoviária nacional\n\n1 - A rede rodoviária nacional, no município de Póvoa de Lanhoso, é constituída por «outras estradas» e por «estradas nacionais a desclassificar».\n\n2 - Das outra estradas faz parte a estrada nacional n.º 103.\n\n3 - Das estradas nacionais a desclassificar fazem parte as estradas nacionais n.os 205, 207, 207-4 e 310.\n\n4 - A ocupação dos terrenos junto da via referida no n.º 2 deste artigo é condicionada pelo disposto no [Decreto-Lei n.º 13/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1994-509198), de 15 de Janeiro.\n\n5 - A ocupação dos terrenos junto das vias referidas no n.º 3 deste artigo é condicionada pelo que estipula o artigo 8.º do [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro."
+  },
+  "80ba758d1e3aceec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Rede rodoviária municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Rede rodoviária municipal\n\n1 - A rede rodoviária municipal é constituída pelas estradas e caminhos municipais.\n\n2 - A ocupação dos terrenos junto das vias da rede rodoviária municipal é condicionada pelo disposto nos artigos 58.º e 59.º da Lei n.º 2110/61, de 19 de Agosto."
+  },
+  "ffcddcf8057d5c74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Rede pública de captação, adução e distribuição de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Rede pública de captação, adução e distribuição de água\n\n1 - Na vizinhança da rede pública de captação de água serão definidos dois tipos de protecção, de modo a evitar os riscos de inquinação da água captada:\n\na) Uma faixa de protecção próxima, delimitada por vedação, com um raio de 50 m em torno da captação, onde é interdita qualquer construção, a entrada de animais ou pessoas estranhas ao serviço, à excepção do estritamente necessário, de apoio à captação e onde não devem existir depressões em que se possam acumular águas pluviais, linhas de água não revestidas que possam originar infiltrações, fossas ou sumidouros de águas negras, habitações, instalações industriais e culturas adubadas ou estrumadas;\n\nb) Uma faixa de protecção à distância com, pelo menos, 200 m, onde não podem existir sumidouros de águas negras abertos na camada aquífera captada, estações de fornecimento de combustíveis, captações na mesma formação aquífera, rega com águas negras e actividades poluentes.\n\n2 - Não é permitido o despejo de lixo ou descarga de entulho nas faixas referidas no número anterior.\n\n3 - Na vizinhança da rede de adução e distribuição de água é interdito:\n\na) A execução de construções numa faixa de 5 m, definida a partir dos limites exteriores dos reservatórios;\n\nb) A execução de construções numa faixa de 3 m, medida para cada um dos lados das condutas, quando se trate de adutoras e adutoras-distribuidoras, e de 1,5 m para cada lado, quando se trate de condutas exclusivamente distribuidoras."
+  },
+  "d123fee58e3c4a7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Rede pública de drenagem de esgotos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Rede pública de drenagem de esgotos\n\nNa vizinhança dos emissários/colectores e da estação de tratamento dos efluentes observar-se-ão os seguintes condicionamentos:\n\na) É interdita a execução de construções numa faixa de 5 m, medida para cada lado dos emissários/colectores;\n\nb) É interdita a construção numa faixa de 100 m, definida a partir dos limites exteriores da estação de tratamento de efluentes."
+  },
+  "5309dac829d5e79a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Linhas eléctricas de alta tensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Linhas eléctricas de alta tensão\n\n1 - A edificação, a construção de vias e a arborização nas proximidades das linhas eléctricas de alta tensão, bem como a implantação de novas linhas, ficam sujeitas aos condicionamentos definidos na legislação aplicável e nomeadamente no [Decreto Regulamentar n.º 1/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1992-158575), de 18 de Fevereiro.\n\n2 - Não é permitido instalar recintos escolares e desportivos sob as linhas eléctricas de alta tensão.\n\n3 - Os loteamentos deverão prever corredores de protecção às linhas de alta tensão, quando existentes, ou que venham a ser construídas para alimentação dos postes de transformação previstos no respectivo projecto de infra-estruturas eléctricas."
+  },
+  "7d39fe1f417c2e81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Marcos geodésicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Marcos geodésicos\n\n1 - Os marcos geodésicos de triangulação cadastral têm uma zona de protecção que abrange uma área em redor do sinal, com o raio mínimo de 15 m.\n\n2 - Dentro da zona de protecção não podem fazer-se plantações, construções e outras obras ou trabalhos que impeçam a visibilidade das direcções constantes das minutas de triangulação."
+  },
+  "d9d465989f984889": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Pedreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pedreiras\n\nA exploração de pedreiras fica condicionada ao que é estipulado na legislação aplicável."
+  },
+  "3cdff8168c61849d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Uso dominante do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Uso dominante do solo"
+  },
+  "cd6f0082edfc9cbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Classes de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Classes de espaços\n\nEm função do uso dominante, são consideradas as seguintes classes de espaços, que se encontram identificadas na planta de ordenamento:\n\na) Espaços urbanos;\n\nb) Espaços urbanizáveis;\n\nc) Espaços industriais;\n\nd) Espaços para indústria extractiva;\n\ne) Espaços agrícolas;\n\nf) Espaços florestais;\n\ng) Unidades operativas de planeamento e gestão;\n\nh) Espaços culturais."
+  },
+  "8913f3b8d0dbcadb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Espaços urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Espaços urbanos"
+  },
+  "56f5a3560ca07a43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Caracterização\n\n1 - Os espaços urbanos destinam-se predominantemente à edificação com fins habitacionais, a equipamentos e serviços.\n\n2 - Os espaços urbanos podem integrar outras funções, como actividades terciárias, indústria, turismo ou recreativas, desde que, pelas suas características, sejam compatíveis com a função habitacional.\n\n3 - Os espaços urbanos subdividem-se, segundo a tipologia e forma de intervenção, em:\n\na) Espaço urbano de nível 1;\n\nb) Espaço urbano de nível 2;\n\nc) Espaço urbano de nível 3;\n\nd) Espaço urbano de nível 4."
+  },
+  "d68b87f2eff5357b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regras gerais\n\n1 - Para cada espaço urbano são definidos índices de utilização máximos e número de pisos máximo, devendo ser elaborados, quando necessário, planos de urbanização, planos de pormenor ou outros estudos de conjunto que pormenorizem os condicionamentos urbanísticos de cada espaço.\n\n2 - Na ausência de estudos de conjunto, e quando estes se mostrarem dispensáveis, as edificações deverão respeitar as características urbanísticas do espaço, implantar-se com frente para a rua e integrar-se dentro do volume delimitado pelo alinhamento e cércea dominante e afastamento aos limites laterais, conforme Regulamento Geral das Edificações Urbanas (RGEU) e edificações nas propriedades contíguas.\n\n3 - Nos espaços urbanos é interdito:\n\na) A instalação de indústrias das classes A e B e todas as actividades que se considere tenham efeitos incompatíveis com a habitação ou sejam susceptíveis de pôr em perigo a segurança e saúde públicas, sendo razões de incompatibilidade, designadamente:\n\nA emissão de cheiros, fumos, resíduos incómodos e ruídos;\n\nA perturbação das condições de trânsito e estacionamento ou movimentos de carga e descarga intensos ou permanentes que prejudiquem a fluidez do trânsito e o ambiente urbano;\n\nA apresentação de riscos de toxicidade, de incêndio ou de explosão;\n\nb) A instalação de parques de sucata, de depósito de entulho de qualquer tipo, de lixeiras, de nitreiras, de instalações agro-pecuárias, bem como depósitos ou armazéns de explosivos, de tóxicos e de produtos inflamáveis por grosso, devendo estas actividades, quando existentes, ser eliminadas desta área."
+  },
+  "d25da490e7f302cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Loteamento e edificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Loteamento e edificação\n\nO loteamento e a edificação nos espaços urbanos deverão obedecer aos indicadores urbanísticos definidos nos artigos seguintes."
+  },
+  "21c39254c9dec97e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Espaço urbano de nível 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Espaço urbano de nível 1\n\n1 - Índice de utilização máximo (i):\n\na) 1,6 aplicado à faixa de 25 m de profundidade confinante com a via pública, quando se trate de edificação ou loteamento para o qual não seja necessária a realização de obras de urbanização;\n\nb) 0,8 aplicado à totalidade do terreno, quando se trate de loteamento para o qual seja necessária a realização de obras de urbanização.\n\n2 - Número de pisos máximo - 5."
+  },
+  "0070c57379acc7ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Espaço urbano de nível 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Espaço urbano de nível 2\n\n1 - Índice de utilização máximo (i):\n\na) 1,2 aplicado à faixa de 25 m de profundidade confinante com a via pública, quando se trate de edificação ou loteamento para o qual não seja necessária a realização de obras de urbanização;\n\nb) 0,6 aplicado à totalidade do terreno, quando se trate de loteamento para o qual seja necessária a realização de obras de urbanização.\n\n2 - Número de pisos máximo - 4."
+  },
+  "a99a604f90bdddc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Espaço urbano de nível 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Espaço urbano de nível 3\n\n1 - Índice de utilização máximo (i):\n\na) 0,8 aplicado à faixa de 25 m de profundidade confinante com a via pública, quando se trate de edificação ou loteamento para o qual não seja necessária a realização de obras de urbanização;\n\nb) 0,4 aplicado à totalidade do terreno, quando se trate de loteamento para o qual seja necessária a realização de obras de urbanização.\n\n2 - Número de pisos máximo - 2."
+  },
+  "3ac175aa00d5f5b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Espaço urbano de nível 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Espaço urbano de nível 4\n\n1 - Apenas serão permitidos loteamentos e edificações confinantes com a via pública existente.\n\n2 - Índice de utilização máximo (i) - 0,40 aplicado à faixa de 25 m de profundidade confinante com a via pública.\n\n3 - Número máximo de pisos - 2."
+  },
+  "a239f6445787d3e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Anexos\n\nA área máxima para anexos em lote ou parcela nos espaços urbanos não poderá exceder 5% da área total, devendo ter um só piso e um pé-direito máximo de 2,20 m."
+  },
+  "5b9a9c4f8da45311": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estacionamento\n\nO número de lugares de estacionamento a prever nos espaços urbanos não poderá ser inferior ao definido no anexo III."
+  },
+  "318ccbd0ec3c5758": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Indústria nos espaços urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Indústria nos espaços urbanos\n\n1 - Nos espaços urbanos é permitida a instalação de unidades industriais das classes C e D e de armazéns que não gerem grandes movimentações de cargas e descargas.\n\n2 - As unidades industriais da classe C só podem instalar-se devidamente isoladas de prédios de habitação e respeitando as seguintes condições:\n\na) Cércea máxima - 9 m, excepto instalações técnicas devidamente justificadas;\n\nb) Afastamentos mínimos aos limites do lote - os definidos a partir de qualquer dos lados por um plano a 45º;\n\nc) Percentagem máxima de solo impermeabilizado - 80%;\n\nd) O tratamento de efluentes deverá, quando necessário, ser realizado em estação própria, antes de lançados na rede pública ou nas linhas de drenagem natural;\n\ne) Os espaços livres não impermeabilizados, em especial a faixa livre entre as edificações e os limites do lote, serão tratados como espaços verdes, sem prejuízo de se assegurar a possibilidade de acesso à circulação de veículos de emergência e a implantação de estações de tratamento de efluentes, quando necessário;\n\nf) As unidades industriais devem ser providas de sistemas antipoluentes, por forma a dar cumprimento à legislação em vigor.\n\n3 - A localização das unidades industriais da classe D deve obedecer às condições de isolamento que a tornem compatível com o uso dos edifícios.\n\n4 - As unidades industriais referidas no número anterior, quando se encontrem isoladas e separadas de prédios de habitação, deverão respeitar o disposto nas alíneas a) a j) do n.º 2 deste artigo."
+  },
+  "dbf017d3d9631826": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Espaços urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Espaços urbanizáveis"
+  },
+  "448cfe9ccce0cb2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Caracterização\n\n1 - Os espaços urbanizáveis são aqueles onde se reconhece vocação para futura ocupação dos solos com fins urbanos, mas que, em ausência de infra-estruturas urbanísticas e devido às deficientes condições de acessibilidade, impossibilitam a uma urbanização imediata.\n\n2 - Os espaços urbanizáveis subdividem-se em:\n\na) Espaço urbanizável de nível 1;\n\nb) Espaço urbanizável de nível 2."
+  },
+  "ead9151406eaeaae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regras gerais\n\n1 - A Câmara Municipal poderá autorizar a ocupação dos espaços urbanizáveis, mediante prévia apresentação e aprovação do plano de urbanização ou de pormenor e garantida a execução das necessárias infra-estruturas.\n\n2 - A elaboração de planos de urbanização ou de pormenor no espaço urbanizável de nível 1 sujeitar-se-á aos indicadores urbanísticos definidos para o espaço urbano de nível 1.\n\n3 - A elaboração de planos de urbanização ou de pormenor no espaço urbanizável de nível 2 sujeitar-se-á aos indicadores urbanísticos definidos para o espaço urbano de nível 2.\n\n4 - Enquanto não se verificar a sua passagem a espaços urbanos, apenas será permitida a instalação de equipamentos de interesse e usos colectivos apoiada em estudo de conjunto que garanta uma solução urbanística adequada ao local."
+  },
+  "29b4d21d0a8d55aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Espaços industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Espaços industriais"
+  },
+  "250f5f593b7fa616": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Caracterização\n\n1 - Os espaços industriais destinam-se à implantação de edifícios e estabelecimentos industriais das classes B, C e D, neles se incluindo as áreas destinadas à instalação de laboratórios de pesquisa e análise, armazéns, depósitos, silos, oficinas, edifícios de natureza recreativa e social ao serviço dos trabalhadores da indústria, escritórios e salas de exposição ligadas à actividade de produção e ainda instalações para encarregados e pessoal de vigilância e manutenção dos complexos industriais.\n\n2 - Os estabelecimentos industriais a instalar nos espaços industriais ficam sujeitos às normas em vigor que disciplinam o exercício da actividade industrial e que têm por objectivo a prevenção dos riscos e inconvenientes resultantes da laboração dos estabelecimentos industriais, tendo em vista a salvaguarda da saúde pública e dos trabalhadores, a segurança de pessoas e bens, a higiene e segurança dos locais de trabalho, o correcto ordenamento do território e a preservação da qualidade do ambiente."
+  },
+  "41bc3add81b17fab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Loteamento e edificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Loteamento e edificação\n\nO loteamento e a edificação nos espaços industriais deverão obedecer aos seguintes condicionamentos:\n\na) Índice de utilização máximo (i) - 0,70;\n\nb) Cércea máxima - 9 m, excepto instalações técnicas devidamente justificadas; no caso de edificação que não resulte de operação de loteamento, a altura máxima de qualquer corpo do edifício não deverá ultrapassar um plano a 45º, definido a partir de qualquer dos lados da parcela, com o máximo de 9 m;\n\nc) Percentagem máxima de solo impermeabilizado - 80%;\n\nd) A habitação é interdita, mesmo quando integrada em dependências ou edifícios na unidade fabril;\n\ne) Número de estacionamentos - um lugar por cada 75 m2 de área bruta de construção, dos quais 20% serão públicos;\n\nf) Deverá ser assegurado o acesso a viaturas de bombeiros a todos os pontos das instalações, por forma a garantir a segurança contra incêndios;\n\ng) Os espaços livres não impermeabilizados, em especial a faixa de protecção entre as edificações e os limites do lote, serão tratados como espaços verdes;\n\nh) Os estabelecimentos industriais devem ser providos de sistemas antipoluentes, por forma a dar cumprimento à legislação em vigor, nomeadamente no que respeita à qualidade da água, ao ar, ruído, resíduos e risco de acidentes graves."
+  },
+  "af5caf1718ba1e91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Espaços para indústrias extractivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Espaços para indústrias extractivas"
+  },
+  "a371b26758c7736a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Caracterização\n\nOs espaços para indústrias extractivas destinam-se à exploração de pedreiras."
+  },
+  "8392f2e583e12c7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Uso e ocupação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Uso e ocupação\n\n1 - A exploração de pedreiras deverá observar o disposto na legislação em vigor quanto a medidas de preservação da qualidade do ambiente e plano de recuperação paisagística.\n\n2 - São proibidas as acções de destruição do coberto vegetal, excepto as estritamente necessárias à exploração e implantação das inerentes instalações.\n\n3 - A entidade exploradora da pedreira é responsável pela recuperação paisagística das zonas de lavra e pela segurança e protecção de pessoas e bens, devendo o processo de recuperação ter início logo após a aprovação deste Regulamento, com base em plano de recuperação paisagística a aprovar pela Câmara Municipal."
+  },
+  "ce5f4431338476f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Espaços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Espaços agrícolas"
+  },
+  "52160a4610dea35b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Caracterização\n\n1 - Os espaços agrícolas destinam-se preponderantemente à actividade agrícola e pecuária.\n\n2 - Os espaços agrícolas incluem todas as áreas da RAN e outras áreas agrícolas complementares."
+  },
+  "a7c46ee2dcca9ba0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Edificabilidade\n\n1 - A edificabilidade nas áreas agrícolas incluídas na RAN deverá obedecer ao disposto no artigo 13.º deste Regulamento.\n\n2 - Nas áreas agrícolas complementares será permitida a edificação nas seguintes condições:\n\na) Habitação, desde que o terreno possua uma área de 2000 m2 e acesso a partir de caminho público, sendo o índice de utilização máximo de 0,2 e o número máximo de pisos de dois;\n\nb) Instalações de apoio às actividades agrícolas;\n\nc) Equipamentos de interesse municipal."
+  },
+  "71378673353f22c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Espaços florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Espaços florestais"
+  },
+  "4bbb910e1c4f5c69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Caracterização\n\n1 - Os espaços florestais destinam-se à produção de material lenhoso, resinas e outros produtos florestais e ainda à prática da pastorícia.\n\n2 - Para além de uma função produtiva, estes espaços têm ainda como objectivo assegurar a correcção das disponibilidades hídricas e diminuir os riscos de erosão dos solos, permitindo a sua recuperação funcional e o incremento do valor ecossistémico e recreativo da paisagem."
+  },
+  "d868375e5e947a8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Edificabilidade\n\n1 - A edificabilidade nas áreas florestais incluídas na REN deverá obedecer ao disposto no artigo 14.º deste Regulamento.\n\n2 - Nas áreas florestais não incluídas na REN será permitida a edificação nas seguintes condições:\n\na) Habitação, desde que o terreno possua uma área mínima de 5000 m2 e acesso a partir de caminho público, sendo o índice de utilização máximo de 0,05 e o número de pisos igual ou inferior a dois;\n\nb) Instalações de apoio à actividade florestal;\n\nc) Equipamentos de interesse municipal.\n\n3 - Nos terrenos com povoamentos florestais que sejam percorridos por incêndios ficam proibidas, nos 10 anos seguintes a contar da data do fogo, todas as acções e actividades referidas no artigo 1.º do [Decreto-Lei n.º 327/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1990-565445), de 22 de Outubro."
+  },
+  "22a4878ba8a14e3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Florestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Florestação\n\nNos espaços florestais, as acções de florestação ou reflorestação deverão obedecer ao definido nas alíneas seguintes:\n\na) A florestação ou reflorestação dos solos da REN, deverá obrigatoriamente fazer-se sem recurso a espécies florestais de rápido crescimento, nomeadamente o eucalipto;\n\nb) A florestação ou reflorestação dos solos não incluídos na REN poderá fazer-se com espécies florestais de rápido crescimento, desde que em conformidade com o disposto no n.º 1.º da [Portaria n.º 528/89](https://diariodarepublica.pt/dr/detalhe/portaria/528-1989-619560), de 11 de Julho."
+  },
+  "4463368cbed072f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Grau de risco de incêndio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Grau de risco de incêndio\n\n1 - De acordo com os critérios previstos no artigo 2.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, as manchas florestais do município da Póvoa de Lanhoso agrupam-se nas duas classes a seguir indicadas, correspondentes a diversos graus de sensibilidade ao fogo:\n\na) Classe II - muito sensível;\n\nb) Classe III - sensível.\n\n2 - Em todos os espaços florestais, e no âmbito da prevenção contra fogos, deverá proceder-se em conformidade com o disposto nos artigos 9.º, 10.º e 12.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro."
+  },
+  "88f4682e1afe3a14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Unidades operativas de planeamento e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Unidades operativas de planeamento e gestão"
+  },
+  "29f295ce7b4772e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Caracterização\n\n1 - As unidades operativas de planeamento e gestão delimitam áreas de intervenção para serem tratadas a um nível mais detalhado, mediante plano de pormenor e plano de ordenamento.\n\n2 - De acordo com o constante na planta de ordenamento, estão definidas as seguintes intervenções:\n\na) Plano de pormenor:\n\nÁrea do Carvalhal;\n\nSerra de São Mamede;\n\nb) Plano de ordenamento:\n\nAlbufeira de Andorinhas."
+  },
+  "9810dcf9cb810c95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Espaços culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Espaços culturais"
+  },
+  "34bd82ee37efb3ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Caracterização\n\n1 - Os espaços culturais caracterizam-se por se destinarem à salvaguarda e valorização de imóveis ou conjuntos classificados ou em vias de classificação, devendo ser objecto de um plano de salvaguarda e valorização.\n\n2 - Estes espaços incluem, para além do representado graficamente na planta de ordenamento, as áreas de protecção aos imóveis classificados constantes do anexo II."
+  },
+  "e8e397890694b383": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Área bruta de construção a autorizar ao promotor e compensações ao munícipio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Área bruta de construção a autorizar ao promotor e compensações ao munícipio"
+  },
+  "fb94bf0aa8daf60e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Área bruta de construção a autorizar ao promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Área bruta de construção a autorizar ao promotor\n\nA área bruta de construção que para cada prédio ou parcela será autorizada ao promotor não deverá ser superior à maior das duas seguintes:\n\na) A decorrente das características urbanísticas da ocupação existente;\n\nb) A resultante da aplicação do respectivo índice de utilização, conforme definido nos artigos 27.º, 28.º, 29.º, 30.º, 37.º, 41.º e 43.º deste Regulamento."
+  },
+  "c74587c9ef74f218": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Cedências de terreno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Cedências de terreno\n\n1 - Quando da emissão do alvará de loteamento, o proprietário e os demais titulares de direitos reais sobre o prédio a lotear cedem gratuitamente à Câmara Municipal parcelas de terreno para espaços verdes públicos e de utilização colectiva, infra-estruturas, designadamente arruamentos viários e pedonais, estacionamento e equipamentos públicos, que, de acordo com a operação de loteamento, devam integrar o domínio público.\n\n2 - São as seguintes as áreas de cedência obrigatórias:\n\na) Áreas de arruamentos e estacionamentos públicos;\n\nb) Espaços verdes públicos e de utilização colectiva;\n\nc) Áreas para equipamentos públicos.\n\n3 - O valor das cedências para espaços verdes públicos e de utilização colectiva é de:\n\na) 0,3 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 1, nos espaços industriais e nos espaços para fins turísticos;\n\nb) 0,2 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 2;\n\nc) 0,1 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 3.\n\n4 - O valor das cedências para equipamentos públicos é de:\n\na) 0,3 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 1, nos espaços industriais e nos espaços de desenvolvimento turístico;\n\nb) 0,2 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 2;\n\nc) 0,1 m2 por cada metro quadrado de área bruta de construção, nos espaços urbanos de tipo 3.\n\n5 - Se o prédio ou parcela a lotear já estiver servido pelas infra-estruturas necessárias ou não se justificar a localização de qualquer equipamento público, não há lugar a cedências para esse fim, ficando, no entanto, o proprietário obrigado a pagar à Câmara Municipal uma compensação em numerário ou espécie.\n\n6 - A fórmula que traduzirá em numerário ou espécie será definida em regulamento aprovado pela Assembleia Municipal."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "c87992feeaa38234": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Planos municipais de ordenamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Planos municipais de ordenamento\n\n1 - Deverão, sempre que necessário, ser elaborados planos municipais de ordenamento para as diversas zonas do concelho.\n\n2 - Os planos municipais de ordenamento deverão garantir e pormenorizar as orientações globais do PDM da Póvoa de Lanhoso.\n\n3 - Nos planos municipais de ordenamento que vierem a ser elaborados para a implementação do PDM da Póvoa de Lanhoso deverão ser previstas áreas de equipamentos colectivos, com base nas normas para a programação de equipamentos colectivos do Gabinete de Estudos e Planeamento do Ministério do Planeamento e da Administração do Território."
+  },
+  "9d35e32d0081e288": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Iniciativas em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Iniciativas em curso\n\nAs iniciativas em curso à data da entrada em vigor do PDM da Póvoa de Lanhoso deverão ser analisadas de acordo com as seguintes orientações:\n\na) Se daí não decorrerem inconvenientes graves para a futura implementação do Plano, deverá, por princípio, ser mantido o essencial das expectativas anteriormente criadas;\n\nb) Se daí decorrerem inconvenientes para a implementação do Plano, deverão ser encontradas soluções intermédias entre as expectativas criadas e o resultante das propostas contidas no Plano, ou, quando se verifiquem inconvenientes para a implementação do Plano, deverá optar-se por indemnizações aos detentores dos direitos adquiridos ou proceder-se a expropriações."
+  },
+  "d477e30d2a6360c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Legislação aplicável\n\nAs normas contidas no presente Regulamento estão condicionadas e dependentes da legislação em vigor que se mostre aplicável."
+  },
+  "4f49726fb3fbf7b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Definições\n\nLeito do curso de água - terreno coberto pelas águas, quando não influenciadas por cheias extraordinárias, inundações ou tempestades. O leito é limitado pela linha que corresponder à extrema dos terrenos que as águas cobrem em condições de cheias médias sem transbordar para o solo natural, habitualmente enxuto.\n\nMargem do curso de água - faixa de terreno contígua ou sobranceira à linha que limita o leito das águas. A margem das águas navegáveis ou flutuáveis tem a largura de 30 m. A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.\n\nÍndice de utilização (i) - quociente entre a área bruta de construção e a superfície do prédio ou parcela a que se aplica, inserida em espaço residencial, industrial, agrícola e florestal.\n\nNúmero de pisos - número total de andares sobrepostos acima da cota do arruamento de acesso, com excepção da cave e do sótão, se este corresponder a um simples aproveitamento do vão da cobertura, não podendo a inclinação desta ultrapassar o ângulo de 28º.\n\nCave - espaço coberto por laje total ou parcialmente enterrado, quando, cumulativamente:\n\nNos alçados confrontantes com espaço público, a cota do plano inferior da laje de cobertura estiver, em média, a menos de 0,90 m acima da cota do terreno adjacente;\n\nNos alçados confrontantes com espaço privado, a cota do pavimento não estiver, em nenhum ponto, mais de 0,20 m acima do terreno adjacente.\n\nCércea - valor máximo da distância entre a cota superior do beirado, platibanda ou guarda do terraço e a cota do arruamento fronteiro à fachada, medida no plano perpendicular ao eixo da rua.\n\nLoteamento - operação de divisão em lotes de um ou mais prédios, destinados imediata ou subsequentemente à construção.\n\nLote - área de terreno, marginado por arruamento, destinado à construção, resultante de uma operação de loteamento licenciada nos termos da legislação em vigor.\n\nParcela - área de terreno, não resultante de operação de loteamento, marginada por via pública e susceptível de construção.\n\nPrédio - área de terreno rústico que, para ser utilizado como urbano, tem de ser objecto de uma operação de loteamento e ou de aprovação de obras de urbanização.\n\nÁrea bruta de construção (Ab) - somatório de todas as superfícies de pavimento a construir acima e abaixo da cota de soleira, com excepção da área em cave destinada a estacionamento.\n\nSuperfície impermeabilizada - soma da superfície do terreno ocupada por edifícios, vias, passeios, estacionamento, piscinas e demais obras que impermeabilizem o terreno.\n\nObras de urbanização - todas as obras de criação e remodelação de infra-estruturas que integram a operação de loteamento e as destinadas a servirem os conjuntos e aldeamentos turísticos e as ocupações industriais.\n\nAlinhamento - linha(s) e plano(s) que determina(m) a implantação das edificações."
+  },
+  "2655249e3ebcbd70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n1 - Monumentos nacionais:\n\nCastelo de Lanhoso.\n\nLocalização: freguesia de Póvoa de Lanhoso.\n\nDecreto-Lei de 16 de Junho de 1910.\n\nIgreja de Fonte Arcada.\n\nLocalização: freguesia de Fonte Arcada.\n\nDecreto-Lei de 16 de Junho de 1910.\n\nPelourinho de Lanhoso.\n\nLocalização: freguesia de Lanhoso, lugar da Igreja.\n\nDecreto-Lei de 16 de Junho de 1910.\n\nPonte de Mem Gutierres ou da Esperança.\n\nLocalização: freguesia de Esperança, sobre o rio Ave.\n\nDecreto-Lei de 16 de Junho de 1910.\n\n2 - Imóveis de interesse público:\n\nCitânia de Lanhoso.\n\nLocalização: freguesia de Póvoa de Lanhoso.\n\nDecreto-Lei n.º 37077, de 29 de Setembro de 1948.\n\nIgreja Paroquial de São João Batista de Rei.\n\nLocalização: freguesia de São João de Rei.\n\n[Decreto-Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1982-600772), de 26 de Fevereiro.\n\nPelourinho de Monsul.\n\nLocalização: freguesia de Monsul.\n\nDecretos-Leis n.os 23122, de 11 de Outubro de 1933, e 129/77, de 29 de Setembro.\n\nCasa da Quinta do Penedo.\n\nLocalização: freguesia de Geraz do Minho.\n\n[Decreto-Lei n.º 28/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1982-600772), de 26 de Fevereiro.\n\nPortaria principal do Hospital de Póvoa de Lanhoso.\n\nLocalização: freguesia de Póvoa de Lanhoso.\n\n[Decreto-Lei n.º 8/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1983-308163), de 24 de Janeiro.\n\nEstrada lusitano-romana.\n\nLocalização: freguesia de Póvoa de Lanhoso.\n\nDecreto-Lei n.º 30762, de 26 de Setembro de 1940."
+  },
+  "40f95651d3a15922": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Número de lugares de estacionamento a prever nos espaços urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Número de lugares de estacionamento a prever nos espaços urbanos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/286b00/77827792.pdf)"
+  },
+  "24ac3d9acbe6ed90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Revisão",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 4.º — Revisão\n\nO PDM da Póvoa de Lanhoso poderá ser revisto nos termos legalmente estabelecidos.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "b81bce5f5c7d96d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Reserva Ecológica Nacional",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 14.º — Reserva Ecológica Nacional\n\nA ocupação, uso e transformação dos terrenos integrados na REN fica condicionada ao estipulado na lei vigente.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "3a375e72037416fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Classes de espaços",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 23.º — Classes de espaços\n\n1 - Em função do uso dominante, são consideradas as seguintes classes de espaços, que se encontram identificadas na planta de ordenamento:\n\na) Espaços urbanos;\n\nb) Espaços urbanizáveis;\n\nc) Espaços industriais;\n\nd) Espaços para indústria extractiva;\n\ne) Espaços agrícolas;\n\nf) Espaços florestais;\n\ng) Espaços culturais;\n\nh) Unidades operativas de planeamento e gestão.\n\n2 - Quando o mesmo terreno seja objecto de distintas classes de uso que sejam confrontantes, serão admitidos acertos decorrentes do cadastro da propriedade ou da representação gráfica entre tais espaços, não podendo tal acerto exceder os 10 m.\n\n3 - Quando tais acertos estiverem abrangidos pelas condicionantes previstas no presente diploma, carecerão da autorização da respectiva entidade tutelar.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "5614c6583575aa93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Regras gerais",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 25.º — Regras gerais\n\n1 - Na ausência de estudos de conjunto, e quando estes se mostrarem dispensáveis, as edificações deverão respeitar as características urbanísticas do espaço, implantar-se com frente para a rua e integrar-se dentro do volume delimitado pelo alinhamento e cércea dominante e afastamento aos limites laterais, conforme Regulamento Geral das Edificações Urbanas (RGEU) e edificações nas propriedades contíguas.\n\n2 - Para cada espaço urbano são definidos índices de utilização máximos e número de pisos máximo, devendo ser elaborados, quando necessário, planos de urbanização, planos de pormenor ou outros estudos de conjunto que pormenorizem os condicionamentos urbanísticos de cada espaço.\n\n3 - Para equipamentos de reconhecido interesse público poderão ser admitidos indicadores urbanísticos superiores aos previstos, desde que a solução volumétrica se articule harmoniosamente com a envolvente, contribuindo para a sua valorização.\n\n4 - Nas ampliações e construções de raiz será admissível a manutenção das características da edificação coalescente, desde que as mesmas perspectivem a colmatação do tecido existente.\n\n5 - Nos espaços urbanos é interdito:\n\na) A instalação de indústrias das classes A e B e todas as actividades que se considere tenham efeitos incompatíveis com a habitação ou sejam susceptíveis de pôr em perigo a segurança e saúde públicas, sendo razões de incompatibilidade, designadamente:\n\nA emissão de cheiros, fumos, resíduos incómodos e ruídos;\n\nA perturbação das condições de trânsito e estacionamento ou movimentos de carga e descarga intensos ou permanentes que prejudiquem a fluidez do trânsito e o ambiente urbano;\n\nA apresentação de riscos de toxicidade, de incêndio ou de explosão;\n\nb) A instalação de parques de sucata, de depósito de entulho de qualquer tipo, de lixeiras, de nitreiras, de instalações agro-pecuárias, bem como depósitos ou armazéns de explosivos, de tóxicos e de produtos inflamáveis por grosso, devendo estas actividades, quando existentes, ser eliminadas desta área.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "2517b3a36c11ed97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Espaço urbano de nível 1",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 27.º — Espaço urbano de nível 1\n\n1 - Índice de utilização máximo (i):\n\na) 1,6 aplicado à faixa de 25 m de profundidade confinante com a via pública, quando se trate de edificação ou loteamento para o qual não seja necessária a realização de obras de urbanização;\n\nb) 0,8 aplicado à totalidade do terreno, quando se trate de loteamento para o qual seja necessária a realização de obras de urbanização.\n\n2 - a) A altura máxima permitida é de 16 m.\n\nb) Em terrenos onde as condições topográficas o permitam, será admitido o recuo de parte de uma das fachadas, num mínimo de 3 m, medidos entre o desfasamento dos seus planos verticais, devendo a altura máxima dos planos observar o estabelecido na alínea anterior.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "df2f165edb732ab0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Espaço urbano de nível 2",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 28.º — Espaço urbano de nível 2\n\n1 - Índice de utilização máximo (i):\n\na) 1,2 aplicado à faixa de 25 m de profundidade confinante com a via pública, quando se trate de edificação ou loteamento para o qual não seja necessária a realização de obras de urbanização;\n\nb) 0,6 aplicado à totalidade do terreno, quando se trate de loteamento para o qual seja necessária a realização de obras de urbanização.\n\n2 - a) A altura máxima permitida é de 13 m.\n\nb) Em terrenos onde as condições topográficas o permitam, será admitido o recuo de parte de uma das fachadas, num mínimo de 3 m, medidos entre o desfasamento dos seus planos verticais, devendo a altura máxima dos planos observar o estabelecido na alínea anterior.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "ed34279c437dc559": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Espaço urbano de nível 3",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 29.º — Espaço urbano de nível 3\n\n1 - Índice de utilização máximo (i):\n\na) 0,8 aplicado à faixa de 25 m de profundidade confinante com a via pública, quando se trate de edificação ou loteamento para o qual não seja necessária a realização de obras de urbanização;\n\nb) 0,4 aplicado à totalidade do terreno, quando se trate de loteamento para o qual seja necessária a realização de obras de urbanização.\n\n2 - a) A altura máxima permitida é de 7 m.\n\nb) Em terrenos onde as condições topográficas o permitam, será admitido o recuo de parte de uma das fachadas, num mínimo de 3 m, medidos entre o desfasamento dos seus planos verticais, devendo a altura máxima dos planos observar o estabelecido na alínea anterior.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "1b3910048e1f808e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Espaço urbano de nível 4",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 30.º — Espaço urbano de nível 4\n\n1 - Índice de utilização máximo (i) - 0,40 aplicado à faixa de 25 m de profundidade confinante com a via pública.\n\n2 - a) A altura máxima permitida é de 7 m.\n\nb) Em terrenos onde as condições topográficas o permitam, será admitido o recuo de parte de uma das fachadas, num mínimo de 3 m, medidos entre o desfasamento dos seus planos verticais, devendo a altura máxima dos planos observar o estabelecido na alínea anterior.\n\n3 - Apenas será admitida a tipologia unifamiliar, admitindo-se, em complementaridade, a instalação de actividades compatíveis com espaços urbanos, no rés-do-chão e ou cave, quando devidamente justificadas.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "3c59d01b0b5e988f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Anexos",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 31.º — Anexos\n\nA área máxima para anexos em lote ou parcela não poderá exceder 5% da área total, mas sempre com o limite máximo de 60 m2, devendo ter um só piso e um pé-direito máximo de 2,2 m.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "809f826df76c9ad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Regras gerais",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 35.º — Regras gerais\n\n1 - Os espaços urbanizáveis sujeitam-se à prévia apresentação e aprovação de plano municipal de ordenamento do território.\n\n2 - A ocupação destes espaços poderá igualmente ser efectuada mediante operação de loteamento.\n\n3 - A Câmara Municipal poderá não sujeitar a ocupação à prévia existência de plano municipal de ordenamento do território ou loteamento aprovado, nos casos em que a dimensão do terreno e a tipologia adoptada sejam insusceptíveis de prejudicar a organização futura da área envolvente, em particular no que respeita ao dimensionamento e traçado de arruamentos e outras infra-estruturas urbanísticas.\n\n4 - Em qualquer dos casos referidos nos números anteriores, deverá ficar garantida a execução das necessárias infra-estruturas, não podendo as actividades a instalar acarretar prejuízos ou criar condições de incompatibilidade com a função residencial, designadamente as referidas no n.º 5 do artigo 25.º deste Regulamento.\n\n5 - A ocupação do espaço urbanizável de nível 1 sujeitar-se-á aos indicadores urbanísticos definidos para o espaço urbano de nível 1.\n\n6 - A ocupação do espaço urbanizável de nível 2 sujeitar-se-á aos indicadores urbanísticos definidos para o espaço urbano de nível 2.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "fdd11a85875dd16c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Edificabilidade",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 41.º — Edificabilidade\n\n1 - A edificabilidade nas áreas agrícolas incluídas na RAN deverá obedecer ao disposto no artigo 13.º deste Regulamento.\n\n2 - Nos espaços agrícolas será permitida a edificação nas seguintes condições:\n\na) Habitação, desde que o terreno possua uma área de 2000 m2 e acesso a partir de caminho público, sendo o índice de utilização máximo de 0,2 e o número máximo de pisos de dois;\n\nb) Instalações de apoio às actividades agrícolas;\n\nc) Equipamentos de interesse municipal.\n\n3 - A construção de anexos deverá obedecer ao disposto no artigo 31.º deste Regulamento.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "a2abc471662f07b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Edificabilidade",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 43.º — Edificabilidade\n\n1 - Nas áreas florestais não incluídas na Reserva Ecológica Nacional será permitida a edificação nas seguintes condições:\n\na) Habitação, desde que o terreno possua uma área mínima de 5000 m2 e acesso a partir de caminho público, sendo o índice de utilização máximo de 0,05 e o número de pisos igual ou inferior a dois;\n\nb) Instalações de apoio à actividade florestal;\n\nc) Equipamentos de interesse municipal.\n\nd) Indústrias relacionadas com a actividade florestal.\n\n2 - A construção de anexos deverá obedecer ao disposto no artigo 31.º deste Regulamento.\n\n3 - Os terrenos com povoamentos florestais que sejam percorridos por incêndios deverão observar as disposições legais aplicáveis.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "49a931f9a0e5f920": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Espaços culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Espaços culturais"
+  },
+  "f93a2dcd8ff3f5a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Caracterização",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 46.º — Caracterização\n\n1 - Os espaços culturais caracterizam-se por se destinarem à salvaguarda e valorização de imóveis ou conjuntos classificados ou em vias de classificação, devendo ser objecto de um plano de salvaguarda e valorização.\n\n2 - Estes espaços incluem, para além do representado graficamente na planta de ordenamento, as áreas de protecção aos imóveis classificados constantes do anexo II.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "dc2ab19faf761a77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Unidades operativas de planeamento e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Unidades operativas de planeamento e gestão"
+  },
+  "b4f8c71993334b99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Caracterização",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 47.º — Caracterização\n\n1 - As unidades operativas de planeamento e gestão delimitam áreas de intervenção para serem tratadas a um nível mais detalhado, mediante plano de pormenor e plano de ordenamento.\n\n2 - De acordo com o constante na planta de ordenamento, estão definidas as seguintes intervenções:\n\na) Plano de pormenor:\n\nÁrea do Carvalhal;\n\nSerra de São Mamede;\n\nb) Plano de ordenamento:\n\nAlbufeira de Andorinhas.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "7b29636675a8196c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Cedências de terreno",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "###### Artigo 49.º — Cedências de terreno\n\n1 - O dimensionamento das parcelas a ceder para espaços verdes e de utilização colectiva, previstas em operações de loteamento ou planos municipais de ordenamento do território, deverá observar o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.\n\n2 - O dimensionamento das parcelas a ceder para equipamento, previstos em operações de loteamento ou planos municipais de ordenamento do território, deverá observar o disposto na [Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro.\n\n3 - Caso não se justifique a localização de qualquer equipamento, não haverá lugar a cedência de parcelas para esse fim, ficando, no entanto, o proprietário obrigado a pagar ao município uma compensação, em numerário ou espécie, nos termos definidos em regulamento municipal.\n\n4 - Se a área a ceder para equipamento for inferior a 500 m2 e não se verificar a hipótese de associação a outra cedência prevista para os terrenos contíguos, a mesma deverá ser substituída por compensação, a estabelecer de acordo com o previsto no número anterior.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "4a93b10b239b852c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Definições",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "## ANEXO I — Definições\n\nLeito do curso de água - terreno coberto pelas águas, quando não influenciadas por cheias extraordinárias, inundações ou tempestades. O leito é limitado pela linha que corresponder à extrema dos terrenos que as águas cobrem em condições de cheias médias sem transbordar para o solo natural, habitualmente enxuto.\n\nMargem do curso de água - faixa de terreno contígua ou sobranceira à linha que limita o leito das águas. A margem das águas navegáveis ou flutuáveis tem a largura de 30 m. A margem das águas não navegáveis nem flutuáveis, nomeadamente torrentes, barrancos e córregos de caudal descontínuo, tem a largura de 10 m.\n\nÍndice de utilização (i) - quociente entre a área bruta de construção e a superfície do prédio ou parcela a que se aplica, inserida em espaço residencial, industrial, agrícola e florestal.\n\nAltura - é a dimensão vertical acima do solo, medida a partir do ponto mais desfavorável do edifício até à linha inferior da platibanda ou do beirado, excluindo-se o acesso às garagens em cave e os recuos previstos em parte de um dos planos da fachada.\n\nCércea - valor máximo da distância entre a cota superior do beirado, platibanda ou guarda do terraço e a cota do arruamento fronteiro à fachada, medida no plano perpendicular ao eixo da rua.\n\nLoteamento - todas as operações que tenham por objecto ou por efeito a divisão em lotes, qualquer que seja a sua dimensão, de um ou vários prédios, desde que pelo menos um dos lotes se destine subsequentemente a construção urbana.\n\nLote - área de terreno, marginado por arruamento, destinado à construção, resultante de uma operação de loteamento licenciada nos termos da legislação em vigor.\n\nParcela - área de terreno, não resultante de operação de loteamento, marginada por via pública e susceptível de construção.\n\nPrédio - área de terreno rústico que, para ser utilizado como urbano, tem de ser objecto de uma operação de loteamento e ou de aprovação de obras de urbanização.\n\nÁrea bruta de construção (Ab) - somatório de todas as superfícies de pavimento a construir acima e abaixo da cota de soleira, com excepção da área em cave destinada a estacionamento.\n\nSuperfície impermeabilizada - soma da superfície do terreno ocupada por edifícios, vias, passeios, estacionamento, piscinas e demais obras que impermeabilizem o terreno.\n\nObras de urbanização - todas as obras de criação e remodelação de infra-estruturas que integram a operação de loteamento e as destinadas a servirem os conjuntos e aldeamentos turísticos e as ocupações industriais.\n\nAlinhamento - linha(s) e plano(s) que determina(m) a implantação das edificações.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  },
+  "2b39b7ff3b684cc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Número de lugares de estacionamento a prever nos espaços urbanos",
+   "in_force_from": "1999-04-27",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+   ],
+   "markdown": "## ANEXO III — Número de lugares de estacionamento a prever nos espaços urbanos\n\n[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b00/21542157.pdf)\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22."
+  }
+ }
+}

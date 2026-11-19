@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-12-16'
+version_history:
+  file: despacho-normativo-32-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-12-16'
+    amending: pt:dre:577765:por
+    amending_title: Despacho Normativo n.º 46/2001
+    changes:
+    - Altera Artigo 2.º
+    - Adita Artigo 59.º-A
+    - Altera Artigo ANEXO I
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/32/1995/07/14/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:28:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 46/2001. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1995/despacho-normativo-32-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,9 +160,13 @@ a) A Escola Superior de Educação;
 
 b) A Escola Superior Agrária;
 
-c) A Escola Superior de Tecnologia e de Gestão.
+c) A Escola Superior de Tecnologia e de Gestão;
 
-2 - A criação, integração e entrada em funcionamento de novas escolas ou outras unidades orgânicas no Instituto, bem como a modificação ou extinção das existentes, regulam-se pelo disposto na alínea b) do n.º 2 do artigo 7.º da [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro.
+d) A Escola Superior de Enfermagem.
+
+2 - A criação, integração e entrada em funcionamento de novas escolas ou outras unidades orgânicas no Instituto, bem como a modificação ou extinção das existentes, regula-se pelo disposto na alínea b) do n.º 2 do artigo 7.º da lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro).
+
+> Alterado pelo/a [Despacho Normativo n.º 46/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-2001-577765), publicado em 2001-12-11.
 
 ### CAPÍTULO II — Natureza e atribuições
 
@@ -1017,22 +1038,50 @@ d) Os presidentes das associações de estudantes.
 
 O actual presidente do Instituto cessará funções com a posse do presidente eleito.
 
+###### Artigo 59.º-A — Membros dos órgãos de gestão da Escola Superior de Enfermagem
+
+1 - A Escola Superior de Enfermagem deve, no prazo de 10 dias a contar da publicação da presente revisão dos Estatutos, proceder à eleição dos membros dos seus órgãos, bem como eleger os seus representantes nos órgãos do Instituto, nos termos previstos nos Estatutos.
+
+2 - Até à eleição do conselho directivo da Escola Superior de Enfermagem, a directora da Escola Superior de Enfermagem integra, por inerência, o conselho geral do Instituto e a sua comissão permanente.
+
+3 - Durante o período transitório previsto no número anterior, a directora da Escola Superior de Enfermagem participa, conjuntamente com os presidentes dos conselhos directivos das Escolas, na aprovação das propostas previstas no n.º 5 do artigo 19.º dos presentes Estatutos.
+
+> Aditado pelo/a [Despacho Normativo n.º 46/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-2001-577765), publicado em 2001-12-11.
+
 ###### Artigo 60.º — Entrada em vigor
 
 Os presentes estatutos entrarão em vigor no dia seguinte ao da sua publicação no Diário da República.
 
 ## ANEXO I
 
-O símbolo do Instituto Politécnico de Beja tem fundo branco, expressando a pureza do saber e da ciência, e forma espiralada verde, dado entender-se a espiral como a expansão infinito do saber e da ciência e o verde como a esperança no futuro.
+O símbolo do Instituto Politécnico de Beja tem fundo branco, expressando a pureza do saber e da ciência, e a forma espiralada verde, dado entender-se a espiral como a expansão infinita do saber e da ciência e o verde como a experiência no futuro.
 
 Um mocho, símbolo da sabedoria, ocupa o centro da espiral; mas um mocho como que voando para o futuro, na rota que lhe impõe o Instituto Politécnico de Beja.
 
 A espiga que o mocho transporta significa a riqueza cultural, económica e social da região, enquanto o ramo de oliveira tem conotação com a paz e com a bem-aventurança.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf)
+A integração das unidades orgânicas do Instituto Politécnico de Beja faz-se através do nome da cidade que acolhe o seu campus, Beja; por tal, o Instituto adoptou como suas as cores da cidade: o encarnado e o preto.
 
-A integração das unidades orgânicas do Instituto Politécnico de Beja faz-se através do nome da cidade que acolhe o seu campus Beja; por tal, o Instituto adoptou como suas as cores da cidade, o encarnado e o preto.
+As quatro unidades orgânicas já instaladas (a Escola Superior Agrária de Beja, a Escola Superior de Educação, a Escola Superior de Tecnologia e de Gestão e a Escola Superior de Enfermagem) têm emblemática própria, constante do presente anexo, reportando-se à emblemática do Instituto através da designação da cidade de acolhimento - Beja - e mantendo o simbolismo das principais actividades que cada uma desenvolve - agricultura, educação, tecnologia, gestão e turismo e saúde.
 
-As duas unidades orgânicas já instaladas (Escola Superior Agrária de Beja e Escola Superior de Educação de Beja) têm emblemática própria, constante do presente anexo, reportando-se à emblemática do Instituto através da designação da cidade de acolhimento - Beja - e mantendo o simbolismo das principais actividades que cada uma desenvolve - Agricultura e Educação.
+Instituto Politécnico de Beja
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf)
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+Escola Superior Agrária de Beja
+
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+Escola Superior de Educação de Beja
+
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+Escola Superior de Tecnologia e de Gestão de Beja
+
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+Escola Superior de Enfermagem de Beja
+
+[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)](https://files.diariodarepublica.pt/1s/2001/12/285b00/81668167.pdf)
+
+> Alterado pelo/a [Despacho Normativo n.º 46/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-2001-577765), publicado em 2001-12-11.

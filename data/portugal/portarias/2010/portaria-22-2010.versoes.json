@@ -1,0 +1,76 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:459922:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2010-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d9f82d0b97623ab4",
+    "4082f306ec3915ae",
+    "ad9badf851a36d77"
+   ]
+  },
+  {
+   "date": "2011-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278912:por",
+     "title": "Portaria n.º 87/2011",
+     "published": "2011-02-25",
+     "dre_path": "/dr/detalhe/portaria/87-2011-278912"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "d9f82d0b97623ab4",
+    "a29c6bb69f860f17",
+    "ad9badf851a36d77"
+   ]
+  }
+ ],
+ "fragments": {
+  "d9f82d0b97623ab4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Janeiro\n\nNos termos do disposto na alínea d) do artigo 4.º do [Decreto-Lei n.º 144/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2007-520988), de 27 de Abril, são órgãos do Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), as comissões técnicas especializadas, de entre as quais a Comissão de Índices e Fórmulas de Empreitadas (CIFE), à qual compete, nos termos do n.º 1 do artigo 10.º do mesmo diploma, pronunciar-se sobre:\n\na) Os indicadores económicos e respectivos valores, com base em elementos fornecidos pelo Instituto Nacional de Estatística e pelo ministério que tutela a área do trabalho, para o cálculo da revisão de preços, no âmbito das empreitadas de obras públicas;\n\nb) As fórmulas tipo de revisão de preços a aplicar em contratos de empreitada;\n\nc) Outros assuntos que lhe sejam submetidos.\n\nDetermina o n.º 3 do artigo 8.º daquele diploma legal que a composição das referidas comissões é estabelecida por portaria do ministro da tutela.\n\nAssim:\n\nAo abrigo do disposto no artigo 8.º do [Decreto-Lei n.º 144/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2007-520988), de 27 de Abril, manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:"
+  },
+  "4082f306ec3915ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Comissão de Índices e Fórmulas de Empreitadas (CIFE) do Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), tem a seguinte constituição:\n\na) Um representante do Instituto da Habitação e Reabilitação Urbana, I. P.;\n\nb) Um representante do Laboratório Nacional de Engenharia Civil, I. P.;\n\nc) Um representante do Instituto de Gestão do Património Arquitectónico e Arqueológico;\n\nd) Um representante do Governo Regional dos Açores ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;\n\ne) Um representante do Governo Regional da Madeira ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;\n\nf) Um representante da Associação Nacional de Municípios Portugueses;\n\ng) Um represente da Rede Ferroviária Nacional - REFER, E. P. E.;\n\nh) Um representante do Metropolitano de Lisboa, E. P. E.;\n\ni) Um representante da Parque Escolar, E. P. E.;\n\nj) Um representante do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.;\n\nl) Um representante da Associação de Empresas de Construção de Obras Públicas;\n\nm) Um representante da Associação Nacional dos Empreiteiros de Obras Públicas;\n\nn) Um representante da Associação dos Industriais da Construção Civil de Obras Públicas;\n\no) Um representante da Associação dos Industriais da Construção de Edifícios;\n\np) Um representante da Associação Portuguesa de Comerciantes de Materiais da Construção;\n\nq) Um representante da Associação dos Industriais Metalúrgicos, Metalomecânicos e Afins de Portugal;\n\nr) Um representante da Associação Portuguesa dos Industriais de Engenharia Energética;\n\ns) Um representante do Instituto Nacional de Estatística, I. P.;\n\nt) Um representante do Departamento de Prospectiva e Planeamento e Relações Internacionais do Ministério do Ambiente e do Ordenamento do Território;\n\nu) Um representante do Gabinete de Estratégia e Planeamento do Ministério do Trabalho e da Solidariedade Social."
+  },
+  "ad9badf851a36d77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs representantes das entidades mencionadas no artigo anterior iniciam funções no 1.º dia do mês seguinte ao da publicação do despacho de designação a que se refere o n.º 4 do artigo 8.º do [Decreto-Lei n.º 144/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2007-520988), de 27 de Abril.\n\nO Ministro das Obras Públicas, Transportes e Comunicações, António Augusto da Ascenção Mendonça, em 29 de Dezembro de 2009."
+  },
+  "a29c6bb69f860f17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Composição da Comissão de Índices e Fórmulas de Empreitadas",
+   "in_force_from": "2011-03-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 87/2011](https://diariodarepublica.pt/dr/detalhe/portaria/87-2011-278912), publicado em 2011-02-25."
+   ],
+   "markdown": "###### Artigo 1.º — Composição da Comissão de Índices e Fórmulas de Empreitadas\n\nA Comissão de Índices e Fórmulas de Empreitadas, abreviadamente designada CIFE, do InCI, I. P., passa a ter a seguinte composição:\n\na) Um representante do Governo Regional da Madeira ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;\n\nb) Um representante do Governo Regional dos Açores ou de um organismo autónomo com funções no âmbito das obras públicas e particulares;\n\nc) Um representante da Associação Nacional de Municípios Portugueses;\n\nd) Um representante do Gabinete de Estratégia e Planeamento do Ministério do Trabalho e da Solidariedade Social.\n\ne) Um representante do Instituto Nacional de Estatística, I. P.;\n\nf) Um representante do Laboratório Nacional de Engenharia Civil, I. P.;\n\ng) Um representante do Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P.;\n\nh) Um representante do Instituto da Habitação e Reabilitação Urbana, I. P.;\n\ni) Um representante do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.;\n\nj) Um represente da Rede Ferroviária Nacional - REFER, E. P. E.;\n\nl) Um representante do Metropolitano de Lisboa, E. P. E.;\n\nm) Um representante da Parque Escolar, E. P. E.;\n\nn) Um representante da Associação de Empresas de Construção de Obras Públicas;\n\no) Um representante da Associação Nacional de Empreiteiros de Obras Públicas;\n\np) Um representante da Associação dos Industriais da Construção Civil de Obras Públicas;\n\nq) Um representante da Associação dos Industriais da Construção de Edifícios;\n\nr) Um representante da Associação Portuguesa de Comerciantes de Materiais da Construção;\n\ns) Um representante da Associação dos Industriais Metalúrgicos, Metalomecânicos e Afins de Portugal;\n\nt) (Revogada.)\n\nu) Um representante da Associação Nacional das Empresas Metalúrgicas e Electromecânicas;\n\nv) Um representante da Associação Portuguesa dos Industriais de Engenharia Energética;\n\n> Alterado pelo/a [Portaria n.º 87/2011](https://diariodarepublica.pt/dr/detalhe/portaria/87-2011-278912), publicado em 2011-02-25."
+  }
+ }
+}
