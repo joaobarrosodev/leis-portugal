@@ -129,7 +129,7 @@ Cinco por classe, ao acaso entre as de certeza alta (`random.seed(5)`). Para cad
 - **Portaria 722-J12/92** (`pt:dre:617685:por`). Foi alterada pela Portaria 167/2000 e é renovável. O prazo acabou em 2012, e não há renovação no acervo. **Dúvida.**
 - **Portaria 1051/2007** (`pt:dre:641375:por`). Extingue por caducidade uma zona e concessiona outra (processo 4582-DGRF) por 12 anos, renovável. Provavelmente vigora.
 - **Portaria 667-X4/93** (`pt:dre:402302:por`). Foi alterada pela Portaria 752/97. O prazo acabou em 2009, e não há renovação no acervo. **Dúvida.**
-- **Portaria 493/2004** (`pt:dre:301806:por`). Zona municipal de Enxerim, em Silves, por 6 anos (processo 3437). A Portaria 393/2010 renova a transferência de gestão por mais 6 anos, até 2016, e **não está na cadeia** da consolidação. Depois de 2016 não se sabe. **Dúvida**, e há um alterador em falta.
+- **Portaria 493/2004** (`pt:dre:301806:por`). Zona municipal de Enxerim, em Silves, por 6 anos (processo 3437). A Portaria 393/2010 renova a transferência de gestão por mais 6 anos, até 2016. Depois de 2016 não se sabe. **Dúvida.** (Corrigido a 19/11: a Portaria 393/2010 está na cadeia; a consolidação viu-a e não muda o texto. Ver a secção 5.)
 
 **Cursos anteriores a Bolonha: 0 de 5 com um ato expresso.**
 
@@ -276,6 +276,8 @@ As 145 aplicadas estão em 140 diplomas. Nas próximas rondas, `corrected_by` co
 - das 41 «nao_vigora», passaram o critério de prova 26: 24 do Sonnet e 2 do Opus.
 
 Por classe, as marcas foram 18 de 370 na caça, 8 de 210 nas orgânicas e 0 de 78 nos regimes de um só ano.
+
+**As renovações de caça «fora da cadeia» (66 linhas, 40 pares).** Não havia nada a aplicar. 38 pares já estavam na cadeia: a consolidação viu-os (seleção e `alteradores_vistos` do LLM) e não mudam o texto, porque uma renovação renova a concessão sem reescrever a portaria. Os outros 2 eram números de processo trocados (um acórdão do STJ e uma gralha no sumário da Portaria 449/2004). A regra foi corrigida (`vigencia.na_cadeia()`), e `alteradores-em-falta.jsonl` fica vazio. As marcas não mudam (339).
 
 O rendimento baixo, sobretudo do Opus nas dúvidas (2 marcas em 620), vem de a prova de que a maior parte deixou de vigorar não estar no acervo: as renovações e as extinções da 2.ª série, e os regimes que caducam sem ato expresso. Não se fizeram mais rondas.
 

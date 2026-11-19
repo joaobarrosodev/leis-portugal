@@ -185,11 +185,10 @@ Os pormenores estão no `consolidacao/README.md`, «8. Repedir com os reparos e 
   - medir o texto alterado antes e depois.
 - **Os dois achados, resolvidos a 19/11** (`reports/auditoria-consolidados.md`; `consolidacao/README.md`, secções 9 e 10):
   - **Retificações fora da cadeia.** Das 243 por aplicar, 145 aplicadas: 67 por regra e 78 com o LLM, todas verificadas às cegas. O estado de cada uma está em `consolidacao/auditoria/retificacoes-estado.jsonl`. A fuga está fechada: `corrected_by` conta como alterador nas próximas rondas.
-  - **Vigência.** Não se tiram consolidações por vigência. A marca `consolidacao/auditoria/vigencia-revista.jsonl` tem 155 `nao_vigora` e 184 `regime_anterior`, e o RAG dá o aviso. Os 12 do bloco 3 voltaram a entrar no `data/`.
+  - **Vigência.** Não se tiram consolidações por vigência. A marca `consolidacao/auditoria/vigencia-revista.jsonl` tem 155 `nao_vigora` e 184 `regime_anterior`, e o RAG dá o aviso. Os 12 do bloco 3 voltaram a entrar no `data/`. As «66 renovações de caça fora da cadeia» não estavam fora: 38 dos 40 pares já tinham sido vistos pela consolidação e não mudam o texto, e 2 eram números de processo trocados. Não havia nada a aplicar.
 - **Falta:**
   - export e reconstrução do índice com os 140 registos retificados e os 12 de volta; a cargo da sessão coordenadora;
   - copiar `vigencia-revista.jsonl` para a pasta do índice ao publicar no HF;
   - medir o aviso e, à parte, `RAG_VIGENCIA_PRIOR=1`;
-  - aplicar as 66 renovações de caça de `alteradores-em-falta.jsonl`;
   - as 7 retificações reprovadas às cegas;
   - as 595 dúvidas de vigência e os 140 incertos, se valer a pena.

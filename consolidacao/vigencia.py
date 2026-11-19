@@ -19,8 +19,12 @@ Marcas por regra (0 tokens), por esta ordem (fica a primeira):
    sem os que tocam a metrópole ou regimes pessoais (pensões, vencimentos, Código Civil).
 5. `caca_prazo`: concessões de caça com o prazo do texto acabado, sem cláusula de renovação no
    texto, e sem nenhum outro registo do acervo com o mesmo número de processo nem relação
-   `amended_by` posterior. As renovações encontradas fora da cadeia vão para
-   `auditoria/alteradores-em-falta.jsonl`.
+   `amended_by` posterior. Uma renovação (ou anexação, ou exclusão de prédios) impede a marca. Só
+   vai para `auditoria/alteradores-em-falta.jsonl` a que a consolidação não viu: as que estão na
+   seleção (`selecao-escala.jsonl`) ou nos `alteradores_vistos` do LLM já foram triadas e não
+   mudam o texto. Para «em falta», o número de processo tem de estar no corpo de ambos (o sumário
+   tem gralhas) e o outro registo tem de falar de «zona de caça» (os acórdãos também têm
+   processos). Para impedir a marca, basta o número, como antes: na dúvida, não se marca.
 6. `regime_anterior`: os cursos e graus anteriores ao DL 74/2006, com a marca `regime_anterior`
    (não se afirma que caducaram).
 
@@ -44,7 +48,7 @@ PASTA = Path(__file__).resolve().parent
 sys.path.insert(0, str(PASTA))
 
 from auditoria import _RESSALVA  # noqa: E402
-from texto import RAIZ, front_matter  # noqa: E402
+from texto import RAIZ, corpo, front_matter  # noqa: E402
 
 
 AUDITORIA = PASTA / "auditoria"
@@ -173,9 +177,31 @@ def _pelo(rotulo: str) -> str:
     return re.sub(r"\s+-\s+Diário da República.*$", "", achados[0]).strip() if achados else "outro diploma"
 
 
-def caca_prazo(consolidados: dict[str, dict], processos: Path) -> tuple[dict[str, dict], list[dict]]:
-    """As concessões com o prazo acabado e nada no acervo depois; e as renovações fora da cadeia."""
+def na_cadeia() -> dict[str, set[str]]:
+    """Por diploma, os alteradores que a consolidação já viu: os da seleção, triados um a um, e os
+    `alteradores_vistos` das respostas do LLM. Um destes que não esteja nos `acts` foi visto e não
+    muda o texto."""
+    vistos: dict[str, set[str]] = defaultdict(set)
+    selecao = PASTA / "selecao-escala.jsonl"
+    if selecao.exists():
+        for linha in selecao.read_text(encoding="utf-8").splitlines():
+            d = json.loads(linha)
+            vistos[d["id"]].update(a["id"] for a in d.get("alteradores") or [])
+    for ficheiro in sorted((PASTA / "llm").glob("juntados*.jsonl")):
+        for linha in ficheiro.read_text(encoding="utf-8").splitlines():
+            d = json.loads(linha)
+            vistos[d["id"]].update(d.get("alteradores_vistos") or [])
+    return vistos
+
+
+def caca_prazo(consolidados: dict[str, dict], processos: Path, vistos: dict[str, set[str]] | None = None) -> tuple[dict[str, dict], list[dict]]:
+    """As concessões com o prazo acabado e nada no acervo depois; e as renovações que a consolidação
+    não viu."""
+    vistos = na_cadeia() if vistos is None else vistos
     _PROC = re.compile(r"processo n\.?\s*º?\s*([\d.]+)", re.I)
+    def _PROC_N(t: str) -> list[str]:
+        return [m.group(1).rstrip(".") for m in _PROC.finditer(t)]
+
     por_processo: dict[str, set[str]] = defaultdict(set)
     for linha in processos.read_text(encoding="utf-8").splitlines():
         ficheiro, _, resto = linha.partition(":")
@@ -193,19 +219,25 @@ def caca_prazo(consolidados: dict[str, dict], processos: Path) -> tuple[dict[str
         meta = front_matter(texto)
         posteriores = [r for r in meta.get("relationships") or [] if r["type"] == "amended_by" and r["target"] not in aplicados]
         outros = set()
-        for p in {m.group(1).rstrip(".") for m in _PROC.finditer(texto)}:
+        corpo_proc = set(_PROC_N(corpo(texto)))
+        for p in set(_PROC_N(texto)):
             outros |= {f for f in por_processo.get(p, set()) if f != v["caminho"]}
         movimentos = []
         for f in sorted(outros):
-            mf = front_matter((RAIZ / f).read_text(encoding="utf-8"))
+            tf = (RAIZ / f).read_text(encoding="utf-8")
+            mf = front_matter(tf)
             if mf.get("id") in aplicados or str(mf.get("publication_date") or "") <= v["publicacao"]:
                 continue
-            movimentos.append({"id": mf.get("id"), "titulo": mf.get("title"), "publicacao": str(mf.get("publication_date")), "sumario": (mf.get("summary") or "")[:200]})
+            # Qualquer registo posterior com o mesmo número impede a marca (na dúvida, não se marca), mas
+            # só vai para «em falta» se o número está no corpo de ambos e o outro é de caça.
+            fiavel = bool(set(_PROC_N(corpo(tf))) & corpo_proc) and bool(re.search(r"zona\s+de\s+caça", corpo(tf), re.I))
+            movimentos.append({"id": mf.get("id"), "titulo": mf.get("title"), "publicacao": str(mf.get("publication_date")), "sumario": (mf.get("summary") or "")[:200], "fiavel": fiavel})
         for r in posteriores:
-            movimentos.append({"id": r["target"], "titulo": None, "publicacao": str(r.get("date")), "sumario": (r.get("label") or "")[:200]})
+            movimentos.append({"id": r["target"], "titulo": None, "publicacao": str(r.get("date")), "sumario": (r.get("label") or "")[:200], "fiavel": True})
         if movimentos:
             for m in movimentos:
-                if re.search(r"renov|prorrog", m["sumario"] or "", re.I):
+                if m["fiavel"] and re.search(r"renov|prorrog", m["sumario"] or "", re.I) and m["id"] not in vistos.get(v["id"], set()) \
+                        and not any(x["id"] == v["id"] and x["alterador"] == m["id"] for x in em_falta):
                     em_falta.append({"id": v["id"], "titulo": v["titulo"], "alterador": m["id"], "alterador_titulo": m["titulo"], "publicacao": m["publicacao"], "sumario": m["sumario"]})
             continue
         anos = v["prazo_anos"]

@@ -250,7 +250,12 @@ O histórico continua com duas versões. A retificação entra nos `acts` da ver
 | `llm_organicas` | nao_vigora | 8 | segunda leitura: revogado, ou serviço extinto ou sucedido, com a relação ou a menção |
 | `cursos_pre_bolonha` | regime_anterior | 184 | regime geral (DL 74/2006, art. 84.º) |
 
-As 66 renovações de caça encontradas fora da cadeia estão em `auditoria/alteradores-em-falta.jsonl`. As concessões que têm uma delas não levam a marca.
+As concessões com uma renovação, anexação ou exclusão de prédios posterior não levam a marca. A primeira versão desta regra deu 66 linhas de «renovações fora da cadeia» (40 pares diferentes). Lidos a 19/11, não havia nada a aplicar:
+
+- **38 já estavam na cadeia.** Estão na seleção, a triagem deu-os «sem alteração textual», e estão nos `alteradores_vistos` do LLM, por isso a verificação às cegas viu-os. Só não estão nos `acts` porque não mudam o texto: uma renovação é um ato autónomo que renova a concessão, não reescreve a portaria (a Portaria 69/2009 renova a concessão da Portaria 1045/95 por 12 anos sem lhe tocar no texto).
+- **2 eram números de processo trocados.** O Acórdão do STJ 8/2025 cita o «processo n.º 32/01…» de um tribunal, e a Portaria 449/2004 tem «2945» no sumário e «2954» no texto (a Portaria 1243/2008 é da zona 2945).
+
+`vigencia.na_cadeia()` passou a ler a seleção e os `alteradores_vistos`. Para «em falta», o número de processo tem de estar no corpo dos dois registos, e o outro registo tem de falar de «zona de caça». `auditoria/alteradores-em-falta.jsonl` fica vazio. Para impedir a marca, basta o número, como antes. Com os filtros novos também aí, entravam 9 marcas: uma delas, a Portaria 372/94, só revoga uma concessão, e os «12 anos» são da concessão revogada. Ficam sem marca. As 5 das 27 marcas com uma revogação ou extinção na parte dispositiva foram lidas: todas concedem ou renovam uma concessão com prazo, e a marca fica.
 
 **Segunda leitura com o LLM (`vigencia_llm.py`, `llm/vigencia/`).**
 
