@@ -134,6 +134,24 @@ def respostas() -> dict[tuple[str, str], dict]:
     return resultado
 
 
+def encadear(linhas: list[str], trocas: list[dict]) -> list[dict]:
+    """Os respondedores escrevem as trocas sobre o texto de hoje. Quando dois alteradores mexem na
+    mesma linha (um troca a imagem, outro insere a seguir; ou dois inserem), o segundo encontra a
+    linha já mudada pelo primeiro: nesse caso, e só numa inserção (o texto novo começa pelo atual
+    e uma linha em branco), o que ele insere acrescenta-se ao fim do que lá está, pela ordem dos
+    alteradores."""
+    resultado = []
+    for t in trocas:
+        i, atual, novo = int(t["linha"]), t["texto_atual"], t["texto_novo"]
+        hoje = linhas[i] if 0 <= i < len(linhas) else None
+        # a linha só difere do que o respondedor viu se um alterador anterior da mesma cadeia já a
+        # mudou (outra inserção, ou a troca da imagem); numa inserção, acrescenta-se ao que lá está
+        if hoje is not None and hoje != atual and novo.startswith(atual + "\n\n"):
+            t = t | {"texto_atual": hoje, "texto_novo": hoje + novo[len(atual):]}
+        resultado.append(t)
+    return resultado
+
+
 def _ordem(c: dict) -> list[str]:
     return [a["id"] for a in sorted(c["alteradores"].values(), key=lambda a: (a.get("ordem") or "", a["id"]))]
 
@@ -149,7 +167,7 @@ def verificacao() -> None:
                 continue
             copia = list(linhas)
             try:
-                feitas = rl.trocar(copia, r["trocas"])
+                feitas = rl.trocar(copia, encadear(linhas, r["trocas"]))
             except rl.Recusa as erro:
                 print(f"   {id_} {alt}: {erro}")
                 continue
@@ -204,7 +222,7 @@ def aplicar(dry_run: bool) -> None:
                 continue
             copia = list(linhas)
             try:
-                feitas = rl.trocar(copia, resp[(id_, alt)]["trocas"])
+                feitas = rl.trocar(copia, encadear(linhas, resp[(id_, alt)]["trocas"]))
             except rl.Recusa as erro:
                 recusadas.append(f"{c['caminho']}: {alt}: {erro}")
                 continue
