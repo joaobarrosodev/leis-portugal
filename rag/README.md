@@ -741,6 +741,8 @@ As 1.298 perguntas no índice de 17/11, com `--reranker cruzado --limiar 3`, sem
 - **A semântica traz o artigo certo para os candidatos** (+25 coloquiais nos 10 primeiros), **mas o reranker não o põe em 1.º:** as certas ficam iguais, dentro do ruído.
 - **Decisão: fica desligada**, como já está por omissão. Os vetores ficam em `rag/indice/semantica.npz` para voltar a medir com um reranker melhor ou com as perguntas por artigo nos outros códigos.
 
+**Medição de base para o índice novo** (`rag/resultados/app011-1711.json`): o índice de 17/11 com a configuração da aplicação 0.1.1 (reranker em lotes de 16, sem ler as perguntas, limiar 3), sem a reutilização de notas. Dá 615 certas de 1.298 (841 respondidas), reais 112/188, «sem resposta» respondidas 5 de 80. Bate com o `max30-1711` (614) e o `sem1711-sem` (613), dentro do ruído. É com ela que se compara o índice reconstruído com o bloco 3 e as perguntas por artigo, antes de publicar.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:
