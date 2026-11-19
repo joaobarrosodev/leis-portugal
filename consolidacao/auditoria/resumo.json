@@ -1,0 +1,51 @@
+{
+  "consolidados": 2773,
+  "retificacoes": {
+    "corrected_by": 337,
+    "por_aplicar": 244,
+    "aplicadas": 93
+  },
+  "datas": {
+    "entre_original_e_consolidacao": 234,
+    "depois_da_consolidacao": 10
+  },
+  "classes": {
+    "llm": 103,
+    "por_regra": 61,
+    "substituida": 23,
+    "por_regra_aprox": 14,
+    "sem_pares": 13,
+    "imagem_ou_republicacao": 11,
+    "ja_no_texto": 8,
+    "sem_registo": 6,
+    "outro_diploma": 3,
+    "so_metadados": 2
+  },
+  "por_diploma": {
+    "com_corrected_by": 310,
+    "com_retificacao_por_aplicar": 221
+  },
+  "vigencia": {
+    "nenhuma": 1739,
+    "caca:alta": 404,
+    "organicas:alta": 225,
+    "cursos_pre_bolonha:alta": 186,
+    "um_so_ano:alta": 79,
+    "organicas:incerta": 64,
+    "um_so_ano:incerta": 39,
+    "cursos_pre_bolonha:incerta": 22,
+    "caca:incerta": 15
+  },
+  "provas": {
+    "prazo_acabado:caca_renovavel": 225,
+    "prazo_acabado:caca": 86,
+    "ultramar:nenhuma": 49,
+    "repealed_by_inteira:nenhuma": 18,
+    "ultramar:organicas": 15,
+    "repealed_by_inteira:caca": 8,
+    "legal_status:nenhuma": 7,
+    "repealed_by_inteira:organicas": 4,
+    "ultramar:um_so_ano": 2,
+    "repealed_by_inteira:cursos_pre_bolonha": 2
+  }
+}
