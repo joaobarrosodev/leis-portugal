@@ -30,3 +30,17 @@ def test_recusas_e_supressao():
     copia = list(linhas)
     rl.trocar(copia, [{"linha": 3, "texto_atual": "b) Outro.", "texto_novo": ""}])
     assert copia[3] == ""
+
+
+def test_contexto_da_ronda_seguinte():
+    """Na ronda r2 o verificador vê onde fica um parágrafo curto e se foi reescrito depois."""
+    linhas = ["## ANEXO V — Instituto", "", "3.º ano", "", "2.º ciclo", "", "QUADRO N.º 4", "",
+              "###### Artigo 8.º — Coadjuvação", "", "3 - de que possa resultatar a sua perturbação.", "",
+              "> Alterado pelo/a [Decreto-Lei n.º 364/93](https://x/364), publicado em 1993-10-22.", "", "4 - Outro."]
+    c = rl.contexto(linhas, 4)
+    assert c["titulo_acima"] == "## ANEXO V — Instituto"
+    assert c["antes"] == ["## ANEXO V — Instituto", "3.º ano"] and c["depois"][0] == "QUADRO N.º 4"
+    assert c["reescrito_depois"] is None
+    c = rl.contexto(linhas, 10)
+    assert c["titulo_acima"].startswith("###### Artigo 8.º")
+    assert c["reescrito_depois"] == "> Alterado pelo/a Decreto-Lei n.º 364/93, publicado em 1993-10-22."

@@ -17,7 +17,13 @@ por `retificacoes.py`. Três passos:
    nível, e a nota «> Retificado pelo/a …» vai como em `retificacoes.py`. O histórico, as notas
    e a guarda do `acervo.py` são os de `retificacoes.py` (`auditoria/retificacoes-aplicadas.jsonl`).
 
-Uso: `python consolidacao/retificacoes_llm.py entrada|verificacao|aplicar [--dry-run]`.
+Uma ronda seguinte (`--ronda r2`) refaz só as retificações reprovadas às cegas: o respondedor
+escreve `resposta-r2-NN.jsonl` (a resposta mais recente de cada par vale), `verificacao --ronda r2`
+junta só esses pares em `verificacao-entrada-r2.jsonl`, com o contexto de cada mudança (o título
+acima, os parágrafos vizinhos e se o parágrafo foi reescrito depois), e `aplicar --ronda r2` lê
+`verificacao-saida-r2.jsonl`.
+
+Uso: `python consolidacao/retificacoes_llm.py entrada|verificacao|aplicar [--dry-run] [--ronda r2]`.
 """
 
 from __future__ import annotations
@@ -181,10 +187,32 @@ def trocar(linhas: list[str], trocas: list[dict]) -> list[dict]:
     return sorted(feitas, key=lambda f: f["linha"])
 
 
-def verificacao() -> None:
+def contexto(linhas: list[str], i: int, vizinhos: int = 2) -> dict:
+    """O que o verificador precisa para ver onde fica a linha `i`: o título acima, os parágrafos
+    vizinhos e se a nota a seguir diz que o parágrafo foi reescrito por um alterador."""
+    titulo = next((sem_ligacoes(linhas[j]) for j in range(i - 1, -1, -1) if linhas[j].startswith("#")), None)
+    antes = [j for j in range(i - 1, -1, -1) if linhas[j].strip()][:vizinhos]
+    depois = [j for j in range(i + 1, len(linhas)) if linhas[j].strip()][: vizinhos + 1]
+    nota = linhas[depois[0]] if depois and linhas[depois[0]].startswith("> ") else None
+    return {"titulo_acima": titulo, "antes": [sem_ligacoes(linhas[j])[:300] for j in reversed(antes)],
+            "depois": [sem_ligacoes(linhas[j])[:300] for j in depois], "reescrito_depois": sem_ligacoes(nota) if nota else None}
+
+
+def pares_da_ronda(ronda: str) -> set[tuple[str, str]]:
+    pares = set()
+    for f in sorted(LLM.glob(f"resposta-{ronda}-*.jsonl")):
+        for linha in f.read_text(encoding="utf-8").splitlines():
+            if linha.strip():
+                d = json.loads(linha)
+                pares |= {(d["id"], r["retificacao"]) for r in d.get("retificacoes", [])}
+    return pares
+
+
+def verificacao(ronda: str | None = None) -> None:
     itens = []
+    da_ronda = pares_da_ronda(ronda) if ronda else None
     for (diploma, retificacao), r in sorted(respostas().items()):
-        if not r.get("trocas"):
+        if not r.get("trocas") or (da_ronda is not None and (diploma, retificacao) not in da_ronda):
             continue
         s = next(x for x in selecao() if x["id"] == diploma and x["retificacao"] == retificacao)
         linhas = corpo((RAIZ / s["caminho"]).read_text(encoding="utf-8")).split("\n")
@@ -199,16 +227,18 @@ def verificacao() -> None:
             "n": len(itens) + 1, "diploma": s["titulo"], "id": diploma, "retificacao_id": retificacao,
             "retificacao": f"{mr.get('title')} ({mr.get('publication_date')})",
             "texto_da_retificacao": corpo(ret.read_text(encoding="utf-8"))[:40000],
-            "alteracoes_feitas": [{"artigo": f["artigo"], "paragrafo_antes": sem_ligacoes(f["antes"]), "paragrafo_depois": sem_ligacoes(f["depois"]) or "(parágrafo apagado)"} for f in feitas],
+            "alteracoes_feitas": [{"artigo": f["artigo"], "paragrafo_antes": sem_ligacoes(f["antes"]), "paragrafo_depois": sem_ligacoes(f["depois"]) or "(parágrafo apagado)"}
+                                  | ({"contexto": contexto(linhas, f["linha"])} if ronda else {}) for f in feitas],
             "nao_aplicadas": r.get("nao_aplicadas", []),
         })
-    (LLM / "verificacao-entrada.jsonl").write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens), encoding="utf-8")
+    (LLM / (f"verificacao-entrada-{ronda}.jsonl" if ronda else "verificacao-entrada.jsonl")).write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens), encoding="utf-8")
     print(f"{len(itens)} retificações com trocas para a verificação às cegas")
 
 
-def aplicar(dry_run: bool) -> None:
-    saida = LLM / "verificacao-saida.jsonl"
-    entrada_v = {json.loads(l)["n"]: json.loads(l) for l in (LLM / "verificacao-entrada.jsonl").read_text(encoding="utf-8").splitlines() if l.strip()}
+def aplicar(dry_run: bool, ronda: str | None = None) -> None:
+    sufixo = f"-{ronda}" if ronda else ""
+    saida = LLM / f"verificacao-saida{sufixo}.jsonl"
+    entrada_v = {json.loads(l)["n"]: json.loads(l) for l in (LLM / f"verificacao-entrada{sufixo}.jsonl").read_text(encoding="utf-8").splitlines() if l.strip()}
     certos = set()
     for linha in saida.read_text(encoding="utf-8").splitlines():
         if linha.strip():
@@ -264,8 +294,9 @@ def aplicar(dry_run: bool) -> None:
             recusadas.append(f"{caminho_rel}: o histórico não reproduz o texto")
             continue
         registo.version_history = summarize(novos, acervo.history_path(caminho).name)
-        nota = " Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): " + "; ".join(t["titulo"] for t in trocas_feitas) + "."
-        if "Retificações aplicadas com um LLM" not in (registo.provenance.notes or ""):
+        frase = f"Retificações aplicadas com um LLM, na ronda {ronda}," if ronda else "Retificações aplicadas com um LLM"
+        nota = f" {frase} e verificadas às cegas (consolidacao/retificacoes_llm.py): " + "; ".join(t["titulo"] for t in trocas_feitas) + "."
+        if frase not in (registo.provenance.notes or ""):
             anteriores = (registo.provenance.notes or "").rstrip()
             registo.provenance.notes = (anteriores + ("" if not anteriores or anteriores.endswith(".") else ".") + nota).strip()
         if not dry_run:
@@ -292,8 +323,14 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
     parser.add_argument("passo", choices=["entrada", "verificacao", "aplicar"])
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--ronda", help="uma ronda seguinte sobre as reprovadas (r2, …): verificacao e aplicar")
     args = parser.parse_args(argv)
-    {"entrada": entrada, "verificacao": verificacao}.get(args.passo, lambda: aplicar(args.dry_run))()
+    if args.passo == "entrada":
+        entrada()
+    elif args.passo == "verificacao":
+        verificacao(args.ronda)
+    else:
+        aplicar(args.dry_run, args.ronda)
     return 0
 
 

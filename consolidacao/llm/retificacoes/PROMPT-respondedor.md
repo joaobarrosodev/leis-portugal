@@ -38,3 +38,10 @@ Um ficheiro `resposta-NN.jsonl`, na mesma pasta e com o mesmo NN, com uma linha 
 ```
 
 Cada retificação da entrada tem de aparecer, mesmo com `trocas` vazio. Escreve o ficheiro com a ferramenta Write. Confirma que cada linha é JSON válido e que cada `texto_atual` é igual, carácter a carácter, à linha L correspondente.
+
+## Ronda r2
+
+As 7 retificações reprovadas às cegas na 1.ª ronda (6 em dúvida e 1 errada) foram refeitas na sessão principal (Opus), com o reparo do verificador, em `resposta-r2-01.jsonl`. As regras são as de cima, e mais estas duas, que a 1.ª ronda já seguia sem as escrever:
+
+- a troca segue a retificação à letra, sem pontuação que ela não traz;
+- uma troca de nome leva consigo as contrações e as concordâncias que dependem dele (ao → à, obrigado → obrigada), e nada mais.

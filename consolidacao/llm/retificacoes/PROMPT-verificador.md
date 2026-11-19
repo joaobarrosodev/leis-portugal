@@ -19,3 +19,14 @@ Para cada item, decide se as alterações feitas aplicam corretamente a retifica
 Veredicto por item: `certo`, `errado` (diz qual mudança e porquê) ou `duvida` (diz porquê). Na dúvida, `duvida`.
 
 Saída: `verificacao-saida-K.jsonl`, na mesma pasta, com uma linha por item: `{"n": <n>, "veredicto": "certo|errado|duvida", "motivo": "<uma frase>"}`. Usa o `n` do item. Lê o ficheiro por partes se for grande.
+
+## Ronda r2 (`verificacao-entrada-r2.jsonl`)
+
+Na ronda r2 cada mudança traz também `contexto`: o título acima (`titulo_acima`, por exemplo o anexo ou o artigo), os parágrafos antes e depois, e `reescrito_depois`, a nota «> Alterado pelo/a …» quando o parágrafo foi reescrito por um alterador. Usa-o para ver o sítio (regra 2), sobretudo quando o parágrafo é curto («2.º», «2.º ciclo»). Um parágrafo com `reescrito_depois` não é o texto que a retificação corrigiu: uma mudança nele é `errado`, salvo se a própria retificação o visar.
+
+Duas regras de aplicação, as mesmas que o respondedor segue:
+
+- A mudança segue a retificação à letra. A pontuação que a retificação não traz não se acrescenta, e a sua falta não é erro.
+- Uma retificação que troca um nome («onde se lê "Clube de …" deve ler-se "Associação de …"») leva consigo as contrações e as concordâncias que dependem dele (ao → à, do → da, o → a, obrigado → obrigada). Não contam como mudanças a mais; outra mudança qualquer conta.
+
+Saída: `verificacao-saida-r2.jsonl` (ou `-r3`, na ronda r3, com as mesmas regras).
