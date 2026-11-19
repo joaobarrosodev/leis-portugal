@@ -705,7 +705,7 @@ A lista de `Pesquisa.codigos_principais()` no índice de uso de 16/11, revista �
 - **Números antes de gerar:** 11.418 artigos em vigor e não revogados (`revogado_agora`), 9,4 milhões de caracteres, **327 lotes de 35**. Mais 1 do piloto: o 1063.º do Código Civil, que no piloto contava como revogado. A estimativa de 430 lotes contava os textos que saíram.
 - As regras (`rag/perguntas_artigo/REGRAS.md`) passam a valer para todas as áreas, com palavras do dia a dia para cada uma. A validação também recusa os nomes dos outros códigos («código da estrada», «Código Penal», «Lei Geral Tributária») e as siglas (CPC, CIRS, LGT…). «O código do multibanco» e «a lei geral do trabalho» passam. As 3.078 perguntas do piloto continuam todas válidas.
 - **Chaves repetidas:** o Código Penal, o de Processo Penal e o do Registo Predial estão no articulado do decreto que os aprova (parte vazia). Os artigos do próprio decreto, sem epígrafe, têm a mesma chave que os do código («1.º»). São 30 e saem da lista (`artigos_do_ambito`), porque o `juntar_perguntas` junta as perguntas a todos os pedaços com essa chave: o «Artigo 1.º» do decreto («O Código Penal é revisto…») fica com as perguntas do princípio da legalidade. Ficam 11.388 artigos.
-- **Estado (19/11, em pausa por falta de uso do plano):** 208 dos 327 lotes gerados e validados, 7.260 artigos e 26.863 perguntas em `rag/perguntas_artigo/` (3 a 5 por artigo, cerca de 3,7 em média). Faltam 119 lotes, dos códigos depois da LTFP; como retomar está no `PENDENTE.md`, secção 6.
+- **Feito (23/11):** os 327 lotes gerados e validados, com 11.389 artigos e 42.392 perguntas novas (3 a 5 por artigo, 3,7 em média) em 37 ficheiros de `rag/perguntas_artigo/`, um por bloco. Com o piloto, são 12.154 artigos e 45.470 perguntas. Um lote falhou a validação e foi repetido: o 280, por uma pergunta com «decreto». O lote 38 trazia o `documento` trocado pela parte, e esse campo foi corrigido a partir da entrada. A geração parou de 19 a 23/11 por falta de uso do plano. Ainda não está medido: as perguntas só entram no índice com `rag.indice --com-perguntas`.
 - `exportar --so-sem-perguntas` exporta só os artigos que ainda não têm perguntas. `estado --pasta P` diz que lotes já estão validados, para retomar depois de um corte. O `importar` só reescreve os blocos que vêm na pasta e guarda as linhas que já lá estavam.
 
 **Compostas: 8 contra 16 artigos no contexto, com o LLM e os juízes** (19/11/2026). Mediram-se as 100 compostas, as 50 de premissa errada e as 80 sem resposta:
@@ -737,9 +737,22 @@ Pergunta a pergunta:
 **Ressalvas:**
 - Fez-se uma corrida por contexto, por isso a variação do LLM e dos juízes não foi medida. 7 ganhos e 0 perdas, 6 deles explicados pelo segundo artigo, é sinal, mas o número está perto das ~8 perguntas de ruído entre variantes da pesquisa.
 - O LLM e os juízes são o mesmo modelo, e não houve revisão de um jurista.
-- As reais não foram medidas. São o tipo principal e é nelas que um contexto maior pode distrair.
+- As reais foram medidas depois, numa amostra de 100 (abaixo).
 
-**Recomendação, para o João decidir:** o contexto de 16 ganha 7 compostas certas sem perder nenhuma e sem baixar a fiabilidade. Não piora a premissa errada e responde a mais uma das 80 sem resposta. O custo é o dobro de texto por pergunta. Antes de mudar, convém medir uma amostra de 100 reais da mesma maneira. Se não piorarem mais do que 1 em 100, passa-se `ARTIGOS_NO_CONTEXTO` para 16 e o `k` do `avaliar`, do `perguntar` e do `web` para pelo menos 16. Por agora fica 8.
+**Reais, as mesmas regras** (19/11/2026, a pedido do João): 100 reais tiradas ao acaso das 281 (semente 16; os ids estão em `privado/`), o mesmo índice, a mesma reescrita e os mesmos quatro juízes. Resumos em `rag/resultados/reais1-ctx8-*.json`, `reais1-ctx16-*.json` e `reais-ctx-comparacao.json`.
+
+| Reais (100) | Respondidas | "Não sei" | Certas (juízes) | Não certas | Fiabilidade | Limite inferior 95% |
+|---|--:|--:|--:|--:|--:|--:|
+| 8 artigos | 93 | 7% | 91 | 2 | 98% (91/93) | 92% |
+| 16 artigos | 95 | 5% | 91 | **4** | 96% (91/95) | 90% |
+
+- **3 ganhos e 3 perdas.** Os ganhos (real-037, 235 e 317) são "não sei" que passam a certas, com o artigo certo no 10.º ou no 11.º lugar: é o mesmo efeito das compostas.
+- Das perdas, duas passam a não certas e têm o artigo certo em 1.º lugar (real-095 e real-249). Na real-095, a resposta cita a nota de suspensão de 2013 do artigo; com 8 artigos, os juízes aceitaram-na, e com 16 um deles deu-a como errada. Na real-249, a resposta troca "mais de uma semana" por "apenas uma semana". O contexto maior não explica nenhuma das duas, e é mais provável que seja variação do LLM e dos juízes, mas não se mediu.
+- A terceira perda (real-288) passa de certa a "não sei".
+- O prompt passa de 12,3 mil para 23,2 mil caracteres em média.
+
+**Decisão: fica 8.** A regra combinada era mudar para 16 só se as reais não piorassem mais do que 1 em 100. Pioraram 2 (de 2 para 4 não certas), e a fiabilidade baixa de 98% para 96%. A diferença está dentro do que uma corrida só pode dar, mas o número que se mediu não passa a regra. Ganha-se nas compostas (+7 certas) e perde-se fiabilidade nas reais, com o dobro do custo por pergunta.
+
 
 ## Candidatos ao reranker e pesquisa semântica (19/11/2026)
 

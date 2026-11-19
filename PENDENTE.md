@@ -127,7 +127,7 @@ Os números estão no `rag/README.md`, «Tipos novos».
   como em vigor os artigos repostos depois de revogados (159, entre eles o arrendamento do Código
   Civil). Ver «Modo sem IA» no `rag/README.md`.
 
-## Compostas: mais artigos no contexto do LLM (medido a 19/11; decisão do João)
+## Compostas: mais artigos no contexto do LLM (medido a 19/11: fica 8)
 
 Os números estão no `rag/README.md`, em «Compostas: 8 contra 16 artigos no contexto, com o LLM e os juízes».
 
@@ -136,14 +136,11 @@ Os números estão no `rag/README.md`, em «Compostas: 8 contra 16 artigos no co
   - compostas (100): 72 → **79**, com 7 ganhos e 0 perdas; erradas 5 e 5; fiabilidade 94 % nos dois;
   - premissa errada (50): 45 → 46, com 1 ganho e 0 perdas; mais uma incompleta com 16 (2 contra 1);
   - sem resposta (80): recusa 79 → 78 (com 16 responde à sem-076).
-- **Recomendação, para o João decidir:** o 16 ganha nas compostas e não piora a premissa errada. Custa o dobro do texto
-  por pergunta (23,4 mil caracteres contra 11,4 mil). Falta medir as reais, que são o tipo principal: uma amostra de 100 com
-  as mesmas regras (`passo_llm exportar --contextos 8,16 --consultas …`). Se as reais não piorarem mais do que 1 em 100, mudar:
-  - `ARTIGOS_NO_CONTEXTO` para 16;
-  - o `k=10` do `avaliar`, do `perguntar` e do `web` para `max(…, ARTIGOS_NO_CONTEXTO)`.
-
-  O `passo_llm` já pesquisa com `k=max(10, contexto)` e lê as citações sobre o contexto dado (`--contexto`).
-- **Por medir:** a variação do LLM e dos juízes de uma corrida para outra (só se fez uma por contexto).
+- **Reais (100, semente 16), medidas a pedido do João:** certas 91 e 91; não certas 2 → 4; fiabilidade 98 % → 96 %.
+  Há 3 ganhos (artigo em 10.º ou 11.º) e 3 perdas. Duas das perdas têm o artigo em 1.º lugar e são, provavelmente, variação.
+- **Decisão: fica 8** (`ARTIGOS_NO_CONTEXTO`). A regra era mudar se as reais não piorassem mais do que 1 em 100, e pioraram 2.
+  Se se quiser voltar a isto, o passo seguinte é medir a variação: repetir as mesmas 100 reais com 8 artigos e ver quantas
+  mudam sozinhas. Sem isso, não se sabe se os 2 erros a mais são do contexto.
 - **À parte, para a pesquisa:** ~~subir o `maximo` do reranker~~. Medido a 19/11: com 50 candidatos, as compostas com
   os artigos nos 10 primeiros vão de 64 para 61, e as certas no total descem de 614 para 608. Fica 30 (`rag/README.md`,
   «Candidatos ao reranker e pesquisa semântica»).
@@ -172,11 +169,8 @@ Os números estão no `rag/README.md`, «Perguntas por artigo».
 - **Decisão: alargar aos outros códigos** (critério de +10 pontos cumprido). Por fazer:
   - ~~medir a variante do reranker com perguntas fora do âmbito e nas «sem resposta»~~ (feito a 18/11); decidir se os artigos com perguntas levam um limiar mais alto (≈ 3,35 tira as 3 a mais e custa umas 7 certas no âmbito);
   - ~~rever a lista dos códigos principais~~ (feito a 19/11: 37 blocos em `OUTROS_CODIGOS`, 11.418 artigos, 327 lotes; ver `rag/README.md`, «Alargamento aos outros códigos principais»);
-  - **a gerar (19/11):** um subagente Opus por lote, 10 de cada vez. <!-- progresso -->Validados e no main: 296 de 327 lotes (10.330 artigos, 38.514 perguntas).<!-- /progresso -->
-    - **Retomado a 23/11** (estava em pausa desde 19/11) (o uso semanal do plano chegou a 91 %; reinicia a 23/11 às 4h UTC). Feitos os lotes 1 a 208, todos validados: o resto do Código Civil, os de processo, o Penal, a execução das penas, a justiça militar, os impostos (IRS, IRC, IVA, IMI, IMT, Selo, ISV, IUC, IEC, LGT, CPPT), os regimes contributivos, o CPA, o CPTA e 287 dos 387 artigos da LTFP. Faltam os lotes 209 a 327 (119): o resto da LTFP, os Contratos Públicos, as Expropriações, a Estrada, as Sociedades Comerciais, a Insolvência, os Valores Mobiliários, o Cooperativo, os três registos, o Notariado, a Propriedade Industrial, o Direito de Autor, a Publicidade e o Deontológico dos Contabilistas. Nenhum lote falhou a validação; o 38 trazia o `documento` trocado pela parte, corrigido a partir da entrada.
-    - **Para retomar:** no worktree `gigante-dec-45205-42125e`, `PYTHONPATH=src:. .venv/bin/python -m rag.perguntas_por_artigo estado --pasta .cache/perguntas-codigos` lista os lotes sem saída (209 a 327); lançar um subagente Opus por lote com o `REGRAS.md` da pasta, sem refazer os validados, e no fim `importar --pasta .cache/perguntas-codigos`.
-    - **Para retomar depois de um corte:** os lotes estão em `.cache/perguntas-codigos/` do worktree `gigante-dec-45205-42125e` (fora do git). `PYTHONPATH=src:. .venv/bin/python -m rag.perguntas_por_artigo estado --pasta .cache/perguntas-codigos` diz os lotes sem saída ou com problemas; só esses se repetem, com o `REGRAS.md` da pasta. Se a pasta se perder, `exportar --so-sem-perguntas` refaz os lotes só com os artigos que ainda não têm perguntas (com outros números de lote).
-    - No fim: `importar --pasta .cache/perguntas-codigos`, testes e commit.
+  - ~~gerar as perguntas dos outros códigos~~ (feito a 23/11): 327 lotes validados, 11.389 artigos e 42.392 perguntas em 37 blocos. Com o piloto, são 12.154 artigos e 45.470 perguntas. Um lote falhou a validação e foi repetido (o 280). A pasta de trabalho é `.cache/perguntas-codigos/`, no worktree `gigante-dec-45205-42125e`.
+  - **Para a reconstrução:** 30 artigos do decreto que aprova o Código Penal, o de Processo Penal e o do Registo Predial têm a chave de artigos do código e saíram do âmbito. Mas o `juntar_perguntas` junta as perguntas a todos os pedaços com essa chave, por isso o «Artigo 1.º» do decreto também as recebe.
   - pôr as perguntas no índice de uso;
   - publicar só depois de lançar a aplicação que sabe apagá-las nos deltas (`publicar --com-perguntas`).
 - **Achado:** `fontes.revogado` dá como revogados 50 artigos em vigor do Código Civil (1064.º–1113.º), por causa de notas antigas «Revogado pelo…» seguidas de «Aditado/Alterado». Corrigido no main a 17/11.
