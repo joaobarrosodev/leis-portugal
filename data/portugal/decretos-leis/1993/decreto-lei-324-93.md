@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2020-01-01'
     amending: pt:dre:124324704:por
-    amending_title: Decreto-Lei n.º 132/2019
+    amending_title: Decreto-Lei n.º 132/2019; Portaria n.º 5/95
     changes:
     - Revoga Artigo 53.º
     - Revoga Artigo 53.º
@@ -66,6 +66,7 @@ version_history:
     - Revoga Artigo 59.º
     - Revoga Artigo 60.º
     - Revoga Artigo 61.º
+    - Retifica Artigo 71
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre/pt/html
@@ -92,7 +93,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:26:47Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 132/2019. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-324-93.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-324-93.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda im, e verificadas às cegas (consolidacao/retificacoes_llm.py): Portaria n.º
+    5/95.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1345,7 +1348,7 @@ Anexo I a que se refere o artigo 40.º
 
 Anexo II a que se refere o artigo 41.º
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf)
 
 Anexo III a que se refere o artigo 63.º
 
@@ -1368,3 +1371,5 @@ Controlo e fiscalização dos produtos em armazém;
 Registo e preenchimento de guias necessárias ao controlo contabilístico da saída e trânsito dos tabacos;
 
 Acompanhamento do transporte dos tabacos para os portos, aeroportos e entrepostos aduaneiros.
+
+> Retificado pelo/a [Portaria n.º 5/95](https://diariodarepublica.pt/dr/detalhe/portaria/5-1995-363904), publicado em 1995-01-04.

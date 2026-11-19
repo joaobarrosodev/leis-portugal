@@ -73,6 +73,12 @@
      "title": "Resolução do Conselho de Ministros n.º 66/2003",
      "published": "2003-05-02",
      "dre_path": "/dr/detalhe/resolucao-conselho-ministros/66-2003-571672"
+    },
+    {
+     "id": "pt:dre:153115:por",
+     "title": "Declaração de Rectificação n.º 21/2002",
+     "published": "2002-05-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/21-2002-153115"
     }
    ],
    "changes": [
@@ -91,7 +97,16 @@
     "Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::27.º",
     "Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::28.º",
     "Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::31.º",
-    "Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::32.º"
+    "Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::32.º",
+    "Retifica Artigo 2",
+    "Retifica Artigo 8",
+    "Retifica Artigo 15",
+    "Retifica Artigo 20",
+    "Retifica Artigo 22",
+    "Retifica Artigo 27",
+    "Retifica Artigo 28",
+    "Retifica Artigo 31",
+    "Retifica Artigo 33"
    ],
    "fragments": [
     "440be2b615fa7194",
@@ -99,13 +114,13 @@
     "5b8b9c1ca3116b07",
     "ab20e8397b262282",
     "db4bd4f5e6bb03a0",
-    "ee036a9fad2b8d4f",
+    "470b09c64b27101a",
     "16e03d64f1401c1d",
     "f7e02cb785c213d4",
     "70e41bf9b56aa29c",
     "b4cc8eabcca89ddb",
     "a59d05686a9d8cbc",
-    "8d389f8f4c9e7628",
+    "a8ade8ec079f7505",
     "629a0286abb73c88",
     "6dff2b86d0922f21",
     "ed7213dc6e6d2cce",
@@ -115,7 +130,7 @@
     "60beacf368690fbd",
     "69aece0b735c0773",
     "161d994c019c42c3",
-    "e14e5e9924b88c14",
+    "9f7039d2e363f6d3",
     "9fd32dad3d32a13e",
     "98a152b5dd5c27e2",
     "d6807138192a0baf",
@@ -126,25 +141,25 @@
     "22c644da8fa51469",
     "4d76c897e9d5fb7d",
     "13ade5301e91c701",
-    "806ce14d4018e864",
+    "248c0080e4219f91",
     "0b773f90908adf27",
     "98ebf3f3a4e735cc",
     "cccf5d843e813a60",
-    "753eabd89830e9bd",
+    "7c346a5500799df4",
     "7b56f11a58a5cc60",
     "f10ecd4548b8963d",
     "ed5da8117daf4ba9",
     "7547d778240e8205",
     "540abc897296a3d5",
     "5c7452b5d11dd9aa",
-    "9b021e6ed5f8a577",
+    "ed0bfb0dbdc3bfe0",
     "0a77a7a45833cf24",
-    "0d3b21d4b576b79d",
+    "7f0e8b3c7360735b",
     "ebbd51fceac2c186",
     "41565fc9b7c0c1d8",
-    "3f182a581320ec98",
+    "8c778f9d03f21956",
     "5867c602381644ef",
-    "edc5dc041ebdd2ac",
+    "d335b937a7bf6030",
     "907287ca4a00ef5c",
     "3bca4c680f8555b1",
     "551df8c5b7237c31"
@@ -570,6 +585,16 @@
    ],
    "markdown": "###### Artigo 1.º — Composição\n\n1 - O Conselho de Ministros é composto pelo Primeiro-Ministro, que preside, e pelos ministros.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam nas reuniões do Conselho de Ministros o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro, sem direito a voto.\n\n3 - Podem ainda participar nas reuniões do Conselho de Ministros, sem direito a voto, os secretários de Estado que sejam especialmente convocados por indicação do Primeiro-Ministro.\n\n4 - Assiste às reuniões do Conselho de Ministros o chefe de gabinete do Primeiro-Ministro.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
+  "470b09c64b27101a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Ausência ou impedimento",
+   "in_force_from": "2003-05-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 21/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2002-153115), publicado em 2002-05-28."
+   ],
+   "markdown": "###### Artigo 2.º — Ausência ou impedimento\n\n1 - Salvo indicação em contrário do Primeiro-Ministro, este é substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Finanças ou por ministro que não se encontre ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º do [Decreto-Lei n.º 120/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2002-371035), de 3 de Maio, que aprova a Lei Orgânica do XV Governo Constitucional.\n\n2 - Cada ministro é substituído, na suas ausências ou impedimentos, pelo secretário de Estado que indicar ao Primeiro-Ministro.\n\n3 - Nos casos de falta da indicação a que se refere o número anterior ou de inexistência de secretário de Estado, cada ministro é substituído pelo membro do Governo que o Primeiro-Ministro indicar, por forma que todos os ministros estejam representados nas reuniões.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 21/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2002-153115), publicado em 2002-05-28."
+  },
   "b4cc8eabcca89ddb": {
    "fragment_id": null,
    "type": null,
@@ -579,6 +604,14 @@
     "Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
    ],
    "markdown": "###### Artigo 6.º — Deliberações\n\n1 - O Conselho de Ministros delibera validamente desde que esteja presente a maioria dos seus membros com direito a voto.\n\n2 - As deliberações do Conselho são tomadas por votação ou por consenso.\n\n3 - Dispõem de direito a voto o Primeiro-Ministro, os ministros e os secretários de Estado que estejam nas condições previstas nos n.os 2 e 3 do artigo 2.º, tendo o Primeiro-Ministro voto de qualidade.\n\n4 - Os projectos submetidos a Conselho de Ministros são objecto de deliberação de aprovação, de aprovação na generalidade, de rejeição, de adiamento para apreciação posterior ou de remessa para discussão em reunião de secretários de Estado, podendo também ser retirados pelos respectivos proponentes.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
+  },
+  "a8ade8ec079f7505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Súmula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Súmula\n\n1 - De cada reunião do Conselho de Ministros é elaborada, pelo Secretário de Estado da Presidência do Conselho de Ministros, uma súmula da qual consta indicação sobre o resultado da apreciação das questões a ele submetidas e, em especial, das deliberações tomadas.\n\n2 - De cada súmula existirão três exemplares autenticados, sendo um conservado no Gabinete do Primeiro-Ministro, outro no Gabinete do Ministro da Presidência e outro no Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - O acesso à súmula prevista nos números anteriores será facultado a qualquer membro do Conselho de Ministros que o solicite."
   },
   "016dd1e659a87e60": {
    "fragment_id": null,
@@ -590,7 +623,7 @@
    ],
    "markdown": "###### Artigo 12.º — Composição\n\n1 - O Conselho de Ministros para os Assuntos Europeus é presidido pelo Primeiro-Ministro e integrado por todos os ministros.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado dos Assuntos Europeus.\n\n3 - Podem também participar nas reuniões, sem direito a voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.\n\n4 - Assiste às reuniões do Conselho de Ministros para os Assuntos Europeus o chefe de gabinete do Primeiro-Ministro.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
-  "e14e5e9924b88c14": {
+  "9f7039d2e363f6d3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º — Composição",
@@ -598,7 +631,7 @@
    "changed_by": [
     "Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
    ],
-   "markdown": "###### Artigo 15.º — Composição\n\n1 - O Conselho de Ministros para os Assuntos Económicos é presidido pelo Primeiro-Ministro e integrado pelos seguintes Ministros:\n\na) Ministra de Estado e das Finanças;\n\nb) Ministro de Estado e da Defesa Nacional;\n\nc) Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas;\n\nd) Ministro da Presidência;\n\ne) Ministro dos Assuntos Parlamentares;\n\nf) Ministro da Economia;\n\ng) Ministro da Agricultura, Desenvolvimento Rural e Pescas;\n\nh) Ministro da Segurança Social e do Trabalho;\n\ni) Ministro das Obras Públicas, Transportes e Habitação;\n\nj) Ministro das Cidades, Ordenamento do Território e Ambiente;\n\nl) Outros ministros que, para cada reunião, forem convocados por indicação do Primeiro-Ministro.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.\n\n3 - Podem também participar nas reuniões, sem direito a voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.\n\n4 - Assiste às reuniões de Conselho de Ministros para os Assuntos Económicos o chefe de gabinete do Primeiro-Ministro.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
+   "markdown": "###### Artigo 15.º — Composição\n\n1 - O Conselho de Ministros para os Assuntos Económicos é presidido pelo Primeiro-Ministro e integrado pelos seguintes Ministros:\n\na) Ministro de Estado e das Finanças;\n\nb) Ministro de Estado e da Defesa Nacional;\n\nc) Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas;\n\nd) Ministro da Presidência;\n\ne) Ministro dos Assuntos Parlamentares;\n\nf) Ministro da Economia;\n\ng) Ministro da Agricultura, Desenvolvimento Rural e Pescas;\n\nh) Ministro da Segurança Social e do Trabalho;\n\ni) Ministro das Obras Públicas, Transportes e Habitação;\n\nj) Ministro das Cidades, Ordenamento do Território e Ambiente;\n\nl) Outros ministros que, para cada reunião, forem convocados por indicação do Primeiro-Ministro.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.\n\n3 - Podem também participar nas reuniões, sem direito a voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.\n\n4 - Assiste às reuniões de Conselho de Ministros para os Assuntos Económicos o chefe de gabinete do Primeiro-Ministro.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
   "d6807138192a0baf": {
    "fragment_id": null,
@@ -620,6 +653,14 @@
    ],
    "markdown": "###### Artigo 17.º-B — Transposição de directivas comunitárias\n\n1 - O Gabinete do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas informa os gabinetes dos ministros e o Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, com a regularidade e antecedência razoáveis, dos prazos de transposição de directivas comunitárias para a ordem jurídica nacional.\n\n2 - Os gabinetes dos ministros informam o Gabinete do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas das iniciativas legislativas em preparação que visem a transposição de directivas comunitárias, dando conhecimento ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n> Aditado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
+  "248c0080e4219f91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Parecer do Ministro de Estado e das Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Parecer do Ministro de Estado e das Finanças\n\n1 - Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pelo Ministro de Estado e das Finanças.\n\n2 - Carecem de parecer do Ministro de Estado e das Finanças os projectos de diploma que visem:\n\na) A criação, organização ou extinção de serviços e organismos públicos;\n\nb) A fixação ou alteração de atribuições, da estrutura, das competências e do funcionamento de serviços e organismos públicos;\n\nc) A aprovação ou alteração de quadros ou mapas de pessoal, em geral, e, bem assim, os que tenham em vista a criação de lugares;\n\nd) A criação e reestruturação de carreiras dos regimes geral e especial e de corpos especiais e a fixação ou alteração das respectivas escalas salariais;\n\ne) A fixação ou alteração das condições de ingresso, acesso e progressão nas carreiras e corpos especiais;\n\nf) A definição ou alteração da metodologia de selecção a utilizar para efeitos de ingresso e acesso nas carreiras em geral e nos corpos especiais, o regime de concursos aplicável e os programas de provas integrantes dos mesmos;\n\ng) A definição dos conteúdos funcionais das carreiras e corpos especiais;\n\nh) A definição ou alteração do regime e condições de atribuição de suplementos remuneratórios;\n\ni) O reconhecimento de habilitações para ingresso nas carreiras técnico-profissionais;\n\nj) A fixação ou alteração do regime jurídico da função pública, nomeadamente no que toca à constituição, modificação e extinção da relação jurídica de emprego, aos direitos singulares e colectivos, deveres, responsabilidades e garantias dos funcionários e agentes da Administração;\n\nl) A fixação ou alteração das condições de aposentação, reforma ou invalidez e dos benefícios referentes à acção social complementar;\n\nm) A atribuição de quotas de descongelamento para admissão de pessoal estranho à função pública;\n\nn) A contratação de pessoal a termo certo;\n\no) A requisição de pessoal a empresas públicas ou privadas;\n\np) Os mecanismos de audição e de participação de entidades administrativas ou de associações representativas dos trabalhadores da Administração Pública no procedimento legislativo;\n\nq) Os mecanismos de audição e de participação no procedimento administrativo;\n\nr) A racionalização e eficácia da organização e gestão públicas, designadamente quanto à autonomia de gestão.\n\n3 - Compete ao ministro proponente do projecto solicitar ao Ministro de Estado e das Finanças a emissão de parecer, dando conhecimento ao Secretário de Estado da Presidência do Conselho de Ministros."
+  },
   "0b773f90908adf27": {
    "fragment_id": null,
    "type": null,
@@ -640,7 +681,7 @@
    ],
    "markdown": "###### Artigo 21.º — Prazo para a emissão de parecer\n\n1 - Os pareceres referidos nos artigos anteriores devem ser emitidos no prazo de oito dias ou, em casos de urgência, de três dias contados a partir da data da sua solicitação pelo ministro responsável pelo projecto.\n\n2 - Na falta de emissão de parecer nos prazos previstos no número anterior, o ministro proponente pode enviar o projecto para circulação e agendamento.\n\n3 - No caso de o projecto ser enviado para circulação e agendamento nos termos previstos no número anterior, não é dispensada a emissão de parecer pelo Ministro de Estado e das Finanças e pelo Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
-  "753eabd89830e9bd": {
+  "7c346a5500799df4": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 22.º — Audição das Regiões Autónomas",
@@ -648,7 +689,7 @@
    "changed_by": [
     "Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
    ],
-   "markdown": "###### Artigo 22.º — Audição das Regiões Autónomas\n\n1 - A audição prévia dos órgãos de governo próprio das Regiões Autónomas, constitucional ou legalmente exigida, é obtida através dos gabinetes dos ministros da República para as Regiões Autónomas, por sua iniciativa ou a solicitação do Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - A audição é efectuada após a reunião dos secretários de Estado e é feita em condições que preservem a confidencialidade.\n\n3 - No que respeita à Região Autónoma dos Açores, o prazo de audição é de 20 ou 15 dias, consoante o órgão que se deva pronunciar seja a Assembleia Legislativa Regional ou o Governo Regional, sendo em caso de urgência de 10 dias.\n\n4 - No que respeita à Região Autónoma da Madeira, o prazo de audição é de 15 ou 10 dias, consoante o órgão que se deva pronunciar seja a Assembleia Legislativa Regional ou o Governo Regional, podendo ser encurtado em caso de urgência.\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
+   "markdown": "###### Artigo 22.º — Audição das Regiões Autónomas\n\n1 - A audição prévia dos órgãos de governo próprio das Regiões Autónomas, constitucional ou legalmente exigida, é obtida através dos gabinetes dos ministros da República para as Regiões Autónomas, por sua iniciativa ou a solicitação do Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - A audição é efectuada após a reunião de secretários de Estado e é feita em condições que preservem a confidencialidade.\n\n3 - No que respeita à Região Autónoma dos Açores, o prazo de audição é de 20 ou 15 dias, consoante o órgão que se deva pronunciar seja a Assembleia Legislativa Regional ou o Governo Regional, sendo em caso de urgência de 10 dias.\n\n4 - No que respeita à Região Autónoma da Madeira, o prazo de audição é de 15 ou 10 dias, consoante o órgão que se deva pronunciar seja a Assembleia Legislativa Regional ou o Governo Regional, podendo ser encurtado em caso de urgência.\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
   "7b56f11a58a5cc60": {
    "fragment_id": null,
@@ -680,7 +721,7 @@
    ],
    "markdown": "###### Artigo 26.º — Devolução e circulação\n\n1 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros a apreciação dos projectos que lhe sejam remetidos, após o que, consoante os casos:\n\na) Determina a sua devolução às entidades proponentes, caso não tenham sido respeitados os requisitos previstos por este Regimento, não tenha sido observada forma adequada ou existam quaisquer inconstitucionalidades, ilegalidades, irregularidades ou deficiências grosseiras ou flagrantes, sempre que tais vícios não possam ser desde logo supridos;\n\nb) Determina a sua circulação pelos gabinetes de todos os membros do Conselho de Ministros, bem como pelos gabinetes dos ministros da República para as Regiões Autónomas.\n\n2 - A circulação inicia-se às sextas-feiras, mediante a distribuição de cópias dos projectos pelos gabinetes das entidades referidas, sendo as entregas feitas contra-recibo, onde constam a data e a hora da recepção e a assinatura do membro do gabinete que receber os documentos.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
-  "9b021e6ed5f8a577": {
+  "ed0bfb0dbdc3bfe0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 27.º — Objecções e comentários",
@@ -688,9 +729,9 @@
    "changed_by": [
     "Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
    ],
-   "markdown": "###### Artigo 27.º — Objecções e comentários\n\n1 - Durante a circulação, que se prolonga até à reunião dos secretários de Estado para a qual o projecto seja agendado, podem os gabinetes dos membros do Governo e dos ministros da República transmitir ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros e aos gabinetes dos ministros proponentes quaisquer objecções ou comentários ao projecto circulado.\n\n2 - As objecções e comentários devem ser transmitidos até ao último dia útil anterior à reunião de secretários de Estado para a qual o projecto seja agendado e, quando não importarem rejeição global do mesmo, conter redacções alternativas aos textos sobre os quais não houve concordância.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
+   "markdown": "###### Artigo 27.º — Objecções e comentários\n\n1 - Durante a circulação, que se prolonga até à reunião de secretários de Estado para a qual o projecto seja agendado, podem os gabinetes dos membros do Governo e dos ministros da República transmitir ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros e aos gabinetes dos ministros proponentes quaisquer objecções ou comentários ao projecto circulado.\n\n2 - As objecções e comentários devem ser transmitidos até ao último dia útil anterior à reunião de secretários de Estado para a qual o projecto seja agendado e, quando não importarem rejeição global do mesmo, conter redacções alternativas aos textos sobre os quais não houve concordância.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
-  "0d3b21d4b576b79d": {
+  "7f0e8b3c7360735b": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 28.º — Composição",
@@ -698,9 +739,9 @@
    "changed_by": [
     "Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
    ],
-   "markdown": "###### Artigo 28.º — Composição\n\n1 - As reuniões de secretários de Estado são presididas pelo Ministro da Presidência, ou, nas suas ausências e impedimentos, pelo Secretário de Estado da Presidência do Conselho de Ministros, e nelas participam um secretário de Estado em representação de cada ministro, ou um representante do ministro não coadjuvado por secretário de Estado que por ele seja indicado.\n\n2 - Podem também participar nas reuniões de secretários de Estado:\n\na) O Ministro Adjunto;\n\nb) Outros ministros, a convite do Ministro da Presidência;\n\nc) Outros secretários de Estado que, pela natureza da matéria agendada, devam estar presentes;\n\nd) Representantes dos gabinetes dos ministros da República para as Regiões Autónomas, por estes indicados, que, pela natureza da matéria agendada, o Ministro da Presidência decida convidar a participar.\n\n3 - Assiste às reuniões de secretários de Estado um elemento do Gabinete do Primeiro-Ministro.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
+   "markdown": "###### Artigo 28.º — Composição\n\n1 - As reuniões de secretários de Estado são presididas pelo Ministro da Presidência, ou, nas suas ausências e impedimentos, pelo Secretário de Estado da Presidência do Conselho de Ministros, e nelas participam um secretário de Estado em representação de cada ministro ou um representante do Ministro não coadjuvado por secretário de Estado que por ele seja indicado.\n\n2 - Podem também participar nas reuniões de secretários de Estado:\n\na) O Ministro Adjunto;\n\nb) Outros ministros, a convite do Ministro da Presidência;\n\nc) Outros secretários de Estado que, pela natureza da matéria agendada, devam estar presentes;\n\nd) Representantes dos gabinetes dos ministros da República para as Regiões Autónomas, por estes indicados, que, pela natureza da matéria agendada, o Ministro da Presidência decida convidar a participar.\n\n3 - Assiste às reuniões de secretários de Estado um elemento do Gabinete do Primeiro-Ministro.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
-  "3f182a581320ec98": {
+  "8c778f9d03f21956": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 31.º — Agenda",
@@ -708,7 +749,7 @@
    "changed_by": [
     "Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
    ],
-   "markdown": "###### Artigo 31.º — Agenda\n\n1 - Compete ao Ministro da Presidência ou, nas suas ausências e impedimentos, ao Secretário de Estado da Presidência do Conselho de Ministros o agendamento de projectos para as reuniões de secretários de Estado.\n\n2 - A agenda da reunião de secretários de Estado é remetida pelo Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, na penúltima quinta-feira anterior à reunião, aos gabinetes de todos os ministros e dos ministros da República.\n\n3 - A agenda da reunião de secretários de Estado comporta três partes:\n\na) A primeira, relativa à troca de informações sobre assuntos sectoriais;\n\nb) A segunda, relativa à apreciação de projectos postos em circulação que lhe sejam submetidos pela primeira vez;\n\nc) A terceira, relativa à apreciação de projectos transitados de anteriores reuniões e de projectos remetidos pelo Conselho de Ministros.\n\n4 - A agenda da reunião de secretários de Estado pode ter ainda por objecto a apreciação das iniciativas referidas na alínea b) do n.º 1 e no n.º 2 do artigo 30.º\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
+   "markdown": "###### Artigo 31.º — Agenda\n\n1 - Compete ao Ministro da Presidência ou, nas suas ausências e impedimentos, ao Secretário de Estado da Presidência do Conselho de Ministros o agendamento de projectos para as reuniões de secretários de Estado.\n\n2 - A agenda da reunião de secretários de Estado é remetida pelo Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, na quinta-feira anterior à reunião, aos gabinetes de todos os ministros e dos ministros da República.\n\n3 - A agenda da reunião de secretários de Estado comporta três partes:\n\na) A primeira, relativa à troca de informações sobre assuntos sectoriais;\n\nb) A segunda, relativa à apreciação de projectos postos em circulação que lhe sejam submetidos pela primeira vez;\n\nc) A terceira, relativa à apreciação de projectos transitados de anteriores reuniões e de projectos remetidos pelo Conselho de Ministros.\n\n4 - A agenda da reunião de secretários de Estado pode ter ainda por objecto a apreciação das iniciativas referidas na alínea b) do n.º 1 e no n.º 2 do artigo 30.º\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
   },
   "5867c602381644ef": {
    "fragment_id": null,
@@ -719,6 +760,14 @@
     "Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
    ],
    "markdown": "###### Artigo 32.º — Deliberações\n\n1 - Os projectos apreciados em reunião de secretários de Estado são objecto de deliberação:\n\na) De aprovação com ou sem alterações;\n\nb) De adiamento;\n\nc) De aceitação da retirada pelos respectivos proponentes;\n\nd) De proposta de inscrição na parte III da agenda do Conselho de Ministros.\n\n2 - Os projectos que incidam sobre a orgânica dos serviços da Administração Pública devem merecer consenso em reunião de secretários de Estado.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/66-2003-571672), publicado em 2003-05-02."
+  },
+  "d335b937a7bf6030": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Súmula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Súmula\n\n1 - De todas as reuniões de secretários de Estado é elaborada, pelo Secretário de Estado da Presidência do Conselho de Ministros, uma súmula de que constem as respectivas conclusões finais, da qual existirão três exemplares, sendo um conservado no Gabinete do Primeiro-Ministro, outro no Gabinete do Ministro da Presidência e o último no Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - O acesso à súmula prevista no número anterior será facultado a qualquer ministro ou a qualquer outro membro do Governo, participante nas reuniões de Secretários de Estado, que o solicite."
   }
  }
 }

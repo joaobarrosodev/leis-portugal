@@ -29,13 +29,20 @@
      "title": "Decreto-Lei n.º 179/87",
      "published": "1987-04-20",
      "dre_path": "/dr/detalhe/decreto-lei/179-1987-666325"
+    },
+    {
+     "id": "pt:dre:458223:por",
+     "title": "Declaração",
+     "published": "1980-11-18",
+     "dre_path": "/dr/detalhe/declaracao/1980-458223"
     }
    ],
    "changes": [
     "Altera Artigo 4.º",
     "Altera Artigo 7.º",
     "Altera Artigo 8.º",
-    "Altera Artigo 9.º"
+    "Altera Artigo 9.º",
+    "Retifica Artigo 16"
    ],
    "fragments": [
     "92c6d7465f54b7d4",
@@ -54,7 +61,7 @@
     "d41aebe4f0347177",
     "c90bc36bddafe468",
     "6c2174aa80c69da5",
-    "9e867f5b8cbff6e0"
+    "15377a81448a1945"
    ]
   }
  ],
@@ -203,13 +210,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 15.º\n\nÉ revogada a portaria da Secretaria de Estado da Saúde referente à matéria do presente diploma, com data de 31 de Janeiro de 1980, publicada no Diário da República, 2.ª série, n.º 33, de 8 de Fevereiro de 1980."
   },
-  "9e867f5b8cbff6e0": {
+  "15377a81448a1945": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 16.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 19 de Setembro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+   "in_force_from": "1987-04-25",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-458223), publicado em 1980-11-18."
+   ],
+   "markdown": "###### Artigo 16.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 4 de Setembro de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 19 de Setembro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMAPA DE PESSOAL\n\nAdministração e direcção técnica\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/38963896.pdf)\n\nServiços administrativos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/38963896.pdf)\n\nQuadro médico\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/38963896.pdf)\n\nServiços de assistência\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/38963896.pdf)\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-458223), publicado em 1980-11-18."
   }
  }
 }

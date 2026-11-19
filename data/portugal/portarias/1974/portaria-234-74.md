@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1978-12-13'
     amending: pt:dre:324734:por
-    amending_title: Portaria n.º 736/78
+    amending_title: Portaria n.º 736/78; Declaração
     changes:
     - Altera Artigo unidades 13-13
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:22:31Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 736/78. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-234-74.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1974/portaria-234-74.alteracoes.json. Retificações aplicadas
+    com um LLM, na ronda im, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -219,3 +221,9 @@ b) Caixa Nacional de Pensões relativamente aos profissionais abrangidos pela al
 22 - A presente portaria entra em vigor em 1 de Maio de 1974.
 
 Ministério das Corporações e Segurança Social, 7 de Março de 1974. - O Ministro das Corporações e Segurança Social, Joaquim Dias da Silva Pinto.
+
+Modelos a que se refere o n.º 18.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/09601/00040006.pdf)
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1974-266096), publicado em 1974-04-24.
