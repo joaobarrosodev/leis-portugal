@@ -73,6 +73,8 @@ version_history:
     - Retifica Artigo 86
     - Retifica texto
     - Retifica Artigo 140
+    - Retifica Artigo 51
+    - Retifica Artigo 53
 identifiers:
   celex: null
   eli: null
@@ -100,7 +102,8 @@ provenance:
   generated_at: '2026-10-23T05:59:32Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 500/79. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1979/decreto-regulamentar-12-79.alteracoes.json.
-    Retificações aplicadas com um LLM, na ronda r3, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM, na ronda r3, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.
+    Retificações aplicadas com um LLM, na ronda r4, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1135,7 +1138,7 @@ d) Técnicos assessores, mediante provas de selecção, que têm de incluir um t
 
 a) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários de 2.ª classe, mediante provas de selecção de entre diplomados com os adequados cursos superiores;
 
-b) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários de 1.ª classe, de entre os de 2.ª na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;
+b) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;
 
 c) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários principais, mediante provas de selecção de entre os de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo as nomeações efectuadas segundo graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º
 
@@ -1197,7 +1200,7 @@ f) Correspondentes de informática principais, mediante provas de selecção de 
 
 2 - Durante os primeiros seis meses após a nomeação, os funcionários nomeados para as categorias mencionadas nas alíneas a), d) e e) do número anterior consideram-se na situação de estagiários, sendo exonerados ou regressando aos lugares de origem, conforme os casos desde que não revelem aptidões para o exercício dos respectivos lugares.
 
-3 - Os liquidadores tributários que forem nomeados correspondentes de informática principais, nos termos da alínea e) do número anterior, exercerão o lugar em comissão de serviço sendo-lhes contado o tempo de serviço prestado no mesmo para efeitos de prestação de provas a que possam concorrer os liquidadores tributários de 1.ª classe.
+3 - Os liquidadores tributários que forem nomeados correspondentes de informática principais, nos termos da alínea f) do n.º 1, exercerão o lugar em comissão de serviço sendo-lhes contado o tempo de serviço prestado no mesmo para efeitos de prestação de provas a que possam concorrer os liquidadores tributários de 1.ª classe.
 
 ##### SUBSECÇÃO X — Pessoal administrativo
 

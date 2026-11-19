@@ -255,7 +255,9 @@
     "Retifica Artigo 76",
     "Retifica Artigo 86",
     "Retifica texto",
-    "Retifica Artigo 140"
+    "Retifica Artigo 140",
+    "Retifica Artigo 51",
+    "Retifica Artigo 53"
    ],
    "fragments": [
     "dae6dff478a6888b",
@@ -333,11 +335,11 @@
     "fec0aae526c2f4d5",
     "aaa31ef712bc019b",
     "df8e443c2cf880f2",
-    "2218a77ca9eeff74",
+    "9eca53a90e6c03aa",
     "90b4913feeadd76f",
     "acaf2928995b1faa",
     "969a3e0b6b7bbc65",
-    "23586d95d21f9c61",
+    "9ed28fd3ef8125b1",
     "df4a0e4d42c26662",
     "3ac2c5eeda55a608",
     "00285f02d6da9cd5",
@@ -2200,6 +2202,14 @@
    "changed_by": [],
    "markdown": "###### Artigo 50.º — (Nomeação de pessoal técnico superior de outras especialidades)\n\n1 - A nomeação do pessoal técnico superior não mencionado nos artigos anteriores efectuar-se-á nos seguintes termos:\n\na) Técnicos de 2.ª classe mediante provas de selecção de entre licenciados com curso superior adequado ao exercício das funções inerentes às especialidades previstas no mapa III anexo ao presente decreto;\n\nb) Técnicos de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;\n\nc) Técnicos principais, mediante provas de selecção de entre os de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo as nomeações efectuadas segundo graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;\n\nd) Técnicos assessores, mediante provas de selecção, que têm de incluir um trabalho elaborado para o efeito, de entre os técnicos principais com, pelo menos, seis anos de serviço na categoria, sendo as nomeações efectuadas com base no disposto nos n.os 1 a 3 do artigo 70.º\n\n2 - Na admissão de técnicos de 2.ª classe terão preferência, em igualdade de circunstâncias, os candidatos que sejam funcionários da Direcção-Geral."
   },
+  "9eca53a90e6c03aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Nomeação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Nomeação)\n\n1 - A nomeação do pessoal técnico far-se-á nos seguintes termos:\n\na) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários de 2.ª classe, mediante provas de selecção de entre diplomados com os adequados cursos superiores;\n\nb) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;\n\nc) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários principais, mediante provas de selecção de entre os de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo as nomeações efectuadas segundo graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º\n\n2 - Na admissão para as categorias mencionadas na alínea a) do número anterior terão preferência, em igualdade de circunstâncias, os candidatos que sejam funcionários da Direcção-Geral."
+  },
   "acaf2928995b1faa": {
    "fragment_id": null,
    "type": null,
@@ -2207,6 +2217,14 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 52.º — (Nomeações)\n\nA nomeação do pessoal técnico profissional far-se-á nos seguintes termos:\n\na) Técnicos auxiliares de 2.ª classe e técnicos auxiliares de documentação de 2.ª classe, mediante provas de selecção de entre funcionários da Direcção-Geral que possuam a habilitação do curso geral dos liceus ou equivalente ou, na sua falta, de entre indivíduos diplomados com o curso complementar do ensino secundário ou com habilitação equivalente;\n\nb) Técnicos auxiliares de 1.ª classe e técnicos auxiliares de documentação de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\nc) Técnicos auxiliares principais e técnicos auxiliares de documentação principais, mediante provas de selecção de entre os de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;\n\nd) Desenhadores de 2.ª classe, mediante concurso de provas práticas de entre indivíduos habilitados com o curso geral do ensino secundário ou com habilitação equivalente;\n\ne) Desenhadores de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\nf) Desenhadores principais, mediante concurso de provas práticas de entre os de 1.ª classe com, pelo menos três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;\n\ng) Electricistas de 2.ª classe, mediante provas de selecção de entre indivíduos habilitados com a escolaridade obrigatória e experiência no exercício das funções;\n\nh) Electricistas de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e informação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\ni) Electricistas principais, mediante concurso de provas práticas de entre electricistas de 1.ª classe com, pelo menos, três anos de serviço na categoria;\n\nj) Encarregados de obras, mediante provas de selecção de entre indivíduos habilitados com a escolaridade obrigatória e experiência no exercício das funções;\n\nk) Operadores de reprografia de 3.ª classe, mediante concurso de prestação de provas práticas de entre funcionários da Direcção-Geral pertencentes ao grupo do pessoal auxiliar com, pelo menos, cinco anos de serviço ou, na sua falta, de entre indivíduos com a habilitação mínima correspondente à escolaridade obrigatória;\n\nl) Operadores de reprografia de 2.ª e 1.ª classes, de entre, respectivamente, os de 3.ª e 2.ª classes com, pelo menos, três anos de serviço e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\nm) Operadores de offset de 2.ª classe, mediante concurso de provas práticas de entre operadores de reprografia de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º;\n\nn) Operadores de offset de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\no) Chefe de oficinas de impressão, mediante concurso de provas práticas de entre operadores de offset de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo a graduação, para efeitos de promoção, estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º"
+  },
+  "9ed28fd3ef8125b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — (Nomeação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Nomeação)\n\n1 - A nomeação do pessoal técnico de informática far-se-á nos seguintes termos:\n\na) Operadores de colheita de dados de 2.ª classe, mediante provas de selecção de entre indivíduos maiores de 18 anos habilitados com o curso geral do ensino complementar ou com habilitação equivalente;\n\nb) Operadores de colheita de dados de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a 12 ou a Suficiente no último triénio;\n\nc) Monitores, mediante provas de selecção de entre operadores de colheita de dados de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo as nomeações efectuadas segundo a graduação estabelecida de acordo com o disposto nos n.os 1 a 3 do artigo 70.º;\n\nd) Correspondentes de informática de 2.ª classe, mediante provas de selecção de entre liquidadores tributários de 2.ª classe, sendo as nomeações efectuadas de acordo com o disposto nos n.os 1 a 3 do artigo 70.º;\n\ne) Correspondentes de informática de 1.ª classe, mediante provas de selecção de entre os de 2.ª classe com, pelo menos, três anos de serviço na categoria ou de entre operadores de colheita de dados de 1.ª classe, sendo as nomeações efectuadas segundo a graduação estabelecida com base nos n.os 1 a 3 do artigo 70.º;\n\nf) Correspondentes de informática principais, mediante provas de selecção de entre correspondentes de informática de 1.ª classe e monitores que possuam, pelo menos, três anos de serviço na categoria, ou de entre liquidadores tributários de 1.ª classe, sendo as nomeações efectuadas segundo n graduação estabelecida nos n.os 1 a 3 do artigo 70.º\n\n2 - Durante os primeiros seis meses após a nomeação, os funcionários nomeados para as categorias mencionadas nas alíneas a), d) e e) do número anterior consideram-se na situação de estagiários, sendo exonerados ou regressando aos lugares de origem, conforme os casos desde que não revelem aptidões para o exercício dos respectivos lugares.\n\n3 - Os liquidadores tributários que forem nomeados correspondentes de informática principais, nos termos da alínea f) do n.º 1, exercerão o lugar em comissão de serviço sendo-lhes contado o tempo de serviço prestado no mesmo para efeitos de prestação de provas a que possam concorrer os liquidadores tributários de 1.ª classe."
   },
   "76d901f3bfcb52b8": {
    "fragment_id": null,
