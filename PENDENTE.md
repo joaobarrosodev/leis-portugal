@@ -170,8 +170,10 @@ Os números estão no `rag/README.md`, «Perguntas por artigo».
 - **Medição completa (18/11), com o `fontes.revogado` corrigido:** com o reranker a ler as perguntas, 30 % → 76 % em 1.º e 54 % → 83 % de certas nas respondidas (21/39 → 99/120). Fora do âmbito não muda nada. Nas «sem resposta», responde em 8 de 105 em vez de 5: são 3 de arrendamento, com notas logo acima do limiar 3.
 - **Decisão: alargar aos outros códigos** (critério de +10 pontos cumprido). Por fazer:
   - ~~medir a variante do reranker com perguntas fora do âmbito e nas «sem resposta»~~ (feito a 18/11); decidir se os artigos com perguntas levam um limiar mais alto (≈ 3,35 tira as 3 a mais e custa umas 7 certas no âmbito);
-  - rever a lista dos códigos principais, que também traz regulamentos e editais grandes;
-  - gerar uns 430 lotes (cerca de 45 milhões de tokens, umas 2 horas com 11 sessões);
+  - ~~rever a lista dos códigos principais~~ (feito a 19/11: 37 blocos em `OUTROS_CODIGOS`, 11.418 artigos, 327 lotes; ver `rag/README.md`, «Alargamento aos outros códigos principais»);
+  - **a gerar (19/11):** um subagente Opus por lote, 10 de cada vez. <!-- progresso -->Validados e no main: 56 de 327 lotes (1.960 artigos, 6.749 perguntas).<!-- /progresso -->
+    - **Para retomar depois de um corte:** os lotes estão em `.cache/perguntas-codigos/` do worktree `gigante-dec-45205-42125e` (fora do git). `PYTHONPATH=src:. .venv/bin/python -m rag.perguntas_por_artigo estado --pasta .cache/perguntas-codigos` diz os lotes sem saída ou com problemas; só esses se repetem, com o `REGRAS.md` da pasta. Se a pasta se perder, `exportar --so-sem-perguntas` refaz os lotes só com os artigos que ainda não têm perguntas (com outros números de lote).
+    - No fim: `importar --pasta .cache/perguntas-codigos`, testes e commit.
   - pôr as perguntas no índice de uso;
   - publicar só depois de lançar a aplicação que sabe apagá-las nos deltas (`publicar --com-perguntas`).
 - **Achado:** `fontes.revogado` dá como revogados 50 artigos em vigor do Código Civil (1064.º–1113.º), por causa de notas antigas «Revogado pelo…» seguidas de «Aditado/Alterado». Corrigido no main a 17/11.
