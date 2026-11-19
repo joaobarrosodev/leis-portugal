@@ -49,12 +49,19 @@
      "title": "Declaração",
      "published": "1981-08-13",
      "dre_path": "/dr/detalhe/declaracao/1981-576340"
+    },
+    {
+     "id": "pt:dre:579562:por",
+     "title": "Declaração",
+     "published": "1981-07-23",
+     "dre_path": "/dr/detalhe/declaracao/1981-579562"
     }
    ],
    "changes": [
     "Revoga Artigo 6.º",
     "Revoga Artigo 11.º",
-    "Retifica Artigo 4"
+    "Retifica Artigo 4",
+    "Retifica texto"
    ],
    "fragments": [
     "9c0c469b3e0bbda8",
@@ -77,7 +84,7 @@
     "b05398af735b2a13",
     "12afa3c957d1e804",
     "31639277e6e24314",
-    "3b123531beaf9de7"
+    "eac0322172ecadab"
    ]
   }
  ],
@@ -408,13 +415,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 19.º — (Disposições subsidiárias)\n\nEm tudo o que neste diploma e nas normas da Organização Tutelar de Menores não estiver previsto, serão de observar as regras do regulamento interno do Centro."
   },
-  "3b123531beaf9de7": {
+  "eac0322172ecadab": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º — (Instalação)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 20.º — (Instalação)\n\n1 - No prazo de sessenta dias, a contar da entrada em vigor deste diploma, deve a Secretaria Regional dos Assuntos Sociais providenciar pela instalação do Centro e pelo recrutamento do seu pessoal.\n\n2 - A data da entrada em funcionamento do Centro será fixada por portaria conjunta do Ministro da Justiça e do Secretário Regional dos Assuntos Sociais.\n\nVisto e aprovado em Conselho de Ministros, 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.\n\nMapa a que se refere o artigo 17.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/14700/15371540.pdf)"
+   "in_force_from": "1995-03-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-579562), publicado em 1981-07-23."
+   ],
+   "markdown": "###### Artigo 20.º — (Instalação)\n\n1 - No prazo de sessenta dias, a contar da entrada em vigor deste diploma, deve a Secretaria Regional dos Assuntos Sociais providenciar pela instalação do Centro e pelo recrutamento do seu pessoal.\n\n2 - A data da entrada em funcionamento do Centro será fixada por portaria conjunta do Ministro da Justiça e do Secretário Regional dos Assuntos Sociais.\n\nVisto e aprovado em Conselho de Ministros, 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 17 de Junho de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-579562), publicado em 1981-07-23.\n\nMapa a que se refere o artigo 17.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/14700/15371540.pdf)"
   }
  }
 }

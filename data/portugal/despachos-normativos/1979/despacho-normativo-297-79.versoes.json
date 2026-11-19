@@ -40,7 +40,8 @@
    "changes": [
     "Altera Artigo 2.º",
     "Altera Artigo 7.º",
-    "Retifica Artigo 8"
+    "Retifica Artigo 8",
+    "Retifica Artigo 7"
    ],
    "fragments": [
     "fce8462643b67c9a",
@@ -50,7 +51,7 @@
     "281b8ac7c05bbcdd",
     "c3d35179b68d44fe",
     "f82f4ea0461fff1c",
-    "c12bd792fef44e95",
+    "f859235fcc825796",
     "b6deb974f06cb44c",
     "8b272c68356006c3"
    ]
@@ -123,15 +124,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 6.º\n\nO Secretário de Estado do Tesouro despachará ainda os assuntos relativos:\n\na) Ao sistema bancário;\n\nb) À Inspecção de Crédito do Banco de Portugal;\n\nc) Ao Instituto Nacional de Seguros;\n\nd) À Comissão de Crédito e de Garantia de Crédito à Exportação e à tutela da Companhia de Seguros de Crédito;\n\ne) À tutela da Imprensa Nacional-Casa da Moeda, E. P.;\n\nf) À tutela das empresas públicas a exercer pelo Ministério das Finanças nos termos do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e sua legislação complementar;\n\ng) Ao Conselho Consultivo do Mercado Financeiro;\n\nh) Às bolsas de valores."
   },
-  "c12bd792fef44e95": {
+  "f859235fcc825796": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": "1979-10-16",
    "changed_by": [
-    "Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13."
+    "Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13.",
+    "Retificado pelo/a [Despacho Normativo n.º 366/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/366-1979-366453), publicado em 1979-12-14."
    ],
-   "markdown": "###### Artigo 7.º\n\nNa dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Património;\n\nc) Direcção-Geral do Tribunal de Contas;\n\nd) Serviços Sociais do Ministério das Finanças;\n\ne) Gabinete de Gestão de Veículos do Estado;\n\nf) Serviço de Informação para o Abastecimento Estatal.\n\ng) Comissão Liquidatária do Comissariado para os Desalojados.\n\n> Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13."
+   "markdown": "###### Artigo 7.º\n\nNa dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Património;\n\nc) Direcção-Geral do Tribunal de Contas;\n\nd) Serviços Sociais do Ministério das Finanças;\n\ne) Gabinete de Gestão de Veículos do Estado;\n\nf) Serviço de Informação para o Abastecimento Estatal.\n\ng) Comissão Liquidatária do Comissariado para os Desalojados.\n\nh) Direcção do Crédito Cifre.\n\n> Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13.\n\n> Retificado pelo/a [Despacho Normativo n.º 366/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/366-1979-366453), publicado em 1979-12-14."
   },
   "b6deb974f06cb44c": {
    "fragment_id": null,

@@ -92,7 +92,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 199/2003. Método
     e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-38-2003.alteracoes.json.
     Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
-    n.º 5-C/2003.'
+    n.º 5-C/2003. Retificações aplicadas com um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py):
+    Declaração de Rectificação n.º 5-C/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -2557,7 +2558,7 @@ Artigo 912.º
 
 Artigo 913.º
 
-[...]
+Exercício do direito de remição
 
 1 - O direito de remição pode ser exercido:
 
@@ -2973,7 +2974,7 @@ Os privilégios imobiliários especiais são oponíveis a terceiros que adquiram
 
 Artigo 819.º
 
-[...]
+Disposição, oneração ou arrendamento dos bens penhorados
 
 Sem prejuízo das regras do registo, são inoponíveis à execução os actos de disposição, oneração ou arrendamento dos bens penhorados.
 
@@ -3488,6 +3489,10 @@ d) ...
 e) ...
 
 f) ...
+
+g) ...
+
+h) ...
 
 i) O custo da citação por funcionário judicial, no caso de o autor declarar pretendê-la, nos termos do n.º 7 do artigo 239.º do Código de Processo Civil, compreendendo, além das despesas, o valor correspondente a um oitavo da taxa de justiça, com o limite de duas unidades de conta.
 
