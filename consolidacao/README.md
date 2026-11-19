@@ -193,7 +193,88 @@ Regras (no início de `retificacoes.py`):
 - os pares do título do registo e os já aplicados não mexem no texto;
 - a nota «> Retificado pelo/a …» vai para o fim do artigo ou, fora dos artigos, para a seguir ao parágrafo.
 
-O histórico continua com duas versões. A retificação entra nos `acts` da versão consolidada, sem mudar a data. A Lei 74/98, art. 5.º, n.º 4, diz que a retificação reporta os efeitos à entrada em vigor do texto retificado. A versão original fica como foi publicada. O `acervo.py` não volta a escrever por cima destes 65 registos (`retificados_por_regra`). Sem esta guarda, uma nova corrida repunha estes consolidados sem as retificações.
+O histórico continua com duas versões. A retificação entra nos `acts` da versão consolidada, sem mudar a data. A Lei 74/98, art. 5.º, n.º 4, diz que a retificação reporta os efeitos à entrada em vigor do texto retificado. A versão original fica como foi publicada. O `acervo.py` não volta a escrever por cima destes registos (`retificados_por_regra`). Sem esta guarda, uma nova corrida repunha estes consolidados sem as retificações.
+
+**Com o LLM (`retificacoes_llm.py`, 19/11/2026).** As 123 que a regra não aplica (116 das classes `llm` e `sem_pares` e as 7 recusadas), em 113 diplomas, seguiram por quatro passos:
+
+1. **Entrada.** A retificação e o texto em vigor, em linhas numeradas. Nos textos grandes vão só os blocos que a retificação nomeia ou com que partilha frases (`llm/retificacoes/entrada-NN.jsonl`).
+2. **Resposta (Opus, 22 lotes, `PROMPT-respondedor.md`).** O respondedor dá as trocas linha a linha, com o texto atual exato. As 85 com trocas passaram todas a conferência das linhas. As outras 38 não tinham nada a aplicar:
+   - imagem;
+   - trecho reescrito depois;
+   - já aplicada;
+   - outro diploma;
+   - dúvidas sobre linhas novas, que o formato não permite.
+3. **Verificação às cegas (Sonnet, `PROMPT-verificador.md`).** Das 85, saíram 78 certas, 6 em dúvida e 1 errada.
+   - O DL 38/2003 (48 trocas) ficou em dúvida porque o texto da retificação ia cortado. Repetido com o texto inteiro, passou.
+   - As dúvidas são mudanças especulativas (o «onde se lê» não bate), sítios que não se veem no parágrafo e ajustes que a retificação não pede.
+4. **Aplicação.** Só as 78 certas, em 76 diplomas, com `retificacoes_llm.py aplicar` na pasta principal.
+
+**Estado das 243 retificações distintas** (`auditoria/retificacoes-estado.jsonl`):
+
+| Estado | Retificações |
+|---|--:|
+| Aplicadas por regra | 67 |
+| Aplicadas com o LLM | 78 |
+| Nada a aplicar (LLM) | 38 |
+| Sem trabalho (reescrito depois, já no texto, só metadados, outro diploma) | 36 |
+| Fora: imagem ou republicação | 11 |
+| Reprovadas às cegas | 7 |
+| Fora: sem registo | 6 |
+
+**A fuga fechada (`selecionar.py`, `alteracoes.py`, `cegas.py`, `llm_completo.py`, `acervo.py`).**
+
+- Na escala, `corrected_by` conta como alterador, com `retificacao: true`. Vai à frente na cadeia, salvo quando o rótulo diz que retifica um alterador.
+- O leitor lê os pares com as aspas em parágrafos seguidos e com dois pontos.
+- O verificador às cegas vê sempre as retificações.
+- A data da versão consolidada ignora as retificações (Lei 74/98, art. 5.º, n.º 4). Só com retificações, a versão vale desde a entrada em vigor do original.
+
+### 10. Vigência revista (19/11/2026)
+
+**Política aprovada:** não se tiram consolidações por vigência. Tirar um diploma do `data/` deixava lá o original, que diz o mesmo `in_force`: perdia-se o texto certo e o problema ficava. A vigência revista fica numa marca à parte, `auditoria/vigencia-revista.jsonl`, com o motivo, a prova e a fonte (`vigencia.py`). Há dois tipos:
+
+- `nao_vigora`: revogado, extinto, caducado ou substituído, com prova;
+- `regime_anterior`: cursos e graus anteriores ao DL 74/2006, sem se afirmar que caducaram.
+
+**No RAG (`rag/vigencia.py`, `rag/pesquisa.py`).** Os resultados destes diplomas levam um aviso: «O DRE dá-o como em vigor, mas …». Baixar-lhes a posição fica atrás de `RAG_VIGENCIA_PRIOR=1`, desligado por omissão, para se medir primeiro. A marca lê-se de `RAG_INDICE/vigencia-revista.jsonl` ou, sem esse ficheiro, do repositório. Ao publicar o índice, copia-se o ficheiro para a pasta do índice; o índice em si não muda.
+
+**Marcas (339):**
+
+| Classe | Marca | Diplomas | Prova |
+|---|---|--:|---|
+| `bloco3` | nao_vigora | 12 | segunda leitura da ronda 114; voltaram a entrar no `data/` (saíram de `acervo.DE_FORA`) |
+| `revogado_dre` | nao_vigora | 37 | `legal_status` revogado (7), ou `repealed_by` de revogação inteira (30, sem as 2 duvidosas) |
+| `revogacao_noutro_registo` | nao_vigora | 2 | rótulo de outro registo: «Revogado o Decreto-Lei n.º 158/96 …, pelo …» |
+| `ultramar` | nao_vigora | 51 | diploma de um território ultramarino ou de Macau, anterior a 1976; ficam de fora os que tocam a metrópole e os regimes pessoais |
+| `caca_prazo` | nao_vigora | 27 | o prazo do texto acabou, sem cláusula de renovação e sem nenhum registo do acervo com o mesmo número de processo |
+| `llm_caca` | nao_vigora | 18 | segunda leitura: a zona foi extinta por uma portaria do acervo |
+| `llm_organicas` | nao_vigora | 8 | segunda leitura: revogado, ou serviço extinto ou sucedido, com a relação ou a menção |
+| `cursos_pre_bolonha` | regime_anterior | 184 | regime geral (DL 74/2006, art. 84.º) |
+
+As 66 renovações de caça encontradas fora da cadeia estão em `auditoria/alteradores-em-falta.jsonl`. As concessões que têm uma delas não levam a marca.
+
+**Segunda leitura com o LLM (`vigencia_llm.py`, `llm/vigencia/`).**
+
+- **Candidatos:** os de certeza alta sem marca por regra: caça (370), orgânicas (210) e regimes de um só ano (78). Os 140 incertos ficaram de fora.
+- **Entrada:** o título, o sumário, as relações, o início e o fim do texto e as menções no acervo perto de um verbo de vigência, com o mesmo número de processo nas concessões.
+- **Leitura:** primeiro Sonnet, com Opus só nas dúvidas.
+- **Critério para marcar:** uma prova da entrada (o id de uma menção ou de uma relação com rótulo informativo), sem revogação parcial nem «sem prejuízo». Três foram descartadas à mão, por o próprio leitor dizer que só o conteúdo principal mudou (`DESCARTADAS`).
+
+| Classe | Candidatos | Sonnet: nao_vigora / vigora / dúvida | Opus nas dúvidas: nao_vigora / vigora / dúvida | Marcas |
+|---|--:|---|---|--:|
+| Caça | 370 | 20 / 0 / 350 | 0 / 0 / 350 | 18 |
+| Orgânicas | 210 | 16 / 1 / 193 | 3 / 20 / 170 | 8 |
+| Um só ano | 78 | 1 / 0 / 77 | 1 / 1 / 75 | 0 |
+
+O rendimento do Opus nas dúvidas foi baixo: 2 marcas em 620. Não houve mais rondas, e as 595 dúvidas ficam sem marca.
+
+Para correr de novo, fora do sandbox, porque o `rg` percorre o acervo inteiro:
+
+```bash
+rg -n --no-heading -g '*.md' '^\s+label: .*[Rr][Ee][Vv][Oo][Gg][Aa][Dd]' data/portugal data/regional > rotulos.txt
+python consolidacao/vigencia.py --rotulos rotulos.txt --processos processos.txt
+```
+
+`processos.txt` é o `rg -P -o` dos números de processo das concessões candidatas (`vigencia.caca_prazo`).
 
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 

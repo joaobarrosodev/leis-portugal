@@ -233,6 +233,52 @@ Se só se fizer o passo 2, corrigem-se cerca de 70 diplomas por menos de 0,4 M t
    - Os 140 de certeza incerta ficam de fora até se ver o rendimento nos 700.
 4. **Cursos anteriores a Bolonha.** Decidir por regra jurídica, não diploma a diploma, porque o acervo não tem os atos de adequação, que são da 2.ª série. Proposta: marcar os 186 como «regime anterior ao DL 74/2006», sem afirmar que caducaram.
 
+## 5. Feito a 19/11/2026
+
+O João aprovou as três propostas da secção 4.
+
+**Retificações** (`consolidacao/README.md`, secção 9). Das 243 retificações distintas:
+
+| Estado | Retificações |
+|---|--:|
+| Aplicadas por regra | 67 |
+| Aplicadas com o LLM (Opus a responder, Sonnet às cegas) | 78 |
+| Nada a aplicar (LLM) | 38 |
+| Sem trabalho | 36 |
+| Fora: imagem ou republicação | 11 |
+| Reprovadas às cegas | 7 |
+| Fora: sem registo | 6 |
+
+As 145 aplicadas estão em 140 diplomas. Nas próximas rondas, `corrected_by` conta como alterador (seleção, leitor, verificação às cegas, pedido ao LLM e data da versão).
+
+**Vigência** (`consolidacao/README.md`, secção 10).
+
+- Não se tiram consolidações por vigência. A marca fica em `consolidacao/auditoria/vigencia-revista.jsonl`, e o RAG dá o aviso. A penalização na posição fica desligada (`RAG_VIGENCIA_PRIOR`).
+- Os 12 do bloco 3 voltaram a entrar no `data/`.
+
+| Classe | Marca | Diplomas |
+|---|---|--:|
+| Bloco 3 | nao_vigora | 12 |
+| Revogados pelo próprio DRE | nao_vigora | 37 |
+| Revogação registada noutro registo | nao_vigora | 2 |
+| Ultramar | nao_vigora | 51 |
+| Caça com o prazo acabado e sem renovação no acervo | nao_vigora | 27 |
+| Segunda leitura: caça | nao_vigora | 18 |
+| Segunda leitura: orgânicas | nao_vigora | 8 |
+| Cursos anteriores ao DL 74/2006 | regime_anterior | 184 |
+| **Total** | | **339** (155 nao_vigora) |
+
+**Rendimento da segunda leitura.** Dos 658 candidatos (caça 370, orgânicas 210, um só ano 78):
+
+- o Sonnet resolveu 38: 37 «nao_vigora» e 1 «vigora»;
+- o Opus, nas 620 dúvidas, resolveu 25: 4 «nao_vigora» e 21 «vigora», 20 deles em orgânicas;
+- ficam 595 dúvidas;
+- das 41 «nao_vigora», passaram o critério de prova 26: 24 do Sonnet e 2 do Opus.
+
+Por classe, as marcas foram 18 de 370 na caça, 8 de 210 nas orgânicas e 0 de 78 nos regimes de um só ano.
+
+O rendimento baixo, sobretudo do Opus nas dúvidas (2 marcas em 620), vem de a prova de que a maior parte deixou de vigorar não estar no acervo: as renovações e as extinções da 2.ª série, e os regimes que caducam sem ato expresso. Não se fizeram mais rondas.
+
 ## Ficheiros
 
 - `consolidacao/auditoria.py`: o script.

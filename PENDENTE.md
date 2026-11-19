@@ -179,13 +179,17 @@ Os números estão no `rag/README.md`, «Perguntas por artigo».
 
 Os pormenores estão no `consolidacao/README.md`, «8. Repedir com os reparos e segunda leitura jurídica».
 
-- **Feito:** dos 107 repedidos com os reparos, 51 chegaram à verificação às cegas e 36 passaram (um ficou igual ao original). A segunda leitura jurídica (Opus) dos 35 deu 10 certos, 20 com reparos e 5 em dúvida. **Entraram 6 no `data/`** (2.767 no total), no `main` a 19/11. Os outros 29 estão em `acervo.DE_FORA`.
+- **Feito:** dos 107 repedidos com os reparos, 51 chegaram à verificação às cegas e 36 passaram (um ficou igual ao original). A segunda leitura jurídica (Opus) dos 35 deu 10 certos, 20 com reparos e 5 em dúvida. **Entraram 6 no `data/`** (2.767 no total), no `main` a 19/11. Os outros 29 ficaram em `acervo.DE_FORA`; os 12 que saíram só por vigência voltaram a entrar a 19/11, com a marca.
 - **Falta (fora desta sessão):**
   - export e reconstrução do índice com o bloco 3, a cargo da sessão coordenadora;
   - medir o texto alterado antes e depois.
-- **Achados por decidir:**
-  - **Retificações fora da cadeia.** As declarações de retificação que o DRE dá como `corrected_by` não entram na lista de alteradores da consolidação. Em 5 dos 35 isso deixou texto por retificar.
-    - **Medido a 19/11** (`reports/auditoria-consolidados.md`): 244 por aplicar em 221 consolidados.
-    - **Aplicadas por regra a 19/11:** 67, em 65 diplomas, verificadas às cegas (`consolidacao/README.md`, secção 9).
-    - **Falta:** as 116 para o LLM e as 7 recusadas pela regra; contar `corrected_by` como alterador nas próximas rondas; o export e o índice com estes 65 registos.
-  - **Vigência.** 12 dos 35 têm o texto certo, mas o diploma já não vigora: foi revogado, caducou ou foi substituído, e o DRE dá-o como `in_force`. A verificação às cegas não vê isto. É preciso decidir se os já aplicados das mesmas classes passam por uma leitura de vigência. Essas classes são: concessões de caça, mestrados e licenciaturas anteriores a Bolonha (DL 74/2006), regimes de um só ano e orgânicas de serviços extintos.
+- **Os dois achados, resolvidos a 19/11** (`reports/auditoria-consolidados.md`; `consolidacao/README.md`, secções 9 e 10):
+  - **Retificações fora da cadeia.** Das 243 por aplicar, 145 aplicadas: 67 por regra e 78 com o LLM, todas verificadas às cegas. O estado de cada uma está em `consolidacao/auditoria/retificacoes-estado.jsonl`. A fuga está fechada: `corrected_by` conta como alterador nas próximas rondas.
+  - **Vigência.** Não se tiram consolidações por vigência. A marca `consolidacao/auditoria/vigencia-revista.jsonl` tem 155 `nao_vigora` e 184 `regime_anterior`, e o RAG dá o aviso. Os 12 do bloco 3 voltaram a entrar no `data/`.
+- **Falta:**
+  - export e reconstrução do índice com os 140 registos retificados e os 12 de volta; a cargo da sessão coordenadora;
+  - copiar `vigencia-revista.jsonl` para a pasta do índice ao publicar no HF;
+  - medir o aviso e, à parte, `RAG_VIGENCIA_PRIOR=1`;
+  - aplicar as 66 renovações de caça de `alteradores-em-falta.jsonl`;
+  - as 7 retificações reprovadas às cegas;
+  - as 595 dúvidas de vigência e os 140 incertos, se valer a pena.
