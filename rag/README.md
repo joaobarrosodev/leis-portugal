@@ -789,6 +789,20 @@ As 1.298 perguntas no índice de 17/11, com `--reranker cruzado --limiar 3`, sem
 
 **Medição de base para o índice novo** (`rag/resultados/app011-1711.json`): o índice de 17/11 com a configuração da aplicação 0.1.1 (reranker em lotes de 16, sem ler as perguntas, limiar 3), sem a reutilização de notas. Dá 615 certas de 1.298 (841 respondidas), reais 112/188, «sem resposta» respondidas 5 de 80. Bate com o `max30-1711` (614) e o `sem1711-sem` (613), dentro do ruído. É com ela que se compara o índice reconstruído com o bloco 3 e as perguntas por artigo, antes de publicar.
 
+**O índice novo, medido como a aplicação 0.1.1 pesquisa (19/11/2026).** Mesma configuração da base, sobre dois índices: o das 15h27 (`app011-1911`), com o bloco 3 e as perguntas por artigo nos outros códigos, e o final das 16h54 (`app011-final`), que junta as retificações e a vigência revista.
+
+| | Base 17/11 | Índice 15h27 | Índice final |
+|---|--:|--:|--:|
+| Certas (de 1.298) | 615 | 619 | 619 |
+| Respondidas | 841 | 834 | 834 |
+| «Sem resposta» respondidas | 5 | 5 | 5 |
+| Artigo certo em 1.º | 693 | 738 | 739 |
+| Artigo certo no top 10 | 948 | 1.038 | 1.038 |
+| Coloquiais, artigo no top 10 | 112 | 186 | 186 |
+| Reais, artigo no top 10 | 223 | 236 | 236 |
+
+Pergunta a pergunta, da base para o final ganham-se 9 certas (6 reais, 2 de texto alterado, 1 coloquial) e perdem-se 5 (3 reais, 2 coloquiais): o saldo de +4 fica dentro do ruído. O ganho real é encontrar o artigo (+90 no top 10, quase todo nas coloquiais), que a 0.1.1 aproveita pouco porque o reranker dela não lê as perguntas. Entre o índice das 15h27 e o final não muda nenhuma resposta: as retificações e a vigência não mexem na pesquisa destas perguntas. Literais, temporais e revogadas ficam iguais. O índice final cumpre os critérios para se publicar; a publicação espera pelo fecho da auditoria dos consolidados, e o índice volta a construir-se nessa altura.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:
