@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '1997-08-09'
     amending: pt:dre:204207:por
-    amending_title: Portaria n.º 625/97
+    amending_title: Portaria n.º 625/97; Portaria n.º 483/95
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/615-q3/1991/07/08/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:56:00Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 625/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-615-q3-91.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-615-q3-91.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 483/95.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -205,4 +208,6 @@ Assinada em 5 de Julho de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/154b02/00730074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/117b00/31423143.pdf)
+
+> Alterado pelo/a [Portaria n.º 483/95](https://diariodarepublica.pt/dr/detalhe/portaria/483-1995-503673), publicado em 1995-05-20.

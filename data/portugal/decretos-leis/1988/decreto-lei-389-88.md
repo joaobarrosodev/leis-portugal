@@ -32,7 +32,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1990-10-18'
+  consolidation_date: '1997-01-11'
 version_history:
   file: decreto-lei-389-88.versoes.json
   count: 2
@@ -42,13 +42,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1990-10-18'
+  - date: '1997-01-11'
     amending: pt:dre:555834:por
-    amending_title: Decreto-Lei n.º 317/90; Declaração
+    amending_title: Decreto-Lei n.º 317/90; Declaração; Portaria n.º 359/96; Portaria n.º 18/97
     changes:
     - Altera Artigo 13.º
     - Retifica Artigo 22
     - Retifica Artigo 15
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -76,7 +77,9 @@ provenance:
   generated_at: '2026-10-23T00:44:06Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 317/90. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-389-88.alteracoes.json.
-    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração. Anexos e quadros de alteradores triados «sem
+    alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py): Portaria n.º 359/96;
+    Portaria n.º 18/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -434,6 +437,18 @@ Mapa I a que se refere o n.º 1 do artigo 8.º
 Quadro do pessoal docente dos Institutos Superiores de Engenharia
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24700/43424346.pdf)
+
+Substituição do quadro de pessoal docente do Instituto Superior de Engenharia do Instituto Politécnico do Porto (Portaria n.º 359/96):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/191b00/25762576.pdf)
+
+Substituição do quadro de pessoal docente do Instituto Superior de Engenharia do Instituto Politécnico de Coimbra (Portaria n.º 18/97):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/004b00/00440044.pdf)
+
+> Alterado pelo/a [Portaria n.º 18/97](https://diariodarepublica.pt/dr/detalhe/portaria/18-1997-302128), publicado em 1997-01-06.
+
+> Alterado pelo/a [Portaria n.º 359/96](https://diariodarepublica.pt/dr/detalhe/portaria/359-1996-406707), publicado em 1996-08-19.
 
 Mapa II a que se refere o artigo 12.º
 

@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '1998-08-11'
     amending: pt:dre:468801:por
-    amending_title: Decreto-Lei n.º 82/97; Decreto-Lei n.º 249/98
+    amending_title: Decreto-Lei n.º 82/97; Decreto-Lei n.º 249/98; Portaria n.º 1173/92; Despacho Normativo n.º 716/94
     changes:
     - Revoga Artigo 1.º
     - Revoga Artigo 2.º
@@ -121,7 +121,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:54:13Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 82/97; Decreto-Lei
-    n.º 249/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-353-89.alteracoes.json'
+    n.º 249/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-353-89.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 1173/92; Despacho Normativo n.º 716/94.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -670,3 +672,15 @@ Quadro do pessoal
 Mapa a que se refere o n.º 1 do artigo 27.º
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23800/45164528.pdf)
+
+Alteração ao quadro do pessoal (Portaria n.º 1173/92):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/294b00/58895890.pdf)
+
+Alteração ao quadro de pessoal (Despacho Normativo n.º 716/94):
+
+É criado no quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexo ao [Decreto-Lei n.º 353/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019), de 16 de Outubro, na parte referente à inspecção do sector empresarial do Estado, um lugar de inspector de finanças superior, a extinguir quando vagar.
+
+> Alterado pelo/a [Despacho Normativo n.º 716/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/716-1994-618564), publicado em 1994-10-14.
+
+> Alterado pelo/a [Portaria n.º 1173/92](https://diariodarepublica.pt/dr/detalhe/portaria/1173-1992-624267), publicado em 1992-12-22.

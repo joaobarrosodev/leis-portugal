@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1968-07-18'
+  consolidation_date: '1980-08-12'
 version_history:
   file: decreto-lei-46350.versoes.json
   count: 2
@@ -41,12 +41,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1968-07-18'
+  - date: '1980-08-12'
     amending: pt:dre:272629:por
-    amending_title: Decreto-Lei n.º 48489; Rectificação
+    amending_title: Decreto-Lei n.º 48489; Rectificação; Portaria n.º 505/80; Portaria n.º 500/80
     changes:
     - Altera Artigo 15.º
     - Retifica Artigo 20
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,9 @@ provenance:
   generated_at: '2026-10-22T21:53:23Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48489. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46350.alteracoes.json. Retificações
-    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação. Anexos e quadros de alteradores
+    triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py): Portaria
+    n.º 505/80; Portaria n.º 500/80.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -517,6 +520,18 @@ Paços do Governo da República, 22 de Maio de 1965. - AMÉRICO DEUS RODRIGUES T
 Mapa a que se refere o artigo 10.º do Decreto-Lei n.º 46350, de 22 de Maio de 1965
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1965/05/11400/07180724.pdf)
+
+Substituição do quadro de pessoal dos Arquivos Distritais de Aveiro, Beja, Castelo Branco, Faro, Guarda, Portalegre, Santarém, Setúbal, Viana do Castelo e Viseu (Portaria n.º 505/80):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18500/21472147.pdf)
+
+Substituição do quadro de pessoal da Biblioteca Pública e Arquivo Distrital de Bragança, Biblioteca Pública e Arquivo Distrital de Leiria e Biblioteca Pública e Arquivo Distrital de Vila Real (Portaria n.º 500/80):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18500/21442144.pdf)
+
+> Alterado pelo/a [Portaria n.º 500/80](https://diariodarepublica.pt/dr/detalhe/portaria/500-1980-470664), publicado em 1980-08-12.
+
+> Alterado pelo/a [Portaria n.º 505/80](https://diariodarepublica.pt/dr/detalhe/portaria/505-1980-470645), publicado em 1980-08-12.
 
 Ministério da Educação Nacional, 22 de Maio de 1965. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.
 

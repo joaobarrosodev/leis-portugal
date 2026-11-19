@@ -62,12 +62,19 @@
      "title": "Portaria n.º 345/93",
      "published": "1993-03-23",
      "dre_path": "/dr/detalhe/portaria/345-1993-638920"
+    },
+    {
+     "id": "pt:dre:221683:por",
+     "title": "Portaria n.º 558/86",
+     "published": "1986-09-27",
+     "dre_path": "/dr/detalhe/portaria/558-1986-221683"
     }
    ],
    "changes": [
     "Altera Artigo 4.º",
     "Altera Artigo 5.º",
-    "Adita Artigo 19.º-A"
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 28"
    ],
    "fragments": [
     "2f6cd279a9e948af",
@@ -104,7 +111,7 @@
     "18b9e7a9d1cdabec",
     "c7bd5582844dff4b",
     "53114a37c457113b",
-    "50c39cac4106c62c"
+    "7f52e10063382820"
    ]
   }
  ],
@@ -611,13 +618,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 27.º — (Quadro de pessoal)\n\nO quadro de pessoal do Centro é o constante do anexo a este Regulamento."
   },
-  "50c39cac4106c62c": {
+  "7f52e10063382820": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 28.º — (Ajustamentos de distribuição de competências)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 28.º — (Ajustamentos de distribuição de competências)\n\n1 - À medida que se for desenvolvendo e consolidando a informatização dos serviços e até que, pelo dispositivo legal adequado, se torne possível e conveniente efectuar a revisão do presente Regulamento, pode o conselho directivo do Centro proceder aos ajustamentos indispensáveis em matéria de distribuição de competências e consequente afectação dos respectivos recursos humanos.\n\n2 - Os ajustamentos referidos no número anterior não podem representar desvios à concepção orgânica que informa o presente Regulamento.\n\nQuadro de pessoal do Centro Regional de Segurança Social de Aveiro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/17100/22362242.pdf)"
+   "in_force_from": "1993-03-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 558/86](https://diariodarepublica.pt/dr/detalhe/portaria/558-1986-221683), publicado em 1986-09-27."
+   ],
+   "markdown": "###### Artigo 28.º — (Ajustamentos de distribuição de competências)\n\n1 - À medida que se for desenvolvendo e consolidando a informatização dos serviços e até que, pelo dispositivo legal adequado, se torne possível e conveniente efectuar a revisão do presente Regulamento, pode o conselho directivo do Centro proceder aos ajustamentos indispensáveis em matéria de distribuição de competências e consequente afectação dos respectivos recursos humanos.\n\n2 - Os ajustamentos referidos no número anterior não podem representar desvios à concepção orgânica que informa o presente Regulamento.\n\nQuadro de pessoal do Centro Regional de Segurança Social de Aveiro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/17100/22362242.pdf)\n\nAlteração ao quadro de pessoal, no que concerne ao pessoal de informática (Portaria n.º 558/86):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/22300/27682768.pdf)\n\n> Alterado pelo/a [Portaria n.º 558/86](https://diariodarepublica.pt/dr/detalhe/portaria/558-1986-221683), publicado em 1986-09-27."
   }
  }
 }

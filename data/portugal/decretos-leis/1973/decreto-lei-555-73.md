@@ -45,7 +45,8 @@ version_history:
     changes: []
   - date: '2001-03-30'
     amending: pt:dre:327299:por
-    amending_title: Decreto-Lei n.º 326/78; Decreto-Lei n.º 346/78; Decreto-Lei n.º 311/79; Decreto-Lei n.º 103/2001
+    amending_title: Decreto-Lei n.º 326/78; Decreto-Lei n.º 346/78; Decreto-Lei n.º 311/79; Decreto-Lei n.º 103/2001; Portaria
+      n.º 726/79; Portaria n.º 1064/80; Portaria n.º 17/81
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 5.º
@@ -58,6 +59,7 @@ version_history:
     - Altera Artigo 46.º
     - Altera Artigo 47.º
     - Revoga Artigo 85.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -84,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:28:51Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 326/78; Decreto-Lei
-    n.º 346/78; Decreto-Lei n.º 311/79; Decreto-Lei n.º 103/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-555-73.alteracoes.json'
+    n.º 346/78; Decreto-Lei n.º 311/79; Decreto-Lei n.º 103/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-555-73.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 726/79; Portaria n.º 1064/80; Portaria n.º 17/81.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1181,10 +1185,28 @@ Serviços Centrais
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/25100/20012015.pdf)
 
+Lugares aumentados ao quadro de pessoal do Gabinete do Registo Nacional (Portaria n.º 726/79, quadro III):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30003/00560057.pdf)
+
+> Alterado pelo/a [Portaria n.º 726/79](https://diariodarepublica.pt/dr/detalhe/portaria/726-1979-231157), publicado em 1979-12-31.
+
 MAPA II
 
 Quadro do pessoal do Centro de Informática do Ministério da Justiça
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/25100/20012015.pdf)
+
+Lugar aumentado ao quadro de pessoal do Centro de Informática do Ministério da Justiça (Portaria n.º 1064/80, mapa VI):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
+
+Quadro do pessoal do Centro de Informática do Ministério da Justiça, alterado de acordo com o quadro anexo à Portaria n.º 17/81:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/00700/00550059.pdf)
+
+> Alterado pelo/a [Portaria n.º 1064/80](https://diariodarepublica.pt/dr/detalhe/portaria/1064-1980-459894), publicado em 1980-12-15.
+
+> Alterado pelo/a [Portaria n.º 17/81](https://diariodarepublica.pt/dr/detalhe/portaria/17-1981-570342), publicado em 1981-01-09.
 
 O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias.

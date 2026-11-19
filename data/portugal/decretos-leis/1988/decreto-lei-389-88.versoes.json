@@ -22,7 +22,7 @@
    ]
   },
   {
-   "date": "1990-10-18",
+   "date": "1997-01-11",
    "future": false,
    "acts": [
     {
@@ -36,12 +36,25 @@
      "title": "Declaração",
      "published": "1988-12-31",
      "dre_path": "/dr/detalhe/declaracao/1988-199605"
+    },
+    {
+     "id": "pt:dre:406707:por",
+     "title": "Portaria n.º 359/96",
+     "published": "1996-08-19",
+     "dre_path": "/dr/detalhe/portaria/359-1996-406707"
+    },
+    {
+     "id": "pt:dre:302128:por",
+     "title": "Portaria n.º 18/97",
+     "published": "1997-01-06",
+     "dre_path": "/dr/detalhe/portaria/18-1997-302128"
     }
    ],
    "changes": [
     "Altera Artigo 13.º",
     "Retifica Artigo 22",
-    "Retifica Artigo 15"
+    "Retifica Artigo 15",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "a3c12ea239ac7005",
@@ -74,7 +87,7 @@
     "1a5bba7bd16e109c",
     "a8fc464fe066e2af",
     "26bd20b0f93e5766",
-    "473cfee82a9fd560"
+    "f7e9aac92cd74bbb"
    ]
   }
  ],
@@ -291,7 +304,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 13.º",
-   "in_force_from": "1990-10-18",
+   "in_force_from": "1997-01-11",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 317/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1990-555834), publicado em 1990-10-13."
    ],
@@ -309,7 +322,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º",
-   "in_force_from": "1990-10-18",
+   "in_force_from": "1997-01-11",
    "changed_by": [
     "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-199605), publicado em 1988-12-31."
    ],
@@ -371,13 +384,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 22.º\n\n1 - O disposto no n.º 2 do artigo 4.º do presente diploma entra em vigor no ano lectivo de 1989-1990.\n\n2 - Para efeitos do preceituado no número anterior, os conselhos científicos, quando for caso disso, remeterão as respectivas propostas de planos de estudo à Direcção-Geral do Ensino Superior até 31 de Janeiro de 1989.\n\n3 - Os institutos devem assegurar até ao termo do ano lectivo de 1994-1995, como limite máximo, a leccionação dos planos de estudo dos cursos de bacharelato que tenham uma duração superior à prevista no n.º 2 do artigo 4.º do presente diploma, para os alunos que nele estejam inscritos até ao termo do ano lectivo de 1988-1989 ou que neles desejem reingressar até ao início do ano lectivo de 1993-1994."
   },
-  "473cfee82a9fd560": {
+  "f7e9aac92cd74bbb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 23.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 23.º\n\n1 - Não serão extintos os lugares dos docentes dos quadros transitórios anexos ao presente diploma que requeiram a passagem à situação de licença ilimitada, nem daqueles que requeiram licença sem vencimento ao abrigo do disposto no [Decreto-Lei n.º 519-E1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-e1-1979-157055), de 29 de Dezembro.\n\n2 - Os docentes referidos no número anterior terão o direito de reocupar as vagas a que derem origem, mediante despacho do Ministro da Educação, a solicitação dos interessados, publicado no Diário da República.\n\n3 - As disposições referidas nos números anteriores são aplicáveis aos docentes dos quadros transitórios dos Institutos Superiores de Contabilidade e Administração de Aveiro, Coimbra, Lisboa e Porto.\n\nVisto e aprovado em Conselho de Ministros de 25 de Agosto de 1988. - Aníbal António Cavaco Silva - Fernando Manuel Barbosa Faria de Oliveira - Roberto Artur da Luz Carneiro.\n\nPromulgado em 12 de Outubro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Outubro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa I a que se refere o n.º 1 do artigo 8.º\n\nQuadro do pessoal docente dos Institutos Superiores de Engenharia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24700/43424346.pdf)\n\nMapa II a que se refere o artigo 12.º\n\nQuadro transitório de pessoal docente dos Institutos Superiores de Engenharia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24700/43424346.pdf)\n\nMapa III a que se refere o n.º 1 do artigo 13.º\n\nQuadro transitório de pessoal docente dos Institutos Superiores de Engenharia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24700/43424346.pdf)\n\nMapa IV a que as refere o artigo 20.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24700/43424346.pdf)"
+   "in_force_from": "1997-01-11",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 18/97](https://diariodarepublica.pt/dr/detalhe/portaria/18-1997-302128), publicado em 1997-01-06.",
+    "Alterado pelo/a [Portaria n.º 359/96](https://diariodarepublica.pt/dr/detalhe/portaria/359-1996-406707), publicado em 1996-08-19."
+   ],
+   "markdown": "###### Artigo 23.º\n\n1 - Não serão extintos os lugares dos docentes dos quadros transitórios anexos ao presente diploma que requeiram a passagem à situação de licença ilimitada, nem daqueles que requeiram licença sem vencimento ao abrigo do disposto no [Decreto-Lei n.º 519-E1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-e1-1979-157055), de 29 de Dezembro.\n\n2 - Os docentes referidos no número anterior terão o direito de reocupar as vagas a que derem origem, mediante despacho do Ministro da Educação, a solicitação dos interessados, publicado no Diário da República.\n\n3 - As disposições referidas nos números anteriores são aplicáveis aos docentes dos quadros transitórios dos Institutos Superiores de Contabilidade e Administração de Aveiro, Coimbra, Lisboa e Porto.\n\nVisto e aprovado em Conselho de Ministros de 25 de Agosto de 1988. - Aníbal António Cavaco Silva - Fernando Manuel Barbosa Faria de Oliveira - Roberto Artur da Luz Carneiro.\n\nPromulgado em 12 de Outubro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 14 de Outubro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa I a que se refere o n.º 1 do artigo 8.º\n\nQuadro do pessoal docente dos Institutos Superiores de Engenharia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24700/43424346.pdf)\n\nSubstituição do quadro de pessoal docente do Instituto Superior de Engenharia do Instituto Politécnico do Porto (Portaria n.º 359/96):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/191b00/25762576.pdf)\n\nSubstituição do quadro de pessoal docente do Instituto Superior de Engenharia do Instituto Politécnico de Coimbra (Portaria n.º 18/97):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/01/004b00/00440044.pdf)\n\n> Alterado pelo/a [Portaria n.º 18/97](https://diariodarepublica.pt/dr/detalhe/portaria/18-1997-302128), publicado em 1997-01-06.\n\n> Alterado pelo/a [Portaria n.º 359/96](https://diariodarepublica.pt/dr/detalhe/portaria/359-1996-406707), publicado em 1996-08-19.\n\nMapa II a que se refere o artigo 12.º\n\nQuadro transitório de pessoal docente dos Institutos Superiores de Engenharia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24700/43424346.pdf)\n\nMapa III a que se refere o n.º 1 do artigo 13.º\n\nQuadro transitório de pessoal docente dos Institutos Superiores de Engenharia\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24700/43424346.pdf)\n\nMapa IV a que as refere o artigo 20.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24700/43424346.pdf)"
   }
  }
 }

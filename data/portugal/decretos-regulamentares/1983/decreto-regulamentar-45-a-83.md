@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1984-06-20'
+  consolidation_date: '1987-06-07'
 version_history:
   file: decreto-regulamentar-45-a-83.versoes.json
   count: 2
@@ -41,14 +41,15 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1984-06-20'
+  - date: '1987-06-07'
     amending: pt:dre:386655:por
-    amending_title: Decreto Regulamentar n.º 44/84
+    amending_title: Decreto Regulamentar n.º 44/84; Portaria n.º 461/87
     changes:
     - Adita Artigo 14.º-A
     - Adita Artigo 14.º-B
     - Adita Artigo 16.º-A
     - Adita Artigo 16.º-B
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:07:43Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 44/84. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1983/decreto-regulamentar-45-a-83.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1983/decreto-regulamentar-45-a-83.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 461/87.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -400,3 +403,9 @@ MAPA A
 MAPA B
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)
+
+Quadro de pessoal substituído pelo anexo IX da Portaria n.º 461/87:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/12600/21902218.pdf)
+
+> Alterado pelo/a [Portaria n.º 461/87](https://diariodarepublica.pt/dr/detalhe/portaria/461-1987-421818), publicado em 1987-06-02.

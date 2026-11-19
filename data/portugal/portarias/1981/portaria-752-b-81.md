@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1983-03-17'
+  consolidation_date: '1988-03-21'
 version_history:
   file: portaria-752-b-81.versoes.json
   count: 2
@@ -41,11 +41,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1983-03-17'
+  - date: '1988-03-21'
     amending: pt:dre:310462:por
-    amending_title: Portaria n.º 283/83
+    amending_title: Portaria n.º 283/83; Portaria n.º 507/83; Portaria n.º 541/85; Portaria n.º 796/85; Portaria n.º 451/87;
+      Portaria n.º 162/88
     changes:
     - Altera Artigo unidades 10-10
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +74,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:53:51Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 283/83. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-752-b-81.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-752-b-81.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 507/83; Portaria n.º 541/85; Portaria n.º 796/85; Portaria n.º 451/87; Portaria n.º 162/88.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,3 +181,33 @@ Quadro de Pessoal do Centro de Saúde Mental de Leiria
 Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 400$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.
 
 > Alterado pelo/a [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), publicado em 1983-03-17.
+
+Alteração ao quadro de pessoal, na parte referente ao pessoal de enfermagem (Portaria n.º 507/83):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10100/15531553.pdf)
+
+Alteração ao quadro de pessoal, na parte referente ao pessoal técnico superior (pessoal médico) (Portaria n.º 541/85):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/17700/23552355.pdf)
+
+Reestruturação do quadro de pessoal, no que se refere ao pessoal operário e auxiliar (Portaria n.º 796/85):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24400/34993499.pdf)
+
+Alteração ao quadro de pessoal, na parte referente ao pessoal de diagnóstico e terapêutica (Portaria n.º 451/87):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/12300/21392141.pdf)
+
+Alteração ao quadro de pessoal (Portaria n.º 162/88):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06300/10731113.pdf)
+
+> Alterado pelo/a [Portaria n.º 162/88](https://diariodarepublica.pt/dr/detalhe/portaria/162-1988-285877), publicado em 1988-03-16.
+
+> Alterado pelo/a [Portaria n.º 451/87](https://diariodarepublica.pt/dr/detalhe/portaria/451-1987-421776), publicado em 1987-05-29.
+
+> Alterado pelo/a [Portaria n.º 507/83](https://diariodarepublica.pt/dr/detalhe/portaria/507-1983-451050), publicado em 1983-05-03.
+
+> Alterado pelo/a [Portaria n.º 541/85](https://diariodarepublica.pt/dr/detalhe/portaria/541-1985-180195), publicado em 1985-08-03.
+
+> Alterado pelo/a [Portaria n.º 796/85](https://diariodarepublica.pt/dr/detalhe/portaria/796-1985-178095), publicado em 1985-10-23.

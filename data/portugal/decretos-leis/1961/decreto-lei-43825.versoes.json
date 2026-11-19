@@ -23,10 +23,17 @@
      "title": "Decreto n.º 31/78",
      "published": "1978-04-03",
      "dre_path": "/dr/detalhe/decreto/31-1978-446964"
+    },
+    {
+     "id": "pt:dre:679864:por",
+     "title": "Decreto-Lei n.º 139/72",
+     "published": "1972-04-29",
+     "dre_path": "/dr/detalhe/decreto-lei/139-1972-679864"
     }
    ],
    "changes": [
-    "Altera Artigo 21.º"
+    "Altera Artigo 21.º",
+    "Altera Artigo 117"
    ],
    "fragments": [
     "c488eec21ead3ded",
@@ -146,7 +153,7 @@
     "6bb0995c2c1d2b37",
     "adb3e650c21b6683",
     "93900b26db15c1ac",
-    "236c75d98f6db2d5"
+    "6b0c497c94857236"
    ]
   }
  ],
@@ -1097,13 +1104,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 116.º\n\nConsideram-se revogadas as disposições estabelecidas nos Decretos-Leis n.º 35957, de 19 de Novembro de 1946, n.º 36652, de 6 de Dezembro de 1947, n.º 37204, de 4 de Dezembro de 1948, n.º 38069, de 24 de Novembro de 1950, n.º 38227, de 18 de Abril de 1951, n.º 38501, de 10 de Novembro de 1951, n.º 38723, de 15 de Abril de 1952, n.º 38858, de 11 de Agosto de 1952, n.º 39402, de 26 de Outubro de 1953, e n.º 39711, de 29 de Junho de 1954, e nos Decretos n.º 40084, de 11 de Março de 1955, n.º 40952, de 28 de Dezembro de 1956, e n.º 41032, de 18 de Março de 1957."
   },
-  "236c75d98f6db2d5": {
+  "6b0c497c94857236": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 117.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 117.º\n\nO presente diploma entra em vigor em 1 de Agosto do ano corrente.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 27 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nQuadro do pessoal do Laboratório Nacional de Engenharia Civil\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/17300/09200929.pdf)\n\nMinistério das Obras Públicas, 27 de Julho de 1961. O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira."
+   "in_force_from": "1978-04-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 139/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1972-679864), publicado em 1972-04-29."
+   ],
+   "markdown": "###### Artigo 117.º\n\nO presente diploma entra em vigor em 1 de Agosto do ano corrente.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 27 de Julho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nQuadro do pessoal do Laboratório Nacional de Engenharia Civil\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/17300/09200929.pdf)\n\nMinistério das Obras Públicas, 27 de Julho de 1961. O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.\n\nAlteração ao quadro do pessoal do Laboratório Nacional de Engenharia Civil (Decreto-Lei n.º 139/72):\n\nArtigo 1.º São suprimidos vinte dos actuais cinquenta lugares de escriturário-dactilógrafo de 2.ª classe e, em sua substituição, é criado igual número de lugares de escriturário-dactilógrafo de 1.ª classe.\n\n> Alterado pelo/a [Decreto-Lei n.º 139/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1972-679864), publicado em 1972-04-29."
   }
  }
 }

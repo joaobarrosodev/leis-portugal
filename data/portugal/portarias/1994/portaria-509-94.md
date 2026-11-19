@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '1997-09-13'
     amending: pt:dre:650311:por
-    amending_title: Portaria n.º 956/97
+    amending_title: Portaria n.º 956/97; Portaria n.º 1008/95
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/509/1994/07/07/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:29:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 956/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-509-94.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-509-94.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 1008/95.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,4 +193,6 @@ Assinada em 17 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/155b00/36293630.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/08/191b00/52145214.pdf)
+
+> Alterado pelo/a [Portaria n.º 1008/95](https://diariodarepublica.pt/dr/detalhe/portaria/1008-1995-434776), publicado em 1995-08-19.

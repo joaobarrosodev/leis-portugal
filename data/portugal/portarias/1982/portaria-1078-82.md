@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1982-12-11'
+  consolidation_date: '1982-12-14'
 version_history:
   file: portaria-1078-82.versoes.json
   count: 2
@@ -41,12 +41,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1982-12-11'
+  - date: '1982-12-14'
     amending: pt:dre:379335:por
-    amending_title: Portaria n.º 1140/82
+    amending_title: Portaria n.º 1140/82; Portaria n.º 1149/82
     changes:
     - Altera Artigo unidades 22-22
     - Altera Artigo unidades 27-33
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:02:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1140/82. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-1078-82.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-1078-82.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 1149/82.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -257,6 +260,10 @@ Escrivão-adjunto (ver nota a) (ver nota b) ... 7
 Oficial judicial ... 4
 
 Escriturário judicial (ver nota a) (ver nota b) ... 9
+
+Oficial porteiro ... 1
+
+> Alterado pelo/a [Portaria n.º 1149/82](https://diariodarepublica.pt/dr/detalhe/portaria/1149-1982-379165), publicado em 1982-12-14.
 
 (nota a) Afecto ao serviço do ministério público:
 

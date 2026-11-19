@@ -88,6 +88,18 @@
      "title": "Decreto-Lei n.º 249/98",
      "published": "1998-08-11",
      "dre_path": "/dr/detalhe/decreto-lei/249-1998-438072"
+    },
+    {
+     "id": "pt:dre:624267:por",
+     "title": "Portaria n.º 1173/92",
+     "published": "1992-12-22",
+     "dre_path": "/dr/detalhe/portaria/1173-1992-624267"
+    },
+    {
+     "id": "pt:dre:618564:por",
+     "title": "Despacho Normativo n.º 716/94",
+     "published": "1994-10-14",
+     "dre_path": "/dr/detalhe/despacho-normativo/716-1994-618564"
     }
    ],
    "changes": [
@@ -145,7 +157,8 @@
     "Revoga Artigo 52.º",
     "Revoga Artigo 53.º",
     "Revoga Artigo 54.º",
-    "Adita Artigo 35.º-A"
+    "Adita Artigo 35.º-A",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "f3b199bb0a443965",
@@ -208,7 +221,7 @@
     "f5b49f7035aa4965",
     "c5c1c492cceeebfa",
     "67ef869d86efcb2d",
-    "63c47e83dd6c3bdf"
+    "a71e766befc71ef5"
    ]
   }
  ],
@@ -1233,15 +1246,17 @@
    ],
    "markdown": "###### Artigo 53.º — Regulamentação da Lei Orgânica da IGF\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
   },
-  "63c47e83dd6c3bdf": {
+  "a71e766befc71ef5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 54.º — Revogação do direito anterior",
    "in_force_from": "1998-08-11",
    "changed_by": [
-    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11."
+    "Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11.",
+    "Alterado pelo/a [Despacho Normativo n.º 716/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/716-1994-618564), publicado em 1994-10-14.",
+    "Alterado pelo/a [Portaria n.º 1173/92](https://diariodarepublica.pt/dr/detalhe/portaria/1173-1992-624267), publicado em 1992-12-22."
    ],
-   "markdown": "###### Artigo 54.º — Revogação do direito anterior\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11.\n\nVisto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 26 de Setembro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Outubro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nQuadro do pessoal\n\nMapa a que se refere o n.º 1 do artigo 27.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23800/45164528.pdf)"
+   "markdown": "###### Artigo 54.º — Revogação do direito anterior\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), publicado em 1998-08-11.\n\nVisto e aprovado em Conselho de Ministros de 20 de Julho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 26 de Setembro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Outubro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nQuadro do pessoal\n\nMapa a que se refere o n.º 1 do artigo 27.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23800/45164528.pdf)\n\nAlteração ao quadro do pessoal (Portaria n.º 1173/92):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/294b00/58895890.pdf)\n\nAlteração ao quadro de pessoal (Despacho Normativo n.º 716/94):\n\nÉ criado no quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexo ao [Decreto-Lei n.º 353/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1989-549019), de 16 de Outubro, na parte referente à inspecção do sector empresarial do Estado, um lugar de inspector de finanças superior, a extinguir quando vagar.\n\n> Alterado pelo/a [Despacho Normativo n.º 716/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/716-1994-618564), publicado em 1994-10-14.\n\n> Alterado pelo/a [Portaria n.º 1173/92](https://diariodarepublica.pt/dr/detalhe/portaria/1173-1992-624267), publicado em 1992-12-22."
   }
  }
 }

@@ -32,7 +32,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1970-12-22'
+  consolidation_date: '1983-01-04'
 version_history:
   file: decreto-lei-407-70.versoes.json
   count: 2
@@ -42,11 +42,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1970-12-22'
+  - date: '1983-01-04'
     amending: pt:dre:146056:por
-    amending_title: Decreto-Lei n.º 637/70
+    amending_title: Decreto-Lei n.º 637/70; Portaria n.º 741/81; Portaria n.º 739/81; Portaria n.º 846/81; Portaria n.º 847/81;
+      Portaria n.º 851/81; Portaria n.º 853/81; Portaria n.º 1069/81; Portaria n.º 179/82; Portaria n.º 262/82; Portaria n.º
+      7/83
     changes:
     - Altera Artigo 8.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -73,7 +76,10 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:15:02Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 637/70. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-407-70.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-407-70.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 741/81; Portaria n.º 739/81; Portaria n.º 846/81; Portaria n.º 847/81; Portaria n.º 851/81; Portaria n.º
+    853/81; Portaria n.º 1069/81; Portaria n.º 179/82; Portaria n.º 262/82; Portaria n.º 7/83.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -362,5 +368,65 @@ Presidência da República, 24 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOM
 Mapa anexo ao Decreto-Lei n.º 407/70
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1970/08/19500/11021106.pdf)
+
+Alteração do quadro de professores da Faculdade de Economia da Universidade do Porto, que passa a ser o constante do mapa anexo à Portaria n.º 741/81:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19800/23002300.pdf)
+
+Alteração do quadro de professores da Faculdade de Letras da Universidade do Porto, que passa a ser o constante do mapa anexo à Portaria n.º 739/81:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19800/22992299.pdf)
+
+Lugares extintos no quadro da Faculdade de Farmácia da Universidade de Coimbra e criados em sua substituição (mapas I e II anexos à Portaria n.º 846/81):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25642564.pdf)
+
+Lugares extintos no quadro da Faculdade de Medicina da Universidade de Coimbra e criados em sua substituição (mapas I e II anexos à Portaria n.º 847/81):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25652565.pdf)
+
+Lugares extintos no quadro da Faculdade de Medicina da Universidade de Lisboa e criados em sua substituição (mapas I e II anexos à Portaria n.º 851/81):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25672567.pdf)
+
+Alteração do quadro de professores da Faculdade de Direito da Universidade de Coimbra, que passa a ser o constante do mapa anexo à Portaria n.º 853/81:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25682568.pdf)
+
+Lugares extintos no quadro da Faculdade de Farmácia da Universidade de Lisboa e criados em sua substituição (mapas I e II anexos à Portaria n.º 1069/81):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28900/32823282.pdf)
+
+Lugares extintos no quadro da Faculdade de Medicina da Universidade do Porto e criados em sua substituição (mapas I e II anexos à Portaria n.º 179/82):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/03300/03080308.pdf)
+
+Alteração do quadro de professores do Instituto Superior de Agronomia, da Universidade Técnica de Lisboa, que passa a ser o constante do mapa anexo à Portaria n.º 262/82:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/05900/05540554.pdf)
+
+Alteração do quadro de professores do Instituto Superior de Economia, da Universidade Técnica de Lisboa, que passa a ser o constante do mapa anexo à Portaria n.º 7/83:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/00200/00070008.pdf)
+
+> Alterado pelo/a [Portaria n.º 1069/81](https://diariodarepublica.pt/dr/detalhe/portaria/1069-1981-567379), publicado em 1981-12-17.
+
+> Alterado pelo/a [Portaria n.º 179/82](https://diariodarepublica.pt/dr/detalhe/portaria/179-1982-600480), publicado em 1982-02-09.
+
+> Alterado pelo/a [Portaria n.º 262/82](https://diariodarepublica.pt/dr/detalhe/portaria/262-1982-600087), publicado em 1982-03-12.
+
+> Alterado pelo/a [Portaria n.º 7/83](https://diariodarepublica.pt/dr/detalhe/portaria/7-1983-540440), publicado em 1983-01-04.
+
+> Alterado pelo/a [Portaria n.º 739/81](https://diariodarepublica.pt/dr/detalhe/portaria/739-1981-577915), publicado em 1981-08-29.
+
+> Alterado pelo/a [Portaria n.º 741/81](https://diariodarepublica.pt/dr/detalhe/portaria/741-1981-577906), publicado em 1981-08-29.
+
+> Alterado pelo/a [Portaria n.º 846/81](https://diariodarepublica.pt/dr/detalhe/portaria/846-1981-563670), publicado em 1981-09-25.
+
+> Alterado pelo/a [Portaria n.º 847/81](https://diariodarepublica.pt/dr/detalhe/portaria/847-1981-563671), publicado em 1981-09-25.
+
+> Alterado pelo/a [Portaria n.º 851/81](https://diariodarepublica.pt/dr/detalhe/portaria/851-1981-563778), publicado em 1981-09-25.
+
+> Alterado pelo/a [Portaria n.º 853/81](https://diariodarepublica.pt/dr/detalhe/portaria/853-1981-563780), publicado em 1981-09-25.
 
 Ministério da Educação Nacional, 12 de Agosto de 1970. - O Ministro da Educação Nacional, José Veiga Simão.

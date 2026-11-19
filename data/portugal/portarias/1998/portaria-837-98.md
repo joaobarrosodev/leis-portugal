@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1999-02-13'
+  consolidation_date: '1999-07-28'
 version_history:
   file: portaria-837-98.versoes.json
   count: 2
@@ -52,13 +52,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1999-02-13'
+  - date: '1999-07-28'
     amending: pt:dre:169232:por
-    amending_title: Portaria n.º 102/99
+    amending_title: Portaria n.º 102/99; Portaria n.º 543/99
     changes:
     - Altera Artigo unidades 3-3
     - Altera Artigo unidades 8-8
     - Altera Artigo unidades 10-10
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/837/1998/09/30/p/dre/pt/html
@@ -85,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:11:26Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 102/99. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-837-98.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-837-98.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 543/99.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,4 +184,6 @@ Assinada em 31 de Julho de 1998.
 
 Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/09/226b00/49994999.pdf)
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/07/170b00/46394641.pdf)
+
+> Alterado pelo/a [Portaria n.º 543/99](https://diariodarepublica.pt/dr/detalhe/portaria/543-1999-352562), publicado em 1999-07-23.

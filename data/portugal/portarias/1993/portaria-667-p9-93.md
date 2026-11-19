@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '1997-09-13'
     amending: pt:dre:650310:por
-    amending_title: Portaria n.º 955/97
+    amending_title: Portaria n.º 955/97; Portaria n.º 959/94
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/667-p9/1993/07/14/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:04:56Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 955/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-p9-93.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-p9-93.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 959/94.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,4 +193,6 @@ Assinada em 14 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01820183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/10/248b00/64576457.pdf)
+
+> Alterado pelo/a [Portaria n.º 959/94](https://diariodarepublica.pt/dr/detalhe/portaria/959-1994-624809), publicado em 1994-10-26.

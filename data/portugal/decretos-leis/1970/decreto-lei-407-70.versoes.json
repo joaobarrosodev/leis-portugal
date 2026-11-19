@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1970-12-22",
+   "date": "1983-01-04",
    "future": false,
    "acts": [
     {
@@ -23,10 +23,71 @@
      "title": "Decreto-Lei n.º 637/70",
      "published": "1970-12-22",
      "dre_path": "/dr/detalhe/decreto-lei/637-1970-146056"
+    },
+    {
+     "id": "pt:dre:577906:por",
+     "title": "Portaria n.º 741/81",
+     "published": "1981-08-29",
+     "dre_path": "/dr/detalhe/portaria/741-1981-577906"
+    },
+    {
+     "id": "pt:dre:577915:por",
+     "title": "Portaria n.º 739/81",
+     "published": "1981-08-29",
+     "dre_path": "/dr/detalhe/portaria/739-1981-577915"
+    },
+    {
+     "id": "pt:dre:563670:por",
+     "title": "Portaria n.º 846/81",
+     "published": "1981-09-25",
+     "dre_path": "/dr/detalhe/portaria/846-1981-563670"
+    },
+    {
+     "id": "pt:dre:563671:por",
+     "title": "Portaria n.º 847/81",
+     "published": "1981-09-25",
+     "dre_path": "/dr/detalhe/portaria/847-1981-563671"
+    },
+    {
+     "id": "pt:dre:563778:por",
+     "title": "Portaria n.º 851/81",
+     "published": "1981-09-25",
+     "dre_path": "/dr/detalhe/portaria/851-1981-563778"
+    },
+    {
+     "id": "pt:dre:563780:por",
+     "title": "Portaria n.º 853/81",
+     "published": "1981-09-25",
+     "dre_path": "/dr/detalhe/portaria/853-1981-563780"
+    },
+    {
+     "id": "pt:dre:567379:por",
+     "title": "Portaria n.º 1069/81",
+     "published": "1981-12-17",
+     "dre_path": "/dr/detalhe/portaria/1069-1981-567379"
+    },
+    {
+     "id": "pt:dre:600480:por",
+     "title": "Portaria n.º 179/82",
+     "published": "1982-02-09",
+     "dre_path": "/dr/detalhe/portaria/179-1982-600480"
+    },
+    {
+     "id": "pt:dre:600087:por",
+     "title": "Portaria n.º 262/82",
+     "published": "1982-03-12",
+     "dre_path": "/dr/detalhe/portaria/262-1982-600087"
+    },
+    {
+     "id": "pt:dre:540440:por",
+     "title": "Portaria n.º 7/83",
+     "published": "1983-01-04",
+     "dre_path": "/dr/detalhe/portaria/7-1983-540440"
     }
    ],
    "changes": [
-    "Altera Artigo 8.º"
+    "Altera Artigo 8.º",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "fc45683e0dc118be",
@@ -40,7 +101,7 @@
     "2f8166f99685df99",
     "93b2be57b1c0203e",
     "f2d97f5685a7e149",
-    "e762d04126af6c70"
+    "ec46ea14728d887f"
    ]
   }
  ],
@@ -121,7 +182,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
-   "in_force_from": "1970-12-22",
+   "in_force_from": "1983-01-04",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
    ],
@@ -143,13 +204,24 @@
    "changed_by": [],
    "markdown": "###### Artigo 10.º\n\nQuando forem providos os quatro lugares de catalogador de 1.ª classe criados por este diploma no quadro da Faculdade de Direito da Universidade de Coimbra, considerar-se-ão extintos os dois lugares de catalogador de 2.ª classe do mesmo quadro, caducando também os contratos dos actuais dois catalogadores de 2.ª classe além do quadro."
   },
-  "e762d04126af6c70": {
+  "ec46ea14728d887f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 11.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 11.º\n\nOs encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1970 pelas disponibilidades da verba comum referida na parte final do n.º 2 do artigo 60.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 23 de Março de 1970, a qual poderá ser reforçada, nos termos previstos no n.º 3 da já citada disposição legal, se tal se mostrar necessário.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.\n\nPromulgado em 12 de Agosto de 1970.\n\nPublique-se.\n\nPresidência da República, 24 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMapa anexo ao Decreto-Lei n.º 407/70\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/08/19500/11021106.pdf)\n\nMinistério da Educação Nacional, 12 de Agosto de 1970. - O Ministro da Educação Nacional, José Veiga Simão."
+   "in_force_from": "1983-01-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1069/81](https://diariodarepublica.pt/dr/detalhe/portaria/1069-1981-567379), publicado em 1981-12-17.",
+    "Alterado pelo/a [Portaria n.º 179/82](https://diariodarepublica.pt/dr/detalhe/portaria/179-1982-600480), publicado em 1982-02-09.",
+    "Alterado pelo/a [Portaria n.º 262/82](https://diariodarepublica.pt/dr/detalhe/portaria/262-1982-600087), publicado em 1982-03-12.",
+    "Alterado pelo/a [Portaria n.º 7/83](https://diariodarepublica.pt/dr/detalhe/portaria/7-1983-540440), publicado em 1983-01-04.",
+    "Alterado pelo/a [Portaria n.º 739/81](https://diariodarepublica.pt/dr/detalhe/portaria/739-1981-577915), publicado em 1981-08-29.",
+    "Alterado pelo/a [Portaria n.º 741/81](https://diariodarepublica.pt/dr/detalhe/portaria/741-1981-577906), publicado em 1981-08-29.",
+    "Alterado pelo/a [Portaria n.º 846/81](https://diariodarepublica.pt/dr/detalhe/portaria/846-1981-563670), publicado em 1981-09-25.",
+    "Alterado pelo/a [Portaria n.º 847/81](https://diariodarepublica.pt/dr/detalhe/portaria/847-1981-563671), publicado em 1981-09-25.",
+    "Alterado pelo/a [Portaria n.º 851/81](https://diariodarepublica.pt/dr/detalhe/portaria/851-1981-563778), publicado em 1981-09-25.",
+    "Alterado pelo/a [Portaria n.º 853/81](https://diariodarepublica.pt/dr/detalhe/portaria/853-1981-563780), publicado em 1981-09-25."
+   ],
+   "markdown": "###### Artigo 11.º\n\nOs encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1970 pelas disponibilidades da verba comum referida na parte final do n.º 2 do artigo 60.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 23 de Março de 1970, a qual poderá ser reforçada, nos termos previstos no n.º 3 da já citada disposição legal, se tal se mostrar necessário.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.\n\nPromulgado em 12 de Agosto de 1970.\n\nPublique-se.\n\nPresidência da República, 24 de Agosto de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMapa anexo ao Decreto-Lei n.º 407/70\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/08/19500/11021106.pdf)\n\nAlteração do quadro de professores da Faculdade de Economia da Universidade do Porto, que passa a ser o constante do mapa anexo à Portaria n.º 741/81:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19800/23002300.pdf)\n\nAlteração do quadro de professores da Faculdade de Letras da Universidade do Porto, que passa a ser o constante do mapa anexo à Portaria n.º 739/81:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/19800/22992299.pdf)\n\nLugares extintos no quadro da Faculdade de Farmácia da Universidade de Coimbra e criados em sua substituição (mapas I e II anexos à Portaria n.º 846/81):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25642564.pdf)\n\nLugares extintos no quadro da Faculdade de Medicina da Universidade de Coimbra e criados em sua substituição (mapas I e II anexos à Portaria n.º 847/81):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25652565.pdf)\n\nLugares extintos no quadro da Faculdade de Medicina da Universidade de Lisboa e criados em sua substituição (mapas I e II anexos à Portaria n.º 851/81):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25672567.pdf)\n\nAlteração do quadro de professores da Faculdade de Direito da Universidade de Coimbra, que passa a ser o constante do mapa anexo à Portaria n.º 853/81:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25682568.pdf)\n\nLugares extintos no quadro da Faculdade de Farmácia da Universidade de Lisboa e criados em sua substituição (mapas I e II anexos à Portaria n.º 1069/81):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28900/32823282.pdf)\n\nLugares extintos no quadro da Faculdade de Medicina da Universidade do Porto e criados em sua substituição (mapas I e II anexos à Portaria n.º 179/82):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/03300/03080308.pdf)\n\nAlteração do quadro de professores do Instituto Superior de Agronomia, da Universidade Técnica de Lisboa, que passa a ser o constante do mapa anexo à Portaria n.º 262/82:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/05900/05540554.pdf)\n\nAlteração do quadro de professores do Instituto Superior de Economia, da Universidade Técnica de Lisboa, que passa a ser o constante do mapa anexo à Portaria n.º 7/83:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/00200/00070008.pdf)\n\n> Alterado pelo/a [Portaria n.º 1069/81](https://diariodarepublica.pt/dr/detalhe/portaria/1069-1981-567379), publicado em 1981-12-17.\n\n> Alterado pelo/a [Portaria n.º 179/82](https://diariodarepublica.pt/dr/detalhe/portaria/179-1982-600480), publicado em 1982-02-09.\n\n> Alterado pelo/a [Portaria n.º 262/82](https://diariodarepublica.pt/dr/detalhe/portaria/262-1982-600087), publicado em 1982-03-12.\n\n> Alterado pelo/a [Portaria n.º 7/83](https://diariodarepublica.pt/dr/detalhe/portaria/7-1983-540440), publicado em 1983-01-04.\n\n> Alterado pelo/a [Portaria n.º 739/81](https://diariodarepublica.pt/dr/detalhe/portaria/739-1981-577915), publicado em 1981-08-29.\n\n> Alterado pelo/a [Portaria n.º 741/81](https://diariodarepublica.pt/dr/detalhe/portaria/741-1981-577906), publicado em 1981-08-29.\n\n> Alterado pelo/a [Portaria n.º 846/81](https://diariodarepublica.pt/dr/detalhe/portaria/846-1981-563670), publicado em 1981-09-25.\n\n> Alterado pelo/a [Portaria n.º 847/81](https://diariodarepublica.pt/dr/detalhe/portaria/847-1981-563671), publicado em 1981-09-25.\n\n> Alterado pelo/a [Portaria n.º 851/81](https://diariodarepublica.pt/dr/detalhe/portaria/851-1981-563778), publicado em 1981-09-25.\n\n> Alterado pelo/a [Portaria n.º 853/81](https://diariodarepublica.pt/dr/detalhe/portaria/853-1981-563780), publicado em 1981-09-25.\n\nMinistério da Educação Nacional, 12 de Agosto de 1970. - O Ministro da Educação Nacional, José Veiga Simão."
   }
  }
 }

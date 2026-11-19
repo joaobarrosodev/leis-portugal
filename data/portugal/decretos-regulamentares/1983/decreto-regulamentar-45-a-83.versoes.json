@@ -20,7 +20,7 @@
    ]
   },
   {
-   "date": "1984-06-20",
+   "date": "1987-06-07",
    "future": false,
    "acts": [
     {
@@ -28,13 +28,20 @@
      "title": "Decreto Regulamentar n.º 44/84",
      "published": "1984-06-15",
      "dre_path": "/dr/detalhe/decreto-regulamentar/44-1984-386655"
+    },
+    {
+     "id": "pt:dre:421818:por",
+     "title": "Portaria n.º 461/87",
+     "published": "1987-06-02",
+     "dre_path": "/dr/detalhe/portaria/461-1987-421818"
     }
    ],
    "changes": [
     "Adita Artigo 14.º-A",
     "Adita Artigo 14.º-B",
     "Adita Artigo 16.º-A",
-    "Adita Artigo 16.º-B"
+    "Adita Artigo 16.º-B",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "023565b3d02cc2d7",
@@ -66,7 +73,7 @@
     "260a9f4ecd4b5740",
     "ef5b0c3fba044c32",
     "c87513905628a8d3",
-    "a508b9aba37fbbe0"
+    "0427462692b2bfeb"
    ]
   }
  ],
@@ -267,7 +274,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º-A",
-   "in_force_from": "1984-06-20",
+   "in_force_from": "1987-06-07",
    "changed_by": [
     "Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
    ],
@@ -277,7 +284,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º-B",
-   "in_force_from": "1984-06-20",
+   "in_force_from": "1987-06-07",
    "changed_by": [
     "Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
    ],
@@ -303,7 +310,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º-A",
-   "in_force_from": "1984-06-20",
+   "in_force_from": "1987-06-07",
    "changed_by": [
     "Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
    ],
@@ -313,7 +320,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 16.º-B",
-   "in_force_from": "1984-06-20",
+   "in_force_from": "1987-06-07",
    "changed_by": [
     "Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
    ],
@@ -351,13 +358,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 19.º\n\nAs despesas com o pessoal serão, até ao final do ano corrente, satisfeitas pelas verbas existentes no orçamento privativo da Secretaria de Estado da Família."
   },
-  "a508b9aba37fbbe0": {
+  "0427462692b2bfeb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 20.º\n\nAs dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais e do Ministro das Finanças e do Plano ou da Reforma Administrativa, quando respeitantes a problemas de ordem financeira ou de organização de serviços e de pessoal, respectivamente.\n\nFrancisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa - António José de Castro Bagão Félix - António Jorge de Figueiredo Lopes.\n\nPromulgado em 17 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 25 de Maio de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\nAnexo a que se refere o artigo 10.º\n\nMAPA A\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)\n\nMAPA B\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)"
+   "in_force_from": "1987-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 461/87](https://diariodarepublica.pt/dr/detalhe/portaria/461-1987-421818), publicado em 1987-06-02."
+   ],
+   "markdown": "###### Artigo 20.º\n\nAs dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais e do Ministro das Finanças e do Plano ou da Reforma Administrativa, quando respeitantes a problemas de ordem financeira ou de organização de serviços e de pessoal, respectivamente.\n\nFrancisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa - António José de Castro Bagão Félix - António Jorge de Figueiredo Lopes.\n\nPromulgado em 17 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 25 de Maio de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\nAnexo a que se refere o artigo 10.º\n\nMAPA A\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)\n\nMAPA B\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)\n\nQuadro de pessoal substituído pelo anexo IX da Portaria n.º 461/87:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/06/12600/21902218.pdf)\n\n> Alterado pelo/a [Portaria n.º 461/87](https://diariodarepublica.pt/dr/detalhe/portaria/461-1987-421818), publicado em 1987-06-02."
   }
  }
 }

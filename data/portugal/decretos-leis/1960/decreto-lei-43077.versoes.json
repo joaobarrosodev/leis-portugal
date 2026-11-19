@@ -29,6 +29,12 @@
      "title": "Decreto-Lei n.º 683/73",
      "published": "1973-12-21",
      "dre_path": "/dr/detalhe/decreto-lei/683-1973-195785"
+    },
+    {
+     "id": "pt:dre:314025:por",
+     "title": "Decreto-Lei n.º 47774",
+     "published": "1967-07-04",
+     "dre_path": "/dr/detalhe/decreto-lei/47774-1967-314025"
     }
    ],
    "changes": [
@@ -37,7 +43,8 @@
     "Altera Artigo 2.º",
     "Altera Artigo 10.º",
     "Altera Artigo 20.º",
-    "Altera Artigo 22.º"
+    "Altera Artigo 22.º",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "13d64ea65bda9821",
@@ -64,7 +71,7 @@
     "4e5707141b77dbec",
     "d67b71f5d8d1463e",
     "412cee414ab95fdb",
-    "5955cb4a01539e7f"
+    "bfb9001815d33fda"
    ]
   }
  ],
@@ -281,13 +288,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 23.º\n\nO pessoal menor da Repartição do Gabinete do Ministro da Defesa Nacional e do Secretariado-Geral da Defesa Nacional pode, eventualmente, ser designado entre sargentos e praças do Exército, da Armada ou da Força Aérea com as necessárias habilitações e aptidão física. Aos departamentos do Exército, da Marinha e da Aeronáutica pode ainda ser requisitado pessoal militar do activo, da reserva ou reformado para a satisfação das necessidades imprescindíveis dos serviços."
   },
-  "5955cb4a01539e7f": {
+  "bfb9001815d33fda": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 24.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 24.º\n\nO excesso de encargos decorrentes da presente reorganização relativamente à orgânica do Secretariado-Geral da Defesa Nacional, estabelecida pelo [Decreto-Lei n.º 39069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39069-1952-418469), de 31 de Dezembro de 1952, será no ano de 1960 suportado por conta da verba consignada a «Despesas extraordinárias - Defesa nacional - Para satisfação de despesas militares em harmonia com compromissos tomados internacionalmente».\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 18 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.\n\nQuadro I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16500/17431748.pdf)\n\nPresidência do Conselho, 18 de Julho de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.\n\nQuadro II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16500/17431748.pdf)\n\nPresidência do Conselho, 18 de Julho de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.\n\nQuadro III\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16500/17431748.pdf)\n\nPresidência do Conselho, 18 de Julho de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz."
+   "in_force_from": "1973-12-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47774](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47774-1967-314025), publicado em 1967-07-04."
+   ],
+   "markdown": "###### Artigo 24.º\n\nO excesso de encargos decorrentes da presente reorganização relativamente à orgânica do Secretariado-Geral da Defesa Nacional, estabelecida pelo [Decreto-Lei n.º 39069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39069-1952-418469), de 31 de Dezembro de 1952, será no ano de 1960 suportado por conta da verba consignada a «Despesas extraordinárias - Defesa nacional - Para satisfação de despesas militares em harmonia com compromissos tomados internacionalmente».\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 18 de Julho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.\n\nQuadro I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16500/17431748.pdf)\n\nAlteração ao quadro I (Decreto-Lei n.º 47774):\n\nArtigo 1.º As funções de presidente e de chefe da contabilidade do conselho administrativo do Secretariado-Geral da Defesa Nacional poderão ser exercidas, respectivamente, por um oficial superior, de preferência do serviço de administração militar, sem acumulação com as funções de chefe da secretaria do mesmo Secretariado-Geral, e por um major do serviço de administração militar, ambos do activo ou da reserva.\n\n§ único. O quadro I anexo ao [Decreto-Lei n.º 43077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43077-1960-501979), de 18 de Julho de 1960, considera-se alterado, de harmonia com o corpo do presente artigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 47774](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47774-1967-314025), publicado em 1967-07-04.\n\nPresidência do Conselho, 18 de Julho de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.\n\nQuadro II\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16500/17431748.pdf)\n\nPresidência do Conselho, 18 de Julho de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.\n\nQuadro III\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16500/17431748.pdf)\n\nPresidência do Conselho, 18 de Julho de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz."
   }
  }
 }

@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1979-05-19'
+  consolidation_date: '2003-03-07'
 version_history:
   file: decreto-lei-23-79.versoes.json
   count: 2
@@ -41,15 +41,17 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1979-05-19'
+  - date: '2003-03-07'
     amending: pt:dre:382641:por
-    amending_title: Decreto-Lei n.º 139/79; Declaração
+    amending_title: Decreto-Lei n.º 139/79; Declaração; Portaria n.º 168/88; Portaria n.º 75/89; Portaria n.º 287/2003 (2.ª
+      série); Portaria n.º 297/2003 (2.ª série)
     changes:
     - Altera Artigo 20.º
     - Altera Artigo 21.º
     - Retifica texto
     - Retifica Artigo 6
     - Retifica Artigo 25
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -77,7 +79,9 @@ provenance:
   generated_at: '2026-10-22T23:19:16Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 139/79. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-23-79.alteracoes.json.
-    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração. Anexos e quadros de alteradores triados «sem
+    alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py): Portaria n.º 168/88;
+    Portaria n.º 75/89; Portaria n.º 287/2003 (2.ª série); Portaria n.º 297/2003 (2.ª série).'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -482,5 +486,35 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 Mapa do pessoal, a que se refere o artigo 2.º do Decreto-Lei n.º 23/79
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/02/03800/02300234.pdf)
+
+Alteração ao quadro de pessoal (Portaria n.º 168/88, mapa I):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06600/11761197.pdf)
+
+Alteração ao quadro de pessoal (Portaria n.º 75/89):
+
+1.º É criado no quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, aprovado pelo [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411), de 14 de Fevereiro, com os ajustamentos efectuados pela [Portaria n.º 850/80](https://diariodarepublica.pt/dr/detalhe/portaria/850-1980-462792), de 22 de Outubro, um lugar de primeiro-assessor, letra B.
+
+2.º O lugar criado nos termos do número anterior será extinto quando vagar.
+
+Alteração ao quadro de pessoal (Portaria n.º 287/2003, 2.ª série):
+
+1.º E criado no quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, aprovado pelo [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411), de 14 de Fevereiro, com as alterações introduzidas pelo [Decreto-Lei n.º 268/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1991-687812), de 18 de Julho, e pelas portarias n.os [4/88](https://diariodarepublica.pt/dr/detalhe/portaria/4-1988-583457), de 6 de Janeiro, [168/88](https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766), de 19 de Março, [484/90](https://diariodarepublica.pt/dr/detalhe/portaria/484-1990-575323), de 29 de Junho, [441/93](https://diariodarepublica.pt/dr/detalhe/portaria/441-1993-665969), de 27 de Abril, e [1132/95](https://diariodarepublica.pt/dr/detalhe/portaria/1132-1995-564600), de 15 de Setembro, um lugar de assessor da carreira técnica superior, a extinguir quando vagar.
+
+2.º A criação do lugar referido no número anterior produz efeitos a partir de 9 de Julho de 2001.
+
+Alteração ao quadro de pessoal (Portaria n.º 297/2003, 2.ª série):
+
+1.º É criado no quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, aprovado pelo [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411), de 14 de Fevereiro, com as alterações introduzidas pelo [Decreto-Lei n.º 268/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1991-687812), de 18 de Julho, e pelas Portarias n.os [4/88](https://diariodarepublica.pt/dr/detalhe/portaria/4-1988-583457), de 6 de Janeiro, [168/88](https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766), de 19 de Março, [484/90](https://diariodarepublica.pt/dr/detalhe/portaria/484-1990-575323), de 29 de Junho, [441/93](https://diariodarepublica.pt/dr/detalhe/portaria/441-1993-665969), de 27 de Abril, e [1132/95](https://diariodarepublica.pt/dr/detalhe/portaria/1132-1995-564600), de 15 de Setembro, um lugar de assessor da carreira técnica superior, a extinguir quando vagar.
+
+2.º A criação do lugar referido no número anterior produz efeitos a partir de 9 de Julho de 2001.
+
+> Alterado pelo/a [Portaria n.º 168/88](https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766), publicado em 1988-03-19.
+
+> Alterado pelo/a [Portaria n.º 287/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/287-2003-2129369), publicado em 2003-03-04.
+
+> Alterado pelo/a [Portaria n.º 297/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/297-2003-3653934), publicado em 2003-03-07.
+
+> Alterado pelo/a [Portaria n.º 75/89](https://diariodarepublica.pt/dr/detalhe/portaria/75-1989-610447), publicado em 1989-02-02.
 
 Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.

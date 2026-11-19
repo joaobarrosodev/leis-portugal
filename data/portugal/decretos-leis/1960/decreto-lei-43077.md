@@ -43,7 +43,7 @@ version_history:
     changes: []
   - date: '1973-12-21'
     amending: pt:dre:199626:por
-    amending_title: Decreto-Lei n.º 49106; Decreto-Lei n.º 683/73
+    amending_title: Decreto-Lei n.º 49106; Decreto-Lei n.º 683/73; Decreto-Lei n.º 47774
     changes:
     - Altera Artigo 1.º
     - Altera Artigo 9.º
@@ -51,6 +51,7 @@ version_history:
     - Altera Artigo 10.º
     - Altera Artigo 20.º
     - Altera Artigo 22.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -77,7 +78,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:32:59Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49106; Decreto-Lei
-    n.º 683/73. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43077.alteracoes.json'
+    n.º 683/73. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43077.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Decreto-Lei n.º 47774.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -483,6 +486,14 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Va
 Quadro I
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/16500/17431748.pdf)
+
+Alteração ao quadro I (Decreto-Lei n.º 47774):
+
+Artigo 1.º As funções de presidente e de chefe da contabilidade do conselho administrativo do Secretariado-Geral da Defesa Nacional poderão ser exercidas, respectivamente, por um oficial superior, de preferência do serviço de administração militar, sem acumulação com as funções de chefe da secretaria do mesmo Secretariado-Geral, e por um major do serviço de administração militar, ambos do activo ou da reserva.
+
+§ único. O quadro I anexo ao [Decreto-Lei n.º 43077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43077-1960-501979), de 18 de Julho de 1960, considera-se alterado, de harmonia com o corpo do presente artigo.
+
+> Alterado pelo/a [Decreto-Lei n.º 47774](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47774-1967-314025), publicado em 1967-07-04.
 
 Presidência do Conselho, 18 de Julho de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.
 

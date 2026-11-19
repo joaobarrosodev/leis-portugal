@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1979-12-22'
+  consolidation_date: '1980-08-20'
 version_history:
   file: decreto-regulamentar-12-79.versoes.json
   count: 2
@@ -52,9 +52,9 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1979-12-22'
+  - date: '1980-08-20'
     amending: pt:dre:365890:por
-    amending_title: Decreto-Lei n.º 500/79; Declaração
+    amending_title: Decreto-Lei n.º 500/79; Declaração; Portaria n.º 531/80
     changes:
     - Altera Artigo 63.º
     - Altera Artigo 109.º
@@ -75,6 +75,7 @@ version_history:
     - Retifica Artigo 140
     - Retifica Artigo 51
     - Retifica Artigo 53
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -103,7 +104,9 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 500/79. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1979/decreto-regulamentar-12-79.alteracoes.json.
     Retificações aplicadas com um LLM, na ronda r3, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.
-    Retificações aplicadas com um LLM, na ronda r4, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM, na ronda r4, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 531/80.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -2051,6 +2054,12 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 MAPA I
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)
+
+Alteração ao mapa I anexo ao presente decreto regulamentar (mapa II da Portaria n.º 531/80):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19100/22702280.pdf)
+
+> Alterado pelo/a [Portaria n.º 531/80](https://diariodarepublica.pt/dr/detalhe/portaria/531-1980-471142), publicado em 1980-08-20.
 
 MAPA II
 
