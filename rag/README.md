@@ -301,7 +301,25 @@ O resultado foi 11 alteram mesmo o texto, 11 em dúvida e 58 não alteram:
 - **Os erros:** quadros de pessoal alterados "de acordo com o quadro anexo", áreas de zonas de caça, um "n.º 1.º passa a ter a seguinte redacção", uma portaria revogada por inteiro, e os Estatutos da Universidade de Coimbra.
 - **Por motivo da triagem:** "cita o original mas não lhe dá instruções" teve 8 em 24; "só aparece numa lista" teve 2 em 25; "não menciona o original" teve 0 em 22, mas as 3 dúvidas eram mudanças reais a anexos.
 
-Com 14% a 28% de erro, tirar o aviso faria o sistema responder com texto desatualizado, por isso o aviso fica. O que se aproveita é para os dados: a triagem deixa passar alterações reais, sobretudo em portarias que mexem em quadros e zonas de caça.
+Com 14% a 28% de erro, tirar o aviso faria o sistema responder com texto desatualizado, por isso o aviso fica.
+
+**Compostas: o segundo artigo no contexto, só com a pesquisa** (16/11/2026). As 100 compostas foram pesquisadas outra vez no índice de uso de 16/11, sem LLM. Usaram-se as mesmas consultas reescritas do `teste-reescrito` e o reranker cruzado, com os 30 candidatos de sempre. Conta-se uma pergunta quando os dois artigos que ela pede estão nos k primeiros resultados.
+
+| Os dois artigos nos primeiros… | 8 (hoje) | 10 | 12 | 16 | 20 | 30 | 45 |
+|---|--:|--:|--:|--:|--:|--:|--:|
+| Compostas (100) | 67 | 71 | 73 | **78** | 78 | 79 | 79 |
+
+- **Com 16 artigos no contexto, entram mais 11 perguntas.** Sete delas eram "não sei" no `teste-reescrito` e quatro já estavam certas. Acima de 16 só entra mais uma.
+- **As outras 21 falhas vêm da pesquisa, não do contexto.** Nelas, um dos artigos nem chega ao reranker:
+  - em 7, não está entre os 100 candidatos do BM25;
+  - em 14, está no BM25, mas abaixo dos 30 primeiros, que são os únicos que o reranker lê (6 entre o 31.º e o 45.º lugar, 3 entre o 46.º e o 60.º, 4 entre o 61.º e o 100.º e 1 além do 100.º).
+
+  Destas 21, 16 eram "não sei" no `teste-reescrito`. Com contexto de 16, o máximo que se pode converter é 7 dos 30 "não sei". Os outros 16 só se resolvem na pesquisa, com mais candidatos para o reranker (`maximo`) ou melhores candidatos do BM25.
+- **A deduplicação por artigo não tira nenhum artigo certo.** Em 36 perguntas, há cópias do mesmo artigo noutro diploma entre os 16 primeiros: ocupam lugares no contexto, mas não empurram os certos para fora.
+- **Custo de 16 artigos.** Com 8 artigos, o prompt tem em média 11,4 mil caracteres (cerca de 1.400 por artigo; mediu-se nos prompts do `teste-reescrito`). Com 16, deve ficar à volta de 22 mil, ainda por medir. A pesquisa com o reranker levou em média 59 s por pergunta, com a máquina carregada por outras tarefas.
+- **No código, um contexto maior obriga a mudar dois sítios.** O `passo_llm`, o `avaliar`, o `perguntar` e o `web` pedem 10 resultados à pesquisa. O `importar` do `passo_llm` lê as citações sobre os 8 primeiros (`[:8]` fixo).
+
+Ressalva: os 67 com dois artigos nos 8 não são as 67 certas do `teste-reescrito`, embora o número coincida. O índice mudou desde 09/11 e as certas dependem do LLM e dos juízes. Ainda não foi medido com o LLM se as respostas certas sobem com 16 artigos, nem se as sem resposta e as de premissa errada pioram com mais artigos no contexto. Por isso, o contexto continua em 8 (`ARTIGOS_NO_CONTEXTO`). O que se aproveita é para os dados: a triagem deixa passar alterações reais, sobretudo em portarias que mexem em quadros e zonas de caça.
 
 ## Principais tipos de erro (com reranker)
 
@@ -509,12 +527,170 @@ Os atos da 2.ª Série recolhidos desde 12/11 ficavam fora do índice por omiss�
 
 - **Com o reranker, só pela referência não perde nada nas perguntas reais.** Pioram 24 e melhoram 31, e só 1 das 24 tem um ato da 2.ª Série em 1.º lugar. Nas 54 da 2.ª Série, o «não sei» desce de 6 % para 2 %.
 - **Só com BM25, as reais perdem um pouco** (−3 @1, −7 @10), mesmo sem nenhum ato da 2.ª Série nos resultados. A causa provável são as estatísticas do BM25: os 950 mil pedaços a mais mudam a raridade de cada termo e o corte dos termos que estão em mais de 20 % dos pedaços. Ler mais candidatos até haver tantos como num índice sem a 2.ª Série não mudou nada (`bm25-reais-ref-fundo`). Para o resolver, os atos só pela referência teriam de ficar numa tabela de pesquisa à parte.
+- **Medido outra vez a 18/11**, no índice de uso de 17/11 contra um índice sem a 2.ª Série feito do mesmo export (`bm25-1711-uso` e `bm25-1711-sem-ii`, as 1.298 perguntas do conjunto por omissão, só BM25). A 2.ª Série custa 10 respostas certas (567 contra 577). Nas reais são 4 no 1.º lugar (94 contra 98) e 6 nos 10 primeiros (199 contra 205; 8 ganhos e 2 perdas). Os atos da 2.ª Série são 35 % dos 1.000 pedaços que o BM25 lê, mas ler 4.000 só recupera 1 real. **Decisão: fica como está.** A aplicação usa sempre o reranker, e com ele a perda não aparece. Uma tabela de pesquisa à parte mudaria o formato do índice, e as aplicações instaladas teriam de ser substituídas antes de o publicar.
 
 **Decisão: o `rag.indice` põe por omissão a 2.ª Série só pela referência** (feito na noite de 16/11: 357.148 diplomas, 2.532.562 pedaços, 90.053 só pela referência). Os deltas levam a tabela (`rag.dados`, com teste), e `rag.dados publicar` recusa um índice com ela sem `--com-so-referencia`. A aplicação 0.1.0 não conhece a tabela e poria a 2.ª Série na pesquisa em todo o acervo, por isso este índice só vai para o Hugging Face depois de lançar a aplicação nova.
 
 ### CNPD e TC
 
 As decisões da CNPD e os acórdãos do TC não estão no export das leis nem no índice. O TC chega às respostas pelo `normas-julgadas.jsonl`: o aviso de inconstitucionalidade, e a segunda resposta, a da jurisprudência. A CNPD ainda não entra no RAG.
+
+## Modo sem IA: o âmbito à vista (17/11/2026)
+
+O teste que levou a isto: «Quantos dias de férias tem um trabalhador por ano?», sem IA, dava em 1.º lugar o artigo 126.º da Lei Geral do Trabalho em Funções Públicas (LTFP), e na lista apareciam as Portarias 913/80 e 193/79 (30 dias, de um setor só). Quem lê não tinha como ver que o 1.º artigo era só da função pública. Três mudanças, nenhuma pede reconstruir o índice:
+
+- **A. Os 3 artigos mais prováveis, cada um com o âmbito** (`rag/ambito.py`, página e `rag/web.py`). No modo sem IA a página já não mostra um artigo como se fosse a resposta. Mostra os 3 primeiros, numerados, com uma etiqueta: «Função pública», «Direito da UE», «Só Açores», «Só Madeira», «Regulamento de 1980, sem versão consolidada» ou «Regime geral».
+- **B. A lei geral antes dos regimes de um setor.** Se a pergunta não fala da função pública, os diplomas da função pública levam um fator 0,8 no BM25 (`PRIOR_SETOR`). Com o reranker, contam um ponto a menos na ordenação (`RERANKER_SETOR`), mas só abaixo do nível 2 e nunca para o limiar do «não sei». Quando a pergunta cita o diploma, nada muda.
+- **C. Os regulamentos antigos atrás.** Portarias, despachos e avisos de antes de 1990 sem versão consolidada levam um fator 0,75 (`PRIOR_ANTIGO`) e um ponto a menos com o reranker (`RERANKER_ANTIGO`).
+
+Na pergunta das férias, com o reranker, o 1.º lugar passa a ser o artigo 239.º do Código do Trabalho, o 2.º o 126.º da LTFP e o 3.º o 238.º do Código do Trabalho, e as portarias saem da lista.
+
+| Medição | Antes | Com A, B e C |
+|---|--:|--:|
+| 1.298 perguntas, BM25: certas | 557 | 562 |
+| 281 reais, BM25: @1 / @10 | 90 / 193 | 94 / 194 |
+| 281 coloquiais, BM25: @1 / @10 | 30 / 85 | 31 / 86 |
+| 281 reais, reranker: @1 / @10 | 122 / 222 | 125 / 223 |
+| 281 reais, reranker: certas / «não sei» | 108 / 92 | **112** / 93 |
+
+- **Nenhum tipo piora** no conjunto completo (`bm25-indice-1611-ref` contra `bm25-ambito`). Os outros tipos ficam exatamente iguais.
+- **Com o reranker** (`cruzado-reais-sem-ambito` contra `cruzado-reais-ambito`, limiar 3): ganham-se 4 certas e não se perde nenhuma. As 4 são perguntas gerais de trabalho em que a LTFP passava à frente do Código do Trabalho: o período experimental, a contagem do período experimental, o trabalho noturno e quem define o horário. Mais 2 perguntas descem do 1.º para o 2.º lugar sem mudar a resposta.
+- **Sem afinar mais:** os fatores ficaram nos primeiros valores. Não foram ajustados à pergunta das férias nem às 281 reais.
+
+**Correção: artigos repostos depois de revogados** (`fontes.revogado`). Um artigo contava como revogado se alguma nota dissesse «Revogado», mesmo que uma alteração posterior o tivesse reposto. Era o caso dos artigos 1064.º a 1113.º do Código Civil (o arrendamento, revogado em 1990 e reposto pela Lei 6/2006). Agora conta a data de publicação de cada nota: o artigo só está revogado se a última revogação for posterior à última alteração. Se uma revogação não tiver data, ou tiver uma data impossível («1079-01-01»), o artigo continua revogado. Saem 159 artigos em vigor que contavam como revogados, 53 deles do Código Civil.
+
+- **Medido só com BM25** (`bm25-ambito` contra `bm25-ambito-revogado`, nas literais, revogadas, reais e coloquiais): as reais passam de 194 para 199 com o artigo nos 10 primeiros. As 5 que entram são perguntas de arrendamento (artigos 1101.º e 1110.º do Código Civil e o NRAU). Em 1.º lugar nada muda.
+- **Aviso a menos, certo:** na lit-166, o artigo 1069.º do Código Civil (forma do contrato de arrendamento) deixa de vir com o aviso «revogado», que estava errado. As 55 revogadas continuam todas com o aviso e o diploma revogatório certo.
+
+## Índice de 17/11: os blocos 1 e 2 da consolidação
+
+O índice foi reconstruído com o export de 17/11, que tem os 27 diplomas consolidados nos blocos 1 e 2 da ronda 113 (2.761 no total). Ficou em `rag/indice/indice-1711.sqlite`, ao lado do índice em uso, e leva 357.148 diplomas e 2.532.809 pedaços. Medições só da pesquisa, sem LLM e com o mesmo código nos dois índices:
+
+| Medição | Índice de 16/11 | Índice de 17/11 |
+|---|--:|--:|
+| 1.298 perguntas, BM25: certas | 565 | 567 |
+| 99 de texto alterado, BM25: texto certo em 1.º / nos 10 primeiros | 67 / 77 | 69 / 79 |
+| 99 de texto alterado, reranker: certas / «não sei» | 68 / 5 | 70 / 5 |
+
+- **Ganham-se 2 perguntas e não se perde nenhuma** (`bm25-1711-antes` contra `bm25-1711-depois`, `cruzado-alt-1711-*`): a alt-001 e a alt-058, as duas do Despacho Normativo n.º 61-C/95, que passou a ter o texto em vigor. Os outros tipos ficam exatamente iguais.
+- **Ainda não substitui o `indice.sqlite`:** a troca espera que acabem as medições da sessão das perguntas por artigo, que leem o índice em uso. O bloco 3 da consolidação ficou por aplicar.
+
+## Perguntas por artigo (piloto, 16/11/2026)
+
+Sem chave da API não há reescrita da pergunta numa consulta jurídica, e o BM25 recebe as palavras do dia a dia. Com a reescrita, o artigo certo em 1.º nas reais sobe de 42 % para 68 %. A ideia deste piloto é escrever uma vez, offline, perguntas de leigo para cada artigo e juntá-las aos termos do artigo. É o que na literatura se chama doc2query.
+
+**Como se fez** (`rag/perguntas_por_artigo.py`, dados em `rag/perguntas_artigo/`):
+- **Âmbito:** os artigos em vigor e não revogados do Código do Trabalho (anexo da Lei n.º 7/2009, 599), do NRAU (o articulado da Lei n.º 6/2006, 74) e do Código Civil, art. 1022.º a 1113.º (92). São 765 ao todo.
+  - O anexo do NRAU que republica o Código Civil fica de fora: é texto de 2006, e o texto em vigor está no DL 47344.
+  - Os revogados escolhem-se pela nota mais recente (`revogado_agora`). O `fontes.revogado` dava como revogados 50 artigos em vigor do Código Civil (1064.º a 1113.º), porque basta-lhe uma nota antiga «Revogado pelo…». Isso também os penaliza na pesquisa (abaixo, ressalvas).
+- **Geração:** 22 sessões do Claude (`claude-opus-5-5`), uma por lote de 35 artigos, com as regras de `REGRAS.md`.
+  - Cada sessão leu só as regras e o seu lote, sem acesso às perguntas de avaliação, e as regras não foram escritas a partir delas.
+  - O `importar` validou tudo: 3 a 5 perguntas por artigo, sem números de artigos nem nomes de diplomas. As 765 linhas passaram à primeira.
+  - Resultado: **3.078 perguntas**, com uma mediana de 14 palavras. Ficaram no commit antes de qualquer medição, e não se mudaram depois de ver os resultados.
+- **No índice:** as perguntas entram nos termos da coluna `texto` do FTS (peso 1, fixado antes de medir), só na redação em vigor do artigo.
+  - O texto do artigo, o que o reranker lê e o resto do índice não mudam.
+  - A tabela `perguntas_artigo` guarda as perguntas, para os deltas apagarem a linha do FTS com os mesmos termos (`rag.dados`, com testes).
+  - `rag.indice --com-perguntas` junta-as; por omissão fica desligado. `rag.dados publicar` recusa um índice com perguntas sem `--com-perguntas`, porque a aplicação 0.1.0 corrompia o FTS ao aplicar um delta.
+- **Medição sem batota:**
+  - «Antes» é uma cópia do índice de uso de 16/11; «depois» é a mesma cópia com as perguntas (`rag.perguntas_por_artigo juntar`). Os dois saem do mesmo export e só diferem nas perguntas.
+  - A medição é `rag.avaliar --sem-llm` com o mesmo código, e o `comparar` agrupa por âmbito e emparelha pergunta a pergunta.
+  - **Decide-se nas 155 perguntas do âmbito que nunca serviram para afinar**: 127 coloquiais e 28 reais novas (real-201…350). As 99 reais do Código do Trabalho são todas das 136 afinadas, e por isso ficam à parte.
+
+**BM25** (as 1.519 perguntas: o conjunto público, as 281 reais, as 281 coloquiais, as da UE e as da 2.ª Série; resumos `rag/resultados/pa-antes-bm25.json` e `pa-depois-bm25.json`):
+
+| Grupo | n | Artigo certo em 1.º (pontos) | Nos 10 primeiros | Ganhos / perdas no 1.º |
+|---|--:|--:|--:|--:|
+| **Âmbito, nunca afinaram (decisão)** | 155 | 15% → **55%** (+39) | 39% → **80%** | 69 / 8 |
+| âmbito: coloquial | 127 | 13% → **57%** (+45) | 35% → **82%** | 63 / 6 |
+| âmbito: real (novas) | 28 | 29% → **43%** (+14) | 57% → **71%** | 6 / 2 |
+| âmbito: real (afinadas) | 99 | 46% → **71%** (+24) | 80% → **97%** | 25 / 1 |
+| âmbito: premissa errada | 8 | 38% → 50% | 62% → 62% | 1 / 0 |
+| âmbito: compostas | 7 | 0% → 0% | 71% → 100% | 0 / 0 |
+| fora: coloquial | 154 | 9% → 7% | 26% → 22% | 0 / 3 |
+| fora: real (novas) | 117 | 26% → 25% | 68% → 67% | 0 / 2 |
+| fora: real (afinadas) | 37 | 14% → 14% | 49% → 49% | 0 / 0 |
+| fora: literais, temporais, revogadas, texto alterado, premissa errada, compostas (com as da UE e da 2.ª Série) | 837 | sem mudança | sem mudança | 0 / 0 |
+| **Fora do âmbito (todas)** | 1.145 | 58% → 57% | 80% → 79% | 0 / 5 |
+
+Nas reais, que são FAQs escritas por pessoas, o artigo certo em 1.º passa de 32 % para 41 % (90 → 116 de 281). Nas coloquiais passa de 11 % para 30 % (30 → 84 de 281).
+
+As perdas são de dois tipos:
+- dentro do âmbito, um artigo vizinho do mesmo código, que agora tem mais palavras de leigo, passa à frente do certo (falta para assistência a filho em vez de dispensa, denúncia pelo arrendatário em vez da do senhorio);
+- fora do âmbito, um artigo do Código do Trabalho passa à frente de um diploma que não tem perguntas (Lei n.º 15/2014, Portaria n.º 142-B/2012, DL 308/2007).
+
+Este segundo tipo é o custo de só uma parte do acervo ter perguntas. Alargá-las a outros diplomas também o reduz.
+
+**Com o reranker** (`--reranker cruzado --limiar 3`, a configuração da aplicação sem chave; as 562 reais e coloquiais, `pa-antes-reranker` e `pa-depois-reranker`). O reranker continua a ler só o caminho e o texto do artigo: as perguntas só mudam os candidatos que o BM25 lhe dá.
+
+| Grupo | n | Artigo certo em 1.º (pontos) | Nos 10 primeiros | Ganhos / perdas no 1.º |
+|---|--:|--:|--:|--:|
+| **Âmbito, nunca afinaram (decisão)** | 155 | 26% → **44%** (+18) | 49% → **79%** | 31 / 3 |
+| âmbito: coloquial | 127 | 27% → **47%** (+20) | 46% → **81%** | 29 / 3 |
+| âmbito: real (novas) | 28 | 21% → **29%** (+7) | 64% → **68%** | 2 / 0 |
+| âmbito: real (afinadas) | 99 | 66% → **69%** (+3) | 94% → **95%** | 4 / 1 |
+| fora: coloquial | 154 | 19% → 18% | 33% → 32% | 2 / 3 |
+| fora: real (novas) | 117 | 31% → 31% | 69% → 69% | 0 / 0 |
+| fora: real (afinadas) | 37 | 38% → 41% | 65% → 62% | 1 / 0 |
+| **Fora do âmbito (todas)** | 308 | 26% → **26%** | 51% → 50% | 3 / 3 |
+
+O artigo certo chega muito mais vezes aos candidatos: nos 10 primeiros passa de 49 % para 79 %. Mas o reranker, que compara a pergunta de leigo com o texto jurídico, só o põe em 1.º em parte dos casos. Com o limiar 3, o «não sei» no grupo da decisão fica em 75 % (era 75 %), e as respostas certas passam de 18 em 39 para 22 em 38.
+
+**Variante declarada antes de medir, em que o reranker também lê as perguntas do artigo** (`--reranker-com-perguntas`, só nas 254 do âmbito, `pa-depois-reranker-rp`):
+
+| Grupo | n | Artigo certo em 1.º (pontos) | Nos 10 primeiros | "Não sei" (limiar 3) | Certas nas respondidas |
+|---|--:|--:|--:|--:|--:|
+| **Âmbito, nunca afinaram** | 155 | 26% → **71%** (+45) | 49% → **85%** | 75% → **28%** | 46% (18/39) → **83% (92/111)** |
+| âmbito: coloquial | 127 | 27% → **76%** (+49) | 46% → 88% | | |
+| âmbito: real (novas) | 28 | 21% → **50%** (+29) | 64% → 68% | 39% → 21% | 29% (5/17) → 59% (13/22) |
+| âmbito: real (afinadas) | 99 | 66% → **82%** (+16) | 94% → 97% | | |
+
+É o maior ganho do piloto. Nas FAQs escritas por pessoas e que nunca afinaram, o artigo certo em 1.º passa de 6 em 28 para 14 em 28, com 8 ganhos e nenhuma perda. **Ainda não pode entrar**, por duas razões:
+1. Não foi medida fora do âmbito nem nas «sem resposta».
+2. Ao ler perguntas de leigo, o reranker dá notas mais altas, que é por isso que o «não sei» cai. O limiar 3 foi afinado para notas sobre texto jurídico, e pode passar a deixar responder onde devia recusar. Sobretudo num acervo em que só uma parte dos artigos tem perguntas.
+
+**Decisão:** o critério está cumprido. Com o reranker, nas 155 perguntas do âmbito que nunca afinaram, o artigo certo em 1.º sobe 18 pontos (mais de 10), e fora do âmbito fica igual. **Propõe-se alargar aos outros códigos**, com o custo abaixo. Antes de as pôr no índice de uso:
+- medir a variante do reranker com perguntas fora do âmbito e nas «sem resposta», e rever o limiar com ela;
+- medir outra vez com o `fontes.revogado` corrigido.
+
+O ganho da variante principal sozinha é sobretudo de candidatos (o @10), e só se transforma em respostas se o reranker também ler as perguntas ou se houver LLM.
+
+**Ressalvas:**
+- As coloquiais foram escritas por sessões do Claude, como as perguntas geradas. Partilham vocabulário, e isso pode inflacionar o ganho nelas, embora a geração nunca as tenha visto.
+- Nas FAQs escritas por pessoas, o ganho é menor e mais seguro: +14 pontos nas 28 novas (6 ganhos, 2 perdas; amostra pequena) e +24 nas 99 afinadas, que aqui servem de controlo, porque a geração também não as viu.
+- 99 das 127 coloquiais reescrevem reais afinadas, e por isso o nível absoluto delas está inflacionado. A diferença entre antes e depois continua justa: a pesquisa é a mesma nos dois índices.
+- Os 50 artigos do arrendamento do Código Civil dados como revogados pelo `fontes.revogado` (peso a priori 0,6, vão para trás e levam o aviso) baixam as perguntas de arrendamento nos dois índices. Entretanto corrigido (17/11): ver «Correção: artigos repostos depois de revogados» acima.
+- Não houve um índice construído de raiz com `--com-perguntas`. O `construir` chama a mesma função que o `juntar` (`juntar_perguntas`), e os testes confirmam que dá o mesmo FTS, também por deltas.
+
+**Custo de alargar** aos outros códigos principais (`Pesquisa.codigos_principais()`):
+- No índice de 16/11 são 58 diplomas com 15.910 artigos em vigor e não revogados (13,7 milhões de caracteres). Sem os 765 do piloto, ficam cerca de 15.150, o resto do Código Civil incluído.
+- O piloto gastou cerca de 2,3 milhões de tokens nas sessões (≈ 3.000 por artigo) e 3 minutos por lote de 35.
+- Alargar dá cerca de **430 lotes e 45 milhões de tokens**: umas 2 horas com 11 sessões em paralelo, mais a validação.
+- A lista dos «códigos principais» também traz alguns regulamentos e editais grandes que não são códigos: convém rever a lista antes de gerar.
+
+### Medição completa com o código novo (18/11/2026)
+
+As duas medições que faltavam antes de pôr as perguntas no índice de uso: a variante do reranker que lê as perguntas, agora também fora do âmbito e nas «sem resposta», e tudo com o `fontes.revogado` corrigido (código do main de 17/11, 48da30ab64d).
+
+- **Como:** as 667 reais, coloquiais e «sem resposta», com `--reranker cruzado --limiar 3`, em 7 partes de 96 por causa do corte de luz de 17/11. «Antes» é outra vez uma cópia byte a byte do índice de uso de 16/11; «depois» é essa cópia com as 765 entradas de perguntas. A parte 1 do «depois» deu no BM25 0 diferenças face à medição de 17/11. Resumos em `rag/resultados/pa2-antes-reranker.json`, `pa2-depois-reranker.json` e `pa2-depois-reranker-rp.json`, mais os do BM25 (`pa2-antes-bm25.json`, `pa2-depois-bm25.json`).
+- **Controlo:** o «antes» nas reais dá 112 certas, 125 no 1.º, 223 nos 10 primeiros e 93 «não sei», os mesmos números da medição do modo sem IA de 17/11.
+
+| Grupo | n | Antes | Perguntas só nos candidatos | O reranker também as lê |
+|---|--:|--:|--:|--:|
+| **Âmbito, nunca afinaram (decisão):** artigo certo em 1.º | 155 | 30% | 50% (32 ganhos / 1 perda) | **76%** (77 / 6) |
+| … nos 10 primeiros | 155 | 54% | 87% | **94%** |
+| … «não sei» (limiar 3) | 155 | 116 | 115 | **35** |
+| … certas nas respondidas | 155 | 54% (21/39) | 60% (24/40) | **83% (99/120)** |
+| âmbito: real (novas), FAQs escritas por pessoas: em 1.º | 28 | 25% | 32% | **64%** (11 / 0) |
+| … certas nas respondidas | 28 | 6/18 | 8/19 | **17/25** |
+| âmbito: real (afinadas), em 1.º | 99 | 71% | 74% | 83% |
+| **Fora do âmbito:** em 1.º | 308 | 25% | 26% (4 / 3) | 26% (4 / 3) |
+| … certas nas respondidas | 308 | 47/92 | 47/90 | 46/92 |
+| **«Sem resposta»:** respondeu quando devia recusar | 105 | 5 | 5 | **8** |
+
+- **Fora do âmbito não muda nada,** nas duas variantes. Era a primeira dúvida.
+- **As 3 «sem resposta» a mais** são todas de arrendamento: sem-024 e sem-060 (o senhorio pode aumentar a renda em 10 % ou 15 %?) e sem-051 (o coeficiente de 2026). O 1.º resultado é um artigo do piloto (NRAU 24.º e 51.º, Código Civil 1077.º), com notas entre 3,04 e 3,31, logo acima do limiar 3. É o risco previsto: ao ler perguntas de leigo, o reranker dá notas mais altas.
+- **Subir o limiar para todos não serve.** Com 3,35 voltam a ser 5 «sem resposta», mas fora do âmbito as certas caem de 46 para 40 (simulado com as notas gravadas, sem nova corrida). Um limiar mais alto só quando o 1.º artigo tem perguntas (≈ 3,35) evitaria isso. No grupo da decisão daria cerca de 92 certas em 111 respondidas, em vez de 99 em 120. Mas seria afinar com 3 casos, e fica por decidir.
+- As ressalvas de cima continuam: as coloquiais partilham o vocabulário das perguntas geradas, e o sinal mais seguro são as 28 reais novas (6 → 17 certas, sem perdas no 1.º; amostra pequena).
 
 ## Próximos passos
 

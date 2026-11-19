@@ -52,7 +52,7 @@ async function atualizarEstado() {
   estado = await api("/api/estado");
   const ia = $("#ia-atual");
   ia.hidden = false;
-  ia.textContent = estado.com_chave ? estado.descricao : "Sem IA: mostra o artigo mais provável";
+  ia.textContent = estado.com_chave ? estado.descricao : "Sem IA: mostra os artigos mais prováveis";
   const faixa = $("#faixa-estado");
   const p = estado.dados.progresso;
   const emCurso = ["a descarregar", "a verificar", "a descomprimir"].includes(p.fase);
@@ -197,6 +197,8 @@ async function avaliar(id, dados) {
   }
 }
 
+const SEM_IA_HIPOTESES = 3; // artigos mostrados em cima quando não há IA
+
 function desenharResposta(r) {
   const c = $("#modelo-resposta").content.firstElementChild.cloneNode(true);
   $(".r-pergunta", c).textContent = r.pergunta;
@@ -218,8 +220,16 @@ function desenharResposta(r) {
   } else if (r.com_llm) {
     corpo.textContent = r.texto;
   } else {
-    corpo.append(el("div", "Sem IA: este é o artigo mais provável, não uma resposta escrita.", "nota"));
-    corpo.append(el("strong", r.citacoes[0]?.rotulo || ""), el("div", r.citacoes[0]?.texto || "", "texto-artigo"));
+    // Sem IA não há resposta escrita: os 3 artigos mais prováveis, cada um com o âmbito (regime geral,
+    // função pública, só Açores…), para quem lê escolher o que se aplica ao seu caso.
+    corpo.append(el("div", "Sem IA: os artigos mais prováveis, por ordem. Veja qual se aplica ao seu caso; não é uma resposta escrita.", "nota"));
+    const hipoteses = [...r.citacoes.slice(0, 1), ...r.outros.slice(0, SEM_IA_HIPOTESES - 1)];
+    hipoteses.forEach((art, n) => {
+      const cabeca = el("div", "", "hipotese-cabeca");
+      cabeca.append(el("strong", `${n + 1}. ${art.rotulo}`));
+      if (art.ambito) cabeca.append(el("span", art.ambito, "ambito"));
+      corpo.append(cabeca, el("div", art.texto, "texto-artigo"));
+    });
   }
 
   const avisos = $(".r-avisos", c);
@@ -255,12 +265,14 @@ function desenharResposta(r) {
     }
     if (r.jurisprudencia_resto.length) $("ul", j).append(el("li", "e mais: " + r.jurisprudencia_resto.map((x) => `${x.n} ${x.sentido.toLowerCase()}`).join("; ")));
   }
-  if (r.outros.length) {
+  // Sem IA, os primeiros já estão em cima como hipóteses.
+  const outros = !r.com_llm && r.responde ? r.outros.slice(SEM_IA_HIPOTESES - 1) : r.outros;
+  if (outros.length) {
     const o = $(".r-outros", c);
     o.hidden = false;
-    for (const art of r.outros) {
+    for (const art of outros) {
       const d = el("details");
-      d.append(el("summary", art.rotulo), el("div", art.texto, "texto-artigo"));
+      d.append(el("summary", art.ambito ? `${art.rotulo} · ${art.ambito}` : art.rotulo), el("div", art.texto, "texto-artigo"));
       const li = el("li");
       li.append(d);
       $("ul", o).append(li);
@@ -326,7 +338,7 @@ function abrirDefinicoes() {
   }
   sel.value = estado.provedor;
   prepararModelos($("#def-modelo"), estado.provedor, estado.modelo);
-  $("#def-atual").textContent = estado.com_chave ? `A usar: ${estado.descricao}.` : "Sem chave: mostra o artigo mais provável, sem resposta escrita.";
+  $("#def-atual").textContent = estado.com_chave ? `A usar: ${estado.descricao}.` : "Sem chave: mostra os artigos mais prováveis, sem resposta escrita.";
   $("#def-resultado").textContent = "";
   const d = estado.dados;
   $("#def-atualizar").hidden = !d.pode_descarregar;

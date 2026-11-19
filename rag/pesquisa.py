@@ -23,6 +23,7 @@ from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
 
+from rag import ambito as ambito_mod
 from rag import referencias as refs_mod
 from rag import texto as termos_mod
 from rag.fontes import PASTA_INDICE, revogado
@@ -34,6 +35,12 @@ PRIOR_CONSOLIDADO = 1.25
 PRIOR_ESTADO = {"repealed": 0.6, "not_in_force": 0.6, "unknown": 0.85}
 PRIOR_REPUBLICACAO = 0.6
 PRIOR_ARTIGO_REVOGADO = 0.6
+PRIOR_SETOR = 0.8  # regime de um setor (função pública) numa pergunta que não fala dele: `rag.ambito`
+PRIOR_ANTIGO = 0.75  # portaria, despacho ou aviso de antes de 1990 sem versão consolidada
+# O reranker não vê os pesos acima: nos artigos que a pergunta não cita, tira-se isto à pontuação dele
+# para ordenar (não para o limiar do "não sei"). Pontos de logit do bge-reranker-v2-m3.
+RERANKER_SETOR = 1.0
+RERANKER_ANTIGO = 1.0
 REVOGADO = ("repealed", "not_in_force")
 # Atos da UE sem versão portuguesa, traduzidos pelo projeto (`version.kind: translation`). O índice não
 # guarda o `version.label`, que diz de que língua; o aviso diz o essencial sem mudar o formato do índice.
@@ -115,7 +122,10 @@ def _numeros_ue(numero: str) -> list[str]:
 
 
 class Pesquisa:
-    def __init__(self, caminho: Path | None = None, *, reranker=None, candidatos: int = 100, codigos_candidatos: int = CODIGOS_CANDIDATOS):
+    def __init__(
+        self, caminho: Path | None = None, *, reranker=None, candidatos: int = 100, codigos_candidatos: int = CODIGOS_CANDIDATOS,
+        reranker_com_perguntas: bool = False, semantica=None,
+    ):
         caminho = caminho or PASTA_INDICE / "indice.sqlite"
         self.con = sqlite3.connect(f"file:{caminho}?mode=ro", uri=True, check_same_thread=False)
         metodo = dict(self.con.execute("SELECT chave, valor FROM meta")).get("metodo_termos")
@@ -124,6 +134,8 @@ class Pesquisa:
         self.con.execute("CREATE VIRTUAL TABLE IF NOT EXISTS temp.vocab USING fts5vocab(main, pedacos_fts, 'row')")
         self.total = self.con.execute("SELECT count(*) FROM pedacos").fetchone()[0]
         self.reranker = reranker
+        # Opcional (rag.semantica.Semantica): os artigos mais próximos da pergunta também vão ao reranker.
+        self.semantica = semantica
         self.candidatos = candidatos
         self.codigos_candidatos = codigos_candidatos
         self._codigos: dict[str, list[tuple[str, str]]] | None = None
@@ -135,6 +147,12 @@ class Pesquisa:
         # `rag.indice`): ficam fora do BM25 em todo o acervo. Índices sem a tabela: nenhum.
         tem_tabela = self.con.execute("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'so_referencia'").fetchone()
         self.so_referencia: set[str] = {i for (i,) in self.con.execute("SELECT id FROM so_referencia")} if tem_tabela else set()
+        # Variante do piloto das perguntas por artigo: o reranker também lê as perguntas de leigo do artigo.
+        self.perguntas: dict[tuple[str, str], str] = {}
+        if reranker_com_perguntas:
+            from rag.indice import perguntas_do_indice
+
+            self.perguntas = perguntas_do_indice(self.con)
 
     # ------------------------------------------------------------------ pedaços e documentos
 
@@ -153,9 +171,10 @@ class Pesquisa:
         if id_ in self._documentos:
             return self._documentos[id_]
         linha = self.con.execute(
-            "SELECT id, titulo, tipo, numero, data, legal_status, versao, data_consolidacao, com_historico FROM documentos WHERE id = ?", (id_,)
+            "SELECT id, titulo, tipo, numero, data, legal_status, versao, data_consolidacao, com_historico, sumario FROM documentos WHERE id = ?",
+            (id_,),
         ).fetchone()
-        chaves = ("id", "titulo", "tipo", "numero", "data", "legal_status", "versao", "data_consolidacao", "com_historico")
+        chaves = ("id", "titulo", "tipo", "numero", "data", "legal_status", "versao", "data_consolidacao", "com_historico", "sumario")
         self._documentos[id_] = dict(zip(chaves, linha, strict=True)) if linha else None
         return self._documentos[id_]
 
@@ -207,7 +226,8 @@ class Pesquisa:
             self._principais = []
             for documento, parte in dict.fromkeys(partes):
                 artigos = self.con.execute("SELECT count(*) FROM pedacos WHERE documento = ? AND parte = ?", (documento, parte)).fetchone()[0]
-                if artigos >= CODIGO_GRANDE and documento not in self._principais:
+                # Os da 2.ª Série só pela referência ("Código de Conduta do Município…") não contam.
+                if artigos >= CODIGO_GRANDE and documento not in self._principais and documento not in self.so_referencia:
                     self._principais.append(documento)
         return self._principais
 
@@ -260,13 +280,16 @@ class Pesquisa:
         info = self._info([i for i, _ in linhas])
         if not documentos and self.so_referencia:
             linhas = [(i, s) for i, s in linhas if info[i][2] not in self.so_referencia]
-        pontuacoes = [(i, -s * (1.0 if documentos else self._prior(*info[i][2:]))) for i, s in linhas if self._em_vigor(*info[i][:2], data)]
+        pontuacoes = [
+            (i, -s * (1.0 if documentos else self._prior(*info[i][2:], pergunta=pergunta))) for i, s in linhas if self._em_vigor(*info[i][:2], data)
+        ]
         return sorted(pontuacoes, key=lambda x: -x[1])[:limite]
 
-    def _prior(self, documento: str, parte: str, artigo_revogado: bool) -> float:
+    def _prior(self, documento: str, parte: str, artigo_revogado: bool, *, pergunta: str = "") -> float:
         """Peso da "lei atual" na pesquisa em todo o acervo: o texto consolidado pelo DRE à frente, os
         diplomas revogados, de vigência desconhecida, os artigos revogados e os anexos de republicação
-        (texto de outra data) atrás."""
+        (texto de outra data) atrás. Também atrás: o regime de um setor quando a pergunta não fala dele,
+        e os regulamentos antigos sem versão consolidada (`rag.ambito`)."""
         doc = self.documento(documento) or {}
         peso = PRIOR_CONSOLIDADO if doc.get("com_historico") else 1.0
         peso *= PRIOR_ESTADO.get(doc.get("legal_status"), 1.0)
@@ -274,7 +297,25 @@ class Pesquisa:
             peso *= PRIOR_ARTIGO_REVOGADO
         if "republica" in parte.lower():
             peso *= PRIOR_REPUBLICACAO
+        nome_setor = ambito_mod.setor(doc.get("titulo") or "", doc.get("sumario") or "", parte)
+        if nome_setor and not ambito_mod.pergunta_fala_do_setor(pergunta, nome_setor):
+            peso *= PRIOR_SETOR
+        if ambito_mod.antigo_regulamentar(doc):
+            peso *= PRIOR_ANTIGO
         return peso
+
+    def _desconto_reranker(self, r: Resultado, pergunta: str) -> float:
+        """Quanto se tira à pontuação do reranker de um artigo que a pergunta não cita (`RERANKER_SETOR`…)."""
+        if r.nivel >= 2:
+            return 0.0
+        doc = self.documento(r.documento) or {}
+        desconto = 0.0
+        nome_setor = ambito_mod.setor(doc.get("titulo") or "", doc.get("sumario") or "", r.parte or "")
+        if nome_setor and not ambito_mod.pergunta_fala_do_setor(pergunta, nome_setor):
+            desconto += RERANKER_SETOR
+        if ambito_mod.antigo_regulamentar(doc):
+            desconto += RERANKER_ANTIGO
+        return desconto
 
     def _info(self, ids: list[int]) -> dict[int, tuple[str | None, str | None, str, str, bool]]:
         """(desde, ate, documento, parte, artigo revogado) de cada pedaço."""
@@ -338,6 +379,13 @@ class Pesquisa:
                 if i not in niveis:
                     niveis[i] = (1, s, "bm25-codigos")
 
+        # 0. Pesquisa semântica nos consolidados e códigos (rag.semantica): também só para o reranker.
+        semanticos: set[int] = set()
+        if self.reranker is not None and self.semantica is not None:
+            for i, s in self.semantica.pesquisar(pergunta, excluir=set(niveis)):
+                semanticos.add(i)
+                niveis[i] = (1, s, "semantica")
+
         pedacos = self._pedacos(list(niveis))
         resultados: list[Resultado] = []
         for i, (nivel, s, origem) in niveis.items():
@@ -348,14 +396,21 @@ class Pesquisa:
             resultados.append(self._redirecionar(r, data))
 
         if self.reranker is not None:
-            topo = sorted((r for r in resultados if r.id not in dos_codigos), key=lambda r: (-r.nivel, -r.pontuacao))[: self.reranker.maximo]
-            topo += [r for r in resultados if r.id in dos_codigos]
-            for r, s in zip(topo, self.reranker.pontuar(pergunta, [f"{r.rotulo}\n{r.texto}" for r in topo]), strict=True):
+            extras = dos_codigos | semanticos
+            topo = sorted((r for r in resultados if r.id not in extras), key=lambda r: (-r.nivel, -r.pontuacao))[: self.reranker.maximo]
+            topo += [r for r in resultados if r.id in extras]
+            for r, s in zip(topo, self.reranker.pontuar(pergunta, [self._passagem(r) for r in topo]), strict=True):
                 r.reranker = s
             resultados = topo
             # Um artigo revogado fica atrás dos outros do mesmo nível: numa pergunta sobre a lei em
             # vigor nunca é a resposta (quando o diploma é citado, os dele vêm antes na mesma).
-            resultados.sort(key=lambda r: (-min(r.nivel, 2), revogado(r.texto, r.notas), -(r.reranker if r.reranker is not None else -1e9)))
+            resultados.sort(
+                key=lambda r: (
+                    -min(r.nivel, 2),
+                    revogado(r.texto, r.notas),
+                    -((r.reranker if r.reranker is not None else -1e9) - self._desconto_reranker(r, pergunta)),
+                )
+            )
         else:
             resultados.sort(key=lambda r: (-r.nivel, revogado(r.texto, r.notas), -r.pontuacao))
 
@@ -370,6 +425,13 @@ class Pesquisa:
         for r in unicos:
             self._avisos(r, data)
         return Consulta(pergunta, data, refs, unicos, citados, em_falta)
+
+    def _passagem(self, r: Resultado) -> str:
+        """O que o reranker lê de um pedaço: o caminho e o texto (e as perguntas de leigo, na variante do piloto)."""
+        perguntas = self.perguntas.get((r.documento, r.chave)) if r.ate is None else None
+        if perguntas:
+            return f"{r.rotulo}\nPerguntas: {' '.join(perguntas.splitlines())}\n{r.texto}"
+        return f"{r.rotulo}\n{r.texto}"
 
     # ------------------------------------------------------------------ texto em vigor e avisos
 

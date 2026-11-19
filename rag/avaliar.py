@@ -17,6 +17,10 @@ Por tipo de pergunta:
 
 O resumo (só números) vai para `rag/resultados/<nome>.json`; o detalhe por pergunta, com o
 texto das perguntas reais, para `rag/resultados/privado/` (fora do git).
+
+Cada pergunta fica gravada logo em `rag/resultados/privado/<nome>-parcial.jsonl`. Se a medição
+parar a meio (um corte de luz, um reinício), correr o mesmo comando retoma onde parou; com
+`--recomecar` começa do zero. O parcial apaga-se quando a medição acaba.
 """
 
 from __future__ import annotations
@@ -185,7 +189,7 @@ def curva(linhas: list[dict], limiares: list[float]) -> str:
     for limiar in limiares:
         respondidas = [x for x in linhas if responde(x, limiar)]
         certas = sum(x["acerta_topo"] for x in respondidas)
-        texto.append(f"| {limiar:g} | {100 * sum(not responde(x, limiar) for x in com) / len(com):.0f}% | "
+        texto.append(f"| {limiar:g} | {100 * sum(not responde(x, limiar) for x in com) / max(len(com), 1):.0f}% | "
                      f"{100 * sum(not responde(x, limiar) for x in sem) / max(len(sem), 1):.0f}% | "
                      f"{100 * certas / max(len(respondidas), 1):.0f}% ({certas}/{len(respondidas)}) |")
     return "\n".join(texto)
@@ -217,6 +221,14 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--maximo", type=int, default=30, help="Quantos candidatos o reranker lê.")
     parser.add_argument("--candidatos", type=int, default=100, help="Candidatos de cada BM25.")
     parser.add_argument("--limiar", type=float, help="'Não sei' quando o reranker dá ao melhor artigo menos do que isto.")
+    parser.add_argument(
+        "--reranker-com-perguntas", action="store_true",
+        help="O reranker também lê as perguntas de leigo do artigo (piloto rag.perguntas_por_artigo).",
+    )
+    parser.add_argument(
+        "--semantica", action="store_true",
+        help="Juntar aos candidatos do reranker os da pesquisa semântica (rag.semantica; precisa de rag/indice/semantica.npz).",
+    )
     parser.add_argument("--sem-llm", action="store_true", help="Não usar o LLM mesmo que haja chave.")
     parser.add_argument("--sem-reescrita", action="store_true", help="Com LLM, pesquisar pela pergunta tal como está, sem a reescrever (rag.reescrita).")
     parser.add_argument("--sem-reais", action="store_true")
@@ -226,6 +238,7 @@ def main(argv: list[str] | None = None) -> int:
         "--perguntas", type=Path, action="append",
         help="Só as perguntas deste ficheiro (p. ex. avaliacao/perguntas-ue.jsonl); pode repetir-se.",
     )
+    parser.add_argument("--recomecar", action="store_true", help="Ignorar o parcial de uma medição interrompida e começar do zero.")
     args = parser.parse_args(argv)
 
     reranker = None
@@ -233,7 +246,14 @@ def main(argv: list[str] | None = None) -> int:
         from rag.modelos import Reranker
 
         reranker = Reranker(args.reranker, maximo=args.maximo)
-    pesquisa = Pesquisa(args.indice, reranker=reranker, candidatos=args.candidatos)
+    semantica = None
+    if args.semantica:
+        from rag.semantica import Semantica
+
+        semantica = Semantica(args.indice)
+    pesquisa = Pesquisa(
+        args.indice, reranker=reranker, candidatos=args.candidatos, reranker_com_perguntas=args.reranker_com_perguntas, semantica=semantica,
+    )
     usar_llm = llm_disponivel() and not args.sem_llm
     usar_reescrita = usar_llm and not args.sem_reescrita
     if args.perguntas:
@@ -245,15 +265,32 @@ def main(argv: list[str] | None = None) -> int:
     perguntas = perguntas[: args.limite]
     print(f"{len(perguntas)} perguntas; LLM: {'sim' if usar_llm else 'não'}", file=sys.stderr)
 
-    linhas = []
-    inicio = time.time()
-    for n, p in enumerate(perguntas, 1):
-        linhas.append(avaliar_pergunta(pesquisa, p, limiar=args.limiar, usar_llm=usar_llm, usar_reescrita=usar_reescrita))
-        if n % 50 == 0:
-            print(f"{n}/{len(perguntas)} ({time.time() - inicio:.0f} s)", file=sys.stderr, flush=True)
+    configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm, "reescrita": usar_reescrita,
+                    **({"reranker_com_perguntas": True} if args.reranker_com_perguntas else {}),
+                    **({"semantica": True} if args.semantica else {}), **({"maximo": args.maximo} if args.maximo != 30 else {})}
+    parcial = RESULTADOS / "privado" / f"{args.nome}-parcial.jsonl"
+    cabecalho = {"configuracao": configuracao, "indice": str(args.indice) if args.indice else None,
+                 "maximo": args.maximo, "candidatos": args.candidatos, "ids": [p["id"] for p in perguntas]}
+    linhas = [] if args.recomecar else retomar(parcial, cabecalho)
+    if linhas:
+        print(f"Retoma {parcial.name}: {len(linhas)} de {len(perguntas)} já feitas", file=sys.stderr)
 
-    configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm, "reescrita": usar_reescrita}
+    inicio = time.time()
+    parcial.parent.mkdir(parents=True, exist_ok=True)
+    with parcial.open("w", encoding="utf-8") as f:
+        for linha in (cabecalho, *linhas):  # reescreve-o sem a linha que tenha ficado a meio
+            f.write(json.dumps(linha, ensure_ascii=False) + "\n")
+        f.flush()
+        for n, p in enumerate(perguntas[len(linhas):], len(linhas) + 1):
+            linha = avaliar_pergunta(pesquisa, p, limiar=args.limiar, usar_llm=usar_llm, usar_reescrita=usar_reescrita)
+            linhas.append(linha)
+            f.write(json.dumps(linha, ensure_ascii=False) + "\n")
+            f.flush()
+            if n % 50 == 0:
+                print(f"{n}/{len(perguntas)} ({time.time() - inicio:.0f} s)", file=sys.stderr, flush=True)
+
     resumo = guardar(args.nome, configuracao, linhas)
+    parcial.unlink()
     print(tabela(resumo))
     for tipo in ("revogada",):
         r = resumo.get(tipo)
@@ -264,6 +301,34 @@ def main(argv: list[str] | None = None) -> int:
         print("\n" + curva(linhas, [-6, -4, -2, -1, 0, 1, 2, 3, 4]))
     print(f"\n{time.time() - inicio:.0f} s", file=sys.stderr)
     return 0
+
+
+def retomar(parcial: Path, cabecalho: dict) -> list[dict]:
+    """As linhas já feitas de uma medição interrompida, se `parcial` for desta mesma medição.
+
+    Só conta as linhas seguidas que correspondem, pela ordem, às perguntas de agora; a última pode
+    ter ficado a meio no corte, e essa e as seguintes voltam a fazer-se."""
+    if not parcial.exists():
+        return []
+    texto = parcial.read_text(encoding="utf-8").splitlines()
+    try:
+        guardado = json.loads(texto[0])
+    except (IndexError, json.JSONDecodeError):
+        return []
+    if guardado != cabecalho:
+        raise SystemExit(f"{parcial} é de outra medição (outra configuração, índice ou perguntas): "
+                         "use --recomecar ou outro --nome.")
+    ids = cabecalho["ids"]
+    linhas: list[dict] = []
+    for linha in texto[1:]:
+        try:
+            x = json.loads(linha)
+        except json.JSONDecodeError:
+            break
+        if len(linhas) >= len(ids) or x.get("id") != ids[len(linhas)]:
+            break
+        linhas.append(x)
+    return linhas
 
 
 def guardar(nome: str, configuracao: dict, linhas: list[dict]) -> dict[str, dict]:

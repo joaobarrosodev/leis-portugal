@@ -36,12 +36,35 @@ def ler_artigos(texto: str) -> list[Artigo]:
 _REVOGADO = re.compile(r"^\(?\s*revogad[oa]", re.I)
 
 
+_PUBLICADO_EM = re.compile(r"Série [^,\]]*?de (\d{4}-\d{2}-\d{2})")
+_EM_VIGOR_DESDE = re.compile(r"em vigor a partir de (\d{4}-\d{2}-\d{2})")
+
+
 def revogado(texto: str, notas: str) -> bool:
     """O artigo está revogado: o texto é "(Revogado.)" ou uma nota diz "Revogado pelo/a …".
 
     Nos consolidados do DRE, um artigo revogado fica muitas vezes com o texto antigo e só ganha a
-    nota (p. ex. os do Código do Trabalho de 2003, revogados pela Lei n.º 7/2009)."""
-    return bool(_REVOGADO.match(texto.strip())) or any(_REVOGADO.match(n.strip()) for n in notas.splitlines())
+    nota (p. ex. os do Código do Trabalho de 2003, revogados pela Lei n.º 7/2009). Conta a nota de
+    revogação mais recente: se uma nota com data posterior o altera (o artigo foi reposto, como os
+    do arrendamento do Código Civil, revogados em 1975 e repostos pela Lei n.º 6/2006), já não está."""
+    if _REVOGADO.match(texto.strip()):
+        return True
+    linhas = [n.strip() for n in notas.splitlines() if n.strip()]
+    revogacoes = [n for n in linhas if _REVOGADO.match(n)]
+    if not revogacoes:
+        return False
+    def data(nota: str) -> str | None:
+        # A data de publicação do diploma que altera ou revoga ("… Série I de 2013-12-31"); a de entrada em
+        # vigor engana às vezes (uma revogação de 2013 "em vigor a partir de 2004-01-01"). Sem ela, a de
+        # entrada em vigor. Uma data impossível (1079-01-01, gralha do DRE por 1979) conta como sem data.
+        m = _PUBLICADO_EM.search(nota) or _EM_VIGOR_DESDE.search(nota)
+        return m.group(1) if m and m.group(1) >= "1800" else None
+
+    datas_revogacao = [data(n) for n in revogacoes]
+    if None in datas_revogacao:
+        return True  # sem data não se sabe a ordem: fica revogado, como antes
+    ultima_revogacao = max(datas_revogacao)
+    return not any((d := data(n)) and d > ultima_revogacao for n in linhas if not _REVOGADO.match(n))
 
 
 def export_sqlite() -> Path:

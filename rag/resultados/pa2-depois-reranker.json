@@ -1,0 +1,63 @@
+{
+ "configuracao": {
+  "reranker": "cruzado",
+  "limiar": 3.0,
+  "llm": false,
+  "reescrita": false
+ },
+ "resumo": {
+  "real": {
+   "n": 281,
+   "nao_sei": 95,
+   "respondidas": 186,
+   "certas": 115,
+   "artigo@1": 133,
+   "texto@1": 133,
+   "artigo@5": 207,
+   "texto@5": 207,
+   "artigo@10": 225,
+   "texto@10": 225,
+   "com_fonte": 281
+  },
+  "coloquial": {
+   "n": 281,
+   "nao_sei": 246,
+   "respondidas": 35,
+   "certas": 25,
+   "artigo@1": 97,
+   "texto@1": 97,
+   "artigo@5": 147,
+   "texto@5": 147,
+   "artigo@10": 160,
+   "texto@10": 160,
+   "com_fonte": 281
+  },
+  "sem_resposta": {
+   "n": 105,
+   "nao_sei": 100,
+   "respondidas": 5,
+   "certas": 0,
+   "certas_nao_sei": 100,
+   "artigo@1": 0,
+   "texto@1": 0,
+   "artigo@5": 0,
+   "texto@5": 0,
+   "artigo@10": 0,
+   "texto@10": 0,
+   "com_fonte": 0
+  },
+  "total": {
+   "n": 667,
+   "nao_sei": 441,
+   "respondidas": 226,
+   "certas": 140,
+   "artigo@1": 230,
+   "texto@1": 230,
+   "artigo@5": 354,
+   "texto@5": 354,
+   "artigo@10": 385,
+   "texto@10": 385,
+   "com_fonte": 562
+  }
+ }
+}

@@ -33,6 +33,7 @@ from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
+from rag import ambito as ambito_mod
 from rag import dados, definicoes, jurisprudencia, provedores, reescrita
 from rag.fontes import PASTA_INDICE
 from rag.resposta import LIMIAR_COM_LLM, LIMIAR_PADRAO, llm_disponivel, responder
@@ -109,7 +110,7 @@ class Servico:
             resposta = responder(consulta, limiar=limiar, usar_llm=usar_llm, pesquisa=self.pesquisa)
         id_ = uuid.uuid4().hex
         self.pendentes[id_] = (consulta, resposta)
-        return serializar(id_, consulta, resposta)
+        return serializar(id_, consulta, resposta, pesquisa=self.pesquisa)
 
     def avaliar(self, id_: str, anotacao: dict) -> bool:
         from rag.perguntar import registar
@@ -146,8 +147,15 @@ class Servico:
             self.avaliar(id_, {})
 
 
-def serializar(id_: str, consulta, resposta) -> dict:
+def serializar(id_: str, consulta, resposta, *, pesquisa=None) -> dict:
     citados = {r.id for r in resposta.citacoes}
+
+    def ambito(r) -> str:
+        """Regime geral, função pública, só Açores…: no modo sem IA mostra-se ao lado de cada artigo."""
+        documento = getattr(pesquisa, "documento", None)
+        doc = documento(r.documento) if documento else None
+        return ambito_mod.rotulo(doc, r.parte or "") if doc else ""
+
     juris = []
     for j in resposta.jurisprudencia:
         juris.append(
@@ -175,10 +183,10 @@ def serializar(id_: str, consulta, resposta) -> dict:
         "aviso_modelo": resposta.aviso_modelo,
         "avisos": resposta.avisos,
         "em_falta": consulta.diplomas_em_falta,
-        "citacoes": [{"rotulo": r.rotulo, "texto": r.texto[:1500]} for r in resposta.citacoes],
+        "citacoes": [{"rotulo": r.rotulo, "texto": r.texto[:1500], "ambito": ambito(r)} for r in resposta.citacoes],
         "jurisprudencia": [j for j in juris if j["mostrar"]],
         "jurisprudencia_resto": [{"sentido": s, "n": n} for s, n in resto.most_common()],
-        "outros": [{"rotulo": r.rotulo, "texto": r.texto[:600]} for r in consulta.resultados[:6] if r.id not in citados],
+        "outros": [{"rotulo": r.rotulo, "texto": r.texto[:600], "ambito": ambito(r)} for r in consulta.resultados[:6] if r.id not in citados],
     }
 
 

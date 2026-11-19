@@ -61,6 +61,34 @@ def test_revogado():
     assert not revogado("O artigo revogado pela lei anterior mantém-se.", "Alterado pelo/a Lei n.º 1/2000")
 
 
+def test_artigo_reposto_depois_de_revogado_nao_esta_revogado():
+    # Código Civil, art. 1064.º: revogado em 1975, reposto pela Lei n.º 6/2006 (a nota mais recente vem primeiro).
+    notas = (
+        "Alterado pelo/a Artigo 3.º do/a Lei n.º 6/2006, em vigor a partir de 2006-06-27\n"
+        "Revogado pelo/a Artigo 46.º do/a Decreto-Lei n.º 201/75, em vigor a partir de 1975-04-30"
+    )
+    assert not revogado("A presente secção aplica-se ao arrendamento…", notas)
+    # Ao contrário: alterado e depois revogado.
+    notas = (
+        "Revogado pelo/a Lei n.º 7/2009, em vigor a partir de 2009-02-17\n"
+        "Alterado pelo/a Lei n.º 1/2000, em vigor a partir de 2000-01-01"
+    )
+    assert revogado("22 dias úteis.", notas)
+    # Data impossível na nota de revogação (gralha do DRE): fica revogado, como antes.
+    notas = (
+        "Revogado pelo/a Lei n.º 1/79, em vigor a partir de 1079-01-01\n"
+        "Alterado pelo/a Decreto-Lei n.º 614/71, em vigor a partir de 1972-01-01"
+    )
+    assert revogado("Os empréstimos dos corpos administrativos…", notas)
+    # Conta a data de publicação, não a de vigência (Estatuto dos Benefícios Fiscais, art. 42.º).
+    notas = (
+        "Revogado pelo/a Artigo 210.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](x),"
+        " em vigor a partir de 2004-01-01\n"
+        "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 108/2008 - Diário da República n.º 123/2008, Série I de 2008-06-26](y), em vigor a partir de 2008-06-27"
+    )
+    assert revogado("Os rendimentos…", notas)
+
+
 def test_termos_ignoram_consoantes_mudas_da_grafia_antiga():
     from rag.texto import termos
 
