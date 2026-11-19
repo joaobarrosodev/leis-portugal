@@ -45,3 +45,7 @@ As 7 retificações reprovadas às cegas na 1.ª ronda (6 em dúvida e 1 errada)
 
 - a troca segue a retificação à letra, sem pontuação que ela não traz;
 - uma troca de nome leva consigo as contrações e as concordâncias que dependem dele (ao → à, obrigado → obrigada), e nada mais.
+
+## Ronda im: imagens, anexos omitidos e republicações
+
+As 11 da classe `imagem_ou_republicacao` foram respondidas na sessão principal (Opus), em `resposta-im-01.jsonl`. Uma troca pode ter `com_ligacoes: true`: `texto_atual` e `texto_novo` são então o Markdown cru, para trocar o endereço de uma imagem republicada ou para inserir, a seguir a uma linha, o anexo que a retificação publica. Não se aplica o que um alterador posterior substituiu (um anexo, uma planta, um número reescrito), com o motivo «reescrito depois». Numa republicação integral, só entram os parágrafos que o alterador posterior não reescreveu e cuja redação de hoje (a da republicação do alterador, quando a há) é a da retificação.

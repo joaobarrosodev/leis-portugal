@@ -49,7 +49,7 @@ from leis_portugal.infrastructure.repository import Acervo  # noqa: E402
 
 
 LLM = PASTA / "llm" / "retificacoes"
-CLASSES = ("llm", "sem_pares")
+CLASSES = ("llm", "sem_pares", "imagem_ou_republicacao")  # a última desde a ronda «im» (19/11/2026)
 # As que `retificacoes.py` recusou (19/11/2026): localizador noutro artigo ou num anexo, renumerações.
 RECUSADAS = {
     "pt:dre:314399:por", "pt:dre:222406:por", "pt:dre:235757:por", "pt:dre:3485579:por",
@@ -167,13 +167,18 @@ def trocar(linhas: list[str], trocas: list[dict]) -> list[dict]:
 
     `texto_novo` vazio apaga a linha (uma supressão). A linha tem de ser, sem ligações e com os
     espaços normalizados, a que o respondedor viu; um título continua título do mesmo nível.
+
+    Com `com_ligacoes`, `texto_atual` e `texto_novo` são o Markdown cru, com as ligações: serve
+    para trocar a imagem de um mapa por outra (só o endereço muda) e para inserir parágrafos que a
+    retificação publica (`texto_novo` = a linha atual, uma linha em branco e o que se insere).
     """
     feitas = []
     for t in sorted(trocas, key=lambda t: -int(t["linha"])):
         i = int(t["linha"])
         if not 0 <= i < len(linhas):
             raise Recusa(f"a linha L{i} não existe")
-        if normalizar(sem_ligacoes(linhas[i])) != normalizar(t["texto_atual"]):
+        cru = bool(t.get("com_ligacoes"))
+        if normalizar(linhas[i] if cru else sem_ligacoes(linhas[i])) != normalizar(t["texto_atual"]):
             raise Recusa(f"a linha L{i} não é a que o respondedor viu")
         novo = t["texto_novo"].strip()
         nivel = re.match(r"^#*", linhas[i]).group(0)
@@ -182,8 +187,8 @@ def trocar(linhas: list[str], trocas: list[dict]) -> list[dict]:
         if not nivel and novo.startswith("#"):
             raise Recusa(f"a linha L{i} passava a título")
         antes = linhas[i]
-        linhas[i] = rt.repor_ligacoes(antes, novo) if novo else ""
-        feitas.append({"linha": i, "artigo": rt._artigo_de(linhas, i), "antes": antes, "depois": linhas[i]})
+        linhas[i] = (novo if cru else rt.repor_ligacoes(antes, novo)) if novo else ""
+        feitas.append({"linha": i, "artigo": rt._artigo_de(linhas, i), "antes": antes, "depois": linhas[i], "com_ligacoes": cru, "nota": t.get("nota")})
     return sorted(feitas, key=lambda f: f["linha"])
 
 
@@ -227,8 +232,12 @@ def verificacao(ronda: str | None = None) -> None:
             "n": len(itens) + 1, "diploma": s["titulo"], "id": diploma, "retificacao_id": retificacao,
             "retificacao": f"{mr.get('title')} ({mr.get('publication_date')})",
             "texto_da_retificacao": corpo(ret.read_text(encoding="utf-8"))[:40000],
-            "alteracoes_feitas": [{"artigo": f["artigo"], "paragrafo_antes": sem_ligacoes(f["antes"]), "paragrafo_depois": sem_ligacoes(f["depois"]) or "(parágrafo apagado)"}
-                                  | ({"contexto": contexto(linhas, f["linha"])} if ronda else {}) for f in feitas],
+            "alteracoes_feitas": [{"artigo": f["artigo"],
+                                   "paragrafo_antes": f["antes"] if f["com_ligacoes"] else sem_ligacoes(f["antes"]),
+                                   "paragrafo_depois": (f["depois"] if f["com_ligacoes"] else sem_ligacoes(f["depois"])) or "(parágrafo apagado)"}
+                                  | ({"contexto": contexto(linhas, f["linha"])} if ronda else {})
+                                  | ({"com_ligacoes": True} if f["com_ligacoes"] else {})
+                                  | ({"nota_do_respondedor": f["nota"]} if f["nota"] else {}) for f in feitas],
             "nao_aplicadas": r.get("nao_aplicadas", []),
         })
     (LLM / (f"verificacao-entrada-{ronda}.jsonl" if ronda else "verificacao-entrada.jsonl")).write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens), encoding="utf-8")

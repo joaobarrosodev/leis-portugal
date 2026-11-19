@@ -30,3 +30,14 @@ Duas regras de aplicação, as mesmas que o respondedor segue:
 - Uma retificação que troca um nome («onde se lê "Clube de …" deve ler-se "Associação de …"») leva consigo as contrações e as concordâncias que dependem dele (ao → à, do → da, o → a, obrigado → obrigada). Não contam como mudanças a mais; outra mudança qualquer conta.
 
 Saída: `verificacao-saida-r2.jsonl` (ou `-r3`, na ronda r3, com as mesmas regras).
+
+## Ronda im (`verificacao-entrada-im.jsonl`): imagens, anexos omitidos e republicações
+
+Aqui as retificações republicam um mapa ou uma planta em imagem, publicam um anexo que tinha ficado por publicar, ou republicam o diploma inteiro. As regras são as de cima, mais estas:
+
+- Numa mudança com `com_ligacoes: true`, o antes e o depois são o Markdown cru, com as ligações. Numa imagem republicada, só muda o endereço da imagem («(ver documento original)»), que tem de ser o da imagem que a retificação publica (está no `texto_da_retificacao`).
+- Uma inserção vem como a linha de antes, uma linha em branco e o que se insere. O que se insere tem de ser o que a retificação publica, sem nada a mais nem a menos, salvo um título curto que diga o que é, com as palavras da própria retificação.
+- Numa republicação integral, cada mudança tem de pôr o parágrafo como está na republicação, sem outras diferenças. A forma dos títulos não conta (número e epígrafe na mesma linha, ou em duas).
+- `nota_do_respondedor` é o que o respondedor diz para justificar a mudança. Não é prova: confirma-a com o texto da retificação.
+
+Saída: `verificacao-saida-im.jsonl`.

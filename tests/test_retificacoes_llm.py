@@ -44,3 +44,15 @@ def test_contexto_da_ronda_seguinte():
     c = rl.contexto(linhas, 10)
     assert c["titulo_acima"].startswith("###### Artigo 8.º")
     assert c["reescrito_depois"] == "> Alterado pelo/a Decreto-Lei n.º 364/93, publicado em 1993-10-22."
+
+
+def test_troca_com_ligacoes_imagem_e_insercao():
+    """Uma imagem republicada troca só o endereço; um anexo omitido insere-se a seguir a uma linha."""
+    linhas = ["Mapa a que se refere o artigo 1.º", "", "[(ver documento original)](https://x/1973/08/a.pdf)", "", "O Ministro."]
+    rl.trocar(linhas, [{"linha": 2, "com_ligacoes": True, "texto_atual": "[(ver documento original)](https://x/1973/08/a.pdf)",
+                        "texto_novo": "[(ver documento original)](https://x/1973/09/b.pdf)"},
+                       {"linha": 4, "com_ligacoes": True, "texto_atual": "O Ministro.", "texto_novo": "O Ministro.\n\n## ANEXO I — Cursos\n\nA) Curso básico."}])
+    assert linhas[2] == "[(ver documento original)](https://x/1973/09/b.pdf)"
+    assert linhas[4] == "O Ministro.\n\n## ANEXO I — Cursos\n\nA) Curso básico."
+    with pytest.raises(rl.Recusa):  # sem `com_ligacoes`, o texto atual compara-se sem ligações
+        rl.trocar(["[(ver documento original)](https://x/a.pdf)"], [{"linha": 0, "com_ligacoes": True, "texto_atual": "(ver documento original)", "texto_novo": "x"}])
