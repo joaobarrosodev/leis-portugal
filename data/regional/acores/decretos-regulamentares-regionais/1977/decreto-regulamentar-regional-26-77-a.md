@@ -47,7 +47,7 @@ version_history:
     amending_title: Decreto Regulamentar Regional n.º 3/A/79; Declaração
     changes:
     - Altera Artigo 2.º
-    - Retifica Artigo 3
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -151,8 +151,8 @@ Aprovado em Plenário do Governo Regional em 9 de Agosto de 1977. - O Presidente
 
 Assinado em Ponta Delgada em 27 de Agosto de 1977.
 
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-276872), publicado em 1977-10-17.
+
 Publique-se.
 
 O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.
-
-> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-276872), publicado em 1977-10-17.

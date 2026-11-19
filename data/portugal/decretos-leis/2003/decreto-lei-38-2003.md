@@ -63,6 +63,7 @@ version_history:
     - Retifica Artigo 2
     - Retifica Artigo 5
     - Retifica Artigo 6
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/38/2003/03/08/p/dre/pt/html

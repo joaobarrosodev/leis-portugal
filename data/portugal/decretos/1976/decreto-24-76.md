@@ -46,7 +46,7 @@ version_history:
     amending_title: Decreto n.º 279/76; Declaração
     changes:
     - Altera Artigo 2.º
-    - Retifica Artigo 3
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -204,6 +204,8 @@ QUADRO III
 
 Pessoal oficinal e auxiliar
 
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-454043), publicado em 1976-01-28.
+
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
 
 QUADRO IV
@@ -213,5 +215,3 @@ Pessoal administrativo e de contabilidade
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
 
 O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.
-
-> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-454043), publicado em 1976-01-28.

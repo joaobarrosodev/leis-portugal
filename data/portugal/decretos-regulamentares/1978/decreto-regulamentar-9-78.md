@@ -47,7 +47,7 @@ version_history:
     amending_title: Decreto Regulamentar n.º 44/85; Declaração
     changes:
     - Altera Artigo 14.º
-    - Retifica Artigo 20
+    - Retifica texto
 identifiers:
   celex: null
   eli: null

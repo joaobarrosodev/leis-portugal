@@ -66,7 +66,7 @@ version_history:
     - Revoga Artigo 59.º
     - Revoga Artigo 60.º
     - Revoga Artigo 61.º
-    - Retifica Artigo 71
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre/pt/html
@@ -1350,6 +1350,8 @@ Anexo II a que se refere o artigo 41.º
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf)
 
+> Retificado pelo/a [Portaria n.º 5/95](https://diariodarepublica.pt/dr/detalhe/portaria/5-1995-363904), publicado em 1995-01-04.
+
 Anexo III a que se refere o artigo 63.º
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
@@ -1371,5 +1373,3 @@ Controlo e fiscalização dos produtos em armazém;
 Registo e preenchimento de guias necessárias ao controlo contabilístico da saída e trânsito dos tabacos;
 
 Acompanhamento do transporte dos tabacos para os portos, aeroportos e entrepostos aduaneiros.
-
-> Retificado pelo/a [Portaria n.º 5/95](https://diariodarepublica.pt/dr/detalhe/portaria/5-1995-363904), publicado em 1995-01-04.

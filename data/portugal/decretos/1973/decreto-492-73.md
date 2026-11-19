@@ -57,7 +57,7 @@ version_history:
     changes:
     - Altera Artigo 142.º
     - Retifica Artigo 148
-    - Retifica Artigo 208
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -2868,6 +2868,8 @@ MAPA I
 
 Quadro comum do pessoal superior dos serviços dos correios e telecomunicações do ultramar
 
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-407348), publicado em 1974-02-06.
+
 (Artigo 128.º, n.º 1)
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23300/17081744.pdf)
@@ -3117,5 +3119,3 @@ Contínuo de 2.ª classe ... U
 Contínuo de 3.ª classe ... V
 
 O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
-
-> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-407348), publicado em 1974-02-06.
