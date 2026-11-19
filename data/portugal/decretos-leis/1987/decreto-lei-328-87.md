@@ -55,9 +55,10 @@ version_history:
     changes: []
   - date: '1988-06-21'
     amending: pt:dre:372197:por
-    amending_title: Decreto-Lei n.º 204/88
+    amending_title: Decreto-Lei n.º 204/88; Declaração
     changes:
     - Altera Artigo 2.º
+    - Retifica Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:21:26Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 204/88. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1987/decreto-lei-328-87.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1987/decreto-lei-328-87.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -194,7 +196,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 3 - A posse definitiva no cargo constitui acto declarativo da exoneração, devendo o respectivo termo ser enviado, no prazo máximo de cinco dias, ao Tribunal de Contas para junção ao processo individual do funcionário.
 
-4 - É obrigatória a apresentação da declaração relativa a incompatibilidades e acumulações não permitidas, prevista na alínea c) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, em todos os casos em que o funcionário mantenha o direito ao lugar de origem.
+4 - É obrigatória a apresentação da declaração relativa a incompatibilidades e acumulações não permitidas, prevista na alínea a) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, em todos os casos em que o funcionário mantenha o direito ao lugar de origem.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-482402), publicado em 1987-11-30.
 
 ###### Artigo 4.º
 

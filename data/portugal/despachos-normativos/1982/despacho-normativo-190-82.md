@@ -44,12 +44,13 @@ version_history:
     changes: []
   - date: '1983-08-23'
     amending: pt:dre:454860:por
-    amending_title: Despacho Normativo n.º 168/83
+    amending_title: Despacho Normativo n.º 168/83; Declaração
     changes:
     - Altera Artigo unidades 12-13
     - Altera Artigo unidades 49-54
     - Altera Artigo unidades 58-61
     - Altera Artigo unidades 64-64
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -76,7 +77,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:17:40Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 168/83. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-190-82.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1982/despacho-normativo-190-82.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,7 +160,9 @@ A - Trigo, centeio, triticale, cevada forrageira e aveia
 
 > Alterado pelo/a [Despacho Normativo n.º 168/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/168-1983-454860), publicado em 1983-08-18.
 
-2.º O trigo mole tipo I integra o cereal proveniente de semente certificada das variedades Campodoro, Impeto, Mara, Nazareno Strampelli e Anza e de searas devidamente verificadas pelos serviços regionais de agricultura ou da EPAC.
+2.º O trigo mole tipo I que integra o cereal proveniente de semente das variedadas Compodoro, Impeto, Mara, Nazareno Strampelli e Anza e de searas devidamente verificadas pelos serviços regionais de agricultura ou da EPAC.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375178), publicado em 1982-09-24.
 
 O trigo mole tipo II integra o cereal proveniente de todas as restantes variedades actualmente cultivadas.
 

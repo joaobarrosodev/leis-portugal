@@ -43,10 +43,13 @@ version_history:
     changes: []
   - date: '1979-05-19'
     amending: pt:dre:382641:por
-    amending_title: Decreto-Lei n.º 139/79
+    amending_title: Decreto-Lei n.º 139/79; Declaração
     changes:
     - Altera Artigo 20.º
     - Altera Artigo 21.º
+    - Retifica texto
+    - Retifica Artigo 6
+    - Retifica Artigo 25
 identifiers:
   celex: null
   eli: null
@@ -73,7 +76,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:19:16Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 139/79. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-23-79.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-23-79.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -213,15 +217,17 @@ de 14 de Fevereiro
 
 Como medida vocacionada à institucionalização do sistema unificado da segurança social, o [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro, criou o Instituto de Gestão Financeira da Segurança Social, na dependência da Secretaria de Estado da Segurança Social, responsabilizando-o pela gestão dos meios financeiros das instituições de segurança social, através do acompanhamento e avaliação orçamentais e elaboração da conta anual da Segurança Social.
 
-Definido posteriormente um conjunto de normas referentes às atribuições, organização e competência do Instituto - [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril -,ficou por traçar um regime do pessoal a integrar no quadro do mesmo Instituto, de aplicação generalizada.
+Definido posteriormente um conjunto de normas referentes às atribuições, organização e competência do Instituto - Decreto Regulamentar n.º 24/77, de 1 de Abril -,ficou por traçar um regime do pessoal a integrar no quadro do mesmo Instituto, de aplicação generalizada.
 
-O [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729) afecta ao Instituto pessoal da Direcção-Geral da Previdência, da Caixa Nacional de Pensões, da Federação das Caixas de Previdência e Abono de Família e, eventualmente, de outras instituições de previdência.
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383238), publicado em 1979-03-17.
+
+O Decreto Regulamentar n.º 24/77 afecta ao Instituto pessoal da Direcção-Geral da Previdência, da Caixa Nacional de Pensões, da Federação das Caixas de Previdência e Abono de Família e, eventualmente, de outras instituições de previdência.
 
 A fim de evitar os efeitos gravosos que necessariamente resultarão das diferenças de estatutos e de regimes jurídicos do pessoal referido, entende-se ser necessária a consagração de um regime unificado de pessoal, atinente ao melhor aproveitamento dos recursos humanos existentes, sem prejuízo dos direitos adquiridos, particularmente no que respeita às categorias profissionais e condições de acesso. Esse regime será, necessariamente, o da função pública.
 
 Esta preocupação passa pela reclassificação do pessoal, pela sua redistribuição pelas diversas categorias integradoras do quadro do Instituto e implica a adopção de normas excepcionais em relação às primeiras nomeações e condições de acesso do mesmo pessoal.
 
-Este reforço pontual relativo ao pessoal do Instituto situa-se no quadro mais vasto da integração de todo o pessoal das instituições de previdência social no funcionalismo público, meta para que aponta o espírito do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro.
+Este esforço pontual relativo ao pessoal do Instituto situa-se no quadro mais vasto da integração de todo o pessoal das instituições de previdência social no funcionalismo público, meta para que aponta o espírito do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro.
 
 A necessária prossecução do interesse público em causa impõe que se avance numa experiência que poderá ser paradigma.
 
@@ -279,7 +285,7 @@ O pessoal do quadro do Instituto ficará submetido ao estatuto em vigor para o f
 
 b) Os lugares de director de serviços deverão ser providos de entre os chefes de divisão do quadro do Instituto ou de entre chefes de repartição para o lugar de director de serviços do Departamento Administrativo, por períodos renováveis de três anos, em regime de comissão de serviço;
 
-c) Os lugares de chefe de divisão deverão ser providos de entre técnicos principais ou de entre indivíduos habilitados com curso superior, em comissão de serviço, por três anos renováveis;
+c) Os lugares de chefe de divisão deverão ser providos de entre técnicos superiores principais ou de entre indivíduos habilitados com curso superior, em comissão de serviço, por três anos renováveis;
 
 d) Os lugares de chefe de repartição deverão ser providos de entre chefes de secção ou funcionários com categoria equivalente ou superior com mais de três anos de efectivo serviço nessas categorias ou de entre diplomados com curso superior adequado;
 
@@ -453,9 +459,9 @@ As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por
 
 1 - Fica revogado o artigo 8.º do [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro.
 
-2 - Ficam revogadas as seguintes disposições do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril: alínea d) do n.º 2 do artigo 1.º, artigo 21.º, artigo 22.º, artigo 24.º e artigo 39.º
+2 - Ficam revogadas as seguintes disposições do Decreto Regulamentar n.º 24/77, de 1 de Abril: alínea d) do n.º 2 do artigo 1.º, artigo 21.º, artigo 22.º, artigo 24.º e artigo 39.º
 
-3 - Os artigos 12.º e 20.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, passam a ter as seguintes redacções:
+3 - Os artigos 12.º e 20.º do Decreto Regulamentar n.º 24/77, de 1 de Abril, passam a ter as seguintes redacções:
 
 Art. 12.º - 1 - O conselho directivo é constituído por três membros, sendo o presidente, com a categoria de director, nomeado pelo Ministro dos Assuntos Sociais, e os dois vogais, com a categoria de subdirectores, nomeados pelo Secretário de Estado da Segurança Social.
 

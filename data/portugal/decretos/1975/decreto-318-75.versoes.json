@@ -23,10 +23,17 @@
      "title": "Decreto n.º 134/76",
      "published": "1976-02-17",
      "dre_path": "/dr/detalhe/decreto/134-1976-507616"
+    },
+    {
+     "id": "pt:dre:336533:por",
+     "title": "Rectificação",
+     "published": "1975-07-18",
+     "dre_path": "/dr/detalhe/rectificacao/1975-336533"
     }
    ],
    "changes": [
-    "Altera Artigo 8.º"
+    "Altera Artigo 8.º",
+    "Retifica Artigo 12"
    ],
    "fragments": [
     "e10cb34f2aacf156",
@@ -41,7 +48,7 @@
     "e49417112326a343",
     "e3086c7b9e421a5b",
     "1ffc4975abaae9fc",
-    "ea52e4cf2863d95e"
+    "ad600cf0afb15794"
    ]
   }
  ],
@@ -152,13 +159,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 11.º\n\nAs dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Ministro para o Planeamento e Coordenação Económica, com o acordo do Ministro das Finanças, quando estiver em causa matéria de carácter financeiro ou regras de contabilidade pública."
   },
-  "ea52e4cf2863d95e": {
+  "ad600cf0afb15794": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 12.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 12.º\n\nEste decreto entra imediatamente em vigor.\n\nVasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso.\n\nPromulgado em 16 de Junho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14600/08900892.pdf)\n\nO Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira."
+   "in_force_from": "1976-02-17",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-336533), publicado em 1975-07-18."
+   ],
+   "markdown": "###### Artigo 12.º\n\nEste decreto entra imediatamente em vigor, excepto o artigo 9.º, que entrará em vigor a partir de 1 de Outubro de 1975.\n\nVasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso.\n\nPromulgado em 16 de Junho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14600/08900892.pdf)\n\nO Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira.\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-336533), publicado em 1975-07-18."
   }
  }
 }

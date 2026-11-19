@@ -55,7 +55,7 @@ version_history:
   - date: '2003-01-04'
     amending: pt:dre:383444:por
     amending_title: Decreto-Lei n.º 107/97; Decreto-Lei n.º 207/97; Decreto-Lei n.º 28/98; Decreto-Lei n.º 21/99; Decreto-Lei
-      n.º 289/2001; Decreto-Lei n.º 315/2001; Decreto-Lei n.º 320-A/2002
+      n.º 289/2001; Decreto-Lei n.º 315/2001; Decreto-Lei n.º 320-A/2002; Declaração de Rectificação n.º 16-Q/96
     changes:
     - Altera Artigo 24.º
     - Altera Artigo 33.º
@@ -70,6 +70,7 @@ version_history:
     - Altera Artigo 10.º
     - Altera Artigo 19.º
     - Altera Artigo 24.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre/pt/html
@@ -97,7 +98,8 @@ provenance:
   generated_at: '2026-10-23T01:44:32Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 107/97; Decreto-Lei
     n.º 207/97; Decreto-Lei n.º 28/98; Decreto-Lei n.º 21/99; Decreto-Lei n.º 289/2001; Decreto-Lei n.º 315/2001; Decreto-Lei
-    n.º 320-A/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-158-96.alteracoes.json'
+    n.º 320-A/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-158-96.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 16-Q/96.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -370,7 +372,9 @@ validation:
 
 de 3 de Setembro
 
-1 - As últimas Leis Orgânicas do Ministério das Finanças ([Decreto-Lei n.º 229/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1986-218908), de 14 de Agosto, alterado pelo [Decreto-Lei n.º 98/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1987-662372), de 5 de Março; [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho; [Decreto Regulamentar n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1977-278707), de 29 de Setembro; [Decreto-Lei n.º 49-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-b-1976-253025), de 20 de Janeiro; Decreto-Lei n.º 527/74, de 8 de Outubro) têm-se revelado manifestamente inadequadas às necessidades de um Ministério das Finanças capaz de coordenar a função financeira do Estado e acompanhar a actividade financeira das instituições autónomas, no contexto resultante da evolução para a União Económica e Monetária e da descentralização e democratização do Estado. A estrutura que consagravam tem-se revelado antiquada e incoerente, para além de haver sido objecto de numerosas distorções e medidas avulsas, cujo efeito é, em geral, agravar a inoperacionalidade do modelo global e muitos dos seus desajustamentos.
+1 - As últimas Leis Orgânicas do Ministério das Finanças ([Decreto-Lei n.º 229/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1986-218908), de 14 de Agosto, alterado pelo [Decreto-Lei n.º 98/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1987-662372), de 5 de Março; [Decreto-Lei n.º 181/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1978-297442), de 17 de Julho; [Decreto Regulamentar n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1977-278707), de 29 de Setembro; [Decreto-Lei n.º 49-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-b-1976-253025), de 20 de Janeiro; Decreto-Lei n.º 525/74, de 8 de Outubro) têm-se revelado manifestamente inadequadas às necessidades de um Ministério das Finanças capaz de coordenar a função financeira do Estado e acompanhar a actividade financeira das instituições autónomas, no contexto resultante da evolução para a União Económica e Monetária e da descentralização e democratização do Estado. A estrutura que consagravam tem-se revelado antiquada e incoerente, para além de haver sido objecto de numerosas distorções e medidas avulsas, cujo efeito é, em geral, agravar a inoperacionalidade do modelo global e muitos dos seus desajustamentos.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-Q/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-q-1996-276193), publicado em 1996-12-31.
 
 2 - Julga-se ter chegado o momento de racionalizar, tanto através de medidas imediatas como criando condições para uma evolução de médio prazo, que importa impulsionar, sem precipitar, a actual estrutura do Ministério das Finanças, tendo por adquirido que ela é distinta da orgânica de planeamento - sem prejuízo de não poder dispensar uma óptica e um enquadramento de médio prazo e de, porventura, dever dotar-se de meios mais adequados de informação, avaliação e previsão económica para que a gestão financeira se enquadre nas políticas económico-sociais definidas.
 

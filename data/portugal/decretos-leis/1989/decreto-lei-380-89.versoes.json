@@ -57,13 +57,20 @@
      "title": "Decreto-Lei n.º 72/93",
      "published": "1993-03-10",
      "dre_path": "/dr/detalhe/decreto-lei/72-1993-628041"
+    },
+    {
+     "id": "pt:dre:261944:por",
+     "title": "Declaração",
+     "published": "1989-12-30",
+     "dre_path": "/dr/detalhe/declaracao/1989-261944"
     }
    ],
    "changes": [
     "Revoga Artigo 6.º",
     "Revoga Artigo 6.º",
     "Altera Artigo 3.º",
-    "Altera Artigo 7.º"
+    "Altera Artigo 7.º",
+    "Retifica Artigo 12"
    ],
    "fragments": [
     "44512df0dadd9206",
@@ -80,7 +87,7 @@
     "d16f498f18c6dca7",
     "e21d0ec8bffb70de",
     "ba5a3fa161ec63c8",
-    "2e2a9d6894376e1e",
+    "b33e4824218deb82",
     "f5705458258cf884",
     "e792da3f3a460e5d",
     "41380631ad66349b",
@@ -361,6 +368,16 @@
     "Alterado pelo/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10."
    ],
    "markdown": "###### Artigo 7.º — Limites temporais da retroacção\n\n1 - Os períodos indicados pelo interessado para efeitos de pagamento retroactivo devem ser posteriores à data de publicação da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, salvo se o interessado demonstrar que tem um interesse relevante em que seja considerada uma data anterior.\n\n2 - Os períodos a considerar para efeitos de pagamento retroactivo devem ainda ser posteriores à data em que o interessado perfez 14 anos de idade.\n\n3 - Tratando-se de pensionistas, os períodos a que se reportam os números anteriores não podem ser posteriores à data da atribuição da pensão nem exceder 37 anos quando somados com os períodos de carreira contributiva normal dos interessados.\n\n4 - Relativamente a interessados não vinculados ao sistema de segurança social, o pedido de retroacção só pode ser deferido se se reportar a períodos que totalizem, pelo menos, 144 meses.\n\n> Alterado pelo/a [Decreto-Lei n.º 72/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1993-628041), publicado em 1993-03-10."
+  },
+  "b33e4824218deb82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Comprovação do exercício de actividade",
+   "in_force_from": "1993-03-15",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-261944), publicado em 1989-12-30."
+   ],
+   "markdown": "###### Artigo 12.º — Comprovação do exercício de actividade\n\n1 - O deferimento do requerimento a que se refere o artigo 9.º depende da prova do efectivo exercício de actividade profissional através de qualquer dos documentos seguintes:\n\na) Duplicado das declarações para efeitos fiscais tempestivamente apresentadas, designadamente das declarações de imposto profissional ou complementar autenticadas pelos serviços fiscais ou das respectivas certidões;\n\nb) Cópia autenticada dos mapas do pessoal das empresas em que o interessado tenha exercido a actividade, desde que tempestivamente apresentados aos serviços oficiais competentes;\n\nc) Certidão de sentença ou de auto de conciliação referentes a litígio sobre a relação laboral subjacente;\n\nd) Certidão de decisão de processo administrativo gracioso, a decorrer no âmbito das instituições, que aprecie outros meios de prova.\n\n2 - Enquanto não se encontrar regulamentado o processo a que se refere a alínea d) do n.º 1, compete às instituições estabelecer os procedimentos administrativos adequados à tomada de decisão.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-261944), publicado em 1989-12-30."
   }
  }
 }

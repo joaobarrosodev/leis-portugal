@@ -56,7 +56,7 @@ version_history:
   - date: '2012-01-17'
     amending: pt:dre:453857:por
     amending_title: Aviso n.º 185/2008; Aviso n.º 22/2010; Aviso n.º 70/2010; Resolução da Assembleia da República n.º 78/2011;
-      Aviso n.º 1/2012
+      Aviso n.º 1/2012; Aviso n.º 102/2016
     changes:
     - Altera Artigo unidades 159-159
     - Altera Artigo unidades 163-163
@@ -125,7 +125,8 @@ provenance:
   generated_at: '2026-10-23T11:20:19Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso n.º 185/2008; Aviso n.º 22/2010;
     Aviso n.º 70/2010; Resolução da Assembleia da República n.º 78/2011; Aviso n.º 1/2012. Método e verificação: consolidacao/README.md
-    e consolidacao/piloto/portugal/resolucoes-assembleia-republica/2008/resolucao-assembleia-republica-19-2008.alteracoes.json'
+    e consolidacao/piloto/portugal/resolucoes-assembleia-republica/2008/resolucao-assembleia-republica-19-2008.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Aviso n.º 102/2016.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -6034,7 +6035,9 @@ I) Tratado de Lisboa que altera o Tratado da União Europeia e o Tratado que ins
 
 II) Protocolos:
 
-A) Protocolos anexados ao Tratado da União Europeia, ao Tratado sobre o Funcionamento da União Europeia e, se for caso disso, ao Tratado que institui a Comunidade Europeia da Energia Atómica:
+A) Protocolos a anexar ao Tratado da União Europeia, ao Tratado sobre o Funcionamento da União Europeia e, se for caso disso, ao Tratado que institui a Comunidade Europeia da Energia Atómica:
+
+> Retificado pelo/a [Aviso n.º 102/2016](https://diariodarepublica.pt/dr/detalhe/aviso/102-2016-75367961), publicado em 2016-09-22.
 
 - Protocolo relativo ao papel dos Parlamentos nacionais na União Europeia;- Protocolo relativo à aplicação dos princípios da subsidiariedade e da proporcionalidade;
 
@@ -6056,7 +6059,7 @@ A) Protocolos anexados ao Tratado da União Europeia, ao Tratado sobre o Funcion
 
 - Protocolo relativo às disposições transitórias;
 
-B) Protocolos anexados ao Tratado de Lisboa:
+B) Protocolos a anexar ao Tratado de Lisboa:
 
 - Protocolo n.º 1 que altera os Protocolos anexados ao Tratado da União Europeia, ao Tratado que institui a Comunidade Europeia e/ou ao Tratado que institui a Comunidade Europeia da Energia Atómica;
 

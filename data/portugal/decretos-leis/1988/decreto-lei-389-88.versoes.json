@@ -30,10 +30,18 @@
      "title": "Decreto-Lei n.º 317/90",
      "published": "1990-10-13",
      "dre_path": "/dr/detalhe/decreto-lei/317-1990-555834"
+    },
+    {
+     "id": "pt:dre:199605:por",
+     "title": "Declaração",
+     "published": "1988-12-31",
+     "dre_path": "/dr/detalhe/declaracao/1988-199605"
     }
    ],
    "changes": [
-    "Altera Artigo 13.º"
+    "Altera Artigo 13.º",
+    "Retifica Artigo 22",
+    "Retifica Artigo 15"
    ],
    "fragments": [
     "a3c12ea239ac7005",
@@ -58,14 +66,14 @@
     "eafd829ce9bb6d09",
     "35058080f193355d",
     "bdf42d5fa3fe41cb",
-    "020fa151809a217e",
+    "8f70ca3f41a19ac2",
     "ca41a22fd4efc102",
     "d65791bf8cc3f06b",
     "0215e7cfb3f9a605",
     "4fe8cd8ba543219e",
     "1a5bba7bd16e109c",
     "a8fc464fe066e2af",
-    "24d50290254e6608",
+    "26bd20b0f93e5766",
     "473cfee82a9fd560"
    ]
   }
@@ -297,13 +305,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 14.º\n\n1 - Durante o prazo, improrrogável, de 60 dias, contados da data da publicação no Diário da República do despacho de afectação a que se refere o n.º 3 do artigo 8.º, poderão os actuais assistentes e professores auxiliares do quadro transitório requerer ao Ministro da Educação a apreciação curricular para efeitos de provimento nas categorias de professor-adjunto e de professor-coordenador, respectivamente, indicando a respectiva área.\n\n2 - Poderão ainda requerer ao Ministro da Educação, nos termos referidos no número anterior, a apreciação curricular para efeitos de provimento na categoria de professor-coordenador os assistentes do quadro transitório que reúnam os seguintes requisitos à data da entrada em vigor do presente diploma:\n\na) Serem docentes dos extintos institutos industriais à data da sua reconversão em institutos superiores de engenharia;\n\nb) Contarem um mínimo de doze anos de bom e efectivo serviço docente em estabelecimentos de ensino superior, quatro dos quais, pelo menos, como assistentes do quadro transitório dos institutos superiores de engenharia.\n\n3 - Dentro do prazo referido no n.º 1, poderão, também, os docentes dos institutos, à data da entrada em vigor do presente diploma habilitados com o grau de doutor e mestre requerer ao Ministro da Educação o provimento, respectivamente, nas categorias de professor-coordenador e de professor-adjunto, indicando a respectiva área.\n\n4 - A apreciação curricular referida nos n.os 1 e 2 será feita por júris a designar por despacho do Ministro da Educação, de acordo com as estruturas orgânicas dos respectivos quadros, estabelecidas de acordo com o previsto no artigo 8.º\n\n5 - Os júris avaliarão os candidatos em mérito absoluto e, quando for caso disso, procederão à sua ordenação em mérito relativo, tendo, designadamente, em conta o seguinte:\n\na) A qualidade da produção de trabalhos de natureza científica e técnica;\n\nb) Desenvolvimento de actividades docentes;\n\nc) Exercício de actividades nos órgãos de gestão dos institutos;\n\nd) Exercício de actividades profissionais;\n\ne) Provas públicas prestadas no âmbito de concursos anteriores;\n\nf) Bibliografia publicada;\n\ng) Tempo de serviço em actividades de investigação;\n\nh) Participação em missões, congressos e outras reuniões de idêntica natureza.\n\n6 - Na grelha de classificação a estabelecer pelo júri, o peso específico da alínea c) do numero anterior não poderá exceder 20% do total, devendo ser contabilizados 2,5% por cada ano lectivo completo de exercício de funções de gestão.\n\n7 - Os actuais professores auxiliares e assistentes dos quadros transitórios dos Institutos Superiores de Contabilidade e Administração de Aveiro, Coimbra, Lisboa e Porto e dos Institutos Superiores de Engenharia de Coimbra, Lisboa e Porto que não forem providos, precedendo avaliação curricular, respectivamente, nas categorias de professor-coordenador e de professor-adjunto poderão ser admitidos a concurso de provas públicas para estas categorias dos respectivos quadros de professores, com dispensa de qualquer outra habilitação académica além de licenciatura."
   },
-  "020fa151809a217e": {
+  "8f70ca3f41a19ac2": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 15.º\n\n1 - Os docentes referidos no n.º 3 do artigo anterior serão ordenados, para efeitos de provimento das vagas constantes dos mapas III e I anexos ao presente diploma, consoante sejam ou não titulares de lugares dos quadros transitórios a que se refere o artigo 14.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro, de acordo com a antiguidade na obtenção do grau de doutor ou de mestre, conforme os casos.\n\n2 - Quando, para efeitos do disposto no número anterior, um ou mais docentes tenham obtido o mesmo grau, no mesmo dia, a precedência será determinada pela antiguidade na obtenção do grau de licenciado."
+   "in_force_from": "1990-10-18",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-199605), publicado em 1988-12-31."
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - Os docentes referidos no n.º 3 do artigo anterior serão ordenados, para efeitos de provimento das vagas constantes dos mapas III e I anexos ao presente diploma, quer sejam ou não titulares de lugares dos quadros transitórios a que se refere o artigo 14.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro, de acordo com a antiguidade na obtenção do grau de doutor ou de mestre, conforme os casos.\n\n2 - Quando, para efeitos do disposto no número anterior, um ou mais docentes tenham obtido o mesmo grau, no mesmo dia, a precedência será determinada pela antiguidade na obtenção do grau de licenciado.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-199605), publicado em 1988-12-31."
   },
   "ca41a22fd4efc102": {
    "fragment_id": null,
@@ -353,13 +363,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 21.º\n\n1 - Até final do ano lectivo de 1989-1990, a título transitório, podem os conselhos científicos dos institutos, em casos excepcionais, distribuir ao pessoal docente serviço até ao limite de dezasseis horas semanais de aulas.\n\n2 - Os docentes referidos no número anterior que prestem mais de doze horas semanais de aulas, desde que não beneficiem do regime de dedicação exclusiva, terão direito, por cada hora de serviço prestado para além daquele limite, à percepção da remuneração prevista no artigo 31.º do [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), de 27 de Maio."
   },
-  "24d50290254e6608": {
+  "26bd20b0f93e5766": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 22.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 22.º\n\n1 - O disposto no n.º 2 do artigo 14.º do presente diploma entra em vigor no ano lectivo de 1989-1990.\n\n2 - Para efeitos do preceituado no número anterior, os conselhos científicos, quando for caso disso, remeterão as respectivas propostas de planos de estudo à Direcção-Geral do Ensino Superior até 31 de Janeiro de 1989.\n\n3 - Os institutos devem assegurar até ao termo do ano lectivo de 1994-1995, como limite máximo, a leccionação dos planos de estudo dos cursos de bacharelato que tenham uma duração superior à prevista no n.º 2 do artigo 4.º do presente diploma, para os alunos que nele estejam inscritos até ao termo do ano lectivo de 1988-1989 ou que neles desejem reingressar até ao início do ano lectivo de 1993-1994."
+   "markdown": "###### Artigo 22.º\n\n1 - O disposto no n.º 2 do artigo 4.º do presente diploma entra em vigor no ano lectivo de 1989-1990.\n\n2 - Para efeitos do preceituado no número anterior, os conselhos científicos, quando for caso disso, remeterão as respectivas propostas de planos de estudo à Direcção-Geral do Ensino Superior até 31 de Janeiro de 1989.\n\n3 - Os institutos devem assegurar até ao termo do ano lectivo de 1994-1995, como limite máximo, a leccionação dos planos de estudo dos cursos de bacharelato que tenham uma duração superior à prevista no n.º 2 do artigo 4.º do presente diploma, para os alunos que nele estejam inscritos até ao termo do ano lectivo de 1988-1989 ou que neles desejem reingressar até ao início do ano lectivo de 1993-1994."
   },
   "473cfee82a9fd560": {
    "fragment_id": null,

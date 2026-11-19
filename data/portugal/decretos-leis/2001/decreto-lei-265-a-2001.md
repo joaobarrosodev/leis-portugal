@@ -54,10 +54,12 @@ version_history:
     changes: []
   - date: '2002-01-07'
     amending: pt:dre:584795:por
-    amending_title: Lei n.º 1/2002
+    amending_title: Lei n.º 1/2002; Declaração de Rectificação n.º 19-B/2001
     changes:
     - Adita Artigo 5.º-A
     - Adita Artigo 5.º-B
+    - Retifica Artigo 61
+    - Retifica Artigo 88
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/265-a/2001/09/28/p/dre/pt/html
@@ -84,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:27:36Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 1/2002. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-265-a-2001.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-265-a-2001.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 19-B/2001.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -3686,7 +3689,7 @@ i) Luz de nevoeiro, destinada a tornar mais visível o veículo em caso de nevoe
 
 a) De presença, durante o estacionamento fora das localidades ou enquanto aguardam a abertura de passagem de nível;
 
-b) De cruzamento, em locais cuja iluminação permita ao condutor uma visibilidade não inferior a 10 m, no cruzamento com outros veículos, pessoas ou animais, quando o veículo transite a menos de 100 m daquele que o precede, na aproximação de passagem de nível fechada ou durante a paragem ou detenção da marcha do veículo;
+b) De cruzamento, em locais cuja iluminação permita ao condutor uma visibilidade não inferior a 100 m, no cruzamento com outros veículos, pessoas ou animais, quando o veículo transite a menos de 100 m daquele que o precede, na aproximação de passagem de nível fechada ou durante a paragem ou detenção da marcha do veículo;
 
 c) De estrada, nos restantes casos;
 
@@ -3699,6 +3702,8 @@ d) De nevoeiro à retaguarda, sempre que as condições meteorológicas ou ambie
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, salvo o disposto no número seguinte.
 
 5 - Quem utilizar os máximos no cruzamento com outros veículos, pessoas ou animais ou quando o veículo transite a menos de 100 m daquele que o precede ou ainda durante a paragem ou detenção da marcha do veículo é sancionado com coima de (euro) 60 a (euro) 300.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 19-B/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-b-2001-683980), publicado em 2001-09-29.
 
 ###### Artigo 62.º — Avaria
 
@@ -4016,11 +4021,11 @@ c) Ficha de inspecção periódica do veículo, quando obrigatória nos termos l
 
 2 - É obrigatório o uso do sinal de pré-sinalização de perigo:
 
-a) De dia, quando o veículo imobilizado, total ou parcialmente, na faixa de rodagem ou a carga que tenha caído sobre o pavimento não for visível a uma distância de, pelo menos, 10 m;
+a) De dia, quando o veículo imobilizado, total ou parcialmente, na faixa de rodagem ou a carga que tenha caído sobre o pavimento não for visível a uma distância de, pelo menos, 100 m;
 
-b) Do anoitecer ao amanhecer, em quaisquer circunstâncias de imobilização do veículo ou de carga caída na faixa de rodagem ou na berma, salvo nos locais onde as condições de iluminação permitam um fácil reconhecimento a uma distância de 10 m, sem prejuízo do disposto no presente Código quanto à iluminação dos veículos.
+b) Do anoitecer ao amanhecer, em quaisquer circunstâncias de imobilização do veículo ou de carga caída na faixa de rodagem ou na berma, salvo nos locais onde as condições de iluminação permitam um fácil reconhecimento a uma distância de 100 m, sem prejuízo do disposto no presente Código quanto à iluminação dos veículos.
 
-3 - O sinal deve ser colocado verticalmente em relação ao pavimento e ao eixo da faixa de rodagem, a uma distância nunca inferior a 3 m da retaguarda do veículo ou da carga a sinalizar e por forma a ficar bem visível a uma distância de, pelo menos, 100 m.
+3 - O sinal deve ser colocado verticalmente em relação ao pavimento e ao eixo da faixa de rodagem, a uma distância nunca inferior a 30 m da retaguarda do veículo ou da carga a sinalizar e por forma a ficar bem visível a uma distância de, pelo menos, 100 m.
 
 4 - Em regulamento são fixadas as características do sinal de pré-sinalização de perigo.
 

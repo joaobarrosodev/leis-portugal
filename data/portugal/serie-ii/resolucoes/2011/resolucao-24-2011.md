@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2024-01-09'
     amending: pt:dre:836161933:por
-    amending_title: Resolução n.º 3/2023-PG
+    amending_title: Resolução n.º 3/2023-PG; Declaração de Rectificação n.º 1995/2011
     changes:
     - Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::1.º
     - Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::2.º
@@ -121,7 +121,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:14:43Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução n.º 3/2023-PG. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/resolucoes/2011/resolucao-24-2011.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/resolucoes/2011/resolucao-24-2011.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 1995/2011.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -415,11 +416,13 @@ Publique-se na 2.ª série do Diário da República e na 2.ª série dos Jornais
 
 > Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08.
 
-###### Artigo 34.º — Relato de Relatório
+###### Artigo 34.º — Relato de Auditoria
 
 (Revogado.)
 
 > Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 1995/2011](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1995-2011-3478588), publicado em 2011-12-30.
 
 ###### Artigo 35.º — Contraditório
 

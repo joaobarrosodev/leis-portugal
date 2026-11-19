@@ -47,13 +47,20 @@
      "title": "Decreto Regulamentar n.º 38/86",
      "published": "1986-09-08",
      "dre_path": "/dr/detalhe/decreto-regulamentar/38-1986-220135"
+    },
+    {
+     "id": "pt:dre:546396:por",
+     "title": "Declaração",
+     "published": "1985-12-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-546396"
     }
    ],
    "changes": [
-    "Revoga Artigo 4.º"
+    "Revoga Artigo 4.º",
+    "Retifica texto"
    ],
    "fragments": [
-    "6ca2e1e168095e0f",
+    "c0fe7e0f620cbb27",
     "d75bf05caba3a032",
     "de0d0a48b3596272",
     "87e65e13b461fa19",
@@ -281,6 +288,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma produz efeitos a partir de 1 de Dezembro de 1985.\n\nAníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.\n\nPromulgado em 26 de Novembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 26 de Novembro de 1985.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "c0fe7e0f620cbb27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1986-09-13",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-546396), publicado em 1985-12-31."
+   ],
+   "markdown": "Decreto Regulamentar n.º 80/85\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-546396), publicado em 1985-12-31.\n\nde 4 de Dezembro\n\nA valorização das prestações de segurança social, em particular das pensões, é um dos grandes objectivos da política social do Governo, já que dessa forma se contribui muito claramente para a defesa dos interesses dos cidadãos mais desprotegidos.\n\nPor este diploma procede-se à actualização das pensões da Segurança Social. Que seja esta uma das primeiras medidas tomadas pelo presente Governo é significativo da atenção que lhe merecem os cidadãos mais dependentes e corresponde desde já ao cumprimento da promessa de que se visaria muito especialmente o aumento do poder de compra das pensões, tendo em atenção os limites orçamentais.\n\nAs actualizações determinadas significam um acréscimo de despesa de cerca de 6 milhões de contos em 1985 e de mais de 40 milhões em 1986, o que por si só é expressivo do esforço financeiro que implicam.\n\nEstas actualizações traduzem crescimentos de pensões entre 22% e 25,4%, percentagens consideravelmente superiores ao nível de inflação que o Governo estabelece para 1986, constituindo uma excepção à política de rendimentos que vai ser seguida, porque se entende ser uma exigência de justiça social melhorar significativamente o poder de compra e as condições de vida de cidadãos que se encontram entre os mais desprotegidos.\n\nAssim:\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 202.º da Constituição, o seguinte:"
   },
   "ad26bcd3b8b226bd": {
    "fragment_id": null,

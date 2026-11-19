@@ -97,6 +97,12 @@
      "title": "Decreto Regulamentar n.º 4/2010",
      "published": "2010-10-15",
      "dre_path": "/dr/detalhe/decreto-regulamentar/4-2010-307840"
+    },
+    {
+     "id": "pt:dre:315566:por",
+     "title": "Declaração de Rectificação n.º 5-A/2008",
+     "published": "2008-02-08",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/5-a-2008-315566"
     }
    ],
    "changes": [
@@ -106,13 +112,15 @@
     "Altera Artigo 36.º",
     "Revoga Artigo 36.º",
     "Altera Artigo 44.º",
-    "Altera Artigo 45.º"
+    "Altera Artigo 45.º",
+    "Retifica Artigo 2",
+    "Retifica Artigo 24"
    ],
    "fragments": [
     "6b47f7fdad643d3a",
     "425b1e92135c90a8",
     "5b1bb12ae02467eb",
-    "7194486660ecca2a",
+    "b79ea8614f28ce80",
     "76374d198e4d3c5e",
     "ef7fbe93ab1ab596",
     "54a6d26e1f18f717",
@@ -138,7 +146,7 @@
     "ae8666e3c1c1f421",
     "34905317ddc47019",
     "3fd3e14122bb7f9a",
-    "7ff7601048599793",
+    "ac8f0c9aa7990492",
     "4e4d28048fe4790e",
     "3f1cb73f6d2a4086",
     "e50bd697868f8dd5",
@@ -734,6 +742,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 57.º — Norma revogatória\n\nO presente decreto regulamentar revoga o Decreto Regulamentar n.º 12-A/2000, de 15 de Setembro, a Portaria n.º 799-B/2000, de 20 de Setembro, e a Portaria n.º 296/2002, de 19 de Março.\n\nVisto e aprovado em Conselho de Ministros de 27 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Rui Carlos Pereira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva - Francisco Ventura Ramos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Mário Vieira de Carvalho.\n\nPromulgado em 5 de Dezembro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de Dezembro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
   },
+  "b79ea8614f28ce80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2010-10-16",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 5-A/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-a-2008-315566), publicado em 2008-02-08."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - As disposições do presente decreto regulamentar aplicam-se aos PO financiados pelo FSE, designadamente o PO Potencial Humano, o PO de Assistência Técnica do FSE e os PO Regionais das Regiões Autónomas.\n\n2 - Nos termos do disposto no n.º 2 do artigo 34.º do Regulamento (CE) n.º [1083/2006](https://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 31 de Julho, é aplicável, com as necessárias adaptações e nos termos em que as mesmas sejam definidas em sede de regulamento específico, às operações financiadas pelo FEDER abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º [1081/2006](https://data.europa.eu/eli/reg/2006/1081/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de Julho, relativo ao FSE, o disposto no artigo 4.º, nas alíneas a) e f) do n.º 1 e no n.º 3 do artigo 10.º, nos artigos 12.º a 15.º, nas alíneas d) e e) do n.º 1 e nos n.os 2, 3, 4, 6, 7 e 9 do artigo 17.º, nos artigos 18.º e 19.º, nos n.os 1 a 8 do artigo 20.º, e nos artigos 32.º, 35.º e 36.º, com excepção do seu n.º 2, todos do presente decreto regulamentar.\n\n3 - Sem prejuízo do disposto nos regulamentos comunitários relativos ao Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e ao Fundo Europeu das Pescas (FEP), as disposições do presente decreto regulamentar são aplicáveis, com as necessárias adaptações e nos termos em que as mesmas forem definidas em sede dos regulamentos específicos dos instrumentos de programação do FEADER e do FEP, quando desenvolvam acções de natureza idêntica às abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º [1081/2006](https://data.europa.eu/eli/reg/2006/1081/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de Julho.\n\n4 - O presente decreto regulamentar aplica-se, com as necessárias adaptações, a definir para o efeito em sede de regulamento específico, às operações desenvolvidas no âmbito da inserção no mercado de trabalho e dos apoios ao emprego.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 5-A/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-a-2008-315566), publicado em 2008-02-08."
+  },
   "9458aabd092c568c": {
    "fragment_id": null,
    "type": null,
@@ -743,6 +761,14 @@
     "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), publicado em 2010-10-15."
    ],
    "markdown": "###### Artigo 17.º — Requisitos gerais das entidades beneficiárias\n\n1 - As entidades beneficiárias devem reunir, desde a data da apresentação da candidatura, os seguintes requisitos:\n\na) Encontrarem-se regularmente constituídas e devidamente registadas;\n\nb) Disporem de contabilidade organizada segundo o plano oficial de contabilidade (POC) aplicável;\n\nc) Terem a situação regularizada em matéria de impostos e de contribuições para a segurança social;\n\nd) Terem a situação regularizada em matéria de restituições no âmbito dos financiamentos do FSE;\n\ne) Encontrarem-se certificadas nos domínios para os quais solicitam apoio financeiro ou recorrerem a entidades formadoras certificadas, nos termos da legislação nacional relativa à certificação de entidades formadoras, quando tal seja exigível, de acordo com o previsto no presente decreto regulamentar.\n\n2 - O disposto na alínea e) do número anterior não se aplica às entidades formadoras que sejam reconhecidas pelos respectivos ministérios da tutela e que se encontrem reconhecidas, nomeadamente, no âmbito dos sistemas educativo, científico e tecnológico.\n\n3 - As entidades beneficiárias que tenham sido condenadas em processo crime, por factos que envolvam disponibilidades financeiras dos fundos estruturais, ficam inibidas do direito de acesso ao financiamento público no âmbito do FSE por um período de dois anos contado a partir do trânsito em julgado da decisão condenatória, salvo se, da pena aplicada no âmbito desse processo, resultar prazo superior, caso em que se aplica este último.\n\n4 - As entidades beneficiárias contra quem tenha sido deduzida acusação em processo crime pelos factos referidos no número anterior, ou em relação às quais tenha sido feita participação criminal por factos apurados em processos de controlo ou auditoria, apenas podem ter acesso a apoios financeiros públicos no âmbito do FSE, desde que apresentem garantia bancária por cada pagamento a efectuar, independentemente da candidatura a que se reporta, válida até à aprovação do saldo final ou até à restituição dos apoios recebidos, se a ela houver lugar.\n\n5 - As entidades que recusarem a submissão ao controlo só podem aceder a apoios do FSE, dentro dos dois anos subsequentes à decisão de revogação proferida pela autoridade de gestão com fundamento naquele facto, mediante a apresentação de garantia bancária a prestar nos termos previstos no número anterior.\n\n6 - As garantias bancárias prestadas por força do disposto nos números anteriores podem ser objecto de redução, em sede de execução das mesmas, até ao valor que for apurado no saldo final, como sendo o devido a título de restituição e liberadas, ou por restituição dos montantes em causa, ou na sequência de acção de controlo que conclua pela inexistência de situações de natureza idêntica ou semelhante às referidas nos n.os 4 e 5 do presente artigo.\n\n7 - As entidades beneficiárias que tenham sido condenadas em processo crime ou contra-ordenacional por violação da legislação sobre trabalho de menores e discriminação no trabalho e emprego, nomeadamente em função do sexo, da deficiência e da existência de risco agravado de saúde, encontram-se inibidas de aceder a financiamento do FSE, pelo prazo de dois anos, salvo se, da sanção aplicada no âmbito desse processo, resultar prazo superior, caso em que se aplica este último.\n\n8 - Em caso de aplicação do disposto no artigo 65.º do Decreto-Lei n.º 312/2007, de 17 de Setembro, a verificação dos requisitos de acesso previstos no presente artigo reporta-se ao organismo que assume a qualidade de beneficiário responsável pela execução de políticas públicas.\n\n9 - A revogação do estatuto de certificação da entidade, de acordo com o previsto na legislação nacional relativa à certificação de entidades formadoras, no decurso da execução de uma candidatura já aprovada não prejudica a elegibilidade das acções que a integram e que já se tenham iniciado à data dessa revogação.\n\n10 - As entidades beneficiárias em relação às quais tenha sido feita, nos termos do n.º 4, participação criminal podem, na pendência do processo e na ausência de dedução de acusação em processo crime, solicitar, em candidaturas diversas daquela onde foram apurados os factos que originaram a participação, um pagamento anual de reembolso, desde que precedido de acção de controlo que conclua pela inexistência de situações de irregularidade.\n\n11 - O pagamento referido no número anterior é efectuado com dispensa de prestação da respectiva garantia, ou com liberação da garantia anteriormente prestada, deduzindo-se qualquer quantia já recebida.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), publicado em 2010-10-15."
+  },
+  "ac8f0c9aa7990492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Candidatura integrada de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Candidatura integrada de formação\n\n1 - Considera-se candidatura integrada de formação um conjunto estruturado de acções de carácter formativo, promovido e coordenado pelos parceiros sociais com assento na Comissão Permanente de Concertação Social ou, a título excepcional e salvo para efeitos do disposto no n.º 12, por outras entidades, equiparadas por despacho do Ministro do Trabalho e da Solidariedade Social a parceiro social, de dimensão e representatividade apropriadas com assento no Conselho Económico e Social, cuja realização seja assegurada por estes e ou por organizações sectoriais e regionais suas associadas, com recurso a estruturas de formação certificadas.\n\n2 - Uma candidatura integrada de formação pode ser apresentada a uma ou a mais tipologias de intervenção, desde que estas se integrem num único eixo de um mesmo PO, devendo ser apresentadas por um parceiro social com assento na Comissão Permanente de Concertação Social.\n\n3 - O parceiro social que promove e coordena a candidatura integrada deve assegurar, sem prejuízo das competências próprias das autoridades de gestão e controlo no âmbito do FSE, o apoio técnico-pedagógico às entidades associadas envolvidas no desenvolvimento da candidatura, bem como o acompanhamento factual, técnico-pedagógico e contabilístico das acções que a integram, de forma a garantir a concretização dos resultados.\n\n4 - No âmbito das candidaturas integradas de formação, designadamente para efeitos do previsto no número anterior, podem ser financiadas as despesas dos parceiros sociais, realizadas no contexto do desenvolvimento daquelas actividades, as quais devem ser claramente especificadas e cujos limites são definidos em despacho do ministro coordenador da comissão ministerial do PO respectivo.\n\n5 - As entidades associadas, mencionadas no n.º 1, que realizem ou participem na realização de acções ficam sujeitas a acções de verificação, auditoria e avaliação por parte das autoridades de gestão, entidades de controlo no âmbito do FSE.\n\n6 - Na fundamentação das candidaturas integradas de formação deve ser apresentada informação desagregada por cada uma das entidades que integram a respectiva candidatura, nomeadamente no que respeita à programação física.\n\n7 - A verificação dos requisitos previstos no artigo 17.º, bem como as obrigações previstas no presente decreto regulamentar a que estão sujeitos os parceiros sociais responsáveis pela candidatura integrada de formação, designadamente as referidas nos artigos 20.º, 31.º e 32.º, são aplicáveis às entidades associadas à sua realização, na parte correspondente às respectivas acções.\n\n8 - Para efeitos do previsto no presente decreto regulamentar, todas as entidades que integram a candidatura são consideradas entidades beneficiárias.\n\n9 - Sem prejuízo do disposto no número anterior, a responsabilidade perante as autoridades de gestão dos PO e demais órgãos de gestão e controlo do FSE incumbe, em exclusivo, ao parceiro social que promove e coordena a candidatura, cabendo-lhe, nessa medida, proceder às restituições por inteiro a que haja lugar.\n\n10 - O disposto no número anterior não prejudica a eventual responsabilidade que, em caso de devolução, caiba às entidades associadas que deram origem à obrigação de restituição, perante o parceiro social que promove e coordena a candidatura.\n\n11 - Em sede de regulamento específico podem, para as candidaturas integradas de formação, ser definidas regras complementares, designadamente de natureza procedimental, ao disposto no presente decreto regulamentar.\n\n12 - O disposto no presente artigo não prejudica a possibilidade de os parceiros sociais com assento na Comissão Permanente de Concertação Social apresentarem, nos termos do disposto no artigo 3.º do artigo 5.º do Regulamento (CE) n.º [1081/2006](https://data.europa.eu/eli/reg/2006/1081/oj?locale=pt), do Parlamento e do Conselho, de 31 de Julho, candidaturas que integrem acções de carácter não formativo, nomeadamente, no âmbito da capacitação institucional."
   },
   "0f29bb706b8fbfa7": {
    "fragment_id": null,

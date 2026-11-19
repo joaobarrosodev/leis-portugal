@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '2000-07-13'
     amending: pt:dre:2644757:por
-    amending_title: Portaria n.º 987/2000 (2.ª série)
+    amending_title: Portaria n.º 987/2000 (2.ª série); Declaração de Rectificação n.º 17-D/99
     changes:
     - Adita Artigo depois da unidade 23
     - Adita Artigo depois da unidade 36
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/907/1999/10/13/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:18:34Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 987/2000 (2.ª série).
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-907-99.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1999/portaria-907-99.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 17-D/99.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,7 +165,9 @@ j) Um representante da IGAT - Inspecção-Geral da Administração do Territóri
 
 k) Um representante da ANEOP - Associação Nacional de Empreiteiros de Obras Públicas;
 
-l) Um representante da AEOPS - Associação de Empresas de Construção de Obras Públicas;
+l) Um representante da AECOPS - Associação de Empresas de Construção de Obras Públicas;
+
+> Retificado pelo/a [Declaração de Rectificação n.º 17-D/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-d-1999-431669), publicado em 1999-10-30.
 
 m) Um representante da AICCOPN - Associação dos Industriais da Construção Civil e Obras Públicas;
 
@@ -181,9 +185,9 @@ s) Um representante de um serviço do Governo Regional da Madeira ou de um organ
 
 > Aditado pelo/a [Portaria n.º 987/2000 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/987-2000-2644757), publicado em 2000-07-12.
 
-2.º Da 1.ª secção da CCEOPP fazem parte as entidades referidas no número anterior, com excepção das previstas nas alíneas g), h) e i).
+2.º Da 1.ª secção da CCEOPP fazem parte as entidades referidas no número anterior, com excepção das previstas nas alíneas g), h), i) e j).
 
-3.º Da 2.ª secção fazem parte as entidades referidas no número anterior, com excepção das previstas nas alíneas g), h), i), l), m) e n) do n.º 1.º
+3.º Da 2.ª secção fazem parte as entidades referidas nas alíneas g), h), i), j), l), m) e n) do n.º 1.º
 
 4.º A Comissão de Índices e Fórmulas de Empreitadas (CIFE), para além do seu presidente, é composta pelas seguintes entidades:
 

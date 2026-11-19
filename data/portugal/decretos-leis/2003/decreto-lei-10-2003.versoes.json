@@ -83,6 +83,12 @@
      "title": "Decreto-Lei n.º 125/2014",
      "published": "2014-08-18",
      "dre_path": "/dr/detalhe/decreto-lei/125-2014-56152680"
+    },
+    {
+     "id": "pt:dre:166403:por",
+     "title": "Declaração de Rectificação n.º 1/2003",
+     "published": "2003-01-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1-2003-166403"
     }
    ],
    "changes": [
@@ -94,7 +100,8 @@
     "Revoga Artigo 8.º",
     "Revoga Artigo 9.º",
     "Revoga Artigo 10.º",
-    "Revoga Artigo 11.º"
+    "Revoga Artigo 11.º",
+    "Retifica Artigo 11"
    ],
    "fragments": [
     "64c14b11cfb86ca9",
@@ -110,7 +117,7 @@
     "b2cdaf8e1c88339e",
     "80f5dc12d0f45837",
     "eed6508d4e36ba85",
-    "ff5fc9389a9028c0",
+    "b8e0533308388e54",
     "23836370ae405d04",
     "5f8f39c642dceff0",
     "63551ea2e695afcc",
@@ -730,15 +737,16 @@
    ],
    "markdown": "###### Artigo 10.º — Recursos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
   },
-  "ff5fc9389a9028c0": {
+  "b8e0533308388e54": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 11.º — Norma revogatória",
    "in_force_from": "2014-09-01",
    "changed_by": [
-    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18."
+    "Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 1/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2003-166403), publicado em 2003-01-28."
    ],
-   "markdown": "###### Artigo 11.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.\n\nVisto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.\n\nPromulgado em 8 de Janeiro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Janeiro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\nESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA"
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 125/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2014-56152680), publicado em 2014-08-18.\n\nVisto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.\n\nPromulgado em 8 de Janeiro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Janeiro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\nESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA\n\n> Retificado pelo/a [Declaração de Rectificação n.º 1/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2003-166403), publicado em 2003-01-28."
   }
  }
 }

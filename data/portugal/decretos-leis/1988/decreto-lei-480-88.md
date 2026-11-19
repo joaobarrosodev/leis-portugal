@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1990-03-25'
     amending: pt:dre:333290:por
-    amending_title: Decreto-Lei n.º 100/90
+    amending_title: Decreto-Lei n.º 100/90; Declaração
     changes:
     - Altera Artigo 10.º
+    - Retifica Artigo 14
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:46:21Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 100/90. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-480-88.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-480-88.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -355,7 +357,7 @@ g) A [Portaria n.º 34/88](https://diariodarepublica.pt/dr/detalhe/portaria/34-1
 
 h) O [Decreto-Lei n.º 261/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1988-372626), de 23 de Julho.
 
-2 - A revogação das normas a que se refere o número anterior não prejudica o disposto no artigo 13.º do presente diploma.
+2 - A revogação das normas a que se refere o número anterior não prejudica o disposto no artigo 12.º do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
@@ -368,3 +370,5 @@ O Presidente da República, MÁRIO SOARES.
 Referendado em 13 de Dezembro de 1988.
 
 O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-199615), publicado em 1988-12-31.

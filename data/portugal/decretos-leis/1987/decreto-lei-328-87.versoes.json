@@ -23,16 +23,23 @@
      "title": "Decreto-Lei n.º 204/88",
      "published": "1988-06-16",
      "dre_path": "/dr/detalhe/decreto-lei/204-1988-372197"
+    },
+    {
+     "id": "pt:dre:482402:por",
+     "title": "Declaração",
+     "published": "1987-11-30",
+     "dre_path": "/dr/detalhe/declaracao/1987-482402"
     }
    ],
    "changes": [
-    "Altera Artigo 2.º"
+    "Altera Artigo 2.º",
+    "Retifica Artigo 3"
    ],
    "fragments": [
     "0ae06a5d9babaa57",
     "8721115d92daaef4",
     "8cbd8a1863e58c3c",
-    "a5429ded7c4a537e",
+    "05a581a552f9dc75",
     "eed0b1182fb2ce7d",
     "117a8558eedc4406"
    ]
@@ -73,13 +80,15 @@
    ],
    "markdown": "###### Artigo 2.º\n\n1 - A publicidade dos resultados dos concursos abertos nos termos do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro, quando o número de candidatos for igual ou superior a 70, será feita mediante aviso a publicar na 2.ª série do Diário da República, donde constem as listas provisória, definitiva ou de classificação final, consoante os casos.\n\n2 - Quando o número de candidatos não ultrapasse o limite referido no número anterior, será publicado na 2.ª série do Diário da República aviso informando do local ou locais onde podem ser consultadas as listas, devendo ainda os serviços promover o envio aos interessados, por carta registada, de fotocópia da lista respectiva, com indicação dos motivos determinantes da admissão condicional ou da exclusão do concurso, quando for caso disso.\n\n3 - Nas situações referidas no número anterior, o prazo para a interposição de eventuais recursos da lista provisória ou da lista de classificação final, nos termos do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro, conta-se a partir da data do registo da comunicação, respeitada a dilação de três dias.\n\n> Alterado pelo/a [Decreto-Lei n.º 204/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1988-372197), publicado em 1988-06-16."
   },
-  "a5429ded7c4a537e": {
+  "05a581a552f9dc75": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\n1 - Os funcionários ou agentes, quando providos a título definitivo em lugar diverso, em consequência de concurso, transferência, reclassificação ou reconversão profissional, são exonerados dos lugares que vêm ocupando, com efeitos à data da posse.\n\n2 - Os extractos a publicar na 2.ª série do Diário da República, ou nos apêndices relativos ao provimento de funcionários ou agentes, de acordo com o disposto no n.º 1 do presente artigo, conterão obrigatoriamente referência ao estipulado no final do mesmo número.\n\n3 - A posse definitiva no cargo constitui acto declarativo da exoneração, devendo o respectivo termo ser enviado, no prazo máximo de cinco dias, ao Tribunal de Contas para junção ao processo individual do funcionário.\n\n4 - É obrigatória a apresentação da declaração relativa a incompatibilidades e acumulações não permitidas, prevista na alínea c) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, em todos os casos em que o funcionário mantenha o direito ao lugar de origem."
+   "in_force_from": "1988-06-21",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-482402), publicado em 1987-11-30."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Os funcionários ou agentes, quando providos a título definitivo em lugar diverso, em consequência de concurso, transferência, reclassificação ou reconversão profissional, são exonerados dos lugares que vêm ocupando, com efeitos à data da posse.\n\n2 - Os extractos a publicar na 2.ª série do Diário da República, ou nos apêndices relativos ao provimento de funcionários ou agentes, de acordo com o disposto no n.º 1 do presente artigo, conterão obrigatoriamente referência ao estipulado no final do mesmo número.\n\n3 - A posse definitiva no cargo constitui acto declarativo da exoneração, devendo o respectivo termo ser enviado, no prazo máximo de cinco dias, ao Tribunal de Contas para junção ao processo individual do funcionário.\n\n4 - É obrigatória a apresentação da declaração relativa a incompatibilidades e acumulações não permitidas, prevista na alínea a) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, em todos os casos em que o funcionário mantenha o direito ao lugar de origem.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-482402), publicado em 1987-11-30."
   },
   "eed0b1182fb2ce7d": {
    "fragment_id": null,

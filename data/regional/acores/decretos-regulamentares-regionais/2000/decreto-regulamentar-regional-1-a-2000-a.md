@@ -54,10 +54,12 @@ version_history:
     changes: []
   - date: '2002-01-22'
     amending: pt:dre:233713:por
-    amending_title: Decreto Regulamentar Regional n.º 4-A/2002/A
+    amending_title: Decreto Regulamentar Regional n.º 4-A/2002/A; Declaração de Rectificação n.º 5-F/2000
     changes:
     - Altera Artigo 23.º
     - Altera Artigo 43.º
+    - Retifica Artigo 20
+    - Retifica Artigo 35
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/1-a/2000/01/03/a/dre/pt/html
@@ -84,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:29:12Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
-    4-A/2002/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2000/decreto-regulamentar-regional-1-a-2000-a.alteracoes.json'
+    4-A/2002/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2000/decreto-regulamentar-regional-1-a-2000-a.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 5-F/2000.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -496,7 +499,7 @@ c) Impossibilidade de, no respectivo ano e nos dois anos subsequentes, serem col
 
 ###### Artigo 20.º — Obrigações dos docentes
 
-1 - A manutenção na situação de titular de quadro de escola dos docentes que obtenham provimento integrados nas prioridades descritas nas alíneas a) e b) do n.º 4 do artigo 10.º do presente Regulamento fica condicionada ao cumprimento integral dos módulos de tempo de serviço ali fixados.
+1 - A manutenção na situação de titular de quadro de escola dos docentes que obtenham provimento integrados nas prioridades descritas nas alíneas a) e b) do n.º 4 e a) e b) do n.º 5 do artigo 10.º do presente regulamento fica condicionada ao cumprimento integral dos módulos de tempo de serviço ali fixados.
 
 2 - A manutenção na situação de titular do quadro de zona pedagógica fica condicionada, cumulativamente, às seguintes obrigações:
 
@@ -505,6 +508,8 @@ a) Aceitar, em cada ano, o serviço docente que lhe for distribuído em qualquer
 b) Aceitar submeter-se aos acréscimos de formação ou acções de reconversão para que forem convocados durante um período de seis anos a contar da primeira nomeação para o quadro de zona pedagógica;
 
 c) Concorrer anualmente a todos os quadros de escola de uma ilha, de qualquer quadro de zona pedagógica.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 5-F/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-f-2000-585189), publicado em 2000-02-29.
 
 ###### Artigo 21.º — Incumprimento das obrigações
 
@@ -698,7 +703,7 @@ Para efeitos de graduação académica relativamente ao concurso externo, aplica
 
 1 - Os docentes dos quadros de escola que pretendam beneficiar de deslocação por um ano escolar terão de fazer a necessária candidatura à afectação por prioridade, nos termos dos números seguintes.
 
-2 - Nos oito dias úteis subsequentes à publicação das listas de colocações do concurso externo, os docentes dos quadros de escola não abrangidos pelas alíneas a) e b) do n.º 4 do artigo 10.º e pela alínea a) do n.º 4 do artigo 25.º do presente Regulamento devem preencher o boletim adequado para afectação por prioridade, editado pela Direcção Regional da Educação, ordenando as suas preferências.
+2 - Nos oito dias úteis subsequentes à publicação das listas de colocações do concurso externo, os docentes dos quadros de escola não abrangidos pelas alíneas a) e b) do n.º 4 e a) e b) do n.º 5 do artigo 10.º e pelas alíneas a) e c) do n.º 4 do artigo 25.º do presente Regulamento devem preencher o boletim adequado para afectação por prioridade, editado pela Direcção Regional da Educação, ordenando as suas preferências.
 
 3 - O boletim é entregue na escola onde o docente se encontra em exercício de funções, sendo de imediato remetido pelo órgão de gestão e administração à Direcção Regional da Educação.
 

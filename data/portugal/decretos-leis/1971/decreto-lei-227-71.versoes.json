@@ -23,10 +23,17 @@
      "title": "Decreto-Lei n.º 30/85",
      "published": "1985-01-24",
      "dre_path": "/dr/detalhe/decreto-lei/30-1985-328435"
+    },
+    {
+     "id": "pt:dre:643303:por",
+     "title": "Rectificação",
+     "published": "1971-06-18",
+     "dre_path": "/dr/detalhe/rectificacao/1971-643303"
     }
    ],
    "changes": [
-    "Altera Artigo 2.º"
+    "Altera Artigo 2.º",
+    "Retifica Artigo 7"
    ],
    "fragments": [
     "62080f1f7a35b435",
@@ -36,7 +43,7 @@
     "53777fa2afef2cb5",
     "479ddcfd8da10897",
     "43cf1b3f9ac526a2",
-    "9cbd0959b1235178",
+    "372ab775997dec49",
     "88553c43a97be386",
     "cb8867ada7a7ec20",
     "894ab562d19c4cb0",
@@ -111,13 +118,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 6.º\n\nA competência para autorizar despesas e as formalidades a observar na sua realização são reguladas pelas leis gerais de contabilidade pública e regime especiais estabelecidos para a Guarda Fiscal."
   },
-  "9cbd0959b1235178": {
+  "372ab775997dec49": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nOs orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro, através da Direcção-Geral da Contabilidade Pública."
+   "in_force_from": "1985-01-25",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1971-643303), publicado em 1971-06-18."
+   ],
+   "markdown": "###### Artigo 7.º\n\nOs orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública.\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1971-643303), publicado em 1971-06-18."
   },
   "88553c43a97be386": {
    "fragment_id": null,

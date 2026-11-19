@@ -32,10 +32,17 @@
      "title": "Decreto-Lei n.º 247/92",
      "published": "1992-11-07",
      "dre_path": "/dr/detalhe/decreto-lei/247-1992-216106"
+    },
+    {
+     "id": "pt:dre:376074:por",
+     "title": "Declaração",
+     "published": "1982-10-19",
+     "dre_path": "/dr/detalhe/declaracao/1982-376074"
     }
    ],
    "changes": [
-    "Revoga Artigo 4.º"
+    "Revoga Artigo 4.º",
+    "Retifica Artigo 5"
    ],
    "fragments": [
     "68613c224a3dfce1",
@@ -43,7 +50,7 @@
     "fd772c9acb70f3ae",
     "a9b514815c4683e7",
     "d44aecc6ca1a388a",
-    "5a8a97453719ed59",
+    "4b582dd103fe455f",
     "e39a4455523a8160",
     "8fa187de2fa74960",
     "6d3f61e1f006e03f",
@@ -166,13 +173,15 @@
    ],
    "markdown": "###### Artigo 4.º — (Constituição de excedentes)\n\n1 - Serão constituídos em excedentes, desde que reúnam os requisitos previstos na legislação aplicável:\n\na) O pessoal referido nas alíneas a) a f) do n.º 1 do artigo 3.º;\n\nb) Os professores efectivos, regentes de trabalhos efectivos e restante pessoal não seleccionado para transitar para as Escolas Superiores Agrárias.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 247/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1992-216106), publicado em 1992-11-07."
   },
-  "5a8a97453719ed59": {
+  "4b582dd103fe455f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º — (Formalidades a observar)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 5.º — (Formalidades a observar)\n\n1 - A transição do pessoal seleccionado nos termos previstos no artigo 3.º está sujeita às seguintes formalidades:\n\na) Despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa;\n\nb) Anotação do Tribunal de Contas;\n\nc) Publicação no Diário da República.\n\n2 - Os despachos a que alude o n.º 1 poderão assumir a forma de listas nominativas e mencionarão o nome, categoria, letra de vencimento e vínculo de cada um dos funcionários e agentes abrangidos.\n\n3 - Para efeitos do disposto no número anterior, o pessoal que transitar para as Escolas Superiores Agrárias de Coimbra e de Santarém manterá o vínculo, categoria e vencimento que possuía nas Escolas de Regentes Agrícolas a que pertencia, salvo no que respeita aos professores efectivos, cuja situação pode vir a ser objecto de alterações decorrentes do processo de atribuição de fases em curso.\n\n4 - Os efectivos objecto de transição, nos termos do disposto nos artigos anteriores, serão automaticamente abrangidos pelos mapas de pessoal das Escolas Superiores Agrárias de Coimbra e de Santarém.\n\n5 - A constituição em excedente do pessoal mencionado no artigo 4.º far-se-á nos termos da legislação aplicável, sem prejuízo de a situação dos professores efectivos referidos na alínea b) do n.º 1 do artigo 3.º poder vir a ser objecto de alterações decorrentes do processo de atribuição de fases em curso.\n\n6 - A transição ou a constituição em excedente dos regentes de trabalhos far-se-á observando a categoria e letra de vencimento que detenham ao abrigo do disposto nas Portarias n.os [764/82](https://diariodarepublica.pt/dr/detalhe/portaria/764-1982-396916), de 6 de Agosto, e [826/82](https://diariodarepublica.pt/dr/detalhe/portaria/826-1982-374637) ?."
+   "in_force_from": "1992-11-12",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-376074), publicado em 1982-10-19."
+   ],
+   "markdown": "###### Artigo 5.º — (Formalidades a observar)\n\n1 - A transição do pessoal seleccionado nos termos previstos no artigo 3.º está sujeita às seguintes formalidades:\n\na) Despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Educação e da Reforma Administrativa;\n\nb) Anotação do Tribunal de Contas;\n\nc) Publicação no Diário da República.\n\n2 - Os despachos a que alude o n.º 1 poderão assumir a forma de listas nominativas e mencionarão o nome, categoria, letra de vencimento e vínculo de cada um dos funcionários e agentes abrangidos.\n\n3 - Para efeitos do disposto no número anterior, o pessoal que transitar para as Escolas Superiores Agrárias de Coimbra e de Santarém manterá o vínculo, categoria e vencimento que possuía nas Escolas de Regentes Agrícolas a que pertencia, salvo no que respeita aos professores efectivos, cuja situação pode vir a ser objecto de alterações decorrentes do processo de atribuição de fases em curso.\n\n4 - Os efectivos objecto de transição, nos termos do disposto nos artigos anteriores, serão automaticamente abrangidos pelos mapas de pessoal das Escolas Superiores Agrárias de Coimbra e de Santarém.\n\n5 - A constituição em excedente do pessoal mencionado no artigo 4.º far-se-á nos termos da legislação aplicável, sem prejuízo de a situação dos professores efectivos referidos na alínea b) do n.º 1 do artigo 3.º poder vir a ser objecto de alterações decorrentes do processo de atribuição de fases em curso.\n\n6 - A transição ou a constituição em excedente dos regentes de trabalhos far-se-á observando a categoria e letra de vencimento que detenham ao abrigo do disposto nas Portarias n.os [764/82](https://diariodarepublica.pt/dr/detalhe/portaria/764-1982-396916), de 6 de Agosto, e 834/82, de 1 de Setembro ?.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-376074), publicado em 1982-10-19."
   },
   "e39a4455523a8160": {
    "fragment_id": null,

@@ -53,11 +53,20 @@
      "title": "Lei n.º 51/90",
      "published": "1990-08-27",
      "dre_path": "/dr/detalhe/lei/51-1990-574312"
+    },
+    {
+     "id": "pt:dre:220685:por",
+     "title": "Declaração",
+     "published": "1988-10-31",
+     "dre_path": "/dr/detalhe/declaracao/1988-220685"
     }
    ],
    "changes": [
     "Altera Artigo 6.º",
-    "Altera Artigo 24.º"
+    "Altera Artigo 24.º",
+    "Retifica Artigo 18",
+    "Retifica Artigo 20",
+    "Retifica texto"
    ],
    "fragments": [
     "a8a94049c5b2a598",
@@ -81,15 +90,15 @@
     "d374f7aa71219ea6",
     "f2d141bff4a7c60c",
     "4757896be9d87dc2",
-    "86e8afefd189708c",
+    "5ebf70a17ff5df7e",
     "6fc27163d2bd025a",
-    "4492f0f67cef60b1",
+    "3a4d0f2b464b77e5",
     "44cb0ae593aeed77",
     "d92632ee93af0a26",
     "d617a7c229359779",
     "593f7f097d929e75",
     "ab7de06ccd7f9190",
-    "2df107da018765fa",
+    "555647b104fc4e84",
     "34c05ebed120879e"
    ]
   }
@@ -353,6 +362,24 @@
    ],
    "markdown": "###### Artigo 6.º — Comissão directiva: composição, competência e funcionamento\n\n1 - A comissão directiva é constituída pelas seguintes entidades:\n\na) SNPRCN, que a coordena e orienta;\n\nb) Câmaras Municipais de Vila do Bispo, Aljezur, Odemira e Sines;\n\nc) Comissão de Coordenação da Região do Algarve, Comissão de Coordenação da Região do Alentejo, Direcção-Geral do Ordenamento do Território, Direcção-Geral da Marinha, Direcção-Geral de Hidráulica e Engenharia Agrícola e Direcção-Geral dos Portos.\n\n2 - O SNPRCN é representado pelo respectivo presidente, pelo vice-presidente ou por um director de serviços com poderes delegados para o efeito.\n\n3 - As Câmaras Municipais são representadas pelo respectivo presidente ou por um vereador com poderes delegados para o efeito.\n\n4 - A comissão directiva compete:\n\na) Exercer, em geral, os poderes de coordenação da actividade dos órgãos da Paisagem Protegida e, nomeadamente, emitir instruções genéricas dirigidas ao director, sem prejuízo do disposto no artigo 16.º;\n\nb) Submeter à aprovação do SNPRCN os planos de investimentos anuais e plurianuais;\n\nc) Apreciar e propor à aprovação superior o plano de ordenamento da Paisagem Protegida;\n\nd) Definir a orientação geral da administração da Paisagem Protegida e emitir as directivas necessárias;\n\ne) Aplicar as coimas e sanções acessórias previstas no presente diploma na área terrestre;\n\nf) Tomar as medidas administrativas de reposição e renaturalização previstas no presente diploma.\n\n5 - As competências referidas nas alíneas c), e) e f) do número anterior não prejudicam as competências próprias que nas matérias em causa estão cometidas às entidades administrantes do domínio público marítimo.\n\n6 - As deliberações da comissão directiva são tomadas com o voto favorável de seis das entidades que a compõem, com excepção das deliberações para as quais seja legalmente exigida outra maioria.\n\n7 - A comissão directiva reunirá ordinariamente de dois em dois meses e extraordinariamente sempre que convocada por três dos seus membros.\n\n8 - A comissão directiva elabora e aprova o seu próprio regimento.\n\n> Alterado pelo/a [Lei n.º 51/90](https://diariodarepublica.pt/dr/detalhe/lei/51-1990-574312), publicado em 1990-08-27."
   },
+  "5ebf70a17ff5df7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Contra-ordenações",
+   "in_force_from": "1990-09-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-220685), publicado em 1988-10-31."
+   ],
+   "markdown": "###### Artigo 18.º — Contra-ordenações\n\n1 - A prática não autorizada dos actos e actividades referidos no artigo 16.º constitui contra-ordenação punível com coima:\n\na) De 100000$00 a 750000$00, a infracção ao disposto nas alíneas e), f) e g) do n.º 1 e alínea e) do n.º 5 do artigo citado;\n\nb) De 500000$00 a 3000000$00, a infracção ao disposto nas alíneas a), b) e c) do n.º 1 e nas alíneas a), b), c) e d) do n.º 5 do mesmo artigo.\n\n2 - A negligência é punível.\n\n3 - Na graduação das coimas ter-se-á em consideração, nomeadamente, a gravidade da contra-ordenação, atendendo ao perigo ou dano causado no equilíbrio ecológico da Paisagem Protegida ou de quaisquer dos seus elementos físicos, geológicos, paisagísticos, da fauna ou da flora ou outros que nela se integram.\n\n4 - Poderão ser apreendidos e declarados perdidos a favor do Estado os objectos utilizados ou produzidos durante a infracção.\n\n5 - Os objectos apreendidos nos termos do número anterior ficarão à guarda do SNPRCN até à decisão sobre a sua afectação ao património deste serviço ou de outra entidade pública.\n\n6 - As receitas provenientes das coimas revertem a favor do SNPRCN, salvo nos casos previstos no n.º 2 do artigo seguinte, caso em que revertem para as respectivas autoridades marítimas.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-220685), publicado em 1988-10-31."
+  },
+  "3a4d0f2b464b77e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Obrigação de reposição da situação anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Obrigação de reposição da situação anterior\n\n1 - Independentemente do processamento por contra-ordenação, aqueles que infrinjam o disposto nos n.os 1 e 5 do artigo 16.º, incluindo pessoas colectivas, são obrigados solidariamente, a todo o tempo, a repor a situação anterior à infracção.\n\n2 - Se os infractores não cumprirem a obrigação referida no número anterior no prazo que lhes for notificado, a comissão directiva ou os capitães de porto mandarão proceder às demolições, obras e trabalhos necessários à reposição da situação anterior à infracção, apresentando aos agentes infractores, para cobrança, uma nota das despesas efectuadas.\n\n3 - Na falta de pagamento dentro do prazo fixado nos termos do número anterior, será a cobrança efectuada nos termos do processo das execuções fiscais, constituindo a nota de despesas título executivo bastante."
+  },
   "ab7de06ccd7f9190": {
    "fragment_id": null,
    "type": null,
@@ -362,6 +389,14 @@
     "Alterado pelo/a [Lei n.º 51/90](https://diariodarepublica.pt/dr/detalhe/lei/51-1990-574312), publicado em 1990-08-27."
    ],
    "markdown": "###### Artigo 24.º — Regulamentação\n\nO presente diploma será regulamentado por decreto regulamentar no prazo de 90 dias.\n\n> Alterado pelo/a [Lei n.º 51/90](https://diariodarepublica.pt/dr/detalhe/lei/51-1990-574312), publicado em 1990-08-27.\n\nVisto e aprovado em Conselho de Ministros de 12 de Maio de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 22 de Junho de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 23 de Junho de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "555647b104fc4e84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Área de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Área de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina\n\nDescrição dos limites\n\n1 - Linha de água que limita, pelo Norte, a praia de São Torpes até à estrada nacional n.º 120-1;\n\n2 - Estrada nacional n.º 120-1, desde o ponto anterior até ao cruzamento com a estrada municipal n.º 554;\n\n3 - Estrada municipal n.º 554, desde o ponto anterior até ao cruzamento com o caminho municipal n.º 1115;\n\n4 - Caminho municipal n.º 1115, desde o ponto anterior até ao cruzamento com o caminho municipal n.º 1072;\n\n5 - Caminho municipal n.º 1072, desde o ponto anterior até ao cruzamento com a estrada nacional n.º 390 no lugar das Brunheiras;\n\n6 - Estrada nacional n.º 390, das Brunheiras até ao cruzamento com a estrada municipal n.º 532;\n\n7 - Estrada municipal n.º 532, do ponto anterior até ao cruzamento com a estrada nacional n.º 120 em São Luís (cujo aglomerado urbano fica todo incluído);\n\n8 - Estrada nacional n.º 120, de São Luís até ao cruzamento com a estrada nacional n.º 393, incluindo todo o aglomerado urbano de Odemira;\n\n9 - Estrada nacional n.º 393, desde o ponto anterior até ao cruzamento com a estrada nacional n.º 393-1;\n\n10 - Estrada nacional n.º 393-1 desde o ponto anterior até ao cruzamento com a estrada municipal n.º 502;\n\n11 - Estrada municipal n.º 502, desde o ponto anterior até ao cruzamento com a estrada nacional n.º 120 nas proximidades de São Teotónio:\n\n12 - Estrada nacional n.º 120, desde o ponto anterior até ao cruzamento com o caminho Aljezur-Monchique, incluindo os aglomerados urbanos de Maria Vinagre, Rogil e Igreja Nova;\n\n13 - Caminho anterior, desde o cruzamento com a estrada nacional n.º 120 até Monte da Cruz;\n\n14 - Caminho, desde Monte da Cruz até ao cruzamento com estrada nacional n.º 120 entre Aljezur e Alfambras;\n\n15 - Estrada nacional n.º 120, desde o ponto anterior até ao cruzamento das Alfambras;\n\n16 - Estrada nacional n.º 268, desde a sua origem nas Alfambras até ao cruzamento com o caminho nas proximidades da Bordeira;\n\n17 - Caminho, desde o ponto anterior até a estrada nacional n.º 268, passando pela Vilariça e incluindo os aglomerados urbanos da Bordeira e da Vilarinha;\n\n18 - Estrada nacional n.º 268, desde o ponto anterior até ao cruzamento com a estrada nacional n.º 125 em Vila do Bispo, incluindo o respectivo aglomerado urbano;\n\n19 - Estrada nacional n.º 125, desde a sua origem em Vila do Bispo até ao ponto de intersecção com o limite administrativo entre os Municípios de Vila do Bispo e Lagos, incluindo os aglomerados urbanos de Raposeira, Figueira e Budens;\n\n20 - Limite administrativo entre os Municípios de Vila do Bispo e Lagos, da estrada nacional n.º 125 até a costa, incluindo o aglomerado urbano de Burgau;\n\n21 - O limite marítimo da Paisagem Protegida é uma faixa de 2 km definida a partir da linha de costa em toda a sua extensão;\n\n22 - Consideram-se como aglomerados urbanos os definidos pelos perímetros urbanos plenamente eficazes ou os definidos no [Decreto-Lei n.º 400/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), de 31 de Dezembro."
   }
  }
 }

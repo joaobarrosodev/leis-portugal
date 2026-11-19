@@ -31,16 +31,23 @@
      "title": "Decreto-Lei n.º 201/2005",
      "published": "2005-11-24",
      "dre_path": "/dr/detalhe/decreto-lei/201-2005-481498"
+    },
+    {
+     "id": "pt:dre:546855:por",
+     "title": "Declaração de Rectificação n.º 10-B/98",
+     "published": "1998-05-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-b-1998-546855"
     }
    ],
    "changes": [
     "Revoga Artigo 3.º",
-    "Revoga Artigo 3.º"
+    "Revoga Artigo 3.º",
+    "Retifica Artigo 2"
    ],
    "fragments": [
     "70fb327c97655c3c",
     "ddff54edb6613ba8",
-    "7e501a01e2b40024",
+    "ef802b84b15f82a2",
     "63c98d3e508a6408",
     "af472a3f2f999a2d",
     "bf15c5dd6394deda",
@@ -122,6 +129,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 8.º\n\nÉ revogado o [Decreto-Lei n.º 229/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1993-266616), de 25 de Junho.\n\nVisto e aprovado em Conselho de Ministros de 20 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva.\n\nPromulgado em 27 de Fevereiro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Março de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "ef802b84b15f82a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2005-11-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-B/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-b-1998-546855), publicado em 1998-05-30."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Nos termos do artigo 2.º do [Decreto-Lei n.º 415/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1977-278736), de 1 de Outubro, os seguintes prédios integram o património do Estado:\n\na) Herdade do Montinhoso, prédio rústico e urbano sito na freguesia de Palmela, concelho de Palmela, inscrito sob o artigo 3 da secção S da referida freguesia;\n\nb) Herdade da Quinta do Poço Mouro, prédio rústico e urbano sito na freguesia de São Sebastião, concelho de Setúbal, inscrito sob o artigo 2 da secção AC da referida freguesia;\n\nc) Herdade do Monte Fava, prédio rústico e urbano sito na freguesia de Ermidas-Sado, concelho de Santiago do Cacém, inscrito sob o artigo 2 da secção D da referida freguesia;\n\nd) Herdade do Moinho Velho, prédio rústico e urbano sito na freguesia de Abela, concelho de Santiago do Cacém, inscrito sob o artigo 6 da secção L da referida freguesia.\n\n2 - É transferida para a Direcção Regional de Agricultura do Ribatejo e Oeste a gestão dos prédios referidos nas alíneas a) e b) do número anterior.\n\n3 - É transferida para a Direcção Regional de Agricultura do Alentejo a gestão dos prédios referidos nas alíneas c) e d) do n.º 1 do presente artigo.\n\n4 - São ainda transferidos para as entidades referidas nos números anteriores todos os direitos e obrigações, incluindo as posições contratuais de que a ENDAC é titular, relativamente aos prédios ali identificados, bem como a titularidade dos bens móveis e equipamentos neles existentes.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-B/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-b-1998-546855), publicado em 1998-05-30."
   },
   "63c98d3e508a6408": {
    "fragment_id": null,

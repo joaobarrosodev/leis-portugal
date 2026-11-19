@@ -54,12 +54,13 @@ version_history:
     changes: []
   - date: '1980-01-11'
     amending: pt:dre:407694:por
-    amending_title: Decreto n.º 849/76; Decreto-Lei n.º 1-C/80
+    amending_title: Decreto n.º 849/76; Decreto-Lei n.º 1-C/80; Declaração
     changes:
     - Altera Artigo 12.º
     - Altera Artigo 27.º
     - Altera Artigo 34.º
     - Altera Artigo 24.º
+    - Retifica Artigo 34
 identifiers:
   celex: null
   eli: null
@@ -86,7 +87,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:42:30Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 849/76; Decreto-Lei n.º
-    1-C/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-472-c-76.alteracoes.json'
+    1-C/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-472-c-76.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -567,7 +569,7 @@ Mediante despacho ministerial, o Gabinete poderá ser autorizado a contratar com
 
 ###### Artigo 34.º
 
-1. O primeiro provimento dos lugares do quadro a que se refere o n.º 1 do artigo 26.º efectuar-se-á obrigatória e prioritariamente de entre o pessoal que se encontre a qualquer título a prestar serviço para o Ministério dos Transportes e Comunicações, no âmbito do Gabinete de Planeamento do Ministério das Obras Públicas.
+1. O primeiro provimento dos lugares do quadro a que se refere o n.º 1 do artigo 22.º efectuar-se-á obrigatória e prioritariamente de entre o pessoal que se encontre a qualquer título a prestar serviço para o Ministério dos Transportes e Comunicações, no âmbito do Gabinete de Planeamento do Ministério das Obras Públicas.
 
 2. O provimento quanto ao número anterior resultará de lista aprovada pelo Ministro dos Transportes e Comunicações e publicada no Diário da República, no prazo de trinta dias a contar da data de publicação deste diploma, donde conste o lugar em que cada funcionário fica provido.
 
@@ -580,6 +582,8 @@ Mediante despacho ministerial, o Gabinete poderá ser autorizado a contratar com
 6. O provimento dos lugares de terceiro-mecanógrafo, nos termos do número anterior, poderá ser feito, independentemente das habilitações literárias exigidas pela alínea d) do n.º 1 do artigo 25.º, de entre escriturários-dactilógrafos que contem, pelo menos, três anos de bom e efectivo serviço nessa categoria e possuam curso de mecanografia adequado.
 
 > Alterado pelo/a [Decreto n.º 849/76](https://diariodarepublica.pt/dr/detalhe/decreto/849-1976-407694), publicado em 1976-12-16.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-431463), publicado em 1976-07-09.
 
 ###### Artigo 35.º
 

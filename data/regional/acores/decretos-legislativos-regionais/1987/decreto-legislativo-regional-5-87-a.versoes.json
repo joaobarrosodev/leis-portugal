@@ -65,6 +65,12 @@
      "title": "Decreto Legislativo Regional n.º 1/2005/A",
      "published": "2005-05-09",
      "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2005-534776"
+    },
+    {
+     "id": "pt:dre:239629:por",
+     "title": "Declaração",
+     "published": "1987-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1987-239629"
     }
    ],
    "changes": [
@@ -72,10 +78,11 @@
     "Revoga Artigo 3.º",
     "Revoga Artigo 4.º",
     "Revoga Artigo 10.º",
-    "Altera Artigo 14.º"
+    "Altera Artigo 14.º",
+    "Retifica texto"
    ],
    "fragments": [
-    "77c215538fd9111e",
+    "451fa10e79a5e2e4",
     "46edecb6b1618652",
     "9d5209a417723560",
     "2d86b618de25e13a",
@@ -411,6 +418,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação.\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 20 de Março de 1987.\n\nO Presidente da Assembleia Regional, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 6 de Maio de 1987.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/12000/20912098.pdf)"
+  },
+  "451fa10e79a5e2e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2005-06-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239629), publicado em 1987-08-31."
+   ],
+   "markdown": "Criação de serviços, mobilidade e contenção de efectivos\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239629), publicado em 1987-08-31.\n\nFoi considerado oportuno alterar o [Decreto Legislativo Regional n.º 16/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1983-311595), de 28 de Abril, que consagra os princípios gerais do recrutamento e selecção do pessoal da administração regional dos Açores, decorrente da aplicação do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro.\n\nDada a relação sistemática entre o citado decreto legislativo regional e os Decretos Legislativos Regionais n.os [15/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1983-311470) e [3/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1984-660287), respectivamente de 27 de Abril e de 13 de Janeiro, importa, pelo presente diploma, proceder igualmente à alteração dos referidos diplomas, em concretização da aplicação adequada à administração regional dos Açores do disposto no [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, com as alterações constantes dos Decretos-Leis n.os [299/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1985-179990) e [160/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1986-228464), respectivamente de 29 de Julho e de 26 de Junho.\n\nAlém disso, aproveita-se a oportunidade para tornar extensivo, com as adaptações adequadas, o regime da consagração no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho.\n\nAssim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:"
   },
   "9d5209a417723560": {
    "fragment_id": null,

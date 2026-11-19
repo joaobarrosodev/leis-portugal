@@ -192,7 +192,7 @@ Estimativas: tokens pela média do pipeline (cerca de 3.200 de entrada e 2.500 d
 
 1. **Fechar a fuga.** No `selecionar.py`, no `llm_completo.py` e na entrada da verificação às cegas, `corrected_by` deve contar como alterador, para as próximas rondas verem as retificações. Pela Lei 74/98, art. 5.º, n.º 4, a retificação aplica-se à **versão original**, e não como versão nova.
    - *Custo:* 0 tokens; cerca de 1 a 2 h de código e testes.
-2. **Aplicar por regra as 75** (`por_regra` e `por_regra_aprox`, em 72 diplomas, com 144 pares).
+2. **Aplicar por regra as 75** (`por_regra` e `por_regra_aprox`, em 72 diplomas, com 144 pares). **Feito a 19/11:** 67 aplicadas em 65 diplomas e verificadas às cegas; 7 recusadas, que ficam para o LLM (`consolidacao/README.md`, secção 9).
    - **Como:** a regra `retificar` do `aplicar.py` já existe. Basta dar-lhe os pares deste script e o artigo do localizador.
    - **Verificação:** às cegas, só do artigo retificado, com Sonnet. Os 14 aproximados ficam com revisão à mão, por serem diferenças de pontuação.
    - **Custo:** cerca de 72 × 4 mil tokens de entrada e 0,5 mil de saída, ou seja, **0,3 M de entrada e 0,04 M de saída**; 2 a 3 h de código e 1 h de verificação.

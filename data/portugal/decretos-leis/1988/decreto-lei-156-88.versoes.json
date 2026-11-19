@@ -76,10 +76,17 @@
      "title": "Decreto-Lei n.º 58/89",
      "published": "1989-02-22",
      "dre_path": "/dr/detalhe/decreto-lei/58-1989-612416"
+    },
+    {
+     "id": "pt:dre:239383:por",
+     "title": "Declaração",
+     "published": "1988-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1988-239383"
     }
    ],
    "changes": [
-    "Altera Artigo 38.º"
+    "Altera Artigo 38.º",
+    "Retifica Artigo 35"
    ],
    "fragments": [
     "5439ba49c755fbe0",
@@ -130,7 +137,7 @@
     "442bb700d0ade88c",
     "9052850554412a86",
     "b33827824ef7b29f",
-    "a45ab95f8f191b92",
+    "972362f55e57fb6a",
     "6efde53dc8e87798",
     "c7bd5582844dff4b",
     "5c978933987b2e5f",
@@ -571,6 +578,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 39.º — Vigência\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos desde 1 de Janeiro de 1986.\n\nVisto e aprovado em Conselho de Ministros de 26 de Novembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - José Albino da Silva Peneda.\n\nPromulgado em 12 de Abril de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Abril de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "972362f55e57fb6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Indemnização por cessação do contrato de trabalho",
+   "in_force_from": "1989-02-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-239383), publicado em 1988-08-31."
+   ],
+   "markdown": "###### Artigo 35.º — Indemnização por cessação do contrato de trabalho\n\n1 - Os montantes apurados como indemnizações ou compensações financeiras nos termos do artigo 8.º são comparticipados pelo Estado Português até a um valor máximo correspondente à participação CECA, prevista no n.º 2 do artigo 3.º da Convenção.\n\n2 - Sempre que os montantes apurados ultrapassem os valores máximos referidos no número anterior, são da responsabilidade das empresas os encargos financeiros dos quantitativos excedentes.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-239383), publicado em 1988-08-31."
   },
   "f351dbdb5636074d": {
    "fragment_id": null,

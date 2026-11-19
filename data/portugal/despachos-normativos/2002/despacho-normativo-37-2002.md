@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '2004-07-25'
     amending: pt:dre:525604:por
-    amending_title: Despacho Normativo n.º 33/2004
+    amending_title: Despacho Normativo n.º 33/2004; Declaração de Rectificação n.º 26-B/2002
     changes:
     - Adita Artigo depois da unidade 45
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/37/2002/07/01/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:39:03Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 33/2004. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2002/despacho-normativo-37-2002.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2002/despacho-normativo-37-2002.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 26-B/2002.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,7 +158,9 @@ Pelo que importa agora estabelecer os critérios objectivos segundo os quais ser
 
 Assim:
 
-Ao abrigo do disposto no artigo 19.º do Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt), do Conselho, de 19 de Dezembro, determina-se o seguinte:
+Ao abrigo do disposto no artigo 19.º do Regulamento (CE) n.º 2550/2001, da Comissão, de 21 de Dezembro, determina-se o seguinte:
+
+> Retificado pelo/a [Declaração de Rectificação n.º 26-B/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-b-2002-303623), publicado em 2002-07-31.
 
 ### CAPÍTULO I — Âmbito de aplicação
 

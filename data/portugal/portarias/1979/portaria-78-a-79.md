@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1979-02-13'
     amending: pt:dre:165031:por
-    amending_title: Portaria n.º 81-A/79
+    amending_title: Portaria n.º 81-A/79; Declaração
     changes:
     - Altera Artigo unidades 17-17
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:07:04Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 81-A/79. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-78-a-79.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-78-a-79.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +148,9 @@ Reconhecida previamente pelo Conselho de Ministros, nos termos do n.º 1, alíne
 
 Manda o Governo da República Portuguesa, pelos Ministros do Trabalho e dos Transportes e Comunicações, ao abrigo do disposto na [Lei n.º 65/77](https://diariodarepublica.pt/dr/detalhe/lei/65-1977-256015), de 26 de Agosto, e no [Decreto-Lei n.º 637/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1974-466053), de 20 de Novembro, o seguinte:
 
-1.º São requisitados, nos termos e ao abrigo do disposto nos n.os 2, alínea a), e 4 do artigo 8.º da [Lei n.º 65/77](https://diariodarepublica.pt/dr/detalhe/lei/65-1977-256015), de 26 de Agosto, e nos artigos 3.º, n.º 1, alínea c), e 4.º, n.º 2, do [Decreto-Lei n.º 637/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1974-466053), de 20 de Novembro, todos os trabalhadores da empresa Telefones de Lisboa e Porto, E. P., participantes da greve declarada nessa empresa.
+1.º São requisitados, nos termos e ao abrigo do disposto nos n.os 2, alínea a), e 4 do artigo 8.º da [Lei n.º 65/77](https://diariodarepublica.pt/dr/detalhe/lei/65-1977-256015), de 26 de Agosto, e nos artigos 3.º, n.º 1, alínea b), e 4.º, n.º 2, do [Decreto-Lei n.º 637/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1974-466053), de 20 de Novembro, todos os trabalhadores da empresa Telefones de Lisboa e Porto, E. P., participantes da greve declarada nessa empresa.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-165032), publicado em 1979-02-13.
 
 2.º A requisição tem por objecto assegurar a prestação obrigatória das tarefas profissionais que estão habitualmente cometidas aos trabalhadores agora requisitados, necessárias à satisfação das necessidades sociais impreteríveis servidas pela empresa, bem como à segurança e manutenção do equipamento e instalações da mesma.
 

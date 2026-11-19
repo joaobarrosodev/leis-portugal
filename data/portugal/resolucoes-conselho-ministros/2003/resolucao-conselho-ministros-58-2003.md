@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '2003-05-31'
     amending: pt:dre:487944:por
-    amending_title: Declaração de Rectificação n.º 7-I/2003
+    amending_title: Declaração de Rectificação n.º 7-I/2003; Declaração de Rectificação n.º 5-F/2003
     changes:
     - Altera Artigo unidades 354-357
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/58/2003/04/11/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:48:33Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 7-I/2003.
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2003/resolucao-conselho-ministros-58-2003.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2003/resolucao-conselho-ministros-58-2003.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 5-F/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -365,7 +367,9 @@ f) Altera-se a condição de acesso «Ter frequentado uma acção de formação 
 
 g) Retira-se o compromisso «Cumprir as normas constantes dos contratos com a respectiva associação».
 
-Medida n.º 1.3, «Protecção integrada». - Nesta medida introduzem-se as seguintes alterações:
+Medida n.º 1.3, «Produção integrada». - Nesta medida introduzem-se as seguintes alterações:
+
+> Retificado pelo/a [Declaração de Rectificação n.º 5-F/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-f-2003-483606), publicado em 2003-04-30.
 
 a) Altera-se o valor da ajuda do 1.º escalão (valores da ajuda por hectares):
 

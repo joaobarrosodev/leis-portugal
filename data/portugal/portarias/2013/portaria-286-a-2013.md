@@ -53,11 +53,12 @@ version_history:
     changes: []
   - date: '2014-01-28'
     amending: pt:dre:571061:por
-    amending_title: Portaria n.º 17/2014
+    amending_title: Portaria n.º 17/2014; Declaração de Retificação n.º 5/2014
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 7.º
     - Altera Artigo 8.º
+    - Retifica Artigo 4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/286-a/2013/09/16/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:55:34Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 17/2014. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2013/portaria-286-a-2013.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2013/portaria-286-a-2013.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração de Retificação n.º 5/2014.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -260,7 +262,7 @@ e) Dispor de contabilidade organizada de acordo com o previsto na lei, quando ap
 
 ###### Artigo 4.º — Procedimento de candidatura
 
-1 - Para efeitos de obtenção do apoio financeiro, o empregador apresenta a candidatura online, no sítio https://incentivoempreso.sov.pt.
+1 - Para efeitos de obtenção do apoio financeiro, o empregador apresenta a candidatura online, no sítio https://incentivoemprego.gov.pt.
 
 2 - A candidatura ao Incentivo é apresentada no decurso do trimestre civil em que se efetua a comunicação de admissão do trabalhador à segurança social.
 
@@ -271,6 +273,8 @@ e) Dispor de contabilidade organizada de acordo com o previsto na lei, quando ap
 5 - O procedimento referido no número anterior é assegurado por um sistema de informação desenvolvido pelo Instituto de Informática, I. P. (II, I. P.).
 
 > Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27.
+
+> Retificado pelo/a [Declaração de Retificação n.º 5/2014](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2014-570688), publicado em 2014-02-03.
 
 ###### Artigo 5.º — Indeferimento da candidatura
 

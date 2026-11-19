@@ -56,9 +56,10 @@ version_history:
     changes: []
   - date: '2007-02-13'
     amending: pt:dre:517666:por
-    amending_title: Declaração de Rectificação n.º 12/2007
+    amending_title: Declaração de Rectificação n.º 12/2007; Declaração de Rectificação n.º 4-C/2007
     changes:
     - Altera Artigo unidades 20-21
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/165/2006/12/15/p/dre/pt/html
@@ -85,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:53:05Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 12/2007.
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2006/resolucao-conselho-ministros-165-2006.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2006/resolucao-conselho-ministros-165-2006.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 4-C/2007.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -954,7 +956,9 @@ Sem prejuízo do disposto na cláusula 44.ª quanto à resolução de diferendos
 
 49. Deslocação das lajes de cobertura dos Silos
 
-49.1. Tendo em conta o deslocamento das lajes de cobertura dos silos ocorrido em 18 e 19 de Maio de 2006, conforme relatório que fica a constituir o Anexo XIII ao presente contrato, as partes designam a empresa A2P - Consultores, Estudos e Projectos, Lda., como perito encarregado de proceder: (i) à verificação das estruturas dos silos de armazenagem e da estabilidade do terreno, (ii) à aferição do impacto das avarias detectadas e das respectivas obras de reparação na capacidade de armazenamento dos silos, o que fazem nos termos e para os efeitos do disposto das cláusulas 7.2 e 7.7 do presente contrato.
+49.1. Tendo em conta o deslocamento das lajes de cobertura dos silos ocorrido em 18 e 19 de Maio de 2006, conforme relatório que fica a constituir o anexo XIII ao presente contrato, as partes designam a empresa A2P - Consultores, Estudos e Projectos, Lda., como perito encarregado de proceder: (i) à verificação das estruturas dos silos de armazenagem e da estabilidade do terreno, (ii) à determinação das reparações extraordinárias a realizar pelo concedente, e iii) à aferição do impacto das avarias detectadas e das respectivas obras de reparação na capacidade de armazenamento dos silos, o que fazem nos termos e para os efeitos do disposto das cláusulas 7.2 e 7.7 do presente contrato.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 4-C/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-c-2007-349480), publicado em 2007-01-09.
 
 49.2. Para efeitos da determinação de eventuais reparações extraordinárias a realizar sob a responsabilidade e por conta da Concedente, o perito a que se refere o número anterior deve confirmar a actualidade e a suficiência do plano de obras referidas no Anexo XIII e que fica a constituir o Anexo XIV ao presente contrato.
 

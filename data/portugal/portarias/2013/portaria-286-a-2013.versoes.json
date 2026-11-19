@@ -37,19 +37,26 @@
      "title": "Portaria n.º 17/2014",
      "published": "2014-01-27",
      "dre_path": "/dr/detalhe/portaria/17-2014-571061"
+    },
+    {
+     "id": "pt:dre:570688:por",
+     "title": "Declaração de Retificação n.º 5/2014",
+     "published": "2014-02-03",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/5-2014-570688"
     }
    ],
    "changes": [
     "Altera Artigo 4.º",
     "Altera Artigo 7.º",
-    "Altera Artigo 8.º"
+    "Altera Artigo 8.º",
+    "Retifica Artigo 4"
    ],
    "fragments": [
     "0a3f85f83e678ca5",
     "1fd7e7bbde531537",
     "35c996138f2aad51",
     "fc9e2dd7cdd660a9",
-    "d82362f98d485b86",
+    "293350cf645d4a2a",
     "a5c37951bca1c069",
     "bf97b01578e6e78a",
     "f61857129a48b7a3",
@@ -184,15 +191,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 14.º — Vigência\n\nA presente Portaria vigora entre 1 de outubro de 2013 e 30 de setembro de 2015.\n\nO Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 13 de setembro de 2013."
   },
-  "d82362f98d485b86": {
+  "293350cf645d4a2a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º — Procedimento de candidatura",
    "in_force_from": "2014-01-28",
    "changed_by": [
-    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27."
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27.",
+    "Retificado pelo/a [Declaração de Retificação n.º 5/2014](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2014-570688), publicado em 2014-02-03."
    ],
-   "markdown": "###### Artigo 4.º — Procedimento de candidatura\n\n1 - Para efeitos de obtenção do apoio financeiro, o empregador apresenta a candidatura online, no sítio https://incentivoempreso.sov.pt.\n\n2 - A candidatura ao Incentivo é apresentada no decurso do trimestre civil em que se efetua a comunicação de admissão do trabalhador à segurança social.\n\n3 - No caso de a comunicação de admissão do trabalhador à segurança social ocorrer nos últimos 10 dias do trimestre, a candidatura pode, ainda, ser apresentada até ao dia 15 do mês subsequente.\n\n4 - A verificação dos requisitos de atribuição do Incentivo compete ao IEFP, I. P.\n\n5 - O procedimento referido no número anterior é assegurado por um sistema de informação desenvolvido pelo Instituto de Informática, I. P. (II, I. P.).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27."
+   "markdown": "###### Artigo 4.º — Procedimento de candidatura\n\n1 - Para efeitos de obtenção do apoio financeiro, o empregador apresenta a candidatura online, no sítio https://incentivoemprego.gov.pt.\n\n2 - A candidatura ao Incentivo é apresentada no decurso do trimestre civil em que se efetua a comunicação de admissão do trabalhador à segurança social.\n\n3 - No caso de a comunicação de admissão do trabalhador à segurança social ocorrer nos últimos 10 dias do trimestre, a candidatura pode, ainda, ser apresentada até ao dia 15 do mês subsequente.\n\n4 - A verificação dos requisitos de atribuição do Incentivo compete ao IEFP, I. P.\n\n5 - O procedimento referido no número anterior é assegurado por um sistema de informação desenvolvido pelo Instituto de Informática, I. P. (II, I. P.).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27.\n\n> Retificado pelo/a [Declaração de Retificação n.º 5/2014](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2014-570688), publicado em 2014-02-03."
   },
   "f61857129a48b7a3": {
    "fragment_id": null,

@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '2013-10-25'
     amending: pt:dre:502980:por
-    amending_title: Decreto-Lei n.º 148/2013
+    amending_title: Decreto-Lei n.º 148/2013; Declaração de Rectificação n.º 16-U/2000
     changes:
     - Altera Artigo 4.º
+    - Retifica Artigo 3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/317/2000/12/13/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:21:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 148/2013. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-317-2000.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-317-2000.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 16-U/2000.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -213,7 +215,9 @@ b) Proibir a matrícula a um modelo de veículo com um tipo de luz de nevoeiro d
 
 ###### Artigo 3.º — Revogação
 
-É revogada a Portaria n.º 517-A/96, de 27 de Setembro, na redacção introduzida pela Portaria n.º 1080/97, de 29 de Outubro, no que se refere às luzes de nevoeiro da retaguarda, às luzes indicadoras de mudança de direcção, às luzes de estacionamento, aos faróis com função de máximos e ou médios e fontes luminosas, às luzes de nevoeiro da frente, aos dispositivos de iluminação da chapa de matrícula da retaguarda; às luzes delimitadoras, às luzes de presença da frente, às luzes de presença da retaguarda, às luzes de travagem, às luzes de presença lateral, às luzes de marcha atrás e aos reflectores dos automóveis e seus reboques.
+É revogado o anexo I da Portaria n.º 517-A/96, de 27 de Setembro, na redacção introduzida pela Portaria n.º 1080/97, de 29 de Outubro, no que se refere às luzes de nevoeiro da retaguarda, às luzes indicadoras de mudança de direcção, às luzes de estacionamento, aos faróis com função de máximos e ou médios e fontes luminosas, às luzes de nevoeiro da frente, aos dispositivos de iluminação da chapa de matrícula da retaguarda; às luzes delimitadoras, às luzes de presença da frente, às luzes de presença da retaguarda, às luzes de travagem, às luzes de presença lateral, às luzes de marcha atrás e aos reflectores dos automóveis e seus reboques.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-U/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-u-2000-315513), publicado em 2000-12-30.
 
 ###### Artigo 4.º — Entrada em vigor
 

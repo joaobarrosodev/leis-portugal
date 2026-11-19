@@ -43,11 +43,12 @@ version_history:
     changes: []
   - date: '1989-05-03'
     amending: pt:dre:625606:por
-    amending_title: Decreto-Lei n.º 142/89
+    amending_title: Decreto-Lei n.º 142/89; Declaração
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 6.º
     - Altera Artigo 7.º
+    - Retifica Artigo 8
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:44:54Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 142/89. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-316-82.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-316-82.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,9 +197,11 @@ A medalha de bronze destina-se a galardoar as pessoas colectivas, nacionais ou e
 
 ###### Artigo 8.º
 
-1 - A concessão das menções honrosas revestirá a forma de alvará publicado na 2.ª série do Diário da República.
+1 - A concessão das medalhas e das menções honrosas revestirá a forma de alvará publicado na 2.ª série do Diário da República.
 
 2 - Os alvarás de concessão de qualquer grau de reconhecimento de mérito turístico especificarão fundamentadamente os serviços, iniciativas ou realizações pelos quais tenha sido atribuído.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375181), publicado em 1982-09-24.
 
 ###### Artigo 9.º
 

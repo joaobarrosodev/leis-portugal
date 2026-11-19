@@ -23,12 +23,19 @@
      "title": "Decreto-Lei n.º 142/89",
      "published": "1989-04-28",
      "dre_path": "/dr/detalhe/decreto-lei/142-1989-625606"
+    },
+    {
+     "id": "pt:dre:375181:por",
+     "title": "Declaração",
+     "published": "1982-09-24",
+     "dre_path": "/dr/detalhe/declaracao/1982-375181"
     }
    ],
    "changes": [
     "Altera Artigo 4.º",
     "Altera Artigo 6.º",
-    "Altera Artigo 7.º"
+    "Altera Artigo 7.º",
+    "Retifica Artigo 8"
    ],
    "fragments": [
     "5b624121a40d00c2",
@@ -39,7 +46,7 @@
     "87ef179c93e96dab",
     "a55ca92cfb013c6b",
     "7d7eacb6bf4afba9",
-    "151732541d4b7bf8",
+    "21bd5612a4b55007",
     "cf301ee61eb990da",
     "11497050fde3cd1f",
     "5f97fbc0d87bc2c2",
@@ -128,13 +135,15 @@
    ],
    "markdown": "###### Artigo 7.º\n\n1 - A menção honrosa é concedida para distinguir iniciativas e realizações de interesse para o turismo nacional quando a relevância da mesma possa ser apresentada como exemplo a seguir.\n\n2 - A menção honrosa atribuída à entidade organizadora de acontecimentos que revistam especial importância como atractivo turístico e, com carácter de regularidade, sirvam a defesa e promoção de valores tradicionais, culturais ou etnológicos, confere a faculdade de aqueles eventos usarem a designação de acontecimento de «interesse turístico internacional» ou «interesse turístico nacional».\n\n3 - A menção honrosa concedida a autor de livro ou obra impressa, filme ou outro suporte áudio-visual de comunicação confere o direito a designar como de «interesse turístico» a obra em atenção à qual haja sido atribuída.\n\n4 - A menção honrosa concedida a pessoa ou entidade que tenha realizado um trabalho especialmente relevante na valorização da gastronomia e dos vinhos portugueses confere o direito a designarem como de «interesse turístico» as obras ou iniciativas em atenção às quais haja sido atribuída.\n\n> Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28."
   },
-  "151732541d4b7bf8": {
+  "21bd5612a4b55007": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\n1 - A concessão das menções honrosas revestirá a forma de alvará publicado na 2.ª série do Diário da República.\n\n2 - Os alvarás de concessão de qualquer grau de reconhecimento de mérito turístico especificarão fundamentadamente os serviços, iniciativas ou realizações pelos quais tenha sido atribuído."
+   "in_force_from": "1989-05-03",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375181), publicado em 1982-09-24."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - A concessão das medalhas e das menções honrosas revestirá a forma de alvará publicado na 2.ª série do Diário da República.\n\n2 - Os alvarás de concessão de qualquer grau de reconhecimento de mérito turístico especificarão fundamentadamente os serviços, iniciativas ou realizações pelos quais tenha sido atribuído.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375181), publicado em 1982-09-24."
   },
   "cf301ee61eb990da": {
    "fragment_id": null,

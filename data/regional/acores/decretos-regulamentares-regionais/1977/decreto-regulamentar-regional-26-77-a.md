@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1979-02-07'
     amending: pt:dre:393181:por
-    amending_title: Decreto Regulamentar Regional n.º 3/A/79
+    amending_title: Decreto Regulamentar Regional n.º 3/A/79; Declaração
     changes:
     - Altera Artigo 2.º
+    - Retifica Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:39Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
-    3/A/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1977/decreto-regulamentar-regional-26-77-a.alteracoes.json'
+    3/A/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1977/decreto-regulamentar-regional-26-77-a.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,8 +149,10 @@ Os processos pendentes nas comissões arbitrais a que se refere o [Decreto-Lei n
 
 Aprovado em Plenário do Governo Regional em 9 de Agosto de 1977. - O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-Assinado em Ponta Delgada em 27 de Junho de 1977.
+Assinado em Ponta Delgada em 27 de Agosto de 1977.
 
 Publique-se.
 
 O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-276872), publicado em 1977-10-17.

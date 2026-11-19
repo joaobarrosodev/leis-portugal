@@ -53,9 +53,11 @@ version_history:
     changes: []
   - date: '2012-12-21'
     amending: pt:dre:190201:por
-    amending_title: Lei n.º 64/2012
+    amending_title: Lei n.º 64/2012; Declaração de Retificação n.º 14/2012
     changes:
     - Altera Artigo 30.º
+    - Retifica Artigo 52
+    - Retifica Artigo 57
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/32/2012/02/13/p/dre/pt/html
@@ -82,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:19:15Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 64/2012. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2012/decreto-lei-32-2012.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2012/decreto-lei-32-2012.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração de Retificação n.º 14/2012.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -984,7 +987,7 @@ c) Rendimentos obtidos na gestão do Fundo de Estabilização Financeira da Segu
 
 4 - Nos termos da alínea f) do artigo 50-A.º da Lei de Enquadramento Orçamental, são autorizadas, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da segurança social, as alterações orçamentais traduzidas em aumento do montante total da despesa decorrente do aumento da despesa com as prestações sociais que constituam direitos dos beneficiários do sistema de segurança social.
 
-5 - Os acréscimos de encargos relacionados com o aumento do volume de fundos sob gestão do IGFSS, I. P., inscritos no orçamento da segurança social para 2012, e que superem, por esse facto, o valor dos encargos de administração previsto no presente orçamento, são autorizados por despacho do membro do Governo responsável pela área da segurança social.
+5 - Os acréscimos de encargos relacionados com o aumento do volume de fundos sob gestão do IGFCSS, I. P., inscritos no orçamento da segurança social para 2012, e que superem, por esse facto, o valor dos encargos de administração previsto no presente orçamento, são autorizados por despacho do membro do Governo responsável pela área da segurança social.
 
 6 - Se, na execução do orçamento da segurança social para 2012, as verbas a transferir do Fundo Social Europeu para apoio de projetos de formação profissional excederem a dotação inscrita em orçamento, as alterações orçamentais decorrentes do correspondente acréscimo de despesas são autorizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças, do emprego e da segurança social.
 
@@ -993,6 +996,8 @@ c) Rendimentos obtidos na gestão do Fundo de Estabilização Financeira da Segu
 8 - O acréscimo de despesas de capital decorrentes do aumento do volume de regularizações de dívidas de contribuições a instituições da segurança social, satisfeitas mediante dação em pagamento de bens móveis ou imóveis, e que superem, por esse facto, o valor inscrito no orçamento da segurança social para 2012, é autorizado por despacho do membro do Governo responsável pela área da segurança social.
 
 9 - As alterações orçamentais referidas nas alíneas c) e d) do n.º 2 do artigo 51.º da Lei de Enquadramento Orçamental, aprovada pela Lei n.º 91/2001, de 20 de agosto, alterada e republicada pela Lei n.º 52/2011, de 13 de outubro, são autorizadas pelo membro do Governo responsável pela área da segurança social.
+
+> Retificado pelo/a [Declaração de Retificação n.º 14/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2012-553576), publicado em 2012-03-16.
 
 ###### Artigo 53.º — Transferências orçamentais
 
@@ -1032,7 +1037,7 @@ A assunção de encargos com ações de cooperação externa com suporte em dota
 
 ###### Artigo 57.º — Despesas associadas à gestão do FEFSS
 
-1 - O IGFSS, I. P., pode celebrar em 2012 contratos redigidos numa língua de uso corrente nos mercados financeiros internacionais e submeter a respetiva execução a legislação de país estrangeiro, apenas em casos manifestamente excecionais e devidamente fundamentados, para os quais não exista comprovadamente alternativa.
+1 - O IGFCSS, I. P., pode celebrar em 2012 contratos redigidos numa língua de uso corrente nos mercados financeiros internacionais e submeter a respetiva execução a legislação de país estrangeiro, apenas em casos manifestamente excecionais e devidamente fundamentados, para os quais não exista comprovadamente alternativa.
 
 2 - Às despesas com contratos de seguros relativos a imóveis da carteira do Fundo de Estabilização Financeira da Segurança Social não se aplica o disposto no artigo 19.º do Decreto-Lei n.º 197/99, de 8 de junho, sendo a respetiva autorização da competência do membro do Governo responsável pela área da segurança social, ainda que com possibilidade de delegação de competências.
 

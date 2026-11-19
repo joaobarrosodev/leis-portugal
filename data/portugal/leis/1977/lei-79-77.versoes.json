@@ -174,6 +174,12 @@
      "title": "Decreto-Lei n.º 5/91",
      "published": "1991-01-08",
      "dre_path": "/dr/detalhe/decreto-lei/5-1991-693782"
+    },
+    {
+     "id": "pt:dre:281257:por",
+     "title": "Declaração",
+     "published": "1977-11-28",
+     "dre_path": "/dr/detalhe/declaracao/1977-281257"
     }
    ],
    "changes": [
@@ -193,7 +199,8 @@
     "Revoga Artigo 87.º",
     "Revoga Artigo 88.º",
     "Revoga Artigo 89.º",
-    "Revoga Artigo 90.º"
+    "Revoga Artigo 90.º",
+    "Retifica Artigo 14"
    ],
    "fragments": [
     "2882d809857132d8",
@@ -214,7 +221,7 @@
     "b22274f5844b2087",
     "e3b6977856c2f3e3",
     "33b230cc702bc5e3",
-    "466230a614de98fa",
+    "ab5088666dc29104",
     "3409f4ff014f245c",
     "7964f5ddfcf945a9",
     "ae69d9f55f0c161d",
@@ -1504,13 +1511,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 13.º — (Sessões extraordinárias)\n\n1. A assembleia de freguesia pode reunir-se em sessões extraordinárias quando requeridas:\n\na) Pelo presidente da junta de freguesia, em execução de deliberação desta;\n\nb) Por um terço dos seus membros;\n\nc) Por um número de cidadãos eleitores inscritos no recenseamento eleitoral da freguesia equivalente a trinta vezes o número de elementos que compõem a assembleia, quando o número for igual ou inferior a 5000, e cinquenta vezes nos outros casos.\n\n2. O presidente da assembleia convocará as sessões extraordinárias que a respectiva mesa entender convocar.\n\n3. O presidente da assembleia terá de convocar a sessão no prazo de dez dias após a recepção do requerimento previsto no n.º 1."
   },
-  "466230a614de98fa": {
+  "ab5088666dc29104": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º — (Direito a participação sem voto na assembleia)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 14.º — (Direito a participação sem voto na assembleia)\n\n1. Têm direito a participar na assembleia de freguesia, sem voto, representantes de organizações populares de base territorial, constituídas na área da freguesia, nos termos da Constituição, e devidamente credenciados para esse acto.\n\n2. Nas sessões extraordinárias, convocadas nos termos da alínea c) do n.º 1 do artigo anterior, terão direito a participar, igualmente sem voto, dois representantes dos requerentes."
+   "in_force_from": "1991-03-09",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-281257), publicado em 1977-11-28."
+   ],
+   "markdown": "###### Artigo 14.º — (Direito a participação sem voto na assembleia)\n\n1. Têm direito a participar na assembleia de freguesia, sem voto, representantes de organizações populares de base territorial, constituídas na área da freguesia, nos termos da Constituição, e devidamente credenciados para esse acto pelas respectivas organizações populares.\n\n2. Nas sessões extraordinárias, convocadas nos termos da alínea c) do n.º 1 do artigo anterior, terão direito a participar, igualmente sem voto, dois representantes dos requerentes.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-281257), publicado em 1977-11-28."
   },
   "3409f4ff014f245c": {
    "fragment_id": null,

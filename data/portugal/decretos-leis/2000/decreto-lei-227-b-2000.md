@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2001-12-26'
     amending: pt:dre:536243:por
-    amending_title: Decreto-Lei n.º 338/2001
+    amending_title: Decreto-Lei n.º 338/2001; Declaração de Rectificação n.º 14-B/2000; Declaração de Rectificação n.º 16-B/2000
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 17.º
@@ -83,6 +83,13 @@ version_history:
     - Altera Artigo 128.º
     - Altera Artigo 155.º
     - Altera Artigo 166.º
+    - Retifica Artigo 30
+    - Retifica Artigo 131
+    - Retifica Artigo 16
+    - Retifica Artigo 44
+    - Retifica Artigo 85
+    - Retifica Artigo 128
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre/pt/html
@@ -109,7 +116,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:19:22Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 338/2001. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-227-b-2000.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-227-b-2000.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 14-B/2000; Declaração
+    de Rectificação n.º 16-B/2000.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -495,7 +504,7 @@ b) A gestão das áreas referidas a terrenos cinegéticos não ordenados, com vi
 
 1 - O acesso às ZCN e ZCM é feito pela seguinte ordem de prioridade e obedecendo a critérios de proporcionalidade a regular nos termos do número seguinte:
 
-a) Os proprietários, usufrutuários e arrendatários dos terrenos nelas inseridos, os caçadores que integrem a direcção da entidade que gere a ZCN ou ZCM, bem como os membros das associações que participem na sua gestão, não associados em zonas de caça integradas na mesma região cinegética;
+a) Os proprietários, usufrutuários e arrendatários dos terrenos nelas inseridos, os caçadores que integrem a direcção da entidade que gere a ZCN ou ZCM, bem como os membros das associações que participem na sua gestão não associados em zonas de caça integradas na mesma região cinegética;
 
 b) Os caçadores residentes nos municípios onde as mesmas se situam, não associados em zonas de caça integradas na mesma região cinegética;
 
@@ -504,6 +513,8 @@ c) Os caçadores não residentes nos municípios onde as mesmas se situam, não 
 d) Os demais caçadores.
 
 2 - Os critérios de proporcionalidade de participação dos diferentes grupos são fixados nas respectivas portarias de constituição da ZCM ou na de transferência de gestão da ZCN.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-B/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-b-2000-296389), publicado em 2000-11-30.
 
 ###### Artigo 17.º — Instrução e decisão
 
@@ -687,11 +698,11 @@ b) Entidades públicas ou privadas, que tenham por objecto a exploração de act
 
 1 - Com vista ao aproveitamento turístico dos recursos cinegéticos, nas ZCT os concessionários devem assegurar, para além do exercício da caça, a prestação de serviços turísticos, de alojamento, animação, restauração e infra-estruturas de apoio aos caçadores, nos termos previstos nos números seguintes.
 
-2 - As ZCT devem dispor de alojamento turístico no interior das mesmas ou, quando não existirem, num raio de 50 km contado a partir de qualquer ponto de delimitação da concessão, outras formas de alojamento turístico.
+2 - As ZCT devem dispor de alojamento turístico no interior das mesmas quando não existirem, num raio de 50 km contado a partir de qualquer ponto de delimitação da concessão, outras formas de alojamento turístico.
 
 3 - No caso de não serem prestados serviços de alojamento turístico dentro das ZCT, os respectivos concessionários devem assegurar a prestação desse tipo de serviços através de vínculo contratual adequado com entidades prestadoras desse tipo de serviços na região.
 
-4 - Sem prejuízo do disposto no número seguinte, nas ZCT devem ainda existir infra-estruturas de apoio aos caçadores, em edifício já existente ou a criar para o efeito, desde que o mesmo respeite a traça arquitectónica da região onde se insere, nos termos a definir por portaria conjunta dos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
+4 - Sem prejuízo do disposto no número seguinte, nas ZCT devem ainda existir infra-estruturas de apoio aos caçadores, em edifício já existente ou a criar para o efeito, devendo o mesmo respeitar a traça arquitectónica da região onde se insere, nos termos a definir por portaria conjunta dos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
 5 - Quando a mesma pessoa, singular ou colectiva, for simultaneamente concessionária de duas ou mais ZCT e as mesmas perfizerem uma área igual ou superior a 5000 ha, o regime previsto no número anterior poderá ser alterado nos termos que vierem a ser definidos na portaria nele prevista.
 
@@ -704,6 +715,8 @@ b) Entidades públicas ou privadas, que tenham por objecto a exploração de act
 DIVISÃO II
 
 Procedimentos para a concessão das zonas de caça
+
+> Retificado pelo/a [Declaração de Rectificação n.º 14-B/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-b-2000-437448), publicado em 2000-10-31.
 
 ###### Artigo 31.º — Requerimento inicial
 
@@ -927,7 +940,7 @@ Renovação, suspensão e extinção de concessões
 
 7 - Sem prejuízo do disposto na alínea a) do artigo 35.º, decorridos os prazos estipulados no n.º 5 do presente artigo, a renovação deve ser recusada pela Direcção-Geral das Florestas.
 
-8 - À renovação de ZCA e ZCT requerida nos termos do número anterior aplica-se o disposto nos artigos 34.º a 37.º com as necessárias adaptações.
+8 - À renovação de ZCA e ZCT requerida nos termos do número anterior aplica-se o disposto nos artigos 31.º a 37.º com as necessárias adaptações.
 
 9 - As ZCA e ZCT cujas entidades concessionárias requereram atempadamente a renovação da concessão e que os processos não ficaram concluídos até ao termo da concessão são abrangidas pela suspensão do exercício da caça e de actividades de carácter venatório, nos termos do n.º 3 do artigo seguinte, até à publicação da respectiva portaria, pelo prazo máximo de nove meses.
 
@@ -1463,13 +1476,13 @@ a) Só é permitido caçar às quintas-feiras, domingos e feriados nacionais obr
 
 b) Exceptuam-se do disposto na alínea anterior:
 
-i) A caça às espécies de caça maior prevista na alínea b) do n.º 2 e no n.º 3 do artigo 101.º e nos n.os 2 e 3 do artigo 102.º;
+i) A caça às espécies de caça maior prevista na alínea a) do n.º 2 e no n.º 3 do artigo 101.º e nos n.os 2 e 3 do artigo 102.º;
 
 ii) A caça às espécies migradoras nas ZCT, que pode ser exercida três dias por semana, à escolha do concessionário;
 
 iii) A caça às espécies sedentárias nas ZCT, que é exercida de acordo com o plano anual de exploração aprovado;
 
-iv) A caça de batida à raposa e saca-rabos e caça ao javali prevista na alínea b) do n.º 2 do artigo 10.º nos meses de Janeiro e Fevereiro, que pode ser exercida aos sábados;
+iv) A caça de batida à raposa e saca-rabos e caça ao javali prevista na alínea b) do n.º 2 do artigo 101.º nos meses de Janeiro e Fevereiro, que pode ser exercida aos sábados;
 
 v) A caça de cetraria, a caça à raposa a corricão, a caça com lança e a caça com arco ou besta, nos terrenos cinegéticos não ordenados, que se exerce às quartas-feiras e sábados não coincidentes com dia de feriado nacional obrigatório.
 
@@ -1909,7 +1922,7 @@ b) Efectuar repovoamentos fora das condições previstas no n.º 1 do artigo 5.�
 
 c) A violação dos critérios de proporcionalidade no acesso dos caçadores às ZCN e ZCM, fixados nas respectivas portarias de constituição de ZCM e nas portarias de transferência de gestão de ZCN;
 
-d) O não cumprimento pelas respectivas entidades gestoras, de ZCN e ZCM, das obrigações constantes nas alíneas b), c), d), f), g), h) e i) do artigo 19.º;
+d) O não cumprimento, pelas respectivas entidades gestoras de ZCN e ZCM, das obrigações constantes nas alíneas b), c), d), f), g), h) e i) do artigo 19.º e no n.º 4 do artigo 23.º;
 
 e) A exigência de quaisquer contrapartidas, por parte das ZCA, a caçadores não sócios pelo exercício da caça ou de actividades de carácter venatório;
 
@@ -1923,7 +1936,7 @@ i) Exercício da caça em zonas de caça concessionadas sem aprovação do respe
 
 j) A prática de actividades de carácter venatório previstas no n.º 1 do artigo 51.º, fora de campos de treino de caça;
 
-k) A infracção ao disposto nos n.os 3 e 6 do artigo 51.º;
+k) A infracção ao disposto nos n.os 3 e 7 do artigo 51.º;
 
 l) A infracção ao disposto no n.º 4 do artigo 60.º;
 
@@ -1937,11 +1950,11 @@ p) A infracção ao disposto nos n.os 3 e 4 do artigo 73.º;
 
 q) A infracção ao disposto nas alíneas a), b) e c) do n.º 3 do artigo 75.º e alíneas a), b) e c) do n.º 1 do artigo 76.º;
 
-r) A infracção ao disposto no n.º 1 do artigo 75.º e n.º 2 do artigo 76.º;
+r) a infracção ao disposto no n.º 5 do artigo 75.º e n.º 2 do artigo 76.º;
 
 s) A infracção ao disposto no n.º 2 do artigo 79.º, n.º 5, n.º 6 e n.º 7 do artigo 80.º e n.º 3 do artigo 81.º;
 
-t) A utilização, no exercício venatório, de cães em número superior ao previsto nas alíneas b) e c) do n.º 1 e n.º 4 do artigo 80.º;
+t) A utilização, no exercício venatório, de cães em número superior ao previsto nos n.os 1 e 4 do artigo 80.º;
 
 u) A infracção ao disposto no n.º 2 do artigo 83.º;
 
@@ -1977,7 +1990,7 @@ gg) A não marcação dos exemplares mortos no exercício da caça quando a mesm
 
 hh) Deter ou transportar quantitativos de exemplares mortos de espécies cinegéticas superiores aos definidos nos termos do n.º 1 do artigo 105.º, e bem assim a detenção, no exercício da caça, de pombos, tordos e estorninhos-malhados, depois de finda a jornada de caça a estas espécies;
 
-ii) A infracção ao disposto no n.º 6 do artigo 104.º, quando os exemplares não estejam devidamente marcados;
+ii) A infracção ao disposto no n.º 7 do artigo 104.º, quando os exemplares não estejam devidamente marcados;
 
 jj) A infracção ao disposto no n.º 8 do artigo 104.º;
 
@@ -2029,7 +2042,7 @@ d) 10% para a entidade que aplica a coima.
 
 1 - Sem prejuízo do disposto no número seguinte, a instrução dos processos de contra-ordenação compete às direcções regionais de agricultura, nos termos da lei, e ao Instituto da Conservação da Natureza nas áreas classificadas.
 
-2 - A instrução de processos de contra-ordenação relativos ao não cumprimento das regras previstas no artigo 30.º para a ZCT compete à Direcção-Geral do Turismo.
+2 - A instrução de processos de contra-ordenação relativos ao não cumprimento das regras previstas no artigo 30.º para ZCT compete à Direcção-Geral do Turismo.
 
 3 - A instrução de processos de contra-ordenação não pode ser atribuída ao autuante ou ao participante.
 
@@ -2533,7 +2546,7 @@ Tordo-ruivo - Turdus iliacus.
 
 Tordeia - Turdus viscivorus.
 
-Estominho-malhado - Sturnus vulgaris.
+Estorninho-malhado - Sturnus vulgaris.
 
 Narceja-comum - Gallinago gallinago.
 

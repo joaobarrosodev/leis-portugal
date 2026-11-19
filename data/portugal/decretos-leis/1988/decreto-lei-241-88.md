@@ -53,10 +53,13 @@ version_history:
     changes: []
   - date: '1990-09-01'
     amending: pt:dre:574312:por
-    amending_title: Lei n.º 51/90
+    amending_title: Lei n.º 51/90; Declaração
     changes:
     - Altera Artigo 6.º
     - Altera Artigo 24.º
+    - Retifica Artigo 18
+    - Retifica Artigo 20
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -83,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:40:30Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 51/90. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-241-88.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-241-88.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -534,9 +538,9 @@ e) Praticar actos ou exercer actividades que prejudiquem a conservação da flor
 
 1 - A prática não autorizada dos actos e actividades referidos no artigo 16.º constitui contra-ordenação punível com coima:
 
-a) De 100000$00 a 750000$00, a infracção ao disposto nas alíneas e), f) e g) do n.º 1 e alínea e) do n.º 3 do artigo citado;
+a) De 100000$00 a 750000$00, a infracção ao disposto nas alíneas e), f) e g) do n.º 1 e alínea e) do n.º 5 do artigo citado;
 
-b) De 500000$00 a 3000000$00, a infracção ao disposto nas alíneas a), b) e c) do n.º 1 e nas alíneas a), b), c) e d) do n.º 3 do mesmo artigo.
+b) De 500000$00 a 3000000$00, a infracção ao disposto nas alíneas a), b) e c) do n.º 1 e nas alíneas a), b), c) e d) do n.º 5 do mesmo artigo.
 
 2 - A negligência é punível.
 
@@ -548,6 +552,8 @@ b) De 500000$00 a 3000000$00, a infracção ao disposto nas alíneas a), b) e c)
 
 6 - As receitas provenientes das coimas revertem a favor do SNPRCN, salvo nos casos previstos no n.º 2 do artigo seguinte, caso em que revertem para as respectivas autoridades marítimas.
 
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-220685), publicado em 1988-10-31.
+
 ###### Artigo 19.º — Processos de contra-ordenação: competências
 
 1 - A instrução dos processos das contra-ordenações praticadas na área terrestre da Paisagem Protegida compete ao respectivo director, competindo à comissão directiva a aplicação das coimas e sanções acessórias respectivas.
@@ -558,7 +564,7 @@ b) De 500000$00 a 3000000$00, a infracção ao disposto nas alíneas a), b) e c)
 
 ###### Artigo 20.º — Obrigação de reposição da situação anterior
 
-1 - Independentemente do processamento por contra-ordenação, aqueles que infrinjam o disposto nos n.os 1 e 3 do artigo 16.º, incluindo pessoas colectivas, são obrigados solidariamente, a todo o tempo, a repor a situação anterior à infracção.
+1 - Independentemente do processamento por contra-ordenação, aqueles que infrinjam o disposto nos n.os 1 e 5 do artigo 16.º, incluindo pessoas colectivas, são obrigados solidariamente, a todo o tempo, a repor a situação anterior à infracção.
 
 2 - Se os infractores não cumprirem a obrigação referida no número anterior no prazo que lhes for notificado, a comissão directiva ou os capitães de porto mandarão proceder às demolições, obras e trabalhos necessários à reposição da situação anterior à infracção, apresentando aos agentes infractores, para cobrança, uma nota das despesas efectuadas.
 
@@ -636,7 +642,7 @@ Descrição dos limites
 
 16 - Estrada nacional n.º 268, desde a sua origem nas Alfambras até ao cruzamento com o caminho nas proximidades da Bordeira;
 
-17 - Caminho, desde o ponto anterior até a estrada nacional n.º 268, passando pela Vilariça e incluindo os aglomerados urbanos da Bordeira e da Vilariça;
+17 - Caminho, desde o ponto anterior até a estrada nacional n.º 268, passando pela Vilariça e incluindo os aglomerados urbanos da Bordeira e da Vilarinha;
 
 18 - Estrada nacional n.º 268, desde o ponto anterior até ao cruzamento com a estrada nacional n.º 125 em Vila do Bispo, incluindo o respectivo aglomerado urbano;
 

@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1985-01-25'
     amending: pt:dre:328435:por
-    amending_title: Decreto-Lei n.º 30/85
+    amending_title: Decreto-Lei n.º 30/85; Rectificação
     changes:
     - Altera Artigo 2.º
+    - Retifica Artigo 7
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:18:49Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 30/85. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-227-71.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-227-71.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,7 +172,9 @@ A competência para autorizar despesas e as formalidades a observar na sua reali
 
 ###### Artigo 7.º
 
-Os orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro, através da Direcção-Geral da Contabilidade Pública.
+Os orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1971-643303), publicado em 1971-06-18.
 
 ###### Artigo 8.º
 

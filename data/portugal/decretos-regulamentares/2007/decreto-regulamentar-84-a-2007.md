@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '2010-10-16'
     amending: pt:dre:449458:por
-    amending_title: Decreto Regulamentar n.º 13/2008; Decreto Regulamentar n.º 4/2010
+    amending_title: Decreto Regulamentar n.º 13/2008; Decreto Regulamentar n.º 4/2010; Declaração de Rectificação n.º 5-A/2008
     changes:
     - Altera Artigo 52.º
     - Altera Artigo 17.º
@@ -63,6 +63,8 @@ version_history:
     - Revoga Artigo 36.º
     - Altera Artigo 44.º
     - Altera Artigo 45.º
+    - Retifica Artigo 2
+    - Retifica Artigo 24
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre/pt/html
@@ -89,7 +91,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:31:43Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 13/2008;
-    Decreto Regulamentar n.º 4/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2007/decreto-regulamentar-84-a-2007.alteracoes.json'
+    Decreto Regulamentar n.º 4/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2007/decreto-regulamentar-84-a-2007.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 5-A/2008.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -216,11 +219,13 @@ d) O Decreto-Lei n.º 212/2007, de 29 de Maio, que adopta a Lei Orgânica do Ins
 
 1 - As disposições do presente decreto regulamentar aplicam-se aos PO financiados pelo FSE, designadamente o PO Potencial Humano, o PO de Assistência Técnica do FSE e os PO Regionais das Regiões Autónomas.
 
-2 - Nos termos do disposto no n.º 2 do artigo 34.º do Regulamento (CE) n.º [1083/2006](https://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 31 de Julho, é aplicável, com as necessárias adaptações e nos termos em que as mesmas sejam definidas em sede de regulamento específico, às operações financiadas pelo FEDER abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º [1081/2006](https://data.europa.eu/eli/reg/2006/1081/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de Julho, relativo ao FSE, o disposto no artigo 4.º, nas alíneas a) e f) do n.º 1 e no n.º 3 do artigo 10.º, nos artigos 12.º a 15.º, nas alíneas d) e e) do n.º 1 e nos n.os 2, 3, 4, 6, 7 e 9 do artigo 17.º, nos artigos 18.º e 19.º, nos n.os 1 a 8 do artigo 20.º, e nos artigos 32.º, 35.º e 36.º, com excepção do seu n.º 3, todos do presente decreto regulamentar.
+2 - Nos termos do disposto no n.º 2 do artigo 34.º do Regulamento (CE) n.º [1083/2006](https://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 31 de Julho, é aplicável, com as necessárias adaptações e nos termos em que as mesmas sejam definidas em sede de regulamento específico, às operações financiadas pelo FEDER abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º [1081/2006](https://data.europa.eu/eli/reg/2006/1081/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de Julho, relativo ao FSE, o disposto no artigo 4.º, nas alíneas a) e f) do n.º 1 e no n.º 3 do artigo 10.º, nos artigos 12.º a 15.º, nas alíneas d) e e) do n.º 1 e nos n.os 2, 3, 4, 6, 7 e 9 do artigo 17.º, nos artigos 18.º e 19.º, nos n.os 1 a 8 do artigo 20.º, e nos artigos 32.º, 35.º e 36.º, com excepção do seu n.º 2, todos do presente decreto regulamentar.
 
 3 - Sem prejuízo do disposto nos regulamentos comunitários relativos ao Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e ao Fundo Europeu das Pescas (FEP), as disposições do presente decreto regulamentar são aplicáveis, com as necessárias adaptações e nos termos em que as mesmas forem definidas em sede dos regulamentos específicos dos instrumentos de programação do FEADER e do FEP, quando desenvolvam acções de natureza idêntica às abrangidas pelo âmbito de aplicação do artigo 3.º do Regulamento (CE) n.º [1081/2006](https://data.europa.eu/eli/reg/2006/1081/oj?locale=pt), do Parlamento Europeu e do Conselho, de 31 de Julho.
 
 4 - O presente decreto regulamentar aplica-se, com as necessárias adaptações, a definir para o efeito em sede de regulamento específico, às operações desenvolvidas no âmbito da inserção no mercado de trabalho e dos apoios ao emprego.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 5-A/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-a-2008-315566), publicado em 2008-02-08.
 
 ###### Artigo 3.º — Conceitos
 
@@ -504,7 +509,7 @@ b) Indicação da entidade que assume a coordenação da parceria, à qual é at
 
 ###### Artigo 24.º — Candidatura integrada de formação
 
-1 - Considera-se candidatura integrada de formação um conjunto estruturado de acções de carácter formativo, promovido e coordenado pelos parceiros sociais com assento na Comissão Permanente de Concertação Social, desde que realizada por estes e ou por organizações sectoriais e regionais suas associadas, com recurso a estruturas de formação certificadas.
+1 - Considera-se candidatura integrada de formação um conjunto estruturado de acções de carácter formativo, promovido e coordenado pelos parceiros sociais com assento na Comissão Permanente de Concertação Social ou, a título excepcional e salvo para efeitos do disposto no n.º 12, por outras entidades, equiparadas por despacho do Ministro do Trabalho e da Solidariedade Social a parceiro social, de dimensão e representatividade apropriadas com assento no Conselho Económico e Social, cuja realização seja assegurada por estes e ou por organizações sectoriais e regionais suas associadas, com recurso a estruturas de formação certificadas.
 
 2 - Uma candidatura integrada de formação pode ser apresentada a uma ou a mais tipologias de intervenção, desde que estas se integrem num único eixo de um mesmo PO, devendo ser apresentadas por um parceiro social com assento na Comissão Permanente de Concertação Social.
 

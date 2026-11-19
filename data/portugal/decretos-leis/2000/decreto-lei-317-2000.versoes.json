@@ -226,16 +226,23 @@
      "title": "Decreto-Lei n.º 148/2013",
      "published": "2013-10-24",
      "dre_path": "/dr/detalhe/decreto-lei/148-2013-502980"
+    },
+    {
+     "id": "pt:dre:315513:por",
+     "title": "Declaração de Rectificação n.º 16-U/2000",
+     "published": "2000-12-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/16-u-2000-315513"
     }
    ],
    "changes": [
-    "Altera Artigo 4.º"
+    "Altera Artigo 4.º",
+    "Retifica Artigo 3"
    ],
    "fragments": [
     "e026627f6b327fe1",
     "5cdb260933b4151a",
     "0dca18b38b4871fe",
-    "4f469b4523ba5c40",
+    "1b621adbd9689ffb",
     "bf41d7e42f8e5bd3",
     "4ea7fa0fd346dd81",
     "8b6e78b017226e33",
@@ -1911,6 +1918,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## ANEXO 15 — Ordem cronológica dos ensaios referentes à classe IV-A\n\n[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/12/286a00/70857157.pdf)](https://files.diariodarepublica.pt/1s/2000/12/286a00/70857157.pdf)](https://files.diariodarepublica.pt/1s/2000/12/286a00/70857157.pdf)](https://files.diariodarepublica.pt/1s/2000/12/286a00/70857157.pdf)](https://files.diariodarepublica.pt/1s/2000/12/286a00/70857157.pdf)](https://files.diariodarepublica.pt/1s/2000/12/286a00/70857157.pdf)](https://files.diariodarepublica.pt/1s/2000/12/286a00/70857157.pdf)"
+  },
+  "1b621adbd9689ffb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Revogação",
+   "in_force_from": "2013-10-25",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-U/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-u-2000-315513), publicado em 2000-12-30."
+   ],
+   "markdown": "###### Artigo 3.º — Revogação\n\nÉ revogado o anexo I da Portaria n.º 517-A/96, de 27 de Setembro, na redacção introduzida pela Portaria n.º 1080/97, de 29 de Outubro, no que se refere às luzes de nevoeiro da retaguarda, às luzes indicadoras de mudança de direcção, às luzes de estacionamento, aos faróis com função de máximos e ou médios e fontes luminosas, às luzes de nevoeiro da frente, aos dispositivos de iluminação da chapa de matrícula da retaguarda; às luzes delimitadoras, às luzes de presença da frente, às luzes de presença da retaguarda, às luzes de travagem, às luzes de presença lateral, às luzes de marcha atrás e aos reflectores dos automóveis e seus reboques.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-U/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-u-2000-315513), publicado em 2000-12-30."
   },
   "de3ab326d23862e2": {
    "fragment_id": null,

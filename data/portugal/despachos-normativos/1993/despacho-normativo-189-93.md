@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '1999-07-27'
     amending: pt:dre:354678:por
-    amending_title: Despacho Normativo n.º 36/99
+    amending_title: Despacho Normativo n.º 36/99; Declaração de Rectificação n.º 188/93
     changes:
     - Altera Artigo unidades 18-20
     - Altera Artigo unidades 74-74
@@ -63,6 +63,7 @@ version_history:
     - Altera Artigo unidades 92-93
     - Altera Artigo unidades 103-104
     - Altera Artigo unidades 107-116
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/189/1993/08/07/p/dre/pt/html
@@ -89,7 +90,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:02:00Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 36/99. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-189-93.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1993/despacho-normativo-189-93.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 188/93.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -454,7 +456,9 @@ VII - Disposições finais
 
 39.3 - Nas escolas onde ainda funcione o modelo de gestão estabelecido pelo [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), de 23 de Outubro, o coordenador do 3.º ciclo do ensino básico recorrente, previsto no n.º 10 do presente despacho, é o delegado do conselho directivo para os cursos nocturnos.
 
-39.4 - A redução de serviço prevista para este elemento do conselho directivo é a estabelecida na [Portaria n.º 677/77](https://diariodarepublica.pt/dr/detalhe/portaria/677-1977-277862), de 4 de Novembro.
+39.4 - A redução de serviço prevista para este elemento do conselho directivo é a estabelecida na Portaria n.º 691/76, de 19 de Novembro.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 188/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/188-1993-451194), publicado em 1993-09-30.
 
 39.5 - Até à regulamentação prevista no artigo 49.º do [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, a redução do coordenador pedagógico é a prevista para o director de turma de acordo com o Despacho n.º 8/SERE/89, de 8 de Fevereiro.
 

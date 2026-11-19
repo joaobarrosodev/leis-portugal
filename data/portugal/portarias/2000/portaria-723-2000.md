@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '2001-07-10'
     amending: pt:dre:347929:por
-    amending_title: Portaria n.º 687/2001
+    amending_title: Portaria n.º 687/2001; Declaração de Rectificação n.º 14-D/2000
     changes:
     - Altera Artigo unidades 19-20
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/723/2000/09/06/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:25:29Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 687/2001. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-723-2000.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-723-2000.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 14-D/2000.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,7 +168,9 @@ a) A linha de crédito aplicável é a constante do anexo I ao presente diploma,
 
 b) O nível de bonificação da taxa de juro é de 62,5% ou 100% da taxa de referência para cálculo de bonificações, consoante se trate, respectivamente, da linha de crédito prevista no anexo I ou no anexo II;
 
-c) A taxa de referência referida no número anterior é a que se encontra estabelecida no [Decreto-Lei n.º 359/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1998-229305), de 18 de Outubro, salvo se aquela for superior à taxa activa da operação, caso em que o valor da bonificação incide sobre esta última.
+c) A taxa de referência referida no número anterior é a que se encontra estabelecida no Decreto-Lei n.º 359/89, de 18 de Outubro, salvo se aquela for superior à taxa activa da operação, caso em que o valor da bonificação incide sobre esta última.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 14-D/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-d-2000-386209), publicado em 2000-10-31.
 
 2.º No caso da linha de crédito referida no anexo II, o montante total das bonificações a atribuir é de, no máximo, 17500 euros por beneficiário.
 

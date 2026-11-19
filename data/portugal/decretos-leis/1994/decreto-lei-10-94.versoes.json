@@ -23,17 +23,24 @@
      "title": "Lei n.º 30-G/2000",
      "published": "2000-12-29",
      "dre_path": "/dr/detalhe/lei/30-g-2000-212015"
+    },
+    {
+     "id": "pt:dre:197280:por",
+     "title": "Declaração de Rectificação n.º 37/94",
+     "published": "1994-03-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/37-1994-197280"
     }
    ],
    "changes": [
-    "Altera Artigo 2.º"
+    "Altera Artigo 2.º",
+    "Retifica Artigo 4"
    ],
    "fragments": [
     "1028b20614307743",
     "7ec10fc294a8c039",
     "09e354efcc73835c",
     "35b45b72742c72ab",
-    "3bc46bdb29f5958b",
+    "09ecce2432ba9933",
     "df0b4439d97efa8e"
    ]
   }
@@ -81,13 +88,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 3.º\n\nAs sucursais de instituições de crédito e sociedades financeiras com sede em país ou território fora da Comunidade Europeia devem ser dotadas de capital mínimo adequado às operações que realizarem ou ter todas as suas operações garantidas pelos capitais próprios da instituição ou sociedade em que se integrem."
   },
-  "3bc46bdb29f5958b": {
+  "09ecce2432ba9933": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 4.º\n\n1 - As sucursais ou agências de instituições de crédito ou sociedades financeiras já licenciadas nas zonas francas são classificadas como sucursais financeiras exteriores, salvo se, no prazo de 60 dias, contado a partir da data da entrada em vigor do presente diploma, solicitarem a classificação como sucursal financeira internacional.\n\n2 - A classificação das entidades referidas no número anterior como sucursais financeiras exteriores, designadamente para efeitos de aplicação, relativamente ao exercício de 1993, da alínea c) do artigo 41.º do Estatuto dos Benefícios Fiscais, na redacção que lhe foi dada pelo [Decreto-Lei n.º 84/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1993-634689), de 18 de Março, não é prejudicada pela circunstância de os mesmos terem realizado operações com as entidades referidas nessa disposição até à data da entrada em vigor."
+   "in_force_from": "2000-12-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 37/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/37-1994-197280), publicado em 1994-03-31."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - As sucursais ou agências de instituições de crédito ou sociedades financeiras já licenciadas nas zonas francas são classificadas como sucursais financeiras exteriores, salvo se, no prazo de 60 dias, contado a partir da data da entrada em vigor do presente diploma, solicitarem a classificação como sucursal financeira internacional.\n\n2 - A classificação das entidades referidas no número anterior como sucursais financeiras exteriores, designadamente para efeitos de aplicação, relativamente ao exercício de 1993, da alínea c) do artigo 41.º do Estatuto dos Benefícios Fiscais, na redacção que lhe foi dada pelo [Decreto-Lei n.º 84/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1993-634689), de 18 de Março, não é prejudicada pela circunstância de os mesmos terem realizado operações com as entidades referidas nessa disposição até à data da sua entrada em vigor.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 37/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/37-1994-197280), publicado em 1994-03-31."
   },
   "df0b4439d97efa8e": {
    "fragment_id": null,

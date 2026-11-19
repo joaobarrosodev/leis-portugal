@@ -44,9 +44,12 @@ version_history:
     changes: []
   - date: '1977-09-29'
     amending: pt:dre:278703:por
-    amending_title: Decreto-Lei n.º 412/77
+    amending_title: Decreto-Lei n.º 412/77; Rectificação
     changes:
     - Altera Artigo 5.º
+    - Retifica texto
+    - Retifica Artigo 3
+    - Retifica Artigo 10
 identifiers:
   celex: null
   eli: null
@@ -73,7 +76,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:34:53Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 412/77. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-547-74.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-547-74.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,7 +154,9 @@ Esta situação, que está em manifesta oposição com os princípios do program
 
 A estabilidade do rendeiro, enquanto não usar do direito de remição, é garantida pela fixação de condições limitadas e taxativas para o despejo por parte do senhorio.
 
-O valor das benfeitorias e da terra é fixado, para efeitos de indemnização ou de remição, por uma comissão arbitral, constituída por um juiz de direito designado pelo Secretário de Estado da Agricultura, que preside, um técnico também designado pelo Secretário de Estado, um representante dos proprietários e outro dos rendeiros.
+O valor das benfeitorias e da terra é fixado, para efeitos de indemnização ou de remição, por uma comissão arbitral, constituída pelo juiz da comarca, que preside e tem voto de desempate, por um técnico designado pelo Secretário de Estado da Agricultura, por um representante dos proprietários e outro dos colonos-rendeiros.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-309883), publicado em 1974-11-15.
 
 Nestes termos:
 
@@ -170,7 +176,7 @@ Os casos de arrendamento rural em que as terras foram dadas de arrendamento no e
 
 1. Cabe às comissões arbitrais decidir sobre a existência dos factos referidos no artigo 1.º e das benfeitorias e fixar o valor destas.
 
-2. As comissões arbitrais são constituídas por três membros, sendo o presidente o juiz de direito da comarca, outro representante dos proprietários e outro dos colonos-rendeiros, ambos designados pelas respectivas associações, se existirem, ou eleitos em assembleias expressamente convocadas para esse fim pelo Instituto de Reorganização Agrária.
+2. As comissões arbitrais são constituídas pelo juiz da comarca, que preside e tem voto de desempate, por um técnico designado pela Secretaria de Estado da Agricultura, por um representante dos proprietários e outro dos colonos-rendeiros, ambos designados pelas respectivas associações, se existirem, ou eleitos em assembleias expressamente convocadas para esse fim pelo Instituto de Reorganização Agrária.
 
 3. Das decisões das comissões arbitrais cabe recurso, com efeito meramente devolutivo, para o tribunal da relação competente, que julga em definitivo.
 
@@ -222,7 +228,7 @@ Constará de portaria do Secretário de Estado da Agricultura o regulamento do p
 
 Este decreto-lei entra imediatamente em vigor.
 
-Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - José da Silva Lopes.
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - Emílio Rui da Veiga Peixoto Vilar.
 
 Promulgado em 18 de Outubro de 1974, nos termos do n.º 3.º do artigo 10.º da Lei Constitucional n.º 3/74.
 

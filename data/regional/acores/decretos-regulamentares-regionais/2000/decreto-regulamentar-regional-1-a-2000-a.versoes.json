@@ -94,11 +94,19 @@
      "title": "Decreto Regulamentar Regional n.º 4-A/2002/A",
      "published": "2002-01-21",
      "dre_path": "/dr/detalhe/decreto-regulamentar-regional/4-a-2002-233713"
+    },
+    {
+     "id": "pt:dre:585189:por",
+     "title": "Declaração de Rectificação n.º 5-F/2000",
+     "published": "2000-02-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/5-f-2000-585189"
     }
    ],
    "changes": [
     "Altera Artigo 23.º",
-    "Altera Artigo 43.º"
+    "Altera Artigo 43.º",
+    "Retifica Artigo 20",
+    "Retifica Artigo 35"
    ],
    "fragments": [
     "2ba16d4a2a875584",
@@ -126,7 +134,7 @@
     "84bdcd7b5eff3e64",
     "b054c3700ac6c883",
     "d78ef118116b0cad",
-    "6482a6a095e0471e",
+    "fbdac7a70a5a5f64",
     "eb9d352cd0599fc6",
     "1cd95177dd5ddf81",
     "6d9e8d56b0c04266",
@@ -143,7 +151,7 @@
     "d74af3088227000b",
     "04dee0c3f8506842",
     "a637d93b91e638d1",
-    "39b0e8a9a890cc98",
+    "f19cfac9ce121de9",
     "53a2428016dcda05",
     "547ee132ad29ffb7",
     "c0e0455a687f1b50",
@@ -753,6 +761,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 62.º — Integração de lacunas\n\nO secretário regional com tutela na educação emitirá os despachos normativos necessários à boa execução do presente Regulamento, ouvidas as organizações sindicais dos docentes."
   },
+  "fbdac7a70a5a5f64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Obrigações dos docentes",
+   "in_force_from": "2002-01-22",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 5-F/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-f-2000-585189), publicado em 2000-02-29."
+   ],
+   "markdown": "###### Artigo 20.º — Obrigações dos docentes\n\n1 - A manutenção na situação de titular de quadro de escola dos docentes que obtenham provimento integrados nas prioridades descritas nas alíneas a) e b) do n.º 4 e a) e b) do n.º 5 do artigo 10.º do presente regulamento fica condicionada ao cumprimento integral dos módulos de tempo de serviço ali fixados.\n\n2 - A manutenção na situação de titular do quadro de zona pedagógica fica condicionada, cumulativamente, às seguintes obrigações:\n\na) Aceitar, em cada ano, o serviço docente que lhe for distribuído em qualquer escola do quadro de zona pedagógica a que pertence;\n\nb) Aceitar submeter-se aos acréscimos de formação ou acções de reconversão para que forem convocados durante um período de seis anos a contar da primeira nomeação para o quadro de zona pedagógica;\n\nc) Concorrer anualmente a todos os quadros de escola de uma ilha, de qualquer quadro de zona pedagógica.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 5-F/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-f-2000-585189), publicado em 2000-02-29."
+  },
   "6a83676f67782793": {
    "fragment_id": null,
    "type": null,
@@ -762,6 +780,14 @@
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 4-A/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-2002-233713), publicado em 2002-01-21."
    ],
    "markdown": "###### Artigo 23.º — Candidatos\n\n1 - Podem ser opositores ao concurso externo:\n\na) Docentes dos quadros de escola e de zona pedagógica que pretendam mudar de grupo, subgrupo, disciplina ou especialidade;\n\nb) Indivíduos detentores de habilitação profissional adequada para o exercício da actividade docente.\n\n2 - Exclusivamente para os quadros de zona pedagógica, podem candidatar-se indivíduos portadores de habilitação própria, sem prejuízo do disposto no número seguinte.\n\n3 - Condicionado à disponibilidade de meios humanos e materiais para garantia do processo de profissionalização em exercício, nos termos estabelecidos no artigo 122.º do Estatuto da Carreira Docente, e com o objectivo de satisfazer necessidades de grupos carenciados, podem ser fixados por portaria do secretário regional que tutele o sector da educação contingentes de lugares nos quadros de zona pedagógica, a serem preenchidos por indivíduos portadores de habilitação própria, nos termos da lei em vigor.\n\n4 - Podem concorrer a provimento por período não inferior a três anos, nos termos dos n.os 4 e 5 do artigo 25.º do presente Regulamento, os candidatos que satisfaçam, pelo menos, uma das seguintes condições:\n\na) Tenham sido bolseiros da Região Autónoma dos Açores durante pelo menos um dos anos lectivos do curso que lhes confere habilitação para a docência;\n\nb) Tenham realizado o estágio profissionalizante, mesmo quando este não seja remunerado, em escola da rede pública da Região Autónoma dos Açores;\n\nc) Tenham prestado pelo menos três anos de serviço docente, como docente profissionalizado, em escola da rede pública da Região Autónoma dos Açores;\n\nd) Tenham acedido ao ensino superior, para o curso que lhe confere habilitação para a docência, integrados no contingente da Região Autónoma dos Açores.\n\n5 - Os opositores ao concurso devem preencher os requisitos gerais e específicos constantes do artigo 22.º do Estatuto da Carreira Docente.\n\n6 - No âmbito da afectação às escolas em lugares disponíveis não considerados para efeito do concurso interno, os docentes dos quadros de escola que pretendam ser opositores em situação de prioridade devem candidatar-se nos termos do disposto no artigo 35.º do presente Regulamento.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 4-A/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-a-2002-233713), publicado em 2002-01-21."
+  },
+  "f19cfac9ce121de9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Afectação por prioridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Afectação por prioridade\n\n1 - Os docentes dos quadros de escola que pretendam beneficiar de deslocação por um ano escolar terão de fazer a necessária candidatura à afectação por prioridade, nos termos dos números seguintes.\n\n2 - Nos oito dias úteis subsequentes à publicação das listas de colocações do concurso externo, os docentes dos quadros de escola não abrangidos pelas alíneas a) e b) do n.º 4 e a) e b) do n.º 5 do artigo 10.º e pelas alíneas a) e c) do n.º 4 do artigo 25.º do presente Regulamento devem preencher o boletim adequado para afectação por prioridade, editado pela Direcção Regional da Educação, ordenando as suas preferências.\n\n3 - O boletim é entregue na escola onde o docente se encontra em exercício de funções, sendo de imediato remetido pelo órgão de gestão e administração à Direcção Regional da Educação.\n\n4 - Na ordenação dos candidatos ter-se-á em conta as seguintes prioridades, sem prejuízo do disposto no artigo 11.º do presente Regulamento, no que se refere à graduação profissional:\n\na) Pertençam já aos quadros de escola com nomeação definitiva;\n\nb) Sejam profissionalizados e tenham obtido colocação nos quadros de escola nos concursos interno ou externo, com nomeação definitiva, a partir de 1 de Setembro seguinte.\n\n5 - As listas ordenadas de graduação são afixadas na Direcção Regional da Educação e nos estabelecimentos de educação e ensino, constituindo esta afixação a única forma de dar conhecimento aos interessados da respectiva ordenação.\n\n6 - Os candidatos referidos no número anterior poderão reclamar das listas de ordenação nos dois dias úteis seguintes ao da sua afixação ou desistir, no todo ou em parte, das preferências manifestadas no mesmo período.\n\n7 - Terminado o prazo para reclamações e desistências, a lista ordenada de graduação é submetida a homologação do director regional da Educação e dada a conhecer aos interessados nos termos do n.º 5 do presente artigo.\n\n8 - As listas de afectação por prioridade depois de homologadas pelo director regional da Educação são publicitadas de acordo com o n.º 5 do presente artigo.\n\n9 - Das listas de afectação por prioridade cabe recurso hierárquico para o secretário regional com a tutela da educação, no prazo de três dias úteis, sem efeito suspensivo.\n\n10 - A afectação é dada a conhecer aos candidatos através de notificação individual.\n\n11 - À não aceitação da afectação por prioridade é aplicado o disposto no n.º 5 do artigo 32.º do presente Regulamento."
   },
   "57eb480d36f8eced": {
    "fragment_id": null,

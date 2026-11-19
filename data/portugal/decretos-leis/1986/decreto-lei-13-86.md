@@ -53,9 +53,11 @@ version_history:
     changes: []
   - date: '1988-01-20'
     amending: pt:dre:283366:por
-    amending_title: Decreto-Lei n.º 9/88
+    amending_title: Decreto-Lei n.º 9/88; Declaração
     changes:
     - Altera Artigo 3.º
+    - Retifica Artigo 4
+    - Retifica Artigo 10
 identifiers:
   celex: null
   eli: null
@@ -82,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:11:02Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 9/88. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1986/decreto-lei-13-86.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1986/decreto-lei-13-86.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -243,11 +246,13 @@ b) Ao valor locativo que resultar da avaliação fiscal, tomando-se o coeficient
 
 V = Cf x Cc x Au x Pc x (1 - 0,85 x Vt)
 
-sendo V o valor actualizado do fogo no ano de celebração do contrato, Cf um factor relativo ao nível de conforto do fogo, Cc um factor relativo ao estado de conservação do fogo, Au a área útil definida nos termos do Regulamento Geral das Edificações Urbanas, Cc o preço da habitação por metro quadrado e Vt um coeficiente relativo à vetustez do fogo.
+sendo V o valor actualizado do fogo no ano de celebração do contrato, Cf um factor relativo ao nível de conforto do fogo, Cc um factor relativo ao estado de conservação do fogo, Au a área útil definida nos termos do Regulamento Geral das Edificações Urbanas; Pc o preço da habitação por metro quadrado; e Vt um coeficiente relativo à vetustez do fogo.
 
 3 - No caso do n.º 1, o preço da primeira transmissão não pode ser superior ao que serviu de base à liquidação da sisa, ou à declaração relativa à isenção da mesma, ou ao constante da respectiva escritura de compra e venda, consoante o que for menor.
 
 4 - A renda que resultar da aplicação dos critérios enumerados no n.º 1 não poderá ser superior ao produto resultante da aplicação do factor 1,3 à renda calculada nos termos do n.º 2, sendo o coeficiente de vetustez igual a 0.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-403132), publicado em 1986-04-30.
 
 ###### Artigo 5.º — (Nível de conforto do fogo)
 
@@ -309,7 +314,7 @@ Pc - O referido no n.º 2 do artigo 4.º
 
 ###### Artigo 10.º — (Comissões de avaliação)
 
-1 - Para as avaliações previstas nos artigos anteriores são competentes as comissões de avaliação constituídas nos termos do artigo 5.º do Decreto-Lei n.º 37021, de 21 de Agosto de 1948, com a redacção dada pelo Decreto-Lei n.º 37784, de 14 de Março de 1950.
+1 - Para as avaliações previstas nos artigos anteriores são competentes as comissões de avaliação constituídas nos termos do artigo 5.º do Decreto n.º 37021, de 21 de Agosto de 1948, com a redacção que lhe foi dada pelo Decreto Regulamentar n.º 1/86, de 2 de Janeiro.
 
 2 - As comissões de avaliação referidas no número anteiror serão ainda integradas por um representante do senhorio e um do arrendatário, indicados pelos mesmos ou pelas suas associações representativas.
 

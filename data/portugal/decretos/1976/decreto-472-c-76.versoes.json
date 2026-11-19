@@ -33,13 +33,20 @@
      "title": "Decreto-Lei n.º 1-C/80",
      "published": "1980-01-11",
      "dre_path": "/dr/detalhe/decreto-lei/1-c-1980-615852"
+    },
+    {
+     "id": "pt:dre:431463:por",
+     "title": "Declaração",
+     "published": "1976-07-09",
+     "dre_path": "/dr/detalhe/declaracao/1976-431463"
     }
    ],
    "changes": [
     "Altera Artigo 12.º",
     "Altera Artigo 27.º",
     "Altera Artigo 34.º",
-    "Altera Artigo 24.º"
+    "Altera Artigo 24.º",
+    "Retifica Artigo 34"
    ],
    "fragments": [
     "3bda2292ab51ca46",
@@ -79,7 +86,7 @@
     "0bed0132e34cc9b9",
     "a272661dc3bcbc36",
     "8b7386042c79f34b",
-    "9d69903538d3e3fe",
+    "57783b47d3011bbb",
     "740fc0fd5ce5ade7",
     "16f4e24c8c5226b5",
     "c7892692e91573de",
@@ -427,15 +434,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 33.º\n\nMediante despacho ministerial, o Gabinete poderá ser autorizado a contratar com entidades ou indivíduos a ele estranhos a realização de estudos ou projectos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições."
   },
-  "9d69903538d3e3fe": {
+  "57783b47d3011bbb": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 34.º",
    "in_force_from": "1980-01-11",
    "changed_by": [
-    "Alterado pelo/a [Decreto n.º 849/76](https://diariodarepublica.pt/dr/detalhe/decreto/849-1976-407694), publicado em 1976-12-16."
+    "Alterado pelo/a [Decreto n.º 849/76](https://diariodarepublica.pt/dr/detalhe/decreto/849-1976-407694), publicado em 1976-12-16.",
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-431463), publicado em 1976-07-09."
    ],
-   "markdown": "###### Artigo 34.º\n\n1. O primeiro provimento dos lugares do quadro a que se refere o n.º 1 do artigo 26.º efectuar-se-á obrigatória e prioritariamente de entre o pessoal que se encontre a qualquer título a prestar serviço para o Ministério dos Transportes e Comunicações, no âmbito do Gabinete de Planeamento do Ministério das Obras Públicas.\n\n2. O provimento quanto ao número anterior resultará de lista aprovada pelo Ministro dos Transportes e Comunicações e publicada no Diário da República, no prazo de trinta dias a contar da data de publicação deste diploma, donde conste o lugar em que cada funcionário fica provido.\n\n3. Na elaboração da lista levar-se-ão em conta as habilitações, experiência e antiguidade dos interessados, que serão providos sem prejuízo de categoria e classe em que se encontram, com dispensa de concurso e do limite da idade máxima para admissão de lugares de acesso.\n\n4. A integração do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo o visto do Tribunal de Contas.\n\n5. O primeiro provimento de lugares do quadro que não forem preenchidos nos termos do disposto nos números anteriores poderá ser feito por escolha do Ministro dos Transportes e Comunicações, entre pessoas de reconhecida competência que possuam habilitações mínimas exigidas pelo presente diploma para admissão dos respectivos lugares, no prazo de cento e oitenta dias, a contar da publicação do presente diploma.\n\n6. O provimento dos lugares de terceiro-mecanógrafo, nos termos do número anterior, poderá ser feito, independentemente das habilitações literárias exigidas pela alínea d) do n.º 1 do artigo 25.º, de entre escriturários-dactilógrafos que contem, pelo menos, três anos de bom e efectivo serviço nessa categoria e possuam curso de mecanografia adequado.\n\n> Alterado pelo/a [Decreto n.º 849/76](https://diariodarepublica.pt/dr/detalhe/decreto/849-1976-407694), publicado em 1976-12-16."
+   "markdown": "###### Artigo 34.º\n\n1. O primeiro provimento dos lugares do quadro a que se refere o n.º 1 do artigo 22.º efectuar-se-á obrigatória e prioritariamente de entre o pessoal que se encontre a qualquer título a prestar serviço para o Ministério dos Transportes e Comunicações, no âmbito do Gabinete de Planeamento do Ministério das Obras Públicas.\n\n2. O provimento quanto ao número anterior resultará de lista aprovada pelo Ministro dos Transportes e Comunicações e publicada no Diário da República, no prazo de trinta dias a contar da data de publicação deste diploma, donde conste o lugar em que cada funcionário fica provido.\n\n3. Na elaboração da lista levar-se-ão em conta as habilitações, experiência e antiguidade dos interessados, que serão providos sem prejuízo de categoria e classe em que se encontram, com dispensa de concurso e do limite da idade máxima para admissão de lugares de acesso.\n\n4. A integração do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo o visto do Tribunal de Contas.\n\n5. O primeiro provimento de lugares do quadro que não forem preenchidos nos termos do disposto nos números anteriores poderá ser feito por escolha do Ministro dos Transportes e Comunicações, entre pessoas de reconhecida competência que possuam habilitações mínimas exigidas pelo presente diploma para admissão dos respectivos lugares, no prazo de cento e oitenta dias, a contar da publicação do presente diploma.\n\n6. O provimento dos lugares de terceiro-mecanógrafo, nos termos do número anterior, poderá ser feito, independentemente das habilitações literárias exigidas pela alínea d) do n.º 1 do artigo 25.º, de entre escriturários-dactilógrafos que contem, pelo menos, três anos de bom e efectivo serviço nessa categoria e possuam curso de mecanografia adequado.\n\n> Alterado pelo/a [Decreto n.º 849/76](https://diariodarepublica.pt/dr/detalhe/decreto/849-1976-407694), publicado em 1976-12-16.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-431463), publicado em 1976-07-09."
   },
   "740fc0fd5ce5ade7": {
    "fragment_id": null,

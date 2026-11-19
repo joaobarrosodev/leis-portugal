@@ -44,10 +44,11 @@ version_history:
     changes: []
   - date: '1984-07-25'
     amending: pt:dre:386030:por
-    amending_title: Portaria n.º 482/84
+    amending_title: Portaria n.º 482/84; Declaração
     changes:
     - Altera Artigo 69.º
     - Altera Artigo 72.º
+    - Retifica Artigo 39
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:50:14Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 482/84. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-607-81.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-607-81.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -494,13 +496,15 @@ Inapto.
 
 2 - São classificados:
 
-a) Aptos, os candidatos que superarem sem qualquer restrição as disposições da tabela de inaptação;
+a) Aptos, os candidatos que superarem sem qualquer restrição as disposições da tabela de inaptidão;
 
 b) Aptos condicionalmente, os que, embora apresentem em relação à tabela de inaptidão pequenas insuficiências que não sejam de carácter patológico inaceitável, sejam considerados em condições de prestar a prova de aptidão física e de continuar em concurso, se satisfizerem a todos os exercícios que a constituem e não acusarem, durante ou imediatamente após ela, qualquer deficiência funcional;
 
 c) Inaptos temporariamente, os que, embora se preveja que pelo seu desenvolvimento ou por tratamento adequado possam vir a ficar aptos decorridos alguns meses, apresentem insuficiências notáveis em relação à tabela de inaptidão;
 
 d) Inaptos, os que não satisfazem, nem se preveja que possam vir a satisfazer, por terem insuficiências incuráveis ou que constituam índices morfológicos ou patológicos considerados inibitórios.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-564065), publicado em 1981-10-02.
 
 ###### Artigo 40.º
 

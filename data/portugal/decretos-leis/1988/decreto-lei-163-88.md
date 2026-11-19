@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1990-07-31'
     amending: pt:dre:573105:por
-    amending_title: Decreto-Lei n.º 242/90
+    amending_title: Decreto-Lei n.º 242/90; Declaração
     changes:
     - Altera Artigo 3.º
+    - Retifica Artigo 1
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:24:57Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 242/90. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-163-88.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-163-88.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,7 +162,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 1.º
 
-Os mestres dos quadros dos institutos superiores de engenharia que sejam portadores de habilitação própria, conferida por curso superior ou não, e que se encontravam em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, ficam abrangidos pelo regime do [Decreto-Lei n.º 319/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1984-399788), de 26 de Setembro.
+Os mestres dos quadros dos institutos superiores de engenharia que sejam portadores de habilitação própria, conferida por curso superior ou não, e que se encontravam em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, ficam abrangidos pelo regime do Decreto-Lei n.º 311/84, de 26 de Setembro.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-222408), publicado em 1988-05-31.
 
 ###### Artigo 2.º
 

@@ -55,10 +55,11 @@ version_history:
     changes: []
   - date: '2004-01-19'
     amending: pt:dre:603026:por
-    amending_title: Resolução do Conselho de Ministros n.º 4/2004
+    amending_title: Resolução do Conselho de Ministros n.º 4/2004; Declaração de Rectificação n.º 20/2003
     changes:
     - Altera Artigo 12.º
     - Altera Artigo 30.º
+    - Retifica Artigo 35
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/166/2003/11/03/p/dre/pt/html
@@ -85,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:48:05Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
-    n.º 4/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2003/resolucao-conselho-ministros-166-2003.alteracoes.json'
+    n.º 4/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2003/resolucao-conselho-ministros-166-2003.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 20/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -698,11 +700,13 @@ O pagamento do preço das acções objecto de alienação será efectuado, integ
 
 ###### Artigo 35.º — Apoio técnico ao júri
 
-1 - O apoio técnico ao júri será prestado pela Secção Especializada para as Reprivatizações.
+1 - O apoio técnico ao júri será prestado pela Inspecção-Geral de Finanças e pela Secção Especializada para as Reprivatizações.
 
 2 - Na apreciação dos modelos de desenvolvimento estratégico apresentados pelos concorrentes para a SPdH, S. A., o júri deverá ainda recorrer ao apoio de uma comissão técnica, composta por um máximo de cinco elementos, designados pelo conselho de administração da TAP, SGPS, S. A.
 
 3 - O júri, se o considerar necessário, poderá ainda socorrer-se do apoio de quaisquer outros consultores ou especialistas.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 20/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2003-431176), publicado em 2003-12-11.
 
 ###### Artigo 36.º — Deliberações do júri
 

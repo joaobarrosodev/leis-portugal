@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1984-06-28'
     amending: pt:dre:387276:por
-    amending_title: Portaria n.º 408/84
+    amending_title: Portaria n.º 408/84; Declaração
     changes:
     - Altera Artigo unidades 62-64
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:24:41Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 408/84. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-772-82.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-772-82.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -244,7 +246,9 @@ Os prazos de candidatura e inscrição e o calendário lectivo serão lixados pe
 
 (Dispensa das provas complementares e doutoramento)
 
-Os titulares de aprovação em curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para obtenção do grau de doutor nas especialidades indicadas nos anexos I a III.
+Os titulares de aprovação em cada curso terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto, para obtenção do grau de doutor nas especialidades indicadas nos anexos I a III.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375865), publicado em 1982-09-21.
 
 Ministério da Educação, 23 de Julho de 1982. - O Ministro da Educação, João José Fraústo da Silva.
 
@@ -362,7 +366,7 @@ Total ... 17
 
 4.1 - Área de especialização em Literaturas Francesa e Portuguesa:
 
-a) Filosofia Românica;
+a) Filologia Românica;
 
 b) Línguas e Literaturas Modernas (variantes com Estudos Franceses).
 

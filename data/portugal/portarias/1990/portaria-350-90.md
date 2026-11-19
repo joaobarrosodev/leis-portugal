@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1999-08-07'
     amending: pt:dre:344946:por
-    amending_title: Portaria n.º 588/99
+    amending_title: Portaria n.º 588/99; Declaração
     changes:
     - Altera Artigo unidades 17-17
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:18:54Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 588/99. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-350-90.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-350-90.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,7 +155,9 @@ N.º 55, secção J, com a área de 11,8250 ha;
 
 N.º 23, secção J2, com a área de 8,3250 ha,
 
-que se encontram no interior da zona concessionada, requereu a mesma, ao abrigo do disposto no artigo 28.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, a agregação daqueles prédios à zona de caça associativa, por impossibilidade de dar cumprimento ao determinado no artigo 21.º da mesma lei.
+que se encontram no interior da zona concessionada, requereu a mesma, ao abrigo do disposto no artigo 28.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, a agregação daqueles prédios à zona de caça turística, por impossibilidade de dar cumprimento ao determinado no artigo 21.º da mesma lei.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-528459), publicado em 1990-06-30.
 
 Verificando-se que os prédios rústicos em causa estão nas condições definidas nos n.os 1 e 2 do artigo 28.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134) de 27 de Agosto:
 

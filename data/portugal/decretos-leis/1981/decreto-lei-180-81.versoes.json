@@ -43,18 +43,25 @@
      "title": "Decreto-Lei n.º 58/95",
      "published": "1995-03-31",
      "dre_path": "/dr/detalhe/decreto-lei/58-1995-174313"
+    },
+    {
+     "id": "pt:dre:576340:por",
+     "title": "Declaração",
+     "published": "1981-08-13",
+     "dre_path": "/dr/detalhe/declaracao/1981-576340"
     }
    ],
    "changes": [
     "Revoga Artigo 6.º",
-    "Revoga Artigo 11.º"
+    "Revoga Artigo 11.º",
+    "Retifica Artigo 4"
    ],
    "fragments": [
     "9c0c469b3e0bbda8",
     "9d84ba6b45bd967f",
     "946f85a02435b0fc",
     "56ed91463e47c9cb",
-    "d9d140172db93e9f",
+    "20e7d4e0918816a7",
     "859341c1644abfa6",
     "803cd50494d8c9cb",
     "6d9764c8e01a1a79",
@@ -267,13 +274,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 3.º — (Dependência)\n\n1 - O Centro está hierarquicamente dependente da Secretaria Regional dos Assuntos Sociais, a quem incumbe o provimento dos lugares do respectivo quadro.\n\n2 - A Direcção-Geral dos Serviços Tutelares de Menores só pode supervisionar o funcionamento do Centro relativamente às actividades desenvolvidas no âmbito da aplicação e execução de medidas tutelares previstas na Organização Tutelar de Menores."
   },
-  "d9d140172db93e9f": {
+  "20e7d4e0918816a7": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 4.º — (Fins)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 4.º — (Fins)\n\n1 - As actividades a prosseguir pelo Centro serão desenvolvidas por departamentos que constituem unidades distintas, não obstante a existência de órgãos de gestão e de pessoal comuns.\n\n2 - Os departamentos do Centro serão definidos na portaria referida no n.º 4 do artigo 85.º do [Decreto-Lei n.º 506/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1980-462813), de 21 de Outubro."
+   "in_force_from": "1995-03-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-576340), publicado em 1981-08-13."
+   ],
+   "markdown": "###### Artigo 4.º — (Fins)\n\n1 - As actividades a prosseguir pelo Centro serão desenvolvidas por departamentos que constituem unidades distintas, não obstante a existência de órgãos de gestão e de pessoal comuns.\n\n2 - Os departamentos do Centro serão definidos na portaria referida no n.º 4 do artigo 35.º do [Decreto-Lei n.º 506/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1980-462813), de 21 de Outubro.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-576340), publicado em 1981-08-13."
   },
   "859341c1644abfa6": {
    "fragment_id": null,

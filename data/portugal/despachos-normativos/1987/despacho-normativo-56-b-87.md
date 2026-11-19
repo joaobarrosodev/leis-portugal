@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1987-10-29'
     amending: pt:dre:496106:por
-    amending_title: Despacho Normativo n.º 85/87
+    amending_title: Despacho Normativo n.º 85/87; Declaração
     changes:
     - Altera Artigo unidades 7-8
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:38:12Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 85/87. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1987/despacho-normativo-56-b-87.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1987/despacho-normativo-56-b-87.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,4 +180,6 @@ c) Para a couve-flor, tomates e tangerinas, incluindo satsumas, durante os prime
 
 8 - As declarações de importação emitidas nos períodos em que não são aplicadas restrições quantitativas caducam no início do período em que a importação se encontra contingentada.
 
-Ministérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio, 27 de Julho de 1987. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
+Ministérios da Agricultura, Pescas e Alimentação e da Indústria e Comércio, 27 de Junho de 1987. - Pelo Ministro da Agricultura, Pescas e Alimentação, António Amaro de Matos, Secretário de Estado da Alimentação. - Pelo Ministro da Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239630), publicado em 1987-08-31.

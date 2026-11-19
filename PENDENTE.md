@@ -190,5 +190,8 @@ Os pormenores estão no `consolidacao/README.md`, «8. Repedir com os reparos e 
   - export e reconstrução do índice com o bloco 3, a cargo da sessão coordenadora;
   - medir o texto alterado antes e depois.
 - **Achados por decidir:**
-  - **Retificações fora da cadeia.** As declarações de retificação que o DRE dá como `corrected_by` não entram na lista de alteradores da consolidação. Em 5 dos 35 isso deixou texto por retificar. É preciso ver quantos dos 2.767 já aplicados têm um `corrected_by` que não foi aplicado.
+  - **Retificações fora da cadeia.** As declarações de retificação que o DRE dá como `corrected_by` não entram na lista de alteradores da consolidação. Em 5 dos 35 isso deixou texto por retificar.
+    - **Medido a 19/11** (`reports/auditoria-consolidados.md`): 244 por aplicar em 221 consolidados.
+    - **Aplicadas por regra a 19/11:** 67, em 65 diplomas, verificadas às cegas (`consolidacao/README.md`, secção 9).
+    - **Falta:** as 116 para o LLM e as 7 recusadas pela regra; contar `corrected_by` como alterador nas próximas rondas; o export e o índice com estes 65 registos.
   - **Vigência.** 12 dos 35 têm o texto certo, mas o diploma já não vigora: foi revogado, caducou ou foi substituído, e o DRE dá-o como `in_force`. A verificação às cegas não vê isto. É preciso decidir se os já aplicados das mesmas classes passam por uma leitura de vigência. Essas classes são: concessões de caça, mestrados e licenciaturas anteriores a Bolonha (DL 74/2006), regimes de um só ano e orgânicas de serviços extintos.

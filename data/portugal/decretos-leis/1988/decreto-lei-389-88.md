@@ -44,9 +44,11 @@ version_history:
     changes: []
   - date: '1990-10-18'
     amending: pt:dre:555834:por
-    amending_title: Decreto-Lei n.º 317/90
+    amending_title: Decreto-Lei n.º 317/90; Declaração
     changes:
     - Altera Artigo 13.º
+    - Retifica Artigo 22
+    - Retifica Artigo 15
 identifiers:
   celex: null
   eli: null
@@ -73,7 +75,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:44:06Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 317/90. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-389-88.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-389-88.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -364,9 +367,11 @@ h) Participação em missões, congressos e outras reuniões de idêntica nature
 
 ###### Artigo 15.º
 
-1 - Os docentes referidos no n.º 3 do artigo anterior serão ordenados, para efeitos de provimento das vagas constantes dos mapas III e I anexos ao presente diploma, consoante sejam ou não titulares de lugares dos quadros transitórios a que se refere o artigo 14.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro, de acordo com a antiguidade na obtenção do grau de doutor ou de mestre, conforme os casos.
+1 - Os docentes referidos no n.º 3 do artigo anterior serão ordenados, para efeitos de provimento das vagas constantes dos mapas III e I anexos ao presente diploma, quer sejam ou não titulares de lugares dos quadros transitórios a que se refere o artigo 14.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro, de acordo com a antiguidade na obtenção do grau de doutor ou de mestre, conforme os casos.
 
 2 - Quando, para efeitos do disposto no número anterior, um ou mais docentes tenham obtido o mesmo grau, no mesmo dia, a precedência será determinada pela antiguidade na obtenção do grau de licenciado.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-199605), publicado em 1988-12-31.
 
 ###### Artigo 16.º
 
@@ -398,7 +403,7 @@ O quadro dos mestres dos institutos, lugares a extinguir à medida que vagarem, 
 
 ###### Artigo 22.º
 
-1 - O disposto no n.º 2 do artigo 14.º do presente diploma entra em vigor no ano lectivo de 1989-1990.
+1 - O disposto no n.º 2 do artigo 4.º do presente diploma entra em vigor no ano lectivo de 1989-1990.
 
 2 - Para efeitos do preceituado no número anterior, os conselhos científicos, quando for caso disso, remeterão as respectivas propostas de planos de estudo à Direcção-Geral do Ensino Superior até 31 de Janeiro de 1989.
 

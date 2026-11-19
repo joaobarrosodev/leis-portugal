@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1992-11-12'
     amending: pt:dre:216106:por
-    amending_title: Decreto-Lei n.º 247/92
+    amending_title: Decreto-Lei n.º 247/92; Declaração
     changes:
     - Revoga Artigo 4.º
+    - Retifica Artigo 5
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:45:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 247/92. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-347-82.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-347-82.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -200,7 +202,9 @@ c) Publicação no Diário da República.
 
 5 - A constituição em excedente do pessoal mencionado no artigo 4.º far-se-á nos termos da legislação aplicável, sem prejuízo de a situação dos professores efectivos referidos na alínea b) do n.º 1 do artigo 3.º poder vir a ser objecto de alterações decorrentes do processo de atribuição de fases em curso.
 
-6 - A transição ou a constituição em excedente dos regentes de trabalhos far-se-á observando a categoria e letra de vencimento que detenham ao abrigo do disposto nas Portarias n.os [764/82](https://diariodarepublica.pt/dr/detalhe/portaria/764-1982-396916), de 6 de Agosto, e [826/82](https://diariodarepublica.pt/dr/detalhe/portaria/826-1982-374637) ?.
+6 - A transição ou a constituição em excedente dos regentes de trabalhos far-se-á observando a categoria e letra de vencimento que detenham ao abrigo do disposto nas Portarias n.os [764/82](https://diariodarepublica.pt/dr/detalhe/portaria/764-1982-396916), de 6 de Agosto, e 834/82, de 1 de Setembro ?.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-376074), publicado em 1982-10-19.
 
 ###### Artigo 6.º — (Prazo)
 

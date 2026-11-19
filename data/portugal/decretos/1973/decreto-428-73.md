@@ -43,9 +43,15 @@ version_history:
     changes: []
   - date: '1977-08-25'
     amending: pt:dre:255994:por
-    amending_title: Decreto-Lei n.º 349/77
+    amending_title: Decreto-Lei n.º 349/77; Rectificação
     changes:
     - Altera Artigo 75.º
+    - Retifica texto
+    - Retifica Artigo 30
+    - Retifica Artigo 33
+    - Retifica Artigo 49
+    - Retifica Artigo 57
+    - Retifica Artigo 94
 identifiers:
   celex: null
   eli: null
@@ -72,7 +78,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:29:13Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 349/77. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1973/decreto-428-73.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1973/decreto-428-73.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -199,7 +206,9 @@ As funções de secretário do Conselho, sem direito a voto, são exercidas pelo
 
 ### CAPÍTULO III — Do Instituto Nacional de Estatística
 
-#### SECÇÃO 1.ª — Da organização dos serviços centrais
+#### SECÇÃO 1.ª — Da organização dos serviços centrais.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-412824), publicado em 1973-09-26.
 
 ##### SUBSECÇÃO 1.ª — Centro de Informática
 
@@ -471,7 +480,7 @@ b) Atender directamente o público, satisfazendo ou encaminhando os seus pedidos
 
 c) Exercer permanente acção informativa junto do público interessado na acção do I. N. E., directamente ou com recurso aos meios de comunicação social, designadamente em campanhas de informação e esclarecimento relativamente a censos e outras operações estatísticas em que isso se justifique;
 
-d) Auscultar o público, directamente ou por intermédio de informação, estudar as suas reclamações, sugestões e opiniões e encaminhá-las para os departamentos competentes do Instituto.
+d) Auscultar o público, directamente ou por intermédio dos órgãos de informação, estudar as suas reclamações, sugestões e opiniões e encaminhá-las para os departamentos competentes do Instituto.
 
 SUBSECÇAO 5.ª
 
@@ -515,7 +524,7 @@ Compete à Divisão de Estatísticas Agrícolas e Alimentares:
 
 a) Colaborar no planeamento e orientação técnica dos recenseamentos e inquéritos de base à agricultura, silvicultura, pecuária, caça e pesca;
 
-b) Elaborar as estatísticas correntes da produção vegetal dos sectores agrícola e florestal, da produção animal, da caça e pesca, as estatísticas económicas e sociais ligadas àqueles sectores, nomeadamente as da população e mão-de-obra, dos preços e dos meios de produção adquiridos pelos empresários, incluindo o cálculo dos respectivos números índices, do crédito e seguros, e os relativos à utilização dos produtos desses sectores.
+b) Elaborar as estatísticas correntes da produção vegetal dos sectores agrícola e florestal, da produção animal, da caça e pesca, as estatísticas económicas e sociais ligadas àqueles sectores, nomeadamente as da população e mão-de-obra, dos preços e dos meios de produção adquiridos pelos empresários, incluindo o cálculo dos respectivos números índices, do crédito e seguros, e as relativas à utilização dos produtos desses sectores.
 
 ###### Artigo 34.º
 
@@ -631,7 +640,7 @@ g) Elaborar, com a colaboração dos serviços especializados nas respectivas ma
 
 A distribuição de tarefas constantes dos artigos anteriores poderá ser modificada por despacho do Presidente do Conselho, mediante proposta fundamentada do director do Instituto.
 
-#### SECÇÃO 2.ª — Da organização das delegações metropolitanas
+#### SECÇÃO 2.ª — Da competência das delegações metropolitanas.
 
 ###### Artigo 44.º
 
@@ -707,7 +716,7 @@ i) O mecânico de 3.ª classe, de entre indivíduos de idade não inferior a 18 
 
 ###### Artigo 49.º
 
-O pessoal da Divisão de Censos e Inquéritos adiante indicado será recrutado por escolha, nos termos seguintes:
+O pessoal da Direcção dos Serviços de Censos e Inquéritos adiante indicado será recrutado por escolha, nos termos seguintes:
 
 a) Os supervisores de censos e inquéritos, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe e os agentes de censos e inquéritos de 2.ª classe, de entre, respectivamente, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe, os agentes de censos e inquéritos de 2.ª classe e os agentes de censos e inquéritos de 3.ª classe;
 
@@ -769,7 +778,7 @@ Mediante proposta do director, poderá o funcionário provido no lugar de jurist
 
 1. Os lugares de primeiro-oficial e de técnico auxiliar de 1.ª classe serão providos por concurso de promoção, a que podem concorrer os segundos-oficiais e os técnicos auxiliares de 2.ª classe, com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.
 
-2. Os lugares de técnico auxiliar de 2.ª classe serão providos por concurso de promoção a que podem concorrer os técnicos auxiliares de 3.ª classe com aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 69.º e mais condições da lei geral.
+2. Os lugares de técnico auxiliar de 2.ª classe serão providos por concurso de promoção a que podem concorrer os técnicos auxiliares de 3.ª classe e os segundos-oficiais com aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 69.º e mais condições da lei geral.
 
 3. Os lugares de segundo-oficial e de técnico auxiliar de 3.ª classe serão providos por concurso de promoção a que podem concorrer os terceiros-oficiais e os auxiliares técnicos com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.
 
@@ -1055,7 +1064,7 @@ b) Inobservância de norma expressa de notação estatística;
 
 c) Falta de cumprimento de prazos fixados;
 
-d) Todas as transgressões são expressamente previstas neste artigo e nos seguintes.
+d) Todas as transgressões não expressamente previstas neste artigo e nos seguintes.
 
 ###### Artigo 95.º
 

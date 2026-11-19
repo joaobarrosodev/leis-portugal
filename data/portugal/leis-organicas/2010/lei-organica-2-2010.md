@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '2014-01-01'
     amending: pt:dre:344942:por
-    amending_title: Lei n.º 55-A/2010; Lei Orgânica n.º 2/2013
+    amending_title: Lei n.º 55-A/2010; Lei Orgânica n.º 2/2013; Declaração de Rectificação n.º 21/2010
     changes:
     - Adita Artigo 20.º-A
     - Revoga Artigo 20.º
+    - Retifica Artigo 22
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/leiorg/2/2010/06/16/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:01:00Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 55-A/2010; Lei Orgânica n.º
-    2/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/leis-organicas/2010/lei-organica-2-2010.alteracoes.json'
+    2/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/leis-organicas/2010/lei-organica-2-2010.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 21/2010.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -392,6 +394,8 @@ Publique-se.
 
 O Presidente da República, Aníbal Cavaco Silva.
 
-Referendada em 6 de Junho de 2010.
+Referendada em 8 de Junho de 2010.
 
 O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2010-334277), publicado em 2010-07-20.

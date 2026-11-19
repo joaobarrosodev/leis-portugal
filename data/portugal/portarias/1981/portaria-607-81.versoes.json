@@ -36,11 +36,18 @@
      "title": "Portaria n.º 482/84",
      "published": "1984-07-20",
      "dre_path": "/dr/detalhe/portaria/482-1984-386030"
+    },
+    {
+     "id": "pt:dre:564065:por",
+     "title": "Declaração",
+     "published": "1981-10-02",
+     "dre_path": "/dr/detalhe/declaracao/1981-564065"
     }
    ],
    "changes": [
     "Altera Artigo 69.º",
-    "Altera Artigo 72.º"
+    "Altera Artigo 72.º",
+    "Retifica Artigo 39"
    ],
    "fragments": [
     "ebb793d7d1fdee7a",
@@ -88,7 +95,7 @@
     "d1ae8026c5559a13",
     "bd2add686ff6a3aa",
     "5e4e55f7a75cee5c",
-    "b170a4bcbe24eb31",
+    "9f63559b85837866",
     "901baf1d1b75db1f",
     "346015df278d61f6",
     "e182772020bcce1d",
@@ -602,13 +609,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 38.º\n\nQuando a junta de inspecção encontrar razões para tal, podem os candidatos ser mandados observar nas clínicas especializadas no Hospital Militar Principal. A decisão da junta quanto à inspecção dos candidatos nestas condições é proferida após a recepção do relatório informativo das referidas clínicas."
   },
-  "b170a4bcbe24eb31": {
+  "9f63559b85837866": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 39.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 39.º\n\n1 - A junta de inspecção, fundamentada no exame de cada candidato, classifica-o em:\n\nApto;\n\nApto condicionalmente;\n\nInapto temporariamente;\n\nInapto.\n\n2 - São classificados:\n\na) Aptos, os candidatos que superarem sem qualquer restrição as disposições da tabela de inaptação;\n\nb) Aptos condicionalmente, os que, embora apresentem em relação à tabela de inaptidão pequenas insuficiências que não sejam de carácter patológico inaceitável, sejam considerados em condições de prestar a prova de aptidão física e de continuar em concurso, se satisfizerem a todos os exercícios que a constituem e não acusarem, durante ou imediatamente após ela, qualquer deficiência funcional;\n\nc) Inaptos temporariamente, os que, embora se preveja que pelo seu desenvolvimento ou por tratamento adequado possam vir a ficar aptos decorridos alguns meses, apresentem insuficiências notáveis em relação à tabela de inaptidão;\n\nd) Inaptos, os que não satisfazem, nem se preveja que possam vir a satisfazer, por terem insuficiências incuráveis ou que constituam índices morfológicos ou patológicos considerados inibitórios."
+   "in_force_from": "1984-07-25",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-564065), publicado em 1981-10-02."
+   ],
+   "markdown": "###### Artigo 39.º\n\n1 - A junta de inspecção, fundamentada no exame de cada candidato, classifica-o em:\n\nApto;\n\nApto condicionalmente;\n\nInapto temporariamente;\n\nInapto.\n\n2 - São classificados:\n\na) Aptos, os candidatos que superarem sem qualquer restrição as disposições da tabela de inaptidão;\n\nb) Aptos condicionalmente, os que, embora apresentem em relação à tabela de inaptidão pequenas insuficiências que não sejam de carácter patológico inaceitável, sejam considerados em condições de prestar a prova de aptidão física e de continuar em concurso, se satisfizerem a todos os exercícios que a constituem e não acusarem, durante ou imediatamente após ela, qualquer deficiência funcional;\n\nc) Inaptos temporariamente, os que, embora se preveja que pelo seu desenvolvimento ou por tratamento adequado possam vir a ficar aptos decorridos alguns meses, apresentem insuficiências notáveis em relação à tabela de inaptidão;\n\nd) Inaptos, os que não satisfazem, nem se preveja que possam vir a satisfazer, por terem insuficiências incuráveis ou que constituam índices morfológicos ou patológicos considerados inibitórios.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-564065), publicado em 1981-10-02."
   },
   "901baf1d1b75db1f": {
    "fragment_id": null,

@@ -131,10 +131,18 @@
      "title": "Lei n.º 64/2012",
      "published": "2012-12-20",
      "dre_path": "/dr/detalhe/lei/64-2012-190201"
+    },
+    {
+     "id": "pt:dre:553576:por",
+     "title": "Declaração de Retificação n.º 14/2012",
+     "published": "2012-03-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/14-2012-553576"
     }
    ],
    "changes": [
-    "Altera Artigo 30.º"
+    "Altera Artigo 30.º",
+    "Retifica Artigo 52",
+    "Retifica Artigo 57"
    ],
    "fragments": [
     "bc04b51d9bcad843",
@@ -195,12 +203,12 @@
     "e32af19ed9c22c67",
     "6d5a53661bf786f7",
     "90f0b715ae81eaa5",
-    "347cefa2fd8a694c",
+    "f0962c6aedd86ebc",
     "18d7520f5d82f67d",
     "14897a81a1b6614d",
     "bacfc49395d1ebcf",
     "c93c707bcf7de98f",
-    "f8cddfc2a88e1439",
+    "d51253ef5e9b4847",
     "af97f43e8b4c7148",
     "21a0a0415d9fab22",
     "ab0767c126b58e8d",
@@ -1131,6 +1139,24 @@
     "Alterado pelo/a Artigo 14.º do/a [Lei n.º 64/2012](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), publicado em 2012-12-20."
    ],
    "markdown": "###### Artigo 30.º — Controlo do limite para a concessão de empréstimos e outras operações ativas\n\n1 - Para efeitos de controlo do cumprimento do limite máximo para a concessão de empréstimos e outras operações ativas, previsto no n.º 2 do artigo 84.º da Lei n.º 64-B/2011, de 30 de dezembro, as pessoas coletivas de direito público devem:\n\na) Solicitar à DGO informação prévia sobre o cabimento dos empréstimos e outras operações ativas a conceder;\n\nb) Registar nos serviços on-line da DGO, mensalmente, até ao dia 10 do mês seguinte àquele a que respeitam, os movimentos relativos a empréstimos e operações ativas por si concedidas.\n\n2 - A concessão de financiamentos no âmbito do empréstimo-quadro contratado entre a República Portuguesa e o Banco Europeu de Investimento é objeto de despacho dos membros do Governo responsáveis pelas áreas das finanças e da coordenação do QREN, fixando as condições de acesso e de utilização dos financiamentos a conceder pelo Estado, através do Instituto Financeiro para o Desenvolvimento Regional, I. P. (IFDR, I. P.) ou das instituições de crédito aderentes à utilização desses financiamentos, às entidades beneficiárias do empréstimo-quadro.\n\n3 - Para efeitos do disposto no número anterior, o IFDR, I. P., recebe mensalmente da DGTF os montantes por si indicados para execução dos financiamentos aprovados.\n\n4 - O IFDR, I. P., presta informação trimestral, a reportar até ao final do mês subsequente, sobre as verbas desembolsadas a favor dos beneficiários dos financiamentos e os montantes por estes reembolsados ou recuperados.\n\n5 - Os montantes reembolsados ou recuperados pelo IFDR, I. P., em cada trimestre, são transferidos para a DGTF até ao final do mês subsequente, para efeito da respetiva regularização orçamental.\n\n> Alterado pelo/a Artigo 14.º do/a [Lei n.º 64/2012](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), publicado em 2012-12-20."
+  },
+  "f0962c6aedd86ebc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Alterações orçamentais",
+   "in_force_from": "2012-12-21",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 14/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2012-553576), publicado em 2012-03-16."
+   ],
+   "markdown": "###### Artigo 52.º — Alterações orçamentais\n\n1 - As alterações orçamentais só podem ter seguimento quando sejam devidamente justificadas e apresentem adequada contrapartida.\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo 28.º da Lei de Enquadramento Orçamental, é autorizada, pelo membro do Governo responsável pela área da segurança social, a utilização de saldos de gerência resultantes de:\n\na) Receitas de jogos sociais consignados ao orçamento da segurança social;\n\nb) Saldos do sistema previdencial;\n\nc) Rendimentos obtidos na gestão do Fundo de Estabilização Financeira da Segurança Social.\n\n3 - Nos termos dos artigos 89.º e 90.º da Lei n.º 4/2007, de 16 de janeiro, são autorizadas, por despacho do membro do Governo responsável pela área da segurança social, as transferências de verbas entre as dotações para despesas, no âmbito dos subsistemas de solidariedade, proteção familiar e ação social e do sistema previdencial.\n\n4 - Nos termos da alínea f) do artigo 50-A.º da Lei de Enquadramento Orçamental, são autorizadas, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da segurança social, as alterações orçamentais traduzidas em aumento do montante total da despesa decorrente do aumento da despesa com as prestações sociais que constituam direitos dos beneficiários do sistema de segurança social.\n\n5 - Os acréscimos de encargos relacionados com o aumento do volume de fundos sob gestão do IGFCSS, I. P., inscritos no orçamento da segurança social para 2012, e que superem, por esse facto, o valor dos encargos de administração previsto no presente orçamento, são autorizados por despacho do membro do Governo responsável pela área da segurança social.\n\n6 - Se, na execução do orçamento da segurança social para 2012, as verbas a transferir do Fundo Social Europeu para apoio de projetos de formação profissional excederem a dotação inscrita em orçamento, as alterações orçamentais decorrentes do correspondente acréscimo de despesas são autorizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças, do emprego e da segurança social.\n\n7 - As alterações orçamentais entre as dotações das rubricas de comparticipação portuguesa nos projetos apoiados pelo Fundo Social Europeu e as rubricas de transferências correntes para «emprego e formação profissional», «higiene, saúde e segurança no trabalho» e «inovação na formação» são autorizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças, do emprego e da segurança social.\n\n8 - O acréscimo de despesas de capital decorrentes do aumento do volume de regularizações de dívidas de contribuições a instituições da segurança social, satisfeitas mediante dação em pagamento de bens móveis ou imóveis, e que superem, por esse facto, o valor inscrito no orçamento da segurança social para 2012, é autorizado por despacho do membro do Governo responsável pela área da segurança social.\n\n9 - As alterações orçamentais referidas nas alíneas c) e d) do n.º 2 do artigo 51.º da Lei de Enquadramento Orçamental, aprovada pela Lei n.º 91/2001, de 20 de agosto, alterada e republicada pela Lei n.º 52/2011, de 13 de outubro, são autorizadas pelo membro do Governo responsável pela área da segurança social.\n\n> Retificado pelo/a [Declaração de Retificação n.º 14/2012](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2012-553576), publicado em 2012-03-16."
+  },
+  "d51253ef5e9b4847": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Despesas associadas à gestão do FEFSS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Despesas associadas à gestão do FEFSS\n\n1 - O IGFCSS, I. P., pode celebrar em 2012 contratos redigidos numa língua de uso corrente nos mercados financeiros internacionais e submeter a respetiva execução a legislação de país estrangeiro, apenas em casos manifestamente excecionais e devidamente fundamentados, para os quais não exista comprovadamente alternativa.\n\n2 - Às despesas com contratos de seguros relativos a imóveis da carteira do Fundo de Estabilização Financeira da Segurança Social não se aplica o disposto no artigo 19.º do Decreto-Lei n.º 197/99, de 8 de junho, sendo a respetiva autorização da competência do membro do Governo responsável pela área da segurança social, ainda que com possibilidade de delegação de competências."
   }
  }
 }

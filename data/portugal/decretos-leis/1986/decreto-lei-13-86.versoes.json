@@ -45,23 +45,31 @@
      "title": "Decreto-Lei n.º 9/88",
      "published": "1988-01-15",
      "dre_path": "/dr/detalhe/decreto-lei/9-1988-283366"
+    },
+    {
+     "id": "pt:dre:403132:por",
+     "title": "Declaração",
+     "published": "1986-04-30",
+     "dre_path": "/dr/detalhe/declaracao/1986-403132"
     }
    ],
    "changes": [
-    "Altera Artigo 3.º"
+    "Altera Artigo 3.º",
+    "Retifica Artigo 4",
+    "Retifica Artigo 10"
    ],
    "fragments": [
     "9d3714c3b1479fd3",
     "979a9030daac8bfc",
     "a38dc40fe37248a0",
     "343c613974570b6d",
-    "40b487175c7bde33",
+    "4445bfba3cc1086c",
     "c7d5fe1ae54ba4ff",
     "3c9883dba952e81d",
     "32b395e363dad173",
     "c218c3e3666adb48",
     "db0f1dbb004f69db",
-    "038151f144f8f3a6",
+    "143be408514beff9",
     "796d618df165bed3",
     "4f597a42357986e1",
     "63bc1586be5ebf7c",
@@ -271,6 +279,24 @@
     "Alterado pelo/a [Decreto-Lei n.º 9/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366), publicado em 1988-01-15."
    ],
    "markdown": "###### Artigo 3.º — Iniciativa da actualização ou correcção\n\n1 - Quando o senhorio pretender actualizar a renda, nos termos do artigo 6.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), comunicará ao arrendatário, com a antecedência mínima de 30 dias, por meio de carta registada com aviso de recepção, o montante da nova renda e o coeficiente utilizado no seu cálculo.\n\n2 - A correcção anual da renda, nos termos do artigo 12.º da referida lei, está sujeita a comunicação, com formalidades idênticas às mencionadas no número anterior.\n\n> Alterado pelo/a [Decreto-Lei n.º 9/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366), publicado em 1988-01-15."
+  },
+  "4445bfba3cc1086c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Valor dos fogos em renda condicionada)",
+   "in_force_from": "1988-01-20",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-403132), publicado em 1986-04-30."
+   ],
+   "markdown": "###### Artigo 4.º — (Valor dos fogos em renda condicionada)\n\n1 - O valor actualizado dos fogos arrendados em regime de renda condicionada, no caso dos fogos concluídos há menos de um ano à data do arrendamento, não pode ser superior:\n\na) Ao preço da primeira transmissão, acrescentado de uma percentagem igual à taxa da sisa aplicada a essa transmissão, acrescida de 2%;\n\nb) Ao valor locativo que resultar da avaliação fiscal, tomando-se o coeficiente 14 como factor de capitalização, quando o fogo seja locado pelo próprio promotor ou construtor.\n\n2 - Nos restantes casos, o valor actualizado dos fogos será determinado pela fórmula:\n\nV = Cf x Cc x Au x Pc x (1 - 0,85 x Vt)\n\nsendo V o valor actualizado do fogo no ano de celebração do contrato, Cf um factor relativo ao nível de conforto do fogo, Cc um factor relativo ao estado de conservação do fogo, Au a área útil definida nos termos do Regulamento Geral das Edificações Urbanas; Pc o preço da habitação por metro quadrado; e Vt um coeficiente relativo à vetustez do fogo.\n\n3 - No caso do n.º 1, o preço da primeira transmissão não pode ser superior ao que serviu de base à liquidação da sisa, ou à declaração relativa à isenção da mesma, ou ao constante da respectiva escritura de compra e venda, consoante o que for menor.\n\n4 - A renda que resultar da aplicação dos critérios enumerados no n.º 1 não poderá ser superior ao produto resultante da aplicação do factor 1,3 à renda calculada nos termos do n.º 2, sendo o coeficiente de vetustez igual a 0.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-403132), publicado em 1986-04-30."
+  },
+  "143be408514beff9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Comissões de avaliação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Comissões de avaliação)\n\n1 - Para as avaliações previstas nos artigos anteriores são competentes as comissões de avaliação constituídas nos termos do artigo 5.º do Decreto n.º 37021, de 21 de Agosto de 1948, com a redacção que lhe foi dada pelo Decreto Regulamentar n.º 1/86, de 2 de Janeiro.\n\n2 - As comissões de avaliação referidas no número anteiror serão ainda integradas por um representante do senhorio e um do arrendatário, indicados pelos mesmos ou pelas suas associações representativas.\n\n3 - A indicação dos representantes do arrendatário e do senhorio deverá ser feita no momento em que intervêm no processo de avaliação.\n\n4 - Com a contestação, o arrendatário ou o senhorio indicarão, além de tudo o mais que for pertinente à defesa da sua posição, os coeficientes que consideram aplicáveis em concreto e o consequente valor da renda.\n\n5 - A repartição de finanças deverá, dentro do prazo de 15 dias, a contar da entrada da contestação do arrendatário ou do termo do prazo para a sua apresentação, notificar todos os louvados, por meio de carta registada com aviso de recepção, da constituição da comissão de avaliação."
   }
  }
 }

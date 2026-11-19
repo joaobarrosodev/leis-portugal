@@ -43,7 +43,7 @@ version_history:
     changes: []
   - date: '1983-08-08'
     amending: pt:dre:454049:por
-    amending_title: Portaria n.º 810/83
+    amending_title: Portaria n.º 810/83; Declaração
     changes:
     - Altera Artigo unidades 9-9
     - Altera Artigo unidades 56-56
@@ -52,6 +52,7 @@ version_history:
     - Altera Artigo unidades 103-106
     - Altera Artigo unidades 108-108
     - Altera Artigo unidades 111-112
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -78,7 +79,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:22:53Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 810/83. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-7-82.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-7-82.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -323,7 +325,9 @@ Total ... 16
 
 a) Filologia Românica;
 
-b) Línguas e Literaturas Modernas, variante de Estudos Portugueses;
+b) Línguas e Literaturas Modernas, variantes com estudos portugueses;
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-600161), publicado em 1982-02-19.
 
 c) Línguas e Literaturas Clássicas, variante de Estudos Clássicos e Portugueses.
 
@@ -351,7 +355,7 @@ Total ... 18
 
 a) Filologia Germânica;
 
-b) Línguas e Literaturas Modernas, variante de Estudos Ingleses.
+b) Línguas e Literaturas Modernas, variantes com estudos ingleses.
 
 4 - Especialidades a que se refere o n.º 11.º:
 

@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '2005-11-29'
     amending: pt:dre:481498:por
-    amending_title: Decreto-Lei n.º 201/2005
+    amending_title: Decreto-Lei n.º 201/2005; Declaração de Rectificação n.º 10-B/98
     changes:
     - Revoga Artigo 3.º
     - Revoga Artigo 3.º
+    - Retifica Artigo 2
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/64/1998/03/17/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:04:18Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 201/2005. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-64-98.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-64-98.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 10-B/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,7 +206,7 @@ d) Prédio rústico sito nas freguesias de Safara e de Sobral da Adiça, concelh
 
 1 - Nos termos do artigo 2.º do [Decreto-Lei n.º 415/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1977-278736), de 1 de Outubro, os seguintes prédios integram o património do Estado:
 
-a) Herdade do Montinhoso, prédio rústico e urbano sito na freguesia de Palmela, concelho de Palmela, inscrito sob o artigo 2 da secção S da referida freguesia;
+a) Herdade do Montinhoso, prédio rústico e urbano sito na freguesia de Palmela, concelho de Palmela, inscrito sob o artigo 3 da secção S da referida freguesia;
 
 b) Herdade da Quinta do Poço Mouro, prédio rústico e urbano sito na freguesia de São Sebastião, concelho de Setúbal, inscrito sob o artigo 2 da secção AC da referida freguesia;
 
@@ -217,6 +219,8 @@ d) Herdade do Moinho Velho, prédio rústico e urbano sito na freguesia de Abela
 3 - É transferida para a Direcção Regional de Agricultura do Alentejo a gestão dos prédios referidos nas alíneas c) e d) do n.º 1 do presente artigo.
 
 4 - São ainda transferidos para as entidades referidas nos números anteriores todos os direitos e obrigações, incluindo as posições contratuais de que a ENDAC é titular, relativamente aos prédios ali identificados, bem como a titularidade dos bens móveis e equipamentos neles existentes.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 10-B/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-b-1998-546855), publicado em 1998-05-30.
 
 ###### Artigo 3.º
 

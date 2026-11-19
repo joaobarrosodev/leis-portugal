@@ -81,11 +81,18 @@
      "title": "Resolução do Conselho de Ministros n.º 4/2004",
      "published": "2004-01-14",
      "dre_path": "/dr/detalhe/resolucao-conselho-ministros/4-2004-603026"
+    },
+    {
+     "id": "pt:dre:431176:por",
+     "title": "Declaração de Rectificação n.º 20/2003",
+     "published": "2003-12-11",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/20-2003-431176"
     }
    ],
    "changes": [
     "Altera Artigo 12.º",
-    "Altera Artigo 30.º"
+    "Altera Artigo 30.º",
+    "Retifica Artigo 35"
    ],
    "fragments": [
     "50554e6a252dd291",
@@ -134,7 +141,7 @@
     "b68b794af0b4d257",
     "4324184d8681d0a5",
     "24a930661954d1e8",
-    "23bc3d9684665420",
+    "e92ac7348414d365",
     "2316509a78f7e2ba",
     "73997778129672e9",
     "b329dde2c22eda8f",
@@ -642,6 +649,16 @@
     "Alterado pelo/a [Resolução do Conselho de Ministros n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2004-603026), publicado em 2004-01-14."
    ],
    "markdown": "###### Artigo 30.º — Relatório final do júri\n\n1 - Concluída a apreciação final das propostas e respectivas alterações, o júri deverá elaborar um relatório circunstanciado, procedendo à ordenação das mesmas, segundo o seu mérito relativo, com a devida fundamentação, submetendo-o à aprovação do Conselho de Ministros, desde que já lhe tenham sido apresentados os documentos comprovativos da decisão proferida pela entidade competente, relativamente aos concorrentes que, nos termos do artigo 21.º, tenham procedido à notificação prévia de operação de concentração de empresas.\n\n2 - O júri, antes da apresentação do seu relatório final ao Conselho de Ministros, deverá assegurar aos concorrentes envolvidos o cumprimento do direito de audiência prévia, mediante audiências separadas com cada um deles, onde lhes será dado conhecimento da decisão proposta sobre a qual os mesmos se poderão pronunciar.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2004-603026), publicado em 2004-01-14."
+  },
+  "e92ac7348414d365": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Apoio técnico ao júri",
+   "in_force_from": "2004-01-19",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 20/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2003-431176), publicado em 2003-12-11."
+   ],
+   "markdown": "###### Artigo 35.º — Apoio técnico ao júri\n\n1 - O apoio técnico ao júri será prestado pela Inspecção-Geral de Finanças e pela Secção Especializada para as Reprivatizações.\n\n2 - Na apreciação dos modelos de desenvolvimento estratégico apresentados pelos concorrentes para a SPdH, S. A., o júri deverá ainda recorrer ao apoio de uma comissão técnica, composta por um máximo de cinco elementos, designados pelo conselho de administração da TAP, SGPS, S. A.\n\n3 - O júri, se o considerar necessário, poderá ainda socorrer-se do apoio de quaisquer outros consultores ou especialistas.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 20/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2003-431176), publicado em 2003-12-11."
   }
  }
 }

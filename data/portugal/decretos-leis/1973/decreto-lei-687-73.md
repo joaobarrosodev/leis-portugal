@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1985-10-20'
     amending: pt:dre:178313:por
-    amending_title: Decreto-Lei n.º 404/85
+    amending_title: Decreto-Lei n.º 404/85; Rectificação
     changes:
     - Revoga Artigo 3.º
+    - Retifica Artigo 7
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:29:48Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 404/85. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-687-73.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-687-73.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,7 +190,9 @@ As vendas de produtos derivados de petróleo que não sejam efectuadas pelas com
 
 1. Os máximos das multas previstas nos artigos 45.º, 46.º, 49.º e 50.º do [Decreto n.º 29034](https://diariodarepublica.pt/dr/detalhe/decreto/29034-1938-351346), de 1 de Outubro de 1938, são fixados, respectivamente, em 4000000$00, 2000000$00, 5000000$00 e 5000000$00.
 
-2. É elevado para 10000000$00 o montante da multa a que se refere o artigo 46.º do decreto mencionado no número anterior, e é aumentada para 5000000$00 a importância da multa prevista no artigo 48.º do mesmo diploma.
+2. É elevado para 10000000$00 o montante da multa a que se refere o artigo 48.º do decreto mencionado no número anterior, e é aumentada para 1000000$00 a importância da multa prevista no artigo 47.º do mesmo diploma.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-173161), publicado em 1974-01-31.
 
 ###### Artigo 8.º
 

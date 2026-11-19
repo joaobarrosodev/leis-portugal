@@ -269,6 +269,14 @@ def _selecao_de(id_: str, resultado: dict, selecao: dict, selecao_escala: dict) 
     return selecao[id_]
 
 
+def retificados_por_regra() -> set[str]:
+    """Os registos a que `retificacoes.py` aplicou retificações fora da cadeia."""
+    caminho = PASTA / "auditoria" / "retificacoes-aplicadas.jsonl"
+    if not caminho.exists():
+        return set()
+    return {json.loads(l)["id"] for l in caminho.read_text(encoding="utf-8").splitlines() if l.strip()}
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--dry-run", action="store_true")
@@ -277,6 +285,7 @@ def main() -> int:
     if args.supor_verificados and not args.dry_run:
         parser.error("--supor-verificados só com --dry-run")
     acervo = Acervo(RAIZ)
+    retificados = retificados_por_regra()
     resultados = {r["id"]: r for r in _lista(PASTA / "resultados.jsonl")}
     selecao = {r["id"]: r for r in _lista(PASTA / "selecao.jsonl")}
     selecao_escala = {r["id"]: r for r in _lista(PASTA / "selecao-escala.jsonl")} if (PASTA / "selecao-escala.jsonl").exists() else {}
@@ -328,8 +337,10 @@ def main() -> int:
             if original.strip() != entrada["texto_original"].strip():
                 recusados.append(f"{id_}: o registo em data/ já não é o original verificado")
                 continue
-        elif id_ in NAO_SUBSTITUIR:
-            ja_aplicados += 1  # fica a consolidação anterior, também verificada às cegas
+        elif id_ in NAO_SUBSTITUIR or id_ in retificados:
+            # Fica a consolidação anterior, também verificada às cegas; nos retificados por
+            # `retificacoes.py`, o consolidado da entrada não tem as retificações.
+            ja_aplicados += 1
             continue
         elif registo.version.label in (ROTULO, ROTULO_LLM) and _original_do_historico(acervo, caminho, registo.title) == blocos(entrada["texto_original"]):
             # Uma consolidação nossa anterior, refeita depois com mais alteradores e verificada

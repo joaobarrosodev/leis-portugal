@@ -263,11 +263,19 @@
      "title": "Lei n.º 1/2002",
      "published": "2002-01-02",
      "dre_path": "/dr/detalhe/lei/1-2002-584795"
+    },
+    {
+     "id": "pt:dre:683980:por",
+     "title": "Declaração de Rectificação n.º 19-B/2001",
+     "published": "2001-09-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/19-b-2001-683980"
     }
    ],
    "changes": [
     "Adita Artigo 5.º-A",
-    "Adita Artigo 5.º-B"
+    "Adita Artigo 5.º-B",
+    "Retifica Artigo 61",
+    "Retifica Artigo 88"
    ],
    "fragments": [
     "6117b8761271b515",
@@ -361,7 +369,7 @@
     "dba139ca22caee3c",
     "b81495eba65444c2",
     "3ce34860ae63ad2e",
-    "ca7b39fef472029d",
+    "abfeed02abca9a1a",
     "2eea68f1e3a7c9be",
     "06d20025045c753b",
     "1cb397b4f1f0ec26",
@@ -399,7 +407,7 @@
     "d32f70c30720e044",
     "adc0eec8545680a2",
     "d7fecf686fc5b4fe",
-    "bfb64c7545b3aadc",
+    "c9b9458d46d67a59",
     "0c4f71905bb8ffb6",
     "83ea92ec05b8e67c",
     "e292ee2c62ccf382",
@@ -2456,6 +2464,24 @@
     "Aditado pelo/a Artigo único do/a [Lei n.º 1/2002](https://diariodarepublica.pt/dr/detalhe/lei/1-2002-584795), publicado em 2002-01-02."
    ],
    "markdown": "###### Artigo 5.º-B — Suspensão de normas\n\nÉ suspensa por um período de 10 meses a aplicação do disposto no n.º 2 e na alínea a) do n.º 5 do artigo 81.º do Código da Estrada, considerando-se durante esse período sob influência do álcool o condutor que apresente uma taxa de álcool no sangue igual ou superior a 0,5 g/l ou que, após exame realizado nos termos previstos no Código da Estrada e legislação complementar, seja como tal considerado em relatório médico.\n\n> Aditado pelo/a Artigo único do/a [Lei n.º 1/2002](https://diariodarepublica.pt/dr/detalhe/lei/1-2002-584795), publicado em 2002-01-02."
+  },
+  "abfeed02abca9a1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Utilização de luzes",
+   "in_force_from": "2002-01-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 19-B/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-b-2001-683980), publicado em 2001-09-29."
+   ],
+   "markdown": "###### Artigo 61.º — Utilização de luzes\n\n1 - Sempre que, nos termos do artigo 59.º, seja obrigatória a utilização de dispositivos de sinalização luminosa e de iluminação, os condutores devem utilizar as seguintes luzes:\n\na) De presença, durante o estacionamento fora das localidades ou enquanto aguardam a abertura de passagem de nível;\n\nb) De cruzamento, em locais cuja iluminação permita ao condutor uma visibilidade não inferior a 100 m, no cruzamento com outros veículos, pessoas ou animais, quando o veículo transite a menos de 100 m daquele que o precede, na aproximação de passagem de nível fechada ou durante a paragem ou detenção da marcha do veículo;\n\nc) De estrada, nos restantes casos;\n\nd) De nevoeiro à retaguarda, sempre que as condições meteorológicas ou ambientais o imponham, nos veículos que com elas devam estar equipados.\n\n2 - É proibido o uso das luzes de nevoeiro sempre que as condições meteorológicas ou ambientais o não justifiquem.\n\n3 - Sem prejuízo do disposto no n.º 1, os condutores de veículos afectos ao transporte de mercadorias perigosas devem transitar com a luz de cruzamento acesa.\n\n4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, salvo o disposto no número seguinte.\n\n5 - Quem utilizar os máximos no cruzamento com outros veículos, pessoas ou animais ou quando o veículo transite a menos de 100 m daquele que o precede ou ainda durante a paragem ou detenção da marcha do veículo é sancionado com coima de (euro) 60 a (euro) 300.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 19-B/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-b-2001-683980), publicado em 2001-09-29."
+  },
+  "c9b9458d46d67a59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — Sinal de pré-sinalização de perigo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Sinal de pré-sinalização de perigo\n\n1 - Todos os veículos a motor em circulação, salvo os dotados apenas de duas ou três rodas e os motocultivadores, devem estar equipados com o sinal de pré-sinalização de perigo.\n\n2 - É obrigatório o uso do sinal de pré-sinalização de perigo:\n\na) De dia, quando o veículo imobilizado, total ou parcialmente, na faixa de rodagem ou a carga que tenha caído sobre o pavimento não for visível a uma distância de, pelo menos, 100 m;\n\nb) Do anoitecer ao amanhecer, em quaisquer circunstâncias de imobilização do veículo ou de carga caída na faixa de rodagem ou na berma, salvo nos locais onde as condições de iluminação permitam um fácil reconhecimento a uma distância de 100 m, sem prejuízo do disposto no presente Código quanto à iluminação dos veículos.\n\n3 - O sinal deve ser colocado verticalmente em relação ao pavimento e ao eixo da faixa de rodagem, a uma distância nunca inferior a 30 m da retaguarda do veículo ou da carga a sinalizar e por forma a ficar bem visível a uma distância de, pelo menos, 100 m.\n\n4 - Em regulamento são fixadas as características do sinal de pré-sinalização de perigo.\n\n5 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 60 a (euro) 300.\n\n6 - Quem infringir o disposto nos n.os 2 e 3 é sancionado com coima de (euro) 120 a (euro) 600."
   }
  }
 }

@@ -45,9 +45,10 @@ version_history:
     changes: []
   - date: '1979-08-02'
     amending: pt:dre:381359:por
-    amending_title: Despacho Normativo n.º 184/79
+    amending_title: Despacho Normativo n.º 184/79; Declaração
     changes:
     - Altera Artigo unidades 7-10
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:43:19Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 184/79. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-179-78.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1978/despacho-normativo-179-78.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,7 +136,9 @@ Considerando a necessidade de prosseguir as acções de implementação das nova
 
 Determina-se:
 
-1.º O exercício das competências da 4.ª Repartição da Inspecção-Geral dos Produtos Agrícolas e Industriais (IGPAI) é transferido, a partir de 1 de Agosto de 1978, para a Direcção-Geral das Indústrias Químicas e Metalúrgicas e, a partir de 14 de Setembro de 1978, para as Direcções-Gerais das Indústrias Transformadoras Ligeiras e Indústrias Electro-Mecânicas, consoante as atribuições por sectores industriais que resultam para estas da [Portaria n.º 296/78](https://diariodarepublica.pt/dr/detalhe/portaria/296-1978-294571), de 31 de Maio.
+1.º O exercício das competências da 4.ª Repartição da Inspecção-Geral dos Produtos Agrícolas e Industriais (IGPAI) é transferido, a partir de 1 de Agosto de 1978, para a Direcção-Geral das Indústrias Químicas e Metalúrgicas e, a partir de 15 de Novembro de 1978, para as Direcções-Gerais das Indústrias Transformadoras Ligeiras, Indústrias Electromecânicas e de Geologia e Minas, consoante as atribuições por sectores industriais que resultam para estas da [Portaria n.º 296/78](https://diariodarepublica.pt/dr/detalhe/portaria/296-1978-294571), de 31 de Maio.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-329793), publicado em 1978-09-15.
 
 A transferência de pessoal nos termos dos despachos de afectação processar-se-á nas mesmas datas.
 
@@ -150,7 +154,7 @@ b) Os requerimentos quer oriundos de empresas que exercem actividades não afect
 
 4.º Os processos pendentes à data deste despacho serão objecto de sistemática classificação por sectores, com indicação das direcções-gerais para que deverão ser remetidos nos termos dos critérios acima definidos e respeitando a ordem de entrada na 4.ª Repartição.
 
-Para o efeito os directores-gerais indicarão os seus representantes, que, em conjunto com o inspector-geral dos Produtos Agrícolas e Industriais, promoverão, com a máxima urgência, a mencionada classificação e remessa, de forma a não ultrapassar 31 de Outubro de 1978.
+Para o efeito os directores-gerais indicarão os seus representantes, que, em conjunto com o inspector-geral dos Produtos Agrícolas e Industriais, promoverão, com a máxima urgência, a mencionada classificação e remessa, de forma a não ultrapassar 15 de Novembro de 1978.
 
 5.º A plena concretização dos objectivos anteriormente expressos implicará que, por despachos dos Secretários de Estado da Energia e Indústrias de Base e das Indústrias Extractivas e Transformadoras, seja definida uma clara explicitação regulamentar das práticas administrativas na matéria a que a aplicação dos critérios expostos darão origem, bem como o desenvolvimento de acções de divulgação e esclarecimento junto dos industriais acerca da forma como deverão apresentar e instruir os respectivos pedidos.
 

@@ -53,10 +53,11 @@ version_history:
     changes: []
   - date: '1989-09-07'
     amending: pt:dre:546984:por
-    amending_title: Decreto-Lei n.º 290/89
+    amending_title: Decreto-Lei n.º 290/89; Declaração
     changes:
     - Altera Artigo 5.º
     - Altera Artigo 10.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:42:35Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 290/89. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-328-88.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-328-88.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -306,7 +308,9 @@ d) O preço (por extenso) e condições de pagamento.
 
 9 - O júri procederá à abertura das propostas, em sessão pública, no último dia da recepção, uma hora após o seu encerramento, no local indicado no n.º 7 ou no que ali, na altura, se designe.
 
-10 - No caso de as propostas apresentarem preços que não divirjam mais do que 10% do valor da proposta mais elevada, o júri suspenderá a sessão, procedendo a licitação até ao quinto dia útil imediato, prevalecendo a melhor oferta; no caso de nenhum proponente licitar, escolher-se-á a proposta de valor mais elevado ou, em caso de igualdade, proceder-se-á à determinação por sorteio da proposta que prevalecerá.
+10 - No caso de as propostas apresentarem preços que não divirjam mais do que 5% do valor da proposta mais elevada, o júri suspenderá a sessão, procedendo a licitação até ao quinto dia útil imediato, prevalecendo a melhor oferta; no caso de nenhum proponente licitar, escolher-se-á a proposta de valor mais elevado ou, em caso de igualdade, proceder-se-á à determinação por sorteio da proposta que prevalecerá.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-220688), publicado em 1988-10-31.
 
 11 - Será lavrada uma acta, que será assinada por todos os membros do júri, da qual constarão as propostas recebidas e seus autores, bem como todas as deliberações tomadas pelo júri e respectivos fundamentos, a qual será acompanhada de declaração do órgão de fiscalização da entidade alienante de que foram cumpridas as disposições legais aplicáveis.
 

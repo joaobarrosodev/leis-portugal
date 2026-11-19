@@ -43,11 +43,12 @@ version_history:
     changes: []
   - date: '1986-08-04'
     amending: pt:dre:218574:por
-    amending_title: Portaria n.º 414/86
+    amending_title: Portaria n.º 414/86; Declaração
     changes:
     - Altera Artigo unidades 17-17
     - Altera Artigo unidades 20-25
     - Altera Artigo unidades 27-35
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:24:36Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 414/86. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-769-82.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1982/portaria-769-82.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -213,7 +215,9 @@ A duração normal do curso é de 2 anos lectivos.
 
 (Habilitação de acesso)
 
-1 - São admitidos à candidatura à matrícula no curso os licenciados em Medicina ou habilitação legalmente equivalente com a classificação mínima de 14 valores, que tenham realizado o internato policlínico e concluído o 2.º ano de internamento da especialidade de Psiquiatria ou que tenham equivalência do internato geral e possuam 2 anos de estágio de psiquiatria.
+1 - São admitidos à candidatura à matrícula no curso os licenciados em Medicina ou habilitação legalmente equivalente com a classificação mínima de 14 valores, que tenham realizado o internato policlínico e concluído o 2.º ano de internato da especialidade de psiquiatria ou que tenham equivalência do internato geral e possuam 2 anos de estágio de psiquiatria.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-375864), publicado em 1982-09-21.
 
 2 - Excepcionalmente, em casos devidamente justificados, o conselho científico poderá admitir à candidatura à matrícula candidatos cujo currículo demonstre uma adequada preparação científica de base embora na licenciatura referida no n.º 1 tenham classificação inferior a 14 valores.
 

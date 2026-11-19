@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1986-09-13'
     amending: pt:dre:220135:por
-    amending_title: Decreto Regulamentar n.º 38/86
+    amending_title: Decreto Regulamentar n.º 38/86; Declaração
     changes:
     - Revoga Artigo 4.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:12:23Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 38/86. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1985/decreto-regulamentar-80-85.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1985/decreto-regulamentar-80-85.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +150,9 @@ validation:
 
 # Decreto Regulamentar n.º 80/85
 
-Despacho Regulamentar n.º 80/85
+Decreto Regulamentar n.º 80/85
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-546396), publicado em 1985-12-31.
 
 de 4 de Dezembro
 

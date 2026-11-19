@@ -44,7 +44,7 @@ version_history:
     changes: []
   - date: '1991-09-11'
     amending: pt:dre:304536:por
-    amending_title: Decreto-Lei n.º 332/91
+    amending_title: Decreto-Lei n.º 332/91; Declaração
     changes:
     - Revoga Artigo 1.º
     - Revoga Artigo 2.º
@@ -53,6 +53,7 @@ version_history:
     - Revoga Artigo 5.º
     - Revoga Artigo 6.º
     - Revoga Artigo 7.º
+    - Retifica Artigo 10
 identifiers:
   celex: null
   eli: null
@@ -79,7 +80,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:55:32Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 332/91. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-528-76.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-528-76.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,9 +191,11 @@ A regularização da dívida às instituições de previdência, bem como à gen
 
 ###### Artigo 10.º
 
-1. Sem prejuízo da oportuna aplicação do disposto no artigo anterior, os créditos concedidos pelos bancos nacionalizados a accionistas ou detentores de partes de capital de empresas nacionalizadas poderão ser objecto de compensação provisória, mediante celebração de promessas de dação em cumprimento.
+1. Sem prejuízo da oportuna aplicação do disposto no artigo anterior, os créditos concedidos pelas instituições de crédito do Estado e nacionalizadas a accionistas ou detentores de partes de capital de empresas nacionalizadas poderão ser objecto de compensação provisória, mediante celebração de promessas de dação em cumprimento.
 
 2. Para efeitos do estabelecido no número precedente, compete ao Ministro das Finanças fixar, por despacho, as regras de avaliação dos respectivos títulos, podendo igualmente determinar a inclusão nos correspondentes contratos de cláusulas específicas.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-430777), publicado em 1976-07-26.
 
 ###### Artigo 11.º
 

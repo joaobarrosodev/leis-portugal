@@ -169,6 +169,32 @@ A segunda leitura tirou 9 de 22 no bloco 1, 5 de 18 no bloco 2 e 29 de 35 no blo
 
 Não se repediram os artigos com reparos, como a retificação do art. 8.º do DL 329/83, porque isso pedia uma ronda às cegas nova. Ficam para um bloco seguinte.
 
+### 9. Retificações fora da cadeia, aplicadas por regra (19/11/2026)
+
+A auditoria (`auditoria.py`, `reports/auditoria-consolidados.md`) encontrou 244 retificações `corrected_by` por aplicar nos consolidados. 75 delas, nas classes `por_regra` e `por_regra_aprox`, aplicaram-se com `retificacoes.py`. Uma estava repetida nas relações do DRE, por isso eram 74.
+
+- **Aplicadas: 67, em 65 diplomas.** As trocas estão em `auditoria/retificacoes-aplicadas.jsonl`, com o parágrafo antes e depois.
+- **Verificação às cegas.** Verificadores Sonnet receberam só o texto da retificação e os parágrafos antes e depois. Na 1.ª passagem, 66 certos, 3 errados e 1 em dúvida, em 70:
+  - dois pontos finais duplicados (DL 547/74 e Decreto 683-A/76);
+  - uma troca no n.º 3 do art. 66.º do DR 32/89, quando a retificação é ao título do anexo VII;
+  - na dúvida, as maiúsculas («cofre» → «Cofre») no DL 242/84.
+
+  Depois da correção, as 4 que mudaram passaram todas. Os veredictos estão em `auditoria/retificacoes-verificacao.jsonl`.
+- **Recusadas: 7**, que ficam para o LLM:
+  - 2 com o trecho num artigo diferente do que o localizador nomeia (DL 47678 e DL 122/88);
+  - 3 com o localizador a nomear um anexo, mapa ou quadro e o trecho fora de um `## Anexo` (DL 242/84, DR 32/89 e Decreto 492/73);
+  - 2 que renumeram um artigo no título (DN 10-A/98 e Regulamento 40/2009).
+
+Regras (no início de `retificacoes.py`):
+
+- a troca faz-se no parágrafo, e as ligações cujo texto não muda ficam;
+- no aproximado, mudam só as palavras diferentes, e as maiúsculas e os separadores vêm do «deve ler-se», que é o texto oficial;
+- num título, pode mudar a epígrafe, mas não o nível nem o número;
+- os pares do título do registo e os já aplicados não mexem no texto;
+- a nota «> Retificado pelo/a …» vai para o fim do artigo ou, fora dos artigos, para a seguir ao parágrafo.
+
+O histórico continua com duas versões. A retificação entra nos `acts` da versão consolidada, sem mudar a data. A Lei 74/98, art. 5.º, n.º 4, diz que a retificação reporta os efeitos à entrada em vigor do texto retificado. A versão original fica como foi publicada. O `acervo.py` não volta a escrever por cima destes 65 registos (`retificados_por_regra`). Sem esta guarda, uma nova corrida repunha estes consolidados sem as retificações.
+
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
 A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:

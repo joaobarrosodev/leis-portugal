@@ -53,10 +53,11 @@ version_history:
     changes: []
   - date: '1974-09-20'
     amending: pt:dre:473286:por
-    amending_title: Decreto-Lei n.º 467/74
+    amending_title: Decreto-Lei n.º 467/74; Rectificação
     changes:
     - Adita Artigo depois da unidade 35
     - Altera Artigo unidades 268-268
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:25:41Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 467/74. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-572-72.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-572-72.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,7 +181,9 @@ e) Os guardas que não ingressarem no quadro, por não o desejarem ou por falta 
 
 f) Os mecânicos de 1.ª classe transitam para operários especializados de 1.ª classe;
 
-g) Os radiomontadores transitam para radiotécnicos montadores de 2.ª classe;
+g) Os radiomontadores transitam para radiotécnicos montadores de 1.ª classe;
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-684200), publicado em 1973-03-16.
 
 h) Os carpinteiros e mecânicos de 3.ª classe, o capataz-geral e os electricistas de 2.ª classe transitam para operários especializados de 2.ª classe;
 
@@ -195,7 +199,7 @@ n) Os cabos auxiliares (condutores de viaturas) transitam para cabos auxiliares 
 
 o) Os guardas auxiliares de 1.ª e 2.ª classes transitam para guardas auxiliares.
 
-Art. 5.º - 1. Os cabos e guardas da Polícia Administrativa de Moçambique transitarão, se o requererem dentro do prazo referido no artigo 4.º, n.º 1, alínea d), para lugares, respectivamente, de cabos auxiliares e guardas auxiliares do novo quadro da corporação, mediante despacho do Governador-Geral do Estado de Moçambique, anotado pelo Tribunal Administrativo, considerando-se os requerentes empossados nos novos lugares na data da publicação do mesmo despacho no Boletim Oficial.
+Art. 5.º - 1. Os cabos e guardas da Polícia Administrativa de Moçambique transitarão, se o requererem dentro do prazo fixado no artigo 4.º, n.º 2, alínea d), para lugares, respectivamente, de cabos auxiliares e guardas auxiliares do novo quadro da corporação, mediante despacho do Governador-Geral do Estado de Moçambique, anotado pelo Tribunal Administrativo, considerando-se os requerentes empossados nos novos lugares na data da publicação do mesmo despacho no Boletim Oficial.
 
 2. Até à transição prevista no número anterior os cabos e guardas ali referidos permanecerão nos seus actuais lugares, com os vencimentos a eles inerentes.
 
@@ -209,7 +213,7 @@ Art. 6.º - 1. Os membros das «milícias de intervenção» passam a depender d
 
 3. Aos membros das «milícias de intervenção» que se encontrarem na dependência da P. S. P. de Moçambique será, para efeitos de aplicação do Código de Justiça Militar e do Regulamento Disciplinar dos Corpos de Policia de Segurança Pública do Ultramar, atribuída a categoria de guarda auxiliar.
 
-4. Os membros das milícias de intervenção» que satisfizerem os requisitos legais poderão, se o requererem dentro do prazo fixado no artigo 4.º, n.º 1, alínea d), ingressar nos quadros da P. S. P. como guardas auxiliares, contando-se-lhes, para todos os efeitos legais, o tempo de serviço prestado nas «milícias» como se o tivesse sido na P. S. P.
+4. Os membros das milícias de intervenção» que satisfizerem os requisitos legais poderão, se o requererem dentro do prazo fixado no artigo 4.º, n.º 2, alínea d), ingressar nos quadros da P. S. P. como guardas auxiliares, contando-se-lhes, para todos os efeitos legais, o tempo de serviço prestado nas «milícias» como se o tivesse sido na P. S. P.
 
 5. O ingresso a que se refere o número anterior será feito por despacho do Governador-Geral, anotado pelo Tribunal Administrativo e publicado no Boletim Oficial, considerando-se empossados nos novos lugares na data daquela publicação.
 
@@ -691,7 +695,7 @@ a) A primeira vaga será destinada ao segundo-subchefe melhor classificado no co
 
 b) A segunda vaga será destinada ao segundo-subchefe mais antigo, desde que tenha dois ou mais anos de serviço na categoria e satisfaça às condições gerais de promoção;
 
-c) Para as restantes vagas seguir-se-á o critério indicado nos números anteriores e, quando não houver mais segundos-subchefes aprovados na lista de classificação em vigor para chefe de esquadra, as restantes promoções a efectuar serão feitas nos termos da alínea b).
+c) Para as restantes vagas seguir-se-á o critério indicado nas alíneas anteriores e, quando não houver mais segundos-subchefes aprovados na lista de classificação em vigor para chefe de esquadra, as restantes promoções a efectuar serão feitas nos termos da alínea b).
 
 Art. 54.º - 1. As promoções a subchefes-ajudantes serão feitas entre os primeiros ou segundos-subchefes pela ordem de classificação no curso ou concurso para chefe de esquadra e ainda não promovidos a esta categoria.
 
@@ -707,7 +711,7 @@ Art. 58.º - 1. Ao pessoal das companhias móveis de policia, com bom comportame
 
 2. O ingresso far-se-á nas categorias respectivas, depois de findo o período de comissão ou da sua renovação, mediante requerimento dirigido ao Governador-Geral, observando-se, porém, quanto aos segundos-subchefes e guardas, o seguinte:
 
-a) Os segundos-subchefes ingressarão definitivamente nesta categoria, passando a observar-se para a sua promoção a primeiros-subchefes o disposto no artigo 54.º do presente Estatuto;
+a) Os segundos-subchefes ingressarão definitivamente nesta categoria, passando a observar-se para a sua promoção a primeiros-subchefes o disposto no artigo 53.º do presente Estatuto;
 
 b) Os guardas de 1.ª classe ingressarão definitivamente nessa categoria;
 

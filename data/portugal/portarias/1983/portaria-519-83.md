@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1984-04-19'
     amending: pt:dre:654570:por
-    amending_title: Portaria n.º 237/84
+    amending_title: Portaria n.º 237/84; Declaração
     changes:
     - Altera Artigo unidades 33-33
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:42:14Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 237/84. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-519-83.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-519-83.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,7 +175,9 @@ Bairro de Tourão, Guarda, Sé, Guarda (1).
 
 Quinta do Pinheiro, Guarda, São Vicente, Guarda (2).
 
-Catraia de São Romão, São Romão, São Romão, Saia (2).
+Catraia de São Romão, São Romão, São Romão, Seia (2).
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-316328), publicado em 1983-06-30.
 
 Distrito de Leiria:
 

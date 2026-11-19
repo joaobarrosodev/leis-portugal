@@ -54,13 +54,14 @@ version_history:
     changes: []
   - date: '2005-06-01'
     amending: pt:dre:373581:por
-    amending_title: Decreto Legislativo Regional n.º 21/88/A; Decreto Legislativo Regional n.º 1/2005/A
+    amending_title: Decreto Legislativo Regional n.º 21/88/A; Decreto Legislativo Regional n.º 1/2005/A; Declaração
     changes:
     - Revoga Artigo 2.º
     - Revoga Artigo 3.º
     - Revoga Artigo 4.º
     - Revoga Artigo 10.º
     - Altera Artigo 14.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -87,7 +88,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:38Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
-    21/88/A; Decreto Legislativo Regional n.º 1/2005/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1987/decreto-legislativo-regional-5-87-a.alteracoes.json'
+    21/88/A; Decreto Legislativo Regional n.º 1/2005/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1987/decreto-legislativo-regional-5-87-a.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,7 +193,9 @@ validation:
 
 # Decreto Legislativo Regional n.º 5/87/A
 
-Criação de serviços, modalidade e contenção de efectivos
+Criação de serviços, mobilidade e contenção de efectivos
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1987-239629), publicado em 1987-08-31.
 
 Foi considerado oportuno alterar o [Decreto Legislativo Regional n.º 16/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1983-311595), de 28 de Abril, que consagra os princípios gerais do recrutamento e selecção do pessoal da administração regional dos Açores, decorrente da aplicação do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro.
 

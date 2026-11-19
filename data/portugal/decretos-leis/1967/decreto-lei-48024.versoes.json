@@ -23,15 +23,22 @@
      "title": "Decreto-Lei n.º 415/74",
      "published": "1974-09-07",
      "dre_path": "/dr/detalhe/decreto-lei/415-1974-474734"
+    },
+    {
+     "id": "pt:dre:400982:por",
+     "title": "Rectificação",
+     "published": "1967-11-28",
+     "dre_path": "/dr/detalhe/rectificacao/1967-400982"
     }
    ],
    "changes": [
-    "Revoga Artigo 1.º"
+    "Revoga Artigo 1.º",
+    "Retifica Artigo 2"
    ],
    "fragments": [
     "60c66e97ab1fcf7b",
     "a8ff765ef52c9efc",
-    "d50473bae7e6c4d4",
+    "211853372af7dc85",
     "098a46d85b5bd3c9"
    ]
   }
@@ -63,13 +70,15 @@
    ],
    "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 415/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1974-474734), publicado em 1974-09-07."
   },
-  "d50473bae7e6c4d4": {
+  "211853372af7dc85": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 2.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 2.º\n\nÉ reduzido para três meses o prazo de um ano previsto no artigo 13.º do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946.\n\n§ único. O prazo de três meses a que se refere o corpo do artigo pode, excepcionalmente, ser prorrogado por igual período de tempo, mediante despacho do Ministro do Exército."
+   "in_force_from": "1974-09-07",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1967-400982), publicado em 1967-11-28."
+   ],
+   "markdown": "###### Artigo 2.º\n\nÉ reduzido para três meses, dentro de cada ano civil, o prazo de um ano previsto no artigo 13.º do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946.\n\n§ único. O prazo de três meses a que se refere o corpo do artigo pode, excepcionalmente, ser prorrogado por igual período de tempo, mediante despacho do Ministro do Exército.\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1967-400982), publicado em 1967-11-28."
   },
   "098a46d85b5bd3c9": {
    "fragment_id": null,

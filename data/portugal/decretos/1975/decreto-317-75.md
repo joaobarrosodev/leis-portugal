@@ -43,9 +43,11 @@ version_history:
     changes: []
   - date: '1976-02-17'
     amending: pt:dre:507616:por
-    amending_title: Decreto n.º 134/76
+    amending_title: Decreto n.º 134/76; Rectificação; Rectificação
     changes:
     - Altera Artigo 8.º
+    - Retifica Artigo 12
+    - Retifica Artigo 5
 identifiers:
   celex: null
   eli: null
@@ -72,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:38:00Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 134/76. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1975/decreto-317-75.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1975/decreto-317-75.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Rectificação; Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -185,7 +188,7 @@ Os directores de serviço e o chefe de repartição serão nomeados pelo Secret�
 
 a) Técnicos principais e técnicos de 1.ª classe, por promoção, respectivamente, de técnicos de 1.ª e 2.ª classes, com boas informações de serviço e as habilitações legais;
 
-b) Técnicos de 2.ª classe, de entre licenciados com curso superior adequado ao desempenho das suas funções;
+b) Técnicos de 2.ª classe, de entre indivíduos com curso superior adequado ao desempenho das suas funções;
 
 c) Técnicos auxiliares principais e técnicos auxiliares de 1.ª classe, de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e as habilitações referidas neste diploma;
 
@@ -204,6 +207,8 @@ h) Escriturários-dactilógrafos, por concurso de prestação de provas, de entr
 3. Aos escriturários-dactilógrafos que ingressem na categoria de terceiro-oficial sem habilitação do 2.º ciclo liceal ou equiparada aplicar-se-á o disposto no n.º 2 do artigo 27.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 4. O Secretário de Estado do Abastecimento e Preços poderá condicionar o provimento dos lugares do quadro à realização de concursos ou de cursos de promoção, de harmonia com as condições julgadas convenientes.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-314903), publicado em 1975-08-25.
 
 ###### Artigo 6.º
 
@@ -249,7 +254,7 @@ As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por d
 
 ###### Artigo 12.º
 
-Este decreto entra imediatamente em vigor.
+Este decreto entra imediatamente em vigor, excepto o artigo 9.º, que entrará em vigor a partir de 1 de Outubro de 1975.
 
 António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
@@ -262,3 +267,5 @@ O Presidente da República, FRANCISCO DA COSTA GOMES.
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14600/08880890.pdf)
 
 O Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-336534), publicado em 1975-07-18.

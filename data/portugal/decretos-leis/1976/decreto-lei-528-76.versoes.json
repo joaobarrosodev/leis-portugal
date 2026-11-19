@@ -23,6 +23,12 @@
      "title": "Decreto-Lei n.º 332/91",
      "published": "1991-09-06",
      "dre_path": "/dr/detalhe/decreto-lei/332-1991-304536"
+    },
+    {
+     "id": "pt:dre:430777:por",
+     "title": "Declaração",
+     "published": "1976-07-26",
+     "dre_path": "/dr/detalhe/declaracao/1976-430777"
     }
    ],
    "changes": [
@@ -32,7 +38,8 @@
     "Revoga Artigo 4.º",
     "Revoga Artigo 5.º",
     "Revoga Artigo 6.º",
-    "Revoga Artigo 7.º"
+    "Revoga Artigo 7.º",
+    "Retifica Artigo 10"
    ],
    "fragments": [
     "ae467dcadbda769f",
@@ -45,7 +52,7 @@
     "d0bce77f75fd7d72",
     "3cd51458c57fbf23",
     "74652e3410c84825",
-    "a5c0ea8bdde3acf5",
+    "15bbd6dae0e735ba",
     "b5cf267352498a61",
     "fee3ce8276f24d8f",
     "6c26be245a36b7c0"
@@ -155,13 +162,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 9.º\n\nA regularização da dívida às instituições de previdência, bem como à generalidade das pessoas colectivas de direito público e às instituições particulares de utilidade pública geral, poderá ficar sujeita ao estabelecimento de condições específicas."
   },
-  "a5c0ea8bdde3acf5": {
+  "15bbd6dae0e735ba": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 10.º\n\n1. Sem prejuízo da oportuna aplicação do disposto no artigo anterior, os créditos concedidos pelos bancos nacionalizados a accionistas ou detentores de partes de capital de empresas nacionalizadas poderão ser objecto de compensação provisória, mediante celebração de promessas de dação em cumprimento.\n\n2. Para efeitos do estabelecido no número precedente, compete ao Ministro das Finanças fixar, por despacho, as regras de avaliação dos respectivos títulos, podendo igualmente determinar a inclusão nos correspondentes contratos de cláusulas específicas."
+   "in_force_from": "1991-09-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-430777), publicado em 1976-07-26."
+   ],
+   "markdown": "###### Artigo 10.º\n\n1. Sem prejuízo da oportuna aplicação do disposto no artigo anterior, os créditos concedidos pelas instituições de crédito do Estado e nacionalizadas a accionistas ou detentores de partes de capital de empresas nacionalizadas poderão ser objecto de compensação provisória, mediante celebração de promessas de dação em cumprimento.\n\n2. Para efeitos do estabelecido no número precedente, compete ao Ministro das Finanças fixar, por despacho, as regras de avaliação dos respectivos títulos, podendo igualmente determinar a inclusão nos correspondentes contratos de cláusulas específicas.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-430777), publicado em 1976-07-26."
   },
   "b5cf267352498a61": {
    "fragment_id": null,

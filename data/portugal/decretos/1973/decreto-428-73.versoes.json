@@ -44,10 +44,22 @@
      "title": "Decreto-Lei n.º 349/77",
      "published": "1977-08-25",
      "dre_path": "/dr/detalhe/decreto-lei/349-1977-255994"
+    },
+    {
+     "id": "pt:dre:412824:por",
+     "title": "Rectificação",
+     "published": "1973-09-26",
+     "dre_path": "/dr/detalhe/rectificacao/1973-412824"
     }
    ],
    "changes": [
-    "Altera Artigo 75.º"
+    "Altera Artigo 75.º",
+    "Retifica texto",
+    "Retifica Artigo 30",
+    "Retifica Artigo 33",
+    "Retifica Artigo 49",
+    "Retifica Artigo 57",
+    "Retifica Artigo 94"
    ],
    "fragments": [
     "0582fdda4852aea0",
@@ -60,7 +72,7 @@
     "01fac189eb113235",
     "847ee4139ae45f92",
     "eee2e423ffacdb15",
-    "4a5d540c721e9cf0",
+    "0be315a61e1e71cb",
     "e38ebf338616c124",
     "d52074eb230235d3",
     "01678e187ee05030",
@@ -88,10 +100,10 @@
     "a936d4381cbd5ced",
     "49a75ba2454bb56a",
     "e0ddfd0bfb43623a",
-    "3573ed8408dd9f7a",
+    "27aae02df4e8a267",
     "82fb46fd6f02d6b9",
     "f9a368900c526fb3",
-    "95ef765fa4e1640d",
+    "6352881703160e1f",
     "448232f5adb07237",
     "3ab99f97e70a4e75",
     "d7a5c99f2eb8d7ef",
@@ -103,7 +115,7 @@
     "46ed29ce6aaccc92",
     "2a01dea5d594ab75",
     "c6bd93678b1093e4",
-    "b9c96e658ac426ba",
+    "305406be4f734357",
     "6845b3d73c3eba36",
     "d3830bec698d60df",
     "23d48a8c98691b59",
@@ -111,7 +123,7 @@
     "aaec87d75ffafaf6",
     "9f81f934d7c5e807",
     "30d1fc45f6af7d19",
-    "5c24ae9da9580c2e",
+    "c882256b20471547",
     "4ce600a0e19271ec",
     "e14eda57de164ce4",
     "6183653093591799",
@@ -119,7 +131,7 @@
     "c7934b95c86e2d9c",
     "c7c5b8895f4eb524",
     "ad3e6ce25eed030b",
-    "095d84fca5733fd9",
+    "0005ca5c0016bbed",
     "8b3a73bd37c6c058",
     "f8a96fc5a15d5a91",
     "64452d23c73b8656",
@@ -165,7 +177,7 @@
     "e495eecec5c28770",
     "198e8fb432d3d5fc",
     "65155242447e766d",
-    "de9a1fe364c82948",
+    "5d0edab39c7eb414",
     "852257a664d47a0b",
     "093755a55fa98d40",
     "1eab75affb635fb4",
@@ -419,6 +431,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 6.º\n\n1. Para o desempenho das atribuições que lhe são conferidas pelo artigo 8.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), desta data, as comissões consultivas de estatística terão as reuniões que forem convocadas pelo respectivo presidente.\n\n2. É aplicável às comissões consultivas de estatística o disposto nos n.os 2 e 3 do artigo 1.º, no artigo 2.º e nos n.os 1 a 3 do artigo 3.º"
   },
+  "0be315a61e1e71cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO 1.ª — Da organização dos serviços centrais.",
+   "in_force_from": "1977-08-25",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-412824), publicado em 1973-09-26."
+   ],
+   "markdown": "#### SECÇÃO 1.ª — Da organização dos serviços centrais.\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-412824), publicado em 1973-09-26."
+  },
   "e38ebf338616c124": {
    "fragment_id": null,
    "type": null,
@@ -635,13 +657,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 29.º\n\nAo Serviço de Documentação, chefiado por um primeiro-bibliotecário-arquivista, compete:\n\na) Ordenar, catalogar, classificar e conservar toda a documentação entrada na biblioteca e no arquivo geral;\n\nb) Receber as publicações editadas pelo Instituto e proceder à sua distribuição;\n\nc) Manter as relações com os organismos internacionais e estrangeiros para estabelecer os intercâmbios convenientes e fazer a aquisição de publicações;\n\nd) Explorar o fundo bibliográfico existente e dele extrair informações a fornecer aos interessados nessas matérias;\n\ne) Manter o contacto com serviços congéneres, tanto do sector público como do sector privado, colaborando com eles na difusão da informação técnica, científica, económica e social de interesse para o País."
   },
-  "3573ed8408dd9f7a": {
+  "27aae02df4e8a267": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 30.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 30.º\n\nAo Serviço de Informações e Relações Públicas, compete:\n\na) Prestar informações a entidades nacionais, estrangeiras e internacionais e organizar o registo das informações prestadas;\n\nb) Atender directamente o público, satisfazendo ou encaminhando os seus pedidos;\n\nc) Exercer permanente acção informativa junto do público interessado na acção do I. N. E., directamente ou com recurso aos meios de comunicação social, designadamente em campanhas de informação e esclarecimento relativamente a censos e outras operações estatísticas em que isso se justifique;\n\nd) Auscultar o público, directamente ou por intermédio de informação, estudar as suas reclamações, sugestões e opiniões e encaminhá-las para os departamentos competentes do Instituto.\n\nSUBSECÇAO 5.ª\n\nDirecção dos Serviços de Estatísticas Correntes"
+   "markdown": "###### Artigo 30.º\n\nAo Serviço de Informações e Relações Públicas, compete:\n\na) Prestar informações a entidades nacionais, estrangeiras e internacionais e organizar o registo das informações prestadas;\n\nb) Atender directamente o público, satisfazendo ou encaminhando os seus pedidos;\n\nc) Exercer permanente acção informativa junto do público interessado na acção do I. N. E., directamente ou com recurso aos meios de comunicação social, designadamente em campanhas de informação e esclarecimento relativamente a censos e outras operações estatísticas em que isso se justifique;\n\nd) Auscultar o público, directamente ou por intermédio dos órgãos de informação, estudar as suas reclamações, sugestões e opiniões e encaminhá-las para os departamentos competentes do Instituto.\n\nSUBSECÇAO 5.ª\n\nDirecção dos Serviços de Estatísticas Correntes"
   },
   "82fb46fd6f02d6b9": {
    "fragment_id": null,
@@ -659,13 +681,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 32.º\n\nAo Serviço de Coordenação, sob a chefia imediata e directa do director dos Serviços de Estatísticas Correntes, compete:\n\na) Coordenar as operações a executar pela direcção de serviços, incluindo o estabelecimento dos planos de acção e respectivos calendários;\n\nb) Elaborar a estimativa das despesas e determinar os custos dos diversos tipos de estatística elaborados na direcção de serviços;\n\nc) Criar e manter os sistemas necessários para contrôle do tempo e dos custos dos diferentes tipos de estatística elaborados pela direcção de serviços;\n\nd) Estimar custos e elaborar orçamentos para os trabalhos especiais solicitados à direcção de serviços;\n\ne) Centralizar os materiais necessários à redacção dos relatórios anuais ou outros da competência da direcção de serviços."
   },
-  "95ef765fa4e1640d": {
+  "6352881703160e1f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 33.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 33.º\n\nCompete à Divisão de Estatísticas Agrícolas e Alimentares:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos e inquéritos de base à agricultura, silvicultura, pecuária, caça e pesca;\n\nb) Elaborar as estatísticas correntes da produção vegetal dos sectores agrícola e florestal, da produção animal, da caça e pesca, as estatísticas económicas e sociais ligadas àqueles sectores, nomeadamente as da população e mão-de-obra, dos preços e dos meios de produção adquiridos pelos empresários, incluindo o cálculo dos respectivos números índices, do crédito e seguros, e os relativos à utilização dos produtos desses sectores."
+   "markdown": "###### Artigo 33.º\n\nCompete à Divisão de Estatísticas Agrícolas e Alimentares:\n\na) Colaborar no planeamento e orientação técnica dos recenseamentos e inquéritos de base à agricultura, silvicultura, pecuária, caça e pesca;\n\nb) Elaborar as estatísticas correntes da produção vegetal dos sectores agrícola e florestal, da produção animal, da caça e pesca, as estatísticas económicas e sociais ligadas àqueles sectores, nomeadamente as da população e mão-de-obra, dos preços e dos meios de produção adquiridos pelos empresários, incluindo o cálculo dos respectivos números índices, do crédito e seguros, e as relativas à utilização dos produtos desses sectores."
   },
   "448232f5adb07237": {
    "fragment_id": null,
@@ -755,13 +777,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 43.º\n\nA distribuição de tarefas constantes dos artigos anteriores poderá ser modificada por despacho do Presidente do Conselho, mediante proposta fundamentada do director do Instituto."
   },
-  "b9c96e658ac426ba": {
+  "305406be4f734357": {
    "fragment_id": null,
    "type": null,
-   "heading": "SECÇÃO 2.ª — Da organização das delegações metropolitanas",
+   "heading": "SECÇÃO 2.ª — Da competência das delegações metropolitanas.",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "#### SECÇÃO 2.ª — Da organização das delegações metropolitanas"
+   "markdown": "#### SECÇÃO 2.ª — Da competência das delegações metropolitanas."
   },
   "6845b3d73c3eba36": {
    "fragment_id": null,
@@ -811,13 +833,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 48.º\n\nO pessoal do Centro de Informática adiante indicado será recrutado, por escolha, pela forma seguinte:\n\na) O programador principal e o analista de multiprogramação, de entre os programadores de multiprogramação e os analistas de sistemas;\n\nb) O chefe de exploração, de entre os analistas de sistemas, os programadores de multiprogramação, os programadores e os operadores-chefes;\n\nc) Os programadores de multiprogramação e os analistas de sistemas, de entre os programadores;\n\nd) Os programadores, de entre os indivíduos que, satisfazendo as condições gerais para provimento nas categorias correspondentes, possuam os cursos de programação necessários, ministrados por entidade considerada idónea;\n\ne) O operador-chefe, os primeiros-operadores e os segundos-operadores, respectivamente, de entre os primeiros-operadores, segundos-operadores e terceiros-operadores, habilitados com os cursos a que se refere a alínea c) do n.º 1 do artigo 69.º;\n\nf) Os primeiros-mecanógrafos, primeiros-mecanógrarfos-adjuntos, segundos-mecanógrafos e segundos-mecanógrafos-adjuntos, respectivamente, de entre os primeiros-mecanógrafos-adjuntos, os segundos-mecanógrafos, os segundos-mecanógrafos-adjuntos e os terceiros-mecanógrafos, habilitados com os cursos a que se refere a alínea c) do n.º 1 do artigo 69.º;\n\ng) Os terceiros-mecanógrafos e os terceiros-operadores, de entre indivíduos de idade não inferior a 18 anos, habilitados com o 2.º ciclo dos liceus, o curso industrial, o curso comercial ou outras habilitações equivalentes, tendo preferência os possuidores da preparação correspondente às funções a desempenhar, comprovada por documento emitido por entidade considerada idónea;\n\nh) Os mecânicos de 1.ª e 2.ª classes, de entre, respectivamente, os mecânicos de 2.ª e 3.ª classes;\n\ni) O mecânico de 3.ª classe, de entre indivíduos de idade não inferior a 18 anos, habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes."
   },
-  "5c24ae9da9580c2e": {
+  "c882256b20471547": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 49.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 49.º\n\nO pessoal da Divisão de Censos e Inquéritos adiante indicado será recrutado por escolha, nos termos seguintes:\n\na) Os supervisores de censos e inquéritos, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe e os agentes de censos e inquéritos de 2.ª classe, de entre, respectivamente, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe, os agentes de censos e inquéritos de 2.ª classe e os agentes de censos e inquéritos de 3.ª classe;\n\nb) Os agentes de censos e inquéritos de 3.ª classe, de entre indivíduos com a idade mínima de 18 anos e as habilitações legais, tendo preferência os que, com boas informações de serviço, embora noutras situações, tenham desempenhado essas funções;\n\nc) O topógrafo-chefe, de entre indivíduos de idade não inferior a 18 anos, habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes."
+   "markdown": "###### Artigo 49.º\n\nO pessoal da Direcção dos Serviços de Censos e Inquéritos adiante indicado será recrutado por escolha, nos termos seguintes:\n\na) Os supervisores de censos e inquéritos, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe e os agentes de censos e inquéritos de 2.ª classe, de entre, respectivamente, os agentes principais de censos e inquéritos, os agentes de censos e inquéritos de 1.ª classe, os agentes de censos e inquéritos de 2.ª classe e os agentes de censos e inquéritos de 3.ª classe;\n\nb) Os agentes de censos e inquéritos de 3.ª classe, de entre indivíduos com a idade mínima de 18 anos e as habilitações legais, tendo preferência os que, com boas informações de serviço, embora noutras situações, tenham desempenhado essas funções;\n\nc) O topógrafo-chefe, de entre indivíduos de idade não inferior a 18 anos, habilitados com os cursos adequados das escolas técnicas ou, não os havendo, com o 2.º ciclo dos liceus ou habilitações equivalentes."
   },
   "4ce600a0e19271ec": {
    "fragment_id": null,
@@ -875,13 +897,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 56.º\n\n1. Os lugares de chefe de secção serão providos, por escolha, de entre os técnicos auxiliares principais e os primeiros-oficiais com boa classificação de serviço.\n\n2. O lugar de chefe da Secção de Contabilidade e Tesouraria poderá ser provido nos termos do artigo 12.º do [Decreto-Lei n.º 32886](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32886-1943-398140), de 30 de Junho de 1943."
   },
-  "095d84fca5733fd9": {
+  "0005ca5c0016bbed": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 57.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 57.º\n\n1. Os lugares de primeiro-oficial e de técnico auxiliar de 1.ª classe serão providos por concurso de promoção, a que podem concorrer os segundos-oficiais e os técnicos auxiliares de 2.ª classe, com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.\n\n2. Os lugares de técnico auxiliar de 2.ª classe serão providos por concurso de promoção a que podem concorrer os técnicos auxiliares de 3.ª classe com aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 69.º e mais condições da lei geral.\n\n3. Os lugares de segundo-oficial e de técnico auxiliar de 3.ª classe serão providos por concurso de promoção a que podem concorrer os terceiros-oficiais e os auxiliares técnicos com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.\n\n4. Os lugares de terceiro-oficial e de auxiliar técnico serão providos por concurso, com prestação de provas, nos termos da lei geral."
+   "markdown": "###### Artigo 57.º\n\n1. Os lugares de primeiro-oficial e de técnico auxiliar de 1.ª classe serão providos por concurso de promoção, a que podem concorrer os segundos-oficiais e os técnicos auxiliares de 2.ª classe, com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.\n\n2. Os lugares de técnico auxiliar de 2.ª classe serão providos por concurso de promoção a que podem concorrer os técnicos auxiliares de 3.ª classe e os segundos-oficiais com aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 69.º e mais condições da lei geral.\n\n3. Os lugares de segundo-oficial e de técnico auxiliar de 3.ª classe serão providos por concurso de promoção a que podem concorrer os terceiros-oficiais e os auxiliares técnicos com aproveitamento no curso complementar de estatística, a que se refere a alínea b) do n.º 1 do artigo 69.º, e nas mais condições da lei geral.\n\n4. Os lugares de terceiro-oficial e de auxiliar técnico serão providos por concurso, com prestação de provas, nos termos da lei geral."
   },
   "8b3a73bd37c6c058": {
    "fragment_id": null,
@@ -1237,13 +1259,13 @@
    "changed_by": [],
    "markdown": "### CAPÍTULO IV — Das transgressões estatísticas"
   },
-  "de9a1fe364c82948": {
+  "5d0edab39c7eb414": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 94.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 94.º\n\nSerão punidas com multa de 50$00 a 1000$00 as transgressões seguintes:\n\na) Preenchimento incompleto de instrumentos de notação estatística;\n\nb) Inobservância de norma expressa de notação estatística;\n\nc) Falta de cumprimento de prazos fixados;\n\nd) Todas as transgressões são expressamente previstas neste artigo e nos seguintes."
+   "markdown": "###### Artigo 94.º\n\nSerão punidas com multa de 50$00 a 1000$00 as transgressões seguintes:\n\na) Preenchimento incompleto de instrumentos de notação estatística;\n\nb) Inobservância de norma expressa de notação estatística;\n\nc) Falta de cumprimento de prazos fixados;\n\nd) Todas as transgressões não expressamente previstas neste artigo e nos seguintes."
   },
   "852257a664d47a0b": {
    "fragment_id": null,

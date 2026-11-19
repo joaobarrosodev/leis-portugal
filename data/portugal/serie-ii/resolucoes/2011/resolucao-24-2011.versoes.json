@@ -80,6 +80,12 @@
      "title": "Resolução n.º 3/2023-PG",
      "published": "2024-01-08",
      "dre_path": "/dr/detalhe/resolucao/3-2024-836161933"
+    },
+    {
+     "id": "pt:dre:3478588:por",
+     "title": "Declaração de Rectificação n.º 1995/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1995-2011-3478588"
     }
    ],
    "changes": [
@@ -126,7 +132,8 @@
     "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::41.º",
     "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::42.º",
     "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::43.º",
-    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::44.º"
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::44.º",
+    "Retifica Artigo 34"
    ],
    "fragments": [
     "e423a8bf55da8559",
@@ -175,7 +182,7 @@
     "e4fa92a454aebbb6",
     "8d82f15594006c22",
     "c8df013907fcdc19",
-    "18c257f8dc8bc246",
+    "abeef6b30ce1ff76",
     "92d2e28580f692bb",
     "0236d467273cfb7a",
     "032cab88ef16d7b0",
@@ -985,15 +992,16 @@
    ],
    "markdown": "###### Artigo 33.º — Acções\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
   },
-  "18c257f8dc8bc246": {
+  "abeef6b30ce1ff76": {
    "fragment_id": null,
    "type": null,
-   "heading": "Artigo 34.º — Relato de Relatório",
+   "heading": "Artigo 34.º — Relato de Auditoria",
    "in_force_from": "2024-01-09",
    "changed_by": [
-    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 1995/2011](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1995-2011-3478588), publicado em 2011-12-30."
    ],
-   "markdown": "###### Artigo 34.º — Relato de Relatório\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   "markdown": "###### Artigo 34.º — Relato de Auditoria\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 1995/2011](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1995-2011-3478588), publicado em 2011-12-30."
   },
   "92d2e28580f692bb": {
    "fragment_id": null,

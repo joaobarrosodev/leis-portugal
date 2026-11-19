@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '1977-05-03'
     amending: pt:dre:644374:por
-    amending_title: Decreto-Lei n.º 178-A/77
+    amending_title: Decreto-Lei n.º 178-A/77; Declaração
     changes:
     - Altera Artigo unidades 25-25
     - Altera Artigo unidades 26-26
@@ -62,6 +62,7 @@ version_history:
     - Altera Artigo unidades 49-49
     - Altera Artigo unidades 50-50
     - Altera Artigo unidades 53-55
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -88,7 +89,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:43:43Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 178-A/77. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-683-a-76.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-683-a-76.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -276,7 +278,9 @@ b) Comércio Externo;
 
 c) Turismo.
 
-2. Ao Ministro do Comércio e Turismo compete escutar a política nacional de comércio e turismo, bem como conduzir as actividades externas nesses domínios e orientar as acções que compreendem naqueles sectores.
+2. Ao Ministro do Comércio e Turismo compete executar a política nacional de comércio e turismo, bem como conduzir as actividades externas nesses domínios e orientar as acções que se compreendem naqueles sectores.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-409151), publicado em 1976-09-24.
 
 Art. 11.º - 1. O Ministério do Trabalho compreende a Secretaria de Estado do Trabalho.
 
@@ -410,7 +414,7 @@ Art. 21.º - 1. Manter-se-á até final do corrente ano económico a actual estr
 
 2. Às despesas com os novos departamentos governamentais aplicar-se-ão os princípios constantes do [Decreto-Lei n.º 233-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-a-1975-276460), de 17 de Maio, de harmonia com a orientação a definir pelo Ministro das Finanças.
 
-Art. 22.º As situações não contempladas no presente diploma serão submetidas ao regime previsto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 29 de Janeiro.
+Art. 22.º As situações não contempladas no presente diploma serão submetidas ao regime previsto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
 Art. 23.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 

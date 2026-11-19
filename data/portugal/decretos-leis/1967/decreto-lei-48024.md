@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1974-09-07'
     amending: pt:dre:474734:por
-    amending_title: Decreto-Lei n.º 415/74
+    amending_title: Decreto-Lei n.º 415/74; Rectificação
     changes:
     - Revoga Artigo 1.º
+    - Retifica Artigo 2
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:03:08Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 415/74. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-48024.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-48024.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,9 +135,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ###### Artigo 2.º
 
-É reduzido para três meses o prazo de um ano previsto no artigo 13.º do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946.
+É reduzido para três meses, dentro de cada ano civil, o prazo de um ano previsto no artigo 13.º do [Decreto-Lei n.º 35983](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35983-1946-149415), de 23 de Novembro de 1946.
 
 § único. O prazo de três meses a que se refere o corpo do artigo pode, excepcionalmente, ser prorrogado por igual período de tempo, mediante despacho do Ministro do Exército.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1967-400982), publicado em 1967-11-28.
 
 ###### Artigo 3.º
 

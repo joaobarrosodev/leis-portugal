@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1976-02-17'
     amending: pt:dre:507616:por
-    amending_title: Decreto n.º 134/76
+    amending_title: Decreto n.º 134/76; Rectificação
     changes:
     - Altera Artigo 8.º
+    - Retifica Artigo 12
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:38:01Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 134/76. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1975/decreto-318-75.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1975/decreto-318-75.alteracoes.json. Retificações aplicadas
+    por regra (consolidacao/retificacoes.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -241,7 +243,7 @@ As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por d
 
 ###### Artigo 12.º
 
-Este decreto entra imediatamente em vigor.
+Este decreto entra imediatamente em vigor, excepto o artigo 9.º, que entrará em vigor a partir de 1 de Outubro de 1975.
 
 Vasco dos Santos Gonçalves - António Carlos Magalhães Arnão Metelo - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
@@ -254,3 +256,5 @@ O Presidente da República, FRANCISCO DA COSTA GOMES.
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/14600/08900892.pdf)
 
 O Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-336533), publicado em 1975-07-18.

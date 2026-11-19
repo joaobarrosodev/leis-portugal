@@ -53,10 +53,11 @@ version_history:
     changes: []
   - date: '2012-09-22'
     amending: pt:dre:601495:por
-    amending_title: Portaria n.º 150/2009; Portaria n.º 288/2012
+    amending_title: Portaria n.º 150/2009; Portaria n.º 288/2012; Declaração de Rectificação n.º 23-H/2002
     changes:
     - Altera Artigo unidades 13-13
     - Altera Artigo unidades 29-30
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/434/2002/04/22/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:41:11Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 150/2009; Portaria n.º
-    288/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-434-2002.alteracoes.json'
+    288/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-434-2002.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 23-H/2002.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +142,9 @@ validation:
 
 de 22 de Abril
 
-Considerando a necessidade de se definirem, para aplicação aos portos do continente, regras sobre a emissão dos certificados de isenção de pilotagem, conforme o previsto na alínea a) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 48/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2002-251980), de 2 de Março, manda o Governo, pelo Ministro do Equipamento Social, o seguinte:
+Considerando a necessidade de se definirem, para aplicação aos portos do continente, regras sobre a emissão dos certificados de isenção de pilotagem, conforme o previsto na alínea a) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 48/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2002-251980), de 2 de Março, manda o Governo, pelo Ministro do Equipamento Social, o seguinte:
+
+> Retificado pelo/a [Declaração de Rectificação n.º 23-H/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-h-2002-575109), publicado em 2002-06-29.
 
 1.º
 

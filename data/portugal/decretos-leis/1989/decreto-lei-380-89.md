@@ -53,12 +53,13 @@ version_history:
     changes: []
   - date: '1993-03-15'
     amending: pt:dre:628041:por
-    amending_title: Decreto-Lei n.º 72/93; Decreto-Lei n.º 72/93
+    amending_title: Decreto-Lei n.º 72/93; Decreto-Lei n.º 72/93; Declaração
     changes:
     - Revoga Artigo 6.º
     - Revoga Artigo 6.º
     - Altera Artigo 3.º
     - Altera Artigo 7.º
+    - Retifica Artigo 12
 identifiers:
   celex: null
   eli: null
@@ -85,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:54:48Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 72/93; Decreto-Lei
-    n.º 72/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-380-89.alteracoes.json'
+    n.º 72/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-380-89.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -327,11 +329,13 @@ a) Duplicado das declarações para efeitos fiscais tempestivamente apresentadas
 
 b) Cópia autenticada dos mapas do pessoal das empresas em que o interessado tenha exercido a actividade, desde que tempestivamente apresentados aos serviços oficiais competentes;
 
-c) Certidão de sentença ou de acto de conciliação referentes a litígio sobre a relação laboral subjacente;
+c) Certidão de sentença ou de auto de conciliação referentes a litígio sobre a relação laboral subjacente;
 
 d) Certidão de decisão de processo administrativo gracioso, a decorrer no âmbito das instituições, que aprecie outros meios de prova.
 
 2 - Enquanto não se encontrar regulamentado o processo a que se refere a alínea d) do n.º 1, compete às instituições estabelecer os procedimentos administrativos adequados à tomada de decisão.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-261944), publicado em 1989-12-30.
 
 ###### Artigo 13.º — Meios especiais de prova
 

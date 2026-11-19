@@ -44,10 +44,12 @@ version_history:
     changes: []
   - date: '1971-02-20'
     amending: pt:dre:216350:por
-    amending_title: Decreto-Lei n.º 49458; Decreto-Lei n.º 47/71
+    amending_title: Decreto-Lei n.º 49458; Decreto-Lei n.º 47/71; Rectificação
     changes:
     - Altera Artigo 3.º
     - Altera Artigo 4.º
+    - Retifica texto
+    - Retifica Artigo 16
 identifiers:
   celex: null
   eli: null
@@ -74,7 +76,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:53:23Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49458; Decreto-Lei
-    n.º 47/71. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46348.alteracoes.json'
+    n.º 47/71. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46348.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +149,9 @@ Considerando que se encontram em curso estudos tendentes à reorganização do M
 
 Considerando, porém, que, dentro de uma orientação geral por mais de uma vez proclamada e posta em prática, esses estudos, necessàriamente demorados, sem embargo de toda a possível celeridade que se lhes vem imprimindo, não devem obstar à publicação de reformas parcelares que se mostram particularmente urgentes;
 
-Considerando que a experiência vem demonstrando por forma inequívoca a necessidade de uma revisão geral do Regimento da Junta Nacional da Educação, aprovado pelo [Decreto-Lei n.º 26111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26111-1935-538229), de 19 de Maio de 1936, regimento que, aliás, já se encontra alterado em muitas das suas disposições por outros diplomas;
+Considerando que a experiência vem demonstrando por forma inequívoca a necessidade de uma revisão geral do Regimento da Junta Nacional da Educação, aprovado pelo Decreto-Lei n.º 26611, de 19 de Maio de 1936, regimento que, aliás, já se encontra alterado em muitas das suas disposições por outros diplomas;
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1965-508261), publicado em 1965-12-27.
 
 Considerando a conveniência de expedir dois diplomas, um decreto-lei onde se fixem as bases gerais da organização, competência e funcionamento da Junta, e um decreto simples onde se regulamentem essas bases;
 
@@ -298,7 +303,7 @@ Aos membros, aos agregados e aos delegados da Junta que em serviço dela se ause
 
 ###### Artigo 16.º
 
-Ficam revogadas as disposições do [Decreto-Lei n.º 26111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26111-1935-538229), de 19 de Maio de 1936, relativas à Junta Nacional da Educação.
+Ficam revogadas as disposições do Decreto-Lei n.º 26611, de 19 de Maio de 1936, relativas à Junta Nacional da Educação.
 
 ###### Artigo 17.º
 

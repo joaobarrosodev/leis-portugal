@@ -55,7 +55,7 @@ version_history:
     changes: []
   - date: '2003-06-09'
     amending: pt:dre:407488:por
-    amending_title: Decreto-Lei n.º 53/74; Decreto-Lei n.º 53/74; Decreto-Lei n.º 89/87; Lei n.º 16/2003
+    amending_title: Decreto-Lei n.º 53/74; Decreto-Lei n.º 53/74; Decreto-Lei n.º 89/87; Lei n.º 16/2003; Rectificação
     changes:
     - Altera Artigo 3.º
     - Altera Artigo 4.º
@@ -71,6 +71,8 @@ version_history:
     - Adita Artigo 37.º
     - Adita Artigo 38.º
     - Altera Artigo 20.º
+    - Retifica Artigo 11
+    - Retifica Artigo 27
 identifiers:
   celex: null
   eli: null
@@ -97,7 +99,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:20:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 53/74; Decreto-Lei
-    n.º 53/74; Decreto-Lei n.º 89/87; Lei n.º 16/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-468-71.alteracoes.json'
+    n.º 53/74; Decreto-Lei n.º 89/87; Lei n.º 16/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-468-71.alteracoes.json.
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -367,11 +370,13 @@ Os leitos dominiais que forem abandonados pelas águas, ou lhes forem conquistad
 
 1. A delimitação a que se proceder por via administrativa não preclude a competência dos tribunais comuns para decidir da propriedade ou posse dos leitos e margens, ou suas parcelas.
 
-2. Se, porém, o interessado pretender seguir o acto de delimitação de quaisquer vícios próprios desta que se não traduzam numa questão de propriedade ou posse, deve interpor o respectivo recurso contencioso de anulação.
+2. Se, porém, o interessado pretender arguir o acto de delimitação de quaisquer vícios próprios desta que se não traduzam numa questão de propriedade ou posse, deve interpor o respectivo recurso contencioso de anulação.
 
 II
 
 Servidões administrativas e restrições de utilidade pública
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1971-632229), publicado em 1971-12-21.
 
 ###### Artigo 12.º — (Servidões sobre parcelas privadas de leitos e margens públicos)
 
@@ -543,7 +548,7 @@ e) Edificação de estabelecimentos hoteleiros ou similares declarados de intere
 
 ###### Artigo 27.º — (Não cumprimento das obrigações do utente)
 
-1. A entidade competente pode revogar as licenças a rescindir as concessões de uso privativo, ouvido o interessado, sempre que a este seja imputável o não cumprimento das cláusulas estipuladas no título constitutivo ou das obrigações legais e regulamentos aplicáveis.
+1. A entidade competente pode revogar as licenças e rescindir as concessões de uso privativo, ouvido o interessado, sempre que a este seja imputável o não cumprimento das cláusulas estipuladas no título constitutivo ou das obrigações legais e regulamentos aplicáveis.
 
 2. Quando o não cumprimento não for exclusivamente imputável ao utente privativo, a entidade competente deve, conforme os casos, prorrogar os prazos excedidos ou diminuir ou excluir as multas aplicáveis.
 

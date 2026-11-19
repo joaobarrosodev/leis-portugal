@@ -37,10 +37,17 @@
      "title": "Decreto-Lei n.º 100/90",
      "published": "1990-03-20",
      "dre_path": "/dr/detalhe/decreto-lei/100-1990-333290"
+    },
+    {
+     "id": "pt:dre:199615:por",
+     "title": "Declaração",
+     "published": "1988-12-31",
+     "dre_path": "/dr/detalhe/declaracao/1988-199615"
     }
    ],
    "changes": [
-    "Altera Artigo 10.º"
+    "Altera Artigo 10.º",
+    "Retifica Artigo 14"
    ],
    "fragments": [
     "7af8fab8aafee111",
@@ -57,7 +64,7 @@
     "7ef2c35953ff34d0",
     "9e902258563f465a",
     "856b15cd8c4cd131",
-    "ca430ef82fbc15be"
+    "00fb69d50742ce67"
    ]
   }
  ],
@@ -191,6 +198,16 @@
     "Alterado pelo/a [Decreto-Lei n.º 100/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1990-333290), publicado em 1990-03-20."
    ],
    "markdown": "###### Artigo 10.º — Condições de equivalência\n\n1 - Aos enfermeiros que sejam titulares de uma habilitação que, ao tempo em que foi obtida, fosse considerada como suficiente para o acesso ao ensino superior é concedida equivalência ao bacharelato, quando tenham obtido aprovação no curso de Enfermagem Geral ou equivalente legal, ou ao diploma de estudos superiores especializados em enfermagem, conforme tenham obtido aprovação num dos cursos a seguir mencionados:\n\na) Cursos de especialização em enfermagem, a que se refere o [Decreto-Lei n.º 265/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1983-452040), de 16 de Junho;\n\nb) Curso de pedagogia e administração para enfermeiros especialistas, a que se refere a [Portaria n.º 681/82](https://diariodarepublica.pt/dr/detalhe/portaria/681-1982-394521), de 8 de Julho;\n\nc) Qualquer das secções do curso de Enfermagem Complementar, a que se refere a alínea e) do artigo 7.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952.\n\n2 - Independentemente do disposto no número anterior, e durante um período de dois anos a contar da data da entrada em vigor do presente diploma, a equivalência ao bacharelato e ao diploma de estudos superiores especializados em enfermagem poderá ainda ser concedida mediante apreciação curricular efectuada por um júri a designar por despacho conjunto dos Ministros da Educação e da Saúde, na qual se terá em consideração, nomeadamente:\n\na) As habilitações literárias do requerente;\n\nb) A formação em enfermagem;\n\nc) O exercício da profissão;\n\nd) A docência em enfermagem;\n\ne) A contribuição para o desenvolvimento da enfermagem;\n\nf) A formação universitária em outras áreas de conhecimento.\n\n3 - O júri a que se refere o número anterior poderá condicionar a concessão da equivalência a determinada formação complementar.\n\n4 - As equiparações previstas nos números anteriores serão concedidas por despacho do Ministro da Educação a requerimento dos interessados, verificados os requisitos neles estabelecidos.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1990-333290), publicado em 1990-03-20."
+  },
+  "00fb69d50742ce67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": "1990-03-25",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-199615), publicado em 1988-12-31."
+   ],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\n1 - São revogados:\n\na) O [Decreto n.º 30447](https://diariodarepublica.pt/dr/detalhe/decreto/30447-1940-180830), de 17 de Maio de 1940;\n\nb) O artigo 7.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952;\n\nc) O [Decreto-Lei n.º 49173](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49173-1969-198918), de 5 de Agosto de 1969;\n\nd) A [Portaria n.º 681/82](https://diariodarepublica.pt/dr/detalhe/portaria/681-1982-394521), de 8 de Julho;\n\ne) Os n.os 1 e 2 do artigo 14.º e o n.º 4 do artigo 19.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio;\n\nf) O artigo 25.º do [Decreto-Lei n.º 445/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1985-141217), de 24 de Outubro;\n\ng) A [Portaria n.º 34/88](https://diariodarepublica.pt/dr/detalhe/portaria/34-1988-283373), de 15 de Janeiro;\n\nh) O [Decreto-Lei n.º 261/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1988-372626), de 23 de Julho.\n\n2 - A revogação das normas a que se refere o número anterior não prejudica o disposto no artigo 12.º do presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 3 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nPromulgado em 10 de Dezembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 13 de Dezembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-199615), publicado em 1988-12-31."
   }
  }
 }

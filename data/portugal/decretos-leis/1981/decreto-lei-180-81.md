@@ -43,10 +43,11 @@ version_history:
     changes: []
   - date: '1995-03-31'
     amending: pt:dre:174313:por
-    amending_title: Decreto-Lei n.º 58/95
+    amending_title: Decreto-Lei n.º 58/95; Declaração
     changes:
     - Revoga Artigo 6.º
     - Revoga Artigo 11.º
+    - Retifica Artigo 4
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:37:09Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 58/95. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1981/decreto-lei-180-81.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1981/decreto-lei-180-81.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -180,7 +182,9 @@ O Centro Polivalente do Funchal, adiante designado por Centro, criado pela alín
 
 1 - As actividades a prosseguir pelo Centro serão desenvolvidas por departamentos que constituem unidades distintas, não obstante a existência de órgãos de gestão e de pessoal comuns.
 
-2 - Os departamentos do Centro serão definidos na portaria referida no n.º 4 do artigo 85.º do [Decreto-Lei n.º 506/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1980-462813), de 21 de Outubro.
+2 - Os departamentos do Centro serão definidos na portaria referida no n.º 4 do artigo 35.º do [Decreto-Lei n.º 506/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1980-462813), de 21 de Outubro.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-576340), publicado em 1981-08-13.
 
 ###### Artigo 5.º — (Atribuições)
 

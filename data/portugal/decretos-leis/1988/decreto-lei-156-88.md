@@ -55,9 +55,10 @@ version_history:
     changes: []
   - date: '1989-02-27'
     amending: pt:dre:612416:por
-    amending_title: Decreto-Lei n.º 58/89
+    amending_title: Decreto-Lei n.º 58/89; Declaração
     changes:
     - Altera Artigo 38.º
+    - Retifica Artigo 35
 identifiers:
   celex: null
   eli: null
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:24:48Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 58/89. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-156-88.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-156-88.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -385,9 +387,11 @@ c) Dos auxílios de formação profissional.
 
 ###### Artigo 35.º — Indemnização por cessação do contrato de trabalho
 
-1 - Os montantes apurados como indemnizações ou compensações financeiras nos termos do artigo 18.º são comparticipados pelo Estado Português até a um valor máximo correspondente à participação CECA, prevista no n.º 2 do artigo 3.º da Convenção.
+1 - Os montantes apurados como indemnizações ou compensações financeiras nos termos do artigo 8.º são comparticipados pelo Estado Português até a um valor máximo correspondente à participação CECA, prevista no n.º 2 do artigo 3.º da Convenção.
 
 2 - Sempre que os montantes apurados ultrapassem os valores máximos referidos no número anterior, são da responsabilidade das empresas os encargos financeiros dos quantitativos excedentes.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-239383), publicado em 1988-08-31.
 
 ###### Artigo 36.º — Repartição de encargos
 

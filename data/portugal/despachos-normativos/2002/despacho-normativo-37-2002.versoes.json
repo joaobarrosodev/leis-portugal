@@ -31,13 +31,20 @@
      "title": "Despacho Normativo n.º 33/2004",
      "published": "2004-07-20",
      "dre_path": "/dr/detalhe/despacho-normativo/33-2004-525604"
+    },
+    {
+     "id": "pt:dre:303623:por",
+     "title": "Declaração de Rectificação n.º 26-B/2002",
+     "published": "2002-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/26-b-2002-303623"
     }
    ],
    "changes": [
-    "Adita Artigo depois da unidade 45"
+    "Adita Artigo depois da unidade 45",
+    "Retifica texto"
    ],
    "fragments": [
-    "dac3f020563e9c95",
+    "5875f47a0e035f48",
     "7aec659b148665e8",
     "108e01ffc2983397",
     "2fb2a8e188c8739f",
@@ -121,6 +128,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## ANEXO IV — Incentivo ao contraste leiteiro\n\n[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)](https://files.diariodarepublica.pt/1s/2002/07/149b00/51415142.pdf)"
+  },
+  "5875f47a0e035f48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-07-25",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 26-B/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-b-2002-303623), publicado em 2002-07-31."
+   ],
+   "markdown": "O Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt), do Conselho, de 19 de Dezembro, que estabelece a organização comum de mercados no sector das carnes de ovino e caprinos, prevê, no artigo 11.º, a possibilidade de os Estados-Membros efectuarem anualmente pagamentos complementares aos produtores em função de critérios objectivos estabelecidos a nível nacional.\n\nO Regulamento (CE) n.º [2550/2001](http://data.europa.eu/eli/reg/2001/2550/oj?locale=pt), da Comissão, de 21 de Dezembro, estabelece as normas de execução daquele regulamento.\n\nCompete, agora, a cada Estado-Membro tomar as medidas necessárias e adequadas para assegurar a correcta aplicação do citado regulamento.\n\nPelo que importa agora estabelecer os critérios objectivos segundo os quais serão efectuados os pagamentos complementares aos produtores, bem como as respectivas regras de concessão.\n\nAssim:\n\nAo abrigo do disposto no artigo 19.º do Regulamento (CE) n.º 2550/2001, da Comissão, de 21 de Dezembro, determina-se o seguinte:\n\n> Retificado pelo/a [Declaração de Rectificação n.º 26-B/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-b-2002-303623), publicado em 2002-07-31."
   },
   "ee59d40d1369e337": {
    "fragment_id": null,

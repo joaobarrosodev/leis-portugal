@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '2000-12-29'
     amending: pt:dre:212015:por
-    amending_title: Lei n.º 30-G/2000
+    amending_title: Lei n.º 30-G/2000; Declaração de Rectificação n.º 37/94
     changes:
     - Altera Artigo 2.º
+    - Retifica Artigo 4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/10/1994/01/13/p/dre/pt/html
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:30:03Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 30-G/2000. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-10-94.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-10-94.alteracoes.json. Retificações
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 37/94.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,7 +190,9 @@ As sucursais de instituições de crédito e sociedades financeiras com sede em 
 
 1 - As sucursais ou agências de instituições de crédito ou sociedades financeiras já licenciadas nas zonas francas são classificadas como sucursais financeiras exteriores, salvo se, no prazo de 60 dias, contado a partir da data da entrada em vigor do presente diploma, solicitarem a classificação como sucursal financeira internacional.
 
-2 - A classificação das entidades referidas no número anterior como sucursais financeiras exteriores, designadamente para efeitos de aplicação, relativamente ao exercício de 1993, da alínea c) do artigo 41.º do Estatuto dos Benefícios Fiscais, na redacção que lhe foi dada pelo [Decreto-Lei n.º 84/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1993-634689), de 18 de Março, não é prejudicada pela circunstância de os mesmos terem realizado operações com as entidades referidas nessa disposição até à data da entrada em vigor.
+2 - A classificação das entidades referidas no número anterior como sucursais financeiras exteriores, designadamente para efeitos de aplicação, relativamente ao exercício de 1993, da alínea c) do artigo 41.º do Estatuto dos Benefícios Fiscais, na redacção que lhe foi dada pelo [Decreto-Lei n.º 84/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1993-634689), de 18 de Março, não é prejudicada pela circunstância de os mesmos terem realizado operações com as entidades referidas nessa disposição até à data da sua entrada em vigor.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 37/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/37-1994-197280), publicado em 1994-03-31.
 
 ###### Artigo 5.º
 
