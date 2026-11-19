@@ -59,6 +59,7 @@ version_history:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
     - Altera anexo ou texto fora do articulado
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/434/1994/06/29/p/dre/pt/html
@@ -87,7 +88,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 837/97. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-434-94.alteracoes.json. Anexos e quadros
     de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
-    Portaria n.º 37/95.'
+    Portaria n.º 37/95. Planta trocada pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada
+    às cegas): Portaria n.º 837/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -201,6 +203,6 @@ Assinada em 1 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/013b00/02250226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/206b00/47184718.pdf)
 
 > Alterado pelo/a [Portaria n.º 37/95](https://diariodarepublica.pt/dr/detalhe/portaria/37-1995-146229), publicado em 1995-01-16.

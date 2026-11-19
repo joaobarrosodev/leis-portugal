@@ -58,6 +58,7 @@ version_history:
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/722-d/1992/07/15/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:27:55Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 528/97; Portaria n.º
-    532/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-722-d-92.alteracoes.json'
+    532/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-722-d-92.alteracoes.json.
+    Planta trocada pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria
+    n.º 532/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -214,4 +217,4 @@ Assinada em 1 de Julho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/00170017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1998/08/188b00/40234023.pdf)

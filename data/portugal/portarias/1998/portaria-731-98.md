@@ -57,6 +57,7 @@ version_history:
     amending_title: Portaria n.º 1162/2000
     changes:
     - Altera Artigo unidades 6-6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/731/1998/09/10/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:10:51Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1162/2000. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-731-98.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-731-98.alteracoes.json. Planta
+    trocada pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 1162/2000.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,4 +170,4 @@ Assinada em 20 de Agosto de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/09/209b00/47274728.pdf)
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2000/12/282b00/70117012.pdf)

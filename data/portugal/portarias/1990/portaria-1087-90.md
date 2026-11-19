@@ -58,6 +58,7 @@ version_history:
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera planta
 identifiers:
   celex: null
   eli: null
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:09:08Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 725/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1087-90.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-1087-90.alteracoes.json. Planta trocada
+    pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 725/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -194,4 +196,4 @@ Assinada em 16 de Outubro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/24900/44494449.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/193b00/43754376.pdf)

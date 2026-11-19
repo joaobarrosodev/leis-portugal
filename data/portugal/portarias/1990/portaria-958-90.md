@@ -60,6 +60,7 @@ version_history:
     changes:
     - Altera Artigo unidades 6-6
     - Altera Artigo unidades 12-12
+    - Altera planta
 identifiers:
   celex: null
   eli: null
@@ -86,7 +87,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:34:45Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 963/91; Portaria n.º
-    34/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-958-90.alteracoes.json'
+    34/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-958-90.alteracoes.json.
+    Planta trocada pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria
+    n.º 34/95.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -186,4 +189,4 @@ Assinada em 27 de Setembro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23300/41794179.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/011b00/01980199.pdf)

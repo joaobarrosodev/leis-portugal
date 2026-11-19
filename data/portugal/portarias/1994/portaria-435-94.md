@@ -58,6 +58,7 @@ version_history:
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/435/1994/06/29/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:27:33Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 836/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-435-94.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-435-94.alteracoes.json. Planta trocada pela
+    do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 836/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -185,4 +187,4 @@ Assinada em 1 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/148b00/34313432.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/206b00/47174718.pdf)
