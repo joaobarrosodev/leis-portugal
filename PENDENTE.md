@@ -127,35 +127,23 @@ Os números estão no `rag/README.md`, «Tipos novos».
   como em vigor os artigos repostos depois de revogados (159, entre eles o arrendamento do Código
   Civil). Ver «Modo sem IA» no `rag/README.md`.
 
-## Compostas: mais artigos no contexto do LLM (16/11, em espera)
+## Compostas: mais artigos no contexto do LLM (medido a 19/11; decisão do João)
 
-Os números estão no `rag/README.md`, em «Compostas: o segundo artigo no contexto, só com a pesquisa».
+Os números estão no `rag/README.md`, em «Compostas: 8 contra 16 artigos no contexto, com o LLM e os juízes».
 
-Só com a pesquisa, os dois artigos estão nos 8 primeiros em 67 das 100 compostas e nos 16 primeiros em 78. As
-outras 21 falhas são da pesquisa: o artigo não está nos 30 candidatos que o reranker lê, e um contexto maior
-não o traz.
+- **Medido** com uma só pesquisa por pergunta (índice de 17/11 numa cópia fixa), o LLM e os quatro juízes às cegas. Certas
+  pelos juízes, com 8 e com 16 artigos:
+  - compostas (100): 72 → **79**, com 7 ganhos e 0 perdas; erradas 5 e 5; fiabilidade 94 % nos dois;
+  - premissa errada (50): 45 → 46, com 1 ganho e 0 perdas; mais uma incompleta com 16 (2 contra 1);
+  - sem resposta (80): recusa 79 → 78 (com 16 responde à sem-076).
+- **Recomendação, para o João decidir:** o 16 ganha nas compostas e não piora a premissa errada. Custa o dobro do texto
+  por pergunta (23,4 mil caracteres contra 11,4 mil). Falta medir as reais, que são o tipo principal: uma amostra de 100 com
+  as mesmas regras (`passo_llm exportar --contextos 8,16 --consultas …`). Se as reais não piorarem mais do que 1 em 100, mudar:
+  - `ARTIGOS_NO_CONTEXTO` para 16;
+  - o `k=10` do `avaliar`, do `perguntar` e do `web` para `max(…, ARTIGOS_NO_CONTEXTO)`.
 
-**Por fazer, quando a máquina estiver livre:** medir com o LLM e os quatro juízes um contexto de 8 contra um de 16, no mesmo índice copiado
-para uma pasta fixa. Entram as 100 compostas e a premissa errada, e, se houver tempo, as sem resposta e uma amostra de reais.
-- No `passo_llm`, pesquisar uma só vez para os dois contextos, guardando as consultas. Com o reranker, a pesquisa
-  leva cerca de 1 minuto por pergunta.
-- Se o 16 ganhar sem piorar os outros tipos, mudar:
-  - `ARTIGOS_NO_CONTEXTO`;
-  - o `k=10` do `avaliar`, do `perguntar` e do `web`;
-  - o `[:8]` fixo do `passo_llm importar`.
-- **Em pausa a 19/11, às 03:25 (uso semanal a 91 %; retomar depois de 23/11 às 4h UTC).** Feito e no main: o `passo_llm`
-  com `--contextos 8,16`, `--contexto N` e `--consultas PASTA` (uma pesquisa para os dois contextos, com retoma), e a
-  parte 1, medida com o LLM e os quatro juízes às cegas (`rag/resultados/cmp1-ctx*.json`, `sem1-ctx*.json`):
-  - compostas, 30 (cmp-001 a cmp-035): 24 certas com 8 artigos e 25 com 16 (1 ganho, 0 perdas; dentro do ruído);
-  - sem resposta, 31: recusa as 31 nos dois contextos.
-
-  **Para retomar**, no worktree `claude/compostas-llm-5dbb28`:
-  - as consultas estão em `rag/resultados/privado/compostas-consultas/` (fora do git), sobre a cópia do índice de 17/11
-    em `rag/indice/indice.sqlite` do worktree. Ficaram dois processos a pesquisar o resto; se pararem, o mesmo comando retoma;
-  - fazer as partes seguintes com as perguntas já pesquisadas (as compostas a partir da cmp-036, as sem resposta a partir da
-    sem-032 e as 50 de premissa errada): `exportar --contextos 8,16 --consultas … --perguntas <parte>.jsonl`, um subagente por
-    lote, `importar --contexto N`, `rag.juiz exportar/importar` por pasta e contexto;
-  - no fim, apagar a cópia do índice.
+  O `passo_llm` já pesquisa com `k=max(10, contexto)` e lê as citações sobre o contexto dado (`--contexto`).
+- **Por medir:** a variação do LLM e dos juízes de uma corrida para outra (só se fez uma por contexto).
 - **À parte, para a pesquisa:** ~~subir o `maximo` do reranker~~. Medido a 19/11: com 50 candidatos, as compostas com
   os artigos nos 10 primeiros vão de 64 para 61, e as certas no total descem de 614 para 608. Fica 30 (`rag/README.md`,
   «Candidatos ao reranker e pesquisa semântica»).

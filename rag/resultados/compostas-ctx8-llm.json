@@ -1,0 +1,65 @@
+{
+ "configuracao": {
+  "reranker": "cruzado",
+  "limiar": 1.0,
+  "llm": "sessão do Claude",
+  "contexto": 8,
+  "indice": "uso de 17/11 (cópia fixa)",
+  "reescrita": "reescrita2"
+ },
+ "resumo": {
+  "composta": {
+   "n": 100,
+   "nao_sei": 23,
+   "respondidas": 77,
+   "certas": 49,
+   "artigo@1": 0,
+   "texto@1": 0,
+   "artigo@5": 57,
+   "texto@5": 57,
+   "artigo@10": 71,
+   "texto@10": 71,
+   "com_fonte": 100
+  },
+  "premissa_errada": {
+   "n": 50,
+   "nao_sei": 4,
+   "respondidas": 46,
+   "certas": 26,
+   "artigo@1": 35,
+   "texto@1": 35,
+   "artigo@5": 45,
+   "texto@5": 45,
+   "artigo@10": 47,
+   "texto@10": 47,
+   "com_fonte": 50
+  },
+  "sem_resposta": {
+   "n": 80,
+   "nao_sei": 79,
+   "respondidas": 1,
+   "certas": 0,
+   "certas_nao_sei": 79,
+   "artigo@1": 0,
+   "texto@1": 0,
+   "artigo@5": 0,
+   "texto@5": 0,
+   "artigo@10": 0,
+   "texto@10": 0,
+   "com_fonte": 0
+  },
+  "total": {
+   "n": 230,
+   "nao_sei": 106,
+   "respondidas": 124,
+   "certas": 75,
+   "artigo@1": 35,
+   "texto@1": 35,
+   "artigo@5": 102,
+   "texto@5": 102,
+   "artigo@10": 118,
+   "texto@10": 118,
+   "com_fonte": 150
+  }
+ }
+}

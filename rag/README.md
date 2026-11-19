@@ -708,6 +708,39 @@ A lista de `Pesquisa.codigos_principais()` no índice de uso de 16/11, revista �
 - **Estado (19/11, em pausa por falta de uso do plano):** 208 dos 327 lotes gerados e validados, 7.260 artigos e 26.863 perguntas em `rag/perguntas_artigo/` (3 a 5 por artigo, cerca de 3,7 em média). Faltam 119 lotes, dos códigos depois da LTFP; como retomar está no `PENDENTE.md`, secção 6.
 - `exportar --so-sem-perguntas` exporta só os artigos que ainda não têm perguntas. `estado --pasta P` diz que lotes já estão validados, para retomar depois de um corte. O `importar` só reescreve os blocos que vêm na pasta e guarda as linhas que já lá estavam.
 
+**Compostas: 8 contra 16 artigos no contexto, com o LLM e os juízes** (19/11/2026). Mediram-se as 100 compostas, as 50 de premissa errada e as 80 sem resposta:
+- **Pesquisa:** uma só por pergunta, no índice de uso de 17/11 numa cópia fixa, com as consultas reescritas de `reescrita2`, o reranker cruzado com 30 candidatos e o limiar 1. O LLM recebe os 8 ou os 16 primeiros artigos da mesma consulta (`passo_llm exportar --contextos 8,16 --consultas PASTA`). Assim, o ruído do reranker não entra na comparação.
+- **LLM:** um subagente Opus por lote e por contexto, que só lê a entrada.
+- **Juízes:** quatro, às cegas (a, b, c e s). Uma resposta é certa só se os quatro a dão como correta e fundamentada.
+- **Resumos:** `rag/resultados/compostas-ctx8-*.json`, `compostas-ctx16-*.json` e `compostas-ctx-comparacao.json`.
+
+| Tipo | n | Contexto | Respondidas | "Não sei" | Certas (juízes) | Fiabilidade | Limite inferior 95% |
+|---|--:|--:|--:|--:|--:|--:|--:|
+| Compostas | 100 | 8 | 77 | 23% | 72 | 94% (72/77) | 86% |
+| | | 16 | 84 | 16% | **79** | 94% (79/84) | 87% |
+| Premissa errada | 50 | 8 | 46 | 8% | 45 | 98% (45/46) | 89% |
+| | | 16 | 48 | 4% | 46 | 96% (46/48) | 86% |
+| Sem resposta | 80 | 8 | 1 | 99% | — | recusa 79 de 80 | — |
+| | | 16 | 2 | 98% | — | recusa 78 de 80 | — |
+
+Pergunta a pergunta:
+- **Compostas: 7 ganhos e 0 perdas.**
+  - Em 6 dos ganhos, o segundo artigo está entre o 9.º e o 16.º lugar (cmp-030, 069, 070, 073, 076 e 087). Com 8 artigos, o LLM dizia que faltava a norma ou citava o texto original; com 16, responde certo. É o efeito que se queria medir.
+  - O 7.º ganho (cmp-052) tem os dois artigos nos 3 primeiros e passou de errada a certa: é variação do LLM.
+  - As não certas ficam em 5 nos dois. Dois "não sei" passam a respostas incompletas (cmp-064 e 085, com um dos artigos fora dos 16), e uma incompleta passa a "não sei" (cmp-089).
+- **Premissa errada: igual.** Há 1 ganho (pre-010, com o artigo em 11.º). Um "não sei" passa a incompleta (pre-025, com o artigo em 14.º).
+- **Sem resposta:** com 16, responde a mais uma, a sem-076 (atrasos dos comboios no DL 58/2008, que traz a resposta). É uma das perguntas escritas antes de a UE e os consolidados estarem no acervo.
+- **Os dois artigos estão nos 8 primeiros em 67 compostas e nos 16 primeiros em 78**, como na medição só com a pesquisa.
+
+**Custo.** O prompt passa de 11,4 mil para 23,4 mil caracteres em média (2,0 vezes). Um subagente que responde a um lote de 10 compostas gastou cerca de 130 mil tokens com 8 artigos e cerca de 190 mil com 16. Os juízes também leem os artigos, por isso o custo deles sobe na mesma proporção.
+
+**Ressalvas:**
+- Fez-se uma corrida por contexto, por isso a variação do LLM e dos juízes não foi medida. 7 ganhos e 0 perdas, 6 deles explicados pelo segundo artigo, é sinal, mas o número está perto das ~8 perguntas de ruído entre variantes da pesquisa.
+- O LLM e os juízes são o mesmo modelo, e não houve revisão de um jurista.
+- As reais não foram medidas. São o tipo principal e é nelas que um contexto maior pode distrair.
+
+**Recomendação, para o João decidir:** o contexto de 16 ganha 7 compostas certas sem perder nenhuma e sem baixar a fiabilidade. Não piora a premissa errada e responde a mais uma das 80 sem resposta. O custo é o dobro de texto por pergunta. Antes de mudar, convém medir uma amostra de 100 reais da mesma maneira. Se não piorarem mais do que 1 em 100, passa-se `ARTIGOS_NO_CONTEXTO` para 16 e o `k` do `avaliar`, do `perguntar` e do `web` para pelo menos 16. Por agora fica 8.
+
 ## Candidatos ao reranker e pesquisa semântica (19/11/2026)
 
 As 1.298 perguntas no índice de 17/11, com `--reranker cruzado --limiar 3`, sem LLM. Resumos em `rag/resultados/max15-1711.json`, `max30-1711.json`, `max50-1711.json`, `sem1711-com.json` e `sem1711-sem.json`.
