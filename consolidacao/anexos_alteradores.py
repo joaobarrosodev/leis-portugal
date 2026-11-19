@@ -156,14 +156,52 @@ def _ordem(c: dict) -> list[str]:
     return [a["id"] for a in sorted(c["alteradores"].values(), key=lambda a: (a.get("ordem") or "", a["id"]))]
 
 
-def verificacao() -> None:
-    """Uma entrada por (consolidado, alterador) com trocas, encadeadas pela ordem de data."""
+def _da_ronda(ronda: str) -> set[tuple[str, str]]:
+    pares = set()
+    for f in sorted(LLM.glob(f"resposta-{ronda}-*.jsonl")):
+        for linha in f.read_text(encoding="utf-8").splitlines():
+            if linha.strip():
+                d = json.loads(linha)
+                pares |= {(d["id"], r["alterador"]) for r in d.get("alteradores", [])}
+    return pares
+
+
+def _certos(sufixo: str = "") -> set[tuple[str, str]]:
+    entrada_v = LLM / f"verificacao-entrada{sufixo}.jsonl"
+    saida = LLM / f"verificacao-saida{sufixo}.jsonl"
+    if not saida.exists():
+        return set()
+    itens = {json.loads(l)["n"]: json.loads(l) for l in entrada_v.read_text(encoding="utf-8").splitlines() if l.strip()}
+    certos = set()
+    for linha in saida.read_text(encoding="utf-8").splitlines():
+        if linha.strip():
+            v = json.loads(linha)
+            if v["veredicto"] == "certo":
+                certos.add((itens[v["n"]]["id"], itens[v["n"]]["alterador_id"]))
+    return certos
+
+
+def verificacao(ronda: str | None = None) -> None:
+    """Uma entrada por (consolidado, alterador) com trocas, encadeadas pela ordem de data. Numa
+    ronda seguinte (`--ronda r2`), só os pares respondidos nessa ronda; os outros do mesmo
+    consolidado que já passaram encadeiam-se antes, como no `aplicar`."""
     resp, cands, itens = respostas(), candidatos(), []
+    da_ronda = _da_ronda(ronda) if ronda else None
+    ja_certos = _certos() if ronda else set()
     for id_, c in sorted(cands.items()):
         linhas = corpo((RAIZ / c["caminho"]).read_text(encoding="utf-8")).split("\n")
         for alt in _ordem(c):
             r = resp.get((id_, alt))
             if not r or not r.get("trocas"):
+                continue
+            if da_ronda is not None and (id_, alt) not in da_ronda:
+                if (id_, alt) in ja_certos:
+                    try:
+                        copia = list(linhas)
+                        rl.trocar(copia, encadear(linhas, r["trocas"]))
+                        linhas = copia
+                    except rl.Recusa:
+                        pass
                 continue
             copia = list(linhas)
             try:
@@ -181,7 +219,7 @@ def verificacao() -> None:
                 "nao_aplicadas": r.get("nao_aplicadas", []),
             })
             linhas = copia
-    (LLM / "verificacao-entrada.jsonl").write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens), encoding="utf-8")
+    (LLM / (f"verificacao-entrada-{ronda}.jsonl" if ronda else "verificacao-entrada.jsonl")).write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens), encoding="utf-8")
     print(f"{len(itens)} pares com trocas para a verificação às cegas")
 
 
@@ -192,14 +230,11 @@ def _nota(meta: dict) -> str:
 
 
 def aplicar(dry_run: bool) -> None:
-    saida = LLM / "verificacao-saida.jsonl"
-    entrada_v = {json.loads(l)["n"]: json.loads(l) for l in (LLM / "verificacao-entrada.jsonl").read_text(encoding="utf-8").splitlines() if l.strip()}
-    certos = set()
-    for linha in saida.read_text(encoding="utf-8").splitlines():
-        if linha.strip():
-            v = json.loads(linha)
-            if v["veredicto"] == "certo":
-                certos.add((entrada_v[v["n"]]["id"], entrada_v[v["n"]]["alterador_id"]))
+    # As certas da 1.ª ronda e das seguintes (verificacao-saida-<ronda>.jsonl); a resposta que conta
+    # é a mais recente, que é a que a sua ronda verificou.
+    certos = _certos()
+    for f in sorted(LLM.glob("verificacao-saida-r*.jsonl")):
+        certos |= _certos("-" + f.stem.split("-", 2)[2])
     resp, cands = respostas(), candidatos()
     acervo = Acervo(RAIZ)
     feitos, recusadas, n = [], [], 0
@@ -273,12 +308,70 @@ def aplicar(dry_run: bool) -> None:
         print("  ", r)
 
 
+ESTADO = PASTA / "auditoria" / "anexos-estado.jsonl"
+
+
+def _veredictos() -> dict[tuple[str, str], dict]:
+    """O veredicto mais recente de cada par, de todas as rondas."""
+    resultado = {}
+    for sufixo in [""] + sorted("-" + f.stem.split("-", 2)[2] for f in LLM.glob("verificacao-saida-r*.jsonl")):
+        entrada_v, saida = LLM / f"verificacao-entrada{sufixo}.jsonl", LLM / f"verificacao-saida{sufixo}.jsonl"
+        if not saida.exists():
+            continue
+        itens = {json.loads(l)["n"]: json.loads(l) for l in entrada_v.read_text(encoding="utf-8").splitlines() if l.strip()}
+        for linha in saida.read_text(encoding="utf-8").splitlines():
+            if linha.strip():
+                v = json.loads(linha)
+                resultado[(itens[v["n"]]["id"], itens[v["n"]]["alterador_id"])] = v
+    return resultado
+
+
+def estado() -> None:
+    """Cada par (consolidado, alterador candidato) acaba aplicado ou com o motivo, em
+    `auditoria/anexos-estado.jsonl`. Um par que a verificação às cegas não deu `certo` não se
+    aplica (na dúvida, não se aplica), e o motivo é o do verificador."""
+    resp, cands, vered = respostas(), candidatos(), _veredictos()
+    aplicados = set()
+    if APLICADOS.exists():
+        for linha in APLICADOS.read_text(encoding="utf-8").splitlines():
+            if linha.strip():
+                d = json.loads(linha)
+                aplicados |= {(d["id"], a["alterador"]) for a in d["alteradores"]}
+    linhas, contas = [], defaultdict(int)
+    for id_, c in sorted(cands.items()):
+        for alt in _ordem(c):
+            r, a = resp.get((id_, alt)), c["alteradores"][alt]
+            base = {"id": id_, "titulo": c["selecao"]["title"], "alterador": alt, "alterador_titulo": a["title"]}
+            nao = (r or {}).get("nao_aplicadas", [])
+            if (id_, alt) in aplicados:
+                linha = base | {"estado": "aplicado", "por_aplicar": nao}
+            elif r and r.get("trocas"):
+                v = vered.get((id_, alt), {})
+                linha = base | {"estado": "não se aplica", "motivo": f"a verificação às cegas deu «{v.get('veredicto', 'sem veredicto')}»: {v.get('motivo', '')}", "por_aplicar": nao}
+            elif r:
+                linha = base | {"estado": "não se aplica", "motivo": "; ".join(f"{n['motivo']}: {n['instrucao']}" for n in nao)[:600]}
+            else:
+                linha = base | {"estado": "sem resposta"}
+            linhas.append(linha)
+            contas[linha["estado"]] += 1
+    ESTADO.write_text("".join(json.dumps(l, ensure_ascii=False) + "\n" for l in linhas), encoding="utf-8")
+    print(dict(contas), "| por ver:", contas.get("sem resposta", 0))
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    parser.add_argument("passo", choices=["entrada", "verificacao", "aplicar"])
+    parser.add_argument("passo", choices=["entrada", "verificacao", "aplicar", "estado"])
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument("--ronda", help="com verificacao: só os pares respondidos nessa ronda (r2, …)")
     args = parser.parse_args(argv)
-    {"entrada": entrada, "verificacao": verificacao}.get(args.passo, lambda: aplicar(args.dry_run))()
+    if args.passo == "entrada":
+        entrada()
+    elif args.passo == "verificacao":
+        verificacao(args.ronda)
+    elif args.passo == "estado":
+        estado()
+    else:
+        aplicar(args.dry_run)
     return 0
 
 

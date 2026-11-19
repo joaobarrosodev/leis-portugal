@@ -19,3 +19,9 @@ Para cada item, decide se as mudanças aplicam corretamente o alterador a este c
 Veredicto por item: `certo`, `errado` (diz qual mudança e porquê) ou `duvida` (diz porquê). Na dúvida, `duvida`.
 
 Saída: `verificacao-saida-K.jsonl`, na mesma pasta, uma linha por item: `{"n": <n>, "veredicto": "certo|errado|duvida", "motivo": "<uma frase>"}`. Usa o `n` do item. Lê o ficheiro com python, um item de cada vez.
+
+## Ronda r2 (`verificacao-entrada-r2.jsonl`)
+
+São quatro pares refeitos depois do reparo da 1.ª ronda. Quando a imagem do alterador traz os quadros de vários serviços, ela passa a ir a seguir ao quadro, sem apagar o antigo. As regras de cima valem. Uma `nao_aplicada` com «já aplicada» só é certa se o motivo diz onde se vê: a nota no consolidado ou o texto do alterador.
+
+Saída: `verificacao-saida-r2.jsonl` (ou `-r3`, na ronda r3, com as mesmas regras).
