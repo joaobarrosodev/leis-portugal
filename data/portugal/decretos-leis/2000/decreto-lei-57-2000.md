@@ -40,10 +40,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-04-17'
+version_history:
+  file: decreto-lei-57-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-04-17'
+    amending: pt:dre:303189:por
+    amending_title: Decreto-Lei n.º 93/2002
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 22.º
+    - Altera Artigo ANEXO VI — Especificações geométricas mínimas a que se refere o artigo 22.º, n.º 5
+    - Altera Artigo ANEXO VIII
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/57/2000/04/18/p/dre/pt/html
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:22:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 93/2002. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-57-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +159,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Âmbito de aplicação
 
-O presente diploma aplica-se às portas dos automóveis das categorias M(índice 1) e N(índice 1) conforme definidas na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, adiante designado, abreviadamente, Regulamento da Homologação CE.
+O presente diploma aplica-se às portas dos automóveis das categorias M(índice 1) e N, conforme definidas na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, adiante designado, abreviadamente, por Regulamento da Homologação CE.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12.
 
 ###### Artigo 2.º — Definições
 
@@ -307,13 +327,17 @@ Requisitos relativos ao acesso às portas do habitáculo do condutor e à respec
 
 4 - A distância (B) entre as superfícies superiores do ou dos degraus não deve ser superior a 400 mm e a distância vertical entre dois degraus seguidos não deve variar mais de 50 mm, podendo este valor ser aumentado para 100 mm no que respeita aos veículos fora de estrada.
 
-5 - Devem, ainda, ser satisfeitas as especificações geométricas mínimas referidas no anexo VI do presente diploma, que dele faz parte integrante.
+5 - O requisito relativo à distância vertical entre dois degraus seguidos não se aplica à distância entre o degrau mais alto e o piso do habitáculo do condutor.
 
-6 - O degrau mais baixo pode ser concebido como um varão se tal for necessário por razões relacionadas com a construção ou utilização e ainda nos veículos fora de estrada, não podendo a profundidade do varão (R) ser inferior a 20 mm, não sendo admitidos varões de secção transversal redonda.
+6 - Devem, ainda, ser satisfeitas as especificações geométricas mínimas referidas no anexo VI do presente diploma, que dele faz parte integrante.
 
-7 - Ao sair do habitáculo do condutor, a posição do degrau mais acima deve ser encontrada com facilidade.
+7 - O degrau mais baixo pode ser concebido como um varão se tal for necessário por razões relacionadas com a construção ou utilização e ainda nos veículos fora de estrada, não podendo a profundidade do varão (R) ser inferior a 20 mm, não sendo admitidos varões de secção transversal redonda.
 
-8 - A superfície superior dos degraus não pode ser escorregadia, devendo os degraus expostos ao tempo e à sujidade, durante a condução, ter uma capacidade de escoamento adequada, através de uma superfície drenante.
+8 - Ao sair do habitáculo do condutor, a posição do degrau mais acima deve ser encontrada com facilidade.
+
+9 - A superfície superior dos degraus não pode ser escorregadia, devendo os degraus expostos ao tempo e à sujidade, durante a condução, ter uma capacidade de escoamento adequada, através de uma superfície drenante.
+
+> Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12.
 
 ###### Artigo 23.º — Acesso a pegas para o habitáculo do condutor
 
@@ -605,9 +629,11 @@ ii) A carga transversal prescrita, perpendicularmente ao plano definido pela car
 
 6 - Desalinhamento transversal entre degraus (H) - 0 mm.
 
-7 - Sobreposição longitudinal (J) - 200 mm.
+7 - Sobreposição longitudinal (J) entre dois degraus seguidos do mesmo lanço, ou entre o degrau mais alto e o piso do habitáculo do condutor - 200 mm.
 
 (nota *) Nos veículos fora de estrada, o valor F pode ser reduzido para 200 mm.
+
+> Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12.
 
 ## ANEXO VII — Características dos corrimões, pegas (ver nota *) e outros dispositivos equivalentes para acesso ao habitáculo do condutor
 
@@ -623,11 +649,13 @@ ii) A carga transversal prescrita, perpendicularmente ao plano definido pela car
 
 ## ANEXO VIII
 
-Distância mínima (P) da aresta superior do ou dos corrimões, pegas ou dispositivos equivalentes, a partir do degrau mais alto, piso do habitáculo do condutor.
+Distância mínima (P) entre a aresta superior do ou dos corrimãos, das pegas ou de dispositivos equivalentes e o piso do habitáculo do condutor.
 
 1 - A do ou dos corrimões, pegas ou dispositivos equivalentes (U) - 650 mm.
 
 2 - A do ou dos corrimões, pegas ou dispositivos equivalentes (V) - 550 mm.
+
+> Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12.
 
 ## ANEXO IX — Especificações geométricas a que se refere o artigo 23.º, n.º 4
 

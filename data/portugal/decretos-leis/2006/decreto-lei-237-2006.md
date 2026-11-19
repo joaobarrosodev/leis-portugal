@@ -41,10 +41,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-10-25'
+version_history:
+  file: decreto-lei-237-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-25'
+    amending: pt:dre:610216:por
+    amending_title: Decreto-Lei n.º 11/2010; Decreto-Lei n.º 148/2013
+    changes:
+    - Revoga Artigo 39.º
+    - Altera Artigo ANEXO I — (referente ao n.º 1 do artigo 6.º, n.º 1 do artigo 15.º e artigos 29.º e 30.º)
+    - Altera Artigo ANEXO XIV — (referente aos n.os 10 e 11 do artigo 6.º)
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/237/2006/12/14/p/dre/pt/html
@@ -70,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:54:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 11/2010; Decreto-Lei
+    n.º 148/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2006/decreto-lei-237-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -605,11 +622,9 @@ Os métodos de ensaio da imunidade dos subconjuntos eléctricos/electrónicos a 
 
 ###### Artigo 39.º — Período de transição
 
-1 - Durante um período de transição de quatro anos após a entrada em vigor do presente decreto-lei, o responsável pela introdução dos componentes eléctricos e electrónicos no mercado deve apresentar todas as informações do relatório dos ensaios e uma amostra do componente ensaiado a um serviço técnico que determina, no prazo de três semanas, se o equipamento está, ou não, relacionado com a imunidade, não devendo ser exigidos mais ensaios.
+(Revogado.)
 
-2 - O serviço técnico deve proceder, dentro do mesmo prazo, à emissão de um documento de acordo com o modelo constante do anexo XIV do presente decreto-lei.
-
-3 - No prazo de três anos a contar da entrada em vigor do presente decreto-lei, a Direcção-Geral de Viação deve comunicar à Comissão Europeia todos os casos de recusa de concessão de homologação por razões de segurança.
+> Revogado pelo/a [Decreto-Lei n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2010-610216), publicado em 2010-02-12.
 
 ###### Artigo 40.º — Produção de efeitos
 
@@ -659,9 +674,9 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
-2 - Todos os SCE conformes com um tipo aprovado ao abrigo do presente decreto-lei devem ostentar uma marca de homologação CE.
+2 - Todos os SCE conformes com um tipo aprovado ao abrigo do presente decreto-lei devem apresentar uma marca de homologação CE.
 
-A marca de homologação CE consiste num rectângulo envolvendo a letra minúscula «e», seguida do número distintivo do Estado-membro que concedeu a homologação CE do componente:
+A marca de homologação CE consiste num rectângulo envolvendo a letra minúscula «e», seguida do número distintivo do Estado membro que concedeu a homologação CE do componente:
 
 1 - Alemanha;
 
@@ -691,6 +706,8 @@ A marca de homologação CE consiste num rectângulo envolvendo a letra minúscu
 
 18 - Dinamarca;
 
+19 - Roménia;
+
 20 - Polónia;
 
 21 - Portugal;
@@ -698,6 +715,8 @@ A marca de homologação CE consiste num rectângulo envolvendo a letra minúscu
 23 - Grécia;
 
 24 - Irlanda;
+
+25 - Croácia;
 
 26 - Eslovénia;
 
@@ -707,13 +726,15 @@ A marca de homologação CE consiste num rectângulo envolvendo a letra minúscu
 
 32 - Letónia;
 
+34 - Bulgária;
+
 36 - Lituânia;
 
-49 - Chipre:
+49 - Chipre;
 
 50 - Malta.
 
-Na proximidade do rectângulo, o «número de homologação de base» incluído na secção 4 do número de homologação referido no anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a última alteração introduzida pelo Decreto-Lei n.º 178/2005, de 28 de Outubro, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa do presente decreto-lei. O número sequencial da alteração e o número de homologação do componente que figuram no certificado serão separados por um asterisco. O número sequencial correspondente ao presente decreto-lei é 03.
+Na proximidade do rectângulo, o «número de homologação de base» incluído na secção 4 do número de homologação referido no anexo vii do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, alterado pelo Decreto-Lei n.º 135/2008, de 21 de Julho, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa do presente decreto-lei. O número sequencial da alteração e o número de homologação do componente que figuram no certificado são separados por um asterisco. O número sequencial correspondente ao presente decreto-lei é 03.
 
 3 - O ensaio com vista à determinação da imunidade do SCE representativo do tipo deve ser efectuado pelos métodos de acordo com a norma ISO 7637-2: DIS2002, conforme descrito no anexo XXI, com os níveis de ensaio apresentados no seguinte quadro:
 
@@ -730,6 +751,8 @@ Quadro 2
 Amplitude máxima de impulsos autorizada
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
 
 ## ANEXO II — Lista de normas referidas no presente decreto-lei
 
@@ -1219,31 +1242,9 @@ Apêndice ao certificado de homologação CE n.º ... relativo à homologação 
 
 ## ANEXO XIV — (referente aos n.os 10 e 11 do artigo 6.º)
 
-MODELO
+(Revogado.)
 
-[formato máximo: A4 (210 x 297 mm)]
-
-DE COMPROVAÇÃO RESPEITANTE AOS N.OS 10 E 11 DO ARTIGO 6.º
-
-Requerente:
-
-Descrição geral do produto: ...
-
-Informações apresentadas pelo requerente: ...
-
-Este SCE pode ser utilizado em qualquer tipo de veículo com as seguintes condições: ...
-
-Condições de instalação, se existirem: ...
-
-Confirmamos que o produto descrito supra não está relacionado com imunidade de acordo com a Directiva [72/245/CE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt)[72/245/CEE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva [2005/83/CE](https://data.europa.eu/eli/dir/2005/83/oj?locale=pt). Não são exigidos nenhuns ensaios referentes à imunidade conforme definido no presente decreto-lei.
-
-Serviço técnico responsável pela avaliação: ...
-
-Local: ...
-
-Data: ...
-
-Assinatura: ...
+> Alterado pelo/a [Decreto-Lei n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2010-610216), publicado em 2010-02-12.
 
 ## ANEXO XV — (referente aos artigos 17.º e 18.º)
 

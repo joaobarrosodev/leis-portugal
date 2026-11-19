@@ -1,0 +1,509 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:522391:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1840deec39f37bce",
+    "ce861aef94ea6982",
+    "615b266dd5beb851",
+    "05319658664f320f",
+    "9079642412d32164",
+    "d9ff9f3d25b515f8",
+    "5e096f32c7eeb6a8",
+    "a6517b6c368a3ce6",
+    "4898f96b18175878",
+    "326d2291dbd2bc26",
+    "a9ffe57c5a384372",
+    "63a624acd8154805",
+    "143f512ccd262eb0",
+    "58aff899d6faf55e",
+    "63abdb701b3a8c80",
+    "c2d435658889db78",
+    "b6ff79006717563e",
+    "e597bd82177617fa",
+    "46ca510905856eb3",
+    "52c6d6853b0b7a01",
+    "3f0340f399c5dd58",
+    "875541ce9769a43d",
+    "a000a99f9d306d2e",
+    "26976eeedc41df81",
+    "121cbc9885b352b5",
+    "c93e87e59887e665",
+    "3b5b06e759bf4d2f",
+    "18de8f398a15b3db",
+    "e5f7bf59072b63c9",
+    "c7bd5582844dff4b",
+    "7cedb0032dfb0124",
+    "2e5a95d159df48e6",
+    "a5b4bf7cfdd548ff",
+    "6f5bb7531e2ae736",
+    "15b01a463527476f",
+    "288b44295502b059",
+    "620cac8caa440b8f",
+    "4e69c71a1f8f6422",
+    "a00a800b40b575c4",
+    "93daa70d714c8820",
+    "77ded0cc0b7aeaef",
+    "3aaa3bbe71eb8f93",
+    "ee74e2c20af81620"
+   ]
+  },
+  {
+   "date": "2002-04-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:303189:por",
+     "title": "Decreto-Lei n.º 93/2002",
+     "published": "2002-04-12",
+     "dre_path": "/dr/detalhe/decreto-lei/93-2002-303189"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo ANEXO VI — Especificações geométricas mínimas a que se refere o artigo 22.º, n.º 5",
+    "Altera Artigo ANEXO VIII"
+   ],
+   "fragments": [
+    "1840deec39f37bce",
+    "ce861aef94ea6982",
+    "3b56e31fa92a450b",
+    "05319658664f320f",
+    "9079642412d32164",
+    "d9ff9f3d25b515f8",
+    "5e096f32c7eeb6a8",
+    "a6517b6c368a3ce6",
+    "4898f96b18175878",
+    "326d2291dbd2bc26",
+    "a9ffe57c5a384372",
+    "63a624acd8154805",
+    "143f512ccd262eb0",
+    "58aff899d6faf55e",
+    "63abdb701b3a8c80",
+    "c2d435658889db78",
+    "b6ff79006717563e",
+    "e597bd82177617fa",
+    "46ca510905856eb3",
+    "52c6d6853b0b7a01",
+    "3f0340f399c5dd58",
+    "875541ce9769a43d",
+    "a000a99f9d306d2e",
+    "26976eeedc41df81",
+    "121cbc9885b352b5",
+    "c93e87e59887e665",
+    "0f8555e292e8e8a3",
+    "18de8f398a15b3db",
+    "e5f7bf59072b63c9",
+    "c7bd5582844dff4b",
+    "7cedb0032dfb0124",
+    "2e5a95d159df48e6",
+    "a5b4bf7cfdd548ff",
+    "6f5bb7531e2ae736",
+    "15b01a463527476f",
+    "288b44295502b059",
+    "620cac8caa440b8f",
+    "4e69c71a1f8f6422",
+    "a00a800b40b575c4",
+    "32d635314a805fd2",
+    "77ded0cc0b7aeaef",
+    "a3beb66879d3ff49",
+    "ee74e2c20af81620"
+   ]
+  }
+ ],
+ "fragments": {
+  "1840deec39f37bce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Abril\n\nO Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas veio harmonizar o controlo das prescrições técnicas aplicáveis a cada um dos elementos e características do veículo, bem como harmonizar o processo de homologação comunitária de acordo com o estabelecido na Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt), do Conselho, de 6 de Fevereiro. Este processo destina-se a permitir aos fabricantes a emissão de um certificado de conformidade para todos os veículos em conformidade com o modelo homologado.\n\nA Directiva n.º [70/387/CEE](https://data.europa.eu/eli/dir/1970/387/oj?locale=pt), do Conselho, de 27 de Julho, relativa às portas dos veículos a motor e seus reboques, é uma das directivas específicas do processo de homologação CE estabelecido na Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt), do Conselho, de 6 de Fevereiro.\n\nCom a emissão do presente diploma, pretende-se transpor para a ordem jurídica nacional a Directiva n.º [98/90/CE](https://data.europa.eu/eli/dir/1998/90/oj?locale=pt), da Comissão, de 30 de Novembro, que veio adaptar ao progresso técnico a referida Directiva n.º [70/387/CEE](https://data.europa.eu/eli/dir/1970/387/oj?locale=pt). Ao concretizar-se esta transposição, pretende-se, assim, no quadro integrado da União Europeia, adaptar a regulamentação relativa às portas dos automóveis e reboques à evolução tecnológica, visando-se simultaneamente alcançar a melhoria da segurança dos passageiros de alguns veículos pesados de mercadorias.\n\nAo transpor-se para a ordem jurídica nacional a referida Directiva n.º [98/90/CE](https://data.europa.eu/eli/dir/1998/90/oj?locale=pt), publica-se na íntegra o texto da Directiva n.º [70/387/CEE](https://data.europa.eu/eli/dir/1970/387/oj?locale=pt), do Conselho, de 27 de Julho, na redacção introduzida pela directiva ora transposta.\n\nNo presente diploma procede-se ainda à regulamentação do n.º 3 do artigo 114.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, com as alterações introduzidas pelo Decreto-Lei n.º 2/98, de 3 de Janeiro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "ce861aef94ea6982": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Âmbito e definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito e definições"
+  },
+  "615b266dd5beb851": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente diploma aplica-se às portas dos automóveis das categorias M(índice 1) e N(índice 1) conforme definidas na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, adiante designado, abreviadamente, Regulamento da Homologação CE."
+  },
+  "05319658664f320f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente diploma, entende-se por:\n\n1) Veículo: automóvel destinado a circular na via pública que tenha, pelo menos, quatro rodas e uma velocidade máxima, por construção, superior a 25 km/h, bem como os seus reboques, excluídos os veículos de transportes colectivos, os veículos que se deslocam sobre carris, os tractores agrícolas e florestais e todas as máquinas rodoviárias;\n\n2) Homologação de um veículo: a homologação de um modelo de veículo no que diz respeito às portas e às características que lhe são aplicáveis;\n\n3) Modelo de veículo: veículos que não diferem essencialmente entre si no que diz respeito às características principais, desde que estas características tenham relação com os requisitos do presente diploma e que são os seguintes:\n\na) Projecto e características de resistência dos fechos e das dobradiças no que diz respeito aos veículos mencionados no capítulo III do presente diploma;\n\nb) Requisitos de construção e de montagem dos estribos e dos degraus no que diz respeito aos veículos não abrangidos pelo capítulo IV do presente diploma;\n\nc) Posição e características geométricas dos degraus de acesso e das pegas no que diz respeito aos veículos mencionados no capítulo IV do presente diploma."
+  },
+  "9079642412d32164": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Homologação"
+  },
+  "d9ff9f3d25b515f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Concessão de homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Concessão de homologação\n\nA Direcção-Geral de Viação concede a homologação CE e a homologação de âmbito nacional aos modelos de veículos, bem como a respectiva matrícula, desde que sejam cumpridos os requisitos estabelecidos no presente diploma no que respeita às portas."
+  },
+  "5e096f32c7eeb6a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos gerais\n\n1 - As características do veículo devem permitir entrar e sair deste com perfeita segurança.\n\n2 - Considera-se que os veículos da categoria N(índice 2) de massa máxima superior a 7,5 t e N(índice 3) satisfazem o requisito acima mencionado se observarem as prescrições do capítulo IV do presente diploma."
+  },
+  "a6517b6c368a3ce6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Requisitos gerais das portas, entradas e saídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos gerais das portas, entradas e saídas\n\nAs portas, entradas e saídas devem ser concebidas de modo que possam ser utilizadas facilmente e sem perigo."
+  },
+  "4898f96b18175878": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Requisitos gerais das portas e fechos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos gerais das portas e fechos\n\n1 - As portas e fechos devem ser concebidos de modo a evitar ruídos incomodativos ao fechar.\n\n2 - Os fechos das portas devem ser concebidos de modo a impedir que as portas se abram acidentalmente."
+  },
+  "326d2291dbd2bc26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Requisitos gerais de construção e montagem dos fechos e dobradiças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos gerais de construção e montagem dos fechos e dobradiças\n\n1 - As dobradiças das portas, com excepção das portas dobráveis, quando montadas nos lados dos veículos, devem ser fixadas à aresta frontal das respectivas portas, no sentido do movimento para a frente.\n\n2 - No caso de portas duplas, os requisitos a que se refere o número anterior aplicam-se à parte da porta que abre primeiro, devendo ser possível fixar a outra parte da porta.\n\n3 - Os fechos e as dobradiças das portas laterais dos veículos da categoria M(índice 1), devem satisfazer os requisitos do capítulo III do presente diploma."
+  },
+  "a9ffe57c5a384372": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Requisitos gerais de construção e montagem dos estribos e degraus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisitos gerais de construção e montagem dos estribos e degraus\n\n1 - O cubo, as jantes e outras partes da roda não devem ser considerados como sendo estribos nem degraus para efeitos do disposto no presente diploma, excepto quando, por razões relacionadas com a construção ou a utilização, impedirem a montagem de estribos ou degraus noutras partes do veículo.\n\n2 - Nos veículos das categorias M(índice 1), N(índice 1) e N(índice 2) de massa máxima não superior a 7,5 t, o veículo deve ter um ou mais estribos ou degraus se a entrada para o habitáculo estiver a mais de 600 mm acima do solo.\n\n3 - Nos veículos fora de estrada, definidos na parte A do anexo II do Regulamento da Homologação CE, a distância do solo, referida no número anterior, pode ser aumentada para 700 mm.\n\n4 - Os estribos ou degraus devem ser construídos de modo a impedir o risco de escorregamento."
+  },
+  "63a624acd8154805": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Pedido de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pedido de homologação CE\n\n1 - O pedido de homologação CE de um modelo de veículo no que diz respeito às portas deve ser apresentado, pelo seu fabricante, na Direcção-Geral de Viação.\n\n2 - Ao requerimento deve juntar-se a ficha de informações do modelo constante do anexo I do presente diploma, que dele faz parte integrante.\n\n3 - O fabricante deve ainda apresentar, no serviço técnico responsável pela realização dos ensaios de homologação, um veículo representativo do modelo a homologar."
+  },
+  "143f512ccd262eb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Homologação CE\n\n1 - Se os requisitos relevantes forem satisfeitos, deve ser concedida a homologação CE em conformidade com o artigo 11.º do Regulamento da Homologação CE.\n\n2 - O certificado de homologação obedece ao modelo constante do anexo II do presente diploma que dele faz parte integrante.\n\n3 - A cada modelo de veículo homologado deve ser atribuído um número de homologação, composto de acordo com o anexo VII do Regulamento da Homologação CE.\n\n4 - A autoridade homologante não pode atribuir o mesmo número a outro modelo de veículo."
+  },
+  "58aff899d6faf55e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Modificação de modelos e alterações das homologações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Modificação de modelos e alterações das homologações\n\nNo caso de modificações do modelo homologado nos termos do presente diploma, são aplicáveis as disposições relativas à alteração das homologações constantes do Regulamento da Homologação CE."
+  },
+  "63abdb701b3a8c80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Conformidade da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conformidade da produção\n\nAs medidas destinadas a garantir a conformidade da produção devem ser tomadas de acordo com as disposições relativas a esta matéria, constantes do Regulamento da Homologação CE."
+  },
+  "c2d435658889db78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III\n\nPrescrições de construção e de montagem e ensaios de resistência dos fechos e das dobradiças das portas laterais utilizadas para a entrada e saída dos veículos da categoria M(índice 1)."
+  },
+  "b6ff79006717563e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Princípios gerais\n\n1 - Os fechos e as dobradiças devem ser concebidos, construídos e montados de modo que, nas condições normais de utilização, o veículo esteja em conformidade com as prescrições do presente capítulo.\n\n2 - Cada fecho tem uma posição de fechar intermédia e outra total."
+  },
+  "e597bd82177617fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Dados e lotes de fechos e de dobradiças a apresentar pelo fabricante ou pelo seu mandatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Dados e lotes de fechos e de dobradiças a apresentar pelo fabricante ou pelo seu mandatário\n\n1 - Para efeitos de homologação, o fabricante ou o seu mandatário deve apresentar os seguintes dados, lotes de fechos e de dobradiças:\n\na) Desenhos das portas e dos seus fechos e dobradiças, numa escala apropriada e suficientemente detalhados;\n\nb) Descrição técnica dos fechos e das dobradiças;\n\nc) Um lote de cinco jogos de dobradiças por porta ou, quando jogos iguais forem utilizados em várias portas, um lote destes jogos;\n\nd) Um lote de cinco fechos completos, compreendendo o mecanismo de comando, por porta ou, quando fechos iguais forem utilizados em várias portas, um lote destes fechos.\n\n2 - Para efeitos do disposto na alínea c) do número anterior, são considerados jogos iguais os que se distinguem entre si apenas pelo facto de serem concebidos para a montagem à esquerda ou à direita.\n\n3 - Para efeitos do disposto na alínea d) do número anterior, são considerados fechos iguais os que se distinguem entre si apenas pelo facto de serem concebidos para a montagem à esquerda ou à direita."
+  },
+  "46ca510905856eb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Prescrições de construção dos fechos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Prescrições de construção dos fechos\n\n1 - Quanto à carga longitudinal, o conjunto fecho e chapa deve poder suportar uma carga longitudinal de 453 kgf (444 daN), com o fecho na posição intermédia, e de 1134 kgf (1111 daN), com o fecho na posição de totalmente fechado, em conformidade com a figura 2 do anexo III do presente diploma, que dele faz parte integrante.\n\n2 - Quanto à carga transversal, o conjunto fecho e chapa deve poder suportar uma carga transversal de 453 kgf (444 daN), com o fecho na posição intermédia, e de 907 kgf (889 daN), com o fecho na posição de totalmente fechado, em conformidade com a figura 3 do anexo III do presente diploma.\n\n3 - Quanto à resistência aos efeitos da inércia, o fecho não deve sair da sua posição de totalmente fechado quando for aplicada ao conjunto do fecho, compreendendo o mecanismo de comando uma aceleração longitudinal ou uma aceleração transversal de 30 g, ambas nos dois sentidos."
+  },
+  "52c6d6853b0b7a01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Prescrições de construção das dobradiças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prescrições de construção das dobradiças\n\nCada dispositivo de dobradiça deve poder suportar a porta e resistir a uma carga longitudinal de 1134 kgf (1111 daN) e a uma carga transversal de 907 kgf (889 daN) nos dois sentidos."
+  },
+  "3f0340f399c5dd58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Prescrições para o ensaio de resistência dos fechos e das dobradiças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prescrições para o ensaio de resistência dos fechos e das dobradiças\n\nO controlo da conformidade com as prescrições dos artigos 15.º e 16.º é efectuado de acordo com as prescrições enumeradas nos artigos 18.º a 21.º"
+  },
+  "875541ce9769a43d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Instalação e procedimento para o ensaio sob cargas estáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instalação e procedimento para o ensaio sob cargas estáticas\n\n1 - Na instalação das dobradiças deve observar-se o disposto no anexo IV do presente diploma, que dele faz parte integrante.\n\n2 - Na instalação dos fechos deve observar-se o disposto no anexo V do presente diploma, que dele faz parte integrante."
+  },
+  "a000a99f9d306d2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Processo e aparelhos de ensaio sob cargas estáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Processo e aparelhos de ensaio sob cargas estáticas\n\nOs equipamentos referidos nos n.os 1 e 2 do artigo anterior são montados num aparelho de tracção, com uma capacidade mínima de 1500 kgf (1470 daN), devendo ser aplicados, com uma velocidade de afastamento dos dispositivos de fixação que não ultrapasse 5 mm/min, cargas progressivamente crescentes, até atingir os valores prescritos nos artigos 15.º e 16.º"
+  },
+  "26976eeedc41df81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Procedimento para determinação da resistência dos fechos às acelerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Procedimento para determinação da resistência dos fechos às acelerações\n\n1 - A resistência à abertura nos dois sentidos determina-se, dinâmica ou analiticamente, em conformidade com a figura 4 do anexo III do presente diploma, aplicando-se uma carga longitudinal e transversal de inércia de 30 g levada, nos dois casos, ao comando de abertura no sentido do accionamento, excluindo:\n\na) As forças de atrito;\n\nb) As componentes da aceleração da gravidade que tendem a manter a fechadura fechada.\n\n2 - Os dispositivos eventuais de fecho da fechadura não devem estar ligados."
+  },
+  "121cbc9885b352b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Métodos equivalentes de ensaio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Métodos equivalentes de ensaio\n\n1 - Os métodos equivalentes de ensaios não destrutivos são admitidos, desde que os resultados previstos nos artigos 19.º e 20.º possam ser obtidos, quer integralmente com a ajuda do ensaio de substituição, quer por cálculo a partir dos resultados do ensaio de substituição.\n\n2 - Se for utilizado um método diferente do descrito nos artigos 19.º e 20.º, a sua equivalência deve ser demonstrada."
+  },
+  "c93e87e59887e665": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV\n\nRequisitos relativos ao acesso às portas do habitáculo do condutor e à respectiva saída, de veículos da categoria N(índice 2) de massa máxima superior a 7,5 t e da categoria N(índice 3)."
+  },
+  "3b5b06e759bf4d2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Degraus de acesso ao habitáculo do condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Degraus de acesso ao habitáculo do condutor\n\n1 - Os degraus de acesso devem obedecer às características fixadas nos números seguintes em conformidade com a figura 5 do anexo III do presente diploma.\n\n2 - A distância (A) do solo à superfície superior do degrau mais baixo, medida com o veículo em ordem de marcha numa superfície horizontal e plana, não deve ser superior a 600 mm.\n\n3 - No que respeita aos veículos fora de estrada, definidos na parte A do anexo II do Regulamento da Homologação CE, a distância (A) a que se refere o número anterior pode ser aumentada para 700 mm.\n\n4 - A distância (B) entre as superfícies superiores do ou dos degraus não deve ser superior a 400 mm e a distância vertical entre dois degraus seguidos não deve variar mais de 50 mm, podendo este valor ser aumentado para 100 mm no que respeita aos veículos fora de estrada.\n\n5 - Devem, ainda, ser satisfeitas as especificações geométricas mínimas referidas no anexo VI do presente diploma, que dele faz parte integrante.\n\n6 - O degrau mais baixo pode ser concebido como um varão se tal for necessário por razões relacionadas com a construção ou utilização e ainda nos veículos fora de estrada, não podendo a profundidade do varão (R) ser inferior a 20 mm, não sendo admitidos varões de secção transversal redonda.\n\n7 - Ao sair do habitáculo do condutor, a posição do degrau mais acima deve ser encontrada com facilidade.\n\n8 - A superfície superior dos degraus não pode ser escorregadia, devendo os degraus expostos ao tempo e à sujidade, durante a condução, ter uma capacidade de escoamento adequada, através de uma superfície drenante."
+  },
+  "18de8f398a15b3db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Acesso a pegas para o habitáculo do condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acesso a pegas para o habitáculo do condutor\n\n1 - Para efeitos do disposto nos números seguintes, é válida a figura 5 do anexo III do presente diploma.\n\n2 - Para o acesso ao habitáculo do condutor, devem existir um ou mais corrimões e pegas adequados ou outros dispositivos equivalentes, com as características definidas no anexo VII do presente diploma, que dele faz parte integrante.\n\n3 - A altura (N) da aresta inferior de, pelo menos, um corrimão, pega ou dispositivo equivalente, medida a partir do solo, com o veículo em ordem de marcha sobre uma superfície horizontal e plana, não deve ser superior a 1850 mm, com as seguintes excepções:\n\na) Nos veículos fora de estrada, tal distância pode ser aumentada para 1950 mm;\n\nb) Se o piso do habitáculo do condutor tiver uma altura a partir do solo superior à indicada, essa altura deve ser considerada como N.\n\n4 - A distância mínima (P) da aresta superior do ou dos corrimões, pegas ou dispositivos equivalentes, a partir do degrau mais alto, piso do habitáculo do condutor, deve ser a definida no anexo VIII do presente diploma, que dele faz parte integrante.\n\n5 - Devem ser satisfeitas as especificações geométricas definidas no anexo IX do presente diploma, que dele faz parte integrante."
+  },
+  "e5f7bf59072b63c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Medições para habitáculo com piso inclinado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Medições para habitáculo com piso inclinado\n\nNo caso de o habitáculo do condutor ter um piso inclinado, as medições necessárias são efectuadas a partir de um plano horizontal que passa por um ponto dado pela intersecção da aresta frontal do piso com um plano vertical que passa pelo centro do degrau imediatamente abaixo e é perpendicular ao plano longitudinal médio do veículo."
+  },
+  "c7bd5582844dff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "7cedb0032dfb0124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação\n\nÉ revogado, no que respeita a portas e fechaduras, o anexo I da Portaria n.º 517-A/96, de 27 de Setembro, com a redacção que lhe foi dada pela Portaria n.º 1080/97, de 29 de Outubro."
+  },
+  "2e5a95d159df48e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Produção de efeitos\n\n1 - O presente diploma aplica-se:\n\na) Para novas homologações, a partir do dia seguinte ao da sua publicação;\n\nb) Para novas matrículas, a partir do 15.º dia posterior ao da sua publicação.\n\n2 - A partir de 1 de Outubro de 2000, a Direcção-Geral de Viação deixará de conceder a homologação CE e recusará a homologação de âmbito nacional a novos modelos de veículos cujas portas não satisfaçam os requisitos do presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 2 de Março de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Fernando Manuel dos Santos Gomes - António Luís Santos Costa.\n\nPromulgado em 28 de Março de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Abril de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "a5b4bf7cfdd548ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Ficha de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Ficha de informações\n\n(referente ao n.º 2 do artigo 9.º)\n\nFicha de informações n.º ...\n\n[nos termos do anexo I da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt), do Conselho (ver nota *), relativa à homologação CE de um veículo no que diz respeito às portas (Directiva n.º [70/387/CEE](https://data.europa.eu/eli/dir/1970/387/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º .../.../CE)].\n\nAs seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.\n\nNo caso de os sistemas, componentes ou unidades técnicas possuírem controlos electrónicos, fornecer as informações relevantes relacionadas com o seu desempenho.\n\n0 - Generalidades:\n\n0.1 - Marca (firma do fabricante): ...\n\n0.2 - Modelo: ...\n\n0.3 - Meios de identificação do modelo, se marcada no veículo (b) ...\n\n0.3.1 - Localização dessa marcação: ...\n\n0.4 - Categoria do veículo (c) ...\n\n0.5 - Nome e morada do fabricante: ...\n\n0.8 - Morada(s) da(s) linha(s) de montagem: ...\n\n1 - Constituição geral do veículo: ...\n\n1.1 - Fotografias e ou desenhos de um veículo representativo: ...\n\n9 - Carroçaria: ...\n\n9.2 - Materiais e tipos de construção: ...\n\n9.3 - Portas dos ocupantes, fechos e dobradiças: ...\n\n9.3.1 - Configuração e número de portas: ...\n\n9.3.1.1 - Dimensões, sentido de abertura e ângulo máximo de abertura: ...\n\n9.3.2 - Desenho dos fechos e dobradiças e da respectiva posição das portas: ...\n\n9.3.3 - Descrição técnica dos fechos e dobradiças: ...\n\n9.3.4 - Pormenores (incluindo dimensões) das entradas, degraus e manípulos necessários, quando aplicável: ...\n\nInformações adicionais no caso de veículos fora de estrada:\n\n1.3 - Número de eixos e rodas: ...\n\n1.3.3 - Eixos motores (número, posição, interligação): ...\n\n2.4.1 - Para o quadro sem carroçaria: ...\n\n2.4.1.4.1 - Ângulo de ataque (na): ...\n\n2.4.1.5.1 - Ângulo de fuga (nb): ...\n\n2.4.1.6 - Distância ao solo (conforme definida no n.º 4.5 da parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt)): ...\n\n2.4.1.6.1 - Entre os eixos: ...\n\n2.4.1.6.2 - Sob o(s) eixo(s) da frente: ...\n\n2.4.1.6.3 - Sob o(s) eixo(s) da retaguarda: ...\n\n2.4.1.7 - Ângulo de rampa (nc): ...\n\n2.4.2 - Para o quadro com carroçaria: ...\n\n2.4.2.4.1 - Ângulo de ataque (na): ...\n\n2.4.2.5.1 - Ângulo de fuga (nb): ...\n\n2.4.2.6 - Distância ao solo (conforme definida no n.º 4.5 da parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt)): ...\n\n2.4.2.6.1 - Entre os eixos: ...\n\n2.4.2.6.2 - Sob o(s) eixo(s) da frente: ...\n\n2.4.2.6.3 - Sob o(s) eixo(s) da retaguarda: ...\n\n2.4.2.7 - Ângulo de rampa (nc): ...\n\n2.15 - Capacidade de arranque em subida (veículo a solo): ...\n\n4.9 - Bloqueio do diferencial: sim/não/opcional (ver nota 1).\n\n(nota *) Os números dos pontos e notas de pé de página utilizados nesta ficha de informações correspondem aos do anexo I do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas e aos do anexo I da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt). Os pontos não relevantes para efeitos do presente diploma são omitidos.\n\n(nota 1) Riscar o que não interessa."
+  },
+  "6f5bb7531e2ae736": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Certificado de homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Certificado de homologação\n\n(referente ao n.º 2 do artigo 10.º)\n\nModelo\n\n[formato máximo: A4 (210 mm x 297 mm)]\n\nCertificado de homologação CE\n\n(Carimbo da autoridade administrativa.)\n\nComunicação relativa a:\n\nHomologação (ver nota 1);\n\nExtensão da homologação (ver nota 1);\n\nRecusa da homologação (ver nota 1);\n\nRevogação da homologação (ver nota 1);\n\nde um modelo/tipo de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º [70/387/CEE](https://data.europa.eu/eli/dir/1970/387/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º .../.../CE.\n\nNúmero de homologação: ...\n\nRazão da extensão: ..."
+  },
+  "15b01a463527476f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I\n\n0.1 - Marca (firma do fabricante): ...\n\n0.2 - Modelo/tipo: ...\n\n0.3 - Meios de identificação do modelo/tipo, se marcada no veículo/componente/unidade técnica (ver nota 1) (ver nota 2): ...\n\n0.3.1 - Localização dessa marcação: ...\n\n0.4 - Categoria do veículo (ver nota 1) (ver nota 3): ...\n\n0.5 - Nome e morada do fabricante: ...\n\n0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...\n\n0.8 - Morada(s) da(s) linha(s) de montagem: ..."
+  },
+  "288b44295502b059": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II\n\n1 - Informações adicionais (se aplicável): ver adenda.\n\n2 - Serviço técnico responsável pela realização dos ensaios: ...\n\n3 - Data do relatório de ensaio: ...\n\n4 - Número do relatório de ensaio: ...\n\n5 - Eventuais observações: ver adenda.\n\n6 - Local: ...\n\n7 - Data: ...\n\n8 - Assinatura: ...\n\n9 - Está anexado o índice do processo de homologação, que está arquivado pela autoridade homologante e pode ser obtido a pedido.\n\nAdenda ao certificado de homologação CE n.º ..., relativo à homologação de um veículo no que diz respeito à Directiva n.º [70/387/CEE](https://data.europa.eu/eli/dir/1970/387/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º .../.../CE.\n\n1 - Informações adicionais:\n\n1.1 - Configuração(ões) das portas dos ocupantes: ...\n\n1.2 - Método de abertura: ...\n\n1.3 - Método de abertura dos fechos: ...\n\n5 - Observações: ...\n\n(nota 1) Riscar o que não interessa.\n\n(nota 2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por este certificado de homologação, tais caracteres devem ser representados na documentação por meio do símbolo «?» (por exemplo: ABC??123??).\n\n(nota 3) Conforme definida na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas e na parte A do anexo II da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt)."
+  },
+  "620cac8caa440b8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Figura 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Figura 1\n\nDobradiça da porta - Dispositivo de ensaio para a carga estática (carga transversal)\n\n[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)\n\nFigura 2\n\nFechadura da porta - Equipamento de ensaio sob carga estática (carga longitudinal)\n\n[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)\n\nFigura 3\n\nFechadura da porta - Equipamento de ensaio sob carga estática (carga transversal)\n\n[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)\n\nFigura 4\n\nResistência aos efeitos da inércia - Exemplo de cálculo\n\n[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)\n\nFigura 5\n\n[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)](https://files.diariodarepublica.pt/1s/2000/04/092a00/16441651.pdf)"
+  },
+  "4e69c71a1f8f6422": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Prescrições sobre instalação de dobradiças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Prescrições sobre instalação de dobradiças\n\n1 - Os ensaios são efectuados utilizando peças rígidas que reproduzam as condições geométricas de montagem, no veículo, da porta completamente fechada.\n\n2 - Neste equipamento é aplicada, a igual distância das dobradiças:\n\ni) A carga longitudinal prescrita, perpendicularmente ao eixo dos pernos das dobradiças e exercida num plano que passa por este eixo;\n\nii) A carga transversal prescrita, perpendicularmente ao plano definido pela carga longitudinal e o eixo dos pernos, e exercida num plano que passa por este eixo.\n\n3 - Para cada ensaio é utilizado um novo jogo de dobradiças.\n\n4 - A figura 1, referida no anexo III do presente diploma, exemplifica uma montagem de ensaio."
+  },
+  "a00a800b40b575c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO V — Prescrições sobre instalação de fechos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — Prescrições sobre instalação de fechos\n\n1 - Os ensaios são efectuados utilizando peças rígidas que reproduzam a montagem dos dois elementos do fecho, corpo do fecho e chapa, no veículo.\n\n2 - Neste equipamento é aplicada a carga prescrita, de tal forma que não crie momentos flectores na fechadura, e ainda uma carga estática transversal de 90,7 kgf (88,9 daN) que tenda a desviar a fechadura da sua chapa no sentido da abertura da porta.\n\n3 - As figuras 2 e 3, constantes do anexo III do presente diploma, dão exemplos de uma montagem de ensaio."
+  },
+  "93daa70d714c8820": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Especificações geométricas mínimas a que se refere o artigo 22.º, n.º 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — Especificações geométricas mínimas a que se refere o artigo 22.º, n.º 5\n\n1 - Profundidade do degrau (D) - 80 mm.\n\n2 - Espaço livre do degrau (E), inclui a profundidade do degrau - 150 mm.\n\n3 - Largura do degrau (F) - 300 mm (ver nota *).\n\n4 - Largura do degrau mais baixo (G) - 200 mm.\n\n5 - Altura do degrau (S) - 120 mm.\n\n6 - Desalinhamento transversal entre degraus (H) - 0 mm.\n\n7 - Sobreposição longitudinal (J) - 200 mm.\n\n(nota *) Nos veículos fora de estrada, o valor F pode ser reduzido para 200 mm."
+  },
+  "77ded0cc0b7aeaef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VII — Características dos corrimões, pegas (ver nota *) e outros dispositivos equivalentes para acesso ao habitáculo do condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII — Características dos corrimões, pegas (ver nota *) e outros dispositivos equivalentes para acesso ao habitáculo do condutor\n\n1 - Os corrimões, pegas ou dispositivos equivalentes devem ser posicionados de forma que possam ser facilmente agarrados e não obstruam o acesso.\n\n2 - Pode ser admitida uma descontinuidade máxima de 100 mm na área de agarração dos corrimões, pegas ou dispositivos equivalentes, nomeadamente uma fixação intermédia.\n\n3 - No caso de um acesso com mais de dois degraus, os corrimões, pegas ou dispositivos equivalentes devem estar localizados de modo que o utente se possa apoiar simultaneamente em três pontos, com as duas mãos e um pé ou com os dois pés e uma mão.\n\n4 - Excepto no caso de uma escada, a concepção e o posicionamento dos corrimões, pegas ou dispositivos equivalentes devem ser tais que os operadores sejam encorajados a descer virados para a cabina.\n\n(nota *) O volante pode ser considerado como pega."
+  },
+  "3aaa3bbe71eb8f93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII\n\nDistância mínima (P) da aresta superior do ou dos corrimões, pegas ou dispositivos equivalentes, a partir do degrau mais alto, piso do habitáculo do condutor.\n\n1 - A do ou dos corrimões, pegas ou dispositivos equivalentes (U) - 650 mm.\n\n2 - A do ou dos corrimões, pegas ou dispositivos equivalentes (V) - 550 mm."
+  },
+  "ee74e2c20af81620": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IX — Especificações geométricas a que se refere o artigo 23.º, n.º 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX — Especificações geométricas a que se refere o artigo 23.º, n.º 4\n\n1 - Dimensão de agarração (K):\n\n16 mm, mínimo;\n\n38 mm, máximo.\n\n2 - Comprimento (M) - 150 mm mínimo.\n\n3 - Folga em relação a componentes do veículo (L) - 40 mm, estando a porta aberta com o ângulo mínimo."
+  },
+  "3b56e31fa92a450b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2002-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente diploma aplica-se às portas dos automóveis das categorias M(índice 1) e N, conforme definidas na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, adiante designado, abreviadamente, por Regulamento da Homologação CE.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12."
+  },
+  "0f8555e292e8e8a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Degraus de acesso ao habitáculo do condutor",
+   "in_force_from": "2002-04-17",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12."
+   ],
+   "markdown": "###### Artigo 22.º — Degraus de acesso ao habitáculo do condutor\n\n1 - Os degraus de acesso devem obedecer às características fixadas nos números seguintes em conformidade com a figura 5 do anexo III do presente diploma.\n\n2 - A distância (A) do solo à superfície superior do degrau mais baixo, medida com o veículo em ordem de marcha numa superfície horizontal e plana, não deve ser superior a 600 mm.\n\n3 - No que respeita aos veículos fora de estrada, definidos na parte A do anexo II do Regulamento da Homologação CE, a distância (A) a que se refere o número anterior pode ser aumentada para 700 mm.\n\n4 - A distância (B) entre as superfícies superiores do ou dos degraus não deve ser superior a 400 mm e a distância vertical entre dois degraus seguidos não deve variar mais de 50 mm, podendo este valor ser aumentado para 100 mm no que respeita aos veículos fora de estrada.\n\n5 - O requisito relativo à distância vertical entre dois degraus seguidos não se aplica à distância entre o degrau mais alto e o piso do habitáculo do condutor.\n\n6 - Devem, ainda, ser satisfeitas as especificações geométricas mínimas referidas no anexo VI do presente diploma, que dele faz parte integrante.\n\n7 - O degrau mais baixo pode ser concebido como um varão se tal for necessário por razões relacionadas com a construção ou utilização e ainda nos veículos fora de estrada, não podendo a profundidade do varão (R) ser inferior a 20 mm, não sendo admitidos varões de secção transversal redonda.\n\n8 - Ao sair do habitáculo do condutor, a posição do degrau mais acima deve ser encontrada com facilidade.\n\n9 - A superfície superior dos degraus não pode ser escorregadia, devendo os degraus expostos ao tempo e à sujidade, durante a condução, ter uma capacidade de escoamento adequada, através de uma superfície drenante.\n\n> Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12."
+  },
+  "32d635314a805fd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VI — Especificações geométricas mínimas a que se refere o artigo 22.º, n.º 5",
+   "in_force_from": "2002-04-17",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12."
+   ],
+   "markdown": "## ANEXO VI — Especificações geométricas mínimas a que se refere o artigo 22.º, n.º 5\n\n1 - Profundidade do degrau (D) - 80 mm.\n\n2 - Espaço livre do degrau (E), inclui a profundidade do degrau - 150 mm.\n\n3 - Largura do degrau (F) - 300 mm (ver nota *).\n\n4 - Largura do degrau mais baixo (G) - 200 mm.\n\n5 - Altura do degrau (S) - 120 mm.\n\n6 - Desalinhamento transversal entre degraus (H) - 0 mm.\n\n7 - Sobreposição longitudinal (J) entre dois degraus seguidos do mesmo lanço, ou entre o degrau mais alto e o piso do habitáculo do condutor - 200 mm.\n\n(nota *) Nos veículos fora de estrada, o valor F pode ser reduzido para 200 mm.\n\n> Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12."
+  },
+  "a3beb66879d3ff49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VIII",
+   "in_force_from": "2002-04-17",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12."
+   ],
+   "markdown": "## ANEXO VIII\n\nDistância mínima (P) entre a aresta superior do ou dos corrimãos, das pegas ou de dispositivos equivalentes e o piso do habitáculo do condutor.\n\n1 - A do ou dos corrimões, pegas ou dispositivos equivalentes (U) - 650 mm.\n\n2 - A do ou dos corrimões, pegas ou dispositivos equivalentes (V) - 550 mm.\n\n> Alterado pelo/a [Decreto-Lei n.º 93/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189), publicado em 2002-04-12."
+  }
+ }
+}
