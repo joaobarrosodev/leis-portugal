@@ -59,7 +59,7 @@ version_history:
     - Altera Artigo 7.º
     - Altera Artigo 8.º
     - Altera Artigo 9.º
-    - Retifica Artigo 16
+    - Retifica texto
 identifiers:
   celex: null
   eli: null

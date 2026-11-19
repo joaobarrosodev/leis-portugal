@@ -46,7 +46,7 @@ version_history:
     amending_title: Decreto-Lei n.º 599/73; Rectificação
     changes:
     - Altera Artigo 4.º
-    - Retifica Artigo 4
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -185,6 +185,6 @@ Mapa a que se refere o artigo 1.º
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1973/09/21100/15951595.pdf)
 
-O Ministro da Educação Nacional, José Veiga Simão.
-
 > Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-413453), publicado em 1973-09-08.
+
+O Ministro da Educação Nacional, José Veiga Simão.
