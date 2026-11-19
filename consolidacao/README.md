@@ -221,18 +221,63 @@ O histórico continua com duas versões. A retificação entra nos `acts` da ver
 
      Na r3, sem essa mudança, passaram. A do art. 77.º do DL 316/2007 («conferência decisória») é a instrução 8, à republicação. Confirmou-se que a linha está no anexo da republicação.
 
-   Ficaram por aplicar, com o motivo em `nao_aplicadas`, 4 trocas: os arts. 51.º e 53.º do DR 12/79, o art. 8.º do DL 376/87 e o art. 85.º da republicação do DL 316/2007. Aplicadas na pasta principal, com `aplicar --ronda r2` e `--ronda r3`: 7 retificações em 7 diplomas, 0 recusadas. As regras das rondas estão nos dois prompts.
+   Aplicadas na pasta principal, com `aplicar --ronda r2` e `--ronda r3`: 7 retificações em 7 diplomas, 0 recusadas. As regras das rondas estão nos dois prompts.
+6. **Fecho a 100 % (19/11, à noite).** O coordenador pediu que nada ficasse «por ver». Cada ronda segue o mesmo caminho: resposta, verificação às cegas (Sonnet, um verificador novo por ronda) e `aplicar --ronda` na pasta principal.
+   - **Ronda im, as 11 em imagem ou republicação.** O formato ganhou trocas `com_ligacoes` (Markdown cru), para trocar a imagem republicada e inserir o anexo omitido.
+     - **6 aplicadas, todas certas:**
+       - o mapa do DL 436/73;
+       - o quadro de pessoal do DL 431/80;
+       - o anexo II do DL 324/93 (Portaria 5/95);
+       - os anexos 1 e 2 do DR 9/78;
+       - os modelos da Portaria 234/74;
+       - 12 parágrafos da RCM 91/2002. São os que a RCM 66/2003 não reescreveu e cuja redação na republicação de 2003 é a mesma da republicação de 2002 (prova dupla).
+     - **5 não se aplicam (reescrito depois):**
+       - a Portaria 193/95 (o anexo I foi refeito pela Portaria 1279/97);
+       - a Portaria 636/75 (cerca de dez portarias alteram depois a Tarifa);
+       - a Portaria 187/82 (o anexo V foi substituído pela Portaria 92/88, que já tem a duração do curso);
+       - as Portarias 603/92 e 610/92 (o n.º 1.º foi reescrito e remete para a planta do alterador).
+   - **As 4 trocas que tinham ficado de fora (ronda r4).**
+     - **DR 12/79, arts. 51.º e 53.º.** O PDF do DR de 1979 (OCR) mostra que o texto é o publicado e que é o «onde se lê» da retificação que cita mal. O sítio é único.
+     - **DL 376/87, art. 8.º.** O DL 364/93 só renumerou o n.º 5 como n.º 3 («3 - (Actual n.º 5.)»): a decisão da r2 estava errada, e a retificação aplica-se.
+     - **O art. 85.º da republicação do DL 316/2007** fica «não se aplica»: a declaração não tem instrução para ele.
 
-**Estado das 243 retificações distintas** (`auditoria/retificacoes-estado.jsonl`):
+     Uma resposta com `"completa": true` completa uma retificação já aplicada, sem repetir o ato.
+   - **As 6 «sem registo» (ronda rc).** Recolhidas do DRE (`collect dre --ref`, commit ef2fe650104), com o caminho em `auditoria/retificacoes-recolhidas.jsonl`. As 6 estão certas, com 10 trocas:
+     - RCM 106/95 (PDM de Reguengos de Monsaraz): a alínea c) do n.º 5 e o ponto v) do n.º 7 do art. 33.º;
+     - RCM 130/99 (PDM de Sousel): «RAN» nos arts. 47.º e 48.º, e as plantas corrigidas dos Avisos 2532/2011, 11781/2011 e 14424/2014, encadeadas a seguir à ligação às plantas de 1999. A alínea a) do n.º 4 do 48.º foi reescrita depois pelo Aviso 2649/2011;
+     - Despacho 5306/2012: n.os 3, 12 e 14. O n.º 6 foi revogado.
+   - **As 18 instruções em «dúvida» dentro de retificações já tratadas (rondas r5 e r6).** Quase todas pediam linhas novas. Respondedor Opus, verificação às cegas.
+     - **13 aplicadas, em 10 retificações.** No DL 297/74 entrou só a menção final. As assinaturas dos dois ministros não se põem, porque a declaração não diz onde nem como.
+     - **5 fechadas com motivo:**
+       - o preâmbulo comum do DL 427/72 (não é retificação);
+       - os dois mapas do DL 201-A/79 (não estão no texto);
+       - as correções repetidas no anexo do DL 38/2003 (a retificação dirige-as ao art. 1.º);
+       - o art. 12.º do DR 24/82/A (o texto não tem o que ela cita).
+   - **Um problema novo, corrigido.** `retificacoes._artigo_de` dava ao último artigo o texto depois da fórmula final ou de um anexo sem título. A nota «> Retificado pelo/a» ia então para o fim do diploma, e o histórico dizia «Retifica Artigo 71» em vez do anexo II. O articulado passa a acabar aí (`_FIM_DO_ARTICULADO`). `retificacoes_notas.py` reparou 14 registos (16 trocas), depois de confirmar que as notas se reproduziam com a regra antiga.
+
+**Estado das 243 retificações distintas** (`auditoria/retificacoes-estado.jsonl`, refeito por `retificacoes_estado.py`, que só conta a resposta que passou às cegas):
 
 | Estado | Retificações |
 |---|--:|
 | Aplicadas por regra | 67 |
-| Aplicadas com o LLM | 85 (78 na 1.ª ronda, 5 na r2 e 2 na r3) |
-| Nada a aplicar (LLM) | 38 |
+| Aplicadas com o LLM | 99 |
+| Nada a aplicar (LLM): imagem, reescrito depois, outro diploma, não se aplica | 41 |
 | Sem trabalho (reescrito depois, já no texto, só metadados, outro diploma) | 36 |
-| Fora: imagem ou republicação | 11 |
-| Fora: sem registo | 6 |
+| **Por ver** | **0** |
+
+As 166 aplicadas estão em 156 diplomas. As instruções que ficaram por aplicar nas aplicadas e nas «nada a aplicar» têm um motivo final em `por_aplicar`:
+
+| Motivo | Instruções |
+|---|--:|
+| reescrito depois | 62 |
+| imagem | 51 |
+| já aplicada | 25 |
+| outro diploma | 10 |
+| não se aplica | 6 |
+| metadados | 4 |
+| republicação, só forma | 2 |
+
+Nenhuma fica em «dúvida». Para refazer o estado: `python consolidacao/retificacoes_estado.py`.
 
 **A fuga fechada (`selecionar.py`, `alteracoes.py`, `cegas.py`, `llm_completo.py`, `acervo.py`).**
 
@@ -246,11 +291,12 @@ O histórico continua com duas versões. A retificação entra nos `acts` da ver
 **Política aprovada:** não se tiram consolidações por vigência. Tirar um diploma do `data/` deixava lá o original, que diz o mesmo `in_force`: perdia-se o texto certo e o problema ficava. A vigência revista fica numa marca à parte, `auditoria/vigencia-revista.jsonl`, com o motivo, a prova e a fonte (`vigencia.py`). Há dois tipos:
 
 - `nao_vigora`: revogado, extinto, caducado ou substituído, com prova;
-- `regime_anterior`: cursos e graus anteriores ao DL 74/2006, sem se afirmar que caducaram.
+- `regime_anterior`: cursos e graus anteriores ao DL 74/2006, sem se afirmar que caducaram;
+- `por_confirmar` (desde o fecho de 19/11): o próprio texto dá um facto, mas não se afirma que caducou. São regimes de um só ano que já passou, e concessões de caça cujo prazo do texto acabou sem renovação nem extinção nas menções. O aviso é «Vigência por confirmar: …».
 
 **No RAG (`rag/vigencia.py`, `rag/pesquisa.py`).** Os resultados destes diplomas levam um aviso: «O DRE dá-o como em vigor, mas …». Baixar-lhes a posição fica atrás de `RAG_VIGENCIA_PRIOR=1`, desligado por omissão, para se medir primeiro. A marca lê-se de `RAG_INDICE/vigencia-revista.jsonl` ou, sem esse ficheiro, do repositório. Ao publicar o índice, copia-se o ficheiro para a pasta do índice; o índice em si não muda.
 
-**Marcas (339):**
+**Marcas (417: 166 nao_vigora, 194 regime_anterior, 57 por_confirmar):**
 
 | Classe | Marca | Diplomas | Prova |
 |---|---|--:|---|
@@ -262,6 +308,11 @@ O histórico continua com duas versões. A retificação entra nos `acts` da ver
 | `llm_caca` | nao_vigora | 18 | segunda leitura: a zona foi extinta por uma portaria do acervo |
 | `llm_organicas` | nao_vigora | 8 | segunda leitura: revogado, ou serviço extinto ou sucedido, com a relação ou a menção |
 | `cursos_pre_bolonha` | regime_anterior | 184 | regime geral (DL 74/2006, art. 84.º) |
+| `llm_organicas_incertos` | nao_vigora | 6 | leitura dos incertos: serviço extinto, com a relação ou a menção |
+| `llm_um_so_ano_incertos` | nao_vigora | 5 | leitura dos incertos: regime que outro diploma diz que caducou, ou revogação |
+| `cursos_pre_bolonha_incertos` | regime_anterior | 10 | leitura dos incertos: curso do ensino superior anterior ao DL 74/2006 |
+| `um_so_ano` | por_confirmar | 46 | o título ou o sumário dizem o período («para o ano de 1993», «o ano lectivo de 1987-1988»), que já passou |
+| `caca_prazo_acabado` | por_confirmar | 11 | o prazo do texto acabou, e nem as menções nem as relações falam de renovação |
 
 As concessões com uma renovação, anexação ou exclusão de prédios posterior não levam a marca. A primeira versão desta regra deu 66 linhas de «renovações fora da cadeia» (40 pares diferentes). Lidos a 19/11, não havia nada a aplicar:
 
@@ -283,7 +334,32 @@ As concessões com uma renovação, anexação ou exclusão de prédios posterio
 | Orgânicas | 210 | 16 / 1 / 193 | 3 / 20 / 170 | 8 |
 | Um só ano | 78 | 1 / 0 / 77 | 1 / 1 / 75 | 0 |
 
-O rendimento do Opus nas dúvidas foi baixo: 2 marcas em 620. Não houve mais rondas, e as 595 dúvidas ficam sem marca.
+O rendimento do Opus nas dúvidas foi baixo: 2 marcas em 620. Não houve mais rondas de Opus.
+
+**Os 135 incertos (19/11, à noite).** São os de certeza incerta, sem marca por regra. Tiveram uma leitura com Sonnet (`vigencia_llm.py entrada --incertos`, 4 lotes, `incertos-resposta-NN.jsonl`), com o mesmo prompt e com a pergunta a mais de confirmar a classe. O resultado: 13 «nao_vigora», 10 «regime_anterior», 6 «vigora» e 106 dúvidas. A classe confirma-se em 80 e não em 55. As 11 «nao_vigora» que passaram o critério de prova foram lidas uma a uma; todas têm uma extinção ou uma revogação por inteiro, expressas.
+
+**Fecho (`vigencia_llm.py fecho`, `auditoria/vigencia-fecho.jsonl`).** Cada um dos 793 candidatos (658 de certeza alta e 135 incertos) acaba com marca ou com «revista, sem marca», e o motivo:
+
+| Classe | Certeza | nao_vigora | regime_anterior | por_confirmar | Revista, sem marca |
+|---|---|--:|--:|--:|--:|
+| Caça | alta | 18 | | 11 | 341 |
+| Orgânicas | alta | 8 | | | 202 |
+| Um só ano | alta | | | 46 | 32 |
+| Caça | incerta | | | | 14 |
+| Orgânicas | incerta | 6 | | | 55 |
+| Um só ano | incerta | 5 | | | 33 |
+| Cursos | incerta | | 10 | | 12 |
+| **Total** | | **37** | **10** | **57** | **689** |
+
+O motivo de «revista, sem marca» é um destes:
+- a leitura dá-o como em vigor;
+- o «já não vigora» do leitor não passou o critério de prova (com a razão);
+- a classe não se confirma;
+- não há prova na entrada (com o motivo do leitor).
+
+Duas regras da marca branda foram apertadas depois de uma amostra:
+- **Caça.** Numa concessão com uma renovação nas menções, «o acervo não tem a renovação» seria falso. Ficam só 11 das 262, e as outras ficam «revista, sem marca».
+- **Um só ano.** O período só sai de «para/durante/no ano (lectivo, económico…) de AAAA» ou de «Orçamento do Estado para AAAA», com o intervalo inteiro. Nunca sai de «a partir de», e não sai com dois períodos diferentes. Foi isto que apanhou a TLEBS («a partir do ano lectivo de 2005-2006») e o calendário venatório de 1988-1989.
 
 Para correr de novo, fora do sandbox, porque o `rg` percorre o acervo inteiro:
 
