@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '2004-12-23'
     amending: pt:dre:218365:por
-    amending_title: Decreto-Lei n.º 237/2004; Declaração
+    amending_title: Decreto-Lei n.º 237/2004; Declaração; Portaria n.º 744-A/93
     changes:
     - Revoga Artigo 1.º
     - Revoga Artigo 2.º
@@ -123,7 +123,9 @@ provenance:
   generated_at: '2026-10-22T23:24:56Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 237/2004. Método
     e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-519-a1-79.alteracoes.json.
-    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 744-A/93.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1117,5 +1119,11 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 Mapa anexo a que se refere o artigo 4.º, n.º 2
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29902/00260047.pdf)
+
+Revisão do quadro do pessoal técnico exactor das tesourarias da Fazenda Pública, em conformidade com os mapas I e II (Portaria n.º 744-A/93):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf)
+
+> Alterado pelo/a [Portaria n.º 744-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-a-1993-620774), publicado em 1993-08-18.
 
 António Luciano Pacheco de Sousa Franco.

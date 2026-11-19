@@ -64,7 +64,7 @@ version_history:
     - Revoga Artigo 9.º
     - Revoga Artigo 10.º
     - Revoga Artigo 11.º
-    - Retifica Artigo 11
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/10/2003/01/18/p/dre/pt/html
@@ -320,6 +320,8 @@ As referências, contidas em preceitos legais não revogados pelo presente diplo
 
 Visto e aprovado em Conselho de Ministros de 20 de Novembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
+> Retificado pelo/a [Declaração de Rectificação n.º 1/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2003-166403), publicado em 2003-01-28.
+
 Promulgado em 8 de Janeiro de 2003.
 
 Publique-se.
@@ -331,8 +333,6 @@ Referendado em 9 de Janeiro de 2003.
 O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ESTATUTOS DA AUTORIDADE DA CONCORRÊNCIA
-
-> Retificado pelo/a [Declaração de Rectificação n.º 1/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2003-166403), publicado em 2003-01-28.
 
 ### CAPÍTULO I — Disposições gerais
 

@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1983-03-17'
+  consolidation_date: '1984-12-27'
 version_history:
   file: portaria-864-81.versoes.json
   count: 2
@@ -41,11 +41,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1983-03-17'
+  - date: '1984-12-27'
     amending: pt:dre:310462:por
-    amending_title: Portaria n.º 283/83
+    amending_title: Portaria n.º 283/83; Portaria n.º 954/84
     changes:
     - Altera Artigo unidades 10-10
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:56:32Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 283/83. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-864-81.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-864-81.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 954/84.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,5 +149,11 @@ Quadro de pessoal da Delegação da Zona Centro do Instituto de Assistência Psi
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22300/25932593.pdf)
 
 Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 500$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.
+
+Alteração ao quadro de pessoal da Delegação da Zona Centro do Instituto de Assistência Psiquiátrica, na parte referente ao pessoal técnico superior (Portaria n.º 954/84):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/29500/38493850.pdf)
+
+> Alterado pelo/a [Portaria n.º 954/84](https://diariodarepublica.pt/dr/detalhe/portaria/954-1984-396365), publicado em 1984-12-22.
 
 > Alterado pelo/a [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), publicado em 1983-03-17.

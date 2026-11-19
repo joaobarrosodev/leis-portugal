@@ -43,7 +43,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1967-06-14'
+  consolidation_date: '1971-11-19'
 version_history:
   file: decreto-lei-47102.versoes.json
   count: 2
@@ -53,11 +53,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1967-06-14'
+  - date: '1971-11-19'
     amending: pt:dre:312043:por
-    amending_title: Decreto-Lei n.º 47755
+    amending_title: Decreto-Lei n.º 47755; Decreto-Lei n.º 504/71
     changes:
     - Altera Artigo 23.º
+    - Altera Artigo 28
 identifiers:
   celex: null
   eli: null
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:57:35Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47755. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-47102.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-47102.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Decreto-Lei n.º 504/71.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -497,4 +500,10 @@ Mapa do pessoal da Escola Nacional de Saúde Pública e de Medicina Tropical
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/16400/12681273.pdf)
 
+Vencimentos do pessoal docente da Escola, constante do mapa anexo, estabelecidos na tabela anexa ao Decreto-Lei n.º 504/71:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/27200/17761776.pdf)
+
 Ministérios do Ultramar e da Saúde e Assistência, 16 de Julho de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.
+
+> Alterado pelo/a [Decreto-Lei n.º 504/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1971-631654), publicado em 1971-11-19.

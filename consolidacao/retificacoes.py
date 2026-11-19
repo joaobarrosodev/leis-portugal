@@ -98,8 +98,19 @@ def _numero(artigo: str) -> str:
     return re.sub(r"[.º°]", "", artigo).upper()
 
 
+# O articulado acaba na fórmula final (promulgação, assinatura) ou no primeiro anexo, mapa ou
+# quadro; o que vem depois não é de nenhum artigo, mesmo sem título Markdown.
+_FIM_DO_ARTICULADO = re.compile(
+    r"^(?:Visto e aprovado em Conselho de Ministros|Promulgad[oa] em|Publique-se\.|O Presidente da República,|"
+    r"Referendad[oa] em|Assinad[oa] em|Secretaria-Geral d)"
+    r"|^(?:Anexo|ANEXO|Mapa|MAPA|Quadro|QUADRO|Modelos?)(?: (?:a que|[IVXLC]+\b|n\.º)|$)"
+)
+
+
 def _artigo_de(linhas: list[str], i: int) -> str | None:
     for j in range(i, -1, -1):
+        if _FIM_DO_ARTICULADO.match(linhas[j].strip()):
+            return None
         if _TITULO.match(linhas[j]):
             m = _ARTIGO_TITULO.match(linhas[j])
             return _numero(m.group(1)) if m else None

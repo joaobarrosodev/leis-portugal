@@ -25,14 +25,81 @@
      "title": "Decreto-Lei n.º 132/2019",
      "published": "2019-08-30",
      "dre_path": "/dr/detalhe/decreto-lei/132-2019-124324704"
+    },
+    {
+     "id": "pt:dre:550670:por",
+     "title": "Despacho Normativo n.º 421/93",
+     "published": "1993-12-13",
+     "dre_path": "/dr/detalhe/despacho-normativo/421-1993-550670"
+    },
+    {
+     "id": "pt:dre:522250:por",
+     "title": "Portaria n.º 94/94",
+     "published": "1994-02-09",
+     "dre_path": "/dr/detalhe/portaria/94-1994-522250"
+    },
+    {
+     "id": "pt:dre:515607:por",
+     "title": "Despacho Normativo n.º 106/94",
+     "published": "1994-02-23",
+     "dre_path": "/dr/detalhe/despacho-normativo/106-1994-515607"
+    },
+    {
+     "id": "pt:dre:281650:por",
+     "title": "Despacho Normativo n.º 190/94",
+     "published": "1994-03-25",
+     "dre_path": "/dr/detalhe/despacho-normativo/190-1994-281650"
+    },
+    {
+     "id": "pt:dre:265761:por",
+     "title": "Portaria n.º 224/94",
+     "published": "1994-04-14",
+     "dre_path": "/dr/detalhe/portaria/224-1994-265761"
+    },
+    {
+     "id": "pt:dre:265163:por",
+     "title": "Despacho Normativo n.º 262/94",
+     "published": "1994-04-22",
+     "dre_path": "/dr/detalhe/despacho-normativo/262-1994-265163"
+    },
+    {
+     "id": "pt:dre:263878:por",
+     "title": "Despacho Normativo n.º 338/94",
+     "published": "1994-05-13",
+     "dre_path": "/dr/detalhe/despacho-normativo/338-1994-263878"
+    },
+    {
+     "id": "pt:dre:265539:por",
+     "title": "Despacho Normativo n.º 388/94",
+     "published": "1994-05-21",
+     "dre_path": "/dr/detalhe/despacho-normativo/388-1994-265539"
+    },
+    {
+     "id": "pt:dre:269605:por",
+     "title": "Despacho Normativo n.º 393/94",
+     "published": "1994-05-24",
+     "dre_path": "/dr/detalhe/despacho-normativo/393-1994-269605"
+    },
+    {
+     "id": "pt:dre:545977:por",
+     "title": "Portaria n.º 92/96",
+     "published": "1996-03-26",
+     "dre_path": "/dr/detalhe/portaria/92-1996-545977"
+    },
+    {
+     "id": "pt:dre:650095:por",
+     "title": "Portaria n.º 892/97",
+     "published": "1997-09-11",
+     "dre_path": "/dr/detalhe/portaria/892-1997-650095"
     }
    ],
    "changes": [
-    "Altera Artigo unidades 14-34"
+    "Altera Artigo unidades 14-34",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "348a65f730b2e93c",
-    "8d260f8d1ba45d30",
+    "4fd2384ee3c8adfa",
     "41ca3b0754cbf540"
    ]
   }
@@ -61,6 +128,26 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## ANEXO II — Conteúdos funcionais\n\n1 - Técnico superior aduaneiro. - O técnico superior aduaneiro desenvolve funções consultivas e de investigação, estudo, concepção e adaptação de métodos e processos científico-técnicos na área fiscal e aduaneira, competindo-lhe, nomeadamente:\n\nExercer os Cargos de direcção ou de chefia para que for nomeado;\n\nEfectuar estudos de carácter económico, jurídico e outros de natureza técnico-aduaneira e fiscal;\n\nInstruir os processos por crimes e contra-ordenações que lhe forem distribuídos;\n\nProceder às auditorias, inspecções, exames e peritagens de que for incumbido;\n\nEfectuar as reverificações e as verificações que, pela sua natureza ou quaisquer outras circunstâncias, o justifiquem;\n\nSuperintender e proceder a conferência final dos bilhetes de despacho e dos documentos que com eles se relacionem;\n\nSuperintender e coordenar Os núcleos funcionais destinados a conferir maior eficácia aos actos inerentes ao controlo fiscal e ao desalfandegamento das mercadorias.\n\n2 - Técnico superior aduaneiro de laboratório. - O técnico Superior aduaneiro de laboratório desenvolve funções consultivas e de investigação, estudo e adaptação de métodos e processos cientifico-técnicos na área de laboratório, competindo-lhe, nomeadamente:\n\nEfectuar as análises que exijam maior complexidade, solicitadas pelos serviços implicados no processo de verificação de mercadorias, prevenção e repressão da fraude;\n\nIntervir no processo de classificação pautas dos diversos produtos químicos;\n\nColaborar em estudos analíticos com outros laboratórios aduaneiros comunitários.\n\n3 - Técnico verificador aduaneiro. - O técnico verificados aduaneiro desenvolve funções de estudo e aplicação de métodos e processos de natureza técnica, competindo-lhe, nomeadamente:\n\nExercer os cargos de chefia para que for nomeado;\n\nProceder as fiscalizações de que for incumbido;\n\nEfectuar as verificações para que for nomeado;\n\nOrientar directamente a execução dos serviços de conferência de carga e descarga e de revisão pessoal, de bagagem e de meios de transporte.\n\n4 - Analista aduaneiro de laboratório. - O analista aduaneiro de laboratório desenvolve funções de estudo e aplicação de métodos e processos de natureza técnica, competindo-lhe, nomeadamente:\n\nExecutar as análises que lhe forem distribuídas;\n\nProceder à verificação da exactidão dos instrumentos;\n\nCoadjuvar o pessoal superior do laboratório nos trabalhos de estudo e pesquisa.\n\n5 - Secretário aduaneiro. - O secretário aduaneiro desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas, relativas ao expediente, arquivo, organização dos processos técnicos, fiscais e administrativos aduaneiros e contabilidade, tendo em vista assegurar o funcionamento dos serviços aduaneiros, competindo-lhe, nomeadamente:\n\nConferir manifestos de carga;\n\nPrestar assistência a exames prévios;\n\nEfectuar as contas correntes dos regimes de aperfeiçoamento activo e passivo e de restituição de direitos;\n\nEfectuar o controlo dos depósitos e das canções e elaborar os termos de responsabilidade;\n\nPreparar e executar as contas de gerência;\n\nClassificar as despesas públicas e elaborar o respectivo processamento.\n\n6 - Analista aduaneiro auxiliar de laboratório. - O analista aduaneiro auxiliar de laboratório funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais relativas ao funcionamento do laboratório, competindo-lhe, nomeadamente:\n\nCoadjuvar o pessoal técnico superior e técnico do laboratório;\n\nProceder à preparação de soluções reagentes;\n\nProceder à conservação e manutenção do material de laboratório;\n\nOrganizar os stocks de material e reagentes;\n\nOrganizar as análises de carácter corrente.\n\n7 - Verificador auxiliar aduaneiro. - O verificados auxiliar aduaneiro desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas nas arcas da fiscalização e verificação das mercadorias, competindo-lhe, nomeadamente:\n\nCoadjuvar os técnicos superiores aduaneiros e os técnicos de verificação aduaneiros no exercício das funções da sua competência;\n\nParticipar nos serviços de conferência de carga e descarga de mercadorias;\n\nParticipar em equipas de fiscalização da competência dos serviços aduaneiros;\n\nProceder sempre que necessário à movimentação, abertura, manipulação e fecho de volumes;\n\nProceder à marcação e selagem de volumes e à selagem dos meios de transporte;\n\nEfectuar a pesagem e medição de mercadorias;\n\nConferir e controlar a entrada e saída dos volumes nas casas de despacho;\n\nVelar pela conservação e guarda do material afecto às operações de verificação e reverificação de mercadorias;\n\nControlar a entrada, saída e permanência de volumes nos armazéns aduaneiros, bem como as entradas e saídas de equipamentos em estabelecimentos fabris sob jurisdição aduaneira;\n\nRegistar e preencher as guias necessárias ao controlo de circulação dos produtos sujeitos a impostos especiais sobre o consumo;\n\nExecutar o serviço de revisão pessoal, de bagagem e de meios de transporte, nos termos definidos na lei e nos regulamentos;\n\nDesempenhar outras tarefas que, na esfera da sua competência, lhes sejam superiormente determinadas."
+  },
+  "4fd2384ee3c8adfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/117b01/00020006.pdf)",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 106/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/106-1994-515607), publicado em 1994-02-23.",
+    "Alterado pelo/a [Despacho Normativo n.º 190/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/190-1994-281650), publicado em 1994-03-25.",
+    "Alterado pelo/a [Despacho Normativo n.º 262/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/262-1994-265163), publicado em 1994-04-22.",
+    "Alterado pelo/a [Despacho Normativo n.º 338/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/338-1994-263878), publicado em 1994-05-13.",
+    "Alterado pelo/a [Despacho Normativo n.º 388/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1994-265539), publicado em 1994-05-21.",
+    "Alterado pelo/a [Despacho Normativo n.º 393/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/393-1994-269605), publicado em 1994-05-24.",
+    "Alterado pelo/a [Despacho Normativo n.º 421/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/421-1993-550670), publicado em 1993-12-13.",
+    "Alterado pelo/a [Portaria n.º 224/94](https://diariodarepublica.pt/dr/detalhe/portaria/224-1994-265761), publicado em 1994-04-14.",
+    "Alterado pelo/a [Portaria n.º 892/97](https://diariodarepublica.pt/dr/detalhe/portaria/892-1997-650095), publicado em 1997-09-11.",
+    "Alterado pelo/a [Portaria n.º 92/96](https://diariodarepublica.pt/dr/detalhe/portaria/92-1996-545977), publicado em 1996-03-26.",
+    "Alterado pelo/a [Portaria n.º 94/94](https://diariodarepublica.pt/dr/detalhe/portaria/94-1994-522250), publicado em 1994-02-09."
+   ],
+   "markdown": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/117b01/00020006.pdf)\n\nAlteração ao quadro de pessoal (Despacho Normativo n.º 421/93):\n\n1 - É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador assessor principal, a extinguir quando vagar.\n\n2 - A criação do lugar referido no número anterior produz efeitos desde 30 de Setembro de 1993.\n\nAlteração ao quadro de pessoal (Portaria n.º 94/94):\n\n1.º É criado na carreira de operador de registo de dados um lugar da categoria de operador de registo de dados principal, a extinguir quando vagar após preenchimento.\n\n2.º Relativamente ao nível das carreiras de técnico-adjunto de biblioteca e documentação e de técnico-adjunto de arquivo, onde se lê, na respectiva coluna, como sendo do nível 3 deve ler-se do nível 4.\n\nAlteração ao quadro de pessoal (Despacho Normativo n.º 106/94):\n\nÉ criado no quadro da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador, a extinguir quando vagar.\n\nAlteração ao quadro de pessoal (Despacho Normativo n.º 190/94):\n\nÉ criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador, a extinguir quando vagar.\n\nAlteração ao quadro de pessoal (Portaria n.º 224/94):\n\n2) São acrescidos 11 lugares na carreira de fiscalização de tabacos e 37 na categoria de terceiro-oficial, que serão extintos, após preenchimento, à medida que vagarem.\n\nAlteração ao quadro de pessoal (Despacho Normativo n.º 262/94):\n\nÉ criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador, a extinguir quando vagar.\n\nAlteração ao quadro de pessoal (Despacho Normativo n.º 338/94):\n\nÉ criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador, a extinguir quando vagar.\n\nAlteração ao quadro de pessoal (Despacho Normativo n.º 388/94):\n\nÉ criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador assessor, a extinguir quando vagar.\n\nAlteração ao quadro de pessoal (Despacho Normativo n.º 393/94):\n\nÉ criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador assessor, a extinguir quando vagar.\n\nAlteração ao quadro de pessoal (Portaria n.º 92/96):\n\n1.º Com vista a concretizar a transição dos funcionários abrangidos pelo disposto no artigo 7.º do [Decreto-Lei n.º 274/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1990-556660), de 7 de Setembro, são criados no quadro da Direcção-Geral das Alfândegas 252 lugares da categoria de verificador auxiliar aduaneiro de 2.ª classe.\n\n2.º Após o preenchimento dos lugares previstos no número anterior serão extintos, em igual número, os lugares correspondentes às categorias de que os funcionários a transitar são titulares, constantes do quadro de pessoal da Direcção-Geral das Alfândegas, aprovado pela [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio.\n\n4.º Se os funcionários com direito à transição desistirem desta, considerar-se-ão automaticamente abatidos ao número de lugares criados pela presente portaria tantos lugares quantas as desistências.\n\nAlteração ao quadro de pessoal (Portaria n.º 892/97):\n\n1.º É criado no quadro de pessoal da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, aprovado pela [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar da categoria de secretário aduaneiro de 2.ª classe, da carreira de secretário aduaneiro, a extinguir quando vagar.\n\n> Alterado pelo/a [Despacho Normativo n.º 106/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/106-1994-515607), publicado em 1994-02-23.\n\n> Alterado pelo/a [Despacho Normativo n.º 190/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/190-1994-281650), publicado em 1994-03-25.\n\n> Alterado pelo/a [Despacho Normativo n.º 262/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/262-1994-265163), publicado em 1994-04-22.\n\n> Alterado pelo/a [Despacho Normativo n.º 338/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/338-1994-263878), publicado em 1994-05-13.\n\n> Alterado pelo/a [Despacho Normativo n.º 388/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1994-265539), publicado em 1994-05-21.\n\n> Alterado pelo/a [Despacho Normativo n.º 393/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/393-1994-269605), publicado em 1994-05-24.\n\n> Alterado pelo/a [Despacho Normativo n.º 421/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/421-1993-550670), publicado em 1993-12-13.\n\n> Alterado pelo/a [Portaria n.º 224/94](https://diariodarepublica.pt/dr/detalhe/portaria/224-1994-265761), publicado em 1994-04-14.\n\n> Alterado pelo/a [Portaria n.º 892/97](https://diariodarepublica.pt/dr/detalhe/portaria/892-1997-650095), publicado em 1997-09-11.\n\n> Alterado pelo/a [Portaria n.º 92/96](https://diariodarepublica.pt/dr/detalhe/portaria/92-1996-545977), publicado em 1996-03-26.\n\n> Alterado pelo/a [Portaria n.º 94/94](https://diariodarepublica.pt/dr/detalhe/portaria/94-1994-522250), publicado em 1994-02-09."
   },
   "41ca3b0754cbf540": {
    "fragment_id": null,

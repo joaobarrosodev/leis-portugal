@@ -53,12 +53,13 @@ version_history:
     changes: []
   - date: '1987-04-25'
     amending: pt:dre:225788:por
-    amending_title: Decreto-Lei n.º 237-A/83; Decreto-Lei n.º 179/87
+    amending_title: Decreto-Lei n.º 237-A/83; Decreto-Lei n.º 179/87; Declaração
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 7.º
     - Altera Artigo 8.º
     - Altera Artigo 9.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -85,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:32:38Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 237-A/83; Decreto-Lei
-    n.º 179/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-431-80.alteracoes.json'
+    n.º 179/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-431-80.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda im, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -332,3 +334,23 @@ Promulgado em 19 de Setembro de 1980.
 Publique-se.
 
 O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+MAPA DE PESSOAL
+
+Administração e direcção técnica
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/38963896.pdf)
+
+Serviços administrativos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/38963896.pdf)
+
+Quadro médico
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/38963896.pdf)
+
+Serviços de assistência
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/38963896.pdf)
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-458223), publicado em 1980-11-18.

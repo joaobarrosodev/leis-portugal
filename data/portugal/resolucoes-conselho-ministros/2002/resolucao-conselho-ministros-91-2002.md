@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2003-05-07'
     amending: pt:dre:571672:por
-    amending_title: Resolução do Conselho de Ministros n.º 66/2003
+    amending_title: Resolução do Conselho de Ministros n.º 66/2003; Declaração de Rectificação n.º 21/2002
     changes:
     - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::1.º
     - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::6.º
@@ -71,6 +71,15 @@ version_history:
     - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::28.º
     - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::31.º
     - Altera Artigo ANEXO — REGIMENTO DO CONSELHO DE MINISTROS DO XV GOVERNO CONSTITUCIONAL::32.º
+    - Retifica Artigo 2
+    - Retifica Artigo 8
+    - Retifica Artigo 15
+    - Retifica Artigo 20
+    - Retifica Artigo 22
+    - Retifica Artigo 27
+    - Retifica Artigo 28
+    - Retifica Artigo 31
+    - Retifica Artigo 33
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/91/2002/05/03/p/dre/pt/html
@@ -97,7 +106,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:46:57Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
-    n.º 66/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2002/resolucao-conselho-ministros-91-2002.alteracoes.json'
+    n.º 66/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2002/resolucao-conselho-ministros-91-2002.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda im, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração
+    de Rectificação n.º 21/2002.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -194,11 +205,13 @@ Presidência do Conselho de Ministros, 11 de Abril de 2002. - O Primeiro-Ministr
 
 ###### Artigo 2.º — Ausência ou impedimento
 
-1 - Salvo indicação em contrário do Primeiro-Ministro, este é substituído, nas suas ausências ou impedimentos, pela Ministra de Estado e das Finanças ou por ministro que não se encontre ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º do [Decreto-Lei n.º 120/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2002-371035), de 3 de Maio, que aprova a Lei Orgânica do XV Governo Constitucional.
+1 - Salvo indicação em contrário do Primeiro-Ministro, este é substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Finanças ou por ministro que não se encontre ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º do [Decreto-Lei n.º 120/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2002-371035), de 3 de Maio, que aprova a Lei Orgânica do XV Governo Constitucional.
 
 2 - Cada ministro é substituído, na suas ausências ou impedimentos, pelo secretário de Estado que indicar ao Primeiro-Ministro.
 
 3 - Nos casos de falta da indicação a que se refere o número anterior ou de inexistência de secretário de Estado, cada ministro é substituído pelo membro do Governo que o Primeiro-Ministro indicar, por forma que todos os ministros estejam representados nas reuniões.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2002-153115), publicado em 2002-05-28.
 
 ###### Artigo 3.º — Reuniões
 
@@ -254,7 +267,7 @@ c) A terceira, relativa à apreciação de projectos que não tenham obtido cons
 
 2 - De cada súmula existirão três exemplares autenticados, sendo um conservado no Gabinete do Primeiro-Ministro, outro no Gabinete do Ministro da Presidência e outro no Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.
 
-3 - O acesso à súmula prevista nos números anteriores será facultada a qualquer membro do Conselho de Ministros que o solicite.
+3 - O acesso à súmula prevista nos números anteriores será facultado a qualquer membro do Conselho de Ministros que o solicite.
 
 ###### Artigo 9.º — Tramitação subsequente
 
@@ -312,7 +325,7 @@ No que não se encontra regulado nos artigos anteriores, é aplicável ao Consel
 
 1 - O Conselho de Ministros para os Assuntos Económicos é presidido pelo Primeiro-Ministro e integrado pelos seguintes Ministros:
 
-a) Ministra de Estado e das Finanças;
+a) Ministro de Estado e das Finanças;
 
 b) Ministro de Estado e da Defesa Nacional;
 
@@ -404,11 +417,11 @@ Os projectos a remeter ao Gabinete do Secretário de Estado da Presidência do C
 
 ##### SUBSECÇÃO I — Pareceres
 
-###### Artigo 20.º — Parecer da Ministra de Estado e das Finanças
+###### Artigo 20.º — Parecer do Ministro de Estado e das Finanças
 
-1 - Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pela Ministra de Estado e das Finanças.
+1 - Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pelo Ministro de Estado e das Finanças.
 
-2 - Carecem de parecer da Ministra de Estado e das Finanças os projectos de diploma que visem:
+2 - Carecem de parecer do Ministro de Estado e das Finanças os projectos de diploma que visem:
 
 a) A criação, organização ou extinção de serviços e organismos públicos;
 
@@ -444,7 +457,7 @@ q) Os mecanismos de audição e de participação no procedimento administrativo
 
 r) A racionalização e eficácia da organização e gestão públicas, designadamente quanto à autonomia de gestão.
 
-3 - Compete ao ministro proponente do projecto solicitar à Ministra de Estado e das Finanças a emissão de parecer, dando conhecimento ao Secretário de Estado da Presidência do Conselho de Ministros.
+3 - Compete ao ministro proponente do projecto solicitar ao Ministro de Estado e das Finanças a emissão de parecer, dando conhecimento ao Secretário de Estado da Presidência do Conselho de Ministros.
 
 ###### Artigo 20.º-A — Parecer do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
 
@@ -470,7 +483,7 @@ r) A racionalização e eficácia da organização e gestão públicas, designad
 
 1 - A audição prévia dos órgãos de governo próprio das Regiões Autónomas, constitucional ou legalmente exigida, é obtida através dos gabinetes dos ministros da República para as Regiões Autónomas, por sua iniciativa ou a solicitação do Secretário de Estado da Presidência do Conselho de Ministros.
 
-2 - A audição é efectuada após a reunião dos secretários de Estado e é feita em condições que preservem a confidencialidade.
+2 - A audição é efectuada após a reunião de secretários de Estado e é feita em condições que preservem a confidencialidade.
 
 3 - No que respeita à Região Autónoma dos Açores, o prazo de audição é de 20 ou 15 dias, consoante o órgão que se deva pronunciar seja a Assembleia Legislativa Regional ou o Governo Regional, sendo em caso de urgência de 10 dias.
 
@@ -554,7 +567,7 @@ b) Determina a sua circulação pelos gabinetes de todos os membros do Conselho 
 
 ###### Artigo 27.º — Objecções e comentários
 
-1 - Durante a circulação, que se prolonga até à reunião dos secretários de Estado para a qual o projecto seja agendado, podem os gabinetes dos membros do Governo e dos ministros da República transmitir ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros e aos gabinetes dos ministros proponentes quaisquer objecções ou comentários ao projecto circulado.
+1 - Durante a circulação, que se prolonga até à reunião de secretários de Estado para a qual o projecto seja agendado, podem os gabinetes dos membros do Governo e dos ministros da República transmitir ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros e aos gabinetes dos ministros proponentes quaisquer objecções ou comentários ao projecto circulado.
 
 2 - As objecções e comentários devem ser transmitidos até ao último dia útil anterior à reunião de secretários de Estado para a qual o projecto seja agendado e, quando não importarem rejeição global do mesmo, conter redacções alternativas aos textos sobre os quais não houve concordância.
 
@@ -564,7 +577,7 @@ b) Determina a sua circulação pelos gabinetes de todos os membros do Conselho 
 
 ###### Artigo 28.º — Composição
 
-1 - As reuniões de secretários de Estado são presididas pelo Ministro da Presidência, ou, nas suas ausências e impedimentos, pelo Secretário de Estado da Presidência do Conselho de Ministros, e nelas participam um secretário de Estado em representação de cada ministro, ou um representante do ministro não coadjuvado por secretário de Estado que por ele seja indicado.
+1 - As reuniões de secretários de Estado são presididas pelo Ministro da Presidência, ou, nas suas ausências e impedimentos, pelo Secretário de Estado da Presidência do Conselho de Ministros, e nelas participam um secretário de Estado em representação de cada ministro ou um representante do Ministro não coadjuvado por secretário de Estado que por ele seja indicado.
 
 2 - Podem também participar nas reuniões de secretários de Estado:
 
@@ -602,7 +615,7 @@ b) Apreciar, a título excepcional, mediante solicitação do membro do Governo 
 
 1 - Compete ao Ministro da Presidência ou, nas suas ausências e impedimentos, ao Secretário de Estado da Presidência do Conselho de Ministros o agendamento de projectos para as reuniões de secretários de Estado.
 
-2 - A agenda da reunião de secretários de Estado é remetida pelo Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, na penúltima quinta-feira anterior à reunião, aos gabinetes de todos os ministros e dos ministros da República.
+2 - A agenda da reunião de secretários de Estado é remetida pelo Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, na quinta-feira anterior à reunião, aos gabinetes de todos os ministros e dos ministros da República.
 
 3 - A agenda da reunião de secretários de Estado comporta três partes:
 
@@ -636,7 +649,7 @@ d) De proposta de inscrição na parte III da agenda do Conselho de Ministros.
 
 1 - De todas as reuniões de secretários de Estado é elaborada, pelo Secretário de Estado da Presidência do Conselho de Ministros, uma súmula de que constem as respectivas conclusões finais, da qual existirão três exemplares, sendo um conservado no Gabinete do Primeiro-Ministro, outro no Gabinete do Ministro da Presidência e o último no Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.
 
-2 - O acesso à súmula prevista no número anterior será facultado a qualquer ministro ou a qualquer outro membro do Governo, participante nas reuniões de secretários de Estado, que o solicite.
+2 - O acesso à súmula prevista no número anterior será facultado a qualquer ministro ou a qualquer outro membro do Governo, participante nas reuniões de Secretários de Estado, que o solicite.
 
 ###### Artigo 34.º — Reformulação de projectos
 

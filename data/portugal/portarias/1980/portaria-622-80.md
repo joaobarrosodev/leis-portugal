@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1982-01-13'
+  consolidation_date: '1991-05-21'
 version_history:
   file: portaria-622-80.versoes.json
   count: 2
@@ -41,11 +41,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1982-01-13'
+  - date: '1991-05-21'
     amending: pt:dre:601154:por
-    amending_title: Portaria n.º 51/82
+    amending_title: Portaria n.º 51/82; Portaria n.º 1242/82; Portaria n.º 1315/82; Portaria n.º 1334/82; Portaria n.º 807-Z3/83;
+      Portaria n.º 196/84; Portaria n.º 573/85; Portaria n.º 253/86; Portaria n.º 544/87; Portaria n.º 890/87; Portaria n.º
+      413/91
     changes:
     - Altera Artigo unidades 10-10
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +75,10 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:25:08Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 51/82. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-622-80.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-622-80.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 1242/82; Portaria n.º 1315/82; Portaria n.º 1334/82; Portaria n.º 807-Z3/83; Portaria n.º 196/84; Portaria
+    n.º 573/85; Portaria n.º 253/86; Portaria n.º 544/87; Portaria n.º 890/87; Portaria n.º 413/91.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -208,5 +214,65 @@ Quadro de pessoal do Hospital Distrital de Bragança
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26712672.pdf)
 
 Nota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 600$00 mensais para falhas.
+
+Alteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal de enfermagem (Portaria n.º 1242/82):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/42874287.pdf)
+
+Alteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal técnico superior e pessoal operário e auxiliar (Portaria n.º 1315/82):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/43154316.pdf)
+
+Alterações ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal auxiliar de educação (Portaria n.º 1334/82):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/43264326.pdf)
+
+Alteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal técnico superior e pessoal médico (Portaria n.º 807-Z3/83):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17406/00900091.pdf)
+
+Alteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal operário e auxiliar (Portaria n.º 196/84):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/08000/11341135.pdf)
+
+Lugar aditado ao quadro de pessoal do Hospital Distrital de Bragança, a extinguir quando vagar (Portaria n.º 573/85):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18300/25112511.pdf)
+
+Alteração ao quadro de pessoal do Hospital Distrital de Bragança (Portaria n.º 253/86):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/12000/12651266.pdf)
+
+Alteração ao quadro de pessoal do Hospital Distrital de Bragança (Portaria n.º 544/87):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/14900/25502550.pdf)
+
+Alteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal técnico de diagnóstico e terapêutica (Portaria n.º 890/87):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/26800/40584058.pdf)
+
+Quadro de pessoal médico do Hospital Distrital de Bragança, substituído pelos quadros anexos à Portaria n.º 413/91:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/112b00/25992619.pdf)
+
+> Alterado pelo/a [Portaria n.º 1242/82](https://diariodarepublica.pt/dr/detalhe/portaria/1242-1982-318275), publicado em 1982-12-31.
+
+> Alterado pelo/a [Portaria n.º 1315/82](https://diariodarepublica.pt/dr/detalhe/portaria/1315-1982-318288), publicado em 1982-12-31.
+
+> Alterado pelo/a [Portaria n.º 1334/82](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1982-318337), publicado em 1982-12-31.
+
+> Alterado pelo/a [Portaria n.º 196/84](https://diariodarepublica.pt/dr/detalhe/portaria/196-1984-654511), publicado em 1984-04-04.
+
+> Alterado pelo/a [Portaria n.º 253/86](https://diariodarepublica.pt/dr/detalhe/portaria/253-1986-226842), publicado em 1986-05-26.
+
+> Alterado pelo/a [Portaria n.º 413/91](https://diariodarepublica.pt/dr/detalhe/portaria/413-1991-642185), publicado em 1991-05-16.
+
+> Alterado pelo/a [Portaria n.º 544/87](https://diariodarepublica.pt/dr/detalhe/portaria/544-1987-419584), publicado em 1987-07-02.
+
+> Alterado pelo/a [Portaria n.º 573/85](https://diariodarepublica.pt/dr/detalhe/portaria/573-1985-180632), publicado em 1985-08-10.
+
+> Alterado pelo/a [Portaria n.º 807-Z3/83](https://diariodarepublica.pt/dr/detalhe/portaria/807-z3-1983-435588), publicado em 1983-07-30.
+
+> Alterado pelo/a [Portaria n.º 890/87](https://diariodarepublica.pt/dr/detalhe/portaria/890-1987-496717), publicado em 1987-11-20.
 
 > Alterado pelo/a [Portaria n.º 51/82](https://diariodarepublica.pt/dr/detalhe/portaria/51-1982-601154), publicado em 1982-01-13.

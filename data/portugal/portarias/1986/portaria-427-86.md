@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1990-08-22'
     amending: pt:dre:573561:por
-    amending_title: Portaria n.º 676/90
+    amending_title: Portaria n.º 676/90; Portaria n.º 883/87
     changes:
     - Adita Artigo depois da unidade 19
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:48:35Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 676/90. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-427-86.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-427-86.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 883/87.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -234,4 +237,6 @@ Assinada em 26 de Junho de 1986.
 
 Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/18000/19571962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/26500/40224023.pdf)
+
+> Alterado pelo/a [Portaria n.º 883/87](https://diariodarepublica.pt/dr/detalhe/portaria/883-1987-496736), publicado em 1987-11-17.

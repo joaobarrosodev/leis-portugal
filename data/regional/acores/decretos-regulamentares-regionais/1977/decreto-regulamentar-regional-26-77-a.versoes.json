@@ -33,13 +33,13 @@
    ],
    "changes": [
     "Altera Artigo 2.º",
-    "Retifica Artigo 3"
+    "Retifica texto"
    ],
    "fragments": [
     "a65a4e5285e08d40",
     "c55c6d9673a14028",
     "9c8acddfd0749962",
-    "e05d7f42cbf5dd66"
+    "bfabec8bfc5084d6"
    ]
   }
  ],
@@ -78,7 +78,7 @@
    ],
    "markdown": "###### Artigo 2.º\n\n1. Sempre que surjam dúvidas sobre o procedimento e os trâmites processuais a seguir em qualquer questão relacionada com o arrendamento rural na Região Autónoma dos Açores, aplicam-se os princípios gerais do direito processual civil.\n\n2. O processo aplicável ao despejo será o previsto nos artigos 964.º e seguintes do Código de Processo Civil; o processo aplicável à fixação e alteração de rendas será o previsto nos artigos 1052.º e seguintes do mesmo diploma.\n\n3. Todas as demais questões seguem os termos do processo declarativo comum.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 3/A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1979-393181), publicado em 1979-02-07."
   },
-  "e05d7f42cbf5dd66": {
+  "bfabec8bfc5084d6": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
@@ -86,7 +86,7 @@
    "changed_by": [
     "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-276872), publicado em 1977-10-17."
    ],
-   "markdown": "###### Artigo 3.º\n\nOs processos pendentes nas comissões arbitrais a que se refere o [Decreto-Lei n.º 201/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082), de 15 de Abril, no âmbito da aplicação do Decreto Regional n.º 11/77, de 20 de Maio, e que ainda não tenham sido julgados em 1.ª instância, transitarão para os tribunais comuns.\n\nAprovado em Plenário do Governo Regional em 9 de Agosto de 1977. - O Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Ponta Delgada em 27 de Agosto de 1977.\n\nPublique-se.\n\nO Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-276872), publicado em 1977-10-17."
+   "markdown": "###### Artigo 3.º\n\nOs processos pendentes nas comissões arbitrais a que se refere o [Decreto-Lei n.º 201/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082), de 15 de Abril, no âmbito da aplicação do Decreto Regional n.º 11/77, de 20 de Maio, e que ainda não tenham sido julgados em 1.ª instância, transitarão para os tribunais comuns.\n\nAprovado em Plenário do Governo Regional em 9 de Agosto de 1977. - O Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Ponta Delgada em 27 de Agosto de 1977.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-276872), publicado em 1977-10-17.\n\nPublique-se.\n\nO Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general."
   }
  }
 }

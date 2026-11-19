@@ -59,7 +59,7 @@ version_history:
     amending_title: Decreto-Lei n.º 569/70; Declaração
     changes:
     - Altera Artigo 12.º
-    - Retifica Artigo 22
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -307,6 +307,8 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1969, podendo, porém, 
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Domingos Rogado Vitória Pires.
 
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1969-526673), publicado em 1969-01-28.
+
 Promulgado em 11 de Dezembro de 1968.
 
 Publique-se.
@@ -328,5 +330,3 @@ Artigo 17.º do Decreto-Lei n.º 48785, de 21 de Dezembro de 1968
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf)
 
 Secretaria de Estado da Agricultura, 21 de Dezembro de 1968. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
-
-> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1969-526673), publicado em 1969-01-28.

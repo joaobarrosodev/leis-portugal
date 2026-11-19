@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1983-03-17",
+   "date": "1988-03-21",
    "future": false,
    "acts": [
     {
@@ -23,13 +23,44 @@
      "title": "Portaria n.º 283/83",
      "published": "1983-03-17",
      "dre_path": "/dr/detalhe/portaria/283-1983-310462"
+    },
+    {
+     "id": "pt:dre:451050:por",
+     "title": "Portaria n.º 507/83",
+     "published": "1983-05-03",
+     "dre_path": "/dr/detalhe/portaria/507-1983-451050"
+    },
+    {
+     "id": "pt:dre:180195:por",
+     "title": "Portaria n.º 541/85",
+     "published": "1985-08-03",
+     "dre_path": "/dr/detalhe/portaria/541-1985-180195"
+    },
+    {
+     "id": "pt:dre:178095:por",
+     "title": "Portaria n.º 796/85",
+     "published": "1985-10-23",
+     "dre_path": "/dr/detalhe/portaria/796-1985-178095"
+    },
+    {
+     "id": "pt:dre:421776:por",
+     "title": "Portaria n.º 451/87",
+     "published": "1987-05-29",
+     "dre_path": "/dr/detalhe/portaria/451-1987-421776"
+    },
+    {
+     "id": "pt:dre:285877:por",
+     "title": "Portaria n.º 162/88",
+     "published": "1988-03-16",
+     "dre_path": "/dr/detalhe/portaria/162-1988-285877"
     }
    ],
    "changes": [
-    "Altera Artigo unidades 10-10"
+    "Altera Artigo unidades 10-10",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
-    "f60c5ad455428df3"
+    "e5f01101a584dcf3"
    ]
   }
  ],
@@ -42,15 +73,20 @@
    "changed_by": [],
    "markdown": "de 2 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Centro de Saúde Mental de Leiria, anexo à presente portaria.\n\n2.º A transição do pessoal abrangido pela presente portaria para as categorias constantes do quadro anexo será feita de acordo com os artigos 3.º e 4.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, e nos termos previstos na lei geral aplicável.\n\nMinistérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 13 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo. - O Secretário de Estado da Reforma Administrativa, José Cândido Sousa Carrusca Robin de Andrade.\n\nQuadro de Pessoal do Centro de Saúde Mental de Leiria\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20101/00110011.pdf)\n\nNota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração mensal de 4000$00 para falhas, sem prejuízo da revisão deste quantitativo, nos termos da lei geral aplicável."
   },
-  "f60c5ad455428df3": {
+  "e5f01101a584dcf3": {
    "fragment_id": null,
    "type": null,
    "heading": null,
-   "in_force_from": "1983-03-17",
+   "in_force_from": "1988-03-21",
    "changed_by": [
-    "Alterado pelo/a [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), publicado em 1983-03-17."
+    "Alterado pelo/a [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), publicado em 1983-03-17.",
+    "Alterado pelo/a [Portaria n.º 162/88](https://diariodarepublica.pt/dr/detalhe/portaria/162-1988-285877), publicado em 1988-03-16.",
+    "Alterado pelo/a [Portaria n.º 451/87](https://diariodarepublica.pt/dr/detalhe/portaria/451-1987-421776), publicado em 1987-05-29.",
+    "Alterado pelo/a [Portaria n.º 507/83](https://diariodarepublica.pt/dr/detalhe/portaria/507-1983-451050), publicado em 1983-05-03.",
+    "Alterado pelo/a [Portaria n.º 541/85](https://diariodarepublica.pt/dr/detalhe/portaria/541-1985-180195), publicado em 1985-08-03.",
+    "Alterado pelo/a [Portaria n.º 796/85](https://diariodarepublica.pt/dr/detalhe/portaria/796-1985-178095), publicado em 1985-10-23."
    ],
-   "markdown": "de 2 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Centro de Saúde Mental de Leiria, anexo à presente portaria.\n\n2.º A transição do pessoal abrangido pela presente portaria para as categorias constantes do quadro anexo será feita de acordo com os artigos 3.º e 4.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, e nos termos previstos na lei geral aplicável.\n\nMinistérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 13 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo. - O Secretário de Estado da Reforma Administrativa, José Cândido Sousa Carrusca Robin de Andrade.\n\nQuadro de Pessoal do Centro de Saúde Mental de Leiria\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20101/00110011.pdf)\n\nNota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 400$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.\n\n> Alterado pelo/a [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), publicado em 1983-03-17."
+   "markdown": "de 2 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Centro de Saúde Mental de Leiria, anexo à presente portaria.\n\n2.º A transição do pessoal abrangido pela presente portaria para as categorias constantes do quadro anexo será feita de acordo com os artigos 3.º e 4.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, e nos termos previstos na lei geral aplicável.\n\nMinistérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 13 de Agosto de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro dos Assuntos Sociais, Carlos Matos Chaves de Macedo. - O Secretário de Estado da Reforma Administrativa, José Cândido Sousa Carrusca Robin de Andrade.\n\nQuadro de Pessoal do Centro de Saúde Mental de Leiria\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20101/00110011.pdf)\n\nNota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração de 400$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei geral aplicável.\n\n> Alterado pelo/a [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), publicado em 1983-03-17.\n\nAlteração ao quadro de pessoal, na parte referente ao pessoal de enfermagem (Portaria n.º 507/83):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10100/15531553.pdf)\n\nAlteração ao quadro de pessoal, na parte referente ao pessoal técnico superior (pessoal médico) (Portaria n.º 541/85):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/17700/23552355.pdf)\n\nReestruturação do quadro de pessoal, no que se refere ao pessoal operário e auxiliar (Portaria n.º 796/85):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/24400/34993499.pdf)\n\nAlteração ao quadro de pessoal, na parte referente ao pessoal de diagnóstico e terapêutica (Portaria n.º 451/87):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/05/12300/21392141.pdf)\n\nAlteração ao quadro de pessoal (Portaria n.º 162/88):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06300/10731113.pdf)\n\n> Alterado pelo/a [Portaria n.º 162/88](https://diariodarepublica.pt/dr/detalhe/portaria/162-1988-285877), publicado em 1988-03-16.\n\n> Alterado pelo/a [Portaria n.º 451/87](https://diariodarepublica.pt/dr/detalhe/portaria/451-1987-421776), publicado em 1987-05-29.\n\n> Alterado pelo/a [Portaria n.º 507/83](https://diariodarepublica.pt/dr/detalhe/portaria/507-1983-451050), publicado em 1983-05-03.\n\n> Alterado pelo/a [Portaria n.º 541/85](https://diariodarepublica.pt/dr/detalhe/portaria/541-1985-180195), publicado em 1985-08-03.\n\n> Alterado pelo/a [Portaria n.º 796/85](https://diariodarepublica.pt/dr/detalhe/portaria/796-1985-178095), publicado em 1985-10-23."
   }
  }
 }

@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1973-11-08'
     amending: pt:dre:411617:por
-    amending_title: Decreto-Lei n.º 599/73
+    amending_title: Decreto-Lei n.º 599/73; Rectificação
     changes:
     - Altera Artigo 4.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:28:13Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 599/73. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-436-73.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-436-73.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda im, e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,6 +183,8 @@ O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 1.º
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/20100/15251525.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/09/21100/15951595.pdf)
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-413453), publicado em 1973-09-08.
 
 O Ministro da Educação Nacional, José Veiga Simão.

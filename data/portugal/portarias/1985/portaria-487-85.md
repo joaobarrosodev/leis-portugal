@@ -54,12 +54,13 @@ version_history:
     changes: []
   - date: '1993-03-27'
     amending: pt:dre:663490:por
-    amending_title: Portaria n.º 29/87; Portaria n.º 339/93
+    amending_title: Portaria n.º 29/87; Portaria n.º 339/93; Portaria n.º 730/87
     changes:
     - Altera Artigo unidades 30-34
     - Adita Artigo depois da unidade 130
     - Adita Artigo depois da unidade 130
     - Altera Artigo unidades 176-213
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -86,7 +87,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:28:03Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 29/87; Portaria n.º
-    339/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-487-85.alteracoes.json'
+    339/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-487-85.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 730/87.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -702,3 +705,9 @@ O quadro de pessoal do Centro é o constante do anexo a este Regulamento.
 Quadro de pessoal do Centro Regional de Segurança Social de Setúbal
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/16400/21272133.pdf)
+
+Aditamento ao quadro de pessoal do Centro Regional de Segurança Social de Setúbal (Portaria n.º 730/87):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/19300/33053306.pdf)
+
+> Alterado pelo/a [Portaria n.º 730/87](https://diariodarepublica.pt/dr/detalhe/portaria/730-1987-418222), publicado em 1987-08-24.

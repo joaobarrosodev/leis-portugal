@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '1997-10-08'
     amending: pt:dre:661915:por
-    amending_title: Decreto Regulamentar n.º 40/97; Declaração
+    amending_title: Decreto Regulamentar n.º 40/97; Declaração; Portaria n.º 164/92
     changes:
     - Revoga Artigo 59.º
     - Revoga Artigo 60.º
@@ -62,6 +62,7 @@ version_history:
     - Revoga Artigo 62.º
     - Revoga Artigo 63.º
     - Retifica texto
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -89,7 +90,9 @@ provenance:
   generated_at: '2026-10-23T06:17:12Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 40/97. Método
     e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1989/decreto-regulamentar-32-89.alteracoes.json.
-    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 164/92.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1038,6 +1041,12 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 ## ANEXO I — Quadro próprio de pessoal da Secretaria-Geral do Ministério da Defesa Nacional
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)
+
+Substituição do quadro de pessoal da Secretaria-Geral do Ministério da Defesa Nacional, na parte relativa ao grupo de pessoal de informática (Portaria n.º 164/92):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/061b00/12791280.pdf)
+
+> Alterado pelo/a [Portaria n.º 164/92](https://diariodarepublica.pt/dr/detalhe/portaria/164-1992-175506), publicado em 1992-03-13.
 
 ## ANEXO II — Quadro próprio de pessoal da Direcção-Geral de Política de Defesa Nacional
 

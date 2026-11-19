@@ -57,6 +57,7 @@ version_history:
     amending_title: Portaria n.º 176/99
     changes:
     - Altera Artigo unidades 6-6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/588/1998/08/22/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:09:55Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 176/99. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-588-98.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-588-98.alteracoes.json. Planta trocada pela
+    do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 176/99.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,4 +181,4 @@ Assinada em 31 de Julho de 1998.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/08/193b00/42154216.pdf)
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/03/061b00/14041405.pdf)

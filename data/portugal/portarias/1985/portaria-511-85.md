@@ -54,11 +54,12 @@ version_history:
     changes: []
   - date: '1993-03-28'
     amending: pt:dre:228577:por
-    amending_title: Portaria n.º 324/86; Portaria n.º 345/93
+    amending_title: Portaria n.º 324/86; Portaria n.º 345/93; Portaria n.º 558/86
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 5.º
     - Adita Artigo 19.º-A
+    - Altera Artigo 28
 identifiers:
   celex: null
   eli: null
@@ -85,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:28:36Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 324/86; Portaria n.º
-    345/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-511-85.alteracoes.json'
+    345/93. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1985/portaria-511-85.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 558/86.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -715,3 +718,9 @@ O quadro de pessoal do Centro é o constante do anexo a este Regulamento.
 Quadro de pessoal do Centro Regional de Segurança Social de Aveiro
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/17100/22362242.pdf)
+
+Alteração ao quadro de pessoal, no que concerne ao pessoal de informática (Portaria n.º 558/86):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/22300/27682768.pdf)
+
+> Alterado pelo/a [Portaria n.º 558/86](https://diariodarepublica.pt/dr/detalhe/portaria/558-1986-221683), publicado em 1986-09-27.

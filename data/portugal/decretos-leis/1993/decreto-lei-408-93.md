@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '1997-02-12'
     amending: pt:dre:559038:por
-    amending_title: Decreto-Lei n.º 42/97; Declaração de Rectificação n.º 22/94
+    amending_title: Decreto-Lei n.º 42/97; Declaração de Rectificação n.º 22/94; Portaria n.º 225/95; Portaria n.º 515/95
     changes:
     - Altera Artigo 32.º
     - Altera Artigo 33.º
@@ -74,6 +74,7 @@ version_history:
     - Revoga Artigo 2.º
     - Retifica Artigo 21
     - Retifica Artigo 57
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre/pt/html
@@ -101,7 +102,9 @@ provenance:
   generated_at: '2026-10-23T01:28:28Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 42/97. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-408-93.alteracoes.json. Retificações
-    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 22/94.'
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 22/94.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 225/95; Portaria n.º 515/95.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1599,3 +1602,15 @@ Mapa anexo a que se refere o n.º 4 do artigo 38.º
 Quadro de pessoal dirigente e chefia tributária da DGCI
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/290a00/69286943.pdf)
+
+Alteração ao quadro do pessoal dirigente e de chefia tributária da DGCI (Portaria n.º 225/95): são abatidos os lugares incluídos nos mapas I e II anexos à portaria:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/073b00/16631665.pdf)
+
+Alteração ao quadro do pessoal dirigente e de chefia tributária da DGCI (Portaria n.º 515/95): são abatidos os lugares incluídos no mapa anexo à portaria:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/126b00/34273428.pdf)
+
+> Alterado pelo/a [Portaria n.º 225/95](https://diariodarepublica.pt/dr/detalhe/portaria/225-1995-172965), publicado em 1995-03-27.
+
+> Alterado pelo/a [Portaria n.º 515/95](https://diariodarepublica.pt/dr/detalhe/portaria/515-1995-527389), publicado em 1995-05-31.

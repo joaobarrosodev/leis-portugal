@@ -49,3 +49,17 @@ As 7 retificações reprovadas às cegas na 1.ª ronda (6 em dúvida e 1 errada)
 ## Ronda im: imagens, anexos omitidos e republicações
 
 As 11 da classe `imagem_ou_republicacao` foram respondidas na sessão principal (Opus), em `resposta-im-01.jsonl`. Uma troca pode ter `com_ligacoes: true`: `texto_atual` e `texto_novo` são então o Markdown cru, para trocar o endereço de uma imagem republicada ou para inserir, a seguir a uma linha, o anexo que a retificação publica. Não se aplica o que um alterador posterior substituiu (um anexo, uma planta, um número reescrito), com o motivo «reescrito depois». Numa republicação integral, só entram os parágrafos que o alterador posterior não reescreveu e cuja redação de hoje (a da republicação do alterador, quando a há) é a da retificação.
+
+## Ronda r5 (`entrada-r5-01.jsonl`): as instruções que ficaram em dúvida
+
+Cada item é uma retificação (já aplicada em parte, ou não aplicada) com `instrucoes_por_decidir`: as instruções que uma ronda anterior deixou em «dúvida», com o motivo. Na maior parte dos casos, a dúvida foi faltar uma linha nova, coisa que o formato de então não permitia. Agora permite-o.
+
+- **Formato.** Todas as trocas desta ronda levam `com_ligacoes: true`. O `texto_atual` é a linha L exatamente como vem no `texto_em_vigor`, com as ligações, e o `texto_novo` é Markdown cru.
+- **Inserir.** Para inserir um número, uma alínea, uma assinatura ou um fecho omitido, `texto_novo` é a linha de antes, uma linha em branco e o texto novo. Pode haver vários parágrafos, separados por uma linha em branco. Põe o texto novo no sítio que a retificação indica (por exemplo, a seguir à alínea g), ou no fim, depois da última assinatura). O texto inserido é o que a retificação publica, à letra.
+- **Uma linha, uma troca.** Se precisares de mudar uma linha e inserir outra a seguir, faz uma só troca nessa linha.
+- **Decidir cada instrução.** Cada instrução por decidir acaba ou aplicada (com trocas) ou em `nao_aplicadas` com um motivo final: `imagem`, `reescrito depois`, `já aplicada`, `outro diploma`, `metadados`, `republicação` ou `não se aplica: <porquê>`. Já não vale `dúvida`.
+- **Quando não se aplica.** Se o «onde se lê» não bate com o texto e não consegues mostrar, com o próprio texto, que o sítio é único e que a correção é a que a retificação manda, não apliques: `não se aplica: o texto não tem o trecho que a retificação diz que se lê (…)`, com o que o texto tem.
+- **Linhas que não estão na entrada.** Se a linha precisa não vem no `texto_em_vigor` (`texto_parcial`), diz isso no motivo, com `não se aplica: o trecho não está no texto em vigor`, e só quando tiveres procurado em todas as linhas dadas.
+- **`completa`.** Põe `"completa": true` na retificação quando `retificacao_ja_aplicada` é true.
+
+Saída: `resposta-r5-01.jsonl`, uma linha por item, no formato de cima (com `com_ligacoes` e `completa`). Em cada troca, uma `nota` curta: que instrução aplica e onde.

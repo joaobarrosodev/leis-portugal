@@ -57,6 +57,7 @@ version_history:
     amending_title: Portaria n.º 1280/2010
     changes:
     - Altera Artigo unidades 7-7
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/889/2002/07/27/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:44:09Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1280/2010. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-889-2002.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-889-2002.alteracoes.json. Planta
+    trocada pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 1280/2010.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,4 +166,4 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pesca, o 
 
 Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 4 de Julho de 2002.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/07/172b00/55335533.pdf)
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2010/12/24200/0574405745.pdf)

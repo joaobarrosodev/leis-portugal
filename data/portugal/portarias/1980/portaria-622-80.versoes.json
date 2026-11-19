@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1982-01-13",
+   "date": "1991-05-21",
    "future": false,
    "acts": [
     {
@@ -23,13 +23,74 @@
      "title": "Portaria n.º 51/82",
      "published": "1982-01-13",
      "dre_path": "/dr/detalhe/portaria/51-1982-601154"
+    },
+    {
+     "id": "pt:dre:318275:por",
+     "title": "Portaria n.º 1242/82",
+     "published": "1982-12-31",
+     "dre_path": "/dr/detalhe/portaria/1242-1982-318275"
+    },
+    {
+     "id": "pt:dre:318288:por",
+     "title": "Portaria n.º 1315/82",
+     "published": "1982-12-31",
+     "dre_path": "/dr/detalhe/portaria/1315-1982-318288"
+    },
+    {
+     "id": "pt:dre:318337:por",
+     "title": "Portaria n.º 1334/82",
+     "published": "1982-12-31",
+     "dre_path": "/dr/detalhe/portaria/1334-1982-318337"
+    },
+    {
+     "id": "pt:dre:435588:por",
+     "title": "Portaria n.º 807-Z3/83",
+     "published": "1983-07-30",
+     "dre_path": "/dr/detalhe/portaria/807-z3-1983-435588"
+    },
+    {
+     "id": "pt:dre:654511:por",
+     "title": "Portaria n.º 196/84",
+     "published": "1984-04-04",
+     "dre_path": "/dr/detalhe/portaria/196-1984-654511"
+    },
+    {
+     "id": "pt:dre:180632:por",
+     "title": "Portaria n.º 573/85",
+     "published": "1985-08-10",
+     "dre_path": "/dr/detalhe/portaria/573-1985-180632"
+    },
+    {
+     "id": "pt:dre:226842:por",
+     "title": "Portaria n.º 253/86",
+     "published": "1986-05-26",
+     "dre_path": "/dr/detalhe/portaria/253-1986-226842"
+    },
+    {
+     "id": "pt:dre:419584:por",
+     "title": "Portaria n.º 544/87",
+     "published": "1987-07-02",
+     "dre_path": "/dr/detalhe/portaria/544-1987-419584"
+    },
+    {
+     "id": "pt:dre:496717:por",
+     "title": "Portaria n.º 890/87",
+     "published": "1987-11-20",
+     "dre_path": "/dr/detalhe/portaria/890-1987-496717"
+    },
+    {
+     "id": "pt:dre:642185:por",
+     "title": "Portaria n.º 413/91",
+     "published": "1991-05-16",
+     "dre_path": "/dr/detalhe/portaria/413-1991-642185"
     }
    ],
    "changes": [
-    "Altera Artigo unidades 10-10"
+    "Altera Artigo unidades 10-10",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
-    "3c6cff09c2591d3a"
+    "fc4cd3eb13ac8c7c"
    ]
   }
  ],
@@ -42,15 +103,25 @@
    "changed_by": [],
    "markdown": "de 16 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Hospital Distrital de Bragança, anexo à presente portaria.\n\n2.º A colocação do pessoal ao serviço nos lugares do presente quadro será feita mediante lista nominativa aprovada por despacho do Secretário de Estado da Saúde, independentemente de quaisquer formalidades, salvo a anotação do Tribunal de Contas e respectiva publicação no Diário da República.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais, 27 de Agosto de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.\n\nQuadro de pessoal do Hospital Distrital de Bragança\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26712672.pdf)\n\nNota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 500$00 mensais para falhas."
   },
-  "3c6cff09c2591d3a": {
+  "fc4cd3eb13ac8c7c": {
    "fragment_id": null,
    "type": null,
    "heading": null,
-   "in_force_from": "1982-01-13",
+   "in_force_from": "1991-05-21",
    "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1242/82](https://diariodarepublica.pt/dr/detalhe/portaria/1242-1982-318275), publicado em 1982-12-31.",
+    "Alterado pelo/a [Portaria n.º 1315/82](https://diariodarepublica.pt/dr/detalhe/portaria/1315-1982-318288), publicado em 1982-12-31.",
+    "Alterado pelo/a [Portaria n.º 1334/82](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1982-318337), publicado em 1982-12-31.",
+    "Alterado pelo/a [Portaria n.º 196/84](https://diariodarepublica.pt/dr/detalhe/portaria/196-1984-654511), publicado em 1984-04-04.",
+    "Alterado pelo/a [Portaria n.º 253/86](https://diariodarepublica.pt/dr/detalhe/portaria/253-1986-226842), publicado em 1986-05-26.",
+    "Alterado pelo/a [Portaria n.º 413/91](https://diariodarepublica.pt/dr/detalhe/portaria/413-1991-642185), publicado em 1991-05-16.",
+    "Alterado pelo/a [Portaria n.º 544/87](https://diariodarepublica.pt/dr/detalhe/portaria/544-1987-419584), publicado em 1987-07-02.",
+    "Alterado pelo/a [Portaria n.º 573/85](https://diariodarepublica.pt/dr/detalhe/portaria/573-1985-180632), publicado em 1985-08-10.",
+    "Alterado pelo/a [Portaria n.º 807-Z3/83](https://diariodarepublica.pt/dr/detalhe/portaria/807-z3-1983-435588), publicado em 1983-07-30.",
+    "Alterado pelo/a [Portaria n.º 890/87](https://diariodarepublica.pt/dr/detalhe/portaria/890-1987-496717), publicado em 1987-11-20.",
     "Alterado pelo/a [Portaria n.º 51/82](https://diariodarepublica.pt/dr/detalhe/portaria/51-1982-601154), publicado em 1982-01-13."
    ],
-   "markdown": "de 16 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Hospital Distrital de Bragança, anexo à presente portaria.\n\n2.º A colocação do pessoal ao serviço nos lugares do presente quadro será feita mediante lista nominativa aprovada por despacho do Secretário de Estado da Saúde, independentemente de quaisquer formalidades, salvo a anotação do Tribunal de Contas e respectiva publicação no Diário da República.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais, 27 de Agosto de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.\n\nQuadro de pessoal do Hospital Distrital de Bragança\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26712672.pdf)\n\nNota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 600$00 mensais para falhas.\n\n> Alterado pelo/a [Portaria n.º 51/82](https://diariodarepublica.pt/dr/detalhe/portaria/51-1982-601154), publicado em 1982-01-13."
+   "markdown": "de 16 de Setembro\n\nEm execução do disposto no artigo 2.º do [Decreto-Lei n.º 513-U/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-u-1979-147382), de 27 de Dezembro, segundo a nova redacção dada pelo [Decreto-Lei n.º 96/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1980-298998), de 5 de Maio, e em conformidade com o artigo 1.º, n.º 2, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e dos Assuntos Sociais e pelo Secretário de Estado da Reforma Administrativa, o seguinte:\n\n1.º É aprovado o quadro de pessoal do Hospital Distrital de Bragança, anexo à presente portaria.\n\n2.º A colocação do pessoal ao serviço nos lugares do presente quadro será feita mediante lista nominativa aprovada por despacho do Secretário de Estado da Saúde, independentemente de quaisquer formalidades, salvo a anotação do Tribunal de Contas e respectiva publicação no Diário da República.\n\nPresidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais, 27 de Agosto de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro dos Assuntos Sociais, João António Morais Leitão. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.\n\nQuadro de pessoal do Hospital Distrital de Bragança\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26712672.pdf)\n\nNota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 600$00 mensais para falhas.\n\nAlteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal de enfermagem (Portaria n.º 1242/82):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/42874287.pdf)\n\nAlteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal técnico superior e pessoal operário e auxiliar (Portaria n.º 1315/82):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/43154316.pdf)\n\nAlterações ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal auxiliar de educação (Portaria n.º 1334/82):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/43264326.pdf)\n\nAlteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal técnico superior e pessoal médico (Portaria n.º 807-Z3/83):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17406/00900091.pdf)\n\nAlteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal operário e auxiliar (Portaria n.º 196/84):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/04/08000/11341135.pdf)\n\nLugar aditado ao quadro de pessoal do Hospital Distrital de Bragança, a extinguir quando vagar (Portaria n.º 573/85):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18300/25112511.pdf)\n\nAlteração ao quadro de pessoal do Hospital Distrital de Bragança (Portaria n.º 253/86):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/12000/12651266.pdf)\n\nAlteração ao quadro de pessoal do Hospital Distrital de Bragança (Portaria n.º 544/87):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/14900/25502550.pdf)\n\nAlteração ao quadro de pessoal do Hospital Distrital de Bragança, na parte referente ao pessoal técnico de diagnóstico e terapêutica (Portaria n.º 890/87):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/26800/40584058.pdf)\n\nQuadro de pessoal médico do Hospital Distrital de Bragança, substituído pelos quadros anexos à Portaria n.º 413/91:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/112b00/25992619.pdf)\n\n> Alterado pelo/a [Portaria n.º 1242/82](https://diariodarepublica.pt/dr/detalhe/portaria/1242-1982-318275), publicado em 1982-12-31.\n\n> Alterado pelo/a [Portaria n.º 1315/82](https://diariodarepublica.pt/dr/detalhe/portaria/1315-1982-318288), publicado em 1982-12-31.\n\n> Alterado pelo/a [Portaria n.º 1334/82](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1982-318337), publicado em 1982-12-31.\n\n> Alterado pelo/a [Portaria n.º 196/84](https://diariodarepublica.pt/dr/detalhe/portaria/196-1984-654511), publicado em 1984-04-04.\n\n> Alterado pelo/a [Portaria n.º 253/86](https://diariodarepublica.pt/dr/detalhe/portaria/253-1986-226842), publicado em 1986-05-26.\n\n> Alterado pelo/a [Portaria n.º 413/91](https://diariodarepublica.pt/dr/detalhe/portaria/413-1991-642185), publicado em 1991-05-16.\n\n> Alterado pelo/a [Portaria n.º 544/87](https://diariodarepublica.pt/dr/detalhe/portaria/544-1987-419584), publicado em 1987-07-02.\n\n> Alterado pelo/a [Portaria n.º 573/85](https://diariodarepublica.pt/dr/detalhe/portaria/573-1985-180632), publicado em 1985-08-10.\n\n> Alterado pelo/a [Portaria n.º 807-Z3/83](https://diariodarepublica.pt/dr/detalhe/portaria/807-z3-1983-435588), publicado em 1983-07-30.\n\n> Alterado pelo/a [Portaria n.º 890/87](https://diariodarepublica.pt/dr/detalhe/portaria/890-1987-496717), publicado em 1987-11-20.\n\n> Alterado pelo/a [Portaria n.º 51/82](https://diariodarepublica.pt/dr/detalhe/portaria/51-1982-601154), publicado em 1982-01-13."
   }
  }
 }

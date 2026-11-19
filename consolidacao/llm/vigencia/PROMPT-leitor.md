@@ -40,3 +40,18 @@ Um ficheiro `resposta-NN.jsonl` (ou `duvidas-resposta-NN.jsonl`), na mesma pasta
 ```
 
 Escreve o ficheiro com um script ou com Write. Confirma que é JSON válido, linha a linha, e que tem todos os ids.
+
+## Os incertos (`incertos-entrada-NN.jsonl`)
+
+Aqui a classe (`caca`, `organicas`, `um_so_ano`, `cursos_pre_bolonha`) é um palpite das regras, de certeza baixa. Para cada diploma, diz também se a confirmas:
+
+- `classe_confirmada`: `true` se o diploma é mesmo da classe, `false` se não é. Por exemplo: não é uma concessão de caça, não é uma orgânica, não é um regime de um só ano, não cria nem regula um curso ou grau do ensino superior.
+- Nos `cursos_pre_bolonha`, o veredicto pode ser também `regime_anterior`. Usa-o quando o diploma cria ou regula um curso, grau ou plano de estudos do ensino superior anterior ao DL 74/2006. Não se afirma que caducou. Se não é um curso, `duvida` com `classe_confirmada: false`.
+- Nas outras classes, as regras de cima não mudam: `nao_vigora` só com prova na entrada.
+- Um regime de um só ano que já passou leva `duvida`. Diz em `ano` o ano a que se aplica, quando o título, o sumário ou o texto o dizem («para o ano de 1992» → 1992).
+
+Saída: `incertos-resposta-NN.jsonl`, com uma linha por diploma:
+
+```json
+{"id": "…", "veredicto": "nao_vigora|vigora|duvida|regime_anterior", "classe_confirmada": true, "ano": null, "prova": "…", "motivo": "<uma frase>"}
+```

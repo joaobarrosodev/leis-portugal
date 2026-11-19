@@ -58,6 +58,7 @@ version_history:
     changes:
     - Altera Artigo unidades 8-8
     - Adita Artigo depois da unidade 8
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/883/1995/07/14/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:13:18Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 964/97; Portaria n.º
-    1033-GT/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-883-95.alteracoes.json'
+    1033-GT/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-883-95.alteracoes.json.
+    Planta trocada pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria
+    n.º 1033-GT/2004.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -194,4 +197,4 @@ Assinada em 4 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/44944494.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/08/187b02/00980098.pdf)

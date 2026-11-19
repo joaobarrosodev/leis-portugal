@@ -43,11 +43,12 @@ version_history:
     changes: []
   - date: '1995-03-31'
     amending: pt:dre:174313:por
-    amending_title: Decreto-Lei n.º 58/95; Declaração
+    amending_title: Decreto-Lei n.º 58/95; Declaração; Declaração
     changes:
     - Revoga Artigo 6.º
     - Revoga Artigo 11.º
     - Retifica Artigo 4
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,8 @@ provenance:
   generated_at: '2026-10-22T23:37:09Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 58/95. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1981/decreto-lei-180-81.alteracoes.json. Retificações
-    aplicadas por regra (consolidacao/retificacoes.py): Declaração.'
+    aplicadas por regra (consolidacao/retificacoes.py): Declaração. Retificações aplicadas com um LLM, na ronda r5, e verificadas
+    às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -293,6 +295,14 @@ Em tudo o que neste diploma e nas normas da Organização Tutelar de Menores nã
 2 - A data da entrada em funcionamento do Centro será fixada por portaria conjunta do Ministro da Justiça e do Secretário Regional dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros, 21 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 17 de Junho de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-579562), publicado em 1981-07-23.
 
 Mapa a que se refere o artigo 17.º
 

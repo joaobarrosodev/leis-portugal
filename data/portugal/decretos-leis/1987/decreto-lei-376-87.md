@@ -122,7 +122,8 @@ provenance:
   generated_at: '2026-10-23T00:22:10Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 364/93; Lei n.º 44/96;
     Decreto-Lei n.º 150/97; Decreto-Lei n.º 229/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1987/decreto-lei-376-87.alteracoes.json.
-    Retificações aplicadas com um LLM, na ronda r2, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM, na ronda r2, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.
+    Retificações aplicadas com um LLM, na ronda r4, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -399,7 +400,7 @@ c) Que abranja as restantes comarcas, um funcionário dos serviços judiciais e 
 
 2 - Junto dos tribunais em que as circunstâncias inerentes ao seu funcionamento o imponham, haverá guardas da Polícia de Segurança Pública, em termos a estabelecer por despacho conjunto dos Ministros da Administração Interna e da Justiça.
 
-3 - Os guardas da Polícia de Segurança Pública só podem ser requisitados para coadjuvar os oficiais de justiça na efectivação de diligências externas ou para assegurarem a manutenção da ordem pública no decurso de actos judiciais de que possa resultatar a sua perturbação.
+3 - Os guardas da Polícia de Segurança Pública só podem ser requisitados para coadjuvar os oficiais de justiça na efectivação de diligências externas ou para assegurarem a manutenção da ordem pública no decurso de actos judiciais de que possa resultar a sua perturbação.
 
 > Alterado pelo/a [Decreto-Lei n.º 364/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1993-666745), publicado em 1993-10-22.
 

@@ -71,3 +71,15 @@ def test_renovacao_vista_pela_consolidacao_nao_fica_em_falta(tmp_path, monkeypat
     marcas, em_falta = vigencia.caca_prazo(consolidados, processos, vistos={})
     assert marcas == {}
     assert [m["alterador"] for m in em_falta] == ["renov"]
+
+
+
+def test_periodo_de_um_so_ano():
+    sys.path.insert(0, str(PASTA))
+    import vigencia_llm
+    assert vigencia_llm._ano("Portaria n.º 99-A/77", "Sujeita a contingentação durante o ano de 1977 a importação") == ("o ano de 1977", 1977)
+    assert vigencia_llm._ano("Portaria n.º 765/87", "Fixa o numerus clausus para o ano lectivo de 1987-1988") == ("o ano lectivo de 1987-1988", 1988)
+    assert vigencia_llm._ano("DL 45/95", "Estabelece normas de execução do Orçamento do Estado para 1995") == ("o ano de 1995", 1995)
+    assert vigencia_llm._ano("Portaria n.º 1147/2005", "Adopta a TLEBS a partir do ano lectivo de 2005-2006") is None
+    assert vigencia_llm._ano("DL 292/97", "Concede benefícios para o ano de 1997, prorrogado até 2003") is None
+    assert vigencia_llm._ano("Portaria", "para o ano de 1992 e para o ano de 1993") is None

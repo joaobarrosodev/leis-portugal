@@ -54,13 +54,14 @@ version_history:
   - date: '2011-02-09'
     amending: pt:dre:165191:por
     amending_title: Resolução do Conselho de Ministros n.º 10/99; Resolução do Conselho de Ministros n.º 161-A/2007; Aviso
-      n.º 4215/2011
+      n.º 4215/2011; Aviso n.º 4860/2016
     changes:
     - Altera Artigo 17.º
     - Altera Artigo 23.º
     - Altera Artigo 33.º
     - Altera Artigo 34.º
     - Altera Artigo 35.º
+    - Retifica Artigo 33
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/106/1995/10/16/p/dre/pt/html
@@ -88,7 +89,8 @@ provenance:
   generated_at: '2026-10-26T23:14:03Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
     n.º 10/99; Resolução do Conselho de Ministros n.º 161-A/2007; Aviso n.º 4215/2011. Método e verificação: consolidacao/README.md
-    e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-106-95.alteracoes.json'
+    e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1995/resolucao-conselho-ministros-106-95.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda rc, e verificadas às cegas (consolidacao/retificacoes_llm.py): Aviso n.º 4860/2016.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1255,6 +1257,8 @@ a) For reconhecido o interesse económico, nomeadamente no sector industrial e a
 
 b) Não for excedida a edificabilidade máxima correspondente a uma densidade de seis fogos por hectare.
 
+c) o índice de construção (IC) é de 0,006
+
 6 - No caso de não haver rede pública de saneamento básico ou que pela localização da edificação não seja possível efectuar a ligação, seja garantida, pelo interessado, uma solução autónoma a aprovar pela Câmara Municipal, e que as descargas de efluentes previamente tratados nas linhas de água sejam licenciadas.
 
 7 - Nesta classe de espaço são igualmente admitidos, empreendimentos turísticos isolados nas tipologias de estabelecimentos hoteleiros associados a temáticas específicas (saúde, desporto, actividades cinegéticas, da natureza, educativas, culturais, sociais, etc.), empreendimentos de turismo em espaço rural, empreendimentos de turismo de habitação, parques de campismo, de caravanismo, de autocaravanismo e estações de serviço e empreendimentos de turismo da natureza, bem como os previstos no artigo 17.º do presente Regulamento, devendo ser respeitados os seguintes requisitos:
@@ -1277,7 +1281,11 @@ Utilização de materiais apropriados à sua adequada integração paisagística
 
 Valorização de vistas, do território e da respectiva inserção paisagística.
 
+v) o índice de construção (IC) é de 0,006
+
 > Alterado pelo/a [Aviso n.º 4215/2011](https://diariodarepublica.pt/dr/detalhe/aviso/4215-2011-2913620), publicado em 2011-02-09.
+
+> Retificado pelo/a [Aviso n.º 4860/2016](https://diariodarepublica.pt/dr/detalhe/aviso/4860-2016-74116238), publicado em 2016-04-12.
 
 ###### Artigo 34.º — Condicionamentos nos espaços de protecção e valorização ambiental
 

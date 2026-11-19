@@ -242,13 +242,12 @@ O João aprovou as três propostas da secção 4.
 | Estado | Retificações |
 |---|--:|
 | Aplicadas por regra | 67 |
-| Aplicadas com o LLM (Opus a responder, Sonnet às cegas) | 85 |
-| Nada a aplicar (LLM) | 38 |
+| Aplicadas com o LLM (Opus a responder, Sonnet às cegas) | 99 |
+| Nada a aplicar (LLM), com o motivo | 41 |
 | Sem trabalho | 36 |
-| Fora: imagem ou republicação | 11 |
-| Fora: sem registo | 6 |
+| **Por ver** | **0** |
 
-As 152 aplicadas estão em 146 diplomas. Das 85 com o LLM, 7 só passaram numa 2.ª ou 3.ª ronda, refeitas com o reparo do verificador, e 4 trocas dessas ficaram por aplicar, com o motivo. Nas próximas rondas, `corrected_by` conta como alterador (seleção, leitor, verificação às cegas, pedido ao LLM e data da versão).
+As 166 aplicadas estão em 156 diplomas. As 11 em imagem ou republicação e as 6 sem registo (recolhidas do DRE) fecharam a 19/11, à noite, nas rondas im e rc. Das 11, aplicaram-se 6, e as outras 5 tinham sido reescritas depois. Também fecharam as 4 trocas por aplicar (r4) e as 18 instruções em «dúvida» (r5 e r6). Na r4, o art. 8.º do DL 376/87 entrou, porque a decisão da r2 de o tirar estava errada: o DL 364/93 só o renumerou. Apareceu um problema novo, o da nota e da etiqueta fora do articulado, corrigido em 14 registos. Os pormenores estão no README, secção 9, passo 6. Das 85 com o LLM, 7 só passaram numa 2.ª ou 3.ª ronda, refeitas com o reparo do verificador, e 4 trocas dessas ficaram por aplicar, com o motivo. Nas próximas rondas, `corrected_by` conta como alterador (seleção, leitor, verificação às cegas, pedido ao LLM e data da versão).
 
 **Vigência** (`consolidacao/README.md`, secção 10).
 
@@ -277,6 +276,18 @@ As 152 aplicadas estão em 146 diplomas. Das 85 com o LLM, 7 só passaram numa 2
 Por classe, as marcas foram 18 de 370 na caça, 8 de 210 nas orgânicas e 0 de 78 nos regimes de um só ano.
 
 **As renovações de caça «fora da cadeia» (66 linhas, 40 pares).** Não havia nada a aplicar. 38 pares já estavam na cadeia: a consolidação viu-os (seleção e `alteradores_vistos` do LLM) e não mudam o texto, porque uma renovação renova a concessão sem reescrever a portaria. Os outros 2 eram números de processo trocados (um acórdão do STJ e uma gralha no sumário da Portaria 449/2004). A regra foi corrigida (`vigencia.na_cadeia()`), e `alteradores-em-falta.jsonl` fica vazio. As marcas não mudam (339).
+
+**Problema novo, fechado: anexos e plantas de alteradores (README, secção 11).**
+- **Anexos.** Alteradores triados «sem alteração textual» mudavam anexos, mapas ou quadros, e o consolidado ficava com os do original (206 pares em 89 consolidados). Aplicaram-se 113 em 45 consolidados, com resposta Opus e verificação às cegas Sonnet. Os outros 93 ficaram com o motivo: outro diploma, reescrito depois, já aplicada, ou não passaram às cegas.
+- **Plantas.** Em 179 zonas de caça, o n.º 1.º reescrito remete para a planta do alterador, mas a imagem era a do original. Trocaram-se 174, todas verificadas às cegas.
+
+**Fecho da vigência (19/11, à noite).** Os 135 incertos tiveram uma leitura com Sonnet. Cada um dos 793 candidatos acaba com marca ou com «revista, sem marca» e o motivo (`consolidacao/auditoria/vigencia-fecho.jsonl`):
+- 37 `nao_vigora` com prova (26 de antes, mais 11 dos incertos);
+- 10 `regime_anterior` em cursos incertos;
+- 57 `por_confirmar`, uma marca branda que não afirma que caducou: 46 regimes de um só ano que já passou e 11 concessões de caça com o prazo acabado e sem renovação nas menções;
+- 689 revistas, sem marca.
+
+O total de marcas passa de 339 para 417. O README, secção 10, tem a tabela por classe.
 
 O rendimento baixo, sobretudo do Opus nas dúvidas (2 marcas em 620), vem de a prova de que a maior parte deixou de vigorar não estar no acervo: as renovações e as extinções da 2.ª série, e os regimes que caducam sem ato expresso. Não se fizeram mais rondas.
 

@@ -32,7 +32,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1979-06-02'
+  consolidation_date: '1982-02-03'
 version_history:
   file: decreto-69-78.versoes.json
   count: 2
@@ -42,11 +42,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1979-06-02'
+  - date: '1982-02-03'
     amending: pt:dre:383830:por
-    amending_title: Decreto-Lei n.º 166/79
+    amending_title: Decreto-Lei n.º 166/79; Decreto-Lei n.º 368/79; Portaria n.º 1048/80; Portaria n.º 37/81; Portaria n.º
+      275/81; Portaria n.º 397/81; Portaria n.º 396/81; Portaria n.º 86/82; Portaria n.º 120/82; Portaria n.º 153/82
     changes:
     - Altera Artigo 9.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -73,7 +75,10 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:51:01Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 166/79. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1978/decreto-69-78.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1978/decreto-69-78.alteracoes.json. Anexos
+    e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Decreto-Lei n.º 368/79; Portaria n.º 1048/80; Portaria n.º 37/81; Portaria n.º 275/81; Portaria n.º 397/81; Portaria n.º
+    396/81; Portaria n.º 86/82; Portaria n.º 120/82; Portaria n.º 153/82.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -273,6 +278,60 @@ Mapa I a que se refere o artigo 1.º do Decreto n.º 69/78, desta data
 (Quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura)
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16101/00010003.pdf)
+
+Alteração ao mapa I (Decreto-Lei n.º 368/79):
+
+Art. 5.º - 1 - Ao quadro do pessoal constante do mapa I anexo ao [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616) é acrescentado um lugar de chefe de divisão e outro de técnico principal, a acrescer ao mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
+
+Alteração ao mapa I (Portaria n.º 1048/80):
+
+É criado no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Ciência, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, um lugar de assessor (letra B), a extinguir quando vagar.
+
+Alteração ao mapa I (Portaria n.º 37/81):
+
+1.º Ao quadro de pessoal dirigente e técnico constante do mapa I anexo ao [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), de 12 de Fevereiro, são acrescentados dois lugares de subdirector-geral do Ensino Secundário, que se integram no quadro único a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.
+
+Alteração ao mapa I (Portaria n.º 275/81):
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Ciência, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, um lugar de assessor, letra C, a extinguir quando vagar.
+
+Alteração ao mapa I (Portaria n.º 397/81):
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Ciência, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, 1 lugar de assessor, letra B, a extinguir quando vagar.
+
+Alteração ao mapa I (Portaria n.º 396/81):
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, aditar 1 lugar da categoria de chefe de repartição ao quadro único de pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Ciência, constante do mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, o qual se integra nesse quadro para todos os efeitos legais.
+
+Alteração ao mapa I (Portaria n.º 86/82):
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e das Universidades e da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e das Universidades a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, 1 lugar de técnico superior principal, a extinguir quando vagar.
+
+Alteração ao mapa I (Portaria n.º 120/82):
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e das Universidades e da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e das Universidades, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, 1 lugar de assessor, letra B, a extinguir quando vagar.
+
+Alteração ao mapa I (Portaria n.º 153/82):
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, pelo Ministro da Educação e das Universidades e pelo Secretário de Estado da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e das Universidades, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, 2 lugares de técnico superior principal, a extinguir quando vagarem.
+
+> Alterado pelo/a [Decreto-Lei n.º 368/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1979-370783), publicado em 1979-09-04.
+
+> Alterado pelo/a [Portaria n.º 1048/80](https://diariodarepublica.pt/dr/detalhe/portaria/1048-1980-459886), publicado em 1980-12-11.
+
+> Alterado pelo/a [Portaria n.º 120/82](https://diariodarepublica.pt/dr/detalhe/portaria/120-1982-600709), publicado em 1982-01-28.
+
+> Alterado pelo/a [Portaria n.º 153/82](https://diariodarepublica.pt/dr/detalhe/portaria/153-1982-601099), publicado em 1982-02-03.
+
+> Alterado pelo/a [Portaria n.º 275/81](https://diariodarepublica.pt/dr/detalhe/portaria/275-1981-388061), publicado em 1981-03-17.
+
+> Alterado pelo/a [Portaria n.º 37/81](https://diariodarepublica.pt/dr/detalhe/portaria/37-1981-390375), publicado em 1981-01-15.
+
+> Alterado pelo/a [Portaria n.º 396/81](https://diariodarepublica.pt/dr/detalhe/portaria/396-1981-573919), publicado em 1981-05-19.
+
+> Alterado pelo/a [Portaria n.º 397/81](https://diariodarepublica.pt/dr/detalhe/portaria/397-1981-573914), publicado em 1981-05-19.
+
+> Alterado pelo/a [Portaria n.º 86/82](https://diariodarepublica.pt/dr/detalhe/portaria/86-1982-601486), publicado em 1982-01-20.
 
 Mapa II a que se refere o artigo 2.º do Decreto n.º 69/78, desta data
 

@@ -41,6 +41,18 @@
      "title": "Decreto n.º 48504",
      "published": "1968-07-29",
      "dre_path": "/dr/detalhe/decreto/48504-1968-273633"
+    },
+    {
+     "id": "pt:dre:193780:por",
+     "title": "Portaria n.º 19689",
+     "published": "1963-02-06",
+     "dre_path": "/dr/detalhe/portaria/19689-1963-193780"
+    },
+    {
+     "id": "pt:dre:693238:por",
+     "title": "Portaria n.º 19924",
+     "published": "1963-06-29",
+     "dre_path": "/dr/detalhe/portaria/19924-1963-693238"
     }
    ],
    "changes": [
@@ -48,7 +60,8 @@
     "Altera Artigo 47.º",
     "Altera Artigo 79.º",
     "Altera Artigo 80.º",
-    "Altera Artigo 86.º"
+    "Altera Artigo 86.º",
+    "Altera Artigo 110"
    ],
    "fragments": [
     "561ee5f7cad7bc9a",
@@ -180,7 +193,7 @@
     "b01d3541df430862",
     "e91386018f0e01db",
     "b08995b593476cd3",
-    "15f3c32439aad7e5"
+    "bd743323aee24f73"
    ]
   }
  ],
@@ -1347,13 +1360,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 109.º\n\nO artigo 2.º do regulamento aprovado pelo [Decreto n.º 40740](https://diariodarepublica.pt/dr/detalhe/decreto/40740-1956-232336), de 24 de Agosto de 1956, passa a ter a seguinte redacção:\n\nArt. 2.º - 1. A Direcção-Geral dos Registos e do Notariado é constituída por uma repartição dos serviços gerais, uma repartição técnica e uma repartição dos serviços de inspecção.\n\n2. Pertencem à 1.ª Repartição os serviços de expediente geral, arquivo e contabilidade e os relativos ao movimento do pessoal.\n\n3. À 2.ª Repartição pertencem os serviços de consulta, a elaboração de estudos e pareceres técnicos sobre matéria de registo, actos notariais e de identificação, bem como os relativos à organização, funcionamento e estatística dos serviços externos.\n\n4. À 3.ª Repartição, que funciona sob a chefia do inspector-chefe, pertencem os serviços de inspecção, disciplina e instalação de todos os serviços dependentes da direcção-geral."
   },
-  "15f3c32439aad7e5": {
+  "bd743323aee24f73": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 110.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 110.º\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1962.\n\nMinistério da Justiça, 28 de Novembro de 1961. - O Ministro da Justiça, João de Matos Antunes Varela.\n\nDo MAPA I ao MAPA VI\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27600/15041527.pdf)\n\nMinistério da Justiça, 28 de Novembro de 1961. - O Ministro da Justiça, João de Matos Antunes Varela."
+   "in_force_from": "1968-07-29",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 19689](https://diariodarepublica.pt/dr/detalhe/portaria/19689-1963-193780), publicado em 1963-02-06.",
+    "Alterado pelo/a [Portaria n.º 19924](https://diariodarepublica.pt/dr/detalhe/portaria/19924-1963-693238), publicado em 1963-06-29."
+   ],
+   "markdown": "###### Artigo 110.º\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1962.\n\nMinistério da Justiça, 28 de Novembro de 1961. - O Ministro da Justiça, João de Matos Antunes Varela.\n\nDo MAPA I ao MAPA VI\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/27600/15041527.pdf)\n\nAlteração ao mapa VI (Portaria n.º 19689):\n\nManda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do n.º 3 do artigo 63.º do [Decreto n.º 44064](https://diariodarepublica.pt/dr/detalhe/decreto/44064-1961-185295), de 23 de Novembro de 1961, sejam aumentados com as unidades adiante referidas os quadros do pessoal auxiliar dos seguintes serviços:\n\nConservatória do Registo Civil de Chaves: um escriturário de 1.ª classe;\n\nConservatória do Registo Civil de Guimarães: um escriturário de 1.ª classe;\n\nConservatória do Registo Civil de Odemira: um escriturário de 2.ª classe;\n\nConservatória do Registo Predial de Braga: um escriturário de 2.ª classe;\n\nConservatória do Registo Predial da Golegã: um escriturário de 2.ª classe;\n\nConservatória do Registo Predial de Paredes: um escriturário de 2.ª classe;\n\nConservatória do Registo Predial de Santiago do Cacém: um escriturário de 2.ª classe;\n\nSecretaria notarial de Almada: um escriturário de 1.ª classe;\n\nSecretaria notarial de Leiria: um escriturário de 1.ª classe;\n\n17.º cartório notarial de Lisboa: um terceiro-ajudante;\n\n19.º cartório notarial de Lisboa: um terceiro-ajudante;\n\nCartório notarial de Rio Maior: um escriturário de 2.ª classe;\n\nServiços anexados dos registos civil e predial de Cinfães: um escriturário de 2.ª classe;\n\nServiços anexados dos registo civil e predial da Póvoa de Lanhoso: um escriturário de 2.ª classe.\n\nIgualmente se determina que seja fixado com um terceiro-ajudante o quadro do pessoal auxiliar do cartório notarial de Miranda do Douro e com um terceiro-ajudante e um escriturário de 2.ª classe o quadro do pessoal auxiliar dos serviços anexados dos registos civil e predial do mesmo concelho.\n\nAlteração ao mapa VI (Portaria n.º 19924):\n\nManda o Governo da República Portuguesa, pelo Ministro da Justiça, nos termos do n.º 3 do artigo 63.º do [Decreto n.º 44064](https://diariodarepublica.pt/dr/detalhe/decreto/44064-1961-185295), de 28 de Novembro de 1961, que sejam substituídos por lugares de segundo-ajudante os lugares actualmente existentes de terceiro-ajudante nos quadros do pessoal auxiliar dos serviços adiante designados:\n\nConservatórias de registo civil:\n\nÁgueda.\n\nAlbergaria-a-Velha.\n\nAlenquer.\n\nAlijó.\n\nAmarante.\n\nAnadia.\n\nArcos de Valdevez.\n\nBarreiro.\n\nCâmara de Lobos.\n\nElvas.\n\nEspinho.\n\nFafe.\n\nFelgueiras.\n\nGouveia.\n\nIdanha-a-Nova.\n\nÍlhavo.\n\nLoures.\n\nLourinhã.\n\nMafra.\n\nMangualde.\n\nMarco de Canaveses.\n\nMonção.\n\nMontalegre.\n\nMontemor-o-Novo.\n\nMontemor-o-Velho.\n\nMontijo.\n\nMoura.\n\nMurtosa.\n\nOdemira.\n\nOliveira do Bairro.\n\nOliveira do Hospital.\n\nPalmela.\n\nParedes.\n\nPeso da Régua.\n\nPonta do Sol.\n\nPonte de Lima.\n\nPortimão.\n\nSantiago do Cacém.\n\nSeia.\n\nSerpa.\n\nSertã.\n\nSoure.\n\nTavira.\n\nTondela.\n\nTorres Novas.\n\nValongo.\n\nVila Franca de Xira.\n\nVila Verde.\n\nConservatórias de registo predial:\n\nAbrantes.\n\nÁgueda.\n\nAlcobaça.\n\nAlenquer.\n\nAnadia.\n\nAngra do Heroísmo.\n\nCantanhede.\n\nCartaxo.\n\nCoruche.\n\nElvas.\n\nEstarreja.\n\nEstremoz.\n\nFaro.\n\nFeira.\n\nGolegã.\n\nLamego.\n\nMafra.\n\nMangualde.\n\nMontemor-o-Novo.\n\nMoura.\n\nOdemira.\n\nOliveira de Azeméis.\n\nOurique.\n\nParedes.\n\nPenafiel.\n\nPeso da Régua.\n\nPombal.\n\nPortalegre.\n\nPóvoa de Varzim.\n\nRibeira Grande.\n\nSantiago do Cacém.\n\nSanto Tirso.\n\nSerpa.\n\nSertã.\n\nSilves.\n\nTomar.\n\nTorres Novas.\n\nVila do Conde.\n\nVila Nova de Famalicão.\n\nVila Nova de Ourém.\n\nVila da Praia da Vitória.\n\nCartórios notariais:\n\nAlbergaria-a-Velha.\n\nAlenquer.\n\nAlmeirim.\n\nAmarante.\n\nArcos de Valdevez.\n\nArouca.\n\nBarreiro.\n\nCadaval.\n\nCâmara de Lobos.\n\nCartaxo.\n\nCinfães.\n\nCoruche.\n\nElvas.\n\nEspinho.\n\nEsposende.\n\nEstarreja.\n\nEstremoz.\n\nFafe.\n\nFelgueiras.\n\nGondomar.\n\nÍlhavo.\n\nHorta.\n\nLourinhã.\n\nMafra.\n\nMaia.\n\nMangualde.\n\nMarinha Grande.\n\nMealhada.\n\nMonção.\n\nMontalegre.\n\nMontemor-o-Novo.\n\nMontemor-o-Velho.\n\nMoura.\n\nMurtosa.\n\nNelas.\n\nOdemira.\n\nOliveira do Bairro.\n\nOliveira do Hospital.\n\nPaços de Ferreira.\n\nPalmela.\n\nPeso da Régua.\n\nPonte de Lima.\n\nPortimão.\n\nPorto de Mós.\n\nPóvoa de Lanhoso.\n\nRio Maior.\n\nSantiago do Cacém.\n\nS. Pedro do Sul.\n\nSeia.\n\nSerpa.\n\nSoure.\n\nTavira.\n\nValença.\n\nVila da Praia da Vitória.\n\nVila Real de Santo António.\n\nVila Verde.\n\nServiços anexados:\n\nBaião.\n\nHorta.\n\nValpaços.\n\nAos novos lugares aplicar-se-á o disposto no n.º 4 do artigo 75.º do referido [Decreto n.º 44064](https://diariodarepublica.pt/dr/detalhe/decreto/44064-1961-185295), de 28 de Novembro de 1961.\n\nMinistério da Justiça, 28 de Novembro de 1961. - O Ministro da Justiça, João de Matos Antunes Varela.\n\n> Alterado pelo/a [Portaria n.º 19689](https://diariodarepublica.pt/dr/detalhe/portaria/19689-1963-193780), publicado em 1963-02-06.\n\n> Alterado pelo/a [Portaria n.º 19924](https://diariodarepublica.pt/dr/detalhe/portaria/19924-1963-693238), publicado em 1963-06-29."
   }
  }
 }

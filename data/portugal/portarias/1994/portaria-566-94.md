@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '1997-09-07'
     amending: pt:dre:642890:por
-    amending_title: Portaria n.º 843/97
+    amending_title: Portaria n.º 843/97; Portaria n.º 546/95
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/566/1994/07/12/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:30:45Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 843/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-566-94.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-566-94.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 546/95.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,4 +181,6 @@ Assinada em 30 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/159b00/37173718.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/129b00/35713571.pdf)
+
+> Alterado pelo/a [Portaria n.º 546/95](https://diariodarepublica.pt/dr/detalhe/portaria/546-1995-526054), publicado em 1995-06-03.

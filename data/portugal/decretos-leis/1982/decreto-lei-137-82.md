@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1986-05-05'
+  consolidation_date: '1990-04-08'
 version_history:
   file: decreto-lei-137-82.versoes.json
   count: 2
@@ -41,13 +41,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1986-05-05'
+  - date: '1990-04-08'
     amending: pt:dre:195218:por
-    amending_title: Decreto-Lei n.º 76/86
+    amending_title: Decreto-Lei n.º 76/86; Portaria n.º 176/88; Portaria n.º 257/90
     changes:
     - Altera Artigo 6.º
     - Altera Artigo 9.º
     - Altera Artigo 10.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:42:04Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 76/86. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-137-82.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-137-82.alteracoes.json. Anexos e
+    quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 176/88; Portaria n.º 257/90.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -438,6 +441,14 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09400/09870990.pdf)
 
+Ao mapa de pessoal do anexo I são acrescidos os lugares constantes do mapa anexo à Portaria n.º 176/88; são extintos os lugares não providos e os que venham a vagar no âmbito das categorias de contador-verificador principal, de 1.ª classe e de 2.ª classe, insertas no mesmo mapa de pessoal:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06900/12241224.pdf)
+
+> Alterado pelo/a [Portaria n.º 176/88](https://diariodarepublica.pt/dr/detalhe/portaria/176-1988-285738), publicado em 1988-03-23.
+
 ## ANEXO II — Mapa provisório do pessoal da Secção Regional do Tribunal de Contas da Região Autónoma dos Açores a que se refere o artigo 23.º
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09400/09870990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08200/17291730.pdf)
+
+> Alterado pelo/a [Portaria n.º 257/90](https://diariodarepublica.pt/dr/detalhe/portaria/257-1990-332049), publicado em 1990-04-07.

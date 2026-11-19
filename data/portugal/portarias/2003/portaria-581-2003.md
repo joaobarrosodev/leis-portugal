@@ -57,6 +57,7 @@ version_history:
     amending_title: Portaria n.º 164/2004
     changes:
     - Altera Artigo unidades 7-7
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/581/2003/07/17/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:50:05Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 164/2004. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-581-2003.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-581-2003.alteracoes.json. Planta trocada
+    pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 164/2004.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -165,4 +167,4 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 24 de Junho de 2003.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/07/163b00/41214121.pdf)
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/02/040b00/08970897.pdf)

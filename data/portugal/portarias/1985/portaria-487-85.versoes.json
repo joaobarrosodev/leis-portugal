@@ -63,13 +63,20 @@
      "title": "Portaria n.º 339/93",
      "published": "1993-03-22",
      "dre_path": "/dr/detalhe/portaria/339-1993-637687"
+    },
+    {
+     "id": "pt:dre:418222:por",
+     "title": "Portaria n.º 730/87",
+     "published": "1987-08-24",
+     "dre_path": "/dr/detalhe/portaria/730-1987-418222"
     }
    ],
    "changes": [
     "Altera Artigo unidades 30-34",
     "Adita Artigo depois da unidade 130",
     "Adita Artigo depois da unidade 130",
-    "Altera Artigo unidades 176-213"
+    "Altera Artigo unidades 176-213",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "49b6189cc37b8d1c",
@@ -107,7 +114,7 @@
     "a1775c554af75fd5",
     "c7bd5582844dff4b",
     "bb6e124d77bef6df",
-    "829eb284238673c8"
+    "7be3e44baec264da"
    ]
   }
  ],
@@ -439,6 +446,16 @@
     "Alterado pelo/a [Portaria n.º 29/87](https://diariodarepublica.pt/dr/detalhe/portaria/29-1987-663490), publicado em 1987-01-15."
    ],
    "markdown": "###### ARTIGO 18.º — (Tesouraria)\n\nCompete à Tesouraria:\n\na) Efectuar recebimentos e pagamentos em face das autorizações existentes;\n\nb) Receber e registar as folhas de remunerações e as guias de pagamento de contribuições, providenciando pelo depósito dos respectivos valores;\n\nc) Proceder à venda de impressos;\n\nd) Elaborar a folha diária de caixa;\n\ne) Assegurar as ligações com as instituições bancárias.\n\n> Alterado pelo/a [Portaria n.º 29/87](https://diariodarepublica.pt/dr/detalhe/portaria/29-1987-663490), publicado em 1987-01-15."
+  },
+  "7be3e44baec264da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 29.º — (Ajustamento de distribuição de competências)",
+   "in_force_from": "1993-03-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 730/87](https://diariodarepublica.pt/dr/detalhe/portaria/730-1987-418222), publicado em 1987-08-24."
+   ],
+   "markdown": "###### ARTIGO 29.º — (Ajustamento de distribuição de competências)\n\n1 - À medida que se for desenvolvendo e consolidando a informatização dos serviços e até que, pelo dispositivo legal adequado, se torne possível e conveniente efectuar a revisão do presente Regulamento, pode o conselho directivo do Centro proceder aos ajustamentos indispensáveis em matéria de distribuição de competências e consequente afectação dos respectivos recursos humanos.\n\n2 - Os ajustamentos referidos no número anterior não podem representar desvios à concepção orgânica que informa o presente Regulamento.\n\nQuadro de pessoal do Centro Regional de Segurança Social de Setúbal\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/16400/21272133.pdf)\n\nAditamento ao quadro de pessoal do Centro Regional de Segurança Social de Setúbal (Portaria n.º 730/87):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/19300/33053306.pdf)\n\n> Alterado pelo/a [Portaria n.º 730/87](https://diariodarepublica.pt/dr/detalhe/portaria/730-1987-418222), publicado em 1987-08-24."
   }
  }
 }

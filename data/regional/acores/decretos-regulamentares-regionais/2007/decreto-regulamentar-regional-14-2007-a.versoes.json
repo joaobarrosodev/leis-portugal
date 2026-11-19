@@ -81,11 +81,18 @@
      "title": "Decreto Regulamentar Regional n.º 11/2022/A",
      "published": "2022-07-26",
      "dre_path": "/dr/detalhe/decreto-regulamentar-regional/11-2022-186663186"
+    },
+    {
+     "id": "pt:dre:494223:por",
+     "title": "Decreto Regulamentar Regional n.º 6/2009/A",
+     "published": "2009-06-05",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/6-2009-494223"
     }
    ],
    "changes": [
     "Revoga Artigo 42.º",
-    "Revoga Artigo 40.º"
+    "Revoga Artigo 40.º",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "4cbc53550ee348e1",
@@ -140,7 +147,7 @@
     "a1e8a4a409577ee8",
     "06d65a8828618b6e",
     "fca36526ccdba457",
-    "c85cd14e5cc51333"
+    "cc25f2b89dbadb69"
    ]
   }
  ],
@@ -588,6 +595,16 @@
     "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 18/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2011-669860), publicado em 2011-08-10."
    ],
    "markdown": "###### Artigo 42.º — Conservatórios regionais\n\n1 - Os conservatórios regionais não integrados constituem unidades orgânicas do sistema educativo especificamente destinadas ao ensino vocacional da música e da dança, dotadas de autonomia administrativa, regendo-se, nos termos do n.º 3 do artigo 144.º do [Decreto Legislativo Regional n.º 12/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-227009), de 16 de Junho, pelo regime de autonomia e gestão fixado para as restantes unidades orgânicas do sistema educativo.\n\n2 - São conservatórios regionais não integrados:\n\na) (Revogada.)\n\nb) Conservatório Regional de Ponta Delgada.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 18/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2011-669860), publicado em 2011-08-10."
+  },
+  "cc25f2b89dbadb69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": "2022-07-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 6/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-494223), publicado em 2009-06-05."
+   ],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nAprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de Maio de 2007.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 18 de Junho de 2007.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita.\n\nDo ANEXO I ao ANEXO XXXIX\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/13400/44414474.pdf)\n\nOs quadros do pessoal não docente da Escola Básica Integrada de Ginetes, da Escola Básica Integrada da Maia, da Escola Básica e Secundária da Povoação e da Escola Básica e Secundária Tomás de Borba, constantes dos anexos VI, X, XIX e XXI, são substituídos pelos quadros dos anexos I, II, III e IV do Decreto Regulamentar Regional n.º 6/2009/A:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-494223), publicado em 2009-06-05."
   }
  }
 }
