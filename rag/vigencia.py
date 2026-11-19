@@ -3,8 +3,10 @@
 A marca vem de `consolidacao/auditoria/vigencia-revista.jsonl` (`consolidacao/vigencia.py`), uma
 linha por diploma:
 
-- `marca`: `nao_vigora` (revogado, caducado ou substituído, com prova) ou `regime_anterior`
-  (cursos e graus anteriores ao DL 74/2006, sem se afirmar que caducaram);
+- `marca`: `nao_vigora` (revogado, caducado ou substituído, com prova), `regime_anterior`
+  (cursos e graus anteriores ao DL 74/2006, sem se afirmar que caducaram) ou `por_confirmar`
+  (o próprio texto dá um facto, como um regime de um só ano que já passou, sem se afirmar que
+  caducou);
 - `motivo`: a frase do aviso;
 - `prova` e `fonte`: de onde vem (uma relação do DRE, um diploma do acervo, uma leitura).
 
@@ -56,6 +58,8 @@ def marcas(ficheiro: Path | None = None) -> dict[str, dict]:
 def aviso(marca: dict) -> str:
     if marca["marca"] == "regime_anterior":
         return f"Regime anterior ao Decreto-Lei n.º 74/2006 (Bolonha): {marca['motivo']}"
+    if marca["marca"] == "por_confirmar":
+        return f"Vigência por confirmar: {marca['motivo']}"
     return f"O DRE dá-o como em vigor, mas {marca['motivo']}"
 
 
