@@ -208,17 +208,30 @@ O histórico continua com duas versões. A retificação entra nos `acts` da ver
    - O DL 38/2003 (48 trocas) ficou em dúvida porque o texto da retificação ia cortado. Repetido com o texto inteiro, passou.
    - As dúvidas são mudanças especulativas (o «onde se lê» não bate), sítios que não se veem no parágrafo e ajustes que a retificação não pede.
 4. **Aplicação.** Só as 78 certas, em 76 diplomas, com `retificacoes_llm.py aplicar` na pasta principal.
+5. **As 7 reprovadas, rondas r2 e r3 (19/11).** Refeitas na sessão principal (Opus), com o reparo do verificador (`resposta-r2-01.jsonl`). Na verificação, cada mudança passou a levar o contexto: o título acima, os parágrafos vizinhos e a nota «> Alterado pelo/a …» quando o parágrafo foi reescrito depois (`verificacao --ronda r2`). O que mudou:
+   - **Ficaram como estavam, e passaram:**
+     - a Lei 30-G/2000 (a troca segue a retificação à letra, sem a vírgula que ela não traz);
+     - o DN 10-A/98 (o «2.º» é o de «Incentivo final», como o contexto mostra);
+     - a Portaria 667-X3/93 (o nome muda com as contrações e as concordâncias que dependem dele).
+   - **A Portaria 628/2001** passou a ter os cinco anexos (V a IX), e não só três.
+   - **O DL 376/87** ficou sem o art. 8.º: o n.º 3 com «resultatar» é da redação do DL 364/93, não do texto que a retificação corrige.
+   - **O DR 12/79 e o DL 316/2007** ficaram em dúvida na r2 por uma mudança cada uma:
+     - no DR 12/79, o art. 51.º sem «classe»;
+     - no DL 316/2007, o art. 85.º da republicação, para o qual a retificação só tem instrução ao art. 2.º.
+
+     Na r3, sem essa mudança, passaram. A do art. 77.º do DL 316/2007 («conferência decisória») é a instrução 8, à republicação. Confirmou-se que a linha está no anexo da republicação.
+
+   Ficaram por aplicar, com o motivo em `nao_aplicadas`, 4 trocas: os arts. 51.º e 53.º do DR 12/79, o art. 8.º do DL 376/87 e o art. 85.º da republicação do DL 316/2007. Aplicadas na pasta principal, com `aplicar --ronda r2` e `--ronda r3`: 7 retificações em 7 diplomas, 0 recusadas. As regras das rondas estão nos dois prompts.
 
 **Estado das 243 retificações distintas** (`auditoria/retificacoes-estado.jsonl`):
 
 | Estado | Retificações |
 |---|--:|
 | Aplicadas por regra | 67 |
-| Aplicadas com o LLM | 78 |
+| Aplicadas com o LLM | 85 (78 na 1.ª ronda, 5 na r2 e 2 na r3) |
 | Nada a aplicar (LLM) | 38 |
 | Sem trabalho (reescrito depois, já no texto, só metadados, outro diploma) | 36 |
 | Fora: imagem ou republicação | 11 |
-| Reprovadas às cegas | 7 |
 | Fora: sem registo | 6 |
 
 **A fuga fechada (`selecionar.py`, `alteracoes.py`, `cegas.py`, `llm_completo.py`, `acervo.py`).**

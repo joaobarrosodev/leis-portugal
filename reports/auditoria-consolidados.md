@@ -242,14 +242,13 @@ O João aprovou as três propostas da secção 4.
 | Estado | Retificações |
 |---|--:|
 | Aplicadas por regra | 67 |
-| Aplicadas com o LLM (Opus a responder, Sonnet às cegas) | 78 |
+| Aplicadas com o LLM (Opus a responder, Sonnet às cegas) | 85 |
 | Nada a aplicar (LLM) | 38 |
 | Sem trabalho | 36 |
 | Fora: imagem ou republicação | 11 |
-| Reprovadas às cegas | 7 |
 | Fora: sem registo | 6 |
 
-As 145 aplicadas estão em 140 diplomas. Nas próximas rondas, `corrected_by` conta como alterador (seleção, leitor, verificação às cegas, pedido ao LLM e data da versão).
+As 152 aplicadas estão em 146 diplomas. Das 85 com o LLM, 7 só passaram numa 2.ª ou 3.ª ronda, refeitas com o reparo do verificador, e 4 trocas dessas ficaram por aplicar, com o motivo. Nas próximas rondas, `corrected_by` conta como alterador (seleção, leitor, verificação às cegas, pedido ao LLM e data da versão).
 
 **Vigência** (`consolidacao/README.md`, secção 10).
 
