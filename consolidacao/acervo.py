@@ -107,19 +107,9 @@ DE_FORA = {
     "pt:dre:674621:por",   # Portaria 842/91: tabela C sem a Decl. Ret. 141/92; tabelas só das épocas 1991-1993
     "pt:dre:291436:por",   # Portaria 487/94: o DL 263/2002 revoga também os n.os 1.º e 2.º
     "pt:dre:451605:por",   # Decreto do Governo 35/83: o DG 14/85 substitui o n.º 2) do art. 2.º inteiro
-    # Ronda 114, pela segunda leitura: o diploma deixou de vigorar (o texto está certo).
-    "pt:dre:1037778:por",  # Portaria 210/2007: revogada pela Portaria 506/2018
-    "pt:dre:395573:por",   # Portaria 1171/91: prova de acesso de 1992; o DL 354/88 foi revogado pelo DL 189/92
-    "pt:dre:663299:por",   # Portaria 64/87: o CRSS do Porto foi extinto pelo DL 260/93
-    "pt:dre:522225:por",   # Portaria 317-B/2000: substituída pelo novo Regulamento do URBCOM (Portaria 188/2004)
-    "pt:dre:459922:por",   # Portaria 22/2010: DL 144/2007 revogado pelo DL 158/2012; a CIFE tem composição legal (DL 232/2015)
-    "pt:dre:460206:por",   # DN 32/95: estatutos do IP Beja substituídos pelos do DN 47/2008 (RJIES)
-    "pt:dre:687582:por",   # Portaria 749/91: o Fundo de Pensões dos Militares foi extinto pelo DL 166-A/2013
-    "pt:dre:692404:por",   # Portaria 1411/95: substituída pela Portaria 797/99
-    "pt:dre:490019:por",   # Portaria 1020/2009: linha de apoio de 2010, candidaturas até 10/12/2010
-    "pt:dre:635585:por",   # RCM 169/95: o PDM foi revogado pelo Aviso 7886/2015, art. 84.º
-    "pt:dre:554384:por",   # DN 23-A/2000: regime do OE de 2000, substituído pelo DN 27-A/2001
-    "pt:dre:405925:por",   # Portaria 43/2000: a ESTNA foi extinta pelo DL 37/2008
+    # Ronda 114: os 12 que a segunda leitura tirou por já não vigorarem (o texto estava certo)
+    # voltaram a entrar a 19/11/2026, com a marca em `auditoria/vigencia-revista.jsonl`: a política
+    # é não tirar consolidações por vigência (`consolidacao/vigencia.py`).
     # Ronda 114: dúvida sobre a vigência, sem ato expresso no acervo (fica de fora por regra).
     "pt:dre:197516:por",   # Portaria 176/98: mestrado do DL 216/92, revogado pelo DL 74/2006 (adequação até 2009-2010)
     "pt:dre:405324:por",   # Portaria 1546/2002: idem

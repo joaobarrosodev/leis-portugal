@@ -26,6 +26,7 @@ from pathlib import Path
 from rag import ambito as ambito_mod
 from rag import referencias as refs_mod
 from rag import texto as termos_mod
+from rag import vigencia as vigencia_mod
 from rag.fontes import PASTA_INDICE, revogado
 
 
@@ -124,7 +125,7 @@ def _numeros_ue(numero: str) -> list[str]:
 class Pesquisa:
     def __init__(
         self, caminho: Path | None = None, *, reranker=None, candidatos: int = 100, codigos_candidatos: int = CODIGOS_CANDIDATOS,
-        reranker_com_perguntas: bool = False, semantica=None,
+        reranker_com_perguntas: bool = False, semantica=None, vigencia_prior: bool | None = None,
     ):
         caminho = caminho or PASTA_INDICE / "indice.sqlite"
         self.con = sqlite3.connect(f"file:{caminho}?mode=ro", uri=True, check_same_thread=False)
@@ -143,6 +144,9 @@ class Pesquisa:
         self._documentos: dict[str, dict | None] = {}
         self._jurisprudencia = None
         self._relacoes: dict[str, tuple] = {}
+        # Vigência revista (`rag.vigencia`): o aviso vai sempre; o peso no prior só se ligado.
+        self.vigencia = vigencia_mod.marcas()
+        self.vigencia_prior = vigencia_mod.prior_ligado() if vigencia_prior is None else vigencia_prior
         # Diplomas que só se encontram quando a pergunta os cita (a 2.ª Série, por omissão em
         # `rag.indice`): ficam fora do BM25 em todo o acervo. Índices sem a tabela: nenhum.
         tem_tabela = self.con.execute("SELECT 1 FROM sqlite_master WHERE type = 'table' AND name = 'so_referencia'").fetchone()
@@ -293,6 +297,9 @@ class Pesquisa:
         doc = self.documento(documento) or {}
         peso = PRIOR_CONSOLIDADO if doc.get("com_historico") else 1.0
         peso *= PRIOR_ESTADO.get(doc.get("legal_status"), 1.0)
+        marca = getattr(self, "vigencia", {}).get(documento) or {}
+        if getattr(self, "vigencia_prior", False) and marca.get("marca") == "nao_vigora" and doc.get("legal_status") not in REVOGADO:
+            peso *= vigencia_mod.PRIOR_NAO_VIGORA
         if artigo_revogado:
             peso *= PRIOR_ARTIGO_REVOGADO
         if "republica" in parte.lower():
@@ -497,6 +504,8 @@ class Pesquisa:
                 r.avisos.append("Diploma sem vigência (revogado ou caducado, segundo o DRE).")
         elif estado == "unknown":
             r.avisos.append("Vigência do diploma desconhecida.")
+        elif r.documento in getattr(self, "vigencia", {}):
+            r.avisos.append(vigencia_mod.aviso(self.vigencia[r.documento]))
         if revogado(r.texto, r.notas):
             nota = next((n for n in r.notas.splitlines() if n.strip().lower().startswith("revogad")), "")
             r.avisos.append(f"Artigo revogado ({_sem_ligacoes(nota)})." if nota else "Artigo revogado.")
