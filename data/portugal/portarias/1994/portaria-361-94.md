@@ -58,6 +58,7 @@ version_history:
     changes:
     - Altera Artigo unidades 8-8
     - Adita Artigo depois da unidade 8
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/361/1994/06/08/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:25:52Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1142/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-361-94.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-361-94.alteracoes.json. Planta trocada pela
+    do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 1142/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -209,4 +211,4 @@ Assinada em 16 de Maio de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/132b00/29872987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/260b00/61346134.pdf)

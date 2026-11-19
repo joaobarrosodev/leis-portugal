@@ -57,6 +57,7 @@ version_history:
     amending_title: Portaria n.º 958/2003
     changes:
     - Altera Artigo unidades 6-6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/92/2003/01/23/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:52:05Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 958/2003. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-92-2003.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-92-2003.alteracoes.json. Planta trocada
+    pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 958/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,4 +175,4 @@ Manda o Governo, pelos Ministros da Economia e da Agricultura, Desenvolvimento R
 
 Pelo Ministro da Economia, Pedro Antunes de Almeida, Secretário de Estado do Turismo, em 19 de Dezembro de 2002. - Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Fernando António de Miranda Guedes Bianchi de Aguiar, Secretário de Estado do Desenvolvimento Rural, em 12 de Dezembro de 2002.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/01/019b00/04140415.pdf)
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/09/210b00/59395939.pdf)

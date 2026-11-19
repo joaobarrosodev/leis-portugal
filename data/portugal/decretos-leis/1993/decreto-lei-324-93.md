@@ -53,7 +53,8 @@ version_history:
     changes: []
   - date: '2020-01-01'
     amending: pt:dre:124324704:por
-    amending_title: Decreto-Lei n.º 132/2019; Portaria n.º 5/95
+    amending_title: Decreto-Lei n.º 132/2019; Portaria n.º 5/95; Portaria n.º 224/94; Portaria n.º 395/95; Portaria n.º 203/96;
+      Portaria n.º 1279/97
     changes:
     - Revoga Artigo 53.º
     - Revoga Artigo 53.º
@@ -67,6 +68,7 @@ version_history:
     - Revoga Artigo 60.º
     - Revoga Artigo 61.º
     - Retifica texto
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/324/1993/09/25/p/dre/pt/html
@@ -95,7 +97,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 132/2019. Método
     e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-324-93.alteracoes.json.
     Retificações aplicadas com um LLM, na ronda im, e verificadas às cegas (consolidacao/retificacoes_llm.py): Portaria n.º
-    5/95.'
+    5/95. Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 224/94; Portaria n.º 395/95; Portaria n.º 203/96; Portaria n.º 1279/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1346,6 +1349,14 @@ Anexo I a que se refere o artigo 40.º
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
 
+Ratificação do anexo I (Portaria n.º 1279/97):
+
+1.º É criado o Posto Aduaneiro da EXPO 98 no recinto da Exposição Mundial de Lisboa de 1998, na dependência da Alfândega de Xabregas.
+
+3.º É ratificado o anexo I a que se refere o artigo 40.º do [Decreto-Lei n.º 324/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), de 25 de Setembro, em conformidade com o disposto no n.º 1.º anterior.
+
+> Alterado pelo/a [Portaria n.º 1279/97](https://diariodarepublica.pt/dr/detalhe/portaria/1279-1997-321679), publicado em 1997-12-31.
+
 Anexo II a que se refere o artigo 41.º
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf)
@@ -1356,9 +1367,31 @@ Anexo III a que se refere o artigo 63.º
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
 
+Alteração ao quadro de pessoal dirigente constante do anexo III (Portaria n.º 395/95):
+
+O número de lugares do quadro de pessoal dirigente constante do anexo III é acrescido de mais um lugar de chefe de divisão ou equiparado.
+
+Alteração ao quadro de pessoal constante do anexo III (Portaria n.º 203/96):
+
+Passa de três para quatro o número de lugares de subdirector-geral do quadro de pessoal constante do anexo III.
+
+> Alterado pelo/a [Portaria n.º 203/96](https://diariodarepublica.pt/dr/detalhe/portaria/203-1996-436420), publicado em 1996-06-07.
+
+> Alterado pelo/a [Portaria n.º 395/95](https://diariodarepublica.pt/dr/detalhe/portaria/395-1995-513056), publicado em 1995-05-03.
+
 Anexo IV a que se refere o artigo 65.º
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)
+
+Alteração ao quadro de pessoal constante dos anexos III e IV (Portaria n.º 224/94):
+
+O quadro de pessoal da Direcção-Geral das Alfândegas constante dos anexos III e IV ao [Decreto-Lei n.º 324/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), de 25 de Setembro, e do anexo I à [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, é alterado nos seguintes termos:
+
+1) São abatidos dois lugares da categoria de chefe de divisão ou equiparado, passando a respectiva dotação de 37 para 35 lugares;
+
+2) São acrescidos 11 lugares na carreira de fiscalização de tabacos e 37 na categoria de terceiro-oficial, que serão extintos, após preenchimento, à medida que vagarem.
+
+> Alterado pelo/a [Portaria n.º 224/94](https://diariodarepublica.pt/dr/detalhe/portaria/224-1994-265761), publicado em 1994-04-14.
 
 Anexo V a que se refere o n.º 3 do artigo 66.º
 

@@ -57,6 +57,7 @@ version_history:
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/448/1991/05/28/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:49:44Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 881/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-448-91.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-448-91.alteracoes.json. Planta trocada pela
+    do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 881/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -207,4 +209,4 @@ Assinada em 30 de Abril de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/122b00/29272928.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/209b00/48154815.pdf)

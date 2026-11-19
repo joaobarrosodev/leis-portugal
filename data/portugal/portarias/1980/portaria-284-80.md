@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1980-11-20'
+  consolidation_date: '1984-08-02'
 version_history:
   file: portaria-284-80.versoes.json
   count: 2
@@ -41,11 +41,14 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1980-11-20'
+  - date: '1984-08-02'
     amending: pt:dre:458213:por
-    amending_title: Portaria n.º 996/80
+    amending_title: Portaria n.º 996/80; Portaria n.º 490/81; Portaria n.º 831/81; Portaria n.º 844/81; Portaria n.º 925/81;
+      Portaria n.º 147/82; Portaria n.º 221/82; Portaria n.º 343/82; Portaria n.º 484/82; Portaria n.º 855/82; Portaria n.º
+      860/82; Portaria n.º 43/84; Portaria n.º 524/84
     changes:
     - Altera Artigo unidades 5-5
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +75,11 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:16:29Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 996/80. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-284-80.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-284-80.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 490/81; Portaria n.º 831/81; Portaria n.º 844/81; Portaria n.º 925/81; Portaria n.º 147/82; Portaria n.º
+    221/82; Portaria n.º 343/82; Portaria n.º 484/82; Portaria n.º 855/82; Portaria n.º 860/82; Portaria n.º 43/84; Portaria
+    n.º 524/84.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -417,3 +424,107 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 Do ANEXO I ao ANEXO XIV
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12000/11401155.pdf)
+
+Alteração ao quadro de pessoal das delegações regionais, anexo XIII (Portaria n.º 490/81):
+
+1.º É criado no quadro de pessoal das delegações regionais, constante do anexo XIII à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, 1 lugar de assessor (letra B).
+
+2.º O referido lugar será extinto quando vagar.
+
+Alteração ao anexo XIII, quadro comum das delegações regionais (Portaria n.º 831/81):
+
+No anexo XIII à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, com a rectificação constante do n.º 4 da [Portaria n.º 996/80](https://diariodarepublica.pt/dr/detalhe/portaria/996-1980-458213), de 20 de Novembro, é suprimida a coluna formação-função.
+
+Alteração ao quadro de pessoal da Direcção-Geral das Indústrias Ligeiras, anexo XI, no que respeita à carreira de adjuntos técnicos (Portaria n.º 844/81):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25612562.pdf)
+
+Alteração ao quadro de pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais, anexo XIV (Portaria n.º 925/81):
+
+1.º É criado no quadro do pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais, constante do anexo XIV à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, o seguinte lugar:
+
+Segundo-oficial - letra L.
+
+Alteração ao quadro do Gabinete para a Pesquisa e Exploração de Petróleo, anexo XII (Portaria n.º 147/82):
+
+1.º É criado no quadro do Gabinete para a Pesquisa e Exploração de Petróleo, constante do anexo XII à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, rectificado pelo n.º 3.º da [Portaria n.º 996/80](https://diariodarepublica.pt/dr/detalhe/portaria/996-1980-458213), de 20 de Novembro, 1 lugar de assessor, letra C.
+
+2.º O referido lugar será extinto quando vagar.
+
+Alteração ao quadro de pessoal da Direcção-Geral de Energia, anexo VII (Portaria n.º 221/82):
+
+É criado no quadro de pessoal da Direcção-Geral de Energia, constante do anexo VII à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, 1 lugar de assessor, letra B, a prover pelo director-geral dos Serviços Eléctricos, de nomeação definitiva, o qual será extinto quando vagar.
+
+Alteração aos anexos (Portaria n.º 343/82):
+
+Nos anexos à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, com a rectificação constante da [Portaria n.º 996/80](https://diariodarepublica.pt/dr/detalhe/portaria/996-1980-458213), de 20 de Novembro, é suprimida a coluna formação/função relativamente às várias categorias de adjunto técnico auxiliar e auxiliar técnico.
+
+Alteração ao quadro de pessoal do Gabinete para a Pesquisa e Exploração de Petróleo, anexo XII (Portaria n.º 484/82):
+
+1.º São criados no quadro de pessoal do Gabinete para a Pesquisa e Exploração de Petróleo, constante do anexo XII à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, alterada pela [Portaria n.º 996/80](https://diariodarepublica.pt/dr/detalhe/portaria/996-1980-458213), de 20 de Novembro, os seguintes lugares:
+
+Assessor, letra B - 1 lugar;
+
+Assessor, letra C - 1 lugar.
+
+2.º Os referidos lugares serão extintos à medida que vagarem.
+
+Alteração ao quadro de pessoal da Direcção-Geral das Indústrias Electromecânicas, anexo X (Portaria n.º 855/82):
+
+1.º É criado no quadro de pessoal da Direcção-Geral das Indústrias Electromecânicas, do Ministério da Indústria, Energia e Exportação, constante do anexo X à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, alterada pela [Portaria n.º 996/80](https://diariodarepublica.pt/dr/detalhe/portaria/996-1980-458213), de 20 de Novembro, 1 lugar de assessor, letra B.
+
+2.º O referido lugar será extinto quando vagar.
+
+Alteração ao quadro de pessoal da Direcção-Geral de Energia, anexo VII (Portaria n.º 860/82):
+
+1.º São criados no quadro de pessoal da Direcção-Geral de Energia, do Ministério da Indústria, Energia e Exportação, constante do anexo VII à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, alterada pelas Portarias n.os [996/80](https://diariodarepublica.pt/dr/detalhe/portaria/996-1980-458213), de 20 de Novembro, e [343/82](https://diariodarepublica.pt/dr/detalhe/portaria/343-1982-608524), de 1 de Abril, os seguintes lugares:
+
+Assessor, letra B - 2 lugares.
+
+2.º Os referidos lugares serão extintos quando vagarem.
+
+Alteração ao quadro de pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais, anexo XIV (Portaria n.º 43/84):
+
+1.º É criado no quadro de pessoal do Instituto de Apoio às Pequenas e Médias Empresas Industriais, constante do anexo XIV à [Portaria n.º 284/80](https://diariodarepublica.pt/dr/detalhe/portaria/284-1980-474529), de 24 de Maio, o seguinte lugar:
+
+Técnico superior principal, letra D, 1 lugar.
+
+2.º O referido lugar será extinto quando vagar.
+
+Alargamento dos quadros de pessoal da Direcção-Geral da Qualidade e do Instituto de Apoio às Pequenas e Médias Empresas Industriais, com os lugares constantes dos mapas anexos, a extinguir quando vagarem (Portaria n.º 524/84):
+
+MAPA I
+
+Direcção-Geral da Qualidade
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17400/23032303.pdf)
+
+MAPA II
+
+Instituto de Apoio às Pequenas e Médias Empresas Industriais
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/17400/23032303.pdf)
+
+> Alterado pelo/a [Portaria n.º 147/82](https://diariodarepublica.pt/dr/detalhe/portaria/147-1982-601089), publicado em 1982-02-02.
+
+> Alterado pelo/a [Portaria n.º 221/82](https://diariodarepublica.pt/dr/detalhe/portaria/221-1982-600151), publicado em 1982-02-19.
+
+> Alterado pelo/a [Portaria n.º 343/82](https://diariodarepublica.pt/dr/detalhe/portaria/343-1982-608524), publicado em 1982-04-01.
+
+> Alterado pelo/a [Portaria n.º 43/84](https://diariodarepublica.pt/dr/detalhe/portaria/43-1984-659903), publicado em 1984-01-20.
+
+> Alterado pelo/a [Portaria n.º 484/82](https://diariodarepublica.pt/dr/detalhe/portaria/484-1982-392799), publicado em 1982-05-08.
+
+> Alterado pelo/a [Portaria n.º 490/81](https://diariodarepublica.pt/dr/detalhe/portaria/490-1981-579092), publicado em 1981-06-16.
+
+> Alterado pelo/a [Portaria n.º 524/84](https://diariodarepublica.pt/dr/detalhe/portaria/524-1984-381724), publicado em 1984-07-28.
+
+> Alterado pelo/a [Portaria n.º 831/81](https://diariodarepublica.pt/dr/detalhe/portaria/831-1981-563195), publicado em 1981-09-23.
+
+> Alterado pelo/a [Portaria n.º 844/81](https://diariodarepublica.pt/dr/detalhe/portaria/844-1981-563806), publicado em 1981-09-24.
+
+> Alterado pelo/a [Portaria n.º 855/82](https://diariodarepublica.pt/dr/detalhe/portaria/855-1982-374263), publicado em 1982-09-09.
+
+> Alterado pelo/a [Portaria n.º 860/82](https://diariodarepublica.pt/dr/detalhe/portaria/860-1982-375617), publicado em 1982-09-10.
+
+> Alterado pelo/a [Portaria n.º 925/81](https://diariodarepublica.pt/dr/detalhe/portaria/925-1981-562222), publicado em 1981-10-21.

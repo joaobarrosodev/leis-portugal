@@ -53,10 +53,12 @@ version_history:
     changes: []
   - date: '2022-07-27'
     amending: pt:dre:669860:por
-    amending_title: Decreto Regulamentar Regional n.º 18/2011/A; Decreto Regulamentar Regional n.º 11/2022/A
+    amending_title: Decreto Regulamentar Regional n.º 18/2011/A; Decreto Regulamentar Regional n.º 11/2022/A; Decreto Regulamentar
+      Regional n.º 6/2009/A
     changes:
     - Revoga Artigo 42.º
     - Revoga Artigo 40.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/14/2007/07/13/a/dre/pt/html
@@ -83,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:30:22Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
-    18/2011/A; Decreto Regulamentar Regional n.º 11/2022/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2007/decreto-regulamentar-regional-14-2007-a.alteracoes.json'
+    18/2011/A; Decreto Regulamentar Regional n.º 11/2022/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/2007/decreto-regulamentar-regional-14-2007-a.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Decreto Regulamentar Regional n.º 6/2009/A.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -897,3 +901,9 @@ O Representante da República para a Região Autónoma dos Açores, José Antón
 Do ANEXO I ao ANEXO XXXIX
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/13400/44414474.pdf)
+
+Os quadros do pessoal não docente da Escola Básica Integrada de Ginetes, da Escola Básica Integrada da Maia, da Escola Básica e Secundária da Povoação e da Escola Básica e Secundária Tomás de Borba, constantes dos anexos VI, X, XIX e XXI, são substituídos pelos quadros dos anexos I, II, III e IV do Decreto Regulamentar Regional n.º 6/2009/A:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-494223), publicado em 2009-06-05.

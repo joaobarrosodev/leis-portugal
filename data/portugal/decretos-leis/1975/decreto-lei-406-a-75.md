@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1976-12-30'
+  consolidation_date: '1977-06-14'
 version_history:
   file: decreto-lei-406-a-75.versoes.json
   count: 2
@@ -41,11 +41,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1976-12-30'
+  - date: '1977-06-14'
     amending: pt:dre:416472:por
-    amending_title: Decreto-Lei n.º 895/76
+    amending_title: Decreto-Lei n.º 895/76; Portaria n.º 354/77
     changes:
     - Altera Artigo 11.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:43:15Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 895/76. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-406-a-75.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-406-a-75.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 354/77.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -307,6 +310,18 @@ O Presidente da República, FRANCISCO DA COSTA GOMES.
 Tabela anexa ao Decreto-Lei n.º 406-A/75
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1975/07/17301/00010061.pdf)
+
+Alteração à tabela de equivalência, relativa aos concelhos de Campo Maior (olival) e Beja (solo subjacente de olival e azinho e pomar de citrinos) (Portaria n.º 354/77):
+
+Concelho de Campo Maior
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13500/14251426.pdf)
+
+Concelho de Beja
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/13500/14251426.pdf)
+
+> Alterado pelo/a [Portaria n.º 354/77](https://diariodarepublica.pt/dr/detalhe/portaria/354-1977-253431), publicado em 1977-06-14.
 
 Significado das abreviaturas
 

@@ -57,6 +57,7 @@ version_history:
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/627/1992/07/01/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:24:43Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 592/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-627-92.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-627-92.alteracoes.json. Planta trocada pela
+    do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 592/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -189,4 +191,4 @@ Assinada em 16 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/149b00/31023103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/179b00/40644065.pdf)

@@ -41,7 +41,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1990-12-24'
+  consolidation_date: '1993-04-13'
 version_history:
   file: decreto-regulamentar-63-86.versoes.json
   count: 2
@@ -51,11 +51,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1990-12-24'
+  - date: '1993-04-13'
     amending: pt:dre:563608:por
-    amending_title: Decreto Regulamentar n.º 43/90
+    amending_title: Decreto Regulamentar n.º 43/90; Portaria n.º 296/92; Portaria n.º 831/92; Portaria n.º 387/93
     changes:
     - Altera Artigo 17.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:13:46Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 43/90. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1986/decreto-regulamentar-63-86.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1986/decreto-regulamentar-63-86.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 296/92; Portaria n.º 831/92; Portaria n.º 387/93.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -651,6 +654,24 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 Mapa I a que se refere o n.º 1 do artigo 19.º
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/26100/33963407.pdf)
+
+Alteração ao quadro de pessoal, carreira de mecânico (Portaria n.º 296/92):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/079b00/16131613.pdf)
+
+Alteração ao quadro de pessoal, carreiras de informática (Portaria n.º 831/92):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/196b00/41364136.pdf)
+
+Alteração ao quadro de pessoal: criada a carreira de técnico superior de serviço social, com a dotação global de um lugar, e extinto o correspondente lugar da carreira de técnico de serviço social (Portaria n.º 387/93):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/083b00/17891789.pdf)
+
+> Alterado pelo/a [Portaria n.º 296/92](https://diariodarepublica.pt/dr/detalhe/portaria/296-1992-192604), publicado em 1992-04-03.
+
+> Alterado pelo/a [Portaria n.º 387/93](https://diariodarepublica.pt/dr/detalhe/portaria/387-1993-688404), publicado em 1993-04-08.
+
+> Alterado pelo/a [Portaria n.º 831/92](https://diariodarepublica.pt/dr/detalhe/portaria/831-1992-260914), publicado em 1992-08-26.
 
 Mapa II a que se refere o n.º 1 do artigo 23.º
 

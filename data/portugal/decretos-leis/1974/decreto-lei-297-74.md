@@ -45,10 +45,11 @@ version_history:
     changes: []
   - date: '1976-07-28'
     amending: pt:dre:430869:por
-    amending_title: Decreto-Lei n.º 628/76
+    amending_title: Decreto-Lei n.º 628/76; Declaração
     changes:
     - Revoga Artigo 1.º
     - Revoga Artigo 2.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:32:15Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 628/76. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-297-74.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-297-74.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda r6, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -191,3 +193,7 @@ Promulgado em 25 de Junho de 1974.
 Publique-se.
 
 O Presidente da República, ANTÓNIO DE SPÍNOLA.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - Almeida Santos.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1974-560184), publicado em 1974-07-10.

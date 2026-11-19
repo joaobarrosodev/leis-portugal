@@ -23,11 +23,18 @@
      "title": "Decreto-Lei n.º 628/76",
      "published": "1976-07-28",
      "dre_path": "/dr/detalhe/decreto-lei/628-1976-430869"
+    },
+    {
+     "id": "pt:dre:560184:por",
+     "title": "Declaração",
+     "published": "1974-07-10",
+     "dre_path": "/dr/detalhe/declaracao/1974-560184"
     }
    ],
    "changes": [
     "Revoga Artigo 1.º",
-    "Revoga Artigo 2.º"
+    "Revoga Artigo 2.º",
+    "Retifica texto"
    ],
    "fragments": [
     "0c107311be4d03cf",
@@ -35,7 +42,7 @@
     "663f54e21a97ea48",
     "127e7f6277cbc4a4",
     "84cb74ad1808a7f2",
-    "31e80b6b41f87ef8"
+    "930342dccb2e975a"
    ]
   }
  ],
@@ -92,13 +99,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 4.º\n\n1. O Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente, pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944, passarão a ser constituídos por um director e por outras individualidades de reconhecido mérito nas matérias das respectivas atribuições.\n\n2. Os directores e os membros dos referidos Centros de Estudos serão nomeados por despacho do Primeiro-Ministro ou do Ministro em quem este delegar.\n\n3. Os directores dos Centros ficam, em matéria de vencimentos, com a categoria correspondente à letra C do n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e aos vogais da direcção de cada Centro serão abonadas senhas de presença, a fixar por despacho da entidade referida no número anterior, ou em quem esta delegar.\n\n4. No mais, mantêm-se em vigor as disposições dos Decretos-Leis n.os 47616 e 47617, de 30 de Março de 1967, com as necessárias adaptações."
   },
-  "31e80b6b41f87ef8": {
+  "930342dccb2e975a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 5.º\n\nEste decreto-lei entra imediatamente em vigor.\n\nVisto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Francisco Pereira de Moura.\n\nPromulgado em 25 de Junho de 1974.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO DE SPÍNOLA."
+   "in_force_from": "1976-07-28",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1974-560184), publicado em 1974-07-10."
+   ],
+   "markdown": "###### Artigo 5.º\n\nEste decreto-lei entra imediatamente em vigor.\n\nVisto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Francisco Pereira de Moura.\n\nPromulgado em 25 de Junho de 1974.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO DE SPÍNOLA.\n\nPara ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - Almeida Santos.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1974-560184), publicado em 1974-07-10."
   }
  }
 }

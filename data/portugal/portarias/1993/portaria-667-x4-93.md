@@ -58,6 +58,7 @@ version_history:
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/667-x4/1993/07/14/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:06:11Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 752/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-x4-93.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-667-x4-93.alteracoes.json. Planta trocada
+    pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 752/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,4 +180,4 @@ Assinada em 14 de Julho de 1993.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/163b02/01020103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/198b00/44814482.pdf)

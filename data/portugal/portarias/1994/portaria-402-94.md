@@ -57,6 +57,7 @@ version_history:
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/402/1994/06/24/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:26:48Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 600/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-402-94.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-402-94.alteracoes.json. Planta trocada pela
+    do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 600/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -190,4 +192,4 @@ Assinada em 23 de Maio de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/06/144b00/33353336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/180b00/40724072.pdf)

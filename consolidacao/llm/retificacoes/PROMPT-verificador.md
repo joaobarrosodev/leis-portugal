@@ -56,3 +56,15 @@ Saída: `verificacao-saida-r4.jsonl`.
 São avisos de correção material de PDM e uma declaração de retificação da 2.ª série, recolhidos do DRE depois da auditoria. As regras das rondas im e r4 valem também aqui. Quando várias retificações do mesmo diploma inserem texto depois da mesma linha, encadeiam-se pela ordem. Nesse caso, o «antes» de uma pode já ter o que a anterior inseriu, e isso não é erro: confirma só o que esta acrescenta.
 
 Saída: `verificacao-saida-rc.jsonl`.
+
+## Ronda r5 (`verificacao-entrada-r5.jsonl`): as instruções que ficaram em dúvida
+
+Todas as mudanças desta ronda têm `com_ligacoes: true`, e muitas são inserções: um número, uma alínea, assinaturas ou um fecho que a retificação diz que foram omitidos. As regras das rondas im, r4 e rc valem também aqui. Confirma em cada inserção:
+
+- que o texto inserido é o que a retificação publica, à letra;
+- que fica no sítio que ela indica;
+- que a linha de antes não mudou.
+
+Uma linha posta a "" («(parágrafo apagado)») só é certa se a retificação manda tirar ou mudar de sítio esse texto.
+
+Saída: `verificacao-saida-r5.jsonl` (ou `-r6`, na ronda r6, com as mesmas regras).

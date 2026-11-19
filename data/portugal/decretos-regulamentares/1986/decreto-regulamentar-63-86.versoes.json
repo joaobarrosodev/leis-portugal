@@ -46,7 +46,7 @@
    ]
   },
   {
-   "date": "1990-12-24",
+   "date": "1993-04-13",
    "future": false,
    "acts": [
     {
@@ -54,10 +54,29 @@
      "title": "Decreto Regulamentar n.º 43/90",
      "published": "1990-12-19",
      "dre_path": "/dr/detalhe/decreto-regulamentar/43-1990-563608"
+    },
+    {
+     "id": "pt:dre:192604:por",
+     "title": "Portaria n.º 296/92",
+     "published": "1992-04-03",
+     "dre_path": "/dr/detalhe/portaria/296-1992-192604"
+    },
+    {
+     "id": "pt:dre:260914:por",
+     "title": "Portaria n.º 831/92",
+     "published": "1992-08-26",
+     "dre_path": "/dr/detalhe/portaria/831-1992-260914"
+    },
+    {
+     "id": "pt:dre:688404:por",
+     "title": "Portaria n.º 387/93",
+     "published": "1993-04-08",
+     "dre_path": "/dr/detalhe/portaria/387-1993-688404"
     }
    ],
    "changes": [
-    "Altera Artigo 17.º"
+    "Altera Artigo 17.º",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "8ac00a4ef0ea7be4",
@@ -91,7 +110,7 @@
     "c0e6f81b57a1e801",
     "8b348e1d1ab4fbb6",
     "3ae444579c1b5ffb",
-    "2052c909a534eec5"
+    "3c066f86a3fd1f01"
    ]
   }
  ],
@@ -356,11 +375,23 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 17.º — Núcleos de apoio administrativo",
-   "in_force_from": "1990-12-24",
+   "in_force_from": "1993-04-13",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 43/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1990-563608), publicado em 1990-12-19."
    ],
    "markdown": "###### Artigo 17.º — Núcleos de apoio administrativo\n\n1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, orientados por chefes de secção, directamente dependentes do respectivo chefe de zona, competindo-lhes assegurar a execução das tarefas de natureza administrativa, designadamente no âmbito da administração do pessoal, financeira, patrimonial e geral necessárias ao desenvolvimento das actividades das zonas agrárias.\n\n2 - Junto do Centro de Estudos Vitivinícolas do Douro, sediado na Régua, funciona uma secção administrativa.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 43/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1990-563608), publicado em 1990-12-19."
+  },
+  "3c066f86a3fd1f01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Revogação de legislação anterior",
+   "in_force_from": "1993-04-13",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 296/92](https://diariodarepublica.pt/dr/detalhe/portaria/296-1992-192604), publicado em 1992-04-03.",
+    "Alterado pelo/a [Portaria n.º 387/93](https://diariodarepublica.pt/dr/detalhe/portaria/387-1993-688404), publicado em 1993-04-08.",
+    "Alterado pelo/a [Portaria n.º 831/92](https://diariodarepublica.pt/dr/detalhe/portaria/831-1992-260914), publicado em 1992-08-26."
+   ],
+   "markdown": "###### Artigo 24.º — Revogação de legislação anterior\n\n1 - Ficam revogadas as disposições do [Decreto Regulamentar n.º 6-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-1979-241043), de 24 de Março, no que à Direcção Regional de Agricultura de Trás-os-Montes dizem respeito.\n\n2 - Fica revogado o [Decreto Regulamentar n.º 60/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1979-364933), de 16 de Outubro.\n\n3 - Ficam revogadas as disposições do [Decreto Regulamentar n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1983-453224), de 13 de Julho, no que contrariarem o disposto no presente diploma.\n\nAníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 16 de Outubro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 21 de Outubro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa I a que se refere o n.º 1 do artigo 19.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/26100/33963407.pdf)\n\nAlteração ao quadro de pessoal, carreira de mecânico (Portaria n.º 296/92):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/079b00/16131613.pdf)\n\nAlteração ao quadro de pessoal, carreiras de informática (Portaria n.º 831/92):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/08/196b00/41364136.pdf)\n\nAlteração ao quadro de pessoal: criada a carreira de técnico superior de serviço social, com a dotação global de um lugar, e extinto o correspondente lugar da carreira de técnico de serviço social (Portaria n.º 387/93):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/083b00/17891789.pdf)\n\n> Alterado pelo/a [Portaria n.º 296/92](https://diariodarepublica.pt/dr/detalhe/portaria/296-1992-192604), publicado em 1992-04-03.\n\n> Alterado pelo/a [Portaria n.º 387/93](https://diariodarepublica.pt/dr/detalhe/portaria/387-1993-688404), publicado em 1993-04-08.\n\n> Alterado pelo/a [Portaria n.º 831/92](https://diariodarepublica.pt/dr/detalhe/portaria/831-1992-260914), publicado em 1992-08-26.\n\nMapa II a que se refere o n.º 1 do artigo 23.º\n\nMédico veterinário principal ... 1\n\nMédico veterinário de 1.ª classe ... 1\n\nMédico veterinário de 2.ª classe ... 1\n\nEngenheiro técnico agrário principal ... 1\n\nEngenheiro técnico agrário de 1.ª classe ... 1\n\nSegundo-oficial ... 4\n\nTerceiro-oficial ... 1\n\nTécnico auxiliar de pecuária de 1.ª classe ... 2\n\nTécnico auxiliar de pecuária de 2.ª classe ... 1\n\nTécnico auxiliar de laboratório de 2.ª classe ... 8\n\nEscriturário-dactilógrafo de 2.ª classe ... 1\n\nTractorista ... 2\n\nAuxiliar técnico de pecuária de 2.ª classe ... 1\n\nContínuo de 1.ª classe ... 1\n\nAuxiliar de limpeza ... 3\n\nServente ... 2\n\nCapataz ... 1\n\nMaioral ... 2\n\nTratador de animais principal ... 1\n\nTratador de animais de 1.ª classe ... 2\n\nTratador de animais de 2.ª classe ... 8\n\nTrabalhador rural ... 3"
   }
  }
 }

@@ -32,7 +32,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1984-07-29'
+  consolidation_date: '1988-08-30'
 version_history:
   file: decreto-lei-291-83.versoes.json
   count: 2
@@ -42,11 +42,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1984-07-29'
+  - date: '1988-08-30'
     amending: pt:dre:381568:por
-    amending_title: Decreto-Lei n.º 250/84
+    amending_title: Decreto-Lei n.º 250/84; Portaria n.º 583/88
     changes:
     - Altera Artigo 7.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:52:19Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 250/84. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-291-83.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-291-83.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 583/88.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -233,3 +236,9 @@ O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 Quadro do pessoal a que se refere o artigo 6.º do Decreto-Lei n.º 291/83
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14200/22352236.pdf)
+
+Alteração ao quadro de pessoal do Serviço de Apoio ao Gabinete do Ministro da República para a Região Autónoma da Madeira (Portaria n.º 583/88):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/19600/35163518.pdf)
+
+> Alterado pelo/a [Portaria n.º 583/88](https://diariodarepublica.pt/dr/detalhe/portaria/583-1988-379732), publicado em 1988-08-25.

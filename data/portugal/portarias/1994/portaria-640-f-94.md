@@ -56,6 +56,7 @@ version_history:
     amending_title: Portaria n.º 1326/2003
     changes:
     - Altera Artigo unidades 6-6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/640-f/1994/07/15/p/dre/pt/html
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:33:01Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1326/2003. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-640-f-94.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-640-f-94.alteracoes.json. Planta
+    trocada pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 1326/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -179,4 +181,4 @@ Assinada em 14 de Julho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/162b02/00140015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/11/276b00/81038103.pdf)

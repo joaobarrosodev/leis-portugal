@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1982-09-22'
     amending: pt:dre:375216:por
-    amending_title: Portaria n.º 888/82
+    amending_title: Portaria n.º 888/82; Portaria n.º 388/82
     changes:
     - Altera Artigo unidades 54-54
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:34:04Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 888/82. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-996-80.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1980/portaria-996-80.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 388/82.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -294,3 +297,9 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 ## ANEXO V — Direcção-Geral da Qualidade
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26900/39273929.pdf)
+
+Alteração ao quadro de pessoal da Direcção-Geral da Qualidade (Portaria n.º 388/82):
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Indústria, Energia e Exportação e da Reforma Administrativa, ao abrigo do n.º 3 do artigo 48.º do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, eliminar 1 lugar de técnico superior de 2.ª classe (formação/função: informação técnica) do quadro de pessoal da Direcção-Geral da Qualidade, constante do anexo V à [Portaria n.º 996/80](https://diariodarepublica.pt/dr/detalhe/portaria/996-1980-458213), de 20 de Novembro, e criar 1 lugar de técnico superior de 2.ª classe (formação/função: direito) do mesmo quadro.
+
+> Alterado pelo/a [Portaria n.º 388/82](https://diariodarepublica.pt/dr/detalhe/portaria/388-1982-607523), publicado em 1982-04-17.

@@ -51,6 +51,8 @@ version_history:
     - Altera Artigo 24.º
     - Retifica Artigo 8
     - Retifica Artigo 10
+    - Retifica texto
+    - Retifica Artigo 22
 identifiers:
   celex: null
   eli: null
@@ -78,7 +80,8 @@ provenance:
   generated_at: '2026-10-23T07:48:28Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 131/87. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-770-83.alteracoes.json. Retificações aplicadas
-    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Retificações aplicadas com um LLM, na
+    ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -380,11 +383,9 @@ f) Quaisquer receitas que legalmente lhe venham a ser atribuídas.
 
 2 - O Instituto de Gestão Financeira da Segurança Social remeterá mensalmente às instituições pagadoras das prestações o montante das despesas previstas.
 
-### CAPÍTULO IV
+### CAPÍTULO IV — Disposições finais e transitórias
 
 ###### Artigo 22.º
-
-Disposições finais e transitórias
 
 (Subsistência de direitos dos actuais beneficiários do Fundo)
 

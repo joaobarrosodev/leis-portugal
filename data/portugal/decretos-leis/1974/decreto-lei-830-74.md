@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1975-06-28'
+  consolidation_date: '1981-09-25'
 version_history:
   file: decreto-lei-830-74.versoes.json
   count: 2
@@ -41,11 +41,12 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1975-06-28'
+  - date: '1981-09-25'
     amending: pt:dre:337217:por
-    amending_title: Decreto-Lei n.º 326/75
+    amending_title: Decreto-Lei n.º 326/75; Portaria n.º 849/81; Portaria n.º 850/81
     changes:
     - Altera Artigo 24.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:37:59Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 326/75. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-830-74.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-830-74.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 849/81; Portaria n.º 850/81.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -460,11 +463,15 @@ O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Quadro do Instituto Superior de Engenharia de Lisboa
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30311/01950200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25662566.pdf)
+
+> Alterado pelo/a [Portaria n.º 849/81](https://diariodarepublica.pt/dr/detalhe/portaria/849-1981-563673), publicado em 1981-09-25.
 
 Quadro do Instituto Superior de Engenharia do Porto
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30311/01950200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22100/25662567.pdf)
+
+> Alterado pelo/a [Portaria n.º 850/81](https://diariodarepublica.pt/dr/detalhe/portaria/850-1981-563777), publicado em 1981-09-25.
 
 Quadro do Instituto Superior de Engenharia de Coimbra
 

@@ -85,7 +85,8 @@ provenance:
   generated_at: '2026-10-22T23:58:41Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 36/85. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1984/decreto-lei-242-84.alteracoes.json. Retificações
-    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Retificações aplicadas com
+    um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -351,6 +352,10 @@ a) Os fixados no artigo 2.º, segundo o que na respectiva nota se encontra deter
 b) Os fixados no artigo 4.º, integralmente aos funcionários;
 
 c) Os fixados nos artigos 3.º, 5.º, 6.º e 7.º, 50% ao Estado, e o remanescente constituíra receita do cofre de emolumentos referido no artigo 319.º da Reforma Aduaneira.
+
+1) Metade aos funcionários dos quadros aduaneiros que os prestarem e a outra metade constituirá receita do Cofre de emolumentos referido no artigo 319.º da Reforma Aduaneira;
+
+2) Aos graduados e praças da Guarda Fiscal que os houverem prestado.
 
 10.ª Os emolumentos a que se referem os artigos 5.º e 6.º não são devidos, nas casas fiscais da fronteira, pelo serviço de conferência de trânsito ou transferência de mercadorias quando esse serviço seja realizado dentro das horas do expediente ordinário.
 

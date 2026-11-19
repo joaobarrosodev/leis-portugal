@@ -31,7 +31,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1977-12-31'
+  consolidation_date: '1980-11-10'
 version_history:
   file: decreto-regulamentar-16-77.versoes.json
   count: 2
@@ -41,12 +41,13 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1977-12-31'
+  - date: '1980-11-10'
     amending: pt:dre:276611:por
-    amending_title: Decreto Regulamentar n.º 88/77
+    amending_title: Decreto Regulamentar n.º 88/77; Portaria n.º 955/80
     changes:
     - Altera Artigo 15.º
     - Altera Artigo 23.º
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:56:28Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 88/77. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1977/decreto-regulamentar-16-77.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1977/decreto-regulamentar-16-77.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 955/80.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -380,62 +383,10 @@ QUADRO ANEXO
 
 Instituto Nacional da Propriedade Industrial
 
-Pessoal dirigente
+Quadro substituído pelo quadro anexo à Portaria n.º 955/80, alínea g) (Instituto Nacional da Propriedade Industrial):
 
-1 director ... B
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26000/38063810.pdf)
 
-4 directores de serviços ... D
-
-6 chefes de divisão ... E
-
-1 juiz de instrução (ver nota a) ... E
-
-2 chefes de repartição ... F
-
-Pessoal técnico
-
-8 técnicos principais (ver nota b) ... E
-
-9 técnicos de 1.ª classe (ver nota b) (ver nota c) ... F
-
-8 técnicos de 2.ª classe (ver nota b) (ver nota c) ... H
-
-2 primeiros-bibliotecários-arquivistas ... H
-
-9 técnicos auxiliares principais ... J
-
-6 técnicos auxiliares de 1.ª classe ... L
-
-6 técnicos auxiliares de 2.ª classe ... M
-
-Pessoal administrativo
-
-4 chefes de secção ... J
-
-6 primeiros-oficiais ... L
-
-6 segundos-oficiais ... N
-
-12 terceiros-oficiais ... Q
-
-12 escriturários-dactilógrafos ... S
-
-Pessoal auxiliar
-
-1 chefe de secção de composição ... N
-
-3 arquivistas de 1.ª classe ... N
-
-3 arquivistas de 2.ª classe ... Q
-
-2 impressores ... S
-
-8 contínuos ... T
-
-(nota a) O juiz de instrução só integra este quadro enquanto responsável pela Divisão de inspecção.
-
-(nota b) Quatro destes técnicos exercem as funções de examinadores.
-
-(nota c) Um destes técnicos exerce as funções de documenta ista em línguas estrangeiras.
+> Alterado pelo/a [Portaria n.º 955/80](https://diariodarepublica.pt/dr/detalhe/portaria/955-1980-457418), publicado em 1980-11-10.
 
 O Ministro do Comércio e Turismo, António Miguel Morais Barreto.

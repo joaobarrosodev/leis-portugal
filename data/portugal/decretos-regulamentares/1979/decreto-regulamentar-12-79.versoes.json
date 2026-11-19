@@ -222,7 +222,7 @@
    ]
   },
   {
-   "date": "1979-12-22",
+   "date": "1980-08-20",
    "future": false,
    "acts": [
     {
@@ -236,6 +236,12 @@
      "title": "Declaração",
      "published": "1979-06-02",
      "dre_path": "/dr/detalhe/declaracao/1979-383832"
+    },
+    {
+     "id": "pt:dre:471142:por",
+     "title": "Portaria n.º 531/80",
+     "published": "1980-08-20",
+     "dre_path": "/dr/detalhe/portaria/531-1980-471142"
     }
    ],
    "changes": [
@@ -257,7 +263,8 @@
     "Retifica texto",
     "Retifica Artigo 140",
     "Retifica Artigo 51",
-    "Retifica Artigo 53"
+    "Retifica Artigo 53",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "dae6dff478a6888b",
@@ -467,7 +474,7 @@
     "0291e3ef2b6a38c2",
     "f59c9853641a6d6f",
     "1ee2c5cc54df9ef4",
-    "a32d946350624275"
+    "e4ee208853757dbe"
    ]
   }
  ],
@@ -2140,7 +2147,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º — (Direcção de Serviços de Administração Geral; estrutura e atribuições)",
-   "in_force_from": "1979-12-22",
+   "in_force_from": "1980-08-20",
    "changed_by": [
     "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383832), publicado em 1979-06-02."
    ],
@@ -2246,7 +2253,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 63.º — Nomeação do pessoal dirigente dos serviços locais",
-   "in_force_from": "1979-12-22",
+   "in_force_from": "1980-08-20",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 500/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1979-365890), publicado em 1979-12-22."
    ],
@@ -2280,7 +2287,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 109.º — Secretários de finanças de 3.ª classe",
-   "in_force_from": "1979-12-22",
+   "in_force_from": "1980-08-20",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 500/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1979-365890), publicado em 1979-12-22."
    ],
@@ -2293,6 +2300,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 140.º — (Primeiro provimento dos lugares de primeiro-oficial)\n\n1 - O primeiro provimento dos lugares de primeiro-oficial que se efectuar após a entrada em vigor deste decreto poderá ser feito, nos termos do artigo 155.º, de entre os segundos-oficiais pertencentes aos quadros de pessoal da Direcção-Geral que possuam o tempo mínimo previsto neste diploma para a promoção à categoria imediata e classificação de serviço não inferior a 12 ou a Suficiente no último ano.\n\n2 - O disposto no número anterior aplica-se aos segundos-oficiais, oriundos do quadro geral de adidos, que hajam pertencido aos serviços de finanças dos territórios descolonizados, integrados ou que vierem a integrar-se no quadro de supranumerários criado pela [Portaria n.º 768/77](https://diariodarepublica.pt/dr/detalhe/portaria/768-1977-280241), de 21 de Dezembro."
+  },
+  "e4ee208853757dbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 160.º — (Entrada em vigor)",
+   "in_force_from": "1980-08-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 531/80](https://diariodarepublica.pt/dr/detalhe/portaria/531-1980-471142), publicado em 1980-08-20."
+   ],
+   "markdown": "###### Artigo 160.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação, salvo quanto a vencimentos, a participação no prémio de cobrança e a contagem de antiguidade nas novas categorias e cargos, que produzirá, respectivamente, efeitos a partir de 1 de Janeiro de 1979, 1 de Janeiro de 1979 e de 1 de Novembro de 1978.\n\nCarlos Alberto da Mota Pinto - Manuel Jacinto Nunes.\n\nPromulgado em 28 de Março de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMAPA I\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)\n\nAlteração ao mapa I anexo ao presente decreto regulamentar (mapa II da Portaria n.º 531/80):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19100/22702280.pdf)\n\n> Alterado pelo/a [Portaria n.º 531/80](https://diariodarepublica.pt/dr/detalhe/portaria/531-1980-471142), publicado em 1980-08-20.\n\nMAPA II\n\nCursos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)\n\nMAPA III\n\nQualificação de pessoal técnico superior referido no artigo 50.º\n\nDocumentação;\n\nGestão de recursos humanos;\n\nOrganização e métodos;\n\nFormação.\n\nTabela de correspondência para efeitos de contagem de tempo nas novas categorias\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)\n\nO Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes."
   }
  }
 }

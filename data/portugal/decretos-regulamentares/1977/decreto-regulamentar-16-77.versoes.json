@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1977-12-31",
+   "date": "1980-11-10",
    "future": false,
    "acts": [
     {
@@ -23,11 +23,18 @@
      "title": "Decreto Regulamentar n.º 88/77",
      "published": "1977-12-31",
      "dre_path": "/dr/detalhe/decreto-regulamentar/88-1977-276611"
+    },
+    {
+     "id": "pt:dre:457418:por",
+     "title": "Portaria n.º 955/80",
+     "published": "1980-11-10",
+     "dre_path": "/dr/detalhe/portaria/955-1980-457418"
     }
    ],
    "changes": [
     "Altera Artigo 15.º",
-    "Altera Artigo 23.º"
+    "Altera Artigo 23.º",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "642479c82811417f",
@@ -61,7 +68,7 @@
     "50be6d74d7143993",
     "e92d032454a9b1d2",
     "080f969122ac7fc0",
-    "9bd9022b31aed2b7"
+    "c1bb5a32b6776a87"
    ]
   }
  ],
@@ -198,7 +205,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º",
-   "in_force_from": "1977-12-31",
+   "in_force_from": "1980-11-10",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 88/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/88-1977-276611), publicado em 1977-12-31."
    ],
@@ -264,7 +271,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 23.º",
-   "in_force_from": "1977-12-31",
+   "in_force_from": "1980-11-10",
    "changed_by": [
     "Alterado pelo/a [Decreto Regulamentar n.º 88/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/88-1977-276611), publicado em 1977-12-31."
    ],
@@ -326,13 +333,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 30.º\n\nAs despesas resultantes da execução deste diploma serão satisfeitas pelas verbas inscritas no Orçamento Geral do Estado para esse fim."
   },
-  "9bd9022b31aed2b7": {
+  "c1bb5a32b6776a87": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 31.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 31.º\n\nA execução deste diploma, nomeadamente a estruturação dos serviços, será promovida sistematicamente por despacho do Ministro do Comércio e Turismo sob proposta do director.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - António Miguel Morais Barreto.\n\nPromulgado em 14 de Fevereiro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nQUADRO ANEXO\n\nInstituto Nacional da Propriedade Industrial\n\nPessoal dirigente\n\n1 director ... B\n\n4 directores de serviços ... D\n\n6 chefes de divisão ... E\n\n1 juiz de instrução (ver nota a) ... E\n\n2 chefes de repartição ... F\n\nPessoal técnico\n\n8 técnicos principais (ver nota b) ... E\n\n9 técnicos de 1.ª classe (ver nota b) (ver nota c) ... F\n\n8 técnicos de 2.ª classe (ver nota b) (ver nota c) ... H\n\n2 primeiros-bibliotecários-arquivistas ... H\n\n9 técnicos auxiliares principais ... J\n\n6 técnicos auxiliares de 1.ª classe ... L\n\n6 técnicos auxiliares de 2.ª classe ... M\n\nPessoal administrativo\n\n4 chefes de secção ... J\n\n6 primeiros-oficiais ... L\n\n6 segundos-oficiais ... N\n\n12 terceiros-oficiais ... Q\n\n12 escriturários-dactilógrafos ... S\n\nPessoal auxiliar\n\n1 chefe de secção de composição ... N\n\n3 arquivistas de 1.ª classe ... N\n\n3 arquivistas de 2.ª classe ... Q\n\n2 impressores ... S\n\n8 contínuos ... T\n\n(nota a) O juiz de instrução só integra este quadro enquanto responsável pela Divisão de inspecção.\n\n(nota b) Quatro destes técnicos exercem as funções de examinadores.\n\n(nota c) Um destes técnicos exerce as funções de documenta ista em línguas estrangeiras.\n\nO Ministro do Comércio e Turismo, António Miguel Morais Barreto."
+   "in_force_from": "1980-11-10",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 955/80](https://diariodarepublica.pt/dr/detalhe/portaria/955-1980-457418), publicado em 1980-11-10."
+   ],
+   "markdown": "###### Artigo 31.º\n\nA execução deste diploma, nomeadamente a estruturação dos serviços, será promovida sistematicamente por despacho do Ministro do Comércio e Turismo sob proposta do director.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - António Miguel Morais Barreto.\n\nPromulgado em 14 de Fevereiro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nQUADRO ANEXO\n\nInstituto Nacional da Propriedade Industrial\n\nQuadro substituído pelo quadro anexo à Portaria n.º 955/80, alínea g) (Instituto Nacional da Propriedade Industrial):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26000/38063810.pdf)\n\n> Alterado pelo/a [Portaria n.º 955/80](https://diariodarepublica.pt/dr/detalhe/portaria/955-1980-457418), publicado em 1980-11-10.\n\nO Ministro do Comércio e Turismo, António Miguel Morais Barreto."
   }
  }
 }

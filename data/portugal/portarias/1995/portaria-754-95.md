@@ -57,6 +57,7 @@ version_history:
     amending_title: Portaria n.º 647-E/96
     changes:
     - Altera Artigo unidades 6-6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/754/1995/07/11/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:10:14Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 647-E/96. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-754-95.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-754-95.alteracoes.json. Planta trocada pela
+    do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 647-E/96.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,4 +197,4 @@ Assinada em 28 de Junho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/158b00/43674367.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/261b01/00040004.pdf)

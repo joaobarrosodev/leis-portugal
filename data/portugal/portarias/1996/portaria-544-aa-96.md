@@ -58,6 +58,7 @@ version_history:
     changes:
     - Altera Artigo unidades 9-9
     - Adita Artigo depois da unidade 9
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/544-aa/1996/10/04/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:32:17Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1052/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-544-aa-96.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-544-aa-96.alteracoes.json. Planta trocada
+    pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 1052/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -223,4 +225,4 @@ Assinada em 26 de Setembro de 1996.
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/231b01/00180019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/238b00/54835484.pdf)

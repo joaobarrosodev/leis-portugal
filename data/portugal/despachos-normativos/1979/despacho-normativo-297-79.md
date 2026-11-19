@@ -57,6 +57,7 @@ version_history:
     - Altera Artigo 2.º
     - Altera Artigo 7.º
     - Retifica Artigo 8
+    - Retifica Artigo 7
 identifiers:
   celex: null
   eli: null
@@ -84,7 +85,9 @@ provenance:
   generated_at: '2026-10-23T06:54:47Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 315/79; Despacho
     Normativo n.º 317/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1979/despacho-normativo-297-79.alteracoes.json.
-    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Despacho Normativo n.º 366/79.'
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Despacho Normativo n.º 366/79.
+    Retificações aplicadas com um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Despacho Normativo
+    n.º 366/79.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -294,7 +297,11 @@ f) Serviço de Informação para o Abastecimento Estatal.
 
 g) Comissão Liquidatária do Comissariado para os Desalojados.
 
+h) Direcção do Crédito Cifre.
+
 > Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13.
+
+> Retificado pelo/a [Despacho Normativo n.º 366/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/366-1979-366453), publicado em 1979-12-14.
 
 ###### Artigo 8.º
 

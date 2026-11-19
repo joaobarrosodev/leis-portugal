@@ -57,6 +57,7 @@ version_history:
     amending_title: Portaria n.º 267/2003
     changes:
     - Altera Artigo unidades 6-6
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/590/1992/06/27/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:23:47Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 267/2003. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-590-92.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-590-92.alteracoes.json. Planta trocada pela
+    do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 267/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -194,4 +196,4 @@ Assinada em 12 de Maio de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/146b00/30503050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2003/03/070b00/19111911.pdf)
