@@ -71,16 +71,22 @@ def _texto_alterador(path: str, titulo_original: str) -> tuple[str, bool]:
     return "\n\n".join("\n".join(a.linhas).strip() for a in artigos_alteradores(texto, titulo_original)), False
 
 
+def alteradores_vistos(r: dict, registo: dict) -> list[dict]:
+    """Os alteradores que o verificador vê: os aplicados (ou vistos pelo LLM) e, sempre, as
+    declarações de retificação com texto. Uma retificação que as regras não leram e o LLM não
+    citou deixava texto por retificar sem o verificador a ver (achado do bloco 3)."""
+    if "alteradores" not in registo:
+        return [registo["alterador"]]
+    # O texto corrido (`llm_corrido.py`) mostra ao verificador todos os alteradores do pedido, não só os que a resposta cita.
+    aplicados = set(r["alteradores_vistos"]) if "alteradores_vistos" in r else set(r["alteradores_ids"]) if "alteradores_ids" in r else {p["id"] for p in r.get("passos", []) if p.get("aplicadas")}
+    return [a for a in registo["alteradores"] if a["id"] in aplicados or (a.get("retificacao") and a.get("path"))]
+
+
 def linha_de(r: dict, registo: dict) -> dict:
     """A linha da entrada para um diploma aplicado por regra."""
     consolidado = _NOTA_PILOTO.sub("", corpo((RAIZ / r["consolidado"]).read_text(encoding="utf-8")))
     original = publicado(RAIZ / registo["path"])
-    if "alteradores" in registo:
-        # O texto corrido (`llm_corrido.py`) mostra ao verificador todos os alteradores do pedido, não só os que a resposta cita.
-        aplicados = set(r["alteradores_vistos"]) if "alteradores_vistos" in r else set(r["alteradores_ids"]) if "alteradores_ids" in r else {p["id"] for p in r.get("passos", []) if p.get("aplicadas")}
-        alteradores = [a for a in registo["alteradores"] if a["id"] in aplicados]
-    else:
-        alteradores = [registo["alterador"]]
+    alteradores = alteradores_vistos(r, registo)
     textos = []
     for a in alteradores:
         texto, completo = _texto_alterador(a["path"], registo["title"])

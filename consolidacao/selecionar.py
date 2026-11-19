@@ -16,7 +16,10 @@ Uso: `python consolidacao/selecionar.py [--export F]`.
 
 **Escala (`--todos`):** todos os em vigor (`in_force`, `partially_in_force`), portugueses e
 regionais, `version_kind = original`, com texto (`text_quality = texto`) e pelo menos uma
-relação `amended_by`, qualquer número de alterações e de citações. Escreve
+relação `amended_by` ou `corrected_by`, qualquer número de alterações e de citações. As
+declarações de retificação (`corrected_by`) contam como alteradores, com `retificacao: true`, e
+vão primeiro na cadeia (aplicam-se ao texto original, Lei 74/98, art. 5.º, n.º 4), salvo as que
+retificam um alterador. Escreve
 `consolidacao/selecao-escala.jsonl` com, por diploma, `alteradores` (todos os diplomas que
 alteram, por ordem de data de publicação; os que não estão no acervo só com o alvo da relação,
 ordenados pela data da relação ou no fim), `citacoes` e `republicado_por`. Pelo export de
@@ -27,14 +30,14 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sqlite3
 import subprocess
 from collections import Counter, defaultdict
 from pathlib import Path
 
-import yaml
-
 from texto import RAIZ, artigos_alteradores, corpo, front_matter
+
 
 SAIDA = RAIZ / "consolidacao" / "selecao.jsonl"
 SAIDA_ESCALA = RAIZ / "consolidacao" / "selecao-escala.jsonl"
@@ -53,7 +56,7 @@ def export_por_omissao() -> Path:
 def selecionar(db: sqlite3.Connection) -> list[dict]:
     colunas = COLUNAS
     alvo = {
-        linha[0]: dict(zip(colunas.split(", "), linha))
+        linha[0]: dict(zip(colunas.split(", "), linha, strict=False))
         for linha in db.execute(
             f"select {colunas} from documentos where legal_status in ('in_force', 'partially_in_force')"
             " and version_kind = 'original' and jurisdiction in ('portugal', 'regional')"
@@ -77,7 +80,7 @@ def selecionar(db: sqlite3.Connection) -> list[dict]:
         registo = alvo[diploma] | {"citacoes": len(citacoes[diploma])}
         alterador_id = lista[0]["id"]
         alterador = db.execute(f"select {colunas} from documentos where id = ?", (alterador_id,)).fetchone() if alterador_id else None
-        registo["alterador"] = dict(zip(colunas.split(", "), alterador)) if alterador else {"id": lista[0]["alvo"]}
+        registo["alterador"] = dict(zip(colunas.split(", "), alterador, strict=False)) if alterador else {"id": lista[0]["alvo"]}
         registo["rotulos_dre"] = sorted({a["rotulo"] for a in lista if a["rotulo"]})
         registo["datas_dre"] = sorted({a["data"] for a in lista if a["data"]})
         resultado.append(registo)
@@ -94,12 +97,13 @@ def selecionar_todos(db: sqlite3.Connection) -> list[dict]:
         )
     }
     relacoes: dict[str, dict[str, dict]] = defaultdict(dict)  # original -> alvo da relação -> relação
-    for origem, alvo_rel, alvo_id, data, rotulo in db.execute(
-        "select source_id, target, target_id, date, label from relacoes where type = 'amended_by'"
+    for origem, alvo_rel, alvo_id, data, rotulo, tipo in db.execute(
+        "select source_id, target, target_id, date, label, type from relacoes where type in ('amended_by', 'corrected_by')"
     ):
         if origem not in alvo:
             continue
-        r = relacoes[origem].setdefault(alvo_rel, {"alvo": alvo_rel, "id": alvo_id, "rotulos": set(), "datas": set()})
+        r = relacoes[origem].setdefault(alvo_rel, {"alvo": alvo_rel, "id": alvo_id, "rotulos": set(), "datas": set(), "tipos": set()})
+        r["tipos"].add(tipo)
         if rotulo:
             r["rotulos"].add(rotulo)
         if data:
@@ -115,6 +119,8 @@ def selecionar_todos(db: sqlite3.Connection) -> list[dict]:
         for linha in db.execute(f"select {COLUNAS} from documentos where id in ({','.join('?' * len(lote))})", lote):
             documentos[linha[0]] = dict(zip(COLUNAS.split(", "), linha, strict=True))
 
+    original_pub = ""
+
     def alterador(r: dict) -> dict:
         meta = documentos.get(r["id"]) if r["id"] else None
         base = dict(meta) if meta else {"id": r["id"] or r["alvo"], "title": r["alvo"]}
@@ -123,13 +129,32 @@ def selecionar_todos(db: sqlite3.Connection) -> list[dict]:
         base["datas_dre"] = datas
         # A ordem: data de publicação; sem ela, a data da relação do DRE; sem nenhuma, no fim.
         base["ordem"] = base.get("publication_date") or (datas[-1] if datas else "9999-99-99")
+        if r["tipos"] == {"corrected_by"}:
+            # Uma declaração de retificação do original aplica-se ao texto original (Lei 74/98,
+            # art. 5.º, n.º 4): vai primeiro na cadeia. A que o DRE liga ao original mas retifica um
+            # alterador («Rectificada a Port 681/86, que conferiu nova redacção…») fica pela data.
+            base["retificacao"] = True
+            if not any(retifica_outro(rotulo) for rotulo in r["rotulos"]):
+                base["ordem"] = original_pub
         return base
 
     resultado = []
     for diploma, lista in relacoes.items():
-        alteradores = sorted((alterador(r) for r in lista.values()), key=lambda a: (a["ordem"], a["id"]))
+        original_pub = alvo[diploma].get("publication_date") or "0000-00-00"
+        alteradores = sorted((alterador(r) for r in lista.values()), key=lambda a: (a["ordem"], not a.get("retificacao"), a["id"]))
         resultado.append(alvo[diploma] | {"citacoes": len(citacoes[diploma]), "alteradores": alteradores, "n_alteracoes": len(alteradores)})
     return sorted(resultado, key=lambda r: (-r["citacoes"], r["id"]))
+
+
+_RETIFICA_OUTRO = re.compile(
+    r"^Re(?:c)?tificad[oa]s?\s+(?:o|a|os|as)\s+(?:art\.?\s+[úu]nico\s+d[oa]\s+)?(?:Dec|Port|DR|DL|Lei|Despacho|DN|Res|RCM|Decl)",
+    re.I,
+)
+
+
+def retifica_outro(rotulo: str | None) -> bool:
+    """O rótulo da relação `corrected_by` diz que se retificou outro diploma (o alterador), não o original."""
+    return bool(_RETIFICA_OUTRO.search((rotulo or "").replace("\x00", "").strip()))
 
 
 def completar(registo: dict) -> dict:

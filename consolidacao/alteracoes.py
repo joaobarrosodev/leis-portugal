@@ -23,7 +23,8 @@ import re
 from dataclasses import dataclass, field
 
 from texto import _QUALQUER_DIPLOMA as _QUALQUER
-from texto import Corpo, diplomas_em, sem_abreviaturas, dividir, numero_artigo, padrao_diploma, sem_ligacoes
+from texto import Corpo, diplomas_em, dividir, numero_artigo, padrao_diploma, sem_abreviaturas, sem_ligacoes
+
 
 _VERBO_SUBSTITUIR = re.compile(
     r"passa(?:m)? a ter a (?:seguinte )?reda[cç]+[ãa]o(?: seguinte)?|"
@@ -434,8 +435,19 @@ def ler(texto_alterador: str, titulo_original: str, original: Corpo) -> Leitura:
         antes_mencao = texto[: mencao.start()] if mencao else texto
 
         if _VERBO_RETIFICAR.search(texto):
+            # «No n.º 2 do artigo 52.º, onde se lê:» / «…» / «deve ler-se:» / «…»: as aspas vêm nos
+            # parágrafos seguintes. Junta-se até ao primeiro par completo e não mais.
+            juntos, k = texto, 0
+            while not _ONDE.search(juntos) and k < 4 and i + k + 1 < len(lista) and not _VERBO_RETIFICAR.search(lista[i + k + 1].texto):
+                k += 1
+                juntos += " " + lista[i + k].texto
+            m = _ONDE.search(juntos)
+            if k and m:
+                texto = juntos[: m.end()]
+            else:
+                k = 0
             _retificacao(leitura, texto, antes_mencao, parte, p.artigo)
-            i += 1
+            i += 1 + k
             continue
 
         e_substituir = bool(_VERBO_SUBSTITUIR.search(texto))
@@ -533,7 +545,7 @@ def _revogacao(leitura: Leitura, excerto: str, antes: str, ambito: str, mencao, 
 
 
 _ONDE = re.compile(
-    r"onde se l[êe],?\s*(?:«(?P<antes>.*?)»|\"(?P<antes2>.*?)\"),?\s*deve ler-se,?\s*(?:«(?P<depois>.*?)»|\"(?P<depois2>.*?)\")",
+    r"onde se l[êe][,:]?\s*(?:«(?P<antes>.*?)»|\"(?P<antes2>.*?)\")[,;]?\s*deve ler-se[,:]?\s*(?:«(?P<depois>.*?)»|\"(?P<depois2>.*?)\")",
     re.I | re.S,
 )
 

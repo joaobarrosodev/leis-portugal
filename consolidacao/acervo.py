@@ -247,6 +247,15 @@ def em_vigor(metadados: dict) -> str:
     return entrada or (metadados.get("entry_into_force_dates") or [None])[0] or metadados["publication_date"]
 
 
+def data_da_versao(alteradores: list[tuple[dict, dict]], original: dict) -> str:
+    """A data da versão consolidada: a entrada em vigor do último alterador que não é uma
+    declaração de retificação. Uma retificação reporta os efeitos à entrada em vigor do texto
+    retificado (Lei 74/98, art. 5.º, n.º 4), por isso não adia a versão; só com retificações, a
+    versão vale desde a entrada em vigor do original."""
+    datas = [em_vigor(meta) for a, meta in alteradores if not a.get("retificacao")]
+    return max(datas) if datas else em_vigor(original)
+
+
 def _lista(texto: Path) -> list[dict]:
     return [json.loads(l) for l in texto.read_text(encoding="utf-8").splitlines()]
 
@@ -355,7 +364,7 @@ def main() -> int:
             recusados.append(f"{id_}: nenhum alterador com alterações aplicadas")
             continue
         alteracoes = json.loads(piloto.with_name(piloto.name.replace(".md", ".alteracoes.json")).read_text(encoding="utf-8"))
-        data_alteracao = max(em_vigor(meta) for _, meta in alteradores)
+        data_alteracao = data_da_versao(alteradores, front_matter(caminho.read_text(encoding="utf-8")))
         versoes = [
             {"date": registo.publication_date, "future": registo.publication_date > hoje, "acts": [], "changes": []},
             {

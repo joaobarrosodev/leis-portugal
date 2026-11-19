@@ -351,6 +351,8 @@ def pedido(registo: dict, extra: dict, alteradores: list[dict] | None = None, in
     for n, a in enumerate(alteradores, inicio):
         texto, completo = _texto_alterador(a["path"], registo["title"])
         aviso_a = "" if completo else " (só os artigos que mencionam o original)"
+        if a.get("retificacao"):
+            aviso_a += " (declaração de retificação: corrige o texto original, com efeitos desde a sua entrada em vigor)"
         partes += [f"### Alterador {n}: {a.get('title') or a['id']}{aviso_a}", texto.strip(), ""]
     texto = "\n".join(partes)
     return texto, len(texto)
