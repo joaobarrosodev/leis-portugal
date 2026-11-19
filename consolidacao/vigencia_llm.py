@@ -44,6 +44,16 @@ POR_LOTE = 40
 MAX_MENCOES = 8
 _VERBO = re.compile(r"revog|extin|caduc|substitu|cess[ao]|termo|renov|prorrog|deixa de vigorar|transita|sucede", re.I)
 _PROC = re.compile(r"processo n\.?\s*º?\s*([\d.]+)", re.I)
+_PARCIAL = re.compile(r"exce[pç]+[ãa]o|excep[cç]|salvo|em parte|\bparte d[aeo]s?\b|parcial|na parte|com ressalva|com exce|sem preju[íi]zo", re.I)
+# Uma relação com este rótulo não diz nada sobre a vigência: não serve de prova.
+_ROTULO_GENERICO = re.compile(r"^Última alteração registada na importação inicial$")
+# Lidos à mão a 19/11/2026: o próprio leitor disse que só o conteúdo principal foi substituído
+# (ficam normas transitórias ou outras disposições). Na dúvida, não se marca.
+DESCARTADAS = {
+    "pt:dre:297246:por": "Despacho Normativo n.º 47-B/86: só a quota foi substituída; o despacho tem outras disposições",
+    "pt:dre:472275:por": "Portaria n.º 690/74: substituído o quadro de pessoal anexo; ficam normas transitórias",
+    "pt:dre:368260:por": "Portaria n.º 752/71: substituído o quadro de pessoal; o mesmo critério da Portaria n.º 690/74",
+}
 
 
 def candidatos() -> list[dict]:
@@ -180,7 +190,17 @@ def duvidas() -> None:
 def prova_valida(r: dict, e: dict) -> bool:
     """A prova cita uma menção ou uma relação da entrada (o id) e há motivo."""
     ids = {m["id"] for m in e["mencoes_no_acervo"]} | {x["alvo"] for x in e["relacoes"]}
-    return bool(r.get("motivo")) and bool(r.get("prova")) and r["prova"] in ids
+    # Uma revogação com exceções ou só em parte não é «já não vigora»: na dúvida, não se marca.
+    if not (r.get("motivo") and r.get("prova") and r["prova"] in ids):
+        return False
+    if e["id"] in DESCARTADAS:
+        return False
+    mencao = next((m.get("trecho", "") for m in e["mencoes_no_acervo"] if m["id"] == r["prova"]), "")
+    rotulos = [x["rotulo"].strip() for x in e["relacoes"] if x["alvo"] == r["prova"]]
+    if not mencao and rotulos and all(_ROTULO_GENERICO.match(x) or not x for x in rotulos):
+        return False
+    prova = mencao + " " + " ".join(rotulos)
+    return not (_PARCIAL.search(r["motivo"]) or _PARCIAL.search(prova))
 
 
 def juntar() -> None:
@@ -198,7 +218,7 @@ def juntar() -> None:
         if not prova_valida(r, e):
             contas["nao_vigora sem prova na entrada (não conta)"] += 1
             continue
-        prova = next((m for m in e["mencoes_no_acervo"] if m["id"] == r["prova"]), None) or next(x for x in e["relacoes"] if x["alvo"] == r["prova"])
+        prova = next((m for m in e["mencoes_no_acervo"] if m["id"] == r["prova"]), None) or next(x for x in sorted(e["relacoes"], key=lambda x: bool(_ROTULO_GENERICO.match(x["rotulo"].strip()))) if x["alvo"] == r["prova"])
         marcas.append({
             "id": i, "titulo": e["titulo"], "marca": "nao_vigora", "classe": f"llm_{e['classe']}",
             "motivo": r["motivo"].strip().rstrip(".") + ".", "prova": [{"tipo": "menção no acervo" if "trecho" in prova else "relação", **prova}],
