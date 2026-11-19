@@ -1,8 +1,8 @@
 {
  "checked": "2026-10-27",
- "listed": 1078590,
- "present": 385337,
- "missing": 693253,
+ "listed": 1078598,
+ "present": 385349,
+ "missing": 693249,
  "types": [
   {
    "type": "lei-constitucional",
@@ -240,10 +240,10 @@
    "type": "declaracao",
    "label": "Declaração",
    "optional": true,
-   "listed": 25757,
-   "present": 25755,
-   "missing": 2,
-   "checked": "2026-11-18"
+   "listed": 25758,
+   "present": 25757,
+   "missing": 1,
+   "checked": "2026-11-19"
   },
   {
    "type": "acordao-tribunal-constitucional",
@@ -324,7 +324,7 @@
    "listed": 39377,
    "present": 39377,
    "missing": 0,
-   "checked": "2026-11-18"
+   "checked": "2026-11-19"
   },
   {
    "type": "mapa-oficial",
@@ -362,10 +362,10 @@
    "type": "regulamento",
    "label": "Regulamento",
    "optional": true,
-   "listed": 18851,
-   "present": 18848,
-   "missing": 3,
-   "checked": "2026-11-18"
+   "listed": 18855,
+   "present": 18850,
+   "missing": 5,
+   "checked": "2026-11-19"
   },
   {
    "type": "regulamento-cmvm",
@@ -387,10 +387,10 @@
    "type": "deliberacao",
    "label": "Deliberação",
    "optional": true,
-   "listed": 23499,
-   "present": 23491,
-   "missing": 8,
-   "checked": "2026-11-18"
+   "listed": 23502,
+   "present": 23499,
+   "missing": 3,
+   "checked": "2026-11-19"
   },
   {
    "type": "acordo-coletivo-trabalho",
@@ -399,7 +399,7 @@
    "listed": 2142,
    "present": 2142,
    "missing": 0,
-   "checked": "2026-11-18"
+   "checked": "2026-11-19"
   }
  ]
 }
