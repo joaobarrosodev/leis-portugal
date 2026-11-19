@@ -1,0 +1,23 @@
+{
+ "composta": {
+  "n": 30,
+  "cmp1-ctx8": {
+   "certa": 24,
+   "nao_certa": 2,
+   "nao_sei": 4
+  },
+  "cmp1-ctx16": {
+   "certa": 25,
+   "nao_certa": 2,
+   "nao_sei": 3
+  },
+  "ganhos": 1,
+  "perdas": 0,
+  "transicoes": {
+   "certa->certa": 24,
+   "nao_certa->nao_certa": 2,
+   "nao_sei->nao_sei": 3,
+   "nao_sei->certa": 1
+  }
+ }
+}

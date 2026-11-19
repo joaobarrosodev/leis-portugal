@@ -134,9 +134,9 @@ def llm_disponivel() -> bool:
     return provedores.disponivel()
 
 
-def contexto(consulta: Consulta) -> tuple[str, list[Resultado]]:
-    """Os artigos que o LLM recebe, numerados, com os avisos; e a lista deles pela mesma ordem."""
-    artigos = consulta.resultados[:ARTIGOS_NO_CONTEXTO]
+def contexto(consulta: Consulta, n: int = ARTIGOS_NO_CONTEXTO) -> tuple[str, list[Resultado]]:
+    """Os `n` primeiros artigos que o LLM recebe, numerados, com os avisos; e a lista deles pela mesma ordem."""
+    artigos = consulta.resultados[:n]
     blocos = []
     for n, r in enumerate(artigos, 1):
         avisos = "".join(f"\nAviso: {a}" for a in r.avisos)

@@ -260,3 +260,109 @@ def test_diploma_so_por_referencia_fica_fora_do_bm25_em_todo_o_acervo(tmp_path):
     assert documento(p.bm25("piscina", "2026-01-01")) == {"pt:lei:001"}
     # Quando a pergunta o cita, encontra-se como os outros.
     assert documento(p.bm25("piscina", "2026-01-01", documentos=["pt:reg:002"])) == {"pt:reg:002"}
+
+
+# --- passo_llm: contextos de vários tamanhos a partir da mesma pesquisa
+
+
+def _resultados(k: int):
+    from rag.pesquisa import Resultado
+
+    return [Resultado(n, "pt:doc", "Lei n.º 1/2020", "", f"{n}.º", "", f"{n}.º", f"Lei n.º 1/2020 › Artigo {n}.º", f"Texto {n}.", "", None, None) for n in range(1, k + 1)]
+
+
+class _PesquisaFalsa:
+    def __init__(self):
+        self.chamadas: list[tuple[str, int]] = []
+
+    def pesquisar(self, pergunta, data, k):
+        from rag.pesquisa import Consulta
+
+        self.chamadas.append((pergunta, k))
+        return Consulta(pergunta, data, referencias.extrair(pergunta), _resultados(k))
+
+
+def _passo_llm(monkeypatch, tmp_path):
+    from rag import avaliar, passo_llm
+
+    perguntas = [{"id": f"cmp-{i}", "tipo": "composta", "pergunta": f"Pergunta {i}?", "data_referencia": "2026-11-19"} for i in (1, 2, 3)]
+    monkeypatch.setattr(passo_llm, "PASTA", tmp_path / "llm")
+    monkeypatch.setattr(avaliar, "ler_perguntas", lambda ficheiro=None: perguntas)
+    return passo_llm
+
+
+def test_contexto_respeita_o_numero_de_artigos():
+    from rag.pesquisa import Consulta
+    from rag.resposta import ARTIGOS_NO_CONTEXTO, contexto
+
+    consulta = Consulta("Pergunta?", "2026-11-19", referencias.extrair("Pergunta?"), _resultados(20))
+    assert len(contexto(consulta)[1]) == ARTIGOS_NO_CONTEXTO
+    texto, artigos = contexto(consulta, 16)
+    assert len(artigos) == 16 and "[16] Lei n.º 1/2020 › Artigo 16.º" in texto and "[17]" not in texto
+
+
+def test_exportar_sem_contextos_fica_como_antes(monkeypatch, tmp_path):
+    passo_llm = _passo_llm(monkeypatch, tmp_path)
+    pesquisa = _PesquisaFalsa()
+    passo_llm.exportar("x", {"composta"}, 10, 1.0, None, {}, pesquisa=pesquisa)
+    assert [k for _, k in pesquisa.chamadas] == [10, 10, 10]
+    assert sorted(p.name for p in (tmp_path / "llm").iterdir()) == ["x"]
+    entrada = (tmp_path / "llm" / "x" / "entrada-01.jsonl").read_text(encoding="utf-8")
+    assert "[8]" in entrada and "[9]" not in entrada
+
+
+def test_exportar_varios_contextos_com_uma_so_pesquisa(monkeypatch, tmp_path):
+    import json
+
+    passo_llm = _passo_llm(monkeypatch, tmp_path)
+    pesquisa = _PesquisaFalsa()
+    consultas = tmp_path / "consultas"
+    passo_llm.exportar("x", {"composta"}, 2, 1.0, None, {"cmp-1": "Consulta jurídica 1"}, contextos=[8, 16], consultas=consultas, pesquisa=pesquisa)
+    assert pesquisa.chamadas == [("Consulta jurídica 1", 16), ("Pergunta 2?", 16), ("Pergunta 3?", 16)]
+    for n in (8, 16):
+        pasta = tmp_path / "llm" / f"x-ctx{n}"
+        linhas = [json.loads(x) for f in sorted(pasta.glob("entrada-*.jsonl")) for x in f.read_text(encoding="utf-8").splitlines()]
+        assert [x["id"] for x in linhas] == ["cmp-1", "cmp-2", "cmp-3"]
+        assert all(f"[{n}] " in x["mensagem"] and f"[{n + 1}] " not in x["mensagem"] for x in linhas)
+        assert (pasta / "INSTRUCOES.md").exists()
+    assert sorted(f.name for f in consultas.iterdir()) == ["cmp-1.pickle", "cmp-2.pickle", "cmp-3.pickle"]
+    # Depois de um corte, as consultas guardadas não se pesquisam outra vez.
+    (consultas / "cmp-3.pickle").unlink()
+    outra = _PesquisaFalsa()
+    passo_llm.exportar("x", {"composta"}, 2, 1.0, None, {}, contextos=[8, 16], consultas=consultas, pesquisa=outra)
+    assert outra.chamadas == [("Pergunta 3?", 16)]
+
+
+def test_consulta_guardada_com_menos_resultados_pesquisa_outra_vez(monkeypatch, tmp_path):
+    passo_llm = _passo_llm(monkeypatch, tmp_path)
+    p = {"id": "cmp-1", "pergunta": "Pergunta 1?", "data_referencia": "2026-11-19"}
+    pesquisa = _PesquisaFalsa()
+    passo_llm.pesquisar(pesquisa, p, {}, k=10, consultas=tmp_path)
+    assert len(passo_llm.pesquisar(pesquisa, p, {}, k=8, consultas=tmp_path).resultados) == 10
+    assert len(passo_llm.pesquisar(pesquisa, p, {}, k=16, consultas=tmp_path).resultados) == 16
+    assert [k for _, k in pesquisa.chamadas] == [10, 16]
+
+
+def test_importar_le_as_citacoes_sobre_o_contexto_dado(monkeypatch, tmp_path):
+    import json
+
+    from rag import avaliar
+
+    passo_llm = _passo_llm(monkeypatch, tmp_path)
+    consultas = tmp_path / "consultas"
+    passo_llm.exportar("x", {"composta"}, 10, 1.0, None, {}, contextos=[8, 16], consultas=consultas, pesquisa=_PesquisaFalsa())
+    respostas = [{"id": "cmp-1", "responde": True, "resposta": "Diz o artigo 12.º.", "citacoes": [12]},
+                 {"id": "cmp-2", "responde": True, "resposta": "Diz o artigo 2.º.", "citacoes": [2]},
+                 {"id": "cmp-3", "responde": False, "resposta": "", "citacoes": []}]
+    vistas: dict[int, dict] = {}
+    for n in (8, 16):
+        (tmp_path / "llm" / f"x-ctx{n}" / "saida-01.jsonl").write_text("".join(json.dumps(r) + "\n" for r in respostas), encoding="utf-8")
+        monkeypatch.setattr(avaliar, "pontuar", lambda p, consulta, resposta, n=n: vistas.setdefault(n, {}).setdefault(p["id"], resposta) and {})
+        monkeypatch.setattr(avaliar, "guardar", lambda nome, configuracao, linhas: {})
+        monkeypatch.setattr(avaliar, "tabela", lambda resumo: "")
+        sem_pesquisa = _PesquisaFalsa()
+        passo_llm.importar(f"x-ctx{n}", {"composta"}, 1.0, None, {}, n=n, consultas=consultas, pesquisa=sem_pesquisa)
+        assert sem_pesquisa.chamadas == []  # usa as consultas do exportar
+    assert vistas[16]["cmp-1"].responde and vistas[16]["cmp-1"].citacoes[0].numero == "12.º"
+    assert not vistas[8]["cmp-1"].responde  # [12] não está nos 8 que o LLM viu
+    assert vistas[8]["cmp-2"].responde and vistas[16]["cmp-2"].responde
