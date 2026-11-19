@@ -64,14 +64,23 @@ _ARTIGO = re.compile(r"\bartigos?\s+(\d+(?:\.º|º)?(?:-[A-Z])?)", re.I)
 _TITULO_ARTIGO = re.compile(r"^#{6} Artigo (\S+)")
 
 
+# As que a auditoria deu «sem registo» e que se recolheram depois (19/11/2026), com o caminho.
+RECOLHIDAS = PASTA / "auditoria" / "retificacoes-recolhidas.jsonl"
+
+
 def selecao() -> list[dict]:
+    recolhidas = {}
+    if RECOLHIDAS.exists():
+        recolhidas = {d["retificacao"]: d["caminho"] for d in map(json.loads, RECOLHIDAS.read_text(encoding="utf-8").splitlines()) if d}
     vistas, resultado = set(), []
     for linha in (PASTA / "auditoria" / "retificacoes.jsonl").read_text(encoding="utf-8").splitlines():
         r = json.loads(linha)
         chave_r = (r["id"], r["retificacao"])
+        if not r.get("caminho_retificacao") and r["retificacao"] in recolhidas:
+            r = r | {"caminho_retificacao": recolhidas[r["retificacao"]]}
         if chave_r in vistas or not r.get("caminho_retificacao"):
             continue
-        if r["classe"] in CLASSES or r["retificacao"] in RECUSADAS:
+        if r["classe"] in CLASSES or r["retificacao"] in RECUSADAS or r["retificacao"] in recolhidas:
             vistas.add(chave_r)
             resultado.append(r)
     return resultado
@@ -217,16 +226,27 @@ def pares_da_ronda(ronda: str) -> set[tuple[str, str]]:
 def verificacao(ronda: str | None = None) -> None:
     itens = []
     da_ronda = pares_da_ronda(ronda) if ronda else None
-    for (diploma, retificacao), r in sorted(respostas(ronda).items()):
-        if not r.get("trocas") or (da_ronda is not None and (diploma, retificacao) not in da_ronda):
+    resp = respostas(ronda)
+    sel = {(x["id"], x["retificacao"]): x for x in selecao()}
+    # Na 1.ª ronda, a ordem dos ids (a numeração `n` de verificacao-saida.jsonl depende dela). Numa
+    # ronda seguinte, a ordem da seleção, que é a do `aplicar`: as retificações do mesmo diploma
+    # encadeiam-se, cada uma sobre o texto deixado pela anterior (três plantas depois da mesma linha).
+    ordem = list(sel) if ronda else sorted(resp)
+    correntes: dict[str, list[str]] = {}
+    for diploma, retificacao in ordem:
+        r = resp.get((diploma, retificacao))
+        if not r or not r.get("trocas") or (da_ronda is not None and (diploma, retificacao) not in da_ronda):
             continue
-        s = next(x for x in selecao() if x["id"] == diploma and x["retificacao"] == retificacao)
-        linhas = corpo((RAIZ / s["caminho"]).read_text(encoding="utf-8")).split("\n")
+        s = sel[(diploma, retificacao)]
+        linhas = correntes.get(s["caminho"]) or corpo((RAIZ / s["caminho"]).read_text(encoding="utf-8")).split("\n")
+        copia = list(linhas)
         try:
-            feitas = trocar(list(linhas), r["trocas"])
+            feitas = trocar(copia, r["trocas"])
         except Recusa as erro:
             print(f"   {s['titulo']}: {retificacao}: {erro}")
             continue
+        if ronda:
+            correntes[s["caminho"]] = copia
         ret = RAIZ / s["caminho_retificacao"]
         mr = front_matter(ret.read_text(encoding="utf-8"))
         itens.append({

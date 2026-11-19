@@ -50,3 +50,9 @@ São trocas que completam retificações já aplicadas. Cada uma traz `prova_do_
 - Um parágrafo com `reescrito_depois` pode ser o que a retificação corrige se o alterador só o renumerou sem lhe mudar o texto («3 - (Actual n.º 5.)»), e a prova o mostra.
 
 Saída: `verificacao-saida-r4.jsonl`.
+
+## Ronda rc (`verificacao-entrada-rc.jsonl`): retificações recolhidas depois
+
+São avisos de correção material de PDM e uma declaração de retificação da 2.ª série, recolhidos do DRE depois da auditoria. As regras das rondas im e r4 valem também aqui. Quando várias retificações do mesmo diploma inserem texto depois da mesma linha, encadeiam-se pela ordem. Nesse caso, o «antes» de uma pode já ter o que a anterior inseriu, e isso não é erro: confirma só o que esta acrescenta.
+
+Saída: `verificacao-saida-rc.jsonl`.
