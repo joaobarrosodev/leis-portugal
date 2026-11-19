@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1968-07-18'
     amending: pt:dre:272629:por
-    amending_title: Decreto-Lei n.º 48489
+    amending_title: Decreto-Lei n.º 48489; Rectificação
     changes:
     - Altera Artigo 15.º
+    - Retifica Artigo 20
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:53:23Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48489. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46350.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46350.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -500,7 +502,9 @@ Os directores das demais bibliotecas e arquivos do Estado, corpos administrativo
 
 Os emolumentos a cobrar nas bibliotecas e arquivos do Estado e nos restantes arquivos distritais por certidões, cópias, fotocópias e buscas são os constantes da tabela anexa ao presente diploma.
 
-§ único. As fotocópias com os requisitos estabelecidos no artigo 117.º do Código do Notariado aprovado pelo [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, valem para todos os efeitos legais como certidões de teor.
+§ único. As fotocópias com os requisitos estabelecidos no artigo 177.º do Código do Notariado aprovado pelo [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, valem para todos os efeitos legais como certidões de teor.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1965-296182), publicado em 1965-06-14.
 
 ###### Artigo 21.º
 

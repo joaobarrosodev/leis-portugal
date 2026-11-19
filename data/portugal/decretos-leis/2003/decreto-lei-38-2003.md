@@ -56,9 +56,13 @@ version_history:
     changes: []
   - date: '2003-09-15'
     amending: pt:dre:511825:por
-    amending_title: Decreto-Lei n.º 199/2003
+    amending_title: Decreto-Lei n.º 199/2003; Declaração de Rectificação n.º 5-C/2003
     changes:
     - Adita Artigo depois da unidade 1609
+    - Retifica Artigo 1
+    - Retifica Artigo 2
+    - Retifica Artigo 5
+    - Retifica Artigo 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/38/2003/03/08/p/dre/pt/html
@@ -85,7 +89,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:41:31Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 199/2003. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-38-2003.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-38-2003.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 5-C/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -978,7 +984,7 @@ Artigo 471.º
 
 1 - ...
 
-2 - Nos casos das alíneas a) e b) do número anterior o pedido é concretizado através de liquidação, nos termos do disposto no artigo 378.º, salvo, no caso da alínea b), quando para o efeito caiba o processo de inventário ou o autor não tenha elementos que permitam a concretização, observando-se então o disposto no n.º 6 do artigo 805.º
+2 - Nos casos das alíneas a) e b) do número anterior o pedido é concretizado através de liquidação, nos termos do disposto no artigo 378.º, salvo, no caso da alínea a), quando para o efeito caiba o processo de inventário ou o autor não tenha elementos que permitam a concretização, observando-se então o disposto no n.º 6 do artigo 805.º
 
 Artigo 508.º-B
 
@@ -1028,7 +1034,7 @@ As testemunhas depõem na audiência final, presencialmente ou através de telec
 
 a) ...
 
-b) Inquirição por carta precatória, ou por carta rogatória expedida para consulado português que não disponha de meios técnicos para a inquirição por teleconferência;
+b) Inquirição por carta rogatória, ou por carta precatória expedida para consulado português que não disponha de meios técnicos para a inquirição por teleconferência;
 
 c) ...
 
@@ -1204,7 +1210,7 @@ Artigo 773.º
 
 [...]
 
-No requerimento de interposição, que é autuado por apenso ao processo, especificar-se-á o fundamento do recurso e com ele se apresentará, nos casos das alíneas a), c) e g) do artigo 771.º, certidão da sentença ou o documento em que se funda o pedido; nos restantes casos, procurará mostrar-se que se verifica o fundamento invocado.
+No requerimento de interposição, que é autuado por apenso ao processo, especificar-se-á o fundamento do recurso e com ele se apresentará, nos casos das alíneas a), c) e f) do artigo 771.º, certidão da sentença ou o documento em que se funda o pedido; nos restantes casos, procurará mostrar-se que se verifica o fundamento invocado.
 
 Artigo 775.º
 
@@ -1330,7 +1336,7 @@ Agente de execução
 
 1 - Cabe ao agente de execução, salvo quando a lei determine diversamente, efectuar todas as diligências do processo de execução, incluindo citações, notificações e publicações, sob controlo do juiz, nos termos do n.º 1 do artigo seguinte.
 
-2 - As funções de agente de execução são desempenhadas por solicitador de execução, designado, pelo exequente ou pela secretaria, de entre os inscritos na comarca ou em comarca limítrofe, ou, na sua falta, de entre os inscritos em outra comarca do mesmo círculo judicial; não havendo solicitador de execução inscrito no círculo ou ocorrendo outra causa de impossibilidade, são essas funções, com excepção das especificamente atribuídas ao solicitador de execução, desempenhadas por oficial de justiça, determinado segundo as regras da distribuição.
+2 - As funções de agente de execução são desempenhadas por solicitador de execução, designado, pelo exequente ou pela secretaria, de entre os inscritos na comarca e nas comarcas limítrofes, ou, na sua falta, de entre os inscritos em outra comarca do mesmo círculo judicial; não havendo solicitador de execução inscrito no círculo ou ocorrendo outra causa de impossibilidade, são essas funções, com excepção das especificamente atribuídas ao solicitador de execução, desempenhadas por oficial de justiça, determinado segundo as regras da distribuição.
 
 3 - Nas execuções por custas, o agente de execução é sempre um oficial de justiça.
 
@@ -1340,7 +1346,7 @@ Agente de execução
 
 6 - O solicitador de execução pode, sob sua responsabilidade, promover a realização de diligências, que não constituam acto de penhora, venda, pagamento ou outro de natureza executiva, por empregado ao seu serviço, credenciado pela Câmara dos Solicitadores nos termos do n.º 4 do artigo 161.º
 
-7 - Na prática de diligências junto do executado, de organismos oficiais ou de terceiros, e sem prejuízo da emissão de certidão pela secretaria, o solicitador de execução identifica-se com o recibo de entrega do requerimento executivo em que tenha aposto a sua assinatura ou com a apresentação da notificação referida no n.º 2 do artigo 811.º-A.
+7 - Na prática de diligências junto do executado, de organismos oficiais ou de terceiros, e sem prejuízo da emissão de certidão pela secretaria, o solicitador de execução identifica-se com o recibo de entrega do requerimento executivo em que tenha aposto a sua assinatura ou com a exibição da notificação referida no n.º 2 do artigo 811.º-A.
 
 Artigo 809.º
 
@@ -1348,13 +1354,13 @@ Juiz de execução
 
 1 - Sem prejuízo do poder geral de controlo do processo e de outras intervenções especificamente estabelecidas, compete ao juiz de execução:
 
-Proferir despacho liminar, quando deva ter lugar;
+a) Proferir despacho liminar, quando deva ter lugar;
 
-Julgar a oposição à execução e à penhora, bem como verificar e graduar os créditos, no prazo máximo de três meses contados da oposição ou reclamação;
+b) Julgar a oposição à execução e à penhora, bem como verificar e graduar os créditos, no prazo máximo de três meses contados da oposição ou reclamação;
 
-Julgar a reclamação de acto do agente de execução, no prazo de cinco dias;
+c) Julgar a reclamação de acto do agente de execução, no prazo de cinco dias;
 
-Decidir outras questões suscitadas pelo agente de execução, pelas partes ou por terceiros intervenientes, no prazo de cinco dias.
+d) Decidir outras questões suscitadas pelo agente de execução, pelas partes ou por terceiros intervenientes, no prazo de cinco dias.
 
 2 - Quando o requerimento da parte seja manifestamente injustificado, pode o juiz aplicar multa.
 
@@ -1516,7 +1522,7 @@ Artigo 818.º
 
 Efeito do recebimento da oposição
 
-1 - Havendo lugar à citação prévia do executado, o recebimento da oposição só suspende o processo de execução quando o opoente preste caução ou quando, tendo o opoente alegado a não genuinidade da assinatura do documento particular e apresentado documento que constitua princípio de prova, o juiz, ouvido o exequente, entenda que se justifica a suspensão.
+1 - Havendo lugar à citação prévia do executado, o recebimento da oposição só suspende o processo de execução quando o opoente preste caução ou quando, tendo o opoente impugnado a assinatura do documento particular e apresentado documento que constitua princípio de prova, o juiz, ouvido o exequente, entenda que se justifica a suspensão.
 
 2 - Não havendo lugar à citação prévia, o recebimento da oposição suspende o processo de execução, sem prejuízo do reforço ou da substituição da penhora.
 
@@ -1534,7 +1540,7 @@ Artigo 820.º
 
 Rejeição e aperfeiçoamento
 
-1 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 812.º, o juiz pode conhecer oficiosamente das questões a que aludem os n.os 3 e 5, bem como a alínea c) do n.º 7 do mesmo artigo, até ao primeiro acto de transmissão de bens penhorados.
+1 - Sem prejuízo do disposto no n.º 1 do artigo 812.º, o juiz pode conhecer oficiosamente das questões a que aludem os n.os 2 e 4 do mesmo artigo, bem como a alínea c) do n.º 3 do artigo 812.º-A, até ao primeiro acto de transmissão de bens penhorados.
 
 2 - Rejeitada a execução ou não sendo o vício suprido ou a falta corrigida, a execução extingue-se, ordenando-se o levantamento da penhora, sem prejuízo de prosseguir com objecto restrito quando a rejeição for parcial.
 
@@ -1680,7 +1686,7 @@ Diligências subsequentes
 
 4 - Não sendo encontrados bens penhoráveis, é notificado o exequente para se pronunciar no prazo de 10 dias, sendo penhorados os bens que ele indique.
 
-5 - Se o exequente não indicar bens penhoráveis, o executado é citado para, ainda que se oponha à execução, pagar ou indicar bens para penhora, no prazo de 10 dias, com a advertência das consequências de uma declaração falsa ou da falta de declaração, nos termos do n.º 7, e a indicação de que pode, no mesmo prazo, opor-se às execução; a citação é substituída por notificação quando tenha tido lugar a citação prévia.
+5 - Se o exequente não indicar bens penhoráveis, o executado é citado para, ainda que se oponha à execução, pagar ou indicar bens para penhora, no prazo de 10 dias, com a advertência das consequências de uma declaração falsa ou da falta de declaração, nos termos do n.º 7, e a indicação de que pode, no mesmo prazo, opor-se à execução; a citação é substituída por notificação quando tenha tido lugar a citação prévia.
 
 6 - Se o executado não pagar nem indicar bens para penhora, suspende-se a instância, enquanto o exequente não requerer algum acto de que dependa o andamento do processo.
 
@@ -1738,7 +1744,7 @@ Artigo 838.º
 
 Realização da penhora de coisas imóveis
 
-1 - Sem prejuízo de também poder ser feita nos termos gerais, a penhora de coisas imóveis realiza-se por comunicação electrónica à conservatória do registo predial competente, a qual vale como apresentação para o efeito da inscrição no registo.
+1 - Sem prejuízo de também poder ser feita nos termos gerais do registo predial, a penhora de coisas imóveis realiza-se por comunicação electrónica à conservatória do registo predial competente, a qual vale como apresentação para o efeito da inscrição no registo.
 
 2 - Inscrita a penhora e observado o disposto no n.º 5, a conservatória do registo predial envia ao agente de execução o certificado do registo e a certidão dos ónus que incidam sobre os bens penhorados.
 
@@ -1748,9 +1754,9 @@ Realização da penhora de coisas imóveis
 
 5 - O registo da penhora tem natureza urgente e importa a imediata feitura dos registos anteriormente requeridos sobre o bem penhorado.
 
-6 - O registo perde eficácia se, no prazo de 15 dias, o exequente, que para o efeito é notificado pela conservatória, não pagar o respectivo preparo, ou não o fizer, no mesmo prazo, o agente de execução.
+6 - A apresentação perde eficácia se, no prazo de 15 dias, o exequente, que para o efeito é logo notificado pela conservatória, não pagar o respectivo preparo, ou não o fizer, no mesmo prazo, o agente de execução.
 
-7 - A notificação determinada no artigo anterior é efectuada ao mandatário do exequente, quando este o tenha constituído na execução, sendo a respectiva identificação e domicílio profissional fornecidos à conservatória no acto de comunicação referido no n.º 1.
+7 - A notificação determinada no número anterior é efectuada ao mandatário do exequente, quando este o tenha constituído na execução, sendo a respectiva identificação e domicílio profissional fornecidos à conservatória no acto de comunicação referido no n.º 1.
 
 Artigo 839.º
 
@@ -1844,7 +1850,7 @@ Artigo 849.º
 
 3 - ...
 
-4 - ...
+4 - (Revogado.)
 
 Artigo 850.º
 
@@ -1890,7 +1896,7 @@ Artigo 857.º
 
 [...]
 
-1 - A penhora de direitos incorporados em títulos de crédito e valores mobiliários titulados não depositados em instituição financeira realiza-se mediante a apreensão do título, ordenando-se ainda, sempre que possível, o averbamento do ónus resultante da penhora.
+1 - A penhora de direitos incorporados em títulos de crédito e valores mobiliários titulados não abrangidos pelo n.º 12 do artigo 861.º-A realiza-se mediante a apreensão do título, ordenando-se ainda, sempre que possível, o averbamento do ónus resultante da penhora.
 
 2 - ...
 
@@ -1956,7 +1962,7 @@ a) Preferem as contas de que o executado seja único titular àquelas de que sej
 
 b) As contas de depósito a prazo preferem às contas de depósito à ordem.
 
-5 - A notificação é feita directamente às instituições de crédito, com a menção expressa de que o saldo existente, ou a quota-parte do executado nesse saldo, fica congelado desde a data da notificação e, sem prejuízo do disposto no n.º 8, só é movimentável pelo agente de execução, até ao limite estabelecido no n.º 3 do artigo 821.º
+5 - A notificação é feita directamente às instituições de crédito, com a menção expressa de que o saldo existente, ou a quota-parte do executado nesse saldo, fica cativo desde a data da notificação e, sem prejuízo do disposto no n.º 8, só é movimentável pelo agente de execução, até ao limite estabelecido no n.º 3 do artigo 821.º
 
 6 - Além de conter a identificação exigida pelo n.º 7 do artigo 808.º, a notificação identifica o executado, indicando o seu nome, domicílio ou sede, quando conhecido, número de bilhete de identidade ou documento equivalente e número de identificação fiscal; não constitui nulidade a falta de indicação de apenas um dos dois últimos elementos, sem prejuízo de para ambos se proceder nos termos do n.º 3 do artigo 833.º
 
@@ -1964,19 +1970,19 @@ b) As contas de depósito a prazo preferem às contas de depósito à ordem.
 
 8 - (Anterior n.º 3.)
 
-9 - Sem prejuízo do disposto no número anterior, a instituição é responsável pelos saldos bancários nela existentes à data da notificação e fornecerá ao tribunal extracto donde constem todas as operações que afectem os depósitos penhorados após a realização da penhora.
+9 - Sem prejuízo do disposto no número anterior, a instituição é responsável pelos saldos bancários nela existentes à data da notificação e fornecerá ao tribunal extracto onde constem todas as operações que afectem os depósitos penhorados após a realização da penhora.
 
 10 - Às instituições que prestem colaboração ao tribunal nos termos deste artigo é devida uma remuneração pelos serviços prestados na averiguação da existência das contas bancárias e na efectivação da penhora dos saldos existentes, a qual constitui encargo nos termos e para os efeitos do Código das Custas Judiciais.
 
 11 - Findo o prazo de oposição, se esta não tiver sido deduzida, ou julgada a oposição improcedente, o exequente pode requerer que lhe sejam entregues as quantias penhoradas, que não garantam crédito reclamado, até ao valor da dívida exequenda, depois de descontado o montante relativo a despesas de execução referido no n.º 3 do artigo 821.º
 
-12 - Com excepção da alínea b) do n.º 4, os números anteriores aplicam-se, com as necessárias adaptações, à penhora de valores mobiliários escriturais e titulados integrados em sistema centralizado, bem como a outros valores mobiliários registados ou depositados em instituição financeira e ainda aos registados junto do respectivo emitente.
+12 - Com excepção da alínea b) do n.º 4, os números anteriores aplicam-se, com as necessárias adaptações, à penhora de valores mobiliários, escriturais ou titulados, integrados em sistema centralizado, registados ou depositados em intermediário financeiro ou registados junto do respectivo emitente.
 
 Artigo 862.º
 
 [...]
 
-1 - Se a penhora tiver por objecto quinhão em património autónomo ou direito a bem indiviso, a diligência consiste unicamente na notificação do facto ao administrador dos bens, se o houver, e aos contitulares, com a expressa advertência de que o direito do executado fica à ordem do agente de execução, desde a data da primeira notificação efectuada.
+1 - Se a penhora tiver por objecto quinhão em património autónomo ou direito a bem indiviso não sujeito a registo, a diligência consiste unicamente na notificação do facto ao administrador dos bens, se o houver, e aos contitulares, com a expressa advertência de que o direito do executado fica à ordem do agente de execução, desde a data da primeira notificação efectuada.
 
 2 - É lícito aos notificados fazer as declarações que entendam quanto ao direito do executado e ao modo de o tornar efectivo, podendo ainda os contitulares dizer se pretendem que a venda tenha por objecto todo o património ou a totalidade do bem.
 
@@ -2016,7 +2022,7 @@ b) Imediata penhora de bens que só subsidiariamente respondam pela dívida exeq
 
 c) Incidência da penhora sobre bens que, não respondendo, nos termos do direito substantivo, pela dívida exequenda, não deviam ter sido atingidos pela diligência.
 
-2 - Quando a oposição se funde na existência de património separado, deve o executado indicar logo os bens, integrados no património autónomo que responde pela dívida exequenda, que tenha em seu poder e estejam sujeitos à penhora.
+2 - Quando a oposição se funde na existência de patrimónios separados, deve o executado indicar logo os bens, integrados no património autónomo que responde pela dívida exequenda, que tenha em seu poder e estejam sujeitos à penhora.
 
 Artigo 863.º-B
 
@@ -2058,7 +2064,7 @@ d) O Instituto de Gestão Financeira da Segurança Social, com vista à defesa d
 
 6 - Ao executado é comunicado que, no prazo da oposição e sob pena de condenação como litigante de má fé, nos termos gerais, deve indicar os direitos, ónus e encargos não registáveis que recaiam sobre o bem penhorado, bem como os respectivos titulares, e que pode requerer a substituição dos bens penhorados ou a substituição da penhora por caução, nas condições e nos termos da alínea a) do n.º 3 e do n.º 5 do artigo 834.º
 
-7 - A citação do executado é substituída por notificação quando tenha tido lugar a citação prévia ou a prescrita no n.º 5 do artigo 833.º, bem como quando, citado o executado para a execução de determinado título, se cumule depois, no mesmo processo, a execução de outro título, aplicando-se, neste caso, o artigo 235.º, devidamente adaptado, sem prejuízo de a notificação se fazer na pessoa do mandatário, quando constituído.
+7 - A citação do executado é substituída por notificação quando tenha tido lugar a citação prévia, bem como quando, citado o executado para a execução de determinado título, se cumule depois, no mesmo processo, a execução de outro título, aplicando-se, neste caso, o artigo 235.º, devidamente adaptado, sem prejuízo de a notificação se fazer na pessoa do mandatário, quando constituído.
 
 8 - Os credores a favor de quem exista o registo de algum direito real de garantia sobre os bens penhorados são citados no domicílio que conste do registo, salvo se tiverem outro domicílio conhecido.
 
@@ -2070,7 +2076,7 @@ Artigo 864.º-A
 
 Estatuto processual do cônjuge do executado
 
-O cônjuge do executado, citado nos termos da alínea a) do n.º 3 do artigo anterior, é admitido a deduzir, dentro do prazo concedido ao executado, oposição à execução ou à penhora e a exercer, na fase do pagamento, todos os direitos que a lei processual confere ao executado, sem prejuízo de poder também requerer a separação dos bens do casal, nos termos do n.º 5 do artigo 825.º, quando a penhora recaia sobre bens comuns.
+O cônjuge do executado, citado nos termos da alínea a) do n.º 3 do artigo anterior, é admitido a deduzir, dentro do prazo concedido ao executado, oposição à execução ou à penhora e a exercer, no apenso de verificação e graduação de créditos e na fase do pagamento, todos os direitos que a lei processual confere ao executado, sem prejuízo de poder também requerer a separação dos bens do casal, nos termos do n.º 5 do artigo 825.º, quando a penhora recaia sobre bens comuns.
 
 Artigo 865.º
 
@@ -2090,7 +2096,7 @@ b) Sendo o crédito do exequente inferior a 190 UC, a penhora tenha incidido sob
 
 c) Sendo o crédito do exequente inferior a 190 UC, este requeira procedentemente a consignação de rendimentos, ou a adjudicação, em dação em cumprimento, do direito de crédito no qual a penhora tenha incidido, antes de convocados os credores.
 
-5 - Quando, ao abrigo do número anterior, reclame o seu crédito quem tenha obtido penhora sobre os mesmos bens em outra execução, esta é sustada quanto a esses bens, quando não tenha tido já lugar sustação nos termos do artigo 871.º
+5 - Quando, ao abrigo do n.º 3, reclame o seu crédito quem tenha obtido penhora sobre os mesmos bens em outra execução, esta é sustada quanto a esses bens, quando não tenha tido já lugar sustação nos termos do artigo 871.º
 
 6 - A ressalva constante do n.º 4 não se aplica aos privilégios creditórios dos trabalhadores.
 
@@ -2106,7 +2112,7 @@ Artigo 866.º
 
 2 - As reclamações podem ser impugnadas pelo exequente e pelo executado no prazo de 15 dias, a contar da respectiva notificação.
 
-3 - Dentro do prazo concedido ao exequente, podem os restantes credores impugnar os créditos garantidos por bens sobre os quais tenham invocado também qualquer direito real de garantia, incluindo o crédito exequendo, bem como as garantias reais invocadas, quer pelo exequente quer pelos outros credores.
+3 - Também dentro do prazo de 15 dias, a contar da respectiva notificação, podem os restantes credores impugnar os créditos garantidos por bens sobre os quais tenham invocado também qualquer direito real de garantia, incluindo o crédito exequendo, bem como as garantias reais invocadas, quer pelo exequente quer pelos outros credores.
 
 4 - A impugnação pode ter por fundamento qualquer das causas que extinguem ou modificam a obrigação ou que impedem a sua existência.
 
@@ -2134,7 +2140,7 @@ Artigo 869.º
 
 1 - O credor que não esteja munido de título exequível pode requerer, dentro do prazo facultado para a reclamação de créditos, que a graduação dos créditos, relativamente aos bens abrangidos pela sua garantia, aguarde a obtenção do título em falta.
 
-2 - Recebido o requerimento referido no número anterior, o agente de execução notifica o executado para que este, no prazo de 10 dias, se pronuncie sobre a existência do crédito invocado.
+2 - Recebido o requerimento referido no número anterior, é notificado o executado para, no prazo de 10 dias, se pronunciar sobre a existência do crédito invocado.
 
 3 - Se o executado reconhecer a existência do crédito, considera-se formado o título executivo e reclamado o crédito nos termos do requerimento do credor, sem prejuízo da sua impugnação pelo exequente e restantes credores; o mesmo sucede quando o executado nada diga e não esteja pendente acção declarativa para a respectiva apreciação.
 
@@ -2146,11 +2152,11 @@ Artigo 869.º
 
 7 - Os efeitos do requerimento caducam se:
 
-Dentro de 20 dias a contar da notificação de que o executado negou a existência do crédito, não for apresentada certidão comprovativa da pendência da acção;
+a) Dentro de 20 dias a contar da notificação de que o executado negou a existência do crédito, não for apresentada certidão comprovativa da pendência da acção;
 
-O exequente provar que não se observou o disposto no n.º 5, que a acção foi julgada improcedente ou que esteve parada durante 30 dias, por negligência do autor, depois do requerimento a que este artigo se refere;
+b) O exequente provar que não se observou o disposto no n.º 5, que a acção foi julgada improcedente ou que esteve parada durante 30 dias, por negligência do autor, depois do requerimento a que este artigo se refere;
 
-Dentro de 15 dias a contar do trânsito em julgado da decisão, dela não for apresentada certidão.
+c) Dentro de 15 dias a contar do trânsito em julgado da decisão, dela não for apresentada certidão.
 
 Artigo 871.º
 
@@ -2196,7 +2202,7 @@ Artigo 875.º
 
 7 - Sendo próxima a data do vencimento, podem os credores acordar, ou o juiz determinar, a suspensão da execução sobre o crédito penhorado até ao vencimento.
 
-8 - Rendas, abonos, vencimentos, salários ou outros rendimentos periódicos podem ser directamente entregues ao adjudicante, nos termos do n.º 3 do artigo 861.º
+8 - Rendas, abonos, vencimentos, salários ou outros rendimentos periódicos podem ser directamente entregues ao adjudicatário, nos termos do n.º 3 do artigo 861.º
 
 Artigo 876.º
 
@@ -2280,7 +2286,7 @@ Artigo 886.º
 
 [...]
 
-1 - A venda pode revestir as seguintes formas:
+1 - A venda pode revestir as seguintes modalidades:
 
 a) Venda mediante propostas em carta fechada;
 
@@ -2306,11 +2312,11 @@ Artigo 886.º-A
 
 a) A modalidade da venda, relativamente a todos ou a cada categoria de bens penhorados, nos termos da alínea e) do artigo 904.º, da alínea b) do n.º 1 do artigo 906.º e do n.º 3 do artigo 907.º;
 
-b) O valor de base dos bens a vender;
+b) O valor base dos bens a vender;
 
 c) [Alínea c) do anterior n.º 1.]
 
-3 - Quando o considere vantajoso ou algum dos interessados o pretenda, pode o agente de execução fazer preceder a fixação do valor de base dos bens das diligências necessárias à determinação do respectivo valor de mercado.
+3 - Quando o considere vantajoso ou algum dos interessados o pretenda, pode o agente de execução fazer preceder a fixação do valor base dos bens das diligências necessárias à determinação do respectivo valor de mercado.
 
 4 - A decisão é notificada ao exequente, ao executado e aos credores reclamantes de créditos com garantia sobre os bens a vender.
 
@@ -2334,7 +2340,7 @@ Artigo 887.º
 
 2 - Não estando ainda graduados os créditos, o exequente não é obrigado a depositar mais que a parte excedente à quantia exequenda, e o credor só é obrigado a depositar o excedente ao montante do crédito que tenha reclamado sobre os bens adquiridos.
 
-3 - No caso referido no número anterior, os bens imóveis adquiridos ficam hipotecados à parte do preço não depositada, consignando-se a garantia no título de transmissão e não podendo a hipoteca ser registada sem este, salvo se o adquirente prestar caução bancária em valor correspondente; os bens de outra natureza são entregues ao adquirente quando este preste caução correspondente ao seu valor.
+3 - No caso referido no número anterior, os bens imóveis adquiridos ficam hipotecados à parte do preço não depositada, consignando-se a garantia no título de transmissão e não podendo esta ser registada sem a hipoteca, salvo se o adquirente prestar caução bancária em valor correspondente; os bens de outra natureza são entregues ao adquirente quando este preste caução correspondente ao seu valor.
 
 4 - (Anterior n.º 3.)
 
@@ -2346,11 +2352,11 @@ Após o pagamento do preço e do imposto devido pela transmissão, o agente de e
 
 Artigo 889.º
 
-Valor de base e competência
+Valor base e competência
 
 1 - Quando a penhora recaia sobre bens imóveis que não hajam de ser vendidos de outra forma, são os bens penhorados vendidos mediante propostas em carta fechada.
 
-2 - O valor a anunciar para a venda é igual a 70% do valor de base dos bens.
+2 - O valor a anunciar para a venda é igual a 70% do valor base dos bens.
 
 3 - A venda faz-se no tribunal da execução, salvo se o juiz, oficiosamente ou a requerimento dos interessados, ordenar que tenha lugar no tribunal da situação dos bens.
 
@@ -2414,9 +2420,9 @@ Artigo 897.º
 
 Caução e depósito do preço
 
-1 - Os proponentes devem juntar à sua proposta, como caução, um cheque visado, à ordem do agente de execução, no montante correspondente a 20% do valor de base dos bens, ou garantia bancária no mesmo valor.
+1 - Os proponentes devem juntar à sua proposta, como caução, um cheque visado, à ordem do solicitador de execução ou, na sua falta, da secretaria, no montante correspondente a 20% do valor base dos bens, ou garantia bancária no mesmo valor.
 
-2 - Aceite alguma proposta, é o proponente, ou preferente, notificado para, no prazo de 15 dias, depositar numa instituição de crédito a totalidade ou a parte do preço em falta, com a cominação prevista no artigo seguinte.
+2 - Aceite alguma proposta, é o proponente, ou preferente, notificado para, no prazo de 15 dias, depositar numa instituição de crédito, à ordem do solicitador de execução ou, na sua falta, da secretaria, a totalidade ou a parte do preço em falta, com a cominação prevista no artigo seguinte.
 
 Artigo 898.º
 
@@ -2428,7 +2434,7 @@ Falta de depósito
 
 3 - Ouvidos os interessados na venda, o agente de execução pode, porém, determinar, no caso previsto no n.º 1, que a venda fique sem efeito, aceitando a proposta de valor imediatamente inferior ou determinando que os bens voltem a ser vendidos mediante novas propostas em carta fechada ou por negociação particular, não sendo o proponente ou preferente remisso admitido a adquiri-los novamente e perdendo o valor da caução constituída nos termos do n.º 1 do artigo 897.º
 
-4 - Ficando a venda sem efeito, pode ainda o preferente que não tenha exercido o seu direito no acto de abertura e aceitação das propostas, efectuar, no prazo de cinco dias, contados do termo do prazo do proponente ou preferente faltoso, o depósito do preço por este oferecido, independentemente de nova notificação.
+4 - O preferente que não tenha exercido o seu direito no acto de abertura e aceitação das propostas pode efectuar, no prazo de cinco dias, contados do termo do prazo do proponente ou preferente faltoso, o depósito do preço por este oferecido, independentemente de nova notificação, a ele se fazendo a adjudicação.
 
 Artigo 899.º
 
@@ -2554,7 +2560,7 @@ Artigo 913.º
 
 1 - O direito de remição pode ser exercido:
 
-a) No caso de venda por propostas em carta fechada, até à adjudicação dos bens ao proponente ou no prazo e nos termos do n.º 4 do artigo 898.º;
+a) No caso de venda por propostas em carta fechada, até à emissão do título da transmissão dos bens para o proponente ou no prazo e nos termos do n.º 4 do artigo 898.º;
 
 b) Nas outras modalidades de venda, até ao momento da entrega dos bens ou da assinatura do título que a documenta.
 
@@ -2594,7 +2600,7 @@ Artigo 920.º
 
 1 - ...
 
-2 - Também o credor reclamante, cujo crédito esteja vencido e haja reclamado para ser pago pelo produto de bens penhorados que não chegaram entretanto a ser vendidos nem adjudicados, pode requerer, no prazo de 10 dias contados da notificação da extinção da execução, o prosseguimento desta para efectiva verificação, graduação e pagamento do seu crédito.
+2 - Também o credor cujo crédito esteja vencido e haja reclamado para ser pago pelo produto de bens penhorados que não chegaram entretanto a ser vendidos nem adjudicados, pode requerer, no prazo de 10 dias contados da notificação da extinção da execução, o prosseguimento desta para efectiva verificação, graduação e pagamento do seu crédito.
 
 3 - ...
 
@@ -2616,7 +2622,7 @@ Artigo 923.º
 
 Agravo
 
-Das decisões não previstas no artigo anterior cabe agravo só até à Relação, sem prejuízo do n.º 2 do artigo 678.º e da ressalva do n.º 2 do artigo 754.º
+Das decisões não previstas no artigo anterior cabe agravo só até à Relação, sem prejuízo dos n.os 2 e 3 do artigo 678.º e da ressalva do n.º 2 do artigo 754.º
 
 Artigo 928.º
 
@@ -2768,6 +2774,8 @@ Artigo 1118.º
 
 5 - O executado é sempre citado depois de efectuada a penhora e a sua oposição à execução ou à penhora não suspende a execução.»
 
+> Retificado pelo/a [Declaração de Rectificação n.º 5-C/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-c-2003-235918), publicado em 2003-04-30.
+
 ###### Artigo 2.º — Aditamentos ao Código de Processo Civil
 
 São aditados ao Código de Processo Civil os artigos 198.º-A, 237.º-A, 380.º-A, 812.º-A, 812.º-B, 886.º-C, 901.º-A e 907.º-A, com a seguinte redacção:
@@ -2856,7 +2864,7 @@ Venda antecipada de bens
 
 2 - (N.º 2 do anterior artigo 851.º)
 
-3 - Salvo o disposto nos artigos 902.º e 903.º, a venda é efectuada pelo depositário, nos termos da venda por negociação particular, ou pelo agente de execução, nos casos em que o executado tenha assumido as funções de depositário.
+3 - Salvo o disposto nos artigos 902.º e 903.º, a venda é efectuada pelo depositário, nos termos da venda por negociação particular, ou pelo agente de execução, nos casos em que o executado ou o detentor dos bens tenha assumido as funções de depositário.
 
 Artigo 901.º-A
 
@@ -2966,7 +2974,7 @@ Artigo 819.º
 
 [...]
 
-Sem prejuízo das regras do registo, são inoponíveis em relação à execução os actos de disposição, oneração ou arrendamento dos bens penhorados.
+Sem prejuízo das regras do registo, são inoponíveis à execução os actos de disposição, oneração ou arrendamento dos bens penhorados.
 
 Artigo 827.º
 
@@ -3244,7 +3252,7 @@ O artigo 82.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.
 
 [...]
 
-A penhora e outros actos de apreensão judicial de valores mobiliários escriturais realizam-se preferencialmente mediante comunicação electrónica à entidade registadora, pelo agente de execução, de que os valores mobiliários ficam à ordem deste.»
+A penhora e outros actos de apreensão judicial de valores mobiliários escriturais realizam-se preferencialmente mediante comunicação electrónica à entidade registadora ou depositária, pelo agente de execução, de que os valores mobiliários ficam à ordem deste.»
 
 CAPÍTULO VIII
 
@@ -3480,7 +3488,7 @@ e) ...
 
 f) ...
 
-g) O custo da citação por funcionário judicial, no caso de o autor declarar pretendê-la, nos termos do n.º 7 do artigo 239.º do Código de Processo Civil, compreendendo, além das despesas, o valor correspondente a um oitavo da taxa de justiça, com o limite de duas unidades de conta.
+i) O custo da citação por funcionário judicial, no caso de o autor declarar pretendê-la, nos termos do n.º 7 do artigo 239.º do Código de Processo Civil, compreendendo, além das despesas, o valor correspondente a um oitavo da taxa de justiça, com o limite de duas unidades de conta.
 
 2 - ...
 
@@ -5062,7 +5070,7 @@ Venda antecipada de bens
 
 1 - Pode o juiz autorizar a venda antecipada de bens, quando estes não possam ou não devam conservar-se, por estarem sujeitos a deterioração ou depreciação, ou quando haja manifesta vantagem na antecipação da venda.
 
-2 - A autorização pode ser requerida, tanto pelo exequente ou executado, como pelo depositário; sob o requerimento são ouvidas ambas as partes ou aquela que não for o requerente, excepto se a urgência da venda impuser uma decisão imediata.
+2 - A autorização pode ser requerida, tanto pelo exequente ou executado, como pelo depositário; sobre o requerimento são ouvidas ambas as partes ou aquela que não for o requerente, excepto se a urgência da venda impuser uma decisão imediata.
 
 3 - Salvo o disposto nos artigos 902.º e 903.º, a venda é efectuada pelo depositário, nos termos da venda por negociação particular, ou pelo agente de execução, nos casos em que o executado tenha assumido as funções de depositário.
 

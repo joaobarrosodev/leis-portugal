@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1994-07-30'
     amending: pt:dre:667960:por
-    amending_title: Declaração de Rectificação n.º 103/94
+    amending_title: Declaração de Rectificação n.º 103/94; Declaração de Rectificação n.º 87/94
     changes:
     - Retifica Artigo 146.º
+    - Retifica Artigo 92
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/119/1994/05/07/p/dre/pt/html
@@ -82,7 +83,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:30:28Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 103/94.
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-119-94.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-119-94.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 87/94.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -262,13 +265,15 @@ As taxas do imposto sobre as sucessões e doações são as seguintes:
 
 ###### Artigo 92.º
 
-Só poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeitos.
+Só poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeito.
 
 § 1.º (Revogado.)
 
 § 2.º Se forem entregues ao ausente quaisquer bens por cuja aquisição não lhe tenha ainda sido liquidado imposto, os 10 anos contar-se-ão desde a data da entrega.
 
 § 3.º Sendo desconhecida a quota do co-herdeiro alheador, para efeitos do artigo 52.º, ou suspendendo-se o processo de liquidação, nos termos dos artigos 84.º e 85.º, aos 10 anos acrescerá o tempo por que o desconhecimento ou a suspensão tiverem durado.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 87/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/87-1994-345974), publicado em 1994-06-30.
 
 ###### Artigo 146.º
 

@@ -43,9 +43,21 @@ version_history:
     changes: []
   - date: '1980-10-14'
     amending: pt:dre:462017:por
-    amending_title: Decreto-Lei n.º 467/80
+    amending_title: Decreto-Lei n.º 467/80; Declaração
     changes:
     - Altera Artigo 21.º
+    - Retifica texto
+    - Retifica Artigo 5
+    - Retifica Artigo 23
+    - Retifica Artigo 32
+    - Retifica Artigo 34
+    - Retifica Artigo 46
+    - Retifica Artigo 48
+    - Retifica Artigo 50
+    - Retifica Artigo 58
+    - Retifica Artigo 74
+    - Retifica Artigo 79
+    - Retifica Artigo 95
 identifiers:
   celex: null
   eli: null
@@ -72,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:25:11Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 467/80. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-519-g2-79.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-519-g2-79.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -214,7 +227,9 @@ Nestes termos:
 
 Tendo presente o disposto no artigo 63.º da Constituição e em conformidade com o respectivo programa:
 
-O Governo decreta, nos termos da alínea a) do n.º 1 da Constituição, o seguinte:
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-679457), publicado em 1980-02-18.
 
 Artigo 1.º - 1 - É aprovado por este decreto-lei o Estatuto das Instituições Privadas de Solidariedade Social, referidas no n.º 3 do artigo 63.º da Constituição.
 
@@ -316,7 +331,7 @@ g) As instituições devem cooperar entre si e com os serviços públicos para o
 
 h) As crises, as dificuldades e os diferendos surgidos na vida interna das instituições devem ser resolvidos no quadro dos seus órgãos estatutários, pelo que só excepcionalmente justificam a intervenção das entidades oficiais referidas neste Estatuto;
 
-i) A organização interna das instituições é livremente estabelecida pelos seus órgãos gerentes, com respeito pelas disposições estatutárias e da legislação aplicável.
+i) A organização interna das instituições é livremente estabelecida pelos seus órgãos gerentes, com respeito pelas disposições estatutárias e pela legislação aplicável.
 
 2 - Não se consideram discriminações que desrespeitem o disposto na alínea e) do número anterior as restrições do âmbito de acção que correspondam a carências específicas de determinados grupos ou categorias de pessoas.
 
@@ -464,7 +479,7 @@ b) Tiverem votado contra essa resolução e o fizeram consignar na acta respecti
 
 ###### Artigo 23.º — (Aceitação de heranças, legados e doações)
 
-1 - As instituições só podem aceitar heranças a benefício de inventário e desde que os encargos não excedam a terça parte das forças da herança, legado ou doação ou dos respectivos rendimentos, se estes forem afectados a prestações futuras e repetidas.
+1 - As instituições só podem aceitar heranças a benefício de inventário e desde que os encargos não excedam a terça parte das forças da herança ou dos respectivos rendimentos, se estes forem afectados a prestações futuras e repetidas.
 
 ###### Artigo 24.º — (Espólios)
 
@@ -534,9 +549,9 @@ e) Se os bens interessarem directamente ao cumprimento de acordos de cooperaçã
 
 ###### Artigo 32.º — (Processo de atribuição dos bens)
 
-1 - A atribuição dos bens em qualquer das situações previstas nesta secção será homologada por despacho do Ministro dos Assuntos Sociais, ouvidas as uniões de que as instituições façam parte e os serviços competentes.
+1 - A atribuição dos bens em qualquer das situações previstas nesta secção será homologada por despacho do Ministro da Coordenação Social e dos Assuntos Sociais, ouvidas as uniões de que as instituições façam parte e os serviços competentes.
 
-2 - Se as instituições forem extintas por decisão judicial, serão observadas as directrizes estabelecidas no presente Estatuto.
+2 - Se as instituições forem extintas por decisão judicial, serão observadas as directrizes estabelecidas no artigo 31.º do presente Estatuto.
 
 3 - Quando as instituições que prossigam fins de outra natureza se extingam ou cessem com carácter definitivo, o exercício das acções de segurança social, os bens afectados a esta actividade ou que interessem directamente ao cumprimento de acordos de cooperação terão o destino previsto no artigo 31.º
 
@@ -556,7 +571,7 @@ b) Os actos jurídicos de constituição das uniões e federações de institui�
 
 c) Os actos jurídicos de integração, fusão e cisão das instituições;
 
-d) A extinção das instituições, das suas uniões e federações e das associações de voluntários de acção social;
+d) A extinção das instituições, das suas uniões e federações;
 
 e) A declaração de nulidade dos actos jurídicos de constituição ou fundação das instituições;
 
@@ -678,7 +693,7 @@ d) Fazer depender de homologação ou visto dos serviços competentes a eficáci
 
 2 - Quando, em inquérito ou sindicância, se verifique que o funcionamento de estabelecimentos ou serviços das instituições decorre de modo ilegal ou gravemente perigoso para a saúde física ou moral dos beneficiários, podem os serviços competentes do Ministério dos Assuntos Sociais determinar o seu encerramento, tomando as medidas necessárias para os repor em funcionamento normal e para garantir entretanto os interesses dos mesmos beneficiários.
 
-###### Artigo 46.º — (Função judiciária)
+###### Artigo 46.º — (Função interventiva)
 
 1 - No exercício da função interventiva, cabe ao Ministro da Coordenação Social e dos Assuntos Sociais ou aos serviços do respectivo Ministério, de acordo com as respectivas competências:
 
@@ -706,7 +721,7 @@ d) A comissão provisória de gestão deverá convocar a assembleia geral antes 
 
 4 - Não se aplica o preceituado no artigo 401.º, n.º 3, do Código de Processo Civil.
 
-###### Artigo 48.º — (Homologação do visto dos actos de gerência)
+###### Artigo 48.º — (Homologação ou visto dos actos de gerência)
 
 1 - Carecem de homologação dos serviços competentes do Ministério dos Assuntos Sociais:
 
@@ -742,7 +757,7 @@ c) Quando houver lugar a atribuição definitiva de bens.
 
 ###### Artigo 50.º — (Fins e constituição das associações)
 
-1 - As associações de solidariedade social são as constituídas com o fim de exercer actividades do âmbito da segurança social.
+1 - Associações de solidariedade social são as constituídas com o fim de exercer actividades do âmbito da segurança social.
 
 2 - Estas associações constituem-se, adquirem personalidade jurídica e regulam o seu funcionamento em conformidade com a lei geral sobre associações civis ou ainda nos termos da Concordata.
 
@@ -818,7 +833,7 @@ d) Quando se verifiquem as circunstâncias que, no regime comum das associaçõe
 
 1 - Podem ser admitidos como associados das irmandades da Misericórdia os indivíduos maiores, de ambos os sexos, que se comprometam a colaborar na prossecução dos objectivos daquelas instituições, respeitando o espírito que as informa.
 
-2 - As obrigações e os direitos dos associados constam de compromisso da respectiva irmandade.
+2 - As obrigações e os direitos dos associados constam do compromisso da respectiva irmandade.
 
 ###### Artigo 59.º — (Extinção e destino dos bens)
 
@@ -906,7 +921,7 @@ Em tudo o que não se encontre especialmente estabelecido neste capítulo, as as
 
 ###### Artigo 74.º — (Fins e reconhecimento das fundações de solidariedade social)
 
-1 - Fundações de solidariedade social são as instituídas nos termos da lei geral, mas com o fim específico de prosseguir actividades de segurança social.
+1 - Fundações de solidariedade social são as instituídas nos termos da lei geral e da Concordata, mas com o fim específico de prosseguir actividades de segurança social.
 
 2 - O reconhecimento das fundações de solidariedade social é da competência do Ministro da Coordenação Social e dos Assuntos Sociais.
 
@@ -944,7 +959,7 @@ Os institutos fundados, dirigidos ou sustentados por organizações e instituiç
 
 ###### Artigo 79.º — (Regime supletivo)
 
-1 - Não se aplicam às fundações de solidariedade social as disposições do presente Estatuto respeitante à fusão e cisão de instituições.
+1 - Não se aplicam às fundações de solidariedade social as disposições do presente Estatuto respeitantes à fusão e cisão de instituições.
 
 2 - Em tudo o que não se encontre especialmente previsto neste Estatuto, as fundações de solidariedade social regem-se pelo regime comum das fundações estabelecido na lei geral, com respeito pelas disposições concordatárias, quando aplicáveis.
 
@@ -1038,4 +1053,4 @@ c) Ficam, desde logo, reguladas pelo presente Estatuto a acção orientadora e t
 
 Fica revogada a legislação em contrário, designadamente as disposições do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, referentes às instituições particulares de assistência e o disposto no artigo 2.º do [Decreto-Lei n.º 618/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1975-310594), de 11 de Novembro, respeitante às Misericórdias.
 
-O Ministro dos Assuntos Sociais, Alfredo Bruto da Costa.
+O Ministro da Coordenação Social e dos Assuntos Sociais, Alfredo Bruto da Costa.

@@ -54,12 +54,13 @@ version_history:
     changes: []
   - date: '2003-10-01'
     amending: pt:dre:491940:por
-    amending_title: Portaria n.º 1070/2003
+    amending_title: Portaria n.º 1070/2003; Declaração de Rectificação n.º 15-L/2002
     changes:
     - Altera Artigo unidades 46-46
     - Altera Artigo unidades 49-49
     - Altera Artigo unidades 52-52
     - Altera Artigo unidades 55-55
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/322/2002/03/23/p/dre/pt/html
@@ -86,7 +87,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:40:30Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1070/2003. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-322-2002.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-322-2002.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 15-L/2002.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,9 +190,11 @@ Ao curso aplica-se o Regulamento Geral do Curso de Licenciatura em Enfermagem, a
 
 Número máximo de alunos
 
-1 - O número máximo de novos alunos a admitir anualmente não pode exceder os 45.
+1 - O número máximo de novos alunos a admitir anualmente não pode exceder os 50.
 
-2 - A frequência global do curso não pode exceder 180 alunos.
+> Retificado pelo/a [Declaração de Rectificação n.º 15-L/2002](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-l-2002-459457), publicado em 2002-03-30.
+
+2 - A frequência global do curso não pode exceder 200 alunos.
 
 4.º
 

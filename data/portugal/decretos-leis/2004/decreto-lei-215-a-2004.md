@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2005-02-07'
     amending: pt:dre:624975:por
-    amending_title: Decreto-Lei n.º 17/2005; Decreto-Lei n.º 26/2005
+    amending_title: Decreto-Lei n.º 17/2005; Decreto-Lei n.º 26/2005; Declaração de Rectificação n.º 89/2004
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 7.º
@@ -72,6 +72,17 @@ version_history:
     - Altera Artigo 39.º
     - Altera Artigo 12.º
     - Revoga Artigo 40.º
+    - Retifica texto
+    - Retifica Artigo 2
+    - Retifica Artigo 9
+    - Retifica Artigo 10
+    - Retifica Artigo 11
+    - Retifica Artigo 12
+    - Retifica Artigo 23
+    - Retifica Artigo 25
+    - Retifica Artigo 28
+    - Retifica Artigo 29
+    - Retifica Artigo 32
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/215-a/2004/09/03/p/dre/pt/html
@@ -98,7 +109,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:45:23Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 17/2005; Decreto-Lei
-    n.º 26/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2004/decreto-lei-215-a-2004.alteracoes.json'
+    n.º 26/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2004/decreto-lei-215-a-2004.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 89/2004.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -299,7 +312,9 @@ de 3 de Setembro
 
 A Constituição da República Portuguesa comete ao Governo competência exclusiva para legislar no que respeita à sua organização e funcionamento.
 
-Assim, no estrito cumprimento do disposto no n.º 2 do artigo 198.º da Constituição, é aprovado o diploma que consagra a orgânica do XVI Governo Constitucional.
+Assim, e no estrito cumprimento do disposto no n.º 2 do artigo 198.º da Constituição, é aprovado o diploma que consagra a orgânica do XVI Governo Constitucional.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 89/2004](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/89-2004-576111), publicado em 2004-10-18.
 
 O presente normativo traduz as prioridades do XVI Governo Constitucional, e enquadra os instrumentos essenciais para a promoção dos objectivos fundamentais da acção governativa:
 
@@ -333,11 +348,11 @@ O Governo é constituído pelo Primeiro-Ministro, pelos ministros e pelos secret
 
 ###### Artigo 2.º
 
-Integram o Governo os seguintes Ministros:
+Integram o Governo os seguintes ministros:
 
-a) Ministro de Estado e das Actividades Económicas e do Trabalho;
+a) Ministro de Estado, das Actividades Económicas e do Trabalho;
 
-b) Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar;
+b) Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar;
 
 c) Ministro de Estado e da Presidência;
 
@@ -435,13 +450,13 @@ f) Secretário de Estado do Desporto e Reabilitação.
 
 ###### Artigo 9.º
 
-O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado, das Actividades Económicas e do Trabalho ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 10.º
 
 1 - É criado o Ministério das Actividades Económicas e do Trabalho.
 
-2 - O Ministro de Estado e das Actividades Económicas e do Trabalho é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Trabalho, pelo Secretário de Estado do Desenvolvimento Económico e pelo Secretário de Estado da Indústria, Comércio e Serviços.
+2 - O Ministro de Estado, das Actividades Económicas e do Trabalho é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e do Trabalho, pelo Secretário de Estado do Desenvolvimento Económico e pelo Secretário de Estado da Indústria, Comércio e Serviços.
 
 3 - Transitam do extinto Ministério da Economia para o Ministério das Actividades Económicas e do Trabalho os serviços e organismos naquele compreendidos, com excepção dos serviços e organismos que transitam para o Ministério da Ciência, Inovação e Ensino Superior, para o Ministério das Obras Públicas, Transportes e Comunicações e para o Ministério do Turismo.
 
@@ -471,15 +486,15 @@ j) Observatório do Emprego e Formação Profissional.
 
 ###### Artigo 11.º
 
-1 - O Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar é coadjuvado no exercício das suas funções pelo Secretário de Estado da Defesa e Antigos Combatentes e pelo Secretário de Estado para os Assuntos do Mar.
+1 - O Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar é coadjuvado no exercício das suas funções pelo Secretário de Estado da Defesa e Antigos Combatentes e pelo Secretário de Estado para os Assuntos do Mar.
 
 2 - O Ministério da Defesa Nacional integra os organismos e serviços até aqui compreendidos no ministério com a mesma designação.
 
-3 - Fica responsável pelo acompanhamento e coordenação das matérias relativas à Agência Europeia de Segurança Marítima o Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar.
+3 - Fica responsável pelo acompanhamento e coordenação das matérias relativas à Agência Europeia de Segurança Marítima o Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar.
 
-4 - Fica responsável pela Comissão Estratégica dos Oceanos e pela Comissão para a Delimitação da Plataforma Continental o Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar.
+4 - Fica responsável pela Comissão Estratégica dos Oceanos e pela Comissão para a Delimitação da Plataforma Continental o Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar.
 
-5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar os Estaleiros Navais de Viana do Castelo, S. A., participando o Ministro de Estado e das Actividades Económicas e do Trabalho na definição das suas linhas de orientação estratégica.
+5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar os Estaleiros Navais de Viana do Castelo, S. A., participando o Ministro de Estado, das Actividades Económicas e do Trabalho na definição das suas linhas de orientação estratégica.
 
 ###### Artigo 12.º
 
@@ -487,9 +502,9 @@ j) Observatório do Emprego e Formação Profissional.
 
 2 - Sem prejuízo do disposto no n.º 4 do artigo 3.º, o Secretário de Estado da Presidência do Conselho de Ministros coadjuva ainda o Ministro de Estado e da Presidência no exercício das suas competências próprias e nas que lhe forem delegadas pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
-3 - Ficam sob responsabilidade do Ministro de Estado e da Presidência a unidade de missão Inovação e Conhecimento e o Gabinete de Gestão e Intervenção Operacional para a Sociedade de Informação.
+3 - Ficam sob responsabilidade do Ministro de Estado e da Presidência a Unidade de Missão Inovação e Conhecimento e o Gabinete de Gestão e Intervenção Operacional para a Sociedade de Informação.
 
-4 - O Ministro das Finanças e da Administração Pública participa com o Ministro de Estado e da Presidência na definição dos domínios prioritários de actuação da unidade de missão Inovação e Conhecimento e do Gabinete de Gestão e Intervenção Operacional para a Sociedade de Informação, bem como no acompanhamento da sua execução.
+4 - O Ministro das Finanças e da Administração Pública participa com o Ministro de Estado e da Presidência na definição dos domínios prioritários de actuação da Unidade de Missão Inovação e Conhecimento e do Gabinete de Gestão e Intervenção Operacional para a Sociedade de Informação, bem como no acompanhamento da sua execução.
 
 5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro de Estado e da Presidência as entidades do sector empresarial do Estado no domínio da comunicação social.
 
@@ -619,11 +634,11 @@ b) Parque EXPO 98, S. A.
 
 4 - Transitam do extinto Ministério da Economia para o Ministério das Obras Públicas, Transportes e Comunicações o ICP - Autoridade Nacional de Comunicações.
 
-5 - O Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar participa com o Ministro das Obras Públicas, Transportes e Comunicações na definição dos domínios prioritários de actuação da Comissão Técnica dos Serviços do Registo Internacional de Navios da Madeira (MAR) e no acompanhamento da sua execução, nas matérias relativas à segurança da navegação, à salvaguarda da vida humana e ao controlo e fiscalização dos aspectos técnicos referentes aos navios registados no MAR.
+5 - O Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar participa com o Ministro das Obras Públicas, Transportes e Comunicações na definição dos domínios prioritários de actuação da Comissão Técnica dos Serviços do Registo Internacional de Navios da Madeira (MAR) e no acompanhamento da sua execução, nas matérias relativas à segurança da navegação, à salvaguarda da vida humana e ao controlo e fiscalização dos aspectos técnicos referentes aos navios registados no MAR.
 
 6 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro das Obras Públicas, Transportes e Comunicações as entidades do sector empresarial do Estado nos domínios dos transportes e respectivas infra-estruturas, aeroportos e navegação aérea, marítima e fluvial, bem como nos domínios dos correios e das telecomunicações.
 
-7 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro das Obras Públicas, Transportes e Comunicações as entidades do sector empresarial do Estado com atribuições no domínio da administração dos portos, participando o Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar e o Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional na definição das suas linhas de orientação estratégica.
+7 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro das Obras Públicas, Transportes e Comunicações as entidades do sector empresarial do Estado com atribuições no domínio da administração dos portos, participando o Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar e o Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional na definição das suas linhas de orientação estratégica.
 
 ###### Artigo 24.º
 
@@ -663,7 +678,7 @@ j) Conselho Nacional do Ambiente e do Desenvolvimento Sustentável.
 
 4 - O Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional participa com o Ministro do Ambiente e do Ordenamento do Território na definição dos domínios prioritários de actuação da Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano e no acompanhamento da sua execução, nas matérias relativas às suas atribuições nos domínios das cidades, administração local, desenvolvimento regional e equipamentos colectivos de natureza associativa.
 
-5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro do Ambiente e do Ordenamento do Território as entidades do sector empresarial do Estado com atribuições nos domínios da água e dos resíduos, participando o Ministro de Estado e das Actividades Económicas e do Trabalho e o Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional na definição das suas linhas de orientação estratégica.
+5 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob responsabilidade do Ministro do Ambiente e do Ordenamento do Território as entidades do sector empresarial do Estado com atribuições nos domínios da água e dos resíduos, participando o Ministro de Estado, das Actividades Económicas e do Trabalho e o Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional na definição das suas linhas de orientação estratégica.
 
 ###### Artigo 26.º
 
@@ -697,25 +712,25 @@ O Ministro Adjunto do Primeiro-Ministro é coadjuvado no exercício das suas fun
 
 1 - Ficam sujeitos a superintendência conjunta, nomeadamente:
 
-a) O ICEP Portugal, cabendo a tutela funcional e patrimonial ao Ministro de Estado e das Actividades Económicas e do Trabalho e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas e com o Ministro do Turismo;
+a) O ICEP Portugal, cabendo a tutela funcional e patrimonial ao Ministro de Estado, das Actividades Económicas e do Trabalho e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas e com o Ministro do Turismo;
 
-b) O Instituto Nacional da Propriedade Industrial, cabendo a tutela funcional e patrimonial ao Ministro de Estado e das Actividades Económicas e do Trabalho e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência, Inovação e Ensino Superior;
+b) O Instituto Nacional da Propriedade Industrial, cabendo a tutela funcional e patrimonial ao Ministro de Estado, das Actividades Económicas e do Trabalho e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência, Inovação e Ensino Superior;
 
-c) O Instituto do Emprego e Formação Profissional, I. P., cabendo a tutela funcional e patrimonial ao Ministro de Estado e das Actividades Económicas e do Trabalho e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;
+c) O Instituto do Emprego e Formação Profissional, I. P., cabendo a tutela funcional e patrimonial ao Ministro de Estado, das Actividades Económicas e do Trabalho e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;
 
-d) O Instituto para a Qualidade na Formação, I. P., cabendo a tutela funcional e patrimonial ao Ministro de Estado e das Actividades Económicas e do Trabalho e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;
+d) O Instituto para a Qualidade na Formação, I. P., cabendo a tutela funcional e patrimonial ao Ministro de Estado, das Actividades Económicas e do Trabalho e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação;
 
-e) O Instituto Hidrográfico, cabendo a tutela funcional e patrimonial ao Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência, Inovação e Ensino Superior;
+e) O Instituto Hidrográfico, cabendo a tutela funcional e patrimonial ao Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência, Inovação e Ensino Superior;
 
-f) O Instituto Portuário e dos Transportes Marítimos, cabendo a tutela funcional e patrimonial ao Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro das Obras Públicas, Transportes e Comunicações;
+f) O Instituto Portuário e dos Transportes Marítimos, cabendo a tutela funcional e patrimonial ao Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro das Obras Públicas, Transportes e Comunicações;
 
 g) O Instituto Nacional de Investigação Agrária e das Pescas, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Pescas e Florestas e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência, Inovação e Ensino Superior;
 
 h) O Laboratório Nacional de Investigação Veterinária, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Pescas e Florestas e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência, Inovação e Ensino Superior;
 
-i) O Instituto Nacional de Engenharia, Tecnologia e Inovação, cabendo a tutela funcional e patrimonial ao Ministro da Ciência, Inovação e Ensino Superior e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro de Estado e das Actividades Económicas e do Trabalho;
+i) O Instituto Nacional de Engenharia, Tecnologia e Inovação, cabendo a tutela funcional e patrimonial ao Ministro da Ciência, Inovação e Ensino Superior e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro de Estado, das Actividades Económicas e do Trabalho;
 
-j) O Instituto Tecnológico e Nuclear, cabendo a tutela funcional e patrimonial ao Ministro da Ciência, Inovação e Ensino Superior e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro de Estado e das Actividades Económicas e do Trabalho;
+j) O Instituto Tecnológico e Nuclear, cabendo a tutela funcional e patrimonial ao Ministro da Ciência, Inovação e Ensino Superior e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro de Estado, das Actividades Económicas e do Trabalho;
 
 l) O Instituto de Genética Médica Doutor Jacinto de Magalhães, cabendo a tutela funcional e patrimonial ao Ministro da Saúde e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência, Inovação e Ensino Superior;
 
@@ -729,13 +744,13 @@ p) O ICP - Autoridade Nacional de Comunicações, cabendo a tutela funcional e p
 
 q) O Instituto de Mercados e Obras Públicas e Particulares e do Imobiliário, cabendo a tutela funcional e patrimonial ao Ministro das Obras Públicas, Transportes e Comunicações e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, em matéria de obras particulares, promoção e mediação imobiliária e elaboração do respectivo quadro normativo.
 
-2 - A tutela sobre a Escola Náutica Infante D. Henrique é exercida pelo Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar e, em matéria de ensino, em conjunto pelos Ministros de Estado e da Defesa Nacional e dos Assuntos do Mar e da Ciência, Inovação e Ensino Superior, nos termos do [Decreto-Lei n.º 16/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2002-276032), de 29 de Janeiro.
+2 - A tutela sobre a Escola Náutica Infante D. Henrique é exercida pelo Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar e, em matéria de ensino, em conjunto pelos Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar e Ministra da Ciência, Inovação e Ensino Superior, nos termos do [Decreto-Lei n.º 16/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2002-276032), de 29 de Janeiro.
 
 > Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
 ###### Artigo 29.º
 
-A definição da orientação estratégica da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S. A., compete aos Ministros de Estado e das Actividades Económicas e do Trabalho, de Estado e da Presidência e da Ciência, Inovação e Ensino Superior.
+A definição da orientação estratégica da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S. A., compete ao Ministro de Estado, das Actividades Económicas e do Trabalho, ao Ministro de Estado e da Presidência e à Ministra da Ciência, Inovação e Ensino Superior.
 
 > Alterado pelo/a [Decreto-Lei n.º 26/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2005-619766), publicado em 2005-02-02.
 
@@ -775,11 +790,11 @@ e) Apreciar todas as matérias do âmbito deste Conselho que lhe sejam submetida
 
 ###### Artigo 32.º
 
-1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, que preside, e os seguintes Ministros:
+1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, que preside, e os seguintes ministros:
 
-a) Ministro de Estado e das Actividades Económicas e do Trabalho;
+a) Ministro de Estado, das Actividades Económicas e do Trabalho;
 
-b) Ministro de Estado e da Defesa Nacional e dos Assuntos do Mar;
+b) Ministro de Estado, da Defesa Nacional e dos Assuntos do Mar;
 
 c) Ministro de Estado e da Presidência;
 

@@ -31,19 +31,27 @@
      "title": "Lei n.º 10/75",
      "published": "1975-08-07",
      "dre_path": "/dr/detalhe/lei/10-1975-305810"
+    },
+    {
+     "id": "pt:dre:336492:por",
+     "title": "Rectificação",
+     "published": "1975-07-25",
+     "dre_path": "/dr/detalhe/rectificacao/1975-336492"
     }
    ],
    "changes": [
     "Revoga Artigo 4.º",
-    "Altera Artigo 1.º"
+    "Altera Artigo 1.º",
+    "Retifica Artigo 3",
+    "Retifica Artigo 5"
    ],
    "fragments": [
     "d80a385683eb4fca",
     "391ddc61fe927523",
     "d4f60ec45affef25",
-    "fa3a2d7f60d620e2",
+    "01953a02cde40db9",
     "709362ea047d362b",
-    "9123b968ada5503f",
+    "060ee06d2e116be3",
     "a1806551354f6e05",
     "75f1bbe09bf19cf0",
     "fa5b015c0a4be8b8"
@@ -141,13 +149,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 2.º — Responsabilidade política do Governo Provisório\n\n1. O Primeiro-Ministro responde perante o Presidente da República pela política geral do Governo.\n\n2. Os Ministros respondem politicamente pelos seus actos perante o Primeiro-Ministro."
   },
-  "fa3a2d7f60d620e2": {
+  "01953a02cde40db9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º — Competência do Governo Provisório",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 3.º — Competência do Governo Provisório\n\n1. Compete ao Governo Provisório:\n\n1) Conduzir a política geral da Nação de acordo com as orientações definidas pelo Conselho da Revolução;\n\n2) Referendar os actos do Presidente da República;\n\n3) Fazer decretos-leis e aprovar tratados ou acordos internacionais;\n\n4) Elaborar decretos, regulamentos e instruções para a boa execução das leis;\n\n5) Superintender no conjunto da administração pública.\n\n2. Os actos do Governo Provisório que envolvam aumento de despesas ou diminuição de receitas serão sempre referendados pelo Ministro do Planeamento e Coordenação Económica e pelo Ministro das Finanças."
+   "in_force_from": "1975-08-07",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-336492), publicado em 1975-07-25."
+   ],
+   "markdown": "###### Artigo 3.º — Competência do Governo Provisório\n\n1. Compete ao Governo Provisório:\n\n1) Conduzir a política geral da Nação de acordo com as orientações definidas pelo Conselho da Revolução;\n\n2) Referendar os actos do Presidente da República;\n\n3) Fazer decretos-leis e aprovar tratados ou acordos internacionais;\n\n4) Elaborar decretos, regulamentos e instruções para a boa execução das leis;\n\n5) Superintender no conjunto da administração pública.\n\n2. Os actos do Governo Provisório que envolvam aumento de despesas ou diminuição de receitas serão sempre referendados pelo Ministro para o Planeamento e Coordenação Económica e pelo Ministro das Finanças.\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1975-336492), publicado em 1975-07-25."
   },
   "709362ea047d362b": {
    "fragment_id": null,
@@ -159,13 +169,13 @@
    ],
    "markdown": "###### Artigo 4.º — Conselho de Ministros\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 10/75](https://diariodarepublica.pt/dr/detalhe/lei/10-1975-305810), publicado em 1975-08-07."
   },
-  "9123b968ada5503f": {
+  "060ee06d2e116be3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 5.º — Execução da política do Governo",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 5.º — Execução da política do Governo\n\n1. Ao Primeiro-Ministro caberá convocar e presidir às sessões do Conselho de Ministros, restrito ou pleno, coordenar e fiscalizar a execução da política do Governo.\n\n2. A execução da política definida para cada Ministério será assegurada pelo respectivo Ministro, sob a orientação do Primeiro-Ministro.\n\n3. Caberá ao Ministro do Planeamento e Coordenação Económica a coordenação das medidas de política económica cuja execução caiba directamente ao Ministro da Indústria, ao Ministro das Finanças, ao Ministro da Agricultura, ao Ministro do Comércio Externo e ao Ministro do Trabalho.\n\n4. Haverá um Conselho Económico presidido pelo Primeiro-Ministro, que poderá delegar no Ministro do Planeamento e Coordenação Económica, em que participarão os Ministros mencionados no número anterior e aqueles que forem convocados em função do assunto a tratar, que terá por função preparar as medidas de política económica a submeter ao Conselho de Ministros, restrito ou pleno, e coordenar a respectiva execução."
+   "markdown": "###### Artigo 5.º — Execução da política do Governo\n\n1. Ao Primeiro-Ministro caberá convocar e presidir às sessões do Conselho de Ministros, restrito ou pleno, coordenar e fiscalizar a execução da política do Governo.\n\n2. A execução da política definida para cada Ministério será assegurada pelo respectivo Ministro, sob a orientação do Primeiro-Ministro.\n\n3. Caberá ao Ministro para o Planeamento e Coordenação Económica a coordenação das medidas de política económica cuja execução caiba directamente ao Ministro da Indústria, ao Ministro das Finanças, ao Ministro da Agricultura, ao Ministro do Comércio Externo e ao Ministro do Trabalho.\n\n4. Haverá um Conselho Económico presidido pelo Primeiro-Ministro, que poderá delegar no Ministro para o Planeamento e Coordenação Económica, em que participarão os Ministros mencionados no número anterior e aqueles que forem convocados em função do assunto a tratar, que terá por função preparar as medidas de política económica a submeter ao Conselho de Ministros, restrito ou pleno, e coordenar a respectiva execução."
   },
   "a1806551354f6e05": {
    "fragment_id": null,

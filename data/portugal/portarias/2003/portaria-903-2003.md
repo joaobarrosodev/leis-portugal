@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '2005-12-24'
     amending: pt:dre:467271:por
-    amending_title: Portaria n.º 1295/2005
+    amending_title: Portaria n.º 1295/2005; Declaração de Rectificação n.º 11-L/2003
     changes:
     - Altera Artigo ANEXO — REGULAMENTO ESPECÍFICO DO APOIO ÀS ACTUAIS INFRA-ESTRUTURAS ASSOCIATIVAS::9.º
+    - Retifica Artigo 5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/903/2003/08/28/p/dre/pt/html
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:51:57Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1295/2005. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-903-2003.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-903-2003.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 11-L/2003.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -245,7 +247,7 @@ c) Apresentar adequação do projecto, incluindo a componente de formação prof
 
 d) Apresentar uma descrição anual das acções a desenvolver, de acordo com os objectivos definidos no diagnóstico e plano de acção;
 
-e) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto;
+e) Demonstrar através de plano de financiamento devidamente justificado que se encontram asseguradas as fontes de financiamento do projecto;
 
 f) Envolver um montante mínimo de investimento de (euro) 35000/ano civil, com excepção do 1.º ano, caso o investimento aí previsto se limite ao último semestre;
 
@@ -259,15 +261,15 @@ j) O investimento anual não ultrapassar o quádruplo da média dos proveitos gl
 
 k) Demonstrar, quando integrar acções de formação profissional, que o plano de formação se revela coerente e em consonância com os objectivos do projecto e ainda que cumpre os normativos aplicáveis aos apoios no âmbito do FSE;
 
-l) Demonstrar, através de plano de financiamento devidamente justificado que se encontram asseguradas as fontes de financiamento do projecto.
-
-2 - A verificação da condição constante na alínea d) do número anterior pode ser remetida até à data da assinatura do contrato de concessão de incentivos.
+2 - A verificação da condição constante na alínea e) do número anterior pode ser remetida até à data da assinatura do contrato de concessão de incentivos.
 
 3 - O investimento máximo anual previsto na alínea j) do n.º 1 é calculado:
 
 a) Para os projectos de estruturas associativas constituídas há mais de um ano e há menos de três anos, através da média anual dos proveitos globais, incluindo quotizações e excluindo subsídios públicos, desde a data da sua constituição;
 
 b) Para os projectos de estruturas associativas constituídas há menos de um ano o limite máximo de investimento elegível anual é de (euro) 45000.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 11-L/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-l-2003-344436), publicado em 2003-09-30.
 
 ###### Artigo 6.º — Despesas elegíveis
 

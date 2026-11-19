@@ -44,7 +44,7 @@ version_history:
     changes: []
   - date: '1980-06-26'
     amending: pt:dre:325967:por
-    amending_title: Portaria n.º 662/78; Portaria n.º 159/79; Portaria n.º 655/79; Portaria n.º 350/80
+    amending_title: Portaria n.º 662/78; Portaria n.º 159/79; Portaria n.º 655/79; Portaria n.º 350/80; Declaração
     changes:
     - Altera Artigo unidades 35-35
     - Altera Artigo unidades 38-38
@@ -55,6 +55,7 @@ version_history:
     - Adita Artigo depois da unidade 138
     - Altera Artigo unidades 140-143
     - Adita Artigo depois da unidade 182
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -81,7 +82,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:25:43Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 662/78; Portaria n.º
-    159/79; Portaria n.º 655/79; Portaria n.º 350/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-571-a-77.alteracoes.json'
+    159/79; Portaria n.º 655/79; Portaria n.º 350/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-571-a-77.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,7 +184,9 @@ a) Conselho da Arma de Infantaria (CAI):
 
 1) Militares nomeados por inerência de funções - dois militares, mediante proposta do director da Arma, que pelas funções de inspecção, direcção ou chefia que desempenhem proporcionem uma maior operacionalidade ao funcionamento do Conselho;
 
-2) Militares nomeados por designação - dois oficiais e dois sargentos, mediante proposta do CEME, que pela sua competência e experiência pessoal permitam equilibrar a composição do Conselho, nomeadamente no aspecto de conhecimento das actividades gerais do Exército ou das unidades com diversa implantação territorial;
+2) Militares nomeados por designação - dois oficiais e dois sargentos, mediante proposta do VCEME, que pela sua competência e experiência pessoal permitam equilibrar a composição do Conselho, nomeadamente no aspecto de conhecimento das actividades gerais do Exército ou das unidades com diversa implantação territorial;
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1977-278926), publicado em 1977-10-11.
 
 3) Militares nomeados mediante eleição:
 

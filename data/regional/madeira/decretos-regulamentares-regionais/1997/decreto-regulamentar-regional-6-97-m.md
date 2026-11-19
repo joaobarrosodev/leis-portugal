@@ -53,10 +53,12 @@ version_history:
     changes: []
   - date: '2000-03-22'
     amending: pt:dre:515272:por
-    amending_title: Decreto Regulamentar Regional n.º 12/2000/M
+    amending_title: Decreto Regulamentar Regional n.º 12/2000/M; Declaração de Rectificação n.º 6-O/97
     changes:
     - Altera Artigo 11.º
     - Altera Artigo 11.º
+    - Retifica texto
+    - Retifica Artigo 4
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/6/1997/03/17/m/dre/pt/html
@@ -83,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:13Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
-    12/2000/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-6-97-m.alteracoes.json'
+    12/2000/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1997/decreto-regulamentar-regional-6-97-m.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 6-O/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -175,11 +179,13 @@ Lei Orgânica da Secretaria Regional de Educação
 
 O [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, que procedeu à reestruturação do Governo da Região Autónoma da Madeira, modificou a orgânica da Secretaria Regional de Educação.
 
-Na Secretaria Regional de Educação ficam englobados os sectores da educação, educação especial, desporto e formação profissional. Assim, urge criar a orgânica da Secretaria Regional de Educação com a sua nova estrutura.
+Na Secretaria Regional de Educação ficam englobados os sectores da educação, educação especial e reabilitação, desporto e formação profissional. Assim, urge criar a orgânica da Secretaria Regional de Educação com a sua nova estrutura.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 6-O/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-o-1997-602493), publicado em 1997-03-31.
 
 Nestes termos:
 
-O Governo Regional da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 49.º da [Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/lei/23-1991-492471), de 5 de Junho, e do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, o seguinte:
+O Governo Regional da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 49.º da Lei n.º 13/91, de 5 de Junho, e do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, o seguinte:
 
 ### CAPÍTULO I — Princípios gerais
 
@@ -227,7 +233,7 @@ a) Gabinete do Secretário Regional;
 
 b) Direcção Regional de Inovação e Gestão Educativa;
 
-c) Direcção Regional de Educação Especial;
+c) Direcção Regional de Educação Especial e Reabilitação;
 
 d) Direcção Regional de Formação Profissional;
 

@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1979-11-20'
     amending: pt:dre:367628:por
-    amending_title: Portaria n.º 600/79
+    amending_title: Portaria n.º 600/79; Declaração
     changes:
     - Altera Artigo unidades 24-29
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:30:35Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 600/79. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-765-77.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1977/portaria-765-77.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -197,7 +199,9 @@ d) Arquivo de correspondência recebida;
 
 6.2 - A assembleia eleitoral, para cumprimento do disposto no número anterior, será convocada pela autoridade consular ou pelo seu substituto legal.
 
-6.3 - As convocatórias mencionarão as normas práticas do processo eleitoral, locais de afixação dos nomes dos candidatos, local, data e hora do início da assembleia eleitoral, devendo ser enviadas, pelo correio, a todos os docentes da área consular, com antecedência de quinze dias em relação àquela data.
+6.3 - As convocatórias mencionarão as normas práticas do processo eleitoral, locais de afixação dos nomes dos candidatos, local, data e hora do início da assembleia eleitoral, devendo ser enviadas, pelo correio, a todos os docentes da área consular, com antecedência de trinta dias em relação àquela data.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-448940), publicado em 1978-01-27.
 
 6.4 - As candidaturas deverão ser subscritas pelos candidatos e por um número mínimo de 15% dos docentes em exercício na área consular.
 
@@ -273,9 +277,9 @@ f) Responsabilizar-se pela divulgação e afixação de legislação e regulamen
 
 g) Coordenar a elaboração de estatísticas referentes a matrículas, frequência, aproveitamento escolar dos alunos, faltas de assiduidade do pessoal docente ou de outras que se venham a achar pertinentes;
 
-h) Coordenar a intervenção periódica do material didáctico atribuído aos diferentes cursos da sua área e sempre que ocorra substituição do respectivo docente;
+h) Coordenar a distribuição periódica do material didáctico atribuído aos diferentes cursos da sua área e sempre que ocorra substituição do respectivo docente;
 
-i) Interferir directamente junto dos docentes, sempre que necessário, no sentido de impedir que sejam ultrapassados os prazos fixados pelos serviços de coordenação, onde existam, ou pela autoridade consular na devolução do material didáctico ou de apoio cultural requisitado àquelas entidades;
+i) Intervir directamente junto dos docentes, sempre que necessário, no sentido de impedir que sejam ultrapassados os prazos fixados pelos serviços de coordenação, onde existam, ou pela autoridade consular na devolução do material didáctico ou de apoio cultural requisitado àquelas entidades;
 
 j) Supervisar e coordenar a distribuição do material referido no n.º 3 desta portaria, bem como da documentação destinada ao funcionamento dos cursos, responsabilizando-se pela execução das acções tidas por necessárias para a tornar eficaz.
 

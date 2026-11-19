@@ -29,11 +29,18 @@
      "title": "Despacho Normativo n.º 317/79",
      "published": "1979-10-16",
      "dre_path": "/dr/detalhe/despacho-normativo/317-1979-364935"
+    },
+    {
+     "id": "pt:dre:366453:por",
+     "title": "Despacho Normativo n.º 366/79",
+     "published": "1979-12-14",
+     "dre_path": "/dr/detalhe/despacho-normativo/366-1979-366453"
     }
    ],
    "changes": [
     "Altera Artigo 2.º",
-    "Altera Artigo 7.º"
+    "Altera Artigo 7.º",
+    "Retifica Artigo 8"
    ],
    "fragments": [
     "fce8462643b67c9a",
@@ -44,7 +51,7 @@
     "c3d35179b68d44fe",
     "f82f4ea0461fff1c",
     "c12bd792fef44e95",
-    "df9f68f3774248dd",
+    "b6deb974f06cb44c",
     "8b272c68356006c3"
    ]
   }
@@ -126,13 +133,15 @@
    ],
    "markdown": "###### Artigo 7.º\n\nNa dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Património;\n\nc) Direcção-Geral do Tribunal de Contas;\n\nd) Serviços Sociais do Ministério das Finanças;\n\ne) Gabinete de Gestão de Veículos do Estado;\n\nf) Serviço de Informação para o Abastecimento Estatal.\n\ng) Comissão Liquidatária do Comissariado para os Desalojados.\n\n> Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13."
   },
-  "df9f68f3774248dd": {
+  "b6deb974f06cb44c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 8.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 8.º\n\nO Secretário de Estado das Finanças despachará ainda os assuntos relativos:\n\na) Ao Instituto das Participações do Estado;\n\nb) Ao Instituto de Cooperação Económica;\n\nc) A empresas em que se registou intervenção do Estado;\n\nd) A financiamentos propostos pela Comissão Interministerial de Financiamento a Retornados superiores a 10000 contos;\n\ne) Aos contratos de viabilização."
+   "in_force_from": "1979-10-16",
+   "changed_by": [
+    "Retificado pelo/a [Despacho Normativo n.º 366/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/366-1979-366453), publicado em 1979-12-14."
+   ],
+   "markdown": "###### Artigo 8.º\n\nO Secretário de Estado das Finanças despachará ainda os assuntos relativos:\n\na) Ao Instituto das Participações do Estado;\n\nb) Ao Instituto de Cooperação Económica;\n\nc) A empresas em que se registou intervenção do Estado;\n\ne) Aos contratos de viabilização.\n\n> Retificado pelo/a [Despacho Normativo n.º 366/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/366-1979-366453), publicado em 1979-12-14."
   },
   "8b272c68356006c3": {
    "fragment_id": null,

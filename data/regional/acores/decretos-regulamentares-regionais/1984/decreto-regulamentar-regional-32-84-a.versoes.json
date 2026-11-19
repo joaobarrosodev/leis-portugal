@@ -33,12 +33,19 @@
      "title": "Decreto Regulamentar Regional n.º 36/86/A",
      "published": "1986-10-09",
      "dre_path": "/dr/detalhe/decreto-regulamentar-regional/36-1986-222448"
+    },
+    {
+     "id": "pt:dre:446501:por",
+     "title": "Declaração",
+     "published": "1984-10-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-446501"
     }
    ],
    "changes": [
     "Altera Artigo 5.º",
     "Altera Artigo 7.º",
-    "Altera Artigo 13.º"
+    "Altera Artigo 13.º",
+    "Retifica Artigo 11"
    ],
    "fragments": [
     "3c445222443a87de",
@@ -60,7 +67,7 @@
     "1ca0709544c371ca",
     "c5aec4d04f96bd0f",
     "ed40ce99a9501d28",
-    "8d3f5814e8f79046",
+    "a97b04d6b593567f",
     "70a637915294a37e",
     "5bb31b680345533b",
     "ef1ab44d845db9c6",
@@ -302,13 +309,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 10.º\n\n1 - Cada mesa eleitoral elaborará uma acta do resultado das eleições, assinada por todos os seus membros, que será remetida em envelope lacrado, no prazo de 24 horas, à Direcção Regional dos Recursos Florestais, com todos os elementos constantes das respectivas eleições, através das direcções de serviços ou administrações florestais.\n\n2 - A Direcção Regional dos Recursos Florestais nomeará uma comissão de apuramento, constituída por 2 representantes dos serviços florestais e 3 caçadores indicados pela comissão venatória em funcionamento na ilha onde esteja a referida Direcção Regional, a qual é presidida por um dos representantes daqueles serviços, competindo-lhe apurar os resultados das eleições."
   },
-  "8d3f5814e8f79046": {
+  "a97b04d6b593567f": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 11.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 11.º\n\nPara os mandatos seguintes das comissões venatórias, as eleições deverão ser realizadas até 45 dias antes do início do novo mandato, sendo a sua data anunciada com 30 dias de antecedência pela Direcção Regional dos Recursos Florestais, mantendo-se em vigor o disposto no n.º 8 do artigo 9.º"
+   "in_force_from": "1986-10-09",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-446501), publicado em 1984-10-31."
+   ],
+   "markdown": "###### Artigo 11.º\n\nPara os mandatos seguintes das comissões venatórias, as eleições deverão ser realizadas até 45 dias antes do início do novo mandato, sendo a sua data anunciada com 30 dias de antecedência pela Direcção Regional dos Recursos Florestais, mantendo-se em vigor o disposto nos n.os 5 e 7 do artigo 9.º\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-446501), publicado em 1984-10-31."
   },
   "70a637915294a37e": {
    "fragment_id": null,

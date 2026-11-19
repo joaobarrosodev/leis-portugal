@@ -53,11 +53,13 @@ version_history:
     changes: []
   - date: '1999-01-31'
     amending: pt:dre:235100:por
-    amending_title: Despacho Normativo n.º 71/98; Despacho Normativo n.º 3/99
+    amending_title: Despacho Normativo n.º 71/98; Despacho Normativo n.º 3/99; Declaração de Rectificação n.º 19-M/98
     changes:
     - Altera Artigo 12.º
     - Altera Artigo 2.º
     - Altera Artigo 6.º
+    - Retifica texto
+    - Retifica Artigo 1
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/10-a/1998/02/13/p/dre/pt/html
@@ -84,7 +86,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:32:50Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 71/98; Despacho
-    Normativo n.º 3/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1998/despacho-normativo-10-a-98.alteracoes.json'
+    Normativo n.º 3/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1998/despacho-normativo-10-a-98.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 19-M/98.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -530,9 +534,11 @@ Ministério da Economia, 2 de Fevereiro de 1998. - O Ministro da Economia, Joaqu
 
 ## ANEXO A — Metodologia para a determinação da valia industrial
 
-###### Artigo 1.º — Critérios de selecção
+###### 1.º — Critérios de selecção
 
-A valia industrial referida no n.º 2 do artigo 7.º é calculada de acordo com os seguintes critérios de selecção:
+> Retificado pelo/a [Declaração de Rectificação n.º 19-M/98](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/19-m-1998-235757), publicado em 1998-10-31.
+
+1 - A valia industrial referida no n.º 2 do artigo 7.º é calculada de acordo com os seguintes critérios de selecção:
 
 Critério A - Mérito económico e industrial do projecto;
 

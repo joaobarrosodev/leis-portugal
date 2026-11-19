@@ -122,6 +122,12 @@
      "title": "Decreto Regulamentar n.º 40/97",
      "published": "1997-10-03",
      "dre_path": "/dr/detalhe/decreto-regulamentar/40-1997-661915"
+    },
+    {
+     "id": "pt:dre:192863:por",
+     "title": "Declaração",
+     "published": "1989-11-30",
+     "dre_path": "/dr/detalhe/declaracao/1989-192863"
     }
    ],
    "changes": [
@@ -129,7 +135,8 @@
     "Revoga Artigo 60.º",
     "Revoga Artigo 61.º",
     "Revoga Artigo 62.º",
-    "Revoga Artigo 63.º"
+    "Revoga Artigo 63.º",
+    "Retifica texto"
    ],
    "fragments": [
     "5e8fad2c616ccf71",
@@ -231,7 +238,7 @@
     "3502fb0150686482",
     "f4cdccf6e70d0180",
     "198b58d1c1eb1071",
-    "1a2744afc6a074a7"
+    "4f5ce88c74786fde"
    ]
   }
  ],
@@ -1085,6 +1092,16 @@
     "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 40/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1997-661915), publicado em 1997-10-03."
    ],
    "markdown": "###### Artigo 63.º — Apoio técnico e administrativo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 40/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1997-661915), publicado em 1997-10-03."
+  },
+  "4f5ce88c74786fde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO VII",
+   "in_force_from": "1997-10-08",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-192863), publicado em 1989-11-30."
+   ],
+   "markdown": "## ANEXO VII\n\nConteúdos funcionais das carreiras de técnico superior de informática, desenhador, técnico auxiliar e tradutor-correspondente-intérprete constantes dos quadros do Ministério da Defesa Nacional\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-192863), publicado em 1989-11-30.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)"
   }
  }
 }

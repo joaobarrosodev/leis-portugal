@@ -43,7 +43,7 @@ version_history:
     changes: []
   - date: '1983-11-07'
     amending: pt:dre:443686:por
-    amending_title: Decreto-Lei n.º 397/83
+    amending_title: Decreto-Lei n.º 397/83; Declaração
     changes:
     - Altera Artigo 1.º
     - Altera Artigo 2.º
@@ -77,6 +77,7 @@ version_history:
     - Altera Artigo 31.º
     - Altera Artigo 32.º
     - Adita Artigo 33.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -103,7 +104,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:43:37Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 397/83. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-232-82.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-232-82.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -175,15 +177,17 @@ validation:
 
 de 17 de Junho
 
-O bloqueamento que presentemente se verifica nos serviços de notariado, se resulta, em parte, do sistema de condicionamentos e exigências legais que lhes vem sendo imposto em legislação avulsa, é igualmente determinado pela dificuldade em que se encontram os notários, particularmente os de Lisboa e do Porto, de dirigir os respectivos serviços.
+O bloqueamento que presentemente se verifica nos serviços de notariado, se resulta, em parte, do sistema de condicionamentos e exigências legais que lhes vem sendo imposto em legislação avulsa, é igualmente determinado pela dificuldade em que se encontram os notários, particularmente os de Lisboa e Porto, de dirigir os respectivos serviços.
 
-Com a criação dos lugares de notário-adjunto, que permitirá uma direcção mais efectiva pelo notário titular e um melhor aproveitamento da capacidade dos serviços, e com a obrigatoriedade, em Lisboa e no Porto, de os notários se fazerem substituir pelos ajudantes na realização de actos notariais na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, julga-se conseguir uma melhoria sensível daquela situação, sem se causar quaisquer dificuldades, antes pelo contrário, a estas instituições de crédito.
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-394281), publicado em 1982-07-15.
+
+Com a criação dos lugares de notário-adjunto, que permitirá uma direcção mais efectiva pelo notário titular e um melhor aproveitamento da capacidade dos serviços, e com a obrigatoriedade, em Lisboa e Porto, de os notários se fazerem substituir pelos ajudantes na realização de actos notariais na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, julga-se conseguir uma melhoria sensível daquela situação, sem se causar quaisquer dificuldades, antes pelo contrário, a estas instituições de crédito.
 
 A fixação de um número limite de actos que podem ser realizados fora do cartório contribui igualmente para uma maior permanência do notário no respectivo cartório e, consequentemente, para uma melhoria da qualidade de serviço prestado.
 
 A equiparação da exibição do bilhete de identidade ao reconhecimento por semelhança é outra medida que conduzirá, indiscutivelmente, a um grande desbloqueamento dos cartórios notariais.
 
-A Tabela de Emolumentos do Notariado é alterada tendo em vista a simplificação da elaboração da conta e a uniformização possível das verbas tabelares cujos montantes, analisados no seu conjunto, se mantêm praticamente inalterados.
+A Tabela dos Emolumentos do Notariado é alterada tendo em vista a simplificação da elaboração da conta e a uniformização possível das verbas tabelares cujos montantes, analisados no seu conjunto, se mantêm praticamente inalterados.
 
 Finalmente, é alterado o regime de distribuição dos emolumentos de natureza pessoal, retomando-se, nas suas linhas gerais, o sistema anteriormente em vigor, por mais consentâneo com a sua finalidade.
 
@@ -203,7 +207,7 @@ Art. 3.º - 1 - Os notários-adjuntos têm competência funcional plena, executa
 
 2 - Para efeitos de vencimento de categoria, os lugares de notário-adjunto em cartórios de 1.ª e 2.ª classes consideram-se lugares de 2.ª e 3.ª classes, respectivamente, acrescendo, em ambos os casos e a título de vencimento de exercício, 75% da participação emolumentar apurada para o notário titular do cartório.
 
-Art. 4.º - 1 - Quando durante as horas normais de serviço for solicitada a presença dos notários de Lisboa e do Porto para a realização de actos notariais na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, aqueles far-se-ão substituir, nesses actos, pelos notários-adjuntos ou pelos ajudantes.
+Art. 4.º - 1 - Quando, durante as horas normais de serviço, for solicitada a presença dos notários de Lisboa e Porto para a realização de actos notariais na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, aqueles far-se-ão substituir, nesses actos, pelos notários-adjuntos ou pelos ajudantes.
 
 2 - O regime previsto no número anterior aplicar-se-á a outras localidades, quando o número de actos o justifique, por despacho do director-geral dos Registos e do Notariado, ouvido o conselho técnico.
 

@@ -56,13 +56,15 @@ version_history:
     changes: []
   - date: '2013-03-01'
     amending: pt:dre:638769:por
-    amending_title: Decreto-Lei n.º 225/2007; Decreto-Lei n.º 35/2013
+    amending_title: Decreto-Lei n.º 225/2007; Decreto-Lei n.º 35/2013; Declaração de Rectificação n.º 29/2005
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 5.º
     - Altera Artigo 6.º
     - Altera Artigo 3.º
     - Altera Artigo 4.º
+    - Retifica Artigo 2
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/33-a/2005/02/16/p/dre/pt/html
@@ -89,7 +91,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:50:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 225/2007; Decreto-Lei
-    n.º 35/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-33-a-2005.alteracoes.json'
+    n.º 35/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-33-a-2005.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 29/2005.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,7 +208,7 @@ Excepto quando outro significado lhes seja expressamente atribuído, as siglas e
 
 1 - As instalações licenciadas ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro, adiante designadas por centrais renováveis, serão remuneradas pelo fornecimento da electricidade entregue à rede através da fórmula seguinte:
 
-VRD(índice m) = KMHO(índice m) x [PF (VRD)(índice m) + PV(VRD)(índice m) + PA (VRD)(índice m) x Z] x [IPC(índice m - 1)/IPC(índice ref)] x [1/(1 - LEV)]
+VRD(índice m) = [KMHO(índice m) x [PF (VRD)(índice m) + PV(VRD)(índice m)] + PA (VRD)(índice m) x Z] x [IPC(índice m - 1)/IPC(índice ref)] x [1/(1 - LEV)]
 
 2 - ...
 
@@ -366,6 +370,8 @@ ii) Prevalência do disposto neste diploma, em caso de opção da autarquia, cas
 
 33 - (Revogado.)»
 
+> Retificado pelo/a [Declaração de Rectificação n.º 29/2005](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2005-547071), publicado em 2005-04-15.
+
 ###### Artigo 3.º — Remuneração da electricidade produzida em regime especial
 
 1 - O valor final resultante da aplicação das fórmulas de cálculo constantes do anexo II do Decreto-Lei n.º 189/88, de 27 de maio, pode ser alterado para valor inferior, mediante proposta do produtor, aceite pela Direção-Geral de Energia e Geologia (DGEG).
@@ -498,7 +504,7 @@ O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 1 - As instalações licenciadas ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro, adiante designadas por centrais renováveis, serão remuneradas pelo fornecimento da electricidade entregue à rede através da fórmula seguinte:
 
-VRD(índice m) = KMHO(índice m) x [PF (VRD)(índice m) + PV (VRD)(índice m) + PA (VRD)(índice m) x Z] x [IPC(índice m - 1)/IPC(índice ref)] x [1/(1 - LEV)]
+VRD(índice m) = [KMHO(índice m) x [PF (VRD)(índice m) + PV (VRD)(índice m)] + PA (VRD)(índice m) x Z] x [IPC(índice m - 1)/IPC(índice ref)] x [1/(1 - LEV)]
 
 2 - Na fórmula do número anterior:
 

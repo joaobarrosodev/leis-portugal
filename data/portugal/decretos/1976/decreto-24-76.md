@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1976-04-15'
     amending: pt:dre:416787:por
-    amending_title: Decreto n.º 279/76
+    amending_title: Decreto n.º 279/76; Declaração
     changes:
     - Altera Artigo 2.º
+    - Retifica Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:41:21Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 279/76. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-24-76.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-24-76.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -200,7 +202,7 @@ Pessoal técnico
 
 QUADRO III
 
-Pessoal oficial e auxiliar
+Pessoal oficinal e auxiliar
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
 
@@ -211,3 +213,5 @@ Pessoal administrativo e de contabilidade
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/01200/00500051.pdf)
 
 O Ministro da Cooperação, Vítor Manuel Trigueiros Crespo. - O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-454043), publicado em 1976-01-28.

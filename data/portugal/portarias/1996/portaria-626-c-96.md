@@ -52,7 +52,7 @@ version_history:
     changes: []
   - date: '1997-04-23'
     amending: pt:dre:444445:por
-    amending_title: Portaria n.º 268-A/97
+    amending_title: Portaria n.º 268-A/97; Declaração de Rectificação n.º 16-X/96
     changes:
     - Altera Artigo unidades 30-31
     - Adita Artigo depois da unidade 33
@@ -62,6 +62,7 @@ version_history:
     - Adita Artigo depois da unidade 48
     - Altera Artigo unidades 60-60
     - Altera Artigo unidades 69-71
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/626-c/1996/11/04/p/dre/pt/html
@@ -88,7 +89,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:35:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 268-A/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-626-c-96.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-626-c-96.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 16-X/96.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,7 +197,9 @@ b) As referências dos nacionais cujos processos não tenham tido movimentação
 
 4 - Independentemente de eventual designação que os proponentes pretendam dar às listas, a cada uma corresponde uma letra do alfabeto português, atribuída sequencialmente pela ordem do sorteio.
 
-5 - O embaixador de Portugal no círculo eleitoral de que se trate envia a cada posto consular um exemplar da matriz do boletim de voto naquele círculo.
+5 - O embaixador de Portugal no círculo eleitoral de que se trate envia a cada posto consular a relação completa de todas as listas definitivamente admitidas para divulgação junto das comunidades portuguesas, bem como um exemplar da matriz do boletim de voto naquele círculo.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-X/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-x-1996-623002), publicado em 1996-12-31.
 
 6 - Os boletins de voto são de forma rectangular, com as dimensões apropriadas para neles caber a indicação de todas as listas submetidas à votação em cada círculo, e são impressos ou fotocopiados em papel branco, igual, liso e não transparente.
 
@@ -213,7 +217,7 @@ d) Designação da organização não governamental de portugueses no estrangeir
 
 > Alterado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
 
-9 - A multiplicação dos boletins de voto e a respectiva entrega ou remessa, em número igual ao dos eleitores inscritos na assembleia ou secção de voto, mais 20%, em sobrescrito fechado e lacrado, aos presidentes das mesas que funcionem na sua área de jurisdição é da responsabilidade dos cônsules de Portugal ou de quem desempenhe as suas funções.
+9 - A multiplicação dos boletins de voto e a respectiva entrega ou remessa, em sobrescrito fechado e lacrado, aos presidentes das mesas que funcionem na sua área de jurisdição é da responsabilidade dos cônsules de Portugal ou de quem desempenhe as suas funções.
 
 10 - A difusão ou distribuição dos boletins de voto não poderá ter início antes de 23 de Abril de 1997.
 
@@ -221,7 +225,7 @@ d) Designação da organização não governamental de portugueses no estrangeir
 
 > Aditado pelo/a [Portaria n.º 268-A/97](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-1997-444445), publicado em 1997-04-18.
 
-11.º - 1 - Até 20 de Março de 1997, os cônsules de Portugal designam os representantes dos respectivos postos nas comissões eleitorais a que se refere o artigo 9.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro.
+11.º - 1 - Até 20 de Março de 1997, os cônsules de Portugal designam os representantes dos respectivos postos nas comissões eleitorais a que se refere o artigo 11.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro.
 
 2 - Até à data prevista no número anterior, as entidades primeiras proponentes de cada lista designam os seus representantes e informam da designação o gerente do posto consular da sua área de jurisdição, para efeitos da constituição da comissão eleitoral a que se refere o artigo 9.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro.
 
@@ -335,7 +339,7 @@ c) No qual tenha sido feito qualquer corte, desenho ou rasura ou quando tenha si
 
 4 - Todas as deliberações da mesa são tomadas por maioria absoluta dos membros presentes e fundamentadas, tendo o presidente voto de desempate.
 
-20.º - 1 - Encerrada a votação, o presidente da mesa, pela ordem a seguir indicada:
+20.º Encerrada a votação, o presidente da mesa, pela ordem a seguir indicada:
 
 a) Procede à contagem dos boletins que não foram utilizados e dos que foram inutilizados pelos eleitores e encerra-os num sobrescrito, que fecha e lacra para posterior envio ao embaixador de Portugal na sede do círculo eleitoral a que se referem os n.os 3 e 4 do artigo 6.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro;
 
@@ -345,7 +349,7 @@ c) Manda abrir e voltar a urna de modo que dela caiam todos os boletins de voto 
 
 d) Se o número efectivo de votantes foi inferior a 100, encerra os boletins de voto, sem que estes sejam desdobrados, num sobrescrito, que fecha e lacra, e em que escreve por fora a identificação da secção de voto e o número de boletins que o sobrescrito contém, para imediato envio, pela via que considere mais rápida e segura, ao gerente do posto consular, ou ao embaixador de Portugal na sede do círculo eleitoral, conforme os casos;
 
-e) No caso previsto no número anterior, determina ao secretário da mesa a elaboração da acta das operações eleitorais, encerrando-se os trabalhos;
+e) No caso previsto na alínea anterior, determina ao secretário da mesa a elaboração da acta das operações eleitorais, encerrando-se os trabalhos;
 
 f) Se o número efectivo de votantes for superior a 100, manda proceder à contagem dos votos, nos termos do artigo 102.º da Lei Eleitoral para a Assembleia da República, com as devidas adaptações;
 
@@ -353,7 +357,7 @@ g) No caso previsto no número anterior, após a contagem de votos, comunica, po
 
 i) No final dos trabalhos das assembleias ou secções de voto, envia os documentos respeitantes à eleição ao embaixador de Portugal na sede do círculo eleitoral, na sua qualidade de presidente da assembleia de apuramento geral.
 
-21.º As assembleias de apuramento geral, às quais cabe o apuramento dos resultados da eleição em cada círculo eleitoral e a proclamação dos candidatos eleitos, funcionam na embaixada de Portugal na sede do círculo eleitoral e são constituídas, nos termos do n.º 2 do artigo 3.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro, até 24 de Abril de 1997.
+21.º As assembleias de apuramento geral, às quais cabe o apuramento dos resultados da eleição em cada círculo eleitoral e a proclamação dos candidatos eleitos, funcionam na embaixada de Portugal na sede do círculo eleitoral e são constituídas, nos termos do n.º 2 do artigo 13.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro, até 24 de Abril de 1997.
 
 22.º - 1 - Sem prejuízo do disposto nos números seguintes, o apuramento geral é regulado, com as devidas adaptações, pelo disposto nos artigos 109.º e seguintes da Lei Eleitoral para a Assembleia da República.
 

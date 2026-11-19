@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '2009-10-17'
     amending: pt:dre:482821:por
-    amending_title: Portaria n.º 1270/2009
+    amending_title: Portaria n.º 1270/2009; Declaração de Rectificação n.º 50/2009
     changes:
     - Adita Artigo 48.º-A
+    - Retifica Artigo 23
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/743-a/2009/07/10/p/dre/pt/html
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:42:03Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1270/2009. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-743-a-2009.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-743-a-2009.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 50/2009.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -587,7 +590,7 @@ c) Ficha ENES 2009: documento comprovativo da titularidade do curso de ensino se
 
 d) Documentos comprovativos da satisfação dos pré-requisitos que exigem a realização de provas de aptidão física, funcional ou vocacional, se necessários para os pares estabelecimento/curso a que concorre.
 
-3 - O disposto na alínea c) do número anterior também se aplica aos estudantes que pretendam utilizar exames nacionais do ensino secundário realizados em 2007 ou 2008 correspondentes às provas de ingresso exigidas para ingresso nos pares estabelecimento/curso a que concorrem, pelo que também devem instruir o processo de candidatura com a ficha ENES 2008, cuja emissão solicitam na escola secundária onde realizaram os exames nacionais.
+3 - O disposto na alínea c) do número anterior também se aplica aos estudantes que pretendam utilizar exames nacionais do ensino secundário realizados em 2007 ou 2008 correspondentes às provas de ingresso exigidas para ingresso nos pares estabelecimento/curso a que concorrem, pelo que também devem instruir o processo de candidatura com a ficha ENES 2009, cuja emissão solicitam na escola secundária onde realizaram os exames nacionais.
 
 4 - Para os estudantes titulares de um curso de ensino secundário organizado em dois ciclos de dois e um ano, o documento referido na alínea c) do n.º 2 deve conter a classificação obtida em cada um dos ciclos (10.º + 11.º e 12.º anos de escolaridade).
 
@@ -602,6 +605,8 @@ b) Que pretendam beneficiar da preferência regional, estando abrangidos pela al
 estão dispensados da apresentação dos documentos referidos no n.º 2, devendo apenas indicar no formulário de candidatura o código de activação impresso na ficha ENES 2009.
 
 7 - Os estudantes que pretendam beneficiar dos contingentes especiais a que se refere o n.º 2 do artigo 9.º e das preferências regionais a que se referem os artigos 15.º e 16.º podem apresentar a candidatura através do sistema online mas devem entregar no local de candidatura presencial os documentos comprovativos de que satisfazem as condições que permitem beneficiar dos referidos contingentes e preferências, conforme referem os artigos 24.º a 28.º, acompanhados do relatório comprovativo da apresentação da candidatura através do sistema online.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 50/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/50-2009-492253), publicado em 2009-07-16.
 
 ###### Artigo 24.º — Instrução do processo de candidatura Candidatos às vagas dos contingentes especiais das Regiões Autónomas dos Açores e da Madeira
 

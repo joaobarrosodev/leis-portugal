@@ -53,12 +53,17 @@ version_history:
     changes: []
   - date: '2003-02-04'
     amending: pt:dre:209047:por
-    amending_title: Decreto-Lei n.º 19/2003
+    amending_title: Decreto-Lei n.º 19/2003; Declaração de Rectificação n.º 17-A/99
     changes:
     - Altera Artigo 6.º
     - Revoga Artigo 26.º
     - Revoga Artigo 27.º
     - Revoga Artigo 44.º
+    - Retifica Artigo 6
+    - Retifica Artigo 16
+    - Retifica Artigo 48
+    - Retifica Artigo 49
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/364/1999/09/17/p/dre/pt/html
@@ -85,7 +90,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:11:12Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 19/2003. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-364-99.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-364-99.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 17-A/99.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -418,7 +425,7 @@ b) Abertura e admissão das ofertas, avaliação dos concorrentes e das proposta
 
 ###### Artigo 6.º — Preço e condições de pagamento
 
-1 - O preço por acção é o que for indicado pelos concorrentes.
+1 - O preço por acção deve ser indicado pelos concorrentes.
 
 2 - O pagamento de 70% do preço total oferecido pelo bloco de acções a que se refere o n.º 1 do artigo 1.º deve ser efectuado no prazo fixado no n.º 1 do artigo 25.º
 
@@ -435,6 +442,8 @@ b) Abertura e admissão das ofertas, avaliação dos concorrentes e das proposta
 8 - (Revogado.)
 
 > Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 17-A/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-a-1999-165055), publicado em 1999-10-29.
 
 ###### Artigo 7.º — Documentação à disposição dos interessados
 
@@ -596,7 +605,7 @@ a) Não sejam entregues no local e no prazo fixados;
 
 b) Não observem o disposto nos n.os 2 a 4 do artigo 4.º;
 
-c) Nos documentos exigidos no artigo 90.º incluam qualquer referência que o júri considere indiciadora do valor oferecido pelas acções objecto do presente concurso;
+c) Nos documentos exigidos no artigo 9.º incluam qualquer referência que o júri considere indiciadora do valor oferecido pelas acções objecto do presente concurso;
 
 d) Na respectiva organização não observem o disposto no artigo 11.º e desde que o júri considere a falta perturbadora do processo;
 
@@ -906,11 +915,11 @@ Transmitem-se para os cessionários sucessivos todas as obrigações do concorre
 
 As garantias bancárias e os seguros-caução previstos neste caderno de encargos devem ser prestados por instituição de reconhecida idoneidade, revestindo a natureza de garantia de primeira interpelação.
 
-###### Artigo 49.º — Concorrentes excluídos e preteridos
+###### Artigo 48.º — Concorrentes excluídos e preteridos
 
 Os concorrentes excluídos e preteridos no concurso não têm direito, por esse facto, a nenhuma indemnização.
 
-###### Artigo 50.º — Suspensão ou anulação do concurso
+###### Artigo 49.º — Suspensão ou anulação do concurso
 
 O Estado reserva o direito de, em qualquer momento e até à decisão final, suspender ou anular o processo de alienação das acções objecto deste concurso, desde que razões de interesse público ou social o justifiquem.
 
@@ -1012,7 +1021,7 @@ Fica bem assente que o banco/companhia de seguros garante, no caso de vir a ser 
 
 ## ANEXO IV — Modelo de garantia bancária/seguro-caução
 
-(artigo 45.º do caderno de encargos)
+(artigo 44.º do caderno de encargos)
 
 Garantia bancária/seguro-caução n.º ...
 

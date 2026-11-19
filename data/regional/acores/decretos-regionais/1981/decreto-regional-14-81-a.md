@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '2003-06-25'
     amending: pt:dre:692433:por
-    amending_title: Decreto Legislativo Regional n.º 29/2003/A
+    amending_title: Decreto Legislativo Regional n.º 29/2003/A; Declaração
     changes:
     - Altera Artigo 2.º
+    - Retifica Artigo 1
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:18Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
-    29/2003/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regionais/1981/decreto-regional-14-81-a.alteracoes.json'
+    29/2003/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regionais/1981/decreto-regional-14-81-a.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +123,7 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do
 
 ###### Artigo 1.º
 
-Na Região Autónoma dos Açores, a atribuição da categoria de vila a freguesia da Região obedecerá, cumulativamente, aos seguintes requisitos:
+Na Região Autónoma dos Açores, a atribuição da categoria de vila a freguesias da Região obedecerá, cumulativamente, aos seguintes requisitos:
 
 a) Terem uma população não inferior a 2000 habitantes;
 
@@ -132,6 +134,8 @@ c) Serem detentoras de notável passado histórico e artístico;
 d) Possuírem desenvolvimento comercial, industrial e cultural manifestamente superior ao das freguesias vizinhas;
 
 e) Disporem do indispensável saneamento básico.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-577932), publicado em 1981-08-27.
 
 ###### Artigo 2.º
 

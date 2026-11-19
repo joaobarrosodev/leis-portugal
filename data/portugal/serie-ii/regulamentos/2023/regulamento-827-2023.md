@@ -44,9 +44,12 @@ version_history:
     changes: []
   - date: '2026-07-06'
     amending: pt:dre:994000577:por
-    amending_title: Regulamento n.º 8/2026
+    amending_title: Regulamento n.º 8/2026; Declaração de Retificação n.º 830/2023
     changes:
     - Altera Artigo 131.º
+    - Retifica Artigo 36
+    - Retifica Artigo 51
+    - Retifica Artigo 79
 identifiers:
   celex: null
   eli: null
@@ -73,7 +76,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:04:41Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Regulamento n.º 8/2026. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos/2023/regulamento-827-2023.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos/2023/regulamento-827-2023.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Retificação
+    n.º 830/2023.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -942,7 +947,7 @@ e) Periodicidade diária nas instalações de clientes ligadas à rede de distri
 
 f) Para os clientes em Baixa Pressão com consumo anual inferior ou igual a 10 000 m3 (n), o operador de rede deve cumprir o padrão para o indicador previsto no RQS para o desempenho na frequência da leitura local de equipamentos de medição.
 
-8 - Para os restantes clientes de gás, quando as instalações não disponham de equipamento de telecontagem, a periodicidade de leitura deve ser mensal.
+g) Para os restantes clientes de gás, quando as instalações não disponham de equipamento de telecontagem, a periodicidade de leitura deve ser mensal;
 
 9 - No caso dos clientes em Baixa Tensão Normal e dos clientes em Baixa Pressão com consumo anual igual ou inferior a 10 000 m3 (n), os operadores das redes de distribuição devem efetuar, pelo menos, uma das seguintes diligências, utilizando os meios que considerem adequados:
 
@@ -957,6 +962,8 @@ b) Avisar os clientes de que foi tentada, sem êxito, uma leitura direta do equi
 12 - No caso dos clientes em Baixa Tensão Normal e dos clientes em Baixa Pressão com consumo anual igual ou inferior a 10 000 m3 (n), considera-se facto imputável ao operador da rede de distribuição caso este não cumpra nenhuma das diligências mencionadas no n.º 9.
 
 13 - O operador da rede deve atualizar e transmitir aos respetivos comercializadores, no prazo máximo de 48 horas após comunicação recebida, todas as leituras por si recolhidas ou que lhe tenham sido comunicadas por clientes relativamente a cada instalação de consumo.
+
+> Retificado pelo/a [Declaração de Retificação n.º 830/2023](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/830-2023-223596742), publicado em 2023-10-31.
 
 ###### Artigo 37.º — Leituras extraordinárias
 
@@ -1160,7 +1167,7 @@ d) Atualização de dados disponibilizados por outras entidades ao operador de r
 
 2 - A opção tarifária é da escolha do cliente.
 
-3 - Sem prejuízo do número anterior e dos n.os 4 e 5, no caso dos fornecimentos de energia elétrica e no caso dos clientes finais de gás com leitura diária e em que é utilizada uma das variáveis de faturação de capacidade, a opção tarifária tem a duração mínima de um ano, salvo se ocorrer uma mudança de comercializador com pedido de alteração tarifária.
+3 - Sem prejuízo do número anterior e dos n.os 4 e 5, no caso dos fornecimentos de energia elétrica e no caso dos clientes finais de gás com leitura diária e em que é utilizada uma das variáveis de faturação de capacidade, a opção tarifária tem a duração mínima de um ano.
 
 4 - As opções tarifárias de acesso às redes aplicáveis às entregas a clientes finais de gás com leitura diária e em que é utilizada uma das variáveis de faturação de capacidade com duração inferior a um ano, têm a duração conforme a opção tarifária contratada.
 
@@ -1514,7 +1521,7 @@ e) Dia a partir do qual pode ocorrer a redução de potência e a interrupção.
 
 10 - Nos casos previstos na alínea h) do n.º 1 do artigo anterior, a antecedência mínima deve ter em conta as perturbações causadas e as ações necessárias para as eliminar.
 
-11 - No caso dos clientes em Baixa Tensão Normal ou com consumo anual de gás inferior ou igual a 10 000 m3 (n), a interrupção do fornecimento por facto imputável ao cliente não pode ter lugar no último dia útil da semana ou na véspera de um feriado, salvo nos casos previstos nas alíneas f) e h) do n.º 1 do artigo anterior.
+11 - No caso dos clientes em Baixa Tensão Normal ou com consumo anual de gás inferior ou igual a 10 000 m3 (n), a interrupção do fornecimento por facto imputável ao cliente não pode ter lugar no último dia útil da semana ou na véspera de um feriado, salvo nos casos previstos nas alíneas f) e g) do n.º 1 do artigo anterior.
 
 12 - O pré-aviso deve ser enviado pelo comercializador, salvo nos casos das alíneas c), d), e), h) e k) do n.º 1 do artigo anterior, em que o dever de envio é do operador da rede.
 

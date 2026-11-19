@@ -85,6 +85,12 @@
      "title": "Decreto-Lei n.º 42/97",
      "published": "1997-02-07",
      "dre_path": "/dr/detalhe/decreto-lei/42-1997-559038"
+    },
+    {
+     "id": "pt:dre:165071:por",
+     "title": "Declaração de Rectificação n.º 22/94",
+     "published": "1994-02-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/22-1994-165071"
     }
    ],
    "changes": [
@@ -104,7 +110,9 @@
     "Revoga Artigo 9.º",
     "Revoga Artigo 10.º",
     "Revoga Artigo 52.º",
-    "Revoga Artigo 2.º"
+    "Revoga Artigo 2.º",
+    "Retifica Artigo 21",
+    "Retifica Artigo 57"
    ],
    "fragments": [
     "b4280199992a8d66",
@@ -128,7 +136,7 @@
     "9792639543f685e9",
     "3933627e29b92f31",
     "f3ff0376cff057bd",
-    "96b9839925536c8d",
+    "800464da96bf7f63",
     "66c823ab5d3aad4b",
     "5619cc380d3c0746",
     "8f671c957aae577a",
@@ -164,7 +172,7 @@
     "3a34f456352dcff1",
     "da9ae071374720bc",
     "5815931bbd49b3e5",
-    "28b68de01ffce1bc"
+    "03ab94f83df717cf"
    ]
   }
  ],
@@ -673,6 +681,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 57.º — Legislação revogada\n\nSão revogados pelo presente diploma:\n\na) Os artigos 1.º a 15.º, 17.º a 26.º, 28.º, 29.º, 37.º e 39.º a 45.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro;\n\nb) Os artigos 1.º a 30.º, 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, as alíneas a) e b) do n.º 1 do artigo 48.º, o artigo 49.º, as alíneas b) e d) do artigo 50.º e os artigos 51.º, 54.º a 66.º, 69.º, 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 109.º e 111.º a 114.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio;\n\nc) Os artigos 1.º a 12.º, o n.º 2 do artigo 13.º e os artigos 14.º a 32.º e 41.º a 51.º do [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro;\n\nd) O [Decreto Regulamentar n.º 16/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1985-327138), de 28 de Fevereiro;\n\ne) O [Decreto Regulamentar n.º 41/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1987-419594), de 2 de Julho;\n\nf) O [Decreto-Lei n.º 6/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1988-283367), de 15 de Janeiro;\n\ng) O [Decreto Regulamentar n.º 40/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1988-357732), de 18 de Novembro;\n\nh) O [Decreto Regulamentar n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1989-619281), de 18 de Agosto;\n\ni) O [Decreto Regulamentar n.º 1/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1990-313798), de 10 de Janeiro;\n\nj) O [Decreto Regulamentar n.º 10/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1992-497436), de 4 de Maio.\n\nVisto e aprovado em Conselho de Ministros de 5 de Agosto de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Jorge Braga de Macedo.\n\nPromulgado em 23 de Novembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 24 de Novembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa anexo a que se refere o n.º 4 do artigo 38.º\n\nQuadro de pessoal dirigente e chefia tributária da DGCI\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/290a00/69286943.pdf)"
   },
+  "800464da96bf7f63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Direcção de Serviços de Gestão de Recursos Humanos",
+   "in_force_from": "1997-02-12",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 22/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-1994-165071), publicado em 1994-02-28."
+   ],
+   "markdown": "###### Artigo 21.º — Direcção de Serviços de Gestão de Recursos Humanos\n\n1 - À DSGRH incumbe:\n\na) Coordenar e assegurar a gestão dos recursos humanos da DGCI, nomeadamente a gestão previsional do quadro de pessoal;\n\nb) Propor a adopção de políticas e técnicas de gestão racional dos recursos humanos, com vista à sua valorização e adequação às necessidades da DGCI;\n\nc) Programar, organizar e acompanhar a realização de acções de recrutamento e selecção, assegurando os respectivos trâmites processuais e prestando apoio aos júris dos concursos;\n\nd) Assegurar a aplicação uniforme das disposições legais relativas ao recrutamento, selecção, provimento, progressão e cessação da relação jurídica de emprego;\n\ne) Proceder à definição de normas e programar e organizar a mobilidade interna dos funcionários;\n\nf) Organizar e assegurar a actualização do registo central dos funcionários e agentes da DGCI e dos respectivos processos individuais, bem como o seu arquivo;\n\ng) Assegurar os procedimentos administrativos relativos à constituição, modificação e extinção da relação jurídica de emprego, bem como, em colaboração com os demais serviços da DGCI, a mobilidade, assiduidade, férias e licenças e benefícios sociais dos funcionários;\n\nh) Elaborar o balanço social.\n\n2 - A DSGRH compreende as seguintes unidades orgânicas:\n\na) Divisão de Gestão de Pessoal, que exerce as competências a que se referem as alíneas a), b) e e) do número anterior;\n\nb) Divisão de Recrutamento e Selecção, que exerce as competências a que se referem as alíneas c) e d) do número anterior;\n\nc) Repartição de Administração de Pessoal, que exerce as competências a que se referem as alíneas f), g) e h) do número anterior e compreende a Secção de Pessoal, a Secção de Expediente e Cadastro e a Secção de Assiduidade e Aposentação e ainda duas Secções de Pessoal, a funcionar uma junto das áreas funcionais dos impostos sobre o rendimento, dos impostos sobre o património e da informática tributária e outra junto da área funcional do imposto sobre o valor acrescentado.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 22/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-1994-165071), publicado em 1994-02-28."
+  },
   "136f80f3a630a054": {
    "fragment_id": null,
    "type": null,
@@ -792,6 +810,14 @@
     "Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
    ],
    "markdown": "###### Artigo 55.º — Alterações de legislação\n\n1 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:\n\n'Artigo 52.º\n\nNomeação\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n2 - Na falta de candidatos com a classificação indicada nas alíneas a) e b) do número anterior, poderão ser admitidos às provas de selecção para juristas e economistas candidatos licenciados nos cursos aí previstos com classificação não inferior a 14 valores ou a Bom e aprovação em mestrado.\n\n2 - O artigo 2.º do [Decreto-Lei n.º 434/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/434-1991-331853), de 8 de Novembro, passa a ter a seguinte redacção:\n\n'Artigo 2.º\n\nFuncionários das câmaras municipais\n\n1 - Os funcionários pertencentes aos quadros de pessoal das câmaras municipais que passaram a exercer funções nos serviços dos juízos dos tribunais tributários referidos no artigo precedente com as categorias de oficial administrativo, escriturário-dactilógrafo, telefonista, auxiliar administrativo e auxiliar de serviços gerais são integrados no quadro de pessoal da DGCI, sendo-lhes aplicável o disposto no artigo 36.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...'\n\n> Alterado pelo/a [Decreto-Lei n.º 42/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038), publicado em 1997-02-07."
+  },
+  "03ab94f83df717cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Legislação revogada\n\nSão revogados pelo presente diploma:\n\na) Os artigos 1.º a 15.º, 17.º a 26.º, 28.º, 29.º, 37.º e 39.º a 45.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro;\n\nb) Os artigos 1.º a 30.º, 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, as alíneas a) e b) do n.º 1 do artigo 48.º, o artigo 49.º, as alíneas b) e d) do artigo 50.º e os artigos 51.º, 54.º a 66.º, 69.º, 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 104.º, 105.º, excepto o n.º 1, alínea a), 106.º a 109.º e 111.º a 114.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio;\n\nc) Os artigos 1.º a 12.º, o n.º 2 do artigo 13.º e os artigos 14.º a 32.º e 41.º a 51.º do [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro;\n\nd) O [Decreto Regulamentar n.º 16/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1985-327138), de 28 de Fevereiro;\n\ne) O [Decreto Regulamentar n.º 41/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1987-419594), de 2 de Julho;\n\nf) O [Decreto-Lei n.º 6/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1988-283367), de 15 de Janeiro;\n\ng) O [Decreto Regulamentar n.º 40/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1988-357732), de 18 de Novembro;\n\nh) O [Decreto Regulamentar n.º 26/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1989-619281), de 18 de Agosto;\n\ni) O [Decreto Regulamentar n.º 1/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1990-313798), de 10 de Janeiro;\n\nj) O [Decreto Regulamentar n.º 10/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1992-497436), de 4 de Maio.\n\nVisto e aprovado em Conselho de Ministros de 5 de Agosto de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Jorge Braga de Macedo.\n\nPromulgado em 23 de Novembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 24 de Novembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa anexo a que se refere o n.º 4 do artigo 38.º\n\nQuadro de pessoal dirigente e chefia tributária da DGCI\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/290a00/69286943.pdf)"
   }
  }
 }

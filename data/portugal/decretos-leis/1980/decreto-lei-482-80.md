@@ -53,11 +53,14 @@ version_history:
     changes: []
   - date: '1987-10-26'
     amending: pt:dre:179993:por
-    amending_title: Decreto-Lei n.º 305/85; Decreto-Lei n.º 340/87
+    amending_title: Decreto-Lei n.º 305/85; Decreto-Lei n.º 340/87; Declaração
     changes:
     - Altera Artigo 5.º
     - Altera Artigo 9.º
     - Altera Artigo 11.º
+    - Retifica Artigo 1
+    - Retifica Artigo 9
+    - Retifica Artigo 11
 identifiers:
   celex: null
   eli: null
@@ -84,7 +87,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:33:30Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 305/85; Decreto-Lei
-    n.º 340/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-482-80.alteracoes.json'
+    n.º 340/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-482-80.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,7 +171,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ###### Artigo 1.º
 
-Para efeitos do presente diploma, considera-se whisky a bebida espirituosa com aroma e sabor próprios, proveniente do destilado obtido de mosto de cereais fermentado, sacrificado pela diástase do malte nele contido, com ou sem outras diástases naturais.
+Para efeitos do presente diploma, considera-se whisky a bebida espirituosa com aroma e sabor próprios, proveniente do destilado obtido de mosto de cereais fermentado, sacarificado pela diástase do malte nele contido, com ou sem outras diástases naturais.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-458237), publicado em 1980-11-18.
 
 ###### Artigo 2.º
 
@@ -249,7 +255,7 @@ b) As iniciais do engarrafador autorizado;
 
 c) A marca do fabricante da garrafa.
 
-5 - A AGA manterá um registo dos recipientes com as características referidas no número anterior, remetidas pelos fabricantes aos respectivos engarrafadores, tendo estes um registo das entradas, saídas e existências daqueles tipos de recipientes.
+5 - A AGA manterá um registo dos recipientes com as características referidas no número anterior, remetidos pelos fabricantes aos respectivos engarrafadores, tendo estes um registo das entradas, saídas e existências daqueles tipos de recipientes.
 
 6 - Os rótulos a apor nos recipientes devem obedecer aos seguintes requisitos:
 
@@ -293,7 +299,7 @@ b) As iniciais do engarrafador autorizado;
 
 c) A marca do fabricante da garrafa.
 
-5 - A AGA manterá um registo dos recipientes com as características referidas no número precedente, remetidas pelos fabricantes aos respectivos engarrafadores, tendo estes um registo das entradas, saídas e existências daqueles tipos de recipientes.
+5 - A AGA manterá um registo dos recipientes com as características referidas no número precedente, remetidos pelos fabricantes aos respectivos engarrafadores, tendo estes um registo das entradas, saídas e existências daqueles tipos de recipientes.
 
 6 - Os rótulos a apor nos recipientes devem obedecer aos seguintes requisitos:
 

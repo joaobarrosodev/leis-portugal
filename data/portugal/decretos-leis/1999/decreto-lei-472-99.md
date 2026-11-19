@@ -54,9 +54,15 @@ version_history:
     changes: []
   - date: '2000-04-04'
     amending: pt:dre:679669:por
-    amending_title: Lei n.º 3-B/2000
+    amending_title: Lei n.º 3-B/2000; Declaração de Rectificação n.º 4-C/2000
     changes:
     - Altera Artigo 9.º
+    - Retifica Artigo 1
+    - Retifica Artigo 2
+    - Retifica Artigo 3
+    - Retifica Artigo 4
+    - Retifica Artigo 5
+    - Retifica Artigo 6
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/472/1999/11/08/p/dre/pt/html
@@ -83,7 +89,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:13:33Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 3-B/2000. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-472-99.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-472-99.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 4-C/2000.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -542,7 +549,7 @@ Artigo 84.º
 
 [...]
 
-1 - A liquidação do IRS, ainda que adicional, bem como a reforma da liquidação só podem efectuar-se no prazo e nos termos previstos nos artigos 45.º e 46.º da lei geral tributária.
+1 - A liquidação do IRS, ainda que adicional, bem como a reforma da liquidação efectua-se nos prazos e nos termos previstos nos artigos 45.º e 46.º da lei geral tributária.
 
 2 - Em caso de ter sido efectuado reporte de resultado líquido negativo, o prazo de caducidade é o do exercício desse direito.
 
@@ -586,7 +593,7 @@ Artigo 96.º
 
 Responsabilidade em caso de substituição
 
-1 - Em caso de substituição tributária, a entidade obrigada à retenção é responsável pelas importâncias retidas e não entregues nos cofres do Estado, ficando o substituto desobrigado de qualquer responsabilidade no seu pagamento, sem prejuízo do disposto nos números seguintes.
+1 - Em caso de substituição tributária, a entidade obrigada à retenção é responsável pelas importâncias retidas e não entregues nos cofres do Estado, ficando o substituído desobrigado de qualquer responsabilidade no seu pagamento, sem prejuízo do disposto nos números seguintes.
 
 2 - Quando a retenção for efectuada meramente a título de pagamento por conta de imposto devido a final, cabe ao substituído a responsabilidade originária pelo imposto não retido e ao substituto a responsabilidade subsidiária, ficando este ainda sujeito aos juros compensatórios devidos desde o termo do prazo de entrega até ao termo do prazo da apresentação da declaração pelo responsável originário ou até à data da entrega do imposto retido, se anterior.
 
@@ -614,9 +621,9 @@ Artigo 124.º
 
 1 - A fiscalização das normas do presente Código rege-se pelo disposto no artigo 63.º da lei geral tributária, no regime complementar do procedimento de inspecção tributária, aprovado pelo artigo 1.º do [Decreto-Lei n.º 413/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1998-285557), de 31 de Dezembro, e, ainda, no presente artigo e no artigo 125.º
 
-2 - (Actual n.º 2.)
+2 - (Actual n.º 1.)
 
-3 - (Actual n.º 3.)
+3 - (Actual n.º 2.)
 
 Artigo 125.º
 
@@ -635,6 +642,8 @@ Artigo 125.º
 6 - ...»
 
 2 - São revogados os artigos 70.º e 87.º do CIRS.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 4-C/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-c-2000-596725), publicado em 2000-01-31.
 
 ###### Artigo 2.º — Código do Imposto sobre o Rendimento das Pessoas Colectivas
 
@@ -692,7 +701,7 @@ Aplicação de métodos indirectos
 
 1 - A aplicação de métodos indirectos efectuar-se-á nos casos e condições previstos nos artigos 87.º a 89.º da lei geral tributária.
 
-2 - O atraso na execução dos livros e registos contabilísticos, bem como a sua não exibição imediata, só darão lugar à aplicação de métodos indirectos após o decurso do prazo fixado para a sua regularização ou apresentação sem que se mostre cumprida a obrigação.
+2 - O atraso na execução dos livros e registos contabilísticos, bem como a sua não exibição imediata, só darão lugar à aplicação de métodos indirectos após o decurso do prazo fixado para a sua regularização ou apresentação, sem que se mostre cumprida a obrigação.
 
 3 - (Actual n.º 4.)
 
@@ -742,7 +751,7 @@ Artigo 80.º
 
 [...]
 
-1 - Sempre que, por facto imputável ao sujeito passivo, for retardada a liquidação de parte ou da totalidade do imposto devido ou a entrega do imposto a pagar antecipadamente ou a reter no âmbito da substituição tributária ou obtido reembolso indevido, acrescerão ao montante do imposto juros compensatórios à taxa e nos termos previstos no artigo 35.º da lei geral tributária.
+1 - Sempre que, por facto imputável ao sujeito passivo, for retardada a liquidação de parte ou da totalidade do imposto devido ou a entrega do imposto a pagar antecipadamente, ou retido ou a reter no âmbito da substituição tributária ou obtido reembolso indevido, acrescerão ao montante do imposto juros compensatórios à taxa e nos termos previstos no artigo 35.º da lei geral tributária.
 
 2 - Serão igualmente devidos juros compensatórios nos termos do número anterior pela entrega fora do prazo ou pela falta de entrega, total ou parcial, do pagamento especial por conta.
 
@@ -772,7 +781,7 @@ d) ...
 
 e) ...
 
-2 - Não se procederá à anulação quando o seu quantitativo seja inferior a 2000$00 ou, no caso de o imposto já tiver sido pago, tenha decorrido o prazo de revisão oficiosa do acto tributário previsto no artigo 78.º da lei geral tributária.
+2 - Não se procederá à anulação quando o seu quantitativo seja inferior a 2000$00 ou, no caso do imposto já tiver sido pago, tenha decorrido o prazo de revisão oficiosa do acto tributário previsto no artigo 78.º da lei geral tributária.
 
 Artigo 82.º
 
@@ -940,7 +949,7 @@ Artigo 75.º
 
 1 - Das decisões a que se referem o n.º 3 do artigo 34.º, o n.º 8 do artigo 40.º, o n.º 3 do artigo 53.º, o n.º 5 do artigo 55.º, o artigo 56.º, o n.º 4 do artigo 58.º, o n.º 4 do artigo 60.º e o n.º 5 do artigo 63.º poderá o sujeito passivo recorrer hierarquicamente, nos termos do Código de Processo Tributário.
 
-2 - Aos recursos hierárquicos referidos no número anterior aplica-se o disposto na lei geral tributária, tendo sempre efeito suspensivo quando respeitarem às decisões referidas no artigo 56.º e no n.º 1 do artigo 58.º
+2 - Aos recursos hierárquicos referidos no número anterior aplica-se o disposto na lei geral tributária, tendo sempre efeito suspensivo quando respeitarem às decisões referidas no artigo 56.º e no n.º 4 do artigo 58.º
 
 3 - (Anterior n.º 2.)
 
@@ -960,7 +969,7 @@ Artigo 78.º
 
 Artigo 82.º
 
-1 - Sem prejuízo do disposto no artigo 84.º, o chefe de repartição de finanças procederá à rectificação das declarações dos sujeitos passivos quando fundamentalmente considere que nelas figure um imposto inferior ou uma dedução superior aos devidos, liquidando-se adicionalmente a diferença.
+1 - Sem prejuízo do disposto no artigo 84.º, o chefe de repartição de finanças procederá à rectificação das declarações dos sujeitos passivos quando fundamentalmente considere que nelas figura um imposto inferior ou uma dedução superior aos devidos, liquidando-se adicionalmente a diferença.
 
 2 - ...
 
@@ -1108,7 +1117,7 @@ Artigo 155.º
 
 § 1.º ...
 
-§ 2.º São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Procedimento e de Processo Tributário.
+§ 2.º São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Processo Tributário.
 
 Artigo 179.º
 
@@ -1132,7 +1141,7 @@ Quando, por facto imputável ao sujeito passivo, não se efectuar o pagamento do
 
 «Artigo 21.º
 
-Caducidade do direito à liquidação
+Caducidade do direito à liquidação e revisão oficiosa
 
 1 - Só poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos prazos e termos previstos nos artigos 45.º e 46.º da lei geral tributária.
 
@@ -1198,7 +1207,7 @@ Quando, por facto imputável ao sujeito passivo, for retardada a liquidação de
 
 Artigo 14.º
 
-Só poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos prazos e termos previstos nos artigos 45.º e 46.º da lei geral tributária, contando-se o respectivo prazo a partir da data em que tiver sido emitido o alvará de licença de construção ou da obra.
+Só poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos prazos e termos previstos nos artigos 45.º e 46.º da lei geral tributária, contando-se o respectivo prazo a partir da data em que tiver sido emitido o alvará de licença de construção ou de obra.
 
 Artigo 23.º
 
@@ -1262,7 +1271,7 @@ Artigo 26.º
 
 2 - ...
 
-3 - São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Procedimento e de Processo Tributário.
+3 - São devidos juros indemnizatórios nos termos do artigo 43.º da lei geral tributária e são liquidados e pagos nos termos do Código de Processo Tributário.
 
 Artigo 27.º
 

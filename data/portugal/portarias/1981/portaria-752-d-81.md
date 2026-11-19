@@ -44,10 +44,11 @@ version_history:
     changes: []
   - date: '1985-12-08'
     amending: pt:dre:170506:por
-    amending_title: Portaria n.º 924/85
+    amending_title: Portaria n.º 924/85; Declaração
     changes:
     - Altera Artigo unidades 18-18
     - Altera Artigo unidades 19-20
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:53:56Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 924/85. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-752-d-81.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-752-d-81.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,7 +155,9 @@ Manda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo
 
 4 - Os preços a contratar não poderão ser superiores a um valor CIF máximo a publicar regularmente por despacho do Ministro do Comércio e Turismo ou, na falta, à média aritmética do London Daily Price para rama com 96º de polarização do mês anterior ao embarque.
 
-5 - Cada empresa refinadora indicará à AGA, até 15 de Outubro de cada ano, qual a parte da sua quota anual que tenciona utilizar no ano seguinte e por cuja importação se responsabiliza.
+5 - Cada empresa refinadora indicará à AGA, até 30 de Setembro de cada ano, qual a parte da sua quota anual que tenciona utilizar no ano seguinte e por cuja importação se responsabiliza.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-561612), publicado em 1981-10-07.
 
 6 - A AGA, depois de conhecida a posição de cada empresa refinadora e com a sua colaboração, elaborará o plano global de importações que assegure a regularidade do abastecimento, plano esse que será submetido à aprovação do Ministro do Comércio e Turismo até 15 de Outubro.
 

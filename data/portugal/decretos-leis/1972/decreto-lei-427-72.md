@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1975-04-12'
     amending: pt:dre:161890:por
-    amending_title: Decreto-Lei n.º 195/75
+    amending_title: Decreto-Lei n.º 195/75; Declaração
     changes:
     - Altera Artigo 5.º
+    - Retifica Artigo 10
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:24:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 195/75. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-427-72.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-427-72.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -414,11 +416,13 @@ t) Um representante do Ministério do Ultramar.
 
 3.ª Cereais forrageiros.
 
-2. Os vogais do conselho geral indicados nas alíneas b), c), e), f), g), h), j), m), n) e o) do n.º 1 do artigo 8.º pertencem à 1.ª secção, os referidos nas alíneas d), i), m), n) e o) à 2.ª secção e os das alíneas b), c), e), l) e q) à dos cereais forrageiros, sendo comuns a todas as secções os rias alíneas a), h), r), s) e t).
+2. Os vogais do conselho geral indicados nas alíneas b), c), e), f), g), h), j), m), n) e o) do n.º 1 do artigo 8.º pertencem à 1.ª secção, os referidos nas alíneas d), i), m), n) e o) à 2.ª secção e os das alíneas b), c), e), l) e q) à dos cereais forrageiros, sendo comuns a todas as secções os das alíneas a), p), r), s) e t).
 
 3. Às reuniões das secções podem comparecer todos os membros da direcção ou apenas aquele ou aqueles que forem designados pelo presidente da direcção.
 
 4. Por portaria do Secretário de Estado do Comércio podem ser criadas novas secções, modificadas as existentes ou alterada a sua composição.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1972-685607), publicado em 1972-12-27.
 
 ###### Artigo 11.º
 

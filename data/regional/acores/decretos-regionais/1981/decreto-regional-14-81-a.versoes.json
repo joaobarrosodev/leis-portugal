@@ -23,14 +23,21 @@
      "title": "Decreto Legislativo Regional n.º 29/2003/A",
      "published": "2003-06-24",
      "dre_path": "/dr/detalhe/decreto-legislativo-regional/29-2003-692433"
+    },
+    {
+     "id": "pt:dre:577932:por",
+     "title": "Declaração",
+     "published": "1981-08-27",
+     "dre_path": "/dr/detalhe/declaracao/1981-577932"
     }
    ],
    "changes": [
-    "Altera Artigo 2.º"
+    "Altera Artigo 2.º",
+    "Retifica Artigo 1"
    ],
    "fragments": [
     "eb99551428474266",
-    "af2ceb12a2581cc8",
+    "6bf611fdbab0ca79",
     "93433a09511630e6",
     "a46e7d5bdc450eb0"
    ]
@@ -53,13 +60,15 @@
    "changed_by": [],
    "markdown": "de 13 de Julho\n\nCritérios para elevação de freguesias a vilas\n\nA Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:"
   },
-  "af2ceb12a2581cc8": {
+  "6bf611fdbab0ca79": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 1.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 1.º\n\nNa Região Autónoma dos Açores, a atribuição da categoria de vila a freguesia da Região obedecerá, cumulativamente, aos seguintes requisitos:\n\na) Terem uma população não inferior a 2000 habitantes;\n\nb) Terem 50% da população activa afecta aos sectores secundário e terciário;\n\nc) Serem detentoras de notável passado histórico e artístico;\n\nd) Possuírem desenvolvimento comercial, industrial e cultural manifestamente superior ao das freguesias vizinhas;\n\ne) Disporem do indispensável saneamento básico."
+   "in_force_from": "2003-06-25",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-577932), publicado em 1981-08-27."
+   ],
+   "markdown": "###### Artigo 1.º\n\nNa Região Autónoma dos Açores, a atribuição da categoria de vila a freguesias da Região obedecerá, cumulativamente, aos seguintes requisitos:\n\na) Terem uma população não inferior a 2000 habitantes;\n\nb) Terem 50% da população activa afecta aos sectores secundário e terciário;\n\nc) Serem detentoras de notável passado histórico e artístico;\n\nd) Possuírem desenvolvimento comercial, industrial e cultural manifestamente superior ao das freguesias vizinhas;\n\ne) Disporem do indispensável saneamento básico.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1981-577932), publicado em 1981-08-27."
   },
   "93433a09511630e6": {
    "fragment_id": null,

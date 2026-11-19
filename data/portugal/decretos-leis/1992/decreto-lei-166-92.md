@@ -53,10 +53,11 @@ version_history:
     changes: []
   - date: '1995-05-10'
     amending: pt:dre:257601:por
-    amending_title: Lei n.º 15/93; Decreto-Lei n.º 88/95
+    amending_title: Lei n.º 15/93; Decreto-Lei n.º 88/95; Declaração de Rectificação n.º 168/92
     changes:
     - Altera Artigo 6.º
     - Altera Artigo 8.º
+    - Retifica Artigo 11
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/166/1992/08/05/p/dre/pt/html
@@ -83,7 +84,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:17:00Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 15/93; Decreto-Lei n.º 88/95.
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-166-92.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-166-92.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 168/92.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -281,9 +284,11 @@ A avaliação curricular a que se referem a alínea b) do n.º 3 e a alínea b) 
 
 5 - As escolas superiores de enfermagem devem elaborar a respectiva proposta de quadro transitório, no prazo previsto no n.º 3, do qual constarão os lugares, a extinguir quando vagarem, de enfermeiro-professor, enfermeiro assistente e enfermeiro-monitor correspondentes aos enfermeiros destas categorias que não reúnam condições para transitar, nos termos do artigo 8.º
 
-6 - Para efeitos do disposto nos n.os 7, 9 e 10 do artigo 8.º devem ser criados, se necessário, os correspondentes lugares no quadro.
+6 - Para efeitos do disposto nos n.os 7, 10 e 11 do artigo 8.º devem ser criados, se necessário, os correspondentes lugares no quadro.
 
 7 - Na adequação dos quadros referida no n.º 3 deverão ainda ser previstos lugares de professor-adjunto ou de professor-coordenador em número igual ao que resultar da extinção de lugares operada por força da aplicação do disposto nos n.os 2 e 5, só podendo aqueles ser preenchidos à medida que estes últimos se forem extinguindo.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 168/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/168-1992-340874), publicado em 1992-10-31.
 
 ###### Artigo 12.º — Listas de pessoal
 

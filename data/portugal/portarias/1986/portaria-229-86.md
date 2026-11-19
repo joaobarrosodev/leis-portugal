@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '1986-09-02'
     amending: pt:dre:219143:por
-    amending_title: Portaria n.º 472/86
+    amending_title: Portaria n.º 472/86; Declaração
     changes:
     - Altera Artigo unidades 14-15
     - Altera Artigo unidades 18-23
@@ -64,6 +64,7 @@ version_history:
     - Altera Artigo unidades 44-44
     - Altera Artigo unidades 47-47
     - Altera Artigo unidades 61-61
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -90,7 +91,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:43:13Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 472/86. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-229-86.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-229-86.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,7 +174,9 @@ c) Âmbito do crédito bonificável - o montante determinado pelo valor das fact
 
 d) Termo de utilização do crédito - o momento em que o mutuário conclui o levantamento dos fundos postos à sua disposição.
 
-Verificação dos incentivos
+Verificação dos investimentos
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-348116), publicado em 1986-08-30.
 
 3.º Compete ao promotor do investimento fornecer à entidade a quem tenha sido apresentado o processo de candidatura ao SIII, no prazo de 180 dias, contados a partir do termo da realização do investimento, ou da entrada em vigor da presente portaria, se já ultrapassado aquele prazo, os seguintes elementos:
 
@@ -330,7 +334,7 @@ Mapa modelo n.º 2
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12091217.pdf)
 
-(nota a) Os bens de equipamento adquiridos em estado de uso deverão igualmente constar de listagem individualizada de idêntico modelo, a anexar.
+(nota a) Os bens de equipamento adquiridos em estado de uso, bem como os restantes elementos de activo fixo corpóreo, deverão igualmente constar de listagem individualizada de idêntico modelo, a anexar.
 
 2 - Equipamento de origem externa (ver nota a)
 

@@ -23,10 +23,17 @@
      "title": "Declaração de Rectificação n.º 103/94",
      "published": "1994-07-30",
      "dre_path": "/dr/detalhe/declaracao-rectificacao/103-1994-667960"
+    },
+    {
+     "id": "pt:dre:345974:por",
+     "title": "Declaração de Rectificação n.º 87/94",
+     "published": "1994-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/87-1994-345974"
     }
    ],
    "changes": [
-    "Retifica Artigo 146.º"
+    "Retifica Artigo 146.º",
+    "Retifica Artigo 92"
    ],
    "fragments": [
     "7cbf649a70d52297",
@@ -34,7 +41,7 @@
     "98d1495873d96ded",
     "63fd1ca39e8a794e",
     "769651b81c659526",
-    "d6e4ad5288a75069",
+    "95460fd7d3321319",
     "7672779cca605a4e",
     "be86a82248be3c4e"
    ]
@@ -89,13 +96,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 40.º\n\nAs taxas do imposto sobre as sucessões e doações são as seguintes:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/106a00/23682369.pdf)\n\n§ único. ..."
   },
-  "d6e4ad5288a75069": {
+  "95460fd7d3321319": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 92.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 92.º\n\nSó poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeitos.\n\n§ 1.º (Revogado.)\n\n§ 2.º Se forem entregues ao ausente quaisquer bens por cuja aquisição não lhe tenha ainda sido liquidado imposto, os 10 anos contar-se-ão desde a data da entrega.\n\n§ 3.º Sendo desconhecida a quota do co-herdeiro alheador, para efeitos do artigo 52.º, ou suspendendo-se o processo de liquidação, nos termos dos artigos 84.º e 85.º, aos 10 anos acrescerá o tempo por que o desconhecimento ou a suspensão tiverem durado."
+   "in_force_from": "1994-07-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 87/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/87-1994-345974), publicado em 1994-06-30."
+   ],
+   "markdown": "###### Artigo 92.º\n\nSó poderá ser liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações nos 10 anos seguintes à transmissão ou à data em que a isenção ficou sem efeito.\n\n§ 1.º (Revogado.)\n\n§ 2.º Se forem entregues ao ausente quaisquer bens por cuja aquisição não lhe tenha ainda sido liquidado imposto, os 10 anos contar-se-ão desde a data da entrega.\n\n§ 3.º Sendo desconhecida a quota do co-herdeiro alheador, para efeitos do artigo 52.º, ou suspendendo-se o processo de liquidação, nos termos dos artigos 84.º e 85.º, aos 10 anos acrescerá o tempo por que o desconhecimento ou a suspensão tiverem durado.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 87/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/87-1994-345974), publicado em 1994-06-30."
   },
   "7672779cca605a4e": {
    "fragment_id": null,

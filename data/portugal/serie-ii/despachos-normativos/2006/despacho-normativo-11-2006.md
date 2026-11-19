@@ -53,11 +53,12 @@ version_history:
     changes: []
   - date: '2008-03-03'
     amending: pt:dre:2437034:por
-    amending_title: Despacho Normativo n.º 14/2008
+    amending_title: Despacho Normativo n.º 14/2008; Rectificação n.º 1641/2006
     changes:
     - Altera Artigo 6.º
     - Altera Artigo 8.º
     - Altera Artigo ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)
+    - Retifica Artigo 7
 identifiers:
   celex: null
   eli: null
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:24Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 14/2008. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2006/despacho-normativo-11-2006.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2006/despacho-normativo-11-2006.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação n.º 1641/2006.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -216,9 +218,11 @@ b) Disporem de um sistema de contabilidade de matéria ligado à contabilidade f
 
 ###### Artigo 7.º — Comunicações
 
-1 - Os lagares e as unidades de transformação de azeitona de mesa reconhecidos comunicam ao INGA, até ao dia 10 do 2.º mês seguinte a que respeitam, os movimentos relativos ao registo das quantidades entradas, laboradas e saídas e ficam sujeitos ao sistema de controlo a adoptar nos termos do artigo 11.º do presente despacho.
+1 - Os lagares e as unidades de transformação de azeitona de mesa reconhecidos comunicam ao INGA, até ao dia 10 do mês seguinte a que respeitam, os movimentos relativos ao registo das quantidades entradas, laboradas e saídas e ficam sujeitos ao sistema de controlo a adoptar nos termos do artigo 11.º do presente despacho.
 
-2 - O INGA comunica ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA), no 1.º dia útil seguinte ao termo do prazo referido no número anterior, os elementos previstos no n.º 1 do presente artigo.
+2 - O INGA comunica ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA), até ao dia 10 do 2.º mês seguinte a que se respeitam, os elementos previstos no n.º 1 do presente artigo.
+
+> Retificado pelo/a [Rectificação n.º 1641/2006](https://diariodarepublica.pt/dr/detalhe/rectificacao/1641-2006-2779911), publicado em 2006-11-06.
 
 ###### Artigo 8.º — Certificados de entrega
 

@@ -51,6 +51,12 @@
      "title": "Lei n.º 64-B/2011",
      "published": "2011-12-30",
      "dre_path": "/dr/detalhe/lei/64-b-2011-243769"
+    },
+    {
+     "id": "pt:dre:596725:por",
+     "title": "Declaração de Rectificação n.º 4-C/2000",
+     "published": "2000-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/4-c-2000-596725"
     }
    ],
    "changes": [
@@ -64,7 +70,8 @@
     "Altera Artigo ANEXO I — Regulamento da Contribuição Especial::28.º",
     "Altera Artigo ANEXO I — Regulamento da Contribuição Especial::2.º",
     "Altera Artigo ANEXO I — Regulamento da Contribuição Especial::3.º",
-    "Altera Artigo ANEXO I — Regulamento da Contribuição Especial::7.º"
+    "Altera Artigo ANEXO I — Regulamento da Contribuição Especial::7.º",
+    "Retifica Artigo 14"
    ],
    "fragments": [
     "010212d50059aeab",
@@ -92,7 +99,7 @@
     "76f276113cc2aa79",
     "7f6b5c3d9b58537d",
     "3212d5aee722a74e",
-    "12183aefd15dd520",
+    "cef1041e847ea46e",
     "a76e0dff35a05e5a",
     "a6c2284d9fea807c",
     "c3ab3663d04dd0e7",
@@ -411,15 +418,16 @@
    "changed_by": [],
    "markdown": "###### Artigo 13.º\n\nNão se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 5000$00."
   },
-  "12183aefd15dd520": {
+  "cef1041e847ea46e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 14.º",
    "in_force_from": "2012-01-01",
    "changed_by": [
-    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08."
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 4-C/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-c-2000-596725), publicado em 2000-01-31."
    ],
-   "markdown": "###### Artigo 14.º\n\nSó poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos prazos e termos previstos nos artigos 45.º e 46.º da lei geral tributária, contando-se o respectivo prazo a partir da data em que tiver sido emitido o alvará de licença de construção ou da obra.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08."
+   "markdown": "###### Artigo 14.º\n\nSó poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos prazos e termos previstos nos artigos 45.º e 46.º da lei geral tributária, contando-se o respectivo prazo a partir da data em que tiver sido emitido o alvará de licença de construção ou de obra.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 4-C/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-c-2000-596725), publicado em 2000-01-31."
   },
   "a76e0dff35a05e5a": {
    "fragment_id": null,

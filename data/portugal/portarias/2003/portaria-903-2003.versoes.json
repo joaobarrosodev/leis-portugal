@@ -42,10 +42,17 @@
      "title": "Portaria n.º 1295/2005",
      "published": "2005-12-19",
      "dre_path": "/dr/detalhe/portaria/1295-2005-467271"
+    },
+    {
+     "id": "pt:dre:344436:por",
+     "title": "Declaração de Rectificação n.º 11-L/2003",
+     "published": "2003-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/11-l-2003-344436"
     }
    ],
    "changes": [
-    "Altera Artigo ANEXO — REGULAMENTO ESPECÍFICO DO APOIO ÀS ACTUAIS INFRA-ESTRUTURAS ASSOCIATIVAS::9.º"
+    "Altera Artigo ANEXO — REGULAMENTO ESPECÍFICO DO APOIO ÀS ACTUAIS INFRA-ESTRUTURAS ASSOCIATIVAS::9.º",
+    "Retifica Artigo 5"
    ],
    "fragments": [
     "5045442c5ab1faa4",
@@ -54,7 +61,7 @@
     "74ec1eb2cc849033",
     "d6882c0660af62a0",
     "6aaf0bfa8870239e",
-    "8d253c17781dd73a",
+    "570ccda28af9683d",
     "5b6a85e3a242ebdc",
     "63bb639fd611198c",
     "9be410e50788038d",
@@ -231,6 +238,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## ANEXO A — Metodologia para a determinação da pontuação final\n\n1.º\n\nProjectos de reforço da capacidade associativa\n\n1 - A valia do projecto será determinada pela soma ponderada das pontuações parcelares obtidas para cada um dos critérios referidos no n.º 1 do artigo 7.º, através da aplicação da seguinte fórmula:\n\nPf = 0,6C1 + 0,4C2\n\n2 - A pontuação do critério C1 e C2 será atribuída nos seguintes termos:\n\nFraco - 0;\n\nMédio - 40;\n\nForte - 70;\n\nMuito forte - 100.\n\n3 - Quando não houver lugar à aplicação do critério C2, a valia do projecto será determinada apenas pela pontuação do critério C1.\n\n4 - Apenas são considerados para efeitos de selecção os projectos que obtenham uma pontuação final (Pf) igual ou superior a 50, sem pontuação nula em qualquer dos critérios."
+  },
+  "570ccda28af9683d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de elegibilidade do projecto",
+   "in_force_from": "2005-12-24",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-L/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-l-2003-344436), publicado em 2003-09-30."
+   ],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade do projecto\n\n1 - São condições de elegibilidade para os projectos de reforço da capacidade associativa as que a seguir se enunciam:\n\na) Enquadrar-se na presente medida de apoio;\n\nb) Inserir-se na estratégia a médio prazo da entidade beneficiária, por forma a assegurar o seu envolvimento nas tomadas de decisão e na execução das medidas relevantes para os agentes económicos, fundamentada através de um diagnóstico e plano de acção de médio prazo, que deverá reflectir a inserção da actividade a desenvolver na estratégia competitiva da sua base (sectorial, regional ou nacional);\n\nc) Apresentar adequação do projecto, incluindo a componente de formação profissional, ao diagnóstico e plano de acção de médio prazo;\n\nd) Apresentar uma descrição anual das acções a desenvolver, de acordo com os objectivos definidos no diagnóstico e plano de acção;\n\ne) Demonstrar através de plano de financiamento devidamente justificado que se encontram asseguradas as fontes de financiamento do projecto;\n\nf) Envolver um montante mínimo de investimento de (euro) 35000/ano civil, com excepção do 1.º ano, caso o investimento aí previsto se limite ao último semestre;\n\ng) Ter recursos humanos qualificados afectos que garantam a sua adequada execução;\n\nh) Não se ter iniciado à data de apresentação da candidatura, com excepção do diagnóstico e plano de acção, concluídos há menos de 80 dias úteis e da sinalização de equipamento há menos de 60 dias úteis, desde que não excedam 15% do valor total das despesas elegíveis do projecto;\n\ni) Ter uma duração máxima de execução de dois anos;\n\nj) O investimento anual não ultrapassar o quádruplo da média dos proveitos globais dos últimos três anos, incluindo o valor das quotizações e deduzindo os subsídios públicos;\n\nk) Demonstrar, quando integrar acções de formação profissional, que o plano de formação se revela coerente e em consonância com os objectivos do projecto e ainda que cumpre os normativos aplicáveis aos apoios no âmbito do FSE;\n\n2 - A verificação da condição constante na alínea e) do número anterior pode ser remetida até à data da assinatura do contrato de concessão de incentivos.\n\n3 - O investimento máximo anual previsto na alínea j) do n.º 1 é calculado:\n\na) Para os projectos de estruturas associativas constituídas há mais de um ano e há menos de três anos, através da média anual dos proveitos globais, incluindo quotizações e excluindo subsídios públicos, desde a data da sua constituição;\n\nb) Para os projectos de estruturas associativas constituídas há menos de um ano o limite máximo de investimento elegível anual é de (euro) 45000.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-L/2003](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-l-2003-344436), publicado em 2003-09-30."
   },
   "73bb7cbb548e5085": {
    "fragment_id": null,

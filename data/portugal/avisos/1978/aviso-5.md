@@ -44,9 +44,10 @@ version_history:
     changes: []
   - date: '1980-10-23'
     amending: pt:dre:462656:por
-    amending_title: Aviso
+    amending_title: Aviso; Declaração
     changes:
     - Altera Artigo unidades 3-4
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T19:36:32Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso. Método e verificação: consolidacao/README.md
-    e consolidacao/piloto/portugal/avisos/1978/aviso-5.alteracoes.json'
+    e consolidacao/piloto/portugal/avisos/1978/aviso-5.alteracoes.json. Retificações aplicadas com um LLM e verificadas às
+    cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,16 +135,6 @@ A necessidade de reforço da selectividade da política de crédito através do 
 
 3.º O disposto nesta determinação do Banco de Portugal entra em vigor em 8 de Maio de 1978.
 
-4.º Nas operações de financiamento correspondentes aos créditos de exportadores nacionais sobre os seus clientes estrangeiros será aplicável o seguinte regime:
-
-a) Nos financiamentos a curto prazo não há lugar a qualquer dedução às taxas de juro estabelecidas no n.º 4.º do Aviso n.º 2/78, de 6 de Maio;
-
-b) Nos financiamentos a médio ou longo prazo deve ser observado o disposto no Estatuto do Fundo de Garantia de Riscos Cambiais, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 418/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1977-278718), de 3 de Outubro.
-
-5.º O Banco de Portugal atribuirá às instituições de crédito intervenientes, mediante a apresentação de documentos comprovativos das operações, a compensação correspondente às bonificações de juros processadas nos termos do presente aviso.
-
-6.º Fica revogado o Aviso n.º 1 do Banco de Portugal, de 13 de Janeiro de 1978.
-
-7.º O disposto nesta determinação do Banco de Portugal entra em vigor em 8 de Maio de 1978.
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-294726), publicado em 1978-06-03.
 
 Ministério das Finanças e do Plano, 6 de Maio de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.

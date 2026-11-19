@@ -23,11 +23,18 @@
      "title": "Decreto-Lei n.º 45094",
      "published": "1963-06-29",
      "dre_path": "/dr/detalhe/decreto-lei/45094-1963-693235"
+    },
+    {
+     "id": "pt:dre:159699:por",
+     "title": "Declaração",
+     "published": "1962-09-08",
+     "dre_path": "/dr/detalhe/declaracao/1962-159699"
     }
    ],
    "changes": [
     "Altera Artigo 2.º",
-    "Altera Artigo 7.º"
+    "Altera Artigo 7.º",
+    "Retifica Artigo 6"
    ],
    "fragments": [
     "b6b2717d62e6fc06",
@@ -36,7 +43,7 @@
     "377b8394395af4b2",
     "65f7e0d845863a4a",
     "efc62bc761f5d5a3",
-    "d3ad78a8ac905552",
+    "94b5ea12f2843a68",
     "5e2a83240255938a",
     "b375cf39ce92b96e",
     "dce7b7b7f0ad2c9f",
@@ -104,13 +111,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 5.º\n\nAs obrigações do empréstimo vencerão o juro de 2,5 por cento ao ano, pagável aos semestres, em 1 de Junho e em 1 de Dezembro.\n\nNos primeiros juros a pagar observar-se-á o disposto no artigo 9.º do [Decreto-Lei n.º 44361](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44361-1962-164401), de 23 de Maio do corrente ano."
   },
-  "d3ad78a8ac905552": {
+  "94b5ea12f2843a68": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\nO empréstimo será amortizado em vinte anuidades iguais, pelo valor nominal dos certificados ou títulos, devendo a primeira amortização dos emitidos durante os anos de 1962, 1963 e 1964 efectuar-se, respectivamente, em 1 de Junho de 1967, em 1 do Junho de 1958 e em 1 de Junho de 1969."
+   "in_force_from": "1963-06-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1962-159699), publicado em 1962-09-08."
+   ],
+   "markdown": "###### Artigo 6.º\n\nO empréstimo será amortizado em vinte anuidades iguais, pelo valor nominal dos certificados ou títulos, devendo a primeira amortização dos emitidos durante os anos de 1962, 1963 e 1964 efectuar-se, respectivamente, em 1 de Junho de 1967, em 1 de Junho de 1968 e em 1 de Junho de 1969.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1962-159699), publicado em 1962-09-08."
   },
   "5e2a83240255938a": {
    "fragment_id": null,

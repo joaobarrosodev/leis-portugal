@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '2013-01-01'
     amending: pt:dre:632448:por
-    amending_title: Lei n.º 66-B/2012
+    amending_title: Lei n.º 66-B/2012; Declaração de Rectificação n.º 10/2006
     changes:
     - Revoga Artigo 4.º
+    - Retifica Artigo 5
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/235/2005/12/30/p/dre/pt/html
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:50:15Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 66-B/2012. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-235-2005.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-235-2005.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 10/2006.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -297,7 +299,7 @@ TABELA ANEXA
 
 (referida no n.º 2 do artigo 4.º)
 
-Regime transitório de acesso ao regime de disponibilidade, de acordo com a idade, do pessoal de investigação criminal da Polícia Judiciária, nos termos vigentes até 31 de Dezembro de 2005, com cessação da prestação de serviço efectivo.
+Regime transitório de aposentação e de acesso ao regime de disponibilidade, de acordo com a idade, do pessoal de investigação criminal da Polícia Judiciária, nos termos vigentes até 31 de Dezembro de 2005, com cessação da prestação de serviço efectivo.
 
 A partir de 1 de Janeiro de 2006 - 55 anos e 6 meses.
 
@@ -316,3 +318,5 @@ A partir de 1 de Janeiro de 2012 - 58 anos e 6 meses.
 A partir de 1 de Janeiro de 2013 - 59 anos.
 
 A partir de 1 de Janeiro de 2014 - 59 anos e 6 meses.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 10/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2006-683851), publicado em 2006-02-15.

@@ -52,10 +52,11 @@ version_history:
     changes: []
   - date: '1979-10-16'
     amending: pt:dre:364908:por
-    amending_title: Despacho Normativo n.º 315/79; Despacho Normativo n.º 317/79
+    amending_title: Despacho Normativo n.º 315/79; Despacho Normativo n.º 317/79; Despacho Normativo n.º 366/79
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 7.º
+    - Retifica Artigo 8
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:54:47Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 315/79; Despacho
-    Normativo n.º 317/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1979/despacho-normativo-297-79.alteracoes.json'
+    Normativo n.º 317/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1979/despacho-normativo-297-79.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Despacho Normativo n.º 366/79.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -304,9 +306,9 @@ b) Ao Instituto de Cooperação Económica;
 
 c) A empresas em que se registou intervenção do Estado;
 
-d) A financiamentos propostos pela Comissão Interministerial de Financiamento a Retornados superiores a 10000 contos;
-
 e) Aos contratos de viabilização.
+
+> Retificado pelo/a [Despacho Normativo n.º 366/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/366-1979-366453), publicado em 1979-12-14.
 
 ###### Artigo 9.º
 

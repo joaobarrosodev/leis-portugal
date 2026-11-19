@@ -567,6 +567,12 @@
      "title": "Decreto-Lei n.º 419/74",
      "published": "1974-09-07",
      "dre_path": "/dr/detalhe/decreto-lei/419-1974-474744"
+    },
+    {
+     "id": "pt:dre:312670:por",
+     "title": "Rectificação",
+     "published": "1967-05-30",
+     "dre_path": "/dr/detalhe/rectificacao/1967-312670"
     }
    ],
    "changes": [
@@ -608,7 +614,10 @@
     "Altera Artigo 28.º",
     "Altera Artigo 31.º",
     "Altera Artigo 32.º",
-    "Altera Artigo 33.º"
+    "Altera Artigo 33.º",
+    "Retifica Artigo 119",
+    "Retifica Artigo 395",
+    "Retifica Artigo 397"
    ],
    "fragments": [
     "35793080815344ba",
@@ -757,7 +766,7 @@
     "ef1b986274c8e07e",
     "dc7256dbfdcf0d22",
     "58253c39e425625e",
-    "7a47897d48ae1c49",
+    "8032de02b9edc135",
     "52a00d56761db0fa",
     "96b8d5cf272f40fa",
     "0d68bb7bea89662e",
@@ -1093,9 +1102,9 @@
     "958862c8757757ef",
     "a02dc3a155a11ad2",
     "5657af5f75c077b9",
-    "50b2251868b7b6a7",
+    "13fb6aaf0387eb6c",
     "e1e49a1e035bbbc0",
-    "922aee15adb8b0ee",
+    "618e2ec7ff1aefa2",
     "1509e35b07bfaeea",
     "aff7e4b60bc0c213",
     "f1a3e81779972897",
@@ -5616,6 +5625,16 @@
    ],
    "markdown": "###### Artigo 117.º — Fundamentos\n\n1. O registo que enferme de alguma irregularidade, deficiência ou inexactidão, que o não torne jurìdicamente inexistente ou nulo, deve ser rectificado.\n\n2. Se o registo houver sido lavrado por inscrição, será rectificado, por averbamento, em virtude de decisão judicial, salvo se a rectificação se mostrar necessária logo após a assinatura do registo; neste caso, será feita, em acto contínuo, por meio de declaração lavrada pelo funcionário em seguimento do registo, e assinada por ele e pelos demais intervenientes no acto.\n\n3. Se a irregularidade, deficiência ou inexactidão se reportar apenas à indicação de algum ou alguns dos elementos de identificação das pessoas a quem o registo respeite, ou que nele hajam sido mencionadas, a rectificação pode ser feita, por averbamento, oficiosamente ou a requerimento dos interessados, mediante despacho do conservador do registo civil detentor do registo irregular, desde que não se suscitem quaisquer dúvidas acerca da identidade dessas pessoas, nem esteja em causa a qualidade da filiação constante de assento de nascimento a rectificar.\n\n4. Quando o registo tiver sido lavrado por transcrição e a irregularidade, deficiência ou inexactidão provier do título que lhe serviu de base, o funcionário providenciará para que a entidade competente a faça corrigir, procedendo depois nos termos do número anterior; se não for possível obter o título correcto, o registo será rectificado mediante justificação judicial.\n\nExceptuam-se do disposto neste número os assentos lavrados com base em acto do registo civil, nacional ou estrangeiro, a cuja rectificação é directamente aplicável o regime estabelecido nos números anteriores.\n\n5. Tratando-se de registo lavrado por transcrição, ou por averbamento, e a irregularidade, deficiência ou inexactidão resultar apenas da desconformidade do registo com o título ou assento que lhe serviu de base, ou se, em qualquer caso, consistir no simples erro de grafia, a rectificação será feita nos termos do n.º 3, devendo sempre que possível ouvir-se, em auto, os interessados.\n\n6. É obrigatória a promoção oficiosa do processo de rectificação de registo sempre que a irregularidade, deficiência ou inexactidão a sanar seja da responsabilidade dos serviços.\n\n7. As menções levadas ao assento de óbito, estranhas à identificação do falecido, podem ser rectificadas oficiosamente, por averbamento, em face de documento que comprove a sua inexactidão.\n\n> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07."
   },
+  "8032de02b9edc135": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 119.º — (Prazo e lugar)",
+   "in_force_from": "1974-09-07",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1967-312670), publicado em 1967-05-30."
+   ],
+   "markdown": "###### Artigo 119.º — (Prazo e lugar)\n\nO nascimento ocorrido em território português deve ser declarado verbalmente, dentro dos trinta dias imediatos, na conservatória ou no posto do registo civil da área do respectivo lugar.\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1967-312670), publicado em 1967-05-30."
+  },
   "25f8bca61d474482": {
    "fragment_id": null,
    "type": null,
@@ -5795,6 +5814,22 @@
     "Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07."
    ],
    "markdown": "###### Artigo 329.º — Participação ao Ministério Público\n\nSe o conservador concluir pela impossibilidade legal de sanar a irregularidade por via administrativa, mas a irregularidade for de natureza a dever ser oficiosamente promovida pelos serviços, deverá suscitar a competente acção ao Ministério Público, nos termos do n.º 2 do artigo 313.º, remetendo-lhe cópia do processo.\n\n> Alterado pelo/a [Decreto-Lei n.º 419/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1974-474744), publicado em 1974-09-07."
+  },
+  "13fb6aaf0387eb6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 395.º — (Certidões isentas de emolumentos e do imposto do selo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 395.º — (Certidões isentas de emolumentos e do imposto do selo)\n\nSão passadas gratuitamente e em papel de formato legal, isento de selo, as certidões requeridas com as seguintes finalidades:\n\na) Para obter o benefício da assistência judiciária, o alistamento no Exército ou na Armada, ou para outros fins de serviço militar;\n\nb) Para fins eleitorais, de assistência ou beneficência, incluindo a obtenção de pensões ou socorros do Estado ou das autarquias locais;\n\nc) Para fins de interesse público, quando requeridas pela autoridade competente;\n\nd) Para trocas internacionais ou fins estatísticos do estado civil;\n\ne) Para instrução de processos por acidentes de trabalho, quando requisitadas pelos tribunais, pelos sinistrados ou seus familiares;\n\nf) Para quaisquer outros fins, quando, por lei especial, sejam declaradas isentas."
+  },
+  "618e2ec7ff1aefa2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 397.º — (Documentos comprovativos da situação económica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 397.º — (Documentos comprovativos da situação económica)\n\n1. As situações abrangidas pelo artigo antecedente devem ser comprovadas por alguns dos seguintes documentos:\n\na) Certidão extraída do recenseamento paroquial, emitida pela junta de freguesia do domicílio ou da residência do interessado;\n\nb) Atestado passado pela mesma entidade ou pelos respectivos regedores ou párocos, na falta de recenseamento actualizado, no qual se especifiquem as condições económicas em que vivem os interessados;\n\nc) Por atestado passado pelos serviços competentes do Ministério da Saúde e Assistência relativamente a indivíduos internados em estabelecimentos dependentes deste Ministério ou sob protecção das suas instituições.\n\n2. Ao conservador do registo civil compete determinar, em face dos elementos constantes do atestado previsto na alínea b) do número anterior, a categoria económica em que deve ser enquadrado o interessado."
   },
   "f3a6606ec241ad02": {
    "fragment_id": null,

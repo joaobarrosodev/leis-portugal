@@ -55,10 +55,11 @@ version_history:
     changes: []
   - date: '1988-04-24'
     amending: pt:dre:285165:por
-    amending_title: Portaria n.º 244/88
+    amending_title: Portaria n.º 244/88; Declaração
     changes:
     - Altera Artigo unidades 11-11
     - Altera Artigo unidades 120-146
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -85,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:47:56Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 244/88. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-405-86.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-405-86.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -241,7 +243,9 @@ c) Até três individualidades nomeadas pelo Ministro da Educação e Cultura.
 
 1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:
 
-a) Classificação da licenciatura a que se refere o n.º 5.º ou de outros graus já obtidos pelo candidato;
+a) Classificação da licenciatura a que se refere o n.º 6.º ou de outros graus já obtidos pelo candidato;
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-148784), publicado em 1986-09-30.
 
 b) Currículo académico, científico e técnico;
 
@@ -249,7 +253,7 @@ c) Experiência docente.
 
 2 - O conselho científico poderá submeter os candidatos à matrícula a provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes ao curso, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciatura ou outras como condição prévia para a candidatura à matrícula do curso.
 
-3 - Os candidatos a que se refere o n.º 3 do n.º 6.º só serão considerados após a selecção dos candidatos a que se referem os n.os 1 e 2 do mesmo número.
+3 - Os candidatos a que se refere o n.º 2 do n.º 6.º só serão considerados após a selecção dos candidatos a que se refere o n.º 1 do mesmo número.
 
 4 - A selecção a que se refere o presente número será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma.
 
@@ -323,11 +327,11 @@ IV) Sociologia da Educação ... 6
 
 Total ... 22
 
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+4 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:
 
 Todas as licenciaturas pelas universidades portuguesas que sejam habilitação própria para a docência no ensino básico ou no ensino secundário.
 
-5 - Especialidades a que se refere o n.º 10.º:
+5 - Especialidades a que se refere o n.º 11.º:
 
 Desenvolvimento Curricular.
 
@@ -369,7 +373,7 @@ IV) Sociologia da Educação ... 2
 
 Total ... 24,5
 
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+4 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:
 
 a) Biologia (ramos de especialização científica e de formação educacional);
 
@@ -385,7 +389,7 @@ f) Geologia (ramos de especialização científica e de formação educacional);
 
 g) Química (ramos de especialização científica e de formação educacional).
 
-5 - Especialidades a que se refere o n.º 10.º:
+5 - Especialidades a que se refere o n.º 11.º:
 
 Metodologia do Ensino das Ciências.
 
@@ -467,11 +471,11 @@ IV) Teoria do Desenvolvimento Curricular ... 3
 
 Total ... 24,5
 
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+4 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:
 
 Todas as licenciaturas pelas universidades portuguesas que sejam habilitação própria para a docência no ensino básico ou no ensino secundário.
 
-5 - Especialidades a que se refere o n.º 10.º:
+5 - Especialidades a que se refere o n.º 11.º:
 
 a) Organização e Administração Escolar;
 
@@ -511,13 +515,13 @@ V) Tecnologia Educativa ... 4
 
 Total ... 22
 
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+4 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:
 
 a) Filosofia;
 
 b) Ciências Histórico-Filosóficas.
 
-5 - Especialidades a que se refere o n.º 10.º:
+5 - Especialidades a que se refere o n.º 11.º:
 
 a) Filosofia da Educação;
 
@@ -559,7 +563,7 @@ VI) Sociologia da Educação ... 3
 
 Total ... 23
 
-4 - Licenciaturas a que se refere o n.º 1 do n.º 5.º:
+4 - Licenciaturas a que se refere o n.º 1 do n.º 6.º:
 
 a) Informática;
 
@@ -585,7 +589,7 @@ k) Ciências Geológicas;
 
 l) Ciências Físico-Químicas.
 
-5 - Especialidades a que se refere o n.º 10.º:
+5 - Especialidades a que se refere o n.º 11.º:
 
 a) Metodologia do Ensino da Matemática;
 

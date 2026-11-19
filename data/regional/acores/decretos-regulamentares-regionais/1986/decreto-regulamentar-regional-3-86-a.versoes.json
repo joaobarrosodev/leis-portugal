@@ -138,6 +138,12 @@
      "title": "Decreto Regulamentar Regional n.º 8/98/A",
      "published": "1998-04-27",
      "dre_path": "/dr/detalhe/decreto-regulamentar-regional/8-1998-176359"
+    },
+    {
+     "id": "pt:dre:301856:por",
+     "title": "Declaração",
+     "published": "1986-03-31",
+     "dre_path": "/dr/detalhe/declaracao/1986-301856"
     }
    ],
    "changes": [
@@ -145,15 +151,19 @@
     "Altera Artigo 37.º",
     "Revoga Artigo 60.º",
     "Altera Artigo 62.º",
-    "Revoga Artigo 67.º"
+    "Revoga Artigo 67.º",
+    "Retifica texto",
+    "Retifica Artigo 2",
+    "Retifica Artigo 44",
+    "Retifica Artigo 79"
    ],
    "fragments": [
-    "116f4f466ddb6c4d",
+    "930a5d2415aedbe0",
     "b6e1e51595203688",
     "e82e298be73417b9",
     "fc60aac71117f603",
     "8edad6226addfd31",
-    "0c91fc55b11f608e",
+    "fe4b41761fede933",
     "a4e10ad05b1aeb1b",
     "5226b0571df29be4",
     "a63bbf27b2199bc3",
@@ -208,7 +218,7 @@
     "9c334c52784ae967",
     "aefbb404bc5e58df",
     "77eb561812f0af75",
-    "2b414edf8e02f82b",
+    "76a14b5668ed45d2",
     "947d2366ec058d66",
     "6c67d1f57aa7fe6a",
     "0c2a64c28152ccf6",
@@ -249,11 +259,11 @@
     "b4ff0ddb3faafb5a",
     "a00c354097d697c9",
     "2395043be19fa136",
-    "7a25fbec798f299d",
+    "a80c001e48e36429",
     "b875836a9026c132",
     "dd3a92de6693ed7a",
     "7b540b2f76a05505",
-    "13494b5b250ad5b5",
+    "ee1ea82efaf48256",
     "63a533227a8942fd",
     "2c6109b8a2a2a43f",
     "59f86506fe4286ec",
@@ -1142,6 +1152,24 @@
    "changed_by": [],
    "markdown": "###### Artigo 86.º — (Remunerações)\n\nO diploma que criar a comissão coordenadora de ilha definirá a forma de remuneração dos seus membros, bem como o quadro de pessoal ao seu serviço.\n\nAprovado em Conselho do Governo Regional em 4 de Novembro de 1985.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 30 de Dezembro de 1985.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
   },
+  "930a5d2415aedbe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1998-04-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301856), publicado em 1986-03-31."
+   ],
+   "markdown": "A descontinuidade geográfica dos Açores aconselha a organização da sua rede de serviços de saúde segundo um modelo de tipo descentralizado, sujeito aos princípios da hierarquização e desconcentração de funções e actividades, cometendo a cada unidade de saúde a prestação dos cuidados tecnologicamente apropriados e de complexidade gradativa.\n\nOs centros de saúde, agora regulamentados na linha do que estabelece o Decreto Regional n.º 32/80/A, de 11 de Dezembro, constituem em cada módulo geográfico, mormente o concelho, base do serviço de saúde que se tem vindo a organizar, designadamente no âmbito da prestação de cuidados de saúde primários ou essenciais. Efectivamente, estando vocacionado para o desenvolvimento de actividades de promoção e protecção da saúde do indivíduo, da família e da comunidade, privilegiando a personalização da relação e aplicando uma tecnologia de natureza preventivo-curativa, de cariz necessariamente eficiente e eficaz, tenderá a ser uma unidade cada vez mais dinâmica na procura das soluções para as situações de saúde por ela identificadas, no âmbito da sua zona de intervenção geográfica.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301856), publicado em 1986-03-31.\n\nPara isso, elaborados os respectivos programas de actividades, executando-os sob a orientação dos respectivos órgãos de gestão e consubstanciando um trabalho de equipa, o centro de saúde deverá fomentar a articulação com outros sectores de actividade, nomeadamente os afins, e deverá estimular a participação da comunidade, com especial relevo dos utilizadores, que são, em suma, os destinatários preferenciais do sistema, sem esquecer que o desenvolvimento das actividades não se confina ao seu espaço físico, antes se estende à escola, à fábrica ou às colectividades grupais, de forma a conseguir a concretização efectiva das acções inerentes a cada objectivo definido e programado.\n\nIsto porque a saúde não é um fenómeno isolado - de sector -, estando, sobretudo, correlacionada com a estrutura económica-social-cultural, como componente de uma qualidade dinâmica de vida, em que ela, a saúde, é o resultado da interacção de vários factores e condições que propiciam o bem estar físico, mental e social do homem, a dever considerar como ente social saudável e, por natureza, útil não apenas a si próprio, mas também aos seus semelhantes e às organizações em que se movimenta.\n\nMas é na família, como célula básica do tecido social, e no seu ambiente envolvente que o centro de saúde terá de encontrar a justificação do seu existir e do seu estar, ao concretizar, nomeadamente, uma política de educação sanitária que vise, por um lado, a modificação de uma herança social, através das alterações de atitudes e de padrões de comportamento individuais, e, por outro, a modificação de alguns elementos ambientais que se vêm revelando como factores de risco de influência determinante na actual situação sanitária dos Açorianos.\n\nAssim:\n\nO Governo Regional decreta, nos termos do artigo 31.º do Decreto Regional n.º 32/80/A, de 11 de Dezembro, e da alínea d) do artigo 229.º da Constituição, o seguinte:"
+  },
+  "fe4b41761fede933": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Princípios de actuação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Princípios de actuação)\n\nA actividade do centro de saúde obedece a regras de gestão por objectivos, o que implica o planeamento das actividades a desenvolver, a nível do seu âmbito de actuação, bem como a participação conjugada, o envolvimento e a responsabilização de utentes e profissionais na preparação e execução de tais medidas, correspondendo, assim, às necessidades do indivíduo e às características de cada comunidade, dentro dos parâmetros da política de saúde definida pelo Governo Regional."
+  },
   "03c5133571b64486": {
    "fragment_id": null,
    "type": null,
@@ -1161,6 +1189,14 @@
     "Alterado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24."
    ],
    "markdown": "###### Artigo 37.º — Caracterização e competência\n\n1 - O sector de atendimento permanente destina-se a corresponder às solicitações dos utentes em situação de urgência que ali acorram, por iniciativa própria ou por recomendação médica, e a caracterizar as situações que tenham de ser encaminhadas para estabelecimentos prestadores de cuidados hospitalares.\n\n2 - O atendimento permanente poderá ser garantido no regime de presença física ou no regime de prevenção previsto no [Decreto-Lei n.º 62/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1979-382997), de 30 de Março, de acordo com o número de utentes abrangidos pelo centro de saúde e os meios humanos disponíveis.\n\n3 - Os profissionais do centro de saúde, quando em actividade de atendimento permanente, assegurarão a resposta à urgência interna, dando o indispensável apoio à unidade de internamento.\n\n4 - Quando o atendimento permanente é assegurado na modalidade de presença física, os profissionais de serviço, nomeadamente o pessoal médico, desenvolverão outras actividades a nível do ambulatório ou do internamento.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24."
+  },
+  "76a14b5668ed45d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — (Meios financeiros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Meios financeiros)\n\n1 - Constituem receitas do centro de saúde:\n\na) As dotações recebidas do orçamento da Região;\n\nb) Os subsídios e comparticipações de qualquer entidade pública ou privada;\n\nc) Os produtos das doações, heranças e legados;\n\nd) As decorrentes de serviços prestados, licenças, multas e taxas sanitárias;\n\ne) Os rendimentos da exploração de quaisquer bens próprios ou de que tenha fruição;\n\nf) O produto da alienação ou cedência de bens ou direitos do seu património;\n\ng) Os bens de fundos capitalizados;\n\nh) Os saldos de gerência de cada ano;\n\ni) Quaisquer outros rendimentos ou verbas não especificados que lhe sejam atribuídos por lei, contrato ou outro título.\n\n2 - Os centros de saúde só poderão proceder a capitalizações de fundos ou à alienação ou cedência de bens ou direitos do seu património mediante autorização dos Secretários Regionais das Finanças e dos Assuntos Sociais."
   },
   "ed975150dda373ed": {
    "fragment_id": null,
@@ -1191,6 +1227,22 @@
     "Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24."
    ],
    "markdown": "###### Artigo 67.º — (Remuneração do regime de alerta)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 6/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945), publicado em 1990-02-24."
+  },
+  "a80c001e48e36429": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — (integração de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — (integração de pessoal)\n\n1 - O pessoal que, à data da publicação deste diploma, exerce funções nos órgãos, serviços e estabelecimentos referidos no artigo 13.º é integrado nos quadros de pessoal do centro de saúde que cobre o concelho onde desenvolve a sua actividade, mediante listas nominativas aprovadas pelos Secretários Regionais dos Assuntos Sociais e da Administração Pública, com dispensa de quaisquer formalidades, salvaguardados os casos previstos no artigo 71.º do presente diploma, o visto ou anotação da Secção Regional do Tribunal de Contas e a publicação no Jornal Oficial da Região Autónoma dos Açores.\n\n2 - Nos casos em que for considerado adequado pode o pessoal referido no número anterior transitar para o quadro de outros estabelecimentos de saúde, nomeadamente dos hospitais da Região."
+  },
+  "ee1ea82efaf48256": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Comissões coordenadoras de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Comissões coordenadoras de ilha"
   }
  }
 }

@@ -53,12 +53,13 @@ version_history:
     changes: []
   - date: '1995-02-27'
     amending: pt:dre:624629:por
-    amending_title: Portaria n.º 1113-A/90; Portaria n.º 154-A/95
+    amending_title: Portaria n.º 1113-A/90; Portaria n.º 154-A/95; Declaração
     changes:
     - Altera Artigo unidades 29-29
     - Adita Artigo depois da unidade 45
     - Altera Artigo unidades 64-64
     - Adita Artigo depois da unidade 87
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -85,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:31:50Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1113-A/90; Portaria
-    n.º 154-A/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-841-a-90.alteracoes.json'
+    n.º 154-A/95. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-841-a-90.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -417,7 +419,9 @@ f) Em caso da extinção da associação ou entidade, doar as instalações adqu
 
 8.1 - Em Janeiro de cada ano, o Instituto remeterá ao CNJ elementos informativos respeitantes aos apoios concedidos no ano anterior a associações juvenis de âmbito nacional.
 
-8.2 - Os serviços envolvidos na concessão do apoio a que se refere o n.º 4.1 devem, no mês de Outubro de cada ano, conjuntamente com as entidades beneficiárias, proceder a eventuais acertos nas acções a desenvolver no âmbito de acordos bilaterais.
+8.2 - Os serviços envolvidos na concessão do apoio a que se refere o n.º 3.1 devem, no mês de Outubro de cada ano, conjuntamente com as entidades beneficiárias, proceder a eventuais acertos nas acções a desenvolver no âmbito de acordos bilaterais.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-689262), publicado em 1990-11-30.
 
 8.3 - Trimestralmente, o Instituto deve remeter aos conselhos consultivos regionais mapas referentes à atribuição de apoios no respectivo distrito.
 

@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '2012-04-17'
     amending: pt:dre:552555:por
-    amending_title: Resolução do Conselho de Ministros n.º 41/2012
+    amending_title: Resolução do Conselho de Ministros n.º 41/2012; Declaração de Rectificação n.º 113/2007
     changes:
     - Altera Artigo unidades 9-9
     - Altera Artigo unidades 11-11
@@ -65,6 +65,7 @@ version_history:
     - Altera Artigo unidades 27-36
     - Altera Artigo unidades 41-42
     - Adita Artigo depois da unidade 45
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/169/2007/10/19/p/dre/pt/html
@@ -91,7 +92,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:54:48Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
-    n.º 41/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2007/resolucao-conselho-ministros-169-2007.alteracoes.json'
+    n.º 41/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2007/resolucao-conselho-ministros-169-2007.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 113/2007.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -290,7 +293,9 @@ e) Aos presidentes das comissões diretivas referidas nas alíneas anteriores ap
 
 16 - A remuneração prevista, no número anterior, para os vogais não executivos das comissões directivas não é atribuída quando estes cargos sejam ocupados por eleitos locais em regime de permanência, nos termos da alínea d) do n.º 1 do artigo 7.º da [Lei n.º 29/87](https://diariodarepublica.pt/dr/detalhe/lei/29-1987-419455), de 30 de Junho, na sua actual redacção.
 
-17 - Determinar que as funções executivas de membro de comissão directiva são exercidas em regime de exclusividade, sem prejuízo da possibilidade do desempenho de actividades que se relacionem com o encerramento de programas operacionais do actual QCA III ou de actividades que, pela sua conexão, sejam consideradas essenciais à boa realização das medidas de apoio inscritas nos respectivos programas operacionais do QREN, salvaguardando eventuais conflitos de interesse.
+17 - Determinar que as funções de membro executivo de comissão directiva são exercidas em regime de exclusividade, sem prejuízo da possibilidade do desempenho de actividades que se relacionem com o encerramento de programas operacionais ou de iniciativas comunitárias do actual QCA III ou de actividades que, pela sua conexão, sejam consideradas essenciais à boa realização das medidas de apoio inscritas nos respectivos programas operacionais do QREN, salvaguardando eventuais conflitos de interesse.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 113/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/113-2007-627836), publicado em 2007-12-18.
 
 18 - Determinar que o exercício de funções em acumulação, nos termos referidos no número anterior, é autorizado pelo membro do Governo coordenador do respectivo PO, não podendo, em situação alguma, envolver o pagamento de qualquer remuneração adicional.
 

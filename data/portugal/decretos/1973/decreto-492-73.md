@@ -53,9 +53,11 @@ version_history:
     changes: []
   - date: '1975-09-18'
     amending: pt:dre:341420:por
-    amending_title: Decreto-Lei n.º 506-A/75
+    amending_title: Decreto-Lei n.º 506-A/75; Rectificação; Rectificação
     changes:
     - Altera Artigo 142.º
+    - Retifica Artigo 148
+    - Retifica Artigo 208
 identifiers:
   celex: null
   eli: null
@@ -82,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:29:54Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 506-A/75. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1973/decreto-492-73.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1973/decreto-492-73.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação; Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -2041,7 +2044,7 @@ m) Aos lugares de telefonista internacional, os telefonistas-chefes de 2.ª clas
 
 3. Para que possam ser admitidas as suas candidaturas, deverão os funcionários mencionados no número anterior demonstrar:
 
-a) Terem pelo menos cinco anos de serviço na categoria ou estarem habilitados com o curso de formação especializada adequado, relativamente aos casos das alíneas d), e), f) e g);
+a) Terem pelo menos cinco anos de serviço na categoria ou estarem habilitados com o curso de formação básica adequado, relativamente aos casos das alíneas a), b) e c).
 
 b) Terem pelo menos cinco anos de serviço na categoria ou estarem habilitados com o curso de formação especializada adequado, relativamente aos casos das alíneas d), e), f) e g);
 
@@ -2054,6 +2057,8 @@ e) Terem pelo menos cinco anos de serviço na categoria e estarem habilitados co
 f) Estarem habilitados com o curso de formação especializada adequado, relativamente ao caso da alínea m).
 
 4. Os cursos de formação básica e especializada referidos no n.º 2 do artigo 147.º e no n.º 3 do presente artigo serão ministrados, exclusivamente, nas escolas ou centros de formação dos C. T. T. U.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-411102), publicado em 1973-11-30.
 
 ###### Artigo 149.º
 
@@ -2861,7 +2866,7 @@ Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. -
 
 MAPA I
 
-Quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar
+Quadro comum do pessoal superior dos serviços dos correios e telecomunicações do ultramar
 
 (Artigo 128.º, n.º 1)
 
@@ -2871,7 +2876,7 @@ MAPA II
 
 (Artigo 129.º, n.º 1)
 
-Designação e categorias dos funcionários dos quadros privativos dos correios, telégrafos e telefones do ultramar
+Designação e categorias dos funcionários dos quadros privativos de correios e telecomunicações do ultramar
 
 Pessoal de exploração
 
@@ -2985,7 +2990,7 @@ Mecânico principal ... L
 
 Electricista principal ... L
 
-Técnico principal de transmissão ... L
+Técnico principal de grupos de energia ... L
 
 Construtor de linhas de 1.ª classe ... L
 
@@ -3112,3 +3117,5 @@ Contínuo de 2.ª classe ... U
 Contínuo de 3.ª classe ... V
 
 O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-407348), publicado em 1974-02-06.

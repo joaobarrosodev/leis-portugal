@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '2015-07-26'
     amending: pt:dre:67085601:por
-    amending_title: Lei n.º 34/2015
+    amending_title: Lei n.º 34/2015; Declaração de Rectificação n.º 7/2008
     changes:
     - Revoga Artigo 4.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/392-a/2007/12/27/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:01:28Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 34/2015. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-392-a-2007.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2007/decreto-lei-392-a-2007.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 7/2008.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -448,7 +450,9 @@ Duração da concessão
 
 9 - Prazos da concessão
 
-1 - No que respeita aos lanços referidos no n.º 1 e na alínea g) do n.º 2 da base 2, o prazo da concessão é de 27 anos a contar da data de assinatura do contrato de concessão, expirando automaticamente às 24 horas do dia em que ocorrer o 27.º aniversário dessa assinatura.
+1 - No que respeita aos lanços referidos no n.º 1 e na alínea g) do n.º 2 da base 2, o prazo da concessão é de 27 anos a contar das 24 horas do dia 1 de Janeiro de 2008, expirando automaticamente às 24 horas do dia em que ocorrer o 27.º aniversário desse dia.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 7/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-2008-247742), publicado em 2008-02-18.
 
 2 - No que respeita aos lanços referidos nas alíneas a) a f), h) e i) do n.º 2 da base 2, o prazo da concessão é de cinco anos a contar do 60.º dia após a data de assinatura do contrato de concessão, expirando automaticamente às 24 horas do dia em que ocorrer o 5.º aniversário desse dia.
 
@@ -2034,7 +2038,7 @@ Vigência da concessão
 
 88 - Entrada em vigor
 
-O contrato de concessão entrará em vigor às 24 horas do dia da sua assinatura, contando-se a partir dessa data o prazo de vigência da concessão.
+O contrato de concessão entrará em vigor às 24 horas do dia 1 de Janeiro de 2008, contando-se a partir desse dia o prazo de vigência da concessão.
 
 CAPÍTULO XXV
 

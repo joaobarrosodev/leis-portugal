@@ -56,9 +56,10 @@ version_history:
     changes: []
   - date: '1970-11-20'
     amending: pt:dre:147274:por
-    amending_title: Decreto-Lei n.º 569/70
+    amending_title: Decreto-Lei n.º 569/70; Declaração
     changes:
     - Altera Artigo 12.º
+    - Retifica Artigo 22
 identifiers:
   celex: null
   eli: null
@@ -85,7 +86,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:07:55Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 569/70. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48785.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48785.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -303,7 +305,7 @@ Ficam revogados os artigos 5.º e 6.º do [Decreto-Lei n.º 42696](https://diari
 
 O presente diploma entra em vigor no dia 1 de Janeiro de 1969, podendo, porém, antes daquela data, mas para produzir efeitos a partir da mesma, ser publicada a lista a que se refere o artigo 15.º
 
-Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Domingos Rogado Vitória Pires.
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Domingos Rogado Vitória Pires.
 
 Promulgado em 11 de Dezembro de 1968.
 
@@ -326,3 +328,5 @@ Artigo 17.º do Decreto-Lei n.º 48785, de 21 de Dezembro de 1968
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf)
 
 Secretaria de Estado da Agricultura, 21 de Dezembro de 1968. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1969-526673), publicado em 1969-01-28.

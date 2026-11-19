@@ -52,7 +52,7 @@ version_history:
     changes: []
   - date: '2016-08-03'
     amending: pt:dre:75076033:por
-    amending_title: Despacho Normativo n.º 6/2016
+    amending_title: Despacho Normativo n.º 6/2016; Declaração de Rectificação n.º 913/2009
     changes:
     - Altera Artigo 7.º
     - Altera Artigo 62.º
@@ -65,6 +65,7 @@ version_history:
     - Revoga Artigo 69.º
     - Revoga Artigo 71.º
     - Revoga Artigo 72.º
+    - Retifica Artigo 52
 identifiers:
   celex: null
   eli: null
@@ -91,7 +92,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:19Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 6/2016. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2009/despacho-normativo-5-2009.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2009/despacho-normativo-5-2009.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 913/2009.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1110,7 +1113,7 @@ c) Tramitação em caso de não apresentação de candidaturas.
 
 5 - O valor da média ponderada é calculado através da seguinte expressão:
 
-V = 14 D + 5 E + F
+V = (14 D + 5 E + F) / 20
 
 sendo:
 
@@ -1131,6 +1134,8 @@ b) Não são contabilizadas as abstenções.
 7 - Se nenhum candidato obtiver o valor mínimo previsto no n.º 4 do presente artigo, terá lugar uma segunda volta, no prazo máximo de cinco dias úteis contados a partir da data de apuramento dos resultados, sendo eleito o que obtiver maior média ponderada.
 
 8 - A segunda volta será disputada pelos dois candidatos mais votados ou pelo candidato único, se for o caso.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 913/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/913-2009-3697556), publicado em 2009-03-27.
 
 ###### Artigo 53.º — Eleição indirecta
 

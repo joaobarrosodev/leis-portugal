@@ -43,12 +43,14 @@ version_history:
     changes: []
   - date: '1987-01-01'
     amending: pt:dre:662733:por
-    amending_title: Portaria n.º 131/87
+    amending_title: Portaria n.º 131/87; Declaração
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 5.º
     - Altera Artigo 13.º
     - Altera Artigo 24.º
+    - Retifica Artigo 8
+    - Retifica Artigo 10
 identifiers:
   celex: null
   eli: null
@@ -75,7 +77,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:48:28Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 131/87. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-770-83.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-770-83.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -259,9 +262,11 @@ d) 40% para pensionistas sem pessoas a cargo.
 
 ###### Artigo 8.º — (Natureza e finalidade)
 
-1 - As prestações pecuniárias de apoio social configuram-se com subsídios eventuais que podem ser atribuídos em casos de comprovada precariedade económica e com a finalidade de superar situações de risco social agravado, efectivo ou potencial, decorrente de uma das eventualidades tipificadas no artigo 11.º
+1 - As prestações pecuniárias de apoio social configuram-se como subsídios eventuais que podem ser atribuídos em casos de comprovada precariedade económica e com a finalidade de superar situações de risco social agravado, efectivo ou potencial, decorrente de uma das eventualidades tipificadas no artigo 11.º
 
 2 - As prestações a que se refere o número anterior não são cumuláveis com subsídios eventuais concedidos por outras instituições de segurança social.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-673781), publicado em 1983-08-31.
 
 ###### Artigo 9.º — (Condições de atribuição)
 
@@ -275,7 +280,7 @@ d) 40% para pensionistas sem pessoas a cargo.
 
 1 - Consideram-se em situação de precariedade económica os beneficiários isolados ou os agregados familiares cuja capitação mensal seja inferior a, respectivamente, 40% ou 30% da remuneração mínima mensal garantida à generalidade dos trabalhadores.
 
-2 - Nos casos em que a capitação mensal, embora superior aos limites fixados no número anterior, seja comprovadamente insuficiente para fazer face ao risco social agravado, poderá ser proposta pelos serviços sociais da instituição gestora a atribuição de subsídios eventuais, desde que devidamente justificados.
+2 - Nos casos em que a capitação mensal, embora superior aos limites fixados no número anterior, seja comprovadamente insuficiente para fazer face ao risco social agravado, poderá ser proposta pelos serviços sociais da instituição gestora a atribuição de subsídios eventuais, desde que devidamente justificada.
 
 ###### Artigo 11.º — (Tipificação de eventualidades determinantes de risco social agravado)
 

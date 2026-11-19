@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1990-10-03'
     amending: pt:dre:555061:por
-    amending_title: Portaria n.º 916/90
+    amending_title: Portaria n.º 916/90; Declaração
     changes:
     - Altera Artigo unidades 28-34
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:20:21Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 916/90. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-409-90.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1990/portaria-409-90.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -260,7 +262,9 @@ Hospitais distritais - 2900$00.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12500/24082418.pdf)
 
-13.º Nos hospitais psiquiátricos e serviços de saúde mental equiparados a hospitais centrais especializados, designadamente Hospital de Júlio de Matos, Hospital de Miguel Bombarda, Hospital de Sobral Cid, Hospital do Lorvão, Hospital do Conde de Ferreira, Centro de Saúde Mental Ocidental do Porto (Magalhães Lemos), Centro de Saúde Mental Infantil de Lisboa, Centro de Saúde Mental Infantil de Coimbra e Centro de Saúde Mental de Vila Nova de Gaia, são aplicáveis as tabelas referidas nos n.os 11.º e 12.º para hospitais centrais.
+13.º Nos hospitais psiquiátricos e serviços de saúde mental equiparados a hospitais centrais especializados, designadamente Hospital de Júlio de Matos, Hospital de Miguel Bombarda, Hospital de Sobral Cid, Hospital do Lorvão, Hospital do Conde de Ferreira, Centro de Saúde Mental Ocidental do Porto (Magalhães Lemos), Centro de Saúde Mental Infantil de Lisboa, Centro de Saúde Mental Infantil de Coimbra, Centro de Saúde Mental Infantil e Juvenil do Porto e Centro de Saúde Mental de Vila Nova de Gaia, são aplicáveis as tabelas referidas nos n.os 11.º e 12.º para hospitais centrais.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-644104), publicado em 1990-07-31.
 
 Nos restantes centros de saúde, estabelecimentos e serviços na área da saúde mental são aplicáveis as tabelas referidas nos n.os 11.º e 12.º para hospitais distritais.
 

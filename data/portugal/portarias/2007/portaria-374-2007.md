@@ -53,10 +53,12 @@ version_history:
     changes: []
   - date: '2010-07-24'
     amending: pt:dre:334101:por
-    amending_title: Portaria n.º 560/2010
+    amending_title: Portaria n.º 560/2010; Declaração de Rectificação n.º 50/2007
     changes:
     - Altera Artigo ANEXO — ESTATUTOS DA CINEMATECA PORTUGUESA-MUSEU DO CINEMA, I. P.::1.º
     - Adita Artigo ANEXO — ESTATUTOS DA CINEMATECA PORTUGUESA-MUSEU DO CINEMA, I. P.::3.º-A
+    - Retifica Artigo 2
+    - Retifica Artigo 3
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/374/2007/03/30/p/dre/pt/html
@@ -83,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:23:10Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 560/2010. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-374-2007.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2007/portaria-374-2007.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 50/2007.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -185,7 +188,7 @@ b) Departamento de Exposição Permanente.
 
 a) Receber em regime de depósito, incluindo o depósito legal obrigatório, imagens em movimento em qualquer suporte e de qualquer época, formato, género, regime de produção ou proveniência;
 
-b) Propor a aquisição de imagens em movimento em qualquer suporte e de qualquer época, formato, género, regime de produção ou proveniência, devendo as propostas de aquisição de obras de produção estrangeira ser efectuadas em articulação com o Departamento de Exposição Permanente;
+b) Propor a aquisição de imagens em movimento em qualquer suporte e de qualquer época, formato, género, regime de produção ou proveniência, devendo as propostas de aquisição de obras de produção estrangeira ser efectuadas em articulação com o Departamento de Divulgação e Exposição Permanente;
 
 c) Conservar as imagens em movimento nele arquivadas de acordo com as regras e processos técnicos mais adequados, nomeadamente os que são preconizados pela Federação Internacional dos Arquivos de Filmes (FIAF);
 
@@ -221,9 +224,11 @@ s) Publicar documentos bibliográficos relacionados com a técnica e a conserva�
 
 2 - O ANIM funciona em Loures.
 
+> Retificado pelo/a [Declaração de Rectificação n.º 50/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/50-2007-638531), publicado em 2007-05-29.
+
 ###### Artigo 3.º — Departamento de Divulgação e Exposição Permanente
 
-1 - Ao Departamento de Exposição Permanente, abreviadamente designado por DDEP, compete:
+1 - Ao Departamento de Divulgação e Exposição Permanente, abreviadamente designado por DDEP, compete:
 
 a) Promover a exposição e exibição de obras cinematográficas, dentro de critérios de museografia da obra fílmica e de programação, que favoreçam e estimulem a visão comparativa dos diversos períodos, épocas, géneros e escolas da história do cinema;
 

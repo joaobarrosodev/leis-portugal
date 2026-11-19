@@ -23,10 +23,17 @@
      "title": "Decreto-Lei n.º 569/70",
      "published": "1970-11-20",
      "dre_path": "/dr/detalhe/decreto-lei/569-1970-147274"
+    },
+    {
+     "id": "pt:dre:526673:por",
+     "title": "Declaração",
+     "published": "1969-01-28",
+     "dre_path": "/dr/detalhe/declaracao/1969-526673"
     }
    ],
    "changes": [
-    "Altera Artigo 12.º"
+    "Altera Artigo 12.º",
+    "Retifica Artigo 22"
    ],
    "fragments": [
     "8e9b5b5130d78d07",
@@ -51,7 +58,7 @@
     "d4a232ca56c8eff5",
     "cc197245d4360918",
     "538c6b379c6d1a20",
-    "04d71c76337ba106"
+    "2f162ee0818e8f19"
    ]
   }
  ],
@@ -242,13 +249,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 21.º\n\nFicam revogados os artigos 5.º e 6.º do [Decreto-Lei n.º 42696](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42696-1959-438923), de 3 de Dezembro de 1959."
   },
-  "04d71c76337ba106": {
+  "2f162ee0818e8f19": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 22.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 22.º\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1969, podendo, porém, antes daquela data, mas para produzir efeitos a partir da mesma, ser publicada a lista a que se refere o artigo 15.º\n\nMarcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Domingos Rogado Vitória Pires.\n\nPromulgado em 11 de Dezembro de 1968.\n\nPublique-se.\n\nPresidência da República, 21 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional.\n\nMAPA N.º 1\n\nArtigo 1.º do Decreto-Lei n.º 48785, de 21 de Dezembro de 1968\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf)\n\nMAPA N.º 2\n\nArtigo 17.º do Decreto-Lei n.º 48785, de 21 de Dezembro de 1968\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf)\n\nSecretaria de Estado da Agricultura, 21 de Dezembro de 1968. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires."
+   "in_force_from": "1970-11-20",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1969-526673), publicado em 1969-01-28."
+   ],
+   "markdown": "###### Artigo 22.º\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1969, podendo, porém, antes daquela data, mas para produzir efeitos a partir da mesma, ser publicada a lista a que se refere o artigo 15.º\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Domingos Rogado Vitória Pires.\n\nPromulgado em 11 de Dezembro de 1968.\n\nPublique-se.\n\nPresidência da República, 21 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional.\n\nMAPA N.º 1\n\nArtigo 1.º do Decreto-Lei n.º 48785, de 21 de Dezembro de 1968\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf)\n\nMAPA N.º 2\n\nArtigo 17.º do Decreto-Lei n.º 48785, de 21 de Dezembro de 1968\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/12/30001/18851888.pdf)\n\nSecretaria de Estado da Agricultura, 21 de Dezembro de 1968. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1969-526673), publicado em 1969-01-28."
   }
  }
 }

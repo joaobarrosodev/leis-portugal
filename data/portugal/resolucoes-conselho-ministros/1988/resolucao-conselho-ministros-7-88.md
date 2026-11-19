@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1990-03-05'
     amending: pt:dre:332962:por
-    amending_title: Resolução do Conselho de Ministros n.º 4/90
+    amending_title: Resolução do Conselho de Ministros n.º 4/90; Declaração
     changes:
     - Altera Artigo unidades 16-17
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T20:26:48Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
-    n.º 4/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1988/resolucao-conselho-ministros-7-88.alteracoes.json'
+    n.º 4/90. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1988/resolucao-conselho-ministros-7-88.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -181,25 +183,25 @@ b) Financiamentos comunitários, englobados no programa da operação integrada 
 
 12 - A comissão de acompanhamento é o órgão responsável pelo acompanhamento da preparação e implementação da operação integrada de desenvolvimento, designadamente no que respeita a garantir a sua avaliação e correcção.
 
-13 - A comissão de acompanhamento será constituída por representantes das seguintes instituições:
+13 - A comissão de acompanhamento será constituída por representantes das seguintes entidades:
 
-a) Direcção-Geral do Desenvolvimento Regional;
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-219533), publicado em 1988-03-31.
 
-b) Comissão das Comunidades Europeias;
+a) Ministro da Indústria e Energia;
 
-c) Comissão de Coordenação Regional de Lisboa e Vale do Tejo;
+b) Ministro do Emprego e da Segurança Social;
 
-d) Comissão executiva do Gabinete para a Operação Integrada de Desenvolvimento da Península de Setúbal;
+c) Governador civil de Setúbal;
 
-e) Governo Civil do Distrito de Setúbal;
+d) Direcção-Geral do Desenvolvimento Regional;
 
-f) Associação de Municípios do Distrito de Setúbal;
+e) Comissão das Comunidades Europeias;
 
-g) Núcleo Empresarial Regional de Setúbal;
+f) Comissão de Coordenação Regional de Lisboa e Vale do Tejo;
 
-h) União dos Sindicatos de Setúbal;
+g) Comissão executiva do Gabinete da Operação Integrada de Desenvolvimento da Península de Setúbal;
 
-i) União Geral de Trabalhadores (Setúbal).
+h) Forças sociais mais relevantes na vida económica e social da zona, designadas por despacho do Ministro do Planeamento e da Administração do Território.
 
 14 - A comissão de acompanhamento será presidida pelo director-geral do Desenvolvimento Regional.
 

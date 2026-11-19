@@ -54,13 +54,14 @@ version_history:
     changes: []
   - date: '1997-10-08'
     amending: pt:dre:661915:por
-    amending_title: Decreto Regulamentar n.º 40/97
+    amending_title: Decreto Regulamentar n.º 40/97; Declaração
     changes:
     - Revoga Artigo 59.º
     - Revoga Artigo 60.º
     - Revoga Artigo 61.º
     - Revoga Artigo 62.º
     - Revoga Artigo 63.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -87,7 +88,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:17:12Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 40/97. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1989/decreto-regulamentar-32-89.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1989/decreto-regulamentar-32-89.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1059,6 +1061,8 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO VII
 
-Conteúdos funcionais das carreiras de técnico superior de informática, programador, operador, desenhador, técnico auxiliar e tradutor-correspondente-intérprete constantes dos quadros do Ministério da Defesa Nacional
+Conteúdos funcionais das carreiras de técnico superior de informática, desenhador, técnico auxiliar e tradutor-correspondente-intérprete constantes dos quadros do Ministério da Defesa Nacional
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-192863), publicado em 1989-11-30.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)

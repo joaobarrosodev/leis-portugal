@@ -43,10 +43,18 @@ version_history:
     changes: []
   - date: '1986-05-15'
     amending: pt:dre:474511:por
-    amending_title: Decreto-Lei n.º 152/80; Decreto-Lei n.º 91/86
+    amending_title: Decreto-Lei n.º 152/80; Decreto-Lei n.º 91/86; Declaração
     changes:
     - Altera Artigo 76.º
     - Altera Artigo 81.º
+    - Retifica Artigo 20
+    - Retifica Artigo 41
+    - Retifica Artigo 44
+    - Retifica Artigo 56
+    - Retifica Artigo 57
+    - Retifica Artigo 60
+    - Retifica Artigo 63
+    - Retifica Artigo 64
 identifiers:
   celex: null
   eli: null
@@ -73,7 +81,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:43:42Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 152/80; Decreto-Lei
-    n.º 91/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-678-76.alteracoes.json'
+    n.º 91/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-678-76.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -316,9 +325,11 @@ f) Departamento de Apoio Escolar;
 
 g) Departamento de Administração Escolar;
 
-h) Secção de Expedimento e Arquivo;
+h) Secção de Expediente e Arquivo;
 
 i) Biblioteca e museu.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-407138), publicado em 1976-11-10.
 
 ### CAPÍTULO III — Do corpo de alunos
 
@@ -462,7 +473,7 @@ Em todos os cursos serão ministradas lições de francês, inglês ou alemão, 
 
 Os trabalhos escolares da Academia são distribuídos em cada ano escolar, com excepção do último ano do curso em que se inclui o tirocínio, da forma seguinte:
 
-Primeira parte, que se destina especialmente à frequência das cadeiras, trabalhos práticos e de aplicação, e que compreende dois períodos (primeiro e segundo);
+Primeira parte, que se destina especialmente à frequência das cadeiras, trabalhos práticos e de aplicação, e que compreende dois períodos (1.º e 2.º semestres),
 
 Segunda parte, que se destina a visitas, missões, trabalhos práticos e de campo e exercícios militares, assim como a férias de ponto e exames, quando estes tiverem lugar.
 
@@ -478,7 +489,7 @@ O número total de tempos de instrução semanais e a duração horária dos tra
 
 ###### Artigo 44.º
 
-1. O tirocínio referido no artigo 28.º, assim como os estágios, a fazer consoante a natureza dos cursos, são realizados nas escolas práticas e noutros estabelecimentos apropriados durante o último ano do curso e com duração normal de um ano lectivo.
+1. O tirocínio referido no n.º 1 do artigo 29.º, assim como os estágios, a fazer consoante a natureza dos cursos, são realizados nas escolas práticas e noutros estabelecimentos apropriados durante o último ano do curso e com duração normal de um ano lectivo.
 
 2. O tirocínio e os estágios têm por finalidade proporcionar aos alunos, através de uma instrução caracterizada pela maior objectividade prática, a aplicação dos conhecimentos adquiridos e ainda completar a apreciação da sua personalidade, espírito militar e capacidade técnica.
 
@@ -562,7 +573,7 @@ As condições de provimento, direitos e deveres dos professores militares e civ
 
 ###### Artigo 56.º
 
-À admissão aos cursos da Academia Militar podem concorrer todos os indivíduos que satisfaçam às condições especiais de admissão, nela se distinguindo fundamentalmente duas categorias de concorrentes:
+À admissão aos cursos da Academia Militar podem concorrer todos os indivíduos que satisfaçam às condições gerais e especiais de admissão, nela se distinguindo fundamentalmente duas categorias de concorrentes:
 
 Candidatos civis;
 
@@ -570,7 +581,7 @@ Candidatos militares, que engloba oficiais dos quadros de complemento e sargento
 
 ###### Artigo 57.º
 
-As condições de admissão, inscrição para o concurso de admissão, operações do concurso, selecção e incorporação dos candidatos devem constar de regulamento próprio, a promulgar por portaria do Chefe do Estado-Maior do Exército, ouvindo o Chefe do Estado-Maior da Força Aérea.
+As condições de admissão, inscrição para o concurso de admissão, operações do concurso, selecção e incorporação dos candidatos devem constar de regulamento próprio, a promulgar por portaria do Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea.
 
 ### CAPÍTULO I — Das condições gerais de admissão
 
@@ -600,7 +611,7 @@ c) Os candidatos, filhos de portugueses, originários dos países de expressão 
 
 ###### Artigo 60.º
 
-A altura e o índice de robustez referidos na alínea c) do artigo 58.º sofrem correcção adequada à idade dos candidatos, segundo o prudente juízo da junta de inspecção, confirmada em cada caso pelo comandante da Academia Militar.
+A altura e a robustez física referidas na alínea c) do artigo 58.º sofrem correcção adequada à idade dos candidatos, segundo o prudente juízo da junta de inspecção, confirmada em cada caso pelo comandante da Academia Militar.
 
 ### CAPÍTULO II — Das condições especiais de admissão
 
@@ -632,13 +643,13 @@ f) Satisfazer os limites de idade que forem fixados.
 
 ###### Artigo 63.º
 
-Os oficiais de complemento e sargentos dos quadros permanentes e de complemento só podem ser admitidos ao curso de pilotagem aeronáutica quando já habilitados com o concurso de pilotagem da Força Aérea.
+Os oficiais de complemento e sargentos dos quadros permanentes e de complemento só podem ser admitidos ao curso de pilotagem aeronáutica quando já habilitados com o curso de pilotagem da Força Aérea.
 
 ## TÍTULO VI — Preenchimento de vagas e distribuição para os cursos
 
 ###### Artigo 64.º
 
-No acto da inscrição ao concurso para admissão à matrícula no 1.º ano da Academia Militar, os candidatos declarem qual o ramo das forças armadas (Exército ou Força Aérea) em que desejam ingressar, sujeitando-se às opções tomadas às normas que forem estabelecidas para o efeito e ao número de vagas fixadas.
+No acto da inscrição ao concurso para admissão à matrícula no 1.º ano da Academia Militar, os candidatos declaram qual o ramo das forças armadas (Exército ou Força Aérea) em que desejam ingressar, sujeitando-se as opções tomadas às normas que forem estabelecidas para o efeito e ao número de vagas fixadas.
 
 ###### Artigo 65.º
 

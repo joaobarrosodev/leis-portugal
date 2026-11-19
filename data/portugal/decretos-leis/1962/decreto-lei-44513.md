@@ -44,10 +44,11 @@ version_history:
     changes: []
   - date: '1963-06-29'
     amending: pt:dre:693235:por
-    amending_title: Decreto-Lei n.º 45094
+    amending_title: Decreto-Lei n.º 45094; Declaração
     changes:
     - Altera Artigo 2.º
     - Altera Artigo 7.º
+    - Retifica Artigo 6
 identifiers:
   celex: null
   eli: null
@@ -74,7 +75,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:41:53Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 45094. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44513.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44513.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,7 +175,9 @@ Nos primeiros juros a pagar observar-se-á o disposto no artigo 9.º do [Decreto
 
 ###### Artigo 6.º
 
-O empréstimo será amortizado em vinte anuidades iguais, pelo valor nominal dos certificados ou títulos, devendo a primeira amortização dos emitidos durante os anos de 1962, 1963 e 1964 efectuar-se, respectivamente, em 1 de Junho de 1967, em 1 do Junho de 1958 e em 1 de Junho de 1969.
+O empréstimo será amortizado em vinte anuidades iguais, pelo valor nominal dos certificados ou títulos, devendo a primeira amortização dos emitidos durante os anos de 1962, 1963 e 1964 efectuar-se, respectivamente, em 1 de Junho de 1967, em 1 de Junho de 1968 e em 1 de Junho de 1969.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1962-159699), publicado em 1962-09-08.
 
 ###### Artigo 7.º
 

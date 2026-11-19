@@ -55,7 +55,8 @@ version_history:
   - date: '2003-01-04'
     amending: pt:dre:383444:por
     amending_title: Decreto-Lei n.º 107/97; Decreto-Lei n.º 207/97; Decreto-Lei n.º 28/98; Decreto-Lei n.º 21/99; Decreto-Lei
-      n.º 289/2001; Decreto-Lei n.º 315/2001; Decreto-Lei n.º 320-A/2002; Declaração de Rectificação n.º 16-Q/96
+      n.º 289/2001; Decreto-Lei n.º 315/2001; Decreto-Lei n.º 320-A/2002; Declaração de Rectificação n.º 16-Q/96; Declaração
+      de Rectificação n.º 14-C/96
     changes:
     - Altera Artigo 24.º
     - Altera Artigo 33.º
@@ -71,6 +72,10 @@ version_history:
     - Altera Artigo 19.º
     - Altera Artigo 24.º
     - Retifica texto
+    - Retifica texto
+    - Retifica Artigo 11
+    - Retifica Artigo 13
+    - Retifica Artigo 38
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre/pt/html
@@ -99,7 +104,8 @@ provenance:
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 107/97; Decreto-Lei
     n.º 207/97; Decreto-Lei n.º 28/98; Decreto-Lei n.º 21/99; Decreto-Lei n.º 289/2001; Decreto-Lei n.º 315/2001; Decreto-Lei
     n.º 320-A/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-158-96.alteracoes.json.
-    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 16-Q/96.'
+    Retificações aplicadas por regra (consolidacao/retificacoes.py): Declaração de Rectificação n.º 16-Q/96. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 14-C/96.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -400,7 +406,9 @@ O controlo da administração financeira do Estado, a par do controlo externo a 
 
 6 - Como já se referiu, mantém-se no Ministério a gestão da protecção social e da segurança social dos funcionários e agentes do sector público, para o que se reformulam a missão e as funções da Direcção-Geral de Protecção Civil aos Funcionários e Agentes da Administração Pública (ADSE), que não pode ser entendida sem articulação com a Caixa Geral de Aposentações, como instituto público autónomo, embora profundamente ligado à Caixa Geral de Depósitos, e os Serviços Sociais do Ministério das Finanças, prestadores de serviços específicos aos funcionários e agentes do Ministério das Finanças e de outros ministérios conexos.
 
-7 - No domínio orçamental defini-se a missão e o estatuto de uma Direcção-Geral do Orçamento, incumbida da sua previsão, coordenação e controlo de execução e elaboração da Conta Geral do Estado, eliminando de vez as dúvidas e sombras resultantes da existência fantasmática da Intendência-Geral do Orçamento e da delimitação limitativa da Direcção-Geral da Contabilidade Pública.
+7 - No domínio orçamental define-se a missão e o estatuto de uma Direcção-Geral do Orçamento, incumbida da sua previsão, coordenação e controlo de execução e elaboração da Conta Geral do Estado, eliminando de vez as dúvidas e sombras resultantes da existência fantasmática da Intendência-Geral do Orçamento e da delimitação limitativa da Direcção-Geral da Contabilidade Pública.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 14-C/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-c-1996-147848), publicado em 1996-09-30.
 
 8 - No domínio dos grandes instrumentos financeiros, reformula-se, pretendendo por esta via dar azo a uma profunda transformação da respectiva estrutura, a Direcção-Geral do Património, cuja lei orgânica se pensa elaborar com urgência, criando ainda - como já foi referido - o novo Instituto de Gestão do Crédito Público, que se pretende dotar com a flexibilidade e a capacidade técnica necessárias à gestão de uma carteira de crédito que é a primeira do País, e uma Direcção-Geral do Tesouro reformulada, que carecerá de profunda e gradual evolução em articulação com a consolidação do Instituto de Gestão do Crédito Público, mas que se alivia desde já, além das funções cometidas ao novel Instituto de Gestão do Crédito Público, das tesourarias da Fazenda Pública, transferidas para a Direcção-Geral dos Impostos, departamento encarregado da parte principal da gestão tributária. Não se esquecerá que a Direcção-Geral do Tesouro deve ficar ainda, dada a importância do Tesouro e das suas funções e missões na gestão monetário-financeira, incumbida do acompanhamento por parte do Estado da política monetário-financeira; sem esquecer a tutela do Ministério das Finanças sobre o Instituto de Seguros de Portugal, cujas competências em termos de supervisão importará rever e reforçar, e sobre a Comissão do Mercado de Valores Mobiliários, sem prejuízo da sua plena independência regulamentadora e de controlo.
 
@@ -594,9 +602,9 @@ d) Instituto de Informática.
 
 2 - Compete à SGMF, designadamente:
 
-a) Assegurar o expediente e contabilidade dos Gabinetes do Ministro e dos secretários de Estado e dos vários serviços da Secretaria-Geral;
+a) Assegurar o expediente e contabilidade dos Gabinetes do Ministro e dos Secretários de Estado e dos vários serviços da Secretaria-Geral;
 
-b) Assegurar o apoio técnico-jurídico que lhe seja solicitado pelos Gabinetes do Ministro e dos secretários de Estado;
+b) Assegurar o apoio técnico-jurídico que lhe seja solicitado pelos Gabinetes do Ministro e dos Secretários de Estado;
 
 c) Proceder ao expediente necessário à divulgação de circulares, instruções ou outras normas de carácter genérico destinadas aos serviços do Ministério, quando não sejam da competência específica de qualquer deles;
 
@@ -604,17 +612,17 @@ d) Centralizar o expediente relativo às aquisições para o Estado de que seja 
 
 e) Prestar apoio administrativo ao Conselho Superior de Finanças, ao Conselho de Directores-Gerais, ao Defensor do Contribuinte e às comissões, núcleos ou grupos de trabalho que forem constituídos no âmbito do Ministério, nos termos e condições a estabelecer superiormente;
 
-f) Promover, através do pessoal do respectivo quadro, requisitado, destacado ou em comissão de serviço na Secretaria-Geral, a dotação dos Gabinetes do Ministro e dos secretários de Estado com o pessoal administrativo e auxiliar que se mostrar necessário;
+f) Promover, através do pessoal do respectivo quadro, requisitado, destacado ou em comissão de serviço na Secretaria-Geral, a dotação dos Gabinetes do Ministro e dos Secretários de Estado com o pessoal administrativo e auxiliar que se mostrar necessário;
 
 g) Apoiar a elaboração e execução dos projectos de reorganização, reestruturação e inovação administrativa dos organismos e serviços do Ministério;
 
 h) Organizar um centro de documentação e informação incumbido de recolher e tratar a documentação e a informação referentes às matérias directamente relacionadas com a actividade do Ministério e de promover a sua difusão, em colaboração com os departamentos do Ministério eventualmente interessados na matéria;
 
-i) Promover a adequada organização da biblioteca do Ministério, garantir a coordenação central das diversas bibliotecas do Ministério e assegurar a organização e funcionamento dos arquivos dos Gabinetes do Ministro e dos secretários de Estado e da Secretaria-Geral;
+i) Promover a adequada organização da biblioteca do Ministério, garantir a coordenação central das diversas bibliotecas do Ministério e assegurar a organização e funcionamento dos arquivos dos Gabinetes do Ministro e dos Secretários de Estado e da Secretaria-Geral;
 
 j) Organizar o registo simplificado do pessoal dos serviços e demais departamentos do Ministério, seja qual for o vínculo que o ligue à Administração;
 
-l) Assegurar a administração, conservação e guarda do edifício ocupado pelos serviços centrais do Ministério e do equipamento, viaturas automóveis ou qualquer outro material dos Gabinetes do Ministro e dos secretários de Estado e da Secretaria-Geral, organizando e mantendo actualizado o seu cadastro;
+l) Assegurar a administração, conservação e guarda do edifício ocupado pelos serviços centrais do Ministério e do equipamento, viaturas automóveis ou qualquer outro material dos Gabinetes do Ministro e dos Secretários de Estado e da Secretaria-Geral, organizando e mantendo actualizado o seu cadastro;
 
 m) Programar e proceder à adequada instalação no edifício do Ministério dos serviços que nele devam funcionar;
 
@@ -658,7 +666,7 @@ l) Exercer outras funções que lhe sejam atribuídas por lei ou determinadas su
 
 ###### Artigo 13.º — Instituto de Informática
 
-1 - o Instituto de Informática (II) é o serviço do Ministério das Finanças cuja missão genérica consiste em contribuir para a eficácia do aparelho administrativo do Estado, em especial nos domínios correspondentes às funções do Ministério das Finanças, através da promoção, desenvolvimento, implementação e exploração de sistemas e tecnologias de informação, no quadro de uma perspectiva global de economia de recursos e de protecção ao investimento na Administração Pública.
+1 - O Instituto de Informática (II) é o serviço do Ministério das Finanças cuja missão genérica consiste em contribuir para a eficácia do aparelho administrativo do Estado, em especial nos domínios correspondentes às funções do Ministério das Finanças, através da promoção, desenvolvimento, implementação e exploração de sistemas e tecnologias de informação, no quadro de uma perspectiva global de economia de recursos e de protecção ao investimento na Administração Pública.
 
 2 - São, designadamente, atribuições do II:
 
@@ -1104,7 +1112,7 @@ As tesourarias da Fazenda Pública, integradas na Direcção-Geral do Tesouro pe
 
 ###### Artigo 38.º — Serviços da Direcção-Geral do Tesouro
 
-Os seguinte Serviços da Direcção-Geral do Tesouro transitam para a Direcção-Geral de Assuntos Europeus e Relações Internacionais:
+Os seguintes Serviços da Direcção-Geral do Tesouro transitam para a Direcção-Geral de Assuntos Europeus e Relações Internacionais:
 
 a) Direcção de Serviços de Cooperação Internacional;
 

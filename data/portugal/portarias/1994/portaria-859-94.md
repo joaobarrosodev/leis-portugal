@@ -54,10 +54,11 @@ version_history:
     changes: []
   - date: '1999-09-25'
     amending: pt:dre:475677:por
-    amending_title: Portaria n.º 649/95; Portaria n.º 802/99
+    amending_title: Portaria n.º 649/95; Portaria n.º 802/99; Declaração de Rectificação n.º 178/94
     changes:
     - Adita Artigo depois da unidade 127
     - Adita Artigo depois da unidade 127
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/859/1994/09/23/p/dre/pt/html
@@ -84,7 +85,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:39:55Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 649/95; Portaria n.º
-    802/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-859-94.alteracoes.json'
+    802/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-859-94.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 178/94.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -313,7 +316,9 @@ As faixas de frequências designadas para operação destes equipamentos são as
 
 9500 MHz-9975 MHz; frequência preferida: 9520 MHz;
 
-13,4 MHz-14,0 GHz; frequência preferida: 13,55 GHz.
+13,4 GHz-14,0 GHz; frequência preferida: 13,55 GHz.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 178/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/178-1994-354311), publicado em 1994-09-30.
 
 A potência de pico máxima permitida é de 25 mW p. i. r. e.
 
@@ -392,7 +397,6 @@ As frequências designadas para operação destes equipamentos são as seguintes
 35,200 MHz.
 
 A p. a. r. máxima permitida é de 100 mW e o seu funcionamento deve ser compatível com um espaçamento entre canais de 10 kHz.
-
 
 2.8 - Equipamentos de pequena potência para Imobilização de veículos
 

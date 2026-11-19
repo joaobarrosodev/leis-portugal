@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '1997-11-30'
     amending: pt:dre:406566:por
-    amending_title: Decreto-Lei n.º 318/97
+    amending_title: Decreto-Lei n.º 318/97; Declaração de Rectificação n.º 132/95
     changes:
     - Altera Artigo 4.º
+    - Retifica Artigo 1
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/190/1995/07/28/p/dre/pt/html
@@ -82,7 +83,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:38:26Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 318/97. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-190-95.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-190-95.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 132/95.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,7 +172,7 @@ a) Parcela de terreno, com a área de 660 m2, a desanexar do prédio rústico de
 
 b) PM 4/Aveiro, designado «Messe de Oficiais», com a área total de 2810 m2, situado na Rua do Carmo, freguesia de Vera Cruz, município de Aveiro, inscrito em nome do Estado na matriz predial urbana da referida freguesia sob o artigo 2541, omisso na Conservatória do Registo Predial de Aveiro, confrontando a norte com a Rua do Carmo, a sul com Fausto Resende Ferreira, a nascente com a Rua de Von Haffe e a sul com herdeiros do Pe. Manuel Simões Müller e outros;
 
-c) PM 7/Aveiro, designado «Quartel de Sá», com a área aproximada de 20970 m2, sito na Rua e Bairro de Sá, freguesia de Vera Cruz, município de Aveiro, inscrito em nome do Estado na matriz predial urbana da referida freguesia sob os artigos 2542 e 2515 e descrito na Conservatória do Registo Predial de Aveiro sob os n.os 27536, a fl. 45 v.º do livro B-74, que engloba as descrições n.os 17040, a fl. 170 v.º do livro B-47, e 23368, a fl. 150 v.º do livro B-63, com a inscrição n.º 14382, a fl. 46 v.º do livro G-19, a favor do Estado, 34187, a fl. 148 do livro B-90, com a inscrição a favor do Estado n.º 19815, a fl. 123 v.º do livro G-25, e 47941, a fl. 87 v.º do livro B-125, com a inscrição a favor do Estado n.º 38304, a fl. 65 do livro G-48, confrontando a norte com herdeiros de José Rafeiro e com terrenos da firma FRAPIL, a sul com a Rua de Sá e com António da Naia Graça e outros, a nascente com a Travessa do Picadeiro ou Travessa do Quartel e a poente com particulares;
+c) PM 7/Aveiro, designado «Quartel de Sá», com a área aproximada de 20970 m2, sito na Rua e Bairro de Sá, freguesia de Vera Cruz, município de Aveiro, inscrito em nome do Estado na matriz predial urbana da referida freguesia sob os artigos 2542 e 2515 e descrito na Conservatória do Registo Predial de Aveiro sob o n.º 01233/260195, da referida freguesia, com as inscrições G-1, G-2 e G-3 a favor do Estado, confrontando a norte com herdeiros de José Rafeiro e com terrenos da firma FRAPIL, a sul com a Rua de Sá e com António da Naia Graça e outros, a nascente com a Travessa do Picadeiro ou Travessa do Quartel e a poente com particulares;
 
 d) PM 17/Chaves, designado «Casa de Engenharia», com a área de 36 m2, situado no Terreiro de Cavalaria, freguesia e município de Chaves, inscrito em nome do Estado na matriz predial urbana da freguesia de Chaves sob o artigo 438, omisso na Conservatória do Registo Predial de Chaves, confrontando a norte com Oliveiros Pinto, a sul com Júlia Gomes Morais, a nascente com Rui Fernandes e a poente com o Terreiro de Cavalaria;
 
@@ -183,13 +186,13 @@ h) PM 24/Estremoz, designado «Casa das Fardas», com a área aproximada de 3509
 
 i) PM 40/Estremoz, designado «Cozinha Anexa à Casa das Fardas», com a área aproximada de 115 m2, situado na Rua do Armazém, freguesia de Santa Maria, município de Estremoz, confrontando a norte, a nascente e a poente com terrenos municipais e a sul com a Rua do Armazém;
 
-j) PM 48/Estremoz, designado «Casa de Engenharia», com a área de 63 m2, situado na Rua da Porta da Laje, freguesia de Santo André, município de Estremoz, inscrito em nome do Estado na matriz predial urbana da referida freguesia sob o artigo 1415, omisso na Conservatória do Registo Predial de Estremoz, confrontando a norte com Olegário Paiva, a sul com António de Matos, a nascente com Manuel Joaquim Bonito e a poente com a Rua da Porta da Laje;
+j) PM 48/Estremoz, designado «Casa de Engenharia», com a área de 63 m2, situado na Rua da Porta da Laje, freguesia de Santo André, município de Estremoz, inscrito em nome do Estado na matriz predial urbana da referida freguesia sob o artigo 1415, descrito na Conservatória do Registo Predial de Estremoz sob o n.º 00522/100595, com a inscrição G-1 a favor do Estado, confrontando a norte com Olegário Paiva, a sul com António de Matos, a nascente com Manuel Joaquim Bonito e a poente com a Rua da Porta da Laje;
 
 k) PM 49/Estremoz, designado «Quartéis no Largo de Santa Maria», com a área de 121,80 m2, situado no Largo de Santa Maria, freguesia de Santa Maria, município de Estremoz, inscrito em nome do Estado na matriz predial urbana da referida freguesia sob o artigo 1239, omisso na Conservatória do Registo Predial de Estremoz, confrontando a norte e a nascente com o Largo de Santa Maria e a sul e a poente com propriedade da Câmara Municipal de Estremoz;
 
 l) Prédio designado por «Aquartelamento do Gravato», com a área aproximada de 2000 m2, situado na antiga Estrada da Circunvalação, freguesia de Santa Maria de Belém, município de Lisboa, composto pelos prédios inscritos em nome do Estado na matriz predial urbana da referida freguesia sob os artigos 858 e 859, omissos na 3.ª Conservatória do Registo Predial de Lisboa;
 
-m) PM 9/Penamacor, designado «Carreira de Tiro de Souto da Arouca», com a área aproximada de 144250 m2, situado no lugar de Souto da Arouca ou Arroncada, freguesia e município de Penamacor, inscrito em nome do Estado na matriz cadastral rústica da referida freguesia sob o artigo 131 da secção 0, parte descrita na Conservatória do Registo Predial de Penamacor sob os n.os 1883/280104 e 1901/030205, ambos com inscrição G-1 a favor do Estado, e parte não descrita, confrontando a norte com a Estrada Nacional n.º 232, a sul e a poente com Luís Osório e com José Santos Rico e a nascente com particulares;
+m) PM 9/Penamacor, designado «Carreira de Tiro de Souto da Arouca», com a área aproximada de 144250 m2, situado no lugar de Souto da Arouca ou Arroncada, freguesia e município de Penamacor, inscrito em nome do Estado na matriz cadastral rústica da referida freguesia sob o artigo 131 da secção 0, parte descrita na Conservatória do Registo Predial de Penamacor sob os n.os 1883/280104 e 1901/030205, ambos com inscrição G-1 a favor do Estado, e parte descrita na Conservatória do Registo Predial de Idanha-a-Nova sob o n.º 21296, a fl. 109 do livro B-54, e inscrita a favor do Estado sob o n.º 8272, a fl. 24 do livro G-9, confrontando a norte com a Estrada Nacional n.º 232, a sul e a poente com Luís Osório e com José Santos Rico e a nascente com particulares;
 
 n) Parcela com a área aproximada de 2130 m2, que confronta a norte e a poente com prédio do Estado, a sul com particulares e a nascente com a Rua do Vale Formoso, a desanexar do PM 12/Porto, designado «Quartel do Bom Pastor», com a área aproximada de 78550 m2, situado na freguesia de Paranhos, município do Porto, omisso na respectiva matriz predial, composto pelo prédio descrito na 1.ª Conservatória do Registo Predial do Porto sob o n.º 104, a fl. 5 v.º do livro B-2, que engloba as descrições n.os 106 e 107, respectivamente a fls. 12 v.º e 15 v.º do livro B-2, e inscrito a favor do Estado, sob o n.º 36753, a fl. 14 v.º do livro G-48, e pela parcela de 1404 m2, a desanexar do prédio descrito na referida Conservatória sob o n.º 17914, a fl. 194 do livro B-59, confrontando a norte com a Rua de 9 de Abril e com a Nova Travessa do Vale Formoso, a sul com prédios particulares, a nascente com a Rua do Vale Formoso e a poente com particulares;
 
@@ -202,6 +205,8 @@ q) Prédio urbano, com a área aproximada de 265,50 m2, situado na Rua de Sena d
 r) PM 5/Vila Nova da Barquinha, designado «Central Elevatória do Zêzere ou Lagar do Rio», com a área aproximada de 8500 m2, sito na freguesia de Praia do Ribatejo, município de Vila Nova da Barquinha, inscrito em nome do Estado na matriz cadastral da referida freguesia sob o artigo 27 da secção I, e sob o artigo 1129 urbano da mesma freguesia, omisso na Conservatória do Registo Predial de Vila Nova da Barquinha;
 
 s) Instalações da Força Aérea, designadas «Aquartelamento de Paços de Ferreira», com a área aproximada de 34000 m2, sitas na freguesia e município de Paços de Ferreira.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 132/95](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/132-1995-515870), publicado em 1995-10-31.
 
 ###### Artigo 2.º
 

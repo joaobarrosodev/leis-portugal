@@ -69,6 +69,12 @@
      "title": "Decreto-Lei n.º 80/2001",
      "published": "2001-03-06",
      "dre_path": "/dr/detalhe/decreto-lei/80-2001-371872"
+    },
+    {
+     "id": "pt:dre:302928:por",
+     "title": "Declaração de Rectificação n.º 24/93",
+     "published": "1993-02-27",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/24-1993-302928"
     }
    ],
    "changes": [
@@ -107,10 +113,11 @@
     "Revoga Artigo 35.º",
     "Revoga Artigo 36.º",
     "Revoga Artigo 37.º",
-    "Revoga Artigo 38.º"
+    "Revoga Artigo 38.º",
+    "Retifica texto"
    ],
    "fragments": [
-    "da002d67291dd1e8",
+    "48fc19ec78a35fd5",
     "2ac52c5103f3970f",
     "82779185418ad9f2",
     "74de769869660052",
@@ -536,6 +543,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf)"
+  },
+  "48fc19ec78a35fd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 24/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-1993-302928), publicado em 1993-02-27."
+   ],
+   "markdown": "de 30 de Novembro\n\nO [Decreto-Lei n.º 83/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1991-487122), de 20 de Fevereiro, que aprovou a Lei Orgânica do Ministério do Emprego e da Segurança Social, define, no seu artigo 20.º, a Inspecção-Geral da Segurança Social como o serviço central de inspecção e fiscalização do cumprimento das normas relativas ao funcionamento dos órgãos, serviços e instituições de segurança social e das instituições não lucrativas de fins análogos ao daquelas instituições.\n\nTem, pois, basicamente, a Inspecção-Geral da Segurança Social como atribuições fundamentais o exercício da missão inspectiva e de fiscalização do sistema de segurança social, visando a eficácia da gestão, a correcta utilização dos seus recursos e a salvaguarda do interesse geral pela rigorosa observância da legalidade.\n\nPor sua vez, o artigo 28.º do referido decreto-lei determina que devem constar de diploma próprio as normas referentes a organização e competências, funcionamento, regime jurídico de pessoal e demais disposições necessárias para a prossecução dos objectivos dos serviços do Ministério, um dos quais e, evidentemente, a Inspecção-Geral da Segurança Social.\n\nCom um campo de acção que abarca, além dos outros serviços e instituições do sistema de segurança social, 18 centros regionais e cerca de 2600 instituições particulares de solidariedade social, importa ter presente, por outro lado, os importantes recursos humanos e os elevadíssimos recursos materiais envolvidos.\n\nNa concepção do presente diploma tiveram-se em atenção os parâmetros que vêm presidindo à reestruturação dos órgãos e serviços da Administração Pública e, por outro lado, a mobilidade exigida para um serviço desta natureza.\n\nÉ assim que se perfilham, como regras, a gestão por objectivos e o controlo financeiro de resultados e, como instrumentos básicos de programação, os planos e relatórios de actividades e o orçamento anual.\n\nNo que se refere à estrutura e funcionamento, consagram-se formas flexíveis de actuação, susceptíveis de garantir níveis de eficácia consentâneos com as elevadas responsabilidades atribuídas.\n\nNo que respeita a pessoal, introduzem-se algumas alterações, com o fim de garantir um quadro de funcionários devidamente qualificados. Aumenta-se o número de inspectores em quase todas as categorias da carreira técnica superior de inspecção, nomeadamente na de inspectores superiores assessores principais e inspectores superiores assessores, garantindo-se, assim, possibilidades de acesso àqueles que detêm condições para tanto.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 24/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-1993-302928), publicado em 1993-02-27.\n\nTendo em atenção as condicionantes orçamentais da presente conjuntura, evidencia-se que este desiderato se consegue sem aumentar os encargos com pessoal e com uma diminuição real de efectivos, pois faz-se corresponder a estrutura do quadro de pessoal ao tipo de orgânica adoptada.\n\nInovação importante é a da criação dos lugares de directores de serviços, indispensável na tarefa de coordenação e conjugação das áreas técnicas, pretendendo-se, dessa forma, reunir condições para um mais eficaz processo de decisão.\n\nO presente diploma constitui um instrumento positivo como reforço da legalidade, valorizando e dignificando, por outro lado, com o rigor e transparência que dele sobressaem, a acção de um serviço que é fundamental no contexto do sistema de segurança social português.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
   },
   "82779185418ad9f2": {
    "fragment_id": null,

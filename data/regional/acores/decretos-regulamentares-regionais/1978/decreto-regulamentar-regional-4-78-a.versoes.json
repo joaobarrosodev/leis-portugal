@@ -23,16 +23,23 @@
      "title": "Decreto Regulamentar Regional n.º 22/78/A",
      "published": "1978-11-14",
      "dre_path": "/dr/detalhe/decreto-regulamentar-regional/22-1978-325921"
+    },
+    {
+     "id": "pt:dre:446691:por",
+     "title": "Declaração",
+     "published": "1978-02-27",
+     "dre_path": "/dr/detalhe/declaracao/1978-446691"
     }
    ],
    "changes": [
-    "Altera Artigo 2.º"
+    "Altera Artigo 2.º",
+    "Retifica Artigo 3"
    ],
    "fragments": [
     "d724bfa326f4b2e7",
     "afebfa7796ca500d",
     "09099750fff58b6c",
-    "59e2e85daf1f200a",
+    "d767139ec7986e0a",
     "8ffb4145ea98a6a5",
     "6816a2f2dac8c5a7",
     "49e951df3fef7a08",
@@ -81,13 +88,15 @@
    ],
    "markdown": "###### Artigo 2.º\n\n1 - O conselho de administração da Federação proporá à aprovação dos Secretários Regionais da Administração Pública e do Comércio e Indústria a nomeação de um engenheiro electrotécnico ou engenheiro técnico de electrotecnia e máquinas para desempenhar as funções de director-delegado dos seus serviços e, bem assim, o vencimento mensal que pretende atribuir-lhe.\n\n2 - Se o proposto pertencer aos quadros do Estado ou da Região, será considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.\n\n3 - Se o proposto não pertencer aos quadros do Estado ou da Região, deverá ser contratado pelo prazo de três anos, considerando-se o contrato sucessivamente renovado por períodos iguais se não for denunciado com antecedência de três meses relativamente ao termo do período em curso.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1978-325921), publicado em 1978-11-14."
   },
-  "59e2e85daf1f200a": {
+  "d767139ec7986e0a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 3.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 3.º\n\nDentro do prazo de três meses, a contar da data da publicação do presente diploma, a Federação proporá à aprovação do Governo Regional, por intermédio da Secretaria Regional do Comércio e Indústria, o programa de investimentos na rede eléctrica do Pico para o período de 1978-1980 subordinado ao esquema geral que constar do contrato-programa a que se refere o artigo 15.º do presente diploma."
+   "in_force_from": "1978-11-14",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-446691), publicado em 1978-02-27."
+   ],
+   "markdown": "###### Artigo 3.º\n\nDentro do prazo de três meses, a contar da data da publicação do presente diploma, a Federação proporá à aprovação do Governo Regional, por intermédio da Secretaria Regional do Comércio e Indústria, o programa de investimentos na rede eléctrica do Pico para o período de 1978-1980 subordinado ao esquema geral que constar do contrato-programa a que se refere o artigo 12.º do presente diploma.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-446691), publicado em 1978-02-27."
   },
   "8ffb4145ea98a6a5": {
    "fragment_id": null,

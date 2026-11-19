@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1978-11-14'
     amending: pt:dre:325921:por
-    amending_title: Decreto Regulamentar Regional n.º 22/78/A
+    amending_title: Decreto Regulamentar Regional n.º 22/78/A; Declaração
     changes:
     - Altera Artigo 2.º
+    - Retifica Artigo 3
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:50Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
-    22/78/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1978/decreto-regulamentar-regional-4-78-a.alteracoes.json'
+    22/78/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1978/decreto-regulamentar-regional-4-78-a.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,7 +165,9 @@ Assim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 
 
 ###### Artigo 3.º
 
-Dentro do prazo de três meses, a contar da data da publicação do presente diploma, a Federação proporá à aprovação do Governo Regional, por intermédio da Secretaria Regional do Comércio e Indústria, o programa de investimentos na rede eléctrica do Pico para o período de 1978-1980 subordinado ao esquema geral que constar do contrato-programa a que se refere o artigo 15.º do presente diploma.
+Dentro do prazo de três meses, a contar da data da publicação do presente diploma, a Federação proporá à aprovação do Governo Regional, por intermédio da Secretaria Regional do Comércio e Indústria, o programa de investimentos na rede eléctrica do Pico para o período de 1978-1980 subordinado ao esquema geral que constar do contrato-programa a que se refere o artigo 12.º do presente diploma.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-446691), publicado em 1978-02-27.
 
 ###### Artigo 4.º
 

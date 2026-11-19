@@ -46,29 +46,39 @@
      "title": "Portaria n.º 583/2004",
      "published": "2004-05-28",
      "dre_path": "/dr/detalhe/portaria/583-2004-261293"
+    },
+    {
+     "id": "pt:dre:241016:por",
+     "title": "Declaração de Rectificação n.º 8/2004",
+     "published": "2004-01-12",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/8-2004-241016"
     }
    ],
    "changes": [
-    "Altera Artigo ANEXO — REGULAMENTO DO APOIO SUSTENTADO ÀS ARTES DO ESPECTÁCULO DE CARÁCTER PROFISSIONAL::7.º"
+    "Altera Artigo ANEXO — REGULAMENTO DO APOIO SUSTENTADO ÀS ARTES DO ESPECTÁCULO DE CARÁCTER PROFISSIONAL::7.º",
+    "Retifica texto",
+    "Retifica Artigo 6",
+    "Retifica Artigo 12",
+    "Retifica Artigo 15"
    ],
    "fragments": [
-    "e763c80e0988d1f0",
+    "06cf7fa541a78419",
     "514463f1be3e7359",
     "65e8851356daee16",
     "16d216ebf0bd2178",
     "cdc2ebd7d956fc15",
     "0e6233fca00fe722",
     "3aac3120ab2c02ea",
-    "5ecde29d68b25fe8",
+    "df2b77adbc15d315",
     "73e141abff982a43",
     "be0a8bc3e833f65a",
     "e195a14a599de9e6",
     "fe6f7d15577ca589",
     "9e1b777f840788c7",
-    "5b213159b41deb7d",
+    "f97a4cc2e9dd3c0a",
     "8f5fcf9eb2f63aea",
     "22738d833fc5e791",
-    "dffa2fc8edb6c9e5",
+    "3b91b3265c0b30cd",
     "61d66c2f7caf9499",
     "3bde7bb0a49150ad",
     "bcf20ebac9894e3f",
@@ -272,6 +282,24 @@
    "changed_by": [],
    "markdown": "###### Artigo 22.º — Montante dos apoios\n\n1 - Por despacho do Ministro da Cultura e sob proposta do director do Instituto das Artes, são definidos os montantes máximos atribuídos a cada programa sustentado e a respectiva distribuição por cada delegação regional de cultura e pela área de influência do Instituto das Artes.\n\n2 - De acordo com parecer fundamentado do director do Instituto das Artes, os montantes afectos a cada delegação regional e ao Instituto das Artes podem ser redistribuídos por despacho do Ministro da Cultura até à realização da audiência de interessados."
   },
+  "06cf7fa541a78419": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2004-05-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 8/2004](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2004-241016), publicado em 2004-01-12."
+   ],
+   "markdown": "de 27 de Novembro\n\nO [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), de 29 de Outubro, veio definir o novo regime de atribuição de apoios financeiros do Estado a entidades que, com carácter profissional, exercem actividades no domínio das artes do espectáculo, prevendo programas de apoio sustentado, com a duração de dois ou quatro anos, destinados a incentivar o desenvolvimento de actividades assentes em planos plurianuais.\n\nOs referidos programas contemplam a atribuição de apoios financeiros às actividades de criação, produção, difusão, interpretação e formação nas áreas do teatro, da dança e da música, incluindo projectos transdisciplinares e pluridisciplinares, bem como apoios financeiros à programação de salas, designadamente no âmbito do acolhimento de espectáculos, residências artísticas e espaços de trabalho, de experimentação e de formação.\n\nNeste âmbito, o regime instituído pelo [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), de 29 de Outubro, visando permitir aos agentes culturais uma maior estabilidade no desenvolvimento das suas actividades, prevê um sistema de atribuição de apoios descentralizado e de partilha de responsabilidades com as autarquias locais, através da constituição de comissões de apreciação das candidaturas a nível regional, bem como, igualmente a nível regional, de comissões técnicas de acompanhamento e avaliação dos contratos celebrados com as entidades beneficiárias importando agora estabelecer as regras e procedimentos aplicáveis à apresentação das candidaturas e ao funcionamento daquelas comissões.\n\nDe acordo com o artigo 22.º do [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), de 29 de Outubro, são ainda estabelecidas as condições de renovação, em 2004, de apoios anteriormente concedidos e cujos contratos terminem no final de 2003.\n\nAssim:\n\nAo abrigo do disposto nos artigos 4.º e 22.º do [Decreto-Lei n.º 272/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2003-466182), de 29 de Outubro, manda o Governo, pelo Ministro da Cultura, o seguinte:\n\n1.º São aprovadas as normas que regulamentam a atribuição de apoios financeiros sustentados às entidades que exerçam actividade de carácter profissional no âmbito do teatro, da dança e da música ou da programação de recintos e salas, constantes do anexo à presente portaria e da qual faz parte integrante.\n\n2.º No prazo de 30 dias úteis a contar da publicação do presente diploma, podem solicitar a renovação do apoio por mais um ano:\n\na) As entidades beneficiárias de apoios financeiros plurianuais, mediante a celebração de protocolos cujo vínculo contratual termine em 31 de Dezembro de 2003;\n\nb) As entidades beneficiárias de apoios financeiros ao abrigo do [Despacho Normativo n.º 23/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/23-2000-281594), de 3 de Maio, ou que tenham sido beneficiárias da prorrogação a que se refere o n.º 4.º da [Portaria n.º 1056/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1056-2002-171684), de 20 de Agosto, e cujo vínculo contratual termine em 31 de Dezembro de 2003;\n\nc) As entidades beneficiárias de apoios a programas anuais e a festivais ao abrigo dos regulamentos aprovados pela [Portaria n.º 1056/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1056-2002-171684).\n\n> Retificado pelo/a [Declaração de Rectificação n.º 8/2004](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-2004-241016), publicado em 2004-01-12.\n\n3.º A solicitação de renovação deve ser acompanhada do plano de actividades e do orçamento para o ano seguinte, bem como de relatório detalhado da execução da actividade desenvolvida no corrente ano até à data de entrada em vigor do presente diploma.\n\n4.º A renovação é decidida pelo director do Instituto das Artes e formalizada por protocolo, mediante a avaliação das actividades desenvolvidas e a apreciação dos planos de actividades e orçamentos para o ano de 2004, devendo para o efeito solicitar aos delegados regionais da cultura parecer relativamente aos projectos desenvolvidos e a desenvolver nas respectivas áreas de influência, podendo haver lugar a alteração do montante de financiamento em função do plano de actividades e orçamento apresentados.\n\n5.º A entidade que obtenha a renovação do apoio para o ano de 2004 pode apresentar candidatura ao concurso para apoio a projectos pontuais no ano de 2004 para um projecto de acolhimento, de co-produção ou de internacionalização.\n\n6.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nPelo Ministro da Cultura, José Manuel Amaral Lopes, Secretário de Estado Adjunto do Ministro da Cultura, em 10 de Novembro de 2003."
+  },
+  "df2b77adbc15d315": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Verificação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Verificação das candidaturas\n\n1 - São liminarmente excluídas as candidaturas entregues extemporaneamente e que não sejam apresentadas através de formulário redigido em português e entregues em seis exemplares.\n\n2 - Os candidatos cujas candidaturas não estejam instruídas com os documentos a que se referem as alíneas a), d), m) e n) do n.º 2 do artigo anterior são obrigatoriamente notificados dos elementos em falta, devendo apresentá-los no prazo máximo de cinco dias úteis, findo o qual as candidaturas serão liminarmente excluídas.\n\n3 - As candidaturas cujos candidatos não reúnam as condições de acesso definidas no artigo 3.º são igualmente excluídas.\n\n4 - As decisões de exclusão a que se referem os números anteriores são da competência do delegado regional da cultura ou do director do Instituto das Artes."
+  },
   "73e141abff982a43": {
    "fragment_id": null,
    "type": null,
@@ -281,6 +309,22 @@
     "Alterado pelo/a [Portaria n.º 583/2004](https://diariodarepublica.pt/dr/detalhe/portaria/583-2004-261293), publicado em 2004-05-28."
    ],
    "markdown": "###### Artigo 7.º — Número de produções ou criações\n\n1 - Os candidatos aos apoios plurianuais a que se refere o n.º 2 do artigo 1.º devem propor a realização:\n\na) Na área do teatro, um mínimo de 3 produções ou criações por ano e apresentar um mínimo de 90 representações anuais;\n\nb) Na área da dança, um mínimo de três produções ou criações por ano, não podendo ter menos de 30 apresentações anuais;\n\nc) Na área da música, um mínimo de três produções ou criações por ano e 30 apresentações públicas ou, no caso de produções de ópera, um mínimo de duas produções por ano;\n\nd) Nas áreas transdisciplinares e pluridisciplinares, um mínimo de três produções ou criações por ano, não podendo ter menos de 30 apresentações anuais.\n\n2 - Os números mínimos de produções, criações ou apresentações referidos no número anterior podem ser alterados por solicitação dos interessados, quando essa alteração seja justificável em função da natureza da sua actividade, designadamente na área da formação, das circunstâncias específicas do plano de actividades apresentado ou quando surjam novas oportunidades de itinerância ou a afluência do público demonstre e justifique o prolongamento das apresentações públicas de uma criação ou produção em detrimento de apresentação de uma nova criação ou produção.\n\n> Alterado pelo/a [Portaria n.º 583/2004](https://diariodarepublica.pt/dr/detalhe/portaria/583-2004-261293), publicado em 2004-05-28."
+  },
+  "f97a4cc2e9dd3c0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Audiência dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Audiência dos interessados\n\n1 - Nos termos dos artigos 100.º a 105.º do Código do Procedimento Administrativo, o projecto de decisão referido no n.º 6 do artigo anterior é enviado pela comissão aos interessados para se pronunciarem no prazo de 10 dias.\n\n2 - As certidões e reproduções de documentos pedidas pelos interessados devem ser passadas no prazo máximo de três dias úteis, contado da data de entrada do requerimento."
+  },
+  "3b91b3265c0b30cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Conteúdo do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conteúdo do contrato\n\n1 - Os contratos a celebrar entre os beneficiários, o Instituto das Artes, a delegação regional da cultura e as câmaras municipais envolvidas definem os direitos e obrigações das partes, o período de vigência do contrato, a quantificação da responsabilidade financeira das partes, a estrutura de acompanhamento e controlo de execução do contrato e as penalizações face às situações de incumprimento.\n\n2 - Os contratos só podem ser celebrados após apresentação pelos beneficiários dos apoios das certidões que comprovem a regularidade das situações a que se refere a alínea n) do n.º 2 do artigo 5.º, bem como documentos comprovativos das autorizações relativas à apresentação de obras que impliquem direitos de autor e direitos conexos durante a vigência do primeiro ano do contrato."
   }
  }
 }

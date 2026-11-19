@@ -43,7 +43,7 @@ version_history:
     changes: []
   - date: '1993-10-06'
     amending: pt:dre:646300:por
-    amending_title: Decreto-Lei n.º 345/93
+    amending_title: Decreto-Lei n.º 345/93; Rectificação
     changes:
     - Revoga Artigo 69.º
     - Revoga Artigo 70.º
@@ -62,6 +62,17 @@ version_history:
     - Revoga Artigo 83.º
     - Revoga Artigo 84.º
     - Revoga Artigo 85.º
+    - Retifica Artigo 3
+    - Retifica Artigo 12
+    - Retifica Artigo 17
+    - Retifica Artigo 20
+    - Retifica Artigo 21
+    - Retifica Artigo 52
+    - Retifica Artigo 64
+    - Retifica Artigo 67
+    - Retifica Artigo 96
+    - Retifica Artigo 97
+    - Retifica Artigo 106
 identifiers:
   celex: null
   eli: null
@@ -88,7 +99,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:23:37Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 345/93. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-351-72.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-351-72.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -267,7 +279,9 @@ d) Protecção ao indivíduo socialmente diminuído, da infância à terceira id
 
 2. Em matéria de saúde e assistência social, os serviços do Ministério cooperarão com os dos outros departamentos do Estado, nela igualmente interessados, através de acções conjuntas, comissões ou grupos de trabalho, nos quais os seus representantes terão a presidência, para assegurar a uniformidade de orientação técnica.
 
-3. Os serviços do Ministério da Saúde e Assistência cooperação também com os dos restantes Ministérios na melhoria das condições gerais de vida da população.
+3. Os serviços do Ministério da Saúde e Assistência cooperarão também com os dos restantes Ministérios na melhoria das condições gerais de vida da população.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-683635), publicado em 1973-01-18.
 
 ###### Artigo 4.º
 
@@ -357,7 +371,7 @@ d) Assegurar ou orientar os trabalhos de processamento mecanográfico da documen
 
 e) Transmitir aos serviços as ordens e instruções do Ministro que tenham carácter genérico e acompanhar por forma sistemática a sua execução;
 
-f) Colaborar no aperfeiçoamento da legislação relativa ao Ministério e da difusão dos respectivos textos;
+f) Colaborar no aperfeiçoamento da legislação relativa ao Ministério e na difusão dos respectivos textos;
 
 g) Assegurar o expediente relativo à publicação dos diplomas legais e, ainda, das instruções e circulares que não forem da competência exclusiva de qualquer das direcções-gerais, do Gabinete de Estudos e Planeamento ou dos serviços com autonomia administrativa;
 
@@ -441,7 +455,7 @@ h) Propor, quando julgue necessário, a consulta à Procuradoria-Geral da Repúb
 
 a) Prestar aos serviços e instituições de saúde e assistência social, em colaboração com os demais serviços do Ministério, os esclarecimentos e o auxílio de ordem jurídico-administrativa de que careçam;
 
-b) Fiscalizar a execução das leis, regulamentos e estatutos, das instituições e serviços dependentes do Ministério, e bem assim a aplicação administrativa dos rendimentos e subsídios destinados às actividades de saúde e assistência social;
+b) Fiscalizar a execução das leis, regulamentos e estatutos, nas instituições e serviços dependentes do Ministério, e bem assim a aplicação administrativa dos rendimentos e subsídios destinados às actividades de saúde e assistência social;
 
 c) Proceder a inspecções, inquéritos, sindicâncias e processos disciplinares;
 
@@ -513,7 +527,7 @@ c) Emitir instruções gerais no que respeita a quadros e carreiras e estatuto d
 
 d) Propor as medidas necessárias à execução da reforma administrativa, em matéria de pessoal, para execução das orientações recebidas da Secretaria-Geral da Presidência do Conselho e promover a execução das mesmas nos próprios serviços;
 
-e) Promover as acções de formação e aperfeiçoamento de pessoal e colaborar nas promovidas por outros serviços do Ministério;
+e) Promover acções de formação e aperfeiçoamento de pessoal e colaborar nas promovidas por outros serviços do Ministério;
 
 f) Promover o estudo dos problemas de relações humanas no Ministério;
 
@@ -537,7 +551,7 @@ e) Proceder a estudos relativos à quantificação de quadros, à adaptação do
 
 f) Colaborar nos estudos e diligências tendentes a racionalizar a instalação e o equipamento dos serviços;
 
-g) Promover as diligências necessárias para a aquirespeitem à matéria contida nas alíneas anteriores;
+g) Dar parecer sobre as iniciativas dos serviços que respeitem à matéria contida nas alíneas anteriores;
 
 h) Adoptar ou sugerir as providências tendentes ao aperfeiçoamento das relações entre os serviços do Ministério e os seus utilizadores, assim como o público em geral, para o qual constituirá um sector informativo;
 
@@ -1073,7 +1087,7 @@ e) Direcção de Serviços de Cuidados Médicos.
 
 a) Realizar prospecções e inquéritos epidemiológicos, de âmbito nacional ou local, sobre as doenças transmissíveis de carácter endémico ou epidémico;
 
-b) Estudar, programar, propor e executar, sem colaboração com os demais serviços competentes, o combate a essas doenças e proceder à avaliação dos resultados;
+b) Estudar, programar, propor e executar, em colaboração com os demais serviços competentes, o combate a essas doenças e proceder à avaliação dos resultados;
 
 c) Promover o exame preventivo dos suspeitos de doença transmissível e, sempre que necessário, dos contactos, quer directamente, quer por intermédio de outros serviços de saúde ou hospitalares;
 
@@ -1081,7 +1095,7 @@ d) Promover o internamento compulsivo das pessoas afectadas ou suspeitas de doen
 
 e) Estabelecer as condições de funcionamento dos serviços ou estabelecimentos destinados à prevenção e tratamento das doenças transmissíveis, em especial da tuberculose;
 
-f) Estudar e propor, em colaboração com os demais serviços competentes, a fixação ou revisão dos períodos de afastamento das escolas ou dos locais de trabalho das pessoas afectas de doença contagiosa;
+f) Estudar e propor, em colaboração com os demais serviços competentes, a fixação ou revisão dos períodos de afastamento das escolas ou dos locais de trabalho das pessoas afectadas de doença contagiosa;
 
 g) Elaborar e executar programas de vacinação contra as doenças infecciosas e propor a obrigatoriedade da vacinação, quando as circunstâncias o justifiquem;
 
@@ -1351,7 +1365,7 @@ b) Levar a efeito as acções educativas, de âmbito nacional, regional ou local
 
 c) Actuar junto dos próprios serviços do Ministério, com o objectivo de conseguir que o pessoal, no desempenho das suas funções, procure sempre interessar os indivíduos e as colectividades na resolução dos problemas de saúde que pertençam à sua esfera de acção;
 
-d) Intervir, junto de outras entidades, oficiais e particulares, nomeadamente de índole económica cultural e social, no sentido de as consciencializar da importância do papel que lhes compete na promoção da saúde;
+d) Intervir, junto de outras entidades, oficiais e particulares, nomeadamente de índole económica, cultural e social, no sentido de as consciencializar da importância do papel que lhes compete na promoção da saúde;
 
 e) Prestar apoio técnico às entidades e serviços que solicitem a sua colaboração, quando pretendam empreender acções que impliquem a conveniência de programas de educação sanitária;
 
@@ -1389,7 +1403,7 @@ c) Expediente Geral e Arquivo (3.ª secção).
 
 1. O Parque Sanitário é um serviço de apoio da Direcção-Geral de Saúde, competindo-lhe, em geral:
 
-a) Armazenar, conservar e movimentar o material sanitário, incluindo medicamentos, soros, vacinas desinfectantes, desinfestantes e outras substâncias de utilização normal;
+a) Armazenar, conservar e movimentar o material sanitário, incluindo medicamentos, soros, vacinas, desinfectantes, desinfestantes e outras substâncias de utilização normal;
 
 b) Manter actualizado o inventário do material e produtos armazenados, assegurando a existência permanente das suficientes reservas;
 
@@ -1709,7 +1723,7 @@ f) Exercer as demais atribuições que lhes sejam fixadas por despacho do Minist
 
 3. Os conselhos coordenadores terão, normalmente, as suas sedes nos respectivos centros de saúde distritais, que lhes fornecerão apoio administrativo, com a colaboração, se necessária, das outras entidades neles representadas.
 
-4. Das resoluções dos conselhos coordenadores elaborar-se-ão actas de que serão remetidas cópias à Secretaria-Geral, ao Gabinete de Estudos e Planeamento e às três direcções-gerais.
+4. Das reuniões dos conselhos coordenadores elaborar-se-ão actas de que serão remetidas cópias à Secretaria-Geral, ao Gabinete de Estudos e Planeamento e às três direcções-gerais.
 
 ###### Artigo 97.º
 
@@ -1729,7 +1743,7 @@ f) Um elemento local a designar pela Direcção-Geral da Assistência Social.
 
 2. Sempre que se mostre conveniente, podem ser convocados ou convidados para as reuniões elementos do Ministério ou a ele estranhos, qualificados para a discussão das matérias em causa.
 
-3. Às comissões coordenadoras compete, de modo geral, exercer nos respectivos concelhos as funções desempenhadas nos distritos pelos concelhos coordenadores.
+3. Às comissões coordenadoras compete, de modo geral, exercer nos respectivos concelhos as funções desempenhadas nos distritos pelos conselhos coordenadores.
 
 4. As comissões coordenadoras terão as suas sedes nos correspondentes centros de saúde concelhios, que lhes fornecerão o necessário apoio administrativo.
 
@@ -1851,7 +1865,7 @@ h) Intervir, nos termos das disposições legais aplicáveis, nas inspecções m
 
 i) Fiscalizar as condições higiénicas dos estabelecimentos de ensino, oficiais e particulares, do concelho sede do distrito, e exercer a vigilância sanitária do respectivo pessoal, conforme vier a ser estabelecido na portaria referida no n.º 2 do artigo 54.º do presente Regulamento;
 
-j) Exercer, nos termos das disposições legais aplicáveis, a fiscalização sanitária dos estabelecimentos de hidroterapia e fisioterapia das instalações de engarrafamento e depósito de águas minerais e de mesa;
+j) Exercer, nos termos das disposições legais aplicáveis, a fiscalização sanitária dos estabelecimentos de hidroterapia e fisioterapia e das instalações de engarrafamento e depósito de águas minerais e de mesa;
 
 k) Fiscalizar as farmácias, devendo, quanto a aspectos técnicos, e a exercício farmacêutico, a fiscalização ser exercida por pessoal técnico licenciado em Farmácia;
 

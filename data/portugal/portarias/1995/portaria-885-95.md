@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1996-07-01'
     amending: pt:dre:427404:por
-    amending_title: Portaria n.º 232/96
+    amending_title: Portaria n.º 232/96; Portaria n.º 564/2005
     changes:
     - Altera Artigo unidades 8-8
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/885/1995/07/14/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:13:21Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 232/96. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-885-95.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-885-95.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Portaria n.º 564/2005.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -171,7 +173,9 @@ Manda o Governo, pelo Ministro da Agricultura, o seguinte:
 
 > Alterado pelo/a [Portaria n.º 232/96](https://diariodarepublica.pt/dr/detalhe/portaria/232-1996-427404), publicado em 1996-06-26.
 
-2.º Pelo presente diploma é concessionada, até 14 de Julho de 2005, ao Clube Desportivo de Caça e Pesca de Moimenta da Beira (registo no Instituto Florestal n.º 1.1333.93), com sede em Moimenta da Beira, a zona de caça associativa de São Miguel (processo n.º 1341 do Instituto Florestal).
+2.º Pelo presente diploma é concessionada, até 14 de Julho de 2008, ao Clube Desportivo de Caça e Pesca de Moimenta da Beira (registo no Instituto Florestal n.º 1.1333.93), com sede em Moimenta da Beira, a zona de caça associativa de São Miguel (processo n.º 1341 do Instituto Florestal).
+
+> Retificado pelo/a [Portaria n.º 564/2005](https://diariodarepublica.pt/dr/detalhe/portaria/564-2005-233734), publicado em 2005-06-30.
 
 3.º O Clube Desportivo de Caça e Pesca de Moimenta da Beira, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegético aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
 

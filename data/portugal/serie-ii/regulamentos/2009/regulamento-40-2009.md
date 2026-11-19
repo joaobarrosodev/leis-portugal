@@ -53,11 +53,14 @@ version_history:
     changes: []
   - date: '2010-10-30'
     amending: pt:dre:3282938:por
-    amending_title: Regulamento n.º 821/2010
+    amending_title: Regulamento n.º 821/2010; Declaração de Rectificação n.º 515/2009
     changes:
     - Altera Artigo 3.º
     - Altera Artigo 6.º
     - Altera Artigo 3.º
+    - Retifica Artigo 5
+    - Retifica Artigo 7
+    - Retifica Artigo 8
 identifiers:
   celex: null
   eli: null
@@ -84,7 +87,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T11:16:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Regulamento n.º 821/2010. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos/2009/regulamento-40-2009.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos/2009/regulamento-40-2009.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 515/2009.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -226,13 +231,15 @@ b) Volume de negócios referente a transporte aéreo internacional no exercício
 
 2 - Nos termos do n.º 4 do artigo 14.º do Código do IVA, considera-se equiparado ao transporte internacional o transporte de pessoas com proveniência ou com destino às Regiões Autónomas e ainda o transporte de pessoas entre as ilhas das mesmas Regiões.
 
-3 - A declaração referida no número anterior tem validade de 12 meses.
+3 - A declaração referida no n.º 1 tem validade de 12 meses.
 
 4 - No âmbito da emissão da declaração deverão ser preenchidos os seguintes requisitos:
 
-a) No caso de uma transportadora aérea que se dedique exclusivamente ao transporte aéreo, a mesma deve fazer prova de que a percentagem do volume de negócios afecto ao transporte aéreo internacional é superior a 50 % do volume de negócios total anual ou de que a percentagem de passageiros/carga transportados em tráfego internacional é superior a 50 % do total transportado em tráfego comercial nos 12 meses anteriores, bastando para tal que um dos requisitos conclua pelo exercício maioritário do transporte aéreo internacional;
+a) No caso de uma transportadora aérea que se dedique exclusivamente ao transporte aéreo, a mesma deve fazer prova de que a percentagem do volume de negócios afecto ao transporte aéreo internacional é superior a 50 % do volume de negócios total anual ou de que a percentagem de passageiros/carga transportados em tráfego aéreo internacional é superior a 50 % do total transportado em tráfego comercial nos 12 meses anteriores, bastando para tal que um dos requisitos conclua pelo exercício maioritário do transporte aéreo internacional;
 
 b) No caso de uma transportadora aérea que se dedique simultaneamente a outras actividades para além do transporte aéreo, nomeadamente ao trabalho aéreo ou a reparações ou operações de manutenção, a mesma deve fazer prova de que valor das operações de tráfego aéreo internacional realizadas em cada ano corresponde a uma percentagem superior a 50 % do seu volume de negócios global.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 515/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/515-2009-3485579), publicado em 2009-02-19.
 
 ###### Artigo 6.º — Contratos de wet lease entre operadores
 
@@ -242,11 +249,11 @@ b) No caso de uma transportadora aérea que se dedique simultaneamente a outras 
 
 > Alterado pelo/a Artigo 2.º do/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29.
 
-###### Artigo 8.º — Disposições transitórias
+###### Artigo 7.º — Disposições transitórias
 
 Aos processos de emissão de declaração em curso no INAC, I. P., e aos requerimentos formulados e entregues no INAC, I. P., antes da data da entrada em vigor do presente regulamento são aplicáveis as regras, critérios e procedimentos em vigor até àquela data.
 
-###### Artigo 9.º — Entrada em vigor
+###### Artigo 8.º — Entrada em vigor
 
 O presente regulamento entra em vigor no dia da sua aprovação.
 

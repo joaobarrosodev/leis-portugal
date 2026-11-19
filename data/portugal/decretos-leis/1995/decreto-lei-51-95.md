@@ -54,7 +54,8 @@ version_history:
     changes: []
   - date: '2012-01-01'
     amending: pt:dre:477288:por
-    amending_title: Lei n.º 10-B/96; Decreto-Lei n.º 27/97; Decreto-Lei n.º 472/99; Lei n.º 64-B/2011
+    amending_title: Lei n.º 10-B/96; Decreto-Lei n.º 27/97; Decreto-Lei n.º 472/99; Lei n.º 64-B/2011; Declaração de Rectificação
+      n.º 4-C/2000
     changes:
     - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::2.º
     - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::5.º
@@ -67,6 +68,7 @@ version_history:
     - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::2.º
     - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::3.º
     - Altera Artigo ANEXO I — Regulamento da Contribuição Especial::7.º
+    - Retifica Artigo 14
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/51/1995/03/20/p/dre/pt/html
@@ -93,7 +95,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:42:01Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 10-B/96; Decreto-Lei n.º
-    27/97; Decreto-Lei n.º 472/99; Lei n.º 64-B/2011. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-51-95.alteracoes.json'
+    27/97; Decreto-Lei n.º 472/99; Lei n.º 64-B/2011. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-51-95.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 4-C/2000.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -365,9 +369,11 @@ Não se procederá a qualquer liquidação, ainda que adicional, quando o seu qu
 
 ###### Artigo 14.º
 
-Só poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos prazos e termos previstos nos artigos 45.º e 46.º da lei geral tributária, contando-se o respectivo prazo a partir da data em que tiver sido emitido o alvará de licença de construção ou da obra.
+Só poderão ser efectuadas ou corrigidas liquidações, ainda que adicionais, nos prazos e termos previstos nos artigos 45.º e 46.º da lei geral tributária, contando-se o respectivo prazo a partir da data em que tiver sido emitido o alvará de licença de construção ou de obra.
 
 > Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 472/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), publicado em 1999-11-08.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 4-C/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-c-2000-596725), publicado em 2000-01-31.
 
 ###### Artigo 15.º
 

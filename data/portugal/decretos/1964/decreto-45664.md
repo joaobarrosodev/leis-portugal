@@ -43,10 +43,11 @@ version_history:
     changes: []
   - date: '1969-11-05'
     amending: pt:dre:517412:por
-    amending_title: Decreto n.º 46068; Decreto-Lei n.º 49356
+    amending_title: Decreto n.º 46068; Decreto-Lei n.º 49356; Rectificação
     changes:
     - Altera Artigo 99.º
     - Altera Artigo 143.º
+    - Retifica Artigo 56
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:40:14Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 46068; Decreto-Lei n.º
-    49356. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1964/decreto-45664.alteracoes.json'
+    49356. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1964/decreto-45664.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -945,9 +947,11 @@ d) Serviços de fisioterapia e recuperação;
 
 e) Laboratório de biofísica e radioisótopos;
 
-f) Serviço de transfusão de sangue;
+f) Serviço de hemoterapia e reanimação;
 
 g) Laboratório de análises hormonais.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1964-575948), publicado em 1964-05-13.
 
 ###### Artigo 57.º
 

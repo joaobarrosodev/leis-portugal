@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '1997-02-12'
     amending: pt:dre:559038:por
-    amending_title: Decreto-Lei n.º 42/97
+    amending_title: Decreto-Lei n.º 42/97; Declaração de Rectificação n.º 22/94
     changes:
     - Altera Artigo 32.º
     - Altera Artigo 33.º
@@ -72,6 +72,8 @@ version_history:
     - Revoga Artigo 10.º
     - Revoga Artigo 52.º
     - Revoga Artigo 2.º
+    - Retifica Artigo 21
+    - Retifica Artigo 57
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre/pt/html
@@ -98,7 +100,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:28:28Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 42/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-408-93.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-408-93.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 22/94.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -861,11 +864,13 @@ h) Elaborar o balanço social.
 
 2 - A DSGRH compreende as seguintes unidades orgânicas:
 
-a) Divisão de Gestão de Pessoal, que exerce as competências a que se referem as alíneas a), b), e) e i) do número anterior;
+a) Divisão de Gestão de Pessoal, que exerce as competências a que se referem as alíneas a), b) e e) do número anterior;
 
 b) Divisão de Recrutamento e Selecção, que exerce as competências a que se referem as alíneas c) e d) do número anterior;
 
 c) Repartição de Administração de Pessoal, que exerce as competências a que se referem as alíneas f), g) e h) do número anterior e compreende a Secção de Pessoal, a Secção de Expediente e Cadastro e a Secção de Assiduidade e Aposentação e ainda duas Secções de Pessoal, a funcionar uma junto das áreas funcionais dos impostos sobre o rendimento, dos impostos sobre o património e da informática tributária e outra junto da área funcional do imposto sobre o valor acrescentado.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 22/94](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-1994-165071), publicado em 1994-02-28.
 
 ###### Artigo 22.º — Direcção de Serviços Financeiros
 
@@ -1559,7 +1564,7 @@ São revogados pelo presente diploma:
 
 a) Os artigos 1.º a 15.º, 17.º a 26.º, 28.º, 29.º, 37.º e 39.º a 45.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro;
 
-b) Os artigos 1.º a 30.º, 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, as alíneas a) e b) do n.º 1 do artigo 48.º, o artigo 49.º, as alíneas b) e d) do artigo 50.º e os artigos 51.º, 54.º a 66.º, 69.º, 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 109.º e 111.º a 114.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio;
+b) Os artigos 1.º a 30.º, 32.º, 37.º, 38.º, 40.º, 43.º, 44.º, 46.º, 47.º, as alíneas a) e b) do n.º 1 do artigo 48.º, o artigo 49.º, as alíneas b) e d) do artigo 50.º e os artigos 51.º, 54.º a 66.º, 69.º, 70.º, 77.º a 79.º, 82.º, 89.º, 95.º, 98.º a 104.º, 105.º, excepto o n.º 1, alínea a), 106.º a 109.º e 111.º a 114.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio;
 
 c) Os artigos 1.º a 12.º, o n.º 2 do artigo 13.º e os artigos 14.º a 32.º e 41.º a 51.º do [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro;
 

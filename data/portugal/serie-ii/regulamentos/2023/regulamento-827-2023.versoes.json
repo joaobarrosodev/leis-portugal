@@ -599,10 +599,19 @@
      "title": "Regulamento n.º 8/2026",
      "published": "2026-01-06",
      "dre_path": "/dr/detalhe/regulamento/8-2026-994000577"
+    },
+    {
+     "id": "pt:dre:223596742:por",
+     "title": "Declaração de Retificação n.º 830/2023",
+     "published": "2023-10-31",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/830-2023-223596742"
     }
    ],
    "changes": [
-    "Altera Artigo 131.º"
+    "Altera Artigo 131.º",
+    "Retifica Artigo 36",
+    "Retifica Artigo 51",
+    "Retifica Artigo 79"
    ],
    "fragments": [
     "1e660990635f5e71",
@@ -650,7 +659,7 @@
     "aa7daa7445111a3e",
     "f92dbec2a81025e2",
     "0792b6ea4fc08497",
-    "d121b3acf4ee35fd",
+    "887e8144087b0612",
     "f1c900a1b5f0dd2d",
     "bef6bbb2244fcff5",
     "aca7425b4b4cd172",
@@ -668,7 +677,7 @@
     "e045b74e2a2d3fed",
     "e043881a2b5da94f",
     "7ebbff26fbb3650c",
-    "b00327f929898669",
+    "314d030df672a928",
     "19e88aa8b0a91498",
     "304d316c45a3624e",
     "1d2ee619cf278282",
@@ -701,7 +710,7 @@
     "f21fa4f96e3a3748",
     "2aa6a2ecbbc2b9c9",
     "5bd8f9977ca0a232",
-    "18e21f21564050ca",
+    "c0b9d1c22f43b5dd",
     "6e991b3421f0b9e6",
     "7b03e76c84ce41a5",
     "6bc8ff0fcfa66f59",
@@ -5761,6 +5770,32 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 11.º — Norma transitória\n\nOs comercializadores dispõem de um prazo máximo de 90 dias após a publicação da presente regulamentação no Diário da República, para se adaptar aos requisitos constantes do presente Regulamento de execução\n\n17 de julho de 2023. - O Conselho de Administração: Pedro Verdelho, presidente - Ricardo Loureiro, vogal.\n\n316687576"
+  },
+  "887e8144087b0612": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Leitura dos equipamentos de medição",
+   "in_force_from": "2026-07-06",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 830/2023](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/830-2023-223596742), publicado em 2023-10-31."
+   ],
+   "markdown": "###### Artigo 36.º — Leitura dos equipamentos de medição\n\n1 - As indicações recolhidas por leitura direta dos equipamentos de medição prevalecem sobre quaisquer outras.\n\n2 - Os operadores das redes são as entidades responsáveis pela leitura dos equipamentos de medição das instalações dos clientes ligadas às suas redes.\n\n3 - Sem prejuízo do estabelecido no número anterior, os clientes também têm a faculdade de efetuar a leitura dos equipamentos de medição e a sua comunicação, nos termos do número seguinte.\n\n4 - A comunicação das leituras recolhidas pelo cliente pode ser efetuada através dos meios que o operador de rede e o comercializador disponibilizem para o efeito, nos termos previstos no RQS.\n\n5 - Sempre que a leitura seja comunicada pelo cliente ao comercializador, este transmite a informação ao respetivo operador de rede no prazo máximo de 48 horas contadas da receção da leitura.\n\n6 - Para efeitos do n.º 4, deve ser disponibilizada ao cliente aquando da comunicação uma confirmação da boa receção da leitura comunicada, sendo esta válida após a referida confirmação de boa receção.\n\n7 - A leitura dos equipamentos de medição da responsabilidade dos operadores das redes deve respeitar as seguintes regras:\n\na) Periodicidade diária nas instalações de clientes em Muito Alta Tensão, Alta Tensão, Média Tensão e Baixa Tensão Especial;\n\nb) Periodicidade diária nas instalações de clientes em Baixa Tensão Normal, nos casos previstos na legislação e na regulamentação, designadamente, nas instalações integradas em rede inteligente, em regime de autoconsumo ou integradas na rede de mobilidade elétrica;\n\nc) Nas restantes instalações de clientes em Baixa Tensão Normal, o operador de rede deve cumprir o padrão para o indicador previsto no RQS para o desempenho na frequência da leitura local de equipamentos de medição;\n\nd) Periodicidade intradiária nas instalações de clientes ligadas à rede de transporte de gás;\n\ne) Periodicidade diária nas instalações de clientes ligadas à rede de distribuição que disponham de equipamento de telecontagem, nos termos do Artigo 31.º;\n\nf) Para os clientes em Baixa Pressão com consumo anual inferior ou igual a 10 000 m3 (n), o operador de rede deve cumprir o padrão para o indicador previsto no RQS para o desempenho na frequência da leitura local de equipamentos de medição.\n\ng) Para os restantes clientes de gás, quando as instalações não disponham de equipamento de telecontagem, a periodicidade de leitura deve ser mensal;\n\n9 - No caso dos clientes em Baixa Tensão Normal e dos clientes em Baixa Pressão com consumo anual igual ou inferior a 10 000 m3 (n), os operadores das redes de distribuição devem efetuar, pelo menos, uma das seguintes diligências, utilizando os meios que considerem adequados:\n\na) Avisar os clientes da data em que irá ser efetuada uma leitura direta do equipamento de medição;\n\nb) Avisar os clientes de que foi tentada, sem êxito, uma leitura direta do equipamento de medição.\n\n10 - Os avisos previstos nos números anteriores devem conter informação sobre os meios disponíveis para o cliente transmitir ao operador da rede de distribuição os seus dados de consumo, fixando um prazo para o efeito.\n\n11 - Os operadores das redes de distribuição não são responsáveis pelo incumprimento da periodicidade de leitura, caso este tenha ocorrido por facto imputável ao cliente.\n\n12 - No caso dos clientes em Baixa Tensão Normal e dos clientes em Baixa Pressão com consumo anual igual ou inferior a 10 000 m3 (n), considera-se facto imputável ao operador da rede de distribuição caso este não cumpra nenhuma das diligências mencionadas no n.º 9.\n\n13 - O operador da rede deve atualizar e transmitir aos respetivos comercializadores, no prazo máximo de 48 horas após comunicação recebida, todas as leituras por si recolhidas ou que lhe tenham sido comunicadas por clientes relativamente a cada instalação de consumo.\n\n> Retificado pelo/a [Declaração de Retificação n.º 830/2023](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/830-2023-223596742), publicado em 2023-10-31."
+  },
+  "314d030df672a928": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Opções tarifárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Opções tarifárias\n\n1 - As opções tarifárias de acesso às redes nos fornecimentos de energia elétrica ou de gás são estabelecidas no respetivo RT.\n\n2 - A opção tarifária é da escolha do cliente.\n\n3 - Sem prejuízo do número anterior e dos n.os 4 e 5, no caso dos fornecimentos de energia elétrica e no caso dos clientes finais de gás com leitura diária e em que é utilizada uma das variáveis de faturação de capacidade, a opção tarifária tem a duração mínima de um ano.\n\n4 - As opções tarifárias de acesso às redes aplicáveis às entregas a clientes finais de gás com leitura diária e em que é utilizada uma das variáveis de faturação de capacidade com duração inferior a um ano, têm a duração conforme a opção tarifária contratada.\n\n5 - Os clientes de energia elétrica em Muito Alta Tensão, Alta Tensão e Média Tensão em Portugal continental podem optar, em qualquer momento, entre o ciclo semanal e o ciclo semanal opcional.\n\n6 - Nas situações em que a seleção de uma nova opção tarifária ou ciclo horário determine a adaptação ou substituição do equipamento de medição, o operador da rede de distribuição deve proceder às alterações necessárias no prazo máximo de 30 dias a contar da data de solicitação do cliente, salvo nas situações previstas no Artigo 190.º\n\n7 - Em caso de mudança de comercializador, a duração das opções tarifárias previstas nos n.os 3, 4 e 5 não é interrompida.\n\n8 - Nos fornecimentos de gás, a cessação do contrato de fornecimento antes do termo da duração mínima das opções tarifárias previstas no n.º 3 não exonera o cliente do pagamento antecipado dos respetivos encargos devidos até ao referido termo."
+  },
+  "c0b9d1c22f43b5dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Pré-aviso nas interrupções por facto imputável ao cliente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Pré-aviso nas interrupções por facto imputável ao cliente\n\n1 - A interrupção do fornecimento nas condições previstas no n.º 1 do artigo anterior, só pode ter lugar após pré-aviso, por escrito, com uma antecedência mínima relativamente à data em que irá ocorrer, salvo nos casos previstos nas alíneas f) e g), em que deve ser imediata.\n\n2 - O pré-aviso deve conter os seguintes elementos de informação:\n\na) Motivo da interrupção do fornecimento;\n\nb) Meios ao dispor do cliente para evitar a interrupção;\n\nc) Condições de restabelecimento;\n\nd) Preços dos serviços de interrupção e restabelecimento;\n\ne) Dia a partir do qual pode ocorrer a redução de potência e a interrupção.\n\n3 - Nos casos previstos nas alíneas c), d), e), i), j) e l) do n.º 1 do artigo anterior, a antecedência mínima é fixada em 20 dias.\n\n4 - Nos casos previstos na alínea i) do n.º 1 do artigo anterior, e para o setor elétrico, o pré-aviso deve conter uma antecedência mínima de cinco dias para a concretização de redução da potência contratada, nos termos do n.º 3 do artigo anterior, e de 20 dias para a concretização de interrupção se não for possível concretizar a referida redução de potência.\n\n5 - Para efeitos do número anterior, nas situações em que é concretizada a redução da potência contratada, a contagem do prazo para interrupção inicia-se na data em que é efetuada a atuação no local de consumo para redução de potência.\n\n6 - Tratando-se de clientes economicamente vulneráveis, o pré-aviso de interrupção de fornecimento estabelecido nos n.os 3 e 4 anteriores deve ser enviado com a antecedência mínima de 30 dias relativamente à data prevista para a interrupção do fornecimento.\n\n7 - A interrupção do fornecimento, após emissão do pré-aviso, deve ocorrer preferencialmente na data prevista na alínea e) do n.º 2 e só pode exceder essa data, por razões de agendamento entre o operador da rede de distribuição e o comercializador, em 10 dias úteis para clientes em BTN e em cinco dias úteis para os restantes, sem prejuízo da possibilidade de envio de um novo pré-aviso.\n\n8 - A interrupção do fornecimento nas situações previstas na alínea a) do n.º 1 do artigo anterior não pode ocorrer antes de decorridos os prazos aplicáveis ao processo de mudança de comercializador.\n\n9 - Nos casos das instalações provisórias, o aviso é enviado com uma antecedência mínima de 30 dias em relação ao respetivo termo da licença.\n\n10 - Nos casos previstos na alínea h) do n.º 1 do artigo anterior, a antecedência mínima deve ter em conta as perturbações causadas e as ações necessárias para as eliminar.\n\n11 - No caso dos clientes em Baixa Tensão Normal ou com consumo anual de gás inferior ou igual a 10 000 m3 (n), a interrupção do fornecimento por facto imputável ao cliente não pode ter lugar no último dia útil da semana ou na véspera de um feriado, salvo nos casos previstos nas alíneas f) e g) do n.º 1 do artigo anterior.\n\n12 - O pré-aviso deve ser enviado pelo comercializador, salvo nos casos das alíneas c), d), e), h) e k) do n.º 1 do artigo anterior, em que o dever de envio é do operador da rede.\n\n13 - Nos casos respeitantes à alínea b) do n.º 1 do artigo anterior, o operador de rede deve informar o comercializador sobre a necessidade de renovação com 60 dias de antecedência do respetivo termo."
   },
   "ae5c53c9f96420ef": {
    "fragment_id": null,

@@ -23,10 +23,17 @@
      "title": "Decreto-Lei n.º 48489",
      "published": "1968-07-18",
      "dre_path": "/dr/detalhe/decreto-lei/48489-1968-272629"
+    },
+    {
+     "id": "pt:dre:296182:por",
+     "title": "Rectificação",
+     "published": "1965-06-14",
+     "dre_path": "/dr/detalhe/rectificacao/1965-296182"
     }
    ],
    "changes": [
-    "Altera Artigo 15.º"
+    "Altera Artigo 15.º",
+    "Retifica Artigo 20"
    ],
    "fragments": [
     "2d44e6e1782476b1",
@@ -49,7 +56,7 @@
     "2e55a83938c1c2e8",
     "37d3725212c7490d",
     "53e7d9b7454a7cdf",
-    "605d89c311f168e7",
+    "0a971c9fec2969ef",
     "22a02f262600b9ac"
    ]
   }
@@ -225,13 +232,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 19.º\n\nOs directores das demais bibliotecas e arquivos do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, quando o lugar não tiver a categoria prevista no artigo 12.º e não houver candidatos diplomados com o curso de bibliotecário-arquivista, serão escolhidos entre pessoas a quem a Junta Nacional da Educação reconhecer a necessária idoneidade.\n\n§ único. Na hipótese prevista na parte final deste artigo a Junta poderá exigir que a pessoa designada realize, antes de entrar em exercício, um estágio em estabelecimentos do Ministério da Educação Nacional e ainda que frequente cursos previstos na alínea m) do n.º 10.º do artigo 1.º"
   },
-  "605d89c311f168e7": {
+  "0a971c9fec2969ef": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 20.º\n\nOs emolumentos a cobrar nas bibliotecas e arquivos do Estado e nos restantes arquivos distritais por certidões, cópias, fotocópias e buscas são os constantes da tabela anexa ao presente diploma.\n\n§ único. As fotocópias com os requisitos estabelecidos no artigo 117.º do Código do Notariado aprovado pelo [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, valem para todos os efeitos legais como certidões de teor."
+   "in_force_from": "1968-07-18",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1965-296182), publicado em 1965-06-14."
+   ],
+   "markdown": "###### Artigo 20.º\n\nOs emolumentos a cobrar nas bibliotecas e arquivos do Estado e nos restantes arquivos distritais por certidões, cópias, fotocópias e buscas são os constantes da tabela anexa ao presente diploma.\n\n§ único. As fotocópias com os requisitos estabelecidos no artigo 177.º do Código do Notariado aprovado pelo [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, valem para todos os efeitos legais como certidões de teor.\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1965-296182), publicado em 1965-06-14."
   },
   "22a02f262600b9ac": {
    "fragment_id": null,

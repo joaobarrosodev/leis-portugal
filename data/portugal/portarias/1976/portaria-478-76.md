@@ -44,7 +44,7 @@ version_history:
   - date: '1980-12-16'
     amending: pt:dre:253412:por
     amending_title: Portaria n.º 352/77; Portaria n.º 741/77; Portaria n.º 624/78; Portaria n.º 710/80; Portaria n.º 959/80;
-      Portaria n.º 1071/80
+      Portaria n.º 1071/80; Portaria n.º 403/79
     changes:
     - Altera Artigo unidades 38-38
     - Altera Artigo unidades 46-48
@@ -53,6 +53,7 @@ version_history:
     - Altera Artigo unidades 119-122
     - Altera Artigo unidades 125-125
     - Altera Artigo unidades 148-148
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -80,7 +81,8 @@ provenance:
   generated_at: '2026-10-23T05:05:29Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 352/77; Portaria n.º
     741/77; Portaria n.º 624/78; Portaria n.º 710/80; Portaria n.º 959/80; Portaria n.º 1071/80. Método e verificação: consolidacao/README.md
-    e consolidacao/piloto/portugal/portarias/1976/portaria-478-76.alteracoes.json'
+    e consolidacao/piloto/portugal/portarias/1976/portaria-478-76.alteracoes.json. Retificações aplicadas com um LLM e verificadas
+    às cegas (consolidacao/retificacoes_llm.py): Portaria n.º 403/79.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -353,7 +355,9 @@ José Rodrigues Vaz Monteiro:
 
 54 - Hortas do Frialva. - Situado na freguesia e concelho de Ponte de Sor, matriz cadastral 125-AA2, com a área de 1,1250 ha.
 
-José Rosa de Sousa Falcão:
+José Farinha Pereira de Sousa Falcão, Maria Helena Farinha Pereira Sousa Falcão Estrada, Maria Teresa Farinha Pereira Sousa Falcão Miguel Trovão, Maria Fernanda Farinha Sousa Falcão Freire Rodrigues, António Manuel Farinha de Sousa Falcão e Luís Filipe Farinha de Sousa Falcão:
+
+> Retificado pelo/a [Portaria n.º 403/79](https://diariodarepublica.pt/dr/detalhe/portaria/403-1979-377924), publicado em 1979-08-07.
 
 55 - Engarnal. - Situado na freguesia de Montargil, concelho de Ponte de Sor, matriz cadastral 1-QQ, com a área de 269,6750 ha (81247,40 pontos).
 

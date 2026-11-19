@@ -54,13 +54,21 @@
      "title": "Portaria n.º 131/87",
      "published": "1987-02-25",
      "dre_path": "/dr/detalhe/portaria/131-1987-662733"
+    },
+    {
+     "id": "pt:dre:673781:por",
+     "title": "Declaração",
+     "published": "1983-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1983-673781"
     }
    ],
    "changes": [
     "Altera Artigo 2.º",
     "Altera Artigo 5.º",
     "Altera Artigo 13.º",
-    "Altera Artigo 24.º"
+    "Altera Artigo 24.º",
+    "Retifica Artigo 8",
+    "Retifica Artigo 10"
    ],
    "fragments": [
     "656e0aca52f1bddb",
@@ -75,9 +83,9 @@
     "34a20287f09da783",
     "2a33a81a9c131758",
     "db1c09217b100365",
-    "c59be755b760669e",
+    "71727387ed83fade",
     "0d123636880e74c5",
-    "3b96065485798ec3",
+    "4e6ee8161246b319",
     "16fa1397c38f922d",
     "d097053156ebafe5",
     "e345debd9ef24f86",
@@ -374,6 +382,24 @@
     "Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
    ],
    "markdown": "###### Artigo 5.º — (Condições de atribuição)\n\n1 - Têm acesso a complemento de pensão os pensionistas que tenham rendimentos ilíquidos mensais iguais ou inferiores a 50% da remuneração mínima mensal garantida à generalidade dos trabalhadores, desde que o rendimento ilíquido do respectivo agregado familiar não seja superior àquela remuneração.\n\n2 - Para efeito do número anterior, o agregado familiar é constituído pelos parentes e afins de linha recta e os de linha colateral até ao 3.º grau que convivam em economia familiar com o requerente.\n\n3 - Têm ainda acesso a complemento de pensão os pensionistas que, embora não satisfazendo, por si ou pelo seu agregado familiar, os requisitos de atribuição estabelecidos no n.º 1, se encontrem cumulativamente nas seguintes condições:\n\na) Tenham um agregado familiar cuja capitação de rendimentos não seja superior a 30% da remuneração mínima mensal;\n\nb) Se encontrem em situação de risco social grave, a determinar pelos competentes serviços de acção social, em consequência de perda ou diminuição de rendimentos ou acréscimo anormal de encargos determinados, designadamente por doença ou acidente.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
+  },
+  "71727387ed83fade": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Natureza e finalidade)",
+   "in_force_from": "1987-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-673781), publicado em 1983-08-31."
+   ],
+   "markdown": "###### Artigo 8.º — (Natureza e finalidade)\n\n1 - As prestações pecuniárias de apoio social configuram-se como subsídios eventuais que podem ser atribuídos em casos de comprovada precariedade económica e com a finalidade de superar situações de risco social agravado, efectivo ou potencial, decorrente de uma das eventualidades tipificadas no artigo 11.º\n\n2 - As prestações a que se refere o número anterior não são cumuláveis com subsídios eventuais concedidos por outras instituições de segurança social.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-673781), publicado em 1983-08-31."
+  },
+  "4e6ee8161246b319": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Conceito de precariedade económica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Conceito de precariedade económica)\n\n1 - Consideram-se em situação de precariedade económica os beneficiários isolados ou os agregados familiares cuja capitação mensal seja inferior a, respectivamente, 40% ou 30% da remuneração mínima mensal garantida à generalidade dos trabalhadores.\n\n2 - Nos casos em que a capitação mensal, embora superior aos limites fixados no número anterior, seja comprovadamente insuficiente para fazer face ao risco social agravado, poderá ser proposta pelos serviços sociais da instituição gestora a atribuição de subsídios eventuais, desde que devidamente justificada."
   },
   "e345debd9ef24f86": {
    "fragment_id": null,

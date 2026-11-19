@@ -48,11 +48,25 @@
      "title": "Decreto-Lei n.º 91/86",
      "published": "1986-05-10",
      "dre_path": "/dr/detalhe/decreto-lei/91-1986-227594"
+    },
+    {
+     "id": "pt:dre:407138:por",
+     "title": "Declaração",
+     "published": "1976-11-10",
+     "dre_path": "/dr/detalhe/declaracao/1976-407138"
     }
    ],
    "changes": [
     "Altera Artigo 76.º",
-    "Altera Artigo 81.º"
+    "Altera Artigo 81.º",
+    "Retifica Artigo 20",
+    "Retifica Artigo 41",
+    "Retifica Artigo 44",
+    "Retifica Artigo 56",
+    "Retifica Artigo 57",
+    "Retifica Artigo 60",
+    "Retifica Artigo 63",
+    "Retifica Artigo 64"
    ],
    "fragments": [
     "a804ce9fa0352115",
@@ -79,7 +93,7 @@
     "0ab36c6fb4753157",
     "5907818b327609fb",
     "0b2a6837e4101cb8",
-    "b429efb9ff16d068",
+    "4183ba51a36bada8",
     "2cc10103bbc6e16d",
     "3496a5da21604292",
     "6ee023463e687388",
@@ -107,11 +121,11 @@
     "7410686daeff66d8",
     "8791903b633afe4c",
     "c853ed1de1290be0",
-    "598488e2c9dd579b",
+    "5312d8259263ac57",
     "ce369d2f350f2695",
     "c808626f1c9b4cd9",
     "1fdc89708ec85b11",
-    "8abb23a3e79c1155",
+    "77df22b50eb9600c",
     "9a05036295bd30d9",
     "d84c6009daa0e89e",
     "6b1484cdff305a96",
@@ -125,18 +139,18 @@
     "6b89fcb3fab6c1ad",
     "23543fcb8825c751",
     "54eab1be3c753334",
-    "54ea1658dd7494f7",
-    "0ab4ce71e7ce2838",
+    "7f9cc97b4729c6f1",
+    "9b60d472b6411de5",
     "752a62b9f3a8b4ac",
     "1050b1edd432d4cc",
     "48e2da4b38ebf297",
-    "4e6c2e307493abe1",
+    "48fc81cbbc2a7ac0",
     "23bbdfe1faa2edd4",
     "f259ead96a07ad8b",
     "a5a932e205dd7137",
-    "7993c7cf2cfec6bf",
+    "8425e392f5a4ff43",
     "bb2f5c48d8738716",
-    "93cbaf3bf7bddddc",
+    "9e14b78e1ef172c9",
     "a765f281bce39eca",
     "d676a5dc54f247d0",
     "8833504dae9a8bc9",
@@ -508,13 +522,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 19.º\n\nA Direcção de Instrução, que funciona sob a superintendência do comandante da Academia Militar, tem por funções: a direcção, o estudo, o planeamento e coordenação do ensino, com vista a obter a melhor orientação pedagógica e o maior rendimento da instrução; as ligações com as escolas militares ou civis cuja actividade interessa à Academia Militar; a orientação dos assuntos relativos à biblioteca e museu."
   },
-  "b429efb9ff16d068": {
+  "4183ba51a36bada8": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 20.º\n\nA Direcção de Instrução compreende:\n\na) Director da Instrução;\n\nb) Adjunto da Instrução para a Força Aérea;\n\nc) Conselho Pedagógico;\n\nd) Departamento de Formação Escolar, no qual se inclui o corpo docente;\n\ne) Departamento de Coordenação Escolar;\n\nf) Departamento de Apoio Escolar;\n\ng) Departamento de Administração Escolar;\n\nh) Secção de Expedimento e Arquivo;\n\ni) Biblioteca e museu."
+   "in_force_from": "1986-05-15",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-407138), publicado em 1976-11-10."
+   ],
+   "markdown": "###### Artigo 20.º\n\nA Direcção de Instrução compreende:\n\na) Director da Instrução;\n\nb) Adjunto da Instrução para a Força Aérea;\n\nc) Conselho Pedagógico;\n\nd) Departamento de Formação Escolar, no qual se inclui o corpo docente;\n\ne) Departamento de Coordenação Escolar;\n\nf) Departamento de Apoio Escolar;\n\ng) Departamento de Administração Escolar;\n\nh) Secção de Expediente e Arquivo;\n\ni) Biblioteca e museu.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-407138), publicado em 1976-11-10."
   },
   "2cc10103bbc6e16d": {
    "fragment_id": null,
@@ -724,13 +740,13 @@
    "changed_by": [],
    "markdown": "### CAPÍTULO III — Da distribuição e duração dos trabalhos escolares"
   },
-  "598488e2c9dd579b": {
+  "5312d8259263ac57": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 41.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 41.º\n\nOs trabalhos escolares da Academia são distribuídos em cada ano escolar, com excepção do último ano do curso em que se inclui o tirocínio, da forma seguinte:\n\nPrimeira parte, que se destina especialmente à frequência das cadeiras, trabalhos práticos e de aplicação, e que compreende dois períodos (primeiro e segundo);\n\nSegunda parte, que se destina a visitas, missões, trabalhos práticos e de campo e exercícios militares, assim como a férias de ponto e exames, quando estes tiverem lugar."
+   "markdown": "###### Artigo 41.º\n\nOs trabalhos escolares da Academia são distribuídos em cada ano escolar, com excepção do último ano do curso em que se inclui o tirocínio, da forma seguinte:\n\nPrimeira parte, que se destina especialmente à frequência das cadeiras, trabalhos práticos e de aplicação, e que compreende dois períodos (1.º e 2.º semestres),\n\nSegunda parte, que se destina a visitas, missões, trabalhos práticos e de campo e exercícios militares, assim como a férias de ponto e exames, quando estes tiverem lugar."
   },
   "ce369d2f350f2695": {
    "fragment_id": null,
@@ -756,13 +772,13 @@
    "changed_by": [],
    "markdown": "### CAPÍTULO IV — Dos tirocínios e estágios"
   },
-  "8abb23a3e79c1155": {
+  "77df22b50eb9600c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 44.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 44.º\n\n1. O tirocínio referido no artigo 28.º, assim como os estágios, a fazer consoante a natureza dos cursos, são realizados nas escolas práticas e noutros estabelecimentos apropriados durante o último ano do curso e com duração normal de um ano lectivo.\n\n2. O tirocínio e os estágios têm por finalidade proporcionar aos alunos, através de uma instrução caracterizada pela maior objectividade prática, a aplicação dos conhecimentos adquiridos e ainda completar a apreciação da sua personalidade, espírito militar e capacidade técnica.\n\n3. Sempre que possível, o tirocínio deve englobar a participação dos instruendos em exercícios ou manobras."
+   "markdown": "###### Artigo 44.º\n\n1. O tirocínio referido no n.º 1 do artigo 29.º, assim como os estágios, a fazer consoante a natureza dos cursos, são realizados nas escolas práticas e noutros estabelecimentos apropriados durante o último ano do curso e com duração normal de um ano lectivo.\n\n2. O tirocínio e os estágios têm por finalidade proporcionar aos alunos, através de uma instrução caracterizada pela maior objectividade prática, a aplicação dos conhecimentos adquiridos e ainda completar a apreciação da sua personalidade, espírito militar e capacidade técnica.\n\n3. Sempre que possível, o tirocínio deve englobar a participação dos instruendos em exercícios ou manobras."
   },
   "9a05036295bd30d9": {
    "fragment_id": null,
@@ -868,21 +884,21 @@
    "changed_by": [],
    "markdown": "###### Artigo 55.º\n\n1. A admissão de alunos na Academia Militar para os cursos do Exército e da Força Aérea processa-se através de concurso, cuja abertura é feita por anúncio público, para a matrícula no 1.º ano de todos os cursos e para o preenchimento das vagas anualmente fixadas, com esta finalidade, pelos Estados-Maiores do Exército e da Força Aérea.\n\n2. Quando for julgado conveniente, pode ser aberto concurso de admissão aos outros anos dos cursos para vagas existentes ou a criar eventualmente, por despacho dos respectivos Chefes do Estado-Maior."
   },
-  "54ea1658dd7494f7": {
+  "7f9cc97b4729c6f1": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 56.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 56.º\n\nÀ admissão aos cursos da Academia Militar podem concorrer todos os indivíduos que satisfaçam às condições especiais de admissão, nela se distinguindo fundamentalmente duas categorias de concorrentes:\n\nCandidatos civis;\n\nCandidatos militares, que engloba oficiais dos quadros de complemento e sargentos dos quadros permanentes e de complemento do Exército e da Força Aérea e as praças de qualquer um destes ramos das forças armadas."
+   "markdown": "###### Artigo 56.º\n\nÀ admissão aos cursos da Academia Militar podem concorrer todos os indivíduos que satisfaçam às condições gerais e especiais de admissão, nela se distinguindo fundamentalmente duas categorias de concorrentes:\n\nCandidatos civis;\n\nCandidatos militares, que engloba oficiais dos quadros de complemento e sargentos dos quadros permanentes e de complemento do Exército e da Força Aérea e as praças de qualquer um destes ramos das forças armadas."
   },
-  "0ab4ce71e7ce2838": {
+  "9b60d472b6411de5": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 57.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 57.º\n\nAs condições de admissão, inscrição para o concurso de admissão, operações do concurso, selecção e incorporação dos candidatos devem constar de regulamento próprio, a promulgar por portaria do Chefe do Estado-Maior do Exército, ouvindo o Chefe do Estado-Maior da Força Aérea."
+   "markdown": "###### Artigo 57.º\n\nAs condições de admissão, inscrição para o concurso de admissão, operações do concurso, selecção e incorporação dos candidatos devem constar de regulamento próprio, a promulgar por portaria do Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea."
   },
   "752a62b9f3a8b4ac": {
    "fragment_id": null,
@@ -908,13 +924,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 59.º\n\nConsideram-se ao abrigo da condição expressa na alínea a) do artigo anterior:\n\na) Os candidatos que sejam originariamente portugueses, filhos de pais portugueses (de nacionalidade originária ou adquirida) ou com um antecedente português, se o outro for juridicamente desconhecido;\n\nb) Os candidatos filhos de portugueses que tenham adquirido a nacionalidade brasileira e de brasileiros que tenham adquirido a nacionalidade portuguesa;\n\nc) Os candidatos, filhos de portugueses, originários dos países de expressão portuguesa (antigas províncias ultramarinas), que tenham adquirido a nacionalidade portuguesa."
   },
-  "4e6c2e307493abe1": {
+  "48fc81cbbc2a7ac0": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 60.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 60.º\n\nA altura e o índice de robustez referidos na alínea c) do artigo 58.º sofrem correcção adequada à idade dos candidatos, segundo o prudente juízo da junta de inspecção, confirmada em cada caso pelo comandante da Academia Militar."
+   "markdown": "###### Artigo 60.º\n\nA altura e a robustez física referidas na alínea c) do artigo 58.º sofrem correcção adequada à idade dos candidatos, segundo o prudente juízo da junta de inspecção, confirmada em cada caso pelo comandante da Academia Militar."
   },
   "23bbdfe1faa2edd4": {
    "fragment_id": null,
@@ -940,13 +956,13 @@
    "changed_by": [],
    "markdown": "###### Artigo 62.º\n\nRelativamente aos candidatos que estejam na efectividade de serviço ou se encontrem em prestação de serviço militar ou que já tenham cumprido o serviço militar obrigatório no Exército ou na Força Aérea, são condições especiais de admissão:\n\na) Satisfazer às condições gerais constantes dos artigos 58.º [com excepção da alínea b)], 59.º e 60.º;\n\nb) Possuir as habilitações literárias mínimas que forem definidas nos termos do artigo 57.º;\n\nc) Ter, pelo menos, um ano de serviço militar, à data de abertura do concurso;\n\nd) Haver revelado destacadas qualidades demonstrativas de aptidão para a carreira militar, atestadas por informações dos respectivos comandantes ou chefes;\n\ne) Ser autorizado a concorrer pelo Chefe do Estado-Maior do ramo das forças armadas a que pertença;\n\nf) Satisfazer os limites de idade que forem fixados."
   },
-  "7993c7cf2cfec6bf": {
+  "8425e392f5a4ff43": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 63.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 63.º\n\nOs oficiais de complemento e sargentos dos quadros permanentes e de complemento só podem ser admitidos ao curso de pilotagem aeronáutica quando já habilitados com o concurso de pilotagem da Força Aérea."
+   "markdown": "###### Artigo 63.º\n\nOs oficiais de complemento e sargentos dos quadros permanentes e de complemento só podem ser admitidos ao curso de pilotagem aeronáutica quando já habilitados com o curso de pilotagem da Força Aérea."
   },
   "bb2f5c48d8738716": {
    "fragment_id": null,
@@ -956,13 +972,13 @@
    "changed_by": [],
    "markdown": "## TÍTULO VI — Preenchimento de vagas e distribuição para os cursos"
   },
-  "93cbaf3bf7bddddc": {
+  "9e14b78e1ef172c9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 64.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 64.º\n\nNo acto da inscrição ao concurso para admissão à matrícula no 1.º ano da Academia Militar, os candidatos declarem qual o ramo das forças armadas (Exército ou Força Aérea) em que desejam ingressar, sujeitando-se às opções tomadas às normas que forem estabelecidas para o efeito e ao número de vagas fixadas."
+   "markdown": "###### Artigo 64.º\n\nNo acto da inscrição ao concurso para admissão à matrícula no 1.º ano da Academia Militar, os candidatos declaram qual o ramo das forças armadas (Exército ou Força Aérea) em que desejam ingressar, sujeitando-se as opções tomadas às normas que forem estabelecidas para o efeito e ao número de vagas fixadas."
   },
   "a765f281bce39eca": {
    "fragment_id": null,

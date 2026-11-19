@@ -113,13 +113,24 @@
      "title": "Decreto-Lei n.º 19/2003",
      "published": "2003-02-03",
      "dre_path": "/dr/detalhe/decreto-lei/19-2003-209047"
+    },
+    {
+     "id": "pt:dre:165055:por",
+     "title": "Declaração de Rectificação n.º 17-A/99",
+     "published": "1999-10-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/17-a-1999-165055"
     }
    ],
    "changes": [
     "Altera Artigo 6.º",
     "Revoga Artigo 26.º",
     "Revoga Artigo 27.º",
-    "Revoga Artigo 44.º"
+    "Revoga Artigo 44.º",
+    "Retifica Artigo 6",
+    "Retifica Artigo 16",
+    "Retifica Artigo 48",
+    "Retifica Artigo 49",
+    "Retifica texto"
    ],
    "fragments": [
     "218956abb18f904d",
@@ -148,7 +159,7 @@
     "41a27f1d4242411f",
     "d87c93629d0db853",
     "ec04ae35f64a04c3",
-    "b4030bd46365e9eb",
+    "68dc234ada91c886",
     "c619faf3eab94752",
     "f00c5385a64b1943",
     "ecbcd5f9f1dff590",
@@ -161,7 +172,7 @@
     "dab2811fcde10782",
     "5147d6929ae4adb4",
     "e875a8c1d44bd4cd",
-    "a58145ce6b7ab859",
+    "eb688f83ac8619df",
     "c3693a705a677ecc",
     "92ec390aa498278b",
     "25a51ee84dc9391b",
@@ -207,12 +218,12 @@
     "44a851a88b7e7cc7",
     "6d794662823637f7",
     "c8bd5dc3e9fcc8fe",
-    "a31b782866e686d0",
-    "303da64b9d07b563",
+    "81de1cb637f670ca",
+    "053dd04c0e0840fd",
     "179d504505898bce",
     "94830d0de9aba6eb",
     "79b20fdead98e1ba",
-    "d99da999a32437e3"
+    "4a5e983d01600a54"
    ]
   }
  ],
@@ -945,15 +956,24 @@
    "changed_by": [],
    "markdown": "## ANEXO IV — Modelo de garantia bancária/seguro-caução\n\n(artigo 45.º do caderno de encargos)\n\nGarantia bancária/seguro-caução n.º ...\n\nEm nome e a pedido de ... (ver nota 1), vem o(a) ... (ver nota 2), pelo presente documento, prestar, a favor do Estado Português, uma garantia bancária/seguro-caução no valor de 6000000000$00 (seis milhões de contos), destinada(o) a caucionar o integral cumprimento das obrigações assumidas pelo(s) garantido(s) nos termos e para os efeitos previstos no n.º 1 do artigo 44.º do caderno de encargos anexo ao Decreto-Lei n.º 364/99, de 17 de Setembro, responsabilizando-se pela entrega ao Estado de qualquer importância até àquele montante à primeira interpelação, caso o(s) garantido(s) deixe(m) de cumprir obrigações fixadas no n.º 3 do artigo 25.º ou nos artigos 26.º e 27.º do referido caderno de encargos.\n\nFica bem assente que o banco/companhia de seguros garante, no caso de vir a ser chamado(a) a honrar a presente garantia, não poderá tomar em consideração quaisquer objecções do(s) garantido(s), limitando-se a efectuar o pagamento logo que para ele seja solicitado.\n\n(nota 1) Identificação completa do concorrente individual ou de todas as entidades que compõem o agrupamento.\n\n(nota 2) Identificação completa da instituição garante."
   },
-  "b4030bd46365e9eb": {
+  "68dc234ada91c886": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º — Preço e condições de pagamento",
    "in_force_from": "2003-02-04",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+    "Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 17-A/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-a-1999-165055), publicado em 1999-10-29."
    ],
-   "markdown": "###### Artigo 6.º — Preço e condições de pagamento\n\n1 - O preço por acção é o que for indicado pelos concorrentes.\n\n2 - O pagamento de 70% do preço total oferecido pelo bloco de acções a que se refere o n.º 1 do artigo 1.º deve ser efectuado no prazo fixado no n.º 1 do artigo 25.º\n\n3 - O pagamento do remanescente do preço deve ser efectuado no prazo fixado no n.º 3 do artigo 25.º e atenderá ao disposto nos números seguintes.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+   "markdown": "###### Artigo 6.º — Preço e condições de pagamento\n\n1 - O preço por acção deve ser indicado pelos concorrentes.\n\n2 - O pagamento de 70% do preço total oferecido pelo bloco de acções a que se refere o n.º 1 do artigo 1.º deve ser efectuado no prazo fixado no n.º 1 do artigo 25.º\n\n3 - O pagamento do remanescente do preço deve ser efectuado no prazo fixado no n.º 3 do artigo 25.º e atenderá ao disposto nos números seguintes.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17-A/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-a-1999-165055), publicado em 1999-10-29."
+  },
+  "eb688f83ac8619df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Admissão das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Admissão das propostas\n\n1 - Interrompido o acto público, o júri, em sessão privada, começa por rubricar, por dois dos seus membros, todos os documentos, podendo as rubricas ser substituídas por chancela.\n\n2 - Cumprida esta diligência, o júri delibera sobre a admissão das propostas.\n\n3 - São excluídas as propostas que:\n\na) Não sejam entregues no local e no prazo fixados;\n\nb) Não observem o disposto nos n.os 2 a 4 do artigo 4.º;\n\nc) Nos documentos exigidos no artigo 9.º incluam qualquer referência que o júri considere indiciadora do valor oferecido pelas acções objecto do presente concurso;\n\nd) Na respectiva organização não observem o disposto no artigo 11.º e desde que o júri considere a falta perturbadora do processo;\n\ne) Na documentação apresentada incluam qualquer cláusula que o júri considere condicionadora da aquisição pretendida.\n\n4 - São admitidas condicionalmente as propostas que:\n\na) Não integrem a totalidade dos documentos exigidos no n.º 1 do artigo 9.º;\n\nb) Na documentação apresentada omitam qualquer elemento exigido.\n\n5 - Retomada a sessão pública, o presidente do júri dá a conhecer a lista das propostas admitidas, bem como das admitidas condicionalmente e das liminarmente excluídas, indicando, nestes dois últimos casos, as respectivas razões.\n\n6 - No caso de existirem propostas admitidas condicionalmente, o júri concede até três dias úteis aos respectivos concorrentes para entregarem, contra a emissão de recibo, os documentos em falta ou completarem os elementos omissos, não sendo exigida qualquer formalidade para a respectiva apresentação.\n\n7 - Para efeitos do número anterior, os concorrentes consideram-se devidamente notificados pelo júri no próprio acto público, ainda que não estejam presentes ou representados.\n\n8 - Verificando-se a situação prevista no n.º 6, o júri, indica o local, a hora e o dia limites para os concorrentes admitidos condicionalmente completarem as suas propostas e interrompe o acto público."
   },
   "57ddd37aa5a65518": {
    "fragment_id": null,
@@ -984,6 +1004,30 @@
     "Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
    ],
    "markdown": "###### Artigo 44.º — Garantia\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 19/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2003-209047), publicado em 2003-02-03."
+  },
+  "81de1cb637f670ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Concorrentes excluídos e preteridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Concorrentes excluídos e preteridos\n\nOs concorrentes excluídos e preteridos no concurso não têm direito, por esse facto, a nenhuma indemnização."
+  },
+  "053dd04c0e0840fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Suspensão ou anulação do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Suspensão ou anulação do concurso\n\nO Estado reserva o direito de, em qualquer momento e até à decisão final, suspender ou anular o processo de alienação das acções objecto deste concurso, desde que razões de interesse público ou social o justifiquem."
+  },
+  "4a5e983d01600a54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO IV — Modelo de garantia bancária/seguro-caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Modelo de garantia bancária/seguro-caução\n\n(artigo 44.º do caderno de encargos)\n\nGarantia bancária/seguro-caução n.º ...\n\nEm nome e a pedido de ... (ver nota 1), vem o(a) ... (ver nota 2), pelo presente documento, prestar, a favor do Estado Português, uma garantia bancária/seguro-caução no valor de 6000000000$00 (seis milhões de contos), destinada(o) a caucionar o integral cumprimento das obrigações assumidas pelo(s) garantido(s) nos termos e para os efeitos previstos no n.º 1 do artigo 44.º do caderno de encargos anexo ao Decreto-Lei n.º 364/99, de 17 de Setembro, responsabilizando-se pela entrega ao Estado de qualquer importância até àquele montante à primeira interpelação, caso o(s) garantido(s) deixe(m) de cumprir obrigações fixadas no n.º 3 do artigo 25.º ou nos artigos 26.º e 27.º do referido caderno de encargos.\n\nFica bem assente que o banco/companhia de seguros garante, no caso de vir a ser chamado(a) a honrar a presente garantia, não poderá tomar em consideração quaisquer objecções do(s) garantido(s), limitando-se a efectuar o pagamento logo que para ele seja solicitado.\n\n(nota 1) Identificação completa do concorrente individual ou de todas as entidades que compõem o agrupamento.\n\n(nota 2) Identificação completa da instituição garante."
   }
  }
 }

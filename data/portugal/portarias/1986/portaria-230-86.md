@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '1986-09-02'
     amending: pt:dre:219143:por
-    amending_title: Portaria n.º 472/86
+    amending_title: Portaria n.º 472/86; Declaração
     changes:
     - Altera Artigo unidades 14-14
     - Altera Artigo unidades 17-22
@@ -62,6 +62,7 @@ version_history:
     - Altera Artigo unidades 35-36
     - Altera Artigo unidades 42-42
     - Altera Artigo unidades 54-54
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -88,7 +89,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:43:14Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 472/86. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-230-86.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-230-86.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -250,7 +252,9 @@ b) Quando os originais dos documentos referidos nos n.os 4.º e 10.º não forem
 
 c) Quando se verifique que o promotor do projecto desistiu dos incentivos que lhe foram provisoriamente concedidos.
 
-15.º Verificando-se a não realização do investimento nos termos previstos na fase de candidatura ou o incumprimento do disposto na alínea a) do artigo 4.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), o Departamento Central de Planeamento elaborará a correspondente proposta de caducidade de incentivos, que submeterá a despacho do Ministro das Finanças, com as consequências inerentes ao previsto no n.º 1 do artigo 58.º daquele diploma, observando-se, contudo, o disposto no n.º 16.º desta portaria.
+15.º Verificando-se a não realização do investimento nos termos previstos na fase de candidatura ou o incumprimento do disposto no n.º 1 do artigo 40.º do [Decreto-Lei n.º 132/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1983-310440), o Departamento Central de Planeamento elaborará a correspondente proposta de caducidade de incentivos, que submeterá a despacho do Ministro das Finanças, com as consequências inerentes ao previsto no n.º 1 do artigo 58.º daquele diploma, observando-se, contudo, o disposto no n.º 16.º desta portaria.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-348117), publicado em 1986-08-30.
 
 Disposições finais
 
@@ -316,7 +320,7 @@ Mapa modelo n.º 2
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/11600/12171225.pdf)
 
-(nota a) Os bens de equipamento adquiridos em estado de uso deverão igualmente constar de listagem individualizada de idêntico modelo, a anexar.
+(nota a) Os bens de equipamento adquiridos em estado de uso, bem como os restantes elementos do activo fixo corpóreo, deverão igualmente constar de listagem individualizada de idêntico modelo, a anexar.
 
 2 - Equipamento de origem externa (ver nota a)
 

@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1984-08-01'
     amending: pt:dre:381741:por
-    amending_title: Portaria n.º 547/84
+    amending_title: Portaria n.º 547/84; Declaração
     changes:
     - Altera Artigo unidades 86-141
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:36:16Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 547/84. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-273-83.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-273-83.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,7 +150,9 @@ Lógica.
 
 Filosofia Medieval.
 
-Filosofia de Portugal.
+Filosofia em Portugal.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-423439), publicado em 1983-05-31.
 
 Opção.
 

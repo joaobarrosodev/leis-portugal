@@ -49,21 +49,29 @@
      "title": "Decreto Regulamentar Regional n.º 12/2000/M",
      "published": "2000-03-21",
      "dre_path": "/dr/detalhe/decreto-regulamentar-regional/12-2000-515272"
+    },
+    {
+     "id": "pt:dre:602493:por",
+     "title": "Declaração de Rectificação n.º 6-O/97",
+     "published": "1997-03-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/6-o-1997-602493"
     }
    ],
    "changes": [
     "Altera Artigo 11.º",
-    "Altera Artigo 11.º"
+    "Altera Artigo 11.º",
+    "Retifica texto",
+    "Retifica Artigo 4"
    ],
    "fragments": [
-    "7bb6955848404571",
+    "6c03d16d0c7d5911",
     "e82e298be73417b9",
     "281d554c9477c9a6",
     "5839d5a2721f2cb7",
     "e0e4623a09d2cd77",
     "8fd56ea38d5ffb41",
     "c8ff3660f02a530b",
-    "d2443415180bbccf",
+    "bb6693ad7df0bad2",
     "b4b51be9a2a7d32c",
     "c53423d4f7d5d405",
     "ec28563d41c3a55a",
@@ -302,6 +310,24 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 16.º — Vigência\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 13 de Fevereiro de 1997.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.\n\nAssinado em 28 de Fevereiro de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "6c03d16d0c7d5911": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 6-O/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-o-1997-602493), publicado em 1997-03-31."
+   ],
+   "markdown": "Lei Orgânica da Secretaria Regional de Educação\n\nO [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, que procedeu à reestruturação do Governo da Região Autónoma da Madeira, modificou a orgânica da Secretaria Regional de Educação.\n\nNa Secretaria Regional de Educação ficam englobados os sectores da educação, educação especial e reabilitação, desporto e formação profissional. Assim, urge criar a orgânica da Secretaria Regional de Educação com a sua nova estrutura.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 6-O/97](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-o-1997-602493), publicado em 1997-03-31.\n\nNestes termos:\n\nO Governo Regional da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 49.º da Lei n.º 13/91, de 5 de Junho, e do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, o seguinte:"
+  },
+  "bb6693ad7df0bad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEstrutura\n\n1 - A SRE compreende:\n\na) Gabinete do Secretário Regional;\n\nb) Direcção Regional de Inovação e Gestão Educativa;\n\nc) Direcção Regional de Educação Especial e Reabilitação;\n\nd) Direcção Regional de Formação Profissional;\n\ne) Direcção Regional de Administração e Pessoal;\n\nf) Instituto do Desporto da Região Autónoma da Madeira.\n\n2 - A natureza, atribuições, orgânica, funcionamento e pessoal de cada um dos organismos e serviços referidos nas alíneas a), b), c), d), e) e f) do n.º 1 constarão de decreto regulamentar regional."
   },
   "8bdf842ee520acca": {
    "fragment_id": null,

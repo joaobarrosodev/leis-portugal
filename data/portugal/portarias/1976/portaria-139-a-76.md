@@ -43,10 +43,11 @@ version_history:
     changes: []
   - date: '1979-12-20'
     amending: pt:dre:365957:por
-    amending_title: Portaria n.º 697/79
+    amending_title: Portaria n.º 697/79; Declaração
     changes:
     - Altera Artigo unidades 7-10
     - Altera Artigo unidades 20-20
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:57:17Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 697/79. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-139-a-76.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1976/portaria-139-a-76.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -243,7 +245,9 @@ c) Certidão de idade ou pública-forma do bilhete de identidade ou da cédula p
 
 15 - A classificação de diploma será calculada de acordo com a seguinte fórmula:
 
-CD = (CA + CE)/3
+CD = (CA + 2CE)/3
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-431270), publicado em 1976-06-30.
 
 CD - Classificação de diploma;
 
@@ -255,7 +259,7 @@ A classificação académica é a média das médias obtidas no 2.º ano do curs
 
 16 - A classificação de diploma dos alunos referidos na alínea b) do n.º 2 do artigo 8.º do [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643) será calculada de acordo com a seguinte fórmula:
 
-CD = (CA + CP)/2
+CD = (CA + 2CP)/3
 
 CA - Classificação académica, correspondente à média das médias obtidas na parte teórica do curso;
 
@@ -263,6 +267,6 @@ CP - Classificação da parte prática do curso.
 
 17 - À classificação de diploma dos professores habilitados com os cursos especiais acrescerá a valorização correspondente ao tempo de serviço estabelecido na lei geral.
 
-18 - No presente ano escolar, o prazo de matrícula é de quinze dias, a contar da publicação desta portaria, podendo contudo a documentação referida nas alíneas a) a e) do n.º 5 ser apresentada até à afixação dos resultados finais do ano lectivo, sob cominação de, caso contrário, a matrícula ficar sem efeito.
+18 - No presente ano escolar, o prazo de matrícula é de quinze dias, a contar da publicação desta portaria, podendo contudo a documentação referida nas alíneas a) a e) do n.º 6 ser apresentada até à afixação dos resultados finais do ano lectivo, sob cominação de, caso contrário, a matrícula ficar sem efeito.
 
 Ministério da Educação e Investigação Científica, 26 de Fevereiro de 1976. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.

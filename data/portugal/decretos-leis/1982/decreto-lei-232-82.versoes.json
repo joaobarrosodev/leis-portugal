@@ -65,6 +65,12 @@
      "title": "Decreto-Lei n.º 397/83",
      "published": "1983-11-02",
      "dre_path": "/dr/detalhe/decreto-lei/397-1983-443686"
+    },
+    {
+     "id": "pt:dre:394281:por",
+     "title": "Declaração",
+     "published": "1982-07-15",
+     "dre_path": "/dr/detalhe/declaracao/1982-394281"
     }
    ],
    "changes": [
@@ -99,10 +105,11 @@
     "Altera Artigo 30.º",
     "Altera Artigo 31.º",
     "Altera Artigo 32.º",
-    "Adita Artigo 33.º"
+    "Adita Artigo 33.º",
+    "Retifica texto"
    ],
    "fragments": [
-    "df4d1a1b5c6fb93f",
+    "d4d748eb5528253e",
     "ff5dcc7d53cf5421",
     "a001f3bf626357f0",
     "6090d1d04067f082",
@@ -493,6 +500,16 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 32.º\n\n1 - As disposições da Tabela não admitem interpretação extensiva, ainda que haja identidade ou maioria de razão.\n\n2 - No caso de dúvida sobre qual seja o emolumento devido, cobrar-se-á sempre o menor."
+  },
+  "d4d748eb5528253e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1983-11-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-394281), publicado em 1982-07-15."
+   ],
+   "markdown": "de 17 de Junho\n\nO bloqueamento que presentemente se verifica nos serviços de notariado, se resulta, em parte, do sistema de condicionamentos e exigências legais que lhes vem sendo imposto em legislação avulsa, é igualmente determinado pela dificuldade em que se encontram os notários, particularmente os de Lisboa e Porto, de dirigir os respectivos serviços.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1982-394281), publicado em 1982-07-15.\n\nCom a criação dos lugares de notário-adjunto, que permitirá uma direcção mais efectiva pelo notário titular e um melhor aproveitamento da capacidade dos serviços, e com a obrigatoriedade, em Lisboa e Porto, de os notários se fazerem substituir pelos ajudantes na realização de actos notariais na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, julga-se conseguir uma melhoria sensível daquela situação, sem se causar quaisquer dificuldades, antes pelo contrário, a estas instituições de crédito.\n\nA fixação de um número limite de actos que podem ser realizados fora do cartório contribui igualmente para uma maior permanência do notário no respectivo cartório e, consequentemente, para uma melhoria da qualidade de serviço prestado.\n\nA equiparação da exibição do bilhete de identidade ao reconhecimento por semelhança é outra medida que conduzirá, indiscutivelmente, a um grande desbloqueamento dos cartórios notariais.\n\nA Tabela dos Emolumentos do Notariado é alterada tendo em vista a simplificação da elaboração da conta e a uniformização possível das verbas tabelares cujos montantes, analisados no seu conjunto, se mantêm praticamente inalterados.\n\nFinalmente, é alterado o regime de distribuição dos emolumentos de natureza pessoal, retomando-se, nas suas linhas gerais, o sistema anteriormente em vigor, por mais consentâneo com a sua finalidade.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Nos cartórios notariais de 1.ª e 2.ª classes que não funcionem em regime de secretaria pode ser criado, por despacho do Ministro da Justiça, o lugar de notário-adjunto.\n\nArt. 2.º - 1 - Os notários-adjuntos são nomeados e exonerados livremente sob proposta do notário titular do cartório, considerando-se em comissão de serviço quando já pertencentes aos quadros.\n\n2 - A nomeação só pode recair em notários colocados em lugar de 3.ª classe ou em quem reúna as condições legais de ingresso na carreira.\n\n3 - Os notários-adjuntos não pertencentes ao quadro, quando exonerados, ficam na situação de adidos e são concorrentes obrigatórios nos concursos para provimento de lugares de notário de 3.ª classe; uma vez nomeados, é-lhes contado, para efeitos de graduação na classe, todo o tempo de serviço prestado naquela qualidade.\n\nArt. 3.º - 1 - Os notários-adjuntos têm competência funcional plena, executam as tarefas que lhes forem distribuídas pelo notário titular, actuam sob a direcção e vigilância deste e são os seus primeiros substitutos.\n\n2 - Para efeitos de vencimento de categoria, os lugares de notário-adjunto em cartórios de 1.ª e 2.ª classes consideram-se lugares de 2.ª e 3.ª classes, respectivamente, acrescendo, em ambos os casos e a título de vencimento de exercício, 75% da participação emolumentar apurada para o notário titular do cartório.\n\nArt. 4.º - 1 - Quando, durante as horas normais de serviço, for solicitada a presença dos notários de Lisboa e Porto para a realização de actos notariais na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, aqueles far-se-ão substituir, nesses actos, pelos notários-adjuntos ou pelos ajudantes.\n\n2 - O regime previsto no número anterior aplicar-se-á a outras localidades, quando o número de actos o justifique, por despacho do director-geral dos Registos e do Notariado, ouvido o conselho técnico.\n\n3 - No caso de substituição pelos ajudantes, a realização dos actos referidos no n.º 1 só pode ter lugar após a apreciação, pelo notário, dos respectivos instrumentos e desde que destes conste o seu visto.\n\nArt. 5.º Exceptuados os testamentos e os actos realizados na Caixa Geral de Depósitos, na Caixa Económica de Lisboa anexa ao Montepio Geral e no Crédito Predial Português, só podem ser realizados fora do cartório, em cada mês, 5% do total dos actos realizados no mês anterior.\n\nArt. 6.º - 1 - A exibição do bilhete de identidade do signatário de qualquer documento tem o mesmo valor legal do reconhecimento por semelhança da respectiva assinatura.\n\n2 - Nenhuma autoridade ou repartição pública pode exigir a legalização de documentos por via de reconhecimento por semelhança se o bilhete de identidade do signatário lhe for exibido.\n\nArt. 7.º A Tabela de Emolumentos do Notariado, anexa ao [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), de 9 de Fevereiro, é substituída pela tabela anexa ao presente diploma.\n\nArt. 8.º Os emolumentos especiais cobrados pela realização de actos de registo civil fora das repartições têm a natureza de emolumentos pessoais e revertem a favor dos funcionários da repartição em termos idênticos aos fixados no artigo 30.º da Tabela de Emolumentos do Notariado anexa ao presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 14 de Abril de 1982. - Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.\n\nPromulgado em 17 de Maio de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nTABELA DE EMOLUMENTOS DO NOTARIADO"
   },
   "a001f3bf626357f0": {
    "fragment_id": null,

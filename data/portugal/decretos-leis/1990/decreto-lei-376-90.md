@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1999-11-07'
     amending: pt:dre:693588:por
-    amending_title: Decreto-Lei n.º 468/99
+    amending_title: Decreto-Lei n.º 468/99; Declaração
     changes:
     - Altera Artigo unidades 36-38
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:04:05Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 468/99. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-376-90.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-376-90.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -159,7 +161,9 @@ validation:
 
 de 30 de Novembro
 
-A ENU - Empresa Nacional de Urânio, E. P., foi criada pelo [Decreto n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656), de 6 de Maio.
+A ENU - Empresa Nacional de Urânio, E. P., foi criada pelo Decreto n.º 67/77, de 6 de Maio.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-247196), publicado em 1990-12-31.
 
 O presente decreto-lei visa alterar a natureza jurídica da ENU - Empresa Nacional de Urânio, E. P., convertendo-a de pessoa colectiva de direito público em pessoa colectiva de direito privado, com o estatuto de sociedade anónima, que se manterá, no entanto, apesar de aberta a capitais privados, na área do sector empresarial do Estado, pois que a maioria do capital será sempre detida por entes públicos.
 
@@ -173,7 +177,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - A ENU - Empresa Nacional de Urânio, E. P., criada pelo [Decreto n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656), de 6 de Maio, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se ENU - Empresa Nacional de Urânio, S. A.
+Artigo 1.º - 1 - A ENU - Empresa Nacional de Urânio, E. P., criada pelo Decreto n.º 67/77, de 6 de Maio, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se ENU - Empresa Nacional de Urânio, S. A.
 
 2 - A ENU - Empresa Nacional de Urânio, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas de direito privado aplicáveis às sociedades anónimas.
 
@@ -217,15 +221,15 @@ Art. 7.º - 1 - Os trabalhadores e pensionistas da ENU - Empresa Nacional de Ur�
 
 4 - Os trabalhadores da ENU - Empresa Nacional de Urânio, S. A., que sejam chamados a ocupar cargos nos órgãos da empresa em nada serão prejudicados por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
 
-Art. 8.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiros que celebraram contratos com a ENU - Empresa Nacional de Urânio, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração das circunstâncias para efeitos dos referidos contratos.
+Art. 8.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a ENU - Empresa Nacional de Urânio, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração das circunstâncias para efeitos dos referidos contratos.
 
-Art. 9.º - 1 - É, por este forma, convocada a assembleia geral da ENU - Empresa Nacional de Urânio, S. A., a qual deve reunir na sede da sociedade pelas 17 horas do 30.º dia posterior à data de entrada em vigor do presnete diploma ou do 1.º dia útil subsequente, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 9.º - 1 - É, por este forma, convocada a assembleia geral da ENU - Empresa Nacional de Urânio, S. A., a qual deve reunir na sede da sociedade pelas 17 horas do 30.º dia posterior à data de entrada em vigor do presente diploma ou do 1.º dia útil subsequente, com o objectivo de eleger os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os actuais membros do conselho de gerência e da comissão de fiscalização da ENU - Empresa Nacional de Urânio, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da ENU - Empresa Nacional de Urânio, S. A., com as competências fixadas nos estatutos para o conselho de administração e o conselho fiscal, respectivamente.
 
 Art. 10.º Atenta a natureza específica da sua actividade, a ENU - Empresa Nacional de Urânio, S. A., gozará, sempre que tal se mostre indispensável à prossecução dos seus fins, dos direitos atribuídos por disposições legais e regulamentares à ENU - Empresa Nacional de Urânio, E. P., para efeitos de expropriação por utilidade pública urgente e de protecção das suas instalações.
 
-Art. 11.º - 1 - À ENU - Empresa Nacional de Urânio, S. A., assiste o regime de exclusivo no exercício das actividades de exploração de jazigos de urânio e de estabelecimento e exploração de instalações de recuperação e tratamento de minerais de urânio, com a ressalva dos direitos adquiridos, a favor de terceiros, à data da entrada em vigor do [Decreto n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto/66-1977-251656), de 6 de Maio, que aprovou o estatuto da ENU - Empresa Nacional de Urânio, E. P.
+Art. 11.º - 1 - À ENU - Empresa Nacional de Urânio, S. A., assiste o regime de exclusivo no exercício das actividades de exploração de jazigos de urânio e de estabelecimento e exploração de instalações de recuperação e tratamento de minerais de urânio, com a ressalva dos direitos adquiridos, a favor de terceiros, à data da entrada em vigor do Decreto n.º 67/77, de 6 de Maio, que aprovou o estatuto da ENU - Empresa Nacional de Urânio, E. P.
 
 2 - O exercício de tais actividades poderá ser permitido a associações, empresas ou sociedades, criadas para esse fim, em que a ENU - Empresa Nacional de Urânio, S. A., participe, desde que a sua constituição seja previamente autorizada por despacho conjunto dos Ministros das Finanças e da Economia.
 
@@ -381,7 +385,7 @@ Art. 16.º - 1 - O conselho de administração fixará as datas ou a periodicida
 
 4 - Os administradores podem fazer-se representar nas reuniões do conselho por outro administrador designado por simples carta dirigida ao presidente.
 
-Art. 17.º - 1 - Nas actas do conselho de administração e da comissão executiva mencionar-se-ão, sumariamente mas com clareza, os assuntos tratados nas respectivas reuniões.
+Art. 17.º - 1 - Nas actas do conselho de administração e das comissões executivas mencionar-se-ão, sumariamente mas com clareza, os assuntos tratados nas respectivas reuniões.
 
 2 - As actas são assinadas por todos os membros do conselho de administração que participarem na reunião.
 
@@ -429,6 +433,6 @@ b) Até 20% serão atribuídos como participação nos lucros aos trabalhadores 
 
 Art. 23.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
 
-2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberação da assembleia geral.
+2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.
 
 O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.

@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1985-02-11'
     amending: pt:dre:327824:por
-    amending_title: Decreto-Lei n.º 36/85
+    amending_title: Decreto-Lei n.º 36/85; Declaração
     changes:
     - Altera Artigo único
+    - Retifica texto
 identifiers:
   celex: null
   eli: null
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:58:41Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 36/85. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1984/decreto-lei-242-84.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1984/decreto-lei-242-84.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -270,7 +272,9 @@ b) Às ajudas de custo fixadas na lei geral, tal como se tivessem de se deslocar
 
 Se, porém, mais de um serviço de assistência for prestado no mesmo local, na mesma ocasião ou sucessivamente, a mercadoria pertencer ao mesmo dono e os respectivos despachos forem solicitados pelo mesmo despachante, somente corresponderá um subsídio de deslocação ou transporte ao conjunto daqueles serviços, salvo quando sejam interrompidos por espaço igual ou superior a 1 hora.
 
-9.ª As taxas de tráfego de assistência, com excepção das fixadas no artigo 8.º, que terão o destino indicado na respectiva nota, pertencem 50% ao Estado e o remanescente constituirá receita do cofre aludido no artigo 319.º da Reforma Aduaneira.
+9.ª As taxas de tráfego de assistência, com excepção das fixadas no artigo 8.º, que terão o destino indicado na respectiva nota, pertencem 50% ao Estado e, do remanescente, metade pertence aos funcionários que prestarem o serviço e a outra metade constituirá receita do Cofre aludido no artigo 319.º da Reforma Aduaneira.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-520020), publicado em 1984-08-31.
 
 10.ª As despesas de transporte e as ajudas de custo serão recebidas por inteiro pelos funcionários e por intermédio dos tesoureiros das alfândegas. Os subsídios de deslocação serão distribuídos pelos funcionários, de acordo com o estabelecido por despacho ministerial.
 

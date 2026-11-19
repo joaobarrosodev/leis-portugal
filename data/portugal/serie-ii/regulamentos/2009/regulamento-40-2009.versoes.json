@@ -31,12 +31,21 @@
      "title": "Regulamento n.º 821/2010",
      "published": "2010-10-29",
      "dre_path": "/dr/detalhe/regulamento/821-2010-3282938"
+    },
+    {
+     "id": "pt:dre:3485579:por",
+     "title": "Declaração de Rectificação n.º 515/2009",
+     "published": "2009-02-19",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/515-2009-3485579"
     }
    ],
    "changes": [
     "Altera Artigo 3.º",
     "Altera Artigo 6.º",
-    "Altera Artigo 3.º"
+    "Altera Artigo 3.º",
+    "Retifica Artigo 5",
+    "Retifica Artigo 7",
+    "Retifica Artigo 8"
    ],
    "fragments": [
     "2fdeff6a5ac26ecb",
@@ -44,10 +53,10 @@
     "7f3ac2b5f6a28ef7",
     "7942260fe0dc6158",
     "98d903211dee3979",
-    "5dba27e42e697231",
+    "5c0fe764bbd0da21",
     "56e77f51891140ec",
-    "9435cccdfcb8a310",
-    "689fd40630ea3e81"
+    "bc525b7383c08232",
+    "d01a667c9c41927b"
    ]
   }
  ],
@@ -135,6 +144,16 @@
    ],
    "markdown": "###### Artigo 3.º — Requerimento para obtenção de declaração para efeitos de isenção de IVA\n\n1 - As transportadoras aéreas devem apresentar requerimento dirigido ao presidente do conselho directivo do INAC, I. P., solicitando emissão da declaração para efeitos de isenção de IVA para efeitos da alínea c) do n.º 1 do artigo 13.º e da alínea g) do n.º 1 do artigo 14.º do Código do IVA.\n\n2 - O requerimento previsto no número anterior deve ser instruído com informação sobre:\n\na) Passageiros/carga transportados fora do território nacional e de fora para dentro do território nacional e do território nacional para fora do mesmo, nos 12 meses anteriores, discriminando-os por origem/destino;\n\nb) Volume de negócios referente a transporte aéreo internacional no exercício económico anterior.\n\n3 - O INAC, I. P., emite a declaração requerida no prazo máximo de 15 dias, após a completa instrução do processo.\n\n4 - Sempre que o INAC, I. P., solicitar esclarecimentos adicionais sobre a informação prestada, é interrompido o prazo previsto no número anterior.\n\n5 - O INAC, I. P., reserva-se o direito de solicitar comprovativos da informação prestada à empresa requerente ou a qualquer outra entidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29.\n\n> Alterado pelo/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29."
   },
+  "5c0fe764bbd0da21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Emissão da declaração para transportadoras aéreas em actividade",
+   "in_force_from": "2010-10-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 515/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/515-2009-3485579), publicado em 2009-02-19."
+   ],
+   "markdown": "###### Artigo 5.º — Emissão da declaração para transportadoras aéreas em actividade\n\n1 - Quando a transportadora aérea se tenha dedicado maioritariamente, nos 12 meses anteriores à data de entrada do requerimento, ao transporte aéreo internacional, o INAC, I. P., emite a declaração para efeitos de isenção do IVA na importação de aeronaves, partes e peças, prevista na alínea c) do n.º 1 do artigo 13.º e na alínea g) do n.º 1 do artigo 14.º, ambos do Código do IVA.\n\n2 - Nos termos do n.º 4 do artigo 14.º do Código do IVA, considera-se equiparado ao transporte internacional o transporte de pessoas com proveniência ou com destino às Regiões Autónomas e ainda o transporte de pessoas entre as ilhas das mesmas Regiões.\n\n3 - A declaração referida no n.º 1 tem validade de 12 meses.\n\n4 - No âmbito da emissão da declaração deverão ser preenchidos os seguintes requisitos:\n\na) No caso de uma transportadora aérea que se dedique exclusivamente ao transporte aéreo, a mesma deve fazer prova de que a percentagem do volume de negócios afecto ao transporte aéreo internacional é superior a 50 % do volume de negócios total anual ou de que a percentagem de passageiros/carga transportados em tráfego aéreo internacional é superior a 50 % do total transportado em tráfego comercial nos 12 meses anteriores, bastando para tal que um dos requisitos conclua pelo exercício maioritário do transporte aéreo internacional;\n\nb) No caso de uma transportadora aérea que se dedique simultaneamente a outras actividades para além do transporte aéreo, nomeadamente ao trabalho aéreo ou a reparações ou operações de manutenção, a mesma deve fazer prova de que valor das operações de tráfego aéreo internacional realizadas em cada ano corresponde a uma percentagem superior a 50 % do seu volume de negócios global.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 515/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/515-2009-3485579), publicado em 2009-02-19."
+  },
   "56e77f51891140ec": {
    "fragment_id": null,
    "type": null,
@@ -144,6 +163,22 @@
     "Alterado pelo/a Artigo 2.º do/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29."
    ],
    "markdown": "###### Artigo 6.º — Contratos de wet lease entre operadores\n\n1 - Nos termos do presente regulamento, para efeitos de caracterização de tráfego, são considerados os passageiros/carga transportados ou o volume de negócios associado a contratos de wet lease entre operadores.\n\n2 - Sempre que a requerente exerça, como locadora, a sua actividade de transporte aéreo internacional com recurso a contratos de wet lease com outras transportadoras, deve a mesma, juntamente com o requerimento, indicar o número de passageiros/carga transportados e o volume de negócios associado a esses contratos de wet lease.\n\n> Alterado pelo/a Artigo 2.º do/a [Regulamento n.º 821/2010](https://diariodarepublica.pt/dr/detalhe/regulamento/821-2010-3282938), publicado em 2010-10-29."
+  },
+  "bc525b7383c08232": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições transitórias\n\nAos processos de emissão de declaração em curso no INAC, I. P., e aos requerimentos formulados e entregues no INAC, I. P., antes da data da entrada em vigor do presente regulamento são aplicáveis as regras, critérios e procedimentos em vigor até àquela data."
+  },
+  "d01a667c9c41927b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia da sua aprovação.\n\n9 de Janeiro de 2009. - O Presidente do Conselho Directivo, Luís A. Fonseca de Almeida."
   }
  }
 }

@@ -55,10 +55,13 @@ version_history:
     changes: []
   - date: '2004-01-01'
     amending: pt:dre:315337:por
-    amending_title: Lei n.º 30-D/2000; Decreto-Lei n.º 324/2003
+    amending_title: Lei n.º 30-D/2000; Decreto-Lei n.º 324/2003; Declaração de Rectificação n.º 7-S/2000; Declaração de Rectificação
+      n.º 11-A/2000
     changes:
     - Altera Artigo 1.º
     - Altera Artigo 7.º
+    - Retifica Artigo 1
+    - Retifica Artigo 8
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/183/2000/08/10/p/dre/pt/html
@@ -85,7 +88,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:18:20Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 30-D/2000; Decreto-Lei n.º
-    324/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-183-2000.alteracoes.json'
+    324/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2000/decreto-lei-183-2000.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 7-S/2000; Declaração de Rectificação n.º 11-A/2000.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -656,8 +661,6 @@ f) Depoimento reduzido a escrito, nos termos do artigo 639.º;
 
 g) Inquirição por telefone, ao abrigo do disposto no artigo 639.º-B.
 
-h) ...
-
 Artigo 623.º
 
 Inquirição por teleconferência
@@ -682,7 +685,7 @@ Artigo 629.º
 
 3 - No caso da parte não prescindir de alguma testemunha faltosa, observar-se-á o seguinte:
 
-a) ...
+a) Se ocorrer impossibilidade definitiva para depor, posterior à sua indicação, a parte tem a faculdade de a substituir;
 
 b) Se a impossibilidade for meramente temporária, a parte pode substituí-la ou, se não for possível depor ao abrigo do disposto nos artigos 639.º e 639.º-B e o tribunal reconhecer que existe grave inconveniente para a descoberta da verdade na sua não audição, a inquirição é adiada`, marcando-se de imediato a continuação num prazo que se afigurar razoável, nunca excedente a 30 dias;
 
@@ -690,7 +693,7 @@ c) Se tiver mudado de residência depois de oferecida, pode a parte substituí-l
 
 d) Se não tiver sido notificada, devendo tê-lo sido, ou se deixar de comparecer por outro impedimento legítimo, poderá aplicar-se o regime previsto nos artigos 639.º e 639.º-B ou adiar-se a inquirição, marcando-se de imediato a sua realização para um dos 30 dias seguintes;
 
-e) ...
+e) Se faltar sem motivo justiticado e não for encontrada para vir depor nos termos do número seguinte, pode ser substituída.
 
 4 - (Anterior n.º 3.)
 
@@ -750,7 +753,7 @@ d) Se faltar algum dos advogados que tenha comunicado a impossibilidade da sua c
 
 2 - No caso previsto na alínea a) do número anterior, se for impossível constituir o tribunal colectivo e alguma das partes tiver prescindido da sua intervenção, qualquer das partes pode requerer a gravação da audiência logo após a abertura da mesma.
 
-3 - Não é admissível o adiamento por acordo das partes, nem pode adiar-se a audiência por mais do que uma vez, excepto no caso previsto na alínea a) do número anterior.
+3 - Não é admissível o acordo das partes, nem pode adiar-se a audiência por mais do que uma vez, excepto no caso previsto na alínea a) do n.º 1.
 
 4 - Não se verificando o circunstancialismo previsto na parte final da alínea b) do n.º 1, a audiência deve iniciar-se com a produção das provas que puderem de imediato produzir-se, sendo interrompida antes de iniciados os debates, designando-se logo dia para continuar decorrido o tempo necessário para exame do documento, interrupção essa que não pode ir além dos 10 dias.
 
@@ -797,6 +800,10 @@ Artigo 796.º
 7 - A sentença, julgando a matéria de facto e de direito, é sucintamente fundamentada e logo ditada para a acta.»
 
 > Alterado pelo/a [Lei n.º 30-D/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-d-2000-315337), publicado em 2000-12-20.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 11-A/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-a-2000-235761), publicado em 2000-09-30.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 7-S/2000](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-s-2000-336713), publicado em 2000-08-31.
 
 ###### Artigo 2.º — Aditamentos ao Código de Processo Civil
 
@@ -914,7 +921,7 @@ Até ao dia 30 de Novembro de 2000, as entidades prestadoras de serviços vincul
 
 ###### Artigo 8.º — Entrada em vigor
 
-O presente diploma entra em vigor no dia 1 de Janeiro de 2001.
+O presente diploma entra em vigor no dia 1 de Janeiro de 2001, com excepção do artigo 6.º, cuja vigência se inicia no dia subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - António Luís Santos Costa.
 

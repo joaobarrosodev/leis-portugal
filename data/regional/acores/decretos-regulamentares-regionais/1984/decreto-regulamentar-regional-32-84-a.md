@@ -44,11 +44,12 @@ version_history:
     changes: []
   - date: '1986-10-09'
     amending: pt:dre:222448:por
-    amending_title: Decreto Regulamentar Regional n.º 36/86/A
+    amending_title: Decreto Regulamentar Regional n.º 36/86/A; Declaração
     changes:
     - Altera Artigo 5.º
     - Altera Artigo 7.º
     - Altera Artigo 13.º
+    - Retifica Artigo 11
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:26:15Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
-    36/86/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1984/decreto-regulamentar-regional-32-84-a.alteracoes.json'
+    36/86/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1984/decreto-regulamentar-regional-32-84-a.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -271,7 +273,9 @@ São eleitores e elegíveis para as comissões venatórias os caçadores de naci
 
 ###### Artigo 11.º
 
-Para os mandatos seguintes das comissões venatórias, as eleições deverão ser realizadas até 45 dias antes do início do novo mandato, sendo a sua data anunciada com 30 dias de antecedência pela Direcção Regional dos Recursos Florestais, mantendo-se em vigor o disposto no n.º 8 do artigo 9.º
+Para os mandatos seguintes das comissões venatórias, as eleições deverão ser realizadas até 45 dias antes do início do novo mandato, sendo a sua data anunciada com 30 dias de antecedência pela Direcção Regional dos Recursos Florestais, mantendo-se em vigor o disposto nos n.os 5 e 7 do artigo 9.º
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-446501), publicado em 1984-10-31.
 
 ###### Artigo 12.º
 

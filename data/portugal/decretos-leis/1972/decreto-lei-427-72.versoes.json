@@ -29,10 +29,17 @@
      "title": "Decreto-Lei n.º 195/75",
      "published": "1975-04-12",
      "dre_path": "/dr/detalhe/decreto-lei/195-1975-161890"
+    },
+    {
+     "id": "pt:dre:685607:por",
+     "title": "Declaração",
+     "published": "1972-12-27",
+     "dre_path": "/dr/detalhe/declaracao/1972-685607"
     }
    ],
    "changes": [
-    "Altera Artigo 5.º"
+    "Altera Artigo 5.º",
+    "Retifica Artigo 10"
    ],
    "fragments": [
     "c89ccb8a41a13a5f",
@@ -47,7 +54,7 @@
     "e1f52150a462cc5b",
     "3a64add8d2927303",
     "0642a1643c5a2890",
-    "e99647e95d9d48a2",
+    "fba24f54f8858f0e",
     "f4a88ecb3c1f4c96",
     "86bcfdd663bfae87",
     "b8d53173007c4d57",
@@ -236,13 +243,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 9.º\n\n1. O presidente do conselho geral é eleito pelo conselho de entre os vogais que não sejam membros da direcção, ficando a eleição sujeita a sancionamento do Secretário de Estado do Comércio.\n\n2. O presidente fica impedido da representação que lhe cabia como vogal no conselho geral, sendo substituído pela forma prescrita para a respectiva representação.\n\n3. A eleição efectuar-se-á em reunião especialmente convocada para o efeito pelo presidente da direcção.\n\n4. O presidente do conselho geral será substituído, nas suas faltas ou impedimentos, pelo vogal eleito pelo conselho na reunião referida no número anterior.\n\n5. O mandato do presidente do conselho geral tem a mesma duração e deve coincidir com o dos representantes das actividades."
   },
-  "e99647e95d9d48a2": {
+  "fba24f54f8858f0e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 10.º\n\n1. O conselho geral compreende três secções:\n\n1.ª Cereais panificáveis;\n\n2.ª Arroz;\n\n3.ª Cereais forrageiros.\n\n2. Os vogais do conselho geral indicados nas alíneas b), c), e), f), g), h), j), m), n) e o) do n.º 1 do artigo 8.º pertencem à 1.ª secção, os referidos nas alíneas d), i), m), n) e o) à 2.ª secção e os das alíneas b), c), e), l) e q) à dos cereais forrageiros, sendo comuns a todas as secções os rias alíneas a), h), r), s) e t).\n\n3. Às reuniões das secções podem comparecer todos os membros da direcção ou apenas aquele ou aqueles que forem designados pelo presidente da direcção.\n\n4. Por portaria do Secretário de Estado do Comércio podem ser criadas novas secções, modificadas as existentes ou alterada a sua composição."
+   "in_force_from": "1975-04-12",
+   "changed_by": [
+    "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1972-685607), publicado em 1972-12-27."
+   ],
+   "markdown": "###### Artigo 10.º\n\n1. O conselho geral compreende três secções:\n\n1.ª Cereais panificáveis;\n\n2.ª Arroz;\n\n3.ª Cereais forrageiros.\n\n2. Os vogais do conselho geral indicados nas alíneas b), c), e), f), g), h), j), m), n) e o) do n.º 1 do artigo 8.º pertencem à 1.ª secção, os referidos nas alíneas d), i), m), n) e o) à 2.ª secção e os das alíneas b), c), e), l) e q) à dos cereais forrageiros, sendo comuns a todas as secções os das alíneas a), p), r), s) e t).\n\n3. Às reuniões das secções podem comparecer todos os membros da direcção ou apenas aquele ou aqueles que forem designados pelo presidente da direcção.\n\n4. Por portaria do Secretário de Estado do Comércio podem ser criadas novas secções, modificadas as existentes ou alterada a sua composição.\n\n> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1972-685607), publicado em 1972-12-27."
   },
   "f4a88ecb3c1f4c96": {
    "fragment_id": null,

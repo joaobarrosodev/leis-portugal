@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2001-03-11'
     amending: pt:dre:371872:por
-    amending_title: Decreto-Lei n.º 80/2001
+    amending_title: Decreto-Lei n.º 80/2001; Declaração de Rectificação n.º 24/93
     changes:
     - Revoga Artigo 1.º
     - Revoga Artigo 2.º
@@ -91,6 +91,7 @@ version_history:
     - Revoga Artigo 36.º
     - Revoga Artigo 37.º
     - Revoga Artigo 38.º
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/271/1992/11/30/p/dre/pt/html
@@ -117,7 +118,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:19:30Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 80/2001. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-271-92.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-271-92.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 24/93.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -204,11 +207,13 @@ Na concepção do presente diploma tiveram-se em atenção os parâmetros que v�
 
 No que se refere à estrutura e funcionamento, consagram-se formas flexíveis de actuação, susceptíveis de garantir níveis de eficácia consentâneos com as elevadas responsabilidades atribuídas.
 
-No que respeita a pessoal, introduzem-se algumas alterações, com o fim de garantir um quadro de funcionários devidamente qualificados. Aumenta-se o número de inspectores em quase todas as categorias da carreira técnica superior de inspecção, nomeadamente na de inspectores superiores, assessores principais e inspectores superiores assessores, garantindo-se, assim, possibilidades de acesso àqueles que detêm condições para tanto.
+No que respeita a pessoal, introduzem-se algumas alterações, com o fim de garantir um quadro de funcionários devidamente qualificados. Aumenta-se o número de inspectores em quase todas as categorias da carreira técnica superior de inspecção, nomeadamente na de inspectores superiores assessores principais e inspectores superiores assessores, garantindo-se, assim, possibilidades de acesso àqueles que detêm condições para tanto.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 24/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/24-1993-302928), publicado em 1993-02-27.
 
 Tendo em atenção as condicionantes orçamentais da presente conjuntura, evidencia-se que este desiderato se consegue sem aumentar os encargos com pessoal e com uma diminuição real de efectivos, pois faz-se corresponder a estrutura do quadro de pessoal ao tipo de orgânica adoptada.
 
-Inovação importante é a da criação dos lugares de director de serviços, indispensável na tarefa de coordenação e conjugação das áreas técnicas, pretendendo-se, dessa forma, reunir condições para um mais eficaz processo de decisão.
+Inovação importante é a da criação dos lugares de directores de serviços, indispensável na tarefa de coordenação e conjugação das áreas técnicas, pretendendo-se, dessa forma, reunir condições para um mais eficaz processo de decisão.
 
 O presente diploma constitui um instrumento positivo como reforço da legalidade, valorizando e dignificando, por outro lado, com o rigor e transparência que dele sobressaem, a acção de um serviço que é fundamental no contexto do sistema de segurança social português.
 

@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '1996-12-14'
     amending: pt:dre:694044:por
-    amending_title: Decreto-Lei n.º 235-A/96
+    amending_title: Decreto-Lei n.º 235-A/96; Declaração de Rectificação n.º 16-D/96
     changes:
     - Altera Artigo 1.º
     - Altera Artigo 3.º
@@ -63,6 +63,11 @@ version_history:
     - Altera Artigo 14.º
     - Altera Artigo 15.º
     - Adita Artigo 17.º-A
+    - Retifica Artigo 6
+    - Retifica Artigo 7
+    - Retifica Artigo 11
+    - Retifica Artigo 14
+    - Retifica Artigo 20
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre/pt/html
@@ -89,7 +94,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:43:45Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 235-A/96. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-124-96.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1996/decreto-lei-124-96.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 16-D/96.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -330,13 +337,15 @@ d) Circunstâncias determinantes da origem das dívidas.
 
 3 - A competência para a constituição das garantias previstas no número anterior pertence aos Ministros das Finanças e da Solidariedade e Segurança Social, que poderão delegar, e que regulamentarão, por despacho conjunto, as formas de articulação entre os serviços competentes.
 
-4 - As mesmas entidades poderão, a todo o tempo, efectuar nova penhora ou constituir nova hipoteca ou penhor em substituição dos que tenham recaído sobre bens desaparecidos, deteriorados ou desvalorizados, sem prejuízo de o devedor poder nomear outros bens à penhora, nos termos do artigo 297.º do Código de Processo Tributário.
+4 - As entidades referidas no n.º 2 poderão, a todo o tempo, efectuar nova penhora ou constituir nova hipoteca ou penhor em substituição dos que tenham recaído sobre bens desaparecidos, deteriorados ou desvalorizados, sem prejuízo de o devedor poder nomear outros bens à penhora, nos termos do artigo 297.º do Código de Processo Tributário.
 
-5 - Com excepção do pagamento das importâncias destinadas, na sua totalidade, a objectivos de acção social, poderá ser efectuada, como garantia do pagamento das prestações referidas no artigo 4.º, a retenção até 50% das importâncias que, a qualquer título, devam ser pagas ao devedor pelo Estado, pelas instituições de segurança social ou por institutos públicos.
+5 - Com excepção do pagamento das importâncias destinadas, na sua totalidade, a objectivos de acção social, poderá ser efectuada, como garantia do pagamento das prestações referidas no artigo 5.º, a retenção até 50% das importâncias que, a qualquer título, devam ser pagas ao devedor pelo Estado, pelas instituições de segurança social ou por institutos públicos.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 16-D/96](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-d-1996-248865), publicado em 1996-11-30.
 
 ###### Artigo 7.º — Assunção de dívidas
 
-1 - Poderão beneficiar do regime previsto no presente diploma os terceiros que assumam a dúvida, desde que prestem garantia pelo valor do respectivo capital, mediante requerimento fundamentado, dirigido aos Ministros das Finanças ou da Solidariedade e Segurança Social, quanto a este se as dívidas se não encontrarem em fase executiva e respeitarem a créditos de instituições da segurança social.
+1 - Poderão beneficiar do regime previsto no presente diploma os terceiros que assumam a dívida, desde que prestem garantia pelo valor do respectivo capital, mediante requerimento fundamentado, dirigido aos Ministros das Finanças ou da Solidariedade e Segurança Social, quanto a este se as dívidas se não encontrarem em fase executiva e respeitarem a créditos de instituições da segurança social.
 
 2 - O despacho de aceitação da assunção de dívida e das garantias previstas no número anterior determina a extinção das garantias que tenham sido prestadas pelo devedor e o levantamento da penhora eventualmente efectuada no mesmo processo.
 
@@ -388,7 +397,7 @@ b) Negociação sem prévia publicação de anúncio ou ajuste directo, quando e
 
 a) Não se verifique a existência das seguintes circunstâncias, devendo a própria entidade apresentar declaração nesse sentido:
 
-i) Pronúncia por prática de crimes fiscais conexos com as dívidas em causa, imputáveis aos devedores em caso de pessoas singulares ou, em caso de pessoas colectivas, a quem os represente e permaneça em funções;
+i) Pronúncia por prática de crimes fiscais conexos com as dívidas em causa, imputáveis aos devedores em caso de pessoas singulares ou, em caso de pessoas colectivas, a quem as representam e permaneça em funções;
 
 ii) Paralisação da actividade da entidade devedora por período que faça supor a inviabilidade da sua recuperação;
 
@@ -428,7 +437,7 @@ b) As sociedades em relação de domínio ou de grupo com a entidade devedora.
 
 ###### Artigo 14.º — Trâmites dos pedidos de adesão
 
-1 - As entidades devedoras que pretendam beneficiar das medidas excepcionais previstas no presente diploma deverão apresentar requerimento na repartição de finanças da sua sede ou residência até 31 de Janeiro de 1997, acompanhado das declarações e autorizações decorrentes da lei, sendo para os efeitos previstos na alínea c) do n.º 1 do artigo 3.º emitida autorização, nos termos previstos no n.º 1 do artigo 79.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 289/92, de 31 de Dezembro, quando exigíveis.
+1 - As entidades devedoras que pretendam beneficiar das medidas excepcionais previstas no presente diploma deverão apresentar requerimento na repartição de finanças da sua sede ou residência até 31 de Janeiro de 1997, acompanhado das declarações e autorizações decorrentes da lei, sendo para os efeitos previstos na alínea c) do n.º 1 do artigo 3.º emitida autorização, nos termos previstos no n.º 1 do artigo 79.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, quando exigíveis.
 
 2 - O requerimento será dirigido aos Ministros das Finanças ou da Solidariedade e Segurança Social, conforme os casos, sendo apresentado em duas vias caso estejam simultaneamente em causa dívidas ao Estado e à segurança social.
 
@@ -496,7 +505,7 @@ Sem prejuízo dos efeitos decorrentes da aplicação do [Decreto-Lei n.º 225/94
 
 ###### Artigo 20.º — Informação à Assembleia da República
 
-Trimestralmente, o Governo informará a Assembleia da República sobre a aplicação das medidas previstas nos artigos 3.º e 4.º e apresentará um relatório justificativo da realização e das condições das operações realizadas ao abrigo dos artigos 8.º a 10.º deste diploma.
+Trimestralmente, o Governo informará a Assembleia da República sobre a aplicação das medidas previstas nos artigos 4.º e 5.º e apresentará um relatório justificativo da realização e das condições das operações realizadas ao abrigo dos artigos 8.º a 10.º deste diploma.
 
 ###### Artigo 21.º — Entrada em vigor
 

@@ -23,11 +23,18 @@
      "title": "Decreto-Lei n.º 550/80",
      "published": "1980-11-18",
      "dre_path": "/dr/detalhe/decreto-lei/550-1980-458234"
+    },
+    {
+     "id": "pt:dre:252044:por",
+     "title": "Rectificação",
+     "published": "1977-05-19",
+     "dre_path": "/dr/detalhe/rectificacao/1977-252044"
     }
    ],
    "changes": [
     "Altera Artigo 4.º",
-    "Altera Artigo 5.º"
+    "Altera Artigo 5.º",
+    "Retifica Artigo 6"
    ],
    "fragments": [
     "bdc8c0984eac2f3c",
@@ -36,7 +43,7 @@
     "faca471dfdca1327",
     "69537ac8b53bb9a0",
     "f5c18983f67d8567",
-    "f0e5523da67424ef",
+    "e65036f7957e9037",
     "5b775cad4cd44c41",
     "5554e902978df3f1",
     "59a424aa6a32ff11"
@@ -104,13 +111,15 @@
    ],
    "markdown": "###### Artigo 5.º\n\nO 2.º comandante tem a mesma competência disciplinar do 2.º comandante da Polícia de Segurança Pública de Lisboa.\n\n> Alterado pelo/a [Decreto-Lei n.º 550/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1980-458234), publicado em 1980-11-18."
   },
-  "f0e5523da67424ef": {
+  "e65036f7957e9037": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 6.º\n\nA actualização dos QO da PSP, a que se refere o artigo 2.º do presente diploma, terá lugar em duas fases, constando da primeira, a vigorar de imediato, o comando, formação e dois grupos de intervenção, a que corresponde o aumento do seguinte pessoal:\n\n1 tenente-coronel ou major.\n\n1 major ou capitão.\n\n1 capitão.\n\n3 primeiros-comissários.\n\n5 segundos-comissários.\n\n12 chefes de esquadra.\n\n3 subchefes-ajudantes.\n\n49 subchefes.\n\n419 guardas.\n\n491"
+   "in_force_from": "1980-11-18",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-252044), publicado em 1977-05-19."
+   ],
+   "markdown": "###### Artigo 6.º\n\nA actualização dos QO da PSP, a que se refere o artigo 2.º do presente diploma, terá lugar em duas fases, constando da primeira, a vigorar de imediato, o comando, formação e dois grupos de intervenção, a que corresponde o aumento do seguinte pessoal:\n\n1 tenente-coronel ou major.\n\n1 major ou capitão.\n\n1 capitão.\n\n3 primeiros-comissários.\n\n5 segundos-comissários.\n\n12 chefes de esquadra.\n\n3 subchefes-ajudantes.\n\n49 subchefes.\n\n416 guardas.\n\n491\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-252044), publicado em 1977-05-19."
   },
   "5b775cad4cd44c41": {
    "fragment_id": null,

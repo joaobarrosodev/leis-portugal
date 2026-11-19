@@ -43,13 +43,17 @@ version_history:
     changes: []
   - date: '1998-04-27'
     amending: pt:dre:332945:por
-    amending_title: Decreto Regulamentar Regional n.º 6/90/A; Decreto Regulamentar Regional n.º 8/98/A
+    amending_title: Decreto Regulamentar Regional n.º 6/90/A; Decreto Regulamentar Regional n.º 8/98/A; Declaração
     changes:
     - Altera Artigo 18.º
     - Altera Artigo 37.º
     - Revoga Artigo 60.º
     - Altera Artigo 62.º
     - Revoga Artigo 67.º
+    - Retifica texto
+    - Retifica Artigo 2
+    - Retifica Artigo 44
+    - Retifica Artigo 79
 identifiers:
   celex: null
   eli: null
@@ -76,7 +80,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:26:36Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
-    6/90/A; Decreto Regulamentar Regional n.º 8/98/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1986/decreto-regulamentar-regional-3-86-a.alteracoes.json'
+    6/90/A; Decreto Regulamentar Regional n.º 8/98/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1986/decreto-regulamentar-regional-3-86-a.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +150,9 @@ validation:
 
 A descontinuidade geográfica dos Açores aconselha a organização da sua rede de serviços de saúde segundo um modelo de tipo descentralizado, sujeito aos princípios da hierarquização e desconcentração de funções e actividades, cometendo a cada unidade de saúde a prestação dos cuidados tecnologicamente apropriados e de complexidade gradativa.
 
-Os centros de saúde, agora regulamentados na linha do que estabelece o [Decreto Regulamentar Regional n.º 32/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1980-470454), de 11 de Dezembro, constituem em cada módulo geográfico, mormente o concelho, base do serviço de saúde que se tem vindo a organizar, designadamente no âmbito da prestação de cuidados de saúde primários ou essenciais. Efectivamente, estando vocacionado para o desenvolvimento de actividades de promoção e protecção da saúde do indivíduo, da família e da comunidade, privilegiando a personalização da relação e aplicando uma tecnologia de natureza preventivo-curativa, de cariz necessariamente eficiente e eficaz, tenderá a ser uma unidade cada vez mais dinâmica na procura das soluções para as situações de saúde por ela identificadas, no âmbito da sua zona de intervenção geográfica.
+Os centros de saúde, agora regulamentados na linha do que estabelece o Decreto Regional n.º 32/80/A, de 11 de Dezembro, constituem em cada módulo geográfico, mormente o concelho, base do serviço de saúde que se tem vindo a organizar, designadamente no âmbito da prestação de cuidados de saúde primários ou essenciais. Efectivamente, estando vocacionado para o desenvolvimento de actividades de promoção e protecção da saúde do indivíduo, da família e da comunidade, privilegiando a personalização da relação e aplicando uma tecnologia de natureza preventivo-curativa, de cariz necessariamente eficiente e eficaz, tenderá a ser uma unidade cada vez mais dinâmica na procura das soluções para as situações de saúde por ela identificadas, no âmbito da sua zona de intervenção geográfica.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-301856), publicado em 1986-03-31.
 
 Para isso, elaborados os respectivos programas de actividades, executando-os sob a orientação dos respectivos órgãos de gestão e consubstanciando um trabalho de equipa, o centro de saúde deverá fomentar a articulação com outros sectores de actividade, nomeadamente os afins, e deverá estimular a participação da comunidade, com especial relevo dos utilizadores, que são, em suma, os destinatários preferenciais do sistema, sem esquecer que o desenvolvimento das actividades não se confina ao seu espaço físico, antes se estende à escola, à fábrica ou às colectividades grupais, de forma a conseguir a concretização efectiva das acções inerentes a cada objectivo definido e programado.
 
@@ -155,7 +162,7 @@ Mas é na família, como célula básica do tecido social, e no seu ambiente env
 
 Assim:
 
-O Governo Regional decreta, nos termos do artigo 31.º do [Decreto Regulamentar Regional n.º 32/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1980-470454), de 11 de Dezembro, e da alínea d) do artigo 229.º da Constituição, o seguinte:
+O Governo Regional decreta, nos termos do artigo 31.º do Decreto Regional n.º 32/80/A, de 11 de Dezembro, e da alínea d) do artigo 229.º da Constituição, o seguinte:
 
 ## TÍTULO I — Centros de saúde
 
@@ -169,7 +176,7 @@ O centro de saúde é uma unidade prestadora de cuidados de saúde primários ou
 
 ###### Artigo 2.º — (Princípios de actuação)
 
-A actividade do centro de saúde obedece a regras de gestão por objectivos, o que implica o planeamento das actividades a desenvolver, a nível do seu âmbito de actuação, bem como a participação conjugada, o envolvimento e a responsabilidade de utentes e profissionais na preparação e execução de tais medidas, correspondendo, assim, às necessidades do indivíduo e às características de cada comunidade, dentro dos parâmetros da política de saúde definida pelo Governo Regional.
+A actividade do centro de saúde obedece a regras de gestão por objectivos, o que implica o planeamento das actividades a desenvolver, a nível do seu âmbito de actuação, bem como a participação conjugada, o envolvimento e a responsabilização de utentes e profissionais na preparação e execução de tais medidas, correspondendo, assim, às necessidades do indivíduo e às características de cada comunidade, dentro dos parâmetros da política de saúde definida pelo Governo Regional.
 
 ###### Artigo 3.º — (Exercício profissional)
 
@@ -879,7 +886,7 @@ d) As decorrentes de serviços prestados, licenças, multas e taxas sanitárias;
 
 e) Os rendimentos da exploração de quaisquer bens próprios ou de que tenha fruição;
 
-f) O produto da alimentação ou cedência de bens ou direitos do seu património;
+f) O produto da alienação ou cedência de bens ou direitos do seu património;
 
 g) Os bens de fundos capitalizados;
 
@@ -1105,7 +1112,7 @@ Até à inscrição de dotações orçamentais destinadas à cobertura financeir
 
 ###### Artigo 79.º — (integração de pessoal)
 
-1 - O pessoal que, à data da publicação deste diploma, exerce funções nos órgãos, serviços e estabelecimentos referidos no artigo 13.º é integrado nos quadros de pessoal do centro de saúde que cobre o concelho onde desenvolve a sua actividade, mediante listas nominativas aprovadas pelos Secretários Regionais dos Assuntos Sociais e da Administração Pública, com dispensa de quaisquer formalidades, salvaguardados os casos previstos no artigo 71.º do presente diploma, o visto ou anotação da Secção Regional do Tribunal de Contas e a publicação no Jornal Oficial da Região Autónoma da Madeira.
+1 - O pessoal que, à data da publicação deste diploma, exerce funções nos órgãos, serviços e estabelecimentos referidos no artigo 13.º é integrado nos quadros de pessoal do centro de saúde que cobre o concelho onde desenvolve a sua actividade, mediante listas nominativas aprovadas pelos Secretários Regionais dos Assuntos Sociais e da Administração Pública, com dispensa de quaisquer formalidades, salvaguardados os casos previstos no artigo 71.º do presente diploma, o visto ou anotação da Secção Regional do Tribunal de Contas e a publicação no Jornal Oficial da Região Autónoma dos Açores.
 
 2 - Nos casos em que for considerado adequado pode o pessoal referido no número anterior transitar para o quadro de outros estabelecimentos de saúde, nomeadamente dos hospitais da Região.
 
@@ -1121,7 +1128,7 @@ Enquanto não forem revistos e normalizados, manter-se-ão em vigor os impressos
 
 A Direcção Regional de Saúde elaborará e divulgará normas explicitando o estabelecido no presente diploma, no sentido de assegurar a sua fácil, completa e eficaz execução.
 
-## TÍTULO II — Comissões coordenadoras de ilhas
+## TÍTULO II — Comissões coordenadoras de ilha
 
 ###### Artigo 83.º — (Criação)
 

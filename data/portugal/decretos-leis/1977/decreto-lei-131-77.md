@@ -43,10 +43,11 @@ version_history:
     changes: []
   - date: '1980-11-18'
     amending: pt:dre:458234:por
-    amending_title: Decreto-Lei n.º 550/80
+    amending_title: Decreto-Lei n.º 550/80; Rectificação
     changes:
     - Altera Artigo 4.º
     - Altera Artigo 5.º
+    - Retifica Artigo 6
 identifiers:
   celex: null
   eli: null
@@ -73,7 +74,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:01:47Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 550/80. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-131-77.alteracoes.json'
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-131-77.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -219,9 +221,11 @@ A actualização dos QO da PSP, a que se refere o artigo 2.º do presente diplom
 
 49 subchefes.
 
-419 guardas.
+416 guardas.
 
 491
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-252044), publicado em 1977-05-19.
 
 ###### Artigo 7.º
 

@@ -111,6 +111,12 @@
      "title": "Despacho Normativo n.º 6/2016",
      "published": "2016-08-02",
      "dre_path": "/dr/detalhe/despacho-normativo/6-2016-75076033"
+    },
+    {
+     "id": "pt:dre:3697556:por",
+     "title": "Declaração de Rectificação n.º 913/2009",
+     "published": "2009-03-27",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/913-2009-3697556"
     }
    ],
    "changes": [
@@ -124,7 +130,8 @@
     "Altera Artigo 68.º",
     "Revoga Artigo 69.º",
     "Revoga Artigo 71.º",
-    "Revoga Artigo 72.º"
+    "Revoga Artigo 72.º",
+    "Retifica Artigo 52"
    ],
    "fragments": [
     "7f96b4b3d2dd85ab",
@@ -190,7 +197,7 @@
     "2e349f223df78b65",
     "8b7374bb638d1d44",
     "dfd1c304155dabea",
-    "d7480da4f352a109",
+    "04bf51f6147e9c36",
     "e20f65d168875e0e",
     "7be2591573320bf7",
     "4d626f85bb803282",
@@ -942,6 +949,16 @@
     "Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
    ],
    "markdown": "###### Artigo 7.º — Unidades orgânicas e serviços\n\n1 - O Instituto integra:\n\na) Unidades orgânicas de ensino e investigação, designadas Escolas;\n\nb) Serviços, cuja designação identifica as funções que desempenham.\n\n2 - São Escolas:\n\na) O Instituto Superior de Engenharia do Porto (ISEP);\n\nb) O Instituto Superior de Contabilidade e Administração do Porto (ISCAP);\n\nc) A Escola Superior de Educação (ESE);\n\nd) A Escola Superior de Música e Artes do Espetáculo (ESMAE);\n\ne) A Escola Superior de Hotelaria e Turismo (ESHT);\n\nf) A Escola Superior de Tecnologia e Gestão (ESTG);\n\ng) A Escola Superior de Saúde (ESS);\n\nh) A Escola Superior de Media Artes e Design (ESMAD).\n\n3 - As Escolas incluem ou podem criar subunidades, nomeadamente de investigação.\n\n4 - O Instituto pode:\n\na) Criar unidades transversais para reforçar a coesão interna e para racionalizar e potenciar os recursos humanos, materiais e tecnológicos, e formalizar e regulamentar a afectação desses recursos a mais de uma Escola;\n\nb) Criar outras unidades.\n\n5 - Os serviços são estruturas permanentes vocacionadas para o apoio técnico e administrativo às actividades do Instituto e das Escolas.\n\n> Alterado pelo/a [Despacho Normativo n.º 6/2016](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-2016-75076033), publicado em 2016-08-02."
+  },
+  "04bf51f6147e9c36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Eleição directa",
+   "in_force_from": "2016-08-03",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 913/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/913-2009-3697556), publicado em 2009-03-27."
+   ],
+   "markdown": "###### Artigo 52.º — Eleição directa\n\n1 - No caso de eleição directa do Presidente da Escola:\n\na) O procedimento eleitoral é iniciado por Despacho do Presidente da Escola, amplamente divulgado, com pelo menos sessenta dias úteis de antecedência relativamente à data de termo do mandato, definindo, nomeadamente, o calendário eleitoral e os locais de votação;\n\nb) Compete ao Professor Decano da Escola organizar e superintender o procedimento eleitoral;\n\nc) O não cumprimento dos prazos a que se refere a alínea a) constitui infracção disciplinar.\n\n2 - Os estatutos das Escolas disporão sobre os requisitos das candidaturas e os demais procedimentos eleitorais não previstos nos presentes Estatutos, designadamente:\n\na) Prazos de candidatura;\n\nb) Condições de subscrição das candidaturas;\n\nc) Tramitação em caso de não apresentação de candidaturas.\n\n3 - A votação é efectuada, separadamente, por cada um dos três corpos, a saber, docente e investigador, discente e pessoal não docente e não investigador.\n\n4 - Será eleito o candidato que obtiver um valor da média ponderada das percentagens de votação, calculada nos termos definidos no número seguinte, superior a cinquenta por cento.\n\n5 - O valor da média ponderada é calculado através da seguinte expressão:\n\nV = (14 D + 5 E + F) / 20\n\nsendo:\n\nV - média ponderada;\n\nD - percentagem obtida pelo candidato na votação do corpo docente e investigador;\n\nE - percentagem obtida pelo candidato na votação do corpo discente;\n\nF - percentagem obtida pelo candidato na votação do corpo do pessoal não docente e não investigador.\n\n6 - As percentagens D, E e F são apresentadas com três algarismos significativos, e para o apuramento das percentagens referidas no número anterior:\n\na) São contabilizados todos os votos, incluindo os brancos e nulos;\n\nb) Não são contabilizadas as abstenções.\n\n7 - Se nenhum candidato obtiver o valor mínimo previsto no n.º 4 do presente artigo, terá lugar uma segunda volta, no prazo máximo de cinco dias úteis contados a partir da data de apuramento dos resultados, sendo eleito o que obtiver maior média ponderada.\n\n8 - A segunda volta será disputada pelos dois candidatos mais votados ou pelo candidato único, se for o caso.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 913/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/913-2009-3697556), publicado em 2009-03-27."
   },
   "8dfa2ffe0e93e751": {
    "fragment_id": null,

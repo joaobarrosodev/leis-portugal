@@ -39,12 +39,19 @@
      "title": "Despacho Normativo n.º 14/2008",
      "published": "2008-03-03",
      "dre_path": "/dr/detalhe/despacho-normativo/14-2008-2437034"
+    },
+    {
+     "id": "pt:dre:2779911:por",
+     "title": "Rectificação n.º 1641/2006",
+     "published": "2006-11-06",
+     "dre_path": "/dr/detalhe/rectificacao/1641-2006-2779911"
     }
    ],
    "changes": [
     "Altera Artigo 6.º",
     "Altera Artigo 8.º",
-    "Altera Artigo ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)"
+    "Altera Artigo ANEXO — (a que se referem o n.º 1 do artigo 3.º e o n.º 1 do artigo 9.º)",
+    "Retifica Artigo 7"
    ],
    "fragments": [
     "a64bd3df3160ea59",
@@ -54,7 +61,7 @@
     "76bbf7c5d9cb8032",
     "d3366273996c17b8",
     "6d5a7f5cdce5e0ef",
-    "898b335511dff9f7",
+    "061563da5458ddf5",
     "8a343f25e57fe0d9",
     "9d22aa26a159a0e8",
     "7ae824998b83fa5b",
@@ -213,6 +220,16 @@
     "Alterado pelo/a [Despacho Normativo n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2008-2437034), publicado em 2008-03-03."
    ],
    "markdown": "###### Artigo 6.º — Requisitos para o reconhecimento\n\n1 - O reconhecimento dos lagares e das unidades de transformação de azeitona de mesa depende da verificação das seguintes condições:\n\na) Encontrarem-se devidamente licenciados;\n\nb) Disporem de um sistema de contabilidade de matéria ligado à contabilidade financeira que permita assegurar o registo das quantidades entradas, laboradas e saídas.\n\n2 - Para efeitos do respectivo reconhecimento, os lagares devem fazer prova, mediante declaração a apresentar ao Instituto de Financiamento da Agricultura e Pescas, I.P. (IFAP), de que é assegurada a realização, por laboratório acreditado ou externo ao lagar, da análise do teor em gordura e do grau de acidez das entregas individuais de azeitona ou do azeite obtido a partir das entregas de azeitona efectuadas por um ou vários olivicultores.\n\n3 - Para efeitos do respectivo reconhecimento, as unidades de transformação de azeitona de mesa devem fazer prova, mediante declaração a apresentar ao INGA, de que é assegurada a realização de testes de calibragem, tendo em vista a diferenciação de qualidade da azeitona.\n\n4 - Para a campanha 2007-2008, caso as análises sejam efectuadas em laboratório diferente do já declarado ao IFAP nos termos do n.º 2, devem os lagares rectificar essa informação até 15 de Março de 2008.\n\n5 - Para efeitos do disposto no n.º 2, a análise ao lote de azeite obtido a partir de entregas de azeitona por vários olivicultores só pode ser efectuada desde que haja acordo escrito entre estes, devendo o lagar assegurar um registo que comprove a correspondência entre o lote de azeite analisado e as entregas individuais que lhe deram origem.\n\n> Alterado pelo/a [Despacho Normativo n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2008-2437034), publicado em 2008-03-03."
+  },
+  "061563da5458ddf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Comunicações",
+   "in_force_from": "2008-03-03",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação n.º 1641/2006](https://diariodarepublica.pt/dr/detalhe/rectificacao/1641-2006-2779911), publicado em 2006-11-06."
+   ],
+   "markdown": "###### Artigo 7.º — Comunicações\n\n1 - Os lagares e as unidades de transformação de azeitona de mesa reconhecidos comunicam ao INGA, até ao dia 10 do mês seguinte a que respeitam, os movimentos relativos ao registo das quantidades entradas, laboradas e saídas e ficam sujeitos ao sistema de controlo a adoptar nos termos do artigo 11.º do presente despacho.\n\n2 - O INGA comunica ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA), até ao dia 10 do 2.º mês seguinte a que se respeitam, os elementos previstos no n.º 1 do presente artigo.\n\n> Retificado pelo/a [Rectificação n.º 1641/2006](https://diariodarepublica.pt/dr/detalhe/rectificacao/1641-2006-2779911), publicado em 2006-11-06."
   },
   "8a343f25e57fe0d9": {
    "fragment_id": null,

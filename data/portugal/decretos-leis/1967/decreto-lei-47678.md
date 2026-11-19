@@ -45,7 +45,7 @@ version_history:
     changes: []
   - date: '1974-09-07'
     amending: pt:dre:200812:por
-    amending_title: Decreto-Lei n.º 49054; Decreto-Lei n.º 419/74
+    amending_title: Decreto-Lei n.º 49054; Decreto-Lei n.º 419/74; Rectificação
     changes:
     - Altera Artigo 9.º
     - Altera Artigo 12.º
@@ -86,6 +86,7 @@ version_history:
     - Altera Artigo 31.º
     - Altera Artigo 32.º
     - Altera Artigo 33.º
+    - Retifica Artigo 119
 identifiers:
   celex: null
   eli: null
@@ -112,7 +113,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:01:01Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49054; Decreto-Lei
-    n.º 419/74. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47678.alteracoes.json'
+    n.º 419/74. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47678.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1279,7 +1281,9 @@ Exceptuam-se do disposto neste número os assentos lavrados com base em acto do 
 
 ###### Artigo 119.º — (Prazo e lugar)
 
-O nascimento ocorrido em território português deve ser declarado verbalmente, dentro dos trinta dias imediatos, na conservatória ou no posto do registo civil da área do sucessivamente, às seguintes pessoas:
+O nascimento ocorrido em território português deve ser declarado verbalmente, dentro dos trinta dias imediatos, na conservatória ou no posto do registo civil da área do respectivo lugar.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1967-312670), publicado em 1967-05-30.
 
 ###### Artigo 120.º — (A quem compete)
 
@@ -3429,7 +3433,7 @@ c) Para fins de interesse público, quando requeridas pela autoridade competente
 
 d) Para trocas internacionais ou fins estatísticos do estado civil;
 
-e) Para instrução de processos por acidentes de trabalho, quando requisitados pelos tribunais, pelos sinistrados ou seus familiares;
+e) Para instrução de processos por acidentes de trabalho, quando requisitadas pelos tribunais, pelos sinistrados ou seus familiares;
 
 f) Para quaisquer outros fins, quando, por lei especial, sejam declaradas isentas.
 
@@ -3453,7 +3457,7 @@ a) Certidão extraída do recenseamento paroquial, emitida pela junta de fregues
 
 b) Atestado passado pela mesma entidade ou pelos respectivos regedores ou párocos, na falta de recenseamento actualizado, no qual se especifiquem as condições económicas em que vivem os interessados;
 
-c) Por atestados passados pelos serviços competentes do Ministério da Saúde e Assistência relativamente a indivíduos internados em estabelecimentos dependentes deste Ministério ou sob protecção das suas instituições.
+c) Por atestado passado pelos serviços competentes do Ministério da Saúde e Assistência relativamente a indivíduos internados em estabelecimentos dependentes deste Ministério ou sob protecção das suas instituições.
 
 2. Ao conservador do registo civil compete determinar, em face dos elementos constantes do atestado previsto na alínea b) do número anterior, a categoria económica em que deve ser enquadrado o interessado.
 

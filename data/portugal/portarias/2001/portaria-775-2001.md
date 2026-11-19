@@ -53,9 +53,10 @@ version_history:
     changes: []
   - date: '2002-02-09'
     amending: pt:dre:276473:por
-    amending_title: Portaria n.º 109/2002
+    amending_title: Portaria n.º 109/2002; Declaração de Rectificação n.º 14-F/2001
     changes:
     - Adita Artigo depois da unidade 12
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/775/2001/07/21/p/dre/pt/html
@@ -82,7 +83,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:34:27Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 109/2002. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-775-2001.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-775-2001.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 14-F/2001.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,7 +138,9 @@ Assim, ao abrigo do disposto nos artigos 3.º, 84.º e 86.º a 102.º do [Decret
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
 
-1.º Na época venatória de 2001-2002 é permitida a caça às seguintes espécies cinegéticas: rola-comum, patos (pato-real, marrequinha, frisada, pato-trombeteiro, zarro-comum, zarro-negrinha, arrabio, piadeira e marreco), galeirão, galinha-d'água, pombos (torcaz-da-rocha e torcaz-bravo), codorniz, tarambola-dourada, galinhola, narcejas (comum e galega), tordos (tordeia, tordo-comum, tordo-ruivo e tordo-zornal), estorninho-malhado, perdiz-vermelha, faisão, coelho-bravo, lebre, raposa, saca-rabos, javali, gamo, veado, corço e muflão.
+1.º Na época venatória de 2001-2002 é permitida a caça às seguintes espécies cinegéticas: rola-comum, patos (pato-real, marrequinha, frisada, pato-trombeteiro, zarro-comum, zarro-negrinha, arrabio, piadeira e marreco), galeirão, galinha-d'água, pombos (torcaz, da rocha e bravo), codorniz, tarambola-dourada, galinhola, narcejas (comum e galega), tordos (tordeia, tordo-comum, tordo-ruivo e tordo-zornal), estorninho-malhado, perdiz-vermelha, faisão, coelho-bravo, lebre, raposa, saca-rabos, javali, gamo, veado, corço e muflão.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 14-F/2001](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-f-2001-684805), publicado em 2001-07-31.
 
 2.º Os processos de caça às espécies cinegéticas indicadas no número anterior são os permitidos nos artigos 86.º e 88.º a 102.º do [Decreto-Lei n.º 227-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644), de 15 de Setembro, para cada espécie e consoante se trate de terrenos ordenados ou não.
 

@@ -54,9 +54,10 @@ version_history:
     changes: []
   - date: '1993-09-19'
     amending: pt:dre:660311:por
-    amending_title: Portaria n.º 871/93
+    amending_title: Portaria n.º 871/93; Declaração de Rectificação n.º 12/93
     changes:
     - Altera Artigo unidades 8-10
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/58/1993/01/13/p/dre/pt/html
@@ -83,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:59:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 871/93. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-58-93.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-58-93.alteracoes.json. Retificações aplicadas
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 12/93.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,9 +208,11 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 5.º A gestão financeira do Fundo Especial da Segurança Social dos Profissionais de Espectáculos compete ao Instituto de Gestão Financeira da Segurança Social, nos termos do artigo 19.º do respectivo Regulamento constante da [Portaria n.º 770/83](https://diariodarepublica.pt/dr/detalhe/portaria/770-1983-453801), publicado no Diário da República, 1.ª série, n.º 165, de 20 de Julho de 1983.
 
-6.º A gestão administrativa do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, prevista nos termos do artigo 44.º do respectivo Regulamento constante da [Portaria n.º 140/92](https://diariodarepublica.pt/dr/detalhe/portaria/140-1992-168420), publicado no Diário da República, 1.ª série, n.º 53, de 4 de Março de 1992, transita para a competência do Instituto de Gestão Financeira da Segurança Social a partir da data referida no n.º 1.º da presente portaria.
+6.º A gestão financeira do Fundo Especial de Segurança Social dos Profissionais de Banca dos Casinos, prevista nos termos do artigo 44.º do respectivo Regulamento constante da [Portaria n.º 140/92](https://diariodarepublica.pt/dr/detalhe/portaria/140-1992-168420), publicado no Diário da República, 1.ª série, n.º 53, de 4 de Março de 1992, transita para a competência do Instituto de Gestão Financeira da Segurança Social a partir da data referida no n.º 1.º da presente portaria.
 
-7.º A gestão financeira das prestações dos fundos especiais a que se referem as normas anteriores deste diploma passará para os competentes centros regionais de segurança social.
+> Retificado pelo/a [Declaração de Rectificação n.º 12/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/12-1993-580653), publicado em 1993-01-30.
+
+7.º A gestão administrativa das prestações dos fundos especiais a que se referem as normas anteriores deste diploma passará para as competentes instituições de segurança social.
 
 8.º O disposto nos números anteriores não prejudica a eventual privatização dos fundos especiais, ao abrigo do artigo 120.º do Código das Associações Mutualistas, aprovado pelo [Decreto-Lei n.º 72/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1990-332432), de 3 de Março, caso em que a gestão incumbirá às instituições que para o efeito forem designadas.
 

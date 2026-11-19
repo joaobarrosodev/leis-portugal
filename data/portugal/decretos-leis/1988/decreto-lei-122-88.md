@@ -53,9 +53,11 @@ version_history:
     changes: []
   - date: '2011-01-01'
     amending: pt:dre:647731:por
-    amending_title: Decreto-Lei n.º 233/91; Lei n.º 55-A/2010
+    amending_title: Decreto-Lei n.º 233/91; Lei n.º 55-A/2010; Declaração
     changes:
     - Adita Artigo 8.º
+    - Retifica texto
+    - Retifica Artigo 14
 identifiers:
   celex: null
   eli: null
@@ -82,7 +84,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:24:17Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 233/91; Lei n.º 55-A/2010.
-    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-122-88.alteracoes.json'
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-122-88.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -284,9 +287,11 @@ validation:
 
 de 20 de Abril
 
-Procedendo autorização legislativa outorgada pelo artigo 34.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, publica-se o presente diploma, que introduz algumas modificações em matéria de imposto sobre o valor acrescentado (IVA), através de alterações do respectivo Código e legislação complementar.
+Precedendo autorização legislativa outorgada pelo artigo 34.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, publica-se o presente diploma, que introduz algumas modificações em matéria de imposto sobre o valor acrescentado (IVA), através de alterações do respectivo Código e legislação complementar.
 
-De um modo geral, tais alterações visam, sobretudo, melhorar o funcionamento do IVA e as relações entre a Administração e os respectivos sujeitos passivos, quer procurando faciliar a estes o cumprimento das suas obrigações, quer proporcionando uma mais correcta gestão e administração do imposto, em ordem a um mais eficaz combate à evasão e fraude fiscais.
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1988-222406), publicado em 1988-05-31.
+
+De um modo geral, tais alterações visam, sobretudo, melhorar o funcionamento do IVA e as relações entre a Administração e os respectivos sujeitos passivos, quer procurando facilitar a estes o cumprimento das suas obrigações, quer proporcionando uma mais correcta gestão e administração do imposto, em ordem a um mais eficaz combate à evasão e fraude fiscais.
 
 Na primeira linha, inserem-se normativos que elevam os limites de volumes de negócios e de compras que condicionam o enquadramento dos sujeitos passivos nos diversos regimes previstos no Código, tendo por objectivo último reduzir o número dos enquadrados no regime normal mensal, que é o mais exigente, quanto ao cumprimento de obrigações, para os contribuintes e o mais pesado para o Serviço do IVA, em termos de tratamento das declarações periódicas, com naturais reflexos nas suas relações com aqueles.
 
@@ -384,7 +389,7 @@ Art. 50.º - 1 - ...
 
 ...
 
-7 - Os livros a que se referem o artigo 349.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola substituirão os livros referidos no presente artigo.
+7 - Os livros a que se refere o artigo 349.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola substituirão os livros referidos no presente artigo.
 
 Art. 58.º - 1 - ...
 
@@ -400,7 +405,7 @@ d) Até final do mês seguinte àquele em que os contribuintes de imposto profis
 
 e) No prazo de quinze dias a contar do momento em que deixe de verificar-se qualquer das demais circunstâncias referidas no n.º 1 do artigo 53.º
 
-3 - Os sujeitos passivos referidos na presente subsecção, mas não abrangidos pelo número anterior, desde que verificadas as condições previstas nas alíneas a), b), c), d) e e) do mesmo número, apresentarão, no mesmo prazo, a declaração de alterações referida no artigo 31.º
+3 - Os sujeitos passivos referidos na presente subsecção, mas não abrangidos pelo número anterior, desde que verificadas as condições previstas nas alíneas a), b), c), d) ou e) do mesmo número, apresentarão, no mesmo prazo, a declaração de alterações referida no artigo 31.º
 
 4 - ...
 
@@ -452,7 +457,7 @@ Art. 87.º - 1 - ...
 
 ...
 
-3 - Quando, nos casos previstos nos artigos 82.º e 83.º-A e no presente artigo, o Serviço de Administração do IVA disponha de todos os elementos necessários ao apuramento do imposto, procederá à notificação dos sujeitos passivos por carta registada com aviso de recepção, comunicando o facto ao chefe da repartição de finanças competente, que efectivará as restantes operações preliminares da cobrança.
+3 - Quando, nos casos previstos no artigo 82.º e no presente artigo, o Serviço de Administração do IVA disponha de todos os elementos necessários ao apuramento do imposto, procederá à notificação dos sujeitos passivos por carta registada com aviso de recepção, comunicando o facto ao chefe da repartição de finanças competente, que efectivará as restantes operações preliminares da cobrança.
 
 Art. 2.º São eliminadas a alínea a) do n.º 16 do artigo 9.º e a alínea c) do n.º 2 do artigo 21.º do CIVA.
 
@@ -484,7 +489,7 @@ Exceptuam-se o material de jogos reconhecidos como desportivos e o de jogos com 
 
 Art. 7.º A verba 3.13 da lista II anexa ao CIVA passa a ter a seguinte redacção:
 
-3.13 - Espectáculos, manifestações desportivas e outros divertimentos públicos, com excepção dos referidos na verba 3.13-A da lista III.
+3.13 - Espectáculos, manifestações desportivas e outros divertimentos públicos, com excepção dos referidos na verba 13-A da lista III.
 
 Exceptuam-se os espectáculos e divertimentos de carácter pornográfico ou obsceno, como tal considerados na legislação sobre a matéria.
 
@@ -496,7 +501,7 @@ Art. 9.º - 1 - O IVA correspondente às vendas de peixe, crustáceos e moluscos
 
 3 - O valor das operações a que se refere o presente artigo não será tomado em consideração para efeitos de aplicação aos pescadores e armadores do disposto nos artigos 40.º, 53.º, 60.º e 73.º do CIVA.
 
-Art. 10.º - 1 - As empresas que o requeiram ao Ministro das Finanças poderão entregar o IVA correspondente ao preço de venda ao público dos seus produtos, em substituição dos respectivos revendedores directos, desde que respeitem as seguintes condições:
+Art. 10.º - 1 - As empresas que o requeiram ao Ministro das Finanças poderão entregar todo o IVA correspondente ao preço de venda ao público dos seus produtos, em substituição dos respectivos revendedores directos, desde que respeitem as seguintes condições:
 
 a) A totalidade do seu volume de negócios derive de vendas ao domicílio por revendedores agindo em nome e por conta própria;
 

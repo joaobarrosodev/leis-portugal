@@ -73,11 +73,18 @@
      "title": "Decreto-Lei n.º 49356",
      "published": "1969-11-05",
      "dre_path": "/dr/detalhe/decreto-lei/49356-1969-215157"
+    },
+    {
+     "id": "pt:dre:575948:por",
+     "title": "Rectificação",
+     "published": "1964-05-13",
+     "dre_path": "/dr/detalhe/rectificacao/1964-575948"
     }
    ],
    "changes": [
     "Altera Artigo 99.º",
-    "Altera Artigo 143.º"
+    "Altera Artigo 143.º",
+    "Retifica Artigo 56"
    ],
    "fragments": [
     "bbcbe2686fb70c89",
@@ -149,7 +156,7 @@
     "fb368c8a85d64471",
     "e9e1c95de0474352",
     "16c63e1b96f3e4d3",
-    "a3b5dd4baedc92fa",
+    "68416784f2bacc97",
     "e9842d2283af77ba",
     "4c6bda1522a2aa44",
     "c002beb8270d7a61",
@@ -1233,13 +1240,15 @@
    "changed_by": [],
    "markdown": "##### SUBSECÇÃO I — Dos serviços auxiliares de diagnóstico e terapêutica"
   },
-  "a3b5dd4baedc92fa": {
+  "68416784f2bacc97": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 56.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 56.º\n\nComo serviços auxiliares de diagnóstico e terapêutica funcionarão, entre outros, os seguintes:\n\na) Laboratório de análises clínicas;\n\nb) Serviço de anatomia patológica;\n\nc) Serviços de radiologia e radioterapia;\n\nd) Serviços de fisioterapia e recuperação;\n\ne) Laboratório de biofísica e radioisótopos;\n\nf) Serviço de transfusão de sangue;\n\ng) Laboratório de análises hormonais."
+   "in_force_from": "1969-11-05",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1964-575948), publicado em 1964-05-13."
+   ],
+   "markdown": "###### Artigo 56.º\n\nComo serviços auxiliares de diagnóstico e terapêutica funcionarão, entre outros, os seguintes:\n\na) Laboratório de análises clínicas;\n\nb) Serviço de anatomia patológica;\n\nc) Serviços de radiologia e radioterapia;\n\nd) Serviços de fisioterapia e recuperação;\n\ne) Laboratório de biofísica e radioisótopos;\n\nf) Serviço de hemoterapia e reanimação;\n\ng) Laboratório de análises hormonais.\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1964-575948), publicado em 1964-05-13."
   },
   "e9842d2283af77ba": {
    "fragment_id": null,

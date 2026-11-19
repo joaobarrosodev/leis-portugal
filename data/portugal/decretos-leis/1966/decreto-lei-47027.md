@@ -43,9 +43,10 @@ version_history:
     changes: []
   - date: '1967-04-10'
     amending: pt:dre:509671:por
-    amending_title: Decreto-Lei n.º 47628
+    amending_title: Decreto-Lei n.º 47628; Rectificação
     changes:
     - Altera Artigo 8.º
+    - Retifica Artigo 1
 identifiers:
   celex: null
   eli: null
@@ -72,7 +73,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:57:15Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47628. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-47027.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-47027.alteracoes.json. Retificações
+    aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,9 +132,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ###### Artigo 1.º
 
-São amnistiados os crimes previstos e punidos pelas seguintes disposições do Código de Justiça Militar: n.º 4.º do artigo 91.º, n.º 2.º do artigo 97.º, n.º 2.º do artigo 98.º, n.os 2.º e 3.º do artigo 99.º, artigo 100.º, n.º 2.º do artigo 101.º, n.º 3.º do artigo 104.º, artigos 111.º, 112.º, 115.º e 116.º, n.º 3.º do artigo 142.º, n.º 4.º do artigo 143.º, n.º 4.º do artigo 144.º, n.º 3.º do artigo 146.º, n.º 4.º do artigo 147.º, n.º 3.º do artigo 148.º, § 1.º do artigo 149.º, n.os 2.º e 3.º do artigo 157.º, artigos 158.º e 160.º, § 1.º com referência á primeira parte do n.º 1.º do artigo 170.º, artigo 182.º, n.º 2.º do artigo 183.º, n.º 2.º com referência à segunda parte do corpo do artigo 184.º, artigos 186.º a 189.º, n.º 2.º do artigo 193.º, § único do artigo 195.º, § 1.º do artigo 211.º, § único do artigo 213.º, § 1.º do artigo 216.º, n.º 2.º do artigo 217.º e ainda os dos artigos 218.º, 226.º, 228.º e 229.º, quando o valor não exceda 2000$00 ou quando o agente tenha reparado totalmente o prejuízo causado, não sendo este superior a 10000$00.
+São amnistiados os crimes previstos e punidos pelas seguintes disposições do Código de Justiça Militar: n.º 4.º do artigo 91.º, n.º 2.º do artigo 97.º, n.º 2.º do artigo 98.º, n.os 2.º e 3.º do artigo 99.º, artigo 100.º, n.º 2.º do artigo 101.º, n.º 3.º do artigo 104.º, artigos 111.º, 112.º, 115.º e 116.º, n.º 3.º do artigo 142.º, n.º 4.º do artigo 143.º, n.º 4.º do artigo 144.º, n.º 3.º do artigo 146.º, n.º 4.º do artigo 147.º, n.º 3.º do artigo 148.º, § 1.º do artigo 149.º, n.os 2.º e 3.º do artigo 157.º, artigos 158.º e 160.º, artigo 163.º com referência quer à 1.ª parte do n.º 1.º do artigo 170.º, quer ao § 1.º deste artigo 170.º, artigo 182.º, n.º 2.º do artigo 183.º, n.º 2.º com referência à segunda parte do corpo do artigo 184.º, artigos 186.º a 189.º, n.º 2.º do artigo 193.º, § único do artigo 195.º, § 1.º do artigo 211.º, § único do artigo 213.º, § 1.º do artigo 216.º, n.º 2.º do artigo 217.º e ainda os dos artigos 218.º, 226.º, 228.º e 229.º, quando o valor não exceda 2000$00 ou quando o agente tenha reparado totalmente o prejuízo causado, não sendo este superior a 10000$00.
 
 § único. A amnistia do crime de deserção depende da apresentação voluntária do desertor até ao fim do ano corrente.
+
+> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1966-472541), publicado em 1966-06-18.
 
 ###### Artigo 2.º
 

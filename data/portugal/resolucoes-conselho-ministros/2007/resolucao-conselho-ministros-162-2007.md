@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '2012-02-14'
     amending: pt:dre:543032:por
-    amending_title: Resolução do Conselho de Ministros n.º 17/2012
+    amending_title: Resolução do Conselho de Ministros n.º 17/2012; Declaração de Rectificação n.º 109/2007
     changes:
     - Altera Artigo unidades 9-9
     - Altera Artigo unidades 11-11
@@ -64,6 +64,7 @@ version_history:
     - Altera Artigo unidades 35-35
     - Altera Artigo unidades 36-36
     - Adita Artigo depois da unidade 38
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/162/2007/10/12/p/dre/pt/html
@@ -90,7 +91,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:54:45Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
-    n.º 17/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2007/resolucao-conselho-ministros-162-2007.alteracoes.json'
+    n.º 17/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2007/resolucao-conselho-ministros-162-2007.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 109/2007.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -198,7 +201,9 @@ Ao abrigo do disposto no artigo 28.º da Lei n.º 4/2004, de 15 de Janeiro, na r
 
 9 - Determinar que, após a aprovação dos referidos programas operacionais pela Comissão Europeia, as comissões directivas são responsáveis por assegurar a gestão e a qualidade da execução dos respectivos programas operacionais, de acordo com os princípios de boa gestão financeira, desempenhando as competências que vierem a ser definidas em legislação específica.
 
-10 - Determinar que a comissão directiva do PO Temático Factores de Competitividade assegura a articulação com as comissões directivas dos programas operacionais regionais visando a eficácia na gestão coordenada dos sistemas de incentivos ao investimento empresarial apoiados pelo Fundo Social Europeu de Desenvolvimento Regional, prevista no Decreto-Lei n.º 312/2007, de 17 de Setembro, no Decreto-Lei n.º 287/2007, de 17 de Agosto, e em regulamentação específica dos sistemas de incentivos.
+10 - Determinar que a comissão directiva do PO Temático Factores de Competitividade assegura a articulação com as comissões directivas dos programas operacionais regionais visando a eficácia na gestão coordenada dos sistemas de incentivos ao investimento empresarial apoiados pelo Fundo Europeu de Desenvolvimento Regional, prevista no Decreto-Lei n.º 312/2007, de 17 de Setembro, no Decreto-Lei n.º 287/2007, de 17 de Agosto, e em regulamentação específica dos sistemas de incentivos.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 109/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-2007-628791), publicado em 2007-12-11.
 
 11 - Determinar que o regime remuneratório dos membros das comissões directivas referidos nos n.os 2, 4 e 6 obedece às seguintes características:
 
@@ -220,7 +225,7 @@ d) Aos presidentes das comissões diretivas referidas nas alíneas anteriores ap
 
 > Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2012-543032), publicado em 2012-02-14.
 
-12 - Determinar que as funções de membro de comissão directiva são exercidas em regime de exclusividade, sem prejuízo da possibilidade do desempenho de actividades que se relacionem com o encerramento de programas operacionais do actual QCA III ou de actividades que, pela sua conexão, sejam consideradas essenciais à boa realização das medidas de apoio inscritas nos respectivos programas operacionais do QREN, salvaguardando eventuais conflitos de interesse.
+12 - Determinar que as funções de membro de comissão directiva são exercidas em regime de exclusividade, sem prejuízo da possibilidade do desempenho de actividades que se relacionem com o encerramento de programas operacionais ou de iniciativas comunitárias do actual QCA III ou de actividades que, pela sua conexão, sejam consideradas essenciais à boa realização das medidas de apoio inscritas nos respectivos programas operacionais do QREN, salvaguardando eventuais conflitos de interesse.
 
 13 - Determinar que o exercício de funções em acumulação, nos termos referidos no número anterior, é autorizado pelo membro do Governo coordenador do respectivo PO, não podendo, em situação alguma, envolver o pagamento de qualquer remuneração adicional.
 

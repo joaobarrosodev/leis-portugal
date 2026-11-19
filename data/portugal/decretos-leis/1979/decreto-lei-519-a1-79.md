@@ -54,7 +54,7 @@ version_history:
     changes: []
   - date: '2004-12-23'
     amending: pt:dre:218365:por
-    amending_title: Decreto-Lei n.º 237/2004
+    amending_title: Decreto-Lei n.º 237/2004; Declaração
     changes:
     - Revoga Artigo 1.º
     - Revoga Artigo 2.º
@@ -122,7 +122,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:24:56Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 237/2004. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-519-a1-79.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-519-a1-79.alteracoes.json.
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -647,7 +648,7 @@ b) O serviço de liquidação da taxa de relaxe prevista no artigo 31.º do Cód
 
 c) A assinatura dos títulos de cobrança, que pode ser delegada no tesoureiro subgerente, no tesoureiro-adjunto ou no tesoureiro-ajudante, nos termos definidos no artigo 55.º deste diploma, consoante os casos;
 
-d) Extracção e assinatura das certidões de relaxe de todos os títulos de cobrança que não forem pagos nos prazos legais, promovendo a sua entrega, juntamente com a respectiva relação, em duplicado, dentro dos prazos regulamentares, de que cobrará recibo. A assinatura das certidões de relaxe, que poderá ser feita de chancela, e a da respectiva relação serão autenticadas com o selo branco da tesouraria ou, na sua falta, com o carimbo privativo desta;
+d) A extracção e assinatura das certidões de relaxe de todos os títulos de cobrança que não forem pagos nos prazos legais, promovendo a sua entrega, juntamente com a respectiva relação, em duplicado, dentro dos prazos regulamentares, de que cobrará recibo. A assinatura das certidões de relaxe, que poderá ser feita de chancela, e a da respectiva relação serão autenticadas com o selo branco da tesouraria ou, na sua falta, com o carimbo privativo desta;
 
 e) O serviço de taxa militar;
 
@@ -692,6 +693,8 @@ e) Conferir posse aos funcionários da respectiva tesouraria, nos termos previst
 f) Dar imediato conhecimento à Direcção-Geral do Tesouro, através do seu superior hierárquico, das vagas que ocorrerem no quadro do pessoal contingentado à respectiva tesouraria;
 
 V) Quaisquer outras funções que lhe sejam cometidas por lei.
+
+> Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-681420), publicado em 1980-04-22.
 
 ###### Artigo 52.º — (Delegação de competência)
 
@@ -811,9 +814,9 @@ d) Um exemplar dos termos de apuramento de valores, previstos no artigo 75.º de
 
 2 - Sempre que, durante cada período de serviço de caixa, o funcionário nele investido se ausentar da tesouraria, excepto no período de encerramento para almoço, o tesoureiro gerente deverá proceder, de imediato, ao apuramento dos valores movimentados por esse funcionário na respectiva caixa, acompanhado de duas testemunhas, sempre que possível.
 
-3 - Caso o apuramento dos valores referidos nos números anteriores revele estarem certas as contas, deverá o tesoureiro gerente conferir-lhe quitação, mediante termo de responsabilidade, assinado por si e pelas testemunhas devidamente identificadas, independentemente do procedimento disciplinar a que haja lugar.
+3 - Caso o apuramento dos valores referidos no número anterior revele estarem certas as contas, deverá o tesoureiro gerente conferir-lhe quitação, mediante termo de responsabilidade, assinado por si e pelas testemunhas devidamente identificadas, independentemente do procedimento disciplinar a que haja lugar.
 
-4 - Caso o apuramento de valores referidos nos números anteriores revele a existência de diferenças para menos, deverá o tesoureiro gerente, ou quem suas vezes fizer:
+4 - Caso o apuramento de valores referido nos números anteriores revele a existência de diferenças para menos, deverá o tesoureiro gerente, ou quem suas vezes fizer:
 
 a) Avisar de imediato, ou no primeiro dia útil seguinte à ocorrência, se não for possível no próprio dia, por escrito, através de carta registada com aviso de recepção, remetida ao domicílio legal do funcionário ausente do serviço, para entrar, no respectivo cofre, acto contínuo, com as importâncias em dívida;
 
@@ -825,7 +828,7 @@ b) Levantar os autos de ocorrência, previstos no artigo 67.º do presente decre
 
 7 - Durante o período de serviço de caixa, exceptuada a situação prevista nos n.os 2 a 6, é vedado a qualquer outro funcionário em serviço na respectiva tesouraria o acesso à caixa e à movimentação dos valores a ela inerentes, excepto se lhe for solicitado, acarretando sempre para o funcionário em falta a responsabilidade financeira, criminal e disciplinar que ao caso couber.
 
-8 - Caso o apuramento dos valores referidos nos números anteriores revele diferença para mais, aplica-se o disposto nos n.os 5 e 6 do artigo 66.º deste decreto-lei.
+8 - Caso o apuramento dos valores referido nos números anteriores revele diferença para mais, aplica-se o disposto nos n.os 5 e 6 do artigo 66.º deste decreto-lei.
 
 ###### Artigo 66.º — (Responsabilidades dos funcionários encarregados do serviço de caixa)
 
@@ -937,7 +940,7 @@ d) Se a análise dos termos de apuramento de contas diárias permitir determinar
 
 ###### Artigo 77.º — (Dos montantes dos alcances não garantidos pelo Fundo de Cauções)
 
-1 - Os montantes cujos alcances não atingem os limites previstos no artigo anterior são garantidos pelo abono para falhas e pelo limite mensal a que os seus autores materiais tenham direito nas participações no prémio de cobrança.
+1 - Os alcances cujos montantes não atingem os limites previstos no artigo anterior são garantidos pelo abono para falhas e pelo limite mensal a que os seus autores materiais tenham direito nas participações no prémio de cobrança.
 
 2 - Para os efeitos previstos no número anterior, ficam os respectivos serviços processadores autorizados a reter o abono para falhas e o prémio de cobrança até à satisfação integral do alcance, uma vez recebido o auto de ocorrência previsto no artigo 67.º do presente decreto-lei.
 
