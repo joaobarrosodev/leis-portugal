@@ -1,0 +1,34 @@
+{
+ "juizes": [
+  "a",
+  "b",
+  "c",
+  "s"
+ ],
+ "por_tipo": {
+  "composta": {
+   "n": 70,
+   "respondidas": 57,
+   "certas_brando": 40,
+   "certas": 54,
+   "incompletas": 2,
+   "erradas": 1,
+   "sem_fundamento": 1,
+   "discordam": 3,
+   "sem_julgamento": 0,
+   "ids_nao_certos": [
+    "cmp-064",
+    "cmp-085",
+    "cmp-097"
+   ]
+  },
+  "total": {
+   "n": 70,
+   "respondidas": 57,
+   "certas_brando": 40,
+   "certas": 54,
+   "fiabilidade": 0.947,
+   "limite_inferior_95": 0.856
+  }
+ }
+}

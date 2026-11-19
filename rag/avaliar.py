@@ -219,6 +219,10 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--indice", type=Path)
     parser.add_argument("--reranker", choices=("cruzado", "denso"), help="Reordena os candidatos com um modelo multilingue (extra `rag`).")
     parser.add_argument("--maximo", type=int, default=30, help="Quantos candidatos o reranker lê.")
+    parser.add_argument(
+        "--estavel", action="store_true",
+        help="O reranker pontua cada texto sozinho: a nota deixa de depender dos outros textos do lote (rag.modelos.Reranker).",
+    )
     parser.add_argument("--candidatos", type=int, default=100, help="Candidatos de cada BM25.")
     parser.add_argument("--limiar", type=float, help="'Não sei' quando o reranker dá ao melhor artigo menos do que isto.")
     parser.add_argument(
@@ -245,7 +249,7 @@ def main(argv: list[str] | None = None) -> int:
     if args.reranker:
         from rag.modelos import Reranker
 
-        reranker = Reranker(args.reranker, maximo=args.maximo)
+        reranker = Reranker(args.reranker, maximo=args.maximo, estavel=args.estavel)
     semantica = None
     if args.semantica:
         from rag.semantica import Semantica
@@ -267,7 +271,8 @@ def main(argv: list[str] | None = None) -> int:
 
     configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm, "reescrita": usar_reescrita,
                     **({"reranker_com_perguntas": True} if args.reranker_com_perguntas else {}),
-                    **({"semantica": True} if args.semantica else {}), **({"maximo": args.maximo} if args.maximo != 30 else {})}
+                    **({"semantica": True} if args.semantica else {}), **({"maximo": args.maximo} if args.maximo != 30 else {}),
+                    **({"estavel": True} if args.estavel else {})}
     parcial = RESULTADOS / "privado" / f"{args.nome}-parcial.jsonl"
     cabecalho = {"configuracao": configuracao, "indice": str(args.indice) if args.indice else None,
                  "maximo": args.maximo, "candidatos": args.candidatos, "ids": [p["id"] for p in perguntas]}

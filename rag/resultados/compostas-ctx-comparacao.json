@@ -1,0 +1,58 @@
+{
+ "composta": {
+  "n": 100,
+  "ctx8": {
+   "certa": 72,
+   "nao_certa": 5,
+   "nao_sei": 23
+  },
+  "ctx16": {
+   "certa": 79,
+   "nao_certa": 5,
+   "nao_sei": 16
+  },
+  "ganhos": 7,
+  "perdas": 0,
+  "mudancas": {
+   "nao_sei -> certa": 6,
+   "nao_certa -> certa": 1,
+   "nao_sei -> nao_certa": 2,
+   "nao_certa -> nao_sei": 1
+  }
+ },
+ "premissa_errada": {
+  "n": 50,
+  "ctx8": {
+   "certa": 45,
+   "nao_sei": 4,
+   "nao_certa": 1
+  },
+  "ctx16": {
+   "certa": 46,
+   "nao_certa": 2,
+   "nao_sei": 2
+  },
+  "ganhos": 1,
+  "perdas": 0,
+  "mudancas": {
+   "nao_sei -> certa": 1,
+   "nao_sei -> nao_certa": 1
+  }
+ },
+ "sem_resposta": {
+  "n": 80,
+  "ctx8": {
+   "recusa": 79,
+   "responde": 1
+  },
+  "ctx16": {
+   "recusa": 78,
+   "responde": 2
+  },
+  "ganhos": 0,
+  "perdas": 1,
+  "mudancas": {
+   "recusa -> responde": 1
+  }
+ }
+}
