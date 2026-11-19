@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:423619:por",
+  "artigos": [
+    {
+      "chave": "ANEXO — ESTATUTO DO INSTITUTO DE GESTÃO FINANCEIRA DA SAÚDE::4.º",
+      "epigrafe": "Conselho de administração",
+      "texto": "1 - O Instituto é dirigido por um conselho de administração constituído por um presidente e por dois vogais, em exclusividade de funções, nomeados, por despacho do Secretário Regional dos Assuntos Sociais, de entre indivíduos habilitados com formação e experiência adequadas.\n\n2 - A nomeação faz-se nos mesmos termos em que são nomeados os administradores-delegados dos hospitais da Região.\n\n3 - As remunerações dos membros do conselho de administração são fixadas por despacho conjunto do Secretário Regional da Presidência para as Finanças e Planeamento e do Secretário Regional dos Assuntos Sociais, não podendo a do presidente ultrapassar 30% e a dos vogais 15% da remuneração base auferida por um director regional.\n\n4 - Compete ao conselho de administração:\n\na) Aprovar as políticas de gestão e as normas de funcionamento do Instituto;\n\nb) Aprovar as propostas do plano de actividades e do orçamento do Instituto;\n\nc) Acompanhar a execução do plano de actividades e do orçamento do Instituto;\n\nd) Submeter os projectos de orçamento a aprovação e prestar contas da gerência à Secção Regional do Tribunal de Contas;\n\ne) Assegurar a regularidade da cobrança das receitas e a legalidade do processamento das despesas;\n\nf) Aprovar o regulamento interno.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Artigo 2.º do Decreto Regulamentar Regional n.º 22/2002/A: 'Consideram-se feitas ao Secretário Regional dos Assuntos Sociais as referências ao Secretário Regional da Educação e Assuntos Sociais' na alínea m) do n.º 2 do artigo 6.º e nos n.os 1 e 4 do artigo 9.º do Estatuto. É uma norma de remissão interpretativa ('consideram-se feitas'), não uma alteração textual: não manda substituir palavras. Além disso, nos n.os 1 e 4 do artigo 9.º a referência vem como 'dos Secretários Regionais da Presidência para as Finanças e Planeamento e da Educação e Assuntos Sociais', pelo que a substituição exigiria escrever texto que não está letra a letra em nenhuma fonte. Os artigos 6.º e 9.º ficam com o texto atual (reparo do verificador não seguido por esta razão).",
+  "instrucoes": [
+    "Art. 1.º do DRR 22/2002/A: nova redacção dos n.os 1, 2 e 3 do artigo 4.º do Estatuto (n.º 4 mantém-se) — o texto atual já estava certo; devolvido igual.",
+    "Art. 2.º do DRR 22/2002/A: remissão interpretativa para os artigos 6.º e 9.º — não aplicada ao texto (ver nao_aplicavel)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

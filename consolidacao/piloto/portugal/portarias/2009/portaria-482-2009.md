@@ -307,7 +307,7 @@ Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no �
 
 (a que se refere o artigo 8.º)
 
-1 - Despesas elegíveis. - São elegíveis, atendendo ao respectivo valor de mercado, as despesas com a aquisição de equipamentos para melhoramento ambiental e da eficiência energética das explorações, outros equipamentos e máquinas, com exclusão de tractores e viaturas, pequenas construções e pequenas plantações plurianuais.
+1 - Despesas elegíveis - são elegíveis, atendendo ao respectivo valor de mercado, as despesas com a aquisição de equipamentos para melhoramento ambiental e da eficiência energética das explorações, outros equipamentos e máquinas, com exclusão de viaturas, pequenas construções, pequenos melhoramentos fundiários e pequenas plantações plurianuais.
 
 2 - Para todas as operações de investimento são ainda elegíveis as despesas com o IVA, nas seguintes situações, a demonstrar por certidão da repartição de finanças:
 
@@ -323,7 +323,7 @@ ii) Pro rata: o IVA é elegível na percentagem em que não for dedutível.
 
 a) Bens de equipamento em estado de uso ou de simples substituição;
 
-b) Captação de águas subterrâneas através de furos;
+b) (Revogada.)
 
 c) Instalações e equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração;
 
@@ -342,3 +342,5 @@ a) Afectação real: o IVA não é elegível no caso de a actividade em causa co
 b) Pro rata: o IVA não é elegível na percentagem em que for dedutível;
 
 iii) Regime normal: o IVA não é elegível.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.

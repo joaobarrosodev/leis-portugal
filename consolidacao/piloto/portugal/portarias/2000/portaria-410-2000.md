@@ -36,8 +36,6 @@ Atribuições
 
 1 - São atribuições da Delegação de Leiria as definidas no artigo 16.º da portaria que aprova a estrutura orgânica interna do IGFSS, nomeadamente:
 
-> Alterado pelo/a [Portaria n.º 346/2001](https://diariodarepublica.pt/dr/detalhe/portaria/346-2001-362331), publicado em 2001-04-06.
-
 a) Executar, no distrito de Leiria, as orientações e os procedimentos definidos pelo conselho directivo;
 
 b) Estabelecer uma colaboração articulada com os restantes organismos da segurança social ou outros serviços públicos, no âmbito das suas competências;

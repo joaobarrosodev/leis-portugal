@@ -48,6 +48,8 @@ f) Procedimentos de cooperação entre as forças policiais e serviços de segur
 
 7 - O coordenador do Conselho Consultivo para a Formação das Forças e Serviços de Segurança é equiparado, para todos os efeitos, a director-geral.
 
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 74/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-1999-355361), publicado em 1999-07-19.
+
 8 - O coordenador será coadjuvado, no exercício das suas funções, por dois oficiais, sendo um da GNR e outro da PSP, podendo ainda dispor de dois adjuntos a nomear pelo Ministro da Administração Interna, todos eles equiparados, para efeitos retributivos, a chefes de divisão.
 
 > Alterado pelo/a [Resolução do Conselho de Ministros n.º 74/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-1999-355361), publicado em 1999-07-19.

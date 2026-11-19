@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-02-14'
+version_history:
+  file: portaria-104-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-03-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-02-14'
+    amending: pt:dre:381276:por
+    amending_title: Portaria n.º 302/79; Portaria n.º 40/80
+    changes:
+    - Altera Artigo unidades 10-15
+    - Adita Artigo depois da unidade 15
+    - Adita Artigo depois da unidade 15
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:50:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 302/79; Portaria n.º
+    40/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-104-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,16 +146,42 @@ a) Elaborar as propostas orçamentais no âmbito da logística;
 
 b) Promover a gestão orçamental e económica das verbas postas à disposição do departamento respectivo;
 
-c) Organizar e prestar contas de todas as despesas realizadas no âmbito da função logística;
+c) Executar gradualmente um sistema de contabilidade geral, orçamental e analítica, segundo métodos racionais e científicos, de modo a assegurar desde já a informação de gestão necessária;
 
-d) Executar gradualmente um sistema de contabilidade geral, orçamental e analítica, segundo métodos racionais e científicos, de modo a assegurar desde já a informação de gestão necessária;
+d) Apoiar tecnicamente, em termos de gestão económico-financeira, os órgãos da sua área e fornecer, com oportunidade, informações que contribuam para uma mais eficaz e esclarecida acção de comando, direcção ou chefia;
 
-e) Apoiar tecnicamente, em termos de gestão económico-financeira, os órgãos da sua área e fornecer, com oportunidade, informações que contribuam para uma mais eficaz e esclarecida acção de comando, direcção ou chefia;
+e) Prestar, de acordo com as normas fixadas superiormente, informações de gestão, através de relatórios de actividades financeiras, complementados com mapas de gestão, estatísticas e outros documentos julgados convenientes;
 
-f) Prestar, de acordo com as normas fixadas superiormente, informações de gestão, através de relatórios de actividades financeiras, complementados com mapas de gestão, estatísticas e outros documentos julgados convenientes;
+f) Exercer superintendência técnica sobre os órgãos das unidades, estabelecimentos e outros da sua área de apoio;
 
-g) Exercer superintendência técnica sobre os órgãos das unidades, estabelecimentos e outros da sua área de apoio;
+g) Desenvolver outras actividades que no campo administrativo-financeiro lhe venham a ser superiormente determinadas;
 
-h) Desenvolver outras actividades que no campo administrativo-financeiro lhe venham a ser superiormente determinadas.
+h) A verificação das contas das unidades, estabelecimentos e outros órgãos prevista nos artigos 140.º e seguintes do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, dentro da sua área de apoio;
+
+i) Fiscalizar as actividades desenvolvidas no âmbito da gestão financeira da sua área de apoio.
+
+> Alterado pelo/a [Portaria n.º 40/80](https://diariodarepublica.pt/dr/detalhe/portaria/40-1980-692813), publicado em 1980-02-14.
+
+3 - O QO provisório do Centro de Gestão Financeira da Logística será oportunamente difundido por despacho do CEME.
+
+> Aditado pelo/a [Portaria n.º 302/79](https://diariodarepublica.pt/dr/detalhe/portaria/302-1979-381276), publicado em 1979-06-28.
+
+3 - O Centro de Gestão Financeira da Logística compreende:
+
+a) Chefe do Centro de Gestão;
+
+b) Adjunto-inspector;
+
+c) Secção de Gestão e Análise Económico-Orçamental;
+
+d) Secção de Gestão Financeira e Contabilidade;
+
+e) Secção de Verificação de Contas;
+
+f) Secção de Expediente e Arquivo.
+
+4 - As datas em que o CGF/Logística passa a desempenhar as atribuições referidas na alínea h) e i) do n.º 1, bem como a definição das unidades, estabelecimentos e outros órgãos ou instalações que ficam integrados na área de apoio do mesmo Centro, serão fixadas por despacho do CEME.
+
+> Aditado pelo/a [Portaria n.º 40/80](https://diariodarepublica.pt/dr/detalhe/portaria/40-1980-692813), publicado em 1980-02-14.
 
 Estado-Maior do Exército, 16 de Fevereiro de 1979. - O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general.

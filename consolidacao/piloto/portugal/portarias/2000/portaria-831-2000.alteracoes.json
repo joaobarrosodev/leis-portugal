@@ -14,11 +14,11 @@
     "alterador": "pt:dre:667161:por;pt:dre:172734:por"
   },
   {
-    "artigo": "unidades 49-56",
+    "artigo": "unidades 48-56",
     "operacao": "substituir",
     "regra": "llm",
-    "antes": "Curso: Sistemas Interactivos\n\nGrau de mestre\n\nQUADRO N.º 1\n\n1.º semestre\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)\n\nQUADRO N.º 2\n\n2.º semestre\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)",
-    "depois": "Curso de Sistemas de Informação e Multimédia\n\nGrau de mestre\n\nQUADRO N.º 1\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)\n\nQUADRO N.º 2\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)",
+    "antes": "## ANEXO — Universidade Fernando Pessoa\n\nCurso: Sistemas Interactivos\n\nGrau de mestre\n\nQUADRO N.º 1\n\n1.º semestre\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)\n\nQUADRO N.º 2\n\n2.º semestre\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)](https://files.diariodarepublica.pt/1s/2000/09/220b00/50905091.pdf)",
+    "depois": "## ANEXO — ([Portaria n.º 831/2000](https://diariodarepublica.pt/dr/detalhe/portaria/831-2000-558067), de 22 de Setembro - alteração)\n\nUniversidade Fernando Pessoa\n\nCurso de Sistemas de Informação e Multimédia\n\nGrau de mestre\n\nQUADRO N.º 1\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)\n\nQUADRO N.º 2\n\n[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)](https://files.diariodarepublica.pt/1s/2003/01/017b00/03210323.pdf)",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

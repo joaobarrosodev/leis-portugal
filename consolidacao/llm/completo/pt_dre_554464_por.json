@@ -52,24 +52,27 @@
     {
       "chave": "ANEXO::16.º",
       "epigrafe": "Pagamento das ajudas",
-      "texto": "1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.\n\n2 - Os pedidos de pagamento serão apresentados ao coordenador da medida AGRIS, através das DRA.\n\n3 - O coordenador da medida AGRIS procede à análise dos pedidos de pagamento e envia ao IFADAP recapitulativo de despesas, com base no qual o Instituto procederá ao pagamento das ajudas.\n\n4 - Podem ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e condições previstos no artigo 52.º do Regulamento (CE) n.º 445/2002, da Comissão, de 26 de Fevereiro.",
+      "texto": "1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.\n\n2 - Os pedidos de pagamento serão apresentados ao coordenador da medida AGRIS, através das DRA.\n\n3 - O coordenador da medida AGRIS procede à análise dos pedidos de pagamento e envia ao IFADAP recapitulativo de despesas, com base no qual o Instituto procederá ao pagamento das ajudas.\n\n4 - Podem ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e condições previstos no artigo 52.º do Regulamento (CE) n.º [445/2002](http://data.europa.eu/eli/reg/2002/445/oj?locale=pt), da Comissão, de 26 de Fevereiro.",
       "alterador": 2
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Artigo 4.º, n.º 2: mantém-se «alínea f)» do texto atual. A Portaria 1103-B/2001 deu ao n.º 2 apenas «2 - ...» (fica o texto atual) e nenhuma instrução muda essa remissão; a «alínea e)» só aparece na republicação anexa à Portaria 1198/2003, que não é instrução. Pelo mesmo motivo não se seguem as outras diferenças da republicação (aspas no artigo 2.º, «(euro) 37500» no artigo 6.º, minúsculas no artigo 9.º, redação do n.º 1 do artigo 11.º, renumeração dos artigos 11.º e 13.º depois das revogações). Os pontos 1.º, 2.º e 4.º a 12.º da Portaria 1103-B/2001 alteram outros regulamentos (Portarias 1109-E/2000, 1109-G/2000, 1109-H/2000, 52/2001, 51/2001, 53/2001, 49/2001, 1109-F/2000, 1109-I/2000, 48/2001) e não se aplicam a este.",
   "instrucoes": [
-    "Portaria 1103-B/2001: os n.os 1.º, 2.º e 4.º a 12.º alteram outros regulamentos (Portarias 1109-E, 1109-G, 1109-H, 52/2001, 51/2001, 53/2001, 49/2001, 1109-F, 1109-I/2000 e 48/2001); ignorados.",
-    "Portaria 1103-B/2001, n.º 3.º: nova redação do n.º 2 do art. 1.º; aplicado.",
-    "Portaria 1103-B/2001, n.º 3.º: art. 4.º, n.º 1, a alínea e) passa a ter o texto da anterior alínea f) (a antiga e) desaparece); aplicado. O n.º 2 vem como '...', por isso fica o texto atual, que ainda remete para a 'alínea f)' (a republicação diz 'alínea e)', mas nenhuma instrução muda esse número).",
-    "Portaria 1103-B/2001, n.º 3.º: nova redação do art. 5.º ('divulgação técnica'); aplicado.",
-    "Portaria 1103-B/2001, n.º 3.º: novo proémio do art. 12.º (alíneas mantêm-se); aplicado.",
-    "Portaria 1103-B/2001, n.º 3.º: novos n.os 2 a 4 do art. 16.º (a antiga regra da primeira prestação desaparece); aplicado.",
-    "Portaria 1198/2003, n.º 1.º: nova redação do n.º 1 do art. 7.º, do art. 8.º e do n.º 4 do art. 16.º; aplicado.",
-    "Portaria 1198/2003, n.º 2.º: revogação do n.º 2 do art. 11.º e do n.º 2 do art. 13.º do anexo; aplicado como '2 - (Revogado.)', sem renumerar.",
-    "Portaria 1198/2003, n.º 3.º: republicação do Regulamento; não é instrução de alteração, não serviu de fonte (difere do texto atual em grafia e noutros pontos não alterados, como '(euro) 37500' e a ausência de vírgula no n.º 2 do art. 1.º)."
+    "1103-B/2001, ponto 3.º, artigo 1.º: nova redação do n.º 2.",
+    "1103-B/2001, ponto 3.º, artigo 4.º: a alínea e) passa a ser a anterior alínea f) (a antiga e) sai); n.º 2 fica como está («alínea f)»), porque a instrução dá «2 - ...»; reparo do verificador (alínea e) da republicação) não seguido.",
+    "1103-B/2001, ponto 3.º, artigo 5.º: nova redação («divulgação técnica»).",
+    "1103-B/2001, ponto 3.º, artigo 12.º: novo proémio («por ordem decrescente de importância»); alíneas do texto atual.",
+    "1103-B/2001, ponto 3.º, artigo 16.º: novos n.os 2 a 4 (sai o antigo n.º 2, «primeira prestação»); depois 1198/2003, ponto 1.º, nova redação do n.º 4.",
+    "1198/2003, ponto 1.º: nova redação do n.º 1 do artigo 7.º e do artigo 8.º.",
+    "1198/2003, ponto 2.º: revogados o n.º 2 do artigo 11.º e o n.º 2 do artigo 13.º.",
+    "1198/2003, ponto 3.º: republicação, não usada como fonte de texto.",
+    "1103-B/2001, restantes pontos: dirigidos a outros regulamentos; ignorados."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

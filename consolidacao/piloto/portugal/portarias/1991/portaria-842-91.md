@@ -100,43 +100,35 @@ Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, 
 
 Zona de caça nacional do perímetro florestal da Contenda
 
-A) Tabela a que se refere o n.º 3.º, n.º 3
+A) Tabela a que se refere o n.º 3 do n.º 3.º
 
 1 - As taxas devidas pelos cidadãos nacionais e estrangeiros residentes em território nacional pela concessão de autorização especial de caça são as seguintes:
 
-Caça à espera ao javali - 30000$00;
-
 Caça de montaria ao javali - 40000$00;
 
-Caça de aproximação ao veado - troféu - 70000$00;
+Caça de montaria ao javali e veado - 50000$00;
+
+Caça de aproximação ao veado - troféu - 80000$00;
 
 Caça de aproximação ao veado - selectiva - 40000$00.
 
 2 - As taxas devidas pelos cidadãos estrangeiros não residentes em território nacional pela concessão de autorização especial de caça são as seguintes:
 
-Caça à espera ao javali - 60000$00;
-
 Caça de montaria ao javali - 80000$00;
 
-Caça de aproximação ao veado - troféu - 140000$00;
+Caça de montaria ao javali e veado - 100000$00;
+
+Caça de aproximação ao veado - troféu - 160000$00;
 
 Caça de aproximação ao veado - selectiva - 80000$00.
 
-B) Tabela a que se refere o n.º 11.º, n.º 2
+B) Tabela a que se refere o n.º 2 do n.º 11.º
 
 1 - As taxas eventuais são as seguintes:
 
-Caça à espera ao javali:
-
-Por cada tiro falhado - 10000$00;
-
-Por cada animal ferido e não cobrado - 15000$00;
-
-Por desobediência ao guia - 50000$00;
-
 Caça de aproximação ao veado - troféu:
 
-Por cada tiro falhado - 10000$00;
+Por cada tiro falhado - 15000$00;
 
 Por cada animal ferido e não cobrado - 175000$00;
 
@@ -144,15 +136,99 @@ Por desobediência ao guia - 50000$00;
 
 Caça de aproximação ao veado - selectiva:
 
-Por cada tiro falhado - 10000$00;
+Por cada tiro falhado - 15000$00;
 
 Por cada animal ferido e não cobrado - 60000$00;
 
-Por desobediência ao guia - 50000$00;
+Por desobediência ao guia - 50000$00.
 
-2 - As taxas eventuais por desobediência ao guia na caça por aproximação ao veado - troféu e selectiva - são acrescidas do valor do troféu que lhe corresponder, num montante nunca inferior a 175000$00;
+2 - As taxas eventuais por desobediência ao guia na caça de aproximação ao veado - troféu e selectiva - são acrescidas do valor do troféu que lhe corresponder, num montante nunca inferior a 175000$00.
 
-C) Tabela a que se refere o n.º 11.º, n.º 1
+C) Tabela a que se refere o n.º 1 do n.º 11.º
+
+As taxas suplementares são as seguintes:
+
+Caça de aproximação ao veado - troféu:
+
+Troféu de 120 a 147 pontos - 75000$00;
+
+Troféu de 147,1 a 155 pontos - 175000$00;
+
+Troféu de 155,1 a 163 pontos - 400000$00.
+
+Caça de montaria ao javali e veado - de acordo com a tabela acima (caça de aproximação ao veado - troféu).
+
+> Alterado pelo/a [Portaria n.º 809/92](https://diariodarepublica.pt/dr/detalhe/portaria/809-1992-282095), publicado em 1992-08-18.
+
+Zona de caça nacional da Tapada Nacional de Mafra
+
+A) Tabela a que se refere o n.º 3 do n.º 3.º
+
+1 - As taxas devidas pelos cidadãos nacionais e estrangeiros residentes em território nacional pela concessão de autorização especial de caça são as seguintes:
+
+Caça à espera ao javali - 20000$00;
+
+Caça de aproximação ao gamo - troféu - 35000$00;
+
+Caça de aproximação ao gamo - selectiva - 25000$00;
+
+Caça de aproximação ao javali - 20000$00;
+
+Caça de aproximação ao veado - selectiva - 40000$00.
+
+2 - As taxas devidas pelos cidadãos estrangeiros não residentes em território nacional pela concessão de autorização especial de caça são as seguintes:
+
+Caça à espera ao javali - 40000$00;
+
+Caça de aproximação ao gamo - troféu - 70000$00;
+
+Caça de aproximação ao gamo - selectiva - 50000$00;
+
+Caça de aproximação ao javali - 40000$00;
+
+Caça de aproximação ao veado - selectiva - 80000$00.
+
+B) Tabela a que se refere o n.º 2 do n.º 11.º
+
+1 - As taxas eventuais são as seguintes:
+
+Caça à espera e de aproximação ao javali:
+
+Por cada tiro falhado - 15000$00;
+
+Por cada animal ferido e não cobrado - 20000$00;
+
+Por cada desobediência ao guia - 50000$00.
+
+Caça de aproximação ao gamo - troféu:
+
+Por cada tiro falhado - 15000$00;
+
+Por cada animal ferido e não cobrado - 60000$00;
+
+Por desobediência ao guia - 50000$00.
+
+Caça de aproximação ao gamo - selectiva:
+
+Por cada tiro falhado - 15000$00;
+
+Por cada animal ferido e não cobrado - 35000$00;
+
+Por cada desobediência ao guia - 50000$00.
+
+Caça de aproximação ao veado - selectiva:
+
+Por cada tiro falhado - 15000$00;
+
+Por cada animal ferido e não cobrado - 60000$00;
+
+Por desobediência ao guia - 50000$00.
+
+2 - As taxas eventuais por desobediência ao guia na caça de aproximação ao veado - selectiva - são acrescidas do valor do troféu que lhe corresponder, num montante nunca inferior a 175000$00.
+
+3 - As taxas eventuais por desobediência ao guia na caça de aproximação ao gamo - troféu e selectiva - são acrescidas do valor do troféu que lhe corresponder, num montante nunca inferior a 60000$00.
+
+C) Tabela a que se refere o n.º 1 do n.º 11.º
 
 As taxas suplementares são as seguintes:
 
@@ -164,84 +240,16 @@ Parte exposta das navalhas de 6,6 cm a 7,8 cm - 25000$00;
 
 Parte exposta das navalhas superior a 7,8 cm - 40000$00;
 
-Caça de aproximação ao veado - troféu:
-
-Troféu de 120 a 147 pontos - 75000$00;
-
-Troféu de 147,1 a 155 pontos - 175000$00;
-
-Troféu de 155,1 a 163 pontos - 275000$00;
-
-Troféu superior a 163 pontos - 400000$00.
-
-Zona de caça nacional da Tapada Nacional de Mafra
-
-A) Tabela a que se refere o n.º 3.º, n.º 3
-
-1 - As taxas devidas pelos cidadãos nacionais e estrangeiros residentes em território nacional pela concessão de autorização especial de caça são as seguintes:
-
-Caça à espera ao javali - 20000$00;
-
-Caça de aproximação ao gamo - troféu - 35000$00;
-
-Caça de aproximação ao gamo - selectiva - 25000$00.
-
-2 - As taxas devidas pelos cidadãos estrangeiros não residentes em território nacional pela concessão de autorização especial de caça são as seguintes:
-
-Caça à espera ao javali - 40000$00;
-
-Caça de aproximação ao gamo - troféu - 70000$00;
-
-Caça de aproximação ao gamo - selectiva - 50000$00.
-
-B) Tabela a que se refere o n.º 11.º, n.º 2
-
-1 - As taxas eventuais são as seguintes:
-
-Caça à espera ao javali:
-
-Por cada tiro falhado - 10000$00;
-
-Por cada animal ferido e não cobrado - 15000$00;
-
-Por desobediência ao guia - 50000$00;
-
 Caça de aproximação ao gamo - troféu:
 
-Por cada tiro falhado - 10000$00;
+Troféu de 100 a 125 pontos - 25000$00;
 
-Por cada animal ferido e não cobrado - 60000$00;
-
-Por desobediência ao guia - 50000$00;
-
-Caça de aproximação ao gamo - selectiva:
-
-Por cada tiro falhado - 10000$00;
-
-Por cada animal ferido e não cobrado - 35000$00;
-
-Por desobediência ao guia - 50000$00.
-
-2 - As taxas eventuais por desobediência ao guia na caça por aproximação ao gamo - troféu e selectiva - são acrescidas do valor do troféu que lhe corresponder, num montante nunca inferior a 60000$00;
-
-C) Tabela a que se refere o n.º 11.º, n.º 1
-
-As taxas suplementares são as seguintes:
-
-Caça à espera ao javali:
-
-Parte exposta das navalhas de 4 cm a 6,5 cm - 15000$00;
-
-Parte exposta das navalhas de 6,6 cm a 7,8 cm - 25000$00;
-
-Parte exposta das navalhas superior a 7,8 cm - 40000$00.
-
-Caça de aproximação ao gamo - troféu:
-
-Troféu de 125 a 150 pontos - 40000$00;
+Troféu de 125,1 a 150 pontos - 40000$00;
 
 Troféu de 150,1 a 165 pontos - 60000$00;
 
 Troféu de 165,1 a 175 pontos - 90000$00;
 
-Troféu superior a 175 pontos - 120000$00;
+Troféu superior a 175 pontos - 120000$00.
+
+> Alterado pelo/a [Portaria n.º 809/92](https://diariodarepublica.pt/dr/detalhe/portaria/809-1992-282095), publicado em 1992-08-18.

@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, 1.º (prorrogação até 31 de Março de 1978 do limite dos voos de afinidade) e 2.º (redução de sessenta para quarenta e cinco dias para voos ABC originados nos EUA) não dão nova redação a nenhuma unidade; a autorização de combinar até três categorias no 3.º também não é textual.",
+  "nao_aplicavel": "Portaria n.º 107/77, 1.º: prorroga até 31 de Março de 1978 o limite para voos de afinidade sem dar nova redação ao n.º 2.º; não textual. Portaria n.º 107/77, 2.º: reduz de sessenta para quarenta e cinco dias a antecedência da condição 2.ª só para voos originados nos Estados Unidos, sem nova redação; a condição 2.ª diz noventa dias (sessenta só para voos de Maio de 1973), pelo que o alvo não corresponde ao texto e a alteração é parcial e não textual.",
   "instrucoes": [
-    "Alt. 1, 1.º: prorroga o limite do n.º 2.º — não textual, não aplicado.",
-    "Alt. 1, 2.º: reduz prazo da condição 2.ª para voos dos EUA — não textual, não aplicado.",
-    "Alt. 1, 3.º: revoga a alínea b) da condição 6.ª do anexo — unidade 52 passa a 'b) (Revogada.)'."
+    "Alterador 1, 1.º: prorrogação do limite dos voos de afinidade — não textual; em nao_aplicavel.",
+    "Alterador 1, 2.º: redução da antecedência da condição 2.ª para voos originados nos EUA — não textual e alvo que não corresponde ao texto; em nao_aplicavel.",
+    "Alterador 1, 3.º: revogada a alínea b) da condição 6.ª do anexo — unidade 52 passa a b) (Revogada.)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

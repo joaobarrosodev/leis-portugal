@@ -106,7 +106,7 @@ Conterá três componentes: o recibo, o talão de controlo e o talão de leitura
 
 1.1 - Recibo. - É a componente que constituirá o recibo, após certificação pela entidade cobradora.
 
-No topo do lado esquerdo conterá as seguintes informações:
+No topo do lado esquerdo conterá as seguintes indicações:
 
 Identificação da entidade liquidadora (ministério, organismo/serviço, repartição/delegação/balcão);
 
@@ -114,13 +114,13 @@ Identificação da receita/logótipo (zona onde se identifica a receita e se ap�
 
 Identificação do documento;
 
-Identificação fiscal da entidade pagadora (terá espaço para dois números, a utilizar quando necessário).
+Identificação fiscal da entidade pagadora ou talão de registo, segundo o modelo normalizado adoptado pelos CTT.
 
 No topo do lado direito conterá o seguinte:
 
-Título do documento de cobrança e indicação do modelo;
+Título do documento de cobrança e indicação do modelo ou indicações normalizadas referentes ao invólucro mensagem e ao registo postal, segundo o modelo normalizado adoptado pelos CTT;
 
-Área reservada para a janela (necessária para expedição sem envelope) ou identificação da entidade pagadora - nome(s).
+Área reservada para a janela ou identificação da entidade pagadora.
 
 No caso de o impresso conter janela, a identificação da entidade pagadora deverá ser aposta na parte superior da zona para discriminação da receita.
 
@@ -187,6 +187,8 @@ Valor: (12) (posições);
 Dígito de controlo: (2) (posições).
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/272b00/72977302.pdf)
+
+> Alterado pelo/a [Portaria n.º 79/97](https://diariodarepublica.pt/dr/detalhe/portaria/79-1997-570112), publicado em 1997-02-03.
 
 ## ANEXO II — Modelo B
 

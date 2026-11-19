@@ -3,7 +3,8 @@ id: pt:dre:663299:por
 title: Portaria n.º 64/87
 original: data/portugal/portarias/1987/portaria-64-87.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:626813:por
@@ -747,4 +748,26 @@ c) Controlar as situações de processamento indevidas, resultantes de sobreposi
 
 (Revogado.)
 
+Documento anexo ao quadro de pessoal a que se refere o artigo 47.º do Regulamento do Centro Regional de Segurança Social do Porto.
+
+Os técnicos superiores de informática do Centro Regional de Segurança Social do Porto desenvolvem a sua actividade nas seguintes áreas funcionais:
+
+Análise funcional e orgânica;
+
+Assessoria e auditoria;
+
+Programação;
+
+Programação de sistemas;
+
+Planeamento e controle;
+
+Administração de bases de dados.
+
+Quadro anexo a que se refere o artigo 47.º do Regulamento
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02400/03550370.pdf)
+
 > Revogado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01.
+
+> Alterado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01.

@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:663299:por",
+  "artigos": [
+    {
+      "chave": "49.º",
+      "epigrafe": "Instituições funcionalmente integradas",
+      "texto": "(Revogado.)\n\nDocumento anexo ao quadro de pessoal a que se refere o artigo 47.º do Regulamento do Centro Regional de Segurança Social do Porto.\n\nOs técnicos superiores de informática do Centro Regional de Segurança Social do Porto desenvolvem a sua actividade nas seguintes áreas funcionais:\n\nAnálise funcional e orgânica;\n\nAssessoria e auditoria;\n\nProgramação;\n\nProgramação de sistemas;\n\nPlaneamento e controle;\n\nAdministração de bases de dados.\n\nQuadro anexo a que se refere o artigo 47.º do Regulamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02400/03550370.pdf)",
+      "alterador": 3
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Portaria 935/92 e Portaria 58/93: sem instrução dirigida à Portaria 64/87 (integração de caixas de previdência); ignoradas.",
+    "DL 58/93, artigo 3.º, alínea e): revogado o artigo 49.º. O documento anexo ao quadro de pessoal e a nota do quadro anexo, que vinham a seguir ao artigo 49.º mas não fazem parte dele, foram repostos depois de «(Revogado.)», porque nenhuma instrução os tira (reparo do verificador confirmado)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

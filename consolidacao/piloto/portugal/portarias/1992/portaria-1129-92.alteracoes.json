@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:616378:por",
     "alterador": "pt:dre:164386:por"
+  },
+  {
+    "artigo": "unidades 42-42",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/284b00/56525653.pdf)",
+    "depois": "## ANEXO — ([Portaria n.º 1129/92](https://diariodarepublica.pt/dr/detalhe/portaria/1129-1992-616378), de 10 de Dezembro - Alteração)\n\nInstituto Politécnico de Viana do Castelo\n\nEscola Superior Agrária de Ponte de Lima\n\nCurso: Engenharia Hortícola e Paisagista\n\nGrau: bacharel\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/06/142b00/30613063.pdf)",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:616378:por",
+    "alterador": "pt:dre:164386:por"
   }
 ]

@@ -6,13 +6,19 @@
       "ate": 15,
       "texto": "O CFMCO tem a duração de 11 semanas.",
       "alterador": 1
+    },
+    {
+      "de": 36,
+      "ate": 37,
+      "texto": "Curso de formação militar complementar de Oficiais\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270b00/74727472.pdf)",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, 2.º: o novo plano de estudos que substitui o anexo só vem em imagem; não se aplica.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do 3.º (epígrafe '[...]' mantém-se); substituída a unidade 15.",
-    "Alterador 1, 2.º: plano de estudos do anexo substituído por anexo em imagem. Não aplicado."
+    "Portaria 1298/2001, 1.º: nova redação do corpo do n.º 3.º ([...] mantém a epígrafe): substituída a unidade 15 (11 semanas).",
+    "Portaria 1298/2001, 2.º: o plano de estudos do anexo da 1298/2001 substitui o do anexo da Portaria 43/2000: substituídas as unidades 36-37 pelo texto do anexo do alterador (título do curso e ligação ao quadro, que só vem em imagem); a epígrafe do anexo (unidade 35) é igual e fica."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

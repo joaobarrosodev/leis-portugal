@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:663299:por",
     "alterador": "pt:dre:626813:por"
+  },
+  {
+    "artigo": "49.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 49.º — Instituições funcionalmente integradas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01.",
+    "depois": "###### Artigo 49.º — Instituições funcionalmente integradas\n\n(Revogado.)\n\nDocumento anexo ao quadro de pessoal a que se refere o artigo 47.º do Regulamento do Centro Regional de Segurança Social do Porto.\n\nOs técnicos superiores de informática do Centro Regional de Segurança Social do Porto desenvolvem a sua actividade nas seguintes áreas funcionais:\n\nAnálise funcional e orgânica;\n\nAssessoria e auditoria;\n\nProgramação;\n\nProgramação de sistemas;\n\nPlaneamento e controle;\n\nAdministração de bases de dados.\n\nQuadro anexo a que se refere o artigo 47.º do Regulamento\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02400/03550370.pdf)\n\n> Revogado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01.\n\n> Alterado pelo/a [Decreto-Lei n.º 58/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1993-626813), publicado em 1993-03-01.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:663299:por",
+    "alterador": "pt:dre:626813:por"
   }
 ]

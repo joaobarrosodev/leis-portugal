@@ -4,7 +4,7 @@
     {
       "chave": "ANEXO I::1.º",
       "epigrafe": "Fins dos empréstimos",
-      "texto": "Os empréstimos, objecto do presente regulamento, visam proporcionar aos participantes do Fundo de Pensões dos Militares das Forças Armadas a possibilidade de:\n\na) Aquisição de habitação já construída;\n\nb) Construção de habitação em terreno próprio.\n\nc) Beneficiação de habitação própria.",
+      "texto": "1 - Os empréstimos, objecto do presente regulamento, visam proporcionar aos participantes do Fundo de Pensões dos Militares das Forças Armadas a possibilidade de:\n\na) Aquisição de habitação já construída;\n\nb) Construção de habitação em terreno próprio.\n\nc) Beneficiação de habitação própria.\n\n2 - Não serão concedidos empréstimos nos termos deste regulamento para liquidação de outros contraídos com idêntica finalidade junto de quaisquer instituições de crédito.",
       "alterador": 1
     },
     {
@@ -100,18 +100,24 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": null,
+  "anexos": [],
+  "nao_aplicavel": "Artigo 1.º do regulamento: a nova redação dada pela Portaria n.º 1338/95 vem sem numeração e não reproduz o n.º 2 (proibição de empréstimos para liquidar outros); como nenhuma instrução elimina expressamente o n.º 2, manteve-se o texto atual com o «1 -» e o n.º 2, acrescentando só a nova alínea c). O artigo 2.º da Portaria n.º 1338/95 (aplicação às candidaturas de 1 de Outubro a 30 de Novembro de 1994) é norma de aplicação no tempo, sem efeito no texto.",
   "instrucoes": [
-    "Art. 1.º da Portaria 1338/95 dá nova redação aos arts. 1.º, 2.º, 3.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 17.º, 21.º, 22.º e 23.º do regulamento (ANEXO I): aplicado artigo a artigo, com '...' a manter o texto atual da unidade.",
-    "Art. 1.º: nova redação sem numeração, só corpo com alíneas a), b) (mantidas) e c) nova; o antigo n.º 2 não consta da nova redação e não foi mantido.",
-    "Art. 10.º: nova epígrafe; n.os 1 e 2 novos; n.º 3 = redação do anterior n.º 2.",
-    "Art. 12.º: nova redação só com n.os 1 e 2 (o antigo n.º 2 desaparece; o antigo n.º 3 reformulado passa a n.º 2); gralha 'Forcas' copiada do alterador.",
-    "Art. 15.º: n.º 1 mantido, n.º 2 novo, n.º 3 = anterior n.º 2, n.º 4 novo.",
-    "Art. 21.º: proémio novo, 1) e 2) mantidos, aditado 3).",
-    "Art. 23.º: n.º 1 mantido, n.º 2 novo, n.º 3 = anterior n.º 2, n.º 4 = anterior n.º 3 (o parágrafo não numerado 'Os prazos referidos...', que no texto atual aparece sem número a seguir ao n.º 2), n.º 5 novo substitui a antiga regra de não observância.",
-    "Art. 2.º da Portaria 1338/95 (aplicação às candidaturas de 1994): norma transitória, não altera o texto do original."
+    "Art. 1.º do alterador: nova redação dos artigos 1.º, 2.º, 3.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 17.º, 21.º, 22.º e 23.º do regulamento (ANEXO I); aplicada, com «...» a manter o texto atual da unidade.",
+    "1.º: aditada a alínea c); n.º 1 e n.º 2 mantidos (ver nao_aplicavel).",
+    "2.º n.º 1, 3.º (proémio e alínea b)), 5.º n.º 1 (alíneas a) e b)), 6.º n.º 1, 8.º n.º 2, 11.º n.º 3, 17.º n.º 2: nova redação.",
+    "9.º: n.os 1 a 3 com nova redação (substituem os antigos n.os 1 e 2).",
+    "10.º: nova epígrafe, n.os 1 e 2 novos, n.º 3 com a redação do anterior n.º 2.",
+    "12.º: nova redação com dois números (o novo n.º 2 corresponde ao antigo n.º 3; o antigo n.º 2 desaparece da nova redação).",
+    "14.º: n.os 1 a 4 com nova redação.",
+    "15.º: n.º 1 mantido, n.º 2 novo, n.º 3 com a redação do anterior n.º 2, n.º 4 novo (substitui o antigo n.º 3).",
+    "21.º: proémio novo, n.os 1) e 2) mantidos, aditado o n.º 3) com as alíneas a) a c).",
+    "22.º: n.os 1 e 2 com nova redação.",
+    "23.º (reparo confirmado): n.º 1 mantido, n.º 2 novo, n.º 3 com a redação do anterior n.º 2, n.º 4 com a do anterior n.º 3 (o parágrafo sem número «Os prazos referidos... prorrogados», que no texto atual vem entre o n.º 2 e o «3 - A não observância»), n.º 5 novo, que substitui o «A não observância dos n.os 1 e 2».",
+    "Art. 2.º do alterador: aplicação às candidaturas de 1994; sem alteração de texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

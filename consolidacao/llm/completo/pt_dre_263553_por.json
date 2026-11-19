@@ -1,0 +1,23 @@
+{
+  "id": "pt:dre:263553:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "DL 176/72, art. 6.º: revoga os artigos 3.º e seu § único e 5.º do DL 48678 — o 3.º já estava revogado pelo programa (correto); o 5.º fica '(Revogado.)' (reparo confirmado).",
+    "DL 176/72, arts. 1.º a 5.º: regime novo autónomo, sem instrução de alteração do texto do original; nada a aplicar."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

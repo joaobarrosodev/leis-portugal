@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:263553:por",
     "alterador": "pt:dre:681792:por"
+  },
+  {
+    "artigo": "5.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 5.º\n\nOs cheques e vales de correio destinados a pagamentos nas tesourarias das câmaras municipais serão enviados, sob registo, acompanhados de um sobrescrito devidamente endereçado, para devolução imediata, como correspondência oficial, dos respectivos recibos.",
+    "depois": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 176/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1972-681792), publicado em 1972-05-25.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:263553:por",
+    "alterador": "pt:dre:681792:por"
   }
 ]

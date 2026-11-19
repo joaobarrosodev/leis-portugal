@@ -9,10 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 65/2010): corrige a delimitação e anexa prédios rústicos (área total 1259 ha) com nova planta só em imagem; não dá nova redação a nenhuma unidade do original, pelo que não é alteração textual aplicável.",
+  "nao_aplicavel": "Portaria 65/2010, 1.º e 2.º: correção da delimitação e anexação de prédios rústicos (456 ha, área total de 1259 ha), com nova planta só em imagem; não dá nova redação ao n.º 1.º nem a outra unidade do original (alteração não textual): não aplicada.",
   "instrucoes": [
-    "Alterador 1 (Portaria n.º 375/2009), artigo único: nova redação do n.º 1.º; unidade 6 substituída, mantendo o número '1.º'.",
-    "Alterador 2 (Portaria n.º 65/2010): anexação de prédios e correção da delimitação, sem nova redação do texto; não aplicado."
+    "Portaria 375/2009, artigo único: nova redação do n.º 1.º (12 anos, processo 4836-AFN): unidade 6 substituída, mantendo a numeração 1.º.",
+    "Portaria 65/2010, 1.º: correção da delimitação e anexação (área total 1259 ha): não textual, em nao_aplicavel; o reparo confirma-o.",
+    "Portaria 65/2010, 2.º: efeitos da anexação perante terceiros: norma própria, sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

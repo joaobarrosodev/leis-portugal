@@ -6,15 +6,20 @@
       "ate": 42,
       "texto": "O regulamento a que se refere o artigo 9.º do [Decreto-Lei n.º 216/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1992-225809) é aprovado pelo órgão legal e estatutariamente competente do estabelecimento de ensino e está sujeito ao disposto neste diploma legal e na presente portaria.",
       "alterador": 2
+    },
+    {
+      "de": 49,
+      "ate": 52,
+      "texto": "Universidade Lusófona de Humanidades e Tecnologias\n\nCurso de especialização em Terapias Comportamentais e Cognitivas\n\nGrau de mestre\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50885089.pdf)",
+      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, 1.º: o anexo (plano de estudos) passa a ter a redação do anexo da Portaria n.º 980/2004, que só vem em imagem; não aplicado.",
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1, 1.º: novo anexo só em imagem; não aplicado (nao_aplicavel).",
-    "Alterador 1, 2.º, 3.º e 4.º: normas próprias (duração do semestre, transição, efeitos), não aditadas ao original; nada a fazer.",
-    "Alterador 2, 1.º: o número com a epígrafe Regulamento (9.º) das portarias do anexo passa a ter nova redação; os n.os 1 a 4 (unidades 39-42) substituídos pelo texto único, mantidos o número e a epígrafe (a lista de portarias do anexo só vem em imagem; aplicado por o original constar como alterado por esta portaria).",
-    "Alterador 2, 2.º e 3.º: produção de efeitos e entrada em vigor; nada a fazer."
+    "Portaria 980/2004, 1.º: o anexo passa a ter a redação do anexo do alterador: unidades 49-52 substituídas pelo novo anexo (Universidade Lusófona de Humanidades e Tecnologias, curso, grau, quadro), copiado letra a letra; a unidade 49 juntava o título do anexo ao nome do estabelecimento antigo, que o novo anexo troca, e não se montou um título novo (reparo confirmado).",
+    "Portaria 980/2004, 2.º a 4.º: duração do semestre, transição e produção de efeitos são normas do próprio alterador, sem instrução de aditamento ao original; nada a mudar.",
+    "Portaria 269/2006, 1.º: a Portaria 176/98 consta do anexo (n.º 9.º); o número com a epígrafe «Regulamento» passa a ter a nova redação, num só parágrafo (unidades 39-42); produz efeitos desde a entrada em vigor da portaria."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

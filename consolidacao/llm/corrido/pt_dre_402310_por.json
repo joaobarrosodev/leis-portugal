@@ -15,13 +15,15 @@
       "alterador": 2
     }
   ],
-  "nao_aplicavel": "Alterador 1: a substituição da planta anexa não é textual (só imagem). Alterador 2, 2.º: a exceção ao 'n.º 6.º' quanto ao número de guardas não dá nova redação, e neste original os guardas estão no n.º 7.º (o 6.º é a sinalização); alvo ambíguo, não aplicado.",
+  "nao_aplicavel": "Portaria 958/94 e Portaria 807/97: a substituição da planta anexa só vem em imagem; não é alteração de texto. Portaria 807/97, n.º 2.º: diz que o n.º 6.º passa a obrigar a manter um só guarda florestal auxiliar, mas o n.º 6.º deste diploma é o da sinalização e a obrigação dos guardas está no n.º 7.º; além disso não dá nova redação a nenhuma unidade. Alvo errado e alteração não textual: não se aplica; o n.º 7.º fica com 'dois guardas florestais auxiliares' (o texto proposto pelo verificador não está letra a letra em nenhuma fonte).",
   "instrucoes": [
-    "Alterador 1: nova redação do n.º 1.º (2748,2970 ha); aplicada à unidade 8 mas depois substituída pela redação do alterador 2.",
-    "Alterador 1: planta anexa substituída; não textual (nao_aplicavel).",
-    "Alterador 2, 1.º: nova redação do n.º 1.º (960,9618 ha); substituí a unidade 8 mantendo a numeração 1.º.",
-    "Alterador 2, 1.º: aditado o n.º 1.º-A; inserido depois da unidade 8.",
-    "Alterador 2, 2.º: redução para um guarda florestal 'no n.º 6.º'; sem redação e alvo ambíguo (nao_aplicavel)."
+    "Alterador 1 (Portaria 958/94): nova redação do n.º 1.º (área de 2748,2970 ha); depois substituída pela do alterador 2, por isso o texto final da unidade 8 é o do alterador 2.",
+    "Alterador 1: a planta anexa substitui a anterior: só em imagem, em nao_aplicavel.",
+    "Alterador 2 (Portaria 807/97), n.º 1.º: nova redação do n.º 1.º (área de 960,9618 ha): unidade 8 substituída, com o número '1.º' do texto atual.",
+    "Alterador 2, n.º 1.º: adita o n.º 1.º-A (áreas excetuadas assinaladas na planta): inserido a seguir à unidade 8, com o número '1.º-A' dado na instrução.",
+    "Alterador 2, n.º 2.º: redução para um guarda florestal auxiliar referida ao n.º 6.º, que é o da sinalização; reparo do verificador não seguido (alvo não corresponde e sem nova redação): em nao_aplicavel.",
+    "Alterador 2, n.º 3.º: entrada em vigor do próprio alterador; não altera o texto.",
+    "Nota: a concessão é até 15 de Julho de 2004 (n.º 2.º); nenhum alterador a renova."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

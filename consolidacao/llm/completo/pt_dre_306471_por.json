@@ -1,0 +1,16 @@
+{
+  "id": "pt:dre:306471:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Portaria n.º 51/2014, art. 2.º: o montante da taxa da alínea b) do Título I da Tabela anexa passa a ser (euro) 1,25 — a tabela do anexo III só existe em imagem no texto atual ('ver documento original') e o alterador não reproduz o quadro; não se pode aplicar textualmente (reparo do verificador confirmado como não aplicável). Art. 3.º (produção de efeitos a 1 de março de 2014): sem alteração textual.",
+  "instrucoes": [
+    "Portaria 51/2014, art. 1.º: nova redação do art. 2.º (epígrafe 'Atualizações', arredondamento à centésima) — já aplicada pelo programa e igual letra a letra ao alterador; nada a mudar.",
+    "Portaria 51/2014, art. 2.º: alteração de um valor da tabela do anexo, que só existe em imagem — nao_aplicavel."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

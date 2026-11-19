@@ -9,12 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Portaria n.º 840/2004, 1.º: o curso passa a denominar-se «Gestão do Território e do Património Cultural», mas não há nova redação do n.º 1.º nem do anexo II, que ficam com «Gestão do Território». Portaria n.º 840/2004, 2.º: regra própria sobre o 2.º ciclo, não dirigida ao texto desta portaria. O conteúdo dos quadros do anexo I só existe em imagem (copiadas só as ligações do alterador). Portaria n.º 150/2003, 1.º: o quadro n.º 5 novo também só vem em imagem e ficou absorvido pela substituição do anexo I inteiro pela Portaria n.º 840/2004.",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: nova redação do quadro n.º 5 do anexo I (unidade 39, ligação de imagem) — absorvida pela substituição integral do anexo I pelo alterador 2, que apaga o quadro n.º 5 antigo; não listada à parte para não sobrepor intervalos.",
-    "Alterador 2, n.º 3.º: o anexo I passa a ter a redação do anexo — substituídas as unidades 20-46 (mantém-se o título da unidade 19).",
-    "Alterador 2, n.os 1.º e 2.º: mudança de denominação do curso e ramos do 2.º ciclo — sem redação nova para o texto do original; refletidas apenas no novo anexo I.",
-    "Alteradores 1 e 2, restantes números (estágio, transição, aplicação, entrada em vigor): próprios — ignorados."
+    "Portaria 150/2003, 1.º: nova redação do quadro n.º 5 do anexo I (só em imagem); absorvida pela substituição do anexo I pela Portaria 840/2004.",
+    "Portaria 840/2004, 1.º: mudança de denominação do curso sem redação textual; em nao_aplicavel.",
+    "Portaria 840/2004, 3.º: nova redação do anexo I; substituídas as unidades {{20}} a {{46}} (a unidade {{19}} já tem «Instituto Politécnico de Tomar»)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -9,13 +9,22 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "N.º 2.º da Portaria n.º 1491-A/95 substitui o plano de contas anexo ao Regulamento, que não consta do texto atual por artigos; não aplicado.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — Plano de contas",
+      "texto": "Disponibilidades e aplicações:\n\nCaixas;\n\nDepósitos no País;\n\nDepósitos no estrangeiro;\n\nOutros depósitos no estrangeiro;\n\nCaixas - Tesourarias da Fazenda Pública;\n\nOutros valores.\n\nTerceiros:\n\nCredores por receitas fiscais e similares;\n\nCredores por execuções fiscais e depósitos em cofres do Tesouro;\n\nCredores por transferências do exterior;\n\nRecursos alheios no Tesouro;\n\nCredores por descontos para a segurança social, seguros e sindicatos;\n\nOutros devedores e credores.\n\nResultados de operações financeiras:\n\nDiferenças de câmbio;\n\nLucros de amoedação;\n\nEncargos bancários;\n\nJuros de depósitos bancários;\n\nOutros resultados.\n\nTransferências Orçamento do Estado:\n\nDespesa orçamental;\n\nReceita do Estado.\n\nNota. - Nas contas de terceiros identificar-se-á o serviço administrador da operação de tesouraria.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "N.º 1.º da Portaria 1491-A/95: nova redação do artigo 7.º do Regulamento — aplicada.",
-    "N.º 2.º: substituição do plano de contas anexo — não aplicado (anexo ausente do texto atual).",
-    "N.º 3.º: produção de efeitos — norma própria, sem alteração ao texto."
+    "1.º da Portaria 1491-A/95: nova redação do artigo 7.º do Regulamento — aplicada.",
+    "2.º: o plano de contas anexo é substituído pelo anexo à Portaria 1491-A/95 — corpo do anexo «Plano de contas» substituído (reparo confirmado). O artigo 6.º do Regulamento (que ainda refere a classe «Natureza das operações de tesouraria») não é alterado por nenhuma instrução e fica como está.",
+    "3.º: produção de efeitos a 1 de janeiro de 1996 — sem texto a aplicar."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

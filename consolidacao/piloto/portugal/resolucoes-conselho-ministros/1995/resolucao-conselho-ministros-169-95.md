@@ -612,17 +612,11 @@ Margem do curso de água - faixa de terreno contígua ou sobranceira à linha qu
 
 Índice de utilização (i) - quociente entre a área bruta de construção e a superfície do prédio ou parcela a que se aplica, inserida em espaço residencial, industrial, agrícola e florestal.
 
-Número de pisos - número total de andares sobrepostos acima da cota do arruamento de acesso, com excepção da cave e do sótão, se este corresponder a um simples aproveitamento do vão da cobertura, não podendo a inclinação desta ultrapassar o ângulo de 28º.
-
-Cave - espaço coberto por laje total ou parcialmente enterrado, quando, cumulativamente:
-
-Nos alçados confrontantes com espaço público, a cota do plano inferior da laje de cobertura estiver, em média, a menos de 0,90 m acima da cota do terreno adjacente;
-
-Nos alçados confrontantes com espaço privado, a cota do pavimento não estiver, em nenhum ponto, mais de 0,20 m acima do terreno adjacente.
+Altura - é a dimensão vertical acima do solo, medida a partir do ponto mais desfavorável do edifício até à linha inferior da platibanda ou do beirado, excluindo-se o acesso às garagens em cave e os recuos previstos em parte de um dos planos da fachada.
 
 Cércea - valor máximo da distância entre a cota superior do beirado, platibanda ou guarda do terraço e a cota do arruamento fronteiro à fachada, medida no plano perpendicular ao eixo da rua.
 
-Loteamento - operação de divisão em lotes de um ou mais prédios, destinados imediata ou subsequentemente à construção.
+Loteamento - todas as operações que tenham por objecto ou por efeito a divisão em lotes, qualquer que seja a sua dimensão, de um ou vários prédios, desde que pelo menos um dos lotes se destine subsequentemente a construção urbana.
 
 Lote - área de terreno, marginado por arruamento, destinado à construção, resultante de uma operação de loteamento licenciada nos termos da legislação em vigor.
 
@@ -637,6 +631,8 @@ Superfície impermeabilizada - soma da superfície do terreno ocupada por edifí
 Obras de urbanização - todas as obras de criação e remodelação de infra-estruturas que integram a operação de loteamento e as destinadas a servirem os conjuntos e aldeamentos turísticos e as ocupações industriais.
 
 Alinhamento - linha(s) e plano(s) que determina(m) a implantação das edificações.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.
 
 ## ANEXO II
 
@@ -706,4 +702,6 @@ Decreto-Lei n.º 30762, de 26 de Setembro de 1940.
 
 ## ANEXO III — Número de lugares de estacionamento a prever nos espaços urbanos
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/286b00/77827792.pdf)
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/04/094b00/21542157.pdf)
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 28/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-1999-534624), publicado em 1999-04-22.

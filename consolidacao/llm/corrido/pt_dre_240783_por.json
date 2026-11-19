@@ -9,11 +9,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Art. 1.º da Portaria 314/2019 (mudança de denominação do curso para 'Saúde Materna e Obstétrica') não é uma alteração textual de nenhum ponto do original, pelo que o ponto 1.º não foi reescrito; os quadros do novo plano de estudos só existem em imagem (PDF), transcreveu-se apenas a estrutura e as ligações do novo anexo.",
+  "nao_aplicavel": "Portaria n.º 314/2019, art. 1.º: o curso passa a denominar-se 'Enfermagem de Saúde Materna e Obstétrica', mas não dá nova redação ao n.º 1.º; a frase proposta pelo verificador para a unidade 11 não está letra a letra em nenhuma fonte, por isso o n.º 1.º fica como está. Arts. 3.º (transição) e 4.º (aplicação a partir de 2019-2020): não textuais. Os quadros do novo plano de estudos só vêm em imagem (ficam as ligações do anexo da alteradora).",
   "instrucoes": [
-    "Art. 1.º: altera a denominação do curso (não textual) -> não aplicado ao ponto 1.º, indicado em nao_aplicavel",
-    "Art. 2.º: plano de estudos passa a ter a redação do anexo -> substituído o anexo (unidades 28 a 35) pelo anexo da Portaria 314/2019 (quadros só em imagem, com ligação)",
-    "Art. 3.º e 4.º: transição e aplicação, normas próprias do alterador -> nada a fazer"
+    "Port. 314/2019 art. 1.º: mudança de denominação sem redação do n.º 1.º; em nao_aplicavel (reparo não seguido, texto proposto não está nas fontes).",
+    "Port. 314/2019 art. 2.º: plano de estudos passa a ter a redação do anexo; anexo do original (unidades 28 a 35) substituído pelo anexo da alteradora, letra a letra.",
+    "Port. 314/2019 arts. 3.º e 4.º: transição e aplicação; não textuais."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

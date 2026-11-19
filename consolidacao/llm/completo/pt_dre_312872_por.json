@@ -9,12 +9,15 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "O n.º 2 do artigo único do Decreto 49436 (acréscimo do saldo à importância de 1970) é norma autónoma que não altera expressamente o § único do artigo 2.º: não aplicada ao texto.",
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1 (Decreto n.º 49436), n.º 2 do artigo único («A importância fixada para o ano de 1970 será acrescida do saldo eventualmente apurado no ano anterior.»): é norma própria do decreto alterador; nenhuma instrução diz que substitui ou altera o § único do artigo 2.º do original, que por isso se mantém como está. O texto proposto pelo verificador («§ único. A importância fixada para o ano de 1970...») não existe letra a letra em nenhuma das fontes e não se aplica.",
   "instrucoes": [
-    "N.º 1 do artigo único: substituída a distribuição dos encargos do artigo 2.º (1969 e 1970)",
-    "N.º 2: norma autónoma, § único mantém-se"
+    "Alterador 1, n.º 1 do artigo único: nova distribuição dos encargos do artigo 2.º — substituídas as linhas «Em 1967 ... 1285500$00» e «Em 1968 ... 857000$00» por «1969 ... 1285500$00» e «1970 ... 214250$00», copiadas do alterador.",
+    "Alterador 1, n.º 2 do artigo único: sem instrução textual dirigida ao § único — não aplicado, em nao_aplicavel; § único mantido."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

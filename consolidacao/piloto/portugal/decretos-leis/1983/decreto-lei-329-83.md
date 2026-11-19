@@ -256,8 +256,4 @@ Referendado em 8 de Junho de 1983.
 
 O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
-## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)
-
-## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)
-
 ## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)

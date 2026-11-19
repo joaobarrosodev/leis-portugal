@@ -12,5 +12,19 @@
     "unidade": [],
     "diploma": "pt:dre:160371:por",
     "alterador": "pt:dre:155848:por"
+  },
+  {
+    "artigo": "1.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 44679](https://diariodarepublica.pt/dr/detalhe/decreto/44679-1962-155848), publicado em 1962-11-12.",
+    "depois": "###### Artigo 1.º\n\nÉ permitida a importação sob regime de draubaque de milho ultramarino destinado ao fabrico de sêmolas alimentares ou de farinhas para gados.\n\n> Revogado pelo/a [Decreto n.º 44679](https://diariodarepublica.pt/dr/detalhe/decreto/44679-1962-155848), publicado em 1962-11-12.\n\n> Alterado pelo/a [Decreto n.º 44679](https://diariodarepublica.pt/dr/detalhe/decreto/44679-1962-155848), publicado em 1962-11-12.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:160371:por",
+    "alterador": "pt:dre:155848:por"
   }
 ]

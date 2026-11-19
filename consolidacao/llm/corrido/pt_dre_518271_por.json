@@ -9,10 +9,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Portaria n.º 954/2009, artigo único: exclui 10 ha e fixa a área total em 9867 ha, mas não dá nova redação ao n.º 2.º; trocar 9877 por 9867 seria inferir texto, por isso não aplicado. A nova planta só vem em imagem.",
   "instrucoes": [
-    "Alterador 1 (Portaria n.º 606/2007): nova redação do n.º 2.º -> substituída a unidade 7.",
-    "Alterador 2 (Portaria n.º 954/2009): exclusão de prédios por artigo único, sem alteração textual do original -> nada a fazer."
+    "Port. 606/2007: nova redação do n.º 2.º; substituída a unidade 7.",
+    "Port. 954/2009 artigo único: exclusão de terrenos e nova área total sem redação textual; em nao_aplicavel (reparo confirmado como não aplicável)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

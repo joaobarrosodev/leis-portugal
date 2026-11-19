@@ -28,7 +28,7 @@ Em 7 de Maio de 2003.
 
 A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.
 
-## ANEXO A
+## ANEXO
 
 REGULAMENTO DE EXECUÇÃO DO SISTEMA DE INCENTIVOS À REALIZAÇÃO DE PROJECTOS PILOTO RELATIVOS A PRODUTOS, PROCESSOS E SISTEMAS TECNOLOGICAMENTE INOVADORES.
 
@@ -306,7 +306,7 @@ Para as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presen
 
 2 - Este primeiro concurso de carácter geral dispõe de um orçamento de 6 milhões de euros.
 
-## ANEXO B — Situação económica e financeira equilibrada
+## ANEXO A — Situação económica e financeira equilibrada
 
 1 - Para efeitos do disposto na alínea g) do n.º 1 do artigo 5.º do presente Regulamento considera-se que os promotores de projectos de investimento possuem uma situação económico-financeira equilibrada quando apresentem um rácio de autonomia financeira superior a 25%.
 
@@ -326,7 +326,7 @@ ALe - activo líquido da empresa.
 
 5 - Mediante proposta do gestor do POE, devidamente fundamentada, pode o Ministro da Economia ajustar, sectorialmente, o limite referido no n.º 1.
 
-## ANEXO C — Critérios de selecção e metodologia para determinação da valia
+## ANEXO B — Critérios de selecção e metodologia para determinação da valia
 
 1.º
 
@@ -396,9 +396,9 @@ A pontuação dos subcritérios de selecção identificados nos n.os 2.º e 3.º
 
 4 = Muito forte.
 
-## ANEXO D — Tipo de despesas elegíveis com divulgação e promoção
+## ANEXO C — Tipo de despesas elegíveis com divulgação e promoção
 
-1 - Para efeitos do disposto na alínea l) do n.º 1 do artigo 7.º do presente Regulamento podem ser consideradas elegíveis despesas com:
+1 - Para efeitos do disposto na alínea k) do n.º 1 do artigo 7.º do presente Regulamento, podem ser consideradas elegíveis as despesas com:
 
 a) Brochuras;
 
@@ -416,7 +416,9 @@ g) Transporte e seguro do equipamento construído no âmbito do projecto para ap
 
 2 - Poderão ser comparticipadas outras despesas elegíveis além das previstas no número anterior de acordo com proposta do gestor do POE ao Ministro da Economia, fundamentada na sua adequação e razoabilidade dos montantes em causa para divulgar os resultados do projecto.
 
-## ANEXO E — Tipo de despesas elegíveis com a realização da acção de demonstração
+> Alterado pelo/a [Portaria n.º 902/2003](https://diariodarepublica.pt/dr/detalhe/portaria/902-2003-633278), publicado em 2003-08-28.
+
+## ANEXO D — Tipo de despesas elegíveis com a realização da acção de demonstração
 
 1 - Para efeitos do disposto no n.º 2 do artigo 7.º do presente Regulamento podem ser consideradas elegíveis despesas com:
 

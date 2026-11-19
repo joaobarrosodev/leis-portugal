@@ -98,5 +98,33 @@
     "unidade": [],
     "diploma": "pt:dre:1088946:por",
     "alterador": "pt:dre:2522481:por"
+  },
+  {
+    "artigo": "ANEXO I",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I\nRaças:\n\nAlentejana;\n\nAlgarvia;\n\nArouquesa;\n\nBarrosã;\n\nBrava;\n\nMarinhoa;\n\nMaronesa;\n\nMertolenga;\n\nMinhota;\n\nMirandesa;\n\nCharolesa;\n\nHerford;\n\nLimousine;\n\nSalers;\n\nPie Rouge;\n\nFleckvieh;\n\nCruzado de Carne;\n\nPreta;\n\nCachena;\n\nRamo Grande;\n\nBlonde d'Aquitaine;\n\nBlanc-Blue Belge;\n\nGarvonesa;\n\nIndeterminado de Carne;\n\nCruzado de Limosine;\n\nCruzado Alentejano;\n\nCruzado BBB;\n\nCruzado Simmental-Fleckvieh;\n\nJarmelista;\n\nAberdeen-Angus;\n\nCruzado de Aberdeen-Angus;\n\nCruzado de Blonde.\n\n205960689",
+    "depois": "## ANEXO I\n\nAlentejana.\n\nAlgarvia.\n\nArouquesa.\n\nBarrosã.\n\nBrava.\n\nMarinhoa.\n\nMaronesa.\n\nMertolenga.\n\nMinhota.\n\nMirandesa.\n\nCharolesa.\n\nHereford.\n\nLimousine.\n\nSalers.\n\nPie Rouge.\n\nNorueguesa.\n\nFleckvieh.\n\nCruzado de Carne.\n\nPreta.\n\nCachena.\n\nRamo Grande.\n\nBlonde d'Aquitaine.\n\nBlanc - Blue Belge.\n\nGarvonesa.\n\nIndeterminado de Carne.\n\nCruzado de Charolês.\n\nCruzado de Limosine.\n\nCruzado Alentejano.\n\nCruzado BBB.\n\nPiemontesa.\n\nCruzado Simmental - Fleckvieh.\n\nJarmelista.\n\nBrava dos Açores.\n\nAberdeen-Angus.\n\nCruzado de Aberdeen-Angus.\n\nCruzado de Blonde.\n\n> Alterado pelo/a [Despacho Normativo n.º 13/2012](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2012-2522481), publicado em 2012-05-31.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1088946:por",
+    "alterador": "pt:dre:2522481:por"
+  },
+  {
+    "artigo": "ANEXO I",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I",
+    "depois": "## ANEXO I — Raças",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:1088946:por",
+    "alterador": "pt:dre:2522481:por"
   }
 ]

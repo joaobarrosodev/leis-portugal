@@ -38,13 +38,15 @@ Disposições gerais
 
 ###### Artigo 1.º — Fins dos empréstimos
 
-Os empréstimos, objecto do presente regulamento, visam proporcionar aos participantes do Fundo de Pensões dos Militares das Forças Armadas a possibilidade de:
+1 - Os empréstimos, objecto do presente regulamento, visam proporcionar aos participantes do Fundo de Pensões dos Militares das Forças Armadas a possibilidade de:
 
 a) Aquisição de habitação já construída;
 
 b) Construção de habitação em terreno próprio.
 
 c) Beneficiação de habitação própria.
+
+2 - Não serão concedidos empréstimos nos termos deste regulamento para liquidação de outros contraídos com idêntica finalidade junto de quaisquer instituições de crédito.
 
 > Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11.
 

@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:667161:por
     title: Portaria n.º 269/2006
     publication_date: '2006-03-17'
+  - id: pt:dre:515000:por
+    title: Portaria n.º 980/2004
+    publication_date: '2004-08-03'
 ---
 
 # Portaria n.º 176/98
@@ -104,10 +107,12 @@ Assinada em 18 de Fevereiro de 1998.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-## ANEXO — Instituto Superior de Matemática e Gestão de Lisboa
+Universidade Lusófona de Humanidades e Tecnologias
 
-Curso: Terapias Comportamentais e Cognitivas
+Curso de especialização em Terapias Comportamentais e Cognitivas
 
-Grau: mestre
+Grau de mestre
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/03/064b00/11381140.pdf)
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/08/181b00/50885089.pdf)
+
+> Alterado pelo/a [Portaria n.º 980/2004](https://diariodarepublica.pt/dr/detalhe/portaria/980-2004-515000), publicado em 2004-08-03.

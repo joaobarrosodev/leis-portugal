@@ -40,7 +40,7 @@ b) Um representante do Governo Regional dos Açores ou de um organismo autónomo
 
 c) Um representante da Associação Nacional de Municípios Portugueses;
 
-d) Um representante do Gabinete de Estratégia e Planeamento do Ministério do Trabalho e da Solidariedade Social;
+d) Um representante do Gabinete de Estratégia e Planeamento do Ministério do Trabalho e da Solidariedade Social.
 
 e) Um representante do Instituto Nacional de Estatística, I. P.;
 
@@ -74,7 +74,7 @@ t) (Revogada.)
 
 u) Um representante da Associação Nacional das Empresas Metalúrgicas e Electromecânicas;
 
-v) Um representante da Associação Portuguesa dos Industriais de Engenharia Energética.
+v) Um representante da Associação Portuguesa dos Industriais de Engenharia Energética;
 
 > Alterado pelo/a [Portaria n.º 87/2011](https://diariodarepublica.pt/dr/detalhe/portaria/87-2011-278912), publicado em 2011-02-25.
 

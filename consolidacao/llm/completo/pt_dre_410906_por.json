@@ -4,7 +4,7 @@
     {
       "chave": "3.º",
       "epigrafe": "",
-      "texto": "1 - A exploração e gestão do sistema multimunicipal do Vale do Lima e Baixo Cávado é atribuída em regime de concessão exclusiva à RESULIMA - Valorização e Tratamento de Resíduos Sólidos, S. A., até 31 de dezembro de 2034.\n\n2 - (Revogado.)\n\n3 - (Revogado.)",
+      "texto": "1 - A exploração e gestão do sistema multimunicipal do Vale do Lima e Baixo Cávado é adjudicada, em regime de concessão exclusiva, à RESULIMA - Valorização e Tratamento de Resíduos Sólidos, S. A., nos termos do [Decreto-Lei n.º 294/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1994-534587), de 16 de Novembro, por um período de 25 anos.\n\n2 - (Revogado.)\n\n3 - (Revogado.)",
       "alterador": 1
     },
     {
@@ -47,12 +47,6 @@
       "chave": "ANEXO::2.º",
       "epigrafe": "",
       "texto": "1 - A sede social é no Aterro Sanitário do Vale do Lima e do Baixo Cávado, 4935-891 Vila Fria, concelho de Viana do Castelo, Câmara Municipal de Viana do Castelo.\n\n2 - Por deliberação do conselho de administração, a sede da sociedade pode ser deslocada para qualquer outro local dentro do mesmo concelho.\n\n3 - Por deliberação do conselho de administração, poderá a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação.",
-      "alterador": 1
-    },
-    {
-      "chave": "ANEXO::3.º",
-      "epigrafe": "",
-      "texto": "1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do Vale do Lima e Baixo Cávado.\n\n2 - A exploração e a gestão referidas no número anterior compreendem:\n\na) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;\n\nb) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;\n\nc) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.\n\n3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.",
       "alterador": 1
     },
     {
@@ -128,12 +122,6 @@
       "alterador": 1
     },
     {
-      "chave": "ANEXO::25.º-A",
-      "epigrafe": "",
-      "texto": "1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados pela mesma e da gestão das infraestruturas afetas à concessão.\n\n2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.\n\n3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e o fiscal único.\n\n4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.\n\n5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.",
-      "alterador": 1
-    },
-    {
       "chave": "ANEXO::27.º",
       "epigrafe": "",
       "texto": "(Revogado.)",
@@ -141,16 +129,19 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Nova redação do n.º 1 do artigo 3.º do DL 114/96 (concessão até 31 de dezembro de 2034), nova redação do artigo 3.º dos estatutos e aditamento do artigo 25.º-A dos estatutos: o n.º 2 do artigo 8.º do DL 101/2014 adia a sua entrada em vigor para a data em que a RESULIMA deixar de ser detida maioritariamente por entidades públicas (facto futuro); ficam por aplicar (os n.os 2 e 3 do artigo 3.º do DL ficam revogados pela norma revogatória do artigo 6.º, que não é adiada). N.º 1 do artigo 5.º dos estatutos: a instrução diz «[...]», fica o texto atual; a redação «2 500 000,00 euros» só vem na republicação, por uma alteração de 2004 que não está entre os alteradores — não se aplica (reparo do verificador não seguido).",
   "instrucoes": [
-    "Art. 2.º: nova redação do artigo 3.º do DL (n.º 1 novo; n.os 2 e 3 revogados, também pelo art. 6.º).",
-    "Art. 3.º: aditados os artigos 8.º e 9.º do DL.",
-    "Art. 4.º: nova redação dos artigos 2.º, 3.º, 4.º, 5.º, 8.º, 9.º, 10.º, 12.º, 14.º, 16.º, 18.º, 19.º e 25.º dos estatutos; os números marcados [...] mantêm o texto atual (incluindo o n.º 1 do art. 5.º, em escudos, porque a alteração de 2004 referida no preâmbulo não vem no pedido) e os marcados [Revogado] ficam (Revogado.).",
-    "Art. 5.º: aditado o artigo 25.º-A dos estatutos (chave ANEXO::25.º-A).",
-    "Art. 6.º: revogados o artigo 4.º, o n.º 3 do artigo 5.º e os artigos 6.º e 7.º do DL (o bloco de assinaturas que vinha no corpo do 7.º sai com a revogação), e o artigo 6.º, o n.º 3 do artigo 8.º, os n.os 1 e 2 do artigo 9.º, o n.º 3 do artigo 10.º e o artigo 27.º dos estatutos.",
-    "Art. 7.º (republicação, com o presente do indicativo e a grafia nova) não foi aplicado aos artigos não alterados nem às partes [...]: a republicação não é uma instrução de alteração; o art. 8.º (entrada em vigor diferida dos arts. 3.º do DL e 3.º e 25.º-A dos estatutos) não muda o texto."
+    "Art. 2.º do DL 101/2014: nova redação do artigo 3.º do DL — adiada pelo art. 8.º, n.º 2; só se aplicam as revogações dos n.os 2 e 3 (art. 6.º).",
+    "Art. 3.º: aditados os artigos 8.º e 9.º ao DL — aplicados.",
+    "Art. 4.º: nova redação dos artigos 2.º, 4.º, 5.º (só o n.º 2), 8.º, 9.º, 10.º, 12.º, 14.º, 16.º, 18.º, 19.º e 25.º dos estatutos — aplicada, com os «[...]» do texto atual; artigo 3.º dos estatutos adiado (nao_aplicavel).",
+    "Art. 5.º: aditamento do artigo 25.º-A dos estatutos — adiado (nao_aplicavel).",
+    "Art. 6.º: revogados os n.os 2 e 3 do art. 3.º, o art. 4.º, o n.º 3 do art. 5.º e os arts. 6.º e 7.º do DL, e o art. 6.º, o n.º 3 do art. 8.º, os n.os 1 e 2 do art. 9.º, o n.º 3 do art. 10.º e o art. 27.º dos estatutos — aplicado.",
+    "Art. 7.º: republicação — não usada como fonte de texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

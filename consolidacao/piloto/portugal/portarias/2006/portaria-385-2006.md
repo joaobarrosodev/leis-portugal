@@ -88,4 +88,10 @@ Manifesto de apanha
 
 Zonas de apanha
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/077b00/28222824.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10400/0307103072.pdf)
+
+Zona 1 - da Pedra do Sal (Cabo de Sines) até à praia do Barranco do Queimado (inclusive).
+
+Zona 10 - da Ponta da Atalaia até à Praia do Burgau (inclusive).
+
+> Alterado pelo/a [Portaria n.º 388/2008](https://diariodarepublica.pt/dr/detalhe/portaria/388-2008-448961), publicado em 2008-05-30.

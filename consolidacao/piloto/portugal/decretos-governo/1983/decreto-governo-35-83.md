@@ -24,6 +24,10 @@ Art. 2.º Aos textos do Código e do Protocolo respectivos são formuladas as se
 
 1) Quanto ao Código Europeu de Segurança Social, Portugal não se considera vinculado às obrigações decorrentes da parte VI, relativa às prestações em caso de acidentes de trabalho e doenças profissionais;
 
+2) Quanto ao Protocolo Adicional ao Código Europeu de Segurança Social, Portugal não aceita:
+
+a) As obrigações decorrentes das partes IV e VI, relativas, respectivamente, ao subsídio de desemprego e às prestações, em caso de acidente de trabalho e doenças profissionais;
+
 b) Quanto ao Protocolo, Portugal aceita as obrigações decorrentes das partes III, IV, V, VII, IX e X do Código, tais como modificadas pelo Protocolo.
 
 > Alterado pelo/a [Decreto do Governo n.º 14/85](https://diariodarepublica.pt/dr/detalhe/decreto-governo/14-1985-182241), publicado em 1985-06-25.

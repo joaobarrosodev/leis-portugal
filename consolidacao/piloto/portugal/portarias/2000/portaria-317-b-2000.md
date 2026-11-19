@@ -48,7 +48,7 @@ Os projectos de urbanismo comercial visam a modernização das actividades empre
 
 1 - São entidades beneficiárias dos apoios financeiros previstos no presente Regulamento:
 
-a) Microempresas e PME de qualquer natureza e sob qualquer forma jurídica que cumpram os critérios constantes da Recomendação n.º 96/280/CE, da Comissão Europeia, que desenvolvam actividades económicas e projectos de investimento que se integrem nas CAE (Rev. 2 - 1993) a seguir indicadas:
+a) Microempresas e PME de qualquer natureza e sob qualquer forma jurídica que cumpram os critérios constantes da Recomendação n.º [96/280/CE](http://data.europa.eu/eli/reco/1996/280/oj?locale=pt), da Comissão Europeia, que desenvolvam actividades económicas e projectos de investimento que se integrem nas CAE (Rev. 2 - 1993) a seguir indicadas:
 
 i) 50 comércio, manutenção e reparação de veículos automóveis e motociclos, comércio a retalho de combustíveis para veículos;
 
@@ -77,6 +77,8 @@ d) Unidade de acompanhamento e coordenação (UAC).
 4 - A UAC prevista na alínea d) do n.º 1 é de constituição facultativa e será promovida por iniciativa das estruturas associativas, tendo como objectivo essencial o acompanhamento e gestão do projecto de urbanismo comercial da área de intervenção.
 
 5 - A forma de constituição da UAC, bem como o acesso da mesma aos apoios previstos pelo URBCOM, será definida nos termos a aprovar por despacho do Ministro da Economia.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 > Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
@@ -624,45 +626,85 @@ ii) Quanto às estruturas associativas, será igualmente celebrado um protocolo 
 
 Sem prejuízo das competências legalmente atribuídas às Regiões Autónomas, as condições de execução dos apoios criados no desenvolvimento do presente Regulamento são fixadas mediante protocolo a celebrar entre os órgãos competentes dos respectivos Governos Regionais e o Ministério da Economia, de acordo com o estipulado no artigo 19.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio.
 
-## ANEXO I — Aplicações relevantes e percentagem máxima do investimento elegível no URBCOM
+## ANEXO I
 
-(artigo 23.º do Regulamento)
+Indicador para a determinação do valor máximo a considerar em suprimentos consolidados de acordo com o n.º 3 do artigo 13.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/05/126b01/00070016.pdf)
+Suprimentos =<(CPe + CPp)/3
+
+em que:
+
+CPe = capitais próprios da empresa pré-projecto;
+
+CPp = capitais próprios do projecto.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
 ## ANEXO II
 
-Critérios para a elegibilidade dos investimentos integrados em projectos de urbanismo comercial relativamente às candidaturas das empresas no URBCOM.
+Percentagem máxima da despesa elegível no URBCOM
 
-A medida da qualidade do projecto (QP) referida nos artigos 17.º e 23.º do URBCOM resulta da soma de duas perspectivas de análise que consideram o nível de atractividade (a(índice 1) e a(índice 2)) e de reestruturação funcional a introduzir nas empresas (b(índice 1) e b(índice 2)), de acordo com a seguinte fórmula:
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)
 
-QP = (a(índice 1) ou a(índice 2))+(b(índice 1) ou b(índice 2))
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.
 
-1.1 - Atractividade do estabelecimento:
+## ANEXO III
 
-a(índice 1)) Média atractividade - 30 pontos;
+Critérios para avaliação da qualidade dos projectos relativamente às candidaturas das empresas no URBCOM
 
-b(índice 2)) Forte atractividade - 50 pontos.
+A qualidade do projecto (QP), referida nos artigos 17.º e 23.º do URBCOM, é avaliada através da aplicação de dois critérios:
 
-Para este efeito considera-se:
+A - atractividade do estabelecimento;
 
-Projecto de média atractividade - o projecto que visa melhorar o grau de atractividade do estabelecimento através da modernização e ou optimização das estruturas físicas (interior e exterior) e da introdução de equipamentos por outros tecnologicamente mais avançados;
+B - reestruturação funcional da empresa.
 
-Projecto de forte atractividade - o projecto que visa potenciar o grau de atractividade através da adequação do visual do estabelecimento à imagem urbana da zona de intervenção, definida no estudo global, da modernização/aumento das estruturas físicas, da introdução de equipamentos inovadores e aumento da sua especialização com evidentes benefícios ao nível dos serviços prestados.
+O grau de atractividade do estabelecimento é avaliado através do peso relativo dos investimentos elegíveis nas seguintes áreas de impacte (a. i.), face ao investimento elegível total (IET):
 
-1.2 - Reestruturação funcional da empresa:
+Modernização/optimização das estruturas físicas;
 
-b(índice 1)) Média reestruturação funcional - 30 pontos;
+Equipamentos mais modernos;
 
-b(índice 2)) Forte reestruturação funcional - 50 pontos.
+Expansão das estruturas físicas;
 
-Para este efeito considera-se:
+Equipamentos inovadores;
 
-Projecto de média reestruturação funcional - o projecto que racionaliza a actividade da empresa através da introdução de melhorias nos processos de gestão e ou na qualidade e diversidade da oferta de serviços ao cliente;
+Visual do estabelecimento;
 
-Projecto de forte reestruturação funcional - o projecto que racionaliza a actividade da empresa, proporcionando uma maior competitividade, resultante, designadamente, da adequação do seu ramo de actividade/forma de venda à estrutura comercial específica definida no âmbito do estudo global, de melhorias acentuadas da gestão, do nível da qualidade, da especialização dos produtos e serviços prestados ao consumidor e da complementaridade em relação à oferta existente.
+Adequação do visual do estabelecimento à imagem urbana da área de intervenção, definida no estudo global.
 
-## ANEXO III — Normas de candidatura das câmaras municipais, nos termos do n.º 3 do artigo 7.º do URBCOM
+Projecto de forte atractividade - aquele que inclua investimentos em a. i. que contemplem o enquadramento da imagem do estabelecimento conforme definido no estudo global para a zona de intervenção em que se insere, bem como a introdução de equipamentos inovadores para o sector de actividade em causa.
+
+O grau de reestruturação funcional é avaliado através do peso relativo dos investimentos elegíveis nas seguintes a. i., face ao IET:
+
+Melhoria dos processos de gestão;
+
+Melhoria da qualidade da oferta;
+
+Diversificação/especialização da oferta da empresa;
+
+Complementaridade da oferta da empresa relativamente à existente na área de intervenção;
+
+Novos processos de gestão;
+
+Nível de qualidade acentuadamente elevado;
+
+Adequação do ramo de actividade conforme identificado no estudo global;
+
+Adequação da forma de venda à estrutura comercial definida no estudo global.
+
+Projecto de forte reestruturação funcional - investimentos em a. i. que visem melhorias acentuadas nas diversas áreas funcionais da empresa, na qualidade e na complementaridade da oferta e dos serviços prestados ao consumidor. Serão ainda qualificados como forte os projectos de empresas novas ou de empresas existentes que venham a desenvolver actividades identificadas no estudo global como falhas de mercado ou sobre as quais existe oferta insuficiente.
+
+Consoante a distribuição dos investimentos nas referidas áreas de impacte, poderão ocorrer as seguintes situações:
+
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)
+
+A QP será forte quando o valor do investimento elegível afecto às áreas de impacte consideradas de forte atractividade e ou forte reestruturação funcional (indicadores I(índice AF) e I(índice BF), respectivamente) for superior a 40% do IET, sendo necessário que o valor do investimento elegível, repartido pelas áreas de impacte do outro critério (indicadores I(índice A) e I(índice B)), seja representativo de, pelo menos, 10% do IET.
+
+Nos restantes casos, a QP será média.
+
+ANEXO IV
+
+Normas de candidatura das câmaras municipais, nos termos do n.º 3 do artigo 8.º do URBCOM
 
 1 - A apresentação e instrução das candidaturas dos municípios no âmbito do URBCOM é efectuada nos seguintes termos:
 
@@ -684,7 +726,7 @@ Projecto de forte reestruturação funcional - o projecto que racionaliza a acti
 
 1.3.6 - Limitação a 31 de Dezembro de 2007 da respectiva execução financeira, comprovada pelas datas das ordens de pagamento e respectivos recibos.
 
-1.4 - A CCR competente emite, sobre cada processo de candidatura, um parecer relativo ao cumprimento das condições mencionadas no n.º 1.3, donde conste necessariamente o montante de apoio a conceder face às despesas elegíveis, calculadas tendo em conta o parecer da DGCC referido no n.º 1.6 deste anexo.
+1.4 - A CCR competente emite, sobre cada processo de candidatura, um parecer relativo ao cumprimento das condições mencionadas no n.º 1.3, donde conste necessariamente o montante de apoio a conceder face às despesas elegíveis calculadas tendo em conta o parecer da DGCC referido no n.º 1.2 deste anexo.
 
 1.5 - As CCR devem remeter os processos de candidatura, devidamente instruídos com o respectivo parecer, à DGCC, no prazo máximo de 30 dias úteis a contar da data em que o processo esteja completo.
 
@@ -735,3 +777,5 @@ Projecto de forte reestruturação funcional - o projecto que racionaliza a acti
 6 - No quadro das suas competências, a fiscalização e controlo dos projectos, nas suas componentes material, financeira e contabilística, incluindo a verificação documental e física, são assegurados pelas CCR.
 
 7 - Complementarmente ao acompanhamento dos projectos, a DGCC e o gestor promoverão, por sua iniciativa e no âmbito das suas competências, actividades de controlo de projectos no local.
+
+> Alterado pelo/a [Portaria n.º 113-A/2002](https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706), publicado em 2002-02-07.

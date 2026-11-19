@@ -33,11 +33,11 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, 1.º: mudança de denominação do curso não é alteração textual do n.º 1.º do original (unidade 11 mantida). Os quadros do novo anexo só vêm em imagem: substituídas apenas as ligações para o documento.",
+  "nao_aplicavel": "Portaria 843/2004, 1.º: muda a denominação do curso para 'Desporto, variante de Desporto de Natureza e Turismo Activo', mas não dá nova redação ao n.º 1.º do original (que aprovou o plano do curso com a denominação de então); não se troca o texto da unidade 11 por inferência.",
   "instrucoes": [
-    "1.º: o curso passa a denominar-se 'Desporto, variante de Desporto de Natureza e Turismo Activo'; não é instrução textual sobre o n.º 1.º: não aplicada ao corpo.",
-    "2.º: nova redação do anexo; muda o título do curso (unidade 18) e as ligações dos quadros n.os 1 a 4 (unidades 23, 26, 29, 34); restantes unidades do anexo iguais.",
-    "3.º a 5.º: transição, aplicação e entrada em vigor do alterador: ignorados."
+    "Portaria 843/2004, 1.º: alteração de denominação do curso; não é instrução textual ao n.º 1.º (ver nao_aplicavel).",
+    "Portaria 843/2004, 2.º: o anexo passa a ter a redação do anexo do alterador: trocada a designação do curso (unidade 18) e as ligações dos quadros 1 a 4 (unidades 23, 26, 29, 34); o resto do anexo é igual.",
+    "Portaria 843/2004, 3.º a 5.º: transição, aplicação e entrada em vigor do próprio alterador; nada a mudar no original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

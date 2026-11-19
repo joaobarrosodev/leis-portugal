@@ -98,6 +98,40 @@ DE_FORA = {
     "pt:dre:570507:por",   # DL 418-B/98: a sociedade dura até à entidade da Casa da Música; art. 7.º-A remete para o n.º 3 eliminado
     # Ronda 113: igual ao original depois de desfazer a regra mal aplicada.
     "pt:dre:438049:por",
+    # Ronda 114 (bloco 3), pela segunda leitura: erro no texto que a verificação letra a letra não apanha.
+    "pt:dre:346486:por",   # DLR 12/93/M: falta a revogação do art. 11.º (Lei 110/2009, na redação da Lei 64-B/2011)
+    "pt:dre:453241:por",   # DL 329/83: falta a retificação de 31/8/1983 à al. b) do n.º 3 do art. 8.º
+    "pt:dre:455150:por",   # Portaria 828/2008: faltam as Decl. Ret. 58/2008 e 32-A/2010 (arts. 10.º e 16.º, anexo III)
+    "pt:dre:455670:por",   # Portaria 846/2008: falta a Decl. Ret. 59/2008 (anexo II)
+    "pt:dre:492985:por",   # Portaria 813/2009: falta a Decl. Ret. 67/2009 (art. 2.º, anexos I e II)
+    "pt:dre:674621:por",   # Portaria 842/91: tabela C sem a Decl. Ret. 141/92; tabelas só das épocas 1991-1993
+    "pt:dre:291436:por",   # Portaria 487/94: o DL 263/2002 revoga também os n.os 1.º e 2.º
+    "pt:dre:451605:por",   # Decreto do Governo 35/83: o DG 14/85 substitui o n.º 2) do art. 2.º inteiro
+    # Ronda 114, pela segunda leitura: o diploma deixou de vigorar (o texto está certo).
+    "pt:dre:1037778:por",  # Portaria 210/2007: revogada pela Portaria 506/2018
+    "pt:dre:395573:por",   # Portaria 1171/91: prova de acesso de 1992; o DL 354/88 foi revogado pelo DL 189/92
+    "pt:dre:663299:por",   # Portaria 64/87: o CRSS do Porto foi extinto pelo DL 260/93
+    "pt:dre:522225:por",   # Portaria 317-B/2000: substituída pelo novo Regulamento do URBCOM (Portaria 188/2004)
+    "pt:dre:459922:por",   # Portaria 22/2010: DL 144/2007 revogado pelo DL 158/2012; a CIFE tem composição legal (DL 232/2015)
+    "pt:dre:460206:por",   # DN 32/95: estatutos do IP Beja substituídos pelos do DN 47/2008 (RJIES)
+    "pt:dre:687582:por",   # Portaria 749/91: o Fundo de Pensões dos Militares foi extinto pelo DL 166-A/2013
+    "pt:dre:692404:por",   # Portaria 1411/95: substituída pela Portaria 797/99
+    "pt:dre:490019:por",   # Portaria 1020/2009: linha de apoio de 2010, candidaturas até 10/12/2010
+    "pt:dre:635585:por",   # RCM 169/95: o PDM foi revogado pelo Aviso 7886/2015, art. 84.º
+    "pt:dre:554384:por",   # DN 23-A/2000: regime do OE de 2000, substituído pelo DN 27-A/2001
+    "pt:dre:405925:por",   # Portaria 43/2000: a ESTNA foi extinta pelo DL 37/2008
+    # Ronda 114: dúvida sobre a vigência, sem ato expresso no acervo (fica de fora por regra).
+    "pt:dre:197516:por",   # Portaria 176/98: mestrado do DL 216/92, revogado pelo DL 74/2006 (adequação até 2009-2010)
+    "pt:dre:405324:por",   # Portaria 1546/2002: idem
+    "pt:dre:406366:por",   # Portaria 1205/97: licenciatura anterior a Bolonha; por coerência com as duas de cima
+    "pt:dre:194625:por",   # Portaria 769/97: idem
+    "pt:dre:417639:por",   # Portaria 711/87: plano de estudos substituído pela Deliberação 1112/2003
+    "pt:dre:663531:por",   # Portaria 705/91: concessão de caça de 21 anos acabou em 2012, sem renovação no acervo
+    "pt:dre:160371:por",   # Decreto 44598: draubaque de «milho ultramarino»
+    "pt:dre:1088946:por",  # DN 5/2012: ajuda única à seca de 2012; por coerência com a Portaria 1020/2009
+    "pt:dre:415444:por",   # Portaria 1307-B/93: regulamenta o DL 275-A/93, só mantida transitoriamente (DL 191/99, art. 50.º); como a 1411/95
+    # Ronda 114: igual ao original.
+    "pt:dre:300610:por",   # DL 78/2002
     # Verificado na ronda 6 e nunca aplicado; fora do lote da ronda 112 e sem a segunda leitura.
     "pt:dre:606505:por",
 }

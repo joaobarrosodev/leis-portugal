@@ -16,6 +16,9 @@ consolidacao:
   - id: pt:dre:670056:por
     title: Portaria n.º 228/2011
     publication_date: '2011-06-09'
+  - id: pt:dre:498497:por
+    title: Portaria n.º 253/2013
+    publication_date: '2013-08-07'
 ---
 
 # Portaria n.º 846/2008
@@ -526,7 +529,7 @@ Investimentos materiais
 
 22 - Instalações e equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração - quando não for exercida a opção de compra ou a duração desses contratos não for compatível com o prazo para apresentação do último pedido de pagamento.
 
-23 - Meios de transporte externo.
+23 - Meios de transporte externo, excepto os previstos no n.º 7.
 
 24 - Equipamento de escritório e outro mobiliário - fotocopiadoras, máquinas de escrever, máquinas de calcular, armários, cadeiras, sofás, cortinas, tapetes, etc., excepto os previstos nos n.os 132.1 e 132.7.
 
@@ -558,11 +561,13 @@ Outros investimentos materiais e imateriais
 
 36 - Investimentos excluídos definidos no artigo 245.º
 
-37 - Despesas realizadas antes da data de apresentação dos pedidos de apoio, excepto as referidas no n.º 17, as vedações referidas no n.º 12.1 e as encomendas (sinal) de bens móveis desde que a sua entrega não tenha lugar antes da data da entrega do pedido de apoio.
+37 - (Revogado.)
 
 38 - Bens cuja amortização a legislação fiscal permita ser efectuada num único ano. Considera-se que as caixas e paletes têm uma duração de vida superior a um ano, sendo elegíveis na condição de se tratar de uma primeira aquisição ou de uma aquisição suplementar proporcional ao aumento de capacidade projectada, não podendo ser vendidas conjuntamente com a mercadoria.
 
 39 - Despesas com pessoal, inerentes à execução da operação, quando esta seja efectuada por administração directa e sem recurso a meios humanos excepcionais e temporários.
+
+> Alterado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
 
 ## ANEXO III — Níveis máximos dos apoios
 

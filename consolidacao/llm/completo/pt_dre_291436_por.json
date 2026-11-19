@@ -39,12 +39,22 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": null,
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/152b00/35153517.pdf)",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Art. 2.º do DL 263/2002 exceptua da revogação o modelo do anexo I, que se mantém em vigor até à aprovação do modelo previsto na alínea h) do artigo 2.º do novo regulamento: revogação adiada para um facto futuro (despacho a aprovar), por isso o anexo I não foi tocado.",
   "instrucoes": [
-    "DL 263/2002, art. 2.º: revoga a Portaria n.º 487/94, salvo o modelo do anexo I (que não está no texto por artigos); os artigos 1.º a 6.º ficam (Revogado.).",
-    "DL 263/2002, art. 1.º e anexo: aprova um novo Regulamento autónomo; não é alteração textual do original, não aplicado ao texto."
+    "Alt. 1 (DL 263/2002), art. 2.º: revoga a Portaria 487/94, salvo o modelo do anexo I: artigos 1.º a 6.º ficam (Revogado.) e o corpo do anexo II fica (Revogado.) (o anexo II, modelo de relatório sumário, não está exceptuado; reparo confirmado).",
+    "Alt. 1, art. 2.º, parte final: o anexo I mantém-se até à aprovação de um novo modelo (facto futuro): não aplicado, ver nao_aplicavel.",
+    "Alt. 1, art. 1.º e anexo: aprova um novo Regulamento, que é texto do alterador e não instrução ao original: não copiado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

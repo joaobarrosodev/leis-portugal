@@ -45,13 +45,22 @@
     }
   ],
   "removidos": [],
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO — Em tamanho A5 com impressão na frente e verso",
+      "texto": "(Revogado.)",
+      "alterador": 1
+    }
+  ],
   "nao_aplicavel": null,
   "instrucoes": [
-    "DLR 2/2012/M, arts. 1.º e 2.º: nova redação dos arts. 2.º, 3.º e 4.º e revogação do n.º 2 do art. 4.º e do anexo; o texto atual já as reflete, nada a mudar.",
-    "DLR 29/2012/M, art. 6.º: revoga o DLR 16/2010/M na íntegra; arts. 1.º a 7.º ficam '(Revogado.)'.",
-    "DLR 29/2012/M, restantes artigos: regime próprio, sem alteração textual do original."
+    "DLR 2/2012/M, art. 1.º: nova redação do n.º 2 do art. 2.º, do art. 3.º e do art. 4.º (n.º 1 novo, n.º 2 revogado) — já aplicada pelo programa e correta; fica coberta pela revogação seguinte.",
+    "DLR 2/2012/M, art. 2.º, n.º 1: revoga o n.º 2 do art. 4.º e o anexo (modelo de receita médica). Anexo dado como revogado (o n.º 2 só mantém o modelo válido transitoriamente). Reparo do verificador confirmado.",
+    "DLR 29/2012/M, art. 6.º: revoga o DLR 16/2010/M por inteiro. Todos os artigos (1.º a 7.º) ficam '(Revogado.)'. A revogação de 'demais legislação ... que contrarie' é genérica e não se aplica a mais nada."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

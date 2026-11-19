@@ -21,13 +21,28 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "DL 16/91, art. 26.º, n.º 3, elimina os anexos I e II do DL 329/83, que não constam do texto atual por artigos; não há artigo a alterar.",
+  "titulos": [
+    {
+      "atual": "## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)",
+      "novo": null,
+      "alterador": 1
+    },
+    {
+      "atual": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15700/25132524.pdf)",
+      "novo": null,
+      "alterador": 1
+    }
+  ],
+  "anexos": [],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "DL 16/91, art. 26.º n.º 2: nova redação dos artigos 4.º, 20.º e 21.º (n.os 2 e 3 do 21.º mantidos) - aplicado",
-    "DL 16/91, art. 26.º n.º 3: eliminação dos anexos I e II - fora dos artigos, não aplicada",
-    "DL 16/91, art. 26.º n.º 1 e art. 27.º: alteram/revogam outros diplomas - ignorados"
+    "DL 16/91, art. 26.º, n.º 1: altera o DL 281/86 (outro diploma) — ignorado.",
+    "DL 16/91, art. 26.º, n.º 2: nova redação dos artigos 4.º (n.os 1 a 5), 20.º e 21.º (n.º 1; n.os 2 e 3 '...' mantidos) — aplicado.",
+    "DL 16/91, art. 26.º, n.º 3: são eliminados os anexos I e II — títulos ANEXO I e ANEXO II eliminados (novo null); os corpos estavam vazios. ANEXO III mantém-se.",
+    "DL 16/91, art. 27.º: revoga outros diplomas, não o original — ignorado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

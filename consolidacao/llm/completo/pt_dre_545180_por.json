@@ -27,15 +27,53 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "N.º 1.º (referências ao Programa Operacional da Economia entendidas como PRIME) e n.º 2.º (denominação abreviada DEMTEC): regras interpretativas, não alteram o texto. N.º 3.º (o anexo A passa a anexo, B a A, C a B, D a C, E a D): renumeração de anexos não aplicada às chaves nem às remissões do texto (mantidas 'ANEXO A::' e as referências a anexos B, C, D, E), por não haver instrução textual. N.º 5.º (nova redação do n.º 1 do anexo C, antigo anexo D): o anexo não consta do texto atual recebido.",
+  "titulos": [
+    {
+      "atual": "## ANEXO A",
+      "novo": "## ANEXO",
+      "alterador": 1
+    },
+    {
+      "atual": "## ANEXO B — Situação económica e financeira equilibrada",
+      "novo": "## ANEXO A — Situação económica e financeira equilibrada",
+      "alterador": 1
+    },
+    {
+      "atual": "## ANEXO C — Critérios de selecção e metodologia para determinação da valia",
+      "novo": "## ANEXO B — Critérios de selecção e metodologia para determinação da valia",
+      "alterador": 1
+    },
+    {
+      "atual": "## ANEXO D — Tipo de despesas elegíveis com divulgação e promoção",
+      "novo": "## ANEXO C — Tipo de despesas elegíveis com divulgação e promoção",
+      "alterador": 1
+    },
+    {
+      "atual": "## ANEXO E — Tipo de despesas elegíveis com a realização da acção de demonstração",
+      "novo": "## ANEXO D — Tipo de despesas elegíveis com a realização da acção de demonstração",
+      "alterador": 1
+    }
+  ],
+  "anexos": [
+    {
+      "titulo": "## ANEXO D — Tipo de despesas elegíveis com divulgação e promoção",
+      "texto": "1 - Para efeitos do disposto na alínea k) do n.º 1 do artigo 7.º do presente Regulamento, podem ser consideradas elegíveis as despesas com:\n\na) Brochuras;\n\nb) Cartazes;\n\nc) Elaboração e publicação de anúncios;\n\nd) Criação de sites na Internet;\n\ne) Elaboração de CD-ROM;\n\nf) Inscrição e aluguer de espaço em feiras;\n\ng) Transporte e seguro do equipamento construído no âmbito do projecto para apresentação em feiras.\n\n2 - Poderão ser comparticipadas outras despesas elegíveis além das previstas no número anterior de acordo com proposta do gestor do POE ao Ministro da Economia, fundamentada na sua adequação e razoabilidade dos montantes em causa para divulgar os resultados do projecto.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Portaria 902/2003, ponto 1.º (toda a referência ao Programa Operacional da Economia «deve ser entendida como sendo ao PRIME») e ponto 2.º (o sistema passa a usar a denominação abreviada DEMTEC): são regras de interpretação/denominação, sem instrução de substituição textual; o texto dos artigos fica como está (POE/gestor do POE), salvo onde a nova redação dada pelo ponto 4.º já diz PRIME (artigo 7.º, n.º 6). As remissões internas a anexos (artigo 5.º, alínea g), «anexo B»; artigo 7.º, alínea k) e n.º 2, «anexo D»/«anexo E»; artigo 9.º, «anexo C») não foram mudadas por nenhuma instrução e ficam como estão.",
   "instrucoes": [
-    "N.º 4.º, art. 6.º: n.º 2 al. b) e n.º 3 com nova redação (alínea c) em vez de b)); restante mantido.",
-    "N.º 4.º, art. 7.º: n.º 6 com nova redação (alínea k), PRIME); restante mantido.",
-    "N.º 4.º, art. 10.º: n.º 5 com nova redação (alínea c)); restante mantido.",
-    "N.º 4.º, art. 17.º: alínea c) com nova redação (copiada letra a letra, sem ponto e vírgula final); restante mantido.",
-    "N.os 1.º, 2.º, 3.º e 5.º: não aplicados (ver nao_aplicavel)."
+    "Ponto 1.º (referências ao POE entendidas como PRIME): regra interpretativa, não textual; em nao_aplicavel.",
+    "Ponto 2.º (denominação abreviada DEMTEC): sem alteração textual; em nao_aplicavel.",
+    "Ponto 3.º (renumeração dos anexos: A passa a anexo, B a A, C a B, D a C, E a D): aplicado em titulos, mudando só a designação e mantendo as epígrafes do texto atual (reparo do verificador confirmado). Chaves dos artigos mantidas como recebidas (ANEXO A::…).",
+    "Ponto 4.º, artigo 6.º: nova redação da alínea b) do n.º 2 e do n.º 3 (alínea c) do n.º 1 do artigo 3.º); resto do texto atual.",
+    "Ponto 4.º, artigo 7.º: nova redação do n.º 6 (alínea k), gestor do PRIME); resto do texto atual.",
+    "Ponto 4.º, artigo 10.º: nova redação do n.º 5; resto do texto atual.",
+    "Ponto 4.º, artigo 17.º: nova redação da alínea c); resto do texto atual.",
+    "Ponto 5.º: nova redação do n.º 1 do (novo) anexo C, que é o antigo anexo D (despesas com divulgação e promoção, para que remete a alínea k) do n.º 1 do artigo 7.º); alíneas a) a g) e n.º 2 do texto atual. Aplicado em anexos (reparo do verificador confirmado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

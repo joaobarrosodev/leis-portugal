@@ -10,6 +10,9 @@ consolidacao:
   - id: pt:dre:610216:por
     title: Decreto-Lei n.º 11/2010
     publication_date: '2010-02-12'
+  - id: pt:dre:502980:por
+    title: Decreto-Lei n.º 148/2013
+    publication_date: '2013-10-24'
 ---
 
 # Decreto-Lei n.º 237/2006
@@ -510,9 +513,9 @@ O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
 
-2 - Todos os SCE conformes com um tipo aprovado ao abrigo do presente decreto-lei devem ostentar uma marca de homologação CE.
+2 - Todos os SCE conformes com um tipo aprovado ao abrigo do presente decreto-lei devem apresentar uma marca de homologação CE.
 
-A marca de homologação CE consiste num rectângulo envolvendo a letra minúscula «e», seguida do número distintivo do Estado-membro que concedeu a homologação CE do componente:
+A marca de homologação CE consiste num rectângulo envolvendo a letra minúscula «e», seguida do número distintivo do Estado membro que concedeu a homologação CE do componente:
 
 1 - Alemanha;
 
@@ -542,6 +545,8 @@ A marca de homologação CE consiste num rectângulo envolvendo a letra minúscu
 
 18 - Dinamarca;
 
+19 - Roménia;
+
 20 - Polónia;
 
 21 - Portugal;
@@ -549,6 +554,8 @@ A marca de homologação CE consiste num rectângulo envolvendo a letra minúscu
 23 - Grécia;
 
 24 - Irlanda;
+
+25 - Croácia;
 
 26 - Eslovénia;
 
@@ -558,13 +565,15 @@ A marca de homologação CE consiste num rectângulo envolvendo a letra minúscu
 
 32 - Letónia;
 
+34 - Bulgária;
+
 36 - Lituânia;
 
-49 - Chipre:
+49 - Chipre;
 
 50 - Malta.
 
-Na proximidade do rectângulo, o «número de homologação de base» incluído na secção 4 do número de homologação referido no anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, com a última alteração introduzida pelo Decreto-Lei n.º 178/2005, de 28 de Outubro, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa do presente decreto-lei. O número sequencial da alteração e o número de homologação do componente que figuram no certificado serão separados por um asterisco. O número sequencial correspondente ao presente decreto-lei é 03.
+Na proximidade do rectângulo, o «número de homologação de base» incluído na secção 4 do número de homologação referido no anexo vii do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, alterado pelo Decreto-Lei n.º 135/2008, de 21 de Julho, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa do presente decreto-lei. O número sequencial da alteração e o número de homologação do componente que figuram no certificado são separados por um asterisco. O número sequencial correspondente ao presente decreto-lei é 03.
 
 3 - O ensaio com vista à determinação da imunidade do SCE representativo do tipo deve ser efectuado pelos métodos de acordo com a norma ISO 7637-2: DIS2002, conforme descrito no anexo XXI, com os níveis de ensaio apresentados no seguinte quadro:
 
@@ -581,6 +590,8 @@ Quadro 2
 Amplitude máxima de impulsos autorizada
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23900/83588380.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 148/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2013-502980), publicado em 2013-10-24.
 
 ## ANEXO II — Lista de normas referidas no presente decreto-lei
 
@@ -1070,31 +1081,9 @@ Apêndice ao certificado de homologação CE n.º ... relativo à homologação 
 
 ## ANEXO XIV — (referente aos n.os 10 e 11 do artigo 6.º)
 
-MODELO
+(Revogado.)
 
-[formato máximo: A4 (210 x 297 mm)]
-
-DE COMPROVAÇÃO RESPEITANTE AOS N.OS 10 E 11 DO ARTIGO 6.º
-
-Requerente:
-
-Descrição geral do produto: ...
-
-Informações apresentadas pelo requerente: ...
-
-Este SCE pode ser utilizado em qualquer tipo de veículo com as seguintes condições: ...
-
-Condições de instalação, se existirem: ...
-
-Confirmamos que o produto descrito supra não está relacionado com imunidade de acordo com a Directiva [72/245/CE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt)[72/245/CEE](https://data.europa.eu/eli/dir/1972/245/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva [2005/83/CE](https://data.europa.eu/eli/dir/2005/83/oj?locale=pt). Não são exigidos nenhuns ensaios referentes à imunidade conforme definido no presente decreto-lei.
-
-Serviço técnico responsável pela avaliação: ...
-
-Local: ...
-
-Data: ...
-
-Assinatura: ...
+> Alterado pelo/a [Decreto-Lei n.º 11/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2010-610216), publicado em 2010-02-12.
 
 ## ANEXO XV — (referente aos artigos 17.º e 18.º)
 

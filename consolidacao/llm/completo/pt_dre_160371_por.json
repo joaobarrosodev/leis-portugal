@@ -1,0 +1,22 @@
+{
+  "id": "pt:dre:160371:por",
+  "artigos": [
+    {
+      "chave": "1.º",
+      "epigrafe": "",
+      "texto": "É permitida a importação sob regime de draubaque de milho ultramarino destinado ao fabrico de sêmolas alimentares ou de farinhas para gados.",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Artigo único do Decreto n.º 44679: eliminado o § único do artigo 1.º; o corpo do artigo mantém-se (reparo confirmado: o programa tinha revogado o artigo inteiro)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

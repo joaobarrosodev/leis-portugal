@@ -39,11 +39,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1 só prorroga, para o ano de 1987, os prazos dos n.os 8.º e 9.º, sem alterar o texto. Alterador 3 é repetição do alterador 2 (mesma Portaria n.º 762/89), já aplicada.",
+  "nao_aplicavel": "Portaria 613-A/87, n.os 1.º e 2.º: prorrogam os prazos dos n.os 8.º e 9.º só para o ano de 1987 (até 31 de Julho e até 15 de Setembro); alteração que vale só para um ano, não altera o texto.",
   "instrucoes": [
-    "Alterador 1, 1.º e 2.º: prorrogação dos prazos dos n.os 8.º e 9.º só para 1987 - não textual, não aplicada",
-    "Alterador 2, 1.º: nova redação dos n.os 6.º (sem alíneas; unidades 34-37 substituídas), 8.º, 9.º, 10.º, 12.º e 13.º - aplicada",
-    "Alterador 3: duplicado do alterador 2 - nada a acrescentar"
+    "Alterador 1 (Portaria 613-A/87): prorrogação dos prazos dos n.os 8.º e 9.º só para 1987: transitória, em nao_aplicavel (reparo do verificador confirmado).",
+    "Alterador 2 (Portaria 762/89), n.º 1.º: nova redação dos n.os 6.º, 8.º, 9.º, 10.º, 12.º e 13.º. O novo n.º 6.º não tem alíneas nem a referência aos anexos I a III: substituídas as unidades 34 a 37 (corpo e alíneas a) a c)). N.os 8.º, 9.º, 10.º, 12.º e 13.º: unidades 39, 40, 41, 43 e 44 substituídas, letra a letra.",
+    "Alterador 2, n.º 2.º: aplicável a partir da campanha de 1990-1991, data já passada; as novas redações aplicam-se.",
+    "Alterador 3: é o mesmo texto da Portaria 762/89 (repetido); as mesmas instruções, já aplicadas com o alterador 2."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

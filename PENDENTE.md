@@ -114,6 +114,11 @@ Os números estão no `rag/README.md`, «Tipos novos».
   - A perda só com BM25 foi medida outra vez a 18/11: 10 respostas certas em 1.298 (4 reais no
     1.º lugar). A aplicação usa sempre o reranker, onde a perda não aparece, por isso fica como está,
     sem tabela de pesquisa à parte (mudaria o formato do índice).
+- **Candidatos ao reranker e pesquisa semântica (19/11):** nas 1.298 perguntas, 15, 30 e 50 candidatos dão
+  617, 614 e 608 certas, e a semântica 611 contra 613. Tudo dentro do ruído do reranker: a nota de um texto muda até 0,6
+  com os outros textos do mesmo lote (o modelo é int8), e duas medições da mesma configuração diferem em 8 perguntas.
+  **Fica 30 candidatos e a semântica desligada.** Antes de decidir limiares (como o de 3,35 das perguntas por artigo),
+  tornar as notas estáveis. Ver «Candidatos ao reranker e pesquisa semântica» no `rag/README.md`.
 - **CNPD:** não está no índice nem no RAG. O TC chega às respostas pelo `normas-julgadas.jsonl`.
 - **Modo sem IA (17/11):** mostra os 3 artigos mais prováveis, cada um com o âmbito («Função
   pública», «Regime geral»…). Numa pergunta que não fala da função pública, a lei geral passa à
@@ -138,8 +143,9 @@ para uma pasta fixa. Entram as 100 compostas e a premissa errada, e, se houver t
   - `ARTIGOS_NO_CONTEXTO`;
   - o `k=10` do `avaliar`, do `perguntar` e do `web`;
   - o `[:8]` fixo do `passo_llm importar`.
-- **À parte, para a pesquisa:** subir o `maximo` do reranker. Pode recuperar até 14 das 21 falhas, mas muda a
-  pesquisa de todos os tipos e torna-a mais lenta.
+- **À parte, para a pesquisa:** ~~subir o `maximo` do reranker~~. Medido a 19/11: com 50 candidatos, as compostas com
+  os artigos nos 10 primeiros vão de 64 para 61, e as certas no total descem de 614 para 608. Fica 30 (`rag/README.md`,
+  «Candidatos ao reranker e pesquisa semântica»).
 
 ## 4. OCR da CNPD: feito (15/11)
 

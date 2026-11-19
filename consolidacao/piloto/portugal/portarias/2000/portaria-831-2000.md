@@ -105,7 +105,9 @@ A autorização e o reconhecimento operados pelo presente diploma não prejudica
 
 Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 28 de Agosto de 2000.
 
-## ANEXO — Universidade Fernando Pessoa
+## ANEXO — ([Portaria n.º 831/2000](https://diariodarepublica.pt/dr/detalhe/portaria/831-2000-558067), de 22 de Setembro - alteração)
+
+Universidade Fernando Pessoa
 
 Curso de Sistemas de Informação e Multimédia
 

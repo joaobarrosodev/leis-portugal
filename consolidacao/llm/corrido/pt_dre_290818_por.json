@@ -15,11 +15,12 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: diz que o n.º 6.º passa a obrigar a manter apenas um guarda florestal auxiliar dotado de meio de transporte, mas não dá nova redação do n.º 6.º; alteração não textual, não aplicada.",
+  "nao_aplicavel": "Portaria 519/97, 2.º: o n.º 6.º passa, quanto ao número de guardas, a obrigar a manter apenas um guarda florestal auxiliar dotado de meio de transporte; não é dada nova redação ao n.º 6.º (alteração não textual) e o texto resultante não está letra a letra em nenhuma fonte: não aplicada. A nova planta só vem em imagem.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 1.º -> substituída a unidade 8.",
-    "Alterador 1, 1.º: aditado o n.º 1.º-A -> inserido depois da unidade 8.",
-    "Alterador 1, 2.º: n.º 6.º passa a obrigar a um guarda florestal auxiliar, sem nova redação -> não aplicado (nao_aplicavel)."
+    "Portaria 519/97, 1.º: nova redação do n.º 1.º (área de 1997 ha): unidade 8 substituída, mantendo a numeração 1.º.",
+    "Portaria 519/97, 1.º: aditado o n.º 1.º-A: inserido a seguir à unidade 8.",
+    "Portaria 519/97, 2.º: n.º 6.º passa a obrigar a um guarda florestal auxiliar: sem nova redação, em nao_aplicavel (reparo verificado: a instrução existe, mas não é textual).",
+    "Portaria 519/97, 3.º: entrada em vigor: sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

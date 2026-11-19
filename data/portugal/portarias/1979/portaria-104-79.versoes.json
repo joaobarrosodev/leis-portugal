@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:383673:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-03-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "09a81dd5b02b7cf2"
+   ]
+  },
+  {
+   "date": "1980-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:381276:por",
+     "title": "Portaria n.º 302/79",
+     "published": "1979-06-28",
+     "dre_path": "/dr/detalhe/portaria/302-1979-381276"
+    },
+    {
+     "id": "pt:dre:692813:por",
+     "title": "Portaria n.º 40/80",
+     "published": "1980-02-14",
+     "dre_path": "/dr/detalhe/portaria/40-1980-692813"
+    }
+   ],
+   "changes": [
+    "Altera Artigo unidades 10-15",
+    "Adita Artigo depois da unidade 15",
+    "Adita Artigo depois da unidade 15"
+   ],
+   "fragments": [
+    "b383010886e553fd"
+   ]
+  }
+ ],
+ "fragments": {
+  "09a81dd5b02b7cf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Março\n\nNa sequência do disposto na alínea h) do n.º 1 do artigo 23.º do [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro, e no n.º 1 do artigo 4.º do [Decreto-Lei n.º 524/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1977-280230), de 21 de Dezembro, e considerando a necessidade de promover o exacto conhecimento dos meios precisos para uma mais eficaz gestão dos recursos empregues na logística do Exército;\n\nConsiderando ainda o disposto na [Portaria n.º 101/78](https://diariodarepublica.pt/dr/detalhe/portaria/101-1978-446539), de 21 de Fevereiro, e constatando-se a premência da existência de um órgão executivo capaz de desenvolver o conjunto de actividades para a já referida gestão:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército, o seguinte:\n\n1 - É criado, a partir de 1 de Janeiro de 1979, o Centro de Gestão Financeira da Logística.\n\n2 - Ao Centro de Gestão Financeira da Logística, na dependência directa do quartel-mestre-general, compete, numa primeira fase:\n\na) Elaborar as propostas orçamentais no âmbito da logística;\n\nb) Promover a gestão orçamental e económica das verbas postas à disposição do departamento respectivo;\n\nc) Organizar e prestar contas de todas as despesas realizadas no âmbito da função logística;\n\nd) Executar gradualmente um sistema de contabilidade geral, orçamental e analítica, segundo métodos racionais e científicos, de modo a assegurar desde já a informação de gestão necessária;\n\ne) Apoiar tecnicamente, em termos de gestão económico-financeira, os órgãos da sua área e fornecer, com oportunidade, informações que contribuam para uma mais eficaz e esclarecida acção de comando, direcção ou chefia;\n\nf) Prestar, de acordo com as normas fixadas superiormente, informações de gestão, através de relatórios de actividades financeiras, complementados com mapas de gestão, estatísticas e outros documentos julgados convenientes;\n\ng) Exercer superintendência técnica sobre os órgãos das unidades, estabelecimentos e outros da sua área de apoio;\n\nh) Desenvolver outras actividades que no campo administrativo-financeiro lhe venham a ser superiormente determinadas.\n\nEstado-Maior do Exército, 16 de Fevereiro de 1979. - O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general."
+  },
+  "b383010886e553fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": "1980-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 40/80](https://diariodarepublica.pt/dr/detalhe/portaria/40-1980-692813), publicado em 1980-02-14.",
+    "Aditado pelo/a [Portaria n.º 302/79](https://diariodarepublica.pt/dr/detalhe/portaria/302-1979-381276), publicado em 1979-06-28.",
+    "Aditado pelo/a [Portaria n.º 40/80](https://diariodarepublica.pt/dr/detalhe/portaria/40-1980-692813), publicado em 1980-02-14."
+   ],
+   "markdown": "de 8 de Março\n\nNa sequência do disposto na alínea h) do n.º 1 do artigo 23.º do [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro, e no n.º 1 do artigo 4.º do [Decreto-Lei n.º 524/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1977-280230), de 21 de Dezembro, e considerando a necessidade de promover o exacto conhecimento dos meios precisos para uma mais eficaz gestão dos recursos empregues na logística do Exército;\n\nConsiderando ainda o disposto na [Portaria n.º 101/78](https://diariodarepublica.pt/dr/detalhe/portaria/101-1978-446539), de 21 de Fevereiro, e constatando-se a premência da existência de um órgão executivo capaz de desenvolver o conjunto de actividades para a já referida gestão:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército, o seguinte:\n\n1 - É criado, a partir de 1 de Janeiro de 1979, o Centro de Gestão Financeira da Logística.\n\n2 - Ao Centro de Gestão Financeira da Logística, na dependência directa do quartel-mestre-general, compete, numa primeira fase:\n\na) Elaborar as propostas orçamentais no âmbito da logística;\n\nb) Promover a gestão orçamental e económica das verbas postas à disposição do departamento respectivo;\n\nc) Executar gradualmente um sistema de contabilidade geral, orçamental e analítica, segundo métodos racionais e científicos, de modo a assegurar desde já a informação de gestão necessária;\n\nd) Apoiar tecnicamente, em termos de gestão económico-financeira, os órgãos da sua área e fornecer, com oportunidade, informações que contribuam para uma mais eficaz e esclarecida acção de comando, direcção ou chefia;\n\ne) Prestar, de acordo com as normas fixadas superiormente, informações de gestão, através de relatórios de actividades financeiras, complementados com mapas de gestão, estatísticas e outros documentos julgados convenientes;\n\nf) Exercer superintendência técnica sobre os órgãos das unidades, estabelecimentos e outros da sua área de apoio;\n\ng) Desenvolver outras actividades que no campo administrativo-financeiro lhe venham a ser superiormente determinadas;\n\nh) A verificação das contas das unidades, estabelecimentos e outros órgãos prevista nos artigos 140.º e seguintes do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, dentro da sua área de apoio;\n\ni) Fiscalizar as actividades desenvolvidas no âmbito da gestão financeira da sua área de apoio.\n\n> Alterado pelo/a [Portaria n.º 40/80](https://diariodarepublica.pt/dr/detalhe/portaria/40-1980-692813), publicado em 1980-02-14.\n\n3 - O QO provisório do Centro de Gestão Financeira da Logística será oportunamente difundido por despacho do CEME.\n\n> Aditado pelo/a [Portaria n.º 302/79](https://diariodarepublica.pt/dr/detalhe/portaria/302-1979-381276), publicado em 1979-06-28.\n\n3 - O Centro de Gestão Financeira da Logística compreende:\n\na) Chefe do Centro de Gestão;\n\nb) Adjunto-inspector;\n\nc) Secção de Gestão e Análise Económico-Orçamental;\n\nd) Secção de Gestão Financeira e Contabilidade;\n\ne) Secção de Verificação de Contas;\n\nf) Secção de Expediente e Arquivo.\n\n4 - As datas em que o CGF/Logística passa a desempenhar as atribuições referidas na alínea h) e i) do n.º 1, bem como a definição das unidades, estabelecimentos e outros órgãos ou instalações que ficam integrados na área de apoio do mesmo Centro, serão fixadas por despacho do CEME.\n\n> Aditado pelo/a [Portaria n.º 40/80](https://diariodarepublica.pt/dr/detalhe/portaria/40-1980-692813), publicado em 1980-02-14.\n\nEstado-Maior do Exército, 16 de Fevereiro de 1979. - O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general."
+  }
+ }
+}

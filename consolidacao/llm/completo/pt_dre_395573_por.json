@@ -16,13 +16,21 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "A nova redação do anexo II (Prazos) da Portaria n.º 341/92 não foi aplicada: o anexo II existe no texto atual só como título de divisão, sem artigo onde pôr o texto.",
+  "anexos": [
+    {
+      "titulo": "## ANEXO II — Prazos",
+      "texto": "1 - Época normal:\n\n1.1 - Inscrição - 18 de Novembro a 6 de Dezembro de 1991;\n\n1.2 - 1.ª chamada - 3 de Fevereiro de 1992;\n\n1.3 - 2.ª chamada - 17 de Fevereiro de 1992;\n\n1.4 - 3.ª chamada - 8 de Maio de 1992.\n\n2 - Época especial:\n\n2.1 - Inscrição - 22 a 30 de Junho de 1992;\n\n2.2 - 1.ª chamada - 3 de Agosto de 1992;\n\n2.3 - 2.ª chamada - 7 de Agosto de 1992.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Alterador 1 n.º 1.º: nova redação do art. 3.º (aditado n.º 1-A, n.os 2 e 3 alterados) aplicada.",
-    "Alterador 1 n.º 1.º: nova redação do art. 31.º (epígrafe e n.os 1 e 2) aplicada.",
-    "Alterador 1 n.º 1.º: nova redação do anexo II (prazos) não aplicada, anexo sem artigos no texto atual."
+    "1.º da Portaria 341/92: nova redação do artigo 3.º (com o n.º 1-A) — aplicada.",
+    "1.º: nova redação e epígrafe do artigo 31.º — aplicada.",
+    "1.º: nova redação do anexo II (Prazos), com o ponto 1.4 e a época especial desdobrada — corpo do anexo substituído (reparo confirmado)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

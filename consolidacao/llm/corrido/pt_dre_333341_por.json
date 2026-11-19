@@ -87,17 +87,17 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: transfere para a DGF as competências da EFN e manda ler as referências à EFN como feitas à DGF; é uma regra de leitura, não uma alteração textual, e o texto fica com EFN.",
+  "nao_aplicavel": "Portaria n.º 1116/90, 2.º: transfere para a DGF as competências da EFN e manda ler as referências à EFN como feitas à DGF; é regra de interpretação, sem substituição textual, por isso as menções à EFN (n.os 8.º 2.5), 18.º e), 23.º 2) e 27.º) ficam como estão.",
   "instrucoes": [
-    "Alt. 1, 1.º a): aditado o n.º 13.º; inserido depois da unidade 106 (fim do n.º 12.º).",
-    "Alt. 1, 1.º b): nova redação do n.º 25.º; substituída a unidade 155.",
-    "Alt. 1, 2.º: transferência EFN para DGF por remissão; não aplicada ao texto (nao_aplicavel).",
-    "Alt. 2, 1.º, n.º 8.º: alínea 1) desdobrada em 1.1) e 1.2) (unidade 29); 2) a 2.6) mantidas; aditada 3) depois da unidade 36.",
-    "Alt. 2, 1.º, n.º 9.º: nova redação de 1) com 1.1) e 1.2) e de 2) (unidades 38-39); a) a d) mantidas; aditadas e) e 3) depois da unidade 43.",
-    "Alt. 2, 1.º, n.º 10.º: aditada 1.1) depois da unidade 45; aditada c) em 2) (depois da 51) e em 4) (depois da 55); aditada 6) depois da unidade 56.",
-    "Alt. 2, 1.º, n.º 11.º: nova redação das alíneas b) de 1.1), 3.1), 3.2) e 3.3) (unidades 61, 70, 73, 76).",
-    "Alt. 2, 1.º, n.º 17.º: nova redação (unidade 112).",
-    "Alt. 2, 2.º: prazo de candidatura em 1992; norma própria, não altera o texto."
+    "Alterador 1 (Portaria n.º 1116/90), 1.º a): introduzido o n.º 13.º — inserido depois da unidade 106 (fim do 12.º).",
+    "Alterador 1, 1.º b): nova redação do n.º 25.º — substituída a unidade 155.",
+    "Alterador 1, 2.º: referências à EFN lidas como DGF — regra interpretativa; em nao_aplicavel.",
+    "Alterador 2 (Portaria n.º 1027/92), 1.º, n.º 8.º: 1) passa a 1) Serviços oficiais: com 1.1) e 1.2) (unidade 29); 2) a 2.6) mantidos; aditado 3) Associações do sector. depois da unidade 36.",
+    "Alterador 2, 1.º, n.º 9.º: 1) e 2) com nova redação e 1.1) e 1.2) novas (unidades 38 e 39); a) a d) mantidas; aditadas e) e 3) depois da unidade 43.",
+    "Alterador 2, 1.º, n.º 10.º: 1) mantido e aditada 1.1) Serviços oficiais, excepto a DGF: depois da unidade 45; aditadas c) Instalação de laboratórios; em 2) (depois da 51) e em 4) (depois da 55); aditado 6) depois da unidade 56.",
+    "Alterador 2, 1.º, n.º 11.º: novas redações das alíneas b) de 1.1), 3.1), 3.2) e 3.3) — unidades 61, 70, 73 e 76; o resto mantido ([...]).",
+    "Alterador 2, 1.º, n.º 17.º: nova redação — unidade 112.",
+    "Alterador 2, 2.º: prazo de candidatura em 1992 — disposição própria, sem instrução ao original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

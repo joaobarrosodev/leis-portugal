@@ -15,13 +15,13 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "Alterador 1, n.º 4.º: substitui inscrições nos desenhos III e IV anexos, que só existem em imagem; não aplicado.",
+  "nao_aplicavel": "Portaria n.º 545/88, segundo 4.º: substitui inscrições nos desenhos III e IV anexos (imagens), não há texto correspondente no texto do original, por isso não se aplica ao texto.",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: elimina o n.º 2.2 (unidade 63); absorvido pela nova redação do n.º 2.º.",
-    "Alterador 1, n.º 2.º: nova redação do n.º 2.º; a epígrafe '2.º Livranças:' (unidade 45) fica igual e as unidades 46 a 63 são substituídas pelo novo texto.",
-    "Alterador 1, n.º 3.º: adita o n.º 4.º; inserido após a unidade 64.",
-    "Alterador 1, n.º 4.º: altera inscrições nos desenhos anexos (imagem); não aplicado.",
-    "Alterador 1, n.os 5.º a 7.º: aprovam novos modelos e regras próprias do alterador, sem alterar o texto do original; ignorados."
+    "Alterador 1, 1.º: eliminado o n.º 2.2 (unidade 63) — fica absorvido pela nova redação do n.º 2.º, que substitui as unidades 46 a 63.",
+    "Alterador 1, 2.º: nova redação do n.º 2.º — mantida a unidade 45 (2.º Livranças:, igual) e substituídas as unidades 46 a 63 pelo texto dado (2.1 a 2.6).",
+    "Alterador 1, 3.º: aditado o n.º 4.º — inserido depois da unidade 64 (3.º).",
+    "Alterador 1, segundo 4.º: substituição de inscrições nos desenhos III e IV anexos — só nas imagens; em nao_aplicavel.",
+    "Alterador 1, 5.º a 7.º: aprovam modelos novos de livrança e de letra para computador e regulam o campo outras referências — disposições próprias da Portaria n.º 545/88, sem instrução de aditamento ao original; nada aplicado."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

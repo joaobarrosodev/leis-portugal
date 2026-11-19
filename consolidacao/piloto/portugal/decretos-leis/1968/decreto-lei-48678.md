@@ -3,7 +3,8 @@ id: pt:dre:263553:por
 title: Decreto-Lei n.º 48678
 original: data/portugal/decretos-leis/1968/decreto-lei-48678.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:681792:por
@@ -59,7 +60,9 @@ Os bancos ou casas bancárias que tiverem visado cheques, nos termos da parte fi
 
 ###### Artigo 5.º
 
-Os cheques e vales de correio destinados a pagamentos nas tesourarias das câmaras municipais serão enviados, sob registo, acompanhados de um sobrescrito devidamente endereçado, para devolução imediata, como correspondência oficial, dos respectivos recibos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 176/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1972-681792), publicado em 1972-05-25.
 
 ###### Artigo 6.º
 

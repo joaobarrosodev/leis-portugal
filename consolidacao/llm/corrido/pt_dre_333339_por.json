@@ -15,11 +15,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.º 2.º: 'É revogado o n.º 2.º da Portaria n.º 210/90' contradiz o n.º 1.º do mesmo diploma, que dá nova redação a esse mesmo n.º 2.º; o alvo é ambíguo (provável lapso), não aplicado.",
+  "nao_aplicavel": "Portaria n.º 367/90, 2.º: revoga o n.º 2.º da Portaria n.º 210/90, o mesmo número a que o 1.º da mesma portaria acabou de dar nova redação; as duas instruções contradizem-se e o número visado pela revogação é duvidoso (provável lapso), por isso a revogação não se aplica com segurança e fica a nova redação do 1.º.",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: nova redação do n.º 2.º; substituída a unidade 10.",
-    "Alterador 1, n.º 2.º: revogação do n.º 2.º contraditória com o n.º 1.º; não aplicada (ver nao_aplicavel).",
-    "Alterador 2, n.º 6.º: revoga o n.º 1.º (unidades 6 a 9, incluindo a redação que dava ao n.º 3.º da Portaria n.º 242/89); passa a (Revogado.). A revogação da Portaria n.º 201/91 não é do original."
+    "Alterador 1 (Portaria n.º 367/90), 1.º: nova redação do n.º 2.º — substituída a unidade 10.",
+    "Alterador 1, 2.º: revogação do n.º 2.º — contraditória com o 1.º; em nao_aplicavel.",
+    "Alterador 1, 3.º: produção de efeitos da portaria alteradora — não altera o original.",
+    "Alterador 2 (Portaria n.º 83/92), 6.º: revogado o n.º 1.º — unidades 6 a 9 (o 1.º e a redação que dava ao n.º 3.º da Portaria n.º 242/89) passam a 1.º - (Revogado.); a revogação da Portaria n.º 201/91 é de outro diploma; os n.os 1.º a 5.º são disposições próprias, sem instrução ao original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

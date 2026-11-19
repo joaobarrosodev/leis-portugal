@@ -1,18 +1,12 @@
 {
   "id": "pt:dre:332185:por",
-  "substituicoes": [
-    {
-      "de": 7,
-      "ate": 7,
-      "texto": "b) (Revogada.)",
-      "alterador": 1
-    }
-  ],
+  "substituicoes": [],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Portaria 219/99, 4.º: revogação da Portaria 243/90 'na parte relativa à emissão de certificado do registo criminal': revogação parcial delimitada por matéria, não por unidade expressa do texto; não aplicada (a alínea b) do n.º 1.º mantém-se). Os n.os 1.º a 3.º da Portaria 219/99 fixam taxas e forma de pagamento em norma própria, sem nova redação do original.",
   "instrucoes": [
-    "Alterador 1 (Portaria n.º 219/99), n.º 4.º: revoga o original na parte relativa à emissão de certificado do registo criminal — a única parte é a alínea b) do n.º 1.º (passagem de certificado de registo criminal), que passa a 'b) (Revogada.)'.",
-    "Alterador 1, n.os 1.º a 3.º e 5.º: normas próprias (novas taxas, forma de pagamento, entrada em vigor), não alteram o texto do original — nada a fazer."
+    "Portaria 219/99, 1.º a 3.º: novas taxas e forma de pagamento: normas próprias, sem efeito no texto do original.",
+    "Portaria 219/99, 4.º: revogação 'na parte relativa à emissão de certificado do registo criminal': em nao_aplicavel; o reparo confirma-se e a alínea b) fica como no original.",
+    "Portaria 219/99, 5.º: entrada em vigor: sem efeito no texto."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

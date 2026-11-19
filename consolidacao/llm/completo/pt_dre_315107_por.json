@@ -1,0 +1,17 @@
+{
+  "id": "pt:dre:315107:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1 (Portaria n.º 1103-B/2001), n.º 8.º: no anexo (a que se refere o n.º 2 do artigo 8.º), o valor da coluna do primeiro ano para agentes com formação superior nos serviços de substituição passa a (euro) 8800. A tabela do anexo só existe em imagem no texto atual («ver tabela no documento original») e o alterador não reproduz o quadro, pelo que a alteração não se pode aplicar ao texto; o corpo do anexo fica como está.",
+  "instrucoes": [
+    "Alterador 1, n.os 1.º a 6.º e 9.º a 12.º: alterações a outros regulamentos da medida AGRIS (Portarias n.os 1109-E/2000, 1109-G/2000, 1109-C/2000, 1109-H/2000, 52/2001, 51/2001, 49/2001, 1109-F/2000, 1109-I/2000 e 48/2001) — ignoradas.",
+    "Alterador 1, n.º 7.º: artigo 5.º (aditada a alínea d)), artigo 6.º (n.º 1, alínea f)), artigo 7.º (n.º 5), artigo 8.º (n.º 2) e artigo 10.º (n.os 1 e 2) do Regulamento — o texto atual destes artigos, já alterado pelo programa, coincide com a nova redação; nada a mudar.",
+    "Alterador 1, n.º 8.º: valor de (euro) 8800 na tabela do anexo — tabela só em imagem; não aplicado, em nao_aplicavel (reparo do verificador não se pode seguir)."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [],
+  "avisos": []
+}

@@ -3,7 +3,8 @@ id: pt:dre:554384:por
 title: Despacho Normativo n.º 23-A/2000
 original: data/portugal/despachos-normativos/2000/despacho-normativo-23-a-2000.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:301020:por
@@ -69,19 +70,21 @@ g) Indicação de outros elementos considerados relevantes e dos contactos para 
 
 ###### Artigo 5.º
 
-1 - (Igual.)
+1 - A praça inicia-se com a abertura das propostas recebidas, se existirem, havendo lugar a licitação a partir da proposta de valor mais elevado, ou, se não existirem, a partir do valor base de licitação anunciada.
 
-2 - (Igual.)
+2 - Podem intervir na praça os interessados e os eventuais titulares de direitos de preferência, ou os seus representantes, devidamente identificados e, no caso de pessoas colectivas, habilitados com poderes bastantes para arrematar.
 
-3 - (Igual.)
+3 - O valor do lanço mínimo é fixado pela comissão, em montante não inferior a 2% da base de licitação.
 
-4 - (Igual.)
+4 - A licitação termina quando o presidente da comissão tiver anunciado por três vezes o lanço mais elevado e este não for coberto.
 
 5 - Terminada a licitação, o interessado que apresentou a proposta de valor mais elevado a partir da qual teve início a licitação pode cobrir o último lanço com o mínimo de 1/20 do valor do lanço estabelecido pela comissão, nos termos do n.º 3 deste artigo, arredondado para as unidades de milhares de escudos superiores.
 
-6 - (Igual.)
+6 - Se houver mais de uma proposta nas condições referidas no número anterior, reabre-se a licitação entre os respectivos proponentes.
 
-7 - (Igual.)
+7 - Em seguida, há lugar ao exercício de eventuais direitos de preferência e, apresentando-se a preferir mais de uma pessoa com igual direito, reabre-se a licitação entre elas.
+
+> Alterado pelo/a [Despacho Normativo n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2000-301020), publicado em 2000-07-06.
 
 > Alterado pelo/a [Despacho Normativo n.º 29/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-2000-301020), publicado em 2000-07-06.
 

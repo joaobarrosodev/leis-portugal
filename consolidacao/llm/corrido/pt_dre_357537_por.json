@@ -9,10 +9,10 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1, n.º 1.º: prorrogação dos prazos dos n.os 5 a 9 só para a campanha 1988-1989, sem nova redacção desses números (alteração não textual); não aplicada ao texto.",
+  "nao_aplicavel": "Portaria n.º 810/88, 1.º: prorroga os prazos dos n.os 5.º a 9.º só para a campanha 1988-1989; alteração temporária, não aplicada ao texto.",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: prorrogação transitória de prazos para 1988-1989 — não textual, não aplicada.",
-    "Alterador 1, n.º 2.º: nova redacção do n.º 3 — substituída a unidade 8 com o texto do alterador."
+    "Port. 810/88 1.º: prazos só para 1988-1989; em nao_aplicavel (reparo confirmado).",
+    "Port. 810/88 2.º: nova redação do n.º 3.º; substituída a unidade 8."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

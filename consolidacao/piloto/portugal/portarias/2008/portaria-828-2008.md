@@ -19,6 +19,9 @@ consolidacao:
   - id: pt:dre:601535:por
     title: Portaria n.º 147/2009
     publication_date: '2009-02-06'
+  - id: pt:dre:498497:por
+    title: Portaria n.º 253/2013
+    publication_date: '2013-08-07'
 ---
 
 # Portaria n.º 828/2008
@@ -171,7 +174,7 @@ d) A manutenção e recuperação dos montados de azinho notáveis que se insira
 
 e) Qualquer investimento a realizar em espaços florestais pertencentes ao património do Estado ou a empresas cujo capital seja participado pelo Estado em 50 % ou mais.
 
-f) Qualquer investimento a realizar em espaços florestais integrados nos perímetros urbanos definidos nos instrumentos de gestão territorial vinculativos para os particulares.»
+f) Qualquer investimento a realizar em espaços florestais integrados nos perímetros urbanos definidos nos instrumentos de gestão territorial vinculativos para os particulares.
 
 > Alterado pelo/a [Portaria n.º 739-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/739-a-2009-249854), publicado em 2009-07-09.
 
@@ -515,9 +518,9 @@ c) Construção e beneficiação de rede viária e divisional, própria ou integ
 
 d) Parques de recolha de matérias-primas florestais;
 
-e) Equipamentos de corte relacionados com a gestão dos povoamentos, designadamente motosserras, motorroçadouras, corta-matos e estilhaçadores;
+e) Equipamentos de corte relacionados com a gestão dos povoamentos, designadamente motosserras, motorroçadouras, corta-matos e estilhaçadores ou trituradores, devendo os dois últimos corresponder a equipamento móvel acoplado à tomada de força de tractor com potência máxima de 70 cv;
 
-f) Aquisição de serviços directamente associados à preparação do processo de certificação da gestão florestal sustentável quando integrada nos investimentos referidos nos n.os 1.1, 1.2 e 1.3, nomeadamente:
+f) Tratando-se de produtores individuais, a aquisição de serviços directamente associados à preparação do processo de certificação da gestão florestal sustentável quando integrada nos investimentos referidos nos n.os 1.1, 1.2 e 1.3, nomeadamente:
 
 i) Diagnósticos de avaliação;
 
@@ -527,11 +530,11 @@ iii) Aquisição de programas informáticos de apoio à execução e monitoriza�
 
 1.6 - Para todas as operações de investimento são ainda elegíveis as despesas com:
 
-a) A elaboração e acompanhamento da execução do projecto de investimento, incluindo a elaboração de cartografia digital, até um limite a definir em orientações específicas da autoridade de gestão, em função da dimensão do projecto, nunca ultrapassando o montante máximo de (euro) 6000;
+a) A elaboração e acompanhamento da execução do projecto de investimento, incluindo a elaboração da cartografia digital, até um limite a definir em orientações específicas da autoridade de gestão, em função da dimensão do projecto, nunca ultrapassando o montante máximo de (euro) 6000, sem IVA;
 
 b) O IVA nas seguintes situações, a demonstrar por certidão da repartição de finanças:
 
-i) Regime de isenção, o IVA é totalmente elegível, com excepção dos isentos ao abrigo do artigo 53.º, cujo IVA não é considerado elegível;
+i) Regime de isenção, o IVA é totalmente elegível, quando resulte da aplicação do artigo 9.º do CIVA;
 
 ii) Regimes mistos,
 
@@ -547,13 +550,19 @@ b) A duração do contrato de locação financeira deverá ter início após a d
 
 c) O custo elegível dos investimentos é o custo real à data da celebração dos contratos de locação financeira, não envolvendo custos relacionados com o contrato como a margem do locador, os juros, as despesas gerais e os prémios de seguro.
 
+1.8 - Investimentos para modernização de viveiros florestais:
+
+a) Aquisição de máquinas e equipamentos;
+
+b) Construção e beneficiação de infra-estruturas;
+
 2 - Despesas não elegíveis.
 
 2.1 - Custos relacionados com contratos de locação financeira, como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro.
 
-2.2 - O IVA não poderá ser considerado elegível nas seguintes situações:
+2.2 - O IVA não poderá ser considerado elegível quando o beneficiário é uma entidade pública, bem como nas seguintes situações:
 
-a) Regime de isenção ao abrigo do artigo 53.º;
+a) Regime de isenção ao abrigo dos artigos 2.º e 53.º do CIVA;
 
 b) Regimes mistos:
 
@@ -567,7 +576,11 @@ c) Regime normal: o IVA não é elegível.
 
 2.4 - Juros das dívidas.
 
-2.5 - Sem prejuízo do disposto no artigo 26.º, as despesas realizadas antes da data de apresentação dos pedidos de apoio, sendo, no entanto, admitidas como elegíveis as relativas à elaboração de projecto, desde que realizadas até três meses antes da apresentação dos pedidos de apoio.
+2.5 - (Revogado.)
+
+2.6 - Não são consideradas elegíveis quaisquer despesas com aquisição de bens que sejam consumidos no processo produtivo, nomeadamente contentores de utilização anual, substratos, sementes ou outros.
+
+> Alterado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.
 
 ## ANEXO III — Boas práticas florestais
 
@@ -615,16 +628,14 @@ b) Manter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobili
 
 (a que se refere o n.º 2 do artigo 13.º)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0538605394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11200/0307003087.pdf)
 
-1 - Em povoamentos mistos constituídos por espécie folhosas e resinosas, o nível de apoio corresponde ao das folhosas sempre que estas representem 50 % ou mais do número de árvores por hectare.
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ## ANEXO V — Limites máximo de apoio
 
 (a que se refere o n.º 2 do artigo 13.º)
 
-O limite máximo do apoio é de (euro) 500 000 por beneficiário, excepto nos seguintes casos:
+O limite máximo do apoio é de (euro) 2 500 000 por beneficiário.
 
-a) Por área agrupada, órgão de administração de baldios ou suas associações, fundo de investimento imobiliário florestal, organismo da administração central e órgão da administração local ou sua associação, (euro) 1 000 000;
-
-b) Por ZIF, (euro) 2 500 000.
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.

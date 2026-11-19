@@ -10,20 +10,22 @@
     {
       "chave": "ANEXO::12.º",
       "epigrafe": "Regulamento do estágio",
-      "texto": "(Revogado.)",
+      "texto": "(Revogado.)\n\nCurso de formação do estágio para ingresso na carreira de subinspector de espectáculos e direitos de autor da DGESP\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/096b00/18551857.pdf)",
       "alterador": 1
     }
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "N.º 2) da Portaria n.º 385/98 (referências à DGESP entendidas como feitas à IGAC) e n.º 4) (o número de horas do anexo integra sessões lectivas e trabalhos práticos) são normas interpretativas, não alterações textuais; não foram aplicadas ao texto.",
+  "anexos": [],
+  "nao_aplicavel": "Instrução 2) (as referências à DGESP entendem-se feitas à IGAC) e instrução 4) (as horas do anexo integram sessões lectivas e trabalhos práticos) são normas interpretativas, sem texto a substituir: o texto fica como está.",
   "instrucoes": [
-    "1) Nova redação do n.º 5 do artigo 1.º: aplicada.",
-    "2) Referências à DGESP entendidas como à IGAC: remissão interpretativa, não textual; não aplicada (nao_aplicavel).",
-    "3) Revogado o artigo 12.º: corpo '(Revogado.)'. Nota: o texto atual do 12.º trazia a seguir o título e a ligação do quadro anexo ('Curso de formação do estágio...', '(ver documento original)'), que não fazem parte do artigo nem são revogados.",
-    "4) Integração das horas do anexo: norma interpretativa sobre o quadro (só em imagem); não aplicada (nao_aplicavel)."
+    "1) Nova redacção do n.º 5 do artigo 1.º do regulamento: aplicada.",
+    "2) Referências à DGESP entendidas como feitas à IGAC: interpretativa, não aplicada ao texto (nao_aplicavel).",
+    "3) Revogado o artigo 12.º do regulamento: corpo '(Revogado.)'; mantidos a seguir o título e a ligação do quadro anexo do regulamento, que estavam a seguir ao artigo e que nenhuma instrução revoga.",
+    "4) Horas do anexo integram sessões lectivas e trabalhos práticos: interpretativa, não aplicada ao texto (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

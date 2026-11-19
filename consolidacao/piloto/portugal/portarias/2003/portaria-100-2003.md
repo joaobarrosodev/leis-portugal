@@ -118,7 +118,11 @@ O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 6 de Janei
 
 Curso de Turismo
 
+> Alterado pelo/a [Portaria n.º 153/2006](https://diariodarepublica.pt/dr/detalhe/portaria/153-2006-676834), publicado em 2006-02-20.
+
 1.º ciclo - Grau de bacharel
+
+> Alterado pelo/a [Portaria n.º 153/2006](https://diariodarepublica.pt/dr/detalhe/portaria/153-2006-676834), publicado em 2006-02-20.
 
 QUADRO N.º 1
 
@@ -126,11 +130,15 @@ QUADRO N.º 1
 
 [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)
 
+> Alterado pelo/a [Portaria n.º 153/2006](https://diariodarepublica.pt/dr/detalhe/portaria/153-2006-676834), publicado em 2006-02-20.
+
 QUADRO N.º 2
 
 2.º ano
 
 [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)
+
+> Alterado pelo/a [Portaria n.º 153/2006](https://diariodarepublica.pt/dr/detalhe/portaria/153-2006-676834), publicado em 2006-02-20.
 
 QUADRO N.º 3
 
@@ -138,9 +146,13 @@ QUADRO N.º 3
 
 [[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)](https://files.diariodarepublica.pt/1s/2006/02/036b00/13251327.pdf)
 
+> Alterado pelo/a [Portaria n.º 153/2006](https://diariodarepublica.pt/dr/detalhe/portaria/153-2006-676834), publicado em 2006-02-20.
+
 2.º ciclo - Grau de licenciado
 
 QUADRO N.º 4
+
+> Alterado pelo/a [Portaria n.º 153/2006](https://diariodarepublica.pt/dr/detalhe/portaria/153-2006-676834), publicado em 2006-02-20.
 
 1.º ano
 

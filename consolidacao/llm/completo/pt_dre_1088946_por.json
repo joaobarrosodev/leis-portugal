@@ -39,13 +39,29 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Artigo 2.º do alterador 1 substitui o anexo I (lista de raças), que não consta do texto atual por artigos; não aplicado.",
+  "titulos": [
+    {
+      "atual": "## ANEXO I",
+      "novo": "## ANEXO I — Raças",
+      "alterador": 1
+    }
+  ],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I",
+      "texto": "Alentejana.\n\nAlgarvia.\n\nArouquesa.\n\nBarrosã.\n\nBrava.\n\nMarinhoa.\n\nMaronesa.\n\nMertolenga.\n\nMinhota.\n\nMirandesa.\n\nCharolesa.\n\nHereford.\n\nLimousine.\n\nSalers.\n\nPie Rouge.\n\nNorueguesa.\n\nFleckvieh.\n\nCruzado de Carne.\n\nPreta.\n\nCachena.\n\nRamo Grande.\n\nBlonde d'Aquitaine.\n\nBlanc - Blue Belge.\n\nGarvonesa.\n\nIndeterminado de Carne.\n\nCruzado de Charolês.\n\nCruzado de Limosine.\n\nCruzado Alentejano.\n\nCruzado BBB.\n\nPiemontesa.\n\nCruzado Simmental - Fleckvieh.\n\nJarmelista.\n\nBrava dos Açores.\n\nAberdeen-Angus.\n\nCruzado de Aberdeen-Angus.\n\nCruzado de Blonde.",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": null,
   "instrucoes": [
-    "Art. 1.º do alterador 1: nova redação dos artigos 1.º a 6.º; aplicada mantendo as unidades com [...] / ... e passando o antigo n.º 2 do art. 4.º a n.º 3.",
-    "Art. 2.º do alterador 1: substitui o anexo I; o anexo não está no texto atual, não aplicado.",
-    "Art. 3.º do alterador 1: revoga o n.º 2 do art. 5.º; já revogado, mantido (Revogado.)."
+    "Despacho Normativo 13/2012, art. 1.º: nova redação dos arts. 1.º (novo n.º 2), 2.º (n.º 1), 3.º (n.º 2 e novos n.os 3 e 4), 4.º (novo n.º 2; o anterior n.º 2 passa a 3), 5.º (n.º 1; n.º 2 revogado) e 6.º (n.º 1) — aplicada; «...» mantém o texto atual.",
+    "Despacho Normativo 13/2012, art. 2.º: nova redação do anexo I (com Norueguesa, Cruzado de Charolês, Piemontesa e Brava dos Açores) — corpo substituído pela lista do alterador e epígrafe «Raças» no título, como no alterador (reparo confirmado); o número do documento no fim não entra no corpo.",
+    "Despacho Normativo 13/2012, art. 3.º: revogado o n.º 2 do art. 5.º — aplicado (já estava pelo programa).",
+    "Despacho Normativo 13/2012, art. 4.º: produção de efeitos — sem efeito textual."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "problemas": [],
+  "avisos": []
 }

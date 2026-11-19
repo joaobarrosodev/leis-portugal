@@ -3,7 +3,8 @@ id: pt:dre:300610:por
 title: Decreto-Lei n.º 78/2002
 original: data/portugal/decretos-leis/2002/decreto-lei-78-2002.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:608072:por
@@ -31,9 +32,17 @@ Nos termos dos n.os 1, alínea a), e 2 do artigo 198.º da Constituição, o Gov
 
 ###### Artigo 1.º — Altera o artigo 9.º do [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro
 
-(Revogado.)
+O artigo 9.º do [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro, passa a ter a seguinte redacção:
 
-> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 47/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2005-608072), publicado em 2005-02-24.
+«Artigo 9.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - A coordenação operacional do CSREAP é assegurada pelo secretário-geral do Ministério, sendo o apoio técnico e administrativo indispensável à sua actividade prestado pelos meios próprios da Secretaria-Geral.»
 
 ###### Artigo 2.º — Altera os artigos 3.º e 4.º e revoga os artigos 8.º e 9.º do [Decreto-Lei n.º 67/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2001-386784), de 22 de Fevereiro
 

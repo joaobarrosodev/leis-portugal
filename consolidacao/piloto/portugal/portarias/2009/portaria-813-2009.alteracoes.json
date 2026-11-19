@@ -11,7 +11,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::9.º",
@@ -25,7 +25,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::11.º",
@@ -39,7 +39,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::12.º",
@@ -53,7 +53,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::13.º",
@@ -67,7 +67,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::14.º",
@@ -81,7 +81,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::15.º",
@@ -95,7 +95,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::18.º",
@@ -109,7 +109,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::23.º",
@@ -123,7 +123,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::7.º",
@@ -137,7 +137,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::19.º",
@@ -151,7 +151,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::21.º",
@@ -165,7 +165,7 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   },
   {
     "artigo": "ANEXO::22.º",
@@ -179,6 +179,34 @@
     "aviso": "",
     "unidade": [],
     "diploma": "pt:dre:492985:por",
-    "alterador": "pt:dre:343948:por;pt:dre:670056:por"
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
+  },
+  {
+    "artigo": "ANEXO I — Despesas elegíveis e não elegíveis",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — Despesas elegíveis e não elegíveis\n(a que se refere o artigo 8.º)\n\n1 - As despesas decorrentes da operação deverão dizer respeito à fase de constituição e arranque dos serviços a prestar.\n\n2 - Apenas são elegíveis os custos marginais suportados pelos beneficiários, entendendo-se como tais os encargos adicionais que decorram directamente da execução da operação.\n\nDespesas elegíveis\n\nInvestimentos materiais\n\n1 - Adaptações ou pequenas construções para adaptação de edifícios.\n\n2 - Equipamentos, incluindo equipamentos agrícolas, informáticos, de telecomunicações e audiovisuais - aquisição ou locação financeira.\n\n3 - Equipamento de escritório - aquisição.\n\n4 - Veículos automóveis - aquisição ou locação financeira.\n\n5 - Material de divulgação - produção.\n\nInvestimentos imateriais\n\n6 - Recursos humanos - remunerações ou partes de remunerações e respectivos encargos associados, nomeadamente contribuições para a segurança social e seguro de acidentes de trabalho, de técnicos que exerçam actividades no âmbito da operação.\n\n7 - Deslocações e estadas - portagens, despesas relacionadas com deslocações em viaturas de serviço, ajudas de custo, subsídio de transporte em automóvel próprio (até aos limites legais, de acordo com as regras da sua atribuição aos servidores do Estado), bem como outras despesas com deslocações e estadas.\n\n8 - Programas informáticos - aquisição.\n\n9 - Despesas gerais, nomeadamente consultoria, licenciamentos, estudos de mercado ou trabalhos de levantamento de destinatários potenciais, planos de comercialização ou de marketing.\n\n10 - Outras despesas gerais adicionais.\n\nOutras despesas elegíveis\n\n11 - IVA - regime de isenção.\n\n12 - IVA - regimes mistos:\n\nAfectação real: o IVA é elegível no caso de a actividade em causa constituir a parte isenta da actividade do beneficiário;\n\nPro rata: o IVA é elegível na percentagem em que não seja dedutível.\n\nLimites às elegibilidades\n\n13 - O investimento constante do n.º 4 é elegível quando o seu uso for indispensável à execução da operação, sendo o seu limite definido em OTE.\n\n14 - As despesas relativas aos n.os 9 e 10 são limitadas a uma percentagem das despesas totais elegíveis, a definir em OTE.\n\n15 - São elegíveis as despesas de IVA quando os beneficiários se encontrem sujeitos ao regime de isenção, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA é não elegível.\n\nDespesas não elegíveis\n\nInvestimentos materiais\n\n16 - Edifícios - aquisição ou amortização.\n\n17 - Terrenos - aquisição ou amortização.\n\n18 - Bens em estado de uso.\n\n19 - Bens móveis e imóveis existentes - amortização.\n\n20 - Substituição de equipamentos.\n\nInvestimentos imateriais\n\n21 - Despesas notariais e de registo decorrentes da compra de imóveis.\n\n22 - Matrículas, propinas e deslocações relativas à frequência de cursos que possibilitem a obtenção de graus académicos ou habilitações profissionais.\n\nOutras despesas não elegíveis\n\n23 - IVA - regime normal.\n\n24 - IVA - regimes mistos:\n\nAfectação real: o IVA não é elegível no caso de a actividade em causa constituir a parte não isenta da actividade do beneficiário;\n\nPro rata: o IVA não é elegível na percentagem em que seja dedutível.\n\n25 - Juros ou encargos com dívidas.\n\n26 - Constituição de cauções - salvo as relativas aos adiantamentos referidos no n.º 4 do artigo 18.º\n\n27 - Custos gerais relacionados com os contratos de locação financeira, como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro.\n\nLimites às elegibilidades\n\n28 - Não são elegíveis as despesas realizadas antes da data de apresentação dos pedidos de apoio, excepto as relativas a estudos de mercado ou trabalhos de levantamento de destinatários potenciais, desde que realizados até seis meses antes da apresentação dos pedidos de apoio.",
+    "depois": "## ANEXO I — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 8.º)\n\n1 - As despesas decorrentes da operação deverão dizer respeito à fase de constituição e arranque dos serviços a prestar.\n\n2 - Apenas são elegíveis os custos marginais suportados pelos beneficiários, entendendo-se como tais os encargos adicionais que decorram directamente da execução da operação.\n\nDespesas elegíveis\n\nInvestimentos materiais\n\n1 - Adaptações ou pequenas construções para adaptação de edifícios.\n\n2 - Equipamentos, incluindo equipamentos agrícolas, informáticos, de telecomunicações e audiovisuais - aquisição ou locação financeira.\n\n3 - Equipamento de escritório - aquisição.\n\n4 - Veículos automóveis - aquisição ou locação financeira.\n\n5 - Material de divulgação - produção.\n\nInvestimentos imateriais\n\n6 - Recursos humanos - remunerações ou partes de remunerações e respectivos encargos associados, nomeadamente contribuições para a segurança social e seguro de acidentes de trabalho, de técnicos que exerçam actividades no âmbito da operação.\n\n7 - Deslocações e estadas - portagens, despesas relacionadas com deslocações em viaturas de serviço, ajudas de custo, subsídio de transporte em automóvel próprio (até aos limites legais, de acordo com as regras da sua atribuição aos servidores do Estado), bem como outras despesas com deslocações e estadas.\n\n8 - Programas informáticos - aquisição.\n\n9 - Despesas gerais, nomeadamente consultoria, licenciamentos, estudos de mercado ou trabalhos de levantamento de destinatários potenciais, planos de comercialização ou de marketing.\n\n10 - Outras despesas gerais adicionais.\n\nOutras despesas elegíveis\n\n11 - IVA - regime de isenção.\n\n12 - IVA - regimes mistos:\n\nAfectação real: o IVA é elegível no caso de a actividade em causa constituir a parte isenta da actividade do beneficiário;\n\nPro rata: o IVA é elegível na percentagem em que não seja dedutível.\n\nLimites às elegibilidades\n\n13 - O investimento constante do n.º 4 é elegível quando o seu uso for indispensável à execução da operação, sendo o seu limite definido em OTE.\n\n14 - As despesas relativas aos nºs 9 e 10 são limitadas a uma percentagem do valor elegível aprovado das restantes despesas, a definir em OTE.\n\n15 - São elegíveis as despesas de IVA quando os beneficiários se encontrem sujeitos ao regime de isenção, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA é não elegível.\n\nDespesas não elegíveis\n\nInvestimentos materiais\n\n16 - Edifícios - aquisição ou amortização.\n\n17 - Terrenos - aquisição ou amortização.\n\n18 - Bens em estado de uso.\n\n19 - Bens móveis e imóveis existentes - amortização.\n\n20 - Substituição de equipamentos.\n\nInvestimentos imateriais\n\n21 - Despesas notariais e de registo decorrentes da compra de imóveis.\n\n22 - Matrículas, propinas e deslocações relativas à frequência de cursos que possibilitem a obtenção de graus académicos ou habilitações profissionais.\n\nOutras despesas não elegíveis\n\n23 - IVA - regime normal.\n\n24 - IVA - regimes mistos:\n\nAfectação real: o IVA não é elegível no caso de a actividade em causa constituir a parte não isenta da actividade do beneficiário;\n\nPro rata: o IVA não é elegível na percentagem em que seja dedutível.\n\n25 - Juros ou encargos com dívidas.\n\n26 - Constituição de cauções - salvo as relativas aos adiantamentos referidos no n.º 4 do artigo 18.º\n\n27 - Custos gerais relacionados com os contratos de locação financeira, como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro.\n\nLimites às elegibilidades\n\n28 - Não são elegíveis as despesas realizadas antes da data de apresentação dos pedidos de apoio, excepto as relativas a estudos de mercado ou trabalhos de levantamento de destinatários potenciais, desde que realizados até seis meses antes da apresentação dos pedidos de apoio.\n\n> Alterado pelo/a [Portaria n.º 253/2013](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), publicado em 2013-08-07.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:492985:por",
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
+  },
+  {
+    "artigo": "ANEXO III — Cálculo da valia global da operação",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO III — Cálculo da valia global da operação\n(a que se refere o artigo 11.º)\n\n1 - A valia global da operação (VGO) é obtida por aplicação da seguinte fórmula:\n\nVGO = 0,35 SI + 0,15 S + 0,20 N + 0,15 V + 0,15 P\n\nem que:\n\na) SI, «Impacte económico, social ou ambiental directo da operação», valoriza a capacidade da operação para gerar riqueza e benefícios ambientais;\n\nb) S, «Grau de sinergia com outras medidas do PRODER», valoriza a articulação dos serviços com operações de outras medidas;\n\nc) N, «Número de destinatários potenciais, devidamente fundamentado através de levantamento ou estudo de mercado», valoriza a abrangência dos serviços;\n\nd) V, «Valor de custo da prestação avaliado com base no preço hora/homem», valoriza a eficiência no uso da mão-de-obra;\n\ne) P valoriza outros critérios específicos, nos termos dos respectivos avisos de abertura dos concursos.\n\n2 - A VGO obtém-se por aplicação da fórmula:\n\nVGO = 0,40 SI + 0,15 S + 0,25 N + 0,20 V\n\nquando a apreciação dos pedidos de apoio apenas considere os factores identificados nas alíneas a) a d) do número anterior.\n\n3 - A pontuação dos pedidos de apoio efectua-se de acordo com a seguinte metodologia:\n\na) Cada factor é pontuado de 0 a 20 pontos de acordo com a grelha de pontuação definida para cada coeficiente;\n\nb) A VGO é determinada com base no somatório dos factores definidos para cada um dos coeficientes;\n\nc) Os pedidos de apoio são hierarquizados por ordem decrescente de acordo com a VGO obtida (arredondamento à centésima), até ao limite orçamental definido no aviso de abertura do concurso.",
+    "depois": "## ANEXO III — Cálculo da valia global da operação\n\n(a que se refere o artigo 11.º)\n\n1 - A valia global da operação (VGO) é obtida por aplicação da seguinte fórmula:\n\nVGO = 0,35 SI + 0,15 S + 0,20 N + 0,15 V + 0,15 P\n\nem que:\n\na) SI, «Impacte económico, social ou ambiental directo da operação», valoriza a capacidade da operação para gerar riqueza e benefícios ambientais;\n\nb) S, «Grau de sinergia com outras medidas do PRODER», valoriza a articulação dos serviços com operações de outras medidas;\n\nc) N, 'Número de destinatários potenciais, devidamente fundamentado', que valoriza a abrangência dos serviços;\n\nd) V, «Valor de custo da prestação avaliado com base no preço hora/homem», valoriza a eficiência no uso da mão-de-obra;\n\ne) P valoriza outros critérios específicos, nos termos dos respectivos avisos de abertura dos concursos.\n\n2 - A VGO obtém-se por aplicação da fórmula:\n\nVGO = 0,40 SI + 0,15 S + 0,25 N + 0,20 V\n\nquando a apreciação dos pedidos de apoio apenas considere os factores identificados nas alíneas a) a d) do número anterior.\n\n3 - A pontuação dos pedidos de apoio efectua-se de acordo com a seguinte metodologia:\n\na) Cada factor é pontuado de 0 a 20 pontos de acordo com a grelha de pontuação definida para cada coeficiente;\n\nb) A VGO é determinada com base no somatório dos factores definidos para cada um dos coeficientes;\n\nc) Os pedidos de apoio são hierarquizados por ordem decrescente de acordo com a VGO obtida (arredondamento à centésima), até ao limite orçamental definido no aviso de abertura do concurso.\n\n> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:492985:por",
+    "alterador": "pt:dre:343948:por;pt:dre:670056:por;pt:dre:498497:por"
   }
 ]

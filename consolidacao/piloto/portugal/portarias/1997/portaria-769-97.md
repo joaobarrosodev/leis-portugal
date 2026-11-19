@@ -90,8 +90,32 @@ Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensin
 
 ## ANEXO — Universidade Internacional da Figueira da Foz
 
-Curso: Gestão
+Curso de Gestão
 
-Grau: licenciado
+Grau de licenciado
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/198b00/44944495.pdf)
+QUADRO N.º 1
+
+1.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)
+
+QUADRO N.º 4
+
+4.º ano
+
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)](https://files.diariodarepublica.pt/1s/2005/06/116b00/38733875.pdf)
+
+> Alterado pelo/a [Portaria n.º 534/2005](https://diariodarepublica.pt/dr/detalhe/portaria/534-2005-226819), publicado em 2005-06-20.

@@ -9,11 +9,12 @@
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 1 (Portaria n.º 10/2009) prorroga até 30 de Junho de 2009 o prazo do n.º 2.º sem dar nova redação ao texto; não é alteração textual, não aplicada.",
+  "nao_aplicavel": "Portaria 10/2009, 1.º: prorroga até 30 de Junho de 2009 o prazo do n.º 2.º, sem dar nova redação ao n.º 2.º; é uma prorrogação de prazo, não uma alteração textual escrita, por isso o n.º 2.º fica com 31 de Dezembro de 2008.",
   "instrucoes": [
-    "Alterador 1, n.º 1.º: prorrogação do prazo do n.º 2.º até 30/6/2009; sem nova redação, não aplicada.",
-    "Alterador 2, artigo 12.º: no n.º 1.º, 'indicação geográfica (IG) «Ribatejano»' substituída por 'IG «Tejo»'; aplicada na unidade 8.",
-    "Alterador 3, artigo 16.º: no n.º 1.º, 'denominação de origem (DO) «Ribatejo»' substituída por 'DO «DoTejo»'; aplicada na unidade 8 (substituição única com as duas trocas, atribuída ao alterador 3). Artigo 15.º não altera o texto."
+    "Portaria 10/2009, 1.º: prorrogação do prazo do n.º 2.º até 30 de Junho de 2009, sem redação nova: não aplicada (ver nao_aplicavel).",
+    "Portaria 445/2009, art. 12.º: no n.º 1.º, a expressão indicação geográfica (IG) «Ribatejano» é substituída por IG «Tejo»: aplicada na unidade 8.",
+    "Portaria 140/2010, art. 16.º: no n.º 1.º, a expressão denominação de origem (DO) «Ribatejo» é substituída por DO «DoTejo»: aplicada na unidade 8 (uma só substituição com o resultado das duas trocas, atribuída ao alterador 3, que é a última).",
+    "Portaria 140/2010, art. 15.º e Portaria 445/2009, restantes artigos: regulam as DO/IG e a competência da entidade, sem mudar o texto do original."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

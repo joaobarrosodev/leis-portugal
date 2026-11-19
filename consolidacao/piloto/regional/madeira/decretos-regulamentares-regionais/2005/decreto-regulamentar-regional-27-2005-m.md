@@ -44,9 +44,31 @@ Nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º
 
 ###### Artigo 3.º — Estrutura
 
-(Revogado.)
+1 - A DRADR é dirigida pelo director regional de Agricultura e Desenvolvimento Rural, adiante designado por director regional, ao qual compete, genericamente, dirigir a actuação dos respectivos órgãos e serviços e ainda exercer as competências que lhe estejam consignadas por lei.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DRADR compreende os seguintes serviços:
+
+a) Direcção de Serviços de Planeamento, Gestão e Organização, abreviadamente DSPGO;
+
+b) Direcção de Serviços de Mercados e Segurança Alimentar, abreviadamente DSMSA;
+
+c) Direcção de Serviços de Desenvolvimento Rural, abreviadamente DSDR;
+
+d) Direcção de Serviços de Inovação e Apoio à Produção, abreviadamente DSIAP;
+
+e) Laboratório de Qualidade Agrícola, abreviadamente LQA;
+
+f) Direcção de Serviços de Desenvolvimento Pecuário, abreviadamente DSDP;
+
+g) Direcção de Serviços de Ajudas à Produção e ao Rendimento, abreviadamente DSA;
+
+h) Direcção de Serviços de Desenvolvimento da Agricultura Biológica, abreviadamente DSDAB;
+
+i) Direcção dos Serviços Hidroagrícolas, abreviadamente DSH;
+
+j) Gabinete Jurídico, abreviadamente GJ;
+
+l) Divisão de Matadouros, abreviadamente DM.
 
 #### SECÇÃO II — Do director regional
 
@@ -60,15 +82,45 @@ Nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º
 
 ###### Artigo 5.º — Estrutura e competências
 
-(Revogado.)
+1 - A DSPGO tem por missão o planeamento, coordenação e avaliação nas áreas das políticas agro-alimentar e do desenvolvimento rural, a gestão administrativa do pessoal e a gestão financeira, patrimonial e da qualidade dos serviços da DRADR.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DSPGO é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau, que é responsável por assegurar a realização das respectivas competências e exercer todas aquelas que lhe estejam legalmente atribuídas ou que nele sejam delegadas ou subdelegadas.
+
+3 - À DSPGO compete:
+
+a) Apoiar a acção da DRADR na definição dos objectivos e estratégia e na formulação das políticas sectoriais e das medidas que as sustentam;
+
+b) Assegurar a coordenação e a preparação, em colaboração com os outros serviços da DRADR, dos contributos para os planos de desenvolvimento regionais, para os programas comunitários de apoio e para outras formas de planeamento com importância sectorial;
+
+c) Analisar, acompanhar e avaliar os projectos apresentados no âmbito dos planos de desenvolvimento sectoriais;
+
+d) Promover, coordenar e dinamizar, em articulação com os serviços da DRADR, a recolha e tratamento dos dados com interesse para o sector agrícola e o apuramento da informação ao nível da contabilidade agrícola, elaborando indicadores técnico-económicos de diagnóstico do sector a nível regional;
+
+e) Coordenar e acompanhar os projectos de investimento no âmbito do PIDDAR e elaborar os relatórios de execução;
+
+f) Assegurar a gestão e o controlo orçamental da DRADR e propor as alterações julgadas necessárias, com vista à gestão integrada dos recursos financeiros, de acordo com as políticas superiormente determinadas, aplicando critérios de economia, eficiência e eficácia;
+
+g) Promover a aplicação de métodos actualizados de gestão dos recursos humanos, organizando e mantendo actualizado o cadastro do pessoal da DRADR;
+
+h) Promover e assegurar o estabelecimento de normas e procedimentos internos com vista à implementação de um sistema de qualidade dos serviços;
+
+i) Elaborar o plano de actividades da DRADR, bem como o respectivo relatório de execução.
+
+4 - A DSPGO compreende:
+
+a) A Divisão de Planeamento e Estatística;
+
+b) A Divisão de Gestão Administrativa e Financeira;
+
+c) A Divisão de Política Sócio-Estrutural;
+
+d) A Divisão de Gestão da Qualidade;
+
+e) A Secção de Apoio Administrativo.
+
+5 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
 ###### Artigo 6.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Planeamento e Estatística
 
@@ -91,10 +143,6 @@ a) O Núcleo de Planeamento;
 b) O Núcleo de Estatística.
 
 ###### Artigo 7.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Gestão Administrativa e Financeira
 
@@ -144,10 +192,6 @@ f) A Secção de Contabilidade.
 
 ###### Artigo 8.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Política Sócio-Estrutural
 
 1 - À Divisão de Política Sócio-Estrutural compete:
@@ -165,10 +209,6 @@ a) O Núcleo de Avaliação e Acompanhamento de Projectos;
 b) O Núcleo da Rede de Informação de Contabilidade Agrícola.
 
 ###### Artigo 9.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Gestão da Qualidade
 
@@ -196,15 +236,53 @@ b) O Núcleo de Gestão da Formação.
 
 ###### Artigo 10.º — Estrutura e competências
 
-(Revogado.)
+1 - A DSMSA tem por missão apoiar a DRADR no exercício das atribuições nos domínios da comercialização e da transformação dos produtos agro-alimentares de origem vegetal e da aplicação das medidas para a garantia da qualidade e segurança dos mesmos.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DSMSA é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau, que é responsável por assegurar a realização das respectivas competências e exercer todas aquelas que lhe estejam legalmente atribuídas ou que nele sejam delegadas ou subdelegadas.
+
+3 - À DSMSA compete:
+
+a) Apoiar a DRADR na implementação das medidas de política regional relativas à melhoria da eficácia e eficiência dos sectores da comercialização e da transformação dos produtos agro-alimentares de origem vegetal, emitindo pareceres, promovendo estudos e propondo as acções necessárias à regulamentação e apoio das actividades com vista a reforçar a competitividade e valorização dos seus produtos nos mercados;
+
+b) Acompanhar e analisar a estrutura, o funcionamento e a evolução dos sectores da comercialização e da transformação dos produtos agro-alimentares de origem vegetal e contribuir para a maior transparência, regularização e disciplina dos respectivos mercados;
+
+c) Promover a constituição e assegurar o funcionamento de comissões consultivas sectoriais de produtos ou grupos de produtos economicamente relevantes, envolvendo os agentes das fileiras na análise dos mercados de inserção e na proposta de medidas orientadoras;
+
+d) Propor e adoptar, sem prejuízo das competências de outras entidades, as regras de execução dos regimes de certificação, protecção e valorização dos produtos agro-alimentares de origem vegetal, incluindo os relativos a modos particulares de produção;
+
+e) Propor e participar, sem prejuízo das competências de outras entidades, na implementação de medidas com vista ao cumprimento da regulamentação relativa às condições e normas de comercialização e transformação de produtos agro-alimentares de origem vegetal e à garantia da sua segurança para os consumidores;
+
+f) Executar os necessários controlos fitossanitários aos produtos vegetais introduzidos e comercializados na Região;
+
+g) Assegurar a gestão e o funcionamento das infra-estruturas públicas de apoio à comercialização e transformação de produtos hortifrutícolas;
+
+h) Promover soluções para um mais eficiente e competitivo acesso aos mercados das produções hortifrutícolas de origem regional;
+
+i) Manter e actualizar os registos obrigatórios dos operadores regionais de produtos agro-alimentares de origem vegetal e dos que exercem a actividade de viveirista, bem como implementar sistemas para a notificação prévia das suas operações;
+
+j) Assegurar a recolha, o processamento, a análise e a difusão de informação relevante dos mercados de produtos agro-alimentares;
+
+l) Emitir parecer sobre os projectos de investimento no âmbito da comercialização e transformação de produtos agro-alimentares de origem vegetal;
+
+m) Propor e colaborar, sem prejuízo das competências de outras entidades, em acções de comunicação e de promoção dos produtos agro-alimentares regionais de origem vegetal, contribuindo para a sua valorização e afirmação nos mercados.
+
+4 - O director de serviços é apoiado administrativamente por um coordenador.
+
+5 - A DSMSA compreende:
+
+a) A Divisão de Inspecção e Controlo;
+
+b) A Divisão de Informação de Mercados Agrícolas e Publicações;
+
+c) A Divisão de Infra-Estruturas e Apoio ao Comércio Agrícola;
+
+d) A Divisão de Sistemas para a Qualificação e Segurança Alimentar;
+
+e) A Secção de Apoio Administrativo.
+
+6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
 ###### Artigo 11.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Inspecção e Controlo
 
@@ -223,10 +301,6 @@ e) Emitir, quando requerido pelos mercados de destino ou imposição regulamenta
 f) Promover o adequado controlo fitossanitário dos viveiristas licenciados para operação no território da Região Autónoma da Madeira.
 
 ###### Artigo 12.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Informação de Mercados Agrícolas e Publicações
 
@@ -247,10 +321,6 @@ f) Proceder à edição e difusão das publicações periódicas da DRADR sobre 
 g) Promover a realização de inquéritos sobre a conjuntura e evolução dos diferentes mercados de produtos agro-alimentares.
 
 ###### Artigo 13.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Infra-Estruturas e Apoio ao Comércio Agrícola
 
@@ -274,10 +344,6 @@ h) Promover a implementação, nas empresas e explorações agrícolas de dimens
 
 ###### Artigo 14.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Sistemas para a Qualificação e Segurança Alimentar
 
 1 - À Divisão de Sistemas para a Qualificação e Segurança Alimentar compete:
@@ -300,15 +366,37 @@ f) Apoiar a gestão, sem prejuízo das competências de outras entidades, de mar
 
 ###### Artigo 15.º — Estrutura e competências
 
-(Revogado.)
+1 - A DSDR tem por missão promover as condições necessárias para a fixação e formação das populações rurais, conjugando o apoio social com sistemas de aconselhamento agrícola para a formação técnica básica e específica.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DSDR é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau, que é responsável por assegurar a realização das respectivas competências e exercer todas aquelas que lhe estejam legalmente atribuídas ou que nele sejam delegadas ou subdelegadas.
+
+3 - À DSDR compete:
+
+a) Definir, propor e dinamizar a estratégia de actuação mais consentânea para o desenvolvimento rural, enquanto exercício simultâneo ou sucessivo de várias actividades que resultam da actividade agrícola e não agrícola, tornando mais competitivas as produções através de alternativas que se complementam;
+
+b) Promover a multifuncionalidade e a sustentabilidade intergeracional do espaço rural, de modo a assegurar a gestão equilibrada dos recursos naturais e a consolidação de um espaço rural atractivo para as suas populações;
+
+c) Estudar, propor e executar sistemas de informação e divulgação agrária de forma a integrar os produtores num esforço comum para o desenvolvimento rural equilibrado nos aspectos social, ambiental e económico;
+
+d) Apoiar e prestar assistência técnica às casas do povo, bem como às acções culturais, sócio-económicas ou de outra natureza que através delas se considerar conveniente desenvolver;
+
+e) Estudar, conceber, promover e colaborar na execução dos programas de formação direccionados para a valorização cultural e técnica das populações do mundo rural e para a criação de empregos.
+
+4 - O director de serviços é apoiado administrativamente por dois coordenadores.
+
+5 - A DSDR compreende:
+
+a) A Divisão de Informação e Divulgação Agrária;
+
+b) A Divisão de Apoio Sócio-Estrutural;
+
+c) A Divisão de Formação;
+
+d) A Secção de Apoio Administrativo.
+
+6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
 ###### Artigo 16.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Informação e Divulgação Agrária
 
@@ -324,10 +412,6 @@ d) Apoiar os produtores no acesso e na utilização da informação disponibiliz
 
 ###### Artigo 17.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Apoio Sócio-Estrutural
 
 À Divisão de Apoio Sócio-Estrutural compete:
@@ -342,10 +426,6 @@ d) Promover e coordenar os certames de promoção e divulgação de produtos reg
 
 ###### Artigo 18.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Formação
 
 À Divisão de Formação compete:
@@ -358,15 +438,53 @@ b) Promover e coordenar a formação profissional e técnica das populações ru
 
 ###### Artigo 19.º — Estrutura e competências
 
-(Revogado.)
+1 - A DSIAP é o serviço que tem por missão a implementação de actividades de experimentação, demonstração, inovação e prestação de assistência técnica no sector da produção agrícola regional.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DSIAP é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau, que é responsável por assegurar a realização das respectivas competências e exercer todas aquelas que lhe estejam legalmente atribuídas ou que nele sejam delegadas ou subdelegadas.
+
+3 - À DSIAP compete:
+
+a) Executar os programas de política agrícola no quadro das atribuições da DRADR;
+
+b) Promover o fomento e protecção da produção agrícola através de planos de carácter geral ou específico;
+
+c) Estabelecer protocolos de colaboração na área da experimentação e troca de conhecimentos com organismos de investigação, nomeadamente com universidades e outras instituições públicas e privadas de nível nacional e internacional, bem como com associações de produtores e de agricultores;
+
+d) Promover, assegurar e coordenar as actividades de experimentação e demonstração de acordo com os programas e projectos aprovados para o sector;
+
+e) Efectuar a divulgação dos trabalhos e resultados obtidos junto dos técnicos e agricultores;
+
+f) Apoiar e prestar a necessária assistência técnica e aconselhamento agrícola aos agricultores de modo a promover o aumento do rendimento das explorações agrícolas e o respeito pelas regras das boas práticas agrícolas, incentivando a adesão ao modo de produção biológico;
+
+g) Trazer ao sector agrícola regional a inovação ao nível das diversas práticas culturais, promovendo o uso de novas variedades e a realização de um adequado controlo de pragas e doenças;
+
+h) Efectuar a prestação de serviços ao agricultor ao nível de podas e enxertias em fruteiras, enquanto não existir na Região mão-de-obra especializada ou empresa privada capacitada para a realização destes trabalhos;
+
+i) Produzir nos viveiros dos diversos centros experimentais oficiais espécies hortícolas, florícolas e frutícolas para fornecimento aos agricultores, nas situações em que não existam operadores privados com capacidade de produção das espécies consideradas de interesse regional.
+
+4 - O director de serviços é apoiado administrativamente por dois coordenadores.
+
+5 - A DSIAP compreende:
+
+a) A Divisão de Horticultura;
+
+b) A Divisão de Floricultura;
+
+c) A Divisão de Fruticultura;
+
+d) A Divisão de Apoio à Produção;
+
+e) A Divisão de Máquinas Agrícolas;
+
+f) A Secção de Apoio Administrativo;
+
+g) O Núcleo de Construções Rurais;
+
+h) O Núcleo de Biblioteca e Documentação.
+
+6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
 ###### Artigo 20.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Horticultura
 
@@ -386,10 +504,6 @@ f) Efectuar estudos de caracterização organoléptica e composição química d
 
 ###### Artigo 21.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Floricultura
 
 À Divisão de Floricultura compete:
@@ -407,10 +521,6 @@ e) Divulgar junto dos floricultores e técnicos os trabalhos de experimentação
 f) Desenvolver acções que promovam a dinamização do sector comercial da floricultura.
 
 ###### Artigo 22.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Fruticultura
 
@@ -436,10 +546,6 @@ h) Efectuar estudos de caracterização organoléptica e de composição químic
 
 ###### Artigo 23.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Apoio à Produção
 
 À Divisão de Apoio à Produção compete:
@@ -453,10 +559,6 @@ c) Coordenar e promover a divulgação, junto dos agricultores, das novas técni
 d) Promover, no âmbito do apoio técnico, uma estreita ligação com os serviços prestados pelo LQA, pela DSMSA e pela DSDR.
 
 ###### Artigo 24.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Máquinas Agrícolas
 
@@ -474,15 +576,71 @@ d) Gerir o parque de viaturas ligeiras da DRADR, promovendo a sua utilização e
 
 ###### Artigo 25.º — Estrutura e competências
 
-(Revogado.)
+1 - O LQA tem por missão garantir o apoio técnico-laboratorial à agricultura, florestas, ambiente e agro-indústria no rigor e qualidade impostos pelo mercado, na óptica do desenvolvimento sustentado da Região Autónoma da Madeira (RAM).
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - O LQA é dirigido por um director de serviços, cargo de direcção intermédia de 1.º grau, que é responsável por assegurar a realização das respectivas competências e exercer todas aquelas que lhe estejam legalmente atribuídas ou que nele sejam delegadas ou subdelegadas.
+
+3 - Ao LQA compete:
+
+a) Assegurar a actualização contínua da lista de serviços que o público alvo do LQA necessita que sejam prestados nos domínios do diagnóstico fitossanitário, análises físico-químicas de solos e plantas, pesquisa de resíduos de pesticidas, propagação in vitro de plantas e luta biológica para o combate de pragas e doenças;
+
+b) Definir junto do público alvo as condições de prestação desses mesmos serviços;
+
+c) Definir os objectivos, prioridades e planos de actividade anuais e plurianuais do LQA em função dos serviços identificados e das respectivas condições de prestação;
+
+d) Garantir a efectiva participação de todos os funcionários envolvidos na definição dos objectivos, prioridades e planos de actividade;
+
+e) Coordenar e assegurar o cumprimento dos planos de actividade, com apresentação de relatórios de execução;
+
+f) Promover a qualidade e inovação nos serviços;
+
+g) Promover os estudos necessários por forma a definir as metodologias de trabalho mais adequadas;
+
+h) Publicar e divulgar os estudos desenvolvidos;
+
+i) Assegurar a racionalização dos recursos humanos, financeiros, materiais e patrimoniais disponíveis, numa óptica do incremento da produtividade;
+
+j) Assegurar o planeamento e controlo de custos de todo o LQA;
+
+l) Assegurar a valorização dos recursos humanos, mediante elaboração e promoção de um plano de formação, em colaboração com a DSPGO;
+
+m) Assegurar a participação do LQA na elaboração de legislação regional relativa ao seus domínios de acção, mediante emissão de pareceres;
+
+n) Promover parcerias com outros serviços de apoio à agricultura, florestas, ambiente e agro-indústria, por forma a incrementar a qualidade do serviço global prestado no âmbito da SRA;
+
+o) Promover parcerias com outros organismos nacionais ou estrangeiros, de carácter científico ou técnico, com vista à melhoria contínua do desempenho global do LQA;
+
+p) Promover e assegurar apoio didáctico a instituições de ensino, especialmente secundário e superior;
+
+q) Promover e assegurar acções de divulgação das actividades do LQA junto do seu público alvo, instituições de ensino e outras entidades de carácter científico ou técnico.
+
+4 - O director de serviços é apoiado administrativamente por um coordenador.
+
+5 - O LQA compreende:
+
+a) A Divisão de Protecção das Culturas;
+
+b) A Divisão de Análise de Resíduos;
+
+c) A Divisão do MicroLab Madeira;
+
+d) A Divisão do Programa Madeira-Med;
+
+e) A Secção de Apoio Administrativo;
+
+f) O Núcleo de Planeamento e Logística;
+
+g) O Núcleo de Garantia e Gestão da Qualidade;
+
+h) O Núcleo de Informática;
+
+i) O Núcleo de Biblioteca e Documentação;
+
+j) Os Serviços de Apoio.
+
+6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
 ###### Artigo 26.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Protecção das Culturas
 
@@ -526,10 +684,6 @@ g) O Núcleo de Entomologia.
 
 ###### Artigo 27.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Análise de Resíduos
 
 À Divisão de Análise de Resíduos compete:
@@ -552,10 +706,6 @@ h) Assegurar a divulgação da actividade e dos estudos desenvolvidos na Divisã
 
 ###### Artigo 28.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão do MicroLab Madeira
 
 À Divisão do MicroLab Madeira compete:
@@ -574,10 +724,6 @@ f) Assegurar a divulgação da actividade e dos estudos desenvolvidos na Divisã
 
 ###### Artigo 29.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão do Programa Madeira-Med
 
 À Divisão do Programa Madeira-Med compete promover e executar o Programa Madeira-Med, com o objectivo de controlar os níveis populacionais da mosca-do-mediterrâneo na RAM.
@@ -586,15 +732,49 @@ f) Assegurar a divulgação da actividade e dos estudos desenvolvidos na Divisã
 
 ###### Artigo 30.º — Estrutura e competências
 
-(Revogado.)
+1 - A DSDP tem por missão colaborar na definição dos objectivos e linhas gerais de acção da DRADR no âmbito da pecuária, prestar assistência (maneio animal, maneio alimentar e bem-estar animal) aos pequenos produtores que pela sua dimensão não tenham capacidade financeira para recorrer a serviços privados e promover a dinamização dos Centros de Produção do Porto Moniz e de Santana.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DSDP é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau, que é responsável por assegurar a realização das respectivas competências e exercer todas aquelas que lhe estejam legalmente atribuídas ou que nele sejam delegadas ou subdelegadas.
+
+3 - À DSDP compete:
+
+a) Apoiar e colaborar com o director regional na definição da estratégia do desenvolvimento para áreas da sua competência, bem como propor a adopção de medidas relacionadas com as actividades e atribuições da DRADR;
+
+b) Promover e assegurar o fomento pecuário e o melhoramento zootécnico com vista a uma maior produtividade e rentabilidade das diferentes espécies animais e à defesa do seu património genético;
+
+c) Propor e coordenar as medidas consideradas pertinentes para estimular o melhoramento e o fomento animal e colaborar na sua execução;
+
+d) Definir e aplicar as normas técnicas e os sistemas técnico-económicos mais adequados ao desenvolvimento da produção animal;
+
+e) Promover e divulgar conhecimentos técnicos e tecnológicos em matéria de produção animal junto dos produtores das várias fileiras pecuárias, nomeadamente no âmbito da pecuária em modo de produção biológico, em colaboração com a DSDAB;
+
+f) Promover o bem-estar animal e a defesa do meio ambiente na produção animal;
+
+g) Promover e divulgar conhecimentos técnicos e tecnológicos em matéria de aproveitamento e transformação dos produtos de origem animal junto dos criadores e demais agentes económicos;
+
+h) Promover a organização de registos zootécnicos e livros genealógicos junto dos criadores e suas associações;
+
+i) Promover e ou colaborar em estudos relativos à alimentação animal e na divulgação de normas técnicas da nutrição racional dos animais;
+
+j) Emitir pareceres técnico-económicos sobre projectos de instalação e funcionamento de explorações e outros estabelecimentos de produção pecuária;
+
+l) Coordenar, implementar e apoiar a execução de programas e medidas de ajuda específica ao sector pecuário, nomeadamente o apoio financeiro aos riscos inerentes ao exercício da actividade agrícola no ramo pecuário;
+
+m) Manter actualizada a informação estatística e factual respeitante às áreas da sua competência.
+
+4 - A DSDP compreende:
+
+a) A Divisão de Produção Animal;
+
+b) A Divisão de Programação e Estudos Pecuários;
+
+c) A Divisão de Pecuária Biológica;
+
+d) A Secção de Apoio Administrativo.
+
+5 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
 ###### Artigo 31.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Produção Animal
 
@@ -624,10 +804,6 @@ b) A Secção de Apoio Administrativo do Centro de Ovinicultura de Santana.
 
 ###### Artigo 32.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Programação e Estudos Pecuários
 
 À Divisão de Programação e Estudos Pecuários compete:
@@ -641,10 +817,6 @@ c) Organizar e coordenar todas as acções necessárias à execução de program
 d) Organizar e divulgar toda a informação necessária ao desenvolvimento das produções pecuárias, tendo em conta o bem-estar animal assim como o respeito pelo meio ambiente.
 
 ###### Artigo 33.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Pecuária Biológica
 
@@ -676,15 +848,47 @@ l) Emitir pareceres técnicos sobre a viabilidade das explorações no modo de p
 
 ###### Artigo 34.º — Estrutura e competências
 
-(Revogado.)
+1 - A DSA tem por missão a divulgação, implementação, acompanhamento, gestão e controlo dos diferentes regimes de ajudas directas financiadas pela União Europeia, rentabilizando a gestão dos recursos materiais e humanos da DRADR.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DSA é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau, que é responsável por assegurar a realização das respectivas competências e exercer todas aquelas que lhe estejam legalmente atribuídas ou que nele sejam delegadas ou subdelegadas.
+
+3 - À DSA compete:
+
+a) Aplicar, em articulação com a entidade nacional competente, as medidas de orientação, regularização e intervenção dos mercados agrícolas que forem definidas pelas organizações de mercado nacionais ou comunitárias;
+
+b) Assegurar, em articulação com a entidade nacional competente, o funcionamento dos sistemas de ajudas comunitárias no âmbito dos mercados dos produtos vegetais e animais;
+
+c) Divulgar, em articulação com a entidade nacional, a informação relativa aos sistemas de ajudas directas financiadas pela União Europeia bem como, consoante o regime, coordenar a recepção e analisar e acompanhar as respectivas candidaturas;
+
+d) Proceder, para determinados regimes de ajudas, à selecção de requerentes a controlo de acordo com critérios de risco;
+
+e) Assegurar, em articulação com a entidade nacional competente, a execução das acções de controlo físico relativas, directa ou indirectamente, à atribuição de ajudas à produção, ao rendimento e à comercialização, bem como as relativas à intervenção, previstas na regulamentação nacional e comunitária;
+
+f) Assegurar a recolha de dados necessários à tomada de decisão pelos organismos pagadores sobre a regularidade das acções referidas na alínea anterior;
+
+g) Representar a DRADR na comissão permanente do Sistema Unificado de Controlo (SUC);
+
+h) Assegurar o regular funcionamento da estrutura do SUC da DRADR;
+
+i) Gerir os recursos postos à disposição da DRADR no âmbito da estrutura do SUC;
+
+j) Assegurar, em articulação com a entidade nacional competente, o funcionamento e a permanente actualização do sistema de identificação parcelar.
+
+4 - O director de serviços é apoiado administrativamente por um coordenador.
+
+5 - A DSA compreende:
+
+a) A Divisão de Gestão das Medidas;
+
+b) A Divisão de Controlo;
+
+c) A Divisão do Parcelar Agrícola;
+
+d) A Secção de Apoio Administrativo.
+
+6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
 ###### Artigo 35.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Gestão das Medidas
 
@@ -712,10 +916,6 @@ j) Assegurar a formação adequada às entidades ou serviços da DRADR responsá
 
 ###### Artigo 36.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Controlo
 
 À Divisão de Controlo compete:
@@ -732,10 +932,6 @@ e) Assegurar o regular funcionamento do SUC, através da participação na comis
 
 ###### Artigo 37.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão do Parcelar Agrícola
 
 À Divisão do Parcelar Agrícola compete:
@@ -748,15 +944,41 @@ b) Assegurar o funcionamento e a permanente actualização do sistema de identif
 
 ###### Artigo 38.º — Estrutura e competências
 
-(Revogado.)
+1 - A DSDAB tem por missão promover a assessoria e o apoio ao desenvolvimento da agricultura biológica.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DSDAB é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau, que é responsável por assegurar a realização das respectivas competências e exercer todas aquelas que lhe estejam legalmente atribuídas ou que nele sejam delegadas ou subdelegadas.
+
+3 - À DSDAB compete:
+
+a) Indicar as áreas ou projectos de interesse estratégico para o desenvolvimento do modo de produção biológico;
+
+b) Assessorar os projectos da iniciativa da DRADR e de outras entidades públicas ou privadas que apresentem propostas concretas de intenções consideradas de interesse estratégico para o desenvolvimento do sector na Região;
+
+c) Assegurar o apoio técnico aos operadores que realizem protocolos de colaboração com este serviço;
+
+d) Propor planos de formação para os vários intervenientes, operadores, técnicos e processadores;
+
+e) Assegurar, em articulação com outros serviços da DRADR e ou outras entidades, os planos de divulgação e de promoção da agricultura biológica;
+
+f) Elaborar os instrumentos de divulgação das práticas de agricultura biológica para os agricultores em geral;
+
+g) Emitir pareceres técnicos sobre projectos de diplomas europeus, nacionais ou regionais relativos a este modo de produção e ou sobre outros assuntos de interesse estratégico relativos ao desenvolvimento sustentado da actividade agrícola;
+
+h) Apontar as áreas prioritárias de investigação e experimentação;
+
+i) Elaborar os relatórios anuais de progressão do sector.
+
+4 - A DSDAB compreende:
+
+a) A Divisão de Assistência Técnica e Apoio à Produção;
+
+b) A Divisão de Promoção;
+
+c) A Secção de Apoio Administrativo.
+
+5 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
 ###### Artigo 39.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Assistência Técnica e Apoio à Produção
 
@@ -777,10 +999,6 @@ f) Colaborar com a Divisão de Promoção na elaboração de planos de formaçã
 g) Adoptar medidas de quantificação de trabalho bem como de controlo de qualidade dos serviços prestados para futura implementação de um sistema de qualidade/certificação dos serviços.
 
 ###### Artigo 40.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Promoção
 
@@ -804,15 +1022,45 @@ g) Adoptar medidas de quantificação de trabalho bem como de controlo de qualid
 
 ###### Artigo 41.º — Estrutura e competências
 
-(Revogado.)
+1 - A DSH tem por missão o ordenamento, exploração e conservação dos recursos hidroagrícolas.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DSH é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau, que é responsável por assegurar a realização das respectivas competências e exercer todas aquelas que lhe estejam legalmente atribuídas ou que nele sejam delegadas ou subdelegadas.
+
+3 - À DSH compete:
+
+a) Executar as obras de construção civil do âmbito da hidráulica bem como as obras de diversa natureza ligadas ao desenvolvimento agro-rural, nomeadamente a construção de acessos;
+
+b) Prestar os apoios requeridos ao resguardo e cobertura de tanques para armazenamento de água propriedade de agricultores com debilidade económica comprovada;
+
+c) Coordenar a utilização e manutenção de todos os equipamentos mecânicos sob o domínio da DSH;
+
+d) Promover a elaboração dos processos de concurso (programas de concurso e caderno de encargos) para estudos, projectos, obras e aquisição de equipamentos;
+
+e) Assegurar a articulação com a gestão dos recursos hídricos regionais e a ligação com outras entidades interessadas nas captações hidroagrícolas;
+
+f) Estudar e propor a fixação dos preços de água de rega;
+
+g) Estudar as medidas que impulsionem a maximização dos benefícios das obras de fomento hidroagrícola;
+
+h) Analisar e emitir os pareceres sobre os pedidos de financiamento no âmbito hidroagrícola;
+
+i) Dinamizar a aplicação de medidas nacionais e comunitárias para o sector.
+
+4 - O director de serviços é apoiado administrativamente por um coordenador.
+
+5 - A DSH compreende:
+
+a) A Divisão de Distribuição e Controlo de Caudais;
+
+b) A Divisão de Cadastro;
+
+c) A Divisão de Concepção e Dinamização de Aproveitamentos Hidroagrícolas;
+
+d) A Secção de Apoio Administrativo.
+
+6 - Cada uma das divisões referidas no número anterior é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
 ###### Artigo 42.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Distribuição e Controlo de Caudais
 
@@ -828,10 +1076,6 @@ d) Definir critérios para a racionalização e optimização da água de rega.
 
 ###### Artigo 43.º
 
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
-
 ##### Divisão de Cadastro
 
 1 - À Divisão de Cadastro compete:
@@ -843,10 +1087,6 @@ b) Aplicar modelos informáticos à gestão do cadastro.
 2 - A Divisão de Cadastro compreende a Secção de Apoio Administrativo.
 
 ###### Artigo 44.º
-
-(Revogado.)
-
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 ##### Divisão de Concepção e Dinamização de Aproveitamentos Hidroagrícolas
 
@@ -866,9 +1106,29 @@ e) Promover o necessário apoio técnico aos perímetros de rega geridos por ass
 
 ###### Artigo 45.º — Estrutura e competências
 
-(Revogado.)
+1 - O GJ tem por missão prestar o apoio jurídico à DRADR com funções de mera consultoria jurídica.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - O GJ é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau, que é responsável por assegurar a realização das respectivas competências bem como realizar todas as demais consignadas por lei ou que nele venham a ser superiormente determinadas.
+
+3 - Ao GJ compete:
+
+a) Elaborar estudos, formular pareceres e preparar informações sobre questões de natureza jurídica;
+
+b) Apoiar e acompanhar os procedimentos legais relativos à contratação de empreitadas de obras públicas e à aquisição de bens e serviços;
+
+c) Apoiar os processos de aquisição de imóveis indispensáveis à prossecução das atribuições da DRADR;
+
+d) Emitir pareceres sobre propostas de portarias, de decretos regulamentares regionais e de decretos legislativos regionais;
+
+e) Participar na elaboração de pareceres necessários à pronúncia da Região, nos termos constitucionais;
+
+f) Promover de modo adequado a recolha, compilação, sistematização, tratamento e difusão de legislação com interesse para os serviços da DRADR;
+
+g) Apoiar jurídica e administrativamente todos os interessados nas operações de remição resultantes da extinção dos contratos de colonia;
+
+h) Assegurar a gestão da documentação e do arquivo da DRADR.
+
+4 - O GJ compreende a Secção de Apoio Administrativo.
 
 #### SECÇÃO XIII
 
@@ -876,9 +1136,19 @@ e) Promover o necessário apoio técnico aos perímetros de rega geridos por ass
 
 ###### Artigo 46.º — Estrutura e competências
 
-(Revogado.)
+1 - A DM tem por missão o abate de gado e distribuição dos respectivos produtos, zelando pelo cumprimento das normas sanitárias estabelecidas.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - A DM é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau, que é responsável por assegurar a realização das respectivas competências bem como realizar todas as demais consignadas por lei ou que nele venham a ser superiormente determinadas.
+
+3 - À DM compete:
+
+a) Assegurar o serviço público de abate de gado e a distribuição dos respectivos produtos;
+
+b) Zelar pelo cumprimento das normas sanitárias estabelecidas para as actividades;
+
+c) Assegurar a operação e o bom funcionamento das unidades que integram a rede de matadouros públicos.
+
+4 - A DM compreende a Secção de Apoio Administrativo.
 
 ### CAPÍTULO III — Pessoal
 
@@ -886,9 +1156,43 @@ e) Promover o necessário apoio técnico aos perímetros de rega geridos por ass
 
 ###### Artigo 47.º — Quadro
 
-(Revogado.)
+1 - O quadro do pessoal da DRADR é o constante do mapa anexo ao presente diploma, estando agrupado em:
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+a) Pessoal dirigente;
+
+b) Pessoal técnico superior;
+
+c) Pessoal técnico;
+
+d) Pessoal de informática;
+
+e) Pessoal técnico-profissional;
+
+f) Pessoal de chefia;
+
+g) Pessoal administrativo;
+
+h) Pessoal operário;
+
+i) Pessoal auxiliar.
+
+2 - O regime aplicável ao pessoal da DRADR é o genericamente estabelecido para os funcionários e agentes da administração pública regional, sem prejuízo do disposto nos números seguintes.
+
+3 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.
+
+a) O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á, respectivamente, de entre coordenadores com três anos na respectiva categoria e de entre chefes de secção com comprovada experiência na área administrativa.
+
+b) A carreira de coordenador é remunerada de acordo com o estabelecido no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto.
+
+4 - Enquanto não forem criados oficialmente os cursos técnico-profissionais necessários, o recrutamento para o ingresso nas carreiras do grupo de pessoal técnico-profissional faz-se de entre indivíduos possuidores do 11.º ano de escolaridade das áreas a fixar no aviso de abertura do procedimento de selecção.
+
+5 - O recrutamento para as categorias de encarregado geral de serviço de matadouros e de encarregado de serviços de matadouros far-se-á de entre, respectivamente, encarregados de serviços de matadouros e controladores de serviços de matadouros, fiéis de armazém de serviços de matadouros, cortadores de carnes e oficiais de matança posicionados no 3.º escalão ou superior e com classificação de serviço mínima de Bom.
+
+6 - O recrutamento para as categorias de fiel de armazém, de fiel de armazém de serviços de matadouros e de controlador de serviços de matadouros far-se-á de entre indivíduos possuidores do 9.º ano de escolaridade ou equivalente.
+
+7 - O recrutamento para a categoria de motorista-ajudante fica condicionado à posse de carta de condução de veículos pesados, para além da escolaridade obrigatória.
+
+8 - Sem prejuízo dos demais requisitos exigidos por lei e na falta de legislação especial, o recrutamento para ingresso nas restantes categorias do grupo de pessoal auxiliar far-se-á de entre possuidores de escolaridade obrigatória.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
@@ -906,9 +1210,13 @@ e) Promover o necessário apoio técnico aos perímetros de rega geridos por ass
 
 ###### Artigo 50.º — Cargos dirigentes
 
-(Revogado.)
+1 - Em virtude da reorganização de serviços efectuada, os titulares dos cargos de direcção intermédia de 1.º grau da Direcção de Serviços de Agro-Indústria e Comércio Agrícola e da Direcção dos Serviços Hidroagrícolas mantêm-se nesses cargos nas unidades orgânicas do mesmo nível que lhes sucedem, respectivamente na DSMSA e na DSH.
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+2 - O titular do cargo de direcção intermédia de 1.º grau da Direcção de Serviços de Melhoramento Animal, da Direcção Regional de Pecuária, agora integrada na DRADR, mantém-se nesse cargo na DSDP, unidade orgânica do mesmo nível que lhe sucede.
+
+3 - Os titulares dos cargos de direcção intermédia de 2.º grau da Divisão de Informação de Mercados Agrícolas e Estatística, da Divisão de Agro-Indústria, da Divisão de Floricultura e da Divisão de Fitopatologia mantêm-se nesses cargos nas unidades orgânicas do mesmo nível que lhes sucedem, respectivamente na Divisão de Informação de Mercados Agrícolas e Publicações, na Divisão de Sistemas para a Qualificação e Segurança Alimentar, na Divisão de Floricultura e na Divisão de Protecção das Culturas.
+
+4 - O titular do cargo de direcção intermédia de 2.º grau da Divisão do Parque de Máquinas e Viaturas, do Gabinete do Secretário Regional, agora integrada na DRADR, mantém-se nesse cargo na Divisão de Máquinas Agrícolas, unidade orgânica do mesmo nível que lhe sucede.
 
 ###### Artigo 51.º — Revogação
 
@@ -920,7 +1228,7 @@ e) Promover o necessário apoio técnico aos perímetros de rega geridos por ass
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 20/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2008-454021), publicado em 2008-09-08.
 
 Aprovado em Conselho do Governo Regional em 19 de Maio de 2005.
 

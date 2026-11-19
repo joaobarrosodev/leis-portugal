@@ -4,7 +4,7 @@
     "operacao": "substituir",
     "regra": "llm",
     "antes": "###### Artigo 1.º — Fins dos empréstimos\n\n1 - Os empréstimos, objecto do presente regulamento, visam proporcionar aos participantes do Fundo de Pensões dos Militares das Forças Armadas a possibilidade de:\n\na) Aquisição de habitação já construída;\n\nb) Construção de habitação em terreno próprio.\n\n2 - Não serão concedidos empréstimos nos termos deste regulamento para liquidação de outros contraídos com idêntica finalidade junto de quaisquer instituições de crédito.",
-    "depois": "###### Artigo 1.º — Fins dos empréstimos\n\nOs empréstimos, objecto do presente regulamento, visam proporcionar aos participantes do Fundo de Pensões dos Militares das Forças Armadas a possibilidade de:\n\na) Aquisição de habitação já construída;\n\nb) Construção de habitação em terreno próprio.\n\nc) Beneficiação de habitação própria.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11.",
+    "depois": "###### Artigo 1.º — Fins dos empréstimos\n\n1 - Os empréstimos, objecto do presente regulamento, visam proporcionar aos participantes do Fundo de Pensões dos Militares das Forças Armadas a possibilidade de:\n\na) Aquisição de habitação já construída;\n\nb) Construção de habitação em terreno próprio.\n\nc) Beneficiação de habitação própria.\n\n2 - Não serão concedidos empréstimos nos termos deste regulamento para liquidação de outros contraídos com idêntica finalidade junto de quaisquer instituições de crédito.\n\n> Alterado pelo/a [Portaria n.º 1338/95](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1995-683026), publicado em 1995-11-11.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

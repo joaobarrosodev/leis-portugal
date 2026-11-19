@@ -116,8 +116,70 @@ Assinada em 6 de Novembro de 1997.
 
 Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
 
-## ANEXO — Instituto Superior de Matemática e Gestão - ISMAG
+## ANEXO — ([Portaria n.º 1205/97](https://diariodarepublica.pt/dr/detalhe/portaria/1205-1997-406366), de 28 de Novembro - alteração)
 
-Curso: Ciência das Religiões
+Universidade Lusófona de Humanidades e Tecnologias
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/276b00/64126414.pdf)
+Curso de Ciência das Religiões
+
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+
+Ramo de Cristianismo
+
+QUADRO N.º 4
+
+4.º ano
+
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+
+Ramo de Judaísmo
+
+QUADRO N.º 5
+
+4.º ano
+
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+
+Ramo de Islamismo
+
+QUADRO N.º 6
+
+4.º ano
+
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+
+Ramo de Religiões Orientais
+
+QUADRO N.º 7
+
+4.º ano
+
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+
+Ramo de Religiões Africanas
+
+QUADRO N.º 8
+
+4.º ano
+
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+
+> Alterado pelo/a [Portaria n.º 151/2003](https://diariodarepublica.pt/dr/detalhe/portaria/151-2003-198335), publicado em 2003-02-13.

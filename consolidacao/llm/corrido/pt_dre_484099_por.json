@@ -6,20 +6,14 @@
       "ate": 7,
       "texto": "2.º Passam a integrar esta zona de caça os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, sitos nas freguesias de Santana de Cambas e Mértola, município de Mértola, com a área de 2088 ha.",
       "alterador": 1
-    },
-    {
-      "de": 19,
-      "ate": 19,
-      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/113b00/41714171.pdf)",
-      "alterador": 1
     }
   ],
   "insercoes": [],
-  "nao_aplicavel": "Alterador 2 (Portaria n.º 416/2009) extingue a zona de caça municipal de Corte Sines e concessiona uma zona associativa, sem revogar expressamente nem alterar o texto do original.",
+  "nao_aplicavel": "Portaria n.º 564/2006, n.º 2.º: substitui a planta anexa pela apensa, que só existe em imagem no documento original; não aplicada. Portaria n.º 416/2009, n.º 1.º: extingue a zona de caça municipal de Corte Sines (e o n.º 2.º concessiona uma zona de caça associativa nova); não é alteração textual nem revogação expressa da portaria, mas a zona criada por este diploma deixou de existir.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 2.º (2088 ha) — substituída a unidade 7.",
-    "Alterador 1, 2.º: planta anexa substituída — trocada a ligação na unidade 19 (conteúdo só em imagem).",
-    "Alterador 2: extinção da zona de caça e concessão de zona associativa — não textual, não aplicada."
+    "Portaria 564/2006, n.º 1.º: nova redação do n.º 2.º (unidade {{7}}), mantendo o número «2.º».",
+    "Portaria 564/2006, n.º 2.º: substituição da planta, só em imagem; em nao_aplicavel.",
+    "Portaria 416/2009, n.º 1.º: extinção da zona de caça municipal; não textual, em nao_aplicavel (diploma deixou de vigorar na prática)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

@@ -1,17 +1,10 @@
 {
   "id": "pt:dre:437855:por",
-  "substituicoes": [
-    {
-      "de": 3,
-      "ate": 3,
-      "texto": "No n.º 2.º, onde se lê «com uma área de 13,9070 ha.» deve ler-se «com uma área de 13,9700 ha.».",
-      "alterador": 1
-    }
-  ],
+  "substituicoes": [],
   "insercoes": [],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Declaração de Rectificação n.º 20-AL/2001: manda ler, no n.º 2.º, «com uma área de 13,9700 ha.» onde se lê «com uma área de 13,9070 ha.»; o trecho «com uma área de 13,9070 ha.» (com ponto) não existe letra a letra no texto atual (a unidade {{3}} tem «13,9070 ha»), e a instrução refere-se ao n.º 2.º da Portaria n.º 851/2001, não a um texto deste diploma; não aplicada por o alvo ser ambíguo.",
   "instrucoes": [
-    "Alterador 1 retifica a rectificação do n.º 2.º (as expressões passam a terminar em ponto): substituída a unidade 3 pela redação dada pelo alterador."
+    "Rectificação 20-AL/2001 ao n.º 2.º: texto a substituir não existe letra a letra no original; posta em nao_aplicavel, sem alteração."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

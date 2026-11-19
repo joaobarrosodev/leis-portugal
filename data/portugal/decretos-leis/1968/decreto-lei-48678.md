@@ -32,10 +32,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-05-25'
+version_history:
+  file: decreto-lei-48678.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-11-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-05-25'
+    amending: pt:dre:681792:por
+    amending_title: Decreto-Lei n.º 176/72
+    changes:
+    - Revoga Artigo 3.º
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -61,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:07:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 176/72. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48678.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,7 +146,9 @@ Convindo harmonizar, tanto quanto possível, o regime de pagamento, nas tesourar
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O artigo 142.º do Código Administrativo passa a ter a seguinte redacção:
+###### Artigo 1.º
+
+O artigo 142.º do Código Administrativo passa a ter a seguinte redacção:
 
 Art. 142.º Em todos os concelhos existirá um proposto de tesoureiro, nomeado por alvará do presidente da câmara, sob proposta do tesoureiro.
 
@@ -146,21 +164,37 @@ Art. 142.º Em todos os concelhos existirá um proposto de tesoureiro, nomeado p
 
 § 6.º Aos propostos e auxiliares de proposto que exercerem as funções com carácter permanente é aplicável o regime prescrito para os funcionários de secretaria e tesouraria.
 
-Art. 2.º Os tesoureiros das câmaras municipais dos concelhos, urbanos ou rurais, de 1.ª, 2.ª e 3.ª ordem têm direito, respectivamente, à gratificação mensal de 1000$00, 900$00 e 800$00. Os tesoureiros das juntais distritais têm direito à gratificação mensal de 1000$00.
+###### Artigo 2.º
 
-Art. 3.º Os pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio, por cheques do Banco de Portugal ou da Caixa Geral de Depósitos, Crédito e Previdência ou por cheques emitidos ou visados por qualquer estabelecimento bancário, pagáveis na localidade.
+Os tesoureiros das câmaras municipais dos concelhos, urbanos ou rurais, de 1.ª, 2.ª e 3.ª ordem têm direito, respectivamente, à gratificação mensal de 1000$00, 900$00 e 800$00. Os tesoureiros das juntais distritais têm direito à gratificação mensal de 1000$00.
 
-§ único. Os vales de correio ou cheques serão emitidos ou endossados à ordem do tesoureiro da câmara à qual tenha de efectuar-se o pagamento, devendo uns e outros conter a sobrecarga «Pagamento de dívidas às câmaras municipais».
+###### Artigo 3.º
 
-Art. 4.º Os bancos ou casas bancárias que tiverem visado cheques, nos termos da parte final do corpo do artigo anterior, ficarão responsáveis pelo valor dos mesmos, devendo, para isso, cativar logo nos depósitos sacados as respectivas importâncias.
+(Revogado.)
 
-Art. 5.º Os cheques e vales de correio destinados a pagamentos nas tesourarias das câmaras municipais serão enviados, sob registo, acompanhados de um sobrescrito devidamente endereçado, para devolução imediata, como correspondência oficial, dos respectivos recibos.
+> Revogado pelo/a [Decreto-Lei n.º 176/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1972-681792), publicado em 1972-05-25.
 
-Art. 6.º O disposto nos artigos 6.º e 7.º do [Decreto-Lei n.º 45230](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45230-1963-686262), de 6 de Setembro de 1963, aplica-se ao cargo de auxiliar de proposto.
+###### Artigo 4.º
 
-Art. 7.º É aplicável nas tesourarias dos Governos Civis de Lisboa e do Porto o regime estabelecido no § 2.º do artigo 142.º do Código Administrativo.
+Os bancos ou casas bancárias que tiverem visado cheques, nos termos da parte final do corpo do artigo anterior, ficarão responsáveis pelo valor dos mesmos, devendo, para isso, cativar logo nos depósitos sacados as respectivas importâncias.
 
-Art. 8.º É revogado o artigo 2.º do [Decreto-Lei n.º 45362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45362-1963-683987), de 21 de Novembro de 1963.
+###### Artigo 5.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 176/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1972-681792), publicado em 1972-05-25.
+
+###### Artigo 6.º
+
+O disposto nos artigos 6.º e 7.º do [Decreto-Lei n.º 45230](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45230-1963-686262), de 6 de Setembro de 1963, aplica-se ao cargo de auxiliar de proposto.
+
+###### Artigo 7.º
+
+É aplicável nas tesourarias dos Governos Civis de Lisboa e do Porto o regime estabelecido no § 2.º do artigo 142.º do Código Administrativo.
+
+###### Artigo 8.º
+
+É revogado o artigo 2.º do [Decreto-Lei n.º 45362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45362-1963-683987), de 21 de Novembro de 1963.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
 

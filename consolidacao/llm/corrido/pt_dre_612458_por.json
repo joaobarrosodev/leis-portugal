@@ -15,12 +15,11 @@
       "alterador": 1
     }
   ],
-  "nao_aplicavel": null,
+  "nao_aplicavel": "Portarias n.os 304/2000 (renovação por 12 anos, área de 1806,83 ha), 1088/2003 (anexação, área total de 1847,5380 ha) e 1264-F/2004 (anexação condicionada, área total de 1936 ha): renovam a concessão e mudam a área, mas não dão nova redação aos n.os 1.º ou 2.º desta portaria; não se infere alteração ao texto. As plantas novas só existem em imagem.",
   "instrucoes": [
-    "Alterador 1, 1.º: nova redação do n.º 1.º; unidade 6 substituída, mantendo a numeração 1.º.",
-    "Alterador 1, 1.º (segunda parte): aditamento do n.º 1.º-A; inserido depois da unidade 6.",
-    "Alterador 1, 2.º e 3.º: manutenção de direitos e entrada em vigor; não textuais.",
-    "Alteradores 2, 3 e 4: renovação da concessão e anexação de prédios com plantas próprias, sem nova redação do texto do original; nada a aplicar."
+    "Portaria 515/97, 1.º: nova redação do n.º 1.º (unidade {{6}}), mantendo «1.º».",
+    "Portaria 515/97, 1.º: aditado o n.º 1.º-A, inserido a seguir à unidade {{6}}.",
+    "Portarias 304/2000, 1088/2003 e 1264-F/2004: renovação e anexações sem redação textual; em nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",

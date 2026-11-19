@@ -3,7 +3,8 @@ id: pt:dre:346486:por
 title: Decreto Legislativo Regional n.º 12/93/M
 original: data/regional/madeira/decretos-legislativos-regionais/1993/decreto-legislativo-regional-12-93-m.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:241443:por
@@ -197,9 +198,11 @@ e) Data do pagamento.
 
 1 - Em simultâneo com o pagamento das remunerações, nos termos previstos no artigo 8.º, será pago à bordadeira de casa um valor correspondente a um duodécimo do montante dessa remuneração.
 
-2 - O somatório dos duodécimos recebidos no período de um ano, nos termos do número anterior, representa, para todos os efeitos, o subsídio anual previsto no artigo 7.º do Decreto-Lei n.º 440/91, de 14 de Novembro.
+2 - O somatório dos duodécimos recebidos no período de um ano, nos termos do número anterior, representa, para todos os efeitos, o subsídio anual previsto no artigo 7.º do [Decreto-Lei n.º 440/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1991-316727), de 14 de Novembro.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 22/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443), publicado em 1998-09-18.
 
 ###### Artigo 11.º — Segurança social
 

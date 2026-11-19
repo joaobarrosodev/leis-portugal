@@ -1,0 +1,25 @@
+{
+  "id": "pt:dre:163631:por",
+  "artigos": [
+    {
+      "chave": "5.º",
+      "epigrafe": "",
+      "texto": "É criado na Secretaria de Estado, e integrado na Direcção-Geral dos Negócios Políticos e da Administração Interna, mais um lugar de adjunto do director-geral, com a categoria de ministro plenipotenciário de 2.ª classe, cujas funções serão definidas por despacho ministerial.\n\n§ único. (Revogado.)",
+      "alterador": 1
+    }
+  ],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": null,
+  "instrucoes": [
+    "Art. 4.º, § único, do Decreto-Lei n.º 44970: revogado o § único do artigo 5.º; o corpo mantém-se e o § fica «(Revogado.)» (reparo confirmado: o programa tinha revogado o artigo inteiro).",
+    "Restantes artigos do Decreto-Lei n.º 44970 (1.º a 3.º, 5.º a 10.º e o corpo do 4.º): normas próprias ou dirigidas a outros diplomas; sem alteração ao texto do original."
+  ],
+  "modelo": "claude-opus-5-5",
+  "pedido": "completo",
+  "problemas": [
+    "5.º: parágrafo que não está no alterador nem no original: § único. (Revogado.)"
+  ],
+  "avisos": []
+}
