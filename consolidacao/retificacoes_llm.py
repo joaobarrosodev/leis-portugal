@@ -300,6 +300,10 @@ def aplicar(dry_run: bool, ronda: str | None = None) -> None:
             completar = s["retificacao"] in ja
             if completar and not r.get("completa"):
                 continue
+            if completar:
+                presentes = {normalizar(sem_ligacoes(l)) for l in linhas}
+                if all(normalizar(sem_ligacoes(t["texto_novo"])) in presentes for t in r["trocas"]):
+                    continue  # já completada numa corrida anterior
             copia = list(linhas)
             try:
                 feitas = trocar(copia, r["trocas"])
