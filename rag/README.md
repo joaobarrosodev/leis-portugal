@@ -692,12 +692,59 @@ As duas medições que faltavam antes de pôr as perguntas no índice de uso: a 
 - **Subir o limiar para todos não serve.** Com 3,35 voltam a ser 5 «sem resposta», mas fora do âmbito as certas caem de 46 para 40 (simulado com as notas gravadas, sem nova corrida). Um limiar mais alto só quando o 1.º artigo tem perguntas (≈ 3,35) evitaria isso. No grupo da decisão daria cerca de 92 certas em 111 respondidas, em vez de 99 em 120. Mas seria afinar com 3 casos, e fica por decidir.
 - As ressalvas de cima continuam: as coloquiais partilham o vocabulário das perguntas geradas, e o sinal mais seguro são as 28 reais novas (6 → 17 certas, sem perdas no 1.º; amostra pequena).
 
+### Alargamento aos outros códigos principais (19/11/2026)
+
+A lista de `Pesquisa.codigos_principais()` no índice de uso de 16/11, revista à mão, está em `OUTROS_CODIGOS` (`rag/perguntas_por_artigo.py`), com as razões de cada saída num comentário. Em resumo:
+- **Ficam** 37 blocos: o resto do Código Civil (sem os artigos 1022.º a 1113.º do piloto), o Penal, os de Processo Civil, Penal, do Trabalho e nos Tribunais Administrativos, o da Execução das Penas, o de Justiça Militar, os dos impostos (IRS, IRC, IVA, IMI, IMT, Selo, ISV, IUC, IEC, a LGT e o CPPT), o dos Regimes Contributivos, o CPA, a LTFP, o dos Contratos Públicos, o das Expropriações, o da Estrada, o das Sociedades Comerciais, o da Insolvência, o dos Valores Mobiliários, o Cooperativo, os dos Registos Comercial, Predial e Civil, o do Notariado, o da Propriedade Industrial, o do Direito de Autor, o da Publicidade e o Deontológico dos Contabilistas.
+- **Saem** 17 diplomas da lista:
+  - os textos originais sem histórico de códigos que já lá estão na versão consolidada (CIRS e CIRC de 1988, CIVA de 1984);
+  - os códigos substituídos (Notariado de 1960, Registo Civil de 1967, Custas Judiciais, Processo das Contribuições, Trabalho Rural, Custas do Ultramar, Código Administrativo de 1940);
+  - os que não estão em vigor (Contribuição Predial, Imposto de Transacções, Processo Tributário de 1991, Recuperação da Empresa, Florestal);
+  - o Código de Boas Práticas Agrícolas (um despacho) e o Código da Ação Social dos Açores (regional).
+- **Entra à mão** o Código do Registo Civil do DL 131/95: `Pesquisa.codigo` escolhe o de 1967, que tem mais artigos.
+- **Números antes de gerar:** 11.418 artigos em vigor e não revogados (`revogado_agora`), 9,4 milhões de caracteres, **327 lotes de 35**. Mais 1 do piloto: o 1063.º do Código Civil, que no piloto contava como revogado. A estimativa de 430 lotes contava os textos que saíram.
+- As regras (`rag/perguntas_artigo/REGRAS.md`) passam a valer para todas as áreas, com palavras do dia a dia para cada uma. A validação também recusa os nomes dos outros códigos («código da estrada», «Código Penal», «Lei Geral Tributária») e as siglas (CPC, CIRS, LGT…). «O código do multibanco» e «a lei geral do trabalho» passam. As 3.078 perguntas do piloto continuam todas válidas.
+- `exportar --so-sem-perguntas` exporta só os artigos que ainda não têm perguntas. `estado --pasta P` diz que lotes já estão validados, para retomar depois de um corte. O `importar` só reescreve os blocos que vêm na pasta e guarda as linhas que já lá estavam.
+
+## Candidatos ao reranker e pesquisa semântica (19/11/2026)
+
+As 1.298 perguntas no índice de 17/11, com `--reranker cruzado --limiar 3`, sem LLM. Resumos em `rag/resultados/max15-1711.json`, `max30-1711.json`, `max50-1711.json`, `sem1711-com.json` e `sem1711-sem.json`.
+
+- **Como:** para poupar CPU, cada pergunta foi pontuada uma só vez com a lista maior, e as variantes menores reutilizaram as notas desses mesmos textos. Os 15/30/50 usaram a lista de 50, e o com/sem semântica a lista com os candidatos semânticos.
+- **Ruído do reranker:** a nota de um texto muda com os outros textos do mesmo lote. O modelo é int8 e a quantização depende do lote. Numa pergunta temporal, os mesmos 30 textos em ordem inversa mudaram até 0,62, e lidos um a um até 0,22. A ordem dos primeiros quase não muda, mas as notas perto do limiar 3 mudam, e com elas o «não sei». Por isso `max30-1711` e `sem1711-sem`, que são a mesma configuração com lotes diferentes, diferem em 8 perguntas certas (614 e 613) e em 7 que respondem ou não. **Diferenças de menos de ~8 perguntas entre variantes são ruído.**
+
+| `maximo` (candidatos que o reranker lê) | 15 | 30 (o atual) | 50 |
+|---|--:|--:|--:|
+| Certas (de 1.298) | 617 | 614 | 608 |
+| Respondidas | 831 | 837 | 843 |
+| Reais: certas nas respondidas | 114/185 | 111/186 | 108/191 |
+| «Sem resposta» a que respondeu (de 80) | 4 | 6 | 6 |
+| Compostas com os artigos nos 10 primeiros | 58 | 64 | 61 |
+| Texto alterado: certas | 69 | 70 | 70 |
+| Face a 30, pergunta a pergunta | 8 ganhos / 3 perdas | — | 2 ganhos / 8 perdas |
+
+- **Mais candidatos não ajudam:** com 50 responde mais vezes e acerta menos (8 perdas, 5 delas reais). Com 15, os 2 «sem resposta» a menos e as 3 reais a mais estão dentro do ruído, e as compostas perdem 6 nos 10 primeiros.
+- **Decisão: fica 30.** Falta medir o tempo por pergunta de cada um, com a máquina livre. A 19/11 de madrugada a medição foi parada, porque outras sessões levaram a carga do CPU a 70.
+
+| Pesquisa semântica (`rag.semantica`, 20 candidatos a mais) | Sem | Com |
+|---|--:|--:|
+| Certas (de 1.298) | 613 | 611 |
+| Reais: certas nas respondidas | 110/185 | 107/186 |
+| Coloquiais: certas nas respondidas | 24/35 | 25/37 |
+| Coloquiais com o artigo nos 10 primeiros (de 281) | 112 | **137** |
+| Reais com o artigo nos 10 primeiros (de 281) | 223 | 227 |
+| «Sem resposta» a que respondeu (de 80) | 5 | 5 |
+| Pergunta a pergunta | — | 2 ganhos / 4 perdas (todas reais) |
+
+- **A semântica traz o artigo certo para os candidatos** (+25 coloquiais nos 10 primeiros), **mas o reranker não o põe em 1.º:** as certas ficam iguais, dentro do ruído.
+- **Decisão: fica desligada**, como já está por omissão. Os vetores ficam em `rag/indice/semantica.npz` para voltar a medir com um reranker melhor ou com as perguntas por artigo nos outros códigos.
+
 ## Próximos passos
 
 Por ordem de ganho esperado:
 
 1. **Passo do LLM** com chave: medir a fiabilidade das respostas escritas e o "não sei" nas perguntas fora do âmbito, que a pesquisa sozinha não reconhece.
-2. **Pesquisa semântica nas reais**: embeddings só dos diplomas em vigor consolidados e dos códigos (uma fração do acervo, cerca de 1 h a indexar), juntos ao BM25, para que o artigo certo chegue aos candidatos; e expandir temas comuns para o código (IVA → CIVA, IMI → CIMI).
+2. ~~**Pesquisa semântica nas reais**~~: medida a 19/11 («Candidatos ao reranker e pesquisa semântica»). Traz o artigo certo para os candidatos, mas o reranker não o põe em 1.º. Fica desligada. Continua por fazer: expandir os temas comuns para o código (IVA → CIVA, IMI → CIMI).
 3. **Perguntas sobre diplomas alterados sem consolidação** no conjunto de avaliação, para medir o risco principal do plano, que hoje fica de fora.
 4. **Trocar `fontes.ler_artigos` pelo parser da fase 3** e reconstruir o índice (5 min); medir outra vez.
 5. **Velocidade**: o reranker leva 7 a 8 s por pergunta em CPU; para uso real, um reranker mais pequeno, menos candidatos ou GPU.

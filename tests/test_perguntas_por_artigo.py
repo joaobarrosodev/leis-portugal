@@ -18,15 +18,25 @@ CC = "pt:dre:477358:por"
 NRAU = "pt:dre:693853:por"
 
 
-def test_ambito_do_piloto():
+def test_ambito_do_piloto_e_dos_outros_codigos():
     assert pa.bloco_de(CT, "Anexo — CÓDIGO DO TRABALHO::127.º").nome == "codigo-do-trabalho"
     assert pa.bloco_de(CT, "5.º") is None  # o articulado da Lei n.º 7/2009, não o Código
     assert pa.bloco_de(CC, "Anexo — CÓDIGO CIVIL::1069.º-A").nome == "codigo-civil-arrendamento"
     assert pa.bloco_de(CC, "Anexo — CÓDIGO CIVIL::1022.º") and pa.bloco_de(CC, "Anexo — CÓDIGO CIVIL::1113.º")
-    assert pa.bloco_de(CC, "Anexo — CÓDIGO CIVIL::1021.º") is None
-    assert pa.bloco_de(CC, "Anexo — CÓDIGO CIVIL::1114.º") is None
+    # O resto do Código Civil está no bloco «codigo-civil», sem os artigos do arrendamento.
+    assert pa.bloco_de(CC, "Anexo — CÓDIGO CIVIL::1021.º").nome == "codigo-civil"
+    assert pa.bloco_de(CC, "Anexo — CÓDIGO CIVIL::1114.º").nome == "codigo-civil"
     assert pa.bloco_de(NRAU, "15.º-A").nome == "nrau"
     assert pa.bloco_de(NRAU, "Anexo — Republicação do capítulo IV do título II do livro II do Código Civil::1069.º") is None
+    assert pa.bloco_de("pt:dre:185720:por", "131.º").nome == "codigo-penal"
+    assert pa.bloco_de("pt:dre:518992:por", "1.º") is None  # o CIRS de 1988 sem histórico: o em vigor é o da Lei 82-E/2014
+    assert len({b.nome for b in pa.AMBITO}) == len(pa.AMBITO)
+
+
+def test_ambito_sem_blocos_repetidos():
+    # Cada (documento, parte) num só bloco, menos o Código Civil, partido por intervalo de artigos.
+    partes = [(b.documento, b.parte) for b in pa.AMBITO]
+    assert [p for p in set(partes) if partes.count(p) > 1] == [(CC, "Anexo — CÓDIGO CIVIL")]
 
 
 def _nota(tipo, data):
@@ -56,6 +66,11 @@ BOA = {"documento": CT, "chave": "k", "perguntas": ["Quantos dias de férias ten
         ([*BOA["perguntas"][:2], "O que diz o artigo 238.º sobre férias?"], "cita"),
         ([*BOA["perguntas"][:2], "O Código do Trabalho deixa trabalhar ao domingo?"], "cita"),
         ([*BOA["perguntas"][:2], "A Lei n.º 6/2006 deixa subir a renda?"], "cita"),
+        ([*BOA["perguntas"][:2], "O que diz o código da estrada sobre trotinetes?"], "cita"),
+        ([*BOA["perguntas"][:2], "O Código Penal pune quem rouba comida?"], "cita"),
+        ([*BOA["perguntas"][:2], "Segundo o Código de Processo Civil, quanto tempo tenho?"], "cita"),
+        ([*BOA["perguntas"][:2], "O CIRS deixa deduzir a renda da casa?"], "cita"),
+        ([*BOA["perguntas"][:2], "A Lei Geral Tributária deixa as Finanças penhorar?"], "cita"),
     ],
 )
 def test_validar_recusa_cada_regra(perguntas, problema):
@@ -64,8 +79,19 @@ def test_validar_recusa_cada_regra(perguntas, problema):
     assert pa.validar(BOA, None) == ["chave que não está na entrada"]
 
 
-def test_validar_aceita_a_lei_sem_numero():
-    linha = {**BOA, "perguntas": [*BOA["perguntas"][:2], "A lei não me deixa recusar as horas extra?"]}
+@pytest.mark.parametrize(
+    "pergunta",
+    [
+        "A lei não me deixa recusar as horas extra?",
+        "Roubaram-me o código do multibanco, o banco tem de me devolver o dinheiro?",
+        "Tenho de pôr o código postal certo na declaração do IRS?",
+        "Quanto IVA pago numa fatura de obras em casa?",
+        "Os contratos especiais seguem a lei geral do trabalho?",
+        "Tenho de ir ao registo civil para casar?",
+    ],
+)
+def test_validar_aceita_palavras_do_dia_a_dia(pergunta):
+    linha = {**BOA, "perguntas": [*BOA["perguntas"][:2], pergunta]}
     assert pa.validar(linha, {"chave": "k"}) == []
 
 
@@ -98,13 +124,49 @@ def _indice_do_ambito(tmp_path):
 
 
 def test_artigos_do_ambito_so_em_vigor_e_nao_revogados(tmp_path):
-    artigos = pa.artigos_do_ambito(_indice_do_ambito(tmp_path))
+    indice = _indice_do_ambito(tmp_path)
+    artigos = pa.artigos_do_ambito(indice)
     assert [(a["documento"], a["chave"]) for a in artigos] == [
         (CT, "Anexo — CÓDIGO DO TRABALHO::238.º"),
         (CC, "Anexo — CÓDIGO CIVIL::1069.º-A"),
         (NRAU, "15.º"),
+        (CC, "Anexo — CÓDIGO CIVIL::1021.º"),  # o resto do Código Civil, uma só vez
+        (CC, "Anexo — CÓDIGO CIVIL::1114.º"),
     ]
     assert artigos[0]["texto"].endswith("nova redação.")  # a redação em vigor, não a de 2009
+    assert [a["chave"] for a in pa.artigos_do_ambito(indice, pa.PILOTO)] == [
+        "Anexo — CÓDIGO DO TRABALHO::238.º", "Anexo — CÓDIGO CIVIL::1069.º-A", "15.º"]
+
+
+def _linha(chave, documento=CC):
+    return {"documento": documento, "chave": chave, "perguntas": BOA["perguntas"]}
+
+
+def _gravar(caminho, linhas):
+    caminho.write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in linhas), encoding="utf-8")
+
+
+def test_exportar_so_os_artigos_sem_perguntas_e_importar_sem_apagar_o_piloto(tmp_path):
+    indice = _indice_do_ambito(tmp_path)
+    destino = tmp_path / "perguntas"
+    destino.mkdir()
+    piloto = {"documento": CC, "chave": "Anexo — CÓDIGO CIVIL::1069.º-A", "perguntas": ["O contrato de arrendamento tem de ser por escrito?"]}
+    _gravar(destino / "codigo-civil-arrendamento.jsonl", [piloto])
+    _gravar(destino / "codigo-do-trabalho.jsonl", [{**piloto, "documento": CT, "chave": "Anexo — CÓDIGO DO TRABALHO::238.º"}])
+    _gravar(destino / "nrau.jsonl", [{**piloto, "documento": NRAU, "chave": "15.º"}])
+    lotes = tmp_path / "lotes"
+    assert pa.exportar(indice, lotes, 1, so_sem_perguntas=True, destino=destino) == 2
+    assert sorted(p.name for p in lotes.iterdir()) == ["entrada-01.jsonl", "entrada-02.jsonl"]
+    assert pa.estado(lotes) == {"entrada-01.jsonl": ["sem saída"], "entrada-02.jsonl": ["sem saída"]}
+    _gravar(lotes / "saida-01.jsonl", [_linha("Anexo — CÓDIGO CIVIL::1021.º")])
+    _gravar(lotes / "saida-02.jsonl", [{**_linha("Anexo — CÓDIGO CIVIL::1114.º"), "perguntas": BOA["perguntas"][:2]}])
+    assert pa.estado(lotes)["entrada-01.jsonl"] == []
+    assert any("3 a 5" in p for p in pa.estado(lotes)["entrada-02.jsonl"])
+    r = pa.importar(lotes, destino, gerado="2026-11-19")
+    assert (r["importados"], r["em_falta"]) == (1, [(CC, "Anexo — CÓDIGO CIVIL::1114.º")])
+    assert [x["chave"] for x in pa._ler_jsonl(destino / "codigo-civil.jsonl")] == ["Anexo — CÓDIGO CIVIL::1021.º"]
+    assert pa._ler_jsonl(destino / "codigo-civil-arrendamento.jsonl") == [piloto]  # o piloto fica como estava
+    assert len(pa.ler(destino)) == 4
 
 
 def _ids(caminho, documento, chave):
