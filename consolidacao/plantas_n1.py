@@ -176,6 +176,36 @@ def aplicar(dry_run: bool) -> None:
         print("  ", r)
 
 
+def estado() -> None:
+    """O estado final de cada caso em `auditoria/plantas-n1.jsonl`: trocada, ou não, com o motivo
+    (o do verificador às cegas, ou o da regra)."""
+    linhas = [json.loads(l) for l in ESTADO.read_text(encoding="utf-8").splitlines() if l.strip()]
+    trocadas = {json.loads(l)["id"] for l in APLICADAS.read_text(encoding="utf-8").splitlines() if l.strip()} if APLICADAS.exists() else set()
+    entradas, veredictos = {}, {}
+    for f in sorted(LLM.glob("verificacao-entrada-*.jsonl")):
+        for l in f.read_text(encoding="utf-8").splitlines():
+            if l.strip():
+                e = json.loads(l)
+                entradas[e["n"]] = e
+    for f in sorted(LLM.glob("verificacao-saida-*.jsonl")):
+        for l in f.read_text(encoding="utf-8").splitlines():
+            if l.strip():
+                v = json.loads(l)
+                if v["n"] in entradas:
+                    veredictos[entradas[v["n"]]["id"]] = v
+    contas = defaultdict(int)
+    for x in linhas:
+        if x["estado"] in ("a trocar", "trocada") or x["estado"].startswith("não se aplica"):
+            if x["id"] in trocadas:
+                x["estado"] = "trocada"
+            elif x["id"] in veredictos:
+                v = veredictos[x["id"]]
+                x["estado"], x["motivo"] = "não se aplica", f"a verificação às cegas deu «{v['veredicto']}»: {v['motivo']}"
+        contas[x["estado"]] += 1
+    ESTADO.write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in linhas), encoding="utf-8")
+    print(dict(contas))
+
+
 _SELECAO: dict[str, list[dict]] = {}
 
 
@@ -189,10 +219,10 @@ def _alteradores(id_: str) -> list[dict]:
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    parser.add_argument("passo", choices=["entrada", "aplicar"])
+    parser.add_argument("passo", choices=["entrada", "aplicar", "estado"])
     parser.add_argument("--dry-run", action="store_true")
     args = parser.parse_args(argv)
-    entrada() if args.passo == "entrada" else aplicar(args.dry_run)
+    {"entrada": entrada, "estado": estado}.get(args.passo, lambda: aplicar(args.dry_run))()
     return 0
 
 

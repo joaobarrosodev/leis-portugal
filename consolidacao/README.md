@@ -370,6 +370,46 @@ python consolidacao/vigencia.py --rotulos rotulos.txt --processos processos.txt
 
 `processos.txt` é o `rg -P -o` dos números de processo das concessões candidatas (`vigencia.caca_prazo`).
 
+### 11. Anexos, mapas e plantas que os alteradores mudam (19/11/2026)
+
+Dois problemas novos, achados ao fechar a auditoria. Os dois deixavam o consolidado com o anexo ou a planta do original, embora um alterador os tivesse mudado.
+
+**1. Alteradores triados «sem alteração textual» que mudam um anexo (`anexos_alteradores.py`).** São os que não dão instruções ao articulado, mas cujo rótulo do DRE diz que mudam um anexo, um mapa, um quadro ou uma planta («Alterado o quadro de pessoal pela…», «Substituída a planta anexa pela…»). São 206 pares em 89 consolidados.
+
+- **Resposta:** Opus, em 21 lotes (`llm/anexos/`, `PROMPT-respondedor.md`). Há três maneiras de aplicar:
+  - **imagem substituída:** o alterador substitui o anexo por inteiro e troca-se a ligação;
+  - **alteração parcial a um quadro que só existe em imagem:** insere-se a seguir ao quadro um parágrafo curto e a imagem do alterador, ou o texto dele à letra, quando o traz;
+  - **anexo em texto:** altera-se o texto.
+
+  Vários alteradores sobre a mesma linha encadeiam-se pela ordem de data (`encadear`).
+- **Verificação às cegas (Sonnet, 9 lotes):** dos 123 pares com trocas, 113 ficaram certos, 1 errado e 9 em dúvida.
+  - Na r2, quatro deles foram refeitos. Duas imagens com os quadros de vários serviços passaram a inserção. Entrou o n.º 2 do DN 421/93. Fixou-se o motivo de um «já aplicada» do Aviso 4364/2013, que precisou de mais uma ronda (r3).
+  - Os 4 ficaram certos.
+- **Aplicação:** 113 alteradores em 45 consolidados (`auditoria/anexos-aplicados.jsonl`). Cada alterador entra nos `acts`, com a nota «> Alterado pelo/a» e a data da versão.
+- **Estado dos 206** (`auditoria/anexos-estado.jsonl`): 113 aplicados e 93 «não se aplica», com o motivo:
+  - 34 outro diploma;
+  - 24 reescrito depois;
+  - 9 já aplicada;
+  - 14 não se aplica por outra razão;
+  - 2 sem texto nem imagem;
+  - 10 não passaram às cegas (na dúvida, não se aplica).
+
+  Nenhum fica por ver.
+
+**2. A planta das zonas de caça com o n.º 1.º reescrito (`plantas_n1.py`, por regra).** Um alterador reescreve o n.º 1.º de uma portaria de concessão, a remeter para a «planta anexa à presente portaria», e publica a planta nova. A consolidação aplicou o n.º 1.º, mas a imagem ficou a de 1992. A regra só troca a ligação quando:
+- é o último alterador assim;
+- o alterador e o consolidado têm uma só imagem cada;
+- o n.º 1.º do consolidado tem a nota desse alterador.
+
+Resultados:
+- 179 casos, todos verificados às cegas (Sonnet, 3 lotes): 174 certos, 2 errados e 3 em dúvida;
+- **174 plantas trocadas** (`auditoria/plantas-aplicadas.jsonl`);
+- 5 ficam pelo motivo do verificador, e 3 por a regra não bater (`auditoria/plantas-n1.jsonl`).
+
+As renovações, as anexações e as desanexações de prédios publicam também uma planta. São atos autónomos que não reescrevem a portaria, como as renovações da secção 10, e por isso não entram.
+
+O `acervo.py` guarda também estes registos (`retificados_por_regra` lê os três ficheiros de aplicados).
+
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 
 A verificação letra a letra de `llm_completo.verificar_resposta` confirma que cada parágrafo de um artigo devolvido vem de um alterador **ou do original**. Deixava passar dois casos:

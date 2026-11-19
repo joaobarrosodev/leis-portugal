@@ -277,6 +277,10 @@ Por classe, as marcas foram 18 de 370 na caça, 8 de 210 nas orgânicas e 0 de 7
 
 **As renovações de caça «fora da cadeia» (66 linhas, 40 pares).** Não havia nada a aplicar. 38 pares já estavam na cadeia: a consolidação viu-os (seleção e `alteradores_vistos` do LLM) e não mudam o texto, porque uma renovação renova a concessão sem reescrever a portaria. Os outros 2 eram números de processo trocados (um acórdão do STJ e uma gralha no sumário da Portaria 449/2004). A regra foi corrigida (`vigencia.na_cadeia()`), e `alteradores-em-falta.jsonl` fica vazio. As marcas não mudam (339).
 
+**Problema novo, fechado: anexos e plantas de alteradores (README, secção 11).**
+- **Anexos.** Alteradores triados «sem alteração textual» mudavam anexos, mapas ou quadros, e o consolidado ficava com os do original (206 pares em 89 consolidados). Aplicaram-se 113 em 45 consolidados, com resposta Opus e verificação às cegas Sonnet. Os outros 93 ficaram com o motivo: outro diploma, reescrito depois, já aplicada, ou não passaram às cegas.
+- **Plantas.** Em 179 zonas de caça, o n.º 1.º reescrito remete para a planta do alterador, mas a imagem era a do original. Trocaram-se 174, todas verificadas às cegas.
+
 **Fecho da vigência (19/11, à noite).** Os 135 incertos tiveram uma leitura com Sonnet. Cada um dos 793 candidatos acaba com marca ou com «revista, sem marca» e o motivo (`consolidacao/auditoria/vigencia-fecho.jsonl`):
 - 37 `nao_vigora` com prova (26 de antes, mais 11 dos incertos);
 - 10 `regime_anterior` em cursos incertos;

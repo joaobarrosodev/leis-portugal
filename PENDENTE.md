@@ -185,8 +185,13 @@ Os pormenores estão no `consolidacao/README.md`, «8. Repedir com os reparos e 
   - medir o texto alterado antes e depois.
 - **Os dois achados, resolvidos a 19/11** (`reports/auditoria-consolidados.md`; `consolidacao/README.md`, secções 9 e 10):
   - **Retificações fora da cadeia, fechadas a 100 %.** Das 243, 166 estão aplicadas em 156 diplomas: 67 por regra e 99 com o LLM (rondas 1, r2 a r6, im e rc), todas verificadas às cegas. As outras 77 têm motivo final: 41 «nada a aplicar» e 36 «sem trabalho». Não fica nenhuma «por ver» (`python consolidacao/retificacoes_estado.py`; `consolidacao/auditoria/retificacoes-estado.jsonl`). As 6 «sem registo» foram recolhidas do DRE. A fuga está fechada: `corrected_by` conta como alterador nas próximas rondas.
+  - **Anexos e plantas de alteradores, fechados a 100 % (problema novo, achado ao fechar):**
+    - 113 alteradores que mudam anexos, mapas ou quadros e que a triagem deu «sem alteração textual», aplicados em 45 consolidados; os outros 93 dos 206 pares têm o motivo (`consolidacao/auditoria/anexos-estado.jsonl`);
+    - 174 plantas de zonas de caça trocadas pela do alterador que reescreveu o n.º 1.º (`plantas-n1.jsonl`).
+
+    Tudo com verificação às cegas (README, secção 11).
   - **Vigência, fechada a 100 %.** Não se tiram consolidações por vigência. A marca `consolidacao/auditoria/vigencia-revista.jsonl` tem 417 diplomas: 166 `nao_vigora`, 194 `regime_anterior` e 57 `por_confirmar` (marca branda). O RAG dá o aviso. Cada um dos 793 candidatos da leitura com o LLM (658 de certeza alta e os 135 incertos) acaba com marca ou com «revista, sem marca» e o motivo (`consolidacao/auditoria/vigencia-fecho.jsonl`). Os 12 do bloco 3 voltaram a entrar no `data/`. As «66 renovações de caça fora da cadeia» não estavam fora: 38 dos 40 pares já tinham sido vistos pela consolidação e não mudam o texto, e 2 eram números de processo trocados. Não havia nada a aplicar.
 - **Falta:**
-  - export e reconstrução do índice com os 156 registos retificados (`consolidacao/auditoria/retificacoes-aplicadas.jsonl`), os 14 com as notas reparadas (`retificacoes_notas.py`), os 12 de volta e as 6 retificações recolhidas; a cargo da sessão coordenadora;
+  - export e reconstrução do índice com os 358 consolidados mudados e os 6 registos recolhidos, a cargo da sessão coordenadora. Os consolidados são a união de `consolidacao/auditoria/retificacoes-aplicadas.jsonl`, `anexos-aplicados.jsonl` e `plantas-aplicadas.jsonl`, com os 14 das notas reparadas, e mais os 12 do bloco 3 de volta;
   - copiar `vigencia-revista.jsonl` para a pasta do índice ao publicar no HF;
   - depois da reconstrução, medir o aviso e, à parte, `RAG_VIGENCIA_PRIOR=1`. Com o índice das 15h27 não se mede, porque não tem os registos retificados nem os 12 do bloco 3, e as marcas mudaram.
