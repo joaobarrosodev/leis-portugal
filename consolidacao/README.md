@@ -4,7 +4,7 @@ Piloto da fase 2 do [plano para um RAG jurídico fiável](../PLANO-RAG.md): obte
 
 ## O que falha e porquê (estado em 11/11/2026)
 
-Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.739 diplomas** têm o texto em vigor em `data/`. As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
+Resumo de todas as rondas, para quem retomar este trabalho sem o histórico das sessões que o fizeram. **2.767 diplomas** têm o texto em vigor em `data/` (2.739 a 13/11; mais 28 nas rondas 112 a 114, ver a secção 8). As secções por bloco, mais abaixo, têm o pormenor de cada ronda; as rondas de algumas sessões foram renumeradas ao juntar ao `main` (a correspondência está em cada título de secção).
 
 ### 1. Verificados às cegas com reparos: 779 diplomas
 
@@ -93,6 +93,81 @@ O `juntar` do pedido completo passa agora a deixar como "não junto" os diplomas
 **Ronda 105: Decreto 45205 (Regulamento das Radiocomunicações de 1959).** Foi pelo `llm_gigantes.py`, numa só passagem, porque tem 1 alterador, o Decreto Regulamentar 10-A/77. O texto atual tem 846 mil caracteres e foi num ficheiro à parte. O respondedor Opus não encontrou nenhuma instrução para aplicar. O decreto regulamentar só aprova a revisão de Genebra de 1971, e as alterações estão nos anexos 1 a 19. No acervo, o alterador tem 12 mil caracteres: o preâmbulo, as assinaturas e ligações "(ver documento original)" para o PDF. O `juntar` deixou-o como "não junto" (a resposta não muda nada), por isso não há vistas nem verificação às cegas. **Não foi aplicado.** Juntou-se ao `llm/gigantes-ids.txt`.
 
 Depois foram-se buscar os anexos ao PDF do DR (`files.diariodarepublica.pt/1s/1977/02/02701/00010176.pdf`, 176 páginas). O PDF está cifrado (AESV2, sem palavra-passe) e cada página é uma imagem CCITT G4, sem texto. Decifradas e convertidas, as páginas leem-se bem. Os anexos ocupam as páginas 10 a 176, com instruções por número de parágrafo (MOD, SUP, ADI, INA) e quadros de atribuição de frequências substituídos por inteiro. **Mesmo com o texto, não se aplica, porque misturaria versões.** A revisão de 1971 parte do Regulamento já revisto pelas conferências de 1963, 1966 e 1967. Muitos dos números que ela altera ou suprime (84AE, 84AL, 233B, 374A, 383A, 639CP, 639BM) vêm dessas revisões e não existem no texto do original. Essas revisões estão no acervo noutros diplomas (Decreto 48404, de 1968, e Decreto 434/71), mas o DRE não os dá como alteradores do Decreto 45205. Além disso, os quadros de frequências do próprio original só existem em imagem (182 "ver documento original"). É o mesmo motivo do Regulamento para Evitar Abalroamentos no Mar, na ronda 100. Para o consolidar, seria preciso aplicar primeiro, por ordem, todas as revisões do Regulamento e transcrever os quadros. Ficou de fora, e o aviso "Texto original; alterado por…" mantém-se. **E não está em vigor:** o Decreto n.º 39-A/92, que aprova o Regulamento das Radiocomunicações de 1979, revoga-o no art. 2.º, alínea a), e revoga também os Decretos 46425, 48404 e 434/71. Mesmo assim, o acervo dá os quatro como `in_force`. A correção da vigência ficou com a sessão da vigência manual.
+
+### 8. Repedir com os reparos e segunda leitura jurídica: rondas 112 a 114 (16–19/11/2026)
+
+Os diplomas com reparos às cegas e sem anexos em imagem repediram-se em três blocos. Os ids estão em `llm/reparos-bloco-1..3.txt`. Cada bloco seguiu o mesmo caminho:
+
+1. `reparos.py` com os reparos do verificador;
+2. respondedores Opus;
+3. `importar` e `juntar`;
+4. `cegas.py --escala` e verificadores Sonnet às cegas;
+5. uma **segunda leitura jurídica** por subagentes Opus em todos os que passaram às cegas.
+
+A segunda leitura compara o consolidado com o original e com os alteradores. Procura no acervo outro diploma que revogue ou substitua o diploma e lê as `relationships` do registo no DRE. Os que tiram ficam em `acervo.DE_FORA`, com o motivo numa linha. Os revogados por inteiro que a própria resposta mostra ficam em `llm/exclusoes.json`.
+
+| Ronda (bloco) | Repedidos | Às cegas | Sem reparos às cegas | Na segunda leitura | Tirados por ela | Aplicados |
+|---|--:|--:|--:|--:|--:|--:|
+| 112 (1) | 108 | 57 | 27 | 22 | 9 | 13 |
+| 113 (2) | 107 | 34 | 20 | 18 | 5 | 14 |
+| 114 (3) | 107 | 51 | 36 | 35 | 29 | **6** |
+
+Os números das rondas 112 e 113 vêm das mensagens de commit e das notas dessas sessões. Entre «sem reparos às cegas» e «na segunda leitura» saíram os iguais ao original e os revogados por inteiro.
+
+Os blocos 1 e 2 deram +2 nas 99 perguntas de texto alterado (índice de 17/11).
+
+**Ronda 114.** Às cegas viram-se 1.289 artigos de 51 diplomas: 1.280 `certo`, 5 `errado` e 4 `dúvida` (`verificacao/entrada-piloto-114-lote-01..02.jsonl`). Passaram 36 e o DL 78/2002 ficou igual ao original. A segunda leitura dos 35 está em `verificacao/segunda-leitura-114.jsonl`, uma linha por diploma com o veredicto e os problemas: 10 `certo`, 20 `reparos` e 5 `dúvida`. Entraram 6 no `data/`:
+
+- DL 48678;
+- DL 346/97;
+- DL 57/2000;
+- DL 237/2006;
+- Portaria 104/79;
+- Portaria 482/2009.
+
+Ficaram de fora 29, por três razões:
+
+- **Erro no texto que a verificação letra a letra não apanha (8).**
+  - Quatro têm declarações de retificação por aplicar: as Portarias 828/2008, 846/2008, 813/2009 e 842/91 (esta última também caducou).
+  - No DL 329/83 falta a retificação de 31/8/1983.
+  - No DLR 12/93/M falta a revogação do art. 11.º. A Lei 64-B/2011 reduziu a revogação da Lei 110/2009, que era do diploma inteiro, a esse artigo.
+  - Na Portaria 487/94, o DL 263/2002 revoga também os n.os 1.º e 2.º.
+  - No Decreto do Governo 35/83, o DG 14/85 substitui por inteiro o n.º 2) do art. 2.º, e não só a sub-alínea b).
+- **O diploma já não vigora, embora o texto esteja certo (12).**
+  - Revogados expressamente:
+    - Portaria 210/2007, pela Portaria 506/2018;
+    - RCM 169/95, um PDM, pelo Aviso 7886/2015.
+  - Substituídos por um regulamento novo:
+    - Portaria 317-B/2000, pela Portaria 188/2004;
+    - Portaria 1411/95, pela Portaria 797/99;
+    - DN 32/95, pelos estatutos do DN 47/2008.
+  - Serviço ou fundo extinto:
+    - Portaria 64/87, pelo DL 260/93;
+    - Portaria 749/91, pelo DL 166-A/2013;
+    - Portaria 43/2000, pelo DL 37/2008;
+    - Portaria 22/2010, pelos DL 158/2012 e 232/2015.
+  - Regimes de um só ano ou com prazo:
+    - Portaria 1171/91;
+    - Portaria 1020/2009;
+    - DN 23-A/2000.
+- **Dúvida sobre a vigência, sem ato expresso no acervo (9).**
+  - Mestrados do DL 216/92 e licenciaturas anteriores a Bolonha (DL 74/2006, art. 61.º): Portarias 176/98, 1546/2002, 1205/97 e 769/97.
+  - O plano de estudos da Portaria 711/87, substituído por uma deliberação da universidade em 2003.
+  - A concessão de caça da Portaria 705/91, cujo prazo acabou em 2012.
+  - O Decreto 44598, sobre draubaque de «milho ultramarino».
+  - O DN 5/2012, uma ajuda à seca de 2012.
+  - A Portaria 1307-B/93, que só se mantinha transitoriamente pelo art. 50.º do DL 191/99.
+
+A segunda leitura deu `certo` a quatro destes nove: as Portarias 1205/97, 769/97 e 1307-B/93 e o DN 5/2012. Saíram por coerência com os outros da mesma classe que ela deu em dúvida ou como caducados (as Portarias 176/98, 1546/2002, 1020/2009 e 1411/95).
+
+**Dois achados para o resto do acervo.**
+
+- **Retificações fora da cadeia.** As declarações de retificação que o DRE dá como `corrected_by` não entram nos alteradores da seleção. A verificação às cegas não as vê, porque só recebe a lista de alteradores. Em 5 dos 35 isto deixou texto por retificar. Falta medir quantos dos 2.767 aplicados têm um `corrected_by` por aplicar.
+- **Vigência.** O `legal_status` do DRE diz `in_force` em todos os 12 que já não vigoram. Os já aplicados das mesmas classes podem ter o mesmo problema: concessões de caça, cursos anteriores a Bolonha, regimes anuais e orgânicas de serviços extintos.
+
+A segunda leitura tirou 9 de 22 no bloco 1, 5 de 18 no bloco 2 e 29 de 35 no bloco 3. A diferença do bloco 3 está quase toda na vigência: sem ela, a ronda 114 tirava 8 de 35. O prompt desta ronda mandava procurar no acervo os diplomas que revogam, fazem caducar ou substituem o diploma, e manda ver as `relationships` do DRE. Os prompts das rondas 112 e 113 perderam-se com as notas dessas sessões, por isso não se sabe se procuravam o mesmo. O prompt da ronda 114 não ficou no repositório; as suas 7 classes de erro são as das linhas de `acervo.DE_FORA`.
+
+Não se repediram os artigos com reparos, como a retificação do art. 8.º do DL 329/83, porque isso pedia uma ronda às cegas nova. Ficam para um bloco seguinte.
 
 ### Verificação dos alvos das respostas do LLM (14/11/2026)
 

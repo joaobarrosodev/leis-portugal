@@ -175,3 +175,15 @@ Os números estão no `rag/README.md`, «Perguntas por artigo».
   - pôr as perguntas no índice de uso;
   - publicar só depois de lançar a aplicação que sabe apagá-las nos deltas (`publicar --com-perguntas`).
 - **Achado:** `fontes.revogado` dá como revogados 50 artigos em vigor do Código Civil (1064.º–1113.º), por causa de notas antigas «Revogado pelo…» seguidas de «Aditado/Alterado». Corrigido no main a 17/11.
+
+## 7. Consolidação, bloco 3 (ronda 114): feito (19/11)
+
+Os pormenores estão no `consolidacao/README.md`, «8. Repedir com os reparos e segunda leitura jurídica».
+
+- **Feito:** dos 107 repedidos com os reparos, 51 chegaram à verificação às cegas e 36 passaram (um ficou igual ao original). A segunda leitura jurídica (Opus) dos 35 deu 10 certos, 20 com reparos e 5 em dúvida. **Entraram 6 no `data/`** (2.767 no total), no `main` a 19/11. Os outros 29 estão em `acervo.DE_FORA`.
+- **Falta (fora desta sessão):**
+  - export e reconstrução do índice com o bloco 3, a cargo da sessão coordenadora;
+  - medir o texto alterado antes e depois.
+- **Achados por decidir:**
+  - **Retificações fora da cadeia.** As declarações de retificação que o DRE dá como `corrected_by` não entram na lista de alteradores da consolidação. Em 5 dos 35 isso deixou texto por retificar. É preciso ver quantos dos 2.767 já aplicados têm um `corrected_by` que não foi aplicado.
+  - **Vigência.** 12 dos 35 têm o texto certo, mas o diploma já não vigora: foi revogado, caducou ou foi substituído, e o DRE dá-o como `in_force`. A verificação às cegas não vê isto. É preciso decidir se os já aplicados das mesmas classes passam por uma leitura de vigência. Essas classes são: concessões de caça, mestrados e licenciaturas anteriores a Bolonha (DL 74/2006), regimes de um só ano e orgânicas de serviços extintos.
