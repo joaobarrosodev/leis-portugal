@@ -1,0 +1,22 @@
+{
+ "real": {
+  "n": 100,
+  "ctx8": {
+   "certa": 91,
+   "nao_sei": 7,
+   "nao_certa": 2
+  },
+  "ctx16": {
+   "certa": 91,
+   "nao_sei": 5,
+   "nao_certa": 4
+  },
+  "ganhos": 3,
+  "perdas": 3,
+  "mudancas": {
+   "nao_sei -> certa": 3,
+   "certa -> nao_certa": 2,
+   "certa -> nao_sei": 1
+  }
+ }
+}

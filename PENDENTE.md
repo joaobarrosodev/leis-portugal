@@ -127,7 +127,7 @@ Os números estão no `rag/README.md`, «Tipos novos».
   como em vigor os artigos repostos depois de revogados (159, entre eles o arrendamento do Código
   Civil). Ver «Modo sem IA» no `rag/README.md`.
 
-## Compostas: mais artigos no contexto do LLM (medido a 19/11; decisão do João)
+## Compostas: mais artigos no contexto do LLM (medido a 19/11: fica 8)
 
 Os números estão no `rag/README.md`, em «Compostas: 8 contra 16 artigos no contexto, com o LLM e os juízes».
 
@@ -136,14 +136,11 @@ Os números estão no `rag/README.md`, em «Compostas: 8 contra 16 artigos no co
   - compostas (100): 72 → **79**, com 7 ganhos e 0 perdas; erradas 5 e 5; fiabilidade 94 % nos dois;
   - premissa errada (50): 45 → 46, com 1 ganho e 0 perdas; mais uma incompleta com 16 (2 contra 1);
   - sem resposta (80): recusa 79 → 78 (com 16 responde à sem-076).
-- **Recomendação, para o João decidir:** o 16 ganha nas compostas e não piora a premissa errada. Custa o dobro do texto
-  por pergunta (23,4 mil caracteres contra 11,4 mil). Falta medir as reais, que são o tipo principal: uma amostra de 100 com
-  as mesmas regras (`passo_llm exportar --contextos 8,16 --consultas …`). Se as reais não piorarem mais do que 1 em 100, mudar:
-  - `ARTIGOS_NO_CONTEXTO` para 16;
-  - o `k=10` do `avaliar`, do `perguntar` e do `web` para `max(…, ARTIGOS_NO_CONTEXTO)`.
-
-  O `passo_llm` já pesquisa com `k=max(10, contexto)` e lê as citações sobre o contexto dado (`--contexto`).
-- **Por medir:** a variação do LLM e dos juízes de uma corrida para outra (só se fez uma por contexto).
+- **Reais (100, semente 16), medidas a pedido do João:** certas 91 e 91; não certas 2 → 4; fiabilidade 98 % → 96 %.
+  Há 3 ganhos (artigo em 10.º ou 11.º) e 3 perdas. Duas das perdas têm o artigo em 1.º lugar e são, provavelmente, variação.
+- **Decisão: fica 8** (`ARTIGOS_NO_CONTEXTO`). A regra era mudar se as reais não piorassem mais do que 1 em 100, e pioraram 2.
+  Se se quiser voltar a isto, o passo seguinte é medir a variação: repetir as mesmas 100 reais com 8 artigos e ver quantas
+  mudam sozinhas. Sem isso, não se sabe se os 2 erros a mais são do contexto.
 - **À parte, para a pesquisa:** ~~subir o `maximo` do reranker~~. Medido a 19/11: com 50 candidatos, as compostas com
   os artigos nos 10 primeiros vão de 64 para 61, e as certas no total descem de 614 para 608. Fica 30 (`rag/README.md`,
   «Candidatos ao reranker e pesquisa semântica»).

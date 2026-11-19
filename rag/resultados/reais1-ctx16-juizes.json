@@ -1,0 +1,35 @@
+{
+ "juizes": [
+  "a",
+  "b",
+  "c",
+  "s"
+ ],
+ "por_tipo": {
+  "real": {
+   "n": 100,
+   "respondidas": 95,
+   "certas_brando": 84,
+   "certas": 91,
+   "incompletas": 1,
+   "erradas": 3,
+   "sem_fundamento": 0,
+   "discordam": 4,
+   "sem_julgamento": 0,
+   "ids_nao_certos": [
+    "real-095",
+    "real-247",
+    "real-249",
+    "real-271"
+   ]
+  },
+  "total": {
+   "n": 100,
+   "respondidas": 95,
+   "certas_brando": 84,
+   "certas": 91,
+   "fiabilidade": 0.958,
+   "limite_inferior_95": 0.897
+  }
+ }
+}
