@@ -143,6 +143,19 @@ para uma pasta fixa. Entram as 100 compostas e a premissa errada, e, se houver t
   - `ARTIGOS_NO_CONTEXTO`;
   - o `k=10` do `avaliar`, do `perguntar` e do `web`;
   - o `[:8]` fixo do `passo_llm importar`.
+- **Em pausa a 19/11, às 03:25 (uso semanal a 91 %; retomar depois de 23/11 às 4h UTC).** Feito e no main: o `passo_llm`
+  com `--contextos 8,16`, `--contexto N` e `--consultas PASTA` (uma pesquisa para os dois contextos, com retoma), e a
+  parte 1, medida com o LLM e os quatro juízes às cegas (`rag/resultados/cmp1-ctx*.json`, `sem1-ctx*.json`):
+  - compostas, 30 (cmp-001 a cmp-035): 24 certas com 8 artigos e 25 com 16 (1 ganho, 0 perdas; dentro do ruído);
+  - sem resposta, 31: recusa as 31 nos dois contextos.
+
+  **Para retomar**, no worktree `claude/compostas-llm-5dbb28`:
+  - as consultas estão em `rag/resultados/privado/compostas-consultas/` (fora do git), sobre a cópia do índice de 17/11
+    em `rag/indice/indice.sqlite` do worktree. Ficaram dois processos a pesquisar o resto; se pararem, o mesmo comando retoma;
+  - fazer as partes seguintes com as perguntas já pesquisadas (as compostas a partir da cmp-036, as sem resposta a partir da
+    sem-032 e as 50 de premissa errada): `exportar --contextos 8,16 --consultas … --perguntas <parte>.jsonl`, um subagente por
+    lote, `importar --contexto N`, `rag.juiz exportar/importar` por pasta e contexto;
+  - no fim, apagar a cópia do índice.
 - **À parte, para a pesquisa:** ~~subir o `maximo` do reranker~~. Medido a 19/11: com 50 candidatos, as compostas com
   os artigos nos 10 primeiros vão de 64 para 61, e as certas no total descem de 614 para 608. Fica 30 (`rag/README.md`,
   «Candidatos ao reranker e pesquisa semântica»).
