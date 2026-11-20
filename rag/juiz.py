@@ -17,17 +17,28 @@ from __future__ import annotations
 import argparse
 import json
 from math import sqrt
+from pathlib import Path
 
 from rag.fontes import RAIZ
 
 
 PASTA = RAIZ / "rag" / "resultados" / "privado" / "llm"
 RESULTADOS = RAIZ / "rag" / "resultados"
+
+
+def _privado() -> Path:
+    """A pasta das perguntas reais: a deste checkout ou, numa worktree, a da pasta principal (como no rag.avaliar)."""
+    for pasta in (RAIZ, *RAIZ.parents):
+        if (pasta / "avaliacao" / "privado" / "perguntas-reais.jsonl").exists():
+            return pasta / "avaliacao" / "privado"
+    return RAIZ / "avaliacao" / "privado"
+
+
 PERGUNTAS = (
     RAIZ / "avaliacao" / "perguntas.jsonl",
     RAIZ / "avaliacao" / "perguntas-ue.jsonl",
-    RAIZ / "avaliacao" / "privado" / "perguntas-reais.jsonl",
-    RAIZ / "avaliacao" / "privado" / "perguntas-coloquiais.jsonl",
+    _privado() / "perguntas-reais.jsonl",
+    _privado() / "perguntas-coloquiais.jsonl",
 )
 PAPEIS = ("a", "b", "c", "s")
 

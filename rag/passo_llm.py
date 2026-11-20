@@ -28,8 +28,6 @@ from __future__ import annotations
 
 import argparse
 import json
-import os
-import pickle
 import sys
 from pathlib import Path
 
@@ -58,18 +56,10 @@ def pesquisar(pesquisa: Pesquisa, p: dict, reescrita: dict[str, str], *, k: int 
     """Pesquisa com a consulta reescrita pelas sessões, se existir (sem chamar o LLM); a pergunta do
     utilizador fica na consulta para o LLM e os juízes. Com `consultas`, lê a consulta guardada, se a
     houver com pelo menos `k` resultados pedidos, ou guarda a que fizer."""
-    guardada = consultas / f"{p['id']}.pickle" if consultas is not None else None
-    if guardada is not None and guardada.exists():
-        k_guardado, consulta = pickle.loads(guardada.read_bytes())
-        if k_guardado >= k:
-            return consulta
-    consulta = reescrita_mod.pesquisar(pesquisa, p["pergunta"], p["data_referencia"], k=k, consulta=reescrita.get(p["id"], p["pergunta"]))
-    if guardada is not None:
-        guardada.parent.mkdir(parents=True, exist_ok=True)
-        temporario = guardada.with_suffix(".tmp")
-        temporario.write_bytes(pickle.dumps((k, consulta)))
-        os.replace(temporario, guardada)  # um corte a meio não deixa uma consulta pela metade
-    return consulta
+    def fazer():
+        return reescrita_mod.pesquisar(pesquisa, p["pergunta"], p["data_referencia"], k=k, consulta=reescrita.get(p["id"], p["pergunta"]))
+
+    return avaliar.consulta_guardada(consultas, p["id"], k, fazer)
 
 
 def pastas_por_contexto(nome: str, contextos: list[int] | None) -> dict[int, Path]:
@@ -121,7 +111,7 @@ def exportar(
 
 def importar(
     nome: str, tipos: set[str], limiar: float, indice: Path | None, reescrita: dict[str, str], ficheiro: Path | None = None,
-    *, n: int = ARTIGOS_NO_CONTEXTO, consultas: Path | None = None, pesquisa: Pesquisa | None = None,
+    *, n: int = ARTIGOS_NO_CONTEXTO, consultas: Path | None = None, pesquisa: Pesquisa | None = None, variante: dict | None = None,
 ) -> None:
     respostas: dict[str, dict] = {}
     for f in sorted((PASTA / nome).glob("saida-*.jsonl")):
@@ -146,6 +136,7 @@ def importar(
             continue
         linhas.append(avaliar.pontuar(p, consulta, resposta))
     configuracao = {"reranker": "cruzado", "limiar": limiar, "llm": "sessão do Claude"} | ({"contexto": n} if n != ARTIGOS_NO_CONTEXTO else {})
+    configuracao |= variante or {}
     resumo = avaliar.guardar(f"{nome}-llm", configuracao, linhas)
     print(avaliar.tabela(resumo))
     if em_falta:
@@ -165,13 +156,26 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--contextos", help="exportar: tamanhos de contexto separados por vírgulas (p. ex. 8,16), uma pasta <nome>-ctxN por tamanho.")
     parser.add_argument("--contexto", type=int, default=ARTIGOS_NO_CONTEXTO, help="importar: os artigos que o LLM viu (as citações contam sobre estes).")
     parser.add_argument("--consultas", type=Path, help="Pasta onde guardar e de onde ler as consultas (retoma e usa a mesma pesquisa no importar).")
+    parser.add_argument("--estavel", action="store_true", help="O reranker pontua cada texto sozinho (rag.modelos.Reranker), como no rag.avaliar.")
+    parser.add_argument("--reranker-com-perguntas", action="store_true", help="O reranker também lê as perguntas de leigo do artigo, como no rag.avaliar.")
     args = parser.parse_args(argv)
     tipos = set(args.tipos.split(","))
+    from rag.modelos import Reranker
+
+    pesquisa = Pesquisa(args.indice, reranker=Reranker("cruzado", estavel=args.estavel), reranker_com_perguntas=args.reranker_com_perguntas)
+    variante = ({"estavel": True} if args.estavel else {}) | ({"reranker_com_perguntas": True} if args.reranker_com_perguntas else {})
+    variante |= {"reescrita": "sessões do Claude"} if args.reescrita else {}
     if args.acao == "exportar":
         contextos = [int(x) for x in args.contextos.split(",")] if args.contextos else None
-        exportar(args.nome, tipos, args.lote, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas, contextos=contextos, consultas=args.consultas)
+        exportar(
+            args.nome, tipos, args.lote, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas,
+            contextos=contextos, consultas=args.consultas, pesquisa=pesquisa,
+        )
     else:
-        importar(args.nome, tipos, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas, n=args.contexto, consultas=args.consultas)
+        importar(
+            args.nome, tipos, args.limiar, args.indice, ler_reescrita(args.reescrita), args.perguntas,
+            n=args.contexto, consultas=args.consultas, pesquisa=pesquisa, variante=variante,
+        )
     return 0
 
 

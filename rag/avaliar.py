@@ -21,12 +21,18 @@ texto das perguntas reais, para `rag/resultados/privado/` (fora do git).
 Cada pergunta fica gravada logo em `rag/resultados/privado/<nome>-parcial.jsonl`. Se a medição
 parar a meio (um corte de luz, um reinício), correr o mesmo comando retoma onde parou; com
 `--recomecar` começa do zero. O parcial apaga-se quando a medição acaba.
+
+Com `--consultas PASTA`, cada consulta (os artigos encontrados, com as notas do reranker) fica em
+`PASTA/<id>.pickle` e é lida nas corridas seguintes. O `rag.passo_llm --consultas PASTA` lê as
+mesmas: o LLM responde sobre a pesquisa que aqui se mediu. Uma pasta por configuração da pesquisa.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import os
+import pickle
 import sys
 import time
 from collections import defaultdict
@@ -72,11 +78,32 @@ def _mesmo_sentido():
     return mesmo_sentido
 
 
-def avaliar_pergunta(pesquisa: Pesquisa, p: dict, *, limiar: float | None, usar_llm: bool, usar_reescrita: bool = False) -> dict:
-    if usar_reescrita:
-        consulta = reescrita.pesquisar(pesquisa, p["pergunta"], p["data_referencia"], k=max(KS))
-    else:
-        consulta = pesquisa.pesquisar(p["pergunta"], p["data_referencia"], k=max(KS))
+def consulta_guardada(pasta: Path | None, id_: str, k: int, fazer) -> Consulta:
+    """A consulta de `pasta/<id>.pickle`, se a houver com pelo menos `k` resultados pedidos; senão
+    faz-a com `fazer()` e guarda-a. Sem `pasta`, só a faz."""
+    guardada = pasta / f"{id_}.pickle" if pasta is not None else None
+    if guardada is not None and guardada.exists():
+        k_guardado, consulta = pickle.loads(guardada.read_bytes())
+        if k_guardado >= k:
+            return consulta
+    consulta = fazer()
+    if guardada is not None:
+        guardada.parent.mkdir(parents=True, exist_ok=True)
+        temporario = guardada.with_suffix(".tmp")
+        temporario.write_bytes(pickle.dumps((k, consulta)))
+        os.replace(temporario, guardada)  # um corte a meio não deixa uma consulta pela metade
+    return consulta
+
+
+def avaliar_pergunta(
+    pesquisa: Pesquisa, p: dict, *, limiar: float | None, usar_llm: bool, usar_reescrita: bool = False, consultas: Path | None = None,
+) -> dict:
+    def fazer() -> Consulta:
+        if usar_reescrita:
+            return reescrita.pesquisar(pesquisa, p["pergunta"], p["data_referencia"], k=max(KS))
+        return pesquisa.pesquisar(p["pergunta"], p["data_referencia"], k=max(KS))
+
+    consulta = consulta_guardada(consultas, p["id"], max(KS), fazer)
     return pontuar(p, consulta, responder(consulta, limiar=limiar, usar_llm=usar_llm))
 
 
@@ -243,6 +270,10 @@ def main(argv: list[str] | None = None) -> int:
         help="Só as perguntas deste ficheiro (p. ex. avaliacao/perguntas-ue.jsonl); pode repetir-se.",
     )
     parser.add_argument("--recomecar", action="store_true", help="Ignorar o parcial de uma medição interrompida e começar do zero.")
+    parser.add_argument(
+        "--consultas", type=Path,
+        help="Pasta onde guardar e de onde ler cada consulta (<id>.pickle); a mesma do rag.passo_llm. Uma por configuração da pesquisa.",
+    )
     args = parser.parse_args(argv)
 
     reranker = None
@@ -287,7 +318,9 @@ def main(argv: list[str] | None = None) -> int:
             f.write(json.dumps(linha, ensure_ascii=False) + "\n")
         f.flush()
         for n, p in enumerate(perguntas[len(linhas):], len(linhas) + 1):
-            linha = avaliar_pergunta(pesquisa, p, limiar=args.limiar, usar_llm=usar_llm, usar_reescrita=usar_reescrita)
+            linha = avaliar_pergunta(
+                pesquisa, p, limiar=args.limiar, usar_llm=usar_llm, usar_reescrita=usar_reescrita, **({"consultas": args.consultas} if args.consultas else {}),
+            )
             linhas.append(linha)
             f.write(json.dumps(linha, ensure_ascii=False) + "\n")
             f.flush()

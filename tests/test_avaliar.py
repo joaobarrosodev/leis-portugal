@@ -69,3 +69,21 @@ def test_parcial_de_outra_medicao_nao_se_mistura(medicao):
     corte["em"] = None
     with pytest.raises(SystemExit, match="outra medição"):
         avaliar.main(["--nome", "t", "--perguntas", str(ficheiro), "--limiar", "3"])
+
+
+def test_consultas_guardadas_nao_se_pesquisam_outra_vez(tmp_path):
+    feitas: list[int] = []
+
+    def fazer():
+        feitas.append(1)
+        return {"resultados": len(feitas)}
+
+    primeira = avaliar.consulta_guardada(tmp_path, "p-1", 10, fazer)
+    assert avaliar.consulta_guardada(tmp_path, "p-1", 8, fazer) == primeira  # pede menos do que há guardado
+    assert len(feitas) == 1
+    avaliar.consulta_guardada(tmp_path, "p-1", 16, fazer)  # pede mais: pesquisa outra vez e guarda
+    avaliar.consulta_guardada(tmp_path, "p-2", 10, fazer)
+    assert len(feitas) == 3
+    assert sorted(f.name for f in tmp_path.iterdir()) == ["p-1.pickle", "p-2.pickle"]
+    avaliar.consulta_guardada(None, "p-1", 10, fazer)  # sem pasta, pesquisa sempre
+    assert len(feitas) == 4
