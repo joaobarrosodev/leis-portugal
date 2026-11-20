@@ -406,10 +406,12 @@ Medido em 12/11/2026: com e sem os dados do TC, a avaliação BM25 dá o mesmo r
 
 ### Acórdãos de uniformização do STJ e do STA (20/11/2026)
 
-O acervo tem 335 acórdãos publicados na 1.ª Série do Diário da República, de 2008 a 2026, todos de uniformização de jurisprudência:
+O acervo tem 469 acórdãos de uniformização de jurisprudência publicados na 1.ª Série do Diário da República, de 1976 a 2026:
 
-- 213 do STJ: 124 de fixação, das Secções Criminais, e 89 de uniformização, das Secções Cíveis e Social;
-- 122 do STA.
+- 335 desde 2008, com tipo próprio no DRE: 213 do STJ (124 de fixação, das Secções Criminais, e 89 de uniformização, das Secções Cíveis e Social) e 122 do STA;
+- 134 anteriores a 2008, juntados a 20/11/2026: 106 do STJ e 8 do STA que o DRE classificava como «Acórdão» (`outros/acordao`, de 1976 a 2007), e 20 do STJ de 2001 a 2004 com o título «Jurisprudência» (`outros/jurisprudencia`).
+
+Entre os 469 há um do STA de 1992 que declara a ilegalidade de normas regulamentares com força obrigatória geral.
 
 Extração: `python -m rag.uniformizacao --indice …`, que grava `data/jurisprudencia/uniformizacao/normas-interpretadas.jsonl`.
 
@@ -428,12 +430,14 @@ Nunca contam a fundamentação, as declarações de voto, o «cumpra-se o artigo
 
 | | STJ | STA | Total |
 |---|--:|--:|--:|
-| Acórdãos | 213 | 122 | 335 |
-| Com pelo menos um artigo ligado ao índice | 163 | 91 | **254** |
-| Artigos ligados | 286 | 143 | **429** (344 artigos distintos) |
-| Sem artigo nem diploma no texto fixado | 39 | 25 | 64 |
+| Acórdãos | 339 | 130 | 469 |
+| Com pelo menos um artigo ligado ao índice | 235 | 97 | **332** |
+| Artigos ligados | 395 | 154 | **549** (422 artigos distintos) |
+| Sem artigo nem diploma no texto fixado | 60 | 26 | 86 |
 
-Dos 81 sem artigo ligado, 64 não citam nem artigo nem diploma. São sobretudo cláusulas de convenções coletivas e regras gerais («os procedimentos cautelares revestem sempre carácter urgente»). Os outros 17 citam diplomas sem artigo, ou artigos de diplomas que o índice não tem, como o Código de Processo Civil de 1961, que não está no acervo.
+Nos 335 desde 2008: 254 ligados e 429 ligações. Nos 134 anteriores: 78 ligados e 121 ligações.
+
+Nos 335 desde 2008, dos 81 sem artigo ligado, 64 não citam nem artigo nem diploma. São sobretudo cláusulas de convenções coletivas e regras gerais («os procedimentos cautelares revestem sempre carácter urgente»). Os outros 17 citam diplomas sem artigo, ou artigos de diplomas que o índice não tem, como o Código de Processo Civil de 1961, que não está no acervo.
 
 **Precisão, medida à mão.** As duas amostras foram tiradas dos anos que não tinham sido lidos durante o desenvolvimento: STJ desde 2016 e STA desde 2015.
 
@@ -446,6 +450,22 @@ Dos 81 sem artigo ligado, 64 não citam nem artigo nem diploma. São sobretudo c
   - **Cobertura de 86 %:** ficaram por ligar 9 das 64 normas portuguesas citadas, e mais 3 de atos da UE.
 
 Depois da 2.ª medição corrigiram-se o erro e quatro das faltas: «Cód.», «04.º», o CISV e o anexo de emolumentos. Mudaram 7 acórdãos, todos verificados um a um. A 2.ª amostra é por isso uma medida da versão antes destas correções, e não um teste cego da versão gravada.
+
+**Os 134 anteriores a 2008 foram revistos todos à mão.** Nenhum tinha sido visto durante o desenvolvimento.
+
+- Antes de qualquer correção, 117 das 136 ligações estavam certas (86 %).
+- Os erros eram quase todos de versões antigas dos códigos ligadas ao código de hoje:
+  - o Código Penal de 1982, renumerado em 1995 (o artigo 142.º de 1982 são as ofensas corporais, e o 142.º de hoje é a interrupção da gravidez);
+  - o Código de Processo do Trabalho de 1981;
+  - os Códigos da Estrada de 1954 e de 1998;
+  - o Código de Processo Penal de 1929.
+- O que mudou:
+  - o código citado com o ano vai para essa versão, quando o índice a tem;
+  - o «Código Penal» de um acórdão anterior a 1/10/1995 vai para o Decreto-Lei n.º 400/82, e o «Código de Processo do Trabalho» anterior a 2000 vai para o Decreto-Lei n.º 272-A/81;
+  - «daquele artigo 54.º» e o artigo que altera («alteração decorrente do artigo 1.º da Lei…») deixam de contar.
+- Com isto saíram as 15 ligações erradas e as outras 4 passaram a apontar para a versão certa. As 121 que ficam foram todas vistas.
+
+É uma revisão de todos os casos, não uma amostra cega. As regras novas também se aplicam ao TC; ver a nota no fim desta secção.
 
 Falta ainda a lista de artigos só com vírgulas depois de um diploma («arts. 4.º do ETAF, 157.º do CPTA, 61.º e 89.º do DL n.º 433/82»), um caso em 40.
 
@@ -465,7 +485,13 @@ A data é a da decisão (a da assinatura) e, quando não se lê, a da publicaç�
 - os nomes de códigos deixam de engolir o verbo seguinte;
 - «mantido em vigor pela Lei…» passa a ser lido como lei de alteração.
 
-Mudam 189 das 5.777 alíneas do TC. Revistas à mão, uma amostra de 30 das primeiras 116 e todas as 76 da segunda leva eram correções ou não mudavam nada; a única regressão encontrada foi corrigida.
+Mudam 189 das 5.777 alíneas do TC. Com as regras das versões antigas dos códigos, entram e saem algumas ligações do TC:
+
+- entram 23 e saem 16;
+- 11 artigos do Código de Processo do Trabalho, de acórdãos de 1993 a 1998, passam para o código de 1981;
+- 5 artigos do Código Penal citados antes da revisão de 1995 deixam de ir para o código de 1995;
+- nenhuma declaração com força obrigatória geral muda.
+ Revistas à mão, uma amostra de 30 das primeiras 116 e todas as 76 da segunda leva eram correções ou não mudavam nada; a única regressão encontrada foi corrigida.
 
 ## Prova de conceito no browser (12/11/2026)
 
@@ -1208,7 +1234,7 @@ Contra o `app011-redacoes`, a leitura nova ganha 10 certas (6 reais, 2 de texto 
 
 Normas julgadas do TC refeitas sobre este índice (`85c99a5e32b`): 6.454 → 6.640 com o artigo encontrado, nenhuma perdida.
 
-Refeitas outra vez a 20/11/2026, com a leitura das normas corrigida para o STJ e o STA (ver «Acórdãos de uniformização do STJ e do STA»): 6.640 → 6.741 com o artigo encontrado. Das ligações principais, saem 10 e entram 86. As 10 que saem eram erros, todos vistos à mão: uma lei de alteração ou de prorrogação no lugar do código, como o artigo 125.º da LGT ligado à Lei n.º 55-A/2010. As 371 declarações com força obrigatória geral são as mesmas. Este ficheiro e o `normas-interpretadas.jsonl` do STJ e do STA entraram no `main` no commit `8443c1dc0d5`, que outra sessão fez ao mesmo tempo com a mensagem do acervo do DRE.
+Refeitas outra vez a 20/11/2026, com a leitura das normas corrigida para o STJ e o STA (ver «Acórdãos de uniformização do STJ e do STA»): 6.640 → 6.741 com o artigo encontrado, e 6.743 depois das regras das versões antigas dos códigos. Das ligações principais, saem 10 e entram 86. As 10 que saem eram erros, todos vistos à mão: uma lei de alteração ou de prorrogação no lugar do código, como o artigo 125.º da LGT ligado à Lei n.º 55-A/2010. As 371 declarações com força obrigatória geral são as mesmas. Este ficheiro e o `normas-interpretadas.jsonl` do STJ e do STA entraram no `main` no commit `8443c1dc0d5`, que outra sessão fez ao mesmo tempo com a mensagem do acervo do DRE.
 
 O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
 

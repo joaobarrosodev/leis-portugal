@@ -32,13 +32,18 @@ from rag import jurisprudencia as tc
 from rag.fontes import RAIZ, corpo
 
 
-PASTAS = {
-    "STJ": RAIZ / "data" / "portugal" / "acordaos-supremo-tribunal-justica",
-    "STA": RAIZ / "data" / "portugal" / "acordaos-supremo-tribunal-administrativo",
-}
-SAIDA = tc.SAIDA_UNIFORMIZACAO
-
 NOMES_TRIBUNAIS = {"STJ": "Supremo Tribunal de Justiça", "STA": "Supremo Tribunal Administrativo"}
+_PORTUGAL = RAIZ / "data" / "portugal"
+# (tribunal, pasta, emissor exigido). Até 2007 o DRE classificava estes acórdãos como "Acórdão" (com os do TC e
+# do Tribunal de Contas, em `outros/acordao`) e, de 2001 a 2004, os do STJ como "Jurisprudência".
+PASTAS: list[tuple[str, Path, str | None]] = [
+    ("STJ", _PORTUGAL / "acordaos-supremo-tribunal-justica", None),
+    ("STA", _PORTUGAL / "acordaos-supremo-tribunal-administrativo", None),
+    ("STJ", _PORTUGAL / "outros" / "jurisprudencia", NOMES_TRIBUNAIS["STJ"]),
+    ("STJ", _PORTUGAL / "outros" / "acordao", NOMES_TRIBUNAIS["STJ"]),
+    ("STA", _PORTUGAL / "outros" / "acordao", NOMES_TRIBUNAIS["STA"]),
+]
+SAIDA = tc.SAIDA_UNIFORMIZACAO
 
 # ------------------------------------------------------------------ onde está a jurisprudência fixada
 
@@ -239,6 +244,13 @@ _ABREVIATURAS = [
     (r"\bCPC\s*/\s*61\b", "Decreto-Lei n.º 44129"),
     (r"\bCT\s*/\s*2003\b", "Lei n.º 99/2003"),
     (r"C[óo]digo\s+do\s+Trabalho\s+de\s+2003", "Lei n.º 99/2003"),
+    # "Código Penal de 1982, revisão de 1995" é o de hoje; "na versão de 1982" e "de 1982, versão original" não.
+    (r"C[óo]digo\s+Penal\s+de\s+1982,?\s+(?:na\s+)?(?:revisão|revisto|redac?[çc][ãa]o)\s+(?:de|em)\s+1995", "Código Penal"),
+    (r"C[óo]digo\s+Penal(?:\s+de\s+1982|,?\s+na\s+(?:sua\s+)?versão\s+de\s+1982)", "Decreto-Lei n.º 400/82"),
+    (r"C[óo]digo\s+de\s+Processo\s+Penal\s+de\s+1929", "Decreto n.º 16489"),
+    (r"C[óo]digo\s+da\s+Estrada\s+de\s+1954", "Decreto-Lei n.º 39672"),
+    (r"C[óo]digo\s+da\s+Estrada\s+de\s+1998", "Decreto-Lei n.º 2/98"),
+    (r"C[óo]digo\s+de\s+Processo\s+do\s+Trabalho(?:\s+de\s+1981|,?\s+aprovado\s+pelo\s+Decreto-Lei\s+n\.º\s+272-A/81)", "Decreto-Lei n.º 272-A/81"),
     (r"C[óo]digo\s+de\s+Processo\s+Civil\s+de\s+1961", "Decreto-Lei n.º 44129"),
     (r"C[óo]digo\s+do\s+Procedimento\s+Administrativo\s+de\s+1991", "Decreto-Lei n.º 442/91"),
 ]
@@ -264,10 +276,16 @@ def preparar(texto: str) -> str:
 _SECCOES_CRIMINAIS = re.compile(r"Sec[çc][õo]es\s+Criminais|Sec[çc][ãa]o\s+Criminal", re.I)
 
 
-def sentido(texto: str, tribunal: str, assuntos: list[str] | None = None) -> str:
+_DECLARA_ILEGALIDADE = re.compile(r"^\s*Declara,?\s+com\s+força\s+obrigatória\s+geral,?\s+a\s+ilegalidade", re.I)
+
+
+def sentido(texto: str, tribunal: str, assuntos: list[str] | None = None, fixado: str = "") -> str:
     """No processo penal o Pleno das Secções Criminais do STJ fixa jurisprudência (artigos 437.º e 445.º
     do CPP); as Secções Cíveis e Social do STJ e o STA uniformizam-na. Sem texto (só o sumário no DR),
     decidem os assuntos do registo."""
+    if _DECLARA_ILEGALIDADE.match(fixado):
+        # O STA declara a ilegalidade de normas regulamentares com força obrigatória geral (1992).
+        return "declara_ilegalidade_fog"
     if tribunal != "STJ":
         return "uniformiza_jurisprudencia"
     if _SECCOES_CRIMINAIS.search(texto):
@@ -344,7 +362,7 @@ def ler(markdown: str, tribunal: str) -> Acordao | None:
         n.principal = True
     return Acordao(
         acordao=campos.get("id", ""), tribunal=tribunal, numero=str(campos.get("official_number") or ""),
-        data=data or publicacao, publicacao=publicacao, url=fonte_url or None, sentido=sentido(principal(texto), tribunal, campos.get("subjects") or []),
+        data=data or publicacao, publicacao=publicacao, url=fonte_url or None, sentido=sentido(principal(texto), tribunal, campos.get("subjects") or [], fixado),
         fonte=fonte, confirmado=confirmado, alinea=fixado, normas=normas,
     )
 
@@ -388,14 +406,17 @@ class Resolvedor(tc.Resolvedor):
         return norma
 
 
-def construir(pesquisa, pastas: dict[str, Path] = PASTAS, saida: Path = SAIDA, progresso=print) -> Counter:
+def construir(pesquisa, pastas: list[tuple[str, Path, str | None]] = PASTAS, saida: Path = SAIDA, progresso=print) -> Counter:
     resolvedor = Resolvedor(pesquisa)
     contas: Counter = Counter()
     linhas = []
-    for tribunal, pasta in pastas.items():
+    for tribunal, pasta, emissor in pastas:
         for caminho in sorted(pasta.rglob("*.md")):
+            markdown = caminho.read_text(encoding="utf-8")
+            if emissor and emissor not in (cabecalho(markdown).get("issuing_authority") or []):
+                continue
             contas[f"acordaos:{tribunal}"] += 1
-            acordao = ler(caminho.read_text(encoding="utf-8"), tribunal)
+            acordao = ler(markdown, tribunal)
             if acordao is None:
                 contas[f"sem_texto_fixado:{tribunal}"] += 1
                 continue
