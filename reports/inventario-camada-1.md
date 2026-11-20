@@ -54,6 +54,13 @@ no export nem no índice.
 - **Fica por corrigir:** a linha 17 (texto corrido por marcar) e as bases soltas da linha 16, medidas numa amostra de
   50 registos em `reports/leitura-texto-corrido-amostra.md`; e a linha 18, que é do estado no DRE.
 
+## Atualização de 20/11/2026 (tarde): falhas de dados
+
+- **Linhas 5, 10, 8 e 18:** o que se fechou, com os números de antes e depois, está em
+  `reports/camada-1-falhas-de-dados.md`. A linha 3 tem lá a regra e a amostra, por aplicar.
+- **Os ficheiros de `reports/inventario-camada-1/`** foram regenerados sobre o índice publicado (`indice-fase1.sqlite`) e
+  o sitemap do DRE de 20/11, com o export de antes da recolha da linha 5.
+
 ## Resumo, por ordem de retorno
 
 | # | Falha | Tipo | Quantos | Verificado ou teto | Esforço | Valor para o produto |
