@@ -1,0 +1,66 @@
+{
+ "juizes": [
+  "a",
+  "b",
+  "c",
+  "s"
+ ],
+ "por_tipo": {
+  "sem_resposta": {
+   "n": 80,
+   "respondidas": 4,
+   "certas_brando": 0,
+   "certas": 0,
+   "incompletas": 0,
+   "erradas": 0,
+   "sem_fundamento": 0,
+   "discordam": 0,
+   "sem_julgamento": 0,
+   "ids_nao_certos": []
+  },
+  "premissa_errada": {
+   "n": 50,
+   "respondidas": 47,
+   "certas_brando": 16,
+   "certas": 45,
+   "incompletas": 2,
+   "erradas": 0,
+   "sem_fundamento": 0,
+   "discordam": 2,
+   "sem_julgamento": 0,
+   "ids_nao_certos": [
+    "pre-025",
+    "pre-043"
+   ]
+  },
+  "real": {
+   "n": 281,
+   "respondidas": 257,
+   "certas_brando": 216,
+   "certas": 249,
+   "incompletas": 7,
+   "erradas": 3,
+   "sem_fundamento": 1,
+   "discordam": 5,
+   "sem_julgamento": 0,
+   "ids_nao_certos": [
+    "real-001",
+    "real-002",
+    "real-020",
+    "real-247",
+    "real-271",
+    "real-278",
+    "real-279",
+    "real-314"
+   ]
+  },
+  "total": {
+   "n": 331,
+   "respondidas": 304,
+   "certas_brando": 232,
+   "certas": 294,
+   "fiabilidade": 0.967,
+   "limite_inferior_95": 0.941
+  }
+ }
+}

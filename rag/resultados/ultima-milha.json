@@ -1193,6 +1193,406 @@
      }
     }
    }
+  },
+  "um-cr-llm": {
+   "configuracao": {
+    "reranker": "cruzado",
+    "limiar": 1.0,
+    "llm": "sessão do Claude",
+    "estavel": true,
+    "reranker_com_perguntas": true,
+    "reescrita": "sessões do Claude",
+    "juizes": [
+     "a",
+     "b",
+     "c",
+     "s"
+    ]
+   },
+   "real": {
+    "n": 281,
+    "certas": 249,
+    "respondidas": 257,
+    "nao_sei": 24,
+    "erradas": 8,
+    "artigo@1": 194,
+    "artigo@8": 263,
+    "certas_brando": 216
+   },
+   "sem_resposta": {
+    "n": 80,
+    "respondidas": 4
+   },
+   "premissa_errada": {
+    "n": 50,
+    "certas": 45,
+    "respondidas": 47,
+    "nao_sei": 3,
+    "erradas": 2,
+    "artigo@1": 36,
+    "artigo@8": 48,
+    "certas_brando": 16
+   },
+   "face_a_base": {
+    "em_1": {
+     "n": 140,
+     "certas_base": 115,
+     "certas": 128,
+     "ganhos": 23,
+     "perdas": 10,
+     "artigo@1": 122,
+     "artigo@8": 137
+    },
+    "de_2_a_8": {
+     "n": 93,
+     "certas_base": 0,
+     "certas": 86,
+     "ganhos": 86,
+     "perdas": 0,
+     "artigo@1": 52,
+     "artigo@8": 89
+    },
+    "fora_dos_8": {
+     "n": 48,
+     "certas_base": 0,
+     "certas": 35,
+     "ganhos": 35,
+     "perdas": 0,
+     "artigo@1": 20,
+     "artigo@8": 37
+    },
+    "total": {
+     "n": 281,
+     "certas_base": 115,
+     "certas": 249,
+     "ganhos": 144,
+     "perdas": 10,
+     "artigo@1": 194,
+     "artigo@8": 263
+    }
+   },
+   "limiares": {
+    "2": {
+     "real": {
+      "n": 281,
+      "certas": 242,
+      "respondidas": 249,
+      "nao_sei": 32,
+      "erradas": 7,
+      "artigo@1": 194,
+      "artigo@8": 263,
+      "certas_brando": 210
+     },
+     "sem_resposta": {
+      "n": 80,
+      "respondidas": 4
+     },
+     "premissa_errada": {
+      "n": 50,
+      "certas": 44,
+      "respondidas": 46,
+      "nao_sei": 4,
+      "erradas": 2,
+      "artigo@1": 36,
+      "artigo@8": 48,
+      "certas_brando": 15
+     },
+     "face_a_base": {
+      "em_1": {
+       "n": 140,
+       "certas_base": 115,
+       "certas": 125,
+       "ganhos": 22,
+       "perdas": 12,
+       "artigo@1": 122,
+       "artigo@8": 137
+      },
+      "de_2_a_8": {
+       "n": 93,
+       "certas_base": 0,
+       "certas": 86,
+       "ganhos": 86,
+       "perdas": 0,
+       "artigo@1": 52,
+       "artigo@8": 89
+      },
+      "fora_dos_8": {
+       "n": 48,
+       "certas_base": 0,
+       "certas": 31,
+       "ganhos": 31,
+       "perdas": 0,
+       "artigo@1": 20,
+       "artigo@8": 37
+      },
+      "total": {
+       "n": 281,
+       "certas_base": 115,
+       "certas": 242,
+       "ganhos": 139,
+       "perdas": 12,
+       "artigo@1": 194,
+       "artigo@8": 263
+      }
+     }
+    },
+    "2.5": {
+     "real": {
+      "n": 281,
+      "certas": 233,
+      "respondidas": 240,
+      "nao_sei": 41,
+      "erradas": 7,
+      "artigo@1": 194,
+      "artigo@8": 263,
+      "certas_brando": 202
+     },
+     "sem_resposta": {
+      "n": 80,
+      "respondidas": 3
+     },
+     "premissa_errada": {
+      "n": 50,
+      "certas": 44,
+      "respondidas": 46,
+      "nao_sei": 4,
+      "erradas": 2,
+      "artigo@1": 36,
+      "artigo@8": 48,
+      "certas_brando": 15
+     },
+     "face_a_base": {
+      "em_1": {
+       "n": 140,
+       "certas_base": 115,
+       "certas": 120,
+       "ganhos": 20,
+       "perdas": 15,
+       "artigo@1": 122,
+       "artigo@8": 137
+      },
+      "de_2_a_8": {
+       "n": 93,
+       "certas_base": 0,
+       "certas": 83,
+       "ganhos": 83,
+       "perdas": 0,
+       "artigo@1": 52,
+       "artigo@8": 89
+      },
+      "fora_dos_8": {
+       "n": 48,
+       "certas_base": 0,
+       "certas": 30,
+       "ganhos": 30,
+       "perdas": 0,
+       "artigo@1": 20,
+       "artigo@8": 37
+      },
+      "total": {
+       "n": 281,
+       "certas_base": 115,
+       "certas": 233,
+       "ganhos": 133,
+       "perdas": 15,
+       "artigo@1": 194,
+       "artigo@8": 263
+      }
+     }
+    },
+    "3": {
+     "real": {
+      "n": 281,
+      "certas": 228,
+      "respondidas": 234,
+      "nao_sei": 47,
+      "erradas": 6,
+      "artigo@1": 194,
+      "artigo@8": 263,
+      "certas_brando": 197
+     },
+     "sem_resposta": {
+      "n": 80,
+      "respondidas": 3
+     },
+     "premissa_errada": {
+      "n": 50,
+      "certas": 44,
+      "respondidas": 45,
+      "nao_sei": 5,
+      "erradas": 1,
+      "artigo@1": 36,
+      "artigo@8": 48,
+      "certas_brando": 15
+     },
+     "face_a_base": {
+      "em_1": {
+       "n": 140,
+       "certas_base": 115,
+       "certas": 118,
+       "ganhos": 18,
+       "perdas": 15,
+       "artigo@1": 122,
+       "artigo@8": 137
+      },
+      "de_2_a_8": {
+       "n": 93,
+       "certas_base": 0,
+       "certas": 82,
+       "ganhos": 82,
+       "perdas": 0,
+       "artigo@1": 52,
+       "artigo@8": 89
+      },
+      "fora_dos_8": {
+       "n": 48,
+       "certas_base": 0,
+       "certas": 28,
+       "ganhos": 28,
+       "perdas": 0,
+       "artigo@1": 20,
+       "artigo@8": 37
+      },
+      "total": {
+       "n": 281,
+       "certas_base": 115,
+       "certas": 228,
+       "ganhos": 128,
+       "perdas": 15,
+       "artigo@1": 194,
+       "artigo@8": 263
+      }
+     }
+    },
+    "3.5": {
+     "real": {
+      "n": 281,
+      "certas": 220,
+      "respondidas": 226,
+      "nao_sei": 55,
+      "erradas": 6,
+      "artigo@1": 194,
+      "artigo@8": 263,
+      "certas_brando": 191
+     },
+     "sem_resposta": {
+      "n": 80,
+      "respondidas": 2
+     },
+     "premissa_errada": {
+      "n": 50,
+      "certas": 42,
+      "respondidas": 43,
+      "nao_sei": 7,
+      "erradas": 1,
+      "artigo@1": 36,
+      "artigo@8": 48,
+      "certas_brando": 15
+     },
+     "face_a_base": {
+      "em_1": {
+       "n": 140,
+       "certas_base": 115,
+       "certas": 116,
+       "ganhos": 18,
+       "perdas": 17,
+       "artigo@1": 122,
+       "artigo@8": 137
+      },
+      "de_2_a_8": {
+       "n": 93,
+       "certas_base": 0,
+       "certas": 76,
+       "ganhos": 76,
+       "perdas": 0,
+       "artigo@1": 52,
+       "artigo@8": 89
+      },
+      "fora_dos_8": {
+       "n": 48,
+       "certas_base": 0,
+       "certas": 28,
+       "ganhos": 28,
+       "perdas": 0,
+       "artigo@1": 20,
+       "artigo@8": 37
+      },
+      "total": {
+       "n": 281,
+       "certas_base": 115,
+       "certas": 220,
+       "ganhos": 122,
+       "perdas": 17,
+       "artigo@1": 194,
+       "artigo@8": 263
+      }
+     }
+    },
+    "4": {
+     "real": {
+      "n": 281,
+      "certas": 204,
+      "respondidas": 210,
+      "nao_sei": 71,
+      "erradas": 6,
+      "artigo@1": 194,
+      "artigo@8": 263,
+      "certas_brando": 177
+     },
+     "sem_resposta": {
+      "n": 80,
+      "respondidas": 2
+     },
+     "premissa_errada": {
+      "n": 50,
+      "certas": 38,
+      "respondidas": 39,
+      "nao_sei": 11,
+      "erradas": 1,
+      "artigo@1": 36,
+      "artigo@8": 48,
+      "certas_brando": 13
+     },
+     "face_a_base": {
+      "em_1": {
+       "n": 140,
+       "certas_base": 115,
+       "certas": 110,
+       "ganhos": 16,
+       "perdas": 21,
+       "artigo@1": 122,
+       "artigo@8": 137
+      },
+      "de_2_a_8": {
+       "n": 93,
+       "certas_base": 0,
+       "certas": 70,
+       "ganhos": 70,
+       "perdas": 0,
+       "artigo@1": 52,
+       "artigo@8": 89
+      },
+      "fora_dos_8": {
+       "n": 48,
+       "certas_base": 0,
+       "certas": 24,
+       "ganhos": 24,
+       "perdas": 0,
+       "artigo@1": 20,
+       "artigo@8": 37
+      },
+      "total": {
+       "n": 281,
+       "certas_base": 115,
+       "certas": 204,
+       "ganhos": 110,
+       "perdas": 21,
+       "artigo@1": 194,
+       "artigo@8": 263
+      }
+     }
+    }
+   }
   }
  }
 }

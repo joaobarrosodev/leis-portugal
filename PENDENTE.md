@@ -153,12 +153,12 @@ Os números estão no `rag/README.md`, em «Última milha nas reais: as peças q
   - A, a aplicação 0.1.1: 115 / 185, com o artigo certo em 1.º em 140 e nos 8 primeiros em 233;
   - B, A com as notas estáveis do reranker: 108 / 186 (4 ganhos, 11 perdas);
   - C, B com o reranker a ler as perguntas do artigo: **149 / 211** (50 ganhos, 16 perdas), com o artigo em 1.º em 173. «Sem resposta» respondidas: 7 de 80, contra 5;
-  - D, C com o LLM a escrever a partir dos 8 primeiros artigos (limiar 1, quatro juízes): **231 / 241** (124 ganhos, 8 perdas). «Sem resposta» respondidas: 2.
-- **Das 93 perguntas com o artigo certo do 2.º ao 8.º lugar,** ficam certas 35 na C e 85 na D. Das 115 certas da A, perdem-se 16 na C e 8 na D.
+  - D, C com o LLM a escrever a partir dos 8 primeiros artigos (limiar 1, quatro juízes): **231 / 241** (124 ganhos, 8 perdas). «Sem resposta» respondidas: 2;
+  - D com a pergunta reescrita (`reescrita2`), como a aplicação faz com chave: **249 / 257** (144 ganhos, 10 perdas), com o artigo certo nos 8 primeiros em 263. «Sem resposta» respondidas: 4.
+- **Das 93 perguntas com o artigo certo do 2.º ao 8.º lugar,** ficam certas 35 na C, 85 na D e 86 na D com reescrita. Das 115 certas da A, perdem-se 16 na C, 8 na D e 10 na D com reescrita.
 - **Confirmado nas 1.298 perguntas:** a C dá 747 certas contra 619 da A (152 ganhos, 24 perdas). Reais 115 → 149, coloquiais 23 → 109 (inflacionado: partilham vocabulário com as perguntas dos artigos), e os outros tipos ficam iguais (7 ganhos e 5 perdas em 506).
 - **O que compensa:** o reranker a ler as perguntas (sem chave) e o LLM (com chave). As notas estáveis sozinhas não melhoram o número; servem para a medição ser repetível.
 - **Por fazer:**
-  - medir a D com a pergunta reescrita (`reescrita2`);
   - decidir o limiar da C: com 3,5 fica com as mesmas 5 «sem resposta» da A, 145 certas e 51 erradas (contra 70). O limiar continua 3 no código;
   - ligar na aplicação só depois de o índice com perguntas estar publicado. Os valores por omissão do `rag/web.py` não mudaram.
 
