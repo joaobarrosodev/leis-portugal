@@ -29,6 +29,8 @@ from rag.fontes import RAIZ, corpo
 
 PASTA_TC = RAIZ / "data" / "jurisprudencia" / "tribunal-constitucional"
 SAIDA = PASTA_TC / "normas-julgadas.jsonl"
+# Os acórdãos de uniformização do STJ e do STA publicados no DR (`rag.uniformizacao`).
+SAIDA_UNIFORMIZACAO = RAIZ / "data" / "jurisprudencia" / "uniformizacao" / "normas-interpretadas.jsonl"
 
 # ------------------------------------------------------------------ sentido da decisão
 
@@ -59,7 +61,16 @@ ROTULOS = {
     "nao_julga": "Não julga inconstitucional",
     "pronuncia": "Pronuncia-se pela inconstitucionalidade",
     "nao_pronuncia": "Não se pronuncia pela inconstitucionalidade",
+    # STJ e STA (rag.uniformizacao).
+    "fixa_jurisprudencia": "Fixa jurisprudência",
+    "uniformiza_jurisprudencia": "Uniformiza jurisprudência",
 }
+SIGLAS_TRIBUNAIS = {"TC": "do TC", "STJ": "do STJ", "STA": "do STA"}
+
+
+def titulo_acordao(julgamento: dict) -> str:
+    """"Acórdão do TC n.º 268/2022", "Acórdão do STJ n.º 5/2018"."""
+    return f"Acórdão {SIGLAS_TRIBUNAIS.get(julgamento.get('tribunal') or 'TC', '')} n.º {julgamento['numero']}"
 
 # ------------------------------------------------------------------ onde está a decisão
 
@@ -208,6 +219,13 @@ SIGLAS: dict[str, str | tuple[str, str]] = {
     "CIUC": ("lei", "22-A/2007"),
     "EBF": "Estatuto dos Benefícios Fiscais",
     "RGICSF": ("decreto-lei", "298/92"),
+    # Mais frequentes nos acórdãos de uniformização do STJ e do STA (rag.uniformizacao).
+    "LAT": ("lei", "98/2009"),
+    "NLAT": ("lei", "98/2009"),
+    "RJC": ("lei", "19/2012"),
+    "RRCEE": ("lei", "67/2007"),
+    "RJAT": ("decreto-lei", "10/2011"),
+    "EMJ": ("lei", "21/85"),
     "CRCSPSS": "Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social",
 }
 # Nomes por extenso que `Pesquisa.codigo` não encontra (o anexo tem outro título no índice).
@@ -256,6 +274,11 @@ NOMES: dict[str, tuple[str, str]] = {
     "código de valores mobiliários": ("decreto-lei", "486/99"),
     "estatutos da entidade reguladora da saúde": ("decreto-lei", "126/2014"),
     "estatutos da ers": ("decreto-lei", "126/2014"),
+    "código do iuc": ("lei", "22-A/2007"),
+    "código do imposto sobre veículos": ("lei", "22-A/2007"),
+    "lei dos acidentes de trabalho": ("lei", "98/2009"),
+    "regime da responsabilidade civil extracontratual do estado e demais entidades públicas": ("lei", "67/2007"),
+    "regime jurídico da arbitragem em matéria tributária": ("decreto-lei", "10/2011"),
     "regime jurídico da contribuição extraordinária sobre o setor energético": ("lei", "83-C/2013"),
     "regime jurídico da contribuição extraordinária do setor energético": ("lei", "83-C/2013"),
 }
@@ -288,8 +311,12 @@ def nome_canonico(nome: str) -> tuple[str | None, tuple[str, str] | None]:
 _NOME_CODIGO = re.compile(
     r"(?<!\w)((?:Código|Regime\s+Geral|Lei\s+Geral|Estatuto|Regulamento\s+das\s+Custas|Lei\s+do\s+Tribunal|Lei\s+da\s+Nacionalidade|"
     r"Lei\s+de\s+Processo\s+nos\s+Tribunais|Lei\s+de\s+Organização\s+e\s+Processo|"
-    r"Novo\s+Regime)[^,;()\n\d]{3,110}?)(?=\s*(?:\(|,|;|\.|$|\d|\s+na\s+reda|\s+aprovad|\s+quando|\s+na\s+parte|\s+interpretad|\s+no\s+sentido|\s+e\s+(?:d[oa]s?|o|a|os|as|n\.|artigos?|art\.)\s))",
+    r"Novo\s+Regime)[^,;()\n\d]{3,110}?)(?=\s*(?:\(|,|;|\.|$|\d|\s+na\s+reda|\s+aprovad|\s+quando|\s+na\s+parte|\s+interpretad|\s+no\s+sentido|\s+e\s+(?:d[oa]s?|o|a|os|as|n\.|artigos?|art\.)\s"
+    # O verbo da frase a seguir ao nome ("do Código Penal pode ser concedido", "do CPTA efectuada imediatamente").
+    r"|\s+(?:pode|podem|deve|devem|é|são|não|abrange|integra|implica|constitui|cabe|efe(?:c)?tuad[oa]s?|aos?|às?)\s))",
 )
+# O fim do nome limpo dentro do texto: "Código do Registo Predial e 89.º" acaba antes do " e".
+_FIM_DO_NOME = re.compile(r"\s+(?:e|ou|de|do|da)\s*$")
 _SIGLA = re.compile(r"(?<![\w-])(" + "|".join(sorted((re.escape(s) for s in SIGLAS if "_" not in s), key=len, reverse=True)) + r")(?![\w-])")
 _DEFINICAO_SIGLA = re.compile(r"\((?:doravante\s*,?\s*|abreviadamente\s*,?\s*|adiante\s*,?\s*)?(?:designad[oa]\s+por\s+)?([A-Z][A-Za-z]{1,7})\)")
 # "artigo 2034.º", "artigos 4.º e 6.º", "art.º 9.º", "art. 150.º-A"
@@ -323,6 +350,14 @@ class Norma:
     principal: bool = True  # falso quando só aparece na interpretação, não como norma julgada
 
 
+_DIPLOMA_UE = re.compile(
+    r"(?<!\w)(regulamento|reg\.|diretiva|directiva|decisão)(?:\s+(?:delegad[oa]|de\s+execução))?\s*"
+    r"(?:\(?\s*(?:UE|CE|CEE|Euratom)(?:\s*[,/]?\s*(?:UE|CE|CEE|Euratom))*\s*\)?\s*)?(?:n\.?\s*[º°o]\.?\s*)?(\d{1,4})/(\d{1,4})",
+    re.I,
+)
+_TIPOS_UE = {"regulamento": "regulation", "reg.": "regulation", "diretiva": "directive", "directiva": "directive", "decisão": "decision"}
+
+
 def _mencoes(texto: str, siglas: dict[str, str | tuple[str, str]]) -> list[Mencao]:
     texto = texto.translate(_HIFENS)
     encontradas: list[Mencao] = []
@@ -331,6 +366,12 @@ def _mencoes(texto: str, siglas: dict[str, str | tuple[str, str]]) -> list[Menca
         if tipo in {"acordao-tribunal-constitucional", "acordao-supremo-tribunal-justica", "acordao-supremo-tribunal-administrativo"}:
             continue
         encontradas.append(Mencao(m.start(), m.end(), m.group(0), tipo=tipo, numero=refs_mod.numero_oficial(m.group(2).upper())))
+    for m in _DIPLOMA_UE.finditer(texto):
+        # "Reg. (CE Euratom) n.º 2988/95", "Directiva 2013/36/EU": o "CE" não é o Código da Estrada e o artigo
+        # citado é do ato da UE, não do código citado antes.
+        if any(e.inicio <= m.start() < e.fim for e in encontradas):
+            continue
+        encontradas.append(Mencao(m.start(), m.end(), m.group(0), tipo=_TIPOS_UE[m.group(1).lower()], numero=f"{m.group(2)}/{m.group(3)}"))
     for m in _NOME_CODIGO.finditer(texto):
         nome = re.sub(r"\s+", " ", m.group(1)).strip()
         nome = re.sub(r"\s+(?:pel[oa]s?|que|quando|com|para|segundo|em\s+articula|na\s+interpreta|e\s+(?:n[oa]s?\s+)?artigo)\b.*$", "", nome)
@@ -338,10 +379,13 @@ def _mencoes(texto: str, siglas: dict[str, str | tuple[str, str]]) -> list[Menca
         if any(e.inicio <= m.start() < e.fim for e in encontradas):
             continue
         codigo, fixo = nome_canonico(nome)
+        # "artigos 116.º do Código do Registo Predial e 89.º…": o " e" final não é do nome, e o artigo
+        # seguinte ("e 89.º") tem de ver o "e".
+        fim = m.start() + len(_FIM_DO_NOME.sub("", m.group(1)))
         if fixo:
-            encontradas.append(Mencao(m.start(), m.end(), nome, tipo=fixo[0], numero=fixo[1]))
+            encontradas.append(Mencao(m.start(), fim, nome, tipo=fixo[0], numero=fixo[1]))
         else:
-            encontradas.append(Mencao(m.start(), m.end(), nome, codigo=codigo))
+            encontradas.append(Mencao(m.start(), fim, nome, codigo=codigo))
     for m in _SIGLA.finditer(texto):
         alvo = siglas.get(m.group(1))
         if alvo is None or any(e.inicio <= m.start() < e.fim for e in encontradas):
@@ -377,10 +421,25 @@ _INTERPRETACAO = re.compile(
     r"segundo\s+a\s+qual|no\s+segmento|no\s+sentido\s+(?:de|segundo)|ao\s+(?:prever|estabelecer|fazer|determinar|impor)|enquanto)\b",
     re.I,
 )
-_ALTERACAO_MENCAO = re.compile(r"(?:redac?[cç][aã]o|alterad[oa]s?|republicad[oa]|introduzid[oa]|prorrogad[oa]|aditad[oa])[^;]{0,45}$", re.I)
+_ALTERACAO_MENCAO = re.compile(r"(?:redac?[cç][aã]o|alterad[oa]s?|republicad[oa]|introduzid[oa]|prorrogad[oa]|aditad[oa]|mantid[oa]s?)[^;]{0,45}$", re.I)
 _ALTERACAO_ANTES = re.compile(r"(?:aprovad|criad|introduzid|alterad|prorrogad|conferid|dad|republicad|mantid|aditad)[oa]s?[^,;()]{0,40}?\s+pel[oa]s?\b[^;()]{0,30}$", re.I)
 # "da mesma lei", "deste diploma": o diploma é o citado antes. "do mesmo preceito" (o mesmo artigo) não conta.
-_MESMO_DIPLOMA = re.compile(r"\b(?:mesm[oa]|dest[ea]|daquel[ea]|referid[oa])\s+(?:lei|diploma|código|decreto|portaria|regime|estatuto|regulamento)", re.I)
+_MESMO_DIPLOMA = re.compile(r"\b(?:mesm[oa]|dest[ea]|daquel[ea]|referid[oa])\s+(?:(?:últim[oa]|mesm[oa])\s+)?(lei|diploma|código|decreto|portaria|regime|estatuto|regulamento)", re.I)
+
+
+def _do_tipo(mencao: Mencao, palavra: str) -> bool:
+    """A menção é do tipo que "da mesma lei" / "daquele Código" / "do mesmo decreto" diz."""
+    palavra = palavra.lower()
+    texto = mencao.texto.lower()
+    if palavra == "lei":
+        return (mencao.tipo or "").startswith("lei") or texto.startswith("lei ")
+    if palavra == "código":
+        return bool(mencao.codigo) or texto.startswith("código") or (bool(mencao.tipo) and not refs_mod._DIPLOMA.match(mencao.texto))
+    if palavra == "decreto":
+        return (mencao.tipo or "").startswith("decreto")
+    if palavra == "portaria":
+        return mencao.tipo == "portaria"
+    return False  # "diploma", "regime", "estatuto": qualquer um (a regra geral)
 # Também entre travessões: "Julgar inconstitucionais - por violação do artigo 29.º da Constituição - os artigos…".
 _RETOMA = re.compile(r"(?:,|\s-)\s*(?:a|as|o|os|da|das|do|dos)\s+(?:norma|normas|interpreta[çc][ãa]o|disposto|artigo|art\.?\s*º|segmento|dimens[ãa]o|regime|preceito|n\.\s*[º°o]s?|al[íi]nea)", re.I)
 
@@ -404,7 +463,7 @@ def objeto(alinea: str) -> str:
             return texto[: m.start()]
 
 
-def normas(alinea: str, siglas: dict[str, str | tuple[str, str]] | None = None) -> list[Norma]:
+def normas(alinea: str, siglas: dict[str, str | tuple[str, str]] | None = None, *, sigla_desconhecida: bool = False) -> list[Norma]:
     """As normas julgadas na alínea: cada artigo ligado ao diploma que o segue ("do artigo 4.º da
     Lei n.º 32/2008"), e os diplomas citados sem artigo ("n.ºs 2 e 3 do Anexo IX da Portaria…").
 
@@ -434,9 +493,16 @@ def normas(alinea: str, siglas: dict[str, str | tuple[str, str]] | None = None) 
             artigos.append((n.start(), f"{n.group(1)}.º" + (f"-{n.group(2).upper()}" if n.group(2) else "")))
     for x in mencoes:
         # "artigo 14.º do Código Penal e 7.º, n.º 2, do Regime Geral das Contraordenações".
-        seguinte = re.match(r"\s*,?\s*(?:e|bem\s+como)\s+(?:o\s+)?(\d+)\s*\.?\s*º(?:\s*-\s*([A-Z]{1,2})\b)?", texto[x.fim:])
-        if seguinte:
-            artigos.append((x.fim + seguinte.start(1), f"{seguinte.group(1)}.º" + (f"-{seguinte.group(2).upper()}" if seguinte.group(2) else "")))
+        # Também depois da data do diploma: "Decreto-Lei n.º 433/82, de 27 de outubro, 183.º e 185.º-A do Código da Estrada".
+        seguinte = re.match(r"(?:,?\s*de\s+\d{1,2}(?:\.º)?\s+de\s+[A-Za-zç]+(?:\s+de\s+\d{4})?)?\s*,?\s*(?:(?:e|bem\s+como)\s+)?(?:o\s+)?(\d+)\s*\.?\s*º(?:\s*-\s*([A-Z]{1,2})\b)?", texto[x.fim:])
+        if seguinte and not re.match(r"(?:,?\s*de\s+\d{1,2}(?:\.º)?\s+de\s+[A-Za-zç]+(?:\s+de\s+\d{4})?\s*,\s*|\s*,?\s*(?:e|bem\s+como)\s)", texto[x.fim:]):
+            seguinte = None  # "do Código Penal 25.º" sem "e" nem data: não é um artigo seguinte
+        inicio = x.fim
+        while seguinte:
+            artigos.append((inicio + seguinte.start(1), f"{seguinte.group(1)}.º" + (f"-{seguinte.group(2).upper()}" if seguinte.group(2) else "")))
+            # "… do Código do Registo Predial e 89.º e 101.º do Código do Notariado".
+            inicio += seguinte.end()
+            seguinte = re.match(r"\s*(?:,|e|ou)\s*(\d+)\s*\.?\s*º(?:\s*-\s*([A-Z]{1,2})\b)?", texto[inicio:])
     artigos.sort()
     # O diploma de alteração ("na redação introduzida pela Lei n.º 46/2011") nunca é o diploma de um artigo julgado.
     alteracao = {i for i, x in enumerate(mencoes) if _ALTERACAO_MENCAO.search(texto[max(0, x.inicio - 70): x.inicio])}
@@ -451,6 +517,14 @@ def normas(alinea: str, siglas: dict[str, str | tuple[str, str]] | None = None) 
         entre = texto[pos: mencoes[depois[0]].inicio] if depois else texto[pos:]
         if _CONSTITUICAO.search(entre):
             continue
+        if sigla_desconhecida and (sigla := re.search(r"\b(?:d[oa]s?)\s+([A-Z]{2,}[A-Za-z]*)\b", entre)) and sigla.group(1) not in siglas:
+            # "art. 13.º, n.º 1, do RJC, e do art. 41.º, n.º 1, do RGCO": o artigo é de um diploma que não se
+            # conhece pela sigla; sem diploma é melhor do que o diploma seguinte.
+            continue
+        if sigla_desconhecida and not depois and re.search(
+                r"\b(?:d[oa]s?|à|ao)\s+(?:[A-Z]{2,}\b|Protocolo|Convenção|Tratado|Carta|Acordo|Pacto)", entre):
+            # "art. 1.º do Protocolo Adicional n.º 1 à CEDH" no fim: não é do último diploma citado.
+            continue
         if depois and not _MESMO_DIPLOMA.search(entre):
             i = depois[0]
             if i in alteracao:
@@ -464,7 +538,14 @@ def normas(alinea: str, siglas: dict[str, str | tuple[str, str]] | None = None) 
                     # Judiciais, na redação introduzida pela Lei n.º 46/2011"): melhor sem diploma do que o errado.
                     continue
         else:
-            anteriores = [i for i, m in enumerate(mencoes) if m.fim <= pos]
+            # "daquele Código", "da mesma lei": o diploma citado antes, mas não o da alteração
+            # ("(na redacção anterior ao Decreto-Lei n.º 303/2007) … artigo 700.º daquele Código").
+            todas = [i for i, m in enumerate(mencoes) if m.fim <= pos]
+            anteriores = [i for i in todas if i not in alteracao] or todas
+            if (mesmo := _MESMO_DIPLOMA.search(entre)) and (do_tipo := [i for i in todas if _do_tipo(mencoes[i], mesmo.group(1))]):
+                # "artigos 140.º e 141.º do Código Penal, na redacção dada pela Lei n.º 6/84, bem como dos artigos
+                # 2.º e 3.º desta mesma lei": o diploma anterior do tipo dito, mesmo que seja o da alteração.
+                anteriores = do_tipo
             if not anteriores:
                 continue
             i = anteriores[-1]
@@ -701,30 +782,36 @@ def construir(pesquisa, pasta: Path = PASTA_TC, saida: Path = SAIDA, progresso=p
 
 
 class Jurisprudencia:
-    """Consulta do `normas-julgadas.jsonl`: os acórdãos que julgaram um artigo de um diploma.
+    """Consulta das normas julgadas pelo TC (`normas-julgadas.jsonl`) e das interpretadas pelo STJ e pelo
+    STA em uniformização de jurisprudência (`normas-interpretadas.jsonl`): os acórdãos sobre um artigo.
 
     As decisões com força obrigatória geral vêm primeiro (as declarações mudam o que vigora; a
-    resposta da lei deve avisar delas), depois os juízos em casos concretos, do mais recente para o mais antigo.
+    resposta da lei deve avisar delas), depois a jurisprudência uniformizada do STJ e do STA, depois os
+    juízos do TC em casos concretos, do mais recente para o mais antigo.
     A `parte` (o anexo de um código) só separa quando se sabe dos dois lados: o artigo 1.º do
     Decreto-Lei n.º 78/87 não é o artigo 1.º do Código de Processo Penal, que está no anexo."""
 
     # As decisões do Plenário em fiscalização abstrata (declarar ou recusar declarar com força obrigatória
-    # geral) e preventiva valem para todos e vêm antes dos juízos em casos concretos.
-    _ORDEM = {"declara_fog": 0, "nao_declara_fog": 1, "pronuncia": 2, "nao_pronuncia": 2, "julga": 3, "nao_julga": 3}
+    # geral) e preventiva valem para todos e vêm antes dos juízos em casos concretos; a uniformização do
+    # STJ e do STA orienta os tribunais e vem também antes deles.
+    _ORDEM = {"declara_fog": 0, "nao_declara_fog": 1, "pronuncia": 2, "nao_pronuncia": 2, "fixa_jurisprudencia": 2,
+              "uniformiza_jurisprudencia": 2, "julga": 3, "nao_julga": 3}
 
-    def __init__(self, caminho: Path = SAIDA) -> None:
+    def __init__(self, caminho: Path | tuple[Path, ...] | list[Path] = (SAIDA, SAIDA_UNIFORMIZACAO)) -> None:
         self._por_artigo: dict[tuple[str, str | None], list[tuple[str | None, dict]]] = {}
-        if not caminho.exists():
-            return
-        for linha in caminho.read_text(encoding="utf-8").splitlines():
-            if not linha.strip():
+        for ficheiro in [caminho] if isinstance(caminho, Path) else caminho:
+            if not ficheiro.exists():
                 continue
-            julgamento = json.loads(linha)
-            for norma in julgamento["normas"]:
-                if norma["principal"] and norma["documento"]:
-                    lista = self._por_artigo.setdefault((norma["documento"], norma["artigo"]), [])
-                    if not any(j["acordao"] == julgamento["acordao"] and j["alinea"] == julgamento["alinea"] for _, j in lista):
-                        lista.append((norma.get("parte"), julgamento))
+            for linha in ficheiro.read_text(encoding="utf-8").splitlines():
+                if not linha.strip():
+                    continue
+                julgamento = json.loads(linha)
+                julgamento.setdefault("tribunal", "TC")
+                for norma in julgamento["normas"]:
+                    if norma["principal"] and norma["documento"]:
+                        lista = self._por_artigo.setdefault((norma["documento"], norma["artigo"]), [])
+                        if not any(j["acordao"] == julgamento["acordao"] and j["alinea"] == julgamento["alinea"] for _, j in lista):
+                            lista.append((norma.get("parte"), julgamento))
 
     def __bool__(self) -> bool:
         return bool(self._por_artigo)

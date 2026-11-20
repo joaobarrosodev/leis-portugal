@@ -473,7 +473,7 @@ class Pesquisa:
 
     @property
     def jurisprudencia(self):
-        """As normas julgadas pelo Tribunal Constitucional (`rag.jurisprudencia`), lidas na primeira vez."""
+        """As normas julgadas pelo TC e as interpretadas pelo STJ e pelo STA (`rag.jurisprudencia`), lidas na primeira vez."""
         if self._jurisprudencia is None:
             from rag.jurisprudencia import Jurisprudencia
 
@@ -481,7 +481,7 @@ class Pesquisa:
         return self._jurisprudencia
 
     def julgamentos(self, r: Resultado) -> list[dict]:
-        """Os acórdãos do Tribunal Constitucional que julgaram este artigo (no diploma ou no republicado)."""
+        """Os acórdãos do TC que julgaram este artigo e os do STJ e do STA que o interpretaram (no diploma ou no republicado)."""
         if not r.numero:
             return []
         procurar: list[tuple[str, str | None]] = [(d, r.parte) for d in (r.documento, r.redirecionado_de) if d]
