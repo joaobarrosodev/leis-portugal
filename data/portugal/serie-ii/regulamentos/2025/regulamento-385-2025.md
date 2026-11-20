@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 259 - 263
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/057000000/0025900263.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-03-22'
+entry_into_force:
+  date: '2025-03-22'
+  rule: no dia seguinte ao da sua publicação no Diário da República e aplica-se a partir do ano letivo de 2024/2025
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: durante o período em que vigorar o financiamento pelo Plano de Recuperação e Resiliência
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 397 - 405
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/163000000/0039700405.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua aprovação pela Direção da ESSEM
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: a partir do ano letivo 2022/2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

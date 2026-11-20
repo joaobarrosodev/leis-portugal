@@ -26,12 +26,13 @@ publication:
 entry_into_force_dates:
 - '2024-12-03'
 entry_into_force:
-  date: '2024-12-03'
-  rule: '5.º dia após a publicação (regra supletiva: Lei n.º 74/98, art. 2.º, n.º 2)'
-  method: supletiva
-  article: null
-  effects_date: null
-  effects_rule: null
+  date: '2024-11-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: art-6
+  effects_date: '2024-11-01'
+  effects_rule: a partir de 1 de novembro de 2024, considerando-se ratificados todos os atos entretanto praticados, em conformidade
+    com o presente decreto-lei
   end_date: null
   end_rule: null
 end_of_validity_date: null

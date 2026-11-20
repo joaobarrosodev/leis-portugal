@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 301 - 307
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/241000000/0030100307.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-12-31'
+entry_into_force:
+  date: '2019-12-31'
+  rule: no 15.º dia a contar da respetiva publicação nos termos legais
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

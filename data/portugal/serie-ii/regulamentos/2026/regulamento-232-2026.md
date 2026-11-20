@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 257 - 260
   pdf_url: https://files.diariodarepublica.pt/2s/2026/03/049000000/0025700260.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-03-12'
+entry_into_force:
+  date: '2026-03-12'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: de forma retroativa à data da tomada de posse dos órgãos da OMD, salvaguardada a impossibilidade de acumulação
+    das remunerações elencadas no presente regulamento com quaisquer pagamentos efetuados a t
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30614 - 30629
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/207000000/3061430629.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-10-23'
+entry_into_force:
+  date: '2015-10-23'
+  rule: no dia imediato à sua publicação, na 2.ª série do Diário da República
+  method: clausula
+  article: art-76
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

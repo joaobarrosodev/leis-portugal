@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18557 - 18559
   pdf_url: https://files.diariodarepublica.pt/2s/2012/05/101000000/1855718559.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-05-24'
+entry_into_force:
+  date: '2012-05-24'
+  rule: na data da sua publicação no Diário da República e
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: no ano letivo de 2012/2013
 end_of_validity_date: null
 legal_status: unknown
 notes: []

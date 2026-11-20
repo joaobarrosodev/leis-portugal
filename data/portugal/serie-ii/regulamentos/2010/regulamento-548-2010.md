@@ -23,6 +23,15 @@ publication:
   pages: 34268 - 34269
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/119000000/3426834269.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República e está sujeito a alteração em caso de nova legislação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

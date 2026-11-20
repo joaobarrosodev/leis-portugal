@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 28093 - 28103
   pdf_url: https://files.diariodarepublica.pt/2s/2012/08/154000000/2809328103.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-08-24'
+entry_into_force:
+  date: '2012-08-24'
+  rule: 15 dias após a sua publicação no Diário da República, sendo automaticamente revogado o Regulamento de Serviço de Gestão
+    de Resíduos Urbanos do Município de Olhão anteriormente aprovado
+  method: clausula
+  article: art-74
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

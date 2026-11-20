@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 34537 - 34540
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/121000000/3453734540.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-06-25'
+entry_into_force:
+  date: '2010-06-25'
+  rule: no dia seguinte à sua publicação no Diário da República, após a devida aprovação pelo Reitor, nos termos do n.º 3
+    do artigo 52.º dos Estatutos da Universidade
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

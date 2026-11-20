@@ -24,6 +24,15 @@ publication:
   pages: 299 - 305
   pdf_url: https://files.diariodarepublica.pt/2s/2019/10/190000000/0029900305.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2019/2020
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

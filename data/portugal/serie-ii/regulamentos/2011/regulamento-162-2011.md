@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11033 - 11036
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/046000000/1103311036.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-03-07'
+entry_into_force:
+  date: '2011-03-07'
+  rule: na data da sua publicação no Diário da República e
+  method: clausula
+  article: art-12
+  effects_date: '2011-01-01'
+  effects_rule: a 1 de Janeiro de 2011
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

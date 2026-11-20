@@ -23,6 +23,15 @@ publication:
   pages: 19544 - 19547
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/136000000/1954419547.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

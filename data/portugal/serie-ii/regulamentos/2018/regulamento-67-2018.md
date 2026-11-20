@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3146 - 3152
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/018000000/0314603152.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-01-26'
+entry_into_force:
+  date: '2018-01-26'
+  rule: no dia seguinte ao da sua publicação nos termos do artigo 139.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 20486 - 20487
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/144000000/2048620487.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a aprovação pelo órgão deliberativo e publicação em edital a afixar nas instalações desta Junta de Freguesia
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

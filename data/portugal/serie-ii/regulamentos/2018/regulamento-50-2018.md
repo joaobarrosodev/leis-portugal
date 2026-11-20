@@ -23,6 +23,15 @@ publication:
   pages: 2697 - 2700
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/015000000/0269702700.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil dia seguinte à sua publicitação, nos temos legais
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

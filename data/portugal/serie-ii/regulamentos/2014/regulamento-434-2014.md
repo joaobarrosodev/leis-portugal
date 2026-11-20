@@ -24,6 +24,15 @@ publication:
   pages: 25933 - 25934
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/196000000/2593325934.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da candidatura para o ano letivo 2014-2015
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

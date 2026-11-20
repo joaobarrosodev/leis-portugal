@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 25855 - 25857
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/116000000/2585525857.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-06-18'
+entry_into_force:
+  date: '2011-06-18'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sendo aplicável ao concurso para o ano lectivo de 2011-2012
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

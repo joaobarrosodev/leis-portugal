@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 991 - 999
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/162000000/0099100999.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-09-06'
+entry_into_force:
+  date: '2024-09-06'
+  rule: quinze dias após a sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

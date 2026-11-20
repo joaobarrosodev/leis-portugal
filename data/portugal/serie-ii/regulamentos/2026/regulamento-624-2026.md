@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 575 - 581
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/099000000/0057500581.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-27'
+entry_into_force:
+  date: '2026-05-27'
+  rule: no quinto dia após a sua publicação, nos termos do disposto no artigo 140.º do Código do Procedimento Administrativo,
+    aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

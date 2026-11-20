@@ -23,6 +23,16 @@ publication:
   pages: 548 - 559
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/054000000/0054800559.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da conclusão do processo de atribuição de novas licenças decorrentes do aumento
+    do contingente e da fixação das escalas rotativas previstos para a área de estac
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

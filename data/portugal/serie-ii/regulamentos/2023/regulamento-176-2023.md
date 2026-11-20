@@ -23,6 +23,16 @@ publication:
   pages: 249 - 255
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/024000000/0024900255.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia um do mês seguinte ao da sua aprovação pela Assembleia de Freguesia da União de Freguesias de Arouca e Burgo
+    e publicitação nos termos da Lei
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

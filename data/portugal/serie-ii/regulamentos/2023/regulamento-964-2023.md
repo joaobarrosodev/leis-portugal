@@ -24,6 +24,15 @@ publication:
   pages: 290 - 294
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/166000000/0029000294.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-18
+  effects_date: '2023-08-01'
+  effects_rule: a 1 de agosto de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

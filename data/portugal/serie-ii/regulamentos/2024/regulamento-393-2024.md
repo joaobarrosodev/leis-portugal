@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/067000000/0045200460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1095305589:por#art-32'
+    detail: O presente regulamento, aprovado pelo Conselho Científico em reunião de 19-03-2026, ouvido o Conselho Pedagógico,
+      entra em vigor no ano letivo de 2026-2027, revogando o [Regulamento n.º 393/2024].
 notes: []
 language: por
 version:

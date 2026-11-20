@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 436 - 455
   pdf_url: https://files.diariodarepublica.pt/2s/2020/12/242000000/0043600455.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-16'
+entry_into_force:
+  date: '2020-12-16'
+  rule: no dia imediato ao da sua publicação no Diário da República, a sua publicação em edital, a afixar no edifício da sede
+    e delegação da Barosa, após aprovação pela AUFMB
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

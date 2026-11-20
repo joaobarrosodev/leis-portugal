@@ -24,6 +24,15 @@ publication:
   pages: 3573 - 3576
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/016000000/0357303576.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte à publicitação do aviso/edital da respectiva aprovação no Diário da República
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

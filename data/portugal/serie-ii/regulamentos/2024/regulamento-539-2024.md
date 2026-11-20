@@ -23,6 +23,16 @@ publication:
   pages: 311 - 324
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/094000000/0031100324.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'após a sua aprovação pela assembleia geral, nos termos do disposto no artigo 22.º do Estatuto da Ordem dos Farmacêuticos
+    e publicação na 2.ª série do Diário da República e meio de comunicação oficial '
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

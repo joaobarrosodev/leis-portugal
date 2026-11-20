@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 437 - 444
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/008000000/0043700444.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-14'
+entry_into_force:
+  date: '2021-01-14'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 181 - 184
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/180000000/0018100184.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil imediato após a sua publicação nos termos legais
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

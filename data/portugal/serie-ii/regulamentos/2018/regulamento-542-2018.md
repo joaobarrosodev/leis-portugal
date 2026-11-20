@@ -23,6 +23,16 @@ publication:
   pages: 22239 - 22240
   pdf_url: https://files.diariodarepublica.pt/2s/2018/08/155000000/2223922240.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 20 dias após a sua publicitação em edital e será igualmente objeto de publicitação na página eletrónica
+    da internet do Município
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13578 - 13589
   pdf_url: https://files.diariodarepublica.pt/2s/2014/05/101000000/1357813589.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-11'
+entry_into_force:
+  date: '2014-06-11'
+  rule: no 15.º dia posterior à data da sua publicação no Diário da República
+  method: clausula
+  article: art-85
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

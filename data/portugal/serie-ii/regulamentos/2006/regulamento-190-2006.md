@@ -23,6 +23,15 @@ publication:
   pages: 21353 - 21354
   pdf_url: https://files.diariodarepublica.pt/2s/2006/10/195000000/2135321354.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na presente data
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

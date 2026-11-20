@@ -23,6 +23,15 @@ publication:
   pages: 772 - 782
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/091000000/0077200782.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a 20 de abril, após aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 25787 - 25791
   pdf_url: https://files.diariodarepublica.pt/2s/2008/06/111000000/2578725791.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 30 dias após a aprovação da Assembleia Municipal
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

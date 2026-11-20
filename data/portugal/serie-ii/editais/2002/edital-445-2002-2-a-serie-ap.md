@@ -23,6 +23,15 @@ publication:
   pages: 80 - 80
   pdf_url: https://files.diariodarepublica.pt/2s/2002/09/217126000/0008000080.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no próximo dia 1 de Janeiro de 2003
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

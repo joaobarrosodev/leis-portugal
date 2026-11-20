@@ -24,6 +24,16 @@ publication:
   pages: 226 - 232
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/203000000/0022600232.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo 2024/2025, inclusive, revogando o Regulamento do Despacho n.º 3132/2019, publicado no Diário
+    da República, 2.ª série, n.º 57 de 21 de março de 2019
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

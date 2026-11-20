@@ -23,6 +23,16 @@ publication:
   pages: 499 - 512
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/023000000/0049900512.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação no Diário da República, devendo ser, igualmente, publicitado na página da
+    Internet da Câmara Municipal de Fornos de Algodres
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

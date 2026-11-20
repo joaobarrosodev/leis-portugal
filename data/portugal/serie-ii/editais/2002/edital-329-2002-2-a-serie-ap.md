@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 88 - 108
   pdf_url: https://files.diariodarepublica.pt/2s/2002/07/163091000/0008800108.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-05-02'
+entry_into_force:
+  date: '2002-05-02'
+  rule: no dia 2 de Maio do ano de 2002, nos termos do artigo 10.º do Decreto-Lei n.º 54-A/99, de 22 de Fevereiro
+  method: clausula
+  article: art-132
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes:

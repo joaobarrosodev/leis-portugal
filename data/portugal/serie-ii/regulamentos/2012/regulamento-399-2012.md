@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 32334 - 32339
   pdf_url: https://files.diariodarepublica.pt/2s/2012/09/186000000/3233432339.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-09-26'
+entry_into_force:
+  date: '2012-09-26'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,8 +23,24 @@ publication:
   pages: 23570 - 23571
   pdf_url: https://files.diariodarepublica.pt/2s/2014/09/174000000/2357023571.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Reitor da Universidade de Aveiro
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:125747770:por#art-13'
+    detail: 3 - O presente Regulamento revoga o [Regulamento n.º 400/2014], publicado no Diário da República, n.º 174, 2.ª
+      série, de 10 de setembro.
 notes: []
 language: por
 version:

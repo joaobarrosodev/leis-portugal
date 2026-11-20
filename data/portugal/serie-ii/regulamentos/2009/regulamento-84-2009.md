@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6335 - 6338
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/031000000/0633506338.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-01-01'
+entry_into_force:
+  date: '2009-01-01'
+  rule: no dia 1 de Janeiro de 2009
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

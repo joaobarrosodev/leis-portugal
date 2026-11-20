@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 57355 - 57360
   pdf_url: https://files.diariodarepublica.pt/2s/2010/11/227000000/5735557360.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-11-23'
+entry_into_force:
+  date: '2010-11-23'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: no Mestrado em Ensino da Educação Física nos Ensino Básico e Secundário e de Reabilitação Psicomotora que
+    iniciaram no ano lectivo de 2009-2010 e em todos os outros a partir do ano lectivo de 2010-201
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

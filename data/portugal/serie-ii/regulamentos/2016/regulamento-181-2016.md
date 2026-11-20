@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/036000000/0598705993.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:142602733:por#texto'
+    detail: 3 - Este Regulamento entra em vigor no dia seguinte ao da sua publicação, substituindo e revogando o [Regulamento
+      n.º 181/2016], publicado no Diário da República, 2.ª série, n.º 36, de 22 de fevereiro.
 notes: []
 language: por
 version:

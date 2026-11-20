@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 31920-(6) a 31920-(24)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/11/211000001/0000600024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-01'
+entry_into_force:
+  date: '2008-01-01'
+  rule: dia 1 de Janeiro de 2008, ou no dia seguinte à sua publicação no Diário da República, 2.ª série, se esta ocorrer posteriormente
+    a 31 de Dezembro de 2007
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

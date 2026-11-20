@@ -23,8 +23,23 @@ publication:
   pages: 27354 - 27357
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/209000000/2735427357.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo/a Reitor/a
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:182135598:por#art-29'
+    detail: É revogado o [Regulamento n.º 486/2014], publicado no Diário da República, n.º 209/2014, Série II de 2014-10-29
 notes: []
 language: por
 version:

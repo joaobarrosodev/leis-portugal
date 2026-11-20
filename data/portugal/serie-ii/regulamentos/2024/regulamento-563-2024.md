@@ -23,6 +23,15 @@ publication:
   pages: 188 - 195
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/096000000/0018800195.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte após a sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

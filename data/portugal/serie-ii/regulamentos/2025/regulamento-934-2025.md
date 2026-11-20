@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 437 - 447
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/143000000/0043700447.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-07-29'
+entry_into_force:
+  date: '2025-07-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: até à aprovação do Plano de Pormenor e Salvaguarda
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

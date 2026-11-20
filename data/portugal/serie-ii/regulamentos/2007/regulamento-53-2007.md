@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 9114 - 9118
   pdf_url: https://files.diariodarepublica.pt/2s/2007/04/070000000/0911409118.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-04-11'
+entry_into_force:
+  date: '2007-04-11'
+  rule: no dia imediato ao da sua publicação no Diário da República
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

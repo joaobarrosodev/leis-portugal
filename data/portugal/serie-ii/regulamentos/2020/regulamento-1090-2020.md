@@ -23,6 +23,15 @@ publication:
   pages: 461 - 466
   pdf_url: https://files.diariodarepublica.pt/2s/2020/12/243000000/0046100466.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua aprovação e publicitação, por edital, nos locais de estilo dos Paços do Concelho
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 939 - 952
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/211000000/0093900952.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-11-01'
+entry_into_force:
+  date: '2023-11-01'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República, aplicando-se a todos os processos de creditação
+    que sejam requeridos a partir dessa data
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

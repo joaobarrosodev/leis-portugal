@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3 - 24
   pdf_url: https://files.diariodarepublica.pt/2s/2003/12/278179000/0000300024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-12-17'
+entry_into_force:
+  date: '2003-12-17'
+  rule: 15 dias após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-117
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

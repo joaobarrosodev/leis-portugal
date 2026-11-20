@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6297 - 6302
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/027000000/0629706302.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-02-09'
+entry_into_force:
+  date: '2010-02-09'
+  rule: na data da respectiva publicação no Diário da República e ficará disponível para consulta no sítio da Ordem na internet
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

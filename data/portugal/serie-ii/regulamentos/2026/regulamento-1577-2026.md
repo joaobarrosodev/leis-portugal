@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 214 - 226
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/225000000/0021400226.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-24'
+entry_into_force:
+  date: '2026-11-24'
+  rule: no quinto dia após a sua publicação no Diário da República, sem prejuízo das demais formas de publicidade legalmente
+    exigíveis
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

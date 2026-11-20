@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 553 - 557
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/236000000/0055300557.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-12-12'
+entry_into_force:
+  date: '2023-12-12'
+  rule: no quinto dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

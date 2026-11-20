@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 3753 - 3756
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/021000000/0375303756.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-02-01'
+entry_into_force:
+  date: '2016-02-01'
+  rule: após a sua publicação nos termos legais
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

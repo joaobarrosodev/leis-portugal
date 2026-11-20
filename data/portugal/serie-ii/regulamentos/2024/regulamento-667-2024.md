@@ -23,6 +23,16 @@ publication:
   pages: 482 - 483
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/115000000/0048200483.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pela Assembleia de Freguesia de Algueirão Mem Martins, sem prejuízo da sua publicação
+    no Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

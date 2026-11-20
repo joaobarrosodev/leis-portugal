@@ -23,6 +23,16 @@ publication:
   pages: 553 - 558
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/211000000/0055300558.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no dia útil imediatamente seguinte ao da sua devida publicitação legal por meio de edital afixado nos locais de estilo
+    e plataformas digitais da autarquia, após a sua aprovação final em Assembleia de '
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

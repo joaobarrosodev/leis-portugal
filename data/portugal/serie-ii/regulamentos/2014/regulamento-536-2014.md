@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 30335 - 30336
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/233000000/3033530336.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-12-03'
+entry_into_force:
+  date: '2014-12-03'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:118540965:por#art-19'
+    detail: O presente Regulamento e respetivo Anexo são publicados no Diário da República, 2.ª série, divulgado na página
+      do ISMAI na Internet, e entrando em vigor no dia seguinte ao da sua publicação, substituindo e revogando o [Regulamento
+      n.º 536/2014], de 2 de dezembro.
 notes: []
 language: por
 version:

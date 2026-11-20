@@ -24,8 +24,23 @@ publication:
   pages: 105 - 114
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/186000000/0010500114.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: para as candidaturas ao ano seguinte à sua publicação
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:921436588:por#art-29'
+    detail: 2 - É revogado o [Regulamento n.º 874/2021], de 23 de setembro.
 notes: []
 language: por
 version:

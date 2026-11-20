@@ -23,6 +23,15 @@ publication:
   pages: 503 - 514
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/119000000/0050300514.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à data da sua publicação
+  method: clausula
+  article: art-8-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

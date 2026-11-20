@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30027 - 30028
   pdf_url: https://files.diariodarepublica.pt/2s/2007/10/200000000/3002730028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-11-01'
+entry_into_force:
+  date: '2007-11-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

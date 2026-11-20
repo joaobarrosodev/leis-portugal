@@ -23,6 +23,16 @@ publication:
   pages: 33490 - 33494
   pdf_url: https://files.diariodarepublica.pt/2s/2018/12/240000000/3349033494.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação nos termos legais, e após a devida aprovação pelo Reitor, nos termos do n.º 2 do
+    artigo 44.º dos Estatutos
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

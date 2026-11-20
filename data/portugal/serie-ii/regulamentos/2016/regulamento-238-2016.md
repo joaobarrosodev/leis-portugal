@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 8431 - 8434
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/048000000/0843108434.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-19'
+entry_into_force:
+  date: '2016-03-19'
+  rule: dez dias após a sua publicação através de edital, nos termos e para os efeitos previstos no artigo 56.º do regime
+    jurídico das autarquias locais, aprovado pela Lei n.º 75/2013, de 12 de setembro
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

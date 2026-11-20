@@ -23,6 +23,15 @@ publication:
   pages: 386 - 398
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/164000000/0038600398.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a sua publicação
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 26030 - 26033
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/197000000/2603026033.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-10-13'
+entry_into_force:
+  date: '2014-10-13'
+  rule: com a sua publicação em Despacho do Diretor da Faculdade, após aprovação do Conselho Pedagógico, Conselho Científico
+    e homologação por parte do Diretor da FMUL
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

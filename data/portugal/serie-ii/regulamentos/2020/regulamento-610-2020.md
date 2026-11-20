@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 157 - 160
   pdf_url: https://files.diariodarepublica.pt/2s/2020/07/143000000/0015700160.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-08'
+entry_into_force:
+  date: '2020-08-08'
+  rule: 15 dias após a publicação
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

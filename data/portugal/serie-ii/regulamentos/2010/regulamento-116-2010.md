@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 8027 - 8033
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/037000000/0802708033.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-03-25'
+entry_into_force:
+  date: '2010-03-25'
+  rule: 30 dias após a sua publicação nos termos do artigo 91.º da Lei n.º 169/99, de 18 de Setembro na actual redacção
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

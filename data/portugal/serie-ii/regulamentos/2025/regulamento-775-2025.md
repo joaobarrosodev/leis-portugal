@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 784 - 790
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/124000000/0078400790.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-07-02'
+entry_into_force:
+  date: '2025-07-02'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

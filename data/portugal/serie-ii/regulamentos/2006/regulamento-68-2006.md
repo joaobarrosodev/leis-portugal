@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7856 - 7858
   pdf_url: https://files.diariodarepublica.pt/2s/2006/05/105000000/0785607858.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-05-31'
+entry_into_force:
+  date: '2006-05-31'
+  rule: a partir da data da sua publicação no Diário da República, 2.ª série, devendo ser divulgado no site da ESTGL
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

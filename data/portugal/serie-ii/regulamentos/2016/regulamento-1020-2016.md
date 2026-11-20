@@ -23,6 +23,16 @@ publication:
   pages: 33285 - 33287
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/215000000/3328533287.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no primeiro dia útil seguinte à da sua publicação no Diário Republica, com efeitos retroativos a 6/01/2016, não revogando,
+    porque não se contrariam, as disposições constantes do Artigo 27.º e 28.º do '
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

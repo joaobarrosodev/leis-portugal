@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 331 - 339
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/148000000/0033100339.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-08-17'
+entry_into_force:
+  date: '2021-08-17'
+  rule: quinze dias após a sua publicação nos lugares e meios de estilo, legais e obrigatórios
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

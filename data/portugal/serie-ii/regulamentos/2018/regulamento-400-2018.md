@@ -23,6 +23,15 @@ publication:
   pages: 18399 - 18405
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/125000000/1839918405.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil após a publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

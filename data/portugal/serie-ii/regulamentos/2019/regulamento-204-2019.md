@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7210 - 7220
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/048000000/0721007220.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-03-09'
+entry_into_force:
+  date: '2019-03-09'
+  rule: no dia seguinte à sua publicação, nos termos legais
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: a partir da data da sua entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

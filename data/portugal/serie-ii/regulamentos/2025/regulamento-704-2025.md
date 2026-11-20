@@ -24,6 +24,15 @@ publication:
   pages: 625 - 633
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/105000000/0062500633.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação, em Assembleia de Freguesia
+  method: clausula
+  article: n-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 34070 - 34071
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/219000000/3407034071.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-11-20'
+entry_into_force:
+  date: '2016-11-20'
+  rule: no prazo de 5 dias a contar da data da sua publicação por um dos meios previstos no artigo 56.º do anexo I da lei.º
+    75/2013
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -34,7 +34,17 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado por inteiro pelo Decreto Legislativo Regional n.º 20/2015/A (dadores de sangue nos Açores), em vigor no
+    dia seguinte ao da publicação; o DRE regista a revogação e continua a dá-lo em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:70025058:por'
+    detail: São revogados o Decreto Legislativo Regional n.º 14/89/A, de 10 de agosto, com a alteração introduzida pelo Decreto
+      Legislativo Regional n.º 3/2003/A, de 27 de fevereiro e a Portaria n.º 64/1990, de 26 de dezembro.
 notes: []
 language: por
 version:
@@ -94,6 +104,12 @@ relationships:
     Regional n.º 20/2015/A - Diário da República n.º 159/2015, Série I de 2015-08-17
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2015-70025058
   date: '2015-08-17'
+- type: repealed_by
+  target: pt:dre:70025058:por
+  label: Revogado por inteiro pelo Decreto Legislativo Regional n.º 20/2015/A (dadores de sangue nos Açores), em vigor no
+    dia seguinte ao da publicação; o DRE regista a revogação e continua a dá-lo em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2015-08-18'
 article_structure:
   article_count: 0
   section_count: 5

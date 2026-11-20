@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 157 - 163
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/113000000/0015700163.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-01'
+entry_into_force:
+  date: '2021-07-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:901659207:por#art-30'
+    detail: É revogado o [Regulamento n.º 542/2021], de 14 de junho.
 notes: []
 language: por
 version:

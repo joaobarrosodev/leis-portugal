@@ -24,7 +24,19 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2020/03/048000000/0010700110.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:158637239:por#art-13'
+    detail: É revogado o [Regulamento n.º 208/2020], de 9 de março.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1127995109:por#art-13'
+    detail: É revogado o [Regulamento n.º 208/2020], de 9 de março.
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:158637239:por'
+    detail: Revogado pelo(a) Regulamento n.º 177/2021 - Diário da República n.º 42/2021, Série II de 2021-03-02
 notes: []
 language: por
 version:

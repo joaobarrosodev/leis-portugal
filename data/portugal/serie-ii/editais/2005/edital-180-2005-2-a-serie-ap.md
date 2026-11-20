@@ -23,6 +23,15 @@ publication:
   pages: 84 - 89
   pdf_url: https://files.diariodarepublica.pt/2s/2005/03/056038000/0008400089.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil do mês seguinte ao da sua aprovação
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

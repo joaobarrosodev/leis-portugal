@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 62 - 69
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/001000000/0006200069.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-07'
+entry_into_force:
+  date: '2017-01-07'
+  rule: no prazo de 5 dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

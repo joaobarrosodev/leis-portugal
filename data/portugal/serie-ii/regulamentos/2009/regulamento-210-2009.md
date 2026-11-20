@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 20575 - 20608
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/098000000/2057520608.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-06-05'
+entry_into_force:
+  date: '2009-06-05'
+  rule: 15 dias após a data da sua publicação no Diário da República, ficando automaticamente revogada a estrutura e organização
+    dos Serviços Municipais publicada no apêndice n.º 15 ao Diário da República - 2
+  method: clausula
+  article: art-208
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,6 +25,16 @@ publication:
   pages: 37252 - 37255
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/244000000/3725237255.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação no Diário da República, sem prejuízo de essa publicação poder ocorrer também no
+    sítio da internet e na publicação oficial da JFAN ou noutros meios considerados adequ
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

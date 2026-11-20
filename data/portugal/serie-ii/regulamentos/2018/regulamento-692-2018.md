@@ -23,6 +23,16 @@ publication:
   pages: 28114 - 28116
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/201000000/2811428116.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a aprovação pela Câmara Municipal e Assembleia Municipal de Santa Cruz das Flores, no dia imediato à sua publicação
+    no site oficial da Câmara Municipal
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

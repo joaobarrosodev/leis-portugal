@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 324 - 339
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/217000000/0032400339.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-10'
+entry_into_force:
+  date: '2026-11-10'
+  rule: no dia seguinte à sua publicação no Diário da República, aplicando-se aos ciclos de estudos que iniciem o seu funcionamento
+    no ano letivo subsequente à referida publicação
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

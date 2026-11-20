@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 28688 - 28694
   pdf_url: https://files.diariodarepublica.pt/2s/2017/12/242000000/2868828694.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-12-20'
+entry_into_force:
+  date: '2017-12-20'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

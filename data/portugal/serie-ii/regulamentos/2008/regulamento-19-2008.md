@@ -24,7 +24,18 @@ publication:
   supplement: null
   pages: 1535 - 1538
   pdf_url: https://files.diariodarepublica.pt/2s/2008/01/008000000/0153501538.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-12'
+entry_into_force:
+  date: '2008-01-12'
+  rule: no dia imediato ao da sua publicação, com excepção do artigo anterior e do disposto nos artigos 13.º-A a 13.º-C da
+    norma regulamentar n.º 17/2006-R, de 29 de Dezembro, agora aditados, que
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

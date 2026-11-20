@@ -23,6 +23,15 @@ publication:
   pages: 553 - 613
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/073000000/0055300613.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação na 2.ª série do Diário da República
+  method: clausula
+  article: art-77
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

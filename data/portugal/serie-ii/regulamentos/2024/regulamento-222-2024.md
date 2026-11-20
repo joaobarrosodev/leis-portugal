@@ -23,6 +23,16 @@ publication:
   pages: 575 - 580
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/036000000/0057500580.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias após a sua publicitação, depois de aprovados pelos órgãos competentes desta Junta de Freguesia de São Brás
+    de Alportel
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

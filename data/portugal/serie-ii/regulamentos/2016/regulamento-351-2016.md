@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 11180 - 11184
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/065000000/1118011184.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-04-05'
+entry_into_force:
+  date: '2016-04-05'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:108131990:por#art-35'
+    detail: 1 - O presente Regulamento revoga o [Regulamento n.º 351/2016], publicado na 2.ª série do Diário da República
+      em 4 de abril.
 notes: []
 language: por
 version:

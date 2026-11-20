@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 3391 - 3407
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/011000000/0339103407.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-01-18'
+entry_into_force:
+  date: '2011-01-18'
+  rule: no dia a seguir ao da sua publicação no Diário da República
+  method: clausula
+  article: art-106
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

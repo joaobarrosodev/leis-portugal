@@ -23,6 +23,15 @@ publication:
   pages: 4 - 14
   pdf_url: https://files.diariodarepublica.pt/2s/2003/07/175115000/0000400014.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após aprovação pela Assembleia Municipal, mediante a fixação de editais nos lugares públicos de estilo
+  method: clausula
+  article: art-82
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

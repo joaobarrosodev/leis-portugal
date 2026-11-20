@@ -23,6 +23,15 @@ publication:
   pages: 32776 - 32789
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/251000000/3277632789.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após 15 dias a seguir à sua publicação na II Serie do Diário da República
+  method: clausula
+  article: art-105
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 880 - 888
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/157000000/0088000888.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-08-29'
+entry_into_force:
+  date: '2024-08-29'
+  rule: 15 dias após sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

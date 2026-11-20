@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 24660 - 24663
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/149000000/2466024663.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-09-01'
+entry_into_force:
+  date: '2013-09-01'
+  rule: no 1.º dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

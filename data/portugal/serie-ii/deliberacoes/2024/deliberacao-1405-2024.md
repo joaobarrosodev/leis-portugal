@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 153 - 158
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/208000000/0015300158.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-26'
+entry_into_force:
+  date: '2024-10-26'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-13
+  effects_date: '2024-04-02'
+  effects_rule: a 2 de abril de 2024, sendo que em relação às matérias das alíneas 1.13, 9.10 e 10.10
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

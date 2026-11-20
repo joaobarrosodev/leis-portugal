@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 771 - 794
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/102000000/0077100794.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-25'
+entry_into_force:
+  date: '2022-06-25'
+  rule: trinta dias após a sua publicação no Diário da República e no sítio institucional da Junta de Freguesia de Alvarães
+  method: clausula
+  article: art-76
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 703 - 717
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/107000000/0070300717.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-06-03'
+entry_into_force:
+  date: '2026-06-03'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 439 - 447
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/092000000/0043900447.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-13'
+entry_into_force:
+  date: '2022-05-13'
+  rule: no dia imediato ao da sua publicação em edital, a afixar no edifício da sede da JFM, após aprovação pela Assembleia
+    de Freguesia
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

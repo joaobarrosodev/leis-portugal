@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 467 - 478
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/224000000/0046700478.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-11-19'
+entry_into_force:
+  date: '2026-11-19'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sem prejuízo da respetiva publicitação nos termos legalmente
+    aplicáveis
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

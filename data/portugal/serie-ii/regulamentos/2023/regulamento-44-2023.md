@@ -23,6 +23,15 @@ publication:
   pages: 401 - 405
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/011000000/0040100405.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: '2022-01-01'
+  effects_rule: a 1 de janeiro de 2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

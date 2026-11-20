@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 55 - 60
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/084000002/0005500060.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-01'
+entry_into_force:
+  date: '2026-05-01'
+  rule: no dia seguinte ao da sua publicação, ficando automaticamente alterada a estrutura e organização dos Serviços Municipais,
+    publicadas no Diário da República, suplemento da 2.ª série, n.º 31, de 13 de f
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

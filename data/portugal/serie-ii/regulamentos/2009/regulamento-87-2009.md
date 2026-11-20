@@ -23,6 +23,16 @@ publication:
   pages: 6852 - 6863
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/034000000/0685206863.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na sua totalidade na primeira 2.ª feira, 3 meses após a publicação dos anexos referidos no número anterior no sítio
+    do ICP - ANACOM, devendo as empresas com obrigações de portabilidade ter as suas red
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

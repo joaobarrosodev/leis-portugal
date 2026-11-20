@@ -23,6 +23,15 @@ publication:
   pages: 40 - 48
   pdf_url: https://files.diariodarepublica.pt/2s/2001/07/158084000/0004000048.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação e homologação pela Assembleia Municipal da Maia
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 156 - 161
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/162000000/0015600161.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-08-21'
+entry_into_force:
+  date: '2020-08-21'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República, sem prejuízo da necessária harmonização com os
+    calendários escolares das unidades orgânicas para o ano letivo 2020/2021
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

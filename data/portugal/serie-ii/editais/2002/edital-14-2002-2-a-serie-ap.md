@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 75 - 77
   pdf_url: https://files.diariodarepublica.pt/2s/2002/01/009004000/0007500077.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-01-26'
+entry_into_force:
+  date: '2002-01-26'
+  rule: 15 dias após a sua publicação no Diário da República, nos termos da Lei das Finanças Locais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

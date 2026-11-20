@@ -23,6 +23,15 @@ publication:
   pages: 424 - 429
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/191000000/0042400429.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da respetiva aprovação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

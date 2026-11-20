@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 120 - 123
   pdf_url: https://files.diariodarepublica.pt/2s/2006/02/024011000/0012000123.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-03-04'
+entry_into_force:
+  date: '2006-03-04'
+  rule: 30 dias após a sua publicação no Diário da República e revoga o regulamento actualmente em vigor
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

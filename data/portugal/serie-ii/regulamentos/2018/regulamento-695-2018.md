@@ -23,6 +23,16 @@ publication:
   pages: 28122 - 28125
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/201000000/2812228125.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação nos termos legais, nomeadamente no Diário da República, e em Boletim Municipal
+    e na página oficial da Internet do Município de Vila do Porto
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

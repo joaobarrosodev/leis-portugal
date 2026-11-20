@@ -23,6 +23,15 @@ publication:
   pages: 377 - 387
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/161000000/0037700387.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação em Assembleia de Freguesia e no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

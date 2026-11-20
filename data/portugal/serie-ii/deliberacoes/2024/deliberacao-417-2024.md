@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 233 - 233
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/063000000/0023300233.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-03-29'
+entry_into_force:
+  date: '2024-03-29'
+  rule: no dia seguinte ao da sua publicação e
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: quanto ao disposto no n.º 1, a 16 de agosto de 2023 e quanto ao disposto no n.º 2, a partir de 05 de janeiro
+    de 2023
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 853 - 856
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/006000000/0085300856.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-09'
+entry_into_force:
+  date: '2017-01-09'
+  rule: na data da respetiva publicação no Diário da República e ficará disponível para consulta no sítio da Ordem na internet
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

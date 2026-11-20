@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17768 - 17771
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/077000000/1776817771.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-05-01'
+entry_into_force:
+  date: '2011-05-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

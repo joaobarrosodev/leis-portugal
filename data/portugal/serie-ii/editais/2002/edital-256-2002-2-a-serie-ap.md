@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 27 - 32
   pdf_url: https://files.diariodarepublica.pt/2s/2002/06/130073000/0002700032.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-06-26'
+entry_into_force:
+  date: '2002-06-26'
+  rule: 20 dias após a publicação do respectivo edital
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

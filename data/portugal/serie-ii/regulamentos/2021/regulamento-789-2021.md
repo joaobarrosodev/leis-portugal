@@ -23,6 +23,15 @@ publication:
   pages: 124 - 127
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/164000000/0012400127.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da aprovação da sua atualização em reunião do Conselho Técnico-Científico do ISCE Douro
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

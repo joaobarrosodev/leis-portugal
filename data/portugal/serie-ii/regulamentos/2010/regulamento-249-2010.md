@@ -23,6 +23,15 @@ publication:
   pages: 12183 - 12189
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/051000000/1218312189.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 5 dias úteis após a respectiva publicação
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

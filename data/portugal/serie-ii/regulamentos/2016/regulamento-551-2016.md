@@ -23,6 +23,15 @@ publication:
   pages: 17682 - 17685
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/107000000/1768217685.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil imediatamente a seguir à sua aprovação no Diário da República
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

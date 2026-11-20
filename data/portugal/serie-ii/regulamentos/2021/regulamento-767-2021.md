@@ -23,6 +23,15 @@ publication:
   pages: 148 - 151
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/159000000/0014800151.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2021/2022
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

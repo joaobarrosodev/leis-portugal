@@ -23,6 +23,15 @@ publication:
   pages: 17168 - 17171
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/073000000/1716817171.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias após a sua aprovação pela Assembleia Municipal de Sabrosa
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

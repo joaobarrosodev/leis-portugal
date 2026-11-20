@@ -23,6 +23,15 @@ publication:
   pages: 20961 - 20968
   pdf_url: https://files.diariodarepublica.pt/2s/2007/07/141000000/2096120968.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias a contar da data da sua publicitação
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

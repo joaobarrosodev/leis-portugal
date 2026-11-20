@@ -23,6 +23,15 @@ publication:
   pages: 418 - 444
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/136000000/0041800444.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias, após a sua publicitação, nos termos legais
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

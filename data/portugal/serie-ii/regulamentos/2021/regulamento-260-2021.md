@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 683 - 688
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/054000000/0068300688.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-23'
+entry_into_force:
+  date: '2021-03-23'
+  rule: cinco dias após a publicação do aviso da sua aprovação final, pela Assembleia Municipal de Porto de Mós, sob proposta
+    da Câmara Municipal, na 2.ª série do Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

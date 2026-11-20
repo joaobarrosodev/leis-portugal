@@ -23,6 +23,15 @@ publication:
   pages: 12160 - 12171
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/051000000/1216012171.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 30 dias úteis após esta publicação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

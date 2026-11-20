@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/137000000/0030500314.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:939940996:por#texto'
+    detail: O presente Regulamento revoga o [Regulamento n.º 878/2025], publicado no Diário da República, 2.ª série, n.º 137
+      de 18 de julho de 2025.
 notes: []
 language: por
 version:

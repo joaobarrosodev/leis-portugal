@@ -24,6 +24,15 @@ publication:
   pages: 442 - 443
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/151000000/0044200443.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pela Assembleia de Freguesia de Vialonga
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

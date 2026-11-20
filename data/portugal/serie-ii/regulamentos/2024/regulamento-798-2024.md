@@ -23,6 +23,16 @@ publication:
   pages: 678 - 695
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/142000000/0067800695.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia, do mês seguinte à sua publicação no Diário da República e revoga o anterior Regulamento de Tabela
+    Geral de Taxas e Licenças da Freguesia
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

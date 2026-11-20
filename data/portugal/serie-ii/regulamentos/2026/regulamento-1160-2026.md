@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 164 - 194
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/176000000/0016400194.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-10'
+entry_into_force:
+  date: '2026-10-10'
+  rule: no prazo de 30 dias a contar da sua publicação, sem prejuízo do regime transitório previsto no Artigo 58.º
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

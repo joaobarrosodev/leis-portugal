@@ -23,6 +23,15 @@ publication:
   pages: 24556 - 24602
   pdf_url: https://files.diariodarepublica.pt/2s/2014/09/184000000/2455624602.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

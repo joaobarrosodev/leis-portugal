@@ -23,6 +23,15 @@ publication:
   pages: 60 - 62
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/187124000/0006000062.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: uma semana depois de ser publicado no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 933 - 937
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/103000000/0093300937.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-06-01'
+entry_into_force:
+  date: '2026-06-01'
+  rule: a 01 de junho de 2026, sendo publicado em edital, a afixar no edifício da sede da União de Freguesias de Montijo e
+    Afonsoeiro, após aprovação pela Assembleia de Freguesia e publicação no Diário da Rep
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

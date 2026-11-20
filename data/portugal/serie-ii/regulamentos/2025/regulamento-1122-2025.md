@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 233 - 246
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/191000000/0023300246.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-01'
+entry_into_force:
+  date: '2025-10-01'
+  rule: 'no dia 01 de outubro de 2025 revogando, assim, o Regulamento de Exploração e de Utilização das Docas de Recreio do
+    Porto de Lisboa, aprovado em 09 de setembro de 2021, e publicado na Ordem de Serviço '
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

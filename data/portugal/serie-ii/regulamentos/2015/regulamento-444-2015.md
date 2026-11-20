@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 19739 - 19741
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/141000000/1973919741.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-07-27'
+entry_into_force:
+  date: '2015-07-27'
+  rule: no quinto dia após a sua publicação, nos termos do disposto no artigo 140.º do Código do Procedimento Administrativo,
+    aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

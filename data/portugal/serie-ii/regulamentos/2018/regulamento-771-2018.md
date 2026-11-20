@@ -23,6 +23,15 @@ publication:
   pages: 30505 - 30507
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/219000000/3050530507.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

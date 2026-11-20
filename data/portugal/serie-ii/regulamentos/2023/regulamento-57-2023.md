@@ -23,6 +23,16 @@ publication:
   pages: 305 - 308
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/012000000/0030500308.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo órgão executivo e pela Assembleia de Freguesia, e será reavaliado após dois anos da sua
+    vigência
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

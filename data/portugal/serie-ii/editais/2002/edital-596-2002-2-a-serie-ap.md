@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 84 - 86
   pdf_url: https://files.diariodarepublica.pt/2s/2002/12/287161000/0008400086.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-12-27'
+entry_into_force:
+  date: '2002-12-27'
+  rule: 15 dias após a publicação no Diário da República, pela afixação dos competentes editais ou por quaisquer meios adequados
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

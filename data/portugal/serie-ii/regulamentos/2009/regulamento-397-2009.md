@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 40656 - 40658
   pdf_url: https://files.diariodarepublica.pt/2s/2009/10/194000000/4065640658.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-10-22'
+entry_into_force:
+  date: '2009-10-22'
+  rule: quinze dias após a sua publicação no Diário da República e caducará, automaticamente, após a entrada em vigor do Plano
+    de Salvaguarda e Valorização do Núcleo Antigo de Sines
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

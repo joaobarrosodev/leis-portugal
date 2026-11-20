@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 411 - 434
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/163000000/0041100434.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-08-24'
+entry_into_force:
+  date: '2023-08-24'
+  rule: no dia seguinte à data da sua publicação em Diário da Républica
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:865034215:por#art-4'
+    detail: É revogado o [Regulamento n.º 943/2023], publicado no Diário da República, 2.ª série - N.º 163, de 23 de agosto.
 notes: []
 language: por
 version:

@@ -24,6 +24,15 @@ publication:
   pages: 16601 - 16602
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/101000000/1660116602.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

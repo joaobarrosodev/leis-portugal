@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 15269 - 15348
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/111000000/1526915348.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-06-14'
+entry_into_force:
+  date: '2015-06-14'
+  rule: no prazo de cinco dias a contar da data da sua publicação no Diário da República, devendo, ainda, tal publicação ser
+    efetuada na página eletrónica do Município de Penalva do Castelo
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

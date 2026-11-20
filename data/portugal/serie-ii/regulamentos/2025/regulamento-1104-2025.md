@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 388 - 407
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/187000000/0038800407.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-29'
+entry_into_force:
+  date: '2025-10-29'
+  rule: trinta dias após publicação no Diário da República, sem prejuízo da sua afixação, nos lugares públicos do costume,
+    dos Editais que publiquem a sua aprovação pela Assembleia Municipal, mediante propost
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

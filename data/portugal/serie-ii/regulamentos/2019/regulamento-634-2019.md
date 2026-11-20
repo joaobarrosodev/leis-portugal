@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 109 - 114
   pdf_url: https://files.diariodarepublica.pt/2s/2019/08/154000000/0010900114.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-08-13'
+entry_into_force:
+  date: '2019-08-13'
+  rule: após a sua publicação no Diário da República, aplicando-se a partir do ano letivo 2019-2020
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

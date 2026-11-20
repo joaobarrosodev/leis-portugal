@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 844 - 847
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/064000000/0084400847.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-01'
+entry_into_force:
+  date: '2022-04-01'
+  rule: no dia seguinte à sua publicação no Diário da República, devendo ser afixado por Edital e estar disponível no sítio
+    da Freguesia de Meirinhas na internet
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

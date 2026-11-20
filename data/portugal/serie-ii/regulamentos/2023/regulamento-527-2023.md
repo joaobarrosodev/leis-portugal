@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 491 - 497
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/093000000/0049100497.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-05-16'
+entry_into_force:
+  date: '2023-05-16'
+  rule: no dia seguinte ao da sua publicação no Diário da República e no sítio institucional da Câmara Municipal de Vila Franca
+    de Xira
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

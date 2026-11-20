@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 10462 - 10465
   pdf_url: https://files.diariodarepublica.pt/2s/2013/03/059000000/1046210465.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-03-26'
+entry_into_force:
+  date: '2013-03-26'
+  rule: no dia imediato ao da sua publicação através de edital afixado nos lugares de estilo, nos termos e para os efeitos
+    do disposto no artigo 91.º da Lei n.º 169/99, de 18 de setembro, alterada e republica
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

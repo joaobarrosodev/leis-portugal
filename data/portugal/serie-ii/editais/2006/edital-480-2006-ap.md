@@ -23,6 +23,15 @@ publication:
   pages: 43 - 48
   pdf_url: https://files.diariodarepublica.pt/2s/2006/12/242087000/0004300048.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 2007, após aprovação dos órgãos competentes e decurso dos respectivos prazos legais
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

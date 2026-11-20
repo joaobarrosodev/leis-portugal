@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31296 - 31304
   pdf_url: https://files.diariodarepublica.pt/2s/2018/11/226000000/3129631304.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-12-08'
+entry_into_force:
+  date: '2018-12-08'
+  rule: quinze dias após a sua publicação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

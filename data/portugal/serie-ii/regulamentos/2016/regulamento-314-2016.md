@@ -23,6 +23,15 @@ publication:
   pages: 10257 - 10260
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/059000000/1025710260.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 10 (dez) dias úteis após publicação
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

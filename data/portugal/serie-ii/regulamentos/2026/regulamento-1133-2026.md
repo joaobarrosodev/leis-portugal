@@ -23,6 +23,16 @@ publication:
   pages: 632 - 638
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/161000000/0063200638.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato à sua aprovação pela Assembleia de Freguesia, revogando-se, desta forma, toda a regulamentação anterior
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: na data da sua assinatura e mantém-se em vigor até à conclusão da finalidade para a qual o apoio foi concedido,
+    sem prejuízo das obrigações que, pela sua natureza, devam subsistir
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

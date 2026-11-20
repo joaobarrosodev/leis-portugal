@@ -23,6 +23,15 @@ publication:
   pages: 31850 - 31851
   pdf_url: https://files.diariodarepublica.pt/2s/2007/11/211000000/3185031851.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Câmara Municipal e pela assembleia municipal de Óbidos e depois de publicado no Diário da República
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

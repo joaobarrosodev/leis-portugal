@@ -24,6 +24,15 @@ publication:
   pages: 21302 - 21304
   pdf_url: https://files.diariodarepublica.pt/2s/2017/09/185000000/2130221304.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil imediatamente seguinte à data da sua publicação
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

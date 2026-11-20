@@ -23,6 +23,15 @@ publication:
   pages: 32745 - 32746
   pdf_url: https://files.diariodarepublica.pt/2s/2014/12/251000000/3274532746.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil posterior ao da sua publicação
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

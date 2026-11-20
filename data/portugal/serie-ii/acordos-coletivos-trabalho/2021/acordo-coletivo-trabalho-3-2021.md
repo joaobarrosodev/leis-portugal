@@ -25,7 +25,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/017000000/0039900406.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: relacao_dre
+  evidence:
+  - status: repealed
+    provenance: 'DRE repealed_by: pt:dre:213968589:por'
+    detail: Revogado pelo Acordo Colectivo de Trabalho n.º 8/2023
 notes: []
 language: por
 version:

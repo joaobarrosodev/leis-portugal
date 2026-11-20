@@ -23,9 +23,27 @@ publication:
   supplement: null
   pages: 286 - 290
   pdf_url: https://files.diariodarepublica.pt/2s/2021/03/054000000/0028600290.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-03-19'
+entry_into_force:
+  date: '2021-03-19'
+  rule: no dia seguinte ao da sua publicação no Diário da República e revoga o regulamento n.º 164/2017, de 04 de abril, publicado
+    no Diário da República, 2.ª série, n.º 67
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:211400094:por#art-12'
+    detail: Este regulamento entra em vigor no dia seguinte à sua publicação no Diário da República e revoga o [Regulamento
+      n.º 251/2021], publicado no Diário da República, 2.ª série, n.º 54 de 18 de março.
 notes: []
 language: por
 version:

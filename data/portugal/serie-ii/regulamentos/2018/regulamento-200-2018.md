@@ -23,6 +23,15 @@ publication:
   pages: 9487 - 9491
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/065000000/0948709491.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias úteis após a data da sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

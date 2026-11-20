@@ -23,6 +23,15 @@ publication:
   pages: 12159 - 12174
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/051000000/1215912174.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à sua publicitação no Diário da República
+  method: clausula
+  article: art-98
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

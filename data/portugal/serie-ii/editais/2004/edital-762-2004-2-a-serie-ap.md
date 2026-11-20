@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 86 - 89
   pdf_url: https://files.diariodarepublica.pt/2s/2004/11/272138000/0008600089.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-12-19'
+entry_into_force:
+  date: '2004-12-19'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 68 - 79
   pdf_url: https://files.diariodarepublica.pt/2s/2000/08/190120000/0006800079.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-09-17'
+entry_into_force:
+  date: '2000-09-17'
+  rule: 30 dias após a sua publicação em edital
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

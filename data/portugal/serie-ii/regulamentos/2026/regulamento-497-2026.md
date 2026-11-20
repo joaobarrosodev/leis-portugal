@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 451 - 453
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/089000000/0045100453.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-09'
+entry_into_force:
+  date: '2026-05-09'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-11
+  effects_date: '2026-05-08'
+  effects_rule: após a sua publicação no Diário da República
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 406 - 410
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/077000000/0040600410.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-04-22'
+entry_into_force:
+  date: '2026-04-22'
+  rule: no dia seguinte ao da sua publicação no Diário da República, e revoga o Regulamento n.º 497/2016, de 20 de maio
+  method: clausula
+  article: art-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

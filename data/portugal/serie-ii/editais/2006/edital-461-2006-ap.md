@@ -23,6 +23,16 @@ publication:
   pages: 53 - 55
   pdf_url: https://files.diariodarepublica.pt/2s/2006/11/219081000/0005300055.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'no dia seguinte ao termo do prazo de 30 dias úteis após a respectiva publicação na 2.ª série do Diário da República,
+    para efeitos de apreciação pública, conforme disposto no artigo 118.º do Código do '
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

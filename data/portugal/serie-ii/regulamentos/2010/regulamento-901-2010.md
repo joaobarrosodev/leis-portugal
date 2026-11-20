@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 62852 - 62858
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/250000000/6285262858.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-29'
+entry_into_force:
+  date: '2010-12-29'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

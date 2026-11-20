@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20 - 22
   pdf_url: https://files.diariodarepublica.pt/2s/2003/10/239153000/0002000022.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-10-30'
+entry_into_force:
+  date: '2003-10-30'
+  rule: no prazo de 15 dias a contar da sua publicação no Diário da República, com efeitos reportados a 1 de Agosto de 2003
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

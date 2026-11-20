@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7164 - 7165
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/048000000/0716407165.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-03-09'
+entry_into_force:
+  date: '2018-03-09'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

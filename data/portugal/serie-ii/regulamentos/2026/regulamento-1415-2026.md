@@ -23,6 +23,16 @@ publication:
   pages: 664 - 668
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/204000000/0066400668.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação no Diário da República, sem prejuízo da Freguesia de Vide e Cabeça
+    poder vir a propor à Assembleia de Freguesia a suspensão da sua vigência, caso se alte
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 30752 - 30754
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/198000000/3075230754.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-24'
+entry_into_force:
+  date: '2016-10-24'
+  rule: 10 dias após a sua publicação no Diário da República, a aplicar aos apoios às associações a atribuir pela Freguesa
+    de Pedrógão Grande para o ano de 2017
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 4687 - 4694
   pdf_url: https://files.diariodarepublica.pt/2s/2019/02/025000000/0468704694.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação e publicação
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

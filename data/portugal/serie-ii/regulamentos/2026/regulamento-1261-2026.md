@@ -23,6 +23,15 @@ publication:
   pages: 549 - 567
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/195000000/0054900567.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia Municipal e publicação na 2.ª série do Diário da República e no sítio do Município
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 21153 - 21154
   pdf_url: https://files.diariodarepublica.pt/2s/2014/08/156000000/2115321154.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2014/2015
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

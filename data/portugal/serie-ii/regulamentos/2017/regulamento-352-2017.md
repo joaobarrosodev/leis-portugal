@@ -24,6 +24,16 @@ publication:
   pages: 13689 - 13692
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/126000000/1368913692.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação em sessão do Conselho Técnico-Científico do ISAG de 27 de abril de 2017, sem prejuízo
+    da sua publicação na 2.ª série do Diário da República e divulgação através do síti
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -26,6 +26,15 @@ publication:
   pages: 4302 - 4312
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/014000000/0430204312.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 (quinze) dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

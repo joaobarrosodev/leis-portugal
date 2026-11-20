@@ -24,6 +24,16 @@ publication:
   pages: 336 - 359
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/111000000/0033600359.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a aprovação pela Assembleia Municipal, no 1.º dia útil do mês seguinte ao da publicação no Diário da República,
+    sem prejuízo de igual divulgação no sítio institucional da Câmara Municipal de Albe
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

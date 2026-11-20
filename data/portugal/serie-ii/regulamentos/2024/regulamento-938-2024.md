@@ -23,6 +23,16 @@ publication:
   pages: 313 - 315
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/161000000/0031300315.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'após aprovação em reunião da Direção Nacional da Ordem dos Farmacêuticos e publicação na 2.ª série do Diário da República
+    e em meio de comunicação oficial da Ordem dos Farmacêuticos para conhecimento '
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

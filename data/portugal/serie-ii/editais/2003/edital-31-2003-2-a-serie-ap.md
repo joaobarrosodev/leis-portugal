@@ -23,6 +23,15 @@ publication:
   pages: 43 - 44
   pdf_url: https://files.diariodarepublica.pt/2s/2003/01/013008000/0004300044.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a sua publicação, nos termos da lei
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

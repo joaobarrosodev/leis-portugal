@@ -23,6 +23,15 @@ publication:
   pages: 16 - 27
   pdf_url: https://files.diariodarepublica.pt/2s/2006/06/107051000/0001600027.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia após a sua publicitação
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

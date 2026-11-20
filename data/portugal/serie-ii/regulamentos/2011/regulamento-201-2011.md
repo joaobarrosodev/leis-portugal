@@ -23,6 +23,15 @@ publication:
   pages: 12942 - 12945
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/054000000/1294212945.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação no "Diário da República"
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 11325 - 11328
   pdf_url: https://files.diariodarepublica.pt/2s/2013/04/067000000/1132511328.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-04-01'
+entry_into_force:
+  date: '2013-04-01'
+  rule: no dia 1 de abril de 2013
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

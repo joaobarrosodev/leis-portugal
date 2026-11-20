@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 43039 - 43040
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/209000000/4303943040.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-11-01'
+entry_into_force:
+  date: '2011-11-01'
+  rule: no dia seguinte à sua publicação nos termos legais
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

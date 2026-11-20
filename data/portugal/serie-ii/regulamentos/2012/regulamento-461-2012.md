@@ -23,6 +23,15 @@ publication:
   pages: 36704 - 36705
   pdf_url: https://files.diariodarepublica.pt/2s/2012/11/216000000/3670436705.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia Municipal, no dia útil imediato da sua publicação no Diário da República
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

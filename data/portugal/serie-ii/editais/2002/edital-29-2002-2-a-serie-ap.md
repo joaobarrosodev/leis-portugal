@@ -23,6 +23,16 @@ publication:
   pages: 92 - 100
   pdf_url: https://files.diariodarepublica.pt/2s/2002/01/024007000/0009200100.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a aprovação pela Assembleia Municipal e sua afixação em edital, e por ele são regidos todos os serviços,
+    incluindo aqueles que se encontrarem em vigor
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

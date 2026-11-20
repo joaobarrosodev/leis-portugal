@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 216 - 267
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/199000000/0021600267.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-13'
+entry_into_force:
+  date: '2022-11-13'
+  rule: 30 dias após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-71
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

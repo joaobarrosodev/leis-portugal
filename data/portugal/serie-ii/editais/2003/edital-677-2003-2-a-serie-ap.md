@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 101 - 104
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/198131000/0010100104.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-27'
+entry_into_force:
+  date: '2003-09-27'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

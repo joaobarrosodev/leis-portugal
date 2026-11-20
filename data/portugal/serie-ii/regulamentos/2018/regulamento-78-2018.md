@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 3682 - 3788
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/022000000/0368203788.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-02-15'
+entry_into_force:
+  date: '2018-02-15'
+  rule: no prazo de quinze dias após a sua publicação no Diário da República, sem prejuízo das demais formas de publicação
+    e publicitação previstas na lei
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

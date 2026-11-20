@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11 - 15
   pdf_url: https://files.diariodarepublica.pt/2s/2001/08/185096000/0001100015.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-08-30'
+entry_into_force:
+  date: '2001-08-30'
+  rule: no 20.º dia após a sua publicação
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

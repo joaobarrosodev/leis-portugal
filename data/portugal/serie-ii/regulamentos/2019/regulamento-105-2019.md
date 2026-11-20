@@ -23,6 +23,15 @@ publication:
   pages: 3721 - 3722
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/018000000/0372103722.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de publicado no Diário da República
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

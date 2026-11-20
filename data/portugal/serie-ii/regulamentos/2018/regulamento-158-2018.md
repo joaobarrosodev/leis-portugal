@@ -23,6 +23,16 @@ publication:
   pages: 7717 - 7719
   pdf_url: https://files.diariodarepublica.pt/2s/2018/03/052000000/0771707719.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de cinco dias úteis, a contar da sua publicação no Diário da República e aplica-se ao ano letivo em curso,
+    para efeitos do disposto na alínea b) do n.º 1 do artigo 6.º
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

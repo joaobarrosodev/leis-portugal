@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6876 - 6890
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/040000000/0687606890.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-12'
+entry_into_force:
+  date: '2016-03-12'
+  rule: 15 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-83
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

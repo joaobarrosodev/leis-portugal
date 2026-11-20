@@ -24,6 +24,15 @@ publication:
   pages: 237 - 246
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/170000000/0023700246.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2021/2022
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

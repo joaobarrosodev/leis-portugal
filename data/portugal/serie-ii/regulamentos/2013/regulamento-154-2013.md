@@ -23,6 +23,15 @@ publication:
   pages: 14438 - 14440
   pdf_url: https://files.diariodarepublica.pt/2s/2013/05/087000000/1443814440.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 11 dias após a sua publicitação nos termos legais
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 76 - 80
   pdf_url: https://files.diariodarepublica.pt/2s/2005/09/178126000/0007600080.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-09-30'
+entry_into_force:
+  date: '2005-09-30'
+  rule: 15 dias após a sua publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

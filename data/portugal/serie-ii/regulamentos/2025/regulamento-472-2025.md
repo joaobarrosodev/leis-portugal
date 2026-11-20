@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 509 - 513
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/069000000/0050900513.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-04-09'
+entry_into_force:
+  date: '2025-04-09'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 382 - 401
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/092000000/0038200401.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-13'
+entry_into_force:
+  date: '2021-05-13'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:853404441:por#texto'
+    detail: O presente regulamento entra em vigor no ano letivo de 2023/2024, revogando o [Regulamento n.º 409/2021], de 12
+      de maio.
 notes: []
 language: por
 version:

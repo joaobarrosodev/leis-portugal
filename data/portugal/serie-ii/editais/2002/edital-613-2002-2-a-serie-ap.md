@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 85 - 96
   pdf_url: https://files.diariodarepublica.pt/2s/2002/12/294165000/0008500096.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-01-19'
+entry_into_force:
+  date: '2003-01-19'
+  rule: 30 dias após a sua publicação, sem prejuízo do regime transitório previsto no artigo 44.º
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 6356 - 6386
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/051000000/0635606386.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-03-28'
+entry_into_force:
+  date: '2015-03-28'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-189
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

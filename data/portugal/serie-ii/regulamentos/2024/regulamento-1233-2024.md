@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 294 - 320
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/208000000/0029400320.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-09'
+entry_into_force:
+  date: '2024-11-09'
+  rule: quinze dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 24952 - 24954
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/166000000/2495224954.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-08-30'
+entry_into_force:
+  date: '2007-08-30'
+  rule: no dia seguinte ao da respectiva publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

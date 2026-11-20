@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 86 - 94
   pdf_url: https://files.diariodarepublica.pt/2s/2003/11/254161000/0008600094.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-11-23'
+entry_into_force:
+  date: '2003-11-23'
+  rule: 20 dias após a sua publicação
+  method: clausula
+  article: art-75
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

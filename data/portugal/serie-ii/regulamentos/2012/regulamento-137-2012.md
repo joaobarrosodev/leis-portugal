@@ -23,6 +23,15 @@ publication:
   pages: 12571 - 12572
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/069000000/1257112572.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à data da sua publicação no Diário da República, e com efeitos retroativos a 1 janeiro de 2012
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

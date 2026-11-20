@@ -23,6 +23,15 @@ publication:
   pages: 410-(21) a 410-(39)
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/210000001/0002100039.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à da sua publicação no Diário da República
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

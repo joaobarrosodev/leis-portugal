@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 34557 - 34559
   pdf_url: https://files.diariodarepublica.pt/2s/2012/10/201000000/3455734559.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-11-01'
+entry_into_force:
+  date: '2012-11-01'
+  rule: 15 dias após a sua publicação no Diário da República, ficando revogado o anterior regulamento
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

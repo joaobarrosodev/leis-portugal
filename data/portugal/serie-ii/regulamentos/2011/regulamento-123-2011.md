@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/035000000/0865308655.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:115685379:por#art-5'
+    detail: Com a publicação deste documento é revogado o [Regulamento n.º 123/2011], aprovados pela Assembleia Geral da Ordem
+      dos Enfermeiros e publicado na 2.ª série do Diário da República, n.º 35, de 18 de fevereiro.
 notes: []
 language: por
 version:

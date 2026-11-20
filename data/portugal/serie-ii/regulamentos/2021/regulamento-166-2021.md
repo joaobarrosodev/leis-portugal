@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 324 - 332
   pdf_url: https://files.diariodarepublica.pt/2s/2021/02/039000000/0032400332.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-26'
+entry_into_force:
+  date: '2021-02-26'
+  rule: no dia imediato à sua publicação nos termos legais, ficando revogadas todas as disposições regulamentares que com
+    ele estejam em contradição
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

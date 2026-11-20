@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 11714 - 11715
   pdf_url: https://files.diariodarepublica.pt/2s/2017/06/110000000/1171411715.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-06-08'
+entry_into_force:
+  date: '2017-06-08'
+  rule: no dia imediato à sua publicação nos termos da lei
+  method: clausula
+  article: art-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 39703 - 39706
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/141000000/3970339706.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias após a sua aprovação pelo órgão deliberativo
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

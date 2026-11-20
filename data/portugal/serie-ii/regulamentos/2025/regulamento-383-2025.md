@@ -23,6 +23,15 @@ publication:
   pages: 737 - 744
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/056000000/0073700744.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação na 2.ª série do Diário da República e
+  method: clausula
+  article: art-14
+  effects_date: '2025-01-01'
+  effects_rule: desde o dia 01 de janeiro de 2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

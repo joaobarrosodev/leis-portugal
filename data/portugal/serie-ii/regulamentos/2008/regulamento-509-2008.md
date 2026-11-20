@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 39602 - 39612
   pdf_url: https://files.diariodarepublica.pt/2s/2008/09/180000000/3960239612.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-10-02'
+entry_into_force:
+  date: '2008-10-02'
+  rule: 15 dias após a sua publicação no Diário da República, e aplica-se quer aos processos iniciados após a sua entrada
+    em vigor, quer aos processos que, embora impulsionados em momento anterior, não tenham
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

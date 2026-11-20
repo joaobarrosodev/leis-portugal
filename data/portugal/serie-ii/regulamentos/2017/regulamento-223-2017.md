@@ -23,6 +23,15 @@ publication:
   pages: 8047 - 8055
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/082000000/0804708055.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 11.º dia útil após a sua publicação no Diário da República
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

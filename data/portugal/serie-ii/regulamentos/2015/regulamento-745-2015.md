@@ -23,6 +23,15 @@ publication:
   pages: 31124 - 31127
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/211000000/3112431127.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da sua aprovação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

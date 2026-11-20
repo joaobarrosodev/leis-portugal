@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 9562 - 9576
   pdf_url: https://files.diariodarepublica.pt/2s/2008/03/047000000/0956209576.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-03-07'
+entry_into_force:
+  date: '2008-03-07'
+  rule: no dia seguinte ao da sua publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-62
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

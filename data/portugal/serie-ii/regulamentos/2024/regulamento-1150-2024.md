@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 236 - 294
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/198000000/0023600294.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-10-26'
+entry_into_force:
+  date: '2024-10-26'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

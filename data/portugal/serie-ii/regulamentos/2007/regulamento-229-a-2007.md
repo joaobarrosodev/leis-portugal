@@ -23,6 +23,16 @@ publication:
   pages: 14 - 20
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/168000001/0001400020.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de cumpridas todas as formalidades legais e 15 dias após a sua publicação em Diário da República, conforme
+    descrito no n.º 4 do artigo 29.º da Lei n.º 42/98, de 6 de Agosto
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

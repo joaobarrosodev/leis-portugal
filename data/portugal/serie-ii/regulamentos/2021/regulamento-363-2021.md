@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 421 - 437
   pdf_url: https://files.diariodarepublica.pt/2s/2021/04/079000000/0042100437.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-23'
+entry_into_force:
+  date: '2021-05-23'
+  rule: no prazo de 30 dias após a publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

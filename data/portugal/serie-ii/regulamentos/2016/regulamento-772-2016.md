@@ -23,6 +23,15 @@ publication:
   pages: 23984 - 23991
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/146000000/2398423991.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação em Diário da República e edital a afixar no edifício da sede da Junta de Freguesia
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 371 - 427
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/095000000/0037100427.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato a seguir ao da sua publicação
+  method: clausula
+  article: art-123
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

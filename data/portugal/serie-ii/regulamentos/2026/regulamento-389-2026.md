@@ -23,6 +23,16 @@ publication:
   pages: 676 - 679
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/073000000/0067600679.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelos órgãos competentes e publicação no Diário da República e edital (afixado nos lugares de estilo
+    habitual), de acordo com o artigo n.º 56 da Lei n.º 75/2013 de 12 de setembro e
+  method: clausula
+  article: art-16
+  effects_date: '2026-01-01'
+  effects_rule: a partir do dia 1 de janeiro de 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

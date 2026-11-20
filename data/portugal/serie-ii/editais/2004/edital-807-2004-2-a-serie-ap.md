@@ -23,6 +23,15 @@ publication:
   pages: 20 - 25
   pdf_url: https://files.diariodarepublica.pt/2s/2004/12/292152000/0002000025.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte após a sua publicação no Diário da República
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

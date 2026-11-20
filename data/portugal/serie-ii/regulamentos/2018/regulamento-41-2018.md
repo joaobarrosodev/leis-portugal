@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2268 - 2270
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/013000000/0226802270.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-11'
+entry_into_force:
+  date: '2016-01-11'
+  rule: a partir de 11 de janeiro de 2016
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 96 - 99
   pdf_url: https://files.diariodarepublica.pt/2s/2004/11/277141000/0009600099.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-11-26'
+entry_into_force:
+  date: '2004-11-26'
+  rule: no dia imediato ao da sua publicação na 2.ª sére do Diário da República
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

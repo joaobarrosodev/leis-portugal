@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22450 - 22459
   pdf_url: https://files.diariodarepublica.pt/2s/2018/08/156000000/2245022459.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-08-29'
+entry_into_force:
+  date: '2018-08-29'
+  rule: quinze dias após a sua publicação nos termos da lei
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 10 - 11
   pdf_url: https://files.diariodarepublica.pt/2s/2003/02/036026000/0001000011.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: oito dias após a sua publicitação
+  method: clausula
+  article: n-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

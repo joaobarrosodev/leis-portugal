@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 421 - 432
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/118000000/0042100432.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-06-23'
+entry_into_force:
+  date: '2026-06-23'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 17531 - 17534
   pdf_url: https://files.diariodarepublica.pt/2s/2004/11/276000000/1753117534.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 34 - 73
   pdf_url: https://files.diariodarepublica.pt/2s/2004/03/073039000/0003400073.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado pela Assembleia Municipal, 30 dias úteis contados a partir do dia imediato ao da sua publicação
+    no Diário da República
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

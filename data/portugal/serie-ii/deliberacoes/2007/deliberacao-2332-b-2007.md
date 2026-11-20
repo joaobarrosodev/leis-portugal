@@ -24,6 +24,15 @@ publication:
   pages: 34216-(446) a 34216-(449)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/11/227000004/0044600449.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo 2007-2008
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

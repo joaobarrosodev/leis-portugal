@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 441 - 444
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/018000000/0044100444.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-01-26'
+entry_into_force:
+  date: '2023-01-26'
+  rule: no dia seguinte ao da sua publicação no Diário da República nos termos do disposto no artigo 139.º do Decreto-Lei
+    n.º 4/2015, de 7 de janeiro, na sua redação atual
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

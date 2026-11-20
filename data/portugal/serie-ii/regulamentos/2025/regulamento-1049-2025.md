@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 182 - 196
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/170000000/0018200196.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-09-04'
+entry_into_force:
+  date: '2025-09-04'
+  rule: após a sua publicação na segunda série do Diário da República e será publicitado de acordo com as normas em vigor
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

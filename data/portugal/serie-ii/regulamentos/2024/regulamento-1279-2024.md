@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 1026 - 1032
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/215000000/0102601032.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-21'
+entry_into_force:
+  date: '2024-11-21'
+  rule: 15 dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

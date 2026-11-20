@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 49523 - 49527
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/194000000/4952349527.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-10-21'
+entry_into_force:
+  date: '2010-10-21'
+  rule: 15 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

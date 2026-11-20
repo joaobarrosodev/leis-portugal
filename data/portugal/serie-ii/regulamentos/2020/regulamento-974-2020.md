@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 261 - 274
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/215000000/0026100274.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-11-05'
+entry_into_force:
+  date: '2020-11-05'
+  rule: no dia seguinte a data da sua publicação na 2.ª serie do Diário da República
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

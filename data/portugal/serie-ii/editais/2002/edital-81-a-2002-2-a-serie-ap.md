@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 48-(2) a 48-(7)
   pdf_url: https://files.diariodarepublica.pt/2s/2002/02/050021001/0000200007.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-03-15'
+entry_into_force:
+  date: '2002-03-15'
+  rule: '15 dias após a sua publicação no Diário da República, de acordo com o n.º 4 da Lei n.º 42/98, de 6 de Agosto, alterada
+    pelas Leis n.os 87-B/98, de 31 de Dezembro, 3-B/2000, de 4 de Abril, 15/2001, de '
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

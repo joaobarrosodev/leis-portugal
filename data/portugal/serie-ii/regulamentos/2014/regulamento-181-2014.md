@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 11680 - 11687
   pdf_url: https://files.diariodarepublica.pt/2s/2014/05/085000000/1168011687.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-04'
+entry_into_force:
+  date: '2014-06-04'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

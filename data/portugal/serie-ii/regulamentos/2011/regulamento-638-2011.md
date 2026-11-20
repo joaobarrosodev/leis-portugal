@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/242000000/4939649400.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:889942091:por#art-9'
+    detail: O presente Regulamento revoga o [Regulamento n.º 638/2011], publicado no Diário da República, 2.ª série, n.º 242
+      de 20 de dezembro.
 notes: []
 language: por
 version:

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 468 - 470
   pdf_url: https://files.diariodarepublica.pt/2s/2020/09/182000000/0046800470.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-09-18'
+entry_into_force:
+  date: '2020-09-18'
+  rule: no dia seguinte ao da sua publicação e tem eficácia retroativa à data de 20 de fevereiro de 2019
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

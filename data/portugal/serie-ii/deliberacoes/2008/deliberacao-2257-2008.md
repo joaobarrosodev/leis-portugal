@@ -23,6 +23,15 @@ publication:
   pages: 35924 - 35928
   pdf_url: https://files.diariodarepublica.pt/2s/2008/08/155000000/3592435928.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo de 2007-2008
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

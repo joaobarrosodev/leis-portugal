@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/048000000/0594805952.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:114599547:por#art-13'
+    detail: O presente Regulamento entra em vigor no dia seguinte ao da sua publicação, revogando o [Regulamento n.º 101/2015],
+      de 10 de março (Regulamento do Perfil de Competências do Enfermeiro Gestor).
 notes: []
 language: por
 version:

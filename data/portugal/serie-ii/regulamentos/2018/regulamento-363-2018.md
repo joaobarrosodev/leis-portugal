@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 16622 - 16624
   pdf_url: https://files.diariodarepublica.pt/2s/2018/06/112000000/1662216624.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-13'
+entry_into_force:
+  date: '2018-06-13'
+  rule: a partir do dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

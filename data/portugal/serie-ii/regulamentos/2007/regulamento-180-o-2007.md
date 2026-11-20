@@ -23,6 +23,15 @@ publication:
   pages: 22512-(150) a 22512-(152)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/151000002/0015000152.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias após a sua aprovação pela Assembleia de Freguesia
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

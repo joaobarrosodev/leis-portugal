@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14217 - 14224
   pdf_url: https://files.diariodarepublica.pt/2s/2007/05/101000000/1421714224.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-06-09'
+entry_into_force:
+  date: '2007-06-09'
+  rule: 15 dias após publicação no Diário da República, nos termos da Lei das Finanças Locais
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

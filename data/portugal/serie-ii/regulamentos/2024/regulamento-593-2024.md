@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 308 - 312
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/102000000/0030800312.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-06-01'
+entry_into_force:
+  date: '2024-06-01'
+  rule: no quinto dia seguinte ao da sua publicação, nos termos legais em vigor
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

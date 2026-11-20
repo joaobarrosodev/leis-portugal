@@ -23,6 +23,15 @@ publication:
   pages: 7666 - 7669
   pdf_url: https://files.diariodarepublica.pt/2s/2014/03/056000000/0766607669.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em sede de Conselho Direção, nos termos legais estatutariamente previstos
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

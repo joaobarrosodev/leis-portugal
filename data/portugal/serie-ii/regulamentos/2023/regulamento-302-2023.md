@@ -23,6 +23,15 @@ publication:
   pages: 256 - 263
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/050000000/0025600263.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua publicitação via edital nos locais de estilo e na página eletrónica da Câmara Municipal
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

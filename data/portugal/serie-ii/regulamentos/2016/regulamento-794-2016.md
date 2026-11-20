@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 25132 - 25135
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/154000000/2513225135.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-01'
+entry_into_force:
+  date: '2016-09-01'
+  rule: a 1 de setembro de 2016
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 10241 - 10248
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/046000000/1024110248.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelos órgãos legal e estatutariamente competentes da Faculdade de Ciências Sociais e Humanas
+    da Universidade Nova de Lisboa e da Universidade Atlântica
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 260 - 265
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/196000000/0026000265.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dia após seguinte à sua publicação a sua publicação na 2.ª série do Diário da República, revogando-se desta
+    forma, toda a regulamentação anterior, nos termos do artigo 140.º do Código do Pro
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

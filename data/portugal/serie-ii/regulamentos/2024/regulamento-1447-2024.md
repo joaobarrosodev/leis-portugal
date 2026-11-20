@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 199 - 223
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/245000000/0019900223.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-12-19'
+entry_into_force:
+  date: '2024-12-19'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República e ficará disponível para consulta no sítio da Ordem
+    na Internet
+  method: clausula
+  article: art-94
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

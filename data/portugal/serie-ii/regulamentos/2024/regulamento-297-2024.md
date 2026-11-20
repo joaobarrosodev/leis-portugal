@@ -23,6 +23,16 @@ publication:
   pages: 243 - 256
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/055000000/0024300256.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua publicitação nos termos legais, após a devida aprovação pelas entidades competentes das Instituições
+    de Acolhimento dos Polos
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

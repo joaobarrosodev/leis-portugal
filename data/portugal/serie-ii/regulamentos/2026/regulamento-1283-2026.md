@@ -23,6 +23,15 @@ publication:
   pages: 607 - 610
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/196000000/0060700610.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação por Edital nos locais de estilo ou canais digitais oficiais da autarquia
+  method: clausula
+  article: art-13
+  effects_date: '2026-01-01'
+  effects_rule: a 1 de janeiro de 2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

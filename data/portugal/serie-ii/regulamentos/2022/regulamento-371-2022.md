@@ -23,6 +23,16 @@ publication:
   pages: 44 - 47
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/073000000/0004400047.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil a seguir à sua publicação e é objeto de revisão no prazo de seis meses, tendo em vista assegurar a adequação
+    do presente processo de reconhecimento de EEC à realidade de cada momento e à r
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

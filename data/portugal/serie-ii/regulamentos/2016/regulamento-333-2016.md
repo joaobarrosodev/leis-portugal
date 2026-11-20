@@ -23,6 +23,15 @@ publication:
   pages: 10670 - 10671
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/061000000/1067010671.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação e publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

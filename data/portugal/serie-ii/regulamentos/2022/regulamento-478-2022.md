@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 468 - 477
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/096000000/0046800477.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-19'
+entry_into_force:
+  date: '2022-05-19'
+  rule: no dia seguinte à sua publicação em Diário da República e será publicado por edital e no sítio da internet do Município
+    de Marvão
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

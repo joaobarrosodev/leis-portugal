@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 50168 - 50170
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/245000000/5016850170.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-12-23'
+entry_into_force:
+  date: '2011-12-23'
+  rule: na data da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

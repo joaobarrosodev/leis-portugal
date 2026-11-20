@@ -24,6 +24,16 @@ publication:
   pages: 32039 - 32041
   pdf_url: https://files.diariodarepublica.pt/2s/2015/11/217000000/3203932041.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado e publicitado nos termos legais, ficando revogados os horários que se encontrem em desacordo com
+    o nele estabelecido
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

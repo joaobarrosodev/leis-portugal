@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 12 - 14
   pdf_url: https://files.diariodarepublica.pt/2s/2000/06/141092000/0001200014.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-07-20'
+entry_into_force:
+  date: '2000-07-20'
+  rule: 30 dias após a sua publicação no Diário da República ou após a sua efectiva distribuição, se esta tiver sido posterior,
+    de acordo com o artigo 2.º da Lei n.º 74/98, de 11 de Novembro
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

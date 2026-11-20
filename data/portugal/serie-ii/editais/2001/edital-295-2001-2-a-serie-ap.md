@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 15 - 24
   pdf_url: https://files.diariodarepublica.pt/2s/2001/07/163087000/0001500024.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-08-15'
+entry_into_force:
+  date: '2001-08-15'
+  rule: 30 dias depois da publicação no Diário da República e após aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 79 - 87
   pdf_url: https://files.diariodarepublica.pt/2s/2001/05/117062000/0007900087.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-06-10'
+entry_into_force:
+  date: '2001-06-10'
+  rule: 20 dias após a sua publicação
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

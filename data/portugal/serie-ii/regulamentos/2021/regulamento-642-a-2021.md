@@ -23,6 +23,15 @@ publication:
   pages: 455-(2) a 455-(6)
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/134000001/0000200006.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

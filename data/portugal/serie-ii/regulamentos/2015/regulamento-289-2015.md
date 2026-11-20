@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14066 - 14073
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/105000000/1406614073.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-07-01'
+entry_into_force:
+  date: '2015-07-01'
+  rule: no dia 1 do mês seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

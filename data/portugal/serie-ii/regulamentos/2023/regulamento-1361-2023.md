@@ -23,6 +23,15 @@ publication:
   pages: 475 - 495
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/247000000/0047500495.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à data da sua publicação
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

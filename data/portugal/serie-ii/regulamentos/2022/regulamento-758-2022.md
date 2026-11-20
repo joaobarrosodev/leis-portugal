@@ -24,6 +24,15 @@ publication:
   pages: 711 - 714
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/151000000/0071100714.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação da Assembleia de Freguesia de Tábua e publicação na página eletrónica www.jftabua.pt
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 365 - 388
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/091000000/0036500388.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em 1 de maio 2025, após aprovação pelo órgão competente, sendo aplicável aos procedimentos administrativos em curso,
+    ressalvados os atos já praticados
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

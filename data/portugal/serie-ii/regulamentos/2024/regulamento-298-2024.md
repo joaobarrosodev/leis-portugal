@@ -23,8 +23,23 @@ publication:
   pages: 301 - 308
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/055000000/0030100308.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1177471165:por#art-15'
+    detail: É revogado o [Regulamento n.º 298/2024], de 18 de março
 notes: []
 language: por
 version:

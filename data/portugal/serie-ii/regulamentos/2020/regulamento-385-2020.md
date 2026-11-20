@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 274 - 293
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/073000000/0027400293.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-29'
+entry_into_force:
+  date: '2020-04-29'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

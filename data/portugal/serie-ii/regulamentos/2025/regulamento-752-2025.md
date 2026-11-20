@@ -24,6 +24,15 @@ publication:
   pages: 147 - 152
   pdf_url: https://files.diariodarepublica.pt/2s/2025/06/119000000/0014700152.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo Reitor e publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

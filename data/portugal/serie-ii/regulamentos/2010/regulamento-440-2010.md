@@ -23,6 +23,15 @@ publication:
   pages: 26240 - 26242
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/094000000/2624026242.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da entrada em vigor do Regulamento de Serviço
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

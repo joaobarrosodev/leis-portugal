@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 604 - 606
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/094000000/0060400606.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-15'
+entry_into_force:
+  date: '2021-05-15'
+  rule: no dia seguinte à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29847 - 29851
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/191000000/2984729851.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-09'
+entry_into_force:
+  date: '2016-10-09'
+  rule: cinco dias após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

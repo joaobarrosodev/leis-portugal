@@ -35,7 +35,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado por inteiro pelo artigo único do Decreto-Lei n.º 22/82; o DRE regista a revogação e continua a dá-lo em
+    vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:600757:por'
+    detail: É revogado o Decreto-Lei n.º 354-A/80, de 5 de Setembro.
 notes: []
 language: por
 version:
@@ -89,6 +98,11 @@ relationships:
   target: pt:dre:644278:por
   label: null
   source: null
+- type: repealed_by
+  target: pt:dre:600757:por
+  label: Revogado por inteiro pelo artigo único do Decreto-Lei n.º 22/82; o DRE regista a revogação e continua a dá-lo em
+    vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
 - type: repealed_by
   target: pt:dre:600757:por
   label: "Revogado pelo DEC LEI.22/82.1982.01.30.CR, DR.IS [25] de 26/Jan/1982\0\0"

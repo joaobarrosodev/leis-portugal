@@ -24,6 +24,15 @@ publication:
   pages: 507 - 522
   pdf_url: https://files.diariodarepublica.pt/2s/2020/08/157000000/0050700522.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2020/2021, inclusive
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 312 - 320
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/078000000/0031200320.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-05-21'
+entry_into_force:
+  date: '2020-05-21'
+  rule: 30 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

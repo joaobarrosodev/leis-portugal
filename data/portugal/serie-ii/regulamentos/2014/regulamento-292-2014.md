@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17735 - 17740
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/130000000/1773517740.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-07-10'
+entry_into_force:
+  date: '2014-07-10'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

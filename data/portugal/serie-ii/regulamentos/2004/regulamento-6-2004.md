@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2265 - 2266
   pdf_url: https://files.diariodarepublica.pt/2s/2004/02/031000000/0226502266.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-09-15'
+entry_into_force:
+  date: '2003-09-15'
+  rule: em 15 de Setembro de 2003
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

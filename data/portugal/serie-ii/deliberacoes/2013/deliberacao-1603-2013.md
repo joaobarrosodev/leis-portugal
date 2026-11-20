@@ -24,6 +24,15 @@ publication:
   pages: 26290 - 26290
   pdf_url: https://files.diariodarepublica.pt/2s/2013/08/160000000/2629026290.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua emissão
+  method: clausula
+  article: n-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

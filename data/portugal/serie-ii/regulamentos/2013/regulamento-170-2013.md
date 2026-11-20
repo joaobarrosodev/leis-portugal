@@ -23,6 +23,15 @@ publication:
   pages: 15525 - 15535
   pdf_url: https://files.diariodarepublica.pt/2s/2013/05/093000000/1552515535.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação em Edital
+  method: clausula
+  article: art-69
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

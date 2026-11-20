@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/220000000/0006600070.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:918308222:por#n-5'
+    detail: 11 - É revogada a [Deliberação n.º 1489/2024], publicada no Diário da República, 2.ª série, n.º 220, de 13 de
+      novembro, alterada pela [Deliberação n.º 232/2025], publicada no Diário da República, 2.ª série, n.º 34, de 18 de fevereiro.
 notes: []
 language: por
 version:

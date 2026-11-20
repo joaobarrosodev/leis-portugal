@@ -23,6 +23,15 @@ publication:
   pages: 29723 - 29728
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/190000000/2972329728.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias úteis após a sua publicação nos termos do artigo 139.º do Código do Procedimento Administrativo
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

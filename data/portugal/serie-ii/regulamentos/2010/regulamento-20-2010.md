@@ -24,6 +24,15 @@ publication:
   pages: 1589 - 1600
   pdf_url: https://files.diariodarepublica.pt/2s/2010/01/007000000/0158901600.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação na página oficial do Município, bem como na 2.ª série do Diário da República
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

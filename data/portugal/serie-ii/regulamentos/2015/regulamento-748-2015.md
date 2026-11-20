@@ -24,6 +24,16 @@ publication:
   pages: 31166 - 31170
   pdf_url: https://files.diariodarepublica.pt/2s/2015/10/211000000/3116631170.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: nos 30 dias seguintes aos da data da sua publicação no Diário da República, aplicando-se quer aos casos futuros, quer
+    aos contratos anteriormente celebrados com os titulares das habitações que são pro
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

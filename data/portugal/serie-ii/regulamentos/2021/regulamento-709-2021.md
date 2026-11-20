@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 264 - 274
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/144000000/0026400274.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-07-28'
+entry_into_force:
+  date: '2021-07-28'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 569 - 571
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/095000000/0056900571.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-19'
+entry_into_force:
+  date: '2026-05-19'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se a partir do ano letivo 2026/2027
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 172 - 177
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/245000000/0017200177.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil imediatamente seguinte ao da sua publicação nos termos da lei
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

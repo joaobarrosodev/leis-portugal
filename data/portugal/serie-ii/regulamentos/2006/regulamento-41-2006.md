@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 7159 - 7161
   pdf_url: https://files.diariodarepublica.pt/2s/2006/05/095000000/0715907161.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-05-17'
+entry_into_force:
+  date: '2006-05-17'
+  rule: a partir da data da sua publicação no Diário da República, 2.ª série, devendo ser divulgado no sítio da ESEV
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1747568:por#art-28'
+    detail: O presente regulamento revoga o [Regulamento n.º 41/2006], publicado no Diário da República, 2.ª série, n.º 95,
+      de 17 de Maio de 2006.
 notes: []
 language: por
 version:

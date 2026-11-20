@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 17590 - 17592
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/156000000/1759017592.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-08-15'
+entry_into_force:
+  date: '2017-08-15'
+  rule: no dia seguinte à sua publicação no Diário da República, sem prejuízo da sua publicitação no Boletim Municipal e no
+    sítio da Internet do Município
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: a partir do ano letivo 2016/2017, inclusive
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

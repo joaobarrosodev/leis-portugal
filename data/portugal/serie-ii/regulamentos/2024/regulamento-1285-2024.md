@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 375 - 384
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/216000000/0037500384.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-11-08'
+entry_into_force:
+  date: '2024-11-08'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sem prejuízo da sua publicação no Boletim Municipal e
+    na página institucional do Município, em www.cm-amadora.pt
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

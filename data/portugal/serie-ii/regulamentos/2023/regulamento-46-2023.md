@@ -23,6 +23,15 @@ publication:
   pages: 575 - 578
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/011000000/0057500578.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo Executivo da junta de freguesia e pela aprovação da Assembleia de Freguesia de Arões S
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

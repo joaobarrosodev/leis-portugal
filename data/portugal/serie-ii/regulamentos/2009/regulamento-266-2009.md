@@ -23,6 +23,15 @@ publication:
   pages: 25129 - 25134
   pdf_url: https://files.diariodarepublica.pt/2s/2009/06/122000000/2512925134.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: oito dias depois de ser tornado público pela afixação de editais nos lugares públicos do costume
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 2204-(166) a 2204-(173)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/01/018000002/0016600173.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-01-26'
+entry_into_force:
+  date: '2007-01-26'
+  rule: no dia imediato à sua publicação em Diário da República, 2.ª série
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

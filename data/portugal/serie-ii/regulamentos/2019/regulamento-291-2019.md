@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 9919 - 9920
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/062000000/0991909920.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-04-02'
+entry_into_force:
+  date: '2019-04-02'
+  rule: no quinto dia após a sua publicação no Diário da República, nos termos do disposto no artigo 140 do Código do Procedimento
+    Administrativo
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

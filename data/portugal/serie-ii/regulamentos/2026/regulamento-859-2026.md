@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 678 - 681
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/129000000/0067800681.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-08'
+entry_into_force:
+  date: '2026-07-08'
+  rule: no dia seguinte da sua publicação, após deliberação de aprovação da Assembleia de Freguesia
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

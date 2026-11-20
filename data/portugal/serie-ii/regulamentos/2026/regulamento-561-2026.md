@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 640 - 642
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/094000000/0064000642.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-16'
+entry_into_force:
+  date: '2026-05-16'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-12
+  effects_date: '2026-05-15'
+  effects_rule: após a sua publicação no Diário da República
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

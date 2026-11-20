@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 231 - 280
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/190000000/0023100280.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-10-17'
+entry_into_force:
+  date: '2025-10-17'
+  rule: no prazo de 15 dias após a sua publicação nos termos legais e aplica-se a todas as pretensões deduzidas após aquela
+    data, mesmo as relativas a processos já abertos
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

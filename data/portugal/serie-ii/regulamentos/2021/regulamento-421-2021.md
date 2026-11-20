@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 400 - 402
   pdf_url: https://files.diariodarepublica.pt/2s/2021/05/094000000/0040000402.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-05-15'
+entry_into_force:
+  date: '2021-05-15'
+  rule: no dia seguinte ao da sua publicação no sítio do IPSantarém na Internet
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 34630 - 34631
   pdf_url: https://files.diariodarepublica.pt/2s/2007/12/233000000/3463034631.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-12-05'
+entry_into_force:
+  date: '2007-12-05'
+  rule: no dia seguinte a sua publicação no Diário da República e os seus efeitos retroagem a 21 de Outubro de 2005
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

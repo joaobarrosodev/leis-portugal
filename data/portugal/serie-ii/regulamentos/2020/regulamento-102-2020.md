@@ -23,6 +23,15 @@ publication:
   pages: 365 - 370
   pdf_url: https://files.diariodarepublica.pt/2s/2020/02/027000000/0036500370.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 39801 - 39822
   pdf_url: https://files.diariodarepublica.pt/2s/2012/12/241000000/3980139822.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-12-28'
+entry_into_force:
+  date: '2012-12-28'
+  rule: 15 dias após a sua publicação no Diário da República, precedendo a sua afixação, por Edital, nos lugares de estilo,
+    nos termos do artigo 91.º, da Lei n.º 169/99, de 18 de setembro, na redação dada pel
+  method: clausula
+  article: art-129
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

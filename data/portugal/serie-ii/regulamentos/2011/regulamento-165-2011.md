@@ -25,6 +25,15 @@ publication:
   pages: 11112 - 11113
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/047000000/1111211113.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pela Assembleia Geral
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 124 - 129
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/226000000/0012400129.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicação
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

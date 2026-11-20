@@ -23,6 +23,15 @@ publication:
   pages: 59761 - 59763
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/237000000/5976159763.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil após a sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

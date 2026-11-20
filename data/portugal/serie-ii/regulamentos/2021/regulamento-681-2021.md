@@ -24,6 +24,15 @@ publication:
   pages: 534 - 542
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/139000000/0053400542.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: a partir da candidatura à matrícula e inscrição no ensino superior do ano letivo de 2021/2022
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

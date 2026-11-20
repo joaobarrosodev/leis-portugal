@@ -23,6 +23,15 @@ publication:
   pages: 18864 - 18866
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/135000000/1886418866.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil após a sua publicação
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

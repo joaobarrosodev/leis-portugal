@@ -25,6 +25,15 @@ publication:
   pages: 34833 - 34837
   pdf_url: https://files.diariodarepublica.pt/2s/2012/10/204000000/3483334837.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em Conselho de Gestão
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

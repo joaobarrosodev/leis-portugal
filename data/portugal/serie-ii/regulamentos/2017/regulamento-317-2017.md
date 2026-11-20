@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/06/113000000/1209712099.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:108175403:por#n-20'
+    detail: 20 - É revogado o [Regulamento n.º 317/2017], de 23 de maio, publicado no Diário da República, 2.ª série n.º 113,
+      de 12 de junho de 2017.
 notes: []
 language: por
 version:

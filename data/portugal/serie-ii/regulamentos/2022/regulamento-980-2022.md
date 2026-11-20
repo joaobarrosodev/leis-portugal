@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 364 - 368
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/200000000/0036400368.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-11-01'
+entry_into_force:
+  date: '2022-11-01'
+  rule: quinze dias após a sua publicação do Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

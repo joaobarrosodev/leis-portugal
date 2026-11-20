@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 33 - 52
   pdf_url: https://files.diariodarepublica.pt/2s/2016/01/001000000/0003300052.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-01-05'
+entry_into_force:
+  date: '2016-01-05'
+  rule: no dia seguinte à sua publicação no Diário da República e na página eletrónica da Câmara Municipal de Bragança
+  method: clausula
+  article: art-140
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

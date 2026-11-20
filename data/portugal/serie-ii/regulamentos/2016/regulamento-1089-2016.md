@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 36524 - 36526
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/237000000/3652436526.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-01'
+entry_into_force:
+  date: '2017-01-01'
+  rule: no dia 1 de janeiro de 2017, sendo aplicado às despesas de "passe escolar" a partir dessa data
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

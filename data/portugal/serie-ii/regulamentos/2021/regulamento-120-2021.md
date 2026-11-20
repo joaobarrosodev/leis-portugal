@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 342 - 376
   pdf_url: https://files.diariodarepublica.pt/2s/2021/02/025000000/0034200376.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-20'
+entry_into_force:
+  date: '2021-02-20'
+  rule: 15 dias após a data de publicação do edital com a comunicação da sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-109
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

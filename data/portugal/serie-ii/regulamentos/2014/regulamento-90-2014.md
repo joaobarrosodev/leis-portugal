@@ -23,6 +23,15 @@ publication:
   pages: 6405 - 6413
   pdf_url: https://files.diariodarepublica.pt/2s/2014/03/046000000/0640506413.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da homologação pelo Reitor
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

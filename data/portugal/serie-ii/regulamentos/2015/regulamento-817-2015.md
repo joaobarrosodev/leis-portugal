@@ -23,6 +23,15 @@ publication:
   pages: 34785 - 34788
   pdf_url: https://files.diariodarepublica.pt/2s/2015/11/234000000/3478534788.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação e publicação no site da ESD
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

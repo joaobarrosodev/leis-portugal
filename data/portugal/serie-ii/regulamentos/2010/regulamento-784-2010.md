@@ -24,6 +24,15 @@ publication:
   pages: 51495 - 51496
   pdf_url: https://files.diariodarepublica.pt/2s/2010/10/202000000/5149551496.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo 2010/2011
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

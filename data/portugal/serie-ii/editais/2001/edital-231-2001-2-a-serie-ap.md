@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 8 - 38
   pdf_url: https://files.diariodarepublica.pt/2s/2001/05/124066000/0000800038.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-06-28'
+entry_into_force:
+  date: '2001-06-28'
+  rule: no 30.º dia após a publicação do edital da respectiva deliberação da Assembleia Municipal de Faro que o aprovar
+  method: clausula
+  article: art-112
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes:

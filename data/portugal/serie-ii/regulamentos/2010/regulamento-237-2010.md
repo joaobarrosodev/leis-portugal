@@ -24,6 +24,15 @@ publication:
   pages: 11508 - 11550
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/049000000/1150811550.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia
+  method: clausula
+  article: art-5
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

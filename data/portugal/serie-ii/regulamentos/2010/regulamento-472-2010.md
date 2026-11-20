@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 27613 - 27622
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/097000000/2761327622.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-06-18'
+entry_into_force:
+  date: '2010-06-18'
+  rule: trinta dias após a data da respectiva publicação no Diário da República, revogando o anteriormente vigente e todas
+    as disposições regulamentares anteriores sobre esta matéria
+  method: clausula
+  article: art-59
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

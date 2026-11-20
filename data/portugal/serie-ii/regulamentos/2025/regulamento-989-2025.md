@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 244 - 254
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/155000000/0024400254.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-08-14'
+entry_into_force:
+  date: '2025-08-14'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: a partir do ano letivo 2025/2026
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

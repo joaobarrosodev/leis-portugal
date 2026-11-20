@@ -23,6 +23,15 @@ publication:
   pages: 461 - 475
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/060000000/0046100475.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte após a sua publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

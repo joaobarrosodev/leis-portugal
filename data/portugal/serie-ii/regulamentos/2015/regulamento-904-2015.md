@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 37683 - 37686
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/251000000/3768337686.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-25'
+entry_into_force:
+  date: '2015-12-25'
+  rule: no dia seguinte ao da sua publicação no Diário da República e revoga as normas regulamentares dos Doutoramento em
+    Saúde Pública, publicadas através do Regulamento n.º 326/2010, 2.ª série, n.º 65, de 5
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

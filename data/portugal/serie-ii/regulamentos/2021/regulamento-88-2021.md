@@ -23,6 +23,15 @@ publication:
   pages: 325 - 334
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/017000000/0032500334.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao 30.º dia da data da sua publicação no Diário da República
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

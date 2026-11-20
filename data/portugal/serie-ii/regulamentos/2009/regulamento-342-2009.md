@@ -23,6 +23,15 @@ publication:
   pages: 31619 - 31622
   pdf_url: https://files.diariodarepublica.pt/2s/2009/08/151000000/3161931622.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado em sede da Assembleia Municipal de Faro
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

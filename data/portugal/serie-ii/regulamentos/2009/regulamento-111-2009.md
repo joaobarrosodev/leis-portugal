@@ -23,6 +23,16 @@ publication:
   pages: 8890 - 8909
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/046000000/0889008909.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia Municipal de Bragança e respectiva publicação em edital a ser afixado nos lugares de
+    estilo e na página electrónica do Município de Bragança
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

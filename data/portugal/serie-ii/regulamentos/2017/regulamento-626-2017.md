@@ -23,6 +23,16 @@ publication:
   pages: 28665 - 28668
   pdf_url: https://files.diariodarepublica.pt/2s/2017/12/242000000/2866528668.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da sua aprovação pelo Conselho Técnico-Científico e respetiva publicitação na página da internet da Escola,
+    sem prejuízo da sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 6090 - 6094
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/049000000/0609006094.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação, aplicando-se aos concursos iniciados após esta data
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

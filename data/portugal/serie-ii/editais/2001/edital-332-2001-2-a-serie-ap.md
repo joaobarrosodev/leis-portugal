@@ -23,6 +23,15 @@ publication:
   pages: 49 - 55
   pdf_url: https://files.diariodarepublica.pt/2s/2001/08/185096000/0004900055.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 90 dias após a sua publicação de acordo com o n.º 4 do artigo 29.º da Lei n.º 42/98 (Finanças Locais)
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19663 - 19665
   pdf_url: https://files.diariodarepublica.pt/2s/2006/09/183000000/1966319665.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-01-20'
+entry_into_force:
+  date: '2006-01-20'
+  rule: a partir de 20 de Janeiro de 2006
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

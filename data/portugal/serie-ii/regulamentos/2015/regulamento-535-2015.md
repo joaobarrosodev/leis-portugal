@@ -23,6 +23,15 @@ publication:
   pages: 22537 - 22543
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/155000000/2253722543.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da homologação pelo Reitor
+  method: clausula
+  article: art-46
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

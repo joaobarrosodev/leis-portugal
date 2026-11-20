@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 101 - 108
   pdf_url: https://files.diariodarepublica.pt/2s/2006/02/031014000/0010100108.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2006-03-15'
+entry_into_force:
+  date: '2006-03-15'
+  rule: 30 dias após a data da respectiva publicação no Diário da República, considerando-se revogado o Regulamento do Serviço
+    de Abastecimento de Água ao Concelho de Alcobaça, aprovado em reunião de 9 de Jun
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

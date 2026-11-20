@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 2292 - 2314
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/011000000/0229202314.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-01-31'
+entry_into_force:
+  date: '2013-01-31'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-124
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

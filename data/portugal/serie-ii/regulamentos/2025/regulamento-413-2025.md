@@ -23,6 +23,16 @@ publication:
   pages: 880 - 894
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/059000000/0088000894.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pelo órgão deliberativo, e após o primeiro dia, do mês seguinte à sua publicação no Diário da
+    República e revoga o anterior Regulamento de Tabela Geral de Taxas e Licenças da Freg
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 10139 - 10143
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/063000000/1013910143.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua aprovação, em Assembleia de Freguesia
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

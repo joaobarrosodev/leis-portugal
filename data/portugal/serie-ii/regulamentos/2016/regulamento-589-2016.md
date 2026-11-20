@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 18674 - 18676
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/112000000/1867418676.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-06-15'
+entry_into_force:
+  date: '2016-06-15'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:896830230:por#art-23'
+    detail: 1 - O presente Regulamento revoga o [Regulamento n.º 589/2016], publicado na 2.ª série do Diário da República,
+      a 14 de junho de 2016.
 notes: []
 language: por
 version:

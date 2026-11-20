@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29319 - 29330
   pdf_url: https://files.diariodarepublica.pt/2s/2007/10/195000000/2931929330.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-10-10'
+entry_into_force:
+  date: '2007-10-10'
+  rule: a partir da data da sua publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

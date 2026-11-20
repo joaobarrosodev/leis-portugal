@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 85 - 93
   pdf_url: https://files.diariodarepublica.pt/2s/2000/08/176109000/0008500093.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2000-08-31'
+entry_into_force:
+  date: '2000-08-31'
+  rule: 30 dias após a sua publicação no Diário da República, considerando-se revogadas as anteriores disposições normativas
+    do Serviço de Abastecimento de Água no Concelho de Caldas da Rainha
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

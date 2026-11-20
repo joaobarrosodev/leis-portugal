@@ -23,6 +23,15 @@ publication:
   pages: 7 - 9
   pdf_url: https://files.diariodarepublica.pt/2s/2003/11/254161000/0000700009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias após a sua publicação, nos termos da lei
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20620 - 20649
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/076000000/2062020649.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-05'
+entry_into_force:
+  date: '2010-05-05'
+  rule: 15 dias após a sua publicação em Diário da República
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

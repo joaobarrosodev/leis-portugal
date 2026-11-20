@@ -23,6 +23,15 @@ publication:
   pages: 24950 - 24952
   pdf_url: https://files.diariodarepublica.pt/2s/2007/08/166000000/2495024952.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo de 2007-2008
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

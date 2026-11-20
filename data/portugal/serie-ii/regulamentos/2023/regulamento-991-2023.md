@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 469 - 495
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/170000000/0046900495.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-09-02'
+entry_into_force:
+  date: '2023-09-02'
+  rule: no dia imediato ao da sua publicação no Diário da República, vigorando enquanto não for expressa ou tacitamente revogado
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

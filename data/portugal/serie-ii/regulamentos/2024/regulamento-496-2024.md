@@ -23,6 +23,15 @@ publication:
   pages: 388 - 404
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/086000000/0038800404.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação nos termos legais
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

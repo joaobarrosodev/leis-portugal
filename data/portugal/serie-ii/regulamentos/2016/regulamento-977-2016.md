@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/207000000/3215532161.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:896795641:por#art-9'
+    detail: O presente Regulamento revoga o [Regulamento n.º 977/2016], publicado no Diário da República, 2.ª série, n.º 207
+      de 27 de outubro.
 notes: []
 language: por
 version:

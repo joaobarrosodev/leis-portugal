@@ -24,6 +24,16 @@ publication:
   pages: 222 - 226
   pdf_url: https://files.diariodarepublica.pt/2s/2019/10/195000000/0022200226.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a publicação no Diário da República e é aplicável a todos os pedidos de reconhecimento específico
+    do grau de Mestre em Medicina Dentária efetuados ao abrigo do Decreto-Lei n.
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

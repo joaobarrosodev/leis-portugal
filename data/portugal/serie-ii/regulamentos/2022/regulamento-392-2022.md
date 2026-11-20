@@ -23,6 +23,15 @@ publication:
   pages: 511 - 519
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/075000000/0051100519.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que forem aprovados em Assembleia da União das Freguesias
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

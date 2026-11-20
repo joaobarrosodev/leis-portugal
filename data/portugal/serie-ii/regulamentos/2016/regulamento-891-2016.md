@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 29217 - 29223
   pdf_url: https://files.diariodarepublica.pt/2s/2016/09/186000000/2921729223.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-09-28'
+entry_into_force:
+  date: '2016-09-28'
+  rule: no dia seguinte à data da sua publicação no Diário da República os termos do disposto no artigo 139.º do Decreto-Lei
+    n.º 4/2015, de 7 de janeiro
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

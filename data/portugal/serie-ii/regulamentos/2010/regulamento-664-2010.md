@@ -23,8 +23,26 @@ publication:
   pages: 42388 - 42391
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/152000000/4238842391.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da sua aprovação, revogando todas as disposições ou determinações anteriores que disponham em contrário ao
+    agora regulamentado
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1173971:por#art-23'
+    detail: O presente regulamento entra em vigor após publicação no Diário da República, revogando o [Regulamento n.º 664/2010],
+      homologado a 19 de fevereiro de 2010 e publicado na 2.ª série do Diário da República n.º 152 de 6 de agosto de 2010,
+      bem como, todas as disposições ou determinações anteriores que di
 notes: []
 language: por
 version:

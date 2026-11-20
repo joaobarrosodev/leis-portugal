@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 282 - 288
   pdf_url: https://files.diariodarepublica.pt/2s/2025/07/131000000/0028200288.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-09-10'
+entry_into_force:
+  date: '2025-09-10'
+  rule: dois meses após a sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

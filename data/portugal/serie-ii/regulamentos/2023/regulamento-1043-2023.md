@@ -23,6 +23,16 @@ publication:
   pages: 249 - 263
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/189000000/0024900263.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação definitiva da Junta e Assembleias de Freguesia, no dia imediato após a sua republicação no Diário da
+    República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

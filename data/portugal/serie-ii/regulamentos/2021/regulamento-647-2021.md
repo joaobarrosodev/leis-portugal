@@ -23,6 +23,15 @@ publication:
   pages: 304 - 316
   pdf_url: https://files.diariodarepublica.pt/2s/2021/07/135000000/0030400316.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicação nos termos legais
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

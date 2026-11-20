@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 287 - 289
   pdf_url: https://files.diariodarepublica.pt/2s/2020/02/028000000/0028700289.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-02-11'
+entry_into_force:
+  date: '2020-02-11'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:797150549:por#art-10'
+    detail: É revogado o [Regulamento n.º 105/2020], publicado na 2.ª série do Diário da República, de 10 de fevereiro, que
+      aprovou o regulamento do Serviço Médico ao Domicílio do Município de Oeiras.
 notes: []
 language: por
 version:

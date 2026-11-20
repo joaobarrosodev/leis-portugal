@@ -23,6 +23,16 @@ publication:
   pages: 64 - 71
   pdf_url: https://files.diariodarepublica.pt/2s/2002/08/198118000/0006400071.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 1.º dia útil seguinte ao termo do prazo de 30 dias a que se, refere o artigo 118.º do Código do Procedimento Administrativo,
+    se nenhuma sugestão for apresentada em sede de apreciação pública do mes
+  method: clausula
+  article: art-60
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

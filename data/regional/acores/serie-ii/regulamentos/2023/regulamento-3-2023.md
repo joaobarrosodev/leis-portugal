@@ -23,6 +23,15 @@ publication:
   pages: 3239-3244
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2023/03/21/210525749.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação pelo CCA
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

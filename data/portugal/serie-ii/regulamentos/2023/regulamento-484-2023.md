@@ -23,6 +23,15 @@ publication:
   pages: 166 - 199
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/083000000/0016600199.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-101
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

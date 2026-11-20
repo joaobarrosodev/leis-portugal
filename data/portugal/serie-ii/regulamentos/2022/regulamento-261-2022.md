@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 155 - 159
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/053000000/0015500159.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-03-21'
+entry_into_force:
+  date: '2022-03-21'
+  rule: cinco dias após a publicação do aviso da sua aprovação final, pela Assembleia Municipal de Penafiel, sob proposta
+    da Câmara Municipal, na 2.ª série do Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

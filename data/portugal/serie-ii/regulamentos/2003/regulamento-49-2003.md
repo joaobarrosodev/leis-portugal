@@ -23,6 +23,16 @@ publication:
   pages: 15739 - 15743
   pdf_url: https://files.diariodarepublica.pt/2s/2003/10/241000000/1573915743.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua aprovação pela assembleia de representantes e deverá ser publicado na revista Ingenium ou publicação
+    equivalente a nível nacional
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

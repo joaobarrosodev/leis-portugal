@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 6262 - 6264
   pdf_url: https://files.diariodarepublica.pt/2s/2017/04/067000000/0626206264.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-04-05'
+entry_into_force:
+  date: '2017-04-05'
+  rule: no dia seguinte ao da sua publicação no Diário da República e revoga o regulamento n.º 790/2016, de 10 de agosto,
+    publicado no Diário da República, 2.ª série, n.º 153
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

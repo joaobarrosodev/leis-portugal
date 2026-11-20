@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 301 - 311
   pdf_url: https://files.diariodarepublica.pt/2s/2021/04/067000000/0030100311.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-04-12'
+entry_into_force:
+  date: '2021-04-12'
+  rule: cinco dias após a sua publicação em edital a afixar no edifício sede da Junta de Freguesia, após aprovação da Assembleia
+    de Freguesia, nos termos do disposto nos artigos 139.º e 140.º do CPA
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

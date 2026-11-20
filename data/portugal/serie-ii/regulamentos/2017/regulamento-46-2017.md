@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 1418 - 1419
   pdf_url: https://files.diariodarepublica.pt/2s/2017/01/012000000/0141801419.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-22'
+entry_into_force:
+  date: '2017-01-22'
+  rule: 5 dias após a sua publicação no Diário da República, nos termos dos artigos 139.º e 140.º do Código do Procedimento
+    Administrativo
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

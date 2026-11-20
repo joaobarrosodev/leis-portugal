@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 102 - 116
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/015000000/0010200116.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-01-01'
+entry_into_force:
+  date: '2026-01-01'
+  rule: no dia 1 de janeiro de 2026
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

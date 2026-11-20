@@ -23,6 +23,16 @@ publication:
   pages: 71 - 94
   pdf_url: https://files.diariodarepublica.pt/2s/2003/07/155100000/0007100094.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de aprovado pela Assembleia Municipal, no dia seguinte ao da publicação no Diário da República, aplicando-se
+    a todos os pedidos apresentados a partir dessa data, inclusive
+  method: clausula
+  article: art-164
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

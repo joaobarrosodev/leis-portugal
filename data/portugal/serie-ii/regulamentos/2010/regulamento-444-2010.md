@@ -24,7 +24,17 @@ publication:
   supplement: null
   pages: 26324 - 26326
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/095000000/2632426326.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-06-16'
+entry_into_force:
+  date: '2010-06-16'
+  rule: trinta dias após a sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

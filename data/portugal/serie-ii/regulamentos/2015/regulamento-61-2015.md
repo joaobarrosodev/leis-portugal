@@ -23,8 +23,24 @@ publication:
   pages: 3804 - 3808
   pdf_url: https://files.diariodarepublica.pt/2s/2015/02/028000000/0380403808.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação pelo Reitor
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:925084530:por#art-36'
+    detail: É revogado o [Regulamento n.º 61/2015], de 14 de dezembro de 2014, publicado na 2.ª série do Diário da República,
+      n.º 28, de 10 de fevereiro de 2015.
 notes: []
 language: por
 version:

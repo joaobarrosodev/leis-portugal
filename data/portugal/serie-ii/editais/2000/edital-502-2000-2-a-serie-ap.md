@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 6 - 12
   pdf_url: https://files.diariodarepublica.pt/2s/2000/12/298174000/0000600012.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2001-01-27'
+entry_into_force:
+  date: '2001-01-27'
+  rule: 30 dias após a sua publicação
+  method: clausula
+  article: art-63
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

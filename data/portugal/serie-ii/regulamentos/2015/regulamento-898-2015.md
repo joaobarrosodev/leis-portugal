@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 37427 - 37428
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/250000000/3742737428.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-12-24'
+entry_into_force:
+  date: '2015-12-24'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se aos artigos publicados a partir de 1 de
+    janeiro de 2016, salvo o disposto no n.º 2 do artigo 2.º, o qual se aplica aos artigos
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

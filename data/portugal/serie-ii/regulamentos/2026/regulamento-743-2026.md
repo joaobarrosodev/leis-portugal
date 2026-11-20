@@ -23,6 +23,15 @@ publication:
   pages: 466 - 469
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/115000000/0046600469.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pela Assembleia de Freguesia de Buarcos
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

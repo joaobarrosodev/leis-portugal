@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 15252 - 15255
   pdf_url: https://files.diariodarepublica.pt/2s/2008/04/068000000/1525215255.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-04-08'
+entry_into_force:
+  date: '2008-04-08'
+  rule: no dia imediato à sua publicação no Diário da República, tendo efeitos à data da sua aprovação pelo Presidente do
+    IPVC
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

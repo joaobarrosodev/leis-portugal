@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 7321 - 7345
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/034000000/0732107345.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-02-23'
+entry_into_force:
+  date: '2010-02-23'
+  rule: no 5.º dia após a sua publicação
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

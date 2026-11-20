@@ -25,7 +25,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/02/042000000/0725007253.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1631235:por#art-23'
+    detail: 2 - Este regulamento entra imediatamente em vigor substituindo e revogando o [Regulamento n.º 82/2012], publicado
+      no N.º 42 do Diário da República, 2.ª série, de 28 de fevereiro, e o [Regulamento n.º 61/2013], publicado no N.º 33
+      do Diário da República, 2.ª série, de 15 de fevereiro.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:74826285:por#texto'
+    detail: '[Regulamento n.º 82/2012], publicado no Diário da República, n.º 42, 2.ª série, de 28 de fevereiro'
 notes: []
 language: por
 version:

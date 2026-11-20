@@ -23,6 +23,16 @@ publication:
   pages: 10144 - 10148
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/063000000/1014410148.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil subsequente à sua publicação na 2.ª série do Diário da República, e será disponibilizado no sítio
+    do ISLA na Internet
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

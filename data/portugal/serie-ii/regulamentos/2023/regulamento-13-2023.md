@@ -23,6 +23,16 @@ publication:
   pages: 742 - 753
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/004000000/0074200753.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação pela Câmara Municipal e a sua divulgação através de edital e publicação na página
+    eletrónica do Município de Penacova
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

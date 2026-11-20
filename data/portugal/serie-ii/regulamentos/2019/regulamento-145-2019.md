@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4815 - 4819
   pdf_url: https://files.diariodarepublica.pt/2s/2019/02/026000000/0481504819.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-02-21'
+entry_into_force:
+  date: '2019-02-21'
+  rule: quinze dias após a data da sua publicação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

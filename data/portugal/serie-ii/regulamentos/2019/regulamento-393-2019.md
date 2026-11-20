@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 13578 - 13579
   pdf_url: https://files.diariodarepublica.pt/2s/2019/05/085000000/1357813579.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-05-04'
+entry_into_force:
+  date: '2019-05-04'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

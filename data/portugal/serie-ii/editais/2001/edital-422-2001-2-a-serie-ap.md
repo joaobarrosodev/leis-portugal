@@ -23,6 +23,15 @@ publication:
   pages: 51 - 54
   pdf_url: https://files.diariodarepublica.pt/2s/2001/10/253121000/0005100054.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 30 dias úteis após a sua publicação no Diário da República, 2.ª série
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

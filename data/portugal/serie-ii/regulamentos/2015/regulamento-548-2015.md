@@ -23,8 +23,24 @@ publication:
   pages: 22987 - 22990
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/157000000/2298722990.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2015/2016
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:75070785:por#art-27'
+    detail: 1 - Pelo presente regulamento é revogado o [Regulamento n.º 548/2015], publicado no Diário da República, 2.ª série,
+      de 13 de agosto, n.º 157.
 notes: []
 language: por
 version:

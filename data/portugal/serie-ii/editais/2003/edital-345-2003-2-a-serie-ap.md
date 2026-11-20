@@ -23,6 +23,15 @@ publication:
   pages: 105 - 107
   pdf_url: https://files.diariodarepublica.pt/2s/2003/04/094064000/0010500107.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no próximo ano lectivo de 2003-2004
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

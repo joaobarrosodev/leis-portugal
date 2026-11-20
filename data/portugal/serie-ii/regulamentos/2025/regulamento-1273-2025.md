@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 254 - 257
   pdf_url: https://files.diariodarepublica.pt/2s/2025/12/240000000/0025400257.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-12-16'
+entry_into_force:
+  date: '2025-12-16'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 492 - 496
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/085000000/0049200496.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua publicitação no Diário da República, mediante a aprovação, pela Assembleia da Freguesia,
+    da proposta apresentada pela Junta de Freguesia
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

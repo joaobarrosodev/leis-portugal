@@ -23,6 +23,15 @@ publication:
   pages: 626 - 629
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/082000000/0062600629.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Assembleia de Freguesia e publicação nos termos legais
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

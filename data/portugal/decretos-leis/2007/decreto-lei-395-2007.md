@@ -34,7 +34,16 @@ entry_into_force:
   end_date: null
   end_rule: null
 end_of_validity_date: null
-legal_status: in_force
+legal_status: repealed
+legal_status_basis:
+  source: prova_manual
+  dre_status: in_force
+  reason: Revogado por inteiro pelo Decreto-Lei n.º 70/2012, em vigor no 1.º dia do mês seguinte ao da publicação; o DRE regista
+    a revogação e continua a dá-lo em vigor.
+  evidence:
+  - status: repealed
+    provenance: 'prova manual: pt:dre:553660:por'
+    detail: É revogado o Decreto-Lei n.º 395/2007, de 31 de dezembro.
 notes: []
 language: por
 version:
@@ -100,6 +109,12 @@ relationships:
   label: "Revogado, a partir de 01.04.2012, pelo DEC LEI.70/2012.21.03.2012.MEE, DR.IS [58] de 21.03.2012\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2012-553660
   date: '2012-03-21'
+- type: repealed_by
+  target: pt:dre:553660:por
+  label: Revogado por inteiro pelo Decreto-Lei n.º 70/2012, em vigor no 1.º dia do mês seguinte ao da publicação; o DRE regista
+    a revogação e continua a dá-lo em vigor.
+  source: leis-portugal structure (reports/vigencia-manual.jsonl)
+  date: '2012-04-01'
 article_structure:
   article_count: 10
   section_count: 0

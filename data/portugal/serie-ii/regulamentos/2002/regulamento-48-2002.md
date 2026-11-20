@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 21034 - 21034
   pdf_url: https://files.diariodarepublica.pt/2s/2002/12/299000000/2103421034.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-12-28'
+entry_into_force:
+  date: '2002-12-28'
+  rule: no dia seguinte à sua publicação no Diário da República, aplicando-se pela primeira vez à supervisão relativa às contas
+    do exercício de 2002
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

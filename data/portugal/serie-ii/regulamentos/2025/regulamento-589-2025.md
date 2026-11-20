@@ -24,6 +24,15 @@ publication:
   pages: 408 - 413
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/091000000/0040800413.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte à data da sua publicação em “Diário da República.”
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,15 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2017/08/159000000/1801418015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:890219429:por#texto'
+    detail: 1 - É revogado o [Regulamento n.º 450/2017], da Escola Superior de Tecnologia de Viseu, de Provas de Admissão
+      ao Ensino Superior Para Maiores de 23 Anos, publicado no Diário da República, 2.ª série, n.º 159, de 18 de agosto de
+      2017.
 notes: []
 language: por
 version:

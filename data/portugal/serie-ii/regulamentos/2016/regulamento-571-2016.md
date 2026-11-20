@@ -23,6 +23,15 @@ publication:
   pages: 18171 - 18173
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/109000000/1817118173.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos cinco dias após a sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,15 @@ publication:
   pages: 43174 - 43177
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/155000000/4317443177.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo 2010/2011
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

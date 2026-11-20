@@ -24,8 +24,24 @@ publication:
   pages: 14427 - 14432
   pdf_url: https://files.diariodarepublica.pt/2s/2017/07/132000000/1442714432.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano letivo de 2017/2018, inclusive
+  method: clausula
+  article: art-37
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:140210508:por#art-41'
+    detail: É revogado o [Regulamento n.º 363/2017], publicado no Diário da República, 2.ª série, N.º 132, de 11 de julho
+      de 2017.
 notes: []
 language: por
 version:

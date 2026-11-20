@@ -24,6 +24,15 @@ publication:
   pages: 292 - 301
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/071000000/0029200301.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia 1 (um) de janeiro de 2022 (dois mil vinte e dois)
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: durante o ano civil de 2023
 end_of_validity_date: null
 legal_status: unknown
 notes: []

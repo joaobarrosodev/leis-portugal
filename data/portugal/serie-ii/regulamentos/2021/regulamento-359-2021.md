@@ -23,6 +23,15 @@ publication:
   pages: 159 - 167
   pdf_url: https://files.diariodarepublica.pt/2s/2021/04/079000000/0015900167.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte ao da sua publicação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

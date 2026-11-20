@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 9938 - 9940
   pdf_url: https://files.diariodarepublica.pt/2s/2019/03/062000000/0993809940.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-03-29'
+entry_into_force:
+  date: '2019-03-29'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:928855684:por#art-16'
+    detail: É revogado o [Regulamento n.º 294/2019], de 28 de março, publicado no n.º 62, da 2.ª série do Diário da República.
 notes: []
 language: por
 version:

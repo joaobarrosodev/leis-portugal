@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 20 - 27
   pdf_url: https://files.diariodarepublica.pt/2s/2004/02/030015000/0002000027.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-02-20'
+entry_into_force:
+  date: '2004-02-20'
+  rule: 15 dias após a sua publicação, nos termos do disposto no n.º 4 do artigo 29.º da Lei n.º 42/98, de 6 de Agosto
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

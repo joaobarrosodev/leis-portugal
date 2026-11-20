@@ -23,6 +23,15 @@ publication:
   pages: 11291 - 11293
   pdf_url: https://files.diariodarepublica.pt/2s/2006/07/135000000/1129111293.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir do ano lectivo de 2006-2007, inclusive
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

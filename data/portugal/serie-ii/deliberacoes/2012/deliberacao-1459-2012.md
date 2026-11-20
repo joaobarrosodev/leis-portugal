@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 34842 - 34846
   pdf_url: https://files.diariodarepublica.pt/2s/2012/10/204000000/3484234846.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-10-23'
+entry_into_force:
+  date: '2012-10-23'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 70 - 70
   pdf_url: https://files.diariodarepublica.pt/2s/2006/06/111055000/0007000070.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: n-1
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

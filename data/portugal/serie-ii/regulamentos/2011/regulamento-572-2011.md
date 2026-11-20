@@ -23,6 +23,15 @@ publication:
   pages: 42490 - 42501
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/206000000/4249042501.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quinze dias após a sua publicitação nos termos legais
+  method: clausula
+  article: art-88
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 87 - 90
   pdf_url: https://files.diariodarepublica.pt/2s/2005/06/110079000/0008700090.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-06-23'
+entry_into_force:
+  date: '2005-06-23'
+  rule: '15 dias após a publicação do respectivo edital no Diário da República, 2.ª série, ficando revogadas quaisquer deliberações,
+    posturas ou disposições regulamentares em vigor na área desta freguesia que '
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

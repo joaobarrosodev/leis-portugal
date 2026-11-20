@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 17993 - 17999
   pdf_url: https://files.diariodarepublica.pt/2s/2018/06/123000000/1799317999.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-06-29'
+entry_into_force:
+  date: '2018-06-29'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-36
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:911688722:por#art-56'
+    detail: c) O [Regulamento n.º 392/2018], de 28 de junho.
 notes: []
 language: por
 version:

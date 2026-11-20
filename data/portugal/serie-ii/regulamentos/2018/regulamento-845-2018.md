@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 34112 - 34114
   pdf_url: https://files.diariodarepublica.pt/2s/2018/12/244000000/3411234114.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-12-20'
+entry_into_force:
+  date: '2018-12-20'
+  rule: no dia seguinte à sua publicação no Diário da República, aplicando-se a partir do ano letivo 2018/2019
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 92 - 98
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/192000000/0009200098.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-05'
+entry_into_force:
+  date: '2022-10-05'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:893148169:por#art-17'
+    detail: 1 - É revogado o [Regulamento n.º 921/2022], publicado no Diário da República, 2.ª série, n.º 192, de 4 de outubro.
 notes: []
 language: por
 version:

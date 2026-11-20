@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 467 - 467
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/006000000/0046700467.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-12-24'
+entry_into_force:
+  date: '2024-12-24'
+  rule: a 24 de dezembro de 2024
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,6 +24,16 @@ publication:
   pages: 4698 - 4701
   pdf_url: https://files.diariodarepublica.pt/2s/2019/02/025000000/0469804701.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil ao da sua publicação no Diário da República, e no sítio oficial do Município, na internet, sem
+    prejuízo dos efeitos retroativos atribuídos pelo artigo 12.º do presente Regulamento
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

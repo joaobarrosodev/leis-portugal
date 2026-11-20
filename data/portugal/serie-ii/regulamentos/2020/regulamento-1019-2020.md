@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 265 - 296
   pdf_url: https://files.diariodarepublica.pt/2s/2020/11/223000000/0026500296.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-12-01'
+entry_into_force:
+  date: '2020-12-01'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-86
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

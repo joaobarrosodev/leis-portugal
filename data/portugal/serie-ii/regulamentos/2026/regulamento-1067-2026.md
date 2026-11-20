@@ -24,6 +24,15 @@ publication:
   pages: 256 - 263
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/154000000/0025600263.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua homologação pelo/a Presidente ESEULisboa, sendo aplicável a partir do ano letivo de 2026-2027
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

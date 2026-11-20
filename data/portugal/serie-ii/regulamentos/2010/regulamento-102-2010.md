@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7603 - 7606
   pdf_url: https://files.diariodarepublica.pt/2s/2010/02/035000000/0760307606.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-01-01'
+entry_into_force:
+  date: '2010-01-01'
+  rule: em 1 de Janeiro de 2010, após a sua publicação em edital a afixar no edifício da sede da Freguesia de Montenegro
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

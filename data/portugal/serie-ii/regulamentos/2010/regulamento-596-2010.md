@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 37756 - 37793
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/134000000/3775637793.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-01'
+entry_into_force:
+  date: '2010-05-01'
+  rule: a 1 de Maio de 2010
+  method: clausula
+  article: art-42
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

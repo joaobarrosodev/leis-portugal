@@ -23,6 +23,15 @@ publication:
   pages: 29262 - 29264
   pdf_url: https://files.diariodarepublica.pt/2s/2018/10/210000000/2926229264.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: depois de decorridos quinze dias após a sua publicação, nos termos legais
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

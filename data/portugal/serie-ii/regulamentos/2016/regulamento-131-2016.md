@@ -23,6 +23,15 @@ publication:
   pages: 4549 - 4553
   pdf_url: https://files.diariodarepublica.pt/2s/2016/02/025000000/0454904553.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos quinze dias úteis sobre a sua publicitação e publicação nos termos legais
+  method: clausula
+  article: art-40
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

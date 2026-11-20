@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 39026 - 39028
   pdf_url: https://files.diariodarepublica.pt/2s/2010/07/139000000/3902639028.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-07-25'
+entry_into_force:
+  date: '2010-07-25'
+  rule: no prazo de 5 dias após a data da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

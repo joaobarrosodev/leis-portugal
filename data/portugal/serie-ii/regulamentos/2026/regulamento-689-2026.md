@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 469 - 484
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/106000000/0046900484.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-06-03'
+entry_into_force:
+  date: '2026-06-03'
+  rule: no dia seguinte ao da sua publicação, revogando o Regulamento Municipal de Apoio ao Associativismo sem Fins Lucrativos
+    da Câmara Municipal da Calheta
+  method: clausula
+  article: art-34
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

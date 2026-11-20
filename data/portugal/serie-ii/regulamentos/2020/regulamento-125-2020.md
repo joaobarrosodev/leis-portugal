@@ -23,6 +23,15 @@ publication:
   pages: 471 - 473
   pdf_url: https://files.diariodarepublica.pt/2s/2020/02/031000000/0047100473.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação em Assembleia de Freguesia e depois da publicação deste no Diário da República, 2.ª série
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

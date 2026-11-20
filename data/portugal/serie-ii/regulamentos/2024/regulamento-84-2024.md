@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 489 - 496
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/015000000/0048900496.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-01-23'
+entry_into_force:
+  date: '2024-01-23'
+  rule: no dia seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:918366153:por#art-5'
+    detail: É revogado o [Regulamento n.º 84/2024], publicado no Diário da República, 2.ª série, n.º 15, de 22 de janeiro
+      de 2024.
 notes: []
 language: por
 version:

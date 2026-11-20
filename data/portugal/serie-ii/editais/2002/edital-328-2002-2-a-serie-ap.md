@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 34 - 55
   pdf_url: https://files.diariodarepublica.pt/2s/2002/07/163091000/0003400055.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-08-01'
+entry_into_force:
+  date: '2002-08-01'
+  rule: 15 dias após a sua publicação no Diário da República, considerando-se revogado o anterior Regulamento de Abastecimento
+    de Água ao Concelho de Penafiel
+  method: clausula
+  article: art-236
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

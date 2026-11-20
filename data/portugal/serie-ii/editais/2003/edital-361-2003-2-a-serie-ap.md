@@ -23,6 +23,15 @@ publication:
   pages: 71 - 78
   pdf_url: https://files.diariodarepublica.pt/2s/2003/05/104068000/0007100078.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 15.º dia subsequente ao da sua aprovação
+  method: clausula
+  article: art-52
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 87 - 108
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/224000000/0008700108.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua homologação
+  method: clausula
+  article: art-54
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

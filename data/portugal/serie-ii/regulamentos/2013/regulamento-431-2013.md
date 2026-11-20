@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 33516 - 33519
   pdf_url: https://files.diariodarepublica.pt/2s/2013/11/221000000/3351633519.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-11-15'
+entry_into_force:
+  date: '2013-11-15'
+  rule: no dia seguinte ao da publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:116114773:por#art-20'
+    detail: É revogado o [Regulamento n.º 431/2013], publicado no Diário da República, 2.ª série, n.º 221, de 14 de novembro
+      de 2013.
 notes: []
 language: por
 version:

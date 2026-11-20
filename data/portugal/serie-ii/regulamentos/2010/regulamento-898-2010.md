@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 62136 - 62147
   pdf_url: https://files.diariodarepublica.pt/2s/2010/12/246000000/6213662147.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-12-23'
+entry_into_force:
+  date: '2010-12-23'
+  rule: no dia seguinte à sua publicação no Diário da República, na forma prevista no artigo 19.º do Decreto-Lei n.º 305/2009,
+    de 23 de Outubro
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

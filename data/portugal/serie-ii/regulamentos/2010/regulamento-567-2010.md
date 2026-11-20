@@ -24,6 +24,15 @@ publication:
   pages: 35581 - 35607
   pdf_url: https://files.diariodarepublica.pt/2s/2010/06/124000000/3558135607.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte, após decorridos quinze dias da sua publicação nos termos legais
+  method: clausula
+  article: art-84
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

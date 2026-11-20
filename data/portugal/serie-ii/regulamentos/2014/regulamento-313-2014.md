@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18416 - 18418
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/135000000/1841618418.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-06-28'
+entry_into_force:
+  date: '2014-06-28'
+  rule: no dia 28/06/2014
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

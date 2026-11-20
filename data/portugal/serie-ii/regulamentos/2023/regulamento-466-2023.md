@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/077000000/0023800241.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:854546357:por#texto'
+    detail: O presente regulamento entra em vigor no ano letivo de 2023/2024, revogando o [Regulamento n.º 466/2023], de 19
+      de abril.
 notes: []
 language: por
 version:

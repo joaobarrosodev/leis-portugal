@@ -24,8 +24,23 @@ publication:
   pages: 12212 - 12213
   pdf_url: https://files.diariodarepublica.pt/2s/2015/05/094000000/1221212213.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:73823574:por#art-9'
+    detail: É revogado o [Regulamento n.º 252/2015] publicado na 2.ª série do Diário da República a 15 de maio.
 notes: []
 language: por
 version:

@@ -23,6 +23,16 @@ publication:
   pages: 25043 - 25071
   pdf_url: https://files.diariodarepublica.pt/2s/2016/08/153000000/2504325071.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a sua publicação na 2.ª série do "Diário da República" e afixação nos lugares habituais, nos
+    termos do n.º 4 do artigo 55.º da Lei n.º 2/2007, de 15 de janeiro
+  method: clausula
+  article: art-122
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

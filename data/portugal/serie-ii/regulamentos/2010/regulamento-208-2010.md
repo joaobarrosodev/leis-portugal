@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/03/047000000/1056010564.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:867194157:por#art-20'
+    detail: O presente Regulamento revoga o [Regulamento n.º 208/2010], publicado no Diário da República, 2.ª serie, n.º 47,
+      de 9 de março.
 notes: []
 language: por
 version:

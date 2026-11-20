@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 10620 - 10623
   pdf_url: https://files.diariodarepublica.pt/2s/2016/03/061000000/1062010623.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-03-30'
+entry_into_force:
+  date: '2016-03-30'
+  rule: no dia seguinte ao da sua publicação no Diário da República e no sítio eletrónico da Ordem dos Arquitetos
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

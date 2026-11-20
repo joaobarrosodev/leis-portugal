@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 36010 - 36025
   pdf_url: https://files.diariodarepublica.pt/2s/2016/12/233000000/3601036025.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2017-01-02'
+entry_into_force:
+  date: '2017-01-02'
+  rule: no dia 2 de janeiro de 2017
+  method: clausula
+  article: art-45
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

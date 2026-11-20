@@ -24,6 +24,15 @@ publication:
   pages: 491 - 493
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/156000000/0049100493.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação em reunião de Junta, em sessão da Assembleia de Freguesia e publicitação nos termos legais
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

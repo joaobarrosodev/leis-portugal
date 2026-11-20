@@ -23,6 +23,16 @@ publication:
   pages: 477 - 481
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/013000000/0047700481.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na data da sua aprovação, considerando-se ratificados todos os atos praticados no seu âmbito, desde aquela data até
+    à data da respetiva publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

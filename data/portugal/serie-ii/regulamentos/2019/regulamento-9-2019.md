@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 437 - 438
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/003000000/0043700438.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-02-01'
+entry_into_force:
+  date: '2019-02-01'
+  rule: no primeiro dia do mês seguinte à sua publicação
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

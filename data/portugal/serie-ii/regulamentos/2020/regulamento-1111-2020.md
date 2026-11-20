@@ -23,6 +23,15 @@ publication:
   pages: 191 - 202
   pdf_url: https://files.diariodarepublica.pt/2s/2020/12/248000000/0019100202.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pela Fundação para a Ciência e Tecnologia e no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-35
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

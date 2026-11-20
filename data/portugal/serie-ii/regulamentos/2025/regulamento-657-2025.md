@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 503 - 510
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/098000000/0050300510.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-23'
+entry_into_force:
+  date: '2025-05-23'
+  rule: no dia seguinte à sua publicação, após aprovação em reunião de executivo da junta de freguesia e deliberação da assembleia
+    de freguesia
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

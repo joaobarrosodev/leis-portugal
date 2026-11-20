@@ -23,6 +23,16 @@ publication:
   pages: 7813 - 7816
   pdf_url: https://files.diariodarepublica.pt/2s/2013/02/042000000/0781307816.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo após a sua publicação no Diário da República e é imediatamente aplicável aos procedimentos pendentes, quando
+    o seu regime se revele, em concreto, mais favorável ao estudante e melhor garanta a su
+  method: clausula
+  article: art-31
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 29183 - 29186
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/102000000/2918329186.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-05-26'
+entry_into_force:
+  date: '2010-05-26'
+  rule: na data da sua publicação, revogando todas as disposições anteriores que disponham em contrário ao ora regulamentado
+  method: clausula
+  article: n-2
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

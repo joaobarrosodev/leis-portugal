@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 411 - 422
   pdf_url: https://files.diariodarepublica.pt/2s/2021/02/037000000/0041100422.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-02-24'
+entry_into_force:
+  date: '2021-02-24'
+  rule: no dia seguinte ao da sua publicação no Diário da República e será publicado por edital e no sítio institucional de
+    internet do Município de Montemor-o-Velho
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: à data da entrada em vigor da Lei, Lei n.º 51/2018, de 16 de agosto
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

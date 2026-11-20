@@ -23,6 +23,15 @@ publication:
   pages: 17690 - 17693
   pdf_url: https://files.diariodarepublica.pt/2s/2005/12/242000000/1769017693.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua aprovação pelo senado da Universidade do Porto e publicação no Diário da República
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

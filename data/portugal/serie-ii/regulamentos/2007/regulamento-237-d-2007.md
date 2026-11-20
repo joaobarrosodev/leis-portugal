@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 26060-(86) a 26060-(113)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/09/172000001/0008600113.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-01-01'
+entry_into_force:
+  date: '2008-01-01'
+  rule: no dia 1 de Janeiro de 2008
+  method: clausula
+  article: art-67
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

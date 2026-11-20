@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 45638 - 45642
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/169000000/4563845642.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-09-15'
+entry_into_force:
+  date: '2010-09-15'
+  rule: 15 dias após a sua publicação nos termos legais
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

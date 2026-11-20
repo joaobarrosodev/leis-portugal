@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 654 - 659
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/152000000/0065400659.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-08-07'
+entry_into_force:
+  date: '2024-08-07'
+  rule: após a sua publicação no dia útil seguinte ao da sua Publicação no Diário da República
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

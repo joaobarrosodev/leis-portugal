@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18650 - 18651
   pdf_url: https://files.diariodarepublica.pt/2s/2004/12/291000000/1865018651.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-12-14'
+entry_into_force:
+  date: '2004-12-14'
+  rule: na data da sua publicação
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

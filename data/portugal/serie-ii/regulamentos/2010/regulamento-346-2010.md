@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18838 - 18841
   pdf_url: https://files.diariodarepublica.pt/2s/2010/04/070000000/1883818841.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2010-04-27'
+entry_into_force:
+  date: '2010-04-27'
+  rule: 15 dias após a sua publicação em edital a afixar no edifício da sede da Freguesia
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

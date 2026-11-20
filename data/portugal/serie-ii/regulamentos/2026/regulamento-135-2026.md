@@ -23,6 +23,15 @@ publication:
   pages: 439 - 480
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/027000000/0043900480.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-87
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 618 - 620
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/196000000/0061800620.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da sua aprovação formal em Assembleia de Freguesia
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

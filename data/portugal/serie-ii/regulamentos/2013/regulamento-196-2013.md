@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 16954 - 16958
   pdf_url: https://files.diariodarepublica.pt/2s/2013/05/102000000/1695416958.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-05-29'
+entry_into_force:
+  date: '2013-05-29'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

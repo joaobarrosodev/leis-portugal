@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 4948-4957
   pdf_url: https://files.diariodarepublica.pt/bases_especiais/legacor/2022/04/29/182870090.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-30'
+entry_into_force:
+  date: '2022-04-30'
+  rule: no dia imediato ao da sua publicação no Jornal Oficial e
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: à data do início de vigência do primeiro contrato de concessão da exploração do estacionamento tarifado que
+    seja outorgado após a sua entrada em vigor
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

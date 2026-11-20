@@ -23,6 +23,15 @@ publication:
   pages: 278 - 298
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/223000000/0027800298.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Assembleia de Freguesia de Gemeses
+  method: clausula
+  article: art-72
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

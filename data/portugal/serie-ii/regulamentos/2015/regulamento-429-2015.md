@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19577 - 19581
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/140000000/1957719581.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-09-01'
+entry_into_force:
+  date: '2015-09-01'
+  rule: em 01 de setembro de 2015
+  method: clausula
+  article: art-30
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 190 - 190
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/174000000/0019000190.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2027-01-01'
+entry_into_force:
+  date: '2027-01-01'
+  rule: em 1 de janeiro de 2027, sendo revogada, nessa data, a Deliberação n.º 873/2024, de 8 de julho, sem prejuízo da sua
+    aplicação aos procedimentos iniciados
+  method: clausula
+  article: n-4
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

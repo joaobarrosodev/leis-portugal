@@ -23,6 +23,15 @@ publication:
   pages: 18695 - 18697
   pdf_url: https://files.diariodarepublica.pt/2s/2016/06/112000000/1869518697.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir das candidaturas ao ano letivo de 2016-2017
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

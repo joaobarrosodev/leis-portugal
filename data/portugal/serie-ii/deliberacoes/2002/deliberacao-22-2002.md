@@ -23,6 +23,15 @@ publication:
   pages: 863 - 863
   pdf_url: https://files.diariodarepublica.pt/2s/2002/01/012000000/0086300863.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir de Janeiro de 2002
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 4360 - 4368
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/019000000/0436004368.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-02-12'
+entry_into_force:
+  date: '2013-02-12'
+  rule: 15 dias após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-53
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 582 - 598
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/071000000/0058200598.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-12'
+entry_into_force:
+  date: '2022-04-12'
+  rule: no dia seguinte ao da sua publicação no Diário da República, ficando disponível para consulta no sítio institucional
+    do Município de Oliveira de Azeméis
+  method: clausula
+  article: art-61
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

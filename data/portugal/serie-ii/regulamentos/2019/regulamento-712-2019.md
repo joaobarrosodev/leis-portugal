@@ -23,6 +23,16 @@ publication:
   pages: 159 - 166
   pdf_url: https://files.diariodarepublica.pt/2s/2019/09/173000000/0015900166.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte, ao da sua publicação, nos termos, e para os efeitos, do disposto no artigo 56.º, do
+    Anexo I da Lei n.º 75/2013, de 12 de setembro
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

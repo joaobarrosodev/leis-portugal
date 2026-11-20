@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 675 - 684
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/006000000/0067500684.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-01-16'
+entry_into_force:
+  date: '2021-01-16'
+  rule: no quinto dia seguinte à data da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

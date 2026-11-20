@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 804 - 806
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/245000000/0080400806.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-12-19'
+entry_into_force:
+  date: '2024-12-19'
+  rule: no dia seguinte ao da sua publicação, nos termos legais
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

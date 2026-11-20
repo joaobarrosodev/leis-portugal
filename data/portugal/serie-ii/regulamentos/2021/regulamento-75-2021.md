@@ -23,6 +23,15 @@ publication:
   pages: 307 - 309
   pdf_url: https://files.diariodarepublica.pt/2s/2021/01/013000000/0030700309.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte ao da sua publicação
+  method: clausula
+  article: n-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

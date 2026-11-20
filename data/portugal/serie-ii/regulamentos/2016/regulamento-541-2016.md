@@ -23,6 +23,16 @@ publication:
   pages: 17120 - 17121
   pdf_url: https://files.diariodarepublica.pt/2s/2016/05/104000000/1712017121.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da sua publicação, encontrando-se disponível no sítio da Freguesia na Internet em longueiraalmograve.com
+    e afixado através de edital nos lugares de estilo
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

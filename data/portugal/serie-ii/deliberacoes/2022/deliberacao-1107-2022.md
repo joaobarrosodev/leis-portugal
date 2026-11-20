@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/201000000/0010900110.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:871394936:por#n-5'
+    detail: É revogada a [Deliberação n.º 1107/2022] de 18 de outubro, que aprovou o regulamento transitório do exame para
+      a obtenção de carta de maquinista.
 notes: []
 language: por
 version:

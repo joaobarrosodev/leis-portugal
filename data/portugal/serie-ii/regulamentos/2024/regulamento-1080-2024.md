@@ -24,6 +24,16 @@ publication:
   pages: 515 - 544
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/190000000/0051500544.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte após a sua publicação no Diário da República, ficando automaticamente revogadas a partir dessa data
+    a estrutura e organização dos serviços anteriormente aprovadas
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

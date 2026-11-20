@@ -23,6 +23,16 @@ publication:
   pages: 318 - 325
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/224000000/0031800325.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte após a publicitação via edital nos locais e sítio da internet oficial do Município de Vila do
+    Porto
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

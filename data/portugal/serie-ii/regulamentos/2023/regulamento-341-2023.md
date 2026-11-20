@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 293 - 300
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/055000000/0029300300.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-03-18'
+entry_into_force:
+  date: '2023-03-18'
+  rule: no dia seguinte ao da sua publicação no Diário da República, sem prejuízo de publicação no Boletim Municipal e na
+    página institucional do município, em www.cm-amadora.pt
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

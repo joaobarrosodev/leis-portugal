@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 410-(4) a 410-(20)
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/250000001/0000400020.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-12-30'
+entry_into_force:
+  date: '2022-12-30'
+  rule: no dia seguinte ao da respetiva publicação no Diário da República, e revoga o Regulamento n.º 1034/2020, publicado
+    no Diário da República, 2.ª série, n.º 253, de 31 de dezembro de 2020
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

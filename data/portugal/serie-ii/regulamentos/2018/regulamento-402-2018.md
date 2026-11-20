@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 18495 - 18501
   pdf_url: https://files.diariodarepublica.pt/2s/2018/07/126000000/1849518501.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2018-07-04'
+entry_into_force:
+  date: '2018-07-04'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1078476409:por#art-37'
+    detail: É revogado o [Regulamento n.º 402/2018] denominado “Regulamento de Apoio ao Movimento Associativo”, publicado
+      na 2.ª série do Diário da República, n.º 216, de 03 de julho de 2018.
 notes: []
 language: por
 version:

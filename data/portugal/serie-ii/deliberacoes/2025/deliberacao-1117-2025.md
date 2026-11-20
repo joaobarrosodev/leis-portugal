@@ -23,6 +23,16 @@ publication:
   pages: 154 - 177
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/168000000/0015400177.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia da sua aprovação, considerando-se ratificados todos os atos praticados no seu âmbito, a partir da sua aprovação
+    até à data da respetiva publicação no Diário da República
+  method: clausula
+  article: art-3
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

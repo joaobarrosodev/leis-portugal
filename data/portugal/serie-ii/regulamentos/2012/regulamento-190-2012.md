@@ -23,6 +23,16 @@ publication:
   pages: 18370 - 18372
   pdf_url: https://files.diariodarepublica.pt/2s/2012/05/100000000/1837018372.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após publicação no Diário da República, revogando o Regulamento n.º 664/2010, homologado a 19 de fevereiro de 2010
+    e publicado na 2.ª série do Diário da República n.º 152 de 6 de agosto de 2010, bem c
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

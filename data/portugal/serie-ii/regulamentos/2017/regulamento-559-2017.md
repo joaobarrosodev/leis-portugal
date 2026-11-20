@@ -23,6 +23,16 @@ publication:
   pages: 23700 - 23703
   pdf_url: https://files.diariodarepublica.pt/2s/2017/10/200000000/2370023703.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a data da sua publicitação, mediante edital a afixar nos locais próprios, incluindo divulgação no sito
+    de Internet da UTAD
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

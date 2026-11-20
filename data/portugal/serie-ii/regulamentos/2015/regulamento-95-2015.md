@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5550 - 5569
   pdf_url: https://files.diariodarepublica.pt/2s/2015/03/045000000/0555005569.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-03-06'
+entry_into_force:
+  date: '2015-03-06'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-117
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

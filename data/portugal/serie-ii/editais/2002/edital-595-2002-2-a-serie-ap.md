@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 51 - 62
   pdf_url: https://files.diariodarepublica.pt/2s/2002/12/287161000/0005100062.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2002-12-27'
+entry_into_force:
+  date: '2002-12-27'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-85
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

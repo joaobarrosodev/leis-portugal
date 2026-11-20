@@ -23,6 +23,15 @@ publication:
   pages: 404 - 415
   pdf_url: https://files.diariodarepublica.pt/2s/2019/08/151000000/0040400415.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quinze dias úteis após a sua publicação
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

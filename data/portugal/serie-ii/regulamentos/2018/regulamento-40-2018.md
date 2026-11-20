@@ -23,6 +23,15 @@ publication:
   pages: 2123 - 2202
   pdf_url: https://files.diariodarepublica.pt/2s/2018/01/012000000/0212302202.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: em data posterior a 01 de janeiro de 2018, quinze dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-56
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

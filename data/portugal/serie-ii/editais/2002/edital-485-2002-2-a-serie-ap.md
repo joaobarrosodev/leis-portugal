@@ -23,6 +23,15 @@ publication:
   pages: 81 - 82
   pdf_url: https://files.diariodarepublica.pt/2s/2002/10/247135000/0008100082.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: logo que aprovado pela Assembleia Municipal
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

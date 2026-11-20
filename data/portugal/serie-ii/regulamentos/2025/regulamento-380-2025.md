@@ -23,6 +23,16 @@ publication:
   pages: 652 - 662
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/056000000/0065200662.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a sua publicitação nos termos legais, devendo ser afixado, a todo o tempo, na Escola Básica e Secundária
+    das Lajes do Pico, nas Juntas de Freguesia do Concelho e publicado no site d
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

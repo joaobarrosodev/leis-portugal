@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 92 - 100
   pdf_url: https://files.diariodarepublica.pt/2s/2003/03/068045000/0009200100.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-03-21'
+entry_into_force:
+  date: '2003-03-21'
+  rule: na data da respectiva publicação, considerando-se revogado o Regulamento do Serviço de Abastecimento de Água do Concelho
+    de Viseu, aprovado pela Assembleia Municipal, em reunião de 8 de Novembro de 19
+  method: clausula
+  article: art-58
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

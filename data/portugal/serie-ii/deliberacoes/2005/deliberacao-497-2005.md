@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 5568 - 5570
   pdf_url: https://files.diariodarepublica.pt/2s/2005/04/068000000/0556805570.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2005-04-07'
+entry_into_force:
+  date: '2005-04-07'
+  rule: na data da sua publicação no Diário da República, aplicando-se aos cursos de mestrado e doutoramento já em funcionamento
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

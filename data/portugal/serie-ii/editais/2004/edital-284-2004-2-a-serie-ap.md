@@ -23,6 +23,15 @@ publication:
   pages: 94 - 113
   pdf_url: https://files.diariodarepublica.pt/2s/2004/05/104056000/0009400113.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 90 dias após a sua afixação em edital nos lugares de estilo de todas as freguesias do concelho
+  method: clausula
+  article: art-156
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

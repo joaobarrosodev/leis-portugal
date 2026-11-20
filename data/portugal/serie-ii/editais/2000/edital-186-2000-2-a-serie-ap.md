@@ -23,6 +23,15 @@ publication:
   pages: 7 - 9
   pdf_url: https://files.diariodarepublica.pt/2s/2000/05/120078000/0000700009.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo 2000-2001
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

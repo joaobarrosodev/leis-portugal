@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 7823 - 7824
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/030000000/0782307824.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-02-12'
+entry_into_force:
+  date: '2011-02-12'
+  rule: no dia seguinte ao da sua publicação em Diário da República e revoga o Regulamento n.º 115/2009, de 3 de Março, publicado
+    no Diário da República, 2.ª série, n.º 47, de 9 de Março de 2009
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

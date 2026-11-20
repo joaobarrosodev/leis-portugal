@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18192 - 18194
   pdf_url: https://files.diariodarepublica.pt/2s/2012/05/099000000/1819218194.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-05-22'
+entry_into_force:
+  date: '2012-05-22'
+  rule: após a publicação nos termos legais
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

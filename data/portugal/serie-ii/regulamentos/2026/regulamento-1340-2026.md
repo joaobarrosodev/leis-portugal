@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 615 - 622
   pdf_url: https://files.diariodarepublica.pt/2s/2026/10/199000000/0061500622.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-10-15'
+entry_into_force:
+  date: '2026-10-15'
+  rule: no dia seguinte ao da sua publicação oficial no Diário da República, após aprovação pelos órgãos competentes
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

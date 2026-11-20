@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14490-(98) a 14490-(103)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/05/103000002/0009800103.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2007-05-30'
+entry_into_force:
+  date: '2007-05-30'
+  rule: no dia seguinte à data da respectiva publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

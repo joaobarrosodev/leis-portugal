@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 53 - 60
   pdf_url: https://files.diariodarepublica.pt/2s/2003/10/233150000/0005300060.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2003-10-23'
+entry_into_force:
+  date: '2003-10-23'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

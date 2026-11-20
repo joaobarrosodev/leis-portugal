@@ -23,6 +23,15 @@ publication:
   pages: 47 - 48
   pdf_url: https://files.diariodarepublica.pt/2s/2004/10/236122000/0004700048.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: ''
+  method: clausula
+  article: null
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

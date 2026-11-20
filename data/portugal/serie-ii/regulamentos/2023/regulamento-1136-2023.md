@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 176 - 177
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/206000000/0017600177.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2023-10-25'
+entry_into_force:
+  date: '2023-10-25'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-2
+  effects_date: null
+  effects_rule: quanto às candidaturas relativas ao ano letivo de 2024/2025
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

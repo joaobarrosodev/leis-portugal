@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/076000000/0010400109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1164280299:por#n-6'
+    detail: 6 - A presente deliberação revoga a [Deliberação n.º 474/2026], de 26 de fevereiro, publicada na 2.ª série do
+      Diário da República, n.º 76/2026, de 20 de abril.
 notes: []
 language: por
 version:

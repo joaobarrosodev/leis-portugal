@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 525 - 532
   pdf_url: https://files.diariodarepublica.pt/2s/2026/05/104000000/0052500532.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-05-30'
+entry_into_force:
+  date: '2026-05-30'
+  rule: no dia seguinte ao da sua publicação no portal oficial da Freguesia, após a sua aprovação final pela Assembleia de
+    Freguesia, em conformidade com a Lei
+  method: clausula
+  article: art-28
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 33290 - 33301
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/215000000/3329033301.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-11-24'
+entry_into_force:
+  date: '2016-11-24'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-78
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

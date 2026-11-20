@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2015/06/105000000/1405414056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:161864480:por#art-26'
+    detail: a) [Regulamento n.º 288/2015], publicado no Diário da República n.º 105 da 2.ª série de 1 de junho de 2015 - Alteração
+      ao Regulamento para a Atribuição de Apoio a Estratos Sociais Desfavorecidos do Município de Mogadouro
 notes: []
 language: por
 version:

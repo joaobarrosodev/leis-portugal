@@ -24,7 +24,13 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2021/08/158000000/0012100124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1087366185:por#art-11'
+    detail: É revogado o [Regulamento n.º 759/2021], de 16 de agosto.
 notes: []
 language: por
 version:

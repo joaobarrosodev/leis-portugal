@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 31 - 32
   pdf_url: https://files.diariodarepublica.pt/2s/2004/06/131074000/0003100032.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-06-14'
+entry_into_force:
+  date: '2004-06-14'
+  rule: no décimo dia após a publicação do edital dando publicidade da respectiva deliberação da Assembleia Municipal e da
+    Câmara Municipal de Castelo de Vide, que o aprovar
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

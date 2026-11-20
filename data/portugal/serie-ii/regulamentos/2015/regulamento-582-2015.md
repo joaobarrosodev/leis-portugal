@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 24269 - 24272
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/164000000/2426924272.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-08-29'
+entry_into_force:
+  date: '2015-08-29'
+  rule: 5 dias após a sua publicação no Diário da República, sendo também publicitado nos termos do artigo 56.º da Lei n.º
+    75/2013, de 12 de setembro
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

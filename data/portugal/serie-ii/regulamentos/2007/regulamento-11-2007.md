@@ -23,6 +23,15 @@ publication:
   pages: 1888 - 1889
   pdf_url: https://files.diariodarepublica.pt/2s/2007/01/016000000/0188801889.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua aprovação em conselho geral
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

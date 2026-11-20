@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 299 - 304
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/085000000/0029900304.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-08'
+entry_into_force:
+  date: '2022-05-08'
+  rule: cinco dias após a sua publicação no Diário da República, em edital a afixar no edifício sede da Junta de Freguesia
+    e no site da Freguesia, após aprovação da Assembleia de Freguesia, nos termos do disp
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

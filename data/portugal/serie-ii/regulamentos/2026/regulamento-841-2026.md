@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 329 - 334
   pdf_url: https://files.diariodarepublica.pt/2s/2026/07/128000000/0032900334.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-07'
+entry_into_force:
+  date: '2026-07-07'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: '2026-07-06'
+  effects_rule: após a sua publicação no Diário da República
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

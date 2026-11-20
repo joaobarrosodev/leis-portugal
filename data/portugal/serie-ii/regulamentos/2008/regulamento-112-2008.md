@@ -23,6 +23,16 @@ publication:
   pages: 9333 - 9354
   pdf_url: https://files.diariodarepublica.pt/2s/2008/03/046000000/0933309354.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia em que entrar em vigor a lei n.º 60/2007, de 4 de Setembro ou no dia seguinte ao da sua publicação no Diário
+    da República, se esta vier a ocorrer em data posterior
+  method: clausula
+  article: art-92
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

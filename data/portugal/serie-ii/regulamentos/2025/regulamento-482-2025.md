@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 364 - 369
   pdf_url: https://files.diariodarepublica.pt/2s/2025/04/071000000/0036400369.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-04-11'
+entry_into_force:
+  date: '2025-04-11'
+  rule: no dia seguinte à data da sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

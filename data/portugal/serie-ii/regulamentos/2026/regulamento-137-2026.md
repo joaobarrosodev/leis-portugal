@@ -23,6 +23,15 @@ publication:
   pages: 494 - 500
   pdf_url: https://files.diariodarepublica.pt/2s/2026/02/027000000/0049400500.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após a sua aprovação pela Câmara Municipal e vigoram pelo tempo necessário à concretização das iniciativas aqui referidas
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

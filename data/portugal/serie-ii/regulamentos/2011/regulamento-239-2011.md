@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 16824 - 16827
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/071000000/1682416827.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-04-12'
+entry_into_force:
+  date: '2011-04-12'
+  rule: no dia seguinte ao da sua publicação no Diário da República, podendo ser alterado em qualquer altura, mediante a aprovação
+    pelo Conselho Geral
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

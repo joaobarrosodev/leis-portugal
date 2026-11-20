@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 25934 - 25942
   pdf_url: https://files.diariodarepublica.pt/2s/2014/10/196000000/2593425942.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-10-11'
+entry_into_force:
+  date: '2014-10-11'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-38
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:128728502:por#art-37'
+    detail: É revogado o [Regulamento n.º 435/2014], (Regulamento de Avaliação do Desempenho de Docentes do ISCTE - Instituto
+      Universitário de Lisboa), publicado no Diário da República, 2.ª série n.º 196, de 10 de outubro.
 notes: []
 language: por
 version:

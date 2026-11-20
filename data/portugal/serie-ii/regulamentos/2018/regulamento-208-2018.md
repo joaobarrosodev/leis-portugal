@@ -23,6 +23,15 @@ publication:
   pages: 9726 - 9727
   pdf_url: https://files.diariodarepublica.pt/2s/2018/04/067000000/0972609727.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2017/2018, 2.º Semestre
+  method: clausula
+  article: art-9
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

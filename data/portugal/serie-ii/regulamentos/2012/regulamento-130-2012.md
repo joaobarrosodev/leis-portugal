@@ -23,6 +23,16 @@ publication:
   pages: 11241 - 11249
   pdf_url: https://files.diariodarepublica.pt/2s/2012/03/063000000/1124111249.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 (quinze) dias após a sua publicação, considerando-se revogado o anterior Regulamento de Distribuição de Água ao
+    Concelho de Fafe
+  method: clausula
+  article: art-57
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

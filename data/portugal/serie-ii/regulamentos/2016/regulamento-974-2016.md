@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 31964 - 31967
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/206000000/3196431967.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-27'
+entry_into_force:
+  date: '2016-10-27'
+  rule: no dia seguinte à sua publicação no Diário da República e no site institucional do Município de Bragança
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

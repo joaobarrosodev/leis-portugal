@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 35045 - 35059
   pdf_url: https://files.diariodarepublica.pt/2s/2012/10/206000000/3504535059.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-11-08'
+entry_into_force:
+  date: '2012-11-08'
+  rule: 15 dias a contar da sua publicação no Diário da República
+  method: clausula
+  article: art-82
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

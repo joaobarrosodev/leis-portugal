@@ -23,6 +23,15 @@ publication:
   pages: 21091 - 21099
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/094000000/2109121099.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após a publicação no Diário da República
+  method: clausula
+  article: art-27
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

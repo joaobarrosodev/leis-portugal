@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 168 - 187
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/158000000/0016800187.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-08-17'
+entry_into_force:
+  date: '2024-08-17'
+  rule: no dia imediato ao da sua publicação no Diário da República e é aplicável aos processos que se iniciem após essa data
+  method: clausula
+  article: art-65
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 19084 - 19086
   pdf_url: https://files.diariodarepublica.pt/2s/2015/07/136000000/1908419086.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-07-16'
+entry_into_force:
+  date: '2015-07-16'
+  rule: no dia seguinte ao da sua publicação nos termos legais
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: relativamente às candidaturas para o ano letivo de 2015/2016 e seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

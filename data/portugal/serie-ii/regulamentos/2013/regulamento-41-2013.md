@@ -23,6 +23,16 @@ publication:
   pages: 4053 - 4060
   pdf_url: https://files.diariodarepublica.pt/2s/2013/01/018000000/0405304060.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: com a posse do primeiro reitor eleito após a sua aprovação, salvo no que diz respeito ao artigo 32.º, à eleição dos
+    conselhos de Faculdade e à adequação dos estatutos das Faculdades, cujo início de vi
+  method: clausula
+  article: art-50
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 40742 - 40747
   pdf_url: https://files.diariodarepublica.pt/2s/2011/10/197000000/4074240747.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-10-28'
+entry_into_force:
+  date: '2011-10-28'
+  rule: 15 dias após a sua publicação no sítio na Internet da Câmara Municipal de Arganil (www.cm-arganil.pt) e no jornal
+    local, da qual será dada publicidade por editais a afixar nos lugares públicos do cost
+  method: clausula
+  article: art-43
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

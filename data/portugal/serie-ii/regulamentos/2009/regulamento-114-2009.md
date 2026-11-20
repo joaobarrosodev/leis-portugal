@@ -23,6 +23,15 @@ publication:
   pages: 9172 - 9175
   pdf_url: https://files.diariodarepublica.pt/2s/2009/03/047000000/0917209175.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: a partir da data da sua aprovação pelo Conselho Técnico-Científico, sem prejuízo da sua publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

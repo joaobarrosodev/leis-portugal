@@ -24,6 +24,16 @@ publication:
   pages: 33113 - 33116
   pdf_url: https://files.diariodarepublica.pt/2s/2015/11/224000000/3311333116.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 'após a data da sua aprovação pela Assembleia Municipal, considerando-se revogadas as normas constantes do regulamento
+    municipal de horários de funcionamento dos estabelecimentos de venda ao público e '
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

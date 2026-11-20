@@ -23,6 +23,15 @@ publication:
   pages: 403 - 411
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/079000000/0040300411.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil subsequente ao da sua publicação no Diário da República
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

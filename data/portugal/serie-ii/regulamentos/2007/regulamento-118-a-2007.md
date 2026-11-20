@@ -23,6 +23,15 @@ publication:
   pages: 16750-(73) a 16750-(76)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/06/114000001/0007300076.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da homologação do Reitor, após a sua aprovação pelo senado da Universidade da Madeira
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

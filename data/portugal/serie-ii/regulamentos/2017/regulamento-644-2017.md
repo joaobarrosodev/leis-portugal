@@ -23,6 +23,15 @@ publication:
   pages: 29710 - 29712
   pdf_url: https://files.diariodarepublica.pt/2s/2017/12/249000000/2971029712.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente após aprovação pelo Diretor e publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

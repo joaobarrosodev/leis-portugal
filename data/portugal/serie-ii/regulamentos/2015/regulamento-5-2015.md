@@ -22,9 +22,27 @@ publication:
   supplement: null
   pages: 391 - 392
   pdf_url: https://files.diariodarepublica.pt/2s/2015/01/004000000/0039100392.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2015-01-08'
+entry_into_force:
+  date: '2015-01-08'
+  rule: no dia seguinte à sua publicação
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:124417087:por#art-26'
+    detail: O presente regulamento revoga o [Regulamento n.º 5/2015], publicado no Diário da República, 2.ª série, n.º 4,
+      de 7 de janeiro, [Regulamento n.º 6/2015], publicado no Diário da República, 2.ª série, n.º 4, de 7 de janeiro, [Regulamento
+      n.º 118/2014], publicado no Diário da República, 2.ª série, n.º 5
 notes: []
 language: por
 version:

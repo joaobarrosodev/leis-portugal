@@ -23,6 +23,16 @@ publication:
   pages: 11906 - 11912
   pdf_url: https://files.diariodarepublica.pt/2s/2017/06/111000000/1190611912.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: concomitantemente com a entrada em vigor da alteração ao Regulamento e Tabela de Taxas Municipais do Município de
+    Elvas, com a previsão das taxas referidas no presente diploma
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

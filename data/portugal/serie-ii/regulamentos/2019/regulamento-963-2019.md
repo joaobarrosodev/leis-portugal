@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 493 - 501
   pdf_url: https://files.diariodarepublica.pt/2s/2019/12/242000000/0049300501.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-12-22'
+entry_into_force:
+  date: '2019-12-22'
+  rule: 5 dias após a sua data de publicação no Diário da República
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

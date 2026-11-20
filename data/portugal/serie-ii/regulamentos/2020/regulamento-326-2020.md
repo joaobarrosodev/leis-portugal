@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 379 - 385
   pdf_url: https://files.diariodarepublica.pt/2s/2020/04/065000000/0037900385.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-04-02'
+entry_into_force:
+  date: '2020-04-02'
+  rule: no dia imediato à sua publicação no Diário da República
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: para o ano letivo 2020/2021, inclusive e anos seguintes
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 469 - 474
   pdf_url: https://files.diariodarepublica.pt/2s/2020/03/061000000/0046900474.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil imediato à sua aprovação
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

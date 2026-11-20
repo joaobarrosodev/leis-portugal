@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/169000000/0007100078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1176355381:por#n-7'
+    detail: 7 - A presente deliberação revoga a [Deliberação n.º 1016/2026], de 06 de agosto, publicada na 2.ª série do Diário
+      da República n.º 169/2026, de 01 de setembro.
 notes: []
 language: por
 version:

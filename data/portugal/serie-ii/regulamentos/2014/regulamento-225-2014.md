@@ -24,7 +24,16 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2014/06/108000000/1485014853.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:141854699:por#texto'
+    detail: É revogado o [Regulamento n.º 225/2014], de 5 de junho.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:166429156:por#texto'
+    detail: É revogado o [Regulamento n.º 225/2014] de 5 de junho.
 notes: []
 language: por
 version:

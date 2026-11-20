@@ -23,6 +23,15 @@ publication:
   pages: 21817 - 21819
   pdf_url: https://files.diariodarepublica.pt/2s/2015/08/151000000/2181721819.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediatamente seguinte ao da publicação da versão definitiva
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

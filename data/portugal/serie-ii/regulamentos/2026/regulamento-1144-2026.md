@@ -23,6 +23,16 @@ publication:
   pages: 461 - 472
   pdf_url: https://files.diariodarepublica.pt/2s/2026/08/168000000/0046100472.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após aprovação pelo órgão deliberativo e publicação no Diário da República, revogando o anterior Regulamento e Tabela
+    Geral de Taxas e Licenças da Freguesia
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

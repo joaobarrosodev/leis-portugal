@@ -23,8 +23,24 @@ publication:
   pages: 295 - 300
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/143000000/0029500300.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no mês seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1138879988:por#art-6-2'
+    detail: É revogado o [Regulamento n.º 710/2022], publicada no Diário da República, 2.ª série - N.º 143, de 26 de julho
+      de 2022.
 notes: []
 language: por
 version:

@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 359 - 373
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/204000000/0035900373.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-10-22'
+entry_into_force:
+  date: '2022-10-22'
+  rule: no dia seguinte ao da publicação no Diário da República e será publicado por edital e no sítio da Internet do Município
+    de Castro Marim em www.cm-castromarim.pt
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 3650 - 3653
   pdf_url: https://files.diariodarepublica.pt/2s/2019/01/017000000/0365003653.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-01-25'
+entry_into_force:
+  date: '2019-01-25'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: relativamente a todas as casas destinadas a habitação não permanente e anexos habitacionais não permanentes
+    que se encontrem incluídos no levantamento referido no n.º 2 do artigo 2.º do presente Regul
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,9 +22,26 @@ publication:
   supplement: null
   pages: 17893 - 17894
   pdf_url: https://files.diariodarepublica.pt/2s/2014/07/131000000/1789317894.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-07-11'
+entry_into_force:
+  date: '2014-07-11'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:121894547:por#art-17'
+    detail: O presente regulamento revoga o [Regulamento n.º 298/2014], publicado na 2.ª série do Diário da República, n.º
+      131, de 10 de julho.
 notes: []
 language: por
 version:

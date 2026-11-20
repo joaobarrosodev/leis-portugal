@@ -23,6 +23,16 @@ publication:
   pages: 33354 - 33371
   pdf_url: https://files.diariodarepublica.pt/2s/2018/12/239000000/3335433371.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação no Diário da República, sem prejuízo da sua publicação no Boletim
+    Municipal e no sítio institucional da internet do Município
+  method: clausula
+  article: art-79
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

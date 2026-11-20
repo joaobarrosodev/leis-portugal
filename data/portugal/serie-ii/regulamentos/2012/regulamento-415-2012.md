@@ -23,6 +23,15 @@ publication:
   pages: 33932 - 33933
   pdf_url: https://files.diariodarepublica.pt/2s/2012/10/197000000/3393233933.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo de 2012/2013
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -25,6 +25,15 @@ publication:
   pages: 34979 - 34982
   pdf_url: https://files.diariodarepublica.pt/2s/2015/12/235000000/3497934982.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos trinta dias úteis sobre a sua publicitação e publicação nos termos legais
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

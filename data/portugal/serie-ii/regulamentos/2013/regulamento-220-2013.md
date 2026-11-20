@@ -22,9 +22,25 @@ publication:
   supplement: null
   pages: 19055 - 19057
   pdf_url: https://files.diariodarepublica.pt/2s/2013/06/112000000/1905519057.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2013-06-17'
+entry_into_force:
+  date: '2013-06-17'
+  rule: 5 dias após a sua publicação na II serie do Diário da República
+  method: clausula
+  article: art-12
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:914768752:por#art-21'
+    detail: É revogado o [Regulamento n.º 220/2013] de 12 de junho.
 notes: []
 language: por
 version:

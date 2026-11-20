@@ -23,6 +23,15 @@ publication:
   pages: 5034 - 5037
   pdf_url: https://files.diariodarepublica.pt/2s/2017/03/056000000/0503405037.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação
+  method: clausula
+  article: art-21
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

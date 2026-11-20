@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22793 - 22795
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/102000000/2279322795.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-06-10'
+entry_into_force:
+  date: '2011-06-10'
+  rule: 15 dias após a sua publicação
+  method: clausula
+  article: art-14
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

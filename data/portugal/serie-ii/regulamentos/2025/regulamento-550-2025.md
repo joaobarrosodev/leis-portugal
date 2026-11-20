@@ -23,7 +23,19 @@ publication:
   supplement: null
   pages: 350 - 365
   pdf_url: https://files.diariodarepublica.pt/2s/2025/05/086000000/0035000365.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-05-11'
+entry_into_force:
+  date: '2025-05-11'
+  rule: no 5.º dia seguinte ao da sua publicação na 2.ª série do Diário da República, nos termos do artigo 139.º e 140.º do
+    Código do Procedimento Administrativo
+  method: clausula
+  article: art-23
+  effects_date: '2025-05-11'
+  effects_rule: no 5.º dia seguinte ao da sua publicação na 2.ª série do Diário da República, nos termos do artigo 139.º e
+    140.º do Código do Procedimento Administrativo
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

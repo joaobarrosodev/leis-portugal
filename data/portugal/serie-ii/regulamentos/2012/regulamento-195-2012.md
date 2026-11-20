@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 18975 - 18976
   pdf_url: https://files.diariodarepublica.pt/2s/2012/05/102000000/1897518976.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2012-05-25'
+entry_into_force:
+  date: '2012-05-25'
+  rule: após a sua publicação no Diário da República
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

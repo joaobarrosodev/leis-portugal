@@ -23,6 +23,15 @@ publication:
   pages: 21349 - 21353
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/103000000/2134921353.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: imediatamente, devendo ser publicitado nos termos legais e generalizadamente divulgado junto da Comunidade Universitária
+  method: clausula
+  article: art-26
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

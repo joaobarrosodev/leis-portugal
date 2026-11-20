@@ -23,6 +23,15 @@ publication:
   pages: 20196 - 20198
   pdf_url: https://files.diariodarepublica.pt/2s/2014/08/149000000/2019620198.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos cinco dias após a sua publicitação e publicação nos termos legais
+  method: clausula
+  article: art-22
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

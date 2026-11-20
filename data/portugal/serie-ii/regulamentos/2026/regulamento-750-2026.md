@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 614 - 633
   pdf_url: https://files.diariodarepublica.pt/2s/2026/06/116000000/0061400633.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-07-03'
+entry_into_force:
+  date: '2026-07-03'
+  rule: 15 dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-68
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

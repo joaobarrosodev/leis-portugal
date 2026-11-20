@@ -24,6 +24,16 @@ publication:
   pages: 35192 - 35198
   pdf_url: https://files.diariodarepublica.pt/2s/2016/11/227000000/3519235198.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação no Diário da República, sem prejuízo de publicação no Boletim
+    Municipal e na página institucional da Câmara Municipal, em www.cm-amadora.pt
+  method: clausula
+  article: art-23
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

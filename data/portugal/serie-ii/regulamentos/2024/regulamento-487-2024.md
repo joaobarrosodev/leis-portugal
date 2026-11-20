@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/084000000/0026300272.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:916456755:por#art-25'
+    detail: O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República, revogando o
+      [Regulamento n.º 487/2024], publicado no Diário da República, 2.ª série, n.º 57 de 30 de abril de 2024.
 notes: []
 language: por
 version:

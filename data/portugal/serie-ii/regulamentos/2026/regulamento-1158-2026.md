@@ -23,7 +23,18 @@ publication:
   supplement: null
   pages: 146 - 150
   pdf_url: https://files.diariodarepublica.pt/2s/2026/09/175000000/0014600150.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2026-09-10'
+entry_into_force:
+  date: '2026-09-10'
+  rule: no dia seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: a partir da data da sua entrada em vigor, não afetando a validade e execução dos acordos de pagamentos que
+    tenham sido já celebrados, que se mantêm
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2013/10/195000000/3071930725.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:73664786:por#texto'
+    detail: 3 - Este regulamento entra imediatamente em vigor substituindo e revogando o [Regulamento n.º 387/2013], publicado
+      no Diário da República n.º 195, 2.ª série, de 9 de outubro.
 notes: []
 language: por
 version:

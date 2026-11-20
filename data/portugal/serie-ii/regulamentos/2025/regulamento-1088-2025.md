@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 426 - 491
   pdf_url: https://files.diariodarepublica.pt/2s/2025/09/185000000/0042600491.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-09-26'
+entry_into_force:
+  date: '2025-09-26'
+  rule: no dia seguinte ao da sua publicação no Diário da República, aplicando-se aos contratos de arrendamento em regime
+    de arrendamento apoiado em vigor e aos procedimentos em curso, tramitados ao abrigo do
+  method: clausula
+  article: art-155
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

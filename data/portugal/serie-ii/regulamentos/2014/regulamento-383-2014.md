@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 22115 - 22117
   pdf_url: https://files.diariodarepublica.pt/2s/2014/08/163000000/2211522117.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2014-08-27'
+entry_into_force:
+  date: '2014-08-27'
+  rule: no dia a seguir à publicação no Diário da República
+  method: clausula
+  article: art-18
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

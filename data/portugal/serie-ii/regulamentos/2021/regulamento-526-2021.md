@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 190 - 216
   pdf_url: https://files.diariodarepublica.pt/2s/2021/06/110000000/0019000216.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2021-06-23'
+entry_into_force:
+  date: '2021-06-23'
+  rule: 15 dias após a sua publicação no Diário da República(3)
+  method: clausula
+  article: art-81
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 89 - 91
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/122000000/0008900091.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-06-27'
+entry_into_force:
+  date: '2022-06-27'
+  rule: após a sua publicação no Diário da República e no sítio institucional da internet do Turismo de Portugal
+  method: clausula
+  article: art-8
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

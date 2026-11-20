@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 356 - 376
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/095000000/0035600376.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-05-27'
+entry_into_force:
+  date: '2022-05-27'
+  rule: dez dias após a sua publicação
+  method: clausula
+  article: art-106
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

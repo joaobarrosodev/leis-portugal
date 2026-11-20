@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 27237 - 27248
   pdf_url: https://files.diariodarepublica.pt/2s/2008/06/119000000/2723727248.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2008-07-23'
+entry_into_force:
+  date: '2008-07-23'
+  rule: 30 dias após a data da respectiva publicação no Diário da República, considerando-se revogada toda a legislação incompatível
+    com o disposto no presente Regulamento
+  method: clausula
+  article: art-55
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

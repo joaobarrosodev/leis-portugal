@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/017000001/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:214255223:por#n-6'
+    detail: 6 - A presente deliberação revoga a [Deliberação n.º 107-A/2023], de 24 janeiro, publicada na 2.ª série do Diário
+      da República n.º 17.
 notes: []
 language: por
 version:

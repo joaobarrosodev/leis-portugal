@@ -23,6 +23,16 @@ publication:
   pages: 41 - 46
   pdf_url: https://files.diariodarepublica.pt/2s/2000/04/081052000/0004100046.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia do mês após a sua publicação nos termos legais ou, em sua substituição, de aviso publicitando as alterações
+    efectuadas à proposta inicial
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

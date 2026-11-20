@@ -24,6 +24,15 @@ publication:
   pages: 213 - 220
   pdf_url: https://files.diariodarepublica.pt/2s/2026/01/012000000/0021300220.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: na o 5.º dia após a publicação
+  method: clausula
+  article: art-25
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

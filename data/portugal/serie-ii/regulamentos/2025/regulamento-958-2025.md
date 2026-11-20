@@ -23,6 +23,16 @@ publication:
   pages: 485 - 489
   pdf_url: https://files.diariodarepublica.pt/2s/2025/08/147000000/0048500489.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia útil seguinte ao da publicação na 2.ª serie do Diário da República, nos termos conjugados nos artigos 139.º
+    e 140.º do Código do Procedimento Administrativo, na sua atual redação e vigorará por
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

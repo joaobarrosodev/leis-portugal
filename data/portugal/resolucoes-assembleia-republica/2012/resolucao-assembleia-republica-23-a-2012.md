@@ -24,6 +24,16 @@ publication:
   pages: 794-(2) a 794-(661)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/03401/0000200661.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 60 dias após a data em que as Partes se tiverem notificado por escrito de que foram cumpridos os respectivos requisitos
+    e formalidades legais, ou noutra data acordada pelas Partes
+  method: clausula
+  article: art-15-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: in_force
 notes: []

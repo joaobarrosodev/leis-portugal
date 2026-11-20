@@ -24,6 +24,15 @@ publication:
   pages: 160 - 169
   pdf_url: https://files.diariodarepublica.pt/2s/2020/06/116000000/0016000169.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 5 dias úteis após a sua publicação no Diário da República
+  method: clausula
+  article: art-15
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

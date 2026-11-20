@@ -23,6 +23,15 @@ publication:
   pages: 315 - 332
   pdf_url: https://files.diariodarepublica.pt/2s/2021/10/201000000/0031500332.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 5 dias úteis após a data da sua publicação no Diário da República
+  method: clausula
+  article: art-47
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

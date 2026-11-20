@@ -23,6 +23,15 @@ publication:
   pages: 344 - 359
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/171000000/0034400359.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: quinze dias úteis após a sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

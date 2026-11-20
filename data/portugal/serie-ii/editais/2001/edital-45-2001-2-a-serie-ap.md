@@ -23,6 +23,16 @@ publication:
   pages: 27 - 37
   pdf_url: https://files.diariodarepublica.pt/2s/2001/02/030014000/0002700037.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do ano ou, se a aprovação se verificar em data posterior, a entrada em vigor ocorrerá no primeiro
+    dia útil do mês seguinte ao da sua aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes:

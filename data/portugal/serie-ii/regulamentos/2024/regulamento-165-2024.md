@@ -23,6 +23,16 @@ publication:
   pages: 455 - 460
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/024000000/0045500460.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia imediato após aprovação em reunião de Assembleia de Freguesia, e encontra-se disponível para consulta no site
+    e nos Serviços da Junta de Freguesia do Lumiar
+  method: clausula
+  article: art-11
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

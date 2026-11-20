@@ -28,7 +28,7 @@ entry_into_force_dates:
 - '2001-01-01'
 entry_into_force:
   date: '2001-01-01'
-  rule: no dia 1 de Janeiro de 2001
+  rule: no dia 1 de Janeiro de 2001, com excepção do artigo 6.º, cuja vigência se inicia no dia subsequente ao da sua publicação
   method: clausula
   article: art-8
   effects_date: null

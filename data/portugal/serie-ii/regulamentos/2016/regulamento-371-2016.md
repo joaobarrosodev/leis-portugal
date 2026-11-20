@@ -24,6 +24,15 @@ publication:
   pages: 11911 - 11913
   pdf_url: https://files.diariodarepublica.pt/2s/2016/04/070000000/1191111913.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte à sua aprovação pelo Conselho Científico da ESAP, sem prejuízo da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

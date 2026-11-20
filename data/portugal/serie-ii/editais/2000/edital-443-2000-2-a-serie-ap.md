@@ -23,6 +23,16 @@ publication:
   pages: 57 - 69
   pdf_url: https://files.diariodarepublica.pt/2s/2000/11/258149000/0005700069.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao término do prazo de 30 dias a que se refere o artigo 118.º do Código de Procedimento Administrativo,
+    se nenhuma sugestão for apresentada em sede de apreciação pública
+  method: clausula
+  article: art-112
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,15 @@ publication:
   pages: 340 - 344
   pdf_url: https://files.diariodarepublica.pt/2s/2019/10/197000000/0034000344.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil seguinte à sua publicação no Diário da República
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 44795 - 44795
   pdf_url: https://files.diariodarepublica.pt/2s/2010/08/163000000/4479544795.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano lectivo seguinte ao da aprovação pelo Conselho Científico da FAUTL e subsequente publicação no Diário da República,
+    sendo contabilizadas as inscrições feitas no âmbito da vigência do referido D
+  method: clausula
+  article: art-6
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

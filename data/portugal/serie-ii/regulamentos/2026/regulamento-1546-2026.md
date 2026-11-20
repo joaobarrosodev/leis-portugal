@@ -24,6 +24,16 @@ publication:
   pages: 361 - 374
   pdf_url: https://files.diariodarepublica.pt/2s/2026/11/217000000/0036100374.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no dia seguinte ao da sua da sua aprovação, sendo obrigatório a promoção da sua publicação no Diário da República,
+    no prazo de 48 horas, bem como a sua divulgação no sítio institucional da UTAD
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

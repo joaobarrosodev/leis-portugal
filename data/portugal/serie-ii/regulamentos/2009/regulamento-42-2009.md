@@ -23,6 +23,15 @@ publication:
   pages: 2964 - 2966
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/013000000/0296402966.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: cinco dias após a sua publicitação, através de editais, nos locais habituais
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

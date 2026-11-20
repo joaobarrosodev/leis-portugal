@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 35708 - 35710
   pdf_url: https://files.diariodarepublica.pt/2s/2011/09/168000000/3570835710.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2011-09-02'
+entry_into_force:
+  date: '2011-09-02'
+  rule: no dia seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-24
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

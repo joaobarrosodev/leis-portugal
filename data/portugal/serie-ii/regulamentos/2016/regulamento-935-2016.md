@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 30746 - 30748
   pdf_url: https://files.diariodarepublica.pt/2s/2016/10/198000000/3074630748.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2016-10-19'
+entry_into_force:
+  date: '2016-10-19'
+  rule: no 5.º dia após a publicação no Diário da República
+  method: clausula
+  article: art-17
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

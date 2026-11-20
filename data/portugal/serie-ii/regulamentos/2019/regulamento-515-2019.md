@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 17892 - 17900
   pdf_url: https://files.diariodarepublica.pt/2s/2019/06/115000000/1789217900.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2019-06-19'
+entry_into_force:
+  date: '2019-06-19'
+  rule: no dia seguinte ao da sua publicação
+  method: clausula
+  article: art-66
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

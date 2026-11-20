@@ -25,7 +25,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/039000000/0006100068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:913778847:por#n-5'
+    detail: 5 - A presente deliberação revoga a [Deliberação n.º 270/2025], publicada na 2.ª série do Diário da República,
+      2.ª série, n.º 39/2025, de 25 de fevereiro.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 316 - 323
   pdf_url: https://files.diariodarepublica.pt/2s/2021/09/183000000/0031600323.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil do mês seguinte à sua publicação na 2.ª série do Diário da República
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

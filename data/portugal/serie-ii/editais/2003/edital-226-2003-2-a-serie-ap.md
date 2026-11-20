@@ -23,6 +23,16 @@ publication:
   pages: 68 - 69
   pdf_url: https://files.diariodarepublica.pt/2s/2003/03/065042000/0006800069.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: à data da sua aprovação pela Assembleia Municipal, revogando eventuais deliberações anteriores sobre as matérias nele
+    constantes
+  method: clausula
+  article: art-32
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

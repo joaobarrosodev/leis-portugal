@@ -23,6 +23,16 @@ publication:
   pages: 51 - 52
   pdf_url: https://files.diariodarepublica.pt/2s/2004/09/225119000/0005100052.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no 30 dias após a publicação do edital da respectiva deliberação da Assembleia Municipal do município de Miranda do
+    Douro que o aprovar
+  method: clausula
+  article: art-10
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

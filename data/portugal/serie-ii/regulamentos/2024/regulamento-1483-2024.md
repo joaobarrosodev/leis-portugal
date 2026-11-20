@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 406 - 412
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/251000000/0040600412.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2025-01-01'
+entry_into_force:
+  date: '2025-01-01'
+  rule: no dia 1 do mês seguinte à sua publicação na 2.ª série do Diário da República, sendo publicitado em edital afixado
+    nos lugares do costume
+  method: clausula
+  article: art-19
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

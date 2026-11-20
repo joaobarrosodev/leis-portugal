@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 591 - 595
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/162000000/0059100595.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2024-09-01'
+entry_into_force:
+  date: '2024-09-01'
+  rule: no primeiro dia do mês seguinte ao da sua publicação
+  method: clausula
+  article: art-13
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

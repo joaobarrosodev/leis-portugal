@@ -23,9 +23,26 @@ publication:
   supplement: null
   pages: 46679 - 46684
   pdf_url: https://files.diariodarepublica.pt/2s/2009/11/223000000/4667946684.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-11-18'
+entry_into_force:
+  date: '2009-11-18'
+  rule: no dia a seguir à data da sua publicação no Diário da República
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:141963750:por#art-42'
+    detail: O presente Regulamento revoga o [Regulamento n.º 449/2009], publicado no Diário da República, 2.ª série, n.º 223,
+      de 17 de novembro.
 notes: []
 language: por
 version:

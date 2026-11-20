@@ -23,6 +23,15 @@ publication:
   pages: 139 - 144
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/226000000/0013900144.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no ano letivo 2022/2023
+  method: clausula
+  article: art-7
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

@@ -23,6 +23,16 @@ publication:
   pages: 327 - 335
   pdf_url: https://files.diariodarepublica.pt/2s/2025/10/203000000/0032700335.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após 15 dias da sua publicação no Diário da República, nos termos do artigo 140.º do Código do Procedimento Administrativo,
+    Decreto-Lei n.º 4/2015, de 7 de janeiro
+  method: clausula
+  article: art-29
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

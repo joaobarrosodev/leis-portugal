@@ -23,6 +23,16 @@ publication:
   pages: 270 - 274
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/098000000/0027000274.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no quinto dia imediato ao da sua publicação no Diário da República, sendo também publicado na página eletrónica do
+    município de Ferreira do Alentejo, em www.cm-ferreira-alentejo.pt
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

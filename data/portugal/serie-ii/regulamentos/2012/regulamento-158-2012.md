@@ -24,7 +24,14 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2012/04/083000000/1502415027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:926142985:por#art-15'
+    detail: O presente regulamento revoga o [Regulamento n.º 158/2012], publicado no Diário da República, 2.ª série, n.º 83,
+      de 27 de abril de 2012.
 notes: []
 language: por
 version:

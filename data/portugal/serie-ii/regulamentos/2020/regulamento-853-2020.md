@@ -23,7 +23,19 @@ publication:
   supplement: null
   pages: 199 - 204
   pdf_url: https://files.diariodarepublica.pt/2s/2020/10/196000000/0019900204.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2020-10-09'
+entry_into_force:
+  date: '2020-10-09'
+  rule: no dia seguinte ao da publicação no Diário da República, aplicando-se aos pedidos de reconhecimento específico que
+    ainda não tenham sido objeto de apreciação e decisão
+  method: clausula
+  article: art-13
+  effects_date: '2020-10-09'
+  effects_rule: no dia seguinte ao da publicação no Diário da República, aplicando-se aos pedidos de reconhecimento específico
+    que ainda não tenham sido objeto de apreciação e decisão
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

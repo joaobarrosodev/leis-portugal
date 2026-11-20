@@ -25,7 +25,18 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2008/06/119000000/2737727379.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: unknown
+legal_status: repealed
+legal_status_basis:
+  source: norma_revogatoria
+  evidence:
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1584608:por#art-22'
+    detail: 2 - Pelo presente regulamento é revogado o [Regulamento n.º 328/2008], publicado na 2.ª série do Diário da República,
+      n.º 119, de 23 de junho.
+  - status: repealed
+    provenance: 'norma revogatória: pt:dre:1510183:por#art-22'
+    detail: 2 - Pelo presente regulamento é revogado o [Regulamento n.º 328/2008], publicado na 2.ª série do Diário da República,
+      n.º 119, de 23 de junho.
 notes: []
 language: por
 version:

@@ -23,6 +23,15 @@ publication:
   pages: 88 - 104
   pdf_url: https://files.diariodarepublica.pt/2s/2003/11/263169000/0008800104.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: após 15 dias da data da respectiva publicação no Diário da República
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

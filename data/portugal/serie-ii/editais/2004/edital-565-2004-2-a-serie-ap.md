@@ -22,7 +22,17 @@ publication:
   supplement: null
   pages: 14 - 17
   pdf_url: https://files.diariodarepublica.pt/2s/2004/08/201106000/0001400017.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2004-09-25'
+entry_into_force:
+  date: '2004-09-25'
+  rule: 30 dias após a sua publicação e revoga o regulamento actualmente em vigor
+  method: clausula
+  article: art-49
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

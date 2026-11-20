@@ -22,7 +22,18 @@ publication:
   supplement: null
   pages: 385 - 400
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/065000000/0038500400.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2022-04-16'
+entry_into_force:
+  date: '2022-04-16'
+  rule: no 15.º dia após a sua publicação no Diário da República, nos termos do disposto no artigo 139.º do Decreto-Lei n.º
+    4/2015, de 7 de janeiro
+  method: clausula
+  article: art-48
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

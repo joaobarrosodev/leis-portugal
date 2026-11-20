@@ -23,6 +23,15 @@ publication:
   pages: 62 - 74
   pdf_url: https://files.diariodarepublica.pt/2s/2002/01/026009000/0006200074.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: decorridos 15 dias sobre a sua publicação no Diário da República
+  method: clausula
+  article: art-51
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

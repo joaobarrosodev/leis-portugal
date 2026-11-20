@@ -23,7 +23,17 @@ publication:
   supplement: null
   pages: 7264 - 7270
   pdf_url: https://files.diariodarepublica.pt/2s/2009/02/036000000/0726407270.pdf
-entry_into_force_dates: []
+entry_into_force_dates:
+- '2009-03-22'
+entry_into_force:
+  date: '2009-03-22'
+  rule: 30 dias após a sua publicação em edital nos lugares de estilo
+  method: clausula
+  article: art-39
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

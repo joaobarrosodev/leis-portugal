@@ -23,6 +23,15 @@ publication:
   pages: 17 - 32
   pdf_url: https://files.diariodarepublica.pt/2s/2003/06/130084000/0001700032.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no primeiro dia útil após a aprovação pela Assembleia Municipal
+  method: clausula
+  article: art-41
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

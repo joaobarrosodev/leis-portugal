@@ -23,6 +23,15 @@ publication:
   pages: 34420 - 34422
   pdf_url: https://files.diariodarepublica.pt/2s/2007/11/231000000/3442034422.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 15 dias após a sua publicitação, nos termos legais
+  method: clausula
+  article: art-16
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

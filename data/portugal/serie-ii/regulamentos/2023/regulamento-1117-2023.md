@@ -23,6 +23,15 @@ publication:
   pages: 152 - 159
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/203000000/0015200159.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no décimo quinto dia útil seguinte ao da sua publicação no Diário da República
+  method: clausula
+  article: art-20
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

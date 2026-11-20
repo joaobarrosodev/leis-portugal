@@ -23,6 +23,15 @@ publication:
   pages: 9137 - 9142
   pdf_url: https://files.diariodarepublica.pt/2s/2013/03/050000000/0913709142.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: no prazo de 15 dias úteis após a sua publicação
+  method: clausula
+  article: art-44
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []

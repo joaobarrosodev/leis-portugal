@@ -23,6 +23,15 @@ publication:
   pages: 465 - 486
   pdf_url: https://files.diariodarepublica.pt/2s/2026/04/065000000/0046500486.pdf
 entry_into_force_dates: []
+entry_into_force:
+  date: null
+  rule: 5 (cinco) dias após a sua publicação no Diário da República
+  method: clausula
+  article: art-33
+  effects_date: null
+  effects_rule: null
+  end_date: null
+  end_rule: null
 end_of_validity_date: null
 legal_status: unknown
 notes: []
