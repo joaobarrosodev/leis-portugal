@@ -46,7 +46,7 @@ version:
 version_history:
   file: decreto-lei-126-72.versoes.json
   count: 2
-  source_lastmod: null
+  source_lastmod: '2026-06-03'
   versions:
   - date: '1993-07-12'
     amending: pt:dre:689619:por
@@ -76,10 +76,10 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1972-1088707575
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1972-1088707575
-  retrieved_at: '2026-10-22T14:04:22Z'
+  retrieved_at: '2026-11-20T13:46:59Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: null
+  source_modified_at: '2026-06-03T00:00:00Z'
 integrity:
   source_sha256: 7de71eb7dbb3cb81cb6cf0f394a56f64c50f10f241f1c0800386e43d99a4d12b
   source_sha256_scope: official_source_content_bytes
@@ -87,7 +87,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:04:22Z'
+  generated_at: '2026-11-20T13:46:59Z'
   notes: 2 versão(ões); histórico completo em decreto-lei-126-72.versoes.json.
 reuse:
   status: permitted
@@ -126,7 +126,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:04:22Z'
+  checked_at: '2026-11-20T13:46:59Z'
   warnings: []
   errors: []
 ---

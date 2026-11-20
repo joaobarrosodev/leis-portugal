@@ -38,10 +38,20 @@ legal_status: unknown
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-11-03'
+version_history:
+  file: portaria-324-a-2023.versoes.json
+  count: 1
+  source_lastmod: '2026-11-02'
+  versions:
+  - date: '2026-11-03'
+    amending: pt:dre:1190056897:por
+    amending_title: Decreto-Lei n.º 207/2026
+    changes:
+    - Revoga Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/324-a/2023/10/27/p/dre/pt/html
@@ -54,20 +64,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/324-a-2023-223473624
   metadata_url: https://data.dre.pt/eli/port/324-a/2023/10/27/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/324-a-2023-223473624
-  consolidated_url: null
-  retrieved_at: '2026-10-23T15:59:38Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-941373227
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-941373227
+  retrieved_at: '2026-11-20T13:49:38Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-02T00:00:00Z'
 integrity:
-  source_sha256: 42430df7886f4ade240a2de07b224473635a330d31ad8be9605fc1594059fe66
+  source_sha256: 97f6e37efdf81a72da97c862effd61aec45977bbdbdd41758d7a907c74579092
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T15:59:38Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:49:38Z'
+  notes: 1 versão(ões); histórico completo em portaria-324-a-2023.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -89,6 +100,11 @@ relationships:
     República n.º 246/2024, Série II de 2024-12-19, nos termos do seu n.º 2
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/1624-2024-900673826
   date: '2024-12-19'
+- type: amended_by
+  target: pt:dre:1190056897:por
+  label: Revoga Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897
+  date: '2026-11-02'
 - type: cites
   target: pt:dre:186521681:por
   label: null
@@ -111,23 +127,23 @@ relationships:
   source: http://data.dre.pt/eli/port/203/2016/07/25/p/dre
 article_structure:
   article_count: 20
-  section_count: 3
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T15:59:38Z'
+  checked_at: '2026-11-20T13:49:38Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 324-A/2023
 
-de 27 de outubro
+Sumário:
 
-O [Decreto-Lei n.º 41/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), de 2 de junho, criou a Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), e definiu a missão e as atribuições.
+O Decreto-Lei n.º 41/2023, de 2 de junho, criou a Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), e definiu a missão e as atribuições.
 
 A AIMA, I. P., tem por missão a concretização das políticas públicas, nacionais e europeias, em matéria de migração, asilo e igualdade. Trata-se de um instituto público integrado na administração indireta do Estado, com jurisdição sobre todo o território nacional, dotado de personalidade jurídica, autonomia administrativa e financeira e de património próprio, sendo equiparado a entidade pública empresarial para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços e às respetivas atividades de suporte.
 
@@ -135,7 +151,7 @@ Importa agora, no desenvolvimento daquele diploma, determinar a sua organizaçã
 
 Procurando dotar a AIMA, I. P., de uma estrutura ágil, integrada e concentrada nos objetivos estratégicos definidos e na prossecução da sua missão, o modelo de governação ora determinado concretiza uma mudança de paradigma na forma como a Administração Pública se relaciona com os cidadãos estrangeiros, seja na sua entrada e permanência em território nacional, seja no seu acolhimento e na sua integração, e, bem assim, ao nível do combate ao racismo e da integração de grupos étnicos, melhorando a qualidade dos serviços públicos, com ganhos de eficiência, e dos recursos a eles afetos, maximizando sinergias e potenciando os seus resultados.
 
-Assim, ao abrigo do artigo 12.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na sua redação atual, e do [Despacho n.º 8949/2022](https://diariodarepublica.pt/dr/detalhe/despacho/8949-2022-186521681), de 22 de julho, na sua redação atual, manda o Governo, pelo Ministro das Finanças, pela Ministra Adjunta e dos Assuntos Parlamentares e pela Secretária de Estado da Administração Pública, o seguinte:
+Assim, ao abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, e do Despacho n.º 8949/2022, de 22 de julho, na sua redação atual, manda o Governo, pelo Ministro das Finanças, pela Ministra Adjunta e dos Assuntos Parlamentares e pela Secretária de Estado da Administração Pública, o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -147,7 +163,7 @@ A transformação das direções e delegações regionais do Serviço de Estrang
 
 ###### Artigo 3.º — Norma revogatória
 
-São revogadas as Portarias n.os [203/2016](https://diariodarepublica.pt/dr/detalhe/portaria/203-2016-75025066), de 25 de julho, e [227/2015](https://diariodarepublica.pt/dr/detalhe/portaria/227-2015-69927763), de 3 de agosto.
+São revogadas as Portarias n.os 203/2016, de 25 de julho, e 227/2015, de 3 de agosto.
 
 ###### Artigo 4.º — Produção de efeitos
 
@@ -161,9 +177,9 @@ Em 27 de outubro de 2023.
 
 O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra Adjunta e dos Assuntos Parlamentares, Ana Catarina Veiga dos Santos Mendonça Mendes. - A Secretária de Estado da Administração Pública, Inês Pacheco Ramires Ferreira.
 
-## ANEXO — ESTATUTOS DA AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P.
+## Anexo — ESTATUTOS DA AGÊNCIA PARA A INTEGRAÇÃO, MIGRAÇÕES E ASILO, I. P.
 
-### CAPÍTULO I — Disposições iniciais
+### Capítulo I — Disposições iniciais
 
 ###### Artigo 1.º — Sede e serviços desconcentrados
 
@@ -233,7 +249,9 @@ c) Os coordenadores de unidade, cargos de direção intermédia de 3.º grau.
 
 5 - Aos coordenadores das equipas multidisciplinar é atribuído um estatuto remuneratório equiparado a diretor, diretor de serviço ou coordenador, em função da natureza e complexidade das funções a desempenhar.
 
-### CAPÍTULO II — Unidades Orgânicas Nucleares
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
+
+### Capítulo II — Unidades Orgânicas Nucleares
 
 ###### Artigo 4.º — Departamento de Administração Geral
 
@@ -583,7 +601,7 @@ j) Promover a articulação com a Comissão para a Igualdade e Contra a Discrimi
 
 k) Elaborar indicadores de execução quantitativos e qualitativos, que permitam, entre outros aspetos, medir os níveis de desempenho do departamento.
 
-### CAPÍTULO III — Unidades orgânicas territorialmente desconcentradas
+### Capítulo III — Unidades orgânicas territorialmente desconcentradas
 
 ###### Artigo 14.º — Loja AIMA
 
@@ -595,9 +613,9 @@ k) Elaborar indicadores de execução quantitativos e qualitativos, que permitam
 
 O espaço AIMA Spot visa, através da criação de condições de maior proximidade, facilitar e promover o acesso aos serviços mais relevantes para os migrantes prestados por entidades públicas e privadas, designadamente por via de atendimento digital assistido, bem como apoiar no processo de acolhimento e integração de pessoas migrantes, articulando-se com as diversas estruturas nacionais e, especialmente, locais.
 
-## ANEXO — (referido no n.º 5 do artigo 2.º)
+## Anexo — Lojas AIMA
 
-Lojas AIMA
+(referido no n.º 5 do artigo 2.º)
 
 Albufeira.
 
@@ -666,5 +684,3 @@ Viana do Castelo.
 Vila Real.
 
 Viseu.
-
-117005904

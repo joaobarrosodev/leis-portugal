@@ -44,8 +44,8 @@ version:
   consolidation_date: '2022-01-01'
 version_history:
   file: decreto-lei-63-2019.versoes.json
-  count: 2
-  source_lastmod: '2024-06-25'
+  count: 3
+  source_lastmod: '2026-11-06'
   versions:
   - date: '2019-05-16'
     amending: null
@@ -58,6 +58,11 @@ version_history:
     - Altera Artigo 14.º
     - Altera Artigo 20.º
     - Altera Artigo 31.º
+  - date: '2027-01-01'
+    amending: pt:dre:1190370817:por
+    amending_title: Decreto-Lei n.º 210/2026
+    changes:
+    - Revoga Diploma
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/63/2019/p/cons/20211231/pt/html
@@ -72,10 +77,10 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2019/p/cons/20211231/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122312810
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122312810
-  retrieved_at: '2026-10-22T12:26:08Z'
+  retrieved_at: '2026-11-20T13:50:00Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-06T00:00:00Z'
 integrity:
   source_sha256: 03b4ce7b10e80c23185448958568657f9f81e6a4aea09c2d9ce7694fb9fad8b9
   source_sha256_scope: official_source_content_bytes
@@ -83,8 +88,8 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:26:08Z'
-  notes: 2 versão(ões); histórico completo em decreto-lei-63-2019.versoes.json.
+  generated_at: '2026-11-20T13:50:00Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-63-2019.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,6 +133,11 @@ relationships:
   label: Altera Artigo 14.º; Altera Artigo 20.º; Altera Artigo 31.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2021-176907547
   date: '2021-12-31'
+- type: amended_by
+  target: pt:dre:1190370817:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2026-1190370817
+  date: '2026-11-03'
 - type: cites
   target: pt:dre:105658706:por
   label: null
@@ -173,7 +183,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:26:08Z'
+  checked_at: '2026-11-20T13:50:00Z'
   warnings: []
   errors: []
 ---

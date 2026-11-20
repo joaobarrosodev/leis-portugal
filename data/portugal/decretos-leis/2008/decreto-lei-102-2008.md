@@ -46,11 +46,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2026-05-25'
+  consolidation_date: '2026-11-06'
 version_history:
   file: decreto-lei-102-2008.versoes.json
-  count: 49
-  source_lastmod: '2024-06-25'
+  count: 50
+  source_lastmod: '2026-11-11'
   versions:
   - date: '2008-06-20'
     amending: null
@@ -487,6 +487,15 @@ version_history:
     - Altera Artigo 2.º
     - Altera Artigo 27.º
     - Altera Artigo Listas I e II
+  - date: '2026-11-06'
+    amending: pt:dre:1191346238:por
+    amending_title: Lei n.º 65/2026
+    changes:
+    - Adita Artigo 75.º-A
+    - Adita Artigo 75.º-B
+    - Adita Artigo 75.º-C
+    - Altera Artigo 2.º
+    - Altera Artigo 41.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/102/2008/p/cons/20260520/pt/html
@@ -501,19 +510,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2008/p/cons/20260520/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34500675
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34500675
-  retrieved_at: '2026-10-22T11:46:49Z'
+  retrieved_at: '2026-11-20T14:29:43Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: d93ebe1512120c4783f01825a2b38f6233694c34f588d628b3495ebd0ec05f04
+  source_sha256: a236266357e3cd50b0efb7b6ce37d5a3aa98b11c8e7d0b6beb190196843b93aa
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T11:46:49Z'
-  notes: 49 versão(ões); histórico completo em decreto-lei-102-2008.versoes.json.
+  generated_at: '2026-11-20T14:29:43Z'
+  notes: 50 versão(ões); histórico completo em decreto-lei-102-2008.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -867,6 +876,11 @@ relationships:
   label: Altera Artigo 2.º; Altera Artigo 27.º; Altera Artigo Listas I e II
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227
   date: '2026-05-20'
+- type: amended_by
+  target: pt:dre:1191346238:por
+  label: Adita Artigo 75.º-A; Adita Artigo 75.º-B; Adita Artigo 75.º-C; Altera Artigo 2.º; Altera Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238
+  date: '2026-11-05'
 - type: cites
   target: celex:32011R0282
   label: null
@@ -904,7 +918,7 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/290/1992/12/28/p/dre
 article_structure:
-  article_count: 164
+  article_count: 167
   section_count: 45
   extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
@@ -912,7 +926,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T11:46:49Z'
+  checked_at: '2026-11-20T14:29:43Z'
   warnings: []
   errors: []
 ---
@@ -2677,7 +2691,7 @@ h) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquir
 
 i) As pessoas singulares ou colectivas referidas na alínea a) que, no território nacional, sejam adquirentes dos bens ou dos serviços mencionados no anexo E ao presente Código e tenham direito à dedução total ou parcial do imposto, desde que os respectivos transmitentes ou prestadores sejam sujeitos passivos do imposto;
 
-j) As pessoas singulares ou coletivas referidas na alínea a) que disponham de sede, estabelecimento estável ou domicílio em território nacional e que pratiquem operações que confiram o direito à dedução total ou parcial do imposto, quando sejam adquirentes de serviços de construção civil, incluindo a remodelação, reparação, manutenção, conservação e demolição de bens imóveis, em regime de empreitada ou subempreitada, bem como aquelas que apenas pratiquem operações que não confiram direito à dedução do imposto quando sejam adquirentes de empreitadas de construção ou reabilitação previstas na verba 2.42 da lista I anexa ao presente Código;
+j) As pessoas singulares ou coletivas referidas na alínea a) que disponham de sede, estabelecimento estável ou domicílio em território nacional, quando sejam adquirentes de serviços de construção civil, incluindo a remodelação, reparação, manutenção, conservação e demolição de bens imóveis, em regime de empreitada ou subempreitada;
 
 l) As pessoas singulares ou colectivas referidas na alínea a) que disponham de sede, estabelecimento estável ou domicílio em território nacional e que pratiquem operações que confiram o direito à dedução total ou parcial do imposto, quando sejam adquirentes de prestações de serviços que tenham por objecto direitos de emissão, reduções certificadas de emissões ou unidades de redução de emissões de gases com efeito de estufa, aos quais se refere o Decreto-Lei n.º 233/2004, de 14 de Dezembro.
 
@@ -2714,6 +2728,8 @@ l) Radiodifusão e radiotelevisão.
 4 - Para efeitos dos n.os 2 e 3 do presente artigo, o Ministro das Finanças define, caso a caso, as actividades susceptíveis de originar distorções de concorrência ou aquelas que são exercidas de forma não significativa.
 
 5 - Para efeitos das alíneas e) e g) do n.º 1, consideram-se sujeitos passivos do imposto, relativamente a todos os serviços que lhes sejam prestados no âmbito da sua actividade, as pessoas singulares ou colectivas referidas na alínea a) do n.º 1, bem como quaisquer outras pessoas colectivas que devam estar registadas para efeitos do artigo 25.º do Regime do IVA nas Transacções Intracomunitárias.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 65/2026 - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238), em vigor a partir de 2026-11-06.
 
 > Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 97/2026 - Diário da República n.º 97/2026, Série I de 2026-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2026-1124493227), em vigor a partir de 2026-05-25, com efeitos a partir de 2026-09-01.
 
@@ -4389,7 +4405,7 @@ b) Nos casos de sujeitos passivos já registados e abrangidos pelo regime normal
 
 5 - Os sujeitos passivos abrangidos pela alínea b) do n.º 1 que tenham obtido, no ano civil anterior, um volume de negócios igual ou superior a 650 000 €, devem apresentar a declaração a que se refere o artigo 32.º durante o mês de janeiro seguinte, ficando obrigados ao envio da declaração periódica mensal a partir de 1 de janeiro do ano da sua apresentação.
 
-6 - O disposto na alínea b) do n.º 1 não é aplicável aos sujeitos passivos que tenham exercido a opção prevista no n.º 8 do artigo 27.º e aos inscritos no registo de reembolso mensal previsto no n.º 8 do artigo 22.º
+6 - O disposto na alínea b) do n.º 1 não é aplicável aos sujeitos passivos que tenham exercido a opção prevista no n.º 8 do artigo 27.º, aos inscritos no registo de reembolso mensal previsto no n.º 8 do artigo 22.º, não sendo igualmente aplicável aos que realizem transmissões de combustíveis, designadamente de gasolina, gasóleo e petróleo carburante.
 
 7 - Para efeitos do n.º 1, sempre que o volume de negócios respeitar a uma fracção do ano, é convertido num volume de negócios anual correspondente.
 
@@ -4398,6 +4414,8 @@ b) Nos casos de sujeitos passivos já registados e abrangidos pelo regime normal
 9 - Para efeitos do disposto no n.º 1, consideram-se cumpridos os prazos aí previstos desde que a data da sua transmissão tenha ocorrido até ao termo desses prazos.
 
 10 - As declarações periódicas, nos termos da alínea a) do n.º 1, relativas ao mês de junho, e nos termos da alínea b) do n.º 1, relativas ao segundo trimestre, devem ser enviadas até 20 de setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 65/2026 - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238), em vigor a partir de 2026-11-06.
 
 > Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01
 
@@ -5110,6 +5128,38 @@ Os sujeitos passivos abrangidos pelo presente regime devem, sempre que efectuem 
 ###### Artigo 75.º — Exclusão dos regimes especiais
 
 Os sujeitos passivos abrangidos pelo presente regime não podem beneficiar do regime especial de isenção do artigo 53.º nem do regime especial dos pequenos retalhistas do artigo 60.º
+
+###### Artigo 75.º-A — Inversão do sujeito passivo aplicável à cadeia de fornecimento de combustíveis sujeitos a impostos especiais de consumo
+
+1 - São sujeitos passivos de IVA as pessoas singulares ou coletivas referidas na alínea a) do n.º 1 do artigo 2.º que pratiquem operações que confiram o direito à dedução total ou parcial do imposto, e que, no território nacional, sejam adquirentes de gasolina, gasóleo e petróleo carburante cuja introdução no consumo tenha sido efetuada por um operador com o estatuto de destinatário registado, de destinatário registado temporário ou de destinatário certificado, previstos, respetivamente, nos artigos 29.º, 30.º e 60.º-A do Código dos Impostos Especiais sobre o Consumo.
+
+2 - O disposto no número anterior é aplicável a todas as transmissões sucessivas dos referidos combustíveis, desde a introdução no consumo até ao último operador da cadeia de transmissões.
+
+3 - Verificadas as condições previstas nos números anteriores, o último operador da cadeia de transmissões não goza do direito à dedução do imposto suportado nas aquisições dos combustíveis abrangidos pelo presente artigo, devendo nas respetivas transmissões aplicar o regime previsto nesta subsecção.
+
+4 - Para efeitos do presente artigo, considera-se último operador da cadeia de transmissões a pessoa singular ou coletiva que adquira os respetivos combustíveis para os revender sem ser novamente para revenda.
+
+> Nota: [Artigo 8.º, Lei n.º 65/2026 - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238) Os sujeitos passivos abrangidos pelo n.º 1 do presente artigo, com a redação introduzida pela Lei n.º 65/2026, de 5 de novembro, que a 6 de novembro de 2026 se encontrem enquadrados no regime de periodicidade trimestral previsto na alínea b) do n.º 1 do artigo 41.º do Código do IVA, devem apresentar a declaração a que se refere o artigo 32.º do Código do IVA durante o mês de janeiro de 2027 e ficam obrigados ao envio da declaração periódica mensal a partir de 1 de janeiro desse ano.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 65/2026 - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238), em vigor a partir de 2026-11-06.
+
+###### Artigo 75.º-B — Obrigações de faturação e de comunicação
+
+1 - As faturas relativas às transmissões abrangidas pelo artigo anterior devem ser emitidas sem liquidação do imposto, devendo conter obrigatoriamente, para além dos elementos previstos no n.º 5 do artigo 36.º do Código do IVA, os seguintes elementos:
+
+a) A menção «IVA devido pelo adquirente - artigo 75.º-A do CIVA»;
+
+b) O número e data da declaração de introdução no consumo eletrónica (e-DIC) emitida nos termos do Código dos Impostos Especiais sobre o Consumo.
+
+2 - A Autoridade Tributária e Aduaneira pode, para efeitos de verificação e controlo, solicitar os documentos comprovativos das transações efetuadas, nomeadamente a correspondência entre a e-DIC e as faturas emitidas no âmbito da respetiva cadeia de comercialização.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 65/2026 - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238), em vigor a partir de 2026-11-06.
+
+###### Artigo 75.º-C — Disposições complementares
+
+O disposto nos artigos anteriores aplica-se sem prejuízo das obrigações e procedimentos previstos no Código dos Impostos Especiais sobre o Consumo.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 65/2026 - Diário da República n.º 215/2026, Série I de 2026-11-05](https://diariodarepublica.pt/dr/detalhe/lei/65-2026-1191346238), em vigor a partir de 2026-11-06.
 
 #### Secção V — Disposições comuns
 

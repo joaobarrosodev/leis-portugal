@@ -39,23 +39,19 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2006-05-27'
 version_history:
   file: portaria-450-2001.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-13'
   versions:
-  - date: '2001-05-05'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2006-05-27'
     amending: pt:dre:286682:por
     amending_title: Portaria n.º 478/2006
     changes:
-    - Altera Artigo ANEXO::11.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/450/2001/05/05/p/dre/pt/html
@@ -68,21 +64,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/450-2001-315915
   metadata_url: https://data.dre.pt/eli/port/450/2001/05/05/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/450-2001-315915
-  consolidated_url: null
-  retrieved_at: '2026-10-23T14:32:19Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1003478073
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1003478073
+  retrieved_at: '2026-11-20T13:52:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-13T00:00:00Z'
 integrity:
-  source_sha256: 38284de80ec14fda99e1a658784e6c781d75d30865dd1aee973ceb86a0284aff
+  source_sha256: 410854a3841e6ca0a707286a1af13504762ba8bad7f3ece70ab3ad1f7144e966
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T14:32:19Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 478/2006. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-450-2001.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:52:42Z'
+  notes: 1 versão(ões); histórico completo em portaria-450-2001.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,22 +127,20 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/1996/280/oj
 article_structure:
-  article_count: 56
-  section_count: 21
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  article_count: 62
+  section_count: 25
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T14:32:19Z'
+  checked_at: '2026-11-20T13:52:42Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 450/2001
-
-de 5 de Maio
 
 O Decreto-Lei n.º 70-B/2000, de 5 de Maio, aprovou o enquadramento para a criação de um conjunto de medidas de política de acção económica a médio prazo com vista ao desenvolvimento estratégico para os diversos sectores de actividade da economia portuguesa, através de apoios directos e indirectos às empresas e demais agentes económicos, para o período de 2000 a 2006.
 
@@ -162,19 +156,17 @@ Em 2 de Abril de 2001.
 
 O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Economia, Mário Cristina de Sousa. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.
 
-## ANEXO
+## Anexo — REGULAMENTO DE EXECUÇÃO DA MEDIDA DE APOIO AOS PROGRAMAS INTEGRADOS TURÍSTICOS DE NATUREZA ESTRUTURANTE E BASE REGIONAL E DO RESPECTIVO SISTEMA DE INCENTIVOS.
 
-REGULAMENTO DE EXECUÇÃO DA MEDIDA DE APOIO AOS PROGRAMAS INTEGRADOS TURÍSTICOS DE NATUREZA ESTRUTURANTE E BASE REGIONAL E DO RESPECTIVO SISTEMA DE INCENTIVOS.
-
-### CAPÍTULO I — Objecto
+### Capítulo I — Objecto
 
 ###### Artigo 1.º — Objecto
 
 O presente Regulamento tem por objecto a definição das regras de candidatura aos programas integrados turísticos de natureza estruturante e base regional, bem como as de concessão de apoios financeiros a projectos integrados naqueles programas.
 
-### CAPÍTULO II — Do regime dos programas integrados turísticos de natureza estruturante e base regional (PITER)
+### Capítulo II — Do regime dos programas integrados turísticos de natureza estruturante e base regional (PITER)
 
-#### SECÇÃO I — Conceito e âmbito
+#### Secção I — Conceito e âmbito
 
 ###### Artigo 2.º — Conceito
 
@@ -202,7 +194,7 @@ e) Sem prejuízo do disposto na alínea d) do n.º 1 e na alínea a) do n.º 3, 
 
 Podem ser entidades promotoras do PITER as entidades de qualquer natureza e sob qualquer forma jurídica, nomeadamente empresas devidamente licenciadas, câmaras municipais, regiões de turismo ou ainda agrupamentos de algumas daquelas entidades.
 
-#### SECÇÃO II — Fase da pré-candidatura
+#### Secção II — Fase da pré-candidatura
 
 ###### Artigo 5.º — Pré-candidatura
 
@@ -254,7 +246,7 @@ c) Qualificação do risco associado ao desenvolvimento do programa.
 
 3 - Compete à respectiva direcção regional de economia, em articulação com o Instituto de Financiamento e Apoio ao Turismo e a Direcção-Geral do Turismo, prestar à unidade operativa referida no n.º 1 do presente artigo os esclarecimentos que a mesma solicite no âmbito do desenvolvimento, preparação e apresentação da candidatura ao PITER.
 
-#### SECÇÃO III — Fase da candidatura
+#### Secção III — Fase da candidatura
 
 ###### Artigo 10.º — Candidatura
 
@@ -310,7 +302,7 @@ d) O prosseguimento para análise da candidatura ao sistema de incentivos é con
 
 5 - Excepcionalmente e em casos devidamente justificados, os limites mínimos de investimento em capital fixo referidos na alínea b) do n.º 1 do presente artigo podem, verificada a conformidade do programa com os objectivos referidos no n.º 1 do artigo 2.º do presente Regulamento, ser ajustados, por despacho do Ministro da Economia, sob proposta do Instituto de Financiamento e Apoio ao Turismo, nomeadamente em função de factores de localização, desenvolvimento regional, natureza e tipologia de projectos, bem como da existência de outras acções integradas já implantadas na mesma área geográfica.
 
-> Alterado pelo/a [Portaria n.º 478/2006](https://diariodarepublica.pt/dr/detalhe/portaria/478-2006-286682), publicado em 2006-05-26.
+> Alterado pelo/a [Portaria n.º 478/2006 - Diário da República n.º 102/2006, Série I-B de 2006-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/478-2006-286682), em vigor a partir de 2006-05-27.
 
 ###### Artigo 12.º — Competências
 
@@ -348,7 +340,7 @@ b) Elabora, também no prazo de 30 dias úteis, o respectivo parecer, de cujo te
 
 3 - A não declaração do programa como PITER determina a impossibilidade de apresentação de uma nova pré-candidatura no prazo de dois anos a contar da data da apresentação da candidatura não aprovada.
 
-#### SECÇÃO IV — Acompanhamento e controlo
+#### Secção IV — Acompanhamento e controlo
 
 ###### Artigo 15.º — Acompanhamento e controlo
 
@@ -372,9 +364,9 @@ d) Preencham as condições referidas no n.º 2 do artigo 3.º do presente Regul
 
 2 - O processo de análise e decisão quanto à integração dos novos projectos no PITER obedece, com as necessárias adaptações, ao preceituado nos artigos 10.º a 13.º do presente Regulamento.
 
-### CAPÍTULO III — Do sistema de incentivos associado ao PITER
+### Capítulo III — Do sistema de incentivos associado ao PITER
 
-#### SECÇÃO I — Âmbito do sistema
+#### Secção I — Âmbito do sistema
 
 ###### Artigo 17.º — Âmbito
 
@@ -486,7 +478,7 @@ b) Qualificação do risco.
 
 3 - Não são susceptíveis de apoio no quadro do presente Regulamento os projectos de investimentos que, da aplicação dos critérios referidos no n.º 1 do presente artigo, nos termos do número anterior, obtenham uma pontuação inferior a 50 ou uma pontuação nula no critério referido na alínea a) do n.º 1 do presente artigo.
 
-#### SECÇÃO II — Despesas elegíveis
+#### Secção II — Despesas elegíveis
 
 ###### Artigo 23.º — Despesas elegíveis
 
@@ -566,7 +558,7 @@ l) Fundo de maneio.
 
 5 - Para efeito do disposto no presente artigo, apenas são considerados os valores declarados pelo promotor do projecto que correspondam aos custos médios do mercado, podendo o organismo coordenador, caso não se verifique essa correspondência, proceder à respectiva adequação, assim como se procederá a uma análise de adequabilidade da proporção da natureza das despesas face ao investimento global e à natureza e objectivos do mesmo, podendo de igual modo proceder-se à respectiva adequação.
 
-#### SECÇÃO III — Incentivo
+#### Secção III — Incentivo
 
 ###### Artigo 24.º — Natureza e cumulação
 
@@ -582,7 +574,7 @@ l) Fundo de maneio.
 
 O valor dos incentivos a conceder é determinado pela aplicação das percentagens referidas no n.º 1 do artigo seguinte, no n.º 1 do artigo 29.º e no n.º 1 do artigo 34.º, todos do presente Regulamento, sobre o valor das respectivas despesas elegíveis, nos termos dos artigos seguintes.
 
-##### SUBSECÇÃO I — Projectos das alíneas a) e b) do artigo 17.º
+##### Subsecção I — Projectos das alíneas a) e b) do artigo 17.º
 
 ###### Artigo 26.º — Taxas e composição do incentivo
 
@@ -594,7 +586,7 @@ O valor dos incentivos a conceder é determinado pela aplicação das percentage
 
 O incentivo a conceder aos projectos referidos no n.º 1 do artigo anterior não pode exceder, no que respeita aos da alínea a) do artigo 17.º, (euro) 100000 e no que respeita aos da alínea b) do mesmo preceito, considerados no conjunto de todos os projectos desta tipologia integrados no PITER, (euro) 500000 ou 5% do montante global do PITER.
 
-##### SUBSECÇÃO II — Projectos das alíneas c) e d) do artigo 17.º
+##### Subsecção II — Projectos das alíneas c) e d) do artigo 17.º
 
 ###### Artigo 28.º — Agrupamento de despesas
 
@@ -630,7 +622,7 @@ b) No caso dos projectos referidos na alínea d) do artigo 17.º do presente Reg
 
 a) A título de majoração regional, em 10%, no caso de os respectivos projectos se localizarem na zona II identificada no anexo C ao presente Regulamento;
 
-b) A título de majoração pelo tipo de empresa, em 10%, no caso dos projectos promovidos por pequenas ou médias empresas (PME), como tal definidas na Recomendação da Comissão Europeia n.º [96/280/CE](http://data.europa.eu/eli/reco/1996/280/oj?locale=pt), de 3 de Abril, publicada no JOCE, n.º L107, de 30 de Abril de 1996, com excepção dos projectos localizados na zona da Grande Lisboa.
+b) A título de majoração pelo tipo de empresa, em 10%, no caso dos projectos promovidos por pequenas ou médias empresas (PME), como tal definidas na Recomendação da Comissão Europeia n.º 96/280/CE, de 3 de Abril, publicada no JOCE, n.º L107, de 30 de Abril de 1996, com excepção dos projectos localizados na zona da Grande Lisboa.
 
 2 - No âmbito dos projectos enquadráveis na alínea d) do artigo 17.º do presente Regulamento, que, localizando-se na zona da Grande Lisboa, sejam promovidos por não PME, a percentagem referida na alínea b) do n.º 1 do artigo anterior é reduzida para 30%.
 
@@ -722,13 +714,13 @@ b) Outros investimentos incorpóreos: 50% das respectivas despesas elegíveis.
 
 2 - Os incentivos, para comparticipação das despesas de investimento a que se refere a alínea b) do número anterior, quando relativas a projectos de investimento promovidos por não PME, são concedidos segundo o regime de minimis, definido pela Comissão Europeia.
 
-#### SECÇÃO IV — Limites globais de incentivo
+#### Secção IV — Limites globais de incentivo
 
 ###### Artigo 37.º — Limites globais do incentivo
 
 Em cada projecto de investimento enquadrável na alínea b), quando a respectiva entidade promotora tenha natureza privada, bem como nas alíneas c) e d) do artigo 17.º do presente Regulamento, a soma dos incentivos, expressos em equivalente de subvenção bruta, relativos a todas as despesas elegíveis, não pode exceder 50% das mesmas no caso de projectos promovidos por PME, ou 45% nos restantes casos.
 
-#### SECÇÃO V — Capital de risco
+#### Secção V — Capital de risco
 
 ###### Artigo 38.º — Capital de risco
 
@@ -742,9 +734,9 @@ Em cada projecto de investimento enquadrável na alínea b), quando a respectiva
 
 2 - Os apoios a que se refere o n.º 2 do artigo anterior concretizam-se através de um fundo de desconto a criar para o efeito no âmbito do Programa Operacional de Economia.
 
-### CAPÍTULO IV — Das candidaturas e do processo de decisão
+### Capítulo IV — Das candidaturas e do processo de decisão
 
-#### SECÇÃO I — Projectos das alíneas a) e b) do artigo 17.º
+#### Secção I — Projectos das alíneas a) e b) do artigo 17.º
 
 ###### Artigo 40.º — Apresentação e tramitação da candidatura
 
@@ -768,7 +760,7 @@ b) Pelo promotor, por si e em representação dos restantes, e após a aprovaç�
 
 8 - Quando a decisão quanto ao pedido de concessão for favorável, o organismo coordenador envia ao promotor, no prazo de seis dias úteis após a recepção da informação a que se refere o número anterior, a minuta do contrato de concessão de incentivos a que se refere o n.º 2 do artigo 13.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio, e procede ao pedido dos documentos necessários para a celebração do contrato.
 
-#### SECÇÃO II — Projectos das alíneas c) e d) do artigo 17.º
+#### Secção II — Projectos das alíneas c) e d) do artigo 17.º
 
 ###### Artigo 41.º — Organismos gestores
 
@@ -888,7 +880,7 @@ m) Declaração do promotor assumindo o compromisso de afectação do empreendim
 
 6 - Quando a decisão quanto ao pedido de concessão for favorável, o organismo coordenador envia ao promotor, no prazo de seis dias úteis após a recepção da informação a que se refere o número anterior, a minuta do contrato de concessão de incentivos a que se refere o n.º 2 do artigo 13.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio, e procede ao pedido dos documentos necessários para a celebração do contrato.
 
-### CAPÍTULO V — Do contrato de concessão de incentivos
+### Capítulo V — Do contrato de concessão de incentivos
 
 ###### Artigo 47.º — Contrato de concessão de incentivos
 
@@ -938,7 +930,7 @@ b) A verificação física do projecto tem por base um relatório de execução 
 
 4 - Sem prejuízo do disposto nos números anteriores e no n.º 3 do artigo 9.º do presente diploma, o acompanhamento e controlo da execução dos projectos do presente diploma é realizado pelo organismo coordenador em articulação com a direcção regional de economia.
 
-### CAPÍTULO VI — Apoio do IFT aos projectos de natureza pública
+### Capítulo VI — Apoio do IFT aos projectos de natureza pública
 
 ###### Artigo 50.º — Âmbito do apoio do IFT
 
@@ -952,7 +944,7 @@ No caso de o investimento de natureza pública constante do PITER relativo a pro
 
 3 - Caso não sejam adoptados outros mecanismos para o efeito, o acompanhamento e controlo dos projectos a que se refere o presente artigo são efectuados nos termos do artigo 49.º do presente Regulamento, com as necessárias adaptações.
 
-### CAPÍTULO VII — Regiões Autónomas
+### Capítulo VII — Regiões Autónomas
 
 ###### Artigo 52.º — Fases de pré-candidatura PITER e candidatura PITER
 
@@ -972,7 +964,7 @@ No caso de o investimento de natureza pública constante do PITER relativo a pro
 
 As competências cometidas à Direcção-Geral do Turismo no presente Regulamento são exercidas nas Regiões Autónomas pelos respectivos serviços regionais de turismo.
 
-### CAPÍTULO VIII — Disposições finais e transitórias
+### Capítulo VIII — Disposições finais e transitórias
 
 ###### Artigo 55.º — Conceitos
 
@@ -990,7 +982,7 @@ e) «Zona da Grande Lisboa» e «zona de Lisboa e Vale do Tejo» tal como delimi
 
 f) «Projecto âncora» um projecto de natureza pública ou privada que se afigura indispensável para a materialização da estratégia do PITER e sem o qual os respectivos objectivos não se alcançam;
 
-g) «Trabalhadores desfavorecidos» os enunciados na alínea g) do artigo 2.º do Regulamento (CE) n.º [68/2001](http://data.europa.eu/eli/reg/2001/68/oj?locale=pt), da Comissão, de 12 de Janeiro, publicado no JO, n.º L 10, de 13 de Janeiro de 2001.
+g) «Trabalhadores desfavorecidos» os enunciados na alínea g) do artigo 2.º do Regulamento (CE) n.º 68/2001, da Comissão, de 12 de Janeiro, publicado no JO, n.º L 10, de 13 de Janeiro de 2001.
 
 ###### Artigo 56.º — Disposições transitórias
 
@@ -1012,11 +1004,13 @@ b) O montante de investimento inerente à execução do projecto não afecte os 
 
 c) O prazo de execução do projecto se enquadre no prazo de execução do PITER onde o mesmo se inclui.
 
-## ANEXO A — 1.º
+## Anexo A
+
+###### 1.º
 
 Para efeitos do disposto no n.º 1 do artigo 6.º do presente Regulamento, são seleccionáveis os programas que, de acordo com a notação de Muito forte, Forte, Médio e Fraco, preencham com, pelo menos, Forte o critério referido na alínea a) daquele preceito regulamentar e Médio os critérios previstos nas restantes alíneas.
 
-2.º
+###### 2.º
 
 1 - Para efeitos do disposto na alínea g) do n.º 1 do artigo 20.º do presente Regulamento, considera-se que as pessoas colectivas promotoras de projectos de investimento possuem um situação económico-financeira equilibrada quando apresentem um rácio de autonomia financeira pré-projecto de, no mínimo, 25%.
 
@@ -1034,7 +1028,7 @@ Ale = activo líquido da empresa no exercício anterior ao da apresentação da 
 
 4 - Mediante proposta do gestor, devidamente fundamentada, pode o Ministro da Economia ajustar os requisitos enunciados no presente número.
 
-3.º
+###### 3.º
 
 1 - Para efeitos do disposto na alínea c) do n.º 2 do artigo 21.º do presente Regulamento, consideram-se adequadamente financiados com capitais próprios os projectos de investimento cujo investimento elegível seja coberto por um mínimo de 25% de capitais próprios, calculado nos termos de uma das fórmulas seguintes:
 
@@ -1056,7 +1050,7 @@ Ip = montante do investimento elegível do projecto.
 
 2 - Para efeitos de determinação dos capitais próprios da empresa, é aplicável o disposto no n.º 3 do número anterior.
 
-4.º
+###### 4.º
 
 1 - A valia económica dos projectos de investimento, para efeitos do disposto no n.º 2 do artigo 22.º do presente Regulamento, é calculada através da soma das pontuações obtidas para cada um dos critérios, ponderadas com base nos seguintes coeficientes:
 
@@ -1158,7 +1152,7 @@ c) 40, quando, pelo menos, os dois subcritérios com Médio;
 
 d) 0, em outras situações.
 
-5.º
+###### 5.º
 
 1 - Para efeitos do disposto no n.º 3 do artigo 31.º do presente Regulamento, o grau de cumprimento do contrato é calculado em função do cumprimento, por parte do promotor, dos seguintes objectivos, tal como propostos no dossier de candidatura e aceites pelo organismo coordenador:
 
@@ -1188,7 +1182,7 @@ b) 50% das percentagens máximas referidas no n.º 2 daquele preceito regulament
 
 4 - A verificação do cumprimento dos objectivos enunciados no n.º 1 do presente número é efectuada na data da conclusão do projecto, no caso do objectivo X1, no final do exercício da confusão, no caso do objectivo X2, e no final do ano civil que corresponda, no máximo, ao final do 3.º ano após a exploração, no caso do objectivo X3, sem prejuízo dos reembolsos eventualmente já realizados por força do disposto no n.º 1 do artigo 33.º do presente Regulamento.
 
-6.º
+###### 6.º
 
 1 - O apoio do Instituto de Financiamento e Apoio ao Turismo previsto no artigo 50.º do presente Regulamento, consiste na concessão de um incentivo, sob a forma reembolsável, não reembolsável ou mista, até ao limite de 25% do investimento elegível de cada projecto de natureza pública, através de verbas nacionais do orçamento do IFT.
 
@@ -1200,14 +1194,12 @@ b) 50% das percentagens máximas referidas no n.º 2 daquele preceito regulament
 
 5 - A intensidade do apoio, atento o limite previsto no n.º 1 do presente número, é graduada, em termos indicativos, em função da valia turística dos projectos, ponderada de acordo com os graus de atractibilidade do projecto, da utilização preponderante por turistas e da operacionalização turística que o projecto confere aos restantes, nos termos do seguinte quadro:
 
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)
+(ver quadro no documento original)
 
-## ANEXO B
+## Anexo B — Taxas máximas relativas à formação profissional em equivalente de subvenção bruta [Regulamento (CE) n.º 68/2001, da Comissão, de 12 de Janeiro, publicado no JO, n.º L 10, de 13 de Janeiro de 2001]
 
-Taxas máximas relativas à formação profissional em equivalente de subvenção bruta [Regulamento (CE) n.º [68/2001](http://data.europa.eu/eli/reg/2001/68/oj?locale=pt), da Comissão, de 12 de Janeiro, publicado no JO, n.º L 10, de 13 de Janeiro de 2001]
+(ver quadro no documento original)
 
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)
+## Anexo C — Zonas de modulação regional
 
-## ANEXO C — Zonas de modulação regional
-
-[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)](https://files.diariodarepublica.pt/1s/2001/05/104b00/25812599.pdf)
+(ver quadro no documento original)

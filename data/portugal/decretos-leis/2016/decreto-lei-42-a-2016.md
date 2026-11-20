@@ -43,11 +43,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-01-01'
+  consolidation_date: '2026-11-03'
 version_history:
   file: decreto-lei-42-a-2016.versoes.json
-  count: 5
-  source_lastmod: '2024-12-23'
+  count: 6
+  source_lastmod: '2026-11-03'
   versions:
   - date: '2016-08-12'
     amending: null
@@ -74,7 +74,6 @@ version_history:
     - Adita Artigo 10.º-A
     - Adita Artigo 10.º-B
     - Adita Artigo 12.º-A
-    - Altera Artigo 1.º
     - Altera Artigo 3.º
     - Altera Artigo 4.º
     - Altera Artigo 5.º
@@ -95,6 +94,11 @@ version_history:
     - Revoga Artigo 10.º-B
     - Revoga Artigo 12.º-A
     - Revoga Artigo 14.º
+  - date: '2026-11-03'
+    amending: pt:dre:1190056897:por
+    amending_title: Decreto-Lei n.º 207/2026
+    changes:
+    - Altera Artigo 10.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/42-a/2016/p/cons/20241231/pt/html
@@ -109,19 +113,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42-a/2016/p/cons/20241231/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-105635148
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-105635148
-  retrieved_at: '2026-10-22T13:20:48Z'
+  retrieved_at: '2026-11-20T13:49:46Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-12-23T00:00:00Z'
+  source_modified_at: '2026-11-03T00:00:00Z'
 integrity:
-  source_sha256: 71a2b85c2df10439301e67294537a5d2e1c7ca5c9e8457627f013f51ab597941
+  source_sha256: c2ea2337e45b90927e0e22e0faa4bc7c3c8e412dabdd518b6553ec94542ec8b1
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:20:48Z'
-  notes: 5 versão(ões); histórico completo em decreto-lei-42-a-2016.versoes.json.
+  generated_at: '2026-11-20T13:49:46Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-42-a-2016.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,6 +187,11 @@ relationships:
     14.º
   source: https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918
   date: '2024-12-31'
+- type: amended_by
+  target: pt:dre:1190056897:por
+  label: Altera Artigo 10.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897
+  date: '2026-11-02'
 - type: cites
   target: celex:32003L0087
   label: null
@@ -256,7 +265,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:20:48Z'
+  checked_at: '2026-11-20T13:49:46Z'
   warnings: []
   errors: []
 ---
@@ -305,9 +314,9 @@ f) À segunda alteração ao Decreto-Lei n.º 135/2012, de 29 de junho, alterado
 
 g) À primeira alteração ao Decreto-Lei n.º 38/2013, de 15 de março, que regula o regime de comércio de licenças de emissão de gases com efeito de estufa a partir de 2013, concluindo a transposição da Diretiva n.º 2009/29/CE, do Parlamento Europeu e do Conselho, de 23 de abril de 2009, a fim de melhorar e alargar o regime comunitário de comércio de licenças de emissão de gases com efeito de estufa;
 
-h) À extinção do Fundo Florestal Permanente, do Fundo Português de Carbono, do Fundo de Intervenção Ambiental, do Fundo de Apoio à Inovação, do Fundo de Proteção dos Recursos Hídricos e do Fundo para a Conservação da Natureza e da Biodiversidade, do Fundo de Eficiência Energética e do Fundo para a Sustentabilidade Sistémica do Setor Energético, criados pelo Decreto-Lei n.º 63/2004, de 22 de março, pelo Decreto-Lei n.º 71/2006, de 24 de março, pelo artigo 69.º da Lei n.º 50/2006, de 29 de agosto, pelo Despacho n.º 32276-A/2008, publicado no Diário da República, 2.ª série, n.º 243, de 17 de dezembro, na sua redação atual, pelo Decreto-Lei n.º 172/2009, de 3 de agosto, pelo Decreto-Lei n.º 171/2009, de 3 de agosto, pelo Decreto-Lei n.º 50/2010, de 20 de maio, e pelo Decreto-Lei n.º 55/2014, de 9 de abril, respetivamente.
+h) À extinção do Fundo Português de Carbono, do Fundo de Intervenção Ambiental, do Fundo de Proteção dos Recursos Hídricos e do Fundo para a Conservação da Natureza e da Biodiversidade, criados pelo Decreto-Lei n.º 71/2006, de 24 de março, pelo artigo 69.º da Lei n.º 50/2006, de 29 de agosto, pelo Decreto-Lei n.º 172/2009, de 3 de agosto, e pelo Decreto-Lei n.º 171/2009, de 3 de agosto, respetivamente.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583).
 
 ### Capítulo II — Criação do Fundo Ambiental
 
@@ -477,7 +486,7 @@ d) A repartição pelos CIEG do montante a deduzir nos termos da alínea anterio
 
 ###### Artigo 7.º — Regras de atribuição de apoios
 
-1 — A definição do plano anual de atribuição de apoios e utilização das receitas compete ao conselho diretivo da ApC, I. P., o qual será objeto de aprovação pelo membro do Governo responsável pela área do ambiente, e deverá respeitar as orientações definidas nos termos do n.º 2 do artigo anterior.
+1 - A definição do plano anual de atribuição de apoios e utilização das receitas compete ao conselho diretivo da ApC, I. P., o qual será objeto de aprovação pelo membro do Governo responsável pela área do ambiente, e deverá respeitar as orientações definidas nos termos do n.º 2 do artigo anterior.
 
 2 - O plano anual referido no número anterior integra um programa de avisos de âmbito nacional para apresentação de candidaturas a algumas ou a todas as tipologias de apoios a que se refere o artigo seguinte.
 
@@ -509,9 +518,9 @@ d) As transferências legalmente previstas.
 
 6 - A proposta de plano anual de atribuição de apoios e utilização das receitas é precedida de consulta à Associação Nacional de Municípios Portugueses, a qual se deve pronunciar no prazo máximo de 10 dias.
 
-> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01
+> Alterado pelo/a Artigo 325.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01.
 
-> Alterado pelo/a Artigo 325.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 114/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), em vigor a partir de 2021-12-16, produz efeitos a partir de 2022-01-01
 
@@ -658,6 +667,10 @@ m) Assegurar o funcionamento de um sistema de controlo interno que previna e det
 4 - O Fundo funciona em instalações para o efeito disponibilizadas pela ApC, I. P.
 
 5 - (Revogado.)
+
+6 - Dos atos praticados pela ApC, I. P., enquanto responsável pela gestão do Fundo Ambiental, não cabe recurso administrativo, respondendo o Fundo pelos mesmos junto dos tribunais administrativos, em caso de impugnação judicial, nos termos das leis do processo administrativo.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 207/2026 - Diário da República n.º 212/2026, Série I de 2026-11-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2026-1190056897), em vigor a partir de 2026-11-03.
 
 > Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 122/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2024-901661921), em vigor a partir de 2025-01-01
 

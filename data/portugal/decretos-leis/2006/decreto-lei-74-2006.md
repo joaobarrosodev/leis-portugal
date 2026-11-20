@@ -46,8 +46,8 @@ version:
   consolidation_date: '2026-07-25'
 version_history:
   file: decreto-lei-74-2006.versoes.json
-  count: 8
-  source_lastmod: '2026-07-23'
+  count: 9
+  source_lastmod: '2026-11-09'
   versions:
   - date: '2006-03-24'
     amending: null
@@ -240,6 +240,11 @@ version_history:
     amending_title: Decreto-Lei n.º 148/2026
     changes:
     - Altera Artigo 46.º-B
+  - date: '2027-01-04'
+    amending: pt:dre:1192107480:por
+    amending_title: Decreto-Lei n.º 214/2026
+    changes:
+    - Revoga Diploma
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/74/2006/p/cons/20260720/pt/html
@@ -254,10 +259,10 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2006/p/cons/20260720/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-75326440
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-75326440
-  retrieved_at: '2026-10-22T13:46:11Z'
+  retrieved_at: '2026-11-20T13:50:15Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2026-07-23T00:00:00Z'
+  source_modified_at: '2026-11-09T00:00:00Z'
 integrity:
   source_sha256: 098ae1bfc81b856e26033c9a434a4118b15269a808e82960c86ce9b808a74655
   source_sha256_scope: official_source_content_bytes
@@ -265,8 +270,8 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T13:46:11Z'
-  notes: 8 versão(ões); histórico completo em decreto-lei-74-2006.versoes.json.
+  generated_at: '2026-11-20T13:50:15Z'
+  notes: 9 versão(ões); histórico completo em decreto-lei-74-2006.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -356,6 +361,11 @@ relationships:
   label: Altera Artigo 46.º-B
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697
   date: '2026-07-20'
+- type: amended_by
+  target: pt:dre:1192107480:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480
+  date: '2026-11-06'
 - type: cites
   target: celex:32005L0036
   label: null
@@ -373,7 +383,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T13:46:11Z'
+  checked_at: '2026-11-20T13:50:15Z'
   warnings: []
   errors: []
 ---

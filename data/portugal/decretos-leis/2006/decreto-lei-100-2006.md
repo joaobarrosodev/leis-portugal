@@ -42,18 +42,14 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2007-01-13'
 version_history:
   file: decreto-lei-100-2006.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-12'
   versions:
-  - date: '2006-06-06'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2007-01-13'
     amending: pt:dre:262091:por
     amending_title: Decreto-Lei n.º 5/2007
@@ -71,21 +67,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2006-353935
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2006/06/06/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2006-353935
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:51:47Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-979328722
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-979328722
+  retrieved_at: '2026-11-20T13:52:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-12T00:00:00Z'
 integrity:
-  source_sha256: c76205dc44908947260cd9590e597bf4bab0015b22401dd478d490a783d240ab
+  source_sha256: 908744847b2757947ca1b162ed4e4fd3d15d5cff1de98b5651fbe9a959bbbf69
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:51:47Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 5/2007. Método e
-    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2006/decreto-lei-100-2006.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:52:27Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-100-2006.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,24 +126,22 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:51:47Z'
+  checked_at: '2026-11-20T13:52:27Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 100/2006
 
-de 6 de Junho
+O Decreto Regulamentar n.º 7/2005, de 10 de Agosto, criou o Alto Comissariado da Saúde, enquanto serviço de coordenação intraministerial, para a articulação das políticas públicas de preparação e execução do Plano Nacional de Saúde e de programas específicos de âmbito nacional que o integram. Ficou de imediato prevista a existência de coordenadores nacionais, responsáveis por alguns programas considerados prioritários porque permitem consideráveis ganhos em saúde, já que cada uma das áreas escolhidas se encontra associada a elevados custos económicos e sociais, podendo a acção pública ser muito eficaz na mitigação dos seus efeitos e, consequentemente, destes custos. Uma das áreas escolhidas para actuação de um coordenador nacional foi a da saúde das pessoas idosas e dos cidadãos em situação de dependência.
 
-O [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), de 10 de Agosto, criou o Alto Comissariado da Saúde, enquanto serviço de coordenação intraministerial, para a articulação das políticas públicas de preparação e execução do Plano Nacional de Saúde e de programas específicos de âmbito nacional que o integram. Ficou de imediato prevista a existência de coordenadores nacionais, responsáveis por alguns programas considerados prioritários porque permitem consideráveis ganhos em saúde, já que cada uma das áreas escolhidas se encontra associada a elevados custos económicos e sociais, podendo a acção pública ser muito eficaz na mitigação dos seus efeitos e, consequentemente, destes custos. Uma das áreas escolhidas para actuação de um coordenador nacional foi a da saúde das pessoas idosas e dos cidadãos em situação de dependência.
-
-Nos termos do despacho n.º 23035/2005 (2.ª série), de 17 de Outubro, do Ministro da Saúde, publicado no Diário da República, 2.ª série, n.º 214, de 8 de Novembro de 2005, a Coordenação Nacional para a Saúde das Pessoas Idosas e dos Cidadãos em Situação de Dependência irá dar seguimento ao trabalho desenvolvido pela Comissão para o Desenvolvimento dos Cuidados de Saúde às Pessoas Idosas e às Pessoas em Situação de Dependência, criada pela [Resolução do Conselho de Ministros n.º 84/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2005-533215), de 27 de Abril.
+Nos termos do despacho n.º 23035/2005 (2.ª série), de 17 de Outubro, do Ministro da Saúde, publicado no Diário da República, 2.ª série, n.º 214, de 8 de Novembro de 2005, a Coordenação Nacional para a Saúde das Pessoas Idosas e dos Cidadãos em Situação de Dependência irá dar seguimento ao trabalho desenvolvido pela Comissão para o Desenvolvimento dos Cuidados de Saúde às Pessoas Idosas e às Pessoas em Situação de Dependência, criada pela Resolução do Conselho de Ministros n.º 84/2005, de 27 de Abril.
 
 Acresce que o desenvolvimento de um sistema de cuidados continuados às pessoas idosas e às pessoas dependentes é uma das prioridades inscritas no Programa do XVII Governo Constitucional e no Plano Nacional de Saúde, implicando a implementação de uma rede nacional de cuidados continuados. Esta rede visa apoiar e reforçar as respostas já existentes, alargando as redes comunitárias de apoio para a prática integrada desses cuidados, através da promoção da necessária articulação entre centros de saúde, hospitais, unidades especificamente dedicadas aos cuidados continuados e paliativos, serviços e instituições de apoio social.
 
@@ -159,7 +153,7 @@ Neste contexto, o desenvolvimento de iniciativas transversais aos serviços de s
 
 A transversalidade e dimensão destes projectos tornam os procedimentos de adjudicação mais complexos e, portanto, mais morosos, uma vez que estão vários organismos envolvidos, cada um com as suas especificidades.
 
-Em 2005, apenas foi possível agilizar uma pequena parte das experiências piloto que concretizam a implementação progressiva da rede nacional de cuidados continuados, por força das datas de aprovação e publicação do [Decreto-Lei n.º 213/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2005-491207), de 9 de Dezembro, cujo regime urge alargar agora à actividade da Coordenação Nacional para a Saúde das Pessoas Idosas e dos Cidadãos em Situação de Dependência.
+Em 2005, apenas foi possível agilizar uma pequena parte das experiências piloto que concretizam a implementação progressiva da rede nacional de cuidados continuados, por força das datas de aprovação e publicação do Decreto-Lei n.º 213/2005, de 9 de Dezembro, cujo regime urge alargar agora à actividade da Coordenação Nacional para a Saúde das Pessoas Idosas e dos Cidadãos em Situação de Dependência.
 
 Neste contexto, torna-se conveniente adoptar, até final do ano económico de 2006, um regime de contratação de empreitadas de obras públicas e de aquisição de bens e serviços que combine a celeridade procedimental exigida pela concretização dos referidos projectos com a defesa dos interesses do Estado e a rigorosa transparência nos gastos.
 
@@ -173,7 +167,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 A contratação de empreitadas de obras públicas e a aquisição ou locação, sob qualquer regime, de bens e serviços destinados ao desenvolvimento das experiências piloto em execução e cumprimento dos objectivos da Coordenação Nacional para a Saúde das Pessoas Idosas e Cidadãos em Situação de Dependência, criada pelo despacho n.º 23035/2005 (2.ª série), de 17 de Outubro, do Ministro da Saúde, publicado no Diário da República, 2.ª série, n.º 214, de 8 de Novembro de 2005, que funciona junto do Alto Comissariado para a Saúde, criado pelo Decreto Regulamentar n.º 7/2005, de 10 de Agosto, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratação pública, podem realizar-se, até 31 de Dezembro de 2007, com recurso aos procedimentos por negociação, consulta prévia ou ajuste directo.
 
-> Alterado pelo/a [Decreto-Lei n.º 5/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2007-262091), publicado em 2007-01-08.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 5/2007 - Diário da República n.º 5/2007, Série I de 2007-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2007-262091), em vigor a partir de 2007-01-13.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 

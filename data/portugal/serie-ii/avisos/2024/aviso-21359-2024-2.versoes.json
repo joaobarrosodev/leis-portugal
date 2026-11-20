@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:888929803:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-1196210175",
+ "dre_path": "/dr/detalhe/aviso/21359-2024-888929803",
+ "source_lastmod": "2026-11-18",
+ "versions": [
+  {
+   "date": "2024-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1196212475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1196212475": {
+   "fragment_id": "1196210275",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Celebração de contrato de trabalho em funções públicas por tempo indeterminado com a técnica superior Elisabete Silvestre Santos\n\nNos termos do disposto na alínea b) do n.º 1 e do n.º 2 do artigo 4.º da Lei n.º 35/2014, de 20 de junho, torna-se público que na sequência de procedimento concursal para preenchimento de um posto de trabalho na carreira e categoria de técnico superior, levado a efeito nos termos legais, aberto através do Aviso (extrato) n.º 6047/2024, publicado na 2.ª série do Diário da República, n.º 57, de 20 de março, foi celebrado um contrato de trabalho em funções públicas por tempo indeterminado, com efeitos a partir de 15 de julho de 2024, entre a Agência Portuguesa do Ambiente, I. P., e a técnica superior Elisabete Silvestre Santos, ficando a mesma integrada na 1.ª posição remuneratória, nível remuneratório 16, da tabela remuneratória única, na sua versão atual."
+  }
+ }
+}

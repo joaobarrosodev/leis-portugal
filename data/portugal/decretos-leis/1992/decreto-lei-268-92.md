@@ -45,7 +45,7 @@ version:
 version_history:
   file: decreto-lei-268-92.versoes.json
   count: 1
-  source_lastmod: null
+  source_lastmod: '2026-10-21'
   versions:
   - date: '2015-06-27'
     amending: pt:dre:67098361:por
@@ -66,10 +66,10 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/268/1992/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-885604636
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-885604636
-  retrieved_at: '2026-10-22T14:06:01Z'
+  retrieved_at: '2026-11-20T13:48:37Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: null
+  source_modified_at: '2026-10-21T00:00:00Z'
 integrity:
   source_sha256: dca3f2765f36f0fd795620d80ef595f23a8573a5810e21294c818b8e4ec7f7dc
   source_sha256_scope: official_source_content_bytes
@@ -77,7 +77,7 @@ provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T14:06:01Z'
+  generated_at: '2026-11-20T13:48:37Z'
   notes: 1 versão(ões); histórico completo em decreto-lei-268-92.versoes.json.
 reuse:
   status: permitted
@@ -115,7 +115,7 @@ derived_material:
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T14:06:01Z'
+  checked_at: '2026-11-20T13:48:37Z'
   warnings: []
   errors: []
 ---

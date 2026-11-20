@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:865171147:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-1196631475",
+ "dre_path": "/dr/detalhe/aviso/10653-2024-865171147",
+ "source_lastmod": "2026-11-19",
+ "versions": [
+  {
+   "date": "2024-05-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1196635175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1196635175": {
+   "fragment_id": "1196631575",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos da alínea a) do n.º 1 do artigo 4.º da Lei n.º 35/2014, de 20 de junho, torna-se público que, após obtenção do parecer prévio favorável do Senhor Secretário de Estado do Turismo, Comércio e Serviços foi determinada a consolidação da mobilidade intercarreiras para a carreira e categoria de técnico superior, da assistente técnica Marta Isabel Ferreira Pereira Gomes, ao abrigo dos n.º 3 do artigo 99.º-A da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, ficando posicionada na 1.ª posição remuneratória e no nível remuneratório 16 da Tabela Remuneratória Única, a que corresponde a remuneração mensal atual de 1.385,99 €, com efeitos reportados a 2 de julho de 2023."
+  }
+ }
+}

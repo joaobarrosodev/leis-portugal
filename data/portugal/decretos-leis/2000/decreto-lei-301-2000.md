@@ -41,11 +41,11 @@ version:
   kind: consolidated
   label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: '2025-06-02'
+  consolidation_date: '2026-11-02'
 version_history:
   file: decreto-lei-301-2000.versoes.json
   count: 6
-  source_lastmod: '2024-06-25'
+  source_lastmod: '2026-10-29'
   versions:
   - date: '2000-11-18'
     amending: null
@@ -108,11 +108,26 @@ version_history:
     - Altera Artigo 17.º-A
     - Altera Artigo 22.º
     - Altera Anexo I
-  - date: '2025-06-02'
-    amending: pt:dre:916914752:por
-    amending_title: Decreto-Lei n.º 72/2025
+  - date: '2026-11-02'
+    amending: pt:dre:1184326799:por
+    amending_title: Decreto-Lei n.º 203/2026
     changes:
-    - Altera Artigo 6.º
+    - Adita Capítulo I
+    - Adita Capítulo II
+    - Adita Secção I
+    - Adita Artigo 12.º-B
+    - Adita Secção II
+    - Adita Artigo 17.º-B
+    - Adita Artigo 17.º-C
+    - Adita Capítulo III
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Anexo I
+    - Altera Anexo II
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/301/2000/p/cons/20250506/pt/html
@@ -127,18 +142,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/301/2000/p/cons/20250506/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-137784327
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-137784327
-  retrieved_at: '2026-10-22T12:33:19Z'
+  retrieved_at: '2026-11-20T13:49:22Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-10-29T00:00:00Z'
 integrity:
-  source_sha256: ede917203f613b2542a41cba58446360387f763f6c179afad845d2ad9d4d7b2b
+  source_sha256: 3826331f197f7121e2866846691b22c0b0e091ba6a899fd834a353b2eb8580eb
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:33:19Z'
+  generated_at: '2026-11-20T13:49:22Z'
   notes: 6 versão(ões); histórico completo em decreto-lei-301-2000.versoes.json.
 reuse:
   status: permitted
@@ -190,6 +205,13 @@ relationships:
   label: Altera Artigo 6.º
   source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2025-916914752
   date: '2025-05-06'
+- type: amended_by
+  target: pt:dre:1184326799:por
+  label: Adita Capítulo I; Adita Capítulo II; Adita Secção I; Adita Artigo 12.º-B; Adita Secção II; Adita Artigo 17.º-B; Adita
+    Artigo 17.º-C; Adita Capítulo III; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera
+    Artigo 17.º; Altera Artigo 18.º; Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799
+  date: '2026-10-22'
 - type: cites
   target: celex:31978L0610
   label: null
@@ -203,23 +225,55 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1997/42/oj
 - type: cites
+  target: celex:31998L0024
+  label: null
+  source: null
+- type: cites
   target: celex:31999L0038
   label: null
   source: http://data.europa.eu/eli/dir/1999/38/oj
 - type: cites
+  target: celex:32004L0037
+  label: null
+  source: null
+- type: cites
   target: celex:32008R1272
   label: null
   source: null
+- type: cites
+  target: celex:32014L0027
+  label: null
+  source: null
+- type: cites
+  target: celex:32017L2398
+  label: null
+  source: null
+- type: cites
+  target: celex:32019L0130
+  label: null
+  source: null
+- type: cites
+  target: celex:32019L0983
+  label: null
+  source: null
+- type: cites
+  target: celex:32022L0431
+  label: null
+  source: null
+- type: cites
+  target: celex:32024L0869
+  label: null
+  source: null
 article_structure:
-  article_count: 25
-  section_count: 2
+  article_count: 28
+  section_count: 7
   extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:33:19Z'
+  checked_at: '2026-11-20T13:49:22Z'
   warnings: []
   errors: []
 ---
@@ -248,9 +302,29 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
+### Capítulo I — Objeto e âmbito de aplicação
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
 ###### Artigo 1.º — Objecto
 
-O presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=1990&id=390L0394" title="Link para Directiva da Comunidade Europeia">90/394/CEE</a>, do Conselho, de 28 de Junho, alterada pelas Directivas n.os <a href="eurlex.asp?ano=1997&id=397L0042" title="Link para Directiva da Comunidade Europeia">97/42/CE</a>, do Conselho, de 27 de Junho, e <a href="eurlex.asp?ano=1999&id=399L0038" title="Link para Directiva da Comunidade Europeia">1999/38/CE</a>, do Conselho, de 29 de Abril, relativa à protecção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho.
+1 - O presente decreto-lei estabelece as prescrições mínimas em matéria de proteção dos trabalhadores contra os riscos para a segurança e a saúde decorrentes da exposição a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução durante o trabalho.
+
+2 - O presente decreto-lei assegura o cumprimento da <a href="https://data.europa.eu/eli/dir/2004/37/oj?locale=pt"><u>Diretiva 2004/37/CE</u></a>, do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho, que procedeu à codificação e à revogação da <a href="https://data.europa.eu/eli/dir/1990/394/oj?locale=pt"><u>Diretiva 90/394/CEE</u></a> do Conselho, de 28 de junho de 1990, e integra, total ou parcialmente, alterações legislativas que resultam da transposição das seguintes diretivas:
+
+a) <a href="https://data.europa.eu/eli/dir/2014/27/oj?locale=pt"><u>Diretiva 2014/27/UE</u></a> do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, que altera as Diretivas <a href="https://data.europa.eu/eli/dir/1992/58/oj?locale=pt"><u>92/58/CEE</u></a>, <a href="https://data.europa.eu/eli/dir/1992/85/oj?locale=pt"><u>92/85/CEE</u></a>, <a href="https://data.europa.eu/eli/dir/1994/33/oj?locale=pt"><u>94/33/CE</u></a> e <a href="https://data.europa.eu/eli/dir/1998/24/oj?locale=pt"><u>98/24/CE</u></a> do Conselho e a <a href="https://data.europa.eu/eli/dir/2004/37/oj?locale=pt"><u>Diretiva 2004/37/CE</u></a> do Parlamento Europeu e do Conselho, a fim de as adaptar ao <a href="https://data.europa.eu/eli/reg/2008/1272/oj?locale=pt"><u>Regulamento (CE) n.º 1272/2008</u></a> relativo à classificação, rotulagem e embalagem de substâncias e misturas;
+
+b) <a href="https://data.europa.eu/eli/dir/2017/2398/oj?locale=pt"><u>Diretiva (UE) 2017/2398</u></a> do Parlamento Europeu e do Conselho, de 12 de dezembro de 2017, que altera a <a href="https://data.europa.eu/eli/dir/2004/37/oj?locale=pt"><u>Diretiva 2004/37/CE</u></a> relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho;
+
+c) <a href="https://data.europa.eu/eli/dir/2019/130/oj?locale=pt"><u>Diretiva (UE) 2019/130</u></a> do Parlamento Europeu e do Conselho, de 16 de janeiro de 2019, que altera a <a href="https://data.europa.eu/eli/dir/2004/37/oj?locale=pt"><u>Diretiva 2004/37/CE</u></a> relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho;
+
+d) <a href="https://data.europa.eu/eli/dir/2019/983/oj?locale=pt"><u>Diretiva (UE) 2019/983</u></a> do Parlamento Europeu e do Conselho, de 5 de junho de 2019, que altera a <a href="https://data.europa.eu/eli/dir/2004/37/oj?locale=pt"><u>Diretiva 2004/37/CE</u></a>, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho;
+
+e) <a href="https://data.europa.eu/eli/dir/2022/431/oj?locale=pt"><u>Diretiva (UE) 2022/431</u></a> do Parlamento Europeu e do Conselho, de 9 de março de 2022, que altera a <a href="https://data.europa.eu/eli/dir/2004/37/oj?locale=pt"><u>Diretiva 2004/37/CE</u></a> relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho;
+
+f) <a href="https://data.europa.eu/eli/dir/2024/869/oj?locale=pt"><u>Diretiva (UE) 2024/869</u></a> do Parlamento Europeu e do Conselho, de 13 de março de 2024, que altera a <a href="https://data.europa.eu/eli/dir/2004/37/oj?locale=pt"><u>Diretiva 2004/37/CE</u></a> do Parlamento Europeu e do Conselho e a <a href="https://data.europa.eu/eli/dir/1998/24/oj?locale=pt"><u>Diretiva 98/24/CE</u></a> do Conselho no que diz respeito aos valores-limite para o chumbo e os seus compostos inorgânicos e para os diisocianatos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ###### Artigo 2.º — Âmbito
 
@@ -260,15 +334,25 @@ O presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a 
 
 3 - Nas atividades em que haja risco de exposição ao amianto, são aplicáveis as medidas de proteção previstas no regime jurídico relativo à proteção sanitária dos trabalhadores contra os riscos de exposição ao amianto durante o trabalho, salvo na parte em que o presente diploma for mais favorável à segurança e à saúde dos trabalhadores.
 
-4 - (Revogado).
+4 - (Revogado.)
 
 5 - O disposto pelo n.º 1 inclui os trabalhos suscetíveis de provocar exposição a qualquer substância ou mistura que preencha os requisitos de classificação referidos nas alíneas a) a c) do n.º 1 do artigo 3.º, e que integre a composição dos medicamentos.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
+6 - Nas atividades em que haja risco de exposição a agentes químicos classificados como agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução no local de trabalho, são aplicáveis as disposições do <a href="https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2012-543690"><u>Decreto-Lei n.º 24/2012</u></a>, de 6 de fevereiro, relativas à exposição a agentes químicos durante o trabalho, sem prejuízo das disposições especiais previstas no presente decreto-lei.
 
-> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03.
 
 > Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01
+
+### Capítulo II — Exposição a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
+#### Secção I — Disposições gerais
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ###### Artigo 3.º — Definições
 
@@ -290,7 +374,7 @@ g) «Valor-limite biológico», o limite de concentração no meio biológico ad
 
 h) «Vigilância da saúde», o exame de um trabalhador com o objetivo de determinar o seu estado de saúde relacionado com a exposição, no local de trabalho, a agentes cancerígenos, mutagénicos específicos ou a substâncias tóxicas para a reprodução específicas.
 
-2 - São ainda considerados como cancerígenos as substâncias, as misturas, os trabalhos e os processos seguintes:
+2 - São ainda considerados como agentes cancerígenos ou mutagénicos as substâncias, as misturas, os trabalhos e os processos seguintes:
 
 a) Fabrico de auramina;
 
@@ -302,7 +386,7 @@ d) Processo de ácido forte durante o fabrico do álcool isopropílico;
 
 e) Trabalhos que impliquem a exposição a poeira de madeira de folhosas;
 
-f) As substâncias ou as misturas que se libertem nos processos referidos nas alíneas anteriores.
+f) As substâncias ou as misturas que se libertem nos processos referidos nas alíneas anteriores;
 
 g) Trabalhos que impliquem a exposição a poeira sílica cristalina respirável resultante de um processo de trabalho;
 
@@ -310,7 +394,7 @@ h) Trabalhos que impliquem a exposição cutânea a óleos minerais, que tenham 
 
 i) Trabalhos que impliquem a exposição a emissões de gases de escape dos motores diesel.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03
 
@@ -322,7 +406,7 @@ i) Trabalhos que impliquem a exposição a emissões de gases de escape dos moto
 
 a) A natureza, o grau e o tempo de exposição ao agente cancerígeno, mutagénico ou a substância tóxica para a reprodução;
 
-b) A concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho, considerando os valores-limite de exposição profissional constantes do anexo i ao presente decreto-lei, de acordo com as normas e especificações técnicas na área da segurança e saúde no trabalho relativas, nomeadamente, a metodologias, procedimentos e critérios de amostragem, no âmbito do sistema português da qualidade;
+b) A concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho, considerando os valores-limite de exposição profissional constantes do anexo i ao presente decreto-lei, de acordo com métodos publicados em bibliografia técnica ou normas aplicáveis à área da segurança e saúde no trabalho, implementados e validados por laboratórios de ensaio de acordo com os requisitos definidos no âmbito do sistema português da qualidade.
 
 2 - A avaliação do risco deve ser repetida de três em três meses:
 
@@ -344,13 +428,13 @@ d) Atender às informações relativas à segurança e saúde constantes da resp
 
 e) Ter em conta o estado de saúde do trabalhador exposto e as suas características individuais;
 
-f) Considerar as recomendações dos organismos competentes no domínio da segurança e da saúde no trabalho.
+f) Considerar as recomendações dos organismos competentes no domínio da segurança e da saúde no trabalho;
 
 g) Considerar a possibilidade de não existir um nível seguro de exposição às substâncias referidas no n.º 5 do artigo 5.º, para efeitos de adoção pelo empregador de medidas adequadas para garantir a saúde dos trabalhadores;
 
 4 - (Revogado.)
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03
 
@@ -367,8 +451,6 @@ b) Procede a nova determinação da concentração do agente cancerígeno, mutag
 3 - Quando, na execução de trabalhos, seja previsível a ultrapassagem do valor-limite de exposição profissional e não seja possível a aplicação de medidas técnicas para o reduzir, o empregador adota as medidas de proteção adequadas, devendo consultar os representantes dos trabalhadores ou, na sua ausência, os próprios trabalhadores, antes de iniciar os referidos trabalhos.
 
 4 - Sempre que a determinação da concentração do agente cancerígeno, mutagénico ou da substância tóxica para a reprodução na atmosfera do local de trabalho revele a existência de um valor de exposição profissional superior ao valor-limite de exposição profissional indicado no anexo i ao presente decreto-lei, a frequência do controlo é trimestral, nos termos do n.º 2 do artigo anterior.
-
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
 
 > Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04
 
@@ -389,8 +471,6 @@ b) Procede a nova determinação da concentração do agente cancerígeno, mutag
 6 - A exposição dos trabalhadores a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução não pode exceder os limites indicados no anexo i ao presente decreto-lei.
 
 7 - A substituição dos medicamentos que, na sua composição, contenham qualquer substância ou mistura que preencha os requisitos de classificação referidos nas alíneas a) a c) do n.º 1 do artigo 3.º, não pode prejudicar a saúde dos doentes.
-
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
 
 > Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01
 
@@ -440,9 +520,7 @@ d) Selecionar, utilizar, manter e eliminar os equipamentos de proteção individ
 
 e) (Revogada.)
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
-
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03.
 
 > Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01
 
@@ -465,8 +543,6 @@ d) As medidas de prevenção tomadas e os equipamentos de protecção utilizados
 a) Os elementos que serviram de base à avaliação do risco;
 
 b) O resultado de investigações que promova sobre a substituição e redução de agentes cancerígenos ou mutagénicos e a redução dos riscos de exposição.
-
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03
 
@@ -560,8 +636,6 @@ d) Transferir os registos clínicos e outros elementos informativos do trabalhad
 
 12 - Sem prejuízo do disposto em matéria de comunicação obrigatória estabelecido no regime de reparação de acidentes de trabalho e de doenças profissionais, o serviço com competências na área da proteção contra os riscos profissionais deve considerar prioritária a tramitação dos casos referidos na última parte do número anterior.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
-
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03
 
 > Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01
@@ -570,7 +644,17 @@ d) Transferir os registos clínicos e outros elementos informativos do trabalhad
 
 Sempre que seja indicado no anexo ii ao presente decreto-lei um valor-limite biológico relativamente a um agente cancerígeno ou mutagénico ou a uma substância tóxica para reprodução a que o trabalhador esteja exposto ou potencialmente exposto, a vigilância de saúde deve incluir obrigatoriamente o respetivo controlo biológico.
 
-> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
+###### Artigo 12.º-B — Ultrapassagem do valor-limite biológico
+
+1 - Sempre que, através do controlo biológico de trabalhador exposto a agente cancerígeno, mutagénico ou substância tóxica para a reprodução, seja detetada a ultrapassagem do valor-limite biológico definido no anexo ii, o empregador identifica as causas da situação e aplica, de imediato, as medidas adequadas, nomeadamente as referidas nos artigos 5.º, 6.º e 7.º
+
+2 - As medidas a que se refere o número anterior podem incluir o afastamento do trabalhador afetado do posto de trabalho com exposição ao agente cancerígeno, mutagénico ou substância tóxica para a reprodução, e a sua colocação provisória noutro posto de trabalho isento desse risco.
+
+3 - O trabalhador que se encontre na situação prevista no n.º 1 deve ser submetido no prazo de três meses a novo controlo biológico, não podendo regressar ao seu posto de trabalho inicial, nem a outro que envolva risco de exposição igual ou superior, caso o resultado continue a indicar um valor superior ao valor-limite biológico.
+
+4 - A colocação do trabalhador em posto de trabalho que apresente um risco de exposição menor só pode efetivar-se após parecer favorável do médico do trabalho responsável pela vigilância da saúde.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 ###### Artigo 13.º — Formação dos trabalhadores
 
@@ -594,7 +678,7 @@ b) Disponibilizada periodicamente em contextos de prestação de cuidados de sa�
 
 c) Periodicamente repetida noutros contextos, se necessário.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02 00:00:00.
 
 ###### Artigo 14.º — Informação dos trabalhadores
 
@@ -614,13 +698,13 @@ c) Às referidas na alínea g) do n.º 3 do artigo 4.º e na alínea a) do artig
 
 5 - O empregador deve colocar à disposição dos trabalhadores as informações constantes da lista referida no número anterior que lhe digam directamente respeito, bem como facultar aos representantes dos trabalhadores as informações colectivas anónimas.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02 00:00:00.
 
 ###### Artigo 15.º — Informação e consulta dos trabalhadores
 
 O empregador deve assegurar a informação e consulta dos trabalhadores e dos seus representantes para a segurança e saúde no trabalho sobre a aplicação das disposições do presente decreto-lei.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02 00:00:00.
 
 ###### Artigo 16.º — Registo e arquivo de documentos
 
@@ -638,9 +722,11 @@ d) Os registos de acidentes e incidentes de trabalho e das doenças profissionai
 
 ###### Artigo 17.º — Conservação de registos e arquivos
 
-1 - Os registos e arquivos referidos no artigo anterior devem ser conservados durante, pelo menos, 40 anos após ter terminado a exposição dos trabalhadores a que digam respeito.
+1 - Os registos e arquivos referidos no artigo anterior devem ser conservados durante a vida do trabalhador exposto e, após o seu falecimento, por um período mínimo de 20 anos, sendo garantido, em qualquer caso, um período de conservação não inferior a 40 anos após o termo da exposição.
 
 2 - Se a empresa cessar a atividade, os registos devem ser transferidos para o ISS, I. P., com exceção das fichas clínicas, que devem ser enviadas para o organismo competente da área governativa da saúde, sendo assegurada a sua confidencialidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 > Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03
 
@@ -648,19 +734,69 @@ d) Os registos de acidentes e incidentes de trabalho e das doenças profissionai
 
 Os organismos competentes das áreas governativas do trabalho, solidariedade e segurança social e da saúde podem elaborar guias técnicos, ou outros referenciais, que contenham orientações práticas sobre a prevenção dos riscos profissionais, a proteção e vigilância da saúde dos trabalhadores expostos a agentes cancerígenos, mutagénicos ou a substâncias tóxicas para a reprodução, assim como sobre a avaliação de risco profissional.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2020-08-03 00:00:00.
 
 > Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2020 - Diário da República n.º 134/2020, Série I de 2020-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), em vigor a partir de 2020-08-03
 
+#### Secção II — Exposição ao chumbo e seus compostos inorgânicos
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
+###### Artigo 17.º-B — Vigilância da saúde do trabalhador exposto ao chumbo e seus compostos inorgânicos
+
+1 - Na vigilância da saúde do trabalhador exposto ao chumbo e seus compostos inorgânicos, são observadas as especificidades do presente artigo.
+
+2 - A vigilância biológica referida na alínea e) do n.º 2 do artigo 12.º, e no artigo 12.º-A, inclui a medição do nível de chumbo no sangue, através da utilização da espetrometria de absorção ou de um método equivalente.
+
+3 - A vigilância referida no número anterior pode ser complementada com a prescrição pelo médico do trabalho de outros exames, designadamente, para determinação da protoporfirina de zinco no sangue, do ácido delta-aminolevulínico na urina e da desidratase do ácido delta-aminolevulínico no sangue.
+
+4 - O trabalhador exposto, ou potencialmente exposto, ao chumbo e seus compostos inorgânicos deve realizar exames de saúde periódicos anuais.
+
+5 - São realizados exames de saúde periódicos semestrais nas situações em que:
+
+a) Se verifique a exposição do trabalhador a uma concentração de chumbo na atmosfera do local de trabalho superior a 0,015 mg/m3; ou
+
+b) O resultado da medição do nível de chumbo no sangue do trabalhador seja superior a 9 μg Pb/100 ml de sangue ou, se trabalhadora em idade fértil, superior a 4,5 μg Pb/100 ml de sangue.
+
+6 - São realizados exames de saúde periódicos trimestrais quando se verifique a ultrapassagem do valor-limite de exposição profissional ou do valor-limite biológico.
+
+7 - Para além das situações estipuladas na alínea c) do n.º 3 do artigo 108.º do regime jurídico da promoção da segurança e saúde no trabalho, são realizados exames de saúde ocasionais quando:
+
+a) O trabalhador exposto os solicite;
+
+b) O médico do trabalho responsável pela vigilância da saúde os considere convenientes;
+
+c) Tenham decorrido três meses sobre a colocação do trabalhador em posto de trabalho exposto ao risco.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
+###### Artigo 17.º-C — Níveis de alerta de exposição ao chumbo e seus compostos inorgânicos
+
+1 - Sem prejuízo do disposto nos artigos 4.º-A e 12.º-B e no anexo ii, os valores previstos no n.º 5 do artigo 17.º-B devem ser considerados níveis de alerta para efeitos de revisão pelo empregador das medidas de prevenção e de proteção do trabalhador.
+
+2 - O valor de 4,5 μg Pb/100 ml de sangue deve, ainda, ser considerado um valor indicativo biológico de exposição a não exceder para trabalhadoras em idade fértil.
+
+3 - Sendo excedido o valor referido no número anterior, é aplicável o disposto no artigo 12.º-B, com as necessárias adaptações, salvo quanto à periodicidade dos exames de saúde prevista no n.º 5 do artigo 17.º-B.
+
+4 - As medidas referidas no n.º 1, destinadas a evitar ou a reduzir os riscos de exposição ao chumbo e seus compostos inorgânicos, têm em conta o risco potencial para o património genético e a proteção contra possíveis efeitos adversos na fertilidade e no desenvolvimento dos fetos.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
+### Capítulo III — Disposições finais
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
 ###### Artigo 18.º — Contra-ordenações
 
-1 - Constitui contraordenação muito grave a violação dos artigos 4.º e 5.º, das alíneas a) a e), g) e j) a n) do artigo 6.º, do artigo 13.º e do n.º 3 do artigo 14.º
+1 - Constitui contraordenação muito grave a violação dos artigos 4.º a 5.º, das alíneas a) a e), g) e j) a n) do artigo 6.º, dos artigos 12.º-B e 13.º, do n.º 3 do artigo 14.º e do artigo 17.º-C.
 
-2 - Constitui contraordenação grave a violação das alíneas f), h) e i) do artigo 6.º, do artigo 7.º, dos artigos 8.º, 9.º, 10.º, 11.º e 12.º, dos n.os 1, 2, 4 e 5 do artigo 14.º e dos artigos 15.º, 16.º e 17.º
+2 - Constitui contraordenação grave a violação das alíneas f), h) e i) do artigo 6.º, do artigo 7.º, dos artigos 8.º a 12.º, dos n.ºs 1, 2, 4 e 5 do artigo 14.º, dos artigos 15.º a 17.º e do artigo 17.º-B.
 
 3 - O regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho aplica-se às infrações por violação do presente diploma.
 
 4 - O processamento das contraordenações laborais segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, alterada pela Lei n.º 63/2013, de 27 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
 
 > Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01
 
@@ -706,7 +842,7 @@ Referendado em 9 de Novembro de 2000.
 
 Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 
-## Anexo I — Valores limite de exposição profissional
+## Anexo I — Valores-limite de exposição profissional
 
 [a que se referem as alíneas d), e) e f) do n.º 1 do artigo 3.º, a alínea b) do n.º 1 e a alínea b) do n.º 2 do artigo 4.º, os n.ºs 1 e 4 do artigo 4.º-A, o n.º 6 do artigo 5.º e a alínea a) do n.º 1 do artigo 14.º]
 
@@ -715,8 +851,8 @@ Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 | 8 horas (3) | Curta duração (4) |  |  |  |  |  |  |  |  |  |
 | mg/m3 (5) | ppm (6) | f/ml (7) | mg/m3 (5) | ppm (6) | f/ml (7) |  |  |  |  |  |
 | Poeira de madeira de folhosas | - | - | 2 (8) | - | - | - | - | - | - | Valor-limite 3 mg/m3 até 17 de janeiro de 2023. |
-| Compostos de crómio (VI) que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i)<br>(como crómio) | - | - | 0,005 | - | - | - | - | - | - | Valor-limite 0,010 mg/m3 até 17 de janeiro de 2025.<br>Valor-limite: 0,025 mg/m3 para processos de soldadura ou corte por plasma ou processos similares que produzam fumos até 17 de janeiro de 2025. |
-| Fibras de materiais cerâmicos refratários que são agentes cancerígenos na aceção do artigo 2.º, alínea a), subalínea i) | - | - | - | - | 0,3 | - | - | - | - |  |
+| Compostos de crómio (VI) que são agentes cancerígenos na aceção da alínea a) do n.º 1 do artigo 3.º do presente decreto-lei (como crómio) | - | - | 0,005 | - | - | - | - | - | - | Valor-limite 0,010 mg/m3 até 17 de janeiro de 2025.<br>Valor-limite: 0,025 mg/m3 para processos de soldadura ou corte por plasma ou processos similares que produzam fumos até 17 de janeiro de 2025. |
+| Fibras de materiais cerâmicos refratários que são agentes cancerígenos na aceção da alínea a) do artigo 3.º do presente decreto-lei | - | - | - | - | 0,3 | - | - | - | - |  |
 | Poeira de sílica cristalina respirável | - | - | 0,05 (9) | - | - | - | - | - | - | Valor-limite: 0,1 mg/m3 até 31 de dezembro de 2022. |
 | Benzeno | 200-753-7 | 71-43-2 | 0,66 | 0,2 | - | - | - | - | Pele (10) | Valor-limite: 1 ppm (3,25 mg/m3) até 4 de abril de 2024, inclusive.<br>Valor-limite: 0,5 ppm (1,65 mg/m3) entre 5 de abril de 2024 e 5 de abril de 2026, inclusive. |
 | Cloreto de vinilo monómero | 200-831-0 | 75-01-4 | 2,6 | 1 | - | - | - | - | - |  |
@@ -734,7 +870,7 @@ Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 | Hidrazina | 206-114-9 | 302-01-2 | 0,013 | 0,01 | - | - | - | - | Pele (10) |  |
 | Bromoetileno | 209-800-6 | 593-60-2 | 4,4 | 1 | - | - | - | - | - |  |
 | Emissões de gases de escape dos motores diesel |  |  | 0,05 (*1) |  |  |  |  |  |  | O valor-limite é aplicável a partir de 21 de fevereiro de 2023. No caso da indústria extrativa subterrânea e da construção de túneis, o valor-limite é aplicável a partir de 21 de fevereiro de 2026. |
-| Misturas de hidrocarbonetos aromáticos policíclicos, em especial as que contenham [benzo[a]pireno], que sejam agentes cancerígenos na aceção da presente diretiva |  |  |  |  |  |  |  |  | Pele (10) |  |
+| Misturas de hidrocarbonetos aromáticos policíclicos, em especial as que contenham [benzo[a]pireno], que são agentes cancerígenos na aceção da alínea a) do artigo 3.º do presente decreto-lei |  |  |  |  |  |  |  |  | Pele (10) |  |
 | Óleos minerais que tenham sido previamente utilizados em motores de combustão interna para lubrificar e arrefecer as partes móveis dentro do motor |  |  |  |  |  |  |  |  | Pele (10) |  |
 | Cádmio e seus compostos inorgânicos | - | - | 0,001 (11) | - | - | - | - | - |  | Valor-limite 0,004 mg/m3 (12) até 11 de julho de 2027. |
 | Berílio e compostos inorgânicos de berílio | - | - | 0,0002 (11) | - | - | - | - | - | Sensibilização cutânea e respiratória (13) | Valor-limite 0,0006 mg/m3 até 11 de julho de 2026. |
@@ -743,7 +879,7 @@ Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 | 4,4′-Metileno-bis(2-cloroanilina) | 202-918-9 | 101-14-4 | 0,01 | - | - | - | - | - | Pele (10) |  |
 | Acrilonitrilo | 203-466-5 | 107-13-1 | 1 | 0,45 | - | 4 | 1,8 | - | Pele (10)<br>Sensibilização cutânea (14) | Os valores-limite são aplicáveis a partir de 5 de abril de 2026. |
 | Compostos de níquel | - | - | 0,01 (15)<br>0,05 (16) | - | - | - | - | - | Sensibilização cutânea e respiratória (13) | O valor-limite (15) é aplicável a partir de 18 de janeiro de 2025.<br>O valor-limite (16) é aplicável a partir de 18 de janeiro de 2025. Até essa data, aplica-se um valor-limite de 0,1 mg/m3 (16). |
-| Chumbo metálico e respetivos compostos |  |  | 0,15 |  |  |  |  |  |  |  |
+| Chumbo e seus compostos inorgânicos |  |  | 0,03 (11) |  |  |  |  |  | Substância tóxica para a reprodução não sujeita a um limiar |  |
 | N,N-Dimetilacetamida | 204-826-4 | 127-19-5 | 36 | 10 |  | 72 | 20 |  | Pele (10) |  |
 | Nitrobenzeno | 202-716-0 | 98-95-3 | 1 | 0,2 |  |  |  |  | Pele (10) |  |
 | N,N Dimetilformamida | 200-679-5 | 68-12-2 | 15 | 5 |  | 30 | 10 |  | Pele (10) |  |
@@ -760,9 +896,9 @@ Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 
 (2) Número CAS: Número de registo do Chemical Abstract Service.
 
-(3) Medidos ou calculados em relação a um período de referência de oito horas em média ponderada no tempo (TWA).
+(3) Medido ou calculado como média ponderada no tempo (MPT) para um período de referência de oito horas.
 
-(4) Limite de exposição de curta duração (STEL): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário.
+(4) Limite de exposição de curta duração (VLE-CD): valor-limite acima do qual não deve haver exposição e que se refere a um período de 15 minutos, salvo indicação em contrário.
 
 (5) mg/m3 = Miligramas por metro cúbico de ar a 20°C e a 101,3 kPa (pressão de 760 mm de mercúrio).
 
@@ -790,6 +926,8 @@ Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 
 (*1) Medidas sob a forma de carbono elementar.
 
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
 > Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02.
 
 > Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 102-A/2020 - Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), em vigor a partir de 2021-01-04.
@@ -798,14 +936,18 @@ Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 
 > Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 88/2015 - Diário da República n.º 103/2015, Série I de 2015-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), em vigor a partir de 2015-06-01
 
-## Anexo II — Valores-limite biológicos e medidas de vigilância da saúde
+## Anexo II — Valores-limite biológicos
 
-[a que se referem a alínea g) do n.º 1 do artigo 3.º, o artigo 12.º-A e a alínea a) do n.º 1 do artigo 14.º]
+[a que se referem a alínea g) do n.º 1 do artigo 3.º, o artigo 12.º-A e o n.º 1 do artigo 12.º-B]
 
-1 - Chumbo e respetivos compostos iónicos:
+1 - Chumbo e seus compostos inorgânicos
 
-1.1 - O controlo biológico incluirá a medição da plumbemia (PbB), utilizando a espetroscopia de absorção atómica ou um método equivalente. O valor-limite biológico obrigatório é de: 70μg Pb/100 ml de sangue.
+Valores-limite biológicos obrigatórios:
 
-1.2 - A vigilância da saúde será efetuada caso a exposição a uma concentração de chumbo na atmosfera seja superior a 0,075 mg/m3, sendo este valor a média ponderada em função do tempo calculada ao longo de 40 horas por semana, ou se as taxas individuais de plumbemia forem superiores a 40μg Pb/100 ml de sangue.
+a) Até 31 de dezembro de 2028, 30 μg Pb/100 ml de sangue;
 
-> Aditado pelo/a Anexo II do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02.
+b) A partir de 1 de janeiro de 2029, 15 μg Pb/100 ml de sangue.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 203/2026 - Diário da República n.º 205/2026, Série I de 2026-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2026-1184326799), em vigor a partir de 2026-11-02.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), em vigor a partir de 2025-01-02.

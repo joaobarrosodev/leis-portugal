@@ -40,18 +40,14 @@ notes: []
 language: por
 version:
   kind: consolidated
-  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas por regra e verificadas às cegas'
+  label: Versão consolidada pelo DRE
   language: por
   consolidation_date: '2008-07-26'
 version_history:
   file: decreto-lei-38-b-2001.versoes.json
-  count: 2
-  source_lastmod: null
+  count: 1
+  source_lastmod: '2026-11-17'
   versions:
-  - date: '2001-02-08'
-    amending: null
-    amending_title: null
-    changes: []
   - date: '2008-07-26'
     amending: pt:dre:456797:por
     amending_title: Decreto-Lei n.º 130/2008
@@ -69,21 +65,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-b-2001-209198
   metadata_url: https://data.dre.pt/eli/dec-lei/38-b/2001/02/08/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-b-2001-209198
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:29:18Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-1005132413
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-1005132413
+  retrieved_at: '2026-11-20T13:53:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-17T00:00:00Z'
 integrity:
-  source_sha256: afabfafb6f6c685a3c1bbd57a69af7b4f5e0bdb7ac36ba9b7155c198257e56cd
+  source_sha256: 394be7dd0c9ebddf14b0e9083b5b717e414d21b62ff37d92a1f8d75f05e6b285
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:29:18Z'
-  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 130/2008. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-38-b-2001.alteracoes.json'
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:24Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-38-b-2001.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,20 +118,18 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:29:18Z'
+  checked_at: '2026-11-20T13:53:24Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 38-B/2001
-
-de 8 de Fevereiro
 
 Em períodos com condições climatéricas mais rigorosas ocorre, com alguma frequência, que uma ou mais regiões do País sejam atingidas por temporais ou outros fenómenos de grande intensidade, os quais provocam sérios danos na actividade económica, nos sectores do comércio, indústria e serviços.
 
@@ -167,7 +161,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 2 - O montante global da linha de crédito a conceder em cada caso será definido por despacho conjunto dos Ministros da Administração Interna, das Finanças e da Economia.
 
-> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 130/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2008-456797), publicado em 2008-07-21.
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 130/2008 - Diário da República n.º 139/2008, Série I de 2008-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2008-456797), em vigor a partir de 2008-07-26.
 
 ###### Artigo 4.º — Prazo de apresentação das propostas e decisão
 
@@ -195,7 +189,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 a) Taxa de juro contratual do financiamento bancário;
 
-b) Taxa de referência para o cálculo da bonificação (TRCB), criada pelo [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, revista pela [Portaria n.º 1039/97](https://diariodarepublica.pt/dr/detalhe/portaria/1039-1997-661917), de 3 de Outubro.
+b) Taxa de referência para o cálculo da bonificação (TRCB), criada pelo Decreto-Lei n.º 359/89, de 18 de Outubro, revista pela Portaria n.º 1039/97, de 3 de Outubro.
 
 2 - O montante da bonificação de juros enquadra-se nos apoios ao abrigo dos auxílios de minimis nas condições definidas pela Comissão Europeia.
 

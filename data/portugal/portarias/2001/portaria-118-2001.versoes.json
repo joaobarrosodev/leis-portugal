@@ -1,19 +1,10 @@
 {
  "schema": "leis-portugal/versoes/1",
  "id": "pt:dre:386217:por",
- "consolidated_url": null,
- "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
- "source_lastmod": null,
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1003479091",
+ "dre_path": "/dr/detalhe/portaria/118-2001-386217",
+ "source_lastmod": "2026-11-18",
  "versions": [
-  {
-   "date": "2001-02-23",
-   "future": false,
-   "acts": [],
-   "changes": [],
-   "fragments": [
-    "7dd2122697591a48"
-   ]
-  },
   {
    "date": "2001-07-22",
    "future": false,
@@ -26,33 +17,119 @@
     }
    ],
    "changes": [
-    "Altera Artigo unidades 8-8",
-    "Altera Artigo unidades 15-15"
+    "Altera Artigo 2.º",
+    "Altera 3.º"
    ],
    "fragments": [
-    "edc6ef5cb9d82c2b"
+    "1005128375",
+    "1195839075",
+    "1196201275",
+    "1195841875",
+    "1195839675",
+    "1195837275",
+    "1195839875",
+    "1195837475",
+    "1195837775",
+    "1195840075",
+    "1005128575"
    ]
   }
  ],
  "fragments": {
-  "7dd2122697591a48": {
-   "fragment_id": null,
-   "type": null,
-   "heading": null,
+  "1005128375": {
+   "fragment_id": "1005128275",
+   "type": 15,
+   "heading": "Ato",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "de 23 de Fevereiro\n\nEm cumprimento do disposto no n.º 5 do artigo 3.º da [Lei n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/lei/10-2000-303580), de 21 de Junho:\n\nManda o Governo, pelos Secretários de Estado da Comunicação Social e Adjunto do Ministro da Administração Interna, o seguinte:\n\n1.º As sondagens de opinião a que se refere o artigo 1.º da [Lei n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/lei/10-2000-303580), de 21 de Junho, só podem ser realizadas por entidades devidamente credenciadas para o efeito.\n\n2.º A actividade a que se refere o número anterior pode ser exercida por pessoas colectivas que reúnam cumulativamente os seguintes requisitos:\n\na) Tenham como objecto social a realização de inquéritos ou estudos de opinião;\n\nb) Tenham um capital social mínimo de 5000 contos;\n\nc) Possuam um quadro mínimo permanente de três técnicos qualificados para a realização de sondagens de opinião;\n\nd) Recorram unicamente a indivíduos com capacidade eleitoral activa na recolha de dados junto da população.\n\n3.º Os interessados devem juntar ao requerimento de autorização para o exercício da actividade os seguintes elementos:\n\na) Denominação, sede e demais elementos identificativos da entidade candidata;\n\nb) Cópia autenticada do respectivo acto constitutivo;\n\nc) Identificação da estrutura e meios humanos afectos à área das sondagens, bem como do seu responsável técnico;\n\nd) Documentos curriculares do responsável e do pessoal técnico demonstrativos da experiência e capacidade exigível para a realização dos trabalhos a executar;\n\ne) Descrição pormenorizada das técnicas de recolha e tratamento de dados a utilizar, bem como dos princípios éticos pelos quais se pautará o exercício da sua actividade, tendo como referência mínima os códigos de conduta adoptados pela Associação Europeia para os Estudos de Opinião e de Marketing (ESOMAR).\n\n4.º Compete à Alta Autoridade para a Comunicação Social (AACS) apreciar os pedidos de credenciação, tendo como base a avaliação dos elementos referidos nos números anteriores, e decidir, nos 20 dias úteis posteriores à recepção, sobre a sua procedência ou renovação.\n\n5.º As credenciais são válidas pelo período de três anos, devendo os interessados requerer, nos 60 dias anteriores à data da caducidade, a sua renovação, para o que deverão apresentar o relatório da actividade desenvolvida durante o período da vigência da respectiva credencial.\n\n6.º A transferência de titularidade e a mudança do responsável técnico da entidade credenciada devem ser comunicadas, no prazo de 30 dias a contar da sua ocorrência, à AACS, para aprovação.\n\n7.º A credenciação caduca se, pelo período de dois anos consecutivos, a entidade em causa não for responsável pela realização de qualquer sondagem de opinião, regularmente depositada junto da AACS.\n\n8.º Compete à AACS organizar e manter actualizado um registo de entidades credenciadas para a realização das sondagens de opinião a que se refere a presente portaria.\n\n9.º O modelo das credenciais é definido pela AACS.\n\nEm 6 de Fevereiro de 2001.\n\nO Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Secretário de Estado da Administração Interna, Rui Carlos Pereira."
+   "markdown": "Em cumprimento do disposto no n.º 5 do artigo 3.º da Lei n.º 10/2000, de 21 de Junho:\n\nManda o Governo, pelos Secretários de Estado da Comunicação Social e Adjunto do Ministro da Administração Interna, o seguinte:"
   },
-  "edc6ef5cb9d82c2b": {
-   "fragment_id": null,
-   "type": null,
-   "heading": null,
+  "1195839075": {
+   "fragment_id": "1195838975",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nAs sondagens de opinião a que se refere o artigo 1.º da Lei n.º 10/2000, de 21 de Junho, só podem ser realizadas por entidades devidamente credenciadas para o efeito."
+  },
+  "1196201275": {
+   "fragment_id": "1195839175",
+   "type": 11,
+   "heading": "Artigo 2.º",
    "in_force_from": "2001-07-22",
    "changed_by": [
-    "Alterado pelo/a [Portaria n.º 731/2001](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), publicado em 2001-07-17.",
-    "Alterado pelo/a [Portaria n.º 731/2001](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), publicado em 2001-07-17."
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 731/2001 - Diário da República n.º 164/2001, Série I-B de 2001-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), em vigor a partir de 2001-07-22."
    ],
-   "markdown": "de 23 de Fevereiro\n\nEm cumprimento do disposto no n.º 5 do artigo 3.º da [Lei n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/lei/10-2000-303580), de 21 de Junho:\n\nManda o Governo, pelos Secretários de Estado da Comunicação Social e Adjunto do Ministro da Administração Interna, o seguinte:\n\n1.º As sondagens de opinião a que se refere o artigo 1.º da [Lei n.º 10/2000](https://diariodarepublica.pt/dr/detalhe/lei/10-2000-303580), de 21 de Junho, só podem ser realizadas por entidades devidamente credenciadas para o efeito.\n\n2.º A actividade a que se refere o número anterior pode ser exercida por pessoas colectivas que reúnam cumulativamente os seguintes requisitos:\n\na) Tenham como objecto social a realização de inquéritos ou estudos de opinião;\n\nb) Tenham um capital social mínimo de 5000 contos, tratando-se de sociedades comerciais, ou dois anos de exercício efectivo da actividade, nos restantes casos;\n\n> Alterado pelo/a [Portaria n.º 731/2001](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), publicado em 2001-07-17.\n\nc) Possuam um quadro mínimo permanente de três técnicos qualificados para a realização de sondagens de opinião;\n\nd) Recorram unicamente a indivíduos com capacidade eleitoral activa na recolha de dados junto da população.\n\n3.º Os interessados devem juntar ao requerimento de autorização para o exercício da actividade os seguintes elementos:\n\na) Denominação, sede e demais elementos identificativos da entidade candidata;\n\nb) Cópia autenticada do respectivo acto constitutivo;\n\nc) Identificação da estrutura e meios humanos afectos à área das sondagens, bem como do seu responsável técnico;\n\nd) Documentos curriculares do responsável e do pessoal técnico, demonstrativos da experiência e capacidade exigíveis para a realização dos trabalhos a executar e, tratando-se de entidades sem fins lucrativos, documentos que comprovem a realização de inquéritos ou estudos de opinião nos dois anos anteriores ao pedido;\n\n> Alterado pelo/a [Portaria n.º 731/2001](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), publicado em 2001-07-17.\n\ne) Descrição pormenorizada das técnicas de recolha e tratamento de dados a utilizar, bem como dos princípios éticos pelos quais se pautará o exercício da sua actividade, tendo como referência mínima os códigos de conduta adoptados pela Associação Europeia para os Estudos de Opinião e de Marketing (ESOMAR).\n\n4.º Compete à Alta Autoridade para a Comunicação Social (AACS) apreciar os pedidos de credenciação, tendo como base a avaliação dos elementos referidos nos números anteriores, e decidir, nos 20 dias úteis posteriores à recepção, sobre a sua procedência ou renovação.\n\n5.º As credenciais são válidas pelo período de três anos, devendo os interessados requerer, nos 60 dias anteriores à data da caducidade, a sua renovação, para o que deverão apresentar o relatório da actividade desenvolvida durante o período da vigência da respectiva credencial.\n\n6.º A transferência de titularidade e a mudança do responsável técnico da entidade credenciada devem ser comunicadas, no prazo de 30 dias a contar da sua ocorrência, à AACS, para aprovação.\n\n7.º A credenciação caduca se, pelo período de dois anos consecutivos, a entidade em causa não for responsável pela realização de qualquer sondagem de opinião, regularmente depositada junto da AACS.\n\n8.º Compete à AACS organizar e manter actualizado um registo de entidades credenciadas para a realização das sondagens de opinião a que se refere a presente portaria.\n\n9.º O modelo das credenciais é definido pela AACS.\n\nEm 6 de Fevereiro de 2001.\n\nO Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Secretário de Estado da Administração Interna, Rui Carlos Pereira."
+   "markdown": "###### Artigo 2.º\n\nA actividade a que se refere o número anterior pode ser exercida por pessoas colectivas que reúnam cumulativamente os seguintes requisitos:\n\na) Tenham como objecto social a realização de inquéritos ou estudos de opinião;\n\nb) Tenham um capital social mínimo de 5000 contos, tratando-se de sociedades comerciais, ou dois anos de exercício efectivo da actividade, nos restantes casos;\n\nc) Possuam um quadro mínimo permanente de três técnicos qualificados para a realização de sondagens de opinião;\n\nd) Recorram unicamente a indivíduos com capacidade eleitoral activa na recolha de dados junto da população.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 731/2001 - Diário da República n.º 164/2001, Série I-B de 2001-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), em vigor a partir de 2001-07-22."
+  },
+  "1195841875": {
+   "fragment_id": "1195839375",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "2001-07-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 731/2001 - Diário da República n.º 164/2001, Série I-B de 2001-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), em vigor a partir de 2001-07-22."
+   ],
+   "markdown": "###### 3.º\n\nOs interessados devem juntar ao requerimento de autorização para o exercício da actividade os seguintes elementos:\n\na) Denominação, sede e demais elementos identificativos da entidade candidata;\n\nb) Cópia autenticada do respectivo acto constitutivo;\n\nc) Identificação da estrutura e meios humanos afectos à área das sondagens, bem como do seu responsável técnico;\n\nd) Documentos curriculares do responsável e do pessoal técnico, demonstrativos da experiência e capacidade exigíveis para a realização dos trabalhos a executar e, tratando-se de entidades sem fins lucrativos, documentos que comprovem a realização de inquéritos ou estudos de opinião nos dois anos anteriores ao pedido;\n\ne) Descrição pormenorizada das técnicas de recolha e tratamento de dados a utilizar, bem como dos princípios éticos pelos quais se pautará o exercício da sua actividade, tendo como referência mínima os códigos de conduta adoptados pela Associação Europeia para os Estudos de Opinião e de Marketing (ESOMAR).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 731/2001 - Diário da República n.º 164/2001, Série I-B de 2001-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/731-2001-394328), em vigor a partir de 2001-07-22."
+  },
+  "1195839675": {
+   "fragment_id": "1195839575",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nCompete à Alta Autoridade para a Comunicação Social (AACS) apreciar os pedidos de credenciação, tendo como base a avaliação dos elementos referidos nos números anteriores, e decidir, nos 20 dias úteis posteriores à recepção, sobre a sua procedência ou renovação."
+  },
+  "1195837275": {
+   "fragment_id": "1195837175",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nAs credenciais são válidas pelo período de três anos, devendo os interessados requerer, nos 60 dias anteriores à data da caducidade, a sua renovação, para o que deverão apresentar o relatório da actividade desenvolvida durante o período da vigência da respectiva credencial."
+  },
+  "1195839875": {
+   "fragment_id": "1195839775",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nA transferência de titularidade e a mudança do responsável técnico da entidade credenciada devem ser comunicadas, no prazo de 30 dias a contar da sua ocorrência, à AACS, para aprovação."
+  },
+  "1195837475": {
+   "fragment_id": "1195837375",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nA credenciação caduca se, pelo período de dois anos consecutivos, a entidade em causa não for responsável pela realização de qualquer sondagem de opinião, regularmente depositada junto da AACS."
+  },
+  "1195837775": {
+   "fragment_id": "1195837675",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nCompete à AACS organizar e manter actualizado um registo de entidades credenciadas para a realização das sondagens de opinião a que se refere a presente portaria."
+  },
+  "1195840075": {
+   "fragment_id": "1195839975",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nO modelo das credenciais é definido pela AACS."
+  },
+  "1005128575": {
+   "fragment_id": "1005128475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 6 de Fevereiro de 2001.\n\nO Secretário de Estado da Comunicação Social, Alberto Arons Braga de Carvalho. - O Secretário de Estado da Administração Interna, Rui Carlos Pereira."
   }
- }
+ },
+ "unavailable_dates": [
+  "2001-02-23"
+ ]
 }

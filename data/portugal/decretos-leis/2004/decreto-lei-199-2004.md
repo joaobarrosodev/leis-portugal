@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-09-07'
+version_history:
+  file: decreto-lei-199-2004.versoes.json
+  count: 1
+  source_lastmod: '2026-11-17'
+  versions:
+  - date: '2007-09-07'
+    amending: pt:dre:637402:por
+    amending_title: Decreto-Lei n.º 280/2007
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/199/2004/08/18/p/dre/pt/html
@@ -55,20 +70,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2004-480709
   metadata_url: https://data.dre.pt/eli/dec-lei/199/2004/08/18/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-2004-480709
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:45:03Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34510075
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34510075
+  retrieved_at: '2026-11-20T13:53:36Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-17T00:00:00Z'
 integrity:
-  source_sha256: c8fa6b3c6202f3d2f1dc77f3ca21f81df8b426dc64809e3b20bf9e2137e6126f
+  source_sha256: 9bae71ac82a8861cf163efd903f8df53c0b2b80b6c5f0f23c70628b7db79cf9d
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:45:03Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:53:36Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-199-2004.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,6 +146,11 @@ relationships:
     \ DR.IS-A [124] de 29.06.2006\0\0"
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2006-356373
   date: '2006-06-29'
+- type: amended_by
+  target: pt:dre:637402:por
+  label: Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402
+  date: '2007-08-07'
 - type: amended_by
   target: pt:dre:640908:por
   label: "Alterado o art. 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001 de\
@@ -215,22 +236,20 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:45:03Z'
+  checked_at: '2026-11-20T13:53:36Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 199/2004
 
-de 18 de Agosto
-
-O recenseamento de imóveis da Administração Pública, determinado pela [Resolução do Conselho de Ministros n.º 40/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-2004-210026), de 29 de Março, permitiu confirmar a existência de inúmeros bens imóveis do Estado e de institutos públicos sem situação registral actualizada ou em situação de omissão na respectiva matriz predial.
+O recenseamento de imóveis da Administração Pública, determinado pela Resolução do Conselho de Ministros n.º 40/2004, de 29 de Março, permitiu confirmar a existência de inúmeros bens imóveis do Estado e de institutos públicos sem situação registral actualizada ou em situação de omissão na respectiva matriz predial.
 
 A regularização da situação jurídica de património imobiliário pertencente ao domínio privado do Estado, em situação de afectação ou não, e de património imobiliário próprio dos institutos públicos a ser efectuada nos termos actualmente previstos revelar-se-ia extremamente complexa e morosa, protelando injustificadamente no tempo a manutenção de um cenário perturbador da segurança do comércio jurídico e penalizador do papel exemplar que ao Estado, e também aos institutos públicos, deve caber nesta matéria.
 
@@ -244,7 +263,7 @@ Trata-se, efectivamente, de desonerar os adquirentes do património imobiliário
 
 A dispensa de apresentação de licença e de autorização administrativa é, ainda, estabelecida, transitoriamente e com as devidas adaptações, relativamente a prédios urbanos, e suas fracções autónomas, que pertenciam ao património de empresas privatizadas e reprivatizadas e que, à data da privatização ou reprivatização, não dispunham das licenças e autorizações administrativas exigíveis pela legislação aplicável.
 
-Por último, altera-se o artigo 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de Dezembro, no sentido de a isenção emolumentar de carácter conjuntural, actualmente prevista para a Direcção-Geral do Património até ao final do ano corrente, abranger toda a extensão objectiva, subjectiva e temporânea do projecto global de regularização patrimonial, que se pretende que esteja concluído o mais tardar até ao final do ano de 2008, sem prejuízo do ressarcimento do Ministério da Justiça pela perda das respectivas receitas.
+Por último, altera-se o artigo 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, no sentido de a isenção emolumentar de carácter conjuntural, actualmente prevista para a Direcção-Geral do Património até ao final do ano corrente, abranger toda a extensão objectiva, subjectiva e temporânea do projecto global de regularização patrimonial, que se pretende que esteja concluído o mais tardar até ao final do ano de 2008, sem prejuízo do ressarcimento do Ministério da Justiça pela perda das respectivas receitas.
 
 Assim:
 
@@ -266,6 +285,8 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 7 - Após o decurso do prazo previsto no número anterior, são publicadas na 2.ª série do Diário da República listas definitivas, elaboradas e homologadas nos termos dos n.os 1 a 4, que constituem título bastante para efeitos de inscrição matricial e registral dos bens imóveis a favor do Estado ou de instituto público, nos termos dos artigos seguintes.
 
+> Revogado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 280/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), em vigor a partir de 2007-09-07.
+
 ###### Artigo 2.º — Regularização matricial
 
 1 - Os actos necessários à regularização matricial dos bens imóveis em situação de omissão na matriz predial, constantes das listas definitivas previstas no artigo 1.º, são praticados oficiosamente pelas entidades competentes, mediante simples comunicação, acompanhada de cópia da respectiva lista definitiva publicada no Diário da República, a efectuar pela Direcção-Geral do Património, relativamente aos bens imóveis pertencentes ao domínio privado do Estado, e pelos institutos públicos, relativamente aos bens imóveis pertencentes ao seu património próprio.
@@ -273,6 +294,8 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 2 - Quando a inscrição do bem imóvel na matriz não tiver sido efectuada até ao momento da sua alienação pelo Estado ou por instituto público, os actos necessários à regularização matricial são requeridos pelo adquirente do bem imóvel àquelas entidades, no prazo e termos legais.
 
 3 - Para os efeitos da inscrição matricial prevista nos n.os 1 e 2, o valor patrimonial tributário do bem imóvel é o que resultar de avaliação a realizar nos termos legais.
+
+> Revogado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 280/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), em vigor a partir de 2007-09-07.
 
 ###### Artigo 3.º — Regularização de bens imóveis omissos no registo predial
 
@@ -282,15 +305,19 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 3 - Nos casos previstos no número anterior, está dispensada a inscrição prévia a favor do Estado ou do instituto público alienante.
 
+> Revogado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 280/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), em vigor a partir de 2007-09-07.
+
 ###### Artigo 4.º — Regularização de bens imóveis registados
 
 1 - No caso de bens imóveis adquiridos pelo Estado ou instituto público a terceiros, relativamente aos quais não tenha sido promovido o correspondente registo até ao momento da alienação, o adquirente do bem imóvel ao Estado ou a instituto público pode requerer o registo a seu favor com dispensa da inscrição prévia a favor daquelas entidades.
 
 2 - A inscrição prévia dispensada é substituída pela menção, no extracto da inscrição a favor do adquirente referido no número anterior, da transmissão intermédia a favor do Estado ou de instituto público, com indicação das causas e da identidade dos respectivos sujeitos.
 
+> Revogado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 280/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), em vigor a partir de 2007-09-07.
+
 ###### Artigo 5.º — Dispensa de apresentação de licença e de autorização administrativa relativas a prédios urbanos do Estado e de institutos públicos
 
-1 - A titulação de actos que envolvam a transmissão da propriedade de prédios urbanos, ou de suas fracções autónomas, com edifícios cuja construção e utilização foram isentas de licenciamento ou de autorização administrativa, por as respectivas obras terem sido promovidas pelo Estado ou por instituto público beneficiário de tal isenção, nos termos da legislação aplicável em vigor no momento da edificação, efectua-se com dispensa da apresentação de licença ou de autorização administrativa, exigida, designadamente, pelo [Decreto-Lei n.º 281/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1999-353354), de 26 de Julho.
+1 - A titulação de actos que envolvam a transmissão da propriedade de prédios urbanos, ou de suas fracções autónomas, com edifícios cuja construção e utilização foram isentas de licenciamento ou de autorização administrativa, por as respectivas obras terem sido promovidas pelo Estado ou por instituto público beneficiário de tal isenção, nos termos da legislação aplicável em vigor no momento da edificação, efectua-se com dispensa da apresentação de licença ou de autorização administrativa, exigida, designadamente, pelo Decreto-Lei n.º 281/99, de 26 de Julho.
 
 2 - O disposto no número anterior é aplicável à transmissão e constituição de outros direitos reais e de outras situações jurídicas relativamente às quais a apresentação de licença ou de autorização administrativa seja legalmente exigida.
 
@@ -298,19 +325,21 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 4 - No caso de bens imóveis do Estado e de institutos públicos cuja regularização registral se verifique em termos diversos dos previstos no artigo 3.º, a isenção de licenciamento ou de autorização administrativa é registada a requerimento ou por dependência de pedido de registo apresentado pelo adquirente do bem imóvel ao Estado ou a instituto público, com base em documento emitido pela Direcção-Geral do Património, relativamente aos pertencentes ao domínio privado do Estado e ao património próprio dos institutos públicos, que certifique tal facto.
 
-5 - O disposto nos números anteriores não prejudica a aplicação dos regimes previstos nos Decretos-Leis n.os [555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, e [281/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1999-353354), de 26 de Julho, e em outras disposições legais que exijam a apresentação de licença ou de autorização administrativa relativamente às edificações e operações urbanísticas promovidas após a aquisição ao Estado ou a instituto público, as quais determinam o cancelamento do registo referido no n.º 3.
+5 - O disposto nos números anteriores não prejudica a aplicação dos regimes previstos nos Decretos-Leis n.os 555/99, de 16 de Dezembro, e 281/99, de 26 de Julho, e em outras disposições legais que exijam a apresentação de licença ou de autorização administrativa relativamente às edificações e operações urbanísticas promovidas após a aquisição ao Estado ou a instituto público, as quais determinam o cancelamento do registo referido no n.º 3.
 
-###### Artigo 6.º
+> Revogado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 280/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), em vigor a partir de 2007-09-07.
 
-Dispensa de apresentação de licença e de autorização administrativa relativas a prédios urbanos do património de empresas privatizadas ou reprivatizadas.
+###### Artigo 6.º — Dispensa de apresentação de licença e de autorização administrativa relativas a prédios urbanos do património de empresas privatizadas ou reprivatizadas.
 
-1 - A titulação de actos que envolvam a transmissão da propriedade de prédios urbanos, e suas fracções autónomas, que, pertencendo ao património de empresas privatizadas ou reprivatizadas, à data da privatização ou reprivatização não dispunham de licenciamento e de autorização administrativa nos termos da legislação aplicável efectua-se com dispensa da apresentação de licença ou de autorização administrativa, exigida, designadamente, pelo [Decreto-Lei n.º 281/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1999-353354), de 26 de Julho.
+1 - A titulação de actos que envolvam a transmissão da propriedade de prédios urbanos, e suas fracções autónomas, que, pertencendo ao património de empresas privatizadas ou reprivatizadas, à data da privatização ou reprivatização não dispunham de licenciamento e de autorização administrativa nos termos da legislação aplicável efectua-se com dispensa da apresentação de licença ou de autorização administrativa, exigida, designadamente, pelo Decreto-Lei n.º 281/99, de 26 de Julho.
 
 2 - O disposto no número anterior é aplicável à transmissão e constituição de outros direitos reais e de outras situações jurídicas relativamente às quais a apresentação de licença ou de autorização administrativa seja legalmente exigida.
 
-###### Artigo 7.º — Alteração ao Regulamento Emolumentar dos Registos e Notariado, anexo ao [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de Dezembro
+> Revogado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 280/2007 - Diário da República n.º 151/2007, Série I de 2007-08-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), em vigor a partir de 2007-09-07.
 
-O artigo 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de Dezembro, e alterado pelos Decretos-Leis n.os [315/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2002-404747), de 27 de Dezembro, [194/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2003-655966), de 23 de Agosto, e [53/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2004-538423), de 18 de Março, passa a ter a seguinte redacção:
+###### Artigo 7.º — Alteração ao Regulamento Emolumentar dos Registos e Notariado, anexo ao Decreto-Lei n.º 322-A/2001, de 14 de Dezembro
+
+O artigo 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de Dezembro, e alterado pelos Decretos-Leis n.os 315/2002, de 27 de Dezembro, 194/2003, de 23 de Agosto, e 53/2004, de 18 de Março, passa a ter a seguinte redacção:
 
 «Artigo 28.º
 
@@ -346,7 +375,7 @@ O artigo 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pel
 
 15 - Estão isentos de tributação emolumentar os actos de registo requeridos pelos adquirentes de bens imóveis ao Estado ou a instituto público necessários à regularização da situação jurídica dos mesmos nos termos previstos na legislação referida no número anterior, com excepção do registo da aquisição ao Estado ou ao instituto público.
 
-16 - As isenções emolumentares previstas nos n.os 13 a 15 vigoram até ao final de 2008, sendo as previstas no n.º 13 aplicáveis, no que respeita aos actos notariais, apenas aos actos praticados pelos notários públicos durante o período transitório previsto no artigo 106.º do Estatuto do Notariado, aprovado pelo [Decreto-Lei n.º 26/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2004-592339), de 4 de Fevereiro.
+16 - As isenções emolumentares previstas nos n.os 13 a 15 vigoram até ao final de 2008, sendo as previstas no n.º 13 aplicáveis, no que respeita aos actos notariais, apenas aos actos praticados pelos notários públicos durante o período transitório previsto no artigo 106.º do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro.
 
 17 - (Anterior n.º 15.)»
 

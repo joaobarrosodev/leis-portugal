@@ -44,8 +44,8 @@ version:
   consolidation_date: '2026-01-01'
 version_history:
   file: decreto-lei-42-2005.versoes.json
-  count: 3
-  source_lastmod: '2024-06-25'
+  count: 4
+  source_lastmod: '2026-11-09'
   versions:
   - date: '2005-02-22'
     amending: null
@@ -62,6 +62,21 @@ version_history:
     changes:
     - Adita Secção IV
     - Adita Artigo 37.º-A
+  - date: '2027-01-05'
+    amending: pt:dre:1192107480:por
+    amending_title: Decreto-Lei n.º 214/2026
+    changes:
+    - Adita Artigo 22.º-A
+    - Adita Artigo 22.º-B
+    - Adita Artigo 22.º-C
+    - Altera Artigo 3.º
+    - Altera Secção II
+    - Altera Artigo 30.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/42/2005/p/cons/20251230/pt/html
@@ -76,19 +91,19 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2005/p/cons/20251230/pt/html
   content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-182019766
   consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-182019766
-  retrieved_at: '2026-10-22T12:50:09Z'
+  retrieved_at: '2026-11-20T13:50:13Z'
   retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
     da aplicação web'
-  source_modified_at: '2024-06-25T00:00:00Z'
+  source_modified_at: '2026-11-09T00:00:00Z'
 integrity:
-  source_sha256: f65708e22e592fd1f5ff7469ce564c078c8f22fe42989f19921ac6b16cc75ff4
+  source_sha256: 8517b45aaf31b08534bc8d9dd8aff6f1bcaf61e8cd3259124fac7aac9ea3554f
   source_sha256_scope: official_source_content_bytes
 provenance:
   collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre-consolidated
-  generated_at: '2026-10-22T12:50:09Z'
-  notes: 3 versão(ões); histórico completo em decreto-lei-42-2005.versoes.json.
+  generated_at: '2026-11-20T13:50:13Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-42-2005.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,16 +139,22 @@ relationships:
   label: Adita Secção IV; Adita Artigo 37.º-A
   source: https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096
   date: '2025-12-30'
+- type: amended_by
+  target: pt:dre:1192107480:por
+  label: Adita Artigo 22.º-A; Adita Artigo 22.º-B; Adita Artigo 22.º-C; Altera Artigo 3.º; Altera Secção II; Altera Artigo
+    30.º; Revoga Artigo 18.º; Revoga Artigo 19.º; Revoga Artigo 20.º; Revoga Artigo 21.º; Revoga Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2026-1192107480
+  date: '2026-11-06'
 article_structure:
   article_count: 45
-  section_count: 12
+  section_count: 13
   extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
   notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-22T12:50:09Z'
+  checked_at: '2026-11-20T13:50:13Z'
   warnings: []
   errors: []
 ---
@@ -187,6 +208,8 @@ Assim:
 Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
 Princípios reguladores de instrumentos para a criação do espaço europeu de ensino superior
+
+## Princípios reguladores de instrumentos para a criação do espaço europeu de ensino superior
 
 ### Capítulo I — Objecto, âmbito e conceitos
 
@@ -288,9 +311,13 @@ h) A uma unidade curricular integrante do plano de estudos de mais de um curso d
 
 ###### Artigo 6.º — Trabalhos de dissertação e outros
 
-O número de créditos a atribuir à dissertação dos ciclos de estudos conducentes ao grau de mestre, ou a outras formas de concretizar a componente a que se refere a alínea b) do n.º 1 do artigo 20.º do Decreto-Lei n.º 74/2006, de 24 de Março, bem como a outros trabalhos da mesma natureza previstos para a obtenção de diplomas de ciclos de estudos não conferentes de grau, é fixado tendo em consideração o tempo médio normal estimado como necessário à sua preparação e avaliação, medido em anos lectivos ou fracção, correspondendo um ano lectivo de trabalho a 60 créditos.
+O número de créditos a atribuir à dissertação dos ciclos de estudos conducentes ao grau de mestre, ou a outras formas de concretizar a componente a que se refere a alínea b) do n.º 1 do artigo 20.º do
 
-> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26
+Decreto-Lei n.º 74/2006
+
+, de 24 de Março, bem como a outros trabalhos da mesma natureza previstos para a obtenção de diplomas de ciclos de estudos não conferentes de grau, é fixado tendo em consideração o tempo médio normal estimado como necessário à sua preparação e avaliação, medido em anos lectivos ou fracção, correspondendo um ano lectivo de trabalho a 60 créditos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26.
 
 ###### Artigo 7.º — Cursos ministrados em regime de tempo parcial
 
@@ -524,7 +551,7 @@ O guia informativo do estabelecimento de ensino é disponibilizado através da I
 
 #### Secção IV — Reconhecimento automático
 
-> Aditado pelo/a Artigo 249.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+> Aditado pelo/a Artigo 249.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01.
 
 ###### Artigo 37.º-A — Reconhecimento automático de créditos em mobilidade interna
 
@@ -532,7 +559,7 @@ O guia informativo do estabelecimento de ensino é disponibilizado através da I
 
 2 - O reconhecimento de créditos referido no número anterior é efetuado sem encargos para o estudante.
 
-> Aditado pelo/a Artigo 249.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01
+> Aditado pelo/a Artigo 249.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01.
 
 ### Capítulo V — Mobilidade após a formação
 
@@ -588,14 +615,6 @@ b) Aos restantes cursos, a partir do ano lectivo da entrada em funcionamento da 
 
 5 - A antecipação pode concretizar-se para a totalidade ou apenas para parte das disposições aprovadas pelo presente diploma.
 
-###### Artigo 44.º — Norma revogatória
-
-1 - É revogado o artigo 68.º do Decreto n.º 18717, de 2 de Agosto de 1930 (Estatuto da Instrução Universitária).
-
-2 - É revogado o Decreto-Lei n.º 173/80, de 29 de Maio.
-
-3 - Para os cursos que se encontrem organizados em unidades de crédito nos termos do Decreto-Lei n.º 173/80, de 29 de Maio, o disposto no número anterior entende-se sem prejuízo da aplicação deste decreto-lei até à entrada em funcionamento da reorganização dos cursos a que se refere o n.º 3 do artigo anterior.
-
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Paulo Sacadura Cabral Portas - Daniel Viegas Sanches - Maria da Graça Martins da Silva Carvalho.
 
 Promulgado em 31 de Janeiro de 2005.
@@ -607,3 +626,11 @@ O Presidente da República, JORGE SAMPAIO.
 Referendado em 7 de Fevereiro de 2005.
 
 O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
+
+###### Artigo 44.º — Norma revogatória
+
+1 - É revogado o artigo 68.º do Decreto n.º 18717, de 2 de Agosto de 1930 (Estatuto da Instrução Universitária).
+
+2 - É revogado o Decreto-Lei n.º 173/80, de 29 de Maio.
+
+3 - Para os cursos que se encontrem organizados em unidades de crédito nos termos do Decreto-Lei n.º 173/80, de 29 de Maio, o disposto no número anterior entende-se sem prejuízo da aplicação deste decreto-lei até à entrada em funcionamento da reorganização dos cursos a que se refere o n.º 3 do artigo anterior.

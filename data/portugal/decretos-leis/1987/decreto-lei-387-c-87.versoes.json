@@ -3,7 +3,7 @@
  "id": "pt:dre:670073:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-1072579017",
  "dre_path": "/dr/detalhe/decreto-lei/387-c-1987-670073",
- "source_lastmod": "2026-10-12",
+ "source_lastmod": "2026-10-22",
  "versions": [
   {
    "date": "1991-11-07",
@@ -1022,5 +1022,8 @@
    "changed_by": [],
    "markdown": "## Anexo Mapa a que se refere o artigo 3 — Área das circunscrições médico-legais por círculos judiciais\n\nCircunscrição Médico-Legal de Lisboa\n\nAlmada, Barreiro, Beja, Caldas da Rainha, Cascais, Évora, Faro, Funchal, Ponta Delgada, Portalegre, Portimão, Santarém, Setúbal, Sintra e Vila Franca de Xira.\n\nCircunscrição Médico-Legal de Coimbra\n\nAveiro, Castelo Branco, Coimbra, Covilhã, Figueira da Foz, Guarda, Leiria, Tomar e Viseu.\n\nCircunscrição Médico-Legal do Porto\n\nBarcelos, Braga, Bragança, Guimarães, Lamego, Matosinhos, Oliveira de Azeméis, Penafiel, Santo Tirso, Viana do Castelo, Vila da Feira, Vila Nova de Gaia e Vila Real.\n\nTabela a que se referem os artigos 48.º, n.º 2, e 68.º\n\nAcréscimo sobre o vencimento base para as funções de:\n\nDirector de serviços - 20%.\n\nDirector de instituto de medicina legal - 50%.\n\nAcréscimo sobre o vencimento base segundo o regime de trabalho:\n\nNo estágio de medicina legal - 40%.\n\nRegime de tempo completo prolongado - 40%.\n\nRegime de dedicação exclusiva - 50%.\n\nQuadro de pessoal a que se refere o artigo 44.º\n\nInstituto de Medicina Legal de Coimbra\n\n(ver documento original)\n\nConteúdo funcional dos chefes de repartição e de secção\n\na) Chefe de repartição. - Dirigir e orientar as actividades desenvolvidas numa unidade orgânica correspondente a uma repartição que tenha por atribuições o desenvolvimento de uma ou mais áreas de actividade de índole administrativa, nomeadamente de pessoal, património, expediente e arquivo, contabilidade e economato.\n\nb) Chefe de secção. - Orientar, coordenar e supervisionar as actividades desenvolvidas numa secção administrativa, em conformidade com as respectivas atribuições, nomeadamente nas áreas de pessoal, expediente e arquivo, contabilidade, património e economato.\n\nQuadro de pessoal a que se refere o artigo 44.º\n\nInstituto de Medicina Legal de Lisboa\n\n(ver documento original)\n\nInstituto de Medicina Legal do Porto\n\n(ver documento original)\n\n> Nota: [Diploma, Portaria n.º 374/91 - Diário da República n.º 100/1991, Série I-B de 1991-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/374-1991-616395) Considera extinto no quadro de pessoal de cada instituto um lugar de operador de registo de dados e criado, em sua substituição, um lugar de segundo-oficial, a acrescer à actual dotação da carreira de oficial administrativo."
   }
- }
+ },
+ "unavailable_dates": [
+  "1987-12-29"
+ ]
 }

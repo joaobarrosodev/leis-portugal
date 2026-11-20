@@ -3,7 +3,7 @@
  "id": "pt:dre:137444365:por",
  "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-137509038",
  "dre_path": "/dr/detalhe/decreto-lei/34-2020-137444365",
- "source_lastmod": "2024-06-25",
+ "source_lastmod": "2026-11-11",
  "versions": [
   {
    "date": "2020-07-09",
@@ -120,6 +120,76 @@
     "137442718",
     "137442719",
     "137442720",
+    "137442721",
+    "137442722",
+    "137442723",
+    "137442724",
+    "137442725",
+    "137442726",
+    "137442727"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1194495725:por",
+     "title": "Decreto-Lei n.º 215/2026",
+     "published": "2026-11-11",
+     "dre_path": "/dr/detalhe/decreto-lei/215-2026-1194495725"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "137442680",
+    "137442681",
+    "1194738675",
+    "137442683",
+    "137442684",
+    "137442685",
+    "137442686",
+    "137442687",
+    "137442688",
+    "137442689",
+    "1194740875",
+    "1194747075",
+    "1194747275",
+    "137442692",
+    "137442693",
+    "137442694",
+    "137442695",
+    "137442696",
+    "137442697",
+    "137442698",
+    "137442699",
+    "137442700",
+    "137442701",
+    "137442702",
+    "137442703",
+    "137442704",
+    "137442705",
+    "137442706",
+    "137442707",
+    "137442708",
+    "137442709",
+    "137442710",
+    "137442711",
+    "1194741075",
+    "157266025",
+    "137442714",
+    "157266026",
+    "157266027",
+    "157266028",
+    "137442718",
+    "137442719",
+    "1194741275",
     "137442721",
     "137442722",
     "137442723",
@@ -564,6 +634,65 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "Visto e aprovado em Conselho de Ministros de 25 de junho de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 3 de julho de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 6 de julho de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "1194738675": {
+   "fragment_id": "137509041",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": "2026-11-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei assegura a execução na ordem jurídica interna do Regulamento (UE) n.º 2016/424, do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às instalações por cabo, que revoga a Diretiva n.º 2000/9/CE, do Parlamento Europeu e do Conselho, de 20 de março, adiante designado por Regulamento.\n\n2 - Para concretização do disposto no número anterior, o presente decreto-lei procede:\n\na) À definição do regime aplicável à construção, modificação, colocação em serviço, exploração e fiscalização das instalações por cabo para o transporte de pessoas;\n\nb) À definição de um regime adaptado aplicável às instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial, previstas no Decreto-Lei n.º 309/2009, de 23 de outubro, que tenham entrado em serviço antes de 1 de janeiro de 1986, e ainda estejam em funcionamento e não tenham autorização de entrada ao serviço, independentemente de terem ou não sofrido alterações de conceção ou de construção significativas, inclusive nos subsistemas e nos componentes de segurança especificamente concebidos para elas;\n\nc) À identificação das autoridades nacionais responsáveis pela notificação, avaliação e controlo dos organismos de avaliação da conformidade e pela fiscalização do mercado; e\n\nd) À definição do regime sancionatório aplicável ao incumprimento das regras aplicáveis às instalações por cabo, à conceção, à construção, à entrada em serviço e exploração das novas instalações por cabo de pessoas, bem como às violações cometidas pelos operadores económicos previstas no Regulamento e no presente decreto-lei.\n\n3 - O presente decreto-lei é aplicável:\n\na) Às novas instalações por cabo para transporte de pessoas, às modificações de instalações por cabo que exijam uma nova autorização e aos subsistemas e componentes de segurança para as instalações por cabo, nos termos definidos no Regulamento (UE) n.º 2016/424, do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às instalações por cabo;\n\nb) A novos ascensores para transporte de pessoas, às modificações de ascensores que exijam uma nova autorização e aos subsistemas e componentes de segurança para os ascensores, nos termos definidos no presente decreto-lei.\n\n4 - Para efeitos do presente decreto-lei, é considerado:\n\na) ‘Ascensor’ aparelho de elevação que serve para o transporte público de passageiros e que visa satisfazer as necessidades de deslocação em meio urbano, segundo frequências, horários e tarifas predeterminadas, podendo ter uma das seguintes características:\n\ni) Servir níveis definidos por meio de um habitáculo que se desloca ao longo de guias rígidas e cuja inclinação em relação à horizontal seja superior a 15º; ou\n\nii) Deslocar-se segundo um trajeto perfeitamente definido, independente da utilização de guias rígidas, e seja utilizado no exterior de estruturas edificadas;\n\nb) ‘Funicular’ o sistema de transporte de passageiros por cabo, no qual os veículos se deslocam sobre carris, em plano inclinado com inclinação vertical inferior a 90º, sendo a tração assegurada por cabo ou cabos acionados por sistema motriz fixo, e cuja segurança do sistema depende essencialmente do conjunto cabo-via-veículo, nos termos do regime aplicável aos transportes por cabo.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12."
+  },
+  "1194740875": {
+   "fragment_id": "137509049",
+   "type": 11,
+   "heading": "Artigo 6.º — Definição",
+   "in_force_from": "2026-11-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12."
+   ],
+   "markdown": "###### Artigo 6.º — Definição\n\nPara efeitos do presente decreto-lei, entende-se por instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial as previstas no Decreto-Lei n.º 309/2009, de 23 de outubro, que tenham entrado em serviço antes de 1 de janeiro de 1986, e ainda estejam em funcionamento e não tenham autorização de entrada ao serviço, independentemente de terem ou não sofrido alterações de conceção ou de construção significativas, inclusive nos subsistemas e nos componentes de segurança especificamente concebidos para elas.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12."
+  },
+  "1194747075": {
+   "fragment_id": "1194746975",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Entrada em serviço de históricos que se encontrem em exploração",
+   "in_force_from": "2026-11-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12."
+   ],
+   "markdown": "###### Artigo 6.º-A — Entrada em serviço de históricos que se encontrem em exploração\n\nDepende de autorização da AMT a entrada ao serviço das instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial previstas no artigo anterior, estando sujeitas ao disposto no artigo 4.º, com as devidas adaptações, a definir por deliberação do conselho de administração da AMT.\n\n> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12."
+  },
+  "1194747275": {
+   "fragment_id": "137509050",
+   "type": 11,
+   "heading": "Artigo 7.º — Alterações de instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações de instalações\n\n1 - Dependem de autorização prévia do IMT, I. P., as alterações significativas que impliquem modificações de conceção ou de construção das instalações, incluindo os subsistemas e componentes de segurança das instalações especialmente concebidos para elas, estando ainda sujeitas ao disposto no artigo 3.º, com as devidas adaptações.\n\n2 - A entrada em serviço das alterações previstas no número anterior tem de ser previamente autorizada pelo IMT, I. P.\n\n3 - Para efeitos do número anterior, o dono da obra, ou o seu mandatário, deve apresentar ao IMT, I. P., os documentos referidos nas alíneas a) a e) do n.º 2 do artigo 4.º, com as devidas adaptações.\n\n4 - Dadas as especificidades técnicas destas instalações, as alterações não significativas de subsistemas e componentes de segurança estão dispensadas de apresentação de declarações UE de conformidade, bem como de marcação CE de conformidade.\n\n5 - Em situações devidamente justificadas, as alterações significativas de subsistemas e componentes de segurança destas instalações podem ser dispensadas de apresentação de declarações UE de conformidade, bem como de marcação CE de conformidade."
+  },
+  "1194741075": {
+   "fragment_id": "137509071",
+   "type": 11,
+   "heading": "Artigo 23.º — Contraordenações",
+   "in_force_from": "2026-11-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.",
+    "Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 23.º — Contraordenações\n\n1 - Constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:\n\na) A construção de instalações e as alterações que impliquem modificações de conceção ou de construção significativas sem a autorização prevista no n.º 1 do artigo 3.º;\n\nb) A entrada em serviço de novas instalações ou de instalações que tenham efetuado modificações de conceção ou construção significativas sem a autorização prevista no n.º 1 do artigo 4.º;\n\nc) A entrada ao serviço das instalações por cabo classificadas como instalações de interesse histórico, cultural ou patrimonial sem autorização da AMT em violação do disposto no artigo 6.º-A;\n\nd) A violação do disposto no n.º 1 do artigo 7.º;\n\ne) A entrada em serviço de alterações em violação do disposto no n.º 2 do artigo 7.º;\n\nf) A violação de qualquer dos requisitos previstos no n.º 1 do artigo 8.º;\n\ng) A falta do seguro de responsabilidade civil previsto no artigo 9.º;\n\nh) A violação da exploração de instalações por cabo por entidades não autorizadas nos termos do disposto nos n.os 1 e 3 do artigo 10.º;\n\ni) A violação do disposto no n.º 6 do artigo 10.º;\n\nj) A violação do disposto no n.º 1 do artigo 11.º;\n\nk) A violação do disposto no artigo 13.º;\n\nl) A violação do disposto no artigo 14.º;\n\nm) A violação, pelo fabricante, pelos mandatários, pelos importadores ou pelos distribuidores, do disposto no artigo 15.º\n\nn) A violação das regras e condições de aposição da marca CE, previstas no artigo 17.º, e de outras marcações previstas no n.º 2 do mesmo artigo.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.\n\n> Alterado pelo/a Artigo 177.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "1194741275": {
+   "fragment_id": "137571379",
+   "type": 11,
+   "heading": "Artigo 30.º — Acompanhamento e coordenação",
+   "in_force_from": "2026-11-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12."
+   ],
+   "markdown": "###### Artigo 30.º — Acompanhamento e coordenação\n\nCompete à AMT proceder ao acompanhamento e coordenação global da aplicação do presente decreto-lei e do Regulamento, exercendo, designadamente, as seguintes competências:\n\na) Participar nos trabalhos do Comité das Instalações por Cabo, nos termos do Regulamento (UE) n.º 182/2011, do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011;\n\nb) Cooperar com a ASAE no exercício das respetivas competências, sempre que solicitado;\n\nc) Acompanhar, em coordenação com o IPQ, I. P., e com o IPAC, I. P., a atividade dos organismos notificados;\n\nd) Recolher dados e informações relativos à aplicação do presente decreto-lei, bem como do Regulamento, junto das autoridades de fiscalização do mercado e do controlo das fronteiras, assim como da autoridade notificadora e de acreditação.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12."
   }
  }
 }

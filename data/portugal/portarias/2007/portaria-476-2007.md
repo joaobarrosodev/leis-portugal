@@ -29,10 +29,21 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-02-26'
+version_history:
+  file: portaria-476-2007.versoes.json
+  count: 1
+  source_lastmod: '2026-11-11'
+  versions:
+  - date: '2010-02-26'
+    amending: pt:dre:609585:por
+    amending_title: Portaria n.º 114/2010
+    changes:
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/476/2007/04/18/p/dre/pt/html
@@ -45,20 +56,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/portaria/476-2007-519418
   metadata_url: https://data.dre.pt/eli/port/476/2007/04/18/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/476-2007-519418
-  consolidated_url: null
-  retrieved_at: '2026-10-23T15:23:50Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-978667811
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-978667811
+  retrieved_at: '2026-11-20T13:51:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-11T00:00:00Z'
 integrity:
-  source_sha256: f0f63360cfc11942be85ce5881d54a5ce2ee54a8101e5f7a7598aab10aada531
+  source_sha256: 1159c1658dfb812afe739ac0d574e5dc7e833586f3d648979e7cbd36644e0daf
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T15:23:50Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:51:09Z'
+  notes: 1 versão(ões); histórico completo em portaria-476-2007.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,6 +92,11 @@ relationships:
   target: pt:dre:609585:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609585:por
+  label: Revoga Artigo 6.º; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/114-2010-609585
+  date: '2010-02-25'
 - type: cites
   target: pt:dre:222418:por
   label: null
@@ -110,28 +127,26 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-2010-609585
   date: '2010-02-25'
 article_structure:
-  article_count: 0
+  article_count: 7
   section_count: 0
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T15:23:50Z'
+  checked_at: '2026-11-20T13:51:09Z'
   warnings: []
   errors: []
 ---
 
 # Portaria n.º 476/2007
 
-de 18 de Abril
-
-A [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, adoptou, a título de experiência pedagógica, a terminologia linguística para os ensinos básico e secundário (TLEBS), constante do respectivo anexo. Essa iniciativa foi, então, justificada pela necessidade, largamente partilhada pelos especialistas e pelos próprios professores, de corrigir os erros terminológicos e de superar a desactualização da nomenclatura gramatical portuguesa, aprovada pela [Portaria n.º 22664](https://diariodarepublica.pt/dr/detalhe/portaria/22664-1967-310250), de 28 de Abril de 1967.
+A Portaria n.º 1488/2004, de 24 de Dezembro, adoptou, a título de experiência pedagógica, a terminologia linguística para os ensinos básico e secundário (TLEBS), constante do respectivo anexo. Essa iniciativa foi, então, justificada pela necessidade, largamente partilhada pelos especialistas e pelos próprios professores, de corrigir os erros terminológicos e de superar a desactualização da nomenclatura gramatical portuguesa, aprovada pela Portaria n.º 22664, de 28 de Abril de 1967.
 
 A mesma portaria determinou o início da experiência no ano lectivo de 2004-2005, fixando a sua duração em três anos lectivos, findos os quais a TLEBS entraria generalizadamente em vigor. Admitia, porém, expressamente, a possibilidade de introdução das alterações que os resultados da experiência viessem a aconselhar.
 
-O desenvolvimento da experiência piloto, durante o ano de 2005-2006, bem como a entrada progressiva de escolas e docentes na fase experimental, permitiu identificar alguns termos inadequados na lista aprovada pela [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, que aprova a TLEBS, e, bem assim, dificuldades nas condições científicas e pedagógicas da sua generalização.
+O desenvolvimento da experiência piloto, durante o ano de 2005-2006, bem como a entrada progressiva de escolas e docentes na fase experimental, permitiu identificar alguns termos inadequados na lista aprovada pela Portaria n.º 1488/2004, de 24 de Dezembro, que aprova a TLEBS, e, bem assim, dificuldades nas condições científicas e pedagógicas da sua generalização.
 
 Deste modo, tornou-se necessário definir novas orientações, tendo em especial consideração que qualquer intervenção deverá salvaguardar a continuidade e estabilidade pedagógicas e respeitar o trabalho que professores e alunos realizam nas escolas.
 
@@ -139,26 +154,44 @@ Foram ouvidas a Associação de Editores e Livreiros e a União de Editores Port
 
 Assim:
 
-Ao abrigo do disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967, no n.º 7 do artigo 47.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, e no n.º 1 do artigo 14.º do [Decreto-Lei n.º 213/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2006-545651), de 27 de Outubro:
+Ao abrigo do disposto nos artigos 1.º e 2.º do Decreto-Lei n.º 47587, de 10 de Março de 1967, no n.º 7 do artigo 47.º da Lei n.º 46/86, de 14 de Outubro, e no n.º 1 do artigo 14.º do Decreto-Lei n.º 213/2006, de 27 de Outubro:
 
 Manda o Governo, pela Ministra da Educação, o seguinte:
 
-1.º A terminologia linguística para os ensinos básico e secundário (TLEBS), publicada em anexo à [Portaria n.º 1488/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1488-2004-353930), de 24 de Dezembro, é objecto de revisão científica e adaptação pedagógica nos termos dos números seguintes.
+###### 1.º
 
-2.º A Direcção-Geral de Inovação e Desenvolvimento Curricular (DGIDC), recorrendo à colaboração de especialistas de reconhecido mérito, deve apresentar dois documentos de referência:
+A terminologia linguística para os ensinos básico e secundário (TLEBS), publicada em anexo à Portaria n.º 1488/2004, de 24 de Dezembro, é objecto de revisão científica e adaptação pedagógica nos termos dos números seguintes.
+
+###### 2.º
+
+A Direcção-Geral de Inovação e Desenvolvimento Curricular (DGIDC), recorrendo à colaboração de especialistas de reconhecido mérito, deve apresentar dois documentos de referência:
 
 a) Um, de carácter científico, com a lista de termos e respectivas definições, destinado a professores;
 
 b) Outro, de carácter didáctico-pedagógico, com os termos a trabalhar, por ciclo de ensino, e propostas de materiais a utilizar pelos professores nas situações de ensino-aprendizagem.
 
-3.º Os documentos referidos no número anterior serão submetidos a consulta pública por um período não inferior a 90 dias.
+###### 3.º
 
-4.º São revogados os n.os 4.º e 5.º da [Portaria n.º 1147/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1147-2005-583209), de 8 de Novembro.
+Os documentos referidos no número anterior serão submetidos a consulta pública por um período não inferior a 90 dias.
 
-5.º A DGIDC procede, até Janeiro de 2009, à revisão dos programas das disciplinas de Língua Portuguesa dos 5.º, 6.º, 7.º, 8.º e 9.º anos de escolaridade.
+###### 4.º
 
-6.º Os programas revistos e homologados entram em vigor no ano lectivo de 2010-2011.
+São revogados os n.os 4.º e 5.º da Portaria n.º 1147/2005, de 8 de Novembro.
 
-7.º Ficam suspensos, até 2010, os processos de adopção de novos manuais das disciplinas de Língua Portuguesa dos 5.º, 6.º, 7.º, 8.º e 9.º anos de escolaridade.
+###### 5.º
+
+A DGIDC procede, até Janeiro de 2009, à revisão dos programas das disciplinas de Língua Portuguesa dos 5.º, 6.º, 7.º, 8.º e 9.º anos de escolaridade.
+
+###### Artigo 6.º
+
+Os programas revistos e homologados entram em vigor no ano lectivo de 2010-2011.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2010 - Diário da República n.º 39/2010, Série I de 2010-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/114-2010-609585), em vigor a partir de 2010-02-26.
+
+###### Artigo 7.º
+
+Ficam suspensos, até 2010, os processos de adopção de novos manuais das disciplinas de Língua Portuguesa dos 5.º, 6.º, 7.º, 8.º e 9.º anos de escolaridade.
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 114/2010 - Diário da República n.º 39/2010, Série I de 2010-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/114-2010-609585), em vigor a partir de 2010-02-26.
 
 A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 7 de Março de 2007.

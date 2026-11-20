@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:161663906:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/louvor/2021-1194509575",
+ "dre_path": "/dr/detalhe/louvor/156-2021-161663906",
+ "source_lastmod": "2026-11-11",
+ "versions": [
+  {
+   "date": "2021-04-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1194511175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1194511175": {
+   "fragment_id": "1194509675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Louvo os assessores e os consultores da Casa Civil que me acompanharam ao longo do I Mandato Presidencial pelo desempenho de funções com elevada competência, independência e sentido institucional, pelo arrojado espírito de iniciativa e pelo entusiasmo com que abraçaram as mais variadas missões, sempre com exemplar dedicação à causa pública e a Portugal.\n\nAssim, após estes cinco anos tão complexos, é-me particularmente grato expressar público louvor aos assessores e consultores da Casa Civil que aceitaram renovar este compromisso e continuar a colaborar nesta Casa Civil:\n\nDr.ª Ana Paula Bernardo.\n\nDr. Duarte Vaz Pinto.\n\nProf. Doutor Gonçalo Matias.\n\nMestre Helder Reis.\n\nDr.ª Helena Nogueira Pinto.\n\nProf.ª Doutora Isabel Alçada.\n\nProf. Doutor João Mata.\n\nProf. Doutor Nuno Sampaio.\n\nDr.ª Madalena Silveira Botelho.\n\nDr.ª Mafalda Gama Lopes.\n\nDr.ª Maria João Ruela.\n\nDr.ª Matilde Salvação Barreto.\n\nProf. Doutor Pedro Nuno Teixeira.\n\nDr. Pedro Mexia.\n\nRicardo Branco.\n\nDr. Ricardo Camossa.\n\nDr.ª Vanda Stelzer Sequeira."
+  }
+ }
+}

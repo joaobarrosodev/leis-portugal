@@ -41,10 +41,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: Versão consolidada pelo DRE
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-11-12'
+version_history:
+  file: decreto-lei-231-2007.versoes.json
+  count: 3
+  source_lastmod: '2026-11-12'
+  versions:
+  - date: '2010-03-29'
+    amending: pt:dre:611311:por
+    amending_title: Decreto-Lei n.º 20/2010
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 49.º
+  - date: '2010-06-14'
+    amending: pt:dre:335456:por
+    amending_title: Decreto-Lei n.º 62/2010
+    changes:
+    - Adita Artigo  66.º-Q
+    - Altera Anexo V
+  - date: '2026-11-12'
+    amending: pt:dre:1194495725:por
+    amending_title: Decreto-Lei n.º 215/2026
+    changes:
+    - Revoga Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/231/2007/06/14/p/dre/pt/html
@@ -57,20 +79,21 @@ source:
   name: Diário da República Eletrónico
   official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146
   metadata_url: https://data.dre.pt/eli/dec-lei/231/2007/06/14/p/dre/pt/html
-  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146
-  consolidated_url: null
-  retrieved_at: '2026-10-23T02:58:20Z'
-  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
-  source_modified_at: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-58744284
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-58744284
+  retrieved_at: '2026-11-20T13:52:14Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-11-12T00:00:00Z'
 integrity:
-  source_sha256: 5641032fb4590507895bf538cadfce72d1591be5d144d2df889b8b42e4b589fc
+  source_sha256: ae7d0200f301a57fe9bd3605ed76e28f1a83a03b9a8959fc0dfc365c40ab49c2
   source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal DRE
+  collector: leis-portugal DRE consolidado
   collector_version: 0.1.0
-  generated_by: leis-portugal collect dre
-  generated_at: '2026-10-23T02:58:20Z'
-  notes: null
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-11-20T13:52:14Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-231-2007.versoes.json.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,6 +148,11 @@ relationships:
     214-D/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-d-2015-70409926
   date: '2015-09-30'
+- type: amended_by
+  target: pt:dre:1194495725:por
+  label: Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725
+  date: '2026-11-11'
 - type: cites
   target: celex:31969R1191
   label: null
@@ -169,6 +197,10 @@ relationships:
   target: celex:32004R0881
   label: null
   source: http://data.europa.eu/eli/reg/2004/881/oj
+- type: cites
+  target: celex:32008L0068
+  label: null
+  source: null
 - type: repealed_by
   target: pt:dre:70476205:por
   label: Revogadas (a partir de 08.10.2015) as als. e) a i), k) a m), p) a r), v), w), y) e z) do art 3.º (na redação do presente
@@ -179,24 +211,22 @@ relationships:
   source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2015-70476205
   date: '2015-10-07'
 article_structure:
-  article_count: 120
-  section_count: 41
-  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+  article_count: 121
+  section_count: 47
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
 derived_material:
   machine_generated: true
-  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
 validation:
   status: validated
-  checked_at: '2026-10-23T02:58:20Z'
+  checked_at: '2026-11-20T13:52:14Z'
   warnings: []
   errors: []
 ---
 
 # Decreto-Lei n.º 231/2007
 
-de 14 de Junho
-
-A Directiva n.º [2004/49/CE](https://data.europa.eu/eli/dir/2004/49/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril, relativa à segurança dos caminhos de ferro da Comunidade Europeia, e a Directiva n.º [2004/51/CE](https://data.europa.eu/eli/dir/2004/51/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril, que altera a Directiva n.º [91/440/CEE](https://data.europa.eu/eli/dir/1991/440/oj?locale=pt), do Conselho, de 29 de Julho, relativa ao desenvolvimento dos caminhos de ferro comunitários, ambas do Parlamento Europeu e do Conselho, de 29 de Abril, que o presente decreto-lei vem transpor, integram um conjunto de medidas designadas «pacote ferroviário II» que visa aprofundar os mecanismos de mercado introduzidos no sector do transporte ferroviário pelas Directivas n.os [2001/12/CE](https://data.europa.eu/eli/dir/2001/12/oj?locale=pt), [2001/13/CE](https://data.europa.eu/eli/dir/2001/13/oj?locale=pt) e [2001/14/CE](https://data.europa.eu/eli/dir/2001/14/oj?locale=pt), todas do Parlamento Europeu e do Conselho, de 26 de Fevereiro, comummente designadas «pacote ferroviário I», transpostas para a ordem jurídica portuguesa pelo Decreto-Lei n.º 270/2003, de 28 de Outubro.
+A Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0049" title="Link para Directiva da Comunidade Europeia">2004/49/CE</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, relativa à segurança dos caminhos de ferro da Comunidade Europeia, e a Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0051" title="Link para Directiva da Comunidade Europeia">2004/51/CE</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, que altera a Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0440" title="Link para Directiva da Comunidade Europeia">91/440/CEE</a>, do Conselho, de 29 de Julho, relativa ao desenvolvimento dos caminhos de ferro comunitários, ambas do Parlamento Europeu e do Conselho, de 29 de Abril, que o presente decreto-lei vem transpor, integram um conjunto de medidas designadas «pacote ferroviário II» que visa aprofundar os mecanismos de mercado introduzidos no sector do transporte ferroviário pelas Directivas n.os <a href="eurlex.asp?ano=2001&id=301L0012" title="Link para Directiva da Comunidade Europeia">2001/12/CE</a>, <a href="eurlex.asp?ano=2001&id=301L0013" title="Link para Directiva da Comunidade Europeia">2001/13/CE</a> e <a href="eurlex.asp?ano=2001&id=301L0014" title="Link para Directiva da Comunidade Europeia">2001/14/CE</a>, todas do Parlamento Europeu e do Conselho, de 26 de Fevereiro, comummente designadas «pacote ferroviário I», transpostas para a ordem jurídica portuguesa pelo Decreto-Lei n.º 270/2003, de 28 de Outubro.
 
 O Decreto-Lei n.º 270/2003, de 28 de Outubro, tem constituído o elemento fulcral do actual quadro disciplinador do sector, tendo, por um lado, instituído um inovador enquadramento jurídico-económico de promoção do desenvolvimento do caminho de ferro, através da abertura a novos operadores, nomeadamente no transporte de mercadorias, e exigindo a sujeição de todos os actores às regras de concorrência nacionais e comunitárias e, por outro, aprofundando a reforma do sector ferroviário, iniciada em 1997 sem, contudo, acarretar alterações substanciais no desenho institucional do sector.
 
@@ -204,7 +234,7 @@ O Decreto-Lei n.º 270/2003, de 28 de Outubro, tem constituído o elemento fulcr
 
 As alterações a introduzir, neste momento, por força da transposição do «pacote ferroviário II» inscrevem-se no sentido de aprofundar as soluções já existentes e consagradas no citado Decreto-Lei n.º 270/2003, de 28 de Outubro, o que justificou a opção pela sua alteração e republicação. Esta metodologia permite a manutenção do corpus único de texto legislativo, que muito facilita a cognoscibilidade por parte dos operadores do sector (em sentido lato), do conjunto das obrigações a que estão sujeitos e dos direitos que lhes são atribuídos.
 
-O presente decreto-lei procede à transposição para a ordem jurídica interna da Directiva n.º [2004/51/CE](https://data.europa.eu/eli/dir/2004/51/oj?locale=pt) e, parcialmente, da Directiva n.º [2004/49/CE](https://data.europa.eu/eli/dir/2004/49/oj?locale=pt), ambas do Parlamento Europeu e do Conselho, de 29 de Abril, que reclamam a intervenção normativa com força de lei, prevendo-se, expressamente, a produção regulamentar que caberá à entidade reguladora do sector ferroviário nacional.
+O presente decreto-lei procede à transposição para a ordem jurídica interna da Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0051" title="Link para Directiva da Comunidade Europeia">2004/51/CE</a> e, parcialmente, da Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0049" title="Link para Directiva da Comunidade Europeia">2004/49/CE</a>, ambas do Parlamento Europeu e do Conselho, de 29 de Abril, que reclamam a intervenção normativa com força de lei, prevendo-se, expressamente, a produção regulamentar que caberá à entidade reguladora do sector ferroviário nacional.
 
 A este propósito, cumpre recordar que os normativos comunitários integrando os denominados «pacotes ferroviários» abrangem matérias atinentes à alocação de responsabilidades, a nível interno, às quais não pode ser indiferente o concreto desenho institucional que enquadra os diversos intervenientes no sector ferroviário. Assim, encontra-se em curso uma reforma institucional, iniciada com a Resolução do Conselho de Ministros n.º 124/2005, de 4 de Agosto, que aprova o Programa de Reestruturação da Administração Central do Estado (PRACE), tendo, designadamente, como objectivo a requalificação dos serviços públicos com ganhos de eficiência pela simplificação, racionalização e automatização. Na sequência da aprovação do PRACE, a Resolução do Conselho de Ministros n.º 39/2006, de 30 de Março, veio definir as orientações, gerais e especiais, para a reestruturação dos ministérios. Resulta, assim, que a reestruturação do Ministério das Obras Públicas, Transportes e Comunicações (MOPTC), cuja lei orgânica foi aprovada pelo Decreto-Lei n.º 210/2006, de 27 de Outubro, passa pela criação do Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), que, como serviço operacional com atribuições normativas e reguladoras no domínio dos transportes terrestres, passará a integrar, entre outras, atribuições da Direcção-Geral dos Transportes Terrestres e Fluviais (DGTTF) e do Instituto Nacional do Transporte Ferroviário, I. P. (INTF), que são extintos. Importa assinalar que, no que respeita a matérias do subsector ferroviário, se encontra prevista a instituição no IMTT de uma estrutura com funções de regulação técnica e económica das actividades ferroviárias, incidindo designadamente na relação entre os gestores da infra-estrutura ferroviária e os operadores de transporte, dotada de autonomia técnica e independência funcional.
 
@@ -236,7 +266,7 @@ Introduzem-se, de igual modo, indicadores comuns de segurança (ICS) a fim de pe
 
 Ora, o desenvolvimento de OCS, MCS e ICS e, bem assim, a necessidade de promover uma abordagem comum da segurança ferroviária exigem uma colaboração, ao nível da Comunidade, das entidades com competências em matéria de segurança ferroviária.
 
-Neste âmbito, é estabelecida a necessária articulação entre o regulador do sector ferroviário e a Agência Ferroviária Europeia, instituída pelo Regulamento (CE) n.º [881/2004](https://data.europa.eu/eli/reg/2004/881/oj?locale=pt), do Parlamento Europeu e do Conselho, a qual constitui um instrumento essencial de diálogo, de concertação e de intercâmbio entre todos os intervenientes no sector, no respeito pelas competências de cada um, a fim de promover uma cultura ferroviária europeia genuína e a constituição de um espaço ferroviário europeu sem fronteiras.
+Neste âmbito, é estabelecida a necessária articulação entre o regulador do sector ferroviário e a Agência Ferroviária Europeia, instituída pelo Regulamento (CE) n.º <a href="eurlex.asp?ano=2004&id=304R0881" title="Link para Regulamento da Comunidade Europeia">881/2004</a>, do Parlamento Europeu e do Conselho, a qual constitui um instrumento essencial de diálogo, de concertação e de intercâmbio entre todos os intervenientes no sector, no respeito pelas competências de cada um, a fim de promover uma cultura ferroviária europeia genuína e a constituição de um espaço ferroviário europeu sem fronteiras.
 
 Por fim, estatui-se, a título transitório, a aplicabilidade das normas previstas nos capítulos III, VI, VII e VIII aos sistemas de metropolitano na sequência da assunção pelo regulador ferroviário das suas atribuições de regulação e supervisão, fiscalização e promoção da segurança quanto a este modo de transporte ferroviário por força do despacho n.º 5090/2005, de 18 de Fevereiro, publicado no Diário da República, 2.ª série, n.º 48, de 9 de Março de 2005.
 
@@ -252,9 +282,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede à transposição para a ordem jurídica interna das seguintes directivas:
 
-a) Directiva n.º [2004/51/CE](https://data.europa.eu/eli/dir/2004/51/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril, que altera a Directiva n.º [91/440/CEE](https://data.europa.eu/eli/dir/1991/440/oj?locale=pt), do Conselho, de 29 de Julho, relativa ao desenvolvimento dos caminhos de ferro comunitários;
+a) Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0051" title="Link para Directiva da Comunidade Europeia">2004/51/CE</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, que altera a Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0440" title="Link para Directiva da Comunidade Europeia">91/440/CEE</a>, do Conselho, de 29 de Julho, relativa ao desenvolvimento dos caminhos de ferro comunitários;
 
-b) Parcialmente, a Directiva n.º [2004/49/CE](https://data.europa.eu/eli/dir/2004/49/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril, relativa à segurança dos caminhos de ferro da Comunidade, e que altera a Directiva n.º 95/18/CE, do Conselho, relativa às licenças das empresas de transporte ferroviário, e a Directiva n.º [2001/14/CE](https://data.europa.eu/eli/dir/2001/14/oj?locale=pt), relativa à repartição de capacidade da infra-estrutura ferroviária, à aplicação de taxas de utilização da infra-estrutura ferroviária e à certificação da segurança.
+b) Parcialmente, a Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0049" title="Link para Directiva da Comunidade Europeia">2004/49/CE</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, relativa à segurança dos caminhos de ferro da Comunidade, e que altera a Directiva n.º 95/18/CE, do Conselho, relativa às licenças das empresas de transporte ferroviário, e a Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0014" title="Link para Directiva da Comunidade Europeia">2001/14/CE</a>, relativa à repartição de capacidade da infra-estrutura ferroviária, à aplicação de taxas de utilização da infra-estrutura ferroviária e à certificação da segurança.
 
 ###### Artigo 2.º — Alteração ao Decreto-Lei n.º 270/2003, de 28 de Outubro
 
@@ -854,7 +884,7 @@ ANEXO V
 
 Indicadores comuns de segurança
 
-I - Indicadores relativos a acidentes, que devem ter em conta as disposições do Regulamento (CE) n.º [91/2003](https://data.europa.eu/eli/reg/2003/91/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativo às estatísticas dos transportes ferroviários, na medida em que essas informações se encontrem disponíveis:
+I - Indicadores relativos a acidentes, que devem ter em conta as disposições do Regulamento (CE) n.º <a href="eurlex.asp?ano=2003&id=303R0091" title="Link para Regulamento da Comunidade Europeia">91/2003</a>, do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativo às estatísticas dos transportes ferroviários, na medida em que essas informações se encontrem disponíveis:
 
 1) Número total e relativo (por comboio/quilómetro) de acidentes e repartição pelos tipos de acidentes seguintes:
 
@@ -962,6 +992,8 @@ v) Pela subsecção V, com a epígrafe «Das normas técnicas de segurança», q
 
 3 - Cabe ao IMTT, por meio de recomendação, instrução ou regulamento, determinar o modo pelo qual se fará a necessária adaptação ao regime legal.
 
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 215/2026 - Diário da República n.º 219/2026, Série I de 2026-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2026-1194495725), em vigor a partir de 2026-11-12.
+
 ###### Artigo 8.º — Regulamentação
 
 A portaria referida no n.º 2 do artigo 66.º-J do Decreto-Lei n.º 270/2003, de 28 de Outubro, na redacção que lhe foi dada pelo presente decreto-lei é publicada no prazo de 30 dias após a entrada em vigor do presente decreto-lei.
@@ -994,11 +1026,15 @@ Referendado em 25 de Maio de 2007.
 
 O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO — Republicação do Decreto-Lei n.º 270/2003
+ANEXO
+
+Republicação do Decreto-Lei n.º 270/2003
 
 (a que se refere o artigo 11.º)
 
-### CAPÍTULO I — Disposições gerais
+## Anexo
+
+### Capítulo I — Disposições gerais
 
 ###### Artigo 1.º — Objecto
 
@@ -1068,7 +1104,7 @@ i) «Especificações técnicas de interoperabilidade (ETI)» as especificaçõe
 
 j) «Gestor da infra-estrutura» a entidade responsável por assegurar a disponibilização da infra-estrutura e gerir a respectiva capacidade, assegurando a gestão dos sistemas de comando, controlo de circulação e segurança e assegurando ainda a renovação e manutenção da infra-estrutura e também a construção, instalação e readaptação desta;
 
-l) «Infra-estrutura ferroviária» o conjunto de todas as instalações fixas respeitantes às vias principais e de serviço e às estações necessárias à realização da circulação ferroviária, incluindo edifícios afectos ao serviço das infra-estruturas, bem como o conjunto dos elementos referidos na parte A do anexo I do Regulamento n.º [1108/70/CEE](https://data.europa.eu/eli/reg/1970/1108/oj?locale=pt), do Conselho, de 4 de Junho;
+l) «Infra-estrutura ferroviária» o conjunto de todas as instalações fixas respeitantes às vias principais e de serviço e às estações necessárias à realização da circulação ferroviária, incluindo edifícios afectos ao serviço das infra-estruturas, bem como o conjunto dos elementos referidos na parte A do anexo I do Regulamento n.º <a href="eurlex.asp?ano=1970&id=370R1108" title="Link para Regulamento da Comunidade Europeia">1108/70/CEE</a>, do Conselho, de 4 de Junho;
 
 m) «Licença» a autorização concedida a uma empresa, mediante a qual esta fica habilitada para o exercício da actividade de prestação de serviços de transporte ferroviário;
 
@@ -1098,7 +1134,7 @@ aa) «Transporte regional» o transporte destinado a dar resposta às necessidad
 
 ab) «Transporte urbano e suburbano» o transporte destinado a dar resposta às necessidades de um centro urbano ou de uma aglomeração, bem como às necessidades de transporte entre esse centro ou essa aglomeração e os respectivos subúrbios.
 
-### CAPÍTULO II — Serviços liberalizados e concessionados
+### Capítulo II — Serviços liberalizados e concessionados
 
 ###### Artigo 4.º — Serviços liberalizados e concessionados
 
@@ -1120,9 +1156,9 @@ d) O transporte ferroviário de passageiros realizado em território nacional, q
 
 5 - As condições e limites da prestação dos serviços de transporte ferroviário de passageiros realizados em território nacional, que sejam meramente ocasionais, ou com fins exclusivamente turísticos ou históricos, serão definidos pelo IMTT.
 
-### CAPÍTULO III — Acesso à actividade de transporte ferroviário
+### Capítulo III — Acesso à actividade de transporte ferroviário
 
-#### SECÇÃO I — Disposições gerais
+#### Secção I — Disposições gerais
 
 ###### Artigo 5.º — Licença de acesso à actividade
 
@@ -1186,7 +1222,7 @@ c) À protecção aos utilizadores, bem como às condições de saúde, seguran�
 
 4 - As licenças validamente emitidas por outros Estados membros da União Europeia são válidas em território nacional, conferindo os mesmos direitos que as emitidas para empresas nacionais.
 
-#### SECÇÃO II — Requisitos
+#### Secção II — Requisitos
 
 ###### Artigo 9.º — Idoneidade
 
@@ -1228,7 +1264,7 @@ g) As pessoas ou empresas condenadas por infracção de legislação aduaneira, 
 
 3 - Os requerentes devem apresentar uma minuta da apólice a subscrever, de cujo teor resulte ser inequívoco o cumprimento do disposto nos números anteriores, bem como a adequação entre o âmbito geográfico da apólice e aquele em que se desenvolve a actividade.
 
-#### SECÇÃO III — Do licenciamento
+#### Secção III — Do licenciamento
 
 ###### Artigo 13.º — Pedido de licença
 
@@ -1378,9 +1414,9 @@ b) Quando ocorra alteração relevante da situação jurídica de uma empresa ti
 
 2 - As taxas a que se refere o número anterior constituem receita própria do IMTT e o seu montante e forma de pagamento é definido por portaria conjunta dos Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Comunicações, a publicar no prazo de 30 dias após a entrada em vigor do presente diploma.
 
-### CAPÍTULO IV — Acesso e trânsito na rede nacional
+### Capítulo IV — Acesso e trânsito na rede nacional
 
-#### SECÇÃO I — Disposições gerais
+#### Secção I — Disposições gerais
 
 ###### Artigo 20.º — Direitos de acesso e trânsito
 
@@ -1388,15 +1424,17 @@ b) Quando ocorra alteração relevante da situação jurídica de uma empresa ti
 
 2 - É concedido o direito de acesso à infra-estrutura ferroviária nacional às empresas nacionais de transporte ferroviário para prestação do serviço de transporte ferroviário de mercadorias no território nacional.
 
-3 - São concedidos os direitos de acesso e trânsito na infra-estrutura ferroviária nacional a agrupamentos internacionais cuja composição integre uma empresa estabelecida em Portugal para prestação de serviços de transporte ferroviário internacional.
+3 - (Revogado.)
 
-4 - É concedido o direito de trânsito na infra-estrutura ferroviária nacional a agrupamentos internacionais para a prestação de serviços de transporte ferroviário internacional entre Estados membros da União Europeia em que se encontrem estabelecidas as empresas que os constituam.
+4 - (Revogado.)
 
 5 - É concedido o direito de acesso à infra-estrutura ferroviária nacional às empresas de transporte ferroviário para prestação de serviços de transporte combinado internacional de mercadorias.
 
 6 - São concedidos, em condições equitativas, direitos de acesso e trânsito na infra-estrutura ferroviária nacional às empresas de transporte ferroviário, para prestação de serviços de transporte ferroviário internacional de mercadorias.
 
 7 - Depois de 1 de Janeiro de 2007 os direitos previstos no n.º 2 são concedidos a todas as empresas de transporte ferroviário estabelecidas num Estado membro.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 20/2010 - Diário da República n.º 58/2010, Série I de 2010-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2010-611311), em vigor a partir de 2010-03-29.
 
 ###### Artigo 21.º — Exercício dos direitos de acesso e trânsito
 
@@ -1414,13 +1452,13 @@ b) Quando ocorra alteração relevante da situação jurídica de uma empresa ti
 
 3 - Em caso de incumprimento do disposto no número anterior pode o IMTT impor as obrigações específicas previstas no artigo 88.º
 
-#### SECÇÃO II — Responsabilidades do gestor da infra-estrutura
+#### Secção II — Responsabilidades do gestor da infra-estrutura
 
 ###### Artigo 23.º — Cooperação internacional
 
 1 - O gestor da infra-estrutura deve cooperar com outros gestores de infra-estrutura envolvidos no sentido de viabilizar o funcionamento eficiente dos serviços ferroviários que utilizem mais de uma rede de infra-estrutura.
 
-2 - O gestor da infra-estrutura deve, em especial, procurar garantir a maior competitividade possível do transporte ferroviário internacional de mercadorias e assegurar uma utilização eficaz da rede transeuropeia de transporte ferroviário de mercadorias, definida no artigo 10.º-A da Directiva n.º [91/440/CE](https://data.europa.eu/eli/dir/1991/440/oj?locale=pt), com a redacção da Directiva n.º [2001/12/CE](https://data.europa.eu/eli/dir/2001/12/oj?locale=pt).
+2 - O gestor da infra-estrutura deve, em especial, procurar garantir a maior competitividade possível do transporte ferroviário internacional de mercadorias e assegurar uma utilização eficaz da rede transeuropeia de transporte ferroviário de mercadorias, definida no artigo 10.º-A da Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0440" title="Link para Directiva da Comunidade Europeia">91/440/CE</a>, com a redacção da Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0012" title="Link para Directiva da Comunidade Europeia">2001/12/CE</a>.
 
 3 - Para esse efeito, o gestor da infra-estrutura pode participar em organizações conjuntas com outros gestores de infra-estruturas ferroviárias ou estabelecer outros meios adequados de cooperação e coordenação.
 
@@ -1436,7 +1474,7 @@ b) Quando ocorra alteração relevante da situação jurídica de uma empresa ti
 
 O gestor da infra-estrutura deve, a todo o tempo, poder informar qualquer parte interessada sobre a capacidade da infra-estrutura que tenha sido atribuída às empresas ferroviárias utilizadoras.
 
-#### SECÇÃO III — Serviços prestados a empresas de transporte ferroviário
+#### Secção III — Serviços prestados a empresas de transporte ferroviário
 
 ###### Artigo 26.º — Tipologia de serviços
 
@@ -1532,7 +1570,7 @@ c) A inspecção técnica do material circulante.
 
 3 - Pela prestação dos serviços auxiliares o gestor da infra-estrutura ou outro prestador dos mesmos só poderá cobrar as tarifas ou preços que resultem das regras impostas pelo presente diploma e pelos regulamentos a que se refere o n.º 2 do artigo 52.º, nos casos previstos no artigo 55.º
 
-#### SECÇÃO IV — Directório da rede
+#### Secção IV — Directório da rede
 
 ###### Artigo 30.º — Elaboração
 
@@ -1624,9 +1662,9 @@ d) Promoção da concorrência no âmbito da prestação de serviços ferroviár
 
 6 - Se o pedido referido no número anterior for exequível, o gestor da infra-estrutura deve disponibilizar a informação solicitada no prazo de cinco dias úteis.
 
-#### SECÇÃO V — Repartição da capacidade da infra-estrutura ferroviária
+#### Secção V — Repartição da capacidade da infra-estrutura ferroviária
 
-##### SUBSECÇÃO I — Disposições gerais
+##### Subsecção I — Disposições gerais
 
 ###### Artigo 33.º — Âmbito
 
@@ -1644,7 +1682,7 @@ b) «Canal horário» a capacidade da infra-estrutura necessária para a circula
 
 c) «Canais horários incompatíveis» a situação verificada quando a circulação simultânea de dois comboios se torne impossível, segundo o sistema de comando e controlo da circulação existente, podendo a incompatibilidade dever-se ao espaçamento insuficiente entre comboios no mesmo sentido, a comboios que circulem em sentidos opostos ou à necessidade de atravessamentos de vias que estejam sendo utilizadas por outras circulações;
 
-d) «Candidato» uma empresa de transporte ferroviário detentora de licença ou um agrupamento internacional de empresas de transporte ferroviário e outras pessoas singulares ou colectivas com um interesse de serviço público ou comercial na aquisição de capacidade de infra-estrutura, tais como autoridades públicas ao abrigo do Regulamento (CEE) n.º [1191/69](https://data.europa.eu/eli/reg/1969/1191/oj?locale=pt), do Conselho, bem como carregadores marítimos, transitários e operadores de transportes combinados, para exploração de um serviço ferroviário nos respectivos territórios;
+d) «Candidato» uma empresa de transporte ferroviário detentora de licença ou um agrupamento internacional de empresas de transporte ferroviário e outras pessoas singulares ou colectivas com um interesse de serviço público ou comercial na aquisição de capacidade de infra-estrutura, tais como autoridades públicas ao abrigo do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1969&id=369R1191" title="Link para Regulamento da Comunidade Europeia">1191/69</a>, do Conselho, bem como carregadores marítimos, transitários e operadores de transportes combinados, para exploração de um serviço ferroviário nos respectivos territórios;
 
 e) «Capacidade da infra-estrutura» a possibilidade de programação de canais horários num determinado elemento da infra-estrutura, por unidade de tempo;
 
@@ -1680,9 +1718,9 @@ o) «Repartição» a afectação da capacidade da infra-estrutura ferroviária 
 
 6 - Não se considera transmissão de capacidade a utilização desta por uma empresa de transporte ferroviário que exerça a actividade de um candidato que não tenha essa qualidade.
 
-##### SUBSECÇÃO II — Horários técnicos
+##### Subsecção II — Horários técnicos
 
-## PARTE I — Competência do gestor da infra-estrutura e vigência do horário técnico
+## Parte I — Competência do gestor da infra-estrutura e vigência do horário técnico
 
 ###### Artigo 36.º — Elaboração e aprovação
 
@@ -1706,7 +1744,7 @@ c) As margens.
 
 4 - O gestor da infra-estrutura e um candidato podem, nos termos do artigo 49.º, celebrar um acordo quadro para a utilização da capacidade na infra-estrutura ferroviária em causa, com duração superior ao período de vigência de um horário técnico.
 
-## PARTE II — Procedimento
+## Parte II — Procedimento
 
 ###### Artigo 38.º — Pedidos de canais horários
 
@@ -1730,7 +1768,7 @@ c) As margens.
 
 ###### Artigo 39.º — Canais horários internacionais
 
-1 - Antes de iniciar o processo de audição sobre o projecto de horário de serviço, previsto no artigo 42.º, e o mais tardar 11 meses antes da entrada em vigor do horário técnico, o gestor da infra-estrutura assegurará o estabelecimento de canais horários internacionais a incluir no horário técnico, em cooperação com outros organismos de repartição competentes, nomeadamente no quadro da rede transeuropeia de transporte ferroviário de mercadorias, definida no artigo 10.º-A da Directiva n.º [91/440/CE](https://data.europa.eu/eli/dir/1991/440/oj?locale=pt), com a redacção da Directiva n.º [2001/12/CE](https://data.europa.eu/eli/dir/2001/12/oj?locale=pt).
+1 - Antes de iniciar o processo de audição sobre o projecto de horário de serviço, previsto no artigo 42.º, e o mais tardar 11 meses antes da entrada em vigor do horário técnico, o gestor da infra-estrutura assegurará o estabelecimento de canais horários internacionais a incluir no horário técnico, em cooperação com outros organismos de repartição competentes, nomeadamente no quadro da rede transeuropeia de transporte ferroviário de mercadorias, definida no artigo 10.º-A da Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0440" title="Link para Directiva da Comunidade Europeia">91/440/CE</a>, com a redacção da Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0012" title="Link para Directiva da Comunidade Europeia">2001/12/CE</a>.
 
 2 - O gestor da infra-estrutura criará, em colaboração com outros organismos de repartição competentes, os mecanismos necessários para efeitos do previsto no número anterior.
 
@@ -1786,7 +1824,7 @@ c) As margens.
 
 2 - A recusa, ainda que parcial, de pedidos de canais horários é sempre fundamentada.
 
-##### SUBSECÇÃO III — Infra-estrutura congestionada
+##### Subsecção III — Infra-estrutura congestionada
 
 ###### Artigo 44.º — Infra-estrutura congestionada
 
@@ -1830,7 +1868,7 @@ a) O plano de reforço da capacidade não puder ser realizado por circunstância
 
 b) As opções disponíveis não forem económica ou financeiramente viáveis.
 
-##### SUBSECÇÃO IV — Pedidos pontuais
+##### Subsecção IV — Pedidos pontuais
 
 ###### Artigo 48.º — Pedidos pontuais
 
@@ -1838,7 +1876,7 @@ b) As opções disponíveis não forem económica ou financeiramente viáveis.
 
 2 - O gestor da infra-estrutura decide sobre os pedidos formulados nos termos do número anterior num prazo de cinco dias úteis.
 
-##### SUBSECÇÃO V — Acordos quadro
+##### Subsecção V — Acordos quadro
 
 ###### Artigo 49.º — Acordos quadro
 
@@ -1854,15 +1892,25 @@ b) As opções disponíveis não forem económica ou financeiramente viáveis.
 
 6 - O acordo quadro pode incluir sanções em caso de alteração ou denúncia do acordo.
 
-7 - O acordo quadro deve ter, em princípio, uma vigência de cinco anos, podendo o gestor da infra-estrutura, em casos específicos, aceitar um período inferior ou superior.
+7 - O acordo quadro deve ter, em princípio, uma vigência de cinco anos, renovável por períodos iguais ao da duração inicial, podendo o gestor da infra-estrutura, em casos específicos, aceitar um período inferior ou superior.
 
-8 - Qualquer período superior a cinco anos deve justificar-se pela existência de contratos comerciais, investimentos específicos ou riscos.
+8 - Qualquer período superior a cinco anos deve justificar-se pela existência de contratos comerciais ou investimentos ou riscos específicos.
 
-9 - Uma vigência superior a 10 anos só é possível em casos excepcionais, nomeadamente em caso de investimentos avultados e a longo prazo, em especial quando estes forem objecto de compromissos contratuais.
+9 -No caso de serviços que utilizem uma infra-estrutura especializada e que requeiram investimentos substanciais de longo prazo, devidamente fundamentados pelo candidato, podem ser celebrados acordos quadro com uma duração máxima de 15 anos.
 
-10 - No respeito pelo segredo comercial, qualquer parte interessada pode tomar conhecimento das linhas gerais dos acordos quadro.
+10 - A duração máxima referida no número anterior pode em circunstâncias excepcionais ser excedida, designadamente, no caso de investimentos substanciais de longo prazo e, em especial, quando estes investimentos sejam objecto de compromissos contratuais que incluam um plano de amortização anual.
 
-##### SUBSECÇÃO VI — Infra-estrutura especializada
+11 - Nos casos referidos no n.º 9 e no número anterior:
+
+a) O candidato pode solicitar informação detalhada sobre as características da capacidade a atribuir durante a execução do acordo quadro, incluindo a frequência, quantidade e qualidade dos canais horários;
+
+b) O gestor da infra-estrutura pode reduzir a capacidade reservada que, durante um período mínimo de um mês, tenha sido menos utilizada do que quota-limiar prevista no artigo 45.º
+
+12 - No respeito pelo segredo comercial, qualquer parte interessada pode tomar conhecimento das linhas gerais dos acordos quadro.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 20/2010 - Diário da República n.º 58/2010, Série I de 2010-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2010-611311), em vigor a partir de 2010-03-29.
+
+##### Subsecção VI — Infra-estrutura especializada
 
 ###### Artigo 50.º — Infra-estrutura especializada
 
@@ -1874,7 +1922,7 @@ b) As opções disponíveis não forem económica ou financeiramente viáveis.
 
 4 - Quando uma infra-estrutura tenha sido designada como especializada nos termos do n.º 1, será feita menção desse facto no directório da rede.
 
-##### SUBSECÇÃO VII — Perturbação da circulação ferroviária
+##### Subsecção VII — Perturbação da circulação ferroviária
 
 ###### Artigo 51.º — Medidas especiais em caso de perturbação
 
@@ -1890,9 +1938,9 @@ b) As opções disponíveis não forem económica ou financeiramente viáveis.
 
 6 - Nos casos previstos no número anterior, e nos termos previstos no directório da rede, o gestor da infra-estrutura compensará financeiramente as empresas de transporte ferroviário pelos custos da disponibilização de recursos adequada ao restabelecimento da normalidade da situação.
 
-#### SECÇÃO VI — Tarifas pela utilização da infra-estrutura
+#### Secção VI — Tarifas pela utilização da infra-estrutura
 
-##### SUBSECÇÃO I — Regime geral
+##### Subsecção I — Regime geral
 
 ###### Artigo 52.º — Âmbito
 
@@ -1910,7 +1958,7 @@ a) A identidade, em toda a rede sob sua gestão, dos princípios aplicáveis à 
 
 b) Que as empresas que prestem serviços equivalentes num segmento análogo de mercado pagam tarifas equivalentes.
 
-##### SUBSECÇÃO II — Tarifas base
+##### Subsecção II — Tarifas base
 
 ###### Artigo 54.º — Princípios
 
@@ -1950,7 +1998,7 @@ b) Uma componente que reflicta a internalização dos custos ambientais provocad
 
 4 - O disposto nos números anteriores não se aplica nos casos em que as tarifas ou preços relativos à prestação de serviços adicionais ou auxiliares sejam fixados por autoridade administrativa legalmente competente, ou ao abrigo de regras por ela emitidas.
 
-##### SUBSECÇÃO III — Tarifas para recuperação total de custos e recuperação de investimento
+##### Subsecção III — Tarifas para recuperação total de custos e recuperação de investimento
 
 ###### Artigo 56.º — Tarifas para recuperação total de custos
 
@@ -1984,7 +2032,7 @@ c) Serão calculadas por forma a não absorverem os aumentos de produtividade da
 
 ###### Artigo 58.º — Tarifa para recuperação de investimento
 
-1 - Nos casos em que o gestor da infra-estrutura venha a suportar os custos a longo prazo decorrentes de projectos específicos de investimento por si decididos ou suportados, executados até 15 anos antes da data de entrada em vigor da Directiva n.º [2001/14/CE](https://data.europa.eu/eli/dir/2001/14/oj?locale=pt), ou que venham a ser objecto de planos de investimento específico, as tarifas aplicáveis a esses troços podem reflectiros custos dos investimentos, não se considerando como tal os custos financeiros, desde que se verifique, cumulativamente:
+1 - Nos casos em que o gestor da infra-estrutura venha a suportar os custos a longo prazo decorrentes de projectos específicos de investimento por si decididos ou suportados, executados até 15 anos antes da data de entrada em vigor da Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0014" title="Link para Directiva da Comunidade Europeia">2001/14/CE</a>, ou que venham a ser objecto de planos de investimento específico, as tarifas aplicáveis a esses troços podem reflectiros custos dos investimentos, não se considerando como tal os custos financeiros, desde que se verifique, cumulativamente:
 
 a) Que os referidos projectos aumentam a eficácia ou a relação custo-eficácia da exploração ferroviária;
 
@@ -1992,7 +2040,7 @@ b) Que os referidos projectos, de outro modo, não pudessem ter sido ou possam s
 
 2 - A faculdade prevista no número anterior pode ser acompanhada de acordos sobre a partilha de riscos associados aos novos investimentos entre o gestor da infra-estrutura e os operadores que a utilizem.
 
-##### SUBSECÇÃO IV — Descontos e regimes especiais
+##### Subsecção IV — Descontos e regimes especiais
 
 ###### Artigo 59.º — Descontos
 
@@ -2044,7 +2092,7 @@ e) O sistema seja disponibilizado a todas as empresas em condições semelhantes
 
 3 - O sistema de compensação criado pela portaria conjunta a que se refere o n.º 1 constará do directório da rede e vigora pelo período deste, só podendo ser alterado no âmbito da emissão de um novo documento.
 
-##### SUBSECÇÃO V — Obrigações de informação
+##### Subsecção V — Obrigações de informação
 
 ###### Artigo 62.º — Obrigações de informação
 
@@ -2052,7 +2100,7 @@ e) O sistema seja disponibilizado a todas as empresas em condições semelhantes
 
 2 - As informações fornecidas no âmbito do número anterior devem habilitar o IMTT a avaliar a conformidade das tarifas cobradas com o presente diploma, com a regulamentação a que se refere o n.º 2 do artigo 52.º, com o directório da rede e com as recomendações ou instruções que venham a ser emitidas pela mesma entidade.
 
-### CAPÍTULO V — Financiamento do serviço público de gestão da infra-estrutura
+### Capítulo V — Financiamento do serviço público de gestão da infra-estrutura
 
 ###### Artigo 63.º — Equilíbrio de contas do gestor da infra-estrutura
 
@@ -2082,9 +2130,9 @@ c) O período de execução do contrato-programa.
 
 8 - Os custos extraordinários decorrentes de calamidade natural deverão ser compensados pelo Estado.
 
-### CAPÍTULO VI — Segurança
+### Capítulo VI — Segurança
 
-#### SECÇÃO I — Dos sistemas de gestão de segurança
+#### Secção I — Dos sistemas de gestão de segurança
 
 ###### Artigo 64.º — Responsabilidade em matéria de segurança
 
@@ -2158,9 +2206,9 @@ c) Os resultados das auditorias de segurança internas;
 
 d) Observações sobre deficiências e funcionamento incorrecto das operações ferroviárias e da gestão da infra-estrutura que possam ser importantes para a avaliação dos níveis de segurança.
 
-#### SECÇÃO II — Da certificação e autorização de segurança
+#### Secção II — Da certificação e autorização de segurança
 
-##### SUBSECÇÃO I — Certificação de segurança
+##### Subsecção I — Certificação de segurança
 
 ###### Artigo 66.º-D — Certificado de segurança
 
@@ -2214,7 +2262,7 @@ b) Parte B - respeitante à demonstração do cumprimento dos requisitos especí
 
 4 - O IMTT pode incluir, no certificado de autorização, condições de utilização e outras restrições.
 
-##### SUBSECÇÃO II — Autorização de segurança
+##### Subsecção II — Autorização de segurança
 
 ###### Artigo 66.º-G — Autorização de segurança
 
@@ -2248,7 +2296,7 @@ b) Parte B: respeitante à demonstração do cumprimento dos requisitos específ
 
 10 - A comunicação a que se refere o número anterior inclui a denominação e o endereço do gestor da infra-estrutura, a data de emissão, o âmbito e a validade do certificado de segurança ou da autorização de segurança e, em caso de revogação, as razões da decisão.
 
-##### SUBSECÇÃO III — Da emissão dos certificados e autorizações de segurança
+##### Subsecção III — Da emissão dos certificados e autorizações de segurança
 
 ###### Artigo 66.º-I — Procedimento de emissão
 
@@ -2268,7 +2316,7 @@ b) A discriminação dos requisitos a considerar para efeitos de cumprimento do 
 
 2 - As taxas a que se refere o número anterior constituem receita própria do IMTT e o seu montante e forma de pagamento são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
 
-##### SUBSECÇÃO IV — Da formação do pessoal com funções relevantes para a segurança da exploração
+##### Subsecção IV — Da formação do pessoal com funções relevantes para a segurança da exploração
 
 ###### Artigo 66.º-L — Formação do pessoal com funções relevantes para a segurança da exploração
 
@@ -2286,7 +2334,7 @@ b) A discriminação dos requisitos a considerar para efeitos de cumprimento do 
 
 3 - Os trabalhadores das empresas de transporte ferroviário e do gestor da infra-estrutura têm direito a que lhes seja facultada toda a documentação relativa à sua formação, qualificações e experiência.
 
-##### SUBSECÇÃO V — Das normas técnicas de segurança
+##### Subsecção V — Das normas técnicas de segurança
 
 ###### Artigo 66.º-N — Normas técnicas de segurança
 
@@ -2318,7 +2366,13 @@ d) Os resultados da supervisão dos gestores das infra-estruturas e das empresas
 
 2 - Quando a norma técnica de segurança exija um nível de segurança superior ao dos OCS ou possa afectar a actividade de empresas de transporte ferroviária de outros Estados membros em território nacional, deve o IMTT proceder a consulta às partes interessadas e remeter a norma de segurança para apreciação da Comissão Europeia.
 
-### CAPÍTULO VII — Entidade reguladora
+###### Artigo 66.º-Q — Relatório anual de segurança
+
+Para os efeitos dos artigos 66.º-C e 66.º-O do presente decreto-lei, caso sejam detectados novos factos ou erros após a apresentação do relatório anual de segurança, o Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), ou as empresas de transporte ferroviário, devem alterar ou corrigir os indicadores, o mais tardar até à apresentação do relatório anual seguinte
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62/2010 - Diário da República n.º 111/2010, Série I de 2010-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2010-335456), em vigor a partir de 2010-06-14.
+
+### Capítulo VII — Entidade reguladora
 
 ###### Artigo 67.º — Exercício do poder regulamentar
 
@@ -2456,7 +2510,7 @@ g) Os processos contra-ordenacionais e as decisões neles proferidas.
 
 3 - Para efeitos do número anterior, o sigilo comercial abrange todas as informações relativas à empresa requerente que não estejam sujeitas a qualquer forma de registo ou publicidade obrigatória, que não sejam ou não tenham caído no conhecimento público ou que não tenham sido publicitadas em virtude da prática de um acto judicial.
 
-### CAPÍTULO VIII — Regime sancionatório
+### Capítulo VIII — Regime sancionatório
 
 ###### Artigo 77.º — Contra-ordenações
 
@@ -2524,9 +2578,9 @@ a) 40% para o IMTT;
 
 b) 60% para o Estado.
 
-### CAPÍTULO IX — Disposições finais e transitórias
+### Capítulo IX — Disposições finais e transitórias
 
-#### SECÇÃO I — Disposições finais
+#### Secção I — Disposições finais
 
 ###### Artigo 80.º — Norma revogatória
 
@@ -2572,7 +2626,7 @@ a) As tarifas devidas pela utilização da infra-estrutura e outros proveitos re
 
 ...»
 
-#### SECÇÃO II — Disposições transitórias
+#### Secção II — Disposições transitórias
 
 ###### Artigo 82.º — Licenciamento e certificação de segurança
 
@@ -2632,15 +2686,19 @@ d) A complexidade do sistema de metropolitano ou metropolitano ligeiro de superf
 
 ###### Artigo 92.º — (Revogado.)
 
-###### Artigo 93.º — (Revogado.)
+###### Artigo 93.º
 
-## ANEXO I — [a que se refere alínea b) do n.º 1 do artigo 2.º]
+(Revogado.)
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11300/38163851.pdf)
+## Anexo I — [a que se refere alínea b) do n.º 1 do artigo 2.º]
 
-## ANEXO II — (Revogado.)
+(ver documento original)
 
-## ANEXO III — Sistemas de gestão de segurança
+## Anexo II
+
+(Revogado.)
+
+## Anexo III — Sistemas de gestão de segurança
 
 I - Requisitos aplicáveis ao sistema de gestão da segurança:
 
@@ -2670,7 +2728,7 @@ i) Planos de acção, alerta e informação em caso de emergência, acordados co
 
 j) Disposições tendo em vista uma auditoria interna periódica do sistema de gestão da segurança.
 
-## ANEXO IV — Autorização de colocação em serviço de material circulante em utilização
+## Anexo IV — Autorização de colocação em serviço de material circulante em utilização
 
 1 - A documentação técnica sobre o material circulante ou tipo de material circulante a apresentar ao IMTT deve incluir:
 
@@ -2684,74 +2742,316 @@ d) Derrogações das normas técnicas de segurança necessárias para a concess�
 
 2 - O IMTT pode exigir a realização de ensaios na rede, indicando o seu âmbito e conteúdo, para verificar a conformidade com os parâmetros restritivos mencionados na alínea c) do n.º 1.
 
-## ANEXO V — Indicadores comuns de segurança
+## Anexo V — A) Indicadores comuns de segurança
 
-I - Indicadores relativos a acidentes, que devem ter em conta as disposições do Regulamento (CE) n.º [91/2003](https://data.europa.eu/eli/reg/2003/91/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativo às estatísticas dos transportes ferroviários, na medida em que essas informações se encontrem disponíveis:
+Para os indicadores relativos a acidentes mencionados no n.º 1, aplicar-se-á o Regulamento (CE) n.º 91/2003, do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativo às estatísticas dos transportes ferroviários, na medida em que as informações se encontrem disponíveis.
 
-1) Número total e relativo (por comboio/quilómetro) de acidentes e repartição pelos tipos de acidentes seguintes:
+1 - Indicadores relativos aos acidentes:
 
-Colisões de comboios, incluindo colisões com obstáculos dentro do gabarito;
+1.1 - Número total e relativo (por quilómetro-comboio) de acidentes significativos e discriminação pelos seguintes tipos de acidentes:
 
-Descarrilamentos de comboios;
+a) Colisões de comboios, incluindo colisões com obstáculos dentro do gabarito;
 
-Acidentes em passagens de nível, incluindo acidentes que envolvam peões;
+b) Descarrilamentos de comboios;
 
-Acidentes com pessoas provocados por material circulante em movimento, com excepção dos suicídios;
+c) Acidentes em passagens de nível, incluindo acidentes que envolvam peões;
 
-Suicídios;
+d) Acidentes com pessoas provocados por material circulante em movimento, exceptuando suicídios;
 
-Incêndios no material circulante;
+e) Incêndios no material circulante;
 
-Outros.
+f) Outros.
 
-O relatório de cada acidente será feito de acordo com o tipo de acidente primário, ainda que as consequências do acidente secundário sejam mais graves;
+O relatório de cada acidente significativo deve ser elaborado com base no tipo do acidente primário, ainda que as consequências do acidente secundário sejam mais graves, por exemplo um incêndio após um descarrilamento;
 
-2) Número total e relativo (por comboio/quilómetro) de feridos graves e de mortos por tipo de acidente, discriminados pelas seguintes categorias:
+1.2 - Número total e relativo (por quilómetro-comboio) de feridos graves e de mortos por tipo de acidente, discriminados pelas seguintes categorias:
 
-Passageiros (igualmente por referência ao número total de passageiros/quilómetro);
+a) Passageiros (igualmente em relação ao número total de quilómetros-passageiro e de quilómetros-comboio de passageiros);
 
-Empregados, incluindo o pessoal dos empreiteiros;
+b) Trabalhadores, incluindo o pessoal de entidades contratadas;
 
-Utilizadores de passagens de nível;
+c) Utilizadores de passagens de nível;
 
-Pessoas não autorizadas em instalações ferroviárias;
+d) Pessoas não autorizadas nas instalações ferroviárias;
 
-Outros.
+e) Outros.
 
-II - Indicadores relativos a incidentes e casos de quase acidente:
+2 - Indicadores relativos às mercadorias perigosas - número total e relativo (por quilómetro-comboio) de acidentes que envolvam o transporte de mercadorias perigosas, discriminados pelas seguintes categorias:
 
-1) Número total e relativo (por comboio/quilómetro) de carris partidos, deformações da via e falhas na sinalização contrárias à segurança;
+a) Acidentes que envolvam, pelo menos, um veículo ferroviário que transporte mercadorias perigosas, conforme definidas na parte B) do presente anexo;
 
-2) Número total e relativo (por comboio/quilómetro) de sinais ultrapassados com indicação de paragem de sinal;
+b) Número de acidentes desse tipo que provoquem a libertação de matérias perigosas.
 
-3) Número total e relativo (por comboio/quilómetro) de rupturas de rodas e eixos do material circulante em serviço.
+3 - Indicadores relativos aos suicídios - número total e relativo (por quilómetro-comboio) de suicídios.
 
-III - Indicadores relativos às consequências dos acidentes:
+4 - Indicadores relativos aos precursores de acidentes - número total e relativo (por quilómetro-comboio) de:
 
-1) Custo total e relativo (por comboio/quilómetro), em euros, de todos os acidentes, devendo, se possível, ser calculados e incluídos os seguintes custos:
+a) Carris partidos;
 
-Mortos e feridos;
+b) Deformações da via;
 
-Indemnizações por perdas ou danos nos bens dos passageiros, do pessoal ou de terceiros, incluindo os danos causados ao ambiente;
+c) Falhas na sinalização;
 
-Substituição ou reparação do material circulante e das instalações ferroviárias danificados;
+d) Ultrapassagens de sinais fechados;
 
-Atrasos, perturbações e reencaminhamento do tráfego, incluindo despesas suplementares com pessoal e lucros cessantes.
+e) Rodas partidas e eixos partidos no material circulante em serviço.
 
-São dedutíveis dos custos acima referidos as indemnizações ou compensações recebidas ou a receber de terceiros, nomeadamente proprietários de veículos a motor envolvidos em acidentes em passagens de nível. Não são dedutíveis as indemnizações concedidas a título das apólices de seguros de que são detentoras as empresas ferroviárias ou os gestores das infra-estruturas;
+Todos os precursores, provoquem ou não acidentes, devem ser comunicados. Os precursores que provoquem um acidente devem ser comunicados no âmbito dos ICS relativos aos precursores; os acidentes ocorridos, se forem significativos, devem ser comunicados no âmbito dos ICS relativos aos acidentes mencionados no n.º 1.
 
-2) Número total e relativo (por referência ao número de horas de trabalho efectuadas) de horas de trabalho do pessoal e dos empreiteiros perdidas devido a acidentes.
+5 - Indicadores para calcular o impacto económico dos acidentes - custo total e relativo (por quilómetro-comboio) em euros:
 
-IV - Indicadores relativos à segurança técnica da infra-estrutura e à sua implementação:
+a) Do produto do número de mortos e de feridos graves pelo valor da prevenção de uma vítima (VPC);
 
-1) Percentagem de vias equipadas com um sistema de protecção automática dos comboios (ATP) em serviço, percentagem de comboios/quilómetro usando sistemas ATP operacionais;
+b) Dos danos causados ao ambiente;
 
-2) Número de passagens de nível (total e por quilómetro de linha);
+c) Dos danos materiais ao material circulante ou à infra-estrutura;
 
-3) Percentagem de passagens de nível com protecção automática ou manual.
+d) Dos atrasos causados pelos acidentes.
 
-V - Indicadores relativos à gestão da segurança:
+As autoridades responsáveis pela segurança devem comunicar ou o impacto económico de todos os acidentes ou o impacto económico apenas dos acidentes significativos. Esta escolha deve ser claramente indicada no relatório anual de segurança.
 
-1) Auditorias internas realizadas pelos gestores das infra-estruturas e pelas empresas ferroviárias, conforme previsto na documentação relativa ao sistema de gestão da segurança;
+O valor da prevenção de uma vítima é o valor que a sociedade atribui à prevenção de uma vítima e, como tal, não constitui uma referência para indemnizações entre as partes envolvidas nos acidentes.
 
-2) Número total de auditorias efectuadas e percentagem de auditorias solicitadas (e ou previstas).
+6 - Indicadores relativos à segurança técnica da infra-estrutura e à sua implementação:
+
+6.1 - Percentagem de vias equipadas com um sistema em funcionamento de protecção automática dos comboios (ATP), percentagem de quilómetros-comboio com sistemas ATP operacionais;
+
+6.2 - Número de passagens de nível (total, por quilómetro de linha e por quilómetro de via), discriminado pelos oito tipos seguintes:
+
+a) Passagens de nível activas com:
+
+i) Aviso automático para os utilizadores;
+
+ii) Protecção automática para os utilizadores;
+
+iii) Protecção e aviso automáticos para os utilizadores;
+
+iv) Protecção e aviso automáticos para os utilizadores e protecção do lado dos comboios;
+
+v) Aviso manual para os utilizadores;
+
+vi) Protecção manual para os utilizadores;
+
+vii) Protecção e aviso manuais para os utilizadores;
+
+b) Passagens de nível passivas.
+
+7 - Indicadores relativos à gestão da segurança - auditorias internas realizadas pelos gestores da infra-estrutura e pelas empresas ferroviárias, conforme previsto na documentação relativa ao sistema de gestão da segurança. Número total de auditorias efectuadas e percentagem em relação às auditorias solicitadas (e ou previstas).
+
+8 - Definições - as definições comuns dos ICS e os métodos comuns de cálculo do impacto económico dos acidentes constam da parte B) do presente anexo.
+
+B) Definições comuns dos indicadores comuns de segurança (ICS) e métodos comuns de cálculo do impacto económico dos acidentes
+
+1 - Indicadores relativos aos acidentes:
+
+1.1 - «Acidente significativo» - qualquer acidente que implique, pelo menos, um veículo ferroviário em movimento e provoque a morte ou ferimentos graves a, pelo menos, uma pessoa, ou danos significativos ao material, à via, a outras instalações ou ao ambiente ou uma interrupção prolongada da circulação. Excluem-se os acidentes em oficinas, armazéns e parques de material;
+
+1.2 - «Danos significativos ao material, à via, a outras instalações ou ao ambiente» - danos equivalentes a EUR 150 000 ou mais;
+
+1.3 - «Interrupção prolongada da circulação» - suspensão dos serviços de comboios numa linha ferroviária principal durante seis horas ou mais;
+
+1.4 - «Comboio» - um ou mais veículos ferroviários rebocados por uma ou mais locomotivas ou automotoras, ou uma automotora isolada, que circulam com um número determinado ou uma designação específica de um ponto fixo inicial para um ponto fixo final. Uma locomotiva sem carga, isto é, que circula isolada, é considerada um comboio;
+
+1.5 - «Colisão de comboios, incluindo colisão com obstáculos dentro do gabarito» - colisão frontal, colisão de frente com traseira ou colisão lateral entre uma parte de um comboio e uma parte de outro comboio ou com:
+
+a) Material circulante de manobra;
+
+b) Objectos fixos ou temporariamente presentes na via ou perto dela (excepto nas passagens de nível, se tiverem sido perdidos por um veículo ou por um utilizador durante a travessia);
+
+1.6 - «Descarrilamento de comboio» - nos caso em que, pelo menos, uma roda de um comboio sai dos carris;
+
+1.7 - «Acidente em passagem de nível» - qualquer acidente numa passagem de nível que envolva pelo menos um veículo ferroviário e um ou mais veículos que estejam a atravessar a via, outros utilizadores, nomeadamente peões, que estejam a atravessar a via ou outros objectos temporariamente presentes na via ou perto dela, se tiverem sido perdidos por um veículo ou por um utilizador durante a travessia;
+
+1.8 - «Acidente com pessoas causado por material circulante em movimento» - qualquer acidente que envolva uma ou mais pessoas que sejam atingidas por um veículo ferroviário ou por um objecto preso a um veículo ferroviário ou que dele se tenha soltado. Incluem-se os acidentes com pessoas que caem dos veículos ferroviários, assim como com pessoas que caem ou são atingidas por objectos soltos, a bordo, durante a viagem;
+
+1.9 - «Incêndio no material circulante» - qualquer incêndio ou explosão que ocorra em veículos ferroviários (incluindo a carga) quando estes se deslocam entre a estação de partida e o destino, inclusivamente quando se encontram parados na estação de partida, no destino ou nas paragens intermédias, assim como durante as operações de formação de composições;
+
+1.10 - «Outros tipos de acidentes» - todos os acidentes que não os já mencionados (colisões de comboios, descarrilamentos de comboios, acidentes em passagens de nível, acidentes com pessoas causados por material circulante em movimento e incêndios no material circulante);
+
+1.11 - «Passageiro» - qualquer pessoa, excluindo a tripulação do comboio, que efectue uma viagem por caminho de ferro. Para efeitos de estatísticas sobre acidentes, incluem-se os passageiros que tentam embarcar/desembarcar num/de um comboio em movimento;
+
+1.12 - «Trabalhador (incluindo o pessoal de entidades contratadas e os contratados autónomos)» - qualquer pessoa cuja actividade profissional esteja ligada à via férrea e que se encontre a trabalhar no momento do acidente. Incluem-se na definição a tripulação do comboio e as pessoas que trabalham com o material circulante e na infra-estrutura;
+
+1.13 - «Utilizador de passagem de nível» - qualquer pessoa que utilize uma passagem de nível para atravessar a via férrea, por qualquer meio de transporte ou a pé;
+
+1.14 - «Pessoa não autorizada nas instalações ferroviárias» - qualquer pessoa que se encontre em instalações ferroviárias onde essa presença seja proibida, com excepção dos utilizadores de passagens de nível;
+
+1.15 - «Outros (terceiros)» - todas as pessoas não correspondentes à definição de «passageiro», «trabalhador, incluindo o pessoal de entidades contratadas», «utilizador de passagem de nível» ou «pessoa não autorizada nas instalações ferroviárias»;
+
+1.16 - «Morto» - qualquer pessoa que perca a vida no momento do acidente ou nos 30 dias seguintes em consequência do mesmo, excluindo suicídios;
+
+1.17 - «Ferido grave» - qualquer pessoa que, em consequência de um acidente, sofra lesões que levem à sua hospitalização por um período superior a vinte e quatro horas, excluindo tentativas de suicídio.
+
+2 - Indicadores relativos às mercadorias perigosas:
+
+2.1 - «Acidente que envolve o transporte de mercadorias perigosas» - qualquer acidente ou incidente que deva ser objecto de uma declaração em conformidade com o RID (1)/ADR, secção 1.8.5;
+
+2.2 - «Mercadoria perigosa» - qualquer substância ou artigo cujo transporte seja proibido pelo RID ou autorizado apenas nas condições nele previstas.
+
+3 - Indicadores relativos aos suicídios:
+
+3.1 - «Suicídio» - qualquer acto deliberado de um indivíduo contra si próprio, destinado a provocar a morte, registado e classificado como tal pelas autoridades nacionais competentes.
+
+4 - Indicadores relativos aos precursores de acidentes:
+
+4.1 - «Carril partido» - carril que fique separado em duas ou mais partes ou do qual se desprenda uma peça metálica, causando uma fenda de mais de 50 mm de comprimento e de mais de 10 mm de profundidade na superfície de rodagem;
+
+4.2 - «Deformação da via» - defeito relacionado com a continuidade e a geometria da via que exija o seu encerramento ou a redução imediata da velocidade autorizada, para manter a segurança;
+
+4.3 - «Falha na sinalização» - qualquer falha de um sistema de sinalização (quer da infra-estrutura, quer do material circulante) da qual resultem informações de sinalização menos restritivas do que o exigido;
+
+4.4 - «Ultrapassagem de um sinal fechado» - situação em que qualquer parte de um comboio ultrapasse os limites do seu movimento autorizado, entendendo-se por movimento não autorizado:
+
+a) A ultrapassagem de um sinal luminoso da via ou de um semáforo fechados, ou de uma ordem de paragem (STOP), quando não esteja operacional um sistema de comando automático de comboios (ATCS) ou um sistema de protecção automática de comboios (ATP);
+
+b) O desrespeito do fim de uma autorização de movimento em segurança proveniente de um sistema ATCS ou ATP;
+
+c) A ultrapassagem de um ponto comunicado por autorização verbal ou escrita, conforme previsto nos regulamentos;
+
+d) A ultrapassagem de indicadores de paragem (não estão incluídos os pára-choques) ou de sinais manuais.
+
+Não estão incluídos os casos em que veículos sem unidade de tracção acoplada ou um comboio sem tripulação ultrapassem um sinal fechado. Também não estão incluídos os casos em que, por qualquer motivo, o sinal não feche a tempo de permitir ao maquinista imobilizar o comboio antes do sinal.
+
+O IMTT, I. P., pode comunicar dados sobre os quatro pontos separadamente, mas deve comunicar pelo menos um indicador agregado que abranja os dados relativos aos quatro pontos;
+
+4.5 - «Roda partida ou eixo partido» - roda ou eixo em que se tenham partido partes essenciais, criando um risco de acidente (descarrilamento ou colisão).
+
+5 - Métodos comuns para calcular o impacto económico dos acidentes:
+
+5.1 - O valor da prevenção de uma vítima (VPC) compõe-se dos seguintes elementos:
+
+a) Valor da segurança em si - valores da disposição de pagar (willingness to pay - WTP) baseados em estudos de preferências declaradas efectuados no Estado membro no qual se aplicam;
+
+b) Custos económicos directos e indirectos - custos avaliados no respectivo Estado membro e que são compostos por:
+
+i) Custos médicos e de reabilitação;
+
+ii) Custos judiciais, custos policiais, custos das investigações privadas ao acidente, custos dos serviços de emergência e custos administrativos do seguro;
+
+iii) Perdas de produção - valor para a sociedade dos bens e serviços que podiam ter sido produzidos pela pessoa se o acidente não tivesse ocorrido;
+
+5.2 - Princípios comuns para avaliar o valor da segurança em si e os custos económicos directos/indirectos - relativamente ao valor da segurança em si, a determinação da adequação ou não adequação de estimativas disponíveis deve basear-se nas seguintes considerações:
+
+a) As estimativas devem dizer respeito a um sistema de avaliação da redução do risco de mortalidade no sector dos transportes e seguir uma abordagem de WTP conforme com os métodos de preferência declarada;
+
+b) A amostra de pessoas interrogadas utilizada para a determinação dos valores deve ser representativa da população em causa. Em particular, a amostra deve reflectir a distribuição etária de rendimentos, juntamente com outras características sócio-económicas e demográficas relevantes da população;
+
+c) O método para obter os valores da WTP: a sondagem deve ser concebida de maneira a que as perguntas sejam claras e significativas para as pessoas interrogadas.
+
+Os custos económicos directos e indirectos devem ser avaliados com base nos custos reais suportados pela sociedade;
+
+5.3 - «Custo dos danos causados ao ambiente» - custos a suportar pelas empresas ferroviárias/pelos gestores da infra-estrutura, avaliados com base na sua experiência, para repor a zona afectada no estado em que se encontrava antes do acidente ferroviário;
+
+5.4 - «Custo dos danos materiais ao material circulante ou à infra-estrutura» - custo do fornecimento de material circulante novo ou de infra-estrutura nova, com as mesmas funcionalidades e parâmetros técnicos que os irreparavelmente danificados, e custo da reposição do material circulante ou da infra-estrutura reparáveis no estado em que se encontravam antes do acidente. Ambos devem ser estimados pelas empresas ferroviárias e pelos gestores da infra-estrutura com base na sua experiência. Inclui igualmente os custos relacionados com a locação financeira de material circulante, em consequência da indisponibilidade dos veículos danificados;
+
+5.5 - «Custo dos atrasos causados pelos acidentes» - valor monetário dos atrasos sofridos pelos utilizadores do transporte ferroviário (passageiros e clientes de frete) em consequência dos acidentes, calculado com base no seguinte modelo:
+
+VT = valor monetário das economias de tempo de viagem.
+
+Valor do tempo para um passageiro de um comboio (uma hora):
+
+VT(índice P) = [VT dos passageiros que viajam por motivos laborais]*[percentagem média de passageiros que viajam por motivos laborais por ano]+[VT dos passageiros que viajam por motivos não laborais]*[percentagem média de passageiros que viajam por motivos não laborais por ano]
+
+O VT é medido em euros por passageiro por hora.
+
+Valor do tempo para um comboio de mercadorias (uma hora):
+
+VT(índice F) = [VT dos comboios de mercadorias]*[(quilómetro-tonelada)/(quilómetro-comboio)]
+
+O VT é medido em euros por tonelada de frete de mercadorias por hora.
+
+Quantidade média, em toneladas, de mercadorias transportadas por comboio num ano = (quilómetro-tonelada)/(quilómetro-comboio).
+
+C(índice M) = custo de um minuto de atraso de um comboio.
+
+Comboio de passageiros:
+
+C(índice MP) = K(índice 1)*(VT(índice P)/60)*[(quilómetro-passageiro)/(quilómetro-comboio)]
+
+Número médio de passageiros por comboio num ano = (quilómetro-passageiro)/(quilómetro-comboio).
+
+Comboio de mercadorias:
+
+C(índice MF) = K(índice 2)*(VT(índice F)/60)
+
+Os factores K(índice 1) e K(índice 2) estabelecem a relação entre o valor do tempo e o valor do atraso, estimado com base em estudos de preferência declarada, destinando-se a ter em conta que o tempo perdido em resultado dos atrasos é encarado de forma consideravelmente mais negativa do que o tempo de viagem normal.
+
+Custo dos atrasos devidos a um acidente = C(índice MP)*(minutos de atraso dos comboios de passageiros)+C(índice MF)*(minutos de atraso dos comboios de mercadorias)
+
+Âmbito de aplicação do modelo:
+
+O custo dos atrasos deve ser calculado para todos os acidentes, tanto os significativos como os não significativos.
+
+Os atrasos devem ser calculados do seguinte modo:
+
+i) Atrasos reais nas linhas ferroviárias em que os acidentes ocorreram;
+
+ii) Atrasos reais ou, caso não seja possível, atrasos estimados nas outras linhas afectadas.
+
+6 - Indicadores relativos à segurança técnica da infra-estrutura e à sua implementação:
+
+6.1 - «Sistema de protecção automática dos comboios (ATP)» - sistema que obrigue ao respeito dos sinais e dos limites de velocidade através do controlo da velocidade, incluindo a paragem automática nos sinais;
+
+6.2 - «Passagem de nível» - intercepção ao mesmo nível entre a via-férrea e uma passagem, reconhecida pelo gestor da infra-estrutura e aberta a utilizadores públicos e ou privados. Não se incluem nesta definição as passagens entre plataformas dentro das estações, nem tão-pouco as passagens sobre vias para utilização exclusiva dos trabalhadores;
+
+6.3 - «Passagem» - estrada, rua ou via rápida pública ou privada, incluindo caminhos pedonais e ciclovias, ou qualquer outra via especificamente destinada à passagem de pessoas, animais, veículos ou maquinaria;
+
+6.4 - «Passagem de nível activa» - passagem de nível cujos utilizadores sejam protegidos ou avisados da aproximação dos comboios através da activação de dispositivos, sempre que seja perigoso para o utilizador atravessar a via-férrea.
+
+a) Protecção através da utilização de dispositivos físicos:
+
+i) Semibarreiras ou barreiras completas;
+
+ii) Cancelas/portões;
+
+b) Aviso através da utilização de equipamentos fixos nas passagens de nível:
+
+i) Dispositivos ópticos: luzes;
+
+ii) Dispositivos sonoros: campainhas, sirenes, buzinas, etc.;
+
+iii) Dispositivos físicos: por exemplo, relevos na estrada que provoquem vibrações;
+
+6.4.1 - As passagens de nível activas classificam-se do seguinte modo:
+
+a) «Passagem de nível com protecção e ou aviso automático para os utilizadores» - passagem de nível em que a protecção e ou o aviso são activados pelo comboio em aproximação. Estas passagens de nível classificam-se do seguinte modo:
+
+i) Aviso automático para os utilizadores;
+
+ii) Protecção automática para os utilizadores;
+
+iii) Protecção e aviso automáticos para os utilizadores;
+
+iv) Protecção e aviso automáticos para os utilizadores e protecção do lado dos comboios.
+
+Entende-se por «protecção do lado dos comboios» um sinal ou outro sistema de protecção dos comboios que apenas permite o seu avanço se a passagem de nível assegurar a protecção dos utilizadores e estiver desimpedida, neste último caso, através de vigilância e ou da detecção de obstáculos;
+
+b) «Passagem de nível com protecção e ou aviso manuais para os utilizadores» - passagem de nível em que a protecção e ou o aviso sejam activados manualmente e em que não exista um sinal ferroviário conjugado que só mostre ao comboio o aspecto de «marcha» quando a protecção e ou o aviso da passagem de nível se encontrem activados.
+
+Estas passagens de nível classificam-se do seguinte modo:
+
+i) Aviso manual para os utilizadores;
+
+ii) Protecção manual para os utilizadores;
+
+iii) Protecção e aviso manuais para os utilizadores;
+
+6.5 - «Passagem de nível passiva» - uma passagem de nível sem qualquer forma de sistema de aviso e ou de protecção que se active quando seja perigoso para os utilizadores atravessar a via.
+
+7 - Indicadores relativos à gestão da segurança:
+
+7.1 - «Auditoria» - processo sistemático, independente e documentado de obter provas durante uma vistoria e de as avaliar objectivamente para determinar em que medida estão cumpridos os critérios da auditoria.
+
+8 - Definições das bases de cálculo:
+
+8.1 - «Quilómetro-comboio» - unidade de medida que corresponde à deslocação de um comboio num percurso de um quilómetro. A distância utilizada é a distância efectivamente percorrida, se disponível, ou a distância normal da rede entre a origem e o destino. Só deve ser tida em consideração a distância percorrida no território nacional do país declarante;
+
+8.2 - «Quilómetro-passageiro» - unidade de medida que corresponde ao transporte de comboio de um passageiro na distância de um quilómetro. Só deve ser tida em consideração a distância percorrida no território nacional do país declarante;
+
+8.3 - «Quilómetro-linha» - comprimento, em quilómetros, da rede ferroviária, devendo no caso das linhas ferroviárias multivias, apenas ser contada a distância entre a origem e o destino;
+
+8.4 - «Quilómetro-via» - comprimento, em quilómetros, da rede ferroviária, devendo no caso das linhas ferroviárias multivias, ser contada cada via.»
+
+(1) O RID é o regulamento relativo ao transporte internacional ferroviário de mercadorias perigosas que foi adoptado pela Directiva n.º 2008/68/CE do Parlamento Europeu e do Conselho, de 24 de Setembro de 2008, relativa ao transporte terrestre de mercadorias perigosas (JO, n.º L 260, de 30 de Setembro de 2008, p. 13).
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 62/2010 - Diário da República n.º 111/2010, Série I de 2010-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2010-335456), em vigor a partir de 2010-06-14.

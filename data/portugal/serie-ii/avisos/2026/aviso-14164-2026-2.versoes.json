@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1130326538:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2026-1193726975",
+ "dre_path": "/dr/detalhe/aviso/14164-2026-1130326538",
+ "source_lastmod": "2026-11-10",
+ "versions": [
+  {
+   "date": "2026-06-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1193729475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1193729475": {
+   "fragment_id": "1193729075",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por meu despacho de 27 de maio de 2026 (proferido no uso de competência delegada pela Diretora-Geral da Autoridade Tributária e Aduaneira) e após anuência do Museus e Monumentos de Portugal, E. P. E., foi autorizada a consolidação definitiva da mobilidade na categoria do assistente técnico Rui Manuel Queiróz Lourenço dos Santos no mapa de pessoal da Autoridade Tributária e Aduaneira, colocado nos serviços centrais, nos termos do disposto no artigo 99.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela Lei n.º 35/2014, de 20 de junho."
+  }
+ }
+}

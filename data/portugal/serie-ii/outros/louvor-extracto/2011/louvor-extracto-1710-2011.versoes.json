@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2530708:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/louvor-extracto/2011-1195275275",
+ "dre_path": "/dr/detalhe/louvor-extracto/1710-2011-2530708",
+ "source_lastmod": "2026-11-13",
+ "versions": [
+  {
+   "date": "2011-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1195279775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1195279775": {
+   "fragment_id": "1195275375",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por despacho de 17 de Junho de 2011 do Presidente da Assembleia da República, Jaime Gama, publica-se o seguinte louvor:\n\n«Ao terminar as funções que desempenhei como Presidente da Assembleia da República durante a X e as XI Legislaturas, pretendo manifestar público louvor ao subcomissário José Manuel Rodrigues André, que exerceu funções de comandante da Esquadra da PSP da Assembleia da República até Agosto de 2009, e ao subcomissário Joaquim António Morgado Malheiro, actual comandante daquela Esquadra, pelo modo eficaz, excepcional zelo, aprumo e alto sentido de responsabilidade com que exerceram as respectivas funções.\n\nNotifique-se e publique-se.\n\nO Presidente da Assembleia da República, Jaime Gama.»"
+  }
+ }
+}
