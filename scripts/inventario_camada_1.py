@@ -17,7 +17,8 @@ O que mede (os números da secção correspondente do `reports/inventario-camada
 1. **Texto em vigor.** Cada diploma em vigor (ou de vigência desconhecida) com `amended_by` cai
    numa classe: consolidado pelo DRE, consolidado pelo leis-portugal, texto noutro registo (códigos
    republicados), sem texto (só digitalização) ou, pela triagem da consolidação, original que é o
-   texto em vigor, alteração por aplicar, revogado por inteiro ou não triado. Nos consolidados,
+   texto em vigor, alteração por aplicar, revogado por inteiro ou não triado. Cada linha leva também a marca da
+   vigência revista, quando existe (`consolidacao/auditoria/vigencia-revista.jsonl`). Nos consolidados,
    «em dia» quer dizer: nenhum `amended_by` publicado depois da última versão e fora do histórico,
    e o DRE não mexeu na página depois da recolha (com `--sitemap-consolidados`).
 2. **O mesmo texto em vários registos.** Os consolidados do DRE que têm, num anexo, o texto de outro diploma
@@ -482,7 +483,9 @@ def classe_do_texto(doc: dict, cab: dict | None, vive_em: str | None, triagem: d
     return TRIAGEM_PARA_CLASSE.get(triagem.get("estado"), "nao_triado")
 
 
-def texto_em_vigor(acervo: Acervo, cabecalhos: dict[str, dict], lista_obras: list[dict], triagem: dict[str, dict], sitemap: dict[str, str] | None, tipos: tuple[str, ...]) -> list[dict]:
+def texto_em_vigor(acervo: Acervo, cabecalhos: dict[str, dict], lista_obras: list[dict], triagem: dict[str, dict], sitemap: dict[str, str] | None, tipos: tuple[str, ...],
+                   marcas: dict[str, str] | None = None) -> list[dict]:
+    """`marcas`: id → marca da vigência revista (`consolidacao/auditoria/vigencia-revista.jsonl`): `nao_vigora`, `regime_anterior` ou `por_confirmar`."""
     linhas = []
     for i, doc in acervo.docs.items():
         if doc["document_type"] not in tipos or doc["series"] != "I" or doc["legal_status"] not in VIGENTES or not acervo.alterado_por.get(i):
@@ -494,6 +497,8 @@ def texto_em_vigor(acervo: Acervo, cabecalhos: dict[str, dict], lista_obras: lis
             "classe": classe, "alteradores": len(acervo.alterado_por[i]), "citado_por_vigentes": acervo.citado_por_vigentes.get(i, 0),
             "sumario": (doc["summary"] or "")[:160],
         }
+        if marcas and i in marcas:
+            linha["marca_de_vigencia"] = marcas[i]
         if classe in ("consolidado_dre", "consolidado_leis_portugal"):
             linha["consolidado_ate"] = cabecalhos[i]["data_consolidacao"]
             linha |= em_dia(i, acervo, cabecalhos[i], sitemap)
@@ -642,7 +647,8 @@ def duplicados(acervo: Acervo, tipos: tuple[str, ...]) -> list[dict]:
             for (t, q), g in sorted(grupos.items()) if len(g) > 1]
 
 
-def lista_de_controlo(centrais: list[dict], acervo: Acervo, cabecalhos: dict[str, dict], lista_obras: list[dict], triagem: dict[str, dict], sitemap: dict[str, str] | None, raiz: Path) -> list[dict]:
+def lista_de_controlo(centrais: list[dict], acervo: Acervo, cabecalhos: dict[str, dict], lista_obras: list[dict], triagem: dict[str, dict], sitemap: dict[str, str] | None, raiz: Path,
+                      marcas: dict[str, str] | None = None) -> list[dict]:
     linhas = []
     for entrada in centrais:
         linha = {"area": entrada["area"], "nome": entrada["nome"], "diploma": entrada["diploma"], "pesquisa": entrada.get("pesquisa")}
@@ -659,6 +665,9 @@ def lista_de_controlo(centrais: list[dict], acervo: Acervo, cabecalhos: dict[str
             problemas.append("vigência desconhecida")
         elif doc["legal_status"] not in VIGENTES:
             problemas.append(f"o DRE dá-o como {doc['legal_status']}")
+        if marcas and i in marcas:
+            linha["marca_de_vigencia"] = marcas[i]
+            problemas.append(f"vigência revista: {marcas[i].replace('_', ' ')}")
         if vive_em is None:
             classe = classe_do_texto(doc, None, None, triagem.get(i))
             linha["texto"] = classe
@@ -835,6 +844,8 @@ def inventario(args: argparse.Namespace) -> dict:
     triagem = {r["id"]: r for r in map(json.loads, triagem_ficheiro.read_text(encoding="utf-8").splitlines())} if triagem_ficheiro.exists() else {}
     propostas_ficheiro = raiz / "reports" / "vigencia-proposta.jsonl"
     propostas = {r["id"]: r for r in map(json.loads, propostas_ficheiro.read_text(encoding="utf-8").splitlines())} if propostas_ficheiro.exists() else {}
+    marcas_ficheiro = raiz / "consolidacao" / "auditoria" / "vigencia-revista.jsonl"
+    marcas = {r["id"]: r["marca"] for r in map(json.loads, marcas_ficheiro.read_text(encoding="utf-8").splitlines())} if marcas_ficheiro.exists() else {}
 
     sitemap = None
     if args.descarregar_sitemap:
@@ -854,10 +865,10 @@ def inventario(args: argparse.Namespace) -> dict:
     resumo["texto_em_varios_registos"] = resumo_das_obras(lista_obras)
 
     # 1
-    linhas_texto = texto_em_vigor(acervo, cabecalhos, lista_obras, triagem, sitemap, PRIORITARIOS)
+    linhas_texto = texto_em_vigor(acervo, cabecalhos, lista_obras, triagem, sitemap, PRIORITARIOS, marcas)
     _jsonl(saida / "texto-em-vigor-por-fechar.jsonl", sorted((l for l in linhas_texto if l["classe"] in POR_FECHAR), key=lambda l: -l["citado_por_vigentes"]))
     _jsonl(saida / "consolidados-por-atualizar.jsonl", sorted((l for l in linhas_texto if l.get("em_dia") is False), key=lambda l: -l["citado_por_vigentes"]))
-    portarias = texto_em_vigor(acervo, cabecalhos, lista_obras, triagem, sitemap, ("portaria",))
+    portarias = texto_em_vigor(acervo, cabecalhos, lista_obras, triagem, sitemap, ("portaria",), marcas)
     nao_consolidado = lambda l: acervo.docs[l["id"]]["version_kind"] != "consolidated" and acervo.docs[l["id"]]["text_quality"] == "texto"  # noqa: E731
     resumo["texto_em_vigor"] = {
         "universo": len(linhas_texto),
@@ -870,6 +881,13 @@ def inventario(args: argparse.Namespace) -> dict:
         "consolidados_dre_com_alterador_posterior": sum(bool(l.get("alteradores_posteriores")) and l["classe"] != "consolidado_leis_portugal" for l in linhas_texto),
         "consolidados_que_o_dre_mexeu": sum(bool(l.get("dre_mexeu_depois_da_recolha")) for l in linhas_texto),
         "originais_com_alterador_novo_desde_a_triagem": sum(l["classe"] == "original_e_o_texto_em_vigor" and bool(l.get("alteradores_novos_desde_a_triagem")) for l in linhas_texto),
+        "marcas_de_vigencia_revista": {
+            "no_ficheiro": dict(Counter(marcas.values())),
+            "prioritarios": dict(Counter(l["marca_de_vigencia"] for l in linhas_texto if "marca_de_vigencia" in l)),
+            "prioritarios_por_classe": {c: n for c in ORDEM_TEXTO if (n := dict(Counter(l["marca_de_vigencia"] for l in linhas_texto if l["classe"] == c and "marca_de_vigencia" in l)))},
+            "portarias": dict(Counter(l["marca_de_vigencia"] for l in portarias if "marca_de_vigencia" in l)),
+            "fora_do_universo": sum(i not in {l["id"] for l in linhas_texto} | {l["id"] for l in portarias} for i in marcas),
+        },
         "portarias": {"universo": len(portarias), "por_classe": dict(Counter(l["classe"] for l in portarias)),
                       "consolidados_em_dia": sum(l.get("em_dia") is True for l in portarias), "consolidados_por_atualizar": sum(l.get("em_dia") is False for l in portarias)},
         "tetos_da_sessao_coordenadora": {
@@ -941,7 +959,7 @@ def inventario(args: argparse.Namespace) -> dict:
 
     # 6
     centrais = json.loads((Path(__file__).with_name("inventario_diplomas_centrais.json")).read_text(encoding="utf-8"))["diplomas"]
-    controlo = lista_de_controlo(centrais, acervo, cabecalhos, lista_obras, triagem, sitemap, raiz)
+    controlo = lista_de_controlo(centrais, acervo, cabecalhos, lista_obras, triagem, sitemap, raiz, marcas)
     if args.indice:
         verificar_pesquisa(controlo, Path(args.indice), raiz, acervo)
     _jsonl(saida / "diplomas-centrais.jsonl", controlo)
@@ -985,7 +1003,10 @@ def tabelas(resumo: dict, controlo: list[dict], lista_obras: list[dict]) -> str:
                   + [["**Total**", *[sum(t["por_classe_e_tipo"][c].get(tp, 0) for c in ORDEM_TEXTO) for tp in PRIORITARIOS], t["universo"]]])
         + f"\n\nConsolidados em dia: {t['consolidados_em_dia']}; com alterador publicado depois da última versão: {t['consolidados_com_alterador_posterior']}; "
         f"que o DRE mexeu depois da recolha: {t['consolidados_que_o_dre_mexeu'] if resumo['com_sitemap'] else 'por medir (sem sitemap)'}.\n\n"
-        "Portarias (só contagens): " + ", ".join(f"{c} {n}" for c, n in sorted(t["portarias"]["por_classe"].items(), key=lambda x: -x[1])) + ".",
+        "Portarias (só contagens): " + ", ".join(f"{c} {n}" for c, n in sorted(t["portarias"]["por_classe"].items(), key=lambda x: -x[1])) + ".\n\n"
+        "Marcas da vigência revista (`consolidacao/auditoria/vigencia-revista.jsonl`): no ficheiro, " + (", ".join(f"{m} {n}" for m, n in sorted(t["marcas_de_vigencia_revista"]["no_ficheiro"].items())) or "nenhuma")
+        + "; nos prioritários deste universo, " + (", ".join(f"{m} {n}" for m, n in sorted(t["marcas_de_vigencia_revista"]["prioritarios"].items())) or "nenhuma")
+        + "; nas portarias, " + (", ".join(f"{m} {n}" for m, n in sorted(t["marcas_de_vigencia_revista"]["portarias"].items())) or "nenhuma") + ".",
     ]
     fora = [o for o in lista_obras if o["atual_fora_da_origem"] and o["em_vigor"]]
     blocos.append(f"## 2. Textos cujo texto em vigor está fora do registo que os aprovou ({len(fora)})\n\n" + _tabela(

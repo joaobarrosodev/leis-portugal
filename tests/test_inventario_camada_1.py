@@ -204,6 +204,15 @@ def test_em_dia_ve_os_alteradores_publicados_depois():
     assert inv.em_dia("c", acervo, cab | {"data_consolidacao": "2026-02-01"}, {"u": "2025-06-02"})["em_dia"]
 
 
+def test_texto_em_vigor_leva_a_marca_da_vigencia_revista():
+    docs = {i: {"id": i, "title": f"Decreto-Lei n.º {n}/2001", "summary": "", "document_type": "decreto-lei", "publication_date": "2001-01-01", "legal_status": "in_force",
+                "text_quality": "texto", "version_kind": "original", "path": "x.md", "series": "I"} for n, i in enumerate(("a", "b"), 1)}
+    acervo = inv.Acervo(docs, {"a": [("z", "2005-01-01", None)], "b": [("z", "2005-01-01", None)]}, {}, {}, {})
+    linhas = {l["id"]: l for l in inv.texto_em_vigor(acervo, {}, [], {"a": {"estado": "sem alteração textual"}}, None, ("decreto-lei",), {"a": "nao_vigora"})}
+    assert linhas["a"]["marca_de_vigencia"] == "nao_vigora" and linhas["a"]["classe"] == "original_e_o_texto_em_vigor"
+    assert "marca_de_vigencia" not in linhas["b"] and linhas["b"]["classe"] == "nao_triado"
+
+
 def test_lista_de_controlo_resolve_todos_os_titulos_bem_formados():
     centrais = json.loads((PASTA / "inventario_diplomas_centrais.json").read_text(encoding="utf-8"))["diplomas"]
     assert len(centrais) >= 100
@@ -219,3 +228,39 @@ def test_export_por_omissao_num_worktree(tmp_path):
     copia.mkdir(parents=True)
     (copia / ".git").write_text(f"gitdir: {principal}/.git/worktrees/x\n", encoding="utf-8")
     assert inv.export_por_omissao(copia) == principal / "exports" / "leis-portugal.sqlite"
+
+
+def test_inventario_de_ponta_a_ponta_num_acervo_minimo(tmp_path):
+    """O código de 1994 republicado em 2013, mais um decreto-lei alterado com marca de vigência revista."""
+    epigrafes = [f"Tema {n}" for n in range(1, 13)]
+    nota = "\n\n> Alterado pelo/a [Lei n.º 9/2021 - DR de 2020-12-09](https://x), em vigor a partir de 2025-04-11"
+    _registo(tmp_path, "data/dl-114-94.md", _artigos(epigrafes))
+    _registo(tmp_path, "data/lei-72-2013.md", "###### Artigo 1.º — Objeto\n\nAltera.\n\n## Anexo — CÓDIGO DA ESTRADA\n\n" + _artigos(epigrafes, nota), consolidado_ate="2025-04-11")
+    _registo(tmp_path, "data/dl-5-2001.md", _artigos(["Objeto", "Âmbito"]))
+    (tmp_path / "consolidacao" / "auditoria").mkdir(parents=True)
+    (tmp_path / "consolidacao" / "auditoria" / "vigencia-revista.jsonl").write_text(json.dumps({"id": "pt:dre:3:por", "marca": "nao_vigora"}) + "\n", encoding="utf-8")
+    (tmp_path / "consolidacao" / "resultados-escala.jsonl").write_text(json.dumps({"id": "pt:dre:3:por", "estado": "para LLM", "passos": [{"id": "pt:dre:9:por"}]}) + "\n", encoding="utf-8")
+    export = tmp_path / "export.sqlite"
+    con = sqlite3.connect(export)
+    con.execute("CREATE TABLE documentos (id, title, summary, document_type, publication_date, legal_status, text_quality, version_kind, path, series, pdf_url)")
+    con.execute("CREATE TABLE relacoes (source_id, type, target, target_id, date, label)")
+    con.executemany("INSERT INTO documentos VALUES (?, ?, ?, ?, ?, ?, 'texto', ?, ?, 'I', NULL)", [
+        ("pt:dre:1:por", "Decreto-Lei n.º 114/94", "Aprova o Código da Estrada", "decreto-lei", "1994-05-03", "in_force", "original", "data/dl-114-94.md"),
+        ("pt:dre:2:por", "Lei n.º 72/2013", "Altera o Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94", "lei", "2013-09-03", "in_force", "consolidated", "data/lei-72-2013.md"),
+        ("pt:dre:3:por", "Decreto-Lei n.º 5/2001", "Regime de qualquer coisa", "decreto-lei", "2001-01-10", "unknown", "original", "data/dl-5-2001.md"),
+    ])
+    con.executemany("INSERT INTO relacoes VALUES (?, 'amended_by', ?, ?, ?, NULL)", [
+        ("pt:dre:1:por", "pt:dre:2:por", "pt:dre:2:por", "2013-09-03"), ("pt:dre:3:por", "pt:dre:9:por", "pt:dre:9:por", "2005-02-02")])
+    con.commit()
+    con.close()
+    saida = tmp_path / "saida"
+    resumo = inv.inventario(inv.argparse.Namespace(raiz=str(tmp_path), export=str(export), saida=str(saida), sitemap_consolidados=None, descarregar_sitemap=False, indice=None, hoje="2026-11-20"))
+    assert resumo["texto_em_varios_registos"]["texto_atual_fora_do_registo_de_origem"] == 1
+    assert resumo["texto_em_varios_registos"]["das_quais_a_origem_aponta_para_o_atual"] == 0  # falta o `republished_by` «Texto em vigor»
+    assert resumo["texto_em_vigor"]["por_classe"] == {"texto_noutro_registo": 1, "alteracao_por_aplicar": 1}
+    assert resumo["texto_em_vigor"]["marcas_de_vigencia_revista"]["prioritarios"] == {"nao_vigora": 1}
+    assert resumo["vigencia_desconhecida"]["por_classe"] == {"alterado_depois_e_sem_revogacao": 1}
+    assert "dre_consolidados" not in resumo and not resumo["com_sitemap"]
+    por_fechar = [json.loads(l) for l in (saida / "texto-em-vigor-por-fechar.jsonl").read_text(encoding="utf-8").splitlines()]
+    assert [(l["id"], l["marca_de_vigencia"]) for l in por_fechar] == [("pt:dre:3:por", "nao_vigora")]
+    assert "## 6. Lista de controlo" in (saida / "tabelas.md").read_text(encoding="utf-8")
