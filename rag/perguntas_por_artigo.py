@@ -116,7 +116,7 @@ OUTROS_CODIGOS = (
     Bloco("estatuto-ordem-contabilistas", "pt:dre:70196966:por", "Anexo I — ESTATUTO DA ORDEM DOS CONTABILISTAS CERTIFICADOS"),
 )
 
-# A 1.ª leva de diplomas avulsos (20/11), da lista de `reports/perguntas-por-artigo-avulsos-proposta.md`: os regimes
+# As levas de diplomas avulsos (20/11). A 1.ª, da lista de `reports/perguntas-por-artigo-avulsos-proposta.md`: os regimes
 # de base de saúde, segurança social, arrendamento e habitação, consumo e família. Só o articulado (parte ""), menos
 # nos quatro em que o regime está num anexo. Um ficheiro por tema.
 def _avulsos(ficheiro: str, *blocos: tuple[str, str, str]) -> tuple[Bloco, ...]:
@@ -186,6 +186,21 @@ AVULSOS = (
         ("dl-164-99-fundo-alimentos", "pt:dre:321716:por", ""),
         ("lei-75-98-alimentos-menores", "pt:dre:230700:por", ""),
         ("lei-6-2001-economia-comum", "pt:dre:314191:por", ""),
+    ),
+    # A 2.ª leva (20/11), dirigida: os diplomas das 5 reais do diagnóstico que a 1.ª não cobria (mediação, benefícios
+    # fiscais, bens em circulação) e as prestações e regimes de cidadão que tinham ficado para depois.
+    *_avulsos(
+        "avulsos-seguranca-social",
+        ("lei-13-2003-rsi", "pt:dre:541856:por", ""),
+        ("dl-265-99-complemento-dependencia", "pt:dre:357518:por", ""),
+        ("lei-98-2009-acidentes-trabalho", "pt:dre:489505:por", ""),
+    ),
+    *_avulsos("avulsos-saude", ("lei-32-2006-pma", "pt:dre:539239:por", "")),
+    *_avulsos("avulsos-justica", ("lei-29-2013-mediacao", "pt:dre:260394:por", "")),
+    *_avulsos(
+        "avulsos-impostos",
+        ("dl-215-89-beneficios-fiscais", "pt:dre:620928:por", "Anexo — ESTATUTO DOS BENEFÍCIOS FISCAIS"),
+        ("dl-147-2003-bens-circulacao", "pt:dre:667554:por", "Anexo — (a que se refere o artigo 1.º)"),
     ),
 )
 
@@ -282,7 +297,7 @@ _CODIGOS = (
 # Os nomes dos diplomas avulsos (20/11). «A portaria» sozinha passa (32 perguntas dos códigos usam-na); o nome de um
 # regime, de uma lei de bases ou de um estatuto do utente ou do cuidador, não.
 _AVULSOS_NOMES = (
-    r"\bregime jur[íi]dico\b|\blei de bases\b|\bestatuto (?:do|dos) (?:cuidador|utente)|"
+    r"\bregime jur[íi]dico\b|\blei de bases\b|\bestatuto (?:do|dos) (?:cuidador|utente|benef[íi]cios fiscais)|\bebf\b|"
     r"\blei (?:de|da|do) (?:defesa do consumidor|prote[cç][ãa]o de crian[çc]as|uni[ãa]o de facto|economia comum)"
 )
 _SIGLAS = r"cirs|circ|civa|cimi|cimt|cis|ciuc|cisv|ciec|cpc|cpp|cpa|cpta|cppt|lgt|ltfp|csc|cire|ccp|cvm|cpi|cdadc|crp|crc|crpredial|cnot"
