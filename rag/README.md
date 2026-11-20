@@ -829,3 +829,21 @@ Os 1.244 atos da UE em vigor sem versão portuguesa estão no acervo em traduç�
 5. **Diplomas citados por um nome que o índice não reconhece.** É a maior parte das falhas da extração (regulamentos, estatutos, a Lei de Organização e Funcionamento dos Tribunais Judiciais…): ficam sem diploma. Resolver pelo sumário ("Aprova o Regulamento…") tendo em conta a data do acórdão, e medir outra vez.
 6. **Decisões sumárias do TC.** Recolhidas (13/11/2026, `collect tc --sumarias`, `decisoes-sumarias/`): 5.320 das 5.335 listadas, de 1998 a 2026; ficam fora do `normas-julgadas.jsonl` até se medir a extração nelas. As 15 que faltam são páginas vazias no site (`reports/tc_sumarias_failures.jsonl`).
 7. **Mais tarde:** STJ e STA (bases do ITIJ, dgsi.pt) só depois de a segunda resposta estar medida; o TC foi notificado em 12/11/2026, à espera de resposta.
+
+## Redações anteriores: cópias antigas do mesmo texto (20/11/2026)
+
+O DRE consolida alguns códigos no registo da lei que os republicou (o Código da Estrada na Lei n.º 72/2013), consolida diplomas de alteração que trazem a republicação de outro (o DL 44/2005) e guarda o texto de origem (o DL 114/94). No índice, todas essas cópias ficavam como texto atual: o Código da Estrada estava lá cinco vezes.
+
+`rag/copias.py` junta as cópias de cada texto e diz quais são redação anterior. Uma cópia só é marcada com duas provas:
+
+1. **É o mesmo texto:** as epígrafes coincidem e uma parte dos artigos tem o mesmo texto (30 %, ou 10 % quando 30 ou mais epígrafes coincidem), e um dos diplomas cita o outro; ou o DRE o diz numa nota; ou o anexo cita o diploma.
+2. **Há outra cópia mais recente:** outra cópia tem uma nota «Alterado pelo/a…» com data posterior, ou é a republicação trazida por um diploma que o DRE regista como alterador e publicado depois. Uma data de publicação diferente não chega.
+
+O `rag.indice` usa as marcas ao construir (por omissão; `--sem-redacoes-anteriores` desliga, para medir):
+
+- os pedaços abertos da cópia ficam com `ate`, a data da prova mais antiga. Respondem a perguntas com data anterior, com o aviso «Redação em vigor de … a …, não a atual», e deixam de responder como texto atual;
+- só fecham os artigos da cópia, pela chave e pelo texto: os artigos do decreto que aprova ou republica, que partilham a parte e as chaves, ficam abertos;
+- nos registos em blocos de texto (o IVA de 1984), fecham os blocos a seguir àquele onde o código começa;
+- a ligação para o registo com o texto atual é `texto_em_vigor_em` quando o registo fica sem artigos abertos, e `redacao_atual_em` quando ficam os do próprio diploma: a pesquisa troca artigos pelo número só no primeiro caso.
+
+`python -m rag.copias` grava `reports/redacoes-anteriores/`: `marcadas.jsonl` (com a prova de cada uma), `de-fora.jsonl` (com o motivo) e `resumo.json`. A 20/11: 536 cópias marcadas em 493 registos e 345 de fora; num índice de ensaio só com esses registos, 43.596 pedaços fechados. Falta medir nas 1.298 perguntas.

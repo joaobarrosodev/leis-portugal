@@ -12,6 +12,24 @@ no export nem no índice.
 - **«Verificado»** quer dizer contado no registo, no índice ou no DRE. **«Teto»** quer dizer que o número vem de uma
   regra (a triagem da consolidação, uma comparação de datas, o sumário) e que o número real é igual ou menor.
 
+## Atualização de 20/11/2026: as linhas 1 e 2 têm regra no índice
+
+- **O que mudou.** `rag/copias.py` junta as cópias de cada texto e diz quais são redação anterior, com prova. O
+  `rag.indice` fecha os pedaços dessas cópias com `ate`, como qualquer redação antiga de um consolidado, e grava a
+  ligação para o registo com o texto atual. Nada se apaga. As listas estão em `reports/redacoes-anteriores/`.
+- **Contagens** sobre o export de 19/11 (23h45): 641 textos em mais de um registo, **536 cópias marcadas em 493
+  registos** e 345 de fora (200 sem prova de um texto posterior, 140 em que o registo mais recente já não vigora,
+  4 em que o articulado de um diploma de alteração se mistura com o texto citado e 1 em texto corrido). Num índice de
+  ensaio só com estes registos, a regra fecha 43.596 pedaços.
+- **Das 151 cópias da linha 1, a regra marca 135** (14.247 dos 14.853 pedaços). Das outras 16, 11 deixaram de contar
+  como cópias porque o texto dos artigos não o prova, 3 passaram a ser a cópia atual ou outra parte, e 2 misturam o
+  articulado do diploma de alteração.
+- **A deteção alargou-se** aos diplomas que alteram um texto e o republicam sem o DRE os consolidar com nome de anexo
+  (os DL 2/98, 265-A/2001 e 44/2005 no Código da Estrada, o DL 198/2001 no IRS e no IRC, as Leis n.os 30/2012 e
+  129/2015). Por isso `tabelas.md` e os `.jsonl`, regenerados a 20/11 sobre o índice da auditoria, têm mais textos e
+  mais cópias do que as secções 2.1 e 2.2 abaixo, que são a medição de 19/11 e ficam como registo.
+- **Falta** reconstruir o índice e medir. As linhas 3 a 11 não mudaram.
+
 ## Resumo, por ordem de retorno
 
 | # | Falha | Tipo | Quantos | Verificado ou teto | Esforço | Valor para o produto |

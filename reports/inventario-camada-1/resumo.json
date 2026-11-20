@@ -1,5 +1,5 @@
 {
- "gerado": "2026-11-19",
+ "gerado": "2026-11-20",
  "export": {
   "documentos_pt": 405830,
   "ficheiro": "leis-portugal.sqlite"
@@ -7,31 +7,47 @@
  "com_sitemap": true,
  "com_indice": true,
  "texto_em_varios_registos": {
-  "obras": 162,
-  "com_texto_atual_num_registo_em_vigor": 144,
-  "que_ja_nao_vigoram_com_copias_servidas": 13,
-  "copias_de_texto_que_ja_nao_vigora_servidas": 16,
-  "artigos_em_copias_de_texto_que_ja_nao_vigora": 1038,
-  "texto_atual_fora_do_registo_de_origem": 31,
+  "obras": 641,
+  "com_texto_atual_num_registo_em_vigor": 533,
+  "que_ja_nao_vigoram_com_copias_servidas": 44,
+  "copias_de_texto_que_ja_nao_vigora_servidas": 60,
+  "artigos_em_copias_de_texto_que_ja_nao_vigora": 4062,
+  "texto_atual_fora_do_registo_de_origem": 71,
   "das_quais_a_origem_aponta_para_o_atual": 11,
-  "das_quais_a_origem_esta_no_indice_como_vigente": 22,
-  "das_quais_a_origem_tem_consolidacao_propria_mais_antiga": 17,
-  "das_quais_com_numeracao_diferente": 14,
-  "copias_desatualizadas_servidas": 173,
-  "artigos_em_copias_desatualizadas_servidas": 17979,
-  "obras_com_copias_desatualizadas_servidas": 117,
+  "das_quais_a_origem_esta_no_indice_como_vigente": 38,
+  "das_quais_a_origem_tem_consolidacao_propria_mais_antiga": 28,
+  "das_quais_com_numeracao_diferente": 26,
+  "copias_desatualizadas_servidas": 665,
+  "artigos_em_copias_desatualizadas_servidas": 49513,
+  "obras_com_copias_desatualizadas_servidas": 472,
   "no_indice": {
-   "copias_desatualizadas_com_pedacos_atuais": 151,
-   "pedacos_atuais_em_copias_desatualizadas": 14853,
-   "pedacos_atuais_nas_copias_atuais": 16123,
-   "pedacos_atuais_em_copias_de_texto_que_ja_nao_vigora": 953
+   "copias_desatualizadas_com_pedacos_atuais": 700,
+   "pedacos_atuais_em_copias_desatualizadas": 62201,
+   "pedacos_atuais_nas_copias_atuais": 39305,
+   "pedacos_atuais_em_copias_de_texto_que_ja_nao_vigora": 4893
   },
   "copias_desatualizadas_servidas_por_tipo_de_registo": {
-   "consolidado DRE": 70,
+   "consolidado DRE": 75,
    "consolidado DRE (anexo com «republica» no nome)": 61,
-   "original": 32,
-   "original (anexo com «republica» no nome)": 8,
-   "consolidado leis-portugal": 2
+   "original": 522,
+   "consolidado leis-portugal": 7
+  },
+  "regra_das_redacoes_anteriores": {
+   "marcas": 536,
+   "registos_com_marcas": 493,
+   "de_fora": 345,
+   "de_fora_por_motivo": {
+    "sem prova de um texto posterior ao desta cópia (mesma data, ou só a data de publicação difere)": 200,
+    "o registo com o texto mais recente já não vigora: a regra não decide se o texto vigora": 140,
+    "a parte mistura o articulado de um diploma de alteração com o texto que ele cita: não se separam": 4,
+    "texto corrido com outro articulado a seguir: não se separa nos blocos do índice": 1
+   },
+   "copias_desatualizadas_servidas": {
+    "marcadas": 500,
+    "de_fora": 225,
+    "pedacos_atuais_das_marcadas": 48857,
+    "pedacos_atuais_das_de_fora": 15614
+   }
   }
  },
  "texto_em_vigor": {
@@ -40,9 +56,9 @@
    "consolidado_dre": {
     "lei": 473,
     "lei-organica": 11,
-    "decreto-lei": 1557,
+    "decreto-lei": 1556,
     "decreto-regulamentar": 63,
-    "decreto-legislativo-regional": 239
+    "decreto-legislativo-regional": 236
    },
    "consolidado_leis_portugal": {
     "lei": 48,
@@ -53,22 +69,23 @@
    },
    "texto_noutro_registo": {
     "lei": 2,
-    "decreto-lei": 16,
-    "decreto-legislativo-regional": 3
+    "decreto-lei": 23,
+    "decreto-regulamentar": 1,
+    "decreto-legislativo-regional": 9
    },
    "original_e_o_texto_em_vigor": {
     "lei": 592,
     "lei-organica": 23,
     "lei-constitucional": 7,
-    "decreto-lei": 2498,
+    "decreto-lei": 2497,
     "decreto-regulamentar": 273,
     "decreto-legislativo-regional": 234
    },
    "alteracao_por_aplicar": {
     "lei": 51,
-    "decreto-lei": 482,
+    "decreto-lei": 477,
     "decreto-regulamentar": 77,
-    "decreto-legislativo-regional": 68
+    "decreto-legislativo-regional": 67
    },
    "alteracao_so_em_imagem": {
     "lei": 1,
@@ -79,15 +96,15 @@
     "lei": 218,
     "lei-organica": 17,
     "decreto-lei": 375,
-    "decreto-regulamentar": 23,
-    "decreto-legislativo-regional": 54
+    "decreto-regulamentar": 22,
+    "decreto-legislativo-regional": 53
    },
    "revogado_por_inteiro": {
     "lei": 5,
     "lei-organica": 2,
     "decreto-lei": 119,
     "decreto-regulamentar": 47,
-    "decreto-legislativo-regional": 45
+    "decreto-legislativo-regional": 44
    },
    "sem_texto": {
     "lei": 216,
@@ -95,19 +112,19 @@
    }
   },
   "por_classe": {
-   "original_e_o_texto_em_vigor": 3627,
-   "consolidado_dre": 2343,
+   "original_e_o_texto_em_vigor": 3626,
+   "consolidado_dre": 2339,
    "consolidado_leis_portugal": 843,
-   "nao_triado": 687,
-   "alteracao_por_aplicar": 678,
-   "revogado_por_inteiro": 218,
+   "nao_triado": 685,
+   "texto_noutro_registo": 35,
+   "alteracao_por_aplicar": 672,
+   "revogado_por_inteiro": 217,
    "sem_texto": 1257,
-   "alteracao_so_em_imagem": 16,
-   "texto_noutro_registo": 21
+   "alteracao_so_em_imagem": 16
   },
   "por_classe_e_estado": {
    "consolidado_dre": {
-    "in_force": 2300,
+    "in_force": 2296,
     "partially_in_force": 43
    },
    "consolidado_leis_portugal": {
@@ -115,25 +132,27 @@
     "partially_in_force": 12
    },
    "texto_noutro_registo": {
-    "in_force": 21
+    "unknown": 2,
+    "in_force": 31,
+    "partially_in_force": 2
    },
    "original_e_o_texto_em_vigor": {
-    "in_force": 3551,
+    "in_force": 3550,
     "partially_in_force": 76
    },
    "alteracao_por_aplicar": {
-    "in_force": 663,
-    "partially_in_force": 15
+    "in_force": 658,
+    "partially_in_force": 14
    },
    "alteracao_so_em_imagem": {
     "in_force": 15,
     "partially_in_force": 1
    },
    "nao_triado": {
-    "unknown": 687
+    "unknown": 685
    },
    "revogado_por_inteiro": {
-    "partially_in_force": 134,
+    "partially_in_force": 133,
     "in_force": 84
    },
    "sem_texto": {
@@ -143,15 +162,40 @@
    }
   },
   "por_fechar_citados": {
-   "≥1": 1043,
-   "≥10": 213,
-   "≥50": 29
+   "≥1": 1036,
+   "≥10": 210,
+   "≥50": 27
   },
-  "consolidados_em_dia": 2963,
-  "consolidados_com_alterador_posterior": 210,
-  "consolidados_dre_com_alterador_posterior": 68,
-  "consolidados_que_o_dre_mexeu": 35,
+  "consolidados_em_dia": 2959,
+  "consolidados_com_alterador_posterior": 212,
+  "consolidados_dre_com_alterador_posterior": 69,
+  "consolidados_que_o_dre_mexeu": 34,
   "originais_com_alterador_novo_desde_a_triagem": 0,
+  "marcas_de_vigencia_revista": {
+   "no_ficheiro": {
+    "nao_vigora": 166,
+    "por_confirmar": 57,
+    "regime_anterior": 194
+   },
+   "prioritarios": {
+    "nao_vigora": 29,
+    "por_confirmar": 11,
+    "regime_anterior": 4
+   },
+   "prioritarios_por_classe": {
+    "consolidado_leis_portugal": {
+     "nao_vigora": 29,
+     "por_confirmar": 11,
+     "regime_anterior": 4
+    }
+   },
+   "portarias": {
+    "regime_anterior": 189,
+    "nao_vigora": 84,
+    "por_confirmar": 35
+   },
+   "fora_do_universo": 65
+  },
   "portarias": {
    "universo": 15577,
    "por_classe": {
@@ -181,9 +225,9 @@
    "decreto-lei": {
     "teto": 3494,
     "medido": 3494,
-    "texto_noutro_registo": 6,
-    "original_e_o_texto_em_vigor": 2498,
-    "alteracao_por_aplicar": 482,
+    "texto_noutro_registo": 12,
+    "original_e_o_texto_em_vigor": 2497,
+    "alteracao_por_aplicar": 477,
     "alteracao_so_em_imagem": 14,
     "nao_triado": 375,
     "revogado_por_inteiro": 119
@@ -191,11 +235,11 @@
    "decreto-regulamentar": {
     "teto": 421,
     "medido": 421,
-    "texto_noutro_registo": 0,
+    "texto_noutro_registo": 1,
     "original_e_o_texto_em_vigor": 273,
     "alteracao_por_aplicar": 77,
     "alteracao_so_em_imagem": 1,
-    "nao_triado": 23,
+    "nao_triado": 22,
     "revogado_por_inteiro": 47
    }
   }
@@ -569,22 +613,22 @@
  },
  "diplomas_centrais": {
   "total": 198,
-  "sem_problemas": 130,
+  "sem_problemas": 80,
   "fora_do_acervo": 1,
   "por_texto": {
-   "consolidado_dre": 178,
+   "consolidado_dre": 179,
    "nao_triado": 7,
    "original_sem_alteracoes": 8,
    "original_e_o_texto_em_vigor": 2,
    "fora do acervo": 1,
-   "alteracao_por_aplicar": 2
+   "alteracao_por_aplicar": 1
   },
   "com_vigencia_desconhecida": 11,
   "com_alterador_posterior": 0,
   "que_o_dre_mexeu": 5,
-  "texto_noutro_registo": 5,
-  "texto_noutro_registo_sem_ligacao": 2,
-  "com_copias_de_outra_data_servidas": 34,
+  "texto_noutro_registo": 6,
+  "texto_noutro_registo_sem_ligacao": 3,
+  "com_copias_de_outra_data_servidas": 92,
   "pesquisa": {
    "verificados": 39,
    "artigo_certo": 17,

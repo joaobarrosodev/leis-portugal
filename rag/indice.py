@@ -37,6 +37,7 @@ from datetime import date
 from pathlib import Path
 
 from rag import texto as termos_mod
+from rag.copias import impressao
 from rag.fontes import PASTA_INDICE, RAIZ, corpo, export_sqlite, ler_artigos, ler_historico, revogado, texto_da_versao
 
 
@@ -178,6 +179,40 @@ def _blocos(texto: str) -> Iterator[str]:
         yield "\n\n".join(atual)
 
 
+def aplicar_redacoes(pedacos: list[Pedaco], marcas) -> int:
+    """Fecha (`ate`) os pedaços abertos das cópias que são redação anterior (`rag.copias.Marca`); devolve quantos.
+
+    - Os artigos da cópia, pela chave e pelo texto: na mesma parte pode estar também o articulado do próprio
+      diploma, com as mesmas chaves, e esse fica aberto. Um pedaço cujo texto não é o que a regra leu fica como está.
+    - Nos registos em blocos de texto, os blocos a seguir àquele onde o texto começa. Esse bloco fica como está,
+      a não ser que comece pelo texto: pode ter o fim do articulado do próprio diploma.
+
+    Um pedaço que só começou depois da data fica com o intervalo vazio: não responde a nenhuma data."""
+    fechados = 0
+
+    def fechar(pedaco: Pedaco, ate: str) -> None:
+        nonlocal fechados
+        if pedaco.ate is None:
+            pedaco.ate = ate if (pedaco.desde or "") < ate else pedaco.desde
+            fechados += 1
+
+    for marca in marcas:
+        da_parte = [p for p in pedacos if p.parte == marca.parte]
+        if marca.a_partir_de:
+            primeira, _, segunda = marca.a_partir_de.partition("\n")
+            textos = [" ".join(p.texto.split()) for p in da_parte]
+            inicio = next((k for k, t in enumerate(textos) if primeira in t and (not segunda or segunda in t or segunda in "".join(textos[k + 1 : k + 2]))), None)
+            if inicio is None:
+                continue
+            for pedaco in da_parte[inicio if textos[inicio].startswith(primeira) else inicio + 1 :]:
+                fechar(pedaco, marca.ate)
+        else:
+            for pedaco in da_parte:
+                if pedaco.ate is None and (pedaco.chave, impressao(pedaco.texto)) in marca.artigos:
+                    fechar(pedaco, marca.ate)
+    return fechados
+
+
 def _de_artigos(artigos, desde: str | None, ate: str | None) -> list[Pedaco]:
     return [Pedaco(a.parte, a.numero, a.epigrafe, a.chave, a.texto, "\n".join(a.notas), desde, ate) for a in artigos]
 
@@ -278,8 +313,10 @@ def relacoes_do_export(export: Path, ids: set[str]) -> Iterator[tuple[str, str, 
 
 def construir(
     saida: Path, documentos: list[Documento], export: Path, *, fios: int = 8, so_referencia: set[str] | None = None,
-    perguntas: dict[tuple[str, str], list[str]] | None = None,
+    perguntas: dict[tuple[str, str], list[str]] | None = None, redacoes: dict[str, list] | None = None,
 ) -> None:
+    """`redacoes`: registo → marcas das cópias que são redação anterior (`rag.copias`)."""
+    redacoes = redacoes or {}
     saida.parent.mkdir(parents=True, exist_ok=True)
     temporario = saida.with_suffix(".tmp")
     temporario.unlink(missing_ok=True)
@@ -298,7 +335,7 @@ def construir(
 
     inicio = time.time()
     proximo_id = 1
-    contagem = {"documentos": 0, "pedacos": 0, "sem_ficheiro": 0, "com_historico": 0}
+    contagem = {"documentos": 0, "pedacos": 0, "sem_ficheiro": 0, "com_historico": 0, "redacoes_anteriores": 0, "registos_com_redacoes_anteriores": 0}
     with ThreadPoolExecutor(fios) as executor:
         for n, lote in enumerate(_lotes(documentos, 1000)):
             for doc, pedacos, em_vigor_em, com_historico in executor.map(processar, lote):
@@ -310,9 +347,22 @@ def construir(
                     (doc.id, doc.titulo, doc.tipo, doc.numero, doc.data, doc.sumario, doc.legal_status, doc.versao,
                      doc.data_consolidacao, doc.caminho, int(com_historico)),
                 )
-                con.executemany(
-                    "INSERT INTO relacoes VALUES (?, 'texto_em_vigor_em', ?, ?, NULL)", [(doc.id, alvo, titulos.get(alvo, alvo)) for alvo in em_vigor_em]
-                )
+                marcas = redacoes.get(doc.id, ())
+                if marcas:
+                    fechados = aplicar_redacoes(pedacos, marcas)
+                    contagem["redacoes_anteriores"] += fechados
+                    contagem["registos_com_redacoes_anteriores"] += bool(fechados)
+                    # A pesquisa troca um artigo deste registo pelo do alvo com o mesmo número (`_redirecionar`). Com o
+                    # texto antigo fechado, o que fica aberto com número é o articulado do próprio diploma, que não é
+                    # para trocar: aí a ligação fica com outro nome. Sem artigos abertos, fica `texto_em_vigor_em`.
+                    com_artigos_abertos = any(p.ate is None and p.numero for p in pedacos)
+                    alvos = list(dict.fromkeys([m.alvo for m in marcas] + em_vigor_em))
+                    tipo_ligacao = "redacao_atual_em" if com_artigos_abertos else "texto_em_vigor_em"
+                    con.executemany("INSERT INTO relacoes VALUES (?, ?, ?, ?, NULL)", [(doc.id, tipo_ligacao, alvo, titulos.get(alvo, alvo)) for alvo in alvos if alvo != doc.id])
+                else:
+                    con.executemany(
+                        "INSERT INTO relacoes VALUES (?, 'texto_em_vigor_em', ?, ?, NULL)", [(doc.id, alvo, titulos.get(alvo, alvo)) for alvo in em_vigor_em]
+                    )
                 linhas, fts = [], []
                 for ordem, p in enumerate(pedacos):
                     texto = p.texto[:MAX_CARACTERES]
@@ -390,6 +440,10 @@ def main(argv: list[str] | None = None) -> int:
         help="Deixar de fora os atos da UE em tradução não oficial (version.kind translation), para medir o efeito deles.",
     )
     parser.add_argument(
+        "--sem-redacoes-anteriores", action="store_true",
+        help="Não marcar as cópias antigas de um texto como redação anterior (`rag.copias`), para medir o efeito.",
+    )
+    parser.add_argument(
         "--com-perguntas", action="store_true",
         help="Juntar aos artigos as perguntas de leigo de rag/perguntas_artigo/ (piloto; publicar exige --com-perguntas).",
     )
@@ -408,7 +462,14 @@ def main(argv: list[str] | None = None) -> int:
         from rag.perguntas_por_artigo import ler
 
         perguntas = ler()
-    construir(args.saida, documentos, export, fios=args.fios, so_referencia=so_referencia, perguntas=perguntas)
+    redacoes = None
+    if not args.sem_redacoes_anteriores:
+        from rag import copias
+
+        marcas, fora, _ = copias.calcular(export, RAIZ)
+        redacoes = copias.marcas_por_documento(marcas)
+        print(f"Redações anteriores: {len(marcas)} cópias em {len(redacoes)} registos; {len(fora)} de fora (python -m rag.copias lista-as)", file=sys.stderr, flush=True)
+    construir(args.saida, documentos, export, fios=args.fios, so_referencia=so_referencia, perguntas=perguntas, redacoes=redacoes)
     return 0
 
 
