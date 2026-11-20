@@ -1070,4 +1070,19 @@ Por correção, nos registos em vigor no DRE:
 
 **Reconstruir:** `python -m rag.indice`, como sempre. Não há opções novas. Depois, `python -m rag.jurisprudencia` volta a escrever as normas julgadas com as partes novas (6 das 2.713 normas apontam para artigos que mudaram de parte; a pesquisa de hoje aceita as duas formas).
 
-**Falta medir** nas 1.298 perguntas com o reranker. O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
+**Medido nas 1.298 perguntas como a aplicação 0.1.1 pesquisa** (`rag/resultados/app011-fase1.json`; índice das 7h06 de 20/11, commit `e4ce206b6c4`, 2.582.317 pedaços, com a regra das redações anteriores):
+
+| | `app011-final` (19/11) | `app011-redacoes` (só a regra das cópias) | `app011-fase1` |
+|---|--:|--:|--:|
+| Certas (de 1.298) | 619 | 629 | 634 |
+| Respondidas | 834 | 830 | 833 |
+| «Sem resposta» respondidas | 5 | 5 | 5 |
+| Artigo certo em 1.º | 739 | 761 | 767 |
+| Artigo certo no top 10 | 1.038 | 1.036 | 1.031 |
+| Reais certas | 115 | 120 | 124 |
+
+Contra o `app011-redacoes`, a leitura nova ganha 10 certas (6 reais, 2 de texto alterado, 1 literal, 1 de premissa errada) e perde 5, e nenhuma «sem resposta» passa a ser respondida. Duas perdas são o mesmo artigo do Código do Trabalho, que desce para 2.º atrás de uma convenção da OIT publicada em `## ANEXO` (agora lida como parte). No top 10 saem 8 e entram 3; entre as que saem está a pergunta coloquial do Código da Estrada que a portaria dos jogos de casino ultrapassa (o caso previsto acima). Contra o `app011-final` o saldo é +15 certas (24 ganhos, 9 perdas). Publicado no Hugging Face a 20/11/2026 como delta de 17/11 para 20/11 (170 MB). Descarregado como a aplicação faz (completa de 16/11 mais os dois deltas): `documentos`, `pedacos` (sem o id), `relacoes`, `so_referencia` e `perguntas_artigo` iguais linha a linha ao índice publicado, e o FTS passa o `integrity-check`. Na `meta` ficam as contagens da completa de 16/11 (os deltas não as levam); a pesquisa só lê de lá o `versao` e o `metodo_termos`, que são iguais.
+
+Normas julgadas do TC refeitas sobre este índice (`85c99a5e32b`): 6.454 → 6.640 com o artigo encontrado, nenhuma perdida.
+
+O que ficou por ler (texto corrido com «Artigo 1.º … Art. 2.º …», bases soltas como as da Lei n.º 95/2019) está em `reports/leitura-texto-corrido-amostra.md`.
