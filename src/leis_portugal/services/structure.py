@@ -560,10 +560,14 @@ def aggregate(rows: list[dict[str, Any]], *, today: str) -> StructureReport:
 # pedido ao DRE no dia (estado e relações «revogado por»), todos os parágrafos de diplomas posteriores do
 # acervo que citam o diploma junto de «revog», «caduc» ou «cessa», e o sumário. `erros`: diplomas aceites
 # pela regra que afinal têm revogação, caducidade ou vigência limitada. Listas em
-# `reports/camada-1-falhas-de-dados/vigencia-amostra.jsonl`.
+# `reports/camada-1-falhas-de-dados/vigencia-amostra.jsonl`. `limite_superior_95`: limite unilateral exato (binomial).
+# Três amostras (150 + 150): 283 diplomas aceites pela regra de então; 0 com revogação; 1 com vigência limitada
+# por natureza (Lei n.º 51/2023, política criminal para o biénio de 2023-2025, já findo). O sumário passou depois a
+# excluir biénios, planos anuais e períodos com anos; a regra de hoje aceita um subconjunto do que foi medido.
 INFERRED_SAMPLE: dict[str, Any] = {
-    "data": "2026-11-20", "sementes": [20261120, 20261121], "conferidos": 150, "aceites_pela_regra_final": 135, "erros": 0,
-    "limite_superior_95": 0.022,
+    "data": "2026-11-20", "sementes": [20261120, 20261121, 20261122], "conferidos": 300, "aceites_pela_regra": 283,
+    "revogados": 0, "erros": 1, "limite_superior_95": 0.017,
+    "erro": "Lei n.º 51/2023: lei de política criminal para o biénio de 2023-2025, já findo; a regra do sumário foi alargada depois",
 }
 
 
@@ -1129,9 +1133,9 @@ def _inferred_lines(v: dict[str, Any]) -> list[str]:
         lines.append("- **Ficam de fora, de vigência desconhecida:** " + "; ".join(f"{_INFERRED_LABELS.get(key, key)}: {_n(count)}" for key, count in v["fora_da_regra"].items()) + ".")
     if sample:
         lines.append(
-            f"- **Amostra conferida ({sample['data']}):** {sample['conferidos']} diplomas ao acaso, {sample['aceites_pela_regra_final']} aceites pela regra final; "
-            f"{sample['erros']} com revogação, caducidade ou vigência limitada. Limite superior do erro a 95 %: "
-            + f"{sample['limite_superior_95'] * 100:.1f}".replace(".", ",") + " %."
+            f"- **Amostra conferida ({sample['data']}):** {sample['conferidos']} diplomas ao acaso, {sample['aceites_pela_regra']} aceites pela regra; "
+            f"{sample['revogados']} com revogação e {sample['erros']} com vigência limitada que a regra não viu ({sample['erro']}). "
+            "Limite superior do erro a 95 %: " + f"{sample['limite_superior_95'] * 100:.1f}".replace(".", ",") + " %."
         )
     lines.append("- **O que quer dizer:** que não se conhece revogação nem caducidade. Um ato de alteração fica «em vigor» mesmo com o conteúdo já gasto.")
     lines.append("- Lista: `vigencia-inferida.jsonl`.")

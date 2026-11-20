@@ -1108,6 +1108,18 @@ def test_inferred_exclusion_says_why_a_diploma_stays_unknown():
     assert temporary_summary("Prorroga o prazo de vigência do regime transitório")
     assert temporary_summary("Aprova o Orçamento do Estado para 2019")
     assert temporary_summary("Estabelece o quadro plurianual de programação orçamental")
+    # Terceira amostra: a Lei n.º 51/2023 passava na regra com o biénio já findo.
+    assert temporary_summary("Define os objetivos, prioridades e orientações da política criminal para o biénio de 2023-2025")
+    assert temporary_summary("Plano Anual Regional para o ano 2018")
+    assert temporary_summary("Orientações de Médio Prazo 2017/2020")
+    assert temporary_summary("Aprova o Plano de Gestão da Região Hidrográfica dos Açores 2016-2021")
+    # Um ano solto liga o ato a um período ou a um acontecimento; o ano de um diploma citado não.
+    assert temporary_summary("Estabelece o regime fiscal aplicável às competições UEFA Nations League Finals 2019 e UEFA Super Cup Final 2020")
+    assert temporary_summary("Aprova o Plano de Gestão de Riscos de Inundações da Região Autónoma dos Açores 2022\u00ad-2027.")
+    assert not temporary_summary("Procede à segunda alteração ao Decreto-Lei n.º 29-B/2021, de 4 de maio, e à Lei n.º 2/2018, de 29 de janeiro de 2018")
+    assert not temporary_summary("Transpõe a Diretiva n.º 2014/100/UE, da Comissão, de 28 de outubro de 2014, e o Regulamento (UE) n.º 2019/1020")
+    # Um número de diretiva não é um período.
+    assert not temporary_summary("Estabelece disposições em matéria de eficiência energética, transpondo a Diretiva (UE) 2018/2002")
     assert not temporary_summary("Aprova o regime jurídico da segurança do ciberespaço")
     assert limited_text("O presente decreto-lei vigora até 31 de dezembro de 2020.")
     assert limited_text("A presente lei cessa a sua vigência no final do ano.")

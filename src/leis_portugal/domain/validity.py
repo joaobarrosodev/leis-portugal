@@ -543,14 +543,17 @@ INFERRED_RULE = (
     "«revogado por» no DRE e nenhuma norma revogatória lida no acervo) e sem vigência limitada no sumário ou no texto."
 )
 # Temporário pelo sumário: orçamentos, autorizações legislativas, regimes excecionais ou transitórios,
-# prorrogações de prazo, medidas para um ano ou um período.
+# prorrogações de prazo, medidas para um ano ou um período (biénio, plano anual, «2021-2024»).
 _TEMPORARY_SUMMARY = re.compile(
     r"Orçamento do Estado para|Grandes Opções|execução do Orçamento|para o ano de \d{4}|para \d{4}\b"
     r"|estado de (?:emergência|calamidade|alerta)|COVID|medidas excecionais e temporárias"
     r"|^Autoriza o Governo|autoriza[çc][ãa]o legislativa|excecion|excepcion|transit[óo]ri|tempor[áa]ri|extraordin[áa]ri"
     r"|\bprorrog|alarga o prazo|\bsuspen|conting[êe]ncia|para (?:o ano de )?20\d\d|em 20\d\d\b|no ano de|durante o ano"
     r"|regulariza[çc][ãa]o extraordin|medidas? de apoio|situa[çc][ãa]o de calamidade|pandemia|doen[çc]a COVID"
-    r"|inc[êe]ndios? (?:de|ocorridos)|quadro plurianual|para o per[íi]odo|recenseamento geral",
+    r"|inc[êe]ndios? (?:de|ocorridos)|quadro plurianual|para o per[íi]odo|recenseamento geral"
+    # Depois da terceira amostra (uma lei de política criminal para um biénio já findo): atos para um período com anos.
+    r"|bi[ée]nio|tri[ée]nio|quadri[ée]nio|quinqu[ée]nio|\b20\d\d\s*[-–]\s*20\d\d\b|para o ano 20\d\d|nos anos de 20\d\d"
+    r"|Plano Anual|Orienta[çc][õo]es de M[ée]dio Prazo",
     re.IGNORECASE,
 )
 # Vigência limitada escrita no próprio diploma.
@@ -562,8 +565,21 @@ _LIMITED_TEXT = re.compile(
 )
 
 
+# Um ano solto no sumário (fora do número e da data de um diploma citado) liga o ato a um período ou a um
+# acontecimento: «competições UEFA Nations League Finals 2019», «congelamento ocorrido entre 2011 e 2017».
+_CITATION = re.compile(
+    r"n\.[ºo]s? ?[\w-]+/20\d\d(?:/\w)?|\bde \d{1,2}(?:\.º)? de \w+(?: de 20\d\d)?|\(UE\) (?:n\.º )?20\d\d/\d+|\b20\d\d/\d+(?:/UE|/CE)?"
+    r"|\b\d+(?:-[A-Z])?/20\d\d(?:/UE|/CE|/M|/A)?",
+    re.IGNORECASE,
+)
+_LOOSE_YEAR = re.compile(r"\b20\d\d\b")
+
+
 def temporary_summary(summary: str | None) -> bool:
-    return bool(summary and _TEMPORARY_SUMMARY.search(summary))
+    if not summary:
+        return False
+    summary = summary.replace("\u00ad", "")
+    return bool(_TEMPORARY_SUMMARY.search(summary) or _LOOSE_YEAR.search(_CITATION.sub("", summary)))
 
 
 def limited_text(body: str | None) -> bool:
