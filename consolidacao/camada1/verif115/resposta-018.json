@@ -1,0 +1,565 @@
+[
+ {
+  "id": "pt:dre:493271:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "errado",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b), mas o consolidado deixou a linha solta 'Divisão de Avaliações da Propriedade Urbana.' depois de '(Revogado.)'.",
+    "texto_esperado": "###### Artigo 3.º — (Estrutura)\n\n(Revogado.)"
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DR 4/87 dera nova redacção, mas o DL 408/93, art. 57.º b) revogou-o depois",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "DR 89/84, art. 1.º altera só o ponto III (remete para o n.º 8); n.os 1 a 10, I e II iguais ao original ('...'). Art. 39.º do DR 42/83 não é revogado pelo DL 408/93 (a al. a) do art. 57.º refere o DL 363/78).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "DR 89/84 alterara o artigo, mas o DL 408/93, art. 57.º b) revogou-o depois",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "DR 89/84 alterara o artigo, mas o DL 408/93, art. 57.º b) revogou-o depois",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "DR 20/89 substitui o n.º 5 (n.os 1 a 4 iguais); DL 408/93, art. 57.º b) revoga as alíneas a) e b) do n.º 1.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "DL 408/93, art. 57.º b) revoga as alíneas b) e d); a) e c) iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "SUBSECÇÃO VI",
+    "veredicto": "dúvida",
+    "motivo": "O DR 89/84 apresenta a epígrafe 'SUBSECÇÃO VI — Pessoal técnico superior e técnico' antes do art. 55.º, mas o art. 1.º só lista artigos (39, 40, 47, 55, 66, 108, 109, 118), não a epígrafe da subsecção. O consolidado segue o texto do alterador; instrução implícita.",
+    "texto_esperado": "##### SUBSECÇÃO VI — Pessoal técnico superior (se não se aceitar a epígrafe como alteração) ou '... e técnico' (se se aceitar)"
+   },
+   {
+    "artigo": "Artigo 54.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 55.º",
+    "veredicto": "certo",
+    "motivo": "DR 89/84 alterara o artigo, mas o DL 408/93, art. 57.º b) revogou-o depois",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 56.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 57.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 58.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 59.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 60.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 61.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 62.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 63.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 64.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 65.º",
+    "veredicto": "certo",
+    "motivo": "DR 4/87 dera nova redacção, mas o DL 408/93, art. 57.º b) revogou-o depois",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 66.º",
+    "veredicto": "certo",
+    "motivo": "DR 89/84 alterara o artigo, mas o DL 408/93, art. 57.º b) revogou-o depois",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 76.º",
+    "veredicto": "certo",
+    "motivo": "DR 71/86, art. 1.º dá nova redacção (n.os 1 a 6); consolidado igual letra a letra (art. 76.º não é revogado pelo DL 408/93).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 77.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 79.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 82.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 83.º",
+    "veredicto": "certo",
+    "motivo": "DR 61/87 substitui o n.º 2 (acrescenta directores distritais de finanças); n.º 1 igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 89.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 98.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 99.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 100.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 101.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 102.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 103.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 104.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 105.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93; a revogação da al. a) do n.º 1 pelo DL 132/2019, art. 50.º i) já está satisfeita",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 106.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 107.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 108.º",
+    "veredicto": "certo",
+    "motivo": "DR 89/84 alterara o artigo, mas o DL 408/93, art. 57.º b) revogou-o depois (epígrafe mantida)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 109.º",
+    "veredicto": "certo",
+    "motivo": "DR 89/84 alterara o artigo, mas o DL 408/93, art. 57.º b) revogou-o depois",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 111.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 113.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 114.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 408/93, art. 57.º al. b); epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "DR 89/84, art. 1.º substitui o n.º 1; n.os 2 e 3 iguais ('...'). Não revogado pelo DL 408/93.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Portaria 875/83: distribuição do pessoal do quadro pelos mapas I a III",
+    "motivo": "Não textual: contingenta pessoal sem alterar o texto do original; mapas só em imagem."
+   },
+   {
+    "instrucao": "DR 89/84, art. 2.º: admissão de candidatos excluídos nas provas finais (remete para o art. 47.º, n.os 3 e 4)",
+    "motivo": "Não textual: norma transitória autónoma."
+   },
+   {
+    "instrucao": "DR 89/84, art. 3.º: alteração do mapa I anexo ao original",
+    "motivo": "Texto novo só em imagem; o mapa I do original não tem título de anexo no consolidado (segundo o consolidador, vem no fim do art. 136.º)."
+   },
+   {
+    "instrucao": "Portaria 755/85: aumento do quadro geral com os lugares do mapa I da portaria",
+    "motivo": "Texto só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "DR 71/86, arts. 2.º e 3.º (concurso transitório; entrada em vigor)",
+    "motivo": "Não textual: normas transitórias e de vigência."
+   },
+   {
+    "instrucao": "DR 4/87, art. 2.º (provimento do director de serviços e chefes de divisão)",
+    "motivo": "Não textual: norma autónoma, sem nova redacção de artigo do original."
+   },
+   {
+    "instrucao": "DR 4/87, art. 3.º: aumento do quadro de pessoal dirigente aprovado pelo DR 16/85",
+    "motivo": "Outro diploma (DR 16/85)."
+   },
+   {
+    "instrucao": "DL 408/93, art. 57.º (nova redacção do art. 52.º do original)",
+    "motivo": "O diploma que altera não traz o texto da nova redacção: anuncia-a e passa logo ao art. 57.º; confirmado no texto."
+   },
+   {
+    "instrucao": "DL 408/93, art. 57.º als. a), c) a j): revogações de outros diplomas",
+    "motivo": "Outros diplomas."
+   },
+   {
+    "instrucao": "DL 42/97, art. 1.º (art. 55.º do DL 408/93, n.º 1): nova redacção do art. 52.º do original",
+    "motivo": "Redacção transcrita só com '...' (nem uma alínea com texto); a única palavra nova é a epígrafe 'Nomeação', não verificável aqui por o art. 52.º vir entre os iguais. Sem texto novo."
+   },
+   {
+    "instrucao": "DL 42/97, restantes artigos (DL 408/93, DL 187/90, DL 434/91; arts. 3.º a 11.º)",
+    "motivo": "Outros diplomas ou normas autónomas/transitórias."
+   },
+   {
+    "instrucao": "DL 132/2019, art. 50.º, outras alíneas",
+    "motivo": "Outros diplomas; a al. i) (art. 105.º, n.º 1, al. a) do original) já está satisfeita: art. 105.º revogado por inteiro."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

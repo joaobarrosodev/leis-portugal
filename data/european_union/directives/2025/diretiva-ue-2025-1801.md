@@ -110,6 +110,10 @@ relationships:
   label: null
   source: http://publications.europa.eu/resource/cellar/0bc77576-f66b-11f0-b9bc-01aa75ed71a1
   date: '2026-01-21'
+- type: transposed_by
+  target: pt:dre:300828:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0

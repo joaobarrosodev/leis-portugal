@@ -1,0 +1,265 @@
+[
+ {
+  "id": "pt:dre:264966:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 208/98 art. 2.º: alíneas a) e b) novas, c)-e) originais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 208/98 art. 2.º: n.º 1 e alíneas b), c) (anterior b)), n.º 2 novos; restante '...' original. O ORIGINAL da vista vem vazio (corpo ficou fora do bloco), confirmado pela republicação em anexo do alterador, que coincide",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 1/96 artigo único: redação nova integral, epígrafe 'Coordenação do QCA'",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 208/98 art. 2.º: n.º 3 novo; n.os 1 e 2 originais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 208/98 art. 2.º: alíneas e), g), h) novas; a)-d) e f) originais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 208/98 art. 2.º: n.os 2 e 3 novos (usa 'FSE' como no alterador); n.os 1 e 4 originais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 208/98 art. 2.º: alíneas d), e) novas, f)-k) renumeradas das anteriores e)-j), n.º 4 novo; resto original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 208/98 art. 2.º: redação nova n.os 1 e 2",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DL 208/98 art. 2.º: n.º 1 novo; n.º 2 original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado (DL 208/98 art. 3.º); o texto original do art. 21.º passou a art. 25.º (art. 8.º)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado (DL 208/98 art. 3.º)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado (DL 208/98 art. 3.º); texto original passou a art. 27.º",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado (DL 208/98 art. 3.º); texto original passou a art. 28.º",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 21.º->25.º (art. 8.º); texto do antigo art. 21.º inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 22.º->26.º; texto do antigo art. 22.º inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 23.º->27.º; n.º 2 revogado pelo art. 9.º do DL 208/98 (a ressalva 'sem prejuízo da aplicação às candidaturas a projectos já aprovados' é cláusula transitória, não revogação condicional do texto; a republicação em anexo mantém o n.º 2, o que contraria o art. 9.º); resto original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 24.º->28.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 25.º->29.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 26.º->30.º com n.º 2 novo (art. 4.º); n.º 1 original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 27.º->31.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 28.º->32.º com alínea a) nova (art. 4.º); b) e c) originais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 29.º->33.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 30.º->34.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 31.º->35.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 32.º->36.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 33.º->37.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 34.º->38.º (art. 4.º) com n.º 6 novo; n.os 1-5 originais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 35.º->39.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 36.º->40.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 41.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 37.º->41.º (art. 4.º): n.os 2, 3, 4 b) e c), 5, 6 b) e c) (d) original suprimida, o novo texto só tem a)-c)), 9, 10, 12 novos; n.º 11 é o anterior n.º 10; restante original",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado (DL 208/98 art. 5.º); texto original do antigo 42.º passou a art. 48.º",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado (DL 208/98 art. 5.º); texto original do antigo 43.º passou a art. 49.º",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 44.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 38.º->44.º; texto inalterado (não existia 44.º no original)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 45.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 39.º->45.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 46.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 40.º->46.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 47.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 41.º->47.º; texto inalterado",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º",
+    "veredicto": "certo",
+    "motivo": "Art. 6.º do DL 208/98: antigo 42.º passa a 48.º com redação nova; conforme",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "Renumeração 43.º->49.º; texto inalterado (a assinatura final do original passou para o último artigo)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado (DL 208/98 art. 7.º)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 51.º",
+    "veredicto": "certo",
+    "motivo": "Artigo aditado (DL 208/98 art. 7.º); fecho do diploma (Visto e aprovado, etc.) transposto do original para o último artigo",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 2/2003 arts. 1.º a 11.º: extinção do Departamento para os Assuntos do FSE e da Comissão de Coordenação do FSE e sucessão pelo Instituto de Gestão do FSE",
+    "motivo": "não textual: extinção e sucessão de organismos, sem nova redação nem substituição de designação nos artigos do DL 99/94"
+   },
+   {
+    "instrucao": "DL 208/98 art. 9.º, parte final: revogação do Decreto-Lei n.º 59/96",
+    "motivo": "instrução de outro diploma"
+   },
+   {
+    "instrucao": "DL 208/98 art. 10.º n.º 2: republicação em anexo",
+    "motivo": "não textual: determina a republicação"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (o fecho 'Visto e aprovado...' foi do art. 43.º original para o último artigo, 51.º)"
+ }
+]

@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-09-27'
+version_history:
+  file: decreto-regulamentar-71-c-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-09-27'
+    amending: pt:dre:375264:por
+    amending_title: Decreto Regulamentar n.º 63/82
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 15.º
+    - Revoga Artigo 16.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:01:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 63/82. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1979/decreto-regulamentar-71-c-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +157,7 @@ Não obstante já se encontrarem em curso estudos prévios que visam essa reestr
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º — (Estrutura orgânica)
+###### Artigo 1.º — (Estrutura orgânica)
 
 São criadas nas direcções de serviços adiante nomeadas as secções de apoio e de execução técnica seguintes:
 
@@ -264,11 +281,11 @@ Secção de Codificação da Informação.
 
 Secção de Validação da Informação.
 
-###### ARTIGO 2.º — (Quadro do pessoal)
+###### Artigo 2.º — (Quadro do pessoal)
 
 O quadro do pessoal do Instituto Nacional de Estatística passa a ser o que consta do mapa anexo a este decreto e dele faz parte integrante.
 
-###### ARTIGO 3.º — (Pessoal dirigente)
+###### Artigo 3.º — (Pessoal dirigente)
 
 1 - Os cargos de presidente e vogal do conselho de direcção são equiparados, respectivamente, a director-geral e subdirector-geral.
 
@@ -286,19 +303,21 @@ b) Indivíduos possuidores de curso superior e experiência adequada.
 
 6 - Os lugares de chefe de delegação, equiparados a chefe de repartição, serão providos de entre:
 
-a) Técnicos de estatística principal ou de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
+a) (Revogada.)
 
 b) Chefes de secção com o mínimo de três anos de bom e efectivo serviço na categoria;
 
 c) Indivíduos possuidores de curso superior e experiência adequada.
 
-###### ARTIGO 4.º — (Carreiras técnicas superiores)
+> Alterado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27.
+
+###### Artigo 4.º — (Carreiras técnicas superiores)
 
 1 - Os lugares das carreiras técnicas superiores de estatística e de jurista são providos nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 2 - Os lugares de bibliotecário-arquivista são providos nos termos previstos no [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
-###### ARTIGO 5.º — (Chefe de secção)
+###### Artigo 5.º — (Chefe de secção)
 
 Os lugares de chefe de secção serão providos de entre:
 
@@ -306,35 +325,35 @@ a) Primeiros-oficais, técnicos auxiliares principais e agentes de censos e inqu
 
 b) Indivíduos habilitados com curso superior adequado.
 
-###### ARTIGO 6.º — (Carreira de topógrafo)
+###### Artigo 6.º — (Carreira de topógrafo)
 
 1 - Os lugares de topógrafo principal e de 1.ª classe serão providos, mediante provas de selecção, de entre, respectivamente, topógrafos de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de topógrafo de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário e comprovada experiência profissional.
 
-###### ARTIGO 7.º — (Carreira de técnico auxiliar)
+###### Artigo 7.º — (Carreira de técnico auxiliar)
 
 1 - Os lugares de técnico auxiliar principal e de 1.ª classe serão providos, mediante provas de selecção, de entre, respectivamente, técnicos auxiliares de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário.
 
-###### ARTIGO 8.º — (Carreira de agente de censos e inquéritos)
+###### Artigo 8.º — (Carreira de agente de censos e inquéritos)
 
 1 - Os lugares de agente de censos e inquéritos principal e de 1.ª classe serão providos, mediante provas de selecção, de entre, respectivamente, agentes de censos e inquéritos de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de agente de censos e inquéritos de 2.ª classe serão providos, mediante provas de selecção, de entre indivíduos habilitados com o curso geral do ensino secundário.
 
-###### ARTIGO 9.º — (Carreira de desenhador)
+###### Artigo 9.º — (Carreira de desenhador)
 
 1 - Os lugares de desenhador principal e de 1.ª classe serão providos de entre, respectivamente, desenhadores de 1.ª classe e de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de desenhador de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário, sendo dada preferência aos que possuam experiência ou formação específica para as funções a que se destinam.
 
-###### ARTIGO 10.º — (carreira de operador de microfilmagem)
+###### Artigo 10.º — (carreira de operador de microfilmagem)
 
 O provimento na carreira de operador de microfilmagem será feito nos mesmos termos da carreira de desenhador.
 
-###### ARTIGO 11.º — (Carreira administrativa)
+###### Artigo 11.º — (Carreira administrativa)
 
 1 - Os lugares de primeiro-oficial e segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral do ensino secundário e terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
@@ -342,31 +361,35 @@ O provimento na carreira de operador de microfilmagem será feito nos mesmos ter
 
 3 - O provimento nos lugares de escriturário-dactilógrafo far-se-á nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 12.º — (Tesoureiro)
+###### Artigo 12.º — (Tesoureiro)
 
 1 - O lugar de tesoureiro de 1.ª classe será provido de entre segundos-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 2 - O lugar de tesoureiro de 2.ª classe será provido de entre terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
-###### ARTIGO 13.º — (Carreiras operárias)
+###### Artigo 13.º — (Carreiras operárias)
 
 O provimento nas categorias de impressor de offset, dactilógrafo-compositor, mecânico e litografo de offset será feito de acordo com o disposto na portaria a que se refere o n.º 6 do artigo 14.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 14.º — (Pessoal auxiliar)
+###### Artigo 14.º — (Pessoal auxiliar)
 
 Os lugares de encarregado de pessoal auxiliar, motorista, telefonista, contínuo, guarda e auxiliar de limpeza serão providos nos termos da lei geral.
 
-###### ARTIGO 15.º — (Intercomunicabilidade de carreiras)
+###### Artigo 15.º — (Intercomunicabilidade de carreiras)
 
 1 - Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as carreiras da mesma área funcional deverão constar do respectivo aviso de abertura do concurso.
 
-2 - Os técnicos de estatística principal poderão transitar para técnico superior de estatística de 1.ª classe, mediante provas de selecção que impliquem a avaliação de conhecimentos de nível superior.
+2 - (Revogado.)
 
-###### ARTIGO 16.º — (Carreira a extinguir)
+> Alterado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27.
 
-A carreira de técnico de estatística extinguir-se-á à medida que forem os lugares vagando em resultado da normal progressão na carreira.
+###### Artigo 16.º — (Carreira a extinguir)
 
-###### ARTIGO 17.º — (Primeiro provimento)
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 63/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1982-375264), publicado em 1982-09-27.
+
+###### Artigo 17.º — (Primeiro provimento)
 
 1 - Até 31 de Dezembro de 1979, o provimento dos lugares do quadro de pessoal anexo ao presente diploma poderá fazer-se de entre o pessoal que à data da entrada em vigor deste decreto se encontre vinculado a qualquer título ao Instituto Nacional de Estatística, sem prejuízo das habilitações estabelecidas, de acordo com as seguintes regras:
 
@@ -388,15 +411,15 @@ d) Para categoria correspondente às funções que o funcionário ou agente actu
 
 6 - O tempo exigido para o provimento nos termos da alínea b) do n.º 1 poderá ser reduzido de um ano se um funcionário tiver classificação de serviço Bom.
 
-###### ARTIGO 18.º — (Dúvidas de aplicação)
+###### Artigo 18.º — (Dúvidas de aplicação)
 
 As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto do Ministro da Coordenação Económica e do Plano e do Ministro das Finanças e do Secretário de Estado da Administração Pública de acordo com as respectivas competências.
 
-###### ARTIGO 19.º — (Produção de efeitos)
+###### Artigo 19.º — (Produção de efeitos)
 
 O presente diploma produz efeitos desde 1 de Agosto de 1979.
 
-###### ARTIGO 20.º — (Entrada em vigor)
+###### Artigo 20.º — (Entrada em vigor)
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 

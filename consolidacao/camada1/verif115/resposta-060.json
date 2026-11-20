@@ -1,0 +1,136 @@
+[
+ {
+  "id": "pt:dre:632207:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do art. 2.º conforme DL Reg. 9/99 art. 1.º (epígrafe 'Carta', n.os 1 e 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "Alínea a), r) a v) e n.º 2 conforme DR 9/99; alíneas b) a q) e n.º 3 mantidas do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado ao regulamento pelo DR 9/99 art. 2.º, texto igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DR 9/99, art. 2.º: aditamento ao regulamento do anexo IV (critérios para apreciação de projectos de edificação) cujo texto vem completo no diploma que altera; não consta do consolidado (o alvo é conhecido: novo ANEXO IV do regulamento, a seguir ao anexo III; 'alvo incerto' não justifica)."
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 9/99, art. 2.º: aditamento do anexo III (carta de gestão)",
+    "motivo": "Confirmado: o anexo III só vem em imagem/PDF e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "DR 9/99, art. 3.º: revogação da Portaria n.º 323/95",
+    "motivo": "Confirmado: instrução de outro diploma."
+   },
+   {
+    "instrucao": "RCM 19/2008: medidas preventivas e suspensão do Plano de Ordenamento em certas áreas",
+    "motivo": "Confirmado: suspensão/medidas preventivas, sem nova redação do texto."
+   },
+   {
+    "instrucao": "RCM 13/2010: prorrogação por um ano das medidas preventivas e da suspensão",
+    "motivo": "Confirmado: prorrogação, não textual."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações (salvo anexos III e IV, ver instruções)"
+ },
+ {
+  "id": "pt:dre:632220:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 e 4 novos e antigo n.º 3 passa a n.º 5, conforme Lei 5/83.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "N.º 6 aditado pela Lei 27/79; n.os 1 a 5 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Redação da Lei 86/77 art. 3.º (alínea b) nova, n.os 2 e 3 novos; alínea a) mantida), incluindo a gralha 'Púbicas' do diploma.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 conforme Lei 27/79; n.º 1 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Redação integral da Lei 5/83 (n.os 1 a 4), que substitui as de 86/77 e 27/79.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "N.os 4 e 5 novos conforme Lei 5/83 (o antigo n.º 4, transitório de 1977, é substituído); n.os 1 a 3 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Conforme Lei 27/79: texto antigo passa a n.º 1 e aditado o n.º 2.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "N.os 3 e 4 aditados pela Lei 27/79; n.os 1 e 2 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Conforme Lei 27/79: texto antigo passa a n.º 1 e aditados n.os 2 e 3.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 conforme Lei 5/83; n.os 2 a 6 mantidos.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 86/77, art. 1.º: prorroga até 17/12/1977 o prazo do n.º 7 do art. 19.º",
+    "motivo": "Confirmado: prorrogação de prazo, sem nova redação."
+   },
+   {
+    "instrucao": "Lei 86/77, art. 5.º: organograma do n.º 1 do art. 3.º e quadro do art. 17.º substituídos pelos anexos da lei",
+    "motivo": "Confirmado: anexos só em imagem/PDF e o consolidado não tem anexo com título onde os pôr."
+   },
+   {
+    "instrucao": "Lei 86/77, art. 4.º: membros do conselho administrativo mantêm-se em funções até nova designação",
+    "motivo": "Norma autónoma, não dirige instrução de alteração a artigo do original."
+   },
+   {
+    "instrucao": "DL 148/89, art. 5.º: revoga o DL 305/82 e a remissão do n.º 3 do art. 2.º passa a entender-se feita ao art. 1.º do DL 148/89",
+    "motivo": "Confirmado: revogação de outro diploma e reinterpretação de remissão, sem nova redação do n.º 3."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

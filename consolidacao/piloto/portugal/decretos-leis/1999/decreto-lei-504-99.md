@@ -262,36 +262,12 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — MAPA A
 
-Mapa a que se refere o n.º 1 do artigo 11.º
+(Revogado.)
 
-[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
-
-MAPA B
-
-Mapa a que se refere o n.º 1 do artigo 11.º
-
-[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
-
-MAPA C
-
-Mapa a que se refere o n.º 1 do artigo 11.º
-
-[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
+> Alterado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.
 
 ## ANEXO II — MAPA A
 
-Mapa a que se refere o n.º 4 do artigo 11.º
+(Revogado.)
 
-[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
-
-MAPA B
-
-Mapa a que se refere o n.º 4 do artigo 11.º
-
-[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
-
-MAPA C
-
-Mapa a que se refere o n.º 4 do artigo 11.º
-
-[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)](https://files.diariodarepublica.pt/1s/1999/11/271a00/82568261.pdf)
+> Alterado pelo/a [Decreto-Lei n.º 298/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2009-491436), publicado em 2009-10-14.

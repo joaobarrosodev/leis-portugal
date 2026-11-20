@@ -620,6 +620,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:618169:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:640639:por
   label: null
   source: null

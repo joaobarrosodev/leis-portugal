@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "40.º",
+    "operacao": "revogar",
+    "regra": "llm",
+    "antes": "###### Artigo 40.º\n\n1. Considera-se transitòriamente delegada no Gabinete da Área de Sines a competência das câmaras municipais dos concelhos abrangidos pela sua zona de actuação directa, no que se refere à mesma zona, em matérias de urbanização e de licenciamento de obras e aprovação dos respectivos projectos.\n\n2. Para esse fim, os serviços adequados do Gabinete funcionarão como serviços técnicos daquelas câmaras municipais, no que respeita às matérias e à zona a que se refere o número anterior.\n\n3. O Gabinete poderá prestar às mesmas câmaras municipais o apoio técnico que se mostre conveniente, para além do previsto no número anterior.\n\n4. O regime transitório estabelecido nos números antecedentes será revogado logo que tal se mostre possível, pelo estado de adiantamento da execução dos planos e pela adaptação dos serviços das câmaras municipais às necessidades resultantes do desenvolvimento das respectivas áreas.",
+    "depois": "###### Artigo 40.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 155/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1987-666528), publicado em 1987-03-30.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:643342:por",
+    "alterador": "pt:dre:666528:por"
+  }
+]

@@ -2,17 +2,29 @@
   "id": "pt:dre:629160:por",
   "artigos": [],
   "removidos": [],
-  "nao_aplicavel": "Todas as instruções dirigidas ao original incidem sobre as bases da concessão do anexo (base 10 pelo alterador 1; bases 2, 3, 5, 6, 7, 10, 12, 22, 33, 60, 61, 66 e 79 alteradas, bases 2-A, 7-A, 12-A, 35-A, 41-A e 63-A e quadro IV aditados, n.º 3 da base 19 e números das bases 61 e 66 revogados pelo alterador 2; bases 2 e 3 pelo alterador 3). O texto atual recebido só tem os artigos 1.º a 8.º, sem o anexo, pelo que não há texto para preencher os \"[...]\"/\"...\" nem chaves de anexo conhecidas; a base 60 inclui ainda um quadro só em imagem. Não aplicado.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Bases da concessão",
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0306103099.pdf)",
+      "alterador": 2
+    }
+  ],
+  "nao_aplicavel": "Alterador 3, nova redação das bases 2 e 3 do anexo I: alvo incerto: as bases não estão no texto atual (o corpo do anexo I fica só com a imagem da republicação feita pelo Decreto-Lei n.º 110/2009) e a alteração é parcial («...», «[Anterior alínea ...]»), sem imagem nova onde a aplicar",
   "instrucoes": [
-    "Alterador 1, art. 1.º: nova redação da base 10 do anexo; anexo ausente do texto atual, não aplicado.",
-    "Alterador 2, art. 1.º: altera o artigo 7.º do Decreto-Lei n.º 374/2007 (outro diploma); ignorado.",
-    "Alterador 2, art. 2.º: altera as bases 2, 3, 5, 6, 7, 10, 12, 22, 33, 60, 61, 66 e 79 do anexo; anexo ausente, não aplicado.",
-    "Alterador 2, art. 3.º: adita as bases 2-A, 7-A, 12-A, 35-A, 41-A e 63-A e o quadro IV ao anexo; anexo ausente e chave de anexo desconhecida, não aplicado.",
-    "Alterador 2, art. 5.º: n.º 1 revoga normas do Decreto-Lei n.º 374/2007 (ignorado); n.º 2 revoga números das bases 19, 61 e 66 do anexo (não aplicado).",
-    "Alterador 2, art. 6.º: republicação das bases em anexo, só em imagem/PDF; não usada.",
-    "Alterador 3, art. 1.º: altera as bases 2 e 3 do anexo; anexo ausente, não aplicado."
+    "Alterador 1 (Lei 13/2008), art. 1.º: nova redação da base 10 do anexo; as bases não estão no texto atual (corpo do anexo I vazio); fica absorvida na republicação do anexo pelo alterador 2",
+    "Alterador 1, art. 2.º: produção de efeitos; não textual",
+    "Alterador 2 (DL 110/2009), art. 1.º e art. 5.º n.º 1: alteram o Decreto-Lei n.º 374/2007; outro diploma, ignorados",
+    "Alterador 2, art. 2.º, art. 3.º e art. 5.º n.º 2: nova redação das bases 2, 3, 5, 6, 7, 10, 12, 22, 33, 60, 61, 66 e 79, aditamento das bases 2-A, 7-A, 12-A, 35-A, 41-A, 63-A e do quadro IV, revogações nas bases 19, 61 e 66; as bases não existem no texto atual; ficam contidas na republicação",
+    "Alterador 2, art. 6.º: republicação das bases em anexo, só em imagem; o corpo do anexo I passa a ser a linha da imagem do alterador",
+    "Alterador 2, art. 4.º e 7.º: outorga do contrato e entrada em vigor/efeitos; não alteram o texto",
+    "Alterador 3 (DL 44-A/2010), art. 1.º: nova redação parcial das bases 2 e 3; não aplicada (ver nao_aplicavel)",
+    "Alterador 3, art. 2.º e 3.º: outorga e entrada em vigor; não alteram o texto"
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

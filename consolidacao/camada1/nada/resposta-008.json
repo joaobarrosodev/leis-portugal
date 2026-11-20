@@ -1,0 +1,256 @@
+[
+ {
+  "id": "pt:dre:657446:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 290/2000, art. 1.º, letra a letra (revoga implicitamente a al. c) do n.º 2 do DL 263/97 e substitui os n.os 1 e 2).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 290/2000, art. 1.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 263/97, art. 2.º, letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 3.º do DL 263/97; epígrafe mantida e corpo '(Revogado.)'.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DR 11/95 (orgânica da DGIE, ao abrigo do art. 23.º, n.º 1)",
+    "motivo": "Não textual: regulamenta o original sem lhe mudar o texto (texto do alterador omitido, resumo da triagem)."
+   },
+   {
+    "instrucao": "DR 12/95 (orgânica da DGAED, extinção de serviços)",
+    "motivo": "Não textual: regulamenta o original sem lhe mudar o texto (texto omitido)."
+   },
+   {
+    "instrucao": "DL 23/96, arts. 1.º a 8.º",
+    "motivo": "Instruções dirigidas a outro diploma (DL 296-A/95, Lei Orgânica do Governo); não são do original."
+   },
+   {
+    "instrucao": "DL 263/97, art. 1.º: mudança de denominação do Conselho de Ciência e Tecnologia de Defesa para Conselho Consultivo de Tecnologias de Defesa",
+    "motivo": "Não textual: mudança de designação sem nova redação; o artigo 18.º fica revogado e o novo nome já consta do n.º 3 do artigo 14.º."
+   },
+   {
+    "instrucao": "DL 290/2000, art. 2.º: nova redação do mapa anexo a que se refere o n.º 2 do artigo 20.º",
+    "motivo": "O texto novo só vem em imagem (ligação a PDF) e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "DL 290/2000, arts. 3.º e 4.º",
+    "motivo": "Normas autónomas (regulamentação futura e transição de dirigentes da DGP), sem alterar o texto do original."
+   },
+   {
+    "instrucao": "DL 122/2011 (art. 33.º) e DL 183/2014 (art. 30.º): revogação das normas dos decretos-leis das orgânicas dos serviços do MDN, com efeito na entrada em vigor dos decretos regulamentares sucessores",
+    "motivo": "Efeito adiado para facto futuro e sem identificar artigos; texto do alterador omitido na vista por a triagem não lhe achar texto para o original."
+   },
+   {
+    "instrucao": "DL 122/2011 (art. 34.º) e DL 183/2014 (art. 31.º, n.º 1): mantêm-se em vigor os artigos 21.º e 22.º do DL 47/93",
+    "motivo": "Não textual: não altera o texto, apenas mantém em vigor."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:662487:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 16/2013, art. 5.º, n.º 1, al. a): revoga os n.os 2 e 3 do artigo 18.º e o artigo 19.º do DL 96/87",
+    "motivo": "Revogação condicional («na parte em que contrariem o disposto no presente decreto-lei»); não se aplica ao texto."
+   },
+   {
+    "instrucao": "DL 16/2013, art. 5.º, n.º 2: revoga as demais normas que contrariem o decreto-lei",
+    "motivo": "Revogação condicional, sem indicar preceitos."
+   },
+   {
+    "instrucao": "DL 16/2013, art. 5.º, n.º 1, als. b) a g)",
+    "motivo": "Instruções dirigidas a outros diplomas; não são do original."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:66773610:por",
+  "artigos": [],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 12/2022: alargamento de prazos da al. f) do art. 3.º da Lei 8/2012 republicada",
+    "motivo": "O diploma que altera não traz o texto da alteração (vazio na vista); alvo também de outro diploma (Lei 8/2012)."
+   },
+   {
+    "instrucao": "Portaria 278/2026/2",
+    "motivo": "Outro diploma: só altera a Portaria 87/2025/2; a Lei 22/2015 aparece só na habilitação («ao abrigo de»)."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:684579:por",
+  "artigos": [
+   {
+    "artigo": "(preâmbulo)",
+    "veredicto": "certo",
+    "motivo": "Preâmbulo do original sem alterações (o corpo dos artigos foi apenas separado em artigos no consolidado).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Artigo repartido a partir do texto inteiro do original (que vem todo no preâmbulo); texto igual ao original, parágrafo a parágrafo; nenhuma instrução do alterador o atinge.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Decreto do Governo 29/83, artigo único: aditamento do n.º 4 ao artigo 4.º do «Decreto-Lei n.º 80/73, de 9 de Fevereiro»",
+    "motivo": "Instrução de outro diploma: o considerando refere as dúvidas na aplicação do art. 4.º do Decreto-Lei n.º 80/83, de 9 de Fevereiro, e o número novo trata dos «titulares dos respectivos cursos»; o DL 80/73 é de 2 de Março e o seu art. 4.º é sobre a exploração ferroviária (gralha 80/73 por 80/83)."
+   }
+  ]
+ }
+]

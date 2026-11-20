@@ -1,0 +1,218 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222226:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-10-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e183e8854999f6d7"
+   ]
+  },
+  {
+   "date": "1988-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:419654:por",
+     "title": "Lei n.º 24/87",
+     "published": "1987-06-24",
+     "dre_path": "/dr/detalhe/lei/24-1987-419654"
+    },
+    {
+     "id": "pt:dre:374472:por",
+     "title": "Lei n.º 72/88",
+     "published": "1988-05-26",
+     "dre_path": "/dr/detalhe/lei/72-1988-374472"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "7dd1a5e0e5926434",
+    "122a6a02fbb708c6",
+    "e2ca4f13d88f88f0",
+    "ad9592895acbdd4e",
+    "3cfa292d051bbe03",
+    "672a7fb245459f47",
+    "337be836e1458e5a",
+    "8695b12e4dde1bf6",
+    "05cb9cc931cdc9cd",
+    "5fa0847b97ff7759",
+    "6c24c5ddd40d989a",
+    "74700c45bd493e28",
+    "6fe07992bd8da6bc",
+    "d2f7321f0eeae115",
+    "fd5123f86da52b0c"
+   ]
+  }
+ ],
+ "fragments": {
+  "e183e8854999f6d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Outubro\n\nNa área da comunicação social estabelece o Programa do Governo que constitui objectivo prioritário de actuação a diminuição do excessivo peso do Estado no sector, apontando como ideal, numa perspectiva de médio prazo, que no sector público existam tão-somente um canal de televisão, um canal de rádio, um jornal diário e uma agência noticiosa.\n\nA definição destes objectivos radica, por um lado, no entendimento de que numa sociedade democrática e europeia como a nossa o Estado não deve ser proprietário de um sector público de comunicação social tão vasto como o que existe no nosso país, sem perder de vista, outrossim, que esta situação, não consciente ou deliberadamente construída para ser como é, mas antes indirectamente adquirida por força de nacionalizações operadas noutros sectores, vem consumindo ao erário público muitos milhões de contos, que importa canalizar, prioritária e preferencialmente, para as tarefas nacionais que se integram na verdadeira função social e pública que ao Estado incumbe prosseguir.\n\nNa sequência de algumas medidas tomadas pelo Governo e de outras anunciadas, tendo em vista a concretização daquele desiderato, a Assembleia da República aprovou a [Lei n.º 20/86](https://diariodarepublica.pt/dr/detalhe/lei/20-1986-227845), de 21 de Julho, através da qual ficou o Governo incumbido de regular, no prazo de 60 dias e por decreto-lei, o regime disciplinador das alienações a efectuar neste sector específico da vida nacional.\n\nA mencionada lei contém normas e princípios gerais a observar pelo Governo no tocante à actuação a seguir com vista à concretização dos aludidos objectivos, quer no concernente, por um lado, a alienações de participações do Estado ou de qualquer entidade pública em empresas de comunicação social, quer, por outro lado, no respeitante a alienações de títulos, bens ou instalações que integram as próprias empresas públicas do sector.\n\nO presente diploma, decorrente da aplicação da citada lei, onde a mesma exige a competente regulamentação, visa, justamente, definir o regime jurídico das alienações a efectuar, disciplinando a forma de consulta e intervenção dos trabalhadores, nos termos dos imperativos constitucionais, as regras dos concursos a realizar, as condições preferenciais de aquisição, as garantias tendentes à salvaguarda dos órgãos jornalísticos como espaços privilegiados da liberdade e pluralismo das diversas correntes de opinião e o modo de transmissão da titularidade das participações, quotas, acções, títulos ou bens a alienar.\n\nAssim, ao abrigo do disposto no artigo 2.º da [Lei n.º 20/86](https://diariodarepublica.pt/dr/detalhe/lei/20-1986-227845), de 21 de Julho, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArt. 1.º - 1 - As partes, quotas ou acções que o Estado ou qualquer entidade pública detenha em empresas de comunicação social são alienáveis nos termos do presente diploma.\n\n2 - São igualmente susceptíveis de alienação os títulos dos órgãos jornalísticos das empresas referidas no número anterior, bem como o conjunto de bens e instalações que integram o respectivo estabelecimento comercial.\n\nArt. 2.º - 1 - É igualmente legítima, desde que observado o disposto no presente diploma, a alienação, oneração ou reforço do capital das empresas públicas de comunicação social.\n\n2 - A alienação do capital de empresas públicas de comunicação social a que se refere o número anterior poderá revestir a modalidade de transformação em sociedades anónimas de responsabilidade limitada.\n\n3 - Igual procedimento poderá adoptar-se previamente quando se considerar necessário ou conveniente proceder à oneração ou reforço do capital de empresas públicas de comunicação social.\n\n4 - No caso previsto no n.º 2 deste artigo, bem como no reforço de capital pela forma prevista no n.º 3, conceder-se-á prioridade na subscrição das respectivas acções, e pela ordem aí mencionada, às sociedades e empresas referidas no n.º 1 do artigo 8.º do presente diploma.\n\nArt. 3.º - 1 - A alienação de bens ou instalações de empresas do sector público de comunicação social será também efectuada por concurso público sempre que o seu valor seja igual ou superior a 20% do activo imobilizado das respectivas empresas.\n\n2 - Quando a alienação respeite a bens ou instalações de valor inferior a 20% do activo imobilizado das respectivas empresas, a mesma efectuar-se-á por concurso limitado ou, se este ficar deserto, por negociação directa.\n\n3 - Adoptado o concurso limitado, deve o respectivo despacho fixar o prazo até ao termo do qual qualquer pessoa, singular ou colectiva, pode igualmente apresentar propostas.\n\nArt. 4.º - 1 - Compete ao Governo decidir, mediante resolução, dos actos previstos nos artigos precedentes.\n\n2 - A execução do previsto no número anterior será objecto, caso a caso, de despacho a publicar no Diário da República, proferido pelo membro do Governo da tutela e acompanhado, quando for caso disso, do regulamento do concurso a que se refere o número seguinte.\n\n3 - Os actos de alienação efectuar-se-ão mediante prévio concurso público, o qual se regulará pelas normas gerais legalmente aplicáveis e obedecerá aos normativos consignados no presente diploma.\n\nArt. 5.º - 1 - O concurso público é precedido de audição dos trabalhadores, através da comissão de trabalhadores da respectiva empresa pública, não só para emissão do parecer a que se refere o artigo 24.º da [Lei n.º 46/79](https://diariodarepublica.pt/dr/detalhe/lei/46-1979-369580), de 12 de Setembro, mas também para efeitos de eventual exercício dos direitos consagrados no n.º 3 do artigo 83.º da Constituição da República.\n\n2 - A audição referida no número anterior será efectuada pelo respectivo membro do Governo da tutela mediante comunicação escrita, que será acompanhada do projecto de regulamento do aludido concurso.\n\nArt. 6.º Do referido regulamento do concurso terão de constar obrigatoriamente, pelo menos, os elementos seguintes:\n\na) Prazo para a apresentação das respectivas propostas, o qual não poderá ser inferior a 30 nem superior a 60 dias;\n\nb) Base de licitação;\n\nc) Identificação do objecto de alienação;\n\nd) Fixação da caução provisória a prestar pelos concorrentes, através de depósito ou garantia bancária, de montante correspondente até 10% do valor da base de licitação;\n\ne) Indicação da data e local da abertura das propostas e menção do prazo máximo, não superior a 30 dias, para a decisão da adjudicação;\n\nf) Indicação concreta dos prazos e demais condições de pagamento;\n\ng) Indicação dos documentos a apresentar pelos concorrentes;\n\nh) Menção dos diplomas legais aplicáveis à alienação e ao respectivo concurso.\n\nArt. 7.º - 1 - São condições necessárias e imperativas impostas aos candidatos ao concurso público exigido para as alienações de partes, quotas ou acções que o Estado ou entidades públicas possuam em empresas de comunicação social, e bem assim dos títulos dos órgãos jornalísticos de empresas do sector público, sempre que da alienação possa resultar reprivatização do órgão ou da maioria do capital da respectiva empresa:\n\na) Aceitação expressa de um estatuto editorial assegurando uma orientação redactorial que salvaguarde a independência, isenção, objectividade e rigor na informação veiculada, preservando a possibilidade de expressão e confronto das diversas correntes de opinião e pensamento;\n\nb) Exposição curricular demonstrativa de experiência e capacidade de gestão empresarial, designadamente no sector da comunicação social;\n\nc) Compromisso de não alienação, transacção, cedência, gratuita ou onerosa, da participação ou bens adquiridos pelo concurso antes de decorridos dois anos sobre a celebração do contrato, salvo comprovado motivo de força maior.\n\n2 - Ficam excluídas do concurso as pessoas, singulares ou colectivas, que detenham participação no capital de mais que uma empresa jornalística, salvo quando se trate de alienação de bens de equipamento ou instalações.\n\nArt. 8.º - 1 - Nos concursos públicos a que se refere o presente diploma beneficiarão de preferência sobre outras candidaturas, pela ordem indicada, as propostas apresentadas por:\n\na) Cooperativas constituídas por jornalistas ou por jornalistas e outros profissionais de comunicação social em que os cooperantes sejam simultaneamente trabalhadores na sociedade;\n\nb) Sociedades cujo capital seja maioritariamente detido por profissionais de comunicação social;\n\nc) Empresas de comunicação social cujo estatuto expressamente disponha ser a orientação redactorial e as nomeações para chefias da redacção da responsabilidade dos seus jornalistas;\n\nd) Outras empresas de comunicação social com, pelo menos, três anos de actividade permanente;\n\ne) Empresas editoriais, gráficas ou similares.\n\n2 - Os concorrentes referidos no número anterior poderão beneficiar de prazos próprios de pagamento, até ao máximo de cinco anos de condições especiais de liquidação em prestações, e de um período inicial de carência, não superior a um ano, de acordo com normas expressas no regulamento do concurso.\n\nArt. 9.º - 1 - Todos os pareceres que sejam solicitados sobre a matéria versada neste diploma devem ser emitidos no prazo máximo de 30 dias, considerando-se favoráveis sempre que as entidades consultadas os não apresentem no referido prazo.\n\n2 - Igual prazo de 30 dias se aplica quanto ao exercício dos direitos conferidos aos trabalhadores no artigo 83.º da Constituição, considerando-se, no entanto, como não se pretendendo exercê-los se decorrido o prazo nenhuma decisão for presente ao membro do Governo da tutela.\n\n3 - Em caso de opção favorável, os trabalhadores da respectiva empresa poderão efectuar a aquisição, nos termos do preceito constitucional anteriormente referido, pelo preço base de licitação, utilizando as facilidades máximas fixadas para o pagamento.\n\nArt. 10.º Do despacho a que se refere o n.º 2 do artigo 4.º constará obrigatoriamente a menção dos pareceres solicitados, bem como da audição dos trabalhadores e dos resultados de tais diligências, e será acompanhado da publicação, em anexo, do regulamento do concurso público.\n\nArt. 11.º - 1 - A transmissão da titularidade das participações, quotas, acções ou bens a que se refere o presente diploma far-se-á por simples documento particular, em que intervirão o membro do Governo da tutela e a empresa adjudicatária, através dos seus representantes legais, quando for caso disso.\n\n2 - Esse documento mencionará as condições respectivas e as obrigações legais decorrentes de tal transmissão.\n\n3 - Do referido documento constará ainda a cláusula de reversão a favor do Estado, sem direito a qualquer indemnização, do objecto da alienação se o concorrente adjudicatário não cumprir, culposamente, as obrigações e condições a que se refere o número anterior.\n\n4 - O documento mencionado neste artigo é título bastante para quaisquer registos, equivalendo, para todos os demais efeitos, a escritura pública.\n\nArt. 12.º Em tudo o mais não expressamente previsto aplica-se o disposto na [Lei n.º 20/86](https://diariodarepublica.pt/dr/detalhe/lei/20-1986-227845), de 21 de Julho, e no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, na sua actual redacção.\n\nArt. 13.º O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 28 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira.\n\nPromulgado em 16 de Outubro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 21 de Outubro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "7dd1a5e0e5926434": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Outubro\n\nNa área da comunicação social estabelece o Programa do Governo que constitui objectivo prioritário de actuação a diminuição do excessivo peso do Estado no sector, apontando como ideal, numa perspectiva de médio prazo, que no sector público existam tão-somente um canal de televisão, um canal de rádio, um jornal diário e uma agência noticiosa.\n\nA definição destes objectivos radica, por um lado, no entendimento de que numa sociedade democrática e europeia como a nossa o Estado não deve ser proprietário de um sector público de comunicação social tão vasto como o que existe no nosso país, sem perder de vista, outrossim, que esta situação, não consciente ou deliberadamente construída para ser como é, mas antes indirectamente adquirida por força de nacionalizações operadas noutros sectores, vem consumindo ao erário público muitos milhões de contos, que importa canalizar, prioritária e preferencialmente, para as tarefas nacionais que se integram na verdadeira função social e pública que ao Estado incumbe prosseguir.\n\nNa sequência de algumas medidas tomadas pelo Governo e de outras anunciadas, tendo em vista a concretização daquele desiderato, a Assembleia da República aprovou a [Lei n.º 20/86](https://diariodarepublica.pt/dr/detalhe/lei/20-1986-227845), de 21 de Julho, através da qual ficou o Governo incumbido de regular, no prazo de 60 dias e por decreto-lei, o regime disciplinador das alienações a efectuar neste sector específico da vida nacional.\n\nA mencionada lei contém normas e princípios gerais a observar pelo Governo no tocante à actuação a seguir com vista à concretização dos aludidos objectivos, quer no concernente, por um lado, a alienações de participações do Estado ou de qualquer entidade pública em empresas de comunicação social, quer, por outro lado, no respeitante a alienações de títulos, bens ou instalações que integram as próprias empresas públicas do sector.\n\nO presente diploma, decorrente da aplicação da citada lei, onde a mesma exige a competente regulamentação, visa, justamente, definir o regime jurídico das alienações a efectuar, disciplinando a forma de consulta e intervenção dos trabalhadores, nos termos dos imperativos constitucionais, as regras dos concursos a realizar, as condições preferenciais de aquisição, as garantias tendentes à salvaguarda dos órgãos jornalísticos como espaços privilegiados da liberdade e pluralismo das diversas correntes de opinião e o modo de transmissão da titularidade das participações, quotas, acções, títulos ou bens a alienar.\n\nAssim, ao abrigo do disposto no artigo 2.º da [Lei n.º 20/86](https://diariodarepublica.pt/dr/detalhe/lei/20-1986-227845), de 21 de Julho, o Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "122a6a02fbb708c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - As partes, quotas ou acções que o Estado ou qualquer outra entidade pública detenham em empresas de comunicação social são alienáveis nos termos da Constituição e do presente diploma.\n\n2 - São igualmente susceptíveis de alienação os títulos dos órgãos jornalísticos das empresas referidas no número anterior, bem como o conjunto de bens e instalações que integram o respectivo estabelecimento comercial.\n\n3 - Exceptua-se, em qualquer caso, do disposto no n.º 1 a alienação de partes, quotas ou acções que o Estado ou qualquer outra entidade pública detenha em empresas de comunicação social que tenham por objecto a actividade da radiodifusão ou de radiotelevisão de âmbito nacional.\n\n> Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+  },
+  "e2ca4f13d88f88f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - É igualmente legítima, desde que observado o disposto no presente diploma, a alienação, oneração ou reforço de capital das empresas públicas de comunicação social, bem como a alienação de títulos ou conjunto de bens e instalações que integrem o respectivo estabelecimento comercial.\n\n2 - A alienação, oneração ou reforço de capital de empresas públicas de comunicação social é precedida da respectiva transformação em sociedades anónimas.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+  },
+  "ad9592895acbdd4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º-A",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+   ],
+   "markdown": "###### Artigo 2.º-A\n\n(Revogado.)\n\n> Aditado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+  },
+  "3cfa292d051bbe03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - A alienação de bens ou instalações de empresas públicas de comunicação social será efectuada por concurso público, sempre que o seu valor seja igual ou superior a 20% do activo imobilizado das respectivas empresas.\n\n2 - Quando a alienação respeite a bens ou instalações de valor inferior a 20% do activo imobilizado das respectivas empresas, a mesma efectuar-se-á por concurso limitado ou, se este ficar deserto, por negociação directa.\n\n3 - Adoptado o concurso limitado, deve o respectivo despacho fixar o prazo até ao termo do qual qualquer pessoa, singular ou colectiva, pode igualmente apresentar propostas.\n\n> Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+  },
+  "672a7fb245459f47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Compete ao Governo decidir, mediante resolução, dos actos previstos nos artigos precedentes.\n\n2 - A decisão do Governo reveste a forma de decreto-lei sempre que dela resulte a constituição, a extinção de uma empresa pública de comunicação social ou a sua transformação em sociedade anónima.\n\n3 - A execução do previsto no n.º 1 será objecto, caso a caso, de despacho a publicar no Diário da República, proferido pelo membro do Governo que exerce a tutela e acompanhado, quando for caso disso, do regulamento do concurso a que se refere o número seguinte.\n\n4 - Os actos de alienação efectuar-se-ão mediante prévio concurso público, o qual se regulará pelas normas gerais legalmente aplicáveis e obedecerá aos normativos consignados no presente diploma.\n\n5 - Para efeitos do número anterior, são equiparados a actos de alienação os actos de concessão ou cessão de exploração a qualquer título.\n\n> Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+  },
+  "337be836e1458e5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 24/87](https://diariodarepublica.pt/dr/detalhe/lei/24-1987-419654), publicado em 1987-06-24."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O concurso público é precedido de audição dos trabalhadores, através da comissão de trabalhadores da respectiva empresa pública, não só para emissão do parecer a que se refere o artigo 24.º da [Lei n.º 46/79](https://diariodarepublica.pt/dr/detalhe/lei/46-1979-369580), de 12 de Setembro, mas também para efeitos de eventual exercício dos direitos consagrados no n.º 2 do artigo 83.º da Constituição.\n\n2 - A audição referida no número anterior será efectuada pelo respectivo membro do Governo da tutela mediante comunicação escrita, com aviso de recepção, que será acompanhada do projecto de regulamento do aludido concurso.\n\n> Alterado pelo/a [Lei n.º 24/87](https://diariodarepublica.pt/dr/detalhe/lei/24-1987-419654), publicado em 1987-06-24."
+  },
+  "8695b12e4dde1bf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Do regulamento do concurso referido no artigo 3.º terão de constar obrigatoriamente, pelo menos, os elementos seguintes:\n\na) O prazo para apresentação das respectivas propostas, o qual não poderá ser inferior a 30 nem superior a 60 dias;\n\nb) A base de licitação;\n\nc) A identificação do objecto de alienação;\n\nd) A fixação da caução provisória a prestar pelos candidatos, através de depósito ou garantia bancária, de montante correspondente a 10% do valor da base de licitação;\n\ne) A indicação da data e local da abertura das propostas e menção do prazo máximo, não superior a 30 dias, para a decisão da adjudicação;\n\nf) A indicação concreta dos prazos e demais condições de pagamento;\n\ng) A indicação dos documentos a apresentar pelos candidatos;\n\nh) O regime de exercício do direito de preferência.\n\n2 - No caso das propostas apresentadas pelas cooperativas referidas na alínea a) do n.º 1 do artigo 8.º, a caução provisória não pode ser superior a 5% do valor da base de licitação.\n\n> Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+  },
+  "05cb9cc931cdc9cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - São condições necessárias e imperativas impostas aos candidatos ao concurso público exigido para as alienações de partes, quotas ou acções que o Estado ou entidades públicas possuam em empresas de comunicação social, e bem assim dos títulos dos órgãos jornalísticos de empresas do sector público, sempre que da alienação possa resultar reprivatização do órgão ou da maioria do capital da respectiva empresa:\n\na) Aceitação expressa de um estatuto editorial assegurando uma orientação redactorial que salvaguarde a independência, isenção, objectividade e rigor na informação veiculada, preservando a possibilidade de expressão e confronto das diversas correntes de opinião e pensamento;\n\nb) Exposição curricular demonstrativa de experiência e capacidade de gestão empresarial, designadamente no sector da comunicação social;\n\nc) Compromisso de não alienação, transacção, cedência, gratuita ou onerosa, da participação ou bens adquiridos por concurso, antes de ser integralmente realizado o respectivo pagamento e nunca antes de decorridos dois anos sobre a celebração do contrato, salvo comprovado motivo de força maior.\n\nd) Compromisso de não proceder directa ou indirectamente à limitação, total ou parcial, do exercício do direito à exploração.\n\n2 - Ficam excluídas do concurso as pessoas, singulares ou colectivas, que detenham participação no capital de mais que uma empresa jornalística, salvo quando se trate de alienação de bens de equipamento ou instalações.\n\n> Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+  },
+  "5fa0847b97ff7759": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Nos concursos públicos a que se refere o presente diploma beneficiarão de preferência sobre outras candidaturas, pela ordem indicada, as propostas apresentadas por:\n\na) Cooperativas constituídas por jornalistas ou por jornalistas e outros profissionais de comunicação social em que os cooperantes sejam simultaneamente trabalhadores na sociedade;\n\nb) Sociedades cujo capital seja maioritariamente detido por profissionais de comunicação social;\n\nc) Empresas de comunicação social cujo estatuto expressamente disponha ser a orientação redactorial e as nomeações para chefias da redacção da responsabilidade dos seus jornalistas;\n\nd) Outras empresas de comunicação social com, pelo menos, três anos de actividade permanente;\n\ne) Empresas editoriais.\n\n2 - Os candidatos referidos no número anterior podem beneficiar dos seguintes privilégios, sempre que o objecto do concurso seja constituído por títulos ou capital:\n\na) Pagamento até cinco anos, com prestações semestrais e com um período de carência até um ano, no caso das cooperativas mencionadas na alínea a) do número anterior;\n\nb) Pagamento até três anos, com prestações semestrais e com um período de carência até seis meses, nos restantes casos.\n\n> Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+  },
+  "6c24c5ddd40d989a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 24/87](https://diariodarepublica.pt/dr/detalhe/lei/24-1987-419654), publicado em 1987-06-24."
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - Todos os pareceres que sejam solicitados sobre a matéria versada neste diploma devem ser emitidos no prazo máximo de 30 dias, considerando-se favoráveis sempre que as entidades consultadas os não apresentem no referido prazo.\n\n2 - O prazo é de 45 dias quanto ao exercício dos direitos conferidos aos trabalhadores no artigo 83.º da Constituição, considerando-se, no entanto, como não se pretendendo exercê-lo se decorrido o prazo nenhuma decisão for presente ao membro do Governo da tutela.\n\n3 - Em caso de opção favorável, os trabalhadores da respectiva empresa poderão efectuar a aquisição, nos termos do preceito constitucional anteriormente referido, pelo preço base de licitação, utilizando as facilidades máximas fixadas para o pagamento.\n\n> Alterado pelo/a [Lei n.º 24/87](https://diariodarepublica.pt/dr/detalhe/lei/24-1987-419654), publicado em 1987-06-24."
+  },
+  "74700c45bd493e28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1988-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+   ],
+   "markdown": "###### Artigo 10.º\n\nO despacho a que se refere o n.º 3 do artigo 4.º conterá obrigatoriamente a menção dos pareceres solicitados, bem como da audição dos trabalhadores e do resultado de tal diligência.\n\n> Alterado pelo/a [Lei n.º 72/88](https://diariodarepublica.pt/dr/detalhe/lei/72-1988-374472), publicado em 1988-05-26."
+  },
+  "6fe07992bd8da6bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - A transmissão da titularidade das participações, quotas, acções ou bens a que se refere o presente diploma far-se-á por simples documento particular, em que intervirão o membro do Governo da tutela e a empresa adjudicatária, através dos seus representantes legais, quando for caso disso.\n\n2 - Esse documento mencionará as condições respectivas e as obrigações legais decorrentes de tal transmissão.\n\n3 - Do referido documento constará ainda a cláusula de reversão a favor do Estado, sem direito a qualquer indemnização, do objecto da alienação se o concorrente adjudicatário não cumprir, culposamente, as obrigações e condições a que se refere o número anterior.\n\n4 - O documento mencionado neste artigo é título bastante para quaisquer registos, equivalendo, para todos os demais efeitos, a escritura pública."
+  },
+  "d2f7321f0eeae115": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nEm tudo o mais não expressamente previsto aplica-se o disposto na [Lei n.º 20/86](https://diariodarepublica.pt/dr/detalhe/lei/20-1986-227845), de 21 de Julho, e no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, na sua actual redacção."
+  },
+  "fd5123f86da52b0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 28 de Agosto de 1986. - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira.\n\nPromulgado em 16 de Outubro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 21 de Outubro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

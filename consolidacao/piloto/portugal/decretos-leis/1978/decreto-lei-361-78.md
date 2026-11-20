@@ -22,15 +22,18 @@ consolidacao:
   - id: pt:dre:678396:por
     title: Portaria n.º 123/80
     publication_date: '1980-03-17'
+  - id: pt:dre:383219:por
+    title: Portaria n.º 273/79
+    publication_date: '1979-06-09'
   - id: pt:dre:469069:por
     title: Decreto-Lei n.º 229/2005
     publication_date: '2005-12-29'
   - id: pt:dre:301632:por
     title: Decreto-Lei n.º 356/91
     publication_date: '1991-09-20'
-  - id: pt:dre:383219:por
-    title: Portaria n.º 273/79
-    publication_date: '1979-06-09'
+  - id: pt:dre:326308:por
+    title: Portaria n.º 143/85
+    publication_date: '1985-03-12'
   titulos_normalizados: artigos em texto corrido no original, com título pelo parser
     da fase 3
 ---
@@ -141,11 +144,13 @@ j) Desempenhar todas as tarefas que resultem deste diploma e da demais legislaç
 
 ###### Artigo 9.º — (Estrutura geral do INPP)
 
-1 - São órgãos do INPP:
+1 - O INPP compreenderá:
 
 a) O conselho directivo;
 
-b) O conselho geral.
+b) Serviços;
+
+c) Departamentos de pilotagem.
 
 2 - São serviços do INPP:
 
@@ -199,7 +204,7 @@ h) Praticar os demais actos referentes às atribuições do INPP que não sejam 
 
 > Alterado pelo/a [Decreto-Lei n.º 143/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1997-361882), publicado em 1997-06-06.
 
-###### Artigo 13.º — (Competência do presidente)
+###### Artigo 13.º — Competência do presidente
 
 Compete especialmente ao presidente do INPP:
 
@@ -581,7 +586,7 @@ Até ao dia 31 de Março de cada ano, o conselho de gestão deverá submeter à 
 
 2 - Subsidiariamente aplicar-se-á o regime do contrato individual de trabalho.
 
-###### Artigo 51.º-A — (Limite de idade)
+###### Artigo 51.º-A — Limite de idade
 
 O limite de idade para o exercício de funções pelo pessoal do INPP é o aprovado pelo [Decreto n.º 16563](https://diariodarepublica.pt/dr/detalhe/decreto/16563-1929-358735), de 5 de Março de 1929, com excepção do dos pilotos e do pessoal auxiliar de pilotagem, que é fixado em 65 anos.
 
@@ -631,7 +636,7 @@ b) Tempo parcial.
 
 ### CAPÍTULO I — Departamento central
 
-###### Artigo 57.º — (Quadros de pessoal)
+###### Artigo 57.º — Quadros de pessoal
 
 Os quadros de pessoal do departamento central e dos departamentos de pilotagem do INPP são fixados por portaria conjunta dos Ministros das Finanças e do Mar, sob proposta do respectivo conselho de gestão.
 
@@ -812,6 +817,10 @@ O departamento de pilotagem de Vila Real de Santo António terá o seguinte quad
 1 motorista.
 
 1 marinheiro.
+
+Funchal
+
+> Alterado pelo/a [Portaria n.º 273/79](https://diariodarepublica.pt/dr/detalhe/portaria/273-1979-383219), publicado em 1979-06-09.
 
 ###### Artigo 67.º-A — (Quadro de pessoal)
 
@@ -4408,15 +4417,17 @@ Nota A. - A esta tabela serão acrescidas as sobretaxas estabelecidas pelo artig
 
 2 - As verbas indicadas nos pontos 5.º e 6.º serão acrescidas na sobretaxa respectiva quando devidas aos domingos e dias feriados.
 
-Nota B. - Nos casos previstos no n.º 3.º, começa-se a contar o tempo ao fim da primeira hora.
+Nota B. - Nos casos previstos no n.º 3.º, começa-se a contar o tempo ao fim da primeira meia hora.
+
+> Alterado pelo/a [Portaria n.º 240/79](https://diariodarepublica.pt/dr/detalhe/portaria/240-1979-382793), publicado em 1979-05-24.
 
 ## ANEXO III — TABELA D
 
 Embarque e desembarque de pilotos:
 
-Primeira hora ou fracção ... 400$00
+Primeira hora ou fracção ... 2500$00
 
-Cada meia hora ou fracção a mais ... 200$00
+Cada meia hora ou fracção a mais ... 1250$00
 
 Aluguer de embarcações para transportes ou amarrações e desamarrações:
 
@@ -4426,6 +4437,14 @@ Serviço de reboques:
 
 A tabela portuária.
 
+> Alterado pelo/a [Portaria n.º 143/85](https://diariodarepublica.pt/dr/detalhe/portaria/143-1985-326308), publicado em 1985-03-12.
+
 ## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)
+
+[Artigo 4.º, n.º 1, alínea d)]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11900/10911099.pdf)
+
+> Alterado pelo/a [Portaria n.º 240/79](https://diariodarepublica.pt/dr/detalhe/portaria/240-1979-382793), publicado em 1979-05-24.
 
 ## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/27301/00090063.pdf)

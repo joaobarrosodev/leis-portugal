@@ -1,0 +1,16 @@
+[
+  {
+    "artigo": "ANEXO — Universidade Lusíada",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO — Universidade Lusíada\nCurso de Matemáticas Aplicadas\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11200/20312033.pdf)\n\nCurso de Arquitectura\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11200/20312033.pdf)\n\nCurso de Relações Internacionais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11200/20312033.pdf)",
+    "depois": "## ANEXO — Universidade Lusíada\n\nCurso de Matemáticas Aplicadas\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/162b00/38123814.pdf)\n\nCurso de Arquitectura\n\nGrau de licenciado\n\nQUADRO N.º 1\n\n1.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nQUADRO N.º 2\n\n2.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nQUADRO N.º 3\n\n3.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nQUADRO N.º 4\n\n4.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nQUADRO N.º 5\n\n5.º ano\n\n[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)](https://files.diariodarepublica.pt/1s/2001/05/123b00/31423143.pdf)\n\nCurso de Relações Internacionais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/239b00/57285729.pdf)\n\n> Alterado pelo/a [Portaria n.º 539/2001](https://diariodarepublica.pt/dr/detalhe/portaria/539-2001-331848), publicado em 2001-05-28.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:374825:por",
+    "alterador": "pt:dre:331848:por"
+  }
+]

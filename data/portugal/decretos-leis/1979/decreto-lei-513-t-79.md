@@ -29,10 +29,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-07-26'
+version_history:
+  file: decreto-lei-513-t-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-12-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-07-26'
+    amending: pt:dre:472089:por
+    amending_title: Lei n.º 29/80; Decreto-Lei n.º 175/2004
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:24:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 29/80; Decreto-Lei n.º 175/2004.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-513-t-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -273,9 +293,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 #### SECÇÃO I — Noção e fins
 
-Artigo 1.º O ensino superior politécnico - designação que doravante passa a ser a do ensino superior de curta duração instituído pelo [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, com as alterações decorrentes da [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), de 28 de Julho - é assegurado por escolas superiores, de educação e técnicas, agrupadas ou não em Institutos Politécnicos.
+###### Artigo 1.º
 
-Art. 2.º Ao ensino superior politécnico cumpre prosseguir as seguintes finalidades:
+O ensino superior politécnico - designação que doravante passa a ser a do ensino superior de curta duração instituído pelo [Decreto-Lei n.º 427-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-b-1977-236683), de 14 de Outubro, com as alterações decorrentes da [Lei n.º 61/78](https://diariodarepublica.pt/dr/detalhe/lei/61-1978-297029), de 28 de Julho - é assegurado por escolas superiores, de educação e técnicas, agrupadas ou não em Institutos Politécnicos.
+
+###### Artigo 2.º
+
+Ao ensino superior politécnico cumpre prosseguir as seguintes finalidades:
 
 a) Formar, a nível superior, educadores de infância, professores dos ensinos primário e preparatório e técnicos qualificados em vários domínios de actividade;
 
@@ -289,17 +313,23 @@ e) Prestar serviços à comunidade, como forma de contribuição para a resoluç
 
 #### SECÇÃO II — Associação e articulação com o ensino superior universitário
 
-Art. 3.º - 1 - Os estabelecimentos de ensino superior politécnico e os de ensino superior universitário poderão estabelecer entre si regimes de associação, segundo normas a aprovar pelo Ministro da Educação, com objectivos de cooperação mútua, coordenação no âmbito nacional e regional e racionalização e optimização dos meios humanos e do equipamento, tanto educacional como de investigação.
+###### Artigo 3.º
+
+1 - Os estabelecimentos de ensino superior politécnico e os de ensino superior universitário poderão estabelecer entre si regimes de associação, segundo normas a aprovar pelo Ministro da Educação, com objectivos de cooperação mútua, coordenação no âmbito nacional e regional e racionalização e optimização dos meios humanos e do equipamento, tanto educacional como de investigação.
 
 2 - Os estabelecimentos de ensino superior politécnico poderão estabelecer acordos com organismos públicos ou privados, segundo normas a aprovar pelo Ministro da Educação e pelo Ministro da tutela do respectivo sector, de modo a contribuir para que os diplomados adquiram uma formação profissional ligada aos problemas reais do desenvolvimento sócio-económico nacional ou regional.
 
-Art. 4.º - 1 - A articulação entre os estudos do ensino superior politécnico e os do ensino superior universitário será aprovada por decreto, precedendo proposta dos estabelecimentos interessados de ambos os ensinos.
+###### Artigo 4.º
+
+1 - A articulação entre os estudos do ensino superior politécnico e os do ensino superior universitário será aprovada por decreto, precedendo proposta dos estabelecimentos interessados de ambos os ensinos.
 
 2 - Durante o período de instalação dos estabelecimentos de ensino superior politécnico, cujo regime especial é definido em diploma autónomo, a iniciativa da proposta a que se refere o número anterior poderá ser assegurada pela Direcção-Geral do Ensino Superior.
 
 ### CAPÍTULO II — Dos estabelecimentos de ensino superior politécnico
 
-Art. 5.º São criados os Institutos Politécnicos de:
+###### Artigo 5.º
+
+São criados os Institutos Politécnicos de:
 
 a) Beja;
 
@@ -321,69 +351,91 @@ i) Setúbal;
 
 j) Viseu.
 
-Art. 6.º O Instituto Politécnico de Beja agrupa os seguintes estabelecimentos de ensino:
+###### Artigo 6.º
+
+O Instituto Politécnico de Beja agrupa os seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
 b) Escola Superior Agrária.
 
-Art. 7.º O Instituto Politécnico de Bragança agrupa os seguintes estabelecimentos de ensino:
+###### Artigo 7.º
+
+O Instituto Politécnico de Bragança agrupa os seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
 b) Escola Superior Agrária.
 
-Art. 8.º O Instituto Politécnico de Castelo Branco agrupa os seguintes estabelecimentos de ensino:
+###### Artigo 8.º
+
+O Instituto Politécnico de Castelo Branco agrupa os seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
 b) Escola Superior Agrária.
 
-Art. 9.º - 1 - O Instituto Politécnico de Coimbra agrupa os seguintes estabelecimentos de ensino:
+###### Artigo 9.º
+
+1 - O Instituto Politécnico de Coimbra agrupa os seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
-b) Escola Superior de Gestão e Contabilidade;
+b) (Revogada.)
 
-c) Escola Superior de Tecnologia;
+c) (Revogada.)
 
 d) Escola Superior Agrária.
 
-2 - As Escolas Superiores Técnicas a que se referem as alíneas b), c) e d) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração, Instituto Superior de Engenharia e Escola de Regentes Agrícolas, todos de Coimbra.
+2 - A Escola Superior Agrária a que se refere o número anterior resultará da reconversão da Escola de Regentes Agrícolas de Coimbra.
 
-Art. 10.º O Instituto Politécnico de Faro agrupa os seguintes estabelecimentos de ensino:
+> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089), publicado em 1980-07-28.
+
+###### Artigo 10.º
+
+O Instituto Politécnico de Faro agrupa os seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação:
 
 b) Escola Superior de Tecnologia e Gestão.
 
-Art. 11.º O Instituto Politécnico de Lisboa agrupa os seguintes estabelecimentos de ensino:
+###### Artigo 11.º
+
+O Instituto Politécnico de Lisboa é composto pelos seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
-b) Escola Superior de Gestão e Contabilidade;
+b) (Revogada.)
 
-c) Escola Superior de Tecnologia;
+c) (Revogada.)
 
-d) Escola Superior de Saúde;
+d) (Revogada.)
 
-e) Escola Superior de Jornalismo.
+e) Escola Superior de Comunicação Social.
 
-2 - As Escolas Superiores Técnicas a que se referem as alíneas b) e c) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração e Instituto Superior de Engenharia, ambos de Lisboa.
+2 - (Revogado.)
 
-Art. 12.º - 1 - O Instituto Politécnico do Porto agrupa os seguintes estabelecimentos de ensino:
+> Alterado pelo/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
+
+###### Artigo 12.º
+
+1 - O Instituto Politécnico do Porto agrupa os seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
-b) Escola Superior de Gestão e Contabilidade;
+b) (Revogada.)
 
-c) Escola Superior de Tecnologia;
+c) (Revogada.)
 
-d) Escola Superior de Saúde.
+d) (Revogada.)
 
-2 - As Escolas Superiores Técnicas a que se referem as alíneas b) e c) do número anterior resultarão, respectivamente, da reconversão dos actuais Instituto Superior de Contabilidade e Administração e Instituto Superior de Engenharia, ambos do Porto.
+2 - (Revogado.)
 
-Art. 13.º - 1 - O Instituto Politécnico de Santarém agrupa os seguintes estabelecimentos de ensino:
+> Alterado pelo/a [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), publicado em 2004-07-21.
+
+###### Artigo 13.º
+
+1 - O Instituto Politécnico de Santarém agrupa os seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
@@ -391,31 +443,43 @@ b) Escola Superior Agrária.
 
 2 - A Escola Superior Técnica a que se refere a alínea b) do número anterior resultará da reconversão da actual Escola de Regentes Agrícolas de Santarém.
 
-Art. 14.º O Instituto Politécnico de Setúbal agrupa os seguintes estabelecimentos de ensino:
+###### Artigo 14.º
+
+O Instituto Politécnico de Setúbal agrupa os seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
 b) Escola Superior de Tecnologia.
 
-Art. 15.º O Instituto Politécnico de Viseu agrupa os seguintes estabelecimentos de ensino:
+###### Artigo 15.º
+
+O Instituto Politécnico de Viseu agrupa os seguintes estabelecimentos de ensino:
 
 a) Escola Superior de Educação;
 
 b) Escola Superior de Tecnologia.
 
-Art. 16.º - 1 - Nas Escolas Superiores de Educação de Lisboa e Porto serão ministrados cursos de especialização no domínio do ensino especial.
+###### Artigo 16.º
+
+1 - Nas Escolas Superiores de Educação de Lisboa e Porto serão ministrados cursos de especialização no domínio do ensino especial.
 
 2 - O curso a professar de acordo com o número anterior, na Escola Superior de Educação de Lisboa, resultará da reconversão do curso de especialização de professores de crianças inadaptadas do Instituto de António Aurélio da Costa Ferreira.
 
-Art. 17.º - 1 - São criadas:
+###### Artigo 17.º
 
-a) A Escola Superior de Gestão e Contabilidade de Aveiro;
+1 - São criadas:
+
+a) (Revogada.)
 
 b) A Escola Superior de Tecnologia de Tomar.
 
-2 - A Escola Superior a que se refere a alínea a) do número anterior resultará da reconversão do actual Instituto Superior de Contabilidade e Administração de Aveiro.
+2 - (Revogado.)
 
-Art. 18.º São criadas Escolas Superiores de Educação nas seguintes localidades:
+> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089), publicado em 1980-07-28.
+
+###### Artigo 18.º
+
+São criadas Escolas Superiores de Educação nas seguintes localidades:
 
 a) Guarda;
 
@@ -429,27 +493,43 @@ e) Vila Real.
 
 ### CAPÍTULO III — Das disposições finais e transitórias
 
-Art. 19.º - 1 - A situação dos cursos professados nas escolas do magistério primário, nas escolas normais de educadores de infância e nas escolas do magistério infantil será contemplada em decreto regulamentar, a aprovar nos noventa dias subsequentes à data da entrada em vigor deste diploma.
+###### Artigo 19.º
+
+1 - A situação dos cursos professados nas escolas do magistério primário, nas escolas normais de educadores de infância e nas escolas do magistério infantil será contemplada em decreto regulamentar, a aprovar nos noventa dias subsequentes à data da entrada em vigor deste diploma.
 
 2 - O mesmo decreto regulamentar providenciará acerca dos destinos do património e do pessoal afectos aos estabelecimentos de ensino referidos no número anterior.
 
-Art. 20.º A concretização de cada uma das reconversões previstas neste diploma far-se-á por decreto-lei.
+###### Artigo 20.º
 
-Art. 21.º O ensino superior politécnico será igualmente implantado nas Regiões Autónomas dos Açores e da Madeira, uma vez concluídos, com a participação de representantes dos órgãos do Governo dessas Regiões, os estudos específicos para tal necessários.
+A concretização da reconversão das escolas de regentes agrícolas prevista neste diploma far-se-á por decreto-lei.
 
-Art. 22.º O Gabinete Coordenador das Actividades do Ensino Superior de Curta Duração, criado pelo [Decreto-Lei n.º 180/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1978-297624), de 15 de Julho, passa a designar-se Gabinete Coordenador das Actividades do Ensino Superior Politécnico.
+> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089), publicado em 1980-07-28.
 
-Art. 23.º É revogada toda a legislação em contrário, nomeadamente:
+###### Artigo 21.º
+
+O ensino superior politécnico será igualmente implantado nas Regiões Autónomas dos Açores e da Madeira, uma vez concluídos, com a participação de representantes dos órgãos do Governo dessas Regiões, os estudos específicos para tal necessários.
+
+###### Artigo 22.º
+
+O Gabinete Coordenador das Actividades do Ensino Superior de Curta Duração, criado pelo [Decreto-Lei n.º 180/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1978-297624), de 15 de Julho, passa a designar-se Gabinete Coordenador das Actividades do Ensino Superior Politécnico.
+
+###### Artigo 23.º
+
+É revogada toda a legislação em contrário, nomeadamente:
 
 a) Os artigos 10.º e 11.º, ambos do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto;
 
-b) O n.º 3 do artigo 2.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro;
+b) (Revogada.)
 
-c) Os n.os 3 e 4 do artigo 2.º do [Decreto-Lei n.º 327/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1976-427801), de 6 de Maio;
+c) (Revogada.)
 
 d) O artigo 2.º do [Decreto-Lei n.º 649/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/649-1976-431010), de 31 de Julho.
 
-Art. 24.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas, consoante a sua natureza, por despacho do Ministro da Educação ou por despacho conjunto do Ministro das Finanças, do Ministro da Educação e do Secretário de Estado da Administração Pública.
+> Alterado pelo/a [Lei n.º 29/80](https://diariodarepublica.pt/dr/detalhe/lei/29-1980-472089), publicado em 1980-07-28.
+
+###### Artigo 24.º
+
+As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas, consoante a sua natureza, por despacho do Ministro da Educação ou por despacho conjunto do Ministro das Finanças, do Ministro da Educação e do Secretário de Estado da Administração Pública.
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
 

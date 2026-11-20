@@ -3,12 +3,31 @@ id: pt:dre:642527:por
 title: Decreto-Lei n.º 324/2007
 original: data/portugal/decretos-leis/2007/decreto-lei-324-2007.md
 consolidacao:
-  metodo: piloto da fase 2 (consolidacao/consolidar.py), sem valor oficial
+  metodo: piloto da fase 2 (consolidacao/consolidar.py e, pelo LLM, consolidacao/juntar.py),
+    sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
   - id: pt:dre:487360:por
     title: Decreto-Lei n.º 247-B/2008
     publication_date: '2008-12-30'
+  - id: pt:dre:73740375:por
+    title: Lei n.º 2/2016
+    publication_date: '2016-02-29'
+  - id: pt:dre:115578234:por
+    title: Decreto-Lei n.º 51/2018
+    publication_date: '2018-06-25'
+  - id: pt:dre:489737:por
+    title: Lei n.º 103/2009
+    publication_date: '2009-09-11'
+  - id: pt:dre:69992902:por
+    title: Lei n.º 90/2015
+    publication_date: '2015-08-12'
+  - id: pt:dre:439097:por
+    title: Lei n.º 61/2008
+    publication_date: '2008-10-31'
+  - id: pt:dre:70300348:por
+    title: Decreto-Lei n.º 201/2015
+    publication_date: '2015-09-17'
 ---
 
 # Decreto-Lei n.º 324/2007
@@ -3083,21 +3102,27 @@ g) A inibição ou suspensão do exercício do poder paternal e as providências
 
 h) A interdição e inabilitação definitivas, a tutela de menores ou interditos, a administração de bens de menores e a curadoria de inabilitados;
 
-i) A curadoria provisória ou definitiva de ausentes e a morte presumida;
+i) O apadrinhamento civil e a sua revogação;
 
-j) A declaração de insolvência, o indeferimento do respectivo pedido, nos casos de designação prévia de administrador judicial provisório, e o encerramento do processo de insolvência;
+j) A curadoria provisória ou definitiva de ausentes e a morte presumida;
 
-l) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, assim como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;
+l) A declaração de insolvência, o indeferimento do respectivo pedido, nos casos de designação prévia de administrador judicial provisório, e o encerramento do processo de insolvência;
 
-m) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;
+m) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, assim como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;
 
-n) A exoneração do passivo restante, assim como o início e cessação antecipada do respectivo procedimento e a revogação da exoneração;
+n) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;
 
-o) O óbito;
+o) A exoneração do passivo restante, assim como o início e cessação antecipada do respectivo procedimento e a revogação da exoneração;
 
-p) Os que determinem a modificação ou extinção de qualquer dos factos indicados e os que decorram de imposição legal.
+p) O óbito;
+
+q) Os que determinem a modificação ou extinção de qualquer dos factos indicados e os que decorram de imposição legal.
 
 2 - Os factos respeitantes a estrangeiros só estão sujeitos a registo obrigatório quando ocorram em território português.
+
+3 - Quando os sujeitos da relação jurídica de filiação, adoção ou apadrinhamento civil estejam casados ou unidos de facto com pessoa do mesmo sexo, os assentos, averbamentos ou novos assentos de nascimento no registo civil são efetuados de forma idêntica à prevista nas leis em vigor para casais de sexo diferente.
+
+> Alterado pelo/a [Lei n.º 2/2016](https://diariodarepublica.pt/dr/detalhe/lei/2-2016-73740375), publicado em 2016-02-29.
 
 ###### Artigo 2.º — Atendibilidade dos factos sujeitos a registo
 
@@ -3455,7 +3480,9 @@ Quando alguma das partes não conhecer a língua portuguesa e o funcionário nã
 
 7 - Sendo interposto o recurso a que se refere o n.º 2 do artigo 292.º, a falta de valor probatório, total ou parcial, do documento emitido em país estrangeiro pode ser suprida com base nas declarações ou meios de prova complementares apresentados em sede de recurso.
 
-8 - Os documentos referidos no n.º 1, quando escritos em língua estrangeira, devem ser acompanhados de tradução feita ou certificada nos termos previstos na lei.
+8 - Os documentos referidos no n.º 1, quando escritos em língua estrangeira, devem ser acompanhados de tradução feita ou certificada nos termos previstos na lei, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.
+
+> Alterado pelo/a [Decreto-Lei n.º 51/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2018-115578234), publicado em 2018-06-25.
 
 #### SECÇÃO III — Modalidades do registo
 
@@ -3643,25 +3670,29 @@ f) A inibição e a suspensão do exercício do poder paternal, bem como as prov
 
 g) A interdição e a inabilitação definitivas, a tutela de menor ou interdito, a administração de bens de menor e a curadoria de inabilitado, a curadoria provisória ou definitiva de ausente e a incapacidade de menor casado para administrar os bens, sua modificação e extinção;
 
-h) A declaração de insolvência, o indeferimento do respectivo pedido e o encerramento do processo de insolvência;
+h) A constituição do apadrinhamento civil e a sua revogação;
 
-i) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, bem como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;
+i) A declaração de insolvência, o indeferimento do respectivo pedido e o encerramento do processo de insolvência;
 
-j) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;
+j) A nomeação e cessação de funções do administrador judicial e do administrador judicial provisório da insolvência, a atribuição ao devedor da administração da massa insolvente, bem como a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a cessação dessa administração;
 
-l) O início, cessação antecipada e decisão final do procedimento de exoneração do passivo restante e a revogação desta;
+l) A inabilitação e a inibição do insolvente para o exercício do comércio e de determinados cargos;
 
-m) A alteração de nome;
+m) O início, cessação antecipada e decisão final do procedimento de exoneração do passivo restante e a revogação desta;
 
-n) A conservação dos apelidos dos cônjuges que tenha lugar em caso de dissolução do casamento ou de novas núpcias;
+n) A alteração de nome;
 
-o) O óbito e a morte presumida judicialmente declarada;
+o) A conservação dos apelidos dos cônjuges que tenha lugar em caso de dissolução do casamento ou de novas núpcias;
 
-p) Em geral, todos os factos jurídicos que modifiquem os elementos de identificação ou o estado civil do registado.
+p) O óbito e a morte presumida judicialmente declarada;
+
+q) Em geral, todos os factos jurídicos que modifiquem os elementos de identificação ou o estado civil do registado.
 
 2 - A perfilhação dependente de assentimento só é averbada quando este for prestado.
 
-3 - Os factos referidos na alínea h) do n.º 1 são averbados aos assentos de nascimento dos filhos.
+3 - Os factos referidos na alínea f) do n.º 1 são averbados aos assentos de nascimento dos filhos.
+
+> Alterado pelo/a [Lei n.º 103/2009](https://diariodarepublica.pt/dr/detalhe/lei/103-2009-489737), publicado em 2009-09-11.
 
 ###### Artigo 70.º — Averbamentos ao assento de casamento
 
@@ -3683,7 +3714,9 @@ g) A existência de convenção antenupcial, quando desta for feita prova após 
 
 h) As alterações ao regime de bens convencionado ou legalmente fixado.
 
-2 - O averbamento dos factos previstos nas alíneas a) a d) e f) do número anterior deve preceder a dos correspondentes averbamentos aos assentos de nascimento dos cônjuges.
+2 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 71.º — Averbamentos ao assento de óbito
 
@@ -3737,9 +3770,11 @@ Ao assento de perfilhação é especialmente averbado o assentimento do perfilha
 
 1 - O tribunal deve comunicar a qualquer conservatória do registo civil, sempre que possível por via electrónica, as decisões proferidas em acções respeitantes a factos sujeitos a registo que devam ser averbados, salvo o disposto no artigo 274.º
 
-2 - A comunicação prevista no número anterior é enviada no prazo de cinco dias após o trânsito em julgado da decisão e dela tem de constar a indicação do tribunal, juízo e secção em que correu o processo, a identificação das partes, o objecto da acção e da reconvenção, se a houver, os fundamentos do pedido, a transcrição da parte dispositiva da sentença, a data desta e do trânsito em julgado e, bem assim, os demais elementos necessários ao averbamento.
+2 - A comunicação prevista no número anterior é enviada no prazo de um dia após o trânsito em julgado da decisão e dela tem de constar a indicação do tribunal, juízo e secção em que correu o processo, a identificação das partes, o objecto da acção e da reconvenção, se a houver, os fundamentos do pedido, a transcrição da parte dispositiva da sentença, a data desta e do trânsito em julgado e, bem assim, os demais elementos necessários ao averbamento.
 
 3 - O disposto no n.º 1 não prejudica a possibilidade de o presidente do IRN, I. P., determinar a distribuição por outras conservatórias do serviço de registo das decisões judiciais comunicadas.
+
+> Alterado pelo/a [Lei n.º 103/2009](https://diariodarepublica.pt/dr/detalhe/lei/103-2009-489737), publicado em 2009-09-11.
 
 ###### Artigo 79.º — Conservatórias a que devem ser remetidas as certidões
 
@@ -3947,9 +3982,11 @@ O registo é rectificado mediante decisão proferida em processo de justificaç�
 
 1 - A rectificação averbada a um assento pode, a todo o tempo, ser integrada no texto, a requerimento verbal dos interessados, mediante a feitura de novo registo e o cancelamento do anterior.
 
-2 - O disposto no número anterior é também aplicável à declaração de rectificação lavrada nos termos da segunda parte do n.º 4 do artigo 92.º
+2 - O disposto no número anterior é também aplicável à declaração de rectificação lavrada nos termos da segunda parte do n.º 5 do artigo 92.º
 
 3 - Os averbamentos que se encontram cancelados podem ser eliminados do assento mediante a feitura de novo registo, requerido nos termos do n.º 1.
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ### CAPÍTULO II — Actos de registo em especial
 
@@ -4195,6 +4232,10 @@ Se o nascimento tiver ocorrido em viagem por terra dentro do território naciona
 
 2 - A maternidade indicada é mencionada no assento.
 
+3 - A identificação da mãe do registando é realizada pela indicação do nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil.
+
+> Alterado pelo/a [Decreto-Lei n.º 51/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2018-115578234), publicado em 2018-06-25.
+
 ###### Artigo 113.º — Nascimento ocorrido há menos de um ano
 
 1 - A maternidade mencionada no assento, se o nascimento declarado tiver ocorrido há menos de um ano, considera-se estabelecida.
@@ -4234,6 +4275,10 @@ Se a pretensa mãe confirmar, em juízo, a maternidade, o tribunal deve remeter 
 1 - A paternidade presumida é obrigatoriamente mencionada no assento de nascimento do filho, sem prejuízo do disposto no artigo seguinte.
 
 2 - Se o registo de casamento dos pais vier a ser efectuado posteriormente ao assento de nascimento do filho, e se deste não constar a menção da paternidade, deve ser-lhe averbada, oficiosamente, a paternidade presumida.
+
+3 - A identificação do pai do registando é realizada pela indicação do nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil.
+
+> Alterado pelo/a [Decreto-Lei n.º 51/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2018-115578234), publicado em 2018-06-25.
 
 ###### Artigo 119.º — Afastamento da presunção de paternidade de filho de mulher casada
 
@@ -4295,7 +4340,7 @@ A indicação de paternidade não legalmente presumida só é admitida quando ha
 
 a) O nome completo, sexo, estado, data do nascimento, naturalidade e residência habitual do filho;
 
-b) O nome completo, data de nascimento, estado, naturalidade, residência habitual e filiação da mãe;
+b) O nome completo, data de nascimento, estado, naturalidade, residência habitual, filiação e número de identificação civil da mãe;
 
 c) A declaração expressa da maternidade;
 
@@ -4306,6 +4351,8 @@ d) A indicação da data do óbito do filho e a última residência habitual, no
 3 - Não sendo exibidos os documentos a que se refere o número anterior, é oficiosamente consultada a base de dados do registo civil, sendo integrados na base de dados os documentos que se mostrem necessários, de forma a comprovar os registos de nascimento da declarante e do filho.
 
 4 - Na sequência do assento é lançada cota de referência ao assento de nascimento do filho e, se este já for falecido, ao assento do seu óbito.
+
+> Alterado pelo/a [Decreto-Lei n.º 51/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2018-115578234), publicado em 2018-06-25.
 
 ###### Artigo 127.º — Referências complementares
 
@@ -4693,11 +4740,13 @@ O casamento de português, residente no estrangeiro ou em Portugal, previsto no 
 
 1 - O português residente em Portugal que pretenda casar no estrangeiro pode requerer a verificação da sua capacidade matrimonial e a passagem do respectivo certificado em qualquer conservatória do registo civil.
 
-2 - O certificado é passado pelo conservador mediante a organização prévia do processo de casamento, devendo dele constar todos os elementos previstos no artigo 264.º, e é entregue ao interessado.
+2 - O certificado é passado pelo conservador mediante a organização prévia do processo de casamento e dele devem constar todos os elementos de identificação do interessado, bem como do outro nubente, e o prazo para a celebração.
 
 3 - O português residente no estrangeiro que pretenda casar perante as autoridades locais pode requerer a verificação da sua capacidade matrimonial a qualquer conservatória do registo civil ou aos agentes diplomáticos ou consulares competentes para a organização do processo preliminar de casamento.
 
 4 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 164.º — Casamento de português com estrangeiro
 
@@ -5173,11 +5222,17 @@ c) Quando seja impossível chegar ao local onde os corpos se encontrem.
 
 3 - Julgada a justificação, o conservador deve lavrar o assento de óbito, com base nos elementos fornecidos pela sentença e servindo-se de todas as informações complementares recolhidas.
 
+4 - O assento de óbito referido no número anterior produz os mesmos efeitos que a morte.
+
+> Alterado pelo/a [Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/lei/90-2015-69992902), publicado em 2015-08-12.
+
 ###### Artigo 208.º — Naufrágio
 
-1 - No caso de naufrágio em que pereça toda ou parte da tripulação ou dos passageiros da embarcação, não sendo encontrados os cadáveres, ou não sendo possível individualizá-los, compete ao agente do Ministério Público da comarca a cuja área pertencer a praça da matrícula da embarcação promover a justificação judicial dos óbitos, nos termos e para os efeitos do disposto no artigo anterior.
+1 - No caso de naufrágio em que pereça toda ou parte da tripulação ou dos passageiros da embarcação, não sendo encontrados os cadáveres, ou não sendo possível individualizá-los, compete ao magistrado do Ministério Público da comarca a cuja área pertencer a praça da matrícula da embarcação promover, no prazo máximo de 30 dias a contar da receção do auto referido no número seguinte, a justificação judicial dos óbitos, nos termos e para os efeitos do disposto no artigo anterior.
 
-2 - Para a instrução do processo, a autoridade marítima deve remeter ao agente do Ministério Público o auto da investigação sobre a ocorrência e identificação dos náufragos desaparecidos.
+2 - Para a instrução do processo, a autoridade marítima remete, no prazo máximo de 60 dias a contar da data do naufrágio, ao Ministério Público o auto da investigação sobre a ocorrência e identificação dos náufragos desaparecidos.
+
+> Alterado pelo/a [Lei n.º 90/2015](https://diariodarepublica.pt/dr/detalhe/lei/90-2015-69992902), publicado em 2015-08-12.
 
 ##### SUBSECÇÃO V — Morte fetal
 
@@ -5241,7 +5296,7 @@ Disposições gerais
 
 a) Procedimento de habilitação de herdeiros, partilha e registos;
 
-b) Procedimento de habilitação de herdeiros e registos;
+b) Procedimentos de habilitação de herdeiros com ou sem registos;
 
 c) Procedimento de partilha e registos.
 
@@ -5249,7 +5304,11 @@ c) Procedimento de partilha e registos.
 
 4 - O registo das participações sociais sujeitas a registo é promovido nos termos previstos no artigo 29.º-A do Código do Registo Comercial.
 
-5 - A realização dos procedimentos é da competência do conservador, sem prejuízo da possibilidade de delegação em oficial de registos.
+5 - Os procedimentos simplificados de sucessão hereditária podem incluir a celebração de um contrato de mútuo e de outros contratos de crédito e de financiamento celebrados por instituições de crédito, e respectivas garantias, bem como outros negócios jurídicos, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.
+
+6 - A realização dos procedimentos é da competência do conservador, sem prejuízo da possibilidade de delegação em oficial de registos.
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 210.º-B — Legitimidade
 
@@ -5257,9 +5316,13 @@ Só o cabeça-de-casal, seu representante legal ou mandatário têm legitimidade
 
 ###### Artigo 210.º-C — Prazo e cumprimento de obrigações tributárias
 
-1 - Os procedimentos simplificados de sucessão hereditária iniciam-se até ao final do 3.º mês seguinte ao da morte do autor da sucessão.
+1 - Os procedimentos simplificados de sucessão hereditária iniciam-se até ao final do terceiro mês seguinte ao da morte do autor da sucessão, sem prejuízo do disposto no número seguinte.
 
-2 - Na tramitação dos procedimentos simplificados de sucessão hereditária, o conservador e os funcionários das conservatórias estão sujeitos ao dever de sigilo estabelecido nas leis tributárias.
+2 - Caso os procedimentos se iniciem após o prazo previsto no número anterior, o serviço de registo deve informar desse facto os competentes serviços de finanças para que estes procedam à cobrança das coimas que se mostrem devidas.
+
+3 - Na tramitação dos procedimentos simplificados de sucessão hereditária, o conservador e os funcionários das conservatórias estão sujeitos ao dever de sigilo estabelecido nas leis tributárias.
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 210.º-D — Atendimento presencial único e meios electrónicos
 
@@ -5299,19 +5362,29 @@ g) Entrega de certidão gratuita dos documentos previstos na alínea a) e dos re
 
 2 - A leitura dos documentos previstos na alínea a) do número anterior pode ser dispensada a pedido dos interessados.
 
-###### Artigo 210.º-G — Procedimento de habilitação de herdeiros e registos
+###### Artigo 210.º-G — Procedimento de habilitação de herdeiros com ou sem registos
 
-1 - O procedimento de habilitação de herdeiros e registos só é realizado quando os interessados não pretendem proceder imediatamente à partilha, nos termos do artigo anterior.
+1 - Os procedimentos de habilitação de herdeiros com ou sem registos só são realizados quando os interessados não pretendam proceder imediatamente à partilha, nos termos do artigo anterior.
 
-2 - No âmbito do procedimento de habilitação de herdeiros e registos, o serviço de registo procede aos actos referidos no n.º 1 do artigo anterior, com as necessárias adaptações.
+2 - No âmbito dos procedimentos de habilitação de herdeiros com ou sem registos, o serviço de registo procede aos actos referidos no n.º 1 do artigo anterior, com as necessárias adaptações.
 
-3 - O registo dos bens imóveis, ou móveis ou participações sociais sujeitos a registo integrados na herança indivisa só é efectuado a pedido do cabeça-de-casal.
+3 - Os interessados podem recorrer aos procedimentos de habilitação de herdeiros com ou sem registos ainda que já tenham procedido à participação referida na alínea c) do n.º 1 do artigo anterior.
+
+4 - No caso do procedimento de habilitação de herdeiros sem registos, os interessados podem optar por não proceder à participação referida na alínea c) do n.º 1 do artigo anterior.
+
+5 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 210.º-H — Procedimento de partilha e registos
 
-1 - O procedimento de partilha e registos só é realizado quando, em momento anterior, tiver ocorrido o procedimento de habilitação de herdeiros e registos em qualquer serviço de registo, nos termos do artigo anterior.
+1 - O procedimento de partilha e registos só é realizado quando, em momento anterior, tiver ocorrido a habilitação de herdeiros.
 
-2 - No âmbito do procedimento de partilha e registos, o serviço de registo procede aos actos referidos no n.º 1 do artigo 210.º-F, com as necessárias adaptações, com excepção dos previstos nas alíneas b) e c).
+2 - No âmbito do procedimento de partilha e registos, o serviço de registo procede aos actos referidos no n.º 1 do artigo 210.º-F, com as necessárias adaptações, com excepção dos previstos nas alíneas b) e c), caso a participação prevista nesta última alínea já tenha sido efectuada.
+
+3 - Caso a participação prevista na alínea c) do n.º 1 do artigo 210.º-F ainda não tenha sido efectuada, a mesma deve ser realizada no âmbito do procedimento.
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 210.º-I — Pedidos complementares
 
@@ -5457,7 +5530,7 @@ A partilha realizada no âmbito dos procedimentos simplificados de sucessão her
 
 ###### Artigo 215.º — Requisição e emissão das certidões
 
-1 - As certidões são requisitadas verbalmente, salvo nos casos em que sejam requisitadas pelo correio, em qualquer conservatória do registo civil.
+1 - As certidões podem ser requisitadas verbalmente ou pelo correio em qualquer conservatória do registo civil ou através de transmissão electrónica de dados.
 
 2 - A requisição de certidão pode ser entregue na conservatória ou enviada pelo correio ou ainda por via electrónica, nos termos previstos em diploma próprio.
 
@@ -5470,6 +5543,8 @@ A partilha realizada no âmbito dos procedimentos simplificados de sucessão her
 6 - O disposto no número anterior aplica-se aos assentos de casamento e de óbito lavrados pelos agentes diplomáticos e consulares portugueses, bem como aos assentos de nascimento, de declaração de maternidade e de perfilhação lavrados pelas mesmas autoridades, após a sua integração na base de dados do registo civil.
 
 7 - Do assento de óbito e do depósito do certificado de morte fetal são sempre emitidas certidões gratuitas, as quais servem de guia de enterramento.
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 216.º — Forma externa
 
@@ -5883,11 +5958,13 @@ a) De nascimento de estrangeiro nascido em território ao tempo considerado port
 
 b) De óbito do cônjuge anterior ou de algum dos pais do nubente menor, dentro do processo de casamento;
 
-c) De casamento dos pais do registando, dentro do processo a que se referem os artigos 283.º e seguintes.
+c) (Revogada.)
 
 2 - A conservatória competente para a passagem dos certificados de notoriedade previstos no número anterior é aquela onde correrem os processos que os mesmos devam instruir.
 
 3 - Quando não haja processo a correr em qualquer conservatória do registo civil é competente para a passagem do certificado a Conservatória dos Registos Centrais.
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ##### SUBSECÇÃO VII — Processo de divórcio e de separação de pessoas e bens por mútuo consentimento
 
@@ -5905,7 +5982,7 @@ a) (Revogada.)
 
 b) Relação especificada dos bens comuns, com indicação dos respectivos valores, ou, caso os cônjuges optem por proceder à partilha daqueles bens nos termos dos artigos 272.º-A a 272.º-C, acordo sobre a partilha ou pedido de elaboração do mesmo;
 
-c) Certidão da sentença judicial que tiver regulado o exercício do poder paternal relativamente aos filhos menores, se os houver;
+c) Certidão da sentença judicial que tiver regulado o exercício das responsabilidades parentais ou acordo sobre o exercício das responsabilidades parentais quando existam filhos menores e não tenha previamente havido regulação judicial;
 
 d) Acordo sobre a prestação de alimentos ao cônjuge que deles careça;
 
@@ -5913,7 +5990,7 @@ e) Certidão da escritura de convenção antenupcial, caso tenha sido celebrada;
 
 f) Acordo sobre o destino da casa de morada da família.
 
-2 - A pedido dos interessados, os documentos referidos nas alíneas b), d) e f) do número anterior podem ser elaborados pelo conservador ou pelos oficiais de registo.
+2 - A pedido dos interessados, os documentos referidos na alínea b), na segunda parte da alínea c) e nas alíneas d) e f) do número anterior podem ser elaborados pelo conservador ou pelos oficiais de registo.
 
 3 - Na sequência do pedido, é imediata e oficiosamente consultada a base de dados do registo civil, sendo integrados na base de dados os documentos que se mostrem necessários, de forma a comprovar o assento de casamento dos interessados e a celebração de convenção antenupcial declarada perante o conservador, caso tenha sido celebrada, com excepção dos casos em que o regime de bens conste do assento de casamento.
 
@@ -5923,21 +6000,31 @@ f) Acordo sobre o destino da casa de morada da família.
 
 6 - A decisão dos processos previstos na presente subsecção é da exclusiva competência do conservador, sem prejuízo da possibilidade de delegação de competências em oficial de registos para os actos previstos no artigo 272.º-B.
 
+> Alterado pelo/a [Lei n.º 61/2008](https://diariodarepublica.pt/dr/detalhe/lei/61-2008-439097), publicado em 2008-10-31.
+
 ###### Artigo 272.º-A — Partilha do património conjugal
 
-1 - Os cônjuges podem proceder à partilha dos seus bens comuns no âmbito do processo de separação judicial de pessoas e bens ou de divórcio por mútuo consentimento.
+1 - Os cônjuges podem proceder à partilha dos seus bens comuns no âmbito do processo de separação de pessoas e bens ou de divórcio por mútuo consentimento, ou posteriormente, ou ainda na sequência de qualquer processo de divórcio.
 
-2 - São pressupostos da partilha do património conjugal quanto aos bens imóveis, móveis ou participações sociais sujeitos a registo:
+2 - Os interessados devem instruir o seu pedido com o acordo de partilha ou pedido de elaboração do mesmo.
 
-a) A inexistência de dúvidas quanto à identidade e à titularidade dos bens a partilhar;
+3 - São pressupostos da partilha do património conjugal quanto aos bens imóveis, móveis ou participações sociais sujeitas a registo:
 
-b) O seu registo definitivo a favor dos cônjuges.
+a) A inexistência de dúvidas quanto à identidade dos bens a partilhar;
 
-3 - O acordo é homologado pela decisão que decreta o divórcio, tendo os mesmos efeitos previstos na lei para outras formas de partilha.
+b) A comprovação da titularidade dos bens.
 
-4 - A recusa de titulação da partilha não obsta à promoção do procedimento de divórcio ou de separação de pessoas e bens por mútuo consentimento.
+4 - O acordo de partilha, se necessário devidamente completado pelos serviços de registo, tem os mesmos efeitos previstos na lei para outras formas de partilha.
 
-5 - Por portaria do membro do Governo responsável pela área da justiça podem ser definidas as condições de verificação dos pressupostos referidos no n.º 2.
+5 - No caso de partilha de bens comuns no âmbito do processo de separação de pessoas e bens ou de divórcio por mútuo consentimento, o acordo de partilha é homologado pela decisão que decreta o divórcio.
+
+6 - A recusa de titulação da partilha não obsta à promoção do procedimento de divórcio ou de separação de pessoas e bens por mútuo consentimento.
+
+7 - A partilha pode incluir a celebração de um contrato de mútuo e de outros contratos de crédito e de financiamento celebrados por instituições de crédito, e respectivas garantias, bem como outros negócios jurídicos, nos termos definidos por portaria do membro do Governo responsável pela área da justiça.
+
+8 - Por portaria do membro do Governo responsável pela área da justiça podem ser definidas as condições de verificação dos pressupostos referidos no n.º 2.
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 272.º-B — Sequência de actos
 
@@ -5959,7 +6046,9 @@ e) Entrega de certidão gratuita dos documentos previstos na alínea a) e dos re
 
 ###### Artigo 272.º-C — Remissão
 
-À partilha do património conjugal são aplicáveis, com as necessárias adaptações, o n.º 4 do artigo 210.º-A e os artigos 210.º-E, 210.º-I, 210.º-J e 210.º-N.
+À partilha do património conjugal são aplicáveis, com as necessárias adaptações, o n.º 4 do artigo 210.º-A e os artigos 210.º-E, 210.º-I, 210.º-J, 210.º-L, 210.º-N e 210.º-M.
+
+> Alterado pelo/a [Decreto-Lei n.º 247-B/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-b-2008-487360), publicado em 2008-12-30.
 
 ###### Artigo 273.º — Registo da decisão
 
@@ -6149,9 +6238,9 @@ d) Realizar o casamento quando algum dos nubentes reconhecidamente se encontre e
 
 ###### Artigo 299.º — Emolumentos
 
-1 - Pelos actos praticados nos serviços do registo civil são cobrados os emolumentos constantes da respectiva tabela e demais encargos, salvo os casos de isenção.
+(Revogado.)
 
-2 - Devem ser liminarmente indeferidos os pedidos de actos, processos ou procedimentos que não sejam acompanhados do pagamento das quantias que se mostrem devidas.
+> Revogado pelo/a [Decreto-Lei n.º 201/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2015-70300348), publicado em 2015-09-17.
 
 ###### Artigo 300.º — Casos de isenção
 

@@ -154,6 +154,8 @@ A Direcção-Geral compreende os seguintes serviços:
 
 8) Centro de Apuramento de Custos e Estatísticas.
 
+Departamento dos Serviços Administrativos
+
 > Alterado pelo/a [Decreto-Lei n.º 115/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1983-311413), publicado em 1983-02-24.
 
 ###### Artigo 7.º
@@ -566,7 +568,9 @@ Serviços Jurídicos e de Contencioso
 
 (Revogado.)
 
-> Revogado pelo/a [Decreto-Lei n.º 115/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1983-311413), publicado em 1983-02-24.
+Centro de Documentação
+
+> Alterado pelo/a [Decreto-Lei n.º 115/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1983-311413), publicado em 1983-02-24.
 
 ###### Artigo 21.º
 

@@ -1,0 +1,15 @@
+[
+ {
+  "id": "pt:dre:220892:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 5.º, n.º 1, alínea d), revogação dos n.os 1 e 3 do artigo 12.º e do artigo 14.º: revogação condicional, são revogados «na parte em que contrariem o disposto no presente decreto-lei», o que não se aplica ao texto\nAlterador 1, art. 5.º, n.º 2, revogação das demais normas que contrariem o decreto-lei: revogação condicional, sem alvo textual",
+  "instrucoes": [
+   "Alterador 1, art. 1.º, n.º 2, alínea g): só menciona o original no âmbito de aplicação; não altera o texto.",
+   "Alterador 1, art. 5.º, n.º 1, alínea d): revogação dos n.os 1 e 3 do art. 12.º e do art. 14.º na parte em que contrariem o decreto-lei; revogação condicional, confirmada no texto, não aplicada (nao_aplicavel).",
+   "Alterador 1, art. 5.º, n.º 2: revogação genérica das normas contrárias; não aplicada (nao_aplicavel)."
+  ]
+ }
+]

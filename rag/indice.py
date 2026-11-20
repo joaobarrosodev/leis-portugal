@@ -4,7 +4,8 @@ Um pedaço por artigo, com o caminho completo (diploma › anexo › artigo e ep
 vigência do diploma, a versão (original ou consolidada) e o intervalo de datas em que
 aquele texto esteve em vigor. Nos diplomas com histórico (`.versoes.json`) cada redação de
 cada artigo é um pedaço, com `desde` e `ate`; nos outros, o texto vale desde a publicação.
-Os diplomas sem artigos identificados entram em blocos de ~300 palavras (`chave` = `texto#N`).
+Os diplomas sem artigos identificados entram em blocos de ~300 palavras (`chave` = `texto#N`), a não ser que o texto
+corrido («Artigo 1.º … Art. 2.º …») passe a salvaguarda de `rag.corrido`: aí entram os artigos e o resto em blocos.
 
 Tudo fica num SQLite com FTS5 (BM25), fora do git:
 
@@ -36,6 +37,7 @@ from dataclasses import dataclass
 from datetime import date
 from pathlib import Path
 
+from rag import corrido
 from rag import texto as termos_mod
 from rag.copias import impressao
 from rag.fontes import PASTA_INDICE, RAIZ, corpo, export_sqlite, fora_dos_artigos, ler_artigos, ler_historico, revogado, texto_da_versao
@@ -226,19 +228,23 @@ def _revogado(artigo) -> bool:
     return revogado(artigo.texto, "\n".join(artigo.notas))
 
 
-def pedacos_do_documento(doc: Documento) -> tuple[list[Pedaco], list[str], bool]:
-    """Os pedaços de um registo, os alvos de `republished_by` com o texto em vigor e se tem histórico."""
+def pedacos_do_documento(doc: Documento, *, texto_corrido: bool = True) -> tuple[list[Pedaco], list[str], bool]:
+    """Os pedaços de um registo, os alvos de `republished_by` com o texto em vigor e se tem histórico.
+
+    `texto_corrido`: ler como artigos o texto corrido que passa a salvaguarda (`rag.corrido`); sem isso, em blocos."""
+    texto_corrido = texto_corrido and corrido.le_o_tipo(doc.tipo)
+    so_no_diploma = corrido.codigo_no_diploma(doc.sumario)
     caminho = RAIZ / doc.caminho
     markdown = caminho.read_text(encoding="utf-8")
     cabecalho_yaml = markdown[: markdown.find("\n---\n", 4)] if markdown.startswith("---\n") else ""
     em_vigor_em = _TEXTO_EM_VIGOR.findall(cabecalho_yaml)
     historico = ler_historico(caminho)
     if historico and historico.get("versions"):
-        pedacos = _com_historico(historico)
+        pedacos = _com_historico(historico, texto_corrido=texto_corrido, so_no_diploma=so_no_diploma)
         if pedacos:
             return pedacos, em_vigor_em, True
     # Sem histórico, ou com um histórico que não dá nenhum pedaço: o texto do `.md`.
-    return _de_artigos(_unidades(corpo(markdown)), doc.data, None), em_vigor_em, bool(historico and historico.get("versions"))
+    return _de_artigos(_unidades(corpo(markdown), texto_corrido=texto_corrido, so_no_diploma=so_no_diploma), doc.data, None), em_vigor_em, bool(historico and historico.get("versions"))
 
 
 @dataclass
@@ -262,8 +268,15 @@ def _texto_util(texto: str) -> int:
     return sum(len(linha.strip()) for linha in texto.splitlines() if not linha.startswith("#"))
 
 
-def _unidades(texto: str) -> list:
+def _unidades(texto: str, *, texto_corrido: bool = True, so_no_diploma: bool = False) -> list:
     """O que entra no índice de um texto: os artigos ou, sem artigos nenhuns, o texto inteiro em blocos.
+
+    Sem nenhum título de artigo, o texto corrido («Artigo 1.º … Art. 2.º …») lê-se como artigos quando passa a
+    salvaguarda de `rag.corrido` (numeração seguida de 1 em diante em cada parte; com `so_no_diploma`, só na parte do
+    diploma: ver `corrido.codigo_no_diploma`); todo o texto que fica fora dos
+    artigos entra em blocos, seja qual for o tamanho (antes estava todo em blocos: o preâmbulo, as assinaturas e os títulos
+    dos capítulos continuam lá), e o que passa dos 30 000 caracteres de um artigo também. Se não passa, o texto inteiro
+    fica em blocos, como antes de 20/11/2026.
 
     Nos registos em que nenhum artigo vem de um título `###### Artigo` (só «ARTIGO», «Base» ou «1.º»), que antes de
     20/11/2026 entravam inteiros em blocos, nada pode ficar de fora. Entram também em blocos:
@@ -275,9 +288,13 @@ def _unidades(texto: str) -> list:
 
     Nos outros registos nada muda: o preâmbulo nunca entrou e os artigos compridos são cortados no limite."""
     artigos = ler_artigos(texto)
+    fora = None
     if not artigos:
-        return [_Bloco("", f"texto#{n}", bloco) for n, bloco in enumerate(_blocos(texto), 1)]
-    if any(a.forma == "Artigo" for a in artigos):
+        lidos = corrido.ler(texto, so_no_diploma=so_no_diploma) if texto_corrido else None
+        if lidos is None:
+            return [_Bloco("", f"texto#{n}", bloco) for n, bloco in enumerate(_blocos(texto), 1)]
+        artigos, fora = lidos
+    elif any(a.forma == "Artigo" for a in artigos):
         return artigos
     blocos: list[_Bloco] = []
     numeros: dict[str, int] = {}
@@ -287,16 +304,16 @@ def _unidades(texto: str) -> list:
             numeros[parte] = numeros.get(parte, 0) + 1
             blocos.append(_Bloco(parte, f"{parte}::texto#{numeros[parte]}" if parte else f"texto#{numeros[parte]}", bloco))
 
-    for parte, fora in fora_dos_artigos(texto):
-        if _texto_util(fora) >= ABERTURA_MINIMA:
-            em_blocos(parte, fora)
+    for parte, fora_ in fora if fora is not None else fora_dos_artigos(texto):
+        if fora is not None or _texto_util(fora_) >= ABERTURA_MINIMA:
+            em_blocos(parte, fora_)
     for artigo in artigos:
         if len(artigo.texto) > MAX_CARACTERES:
             em_blocos(artigo.parte, artigo.texto[MAX_CARACTERES:])
     return artigos + blocos
 
 
-def _com_historico(historico: dict) -> list[Pedaco]:
+def _com_historico(historico: dict, *, texto_corrido: bool = True, so_no_diploma: bool = False) -> list[Pedaco]:
     """Cada redação de cada artigo, com o intervalo [desde, ate) em que esteve em vigor.
 
     Uma revogação que só acrescenta a nota "Revogado pelo/a …" ao texto antigo também abre uma
@@ -311,7 +328,7 @@ def _com_historico(historico: dict) -> list[Pedaco]:
         quando = versao["date"]
         atuais: dict[tuple[str, int], object] = {}
         vistos: dict[str, int] = {}
-        for artigo in _unidades(texto_da_versao(historico, versao)):
+        for artigo in _unidades(texto_da_versao(historico, versao), texto_corrido=texto_corrido, so_no_diploma=so_no_diploma):
             vistos[artigo.chave] = vistos.get(artigo.chave, 0) + 1
             atuais[(artigo.chave, vistos[artigo.chave])] = artigo
         for chave in list(abertos):
@@ -376,10 +393,16 @@ def relacoes_do_export(export: Path, ids: set[str]) -> Iterator[tuple[str, str, 
 def construir(
     saida: Path, documentos: list[Documento], export: Path, *, fios: int = 8, so_referencia: set[str] | None = None,
     perguntas: dict[tuple[str, str], list[str]] | None = None, redacoes: dict[str, list] | None = None, repetidos: list[dict] | None = None,
+    texto_corrido: bool = True,
 ) -> None:
     """`redacoes`: registo → marcas das cópias que são redação anterior (`rag.copias`).
-    `repetidos`: registos repetidos do mesmo diploma, com o principal (`rag.duplicados`)."""
+    `repetidos`: registos repetidos do mesmo diploma, com o principal (`rag.duplicados`).
+
+    `texto_corrido`: ler como artigos o texto corrido que passa a salvaguarda (`rag.corrido`). Os registos com uma cópia
+    marcada em texto corrido (o Código Penal no DL 400/82, o do IVA no DL 394-B/84…) ficam em blocos: a marca procura o
+    início do texto antigo nos blocos (`aplicar_redacoes`), e com artigos deixava-o aberto."""
     redacoes = redacoes or {}
+    marcados_em_blocos = {d for d, marcas in redacoes.items() if any(m.artigos is None for m in marcas)}
     saida.parent.mkdir(parents=True, exist_ok=True)
     temporario = saida.with_suffix(".tmp")
     temporario.unlink(missing_ok=True)
@@ -399,7 +422,7 @@ def construir(
 
     def processar(doc: Documento):
         try:
-            return doc, *pedacos_do_documento(doc)
+            return doc, *pedacos_do_documento(doc, texto_corrido=texto_corrido and doc.id not in marcados_em_blocos)
         except FileNotFoundError:
             return doc, None, [], False
 
@@ -520,6 +543,10 @@ def main(argv: list[str] | None = None) -> int:
         help="Não ligar os registos repetidos do mesmo diploma ao principal (`rag.duplicados`), para medir o efeito.",
     )
     parser.add_argument(
+        "--sem-texto-corrido", action="store_true",
+        help="Deixar em blocos o texto corrido sem títulos de artigo, como antes (`rag.corrido`), para medir o efeito.",
+    )
+    parser.add_argument(
         "--com-perguntas", action="store_true",
         help="Juntar aos artigos as perguntas de leigo de rag/perguntas_artigo/ (piloto; publicar exige --com-perguntas).",
     )
@@ -551,7 +578,8 @@ def main(argv: list[str] | None = None) -> int:
 
         repetidos, fora_repetidos = duplicados.calcular(export, RAIZ)
         print(f"Registos repetidos: {len(repetidos)} com principal, {len(fora_repetidos)} de fora (python -m rag.duplicados lista-os)", file=sys.stderr, flush=True)
-    construir(args.saida, documentos, export, fios=args.fios, so_referencia=so_referencia, perguntas=perguntas, redacoes=redacoes, repetidos=repetidos)
+    construir(args.saida, documentos, export, fios=args.fios, so_referencia=so_referencia, perguntas=perguntas, redacoes=redacoes, repetidos=repetidos,
+              texto_corrido=not args.sem_texto_corrido)
     return 0
 
 

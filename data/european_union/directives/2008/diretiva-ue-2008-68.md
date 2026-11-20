@@ -530,6 +530,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:639146:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:660369:por
   label: null
   source: null

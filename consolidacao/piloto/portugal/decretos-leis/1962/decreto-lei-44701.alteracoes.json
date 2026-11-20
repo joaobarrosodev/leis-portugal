@@ -98,6 +98,20 @@
     "alterador": "pt:dre:216291:por"
   },
   {
+    "artigo": "32.º",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "###### Artigo 32.º\n\nAs transgressões ao disposto no presente decreto-lei são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), tendo em conta o estatuído nos §§ 1.º a 3.º do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).",
+    "depois": "###### Artigo 32.º\n\nAs transgressões ao disposto no presente decreto-lei são puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.\n\n> Alterado pelo/a [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), publicado em 1969-10-16.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:237463:por",
+    "alterador": "pt:dre:216291:por"
+  },
+  {
     "artigo": "31.º-A",
     "operacao": "aditar",
     "regra": "llm",
@@ -131,20 +145,6 @@
     "regra": "llm",
     "antes": "",
     "depois": "###### Artigo 31.º-C\n\nIndependentemente dos prémios de transferência ou de cobrança a que se referem os artigos precedentes, e das comissões que forem devidas ao agente do sistema instituído pelo [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465), de 17 de Novembro de 1962, as instituições de crédito cobrarão sempre dos ordenadores das operações de pagamentos interterritoriais uma comissão a favor dos fundos cambiais das províncias ultramarinas a que as aludidas operações respeitem.\n\n§ único. A comissão mencionada no presente artigo será de 0,5 por cento sobre a importância total das operações de pagamentos interterritoriais ou dos valores a cobrar e deverá ser entregue para crédito do respectivo fundo cambial no próprio dia da sua cobrança ou no dia útil imediato. Quando a operação respeitar a duas províncias ultramarinas, a importância da comissão cobrada será dividida em partes iguais pelos fundos cambiais dessas províncias.\n\n> Aditado pelo/a [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), publicado em 1969-10-16.",
-    "excerto": "",
-    "artigo_alterador": "",
-    "metodo": "llm",
-    "aviso": "",
-    "unidade": [],
-    "diploma": "pt:dre:237463:por",
-    "alterador": "pt:dre:216291:por"
-  },
-  {
-    "artigo": "32.º",
-    "operacao": "substituir",
-    "regra": "llm",
-    "antes": "###### Artigo 32.º\n\nAs transgressões ao disposto no presente decreto-lei são puníveis nos termos dos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), tendo em conta o estatuído nos §§ 1.º a 3.º do artigo 31.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).",
-    "depois": "###### Artigo 32.º\n\nAs transgressões ao disposto no presente decreto-lei são puníveis nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.\n\n> Alterado pelo/a [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), publicado em 1969-10-16.",
     "excerto": "",
     "artigo_alterador": "",
     "metodo": "llm",

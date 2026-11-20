@@ -1,0 +1,121 @@
+[
+ {
+  "id": "pt:dre:172897:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 47866 art. 1.º dá nova redação ao corpo (§§ 1.º e 3.º mantêm-se); DL 280/84 art. 1.º dá nova redação ao § 2.º (alíneas a, b, c), idêntica no consolidado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 4.º",
+    "veredicto": "certo",
+    "motivo": "DL 47866 art. 1.º: nova redação do corpo e aditamento dos §§ 1.º e 2.º; idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/84 art. 1.º: nova redação do corpo e do § 1.º (o § 2.º do DL 47866 fica como § 1.º; o antigo § 1.º desaparece); idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 720/76 art. 1.º: nova redação; idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/84 art. 1.º: nova redação (sem § único); idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/84 art. 1.º: nova redação (60 dias); idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/84 art. 1.º: nova redação com §§ 1.º e 2.º (revogado o § único pelo DL 720/76); idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/84 art. 1.º: nova redação com § único; idêntico (supera 47866 art. 4.º e 720/76 art. 2.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/84 art. 1.º: corpo e alíneas mantidos ('...'), §§ 1.º e 2.º novos substituem o § único; idêntico.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 280/84 art. 1.º: nova redação, igual ao consolidado (supera 47866, 462/74, 720/76).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 636/70 art. 1.º: nova redação com n.os 1 a 3; idêntico (al. a) do n.º 2 igual à dada pelo DL 46449 art. 24.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "DL 636/70 art. 1.º: nova redação com n.os 1 a 4; idêntico.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46449 (criação do Fundo de Fomento do Desporto), exceto o art. 24.º, n.º 1 (aplicado ao art. 14.º, depois superado pelo DL 636/70)",
+    "motivo": "instruções de outro diploma / normas autónomas que não alteram o texto do original"
+   },
+   {
+    "instrucao": "DL 47866, art. 4.º (prazo do art. 11.º ampliado para 180 dias) e DL 720/76, art. 2.º (prazos dos arts. 9.º e 11.º ampliados para 60 e 210 dias)",
+    "motivo": "ampliação de prazo sem nova redação (não textual); de qualquer modo superada pelo DL 280/84, que dá nova redação aos arts. 9.º e 11.º"
+   },
+   {
+    "instrucao": "DL 47866, art. 4.º revogado e demais artigos autónomos (arts. 2.º, 3.º, 5.º a 7.º)",
+    "motivo": "normas autónomas / outro diploma"
+   },
+   {
+    "instrucao": "DL 462/74, art. 1.º (Tabela Geral do Imposto do Selo) e art. 3.º",
+    "motivo": "instrução de outro diploma / não textual"
+   },
+   {
+    "instrucao": "Portaria 1106/80, n.º 1.º (quinhão da Direcção-Geral da Assistência Social passa a ser entregue ao IGFSS)",
+    "motivo": "não textual: muda o destinatário sem trazer nova redação do art. 14.º"
+   },
+   {
+    "instrucao": "DL 400/82 (sem texto no ficheiro)",
+    "motivo": "o diploma que altera não traz o texto da alteração"
+   },
+   {
+    "instrucao": "DL 280/84, art. 6.º (revoga disposições incompatíveis)",
+    "motivo": "revogação condicional"
+   },
+   {
+    "instrucao": "DL 280/84, arts. 2.º a 5.º (emblema, sorteios, fundo previsional, pessoal externo)",
+    "motivo": "normas autónomas que não alteram o texto do original"
+   },
+   {
+    "instrucao": "DL 317/2002 (altera o art. 17.º do DL 84/85)",
+    "motivo": "instrução de outro diploma"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

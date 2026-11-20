@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-03-03'
+version_history:
+  file: decreto-lei-48360.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-03-03'
+    amending: pt:dre:160544:por
+    amending_title: Decreto-Lei n.º 100/75
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:05:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 100/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48360.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,15 +128,27 @@ Tendo em vista o artigo 3.º do [Decreto-Lei n.º 47331](https://diariodarepubli
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É criada em Genebra uma missão permanente, dependente do Ministério dos Negócios Estrangeiros, a que caberá assegurar a representação de Portugal nos organismos e organizações internacionais com sede naquela cidade junto dos quais não haja delegações que dependam, por lei especial, de outra entidade.
+###### Artigo 1.º
 
-Art. 2.º A missão permanente terá a competência que lhe for fixada por despacho do Ministro dos Negócios Estrangeiros e será regulada, na parte aplicável, pelas disposições relativas ao funcionamento das missões diplomáticas no estrangeiro e, nomeadamente, em tudo que não for contrário às disposições do presente diploma legal, pelos artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, com a redacção dada ao corpo do artigo 4.º pelo [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953.
+É criada em Genebra uma missão permanente, dependente do Ministério dos Negócios Estrangeiros, a que caberá assegurar a representação de Portugal nos organismos e organizações internacionais com sede naquela cidade junto dos quais não haja delegações que dependam, por lei especial, de outra entidade.
 
-Art. 3.º A missão permanente terá a composição que for determinada em portaria pelos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.
+###### Artigo 2.º
 
-§ único. O representante permanente aludido no corpo deste artigo será acreditado junto dos organismos ou organizações internacionais a indicar por despacho do Ministro dos Negócios Estrangeiros, podendo também, por despacho da mesma entidade, ser designado para assegurar a representação de Portugal no departamento europeu das Nações Unidas.
+A missão permanente terá a competência que lhe for fixada por despacho do Ministro dos Negócios Estrangeiros e será regulada, na parte aplicável, pelas disposições relativas ao funcionamento das missões diplomáticas no estrangeiro e, nomeadamente, em tudo que não for contrário às disposições do presente diploma legal, pelos artigos 4.º, 5.º, 6.º e 7.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952, com a redacção dada ao corpo do artigo 4.º pelo [Decreto-Lei n.º 39504](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39504-1953-650356), de 31 de Dezembro de 1953.
 
-Art. 4.º As despesas da missão permanente serão satisfeitas por conta da verba global anualmente inscrita no orçamento do Ministério dos Negócios Estrangeiros, sendo-lhe aplicáveis o disposto nos parágrafos do artigo 9.º e no artigo 10.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952.
+###### Artigo 3.º
+
+A missão permanente terá a composição que for determinada em portaria pelos Ministros dos Negócios Estrangeiros e das Finanças e a sua chefia, a cargo de um representante permanente, será confiada a uma das entidades mencionadas no § 1.º do artigo 19.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966.
+
+§ 1.º O Ministro dos Negócios Estrangeiros, ouvido o Ministro da Economia, poderá decidir por simples despacho que a chefia da missão permanente seja exercida, em acumulação de funções, pelo representante de Portugal junto da Associação Europeia de Comércio Livre.
+
+§ 2.º O representante permanente aludido no corpo deste artigo será acreditado junto dos organismos ou organizações internacionais a indicar por despacho do Ministro dos Negócios Estrangeiros, podendo também, por despacho da mesma entidade, ser designado para assegurar a representação de Portugal no departamento europeu das Nações Unidas.
+
+> Alterado pelo/a [Decreto-Lei n.º 100/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1975-160544), publicado em 1975-03-03.
+
+###### Artigo 4.º
+
+As despesas da missão permanente serão satisfeitas por conta da verba global anualmente inscrita no orçamento do Ministério dos Negócios Estrangeiros, sendo-lhe aplicáveis o disposto nos parágrafos do artigo 9.º e no artigo 10.º do [Decreto-Lei n.º 38728](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38728-1952-599562), de 24 de Abril de 1952.
 
 § único (transitório). As despesas efectuadas e a efectuar este ano económico com a missão permanente a que alude este decreto-lei serão suportadas pela verba do capítulo 5.º, artigo 36.º, n.º 3), alínea 5, do orçamento do Ministério dos Negócios Estrangeiros actualmente em vigor.
 

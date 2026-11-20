@@ -530,5 +530,33 @@
     "unidade": [],
     "diploma": "pt:dre:545650:por",
     "alterador": "pt:dre:145590:por"
+  },
+  {
+    "artigo": "ANEXO I — Cargos de direcção superior da administração directa",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO I — Cargos de direcção superior da administração directa\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74547463.pdf)",
+    "depois": "## ANEXO I — Cargos de direcção superior da administração directa\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 117/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2011-145590), publicado em 2011-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545650:por",
+    "alterador": "pt:dre:145590:por"
+  },
+  {
+    "artigo": "ANEXO II — Dirigentes de organismos da administração indirecta",
+    "operacao": "substituir",
+    "regra": "llm",
+    "antes": "## ANEXO II — Dirigentes de organismos da administração indirecta\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74547463.pdf)",
+    "depois": "## ANEXO II — Dirigentes de organismos da administração indirecta\n\n(Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 117/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2011-145590), publicado em 2011-12-15.",
+    "excerto": "",
+    "artigo_alterador": "",
+    "metodo": "llm",
+    "aviso": "",
+    "unidade": [],
+    "diploma": "pt:dre:545650:por",
+    "alterador": "pt:dre:145590:por"
   }
 ]

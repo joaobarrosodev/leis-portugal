@@ -1,0 +1,14 @@
+[
+  {
+    "id": "pt:dre:303221:por",
+    "veredicto": "reparos",
+    "problemas": [
+      "Retificação não aplicada: a Declaração de Rectificação n.º 103/92 (pt:dre:623463:por, relação corrected_by, ficheiro data/portugal/declaracoes-retificacao/1992/declaracao-retificacao-103-92.md) retifica o anexo (relação das linhas e ramais, via larga). Onde se lê «Ramal de Alcácer: de Torre das Vargens (exclusive) a Marvão-Beirã (fronteira).» deve ler-se «Ramal de Cáceres: de Torre das Vargens (exclusivo) a Marvão-Beirã (fronteira).». O consolidado mantém «Ramal de Alcácer … (exclusive)», e a retificação não está entre os diplomas que alteram.",
+      "Menor, no anexo: o item que o Decreto-Lei n.º 394-A/98 (art. 6.º, n.º 2, alínea b)) passa para a via larga, «Linha de Guimarães: de Lousado (exclusive) a Santo Tirso e de Santo Tirso a Guimarães (a transformar)», ficou sem ponto final, ao contrário dos outros itens. O texto da instrução também não o traz entre aspas, por isso é só de forma. As restantes instruções (artigos 4.º e 5.º pelo Decreto-Lei n.º 274/98, n.º 2 do artigo 5.º mantido, retirada da Linha da Póvoa) estão bem aplicadas. A alínea d) que o art. 6.º, n.º 1, do Decreto-Lei n.º 394-A/98 adita ao n.º 2 do artigo 2.º dos Estatutos foi bem justificada como fora do original: o original não deu redação a esse número (só traz «2 - ...»)."
+    ],
+    "vigencia": {
+      "conclusao": "revogado",
+      "prova": "Relação repealed_by do DRE (pt:dre:140549:por): «Revogado, a partir de 12.07.2009, o Dec Lei 109/77 … com as alterações deste diploma - que será revogado na mesma data - pelo DEC LEI.137-A/2009». O art. 16.º do Decreto-Lei n.º 137-A/2009 revoga o Decreto-Lei n.º 109/77, «alterado pelos Decretos-Leis n.os 406/78, … 116/92 … e 274/98». O art. 17.º põe essa revogação em vigor 30 dias após a publicação (12.06.2009). Nota: o texto do art. 16.º só nomeia o Decreto-Lei n.º 109/77. Que os artigos 4.º a 12.º do original, que não alteram os Estatutos, ficam também revogados vem do registo do DRE e não da letra da norma."
+    }
+  }
+]

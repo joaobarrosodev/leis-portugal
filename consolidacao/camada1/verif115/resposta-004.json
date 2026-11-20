@@ -1,0 +1,79 @@
+[
+ {
+  "id": "pt:dre:223019:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 44/2014 art. 13.º dá nova redação aos n.os 1 e 4 (texto igual no consolidado; n.os 2 e 3 '[...]' mantêm o original) e DL 46/2002 art. 5.º n.º 1 adita a alínea g) ao n.º 2 (texto igual).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "DL 95/2010 art. 2.º: n.º 1, n.º 3 (corpo e alíneas c) a cc), a) e b) mantidas) e n.º 4 revogado conforme; n.º 5 mantido; DL 44/2014 art. 13.º adita n.º 6 igual. Alíneas c) a cc) conferidas uma a uma.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 7.º do DL 95/2010; consolidado '(Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 46/2002 art. 6.º n.º 1 b) revoga os n.os 2 e 3 do art. 12.º do DL 337/98; consolidado '2 - (Revogado.)' e '3 - (Revogado.)'.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "ANEXO I",
+    "veredicto": "certo",
+    "motivo": "DL 95/2010 art. 3.º substitui o anexo I (planta) pelo anexo I do diploma; o consolidado acrescenta o endereço 0291202916.pdf, que é a imagem do anexo I do DL 95/2010. A linha do título mantém o endereço antigo, que é o do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 1.º: DL 44/2014 art. 14.º dá nova redação ao n.º 1 (igual); n.º 2 '[...]' mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 3.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 3.º: nova redação do DL 44/2014 art. 14.º, igual letra a letra; epígrafe '[...]' mantida.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 9.º: DL 334/2001 art. 1.º n.º 3 dá nova redação ao n.º 1 ('e composto', grafia do diploma que altera); n.os 2 e 3 '...' mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º #2",
+    "veredicto": "certo",
+    "motivo": "Estatutos, art. 10.º: DL 44/2014 art. 14.º altera só a alínea l) (igual no consolidado); restantes '[...]' mantidas.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 46/2002, art. 6.º, n.º 1, alínea d): revoga todos os preceitos que contrariem o diploma",
+    "motivo": "Revogação condicional sem alvo textual; confirmado no texto do alterador."
+   },
+   {
+    "instrucao": "DL 44/2014, art. 2.º: a APS - Administração do Porto de Sines, S.A. passa a denominar-se APS - Administração dos Portos de Sines e do Algarve, S.A.",
+    "motivo": "Mudança de designação sem nova redação; o texto só muda onde o alterador o diz (arts. 13.º e 14.º), confirmado."
+   },
+   {
+    "instrucao": "DL 251-A/2015, DL 169-B/2019 e DL 32/2022: texto vazio na vista",
+    "motivo": "O diploma que altera não traz o texto da alteração na vista; não é possível identificar nem verificar instruções."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

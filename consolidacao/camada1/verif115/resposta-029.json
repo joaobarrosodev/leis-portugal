@@ -1,0 +1,45 @@
+[
+ {
+  "id": "pt:dre:638772:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 48.º-A",
+    "veredicto": "certo",
+    "motivo": "Igual ao artigo 48.º-A aditado pelo art. 3.º do DL 65/2011, com epígrafe Âmbito.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º-B",
+    "veredicto": "certo",
+    "motivo": "Igual ao texto aditado pelo art. 3.º do DL 65/2011.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 48.º-C",
+    "veredicto": "certo",
+    "motivo": "Igual ao texto aditado pelo art. 3.º do DL 65/2011.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 52.º",
+    "veredicto": "certo",
+    "motivo": "Corpo é o n.º 1 e n.º 2 do art. 2.º do DL 65/2011; epígrafe do original mantida (a redacção usa [...]).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 16/2025, arts. 2.º, 3.º e 4.º (alterações e revogações no DL 72/2023 e na Lei 3/2015, revogação do DL 36/2024)",
+    "motivo": "Instruções de outros diplomas; o DL 224/2007 só é citado no preâmbulo (confirmado)."
+   },
+   {
+    "instrucao": "DL 65/2011, art. 4.º (republicação em anexo do DL 224/2007)",
+    "motivo": "Não é textual: republicação sem nova redacção."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "Possível falta: o art. 3.º do DL 65/2011 adita o capítulo V-A «Cadastro predial em zonas de intervenção florestal»; não há CAPÍTULO V-A nem entre os artigos que diferem nem entre os iguais, pelo que o cabeçalho do capítulo parece não constar do consolidado (a confirmar)."
+ }
+]

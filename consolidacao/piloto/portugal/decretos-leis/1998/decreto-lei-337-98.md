@@ -7,18 +7,18 @@ consolidacao:
     sem valor oficial
   estado: por verificar às cegas
   alteracoes_aplicadas:
-  - id: pt:dre:536639:por
-    title: Decreto-Lei n.º 334/2001
-    publication_date: '2001-12-24'
-  - id: pt:dre:333868:por
-    title: Decreto-Lei n.º 95/2010
-    publication_date: '2010-07-29'
   - id: pt:dre:571959:por
     title: Decreto-Lei n.º 44/2014
     publication_date: '2014-03-20'
+  - id: pt:dre:333868:por
+    title: Decreto-Lei n.º 95/2010
+    publication_date: '2010-07-29'
   - id: pt:dre:251873:por
     title: Decreto-Lei n.º 46/2002
     publication_date: '2002-03-02'
+  - id: pt:dre:536639:por
+    title: Decreto-Lei n.º 334/2001
+    publication_date: '2001-12-24'
 ---
 
 # Decreto-Lei n.º 337/98
@@ -191,17 +191,13 @@ cc) Linha de costa desde o ponto anterior até ao ponto definido na alínea a), 
 
 6 - A APS, S.A., prossegue o seu objeto e as suas atribuições, igualmente, nas áreas de jurisdição identificadas no artigo 6.º do Decreto-Lei n.º 44/2014.
 
-> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868), publicado em 2010-07-29.
-
-> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868), publicado em 2010-07-29.
-
 > Alterado pelo/a [Decreto-Lei n.º 44/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2014-571959), publicado em 2014-03-20.
 
 ###### Artigo 8.º
 
 (Revogado.)
 
-> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868), publicado em 2010-07-29.
+> Revogado pelo/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868), publicado em 2010-07-29.
 
 ###### Artigo 9.º
 
@@ -327,6 +323,10 @@ O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/11/254a00/57445753.pdf)
 
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0291202916.pdf)
+
+> Alterado pelo/a [Decreto-Lei n.º 95/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2010-333868), publicado em 2010-07-29.
+
 ## ANEXO II — ESTATUTOS DA APS - ADMINISTRAÇÃO DO PORTO DE SINES, S. A.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
@@ -435,7 +435,7 @@ i) Deliberar sobre a emissão ou conversão de acções ou outros títulos em fo
 
 3 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo vogal por si designado para o efeito.
 
-> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 334/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-2001-536639), publicado em 2001-12-24.
+> Alterado pelo/a [Decreto-Lei n.º 334/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-2001-536639), publicado em 2001-12-24.
 
 ###### Artigo 10.º — Competência do conselho de administração
 

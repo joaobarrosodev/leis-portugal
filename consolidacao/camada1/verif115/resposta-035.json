@@ -1,0 +1,183 @@
+[
+ {
+  "id": "pt:dre:692200:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "Lista igual à do DL 247/2001 (última redacção)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1-2 do DL 247/2001, n.º 3 do DL 116/2001, n.º 4 anterior n.º 6 (DL 267-A/2000); n.os 4 e 5 antigos saem",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "errado",
+    "motivo": "O DL 267-A/2000 dá nova redacção ao artigo 7.º mas o consolidado traz dois parágrafos: a nova redacção e, a seguir, o texto antigo do original (pelo Ministro de Estado ou pelo ministro...) que devia ter sido substituído",
+    "texto_esperado": "###### Artigo 7.º\nO Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição."
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 do DL 247/2001; n.os 1 e 3 iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 10.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000, art. 3.º, n.º 1",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 11.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000, art. 3.º, n.º 1",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "Repristinado pelo DL 247/2001, art. 2.º, com a redacção aí dada",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2 do DL 116/2001; n.os 1, 3 e 4 iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 15.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 revogado pelo DL 247/2001; n.º 2 igual",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 do DL 267-A/2000",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 do DL 247/2001; n.º 3 do DL 267-A/2000",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 do DL 247/2001",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 do DL 116/2001, n.os 4 e 5 do DL 116/2001 e DL 247/2001 (n.º 5)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 22.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 do DL 267-A/2000",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 23.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 do DL 247/2001",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "n.º 1 do DL 247/2001",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "n.º 2, 5 e 6 do DL 267-A/2000",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1, 3 e 4 do DL 247/2001",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 28.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267-A/2000, n.º 2 alterado pelo DL 116/2001",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "CAPÍTULO II",
+    "veredicto": "certo",
+    "motivo": "Epígrafe «Do Conselho de Ministros» (DL 267-A/2000, art. 3.º, n.º 2)",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 do DL 267-A/2000; n.os 3 e 4 iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 33.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 267-A/2000",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 34.º",
+    "veredicto": "certo",
+    "motivo": "n.os 1 e 2 do DL 267-A/2000; n.os 3 e 4 iguais",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 35.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo DL 267-A/2000",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º",
+    "veredicto": "certo",
+    "motivo": "n.º 4 novo, n.º 9 passa a ser o anterior n.º 10 (DL 267-A/2000); anterior n.º 9 sai",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 37.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo DL 24/2002",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 120/2002, art. 32.º, n.º 1: a estrutura orgânica do DL 474-A/99, com as alterações, é substituída pela do novo diploma",
+    "motivo": "Substituição global da orgânica, sem instrução de alteração ou revogação de artigos concretos do original; não é textual"
+   },
+   {
+    "instrucao": "DL 151/2019 (intermunicipalização da STCP; art. 20.º altera a Lei 52/2015; art. 22.º revoga DL 202/94, 379/98 e 82/2016)",
+    "motivo": "Nenhuma instrução dirigida ao DL 474-A/99; instruções de outros diplomas"
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

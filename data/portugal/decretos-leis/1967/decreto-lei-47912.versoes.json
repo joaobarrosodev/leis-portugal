@@ -1,0 +1,173 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:390270:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-09-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "214053e990953bcd"
+   ]
+  },
+  {
+   "date": "1988-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:226036:por",
+     "title": "Decreto-Lei n.º 180/70",
+     "published": "1970-04-25",
+     "dre_path": "/dr/detalhe/decreto-lei/180-1970-226036"
+    },
+    {
+     "id": "pt:dre:374842:por",
+     "title": "Decreto-Lei n.º 161/88",
+     "published": "1988-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/161-1988-374842"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "2d762c1b28a6fe21",
+    "263cea68652275aa",
+    "b8920dc446e3c980",
+    "ce5a9d7d4f220fdf",
+    "28ea2cf1cdcb8115",
+    "994abda3c4fdd917",
+    "3d19a9e2df13967d",
+    "1960d91d0802888e",
+    "a56123e03dc144cd",
+    "a35ec131a9ff25b7",
+    "2dc00bb6b09a5999",
+    "171f7e1d04cf0f5d",
+    "b66f0451f708dc0c"
+   ]
+  }
+ ],
+ "fragments": {
+  "214053e990953bcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tem-se mantido na linha das principais preocupações do Governo a evolução que se vem processando nos mercados monetário e financeiro, a qual está na origem da promulgação de diversas providências legislativas tendo em vista a melhoria das condições de funcionamento daqueles mercados.\n\nEm complemento das medidas ùltimamente tomadas, convirá agora dar forma a um conjunto de disposições tendentes ao mesmo objectivo e constituindo, em parte, inovações à legislação reguladora do crédito.\n\nA par da faculdade atribuída ao Ministro das Finanças de fixar o regime das taxas de juro, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito, mantêm-se várias normas atinentes à determinação das taxas de juro legais e sujeita-se ainda a decisão ministerial a fixação de limites máximos dos prémios de transferência e de certas comissões cobradas pelas instituições de crédito.\n\nDentro da mesma orientação disciplinadora, permite-se ao Ministério das Finanças a possibilidade de fazer sujeitar à sua prévia aprovação qualquer forma de actividade em matéria susceptível de perturbar o sistema de crédito ou o funcionamento dos mercados do dinheiro.\n\nMantêm-se ainda alguns preceitos, já constantes de lei anterior, sobre matéria fiscal, deixando-se para diploma especial, a publicar brevemente, o alargamento do regime de isenção do imposto complementar aos juros dos depósitos a prazo ou com pré-aviso em todas as instituições de crédito legalmente autorizadas a recebê-los.\n\nPor último, consigna-se expressamente como transgressão a simples proposta de taxas de juro superiores aos limites legais, ao mesmo tempo que se consideram infractores, sujeitos a multa, os depositantes que contratarem ou tentarem contratar com as instituições de crédito taxas de juro que excedam aqueles limites. Deste modo, tornam-se puníveis todas as tentativas de elevação do nível legal de remuneração dos depósitos.\n\nEste conjunto de preceitos é acompanhado pela revisão, em portaria, das taxas de juro das operações activas e passivas dos institutos de crédito, dentro de critérios mais ajustados às realidades e ouvido o Conselho Nacional de Crédito.\n\nNestes termos:\n\nConsiderando o disposto no artigo 22.º da [Lei n.º 2131](https://diariodarepublica.pt/dr/detalhe/lei/2131-1966-477832), de 26 de Dezembro de 1966;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º O Ministro das Finanças poderá, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito, fixar, por portaria, o regime das taxas de juro para as operações efectuadas pelas instituições de crédito, pelas instituições parabancárias ou por quaisquer outras entidades.\n\nArt. 2.º - 1. Serão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro das operações activas, quaisquer comissões cobradas pelas instituições de crédito ou entidades parabancárias.\n\n2. Exceptuam-se do disposto no número antecedente, quanto às instituições de crédito:\n\na) Os prémios de transferência referentes a letras e outros efeitos comerciais pagáveis em praça localizada em concelho diferente daquele em que tiver lugar o desconto;\n\nb) As comissões de aceite;\n\nc) As comissões de imobilização que incidam sobre as importâncias não utilizadas de créditos concedidos em conta corrente ou em conta caucionada.\n\n3. Os limites máximos dos prémios de transferência e comissões a que se refere o número anterior serão fixados por despacho do Ministro das Finanças, ouvido o Grémio Nacional dos Bancos e Casas Bancárias.\n\nArt. 3.º Serão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro dos empréstimos contratados com mediação das entidades referidas no [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, quaisquer comissões cobradas pelas referidas entidades.\n\nArt. 4.º É vedado a todas as instituições de crédito atribuir aos seus depositantes quaisquer vantagens ou prémios que, directa ou indirectamente, possam traduzir-se em retribuições dos seus depósitos superiores às correspondentes taxas máximas legais.\n\nArt. 5.º Das contas de depósito existentes nas instituições de crédito constarão, obrigatòriamente, o nome e o domicílio do depositante ou depositantes.\n\nArt. 6.º As instituições de crédito, bem como as instituições parabancárias, não poderão substituir-se, directa ou indirectamente, aos depositantes, ou outros credores por operações bancárias, nos pagamentos dos impostos por eles devidos com relação aos juros dos respectivos depósitos e operações.\n\nArt. 7.º Para efeitos fiscais, serão equiparados a depósitos à ordem os depósitos com pré-aviso inferior a 30 dias e a depósitos a prazo os com pré-aviso igual ou superior a 30 dias.\n\nArt. 8.º A Direcção-Geral das Contribuições e Impostos exercerá a fiscalização que lhe compete para observância das disposições fiscais relativas aos juros de depósitos nas instituições de crédito.\n\nArt. 9.º - 1. O Ministério das Finanças, por intermédio da Inspecção-Geral do Crédito e Seguros, poderá fazer sujeitar à sua prévia autorização ou aprovação qualquer forma de actividade das instituições de crédito e parabancárias e de quaisquer outras entidades, em matéria que considere susceptível de perturbar ou tender a perturbar o sistema de crédito ou a alterar as condições normais de funcionamento dos mercados monetário, cambial e financeiro.\n\n2. Para os efeitos do número antecedente poderá a Inspecção expedir as necessárias circulares ou instruções às entidades cuja fiscalização lhe compete e solicitar a intervenção de outras entidades oficiais.\n\nArt. 10.º - 1. Sem prejuízo das sanções previstas na lei geral, as infracções ao disposto no presente diploma e nas portarias a que se refere o seu artigo 1.º serão punidas de harmonia com o preceituada nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e no [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de. Dezembro de 1946.\n\n2. Será punível, nos termos do n.º 1 deste artigo, a simples proposta ou oferta por uma instituição de crédito ou parabancária, ou por uma das entidades a que se refere o [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de taxas de juro superiores às legalmente permitidas.\n\n3. Serão também considerados infractores, puníveis nos termos referidos no n.º 1 deste artigo, os depositantes que contratarem, ou tentarem contratar, com as instituições de crédito taxas de juro de depósitos superiores aos correspondentes limites máximos legais. A multa aplicada será graduada entre o mínimo consignado no corpo do artigo 90.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) e o quíntuplo do valor dos juros totais correspondentes à respectiva operação.\n\nArt. 11.º Em todos os casos em que sejam aplicadas quaisquer multas pelo inspector-geral de Crédito e Seguros, ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966, poderão os limites mínimos das mesmas descer para um quinto, em termos idênticos aos estabelecidos no § 2.º do artigo 90.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.\n\nArt. 12.º São revogados os artigos 8.º a 17.º e 37.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 7 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "2d762c1b28a6fe21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tem-se mantido na linha das principais preocupações do Governo a evolução que se vem processando nos mercados monetário e financeiro, a qual está na origem da promulgação de diversas providências legislativas tendo em vista a melhoria das condições de funcionamento daqueles mercados.\n\nEm complemento das medidas ùltimamente tomadas, convirá agora dar forma a um conjunto de disposições tendentes ao mesmo objectivo e constituindo, em parte, inovações à legislação reguladora do crédito.\n\nA par da faculdade atribuída ao Ministro das Finanças de fixar o regime das taxas de juro, sobre parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito, mantêm-se várias normas atinentes à determinação das taxas de juro legais e sujeita-se ainda a decisão ministerial a fixação de limites máximos dos prémios de transferência e de certas comissões cobradas pelas instituições de crédito.\n\nDentro da mesma orientação disciplinadora, permite-se ao Ministério das Finanças a possibilidade de fazer sujeitar à sua prévia aprovação qualquer forma de actividade em matéria susceptível de perturbar o sistema de crédito ou o funcionamento dos mercados do dinheiro.\n\nMantêm-se ainda alguns preceitos, já constantes de lei anterior, sobre matéria fiscal, deixando-se para diploma especial, a publicar brevemente, o alargamento do regime de isenção do imposto complementar aos juros dos depósitos a prazo ou com pré-aviso em todas as instituições de crédito legalmente autorizadas a recebê-los.\n\nPor último, consigna-se expressamente como transgressão a simples proposta de taxas de juro superiores aos limites legais, ao mesmo tempo que se consideram infractores, sujeitos a multa, os depositantes que contratarem ou tentarem contratar com as instituições de crédito taxas de juro que excedam aqueles limites. Deste modo, tornam-se puníveis todas as tentativas de elevação do nível legal de remuneração dos depósitos.\n\nEste conjunto de preceitos é acompanhado pela revisão, em portaria, das taxas de juro das operações activas e passivas dos institutos de crédito, dentro de critérios mais ajustados às realidades e ouvido o Conselho Nacional de Crédito.\n\nNestes termos:\n\nConsiderando o disposto no artigo 22.º da [Lei n.º 2131](https://diariodarepublica.pt/dr/detalhe/lei/2131-1966-477832), de 26 de Dezembro de 1966;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "263cea68652275aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1988-05-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 180/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1970-226036), publicado em 1970-04-25."
+   ],
+   "markdown": "###### Artigo 1.º\n\nCompete ao Ministro das Finanças fixar, por portaria, sob parecer do Banco de Portugal, o regime das taxas de juro para as operações efectuadas pelas instituições de crédito, pelas instituições parabancárias, ou por quaisquer outras entidades.\n\n> Alterado pelo/a [Decreto-Lei n.º 180/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1970-226036), publicado em 1970-04-25."
+  },
+  "b8920dc446e3c980": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1988-05-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 161/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1988-374842), publicado em 1988-05-13."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Serão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro das operações activas, quaisquer comissões cobradas pelas instituições de crédito ou entidades parabancárias.\n\n2. Exceptuam-se do disposto no número antecedente, quanto às instituições de crédito:\n\na) As comissões de cobrança;\n\nb) As comissões de aceite;\n\nc) As comissões de imobilização que incidam sobre as importâncias não utilizadas de créditos concedidos em conta corrente ou em conta caucionada.\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 161/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-1988-374842), publicado em 1988-05-13."
+  },
+  "ce5a9d7d4f220fdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSerão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro dos empréstimos contratados com mediação das entidades referidas no [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de 30 de Junho de 1961, quaisquer comissões cobradas pelas referidas entidades."
+  },
+  "28ea2cf1cdcb8115": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ vedado a todas as instituições de crédito atribuir aos seus depositantes quaisquer vantagens ou prémios que, directa ou indirectamente, possam traduzir-se em retribuições dos seus depósitos superiores às correspondentes taxas máximas legais."
+  },
+  "994abda3c4fdd917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nDas contas de depósito existentes nas instituições de crédito constarão, obrigatòriamente, o nome e o domicílio do depositante ou depositantes."
+  },
+  "3d19a9e2df13967d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs instituições de crédito, bem como as instituições parabancárias, não poderão substituir-se, directa ou indirectamente, aos depositantes, ou outros credores por operações bancárias, nos pagamentos dos impostos por eles devidos com relação aos juros dos respectivos depósitos e operações."
+  },
+  "1960d91d0802888e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara efeitos fiscais, serão equiparados a depósitos à ordem os depósitos com pré-aviso inferior a 30 dias e a depósitos a prazo os com pré-aviso igual ou superior a 30 dias."
+  },
+  "a56123e03dc144cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Direcção-Geral das Contribuições e Impostos exercerá a fiscalização que lhe compete para observância das disposições fiscais relativas aos juros de depósitos nas instituições de crédito."
+  },
+  "a35ec131a9ff25b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O Ministério das Finanças, por intermédio da Inspecção-Geral do Crédito e Seguros, poderá fazer sujeitar à sua prévia autorização ou aprovação qualquer forma de actividade das instituições de crédito e parabancárias e de quaisquer outras entidades, em matéria que considere susceptível de perturbar ou tender a perturbar o sistema de crédito ou a alterar as condições normais de funcionamento dos mercados monetário, cambial e financeiro.\n\n2. Para os efeitos do número antecedente poderá a Inspecção expedir as necessárias circulares ou instruções às entidades cuja fiscalização lhe compete e solicitar a intervenção de outras entidades oficiais."
+  },
+  "2dc00bb6b09a5999": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Sem prejuízo das sanções previstas na lei geral, as infracções ao disposto no presente diploma e nas portarias a que se refere o seu artigo 1.º serão punidas de harmonia com o preceituada nos artigos 89.º a 98.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e no [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de. Dezembro de 1946.\n\n2. Será punível, nos termos do n.º 1 deste artigo, a simples proposta ou oferta por uma instituição de crédito ou parabancária, ou por uma das entidades a que se refere o [Decreto-Lei n.º 43767](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43767-1961-172905), de taxas de juro superiores às legalmente permitidas.\n\n3. Serão também considerados infractores, puníveis nos termos referidos no n.º 1 deste artigo, os depositantes que contratarem, ou tentarem contratar, com as instituições de crédito taxas de juro de depósitos superiores aos correspondentes limites máximos legais. A multa aplicada será graduada entre o mínimo consignado no corpo do artigo 90.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) e o quíntuplo do valor dos juros totais correspondentes à respectiva operação."
+  },
+  "171f7e1d04cf0f5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nEm todos os casos em que sejam aplicadas quaisquer multas pelo inspector-geral de Crédito e Seguros, ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 47413](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47413-1966-477846), de 23 de Dezembro de 1966, poderão os limites mínimos das mesmas descer para um quinto, em termos idênticos aos estabelecidos no § 2.º do artigo 90.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959."
+  },
+  "b66f0451f708dc0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSão revogados os artigos 8.º a 17.º e 37.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 7 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

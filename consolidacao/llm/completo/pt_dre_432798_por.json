@@ -2,6 +2,12 @@
   "id": "pt:dre:432798:por",
   "artigos": [
     {
+      "chave": "5.º",
+      "epigrafe": "(Empréstimos)",
+      "texto": "1 - O Governo fica autorizado a contrair empréstimos internos e externos para fazer face ao défice do Orçamento Geral do Estado, até ao montante de 121013 milhões de escudos, com as condições e limites estabelecidos nos números seguintes, e sem prejuízo do cumprimento da alínea h) do artigo 164.º da Constituição.\n\n2 - A emissão de empréstimos internos subordinar-se-á às seguintes condições gerais:\n\na) Não contribuírem para o agravamento das tensões inflacionistas, através do seu efeito sobre o aumento global dos meios de pagamento;\n\nb) Serem apresentados à subscrição do público e dos investidores institucionais até perfazer um montante mínimo de 7,5 milhões de contos, nas condições correntes do mercado em matérias de prazo, taxa de juro e demais encargos;\n\nc) Serem os restantes empréstimos colocados junto das instituições financeiras e, em última instância, junto do banco central.\n\n3 - A emissão dos empréstimos externos referidos no n.º 1 do presente artigo subordinar-se-á ainda às condições gerais seguintes:\n\na) Serem exclusivamente aplicados no financiamento de investimentos do Plano ou de outros empreendimentos especialmente reprodutivos e principalmente na componente importada;\n\nb) Inserirem-se em condições que não sejam mais desfavoráveis do que as correntes no mercado internacional de capitais em matérias de prazo, taxa de juro e demais encargos.\n\n4 - O Governo informará trimestralmente a Assembleia da República acerca do montante, condições, entidade financiadora e destino de todos os empréstimos lançados.",
+      "alterador": 1
+    },
+    {
       "chave": "31.º",
       "epigrafe": "(Receitas dos organismos de coordenação económica)",
       "texto": "(Revogado.)",
@@ -9,15 +15,39 @@
     }
   ],
   "removidos": [],
-  "nao_aplicavel": "Alterador 1 (Lei 43/79), art. 3.º: 'é fixado em 121013 milhões de escudos o montante referido no n.º 1 do artigo 5.º' - não dá nova redação ao n.º 1 (que fala em '101 milhões de contos'), por isso não se reescreveu o texto; art. 1.º e anexos I a III: alterações aos anexos I a III, que só existem em imagem (ver documento original) - não aplicadas.",
+  "titulos": [],
+  "anexos": [
+    {
+      "titulo": "## ANEXO I — Mapa das receitas do Estado, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1979",
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14402/00330049.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20701/00060008.pdf)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO II — Mapa das despesas, por Ministérios e Secretarias de Estado, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1979",
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14402/00330049.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20701/00060008.pdf)",
+      "alterador": 1
+    },
+    {
+      "titulo": "## ANEXO III — Mapa da classificação funcional das despesas públicas, a que se refere o n.º 2 do artigo 1.º da Lei do Orçamento para 1979",
+      "texto": "[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14402/00330049.pdf)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20701/00060008.pdf)",
+      "alterador": 1
+    }
+  ],
+  "nao_aplicavel": "Alterador 1, art. 4.º, al. a), renovação da autorização legislativa dos artigos 18.º, als. e) e f) (com redução do prazo de cinco para três anos), e 26.º, als. c) e h): não textual (renovação de autorização legislativa; a redução do prazo vale para a autorização renovada e o alterador não dá nova redação aos artigos 18.º e 26.º)\nAlterador 2, Decreto-Lei n.º 519-H1/79 (taxas pautais ao abrigo da alínea e) do artigo 24.º): não textual (ao abrigo de autorização legislativa do original, sem o alterar)",
   "instrucoes": [
-    "Alt. 1 (Lei 43/79), arts. 1.º e 2.º: alterações às verbas dos anexos I a III (só em imagem) - não aplicadas.",
-    "Alt. 1, art. 3.º: novo montante do n.º 1 do art. 5.º sem nova redação - não aplicado ao texto (ver nao_aplicavel).",
-    "Alt. 1, art. 4.º: renova autorizações dos arts. 18.º e) e f) e 26.º c) e h) - não altera o texto.",
-    "Alt. 1, art. 6.º: revoga a autorização legislativa do art. 31.º, que é o conteúdo inteiro do artigo - art. 31.º marcado (Revogado.).",
-    "Alt. 2 (DL 519-H1/79): usa a autorização do art. 24.º e); não tem instruções dirigidas ao texto do original."
+    "Alterador 1, art. 1.º e anexos I a III: substituem, na parte alterada, os anexos I a III (só em imagem); corpo atual de cada anexo mais a linha da imagem do alterador.",
+    "Alterador 1, art. 3.º: fixa em 121013 milhões de escudos o montante do n.º 1 do artigo 5.º; substituído '101 milhões de contos' por '121013 milhões de escudos' (texto do alterador).",
+    "Alterador 1, art. 4.º, al. a): renovação de autorização legislativa, não textual; nao_aplicavel.",
+    "Alterador 1, art. 4.º, al. b), e art. 5.º: normas autónomas da lei de alteração, não dirigidas ao texto do original; nada a aplicar.",
+    "Alterador 1, art. 6.º: revoga a autorização legislativa do artigo 31.º; artigo 31.º fica '(Revogado.)'.",
+    "Alterador 2: usa a autorização do artigo 24.º, al. e); não altera o original; nao_aplicavel."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [
+    "5.º: parágrafo que não está no alterador nem no original: 1 - O Governo fica autorizado a contrair empréstimos internos e externos para fa"
+  ],
+  "numeracao_aceite": [],
+  "avisos": []
 }

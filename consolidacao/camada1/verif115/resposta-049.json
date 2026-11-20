@@ -1,0 +1,42 @@
+[
+ {
+  "id": "pt:dre:306575:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "Lei 1/2013 art. 1.º dá novos n.os 1 e 2 (anteriores 2 e 3 passam a 3 e 4); Lei 4/2017 art. 4.º n.º 1 revoga os n.os 1 e 2 da redação da Lei 1/2013. N.os 3 e 4 mantêm o texto do original; o Acórdão 801/2014 não elimina o texto do n.º 4."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 1/2013 art. 2.º: nova redação do art. 18.º da Lei 19/2003",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "Acórdão TC 801/2014: inconstitucionalidade com força obrigatória geral do n.º 4 do art. 3.º (numeração da Lei 1/2013)",
+    "motivo": "Declaração de inconstitucionalidade sem eliminar o texto; não textual."
+   },
+   {
+    "instrucao": "Acórdão TC 801/2014: inconstitucionalidade do n.º 8 do art. 5.º da Lei 19/2003",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "LO 5/2015 art. 2.º: nova redação dos arts. 5.º e 12.º da Lei 19/2003 (e art. 1.º, Lei 28/82)",
+    "motivo": "Outro diploma."
+   },
+   {
+    "instrucao": "Lei 4/2017 arts. 1.º e 2.º: reduções definitivas e nova redação dos arts. 5.º e 12.º da Lei 19/2003",
+    "motivo": "Outro diploma / normas autónomas que não alteram o texto do original."
+   },
+   {
+    "instrucao": "Lei 50/2025: alteração da Lei 77/88 (LOFAR)",
+    "motivo": "Outro diploma; o original só consta da lista de alterações anteriores."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

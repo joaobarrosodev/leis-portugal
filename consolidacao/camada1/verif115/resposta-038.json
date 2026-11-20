@@ -1,0 +1,81 @@
+[
+ {
+  "id": "pt:dre:391404:por",
+  "artigos": [
+   {
+    "artigo": "Trecho 1",
+    "veredicto": "certo",
+    "motivo": "As seis imagens acrescentadas são, por ordem, as dos DL 48268 (art. 2.º), 48664 (art. 2.º), 48760 (art. 2.º, 3.º), 48940 (art. 2.º), 49292 (art. 3.º) e 89/70 (art. único), todas dirigidas à lista anexa ao DL 47958; endereços coincidem; corpo antigo mantido (alteração parcial).",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 48760 art. 2.º, 1.º: eliminar da lista os produtos das posições 73.09, 73.12.04, 73.15.01, 73.15.02, 73.15.10, 73.15.11, 73.15.12 e 73.18.05 (alvo incerto: a lista do original só existe em imagem)",
+   "DL 48760 art. 2.º, 2.º: emendar a numeração das subposições 73.10.03 e 73.11.06 para 73.10.02 e 73.11.09 (alvo incerto: lista só em imagem)",
+   "DL 49133 art. 4.º: introduzir na lista '41.02 ... 03 ... Peles semicurtidas pelo crómio, no estado húmido (wet blues)' (alvo incerto: o texto a incluir vem no alterador mas não foi aplicado; lista só em imagem)",
+   "DL 49365 artigo único: introduzir na lista ex 48.07.07 (cartão impregnado com látex), 90.23.02 (termómetros para usos clínicos) e 90.28.04 (instrumentos e aparelhos eléctricos ou electrónicos de medida, verificação, regulação ou análise, não especificados) (alvo incerto: texto dado pelo alterador mas não aplicado)",
+   "DL 595/70 art. 3.º: na lista, o artigo 84.25.05 passa a 84.25.06 (alvo incerto: lista só em imagem)",
+   "DL 603/71 art. 2.º, 1.º: eliminar da lista os produtos dos artigos 29.25.01, 73.24.02 e 90.10 (alvo incerto)",
+   "DL 603/71 art. 2.º, 2.º: emendar a numeração de 29.25.02 e 29.25.03 para 29.25.01 e 29.25.02 (alvo incerto)",
+   "DL 603/71 art. 2.º, 3.º: incluir na lista os produtos 21.05, ex 29.39, 73.24, 87.02, 87.06, 89.01, 90.10, 90.19 (texto dado pelo alterador mas não aplicado; alvo incerto)",
+   "DL 603/71 art. 2.º, 4.º: alterar a redacção das posições e subposições 22.01 a 90.13 etc. na lista (texto dado pelo alterador mas não aplicado; alvo incerto)",
+   "DL 626/71 art. 6.º: eliminar da lista os produtos do artigo 56.01.01 (alvo incerto)",
+   "DL 304/73 art. 9.º, alínea b): alterar o dizer do artigo 32.09.01 na lista (alvo incerto)",
+   "DL 304/73 art. 9.º, alínea c): modificar as redacções das referências aos artigos 39.01.03 e 48.01.10 na lista (alvo incerto)",
+   "DL 555/75 art. 4.º, alínea b): alterar os n.os 59.17.14 e 59.17.16 para 59.17.15 e 59.17.17 na lista (alvo incerto)"
+  ],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 48222 artigo único: introduzir na lista as mercadorias da nota ao artigo 74.04.02 (DL 48221)",
+    "motivo": "O alterador não traz o texto a incluir (remete para nota de outro diploma) e a lista só existe em imagem."
+   },
+   {
+    "instrucao": "DL 48225 art. 3.º: mercadorias dos artigos 84.62.04 e 84.62.05 continuam incluídas na lista",
+    "motivo": "Não textual: confirma a inclusão, não altera o texto (texto do alterador omitido na vista; nota da triagem coincide)."
+   },
+   {
+    "instrucao": "DL 48424 artigo único: introduzir na lista as mercadorias da nota ao artigo 38.11.02 (DL 44373)",
+    "motivo": "O alterador não traz o texto a incluir e a lista só existe em imagem."
+   },
+   {
+    "instrucao": "DL 326/70 art. 3.º: incluir na lista o produto da nota ao artigo 68.13",
+    "motivo": "O alterador não traz a redacção a incluir na lista (só remete para o produto da nota)."
+   },
+   {
+    "instrucao": "DL 595/70 art. 4.º: incluir na lista as mercadorias do artigo 84.25.03",
+    "motivo": "O alterador não traz a redacção a incluir na lista (só remete para o artigo)."
+   },
+   {
+    "instrucao": "DL 670/70 art. 7.º: introduzir na lista os artigos 91.09.03, 91.09.04 e 91.11",
+    "motivo": "O alterador só dá os números; sem texto a incluir."
+   },
+   {
+    "instrucao": "DL 600/72 art. 9.º, n.º 1: introduzir na lista os artigos 73.01, 73.06, 73.07.01, 73.15.04 e 73.15.41",
+    "motivo": "O alterador só dá os números; sem texto a incluir."
+   },
+   {
+    "instrucao": "DL 260/73 art. 4.º: incluir na lista as mercadorias das notas dos artigos do art. 2.º",
+    "motivo": "O alterador não traz a redacção a incluir na lista."
+   },
+   {
+    "instrucao": "DL 304/73 art. 9.º, alínea a): introduzir na lista as mercadorias dos artigos 21.07.03, 37.02.03, 46.01.01, 74.07.01 e das notas referidas",
+    "motivo": "O alterador só remete para artigos e notas; não traz a redacção a incluir na lista."
+   },
+   {
+    "instrucao": "DL 287/74 art. 3.º: introduzir na lista as mercadorias da nota da posição 85.20",
+    "motivo": "O alterador não traz a redacção a incluir na lista."
+   },
+   {
+    "instrucao": "DL 401/74 art. 5.º: incluir na lista as mercadorias abrangidas pelo diploma",
+    "motivo": "O alterador não traz a redacção a incluir na lista."
+   },
+   {
+    "instrucao": "DL 555/75 art. 4.º, alínea a): introduzir na lista as mercadorias do novo artigo 59.17.11",
+    "motivo": "O alterador só remete para o artigo; não traz a redacção a incluir na lista."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

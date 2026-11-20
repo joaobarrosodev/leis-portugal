@@ -16,25 +16,19 @@
     {
       "de": 124,
       "ate": 124,
-      "texto": "Art. 10.º (Revogado.)",
+      "texto": "Art. 10.º - (Revogado.)",
       "alterador": 4
     },
     {
       "de": 125,
       "ate": 125,
-      "texto": "Art. 11.º - 1. Competem ao conselho de administração todos os poderes necessários para assegurar o funcionamento da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste estatuto atribuídos a outras entidades ou a outros órgãos da empresa.",
+      "texto": "Art. 11.º - 1. Competem ao conselho de administração todos os poderes necessários para assegurar o funcionamento da empresa, a sua representação em juízo ou fora dele, o aperfeiçoamento, o desenvolvimento e a gestão do seu património, incluindo a aquisição e alienação de bens e o regular funcionamento dos serviços a seu cargo, desde que não estejam neste estatuto atribuídos a outras entidades ou a outros órgãos da empresa.\n\n2. Compete também ao conselho de administração celebrar acordos com as administrações ou empresas congéneres sobre a execução dos serviços comuns, desde que se coadunem com a política de actuação dos CTT definida pelo Governo.",
       "alterador": 1
     },
     {
       "de": 126,
-      "ate": 126,
-      "texto": "3. O conselho de administração poderá delegar, no todo ou em parte, em qualquer dos seus membros os poderes que lhe são conferidos nos números anteriores.",
-      "alterador": 4
-    },
-    {
-      "de": 127,
       "ate": 127,
-      "texto": "4. Nos regulamentos internos poderão ser desconcentrados poderes sempre sob reserva da superintendência do conselho de administração, para o qual será assegurado recurso hierárquico.",
+      "texto": "3. O conselho de administração poderá delegar, no todo ou em parte, em qualquer dos seus membros os poderes que lhe são conferidos nos números anteriores.\n\n4. Nos regulamentos internos poderão ser desconcentrados poderes sempre sob reserva da superintendência do conselho de administração, para o qual será assegurado recurso hierárquico.",
       "alterador": 4
     },
     {
@@ -123,38 +117,34 @@
       "alterador": 1
     },
     {
-      "depois_de": 125,
-      "texto": "2. Compete também ao conselho de administração celebrar acordos com as administrações ou empresas congéneres sobre a execução dos serviços comuns, desde que se coadunem com a política de actuação dos CTT definida pelo Governo.",
-      "alterador": 1
-    },
-    {
       "depois_de": 190,
       "texto": "c) Ao montante das remunerações que devem ser atribuídas aos inspectores-gerais de correios e telecomunicações.",
       "alterador": 1
     }
   ],
-  "nao_aplicavel": "DL 244/74 (alterador 3) extingue os conselhos e cria órgãos transitórios sem alterar o texto do Estatuto, e foi revogado pelo DL 642/74; o art. 4.º do DL 642/74 (funções do correio-mor e da comissão executiva passam ao presidente e ao conselho de administração) é uma remissão geral, não textual, e não se aplicou às restantes menções; o DL 375/77 (alterador 5) altera o Estatuto dos TLP (anexo ao DL 48007), outro diploma; o DL 87/92 (alterador 6) transforma os CTT em S.A. e aprova novos estatutos sem revogar expressamente o anexo I, pelo que não se aplicou ao texto; os DL 277/92 e 18/2003 não contêm instruções dirigidas ao texto do original.",
+  "nao_aplicavel": "Alterador 3, extinção dos conselhos de administração, fiscal e geral e criação do conselho de gerência e do conselho de fiscalização: não textual (não altera o texto do estatuto; foi depois revogado pelo Decreto-Lei n.º 642/74)\nAlterador 4, artigo 1.º (extinção do conselho de gerência e do conselho de fiscalização e reinstituição dos órgãos): não textual\nAlterador 4, artigo 4.º (funções do correio-mor e da comissão executiva passam ao presidente e ao conselho de administração): não textual (transferência de funções sem nova redação)\nAlterador 4, artigo 5.º (funções do conselho geral exercidas pelo Governo): não textual\nAlterador 4, artigo 6.º (revogação do Decreto-Lei n.º 244/74): outro diploma\nAlterador 5, alteração dos artigos 14.º, 22.º e 24.º do Estatuto dos TLP (anexo ao Decreto-Lei n.º 48007, modificado pelo original): outro diploma\nAlterador 6, transformação dos CTT em sociedade anónima e aprovação de novos estatutos: não textual (não altera nem revoga expressamente o texto do original)\nAlterador 7, cisão dos CTT, S. A., e criação da Telecom Portugal, S. A.: não textual\nAlterador 8, alteração do artigo 4.º do Decreto-Lei n.º 20-C/86: outro diploma",
   "instrucoes": [
-    "DL 5/73, art. 6.º: aditados os n.os 5 e 6 (com o parágrafo 'Tais matérias...') — inserção depois da unidade 101.",
-    "DL 5/73, art. 9.º: nova redação dos n.os 1, 3, 4 e renumeração do antigo n.º 4 para n.º 5 — o n.º 5 fica (unidade 123); os n.os 1 a 4 foram depois substituídos pelo DL 642/74 (unidades 120-122).",
-    "DL 5/73, art. 10.º: nova redação, depois revogado pelo art. 3.º do DL 642/74 — unidade 124 passa a 'Art. 10.º (Revogado.)'.",
-    "DL 5/73, art. 11.º: nova redação do n.º 1, aditado n.º 2, renumerados os n.os 3 a 5; DL 642/74 deu nova redação aos n.os 3 e 4 — unidades 125-128 substituídas e n.º 2 inserido depois da 125.",
-    "DL 642/74, art. 12.º: nova redação em parágrafo único — unidades 129-130.",
-    "DL 642/74, art. 13.º: nova redação do corpo do n.º 1, da alínea a) e dos n.os 2 e 3 — unidades 131-132 e 138-139.",
-    "DL 642/74, art. 14.º: nova redação dos n.os 2 e 3 — unidades 142-143.",
-    "DL 5/73, art. 17.º, n.º 3, alíneas b) e d): nova redação — unidades 168 e 170.",
-    "DL 5/73, art. 20.º, n.º 4: aditada a alínea c) — inserção depois da unidade 190.",
-    "DL 5/73, art. 23.º, n.º 4: nova redação — unidade 199.",
-    "DL 5/73, art. 25.º, n.º 1, alíneas b) e c): nova redação — unidades 205-206.",
-    "DL 596/73, art. 27.º, n.º 3: nova redação — unidade 252.",
-    "DL 5/73, art. 39.º, n.º 1: nova redação com segundo parágrafo — unidade 318.",
-    "DL 5/73, art. 53.º, n.º 1: nova redação — unidade 359.",
-    "DL 5/73, art. 59.º, n.º 1: nova redação — unidade 383.",
-    "DL 244/74, DL 642/74 art. 4.º, DL 375/77, DL 87/92, DL 277/92 e DL 18/2003: não aplicados (ver nao_aplicavel)."
+    "Alterador 1 (DL 5/73), art. 6.º: aditados os n.os 5 e 6 (inserção depois da unidade 101).",
+    "Alterador 1, art. 9.º: nova redação dos n.os 1, 3 e 4 e o antigo n.º 4 passa a n.º 5; depois o alterador 4 (DL 642/74) dá nova redação aos n.os 1 a 4, mantendo o n.º 5: unidades 120-122 com os n.os 1-4 do alterador 4 e unidade 123 renumerada como n.º 5 (alterador 1).",
+    "Alterador 1, art. 10.º: nova redação; depois revogado pelo artigo 3.º do alterador 4: unidade 124 'Art. 10.º - (Revogado.)'.",
+    "Alterador 1, art. 11.º: nova redação do n.º 1, aditado n.º 2, antigos 2 a 4 passam a 3 a 5 (o n.º 5 com 'estatuto'); alterador 4 dá nova redação aos n.os 3 e 4: unidade 125 (n.os 1 e 2, alt. 1), 126-127 (n.os 3 e 4, alt. 4), 128 (n.º 5, alt. 1).",
+    "Alterador 4, art. 12.º: nova redação num só parágrafo: unidades 129-130.",
+    "Alterador 4, art. 13.º: nova redação do proémio e da alínea a) do n.º 1 e dos n.os 2 e 3: unidades 131-132 e 138-139.",
+    "Alterador 4, art. 14.º: nova redação dos n.os 2 e 3: unidades 142-143.",
+    "Alterador 1, art. 17.º: nova redação das alíneas b) e d) do n.º 3: unidades 168 e 170.",
+    "Alterador 1, art. 20.º: aditada a alínea c) ao n.º 4: inserção depois da unidade 190.",
+    "Alterador 1, art. 23.º: nova redação do n.º 4: unidade 199.",
+    "Alterador 1, art. 25.º: nova redação das alíneas b) e c) do n.º 1: unidades 205-206 (copiada a gralha 'd.e').",
+    "Alterador 2 (DL 596/73), art. 27.º: nova redação do n.º 3: unidade 252.",
+    "Alterador 1, art. 39.º: nova redação do n.º 1 (com segundo parágrafo): unidade 318.",
+    "Alterador 1, art. 53.º: nova redação do n.º 1: unidade 359.",
+    "Alterador 1, art. 59.º: nova redação do n.º 1: unidade 383.",
+    "Alteradores 3 a 8: sem alterações textuais ao original (ver nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "corrido",
-  "problemas": [
-    "substituição 124-124: parágrafo que não está no alterador nem no original: Art. 10.º (Revogado.)"
+  "problemas": [],
+  "numeracao_aceite": [
+    "substituição 124-124: parágrafo que não está no alterador nem no original: Art. 10.º - (Revogado.)"
   ]
 }

@@ -43,6 +43,10 @@ from rag.fontes import RAIZ, corpo, ler_artigos
 
 PRIORITARIOS = ("lei", "lei-organica", "lei-constitucional", "decreto-lei", "decreto-regulamentar", "decreto-legislativo-regional")
 VIGENTES = ("in_force", "partially_in_force", "unknown")
+# Os tipos cujos registos podem ser cópias. As declarações de retificação republicam às vezes o texto inteiro (a
+# Declaração de Rectificação n.º 100-A/2007 tem o Código de Processo Penal de 2007), e o DRE consolida às vezes o texto
+# em vigor no registo de uma (a Lei n.º 31-A/2009 na Declaração de Rectificação n.º 52/2009): contam desde 20/11/2026.
+TIPOS = (*PRIORITARIOS, "decreto", "declaracao-retificacao")
 ETIQUETA_TEXTO_EM_VIGOR = "Texto em vigor"  # início da etiqueta de `republished_by` que o índice lê
 ANEXO_MINIMO = 10  # artigos para uma parte contar como «um texto dentro de um diploma»
 _YAML = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
@@ -604,7 +608,7 @@ def artigos_da_copia(parte: Parte, posteriores: list[Parte]) -> dict[str, str] |
     return dict(parte.textos)
 
 
-def redacoes_anteriores(acervo: Acervo, cabecalhos: dict[str, dict], raiz: Path, hoje: str, tipos: tuple[str, ...] = (*PRIORITARIOS, "decreto"),
+def redacoes_anteriores(acervo: Acervo, cabecalhos: dict[str, dict], raiz: Path, hoje: str, tipos: tuple[str, ...] = TIPOS,
                         lista_obras: list[dict] | None = None, leitor: _Leitor | None = None) -> tuple[list[Marca], list[dict]]:
     """As cópias a marcar como redação anterior e as que ficam de fora, com o motivo.
 
@@ -669,7 +673,7 @@ def calcular(export: Path, raiz: Path = RAIZ, hoje: str | None = None) -> tuple[
     acervo = carregar(export, com_citacoes=False)
     cabecalhos = cabecalhos_dos_consolidados(acervo, raiz)
     leitor = _Leitor(acervo, raiz, hoje)
-    lista_obras = obras(acervo, cabecalhos, raiz, (*PRIORITARIOS, "decreto"), hoje, leitor=leitor)
+    lista_obras = obras(acervo, cabecalhos, raiz, TIPOS, hoje, leitor=leitor)
     marcas, fora = redacoes_anteriores(acervo, cabecalhos, raiz, hoje, lista_obras=lista_obras, leitor=leitor)
     return marcas, fora, lista_obras
 

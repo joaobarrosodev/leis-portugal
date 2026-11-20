@@ -1,0 +1,105 @@
+[
+ {
+  "id": "pt:dre:632740:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 7.º",
+    "veredicto": "certo",
+    "motivo": "Redacção do DR 7/78, art. 3.º (que substitui a do DL 331/72, art. 4.º); consolidado igual letra a letra.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 8.º",
+    "veredicto": "certo",
+    "motivo": "DR 7/78, art. 3.º altera o n.º 2 (grau 6, 'e válido'); n.º 1, 3 e 4 iguais ao original. Formato '2 -' vem do alterador.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 13.º",
+    "veredicto": "certo",
+    "motivo": "DL 471/74 substitui o n.º 6; restantes números iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "Decreto 823/76, art. 1.º substitui as alíneas b) e c) do n.º 4; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "DL 331/72, art. 4.º dá nova redacção (n.os 1 a 4); consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 38.º",
+    "veredicto": "certo",
+    "motivo": "DR 18/77, art. 1.º dá nova redacção (n.os 1 a 3); consolidado igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 39.º",
+    "veredicto": "certo",
+    "motivo": "DR 18/77: n.º 15 substituído, n.º 16 revogado e n.º 17 passa a 16; restantes números iguais.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 40.º",
+    "veredicto": "certo",
+    "motivo": "DL 58/75 dá nova redacção; consolidado igual letra a letra.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 331/72, art. 5.º n.º 1: alteração dos mapas I e II anexos ao DL 414/71",
+    "motivo": "Texto novo só em imagem (ver documento original); o consolidado não tem anexo com título onde o pôr (os mapas vêm no corpo do art. 52.º)."
+   },
+   {
+    "instrucao": "DL 331/72, arts. 1.º a 3.º e art. 5.º quanto aos quadros II, VI, VIII, IX, X",
+    "motivo": "Outro diploma: alteram o DL 413/71."
+   },
+   {
+    "instrucao": "DL 331/72, art. 5.º n.os 2 e 3 (alterações de pessoal, encargos)",
+    "motivo": "Não textual: normas de execução."
+   },
+   {
+    "instrucao": "Decreto 823/76, art. 2.º: alteração do mapa I (carreira farmacêutica)",
+    "motivo": "Texto novo só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "Decreto 823/76, art. 3.º: alteração de quadros e colocação como chefes de serviço",
+    "motivo": "Não textual: norma transitória e de execução."
+   },
+   {
+    "instrucao": "DR 18/77, art. 3.º: substituição do n.º VII do mapa II",
+    "motivo": "Texto novo só em imagem; sem anexo com título no consolidado."
+   },
+   {
+    "instrucao": "DR 18/77, art. 4.º: quadro X anexo ao DL 413/71",
+    "motivo": "Outro diploma (DL 413/71)."
+   },
+   {
+    "instrucao": "DR 18/77, arts. 5.º a 7.º: transição do pessoal e encargos",
+    "motivo": "Não textual: normas transitórias."
+   },
+   {
+    "instrucao": "DR 7/78, art. 1.º: alteração do mapa I (e do quadro X do DL 413/71)",
+    "motivo": "Mapa só em imagem, sem anexo com título; quadro X é de outro diploma."
+   },
+   {
+    "instrucao": "DR 7/78, art. 2.º: n.º 3 do art. 59.º",
+    "motivo": "Outro diploma (DL 413/71)."
+   },
+   {
+    "instrucao": "Decreto do Governo 40/83, artigo único: letras M ou L dos auxiliares de saúde pública",
+    "motivo": "Não textual: fixa remuneração de categoria em quadros e mapas, sem nova redacção de artigo."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -10,6 +10,12 @@ consolidacao:
   - id: pt:dre:469177:por
     title: Decreto-Lei n.º 91/97
     publication_date: '1997-04-22'
+  - id: pt:dre:448110:por
+    title: Lei n.º 59/98
+    publication_date: '1998-08-25'
+  - id: pt:dre:426158:por
+    title: Decreto-Lei n.º 304/99
+    publication_date: '1999-08-06'
   - id: pt:dre:393230:por
     title: Decreto-Lei n.º 320-B/2000
     publication_date: '2000-12-15'
@@ -22,15 +28,9 @@ consolidacao:
   - id: pt:dre:376234:por
     title: Lei n.º 60-A/2005
     publication_date: '2005-12-30'
-  - id: pt:dre:448110:por
-    title: Lei n.º 59/98
-    publication_date: '1998-08-25'
   - id: pt:dre:197511:por
     title: Lei n.º 53-A/2006
     publication_date: '2006-12-29'
-  - id: pt:dre:426158:por
-    title: Decreto-Lei n.º 304/99
-    publication_date: '1999-08-06'
 ---
 
 # Decreto-Lei n.º 224-A/96
@@ -1637,17 +1637,15 @@ Sem prejuízo de registo contabilístico autónomo, as custas prováveis são ob
 
 ###### Artigo 124.º — Depósitos
 
-1 - (Revogado.)
+1 - O prévio pagamento da taxa de justiça inicial e o pagamento da taxa de justiça subsequente são efectuados directamente na Caixa Geral de Depósitos ou através de sistema electrónico, a favor do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça.
 
-2 - As formas de pagamento da taxa de justiça são fixadas por portaria do Ministro da Justiça.
+2 - Os pagamentos das taxas de justiça inicial e subsequente que não sejam realizados de forma prévia e todos os outros pagamentos não abrangidos pelo número anterior são efectuados através de guia a emitir pelo tribunal.
 
 3 - A conta do Instituto de Gestão Financeira e Patrimonial do Ministério da Justiça vence juros.
 
 4 - O produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são objecto de depósito autónomo na Caixa Geral de Depósitos à ordem do juiz do processo.
 
-8 - Os depósitos existentes na Caixa Geral de Depósitos na data de entrada em vigor do Decreto-Lei n.º 324/2003, de 27 de Dezembro, são objecto de transferência para a conta do Instituto de Gestão Financeira e Patrimonial da Justiça, mediante ordem do tribunal com jurisdição sobre os mesmos.
-
-> Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.
+> Alterado pelo/a [Decreto-Lei n.º 320-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-b-2000-393230), publicado em 2000-12-15.
 
 ###### Artigo 125.º — Contas na Caixa Geral de Depósitos
 
@@ -1657,7 +1655,7 @@ Sem prejuízo de registo contabilístico autónomo, as custas prováveis são ob
 
 ###### Artigo 126.º — Guias para depósito ou pagamento
 
-1 - Logo que comece a correr o prazo para pagamento de quaisquer quantias, a secção emite as guias respectivas e lavra termo, entregando-as às partes ou aos seus representantes ou mandatários quando o solicitarem.
+1 - Logo que comece a correr o prazo para pagamento de quaisquer quantias, a secção emite as guias respectivas, lavra termo, entrega-as às partes ou aos seus representantes ou mandatários quando se apresentarem a levantá-las.
 
 2 - Havendo lugar à notificação para pagamento de quaisquer quantias, a secção juntar-lhe-á as guias, contando-se o prazo desde a data daquele acto.
 
@@ -1668,8 +1666,6 @@ Sem prejuízo de registo contabilístico autónomo, as custas prováveis são ob
 5 - No caso de ser urgente a prática de actos que dependam do pagamento de quaisquer quantias e de estar fechada a Caixa Geral de Depósitos, o secretário ou quem o substituir é seu fiel depositário, devendo depositá-las no primeiro dia útil seguinte.
 
 6 - Das quantias referidas no número anterior, é entregue ao interessado, no próprio acto, nota-recibo, numerada e assinada por quem as recebeu, de que constem a importância, o nome da pessoa por quem o depósito ou o pagamento é efectuado e a identificação do processo, arquivando-se o respectivo talão.
-
-> Alterado pelo/a [Decreto-Lei n.º 304/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1999-426158), publicado em 1999-08-06.
 
 ###### Artigo 127.º — Menções constantes das guias
 
@@ -1689,9 +1685,7 @@ e) Discriminação e destino dos valores.
 
 3 - Nos casos de liquidação, as guias conterão os elementos indispensáveis ao lançamento.
 
-4 - Por portaria do Ministro da Justiça, podem ser aprovadas outras formas de pagamento.
-
-> Alterado pelo/a [Decreto-Lei n.º 304/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1999-426158), publicado em 1999-08-06.
+4 - Por portaria do Ministro da Justiça, podem ser aprovados mecanismos de pagamento que permitam efectuá-lo em qualquer balcão da Caixa Geral de Depósitos ou por transferência electrónica.
 
 ###### Artigo 128.º — Entrega dos duplicados das guias
 
@@ -1727,29 +1721,13 @@ e) Os juros de mora, os juros das contas e as importâncias provenientes de acto
 
 f) 10% do produto da venda dos objectos apreendidos em processos criminais, acrescido das despesas que tenha adiantado.
 
-h) O produto da coima cobrado por via judicial, independentemente da origem do respectivo processo de contra-ordenação, salvo se constituir receitas das Regiões Autónomas, do orçamento da segurança social das autarquias locais, ou percentagem a que por lei tenha direito o autuante, o participante ou outra entidade.
+2 - Das receitas mencionadas na alínea b) do número anterior, revertem 40% para o Serviço Social do Ministério da Justiça e 20% para o Instituto de Reinserção Social.
 
-2 - (Revogado.)
-
-3 - Das receitas mencionadas na alínea c) do n.º 1, revertem:
-
-b) 5 (por mil) para o Conselho Geral da Câmara dos Solicitadores;
-
-c) (Revogada.)
-
-d) (Revogada.)
-
-4 - (Revogado.)
-
-5 - Sem prejuízo do disposto no número seguinte, incumbe ao Instituto de Gestão Financeira e Patrimonial da Justiça o envio mensal das receitas referidas na alínea a) do n.º 1 e no n.º 3 às entidades a que se destinam, sendo competente para tal efeito, no âmbito do sistema de segurança social, o Instituto de Gestão Financeira da Segurança Social.
-
-6 - (Revogado.)
-
-9 - (Revogado.)
+3 - Incumbe ao Cofre Geral dos Tribunais o envio trimestral das receitas referidas na alínea a) do n.º 1 e no número anterior às entidades a que se destinam, sendo, no âmbito do sistema de segurança social, competente, para tal efeito, o Instituto de Gestão Financeira da Segurança Social.
 
 > Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1997-469177), publicado em 1997-04-22.
 
-> Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.
+> Alterado pelo/a [Decreto-Lei n.º 304/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1999-426158), publicado em 1999-08-06.
 
 ### CAPÍTULO II — Organização
 
@@ -1769,9 +1747,7 @@ d) De emolumentos de actos avulsos;
 
 e) De contas correntes-processos.
 
-2 - Os livros a que se refere o número anterior são, sempre que possível, substituídos por suportes informáticos, dependendo de portaria do Ministro da Justiça a aprovação dos necessários procedimentos contabilísticos.
-
-> Alterado pelo/a [Decreto-Lei n.º 304/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1999-426158), publicado em 1999-08-06.
+2 - Os livros a que se refere o número anterior devem, sempre que possível, ser constituídos por suportes informáticos.
 
 ###### Artigo 133.º
 
@@ -1853,9 +1829,7 @@ No livro de emolumentos de actos avulsos registam-se, por ordem numérica, os ac
 
 3 - Recebida a informação, é a importância do crédito inscrita nos cheques sem validade escriturado no livro de pagamentos a favor do Cofre Geral dos Tribunais.
 
-5 - Nos casos referidos no n.º 3, só são pagas quantias com valor igual ou superior a (euro) 10.
-
-> Alterado pelo/a [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), publicado em 2006-12-29.
+> Alterado pelo/a [Decreto-Lei n.º 320-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-b-2000-393230), publicado em 2000-12-15.
 
 ###### Artigo 143.º — Reclamação de crédito decorrente da morte do titular do cheque
 

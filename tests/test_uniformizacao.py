@@ -223,3 +223,34 @@ def test_resolvedor_escolhe_o_anexo_pelo_nome_e_corta_palavras_a_mais():
     penal = resolvedor.resolver(j.Norma("348.º", "Código Penal e não o crime de desobediência qualificada do artigo",
                                         codigo="Código Penal e não o crime de desobediência qualificada do artigo"), "2009-02-18")
     assert penal.documento == "dl-48" and penal.artigo_encontrado
+
+
+def test_codigos_antigos_pelo_ano_e_pela_data():
+    assert _normas("Requerida a abertura da instrução ao abrigo do n.º 2 do artigo 391.º do Código de Processo Penal de 1929, "
+                   "não caduca a interrupção da prescrição nos termos do artigo 120.º, n.º 1, do Código Penal de 1982") == [
+        ("391.º", "Decreto n.º 16489"), ("120.º", "Decreto-Lei n.º 400/82")]
+    assert _normas("nos termos do artigo 79.º, n.º 1, do Código de Processo do Trabalho de 1981, para obter o efeito suspensivo") == [
+        ("79.º", "Decreto-Lei n.º 272-A/81")]
+    # Num acórdão anterior à revisão de 1995, o "Código Penal" é o de 1982.
+    cp = j.Norma("142.º", "Código Penal", codigo="Código Penal")
+    antigo = j.no_tempo(cp, "1991-12-18")
+    assert (antigo.tipo, antigo.numero) == ("decreto-lei", "400/82")
+    assert j.no_tempo(cp, "1996-03-14") is cp
+
+
+def test_artigo_ja_citado_e_artigo_que_altera_nao_contam():
+    normas = _normas("Quando o procedimento se reporte a um dos crimes referidos no n.º 1 do artigo 54.º do Decreto-Lei n.º 15/93, "
+                     "a elevação dos prazos nos termos do n.º 3 do artigo 215.º do Código de Processo Penal decorre do disposto no "
+                     "n.º 3 daquele artigo 54.º")
+    assert normas == [("54.º", "Decreto-Lei n.º 15/93"), ("215.º", "Código de Processo Penal")]
+    normas = _normas("As normas do artigo 74.º do Código de Processo Civil, resultantes da alteração decorrente do artigo 1.º da "
+                     "Lei n.º 14/2006, de 26 de Abril, aplicam-se às acções instauradas após a sua entrada em vigor")
+    assert ("1.º", "Lei n.º 14/2006") not in normas
+
+
+def test_codigo_penal_de_1982_revisto_em_1995_e_o_atual():
+    normas = _normas("da alínea a) do n.º 1 do artigo 119.º do Código Penal de 1982, versão original, ou da alínea a) do n.º 1 "
+                     "do artigo 120.º do Código Penal de 1982, revisão de 1995")
+    assert normas == [("119.º", "Decreto-Lei n.º 400/82"), ("120.º", "Código Penal")]
+    assert _normas("aplica-se o disposto no artigo 107.º do Código Penal, na versão de 1982, ressalvando-se") == [
+        ("107.º", "Decreto-Lei n.º 400/82")]

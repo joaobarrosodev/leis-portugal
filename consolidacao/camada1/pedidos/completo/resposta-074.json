@@ -1,0 +1,29 @@
+[
+ {
+  "id": "pt:dre:173758:por",
+  "artigos": [],
+  "removidos": [],
+  "titulos": [
+   {
+    "atual": "### CAPÍTULO VII — Funções do IEP",
+    "novo": "### CAPÍTULO VII — Funções do IMT",
+    "alterador": 3
+   },
+   {
+    "atual": "### CAPÍTULO X — Exploração e conservação da Auto-Estrada",
+    "novo": "### CAPÍTULO X — Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios",
+    "alterador": 3
+   }
+  ],
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 2.º, nova redação das bases I, II, V e XXVI: alvo incerto: as bases não estão no texto atual (o «Corpo do anexo» das Bases da Concessão vem vazio e só aparecem os títulos dos capítulos I a X), e as novas redações usam «...»/«[...]» e «(Anterior n.º 2.)», que remetem para texto que o pedido não traz.\nAlterador 1, art. 4.º, revogação da alínea f) do n.º 1 da base II: alvo incerto: a base II não está no texto atual.\nAlterador 2, art. 1.º, nova redação de 77 bases (I a LXXXIX): alvo incerto: nenhuma base está no texto atual nem há chave onde a pôr; várias bases mantêm partes por remissão e há quadros só em imagem.\nAlterador 2, art. 2.º, aditamento das bases XVIII-A, XIX-A, LI-A, LVII-A a LVII-BB, LXV-A e LXXXVII-A: alvo incerto: o anexo das bases não tem texto no texto atual, pelo que não se sabe onde inserir as bases novas.\nAlterador 2, art. 3.º n.º 1 c) e d), epígrafes dos capítulos XVII e XXI: alvo incerto: esses capítulos não estão no texto atual (os títulos de divisão acabam no capítulo X).\nAlterador 2, art. 3.º n.º 2, aditamento do capítulo X-A (Portagens) com as secções I a X e subsecções I a III: alvo incerto: as regras não permitem criar títulos que não estão no texto atual e as bases que o compõem não estão no texto atual.\nAlterador 2, art. 6.º, republicação das bases: sem texto: o anexo de republicação não vem no pedido.\nAlterador 3, art. 1.º, nova redação das bases I, II, V, VII, IX a XII, XV, XVI, XVIII-A, XIX, XIX-A, XXIV, XXV, XXVII, XXIX a XXXI, XXXIV, XXXVII a XXXIX, XLI a XLIII, XLV, XLVII, XLVIII, L, LI-A, LII a LVI, LVII-A a LVII-Q, LVII-S a LVII-X, LVII-Z, LVII-AA, LVIII, LX, LXV-A, LXVI, LXVIII, LXX, LXXI, LXXIII, LXXV a LXXVII, LXXIX, LXXXI, LXXXIII, LXXXIV, LXXXVIII e LXXXIX: alvo incerto: nenhuma base está no texto atual (corpo do anexo vazio); os reparos pedem o texto das bases dentro dos capítulos VII e X, mas os títulos de divisão só levam a linha do título e o resto das bases dos capítulos (não alteradas ou alteradas por «[...]») não vem no pedido.\nAlterador 3, art. 2.º, aditamento das bases XXXIV-A, LIV-A, LVII-UA, LXV-B a LXV-E, LXXXVI-A e LXXXVII-B: alvo incerto: as bases não estão no texto atual, não há onde as inserir.\nAlterador 3, art. 3.º n.os 2 e 3, epígrafes das secções I, II, IV, V e IX e das subsecções II e III da secção V do capítulo X-A: alvo incerto: o capítulo X-A e as suas secções não estão no texto atual.\nAlterador 3, art. 3.º n.º 4, aditamento do capítulo XXII-A (Comissão de Peritos): alvo incerto: não se criam títulos que não estão no texto atual e a base LXXXVII-B não tem onde ser inserida.\nAlterador 3, art. 5.º, revogação de alíneas e números das bases I, VI, XXXIV, XLV, XLVIII, L, LI-A, LIV, LVII-D, LVII-P, LVII-S, LVII-U, LVII-X, LVII-AA e LXV-A: alvo incerto: essas bases não estão no texto atual.\nAlterador 3, art. 6.º n.º 1, republicação das bases: sem texto: o anexo de republicação não vem no pedido.\nAlterador 3, art. 6.º n.º 2, «InIR» passa a «IMT» na republicação: alvo incerto: «InIR» só aparece nas bases, que não estão no texto atual; os artigos 1.º a 5.º do decreto não o contêm.",
+  "instrucoes": [
+   "Artigos 1.º a 5.º do decreto: nenhum alterador os modifica; ficam como estão.",
+   "Alterador 1 (DL 19/2007), arts. 2.º e 4.º: alteram as bases I, II, V e XXVI e revogam a alínea f) do n.º 1 da base II; bases ausentes do texto atual, em nao_aplicavel.",
+   "Alterador 2 (DL 44-G/2010), art. 3.º n.º 1 a) e b): epígrafes dos capítulos VII (Funções do InIR) e X (Manutenção, exploração e conservação da Auto-Estrada); depois substituídas pelo alterador 3.",
+   "Alterador 2, arts. 1.º, 2.º, 3.º n.º 1 c)-d) e n.º 2, 6.º: bases, capítulos XVII, XXI e X-A e republicação ausentes do texto atual, em nao_aplicavel.",
+   "Alterador 3 (DL 110/2015), art. 3.º n.º 1: epígrafes finais «Funções do IMT» (capítulo VII) e «Pagamentos pela disponibilidade da Autoestrada e partilha de benefícios» (capítulo X), aplicadas em titulos.",
+   "Alterador 3, arts. 1.º, 2.º, 3.º n.os 2 a 4, 5.º e 6.º: bases, capítulo X-A, capítulo XXII-A, revogações e republicação ausentes do texto atual, em nao_aplicavel. Reparos sobre os capítulos VII e X e as bases confirmados no alterador (por exemplo, a base XXIV passa a «IMT» e «são executados»), mas sem texto atual das bases não se aplicam."
+  ]
+ }
+]

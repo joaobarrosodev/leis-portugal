@@ -1,0 +1,127 @@
+[
+ {
+  "id": "pt:dre:380135:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "Nova redação do DL 15-A/99 art.2.º aplicada letra a letra."
+   },
+   {
+    "artigo": "Artigo 3.º",
+    "veredicto": "certo",
+    "motivo": "DL 15-A/99 art.2.º: n.º 1 novo, n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 127/2000 art.1.º: n.os 1 e 3 novos, n.º 2 mantido."
+   },
+   {
+    "artigo": "Artigo 16.º",
+    "veredicto": "certo",
+    "motivo": "DL 15-A/99 art.2.º: n.º 3 novo, n.os 1,2,4 mantidos, n.os 5 a 7 aditados."
+   },
+   {
+    "artigo": "Artigo 19.º",
+    "veredicto": "certo",
+    "motivo": "DL 15-A/99 art.2.º: n.º 3 novo, restantes mantidos."
+   },
+   {
+    "artigo": "Artigo 21.º",
+    "veredicto": "certo",
+    "motivo": "DL 15-A/99 art.2.º: n.os 2 e 3 novos, n.º 1 mantido."
+   },
+   {
+    "artigo": "Artigo 36.º",
+    "veredicto": "certo",
+    "motivo": "DL 345/89 art.1.º: n.º 1 novo, restantes mantidos."
+   },
+   {
+    "artigo": "Artigo 42.º",
+    "veredicto": "certo",
+    "motivo": "DL 127/2000 art.1.º: n.os 2 e 9 novos, restantes mantidos."
+   },
+   {
+    "artigo": "Artigo 43.º",
+    "veredicto": "certo",
+    "motivo": "DL 345/89 art.1.º: n.º 1 novo, restantes mantidos."
+   },
+   {
+    "artigo": "Artigo 50.º",
+    "veredicto": "certo",
+    "motivo": "DL 345/89 art.1.º: epígrafe e n.os 1 e 2 novos, n.º 3 aditado."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 15-A/99 art.1.º: nova redação dos artigos 5.º e 14.º do DL 384/93",
+    "motivo": "Instrução de outro diploma (o original só é citado no n.º 3 do art.14.º do DL 384/93)."
+   },
+   {
+    "instrucao": "Declaração de Retificação 712/2022: retifica o Despacho 9514/2022",
+    "motivo": "Instrução de outro diploma (o original só é citado no texto retificado)."
+   }
+  ]
+ },
+ {
+  "id": "pt:dre:390270:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 1.º",
+    "veredicto": "certo",
+    "motivo": "DL 180/70 art.1.º: nova redação do art.1.º, copiada letra a letra."
+   },
+   {
+    "artigo": "Artigo 2.º",
+    "veredicto": "certo",
+    "motivo": "DL 9/78 altera a alínea a) do n.º 2 e o n.º 3; DL 161/88 revoga o n.º 3: '3 - (Revogado.)'. N.os 1 e 2 b), c) mantidos."
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": []
+ },
+ {
+  "id": "pt:dre:401512:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 5.º",
+    "veredicto": "certo",
+    "motivo": "DL 305/81 art.20.º a) revoga o artigo 5.º: '(Revogado.)'."
+   },
+   {
+    "artigo": "Artigo 12.º",
+    "veredicto": "certo",
+    "motivo": "DL 49434 art.1.º: n.º 3 com a nova redação, letra a letra; restantes mantidos."
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 305/81 art.20.º a) revoga o n.º 2 do art.14.º: '2 - (Revogado.)' (alíneas eliminadas); n.º 1 mantido."
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 49434 art.2.º: revogação da nota 1 do mapa anexo (a que se refere o n.º 1 do art.12.º). Alvo incerto: o mapa e as notas não estão visíveis na vista (art.20.º igual ao original, sem artigo/anexo do mapa); se a nota 1 existe no texto do consolidado não foi revogada."
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações",
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "DL 676/70 artigo único n.º 1: colunas do mapa anexo alteradas nos termos do mapa em imagem",
+    "motivo": "Novo texto só em imagem e o consolidado não tem anexo com título onde o pôr."
+   },
+   {
+    "instrucao": "DL 331/72 art.1.º: nova redação da alínea o) do n.º 1 do art.97.º do DL 413/71 (revoga o DL 48166 com exceções)",
+    "motivo": "Instrução que altera outro diploma (DL 413/71), não o original."
+   }
+  ]
+ }
+]

@@ -1,0 +1,797 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:380135:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-08-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ae73e89d331e9825",
+    "e82e298be73417b9",
+    "ca0922379c2af9c7",
+    "815aa3f66a1bd768",
+    "7384bb77dfe7372c",
+    "2359712ae67a9190",
+    "df76dd74d12c4f4b",
+    "cabf6b2f06d55789",
+    "4ce0e5f33f123ef0",
+    "0b3081acd63c7651",
+    "c82b6d46bb337662",
+    "6ccfd66a5a6f3373",
+    "4f1c4d830d3c8c90",
+    "2820fc6c65c831db",
+    "d32afb9dd4ab0f1a",
+    "e351536e7904676e",
+    "ce8e1c5b4937c33e",
+    "e6a9c466681c5a00",
+    "a2e983ff2fdf9a0b",
+    "63ad5cba0228ae0b",
+    "7deffa39977acb30",
+    "a07509bbe2e7cd55",
+    "900d8a35df81e2ec",
+    "e9c32aa463cc360a",
+    "43834f0d57b22065",
+    "96341160c165c8ea",
+    "fcfa214904ca068c",
+    "12cab3b03b0c3549",
+    "bdf89078110641e2",
+    "046c2c3df66331df",
+    "7507eebfc9b4c234",
+    "464bb9e14a553e94",
+    "2d94d2a87eb1bd60",
+    "ea6d6f98c279c2e3",
+    "c6f8e6cc8b40c3b4",
+    "465cbba55bbfecc4",
+    "202cc1b49bd8574a",
+    "8a286c906ca3eee8",
+    "09cdc9ec05f2d24c",
+    "ebf440a23ad3814a",
+    "520193c3999a9800",
+    "1aca3c08cb9500ec",
+    "f5f72c4f6665c994",
+    "2fdb8e9ce0082551",
+    "8f9e31870e9de323",
+    "8367a18c60eb1e43",
+    "2b382726f032c174",
+    "7acbf7c50ec0eb36",
+    "d89a51b3eb143dc1",
+    "31f898abac4f5ded",
+    "1db4fb3fb8cd0ac5",
+    "f8099ab372cf201e",
+    "116acb16ca4901b4",
+    "1537f8215d6f3a9d",
+    "624ebaabc0de195e",
+    "46e3893347216bbb",
+    "421287301ea30a3e",
+    "401f9ec7e5e62082",
+    "c3b5b7abcb2bb0bc",
+    "0c90e4e07951e878",
+    "f798fd8c815dcefe",
+    "87b5fa14915da9ec",
+    "9d66308b7eeaa850",
+    "8220e8514c419f2f"
+   ]
+  },
+  {
+   "date": "2000-07-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:548825:por",
+     "title": "Decreto-Lei n.º 345/89",
+     "published": "1989-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/345-1989-548825"
+    },
+    {
+     "id": "pt:dre:352900:por",
+     "title": "Decreto-Lei n.º 15-A/99",
+     "published": "1999-01-19",
+     "dre_path": "/dr/detalhe/decreto-lei/15-a-1999-352900"
+    },
+    {
+     "id": "pt:dre:301017:por",
+     "title": "Decreto-Lei n.º 127/2000",
+     "published": "2000-07-06",
+     "dre_path": "/dr/detalhe/decreto-lei/127-2000-301017"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 50.º"
+   ],
+   "fragments": [
+    "ae73e89d331e9825",
+    "e82e298be73417b9",
+    "36e32bf1a4304057",
+    "815aa3f66a1bd768",
+    "7384bb77dfe7372c",
+    "f26218602bf4ea9a",
+    "df76dd74d12c4f4b",
+    "cabf6b2f06d55789",
+    "4ce0e5f33f123ef0",
+    "0b3081acd63c7651",
+    "c82b6d46bb337662",
+    "6ccfd66a5a6f3373",
+    "4f1c4d830d3c8c90",
+    "2820fc6c65c831db",
+    "d32afb9dd4ab0f1a",
+    "e351536e7904676e",
+    "ce8e1c5b4937c33e",
+    "e6a9c466681c5a00",
+    "a2e983ff2fdf9a0b",
+    "fb18757d5408247b",
+    "7deffa39977acb30",
+    "cae656d9db6ce1e2",
+    "900d8a35df81e2ec",
+    "e9c32aa463cc360a",
+    "43834f0d57b22065",
+    "92e1d8dc6286c091",
+    "fcfa214904ca068c",
+    "ed5d0ed5519c980e",
+    "bdf89078110641e2",
+    "046c2c3df66331df",
+    "7507eebfc9b4c234",
+    "464bb9e14a553e94",
+    "2d94d2a87eb1bd60",
+    "ea6d6f98c279c2e3",
+    "c6f8e6cc8b40c3b4",
+    "465cbba55bbfecc4",
+    "202cc1b49bd8574a",
+    "8a286c906ca3eee8",
+    "09cdc9ec05f2d24c",
+    "ebf440a23ad3814a",
+    "520193c3999a9800",
+    "1aca3c08cb9500ec",
+    "f5f72c4f6665c994",
+    "2fdb8e9ce0082551",
+    "8f9e31870e9de323",
+    "f840e3db852848c7",
+    "2b382726f032c174",
+    "7acbf7c50ec0eb36",
+    "d89a51b3eb143dc1",
+    "31f898abac4f5ded",
+    "1db4fb3fb8cd0ac5",
+    "f8099ab372cf201e",
+    "116acb16ca4901b4",
+    "18b1b2b267b0de39",
+    "fb8745c838762a8c",
+    "46e3893347216bbb",
+    "421287301ea30a3e",
+    "401f9ec7e5e62082",
+    "c3b5b7abcb2bb0bc",
+    "0c90e4e07951e878",
+    "f798fd8c815dcefe",
+    "acd8378e73ecb0ba",
+    "9d66308b7eeaa850",
+    "8220e8514c419f2f"
+   ]
+  }
+ ],
+ "fragments": {
+  "ae73e89d331e9825": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Agosto\n\nA escola de qualidade, facilitadora do sucesso dos alunos, é o grande objectivo da política educativa. A estabilidade e o nível de formação dos professores constituem determinantes de uma educação de qualidade. O [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, ao definir os quadros docentes das escolas dos ensinos preparatório e secundário e a reestruturação dos concursos para a docência, criou as condições de estabilidade e a garantia do acesso à profissionalização. Numa sequência lógica, importa instituir o modelo de profissionalização em serviço que, obedecendo ao determinado na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro - Lei de Bases dos Sistema Educativo -, permita responder às necessidades do sistema.\n\nNos últimos anos foram implementados sucessivos modelos de profissionalização em serviços nos ensinos preparatório e secundário, mas as condições conjunturais têm contrariado a sua exequibilidade e tornado desproporcionados os seus custos relativamente aos resultados obtidos. Da estrutura dos concursos decorre uma distribuição dispersante dos professores em formação que implica a mobilização de recursos humanos e materiais de dimensão incomportável.\n\nEm consequência, à prática pedagógica não têm assistido verdadeiras garantias de acompanhamento, dado que o numeroso corpo de orientadores é insuficiente para responder com regularidade e eficácia às necessidades do elevado número dos professores em formação e da sua dispersão por várias escolas, exigindo deslocações constantes.\n\nOs professores dos quadros de nomeação provisória, agora com direito à profissionalização em serviço, apresentam perfis de experiência muito diversos e, em resultado da nova concepção e organização dos concursos, realizarão a sua formação profissional numa rede de escolas caracterizada pela dispersão geográfica e pela diferenciação. As suas legítimas expectativas tornam imperioso imprimir um ritmo rápido ao processo de profissionalização. Assim, urge rendibilizar os recursos humanos e materiais disponíveis, de modo a responder, com eficiência e racionalidade, às exigências da situação no menor prazo de tempo possível, desejavelmente não superior a cinco anos.\n\nO desenvolvimento convergente das medidas de política educativa, nomeadamente a reorganização do Ministério da Educação, com a desconcentração e regionalização das suas estruturas e do seu funcionamento, o reforço da autonomia das escolas, com a consequente transferência de competências e dotação de meios que a propiciem, a definição do estatuto do professor e a institucionalização do sistema de formação contínua abre agora novas perspectivas e favorece a reformulação do modelo de profissionalização dos docentes dos ensinos preparatório e secundário.\n\nO modelo de profissionalização para a docência nos ensinos preparatório e secundário agora definido integra-se no contexto global da política educativa, articulando-se, nomeadamente, com os princípios consignados na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), da regionalização, do reforço da autonomia das escolas, da dignificação da carreira docente e da reforma do ensino e toma como referência a experiência acumulada no domínio da formação de professores.\n\nConvergindo com os fins que orientam a reforma educativa, tem como objectivo a formação de professores capazes de educar, numa dimensão pessoal e social, para a autonomia e a cooperação, para a reflexão e a intervenção, para a mudança e para a preservação do património cultural.\n\nA profissionalização em serviço é concebida como a fase inicial do processo de formação contínua. Mas, dado que a reorganização do ensino determinada na [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418) e a reformulação dos planos curriculares irão inevitavelmente criar necessidades imediatas de formação para a totalidade do corpo docente, integrará componentes que também visam abranger, numa perspectiva de formação contínua, os professores dos quadros com nomeação definitiva.\n\nPela pluralidade das situações e a extensão e diversidade da população e das escolas que abrange, apresenta duas características formais: a flexibilidade, ao admitir modalidades diversas de realização, e a capacidade multiplicadora, ao revestir formas que, numa perspectiva de formação contínua, também possam ser recuperadas por todos os docentes da escola que integra a profissionalização.\n\nA profissionalização em serviço parte de dois princípios estruturantes: o reconhecimento da responsabilidade das instituições de ensino superior na formação de professores e a necessidade de constituição da escola como centro de formação e como comunidade educativa.\n\nA dimensão do processo de formação dos docentes em serviço e o volume dos recursos disponíveis implicam a criação de um órgão responsável pela concepção, acompanhamento e avaliação do plano de formação, no quadro dos serviços centrais do Ministério da Educação, e justificam o recurso a métodos de formação à distância, cumprindo à Universidade Aberta o desenho, produção e difusão de unidades de formação e de módulos e materiais de apoio supletivo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "e82e298be73417b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Princípios gerais"
+  },
+  "ca0922379c2af9c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito do diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito do diploma\n\nO presente diploma contém as normas orientadoras da profissionalização em serviço que se aplicam aos professores dos ensinos preparatório e secundário pertencentes aos quadros com nomeação provisória, previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro."
+  },
+  "815aa3f66a1bd768": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Do acesso à profissionalização em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Do acesso à profissionalização em serviço"
+  },
+  "7384bb77dfe7372c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Do acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Do acesso\n\n1 - Para efeitos do presente diploma, os professores dos quadros com nomeação provisória dos ensinos preparatório e secundário são ordenados em listas de âmbito distrital elaboradas por grupo, subgrupo, disciplina ou especialidade.\n\n2 - A elaboração das listas a que se refere o número anterior concretiza-se de acordo com os princípios definidos sobre a matéria do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.\n\n3 - Os docentes são chamados para realizarem a profissionalização em serviço por ordem decrescente de graduação na respectiva lista.\n\n4 - A chamada de docentes para a realização da profissionalização em serviço obedecerá aos princípios a seguir indicados:\n\na) Necessidades do sistema, em número e qualificação dos professores;\n\nb) Capacidade do sistema de formação."
+  },
+  "2359712ae67a9190": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Actualização das listas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Actualização das listas\n\n1 - As listas por grupo, subgrupo, disciplina ou especialidade, organizadas de acordo com o estabelecido no artigo anterior, serão anualmente actualizadas em resultado das colocações de professores do quadro com nomeação provisória, operadas pela primeira parte do concurso a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.\n\n2 - Os docentes referidos no número anterior entrarão na lista imediatamente a seguir ao último dela constante, ordenados, eles próprios, nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, salvo nos casos em que já sejam professores dos quadros com nomeação provisória, sendo então integrados na lista do novo distrito, de acordo com a sua graduação na docência."
+  },
+  "df76dd74d12c4f4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da duração"
+  },
+  "cabf6b2f06d55789": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Da duração da profissionalização em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Da duração da profissionalização em serviço\n\nA profissionalização em serviço prevista neste diploma realiza-se por um período de dois anos escolares, correspondendo a cada um deles componentes diferenciadas, embora complementares, de formação."
+  },
+  "4ce0e5f33f123ef0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Das componentes de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Das componentes de formação"
+  },
+  "0b3081acd63c7651": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Enunciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Enunciação\n\nA profissionalização em serviço compreende as duas componentes abaixo mencionadas, as quais se desenvolvem em sucessão:\n\na) Ciências da educação;\n\nb) Projecto de formação e acção pedagógica."
+  },
+  "c82b6d46bb337662": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Formação em ciências da educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formação em ciências da educação\n\n1 - A componente de formação de ciências da educação integra-se no 1.º ano da profissionalização em serviço e é da responsabilidade de qualquer das entidades abaixo referenciadas:\n\na) Centros integrados de formação de professores;\n\nb) Escolas superiores de educação;\n\nc) Faculdades de ciências;\n\nd) Faculdade de Ciências Humanas e Sociais da Universidade Nova de Lisboa;\n\ne) Faculdades de ciências e tecnologia;\n\nf) Faculdades de letras;\n\ng) Faculdades de psicologia e ciências da educação;\n\nh) Institutos superiores de educação física;\n\ni) Universidade Aberta.\n\n2 - A formação em ciências da educação desenvolve-se por módulos genericamente correspondentes às áreas da Psicologia da Educação, Sociologia da Educação e Organização Escolar, Desenvolvimento Curricular e Didáctica Específica e Tecnologia Educativa, cuja organização é da iniciativa das instituições de ensino superior referidas no número anterior.\n\n3 - Os módulos, de natureza teórico-prática, tomarão como referência situações concretas, comuns à experiência dos docentes em formação, numa perspectiva de análise do processo ensino-aprendizagem, visando a obtenção de fundamentos, técnicas e conceitos que esclareçam e apoiem a prática docente."
+  },
+  "6ccfd66a5a6f3373": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Projecto de formação e acção pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Projecto de formação e acção pedagógica\n\n1 - A componente projecto de formação e acção pedagógica integra-se no 2.º ano da profissionalização em serviço, decorre na escola a cujo quadro o docente pertence e é da responsabilidade conjunta da instituição de ensino superior e do conselho pedagógico da respectiva escola.\n\n2 - O projecto a realizar pelo professor em profissionalização carece de prévia aprovação da instituição de ensino superior e do conselho pedagógico da escola, através da sua secção de formação, constituída nos termos do Regulamento de Funcionamento dos Conselhos Pedagógicos e Órgãos de Apoio das Escolas Preparatórias, Preparatórias e Secundárias e Secundárias.\n\n3 - Para efeitos de execução do disposto no número anterior, a instituição de ensino superior designará um membro do seu corpo docente e o conselho pedagógico indicará o delegado de grupo, subgrupo, disciplina ou especialidade ou, em caso de impossibilidade, um seu substituto para acompanhar e orientar os docentes na profissionalização em serviço.\n\n4 - O membro do corpo docente da institutição de ensino superior referido no número anterior procederá à necessária articulação entre a sua instituição e a escola em que o professor realiza a profissionalização em serviço.\n\n5 - O conselho pedagógico da escola indicará o delegado de grupo, subgrupo, disciplina ou especialidade, ou o seu substituto, respeitando o perfil definido no Regulamento de Funcionamento dos Conselhos Pedagógicos e Órgãos de Apoio das Escolas Preparatórias, Preparatórias e Secundárias e Secundárias.\n\n6 - Sempre que haja impossibilidade de indicar o delegado de grupo, subgrupo, disciplina ou especialidade, o conselho pedagógico designará o seu substituto nos termos do n.º 5 deste artigo, após ter ouvido o conselho de grupo, subgrupo, disciplina ou especialidade.\n\n7 - O professor referido no n.º 5, bem como o seu substituto, será obrigatoriamente um professor profissionalizado do grupo, subgrupo, disciplina ou especialidade dos docentes em profissionalização que acompanha e orienta.\n\n8 - Cada professor referido no n.º 5 deste artigo não deve acompanhar e orientar mais de quatro docentes em profissionalização."
+  },
+  "4f1c4d830d3c8c90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Natureza do projecto de formação e acção pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Natureza do projecto de formação e acção pedagógica\n\n1 - A componente referida no artigo anterior concretiza-se na concepção e realização de um projecto de formação e acção pedagógica centrado no processo de ensino-aprendizagem e inserido no contexto interno e externo da escola.\n\n2 - O projecto de formação e acção pedagógica deve corresponder a um plano concreto de actuação pedagógica que integre os conhecimentos e aptidões desenvolvidos no 1.º ano de formação e a experiência profissional do professor."
+  },
+  "2820fc6c65c831db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Conteúdo do projecto de formação e acção pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conteúdo do projecto de formação e acção pedagógica\n\n1 - O projecto de formação e acção pedagógica inclui necessariamente, na área das competências docentes, o desenvolvimento do processo de ensino-aprendizagem, no domínio da sua especialidade (nomeadamente a identificação dos objectivos de ensino, o diagnóstico das características e necessidades dos alunos face aos objectivos definidos, a selecção de estratégias e métodos adequados aos objectivos e aos alunos, a planificação e a condução do ensino, a selecção dos materiais auxiliares e a avaliação do ensino), o dossier da direcção de turma que lhe foi atribuída e o relato comprovado da sua participação no projecto educativo da escola.\n\n2 - O projecto de formação e acção pedagógica compreende ainda a planificação e a realização de, pelo menos, uma unidade de ensino devidamente supervisionada."
+  },
+  "d32afb9dd4ab0f1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Da avaliação"
+  },
+  "e351536e7904676e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Princípios gerais\n\nA avaliação do docente em profissionalização abrange as duas componentes de formação e desenvolve-se em dois momentos distintos:\n\na) No final do 1.º ano de formação e no que se refere ao programa de ciências da educação;\n\nb) No final do 2.º ano de formação e no que se refere ao projecto de formação e acção pedagógica."
+  },
+  "ce8e1c5b4937c33e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Da avaliação no 1.º ano de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Da avaliação no 1.º ano de formação\n\n1 - A avaliação da componente de ciências da educação é da competência da instituição de ensino superior a que se refere o n.º 1 do artigo 6.º\n\n2 - A avaliação da referida componente ocorre no final de cada um dos módulos mencionados no n.º 2 do artigo 6.º deste decreto-lei e é expressa na escala de 0 a 20 valores.\n\n3 - A classificação final da componente de ciências da educação será a média aritmética, aproximada às unidades, das classificações obtidas em cada módulo, também ela própria expressa em unidades na escala de 0 a 20 valores.\n\n4 - Considera-se aprovado no 1.º ano de formação o docente em profissionalização cuja classificação referida no número anterior seja igual ou superior a 10 valores, desde que não obtenha classificação inferior a 10 valores em nenhum dos módulos referidos no n.º 2 do artigo 6.º do presente diploma, o que, só por si, determina uma situação de não aproveitamento na componente de ciências da educação.\n\n5 - Ao docente que não tenha obtido classificação igual ou superior a 10 valores em qualquer dos módulos será facultada a oportunidade de segunda avaliação.\n\n6 - No final do 1.º ano, a classificação inferior a 10 valores obtida em algum dos módulos referidos no n.º 2 do artigo 6.º do presente diploma determina, só por si, uma situação de não aproveitamento na componente de ciências da educação."
+  },
+  "e6a9c466681c5a00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Da transição ao 2.º ano de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Da transição ao 2.º ano de formação\n\nSó podem transitar ao 2.º ano de formação os docentes em profissionalização que obtiverem aprovação no 1.º ano de formação, de acordo com o disposto no n.º 4 do artigo anterior."
+  },
+  "a2e983ff2fdf9a0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Da avaliação do 2.º ano de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Da avaliação do 2.º ano de formação\n\n1 - A avaliação da componente projecto de formação e acção pedagógica é da competência da instituição de ensino superior, a partir do relatório elaborado pelo professor que acompanhou o formando sobre a execução do referido projecto. O relatório deve incluir uma apreciação fundamentada do desempenho da função docente, nomeadamente nos domínios pedagógico-didáctico e da direcção de turma.\n\n2 - O relatório referido no n.º 1 deste artigo carece de ratificação pelo conselho pedagógico, através da sua secção de formação.\n\n3 - A avaliação da componente projecto de formação e acção pedagógica ocorre no final do 2.º ano de formação e será expressa em unidades na escala de 0 a 20 valores.\n\n4 - Considera-se aprovado no 2.º ano de formação o docente em profissionalização cuja classificação, concretizada nos termos do número anterior, seja igual ou superior a 10 valores."
+  },
+  "63ad5cba0228ae0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Classificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Classificação profissional\n\n1 - Concluída com aproveitamento a frequência dos dois anos de formação, será atribuída ao docente em profissionalização uma classificação profissional pela Direcção-Geral do Ensino Básico e Secundário (DGEBS).\n\n2 - A classificação profissional referida no número anterior será determinada, com aproximação às décimas, através da aplicação da seguinte fórmula:\n\nCP = ((CA + (CCE + CPFAP))/2)/2\n\nem que CP corresponde à classificação profissional, CA à classificação académica, CCE à componente ciências da educação e CPFAP à componente projecto de formação e acção pedagógica.\n\n3 - A classificação profissional será publicada no Diário da República pela DGEBS."
+  },
+  "7deffa39977acb30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Repetição dos anos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Repetição dos anos de formação\n\n1 - O docente em profissionalização pode ter não aproveitamento apenas uma vez em cada um dos dois anos da formação.\n\n2 - Sempre que o docente ultrapasse o limite referido no número anterior, será o mesmo automaticamente exonerado do lugar do quadro em que se encontra provido.\n\n3 - O docente que repetir o 1.º ano de formação fará nova inscrição apenas na área em que não obteve aproveitamento, conservando para as restantes as classificações atribuídas no ano anterior.\n\n4 - O docente que repetir o 2.º ano de formação deverá apresentar novo projecto de formação e acção pedagógica quando assim for entendido."
+  },
+  "a07509bbe2e7cd55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Faltas às componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Faltas às componentes\n\n1 - Em cada ano de formação, o docente em profissionalização não pode ultrapassar 60 dias de faltas seguidas ou alternadas, considerando a participação nas sessões realizadas pela instituição de ensino superior e a prática pedagógica na escola.\n\n2 - Nos 60 dias referidos no número anterior não se incluem os abrangidos por licença de parto.\n\n3 - Sempre que seja ultrapassado o limite referido nos números anteriores, considera-se, para todos os efeitos, que o docente em profissionalização não obteve aproveitamento no respectivo ano de formação.\n\n4 - O não aproveitamento referido no número anterior é considerado para efeitos de aplicação do disposto no artigo 15.º deste decreto-lei."
+  },
+  "900d8a35df81e2ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Desistências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Desistências\n\n1 - A desistência em qualquer dos dois anos de formação equivale, para todos os efeitos, nomeadamente para aplicação do artigo 15.º deste diploma, a não aproveitamento.\n\n2 - O docente apresentará a desistência, quer na instituição de ensino superior, quer na escola a cujo quadro pertence, em declaração com a assinatura reconhecida nos termos legais em vigor."
+  },
+  "e9c32aa463cc360a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Prestação de serviço docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Prestação de serviço docente\n\nSempre que se verifique uma das situações constantes nos artigos 16.º e 17.º, o professor que se encontra em profissionalização deixa de beneficiar da redução do horário lectivo previsto neste decreto-lei e o conselho directivo do estabelecimento de ensino a cujo quadro pertença deve distribuir-lhe, relativamente àquela redução, outras tarefas docentes ou paradocentes."
+  },
+  "43834f0d57b22065": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Da rede de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Da rede de formação"
+  },
+  "96341160c165c8ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Constituição\n\n1 - Constituem a rede de formação:\n\na) Centros integrados de formação de professores;\n\nb) Escolas superiores de educação;\n\nc) Faculdades de ciências;\n\nd) Faculdade de Ciências Humanas e Sociais da Universidade Nova de Lisboa;\n\ne) Faculdades de ciências e tecnologia;\n\nf) Faculdades de letras;\n\ng) Faculdades de psicologia e ciências da educação;\n\nh) Institutos superiores de educação física;\n\ni) Universidade Aberta;\n\nj) Escolas dos ensinos preparatório e secundário.\n\n2 - Para além das entidades referidas no número anterior, poderão ainda ser constituídos círculos de formação de acordo com os princípios definidos no presente diploma.\n\n3 - A rede de formação resulta do plano de afectação de docentes em profissionalização e pode sofrer, anualmente, alterações resultantes das colocações operadas pela primeira parte do concurso a que se refere o [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.\n\n4 - A afectação dos docentes em profissionalização é feita com base num plano anualmente elaborado, o qual será definido, fundamentalmente, de acordo com os critérios abaixo mencionados:\n\na) Capacidade de recepção de professores em profissionalização por parte das instituições de ensino superior referidas no n.º 1 deste artigo;\n\nb) Características das escolas onde os docentes realizam a profissionalização, designadamente as condições de acesso às instituições de ensino superior.\n\n5 - A Universidade Aberta assegurará a formação dos docentes em profissionalização que se encontrem colocados em escolas caracterizadas por difíceis condições de acesso, as quais deverão ser referenciadas expressamente no plano a que se refere o n.º 3 deste artigo, salvaguardado o direito de opção do docente pela modalidade presencial, o qual deve, nesse caso, suportar os custos dela decorrentes.\n\n6 - Para efeitos do disposto no número anterior, a Universidade Aberta celebrará protocolos com a instituição de ensino superior em cuja área de influência se situa a escola onde o docente em profissionalização se encontre colocado."
+  },
+  "fcfa214904ca068c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Associações de escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Associações de escolas\n\n1 - Nos termos definidos no artigo anterior, as escolas preparatórias e secundárias podem associar-se em círculos de formação.\n\n2 - Para efeitos do disposto no presente diploma, entende-se por círculo de formação o espaço de interacção de escolas da mesma localidade ou de localidades próximas que se associam com a finalidade de construir um projecto comum de formação, partilhando experiências e rendibilizando os recursos disponíveis."
+  },
+  "12cab3b03b0c3549": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Dos círculos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Dos círculos de formação\n\n1 - A rede dos círculos de formação será anualmente objecto de despacho do Ministro da Educação.\n\n2 - O despacho referido no número anterior será fundamentado em proposta conjunta da DGEBS, da Direcção-Geral de Administração e Pessoal (DGAP) e das direcções regionais de educação, que tomarão em consideração as colocações de professores em profissionalização em serviço como resultado da primeira parte do concurso previsto no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e as necessidades em termos de rede de formação.\n\n3 - A DGEBS, a DGAP e as direcções regionais de educação deverão ouvir, para efeitos de cumprimento do estipulado no número anterior, as escolas do ensino preparatório e secundário e as instituições de ensino superior em cuja área de influência as escolas se situam."
+  },
+  "bdf89078110641e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Dos intervenientes no processo de profissionalização e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Dos intervenientes no processo de profissionalização e suas competências"
+  },
+  "046c2c3df66331df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Intervenientes na profissionalização em serviço e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Intervenientes na profissionalização em serviço e suas competências\n\nSão entidades intervenientes no processo de profissionalização em serviço:\n\na) Órgãos de coordenação:\n\nConselho Coordenador de Formação (CCF), no âmbito dos serviços centrais do Ministério da Educação;\n\nb) Órgãos de formação:\n\nInstituições de ensino superior;\n\nEscolas dos ensinos preparatório e secundário."
+  },
+  "7507eebfc9b4c234": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Do Concelho Coordenador de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Do Concelho Coordenador de Formação\n\n1 - O CCF é o órgão de coordenação da profissionalização em serviço, cujas funções e competências se desenvolvem no âmbito dos serviços centrais do Ministério da Educação.\n\n2 - Integram o CCF:\n\na) O presidente do Instituto de Inovação Educacional;\n\nb) O director-geral do Ensino Superior;\n\nc) O director-geral do Ensino Básico e Secundário;\n\nd) O director-geral de Administração e Pessoal;\n\ne) Representante do Conselho de Reitores das Universidades Portuguesas;\n\nf) Representante do Conselho Coordenador do Ensino Superior Politécnico.\n\n3 - Preside ao CCF o Ministro da Educação, que pode delegar em seu representante.\n\n4 - Os membros do Conselho referidos nas alíneas a) a d) do n.º 2 não podem fazer-se representar.\n\n5 - O CCF reúne uma vez por período lectivo e extraordinariamente sempre que convocado pelo Ministro da Educação ou quando a maioria dos seus membros o solicitar.\n\n6 - As deliberações do CCF são tomadas por maioria de votos, competindo ao presidente voto de qualidade.\n\n7 - O Conselho será secretariado por um funcionário designado pelo Ministro da Educação.\n\n8 - As deliberações constarão de livro de actas escriturado pelo secretário."
+  },
+  "464bb9e14a553e94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Das competências do Conselho Coordenador de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Das competências do Conselho Coordenador de Formação\n\nCompete ao CCF a coordenação e avaliação da profissionalização em serviço, bem como a definição das suas linhas orientadoras e dos critérios de avaliação a aplicar por força dos artigos 11.º e 13.º deste decreto-lei."
+  },
+  "2d94d2a87eb1bd60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Da coordenação a nível regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Da coordenação a nível regional\n\nDe acordo com as orientações do CCF, cabe às direcções regionais de educação encontrar solução para os problemas decorrentes do funcionamento do sistema de profissionalização em serviço, em articulação com as instituições de ensino superior e as escolas dos ensinos básico e secundário da respectiva região."
+  },
+  "ea6d6f98c279c2e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Instituições de ensino superior - sua intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Instituições de ensino superior - sua intervenção\n\n1 - Compete a cada instituição de ensino superior interveniente na profissionalização em serviço a concepção e a execução do programa de formação em ciências da educação, nomeadamente através da realização de sessões presenciais ou seminários e da produção de material de apoio aos seminários, a supervisão do projecto de formação e acção pedagógica, bem como a avaliação dos professores em profissionalização.\n\n2 - No caso da Universidade Aberta, as sessões presenciais serão distribuídas pela produção de materiais didácticos mediatizados e pelo contacto regular com os professores em profissionalização, através dos meios de comunicação à distancia.\n\n3 - Compete ainda a cada instituição a organização, designadamente durante o mês de Setembro, de acções de formação destinadas a delegados de grupo, subgrupo, disciplina ou especialidade, ou aos seus substitutos legais, no que se refere à preparação e acompanhamento do projecto de formação e acção pedagógica mencionado no artigo 7.º, de forma a garantir a articulação entre as duas componentes de formação.\n\n4 - Para efeitos do disposto nos números anteriores, cada instituição de ensino superior tomará, através dos seus órgãos próprios, as medidas adequadas à prossecução daqueles objectivos e determinará, de acordo com o seu projecto de formação, o processo de intervenção do seu corpo docente."
+  },
+  "c6f8e6cc8b40c3b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Escolas preparatórias e secundárias - sua intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Escolas preparatórias e secundárias - sua intervenção\n\n1 - As escolas preparatórias e secundárias participam no processo de profissionalização em serviço através dos seguintes órgãos:\n\na) Conselho pedagógico, designadamente através da sua secção de formação;\n\nb) Conselho de grupo, subgrupo, disciplina ou especialidade;\n\nc) Delegado de grupo, subgrupo, disciplina ou especialidade, ou o seu substituto.\n\n2 - Para efeitos do disposto no número anterior, o delegado de grupo, subgrupo, disciplina ou especialidade tem o seu substituto legal igualmente designado pelo conselho pedagógico."
+  },
+  "465cbba55bbfecc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Competências do conselho pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competências do conselho pedagógico\n\nCompete ao conselho pedagógico de cada escola dos ensinos preparatório e secundário com docentes em profissionalização, através da sua secção de formação:\n\na) A orientação, o acompanhamento e a avaliação do projecto de formação e acção pedagógica do docente em formação, numa perspectiva de inserção no contexto interno e externo da escola e em articulação com a instituição de ensino superior em cuja área de influência a escola se integre;\n\nb) A designação do delegado de grupo, subgrupo, disciplina ou especialidade ou do seu substituto para orientar e acompanhar o projecto de formação e acção pedagógica do docente em profissionalização, nos termos do artigo 7.º deste diploma;\n\nc) A promoção do intercâmbio de recursos no âmbito da escola e do circulo de formação em que se integre."
+  },
+  "202cc1b49bd8574a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Competências do conselho de grupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências do conselho de grupo\n\nCompete ao conselho de grupo, subgrupo, disciplina ou especialidade de cada escola dos ensinos preparatório e secundário:\n\na) A prestação de apoio aos professores em profissionalização, nomeadamente na partilha de experiências e de recursos de formação;\n\nb) Na impossibilidade da designação do delegado de grupo, subgrupo, disciplina ou especialidade, a indicação do professor que o substituirá na orientação e apoio aos professores em profissionalização, nos termos estabelecidos neste decreto-lei."
+  },
+  "8a286c906ca3eee8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Competência do delegado de grupo, subgrupo, disciplina ou especialidade, ou seu substituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência do delegado de grupo, subgrupo, disciplina ou especialidade, ou seu substituto\n\nCompete ao delegado de grupo, subgrupo, disciplina ou especialidade, ou ao seu substituto, em articulação com a instituição de ensino superior, a orientação e o apoio directo ao professor em profissionalização, na área da concepção e realização do projecto de formação e acção pedagógica, bem como a elaboração da proposta fundamentada da sua avaliação."
+  },
+  "09cdc9ec05f2d24c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Do funcionamento e organização da profissionalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Do funcionamento e organização da profissionalização"
+  },
+  "ebf440a23ad3814a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Da organização do 1.º ano de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Da organização do 1.º ano de formação\n\nNo 1.º ano de profissionalização em serviço, as instituições de ensino superior procederão à realização de seminários e à produção do material de apoio correspondente, que, numa perspectiva de formação contínua, deverá ser fornecido às escolas preparatórias e secundárias localizadas na sua área de influência."
+  },
+  "520193c3999a9800": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Da participação do docente em profissionalização no 1.º ano de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Da participação do docente em profissionalização no 1.º ano de formação\n\n1 - Para além da sua actividade na escola a cujo quadro pertence, o docente em profissionalização participará em seminários organizados pela instituição de ensino superior, os quais decorrerão em dia de semana fixado pela referida instituição, do qual será dado conhecimento aos conselhos directivos das escolas da sua área de influência.\n\n2 - O número de horas a atribuir às acções presenciais do programa de formação situar-se-á entre 90 e 110 horas anuais, mensalmente distribuídas por três sessões."
+  },
+  "1aca3c08cb9500ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Intervenção da Universidade Aberta na formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Intervenção da Universidade Aberta na formação\n\n1 - Os docentes em profissionalização a que se refere o n.º 6 do artigo 19.º seguem os módulos de formação difundidos pela Universidade Aberta em regime de formação à distância.\n\n2 - Os módulos serão postos à disposição dos professores em profissionalização nas escolas a que estes pertencem, bem como nos círculos de formação."
+  },
+  "f5f72c4f6665c994": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Da participação do docente em profissionalização no 2.º ano de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Da participação do docente em profissionalização no 2.º ano de formação\n\n1 - No 2.º ano de formação, a profissionalização em serviço reveste, fundamentalmente, a forma do projecto de formação e acção pedagógica.\n\n2 - Para efeitos do disposto no número anterior, o conselho pedagógico de cada escola designará, no início do ano escolar, o delegado de grupo, subgrupo, disciplina ou especialidade, ou o seu substituto, para, em articulação com a instituição de ensino superior, orientar e prestar apoio directo aos professores em profissionalização, ouvido o conselho de grupo, subgrupo, disciplina ou especialidade."
+  },
+  "2fdb8e9ce0082551": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Carências de meios de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Carências de meios de acompanhamento\n\nNos casos em que por carência dos meios existentes, nomeadamente por impossibilidade de designação do delegado de grupo, subgrupo, disciplina ou especialidade, ou do seu substituto, não for viável proporcionar ao docente em profissionalização acompanhamento eficaz no 2.º ano de formação, no âmbito da escola, os conselhos pedagógicos solicitarão recursos ao círculo de formação em que se integram os respectivos estabelecimentos de ensino, devendo a direcção regional de educação respectiva promover as medidas necessárias para a sua concretização."
+  },
+  "8f9e31870e9de323": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Do estatuto do professor em profissionalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Do estatuto do professor em profissionalização"
+  },
+  "8367a18c60eb1e43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Dos direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Dos direitos e deveres\n\n1 - O docente em profissionalização tem direito, no 1.º ano de formação, a uma redução de seis horas lectivas semanais, devendo participar nas sessões promovidas pela instituição de ensino superior.\n\n2 - No 1.º ano de formação, ao docente em profissionalização não será distribuído serviço lectivo em dia de semana fixado pela instituição de ensino superior.\n\n3 - No 2.º ano de formação, o docente em profissionalização assume a direcção de uma turma e tem uma redução de seis horas lectivas semanais, a adicionar à que lhe compete como director de turma.\n\n4 - No 2.º ano de formação compete ao docente em profissionalização conceber, apresentar e realizar um projecto de formação e acção pedagógica.\n\n5 - O docente em profissionalização tem direito a ser abonado das ajudas de custo legais e das despesas de transporte pelas deslocações decorrentes nas sessões previstas no n.º 1.\n\n6 - As deslocações referidas no número anterior serão sancionadas pelo conselho directivo e os abonos serão processados pela escola onde o docente realiza a sua profissionalização."
+  },
+  "2b382726f032c174": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Do estatuto do delegado de grupo, subgrupo, disciplina ou especialidade, ou do seu substituto, acompanhante do docente em profissionalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Do estatuto do delegado de grupo, subgrupo, disciplina ou especialidade, ou do seu substituto, acompanhante do docente em profissionalização"
+  },
+  "7acbf7c50ec0eb36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Redução de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Redução de serviço\n\n1 - O delegado de grupo, subgrupo, disciplina ou especialidade, ou o seu substituto, a quem competir o acompanhamento dos docentes em profissionalização tem direito a uma redução, no seu horário lectivo, de duas horas semanais por cada docente a acompanhar, até ao limite máximo de oito horas lectivas semanais.\n\n2 - A redução referida no número anterior é adicionada à redução legalmente estabelecida para o exercício específico do cargo de delegado de grupo, subgrupo, disciplina ou especialidade.\n\n3 - O delegado de grupo, subgrupo, disciplina ou especialidade regerá sempre, pelo menos, uma turma."
+  },
+  "d89a51b3eb143dc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Do estatuto\n\n1 - Ao delegado de grupo, subgrupo, disciplina ou especialidade, ou ao seu substituto, é mantida a remuneração aludida no artigo 4.º do [Decreto-Lei n.º 381-D/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-d-1985-476746), de 28 de Setembro, passando a mesma a ser constituída por 10% da letra C da tabela salarial da função pública, sem acréscimo de qualquer diuturnidade.\n\n2 - Se as funções do professor referidas no número anterior se iniciarem depois do começo do ano lectivo, o mesmo tem direito à remuneração a partir do início do mês seguinte, salvo quando prestou aquele serviço em mais de quinze dias do mês em que o iniciou, sendo-lhe então devida a gratificação por inteiro.\n\n3 - Sempre que o delegado de grupo, subgrupo, disciplina ou especialidade ou o seu substituto deixarem de ter professores em profissionalização por desistência destes, cessa, a partir do mês seguinte àquele em que a desistência ocorrer, a remuneração referida neste artigo."
+  },
+  "31f898abac4f5ded": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Valorização do desempenho da função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Valorização do desempenho da função\n\nO desempenho de funções de acompanhamento e orientação de docentes em profissionalização será considerado de acordo com os princípios que sobre a matéria vierem a ser estabelecidos no Estatuto dos Docentes do Ensino não Superior."
+  },
+  "1db4fb3fb8cd0ac5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Acções de formação dos delegados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Acções de formação dos delegados\n\n1 - O delegado de grupo, subgrupo, disciplina ou especialidade participará nas acções de formação previstas no n.º 3 do artigo 26.º, as quais poderão revestir forma presencial ou à distância.\n\n2 - As acções referidas no número anterior são da responsabilidade das instituições de ensino superior mencionadas no presente diploma e realizar-se-ão predominantemente no mês de Setembro."
+  },
+  "f8099ab372cf201e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Ajudas de custo e despesas de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Ajudas de custo e despesas de transporte\n\n1 - O delegado de grupo, subgrupo, disciplina ou especialidade, ou o seu substituto legal, que efectuar o acompanhamento e a orientação dos professores em profissionalização tem direito a ser abonado das ajudas de custo legais e das despesas de transporte pelas deslocações correspondentes às acções previstas no artigo 40.º\n\n2 - As deslocações referidas no número anterior serão sancionadas pelo conselho directivo e os abonos serão processados pela escola onde o acompanhamento e a orientação de docentes em profissionalização se efectuar."
+  },
+  "116acb16ca4901b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Disposições finais e transitórias"
+  },
+  "1537f8215d6f3a9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Profissionalização em serviço nos estabelecimentos dos ensinos particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Profissionalização em serviço nos estabelecimentos dos ensinos particular e cooperativo\n\n1 - O presente diploma é aplicável aos professores do ensino particular e cooperativo que reúnam os requisitos de habilitações e tempo de serviço previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e as demais condições de ingresso no quadro com nomeação provisória estabelecidas naquele decreto-lei.\n\n2 - Para efeito do disposto no número anterior, os docentes pelo mesmo abrangidos são integrados em listas de âmbito distrital por grupo, subgrupo, disciplina ou especialidade, a elaborar pela DGEBS, que, para o efeito, os ordenará de acordo com os princípios definidos no artigo 2.º deste decreto-lei.\n\n3 - Serão chamados para a profissionalização em serviço os docentes que, de acordo com a sua graduação na docência, calculada nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, o seriam também caso constassem da lista a que se refere o artigo 2.º do presente diploma.\n\n4 - A profissionalização em serviço é da responsabilidade das instituições de ensino superior e da escola onde o professor exerce funções docentes, desde que a mesma possua autonomia ou paralelismo pedagógico.\n\n5 - A profissionalização em serviço obtida pelos docentes do ensino particular e cooperativo é, para todos os efeitos legais, equiparada à dos docentes do ensino oficial, mas a sua integração nos quadros das escolas oficiais dos ensinos preparatório e secundário far-se-á apenas através da primeira parte do concurso referido no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.\n\n6 - A profissionalização em serviço nas escolas particulares e cooperativas não poderá realizar-se cumulativamente com o desempenho de funções directivas.\n\n7 - Os professores que se profissionalizem nas escolas particulares e cooperativas obrigam-se a cumprir com as escolas a que estão vinculados um contrato de prestação de serviço como docentes no grupo, subgrupo, disciplina ou especialidade em que se profissionalizem por um período de quatro anos escolares após concluída a profissionalização.\n\n8 - O não cumprimento do disposto no número anterior, excepto no caso de acordo entre as partes, determina a impossibilidade de os professores exercerem funções docentes em qualquer escola particular e cooperativa ou oficial durante o período de tempo em que deveria vigorar o contrato de prestação de serviço nos termos do número anterior.\n\n9 - Sempre que não se verifique o cumprimento do contrato, mesmo no caso da sua rescisão por mútuo acordo, a escola comunicará o facto, por escrito e no prazo de quinze dias, à DGEBS.\n\n10 - Em tudo o mais aplica-se à profissionalização em serviço no ensino particular e cooperativo o disposto neste diploma relativamente à profissionalização em serviço no ensino oficial."
+  },
+  "624ebaabc0de195e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Profissionalização em serviço dos professores com seis anos de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Profissionalização em serviço dos professores com seis anos de serviço\n\n1 - Os professores dos quadros com nomeação provisória dos ensinos preparatório e secundário estão dispensados da realização da componente projecto de formação e acção pedagógica quando possuam seis anos de bom e efectivo serviço docente prestado como portadores de habilitação própria para a situação de docência em que se encontravam ou encontrem colocados até 30 de Setembro do ano em que realizaram o 1.º ano de profissionalização em serviço.\n\n2 - Os professores referidos no número anterior serão considerados em prioridade nas acções de formação contínua.\n\n3 - A classificação profissional dos professores dispensados da realização da componente projecto de formação e acção pedagógica resultará da seguinte adaptação da fórmula referida no n.º 2 do artigo 14.º:\n\nCP = (CA + CCE)/2"
+  },
+  "46e3893347216bbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Integração dos docentes abrangidos pela formação em serviço prevista nos Decretos-Leis n.os [150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e [405/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1986-221304), de 5 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Integração dos docentes abrangidos pela formação em serviço prevista nos Decretos-Leis n.os [150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e [405/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1986-221304), de 5 de Dezembro\n\n1 - Os docentes que, por força do estabelecido no [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, e de acordo com o disposto no [Decreto-Lei n.º 405/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1986-221304), de 5 de Dezembro, realizaram com aproveitamento, no ano lectivo de 1987-1988, o 1.º ano de formação em serviço, na componente de ciências da educação, concretizarão no ano lectivo de 1988-1989 a componente projecto de formação e acção pedagógica, de acordo com o regime estabelecido no presente decreto-lei.\n\n2 - Os docentes referidos no número anterior tomarão parte, no início do ano lectivo de 1988-1989, em seminário orientado pela instituição do ensino superior a que nesse momento se encontrarem ligados.\n\n3 - No seminário mencionado no n.º 2 serão definidas as linhas orientadoras do projecto de formação e acção pedagógica.\n\n4 - Os docentes referidos neste artigo beneficiam do disposto no artigo 43.º deste diploma."
+  },
+  "421287301ea30a3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Docentes sem aproveitamento no 1.º ano da formação em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Docentes sem aproveitamento no 1.º ano da formação em serviço\n\nOs docentes referidos no n.º 1 do artigo anterior que não obtiverem, no ano lectivo de 1987-1988, aproveitamento no 1.º ano da formação em serviço integram-se, para todos os efeitos, no regime estabelecido por este diploma e no ano lectivo de 1988-1989 frequentarão a componente de ciências da educação."
+  },
+  "401f9ec7e5e62082": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Docentes sem aproveitamento no 2.º ano da formação em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Docentes sem aproveitamento no 2.º ano da formação em serviço\n\nOs docentes referidos no n.º 1 do artigo 44.º que realizarem sem aproveitamento, no ano lectivo de 1987-1988, o 2.º ano da formação em serviço concretizarão no ano lectivo de 1988-1989 a componente projecto de formação e acção pedagógica, de acordo com o regime estabelecido no presente decreto-lei, e não usufruirão da dispensa prevista no artigo 43.º deste decreto-lei."
+  },
+  "c3b5b7abcb2bb0bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Acompanhante do projecto de formação e acção pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Acompanhante do projecto de formação e acção pedagógica\n\n1 - As instituições de ensino superior mencionadas no artigo 6.º do presente diploma poderão recrutar, mediante contrato, pessoal docente devidamente qualificado para acompanhar o projecto de formação e acção pedagógica.\n\n2 - O contrato previsto no número anterior revestirá a forma escrita e terá a duração anual, prorrogável por períodos de igual duração enquanto vigorar o sistema de profissionalização em serviço instituído pelo presente diploma.\n\n3 - O professor contratado auferirá remuneração correspondente ao montante do vencimento com dedicação exclusiva do assistente e assistente do 2.º triénio, consoante se trate, respectivamente, de instituições de ensino superior universitário e de ensino superior politécnico.\n\n4 - O contrato referido nos n.os 1, 2 e 3 deste artigo está sujeito a visto do Tribunal de Contas e será realizado por urgente conveniência de serviço.\n\n5 - As instituições de ensino superior mencionadas no n.º 1 poderão ainda, para o desempenho da actividade referida nesse preceito e sem prejuízo do disposto no [Decreto-Lei n.º 400/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1987-406111), de 31 de Dezembro, propor a requisição de professores do quadro com nomeação definitiva do ensino não superior, em caso de impossibilidade de suprir as suas carências através de qualquer outro mecanismo de recrutamento de pessoal previsto na lei.\n\n6 - As requisições referidas no número anterior estão sujeitas ao regime previsto no n.º 2 do artigo 1.º e nos artigos 2.º e 3.º do [Decreto-Lei n.º 400/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1987-406111), de 31 de Dezembro, sendo os docentes requisitados, caso não optem pelo estatuto remuneratório de origem, remunerados pelo vencimento da categoria de assistente ou assistente do 2.º triénio, em ambos os casos em regime de dedicação exclusiva, consoante se trate, respectivamente, de instituições de ensino superior universitário ou de ensino superior politécnico.\n\n7 - Os docentes requisitados nos termos dos números anteriores exercerão as suas funções em regime de dedicação exclusiva, salvo dispensa a conceder por despacho do Ministro da Educação a requerimento fundamentado do interessado, devendo, nesta situação, o estatuto remuneratório ser adequado ao regime de prestação de serviço aplicável às categorias docentes mencionadas no número anterior."
+  },
+  "0c90e4e07951e878": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Extinção de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Extinção de funções\n\n1 - Os professores dos ensinos preparatório e secundário que, ao abrigo do [Decreto-Lei n.º 381-D/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-d-1985-476746), de 28 de Setembro, se encontram, à data da publicação deste diploma, a desempenhar funções de acompanhamento da prática pedagógica regressam em 1 de Setembro de 1988 aos seus lugares de origem, cessando a partir daquela data as funções que vinham desempenhando.\n\n2 - A formação e a experiência adquiridas pelos professores referidos no n.º 1 deste artigo no exercício das funções que ora cessam devem ser ponderadas pelos conselhos pedagógicos das escolas preparatórias e secundárias aquando da designação para tarefas de acompanhamento dos docentes em profissionalização previstas no artigo 30.º deste decreto-lei, bem como de orientação da formação contínua desenvolvida nas escolas."
+  },
+  "f798fd8c815dcefe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Legislação revogada\n\nÉ revogada toda a legislação em contrário, nomeadamente:\n\na) Os Decretos-Leis n.os [405/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1986-221304), de 5 de Dezembro, e [6/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1987-599749), de 6 de Fevereiro;\n\nb) O [Decreto-Lei n.º 381-D/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-d-1985-476746), de 28 de Setembro, no que respeita aos acompanhantes da prática pedagógica dos docentes dos ensinos preparatório e secundário ao abrigo do [Decreto-Lei n.º 150-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1985-275864), de 8 de Maio, na redacção dada pela [Lei n.º 8/86](https://diariodarepublica.pt/dr/detalhe/lei/8-1986-195779), de 15 de Abril."
+  },
+  "87b5fa14915da9ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Aplicação aos estabelecimentos de ensino dependentes do Ministério do Emprego e da Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Aplicação aos estabelecimentos de ensino dependentes do Ministério do Emprego e da Segurança Social\n\n1 - O presente diploma é aplicável aos professores dos estabelecimentos oficiais dos ensinos preparatório e secundário dependentes do Ministério do Emprego e da Segurança Social que reúnam os requisitos, habilitações e tempo de serviço previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.\n\n2 - Para efeitos do disposto no número anterior, para além dos docentes anualmente chamados e afectados para a profissionalização em serviço nos termos do artigo 2.º e do n.º 4 do artigo 19.º do presente diploma, serão ainda anualmente chamados vinte docentes dos estabelecimentos oficiais dos ensinos preparatório e secundário dependentes do Ministério do Emprego e da Segurança Social, que serão os que possuírem melhor ordenação na docência, calculada nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro."
+  },
+  "9d66308b7eeaa850": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Aplicação às Regiões Autónomas dos Açores e da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Aplicação às Regiões Autónomas dos Açores e da Madeira\n\nO presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, com as alterações decorrentes das transferências de competências do Governo para os governos regionais."
+  },
+  "8220e8514c419f2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e considera-se já aplicável no ano lectivo de 1988-1989.\n\nVisto e aprovado em Conselho de Ministros de 7 de Julho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.\n\nPromulgado em 2 de Agosto de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Agosto de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "36e32bf1a4304057": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito do diploma",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito do diploma\n\nO presente diploma contém as normas orientadoras da profissionalização em serviço que se aplicam aos professores dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pertencentes aos quadros com nomeação provisória, previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e no [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.\n\n> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+  },
+  "f26218602bf4ea9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Actualização das listas",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+   ],
+   "markdown": "###### Artigo 3.º — Actualização das listas\n\n1 - As listas por grupo, subgrupo, disciplina ou especialidade, organizadas de acordo com o estabelecido no artigo anterior, serão anualmente actualizadas em resultado das colocações de professores do quadro com nomeação provisória, operadas pela primeira parte do concurso a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e do concurso para os quadros de zona pedagógica, ao abrigo do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.\n\n2 - Os docentes referidos no número anterior entrarão na lista imediatamente a seguir ao último dela constante, ordenados, eles próprios, nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, salvo nos casos em que já sejam professores dos quadros com nomeação provisória, sendo então integrados na lista do novo distrito, de acordo com a sua graduação na docência.\n\n> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+  },
+  "fb18757d5408247b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Classificação profissional",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06."
+   ],
+   "markdown": "###### Artigo 14.º — Classificação profissional\n\n1 - Concluída com aproveitamento a frequência dos dois anos de formação, será atribuída ao docente em profissionalização uma classificação profissional pela Direcção-Geral da Administração Educativa.\n\n2 - A classificação profissional referida no número anterior será determinada, com aproximação às décimas, através da aplicação da seguinte fórmula:\n\nCP = ((CA + (CCE + CPFAP))/2)/2\n\nem que CP corresponde à classificação profissional, CA à classificação académica, CCE à componente ciências da educação e CPFAP à componente projecto de formação e acção pedagógica.\n\n3 - A classificação profissional será publicada no Diário da República, 2.ª série, pela Direcção-Geral da Administração Educativa.\n\n> Alterado pelo/a [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06."
+  },
+  "cae656d9db6ce1e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Faltas às componentes",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+   ],
+   "markdown": "###### Artigo 16.º — Faltas às componentes\n\n1 - Em cada ano de formação, o docente em profissionalização não pode ultrapassar 60 dias de faltas seguidas ou alternadas, considerando a participação nas sessões realizadas pela instituição de ensino superior e a prática pedagógica na escola.\n\n2 - Nos 60 dias referidos no número anterior não se incluem os abrangidos por licença de parto.\n\n3 - Sempre que seja ultrapassado o limite referido nos números anteriores, considera-se, para todos os efeitos, que o docente em profissionalização não obteve aproveitamento no respectivo ano de formação, sem prejuízo do disposto nos n.os 5 e seguintes.\n\n4 - O não aproveitamento referido no número anterior é considerado para efeitos de aplicação do disposto no artigo 15.º deste decreto-lei.\n\n5 - Durante o tempo em que durar a incapacidade para o exercício de funções, motivada por gravidez de risco clínico ou doença protegida ou prolongada nos termos do artigo 48.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, considera-se suspensa a convocação para a profissionalização, bem como a própria realização desta.\n\n6 - Finda a situação que determinou a suspensão prevista no número anterior, o respectivo docente será convocado para realizar a profissionalização em serviço, ou retomará o exercício da mesma no caso da sua interrupção.\n\n7 - Para efeitos do disposto nos números anteriores, no final de cada ano escolar, os estabelecimentos de educação e ensino devem comunicar ao departamento central com competência na gestão dos recursos educativos, acompanhadas dos necessários comprovativos médicos, as referidas situações de incapacidade de que tenham sofrido docentes de nomeação provisória, bem como a data do respectivo início e termo.\n\n> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+  },
+  "92e1d8dc6286c091": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Constituição",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+   ],
+   "markdown": "###### Artigo 19.º — Constituição\n\n1 - Constituem a rede de formação:\n\na) Centros integrados de formação de professores;\n\nb) Escolas superiores de educação;\n\nc) Faculdades de ciências;\n\nd) Faculdade de Ciências Humanas e Sociais da Universidade Nova de Lisboa;\n\ne) Faculdades de ciências e tecnologia;\n\nf) Faculdades de letras;\n\ng) Faculdades de psicologia e ciências da educação;\n\nh) Institutos superiores de educação física;\n\ni) Universidade Aberta;\n\nj) Escolas dos ensinos preparatório e secundário.\n\n2 - Para além das entidades referidas no número anterior, poderão ainda ser constituídos círculos de formação de acordo com os princípios definidos no presente diploma.\n\n3 - A rede de formação resulta dos planos de afectação de docentes em profissionalização e pode sofrer, anualmente, alterações resultantes das colocações operadas pela primeira parte do concurso a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e do concurso para os quadros de zona pedagógica, ao abrigo do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.\n\n4 - A afectação dos docentes em profissionalização é feita com base num plano anualmente elaborado, o qual será definido, fundamentalmente, de acordo com os critérios abaixo mencionados:\n\na) Capacidade de recepção de professores em profissionalização por parte das instituições de ensino superior referidas no n.º 1 deste artigo;\n\nb) Características das escolas onde os docentes realizam a profissionalização, designadamente as condições de acesso às instituições de ensino superior.\n\n5 - A Universidade Aberta assegurará a formação dos docentes em profissionalização que se encontrem colocados em escolas caracterizadas por difíceis condições de acesso, as quais deverão ser referenciadas expressamente no plano a que se refere o n.º 3 deste artigo, salvaguardado o direito de opção do docente pela modalidade presencial, o qual deve, nesse caso, suportar os custos dela decorrentes.\n\n6 - Para efeitos do disposto no número anterior, a Universidade Aberta celebrará protocolos com a instituição de ensino superior em cuja área de influência se situa a escola onde o docente em profissionalização se encontre colocado.\n\n> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+  },
+  "ed5d0ed5519c980e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Dos círculos de formação",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+   ],
+   "markdown": "###### Artigo 21.º — Dos círculos de formação\n\n1 - A rede dos círculos de formação será anualmente objecto de despacho do Ministro da Educação.\n\n2 - O despacho a que se refere o número anterior será fundamentado em proposta conjunta dos departamentos centrais com competência pedagógica em relação aos 2.º e 3.º ciclos do ensino básico e ao ensino secundário, bem como na gestão dos recursos educativos, e das direcções regionais de educação, que tomarão em consideração as colocações de professores em profissionalização em serviço, em resultado do concurso a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e do concurso para os quadros de zona pedagógica, ao abrigo do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, com a redacção dada pelo [Decreto-Lei n.º 16/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296), de 8 de Março.\n\n3 - Para efeitos do número anterior, os serviços aí referidos deverão ouvir as escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário e as instituições de ensino superior em cuja área de influência as escolas se situam.\n\n> Alterado pelo/a [Decreto-Lei n.º 15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900), publicado em 1999-01-19."
+  },
+  "f840e3db852848c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Dos direitos e deveres",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), publicado em 1989-10-11."
+   ],
+   "markdown": "###### Artigo 36.º — Dos direitos e deveres\n\n1 - O docente em profissionalização tem direito, no 1.º ano de formação, quando em regime presencial, a uma redução de seis horas lectivas semanais e, quando em regime de formação à distância, a uma redução de quatro horas lectivas semanais, devendo, em qualquer dos casos, participar nas sessões promovidas pela instituição de ensino superior.\n\n2 - No 1.º ano de formação, ao docente em profissionalização não será distribuído serviço lectivo em dia de semana fixado pela instituição de ensino superior.\n\n3 - No 2.º ano de formação, o docente em profissionalização assume a direcção de uma turma e tem uma redução de seis horas lectivas semanais, a adicionar à que lhe compete como director de turma.\n\n4 - No 2.º ano de formação compete ao docente em profissionalização conceber, apresentar e realizar um projecto de formação e acção pedagógica.\n\n5 - O docente em profissionalização tem direito a ser abonado das ajudas de custo legais e das despesas de transporte pelas deslocações decorrentes nas sessões previstas no n.º 1.\n\n6 - As deslocações referidas no número anterior serão sancionadas pelo conselho directivo e os abonos serão processados pela escola onde o docente realiza a sua profissionalização.\n\n> Alterado pelo/a [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), publicado em 1989-10-11."
+  },
+  "18b1b2b267b0de39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Profissionalização em serviço nos estabelecimentos dos ensinos particular e cooperativo",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06."
+   ],
+   "markdown": "###### Artigo 42.º — Profissionalização em serviço nos estabelecimentos dos ensinos particular e cooperativo\n\n1 - O presente diploma é aplicável aos professores do ensino particular e cooperativo que reúnam os requisitos de habilitações e tempo de serviço previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e as demais condições de ingresso no quadro com nomeação provisória estabelecidas naquele decreto-lei.\n\n2 - Para efeito do disposto no número anterior, os docentes pelo mesmo abrangidos são integrados em listas de âmbito distrital, por grupo, subgrupo, disciplina ou especialidade, a elaborar pela Direcção-Geral da Administração Educativa, que, para o efeito, os ordenará de acordo com os princípios definidos no artigo 2.º deste diploma.\n\n3 - Serão chamados para a profissionalização em serviço os docentes que, de acordo com a sua graduação na docência, calculada nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, o seriam também caso constassem da lista a que se refere o artigo 2.º do presente diploma.\n\n4 - A profissionalização em serviço é da responsabilidade das instituições de ensino superior e da escola onde o professor exerce funções docentes, desde que a mesma possua autonomia ou paralelismo pedagógico.\n\n5 - A profissionalização em serviço obtida pelos docentes do ensino particular e cooperativo é, para todos os efeitos legais, equiparada à dos docentes do ensino oficial, mas a sua integração nos quadros das escolas oficiais dos ensinos preparatório e secundário far-se-á apenas através da primeira parte do concurso referido no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.\n\n6 - A profissionalização em serviço nas escolas particulares e cooperativas não poderá realizar-se cumulativamente com o desempenho de funções directivas.\n\n7 - Os professores que se profissionalizem nas escolas particulares e cooperativas obrigam-se a cumprir com as escolas a que estão vinculados um contrato de prestação de serviço como docentes no grupo, subgrupo, disciplina ou especialidade em que se profissionalizem por um período de quatro anos escolares após concluída a profissionalização.\n\n8 - O não cumprimento do disposto no número anterior, excepto no caso de acordo entre as partes, determina a impossibilidade de os professores exercerem funções docentes em qualquer escola particular e cooperativa ou oficial durante o período de tempo em que deveria vigorar o contrato de prestação de serviço nos termos do número anterior.\n\n9 - Sempre que se verifique o não cumprimento do contrato, mesmo no caso da sua rescisão por mútuo acordo, a escola comunicará o facto, por escrito e no prazo de 15 dias, à Direcção-Geral da Administração Educativa.\n\n10 - Em tudo o mais aplica-se à profissionalização em serviço no ensino particular e cooperativo o disposto neste diploma relativamente à profissionalização em serviço no ensino oficial.\n\n> Alterado pelo/a [Decreto-Lei n.º 127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), publicado em 2000-07-06."
+  },
+  "fb8745c838762a8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Profissionalização em serviço dos professores com seis anos de serviço",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), publicado em 1989-10-11."
+   ],
+   "markdown": "###### Artigo 43.º — Profissionalização em serviço dos professores com seis anos de serviço\n\n1 - Os professores dos quadros com nomeação provisória dos ensinos preparatório e secundário estão dispensados da realização da componente projecto de formação e acção pedagógica quando, até 30 de Setembro do ano em que realizaram o primeiro ano de profissionalização em serviço, possuam seis anos de bom e efectivo serviço docente, prestado no ensino oficial ou no ensino particular e cooperativo.\n\n2 - Os professores referidos no número anterior serão considerados em prioridade nas acções de formação contínua.\n\n3 - A classificação profissional dos professores dispensados da realização da componente projecto de formação e acção pedagógica resultará da seguinte adaptação da fórmula referida no n.º 2 do artigo 14.º:\n\nCP = (CA + CCE)/2\n\n> Alterado pelo/a [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), publicado em 1989-10-11."
+  },
+  "acd8378e73ecb0ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — A aplicação aos estabelecimentos de ensino dependentes dos Ministérios do Emprego e da Segurança Social e da Defesa Nacional",
+   "in_force_from": "2000-07-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), publicado em 1989-10-11."
+   ],
+   "markdown": "###### Artigo 50.º — A aplicação aos estabelecimentos de ensino dependentes dos Ministérios do Emprego e da Segurança Social e da Defesa Nacional\n\n1 - O presente diploma é aplicável aos professores dos estabelecimentos oficiais dos ensinos preparatório e secundário dependentes dos Ministérios do Emprego e da Segurança Social e da Defesa Nacional que reúnam os requisitos, habilitações e tempo de serviço previstos no [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.\n\n2 - Para efeitos do disposto no número anterior, para além dos docentes anualmente chamados e afectados para a profissionalização em serviço nos termos do artigo 2.º e do n.º 4 do artigo 19.º do presente diploma, serão ainda anualmente chamados 25 docentes dos estabelecimentos oficiais dos ensinos preparatório e secundário dependentes dos Ministérios do Emprego e da Segurança Social e da Defesa Nacional, que serão os que possuírem melhor ordenação na docência, calculada nos termos do artigo 8.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro.\n\n3 - Dos 25 docentes anualmente chamados por força do disposto no número anterior, 20 serão docentes dos estabelecimentos oficiais dependentes do Ministério do Emprego e da Segurança Social e 5 dos estabelecimentos oficiais dependentes do Ministério da Defesa Nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), publicado em 1989-10-11."
+  }
+ }
+}

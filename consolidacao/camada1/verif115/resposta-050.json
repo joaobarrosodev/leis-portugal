@@ -1,0 +1,120 @@
+[
+ {
+  "id": "pt:dre:371035:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 6.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 com nova alínea b) e renumeração; n.os 3 e 4 passam ao art. 6.º-A (aditado pelo art. 2.º), n.º 1 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 6.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 119/2003; n.º 1 novo, n.os 2 e 3 = anteriores n.os 3 e 4 do art. 6.º com o texto original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 9.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003 n.º 1 novo; DL 176/2004 revoga a alínea d) do n.º 4; restantes números mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 14.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 novo, n.º 1 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 17.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 4 novo, 1 a 3 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 18.º",
+    "veredicto": "certo",
+    "motivo": "DL 20/2004: n.º 1 novo, n.º 2 mantido.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 20.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 novo, restantes mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 novo, restantes mantidos (n.º 5 com 'a responsabilidade' do original).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 25.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003 (n.º 2 e alínea c) do n.º 6) e DL 176/2004 (n.º 2 novo, novos n.os 6 e 7, anterior n.º 6 passa a n.º 8); alíneas a) e b) do original mantidas.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 26.º",
+    "veredicto": "dúvida",
+    "motivo": "O consolidado tem a lista de 17 alíneas que coincide com a da republicação oficial (anexo do DL 176/2004), com o texto original em cada '[Anterior alínea ...]' e sem n.º 1; mas as remissões 'Anterior alínea c), d), e)...' do DL 119/2003 só batem com uma versão intermédia do art. 26.º (sem a Agência de Inovação, APAD, ANEFA, etc.) e não com o original da vista, onde a aplicação literal daria outra lista (APAD em b), ANEFA em g), sem INPI e LNEC). Depende de outro diploma ou de alteração anterior. Detalhe: alínea m) mantém 'Ministra da Justiça' (original) onde a republicação oficial diz 'Ministro da Justiça'.",
+    "texto_esperado": "Lista de alíneas como no consolidado, confirmada pela republicação oficial; não confirmável pela aplicação literal das remissões ao original."
+   },
+   {
+    "artigo": "Artigo 27.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.os 1 e 2 novos, igual ao consolidado.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 29.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 novo ('sem direito a voto'); n.º 3 mantido com 'sem direito de voto' do original.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 30.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 novo; 1, 3 e 4 mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 31.º",
+    "veredicto": "certo",
+    "motivo": "DL 119/2003: n.º 2 novo; restantes mantidos.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 32.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pelo art. 2.º do DL 176/2004; texto igual.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ },
+ {
+  "id": "pt:dre:375192:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 12.º-A",
+    "veredicto": "certo",
+    "motivo": "Aditado pela Lei 114/2017 art. 305.º; texto e epígrafe 'Motoristas' iguais.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [
+   "DL 72-A/2010, art. 42.º: onde se lê «requisição e destacamento, referidos a trabalhadores que exercem funções públicas» deve ler-se «cedência de interesse público» no n.º 4 do art. 6.º e nos arts. 10.º e 11.º do original. É uma substituição de expressão textual, não cabe nas exceções do prompt; os artigos 6.º, 10.º e 11.º vêm como IGUAIS ao original e não consigo ver o texto para confirmar onde se aplica: alvo incerto (a expressão citada pode não existir letra a letra)."
+  ],
+  "instrucoes_justificadas": [],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

@@ -10,13 +10,16 @@
   ],
   "removidos": [],
   "titulos": [],
-  "nao_aplicavel": "Art. 42.º do DL 72-A/2010 (alterador 1): regra interpretativa ('onde se lê «requisição e destacamento, referidos a trabalhadores que exercem funções públicas», deve ler-se «cedência de interesse público»') para o n.º 4 do art. 6.º e arts. 10.º e 11.º; a expressão citada não existe letra a letra nesses artigos (o 6.º, n.º 4, fala só em 'requisição', o 10.º em 'destacamento de funcionários', o 11.º em 'destacamento ou à requisição'), e a substituição exigiria adaptações gramaticais e de sentido ('com as devidas adaptações'), pelo que não é uma alteração textual: os artigos ficam como estão.",
+  "anexos": [],
+  "nao_aplicavel": "Alterador 1, art. 42.º do DL 72-A/2010 (onde se lê «requisição e destacamento, referidos a trabalhadores que exercem funções públicas» deve ler-se «cedência de interesse público» no n.º 4 do art. 6.º e nos arts. 10.º e 11.º): não textual: é uma regra de leitura por remissão, e a expressão citada não existe letra a letra nesses artigos (art. 6.º, n.º 4: «comissão de serviço ou de requisição»; art. 10.º: «destacamento de funcionários»; art. 11.º: «destacamento ou à requisição de funcionários e agentes», epígrafe «Requisição e destacamento»), que abrangem também pessoas que não são trabalhadores em funções públicas (Forças Armadas, magistrados, empresas privadas); reescrevê-los seria inventar a redação.",
   "instrucoes": [
-    "DL 72-A/2010, art. 42.º: substituição interpretativa de 'requisição e destacamento' por 'cedência de interesse público' nos arts. 6.º n.º 4, 10.º e 11.º — não aplicada ao texto (ver nao_aplicavel); reparo do verificador confirmado como instrução existente, mas não textual.",
-    "Lei 114/2017, art. 305.º: aditado o art. 12.º-A (Motoristas) — aplicado.",
-    "Referência à revogação parcial pelo DL 11/2012 não é instrução de nenhum alterador do pedido: ignorada."
+    "Alterador 1 (DL 72-A/2010, art. 42.º): substituição por remissão de «requisição e destacamento» por «cedência de interesse público» nos arts. 6.º, n.º 4, 10.º e 11.º; a expressão literal não existe no texto: não aplicada, vai para nao_aplicavel.",
+    "Alterador 2 (Lei 114/2017, art. 305.º): aditado o art. 12.º-A «Motoristas», copiado letra a letra."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
-  "problemas": []
+  "ronda_camada1": 115,
+  "problemas": [],
+  "numeracao_aceite": [],
+  "avisos": []
 }

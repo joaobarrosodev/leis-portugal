@@ -1,0 +1,228 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:424689:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-07-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fc0167ffeb31e654",
+    "9c6cdb01009989ef",
+    "b6a68f3629d8f00a",
+    "1af1a6ff76581e29",
+    "b1b185f88b5d8b1f",
+    "c74f75365daa3ca7",
+    "0acbefd9098c75bc",
+    "023d142281d0494c",
+    "2277755f740fdd2d",
+    "a512691d79e40498",
+    "cf9e5f53148b8a0b",
+    "97d21f53453254d6",
+    "fae56391dff5c910",
+    "e9ece9a66032e941",
+    "f74ab76a22c31030",
+    "0a048a16829fd288"
+   ]
+  },
+  {
+   "date": "1999-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:353346:por",
+     "title": "Lei n.º 98/99",
+     "published": "1999-07-26",
+     "dre_path": "/dr/detalhe/lei/98-1999-353346"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "fc0167ffeb31e654",
+    "9c6cdb01009989ef",
+    "b6a68f3629d8f00a",
+    "1af1a6ff76581e29",
+    "b1b185f88b5d8b1f",
+    "c74f75365daa3ca7",
+    "0acbefd9098c75bc",
+    "023d142281d0494c",
+    "2277755f740fdd2d",
+    "a512691d79e40498",
+    "cf9e5f53148b8a0b",
+    "97d21f53453254d6",
+    "c7b7713c3578ffd4",
+    "4355df0451dd2838",
+    "f9a7744f541ffca4",
+    "0a048a16829fd288"
+   ]
+  }
+ ],
+ "fragments": {
+  "fc0167ffeb31e654": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Julho\n\nApós mais de 10 anos de implementação do plano rodoviário nacional com a configuração constante do [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro (PRN 85), torna-se oportuno proceder à sua revisão, tendo em consideração a experiência obtida com a sua implementação e os desenvolvimentos sócio-económicos verificados após a adesão de Portugal à União Europeia.\n\nNo presente diploma foram introduzidas significativas inovações, potenciando o correcto e articulado funcionamento do sistema de transportes rodoviários, o desenvolvimento de potencialidades regionais, a redução do custo global daqueles transportes, o aumento da segurança da circulação, a satisfação do tráfego internacional e a adequação da gestão da rede, sem prejuízo de terem sido respeitados os grandes objectivos do PRN 85.\n\nA rede rodoviária nacional do PRN 85, com 9900 km, é alargada para 11350 km através da inclusão e reclassificação de novos percursos. Além da rede rodoviária nacional foi criada uma nova categoria, a das estradas regionais, na qual foram incluídos 5000 km de elementos já classificados neste diploma.\n\nNo total, as estradas previstas no PRN 2000 somam cerca de 16500 km, ou seja, um aumento da ordem de 65% relativamente àqueles que estavam abrangidos pelo PRN 85. Nestes termos, o PRN 2000 corresponde a uma importante melhoria da desejável cobertura rodoviária do País, quer a nível nacional, quer a nível regional.\n\nInclui-se no plano rodoviário nacional uma rede nacional de auto-estradas com cerca de 3000 km de extensão, correspondente a mais de metade da extensão da rede de itinerários principais e itinerários complementares. Como as auto-estradas concessionadas não podem assegurar as deslocações de carácter local geradas ao longo dos respectivos corredores, devido ao espaçamento dos seus nós e ao tipo de gestão do tráfego, foram classificados alguns elementos viários como estradas nacionais para constituição de alternativas a auto-estradas com portagem.\n\nA rede nacional fundamental, como rede estratégica que assegura a ligação entre os principais centros urbanos, é agora objecto de ajustamentos pontuais.\n\nConsiderando a necessidade de acelerar o desenvolvimento económico nalgumas zonas, reclassificam-se como itinerários complementares alguns percursos, alargando o nível de cobertura do território. Foram introduzidos 10 novos itinerários complementares, num total de 34. Há ainda a registar alterações em 10 dos itinerários complementares constantes do anterior PRN. No conjunto destas mudanças, verifica-se um aumento da extensão de itinerários complementares da ordem de 33%.\n\nVerificando-se no PRN 85 a insuficiência da rede de outras estradas, entendeu-se ser necessário aumentar a sua densidade nas zonas fronteiriças, promover o fecho de malhas viárias, assim como melhorar a acessibilidade de alguns concelhos, o que contribuirá para a correcção das assimetrias que ainda se verificam no desenvolvimento sócio-económico do País. O método adoptado foi o de reclassificar algumas das estradas não incluídas no anterior plano rodoviário nacional como estradas nacionais e instituir uma nova categoria viária, a das estradas regionais.\n\nNos critérios considerados na criação das estradas regionais incluíram-se, designadamente, a estruturação da raia, a ligação de agrupamentos de municípios e núcleos territoriais e o fecho de malhas viárias.\n\nDe não menor importância, é a preocupação assumida pelo PRN 2000 em matéria de melhoria qualitativa da rede rodoviária, com especial relevo para a defesa ambiental em meio urbano, para os dispositivos de combate à sinistralidade nos mais diversos planos e para os instrumentos de informação necessários à boa gestão e utilização das infra-estruturas em causa. Assim, em articulação com os instrumentos de ordenamento do território são previstas variantes e circulares nos principais centros urbanos para acesso aos corredores nacionais de grande capacidade, melhorando as condições de circulação, comodidade e segurança do tráfego gerado nesses locais.\n\nComo disposições especiais no sentido de promover a segurança rodoviária aos vários níveis da sua aplicação são criadas auditorias de segurança rodoviária, cujos resultados e recomendações também serão traduzidos na elaboração anual do plano de segurança rodoviária.\n\nPara melhorar a eficiência do sistema de circulação e transportes está prevista a instalação de sistemas inteligentes de informação e gestão de tráfego nos principais corredores de grande capacidade e nas áreas metropolitanas.\n\nOs níveis de serviço previstos no diploma, tais como são definidos, são os internacionalmente exigidos, cumprindo, nomeadamente, a metodologia do Highway Capacity Manual, Special Report no. 209, do Transportation Research Board, da National Academy of Sciences, dos Estados Unidos da América.\n\nNas relações anexas discriminam-se os itinerários das redes nacionais fundamental, complementar e de auto-estradas, assim como as estradas nacionais e as estradas regionais.\n\nForam ouvidos a Associação Nacional de Municípios, as comissões de coordenação regionais, os conselhos de região e o Conselho Superior de Obras Públicas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "9c6cdb01009989ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Plano rodoviário nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Plano rodoviário nacional\n\n1 - O plano rodoviário nacional define a rede rodoviária nacional do continente, que desempenha funções de interesse nacional ou internacional.\n\n2 - A rede rodoviária nacional é constituída pela rede nacional fundamental e pela rede nacional complementar."
+  },
+  "b6a68f3629d8f00a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Rede nacional fundamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Rede nacional fundamental\n\n1 - A rede nacional fundamental integra os itinerários principais (IP) constantes da lista I anexa ao presente diploma e do qual faz parte integrante.\n\n2 - Os itinerários principais são as vias de comunicação de maior interesse nacional, servem de base de apoio a toda a rede rodoviária nacional e asseguram a ligação entre os centros urbanos com influência supradistrital e destes com os principais portos, aeroportos e fronteiras."
+  },
+  "1af1a6ff76581e29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Restrições à circulação nos itinerários principais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Restrições à circulação nos itinerários principais\n\n1 - Nos itinerários principais é proibida a circulação de peões, velocípedes e veículos de tracção animal.\n\n2 - Nas zonas onde não existam percursos alternativos para o tráfego de peões, velocípedes e veículos de tracção animal, deverão ser construídas vias próprias para esses tipos de tráfego, paralelas aos itinerários principais.\n\n3 - Enquanto a rede nacional fundamental integrar traçados já existentes, deve a Junta Autónoma de Estradas definir os lanços em que seja de observar a interdição referida no n.º 1."
+  },
+  "b1b185f88b5d8b1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Rede nacional complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Rede nacional complementar\n\n1 - A rede nacional complementar é formada pelos itinerários complementares (IC) e pelas estradas nacionais (EN), constantes, respectivamente, das listas II e III, também anexas a este diploma e do qual fazem parte integrante.\n\n2 - A rede nacional complementar assegura a ligação entre a rede nacional fundamental e os centros urbanos de influência concelhia ou supraconcelhia, mas infradistrital.\n\n3 - Os itinerários complementares são as vias que, no contexto do plano rodoviário nacional, estabelecem as ligações de maior interesse regional, bem como as principais vias envolventes e de acesso nas áreas metropolitanas de Lisboa e Porto."
+  },
+  "c74f75365daa3ca7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Rede nacional de auto-estradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Rede nacional de auto-estradas\n\n1 - A rede nacional de auto-estradas é formada pelos elementos da rede rodoviária nacional especificamente projectados e construídos para o tráfego motorizado, que não servem as propriedades limítrofes e que:\n\na) Excepto em pontos especiais ou que temporariamente disponham de faixas de rodagem distintas para os dois sentidos de tráfego, as quais serão separadas uma da outra por uma zona central não destinada ao tráfego ou, excepcionalmente, por outros dispositivos;\n\nb) Não tenham cruzamentos de nível com qualquer outra estrada, via férrea ou via de eléctricos ou caminho de pé posto; e\n\nc) Estejam especialmente sinalizados como auto-estrada.\n\n2 - Os lanços da rede nacional de auto-estradas são os que constam da lista IV anexa a este diploma, do qual faz parte integrante.\n\n3 - Todos os lanços das estradas da rede rodoviária nacional poderão, mediante despacho do ministro da tutela do sector rodoviário, ser dotados de características de auto-estrada, a fim de garantirem as condições de serviço estabelecidas nos n.os 2 e 3 do artigo 6.º, quando os regimes de procura previstos assim o exigirem."
+  },
+  "0acbefd9098c75bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Nível de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Nível de serviço\n\n1 - Os níveis de serviço indicados nos números seguintes destinam-se à determinação das características geométricas e regimes de funcionamento das estradas da rede rodoviária nacional.\n\n2 - Os itinerários principais devem assegurar correntes de tráfego estáveis e permitir uma razoável liberdade de circulação aos condutores - nível de serviço B.\n\n3 - As estradas que integram a rede nacional complementar devem assegurar condições de circulação relativamente estáveis, embora com restrições quanto à velocidade e a ultrapassagens - nível de serviço C.\n\n4 - Os níveis de serviço estabelecidos nos números anteriores devem ser mantidos em todas as componentes de cada ligação, inclusivamente nas zonas de entrecruzamento, nos ramos de nós de ligação e nas intersecções de nível.\n\n5 - O disposto nos números anteriores não impede que determinados lanços sujeitos a tráfego «sazonal» de migrações pendulares ou situados em zonas particularmente difíceis, por motivos de ordem topográfica ou urbanística, possam ser projectados de modo que ao volume horário respectivo corresponda um nível de serviço inferior ao referido nos n.os 2 e 3.\n\n6 - Mediante despacho do ministro da tutela do sector rodoviário, as estradas nacionais nele definidas poderão assumir provisoriamente a função e o estatuto de itinerários principais ou de itinerários complementares, enquanto estes não estiverem construídos."
+  },
+  "023d142281d0494c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Acessos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acessos\n\n1 - Os itinerários principais são vedados em toda a sua extensão.\n\n2 - É proibido o acesso aos itinerários principais a partir das propriedades marginais.\n\n3 - O acesso aos itinerários principais deverá fazer-se por nós de ligação devidamente espaçados e que não interfiram com o nível de serviço desejado.\n\n4 - Será expropriada uma faixa de cada lado da plataforma, a revestir por cortina de vegetação adequada, de modo a reforçar a protecção da estrada de interferências marginais e a melhorar as condições ambientais.\n\n5 - Não é permitida a criação de novos acessos privados aos itinerários complementares e às estradas nacionais definidas por despacho nos termos do n.º 6 do artigo anterior."
+  },
+  "2277755f740fdd2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Circulares e variantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Circulares e variantes\n\n1 - Nas cidades médias cuja importância o justifique, devem ser previstas circulares e vias de penetração no tecido urbano, as quais integrarão a rede rodoviária nacional em condições a acordar caso a caso entre a Junta Autónoma de Estradas e as autarquias.\n\n2 - Deve ser elaborado, a nível nacional, um programa de construção de variantes à travessia de sedes de concelho e outros centros urbanos, ponderando as características operacionais, o impacte ambiental e as condições de segurança.\n\n3 - Os traçados devem articular-se com os instrumentos de planeamento e de ordenamento do território, de âmbito regional e municipal."
+  },
+  "a512691d79e40498": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Enquadramento técnico-normativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Enquadramento técnico-normativo\n\n1 - Para além do previsto no presente diploma, às estradas da rede rodoviária nacional é aplicável o Estatuto das Estradas da Rede Nacional.\n\n2 - As características geométricas, dinâmicas e ambientais das estradas da rede rodoviária nacional, tais como a geometria dos traçados, o tipo e estrutura dos pavimentos, o número de vias de tráfego e de faixas de rodagem, a concepção e espaçamento dos cruzamentos, a largura das faixas non aedificandi ou non altius tollendi e a largura mínima de faixa a expropriar, constarão de normas fixadas em diploma regulamentar e das normas técnicas elaboradas pela Junta Autónoma de Estradas.\n\n3 - Os itinerários principais e complementares devem incluir equipamento rodoviário de apoio aos utentes, devidamente espaçado, designadamente áreas de repouso e áreas de serviço, cujos estudos de localização devem constar dos respectivos projectos e ser devidamente justificados."
+  },
+  "cf9e5f53148b8a0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Sinistralidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sinistralidade\n\n1 - A Junta Autónoma de Estradas deve promover a implementação da figura de auditoria de segurança rodoviária, entendida como um exame formal da estrada, ou do projecto rodoviário, utilizando sistematicamente os conhecimentos de segurança rodoviária aos vários níveis da sua aplicação, de modo a combater a sinistralidade.\n\n2 - Será elaborado anualmente o plano de segurança rodoviária fundamentado também nos resultados e recomendações das auditorias de segurança rodoviária, que contemplará a correcção de zonas de acumulação de acidentes de maior índice de gravidade, as quais deverão ser prontamente sinalizadas até à concretização das necessárias medidas correctivas."
+  },
+  "97d21f53453254d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Sistemas inteligentes de informação e gestão do tráfego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sistemas inteligentes de informação e gestão do tráfego\n\nAs entidades responsáveis pela exploração das infra-estruturas rodoviárias, pela gestão do tráfego e pela segurança rodoviária devem, conjuntamente, proceder à instalação de sistemas inteligentes de informação e gestão do tráfego, nos principais corredores de grande capacidade e nas áreas metropolitanas, a fim de promover a redução dos congestionamentos e da poluição, melhorando a eficiência do sistema de circulação e transportes."
+  },
+  "fae56391dff5c910": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Estradas regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estradas regionais\n\n1 - As comunicações públicas rodoviárias do continente com interesse supramunicipal e complementar à rede rodoviária nacional são asseguradas por estradas regionais (ER).\n\n2 - As estradas regionais asseguram uma ou várias das seguintes funções:\n\na) Desenvolvimento e serventia das zonas fronteiriças, costeiras e outras de interesse turístico;\n\nb) Ligação entre agrupamentos de concelhos constituindo unidades territoriais;\n\nc) Continuidade de estradas regionais nas mesmas condições de circulação e segurança.\n\n3 - As estradas regionais são as que constam da lista V anexa a este diploma, dele fazendo parte integrante.\n\n4 - Enquanto se mantiverem sob responsabilidade da administração central, as estradas regionais estão subordinadas ao enquadramento normativo das estradas da rede rodoviária nacional, incluindo o disposto no [Decreto-Lei n.º 105/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330), de 24 de Abril.\n\n5 - Os programas anuais e plurianuais de investimento nas estradas regionais são definidos pelas instituições representativas das regiões onde se inserem, podendo a respectiva despesa ser suportada por verbas inscritas no Orçamento do Estado, nos termos de acordos a estabelecer com aquelas instituições."
+  },
+  "e9ece9a66032e941": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Redes municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Redes municipais\n\n1 - As estradas não incluídas no plano rodoviário nacional integrarão as redes municipais, mediante protocolos a celebrar entre a Junta Autónoma de Estradas e as câmaras municipais e após intervenções de conservação que as reponham em bom estado de utilização ou, em alternativa, mediante acordo equitativo com a respectiva autarquia.\n\n2 - As estradas classificadas para integração nas redes municipais, até à recepção pelas respectivas autarquias, ficarão sob tutela da Junta Autónoma de Estradas, que, entretanto, lhes assegurará padrões mínimos de conservação."
+  },
+  "f74ab76a22c31030": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Regime das estradas regionais e municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime das estradas regionais e municipais\n\nPara além do previsto no presente diploma e no Estatuto das Estradas da Rede Nacional, as estradas regionais e municipais serão reguladas por diplomas próprios."
+  },
+  "0a048a16829fd288": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro.\n\nVisto e aprovado em Conselho de Ministros de 14 de Maio de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.\n\nPromulgado em 6 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nRede nacional\n\n[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/163a00/34443454.pdf)"
+  },
+  "c7b7713c3578ffd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Estradas regionais",
+   "in_force_from": "1999-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26."
+   ],
+   "markdown": "###### Artigo 12.º — Estradas regionais\n\n1 - As comunicações públicas rodoviárias do continente com interesse supramunicipal e complementar à rede rodoviária nacional são asseguradas por estradas regionais (ER).\n\n2 - As estradas regionais asseguram uma ou várias das seguintes funções:\n\na) Desenvolvimento e serventia das zonas fronteiriças, costeiras e outras de interesse turístico;\n\nb) Ligação entre agrupamentos de concelhos constituindo unidades territoriais;\n\nc) Continuidade de estradas regionais nas mesmas condições de circulação e segurança.\n\n3 - As estradas regionais são as que constam da lista V anexa a este diploma, dele fazendo parte integrante.\n\n4 - As estradas regionais estão subordinadas ao enquadramento normativo das estradas da rede rodoviária nacional, incluindo o disposto no [Decreto-Lei n.º 105/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1998-176330), de 24 de Abril.\n\n5 - Os programas anuais e plurianuais de investimento nas estradas regionais são definidos pelas instituições representativas das regiões onde se inserem, podendo a respectiva despesa ser suportada por verbas inscritas no Orçamento do Estado, nos termos de acordos a estabelecer com aquelas instituições.\n\n> Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26."
+  },
+  "4355df0451dd2838": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Redes municipais",
+   "in_force_from": "1999-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26."
+   ],
+   "markdown": "###### Artigo 13.º — Redes municipais\n\n1 - As estradas não incluídas no plano rodoviário nacional integrarão as redes municipais, mediante protocolos a celebrar entre a Junta Autónoma de Estradas e as câmaras municipais e após intervenções de conservação que as reponham em bom estado de utilização ou, em alternativa, mediante acordo equitativo com a respectiva autarquia.\n\n2 - Poderão ainda ser integradas nas redes municipais, nas mesmas condições das estradas referidas no número anterior e mediante despacho do ministro da tutela do sector rodoviário, as estradas regionais (ER).\n\n3 - As estradas classificadas para integração nas redes municipais, até à recepção pelas respectivas autarquias, ficarão sob tutela da Junta Autónoma de Estradas, que, entretanto, lhes assegurará padrões mínimos de conservação.\n\n> Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26."
+  },
+  "f9a7744f541ffca4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Regime das estradas municipais",
+   "in_force_from": "1999-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26."
+   ],
+   "markdown": "###### Artigo 14.º — Regime das estradas municipais\n\nPara além do previsto no presente diploma e no Estatuto das Estradas da Rede Nacional, as estradas municipais serão regulamentadas por diploma próprio.\n\n> Alterado pelo/a [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346), publicado em 1999-07-26."
+  }
+ }
+}

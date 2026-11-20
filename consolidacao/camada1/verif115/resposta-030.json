@@ -1,0 +1,159 @@
+[
+ {
+  "id": "pt:dre:642527:por",
+  "artigos": [
+   {
+    "artigo": "Artigo 24.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 revogado pelo art. 46.º, al. j) do DL 247-B/2008; resto igual.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 1.º #2",
+    "veredicto": "certo",
+    "motivo": "Al. i) aditada e restantes renumeradas (Lei 103/2009, art. 29.º); n.º 3 aditado (Lei 2/2016, art. 4.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 49.º",
+    "veredicto": "certo",
+    "motivo": "N.º 8 (DL 51/2018, art. 2.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 69.º",
+    "veredicto": "certo",
+    "motivo": "Al. h) aditada e renumeração (Lei 103/2009); n.º 3 com \"alínea f)\" (DL 247-B/2008, art. 31.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 70.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 revogado (DL 247-B/2008, art. 46.º, al. e).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 78.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 \"um dia\" (Lei 103/2009, art. 29.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 95.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 \"n.º 5 do artigo 92.º\" (DL 247-B/2008).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 112.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 aditado (DL 51/2018).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 118.º",
+    "veredicto": "certo",
+    "motivo": "N.º 3 aditado (DL 51/2018).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 126.º",
+    "veredicto": "certo",
+    "motivo": "Al. b) do n.º 1 (DL 51/2018).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 163.º",
+    "veredicto": "certo",
+    "motivo": "N.º 2 (DL 247-B/2008).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 207.º",
+    "veredicto": "certo",
+    "motivo": "N.º 4 aditado (Lei 90/2015).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 208.º",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 (Lei 90/2015).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-A",
+    "veredicto": "certo",
+    "motivo": "N.º 2 al. b), novo n.º 5 e renumeração do n.º 6 (DL 247-B/2008).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-C",
+    "veredicto": "certo",
+    "motivo": "N.os 1 e 2 novos, n.º 3 anterior n.º 2 (DL 247-B/2008).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-G",
+    "veredicto": "certo",
+    "motivo": "Epígrafe e n.os 1 a 5 (DL 247-B/2008, art. 31.º e art. 46.º al. e).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 210.º-H",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 3 (DL 247-B/2008).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 215.º",
+    "veredicto": "certo",
+    "motivo": "N.º 1 (DL 247-B/2008).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 270.º",
+    "veredicto": "certo",
+    "motivo": "Al. c) do n.º 1 revogada (DL 247-B/2008, art. 46.º, al. e).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º",
+    "veredicto": "certo",
+    "motivo": "Al. c) do n.º 1 e n.º 2 (Lei 61/2008, art. 5.º).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-A",
+    "veredicto": "certo",
+    "motivo": "N.os 1 a 8 (DL 247-B/2008).",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 272.º-C",
+    "veredicto": "certo",
+    "motivo": "Redação do DL 247-B/2008, art. 31.º.",
+    "texto_esperado": ""
+   },
+   {
+    "artigo": "Artigo 299.º",
+    "veredicto": "certo",
+    "motivo": "Revogado pelo art. 29.º, al. e) do DL 201/2015; epígrafe mantida.",
+    "texto_esperado": ""
+   }
+  ],
+  "instrucoes_em_falta": [],
+  "instrucoes_justificadas": [
+   {
+    "instrucao": "Lei 29/2009, art. 81.º: nova redação dos arts. 202.º-A, 202.º-B e 210.º do Código do Registo Civil",
+    "motivo": "Efeito adiado/revogado sem produzir efeitos: a nota no próprio texto indica revogação pelo art. 6.º da Lei 23/2013, em vigor a partir de 2013-09-02; o consolidado não aplicou redação revogada."
+   },
+   {
+    "instrucao": "Lei 23/2013, art. 1.º (objeto): diz que altera o Código do Registo Civil",
+    "motivo": "O diploma que altera não traz o texto da alteração no pedido (só o artigo do objeto)."
+   }
+  ],
+  "artigos_a_mais": [],
+  "artigos_em_falta": [],
+  "fora_dos_artigos": "sem alterações"
+ }
+]

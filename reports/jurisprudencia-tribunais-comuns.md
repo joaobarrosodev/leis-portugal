@@ -13,7 +13,7 @@ Para o «resultado previsível» da análise de caso faltam os acórdãos do Sup
   - os 190 assentos;
   - os 183 acórdãos doutrinários.
 
-  A camada nova (`rag/uniformizacao.py`) liga 254 desses acórdãos ao artigo. Os acórdãos comuns das Relações e do STJ não são publicados no DR.
+  Com os 134 de antes de 2008, em `outros/acordao` e `outros/jurisprudencia`, são 469. A camada nova (`rag/uniformizacao.py`) liga 332 deles ao artigo. Os acórdãos comuns das Relações e do STJ não são publicados no DR: verificado nos sitemaps e no detalhe do DRE a 20/11/2026 (ver «Diário da República»).
 - **stj.pt.** O `robots.txt` permite tudo (`Disallow:` vazio). O site publica sumários (não o texto integral) por secção e mês, a «Jurisprudência Temática» e a página de uniformização. Não se encontrou aviso legal.
 - **jurisprudencia.csm.org.pt (CSM, com ECLI).** Não se conseguiu abrir com o `curl` do projeto: a cadeia do certificado não verifica. Não se encontraram termos de uso.
 - **Recomendação:** pedir autorização por escrito ao IGFEJ (dono do dgsi.pt) e ao CSM antes de qualquer recolha, como se fez com o TC a 12/11/2026. Pedir também um descarregamento em bloco, se existir. A decisão de enviar o pedido é do João; o rascunho está no fim.
@@ -64,10 +64,28 @@ Para a análise de caso, os campos mais úteis são **Decisão** e **Meio Proces
 
 O número do piloto não foi contado: contá-lo exigia percorrer a vista. Fica como estimativa, não como medida.
 
-### Diário da República
+### Diário da República (verificado a 20/11/2026)
 
-- **1.ª Série:** acórdãos de uniformização do STJ e do STA, assentos e acórdãos doutrinários, já recolhidos pelo coletor do DRE, com o regime de reutilização do DR (artigo 3.º do Decreto-Lei n.º 83/2016 e Lei n.º 68/2021).
-- **Pesquisa do DRE:** os *screenservices* que o coletor usa têm um tipo de conteúdo «Jurisprudencia» (`TipoConteudosBools`, em `src/leis_portugal/sources/dre/client.py`). Não se verificou o que contém nem se traz acórdãos comuns. Se trouxer, ficaria sob o regime de reutilização do DR, e isso resolveria a questão da permissão. **É o primeiro passo técnico recomendado:** uma consulta a esse tipo, sem recolher.
+O DRE **não tem os acórdãos comuns do STJ nem os das Relações**. A jurisprudência que tem, toda sob o regime de reutilização do DR (artigo 3.º do Decreto-Lei n.º 83/2016 e Lei n.º 68/2021), é esta:
+
+| Tipo no DRE (sitemap) | O que é | Volume | No acervo |
+|---|---|--:|---|
+| `jurisprudencia` | acórdãos de uniformização do STJ publicados de 2001 a 2004 com o título «Jurisprudência n.º X/AAAA» | 20 | sim (`outros/jurisprudencia`) |
+| `acordao` (1.ª Série, até 2007) | acórdãos de uniformização do STJ e do STA anteriores à criação dos tipos próprios, junto com os do TC e do Tribunal de Contas | 106 do STJ e 8 do STA, de 1976 a 2007 | sim (`outros/acordao`) |
+| `acordao-supremo-tribunal-justica`, `-administrativo` | uniformização desde 2008 | 213 e 122 | sim |
+| `acordao-sta` | os acórdãos do STA publicados no Apêndice ao DR (2.ª Série), com assunto, sumário, processo, data e PDF | 53.108, de 1995 a 2016 | não |
+
+Como se verificou, sem recolher nada:
+
+- o índice de sitemaps (`files.diariodarepublica.pt/sitemap/sitemap.xml`, 593 sitemaps);
+- os sitemaps `jurisprudencia`, `acordao` e `acordao-sta` (o último em 3 ficheiros);
+- 5 detalhes pelo coletor do DRE (`published_detail`), com um pedido a cada 4 segundos.
+
+O tipo «Jurisprudencia» dos *screenservices* corresponde a estes 20 registos. Não há tipo para as Relações nem para os acórdãos comuns do STJ.
+
+**Consequência:** não se fez o piloto do STJ laboral desde 2020, porque o DRE não o tem e o dgsi.pt continua sem termos.
+
+Os 134 acórdãos de uniformização anteriores a 2008 (`outros/jurisprudencia` e `outros/acordao`) entraram na extração do STJ e do STA. Os 53.108 do STA no Apêndice são direito administrativo e fiscal até 2016. Podem recolher-se pelo coletor do DRE, sob o regime do DR, mas não respondem ao que falta, que são os tribunais comuns.
 
 ### stj.pt
 

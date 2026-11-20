@@ -23,18 +23,19 @@
   "removidos": [],
   "titulos": [],
   "anexos": [],
-  "nao_aplicavel": "As alterações ao quadro do pessoal (mapa anexo a que se refere o artigo 2.º) não se aplicam ao texto: o quadro só existe em imagem ('ver documento original') e não há corpo de anexo em texto. São elas: Portaria n.º 1039/80, n.º 1.º (novo quadro de pessoal de informática, quadro I, também só em imagem); Portaria n.º 223/82, n.º 1.º (criação de 1 lugar de assessor, letra C); Decreto Regulamentar n.º 63/82, artigo 1.º, n.os 1 e 2 (eliminação da carreira técnica de estatística do quadro e aditamento de 2 lugares de técnico superior de estatística de 1.ª classe e 9 de 2.ª classe); Portaria n.º 466/83, n.º 1.º (1 lugar de técnico superior principal, letra D); Portaria n.º 982/84, n.º 1.º (1 lugar de assessor, letra B). O texto do artigo 2.º (remissão para o mapa anexo) não é alterado por nenhuma delas, pelo que fica igual.",
+  "nao_aplicavel": "Alterador 1, n.º 1.º (quadro de pessoal de informática substituído pelo quadro I): só em imagem: o quadro do pessoal do original só existe em imagem, depois das assinaturas, sem título de anexo no texto atual onde pôr o quadro novo.\nAlterador 2, n.º 1.º (criação de 1 lugar de assessor, letra C, no quadro): só em imagem: alteração ao quadro do pessoal, que só existe em imagem e não tem título de anexo no texto atual.\nAlterador 3, art. 1.º, n.os 1 e 2 (eliminação da carreira técnica de estatística do quadro e aditamento de 2 lugares de técnico superior de estatística de 1.ª classe e 9 de 2.ª classe): só em imagem: alteração ao quadro do pessoal a que se refere o artigo 2.º, que só existe em imagem e não tem título de anexo no texto atual; o texto do artigo 2.º não muda.\nAlterador 4, n.º 1.º (acrescentado 1 lugar de técnico superior principal, letra D, ao quadro): só em imagem: alteração ao quadro do pessoal, que só existe em imagem e não tem título de anexo no texto atual.\nAlterador 5, n.º 1.º (criado 1 lugar de assessor, letra B, no quadro): só em imagem: alteração ao quadro do pessoal, que só existe em imagem e não tem título de anexo no texto atual.",
   "instrucoes": [
-    "Alterador 1 (Portaria 1039/80), n.º 1.º: substitui o quadro de pessoal de informática pelo quadro I anexo (só em imagem): não aplicável; restantes números são normas próprias.",
-    "Alterador 2 (Portaria 223/82): cria 1 lugar de assessor no quadro de pessoal (quadro só em imagem): não aplicável.",
-    "Alterador 3 (DR 63/82), art. 1.º: elimina a carreira técnica de estatística do quadro e adita lugares à carreira técnica superior (quadro do art. 2.º, só em imagem; o texto do art. 2.º não muda): não aplicável. Reparo confirmado como instrução existente, mas não aplicável ao texto.",
-    "Alterador 3, arts. 2.º e 3.º: normas próprias de provimento e efeitos; não alteram o texto.",
-    "Alterador 3, art. 4.º: revoga a alínea a) do n.º 6 do art. 3.º, o n.º 2 do art. 15.º e o art. 16.º: aplicado.",
-    "Alterador 4 (Portaria 466/83): acrescenta 1 lugar de técnico superior principal ao quadro (só em imagem): não aplicável.",
-    "Alterador 5 (Portaria 982/84): cria 1 lugar de assessor, letra B, no quadro (só em imagem): não aplicável."
+    "Alterador 1: substitui o quadro de pessoal de informática (imagem); não aplicado (nao_aplicavel); n.os 2.º a 6.º são regras próprias.",
+    "Alterador 2: cria 1 lugar de assessor no quadro; não aplicado (nao_aplicavel).",
+    "Alterador 3, art. 1.º: altera o quadro do pessoal (carreira técnica de estatística eliminada, lugares aditados); não aplicado por o quadro só existir em imagem sem título de anexo (nao_aplicavel). O reparo foi confirmado: a instrução existe, mas não há onde a aplicar com segurança.",
+    "Alterador 3, arts. 2.º e 3.º: provimento e efeitos, disposições próprias.",
+    "Alterador 3, art. 4.º: revoga a alínea a) do n.º 6 do artigo 3.º, o n.º 2 do artigo 15.º e o artigo 16.º; aplicado.",
+    "Alteradores 4 e 5: acrescentam lugares ao quadro; não aplicados (nao_aplicavel)."
   ],
   "modelo": "claude-opus-5-5",
   "pedido": "completo",
+  "ronda_camada1": 115,
   "problemas": [],
+  "numeracao_aceite": [],
   "avisos": []
 }

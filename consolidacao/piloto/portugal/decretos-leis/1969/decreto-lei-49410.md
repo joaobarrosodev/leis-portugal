@@ -262,9 +262,7 @@ Prémios por sugestões
 
 (Revogado.)
 
-Serviços sociais
-
-> Alterado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.
+> Revogado pelo/a [Decreto-Lei n.º 19/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1989-609331), publicado em 1989-01-19.
 
 ###### Artigo 19.º
 
