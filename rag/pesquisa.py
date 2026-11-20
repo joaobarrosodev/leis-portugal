@@ -78,6 +78,8 @@ class Resultado:
     origem: str = ""
     reranker: float | None = None
     redirecionado_de: str | None = None
+    # Com o reranker por passagens: a passagem do artigo que lhe deu a nota, quando não é o início dele.
+    passagem: str | None = None
     avisos: list[str] = field(default_factory=list)
     revogado_por: list[str] = field(default_factory=list)
 
@@ -406,8 +408,14 @@ class Pesquisa:
             extras = dos_codigos | semanticos
             topo = sorted((r for r in resultados if r.id not in extras), key=lambda r: (-r.nivel, -r.pontuacao))[: self.reranker.maximo]
             topo += [r for r in resultados if r.id in extras]
-            for r, s in zip(topo, self.reranker.pontuar(pergunta, [self._passagem(r) for r in topo]), strict=True):
-                r.reranker = s
+            if getattr(self.reranker, "passagens", False):
+                # Os artigos compridos valem pela melhor passagem, não só pelo início (`Reranker.pontuar_artigos`).
+                notas = self.reranker.pontuar_artigos(pergunta, [(self._cabecalho(r), r.texto) for r in topo])
+                for r, (s, passagem) in zip(topo, notas, strict=True):
+                    r.reranker, r.passagem = s, passagem
+            else:
+                for r, s in zip(topo, self.reranker.pontuar(pergunta, [self._passagem(r) for r in topo]), strict=True):
+                    r.reranker = s
             resultados = topo
             # Um artigo revogado fica atrás dos outros do mesmo nível: numa pergunta sobre a lei em
             # vigor nunca é a resposta (quando o diploma é citado, os dele vêm antes na mesma).
@@ -433,12 +441,16 @@ class Pesquisa:
             self._avisos(r, data)
         return Consulta(pergunta, data, refs, unicos, citados, em_falta)
 
-    def _passagem(self, r: Resultado) -> str:
-        """O que o reranker lê de um pedaço: o caminho e o texto (e as perguntas de leigo, na variante do piloto)."""
+    def _cabecalho(self, r: Resultado) -> str:
+        """O que o reranker lê antes do texto de um pedaço: o caminho (e as perguntas de leigo, na variante do piloto)."""
         perguntas = self.perguntas.get((r.documento, r.chave)) if r.ate is None else None
         if perguntas:
-            return f"{r.rotulo}\nPerguntas: {' '.join(perguntas.splitlines())}\n{r.texto}"
-        return f"{r.rotulo}\n{r.texto}"
+            return f"{r.rotulo}\nPerguntas: {' '.join(perguntas.splitlines())}"
+        return r.rotulo
+
+    def _passagem(self, r: Resultado) -> str:
+        """O que o reranker lê de um pedaço: o cabeçalho e o texto."""
+        return f"{self._cabecalho(r)}\n{r.texto}"
 
     # ------------------------------------------------------------------ texto em vigor e avisos
 
