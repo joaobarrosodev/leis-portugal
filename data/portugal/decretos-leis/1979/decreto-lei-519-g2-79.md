@@ -85,7 +85,8 @@ provenance:
   generated_at: '2026-10-22T23:25:11Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 467/80. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-519-g2-79.alteracoes.json.
-    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Retificações
+    aplicadas com um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -480,6 +481,8 @@ b) Tiverem votado contra essa resolução e o fizeram consignar na acta respecti
 ###### Artigo 23.º — (Aceitação de heranças, legados e doações)
 
 1 - As instituições só podem aceitar heranças a benefício de inventário e desde que os encargos não excedam a terça parte das forças da herança ou dos respectivos rendimentos, se estes forem afectados a prestações futuras e repetidas.
+
+2 - A aceitação de legados e doações rege-se, na parte aplicável, pelo estabelecido no número anterior.
 
 ###### Artigo 24.º — (Espólios)
 

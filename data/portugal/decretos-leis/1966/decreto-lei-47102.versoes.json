@@ -19,7 +19,7 @@
    ]
   },
   {
-   "date": "1967-06-14",
+   "date": "1971-11-19",
    "future": false,
    "acts": [
     {
@@ -27,10 +27,17 @@
      "title": "Decreto-Lei n.º 47755",
      "published": "1967-06-14",
      "dre_path": "/dr/detalhe/decreto-lei/47755-1967-312043"
+    },
+    {
+     "id": "pt:dre:631654:por",
+     "title": "Decreto-Lei n.º 504/71",
+     "published": "1971-11-19",
+     "dre_path": "/dr/detalhe/decreto-lei/504-1971-631654"
     }
    ],
    "changes": [
-    "Altera Artigo 23.º"
+    "Altera Artigo 23.º",
+    "Altera Artigo 28"
    ],
    "fragments": [
     "37cb26bff4327568",
@@ -65,7 +72,7 @@
     "9616f5fe866fc145",
     "f6aeccffe6f867eb",
     "5616423e85cbf63f",
-    "8f25a552d099ddb5"
+    "1d03a2d6133a84b3"
    ]
   }
  ],
@@ -322,7 +329,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 23.º",
-   "in_force_from": "1967-06-14",
+   "in_force_from": "1971-11-19",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 47755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47755-1967-312043), publicado em 1967-06-14."
    ],
@@ -360,13 +367,15 @@
    "changed_by": [],
    "markdown": "###### Artigo 27.º\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1967, sem prejuízo de, entretanto, se poderem realizar, através do Instituto de Medicina Tropical ou do Instituto Superior de Higiene do Dr. Ricardo Jorge, as diligências necessárias ao provimento dos quadros, nomeadamente as que se referem na regra 3.ª do artigo 23.º, e de se publicar o regulamento da Escola, nos termos do artigo 25.º"
   },
-  "8f25a552d099ddb5": {
+  "1d03a2d6133a84b3": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 28.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 28.º\n\nAs dúvidas que surgirem na interpretação e aplicação do presente diploma serão reguladas por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 16 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.\n\nMapa do pessoal da Escola Nacional de Saúde Pública e de Medicina Tropical\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/16400/12681273.pdf)\n\nMinistérios do Ultramar e da Saúde e Assistência, 16 de Julho de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho."
+   "in_force_from": "1971-11-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 504/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1971-631654), publicado em 1971-11-19."
+   ],
+   "markdown": "###### Artigo 28.º\n\nAs dúvidas que surgirem na interpretação e aplicação do presente diploma serão reguladas por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 16 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.\n\nMapa do pessoal da Escola Nacional de Saúde Pública e de Medicina Tropical\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/16400/12681273.pdf)\n\nVencimentos do pessoal docente da Escola, constante do mapa anexo, estabelecidos na tabela anexa ao Decreto-Lei n.º 504/71:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/11/27200/17761776.pdf)\n\nMinistérios do Ultramar e da Saúde e Assistência, 16 de Julho de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.\n\n> Alterado pelo/a [Decreto-Lei n.º 504/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1971-631654), publicado em 1971-11-19."
   }
  }
 }

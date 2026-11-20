@@ -133,6 +133,12 @@
      "title": "Declaração",
      "published": "1980-04-22",
      "dre_path": "/dr/detalhe/declaracao/1980-681420"
+    },
+    {
+     "id": "pt:dre:620774:por",
+     "title": "Portaria n.º 744-A/93",
+     "published": "1993-08-18",
+     "dre_path": "/dr/detalhe/portaria/744-a-1993-620774"
     }
    ],
    "changes": [
@@ -225,7 +231,8 @@
     "Revoga Artigo 104.º",
     "Retifica Artigo 51",
     "Retifica Artigo 65",
-    "Retifica Artigo 77"
+    "Retifica Artigo 77",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "be3af26b142fc1f9",
@@ -332,7 +339,7 @@
     "97afd48251fbcd8a",
     "6a416740b6dc1e97",
     "a0f87123731f615e",
-    "cac095a3040dece1"
+    "29dd9ed95a32bece"
    ]
   }
  ],
@@ -2175,15 +2182,16 @@
    ],
    "markdown": "###### Artigo 103.º — (Resolução de dúvidas)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18."
   },
-  "cac095a3040dece1": {
+  "29dd9ed95a32bece": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 104.º — (Entrada em vigor)",
    "in_force_from": "2004-12-23",
    "changed_by": [
-    "Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18."
+    "Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.",
+    "Alterado pelo/a [Portaria n.º 744-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-a-1993-620774), publicado em 1993-08-18."
    ],
-   "markdown": "###### Artigo 104.º — (Entrada em vigor)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 26 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa anexo a que se refere o artigo 4.º, n.º 2\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29902/00260047.pdf)\n\nAntónio Luciano Pacheco de Sousa Franco."
+   "markdown": "###### Artigo 104.º — (Entrada em vigor)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 237/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2004-218365), publicado em 2004-12-18.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 26 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa anexo a que se refere o artigo 4.º, n.º 2\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29902/00260047.pdf)\n\nRevisão do quadro do pessoal técnico exactor das tesourarias da Fazenda Pública, em conformidade com os mapas I e II (Portaria n.º 744-A/93):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/08/193b01/00020005.pdf)\n\n> Alterado pelo/a [Portaria n.º 744-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-a-1993-620774), publicado em 1993-08-18.\n\nAntónio Luciano Pacheco de Sousa Franco."
   }
  }
 }

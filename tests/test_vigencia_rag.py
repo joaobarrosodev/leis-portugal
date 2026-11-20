@@ -49,3 +49,9 @@ def test_sem_aviso_repetido_quando_o_dre_ja_o_da_como_revogado():
     r = _resultado()
     _pesquisa("repealed")._avisos(r, "2026-11-19")
     assert r.avisos == ["Diploma sem vigência (revogado ou caducado, segundo o DRE)."]
+
+
+def test_aviso_por_confirmar():
+    from rag import vigencia
+    assert vigencia.aviso({"marca": "por_confirmar", "motivo": "o texto regula só o ano de 1993, que já passou."}) == \
+        "Vigência por confirmar: o texto regula só o ano de 1993, que já passou."

@@ -56,9 +56,16 @@ DESCARTADAS = {
 }
 
 
-def candidatos() -> list[dict]:
+CLASSES_INCERTOS = CLASSES + ("cursos_pre_bolonha",)
+
+
+def candidatos(incertos: bool = False) -> list[dict]:
+    """Os de certeza alta das três classes; com `incertos`, os de certeza incerta das quatro (a
+    classe é um palpite das regras: o leitor também diz se a confirma)."""
     marcados = {json.loads(l)["id"] for l in (AUDITORIA / "vigencia-revista.jsonl").read_text(encoding="utf-8").splitlines() if l.strip()}
     vig = [json.loads(l) for l in (AUDITORIA / "vigencia.jsonl").read_text(encoding="utf-8").splitlines()]
+    if incertos:
+        return [v for v in vig if v["certeza"] == "incerta" and v["classe"] in CLASSES_INCERTOS and v["id"] not in marcados]
     return [v for v in vig if v["certeza"] == "alta" and v["classe"] in CLASSES and v["id"] not in marcados]
 
 
@@ -129,7 +136,7 @@ def mencoes(v: dict, linhas_numeros: dict[str, list[tuple[str, str]]], ficheiros
     return resultado[:MAX_MENCOES]
 
 
-def entrada(numeros: Path, processos: Path) -> None:
+def entrada(numeros: Path, processos: Path, incertos: bool = False) -> None:
     linhas_numeros = por_numero(_linhas_rg(numeros))
     por_processo: dict[str, set[str]] = defaultdict(set)
     for f, linhas in _linhas_rg(processos).items():
@@ -138,7 +145,7 @@ def entrada(numeros: Path, processos: Path) -> None:
             if m:
                 por_processo[m.group(1).rstrip(".")].add(f)
     itens = []
-    for v in candidatos():
+    for v in candidatos(incertos):
         texto = (RAIZ / v["caminho"]).read_text(encoding="utf-8")
         meta = front_matter(texto)
         corpo_ = sem_ligacoes(corpo(texto)).strip()
@@ -156,10 +163,11 @@ def entrada(numeros: Path, processos: Path) -> None:
             "mencoes_no_acervo": mencoes(v, linhas_numeros, ficheiros_processo),
         })
     LLM.mkdir(parents=True, exist_ok=True)
-    for f in LLM.glob("entrada-*.jsonl"):
+    prefixo = "incertos-entrada" if incertos else "entrada"
+    for f in LLM.glob(f"{prefixo}-*.jsonl"):
         f.unlink()
     for n in range(0, len(itens), POR_LOTE):
-        (LLM / f"entrada-{n // POR_LOTE + 1:02d}.jsonl").write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens[n : n + POR_LOTE]), encoding="utf-8")
+        (LLM / f"{prefixo}-{n // POR_LOTE + 1:02d}.jsonl").write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in itens[n : n + POR_LOTE]), encoding="utf-8")
     print(f"{len(itens)} diplomas em {-(-len(itens) // POR_LOTE)} lotes; com menções: {sum(1 for x in itens if x['mencoes_no_acervo'])}")
 
 
@@ -228,16 +236,144 @@ def juntar() -> None:
     print(dict(contas), "| marcas:", len(marcas))
 
 
+HOJE = "2026-11-19"
+FECHO = AUDITORIA / "vigencia-fecho.jsonl"
+_ANO = re.compile(
+    r"\b(?:para|durante|n[oa]|relativ[oa]s? ao|referentes? ao)\s+(?:o\s+|a\s+)?"
+    r"((?:ano(?: lectivo| letivo| económico| escolar| civil| agrícola)?|exercício|campanha|época venatória|calendário venatório)(?: de)?)\s+"
+    r"((?:1[89]|20)\d\d)(?:\s*[-/]\s*((?:1[89]|20)?\d\d))?\b"
+    r"|\bOrçamento(?: Geral)? do Estado para ((?:1[89]|20)\d\d)\b",
+    re.I,
+)
+_A_PARTIR = re.compile(r"a partir d|e seguintes|anos seguintes|prorrog", re.I)
+
+
+def _ano(*textos: str) -> tuple[str, int] | None:
+    """O período de um regime de um só ano, se os textos o dizem sem ambiguidade («para o ano de
+    1992» → («o ano de 1992», 1992); «no ano lectivo de 2006-2007» → («o ano lectivo de
+    2006-2007», 2007)). Com dois períodos diferentes, ou «a partir de», nenhum."""
+    achados = {}
+    for t in textos:
+        if not t or _A_PARTIR.search(t):
+            if t and _A_PARTIR.search(t):
+                return None
+            continue
+        for m in _ANO.finditer(t):
+            if m.group(4):
+                achados[f"o ano de {m.group(4)}"] = int(m.group(4))
+                continue
+            tipo, a, b = m.group(1).lower(), m.group(2), m.group(3)
+            tipo = re.sub(r"\s+de$", "", tipo)
+            if b:
+                b = b if len(b) == 4 else a[:2] + b
+                achados[f"{'a' if tipo.startswith(('campanha', 'época')) else 'o'} {tipo} de {a}-{b}"] = int(b)
+            else:
+                achados[f"{'a' if tipo.startswith(('campanha', 'época')) else 'o'} {tipo} de {a}"] = int(a)
+    return next(iter(achados.items())) if len(achados) == 1 else None
+
+
+_RENOVACAO = re.compile(r"renov|prorrog", re.I)
+
+
+def _porque_nao(r: dict, e: dict) -> str:
+    """Porque é que um «nao_vigora» do leitor não passou o critério de prova."""
+    ids = {m["id"] for m in e["mencoes_no_acervo"]} | {x["alvo"] for x in e["relacoes"]}
+    if e["id"] in DESCARTADAS:
+        return DESCARTADAS[e["id"]]
+    if not r.get("prova") or r["prova"] not in ids:
+        return "a prova não é uma menção nem uma relação da entrada"
+    rotulos = [x["rotulo"].strip() for x in e["relacoes"] if x["alvo"] == r["prova"]]
+    mencao = next((m.get("trecho", "") for m in e["mencoes_no_acervo"] if m["id"] == r["prova"]), "")
+    if not mencao and rotulos and all(_ROTULO_GENERICO.match(x) or not x for x in rotulos):
+        return "a relação só tem o rótulo genérico da importação"
+    return "a revogação ou a extinção é só de uma parte, ou tem ressalvas"
+
+
+def fecho() -> None:
+    """Cada candidato da segunda leitura (os de certeza alta e os incertos) acaba com marca ou com
+    «revista, sem marca» e o motivo, em `auditoria/vigencia-fecho.jsonl`. As marcas vão para
+    `llm/vigencia/marcas-verificadas.jsonl`:
+
+    - `nao_vigora`, com uma prova da entrada (o critério de `prova_valida`);
+    - `regime_anterior`, nos cursos incertos que o leitor confirma como cursos do ensino superior
+      anteriores ao DL 74/2006 (a mesma marca dos de certeza alta);
+    - `por_confirmar`, uma marca branda, sem afirmar que caducou, quando o próprio texto dá o facto:
+      uma concessão de caça cujo prazo do texto acabou sem renovação nem extinção no acervo, ou um
+      regime de um só ano que já passou. O RAG dá o aviso; o peso no prior é só para `nao_vigora`.
+    """
+    entradas = _entradas()
+    leituras = _respostas("resposta-*.jsonl")
+    leituras.update({i: r | {"segunda": True} for i, r in _respostas("duvidas-resposta-*.jsonl").items()})
+    entradas_inc = _respostas("incertos-entrada-*.jsonl")
+    leituras_inc = _respostas("incertos-resposta-*.jsonl")
+    marcas, linhas, contas = [], [], defaultdict(int)
+    todos = [(i, entradas[i], r, "alta") for i, r in leituras.items() if i in entradas]
+    todos += [(i, entradas_inc[i], r, "incerta") for i, r in leituras_inc.items() if i in entradas_inc]
+    for i, e, r, certeza in todos:
+        fonte = "Opus" if r.get("segunda") else "Sonnet"
+        classe_ok = certeza == "alta" or bool(r.get("classe_confirmada"))
+        base = {"id": i, "titulo": e["titulo"], "classe": e["classe"], "certeza": certeza,
+                "leitura": {"veredicto": r["veredicto"], "leitor": fonte, "motivo": (r.get("motivo") or "").strip()}}
+        if certeza == "incerta":
+            base["leitura"]["classe_confirmada"] = r.get("classe_confirmada")
+        marca = None
+        if r["veredicto"] == "nao_vigora" and prova_valida(r, e):
+            prova = next((m for m in e["mencoes_no_acervo"] if m["id"] == r["prova"]), None) or next(
+                x for x in sorted(e["relacoes"], key=lambda x: bool(_ROTULO_GENERICO.match(x["rotulo"].strip()))) if x["alvo"] == r["prova"])
+            marca = {"marca": "nao_vigora", "classe": f"llm_{e['classe']}" + ("_incertos" if certeza == "incerta" else ""),
+                     "motivo": r["motivo"].strip().rstrip(".") + ".", "prova": [{"tipo": "menção no acervo" if "trecho" in prova else "relação", **prova}],
+                     "fonte": f"segunda leitura de vigência ({fonte})" if certeza == "alta" else "leitura dos incertos (Sonnet)"}
+        elif certeza == "incerta" and r["veredicto"] == "regime_anterior" and e["classe"] == "cursos_pre_bolonha" and classe_ok:
+            marca = {"marca": "regime_anterior", "classe": "cursos_pre_bolonha_incertos",
+                     "motivo": "os cursos e graus anteriores tiveram de ser adequados ao novo regime (o DL 74/2006 revogou o DL 216/92); confirmar se o curso ainda funciona nestes termos.",
+                     "prova": [{"tipo": "regime geral", "diploma": "Decreto-Lei n.º 74/2006, art. 84.º"}, {"tipo": "leitura", "motivo": r.get("motivo")}],
+                     "fonte": "leitura dos incertos (Sonnet)"}
+        elif (r["veredicto"] == "duvida" and classe_ok and e["classe"] == "caca" and e.get("prazo_anos") and (e.get("fim_estimado") or "9") < HOJE
+              and not _RENOVACAO.search(" ".join([m.get("trecho", "") for m in e["mencoes_no_acervo"]] + [x["rotulo"] for x in e["relacoes"]] + [r.get("motivo") or ""]))):
+            frase = f"o prazo da concessão no texto ({e['prazo_anos']} anos) acabou em {e['fim_estimado'][:4]}, e o acervo não tem a renovação nem a extinção"
+            if e.get("renovavel"):
+                frase += "; o texto prevê a renovação"
+            marca = {"marca": "por_confirmar", "classe": "caca_prazo_acabado", "motivo": frase + ".",
+                     "prova": [{"tipo": "texto", "prazo_anos": e["prazo_anos"], "fim_estimado": e["fim_estimado"], "renovavel": bool(e.get("renovavel"))}],
+                     "fonte": "regra, depois da leitura sem prova"}
+        elif r["veredicto"] == "duvida" and classe_ok and e["classe"] == "um_so_ano":
+            periodo = _ano(e["titulo"], e.get("sumario") or "")
+            if periodo and periodo[1] < int(HOJE[:4]):
+                marca = {"marca": "por_confirmar", "classe": "um_so_ano", "motivo": f"o texto regula só {periodo[0]}, que já passou.",
+                         "prova": [{"tipo": "título ou sumário", "periodo": periodo[0]}], "fonte": "regra, depois da leitura sem prova"}
+        if marca:
+            marcas.append({"id": i, "titulo": e["titulo"], **marca})
+            linhas.append(base | {"estado": "marca", "marca": marca["marca"], "classe_marca": marca["classe"], "motivo": marca["motivo"]})
+            contas[f"marca {marca['marca']} ({marca['classe']})"] += 1
+            continue
+        if r["veredicto"] == "vigora":
+            motivo = "a leitura dá-o como em vigor: " + base["leitura"]["motivo"]
+        elif r["veredicto"] == "nao_vigora":
+            motivo = f"a leitura deu «já não vigora», mas a prova não passou o critério ({_porque_nao(r, e)})."
+        elif not classe_ok:
+            motivo = "a classe das regras não se confirma, e não há prova de que já não vigore: " + base["leitura"]["motivo"]
+        else:
+            motivo = "sem prova, na entrada, de que já não vigore: " + base["leitura"]["motivo"]
+        linhas.append(base | {"estado": "revista, sem marca", "motivo": motivo})
+        contas[f"revista, sem marca ({r['veredicto']})"] += 1
+    (LLM / "marcas-verificadas.jsonl").write_text("".join(json.dumps(m, ensure_ascii=False) + "\n" for m in marcas), encoding="utf-8")
+    FECHO.write_text("".join(json.dumps(x, ensure_ascii=False) + "\n" for x in linhas), encoding="utf-8")
+    print(len(linhas), "revistos;", dict(sorted(contas.items())))
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__.split("\n")[0])
-    parser.add_argument("passo", choices=["entrada", "duvidas", "juntar"])
+    parser.add_argument("passo", choices=["entrada", "duvidas", "juntar", "fecho"])
     parser.add_argument("--numeros", type=Path)
     parser.add_argument("--processos", type=Path)
+    parser.add_argument("--incertos", action="store_true", help="com entrada: os de certeza incerta (incertos-entrada-NN.jsonl)")
     args = parser.parse_args(argv)
     if args.passo == "entrada":
-        entrada(args.numeros, args.processos)
+        entrada(args.numeros, args.processos, args.incertos)
     elif args.passo == "duvidas":
         duvidas()
+    elif args.passo == "fecho":
+        fecho()
     else:
         juntar()
     return 0

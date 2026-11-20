@@ -68,7 +68,9 @@
     "Altera Artigo 13.º",
     "Altera Artigo 24.º",
     "Retifica Artigo 8",
-    "Retifica Artigo 10"
+    "Retifica Artigo 10",
+    "Retifica texto",
+    "Retifica Artigo 22"
    ],
    "fragments": [
     "656e0aca52f1bddb",
@@ -99,8 +101,8 @@
     "05aa4179400016c1",
     "ed11a21e9bf696c4",
     "dbdc2f2423223ee7",
-    "729618b20e29112a",
-    "08b74c6a212e3c94",
+    "6ca522390246bac8",
+    "7b0e020689d1b122",
     "c74f42f0cb9f46b9",
     "627dca0b8b6b6e88"
    ]
@@ -410,6 +412,22 @@
     "Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
    ],
    "markdown": "###### Artigo 13.º — (Montante das prestações)\n\n1 - O montante global das prestações de apoio social será fixado caso a caso e tendo em atenção os elementos constantes do processo, não podendo, no entanto, exceder o valor igual a quatro vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores.\n\n2 - Desde que existam disponibilidades financeiras, poderá a instituição gestora propor superiormente a concessão de uma prestação de apoio social de valor superior ao fixado no número anterior, sempre que a situação de risco social agravado o justifique.\n\n3 - O montante total das prestações de apoio social atribuídas em cada ano não pode exceder o valor correspondente a 1,5% das receitas do Fundo no ano anterior.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "7b0e020689d1b122": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n(Subsistência de direitos dos actuais beneficiários do Fundo)\n\n1 - Os valores dos complementos de pensão atribuídos até à data da entrada em vigor do presente Regulamento manter-se-ão em vigor, sem prejuízo do disposto nos números seguintes.\n\n2 - Os actuais beneficiários do Fundo podem requerer a revisão do montante do complemento, sempre que, da aplicação das disposições deste Regulamento, resulte uma prestação periódica complementar de valor superior.\n\n3 - O requerimento referido no número anterior deverá ser apresentado na instituição de segurança social gestora no prazo de 3 meses, contados da data da entrada em vigor deste diploma, produzindo o mesmo efeito a partir do mês seguinte, se tiver decisão favorável."
   },
   "627dca0b8b6b6e88": {
    "fragment_id": null,

@@ -49,7 +49,6 @@ version_history:
     - Altera Artigo 5.º
     - Retifica texto
     - Retifica Artigo 3
-    - Retifica Artigo 10
 identifiers:
   celex: null
   eli: null

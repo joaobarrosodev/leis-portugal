@@ -789,6 +789,84 @@ As 1.298 perguntas no índice de 17/11, com `--reranker cruzado --limiar 3`, sem
 
 **Medição de base para o índice novo** (`rag/resultados/app011-1711.json`): o índice de 17/11 com a configuração da aplicação 0.1.1 (reranker em lotes de 16, sem ler as perguntas, limiar 3), sem a reutilização de notas. Dá 615 certas de 1.298 (841 respondidas), reais 112/188, «sem resposta» respondidas 5 de 80. Bate com o `max30-1711` (614) e o `sem1711-sem` (613), dentro do ruído. É com ela que se compara o índice reconstruído com o bloco 3 e as perguntas por artigo, antes de publicar.
 
+**O índice novo, medido como a aplicação 0.1.1 pesquisa (19/11/2026).** Mesma configuração da base, sobre dois índices: o das 15h27 (`app011-1911`), com o bloco 3 e as perguntas por artigo nos outros códigos, e o final das 16h54 (`app011-final`), que junta as retificações e a vigência revista.
+
+| | Base 17/11 | Índice 15h27 | Índice final |
+|---|--:|--:|--:|
+| Certas (de 1.298) | 615 | 619 | 619 |
+| Respondidas | 841 | 834 | 834 |
+| «Sem resposta» respondidas | 5 | 5 | 5 |
+| Artigo certo em 1.º | 693 | 738 | 739 |
+| Artigo certo no top 10 | 948 | 1.038 | 1.038 |
+| Coloquiais, artigo no top 10 | 112 | 186 | 186 |
+| Reais, artigo no top 10 | 223 | 236 | 236 |
+
+Pergunta a pergunta, da base para o final ganham-se 9 certas (6 reais, 2 de texto alterado, 1 coloquial) e perdem-se 5 (3 reais, 2 coloquiais): o saldo de +4 fica dentro do ruído. O ganho real é encontrar o artigo (+90 no top 10, quase todo nas coloquiais), que a 0.1.1 aproveita pouco porque o reranker dela não lê as perguntas. Entre o índice das 15h27 e o final não muda nenhuma resposta: as retificações e a vigência não mexem na pesquisa destas perguntas. Literais, temporais e revogadas ficam iguais. O índice final cumpre os critérios para se publicar; a publicação espera pelo fecho da auditoria dos consolidados, e o índice volta a construir-se nessa altura.
+
+## Reranker por passagens (20/11/2026)
+
+É a medida 2 do diagnóstico das reais não encontradas (`reports/diagnostico-reais-nao-encontradas.md`). **Está desligada por omissão**: a aplicação, o limiar e o índice não mudam.
+
+- **O problema:** o reranker lê os primeiros 1.200 caracteres de cada texto, contando o rótulo. Num artigo comprido, o número que responde à pergunta pode estar depois do corte.
+- **O que a opção faz** (`Reranker(passagens=True)` em `rag/modelos.py`; `--reranker-passagens` no `rag.avaliar`): o resto de um artigo comprido é partido em passagens pelos números do artigo. Um número maior do que uma passagem parte-se pelas alíneas, com o corpo do número repetido. Cada passagem leva o rótulo e a epígrafe e, com `--reranker-com-perguntas`, as perguntas do artigo. O reranker pontua o início e as passagens, e o artigo fica com a melhor nota. A nota de um artigo nunca desce.
+- **Custo limitado:** no máximo 4 textos por artigo (o início e 3 passagens) e 40 passagens a mais por pergunta (`--passagens-artigo`, `--passagens-pergunta`). Quando há mais passagens do que o teto, ficam as que têm mais termos em comum com a pergunta. A escolha não usa o excerto do conjunto de avaliação, que o sistema real não conhece.
+- **`Resultado.passagem`** guarda a passagem que deu a nota, quando não foi o início. A resposta ainda não a usa: mostra o início do artigo.
+- Funciona com `--estavel` (as notas guardadas reutilizam-se) e com `--reranker-com-perguntas`. Testes em `tests/test_modelos.py`, com um modelo falso.
+
+### Medição pequena
+
+Não é a medição das 1.298. São 140 perguntas reais no índice final de 19/11 (16h54), com `scripts/medir_passagens.py`:
+
+- as 48 em que o artigo certo não chegava aos 8 primeiros;
+- as 32 dos quatro códigos republicados (Estrada, IVA, IRC, IRS) que não estão nessas 48;
+- uma amostra ao acaso de 60 das outras 201 que hoje funcionam.
+
+Cada pergunta correu quatro vezes com o mesmo reranker em modo `estavel` e o limiar 3, sem LLM. Assim a diferença entre as colunas vem só das passagens e das perguntas por artigo, e não do ruído do lote. A coluna «Base» não é igual à medição `app011-final`, que pontua em lotes de 16: a posição do artigo certo difere em 21 das 140, quase sempre por um ou dois lugares.
+
+| Grupo | Medida | Base | Passagens | Perguntas por artigo | As duas |
+|---|---|--:|--:|--:|--:|
+| As 48 que falhavam | Artigo certo nos 8 | 1 | 14 | 15 | 22 |
+| | Artigo certo em 1.º | 0 | 4 | 7 | 9 |
+| | Certas | 0 | 1 | 1 | 8 |
+| | Respondidas e erradas | 12 | 13 | 12 | 13 |
+| Quatro códigos (32) | Artigo certo nos 8 | 32 | 32 | 31 | 32 |
+| | Artigo certo em 1.º | 15 | 15 | 27 | 28 |
+| | Certas | 6 | 7 | 23 | 25 |
+| | Respondidas e erradas | 9 | 9 | 3 | 4 |
+| Amostra das que funcionam (60) | Artigo certo nos 8 | 58 | 59 | 60 | 60 |
+| | Artigo certo em 1.º | 43 | 44 | 45 | 48 |
+| | Certas | 35 | 36 | 40 | 45 |
+| | Respondidas e erradas | 11 | 12 | 10 | 9 |
+
+**Só as passagens, contra a base:**
+
+- **Nas 48:** o artigo certo sobe em 15 e não desce em nenhuma. Entra nos 8 primeiros em 13, das quais 9 são falhas reais e 4 são das 7 que o diagnóstico deu como problema do teste. As 10 da causa «corte do reranker» sobem todas e ficam nos 8; 3 ficam em 1.º.
+- **Nas 92 que funcionavam:** o artigo certo sobe em 6 e desce em 13. Em 12 das 13 desce um ou dois lugares e nenhuma sai dos 8; a outra (real-227) estava em 9.º e sai dos 10. O 1.º lugar ganha-se em 4 e perde-se em 3 (real-128, real-219, real-297). Ganham-se 3 certas e perde-se 1 (real-128). Uma pergunta que dizia «não sei» passa a responder errado (real-007).
+- **Porque descem:** os outros artigos compridos também sobem. Em 8 das 13 descidas, o artigo que fica em 1.º tem a nota de uma passagem.
+
+**As passagens por cima das perguntas por artigo** (da 3.ª coluna para a 4.ª): nas 140, o artigo certo sobe em 19 e desce em 7, entra nos 8 em 8 e não sai em nenhuma. Ganham-se 17 certas e perdem-se 3 (real-031, real-058, real-295, que passam de 1.º para 2.º). Duas passam a responder errado (real-007, real-241).
+
+**O que esta medição não diz:**
+
+- **O limiar.** Com passagens, a nota do 1.º sobe em 34 das 140 perguntas (em média 0,3 nas 140; no máximo 6,2), e o sistema responde a mais perguntas: 78 em vez de 73, e 104 em vez de 89 com as perguntas por artigo. O limiar 3 foi escolhido sem passagens. As perguntas «sem resposta», a que o sistema deve dizer «não sei», não entraram aqui.
+- **Os outros tipos de pergunta** (literais, temporais, coloquiais, revogadas) não entraram.
+- **A amostra é pequena:** 60 de 201. Uma ou duas perguntas de diferença nas certas ficam dentro do acaso.
+
+### Custo em tempo
+
+- **Textos lidos:** 44,9 por pergunta na base e mais 24,2 passagens em média (mediana 23; 40 no máximo, que é o teto). São 1,54 vezes os textos.
+- **Tempo:** 1,54 vezes. Em modo `estavel`, com 3 fios e a máquina ocupada com outras medições, foram 20 s por pergunta na base e 31 s com passagens.
+- **Em lotes de 16, como a aplicação pontua, não foi medido.** As passagens têm o tamanho dos outros textos, por isso a razão deve ser parecida: cerca de 11 a 12 s por pergunta em vez de 7 a 8.
+
+### Como medir nas 1.298
+
+```bash
+PYTHONPATH=src python -m rag.avaliar --nome passagens-final --indice rag/indice/indice-final.sqlite \
+    --reranker cruzado --limiar 3 --sem-llm --reranker-passagens
+```
+
+É a configuração da `app011-final` com as passagens ligadas. Com `--reranker-com-perguntas` mede as duas coisas juntas. Para comparar duas medições sem o ruído do lote, juntar `--estavel` às duas, o que demora mais.
+
 ## Última milha nas reais: as peças que faltam ligar (20/11/2026)
 
 A aplicação 0.1.1 acerta o artigo em 1.º lugar em cerca de metade das 281 reais, e em mais um terço o artigo certo está do 2.º ao 8.º lugar. Mediu-se quanto se ganha com as peças que já existem e não estão ligadas: as notas estáveis do reranker (`--estavel`), o reranker a ler as perguntas do artigo (`--reranker-com-perguntas`) e o LLM a escrever a resposta a partir dos 8 primeiros artigos.
@@ -883,3 +961,21 @@ Os 1.244 atos da UE em vigor sem versão portuguesa estão no acervo em traduç�
 5. **Diplomas citados por um nome que o índice não reconhece.** É a maior parte das falhas da extração (regulamentos, estatutos, a Lei de Organização e Funcionamento dos Tribunais Judiciais…): ficam sem diploma. Resolver pelo sumário ("Aprova o Regulamento…") tendo em conta a data do acórdão, e medir outra vez.
 6. **Decisões sumárias do TC.** Recolhidas (13/11/2026, `collect tc --sumarias`, `decisoes-sumarias/`): 5.320 das 5.335 listadas, de 1998 a 2026; ficam fora do `normas-julgadas.jsonl` até se medir a extração nelas. As 15 que faltam são páginas vazias no site (`reports/tc_sumarias_failures.jsonl`).
 7. **Mais tarde:** STJ e STA (bases do ITIJ, dgsi.pt) só depois de a segunda resposta estar medida; o TC foi notificado em 12/11/2026, à espera de resposta.
+
+## Redações anteriores: cópias antigas do mesmo texto (20/11/2026)
+
+O DRE consolida alguns códigos no registo da lei que os republicou (o Código da Estrada na Lei n.º 72/2013), consolida diplomas de alteração que trazem a republicação de outro (o DL 44/2005) e guarda o texto de origem (o DL 114/94). No índice, todas essas cópias ficavam como texto atual: o Código da Estrada estava lá cinco vezes.
+
+`rag/copias.py` junta as cópias de cada texto e diz quais são redação anterior. Uma cópia só é marcada com duas provas:
+
+1. **É o mesmo texto:** as epígrafes coincidem e uma parte dos artigos tem o mesmo texto (30 %, ou 10 % quando 30 ou mais epígrafes coincidem), e um dos diplomas cita o outro; ou o DRE o diz numa nota; ou o anexo cita o diploma.
+2. **Há outra cópia mais recente:** outra cópia tem uma nota «Alterado pelo/a…» com data posterior, ou é a republicação trazida por um diploma que o DRE regista como alterador e publicado depois. Uma data de publicação diferente não chega.
+
+O `rag.indice` usa as marcas ao construir (por omissão; `--sem-redacoes-anteriores` desliga, para medir):
+
+- os pedaços abertos da cópia ficam com `ate`, a data da prova mais antiga. Respondem a perguntas com data anterior, com o aviso «Redação em vigor de … a …, não a atual», e deixam de responder como texto atual;
+- só fecham os artigos da cópia, pela chave e pelo texto: os artigos do decreto que aprova ou republica, que partilham a parte e as chaves, ficam abertos;
+- nos registos em blocos de texto (o IVA de 1984), fecham os blocos a seguir àquele onde o código começa;
+- a ligação para o registo com o texto atual é `texto_em_vigor_em` quando o registo fica sem artigos abertos, e `redacao_atual_em` quando ficam os do próprio diploma: a pesquisa troca artigos pelo número só no primeiro caso.
+
+`python -m rag.copias` grava `reports/redacoes-anteriores/`: `marcadas.jsonl` (com a prova de cada uma), `de-fora.jsonl` (com o motivo) e `resumo.json`. A 20/11: 536 cópias marcadas em 493 registos e 345 de fora; num índice de ensaio só com esses registos, 43.596 pedaços fechados. Falta medir nas 1.298 perguntas.

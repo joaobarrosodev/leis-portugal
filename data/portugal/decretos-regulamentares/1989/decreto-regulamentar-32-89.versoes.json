@@ -128,6 +128,12 @@
      "title": "Declaração",
      "published": "1989-11-30",
      "dre_path": "/dr/detalhe/declaracao/1989-192863"
+    },
+    {
+     "id": "pt:dre:175506:por",
+     "title": "Portaria n.º 164/92",
+     "published": "1992-03-13",
+     "dre_path": "/dr/detalhe/portaria/164-1992-175506"
     }
    ],
    "changes": [
@@ -136,7 +142,8 @@
     "Revoga Artigo 61.º",
     "Revoga Artigo 62.º",
     "Revoga Artigo 63.º",
-    "Retifica texto"
+    "Retifica texto",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "5e8fad2c616ccf71",
@@ -232,7 +239,7 @@
     "2f043132fb44b79f",
     "d4d69824504c1ae1",
     "ee1144e9623a8ed6",
-    "0d3aabaa1ad4f427",
+    "0fdddd68351b6177",
     "f19c30cf5d90149f",
     "612cc95a2b7c89c9",
     "3502fb0150686482",
@@ -1092,6 +1099,16 @@
     "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 40/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1997-661915), publicado em 1997-10-03."
    ],
    "markdown": "###### Artigo 63.º — Apoio técnico e administrativo\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 40/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1997-661915), publicado em 1997-10-03."
+  },
+  "0fdddd68351b6177": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Quadro próprio de pessoal da Secretaria-Geral do Ministério da Defesa Nacional",
+   "in_force_from": "1997-10-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 164/92](https://diariodarepublica.pt/dr/detalhe/portaria/164-1992-175506), publicado em 1992-03-13."
+   ],
+   "markdown": "## ANEXO I — Quadro próprio de pessoal da Secretaria-Geral do Ministério da Defesa Nacional\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/24800/47644779.pdf)\n\nSubstituição do quadro de pessoal da Secretaria-Geral do Ministério da Defesa Nacional, na parte relativa ao grupo de pessoal de informática (Portaria n.º 164/92):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/061b00/12791280.pdf)\n\n> Alterado pelo/a [Portaria n.º 164/92](https://diariodarepublica.pt/dr/detalhe/portaria/164-1992-175506), publicado em 1992-03-13."
   },
   "4f5ce88c74786fde": {
    "fragment_id": null,

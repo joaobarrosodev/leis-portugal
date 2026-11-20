@@ -53,7 +53,7 @@ version_history:
     changes: []
   - date: '2011-01-25'
     amending: pt:dre:1859584:por
-    amending_title: Aviso n.º 2649/2011
+    amending_title: Aviso n.º 2649/2011; Aviso n.º 2251/2011; Aviso n.º 2532/2011; Aviso n.º 11781/2011; Aviso n.º 14424/2014
     changes:
     - Altera Artigo 42.º
     - Altera Artigo 47.º
@@ -62,6 +62,9 @@ version_history:
     - Altera Artigo 50.º
     - Altera Artigo 52.º
     - Altera Artigo 53.º
+    - Retifica Artigo 47
+    - Retifica Artigo 48
+    - Retifica Artigo 61
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/130/1999/10/26/p/dre/pt/html
@@ -88,7 +91,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:33:17Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Aviso n.º 2649/2011. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1999/resolucao-conselho-ministros-130-99.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1999/resolucao-conselho-ministros-130-99.alteracoes.json.
+    Retificações aplicadas com um LLM, na ronda rc, e verificadas às cegas (consolidacao/retificacoes_llm.py): Aviso n.º 2251/2011;
+    Aviso n.º 2532/2011; Aviso n.º 11781/2011; Aviso n.º 14424/2014.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1159,7 +1164,7 @@ Nas operações de loteamento a realizar nas áreas urbanas, áreas urbanizávei
 
 ###### Artigo 47.º — Área agrícola preferencial
 
-1 - As áreas agrícolas preferenciais abrangem todos os solos incluídos na que são presentemente utilizados com fins agrícolas.
+1 - As áreas agrícolas preferenciais abrangem todos os solos incluídos na RAN que são presentemente utilizados com fins agrícolas.
 
 2 - As condições a edificar estão sujeitas às normas legais aplicáveis e às seguintes prescrições:
 
@@ -1185,9 +1190,11 @@ d) Os prédios que constituem a exploração agrícola em que se localiza a edif
 
 > Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25.
 
+> Retificado pelo/a [Aviso n.º 2251/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2251-2011-2447935), publicado em 2011-01-20.
+
 ###### Artigo 48.º — Área agrícola condicionada
 
-1 - Abrange solos incluídos na e solos com limitações ao uso agrícola intensivo, que se sobrepõem com áreas de máxima infiltração.
+1 - Abrange solos incluídos na RAN e solos com limitações ao uso agrícola intensivo, que se sobrepõem com áreas de máxima infiltração.
 
 2 - São áreas de extrema sensibilidade ecológica, pelo que as práticas agrícolas devem ser acauteladas, nomeadamente o uso excessivo de pesticidas e fertilizantes, de modo a garantir a qualidade da água infiltrada.
 
@@ -1722,3 +1729,27 @@ c) Plano de Pormenor da Pandina 2, em Santo Amaro.
 Face à natureza das propostas expressas no presente Plano, relativamente ao aglomerado urbano de Sousel, considera-se o PGUS revogado.
 
 [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1999/10/250b00/72277240.pdf)
+
+Planta do perímetro urbano de Santo Amaro, corrigida
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/016000000/0488604886.pdf)
+
+Planta do perímetro urbano de Cano, corrigida
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/103000000/2321723217.pdf)
+
+Plantas de ordenamento e condicionantes, corrigidas (perímetro urbano de Santo Amaro)
+
+26910 - [http://ssaigt.dgterritorio.pt/i/Planta_de_Ordenamento_26910_1.jpg](http://ssaigt.dgterritorio.pt/i/Planta_de_Ordenamento_26910_1.jpg)
+
+26910 - [http://ssaigt.dgterritorio.pt/i/Planta_de_Ordenamento_26910_2.jpg](http://ssaigt.dgterritorio.pt/i/Planta_de_Ordenamento_26910_2.jpg)
+
+26911 - [http://ssaigt.dgterritorio.pt/i/Planta_de_condicionantes_26911_3.jpg](http://ssaigt.dgterritorio.pt/i/Planta_de_condicionantes_26911_3.jpg)
+
+26911 - [http://ssaigt.dgterritorio.pt/i/Planta_de_condicionantes_26911_4.jpg](http://ssaigt.dgterritorio.pt/i/Planta_de_condicionantes_26911_4.jpg)
+
+> Retificado pelo/a [Aviso n.º 11781/2011](https://diariodarepublica.pt/dr/detalhe/aviso/11781-2011-1706431), publicado em 2011-05-27.
+
+> Retificado pelo/a [Aviso n.º 14424/2014](https://diariodarepublica.pt/dr/detalhe/aviso/14424-2014-65990697), publicado em 2014-12-26.
+
+> Retificado pelo/a [Aviso n.º 2532/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2532-2011-3179130), publicado em 2011-01-24.

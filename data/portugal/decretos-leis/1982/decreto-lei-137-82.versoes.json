@@ -21,7 +21,7 @@
    ]
   },
   {
-   "date": "1986-05-05",
+   "date": "1990-04-08",
    "future": false,
    "acts": [
     {
@@ -29,12 +29,25 @@
      "title": "Decreto-Lei n.º 76/86",
      "published": "1986-04-30",
      "dre_path": "/dr/detalhe/decreto-lei/76-1986-195218"
+    },
+    {
+     "id": "pt:dre:285738:por",
+     "title": "Portaria n.º 176/88",
+     "published": "1988-03-23",
+     "dre_path": "/dr/detalhe/portaria/176-1988-285738"
+    },
+    {
+     "id": "pt:dre:332049:por",
+     "title": "Portaria n.º 257/90",
+     "published": "1990-04-07",
+     "dre_path": "/dr/detalhe/portaria/257-1990-332049"
     }
    ],
    "changes": [
     "Altera Artigo 6.º",
     "Altera Artigo 9.º",
-    "Altera Artigo 10.º"
+    "Altera Artigo 10.º",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "6f46ea20b5bc9bd5",
@@ -69,8 +82,8 @@
     "ec8a5b87d058d276",
     "93541fbfdad9e4fb",
     "528ea90280256923",
-    "3ac96bc6596b63c7",
-    "5f1d6044c4c84706"
+    "902b89c680716d63",
+    "70ca9a947e64266e"
    ]
   }
  ],
@@ -191,7 +204,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 6.º",
-   "in_force_from": "1986-05-05",
+   "in_force_from": "1990-04-08",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1986-195218), publicado em 1986-04-30."
    ],
@@ -217,7 +230,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º",
-   "in_force_from": "1986-05-05",
+   "in_force_from": "1990-04-08",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1986-195218), publicado em 1986-04-30."
    ],
@@ -227,7 +240,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 10.º",
-   "in_force_from": "1986-05-05",
+   "in_force_from": "1990-04-08",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1986-195218), publicado em 1986-04-30."
    ],
@@ -384,6 +397,26 @@
    "in_force_from": null,
    "changed_by": [],
    "markdown": "###### Artigo 27.º\n\n1 - Durante o período de instalação, a gestão da secção regional e do seu cofre compete à comissão instaladora.\n\n2 - À gestão referida no número precedente aplicar-se-ão, sempre que possível, as leis e regulamentos gerais da contabilidade pública.\n\n3 - A comissão instaladora prestará contas:\n\na) Ao secretário regional competente, através de balancetes mensais a enviar até ao dia 15 do mês seguinte;\n\nb) Ao Tribunal de Contas, nos termos do artigo 20.º do presente decreto-lei.\n\nVisto e aprovado em Conselho de Ministros de 18 de Março de 1982. - Diogo Pinto de Freitas do Amaral.\n\nPromulgado em 13 de Abril de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "902b89c680716d63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Mapa provisório do pessoal da Secção Regional do Tribunal de Contas da Região Autónoma dos Açores a que refere o artigo 23.º",
+   "in_force_from": "1990-04-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 176/88](https://diariodarepublica.pt/dr/detalhe/portaria/176-1988-285738), publicado em 1988-03-23."
+   ],
+   "markdown": "## ANEXO I — Mapa provisório do pessoal da Secção Regional do Tribunal de Contas da Região Autónoma dos Açores a que refere o artigo 23.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/09400/09870990.pdf)\n\nAo mapa de pessoal do anexo I são acrescidos os lugares constantes do mapa anexo à Portaria n.º 176/88; são extintos os lugares não providos e os que venham a vagar no âmbito das categorias de contador-verificador principal, de 1.ª classe e de 2.ª classe, insertas no mesmo mapa de pessoal:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06900/12241224.pdf)\n\n> Alterado pelo/a [Portaria n.º 176/88](https://diariodarepublica.pt/dr/detalhe/portaria/176-1988-285738), publicado em 1988-03-23."
+  },
+  "70ca9a947e64266e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Mapa provisório do pessoal da Secção Regional do Tribunal de Contas da Região Autónoma dos Açores a que se refere o artigo 23.º",
+   "in_force_from": "1990-04-08",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 257/90](https://diariodarepublica.pt/dr/detalhe/portaria/257-1990-332049), publicado em 1990-04-07."
+   ],
+   "markdown": "## ANEXO II — Mapa provisório do pessoal da Secção Regional do Tribunal de Contas da Região Autónoma dos Açores a que se refere o artigo 23.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/08200/17291730.pdf)\n\n> Alterado pelo/a [Portaria n.º 257/90](https://diariodarepublica.pt/dr/detalhe/portaria/257-1990-332049), publicado em 1990-04-07."
   }
  }
 }

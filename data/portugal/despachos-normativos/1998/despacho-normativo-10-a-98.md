@@ -60,7 +60,6 @@ version_history:
     - Altera Artigo 2.º
     - Altera Artigo 6.º
     - Retifica texto
-    - Retifica Artigo 1
     - Retifica Artigo 2
     - Retifica texto
 identifiers:

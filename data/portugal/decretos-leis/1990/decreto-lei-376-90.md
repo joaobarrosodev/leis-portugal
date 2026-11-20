@@ -85,7 +85,8 @@ provenance:
   generated_at: '2026-10-23T01:04:05Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 468/99. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-376-90.alteracoes.json.
-    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração. Retificações
+    aplicadas com um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,7 +184,7 @@ Artigo 1.º - 1 - A ENU - Empresa Nacional de Urânio, E. P., criada pelo Decret
 
 Art. 2.º - 1 - A ENU - Empresa Nacional de Urânio, S. A., sucede automática e globalmente à ENU - Empresa Nacional de Urânio, E. P., continuando a personalidade jurídica desta e conservando a universalidade dos direitos e obrigações que integram a sua esfera jurídica no momento da transformação.
 
-2 - O presente diploma é título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicado, subscrito por dois membros do conselho de administração da ENU - Empresa Nacional de Urânio, S. A.
+2 - O presente diploma é título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação, subscrita por dois membros do conselho de administração da ENU - Empresa Nacional de Urânio, S. A.
 
 Art. 3.º - 1 - A ENU - Empresa Nacional de Urânio, S. A., tem um capital social de 1000 milhões de escudos, integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 

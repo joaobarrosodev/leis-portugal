@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1968-07-18",
+   "date": "1980-08-12",
    "future": false,
    "acts": [
     {
@@ -29,11 +29,24 @@
      "title": "Rectificação",
      "published": "1965-06-14",
      "dre_path": "/dr/detalhe/rectificacao/1965-296182"
+    },
+    {
+     "id": "pt:dre:470645:por",
+     "title": "Portaria n.º 505/80",
+     "published": "1980-08-12",
+     "dre_path": "/dr/detalhe/portaria/505-1980-470645"
+    },
+    {
+     "id": "pt:dre:470664:por",
+     "title": "Portaria n.º 500/80",
+     "published": "1980-08-12",
+     "dre_path": "/dr/detalhe/portaria/500-1980-470664"
     }
    ],
    "changes": [
     "Altera Artigo 15.º",
-    "Retifica Artigo 20"
+    "Retifica Artigo 20",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "2d44e6e1782476b1",
@@ -57,7 +70,7 @@
     "37d3725212c7490d",
     "53e7d9b7454a7cdf",
     "0a971c9fec2969ef",
-    "22a02f262600b9ac"
+    "7570baec01e33615"
    ]
   }
  ],
@@ -194,7 +207,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 15.º",
-   "in_force_from": "1968-07-18",
+   "in_force_from": "1980-08-12",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 48489](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48489-1968-272629), publicado em 1968-07-18."
    ],
@@ -236,19 +249,22 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º",
-   "in_force_from": "1968-07-18",
+   "in_force_from": "1980-08-12",
    "changed_by": [
     "Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1965-296182), publicado em 1965-06-14."
    ],
    "markdown": "###### Artigo 20.º\n\nOs emolumentos a cobrar nas bibliotecas e arquivos do Estado e nos restantes arquivos distritais por certidões, cópias, fotocópias e buscas são os constantes da tabela anexa ao presente diploma.\n\n§ único. As fotocópias com os requisitos estabelecidos no artigo 177.º do Código do Notariado aprovado pelo [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, valem para todos os efeitos legais como certidões de teor.\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1965-296182), publicado em 1965-06-14."
   },
-  "22a02f262600b9ac": {
+  "7570baec01e33615": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 21.º\n\nCompete à Direcção-Geral do Ensino Superior e das Belas-Artes assegurar pela forma estabelecida no artigo 2.º do [Decreto-Lei n.º 37461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37461-1949-261087), de 30 de Junho de 1949, o registo da propriedade científica, literária e artística.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 22 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nMapa a que se refere o artigo 10.º do Decreto-Lei n.º 46350, de 22 de Maio de 1965\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/05/11400/07180724.pdf)\n\nMinistério da Educação Nacional, 22 de Maio de 1965. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.\n\nTabela a que se refere o artigo 20.º do Decreto-Lei n.º 46350, de 22 de Maio de 1965\n\nI) Certidões\n\n1. Certidões de manuscritos:\n\na) Documentos anteriores a 1 de Janeiro de 1600:\n\nPor cada certidão de teor ... 30$00\n\nPor cada certidão narrativa ... 35$00\n\nPor cada lauda ou fracção ... 7$50\n\nb) Documentos posteriores a 31 de Dezembro de 1599:\n\nPor cada certidão de teor ... 20$00\n\nPor cada certidão narrativa ... 25$00\n\nPor cada lauda ou fracção ... 5$00\n\n2. Certidões de impressos:\n\na) Documentos escritos em língua portuguesa:\n\nPor cada certidão de teor ... 20$00\n\nPor cada certidão narrativa ... 25$00\n\nPor cada lauda ou fracção ... 5$00\n\nb) Documentos escritos em língua estrangeira:\n\nPor cada certidão de teor ... 25$00\n\nPor cada certidão narrativa ... 30$00\n\nPor cada lauda ou fracção ... 7$50\n\nII) Cópias\n\n1. Cópias de manuscritos:\n\na) Documentos anteriores a 1 de Janeiro de 1600:\n\nPela primeira lauda ou fracção ... 30$00\n\nPor cada lauda ou fracção a mais ... 7$50\n\nb) Documentos posteriores a 31 de Dezembro de 1599:\n\nPela primeira lauda ou fracção ... 20$00\n\nPor cada lauda ou fracção a mais ... 5$00\n\n2. Cópias de impressos:\n\na) Em língua portuguesa:\n\nPela primeira lauda ou fracção ... 20$00\n\nPor cada lauda ou fracção a mais ... 5$00\n\nb) Em língua estrangeira:\n\nPela primeira lauda ou fracção ... 25$00\n\nPor cada lauda ou fracção a mais ... 7$50\n\nIII) Fotocópias\n\na) Por cada fotocópia de um documento e respectiva conferência:\n\nPela primeira página ou fracção ... 15$00\n\nPor cada página ou fracção a mais ... 2$00\n\nb) Pela conferência de fotocópia de um documento apresentada pelo interessado:\n\nPela primeira página ou fracção ... 10$00\n\nPor cada página ou fracção a mais ... 2$00\n\nIV) Buscas\n\na) De cada ano indicado pelo interessado ... 2$50\n\nb) Indicando o interessado o dia, mês e ano ... 2$00\n\nEm hipótese alguma o emolumento da busca poderá ser superior a 50$00.\n\nA lauda corresponde a 25 linhas ou fracção, contendo cada linha, em média, 25 letras manuscritas ou 45 letras escritas por qualquer processo mecânico.\n\nAos emolumentos das fotocópias que se destinam a ser utilizadas como certidões acrescerá a importância do selo. E aos emolumentos de todas as fotocópias que forem extraídas pelos estabelecimentos acrescerá, para reembolso das correspondentes despesas, a importância que vier a ser fixada por despacho do Ministro da Educação Nacional.\n\nMinistério da Educação Nacional 22 de Maio de 1965. - O Ministro da Educação Nacional, Inocêncio Galvão Teles."
+   "in_force_from": "1980-08-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 500/80](https://diariodarepublica.pt/dr/detalhe/portaria/500-1980-470664), publicado em 1980-08-12.",
+    "Alterado pelo/a [Portaria n.º 505/80](https://diariodarepublica.pt/dr/detalhe/portaria/505-1980-470645), publicado em 1980-08-12."
+   ],
+   "markdown": "###### Artigo 21.º\n\nCompete à Direcção-Geral do Ensino Superior e das Belas-Artes assegurar pela forma estabelecida no artigo 2.º do [Decreto-Lei n.º 37461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37461-1949-261087), de 30 de Junho de 1949, o registo da propriedade científica, literária e artística.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 22 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nMapa a que se refere o artigo 10.º do Decreto-Lei n.º 46350, de 22 de Maio de 1965\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/05/11400/07180724.pdf)\n\nSubstituição do quadro de pessoal dos Arquivos Distritais de Aveiro, Beja, Castelo Branco, Faro, Guarda, Portalegre, Santarém, Setúbal, Viana do Castelo e Viseu (Portaria n.º 505/80):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18500/21472147.pdf)\n\nSubstituição do quadro de pessoal da Biblioteca Pública e Arquivo Distrital de Bragança, Biblioteca Pública e Arquivo Distrital de Leiria e Biblioteca Pública e Arquivo Distrital de Vila Real (Portaria n.º 500/80):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18500/21442144.pdf)\n\n> Alterado pelo/a [Portaria n.º 500/80](https://diariodarepublica.pt/dr/detalhe/portaria/500-1980-470664), publicado em 1980-08-12.\n\n> Alterado pelo/a [Portaria n.º 505/80](https://diariodarepublica.pt/dr/detalhe/portaria/505-1980-470645), publicado em 1980-08-12.\n\nMinistério da Educação Nacional, 22 de Maio de 1965. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.\n\nTabela a que se refere o artigo 20.º do Decreto-Lei n.º 46350, de 22 de Maio de 1965\n\nI) Certidões\n\n1. Certidões de manuscritos:\n\na) Documentos anteriores a 1 de Janeiro de 1600:\n\nPor cada certidão de teor ... 30$00\n\nPor cada certidão narrativa ... 35$00\n\nPor cada lauda ou fracção ... 7$50\n\nb) Documentos posteriores a 31 de Dezembro de 1599:\n\nPor cada certidão de teor ... 20$00\n\nPor cada certidão narrativa ... 25$00\n\nPor cada lauda ou fracção ... 5$00\n\n2. Certidões de impressos:\n\na) Documentos escritos em língua portuguesa:\n\nPor cada certidão de teor ... 20$00\n\nPor cada certidão narrativa ... 25$00\n\nPor cada lauda ou fracção ... 5$00\n\nb) Documentos escritos em língua estrangeira:\n\nPor cada certidão de teor ... 25$00\n\nPor cada certidão narrativa ... 30$00\n\nPor cada lauda ou fracção ... 7$50\n\nII) Cópias\n\n1. Cópias de manuscritos:\n\na) Documentos anteriores a 1 de Janeiro de 1600:\n\nPela primeira lauda ou fracção ... 30$00\n\nPor cada lauda ou fracção a mais ... 7$50\n\nb) Documentos posteriores a 31 de Dezembro de 1599:\n\nPela primeira lauda ou fracção ... 20$00\n\nPor cada lauda ou fracção a mais ... 5$00\n\n2. Cópias de impressos:\n\na) Em língua portuguesa:\n\nPela primeira lauda ou fracção ... 20$00\n\nPor cada lauda ou fracção a mais ... 5$00\n\nb) Em língua estrangeira:\n\nPela primeira lauda ou fracção ... 25$00\n\nPor cada lauda ou fracção a mais ... 7$50\n\nIII) Fotocópias\n\na) Por cada fotocópia de um documento e respectiva conferência:\n\nPela primeira página ou fracção ... 15$00\n\nPor cada página ou fracção a mais ... 2$00\n\nb) Pela conferência de fotocópia de um documento apresentada pelo interessado:\n\nPela primeira página ou fracção ... 10$00\n\nPor cada página ou fracção a mais ... 2$00\n\nIV) Buscas\n\na) De cada ano indicado pelo interessado ... 2$50\n\nb) Indicando o interessado o dia, mês e ano ... 2$00\n\nEm hipótese alguma o emolumento da busca poderá ser superior a 50$00.\n\nA lauda corresponde a 25 linhas ou fracção, contendo cada linha, em média, 25 letras manuscritas ou 45 letras escritas por qualquer processo mecânico.\n\nAos emolumentos das fotocópias que se destinam a ser utilizadas como certidões acrescerá a importância do selo. E aos emolumentos de todas as fotocópias que forem extraídas pelos estabelecimentos acrescerá, para reembolso das correspondentes despesas, a importância que vier a ser fixada por despacho do Ministro da Educação Nacional.\n\nMinistério da Educação Nacional 22 de Maio de 1965. - O Ministro da Educação Nacional, Inocêncio Galvão Teles."
   }
  }
 }

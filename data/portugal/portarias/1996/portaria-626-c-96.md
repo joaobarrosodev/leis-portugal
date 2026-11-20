@@ -90,7 +90,9 @@ provenance:
   generated_at: '2026-10-23T13:35:25Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 268-A/97. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-626-c-96.alteracoes.json. Retificações aplicadas
-    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 16-X/96.'
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação n.º 16-X/96. Retificações
+    aplicadas com um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração de Rectificação
+    n.º 16-X/96.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -230,6 +232,8 @@ d) Designação da organização não governamental de portugueses no estrangeir
 2 - Até à data prevista no número anterior, as entidades primeiras proponentes de cada lista designam os seus representantes e informam da designação o gerente do posto consular da sua área de jurisdição, para efeitos da constituição da comissão eleitoral a que se refere o artigo 9.º da [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro.
 
 3 - As comissões eleitorais devem estar constituídas até 22 de Março de 1997.
+
+4 - Nos postos consulares devem ser previstos locais delimitados onde cada uma das listas possa afixar a sua propaganda eleitoral, não podendo as autoridades públicas portuguesas beneficiar ou prejudicar qualquer das listas.
 
 12.º - 1 - A cada posto consular corresponde uma assembleia de voto.
 

@@ -58,6 +58,7 @@ version_history:
     changes:
     - Altera Artigo unidades 9-9
     - Adita Artigo depois da unidade 9
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/517/1994/07/08/p/dre/pt/html
@@ -84,7 +85,8 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:29:39Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 611/97. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-517-94.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-517-94.alteracoes.json. Planta trocada pela
+    do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 611/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -203,4 +205,4 @@ Assinada em 17 de Junho de 1994.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/156b00/36523653.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/181b00/40884089.pdf)

@@ -41,3 +41,30 @@ Aqui as retificações republicam um mapa ou uma planta em imagem, publicam um a
 - `nota_do_respondedor` é o que o respondedor diz para justificar a mudança. Não é prova: confirma-a com o texto da retificação.
 
 Saída: `verificacao-saida-im.jsonl`.
+
+## Ronda r4 (`verificacao-entrada-r4.jsonl`): trocas que tinham ficado de fora
+
+São trocas que completam retificações já aplicadas. Cada uma traz `prova_do_respondedor`: um trecho do DR original (por OCR do PDF) ou do alterador posterior, com a fonte. Duas regras a mais:
+
+- Quando o «onde se lê» difere do parágrafo (outra alínea, uma palavra a mais), a mudança é `certo` só se: a prova mostra que o parágrafo é o que o DR publicou; o sítio é único (no número indicado só há um trecho que a instrução pode visar); e o depois tem exatamente o «deve ler-se». Senão, `duvida`.
+- Um parágrafo com `reescrito_depois` pode ser o que a retificação corrige se o alterador só o renumerou sem lhe mudar o texto («3 - (Actual n.º 5.)»), e a prova o mostra.
+
+Saída: `verificacao-saida-r4.jsonl`.
+
+## Ronda rc (`verificacao-entrada-rc.jsonl`): retificações recolhidas depois
+
+São avisos de correção material de PDM e uma declaração de retificação da 2.ª série, recolhidos do DRE depois da auditoria. As regras das rondas im e r4 valem também aqui. Quando várias retificações do mesmo diploma inserem texto depois da mesma linha, encadeiam-se pela ordem. Nesse caso, o «antes» de uma pode já ter o que a anterior inseriu, e isso não é erro: confirma só o que esta acrescenta.
+
+Saída: `verificacao-saida-rc.jsonl`.
+
+## Ronda r5 (`verificacao-entrada-r5.jsonl`): as instruções que ficaram em dúvida
+
+Todas as mudanças desta ronda têm `com_ligacoes: true`, e muitas são inserções: um número, uma alínea, assinaturas ou um fecho que a retificação diz que foram omitidos. As regras das rondas im, r4 e rc valem também aqui. Confirma em cada inserção:
+
+- que o texto inserido é o que a retificação publica, à letra;
+- que fica no sítio que ela indica;
+- que a linha de antes não mudou.
+
+Uma linha posta a "" («(parágrafo apagado)») só é certa se a retificação manda tirar ou mudar de sítio esse texto.
+
+Saída: `verificacao-saida-r5.jsonl` (ou `-r6`, na ronda r6, com as mesmas regras).

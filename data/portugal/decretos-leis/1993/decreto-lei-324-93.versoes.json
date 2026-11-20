@@ -112,6 +112,36 @@
      "title": "Decreto-Lei n.º 132/2019",
      "published": "2019-08-30",
      "dre_path": "/dr/detalhe/decreto-lei/132-2019-124324704"
+    },
+    {
+     "id": "pt:dre:363904:por",
+     "title": "Portaria n.º 5/95",
+     "published": "1995-01-04",
+     "dre_path": "/dr/detalhe/portaria/5-1995-363904"
+    },
+    {
+     "id": "pt:dre:265761:por",
+     "title": "Portaria n.º 224/94",
+     "published": "1994-04-14",
+     "dre_path": "/dr/detalhe/portaria/224-1994-265761"
+    },
+    {
+     "id": "pt:dre:513056:por",
+     "title": "Portaria n.º 395/95",
+     "published": "1995-05-03",
+     "dre_path": "/dr/detalhe/portaria/395-1995-513056"
+    },
+    {
+     "id": "pt:dre:436420:por",
+     "title": "Portaria n.º 203/96",
+     "published": "1996-06-07",
+     "dre_path": "/dr/detalhe/portaria/203-1996-436420"
+    },
+    {
+     "id": "pt:dre:321679:por",
+     "title": "Portaria n.º 1279/97",
+     "published": "1997-12-31",
+     "dre_path": "/dr/detalhe/portaria/1279-1997-321679"
     }
    ],
    "changes": [
@@ -125,7 +155,9 @@
     "Revoga Artigo 58.º",
     "Revoga Artigo 59.º",
     "Revoga Artigo 60.º",
-    "Revoga Artigo 61.º"
+    "Revoga Artigo 61.º",
+    "Retifica texto",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "dc688c3122aea0ce",
@@ -217,7 +249,7 @@
     "1cc26143379eec60",
     "abe72d2dc7113161",
     "fb721b67d33c0b49",
-    "3dd43d02085b640f"
+    "e487e014dc36ca2d"
    ]
   }
  ],
@@ -1033,6 +1065,20 @@
     "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
    ],
    "markdown": "###### Artigo 61.º — Residência oficial\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), publicado em 2019-08-30."
+  },
+  "e487e014dc36ca2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Legislação revogada",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1279/97](https://diariodarepublica.pt/dr/detalhe/portaria/1279-1997-321679), publicado em 1997-12-31.",
+    "Retificado pelo/a [Portaria n.º 5/95](https://diariodarepublica.pt/dr/detalhe/portaria/5-1995-363904), publicado em 1995-01-04.",
+    "Alterado pelo/a [Portaria n.º 203/96](https://diariodarepublica.pt/dr/detalhe/portaria/203-1996-436420), publicado em 1996-06-07.",
+    "Alterado pelo/a [Portaria n.º 395/95](https://diariodarepublica.pt/dr/detalhe/portaria/395-1995-513056), publicado em 1995-05-03.",
+    "Alterado pelo/a [Portaria n.º 224/94](https://diariodarepublica.pt/dr/detalhe/portaria/224-1994-265761), publicado em 1994-04-14."
+   ],
+   "markdown": "###### Artigo 71.º — Legislação revogada\n\n1 - São revogados pelo presente diploma os capítulos I e II, os artigos 44.º, 46.º a 48.º, os n.os 1, 2 e 4 a 9 do artigo 49.º, os n.os 1, 2 e 4 do artigo 50.º, a alínea c) do n.º 1 e os n.os 2 e 4 a 6 do artigo 51.º, os artigos 52.º a 54.º, os artigos 56.º a 66.º, a remissão para o n.º 1 do artigo 68.º constante da alínea a) do n.º 2 do artigo 67.º, o n.º 1 do artigo 68.º, os artigos 70.º e 73.º, os artigos 78.º a 81.º, os artigos 83.º a 89.º, o artigo 92.º, os artigos 95.º a 100.º, os artigos 106.º a 110.º, os artigos 119.º e 120.º, os n.os 1 a 4 do artigo 121.º e os artigos 122.º a 125.º do capítulo III e os artigos 127.º a 147.º e os artigos 149.º a 157.º do capítulo IV do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho.\n\n2 - São ainda revogados os Decretos-Leis n.os [49/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1988-283118), de 17 de Fevereiro, e [273/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1990-556665), de 7 de Setembro.\n\nVisto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.\n\nPromulgado em 21 de Junho de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 23 de Junho de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nAnexo I a que se refere o artigo 40.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nRatificação do anexo I (Portaria n.º 1279/97):\n\n1.º É criado o Posto Aduaneiro da EXPO 98 no recinto da Exposição Mundial de Lisboa de 1998, na dependência da Alfândega de Xabregas.\n\n3.º É ratificado o anexo I a que se refere o artigo 40.º do [Decreto-Lei n.º 324/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), de 25 de Setembro, em conformidade com o disposto no n.º 1.º anterior.\n\n> Alterado pelo/a [Portaria n.º 1279/97](https://diariodarepublica.pt/dr/detalhe/portaria/1279-1997-321679), publicado em 1997-12-31.\n\nAnexo II a que se refere o artigo 41.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/003b00/00490051.pdf)\n\n> Retificado pelo/a [Portaria n.º 5/95](https://diariodarepublica.pt/dr/detalhe/portaria/5-1995-363904), publicado em 1995-01-04.\n\nAnexo III a que se refere o artigo 63.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAlteração ao quadro de pessoal dirigente constante do anexo III (Portaria n.º 395/95):\n\nO número de lugares do quadro de pessoal dirigente constante do anexo III é acrescido de mais um lugar de chefe de divisão ou equiparado.\n\nAlteração ao quadro de pessoal constante do anexo III (Portaria n.º 203/96):\n\nPassa de três para quatro o número de lugares de subdirector-geral do quadro de pessoal constante do anexo III.\n\n> Alterado pelo/a [Portaria n.º 203/96](https://diariodarepublica.pt/dr/detalhe/portaria/203-1996-436420), publicado em 1996-06-07.\n\n> Alterado pelo/a [Portaria n.º 395/95](https://diariodarepublica.pt/dr/detalhe/portaria/395-1995-513056), publicado em 1995-05-03.\n\nAnexo IV a que se refere o artigo 65.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/226a00/53365352.pdf)\n\nAlteração ao quadro de pessoal constante dos anexos III e IV (Portaria n.º 224/94):\n\nO quadro de pessoal da Direcção-Geral das Alfândegas constante dos anexos III e IV ao [Decreto-Lei n.º 324/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1993-653126), de 25 de Setembro, e do anexo I à [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, é alterado nos seguintes termos:\n\n1) São abatidos dois lugares da categoria de chefe de divisão ou equiparado, passando a respectiva dotação de 37 para 35 lugares;\n\n2) São acrescidos 11 lugares na carreira de fiscalização de tabacos e 37 na categoria de terceiro-oficial, que serão extintos, após preenchimento, à medida que vagarem.\n\n> Alterado pelo/a [Portaria n.º 224/94](https://diariodarepublica.pt/dr/detalhe/portaria/224-1994-265761), publicado em 1994-04-14.\n\nAnexo V a que se refere o n.º 3 do artigo 66.º\n\nConteúdo funcional\n\nAgente fiscal. - O agente fiscal desenvolve funções de natureza executiva de aplicação técnica que se enquadram em directivas gerais técnico-administrativas relativas ao controlo técnico e fiscal das mercadorias sujeitas ao regime dos tabacos, competindo-lhe, nomeadamente:\n\nControlo físico, nas entradas e saídas dos estabelecimentos fabris, de pessoas e equipamentos;\n\nControlo e fiscalização dos produtos em armazém;\n\nRegisto e preenchimento de guias necessárias ao controlo contabilístico da saída e trânsito dos tabacos;\n\nAcompanhamento do transporte dos tabacos para os portos, aeroportos e entrepostos aduaneiros."
   }
  }
 }

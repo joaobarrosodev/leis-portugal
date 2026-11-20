@@ -48,6 +48,7 @@ version_history:
     - Altera Artigo 4.º
     - Altera Artigo 5.º
     - Retifica Artigo 6
+    - Retifica Artigo 7
 identifiers:
   celex: null
   eli: null
@@ -75,7 +76,8 @@ provenance:
   generated_at: '2026-10-22T23:01:47Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 550/80. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-131-77.alteracoes.json.
-    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
+    Retificações aplicadas com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação. Retificações
+    aplicadas com um LLM, na ronda r5, e verificadas às cegas (consolidacao/retificacoes_llm.py): Rectificação.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -237,9 +239,11 @@ Numa 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será criado o 3.º 
 
 4 chefes de esquadra.
 
+16 subchefes.
+
 148 guardas.
 
-155
+171
 
 ###### Artigo 8.º
 

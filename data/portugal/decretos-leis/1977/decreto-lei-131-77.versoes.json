@@ -34,7 +34,8 @@
    "changes": [
     "Altera Artigo 4.º",
     "Altera Artigo 5.º",
-    "Retifica Artigo 6"
+    "Retifica Artigo 6",
+    "Retifica Artigo 7"
    ],
    "fragments": [
     "bdc8c0984eac2f3c",
@@ -44,7 +45,7 @@
     "69537ac8b53bb9a0",
     "f5c18983f67d8567",
     "e65036f7957e9037",
-    "5b775cad4cd44c41",
+    "000141f033dd25a9",
     "5554e902978df3f1",
     "59a424aa6a32ff11"
    ]
@@ -121,13 +122,13 @@
    ],
    "markdown": "###### Artigo 6.º\n\nA actualização dos QO da PSP, a que se refere o artigo 2.º do presente diploma, terá lugar em duas fases, constando da primeira, a vigorar de imediato, o comando, formação e dois grupos de intervenção, a que corresponde o aumento do seguinte pessoal:\n\n1 tenente-coronel ou major.\n\n1 major ou capitão.\n\n1 capitão.\n\n3 primeiros-comissários.\n\n5 segundos-comissários.\n\n12 chefes de esquadra.\n\n3 subchefes-ajudantes.\n\n49 subchefes.\n\n416 guardas.\n\n491\n\n> Retificado pelo/a [Rectificação](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-252044), publicado em 1977-05-19."
   },
-  "5b775cad4cd44c41": {
+  "000141f033dd25a9": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 7.º",
    "in_force_from": null,
    "changed_by": [],
-   "markdown": "###### Artigo 7.º\n\nNuma 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será criado o 3.º grupo de intervenção, a que corresponderá o aumento dos QO da PSP do seguinte pessoal:\n\n1 primeiro-comissário.\n\n2 segundos-comissários.\n\n4 chefes de esquadra.\n\n148 guardas.\n\n155"
+   "markdown": "###### Artigo 7.º\n\nNuma 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será criado o 3.º grupo de intervenção, a que corresponderá o aumento dos QO da PSP do seguinte pessoal:\n\n1 primeiro-comissário.\n\n2 segundos-comissários.\n\n4 chefes de esquadra.\n\n16 subchefes.\n\n148 guardas.\n\n171"
   },
   "5554e902978df3f1": {
    "fragment_id": null,

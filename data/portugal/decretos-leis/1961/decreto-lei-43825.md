@@ -52,9 +52,10 @@ version_history:
     changes: []
   - date: '1978-04-03'
     amending: pt:dre:446964:por
-    amending_title: Decreto n.º 31/78
+    amending_title: Decreto n.º 31/78; Decreto-Lei n.º 139/72
     changes:
     - Altera Artigo 21.º
+    - Altera Artigo 117
 identifiers:
   celex: null
   eli: null
@@ -81,7 +82,9 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:37:51Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 31/78. Método e verificação:
-    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-43825.alteracoes.json'
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-43825.alteracoes.json. Anexos e quadros
+    de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Decreto-Lei n.º 139/72.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -898,3 +901,9 @@ Quadro do pessoal do Laboratório Nacional de Engenharia Civil
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1961/07/17300/09200929.pdf)
 
 Ministério das Obras Públicas, 27 de Julho de 1961. O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.
+
+Alteração ao quadro do pessoal do Laboratório Nacional de Engenharia Civil (Decreto-Lei n.º 139/72):
+
+Artigo 1.º São suprimidos vinte dos actuais cinquenta lugares de escriturário-dactilógrafo de 2.ª classe e, em sua substituição, é criado igual número de lugares de escriturário-dactilógrafo de 1.ª classe.
+
+> Alterado pelo/a [Decreto-Lei n.º 139/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1972-679864), publicado em 1972-04-29.

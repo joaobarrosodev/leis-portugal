@@ -58,7 +58,7 @@ version_history:
     changes:
     - Adita Artigo 20.º-A
     - Revoga Artigo 20.º
-    - Retifica Artigo 22
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/leiorg/2/2010/06/16/p/dre/pt/html
@@ -396,6 +396,6 @@ O Presidente da República, Aníbal Cavaco Silva.
 
 Referendada em 8 de Junho de 2010.
 
-O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
-
 > Retificado pelo/a [Declaração de Rectificação n.º 21/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2010-334277), publicado em 2010-07-20.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -56,7 +56,7 @@ version_history:
     amending_title: Lei n.º 66-B/2012; Declaração de Rectificação n.º 10/2006
     changes:
     - Revoga Artigo 4.º
-    - Retifica Artigo 5
+    - Retifica texto
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/235/2005/12/30/p/dre/pt/html
@@ -301,6 +301,8 @@ TABELA ANEXA
 
 Regime transitório de aposentação e de acesso ao regime de disponibilidade, de acordo com a idade, do pessoal de investigação criminal da Polícia Judiciária, nos termos vigentes até 31 de Dezembro de 2005, com cessação da prestação de serviço efectivo.
 
+> Retificado pelo/a [Declaração de Rectificação n.º 10/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2006-683851), publicado em 2006-02-15.
+
 A partir de 1 de Janeiro de 2006 - 55 anos e 6 meses.
 
 A partir de 1 de Janeiro de 2007 - 56 anos.
@@ -318,5 +320,3 @@ A partir de 1 de Janeiro de 2012 - 58 anos e 6 meses.
 A partir de 1 de Janeiro de 2013 - 59 anos.
 
 A partir de 1 de Janeiro de 2014 - 59 anos e 6 meses.
-
-> Retificado pelo/a [Declaração de Rectificação n.º 10/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2006-683851), publicado em 2006-02-15.

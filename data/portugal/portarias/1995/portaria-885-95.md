@@ -58,6 +58,7 @@ version_history:
     changes:
     - Altera Artigo unidades 8-8
     - Retifica texto
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/885/1995/07/14/p/dre/pt/html
@@ -85,7 +86,8 @@ provenance:
   generated_at: '2026-10-23T13:13:21Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 232/96. Método e verificação:
     consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-885-95.alteracoes.json. Retificações aplicadas
-    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Portaria n.º 564/2005.'
+    com um LLM e verificadas às cegas (consolidacao/retificacoes_llm.py): Portaria n.º 564/2005. Planta trocada pela do alterador
+    que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada às cegas): Portaria n.º 232/96.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -199,4 +201,4 @@ Assinada em 4 de Julho de 1995.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/44954496.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/146b00/16341634.pdf)

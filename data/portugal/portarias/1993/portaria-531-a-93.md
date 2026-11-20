@@ -53,9 +53,12 @@ version_history:
     changes: []
   - date: '2020-01-01'
     amending: pt:dre:124324704:por
-    amending_title: Decreto-Lei n.º 132/2019
+    amending_title: Decreto-Lei n.º 132/2019; Despacho Normativo n.º 421/93; Portaria n.º 94/94; Despacho Normativo n.º 106/94;
+      Despacho Normativo n.º 190/94; Portaria n.º 224/94; Despacho Normativo n.º 262/94; Despacho Normativo n.º 338/94; Despacho
+      Normativo n.º 388/94; Despacho Normativo n.º 393/94; Portaria n.º 92/96; Portaria n.º 892/97
     changes:
     - Altera Artigo unidades 14-34
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/531-a/1993/05/20/p/dre/pt/html
@@ -82,7 +85,11 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:58:14Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 132/2019. Método
-    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-531-a-93.alteracoes.json'
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-531-a-93.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Despacho Normativo n.º 421/93; Portaria n.º 94/94; Despacho Normativo n.º 106/94; Despacho Normativo n.º 190/94; Portaria
+    n.º 224/94; Despacho Normativo n.º 262/94; Despacho Normativo n.º 338/94; Despacho Normativo n.º 388/94; Despacho Normativo
+    n.º 393/94; Portaria n.º 92/96; Portaria n.º 892/97.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -257,6 +264,80 @@ Assinada em 7 de Abril de 1993.
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento.
 
 ## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/117b01/00020006.pdf)
+
+Alteração ao quadro de pessoal (Despacho Normativo n.º 421/93):
+
+1 - É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador assessor principal, a extinguir quando vagar.
+
+2 - A criação do lugar referido no número anterior produz efeitos desde 30 de Setembro de 1993.
+
+Alteração ao quadro de pessoal (Portaria n.º 94/94):
+
+1.º É criado na carreira de operador de registo de dados um lugar da categoria de operador de registo de dados principal, a extinguir quando vagar após preenchimento.
+
+2.º Relativamente ao nível das carreiras de técnico-adjunto de biblioteca e documentação e de técnico-adjunto de arquivo, onde se lê, na respectiva coluna, como sendo do nível 3 deve ler-se do nível 4.
+
+Alteração ao quadro de pessoal (Despacho Normativo n.º 106/94):
+
+É criado no quadro da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador, a extinguir quando vagar.
+
+Alteração ao quadro de pessoal (Despacho Normativo n.º 190/94):
+
+É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador, a extinguir quando vagar.
+
+Alteração ao quadro de pessoal (Portaria n.º 224/94):
+
+2) São acrescidos 11 lugares na carreira de fiscalização de tabacos e 37 na categoria de terceiro-oficial, que serão extintos, após preenchimento, à medida que vagarem.
+
+Alteração ao quadro de pessoal (Despacho Normativo n.º 262/94):
+
+É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador, a extinguir quando vagar.
+
+Alteração ao quadro de pessoal (Despacho Normativo n.º 338/94):
+
+É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador, a extinguir quando vagar.
+
+Alteração ao quadro de pessoal (Despacho Normativo n.º 388/94):
+
+É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador assessor, a extinguir quando vagar.
+
+Alteração ao quadro de pessoal (Despacho Normativo n.º 393/94):
+
+É criado no quadro de pessoal da Direcção-Geral das Alfândegas, constante da [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar de reverificador assessor, a extinguir quando vagar.
+
+Alteração ao quadro de pessoal (Portaria n.º 92/96):
+
+1.º Com vista a concretizar a transição dos funcionários abrangidos pelo disposto no artigo 7.º do [Decreto-Lei n.º 274/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1990-556660), de 7 de Setembro, são criados no quadro da Direcção-Geral das Alfândegas 252 lugares da categoria de verificador auxiliar aduaneiro de 2.ª classe.
+
+2.º Após o preenchimento dos lugares previstos no número anterior serão extintos, em igual número, os lugares correspondentes às categorias de que os funcionários a transitar são titulares, constantes do quadro de pessoal da Direcção-Geral das Alfândegas, aprovado pela [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio.
+
+4.º Se os funcionários com direito à transição desistirem desta, considerar-se-ão automaticamente abatidos ao número de lugares criados pela presente portaria tantos lugares quantas as desistências.
+
+Alteração ao quadro de pessoal (Portaria n.º 892/97):
+
+1.º É criado no quadro de pessoal da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, aprovado pela [Portaria n.º 531-A/93](https://diariodarepublica.pt/dr/detalhe/portaria/531-a-1993-425882), de 20 de Maio, um lugar da categoria de secretário aduaneiro de 2.ª classe, da carreira de secretário aduaneiro, a extinguir quando vagar.
+
+> Alterado pelo/a [Despacho Normativo n.º 106/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/106-1994-515607), publicado em 1994-02-23.
+
+> Alterado pelo/a [Despacho Normativo n.º 190/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/190-1994-281650), publicado em 1994-03-25.
+
+> Alterado pelo/a [Despacho Normativo n.º 262/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/262-1994-265163), publicado em 1994-04-22.
+
+> Alterado pelo/a [Despacho Normativo n.º 338/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/338-1994-263878), publicado em 1994-05-13.
+
+> Alterado pelo/a [Despacho Normativo n.º 388/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1994-265539), publicado em 1994-05-21.
+
+> Alterado pelo/a [Despacho Normativo n.º 393/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/393-1994-269605), publicado em 1994-05-24.
+
+> Alterado pelo/a [Despacho Normativo n.º 421/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/421-1993-550670), publicado em 1993-12-13.
+
+> Alterado pelo/a [Portaria n.º 224/94](https://diariodarepublica.pt/dr/detalhe/portaria/224-1994-265761), publicado em 1994-04-14.
+
+> Alterado pelo/a [Portaria n.º 892/97](https://diariodarepublica.pt/dr/detalhe/portaria/892-1997-650095), publicado em 1997-09-11.
+
+> Alterado pelo/a [Portaria n.º 92/96](https://diariodarepublica.pt/dr/detalhe/portaria/92-1996-545977), publicado em 1996-03-26.
+
+> Alterado pelo/a [Portaria n.º 94/94](https://diariodarepublica.pt/dr/detalhe/portaria/94-1994-522250), publicado em 1994-02-09.
 
 ## ANEXO II — Conteúdos funcionais
 

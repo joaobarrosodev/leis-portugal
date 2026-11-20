@@ -66,3 +66,13 @@ def test_notas_no_fim_do_artigo_ou_a_seguir_ao_paragrafo():
         "###### Artigo 1.º", "", "1 - A.", "", "2 - B.", "", "> Retificado pelo/a X.", "", "###### Artigo 2.º", "", "C."]
     sem_artigos = ["# P", "", "1.º A.", "", "2.º B."]
     assert rt._com_notas(sem_artigos, {2: {"> Retificado pelo/a X."}}) == ["# P", "", "1.º A.", "", "> Retificado pelo/a X.", "", "", "2.º B."]
+
+
+def test_texto_depois_do_articulado_nao_e_de_nenhum_artigo():
+    """Um anexo sem título Markdown, ou o que vem depois da promulgação, não é do último artigo:
+    a nota da retificação vai logo a seguir ao parágrafo, e o histórico diz «Retifica texto»."""
+    linhas = ["###### Artigo 71.º — Legislação revogada", "", "É revogado o DL 1/90.", "", "Promulgado em 21 de Junho de 1993.", "",
+              "Anexo II a que se refere o artigo 41.º", "", "[(ver documento original)](https://x/b.pdf)", "", "Anexo III a que se refere o artigo 63.º"]
+    assert rt._artigo_de(linhas, 2) == "71"
+    assert rt._artigo_de(linhas, 8) is None
+    assert rt._com_notas(linhas, {8: {"> Retificado pelo/a P."}})[9:12] == ["", "> Retificado pelo/a P.", ""]

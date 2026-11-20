@@ -250,6 +250,12 @@ def main(argv: list[str] | None = None) -> int:
         "--estavel", action="store_true",
         help="O reranker pontua cada texto sozinho: a nota deixa de depender dos outros textos do lote (rag.modelos.Reranker).",
     )
+    parser.add_argument(
+        "--reranker-passagens", action="store_true",
+        help="O reranker lê também as passagens seguintes dos artigos compridos e o artigo fica com a melhor nota (rag.modelos.Reranker).",
+    )
+    parser.add_argument("--passagens-artigo", type=int, help="Com --reranker-passagens: textos lidos por artigo, no máximo, contando o início.")
+    parser.add_argument("--passagens-pergunta", type=int, help="Com --reranker-passagens: passagens a mais por pergunta, no máximo.")
     parser.add_argument("--candidatos", type=int, default=100, help="Candidatos de cada BM25.")
     parser.add_argument("--limiar", type=float, help="'Não sei' quando o reranker dá ao melhor artigo menos do que isto.")
     parser.add_argument(
@@ -278,9 +284,12 @@ def main(argv: list[str] | None = None) -> int:
 
     reranker = None
     if args.reranker:
-        from rag.modelos import Reranker
+        from rag.modelos import PASSAGENS_ARTIGO, PASSAGENS_PERGUNTA, Reranker
 
-        reranker = Reranker(args.reranker, maximo=args.maximo, estavel=args.estavel)
+        reranker = Reranker(
+            args.reranker, maximo=args.maximo, estavel=args.estavel, passagens=args.reranker_passagens,
+            passagens_artigo=args.passagens_artigo or PASSAGENS_ARTIGO, passagens_pergunta=args.passagens_pergunta or PASSAGENS_PERGUNTA,
+        )
     semantica = None
     if args.semantica:
         from rag.semantica import Semantica
@@ -303,7 +312,8 @@ def main(argv: list[str] | None = None) -> int:
     configuracao = {"reranker": args.reranker, "limiar": args.limiar, "llm": usar_llm, "reescrita": usar_reescrita,
                     **({"reranker_com_perguntas": True} if args.reranker_com_perguntas else {}),
                     **({"semantica": True} if args.semantica else {}), **({"maximo": args.maximo} if args.maximo != 30 else {}),
-                    **({"estavel": True} if args.estavel else {})}
+                    **({"estavel": True} if args.estavel else {}),
+                    **({"passagens": [reranker.passagens_artigo, reranker.passagens_pergunta]} if reranker is not None and reranker.passagens else {})}
     parcial = RESULTADOS / "privado" / f"{args.nome}-parcial.jsonl"
     cabecalho = {"configuracao": configuracao, "indice": str(args.indice) if args.indice else None,
                  "maximo": args.maximo, "candidatos": args.candidatos, "ids": [p["id"] for p in perguntas]}

@@ -1,0 +1,658 @@
+{
+ "gerado": "2026-11-20",
+ "export": {
+  "documentos_pt": 405830,
+  "ficheiro": "leis-portugal.sqlite"
+ },
+ "com_sitemap": true,
+ "com_indice": true,
+ "texto_em_varios_registos": {
+  "obras": 641,
+  "com_texto_atual_num_registo_em_vigor": 533,
+  "que_ja_nao_vigoram_com_copias_servidas": 44,
+  "copias_de_texto_que_ja_nao_vigora_servidas": 60,
+  "artigos_em_copias_de_texto_que_ja_nao_vigora": 4062,
+  "texto_atual_fora_do_registo_de_origem": 71,
+  "das_quais_a_origem_aponta_para_o_atual": 11,
+  "das_quais_a_origem_esta_no_indice_como_vigente": 38,
+  "das_quais_a_origem_tem_consolidacao_propria_mais_antiga": 28,
+  "das_quais_com_numeracao_diferente": 26,
+  "copias_desatualizadas_servidas": 665,
+  "artigos_em_copias_desatualizadas_servidas": 49513,
+  "obras_com_copias_desatualizadas_servidas": 472,
+  "no_indice": {
+   "copias_desatualizadas_com_pedacos_atuais": 700,
+   "pedacos_atuais_em_copias_desatualizadas": 62201,
+   "pedacos_atuais_nas_copias_atuais": 39305,
+   "pedacos_atuais_em_copias_de_texto_que_ja_nao_vigora": 4893
+  },
+  "copias_desatualizadas_servidas_por_tipo_de_registo": {
+   "consolidado DRE": 75,
+   "consolidado DRE (anexo com «republica» no nome)": 61,
+   "original": 522,
+   "consolidado leis-portugal": 7
+  },
+  "regra_das_redacoes_anteriores": {
+   "marcas": 536,
+   "registos_com_marcas": 493,
+   "de_fora": 345,
+   "de_fora_por_motivo": {
+    "sem prova de um texto posterior ao desta cópia (mesma data, ou só a data de publicação difere)": 200,
+    "o registo com o texto mais recente já não vigora: a regra não decide se o texto vigora": 140,
+    "a parte mistura o articulado de um diploma de alteração com o texto que ele cita: não se separam": 4,
+    "texto corrido com outro articulado a seguir: não se separa nos blocos do índice": 1
+   },
+   "copias_desatualizadas_servidas": {
+    "marcadas": 500,
+    "de_fora": 225,
+    "pedacos_atuais_das_marcadas": 48857,
+    "pedacos_atuais_das_de_fora": 15614
+   }
+  }
+ },
+ "texto_em_vigor": {
+  "universo": 9690,
+  "por_classe_e_tipo": {
+   "consolidado_dre": {
+    "lei": 473,
+    "lei-organica": 11,
+    "decreto-lei": 1556,
+    "decreto-regulamentar": 63,
+    "decreto-legislativo-regional": 236
+   },
+   "consolidado_leis_portugal": {
+    "lei": 48,
+    "lei-organica": 1,
+    "decreto-lei": 660,
+    "decreto-regulamentar": 60,
+    "decreto-legislativo-regional": 74
+   },
+   "texto_noutro_registo": {
+    "lei": 2,
+    "decreto-lei": 23,
+    "decreto-regulamentar": 1,
+    "decreto-legislativo-regional": 9
+   },
+   "original_e_o_texto_em_vigor": {
+    "lei": 592,
+    "lei-organica": 23,
+    "lei-constitucional": 7,
+    "decreto-lei": 2497,
+    "decreto-regulamentar": 273,
+    "decreto-legislativo-regional": 234
+   },
+   "alteracao_por_aplicar": {
+    "lei": 51,
+    "decreto-lei": 477,
+    "decreto-regulamentar": 77,
+    "decreto-legislativo-regional": 67
+   },
+   "alteracao_so_em_imagem": {
+    "lei": 1,
+    "decreto-lei": 14,
+    "decreto-regulamentar": 1
+   },
+   "nao_triado": {
+    "lei": 218,
+    "lei-organica": 17,
+    "decreto-lei": 375,
+    "decreto-regulamentar": 22,
+    "decreto-legislativo-regional": 53
+   },
+   "revogado_por_inteiro": {
+    "lei": 5,
+    "lei-organica": 2,
+    "decreto-lei": 119,
+    "decreto-regulamentar": 47,
+    "decreto-legislativo-regional": 44
+   },
+   "sem_texto": {
+    "lei": 216,
+    "decreto-lei": 1041
+   }
+  },
+  "por_classe": {
+   "original_e_o_texto_em_vigor": 3626,
+   "consolidado_dre": 2339,
+   "consolidado_leis_portugal": 843,
+   "nao_triado": 685,
+   "texto_noutro_registo": 35,
+   "alteracao_por_aplicar": 672,
+   "revogado_por_inteiro": 217,
+   "sem_texto": 1257,
+   "alteracao_so_em_imagem": 16
+  },
+  "por_classe_e_estado": {
+   "consolidado_dre": {
+    "in_force": 2296,
+    "partially_in_force": 43
+   },
+   "consolidado_leis_portugal": {
+    "in_force": 831,
+    "partially_in_force": 12
+   },
+   "texto_noutro_registo": {
+    "unknown": 2,
+    "in_force": 31,
+    "partially_in_force": 2
+   },
+   "original_e_o_texto_em_vigor": {
+    "in_force": 3550,
+    "partially_in_force": 76
+   },
+   "alteracao_por_aplicar": {
+    "in_force": 658,
+    "partially_in_force": 14
+   },
+   "alteracao_so_em_imagem": {
+    "in_force": 15,
+    "partially_in_force": 1
+   },
+   "nao_triado": {
+    "unknown": 685
+   },
+   "revogado_por_inteiro": {
+    "partially_in_force": 133,
+    "in_force": 84
+   },
+   "sem_texto": {
+    "in_force": 1247,
+    "unknown": 2,
+    "partially_in_force": 8
+   }
+  },
+  "por_fechar_citados": {
+   "≥1": 1036,
+   "≥10": 210,
+   "≥50": 27
+  },
+  "consolidados_em_dia": 2959,
+  "consolidados_com_alterador_posterior": 212,
+  "consolidados_dre_com_alterador_posterior": 69,
+  "consolidados_que_o_dre_mexeu": 34,
+  "originais_com_alterador_novo_desde_a_triagem": 0,
+  "marcas_de_vigencia_revista": {
+   "no_ficheiro": {
+    "nao_vigora": 166,
+    "por_confirmar": 57,
+    "regime_anterior": 194
+   },
+   "prioritarios": {
+    "nao_vigora": 29,
+    "por_confirmar": 11,
+    "regime_anterior": 4
+   },
+   "prioritarios_por_classe": {
+    "consolidado_leis_portugal": {
+     "nao_vigora": 29,
+     "por_confirmar": 11,
+     "regime_anterior": 4
+    }
+   },
+   "portarias": {
+    "regime_anterior": 189,
+    "nao_vigora": 84,
+    "por_confirmar": 35
+   },
+   "fora_do_universo": 65
+  },
+  "portarias": {
+   "universo": 15577,
+   "por_classe": {
+    "consolidado_dre": 1097,
+    "original_e_o_texto_em_vigor": 10258,
+    "nao_triado": 305,
+    "alteracao_por_aplicar": 1689,
+    "consolidado_leis_portugal": 1307,
+    "alteracao_so_em_imagem": 413,
+    "revogado_por_inteiro": 409,
+    "sem_texto": 99
+   },
+   "consolidados_em_dia": 1955,
+   "consolidados_por_atualizar": 449
+  },
+  "tetos_da_sessao_coordenadora": {
+   "lei": {
+    "teto": 867,
+    "medido": 867,
+    "texto_noutro_registo": 0,
+    "original_e_o_texto_em_vigor": 592,
+    "alteracao_por_aplicar": 51,
+    "alteracao_so_em_imagem": 1,
+    "nao_triado": 218,
+    "revogado_por_inteiro": 5
+   },
+   "decreto-lei": {
+    "teto": 3494,
+    "medido": 3494,
+    "texto_noutro_registo": 12,
+    "original_e_o_texto_em_vigor": 2497,
+    "alteracao_por_aplicar": 477,
+    "alteracao_so_em_imagem": 14,
+    "nao_triado": 375,
+    "revogado_por_inteiro": 119
+   },
+   "decreto-regulamentar": {
+    "teto": 421,
+    "medido": 421,
+    "texto_noutro_registo": 1,
+    "original_e_o_texto_em_vigor": 273,
+    "alteracao_por_aplicar": 77,
+    "alteracao_so_em_imagem": 1,
+    "nao_triado": 22,
+    "revogado_por_inteiro": 47
+   }
+  }
+ },
+ "vigencia_desconhecida": {
+  "total": 2449,
+  "por_tipo": {
+   "decreto-lei": 1172,
+   "decreto-legislativo-regional": 429,
+   "lei": 752,
+   "decreto-regulamentar": 65,
+   "lei-organica": 31
+  },
+  "com_texto": 2427,
+  "por_classe": {
+   "sem_indicio_de_revogacao": 1307,
+   "ato_de_alteracao": 926,
+   "revogado_segundo_a_relacao_do_dre": 20,
+   "temporario_ou_orcamental": 70,
+   "alterado_depois_e_sem_revogacao": 126
+  },
+  "por_classe_e_tipo": {
+   "revogado_segundo_a_relacao_do_dre": {
+    "lei": 4,
+    "decreto-lei": 14,
+    "lei-organica": 1,
+    "decreto-regulamentar": 1
+   },
+   "revogacao_lida_no_texto_de_outro_diploma": {},
+   "temporario_ou_orcamental": {
+    "lei": 17,
+    "decreto-legislativo-regional": 34,
+    "decreto-lei": 15,
+    "decreto-regulamentar": 2,
+    "lei-organica": 2
+   },
+   "ato_de_alteracao": {
+    "decreto-lei": 503,
+    "lei": 217,
+    "decreto-legislativo-regional": 165,
+    "lei-organica": 20,
+    "decreto-regulamentar": 21
+   },
+   "alterado_depois_e_sem_revogacao": {
+    "decreto-lei": 73,
+    "decreto-legislativo-regional": 9,
+    "decreto-regulamentar": 8,
+    "lei": 35,
+    "lei-organica": 1
+   },
+   "sem_indicio_de_revogacao": {
+    "decreto-lei": 567,
+    "decreto-legislativo-regional": 221,
+    "lei": 479,
+    "decreto-regulamentar": 33,
+    "lei-organica": 7
+   }
+  },
+  "de_2014_em_diante": 2418,
+  "com_amended_by": 689,
+  "citados_por_vigentes": {
+   "≥1": 842,
+   "≥10": 31,
+   "≥50": 5
+  },
+  "leis_e_decretos_leis_por_ano": {
+   "2014": {
+    "desconhecida": 93,
+    "total": 291
+   },
+   "2015": {
+    "desconhecida": 286,
+    "total": 436
+   },
+   "2016": {
+    "desconhecida": 96,
+    "total": 144
+   },
+   "2017": {
+    "desconhecida": 194,
+    "total": 295
+   },
+   "2018": {
+    "desconhecida": 139,
+    "total": 199
+   },
+   "2019": {
+    "desconhecida": 202,
+    "total": 306
+   },
+   "2020": {
+    "desconhecida": 103,
+    "total": 260
+   },
+   "2021": {
+    "desconhecida": 182,
+    "total": 296
+   },
+   "2022": {
+    "desconhecida": 112,
+    "total": 162
+   },
+   "2023": {
+    "desconhecida": 188,
+    "total": 256
+   },
+   "2024": {
+    "desconhecida": 131,
+    "total": 194
+   },
+   "2025": {
+    "desconhecida": 137,
+    "total": 244
+   },
+   "2026": {
+    "desconhecida": 31,
+    "total": 316
+   }
+  },
+  "leis_e_decretos_leis_antes_de_2010": 30,
+  "todos_os_tipos_1a_serie": {
+   "decreto": 36912,
+   "portaria": 23701,
+   "declaracao": 6312,
+   "resolucao-assembleia-republica": 2330,
+   "resolucao": 2125,
+   "resolucao-conselho-ministros": 1836,
+   "decreto-presidente-republica": 1604,
+   "decreto-lei": 1172,
+   "aviso": 1060,
+   "declaracao-retificacao": 792,
+   "lei": 752,
+   "resolucao-assembleia-legislativa-regional": 699
+  }
+ },
+ "dre_consolidados": {
+  "listados_no_sitemap": 6029,
+  "temos": 5664,
+  "em_falta": 365,
+  "em_falta_por_motivo": {
+   "sem_texto_na_fonte": 158,
+   "por_recolher": 207
+  },
+  "por_recolher_por_tipo": {
+   "despacho": 76,
+   "decreto-lei": 24,
+   "despacho-extrato": 24,
+   "aviso": 21,
+   "portaria": 21,
+   "louvor": 5,
+   "decreto-legislativo-regional": 4,
+   "decreto-regulamentar-regional": 4,
+   "lei": 4,
+   "resolucao-conselho-ministros": 4,
+   "aviso-extrato": 3,
+   "declaracao-retificacao": 2,
+   "declaracao": 2,
+   "decreto-presidente-republica": 2,
+   "diretiva": 2,
+   "regulamento": 2,
+   "declaracao-extrato": 1,
+   "deliberacao-extrato": 1,
+   "despacho-normativo": 1,
+   "edital": 1,
+   "louvor-extracto": 1,
+   "regulamento-extrato": 1,
+   "resolucao-assembleia-republica": 1
+  },
+  "por_recolher_prioritarios": 32,
+  "sem_texto_na_fonte_prioritarios": 43,
+  "mexidos_depois_da_recolha": 62,
+  "mexidos_por_tipo": {
+   "decreto-lei": 34,
+   "portaria": 19,
+   "decreto-legislativo-regional": 3,
+   "resolucao-conselho-ministros": 3,
+   "lei": 2,
+   "decreto-regulamentar-regional": 1
+  },
+  "so_nossos": 0,
+  "datas_de_recolha": {
+   "2026-10-22": 5663,
+   "2026-10-21": 1
+  },
+  "sitemap_lastmod_mais_recente": "2026-11-19"
+ },
+ "antigos_sem_texto": {
+  "total": 47154,
+  "por_tipo_estado_faixa": {
+   "carta-lei / in_force / antes de 1910": 1,
+   "decreto / in_force / 1910–1959": 859,
+   "decreto / in_force / 1997 ou depois": 2,
+   "decreto / in_force / antes de 1910": 79,
+   "decreto / partially_in_force / 1910–1959": 21,
+   "decreto / partially_in_force / antes de 1910": 1,
+   "decreto / unknown / 1910–1959": 36643,
+   "decreto-lei / in_force / 1910–1959": 7111,
+   "decreto-lei / partially_in_force / 1910–1959": 8,
+   "decreto-lei / unknown / 1910–1959": 11,
+   "lei / in_force / 1910–1959": 2394,
+   "lei / in_force / antes de 1910": 8,
+   "lei / partially_in_force / 1910–1959": 5,
+   "lei / unknown / 1910–1959": 11
+  },
+  "em_vigor_segundo_o_dre": {
+   "lei": 2407,
+   "decreto-lei": 7119,
+   "decreto": 962
+  },
+  "em_vigor_e_citados": {
+   "≥1": 1616,
+   "≥5": 407,
+   "≥20": 81,
+   "≥100": 18
+  },
+  "em_vigor_com_amended_by": 1832,
+  "prioritarios_com_texto_antes_de_1960": 38,
+  "com_texto_antes_de_1960": 53,
+  "mais_citados": [
+   {
+    "titulo": "Decreto n.º 16670",
+    "data": "1929-03-27",
+    "citado_por_vigentes": 1518,
+    "sumario": "Estabelece as bases a que deve obedecer a elaboração dos orçamentos de todos os Ministérios - Cria a Intendência Geral do Orçamento, por cujo intermédio o Minis"
+   },
+   {
+    "titulo": "Decreto-Lei n.º 25299",
+    "data": "1935-05-06",
+    "citado_por_vigentes": 1342,
+    "sumario": "Determina que, a partir de 1 de Janeiro de 1936, os anos económicos a que é referida a contabilidade pública coincidam com os anos civis"
+   },
+   {
+    "titulo": "Decreto-Lei n.º 41375",
+    "data": "1957-11-19",
+    "citado_por_vigentes": 1075,
+    "sumario": "Actualiza o regime legal das condições em que os serviços do Estado, incluindo os dotados de autonomia administrativa ou financeira, podem efectuar despesas com"
+   },
+   {
+    "titulo": "Decreto n.º 35770",
+    "data": "1946-07-29",
+    "citado_por_vigentes": 950,
+    "sumario": "Reúne num único diploma a legislação relativa a créditos e a reforços de verbas das tabelas de despesa dos orçamentos gerais das colónias"
+   },
+   {
+    "titulo": "Decreto n.º 40712",
+    "data": "1956-08-01",
+    "citado_por_vigentes": 764,
+    "sumario": "Insere disposições destinadas a regular a utilização e contabilização nas províncias ultramarinas dos recursos de empréstimos consignados a despesas públicas e "
+   },
+   {
+    "titulo": "Decreto-Lei n.º 24914",
+    "data": "1935-01-10",
+    "citado_por_vigentes": 528,
+    "sumario": "Harmoniza alguns preceitos da contabilidade pública com princípios inscritos na Constituïção Política sôbre a aprovação do Orçamento Geral do Estado"
+   },
+   {
+    "titulo": "Decreto-Lei n.º 23367",
+    "data": "1933-12-18",
+    "citado_por_vigentes": 473,
+    "sumario": "Determina que as verbas gerais orçamentais destinadas a despesas de carácter variável a inscrever nas tabelas de despesa das colónias, nos termos do decreto n.º"
+   },
+   {
+    "titulo": "Decreto n.º 18381",
+    "data": "1930-05-24",
+    "citado_por_vigentes": 385,
+    "sumario": "Reforma a contabilidade pública"
+   },
+   {
+    "titulo": "Decreto-Lei n.º 28326",
+    "data": "1937-12-27",
+    "citado_por_vigentes": 370,
+    "sumario": "Estabelece normas a que devem obedecer a elaboração e execução dos orçamentos de receita e de despesa do Conselho do Império Colonial, Instituto de Medicina Tro"
+   },
+   {
+    "titulo": "Lei n.º 2078",
+    "data": "1955-07-11",
+    "citado_por_vigentes": 232,
+    "sumario": "Promulga o regime a que ficam sujeitas as zonas confinantes com organizações ou instalações militares ou de interesse para a defesa nacional, de carácter perman"
+   },
+   {
+    "titulo": "Decreto-Lei n.º 41204",
+    "data": "1957-07-24",
+    "citado_por_vigentes": 203,
+    "sumario": "Insere disposições relativas às infracções contra a saúde pública e contra a economia nacional - Revoga determinadas disposições legislativas"
+   },
+   {
+    "titulo": "Decreto-Lei n.º 35395",
+    "data": "1945-12-26",
+    "citado_por_vigentes": 187,
+    "sumario": "Reorganiza a Junta das Missões Geográficas e de Investigações Coloniais"
+   },
+   {
+    "titulo": "Decreto-Lei n.º 41758",
+    "data": "1958-07-25",
+    "citado_por_vigentes": 156,
+    "sumario": "Dá nova redacção a vários artigos do Decreto-Lei n.º 40949, alterado pelo Decreto-Lei n.º 41144, que promulga o reajustamento dos serviços da aeronáutica milita"
+   },
+   {
+    "titulo": "Decreto n.º 41968",
+    "data": "1958-11-22",
+    "citado_por_vigentes": 141,
+    "sumario": "Insere disposições de carácter legislativo aplicáveis às províncias ultramarinas"
+   },
+   {
+    "titulo": "Decreto n.º 41026",
+    "data": "1957-03-09",
+    "citado_por_vigentes": 129,
+    "sumario": "Aprova, para entrarem em vigor em 1 de Abril de 1957, as instruções preliminares e o respectivo índice remissivo das pautas aduaneiras das províncias ultramarin"
+   },
+   {
+    "titulo": "Decreto n.º 42173",
+    "data": "1959-03-04",
+    "citado_por_vigentes": 122,
+    "sumario": "Estabelece as situações em que podem ser colocadas as unidades navais e define os tipos de lotações que devem ser adoptados nas unidades e serviços do Ministéri"
+   },
+   {
+    "titulo": "Decreto n.º 37050",
+    "data": "1948-09-08",
+    "citado_por_vigentes": 119,
+    "sumario": "Actualiza as disposições que regulam a emissão, fabrico e venda de selos e mais fórmulas de franquia postal destinados às colónias - Revoga o Decreto de 8 de Ou"
+   },
+   {
+    "titulo": "Lei n.º 2097",
+    "data": "1959-06-06",
+    "citado_por_vigentes": 116,
+    "sumario": "Promulga as bases do fomento piscícola nas águas interiores do País"
+   },
+   {
+    "titulo": "Lei n.º 1368",
+    "data": "1922-09-21",
+    "citado_por_vigentes": 94,
+    "sumario": "Remodela o regime tributário"
+   },
+   {
+    "titulo": "Decreto-Lei n.º 42046",
+    "data": "1958-12-23",
+    "citado_por_vigentes": 92,
+    "sumario": "Promulga o reajustamento das condições de remuneração dos servidores do Estado"
+   },
+   {
+    "titulo": "Decreto-Lei n.º 40949",
+    "data": "1956-12-28",
+    "citado_por_vigentes": 86,
+    "sumario": "Promulga o reajustamento dos serviços da Aeronáutica Militar - Revoga o Decreto-Lei n.º 38805"
+   },
+   {
+    "titulo": "Lei n.º 2094",
+    "data": "1958-11-25",
+    "citado_por_vigentes": 78,
+    "sumario": "Promulga as bases da organização do Plano de Fomento da metrópole e das províncias ultramarinas para o período compreendido entre 1 de Janeiro de 1959 e 31 de D"
+   },
+   {
+    "titulo": "Decreto n.º 40709",
+    "data": "1956-07-31",
+    "citado_por_vigentes": 74,
+    "sumario": "Fixa os vencimentos a abonar, a partir de 1 de Julho do corrente ano, aos funcionários públicos civis por verbas individualizadas nos orçamentos gerais das prov"
+   },
+   {
+    "titulo": "Decreto n.º 17881",
+    "data": "1930-01-15",
+    "citado_por_vigentes": 66,
+    "sumario": "Promulga várias disposições relativas à elaboração e execução dos orçamentos coloniais"
+   },
+   {
+    "titulo": "Decreto n.º 20985",
+    "data": "1932-03-07",
+    "citado_por_vigentes": 66,
+    "sumario": "Institue o Conselho Superior de Belas Artes e extingue os Conselhos de Arte e Arqueologia das três circunscrições"
+   }
+  ]
+ },
+ "diplomas_centrais": {
+  "total": 198,
+  "sem_problemas": 80,
+  "fora_do_acervo": 1,
+  "por_texto": {
+   "consolidado_dre": 179,
+   "nao_triado": 7,
+   "original_sem_alteracoes": 8,
+   "original_e_o_texto_em_vigor": 2,
+   "fora do acervo": 1,
+   "alteracao_por_aplicar": 1
+  },
+  "com_vigencia_desconhecida": 11,
+  "com_alterador_posterior": 0,
+  "que_o_dre_mexeu": 5,
+  "texto_noutro_registo": 6,
+  "texto_noutro_registo_sem_ligacao": 3,
+  "com_copias_de_outra_data_servidas": 92,
+  "pesquisa": {
+   "verificados": 39,
+   "artigo_certo": 17,
+   "registo_certo_outro_artigo": 8,
+   "registo_errado": 14
+  }
+ },
+ "fora_do_export": {
+  "export_por_prefixo": {
+   "eu:celex:": 55250,
+   "pt:dre:": 405830
+  },
+  "cnpd_em_data": 122225,
+  "tribunal_constitucional_em_data": 34753,
+  "acordos_coletivos": {
+   "II / metadados": 54,
+   "II / texto": 1411,
+   "sem série / metadados": 198,
+   "sem série / pdf": 480
+  }
+ },
+ "registos_duplicados": {
+  "diplomas": 10,
+  "com_um_consolidado_e_outro_original_vigente": 1,
+  "com_estados_diferentes": 9
+ }
+}

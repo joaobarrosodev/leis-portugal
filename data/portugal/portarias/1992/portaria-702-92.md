@@ -54,10 +54,12 @@ version_history:
     changes: []
   - date: '2002-08-22'
     amending: pt:dre:650316:por
-    amending_title: Portaria n.º 944/97; Portaria n.º 1071/2002
+    amending_title: Portaria n.º 944/97; Portaria n.º 1071/2002; Portaria n.º 939/94
     changes:
     - Altera Artigo unidades 6-6
     - Adita Artigo depois da unidade 6
+    - Altera anexo ou texto fora do articulado
+    - Altera planta
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/702/1992/07/09/p/dre/pt/html
@@ -84,7 +86,10 @@ provenance:
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:26:31Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 944/97; Portaria n.º
-    1071/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-702-92.alteracoes.json'
+    1071/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-702-92.alteracoes.json.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 939/94. Planta trocada pela do alterador que reescreveu o n.º 1.º (consolidacao/plantas_n1.py, verificada
+    às cegas): Portaria n.º 1071/2002.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -221,4 +226,6 @@ Assinada em 16 de Junho de 1992.
 
 Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/156b00/32633263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2002/08/192b00/59295930.pdf)
+
+> Alterado pelo/a [Portaria n.º 939/94](https://diariodarepublica.pt/dr/detalhe/portaria/939-1994-626259), publicado em 1994-10-24.

@@ -102,6 +102,30 @@
      "title": "Aviso n.º 2649/2011",
      "published": "2011-01-25",
      "dre_path": "/dr/detalhe/aviso/2649-2011-1859584"
+    },
+    {
+     "id": "pt:dre:2447935:por",
+     "title": "Aviso n.º 2251/2011",
+     "published": "2011-01-20",
+     "dre_path": "/dr/detalhe/aviso/2251-2011-2447935"
+    },
+    {
+     "id": "pt:dre:3179130:por",
+     "title": "Aviso n.º 2532/2011",
+     "published": "2011-01-24",
+     "dre_path": "/dr/detalhe/aviso/2532-2011-3179130"
+    },
+    {
+     "id": "pt:dre:1706431:por",
+     "title": "Aviso n.º 11781/2011",
+     "published": "2011-05-27",
+     "dre_path": "/dr/detalhe/aviso/11781-2011-1706431"
+    },
+    {
+     "id": "pt:dre:65990697:por",
+     "title": "Aviso n.º 14424/2014",
+     "published": "2014-12-26",
+     "dre_path": "/dr/detalhe/aviso/14424-2014-65990697"
     }
    ],
    "changes": [
@@ -111,7 +135,10 @@
     "Altera Artigo 49.º",
     "Altera Artigo 50.º",
     "Altera Artigo 52.º",
-    "Altera Artigo 53.º"
+    "Altera Artigo 53.º",
+    "Retifica Artigo 47",
+    "Retifica Artigo 48",
+    "Retifica Artigo 61"
    ],
    "fragments": [
     "1055a7ad97d6c012",
@@ -175,8 +202,8 @@
     "bd1c223a50635129",
     "2ba1b1e9c11cc232",
     "6cd7b8beb59032d4",
-    "18180ee43203d1b6",
-    "6d390ece077c498e",
+    "69857080ab909c4c",
+    "3a9f5b2449da4b7a",
     "c988248b3739ee41",
     "f5cc8ac81179ba52",
     "4f67c020491bdec7",
@@ -193,7 +220,7 @@
     "5ea2ac7d0dfd3451",
     "60d19ff137d5b6df",
     "b6ce1e5f6c0fe5fc",
-    "53353707d4a2399c"
+    "2527c5f780327628"
    ]
   }
  ],
@@ -848,17 +875,18 @@
    ],
    "markdown": "###### Artigo 42.º — Implantação de equipamento turístico e zonas turísticas\n\n1 - Admite-se sem prejuízo dos artigos seguintes, a construção de edifícios e estruturas de carácter turístico nas áreas rurais, desde que devidamente autorizadas pelas autoridades competentes e de acordo com os seguintes critérios:\n\na) São admitidos os seguintes tipos de empreendimentos turísticos: Estabelecimentos hoteleiros associados a temáticas específicas (saúde, desporto, actividades cinegéticas, da natureza, educativas, culturais, sociais, etc.); empreendimentos de TER, empreendimentos de turismo de habitação; parques de campismo e de caravanismo e empreendimentos de turismo da natureza nas tipologias previstas neste artigo.\n\nb) Os edifícios não podem ter mais que dois pisos acima da cota de soleira;\n\nc) O índice de impermeabilização do solo, o qual também pode variar em termos territoriais, em função de critérios objectivos estabelecidos em PDM, não pode ser superior a 0,2 (20 % da área total do prédio), excepto nos empreendimentos de turismo no espaço rural, nas modalidades de casas de campo e agro-turismo e nos empreendimentos de turismo de habitação;\n\nd) A capacidade máxima admitida para o hotel rural é de 200 camas;\n\ne) Os parques de campismo e caravanismo deverão responder aos seguintes requisitos complementares aos estabelecidos em legislação específica:\n\ni) Adaptação ao relevo existente de todas as componentes do parque de campismo: áreas para acampamento, vias, caminhos de peões, estacionamento e instalações complementares - de forma a garantir a drenagem natural, a predominância de superfícies permeáveis e a adequada integração no local;\n\nii) Organização criteriosa do espaço, equilibrando a privacidade e o sossego das instalações, com a animação e a segurança dos espaços de usos comum;\n\niii) Adopção de soluções ecologicamente sustentáveis e eficientes para as origens e redes de abastecimento, saneamento, energia, resíduos e acessibilidades;\n\niv) Utilização de materiais apropriados à sua adequada integração paisagística;\n\nv) Valorização de vistas, do território e da respectiva inserção paisagística.\n\n2 - Estas construções ficam sujeitas aos seguintes condicionamentos:\n\na) O índice máximo de construção é 0,01;\n\nb) A área máxima de implantação é 500 m2;\n\nc) A área máxima de impermeabilização do solo é de 10% da área da parcela com um máximo de 1000 m2;\n\nd) As construções não poderão exceder os dois pisos ou 6,5 m acima da cota natural do terreno.\n\n3 - Admite-se a construção de unidades turísticas de maior dimensão a título excepcional desde que estejam integradas em projectos turísticos aprovados pelas entidades competentes que tenham em especial o enquadramento paisagístico e uma adaptação harmoniosa à paisagem envolvente e às potencialidades locais.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
   },
-  "18180ee43203d1b6": {
+  "69857080ab909c4c": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 47.º — Área agrícola preferencial",
    "in_force_from": "2011-01-25",
    "changed_by": [
-    "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+    "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25.",
+    "Retificado pelo/a [Aviso n.º 2251/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2251-2011-2447935), publicado em 2011-01-20."
    ],
-   "markdown": "###### Artigo 47.º — Área agrícola preferencial\n\n1 - As áreas agrícolas preferenciais abrangem todos os solos incluídos na que são presentemente utilizados com fins agrícolas.\n\n2 - As condições a edificar estão sujeitas às normas legais aplicáveis e às seguintes prescrições:\n\na) O índice de construção aplicado à área da parcela 0,01;\n\nb) A área máxima de impermeabilização do solo é 2 % da área da parcela, com um máximo de 1000m2;\n\nc) O número máximo de pisos: 2;\n\nd) O abastecimento de água e a drenagem dos esgotos deverão ser assegurados por sistema autónomo, salvo se for precedido ao licenciamento da extensão das redes públicas a custas do interessado;\n\n3 - Sem prejuízo da legislação em vigor respeitante à RAN e do disposto no número anterior, nos espaços agrícolas é autorizada a construção de habitação própria do proprietário agricultor da exploração agrícola, de acordo com os seguintes critérios:\n\na) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nb) A área mínima do prédio é de 4ha;\n\nc) A superfície máxima de pavimentos da habitação: 200m2;\n\nd) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\n4 - É interdita a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+   "markdown": "###### Artigo 47.º — Área agrícola preferencial\n\n1 - As áreas agrícolas preferenciais abrangem todos os solos incluídos na RAN que são presentemente utilizados com fins agrícolas.\n\n2 - As condições a edificar estão sujeitas às normas legais aplicáveis e às seguintes prescrições:\n\na) O índice de construção aplicado à área da parcela 0,01;\n\nb) A área máxima de impermeabilização do solo é 2 % da área da parcela, com um máximo de 1000m2;\n\nc) O número máximo de pisos: 2;\n\nd) O abastecimento de água e a drenagem dos esgotos deverão ser assegurados por sistema autónomo, salvo se for precedido ao licenciamento da extensão das redes públicas a custas do interessado;\n\n3 - Sem prejuízo da legislação em vigor respeitante à RAN e do disposto no número anterior, nos espaços agrícolas é autorizada a construção de habitação própria do proprietário agricultor da exploração agrícola, de acordo com os seguintes critérios:\n\na) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nb) A área mínima do prédio é de 4ha;\n\nc) A superfície máxima de pavimentos da habitação: 200m2;\n\nd) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\n4 - É interdita a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25.\n\n> Retificado pelo/a [Aviso n.º 2251/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2251-2011-2447935), publicado em 2011-01-20."
   },
-  "6d390ece077c498e": {
+  "3a9f5b2449da4b7a": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 48.º — Área agrícola condicionada",
@@ -866,7 +894,7 @@
    "changed_by": [
     "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
    ],
-   "markdown": "###### Artigo 48.º — Área agrícola condicionada\n\n1 - Abrange solos incluídos na e solos com limitações ao uso agrícola intensivo, que se sobrepõem com áreas de máxima infiltração.\n\n2 - São áreas de extrema sensibilidade ecológica, pelo que as práticas agrícolas devem ser acauteladas, nomeadamente o uso excessivo de pesticidas e fertilizantes, de modo a garantir a qualidade da água infiltrada.\n\n3 - Deverá ter-se em consideração o uso actual do solo, nomeadamente o olival e o montado de sobro e azinho, podendo estes, no entanto, tomar formas de exploração mais intensivas.\n\n4 - Nas situações onde seja legalmente admissível a edificação nos termos da legislação em vigor, observar-se-ão os seguintes condicionamentos:\n\na) O índice máximo de construção é 0,002;\n\nb) A área máxima de pavimentos a edificar é 300m2;\n\nc) A área máxima de impermeabilização do solo é 2 % da área da parcela com um máximo de 1000m2;\n\nd) Sem prejuízo da legislação em vigor respeitante à RAN e do disposto nas alíneas anteriores, nos espaços agrícolas é autorizada a construção de habitação própria do proprietário agricultor da exploração agrícola, de acordo com os seguintes critérios:\n\ni) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nii) A área mínima do prédio é de 4ha;\n\niii) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\ne) Admitem-se empreendimentos turísticos isolados (ETI) aplicando-se a estes o disposto no artigo 42.º do presente regulamento.\n\n5 - Todos os efluentes domésticos, industriais ou pecuários deverão ser obrigatoriamente objecto de tratamento adequado, aprovado pelas entidades competentes, em instalação própria, sem o que não poderão ser lançados na rede de drenagem natural.\n\n6 - O sistema de recolha e tratamento dos efluentes deverá ter em atenção a sensibilidade da zona, tomando medidas de controlo contra a contaminação do solo e aquíferos.\n\n7 - São interditas quaisquer acções que criem riscos de contaminação dos aquíferos, nomeadamente:\n\na) A rega com águas residuais sem tratamento prévio;\n\nb) A utilização intensiva de biocidas e fertilizantes químicos ou orgânicos.\n\n8 - É interdita a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata.\n\n9 - As práticas agrícolas deverão ter em conta as características específicas desta área devendo ser preconizadas novas tecnologias, com utilização de menores quantidades de pesticidas e fertilizantes e com mobilizações menos drásticas do solo, nomeadamente utilizando técnicas de agricultura biológica e protecção integrada.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+   "markdown": "###### Artigo 48.º — Área agrícola condicionada\n\n1 - Abrange solos incluídos na RAN e solos com limitações ao uso agrícola intensivo, que se sobrepõem com áreas de máxima infiltração.\n\n2 - São áreas de extrema sensibilidade ecológica, pelo que as práticas agrícolas devem ser acauteladas, nomeadamente o uso excessivo de pesticidas e fertilizantes, de modo a garantir a qualidade da água infiltrada.\n\n3 - Deverá ter-se em consideração o uso actual do solo, nomeadamente o olival e o montado de sobro e azinho, podendo estes, no entanto, tomar formas de exploração mais intensivas.\n\n4 - Nas situações onde seja legalmente admissível a edificação nos termos da legislação em vigor, observar-se-ão os seguintes condicionamentos:\n\na) O índice máximo de construção é 0,002;\n\nb) A área máxima de pavimentos a edificar é 300m2;\n\nc) A área máxima de impermeabilização do solo é 2 % da área da parcela com um máximo de 1000m2;\n\nd) Sem prejuízo da legislação em vigor respeitante à RAN e do disposto nas alíneas anteriores, nos espaços agrícolas é autorizada a construção de habitação própria do proprietário agricultor da exploração agrícola, de acordo com os seguintes critérios:\n\ni) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nii) A área mínima do prédio é de 4ha;\n\niii) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\ne) Admitem-se empreendimentos turísticos isolados (ETI) aplicando-se a estes o disposto no artigo 42.º do presente regulamento.\n\n5 - Todos os efluentes domésticos, industriais ou pecuários deverão ser obrigatoriamente objecto de tratamento adequado, aprovado pelas entidades competentes, em instalação própria, sem o que não poderão ser lançados na rede de drenagem natural.\n\n6 - O sistema de recolha e tratamento dos efluentes deverá ter em atenção a sensibilidade da zona, tomando medidas de controlo contra a contaminação do solo e aquíferos.\n\n7 - São interditas quaisquer acções que criem riscos de contaminação dos aquíferos, nomeadamente:\n\na) A rega com águas residuais sem tratamento prévio;\n\nb) A utilização intensiva de biocidas e fertilizantes químicos ou orgânicos.\n\n8 - É interdita a instalação de lixeiras, aterros sanitários ou outras concentrações de resíduos sólidos, líquidos ou gasosos e parques de sucata.\n\n9 - As práticas agrícolas deverão ter em conta as características específicas desta área devendo ser preconizadas novas tecnologias, com utilização de menores quantidades de pesticidas e fertilizantes e com mobilizações menos drásticas do solo, nomeadamente utilizando técnicas de agricultura biológica e protecção integrada.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
   },
   "c988248b3739ee41": {
    "fragment_id": null,
@@ -907,6 +935,18 @@
     "Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
    ],
    "markdown": "###### Artigo 53.º — Sistema agro-silvo-pastoril\n\n1 - Os sistemas agro-silvo-pastoris são constituídos por solos que não possuem um elevado potencial agrícola ou florestal ou estando incultos e onde poderão ser instaladas pastagens, sistemas silvo-pastoris ou mesmo floresta, de forma a fixar a população ligada ao meio rural.\n\n2 - Abrange as áreas do concelho ocupadas por montados de sobro e azinho, que, encontrando-se protegidas por legislação, são a manter, de acordo com essa mesma legislação e com o disposto neste Regulamento.\n\n3 - Nestas áreas poderá ser instalada floresta de protecção desde que com projectos aprovados pelas entidades competentes, devendo, no entanto, privilegiar as espécies autóctones e evitar grandes extensões de povoamento florestal puro.\n\n4 - As edificações ficam sujeitas aos seguintes condicionamentos:\n\na) A altura máxima das construções, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, e de 6,5 m;\n\nb) Índice de construção: 0,04;\n\nc) Área máxima de pavimentos a edificar, incluindo anexos: 1000 m2;\n\n5 - Pode ser autorizada a construção isolada de edificações destinadas a habitação de acordo com os seguintes critérios:\n\na) O requerente é agricultor, nos termos regulamentares sectoriais, responsável pela exploração agrícola e proprietário do prédio onde se pretende localizar a habitação, facto que deve ser comprovado pelas entidades competentes;\n\nb) A área mínima do prédio é de 4ha;\n\nc) A área de construção máxima admitida é de 500m2;\n\nd) A altura máxima das edificações é de 6,5 m.\n\ne) Os prédios que constituem a exploração agrícola em que se localiza a edificação são inalienáveis durante o prazo de 10 anos subsequentes à construção, salvo por dívidas relacionadas com a aquisição de bens imóveis da exploração e de que esta seja garantia, ou por dívidas fiscais devendo esse ónus constar do registo predial da habitação. Este ónus não se aplica quando a transmissão de quaisquer direitos reais sobre esses prédios ocorrer entre agricultores e desde que se mantenha a afectação da edificação ao uso exclusivo da habitação para residência própria do adquirente - agricultor.\n\n6 - O abastecimento domiciliário de água e a drenagem de esgotos devem ser assegurados pela constituição de sistemas autónomos de promoção privada, não sendo imputável à autarquia a extensão das redes públicas.\n\n7 - Admitem-se empreendimentos turísticos isolados (ETI) aplicando-se a estes o disposto no artigo 42.º do presente regulamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Aviso n.º 2649/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2649-2011-1859584), publicado em 2011-01-25."
+  },
+  "2527c5f780327628": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Plano Geral de Urbanização de Sousel (PGUS)",
+   "in_force_from": "2011-01-25",
+   "changed_by": [
+    "Retificado pelo/a [Aviso n.º 11781/2011](https://diariodarepublica.pt/dr/detalhe/aviso/11781-2011-1706431), publicado em 2011-05-27.",
+    "Retificado pelo/a [Aviso n.º 14424/2014](https://diariodarepublica.pt/dr/detalhe/aviso/14424-2014-65990697), publicado em 2014-12-26.",
+    "Retificado pelo/a [Aviso n.º 2532/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2532-2011-3179130), publicado em 2011-01-24."
+   ],
+   "markdown": "###### Artigo 61.º — Plano Geral de Urbanização de Sousel (PGUS)\n\nFace à natureza das propostas expressas no presente Plano, relativamente ao aglomerado urbano de Sousel, considera-se o PGUS revogado.\n\n[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/1999/10/250b00/72277240.pdf)\n\nPlanta do perímetro urbano de Santo Amaro, corrigida\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/016000000/0488604886.pdf)\n\nPlanta do perímetro urbano de Cano, corrigida\n\n[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/103000000/2321723217.pdf)\n\nPlantas de ordenamento e condicionantes, corrigidas (perímetro urbano de Santo Amaro)\n\n26910 - [http://ssaigt.dgterritorio.pt/i/Planta_de_Ordenamento_26910_1.jpg](http://ssaigt.dgterritorio.pt/i/Planta_de_Ordenamento_26910_1.jpg)\n\n26910 - [http://ssaigt.dgterritorio.pt/i/Planta_de_Ordenamento_26910_2.jpg](http://ssaigt.dgterritorio.pt/i/Planta_de_Ordenamento_26910_2.jpg)\n\n26911 - [http://ssaigt.dgterritorio.pt/i/Planta_de_condicionantes_26911_3.jpg](http://ssaigt.dgterritorio.pt/i/Planta_de_condicionantes_26911_3.jpg)\n\n26911 - [http://ssaigt.dgterritorio.pt/i/Planta_de_condicionantes_26911_4.jpg](http://ssaigt.dgterritorio.pt/i/Planta_de_condicionantes_26911_4.jpg)\n\n> Retificado pelo/a [Aviso n.º 11781/2011](https://diariodarepublica.pt/dr/detalhe/aviso/11781-2011-1706431), publicado em 2011-05-27.\n\n> Retificado pelo/a [Aviso n.º 14424/2014](https://diariodarepublica.pt/dr/detalhe/aviso/14424-2014-65990697), publicado em 2014-12-26.\n\n> Retificado pelo/a [Aviso n.º 2532/2011](https://diariodarepublica.pt/dr/detalhe/aviso/2532-2011-3179130), publicado em 2011-01-24."
   }
  }
 }

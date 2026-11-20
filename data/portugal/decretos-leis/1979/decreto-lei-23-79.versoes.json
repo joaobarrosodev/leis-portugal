@@ -44,7 +44,7 @@
    ]
   },
   {
-   "date": "1979-05-19",
+   "date": "2003-03-07",
    "future": false,
    "acts": [
     {
@@ -58,6 +58,30 @@
      "title": "Declaração",
      "published": "1979-03-17",
      "dre_path": "/dr/detalhe/declaracao/1979-383238"
+    },
+    {
+     "id": "pt:dre:285766:por",
+     "title": "Portaria n.º 168/88",
+     "published": "1988-03-19",
+     "dre_path": "/dr/detalhe/portaria/168-1988-285766"
+    },
+    {
+     "id": "pt:dre:610447:por",
+     "title": "Portaria n.º 75/89",
+     "published": "1989-02-02",
+     "dre_path": "/dr/detalhe/portaria/75-1989-610447"
+    },
+    {
+     "id": "pt:dre:2129369:por",
+     "title": "Portaria n.º 287/2003 (2.ª série)",
+     "published": "2003-03-04",
+     "dre_path": "/dr/detalhe/portaria/287-2003-2129369"
+    },
+    {
+     "id": "pt:dre:3653934:por",
+     "title": "Portaria n.º 297/2003 (2.ª série)",
+     "published": "2003-03-07",
+     "dre_path": "/dr/detalhe/portaria/297-2003-3653934"
     }
    ],
    "changes": [
@@ -65,7 +89,8 @@
     "Altera Artigo 21.º",
     "Retifica texto",
     "Retifica Artigo 6",
-    "Retifica Artigo 25"
+    "Retifica Artigo 25",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "67bf2d8ab235740f",
@@ -97,7 +122,7 @@
     "301869192dc0101d",
     "57b82e426fd386b6",
     "135340f221ecd7ee",
-    "6e1daa3b7572cd7c"
+    "240c390e7a1c4c4e"
    ]
   }
  ],
@@ -346,7 +371,7 @@
    "fragment_id": null,
    "type": null,
    "heading": null,
-   "in_force_from": "1979-05-19",
+   "in_force_from": "2003-03-07",
    "changed_by": [
     "Retificado pelo/a [Declaração](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383238), publicado em 1979-03-17."
    ],
@@ -508,7 +533,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 20.º — (Primeiro provimento)",
-   "in_force_from": "1979-05-19",
+   "in_force_from": "2003-03-07",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 139/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1979-382641), publicado em 1979-05-19."
    ],
@@ -518,7 +543,7 @@
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 21.º — (Remunerações)",
-   "in_force_from": "1979-05-19",
+   "in_force_from": "2003-03-07",
    "changed_by": [
     "Alterado pelo/a [Decreto-Lei n.º 139/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1979-382641), publicado em 1979-05-19."
    ],
@@ -548,13 +573,18 @@
    "changed_by": [],
    "markdown": "###### Artigo 24.º — (Interpretação e integração)\n\nAs dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano, do Ministro dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a Administração Pública."
   },
-  "6e1daa3b7572cd7c": {
+  "240c390e7a1c4c4e": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 25.º — (Revogações e alterações)",
-   "in_force_from": null,
-   "changed_by": [],
-   "markdown": "###### Artigo 25.º — (Revogações e alterações)\n\n1 - Fica revogado o artigo 8.º do [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro.\n\n2 - Ficam revogadas as seguintes disposições do Decreto Regulamentar n.º 24/77, de 1 de Abril: alínea d) do n.º 2 do artigo 1.º, artigo 21.º, artigo 22.º, artigo 24.º e artigo 39.º\n\n3 - Os artigos 12.º e 20.º do Decreto Regulamentar n.º 24/77, de 1 de Abril, passam a ter as seguintes redacções:\n\nArt. 12.º - 1 - O conselho directivo é constituído por três membros, sendo o presidente, com a categoria de director, nomeado pelo Ministro dos Assuntos Sociais, e os dois vogais, com a categoria de subdirectores, nomeados pelo Secretário de Estado da Segurança Social.\n\n2 - Recaindo as nomeações em funcionários do Estado ou em empregados das instituições de segurança social, os cargos serão exercidos sem prejuízo de todos os direitos inerentes aos seus quadros de origem, incluindo os de acesso, considerando-se o período da comissão, para todos os efeitos, como serviço prestado nesse quadro.\n\n...\n\nArt. 20.º A estrutura orgânica e funcional dos serviços do Instituto será estabelecida de acordo com o estatuído no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 25 de Janeiro.\n\nVisto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.\n\nPromulgado em 3 de Fevereiro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa do pessoal, a que se refere o artigo 2.º do Decreto-Lei n.º 23/79\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/02/03800/02300234.pdf)\n\nManuel Jacinto Nunes - Acácio Manuel Pereira Magro."
+   "in_force_from": "2003-03-07",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 168/88](https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766), publicado em 1988-03-19.",
+    "Alterado pelo/a [Portaria n.º 287/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/287-2003-2129369), publicado em 2003-03-04.",
+    "Alterado pelo/a [Portaria n.º 297/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/297-2003-3653934), publicado em 2003-03-07.",
+    "Alterado pelo/a [Portaria n.º 75/89](https://diariodarepublica.pt/dr/detalhe/portaria/75-1989-610447), publicado em 1989-02-02."
+   ],
+   "markdown": "###### Artigo 25.º — (Revogações e alterações)\n\n1 - Fica revogado o artigo 8.º do [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro.\n\n2 - Ficam revogadas as seguintes disposições do Decreto Regulamentar n.º 24/77, de 1 de Abril: alínea d) do n.º 2 do artigo 1.º, artigo 21.º, artigo 22.º, artigo 24.º e artigo 39.º\n\n3 - Os artigos 12.º e 20.º do Decreto Regulamentar n.º 24/77, de 1 de Abril, passam a ter as seguintes redacções:\n\nArt. 12.º - 1 - O conselho directivo é constituído por três membros, sendo o presidente, com a categoria de director, nomeado pelo Ministro dos Assuntos Sociais, e os dois vogais, com a categoria de subdirectores, nomeados pelo Secretário de Estado da Segurança Social.\n\n2 - Recaindo as nomeações em funcionários do Estado ou em empregados das instituições de segurança social, os cargos serão exercidos sem prejuízo de todos os direitos inerentes aos seus quadros de origem, incluindo os de acesso, considerando-se o período da comissão, para todos os efeitos, como serviço prestado nesse quadro.\n\n...\n\nArt. 20.º A estrutura orgânica e funcional dos serviços do Instituto será estabelecida de acordo com o estatuído no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 25 de Janeiro.\n\nVisto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Acácio Manuel Pereira Magro.\n\nPromulgado em 3 de Fevereiro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa do pessoal, a que se refere o artigo 2.º do Decreto-Lei n.º 23/79\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/02/03800/02300234.pdf)\n\nAlteração ao quadro de pessoal (Portaria n.º 168/88, mapa I):\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/06600/11761197.pdf)\n\nAlteração ao quadro de pessoal (Portaria n.º 75/89):\n\n1.º É criado no quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, aprovado pelo [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411), de 14 de Fevereiro, com os ajustamentos efectuados pela [Portaria n.º 850/80](https://diariodarepublica.pt/dr/detalhe/portaria/850-1980-462792), de 22 de Outubro, um lugar de primeiro-assessor, letra B.\n\n2.º O lugar criado nos termos do número anterior será extinto quando vagar.\n\nAlteração ao quadro de pessoal (Portaria n.º 287/2003, 2.ª série):\n\n1.º E criado no quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, aprovado pelo [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411), de 14 de Fevereiro, com as alterações introduzidas pelo [Decreto-Lei n.º 268/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1991-687812), de 18 de Julho, e pelas portarias n.os [4/88](https://diariodarepublica.pt/dr/detalhe/portaria/4-1988-583457), de 6 de Janeiro, [168/88](https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766), de 19 de Março, [484/90](https://diariodarepublica.pt/dr/detalhe/portaria/484-1990-575323), de 29 de Junho, [441/93](https://diariodarepublica.pt/dr/detalhe/portaria/441-1993-665969), de 27 de Abril, e [1132/95](https://diariodarepublica.pt/dr/detalhe/portaria/1132-1995-564600), de 15 de Setembro, um lugar de assessor da carreira técnica superior, a extinguir quando vagar.\n\n2.º A criação do lugar referido no número anterior produz efeitos a partir de 9 de Julho de 2001.\n\nAlteração ao quadro de pessoal (Portaria n.º 297/2003, 2.ª série):\n\n1.º É criado no quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, aprovado pelo [Decreto-Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1979-393411), de 14 de Fevereiro, com as alterações introduzidas pelo [Decreto-Lei n.º 268/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1991-687812), de 18 de Julho, e pelas Portarias n.os [4/88](https://diariodarepublica.pt/dr/detalhe/portaria/4-1988-583457), de 6 de Janeiro, [168/88](https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766), de 19 de Março, [484/90](https://diariodarepublica.pt/dr/detalhe/portaria/484-1990-575323), de 29 de Junho, [441/93](https://diariodarepublica.pt/dr/detalhe/portaria/441-1993-665969), de 27 de Abril, e [1132/95](https://diariodarepublica.pt/dr/detalhe/portaria/1132-1995-564600), de 15 de Setembro, um lugar de assessor da carreira técnica superior, a extinguir quando vagar.\n\n2.º A criação do lugar referido no número anterior produz efeitos a partir de 9 de Julho de 2001.\n\n> Alterado pelo/a [Portaria n.º 168/88](https://diariodarepublica.pt/dr/detalhe/portaria/168-1988-285766), publicado em 1988-03-19.\n\n> Alterado pelo/a [Portaria n.º 287/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/287-2003-2129369), publicado em 2003-03-04.\n\n> Alterado pelo/a [Portaria n.º 297/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/297-2003-3653934), publicado em 2003-03-07.\n\n> Alterado pelo/a [Portaria n.º 75/89](https://diariodarepublica.pt/dr/detalhe/portaria/75-1989-610447), publicado em 1989-02-02.\n\nManuel Jacinto Nunes - Acácio Manuel Pereira Magro."
   }
  }
 }

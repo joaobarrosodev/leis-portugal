@@ -42,7 +42,7 @@ version:
   kind: consolidated
   label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: '1979-12-22'
+  consolidation_date: '1980-08-20'
 version_history:
   file: decreto-regulamentar-12-79.versoes.json
   count: 2
@@ -52,9 +52,9 @@ version_history:
     amending: null
     amending_title: null
     changes: []
-  - date: '1979-12-22'
+  - date: '1980-08-20'
     amending: pt:dre:365890:por
-    amending_title: Decreto-Lei n.º 500/79; Declaração
+    amending_title: Decreto-Lei n.º 500/79; Declaração; Portaria n.º 531/80
     changes:
     - Altera Artigo 63.º
     - Altera Artigo 109.º
@@ -73,6 +73,9 @@ version_history:
     - Retifica Artigo 86
     - Retifica texto
     - Retifica Artigo 140
+    - Retifica Artigo 51
+    - Retifica Artigo 53
+    - Altera anexo ou texto fora do articulado
 identifiers:
   celex: null
   eli: null
@@ -100,7 +103,10 @@ provenance:
   generated_at: '2026-10-23T05:59:32Z'
   notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 500/79. Método e
     verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1979/decreto-regulamentar-12-79.alteracoes.json.
-    Retificações aplicadas com um LLM, na ronda r3, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.'
+    Retificações aplicadas com um LLM, na ronda r3, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.
+    Retificações aplicadas com um LLM, na ronda r4, e verificadas às cegas (consolidacao/retificacoes_llm.py): Declaração.
+    Anexos e quadros de alteradores triados «sem alteração textual», aplicados com um LLM e verificados às cegas (consolidacao/anexos_alteradores.py):
+    Portaria n.º 531/80.'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1135,7 +1141,7 @@ d) Técnicos assessores, mediante provas de selecção, que têm de incluir um t
 
 a) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários de 2.ª classe, mediante provas de selecção de entre diplomados com os adequados cursos superiores;
 
-b) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários de 1.ª classe, de entre os de 2.ª na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;
+b) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários de 1.ª classe, de entre os de 2.ª classe com, pelo menos, três anos na categoria e média de classificação de serviço não inferior a 14 ou a Bom no último triénio;
 
 c) Engenheiros técnicos civis, engenheiros técnicos de electricidade e engenheiros técnicos agrários principais, mediante provas de selecção de entre os de 1.ª classe com, pelo menos, três anos de serviço na categoria, sendo as nomeações efectuadas segundo graduação estabelecida com base no disposto nos n.os 1 a 3 do artigo 70.º
 
@@ -1197,7 +1203,7 @@ f) Correspondentes de informática principais, mediante provas de selecção de 
 
 2 - Durante os primeiros seis meses após a nomeação, os funcionários nomeados para as categorias mencionadas nas alíneas a), d) e e) do número anterior consideram-se na situação de estagiários, sendo exonerados ou regressando aos lugares de origem, conforme os casos desde que não revelem aptidões para o exercício dos respectivos lugares.
 
-3 - Os liquidadores tributários que forem nomeados correspondentes de informática principais, nos termos da alínea e) do número anterior, exercerão o lugar em comissão de serviço sendo-lhes contado o tempo de serviço prestado no mesmo para efeitos de prestação de provas a que possam concorrer os liquidadores tributários de 1.ª classe.
+3 - Os liquidadores tributários que forem nomeados correspondentes de informática principais, nos termos da alínea f) do n.º 1, exercerão o lugar em comissão de serviço sendo-lhes contado o tempo de serviço prestado no mesmo para efeitos de prestação de provas a que possam concorrer os liquidadores tributários de 1.ª classe.
 
 ##### SUBSECÇÃO X — Pessoal administrativo
 
@@ -2048,6 +2054,12 @@ O Presidente da República, ANTÓNIO RAMALHO EANES.
 MAPA I
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08800/06080643.pdf)
+
+Alteração ao mapa I anexo ao presente decreto regulamentar (mapa II da Portaria n.º 531/80):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19100/22702280.pdf)
+
+> Alterado pelo/a [Portaria n.º 531/80](https://diariodarepublica.pt/dr/detalhe/portaria/531-1980-471142), publicado em 1980-08-20.
 
 MAPA II
 

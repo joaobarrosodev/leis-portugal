@@ -15,7 +15,7 @@
    ]
   },
   {
-   "date": "1979-06-02",
+   "date": "1982-02-03",
    "future": false,
    "acts": [
     {
@@ -23,10 +23,65 @@
      "title": "Decreto-Lei n.º 166/79",
      "published": "1979-06-02",
      "dre_path": "/dr/detalhe/decreto-lei/166-1979-383830"
+    },
+    {
+     "id": "pt:dre:370783:por",
+     "title": "Decreto-Lei n.º 368/79",
+     "published": "1979-09-04",
+     "dre_path": "/dr/detalhe/decreto-lei/368-1979-370783"
+    },
+    {
+     "id": "pt:dre:459886:por",
+     "title": "Portaria n.º 1048/80",
+     "published": "1980-12-11",
+     "dre_path": "/dr/detalhe/portaria/1048-1980-459886"
+    },
+    {
+     "id": "pt:dre:390375:por",
+     "title": "Portaria n.º 37/81",
+     "published": "1981-01-15",
+     "dre_path": "/dr/detalhe/portaria/37-1981-390375"
+    },
+    {
+     "id": "pt:dre:388061:por",
+     "title": "Portaria n.º 275/81",
+     "published": "1981-03-17",
+     "dre_path": "/dr/detalhe/portaria/275-1981-388061"
+    },
+    {
+     "id": "pt:dre:573914:por",
+     "title": "Portaria n.º 397/81",
+     "published": "1981-05-19",
+     "dre_path": "/dr/detalhe/portaria/397-1981-573914"
+    },
+    {
+     "id": "pt:dre:573919:por",
+     "title": "Portaria n.º 396/81",
+     "published": "1981-05-19",
+     "dre_path": "/dr/detalhe/portaria/396-1981-573919"
+    },
+    {
+     "id": "pt:dre:601486:por",
+     "title": "Portaria n.º 86/82",
+     "published": "1982-01-20",
+     "dre_path": "/dr/detalhe/portaria/86-1982-601486"
+    },
+    {
+     "id": "pt:dre:600709:por",
+     "title": "Portaria n.º 120/82",
+     "published": "1982-01-28",
+     "dre_path": "/dr/detalhe/portaria/120-1982-600709"
+    },
+    {
+     "id": "pt:dre:601099:por",
+     "title": "Portaria n.º 153/82",
+     "published": "1982-02-03",
+     "dre_path": "/dr/detalhe/portaria/153-1982-601099"
     }
    ],
    "changes": [
-    "Altera Artigo 9.º"
+    "Altera Artigo 9.º",
+    "Altera anexo ou texto fora do articulado"
    ],
    "fragments": [
     "ecab111074350655",
@@ -38,7 +93,7 @@
     "6a801785f3a81ca3",
     "7bed2dba7b40ffbc",
     "48ccff62e7d43b53",
-    "767c5da6b1b6421c"
+    "b7b617920476ed86"
    ]
   }
  ],
@@ -123,15 +178,24 @@
    "changed_by": [],
    "markdown": "###### Artigo 8.º\n\nO acréscimo de encargos resultante da execução do presente diploma será suportado, no corrente ano, pelas disponibilidades apuradas nas dotações respectivas, inscritas em «Remunerações certas e permanentes», no capítulo 02 do orçamento do Ministério da Educação e Cultura."
   },
-  "767c5da6b1b6421c": {
+  "b7b617920476ed86": {
    "fragment_id": null,
    "type": null,
    "heading": "Artigo 9.º",
-   "in_force_from": "1979-06-02",
+   "in_force_from": "1982-02-03",
    "changed_by": [
-    "Alterado pelo/a [Decreto-Lei n.º 166/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1979-383830), publicado em 1979-06-02."
+    "Alterado pelo/a [Decreto-Lei n.º 166/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1979-383830), publicado em 1979-06-02.",
+    "Alterado pelo/a [Decreto-Lei n.º 368/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1979-370783), publicado em 1979-09-04.",
+    "Alterado pelo/a [Portaria n.º 1048/80](https://diariodarepublica.pt/dr/detalhe/portaria/1048-1980-459886), publicado em 1980-12-11.",
+    "Alterado pelo/a [Portaria n.º 120/82](https://diariodarepublica.pt/dr/detalhe/portaria/120-1982-600709), publicado em 1982-01-28.",
+    "Alterado pelo/a [Portaria n.º 153/82](https://diariodarepublica.pt/dr/detalhe/portaria/153-1982-601099), publicado em 1982-02-03.",
+    "Alterado pelo/a [Portaria n.º 275/81](https://diariodarepublica.pt/dr/detalhe/portaria/275-1981-388061), publicado em 1981-03-17.",
+    "Alterado pelo/a [Portaria n.º 37/81](https://diariodarepublica.pt/dr/detalhe/portaria/37-1981-390375), publicado em 1981-01-15.",
+    "Alterado pelo/a [Portaria n.º 396/81](https://diariodarepublica.pt/dr/detalhe/portaria/396-1981-573919), publicado em 1981-05-19.",
+    "Alterado pelo/a [Portaria n.º 397/81](https://diariodarepublica.pt/dr/detalhe/portaria/397-1981-573914), publicado em 1981-05-19.",
+    "Alterado pelo/a [Portaria n.º 86/82](https://diariodarepublica.pt/dr/detalhe/portaria/86-1982-601486), publicado em 1982-01-20."
    ],
-   "markdown": "###### Artigo 9.º\n\nIndependentemente da data em que se verificar a colocação do pessoal nos novos quadros, nos termos do artigo 6.º do presente diploma, considera-se que, para efeitos de pagamento de remunerações e cálculo de antiguidades, as respectivas colocações se efectuaram em 1 de Janeiro de 1978.\n\n> Alterado pelo/a [Decreto-Lei n.º 166/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1979-383830), publicado em 1979-06-02.\n\nMário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 7 de Julho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa I a que se refere o artigo 1.º do Decreto n.º 69/78, desta data\n\n(Quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16101/00010003.pdf)\n\nMapa II a que se refere o artigo 2.º do Decreto n.º 69/78, desta data\n\n(Quadro único do pessoal administrativo, técnico auxiliar e auxiliar dos órgãos e serviços centrais do Ministério da Educação e Cultura.)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16101/00010003.pdf)\n\nO Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia."
+   "markdown": "###### Artigo 9.º\n\nIndependentemente da data em que se verificar a colocação do pessoal nos novos quadros, nos termos do artigo 6.º do presente diploma, considera-se que, para efeitos de pagamento de remunerações e cálculo de antiguidades, as respectivas colocações se efectuaram em 1 de Janeiro de 1978.\n\n> Alterado pelo/a [Decreto-Lei n.º 166/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1979-383830), publicado em 1979-06-02.\n\nMário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 7 de Julho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa I a que se refere o artigo 1.º do Decreto n.º 69/78, desta data\n\n(Quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16101/00010003.pdf)\n\nAlteração ao mapa I (Decreto-Lei n.º 368/79):\n\nArt. 5.º - 1 - Ao quadro do pessoal constante do mapa I anexo ao [Decreto-Lei n.º 581/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1973-412616) é acrescentado um lugar de chefe de divisão e outro de técnico principal, a acrescer ao mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.\n\nAlteração ao mapa I (Portaria n.º 1048/80):\n\nÉ criado no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Ciência, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, um lugar de assessor (letra B), a extinguir quando vagar.\n\nAlteração ao mapa I (Portaria n.º 37/81):\n\n1.º Ao quadro de pessoal dirigente e técnico constante do mapa I anexo ao [Decreto-Lei n.º 44/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1973-685007), de 12 de Fevereiro, são acrescentados dois lugares de subdirector-geral do Ensino Secundário, que se integram no quadro único a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho.\n\nAlteração ao mapa I (Portaria n.º 275/81):\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Ciência, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, um lugar de assessor, letra C, a extinguir quando vagar.\n\nAlteração ao mapa I (Portaria n.º 397/81):\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Ciência, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, 1 lugar de assessor, letra B, a extinguir quando vagar.\n\nAlteração ao mapa I (Portaria n.º 396/81):\n\nManda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, da Educação e Ciência e da Reforma Administrativa, aditar 1 lugar da categoria de chefe de repartição ao quadro único de pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Ciência, constante do mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, o qual se integra nesse quadro para todos os efeitos legais.\n\nAlteração ao mapa I (Portaria n.º 86/82):\n\nManda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e das Universidades e da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e das Universidades a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, 1 lugar de técnico superior principal, a extinguir quando vagar.\n\nAlteração ao mapa I (Portaria n.º 120/82):\n\nManda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Educação e das Universidades e da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e das Universidades, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, 1 lugar de assessor, letra B, a extinguir quando vagar.\n\nAlteração ao mapa I (Portaria n.º 153/82):\n\nManda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, pelo Ministro da Educação e das Universidades e pelo Secretário de Estado da Reforma Administrativa, criar no quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e das Universidades, a que se refere o mapa I anexo ao [Decreto n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto/69-1978-434579), de 15 de Julho, 2 lugares de técnico superior principal, a extinguir quando vagarem.\n\n> Alterado pelo/a [Decreto-Lei n.º 368/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1979-370783), publicado em 1979-09-04.\n\n> Alterado pelo/a [Portaria n.º 1048/80](https://diariodarepublica.pt/dr/detalhe/portaria/1048-1980-459886), publicado em 1980-12-11.\n\n> Alterado pelo/a [Portaria n.º 120/82](https://diariodarepublica.pt/dr/detalhe/portaria/120-1982-600709), publicado em 1982-01-28.\n\n> Alterado pelo/a [Portaria n.º 153/82](https://diariodarepublica.pt/dr/detalhe/portaria/153-1982-601099), publicado em 1982-02-03.\n\n> Alterado pelo/a [Portaria n.º 275/81](https://diariodarepublica.pt/dr/detalhe/portaria/275-1981-388061), publicado em 1981-03-17.\n\n> Alterado pelo/a [Portaria n.º 37/81](https://diariodarepublica.pt/dr/detalhe/portaria/37-1981-390375), publicado em 1981-01-15.\n\n> Alterado pelo/a [Portaria n.º 396/81](https://diariodarepublica.pt/dr/detalhe/portaria/396-1981-573919), publicado em 1981-05-19.\n\n> Alterado pelo/a [Portaria n.º 397/81](https://diariodarepublica.pt/dr/detalhe/portaria/397-1981-573914), publicado em 1981-05-19.\n\n> Alterado pelo/a [Portaria n.º 86/82](https://diariodarepublica.pt/dr/detalhe/portaria/86-1982-601486), publicado em 1982-01-20.\n\nMapa II a que se refere o artigo 2.º do Decreto n.º 69/78, desta data\n\n(Quadro único do pessoal administrativo, técnico auxiliar e auxiliar dos órgãos e serviços centrais do Ministério da Educação e Cultura.)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16101/00010003.pdf)\n\nO Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia."
   }
  }
 }
