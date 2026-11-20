@@ -708,6 +708,66 @@ A lista de `Pesquisa.codigos_principais()` no índice de uso de 16/11, revista �
 - **Feito (23/11):** os 327 lotes gerados e validados, com 11.389 artigos e 42.392 perguntas novas (3 a 5 por artigo, 3,7 em média) em 37 ficheiros de `rag/perguntas_artigo/`, um por bloco. Com o piloto, são 12.154 artigos e 45.470 perguntas. Um lote falhou a validação e foi repetido: o 280, por uma pergunta com «decreto». O lote 38 trazia o `documento` trocado pela parte, e esse campo foi corrigido a partir da entrada. A geração parou de 19 a 23/11 por falta de uso do plano. Ainda não está medido: as perguntas só entram no índice com `rag.indice --com-perguntas`.
 - `exportar --so-sem-perguntas` exporta só os artigos que ainda não têm perguntas. `estado --pasta P` diz que lotes já estão validados, para retomar depois de um corte. O `importar` só reescreve os blocos que vêm na pasta e guarda as linhas que já lá estavam.
 
+### 1.ª leva de diplomas avulsos (20/11/2026)
+
+É a medida 2 do diagnóstico das reais não encontradas. A lista é a de `reports/perguntas-por-artigo-avulsos-proposta.md`: 48 diplomas de saúde, segurança social, arrendamento e habitação, consumo e família.
+
+**Âmbito** (`AVULSOS` em `rag/perguntas_por_artigo.py`):
+- Os 48 diplomas entram só pelo articulado. Nos quatro em que o regime está num anexo, entra só o anexo: o Estatuto do Cuidador Informal, a proteção de crianças e jovens, a adoção e o processo tutelar cível.
+- Há um ficheiro por tema: `avulsos-saude`, `avulsos-seguranca-social`, `avulsos-habitacao`, `avulsos-consumo` e `avulsos-familia`. Para isso, `Bloco.ficheiro` deixa vários blocos partilhar um ficheiro.
+- No índice da fase 1 (20/11) são **1.825 artigos** em vigor e não revogados. A proposta, feita no índice de 19/11, contava 1.798: os DL 220/2006 e 91/2009 têm agora mais artigos lidos.
+
+**Os 127 «em falta»** do `rag.indice --com-perguntas` eram todos do bloco do Código Deontológico dos Contabilistas.
+- O que se lia como «Anexo II» da Lei n.º 139/2015 era a cópia de 2019 do Estatuto da Ordem. Na leitura da fase 1, essa cópia fica fechada a 2023-12-07, e o Estatuto em vigor está no Anexo I.
+- O bloco passa a ser o `estatuto-ordem-contabilistas`, sobre o Anexo I: **129 artigos com perguntas novas**, escritas sobre o texto em vigor. O ficheiro antigo, com 127 artigos e 476 perguntas, sai.
+- O Código Deontológico propriamente dito não tem artigos em vigor no índice. Fica como achado para a camada 1.
+
+**Geração e validação:** com o mesmo método dos lotes anteriores.
+- 56 lotes de 35 artigos, escritos por 28 subagentes Opus com dois lotes cada. Cada subagente leu só as regras e os seus lotes, sem acesso às perguntas de avaliação.
+- As regras (`REGRAS.md`) ganham as palavras do dia a dia das áreas novas. A validação passa também a recusar «regime jurídico», «lei de bases», «Estatuto do Cuidador» ou «do Utente», «Lei de Defesa do Consumidor» e outros nomes de leis avulsas. As 45.470 perguntas anteriores continuam todas válidas.
+- Os 56 lotes passaram a validação à primeira: **1.954 artigos e 7.256 perguntas** (3,7 por artigo, mediana de 14 palavras). Ficaram no commit antes de qualquer medição.
+- Ao todo, `rag/perguntas_artigo/` tem agora 13.981 artigos e 52.250 perguntas, em 45 ficheiros.
+- Um teste verifica que cada ficheiro e cada linha pertencem a um bloco do âmbito: um ficheiro órfão voltaria a dar «em falta».
+
+**Medição: só BM25 e referências, sem reranker nem LLM.**
+- «Antes» é uma cópia do índice publicado a 20/11 (fase 1), que já tem as perguntas dos códigos. «Depois» é essa cópia com o `juntar`: 13.981 artigos, 0 em falta.
+- Correram as 1.519 perguntas (o conjunto, as reais, as coloquiais, as da UE e as da 2.ª Série). Destas, 1.414 têm artigo esperado.
+- Resumos em `rag/resultados/pav-antes-bm25.json` e `pav-depois-bm25.json`. O detalhe pergunta a pergunta está em `privado/`.
+
+| Grupo | n | Em 1.º | Nos 8 primeiros | Nos 10 primeiros | Ganhos / perdas no 1.º | Ganhos / perdas nos 10 |
+|---|--:|--:|--:|--:|--:|--:|
+| **Reais do diagnóstico com o artigo nestes diplomas** | 18 | 2 → **8** | 4 → **16** | 4 → **17** | 6 / 0 | 13 / 0 |
+| Reais do diagnóstico, as outras 23 | 23 | 5 → 5 | 13 → 13 | 14 → 14 | 0 / 0 | 0 / 0 |
+| Reais com o artigo nestes diplomas (todas) | 63 | 17 → **35** | 37 → **58** | 39 → **62** | 20 / 2 | 23 / 0 |
+| Coloquiais com o artigo nestes diplomas | 63 | 6 → **30** | 14 → 50 | 14 → 50 | 24 / 0 | 36 / 0 |
+| Outros tipos com o artigo nestes diplomas | 44 | 12 → 14 | 24 → 34 | 26 → 37 | 2 / 0 | 14 / 3 |
+| Artigo fora destes diplomas | 1.244 | 819 → 812 | 1.100 → 1.097 | 1.118 → 1.116 | 0 / 7 | 0 / 2 |
+| **Todas com artigo esperado** | 1.414 | 854 → **891** | 1.175 → **1.239** | 1.197 → **1.265** | 46 / 9 | 73 / 5 |
+
+- **As 18 do diagnóstico** (grupo C2 e outras dos mesmos diplomas): o artigo certo chega aos 8 primeiros em 16, contra 4 antes, e ao 1.º lugar em 8. Fica de fora dos 10 primeiros uma só.
+- **Nas 281 reais:** em 1.º passa de 141 para 158 e nos 10 primeiros de 239 para 262. Nas coloquiais passa de 98 para 116 em 1.º e de 172 para 206 nos 10 primeiros.
+- Literais, temporais, revogadas e texto alterado ficam iguais.
+- **As 9 perdas no 1.º lugar** passam todas para o 2.º ou o 3.º lugar, menos uma, que vai para o 10.º. São do tipo que o piloto já tinha:
+  - em 2 casos, um artigo vizinho do mesmo diploma passa à frente (o testamento vital e o transporte de doentes);
+  - em 7 casos, um artigo avulso com perguntas passa à frente de um código (6 coloquiais e 1 real). Por exemplo, o subsídio parental do DL 91/2009 fica à frente da licença do Código do Trabalho, e o DL 160/2006 à frente do 1069.º do Código Civil.
+  - Algumas destas podem ser respostas igualmente válidas, mas não foram lidas uma a uma.
+
+**O que não está medido:**
+- **Não se mediu com o reranker nem o limiar.** O reranker da 0.1.1 não lê as perguntas: elas só mudam os candidatos que ele recebe. O diagnóstico estimou que, com o artigo nos candidatos, o reranker o punha nos 8 primeiros em 15 destas 18. Só 4 delas passavam o limiar 3. Por isso, o ganho em respostas certas é um teto, e fica para a medição da reconstrução.
+- **Risco de afinar para o teste,** como diz a proposta: 7 dos 48 diplomas são fonte de reais. As 63 reais com o artigo nestes diplomas são todas desses 7: 52 de saúde e 11 de pensões. A habitação, o consumo e a família não têm nenhuma real no conjunto, e por isso o efeito nesses temas não está medido.
+- As coloquiais partilham o vocabulário das perguntas geradas, como nas medições anteriores. O sinal mais seguro são as reais: +18 em 1.º nas 63, com 2 perdas.
+
+**Decisão: compensa uma 2.ª leva, pequena e dirigida** (cerca de 470 artigos, 14 lotes):
+- a Lei n.º 29/2013, da mediação (50 artigos): 3 das 41 reais do diagnóstico;
+- o Estatuto dos Benefícios Fiscais, só o anexo do DL 215/89 (93 artigos): 1 real e muitas dúvidas de contribuintes;
+- o anexo do DL 147/2003, dos bens em circulação (13 artigos): 1 real;
+- a Lei n.º 13/2003, do rendimento social de inserção: no índice da fase 1 já tem 39 artigos em vigor;
+- a Lei n.º 98/2009, dos acidentes de trabalho (188), o DL 265/99, do complemento por dependência (36), e a Lei n.º 32/2006, da procriação medicamente assistida (54).
+
+Com estes, as 5 reais C2 que esta leva não cobre ficam cobertas. Os outros diplomas da 2.ª leva da proposta podem ficar de fora: o Estatuto do SNS, as comunicações eletrónicas, o Mais Habitação, o alojamento local e o arrendamento acessível são sobretudo organização, regulação ou alteração de outras leis.
+
+Antes de mais levas, convém o conjunto de avaliação ganhar perguntas de consumo e família.
+
 **Compostas: 8 contra 16 artigos no contexto, com o LLM e os juízes** (19/11/2026). Mediram-se as 100 compostas, as 50 de premissa errada e as 80 sem resposta:
 - **Pesquisa:** uma só por pergunta, no índice de uso de 17/11 numa cópia fixa, com as consultas reescritas de `reescrita2`, o reranker cruzado com 30 candidatos e o limiar 1. O LLM recebe os 8 ou os 16 primeiros artigos da mesma consulta (`passo_llm exportar --contextos 8,16 --consultas PASTA`). Assim, o ruído do reranker não entra na comparação.
 - **LLM:** um subagente Opus por lote e por contexto, que só lê a entrada.

@@ -5,7 +5,8 @@ recebe as palavras do dia a dia. Aqui, sessões do Claude escrevem para cada art
 como as faria uma pessoa sem formação jurídica (regras em `rag/perguntas_artigo/REGRAS.md`), e
 `rag.indice.juntar_perguntas` junta-as aos termos do artigo em vigor. O piloto cobriu o Código do
 Trabalho e o arrendamento (`PILOTO`); desde 19/11 o âmbito tem também os outros códigos principais
-(`OUTROS_CODIGOS`). A medição está em `rag/README.md`, «Perguntas por artigo».
+(`OUTROS_CODIGOS`) e, desde 20/11, a 1.ª leva de diplomas avulsos (`AVULSOS`). A medição está em `rag/README.md`,
+«Perguntas por artigo».
 
     PYTHONPATH=src python -m rag.perguntas_por_artigo exportar --indice I --pasta P   # lotes para as sessões
     PYTHONPATH=src python -m rag.perguntas_por_artigo estado --pasta P                # lotes validados e por fazer
